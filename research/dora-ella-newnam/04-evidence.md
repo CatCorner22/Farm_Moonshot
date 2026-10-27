@@ -34,6 +34,12 @@
 | S048 | Debi Houser Kendrick, transcriber, “1870 Owsley County Kentucky Census — Travellers Rest,” hh 131/128 Elias NEWNAM. https://usgennet.org/usa/ky/county/owsley/census/1870/travrest.html accessed 27 Oct 2026. **Transcription only.** 7 Jun 1870: Elias 26, Mary 26, William D 11, Malissa D 6, Frances 3, Mary 1 — no Dora | D | Transcriber from NARA schedules |
 | S049 | 1910 Oklahoma Miracode (NARA T1273), N-550 Newman block, IA `soundex1910ok091` (vol. N-350 Sherman–N-630 Ollie), PDF pp. 738–822 rendered and read (typed cards; sample `sources/soundex/ok1910-n550-newman-sample.jpg`). **Images seen.** EasyOCR pass on pp. 738–822: no “Dora” with Kentucky birthplace; no Samuel+McCoy child set | D (negative) | Soundex clerks |
 | S050 | 1910 Texas Soundex (NARA T1277), N-550 Newman block, IA `soundex1910tx173` (vol. N-450 M.–N-635 D.), PDF pp. 4380–4680 rendered and read (handwritten cards; sample `sources/soundex/tx1910-n550-newman-dennis.jpg`). **Images seen.** EasyOCR pass: no Dora ~39 b. KY; no McCoy/Coy in Newman window | D (negative) | Soundex clerks |
+| S051 | Debi Houser Kendrick, transcriber, “1910 Owsley County Kentucky Buck Creek Dist.,” USGenNet, https://usgennet.org/usa/ky/county/owsley/census/1910/buck1910.html accessed 27 Oct 2026. **Transcription only.** hh 141-141: Elizabeth Newman 61 wd; Susan Angle 44 wd; Pearl Newman 15 gdau — **no Dora** | D | Transcriber from NARA schedules |
+| S052 | 1920 Kentucky Soundex (NARA M1563), S-342–S-352, IA `soundex1920ky144` PDF (5381 pp). **Derivative scan:** EasyOCR every 45 pages (entire reel); **zero** cards with both “Dora” and “Stone.” Prior 1910 KY S-350 Dora Stone rejects stand | D (negative vs P001 as Stone) | Soundex clerks |
+| S053 | 1920 Oklahoma Soundex (NARA M1582), N-400 J.A.–N-630 Willis, IA `soundex1920ok102` PDF (2368 pp). **Derivative scan:** EasyOCR every 35 pages; **zero** cards with “Dora” and “Newman/Newnam.” | D (negative vs P001) | Soundex clerks |
+| S054 | Debi Houser Kendrick, transcriber, “Will of Elizabeth Newnam,” Lee Co. KY Will Book 1 p. 303 (proved 14 May 1934), USGenNet, https://usgennet.org/usa/ky/county/lee/wills/enewnam.html accessed 27 Oct 2026. **Transcription only.** Bequeaths all property to granddaughter **Pearl Jackson** and husband Clyde Jackson | D | Court/clerk |
+| S055 | 1920 Tennessee Soundex (NARA M1588), N-450 R.F.–O-165 Dig L., IA `soundex1920tn107` PDF (2738 pp). **Derivative scan:** EasyOCR every 35 pages (entire reel); **zero** cards with both “Dora” and “Newman/Newnam.” | D (negative vs P001) | Soundex clerks |
+| S056 | 1920 Missouri Soundex (NARA M1571), N-500 L.–N-650 Willis M., IA `soundex1920mo176` PDF (5372 pp). **Derivative scan:** EasyOCR every 35 pages (entire reel); **zero** cards with both “Dora” and “Newman/Newnam.” | D (negative vs P001) | Soundex clerks |
 
 ## Claims
 | Claim ID | Claim (one fact) | Confidence | Evidence | Source IDs | Conflicts → 07 |
@@ -74,6 +80,11 @@
 | C050 | Tom A. Stone of 1920 Howell Twp is the only widowed T. A. Stone in 1920 AR Soundex | PROBABLE (prior exhaustive S-350 read) | S102–S105 | #4 |
 | C068 | Dora was not in Oklahoma Apr 1910 as an N-550 Newman/Newnam head or on sampled Newman family cards (~age 39, KY-born) in the statewide Miracode | PROBABLE (negative; Newman N-350–N-630 block read; not every continuation card) | S049 | |
 | C069 | Dora was not in Texas Apr 1910 as an N-550 Newman/Newnam individually carded person ~39 b. KY in the Newman surname window sampled | PROBABLE (negative; pp. 4380–4680 of tx173; D-given-name tab not separately isolated) | S050 | |
+| C070 | Dora was not in the same household as daughter Pearl in Owsley Co. Buck Creek, Apr 1910 (hh 141: Elizabeth Newman 61 wd, Susan Angle 44 wd, Pearl Newman 15 gdau only) | PROVEN (negative) | S051 S041 | |
+| C071 | Dora was not indexed in Kentucky Jan 1920 as **Dora Stone** anywhere on Soundex reel S-342–S-352 (statewide) | PROBABLE (negative; full-reel OCR scan; not every handwritten card read visually) | S052 S026 | |
+| C072 | Dora was not indexed in Oklahoma Jan 1920 as **Dora Newman/Newnam** on Soundex reel N-400–N-630 | PROBABLE (negative; full-reel OCR scan) | S053 | |
+| C073 | Dora was not indexed in Tennessee Jan 1920 as **Dora Newman/Newnam** on Soundex reel N-450–O-165 (`soundex1920tn107`) | PROBABLE (negative; full-reel OCR scan) | S055 | |
+| C074 | Dora was not indexed in Missouri Jan 1920 as **Dora Newman/Newnam** on Soundex reel N-500–N-650 (`soundex1920mo176`) | PROBABLE (negative; full-reel OCR scan) | S056 | |
 
 ## Same-person merges (Hard Rule 3)
 | Records merged | Identifier 1 | Identifier 2 | Contradictions? | Verdict |
