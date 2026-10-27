@@ -12,6 +12,7 @@ Place as it was *at the date*; modern equivalent in brackets. Flag impossibiliti
 | **Aug 1871 (day 11 POSSIBLE)** | 0 | **Dora born** | Lee Co., KY (PROBABLE) | C001 | S005 S004 S010 |
 | 11 Aug 1868 (DC) | — | Alternate birth — **inconsistent with 1880 age 8 and 1900 Aug 1871** | — | C002 | S003 | **DISPROVED as year** |
 | 5 Aug 1874 | ~3 | Sister Katty/Catharine registered | Lee Co., KY | C044 | S010b prior; S010 1880 age 6 |
+| **1 Jun 1880 (enum. 1 Jun)** | — | **Samuel Newnam, 11, son of John 69 & Mary 57** (PROBABLE = P002) | Lee Co. KY ED 59 sheet 1 dw 3 | C060 C061 | S040 |
 | **1 Jun 1880 (enum. 5 Jun)** | **8** | **In father’s house: Dora, dau., 8, KY** | Lee Co. KY ED 59 sheet 6 dw 46 | C003 | S010 |
 | 29 Dec 1881 | 10 | Sister Malissa D. m. Moses Estes at Elias Newnam’s | Lee Co., KY | C045 | S004 book |
 | 28 Feb 1884 | 12 | Sister Francis E. m. Millard F. Jones at Elias E. Newnam’s | Lee Co., KY | C046 | S004 book |
@@ -26,7 +27,7 @@ Place as it was *at the date*; modern equivalent in brackets. Flag impossibiliti
 | 5 Mar 1900 | 28 | BIL John Newnam d. consumption (context) | Lee Co. | — | S049 prior |
 | 24 Feb 1906 (WikiTree lore) | ~34 | Alleged death of Samuel | Lee Co.? | C012 | S030 | unproved; required before 1910 by Pearl’s boarding |
 | 29 Aug 1904 | — | Loose: S. P. Newnam 30 2nd m. Rosa L. Banks, Lee — **not merged** | Lee Co. | C013 | S014 prior |
-| 15 Apr 1910 | ~38 | **Not in KY N-550 as Dora or McCoy; not in AR N-550 as Dora, Coy, or McCoy** | unknown | C030 C031 | S020 S021 S022 |
+| 15 Apr 1910 | ~38 | **Not in KY/AR/MO N-550 as Dora ~39; not in TN N-550 D-block; Coy nil KY/AR/MO/TN-C; Samuel P not a KY N-550 head; two KY Dora Stones rejected** | unknown | C030 C031 C034–C039 | S020–S023 S025–S027 |
 | 1910 | — | Pearl, 15, gdau. of Elizabeth Newmann, Buck Creek, Owsley | Owsley Co., KY ED 169 hh 141 | C026 | S041 prior |
 | 11 Jul 1918 | ~46 | Mother Mary A. Newnam d. | Lee Co. (Brandenburg-Quillen) | C047 | S032 prior |
 | Jan 1920 | ~48 | **Not in AR as Dora Stone or Dora Newnam; not in Coy’s Danville house; not in transcribed 1920 Lee** | unknown | C032 | S102–S109 prior |

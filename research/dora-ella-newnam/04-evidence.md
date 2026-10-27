@@ -19,6 +19,11 @@
 | S078 | Cornelia Daniels & Elsie Cossey, Carter Cove Cemetery reading, 5 Feb 1993: “Newman, Dora” (no dates); “Stone, Thomas, 1845–1925.” **Prior; not re-fetched this session** | D | On-ground copyists |
 | S102–S105 | 1920 Arkansas Soundex S-350 / schedules Perry ED 75 sh 8B / Yell ED 182. **Prior session; do not redo** | O/D (prior) | Enumerator / Soundex clerk |
 | S024 | McCoy Newnam m. Letha Viola Sullivan, 18 Feb 1917, Ola, Yell Co. **Prior** | D/O (prior) | County clerk |
+| S023 | 1910 Missouri Miracode (NARA T1270), N-550, IA `soundex1910mo184`. Coy slot printed p. 710 (IA n711); Dora slot printed p. 714 (IA n715); McCoy slot printed p. 819 (IA n820). **Images seen.** SHA-256 n711 `88a3ba6395c0b3d9362ca1a50e606de5501cb57f2bfbc6e8f96dbb1a3a4aa06c`; n715 `54eea2a1b414dfc1a0abfbce944db9d277e6169231d923874c0d3c50f63eb682`; n820 `66873cf2300b19eee4fc9b7decc65b49fafdd74493f209ab1e5fbd45c2da4748` | D (negative + rejected hit) | Soundex clerks |
+| S025 | 1910 Tennessee Soundex (NARA T1272), N-550, IA `soundex1910tn073`. Handwritten family (10-636) and individual (10-637) cards. D-tab divider n2177 (Coy end). **Image seen.** SHA-256 `8f1dfd4e1e18345f8109c12107b8f42a51613d2de83164568b48936383cf7a62`. Adjacent cards n2170–n2210 and n2460–n2480 sampled | D (negative) | Soundex clerks |
+| S026 | 1910 Kentucky Miracode S-350, IA `soundex1910ky154` printed pp. 149–150 (IA n149–n150). Two Dora Stone cards, both rejected. **Images seen.** SHA-256 p149 `4a5550d93da110665fabd42d7ed795680024a5f1ce1a86c4b59b1dfc7ef387df`; p150 `8d689a5db6656d4b38ad5f592721e3ffe56722f35346b4bc4f5a8564b91bf11d` | D (negative vs P001) | Soundex clerks |
+| S027 | 1910 Kentucky Miracode N-550, S-given-names, IA `soundex1910ky124` printed pp. 342–343 (IA n343–n344). Six Samuel/Sam cards; none is P002. **Images seen.** SHA-256 p342 `85b2055e2edad60f823b76ea0264750a83ee8df7005e558dfe2e6ea412675979`; p343 `1e7b8ffa8d20b65236915b417e730b0cc452bc162a9828f2b8bd8630aceded9a` | D (negative) | Soundex clerks |
+| S040 | 1880 U.S. census, Lee Co., Kentucky, ED 59, sheet 1 (stamped p. 1 / SD 3 / p. 460), dwelling/family 3/3, enum. 1 Jun 1880 by James J. Hampton. NARA T9 reel 427; IA `10thcensus0427unit` n725. **Image seen.** SHA-256 `3ee18d923c7a2b59a9a063825323bc729f5da902cfd86cf44f04a6d11957ebcb`. File: `sources/census/1880-lee-ky-ed59-sheet1-p725-john-samuel.jpg` | O | Enumerator; household likely present |
 
 ## Claims
 | Claim ID | Claim (one fact) | Confidence | Evidence | Source IDs | Conflicts → 07 |
@@ -29,7 +34,7 @@
 | C004 | Parents were Elias T. Newnam and Mary (Smallwood) Newnam | PROBABLE (near GPS) | DC names them; 1880 child in their house; 1885 wedding at Doll Newnam’s; sisters’ records name same parents | S003 S010 S004 | #2 father birthplace |
 | C010 | m1 Samuel P. Newnam 10 Dec 1885 at Doll Newnam’s, Lee Co., both first marriages; bride 14 b. Lee; groom 16 b. Owsley | PROVEN as to fact of marriage (image of book not seen → citation is derivative) | Book 2 transcription; 1900 “m. 14 yrs” | S004 S005 | |
 | C011 | 1 Jun 1900: Samuel 30 & Dora E. 28, Sturgeon hh 67, 5 children in house, Dora 7/5 | PROVEN (transcription) | S005 | | |
-| C012 | Samuel died before April 1910 | PROBABLE | Pearl with paternal grandmother 1910; Elizabeth’s living-children drop; no 1910 Samuel N-550 card hunted statewide this session | S041 | #3 date |
+| C012 | Samuel died before April 1910 | PROBABLE | Pearl with paternal grandmother 1910; **statewide 1910 KY N-550 has no Samuel P ~41 of Lee/Owsley with Dora’s children** | S041 S027 | #3 date |
 | C014 | After Jan 1920 and before her 1926 death she married T. A. Stone, PROBABLE = Tom A. Stone (b. ~1858 MO, 1920 Perry Co. widower, d. 1925 Carter Cove) | PROBABLE | DC spouse; 1920 Soundex unique widowed T.A.; same cemetery | S003 S102–S105 S078 | #4 Tom’s birth year |
 | C015 | Died noon 23 Aug 1926 Ola, Yell Co., AR, apoplexy, cert. 1524, informant Coy Newnam | PROVEN (prior image; not re-opened) | S003 | | |
 | C016 | Buried 24 Aug 1926 Carters Chapel = Carter Cove; marker “Newman, Dora” | PROBABLE (certificate + same-yard name; no photo this session) | S003 S078 | | |
@@ -37,9 +42,17 @@
 | C020b | Names of those two children | SPECULATIVE | No baptism, stone, or register yet | — | |
 | C021–C025 | Living children 1900: McCoy Apr 1890; Mary M. Jun 1892/12 Jun 1893; Pearl Mar 1895/15 Mar 1895; Rissa May 1897; John H. Aug 1899 | PROVEN as 1900 household; birth dates PROBABLE | S005 S006 S007 | #5 Mary’s year |
 | C030 | Dora was not enumerated in Kentucky in Apr 1910 under Newman/Newnam (N-550), as head or as an individually carded person named Dora | PROVEN (negative, statewide Soundex) | S020 | | |
-| C031 | McCoy/Coy Newnam was not in KY or AR N-550 in Apr 1910 | PROVEN (negative, two states) | S021 S022 | | |
+| C031 | McCoy/Coy Newnam was not in KY, AR, or MO N-550 in Apr 1910 | PROVEN (negative, three states) | S021 S022 S023 | | |
 | C032 | Dora was not in Arkansas Apr 1910 as Newman/Newnam (N-550 Dora/Ella) | PROVEN (negative) | S022 | |
-| C033 | 1910 residence still unknown (MO/TN/other surname/missed) | POSSIBLE hypotheses | negatives + Coy’s 1917 AR marriage | | |
+| C033 | 1910 residence still unknown (other surname / wife-of-head / missed / another state) | POSSIBLE hypotheses | four-state Newman negatives + Coy’s 1917 AR marriage | S020–S023 S025 | |
+| C034 | Dora was not in Missouri Apr 1910 as Newman/Newnam N-550 Dora ~39 (head or individually carded) | PROVEN (negative) | S023 | |
+| C035 | Coy/McCoy Newnam was not in Missouri Apr 1910 as N-550 Coy or McCoy | PROVEN (negative) | S023 | |
+| C036 | Coy Newnam was not in Tennessee Apr 1910 as an N-550 C-given-name card (D-tab divider seen after Clifford) | PROVEN (negative) | S025 | |
+| C037 | Dora was not in Tennessee Apr 1910 as an N-550 D-given-name card ~39 (D-block through Elizabeth sampled) | PROBABLE (negative; 10-frame D-window sampled, not every continuation) | S025 | |
+| C038 | Dora was not indexed in Kentucky Apr 1910 as Dora Stone (S-350); two other Dora Stones exist and fail the same-person test | PROVEN (negative vs P001) | S026 | |
+| C039 | Samuel P. Newnam was not a Kentucky N-550 household head in Apr 1910 | PROVEN (negative) | S027 | |
+| C060 | On 1 Jun 1880 a Samuel Newnam, 11, son of John (69) and Mary (57), lived in Lee Co. ED 59 dw 3 | PROVEN as a census line | S040 | #9 which John/Mary |
+| C061 | That Samuel 11 is P002 (the 1885 groom / 1900 husband) | PROBABLE | Age 11 in Jun 1880 = b. ~1869, matching 1900 Jun 1869 and 1885 age 16; same ED as Dora; surname Newnam. A second Samuel ~13 in hh 11 is **not merged** | S040 S004 S005 | #9 | |
 | C050 | Tom A. Stone of 1920 Howell Twp is the only widowed T. A. Stone in 1920 AR Soundex | PROBABLE (prior exhaustive S-350 read) | S102–S105 | #4 |
 
 ## Same-person merges (Hard Rule 3)
@@ -50,3 +63,10 @@
 | 1904 S. P. Newnam × Rosa Banks + P002 Samuel | Name initials | Age 30 in 1904 vs Samuel b. 1869 (would be 35); 2nd marriage | **Not merged** |
 | Dora GD 12 Knox 1910 (Joseph Frye) + P001 | Given name Dora, surname Newman | Age 12 vs 38; Knox vs Lee/AR | **Rejected** |
 | Arnold Nehoman’s dau. Dora 13, Lee Co. **Arkansas** 1910 + P001 | Given name | Age 13; parents Arnold & Lucy; Lee AR not Lee KY | **Rejected** |
+| 1880 Samuel 11 (John 69 & Mary 57, ED 59 dw 3) + P002 | Age + surname + same district as 1885 wedding | Prior lore named mother **Elizabeth**; census wife is **Mary**. A second Samuel ~13 in hh 11 exists | **PROBABLE merge; mother-name conflict open (#9)** |
+| 1880 Samuel ~13 (hh 11, younger John) + P002 | Surname + district | Age 13 ⇒ ~18 in Dec 1885, not 16; different parents | **Not merged** |
+| 1910 Samuel E Newman 41 Muhlenberg (Lou E + five children) + P002 | Age 41 | Wife Lou E ≠ Dora; children Bertha/Luea/Joseph/Mary/Minnie ≠ Sturgeon set; Muhlenberg ≠ Lee | **Rejected** |
+| 1910 Dora L Neimann 48 IL, St Louis (Felsh MIL) + P001 | Given name Dora, N-550 | Age 48 vs ~39; b. Illinois; surname Neimann; MIL of Arthur E Felsh | **Rejected** |
+| 1910 Dora Stone 36 Black Louisville servant + P001 | Given name + Stone | Race Black vs white; servant; Louisville | **Rejected** |
+| 1910 Dora Stone 18 Wolfe Co. DL of Lucindy + P001 | Given name + Stone | Age 18 vs ~39 | **Rejected** |
+| Herbert Newman b. 8 Aug 1899 Lee Co. **VA** + P010 | Month/year | Virginia, parents Jerome & Hattie Hughes | **Rejected** |

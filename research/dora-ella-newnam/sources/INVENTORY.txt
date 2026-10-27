@@ -34,3 +34,39 @@
   sha256: ce48bc3c6a4021976aa480def6b1cc080aced108005d2861f8c144396039b36f
   format: JPEG photo, 1965x2217px
   check: full page + margins + verso? straight-on, no glare/flash, strokes several px tall? (paleography.md intake)
+/workspace/research/dora-ella-newnam/sources/census/1880-lee-ky-ed59-sheet1-p725-john-samuel.jpg  (762,095 bytes)
+  sha256: 3ee18d923c7a2b59a9a063825323bc729f5da902cfd86cf44f04a6d11957ebcb
+  format: JPEG photo, 1965x2205px
+  check: full page + margins + verso? straight-on, no glare/flash, strokes several px tall? (paleography.md intake)
+/workspace/research/dora-ella-newnam/sources/soundex/mo1910-n550-p710-cyrus-daisy-no-coy.jpg  (220,396 bytes)
+  sha256: 88a3ba6395c0b3d9362ca1a50e606de5501cb57f2bfbc6e8f96dbb1a3a4aa06c
+  format: JPEG photo, 1412x1694px
+  check: full page + margins + verso? straight-on, no glare/flash, strokes several px tall? (paleography.md intake)
+/workspace/research/dora-ella-newnam/sources/soundex/mo1910-n550-p714-dollie-dora-l-neimann.jpg  (216,229 bytes)
+  sha256: 54eea2a1b414dfc1a0abfbce944db9d277e6169231d923874c0d3c50f63eb682
+  format: JPEG photo, 1412x1694px
+  check: full page + margins + verso? straight-on, no glare/flash, strokes several px tall? (paleography.md intake)
+/workspace/research/dora-ella-newnam/sources/soundex/mo1910-n550-p819-may-michael-no-mccoy.jpg  (224,698 bytes)
+  sha256: 66873cf2300b19eee4fc9b7decc65b49fafdd74493f209ab1e5fbd45c2da4748
+  format: JPEG photo, 1412x1694px
+  check: full page + margins + verso? straight-on, no glare/flash, strokes several px tall? (paleography.md intake)
+/workspace/research/dora-ella-newnam/sources/soundex/ky1910-s350-p149-dora-servant-louisville.jpg  (177,534 bytes)
+  sha256: 4a5550d93da110665fabd42d7ed795680024a5f1ce1a86c4b59b1dfc7ef387df
+  format: JPEG photo, 1268x1804px
+  check: full page + margins + verso? straight-on, no glare/flash, strokes several px tall? (paleography.md intake)
+/workspace/research/dora-ella-newnam/sources/soundex/ky1910-s350-p150-dora-18-wolfe.jpg  (182,248 bytes)
+  sha256: 8d689a5db6656d4b38ad5f592721e3ffe56722f35346b4bc4f5a8564b91bf11d
+  format: JPEG photo, 1268x1804px
+  check: full page + margins + verso? straight-on, no glare/flash, strokes several px tall? (paleography.md intake)
+/workspace/research/dora-ella-newnam/sources/soundex/ky1910-n550-p342-sam-samuel-not-p002.jpg  (238,112 bytes)
+  sha256: 85b2055e2edad60f823b76ea0264750a83ee8df7005e558dfe2e6ea412675979
+  format: JPEG photo, 1378x1732px
+  check: full page + margins + verso? straight-on, no glare/flash, strokes several px tall? (paleography.md intake)
+/workspace/research/dora-ella-newnam/sources/soundex/ky1910-n550-p343-samuel-e-muhlenberg-not-p002.jpg  (235,093 bytes)
+  sha256: 1e7b8ffa8d20b65236915b417e730b0cc452bc162a9828f2b8bd8630aceded9a
+  format: JPEG photo, 1378x1732px
+  check: full page + margins + verso? straight-on, no glare/flash, strokes several px tall? (paleography.md intake)
+/workspace/research/dora-ella-newnam/sources/soundex/tn1910-n550-p2177-d-tab-no-coy.jpg  (145,296 bytes)
+  sha256: 8f1dfd4e1e18345f8109c12107b8f42a51613d2de83164568b48936383cf7a62
+  format: JPEG photo, 1718x1226px
+  check: full page + margins + verso? straight-on, no glare/flash, strokes several px tall? (paleography.md intake)
