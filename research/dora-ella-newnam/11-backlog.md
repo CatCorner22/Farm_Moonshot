@@ -27,7 +27,7 @@ Prioritised queue — work top to bottom. **Do not declare research complete whi
 | B019 | open | M | 1870 Travellers Rest Elias household (image) | Confirm Dora not yet born; siblings | H2 1868 birth already DISPROVED | L038 | Transcription seen; IA reel 494 image not isolated |
 | B020 | open | L | Carter Cove / yellcountyobits workaround | Newman, Dora; Stone, Thomas | C016 | | 403 last pass |
 | B021 | open | M | 1920 Lee Co. KY schedule: Burke C.B. / E.T. Newnam | Elias as grandfather in Beattyville; which daughter married Burke? | FAN of P004; may name Dora | L036 | Original schedule not yet pulled |
-| B022 | in_progress | H | Owsley / Lee pre-1911 deaths; Owsley 1912+ DC | Samuel P Newnam d. 1900–1911 | C012 | L053 L037 | 1910 Owsley + 1911 Owsley nil; Lee 1911 index nil |
+| B022 | in_progress | H | Owsley / Lee pre-1911 deaths; Lee 1912–1929 index | Samuel P Newnam d. 1900–1911 | C012 | L053 L054 L055 L037 | Owsley 1910–1919 DC nil Samuel; Lee 1911 + 1914 nil |
 | B028 | done | H | USGenNet Lee 1910 Proctor (+ Fincastle/NewVA grep) | Elias/Mary; Samuel/Dora absent? | FAN 1910 | L052 | Parents at Proctor ED 100 |
 | B029 | open | H | IA `13thcensus1910po478unit` ED 99 Sturgeon | Read schedule for Newnam under any surname | 1910 hole | | PDF local 287MB; OCR locator aborted |
 | B023 | open | M | 1920 KY N-550 remainder: Ella, wife-on-husband-card | Ella Newman; scan continuation cards | 1920 hole | L035 | Direct given-name Dora closed |
