@@ -8,3 +8,4 @@ genotype*.txt raw-dna*
 sources/soundex-scan/
 # Full-reel ED-99 bracket renders (keep curated proof under sources/census/)
 sources/census/ed99-scan/
+sources/census/sturgeon-ed99-p*.jpg
