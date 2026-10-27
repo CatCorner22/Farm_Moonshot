@@ -3,3 +3,6 @@ sources/dna/
 *.cram *.bam *.sam *.vcf *.vcf.gz *.bcf *.fastq *.fastq.gz *.fq *.fq.gz
 *AncestryDNA*.txt *23andMe*.txt
 genotype*.txt raw-dna*
+
+# Session OCR scratch renders (keep curated copies under sources/soundex/)
+sources/soundex-scan/
