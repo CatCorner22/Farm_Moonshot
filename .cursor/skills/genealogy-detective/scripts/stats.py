@@ -24,11 +24,16 @@ def risk(a):
     print(f"Group A: {a.a_events}/{a.a_n} = {pa*scale:.1f} per 1,000  (95% CI {loa*scale:.1f}–{hia*scale:.1f})")
     print(f"Baseline B: {a.b_events}/{a.b_n} = {pb*scale:.1f} per 1,000  (95% CI {lob*scale:.1f}–{hib*scale:.1f})")
     print(f"ABSOLUTE difference: {ard*scale:+.1f} per 1,000 ({ard*100:+.2f} percentage points; 95% CI {aci[0]*scale:+.1f} to {aci[1]*scale:+.1f})")
-    print(f"RELATIVE risk: {fmt(rr,2)}x (95% CI {fmt(rci[0],2)}–{fmt(rci[1],2)})  |  relative change {(rr-1)*100:+.0f}%")
+    if a.a_events == 0 or a.b_events == 0:
+        print(f"RELATIVE risk: {fmt(rr,2)}x — a zero-event group makes the RR unstable and its CI non-computable; lead with the absolute difference and counts")
+    else:
+        print(f"RELATIVE risk: {fmt(rr,2)}x (95% CI {fmt(rci[0],2)}–{fmt(rci[1],2)})  |  relative change {(rr-1)*100:+.0f}%")
     if ard: print(f"NNT/NNH: {abs(1/ard):.0f} people for one outcome to differ ({'NNH' if ard>0 else 'NNT'})")
-    print("Sentence: \"Baseline {} in 1,000; group {} in 1,000 — {} extra per 1,000 (absolute), {}x relative. Groups, not individual destiny.\"".format(round(pb*scale,1), round(pa*scale,1), round(abs(ard)*scale,1), fmt(rr,2)))
+    word = "extra" if ard > 0 else ("fewer" if ard < 0 else "no difference in")
+    print("Sentence: \"Baseline {} in 1,000; group {} in 1,000 — {} {} per 1,000 (absolute), {}x relative. Groups, not individual destiny.\"".format(round(pb*scale,1), round(pa*scale,1), round(abs(ard)*scale,1), word, fmt(rr,2)))
 
 def proportion(a):
+    if a.n <= 0 or a.k < 0 or a.k > a.n: print("ERROR: need 0 <= k <= n and n > 0"); return
     p, lo, hi = wilson(a.k, a.n)
     print(f"{a.k}/{a.n} = {p*100:.1f}%  (Wilson 95% CI {lo*100:.1f}%–{hi*100:.1f}%)  — always cite the counts with the %")
 

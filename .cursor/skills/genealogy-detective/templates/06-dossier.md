@@ -4,7 +4,9 @@
 - **Research question:**
 - **Answer + confidence:**
 - **GPS gates:** exhaustive ☐ · citations ☐ · analysis ☐ · conflicts resolved ☐ · written conclusion ☐
+- **Backlog open count:** (from `11-backlog.md`; must be 0 for "research complete" unless user deferred items)
 - **Open items:**
+- **Next session starts with:** (B### from backlog handoff)
 - **Last updated:**
 
 ## Answer to the research question (≤10 lines, confidence-labelled)
