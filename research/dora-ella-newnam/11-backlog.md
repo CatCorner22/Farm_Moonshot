@@ -10,8 +10,8 @@ Prioritised queue — work top to bottom. **Do not declare research complete whi
 | B002 | done | H | 1870 U.S. census Lee KY Sturgeon | John Newnam + Samuel ~1; wife Mary vs Elizabeth | H1 Samuel parentage; conflict #9 | L031 L032 | **Original image** hh 19 John 50 + Elizabeth 25 + Samuel 1 |
 | B003 | done | H | 1880 ED 59 sh 1 nativity (enhance copy) | Mary’s birthplace on dw 3; John’s parents | conflict #9 | L033 | Mary KY/KY/KY; John father N.C. |
 | B004 | nil | H | IA `soundex1920ky117` N-550 | Dora / Ella Newman ~48 KY | 1920 hole | L035 | Three Dora cards, all wrong age; E-tab after Dougal |
-| B005 | open | H | IA `soundex1920ky144` S-350 | Dora Stone ~48 KY | m2 already by Jan 1920? | L040 | Reel mapped S-342/S-343; Dora slot unread |
-| B006 | open | H | IA `soundex1920tn107` N-550 | Dora Newman ~48 TN | 1920 hole | L040 | Coarse map only (N-450 / O-163); N-550 not isolated |
+| B005 | done | H | IA `soundex1920ky144` S-350 | Dora Stone ~48 KY | m2 already by Jan 1920? | L047 | Full reel OCR nil Dora Stone |
+| B006 | done | H | IA `soundex1920tn107` N-550 | Dora Newman ~48 TN | 1920 hole | L049 | Full reel OCR nil Dora+Newman |
 | B007 | open | M | 1910 Bollinger Co. MO Liberty Twp | Letha Sullivan household — any Newnam boarder/MIL | H4 Missouri FAN | | Coy’s future in-laws; no free 1910 Bollinger transcription |
 | B008 | open | H | IA 1910 KY N-550 children | John H ~10 / Pearl already found / Rissa / Mary M as GD or servant | Household pass | | Reverse via children |
 | B009 | nil | M | USGenNet Lee deaths 1911–1929 “N” | Samuel P / Dora / John Newnam deaths | C012 | L037 | No Samuel/Dora/John H in Lee 1911–1929; try Owsley + pre-1911 |
@@ -22,7 +22,7 @@ Prioritised queue — work top to bottom. **Do not declare research complete whi
 | B014 | open | L | Link Mays; Rev. J. E. Dunagin 1880/1900 Lee | FAN of 1885 wedding | FAN pass | | |
 | B015 | open | M | Mary Magdalene Bunch marriage/death (deceased-only) | NUMIDENT already; marriage index KY/TN | Children | | |
 | B016 | open | L | Rissie Newnam TN DC (deceased-only indexes) | Stamper/Pelfrey; skip living hits | Children | | |
-| B017 | open | M | 1920 AR already done; 1920 MO N-550 Dora | Dora Newman MO 1920 | 1920 hole | | |
+| B017 | done | M | IA `soundex1920mo176` N-500–N-650 | Dora Newman MO 1920 | 1920 hole | L050 | Full reel OCR nil Dora+Newman |
 | B018 | open | L | Lee Co. land grantor/grantee Newnam 1885–1911 | Samuel/Dora deeds | Asset pass | | May be on-site |
 | B019 | open | M | 1870 Travellers Rest Elias household (image) | Confirm Dora not yet born; siblings | H2 1868 birth already DISPROVED | L038 | Transcription seen; IA reel 494 image not isolated |
 | B020 | open | L | Carter Cove / yellcountyobits workaround | Newman, Dora; Stone, Thomas | C016 | | 403 last pass |
@@ -31,12 +31,12 @@ Prioritised queue — work top to bottom. **Do not declare research complete whi
 | B023 | open | M | 1920 KY N-550 remainder: Ella, wife-on-husband-card | Ella Newman; scan continuation cards | 1920 hole | L035 | Direct given-name Dora closed |
 | B024 | done | H | IA `soundex1910ok091` N-550 Newman | Dora ~39 OK Apr 1910 | H4 OK | L042 | Newman block read; nil for P001 |
 | B025 | done | H | IA `soundex1910tx173` N-550 Newman | Dora ~39 TX Apr 1910 | H4 TX | L043 | Newman window read; nil for P001 |
-| B026 | open | H | IA `soundex1920ok102` N-550 | Dora Newman ~48 OK Jan 1920 | 1920 hole | | Reel mapped M1582 101–102 |
-| B027 | open | M | USGenNet Owsley 1910 Buck Creek dist. | Elizabeth + Pearl hh; Dora present? | 1910 hole | L044 | Booneville dist. 1 index nil Newman |
+| B026 | done | H | IA `soundex1920ok102` N-550 | Dora Newman ~48 OK Jan 1920 | 1920 hole | L048 | Full reel OCR nil |
+| B027 | done | H | USGenNet Owsley 1910 Buck Creek dist. | Elizabeth + Pearl hh; Dora present? | 1910 hole | L045 | Dora not in hh 141 |
 
 ## Session handoff
-- **Last closed:** 27 Oct 2026 · **Stopped after:** pass 4 OK+TX 1910 Newman (L042–L044)
-- **Next session starts with:** B005 — 1920 KY S-350 Dora Stone; then B026 1920 OK N-550
+- **Last closed:** 27 Oct 2026 · **Stopped after:** pass 6 (L049–L050): TN + MO 1920 Newman nil; pass 5 (L045–L048) same branch
+- **Next session starts with:** Lee 1910 Sturgeon ED 99 (NARA T624-478 image); B008 children 1910; Tom A. Stone 1925 DC (user)
 
 ## Escalation log (brick walls — step number from exhaustive-research.md)
 | Date | Wall | Steps 1–8 attempted | Outcome |
