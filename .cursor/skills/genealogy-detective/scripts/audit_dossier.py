@@ -13,7 +13,7 @@ def main():
     root = Path(sys.argv[1])
     if not root.is_dir(): print(f"ERROR: not a directory: {root}"); return 2
     txt = {}
-    for f in ["00-intake.md","01-plan.md","02-log.md","03-timeline.md","04-evidence.md","05-dna.md","06-dossier.md","07-conflicts.md","08-transcriptions.md","09-statistics.md","10-visuals.md"]:
+    for f in ["00-intake.md","01-plan.md","02-log.md","03-timeline.md","04-evidence.md","05-dna.md","06-dossier.md","07-conflicts.md","08-transcriptions.md","09-statistics.md","10-visuals.md","11-backlog.md"]:
         p = root / f; txt[f] = p.read_text(errors="replace") if p.exists() else ""
         need(bool(txt[f].strip()), f"missing/empty: {f}")
     intake, dossier, evid = txt["00-intake.md"], txt["06-dossier.md"], txt["04-evidence.md"]
@@ -33,7 +33,8 @@ def main():
     need("☐" not in dossier.split("GPS gates")[1].split("\n")[0] if "GPS gates" in dossier else False,
          "06-dossier: GPS gate still unchecked (☐) — cannot claim PROVEN")
     # Negative searches logged?
-    need(re.search(r"\bnil\b|nothing found|no record found", txt["02-log.md"], re.I) is not None,
+    log_rows = [l for l in txt["02-log.md"].splitlines() if re.match(r"\|\s*L\d+", l) and "found / nil / n-a" not in l]
+    need(any(re.search(r"\bnil\b|nothing found|no record found", l, re.I) for l in log_rows),
          "02-log: no negative (nil) searches logged — exhaustiveness not demonstrated", WARN)
     # Unresolved conflicts?
     conf = [l for l in txt["07-conflicts.md"].splitlines() if l.startswith("|") and "open" in l.lower()]
@@ -56,7 +57,10 @@ def main():
     # Visuals registered?
     if "V001" in txt["10-visuals.md"].replace("V001 |", "") and "Claim IDs" not in txt["10-visuals.md"]:
         WARN.append("10-visuals: visuals present but claim-ID column missing")
-    print(f"Auditing {root}\nclaims: {len(claims)} | dna files: {len(dna_rows)}")
+    backlog = txt.get("11-backlog.md", "")
+    open_bl = [l for l in backlog.splitlines() if re.match(r"\|\s*B\d+", l) and re.search(r"\bopen\b|\bin_progress\b", l, re.I)]
+    if open_bl: FAIL.append(f"11-backlog: {len(open_bl)} open/in_progress item(s) — exhaustive research incomplete (exhaustive-research.md)")
+    print(f"Auditing {root}\nclaims: {len(claims)} | dna files: {len(dna_rows)} | backlog open: {len(open_bl)}")
     for m in FAIL: print(f"FAIL: {m}")
     for m in WARN: print(f"WARN: {m}")
     print("RESULT:", "FAIL — fix or waive in writing before claiming PROVEN" if FAIL else "no FAILs (heuristics only — GPS still requires human judgement)")

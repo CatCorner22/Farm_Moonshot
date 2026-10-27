@@ -21,5 +21,9 @@
 ## Sensitivity flags
 - [ ] Possibly-living people in scope · [ ] NPE/adoption/donor conception possible · [ ] Enslavement/Indigenous/cultural sensitivities · [ ] Health info in DNA files (do not analyse)
 
+## Research intensity
+- [ ] Standard · [ ] **Intensive / exhaustive / don't stop** (enables full nine-pass sweep + two-ring FAN — see exhaustive-research.md)
+- User narrowed scope in writing? (if yes, quote it — otherwise completion contract applies)
+
 ## Accounts/access the user has
 FamilySearch / Ancestry / MyHeritage / Findmypast / newspapers / other: (has / does not have — never ask for passwords)
