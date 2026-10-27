@@ -1,0 +1,29 @@
+{
+  "persons": [
+    {"id": "P001", "name": "Dora Ella Newnam Stone", "birth": "1871", "death": "1926", "sex": "F"},
+    {"id": "P002", "name": "Samuel P. Newnam", "birth": "1869", "death": "c.1906–10", "sex": "M"},
+    {"id": "P003", "name": "T. A. Stone (prob. Tom A.)", "birth": "c.1858", "death": "1925", "sex": "M"},
+    {"id": "P004", "name": "Elias T. Newnam", "birth": "1842", "death": "1932", "sex": "M"},
+    {"id": "P005", "name": "Mary Ann Smallwood", "birth": "1842", "death": "1918", "sex": "F"},
+    {"id": "P006", "name": "McCoy Newnam", "birth": "1890", "death": "aft.1930", "sex": "M"},
+    {"id": "P007", "name": "Mary M. Newnam Bunch", "birth": "1893", "death": "?", "sex": "F"},
+    {"id": "P008", "name": "Pearl P. Newnam Jackson", "birth": "1895", "death": "1980", "sex": "F"},
+    {"id": "P009", "name": "Rissa Newnam", "birth": "1897", "death": "?", "sex": "F"},
+    {"id": "P010", "name": "John H. Newnam", "birth": "1899", "death": "?", "sex": "M"},
+    {"id": "P011", "name": "William D. Newnam", "birth": "c.1859", "death": "1939", "sex": "M"},
+    {"id": "P012", "name": "Malissa D. Newnam Estes", "birth": "c.1864", "death": "1957", "sex": "F"},
+    {"id": "P013", "name": "Francis E. Newnam Jones", "birth": "c.1866", "death": "?", "sex": "F"},
+    {"id": "P014", "name": "Mary L. Newnam", "birth": "c.1870", "death": "?", "sex": "F"},
+    {"id": "P015", "name": "Catharine Newnam", "birth": "1874", "death": "?", "sex": "F"},
+    {"id": "P016", "name": "Henry Harrison Newnam", "birth": "?", "death": "?", "sex": "M"},
+    {"id": "P017", "name": "Millie Tincher", "birth": "?", "death": "?", "sex": "F"},
+    {"id": "UNK1", "name": "Unknown child (d. bef. 1900)", "birth": "c.1886–89", "death": "bef.1900", "sex": "?"},
+    {"id": "UNK2", "name": "Unknown child (d. bef. 1900)", "birth": "c.1886–94", "death": "bef.1900", "sex": "?"}
+  ],
+  "unions": [
+    {"id": "U0", "partners": ["P016", "P017"], "children": ["P004"], "type": "biological", "confidence": "PROBABLE"},
+    {"id": "U1", "partners": ["P004", "P005"], "children": ["P011", "P012", "P013", "P014", "P001", "P015"], "type": "biological", "confidence": "PROBABLE"},
+    {"id": "U2", "partners": ["P001", "P002"], "children": ["UNK1", "P006", "P007", "P008", "P009", "P010", "UNK2"], "type": "biological", "confidence": "PROVEN"},
+    {"id": "U3", "partners": ["P001", "P003"], "children": [], "type": "biological", "confidence": "PROBABLE"}
+  ]
+}

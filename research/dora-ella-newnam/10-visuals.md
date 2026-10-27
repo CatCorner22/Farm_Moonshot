@@ -1,0 +1,19 @@
+# 10 — Visuals register: Dora Ella Newnam Stone
+
+Files live in `visuals/` (data file + generated SVG + alt-text table together).
+
+| Visual ID | File (delivery/working) | One-sentence claim | Claim IDs | Data file + generation command | Uncertainty shown how? | Checklist pass |
+|---|---|---|---|---|---|---|
+| V001 | visuals/pedigree-dora.svg (delivery) | Dora’s ancestral couple as documented: Elias × Mary; grandparents PROBABLE | C004 | family.json · `make_pedigree.py family.json --root P001 --mode pedigree --generations 3 -o visuals/pedigree-dora.svg` | Dashed links = PROBABLE | ☑ |
+| V002 | visuals/descendant-dora.svg (delivery) | Dora’s two unions and seven children (two unnamed dead before 1900) | C010 C014 C020–C025 | family.json · `--mode descendant --generations 2` | Dashed m2; unnamed children labelled Unknown | ☑ |
+| V003 | visuals/timeline-dora.svg (delivery) | Lifespans of Dora and the people who locate her | C001 C003 C010 C015 | visuals/life.csv · `make_charts.py timeline …` | Samuel’s bar ends 1910 = “dead by,” not a death date | ☑ |
+
+## Family trees (family-tree-design.md)
+- Root person & direction: P001 Dora; pedigree (ancestors) and descendant (children). Cut-off: grandparents and children only (no living great-grandchildren).
+- Legend on chart ☑ (script: solid PROVEN / dashed PROBABLE-POSSIBLE / dotted SPECULATIVE)
+- Biological vs documentary lines distinct ☑ · Living redacted ☑ (no post-1926 births) · Person IDs on boxes ☑
+
+## Alt text
+- V001: Pedigree chart of Dora Ella Newnam Stone (1871–1926) showing parents Elias T. Newnam (1842–1932) and Mary Ann Smallwood (1842–1918) with dashed probable links, and a further probable generation Henry Harrison Newnam and Millie Tincher.
+- V002: Descendant chart of Dora with first husband Samuel P. Newnam (proven) and five named children plus two unnamed children who died before 1900, and a dashed second union with T. A. Stone (probable, no children).
+- V003: Horizontal lifespan bars from 1842 to 1980 for Dora, her parents, Samuel (bar ends 1910 as latest bound), probable T. A. Stone, Pearl, and McCoy, with event dots at marriage, 1900 census, and death.

@@ -1,0 +1,36 @@
+/workspace/research/dora-ella-newnam/sources/soundex/ar1910-n550-p678-cora-dan-no-coy.jpg  (259,625 bytes)
+  sha256: 225f3ecbc448e35724a3d35b62c8fa7ebbd300dc0c76c417f9a8ebc02f49dd84
+  format: JPEG photo, 1380x1736px
+  check: full page + margins + verso? straight-on, no glare/flash, strokes several px tall? (paleography.md intake)
+/workspace/research/dora-ella-newnam/sources/soundex/ar1910-n550-p679-dan-e-no-dora.jpg  (268,404 bytes)
+  sha256: bb4b1c68654a931f3a95d157819fed947b5f1a4ed30d084ce749368442f44b6f
+  format: JPEG photo, 1380x1736px
+  check: full page + margins + verso? straight-on, no glare/flash, strokes several px tall? (paleography.md intake)
+/workspace/research/dora-ella-newnam/sources/soundex/ar1910-n550-p701-mary-mayme.jpg  (247,973 bytes)
+  sha256: c44cf09759c0a30f39a9565692e40e98562837fbf10261637725dbc9a67a6290
+  format: JPEG photo, 1380x1736px
+  check: full page + margins + verso? straight-on, no glare/flash, strokes several px tall? (paleography.md intake)
+/workspace/research/dora-ella-newnam/sources/soundex/ar1910-n550-p702-melvina-no-mccoy.jpg  (257,425 bytes)
+  sha256: 22f906feb7c28dba7432f4dd95aa730281b73f3ef34b3220723948449e368c56
+  format: JPEG photo, 1380x1736px
+  check: full page + margins + verso? straight-on, no glare/flash, strokes several px tall? (paleography.md intake)
+/workspace/research/dora-ella-newnam/sources/soundex/ky1880-n550-p2105-elias-newnam.jpg  (92,442 bytes)
+  sha256: ba11d7beb4a9771b19d16ea60c5bb31ce51ca8c74013bcf516f96061b77a4415
+  format: JPEG photo, 1162x816px
+  check: full page + margins + verso? straight-on, no glare/flash, strokes several px tall? (paleography.md intake)
+/workspace/research/dora-ella-newnam/sources/soundex/ky1880-n550-p2106-elias-continuation-dora.jpg  (90,968 bytes)
+  sha256: 3fd163617fc3f2a936e8b4c4a958541d5fcdb0274c5ca8f588f29967dc2604c0
+  format: JPEG photo, 1170x816px
+  check: full page + margins + verso? straight-on, no glare/flash, strokes several px tall? (paleography.md intake)
+/workspace/research/dora-ella-newnam/sources/soundex/ky1910-n550-p329-millie-missouri.jpg  (243,015 bytes)
+  sha256: b3e581c3adefdc2b3148296922b01c524b269e3317212900b18e3f12607eac5e
+  format: JPEG photo, 1378x1732px
+  check: full page + margins + verso? straight-on, no glare/flash, strokes several px tall? (paleography.md intake)
+/workspace/research/dora-ella-newnam/sources/soundex/ky1910-n550-p330-monroe-no-mccoy.jpg  (239,727 bytes)
+  sha256: 20dee77ae63d7aea80efa1dc63559732ab81fd01f158b05dcc91cabda1234696
+  format: JPEG photo, 1378x1732px
+  check: full page + margins + verso? straight-on, no glare/flash, strokes several px tall? (paleography.md intake)
+/workspace/research/dora-ella-newnam/sources/census/1880-lee-ky-ed59-sheet6-p730-elias-dora.jpg  (887,753 bytes)
+  sha256: ce48bc3c6a4021976aa480def6b1cc080aced108005d2861f8c144396039b36f
+  format: JPEG photo, 1965x2217px
+  check: full page + margins + verso? straight-on, no glare/flash, strokes several px tall? (paleography.md intake)
