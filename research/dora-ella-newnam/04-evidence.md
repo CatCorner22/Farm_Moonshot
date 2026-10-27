@@ -45,6 +45,8 @@
 | S059 | USGenNet Lee 1910 Fincastle (`fincastle.html`) and New Virginia (`newva.html`) transcriptions accessed 27 Oct 2026. **Transcription only.** Full-text search: **no** Newman/Newnam surname | D (negative in those EDs) | Transcriber |
 | S060 | USGenNet Owsley Co. vital statistics deaths 1910 (`1910.html`) and death certificates 1911 (`1911dc.html`) accessed 27 Oct 2026. **Transcription only.** **No** Newnam/Newman decedent matching Samuel P. | D (negative) | Transcriber / KY DC |
 | S061 | USGenNet Lee County death certificate extracts 1914 (`1914.html`) accessed 27 Oct 2026. **Transcription only.** Iva May Withers, 14, d. 30 Jan 1914, residence **Sturgeon, Lee Co.**; no Samuel P. Newnam entry in file | D (negative Samuel) / FAN (Sturgeon) | Transcriber |
+| S062 | 1910 U.S. census, Lee Co., Kentucky, ED **100** Proctor precinct, sheet **7A** (not ED 99 Sturgeon). NARA T624-478; IA `13thcensus1910po478unit` **PDF page 499**. **Image seen.** Header: Lee / Proctor / ED 100 / enum. 29 Apr 1910 J. Brice Thomas. Contrasts with Ancestry citation “Sturgeon ED 99, image 499, page 9B” (Pleasant Rader) — **commercial image numbers index within the Lee County portion of the roll, not IA PDF page numbers** | D (method) | Enumerator |
+| S063 | USGenNet Lee County death certificate extract pages 1912, 1915–1916, 1918–1929 accessed 27 Oct 2026. **Transcription only.** Year files searched for Newman/Newnam; **no** Samuel P., Dora, or John H. adult entries in files opened | D (negative, extends S047) | Transcriber |
 
 ## Claims
 | Claim ID | Claim (one fact) | Confidence | Evidence | Source IDs | Conflicts → 07 |
@@ -96,6 +98,8 @@
 | C078 | Samuel P. Newnam does not appear among Owsley Co. deaths extracted for 1910 or in the 1911 Owsley DC table read this pass | PROBABLE (negative for those lists) | S060 S047 | #3 |
 | C079 | Samuel P. Newnam does not appear in the USGenNet Lee County 1914 death-certificate extract set searched this pass | PROBABLE (negative for that file) | S061 | #3 |
 | C080 | Sturgeon Mag. Dist. / precinct was still a named residence in Lee County in January 1914 (Withers child, Sturgeon) | PROVEN (one line) | S061 | FAN |
+| C081 | Samuel P. Newnam does not appear in USGenNet Lee County death-certificate extracts for 1912 or 1915–1929 (files read this pass) | PROBABLE (negative; not every year 1913/1917 may have online extracts) | S063 S047 | #3 |
+| C082 | Internet Archive PDF page number for T624-478 is **not** the same as Ancestry/FamilySearch “image” number within Lee County (example: PDF p499 = Proctor ED 100, not Sturgeon ED 99) | PROVEN (one counterexample) | S062 | B029 |
 
 ## Same-person merges (Hard Rule 3)
 | Records merged | Identifier 1 | Identifier 2 | Contradictions? | Verdict |

@@ -27,9 +27,10 @@ Prioritised queue — work top to bottom. **Do not declare research complete whi
 | B019 | open | M | 1870 Travellers Rest Elias household (image) | Confirm Dora not yet born; siblings | H2 1868 birth already DISPROVED | L038 | Transcription seen; IA reel 494 image not isolated |
 | B020 | open | L | Carter Cove / yellcountyobits workaround | Newman, Dora; Stone, Thomas | C016 | | 403 last pass |
 | B021 | open | M | 1920 Lee Co. KY schedule: Burke C.B. / E.T. Newnam | Elias as grandfather in Beattyville; which daughter married Burke? | FAN of P004; may name Dora | L036 | Original schedule not yet pulled |
-| B022 | in_progress | H | Owsley / Lee pre-1911 deaths; Lee 1912–1929 index | Samuel P Newnam d. 1900–1911 | C012 | L053 L054 L055 L037 | Owsley 1910–1919 DC nil Samuel; Lee 1911 + 1914 nil |
+| B022 | in_progress | H | Owsley / Lee pre-1911 deaths; Lee 1912–1929 index | Samuel P Newnam d. 1900–1911 | C012 | L053 L054 L055 L037 L057 | Lee 1912–1929 yearly extracts nil; Owsley 1908–1919 nil Samuel |
 | B028 | done | H | USGenNet Lee 1910 Proctor (+ Fincastle/NewVA grep) | Elias/Mary; Samuel/Dora absent? | FAN 1910 | L052 | Parents at Proctor ED 100 |
-| B029 | in_progress | H | IA `13thcensus1910po478unit` / FS T624-478 ED 99 | Read schedule for Newnam under any surname | 1910 hole | L056 | Machine OCR inconclusive; needs eyeball/FS login |
+| B029 | in_progress | H | IA `13thcensus1910po478unit` / FS T624-478 ED 99 | Read schedule for Newnam under any surname | 1910 hole | L056 L058 | PDF p499 ≠ Ancestry img 499; bracket Lee EDs; ED 99 still unread |
+| B030 | open | H | T624-478 Lee County **image offset** | Map Ancestry image 499 (Sturgeon 9B) → IA PDF page; read ED 99 dw 67 area | 1910 hole | L058 | After B029 bracket; FS login or Ancestry |
 | B023 | open | M | 1920 KY N-550 remainder: Ella, wife-on-husband-card | Ella Newman; scan continuation cards | 1920 hole | L035 | Direct given-name Dora closed |
 | B024 | done | H | IA `soundex1910ok091` N-550 Newman | Dora ~39 OK Apr 1910 | H4 OK | L042 | Newman block read; nil for P001 |
 | B025 | done | H | IA `soundex1910tx173` N-550 Newman | Dora ~39 TX Apr 1910 | H4 TX | L043 | Newman window read; nil for P001 |
@@ -37,8 +38,8 @@ Prioritised queue — work top to bottom. **Do not declare research complete whi
 | B027 | done | H | USGenNet Owsley 1910 Buck Creek dist. | Elizabeth + Pearl hh; Dora present? | 1910 hole | L045 | Dora not in hh 141 |
 
 ## Session handoff
-- **Last closed:** 27 Oct 2026 · **Stopped after:** pass 8 (L054–L056): Owsley 1912–1919 nil Samuel; Lee 1914 FAN; T624-478 OCR inconclusive
-- **Next session starts with:** B029 FamilySearch/manual ED 99; B022 Lee 1912–1929 N-index; Tom A. Stone 1925 DC (user)
+- **Last closed:** 27 Oct 2026 · **Stopped after:** pass 9 (L057–L059): Lee 1912–1929 death nil Samuel; T624-478 image-number trap documented; Proctor/Fincastle/NewVA still no Samuel–Dora hh
+- **Next session starts with:** B030 map Lee image 499 → PDF page & read Sturgeon ED 99; B022 pre-1911; Tom A. Stone 1925 DC (user)
 
 ## Escalation log (brick walls — step number from exhaustive-research.md)
 | Date | Wall | Steps 1–8 attempted | Outcome |
