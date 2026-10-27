@@ -1,6 +1,6 @@
 # Genealogy Detective — Cursor skill
 
-A project skill (`.cursor/skills/genealogy-detective/`) that turns Cursor into a team of seven experts — PhD genealogist, private investigator, biographer, investigative journalist, palaeographer-archivist, statistician, and information designer — for **deceased** historical relatives of the user or their spouse.
+A project skill (`.cursor/skills/genealogy-detective/`) that turns Cursor into a team of seven experts — world-class PhD genealogist/ancestry researcher, private investigator, biographer, investigative journalist, palaeographer-archivist, statistician, and information designer — for **deceased** historical relatives of the user or their spouse. Built for **intensive, exhaustive research that does not stop early**: a prioritised backlog, nine search passes, brick-wall escalation, and a completion contract enforced by `research_status.py` and `audit_dossier.py`.
 
 ## Use it
 
@@ -20,7 +20,9 @@ The agent will scaffold `research/<person>/`, work Phases 0–8 in `SKILL.md`, a
 
 | Path | Purpose |
 |---|---|
-| `SKILL.md` | Core workflow: 11 hard rules, Phases 0–8 with gates (GPS, same-person test, transcription, statistics & visual honesty, red-team) |
+| `SKILL.md` | Core workflow: 12 hard rules, relentless operating loop, Phases 0–8 with gates (GPS, backlog-driven exhaustive search, red-team) |
+| `references/exhaustive-research.md` | **Don't stop early:** completion contract, `11-backlog.md` queue, nine search passes, FAN escalation, multi-session handoff, intensive mode |
+| `references/genealogy-mastery.md` | **World-class ancestry/genealogy:** BCG-level proof architecture, FAN/cluster, land/probate/military/press, global repositories, identity & migration |
 | `references/source-matrix.md` | Record types × repositories × substitutes, jurisdiction starters, access honesty |
 | `references/methods.md` | GPS, evidence classes, conflict resolution, brick-wall protocol, naming/calendar traps |
 | `references/dna.md` | atDNA/Y/mtDNA, clustering, triangulation, WATO, endogamy, NPE handling |
@@ -31,8 +33,9 @@ The agent will scaffold `research/<person>/`, work Phases 0–8 in `SKILL.md`, a
 | `references/family-tree-design.md` | **Family tree design:** pedigree/descendant/hourglass/bowtie/fan/Ahnentafel, confidence encoded in line styles, biological vs adoptive/step lines, pedigree collapse, unknown boxes, large-tree pagination |
 | `references/ethics-and-privacy.md` | Deceased-only scope, living-person & DNA consent, sensitive findings, cultural care |
 | `templates/` | Intake, plan, log, timeline, evidence/claims, DNA (checksum inventory), dossier, conflicts, transcriptions, statistics, visuals register |
-| `scripts/scaffold_case.py` | Create a case folder (with a DNA-excluding `.gitignore`) |
-| `scripts/audit_dossier.py` | Mechanical audit: uncited `PROVEN` claims, open GPS gates, DNA rows missing SHA-256/build, relative-risk-without-absolute, transcription over-confidence |
+| `scripts/scaffold_case.py` | Create a case folder incl. `11-backlog.md` (with a DNA-excluding `.gitignore`) |
+| `scripts/research_status.py` | Fails (exit 1) while backlog has open/in_progress items — research not complete |
+| `scripts/audit_dossier.py` | Mechanical audit: open backlog, uncited `PROVEN` claims, GPS gates, DNA rows, relative-risk-without-absolute |
 | `scripts/dna_file_check.py` | Read-only format/build/count detection for CRAM, BAM, VCF, FASTQ, genotype files |
 | `scripts/document_inventory.py` | Photo/PDF inventory (dimensions, pages, SHA-256) before transcription |
 | `scripts/make_pedigree.py` | Generate pedigree/descendant SVG family trees from JSON — confidence line styles, Unknown boxes, cycle/impossibility validation |
@@ -43,7 +46,8 @@ The agent will scaffold `research/<person>/`, work Phases 0–8 in `SKILL.md`, a
 
 ## Design choices
 
-- **Effective over efficient:** exhaustive-search, transcription-verification and red-team gates block premature `PROVEN` conclusions; token savings come from the on-disk claim/source/file IDs and loading one reference per phase.
+- **Relentless over comfortable:** the `11-backlog.md` queue and completion contract stop "one-database and done"; intensive mode cycles nine search passes until gates close or the user defers specific items with exact retrieval instructions.
+- **Effective over efficient:** token savings come from structure (backlog, claim/source IDs, one reference per phase), never from skipped matrix rows or silent FAN gaps.
 - **Files over chat:** the case folder is the single source of truth, so multi-session research stays consistent.
 - **Nothing laundered:** uncertain readings keep `[?]` marks into the claims they support; uncertain links are dashed on the tree itself; relative risks never appear without absolute values — speculation cannot become "fact" by passing through a chart, a percentage, or a confident transcription.
 - **Privacy by default:** deceased targets only, living people redacted, raw DNA (CRAM/genotype files) checksummed, kept out of git, and never uploaded without the test-taker's consent.
