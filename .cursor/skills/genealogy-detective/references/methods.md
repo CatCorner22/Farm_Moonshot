@@ -45,6 +45,8 @@ Question → items of indirect evidence (each cited) → correlation (how they i
 
 ## Brick-wall protocol (in order)
 
+For the full escalation ladder, backlog discipline, and nine intensive search passes, see [exhaustive-research.md](exhaustive-research.md). Log each step in `11-backlog.md` before declaring a wall.
+
 1. Re-verify every "fact" about the target; brick walls are often one wrong assumption.
 2. Extend the timeline ±10 years; hunt gaps.
 3. Full FAN club: siblings first (a sibling's record often names what the target's doesn't), then witnesses, sponsors, executors, neighbours on every census, fellow migrants/passengers, workmates, co-religionists.
