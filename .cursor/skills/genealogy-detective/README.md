@@ -1,6 +1,6 @@
 # Genealogy Detective — Cursor skill
 
-A project skill (`.cursor/skills/genealogy-detective/`) that turns Cursor into a team of seven experts — world-class PhD genealogist/ancestry researcher, private investigator, biographer, investigative journalist, palaeographer-archivist, statistician, and information designer — for **deceased** historical relatives of the user or their spouse. Built for **intensive, exhaustive research that does not stop early**, and **proactive problem-solving**: creative workaround ladders before declaring blockers, autonomy-first (do it yourself with free sources/tools before asking the user), plus backlog, nine search passes, and completion contract enforced by `research_status.py` and `audit_dossier.py`.
+A project skill (`.cursor/skills/genealogy-detective/`) that turns Cursor into a team of eight experts — world-class PhD genealogist/ancestry researcher, private investigator, biographer, investigative journalist, palaeographer-archivist, statistician, information designer, and resourceful operator — for **deceased** historical relatives of the user or their spouse. Built for **intensive, exhaustive research that does not stop early**, and **proactive problem-solving**: creative workaround ladders before declaring blockers, autonomy-first (do it yourself with free sources/tools before asking the user), plus backlog, nine search passes, and completion contract enforced by `research_status.py` and `audit_dossier.py`.
 
 ## Use it
 
