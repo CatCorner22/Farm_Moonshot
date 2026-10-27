@@ -1,6 +1,6 @@
 # Genealogy Detective — Cursor skill
 
-A project skill (`.cursor/skills/genealogy-detective/`) that turns Cursor into a team of seven experts — world-class PhD genealogist/ancestry researcher, private investigator, biographer, investigative journalist, palaeographer-archivist, statistician, and information designer — for **deceased** historical relatives of the user or their spouse. Built for **intensive, exhaustive research that does not stop early**: a prioritised backlog, nine search passes, brick-wall escalation, and a completion contract enforced by `research_status.py` and `audit_dossier.py`.
+A project skill (`.cursor/skills/genealogy-detective/`) that turns Cursor into a team of seven experts — world-class PhD genealogist/ancestry researcher, private investigator, biographer, investigative journalist, palaeographer-archivist, statistician, and information designer — for **deceased** historical relatives of the user or their spouse. Built for **intensive, exhaustive research that does not stop early**, and **proactive problem-solving**: creative workaround ladders before declaring blockers, autonomy-first (do it yourself with free sources/tools before asking the user), plus backlog, nine search passes, and completion contract enforced by `research_status.py` and `audit_dossier.py`.
 
 ## Use it
 
@@ -20,9 +20,12 @@ The agent will scaffold `research/<person>/`, work Phases 0–8 in `SKILL.md`, a
 
 | Path | Purpose |
 |---|---|
-| `SKILL.md` | Core workflow: 12 hard rules, relentless operating loop, Phases 0–8 with gates (GPS, backlog-driven exhaustive search, red-team) |
+| `SKILL.md` | Core workflow: 14 hard rules, relentless loop + autonomy-first roadblocks, Phases 0–8 with gates |
 | `references/exhaustive-research.md` | **Don't stop early:** completion contract, `11-backlog.md` queue, nine search passes, FAN escalation, multi-session handoff, intensive mode |
 | `references/genealogy-mastery.md` | **World-class ancestry/genealogy:** BCG-level proof architecture, FAN/cluster, land/probate/military/press, global repositories, identity & migration |
+| `references/creative-workarounds.md` | **Roadblocks:** nine blocker ladders (paywall, nil index, illegible, …), roadblock log, reframe tactics |
+| `references/proactive-autonomy.md` | **Do it yourself first:** decision tree, forbidden lazy asks, one precise user handoff when unavoidable |
+| `scripts/workaround_playbook.py` | CLI checklist for a blocker type before `blocked`/user ask |
 | `references/source-matrix.md` | Record types × repositories × substitutes, jurisdiction starters, access honesty |
 | `references/methods.md` | GPS, evidence classes, conflict resolution, brick-wall protocol, naming/calendar traps |
 | `references/dna.md` | atDNA/Y/mtDNA, clustering, triangulation, WATO, endogamy, NPE handling |
