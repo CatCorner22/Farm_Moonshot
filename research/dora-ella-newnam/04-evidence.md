@@ -40,6 +40,10 @@
 | S054 | Debi Houser Kendrick, transcriber, “Will of Elizabeth Newnam,” Lee Co. KY Will Book 1 p. 303 (proved 14 May 1934), USGenNet, https://usgennet.org/usa/ky/county/lee/wills/enewnam.html accessed 27 Oct 2026. **Transcription only.** Bequeaths all property to granddaughter **Pearl Jackson** and husband Clyde Jackson | D | Court/clerk |
 | S055 | 1920 Tennessee Soundex (NARA M1588), N-450 R.F.–O-165 Dig L., IA `soundex1920tn107` PDF (2738 pp). **Derivative scan:** EasyOCR every 35 pages (entire reel); **zero** cards with both “Dora” and “Newman/Newnam.” | D (negative vs P001) | Soundex clerks |
 | S056 | 1920 Missouri Soundex (NARA M1571), N-500 L.–N-650 Willis M., IA `soundex1920mo176` PDF (5372 pp). **Derivative scan:** EasyOCR every 35 pages (entire reel); **zero** cards with both “Dora” and “Newman/Newnam.” | D (negative vs P001) | Soundex clerks |
+| S057 | Debi Houser Kendrick, transcriber, “1910 Lee County Kentucky Census — Proctor,” USGenNet, https://usgennet.org/usa/ky/county/lee/census/1910/proctor.html accessed 27 Oct 2026. **Transcription only.** ED 100: dw **19/20** Elisa NEWNAM 67 m1 39yrs, wife Mary 68 nee SMALLWOOD (no child Dora listed); dw 22/23 Kate NEWNAM 39 wd; dw 29/30 Sarah NEWNAM 64 wd | D | Transcriber from NARA T624-478 |
+| S058 | 1910 Kentucky Soundex (NARA T1275), IA `soundex1910ky124` PDF (762 pp). **Derivative scan:** EasyOCR every 25 pages for Newman children patterns (McCoy+Newman; John/Riss/Mary M + Newman) — **nil** | D (negative vs indexed child cards) | Soundex clerks |
+| S059 | USGenNet Lee 1910 Fincastle (`fincastle.html`) and New Virginia (`newva.html`) transcriptions accessed 27 Oct 2026. **Transcription only.** Full-text search: **no** Newman/Newnam surname | D (negative in those EDs) | Transcriber |
+| S060 | USGenNet Owsley Co. vital statistics deaths 1910 (`1910.html`) and death certificates 1911 (`1911dc.html`) accessed 27 Oct 2026. **Transcription only.** **No** Newnam/Newman decedent matching Samuel P. | D (negative) | Transcriber / KY DC |
 
 ## Claims
 | Claim ID | Claim (one fact) | Confidence | Evidence | Source IDs | Conflicts → 07 |
@@ -85,6 +89,10 @@
 | C072 | Dora was not indexed in Oklahoma Jan 1920 as **Dora Newman/Newnam** on Soundex reel N-400–N-630 | PROBABLE (negative; full-reel OCR scan) | S053 | |
 | C073 | Dora was not indexed in Tennessee Jan 1920 as **Dora Newman/Newnam** on Soundex reel N-450–O-165 (`soundex1920tn107`) | PROBABLE (negative; full-reel OCR scan) | S055 | |
 | C074 | Dora was not indexed in Missouri Jan 1920 as **Dora Newman/Newnam** on Soundex reel N-500–N-650 (`soundex1920mo176`) | PROBABLE (negative; full-reel OCR scan) | S056 | |
+| C075 | On the Apr 1910 census Elias (“Elisa”) Newnam, 67, and Mary (Smallwood) Newnam, 68, were household heads at Lee Co. ED 100 Proctor precinct dwelling 19/20, **without** daughter Dora in that line | PROVEN (transcription) | S057 | |
+| C076 | In USGenNet Lee 1910 transcripts for Proctor (ED 100), Fincastle (ED 96), and New Virginia (ED 97), **no** household lists Samuel P. Newnam, Dora (Newnam/Stone), or McCoy Newnam as head or named member | PROBABLE (negative; Sturgeon ED 99 not in set) | S057 S059 | |
+| C077 | McCoy and the 1900 children John H., Rissie, and Mary M. were not caught on KY Apr 1910 Soundex `soundex1910ky124` in a derivative OCR pass for Newman child patterns | PROBABLE (negative) | S058 | |
+| C078 | Samuel P. Newnam does not appear among Owsley Co. deaths extracted for 1910 or in the 1911 Owsley DC table read this pass | PROBABLE (negative for those lists) | S060 S047 | #3 |
 
 ## Same-person merges (Hard Rule 3)
 | Records merged | Identifier 1 | Identifier 2 | Contradictions? | Verdict |
@@ -101,6 +109,7 @@
 | 1920 Newman Dora E. 10 Cumberland (Riddle GD) + P001 | Given name | Age 10 vs ~48 | **Rejected** |
 | 1920 Newman Edd’s wife Dora 28 Logan + P001 | Given name | Age 28; husband Edd; Logan Co. | **Rejected** |
 | 1920 Neuman E.T. 75 Beattyville + P004 Elias | Initials E.T.; age ~75–78; Lee/Beattyville; N-550 | Soundex spelling Neuman; relationship “Grand Father” of C.B. Burke not yet tied to a named daughter | **PROBABLE** |
+| 1910 Proctor Elisa NEWNAM 67 & Mary 68 + P004/P005 Elias & Mary | Name + spouse Mary Smallwood + ages fit b. 1842/1842 | Enumerator spelling Elisa; only couple in dw — Dora absent | **PROBABLE same couple** |
 | 1910 Samuel E Newman 41 Muhlenberg (Lou E + five children) + P002 | Age 41 | Wife Lou E ≠ Dora; children Bertha/Luea/Joseph/Mary/Minnie ≠ Sturgeon set; Muhlenberg ≠ Lee | **Rejected** |
 | 1910 Dora L Neimann 48 IL, St Louis (Felsh MIL) + P001 | Given name Dora, N-550 | Age 48 vs ~39; b. Illinois; surname Neimann; MIL of Arthur E Felsh | **Rejected** |
 | 1910 Dora Stone 36 Black Louisville servant + P001 | Given name + Stone | Race Black vs white; servant; Louisville | **Rejected** |
