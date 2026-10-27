@@ -1,0 +1,1 @@
+Delivery SVGs generated 27 Oct 2026 from `family.json` and `life.csv` with the genealogy-detective scripts. Re-run commands are in `../10-visuals.md`. Samuel’s timeline bar ends in 1910 because that is the latest bound for his death, not a known death date.
