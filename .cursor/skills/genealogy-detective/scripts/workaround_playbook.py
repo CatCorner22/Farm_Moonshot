@@ -24,7 +24,9 @@ def main():
             print(f"  {k:12} {title}")
         print("\nSee references/creative-workarounds.md"); return 0
     if key not in PLAYBOOKS:
-        print(f"Unknown type: {key}\n"); main(); return 2
+        print(f"Unknown type: {key}. Valid types:")
+        for k, (title, _) in PLAYBOOKS.items(): print(f"  {k:12} {title}")
+        return 2
     title, steps = PLAYBOOKS[key]
     print(f"# {title}\nLog each step in 11-backlog.md Roadblock log before blocked/asking user.\n")
     for i, s in enumerate(steps, 1):
