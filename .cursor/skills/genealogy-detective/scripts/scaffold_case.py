@@ -4,7 +4,7 @@ import argparse, re, sys
 from pathlib import Path
 
 SKILL = Path(__file__).resolve().parent.parent
-FILES = ["00-intake.md","01-plan.md","02-log.md","03-timeline.md","04-evidence.md","05-dna.md","06-dossier.md","07-conflicts.md","08-transcriptions.md","09-statistics.md","10-visuals.md"]
+FILES = ["00-intake.md","01-plan.md","02-log.md","03-timeline.md","04-evidence.md","05-dna.md","06-dossier.md","07-conflicts.md","08-transcriptions.md","09-statistics.md","10-visuals.md","11-backlog.md"]
 
 def slug(name: str) -> str:
     return re.sub(r"[^a-z0-9]+", "-", name.lower()).strip("-") or "unknown-person"
