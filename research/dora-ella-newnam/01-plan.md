@@ -18,7 +18,7 @@
 - **H1 (accepted story):** Dora Ella, daughter of Elias T. “Doll” Newnam and Mary Ann Smallwood, b. Lee Co. Aug 1871; m1 Samuel P. Newnam 10 Dec 1885; five surviving children by 1900; widowed before 1910; in Arkansas by Coy’s 1917 marriage; m2 T. A. Stone (prob. Tom A. Stone of Perry Co.) 1920–25; d. Ola 23 Aug 1926; buried Carter Cove as “Newman, Dora.”
 - **H2 (alternative):** Birth year 1868 as on the death certificate is correct; 1900 and 1885 ages are understatements. **Tested this session against 1880 age 8 — fails.**
 - **H3:** 1910 she had already remarried (not to Stone — he is a widower in Jan 1920) and is indexed under a third surname. Still open.
-- **H4:** She and/or Coy were in Missouri (Bollinger — Letha’s people) or Tennessee in 1910, not KY or AR. **1910 MO N-550 Dora/Coy/McCoy nil (this session). 1910 TN N-550 Coy nil (D-tab seen); Dora D-block nil; McCoy 9-frame gap unread.** H4 as *Newman/Newnam heads or individually carded persons* is closed for MO and (Coy/Dora) TN. A wife enumerated under a husband’s given name is still possible (H3).
+- **H4:** She and/or Coy were in Missouri (Bollinger — Letha’s people) or Tennessee in 1910, not KY or AR. **1910 MO N-550 Dora/Coy/McCoy nil. 1910 TN N-550 Coy nil (D-tab); Dora D-block nil; McCoy M-window nil (Mary→Mitchell).** H4 as *Newman/Newnam heads or individually carded persons* is closed for MO and TN. A wife enumerated under a husband’s given name is still possible (H3).
 - **H0 (null — accepted story is wrong because…):** Dora Stone of the 1926 certificate is a different Dora; Coy Newnam of Ola is not the 1900 McCoy. Falsified by: informant Coy Newnam + parents Elias Newnam & Mary Smallwood on the certificate + 1900 household + NUMIDENT of Pearl and Mary naming Sam & Dora + 1880 child Dora in Elias’s house.
 
 ## Name variants & search strings
@@ -55,7 +55,9 @@ Wildcard strings to use: `New*m`, `Dor* New*`, `"Doll Newnam"`, `McCoy OR Coy Ne
 | 6 | Lee Marriage Book 2 | USGenNet | 10 Dec 1885 Dora Ella × Samuel P. | **transcription seen this session**; FS image Q2QD-PZHL unread |
 | 7 | AR death cert. Dora Stone 1524 | User image / AR vital records | Death, parents, spouse, informant, burial | Prior session; not re-opened |
 | 8 | 1920 AR Soundex S-350 / N-550 | IA (prior) | Tom A. Stone; no Dora Stone/Newnam; Coy in Danville | Prior session; do not redo |
-| 9 | 1910 MO & TN N-550 Dora/Coy | IA `soundex1910mo184`, `soundex1910tn073` | H4 | **MO nil; TN Coy nil; TN Dora D-block nil; TN McCoy 9-frame gap** |
+| 9 | 1910 MO & TN N-550 Dora/Coy | IA `soundex1910mo184`, `soundex1910tn073` | H4 | **MO nil; TN Coy nil; TN Dora D-block nil; TN McCoy M-window nil** |
+| 20 | 1870 Lee Sturgeon hh 19 | IA `populationschedu0481unit` n69 | Samuel 1 + Elizabeth | **found — original image** |
+| 21 | 1920 KY N-550 Dora | IA `soundex1920ky117` n4200–n4205 | 1920 hole | **nil for P001** (three rejected Doras) |
 | 10 | 1910 KY S-350 Dora Stone | IA `soundex1910ky154` | Unlikely (Stone still widower 1920) | **two Dora Stones found, both rejected** |
 | 11 | 1910 KY N-550 Samuel given-names | IA `soundex1910ky124` printed pp. 342–343 | Was Samuel still a KY head? | **nil for P002** (wrong Samuels listed S027) |
 | 12 | 1880 Lee ED 59 sheet 1 | IA `10thcensus0427unit` n725 | Samuel ~11 | **found — John 69 / Mary 57 / Samuel 11** |

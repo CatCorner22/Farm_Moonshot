@@ -7,12 +7,13 @@ Place as it was *at the date*; modern equivalent in brackets. Flag impossibiliti
 | 18 Apr 1842 | — | Father Elias T. Newnam born | Clark Co., KY | C040 | S011 prior |
 | Apr 1842 / 22 Apr 1842 | — | Mother Mary Ann Smallwood born | KY (Owsley-area) | C041 | S032 prior |
 | 16 Aug 1862 – 16 Sep 1863 | — | Elias, bugler, Co. C 14th KY Cav. | Mt. Sterling / Myrtleville, KY | C042 | S086 S087 prior |
-| 17 Jun 1870 | — | Elias & Mary farming with William, Malissa, Frances, Mary (Dora not yet born) | Travellers Rest, Owsley Co., KY | C043 | S1870 prior |
+| 7 Jun 1870 | — | Elias & Mary farming with William D 11, Malissa D 6, Frances 3, Mary 1 (**Dora not yet born**) | Travellers Rest, Owsley Co., KY | C067 C043 | S048 |
+| **29 Jun 1870** | — | **Samuel Newman, 1, in John 50 & Elizabeth 25’s Sturgeon hh 19** (PROBABLE natal home of P002) | Sturgeon Precinct, Lee Co., KY (PO Proctor) | C062 | S042 |
 | 1870 | — | Lee County created | KY | — | FS wiki |
 | **Aug 1871 (day 11 POSSIBLE)** | 0 | **Dora born** | Lee Co., KY (PROBABLE) | C001 | S005 S004 S010 |
 | 11 Aug 1868 (DC) | — | Alternate birth — **inconsistent with 1880 age 8 and 1900 Aug 1871** | — | C002 | S003 | **DISPROVED as year** |
 | 5 Aug 1874 | ~3 | Sister Katty/Catharine registered | Lee Co., KY | C044 | S010b prior; S010 1880 age 6 |
-| **1 Jun 1880 (enum. 1 Jun)** | — | **Samuel Newnam, 11, son of John 69 & Mary 57** (PROBABLE = P002) | Lee Co. KY ED 59 sheet 1 dw 3 | C060 C061 | S040 |
+| **1 Jun 1880 (enum. 1 Jun)** | — | **Samuel Newnam, 11, son of John 69 & Mary 57** (PROBABLE = P002); Mary b. KY. Sheet 2 Samuel 13 is McQueary, not Newnam | Lee Co. KY ED 59 sheet 1 dw 3 | C060 C061 C063 | S040 S044 |
 | **1 Jun 1880 (enum. 5 Jun)** | **8** | **In father’s house: Dora, dau., 8, KY** | Lee Co. KY ED 59 sheet 6 dw 46 | C003 | S010 |
 | 29 Dec 1881 | 10 | Sister Malissa D. m. Moses Estes at Elias Newnam’s | Lee Co., KY | C045 | S004 book |
 | 28 Feb 1884 | 12 | Sister Francis E. m. Millard F. Jones at Elias E. Newnam’s | Lee Co., KY | C046 | S004 book |
@@ -27,10 +28,11 @@ Place as it was *at the date*; modern equivalent in brackets. Flag impossibiliti
 | 5 Mar 1900 | 28 | BIL John Newnam d. consumption (context) | Lee Co. | — | S049 prior |
 | 24 Feb 1906 (WikiTree lore) | ~34 | Alleged death of Samuel | Lee Co.? | C012 | S030 | unproved; required before 1910 by Pearl’s boarding |
 | 29 Aug 1904 | — | Loose: S. P. Newnam 30 2nd m. Rosa L. Banks, Lee — **not merged** | Lee Co. | C013 | S014 prior |
-| 15 Apr 1910 | ~38 | **Not in KY/AR/MO N-550 as Dora ~39; not in TN N-550 D-block; Coy nil KY/AR/MO/TN-C; Samuel P not a KY N-550 head; two KY Dora Stones rejected** | unknown | C030 C031 C034–C039 | S020–S023 S025–S027 |
+| 15 Apr 1910 | ~38 | **Not in KY/AR/MO N-550 as Dora ~39; not in TN N-550 D-block or McCoy M-window; Coy nil KY/AR/MO/TN-C; Samuel P not a KY N-550 head; two KY Dora Stones rejected** | unknown | C030 C031 C031b C034–C039 | S020–S023 S025–S028 |
 | 1910 | — | Pearl, 15, gdau. of Elizabeth Newmann, Buck Creek, Owsley | Owsley Co., KY ED 169 hh 141 | C026 | S041 prior |
 | 11 Jul 1918 | ~46 | Mother Mary A. Newnam d. | Lee Co. (Brandenburg-Quillen) | C047 | S032 prior |
-| Jan 1920 | ~48 | **Not in AR as Dora Stone or Dora Newnam; not in Coy’s Danville house; not in transcribed 1920 Lee** | unknown | C032 | S102–S109 prior |
+| Jan 1920 | ~48 | **Not in AR as Dora Stone or Dora Newnam; not in KY N-550 as Dora ~48** (Paducah 29 / Cumberland 10 / Logan 28 all rejected); not in Coy’s Danville house; not in transcribed 1920 Lee | unknown | C032 C064 | S102–S109 prior; S045 |
+| Jan 1920 | — | E.T. Neuman, 75, grandfather in C.B. Burke’s house, Beattyville (PROBABLE P004 Elias) | Beattyville, Lee Co., KY | C065 | S046 |
 | 24 Feb 1920 | — | Tom A. Stone, 62 wd, b. MO, FIL of Tom M. Randall, tie maker | Howell Twp, Perry Co., AR ED 75 sh 8B | C050 | S104 S105 prior |
 | 18 Feb 1917 | 45 | Son McCoy m. Letha Viola Sullivan | Ola, Yell Co., AR | C027 | S024 prior |
 | **1920 × 1925** | 48–54 | **m2 T. A. Stone (PROBABLE = Tom A. Stone)** | Yell or Perry Co., AR (license unread) | C014 | S003 S104 |

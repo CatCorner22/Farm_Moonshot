@@ -94,16 +94,16 @@ Header:
 
 | Line | Name | Color | Sex | Age | Relation | Occupation | Birth | Father b. | Mother b. |
 |---|---|---|---|---|---|---|---|---|---|
-| 13 | Newnam, John | W | M | 69 | {head} | Farmer | Kentucky | Ky | N.C. `[?]` |
-| 14 | — Mary | W | F | 57 | Wife | Keeping House | `[Canada? or Ky — crowded]` | | |
-| 15 | — Eli | W | M | 16 | Son | | Kentucky | | |
-| 16 | — Susan | W | F | 20 | Daughter | At home | Kentucky | | |
-| 17 | — **Samuel** | W | M | **11** | Son | At home | Kentucky | | |
-| 18 | — Hannah | W | F | 9 | Daughter | | Kentucky | | |
+| 13 | Newnam, John | W | M | 69 | {head} | Farmer | Kentucky | Ky | **N.C.** |
+| 14 | — Mary | W | F | 57 | Wife | Keeping House | **Kentucky** | Ky | Ky |
+| 15 | — Eli | W | M | 16 | Son | Works on farm | Kentucky | Ky | Ky |
+| 16 | — Susan | W | F | 20 | Daughter | At home | Kentucky | Ky | Ky |
+| 17 | — **Samuel** | W | M | **11** | Son | At home | Kentucky | Ky | Ky |
+| 18 | — Hannah | W | F | 9 | Daughter | | Kentucky | Ky | Ky |
 
-Pass 2 notes: Surname **Newnam**. Given name **Samuel** and age **11** are clear. Order on the page lists Eli 16 before Susan 20. John’s health column has a mark that may read *Cripple* — capped `[?]` and not used as a claim. Mary’s birthplace is **not** certain at this resolution.
+Pass 2 notes (re-read from cropped JPEG, 27 Oct 2026): Surname **Newnam**. Given name **Samuel** and age **11** are clear. Order on the page lists Eli 16 before Susan 20. John’s health column has a mark that may read *Cripple* — capped `[?]` and not used as a claim. Mary’s birthplace, previously `[Canada? or Ky]`, is **Kentucky** on the tighter crop (both parents Ky). John’s father **N.C.** is clear.
 
-Sheet 2 (n726, not copied) continues **hh 11**, a younger John with a **Samuel ~13** — a different boy; not transcribed in full this pass.
+Sheet 2 (n726, now copied as S044) continues **hh 11 McQueary** (not Newnam): Mary 50 wife, Eli 16, **Samuel 13 son** — a different boy and a different surname.
 
 ### Facts extracted → claim IDs
 - Samuel, 11, son, John & Mary, ED 59 dw 3, 1 Jun 1880 → C060
@@ -120,3 +120,46 @@ Typed Miracode unless noted.
 - KY N-550 p. 342–343: Sam 74 Knox w/ Barbara; Samuel Netman 53 Newport w/ Cynthia; Samuel Noonan 38 Black Hickman; Samuel 31 Louisville w/ Myrtle; Samuel C 27 Butler; Samuel E 41 Muhlenberg w/ Lou E (Bertha, Luea, Joseph, Mary, Minnie). **None is P002.**
 
 → C034–C039, C061.
+
+## DOC007 — 1870 U.S. census, Lee County, Kentucky, Sturgeon Precinct, p. 4 (337b)
+- Image: `sources/census/1870-lee-ky-sturgeon-p337b-john-elizabeth-samuel.jpg` · SHA-256 `696f3dcfb500287ace8e76842d6ec1746c7d6d723381b00c41231bffe970534d`
+- Page: IA `populationschedu0481unit` n69; NARA M593-481; enumerator page 4, 29 Jun 1870, Chas. D. Tyler, PO Proctor. Preceding n68 is p.3 stamped 337 (Bryant hh 18).
+- Provenance: NARA microfilm via Internet Archive, accessed 27 Oct 2026. Saw: scan (JPEG of microfilm).
+- Image quality: **sufficient** for names/ages/relationships of hh 19; some given-name minims crowded (Margret / Sousanna). Full page including left margin.
+
+### Diplomatic transcription (household 19/19 only; Pass 1+2)
+
+Header:
+> Page No. 4 · Inhabitants in Sturgeon Precinct, County of Lee, State of Kentucky  
+> enumerated by me on the 29 day of June, 1870. / Chas. D. Tyler, Ass’t Marshal.  
+> Post Office: Proctor.
+
+| Line | Dw/Fam | Name | Age | Sex | Color | Occupation | Birth |
+|---|---|---|---|---|---|---|---|
+| 6 | 19/19 | Newman, John | 50 | M | W | Farm labourer | Kentucky |
+| 7 | | — Elizabeth | 25 | F | W | Keeping house | Kentucky |
+| 8 | | — Mary | 21 | F | W | | Kentucky |
+| 9 | | — Sarah | 18 | F | W | | Kentucky |
+| 10 | | — Celia | 16 | F | W | | Kentucky |
+| 11 | | — Margret | 9 | F | W | | Kentucky |
+| 12 | | — Nancy | 8 | F | W | | Kentucky |
+| 13 | | — John | 7 | M | W | | Kentucky |
+| 14 | | — Sousanna | 5 | F | W | | Kentucky |
+| 15 | | — **Samuel** | **1** | M | W | | Kentucky |
+
+Pass 2: Surname on this page is **Newman** (one “n”), vs **Newnam** on the 1880 schedule — clerk variant, same Soundex. **Samuel** age **1** is a single digit. Elizabeth 25 cannot be the biological mother of Mary 21 on any ordinary reading; the older girls are a prior wife’s or John’s siblings — relationship column in 1870 does not state kinship beyond implied household. USGenNet 337b (S043) agrees on the ten names and ages.
+
+### Facts extracted → claim IDs
+- Samuel, 1, in John & Elizabeth’s Sturgeon house, 29 Jun 1870 → C062
+- Conflict #9 (not merged with 1880 dw 3)
+
+## DOC008 — 1920 KY Soundex N-550 Dora window + E.T. Neuman
+Handwritten 1920 family/individual cards; diplomatic from JPEGs.
+
+- n4201 SHA-256 `4eb9d03ded47656b60ea86c22938e5aad3a47ff6501f194e07126d5c2c45cef2`: Newman, Dora (individual) W 29 Kentucky; McCracken; Paducah; South 5th 456; enumerated with Vaelkel, Mary E.; Daughter. **Rejected vs P001.**
+- n4203 SHA-256 `b6f52059d2d71e21b1b97ac54005b1493c5724a5ac49d6bb8b3e07eb7d84d92a`: Newman, Dora E (individual) W 10 Kentucky; Cumberland; enumerated with Riddle, John M.; Grand Daughter. **Rejected.**
+- n4205 SHA-256 `9e1def9d61d3209bbd57a0795f5dd896e8c2cbcd083d6a996ed03d139736e7f3`: printed **E** Soundex tab after the D-block.
+- n4208 SHA-256 `e5b75c0df9bd1f4a65e1db130b85c38954ce25bbdef21e8b677f915c23bfcf3e`: Neuman, E.T. (individual) W 75 Kentucky; Lee; Beattyville; Grand Ave.; enumerated with Burke, C.B.; Grand Father. **PROBABLE P004.**
+
+## DOC009 — 1910 TN Soundex N-550 McCoy window (nil)
+Handwritten family/individual cards n2461–n2469. Sequence after Mary C (n2460): Mary D 49 Jefferson (son Layton 11); Mary M 70 Hamilton; Mek. G 50 Cheatham (Florence 19, John 17, General 16, Frances 13, William 10, Doria 6, Luther 1½); Melvin 3½ Giles (gs of Deacon George W); Melvin 54 Giles (SIL of same); Minerva 80 Robertson (gds Lona Neely, Nellie Erwin); Minnie 21 Roane (with Sam P. Sparks); Mitchell 27 Hardin (Ollie P 25, Gladys 4, Burl W 3, Royal E 1 9/12). **No McCoy.** SHA-256 n2463 `23610f8aa4c159b1b554ed1786d11f57d2f56f8a2e8994f7289ae7bd02dfca53`; n2469 `340489566090880388fa6b81ca5751c5944dcaf56a7b44f70fe560788f308586`.
