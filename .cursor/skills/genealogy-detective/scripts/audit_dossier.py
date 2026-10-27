@@ -13,7 +13,7 @@ def main():
     root = Path(sys.argv[1])
     if not root.is_dir(): print(f"ERROR: not a directory: {root}"); return 2
     txt = {}
-    for f in ["00-intake.md","01-plan.md","02-log.md","03-timeline.md","04-evidence.md","05-dna.md","06-dossier.md","07-conflicts.md"]:
+    for f in ["00-intake.md","01-plan.md","02-log.md","03-timeline.md","04-evidence.md","05-dna.md","06-dossier.md","07-conflicts.md","08-transcriptions.md","09-statistics.md","10-visuals.md"]:
         p = root / f; txt[f] = p.read_text(errors="replace") if p.exists() else ""
         need(bool(txt[f].strip()), f"missing/empty: {f}")
     intake, dossier, evid = txt["00-intake.md"], txt["06-dossier.md"], txt["04-evidence.md"]
@@ -46,6 +46,16 @@ def main():
     # Living-person hygiene in dossier
     if re.search(r"\b(born|b\.)\s*(19[5-9]\d|20\d\d)\b", dossier):
         WARN.append("06-dossier: contains post-1950 birth dates — check living-person redaction")
+    # Transcription discipline: transcriptions exist but contain no uncertainty notation on difficult docs
+    trans = txt["08-transcriptions.md"]
+    if "DOC001" in trans.replace("DOC001 — (record type", "") and "[?]" not in trans and "[illegible]" not in trans:
+        WARN.append("08-transcriptions: documents transcribed with zero [?]/[illegible] marks — check over-confidence (paleography.md)")
+    # Statistics discipline: relative-risk language without absolute values
+    if re.search(r"times (as likely|the risk)|double[sd]? the (risk|rate)", dossier, re.I) and "per 1,000" not in dossier and "per 1000" not in dossier:
+        FAIL.append("06-dossier: relative-risk language without absolute (per-1,000) values — see statistics.md mandatory format")
+    # Visuals registered?
+    if "V001" in txt["10-visuals.md"].replace("V001 |", "") and "Claim IDs" not in txt["10-visuals.md"]:
+        WARN.append("10-visuals: visuals present but claim-ID column missing")
     print(f"Auditing {root}\nclaims: {len(claims)} | dna files: {len(dna_rows)}")
     for m in FAIL: print(f"FAIL: {m}")
     for m in WARN: print(f"WARN: {m}")

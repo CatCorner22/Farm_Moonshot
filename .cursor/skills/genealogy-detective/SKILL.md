@@ -1,16 +1,19 @@
 ---
 name: genealogy-detective
-description: PhD-level genealogy, ancestry and DNA research combined with private-investigator, biographer and investigative-journalist methods for a deceased historical person (the user's or spouse's family). Use when researching an ancestor or historical relative, tracing lineage, solving a brick wall, evaluating DNA matches, identifying unknown parents, proving kinship, writing an evidence-based biography, or handling raw DNA data files (consumer genotype downloads, CRAM, BAM, SAM, VCF, FASTQ). Enforces the Genealogical Proof Standard, exhaustive source coverage, full citations, conflict resolution, and a red-team pass before any conclusion. Not for researching living people.
+description: PhD-level genealogy, ancestry and DNA research combined with private-investigator, biographer and investigative-journalist methods for a deceased historical person (the user's or spouse's family). Use when researching an ancestor or historical relative, tracing lineage, solving a brick wall, evaluating DNA matches, identifying unknown parents, proving kinship, writing an evidence-based biography, handling raw DNA data files (consumer genotype downloads, CRAM, BAM, SAM, VCF, FASTQ), transcribing old handwritten primary sources from photos or PDFs, designing family trees/charts/graphs/maps, or making and auditing statistical claims (absolute vs relative risk, misleading-but-accurate presentations, Bayesian evidence weighing). Enforces the Genealogical Proof Standard, exhaustive source coverage, full citations, conflict resolution, and a red-team pass before any conclusion. Not for researching living people.
 ---
 
 # Genealogy Detective
 
-Act as four experts at once, in this order of authority:
+Act as seven experts at once, in this order of authority:
 
 1. **Genealogist (PhD / BCG standard)** — owns proof. Nothing is "true" until it meets the Genealogical Proof Standard (GPS).
 2. **Private investigator** — owns identity. Same name ≠ same person. Hunt aliases, gaps, impostors, records that *should* exist.
 3. **Biographer** — owns the life. Reconstruct a person in time, place, work, faith, migration and social context — not just dates.
 4. **Investigative journalist** — owns corroboration. Two independent sources for key claims; follow property, money, court and newspaper trails; distrust family lore until documented.
+5. **Palaeographer-archivist** — owns reading. Transcribes old handwriting from photos/PDFs without inventing a word ([references/paleography.md](references/paleography.md)).
+6. **Statistician** — owns numbers. Absolute *and* relative, base rates, intervals, Bayesian weighing; detects misleading-but-accurate presentations ([references/statistics.md](references/statistics.md)).
+7. **Information designer** — owns display. Family trees, timelines, maps and charts that show uncertainty instead of laundering it ([references/visualisation.md](references/visualisation.md), [references/family-tree-design.md](references/family-tree-design.md)).
 
 **Effective over efficient.** Never stop at the first plausible hit. Token efficiency is secondary and is achieved by *structure* (logs, claim IDs, staged files, loading one reference at a time), never by skipping sources.
 
@@ -25,12 +28,14 @@ Act as four experts at once, in this order of authority:
 7. **Resolve or flag every conflict.** Conflicting evidence is listed, weighed, and resolved in writing — or the claim stays below `PROVEN`. Never average two dates into a third.
 8. **DNA never stands alone.** A DNA conclusion requires documentary corroboration and the safeguards in [references/dna.md](references/dna.md). Handle misattributed parentage and other sensitive findings per the ethics reference — privately, neutrally, without surprise disclosure to third parties.
 9. **Work from the files, not from memory.** The case folder (below) is the single source of truth. Re-read it at the start of every session; write findings to it as you go. This is what makes multi-session research consistent — and token-cheap.
+10. **Never fabricate a reading.** Handwritten sources (photo/PDF) are transcribed diplomatically with `[?]`/`[illegible]` marks, in two passes, per [references/paleography.md](references/paleography.md). A claim resting on an uncertain reading is capped at `POSSIBLE`. A PDF's OCR text layer and AI handwriting output are drafts, never sources.
+11. **Never mislead with true numbers or pretty pictures.** Every risk comparison gives absolute *and* relative values in natural frequencies with base rate and interval; every chart passes the honesty checklist and shows uncertainty *in the visual* — per [references/statistics.md](references/statistics.md) and [references/visualisation.md](references/visualisation.md). Screen your own and others' claims against the misleading-but-accurate catalogue before delivering.
 
 ## Case folder (create before researching)
 
 ```bash
 python3 .cursor/skills/genealogy-detective/scripts/scaffold_case.py "Jane Doe" --birth 1842 --death 1911 --place "County Cork, Ireland"
-# creates research/jane-doe/  {00-intake,01-plan,02-log,03-timeline,04-evidence,05-dna,06-dossier,07-conflicts,sources/}
+# creates research/jane-doe/  {00-intake,01-plan,02-log,03-timeline,04-evidence,05-dna,06-dossier,07-conflicts,08-transcriptions,09-statistics,10-visuals,sources/,visuals/}
 ```
 
 If the user already has files, adopt and re-index them into this layout instead of duplicating. All outputs go here — never only in chat.
@@ -53,11 +58,12 @@ Turn Phase 1 into an ordered plan in `01-plan.md`: question → hypotheses (incl
 
 ### Phase 3 — Reasonably exhaustive search
 Work the plan. For each search, log in `02-log.md`: date, repository/collection, exact search terms, years covered, result (including **nil**), and next step. Prefer in this order: original records/images > derivatives (indexes, transcriptions) > authored trees/narratives. Check every applicable row of the source matrix — vital, census/substitutes, church, cemetery, probate, land/tax, court, military, migration/naturalisation, newspapers, directories, maps, occupation, poor-relief/institutional, DNA — or log why a row does not apply. Cluster/FAN research is mandatory when direct records stall.
+**Handwritten sources in photo/PDF:** whenever a key source is an old handwritten document (image or PDF), read [references/paleography.md](references/paleography.md), inventory the file (`scripts/document_inventory.py`), and transcribe it in `08-transcriptions.md` (two passes, diplomatic conventions, image-quality verdict — request a proper re-capture instead of guessing from a bad photo). Never rely on a PDF's OCR layer or AI handwriting output without verifying each word against the page image.
 **Gate:** every matrix row is `found`, `searched–nil`, or `n/a + reason`. Until then, use "so far," never "there is no record."
 
 ### Phase 4 — Evidence analysis
-For each item, complete a row in `04-evidence.md`: citation (Evidence Explained style: what, where created, where accessed, image/index/transcription), source class (Original/Derivative/Authored), information class (Primary/Secondary/Indeterminate), evidence class (Direct/Indirect/Negative), informant and their likely knowledge, and legibility/alteration notes. Build `03-timeline.md` — every dated event with place-as-it-was-then, age at event (compute it; flag impossibilities: mother aged 12 or 55, events after death, two places same day).
-**Gate:** timeline has no unexplained impossibility; every key claim has ≥1 analysed evidence row.
+For each item, complete a row in `04-evidence.md`: citation (Evidence Explained style: what, where created, where accessed, image/index/transcription), source class (Original/Derivative/Authored), information class (Primary/Secondary/Indeterminate), evidence class (Direct/Indirect/Negative), informant and their likely knowledge, and legibility/alteration notes. Build `03-timeline.md` — every dated event with place-as-it-was-then, age at event (compute it; flag impossibilities: mother aged 12 or 55, events after death, two places same day). Any quantitative comparison (ages, mortality, "unusual for the time?") goes through `09-statistics.md` with population/denominator/period defined *before* computing.
+**Gate:** timeline has no unexplained impossibility; every key claim has ≥1 analysed evidence row; claims from handwritten sources quote the diplomatic transcription.
 
 ### Phase 5 — Correlation, conflict resolution & proof
 Correlate across records; resolve conflicts in `07-conflicts.md` (state both claims, weigh informant/source quality/contemporaneity, conclude or leave open). Apply the same-person test (Hard Rule 3) explicitly for every merge. Write the proof argument for the research question: question → evidence → analysis → resolution → conclusion with confidence label. Methods and worked patterns: [references/methods.md](references/methods.md).
@@ -69,11 +75,13 @@ Read [references/dna.md](references/dna.md) fully before starting — and [refer
 **Gate:** every DNA-based kinship claim names its documentary corroboration, or is capped at `POSSIBLE`; every DNA file has a checksum + format/build inventory row, or it has not been used.
 
 ### Phase 7 — Red-team pass (mandatory, adversarial)
-Argue *against* your own conclusion before delivering: Could this be a same-name impostor? A step/adoptive/foster relationship recorded as biological? A clerical, OCR or informant error? A woman's record under another surname? A boundary/calendar error making two people look like one? Try to find a record that would *falsify* the conclusion and log the attempt. Re-run `scripts/audit_dossier.py` (below).
-**Gate:** falsification attempts logged; surviving contradictions disclosed, not buried.
+Argue *against* your own conclusion before delivering: Could this be a same-name impostor? A step/adoptive/foster relationship recorded as biological? A clerical, OCR or informant error? A woman's record under another surname? A boundary/calendar error making two people look like one? Try to find a record that would *falsify* the conclusion and log the attempt. Re-read key handwritten passages blind (from the image, not your draft) and reconcile differences. Screen every number and chart — yours and your sources' — against the misleading-but-accurate catalogue in [references/statistics.md](references/statistics.md). Re-run `scripts/audit_dossier.py` (below).
+**Gate:** falsification attempts logged; surviving contradictions disclosed, not buried; transcription and statistics screens recorded.
 
-### Phase 8 — Dossier & delivery
-Write `06-dossier.md` from `templates/person-dossier.md`: a readable biography woven from *only* cited claims, with confidence labels visible, a timeline, family group, source list, unresolved questions, and a "next searches" list for anything left open. Deliver to the user: (1) the answer to the research question in ≤10 lines with its confidence label, (2) what proves it, (3) what remains unproven, (4) where the dossier lives, (5) exact retrieval instructions for any source you could not access. Offer, don't assume: family-tree import (GEDCOM notes), cemetery/photo follow-ups, archive order requests.
+### Phase 8 — Dossier, visuals & delivery
+Write `06-dossier.md`: a readable biography woven from *only* cited claims, with confidence labels visible, a timeline, family group, source list, unresolved questions, and a "next searches" list for anything left open.
+**Visuals (register in `10-visuals.md`, files in `visuals/`):** produce at minimum a family tree for the root person (pedigree/descendant/hourglass as the question demands — [references/family-tree-design.md](references/family-tree-design.md): confidence encoded in line styles, Unknown boxes explicit, biological vs adoptive/step lines distinct, living redacted) and a lifespan timeline; add migration maps, DNA cluster/segment charts, or risk icon arrays where they answer the question. Every delivery visual is generated from a data file in the case folder (`scripts/make_pedigree.py`, `scripts/make_charts.py`), carries claim IDs, shows uncertainty, and passes the visualisation checklist — a hostile reader must not be able to take away a stronger claim than the evidence supports.
+Deliver to the user: (1) the answer to the research question in ≤10 lines with its confidence label, (2) what proves it, (3) what remains unproven, (4) where the dossier and visuals live, (5) exact retrieval instructions for any source you could not access. Offer, don't assume: family-tree import (GEDCOM notes), cemetery/photo follow-ups, archive order requests.
 
 ## Detective & journalist overlays (apply throughout)
 
@@ -103,6 +111,10 @@ python3 scripts/kinship.py soundex "Kowalski"              # + variant hints for
 python3 scripts/dna_file_check.py <dna-file>               # detect CRAM/BAM/VCF/FASTQ/genotype format, build, counts — read-only, no network
 sha256sum <dna-file>                                       # checksum before any DNA analysis; record in 05-dna.md
 samtools quickcheck -v file.cram && samtools view -H file.cram   # CRAM integrity + reference (@SQ M5/UR) — see references/raw-dna-files.md
+python3 scripts/document_inventory.py <photo-or-pdf>...    # inventory handwritten-source images/PDFs before transcription
+python3 scripts/make_pedigree.py family.json --root P001 --mode pedigree -o visuals/pedigree.svg   # family tree (descendant mode too)
+python3 scripts/make_charts.py timeline life.csv -o visuals/timeline.svg   # lifespan chart; `bar` for honest zero-axis bars
+python3 scripts/stats.py risk --a-events 8 --a-n 1000 --b-events 4 --b-n 1000   # absolute AND relative risk + CIs; also proportion/bayes/or-to-rr
 ```
 
 Audit failures block a `PROVEN` conclusion until fixed or explicitly waived with a written reason in the dossier.
@@ -112,6 +124,9 @@ Audit failures block a `PROVEN` conclusion until fixed or explicitly waived with
 - "Research [name], born about …, died …, my [relationship]. Question: who were his parents?"
 - "Brick-wall: find [name]'s birthplace/maiden name/immigration."
 - "DNA: I have matches X, Y at …cM — how are we related to [ancestor]?"
+- "Transcribe this 1780s parish register photo / this will PDF and tell me what it actually says."
+- "Draw our family tree (5 generations) and a migration map I can print for a reunion — mark what's not proven."
+- "Is this claim true — 'our family had double the infant mortality of the time'?" → statistics workflow, absolute + relative.
 - "Audit this tree/dossier for proof before I share it." → run Phases 4–5 + 7 on the provided material; report claim-by-claim.
 
 ## Reference map (load on demand)
@@ -123,5 +138,9 @@ Audit failures block a `PROVEN` conclusion until fixed or explicitly waived with
 | atDNA/Y-DNA/mtDNA, clustering, triangulation, WATO, endogamy, sensitive results | [references/dna.md](references/dna.md) |
 | Raw DNA files: CRAM/BAM/SAM, VCF, FASTQ, consumer genotype TXT/CSV — validation, conversion, samtools/bcftools, build & privacy rules | [references/raw-dna-files.md](references/raw-dna-files.md) |
 | Deceased-only scope, living people, DNA privacy, sensitive findings, cultural/Indigenous records | [references/ethics-and-privacy.md](references/ethics-and-privacy.md) |
-| Intake, plan, log, timeline, evidence, conflicts, DNA worksheet, dossier | [templates/](templates/) |
-| A complete fictional worked example (all names invented) | [examples/fictional-mini-case.md](examples/fictional-mini-case.md) |
+| Old handwriting in photos/PDFs: image QC, two-pass transcription, conventions, scripts/languages, HTR limits | [references/paleography.md](references/paleography.md) |
+| Statistics: absolute vs relative risk, Bayes, base rates, demographic measures, 20 misleading-but-accurate techniques | [references/statistics.md](references/statistics.md) |
+| Charts/graphs/timelines/maps: chart choice, honesty rules, accessibility, reproducibility | [references/visualisation.md](references/visualisation.md) |
+| Family tree design: pedigree/descendant/hourglass/fan, confidence line styles, collapse, unions, print scale | [references/family-tree-design.md](references/family-tree-design.md) |
+| Intake, plan, log, timeline, evidence, conflicts, DNA, dossier, transcriptions, statistics, visuals | [templates/](templates/) |
+| Complete fictional worked examples (all names invented) | [examples/fictional-mini-case.md](examples/fictional-mini-case.md) · [examples/visual-stats-transcription-example.md](examples/visual-stats-transcription-example.md) |
