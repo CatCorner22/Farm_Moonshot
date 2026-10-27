@@ -44,6 +44,7 @@
 | S058 | 1910 Kentucky Soundex (NARA T1275), IA `soundex1910ky124` PDF (762 pp). **Derivative scan:** EasyOCR every 25 pages for Newman children patterns (McCoy+Newman; John/Riss/Mary M + Newman) — **nil** | D (negative vs indexed child cards) | Soundex clerks |
 | S059 | USGenNet Lee 1910 Fincastle (`fincastle.html`) and New Virginia (`newva.html`) transcriptions accessed 27 Oct 2026. **Transcription only.** Full-text search: **no** Newman/Newnam surname | D (negative in those EDs) | Transcriber |
 | S060 | USGenNet Owsley Co. vital statistics deaths 1910 (`1910.html`) and death certificates 1911 (`1911dc.html`) accessed 27 Oct 2026. **Transcription only.** **No** Newnam/Newman decedent matching Samuel P. | D (negative) | Transcriber / KY DC |
+| S061 | USGenNet Lee County death certificate extracts 1914 (`1914.html`) accessed 27 Oct 2026. **Transcription only.** Iva May Withers, 14, d. 30 Jan 1914, residence **Sturgeon, Lee Co.**; no Samuel P. Newnam entry in file | D (negative Samuel) / FAN (Sturgeon) | Transcriber |
 
 ## Claims
 | Claim ID | Claim (one fact) | Confidence | Evidence | Source IDs | Conflicts → 07 |
