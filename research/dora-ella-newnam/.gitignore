@@ -1,0 +1,5 @@
+# Raw DNA is biometric data: never commit it.
+sources/dna/
+*.cram *.bam *.sam *.vcf *.vcf.gz *.bcf *.fastq *.fastq.gz *.fq *.fq.gz
+*AncestryDNA*.txt *23andMe*.txt
+genotype*.txt raw-dna*
