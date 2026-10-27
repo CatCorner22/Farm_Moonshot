@@ -14,3 +14,7 @@ Prioritised queue — work top to bottom. **Do not declare research complete whi
 
 ## Escalation log (brick walls — step number from exhaustive-research.md)
 | Date | Wall | Steps 1–8 attempted | Outcome |
+
+## Roadblock log (creative workarounds — before `blocked` or asking the user; ≥3 ladder steps)
+| R### | Type A–I | What failed | Ladder steps tried (A1,F2,…) | Log IDs | Next autonomous step | User ask (only if unavoidable; one action + citation + payoff) |
+|---|---|---|---|---|---|---|

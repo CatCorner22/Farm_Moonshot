@@ -82,7 +82,7 @@ If the user says **exhaustive**, **don't stop**, **intensive**, or **world-class
 ## When you may pause without guilt
 
 - User explicitly redirects scope ("stop at grandparents").
-- Hard block documented: records destroyed (cite destruction source), privacy law, paywall/on-site with `deferred` + exact order form filled for user.
+- Hard block documented: records destroyed (cite destruction source), privacy law, paywall/on-site with `deferred` + exact order form filled for user — **only after** [creative-workarounds.md](creative-workarounds.md) ladders and [proactive-autonomy.md](proactive-autonomy.md) (≥3 logged steps, no homework lists).
 - Living-person boundary reached on a line (research deceased generation instead).
 - You have met the **completion contract** and passed `audit_dossier.py` + `research_status.py` with zero unjustified `open` items.
 
