@@ -5,7 +5,7 @@
 - **Confirmed deceased?** Yes. Arkansas death certificate, Yell Co. file/cert. 1524, death noon 23 Aug 1926 at Ola; burial 24 Aug 1926 Carters Chapel. Independent cemetery reading “Newman, Dora” at Carter Cove (Daniels/Cossey, 5 Feb 1993).
 - **Research question (one sentence):** Reconstruct, to GPS standard, the documented life of deceased Dora Ella Newnam (later Stone) — parentage, marriages, children, residences, migration, death and burial — and write a cited biography, not a thin parentage abstract.
 - **Definition of done:** Maximal documented biography of deceased Dora with footnotes, confidence labels, conflict resolutions, and next-search instructions for anything still closed (paywall/on-site). Living people redacted.
-- **Date opened / last updated:** Opened from prior Dora cloud-agent work; this case folder filled 27 Oct 2026 (America/New_York).
+- **Date opened / last updated:** Opened from prior Dora cloud-agent work; case folder filled 27 Oct 2026 (America/New_York); Soundex pass 2 (MO/TN/KY S-350 + Samuel 1880/1910) same date.
 
 ## What the user already has (leads, not proof — label lore as lore)
 | Item | Type | Provenance (who/when/from what) | Location |
