@@ -5,7 +5,8 @@
 - **Answer + confidence:** Identity and 1885–1900 life **PROVEN/PROBABLE**. Parentage **PROBABLE**. Birth **August 1871 (year PROVEN; day 11 POSSIBLE)**. Second marriage to T. A. Stone **PROBABLE**. **1910 whereabouts still unknown** after statewide N-550 negatives in KY, AR, and MO, plus TN Coy, Dora D-block, **and McCoy M-window** negatives; she was not Mrs. Stone in Kentucky that April. January 1920: not in AR (prior) and **not in KY as Newman Dora ~48**.
 - **GPS gates:** exhaustive ☑ for the rows searched · citations ☑ · analysis ☑ · conflicts resolved ☑ (open items named) · written conclusion ☑ — **not PROVEN for 1910 location or m2 identity** because those GPS elements remain incomplete (H3 third surname still open).
 - **Open items:** 1920 KY S-350 Dora Stone; 1920 TN N-550 Dora; Tom A. Stone 1925 DC; Stone×Newnam license; Samuel’s death (not Lee 1911–1929); John H.; Mary Bunch death; Rissie TN; Carter Cove photo; Yell County Journal; Elias 1920 Burke household schedule.
-- **Last updated:** 27 Oct 2026, America/New_York (intensive pass 3).
+- **Last updated:** 27 Oct 2026, America/New_York (image gallery).
+- **Image gallery:** [12-image-gallery.md](12-image-gallery.md) — all 30 captured JPEGs, labelled, in chronological order.
 - **Canvas:** [Dora Ella Newnam Stone dossier](https://cursor.com/canvas/store-6a1d2d3c-dd92-4055-81f6-744cee0662b9/b34f9d4d-e7c7-45e3-91d6-4596317d8e45)
 
 ## Answer to the research question (≤10 lines, confidence-labelled)

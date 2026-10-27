@@ -106,6 +106,10 @@
   sha256: 23610f8aa4c159b1b554ed1786d11f57d2f56f8a2e8994f7289ae7bd02dfca53
   format: JPEG photo, 1718x1146px
   check: full page + margins + verso? straight-on, no glare/flash, strokes several px tall? (paleography.md intake)
+/workspace/research/dora-ella-newnam/sources/soundex/tn1910-n550-p2465-melvin-giles.jpg  (167,874 bytes)
+  sha256: abef2786c2fbe8b00a469f7b8057cfdc4802d7f5010f3966b0b1b944ae407979
+  format: JPEG photo, 1718x1162px
+  check: full page + margins + verso? straight-on, no glare/flash, strokes several px tall? (paleography.md intake)
 /workspace/research/dora-ella-newnam/sources/soundex/tn1910-n550-p2466-minerva.jpg  (164,892 bytes)
   sha256: 4340443a585fadc25d224a958097a491978de03b6bedec37564921bb943b389c
   format: JPEG photo, 1718x1162px
