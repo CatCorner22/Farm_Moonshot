@@ -33,7 +33,8 @@ def main():
     need("☐" not in dossier.split("GPS gates")[1].split("\n")[0] if "GPS gates" in dossier else False,
          "06-dossier: GPS gate still unchecked (☐) — cannot claim PROVEN")
     # Negative searches logged?
-    need(re.search(r"\bnil\b|nothing found|no record found", txt["02-log.md"], re.I) is not None,
+    log_rows = [l for l in txt["02-log.md"].splitlines() if re.match(r"\|\s*L\d+", l) and "found / nil / n-a" not in l]
+    need(any(re.search(r"\bnil\b|nothing found|no record found", l, re.I) for l in log_rows),
          "02-log: no negative (nil) searches logged — exhaustiveness not demonstrated", WARN)
     # Unresolved conflicts?
     conf = [l for l in txt["07-conflicts.md"].splitlines() if l.startswith("|") and "open" in l.lower()]

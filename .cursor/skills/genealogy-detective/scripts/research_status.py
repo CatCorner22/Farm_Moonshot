@@ -12,7 +12,8 @@ def main():
     log = (root / "02-log.md").read_text(errors="replace") if (root / "02-log.md").exists() else ""
     open_items = [l for l in backlog.splitlines() if re.search(r"\|\s*B\d+", l) and re.search(r"\bopen\b|\bin_progress\b", l, re.I)]
     deferred = [l for l in backlog.splitlines() if re.search(r"\|\s*B\d+", l) and "deferred" in l.lower()]
-    nil_logged = bool(re.search(r"\bnil\b|nothing found|no record", log, re.I))
+    log_rows = [l for l in log.splitlines() if re.match(r"\|\s*L\d+", l) and not re.search(r"found / nil / n-a", l)]
+    nil_logged = any(re.search(r"\bnil\b|nothing found|no record", l, re.I) for l in log_rows)
     print(f"Case: {root}")
     print(f"Backlog: {len(open_items)} open/in_progress, {len(deferred)} deferred")
     if open_items:
