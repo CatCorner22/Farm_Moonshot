@@ -94,6 +94,8 @@
 | C076 | In USGenNet Lee 1910 transcripts for Proctor (ED 100), Fincastle (ED 96), and New Virginia (ED 97), **no** household lists Samuel P. Newnam, Dora (Newnam/Stone), or McCoy Newnam as head or named member | PROBABLE (negative; Sturgeon ED 99 not in set) | S057 S059 | |
 | C077 | McCoy and the 1900 children John H., Rissie, and Mary M. were not caught on KY Apr 1910 Soundex `soundex1910ky124` in a derivative OCR pass for Newman child patterns | PROBABLE (negative) | S058 | |
 | C078 | Samuel P. Newnam does not appear among Owsley Co. deaths extracted for 1910 or in the 1911 Owsley DC table read this pass | PROBABLE (negative for those lists) | S060 S047 | #3 |
+| C079 | Samuel P. Newnam does not appear in the USGenNet Lee County 1914 death-certificate extract set searched this pass | PROBABLE (negative for that file) | S061 | #3 |
+| C080 | Sturgeon Mag. Dist. / precinct was still a named residence in Lee County in January 1914 (Withers child, Sturgeon) | PROVEN (one line) | S061 | FAN |
 
 ## Same-person merges (Hard Rule 3)
 | Records merged | Identifier 1 | Identifier 2 | Contradictions? | Verdict |
