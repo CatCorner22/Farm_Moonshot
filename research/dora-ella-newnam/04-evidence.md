@@ -23,7 +23,15 @@
 | S025 | 1910 Tennessee Soundex (NARA T1272), N-550, IA `soundex1910tn073`. Handwritten family (10-636) and individual (10-637) cards. D-tab divider n2177 (Coy end). **Image seen.** SHA-256 `8f1dfd4e1e18345f8109c12107b8f42a51613d2de83164568b48936383cf7a62`. Adjacent cards n2170–n2210 and n2460–n2480 sampled | D (negative) | Soundex clerks |
 | S026 | 1910 Kentucky Miracode S-350, IA `soundex1910ky154` printed pp. 149–150 (IA n149–n150). Two Dora Stone cards, both rejected. **Images seen.** SHA-256 p149 `4a5550d93da110665fabd42d7ed795680024a5f1ce1a86c4b59b1dfc7ef387df`; p150 `8d689a5db6656d4b38ad5f592721e3ffe56722f35346b4bc4f5a8564b91bf11d` | D (negative vs P001) | Soundex clerks |
 | S027 | 1910 Kentucky Miracode N-550, S-given-names, IA `soundex1910ky124` printed pp. 342–343 (IA n343–n344). Six Samuel/Sam cards; none is P002. **Images seen.** SHA-256 p342 `85b2055e2edad60f823b76ea0264750a83ee8df7005e558dfe2e6ea412675979`; p343 `1e7b8ffa8d20b65236915b417e730b0cc452bc162a9828f2b8bd8630aceded9a` | D (negative) | Soundex clerks |
-| S040 | 1880 U.S. census, Lee Co., Kentucky, ED 59, sheet 1 (stamped p. 1 / SD 3 / p. 460), dwelling/family 3/3, enum. 1 Jun 1880 by James J. Hampton. NARA T9 reel 427; IA `10thcensus0427unit` n725. **Image seen.** SHA-256 `3ee18d923c7a2b59a9a063825323bc729f5da902cfd86cf44f04a6d11957ebcb`. File: `sources/census/1880-lee-ky-ed59-sheet1-p725-john-samuel.jpg` | O | Enumerator; household likely present |
+| S040 | 1880 U.S. census, Lee Co., Kentucky, ED 59, sheet 1 (stamped p. 1 / SD 3 / p. 460), dwelling/family 3/3, enum. 1 Jun 1880 by James J. Hampton. NARA T9 reel 427; IA `10thcensus0427unit` n725. **Image seen** (nativity re-read this pass). SHA-256 `3ee18d923c7a2b59a9a063825323bc729f5da902cfd86cf44f04a6d11957ebcb`. File: `sources/census/1880-lee-ky-ed59-sheet1-p725-john-samuel.jpg` | O | Enumerator; household likely present |
+| S028 | 1910 Tennessee Soundex (NARA T1272), N-550 M-given-name window, IA `soundex1910tn073` n2461–n2469. **Images seen.** Sequence Mary D → Mary M → Mek. G → Melvin (2) → Minerva → Minnie → Mitchell; **no McCoy.** SHA-256 n2463 `23610f8aa4c159b1b554ed1786d11f57d2f56f8a2e8994f7289ae7bd02dfca53`; n2469 `340489566090880388fa6b81ca5751c5944dcaf56a7b44f70fe560788f308586` | D (negative) | Soundex clerks |
+| S042 | 1870 U.S. census, Sturgeon Precinct, Lee Co., Kentucky, p. 4 (USGenNet “337b”), dwelling/family 19/19, enum. 29 Jun 1870 by Chas. D. Tyler, PO Proctor. NARA M593 reel 481; IA `populationschedu0481unit` n69. **Image seen.** SHA-256 `696f3dcfb500287ace8e76842d6ec1746c7d6d723381b00c41231bffe970534d`. File: `sources/census/1870-lee-ky-sturgeon-p337b-john-elizabeth-samuel.jpg`. Adjacent n68 (p.3 stamped 337) SHA-256 `8fd3e81786d35b699c47d62f366c377b39a8eb625e50621a04b5bf1728894000` | O | Enumerator; household likely present |
+| S043 | Debi Houser, transcriber, “1870 Census of Lee County, KY p.337b,” USGenNet/ALHN, https://usgennet.org/usa/ky/county/lee/census/1870/337b.HTM accessed 27 Oct 2026. **Transcription only** (agrees with S042) | D | Transcriber from NARA schedules |
+| S044 | 1880 U.S. census, Lee Co., Kentucky, ED 59, sheet 2, continuation of dwelling 11. NARA T9 reel 427; IA `10thcensus0427unit` n726. **Image seen.** McQueary household: Mary 50 wife; Eli 16; **Samuel 13 son** (not Newnam). SHA-256 `15414c93151a23b408e3ae320a80973b956e4d25f4392bea489ec2bd14e7a294`. File: `sources/census/1880-lee-ky-ed59-sheet2-p726-mcqueary-samuel.jpg` | O | Enumerator |
+| S045 | 1920 Kentucky Soundex (NARA M1560), N-550 D-given-names, IA `soundex1920ky117` n4200–n4205. **Images seen.** Dora 29 Paducah (Vaelkel); Dora E. 10 Cumberland (Riddle); then Dougal; E-tab. **No Dora ~48.** SHA-256 n4201 `4eb9d03ded47656b60ea86c22938e5aad3a47ff6501f194e07126d5c2c45cef2`; n4203 `b6f52059d2d71e21b1b97ac54005b1493c5724a5ac49d6bb8b3e07eb7d84d92a`; n4205 `9e1def9d61d3209bbd57a0795f5dd896e8c2cbcd083d6a996ed03d139736e7f3` | D (negative vs P001) | Soundex clerks |
+| S046 | Same reel, n4208: Neuman, E.T., 75, W, KY, Lee Co., Beattyville, Grand Ave.; enumerated with Burke, C.B.; relationship Grand Father. **Image seen.** SHA-256 `e5b75c0df9bd1f4a65e1db130b85c38954ce25bbdef21e8b677f915c23bfcf3e` | D of O | Soundex clerk extracting 1920 schedule |
+| S047 | “Lee County Kentucky Death Index 1911–1929, N,” USGenNet, https://usgennet.org/usa/ky/county/lee/deaths/kdi/n.html accessed 27 Oct 2026. **Index only.** Newman/Newnam entries listed; none is Samuel P, Dora, John H, or Elias | D (negative) | Compiler from KY Death Index CD |
+| S048 | Debi Houser Kendrick, transcriber, “1870 Owsley County Kentucky Census — Travellers Rest,” hh 131/128 Elias NEWNAM. https://usgennet.org/usa/ky/county/owsley/census/1870/travrest.html accessed 27 Oct 2026. **Transcription only.** 7 Jun 1870: Elias 26, Mary 26, William D 11, Malissa D 6, Frances 3, Mary 1 — no Dora | D | Transcriber from NARA schedules |
 
 ## Claims
 | Claim ID | Claim (one fact) | Confidence | Evidence | Source IDs | Conflicts → 07 |
@@ -42,17 +50,25 @@
 | C020b | Names of those two children | SPECULATIVE | No baptism, stone, or register yet | — | |
 | C021–C025 | Living children 1900: McCoy Apr 1890; Mary M. Jun 1892/12 Jun 1893; Pearl Mar 1895/15 Mar 1895; Rissa May 1897; John H. Aug 1899 | PROVEN as 1900 household; birth dates PROBABLE | S005 S006 S007 | #5 Mary’s year |
 | C030 | Dora was not enumerated in Kentucky in Apr 1910 under Newman/Newnam (N-550), as head or as an individually carded person named Dora | PROVEN (negative, statewide Soundex) | S020 | | |
-| C031 | McCoy/Coy Newnam was not in KY, AR, or MO N-550 in Apr 1910 | PROVEN (negative, three states) | S021 S022 S023 | | |
+| C031 | McCoy/Coy Newnam was not in KY, AR, or MO N-550 in Apr 1910 | PROVEN (negative, three states) | S021 S022 S023 | |
+ |
 | C032 | Dora was not in Arkansas Apr 1910 as Newman/Newnam (N-550 Dora/Ella) | PROVEN (negative) | S022 | |
 | C033 | 1910 residence still unknown (other surname / wife-of-head / missed / another state) | POSSIBLE hypotheses | four-state Newman negatives + Coy’s 1917 AR marriage | S020–S023 S025 | |
 | C034 | Dora was not in Missouri Apr 1910 as Newman/Newnam N-550 Dora ~39 (head or individually carded) | PROVEN (negative) | S023 | |
 | C035 | Coy/McCoy Newnam was not in Missouri Apr 1910 as N-550 Coy or McCoy | PROVEN (negative) | S023 | |
 | C036 | Coy Newnam was not in Tennessee Apr 1910 as an N-550 C-given-name card (D-tab divider seen after Clifford) | PROVEN (negative) | S025 | |
 | C037 | Dora was not in Tennessee Apr 1910 as an N-550 D-given-name card ~39 (D-block through Elizabeth sampled) | PROBABLE (negative; 10-frame D-window sampled, not every continuation) | S025 | |
+| C031b | McCoy/Coy Newnam was not in Tennessee Apr 1910 as an N-550 McCoy card (M-window Mary→Milton read card-by-card) | PROVEN (negative) | S028 | |
 | C038 | Dora was not indexed in Kentucky Apr 1910 as Dora Stone (S-350); two other Dora Stones exist and fail the same-person test | PROVEN (negative vs P001) | S026 | |
 | C039 | Samuel P. Newnam was not a Kentucky N-550 household head in Apr 1910 | PROVEN (negative) | S027 | |
-| C060 | On 1 Jun 1880 a Samuel Newnam, 11, son of John (69) and Mary (57), lived in Lee Co. ED 59 dw 3 | PROVEN as a census line | S040 | #9 which John/Mary |
-| C061 | That Samuel 11 is P002 (the 1885 groom / 1900 husband) | PROBABLE | Age 11 in Jun 1880 = b. ~1869, matching 1900 Jun 1869 and 1885 age 16; same ED as Dora; surname Newnam. A second Samuel ~13 in hh 11 is **not merged** | S040 S004 S005 | #9 | |
+| C060 | On 1 Jun 1880 a Samuel Newnam, 11, son of John (69) and Mary (57), lived in Lee Co. ED 59 dw 3; John b. KY father N.C. mother Ky; Mary b. KY both parents Ky | PROVEN as a census line | S040 | #9 which John/Mary |
+| C061 | That Samuel 11 is P002 (the 1885 groom / 1900 husband) | PROBABLE | Age 11 in Jun 1880 = b. ~1869, matching 1900 Jun 1869 and 1885 age 16; same ED as Dora; surname Newnam. The “second Samuel ~13 in hh 11” is **McQueary**, not Newnam (C063) | S040 S004 S005 S044 | #9 |
+| C062 | On 29 Jun 1870 a Samuel Newman, 1, lived in Sturgeon Precinct hh 19 with John Newman 50 (farm labourer) and Elizabeth 25 (keeping house), plus Mary 21, Sarah 18, Celia 16, Margret 9, Nancy 8, John 7, Sousanna 5 | PROVEN as a census line | Original schedule | S042 S043 | #9 |
+| C063 | The Samuel ~13 on ED 59 sheet 2 (hh 11) is Samuel McQueary, son of John & Mary McQueary, **not** a Newnam | PROVEN | Sheet 2 continuation names | S044 | |
+| C064 | Dora was not indexed in Kentucky Jan 1920 as Newman/Newnam Dora ~48 (N-550 D-names through the E-tab) | PROVEN (negative vs P001) | Three Dora cards fail age/relationship | S045 | |
+| C065 | E.T. Neuman, 75, was grandfather in C.B. Burke’s Beattyville house in 1920 | PROBABLE = P004 Elias T. Newnam | Age ~78 if b. 1842; Lee/Beattyville; N-550 | S046 | |
+| C066 | Samuel P. Newnam did not die in Lee County 1911–1929 under Newman/Newnam | PROVEN (negative, county death index) | No matching adult male | S047 | #3 |
+| C067 | On 7 Jun 1870 Elias Newnam’s Travellers Rest household had no daughter Dora (youngest Mary, 1) | PROVEN (transcription; original not isolated) | Direct absence | S048 | #1 |
 | C050 | Tom A. Stone of 1920 Howell Twp is the only widowed T. A. Stone in 1920 AR Soundex | PROBABLE (prior exhaustive S-350 read) | S102–S105 | #4 |
 
 ## Same-person merges (Hard Rule 3)
@@ -63,8 +79,13 @@
 | 1904 S. P. Newnam × Rosa Banks + P002 Samuel | Name initials | Age 30 in 1904 vs Samuel b. 1869 (would be 35); 2nd marriage | **Not merged** |
 | Dora GD 12 Knox 1910 (Joseph Frye) + P001 | Given name Dora, surname Newman | Age 12 vs 38; Knox vs Lee/AR | **Rejected** |
 | Arnold Nehoman’s dau. Dora 13, Lee Co. **Arkansas** 1910 + P001 | Given name | Age 13; parents Arnold & Lucy; Lee AR not Lee KY | **Rejected** |
-| 1880 Samuel 11 (John 69 & Mary 57, ED 59 dw 3) + P002 | Age + surname + same district as 1885 wedding | Prior lore named mother **Elizabeth**; census wife is **Mary**. A second Samuel ~13 in hh 11 exists | **PROBABLE merge; mother-name conflict open (#9)** |
-| 1880 Samuel ~13 (hh 11, younger John) + P002 | Surname + district | Age 13 ⇒ ~18 in Dec 1885, not 16; different parents | **Not merged** |
+| 1880 Samuel 11 (John 69 & Mary 57, ED 59 dw 3) + P002 | Age + surname + same district as 1885 wedding | Prior lore named mother **Elizabeth**; census wife is **Mary**. 1870 hh 19 is a better natal match for Elizabeth | **PROBABLE merge; mother-name conflict open (#9)** |
+| 1880 Samuel ~13 (hh 11) + P002 | — | Sheet 2 shows **McQueary**, not Newnam | **Rejected (wrong surname)** |
+| 1870 Samuel 1 (John 50 & Elizabeth 25, Sturgeon hh 19) + P002 | Age (1 in 1870 = b. ~1869) + Elizabeth matches Pearl’s 1910 grandmother | 1870 John 50 ≠ 1880 John 69; 1870 children (Sousanna 5, John 7, no Eli) ≠ 1880 children (Susan 20, Eli 16, Hannah 9) | **PROBABLE natal household; not silently merged with 1880 dw 3** |
+| 1920 Newman Dora 29 Paducah (Vaelkel daughter) + P001 | Given name Dora, N-550 | Age 29 vs ~48; Paducah; daughter of Mary E. Vaelkel | **Rejected** |
+| 1920 Newman Dora E. 10 Cumberland (Riddle GD) + P001 | Given name | Age 10 vs ~48 | **Rejected** |
+| 1920 Newman Edd’s wife Dora 28 Logan + P001 | Given name | Age 28; husband Edd; Logan Co. | **Rejected** |
+| 1920 Neuman E.T. 75 Beattyville + P004 Elias | Initials E.T.; age ~75–78; Lee/Beattyville; N-550 | Soundex spelling Neuman; relationship “Grand Father” of C.B. Burke not yet tied to a named daughter | **PROBABLE** |
 | 1910 Samuel E Newman 41 Muhlenberg (Lou E + five children) + P002 | Age 41 | Wife Lou E ≠ Dora; children Bertha/Luea/Joseph/Mary/Minnie ≠ Sturgeon set; Muhlenberg ≠ Lee | **Rejected** |
 | 1910 Dora L Neimann 48 IL, St Louis (Felsh MIL) + P001 | Given name Dora, N-550 | Age 48 vs ~39; b. Illinois; surname Neimann; MIL of Arthur E Felsh | **Rejected** |
 | 1910 Dora Stone 36 Black Louisville servant + P001 | Given name + Stone | Race Black vs white; servant; Louisville | **Rejected** |

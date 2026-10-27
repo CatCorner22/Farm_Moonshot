@@ -2,15 +2,15 @@
 
 ## Status block (update every session)
 - **Research question:** Reconstruct the documented life of deceased Dora Ella Newnam (later Stone) — parentage, marriages, children, residences, death — as a cited biography.
-- **Answer + confidence:** Identity and 1885–1900 life **PROVEN/PROBABLE**. Parentage **PROBABLE**. Birth **August 1871 (year PROVEN; day 11 POSSIBLE)**. Second marriage to T. A. Stone **PROBABLE**. **1910 whereabouts still unknown** after statewide N-550 negatives in KY, AR, and MO, plus TN Coy/Dora D-block negatives; she was not Mrs. Stone in Kentucky that April. January 1920 still unknown (prior AR Soundex).
+- **Answer + confidence:** Identity and 1885–1900 life **PROVEN/PROBABLE**. Parentage **PROBABLE**. Birth **August 1871 (year PROVEN; day 11 POSSIBLE)**. Second marriage to T. A. Stone **PROBABLE**. **1910 whereabouts still unknown** after statewide N-550 negatives in KY, AR, and MO, plus TN Coy, Dora D-block, **and McCoy M-window** negatives; she was not Mrs. Stone in Kentucky that April. January 1920: not in AR (prior) and **not in KY as Newman Dora ~48**.
 - **GPS gates:** exhaustive ☑ for the rows searched · citations ☑ · analysis ☑ · conflicts resolved ☑ (open items named) · written conclusion ☑ — **not PROVEN for 1910 location or m2 identity** because those GPS elements remain incomplete (H3 third surname still open).
-- **Open items:** TN McCoy 9-frame Soundex gap; Tom A. Stone 1925 DC; Stone×Newnam license; Samuel’s death record; John H.; Mary Bunch death; Rissie TN; Carter Cove photo; Yell County Journal.
-- **Last updated:** 27 Oct 2026, America/New_York (Soundex pass 2).
+- **Open items:** 1920 KY S-350 Dora Stone; 1920 TN N-550 Dora; Tom A. Stone 1925 DC; Stone×Newnam license; Samuel’s death (not Lee 1911–1929); John H.; Mary Bunch death; Rissie TN; Carter Cove photo; Yell County Journal; Elias 1920 Burke household schedule.
+- **Last updated:** 27 Oct 2026, America/New_York (intensive pass 3).
 - **Canvas:** [Dora Ella Newnam Stone dossier](https://cursor.com/canvas/store-6a1d2d3c-dd92-4055-81f6-744cee0662b9/b34f9d4d-e7c7-45e3-91d6-4596317d8e45)
 
 ## Answer to the research question (≤10 lines, confidence-labelled)
 
-Dora Ella Newnam was the daughter of Elias T. “Doll” Newnam and Mary (Smallwood) Newnam (**PROBABLE**). She was born in August 1871 in Lee County, Kentucky (**year PROVEN** by her age 8 on the 5 June 1880 schedule; **day 11 POSSIBLE** from the 1926 certificate; **year 1868 DISPROVED**). On 10 December 1885, aged fourteen, she married her kinsman Samuel P. Newnam at her father’s house (**PROVEN**, Book 2 transcription). Samuel, 11, was almost certainly the son in John Newnam’s dwelling 3 on the same district’s sheet 1 (**PROBABLE**; his mother is named Mary there, which conflicts with compiled “Elizabeth”). By 1 June 1900 they were at Sturgeon precinct dwelling 67 with five living children of seven born (**PROVEN**, transcription). In April 1910 she is **not** in Kentucky, Arkansas, or Missouri as Newman/Newnam Dora, nor is Coy in those states or in Tennessee’s C-names; Samuel is **not** a Kentucky Newman head (**PROVEN negatives**). Two Kentucky Dora Stones that April are the wrong women. She died a Stone at Ola, Yell County, Arkansas, at noon 23 August 1926, of apoplexy, informant her son Coy; buried the next day at Carters Chapel (**PROVEN**, certificate, prior session). The husband named on that certificate, T. A. Stone, is **PROBABLE** Tom A. Stone, a Missouri-born widower living in Howell Township, Perry County, in February 1920, whose marker at the same cemetery reads 1845–1925 (birth year unresolved).
+Dora Ella Newnam was the daughter of Elias T. “Doll” Newnam and Mary (Smallwood) Newnam (**PROBABLE**). She was born in August 1871 in Lee County, Kentucky (**year PROVEN** by her age 8 on the 5 June 1880 schedule; **day 11 POSSIBLE** from the 1926 certificate; **year 1868 DISPROVED**). On 10 December 1885, aged fourteen, she married her kinsman Samuel P. Newnam at her father’s house (**PROVEN**, Book 2 transcription). Samuel, 11, in John and Mary Newnam’s dwelling 3 on 1 June 1880 is **PROBABLE** the 1885 groom; a same-aged Samuel, 1, in John and Elizabeth Newman’s Sturgeon house on 29 June 1870 is **PROBABLE** his natal line (Pearl’s 1910 grandmother Elizabeth). Those two households are **not** silently merged (conflict #9). By 1 June 1900 they were at Sturgeon precinct dwelling 67 with five living children of seven born (**PROVEN**, transcription). In April 1910 she is **not** in Kentucky, Arkansas, or Missouri as Newman/Newnam Dora, nor is Coy in those states, in Tennessee’s C-names, or in Tennessee’s McCoy M-window; Samuel is **not** a Kentucky Newman head (**PROVEN negatives**). Two Kentucky Dora Stones that April are the wrong women. In January 1920 she is **not** in Kentucky as Newman Dora ~48 (three other Doras rejected). She died a Stone at Ola, Yell County, Arkansas, at noon 23 August 1926, of apoplexy, informant her son Coy; buried the next day at Carters Chapel (**PROVEN**, certificate, prior session). The husband named on that certificate, T. A. Stone, is **PROBABLE** Tom A. Stone, a Missouri-born widower living in Howell Township, Perry County, in February 1920, whose marker at the same cemetery reads 1845–1925 (birth year unresolved).
 
 ## Biography (only cited claims; confidence visible where < PROVEN)
 
@@ -26,9 +26,9 @@ The parents on that schedule are the couple her death certificate would name: El
 
 The Lee County marriage book, as transcribed by Debi Kendrick, records the wedding: Samuel P. Newnam, 16, farmer, born Owsley, father born Clark, mother born Owsley, first marriage, to Dora Ella Newnam, 14, born Lee, first marriage, parents both recorded as Owsley-born — a slip, Elias having been born in Clark. Married Thursday, 10 December 1885, at Doll Newnam’s, by J. E. Dunagin; witnesses Doll Newnam and Link Mays. [C010][S004] The original page (FamilySearch Q2QD-PZHL) has not been seen from this VM.
 
-Samuel was family. This session found him — if the identification holds — on the first page of the same district: dwelling 3, 1 June 1880, **Samuel, 11, son** of John Newnam, 69, farmer, and Mary, 57, with Eli 16, Susan 20, and Hannah 9. [C060][C061][S040] Age 11 in June 1880 is exactly the June 1869 birth of the 1900 husband and the sixteen-year-old of December 1885. A second Samuel, about 13, in dwelling 11 belongs to a younger John and is **not** merged.
+Samuel was family. On the first page of the same district, dwelling 3, 1 June 1880: **Samuel, 11, son** of John Newnam, 69, farmer (b. Kentucky, father North Carolina), and Mary, 57 (b. Kentucky, both parents Kentucky), with Eli 16, Susan 20, and Hannah 9. [C060][C061][S040] Age 11 in June 1880 is exactly the June 1869 birth of the 1900 husband and the sixteen-year-old of December 1885. The “second Samuel ~13” on sheet 2 is **Samuel McQueary**, not a Newnam. [C063][S044]
 
-Compiled work had made him the son of John Newnam Jr. by a second wife **Elizabeth** (the widow who later took Pearl). The 1880 wife in dwelling 3 is **Mary**. That is conflict #9: the boy’s age fits; the mother’s name does not, unless Mary and Elizabeth are the same woman. The identification of this Samuel 11 as Dora’s husband stays **PROBABLE**. Do not print “son of Elizabeth” as fact until a record joins those names.
+Ten years earlier, on 29 June 1870, Sturgeon Precinct household 19 held **Newman, John, 50**, farm labourer, **Elizabeth, 25**, keeping house, and **Samuel, 1**, with eight others. [C062][S042] That Elizabeth is the right age for the widow who later took Pearl. The 1870 and 1880 households are **not** the same house with a bad enumerator: John ages 50→69, wives Elizabeth 25 vs Mary 57, and the children’s names do not carry over. Conflict #9 stays open. Do not print “son of Elizabeth” or “son of Mary” as fact. The identification of Samuel 11 as Dora’s husband stays **PROBABLE**; the 1870 boy is **PROBABLE** the same child in a different house (natal vs later).
 
 ### 3. Seven children, five living, Sturgeon Creek
 
@@ -44,7 +44,7 @@ Arkansas was already closed (no Coy between Cora and Dan; no Dora before the E-n
 
 Missouri, the Sullivan hypothesis, is now closed for the surname. The 1910 Missouri Miracode N-550 has no Coy between Cyrus and Daisy, no Dora ~39 (the only Dora is Dora L. Neimann, 48, Illinois-born, mother-in-law of Arthur E. Felsh in St. Louis), and no McCoy between May and Michael. [C034][C035][S023]
 
-Tennessee’s handwritten N-550 reel is 5,806 cards. N-550 begins around Amos (n2120). After Clifford of Lauderdale comes a blank **D** tab — Coy is not there. [C036][S025] The D-block runs D.H., David, Daniel, Den, then Elizabeth; no Dora of thirty-nine. McCoy’s M-window between Mary C. (n2460) and Milton (n2470) was not read card-by-card.
+Tennessee’s handwritten N-550 reel is 5,806 cards. N-550 begins around Amos (n2120). After Clifford of Lauderdale comes a blank **D** tab — Coy is not there. [C036][S025] The D-block runs D.H., David, Daniel, Den, then Elizabeth; no Dora of thirty-nine. McCoy’s M-window is now closed: Mary D, Mary M, Mek. G of Cheatham, two Melvins of Giles, Minerva, Minnie, Mitchell — **no McCoy**. [C031b][S028]
 
 She was not Mrs. Stone in Kentucky either. The S-350 Dora cards are a 36-year-old Black servant in Louisville and an 18-year-old daughter-in-law in Wolfe County. [C038][S026] That fits Tom A. Stone still being a widower in January 1920.
 
@@ -52,7 +52,7 @@ Where she was — a third married name (H3), a wife listed only on a husband’s
 
 ### 5. Arkansas, a second husband, and Carter Cove
 
-By January 1920 Coy was at Danville, Yell County, a boarder-head with wife Letha, and Dora was not in his house; nor was she anywhere in Arkansas as Dora Stone or Dora Newnam (1920 Soundex, prior session). [C032][S102][S103] Tom A. Stone, 62, widowed, born Missouri, a tie maker, was father-in-law in Tom M. Randall’s house in Howell Township, Perry County, on 24 February 1920 — the only widowed T. A. Stone in that statewide index. [C050][S104][S105]
+By January 1920 Coy was at Danville, Yell County, a boarder-head with wife Letha, and Dora was not in his house; nor was she anywhere in Arkansas as Dora Stone or Dora Newnam (1920 Soundex, prior session). [C032][S102][S103] Kentucky’s 1920 N-550 D-names run Dennis, then a 29-year-old Dora in Paducah (daughter of Mary E. Vaelkel), a 10-year-old Dora E. in Cumberland, Dougal, and the E-tab — **not** a woman of forty-eight. [C064][S045] Her father, almost certainly, was still on Grand Avenue in Beattyville: E.T. Neuman, 75, grandfather in C.B. Burke’s house. [C065][S046] Tom A. Stone, 62, widowed, born Missouri, a tie maker, was father-in-law in Tom M. Randall’s house in Howell Township, Perry County, on 24 February 1920 — the only widowed T. A. Stone in that statewide index. [C050][S104][S105]
 
 Sometime after that census and before 1926 she became Mrs. T. A. Stone. No license has been read. The identification of T. A. with Tom A. is **PROBABLE**: same initials, a widower in the next township to Carter Cove, a 1925 burial in the yard where she would be laid. His marker (1993 copy) says 1845–1925; the census implies ~1858. [C014][C051] Conflict #4. The 1925 Arkansas certificate is the document that will settle it.
 
@@ -64,11 +64,11 @@ She was fifty-five if she was the eight-year-old of District 59. The certificate
 
 ## Timeline (summary → 03-timeline.md)
 
-1871 Aug — born, Lee Co. → 1880 Jun 1 — Samuel 11 in John & Mary’s house, ED 59 dw 3 (prob. her future husband) → 1880 Jun 5 — Dora 8, Elias’s house, ED 59 dw 46 → 1885 Dec 10 — m. Samuel P. Newnam → 1890–99 — five surviving children → 1900 Jun 1 — Sturgeon 67/67, 7/5 → 1910 Apr — not KY/AR/MO as Newman; Coy not TN-C; Samuel not a KY Newman head; not KY Dora Stone → 1917 Feb 18 — Coy marries at Ola → 1920 Jan — not in AR as Dora; Tom A. Stone widower in Perry Co. → 1920–25 — m2 T. A. Stone (prob.) → 1926 Aug 23–24 — death Ola, burial Carter Cove.
+1870 Jun 7 — Elias’s Travellers Rest house, no Dora → 1870 Jun 29 — Samuel 1 in John & Elizabeth’s Sturgeon hh 19 → 1871 Aug — Dora born, Lee Co. → 1880 Jun 1 — Samuel 11 in John & Mary’s house, ED 59 dw 3 (prob. her future husband; sheet-2 Samuel is McQueary) → 1880 Jun 5 — Dora 8, Elias’s house, ED 59 dw 46 → 1885 Dec 10 — m. Samuel P. Newnam → 1890–99 — five surviving children → 1900 Jun 1 — Sturgeon 67/67, 7/5 → 1910 Apr — not KY/AR/MO as Newman; Coy not TN-C or TN-McCoy; Samuel not a KY Newman head; not KY Dora Stone → 1917 Feb 18 — Coy marries at Ola → 1920 Jan — not in AR or KY as Dora Newman ~48; E.T. Neuman 75 in Beattyville; Tom A. Stone widower in Perry Co. → 1920–25 — m2 T. A. Stone (prob.) → 1926 Aug 23–24 — death Ola, burial Carter Cove.
 
 ## Family group
 - **Parents:** Elias T. “Doll” Newnam (1842–1932) & Mary Ann Smallwood (1842–1918) — C004 PROBABLE
-- **Spouse(s):** (1) Samuel P. Newnam (b. Jun 1869; d. before 1910 PROBABLE; 1880 boy in John & Mary’s house PROBABLE) C010 C061; (2) T. A. Stone (PROBABLE Tom A. Stone, d. 1925) C014
+- **Spouse(s):** (1) Samuel P. Newnam (b. Jun 1869; d. before 1911 if in Lee Co. — not in 1911–1929 Lee death index; 1870 boy in John & Elizabeth’s house PROBABLE natal; 1880 boy in John & Mary’s house PROBABLE) C010 C061 C062 C066; (2) T. A. Stone (PROBABLE Tom A. Stone, d. 1925) C014
 - **Siblings (1880 house):** William 21; Malissa 16; Francis 14; Mary 10; Catharine 6 — C003
 - **Children:** two unnamed d. before 1900 (C020); McCoy “Coy” (Apr 1890); Mary Magdalene (Jun 1892/12 Jun 1893) aka Bunch; Pearl P. (15 Mar 1895–19 Sep 1980) Jackson; Rissa/Rissie (May 1897); John H. (Aug 1899). Living descendants **redacted**.
 
@@ -76,7 +76,7 @@ She was fifty-five if she was the eight-year-old of District 59. The certificate
 
 **Question.** Who was Dora Ella Newnam Stone, and what can be documented of her life?
 
-**Evidence.** (1) 1880 original schedule: Dora, 8, daughter of Elias & Mary Newnam, Lee ED 59. (2) 1885 marriage return (transcription): Dora Ella Newnam, 14, at Doll Newnam’s, to Samuel P. Newnam. (3) 1900 Sturgeon (transcription): Dora E., Aug 1871, 7/5, five named children. (4) NUMIDENT of two daughters naming Sam and Dora (prior). (5) 1926 AR DC: Dora Stone, parents Elias Newnam & Mary Smallwood, spouse T. A. Stone, informant Coy Newnam. (6) Statewide 1910 KY, AR, and MO N-550 Soundex: she is not there as Newman Dora; Coy/McCoy likewise absent in those states; TN Coy absent (D-tab). (7) 1910 KY S-350: two Dora Stones, both the wrong woman. (8) 1910 KY N-550 Samuel: no P002 as head.
+**Evidence.** (1) 1880 original schedule: Dora, 8, daughter of Elias & Mary Newnam, Lee ED 59. (2) 1885 marriage return (transcription): Dora Ella Newnam, 14, at Doll Newnam’s, to Samuel P. Newnam. (3) 1900 Sturgeon (transcription): Dora E., Aug 1871, 7/5, five named children. (4) NUMIDENT of two daughters naming Sam and Dora (prior). (5) 1926 AR DC: Dora Stone, parents Elias Newnam & Mary Smallwood, spouse T. A. Stone, informant Coy Newnam. (6) Statewide 1910 KY, AR, and MO N-550 Soundex: she is not there as Newman Dora; Coy/McCoy likewise absent in those states; TN Coy absent (D-tab) and McCoy absent (M-window). (7) 1910 KY S-350: two Dora Stones, both the wrong woman. (8) 1910 KY N-550 Samuel: no P002 as head. (9) 1870 Sturgeon original: Samuel 1 with John 50 & Elizabeth 25. (10) 1920 KY N-550: no Dora ~48.
 
 **Correlation.** The age chain 8 (1880) → 14 (1885) → 28 (1900) → 55 (1926) is internally consistent on an 1871 birth. The father’s nickname “Doll” on the 1885 return is the head of the 1880 house. The son Coy of 1900 is the 1926 informant. Same-person test: name + parents + child + age trajectory; the only contradiction is the DC birth *year*, explained as informant error. Samuel 11 in dwelling 3 correlates with the 1869/age-16 groom on age and district, not yet on the mother’s name.
 
@@ -86,7 +86,8 @@ She was fifty-five if she was the eight-year-old of District 59. The certificate
 
 ## Red-team record (Phase 7 falsification attempts + audit_dossier.py result)
 - Impostor test: searched 1910 KY/AR/MO N-550 and TN D-block for any other Dora of the right age — none matching; rejected Knox child, Lee AR child, St. Louis Dora L. Neimann 48, Louisville Dora Stone 36 (Black), Wolfe Dora Stone 18.
-- Samuel impostors: rejected hh-11 Samuel ~13 (age); rejected 1910 Samuel E of Muhlenberg (wife Lou E, wrong children).
+- Samuel impostors: rejected hh-11 Samuel ~13 (now shown to be **McQueary**); rejected 1910 Samuel E of Muhlenberg (wife Lou E, wrong children). 1870 Samuel 1 kept as a separate census line from 1880 Samuel 11 pending conflict #9.
+- 1920 KY Dora impostors: Paducah 29 (Vaelkel), Cumberland 10 (Riddle), Logan 28 (Edd’s wife).
 - Step/adoptive: 1880 lists Dora as *daughter*, not adopted/boarder; no contradictory guardian record found (not exhaustive of court).
 - Clerical 1868: falsified by 1880 age 8.
 - Woman under another 1910 surname: **not excluded** — the 1910 hole may be a third married name, or a wife listed only on a husband’s given-name card. Logged as H3.
@@ -101,7 +102,7 @@ She was fifty-five if she was the eight-year-old of District 59. The certificate
 | FamilySearch (signed in) | Lee Co. Marriages, image Q2QD-PZHL, 10 Dec 1885 | Confirm Book 2 transcription; witnesses |
 | Yell Co. Clerk, Danville, AR; Perry Co. Clerk, Perryville | Marriage index 1920–1925, Newnam/Newman × Stone | m2 date and place |
 | Lee Co. Clerk / KY Archives | Samuel P. Newnam death or burial 1900–1911 | Close C012 |
-| IA `soundex1910tn073` n2461–n2469 | McCoy given-name cards between Mary C and Milton | Finish H4 McCoy-in-TN |
+| IA `soundex1920ky144` S-350 Dora given-names | Dora Stone ~48 KY | Test whether m2 had already happened in KY |
 | Ancestry (user login) | KY death index / 1910 population schedules for a Newnam wife ~39 in Lee/Owsley/elsewhere | H3 / wife-of-head |
 | AR State Archives / Plainview or Danville library | *Yell County Journal*, late Aug 1926 | Obit, kin list |
 | Carter Cove Cemetery (photo or Find A Grave request) | Stone “Newman, Dora”; “Stone, Thomas 1845–1925” | Confirm 1993 reading |
