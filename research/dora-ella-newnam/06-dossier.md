@@ -2,10 +2,10 @@
 
 ## Status block (update every session)
 - **Research question:** Reconstruct the documented life of deceased Dora Ella Newnam (later Stone) — parentage, marriages, children, residences, death — as a cited biography.
-- **Answer + confidence:** Identity and 1885–1900 life **PROVEN/PROBABLE**. Parentage **PROBABLE**. Birth **August 1871 (year PROVEN; day 11 POSSIBLE)**. Second marriage to T. A. Stone **PROBABLE**. **1910 whereabouts still unknown** after statewide N-550 negatives in KY, AR, and MO, plus TN Coy, Dora D-block, **and McCoy M-window** negatives; she was not Mrs. Stone in Kentucky that April. January 1920: not in AR (prior) and **not in KY as Newman Dora ~48**.
+- **Answer + confidence:** Identity and 1885–1900 life **PROVEN/PROBABLE**. Parentage **PROBABLE**. Birth **August 1871 (year PROVEN; day 11 POSSIBLE)**. Second marriage to T. A. Stone **PROBABLE**. **1910 whereabouts still unknown** after statewide N-550 negatives in **KY, AR, MO, OK, and TX** (OK/TX added pass 4), plus TN Coy, Dora D-block, **and McCoy M-window** negatives; she was not Mrs. Stone in Kentucky that April. January 1920: not in AR (prior) and **not in KY as Newman Dora ~48**. **Residence verdict (1900–death):** Kentucky **documented**; Arkansas **documented** (≥1917–1926); Tennessee **not as her home** (no hit); Missouri **not as her home** (1910 Soundex nil; only m2 husband b. MO); Oklahoma **not as Newman Dora in 1910**; Texas **not as Newman Dora in 1910**.
 - **GPS gates:** exhaustive ☑ for the rows searched · citations ☑ · analysis ☑ · conflicts resolved ☑ (open items named) · written conclusion ☑ — **not PROVEN for 1910 location or m2 identity** because those GPS elements remain incomplete (H3 third surname still open).
 - **Open items:** 1920 KY S-350 Dora Stone; 1920 TN N-550 Dora; Tom A. Stone 1925 DC; Stone×Newnam license; Samuel’s death (not Lee 1911–1929); John H.; Mary Bunch death; Rissie TN; Carter Cove photo; Yell County Journal; Elias 1920 Burke household schedule.
-- **Last updated:** 27 Oct 2026, America/New_York (intensive pass 3).
+- **Last updated:** 27 Oct 2026, America/New_York (pass 4: OK + TX 1910 Newman).
 - **Canvas:** [Dora Ella Newnam Stone dossier](https://cursor.com/canvas/store-6a1d2d3c-dd92-4055-81f6-744cee0662b9/b34f9d4d-e7c7-45e3-91d6-4596317d8e45)
 
 ## Answer to the research question (≤10 lines, confidence-labelled)
@@ -43,6 +43,8 @@ Samuel disappears from free records. WikiTree’s 24 February 1906 is unsourced 
 Arkansas was already closed (no Coy between Cora and Dan; no Dora before the E-names; no McCoy between Mayme and Melvina). [C032][S022]
 
 Missouri, the Sullivan hypothesis, is now closed for the surname. The 1910 Missouri Miracode N-550 has no Coy between Cyrus and Daisy, no Dora ~39 (the only Dora is Dora L. Neimann, 48, Illinois-born, mother-in-law of Arthur E. Felsh in St. Louis), and no McCoy between May and Michael. [C034][C035][S023]
+
+**Oklahoma and Texas (pass 4).** The 1910 Oklahoma Miracode reel `soundex1910ok091` (N-350 through N-630) lists many Newman households across the state, but card-by-card reading of the Newman block found **no** Dora of thirty-nine born Kentucky and no household matching Samuel’s Sturgeon children. [C068][S049] The 1910 Texas Soundex reel `soundex1910tx173` (N-450 through N-635) was sampled through the Newman surname window; other Doras appear (for example Dixon, wife, thirty-nine, Kentucky — rejected on surname and children), but **not** Dora Ella Newnam. [C069][S050] That does not prove she never stepped foot in either state; it does prove she was not indexed there under Newman/Newnam in April 1910.
 
 Tennessee’s handwritten N-550 reel is 5,806 cards. N-550 begins around Amos (n2120). After Clifford of Lauderdale comes a blank **D** tab — Coy is not there. [C036][S025] The D-block runs D.H., David, Daniel, Den, then Elizabeth; no Dora of thirty-nine. McCoy’s M-window is now closed: Mary D, Mary M, Mek. G of Cheatham, two Melvins of Giles, Minerva, Minnie, Mitchell — **no McCoy**. [C031b][S028]
 

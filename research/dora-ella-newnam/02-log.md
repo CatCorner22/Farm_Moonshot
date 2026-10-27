@@ -46,4 +46,8 @@ One row per search, **including nil results**. Access: free | subscription | on-
 | L040 | 2026-10-27 | IA `soundex1920tn107` / `soundex1920ky144` coarse map (B005 B006) | Locate N-550 / S-350 | TN n20 = N-450 Nolen; n2500 = Overton (O-163) — **N-550 Dora window not yet isolated.** KY S-350 reel starts S-342 (n20) / S-343 (n500); Dora Stone slot **not yet read card-by-card** | — | Keep B005 B006 open |
 | L041 | 2026-10-27 | Chronicling America / LDS Genealogy Ola newspapers | Dora Stone / Coy Newnam 1926 | No digitized *Yell County Journal* (1925–1934) or *Ola Enterprise* in Chronicling America. Press pass remains on-site | — | B010 stays open |
 
+| L042 | 2026-10-27 | IA `soundex1910ok091` PDF (B024) | Oklahoma N-550 Newman N-350–N-630; Dora ~39 KY; Samuel/McCoy | **Nil** in Newman block pp. 738–822 (typed Miracode). OCR + visual read. Other OK Newman households (TX/AR/MO birthplaces) present but none match P001 | S049 | TX 1910 same pass |
+| L043 | 2026-10-27 | IA `soundex1910tx173` PDF (B025) | Texas N-550 Newman window pp. 4380–4680 | **Nil** for P001 (no Dora ~39 KY; no Coy/McCoy on Newman cards in window). Many other Dora_* in TX index are wrong women (e.g. Dixon wife 39 KY — rejected) | S050 | 1920 OK/MO N-550 still open |
+| L044 | 2026-10-27 | USGenNet Owsley 1910 Booneville dist. 1 index | Newman/Newnam/Dora heads | **Nil** Newman/Newnam in district-1 surname index (Pearl’s Buck Creek hh not in this file) | — | Pull Buck Creek 1910 transcription for Elizabeth/Pearl |
+
 **Access honesty:** free items above were actually opened. Paywalled Ancestry, unsigned FamilySearch images, Find A Grave 403, and on-site Yell newspapers were **not** read.

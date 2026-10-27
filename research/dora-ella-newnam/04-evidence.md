@@ -32,6 +32,8 @@
 | S046 | Same reel, n4208: Neuman, E.T., 75, W, KY, Lee Co., Beattyville, Grand Ave.; enumerated with Burke, C.B.; relationship Grand Father. **Image seen.** SHA-256 `e5b75c0df9bd1f4a65e1db130b85c38954ce25bbdef21e8b677f915c23bfcf3e` | D of O | Soundex clerk extracting 1920 schedule |
 | S047 | “Lee County Kentucky Death Index 1911–1929, N,” USGenNet, https://usgennet.org/usa/ky/county/lee/deaths/kdi/n.html accessed 27 Oct 2026. **Index only.** Newman/Newnam entries listed; none is Samuel P, Dora, John H, or Elias | D (negative) | Compiler from KY Death Index CD |
 | S048 | Debi Houser Kendrick, transcriber, “1870 Owsley County Kentucky Census — Travellers Rest,” hh 131/128 Elias NEWNAM. https://usgennet.org/usa/ky/county/owsley/census/1870/travrest.html accessed 27 Oct 2026. **Transcription only.** 7 Jun 1870: Elias 26, Mary 26, William D 11, Malissa D 6, Frances 3, Mary 1 — no Dora | D | Transcriber from NARA schedules |
+| S049 | 1910 Oklahoma Miracode (NARA T1273), N-550 Newman block, IA `soundex1910ok091` (vol. N-350 Sherman–N-630 Ollie), PDF pp. 738–822 rendered and read (typed cards; sample `sources/soundex/ok1910-n550-newman-sample.jpg`). **Images seen.** EasyOCR pass on pp. 738–822: no “Dora” with Kentucky birthplace; no Samuel+McCoy child set | D (negative) | Soundex clerks |
+| S050 | 1910 Texas Soundex (NARA T1277), N-550 Newman block, IA `soundex1910tx173` (vol. N-450 M.–N-635 D.), PDF pp. 4380–4680 rendered and read (handwritten cards; sample `sources/soundex/tx1910-n550-newman-dennis.jpg`). **Images seen.** EasyOCR pass: no Dora ~39 b. KY; no McCoy/Coy in Newman window | D (negative) | Soundex clerks |
 
 ## Claims
 | Claim ID | Claim (one fact) | Confidence | Evidence | Source IDs | Conflicts → 07 |
@@ -70,6 +72,8 @@
 | C066 | Samuel P. Newnam did not die in Lee County 1911–1929 under Newman/Newnam | PROVEN (negative, county death index) | No matching adult male | S047 | #3 |
 | C067 | On 7 Jun 1870 Elias Newnam’s Travellers Rest household had no daughter Dora (youngest Mary, 1) | PROVEN (transcription; original not isolated) | Direct absence | S048 | #1 |
 | C050 | Tom A. Stone of 1920 Howell Twp is the only widowed T. A. Stone in 1920 AR Soundex | PROBABLE (prior exhaustive S-350 read) | S102–S105 | #4 |
+| C068 | Dora was not in Oklahoma Apr 1910 as an N-550 Newman/Newnam head or on sampled Newman family cards (~age 39, KY-born) in the statewide Miracode | PROBABLE (negative; Newman N-350–N-630 block read; not every continuation card) | S049 | |
+| C069 | Dora was not in Texas Apr 1910 as an N-550 Newman/Newnam individually carded person ~39 b. KY in the Newman surname window sampled | PROBABLE (negative; pp. 4380–4680 of tx173; D-given-name tab not separately isolated) | S050 | |
 
 ## Same-person merges (Hard Rule 3)
 | Records merged | Identifier 1 | Identifier 2 | Contradictions? | Verdict |

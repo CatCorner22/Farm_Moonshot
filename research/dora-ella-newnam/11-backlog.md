@@ -29,10 +29,14 @@ Prioritised queue — work top to bottom. **Do not declare research complete whi
 | B021 | open | M | 1920 Lee Co. KY schedule: Burke C.B. / E.T. Newnam | Elias as grandfather in Beattyville; which daughter married Burke? | FAN of P004; may name Dora | L036 | Original schedule not yet pulled |
 | B022 | open | H | Owsley / Lee pre-1911 deaths; Owsley 1911–1929 index | Samuel P Newnam d. 1900–1911 | C012 | L037 | Statewide KY deaths start 1911 |
 | B023 | open | M | 1920 KY N-550 remainder: Ella, wife-on-husband-card | Ella Newman; scan continuation cards | 1920 hole | L035 | Direct given-name Dora closed |
+| B024 | done | H | IA `soundex1910ok091` N-550 Newman | Dora ~39 OK Apr 1910 | H4 OK | L042 | Newman block read; nil for P001 |
+| B025 | done | H | IA `soundex1910tx173` N-550 Newman | Dora ~39 TX Apr 1910 | H4 TX | L043 | Newman window read; nil for P001 |
+| B026 | open | H | IA `soundex1920ok102` N-550 | Dora Newman ~48 OK Jan 1920 | 1920 hole | | Reel mapped M1582 101–102 |
+| B027 | open | M | USGenNet Owsley 1910 Buck Creek dist. | Elizabeth + Pearl hh; Dora present? | 1910 hole | L044 | Booneville dist. 1 index nil Newman |
 
 ## Session handoff
-- **Last closed:** 27 Oct 2026 · **Stopped after:** intensive pass 3 (L030–L041)
-- **Next session starts with:** B005 — 1920 KY S-350 Dora Stone window (reel already mapped to S-342/S-343)
+- **Last closed:** 27 Oct 2026 · **Stopped after:** pass 4 OK+TX 1910 Newman (L042–L044)
+- **Next session starts with:** B005 — 1920 KY S-350 Dora Stone; then B026 1920 OK N-550
 
 ## Escalation log (brick walls — step number from exhaustive-research.md)
 | Date | Wall | Steps 1–8 attempted | Outcome |
