@@ -35,15 +35,17 @@ Prioritised queue — work top to bottom. **Do not declare research complete whi
 | B025 | done | H | IA `soundex1910tx173` N-550 Newman | Dora ~39 TX Apr 1910 | H4 TX | L043 | Newman window read; nil for P001 |
 | B026 | done | H | IA `soundex1920ok102` N-550 | Dora Newman ~48 OK Jan 1920 | 1920 hole | L048 | Full reel OCR nil |
 | B027 | done | H | USGenNet Owsley 1910 Buck Creek dist. | Elizabeth + Pearl hh; Dora present? | 1910 hole | L045 | Dora not in hh 141 |
+| B030 | nil | H | IA `soundex1910ky128` P-142 + `soundex1910ar091` P-142; Lee Books 5–19; Perry F/G | Dora × Peebles 1900–1925; 1910 Dora Peebles ~39 KY/AR | H3-Peebles | L057–L063 | **Two marriages, not three.** KY P-142 head+wife nil; AR D-window nil; Lee/Perry licenses nil. Residual: FS AR statewide bride index; Yell licenses |
 
 ## Session handoff
-- **Last closed:** 27 Oct 2026 · **Stopped after:** pass 8 (L054–L056): Owsley 1912–1919 nil Samuel; Lee 1914 FAN; T624-478 OCR inconclusive
-- **Next session starts with:** B029 FamilySearch/manual ED 99; B022 Lee 1912–1929 N-index; Tom A. Stone 1925 DC (user)
+- **Last closed:** 27 Oct 2026 · **Stopped after:** pass 9 (L057–L063): H3-Peebles — two documented marriages only
+- **Next session starts with:** B029 FamilySearch/manual ED 99; B022 Lee 1912–1929 N-index; Tom A. Stone 1925 DC (user); FS AR marriages 1837–1957 (Peebles residual)
 
 ## Escalation log (brick walls — step number from exhaustive-research.md)
 | Date | Wall | Steps 1–8 attempted | Outcome |
 |---|---|---|---|
 | 2026-10-27 | 1910 whereabouts | 1 re-verify; 2 children (Pearl 1910); 3 FAN Letha not yet; 4 KY/AR/MO/TN N-550 including TN McCoy window; 5 variants Newman/Newnam/Stone | H3 (third surname / wife-of-head) still open |
+| 2026-10-27 | H3-Peebles (user: three marriages?) | 1 KY 1910 P-142 full block (head **and** wife Dora); 2 AR 1910 P-142 D-window + rejected Doras; 3 Lee Books 5–19 + Perry F/G; 4 SortedByName NUMIDENT; 5 WikiTree Newnam-49 | Peebles third marriage **not supported**. H3 remains for other surnames. Residual: FS AR statewide / Yell licenses |
 
 ## Roadblock log (creative workarounds — before `blocked` or asking the user; ≥3 ladder steps)
 | R### | Type A–I | What failed | Ladder steps tried (A1,F2,…) | Log IDs | Next autonomous step | User ask (only if unavoidable; one action + citation + payoff) |
@@ -51,3 +53,4 @@ Prioritised queue — work top to bottom. **Do not declare research complete whi
 | R001 | A | Ancestry 403 | A1 IA Soundex; A3 free KY/AR indexes; A4 Ancestry AR DC named in dossier | L018 | A3 AR death index / FamilySearch catalog | Ancestry login for Tom A. Stone 1925 DC **only after** A3 |
 | R002 | A | FamilySearch images login wall | A1 USGenNet Book 2; A3 1880 original; A2 FS catalog Q2QD-PZHL | L019 L006 | Keep using free transcripts + IA images | FS sign-in for 1885 page |
 | R003 | B | Find A Grave / yellcountyobits 403 | B2 1993 Daniels/Cossey prior; B3 DC burial field | L010 L011 L029 | B1 other cemetery transcripts | Photo request after B1 |
+| R004 | A | FS AR marriages 1837–1957 (coll. 1417439) login wall | A1 Lee Books 5–19; A3 Perry F/G; A1 1910 KY/AR P-142 | L059 L060 L057 L058 | Keep using county transcriptions + Miracode | FS sign-in for statewide Dora/Peebles bride index |

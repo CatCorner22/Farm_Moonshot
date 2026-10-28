@@ -114,3 +114,31 @@
   sha256: 340489566090880388fa6b81ca5751c5944dcaf56a7b44f70fe560788f308586
   format: JPEG photo, 1718x1146px
   check: full page + margins + verso? straight-on, no glare/flash, strokes several px tall? (paleography.md intake)
+/workspace/research/dora-ella-newnam/sources/soundex/ky1910-p142-p235-p142-starts.jpg  (83,456 bytes)
+  sha256: c8918b834ac9b7cd25c04fd433c61e770fcd43cce30576ceab61d96c23f2cbae
+  format: JPEG photo, 815x1094px
+  check: full page + margins + verso? straight-on, no glare/flash, strokes several px tall? (paleography.md intake)
+/workspace/research/dora-ella-newnam/sources/soundex/ky1910-p142-p238-dottie-clyde-no-dora.jpg  (108,272 bytes)
+  sha256: 21ff73b6a4958801e9945f154581866aa37c3a208d3151afcc984850b2959b7f
+  format: JPEG photo, 996x1337px
+  check: full page + margins + verso? straight-on, no glare/flash, strokes several px tall? (paleography.md intake)
+/workspace/research/dora-ella-newnam/sources/soundex/ky1910-p142-p239-edora-peoples-65-graves-rejected.jpg  (113,241 bytes)
+  sha256: 244d4d7686d5ecfd36f7bf288df0cb0c8a372aa8c028090568ca26be4c1f6761
+  format: JPEG photo, 996x1337px
+  check: full page + margins + verso? straight-on, no glare/flash, strokes several px tall? (paleography.md intake)
+/workspace/research/dora-ella-newnam/sources/soundex/ar1910-p142-p188-d-window-clyde-dave-no-dora.jpg  (80,448 bytes)
+  sha256: c139069b4feaea36e6710851bd3802263490a6291d04e109fddafcc3c90bbc4b
+  format: JPEG photo, 868x1015px
+  check: full page + margins + verso? straight-on, no glare/flash, strokes several px tall? (paleography.md intake)
+/workspace/research/dora-ella-newnam/sources/soundex/ar1910-p142-p189-yell-e-edd-peoples-not-dora.jpg  (80,311 bytes)
+  sha256: 249c554b82bfab066d33fa5cdfb9c8cbc0a0bca76b1f2f2e6d976b1823f8c7fe
+  format: JPEG photo, 868x1015px
+  check: full page + margins + verso? straight-on, no glare/flash, strokes several px tall? (paleography.md intake)
+/workspace/research/dora-ella-newnam/sources/soundex/ar1910-p142-p190-ed-peebles-dora-sykes-19-rejected.jpg  (77,256 bytes)
+  sha256: fe8e3efc925638bf2a6d23cd9ec5175a88fac0917dda686058199655bec05442
+  format: JPEG photo, 868x1015px
+  check: full page + margins + verso? straight-on, no glare/flash, strokes several px tall? (paleography.md intake)
+/workspace/research/dora-ella-newnam/sources/soundex/ar1910-p142-p200-julius-dora-bell-16-rejected.jpg  (71,301 bytes)
+  sha256: d4103783edbe01af0a8f0f0eb1d05b41baea53faa907e18fb28be46e31581d24
+  format: JPEG photo, 868x1015px
+  check: full page + margins + verso? straight-on, no glare/flash, strokes several px tall? (paleography.md intake)

@@ -31,4 +31,4 @@ Write population/denominator/period/exclusions BEFORE computing (statistics.md).
 
 ## Misleading-presentation screen (20-item catalogue in statistics.md)
 - Screened my claims ☑ · Screened key cited sources ☑ (WikiTree “abt. 1930” is an unsourced round year — discarded)
-- Issues found & fixed: do not convert 2/7 into “40% child mortality in the family” without n and CI; do not average 1868 and 1871 into 1869–70; do not treat Soundex absence as “she did not exist” — it is “not under that surname in that state.”
+- Issues found & fixed: do not convert 2/7 into “40% child mortality in the family” without n and CI; do not average 1868 and 1871 into 1869–70; do not treat Soundex absence as “she did not exist” — it is “not under that surname in that state.” Do not promote a Peebles third marriage from family memory: every located Dora Peebles/Peeples fails the same-person test, and home-county licenses are nil; “not supported” ≠ “impossible in an unread county.”
