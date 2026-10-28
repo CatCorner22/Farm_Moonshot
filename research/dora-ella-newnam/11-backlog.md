@@ -27,9 +27,9 @@ Prioritised queue — work top to bottom. **Do not declare research complete whi
 | B019 | open | M | 1870 Travellers Rest Elias household (image) | Confirm Dora not yet born; siblings | H2 1868 birth already DISPROVED | L038 | Transcription seen; IA reel 494 image not isolated |
 | B020 | open | L | Carter Cove / yellcountyobits workaround | Newman, Dora; Stone, Thomas | C016 | | 403 last pass |
 | B021 | done | M | 1920 Lee Co. KY schedule: Burke C.B. / E.T. Newnam | Elias as grandfather in Beattyville; which daughter married Burke? | FAN of P004; may name Dora | L036 L066 L069–L072 | **Original + FAN closed.** E.T. is grandfather of **Provie** (née Hoover), not of C.B. Burke |
-| B022 | done | H | Owsley / Lee pre-1911 deaths; Lee 1912–1929 index | Samuel P Newnam d. 1900–1911 | C012 | L053 L054 L055 L037 L065 | Lee 1911–1929 N-index **and** year files 1912–1929 **nil** Samuel/Dora/Elias/McCoy/John H. Pre-1911 local registers → B034 |
+| B022 | done | H | Owsley / Lee pre-1911 deaths; Lee 1912–1929 index | Samuel P Newnam d. 1900–1911 | C012 | L053 L054 L055 L037 L065 L086 | Lee 1911–1929 N-index **and** year files 1912–1929 **nil** Samuel/Dora/Elias/McCoy/John H. Pre-1911 local registers → B034 |
 | B028 | done | H | USGenNet Lee 1910 Proctor (+ Fincastle/NewVA grep) | Elias/Mary; Samuel/Dora absent? | FAN 1910 | L052 | Parents at Proctor ED 100 |
-| B029 | done | H | IA `13thcensus1910po478unit` / FS T624-478 ED 99 | Read schedule for Newnam under any surname | 1910 hole | L056 L064 | **Entire ED 99 original read.** Nil P001/P002/McCoy/John H b.1899. Other Newnams present (C089) — do not merge |
+| B029 | done | H | IA `13thcensus1910po478unit` / FS T624-478 ED 99 | Read schedule for Newnam under any surname | 1910 hole | L056 L064 L089 | **Entire ED 99 original read.** Nil P001/P002/McCoy/John H b.1899. Other Newnams present (C089) — do not merge. Ancestry image 499 = IA PDF **568** (C106); 1900 dw 67 = Hamilton/Garrett in 1910 |
 | B023 | open | M | 1920 KY N-550 remainder: Ella, wife-on-husband-card | Ella Newman; scan continuation cards | 1920 hole | L035 | Direct given-name Dora closed |
 | B024 | done | H | IA `soundex1910ok091` N-550 Newman | Dora ~39 OK Apr 1910 | H4 OK | L042 | Newman block read; nil for P001 |
 | B025 | done | H | IA `soundex1910tx173` N-550 Newman | Dora ~39 TX Apr 1910 | H4 TX | L043 | Newman window read; nil for P001 |
@@ -42,10 +42,11 @@ Prioritised queue — work top to bottom. **Do not declare research complete whi
 | B034 | done | H | Lee Co. surviving pre-1911 VS death registers | Samuel P. Newnam d. 1874–1904 in those dumps | C012 C098 | L073 L074 L075 | **Nil** in 1874–1878 and 1900–1904 VS; **nil** Samuel P at Proctor Cemetery. Residual scattered 1879–1899 / 1905–1910 → B035; High View → B036 |
 | B035 | open | H | Lee Co. miscellaneous / scattered deaths 1879–1899 and 1905–1910 | Samuel P. Newnam | C012 | L085 | Booneville Assoc. 1883–1904 **nil**. `miscellaneous.html` is a heading not a page (404). Residual **1905–1910** local registers + unmarked graves |
 | B036 | done | M | High View Cemetery (aka Newman Cem), Spencer Ridge | Samuel P / Elias children stones | C012 FAN | L075 L084 | **Transcript found** at `hccc.html` / kygenweb highview.htm. **Nil** Samuel P / Dora-era Newnam. Unmarked graves remain possible |
+| B037 | open | L | 1910 Lee KY Sturgeon ED 99 sheet **8A** header (T624-478; this branch PDF ~p.565 or main JPEG set) | Re-read enumerator signature: Elam Brandenburg vs Elton E. Newnam | conflict #13 | | Do **not** pick a name in the merge. Same schedule; palaeography only |
 
 ## Session handoff
-- **Last closed:** 28 Oct 2026 · **Stopped after:** pass 12 (L081–L085): **original** 1900 Douglas Buchanan ED 159 sh 9B Thomas+Nancy E (C101; Soundex Jesse C. = Ossie P.); Dunklin ED 49 Campbell village isolated, sh 1A–6A nil; Liberty Twp = 1910 ED 5 ~p.492–511; High View transcript **nil** Samuel P; Booneville Assoc. 1883–1904 **nil**
-- **Next session starts with:** B033 remainder of Dunklin ED 49 (village sh 7–10 + rural Union); B007 Liberty ED 5 name columns for Letha Sullivan; B035 1905–1910 Lee deaths; B011 Tom 1925 DC (user)
+- **Last closed:** 28 Oct 2026 · **Stopped after:** pass 12 (L081–L085) plus merge of `origin/main` (PR #7): **original** 1900 Douglas Buchanan ED 159 sh 9B Thomas+Nancy E (C101; Soundex Jesse C. = Ossie P.); Dunklin ED 49 Campbell village isolated, sh 1A–6A nil; Liberty Twp = 1910 ED 5 ~p.492–511; High View transcript **nil** Samuel P; Booneville Assoc. 1883–1904 **nil**; 1910 dw 67 reoccupied (Hamilton/Garrett); Ancestry image 499 = PDF 568 (C106)
+- **Next session starts with:** B033 remainder of Dunklin ED 49 (village sh 7–10 + rural Union); B007 Liberty ED 5 name columns for Letha Sullivan; B035 1905–1910 Lee deaths; B037 re-read ED 99 sheet 8A enumerator (conflict #13); B011 Tom 1925 DC (user)
 
 ## Escalation log (brick walls — step number from exhaustive-research.md)
 | Date | Wall | Steps 1–8 attempted | Outcome |
