@@ -50,6 +50,8 @@
 | S064 | Debi Houser Kendrick, transcriber, Lee County Marriage Books **5–19** (1896–1926), USGenNet/ALHN, https://usgennet.org/usa/ky/county/lee/marriage/ accessed 27 Oct 2026. **Transcription only.** Full-text search of books 5–19: **zero** Peebles/Peeples/Peoples/Pebbles; no Dora Newnam/Newman/Stone as bride | D (negative) | County clerk; transcriber |
 | S065 | Dwight Shubert, compiler, Perry County, Arkansas, Marriage Books F (12 Dec 1916–24 Feb 1922) and G (14 Feb 1922–3 Jul 1930), surname pages P, N, and S. ARGenWeb, https://www.argenweb.net/perry/marriages/marriagebookfp.html (and gp/fn/gn/fs/gs) accessed 27 Oct 2026. **Index only.** | D (negative vs P001) | Compiler from county books |
 | S066 | SortedByName, “Peebles Family History” DORA entries and “Peeples Family History” DORA entries, https://sortedbyname.com/letter_p/peebles.html and `/letter_p/peeples/index_24.html` accessed 27 Oct 2026. NUMIDENT / Death Master File extracts | D (rejected hits) | SSA NUMIDENT / DMF compilers |
+| S067 | 1910 U.S. census, Lee Co., Kentucky, ED **96** Fincastle precinct, sheet **7A**. NARA T624-478; IA `13thcensus1910po478unit` **PDF page 499**. **Image seen.** Header: Lee / Fincastle / ED 96 / enum. 29 Apr 1910. Ancestry “image 499” for Sturgeon ED 99 sheet 9B maps to **PDF page 568** (offset ≈ +69), not PDF 499. File: `sources/census/1910-po478-p0499-lee-fincastle-ed96-sheet7a.jpg` | O (method) | Enumerator |
+| S068 | 1910 U.S. census, Lee Co., Kentucky, ED **99** Sturgeon precinct (sampled). NARA T624-478; IA `13thcensus1910po478unit`. Files: `1910-po478-p0557-lee-sturgeon-ed99-sheet4a.jpg` (dw **67** = Hamilton, Robert); `…-p0559-…sheet5a-elijah-newnan.jpg`; `…-p0560-…sheet6b-dw67-garrett.jpg`; `…-p0563-…sheet7a-ruben-newnam.jpg`; `…-p0568-…sheet9b.jpg`. **No** Samuel P. head; **no** Dora ~39 in lines read. Sheet 8A header on that pass: **Elton E. Newnam**. | O | Enumerator |
 
 ## Claims
 | Claim ID | Claim (one fact) | Confidence | Evidence | Source IDs | Conflicts → 07 |
@@ -96,7 +98,7 @@
 | C073 | Dora was not indexed in Tennessee Jan 1920 as **Dora Newman/Newnam** on Soundex reel N-450–O-165 (`soundex1920tn107`) | PROBABLE (negative; full-reel OCR scan) | S055 | |
 | C074 | Dora was not indexed in Missouri Jan 1920 as **Dora Newman/Newnam** on Soundex reel N-500–N-650 (`soundex1920mo176`) | PROBABLE (negative; full-reel OCR scan) | S056 | |
 | C075 | On the Apr 1910 census Elias (“Elisa”) Newnam, 67, and Mary (Smallwood) Newnam, 68, were household heads at Lee Co. ED 100 Proctor precinct dwelling 19/20, **without** daughter Dora in that line | PROVEN (transcription) | S057 | |
-| C076 | In USGenNet Lee 1910 transcripts for Proctor (ED 100), Fincastle (ED 96), and New Virginia (ED 97), **no** household lists Samuel P. Newnam, Dora (Newnam/Stone), or McCoy Newnam as head or named member | PROBABLE (negative; Sturgeon ED 99 not in set) | S057 S059 | |
+| C076 | In USGenNet Lee 1910 transcripts for Proctor (ED 100), Fincastle (ED 96), and New Virginia (ED 97), **no** household lists Samuel P. Newnam, Dora (Newnam/Stone), or McCoy Newnam as head or named member | PROVEN (negative for those three transcripts). Sampled Sturgeon ED 99 is C088 | S057 S059 | |
 | C077 | McCoy and the 1900 children John H., Rissie, and Mary M. were not caught on KY Apr 1910 Soundex `soundex1910ky124` in a derivative OCR pass for Newman child patterns | PROBABLE (negative) | S058 | |
 | C078 | Samuel P. Newnam does not appear among Owsley Co. deaths extracted for 1910 or in the 1911 Owsley DC table read this pass | PROBABLE (negative for those lists) | S060 S047 | #3 |
 | C079 | Samuel P. Newnam does not appear in the USGenNet Lee County 1914 death-certificate extract set searched this pass | PROBABLE (negative for that file) | S061 | #3 |
@@ -108,6 +110,9 @@
 | C085 | Perry County, Arkansas, marriage books F–G (1916–1930) contain Peoples (not Peebles) and **no** license for Dora Newnam/Newman/Peebles × T.A./Tom Stone | PROVEN (negative for those books) | S065 | m2 likely Yell, not Perry |
 | C086 | Published Dora Peebles / Dora Peeples NUMIDENT and marriage hits are **other women** (wrong birth year, state, husband, or death date vs P001) | PROVEN (rejected vs P001) | S066 | |
 | C087 | Dora Ella Newnam has **two documented marriages**, not three: (1) Samuel P. Newnam 10 Dec 1885 **PROVEN**; (2) T. A. Stone 1920–26 **PROBABLE**. A Peebles union between them is **not supported** by KY 1910 P-142, AR 1910 P-142 D-window, Lee 1896–1926 licenses, Perry 1916–1930 licenses, NUMIDENT, or WikiTree Newnam-49 | PROBABLE as to “two marriages only”; Peebles-third **SPECULATIVE** only where statewide AR bride index / Yell licenses remain unread | C010 C014 C081–C086 | S003 S004 S062–S066 | #10 |
+| C088 | On sampled Apr 1910 Sturgeon ED **99** sheets (4A–7A, 9B), dwelling **67** is **Hamilton** (4A) / **Garrett** (6B), not Samuel P. Newnam; **no** Dora ~39 in those lines. Other Newnams present (Richard, Elijah, Ruben, John) are other people | PROBABLE (negative; sampled, not every line of full ED) | S068 | |
+| C089 | Ancestry/FamilySearch “image 499” on T624-478 for Sturgeon ED 99 sheet **9B** is IA PDF page **568**, not PDF 499 (Fincastle ED 96 sheet 7A) | PROVEN | S067 S068 | B029 |
+| C090 | Samuel P. Newnam does not appear in USGenNet Lee County death-certificate year extracts for 1912 or 1915–1929 (files opened on `main`) | PROBABLE (negative; extends C066) | S047 | #3 |
 
 ## Same-person merges (Hard Rule 3)
 | Records merged | Identifier 1 | Identifier 2 | Contradictions? | Verdict |

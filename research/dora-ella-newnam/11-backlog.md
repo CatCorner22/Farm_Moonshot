@@ -27,9 +27,9 @@ Prioritised queue — work top to bottom. **Do not declare research complete whi
 | B019 | open | M | 1870 Travellers Rest Elias household (image) | Confirm Dora not yet born; siblings | H2 1868 birth already DISPROVED | L038 | Transcription seen; IA reel 494 image not isolated |
 | B020 | open | L | Carter Cove / yellcountyobits workaround | Newman, Dora; Stone, Thomas | C016 | | 403 last pass |
 | B021 | open | M | 1920 Lee Co. KY schedule: Burke C.B. / E.T. Newnam | Elias as grandfather in Beattyville; which daughter married Burke? | FAN of P004; may name Dora | L036 | Original schedule not yet pulled |
-| B022 | in_progress | H | Owsley / Lee pre-1911 deaths; Lee 1912–1929 index | Samuel P Newnam d. 1900–1911 | C012 | L053 L054 L055 L037 | Owsley 1910–1919 DC nil Samuel; Lee 1911 + 1914 nil |
+| B022 | in_progress | H | Owsley / Lee pre-1911 deaths; Lee 1912–1929 index | Samuel P Newnam d. 1900–1911 | C012 | L053 L054 L055 L037 L064 | Lee 1912–1929 yearly extracts nil; Owsley 1908–1919 nil Samuel |
 | B028 | done | H | USGenNet Lee 1910 Proctor (+ Fincastle/NewVA grep) | Elias/Mary; Samuel/Dora absent? | FAN 1910 | L052 | Parents at Proctor ED 100 |
-| B029 | in_progress | H | IA `13thcensus1910po478unit` / FS T624-478 ED 99 | Read schedule for Newnam under any surname | 1910 hole | L056 | Machine OCR inconclusive; needs eyeball/FS login |
+| B029 | done | H | IA `13thcensus1910po478unit` / FS T624-478 ED 99 | Read schedule for Newnam under any surname | 1910 hole | L067 S068 | **Sampled** ED 99: Samuel/Dora not in sheets read; Ancestry image 499 = PDF 568 (C089); dw 67 = Hamilton/Garrett. Remainder unread |
 | B023 | open | M | 1920 KY N-550 remainder: Ella, wife-on-husband-card | Ella Newman; scan continuation cards | 1920 hole | L035 | Direct given-name Dora closed |
 | B024 | done | H | IA `soundex1910ok091` N-550 Newman | Dora ~39 OK Apr 1910 | H4 OK | L042 | Newman block read; nil for P001 |
 | B025 | done | H | IA `soundex1910tx173` N-550 Newman | Dora ~39 TX Apr 1910 | H4 TX | L043 | Newman window read; nil for P001 |
@@ -38,8 +38,8 @@ Prioritised queue — work top to bottom. **Do not declare research complete whi
 | B030 | nil | H | IA `soundex1910ky128` P-142 + `soundex1910ar091` P-142; Lee Books 5–19; Perry F/G | Dora × Peebles 1900–1925; 1910 Dora Peebles ~39 KY/AR | H3-Peebles | L057–L063 | **Two marriages, not three.** KY P-142 head+wife nil; AR D-window nil; Lee/Perry licenses nil. Residual: FS AR statewide bride index; Yell licenses |
 
 ## Session handoff
-- **Last closed:** 27 Oct 2026 · **Stopped after:** pass 9 (L057–L063): H3-Peebles — two documented marriages only
-- **Next session starts with:** B029 FamilySearch/manual ED 99; B022 Lee 1912–1929 N-index; Tom A. Stone 1925 DC (user); FS AR marriages 1837–1957 (Peebles residual)
+- **Last closed:** 28 Oct 2026 · **Stopped after:** pass 9 (L057–L063) plus merge of main’s sampled ED 99 (L064–L067 / S067–S068 / C088–C090)
+- **Next session starts with:** remainder of Sturgeon ED 99; B022 pre-1911 Samuel death; B023 Ella Newman 1920 KY; B011 Tom A. Stone 1925 DC (user)
 
 ## Escalation log (brick walls — step number from exhaustive-research.md)
 | Date | Wall | Steps 1–8 attempted | Outcome |
