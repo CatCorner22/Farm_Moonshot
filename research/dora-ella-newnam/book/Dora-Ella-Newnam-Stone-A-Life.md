@@ -116,7 +116,7 @@ The *Yell County Journal* at Ola for late August and early September 1926 has no
 
 She was fifty-five if she was the eight-year-old of District 59. The certificate called her fifty-eight. The child on sheet 6 is the better witness to her beginning than the grieving son was to a date he never saw.
 
-At Carter Cemetery (Carter Cove), Find a Grave’s cemetery search lists **Dora Newman** (memorial 97907837) with no dates on the listing—matching the 1993 yard copy under her maiden name—and **Thomas Stone** (97907931) as **1845–1925**, beside her in the same yard. Those listings are authored derivatives, not vital records, but they align with the certificate and the copyists’ lines.
+At Carter Cemetery (Carter Cove), Find a Grave’s cemetery search lists **Dora Newman** (memorial 97907837) with no dates on the listing—matching the 1993 yard copy under her maiden name—and **Thomas Stone** (97907931) as **1845–1925**, beside her in the same yard. Those listings are authored derivatives (**S117–S118**, claim **C129**), not vital records, but they align with the certificate and the copyists’ lines.
 
 ---
 
