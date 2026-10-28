@@ -28,12 +28,13 @@ Place as it was *at the date*; modern equivalent in brackets. Flag impossibiliti
 | 5 Mar 1900 | 28 | BIL John Newnam d. consumption (context) | Lee Co. | — | S049 prior |
 | 24 Feb 1906 (WikiTree lore) | ~34 | Alleged death of Samuel | Lee Co.? | C012 | S030 | unproved; required before 1910 by Pearl’s boarding |
 | 29 Aug 1904 | — | Loose: S. P. Newnam 30 2nd m. Rosa L. Banks, Lee — **not merged** | Lee Co. | C013 | S014 prior |
-| 15 Apr 1910 | ~38 | **Not in KY/AR/MO N-550 as Dora ~39; not in TN N-550 D-block or McCoy M-window; Coy nil KY/AR/MO/TN-C; Samuel P not a KY N-550 head; two KY Dora Stones rejected; KY child Soundex OCR nil; not KY P-142 Peebles head or wife; not AR P-142 indexed Dora ~39** | unknown (Sturgeon ED 99 unread) | C030 C031 C031b C034–C039 C077 C081–C083 | S020–S023 S025–S028 S058 S062 S063 |
+| 15 Apr 1910 | ~38 | **Not in KY/AR/MO N-550 as Dora ~39; not in TN N-550 D-block or McCoy M-window; Coy nil KY/AR/MO/TN-C; Samuel P not a KY N-550 head; two KY Dora Stones rejected; KY child Soundex OCR nil; not KY P-142 Peebles head or wife; not AR P-142 indexed Dora ~39; not in Sturgeon ED 99 as Newnam (original)** | unknown (not Sturgeon as Newnam) | C030 C031 C031b C034–C039 C077 C081–C083 C088 | S020–S023 S025–S028 S058 S062 S063 S067 |
 | Apr 1910 | — | Parents Elias (“Elisa”) & Mary (Smallwood) Newnam, couple alone, Proctor ED 100 dw 19/20 | Lee Co., KY | C075 | S057 |
 | 1910 | — | Pearl, 15, gdau. of Elizabeth Newmann, Buck Creek, Owsley | Owsley Co., KY ED 169 hh 141 | C026 | S041 prior |
 | 11 Jul 1918 | ~46 | Mother Mary A. Newnam d. | Lee Co. (Brandenburg-Quillen) | C047 | S032 prior |
 | Jan 1920 | ~48 | **Not in AR as Dora Stone or Dora Newnam; not in KY N-550 as Dora ~48** (Paducah 29 / Cumberland 10 / Logan 28 all rejected); not in Coy’s Danville house; not in transcribed 1920 Lee | unknown | C032 C064 | S102–S109 prior; S045 |
-| Jan 1920 | — | E.T. Neuman, 75, grandfather in C.B. Burke’s house, Beattyville (PROBABLE P004 Elias) | Beattyville, Lee Co., KY | C065 | S046 |
+| Jan 1920 | — | E.T. Newman/Neuman, 75 wd, grandfather in C.B. Burke’s Beattyville Precinct 1 hh 106–114 (Provie née Hoover; children Vivie M., Vedia G., George P.) — PROBABLE P004 Elias; original unread | Beattyville, Lee Co., KY | C065 C091 | S046 S069 |
+| 1 Jun 1900 | — | **No** matching Tom/Thomas A. Stone ~42 b. ~1858 MO in statewide S-350 Thomas/Tom window (two Thomas A. and two Tom cards rejected; Thomas 44 Douglas with Nancy E. not merged) | Missouri (Soundex) | C092 | S070 |
 | 24 Feb 1920 | — | Tom A. Stone, 62 wd, b. MO, FIL of Tom M. Randall, tie maker | Howell Twp, Perry Co., AR ED 75 sh 8B | C050 | S104 S105 prior |
 | 18 Feb 1917 | 45 | Son McCoy m. Letha Viola Sullivan | Ola, Yell Co., AR | C027 | S024 prior |
 | 1896–1926 | — | **No Lee Co. license** for Dora Newnam/Newman × Peebles/Stone (Books 5–19); **no Peebles surname** in those books | Lee Co., KY | C084 | S064 |

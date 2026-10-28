@@ -31,4 +31,9 @@ Write population/denominator/period/exclusions BEFORE computing (statistics.md).
 
 ## Misleading-presentation screen (20-item catalogue in statistics.md)
 - Screened my claims ☑ · Screened key cited sources ☑ (WikiTree “abt. 1930” is an unsourced round year — discarded)
-- Issues found & fixed: do not convert 2/7 into “40% child mortality in the family” without n and CI; do not average 1868 and 1871 into 1869–70; do not treat Soundex absence as “she did not exist” — it is “not under that surname in that state.” Do not promote a Peebles third marriage from family memory: every located Dora Peebles/Peeples fails the same-person test, and home-county licenses are nil; “not supported” ≠ “impossible in an unread county.”
+- Issues found & fixed: do not convert 2/7 into “40% child mortality in the family” without n and CI; do not average 1868 and 1871 into 1869–70; do not treat Soundex absence as “she did not exist” — it is “not under that surname in that state.” Do not promote a Peebles third marriage from family memory: every located Dora Peebles/Peeples fails the same-person test, and home-county licenses are nil; “not supported” ≠ “impossible in an unread county.” Do not treat “Newnams in 1910 Sturgeon” as Dora’s household — four other Newnam houses are in ED 99 and fail the same-person test. Do not average 1920 age 62 with 1900 ages 32/44/50 into a fake birth year for Tom A. Stone.
+
+### A005 — 1910 Sturgeon ED 99 Newnam households (negative control)
+- Population: named Newnam/Newman persons on the original ED 99 schedules (sheets 1A–13B).
+- Count: **≥5 households** containing the surname (Richard+Sarah; Harry/Albert in Ross hh; John+Ollie; Reuben+Nannie; John H.+Malcum). **Zero** of those households contains Dora ~39, Samuel ~41, McCoy ~20, or John H. ~10.
+- This is a **count of examined households**, not a rate. It supports C088 as a precinct-level negative, not “no Newnams lived there.”

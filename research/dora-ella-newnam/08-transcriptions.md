@@ -180,5 +180,88 @@ Typed Miracode, IA `soundex1910ar091` printed pp. 178–203.
 - Printed p. 193: **JEFFERSON, P-142 PEOPLES, JULIUS**, H B 35 AR; wife Laurah 26 AR; **Dora Bell SIL 16 AR**. **Rejected** (age 16, b. AR). File `ar1910-p142-p200-julius-dora-bell-16-rejected.jpg`.
 - → C083.
 
+## DOC012 — 1910 U.S. census, Lee Co., KY, Sturgeon Precinct 7, ED 99 (original)
+NARA T624-478; IA `13thcensus1910po478unit` PDF 551–578. Enumerator **Elam Brandenburg**. SD 10. Ancestry “image 499” ≠ this PDF page (PDF 499 = Lee ED 96 sh 7A). ED 100 Proctor starts PDF 579.
+
+### Sheet 1A (PDF 551) — `1910-lee-ky-ed99-p551.jpg`
+SHA-256 `d46fc76ba9cfafba2773e20e8fe386d33d75e5f618f743d9f4510c267407831b` · 2254×1546.
+Header: State Kentucky · County Lee · Precinct 7 Mag. Dist. 7 · enumerated 15 April · Elam Brandenburg. Dwelling 1 onward is **not** a Newnam house (first heads include coal-miner households). Confirms start of ED 99.
+
+### Sheet 4A (PDF 557) — `1910-lee-ky-ed99-p557.jpg`
+SHA-256 `f9314c2bc6fbfeb89f4687461a975fcb6e8f8f6e674e62da52067cb4ad931180` · 2254×1570. Enum. 21 April.
+
+Diplomatic (Newnam cluster only):
+
+| Dw/Fam | Name | Rel | Age | Mar | Notes |
+|---|---|---|---|---|---|
+| 63/66 | Newman, George | Brother | 32 | S | In Richard’s dwelling |
+| 63/66 | **Newnam, Richard** | Head | 45 | M1 21 | Farmer |
+| | Sarah | Wife | 44 | M1 21 | 5 children living (cols 10–11 read 5 / 8[?]) |
+| | Shelton | Son | 19 | S | |
+| | David | Son | 14 | S | |
+| | Georgia | Dau | 14 | S | |
+| | Della | Dau | 11 | S | |
+| | Willard | Son | 6 | S | |
+
+**Not P002/P001** (wife Sarah; children ≠ 1900 set).
+
+### Sheet 6A (PDF 561) — `1910-lee-ky-ed99-p561.jpg`
+SHA-256 `11c331f46c946c86ff41b66684c136a5a06b3e1ec2197edc15cd2a32001c276b` · 2254×1560. Enum. 26 April.
+
+Sherman Ross household includes **Newman, Harry**, brother-in-law, 42, and **Newman, Albert**, brother-in-law, 23. Next: **Newman, John**, head, 31, M1 1 year; **Ollie**, wife, 19, M1 1, 1/1. **Not P002** (age, wife Ollie, married 1 year).
+
+### Sheet 7A (PDF 563) — `1910-lee-ky-ed99-p563.jpg`
+SHA-256 `a1c9d2cbfef048e932a6727d084634cc953dc5bff940d31d6693041ab39ea416` · 2249×1565. Enum. 27 April.
+
+| Dw/Fam | Name | Rel | Age | Mar |
+|---|---|---|---|---|
+| 101/134 | **Newnam, Reuben** | Head | 33 | M1 7 |
+| | Nannie | Wife | 26 | M1 7 | 4/4 |
+| | Edward | Son | 6 | S |
+| | Elzie | Son | 4[?] | S |
+| | Mary | Dau | 2[?] | S |
+
+**Not P002.**
+
+### Sheet 13B (PDF 576) — `1910-lee-ky-ed99-p576.jpg`
+SHA-256 `d0b20cdf0b4a85729311415bc1659ee9e0c9aaf6645aa5a90ae1d1cfd53d9f87` · 2268×1575.
+
+Dwelling **218/257**: **Newman, John H.**, head, ~45, M1 25 years; wife ~52; son **Malcum** ~27, laborer. **Not P010** (P010 was 9 months old in Jun 1900).
+
+ED 99 continues through sheet 13B (PDF 578 is the blank/end B; PDF 579 = ED 100 Proctor 1A). No household in the ED lists Dora ~39, Samuel ~41, McCoy ~20, or John H. ~10 of the 1900 Sturgeon set. → C088 C089.
+
+## DOC013 — Lee Co. deaths 1911–1929 N-index + year extracts (nil for P001/P002)
+See S047/S068. N-index rows (as printed):
+
+- NEWMAN, Callie — vol 028 cert 13504 and vol 032 cert 15815; 27 Apr 1926; age 30 (duplicate index rows)
+- NEWMAN, Dellie — vol 024 cert 11741; 8 Jan 1917
+- NEWMAN, Frank — vol 015 cert 07401; 16 Mar 1928
+- NEWMAN, Grant 1 — vol 026 cert 12938; 29 May 1915 infant
+- NEWMAN, Hanley 1 — vol 057 cert 28233; 18 Mar 1924 infant
+- NEWMAN, Lillian — vol 036 cert 14143; 8 May 1912 age 33
+- NEWMAN, Maud L — vol 041 cert 20437; 12 Apr 1913
+- NEWNAM, Dorothy — vol 048 cert 23505; 6 Oct 1926/27 infant
+
+Year-file collisions **not merged:** Cordelia Abner d. 6 Apr 1914 age 24y 3m 2d, parents Sam Newnam & Elza Newnam (C093); Maria SMITH d. 26 Feb 1915, mother Ella NEWNAM, father Charlie SMITH (C094). → C090.
+
+## DOC014 — 1920 Beattyville Precinct 1 hh 106–114 (transcription)
+Source: S069. **Original not seen.** Enumerator Harry L. Perkins. Household as transcribed:
+
+> 106-114 C.B. BURKE head 40 md w KyKyKy Provie wife 30 md w KyKyKy nee HOOVER Vivie M. dau 14 s w KyKyKy Vedia G. dau 10 s w KyKyKy George P. son 3 ?/12 s w KyKyKy (b 5/21/1917) **E.T. NEWMAN gfather 75 wd w KyKyKy** Bertie COMBS border 32 f s w KyKyKy WARREN MISSER? border 23 s w PaPaPa
+
+Matches S046 Soundex (Neuman, E.T., Grand Father of Burke, C.B.). Which Elias daughter is C.B.’s mother is **unresolved**. → C091.
+
+## DOC015 — 1900 Missouri Soundex S-350, Thomas→Tom window
+IA `soundex1900mo244`. Inverted JPEGs; diplomatic from images. Cards that matter:
+
+1. PDF 1678 — **Stone, Thomas.** W, May 1856, 44, Missouri. Douglas Co., Buchanan Twp. Wife Nancy E. b. Sept 1863 age 36; Ella M. d. Feb 1886 14; Minnie d. Sep 1888 11; Martha A. d. Jan 1892 8; Rosey d. May 1894 6. Continuation 1679: Jesse C. son b. Mar 1896 age 4. **Closest age to 1920 Tom A. 62. Not merged** (no middle A.; wife Nancy).
+2. PDF 1680 — **Stone, Thomas.** W, ~1850, 50, Missouri. Caldwell Co., Kidder. Wife Nancy b. June 1847 53; Mary 19; Ethel? 13; niece Buckley Ruby 12. **Too old.**
+3. PDF 1684 — **Stone, Thomas A.** W, Feb 1868, 32, Missouri. Dunklin Co., Campbell Twp. Wife Matilda b. Nov 1876 24 Illinois; Gertrude M. d. Mar 1893 6; Jenkins Mary aunt? b. Jan 1825 75 TN. **Name match; age 10 years off 1920.**
+4. PDF 1685 — **Stone, Thomas A.** W, Mar 1876, 24, Missouri. Cooper Co., Clark’s Fork Twp. Enumerated with Grissom, Matthew; Nephew. **Too young.**
+5. PDF 1727 — **Stone, Tom.** B, May 1878, 21, Kentucky. Mississippi Co., Tywappity Twp. Laborer with Drinkwater, Fred. **Race Black — rejected.**
+6. PDF 1728 — **Stone, Tom.** W, May 1869, 31, Missouri. Vernon Co., Center Twp, Nevada. Coal miner; boarder with Jones, Charley W. **Age 31 vs ~42; no household.**
+
+Thomas window then hits Tracy (PDF 1725) and other T-given names. No card is Tom A. ~42 b. ~1858. → C092.
+
 ## DOC009 — 1910 TN Soundex N-550 McCoy window (nil)
 Handwritten family/individual cards n2461–n2469. Sequence after Mary C (n2460): Mary D 49 Jefferson (son Layton 11); Mary M 70 Hamilton; Mek. G 50 Cheatham (Florence 19, John 17, General 16, Frances 13, William 10, Doria 6, Luther 1½); Melvin 3½ Giles (gs of Deacon George W); Melvin 54 Giles (SIL of same); Minerva 80 Robertson (gds Lona Neely, Nellie Erwin); Minnie 21 Roane (with Sam P. Sparks); Mitchell 27 Hardin (Ollie P 25, Gladys 4, Burl W 3, Royal E 1 9/12). **No McCoy.** SHA-256 n2463 `23610f8aa4c159b1b554ed1786d11f57d2f56f8a2e8994f7289ae7bd02dfca53`; n2469 `340489566090880388fa6b81ca5751c5944dcaf56a7b44f70fe560788f308586`.
