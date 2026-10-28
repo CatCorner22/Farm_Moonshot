@@ -287,5 +287,41 @@ IA `soundex1900mo244`. Inverted JPEGs; diplomatic from images. Cards that matter
 
 Thomas window then hits Tracy (PDF 1725) and other T-given names. No card is Tom A. ~42 b. ~1858. → C092.
 
+**Pass 12 correction from original (DOC017):** card 1’s “Jesse C. son Mar 1896” is **Ossie P. daughter Mch 1896** on the schedule. “Ella M.” is **Etta M.** Nancy is **June 1866 age 33**, not Sept 1863 age 36. Derivative card is not the source for those fields. → C101 C102.
+
+## DOC017 — 1900 U.S. census, Douglas Co. MO, Buchanan Twp, ED 159 sheet 9B (original)
+- Image file(s) + SHA-256: `sources/census/1900-douglas-mo-ed159-stone-sheet.jpg` · `cdfaf28e2a533ed32ab45679b83035dbb02dbdda21717b8e7616a03f78d74026` (1889×1850, inverted from 120 dpi PDF render); crop `sources/census/1900-douglas-mo-ed159-stone-hh-crop.jpg` · `79fffff5b3df2d9332df7b5e082f656acc3bb77d6aec3f53d198bfe4add7d2d8` (2860×527)
+- Page: IA `12thcensusofpopu853unit` PDF p. 413; NARA T623 reel 853; SD 8, ED **159**, sheet **9 B**
+- Provenance: NARA microfilm via Internet Archive, accessed 28 Oct 2026. Saw: scan (JPEG of inverted PDF page). Original paper not seen ☐
+- Language / script / hands: English; one enumerator hand (David C. Walker), 1900 census bookhand
+- Image quality: **sufficient** after invert+autocontrast for names, relationships, birth month/year, ages, marriage duration, children-born/living, nativity, and occupation of lines 67–73. Martha L.’s year/age re-read against Soundex (which has Jan 1892 age 8); original is Jan 1889 age 10.
+- Enhancements: invert, autocontrast, contrast 1.12 (working copies under `/tmp/pass12/stone/`)
+
+### Diplomatic transcription (dwelling 148 / family 148 only; Pass 1+2 from the inverted JPEG)
+
+Header:
+> State **Missouri** · County **Douglas** · Township **Buchanan Township**  
+> Supervisor’s Dist. No. **Eight** · Enumeration Dist. No. **159** · Sheet No. **9 B**  
+> Enumerated by me on the **13** day of June, 1900. / **David C. Walker**, Enumerator.
+
+| Line | Dw/Fam | Name | Rel | Color/Sex | Birth | Age | S/M | Yrs mar | Ch. born/liv | POB / FPOB / MPOB | Occupation |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| 67 | 148/148 | Stone, Thomas | Head | W M | May 1856 | 44 | M | 18 | — | Missouri / Missouri / Missouri | Woodchopper |
+| 68 | | — Nancy E. | Wife | W F | June 1866 | 33 | M | 18 | 8 / 6 | Missouri / Missouri / Missouri | — |
+| 69 | | — Etta M. | Daughter | W F | Nov 1885 | 14 | S | | | Missouri / Missouri / Missouri | — |
+| 70 | | — Minnie J. | Daughter | W F | Feb 1888 | 12 | S | | | Missouri / Missouri / Missouri | — |
+| 71 | | — Martha L. | Daughter | W F | Jan 1889 | 10 | S | | | Missouri / Missouri / Missouri | — |
+| 72 | | — Rosena | Daughter | W F | May 1894 | 6 | S | | | Missouri / Missouri / Missouri | — |
+| 73 | | — Ossie P. | Daughter | W F | Mch 1896 | 4 | S | | | Missouri / Missouri / Missouri | — |
+
+{Note} Next household 150/150 Maggard, Samuel (Kentucky/Kentucky/Kentucky, farmer). Dwelling 149 is unused on this sheet. 8 children 6 living with 5 daughters at home ⇒ one living child not in this house. Soundex (DOC015) is a derivative of this page and errs on given names and Nancy’s birth (C102). **Not merged** with 1920 Tom A. Stone (C092). → C101.
+
+### Normalised reading
+Thomas Stone, 44, woodchopper, and wife Nancy E., 33, married 18 years, with five daughters Etta M. 14, Minnie J. 12, Martha L. 10, Rosena 6, and Ossie P. 4, all born Missouri, Buchanan Township, Douglas County, Missouri, 13 June 1900.
+
+### Facts extracted → claim IDs
+- Thomas May 1856 age 44, no middle initial, wife Nancy E. living → C101 C092 (not merged with P003)
+- Ossie P. daughter Mch 1896, not Jesse C. son → C102
+
 ## DOC009 — 1910 TN Soundex N-550 McCoy window (nil)
 Handwritten family/individual cards n2461–n2469. Sequence after Mary C (n2460): Mary D 49 Jefferson (son Layton 11); Mary M 70 Hamilton; Mek. G 50 Cheatham (Florence 19, John 17, General 16, Frances 13, William 10, Doria 6, Luther 1½); Melvin 3½ Giles (gs of Deacon George W); Melvin 54 Giles (SIL of same); Minerva 80 Robertson (gds Lona Neely, Nellie Erwin); Minnie 21 Roane (with Sam P. Sparks); Mitchell 27 Hardin (Ollie P 25, Gladys 4, Burl W 3, Royal E 1 9/12). **No McCoy.** SHA-256 n2463 `23610f8aa4c159b1b554ed1786d11f57d2f56f8a2e8994f7289ae7bd02dfca53`; n2469 `340489566090880388fa6b81ca5751c5944dcaf56a7b44f70fe560788f308586`.

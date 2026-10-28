@@ -198,3 +198,11 @@
   sha256: dc314b3f6355ae488b45ae6627d43f4b2c216a04174e7ceab7e98544fbcedcb3
   format: JPEG photo, 2405x237px
   check: lines 17–24 crop of inverted sheet 6A (Burke/Newman household)
+research/dora-ella-newnam/sources/census/1900-douglas-mo-ed159-stone-sheet.jpg  (886,946 bytes)
+  sha256: cdfaf28e2a533ed32ab45679b83035dbb02dbdda21717b8e7616a03f78d74026
+  format: JPEG photo, 1889x1850px
+  check: full page + margins + verso? straight-on, no glare/flash, strokes several px tall? (paleography.md intake)
+research/dora-ella-newnam/sources/census/1900-douglas-mo-ed159-stone-hh-crop.jpg  (449,324 bytes)
+  sha256: 79fffff5b3df2d9332df7b5e082f656acc3bb77d6aec3f53d198bfe4add7d2d8
+  format: JPEG photo, 2860x527px
+  check: full page + margins + verso? straight-on, no glare/flash, strokes several px tall? (paleography.md intake)
