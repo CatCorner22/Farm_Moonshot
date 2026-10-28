@@ -75,4 +75,6 @@ Wildcard strings to use: `New*m`, `Dor* New*`, `"Doll Newnam"`, `McCoy OR Coy Ne
 | 26 | 1910 Lee Sturgeon ED 99 original | IA `13thcensus1910po478unit` PDF 551–578 / T624-478 | P001/P002/McCoy still in 1900 precinct? | **nil** for those persons; other Newnams present (C089) |
 | 27 | Lee deaths 1912–1929 year files + N-index | USGenNet | Samuel P as decedent | **nil**; Cordelia Abner / Ella NEWNAM collisions rejected |
 | 28 | 1900 MO S-350 Thomas→Tom | IA `soundex1900mo244` PDF ~1676–1728 | Tom A. Stone ~42 b. MO | **no merge**; two Thomas A. and two Tom cards fail |
-| 29 | 1920 Beattyville Pct 1 transcription | USGenNet `bt.html` | Elias as Burke grandfather | **found** hh 106–114; original T625-586 unread |
+| 29 | 1920 Beattyville Pct 1 original | IA `14thcensusofpopu586unit` PDF p. 14 / T625-586 ED 111 sh 6A | Elias as Burke grandfather | **found original**; E.T. is grandfather of Provie Hoover, not of C.B. |
+| 30 | Lee VS deaths 1874–1878 and 1900–1904 | USGenNet vsd / vsd1 / vsd2 | Samuel P death | **nil** Samuel P; John 37 d. 5 Mar 1900 is BIL context |
+| 31 | 1900 Proctor + Book 7 Burke×Hoover | RootsWeb / USGenNet | Whose grandchild is E.T.? | Provie Hoover gdau of Elias; C.B. son of George Burke |
