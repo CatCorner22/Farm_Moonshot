@@ -12,11 +12,11 @@ Prioritised queue — work top to bottom. **Do not declare research complete whi
 | B004 | nil | H | IA `soundex1920ky117` N-550 | Dora / Ella Newman ~48 KY | 1920 hole | L035 | Three Dora cards, all wrong age; E-tab after Dougal |
 | B005 | done | H | IA `soundex1920ky144` S-350 | Dora Stone ~48 KY | m2 already by Jan 1920? | L047 | Full reel OCR nil Dora Stone |
 | B006 | done | H | IA `soundex1920tn107` N-550 | Dora Newman ~48 TN | 1920 hole | L049 | Full reel OCR nil Dora+Newman |
-| B007 | open | M | 1910 Bollinger Co. MO Liberty Twp | Letha Sullivan household — any Newnam boarder/MIL | H4 Missouri FAN | L079 L083 L101 L105 | jp2 **420–480** OCR **nil** Newnam/Sullivan/Letha Viola; vision samples sh 5A/7A/9A. **Letha Hart** 3 in Dongola (wrong surname). Residual: ED 5 sheets outside download slice |
+| B007 | partial | M | 1910 Bollinger Co. MO Liberty Twp | Letha Sullivan household — any Newnam boarder/MIL | H4 Missouri FAN | L079 L083 L101 L105 L114 | jp2 **0400–0480** OCR **nil** Newnam/Sullivan/Letha Viola; vision samples sh 5A/7A/9A (**Letha Hart** 3 in Dongola — wrong surname). Residual: ED 5 sheets not in 400–480 block; adjacent Lorance ED 6 |
 | B008 | done | H | IA 1910 KY N-550 children | John H ~10 / Pearl already found / Rissa / Mary M as GD or servant | Household pass | L051 | OCR nil; Pearl 1910 Owsley prior |
 | B009 | nil | M | USGenNet Lee deaths 1911–1929 “N” | Samuel P / Dora / John Newnam deaths | C012 | L037 | No Samuel/Dora/John H in Lee 1911–1929; try Owsley + pre-1911 |
 | B010 | open | M | Chronicling America / USGenNet gleanings | Newnam, Dora, Samuel, Coy, Stone, Ola 1900–1926 | Press pass | L041 | *Yell County Journal* not digitised |
-| B011 | open | M | AR death index 1914–1950 free | Thomas/Tom/T.A. Stone 1925 Yell/Perry | C014 conflict #4 | L039 L068 L099 | SortedByName THOMAS D–E nil 1925 Yell/Perry; yellcountyobits Stone page nil 1925; GenealogyTrails Perry various deaths **nil Stone**; Digital Heritage still on-site; Ancestry 403 |
+| B011 | open | M | AR death index 1914–1950 free | Thomas/Tom/T.A. Stone 1925 Yell/Perry | C014 conflict #4 | L039 L068 L099 L111 | SortedByName THOMAS D–E nil; yellcountyobits nil 1925; GT Perry/Yell various **nil Stone** (C122); Digital Heritage **not usable** from VM; FS 1940760 / Ancestry 8771 |
 | B012 | done | M | 1880 ED 59 sheet 2 n726 hh 11 | Transcribe other Samuel ~13 (keep separate) | same-person | L034 | **McQueary** Samuel 13, not Newnam |
 | B013 | done | M | 1900 MO Soundex S-350 Thomas Stone | Tom A. Stone ~42 b. MO | C050 identity | L067 | Thomas/Tom window read; **no merge**. Residual: original 1900 Douglas + Dunklin schedules (B033) |
 | B014 | open | L | Link Mays; Rev. J. E. Dunagin 1880/1900 Lee | FAN of 1885 wedding | FAN pass | | |
@@ -44,13 +44,13 @@ Prioritised queue — work top to bottom. **Do not declare research complete whi
 | B036 | done | M | High View Cemetery (aka Newman Cem), Spencer Ridge | Samuel P / Elias children stones | C012 FAN | L075 L084 | **Transcript found** at `hccc.html` / kygenweb highview.htm. **Nil** Samuel P / Dora-era Newnam. Unmarked graves remain possible |
 | B037 | done | L | 1910 Lee KY Sturgeon ED 99 sheet **8A** header (T624-478 jp2 p.564) | Re-read enumerator signature: Elam Brandenburg vs Elton E. Newnam | conflict #13 | L102 | **Surname Treadway** on the original (C113). Given name not picked. Brandenburg / Newnam readings withdrawn as confident claims |
 | B038 | done | H | All project chats → master biography book | Combine chats; journalistic PDF with every saved JPEG | Written conclusion | L090 | `book/Dora-Ella-Newnam-Stone-A-Life.md` + `.pdf` (80 pp, 61 plates). Rebuild: `python3 scripts/build_dora_book.py` |
-| B039 | open | L | Owsley / Lee census + marriage index + later DCs (deceased-only) | Robert & Sallie Newnam of Pebworth, parents of Lester d. 1909 | FAN of P002’s Owsley line | L096 L106 L110 | **Robert** = Farley stepson (C116). **1910 Buck hh 91** UNUM? Robert — possible Newnam (C119). **Sallie marriage not indexed** (rootsweb 1880–1920 pages 404 here). Not merged with Samuel |
-| B040 | partial | H | IA `12thcensusofpopu855unit` (T623-855) Greene Co. | ED **37** balance + EDs **38–39** Stone sweep (Thomas A. found sh **18A**) | C117 / conflict #11 | L097 L100 L103 L104 L109 | **Thomas A. / Matilda / Gertrude on sh 18A (C117).** Sh 17A ln 25 not Thomas (C112). Other ED 37 spot sheets + ED 38 sample nil (C115). Residual: unread ED 37 sheets; full ED 38–39 |
+| B039 | open | L | Owsley / Lee census + marriage index + later DCs (deceased-only) | Robert & Sallie Newnam of Pebworth, parents of Lester d. 1909 | FAN of P002’s Owsley line | L096 L106 L110 L113 | **Robert** = Farley stepson (C116). Lee Books **6–9 nil** Robert×Sallie (C120). **1910 Buck hh 91** UNUM? Robert (C119). Owsley/rootsweb 1880–1920 marry pages 404. Not merged with Samuel |
+| B040 | partial | H | IA `12thcensusofpopu855unit` (T623-855) Greene Co. | ED **37** balance + EDs **38–39** Stone sweep (Thomas A. found sh **18A**) | C117 / conflict #11 | L097 L100 L103 L104 L109 L112 | **Thomas A. on sh 18A (C117).** Sh 17A ln 25 not Thomas (C112). OCR **0817–0880 nil** extra Stone (C121). Residual: every unread ED 38–39 sheet |
 | B041 | open | L | Lee/Owsley church minutes / unmarked graves (on-site) | Samuel P. Newnam burial 1900–1910 | C012 | L098 | Published VS closed. Exact retrieval: Lee Clerk / KDLA; High View unmarked; Newnam graveyard near Pebworth (Rev. Luther Newnam officiated later funerals — do not assume) |
 
 ## Session handoff
-- **Last closed:** 28 Oct 2026 · **Stopped after:** Greene ED 37 sh **18A** Thomas A. Stone original (C117); L103 nil error corrected; Robert FAN + Buck 1910 C119; books through n78.
-- **Next session starts with:** **B040** residual Greene ED 37/38–39; **B011** Tom 1925 DC/index; **B039** Owsley marriage books / Buck original for Robert+Sallie; B007 residual ED 5
+- **Last closed:** 28 Oct 2026 · **Stopped after:** merge with `main` (PR #15) + pass 16: C117 Thomas A. sh 18A, Greene OCR 0817–0880, Lee marr 6–9 nil (C120), Yell GT nil Stone (C122), Bollinger 0400–0480; books through n81.
+- **Next session starts with:** **B011** FS/Ancestry AR death index for Tom Stone 1925; **B039** Owsley marriage register / 1910 Buck original hh 91; **B040** ED 38–39 balance; B007 Lorance adjacency
 
 ## Escalation log (brick walls — step number from exhaustive-research.md)
 | Date | Wall | Steps 1–8 attempted | Outcome |
@@ -61,7 +61,7 @@ Prioritised queue — work top to bottom. **Do not declare research complete whi
 ## Roadblock log (creative workarounds — before `blocked` or asking the user; ≥3 ladder steps)
 | R### | Type A–I | What failed | Ladder steps tried (A1,F2,…) | Log IDs | Next autonomous step | User ask (only if unavoidable; one action + citation + payoff) |
 |---|---|---|---|---|---|---|
-| R001 | A | Ancestry 403 | A1 IA Soundex; A3 free KY/AR indexes; A4 Ancestry AR DC named in dossier; A3 SortedByName THOMAS D–E; A3 yellcountyobits Stone index | L018 L068 | A3 AR Digital Heritage on-site / FS catalog 8771 | Ancestry login for Tom A. Stone 1925 DC **only after** remaining A3 |
+| R001 | A | Ancestry 403 | A1 IA Soundex; A3 SortedByName THOMAS D–E; A3 yellcountyobits; A3 GT Yell/Perry various deaths; A3 Digital Heritage URL (empty fetch) | L018 L068 L099 L111 | FS **Arkansas Death Index 1914–1950** (1940760) or user Ancestry 8771 | One Tom/T.A. Stone **1925** index row (cert #) to order DC |
 | R002 | A | FamilySearch images login wall | A1 USGenNet Book 2; A3 1880 original; A2 FS catalog Q2QD-PZHL | L019 L006 | Keep using free transcripts + IA images | FS sign-in for 1885 page |
 | R003 | B | Find A Grave / yellcountyobits 403 | B2 1993 Daniels/Cossey prior; B3 DC burial field | L010 L011 L029 | B1 other cemetery transcripts | Photo request after B1 |
 | R004 | A | FS AR marriages 1837–1957 (coll. 1417439) login wall | A1 Lee Books 5–19; A3 Perry F/G; A1 1910 KY/AR P-142 | L059 L060 L057 L058 | Keep using county transcriptions + Miracode | FS sign-in for statewide Dora/Peebles bride index |
