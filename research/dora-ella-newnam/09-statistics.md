@@ -31,4 +31,19 @@ Write population/denominator/period/exclusions BEFORE computing (statistics.md).
 
 ## Misleading-presentation screen (20-item catalogue in statistics.md)
 - Screened my claims ☑ · Screened key cited sources ☑ (WikiTree “abt. 1930” is an unsourced round year — discarded)
-- Issues found & fixed: do not convert 2/7 into “40% child mortality in the family” without n and CI; do not average 1868 and 1871 into 1869–70; do not treat Soundex absence as “she did not exist” — it is “not under that surname in that state.”
+- Issues found & fixed: do not convert 2/7 into “40% child mortality in the family” without n and CI; do not average 1868 and 1871 into 1869–70; do not treat Soundex absence as “she did not exist” — it is “not under that surname in that state.” Do not promote a Peebles third marriage from family memory: every located Dora Peebles/Peeples fails the same-person test, and home-county licenses are nil; “not supported” ≠ “impossible in an unread county.” Do not treat “Newnams in 1910 Sturgeon” as Dora’s household — four other Newnam houses are in ED 99 and fail the same-person test. Do not average 1920 age 62 with 1900 ages 32/44/50 into a fake birth year for Tom A. Stone. Do not read 1920 “Grand Father” of C.B. Burke as proof that an Elias daughter is C.B.’s mother — 1900 and the 1904 license show E.T. is grandfather of **Provie**. Do not treat census age 75 (Jan 1920) as disproving a birth of 18 Apr 1842 (that man would be 77); two-year census drift is common. Do not treat Soundex “Jesse C. son” as a sixth child of Douglas Thomas Stone — the original says Ossie P. daughter. Do not treat a 2-year census-age gap (44 in 1900 vs 62 in 1920) as a second identifier for a merge.
+
+### A007 — Soundex vs original (Douglas Stone 1900)
+- Population: one household, six named members on ED 159 sh 9B lines 67–73 versus the Soundex card pair (IA n1678–1679).
+- Counts: **3 of 6 given-name/date fields on the derivative card disagree** with the original (Nancy’s month/year/age; Etta vs Ella; Ossie P. dau vs Jesse C. son). Agreement: surname Stone, head Thomas, May 1856 age 44, ED 159 sheet 9 line 67, wife Nancy E., daughters Minnie and Rosena, Missouri.
+- This is a **concordance count**, not a rate. It supports treating the original as the source (C101) and the Soundex as a finding aid with known error (C102). It does **not** change the same-person test against 1920 Tom A. (still one identifier).
+
+### A006 — 1920 Burke household (whose grandfather?)
+- Population: one enumerated relationship (“Grand Father”) plus two independent records of Provie Hoover’s tie to Elias.
+- Counts: (1) 1900 Provy Hoover **gdau** of Elias; (2) 1904 “E. T. Newnam Granfather appeared” at Provie × C.B. Burke; (3) 1900 Charles B. **son** of George Burke. **Zero** records name an Elias daughter as C.B.’s mother.
+- This is a **concordance count**, not a rate. It supports C097 as a resolved conflict, not a probability of relatedness.
+
+### A005 — 1910 Sturgeon ED 99 Newnam households (negative control)
+- Population: named Newnam/Newman persons on the original ED 99 schedules (sheets 1A–13B).
+- Count: **≥5 households** containing the surname (Richard+Sarah; Harry/Albert in Ross hh; John+Ollie; Reuben+Nannie; John H.+Malcum). **Zero** of those households contains Dora ~39, Samuel ~41, McCoy ~20, or John H. ~10.
+- This is a **count of examined households**, not a rate. It supports C088 as a precinct-level negative, not “no Newnams lived there.”

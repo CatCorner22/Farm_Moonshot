@@ -1,17 +1,17 @@
 # Source-image gallery: Dora Ella Newnam Stone
 
-Thirty-eight JPEG images captured from NARA microfilm (via Internet Archive) during this case. They are ordered by **the date of the census they record or index**, not by the date the film was scanned. Plates 33–38 were added in the merge of `main` (PR #7 sampled Sturgeon ED 99 / Fincastle ED 96).
+Sixty-one JPEG images captured from NARA microfilm (via Internet Archive) during this case. They are ordered by **the date of the census they record or index**, not by the date the film was scanned.
 
-Soundex and Miracode cards were created later as finding aids. They sit with the census year they index (1880, 1910, 1920), immediately after any original population schedules for that year.
+Soundex and Miracode cards sit with the census year they index, immediately after any original population schedules for that year.
 
 | Role | Meaning |
 |---|---|
 | **Family hit** | Names Dora or a documented relative |
-| **Rejected same-name** | A Dora, Samuel, or similar who fails the same-person test |
-| **Negative search** | The alphabetical slot where our person would appear — they are not there |
+| **Rejected same-name** | A Dora, Samuel, Thomas, or similar who fails the same-person test |
+| **Negative search** | The alphabetical or dwelling slot where our person would appear — they are not there |
 | **Context** | Adjacent page or divider, kept so the search window can be verified |
 
-Diplomatic transcriptions: [`08-transcriptions.md`](08-transcriptions.md). Citations: [`04-evidence.md`](04-evidence.md). Checksums: [`sources/INVENTORY.txt`](sources/INVENTORY.txt).
+Diplomatic transcriptions: [`08-transcriptions.md`](08-transcriptions.md). Citations: [`04-evidence.md`](04-evidence.md). Checksums: [`sources/INVENTORY.txt`](sources/INVENTORY.txt). Master biography: [`book/Dora-Ella-Newnam-Stone-A-Life.md`](book/Dora-Ella-Newnam-Stone-A-Life.md).
 
 ---
 
@@ -19,511 +19,687 @@ Diplomatic transcriptions: [`08-transcriptions.md`](08-transcriptions.md). Citat
 
 | # | Record date | Role | Image |
 |---|---|---|---|
-| 1 | 29 Jun 1870 | Context | [Sturgeon Precinct p. 3 (stamped 337)](#1--29-june-1870--sturgeon-precinct-page-3-stamped-337) |
-| 2 | 29 Jun 1870 | Family hit | [John, Elizabeth, and infant Samuel Newman](#2--29-june-1870--john-elizabeth-and-infant-samuel-newman) |
-| 3 | 1 Jun 1880 | Family hit | [John and Mary Newnam; Samuel, 11](#3--1-june-1880--john-and-mary-newnam-samuel-aged-11) |
-| 4 | 1 Jun 1880 | Rejected same-name | [Samuel McQueary, 13 — not a Newnam](#4--1-june-1880--samuel-mcqueary-13--not-a-newnam) |
-| 5 | 5 Jun 1880 | Family hit | [Elias and Mary Newnam; Dora, 8](#5--5-june-1880--elias-and-mary-newnam-dora-aged-8) |
-| 6 | 1880 (index) | Family hit | [Soundex card 1 — Elias Newnam household](#6--1880-index--elias-newnam-household-card) |
-| 7 | 1880 (index) | Family hit | [Soundex card 2 — Dora and Catharine](#7--1880-index--continuation-dora-and-catharine) |
-| 8 | Apr 1910 | Negative | [Kentucky N-550 — Millie / Missouri; no McCoy](#8--april-1910--kentucky-n-550-millie--missouri-no-mccoy) |
-| 9 | Apr 1910 | Negative | [Kentucky N-550 — Monroe; still no McCoy](#9--april-1910--kentucky-n-550-monroe-still-no-mccoy) |
-| 10 | Apr 1910 | Rejected same-name | [Kentucky N-550 — Sam / Samuel, none is P002](#10--april-1910--kentucky-n-550-sam--samuel-none-is-husband-samuel) |
-| 11 | Apr 1910 | Rejected same-name | [Kentucky N-550 — Samuel E. of Muhlenberg](#11--april-1910--kentucky-n-550-samuel-e-of-muhlenberg) |
-| 12 | Apr 1910 | Rejected same-name | [Kentucky S-350 — Dora Stone, servant, Louisville](#12--april-1910--kentucky-s-350-dora-stone-servant-louisville) |
-| 13 | Apr 1910 | Rejected same-name | [Kentucky S-350 — Dora Stone, 18, Wolfe County](#13--april-1910--kentucky-s-350-dora-stone-18-wolfe-county) |
-| 14 | Apr 1910 | Negative | [Arkansas N-550 — Cora / Dan; no Coy](#14--april-1910--arkansas-n-550-cora--dan-no-coy) |
-| 15 | Apr 1910 | Negative | [Arkansas N-550 — Dan E.; no Dora](#15--april-1910--arkansas-n-550-dan-e-no-dora) |
-| 16 | Apr 1910 | Negative | [Arkansas N-550 — Mary / Mayme](#16--april-1910--arkansas-n-550-mary--mayme) |
-| 17 | Apr 1910 | Negative | [Arkansas N-550 — Melvina; no McCoy](#17--april-1910--arkansas-n-550-melvina-no-mccoy) |
-| 18 | Apr 1910 | Negative | [Missouri N-550 — Cyrus / Daisy; no Coy](#18--april-1910--missouri-n-550-cyrus--daisy-no-coy) |
-| 19 | Apr 1910 | Rejected same-name | [Missouri N-550 — Dora L. Neimann of St. Louis](#19--april-1910--missouri-n-550-dora-l-neimann-of-st-louis) |
-| 20 | Apr 1910 | Negative | [Missouri N-550 — May / Michael; no McCoy](#20--april-1910--missouri-n-550-may--michael-no-mccoy) |
-| 21 | Apr 1910 | Negative | [Oklahoma N-550 — Newman sample; no Dora](#21--april-1910--oklahoma-n-550-newman-sample-no-dora) |
-| 22 | Apr 1910 | Negative | [Texas N-550 — Dennis Newman sample](#22--april-1910--texas-n-550-dennis-newman-sample) |
-| 23 | Apr 1910 | Negative | [Tennessee N-550 — “D” tab; no Coy](#23--april-1910--tennessee-n-550-d-tab-no-coy-card) |
-| 24 | Apr 1910 | Negative | [Tennessee N-550 — Mary D.](#24--april-1910--tennessee-n-550-mary-d) |
-| 25 | Apr 1910 | Negative | [Tennessee N-550 — Mek. G.; not McCoy](#25--april-1910--tennessee-n-550-mek-g-not-mccoy) |
-| 26 | Apr 1910 | Negative | [Tennessee N-550 — Melvin of Giles](#26--april-1910--tennessee-n-550-melvin-of-giles) |
-| 27 | Apr 1910 | Negative | [Tennessee N-550 — Minerva](#27--april-1910--tennessee-n-550-minerva) |
-| 28 | Apr 1910 | Negative | [Tennessee N-550 — Mitchell, after the McCoy slot](#28--april-1910--tennessee-n-550-mitchell-after-the-mccoy-slot) |
-| 29 | Jan 1920 | Rejected same-name | [Kentucky N-550 — Dora Newman, 29, Paducah](#29--january-1920--kentucky-n-550-dora-newman-29-paducah) |
-| 30 | Jan 1920 | Rejected same-name | [Kentucky N-550 — Dora E. Newman, 10, Cumberland](#30--january-1920--kentucky-n-550-dora-e-newman-10-cumberland) |
-| 31 | Jan 1920 | Negative | [Kentucky N-550 — “E” tab after the Dora window](#31--january-1920--kentucky-n-550-e-tab-after-the-dora-window) |
-| 32 | Jan 1920 | Family hit | [E. T. Neuman, 75, Beattyville, with C. B. Burke](#32--january-1920--e-t-neuman-75-beattyville-with-c-b-burke) |
-| 33 | Apr 1910 | Context | [Fincastle ED 96 sheet 7A — IA PDF 499, not Ancestry image 499](#33--april-1910--fincastle-ed-96-sheet-7a-ia-pdf-499) |
-| 34 | Apr 1910 | Negative | [Sturgeon ED 99 sheet 4A — dw 67 is Hamilton, not Samuel](#34--april-1910--sturgeon-ed-99-sheet-4a-dw-67-hamilton) |
-| 35 | Apr 1910 | Rejected same-name | [Sturgeon ED 99 sheet 5A — Elijah Newnan dw 66](#35--april-1910--sturgeon-ed-99-sheet-5a-elijah-newnan) |
-| 36 | Apr 1910 | Negative | [Sturgeon ED 99 sheet 6B — dw 67 is Garrett](#36--april-1910--sturgeon-ed-99-sheet-6b-dw-67-garrett) |
-| 37 | Apr 1910 | Rejected same-name | [Sturgeon ED 99 sheet 7A — Ruben Newnam dw 101](#37--april-1910--sturgeon-ed-99-sheet-7a-ruben-newnam) |
-| 38 | Apr 1910 | Context | [Sturgeon ED 99 sheet 9B — Ancestry image 499 = this PDF page 568](#38--april-1910--sturgeon-ed-99-sheet-9b-ancestry-image-499) |
+| 1 | 29 Jun 1870 | Context | [Sturgeon Precinct, page 3 (stamped 337)](sources/census/1870-lee-ky-sturgeon-p337a-context.jpg) |
+| 2 | 29 Jun 1870 | Family hit | [John, Elizabeth, and infant Samuel Newman](sources/census/1870-lee-ky-sturgeon-p337b-john-elizabeth-samuel.jpg) |
+| 3 | 1 Jun 1880 | Family hit | [John and Mary Newnam; Samuel, aged 11](sources/census/1880-lee-ky-ed59-sheet1-p725-john-samuel.jpg) |
+| 4 | 1 Jun 1880 | Rejected same-name | [Samuel McQueary, 13 — not a Newnam](sources/census/1880-lee-ky-ed59-sheet2-p726-mcqueary-samuel.jpg) |
+| 5 | 5 Jun 1880 | Family hit | [Elias and Mary Newnam; Dora, aged 8](sources/census/1880-lee-ky-ed59-sheet6-p730-elias-dora.jpg) |
+| 6 | 1880 (index) | Family hit | [Soundex card — Elias Newnam household](sources/soundex/ky1880-n550-p2105-elias-newnam.jpg) |
+| 7 | 1880 (index) | Family hit | [Soundex continuation — Dora and Catharine](sources/soundex/ky1880-n550-p2106-elias-continuation-dora.jpg) |
+| 8 | 13 Jun 1900 | Rejected same-name | [Douglas County, Missouri — Thomas and Nancy E. Stone](sources/census/1900-douglas-mo-ed159-stone-sheet.jpg) |
+| 9 | 13 Jun 1900 | Rejected same-name | [Douglas County Stone household (crop)](sources/census/1900-douglas-mo-ed159-stone-hh-crop.jpg) |
+| 10 | 1900 (index) | Rejected same-name | [Missouri S-350 — Thomas Stone, 44, Douglas County](sources/soundex/mo1900-s350-p1678-stone-thomas-44-douglas.jpg) |
+| 11 | 1900 (index) | Rejected same-name | [Missouri S-350 — Douglas continuation, “Jesse C.”](sources/soundex/mo1900-s350-p1679-stone-thomas-douglas-jesse.jpg) |
+| 12 | 1900 (index) | Rejected same-name | [Missouri S-350 — Thomas Stone, 50, Caldwell County](sources/soundex/mo1900-s350-p1680-stone-thomas-50-caldwell.jpg) |
+| 13 | 1900 (index) | Rejected same-name | [Missouri S-350 — Thomas A. Stone, 32, Dunklin County](sources/soundex/mo1900-s350-p1684-stone-thomas-a-32-dunklin.jpg) |
+| 14 | 1900 (index) | Rejected same-name | [Missouri S-350 — Thomas A. Stone, 24, Cooper County](sources/soundex/mo1900-s350-p1685-stone-thomas-a-24-cooper.jpg) |
+| 15 | 1900 (index) | Rejected same-name | [Missouri S-350 — Tom Stone, 21, Black](sources/soundex/mo1900-s350-p1727-stone-tom-black-21.jpg) |
+| 16 | 1900 (index) | Rejected same-name | [Missouri S-350 — Tom Stone, 31, Vernon County](sources/soundex/mo1900-s350-p1728-stone-tom-31-vernon.jpg) |
+| 17 | Apr 1910 | Negative search | [Kentucky N-550 — Millie / Missouri; no McCoy](sources/soundex/ky1910-n550-p329-millie-missouri.jpg) |
+| 18 | Apr 1910 | Negative search | [Kentucky N-550 — Monroe; still no McCoy](sources/soundex/ky1910-n550-p330-monroe-no-mccoy.jpg) |
+| 19 | Apr 1910 | Rejected same-name | [Kentucky N-550 — Sam / Samuel, none is the husband](sources/soundex/ky1910-n550-p342-sam-samuel-not-p002.jpg) |
+| 20 | Apr 1910 | Rejected same-name | [Kentucky N-550 — Samuel E. of Muhlenberg](sources/soundex/ky1910-n550-p343-samuel-e-muhlenberg-not-p002.jpg) |
+| 21 | Apr 1910 | Rejected same-name | [Kentucky S-350 — Dora Stone, servant, Louisville](sources/soundex/ky1910-s350-p149-dora-servant-louisville.jpg) |
+| 22 | Apr 1910 | Rejected same-name | [Kentucky S-350 — Dora Stone, 18, Wolfe County](sources/soundex/ky1910-s350-p150-dora-18-wolfe.jpg) |
+| 23 | Apr 1910 | Negative search | [Arkansas N-550 — Cora / Dan; no Coy](sources/soundex/ar1910-n550-p678-cora-dan-no-coy.jpg) |
+| 24 | Apr 1910 | Negative search | [Arkansas N-550 — Dan E.; no Dora](sources/soundex/ar1910-n550-p679-dan-e-no-dora.jpg) |
+| 25 | Apr 1910 | Negative search | [Arkansas N-550 — Mary / Mayme](sources/soundex/ar1910-n550-p701-mary-mayme.jpg) |
+| 26 | Apr 1910 | Negative search | [Arkansas N-550 — Melvina; no McCoy](sources/soundex/ar1910-n550-p702-melvina-no-mccoy.jpg) |
+| 27 | Apr 1910 | Negative search | [Missouri N-550 — Cyrus / Daisy; no Coy](sources/soundex/mo1910-n550-p710-cyrus-daisy-no-coy.jpg) |
+| 28 | Apr 1910 | Rejected same-name | [Missouri N-550 — Dora L. Neimann of St. Louis](sources/soundex/mo1910-n550-p714-dollie-dora-l-neimann.jpg) |
+| 29 | Apr 1910 | Negative search | [Missouri N-550 — May / Michael; no McCoy](sources/soundex/mo1910-n550-p819-may-michael-no-mccoy.jpg) |
+| 30 | Apr 1910 | Negative search | [Oklahoma N-550 — Newman sample; no Dora](sources/soundex/ok1910-n550-newman-sample.jpg) |
+| 31 | Apr 1910 | Negative search | [Texas N-550 — Dennis Newman sample](sources/soundex/tx1910-n550-newman-dennis.jpg) |
+| 32 | Apr 1910 | Negative search | [Tennessee N-550 — “D” tab; no Coy](sources/soundex/tn1910-n550-p2177-d-tab-no-coy.jpg) |
+| 33 | Apr 1910 | Negative search | [Tennessee N-550 — Mary D.](sources/soundex/tn1910-n550-p2461-mary-d.jpg) |
+| 34 | Apr 1910 | Negative search | [Tennessee N-550 — Mek. G.; not McCoy](sources/soundex/tn1910-n550-p2463-mek-g-not-mccoy.jpg) |
+| 35 | Apr 1910 | Negative search | [Tennessee N-550 — Melvin of Giles](sources/soundex/tn1910-n550-p2465-melvin-giles.jpg) |
+| 36 | Apr 1910 | Negative search | [Tennessee N-550 — Minerva](sources/soundex/tn1910-n550-p2466-minerva.jpg) |
+| 37 | Apr 1910 | Negative search | [Tennessee N-550 — Mitchell, after the McCoy slot](sources/soundex/tn1910-n550-p2469-mitchell-after-mccoy-slot.jpg) |
+| 38 | Apr 1910 | Context | [Kentucky P-142 — Peebles/Peeples/Peoples block begins](sources/soundex/ky1910-p142-p235-p142-starts.jpg) |
+| 39 | Apr 1910 | Negative search | [Kentucky P-142 — Dottie / Clyde; no Dora](sources/soundex/ky1910-p142-p238-dottie-clyde-no-dora.jpg) |
+| 40 | Apr 1910 | Rejected same-name | [Kentucky P-142 — Edora Peoples, 65, Graves County](sources/soundex/ky1910-p142-p239-edora-peoples-65-graves-rejected.jpg) |
+| 41 | Apr 1910 | Negative search | [Arkansas P-142 — Clyde / Dave; no Dora ~39](sources/soundex/ar1910-p142-p188-d-window-clyde-dave-no-dora.jpg) |
+| 42 | Apr 1910 | Rejected same-name | [Arkansas P-142 — E. Edd Peoples of Yell County](sources/soundex/ar1910-p142-p189-yell-e-edd-peoples-not-dora.jpg) |
+| 43 | Apr 1910 | Rejected same-name | [Arkansas P-142 — Dora Sykes, 19, stepdaughter](sources/soundex/ar1910-p142-p190-ed-peebles-dora-sykes-19-rejected.jpg) |
+| 44 | Apr 1910 | Rejected same-name | [Arkansas P-142 — Dora Bell Peoples, 16](sources/soundex/ar1910-p142-p200-julius-dora-bell-16-rejected.jpg) |
+| 45 | Apr 1910 | Context | [Fincastle ED 96 sheet 7A — Internet Archive PDF page 499](sources/census/1910-po478-p0499-lee-fincastle-ed96-sheet7a.jpg) |
+| 46 | 15 Apr 1910 | Context | [Sturgeon ED 99 sheet 1A — the precinct begins](sources/census/1910-lee-ky-ed99-p551.jpg) |
+| 47 | 21 Apr 1910 | Rejected same-name | [Sturgeon ED 99 sheet 4A — Richard Newnam; dwelling 67 is Hamilton](sources/census/1910-lee-ky-ed99-p557.jpg) |
+| 48 | 21 Apr 1910 | Negative search | [Sturgeon ED 99 sheet 4A (second capture)](sources/census/1910-po478-p0557-lee-sturgeon-ed99-sheet4a.jpg) |
+| 49 | Apr 1910 | Rejected same-name | [Sturgeon ED 99 sheet 5A — Elijah Newnan, dwelling 66](sources/census/1910-po478-p0559-lee-sturgeon-ed99-sheet5a-elijah-newnan.jpg) |
+| 50 | 26 Apr 1910 | Rejected same-name | [Sturgeon ED 99 sheet 6A — Harry, Albert, John and Ollie Newman](sources/census/1910-lee-ky-ed99-p561.jpg) |
+| 51 | Apr 1910 | Negative search | [Sturgeon ED 99 sheet 6B — dwelling 67 is Garrett](sources/census/1910-po478-p0560-lee-sturgeon-ed99-sheet6b-dw67-garrett.jpg) |
+| 52 | 27 Apr 1910 | Rejected same-name | [Sturgeon ED 99 sheet 7A — Reuben Newnam](sources/census/1910-lee-ky-ed99-p563.jpg) |
+| 53 | 27 Apr 1910 | Rejected same-name | [Sturgeon ED 99 sheet 7A (second capture) — Ruben Newnam](sources/census/1910-po478-p0563-lee-sturgeon-ed99-sheet7a-ruben-newnam.jpg) |
+| 54 | Apr 1910 | Context | [Sturgeon ED 99 sheet 9B — Ancestry image 499 = this PDF page 568](sources/census/1910-po478-p0568-lee-sturgeon-ed99-sheet9b.jpg) |
+| 55 | Apr 1910 | Rejected same-name | [Sturgeon ED 99 sheet 13B — a different John H. Newman](sources/census/1910-lee-ky-ed99-p576.jpg) |
+| 56 | Jan 1920 | Rejected same-name | [Kentucky N-550 — Dora Newman, 29, Paducah](sources/soundex/ky1920-n550-p4201-dora-29-paducah-rejected.jpg) |
+| 57 | Jan 1920 | Rejected same-name | [Kentucky N-550 — Dora E. Newman, 10, Cumberland](sources/soundex/ky1920-n550-p4203-dora-e-10-cumberland-rejected.jpg) |
+| 58 | Jan 1920 | Negative search | [Kentucky N-550 — “E” tab after the Dora window](sources/soundex/ky1920-n550-p4205-e-tab-after-dora.jpg) |
+| 59 | Jan 1920 | Family hit | [Kentucky N-550 — E. T. Neuman, grandfather, Beattyville](sources/soundex/ky1920-n550-p4208-et-newnam-beattyville.jpg) |
+| 60 | 12 Jan 1920 | Family hit | [Beattyville ED 111 sheet 6A — C. B. Burke and E. T. Newman](sources/census/1920-lee-ky-ed111-sh6a-burke-et-newman.jpg) |
+| 61 | 12 Jan 1920 | Family hit | [Burke household crop — E. T. Newman, grandfather](sources/census/1920-lee-ky-ed111-sh6a-burke-hh-crop.jpg) |
 
 ---
 
 ## 1870 — original population schedules
 
-Lee County, Kentucky, had been created the year before. These two pages are consecutive sheets from Sturgeon Precinct, Post Office Proctor, enumerated 29 June 1870 by Chas. D. Tyler (NARA M593, reel 481).
-
-### 1 · 29 June 1870 · Sturgeon Precinct, page 3 (stamped 337)
+### 1 · 29 Jun 1870 · Sturgeon Precinct, page 3 (stamped 337)
 
 **Role:** Context  
 **File:** [`sources/census/1870-lee-ky-sturgeon-p337a-context.jpg`](sources/census/1870-lee-ky-sturgeon-p337a-context.jpg)  
-**Source:** S042 (adjacent frame) · IA `populationschedu0481unit` n68
+**Source:** S042
 
-**What it contains.** Enumerator page 3, stamped **337**, 29 June 1870. Households on this sheet include Young, Kelly, Flanery, Horn, and **Bryant (dwelling 18)** — the family immediately before John Newman. Kept so household 19 on the next page can be placed in the precinct, not treated as an isolated clipping.
+Lee County, Kentucky, had been a county for one year. Enumerator Chas. D. Tyler took this sheet on 29 June 1870. Households Young, Kelly, Flanery, Horn and Bryant (dwelling 18) sit immediately before John Newman’s house on the next page.
 
-![1870 Lee County Kentucky Sturgeon Precinct page 3, stamped 337, households 13 through 18, enumerated 29 June 1870](sources/census/1870-lee-ky-sturgeon-p337a-context.jpg)
+![Sturgeon Precinct, page 3 (stamped 337)](sources/census/1870-lee-ky-sturgeon-p337a-context.jpg)
 
-### 2 · 29 June 1870 · John, Elizabeth, and infant Samuel Newman
+### 2 · 29 Jun 1870 · John, Elizabeth, and infant Samuel Newman
 
-**Role:** Family hit (PROBABLE natal home of Dora’s later husband Samuel P. Newnam)  
+**Role:** Family hit  
 **File:** [`sources/census/1870-lee-ky-sturgeon-p337b-john-elizabeth-samuel.jpg`](sources/census/1870-lee-ky-sturgeon-p337b-john-elizabeth-samuel.jpg)  
-**Source:** S042 · DOC007 · IA n69 · claim C062
+**Source:** S042 · C062
 
-**What it contains.** Enumerator page **4** (USGenNet “337b”). Dwelling/family **19/19**, lines 6–15:
+Dwelling 19/19: Newman, John, 50, farm labourer; Elizabeth, 25, keeping house; and Samuel, aged 1, with eight others. This is the probable natal home of Dora’s later husband. Elizabeth, 25, cannot be the mother of Mary, 21 — the older girls belong to a prior wife or another relationship the schedule does not name. Not silently merged with the 1880 John-and-Mary house (conflict #9).
 
-| Name | Age | Occupation |
-|---|---|---|
-| Newman, John | 50 | Farm labourer |
-| — Elizabeth | 25 | Keeping house |
-| — Mary | 21 | |
-| — Sarah | 18 | |
-| — Celia | 16 | |
-| — Margret | 9 | |
-| — Nancy | 8 | |
-| — John | 7 | |
-| — Sousanna | 5 | |
-| — **Samuel** | **1** | |
+![John, Elizabeth, and infant Samuel Newman](sources/census/1870-lee-ky-sturgeon-p337b-john-elizabeth-samuel.jpg)
 
-Surname on this page is **Newman** (one *n*). Elizabeth, 25, cannot be the biological mother of Mary, 21; the older girls are a prior wife’s children or another relationship the 1870 schedule does not name. This household is **not** silently merged with the 1880 John-and-Mary house in image 3 (conflict #9).
+## 1880 — schedules and Soundex
 
-![1870 Lee County Kentucky Sturgeon Precinct page 4, dwelling 19, John Newman 50, Elizabeth 25, and Samuel aged 1](sources/census/1870-lee-ky-sturgeon-p337b-john-elizabeth-samuel.jpg)
+### 3 · 1 Jun 1880 · John and Mary Newnam; Samuel, aged 11
 
----
-
-## 1880 — original population schedules
-
-Same county, District 59, enumerator James J. Hampton (NARA T9, reel 427). Sheets 1–2 were taken 1 June; sheet 6 on 5 June.
-
-### 3 · 1 June 1880 · John and Mary Newnam; Samuel aged 11
-
-**Role:** Family hit (PROBABLE 1885 groom / 1900 husband)  
+**Role:** Family hit  
 **File:** [`sources/census/1880-lee-ky-ed59-sheet1-p725-john-samuel.jpg`](sources/census/1880-lee-ky-ed59-sheet1-p725-john-samuel.jpg)  
-**Source:** S040 · DOC005 · IA `10thcensus0427unit` n725 · claims C060, C061
+**Source:** S040 · C060 · C061
 
-**What it contains.** ED 59, enumerator page **1**, stamped **460**. Dwelling/family **3/3**, lines 13–18:
+Lee County ED 59, dwelling 3: John Newnam, 69, farmer (father born North Carolina); Mary, 57; Eli, 16; Susan, 20; Samuel, 11; Hannah, 9. Age 11 in June 1880 matches the June 1869 birth of Dora’s husband and the sixteen-year-old of the 1885 marriage return. Identification remains probable pending conflict #9.
 
-| Name | Age | Relation | Notes |
-|---|---|---|---|
-| Newnam, John | 69 | Head | Farmer; b. Kentucky; father **N.C.** |
-| — Mary | 57 | Wife | Keeping house; b. Kentucky |
-| — Eli | 16 | Son | Works on farm |
-| — Susan | 20 | Daughter | At home (listed after Eli) |
-| — **Samuel** | **11** | Son | At home |
-| — Hannah | 9 | Daughter | |
+![John and Mary Newnam; Samuel, aged 11](sources/census/1880-lee-ky-ed59-sheet1-p725-john-samuel.jpg)
 
-Age 11 in June 1880 matches the June 1869 birth of Dora’s husband and the sixteen-year-old of the 1885 marriage return. Identification as that Samuel remains **PROBABLE** until conflict #9 is closed.
+### 4 · 1 Jun 1880 · Samuel McQueary, 13 — not a Newnam
 
-![1880 Lee County Kentucky ED 59 sheet 1, dwelling 3, John Newnam 69, Mary 57, Samuel 11](sources/census/1880-lee-ky-ed59-sheet1-p725-john-samuel.jpg)
-
-### 4 · 1 June 1880 · Samuel McQueary, 13 — not a Newnam
-
-**Role:** Rejected same-name (closes the “second Samuel in ED 59” lead)  
+**Role:** Rejected same-name  
 **File:** [`sources/census/1880-lee-ky-ed59-sheet2-p726-mcqueary-samuel.jpg`](sources/census/1880-lee-ky-ed59-sheet2-p726-mcqueary-samuel.jpg)  
-**Source:** S044 · IA n726 · claim C063
+**Source:** S044 · C063
 
-**What it contains.** ED 59, enumerator page **2**. Continuation of dwelling **11**, the **McQueary** household (head John McQueary began on sheet 1). Opening lines: Mary, 50, wife; Eli, 16, son; **Samuel, 13, son**; then Malvina, Marena, John, William, Joseph. This boy is **Samuel McQueary**, not a Newnam. The only Samuel Newnam in ED 59 is the eleven-year-old in image 3.
+Continuation of dwelling 11, the McQueary household. Samuel, 13, is Samuel McQueary. The only Samuel Newnam in ED 59 is the eleven-year-old in Plate 3.
 
-![1880 Lee County Kentucky ED 59 sheet 2, McQueary household continuation with Samuel McQueary aged 13](sources/census/1880-lee-ky-ed59-sheet2-p726-mcqueary-samuel.jpg)
+![Samuel McQueary, 13 — not a Newnam](sources/census/1880-lee-ky-ed59-sheet2-p726-mcqueary-samuel.jpg)
 
-### 5 · 5 June 1880 · Elias and Mary Newnam; Dora aged 8
+### 5 · 5 Jun 1880 · Elias and Mary Newnam; Dora, aged 8
 
-**Role:** Family hit — childhood record of Dora Ella Newnam  
+**Role:** Family hit  
 **File:** [`sources/census/1880-lee-ky-ed59-sheet6-p730-elias-dora.jpg`](sources/census/1880-lee-ky-ed59-sheet6-p730-elias-dora.jpg)  
-**Source:** S010 · DOC001 · IA n730 · claims C001, C003, C004, C044
+**Source:** S010 · C001 · C003 · C004
 
-**What it contains.** ED 59, enumerator page **6**, 5 June 1880. Dwelling/family **46/46**:
+The childhood record. Dwelling 46: Elias Newnam, 38, farmer; Mary, 38; William, 21; Malissa, 16; Francis, 14; Mary, 10; Dora, 8; Catharine, 6. A child of eight on 5 June 1880 was born in 1871 or early 1872. The death certificate’s year 1868 cannot stand. Neighbors: Joseph Newnam, 38, and John Newnam, 60.
 
-| Name | Age | Relation | Occupation |
-|---|---|---|---|
-| Newnam, Elias | 38 | Head | Farmer |
-| — Mary | 38 | Wife | Keeping house |
-| — William | 21 | Son | Works on farm |
-| — Malissa | 16 | Daughter | At home |
-| — Francis | 14 | Daughter | At home |
-| — Mary | 10 | Daughter | |
-| — **Dora** | **8** | Daughter | |
-| — Catharine | 6 | Daughter | |
+![Elias and Mary Newnam; Dora, aged 8](sources/census/1880-lee-ky-ed59-sheet6-p730-elias-dora.jpg)
 
-This is the line that proves she was eight in June 1880 (born 1871/72), not eleven (the 1868 year on her death certificate). Next door: Joseph Newnam, 38 (hh 47), then John Newnam, 60 (hh 48).
+### 6 · 1880 (index) · Soundex card — Elias Newnam household
 
-![1880 Lee County Kentucky ED 59 sheet 6, dwelling 46, Elias Newnam 38, Mary 38, Dora 8](sources/census/1880-lee-ky-ed59-sheet6-p730-elias-dora.jpg)
-
----
-
-## 1880 — Soundex index cards (NARA T750)
-
-Clerk-made finding aids to the schedule in image 5. Code **N-550** (Newnam / Newman). Kentucky reel, IA `soundex1880ky055`.
-
-### 6 · 1880 index · Elias Newnam household card
-
-**Role:** Family hit (derivative of image 5)  
+**Role:** Family hit  
 **File:** [`sources/soundex/ky1880-n550-p2105-elias-newnam.jpg`](sources/soundex/ky1880-n550-p2105-elias-newnam.jpg)  
-**Source:** S001 · DOC002 · IA n2105
+**Source:** S001
 
-**What it contains.** Family card **N550 / Newnam, Elias**, white male, 38, **Lee County, Kentucky**, vol. 18, **ED 59, sheet 6, line 11**. Other members listed here: Mary (wife, 38), William (son, 21), Melissa (daughter, 16), Francis (daughter, 14), Mary (daughter, 10). Footer “#1 see #2” points to the continuation. Clerk spelled the 16-year-old **Melissa**; the schedule in image 5 has **Malissa**.
+NARA T750, code N-550. Family card for Newnam, Elias, 38, Lee County, vol. 18, ED 59, sheet 6, line 11. Lists Mary, William, Melissa (schedule: Malissa), Francis, and Mary. Footer “#1 see #2”.
 
-![1880 Kentucky Soundex N-550 family card for Newnam, Elias, Lee County, ED 59 sheet 6](sources/soundex/ky1880-n550-p2105-elias-newnam.jpg)
+![Soundex card — Elias Newnam household](sources/soundex/ky1880-n550-p2105-elias-newnam.jpg)
 
-### 7 · 1880 index · Continuation: Dora and Catharine
+### 7 · 1880 (index) · Soundex continuation — Dora and Catharine
 
 **Role:** Family hit  
 **File:** [`sources/soundex/ky1880-n550-p2106-elias-continuation-dora.jpg`](sources/soundex/ky1880-n550-p2106-elias-continuation-dora.jpg)  
-**Source:** S002 · DOC003 · IA n2106
+**Source:** S002
 
-**What it contains.** Continuation card for the same Elias Newnam household. **Newnam, Dora, daughter, 8, Kentucky** and **Catharine, daughter, 6, Kentucky**. Footer “#2 see #1”. This is the Soundex confirmation of Dora’s 1880 line.
+Continuation card: Newnam, Dora, daughter, 8, Kentucky; Catharine, daughter, 6. This is the index confirmation of Plate 5.
 
-![1880 Kentucky Soundex continuation card listing Newnam, Dora, daughter, age 8, and Catharine, age 6](sources/soundex/ky1880-n550-p2106-elias-continuation-dora.jpg)
+![Soundex continuation — Dora and Catharine](sources/soundex/ky1880-n550-p2106-elias-continuation-dora.jpg)
 
----
+## 1900 — Missouri Stone search (Tom A. candidates)
 
-## 1910 — Soundex / Miracode (15 April 1910 census)
+### 8 · 13 Jun 1900 · Douglas County, Missouri — Thomas and Nancy E. Stone
 
-Statewide indexes searched for Dora (~39), her son McCoy/Coy, and her husband Samuel P. (~41) after they drop out of the 1900 Lee County household. None of these pages is Dora’s 1910 residence. They document **where she was not**.
+**Role:** Rejected same-name  
+**File:** [`sources/census/1900-douglas-mo-ed159-stone-sheet.jpg`](sources/census/1900-douglas-mo-ed159-stone-sheet.jpg)  
+**Source:** S085 · C101
 
-### 8 · April 1910 · Kentucky N-550: Millie / Missouri; no McCoy
+Buchanan Township, ED 159, sheet 9B. Thomas Stone, woodchopper, born May 1856, age 44, with wife Nancy E. and five daughters. Closest-age 1900 Missouri Thomas to the 1920 Arkansas widower Tom A. Stone — still not merged (no middle initial; wife living; conflict #11).
 
-**Role:** Negative search (McCoy given-name window)  
+![Douglas County, Missouri — Thomas and Nancy E. Stone](sources/census/1900-douglas-mo-ed159-stone-sheet.jpg)
+
+### 9 · 13 Jun 1900 · Douglas County Stone household (crop)
+
+**Role:** Rejected same-name  
+**File:** [`sources/census/1900-douglas-mo-ed159-stone-hh-crop.jpg`](sources/census/1900-douglas-mo-ed159-stone-hh-crop.jpg)  
+**Source:** S085 · C102
+
+Crop of the Thomas and Nancy E. Stone lines. The Soundex clerk later wrote “Jesse C., son”; the original reads Ossie P., daughter.
+
+![Douglas County Stone household (crop)](sources/census/1900-douglas-mo-ed159-stone-hh-crop.jpg)
+
+### 10 · 1900 (index) · Missouri S-350 — Thomas Stone, 44, Douglas County
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/mo1900-s350-p1678-stone-thomas-44-douglas.jpg`](sources/soundex/mo1900-s350-p1678-stone-thomas-44-douglas.jpg)  
+**Source:** S085 · C092
+
+Soundex card for the household in Plates 8–9. Finding aid only; the original schedule is the authority.
+
+![Missouri S-350 — Thomas Stone, 44, Douglas County](sources/soundex/mo1900-s350-p1678-stone-thomas-44-douglas.jpg)
+
+### 11 · 1900 (index) · Missouri S-350 — Douglas continuation, “Jesse C.”
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/mo1900-s350-p1679-stone-thomas-douglas-jesse.jpg`](sources/soundex/mo1900-s350-p1679-stone-thomas-douglas-jesse.jpg)  
+**Source:** S085 · C102
+
+Clerk error: “Jesse C., son” is Ossie P., daughter, on the original (Plate 9). Not a son of Tom A. of Perry County.
+
+![Missouri S-350 — Douglas continuation, “Jesse C.”](sources/soundex/mo1900-s350-p1679-stone-thomas-douglas-jesse.jpg)
+
+### 12 · 1900 (index) · Missouri S-350 — Thomas Stone, 50, Caldwell County
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/mo1900-s350-p1680-stone-thomas-50-caldwell.jpg`](sources/soundex/mo1900-s350-p1680-stone-thomas-50-caldwell.jpg)  
+**Source:** S085 · C092
+
+Wrong county, wrong age trajectory versus 1920 Tom A. of Perry County, Arkansas. Rejected.
+
+![Missouri S-350 — Thomas Stone, 50, Caldwell County](sources/soundex/mo1900-s350-p1680-stone-thomas-50-caldwell.jpg)
+
+### 13 · 1900 (index) · Missouri S-350 — Thomas A. Stone, 32, Dunklin County
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/mo1900-s350-p1684-stone-thomas-a-32-dunklin.jpg`](sources/soundex/mo1900-s350-p1684-stone-thomas-a-32-dunklin.jpg)  
+**Source:** S085 · C092
+
+Has the middle initial A. Age 32 (born February 1868) with wife Matilda. Too young for the 1920 sixty-two-year-old. Not merged.
+
+![Missouri S-350 — Thomas A. Stone, 32, Dunklin County](sources/soundex/mo1900-s350-p1684-stone-thomas-a-32-dunklin.jpg)
+
+### 14 · 1900 (index) · Missouri S-350 — Thomas A. Stone, 24, Cooper County
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/mo1900-s350-p1685-stone-thomas-a-24-cooper.jpg`](sources/soundex/mo1900-s350-p1685-stone-thomas-a-24-cooper.jpg)  
+**Source:** S085 · C092
+
+Nephew, born March 1876. Fails age. Not merged.
+
+![Missouri S-350 — Thomas A. Stone, 24, Cooper County](sources/soundex/mo1900-s350-p1685-stone-thomas-a-24-cooper.jpg)
+
+### 15 · 1900 (index) · Missouri S-350 — Tom Stone, 21, Black
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/mo1900-s350-p1727-stone-tom-black-21.jpg`](sources/soundex/mo1900-s350-p1727-stone-tom-black-21.jpg)  
+**Source:** S085 · C092
+
+Fails race, age, and household. Not Tom A. of 1920 Arkansas.
+
+![Missouri S-350 — Tom Stone, 21, Black](sources/soundex/mo1900-s350-p1727-stone-tom-black-21.jpg)
+
+### 16 · 1900 (index) · Missouri S-350 — Tom Stone, 31, Vernon County
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/mo1900-s350-p1728-stone-tom-31-vernon.jpg`](sources/soundex/mo1900-s350-p1728-stone-tom-31-vernon.jpg)  
+**Source:** S085 · C092
+
+Coal-miner boarder, born May 1869. No wife, no daughters matching 1920. Not merged.
+
+![Missouri S-350 — Tom Stone, 31, Vernon County](sources/soundex/mo1900-s350-p1728-stone-tom-31-vernon.jpg)
+
+## 1910 — Soundex, Peebles test, and Sturgeon ED 99
+
+### 17 · Apr 1910 · Kentucky N-550 — Millie / Missouri; no McCoy
+
+**Role:** Negative search  
 **File:** [`sources/soundex/ky1910-n550-p329-millie-missouri.jpg`](sources/soundex/ky1910-n550-p329-millie-missouri.jpg)  
-**Source:** S021 · DOC004 · IA `soundex1910ky124` printed p. 329 · claim C031
+**Source:** S021 · C031
 
-**What it contains.** Typed Miracode page for Kentucky Newman/Newnam, given names **Millie … Missouri**. Alphabetically this is the slot **immediately before Monroe**, where a **McCoy** card would sit. None is printed.
+Typed Miracode page for Kentucky Newman/Newnam. Alphabetically this is the slot immediately before Monroe, where a McCoy card would sit. None is printed. Dora’s son is not indexed in Kentucky that April.
 
-![1910 Kentucky Miracode N-550 printed page 329, Millie through Missouri Newman, no McCoy](sources/soundex/ky1910-n550-p329-millie-missouri.jpg)
+![Kentucky N-550 — Millie / Missouri; no McCoy](sources/soundex/ky1910-n550-p329-millie-missouri.jpg)
 
-### 9 · April 1910 · Kentucky N-550: Monroe; still no McCoy
+### 18 · Apr 1910 · Kentucky N-550 — Monroe; still no McCoy
 
 **Role:** Negative search  
 **File:** [`sources/soundex/ky1910-n550-p330-monroe-no-mccoy.jpg`](sources/soundex/ky1910-n550-p330-monroe-no-mccoy.jpg)  
-**Source:** S021 · DOC004 · printed p. 330 · claim C031
+**Source:** S021 · C031
 
-**What it contains.** The next printed page, beginning **Monroe**. Combined with image 8, Kentucky has **no McCoy Newman/Newnam** in 1910.
+The next printed page, beginning Monroe. Combined with Plate 17, Kentucky has no McCoy Newman/Newnam in 1910.
 
-![1910 Kentucky Miracode N-550 printed page 330, Monroe Newman, confirming no McCoy card](sources/soundex/ky1910-n550-p330-monroe-no-mccoy.jpg)
+![Kentucky N-550 — Monroe; still no McCoy](sources/soundex/ky1910-n550-p330-monroe-no-mccoy.jpg)
 
-### 10 · April 1910 · Kentucky N-550: Sam / Samuel, none is husband Samuel
+### 19 · Apr 1910 · Kentucky N-550 — Sam / Samuel, none is the husband
 
-**Role:** Rejected same-name / negative vs P002  
+**Role:** Rejected same-name  
 **File:** [`sources/soundex/ky1910-n550-p342-sam-samuel-not-p002.jpg`](sources/soundex/ky1910-n550-p342-sam-samuel-not-p002.jpg)  
-**Source:** S027 · DOC006 · printed p. 342 · claim C039
+**Source:** S027 · C039
 
-**What it contains.** Kentucky N-550 **S**-given-names. Cards include Sam, 74, Knox (with Barbara); Samuel Netman, 53, Newport (with Cynthia); Samuel Noonan, 38, Black, Hickman; Samuel, 31, Louisville (with Myrtle); Samuel C., 27, Butler. **None** is Samuel P. Newnam of Lee/Owsley with Dora’s children.
+Sam, 74, of Knox; Samuel of Newport; a Black Samuel Noonan; a Louisville Samuel, 31; Samuel C. of Butler. None is Samuel P. Newnam of Lee County with Dora’s children.
 
-![1910 Kentucky Miracode N-550 printed page 342, Sam and Samuel Newman cards, none matching Samuel P. Newnam](sources/soundex/ky1910-n550-p342-sam-samuel-not-p002.jpg)
+![Kentucky N-550 — Sam / Samuel, none is the husband](sources/soundex/ky1910-n550-p342-sam-samuel-not-p002.jpg)
 
-### 11 · April 1910 · Kentucky N-550: Samuel E. of Muhlenberg
+### 20 · Apr 1910 · Kentucky N-550 — Samuel E. of Muhlenberg
 
-**Role:** Rejected same-name / negative vs P002  
+**Role:** Rejected same-name  
 **File:** [`sources/soundex/ky1910-n550-p343-samuel-e-muhlenberg-not-p002.jpg`](sources/soundex/ky1910-n550-p343-samuel-e-muhlenberg-not-p002.jpg)  
-**Source:** S027 · DOC006 · printed p. 343 · claim C039
+**Source:** S027 · C039
 
-**What it contains.** Continuation of the Samuel block: **Samuel E.**, 41, Muhlenberg, with Lou E., Bertha, Luea, Joseph, Mary, Minnie. Wrong county, wrong wife, wrong children. Closes the Kentucky-head search for Dora’s first husband in April 1910.
+Samuel E., 41, with Lou E. and children Bertha, Luea, Joseph, Mary, Minnie. Wrong county, wrong wife, wrong children. Closes the Kentucky-head search for Dora’s first husband in April 1910.
 
-![1910 Kentucky Miracode N-550 printed page 343, Samuel E. Newman of Muhlenberg, not Dora’s husband](sources/soundex/ky1910-n550-p343-samuel-e-muhlenberg-not-p002.jpg)
+![Kentucky N-550 — Samuel E. of Muhlenberg](sources/soundex/ky1910-n550-p343-samuel-e-muhlenberg-not-p002.jpg)
 
-### 12 · April 1910 · Kentucky S-350: Dora Stone, servant, Louisville
+### 21 · Apr 1910 · Kentucky S-350 — Dora Stone, servant, Louisville
 
-**Role:** Rejected same-name (Dora was not yet Mrs. Stone in 1910)  
+**Role:** Rejected same-name  
 **File:** [`sources/soundex/ky1910-s350-p149-dora-servant-louisville.jpg`](sources/soundex/ky1910-s350-p149-dora-servant-louisville.jpg)  
-**Source:** S026 · DOC006 · IA `soundex1910ky154` printed p. 149 · claim C038
+**Source:** S026 · C038
 
-**What it contains.** Kentucky **Stone** (S-350) Miracode page 149. Bottom card: **STONE, DORA**, servant, **Black, 36**, Louisville, Jefferson County, enumerated with **J. Frank Taylor**. Also on the page: Dock Stone of Knott, Dollie Stone of Union, Donie B. Suttion. Fails race, age (~36 vs ~39), occupation, and household. **Not P001.**
+STONE, DORA, servant, Black, 36, Louisville, with J. Frank Taylor. Fails race, age, occupation, and household. Dora Newnam was not indexed as Dora Stone in Kentucky that April.
 
-![1910 Kentucky Miracode S-350 printed page 149, Dora Stone servant age 36 Black Louisville with J. Frank Taylor](sources/soundex/ky1910-s350-p149-dora-servant-louisville.jpg)
+![Kentucky S-350 — Dora Stone, servant, Louisville](sources/soundex/ky1910-s350-p149-dora-servant-louisville.jpg)
 
-### 13 · April 1910 · Kentucky S-350: Dora Stone, 18, Wolfe County
+### 22 · Apr 1910 · Kentucky S-350 — Dora Stone, 18, Wolfe County
 
 **Role:** Rejected same-name  
 **File:** [`sources/soundex/ky1910-s350-p150-dora-18-wolfe.jpg`](sources/soundex/ky1910-s350-p150-dora-18-wolfe.jpg)  
-**Source:** S026 · DOC006 · printed p. 150 · claim C038
+**Source:** S026 · C038
 
-**What it contains.** Next Stone page. Top card: **STONE, DORA**, daughter-in-law, **18**, Wolfe County, enumerated with **Lucindy Stone**. Age 18 vs ~39. **Not P001.** The two Kentucky Dora Stones of 1910 are both the wrong women; Dora Newnam was not indexed as Dora Stone in Kentucky that April.
+STONE, DORA, daughter-in-law, 18, Wolfe County, with Lucindy Stone. Age 18 versus about 39. The two Kentucky Dora Stones of 1910 are both the wrong women.
 
-![1910 Kentucky Miracode S-350 printed page 150, Dora Stone daughter-in-law age 18 Wolfe County with Lucindy Stone](sources/soundex/ky1910-s350-p150-dora-18-wolfe.jpg)
+![Kentucky S-350 — Dora Stone, 18, Wolfe County](sources/soundex/ky1910-s350-p150-dora-18-wolfe.jpg)
 
-### 14 · April 1910 · Arkansas N-550: Cora / Dan; no Coy
+### 23 · Apr 1910 · Arkansas N-550 — Cora / Dan; no Coy
 
-**Role:** Negative search (Coy given-name window)  
+**Role:** Negative search  
 **File:** [`sources/soundex/ar1910-n550-p678-cora-dan-no-coy.jpg`](sources/soundex/ar1910-n550-p678-cora-dan-no-coy.jpg)  
-**Source:** S022 · DOC004 · IA `soundex1910ar087` printed p. 678 · claim C031
+**Source:** S022 · C032
 
-**What it contains.** Arkansas Newman/Newnam page 678. Cards include Clyde F. of Mena; Columbus G. Naoman of White; **Cora Newman**, 16, Perry County, with Joseph Lucas; D. L. Newman of Forrest City; **Dan Newman**, 22, Plummerville, with Charles M. Flemming. Alphabetically **Coy** would fall between Cora and Dan. **No Coy card.**
+No Coy between Cora and Dan. Dora’s son is not indexed in Arkansas as a Newman head in April 1910.
 
-![1910 Arkansas Miracode N-550 printed page 678, Cora and Dan Newman, no Coy](sources/soundex/ar1910-n550-p678-cora-dan-no-coy.jpg)
+![Arkansas N-550 — Cora / Dan; no Coy](sources/soundex/ar1910-n550-p678-cora-dan-no-coy.jpg)
 
-### 15 · April 1910 · Arkansas N-550: Dan E.; no Dora
+### 24 · Apr 1910 · Arkansas N-550 — Dan E.; no Dora
 
-**Role:** Negative search (Dora given-name window)  
+**Role:** Negative search  
 **File:** [`sources/soundex/ar1910-n550-p679-dan-e-no-dora.jpg`](sources/soundex/ar1910-n550-p679-dan-e-no-dora.jpg)  
-**Source:** S022 · DOC004 · printed p. 679 · claim C032
+**Source:** S022 · C032
 
-**What it contains.** Next page: Daneil W., David R., Dut H., then E-given-names (E. E., E. G.). **No Dora. No Ella.** Dora was not in Arkansas in April 1910 under Newman/Newnam.
+After Dan the cards run Daneil W., David R., Dut H., then the E-names. No Dora, no Ella.
 
-![1910 Arkansas Miracode N-550 printed page 679, Dan E. through E-given-names, no Dora or Ella Newman](sources/soundex/ar1910-n550-p679-dan-e-no-dora.jpg)
+![Arkansas N-550 — Dan E.; no Dora](sources/soundex/ar1910-n550-p679-dan-e-no-dora.jpg)
 
-### 16 · April 1910 · Arkansas N-550: Mary / Mayme
+### 25 · Apr 1910 · Arkansas N-550 — Mary / Mayme
 
-**Role:** Negative search (approaching the McCoy slot)  
+**Role:** Negative search  
 **File:** [`sources/soundex/ar1910-n550-p701-mary-mayme.jpg`](sources/soundex/ar1910-n550-p701-mary-mayme.jpg)  
-**Source:** S022 · DOC004 · printed p. 701 · claim C031
+**Source:** S022 · C032
 
-**What it contains.** Arkansas N-550 **M**-given-names ending **Mary … Mayme**. The next page must be checked for McCoy.
+Mary through Mayme Newman cards. The McCoy window is the next plate.
 
-![1910 Arkansas Miracode N-550 printed page 701, Mary and Mayme Newman](sources/soundex/ar1910-n550-p701-mary-mayme.jpg)
+![Arkansas N-550 — Mary / Mayme](sources/soundex/ar1910-n550-p701-mary-mayme.jpg)
 
-### 17 · April 1910 · Arkansas N-550: Melvina; no McCoy
+### 26 · Apr 1910 · Arkansas N-550 — Melvina; no McCoy
 
 **Role:** Negative search  
 **File:** [`sources/soundex/ar1910-n550-p702-melvina-no-mccoy.jpg`](sources/soundex/ar1910-n550-p702-melvina-no-mccoy.jpg)  
-**Source:** S022 · DOC004 · printed p. 702 · claim C031
+**Source:** S022 · C032
 
-**What it contains.** Next page begins **Melvina**. Combined with image 16, Arkansas has **no McCoy Newman/Newnam** in 1910. Coy’s 1917 Ola marriage is therefore not preceded by an Arkansas Newman listing for him in 1910.
+After Mayme comes Melvina. No McCoy. Arkansas is closed for Newman Dora ~39 and McCoy in April 1910.
 
-![1910 Arkansas Miracode N-550 printed page 702, Melvina Newman, confirming no McCoy card](sources/soundex/ar1910-n550-p702-melvina-no-mccoy.jpg)
+![Arkansas N-550 — Melvina; no McCoy](sources/soundex/ar1910-n550-p702-melvina-no-mccoy.jpg)
 
-### 18 · April 1910 · Missouri N-550: Cyrus / Daisy; no Coy
+### 27 · Apr 1910 · Missouri N-550 — Cyrus / Daisy; no Coy
 
-**Role:** Negative search (Coy given-name window)  
+**Role:** Negative search  
 **File:** [`sources/soundex/mo1910-n550-p710-cyrus-daisy-no-coy.jpg`](sources/soundex/mo1910-n550-p710-cyrus-daisy-no-coy.jpg)  
-**Source:** S023 · DOC006 · IA `soundex1910mo184` printed p. 710 · claim C035
+**Source:** S023 · C034
 
-**What it contains.** Missouri Newman/Newnam page 710. Cards include Cris, Curbet S., **Cyrus**, a D. Noonan roomer, and **Daisy Newman**, 30, Kentucky, daughter of James F. Alexander, St. Louis. Alphabetically **Coy** would fall in this C/D opening. **No Coy.**
+No Coy between Cyrus and Daisy. The Sullivan-Missouri hypothesis fails for this surname in 1910.
 
-![1910 Missouri Miracode N-550 printed page 710, Cyrus and Daisy Newman, no Coy](sources/soundex/mo1910-n550-p710-cyrus-daisy-no-coy.jpg)
+![Missouri N-550 — Cyrus / Daisy; no Coy](sources/soundex/mo1910-n550-p710-cyrus-daisy-no-coy.jpg)
 
-### 19 · April 1910 · Missouri N-550: Dora L. Neimann of St. Louis
+### 28 · Apr 1910 · Missouri N-550 — Dora L. Neimann of St. Louis
 
 **Role:** Rejected same-name  
 **File:** [`sources/soundex/mo1910-n550-p714-dollie-dora-l-neimann.jpg`](sources/soundex/mo1910-n550-p714-dollie-dora-l-neimann.jpg)  
-**Source:** S023 · DOC006 · printed p. 714 · claim C034
+**Source:** S023 · C035
 
-**What it contains.** Missouri Dora window. Cards: Dink Neemann (Atchison); two **Dollie Newman** entries (Kansas City roomer, 24; St. Louis lodger, 10, with Maggie James); **DORA L. NEIMANN**, 48, **Illinois**, mother-in-law of **Arthur E. Felsh**, St. Louis City; Dorothy E. Nowman, 2. Dora L. is the wrong age (48 vs ~39), wrong birthplace (Illinois vs Kentucky), wrong surname spelling, wrong household. **Not P001.** No other Dora ~39 in this Missouri N-550 window.
+The only Dora in the Missouri Newman block: Dora L. Neimann, 48, Illinois-born, mother-in-law of Arthur E. Felsh in St. Louis. Wrong age, birthplace, household. Not Dora Ella.
 
-![1910 Missouri Miracode N-550 printed page 714, Dora L. Neimann age 48 Illinois, mother-in-law of Arthur E. Felsh, St. Louis](sources/soundex/mo1910-n550-p714-dollie-dora-l-neimann.jpg)
+![Missouri N-550 — Dora L. Neimann of St. Louis](sources/soundex/mo1910-n550-p714-dollie-dora-l-neimann.jpg)
 
-### 20 · April 1910 · Missouri N-550: May / Michael; no McCoy
+### 29 · Apr 1910 · Missouri N-550 — May / Michael; no McCoy
 
 **Role:** Negative search  
 **File:** [`sources/soundex/mo1910-n550-p819-may-michael-no-mccoy.jpg`](sources/soundex/mo1910-n550-p819-may-michael-no-mccoy.jpg)  
-**Source:** S023 · DOC006 · printed p. 819 · claim C035
+**Source:** S023 · C034
 
-**What it contains.** Missouri N-550 **M**-window: **May Niemann**, then several **Michael** cards. **No McCoy** between May and Michael. Completes the three-state (KY, AR, MO) negative for Coy in 1910.
+No McCoy between May and Michael. Missouri is closed for Newman Coy/McCoy in April 1910.
 
-![1910 Missouri Miracode N-550 printed page 819, May then Michael, no McCoy Newman](sources/soundex/mo1910-n550-p819-may-michael-no-mccoy.jpg)
+![Missouri N-550 — May / Michael; no McCoy](sources/soundex/mo1910-n550-p819-may-michael-no-mccoy.jpg)
 
-### 21 · April 1910 · Oklahoma N-550: Newman sample; no Dora
+### 30 · Apr 1910 · Oklahoma N-550 — Newman sample; no Dora
 
-**Role:** Negative search (sample of the statewide Newman block)  
+**Role:** Negative search  
 **File:** [`sources/soundex/ok1910-n550-newman-sample.jpg`](sources/soundex/ok1910-n550-newman-sample.jpg)  
-**Source:** S049 · IA `soundex1910ok091` printed p. 776 · claim C068
+**Source:** S049 · C068
 
-**What it contains.** Typed Oklahoma Miracode page **776** (reduced sample of the Newman N-550 block, pp. 738–822). L-given-names: **Lidge Newman** of Carter (head, 38, Tennessee, with Kattie and children born Texas/Oklahoma); **Lillie Newman** of Haskell; **Loie Newman**, daughter, Manchester, with Nathan H. Lumwider; **Low Newman** of Muskogee; **Lonnie Newman** of Tillman, enumerated with Richard A. Morton. **No Dora. No Coy. No Samuel** matching Dora’s children. Kept as the representative frame of that nil search.
+Card-by-card reading of the Oklahoma Newman block found no Dora of thirty-nine born Kentucky and no household matching Samuel’s Sturgeon children.
 
-![1910 Oklahoma Miracode N-550 printed page 776 sample, Lidge through Lonnie Newman, no Dora](sources/soundex/ok1910-n550-newman-sample.jpg)
+![Oklahoma N-550 — Newman sample; no Dora](sources/soundex/ok1910-n550-newman-sample.jpg)
 
-### 22 · April 1910 · Texas N-550: Dennis Newman sample
+### 31 · Apr 1910 · Texas N-550 — Dennis Newman sample
 
-**Role:** Negative search (sample of the statewide Newman window)  
+**Role:** Negative search  
 **File:** [`sources/soundex/tx1910-n550-newman-dennis.jpg`](sources/soundex/tx1910-n550-newman-dennis.jpg)  
-**Source:** S050 · IA `soundex1910tx173` · claim C069
+**Source:** S050 · C069
 
-**What it contains.** A reduced scan of a handwritten **1910 Texas Soundex family card** from the Newman (N-550) surname window — **Dennis** Newman of Texas. The D-given-name run is where **Dora** would file. The Newman window (PDF pp. 4380–4680) was read; no Dora ~39 born Kentucky and no Coy/McCoy appear on those cards. This frame is the retained sample of that nil search, not a hit.
+Texas Soundex Newman window, sampled. Other Doras appear in adjacent surnames (for example Dixon) and fail. Dora Ella Newnam is not indexed here.
 
-![1910 Texas Soundex N-550 handwritten family card, Dennis Newman sample from the Dora given-name window](sources/soundex/tx1910-n550-newman-dennis.jpg)
+![Texas N-550 — Dennis Newman sample](sources/soundex/tx1910-n550-newman-dennis.jpg)
 
-### 23 · April 1910 · Tennessee N-550: “D” tab; no Coy card
+### 32 · Apr 1910 · Tennessee N-550 — “D” tab; no Coy
 
-**Role:** Negative search (end of C-given-names)  
+**Role:** Negative search  
 **File:** [`sources/soundex/tn1910-n550-p2177-d-tab-no-coy.jpg`](sources/soundex/tn1910-n550-p2177-d-tab-no-coy.jpg)  
-**Source:** S025 · DOC006 · IA `soundex1910tn073` n2177 · claim C036
+**Source:** S025 · C036
 
-**What it contains.** A blank **Soundex divider tab printed “D.”** Tennessee 1910 N-550 used handwritten family/individual cards, not typed Miracode pages. This tab sits after the last C-given-name (Clifford) and before D. H. A **Coy** card would have appeared before this divider. **None did.**
+Handwritten Tennessee N-550. After Clifford of Lauderdale comes a blank D tab. Coy is not there.
 
-![1910 Tennessee Soundex N-550 blank D divider tab after Clifford, showing no Coy card](sources/soundex/tn1910-n550-p2177-d-tab-no-coy.jpg)
+![Tennessee N-550 — “D” tab; no Coy](sources/soundex/tn1910-n550-p2177-d-tab-no-coy.jpg)
 
-### 24 · April 1910 · Tennessee N-550: Mary D.
+### 33 · Apr 1910 · Tennessee N-550 — Mary D.
 
-**Role:** Negative search (start of the McCoy given-name window)  
+**Role:** Negative search  
 **File:** [`sources/soundex/tn1910-n550-p2461-mary-d.jpg`](sources/soundex/tn1910-n550-p2461-mary-d.jpg)  
-**Source:** S028 · DOC009 · IA n2461 · claim C031b
+**Source:** S028 · C031b
 
-**What it contains.** Handwritten cards in the **M**-given-name run. Sequence after Mary C.: **Mary D.**, 49, Jefferson County (son Layton, 11), and **Mary M.**, 70, Hamilton. Opening of the window where **McCoy** would file.
+Start of the M-window where McCoy would file. Mary D. is present; McCoy is not.
 
-![1910 Tennessee Soundex N-550 handwritten cards for Mary D. and Mary M. Newman](sources/soundex/tn1910-n550-p2461-mary-d.jpg)
+![Tennessee N-550 — Mary D.](sources/soundex/tn1910-n550-p2461-mary-d.jpg)
 
-### 25 · April 1910 · Tennessee N-550: Mek. G.; not McCoy
+### 34 · Apr 1910 · Tennessee N-550 — Mek. G.; not McCoy
 
 **Role:** Negative search  
 **File:** [`sources/soundex/tn1910-n550-p2463-mek-g-not-mccoy.jpg`](sources/soundex/tn1910-n550-p2463-mek-g-not-mccoy.jpg)  
-**Source:** S028 · DOC009 · IA n2463 · claim C031b
+**Source:** S028 · C031b
 
-**What it contains.** Next cards: **Mek. G.**, 50, Cheatham County, with Florence 19, John 17, General 16, Frances 13, William 10, Doria 6, Luther 1½. The given name is **Mek.**, not McCoy.
+Mek. G. of Cheatham County sits in the slot a McCoy card would occupy. It is not McCoy Newnam.
 
-![1910 Tennessee Soundex N-550 handwritten card for Mek. G. Newman of Cheatham County, not McCoy](sources/soundex/tn1910-n550-p2463-mek-g-not-mccoy.jpg)
+![Tennessee N-550 — Mek. G.; not McCoy](sources/soundex/tn1910-n550-p2463-mek-g-not-mccoy.jpg)
 
-### 26 · April 1910 · Tennessee N-550: Melvin of Giles
+### 35 · Apr 1910 · Tennessee N-550 — Melvin of Giles
 
 **Role:** Negative search  
 **File:** [`sources/soundex/tn1910-n550-p2465-melvin-giles.jpg`](sources/soundex/tn1910-n550-p2465-melvin-giles.jpg)  
-**Source:** S028 · DOC009 · IA n2465 · claim C031b
+**Source:** S028 · C031b
 
-**What it contains.** **Melvin**, 3½, Giles County (grandson of Deacon George W.) and **Melvin**, 54, Giles (son-in-law in the same house). Alphabetically still past McCoy with no McCoy card yet.
+Two Melvins of Giles County. Still no McCoy.
 
-![1910 Tennessee Soundex N-550 handwritten cards for two Melvin Newmans of Giles County](sources/soundex/tn1910-n550-p2465-melvin-giles.jpg)
+![Tennessee N-550 — Melvin of Giles](sources/soundex/tn1910-n550-p2465-melvin-giles.jpg)
 
-### 27 · April 1910 · Tennessee N-550: Minerva
+### 36 · Apr 1910 · Tennessee N-550 — Minerva
 
 **Role:** Negative search  
 **File:** [`sources/soundex/tn1910-n550-p2466-minerva.jpg`](sources/soundex/tn1910-n550-p2466-minerva.jpg)  
-**Source:** S028 · DOC009 · IA n2466 · claim C031b
+**Source:** S028 · C031b
 
-**What it contains.** **Minerva**, 80, Robertson County (granddaughters Lona Neely, Nellie Erwin), then **Minnie**, 21, Roane (with Sam P. Sparks). Still no McCoy.
+Minerva and Minnie cards. The McCoy window is closing.
 
-![1910 Tennessee Soundex N-550 handwritten cards for Minerva and Minnie Newman](sources/soundex/tn1910-n550-p2466-minerva.jpg)
+![Tennessee N-550 — Minerva](sources/soundex/tn1910-n550-p2466-minerva.jpg)
 
-### 28 · April 1910 · Tennessee N-550: Mitchell, after the McCoy slot
-
-**Role:** Negative search (closes Tennessee for Coy)  
-**File:** [`sources/soundex/tn1910-n550-p2469-mitchell-after-mccoy-slot.jpg`](sources/soundex/tn1910-n550-p2469-mitchell-after-mccoy-slot.jpg)  
-**Source:** S028 · DOC009 · IA n2469 · claim C031b
-
-**What it contains.** **Mitchell**, 27, Hardin County, with Ollie P. 25, Gladys 4, Burl W. 3, Royal E. 1 9/12. The run Mary → Mek. → Melvin → Minerva → Minnie → **Mitchell** has **no McCoy**. Combined with image 21, Coy Newnam was not in Tennessee in April 1910 as an N-550 Coy or McCoy card.
-
-![1910 Tennessee Soundex N-550 handwritten card for Mitchell Newman of Hardin County, after the empty McCoy slot](sources/soundex/tn1910-n550-p2469-mitchell-after-mccoy-slot.jpg)
-
----
-
-## 1920 — Soundex index cards (1 January 1920 census)
-
-Kentucky N-550 (NARA M1560), IA `soundex1920ky117`. Dora would have been about 48. She is already in Arkansas by 1920 on other evidence; these cards test whether she was still indexed in Kentucky as a Newman.
-
-### 29 · January 1920 · Kentucky N-550: Dora Newman, 29, Paducah
-
-**Role:** Rejected same-name  
-**File:** [`sources/soundex/ky1920-n550-p4201-dora-29-paducah-rejected.jpg`](sources/soundex/ky1920-n550-p4201-dora-29-paducah-rejected.jpg)  
-**Source:** S045 · DOC008 · IA n4201 · claim C064
-
-**What it contains.** Individual card **N550 / Newman, Dora**, white, **29**, Kentucky; McCracken County, **Paducah**, South 5th 456; enumerated with **Vaelkel, Mary E.**; relationship **Daughter**. Age 29 vs ~48; daughter in Paducah vs a woman about to die in Yell County, Arkansas. **Not P001.**
-
-![1920 Kentucky Soundex N-550 individual card Newman, Dora, age 29, Paducah, daughter of Mary E. Vaelkel](sources/soundex/ky1920-n550-p4201-dora-29-paducah-rejected.jpg)
-
-### 30 · January 1920 · Kentucky N-550: Dora E. Newman, 10, Cumberland
-
-**Role:** Rejected same-name  
-**File:** [`sources/soundex/ky1920-n550-p4203-dora-e-10-cumberland-rejected.jpg`](sources/soundex/ky1920-n550-p4203-dora-e-10-cumberland-rejected.jpg)  
-**Source:** S045 · DOC008 · IA n4203 · claim C064
-
-**What it contains.** Individual card **Newman, Dora E.**, white, **10**, Kentucky; **Cumberland** County; enumerated with **Riddle, John M.**; relationship **Grand Daughter**. Age 10. **Not P001.**
-
-![1920 Kentucky Soundex N-550 individual card Newman, Dora E., age 10, Cumberland County, granddaughter of John M. Riddle](sources/soundex/ky1920-n550-p4203-dora-e-10-cumberland-rejected.jpg)
-
-### 31 · January 1920 · Kentucky N-550: “E” tab after the Dora window
+### 37 · Apr 1910 · Tennessee N-550 — Mitchell, after the McCoy slot
 
 **Role:** Negative search  
-**File:** [`sources/soundex/ky1920-n550-p4205-e-tab-after-dora.jpg`](sources/soundex/ky1920-n550-p4205-e-tab-after-dora.jpg)  
-**Source:** S045 · DOC008 · IA n4205 · claim C064
+**File:** [`sources/soundex/tn1910-n550-p2469-mitchell-after-mccoy-slot.jpg`](sources/soundex/tn1910-n550-p2469-mitchell-after-mccoy-slot.jpg)  
+**Source:** S028 · C031b
 
-**What it contains.** Printed **Soundex “E” divider tab** (Library Bureau / Soundex lightning-logo card). It sits immediately after the D-given-name block (Dora, Dougal, …). There is **no Dora ~48** in Kentucky N-550 for 1920. The only remaining D-window cards fail age and relationship (images 29–30).
+Mitchell follows. Tennessee has no McCoy Newman/Newnam in 1910.
 
-![1920 Kentucky Soundex N-550 printed E divider tab after the Dora given-name block](sources/soundex/ky1920-n550-p4205-e-tab-after-dora.jpg)
+![Tennessee N-550 — Mitchell, after the McCoy slot](sources/soundex/tn1910-n550-p2469-mitchell-after-mccoy-slot.jpg)
 
-### 32 · January 1920 · E. T. Neuman, 75, Beattyville, with C. B. Burke
+### 38 · Apr 1910 · Kentucky P-142 — Peebles/Peeples/Peoples block begins
 
-**Role:** Family hit (PROBABLE = Elias T. “Doll” Newnam, Dora’s father)  
-**File:** [`sources/soundex/ky1920-n550-p4208-et-newnam-beattyville.jpg`](sources/soundex/ky1920-n550-p4208-et-newnam-beattyville.jpg)  
-**Source:** S046 · DOC008 · IA n4208 · claim C065
+**Role:** Context  
+**File:** [`sources/soundex/ky1910-p142-p235-p142-starts.jpg`](sources/soundex/ky1910-p142-p235-p142-starts.jpg)  
+**Source:** S062 · C081
 
-**What it contains.** Individual card **N550 / Neuman, E. T.**, white, **75**, Kentucky; **Lee County, Beattyville, Grand Ave.**; enumerated with **Burke, C. B.**; relationship **Grand Father**. Vol. 59, ED 111, sheet 6, line 22. Age ~75 vs Elias born 1842 (~78); same county and town. Identification is **PROBABLE** pending the original 1920 schedule for that Burke household.
+Start of the statewide 1910 Miracode P-142 household block. Searched for a Dora of thirty-nine as head or wife. A later Peebles marriage is not supported.
 
-![1920 Kentucky Soundex N-550 individual card Neuman, E. T., age 75, Beattyville, grandfather in C. B. Burke household](sources/soundex/ky1920-n550-p4208-et-newnam-beattyville.jpg)
+![Kentucky P-142 — Peebles/Peeples/Peoples block begins](sources/soundex/ky1910-p142-p235-p142-starts.jpg)
 
----
+### 39 · Apr 1910 · Kentucky P-142 — Dottie / Clyde; no Dora
 
-## What is not in this gallery
+**Role:** Negative search  
+**File:** [`sources/soundex/ky1910-p142-p238-dottie-clyde-no-dora.jpg`](sources/soundex/ky1910-p142-p238-dottie-clyde-no-dora.jpg)  
+**Source:** S062 · C081
 
-These records exist in the case but were **not copied in as JPEGs**:
+D-window of Kentucky Peebles/Peeples/Peoples. No Dora of thirty-nine as head.
 
-- 1900 Sturgeon precinct household of Samuel and Dora (USGenNet transcription only)
-- 1885 Lee County marriage book page (FamilySearch film not opened from this VM)
-- 1926 Arkansas death certificate of Dora Stone (user-supplied image in a prior session; not copied here)
-- 1910 Owsley County schedule for widow Elizabeth Newmann and granddaughter Pearl
-- 1920 Arkansas Soundex/schedules for T. A. Stone
-- Later 1920 Soundex reels for Kentucky S-350, Oklahoma, Tennessee, and Missouri (OCR-searched; no plate kept)
+![Kentucky P-142 — Dottie / Clyde; no Dora](sources/soundex/ky1910-p142-p238-dottie-clyde-no-dora.jpg)
 
-Open image captures still on the backlog: 1920 Lee County schedule for C. B. Burke / E. T. Neuman; Tom A. Stone 1925 death record; unread remainder of Lee County 1910 Sturgeon ED 99.
+### 40 · Apr 1910 · Kentucky P-142 — Edora Peoples, 65, Graves County
 
----
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/ky1910-p142-p239-edora-peoples-65-graves-rejected.jpg`](sources/soundex/ky1910-p142-p239-edora-peoples-65-graves-rejected.jpg)  
+**Source:** S062 · C082
 
-## 1910 — original population schedules (added from `main` / PR #7)
+The only near-hit in the D-window: Edora Peoples, a sixty-five-year-old Tennessee-born sister-in-law in Graves County. Fails age, birthplace, and relationship. Not Dora Ella.
 
-NARA T624 reel 478; IA `13thcensus1910po478unit`. These plates map Ancestry “image 499” and sample Sturgeon ED 99. They sit here at the end so prior plate numbers stay stable; chronologically they belong with April 1910, before the Soundex cards.
+![Kentucky P-142 — Edora Peoples, 65, Graves County](sources/soundex/ky1910-p142-p239-edora-peoples-65-graves-rejected.jpg)
 
-### 33 · April 1910 · Fincastle ED 96 sheet 7A (IA PDF 499)
+### 41 · Apr 1910 · Arkansas P-142 — Clyde / Dave; no Dora ~39
 
-**Role:** Context (method)  
+**Role:** Negative search  
+**File:** [`sources/soundex/ar1910-p142-p188-d-window-clyde-dave-no-dora.jpg`](sources/soundex/ar1910-p142-p188-d-window-clyde-dave-no-dora.jpg)  
+**Source:** S063 · C083
+
+Arkansas Peebles/Peeples D-window. Clyde through Dave. No Dora of thirty-nine.
+
+![Arkansas P-142 — Clyde / Dave; no Dora ~39](sources/soundex/ar1910-p142-p188-d-window-clyde-dave-no-dora.jpg)
+
+### 42 · Apr 1910 · Arkansas P-142 — E. Edd Peoples of Yell County
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/ar1910-p142-p189-yell-e-edd-peoples-not-dora.jpg`](sources/soundex/ar1910-p142-p189-yell-e-edd-peoples-not-dora.jpg)  
+**Source:** S063 · C083
+
+Yell County did have an E. Edd Peoples household: he twenty-seven, wife Catharine twenty-one. That is not Dora.
+
+![Arkansas P-142 — E. Edd Peoples of Yell County](sources/soundex/ar1910-p142-p189-yell-e-edd-peoples-not-dora.jpg)
+
+### 43 · Apr 1910 · Arkansas P-142 — Dora Sykes, 19, stepdaughter
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/ar1910-p142-p190-ed-peebles-dora-sykes-19-rejected.jpg`](sources/soundex/ar1910-p142-p190-ed-peebles-dora-sykes-19-rejected.jpg)  
+**Source:** S063 · C083
+
+Dora Sykes, nineteen, stepdaughter of Ed Peebles in Mississippi County. Age 19 versus about 39. Rejected.
+
+![Arkansas P-142 — Dora Sykes, 19, stepdaughter](sources/soundex/ar1910-p142-p190-ed-peebles-dora-sykes-19-rejected.jpg)
+
+### 44 · Apr 1910 · Arkansas P-142 — Dora Bell Peoples, 16
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/ar1910-p142-p200-julius-dora-bell-16-rejected.jpg`](sources/soundex/ar1910-p142-p200-julius-dora-bell-16-rejected.jpg)  
+**Source:** S063 · C083 · C087
+
+Dora Bell, sixteen, sister-in-law of Julius Peoples in Jefferson County. Age 16. Rejected. A third marriage to a Peebles before Stone is not supported.
+
+![Arkansas P-142 — Dora Bell Peoples, 16](sources/soundex/ar1910-p142-p200-julius-dora-bell-16-rejected.jpg)
+
+### 45 · Apr 1910 · Fincastle ED 96 sheet 7A — Internet Archive PDF page 499
+
+**Role:** Context  
 **File:** [`sources/census/1910-po478-p0499-lee-fincastle-ed96-sheet7a.jpg`](sources/census/1910-po478-p0499-lee-fincastle-ed96-sheet7a.jpg)  
-**Source:** S062 · claim C084
+**Source:** S067 · C082/C084
 
-**What it contains.** Header: Lee County, **Fincastle**, ED **96**, enumerated 29 April 1910. This is IA PDF page **499**. Ancestry “image 499” for Sturgeon ED 99 sheet 9B is **not** this page (that image is PDF **568**, plate 38).
+Method note. Ancestry’s “image 499” is not this PDF page. Page 499 on the Internet Archive reel is Fincastle, ED 96, not Sturgeon. Sturgeon sheet 9B is PDF page 568 (Plate 54).
 
-![1910 Lee County Fincastle precinct ED 96 sheet 7A, IA T624-478 PDF page 499](sources/census/1910-po478-p0499-lee-fincastle-ed96-sheet7a.jpg)
+![Fincastle ED 96 sheet 7A — Internet Archive PDF page 499](sources/census/1910-po478-p0499-lee-fincastle-ed96-sheet7a.jpg)
 
-### 34 · April 1910 · Sturgeon ED 99 sheet 4A, dwelling 67 Hamilton
+### 46 · 15 Apr 1910 · Sturgeon ED 99 sheet 1A — the precinct begins
+
+**Role:** Context  
+**File:** [`sources/census/1910-lee-ky-ed99-p551.jpg`](sources/census/1910-lee-ky-ed99-p551.jpg)  
+**Source:** S067 · C088
+
+Lee County, Precinct 7, Mag. Dist. 7, 15 April 1910. Header on this pass read Elam Brandenburg (a later pass read Elton E. Newnam on sheet 8A — conflict #13, unresolved). Dwelling 1 is not a Newnam house. Dora is not on this sheet.
+
+![Sturgeon ED 99 sheet 1A — the precinct begins](sources/census/1910-lee-ky-ed99-p551.jpg)
+
+### 47 · 21 Apr 1910 · Sturgeon ED 99 sheet 4A — Richard Newnam; dwelling 67 is Hamilton
+
+**Role:** Rejected same-name  
+**File:** [`sources/census/1910-lee-ky-ed99-p557.jpg`](sources/census/1910-lee-ky-ed99-p557.jpg)  
+**Source:** S067 · S089 · C088 · C106
+
+Richard Newnam, 45, and Sarah, 44, with children including twins David and Georgia. Not Samuel and Dora. On this sheet the 1900 dwelling-number 67 site is occupied by a Hamilton household, not by Samuel P. Newnam.
+
+![Sturgeon ED 99 sheet 4A — Richard Newnam; dwelling 67 is Hamilton](sources/census/1910-lee-ky-ed99-p557.jpg)
+
+### 48 · 21 Apr 1910 · Sturgeon ED 99 sheet 4A (second capture)
 
 **Role:** Negative search  
 **File:** [`sources/census/1910-po478-p0557-lee-sturgeon-ed99-sheet4a.jpg`](sources/census/1910-po478-p0557-lee-sturgeon-ed99-sheet4a.jpg)  
-**Source:** S064 · claim C083
+**Source:** S089 · C106
 
-**What it contains.** Sturgeon Mag. Dist. 7, ED 99, sheet 4A. Dwelling **67** is **Hamilton, Robert** — not Samuel P. Newnam. Richard Newnam appears on this sheet at another dwelling. **No** Dora ~39 in the lines on this plate.
+Independent capture of the same sheet from a parallel research pass. Dwelling 67 = Hamilton, Robert. The 1900 Newnam house is gone.
 
-![1910 Lee County Sturgeon ED 99 sheet 4A, dwelling 67 Hamilton](sources/census/1910-po478-p0557-lee-sturgeon-ed99-sheet4a.jpg)
+![Sturgeon ED 99 sheet 4A (second capture)](sources/census/1910-po478-p0557-lee-sturgeon-ed99-sheet4a.jpg)
 
-### 35 · April 1910 · Sturgeon ED 99 sheet 5A, Elijah Newnan
+### 49 · Apr 1910 · Sturgeon ED 99 sheet 5A — Elijah Newnan, dwelling 66
 
 **Role:** Rejected same-name  
 **File:** [`sources/census/1910-po478-p0559-lee-sturgeon-ed99-sheet5a-elijah-newnan.jpg`](sources/census/1910-po478-p0559-lee-sturgeon-ed99-sheet5a-elijah-newnan.jpg)  
-**Source:** S064 · claim C083
+**Source:** S089 · C088
 
-**What it contains.** Elijah **Newnan**, head, dwelling 66 — a Sturgeon Newnam, **not** Samuel P. or Dora.
+Elijah Newnan at dwelling 66. Same-name neighbor, not Dora’s household.
 
-![1910 Lee County Sturgeon ED 99 sheet 5A, Elijah Newnan household](sources/census/1910-po478-p0559-lee-sturgeon-ed99-sheet5a-elijah-newnan.jpg)
+![Sturgeon ED 99 sheet 5A — Elijah Newnan, dwelling 66](sources/census/1910-po478-p0559-lee-sturgeon-ed99-sheet5a-elijah-newnan.jpg)
 
-### 36 · April 1910 · Sturgeon ED 99 sheet 6B, dwelling 67 Garrett
+### 50 · 26 Apr 1910 · Sturgeon ED 99 sheet 6A — Harry, Albert, John and Ollie Newman
+
+**Role:** Rejected same-name  
+**File:** [`sources/census/1910-lee-ky-ed99-p561.jpg`](sources/census/1910-lee-ky-ed99-p561.jpg)  
+**Source:** S067 · C088
+
+Sherman Ross’s brothers-in-law Harry Newman, 42, and Albert, 23. Next: John Newman, 31, married one year to Ollie, 19. Not Samuel (age, wife, duration).
+
+![Sturgeon ED 99 sheet 6A — Harry, Albert, John and Ollie Newman](sources/census/1910-lee-ky-ed99-p561.jpg)
+
+### 51 · Apr 1910 · Sturgeon ED 99 sheet 6B — dwelling 67 is Garrett
 
 **Role:** Negative search  
 **File:** [`sources/census/1910-po478-p0560-lee-sturgeon-ed99-sheet6b-dw67-garrett.jpg`](sources/census/1910-po478-p0560-lee-sturgeon-ed99-sheet6b-dw67-garrett.jpg)  
-**Source:** S064 · claim C083
+**Source:** S089 · C106
 
-**What it contains.** A later dwelling **67** on sheet 6B is **Garrett, John T.** — again not Samuel. 1900 Sturgeon dwelling 67 is reoccupied.
+A second 1910 dwelling numbered 67, occupied by John T. Garrett. The 1900 Samuel–Dora house is not here either.
 
-![1910 Lee County Sturgeon ED 99 sheet 6B, dwelling 67 Garrett](sources/census/1910-po478-p0560-lee-sturgeon-ed99-sheet6b-dw67-garrett.jpg)
+![Sturgeon ED 99 sheet 6B — dwelling 67 is Garrett](sources/census/1910-po478-p0560-lee-sturgeon-ed99-sheet6b-dw67-garrett.jpg)
 
-### 37 · April 1910 · Sturgeon ED 99 sheet 7A, Ruben Newnam
+### 52 · 27 Apr 1910 · Sturgeon ED 99 sheet 7A — Reuben Newnam
+
+**Role:** Rejected same-name  
+**File:** [`sources/census/1910-lee-ky-ed99-p563.jpg`](sources/census/1910-lee-ky-ed99-p563.jpg)  
+**Source:** S067 · C088
+
+Dwelling 101/134: Newnam, Reuben, 33, and Nannie, 26, with Edward, Elzie, and Mary. Not Samuel and Dora.
+
+![Sturgeon ED 99 sheet 7A — Reuben Newnam](sources/census/1910-lee-ky-ed99-p563.jpg)
+
+### 53 · 27 Apr 1910 · Sturgeon ED 99 sheet 7A (second capture) — Ruben Newnam
 
 **Role:** Rejected same-name  
 **File:** [`sources/census/1910-po478-p0563-lee-sturgeon-ed99-sheet7a-ruben-newnam.jpg`](sources/census/1910-po478-p0563-lee-sturgeon-ed99-sheet7a-ruben-newnam.jpg)  
-**Source:** S064 · claim C083
+**Source:** S089 · C088
 
-**What it contains.** Ruben **Newnam**, dwelling 101 — clan present, **not** Dora’s household.
+Parallel capture of Reuben/Ruben Newnam at dwelling 101. Same rejection.
 
-![1910 Lee County Sturgeon ED 99 sheet 7A, Ruben Newnam household](sources/census/1910-po478-p0563-lee-sturgeon-ed99-sheet7a-ruben-newnam.jpg)
+![Sturgeon ED 99 sheet 7A (second capture) — Ruben Newnam](sources/census/1910-po478-p0563-lee-sturgeon-ed99-sheet7a-ruben-newnam.jpg)
 
-### 38 · April 1910 · Sturgeon ED 99 sheet 9B (Ancestry image 499)
+### 54 · Apr 1910 · Sturgeon ED 99 sheet 9B — Ancestry image 499 = this PDF page 568
 
-**Role:** Context (method)  
+**Role:** Context  
 **File:** [`sources/census/1910-po478-p0568-lee-sturgeon-ed99-sheet9b.jpg`](sources/census/1910-po478-p0568-lee-sturgeon-ed99-sheet9b.jpg)  
-**Source:** S064 · claim C084
+**Source:** S089 · C088
 
-**What it contains.** ED 99 sheet **9B**, Pleasant Rader neighborhood. This IA PDF page **568** is the Ancestry/FamilySearch “image 499” for this sheet. **No** Samuel P. or Dora ~39 on the lines shown.
+The sheet Ancestry numbers as image 499. No Dora, Samuel, McCoy, or the 1899 child John H.
 
-![1910 Lee County Sturgeon ED 99 sheet 9B, IA PDF page 568](sources/census/1910-po478-p0568-lee-sturgeon-ed99-sheet9b.jpg)
+![Sturgeon ED 99 sheet 9B — Ancestry image 499 = this PDF page 568](sources/census/1910-po478-p0568-lee-sturgeon-ed99-sheet9b.jpg)
+
+### 55 · Apr 1910 · Sturgeon ED 99 sheet 13B — a different John H. Newman
+
+**Role:** Rejected same-name  
+**File:** [`sources/census/1910-lee-ky-ed99-p576.jpg`](sources/census/1910-lee-ky-ed99-p576.jpg)  
+**Source:** S067 · C088 · C089
+
+Dwelling 218/257: Newman, John H., about 45, married 25 years; son Malcum, about 27. Not Dora’s child John H., who was nine months old in June 1900. End of ED 99. She was not still on Sturgeon Creek as a Newnam.
+
+![Sturgeon ED 99 sheet 13B — a different John H. Newman](sources/census/1910-lee-ky-ed99-p576.jpg)
+
+## 1920 — Kentucky Newman index and Beattyville original
+
+### 56 · Jan 1920 · Kentucky N-550 — Dora Newman, 29, Paducah
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/ky1920-n550-p4201-dora-29-paducah-rejected.jpg`](sources/soundex/ky1920-n550-p4201-dora-29-paducah-rejected.jpg)  
+**Source:** S045 · C064
+
+Daughter of Mary E. Vaelkel, age 29. Dora Ella would have been about 48. Rejected.
+
+![Kentucky N-550 — Dora Newman, 29, Paducah](sources/soundex/ky1920-n550-p4201-dora-29-paducah-rejected.jpg)
+
+### 57 · Jan 1920 · Kentucky N-550 — Dora E. Newman, 10, Cumberland
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/ky1920-n550-p4203-dora-e-10-cumberland-rejected.jpg`](sources/soundex/ky1920-n550-p4203-dora-e-10-cumberland-rejected.jpg)  
+**Source:** S045 · C064
+
+A child of ten. Not our Dora.
+
+![Kentucky N-550 — Dora E. Newman, 10, Cumberland](sources/soundex/ky1920-n550-p4203-dora-e-10-cumberland-rejected.jpg)
+
+### 58 · Jan 1920 · Kentucky N-550 — “E” tab after the Dora window
+
+**Role:** Negative search  
+**File:** [`sources/soundex/ky1920-n550-p4205-e-tab-after-dora.jpg`](sources/soundex/ky1920-n550-p4205-e-tab-after-dora.jpg)  
+**Source:** S045 · C064
+
+The Dora given-name window in Kentucky Newman/Newnam ends. No woman of forty-eight. She was not indexed in Kentucky as Newman Dora in January 1920.
+
+![Kentucky N-550 — “E” tab after the Dora window](sources/soundex/ky1920-n550-p4205-e-tab-after-dora.jpg)
+
+### 59 · Jan 1920 · Kentucky N-550 — E. T. Neuman, grandfather, Beattyville
+
+**Role:** Family hit  
+**File:** [`sources/soundex/ky1920-n550-p4208-et-newnam-beattyville.jpg`](sources/soundex/ky1920-n550-p4208-et-newnam-beattyville.jpg)  
+**Source:** S046 · C091
+
+Soundex card: Neuman, E.T., Grand Father of Burke, C.B., Beattyville. This is Dora’s father, living with his granddaughter Provie Hoover Burke. Derivative of Plate 60.
+
+![Kentucky N-550 — E. T. Neuman, grandfather, Beattyville](sources/soundex/ky1920-n550-p4208-et-newnam-beattyville.jpg)
+
+### 60 · 12 Jan 1920 · Beattyville ED 111 sheet 6A — C. B. Burke and E. T. Newman
+
+**Role:** Family hit  
+**File:** [`sources/census/1920-lee-ky-ed111-sh6a-burke-et-newman.jpg`](sources/census/1920-lee-ky-ed111-sh6a-burke-et-newman.jpg)  
+**Source:** S073 · C091 · C095
+
+Original schedule, 12 January 1920, enumerator Harry L. Perkins. Dwelling 106: C.B. Burke, 40, postmaster, owns free; wife Provie, 30, assistant postmaster; children Vivie M., 14, Vedia G., 10, George P.; Newman, E.T., Grand Father, 75, widowed, occupation none; boarders Bertie Combs (railroad clerk) and Warren C. Miller, 23, of Pennsylvania. Relationship is to the head; E.T. is grandfather of Provie, not of C.B. (conflict #12, resolved).
+
+![Beattyville ED 111 sheet 6A — C. B. Burke and E. T. Newman](sources/census/1920-lee-ky-ed111-sh6a-burke-et-newman.jpg)
+
+### 61 · 12 Jan 1920 · Burke household crop — E. T. Newman, grandfather
+
+**Role:** Family hit  
+**File:** [`sources/census/1920-lee-ky-ed111-sh6a-burke-hh-crop.jpg`](sources/census/1920-lee-ky-ed111-sh6a-burke-hh-crop.jpg)  
+**Source:** S073 · C091
+
+Crop of lines 17–24. Dora is not in this house. Her father is. She is not in Coy’s house at Danville, Yell County, either. The 1920 hole remains.
+
+![Burke household crop — E. T. Newman, grandfather](sources/census/1920-lee-ky-ed111-sh6a-burke-hh-crop.jpg)
+
