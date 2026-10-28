@@ -10,7 +10,8 @@ Reviewed 28 October 2026 (America/New_York) from Cursor cloud-agent transcripts 
 | **Ancestry research skill** | https://cursor.com/agents/bc-2ffa148f-bd17-4e95-beef-aa2f31940c4a | Authored the genealogy-detective skill. **No additional Dora biography facts.** |
 | **Dora’s early 1900s** | https://cursor.com/agents/bc-a16def3b-c4be-41e9-846c-f31bc0f8dd81 | 1910 hole; KY/AR/MO/OK/TX/TN Soundex negatives; original Sturgeon ED 99 (not still on the creek as Newnam); enumerator-name conflict; source JPEGs; 1880 Dora 8. |
 | **Dora research continuation** | https://cursor.com/agents/bc-0bd3b0b2-ec76-4a5c-93c7-10c0bfe1f312 | 1920 Beattyville original (E.T. in C.B. Burke’s house); Peebles hypothesis tested and not supported; 1900 MO Stone originals; image gallery; merge of parallel PRs; master book. |
-| **Dora biography research** (this chat, pass 18) | https://cursor.com/agents/bc-01a183ca-4028-7f9b-9d4c-34d4ab6671f6 | Resumed from backlog handoff; Find a Grave Carter Cemetery listings for **Dora Newman** (97907837) and **Thomas Stone** 1845–1925 (97907931); Greene T623-855 PDF spot-check nil extra Stone (L121). |
+| **Dora biography research** (pass 18–21) | https://cursor.com/agents/bc-01a183ca-4028-7f9b-9d4c-34d4ab6671f6 | Find a Grave Carter listings (**S117–S118**); Greene T623-855 PDF spot-read (**L134**); pass 21 Louisa Mays FAN (**C130**); Word `.docx` builder. |
+
 
 ## Helper chats (extractors, not new fieldwork)
 

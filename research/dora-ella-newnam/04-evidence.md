@@ -99,6 +99,7 @@
 | S117 | Find a Grave, Carter Cemetery (Carter Cove), Plainview, Yell Co., AR (cemetery id **53354**), memorial search filtered lastName=**Newman**, accessed 28 Oct 2026. **Listing only** (individual memorial page blocked by Cloudflare this pass): **Dora Newman**, memorial id **97907837**; birth/death dates **unknown** on listing; thumbnail photo present (upload 2014). URL: https://www.findagrave.com/memorial/97907837/dora-newman | D (authored; derivative of on-ground reading) | Find a Grave contributor(s) |
 | S118 | Same cemetery search, lastName=**Stone**, accessed 28 Oct 2026. **Listing:** **Thomas Stone**, memorial id **97907931**, **1845 – 1925**; thumbnail photo present. URL: https://www.findagrave.com/memorial/97907931/thomas-stone. Corroborates Daniels/Cossey 1993 yard copy (S078); **not** a primary vital record. | D (authored) | Find a Grave contributor(s) |
 
+
 ## Claims
 | Claim ID | Claim (one fact) | Confidence | Evidence | Source IDs | Conflicts → 07 |
 |---|---|---|---|---|---|

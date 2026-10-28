@@ -116,6 +116,7 @@ Coy Newnam of Ola was informant. He named her spouse T. A. Stone and her parents
 
 At Carter Cemetery (Carter Cove), Find a Grave’s **cemetery search** (not the individual memorial pages, which Cloudflare blocked from this workspace) lists **Dora Newman** (memorial 97907837) with **no dates** on the listing — matching the 1993 spelling under her maiden name — and **Thomas Stone** (97907931) as **1845–1925**, beside her in the same yard. Those listings are authored derivatives (**S117–S118**, claim **C129**), not vital records, but they align with the certificate and the copyists’ lines. No photograph of either stone is in the case file.
 
+
 The *Yell County Journal* at Ola for late August and early September 1926 has not been read. Neither has the *Beattyville Enterprise* for the same weeks. An obituary, if one ran, would be the kin list this biography still lacks.
 
 She was fifty-five if she was the eight-year-old of District 59. The certificate called her fifty-eight. The child on sheet 6 is the better witness to her beginning than the grieving son was to a date he never saw.

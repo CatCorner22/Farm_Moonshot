@@ -25,8 +25,8 @@ Compiled PDF with the NARA plate gallery and the four family charts:
 Rebuild from the repository root:
 
 ```bash
-python3 scripts/build_dora_book.py    # PDF + image gallery
-python3 scripts/build_dora_word.py    # Word (.docx) from the same markdown
+python3 scripts/build_dora_book.py    # PDF + image gallery + Word (.docx)
+python3 scripts/build_dora_word.py    # Word only from the same markdown
 ```
 
 Master Word document (regenerate after editing the markdown):
