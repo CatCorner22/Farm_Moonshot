@@ -161,5 +161,24 @@ Handwritten 1920 family/individual cards; diplomatic from JPEGs.
 - n4205 SHA-256 `9e1def9d61d3209bbd57a0795f5dd896e8c2cbcd083d6a996ed03d139736e7f3`: printed **E** Soundex tab after the D-block.
 - n4208 SHA-256 `e5b75c0df9bd1f4a65e1db130b85c38954ce25bbdef21e8b677f915c23bfcf3e`: Neuman, E.T. (individual) W 75 Kentucky; Lee; Beattyville; Grand Ave.; enumerated with Burke, C.B.; Grand Father. **PROBABLE P004.**
 
+## DOC010 — 1910 KY Miracode P-142 (Peebles/Peeples) — nil for P001
+Typed Miracode family/individual cards, IA `soundex1910ky128` printed pp. 233–247.
+
+- Printed p. 233 (PDF 235): last P-140 cards, then **P-142 PUBLES, A.E.**, Carlisle, H W 48 KY; wife Amanda 50; son Cole 17. Start of the Peebles code.
+- Printed p. 236: **PEEBLES, Clyde E.**, Hickman, H W 43 KY; wife **Eliza B** 38 KY; Wallace R 17; Carl 14. Wife is Eliza, not Dora.
+- Printed p. 237: **PEOPLES, Edora**, Graves, SI W **65 TN**, enumerated with Grant, Chas W. **Rejected vs P001** (age 65 vs ~39; b. TN). File `ky1910-p142-p239-edora-peoples-65-graves-rejected.jpg` SHA-256 `244d4d7686d5ecfd36f7bf288df0cb0c8a372aa8c028090568ca26be4c1f6761`.
+- D-window sequence (printed 235–239): Alonzo / Anna May / Annie / Carrie / Charles / Claudie / Clyde E / Dottie / Durant / **Edora 65** / Edward D / Elsie / Fanny / Florence — **no Dora ~39**.
+- Remainder of the block through printed p. 247 (William H Peffles, then P-143 Poffield): wives named Amanda, Sinthia E, Harriett, Sopha, Eliza B, Lenora, Mary, Kate, Linnie, Judie A, Clara G, Lizzie, Martha, Jessie, Hillinda, Ellen S, Anna H, Mabel, Sarah, Sallie, Annie — **no wife Dora**.
+- → C081 C082.
+
+## DOC011 — 1910 AR Miracode P-142 D-window — two rejected Doras
+Typed Miracode, IA `soundex1910ar091` printed pp. 178–203.
+
+- Printed p. 181: Clyde H / Dave (Lucinda 25) / David C Peeples (Mary A 38; dau. **Dona F** 17 — not Dora) / Dewey E.
+- Printed p. 182: **YELL, P-142 PEOPLES, E EDD**, H W 27 AR; wife Catharine 21 AR; Leelon 3; Dana 1. **Not P001.** File `ar1910-p142-p189-yell-e-edd-peoples-not-dora.jpg`.
+- Printed p. 183: **MISSISSIPPI, P-142 PEEBLES, ED**, H M 47 KY; wife Maggie 45 AR; **SYKES, Dora, SD 19 KY**. **Rejected** (stepdaughter, age 19). File `ar1910-p142-p190-ed-peebles-dora-sykes-19-rejected.jpg` SHA-256 `fe8e3efc925638bf2a6d23cd9ec5175a88fac0917dda686058199655bec05442`.
+- Printed p. 193: **JEFFERSON, P-142 PEOPLES, JULIUS**, H B 35 AR; wife Laurah 26 AR; **Dora Bell SIL 16 AR**. **Rejected** (age 16, b. AR). File `ar1910-p142-p200-julius-dora-bell-16-rejected.jpg`.
+- → C083.
+
 ## DOC009 — 1910 TN Soundex N-550 McCoy window (nil)
 Handwritten family/individual cards n2461–n2469. Sequence after Mary C (n2460): Mary D 49 Jefferson (son Layton 11); Mary M 70 Hamilton; Mek. G 50 Cheatham (Florence 19, John 17, General 16, Frances 13, William 10, Doria 6, Luther 1½); Melvin 3½ Giles (gs of Deacon George W); Melvin 54 Giles (SIL of same); Minerva 80 Robertson (gds Lona Neely, Nellie Erwin); Minnie 21 Roane (with Sam P. Sparks); Mitchell 27 Hardin (Ollie P 25, Gladys 4, Burl W 3, Royal E 1 9/12). **No McCoy.** SHA-256 n2463 `23610f8aa4c159b1b554ed1786d11f57d2f56f8a2e8994f7289ae7bd02dfca53`; n2469 `340489566090880388fa6b81ca5751c5944dcaf56a7b44f70fe560788f308586`.

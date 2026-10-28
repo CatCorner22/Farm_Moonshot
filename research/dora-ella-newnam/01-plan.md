@@ -17,12 +17,12 @@
 ## Hypotheses
 - **H1 (accepted story):** Dora Ella, daughter of Elias T. “Doll” Newnam and Mary Ann Smallwood, b. Lee Co. Aug 1871; m1 Samuel P. Newnam 10 Dec 1885; five surviving children by 1900; widowed before 1910; in Arkansas by Coy’s 1917 marriage; m2 T. A. Stone (prob. Tom A. Stone of Perry Co.) 1920–25; d. Ola 23 Aug 1926; buried Carter Cove as “Newman, Dora.”
 - **H2 (alternative):** Birth year 1868 as on the death certificate is correct; 1900 and 1885 ages are understatements. **Tested this session against 1880 age 8 — fails.**
-- **H3:** 1910 she had already remarried (not to Stone — he is a widower in Jan 1920) and is indexed under a third surname. Still open.
+- **H3:** 1910 she had already remarried (not to Stone — he is a widower in Jan 1920) and is indexed under a third surname. Still open for surnames **other than** Peebles/Peeples/Peoples. **H3-Peebles (user hypothesis):** not supported. Statewide 1910 KY P-142 household block **PROVEN negative** for Dora ~39 as head or as a wife named Dora; 1910 AR P-142 D-window **PROVEN negative** for an indexed Dora ~39 (two other Doras rejected); Lee marriage books 5–19 have **zero** Peebles surname and no Dora Newnam remarriage. A short unindexed Peebles license outside Lee/Perry remains only SPECULATIVE.
 - **H4:** She and/or Coy were in Missouri (Bollinger — Letha’s people), Oklahoma, Texas, or Tennessee in 1910, not KY or AR. **1910 MO/OK/TX/TN N-550 Newman Dora ~39 nil** (MO/TN prior; OK `soundex1910ok091` and TX `soundex1910tx173` pass 4). Coy/McCoy nil in MO, TN, KY, AR. H4 as *Newman/Newnam heads or individually carded persons* is closed for **MO, TN, OK, and TX**. A wife enumerated under a husband’s given name is still possible (H3).
 - **H0 (null — accepted story is wrong because…):** Dora Stone of the 1926 certificate is a different Dora; Coy Newnam of Ola is not the 1900 McCoy. Falsified by: informant Coy Newnam + parents Elias Newnam & Mary Smallwood on the certificate + 1900 household + NUMIDENT of Pearl and Mary naming Sam & Dora + 1880 child Dora in Elias’s house.
 
 ## Name variants & search strings
-Surname variants (incl. Soundex, phonetic, OCR-error, translated, patronymic, maiden/married): Newnam, Newman, Newmann, Numan, Neman, Newnham; married **Stone**; Soundex **N-550** / **S-350**.
+Surname variants (incl. Soundex, phonetic, OCR-error, translated, patronymic, maiden/married): Newnam, Newman, Newmann, Numan, Neman, Newnham; married **Stone**; hypothesized intervening **Peebles / Peeples / Peoples / Pebbles** (Soundex **P-142**; Pebley is P-140, not searched as equivalent). Soundex **N-550** / **S-350** / **P-142**.
 Given-name variants / nicknames / initials: Dora, Dora Ella, Ella, D. E.; not Theodora (no record uses it).
 Wildcard strings to use: `New*m`, `Dor* New*`, `"Doll Newnam"`, `McCoy OR Coy New*`, `"T. A. Stone"` Yell OR Perry.
 
@@ -68,3 +68,7 @@ Wildcard strings to use: `New*m`, `Dor* New*`, `"Doll Newnam"`, `McCoy OR Coy Ne
 | 17 | Yell County Journal obit Aug 1926 | AR State Archives / Plainview or Danville library | Names surviving kin | **on-site** |
 | 18 | Carter Cove photograph | Find A Grave 403 from VM; in-person | Confirm undated “Newman, Dora” | **user / photo request** |
 | 19 | DNA | — | Excluded (living-tester files) | n/a |
+| 22 | 1910 KY Miracode P-142 Peebles/Peeples/Peoples | IA `soundex1910ky128` printed pp. ~233–247 | H3-Peebles as KY 1910 wife or head | **nil for P001** (Edora Peoples 65 Graves rejected; no wife Dora on any P-142 card) |
+| 23 | 1910 AR Miracode P-142 D-window | IA `soundex1910ar091` printed pp. ~178–193 | H3-Peebles as AR 1910 Dora ~39 | **nil for P001** (Dora Sykes 19 and Dora Bell 16 rejected) |
+| 24 | Lee Marriage Books 5–19 (1896–1926) | USGenNet | Dora × Peebles/Stone/Newnam remarriage | **nil** Peebles surname; **nil** Dora Newnam bride after 1885 |
+| 25 | Perry AR Books F–G P/N/S (1916–1930) | ARGenWeb | Dora × Peebles/Stone; T.A. Stone license | Peoples not Peebles; **no** Dora×Stone/Newnam |
