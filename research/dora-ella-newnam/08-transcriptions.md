@@ -280,7 +280,7 @@ IA `soundex1900mo244`. Inverted JPEGs; diplomatic from images. Cards that matter
 
 1. PDF 1678 — **Stone, Thomas.** W, May 1856, 44, Missouri. Douglas Co., Buchanan Twp. Wife Nancy E. b. Sept 1863 age 36; Ella M. d. Feb 1886 14; Minnie d. Sep 1888 11; Martha A. d. Jan 1892 8; Rosey d. May 1894 6. Continuation 1679: Jesse C. son b. Mar 1896 age 4. **Closest age to 1920 Tom A. 62. Not merged** (no middle A.; wife Nancy).
 2. PDF 1680 — **Stone, Thomas.** W, ~1850, 50, Missouri. Caldwell Co., Kidder. Wife Nancy b. June 1847 53; Mary 19; Ethel? 13; niece Buckley Ruby 12. **Too old.**
-3. PDF 1684 — **Stone, Thomas A.** W, Feb 1868, 32, Missouri. Dunklin Co., Campbell Twp. Wife Matilda b. Nov 1876 24 Illinois; Gertrude M. d. Mar 1893 6; Jenkins Mary aunt? b. Jan 1825 75 TN. **Name match; age 10 years off 1920.**
+3. PDF 1684 — **Stone, Thomas A.** W, Feb 1868, 32, Missouri. Civil division **Campbell Twp**. Volume **33**, ED **37**, sheet **18**, line **25**. Wife Matilda b. Mch 1876 24 **Ohio**; Gertrude M. d. Nov 1893 6 Missouri; **Jenkins, Ivory** G M Jany 1825 75 TN. **The card does not write Dunklin County.** Volume 33 = Greene Co. Soundex (S094). Dunklin village nil (C105). **Original schedule read DOC018 (C117).** Not merged with 1920 Tom A. (age gap).
 4. PDF 1685 — **Stone, Thomas A.** W, Mar 1876, 24, Missouri. Cooper Co., Clark’s Fork Twp. Enumerated with Grissom, Matthew; Nephew. **Too young.**
 5. PDF 1727 — **Stone, Tom.** B, May 1878, 21, Kentucky. Mississippi Co., Tywappity Twp. Laborer with Drinkwater, Fred. **Race Black — rejected.**
 6. PDF 1728 — **Stone, Tom.** W, May 1869, 31, Missouri. Vernon Co., Center Twp, Nevada. Coal miner; boarder with Jones, Charley W. **Age 31 vs ~42; no household.**
@@ -322,6 +322,20 @@ Thomas Stone, 44, woodchopper, and wife Nancy E., 33, married 18 years, with fiv
 ### Facts extracted → claim IDs
 - Thomas May 1856 age 44, no middle initial, wife Nancy E. living → C101 C092 (not merged with P003)
 - Ossie P. daughter Mch 1896, not Jesse C. son → C102
+
+## DOC018 — 1900 U.S. census, Greene Co. MO, Campbell Twp, ED 37 sheet 18A (original)
+- Image file(s) + SHA-256: `sources/census/1900-greene-ed37-sh18a-full.jpg` · `a4d69c59bca898983cab23c21628a3ec8440490040ea77c1ba8551bba89471b9`; crops `…-stone-household-crop.png` · `18d593e38b35c592b2787e25994e964527dded3cff0fa84f18f22a34098ce482`; `…-stone-jenkins-crop.png` · `e26d8c543f8d22b084e494f81014ec78bb2dcc9c85fad43cd337ad67193e8b48`
+- Page: IA `12thcensusofpopu855unit` jp2 p.814; NARA T623 reel 855; ED **37**, sheet **18 A**; enum. **27 Jun 1900**, Joshua Tuthill
+- Provenance: NARA microfilm via Internet Archive, accessed 28 Oct 2026. **Original image seen.**
+
+| Line | Dw/Fam | Name | Rel | Birth | Age | Yrs mar | Ch. | POB / F / M |
+|---|---|---|---|---|---|---|---|---|
+| 25 | 362/379 | Stone, Thomas A. | Head | Feb 1868 | 32 | 8 | — | Missouri / England / England |
+| 26 | | Stone, Matilda | Wife | July 1873 | 26 | 8 | 1 / 1 | Ohio / England / England |
+| 27 | | Stone, Gertrude M. | Daughter | Nov 1893 | 6 | S | | Missouri / Missouri / Ohio |
+| 28 | | Jenkins, Ivory | Grandmother | Jan 1825 | 75 | Wd | 8 / 2 | Tennessee / Kentucky / Kentucky |
+
+{Note} Soundex card (DOC015 item 3) agrees on Thomas, Matilda, Gertrude, and Jenkins Ivory. Matilda’s month/year on the card (Mch 1876 age 24) differs slightly from the schedule (July 1873 age 26). Gertrude’s birthplace on one machine crop read Wisconsin — schedule column read **Missouri**; prefer original over Soundex where they agree. **Do not merge** Jenkins or this household with P001 Dora Ella Newnam Stone (C118). **Not merged** with 1920 Tom A. Stone Perry AR (C117). → C107 C117 C118.
 
 ## DOC009 — 1910 TN Soundex N-550 McCoy window (nil)
 Handwritten family/individual cards n2461–n2469. Sequence after Mary C (n2460): Mary D 49 Jefferson (son Layton 11); Mary M 70 Hamilton; Mek. G 50 Cheatham (Florence 19, John 17, General 16, Frances 13, William 10, Doria 6, Luther 1½); Melvin 3½ Giles (gs of Deacon George W); Melvin 54 Giles (SIL of same); Minerva 80 Robertson (gds Lona Neely, Nellie Erwin); Minnie 21 Roane (with Sam P. Sparks); Mitchell 27 Hardin (Ollie P 25, Gladys 4, Burl W 3, Royal E 1 9/12). **No McCoy.** SHA-256 n2463 `23610f8aa4c159b1b554ed1786d11f57d2f56f8a2e8994f7289ae7bd02dfca53`; n2469 `340489566090880388fa6b81ca5751c5944dcaf56a7b44f70fe560788f308586`.
