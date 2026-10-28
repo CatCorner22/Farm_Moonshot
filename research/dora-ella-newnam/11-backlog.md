@@ -49,8 +49,8 @@ Prioritised queue — work top to bottom. **Do not declare research complete whi
 | B041 | open | L | Lee/Owsley church minutes / unmarked graves (on-site) | Samuel P. Newnam burial 1900–1910 | C012 | L098 | Published VS closed. Exact retrieval: Lee Clerk / KDLA; High View unmarked; Newnam graveyard near Pebworth (Rev. Luther Newnam officiated later funerals — do not assume) |
 
 ## Session handoff
-- **Last closed:** 28 Oct 2026 · **Stopped after:** pass 17: Buck index **UNUM** Robert hh 91 (C123); Lee Book 4 nil Robert×Sallie; Greene reel map ED 39→856; IA jp2 + FS search **blocked** from VM.
-- **Next session starts with:** **B011** user FS 1940760 or Ancestry 8771 name search; **B039** Owsley marriage register; **B040** T623-856 + unread ED 38 sheets when IA works; B007 Lorance
+- **Last closed:** 28 Oct 2026 · **Stopped after:** merge with `main` (PR #16) + pass 17: Buck index **UNUM** Robert hh 91 (C123); Lee Book 4 nil; Greene reel ED 39→856; IA jp2 + FS search blocked from VM.
+- **Next session starts with:** **B011** user FS 1940760 or Ancestry 8771; **B039** Owsley marriage register; **B040** T623-856 + unread ED 38 when IA works; B007 Lorance
 
 ## Escalation log (brick walls — step number from exhaustive-research.md)
 | Date | Wall | Steps 1–8 attempted | Outcome |
