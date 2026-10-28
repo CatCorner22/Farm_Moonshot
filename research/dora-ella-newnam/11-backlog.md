@@ -45,7 +45,7 @@ Prioritised queue — work top to bottom. **Do not declare research complete whi
 | B037 | open | L | 1910 Lee KY Sturgeon ED 99 sheet **8A** header (T624-478; this branch PDF ~p.565 or main JPEG set) | Re-read enumerator signature: Elam Brandenburg vs Elton E. Newnam | conflict #13 | | Do **not** pick a name in the merge. Same schedule; palaeography only |
 
 ## Session handoff
-- **Last closed:** 28 Oct 2026 · **Stopped after:** pass 12 (L081–L085) plus merge of `origin/main` (PR #7): **original** 1900 Douglas Buchanan ED 159 sh 9B Thomas+Nancy E (C101; Soundex Jesse C. = Ossie P.); Dunklin ED 49 Campbell village isolated, sh 1A–6A nil; Liberty Twp = 1910 ED 5 ~p.492–511; High View transcript **nil** Samuel P; Booneville Assoc. 1883–1904 **nil**; 1910 dw 67 reoccupied (Hamilton/Garrett); Ancestry image 499 = PDF 568 (C106)
+- **Last closed:** 28 Oct 2026 · **Stopped after:** master biography book at `book/index.html` (67 endnotes, census originals including 1900 Sturgeon sh 4B, LOC/Wikimedia place plates). Book 2 transcription re-read for Malissa × Estes (29 Dec 1881) and Francis × Jones (28 Feb 1884). Drive search: no Dora portrait.
 - **Next session starts with:** B033 remainder of Dunklin ED 49 (village sh 7–10 + rural Union); B007 Liberty ED 5 name columns for Letha Sullivan; B035 1905–1910 Lee deaths; B037 re-read ED 99 sheet 8A enumerator (conflict #13); B011 Tom 1925 DC (user)
 
 ## Escalation log (brick walls — step number from exhaustive-research.md)
