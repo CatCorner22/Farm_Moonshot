@@ -12,7 +12,7 @@ Prioritised queue — work top to bottom. **Do not declare research complete whi
 | B004 | nil | H | IA `soundex1920ky117` N-550 | Dora / Ella Newman ~48 KY | 1920 hole | L035 | Three Dora cards, all wrong age; E-tab after Dougal |
 | B005 | done | H | IA `soundex1920ky144` S-350 | Dora Stone ~48 KY | m2 already by Jan 1920? | L047 | Full reel OCR nil Dora Stone |
 | B006 | done | H | IA `soundex1920tn107` N-550 | Dora Newman ~48 TN | 1920 hole | L049 | Full reel OCR nil Dora+Newman |
-| B007 | open | M | 1910 Bollinger Co. MO Liberty Twp | Letha Sullivan household — any Newnam boarder/MIL | H4 Missouri FAN | L079 | T624-769 PDF downloaded (`13thcensus1910po769unit`, 1162 pp); sampled p350/p500 still Benton Co. Isolate Bollinger Liberty |
+| B007 | open | M | 1910 Bollinger Co. MO Liberty Twp | Letha Sullivan household — any Newnam boarder/MIL | H4 Missouri FAN | L079 | T624-769 downloaded. Benton through ~p.600; **Bollinger from ~p.630** (Wayne Twp). Butler by p.700. Liberty still inside that ~70-page block |
 | B008 | done | H | IA 1910 KY N-550 children | John H ~10 / Pearl already found / Rissa / Mary M as GD or servant | Household pass | L051 | OCR nil; Pearl 1910 Owsley prior |
 | B009 | nil | M | USGenNet Lee deaths 1911–1929 “N” | Samuel P / Dora / John Newnam deaths | C012 | L037 | No Samuel/Dora/John H in Lee 1911–1929; try Owsley + pre-1911 |
 | B010 | open | M | Chronicling America / USGenNet gleanings | Newnam, Dora, Samuel, Coy, Stone, Ola 1900–1926 | Press pass | L041 | *Yell County Journal* not digitised |
@@ -38,14 +38,14 @@ Prioritised queue — work top to bottom. **Do not declare research complete whi
 | B030 | nil | H | IA `soundex1910ky128` P-142 + `soundex1910ar091` P-142; Lee Books 5–19; Perry F/G | Dora × Peebles 1900–1925; 1910 Dora Peebles ~39 KY/AR | H3-Peebles | L057–L063 | **Two marriages, not three.** KY P-142 head+wife nil; AR D-window nil; Lee/Perry licenses nil. Residual: FS AR statewide bride index; Yell licenses |
 | B031 | done | H | IA `14thcensusofpopu586unit` (T625-586) Beattyville ED 111 sh 6A | Original Burke/E.T. Newman schedule (hh 106–114) | C091 / FAN of P004 | L069 | **Original read.** PDF p. 14; JPEG in `sources/census/`. Identifier is `popu` not `popul` |
 | B032 | open | L | FAN of 1910 Sturgeon Newnams (Richard, Reuben, John, Harry) | 1900/1920 of those households — any Dora boarder later? | Negative control; do not merge | | Keep as cluster, not identity |
-| B033 | open | M | 1900 MO original: Douglas Buchanan Thomas 44; Dunklin Campbell Thomas A. 32 | Same-person test vs 1920 Tom A. Stone | C092 / conflict #11 | L078 | Reel 853 mapped (Dent/Douglas/Dunklin). Buchanan & Campbell townships **not** in sampled EDs 156–159/161/163/165 or Dunklin 39/41/45/159 |
+| B033 | open | M | 1900 MO original: Douglas Buchanan Thomas 44; Dunklin Campbell village Thomas A. 32 | Same-person test vs 1920 Tom A. Stone | C092 / conflict #11 | L078 L080 | **Buchanan = ED 159, PDF p.396–418 located.** Even sheets sampled, no Thomas+Nancy yet (odd sheets remain). Dunklin “Campbell” = village in Union Twp **ED 49 on T623-854**, not reel 853 |
 | B034 | done | H | Lee Co. surviving pre-1911 VS death registers | Samuel P. Newnam d. 1874–1904 in those dumps | C012 C098 | L073 L074 L075 | **Nil** in 1874–1878 and 1900–1904 VS; **nil** Samuel P at Proctor Cemetery. Residual scattered 1879–1899 / 1905–1910 → B035; High View → B036 |
 | B035 | open | H | Lee Co. miscellaneous / scattered deaths 1879–1899 and 1905–1910 | Samuel P. Newnam | C012 | | `deaths/misc.html` 404 this pass; try other USGenNet filenames + Owsley cemeteries |
 | B036 | open | M | High View Cemetery (aka Newman Cem), Spencer Ridge | Samuel P / Elias children stones | C012 FAN | L075 | Index lists it; `cemeteries/newman.html` and `highview.html` both 404 |
 
 ## Session handoff
 - **Last closed:** 28 Oct 2026 · **Stopped after:** pass 11 (L069–L079): **original** 1920 ED 111 sh 6A Burke/E.T.; Provie Hoover is Elias’s granddaughter (1900 + 1904 license); C.B. Burke is George Burke’s son; Lee VS 1874–1878 and 1900–1904 **nil** Samuel P; W.D. 1939 obit omits Dora
-- **Next session starts with:** B033 isolate Douglas Buchanan + Dunklin Campbell on T623-853; B007 isolate Bollinger Liberty on T624-769; B035 scattered Lee deaths 1879–1899/1905–1910; B036 High View cemetery; B011 Tom 1925 DC (user)
+- **Next session starts with:** B033 finish Buchanan ED 159 odd sheets (PDF 397–417) then T623-854 ED 49 Campbell village; B007 Bollinger Liberty inside T624-769 ~p.630–700; B035 scattered Lee deaths 1879–1899/1905–1910; B036 High View cemetery; B011 Tom 1925 DC (user)
 
 ## Escalation log (brick walls — step number from exhaustive-research.md)
 | Date | Wall | Steps 1–8 attempted | Outcome |
