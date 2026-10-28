@@ -36,7 +36,11 @@ A compiled Boone descent through Leah Scholl sits on WikiTree and on cemetery ma
 
 On Thursday, 10 December 1885, at Doll Newnam’s house, J. E. Dunagin married Samuel P. Newnam, sixteen, farmer, to Dora Ella Newnam, fourteen. Witnesses: Doll Newnam and Link Mays. It was a first marriage for both. Samuel had been born in Owsley County; his father, the clerk wrote, in Clark, his mother in Owsley. Dora had been born in Lee. The clerk put both of her parents’ births in Owsley — a slip. Elias was born in Clark County on 18 April 1842. Teenage brides and county clerks often confuse “where we farmed” with “where he was born.” [C010] [S004]
 
-Published Lee marriage books 1–15 name **Link Mays only once**: as witness beside Doll Newnam at this wedding. He is not a groom or bride in those transcriptions. That does not prove he never married elsewhere, but it fixes his documentary role at the ceremony as neighbor or kin, not as a party. [C127] [S116] Two years later, at Marion Durbin’s on 2 January 1889, **Jiles Mays** witnessed with **Dilalrd Newnam** — the same Mays surname cluster around Sturgeon Creek, not proof that Jiles is Link. [C125] [S113] The 1900 Sturgeon transcript lists eleven separate **Mays** households (Elizabeth as housekeeper; heads Eliza, William, James S., Renie, Isham, Rachel, David, Jackson, Henry, Dorothy) and **no** given name **Link**. [S116] Patsey Pendergrass Farley’s 1937 obituary names a sister **Mrs. Louisa Mays, Cressmont** in the same survivor list as stepson **Robert Newnam, Pebworth** — a possible kin bridge to the Mays witnesses, not an identification of Link. [C130] [S101] The 1880 ED 59 originals read for this case (sheets 1–2 around John and Elias) have not yet shown a **Mays** line adjacent to dwelling 3; remaining sheets are blocked on Internet Archive from this environment. [B014] [L136]
+Published Lee marriage books 1–15 name **Link Mays only once**: as witness beside Doll Newnam at this wedding. He is not a groom or bride in those transcriptions. [C127] [S116] Two years later, at Marion Durbin’s on 2 January 1889, **Jiles Mays** witnessed with **Dilalrd Newnam**. That Jiles is probably the farm labourer, twenty, in Andrew Mayse’s Proctor house in 1870 and the twenty-four-year-old who applied to marry Elizabeth Bowman on 22 March 1873 — a different man from Link, and not proof the two witnesses are the same person. [C125] [C132] [S121] [S125]
+
+The 1900 Sturgeon transcript lists eleven **Mays** households and **no** given name **Link**. [S116] Absence in 1900 has a candidate explanation. At the Cordy Pendergrass Cemetery in Pebworth, Blanche Evans copied **Larkin Mays**, 8 May 1861 – 8 July 1895, beside **Louisa P. Mays**, 12 December 1861 (family death 13 April 1951), daughter of Cordy and Minerva Thompson Pendergrass — the same parents named for Patsey Farley in the next row. [S119] Patsey’s 1937 obituary called her sister **Mrs. Louisa Mays, Cressmont**. [C130] [S101] The 1920 Sturgeon annotator identified Ida Plowman as daughter of **Larkin T. and Louisa Pendergrass Mays**. [S122] Larkin was twenty-four and living on the December 1885 wedding day and dead before June 1900. **Link** is a common nickname for Larkin. That is enough for a possible identity, not a merge: no paper yet uses both names. [C131]
+
+Mays were already in District 59 in 1880. The mortality schedule Hampton filed for that district lists **Mary Mays**, eighty-three, of household **102**, dead of paralysis in January. [C133] [S120] Sheets 1–2 around John and Elias do not show her neighbours; the original page for dwelling 102 is still blocked on Internet Archive. [L136]
 
 The original marriage page (FamilySearch Q2QD-PZHL) has not been seen from this workspace. The reading is from Debi Kendrick’s Lee County Book 2 transcription. The fact of the marriage is proved; palaeography of the original page remains an open retrieval.
 
@@ -133,7 +137,7 @@ Two children born to Dora and Samuel died before 1 June 1900. They have no names
 
 **Pearl P. Newnam**, 15 March 1895, Banford, later Pearl P. Jackson, died 19 September 1980, Shelby County, Tennessee. The 1910 grandmother household, the 1922 Elizabeth Newnam will, and the NUMIDENT file make her identification the strongest of the five.
 
-**Rissa / Rissie**, May 1897. Later Pelfrey or Stamper identifications remain possible only. A Rissie Pelfrey Maxey born 1882 is a different woman.
+**Rissa / Rissie**, May 1897. Later Pelfrey or Stamper identifications remain possible only. Lee Marriage Books 5–15 have no Rissie or Rissa Newnam bride; a 1920 Rissa Newton, seventeen, is a different woman. [C134] A Rissie Pelfrey Maxey born 1882 is a different woman.
 
 **John H. Newnam**, August 1899. Adult trail blank. Herbert of Lee County, Virginia, was rejected.
 
@@ -161,6 +165,6 @@ Charts of pedigree, descendants, and lifespan follow the plates. Dashed lines me
 - Conflict #9: which 1870–1880 household is Samuel’s.
 - Conflict #4 and #11: which Missouri Thomas Stone, if any, is the 1920 Perry County widower.
 - Conflict #13: whether the 1910 Sturgeon enumerator signed Elam Brandenburg or Elton E. Newnam.
-- John H.; Mary Bunch’s death; Rissie’s Tennessee identification; the two unnamed children.
+- John H.; Mary Bunch’s death (Lee books and recent “Mary M. Bunch” obituaries do not match); Rissie’s Tennessee identification; the two unnamed children.
 
 The next chat should treat this book and `06-dossier.md` as the combined master, then work the open list. Do not reopen Peebles as a third marriage without a license. Do not print 1868 or 24 February 1906 as facts.
