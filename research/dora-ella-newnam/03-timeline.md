@@ -40,7 +40,8 @@ Place as it was *at the date*; modern equivalent in brackets. Flag impossibiliti
 | 11 Jul 1918 | ~46 | Mother Mary A. Newnam d. | Lee Co. (Brandenburg-Quillen) | C047 | S032 prior |
 | Jan 1920 | ~48 | **Not in AR as Dora Stone or Dora Newnam; not in KY N-550 as Dora ~48** (Paducah 29 / Cumberland 10 / Logan 28 all rejected); not in Coy’s Danville house; not in transcribed 1920 Lee | unknown | C032 C064 | S102–S109 prior; S045 |
 | Jan 1920 | — | **Original** ED 111 sh 6A dw 106/114: C.B. Burke, postmaster; Provie, asst. postmaster; Vivie M 14; Vedia G 10; George P 3[?]/12; **Newman, E.T., Grand Father, 75 wd, none**; Bertie Combs, RR clerk; Warren C. Miller, 23, PA — PROBABLE P004 | Beattyville, Lee Co., KY | C065 C091 C095 | S073 S046 |
-| 1 Jun 1900 | — | **No** matching Tom/Thomas A. Stone ~42 b. ~1858 MO in statewide S-350 Thomas/Tom window (two Thomas A. and two Tom cards rejected; Thomas 44 Douglas with Nancy E. not merged) | Missouri (Soundex) | C092 | S070 |
+| 1 Jun 1900 | — | **No** matching Tom/Thomas A. Stone ~42 b. ~1858 MO in statewide S-350 Thomas/Tom window (two Thomas A. and two Tom cards rejected) | Missouri (Soundex) | C092 | S070 |
+| **13 Jun 1900** | — | **Original:** Stone, Thomas, 44, woodchopper, + Nancy E. 33 (8/6) + five daughters, Buchanan Twp ED 159 sh 9B dw 148 — **not merged** with 1920 Tom A. | Buchanan Twp, Douglas Co., MO | C101 C102 | S085 |
 | 24 Feb 1920 | — | Tom A. Stone, 62 wd, b. MO, FIL of Tom M. Randall, tie maker | Howell Twp, Perry Co., AR ED 75 sh 8B | C050 | S104 S105 prior |
 | 18 Feb 1917 | 45 | Son McCoy m. Letha Viola Sullivan | Ola, Yell Co., AR | C027 | S024 prior |
 | 1896–1926 | — | **No Lee Co. license** for Dora Newnam/Newman × Peebles/Stone (Books 5–19); **no Peebles surname** in those books | Lee Co., KY | C084 | S064 |

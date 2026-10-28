@@ -18,12 +18,15 @@
     {"id": "P016", "name": "Henry Harrison Newnam", "birth": "?", "death": "?", "sex": "M"},
     {"id": "P017", "name": "Millie Tincher", "birth": "?", "death": "?", "sex": "F"},
     {"id": "UNK1", "name": "Unknown child (d. bef. 1900)", "birth": "c.1886–89", "death": "bef.1900", "sex": "?"},
-    {"id": "UNK2", "name": "Unknown child (d. bef. 1900)", "birth": "c.1886–94", "death": "bef.1900", "sex": "?"}
+    {"id": "UNK2", "name": "Unknown child (d. bef. 1900)", "birth": "c.1886–94", "death": "bef.1900", "sex": "?"},
+    {"id": "P018", "name": "Provie Hoover Burke", "birth": "1886", "death": "aft.1920", "sex": "F"},
+    {"id": "P019", "name": "James Hoover", "birth": "c.1861", "death": "?", "sex": "M"}
   ],
   "unions": [
     {"id": "U0", "partners": ["P016", "P017"], "children": ["P004"], "type": "biological", "confidence": "PROBABLE"},
     {"id": "U1", "partners": ["P004", "P005"], "children": ["P011", "P012", "P013", "P014", "P001", "P015"], "type": "biological", "confidence": "PROBABLE"},
     {"id": "U2", "partners": ["P001", "P002"], "children": ["UNK1", "P006", "P007", "P008", "P009", "P010", "UNK2"], "type": "biological", "confidence": "PROVEN"},
-    {"id": "U3", "partners": ["P001", "P003"], "children": [], "type": "biological", "confidence": "PROBABLE"}
+    {"id": "U3", "partners": ["P001", "P003"], "children": [], "type": "biological", "confidence": "PROBABLE"},
+    {"id": "U4", "partners": ["P014", "P019"], "children": ["P018"], "type": "biological", "confidence": "PROBABLE"}
   ]
 }
