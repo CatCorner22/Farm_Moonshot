@@ -7,6 +7,8 @@
 - **Open items:** Tom A. Stone 1925 DC; remainder of Dunklin ED 49 (village sh 7–10 + rural Union); Stone×Newnam license (Yell); Samuel’s death (not Lee 1911–1929, not 1874–1878 / 1900–1904 VS, not Proctor or High View published transcripts, not Booneville Assoc. 1883–1904 — residual 1905–1910); John H.; Mary Bunch death; Rissie TN; Carter Cove photo; Yell County Journal; FS AR statewide bride index (Peebles residual); 1910 Bollinger Liberty ED 5 name columns (township isolated ~p.492–511).
 - **Last updated:** 28 Oct 2026, America/New_York (master biography book: `book/index.html`, 67 endnotes, census + place plates).
 - **Master book:** [research/dora-ella-newnam/book/index.html](book/index.html) — photographs, charts, endnotes, source appendix.
+- **Last updated:** 28 Oct 2026, America/New_York (master biography book + gallery merge: 61 plates as V005; all project chats combined).
+- **Master biography:** [`book/Dora-Ella-Newnam-Stone-A-Life.md`](book/Dora-Ella-Newnam-Stone-A-Life.md) · PDF [`book/Dora-Ella-Newnam-Stone-A-Life.pdf`](book/Dora-Ella-Newnam-Stone-A-Life.pdf) · plates [`12-image-gallery.md`](12-image-gallery.md) · chat review [`13-chat-review.md`](13-chat-review.md)
 - **Canvas:** [Dora Ella Newnam Stone dossier](https://cursor.com/canvas/store-6a1d2d3c-dd92-4055-81f6-744cee0662b9/b34f9d4d-e7c7-45e3-91d6-4596317d8e45)
 
 ## Answer to the research question (≤10 lines, confidence-labelled)
