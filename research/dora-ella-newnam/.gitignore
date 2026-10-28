@@ -6,3 +6,6 @@ genotype*.txt raw-dna*
 
 # Session OCR scratch renders (keep curated copies under sources/soundex/)
 sources/soundex-scan/
+# Full-reel ED-99 bracket renders (keep curated proof under sources/census/)
+sources/census/ed99-scan/
+sources/census/sturgeon-ed99-p*.jpg
