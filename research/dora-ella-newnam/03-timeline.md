@@ -18,6 +18,10 @@ Place as it was *at the date*; modern equivalent in brackets. Flag impossibiliti
 | 29 Dec 1881 | 10 | Sister Malissa D. m. Moses Estes at Elias Newnam’s | Lee Co., KY | C045 | S004 book |
 | 28 Feb 1884 | 12 | Sister Francis E. m. Millard F. Jones at Elias E. Newnam’s | Lee Co., KY | C046 | S004 book |
 | **Thu 10 Dec 1885** | **14** | **m1 Samuel P. Newnam, 16, at Doll Newnam’s, Rev. J. E. Dunagin; wit. Doll Newnam & Link Mays** | Lee Co., KY | C010 | S004 |
+| 10 Feb 1886 | 14 | Sister **Mary L.** (PROBABLE) m. James Hoover, age 17; **not** Dora | Lee Co., KY | C100 | S075 |
+| Jun 1886 | — | Niece **Provy/Provie Hoover** born (Elias’s granddaughter) | Lee Co., KY | C096 | S076 |
+| 19 Jul 1889 | — | Brother W. D. Newnam m. Judaliza Durbin; wit. include **Doll Newnam** | Lee Co., KY | C099 | S084 |
+| 8 May 1890 | — | James Hoover **2nd** m. Lutitia Miller (Mary L. no longer his wife) | Lee Co., KY | C100 | S084 |
 | 1886–1889 | 14–18 | Room for ≥1 of the two children dead by 1900 | Sturgeon, Lee Co. | C020 | S005 (gap) |
 | Apr 1890 | 18 | Son McCoy (Coy) born | KY | C021 | S005 |
 | 12 Jun 1893 (NUMIDENT) / Jun 1892 (1900) | ~21 | Dau. Mary Magdalene born | Beattyville / Lee Co. | C022 | S006 prior; S005 |
@@ -25,18 +29,24 @@ Place as it was *at the date*; modern equivalent in brackets. Flag impossibiliti
 | May 1897 | 25 | Dau. Rissa born | KY | C024 | S005 |
 | Aug 1899 | 28 | Son John H. born | KY | C025 | S005 |
 | **1 Jun 1900** | **28** | **Sturgeon hh 67/67: wife of Samuel, 7 born 5 living** | Sturgeon precinct, Lee Co., KY | C011 | S005 |
-| 5 Mar 1900 | 28 | BIL John Newnam d. consumption (context) | Lee Co. | — | S049 prior |
+| 1 Jun 1900 | — | Elias & Mary at Proctor hh 25/25, 6-6 children living; **Provy Hoover gdau** 13 in the house. George Burke hh 36/36 includes **Charles B. son** Nov 1879 | Proctor precinct, Lee Co., KY | C096 C097 | S076 |
+| 5 Mar 1900 | 28 | BIL John Newnam d. consumption (context) — **only** Newnam in Lee VS 1900–1904; not Samuel | Lee Co. | C098 | S077 |
 | 24 Feb 1906 (WikiTree lore) | ~34 | Alleged death of Samuel | Lee Co.? | C012 | S030 | unproved; required before 1910 by Pearl’s boarding |
 | 29 Aug 1904 | — | Loose: S. P. Newnam 30 2nd m. Rosa L. Banks, Lee — **not merged** | Lee Co. | C013 | S014 prior |
-| 15 Apr 1910 | ~38 | **Not in KY/AR/MO N-550 as Dora ~39; not in TN N-550 D-block or McCoy M-window; Coy nil KY/AR/MO/TN-C; Samuel P not a KY N-550 head; two KY Dora Stones rejected; KY child Soundex OCR nil; Sturgeon ED 99 read — no Samuel/Dora in sheets sampled; 1900 dw 67 reoccupied** | not at 1900 Sturgeon address (elsewhere unknown) | C030 C031 C031b C034–C039 C077 C083 | S020–S023 S025–S028 S058 S064 |
+| 28 Sep 1904 | — | Chas. B. Burke × Provie Hoover at Proctor; **“E. T. Newnam Granfather appeared”** | Proctor, Lee Co., KY | C096 | S074 |
+| 15 Apr 1910 | ~38 | **Not in KY/AR/MO N-550 as Dora ~39; not in TN N-550 D-block or McCoy M-window; Coy nil KY/AR/MO/TN-C; Samuel P not a KY N-550 head; two KY Dora Stones rejected; KY child Soundex OCR nil; not KY P-142 Peebles head or wife; not AR P-142 indexed Dora ~39; not in Sturgeon ED 99 as Newnam (original).** 1900 dw **67** reoccupied (Hamilton 4A / Garrett 6B) | unknown (not Sturgeon as Newnam) | C030 C031 C031b C034–C039 C077 C081–C083 C088 C106 | S020–S023 S025–S028 S058 S062 S063 S067 S089 |
 | Apr 1910 | — | Parents Elias (“Elisa”) & Mary (Smallwood) Newnam, couple alone, Proctor ED 100 dw 19/20 | Lee Co., KY | C075 | S057 |
 | 1910 | — | Pearl, 15, gdau. of Elizabeth Newmann, Buck Creek, Owsley | Owsley Co., KY ED 169 hh 141 | C026 | S041 prior |
 | 11 Jul 1918 | ~46 | Mother Mary A. Newnam d. | Lee Co. (Brandenburg-Quillen) | C047 | S032 prior |
 | Jan 1920 | ~48 | **Not in AR as Dora Stone or Dora Newnam; not in KY N-550 as Dora ~48** (Paducah 29 / Cumberland 10 / Logan 28 all rejected); not in Coy’s Danville house; not in transcribed 1920 Lee | unknown | C032 C064 | S102–S109 prior; S045 |
-| Jan 1920 | — | E.T. Neuman, 75, grandfather in C.B. Burke’s house, Beattyville (PROBABLE P004 Elias) | Beattyville, Lee Co., KY | C065 | S046 |
+| Jan 1920 | — | **Original** ED 111 sh 6A dw 106/114: C.B. Burke, postmaster; Provie, asst. postmaster; Vivie M 14; Vedia G 10; George P 3[?]/12; **Newman, E.T., Grand Father, 75 wd, none**; Bertie Combs, RR clerk; Warren C. Miller, 23, PA — PROBABLE P004 | Beattyville, Lee Co., KY | C065 C091 C095 | S073 S046 |
+| 1 Jun 1900 | — | **No** matching Tom/Thomas A. Stone ~42 b. ~1858 MO in statewide S-350 Thomas/Tom window (two Thomas A. and two Tom cards rejected) | Missouri (Soundex) | C092 | S070 |
+| **13 Jun 1900** | — | **Original:** Stone, Thomas, 44, woodchopper, + Nancy E. 33 (8/6) + five daughters, Buchanan Twp ED 159 sh 9B dw 148 — **not merged** with 1920 Tom A. | Buchanan Twp, Douglas Co., MO | C101 C102 | S085 |
 | 24 Feb 1920 | — | Tom A. Stone, 62 wd, b. MO, FIL of Tom M. Randall, tie maker | Howell Twp, Perry Co., AR ED 75 sh 8B | C050 | S104 S105 prior |
 | 18 Feb 1917 | 45 | Son McCoy m. Letha Viola Sullivan | Ola, Yell Co., AR | C027 | S024 prior |
-| **1920 × 1925** | 48–54 | **m2 T. A. Stone (PROBABLE = Tom A. Stone)** | Yell or Perry Co., AR (license unread) | C014 | S003 S104 |
+| 1896–1926 | — | **No Lee Co. license** for Dora Newnam/Newman × Peebles/Stone (Books 5–19); **no Peebles surname** in those books | Lee Co., KY | C084 | S064 |
+| 1916–1930 | — | **No Perry Co. license** for Dora × Peebles/Stone; Peoples present, Peebles absent | Perry Co., AR | C085 | S065 |
+| **1920 × 1925** | 48–54 | **m2 T. A. Stone (PROBABLE = Tom A. Stone)** — **not** a third (Peebles) marriage in the searched licenses | Yell or Perry Co., AR (license unread) | C014 C087 | S003 S104 S064 S065 |
 | 1925 | — | “Stone, Thomas, 1845–1925” at Carter Cove (index) | Yell Co., AR | C051 | S079 prior |
 | **noon 23 Aug 1926** | **55** (if b. Aug 1871) | **Death, apoplexy 1 day, Dr. Thos. W. Beal; informant Coy Newnam, Ola; spouse T. A. Stone; parents Elias Newnam & Mary Smallwood** | Ola, Yell Co., AR (res. written “Mammoth”) | C015 | S003 |
 | 24 Aug 1926 | — | Burial Carters Chapel | Carter Cove, Yell Co., AR | C016 | S003 S078 |
