@@ -7,7 +7,7 @@ Files live in `visuals/` (data file + generated SVG + alt-text table together).
 | V001 | visuals/pedigree-dora.svg (delivery) | Dora’s ancestral couple as documented: Elias × Mary; grandparents PROBABLE | C004 | family.json · `make_pedigree.py family.json --root P001 --mode pedigree --generations 3 -o visuals/pedigree-dora.svg` | Dashed links = PROBABLE | ☑ |
 | V002 | visuals/descendant-dora.svg (delivery) | Dora’s two unions and seven children (two unnamed dead before 1900) | C010 C014 C020–C025 | family.json · `--mode descendant --generations 2` | Dashed m2; unnamed children labelled Unknown | ☑ |
 | V003 | visuals/timeline-dora.svg (delivery) | Lifespans of Dora and the people who locate her | C001 C003 C010 C015 | visuals/life.csv · `make_charts.py timeline …` | Samuel’s bar ends 1910 = “dead by,” not a death date | ☑ |
-| V004 | [12-image-gallery.md](12-image-gallery.md) (delivery) | All 32 captured JPEGs, labelled and ordered by census year | C003 C060 C062 C063 C031 C038 C064 C065 C068 C069 | Hand-assembled markdown; images in `sources/census/` and `sources/soundex/` | Each plate tagged Family hit / Rejected same-name / Negative search / Context | ☑ |
+| V004 | [12-image-gallery.md](12-image-gallery.md) (delivery) | 38 captured JPEGs (32 on this PR + 6 ED 99/Fincastle from `main`), labelled and ordered by census year | C003 C060 C062 C063 C031 C038 C064 C065 C068 C069 C083 C084 | Hand-assembled markdown; images in `sources/census/` and `sources/soundex/` | Each plate tagged Family hit / Rejected same-name / Negative search / Context | ☑ |
 
 ## Family trees (family-tree-design.md)
 - Root person & direction: P001 Dora; pedigree (ancestors) and descendant (children). Cut-off: grandparents and children only (no living great-grandchildren).

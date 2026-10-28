@@ -1,6 +1,6 @@
 # Source-image gallery: Dora Ella Newnam Stone
 
-Thirty-two JPEG images captured from NARA microfilm (via Internet Archive) during this case. They are ordered by **the date of the census they record or index**, not by the date the film was scanned.
+Thirty-eight JPEG images captured from NARA microfilm (via Internet Archive) during this case. They are ordered by **the date of the census they record or index**, not by the date the film was scanned. Plates 33–38 were added in the merge of `main` (PR #7 sampled Sturgeon ED 99 / Fincastle ED 96).
 
 Soundex and Miracode cards were created later as finding aids. They sit with the census year they index (1880, 1910, 1920), immediately after any original population schedules for that year.
 
@@ -51,6 +51,12 @@ Diplomatic transcriptions: [`08-transcriptions.md`](08-transcriptions.md). Citat
 | 30 | Jan 1920 | Rejected same-name | [Kentucky N-550 — Dora E. Newman, 10, Cumberland](#30--january-1920--kentucky-n-550-dora-e-newman-10-cumberland) |
 | 31 | Jan 1920 | Negative | [Kentucky N-550 — “E” tab after the Dora window](#31--january-1920--kentucky-n-550-e-tab-after-the-dora-window) |
 | 32 | Jan 1920 | Family hit | [E. T. Neuman, 75, Beattyville, with C. B. Burke](#32--january-1920--e-t-neuman-75-beattyville-with-c-b-burke) |
+| 33 | Apr 1910 | Context | [Fincastle ED 96 sheet 7A — IA PDF 499, not Ancestry image 499](#33--april-1910--fincastle-ed-96-sheet-7a-ia-pdf-499) |
+| 34 | Apr 1910 | Negative | [Sturgeon ED 99 sheet 4A — dw 67 is Hamilton, not Samuel](#34--april-1910--sturgeon-ed-99-sheet-4a-dw-67-hamilton) |
+| 35 | Apr 1910 | Rejected same-name | [Sturgeon ED 99 sheet 5A — Elijah Newnan dw 66](#35--april-1910--sturgeon-ed-99-sheet-5a-elijah-newnan) |
+| 36 | Apr 1910 | Negative | [Sturgeon ED 99 sheet 6B — dw 67 is Garrett](#36--april-1910--sturgeon-ed-99-sheet-6b-dw-67-garrett) |
+| 37 | Apr 1910 | Rejected same-name | [Sturgeon ED 99 sheet 7A — Ruben Newnam dw 101](#37--april-1910--sturgeon-ed-99-sheet-7a-ruben-newnam) |
+| 38 | Apr 1910 | Context | [Sturgeon ED 99 sheet 9B — Ancestry image 499 = this PDF page 568](#38--april-1910--sturgeon-ed-99-sheet-9b-ancestry-image-499) |
 
 ---
 
@@ -454,4 +460,70 @@ These records exist in the case but were **not copied in as JPEGs**:
 - 1920 Arkansas Soundex/schedules for T. A. Stone
 - Later 1920 Soundex reels for Kentucky S-350, Oklahoma, Tennessee, and Missouri (OCR-searched; no plate kept)
 
-Open image captures still on the backlog: 1920 Lee County schedule for C. B. Burke / E. T. Neuman; Tom A. Stone 1925 death record; Lee County 1910 Sturgeon ED 99.
+Open image captures still on the backlog: 1920 Lee County schedule for C. B. Burke / E. T. Neuman; Tom A. Stone 1925 death record; unread remainder of Lee County 1910 Sturgeon ED 99.
+
+---
+
+## 1910 — original population schedules (added from `main` / PR #7)
+
+NARA T624 reel 478; IA `13thcensus1910po478unit`. These plates map Ancestry “image 499” and sample Sturgeon ED 99. They sit here at the end so prior plate numbers stay stable; chronologically they belong with April 1910, before the Soundex cards.
+
+### 33 · April 1910 · Fincastle ED 96 sheet 7A (IA PDF 499)
+
+**Role:** Context (method)  
+**File:** [`sources/census/1910-po478-p0499-lee-fincastle-ed96-sheet7a.jpg`](sources/census/1910-po478-p0499-lee-fincastle-ed96-sheet7a.jpg)  
+**Source:** S062 · claim C084
+
+**What it contains.** Header: Lee County, **Fincastle**, ED **96**, enumerated 29 April 1910. This is IA PDF page **499**. Ancestry “image 499” for Sturgeon ED 99 sheet 9B is **not** this page (that image is PDF **568**, plate 38).
+
+![1910 Lee County Fincastle precinct ED 96 sheet 7A, IA T624-478 PDF page 499](sources/census/1910-po478-p0499-lee-fincastle-ed96-sheet7a.jpg)
+
+### 34 · April 1910 · Sturgeon ED 99 sheet 4A, dwelling 67 Hamilton
+
+**Role:** Negative search  
+**File:** [`sources/census/1910-po478-p0557-lee-sturgeon-ed99-sheet4a.jpg`](sources/census/1910-po478-p0557-lee-sturgeon-ed99-sheet4a.jpg)  
+**Source:** S064 · claim C083
+
+**What it contains.** Sturgeon Mag. Dist. 7, ED 99, sheet 4A. Dwelling **67** is **Hamilton, Robert** — not Samuel P. Newnam. Richard Newnam appears on this sheet at another dwelling. **No** Dora ~39 in the lines on this plate.
+
+![1910 Lee County Sturgeon ED 99 sheet 4A, dwelling 67 Hamilton](sources/census/1910-po478-p0557-lee-sturgeon-ed99-sheet4a.jpg)
+
+### 35 · April 1910 · Sturgeon ED 99 sheet 5A, Elijah Newnan
+
+**Role:** Rejected same-name  
+**File:** [`sources/census/1910-po478-p0559-lee-sturgeon-ed99-sheet5a-elijah-newnan.jpg`](sources/census/1910-po478-p0559-lee-sturgeon-ed99-sheet5a-elijah-newnan.jpg)  
+**Source:** S064 · claim C083
+
+**What it contains.** Elijah **Newnan**, head, dwelling 66 — a Sturgeon Newnam, **not** Samuel P. or Dora.
+
+![1910 Lee County Sturgeon ED 99 sheet 5A, Elijah Newnan household](sources/census/1910-po478-p0559-lee-sturgeon-ed99-sheet5a-elijah-newnan.jpg)
+
+### 36 · April 1910 · Sturgeon ED 99 sheet 6B, dwelling 67 Garrett
+
+**Role:** Negative search  
+**File:** [`sources/census/1910-po478-p0560-lee-sturgeon-ed99-sheet6b-dw67-garrett.jpg`](sources/census/1910-po478-p0560-lee-sturgeon-ed99-sheet6b-dw67-garrett.jpg)  
+**Source:** S064 · claim C083
+
+**What it contains.** A later dwelling **67** on sheet 6B is **Garrett, John T.** — again not Samuel. 1900 Sturgeon dwelling 67 is reoccupied.
+
+![1910 Lee County Sturgeon ED 99 sheet 6B, dwelling 67 Garrett](sources/census/1910-po478-p0560-lee-sturgeon-ed99-sheet6b-dw67-garrett.jpg)
+
+### 37 · April 1910 · Sturgeon ED 99 sheet 7A, Ruben Newnam
+
+**Role:** Rejected same-name  
+**File:** [`sources/census/1910-po478-p0563-lee-sturgeon-ed99-sheet7a-ruben-newnam.jpg`](sources/census/1910-po478-p0563-lee-sturgeon-ed99-sheet7a-ruben-newnam.jpg)  
+**Source:** S064 · claim C083
+
+**What it contains.** Ruben **Newnam**, dwelling 101 — clan present, **not** Dora’s household.
+
+![1910 Lee County Sturgeon ED 99 sheet 7A, Ruben Newnam household](sources/census/1910-po478-p0563-lee-sturgeon-ed99-sheet7a-ruben-newnam.jpg)
+
+### 38 · April 1910 · Sturgeon ED 99 sheet 9B (Ancestry image 499)
+
+**Role:** Context (method)  
+**File:** [`sources/census/1910-po478-p0568-lee-sturgeon-ed99-sheet9b.jpg`](sources/census/1910-po478-p0568-lee-sturgeon-ed99-sheet9b.jpg)  
+**Source:** S064 · claim C084
+
+**What it contains.** ED 99 sheet **9B**, Pleasant Rader neighborhood. This IA PDF page **568** is the Ancestry/FamilySearch “image 499” for this sheet. **No** Samuel P. or Dora ~39 on the lines shown.
+
+![1910 Lee County Sturgeon ED 99 sheet 9B, IA PDF page 568](sources/census/1910-po478-p0568-lee-sturgeon-ed99-sheet9b.jpg)
