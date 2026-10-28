@@ -106,6 +106,10 @@
   sha256: 23610f8aa4c159b1b554ed1786d11f57d2f56f8a2e8994f7289ae7bd02dfca53
   format: JPEG photo, 1718x1146px
   check: full page + margins + verso? straight-on, no glare/flash, strokes several px tall? (paleography.md intake)
+/workspace/research/dora-ella-newnam/sources/soundex/tn1910-n550-p2465-melvin-giles.jpg  (167,874 bytes)
+  sha256: abef2786c2fbe8b00a469f7b8057cfdc4802d7f5010f3966b0b1b944ae407979
+  format: JPEG photo, 1718x1162px
+  check: full page + margins + verso? straight-on, no glare/flash, strokes several px tall? (paleography.md intake)
 /workspace/research/dora-ella-newnam/sources/soundex/tn1910-n550-p2466-minerva.jpg  (164,892 bytes)
   sha256: 4340443a585fadc25d224a958097a491978de03b6bedec37564921bb943b389c
   format: JPEG photo, 1718x1162px
@@ -114,6 +118,14 @@
   sha256: 340489566090880388fa6b81ca5751c5944dcaf56a7b44f70fe560788f308586
   format: JPEG photo, 1718x1146px
   check: full page + margins + verso? straight-on, no glare/flash, strokes several px tall? (paleography.md intake)
+/workspace/research/dora-ella-newnam/sources/soundex/ok1910-n550-newman-sample.jpg  (42,443 bytes)
+  sha256: 515afc0e0f06f9bca2d7d6623f0b385634ee9db6a49e816255045e41f09f93ad
+  format: JPEG photo, 388x500px
+  check: reduced sample of typed Miracode page 776 (Newman L-given-names)
+/workspace/research/dora-ella-newnam/sources/soundex/tx1910-n550-newman-dennis.jpg  (16,743 bytes)
+  sha256: a61352c7a4f005c8a45f6a03d7202b9ce263b9ba8a2a792fa92fdec6133030a0
+  format: JPEG photo, 292x188px
+  check: reduced sample of handwritten Texas N-550 family card (Dennis)
 /workspace/research/dora-ella-newnam/sources/soundex/ky1910-p142-p235-p142-starts.jpg  (83,456 bytes)
   sha256: c8918b834ac9b7cd25c04fd433c61e770fcd43cce30576ceab61d96c23f2cbae
   format: JPEG photo, 815x1094px
