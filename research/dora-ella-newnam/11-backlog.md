@@ -19,8 +19,8 @@ Prioritised queue — work top to bottom. **Do not declare research complete whi
 | B011 | open | M | AR death index 1914–1950 free | Thomas/Tom/T.A. Stone 1925 Yell/Perry | C014 conflict #4 | L039 L068 L099 L111 L118 L132 | GT Yell/Perry **nil Stone** (C122); Yell obits **Stone index nil** 1925 Thomas (C128); Digital Heritage **000/empty**; SortedByName nil AR 1925 Stone in THOMAS block; FS **Incapsula/API block** + coll. 1940760 login; Ancestry 8771 |
 | B012 | done | M | 1880 ED 59 sheet 2 n726 hh 11 | Transcribe other Samuel ~13 (keep separate) | same-person | L034 | **McQueary** Samuel 13, not Newnam |
 | B013 | done | M | 1900 MO Soundex S-350 Thomas Stone | Tom A. Stone ~42 b. MO | C050 identity | L067 | Thomas/Tom window read; **no merge**. Residual: original 1900 Douglas + Dunklin schedules (B033) |
-| B014 | partial | L | Link Mays; Rev. J. E. Dunagin 1880/1900 Lee | FAN of 1885 wedding | FAN pass | L123 L129 L130 L135 | **Link Mays** only witness row in Lee marr Books **1–15** (C127); **Jiles Mays** + Dilalrd Newnam 1889 (C125); 1900 Sturgeon **Mays** cluster mapped (S116) — **no** “Link” on transcript. **1880 ED 59 sh 1–2 nil Mays** (L135). Residual: ED 59 balance |
-| B015 | open | M | Mary Magdalene Bunch marriage/death (deceased-only) | NUMIDENT already; marriage index KY/TN | Children | | |
+| B014 | partial | L | Link Mays; Rev. J. E. Dunagin 1880/1900 Lee | FAN of 1885 wedding | FAN pass | L123 L129 L130 L135 L136 L138 | **Link Mays** only witness row in Lee marr Books **1–15** (C127); **Jiles Mays** + Dilalrd Newnam 1889 (C125); 1900 Sturgeon **Mays** cluster mapped (S116) — **no** “Link” on transcript. **1880 ED 59 sh 1–2 nil Mays** (L135). **Patsey Farley obit:** sister **Louisa Mays, Cressmont** (C130). IA T9-427 sheets 3+ **blocked** (L136). Residual: ED 59 balance when IA works |
+| B015 | open | M | Mary Magdalene Bunch marriage/death (deceased-only) | NUMIDENT already; marriage index KY/TN | Children | L121 L126 L137 | Lee Books **1–15** grep **nil Bunch** (L137 extends L121). Death month/year still absent in free NUMIDENT |
 | B016 | open | L | Rissie Newnam TN DC (deceased-only indexes) | Stamper/Pelfrey; skip living hits | Children | | |
 | B017 | done | M | IA `soundex1920mo176` N-500–N-650 | Dora Newman MO 1920 | 1920 hole | L050 | Full reel OCR nil Dora+Newman |
 | B018 | open | L | Lee Co. land grantor/grantee Newnam 1885–1911 | Samuel/Dora deeds | Asset pass | | May be on-site |
@@ -49,8 +49,8 @@ Prioritised queue — work top to bottom. **Do not declare research complete whi
 | B041 | open | L | Lee/Owsley church minutes / unmarked graves (on-site) | Samuel P. Newnam burial 1900–1910 | C012 | L098 | Published VS closed. Exact retrieval: Lee Clerk / KDLA; High View unmarked; Newnam graveyard near Pebworth (Rev. Luther Newnam officiated later funerals — do not assume) |
 
 ## Session handoff
-- **Last closed:** 28 Oct 2026 (America/New_York) · **Stopped after:** merge `origin/main` into PR #19 branch; remapped FAG sources to **S117–S118** / **C129** (PR #18) alongside main pass 19 (**C127** Link Mays, Lee books **S111–S116**).
-- **Next session starts with:** **B011** user FS coll. **1940760** or Ancestry **8771** (one 1925 Stone index row); **B039** Owsley courthouse marriage books; **B040** full T623-856 when IA works; **B007** Lorance ED 6; **B014** 1880 Mays×Newnam proximity
+- **Last closed:** 28 Oct 2026 (America/New_York) · **Stopped after:** pass 21 — Patsey Farley obit **Louisa Mays** FAN (C130); Lee Books **1–15** Bunch nil (L137); IA T9-427 ED 59 fetch block (L136); Yell GT deaths reconfirmed nil Stone (L139); git history scrubbed of **popu855** artifacts for push.
+- **Next session starts with:** **B011** user FS coll. **1940760** or Ancestry **8771** (one 1925 Stone index row); **B039** Owsley courthouse marriage books; **B040** full T623-856 when IA works; **B007** Lorance ED 6; **B014** 1880 ED 59 balance when IA restores
 
 ## Escalation log (brick walls — step number from exhaustive-research.md)
 | Date | Wall | Steps 1–8 attempted | Outcome |

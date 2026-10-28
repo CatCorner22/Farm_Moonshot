@@ -497,10 +497,9 @@ def main() -> None:
     print(f"wrote {GALLERY_MD}")
     if not args.gallery_only:
         build_pdf()
-    # Keep Word in sync whenever the narrative markdown changes.
-    import build_dora_word  # noqa: E402
+    import subprocess
 
-    build_dora_word.build_docx()
+    subprocess.run([sys.executable, str(ROOT / "scripts" / "build_dora_word.py")], check=True)
 
 
 if __name__ == "__main__":
