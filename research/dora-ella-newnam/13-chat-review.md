@@ -10,7 +10,7 @@ Reviewed 28 October 2026 (America/New_York) from Cursor cloud-agent transcripts 
 | **Ancestry research skill** | https://cursor.com/agents/bc-2ffa148f-bd17-4e95-beef-aa2f31940c4a | Authored the genealogy-detective skill. **No additional Dora biography facts.** |
 | **Dora’s early 1900s** | https://cursor.com/agents/bc-a16def3b-c4be-41e9-846c-f31bc0f8dd81 | 1910 hole; KY/AR/MO/OK/TX/TN Soundex negatives; original Sturgeon ED 99 (not still on the creek as Newnam); enumerator-name conflict; source JPEGs; 1880 Dora 8. |
 | **Dora research continuation** | https://cursor.com/agents/bc-0bd3b0b2-ec76-4a5c-93c7-10c0bfe1f312 | 1920 Beattyville original (E.T. in C.B. Burke’s house); Peebles hypothesis tested and not supported; 1900 MO Stone originals; image gallery; merge of parallel PRs; master book. |
-| **Dora biography research** (pass 18–22) | https://cursor.com/agents/bc-01a183ca-4028-7f9b-9d4c-34d4ab6671f6 | FAG Carter **S117–S118**; pass 21–22 Louisa/Larkin Mays (**C130–C133**); Rissie Lee books nil (**C134**); Word `.docx` kept current. |
+| **Dora biography research** (pass 18–23) | https://cursor.com/agents/bc-01a183ca-4028-7f9b-9d4c-34d4ab6671f6 | FAG Carter **S117–S118**; Louisa/Larkin Mays (**C130–C152**); *Brandenburg v. Petroleum Exploration* **C139**; Ida Mays license **C142**; Owsley VS marriage years **C148**; Word `.docx` kept current. |
 
 
 ## Helper chats (extractors, not new fieldwork)
@@ -50,6 +50,10 @@ Folded into the book and dossier in this pass:
 8. 1910 Sturgeon ED 99 original: not as Newnam; dwelling 67 reoccupied.
 9. 1920 E.T. Newman, grandfather, in the Beattyville postmaster’s house.
 10. Tom A. Stone 1920 Perry Co. probable, 1900 MO candidates all rejected or unmerged.
+
+## Pass 24 (28 Oct 2026, America/New_York)
+
+T623-856 PDF retained (865 pages). Greene ED **39** (Springfield ward 2) mapped and **visually** read for Stone on sheets 6–10, ~16, 24, 26 B, 31 B — **nil**. Thomas A. remains reel 855 ED 37 sh 18 A. Tesseract on this reel is not evidence. 1910 Proctor full transcript: no Louisa Mays/Brandenburg; three Dora daughters rejected; Celia McGuire ≠ Sshelia. SortedByName Louisa Brandenburg / Mary Bunch pages: no 1951 Louisa death, no Mary Magdalene death date. Lee KDI B 1911–1929 nil Louisa. TSLA named search still not executed. Word book rebuilt.
 
 ## Instruction for the next chat
 
