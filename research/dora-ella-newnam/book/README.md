@@ -1,5 +1,7 @@
 # Biography book
 
+Style: Kenneth A. Adams (one word, one meaning; short sentences; consistent names) and Annie Jacobsen (date and place first; what the record shows; then what it proves). No lore as fact.
+
 Master narrative (edit this; then rebuild):
 
 - [`Dora-Ella-Newnam-Stone-A-Life.md`](Dora-Ella-Newnam-Stone-A-Life.md)

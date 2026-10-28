@@ -124,8 +124,8 @@ def styles() -> dict[str, ParagraphStyle]:
     )
     s["body"] = ParagraphStyle(
         "body", parent=base["Normal"], fontName="LibSerif", fontSize=10.5,
-        leading=15.2, textColor=INK, alignment=TA_JUSTIFY, spaceAfter=9,
-        firstLineIndent=14,
+        leading=15.2, textColor=INK, alignment=TA_JUSTIFY, spaceAfter=8,
+        firstLineIndent=0,
     )
     s["body_first"] = ParagraphStyle(
         "body_first", parent=s["body"], firstLineIndent=0,
@@ -396,8 +396,8 @@ def build_pdf() -> None:
     story.append(Spacer(1, 0.35 * inch))
     story.append(Paragraph(
         "Lee County, Kentucky · Yell County, Arkansas<br/>"
-        "Two documented marriages · Sixty-one archival plates<br/>"
-        "Compiled 28 October 2026 from every research chat in this project",
+        "Two documented marriages · 61 archival plates<br/>"
+        "What the records show. Nothing else.",
         st["cover_meta"],
     ))
     story.append(PageBreak())
@@ -413,8 +413,8 @@ def build_pdf() -> None:
 
     story.append(Paragraph("Part I — The life", st["part"]))
     story.append(Paragraph(
-        "Written in Standard English and active voice from cited records only. "
-        "Confidence below proved is stated in the sentence, not hidden in a footnote.",
+        "One name for one person. Dates first. What the record shows, then what it proves. "
+        "Where the records stop, the book stops.",
         st["epigraph"],
     ))
     story.append(PageBreak())
