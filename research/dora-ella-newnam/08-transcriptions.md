@@ -244,12 +244,36 @@ See S047/S068. N-index rows (as printed):
 
 Year-file collisions **not merged:** Cordelia Abner d. 6 Apr 1914 age 24y 3m 2d, parents Sam Newnam & Elza Newnam (C093); Maria SMITH d. 26 Feb 1915, mother Ella NEWNAM, father Charlie SMITH (C094). → C090.
 
-## DOC014 — 1920 Beattyville Precinct 1 hh 106–114 (transcription)
-Source: S069. **Original not seen.** Enumerator Harry L. Perkins. Household as transcribed:
+## DOC014 — 1920 Beattyville Precinct 1 hh 106–114 (USGenNet transcription)
+Source: S069. **Superseded for this household by DOC016 (original).** Kept as a derivative check. USGenNet’s “Warren Misser?” is **Miller, Warren C** on the original; Combs-families missed daughter Vivie M., 14.
 
-> 106-114 C.B. BURKE head 40 md w KyKyKy Provie wife 30 md w KyKyKy nee HOOVER Vivie M. dau 14 s w KyKyKy Vedia G. dau 10 s w KyKyKy George P. son 3 ?/12 s w KyKyKy (b 5/21/1917) **E.T. NEWMAN gfather 75 wd w KyKyKy** Bertie COMBS border 32 f s w KyKyKy WARREN MISSER? border 23 s w PaPaPa
+## DOC016 — 1920 U.S. census, Lee Co. KY, ED 111 sheet 6A (original)
+- Image file(s) + SHA-256: `sources/census/1920-lee-ky-ed111-sh6a-burke-et-newman.jpg` · `1204695da599b00c4080d8d08220e096669c861b93b0429c53278176bee66bfd` (2405×1688, inverted from 90 dpi PDF render); crop `sources/census/1920-lee-ky-ed111-sh6a-burke-hh-crop.jpg` · `dc314b3f6355ae488b45ae6627d43f4b2c216a04174e7ceab7e98544fbcedcb3`
+- Page: IA `14thcensusofpopu586unit` PDF p. 14; NARA T625 reel 586; SD [7?], ED 111, sheet **6 A**; stamped ~065
+- Provenance: NARA microfilm via Internet Archive, accessed 28 Oct 2026. Saw: scan (JPEG of inverted PDF page). Original paper not seen ☐
+- Language / script / hands: English; one enumerator hand (Harry L. Perkins), 1920 census bookhand
+- Image quality: **sufficient** after invert+autocontrast for names, relationships, ages, nativity, and occupations of lines 17–24. Street column on these lines is blank. George P.’s months `[?]`. Farm-schedule number on the Burke pair reads **1818** `[?]`.
+- Enhancements: invert, autocontrast, contrast 1.6, sharpen 1.4 (working copies under `/tmp/pass11/inv/`)
 
-Matches S046 Soundex (Neuman, E.T., Grand Father of Burke, C.B.). Which Elias daughter is C.B.’s mother is **unresolved**. → C091.
+### Diplomatic transcription (dwelling 106 / family 114 only; Pass 1+2 from the inverted JPEG)
+
+Header:
+> State Kentucky · County Lee · Beattyville Precinct No. 1 · Name of incorporated place Beattyville Town  
+> Supervisor’s Dist. No. [7?] · Enumeration Dist. No. **111** · Sheet No. **6 A**  
+> Enumerated by me on the **12** day of Jan, 1920. / **Harry L. Perkins**, Enumerator.
+
+| Line | Name | Rel | Own | Sex/Race/Age/Mar | School / R/W | POB / FPOB / MPOB | Occupation | Emp |
+|---|---|---|---|---|---|---|---|---|
+| 17 | Burke, C.B. | Head | O F | M W 40 M | — / yes yes | Kentucky / Kentucky / Kentucky | Postmaster, Beattyville | W |
+| 18 | — Provie | Wife | | F W 30 M | — / yes yes | Kentucky / Kentucky / Kentucky | Asst Postmaster | W |
+| 19 | — Vivie M | Daughter | | F W 14 S | yes / yes yes | Kentucky / Kentucky / Kentucky | none | |
+| 20 | — Vedia G | Daughter | | F W 10 S | yes / yes yes | Kentucky / Kentucky / Kentucky | none | |
+| 21 | — George P | Son | | M W 3 [?]/12 S | — | Kentucky / Kentucky / Kentucky | none | |
+| 22 | Newman, E.T. | Grand Father | | M W 75 Wd | — / yes yes | Kentucky / Kentucky / Kentucky | none | |
+| 23 | Combs, Bertie | Boarder | | F W 32 S | — / yes yes | Kentucky / Kentucky / Kentucky | Clerk, Rail Road Office | W |
+| 24 | Miller, Warren C | Boarder | | M W 23 S | — / yes yes | Pennsylvania / Pennsylvania / Pennsylvania | Supt [of] Warren Co. | W |
+
+{Note} Soundex card S046 files the street as Grand Ave.; that street name is **not** written beside dw 106 on this sheet. Relationship “Grand Father” is to the *head* per census instructions; independent records (DOC014 derivatives + S074 + S076) show E.T. is grandfather of **Provie**, not of C.B. → C091 C095 C096 C097.
 
 ## DOC015 — 1900 Missouri Soundex S-350, Thomas→Tom window
 IA `soundex1900mo244`. Inverted JPEGs; diplomatic from images. Cards that matter:

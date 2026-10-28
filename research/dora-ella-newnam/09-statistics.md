@@ -31,7 +31,12 @@ Write population/denominator/period/exclusions BEFORE computing (statistics.md).
 
 ## Misleading-presentation screen (20-item catalogue in statistics.md)
 - Screened my claims ☑ · Screened key cited sources ☑ (WikiTree “abt. 1930” is an unsourced round year — discarded)
-- Issues found & fixed: do not convert 2/7 into “40% child mortality in the family” without n and CI; do not average 1868 and 1871 into 1869–70; do not treat Soundex absence as “she did not exist” — it is “not under that surname in that state.” Do not promote a Peebles third marriage from family memory: every located Dora Peebles/Peeples fails the same-person test, and home-county licenses are nil; “not supported” ≠ “impossible in an unread county.” Do not treat “Newnams in 1910 Sturgeon” as Dora’s household — four other Newnam houses are in ED 99 and fail the same-person test. Do not average 1920 age 62 with 1900 ages 32/44/50 into a fake birth year for Tom A. Stone.
+- Issues found & fixed: do not convert 2/7 into “40% child mortality in the family” without n and CI; do not average 1868 and 1871 into 1869–70; do not treat Soundex absence as “she did not exist” — it is “not under that surname in that state.” Do not promote a Peebles third marriage from family memory: every located Dora Peebles/Peeples fails the same-person test, and home-county licenses are nil; “not supported” ≠ “impossible in an unread county.” Do not treat “Newnams in 1910 Sturgeon” as Dora’s household — four other Newnam houses are in ED 99 and fail the same-person test. Do not average 1920 age 62 with 1900 ages 32/44/50 into a fake birth year for Tom A. Stone. Do not read 1920 “Grand Father” of C.B. Burke as proof that an Elias daughter is C.B.’s mother — 1900 and the 1904 license show E.T. is grandfather of **Provie**. Do not treat census age 75 (Jan 1920) as disproving a birth of 18 Apr 1842 (that man would be 77); two-year census drift is common.
+
+### A006 — 1920 Burke household (whose grandfather?)
+- Population: one enumerated relationship (“Grand Father”) plus two independent records of Provie Hoover’s tie to Elias.
+- Counts: (1) 1900 Provy Hoover **gdau** of Elias; (2) 1904 “E. T. Newnam Granfather appeared” at Provie × C.B. Burke; (3) 1900 Charles B. **son** of George Burke. **Zero** records name an Elias daughter as C.B.’s mother.
+- This is a **concordance count**, not a rate. It supports C097 as a resolved conflict, not a probability of relatedness.
 
 ### A005 — 1910 Sturgeon ED 99 Newnam households (negative control)
 - Population: named Newnam/Newman persons on the original ED 99 schedules (sheets 1A–13B).

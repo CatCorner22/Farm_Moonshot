@@ -190,3 +190,11 @@
   sha256: 4e279e6ff42f1df2de4892600f22d2ae0beee46d82162594c6c573db447b9c3b
   format: JPEG photo, 468x311px
   check: full card, inverted
+/workspace/research/dora-ella-newnam/sources/census/1920-lee-ky-ed111-sh6a-burke-et-newman.jpg  (1,151,144 bytes)
+  sha256: 1204695da599b00c4080d8d08220e096669c861b93b0429c53278176bee66bfd
+  format: JPEG photo, 2405x1688px
+  check: full page + margins; inverted from IA PDF p. 14 (90 dpi); strokes several px tall
+/workspace/research/dora-ella-newnam/sources/census/1920-lee-ky-ed111-sh6a-burke-hh-crop.jpg  (218,737 bytes)
+  sha256: dc314b3f6355ae488b45ae6627d43f4b2c216a04174e7ceab7e98544fbcedcb3
+  format: JPEG photo, 2405x237px
+  check: lines 17–24 crop of inverted sheet 6A (Burke/Newman household)
