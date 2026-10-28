@@ -25,7 +25,7 @@ Prioritised queue — work top to bottom. **Do not declare research complete whi
 | B017 | done | M | IA `soundex1920mo176` N-500–N-650 | Dora Newman MO 1920 | 1920 hole | L050 | Full reel OCR nil Dora+Newman |
 | B018 | open | L | Lee Co. land grantor/grantee Newnam 1885–1911 | Samuel/Dora deeds | Asset pass | | May be on-site |
 | B019 | open | M | 1870 Travellers Rest Elias household (image) | Confirm Dora not yet born; siblings | H2 1868 birth already DISPROVED | L038 | Transcription seen; IA reel 494 image not isolated |
-| B020 | open | L | Carter Cove / yellcountyobits workaround | Newman, Dora; Stone, Thomas | C016 | | 403 last pass |
+| B020 | partial | L | Carter Cove / yellcountyobits workaround | Newman, Dora; Stone, Thomas | C016 C124 | L120 | FAG cemetery search S111–S112; yellcountyobits still unread; full memorial pages CF-blocked |
 | B021 | done | M | 1920 Lee Co. KY schedule: Burke C.B. / E.T. Newnam | Elias as grandfather in Beattyville; which daughter married Burke? | FAN of P004; may name Dora | L036 L066 L069–L072 | **Original + FAN closed.** E.T. is grandfather of **Provie** (née Hoover), not of C.B. Burke |
 | B022 | done | H | Owsley / Lee pre-1911 deaths; Lee 1912–1929 index | Samuel P Newnam d. 1900–1911 | C012 | L053 L054 L055 L037 L065 L086 | Lee 1911–1929 N-index **and** year files 1912–1929 **nil** Samuel/Dora/Elias/McCoy/John H. Pre-1911 local registers → B034 |
 | B028 | done | H | USGenNet Lee 1910 Proctor (+ Fincastle/NewVA grep) | Elias/Mary; Samuel/Dora absent? | FAN 1910 | L052 | Parents at Proctor ED 100 |
@@ -45,12 +45,12 @@ Prioritised queue — work top to bottom. **Do not declare research complete whi
 | B037 | done | L | 1910 Lee KY Sturgeon ED 99 sheet **8A** header (T624-478 jp2 p.564) | Re-read enumerator signature: Elam Brandenburg vs Elton E. Newnam | conflict #13 | L102 | **Surname Treadway** on the original (C113). Given name not picked. Brandenburg / Newnam readings withdrawn as confident claims |
 | B038 | done | H | All project chats → master biography book | Combine chats; journalistic PDF with every saved JPEG | Written conclusion | L090 | `book/Dora-Ella-Newnam-Stone-A-Life.md` + `.pdf` (80 pp, 61 plates). Rebuild: `python3 scripts/build_dora_book.py` |
 | B039 | open | L | Owsley / Lee census + marriage index + later DCs (deceased-only) | Robert & Sallie Newnam of Pebworth, parents of Lester d. 1909 | FAN of P002’s Owsley line | L096 L106 L110 L113 L115 L116 | **Robert** = Farley stepson (C116). Lee Books **4, 6–9 nil** Robert×Sallie (C120). **1910 Buck hh 91** index = **UNUM** Robert + wife **Martha** (C123) — weakens C119 Newnam slip. Owsley/rootsweb 1880–1920 marry pages 404. Not merged with Samuel |
-| B040 | partial | H | IA `12thcensusofpopu855unit` + **`856unit`** (T623-855/856) Greene Co. | ED **37** balance + EDs **38–39** Stone sweep (Thomas A. found sh **18A**) | C117 / conflict #11 | L097 L100 L103 L104 L109 L112 L119 | **Thomas A. on sh 18A (C117).** Sh 17A ln 25 not Thomas (C112). OCR **0817–0880 nil** extra Stone (C121). Reel **855** ends ED **39 sh 1–5**; ED 39 tail on **856**. IA jp2 fetch **404** this pass (L117) |
+| B040 | partial | H | IA `12thcensusofpopu855unit` + **`856unit`** (T623-855/856) Greene Co. | ED **37** balance + EDs **38–39** Stone sweep (Thomas A. found sh **18A**) | C117 / conflict #11 | L097 L100 L103 L104 L109 L112 L119 L121 | **Thomas A. on sh 18A (C117).** PDF pp **815–827, 834, 840** vision nil extra Stone (L121). Residual: **856** ED 39 tail |
 | B041 | open | L | Lee/Owsley church minutes / unmarked graves (on-site) | Samuel P. Newnam burial 1900–1910 | C012 | L098 | Published VS closed. Exact retrieval: Lee Clerk / KDLA; High View unmarked; Newnam graveyard near Pebworth (Rev. Luther Newnam officiated later funerals — do not assume) |
 
 ## Session handoff
-- **Last closed:** 28 Oct 2026 · **Stopped after:** merge with `main` (PR #16) + pass 17: Buck index **UNUM** Robert hh 91 (C123); Lee Book 4 nil; Greene reel ED 39→856; IA jp2 + FS search blocked from VM.
-- **Next session starts with:** **B011** user FS 1940760 or Ancestry 8771; **B039** Owsley marriage register; **B040** T623-856 + unread ED 38 when IA works; B007 Lorance
+- **Last closed:** 28 Oct 2026 · **Stopped after:** pass 18 — FAG Carter **Dora Newman** / **Thomas Stone** listings (L120); Greene PDF Stone spot-check (L121); chat review confirmed master files.
+- **Next session starts with:** **B011** 1925 Stone DC (FS 1940760 / Ancestry 8771); **B040** T623-856; **B010** press; B007 Lorance; B039 Owsley marriage books
 
 ## Escalation log (brick walls — step number from exhaustive-research.md)
 | Date | Wall | Steps 1–8 attempted | Outcome |
