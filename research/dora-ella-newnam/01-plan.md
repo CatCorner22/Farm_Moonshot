@@ -9,7 +9,7 @@
 - **Records created, kept, destroyed (with source for gaps):**
   - 1890 population census destroyed (fire); 1890 veterans schedule survives (Lee Co. transcribed).
   - Lee Co. vital statistics online: births 1874–75 fragment; deaths extracts 1911–1939; marriage books transcribed USGenNet (Book 2 seen).
-  - 1910 Sturgeon district: USGenNet lists the file but it is untranscribed (404). **Statewide 1910 KY Soundex N-550 now searched for Dora and McCoy — nil.**
+  - 1910 Sturgeon district: USGenNet lists the file but it is untranscribed (404). **Original ED 99 (T624-478, IA PDF 551–578) read this pass — nil for P001 as Newnam.** Statewide 1910 KY Soundex N-550 searched for Dora and McCoy — nil.
   - Yell Co. 1910/1920 schedules: no free full transcription. **1920 AR Soundex searched prior session; 1910 AR Soundex N-550 Dora/Coy/McCoy searched this session — nil.**
   - Yell County Journal (Ola, 1925–1934): not freely indexed.
 - **Gazetteers/maps consulted:** Encyclopedia of Arkansas — Ola; Rennick Lee Co. post offices (Heidelberg, Banford, Cressmont, Idamay); USGS Nimrod Dam quadrangle (Carter Cemetery / Carters Chapel / Howell Twp) — prior session. This session did not re-download the quadrangle.
@@ -17,7 +17,7 @@
 ## Hypotheses
 - **H1 (accepted story):** Dora Ella, daughter of Elias T. “Doll” Newnam and Mary Ann Smallwood, b. Lee Co. Aug 1871; m1 Samuel P. Newnam 10 Dec 1885; five surviving children by 1900; widowed before 1910; in Arkansas by Coy’s 1917 marriage; m2 T. A. Stone (prob. Tom A. Stone of Perry Co.) 1920–25; d. Ola 23 Aug 1926; buried Carter Cove as “Newman, Dora.”
 - **H2 (alternative):** Birth year 1868 as on the death certificate is correct; 1900 and 1885 ages are understatements. **Tested this session against 1880 age 8 — fails.**
-- **H3:** 1910 she had already remarried (not to Stone — he is a widower in Jan 1920) and is indexed under a third surname. Still open for surnames **other than** Peebles/Peeples/Peoples. **H3-Peebles (user hypothesis):** not supported. Statewide 1910 KY P-142 household block **PROVEN negative** for Dora ~39 as head or as a wife named Dora; 1910 AR P-142 D-window **PROVEN negative** for an indexed Dora ~39 (two other Doras rejected); Lee marriage books 5–19 have **zero** Peebles surname and no Dora Newnam remarriage. A short unindexed Peebles license outside Lee/Perry remains only SPECULATIVE.
+- **H3:** 1910 she had already remarried (not to Stone — he is a widower in Jan 1920) and is indexed under a third surname. Still open for surnames **other than** Peebles/Peeples/Peoples **and other than remaining a Newnam in Sturgeon ED 99** (original now nil). **H3-Peebles (user hypothesis):** not supported. Statewide 1910 KY P-142 household block **PROVEN negative** for Dora ~39 as head or as a wife named Dora; 1910 AR P-142 D-window **PROVEN negative** for an indexed Dora ~39 (two other Doras rejected); Lee marriage books 5–19 have **zero** Peebles surname and no Dora Newnam remarriage. A short unindexed Peebles license outside Lee/Perry remains only SPECULATIVE.
 - **H4:** She and/or Coy were in Missouri (Bollinger — Letha’s people), Oklahoma, Texas, or Tennessee in 1910, not KY or AR. **1910 MO/OK/TX/TN N-550 Newman Dora ~39 nil** (MO/TN prior; OK `soundex1910ok091` and TX `soundex1910tx173` pass 4). Coy/McCoy nil in MO, TN, KY, AR. H4 as *Newman/Newnam heads or individually carded persons* is closed for **MO, TN, OK, and TX**. A wife enumerated under a husband’s given name is still possible (H3).
 - **H0 (null — accepted story is wrong because…):** Dora Stone of the 1926 certificate is a different Dora; Coy Newnam of Ola is not the 1900 McCoy. Falsified by: informant Coy Newnam + parents Elias Newnam & Mary Smallwood on the certificate + 1900 household + NUMIDENT of Pearl and Mary naming Sam & Dora + 1880 child Dora in Elias’s house.
 
@@ -72,3 +72,7 @@ Wildcard strings to use: `New*m`, `Dor* New*`, `"Doll Newnam"`, `McCoy OR Coy Ne
 | 23 | 1910 AR Miracode P-142 D-window | IA `soundex1910ar091` printed pp. ~178–193 | H3-Peebles as AR 1910 Dora ~39 | **nil for P001** (Dora Sykes 19 and Dora Bell 16 rejected) |
 | 24 | Lee Marriage Books 5–19 (1896–1926) | USGenNet | Dora × Peebles/Stone/Newnam remarriage | **nil** Peebles surname; **nil** Dora Newnam bride after 1885 |
 | 25 | Perry AR Books F–G P/N/S (1916–1930) | ARGenWeb | Dora × Peebles/Stone; T.A. Stone license | Peoples not Peebles; **no** Dora×Stone/Newnam |
+| 26 | 1910 Lee Sturgeon ED 99 original | IA `13thcensus1910po478unit` PDF 551–578 / T624-478 | P001/P002/McCoy still in 1900 precinct? | **nil** for those persons; other Newnams present (C089) |
+| 27 | Lee deaths 1912–1929 year files + N-index | USGenNet | Samuel P as decedent | **nil**; Cordelia Abner / Ella NEWNAM collisions rejected |
+| 28 | 1900 MO S-350 Thomas→Tom | IA `soundex1900mo244` PDF ~1676–1728 | Tom A. Stone ~42 b. MO | **no merge**; two Thomas A. and two Tom cards fail |
+| 29 | 1920 Beattyville Pct 1 transcription | USGenNet `bt.html` | Elias as Burke grandfather | **found** hh 106–114; original T625-586 unread |

@@ -142,3 +142,51 @@
   sha256: d4103783edbe01af0a8f0f0eb1d05b41baea53faa907e18fb28be46e31581d24
   format: JPEG photo, 868x1015px
   check: full page + margins + verso? straight-on, no glare/flash, strokes several px tall? (paleography.md intake)
+/workspace/research/dora-ella-newnam/sources/census/1910-lee-ky-ed99-p551.jpg  (546,501 bytes)
+  sha256: d46fc76ba9cfafba2773e20e8fe386d33d75e5f618f743d9f4510c267407831b
+  format: JPEG photo, 2254x1546px
+  check: full page + margins + verso? straight-on, no glare/flash, strokes several px tall? (paleography.md intake)
+/workspace/research/dora-ella-newnam/sources/census/1910-lee-ky-ed99-p557.jpg  (548,719 bytes)
+  sha256: f9314c2bc6fbfeb89f4687461a975fcb6e8f8f6e674e62da52067cb4ad931180
+  format: JPEG photo, 2254x1570px
+  check: full page + margins + verso? straight-on, no glare/flash, strokes several px tall? (paleography.md intake)
+/workspace/research/dora-ella-newnam/sources/census/1910-lee-ky-ed99-p561.jpg  (539,564 bytes)
+  sha256: 11c331f46c946c86ff41b66684c136a5a06b3e1ec2197edc15cd2a32001c276b
+  format: JPEG photo, 2254x1560px
+  check: full page + margins + verso? straight-on, no glare/flash, strokes several px tall? (paleography.md intake)
+/workspace/research/dora-ella-newnam/sources/census/1910-lee-ky-ed99-p563.jpg  (558,199 bytes)
+  sha256: a1c9d2cbfef048e932a6727d084634cc953dc5bff940d31d6693041ab39ea416
+  format: JPEG photo, 2249x1565px
+  check: full page + margins + verso? straight-on, no glare/flash, strokes several px tall? (paleography.md intake)
+/workspace/research/dora-ella-newnam/sources/census/1910-lee-ky-ed99-p576.jpg  (550,971 bytes)
+  sha256: d0b20cdf0b4a85729311415bc1659ee9e0c9aaf6645aa5a90ae1d1cfd53d9f87
+  format: JPEG photo, 2268x1575px
+  check: full page + margins + verso? straight-on, no glare/flash, strokes several px tall? (paleography.md intake)
+/workspace/research/dora-ella-newnam/sources/soundex/mo1900-s350-p1678-stone-thomas-44-douglas.jpg  (25,936 bytes)
+  sha256: 09d64fa4d0fa379021c64b0283b1502060cd7a7f48245ae154e34b8f0f9977a3
+  format: JPEG photo, 425x296px
+  check: full card + margins? inverted Soundex card, strokes several px tall? (paleography.md intake)
+/workspace/research/dora-ella-newnam/sources/soundex/mo1900-s350-p1679-stone-thomas-douglas-jesse.jpg  (19,943 bytes)
+  sha256: 430a733b21718d8e7d9cefe45f734c82d9ccc0927d3f8e376ced234c5edf9eaa
+  format: JPEG photo, 428x296px
+  check: continuation card (A-3), inverted
+/workspace/research/dora-ella-newnam/sources/soundex/mo1900-s350-p1680-stone-thomas-50-caldwell.jpg  (24,891 bytes)
+  sha256: d4a29c636ebb429f91a752ce81f445d0802460e10fe7a8d209d85e892db1f6d3
+  format: JPEG photo, 468x323px
+  check: full card, inverted
+/workspace/research/dora-ella-newnam/sources/soundex/mo1900-s350-p1684-stone-thomas-a-32-dunklin.jpg  (25,242 bytes)
+  sha256: 1d123f572eb0d74f78ab3277099f0c7e06ae66c6ee04006584e8cd64c30d4648
+  format: JPEG photo, 423x299px
+  check: full card, inverted
+/workspace/research/dora-ella-newnam/sources/soundex/mo1900-s350-p1685-stone-thomas-a-24-cooper.jpg  (23,218 bytes)
+  sha256: f140499ecc783aa234176d0b8645628cc3b9757f1c1175e586c390692df6df6d
+  format: JPEG photo, 471x308px
+  check: full card, inverted
+/workspace/research/dora-ella-newnam/sources/soundex/mo1900-s350-p1727-stone-tom-black-21.jpg  (22,865 bytes)
+  sha256: 1f6143abb1977b8af7ca0762c2d1cc14927a29e0f236b06159a3c6010377eafa
+  format: JPEG photo, 473x311px
+  check: full card, inverted
+/workspace/research/dora-ella-newnam/sources/soundex/mo1900-s350-p1728-stone-tom-31-vernon.jpg  (24,033 bytes)
+  sha256: 4e279e6ff42f1df2de4892600f22d2ae0beee46d82162594c6c573db447b9c3b
+  format: JPEG photo, 468x311px
+  check: full card, inverted
