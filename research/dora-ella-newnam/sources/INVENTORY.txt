@@ -218,3 +218,19 @@ research/dora-ella-newnam/sources/census/1900-douglas-mo-ed159-stone-hh-crop.jpg
   sha256: 79fffff5b3df2d9332df7b5e082f656acc3bb77d6aec3f53d198bfe4add7d2d8
   format: JPEG photo, 2860x527px
   check: full page + margins + verso? straight-on, no glare/flash, strokes several px tall? (paleography.md intake)
+research/dora-ella-newnam/sources/census/1900-lee-ky-ed52-sturgeon-sh4b-samuel-dora.jpg  (3,291,706 bytes)
+  sha256: 742573439abb789e7ea86fba0d1086d8ff9c54bc18565dea756e38c8f7fa2f9e
+  format: JPEG photo, 3827x3787px
+  check: full page + margins; invert+autocontrast of IA jp2 0940; strokes several px tall
+research/dora-ella-newnam/sources/census/1900-lee-ky-ed52-sturgeon-hh67-crop.jpg  (665,685 bytes)
+  sha256: 625516e123919fa1a3f8be09fd9969d17b96877bb72cc4253f8ed2549d4d6ac2
+  format: JPEG photo, 3827x682px
+  check: lines 70–76 crop of inverted sheet 4B (Newman dwelling 67)
+research/dora-ella-newnam/sources/census/1910-lee-ky-ed99-sheet8a-enumerator-treadway.jpg  (1,651,206 bytes)
+  sha256: 011ebfe5883a08f0462e0f5309eb90ffd51eee591c3fe596e27d4686102f7d55
+  format: JPEG photo, 3780x2624px
+  check: full page + margins; invert+autocontrast of IA jp2 0564; strokes several px tall
+research/dora-ella-newnam/sources/census/1910-lee-ky-ed99-sheet8a-enumerator-crop.jpg  (126,567 bytes)
+  sha256: b6304498c385358774a044e44d7229c2e315a6eee425eb28d70a24a63f049a6b
+  format: JPEG photo, 1815x577px
+  check: header crop of inverted sheet 8A (enumerator signature)

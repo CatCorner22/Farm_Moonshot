@@ -51,7 +51,7 @@ Wildcard strings to use: `New*m`, `Dor* New*`, `"Doll Newnam"`, `McCoy OR Coy Ne
 | 2 | 1880 KY Soundex N-550 | IA `soundex1880ky055` n2105–2106 | Pointer + continuation | **found this session** |
 | 3 | 1910 KY Miracode/Soundex N-550 Dora & McCoy | IA `soundex1910ky124` | Statewide individual cards | **nil Dora (prior+this); nil McCoy this session** |
 | 4 | 1910 AR Soundex N-550 Dora, Coy, McCoy | IA `soundex1910ar087` n665–702 | Statewide | **nil this session** |
-| 5 | 1900 Sturgeon hh 67 | USGenNet / RootsWeb transcription | Samuel & Dora + 5 children | **transcription seen this session** |
+| 5 | 1900 Sturgeon hh 67 | NARA T623-537 / IA `12thcensusofpopu537unit` jp2 0940; USGenNet transcription as derivative | Samuel & Dora + 5 children | **original image** (sheet 4B, Morgan J. Treadway, 8 Jun 1900) |
 | 6 | Lee Marriage Book 2 | USGenNet | 10 Dec 1885 Dora Ella × Samuel P. | **transcription seen this session**; FS image Q2QD-PZHL unread |
 | 7 | AR death cert. Dora Stone 1524 | User image / AR vital records | Death, parents, spouse, informant, burial | Prior session; not re-opened |
 | 8 | 1920 AR Soundex S-350 / N-550 | IA (prior) | Tom A. Stone; no Dora Stone/Newnam; Coy in Danville | Prior session; do not redo |

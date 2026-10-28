@@ -181,11 +181,11 @@ Typed Miracode, IA `soundex1910ar091` printed pp. 178–203.
 - → C083.
 
 ## DOC012 — 1910 U.S. census, Lee Co., KY, Sturgeon Precinct 7, ED 99 (original)
-NARA T624-478; IA `13thcensus1910po478unit` PDF 551–578. Enumerator **Elam Brandenburg**. SD 10. Ancestry “image 499” ≠ this PDF page (PDF 499 = Lee ED 96 sh 7A). ED 100 Proctor starts PDF 579.
+NARA T624-478; IA `13thcensus1910po478unit` PDF 551–578. Enumerator **Ellora[?] Treadway**, no. 51 (DOC019; earlier “Elam Brandenburg” withdrawn). SD 10. Ancestry “image 499” ≠ this PDF page (PDF 499 = Lee ED 96 sh 7A). ED 100 Proctor starts PDF 579.
 
 ### Sheet 1A (PDF 551) — `1910-lee-ky-ed99-p551.jpg`
 SHA-256 `d46fc76ba9cfafba2773e20e8fe386d33d75e5f618f743d9f4510c267407831b` · 2254×1546.
-Header: State Kentucky · County Lee · Precinct 7 Mag. Dist. 7 · enumerated 15 April · Elam Brandenburg. Dwelling 1 onward is **not** a Newnam house (first heads include coal-miner households). Confirms start of ED 99.
+Header: State Kentucky · County Lee · Precinct 7 Mag. Dist. 7 · enumerated 15 April. Dwelling 1 onward is **not** a Newnam house (first heads include coal-miner households). Confirms start of ED 99. Enumerator name: see DOC019.
 
 ### Sheet 4A (PDF 557) — `1910-lee-ky-ed99-p557.jpg`
 SHA-256 `f9314c2bc6fbfeb89f4687461a975fcb6e8f8f6e674e62da52067cb4ad931180` · 2254×1570. Enum. 21 April.
@@ -325,3 +325,65 @@ Thomas Stone, 44, woodchopper, and wife Nancy E., 33, married 18 years, with fiv
 
 ## DOC009 — 1910 TN Soundex N-550 McCoy window (nil)
 Handwritten family/individual cards n2461–n2469. Sequence after Mary C (n2460): Mary D 49 Jefferson (son Layton 11); Mary M 70 Hamilton; Mek. G 50 Cheatham (Florence 19, John 17, General 16, Frances 13, William 10, Doria 6, Luther 1½); Melvin 3½ Giles (gs of Deacon George W); Melvin 54 Giles (SIL of same); Minerva 80 Robertson (gds Lona Neely, Nellie Erwin); Minnie 21 Roane (with Sam P. Sparks); Mitchell 27 Hardin (Ollie P 25, Gladys 4, Burl W 3, Royal E 1 9/12). **No McCoy.** SHA-256 n2463 `23610f8aa4c159b1b554ed1786d11f57d2f56f8a2e8994f7289ae7bd02dfca53`; n2469 `340489566090880388fa6b81ca5751c5944dcaf56a7b44f70fe560788f308586`.
+
+## DOC018 — 1900 U.S. census, Lee Co. KY, Precinct 6 (Sturgeon), ED 52 sheet 4B (original)
+- Image file(s) + SHA-256: `sources/census/1900-lee-ky-ed52-sturgeon-sh4b-samuel-dora.jpg` · `742573439abb789e7ea86fba0d1086d8ff9c54bc18565dea756e38c8f7fa2f9e` (3827×3787); crop `sources/census/1900-lee-ky-ed52-sturgeon-hh67-crop.jpg` · `625516e123919fa1a3f8be09fd9969d17b96877bb72cc4253f8ed2549d4d6ac2` (3827×682)
+- Page: IA `12thcensusofpopu537unit` jp2 `0940`; NARA T623 reel 537; SD 10, ED **52**, sheet **4 B**
+- Provenance: NARA microfilm via Internet Archive, accessed 28 Oct 2026. Saw: scan (JPEG of jp2, invert + autocontrast). Original paper not seen ☐
+- Language / script / hands: English; one enumerator hand (Morgan J. Treadway), 1900 census bookhand
+- Image quality: **sufficient** after invert+autocontrast for dwelling numbers, names, relationships, birth month/year, ages, marriage duration, and children-born/living of lines 70–76. Occupation of Samuel reads Farmer; McCoy Farm laborer. Nativity columns KY/KY/KY for the household.
+- Enhancements: invert (mean of page dark), autocontrast cutoff 1, contrast 1.35, sharpness 1.25 (working copies under `/tmp/dora-pass13/1900/`)
+
+### Diplomatic transcription (dwelling 67 / family 67 only; Pass 1+2 from the inverted JPEG)
+
+Header:
+> State **Kentucky** · County **Lee** · Precinct **6 (Sturgeon)**  
+> Supervisor’s Dist. No. **10** · Enumeration Dist. No. **52** · Sheet No. **4 B**  
+> Enumerated by me on the **8th** day of June, 1900. / **Morgan J. Treadway**, Enumerator.
+
+| Line | Dw/Fam | Name | Rel | Color/Sex | Birth | Age | S/M | Yrs mar | Ch. born/liv | POB / FPOB / MPOB | Occupation |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| 70 | 67/67 | Newman, Samuel | Head | W M | June 1869 | 30 | M | 14 | — | Kentucky / Kentucky / Kentucky | Farmer |
+| 71 | | — Dora E. | Wife | W F | Aug 1871 | 28 | M | 14 | 7 / 5 | Kentucky / Kentucky / Kentucky | — |
+| 72 | | — McCoy | Son | W M | Apr 1890 | 10 | S | | | Kentucky / Kentucky / Kentucky | Farm laborer |
+| 73 | | — Mary M. | Daughter | W F | June 1892 | 7 | S | | | Kentucky / Kentucky / Kentucky | — |
+| 74 | | — Pearl | Daughter | W F | Mar 1895 | 5 | S | | | Kentucky / Kentucky / Kentucky | — |
+| 75 | | — Rissa | Daughter | W F | May 1897 | 3 | S | | | Kentucky / Kentucky / Kentucky | — |
+| 76 | | — John H. | Son | W M | Aug 1899 | 9/12 | S | | | Kentucky / Kentucky / Kentucky | — |
+
+{Note} County transcription S005 agrees on every relied-on field. The enumerator wrote **Newman**, not Newnam. Line 69 above is Gillespie, Celora, daughter; line 77 below is Smith, Alexander, head — neighbors, not merged. Census night remains 1 June 1900. → C011 C107 C020 C021–C025.
+
+### Normalised reading
+Samuel Newman, 30, farmer, and wife Dora E., 28, married 14 years, seven children born five living, with McCoy 10, Mary M. 7, Pearl 5, Rissa 3, and John H. nine months, Sturgeon Precinct 6, Lee County, Kentucky, enumerated 8 June 1900.
+
+### Facts extracted → claim IDs
+- Dora E. Aug 1871 age 28, 7/5, wife of Samuel at Sturgeon 67 → C001 C011 C107
+- Five named children with months as above → C021–C025
+- Two of seven children dead by census night → C020
+
+## DOC019 — 1910 U.S. census, Lee Co. KY, Sturgeon ED 99, sheet 8A header (enumerator signature)
+- Image file(s) + SHA-256: `sources/census/1910-lee-ky-ed99-sheet8a-enumerator-treadway.jpg` · `011ebfe5883a08f0462e0f5309eb90ffd51eee591c3fe596e27d4686102f7d55` (3780×2624); crop `sources/census/1910-lee-ky-ed99-sheet8a-enumerator-crop.jpg` · `b6304498c385358774a044e44d7229c2e315a6eee425eb28d70a24a63f049a6b` (1815×577)
+- Page: IA `13thcensus1910po478unit` jp2 `0564` (sheet 8A); comparison jp2 `0566` (sheet 9A, not catalogued as a separate JPEG)
+- Provenance: NARA microfilm via Internet Archive, accessed 28 Oct 2026. Saw: scan (JPEG of jp2, invert + autocontrast). Original paper not seen ☐
+- Language / script / hands: English; one enumerator hand on 8A and 9A
+- Image quality: **sufficient** for district numbers, sheet number, date, surname, and enumerator number. Given name is less certain than the surname.
+- Enhancements: invert, autocontrast, contrast 1.35 (working copies under `/tmp/dora-pass13/`)
+
+### Diplomatic transcription (header only; Pass 1+2)
+
+Sheet 8A (jp2 0564):
+> Supervisor’s District No **10** · Enumeration District No **99** · Sheet No **8 A**  
+> Enumerated by me on the **30** day of **April**, 1910, **Ellora[?] Treadway**, Enumerator **51**.
+
+Sheet 9A (jp2 0566), same hand:
+> Supervisor’s District No **10** · Enumeration District No **99** · Sheet No **9 A**  
+> Enumerated by me on the **3** day of **May**, 1910, **Ellora[?] Treadway**, Enumerator **51**.
+
+{Note} Surname letterforms are T-r-e-a-d-w-a-y on both sheets. They are not Brandenburg and not Newnam. Given-name minims support Ellora; Elam, Elora, and Lora remain possible. 1900 Sturgeon enumerator was Morgan J. Treadway (DOC018) — same surname, same precinct; not a same-person merge. 1920 Sturgeon (USGenNet) has Lora Treadway, 33, daughter of M. Joseph Treadway — FAN lead only (B039). Elma Brandenburg, 17 in 1920, is too young to be this enumerator. Earlier complete-name readings Elam Brandenburg (L064) and Elton E. Newnam (L089) are **DISPROVED**. → C108 C109. Does not change C088 (Dora is still not on ED 99 as Newnam).
+
+### Normalised reading
+The 1910 Sturgeon enumeration district 99 enumerator signed Treadway, number 51. The given name is uncertain.
+
+### Facts extracted → claim IDs
+- Enumerator surname Treadway; not Brandenburg; not Elton E. Newnam → C108
+- Given name Ellora possible only → C109

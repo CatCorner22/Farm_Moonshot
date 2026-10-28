@@ -6,7 +6,7 @@ Master narrative (edit this; then rebuild):
 
 - [`Dora-Ella-Newnam-Stone-A-Life.md`](Dora-Ella-Newnam-Stone-A-Life.md)
 
-Compiled PDF with all 61 plates and the four family charts:
+Compiled PDF with all 65 plates and the four family charts:
 
 - [`Dora-Ella-Newnam-Stone-A-Life.pdf`](Dora-Ella-Newnam-Stone-A-Life.pdf)
 

@@ -69,6 +69,21 @@ PLATES: list[dict] = [
         caption="Continuation card: Newnam, Dora, daughter, 8, Kentucky; Catharine, daughter, 6. This is the index confirmation of Plate 5.",
         source="S002",
     ),
+    # --- 1900 Sturgeon original (Dora’s household) ---
+    dict(
+        n=8, date="8 Jun 1900", year=1900, role="family",
+        path="census/1900-lee-ky-ed52-sturgeon-sh4b-samuel-dora.jpg",
+        title="Sturgeon ED 52 sheet 4B — Samuel and Dora at dwelling 67",
+        caption="Lee County, Kentucky, Precinct 6 (Sturgeon), supervisor’s district 10, enumeration district 52, sheet 4B. Morgan J. Treadway enumerated this sheet on 8 June 1900. Census night remains 1 June. Dwelling 67/67 is the Newman household. The enumerator wrote Newman, not Newnam. This is the original of the county transcription used until this pass.",
+        source="S090 · C011 · C107",
+    ),
+    dict(
+        n=9, date="8 Jun 1900", year=1900, role="family",
+        path="census/1900-lee-ky-ed52-sturgeon-hh67-crop.jpg",
+        title="Dwelling 67 crop — Samuel, Dora E., five living children",
+        caption="Lines 70–76. Newman, Samuel, head, born June 1869, age 30, married 14 years, farmer. Dora E., wife, born August 1871, age 28, married 14 years, seven children born, five living. McCoy, son, April 1890, 10. Mary M., daughter, June 1892, 7. Pearl, daughter, March 1895, 5. Rissa, daughter, May 1897, 3. John H., son, August 1899, nine months. Neighbors on the crop (Gillespie above, Smith below) are not merged with this house.",
+        source="S090 · C011 · C020 · C021–C025",
+    ),
     # --- 1900 Missouri Stone search ---
     dict(
         n=8, date="13 Jun 1900", year=1900, role="rejected",
@@ -336,14 +351,14 @@ PLATES: list[dict] = [
         n=45, date="Apr 1910", year=1910, role="context",
         path="census/1910-po478-p0499-lee-fincastle-ed96-sheet7a.jpg",
         title="Fincastle ED 96 sheet 7A — Internet Archive PDF page 499",
-        caption="Method note. Ancestry’s “image 499” is not this PDF page. Page 499 on the Internet Archive reel is Fincastle, ED 96, not Sturgeon. Sturgeon sheet 9B is PDF page 568 (Plate 54).",
+        caption="Method note. Ancestry’s “image 499” is not this PDF page. Page 499 on the Internet Archive reel is Fincastle, ED 96, not Sturgeon. Sturgeon sheet 9B is PDF page 568.",
         source="S067 · C082/C084",
     ),
     dict(
         n=46, date="15 Apr 1910", year=1910, role="context",
         path="census/1910-lee-ky-ed99-p551.jpg",
         title="Sturgeon ED 99 sheet 1A — the precinct begins",
-        caption="Lee County, Precinct 7, Mag. Dist. 7, 15 April 1910. Header on this pass read Elam Brandenburg (a later pass read Elton E. Newnam on sheet 8A — conflict #13, unresolved). Dwelling 1 is not a Newnam house. Dora is not on this sheet.",
+        caption="Lee County, Precinct 7, Mag. Dist. 7, 15 April 1910. Dwelling 1 is not a Newnam house. Dora is not on this sheet. The enumerator of this district signed Treadway, not Brandenburg and not Elton E. Newnam (conflict 13, resolved).",
         source="S067 · C088",
     ),
     dict(
@@ -394,6 +409,20 @@ PLATES: list[dict] = [
         title="Sturgeon ED 99 sheet 7A (second capture) — Ruben Newnam",
         caption="Parallel capture of Reuben/Ruben Newnam at dwelling 101. Same rejection.",
         source="S089 · C088",
+    ),
+    dict(
+        n=54, date="30 Apr 1910", year=1910, role="context",
+        path="census/1910-lee-ky-ed99-sheet8a-enumerator-treadway.jpg",
+        title="Sturgeon ED 99 sheet 8A — enumerator signed Treadway",
+        caption="Internet Archive jp2 0564 on reel 13thcensus1910po478unit. Supervisor’s district 10, enumeration district 99, sheet 8A. Enumerated 30 April 1910. The signature is a Treadway, enumerator number 51. It is not Elam Brandenburg. It is not Elton E. Newnam. Sheet 9A of the same district repeats the same surname.",
+        source="S091 · C108",
+    ),
+    dict(
+        n=55, date="30 Apr 1910", year=1910, role="context",
+        path="census/1910-lee-ky-ed99-sheet8a-enumerator-crop.jpg",
+        title="Sheet 8A header crop — Ellora[?] Treadway, enumerator 51",
+        caption="Diplomatic reading of the header: “Enumerated by me on the 30 day of April, 1910, Ellora[?] Treadway, Enumerator 51.” Surname Treadway is probable. Given name Ellora is possible (Elam, Elora, and Lora remain open). Both earlier complete-name readings are disproved.",
+        source="S091 · C108 · C109",
     ),
     dict(
         n=54, date="Apr 1910", year=1910, role="context",
@@ -453,6 +482,9 @@ PLATES: list[dict] = [
         source="S073 · C091",
     ),
 ]
+
+for _i, _plate in enumerate(PLATES, start=1):
+    _plate["n"] = _i
 
 
 def plate_path(plate: dict) -> Path:

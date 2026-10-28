@@ -28,7 +28,7 @@ Place as it was *at the date*; modern equivalent in brackets. Flag impossibiliti
 | 15 Mar 1895 | 23 | Dau. Pearl P. born | Banford (postal name later) / Lee | C023 | S007 prior; S005 |
 | May 1897 | 25 | Dau. Rissa born | KY | C024 | S005 |
 | Aug 1899 | 28 | Son John H. born | KY | C025 | S005 |
-| **1 Jun 1900** | **28** | **Sturgeon hh 67/67: wife of Samuel, 7 born 5 living** | Sturgeon precinct, Lee Co., KY | C011 | S005 |
+| **1 Jun 1900** | **28** | **Sturgeon hh 67/67: wife of Samuel, 7 born 5 living** (original ED 52 sh 4B, enum. 8 Jun, Morgan J. Treadway; clerk wrote Newman) | Sturgeon precinct, Lee Co., KY | C011 C107 | S090 S005 |
 | 1 Jun 1900 | — | Elias & Mary at Proctor hh 25/25, 6-6 children living; **Provy Hoover gdau** 13 in the house. George Burke hh 36/36 includes **Charles B. son** Nov 1879 | Proctor precinct, Lee Co., KY | C096 C097 | S076 |
 | 5 Mar 1900 | 28 | BIL John Newnam d. consumption (context) — **only** Newnam in Lee VS 1900–1904; not Samuel | Lee Co. | C098 | S077 |
 | 24 Feb 1906 (WikiTree lore) | ~34 | Alleged death of Samuel | Lee Co.? | C012 | S030 | unproved; required before 1910 by Pearl’s boarding |

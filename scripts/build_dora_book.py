@@ -305,7 +305,7 @@ def build_gallery_markdown() -> None:
     lines = [
         "# Source-image gallery: Dora Ella Newnam Stone",
         "",
-        f"Sixty-one JPEG images captured from NARA microfilm (via Internet Archive) during this case. "
+        f"{len(PLATES)} JPEG images captured from NARA microfilm (via Internet Archive) during this case. "
         f"They are ordered by **the date of the census they record or index**, not by the date the film was scanned.",
         "",
         "Soundex and Miracode cards sit with the census year they index, immediately after any original population schedules for that year.",
@@ -341,7 +341,7 @@ def build_gallery_markdown() -> None:
             heading = {
                 1870: "1870 — original population schedules",
                 1880: "1880 — schedules and Soundex",
-                1900: "1900 — Missouri Stone search (Tom A. candidates)",
+                1900: "1900 — Sturgeon original, then Missouri Stone search",
                 1910: "1910 — Soundex, Peebles test, and Sturgeon ED 99",
                 1920: "1920 — Kentucky Newman index and Beattyville original",
             }[current_year]

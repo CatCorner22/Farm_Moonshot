@@ -68,11 +68,13 @@ On 10 February 1886, ten weeks after Dora’s wedding, Mary L. Newnam, age 17, m
 
 They stayed on Sturgeon Creek.
 
-On 1 June 1900, Samuel, born June 1869, married 14 years, and Dora E., born August 1871, age 28, stood at dwelling 67. Five children were in the house: McCoy, April 1890; Mary M., June 1892; Pearl, March 1895; Rissa, May 1897; and John H., August 1899, nine months old. Dora reported seven children born, five living. [C011] [C020–C025] [S005]
+On 8 June 1900, Morgan J. Treadway enumerated Precinct 6, Sturgeon, enumeration district 52, sheet 4B. Census night remains 1 June.
+
+At dwelling 67 he wrote Newman, Samuel, head, born June 1869, age 30, married 14 years, farmer. Dora E., wife, born August 1871, age 28, married 14 years, seven children born, five living. Then the children: McCoy, son, April 1890, 10; Mary M., daughter, June 1892, 7; Pearl, daughter, March 1895, 5; Rissa, daughter, May 1897, 3; John H., son, August 1899, nine months. All Kentucky-born, parents Kentucky-born. He wrote Newman, not Newnam. [C011] [C107] [C020–C025] [S090] [S005]
 
 The two who died have no names in any record yet read. Two deaths in seven births is a household count. It is not a county rate.
 
-The original 1900 population schedule is not among the 61 plates. The household is known from a county transcription. Recovering the microfilm page remains open.
+The original sheet is in this book. The county transcription matches it on every relied-on field.
 
 Pearl later opened a Social Security account as Pearl P. Jackson, also known as Pearl P. Newnam. She named her parents Sam Newnam and Dora Newnam. She named her birthplace Banford, Lee County, 15 March 1895. Banford was the post office on Sturgeon Creek from 1902 to 1934. She died in Shelby County, Tennessee, on 19 September 1980. [S007]
 
@@ -103,6 +105,8 @@ Dora is in no Kentucky N-550 card under Dora. McCoy is in no Kentucky N-550 card
 Their parents were still in the county. At Proctor, enumeration district 100, dwelling 19/20, the 1910 schedule lists Elias — the enumerator wrote Elisa — and Mary (Smallwood) Newnam as a couple. Dora is not in their line. [C075]
 
 She was not still on Sturgeon Creek under Newnam. The original 1910 Sturgeon schedule, enumeration district 99, still has Newnams: Richard and Sarah; Reuben and Nannie; John and Ollie; Harry and Albert as brothers-in-law in a Ross house; Elijah Newnan; and a different John H. Newman with a grown son Malcum. None of them is Dora, Samuel, McCoy, or the child born in August 1899. The 1900 dwelling 67 site is occupied by a Hamilton household on one sheet and a Garrett household on another. [C088] [C106]
+
+The enumerator of that district signed on 30 April 1910. The surname is Treadway. The enumerator number is 51. Sheet 9A, 3 May, repeats the same surname. The given name reads Ellora, with Elam, Elora, and Lora still possible. It is not Elam Brandenburg. It is not Elton E. Newnam. Those two earlier complete-name readings are disproved. Morgan J. Treadway had enumerated the same precinct in 1900. That is the same surname, not a same-person merge. [C108] [C109] [S091]
 
 The statewide indexes close the obvious surnames and states.
 
@@ -184,7 +188,7 @@ Two children born to Dora and Samuel died before 1 June 1900. They have no names
 
 ## How to read the plates
 
-Part II of the PDF prints every JPEG preserved in this case. There are 61 frames. They are ordered by the date of the record, not by the date of the scan.
+Part II of the PDF prints every JPEG preserved in this case. There are 65 frames. They are ordered by the date of the record, not by the date of the scan.
 
 Four roles appear in the captions:
 
@@ -211,8 +215,8 @@ Conflict 9: which 1870–1880 household is Samuel’s.
 
 Conflicts 4 and 11: which Missouri Thomas Stone, if any, is the 1920 Perry County widower.
 
-Conflict 13: whether the 1910 Sturgeon enumerator signed Elam Brandenburg or Elton E. Newnam.
+Conflict 13 is closed. The 1910 Sturgeon enumerator signed Treadway.
 
-John H. Mary Bunch’s death. Rissie’s Tennessee identification. The two unnamed children.
+John H. Mary Bunch’s death. Rissie’s Tennessee identification. The two unnamed children. The original 1870 Travellers Rest page for Elias. Samuel’s death in the 1905–1910 local gap.
 
 Do not reopen Peebles as a third marriage without a license. Do not print 1868 or 24 February 1906 as facts.
