@@ -1,0 +1,14 @@
+Pass 46 — B047 cross-border WWI draft workaround log (29 Oct 2026)
+
+Lee County (GT transcript): 1126 rows, nil Newnam/Newman/McCoy — see lee-wwi-genealogytrails-parse-2026-10-29.txt
+
+Adjacent / relocation targets:
+- Genealogy Trails Owsley WWI: HTTP 404
+- Genealogy Trails Estill WWI: HTTP 404
+- Genealogy Trails AR Perry WWI: HTTP 404
+- Genealogy Trails AR Yell WWI: HTTP 404
+- KYGenWeb Knox WWI N-index: Mod_Security 406
+- Knox County TN ww1.cgi POST: HTTP 404 (legacy CGI dead)
+- Missouri Digital Heritage collection p16795coll54 (WWI Biography & Service Records): ContentDM search Newnam=0, Newman=0 hits
+
+Not searched (blocked): FamilySearch M1509 images (Incapsula); IA worldwaridraftregistrationcards empty for KY Lee.
