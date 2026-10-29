@@ -297,6 +297,18 @@ IA `12thcensusofpopu537unit` PDF **p. 943**, accessed 29 Oct 2026. **Image seen.
 
 Dw/fam **85/85** · ED **52** · Sturgeon Precinct 6 · enum. **11 Jun 1900** · Morgan J. Treadway. → **C191** / **S233**.
 
+## DOC021 — 1880 Lee ED 59 dw 102 Flanary (original)
+
+IA `10thcensus0427unit` PDF **p. 738**, accessed 29 Oct 2026. **Image seen.** File: `sources/census/1880-lee-ed59-p738-dw102-flanary.jpg` · SHA-256 `cd0d71c30e7286bc9b475a1fc18c86e4855354694001c821523ad1b00c2831fd`.
+
+| Line | Diplomatic transcription | Notes |
+|---|---|---|
+| 35–38 | **Flanary, Spence** head **36** farmer; **Elizabeth** wife **34**; **Andrew** son **12**; **Mary** dau **10** | Dw/fam **102/102** |
+| 39 | **Brashears, William** **80** | Relationship partly illegible on original |
+| — | **No Mays surname** in household | Mortality **Mary MAYS** 83 d. Jan 1880 also keyed to hh **102** (**S120**) → **C224** |
+
+Stamped census p. **13** · enum. **9 Jun 1880** · James J. Hampton.
+
 ## DOC019 — 1910 KY Miracode G-600 Hardin Gray (typed card)
 
 IA `soundex1910ky064` p.443. **Image seen** 29 Oct 2026.
