@@ -15,7 +15,7 @@ Reviewed 28 October 2026 (America/New_York) from Cursor cloud-agent transcripts 
 | **Dora Word book + git sync** | https://cursor.com/agents/bc-3b441f4a-2cce-5eb2-bfc4-5a210a6ac0ce | `.docx` / git hygiene (parallel to book agents). **No location fieldwork.** |
 | **Dora location search** (orchestrator) | https://cursor.com/agents/bc-995d22ea-9633-4d0d-a5ef-c36b6ff78d03 | User goal: locations **1900 → death**; spawned web-search workers; **no new record-backed residence** in transcript (delegation only). |
 | **Dora 1900–1912 location web search** | https://cursor.com/agents/bc-e3326e8c-597f-53c8-b831-fd8cc5dec482 | Sub-agent of location pass; transcript **empty** at fetch (still RUNNING). |
-| **Dora 1913–1926 location web search** | https://cursor.com/agents/bc-359a99fe-a390-5c02-a0a4-986d794942fa | Sub-agent of location pass; transcript **empty** at fetch (still RUNNING). |
+| **Dora 1913–1926 location web search** | https://cursor.com/agents/bc-359a99fe-a390-5c02-a0a4-986d794942fa | **L162–L169**, **C137–C145**, **S127–S130**: Carter Cemetery gazetteer; T625-86 ED map; GT/ARGenWeb/yellcountyobits nil Stone 1925–26; **no new PROVEN residence** beyond Coy 1917 Ola and 1926 death. |
 | **Review Farm_Moonshot project chats** | https://cursor.com/agents/bc-281c57f3-937a-5920-aa1c-3d8221b38f54 | This inventory pass (**L161**). |
 
 
@@ -72,7 +72,7 @@ Folded into the book and dossier in this pass:
 | Jan 1920 | **Not** KY/AR Soundex as Dora ~48 (**negative**) | bc-0bd3b0b2, bc-a16def3b | Yes |
 | Jan 1920 | E.T. Newman in **Beattyville** (C.B. Burke hh) — grandfather, not Dora (**PROBABLE**) | bc-0bd3b0b2 | Yes |
 | Jan 1920 | Tom A. Stone **Howell Twp, Perry Co., AR** (**PROBABLE** m2 husband) | bc-01a17a5a | Yes |
-| Jan 1920 | **1920 town of Ola**, Yell Co. = ED **200**, NARA **T625-86** — no free IA/transcript; Dora Stone **not** in published extracts (**chat lead → B046**) | bc-01a17a5a only | **Not** in `.md` book yet |
+| Jan 1920 | **1920 town of Ola**, Yell Co. = ED **200**, NARA **T625-86** — no free IA/transcript; Dora Stone **not** in published extracts (**chat lead → B046**) | bc-01a17a5a; **L162–L169** (agent bc-359a99fe) | Yes — book § *Places: 1900 to death*; **B046** open for original ED 200 |
 | 1920–1925 | m2 Stone; Yell/Perry license unread (**PROBABLE**) | bc-01a17a5a | Yes |
 | 23–24 Aug 1926 | Death **Ola**; res. field “Mammoth, Ark.” (**S003**); burial **Carters Chapel** / Carter Cove (**PROBABLE**) | bc-01a17a5a (user DC image) | Yes |
 

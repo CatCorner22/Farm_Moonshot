@@ -66,6 +66,28 @@ Those NUMIDENT files were read in the first research chat. They close identity f
 
 ---
 
+## Places: 1900 to death
+
+This section states only what records pin Dora’s **physical location**. Confidence labels match the dossier (`06-dossier.md`).
+
+**1 June 1900 — PROVEN.** Sturgeon precinct, Lee County, Kentucky, dwelling 67/67, with husband Samuel P. Newnam and five living children. [C011] [S005]
+
+**1900–April 1910 — PROBABLE Kentucky, place unknown.** Samuel is not a Kentucky Newman head in April 1910; Pearl is in Owsley with widowed grandmother Elizabeth — consistent with Samuel’s death before that census, but **no death certificate, obituary, or burial record** names him or a place. Lee vital-statistics gaps for 1905–1910 and published cemetery transcripts are **nil** for Samuel P. [C012] [C090] [C110] An August 1904 Lee license for **S. P. Newnam** × Rosa L. Banks is **not merged** with Samuel; if it were the same man, Lee County would still be the last documented venue for those initials — not Dora’s whereabouts. [C136]
+
+**April 1910 — UNKNOWN (honest gap).** After statewide Soundex and original-schedule negatives in Kentucky, Arkansas, Missouri, Oklahoma, and Texas, plus Tennessee Coy/McCoy negatives and Peebles negatives, she is **not** located under Newman, Newnam, Stone, or Peebles at thirty-nine. She is **not** on the original Sturgeon ED 99 schedule as a Newnam; the 1900 dwelling 67 site is reoccupied. [C030] [C088] [C033] This is not proof she left Kentucky; it is proof the usual indexes and the Sturgeon original do not show her.
+
+**January 1920 — UNKNOWN for P001; FAN in two states.** She is **not** in Arkansas or Kentucky Soundex as Dora Stone or Dora Newman ~48. Coy is at **Danville**, Yell County, Arkansas, with wife Letha; Dora is **not** in that house. [C032] [C139] Her father Elias T. Newman, widowed, is in **Beattyville**, Lee County, in C. B. Burke’s postmaster household — Dora is **not** there. [C091] [C141] Tom A. Stone, widowed, is in **Howell Township, Perry County, Arkansas** — adjacent timber country to Carter Cove, but that is **his** address, not hers. [C050] [C145] The **1920 Ola** town schedule (ED 200 on NARA T625-86) has **not** been read; absence from published extracts is **not** proof she was absent from Ola. [B046]
+
+**18 February 1917 — PROVEN event, PROBABLE inference for mother.** McCoy Newnam married Letha Viola Sullivan at **Ola**, Yell County. [C027] [S024] That is the first **documented Arkansas event** for this family. It does not state that Dora stood at the courthouse; it makes **western Arkansas** plausible from 1917 onward.
+
+**1920–August 1926 — PROBABLE Lamar / Carter Cove sector, Yell County.** No census line names her as Mrs. Stone. Burial geography, death registration at **Ola**, informant Coy of **Ola**, and husband Thomas Stone’s **1925** marker at Carter Cove support residence in that neighborhood after **probable** remarriage to T. A. Stone. [C014] [C016] [C144] [C129] The death certificate residence field reads **“Mammoth, Ark.”** — printed as written; no Mammoth post office is known in Yell or Perry, and a **Nimrod** misread remains **untested** against the certificate image. [C143]
+
+**23 August 1926 — PROVEN.** Death at **Ola**, Yell County, Arkansas; burial **Carters Chapel / Carter Cemetery**, Lamar Township (Carter Cove). [C015] [C138] [S003]
+
+**Missouri, Tennessee, Oklahoma, Texas — not documented as her home** in the 1900–1926 window except as **negative** Soundex/census searches (Newman Dora ~39 in 1910; ~48 in Jan 1920). Greene County, Missouri, holds a **Thomas A. Stone** household in 1900 that may be the same man as Perry County’s 1920 widower — that pins **Tom A.**, not Dora, and is **not merged**. [C117] [C050]
+
+---
+
 ## Chapter 4. The years the census lost
 
 Samuel disappears from free records. WikiTree’s 24 February 1906 is unsourced lore and is not printed here as a death date. [C012] [S030] What is not lore is the next sighting of a child.
