@@ -54,8 +54,8 @@ Prioritised queue — work top to bottom. **Do not declare research complete whi
 | B046 | done | H | 1920 Yell ED **200** + **ED 191** (T625-86) | Dora Stone/Newnam ~48 | 1920 hole | L184 L185 | **ED 200** full read (**C213–C214**, **S225**); **ED 191** partial (**C215**, **S226**) |
 
 ## Session handoff
-- **Last closed:** 29 Oct 2026 (America/New_York) · **Stopped after:** **L257** — **B011/B015/B018** marked **blocked** with user retrieval paths (**R001**, **R007**, **R008**).
-- **Next session starts with:** User handoffs above **or** resume **partial** lines (**B014**, **B007**, 1910 hole residuals); run `audit_dossier.py` before PROVEN GPS claim
+- **Last closed:** 29 Oct 2026 (America/New_York) · **Stopped after:** merge **`origin/main`** into branch; retained **L257** hard blocks (**B011/B015/B018**).
+- **Next session starts with:** User handoffs (**R001/R007/R008**) or resume **partial** lines (**B014**, **B007**); run `audit_dossier.py` before PROVEN GPS claim
 
 
 ## Escalation log (brick walls — step number from exhaustive-research.md)
