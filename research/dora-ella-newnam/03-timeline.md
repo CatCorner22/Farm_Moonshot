@@ -38,18 +38,20 @@ Place as it was *at the date*; modern equivalent in brackets. Flag impossibiliti
 | Apr 1910 | — | Parents Elias (“Elisa”) & Mary (Smallwood) Newnam, couple alone, Proctor ED 100 dw 19/20 | Lee Co., KY | C075 | S057 |
 | 1910 | — | Pearl, 15, gdau. of Elizabeth Newmann, Buck Creek, Owsley | Owsley Co., KY ED 169 hh 141 | C026 | S041 prior |
 | 11 Jul 1918 | ~46 | Mother Mary A. Newnam d. | Lee Co. (Brandenburg-Quillen) | C047 | S032 prior |
-| Jan 1920 | ~48 | **Not in AR as Dora Stone or Dora Newnam; not in KY N-550 as Dora ~48** (Paducah 29 / Cumberland 10 / Logan 28 all rejected); not in Coy’s Danville house; not in transcribed 1920 Lee | unknown | C032 C064 | S102–S109 prior; S045 |
+| **1913–1916** | ~42–45 | **No record read places P001** (Lee N-index 1913 has unrelated **Maud L. Newman** only; Owsley VS **Clara Newnam** infant 1913 — not P001) | **unknown** | C137 | S047 S060 L153 |
+| 18 Feb 1917 | 45 | Son McCoy m. Letha Viola Sullivan | Ola, Yell Co., AR | C027 | S024 prior |
+| Jan 1920 | ~48 | **Not in AR as Dora Stone or Dora Newnam; not in KY N-550 as Dora ~48** (Paducah 29 / Cumberland 10 / Logan 28 all rejected); not in Coy’s Danville house; not in transcribed 1920 Lee | unknown | C032 C064 C139 C140 | S102–S109 prior; S045 |
 | Jan 1920 | — | **Original** ED 111 sh 6A dw 106/114: C.B. Burke, postmaster; Provie, asst. postmaster; Vivie M 14; Vedia G 10; George P 3[?]/12; **Newman, E.T., Grand Father, 75 wd, none**; Bertie Combs, RR clerk; Warren C. Miller, 23, PA — PROBABLE P004 | Beattyville, Lee Co., KY | C065 C091 C095 | S073 S046 |
 | 1 Jun 1900 | — | **No** matching Tom/Thomas A. Stone ~42 b. ~1858 MO in statewide S-350 Thomas/Tom window (two Thomas A. and two Tom cards rejected) | Missouri (Soundex) | C092 | S070 |
 | **13 Jun 1900** | — | **Original:** Stone, Thomas, 44, woodchopper, + Nancy E. 33 (8/6) + five daughters, Buchanan Twp ED 159 sh 9B dw 148 — **not merged** with 1920 Tom A. | Buchanan Twp, Douglas Co., MO | C101 C102 | S085 |
-| 24 Feb 1920 | — | Tom A. Stone, 62 wd, b. MO, FIL of Tom M. Randall, tie maker | Howell Twp, Perry Co., AR ED 75 sh 8B | C050 | S104 S105 prior |
-| 18 Feb 1917 | 45 | Son McCoy m. Letha Viola Sullivan | Ola, Yell Co., AR | C027 | S024 prior |
+| 24 Feb 1920 | — | Tom A. Stone, 62 wd, b. MO, FIL of Tom M. Randall, tie maker | Howell Twp, Perry Co., AR ED 75 sh 8B | C050 C145 | S104 S105 prior |
+| **1920–Aug 1926** | 48–55 | **Probable** residence Lamar / Carter Cove sector after m2 **T. A. Stone** — **no census schedule or street address read for P001 as Mrs. Stone**; Coy at Danville (1920) then informant **Ola** (1926) | Yell Co., AR (Lamar Twp / Ola / Carter Cove) | C144 | S003 S078 S117 C014 |
 | 1896–1926 | — | **No Lee Co. license** for Dora Newnam/Newman × Peebles/Stone (Books 5–19); **no Peebles surname** in those books | Lee Co., KY | C084 | S064 |
 | 1916–1930 | — | **No Perry Co. license** for Dora × Peebles/Stone; Peoples present, Peebles absent | Perry Co., AR | C085 | S065 |
 | **1920 × 1925** | 48–54 | **m2 T. A. Stone (PROBABLE = Tom A. Stone)** — **not** a third (Peebles) marriage in the searched licenses | Yell or Perry Co., AR (license unread) | C014 C087 | S003 S104 S064 S065 |
 | 1925 | — | “Stone, Thomas, 1845–1925” at Carter Cove (index) | Yell Co., AR | C051 | S079 prior |
-| **noon 23 Aug 1926** | **55** (if b. Aug 1871) | **Death, apoplexy 1 day, Dr. Thos. W. Beal; informant Coy Newnam, Ola; spouse T. A. Stone; parents Elias Newnam & Mary Smallwood** | Ola, Yell Co., AR (res. written “Mammoth”) | C015 | S003 |
-| 24 Aug 1926 | — | Burial Carters Chapel | Carter Cove, Yell Co., AR | C016 | S003 S078 |
+| **noon 23 Aug 1926** | **55** (if b. Aug 1871) | **Death, apoplexy 1 day, Dr. Thos. W. Beal; informant Coy Newnam, Ola; spouse T. A. Stone; parents Elias Newnam & Mary Smallwood** | Ola, Yell Co., AR (res. written “Mammoth” — **C143** open) | C015 C142 C143 | S003 |
+| 24 Aug 1926 | — | Burial Carters Chapel | Carter Cove / Carter Cemetery, Lamar Twp, Yell Co., AR (**C138**) | C016 C138 | S003 S078 S127 S129 |
 | 18 Apr 1932 | — | Father Elias d. on his birthday, age 90 | Beattyville, Lee Co., KY | C048 | S011 prior |
 
 **Impossibility flags:** None. Mother ~29 at Dora’s 1871 birth (Mary b. 1842). Dora age 14 at marriage is legal/period-possible (KY) though young; 1880 age 8 corroborates. Two children born before Coy in the 1886–1889 window would have Dora aged 15–18 — possible. No event after 23 Aug 1926 is attributed to her.

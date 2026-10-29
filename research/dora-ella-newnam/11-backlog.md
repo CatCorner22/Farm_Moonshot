@@ -54,8 +54,8 @@ Prioritised queue — work top to bottom. **Do not declare research complete whi
 | B046 | open | H | 1920 U.S. census **Ola**, Yell Co., AR — ED **200**, NARA **T625-86** | Dora / Dora E. **Stone** or Newman ~48–54 in incorporated Ola (Ward Twp) | 1920 hole; m2 by 1926 | L161 | Original chat: no IA/free transcript; FS/Ancestry images only; published partial extracts **nil** her. Do not treat chat alone as proof of absence |
 
 ## Session handoff
-- **Last closed:** 29 Oct 2026 (UTC) · **Stopped after:** **L161** — full Farm_Moonshot chat review for locations 1900–death; **`13-chat-review.md`** supplement (26 agents); **B046** opened (1920 Ola ED 200). Parallel web-search sub-agents bc-e3326e8c / bc-359a99fe still empty — re-fetch transcripts when IDLE.
-- **Next session starts with:** **B046** 1920 Ola ED 200 (user FS/Ancestry); **B045** Samuel death place; **B042** KDL Beattyville papers; **B043** Yell 1910 originals; **B044** Lee 1910 boarder pass; **B011** FS 1940760 (Tom Stone 1925)
+- **Last closed:** 29 Oct 2026 (UTC) · **Stopped after:** locations slice **1913–death** — **L162–L169** (GT/ARGenWeb Carter Cove gazetteer; T625-86 map; yellcountyobits/GT deaths nil Stone; **C027 C137–C145**); prior **L161** chat review / **B046**.
+- **Next session starts with:** **B046** 1920 Ola ED **200** on **T625-86** (user FS/Ancestry); **B011** Tom Stone 1925 DC; **B043** Yell 1910 originals; **B045** Samuel death place; **B020** yellcountyobits Newman N-tab + DC “Mammoth” image (**C143**)
 
 
 ## Escalation log (brick walls — step number from exhaustive-research.md)
