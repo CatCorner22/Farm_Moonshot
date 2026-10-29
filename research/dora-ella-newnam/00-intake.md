@@ -11,6 +11,7 @@
 | Item | Type | Provenance (who/when/from what) | Location |
 |---|---|---|---|
 | Arkansas death certificate, Dora Stone, 23 Aug 1926, cert. 1524 | Civil death | User supplied image in prior chat; index Ancestry Arkansas Deaths 1914–1950 | Image not re-opened this session; fields as logged previously → S003 |
+| **Index alias “Posa Stone”** for the same 1926 death | Index / database transcription error | User reminder, 29 Oct 2026 (America/New_York): the certificate was **misfiled in indexes as Posa Stone** (given-name misread of **Dora**). Search AR Death Index 1914–1950 and Ancestry coll. **8771** / FS **1940760** under **Posa Stone**, **Stone Posa**, and cert. **1524** / RD **676**, not only “Dora Stone.” | → S168 |
 | Portrait of a woman identified as Dora | Photograph | User supplied | Not independently identified; treat as family identification, SPECULATIVE as likeness |
 | WikiTree Newnam-49 | Authored profile | Public; fetched 27 Oct 2026 | https://www.wikitree.com/wiki/Newnam-49 — unsourced; death “abt. 1930” is wrong |
 | Ancestry login | Subscription | User has an account | **Never ask for password.** This VM gets Ancestry HTTP 403 / Cloudflare |
