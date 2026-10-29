@@ -285,6 +285,18 @@ Diplomatic (FAN household, re-read 29 Oct 2026):
 
 ED 99 continues through sheet **14 A** (PDF 577). PDF 580 = ED 100 Proctor 1A. No household in the ED lists Dora ~39, Samuel ~41, McCoy ~20, or John H. ~10 of the 1900 Sturgeon set. → C088 C089.
 
+## DOC020 — 1900 Lee ED 52 sh 5B dw 85 Hardin Gray (original)
+
+IA `12thcensusofpopu537unit` PDF **p. 943**, accessed 29 Oct 2026. **Image seen.** File: `sources/census/1900-lee-ed52-sh5b-hh85-hardin-gray.jpg` · SHA-256 `4a66a29126a92c7b62630e14082c5638a8ab5cc6bf029337d44eae9df2a5ee77`.
+
+| Line | Diplomatic transcription | Notes |
+|---|---|---|
+| 70 | **Gray, Hardin** | Head; W M; b. **Jan 1876**; **24**; m. **3** yrs; KY/KY/KY; Farmer |
+| 71 | **Gray, Vestie** | Wife; W F; b. **Sep 1881**; **18**; m. **3** yrs; **1**-**1**; KY/**VA**/KY |
+| 72 | **Gray, Rosco** | Son; W M; b. **Jun 1899**; **11/12**; s; KY/KY/KY |
+
+Dw/fam **85/85** · ED **52** · Sturgeon Precinct 6 · enum. **11 Jun 1900** · Morgan J. Treadway. → **C191** / **S233**.
+
 ## DOC019 — 1910 KY Miracode G-600 Hardin Gray (typed card)
 
 IA `soundex1910ky064` p.443. **Image seen** 29 Oct 2026.
