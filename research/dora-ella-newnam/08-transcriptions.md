@@ -252,7 +252,20 @@ Diplomatic (FAN household, re-read 29 Oct 2026):
 
 **No** mother-in-law / Louisa / Ida / Bertie in the house. → C182.
 
-ED 99 continues through sheet 13B (PDF 576); PDF 580 = ED 100 Proctor 1A. No household in the ED lists Dora ~39, Samuel ~41, McCoy ~20, or John H. ~10 of the 1900 Sturgeon set. → C088 C089.
+ED 99 continues through sheet **14 A** (PDF 577). PDF 580 = ED 100 Proctor 1A. No household in the ED lists Dora ~39, Samuel ~41, McCoy ~20, or John H. ~10 of the 1900 Sturgeon set. → C088 C089.
+
+## DOC019 — 1910 KY Miracode G-600 Hardin Gray (typed card)
+
+IA `soundex1910ky064` p.443. **Image seen** 29 Oct 2026.
+
+> LEE · G600 GRAY HARDIN · H · 033 0099 0248 · W 34 KENTUCKY  
+> VISTA W 27 KENTUCKY  
+> RASCOE S 10 KENTUCKY  
+> HULBERT S 07 KENTUCKY  
+> ELIZE S 04 KENTUCKY  
+> DEANNA D NR  
+
+No mother-in-law. = C166 couple. → C184. Original family 248 sheet not isolated (not on ED 99 sh 13 A/B).
 
 ## DOC013 — Lee Co. deaths 1911–1929 N-index + year extracts (nil for P001/P002)
 See S047/S068. N-index rows (as printed):

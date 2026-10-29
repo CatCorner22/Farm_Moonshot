@@ -10,7 +10,7 @@ Reviewed 28 October 2026 (America/New_York) from Cursor cloud-agent transcripts 
 | **Ancestry research skill** | https://cursor.com/agents/bc-2ffa148f-bd17-4e95-beef-aa2f31940c4a | Authored the genealogy-detective skill. **No additional Dora biography facts.** |
 | **Dora’s early 1900s** | https://cursor.com/agents/bc-a16def3b-c4be-41e9-846c-f31bc0f8dd81 | 1910 hole; KY/AR/MO/OK/TX/TN Soundex negatives; original Sturgeon ED 99 (not still on the creek as Newnam); enumerator-name conflict; source JPEGs; 1880 Dora 8. |
 | **Dora research continuation** | https://cursor.com/agents/bc-0bd3b0b2-ec76-4a5c-93c7-10c0bfe1f312 | 1920 Beattyville original (E.T. in C.B. Burke’s house); Peebles hypothesis tested and not supported; 1900 MO Stone originals; image gallery; merge of parallel PRs; master book. |
-| **Dora biography research** (pass 18–26) | https://cursor.com/agents/bc-01a183ca-4028-7f9b-9d4c-34d4ab6671f6 | FAG Carter **S117–S118**; Louisa/Larkin Mays (**C130–C152**); *Brandenburg v. Petroleum Exploration* **C139**; Ida Mays license **C142**; 1900 **Eliza MAYS** = Louisa (**C161**); 1910 ED 99 fam **97** rejected (**C177**); Samuel Farmer + Martha 1910 (**C182**); Word `.docx` kept current. |
+| **Dora biography research** (pass 18–27) | https://cursor.com/agents/bc-01a183ca-4028-7f9b-9d4c-34d4ab6671f6 | FAG Carter **S117–S118**; Louisa/Larkin Mays (**C130–C152**); 1900 **Eliza MAYS** = Louisa (**C161**); 1910 Farmer 251 (**C182**); Hardin+Vista Gray 248 (**C184**); M-200 negatives (**C185–C188**); Word `.docx` kept current. |
 
 
 ## Helper chats (extractors, not new fieldwork)
