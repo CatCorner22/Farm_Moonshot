@@ -13,6 +13,26 @@ Claims: **C044** (sister Catharine/Katty). Negative for P001 civil birth: **C220
 
 ---
 
+## DOC003 — 1870 U.S. census, Owsley County, Travellers Rest, dwelling 131 / family 128
+- Image: `sources/census/1870-owsley-travrest-elias-hh131-pdfp090.jpg` · SHA-256 `aa56943106e30f0cf2e03cbd9349749a5b4e1695170f8e4f46071157b886831f`
+- Page: IA `populationschedu0494unit` PDF p. **90**; NARA M593 roll **494**; precinct page **19**; enum. **17 Jun 1870**, A. J. Herd, PO Travellers Rest
+- Provenance: **Image seen** 29 Oct 2026
+
+### Diplomatic transcription (household only)
+> Dwelling **131**, family **128**  
+> **Newman, Elias** — 26, M, W, Farmer, RE $250, PE $150, b. Kentucky  
+> **Mary** — 24, F, W, Keeping house, b. Kentucky  
+> **William** — 11, M, W, Farm labor, b. Kentucky  
+> **Melissa D.** — 6, F, W, b. Kentucky  
+> **Frances** — 3, F, W, b. Kentucky  
+> **Mary** — 1, F, W, b. Kentucky  
+
+No child named Dora. Kendrick transcript lists visit **7 Jun 1870** and Mary **26** (**S048**) — enumerator sheet date **17 Jun** on original.
+
+Claims: **C067** (Dora not yet born).
+
+---
+
 ## DOC001 — 1880 U.S. census, Lee County, Kentucky, ED 59, sheet 6
 - Image file(s) + SHA-256: `sources/census/1880-lee-ky-ed59-sheet6-p730-elias-dora.jpg` · `ce48bc3c6a4021976aa480def6b1cc080aced108005d2861f8c144396039b36f`
 - Page: IA `10thcensus0427unit` n730; NARA T9 reel 427; enumerator page 6, SD 3, ED 59

@@ -7,7 +7,7 @@ Place as it was *at the date*; modern equivalent in brackets. Flag impossibiliti
 | 18 Apr 1842 | — | Father Elias T. Newnam born | Clark Co., KY | C040 | S011 prior |
 | Apr 1842 / 22 Apr 1842 | — | Mother Mary Ann Smallwood born | KY (Owsley-area) | C041 | S032 prior |
 | 16 Aug 1862 – 16 Sep 1863 | — | Elias, bugler, Co. C 14th KY Cav. | Mt. Sterling / Myrtleville, KY | C042 | S086 S087 prior |
-| 7 Jun 1870 | — | Elias & Mary farming with William D 11, Malissa D 6, Frances 3, Mary 1 (**Dora not yet born**). Same precinct: Cordy Pendergrass hh **118/115**, **Louisa 9** | Travellers Rest, Owsley Co., KY | C067 C043 C136 | S048 S127 |
+| 7 Jun 1870 (transcript) / **17 Jun 1870** (original p. 90) | — | Elias & Mary farming with William D 11, Malissa D 6, Frances 3, Mary 1 (**Dora not yet born**). Same precinct: Cordy Pendergrass hh **118/115**, **Louisa 9** | Travellers Rest, Owsley Co., KY | C067 C043 C136 | S048 S127 **S231** |
 | **29 Jun 1870** | — | **Samuel Newman, 1, in John 50 & Elizabeth 25’s Sturgeon hh 19** (PROBABLE natal home of P002) | Sturgeon Precinct, Lee Co., KY (PO Proctor) | C062 | S042 |
 | 1870 | — | Lee County created | KY | — | FS wiki |
 | **Aug 1871 (day 11 POSSIBLE)** | 0 | **Dora born** | Lee Co., KY (PROBABLE) | C001 | S005 S004 S010 |

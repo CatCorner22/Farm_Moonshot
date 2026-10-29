@@ -24,7 +24,7 @@ Prioritised queue — work top to bottom. **Do not declare research complete whi
 | B016 | partial | L | Rissie Newnam TN DC (deceased-only indexes) | Stamper/Pelfrey; skip living hits | Children | L143 L154 L164 | Lee Books **5–15 nil** (**C134**). SortedByName Newnam **R**-block **nil** Rissie (**C151**). TSLA form still **not name-queried** (JS/CloudFront — **S140**). Residual: TN DC 1914+ |
 | B017 | done | M | IA `soundex1920mo176` N-500–N-650 | Dora Newman MO 1920 | 1920 hole | L050 | Full reel OCR nil Dora+Newman |
 | B018 | open | L | Lee Co. land grantor/grantee Newnam 1885–1911 | Samuel/Dora deeds | Asset pass | | May be on-site |
-| B019 | partial | M | 1870 Travellers Rest Elias household (image) | Confirm Dora not yet born; siblings | H2 1868 birth already DISPROVED | L038 L148 L236 | Transcript: Elias hh **131/128** no Dora; **Katty VS 1874** (**C044**). Original IA **`populationschedu0494unit`** page not isolated |
+| B019 | done | M | 1870 Travellers Rest Elias household (image) | Confirm Dora not yet born; siblings | H2 1868 birth already DISPROVED | L038 L148 L236 L237 | **Original** M593-494 PDF p. **90** (**S231**): dw **131**, no Dora |
 | B020 | partial | L | Carter Cove / yellcountyobits workaround | Newman, Dora; Stone, Thomas | C016 C129 | L133 L132 | FAG cemetery search **S117–S118** (L133); Yell obits Stone index nil 1925 Thomas (L132/C128); yellcountyobits still unread; full memorial pages CF-blocked |
 | B021 | done | M | 1920 Lee Co. KY schedule: Burke C.B. / E.T. Newnam | Elias as grandfather in Beattyville; which daughter married Burke? | FAN of P004; may name Dora | L036 L066 L069–L072 | **Original + FAN closed.** E.T. is grandfather of **Provie** (née Hoover), not of C.B. Burke |
 | B022 | done | H | Owsley / Lee pre-1911 deaths; Lee 1912–1929 index | Samuel P Newnam d. 1900–1911 | C012 | L053 L054 L055 L037 L065 L086 | Lee 1911–1929 N-index **and** year files 1912–1929 **nil** Samuel/Dora/Elias/McCoy/John H. Pre-1911 local registers → B034 |
@@ -45,17 +45,17 @@ Prioritised queue — work top to bottom. **Do not declare research complete whi
 | B037 | done | L | 1910 Lee KY Sturgeon ED 99 sheet **8A** header (T624-478 jp2 p.564) | Re-read enumerator signature: Elam Brandenburg vs Elton E. Newnam | conflict #13 | L102 | **Surname Treadway** on the original (C113). Given name not picked. Brandenburg / Newnam readings withdrawn as confident claims |
 | B038 | done | H | All project chats → master biography book | Combine chats; journalistic PDF with every saved JPEG | Written conclusion | L090 | `book/Dora-Ella-Newnam-Stone-A-Life.md` + `.pdf` (80 pp, 61 plates). Rebuild: `python3 scripts/build_dora_book.py` |
 | B039 | partial | L | Owsley / Lee census + marriage index + later DCs (deceased-only) | Robert & Sallie; Larkin×Louisa | FAN of P002’s Owsley line | L096 L106 L110 L113 L115 L116 L120 L127 L147 L158 L214 | Owsley VS **1853–59, 1874–78, 1903–10 nil** Robert×Sallie and Larkin×Louisa (**C148**). Gap **1879–1902**. Lee Books **1–15** nil. Residual: courthouse books |
-| B040 | partial | H | IA T623-855/856 Greene Co. | ED **37–43** Stone sweep | C117 / conflict #11 | L097 L100 L103 L104 L109 L112 L119 L131 L134 L156 L159 L160 L170 L171 L172 L192 L200 L207 L209 L210 | **Thomas A. sh 18A (C117).** **C200–C202** reject other Stone/Dora. Residual: ED **42–43** unread |
+| B040 | partial | H | IA T623-855/856 Greene Co. | ED **37–43** Stone sweep | C117 / conflict #11 | L097 L100 L103 L104 L109 L112 L119 L131 L134 L156 L159 L160 L170 L171 L172 L192 L200 L207 L209 L210 L239 | **Thomas A. sh 18A (C117).** **C200–C202** reject other Stone/Dora. Residual: ED **42–43** not every sheet read (**L239** partial) |
 | B041 | partial | L | Lee/Owsley graves / minutes (on-site) | Samuel P. burial 1900–1910 | C012 | L098 L150 L169 L147 L148 | **Newnam Cemetery Pebworth** (**C150** on main). High View unmarked. Lee Clerk / KDLA |
 | B042 | partial | H | KDNP / Lee papers 1900–1912 | Newnam press | C012 B010 | L149 L150 L155 L183 | LOC Cloudflare; KDNP **nil**; no historic Beattyville Enterprise on KDL |
 | B043 | done | M | 1910 Yell AR T624-68 | Dora ~39 before Coy 1917 | H4 AR 1910 | L152 L153 L187 L190 L191 | **Done (negative)** — **C219**, **S228** |
-| B044 | done | M | 1910 Lee/Owsley transcripts + Beattyville ED 91–98 + 1920 Ella E-tab | Dora ~39 / Ella wife cards | 1910 hole | L151 L178 L179 L180 L186 L188 L189 | Transcripts **C204**; Beattyville **C216**; **Open:** 1910 KY **Ella** reel (**L180**) |
+| B044 | done | M | 1910 Lee/Owsley transcripts + Beattyville ED 91–98 + 1920 Ella E-tab + **1910 KY E-given N-550** | Dora ~39 / Ella wife cards | 1910 hole | L151 L178 L179 L180 L186 L188 L189 L238 | Transcripts **C204**; Beattyville **C216**; **E-block ky124 pp 266–274 read** (**C221**, **S232**) |
 | B045 | partial | H | Samuel P. death place 1900–1910 | WikiTree vs Rosa Banks 1904 | C012 C203 | L147 L148 L156 L160 L181 L182 | VS/obits nil; Rosa FAN partial |
 | B046 | done | H | 1920 Yell ED **200** + **ED 191** (T625-86) | Dora Stone/Newnam ~48 | 1920 hole | L184 L185 | **ED 200** full read (**C213–C214**, **S225**); **ED 191** partial (**C215**, **S226**) |
 
 ## Session handoff
-- **Last closed:** 29 Oct 2026 (America/New_York) · **Stopped after:** merge **`main`** pass 30 + PR #25 locations (**L191**, **B043–B046** closed for free sources read).
-- **Next session starts with:** **B011** FS/Ancestry index; **B040** ED **42–43**; **B014** T623-537 hh **85**; **B044** 1910 KY Ella wife reel (**L180**); **B019** 1870 Travellers Rest original; **B015** TSLA Mary Bunch
+- **Last closed:** 29 Oct 2026 (America/New_York) · **Stopped after:** **L237–L239** — 1870 Elias original (**B019**); 1910 KY **Ella** Miracode block (**B044**); Greene ED **42–43** sample (**B040**).
+- **Next session starts with:** **B011** FS/Ancestry index; **B040** ED **42–43** sheet finish; **B014** T623-537 hh **85**; **B015** TSLA Mary Bunch; **B018** Lee deeds; **B032** FAN negative control
 
 
 ## Escalation log (brick walls — step number from exhaustive-research.md)
