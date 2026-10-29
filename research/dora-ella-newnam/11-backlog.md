@@ -50,7 +50,7 @@ Prioritised queue — work top to bottom. **Do not declare research complete whi
 | B042 | partial | H | KDNP / Lee papers 1900–1912 | Newnam press | C012 B010 | L149 L150 L155 L183 | LOC Cloudflare; KDNP **nil**; no historic Beattyville Enterprise on KDL |
 | B043 | done | M | 1910 Yell AR T624-68 | Dora ~39 before Coy 1917 | H4 AR 1910 | L152 L153 L187 L190 L191 | **Done (negative)** — **C219**, **S228** |
 | B044 | done | M | 1910 Lee/Owsley transcripts + Beattyville ED 91–98 + 1920 Ella E-tab + **1910 KY E-given N-550** | Dora ~39 / Ella wife cards | 1910 hole | L151 L178 L179 L180 L186 L188 L189 L238 | Transcripts **C204**; Beattyville **C216**; **E-block ky124 pp 266–274 read** (**C221**, **S232**) |
-| B045 | partial | H | Samuel P. death place 1900–1910 | WikiTree vs Rosa Banks 1904 | C012 C203 | L147 L148 L156 L160 L181 L182 **L261** | VS/obits nil; **C229** nil in Lee obits **N** file; Rosa FAN partial; **1906** still **SPECULATIVE** (WikiTree only) |
+| B045 | partial | H | Samuel P. death place 1900–1910 | WikiTree vs Rosa Banks 1904 | C012 C203 | L147 L148 L156 L160 L181 L182 **L261 L264 L265** | VS/obits nil; **C229** nil; **C232** nil published wills; Elizabeth will **nil** Samuel (**C233**); **1906** **SPECULATIVE**; residual **FS probate** / clerk |
 | B046 | done | H | 1920 Yell ED **200** + **ED 191** (T625-86) | Dora Stone/Newnam ~48 | 1920 hole | L184 L185 | **ED 200** full read (**C213–C214**, **S225**); **ED 191** partial (**C215**, **S226**) |
 
 ## Session handoff

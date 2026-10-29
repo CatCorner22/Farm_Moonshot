@@ -134,7 +134,7 @@ She was fifty-five if she was the eight-year-old of District 59. The certificate
 - Was she married three times, as a Peebles before Stone? **Not supported.** Two documented marriages only (C087).
 - Is the Samuel 11 of ED 59 dwelling 3 the 1885 groom, and is Mary of that house the same woman as Elizabeth of 1910 Buck Creek?
 - When and where did she marry T. A. Stone?
-- When did Samuel die? (Not a KY Newman head in 1910.)
-- What became of John H. Newnam? (Herbert of Lee Co. VA rejected.)
+- When did Samuel die? (Not a KY Newman head in 1910; Lee **1900–1904** VS and published will index have **no** Samuel P. decedent or will — **C232**; WikiTree **1906** still lore.)
+- What became of John H. Newnam? (Herbert of Lee Co. VA rejected; Lee death index **1911–1935** **nil** John H. Newnam — **C234**.)
 - Mary Magdalene Bunch: marriage and death? (SortedByName MARY pages still no date — C158; TSLA named search not executed — S140)
 - Rissie: after 1900 she is absent from indexed 1910 child cards and Pearl’s Owsley household. WikiTree **Newnam-46** (unsourced) gives **Pebworth** birth and death **13 May 1980** in **Knoxville** as **Rissie (Newnam) Pelfrey**, father **Samuel** in-tree — **POSSIBLE** lead only (**C230**); free TN death/SSDI sweep did not corroborate (**C231**). Lee marriage books have **no** Rissie Newnam bride (**C134**); **Rissie Pelfrey Maxey** b. **1882** is rejected. Stamper vs Pelfrey marriage order still unread.

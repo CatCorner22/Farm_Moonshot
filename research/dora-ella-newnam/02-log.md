@@ -306,6 +306,12 @@ One row per search, **including nil results**. Access: free | subscription | on-
 
 **Access honesty (pass 41):** WikiTree API **limit exceeded** on re-fetch; **Newnam-46** profile page Cloudflare/human-check from VM. SortedByName Pelfrey batch **403**/empty. FAG **403**. TSLA still **not** name-queried. Ancestry TN DC unread.
 
+| L264 | 2026-10-29 | USGenNet Lee **wills/** index (B045/B041) | **Samuel P. Newnam** probate/will transcript | **Nil** on published index — only **Elizabeth Newnam**, **Mary Jane Steele NEWMAN**, **Mary F. Newnam TINCHER** (**C232**, **S243**). Residual: FS **Probate 1870–1967** / courthouse administrations | S243 C232 | On-site Lee Clerk Landmark search |
+| L265 | 2026-10-29 | Elizabeth will re-read (`enewnam.html`) (B045) | Samuel death date in FAN will | **Nil** — bequest to **Pearl Jackson** only; no Samuel named (**C233**) | S054 C233 | FS probate film |
+| L266 | 2026-10-29 | KyGenWeb Lee death **1911–1935** grep (P010) | **John H. Newnam** decedent | **Nil** matching row in year files opened (**C234**). SortedByName Newnam **index_5–12** **403**/empty this pass | — | SSA NUMIDENT; 1940+ census |
+
+**Access honesty (pass 42):** Lee wills index **seen**. KyGenWeb death pages **seen**. Owsley wills landing **404**/empty. FS probate **unread** (sign-in). Ancestry KY deaths **1870–1910** unread.
+
 **Access honesty (pass 37):** ReclaimTheRecords death-records page (**no AR**). USGW Knox marriage **timeout**. TSLA/SortedByName **403**. FS catalog **403**. ADH **DNS**. FS/Ancestry index still unread.
 
 **Access honesty (pass 36):** USGenNet Lee deed surname indexes downloaded and grep-swept (**L253**). SSDI public API (**L254**). GT Yell deaths/obits (**L255**). SortedByName **403**. ADH **DNS**. FS catalog API **404**. TSLA **403**. FS/Ancestry **B011** unread.
