@@ -167,7 +167,7 @@ Two children born to Dora and Samuel died before 1 June 1900. They have no names
 
 **McCoy “Coy” Newnam**, born April 1890, married Letha Viola Sullivan at Ola on 18 February 1917. In 1920 they were at Danville, Yell County. In 1930 they were back in Buck Creek, Owsley County. He is the 1926 informant. Living descendants are not named here.
 
-**Mary Magdalene Newnam**, June 1892 on the census, 12 June 1893 Beattyville on her Social Security account, later Mary M. Bunch. Marriage and death are not closed. Free SortedByName Mary Bunch pages still give no death date for her Social Security number; recent “Mary M. Bunch” obituaries and other Mary Bunch deaths (Jefferson County 1935, Campbell County, Tennessee, 1963, a 1923 Illinois woman) are other people. [C158]
+**Mary Magdalene Newnam**, June 1892 on the census, 12 June 1893 Beattyville on her Social Security account, later Mary M. Bunch. Marriage and death are not closed in free sources: Lee marriage books have no Bunch row; NUMIDENT lists her **deceased** but gives **no death date**; the public Social Security Death Index API returned no match for SSN **410-19-2658**; Tennessee archives and Knox marriage indexes were not reachable from the research VM (**R007**, **L257**). [C158]
 
 **Pearl P. Newnam**, 15 March 1895, Banford, later Pearl P. Jackson, died 19 September 1980, Shelby County, Tennessee. The 1910 grandmother household, the 1922 Elizabeth Newnam will, and the NUMIDENT file make her identification the strongest of the five.
 
