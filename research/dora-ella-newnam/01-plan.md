@@ -23,8 +23,8 @@
 
 ## Name variants & search strings
 Surname variants (incl. Soundex, phonetic, OCR-error, translated, patronymic, maiden/married): Newnam, Newman, Newmann, Numan, Neman, Newnham; married **Stone**; hypothesized intervening **Peebles / Peeples / Peoples / Pebbles** (Soundex **P-142**; Pebley is P-140, not searched as equivalent). Soundex **N-550** / **S-350** / **P-142**.
-Given-name variants / nicknames / initials: Dora, Dora Ella, Ella, D. E.; not Theodora (no record uses it).
-Wildcard strings to use: `New*m`, `Dor* New*`, `"Doll Newnam"`, `McCoy OR Coy New*`, `"T. A. Stone"` Yell OR Perry.
+Given-name variants / nicknames / initials: Dora, Dora Ella, Ella, D. E.; not Theodora (no record uses it). **Index/OCR errors for her 1926 AR death:** **Posa**, Dosa, Rosa (misread **Dora**); user confirms index entry **Posa Stone** for cert. **1524**.
+Wildcard strings to use: `New*m`, `Dor* New*`, `"Doll Newnam"`, `McCoy OR Coy New*`, `"T. A. Stone"` Yell OR Perry; **`Posa Stone` OR `Stone Posa` Yell 1926 cert 1524**; **`Newman` AND `Newnam`** on every Lee/Yell/AR index pass.
 
 ## FAN club targets
 | Person (P###) | Relation/association | Why they may hold the answer |

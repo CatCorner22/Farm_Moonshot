@@ -10,13 +10,13 @@ Reviewed 28 October 2026 (America/New_York) from Cursor cloud-agent transcripts 
 | **Ancestry research skill** | https://cursor.com/agents/bc-2ffa148f-bd17-4e95-beef-aa2f31940c4a | Authored the genealogy-detective skill. **No additional Dora biography facts.** |
 | **Dora’s early 1900s** | https://cursor.com/agents/bc-a16def3b-c4be-41e9-846c-f31bc0f8dd81 | 1910 hole; KY/AR/MO/OK/TX/TN Soundex negatives; original Sturgeon ED 99 (not still on the creek as Newnam); enumerator-name conflict; source JPEGs; 1880 Dora 8. |
 | **Dora research continuation** | https://cursor.com/agents/bc-0bd3b0b2-ec76-4a5c-93c7-10c0bfe1f312 | 1920 Beattyville original (E.T. in C.B. Burke’s house); Peebles hypothesis tested and not supported; 1900 MO Stone originals; image gallery; merge of parallel PRs; master book. |
-| **Dora biography research** (pass 18–22) | https://cursor.com/agents/bc-01a183ca-4028-7f9b-9d4c-34d4ab6671f6 | FAG Carter **S117–S118**; pass 21–22 Louisa/Larkin Mays (**C130–C133**); Rissie Lee books nil (**C134**); Word `.docx` kept current. |
-| **Dora master biography** | https://cursor.com/agents/bc-01a18285-696d-761f-be7a-74d897313200 | HTML book `book/index.html`; 1900 Sturgeon original plates; Greene **Thomas A. Stone** sh 18A (**C117**); PR #13–#15 narrative — **no new residence for P001** beyond case file. |
-| **Dora Word book + git sync** | https://cursor.com/agents/bc-3b441f4a-2cce-5eb2-bfc4-5a210a6ac0ce | `.docx` / git hygiene (parallel to book agents). **No location fieldwork.** |
-| **Dora location search** (orchestrator) | https://cursor.com/agents/bc-995d22ea-9633-4d0d-a5ef-c36b6ff78d03 | User goal: locations **1900 → death**; spawned web-search workers; **no new record-backed residence** in transcript (delegation only). |
-| **Dora 1900–1912 location web search** | https://cursor.com/agents/bc-e3326e8c-597f-53c8-b831-fd8cc5dec482 | Sub-agent of location pass; transcript **empty** at fetch (still RUNNING). |
-| **Dora 1913–1926 location web search** | https://cursor.com/agents/bc-359a99fe-a390-5c02-a0a4-986d794942fa | **L162–L169**, **C137–C145**, **S127–S130**: Carter Cemetery gazetteer; T625-86 ED map; GT/ARGenWeb/yellcountyobits nil Stone 1925–26; **no new PROVEN residence** beyond Coy 1917 Ola and 1926 death. |
-| **Review Farm_Moonshot project chats** | https://cursor.com/agents/bc-281c57f3-937a-5920-aa1c-3d8221b38f54 | This inventory pass (**L161**). |
+| **Dora biography research** (pass 18–30) | https://cursor.com/agents/bc-01a183ca-4028-7f9b-9d4c-34d4ab6671f6 | FAG Carter **S117–S118**; Louisa/Larkin Mays FAN (**C130–C192**); Greene Stone rejects (**C200–C202**); Vestie 1958 DC; Word `.docx` kept current. |
+| **Dora master biography** | https://cursor.com/agents/bc-01a18285-696d-761f-be7a-74d897313200 | HTML book `book/index.html`; Greene **Thomas A. Stone** sh 18A (**C117**); PR #13–#15 — no new P001 residence beyond case file. |
+| **Dora Word book + git sync** | https://cursor.com/agents/bc-3b441f4a-2cce-5eb2-bfc4-5a210a6ac0ce | `.docx` / git hygiene; § *Places: 1900 to death*. |
+| **Dora location search** (orchestrator) | https://cursor.com/agents/bc-995d22ea-9633-4d0d-a5ef-c36b6ff78d03 | Goal: locations **1900 → death**; spawned web-search workers. |
+| **Dora 1900–1912 location web search** | https://cursor.com/agents/bc-e3326e8c-597f-53c8-b831-fd8cc5dec482 | **C203** Rosa Banks; **C204** transcripts; **L147–L160**. |
+| **Dora 1913–1926 location web search** | https://cursor.com/agents/bc-359a99fe-a390-5c02-a0a4-986d794942fa | **L162–L169**; Carter gazetteer; **no new PROVEN residence** beyond Coy 1917 Ola and 1926 death. |
+| **Review Farm_Moonshot project chats** | https://cursor.com/agents/bc-281c57f3-937a-5920-aa1c-3d8221b38f54 | Inventory pass (**L161**); **B046** ED 200 lead. |
 
 
 ## Helper chats (extractors, not new fieldwork)
@@ -70,20 +70,24 @@ Folded into the book and dossier in this pass:
 | Apr 1910 | Parents Proctor ED 100; Pearl Owsley Buck (**FAN**, not P001 residence) | bc-a16def3b | Yes |
 | 18 Feb 1917 | Coy marries at **Ola**, Yell Co., AR (**PROVEN**, license) | bc-01a17a5a | Yes |
 | Jan 1920 | **Not** KY/AR Soundex as Dora ~48 (**negative**) | bc-0bd3b0b2, bc-a16def3b | Yes |
-| Jan 1920 | E.T. Newman in **Beattyville** (C.B. Burke hh) — grandfather, not Dora (**PROBABLE**) | bc-0bd3b0b2 | Yes |
+| Jan 1920 | E.T. Newman in **Beattyville** (C.B. Burke hh) — grandfather, not Dora | bc-0bd3b0b2 | Yes |
 | Jan 1920 | Tom A. Stone **Howell Twp, Perry Co., AR** (**PROBABLE** m2 husband) | bc-01a17a5a | Yes |
-| Jan 1920 | **1920 town of Ola**, Yell Co. = ED **200**, NARA **T625-86** — IA PDF full ED **200** read (**L184**); **P001 not in ED 200** (**C147**); homonym **Stone, Dora** 45 rejected (**C148**) | bc-01a17a5a; **L184** | Yes — dossier **C147–C148**; **B046** closed |
+| Jan 1920 | **ED 200** Ola read (**C213** nil P001; **C214** homonyms rejected) | bc-01a17a5a; **L184** | Yes |
 | 1920–1925 | m2 Stone; Yell/Perry license unread (**PROBABLE**) | bc-01a17a5a | Yes |
-| 23–24 Aug 1926 | Death **Ola**; res. field “Mammoth, Ark.” (**S003**); burial **Carters Chapel** / Carter Cove (**PROBABLE**) | bc-01a17a5a (user DC image) | Yes |
+| 23–24 Aug 1926 | Death **Ola**; burial **Carters Chapel** / Carter Cove (**C206**) | bc-01a17a5a (user DC) | Yes |
 
-**Chat-only FAN (not P001 residence):** Carters Chapel name absent from Yell’s published ~167-cemetery list; FAG town cemeteries at Ola = Hale, Oakland, Wilson — Dora Stone not indexed there (original chat canvas narrative; aligns with **B020**).
+**Chat-only FAN (not P001 residence):** Carters Chapel vs Yell cemetery index; FAG Ola town cemeteries — aligns with **B020**.
 
 ## Workspace paths searched (29 Oct 2026)
 
 - `/workspace/README.md` (Farm_Moonshot)
-- `/workspace/.cursor/skills/genealogy-detective/` (skill only; no chat exports)
-- `/workspace/research/dora-ella-newnam/` (case file; prior **`13-chat-review.md`**, **`02-log.md` L090**)
-- No local `transcript.json` or chat export files in-repo; all chat text via **cursor-cloud** MCP (`/tmp/cursor/cloud-agent-transcripts/2026-10-29T14-49-01Z-98fc`, `…14-50-00Z-483d`)
+- `/workspace/.cursor/skills/genealogy-detective/` (skill only)
+- `/workspace/research/dora-ella-newnam/` (case file; **`13-chat-review.md`**, **`02-log.md` L090+**)
+- Cloud-agent transcripts via **cursor-cloud** MCP (`/tmp/cursor/cloud-agent-transcripts/…`)
+
+## Pass 24 (28 Oct 2026, America/New_York)
+
+T623-856 PDF retained (865 pages). Greene ED **39** mapped and visually read for Stone — **nil**. Thomas A. remains reel 855 ED 37 sh 18 A. 1910 Proctor full transcript: no Louisa Mays/Brandenburg; three Dora daughters rejected. TSLA named search still not executed. Word book rebuilt.
 
 ## Instruction for the next chat
 
