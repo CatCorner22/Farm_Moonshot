@@ -171,7 +171,7 @@ Two children born to Dora and Samuel died before 1 June 1900. They have no names
 
 **Pearl P. Newnam**, 15 March 1895, Banford, later Pearl P. Jackson, died 19 September 1980, Shelby County, Tennessee. The 1910 grandmother household, the 1922 Elizabeth Newnam will, and the NUMIDENT file make her identification the strongest of the five.
 
-**Rissa / Rissie**, May 1897. Later Pelfrey or Stamper identifications remain possible only. Lee Marriage Books 5–15 have no Rissie or Rissa Newnam bride; a 1920 Rissa Newton, seventeen, is a different woman. [C134] A Rissie Pelfrey Maxey born 1882 is a different woman.
+**Rissa / Rissie**, May 1897. After the 1900 census she does not reappear on the Kentucky child Soundex pass or in Pearl’s 1910 Owsley household. An unsourced WikiTree profile (**Newnam-46**) names her **Rissie (Newnam) Pelfrey**, born at **Pebworth**, died **13 May 1980** in **Knoxville, Tennessee**, with **Samuel Parriott Newnam** as father — a **possible** lead only, not printed here as proved death. [C230] Free Tennessee death and obituary indexes searched from this case did not independently confirm that row. [C231] Lee Marriage Books 5–15 have no Rissie or Rissa Newnam bride; a 1920 Rissa Newton, seventeen, is a different woman. [C134] A Rissie Pelfrey Maxey born 1882 is a different woman.
 
 **John H. Newnam**, August 1899. Adult trail blank. Herbert of Lee County, Virginia, was rejected.
 

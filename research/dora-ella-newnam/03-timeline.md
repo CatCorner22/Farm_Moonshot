@@ -78,6 +78,8 @@ Place as it was *at the date*; modern equivalent in brackets. Flag impossibiliti
 | **noon 23 Aug 1926** | **55** (if b. Aug 1871) | **Death, apoplexy 1 day, Dr. Thos. W. Beal; informant Coy Newnam, Ola; spouse T. A. Stone; parents Elias Newnam & Mary Smallwood** | Ola, Yell Co., AR (res. written “Mammoth” — **C204b** open) | C015 | S003 |
 | 24 Aug 1926 | — | Burial Carters Chapel | Carter Cove / Carter Cemetery, Lamar Twp, Yell Co., AR (**C206**) | C016 C206 | S003 S078 S219 S220 |
 | **16 Jun 1927** | — | FAN: **Martha Farmer** d., b. 1 Nov 1886; parents Larkin Mays & Louisa Pendergrass | Lee Co., KY | C164 | S143 |
+| after 1900 | — | **No record read** for **Rissa/Rissie** after Sturgeon hh **67** (1910 child Soundex **nil**; not with Pearl at Elizabeth’s **1910**) | unknown | C077 C026 | S058 S041 |
+| **13 May 1980** (WikiTree only) | ~83 (if May 1897) | **Possible** death of **Rissie (Newnam) Pelfrey** — **not** primary-sourced | Knoxville, Knox Co., TN | C230 | S241 | Do not print as fact; **C231** nil free corroboration |
 
 | 18 Apr 1932 | — | Father Elias d. on his birthday, age 90 | Beattyville, Lee Co., KY | C048 | S011 prior |
 

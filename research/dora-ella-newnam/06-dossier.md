@@ -137,4 +137,4 @@ She was fifty-five if she was the eight-year-old of District 59. The certificate
 - When did Samuel die? (Not a KY Newman head in 1910.)
 - What became of John H. Newnam? (Herbert of Lee Co. VA rejected.)
 - Mary Magdalene Bunch: marriage and death? (SortedByName MARY pages still no date — C158; TSLA named search not executed — S140)
-- Rissie: which Knoxville marriage is hers (Stamper vs Pelfrey) — prior work left this POSSIBLE only; this session’s web hits were living people and were not used.
+- Rissie: after 1900 she is absent from indexed 1910 child cards and Pearl’s Owsley household. WikiTree **Newnam-46** (unsourced) gives **Pebworth** birth and death **13 May 1980** in **Knoxville** as **Rissie (Newnam) Pelfrey**, father **Samuel** in-tree — **POSSIBLE** lead only (**C230**); free TN death/SSDI sweep did not corroborate (**C231**). Lee marriage books have **no** Rissie Newnam bride (**C134**); **Rissie Pelfrey Maxey** b. **1882** is rejected. Stamper vs Pelfrey marriage order still unread.
