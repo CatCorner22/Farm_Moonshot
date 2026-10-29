@@ -49,7 +49,7 @@ Prioritised queue — work top to bottom. **Do not declare research complete whi
 | B041 | partial | L | Lee/Owsley church minutes / unmarked graves (on-site) | Samuel P. Newnam burial 1900–1910 | C012 | L098 L150 L169 | **Newnam Cemetery, Pebworth** documented (FAG **2378080**; KY Landmark) — **no** Samuel/Dora listing in free sources (**C150**). USGenWeb Archives Owsley cemetery directory **timeout**. Combs *Family* Cemetery (Clendenin) is a **different** yard. Residual: 2006 Combs/Cornett transcript; High View unmarked; Lee Clerk / KDLA |
 
 ## Session handoff
-- **Last closed:** 29 Oct 2026 (America/New_York) · **Stopped after:** pass 29 — **Posa Stone** index alias logged (**S168**, **C198**); free index pass **nil** (**L208**); Greene T623-856 ED **41** tail + ED **42** OCR sample **nil Stone** (**L209**, **C199**). Word book rebuilt.
+- **Last closed:** 29 Oct 2026 (America/New_York) · **Stopped after:** pass 29 — **Posa Stone** index alias logged (**S168**, **C198**); free index pass **nil** (**L208**); Greene T623-856 ED **41** tail + ED **42** OCR sample **nil Stone** (**L209**, **C199**). Word book rebuilt. (`main` already contains pass 28 / PR #22.)
 - **Next session starts with:** **B011** user FS **1940760** / Ancestry **8771** — search **Posa Stone**, cert **1524**, and **1925** Tom A.; **B040** finish ED **41** gaps + ED **42–43** visual; **B014** T623-537 hh **85** original; **B015** Mary Bunch TN/KY DC
 
 
