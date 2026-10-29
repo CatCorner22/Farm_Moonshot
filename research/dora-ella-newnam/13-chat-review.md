@@ -72,7 +72,7 @@ Folded into the book and dossier in this pass:
 | Jan 1920 | **Not** KY/AR Soundex as Dora ~48 (**negative**) | bc-0bd3b0b2, bc-a16def3b | Yes |
 | Jan 1920 | E.T. Newman in **Beattyville** (C.B. Burke hh) — grandfather, not Dora (**PROBABLE**) | bc-0bd3b0b2 | Yes |
 | Jan 1920 | Tom A. Stone **Howell Twp, Perry Co., AR** (**PROBABLE** m2 husband) | bc-01a17a5a | Yes |
-| Jan 1920 | **1920 town of Ola**, Yell Co. = ED **200**, NARA **T625-86** — no free IA/transcript; Dora Stone **not** in published extracts (**chat lead → B046**) | bc-01a17a5a; **L162–L169** (agent bc-359a99fe) | Yes — book § *Places: 1900 to death*; **B046** open for original ED 200 |
+| Jan 1920 | **1920 town of Ola**, Yell Co. = ED **200**, NARA **T625-86** — IA PDF full ED **200** read (**L184**); **P001 not in ED 200** (**C147**); homonym **Stone, Dora** 45 rejected (**C148**) | bc-01a17a5a; **L184** | Yes — dossier **C147–C148**; **B046** closed |
 | 1920–1925 | m2 Stone; Yell/Perry license unread (**PROBABLE**) | bc-01a17a5a | Yes |
 | 23–24 Aug 1926 | Death **Ola**; res. field “Mammoth, Ark.” (**S003**); burial **Carters Chapel** / Carter Cove (**PROBABLE**) | bc-01a17a5a (user DC image) | Yes |
 

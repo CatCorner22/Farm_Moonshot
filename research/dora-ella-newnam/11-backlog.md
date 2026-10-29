@@ -51,11 +51,11 @@ Prioritised queue — work top to bottom. **Do not declare research complete whi
 | B043 | open | M | 1910 Yell Co. AR population (IA reel 68 / FS) | Dora ~39 boarder or head before Coy 1917 Ola | H4 AR 1910 | L152 L153 | Prior AR N-550 Dora ~39 **nil**; county originals not read |
 | B044 | partial | M | 1910 Lee/Owsley USGenWeb transcripts + 1910 KY N-550 **Ella** wife-card pass | Dora Ella / Dora E. ~39 under non-Newman head; servant/boarder | 1910 hole H3 | L151 L178 L179 L180 | **Done:** Lee **3/3** + Owsley **7/7** transcripts **nil P001** (**C146**). **Open:** Beattyville ED **91–98** not on USGenNet; N-550 E-wife HOCR empty (**L180**). 1920 E-wife = **B023** |
 | B045 | partial | H | Samuel P. death location 1900–1910 | WikiTree 24 Feb 1906 lore vs Book 7 S.P.×Rosa 1904 vs Barker×Rilda 5 Mar 1906 | C012 C136 | L147 L148 L156 L160 L181 L182 | VS/obits **nil** Samuel P. (**L181**). Rosa/Henry Banks FAN partial (**L182**). Residual: **B041** |
-| B046 | open | H | 1920 U.S. census **Ola**, Yell Co., AR — ED **200**, NARA **T625-86** | Dora / Dora E. **Stone** or Newman ~48–54 in incorporated Ola (Ward Twp) | 1920 hole; m2 by 1926 | L161 | Original chat: no IA/free transcript; FS/Ancestry images only; published partial extracts **nil** her. Do not treat chat alone as proof of absence |
+| B046 | done | H | 1920 U.S. census **Ola**, Yell Co., AR — ED **200**, NARA **T625-86** | Dora / Dora E. **Stone** or Newman ~48–54 in incorporated Ola (Ward Twp) | 1920 hole; m2 by 1926 | L184 | IA PDF **`14thcensusofpopu086unit`** — full ED **200** read (**S134**). **Nil P001** (**C147**). Homonym **Stone/Dora** 45 rejected (**C148**). Residual: rural **Ward Twp** outside ED 200 boundaries; Lamar ED **191** same reel |
 
 ## Session handoff
-- **Last closed:** 29 Oct 2026 (UTC) · **Stopped after:** **B042–B045** subagent pass **L178–L183** (**C146** Owsley+Lee 1910 transcripts; press/KDNP nil; Samuel death nil); prior **L170–L177** / **C137–C145**.
-- **Next session starts with:** **B046** Ola ED **200**; **B011** Tom Stone **1925**; **B043** Yell **1910**; **B044** Beattyville **1910** schedules + N-550 E-wife OCR; **B042** on-site Lee papers; **B041** Samuel burial
+- **Last closed:** 29 Oct 2026 (UTC) · **Stopped after:** **B046** — IA **T625-86** ED **200** full read (**L184**, **S134**, **C147–C148**).
+- **Next session starts with:** **B011** Tom Stone **1925**; **B043** Yell **1910**; **B044** Beattyville **1910** schedules + N-550 E-wife OCR; **B042** on-site Lee papers; **B041** Samuel burial; Lamar ED **191** on T625-86 (same reel)
 
 
 ## Escalation log (brick walls — step number from exhaustive-research.md)
