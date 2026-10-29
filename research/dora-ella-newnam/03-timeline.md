@@ -39,7 +39,7 @@ Place as it was *at the date*; modern equivalent in brackets. Flag impossibiliti
 | 1910 | — | Pearl, 15, gdau. of Elizabeth Newmann, Buck Creek, Owsley | Owsley Co., KY ED 169 hh 141 | C026 | S041 prior |
 | 11 Jul 1918 | ~46 | Mother Mary A. Newnam d. | Lee Co. (Brandenburg-Quillen) | C047 | S032 prior |
 | **1913–1916** | ~42–45 | **No record read places P001** (Lee N-index 1913 has unrelated **Maud L. Newman** only; Owsley VS **Clara Newnam** infant 1913 — not P001) | **unknown** | C137 | S047 S060 L153 |
-| Apr 1910 | ~38 | **Partial** Yell Co., AR originals (**T624-68**, IA **`13thcensus1910po0068unit`**): sample pages **nil P001**; prior **AR N-550** Dora ~39 **nil** (**C032**) | Yell Co. partially searched | C032 | S137 L190 |
+| Apr 1910 | ~38 | **Not on Yell Co., AR** originals (**T624-68**, IA **`13thcensus1910po0068unit`**) as **Newnam/Newman/Stone** + **Dora/Ella** ~**35–42** b. **KY** on targeted sheets (**Ola Rd**, Rose Creek sample, **ED 166–174** sector); **AR N-550** Dora ~39 **nil** (**C032**) | Yell Co. searched on free reel | C032 C153 | S137 L190 L191 |
 | 18 Feb 1917 | 45 | Son McCoy m. Letha Viola Sullivan | Ola, Yell Co., AR | C027 | S024 prior |
 | Jan 1920 | ~48 | **Not in AR as Dora Stone or Dora Newnam; not in Coy’s Danville house; not in transcribed 1920 Lee** (Paducah 29 / Cumberland 10 / Logan 28 **Dora** cards rejected) | unknown | C032 C139 C140 | S102–S109 prior; S045 |
 | Jan 1920 | ~48 | **KY N-550 E-tab** (**L188**): **Ella** Newman **48** b. **KY** in **Shelby** only — **rejected** (**C152**) | E-wife index searched | C152 | S138 |
