@@ -316,6 +316,11 @@ One row per search, **including nil results**. Access: free | subscription | on-
 
 **Access honesty (pass 43):** Reclaim The Records KY death index **1967** + **1958** files downloaded from Internet Archive; **1911–1989** partial batch for NEWNAM×JOHN Lee filter. KyGenWeb Lee pages still **Lee-only** extracts. FS certificate images **unread**.
 
+| L270 | 2026-10-29 | Reclaim The Records KY index **1965–1990** NEWNAM rows (P010) | **John H. Newnam** decedent | **Nil** **JOHN** Newnam with plausible age. Other **NEWNAM** deaths logged (e.g. **Grant** **1970** Lee, **Cora** **1981** Lee) — FAN only, not P010 (**C238**, **S246**) | S246 C238 | Out-of-state; WWI draft |
+| L271 | 2026-10-29 | Lee Marriage Book **12** re-read (P010) | **John** Newnam groom **1917** | **Rejected:** **John NEWNAM** age **25**, parents **John** & **Serilda**, × **Margaret SPARKS** — not **Samuel**/**Dora** child b. Aug 1899 (**C239**, **S247**) | S247 C239 | WWI draft Lee Co. microfilm |
+
+**Access honesty (pass 44):** TSLA named search still **403**/empty on curl. Computer-use browser **unavailable** (model quota). FS draft search **Incapsula**. Marriage Book **12** transcript **seen**.
+
 **Access honesty (pass 42):** Lee wills index **seen**. KyGenWeb death pages **seen**. Owsley wills landing **404**/empty. FS probate **unread** (sign-in). Ancestry KY deaths **1870–1910** unread.
 
 **Access honesty (pass 37):** ReclaimTheRecords death-records page (**no AR**). USGW Knox marriage **timeout**. TSLA/SortedByName **403**. FS catalog **403**. ADH **DNS**. FS/Ancestry index still unread.
