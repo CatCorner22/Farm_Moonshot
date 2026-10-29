@@ -272,6 +272,19 @@ SHA-256 `d0b20cdf0b4a85729311415bc1659ee9e0c9aaf6645aa5a90ae1d1cfd53d9f87` · 22
 
 Dwelling **218/257**: **Newman, John H.**, head, ~45, M1 25 years; wife ~52; son **Malcum** ~27, laborer. **Not P010** (P010 was 9 months old in Jun 1900).
 
+Diplomatic — **Hardin Gray fam 248** (re-read pass 35, 29 Oct 2026; crop `1910-lee-ky-ed99-p576-hardin248-crop.jpg` SHA-256 `feee3e433ee0a8181e4aaf3a17f8f9acf5ca26d4e2dbf6ad2500458fc22363ee`):
+
+| Dw/Fam | Name | Rel | Age | Mar | Notes |
+|---|---|---|---|---|---|
+| 247/248 | **Gray, Hardin** | Head | 34 | M1 12 | Farmer; KY/KY/VA |
+| | **Vesta** | Wife | 27 | M1 12 | 4-4; = Vesta Mayes (C166) |
+| | **Roscoe** | Son | 11 | S | ≈ Rosco Dec 1899 (C191) |
+| | **Hubert** | Son | 9 | S | Miracode Hulbert |
+| | **Elcie** | Son | 4 | S | Miracode Elize |
+| | **Deanna** | Dau | 1 9/12 | S | Miracode Deanna |
+
+**No** mother-in-law / Louisa. → **C184** / **C225** / **S236**. Prior **C194** gap claim **withdrawn** (**L251**).
+
 Diplomatic (FAN household, re-read 29 Oct 2026):
 
 | Dw/Fam | Name | Rel | Age | Mar | Notes |
@@ -320,9 +333,24 @@ IA `soundex1910ky064` p.443. **Image seen** 29 Oct 2026.
 > ELIZE S 04 KENTUCKY  
 > DEANNA D NR  
 
-No mother-in-law. = C166 couple. → C184. Original family 248 **not on the bound ED 99 sheets** (families 243–249 skipped; sh 14 B blank). → C194.
+No mother-in-law. = C166 couple. → C184. Original fam **248** on ED **99** sh **13 B** (**S236** / DOC022). sh **14 B** blank only (**S165**).
 
-## DOC020 — 1958 Vestie Bell Gray death-certificate extract
+## DOC022 — 1910 Lee ED 99 sh 13B dw/fam 247/248 Hardin Gray (original)
+
+T624-478 PDF **576**; crop `sources/census/1910-lee-ky-ed99-p576-hardin248-crop.jpg`. Accessed 29 Oct 2026. **Image seen.**
+
+| Line | Diplomatic transcription | Notes |
+|---|---|---|
+| 69 | **Gray, Hardin** | Head; W M; **34**; M1 **12** yrs; KY/KY/**VA**; Farmer |
+| 70 | **Gray, Vesta** | Wife; W F; **27**; M1 **12**; **4**-**4** |
+| 71 | **Gray, Roscoe** | Son; **11**; S |
+| 72 | **Gray, Hubert** | Son; **9**; S |
+| 73 | **Gray, Elcie** | Son; **4**; S |
+| 74 | **Gray, Deanna** | Dau; **1** **9/12**; S |
+
+Fam **248** · ED **99** sh **13 B** · enum. **10–11 May 1910**. → **C184** **C225** / **S236**.
+
+## DOC023 — 1958 Vestie Bell Gray death-certificate extract
 
 USGenNet Lee 1958 DC extracts (photographs, not the certificate image). Accessed 29 Oct 2026.
 
