@@ -310,6 +310,12 @@ One row per search, **including nil results**. Access: free | subscription | on-
 | L265 | 2026-10-29 | Elizabeth will re-read (`enewnam.html`) (B045) | Samuel death date in FAN will | **Nil** — bequest to **Pearl Jackson** only; no Samuel named (**C233**) | S054 C233 | FS probate film |
 | L266 | 2026-10-29 | KyGenWeb Lee death **1911–1935** grep (P010) | **John H. Newnam** decedent | **Nil** matching row in year files opened (**C234**). SortedByName Newnam **index_5–12** **403**/empty this pass | — | SSA NUMIDENT; 1940+ census |
 
+| L267 | 2026-10-29 | Reclaim The Records KY death index **1967** TXT (Archive.org) (B014) | **Hardin K. Gray** death county | **Found index row:** **GRAY, HARDIN K**, age **91**, d. **09/07/1967**, death co. **LEE**, cert. **042**/**20591** (**S244**, **C235**). Matches Gray Cemetery stone. USGenNet Lee **1967.html** extract **incomplete**, not “death outside Lee.” | S244 C235 S166 | Order DC image vol 042 #20591 |
+| L268 | 2026-10-29 | Same Archive **1958** TXT (B014) | **Vestie Bell Gray** cross-check | **Found:** **GRAY, VESTIE B**, age **76**, d. **10/21/1958**, **LEE**, cert. **045**/**22410** (**S245**, **C236**) — agrees with **S164** extract | S245 C236 | — |
+| L269 | 2026-10-29 | Reclaim The Records KY index **1911–1989** batch (P010) | **John H. Newnam** d. Lee | **Nil** P010 match. **Lee** hits: **Johnnie** Newnam **U/1** **1932**; **Johnnie** **76** d. **1972** Estill/Lee codes — rejected vs Aug 1899 child (**C237**) | C237 | NUMIDENT; out-of-state deaths |
+
+**Access honesty (pass 43):** Reclaim The Records KY death index **1967** + **1958** files downloaded from Internet Archive; **1911–1989** partial batch for NEWNAM×JOHN Lee filter. KyGenWeb Lee pages still **Lee-only** extracts. FS certificate images **unread**.
+
 **Access honesty (pass 42):** Lee wills index **seen**. KyGenWeb death pages **seen**. Owsley wills landing **404**/empty. FS probate **unread** (sign-in). Ancestry KY deaths **1870–1910** unread.
 
 **Access honesty (pass 37):** ReclaimTheRecords death-records page (**no AR**). USGW Knox marriage **timeout**. TSLA/SortedByName **403**. FS catalog **403**. ADH **DNS**. FS/Ancestry index still unread.

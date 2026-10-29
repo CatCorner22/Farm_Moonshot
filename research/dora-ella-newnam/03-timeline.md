@@ -50,7 +50,8 @@ Place as it was *at the date*; modern equivalent in brackets. Flag impossibiliti
 | Apr 1910 | — | FAN **rejected:** ED 99 fam **97** John Brandenburg 29 + Susan/Louisa 26 + Ida 6 + Bertie 5 ≠ Louisa P. | Sturgeon, Lee Co., KY | C177 C178 | S152 S153 |
 | ~11 May 1910 | — | FAN: **Samuel Farmer** 33 + **Martha** 23 + Flora 5 + Everett 3, ED 99 fam **251** sh **13 B** = S. P. × Martha Mays. **Louisa not in the house** | Sturgeon, Lee Co., KY | C182 C183 | S155 S156 |
 | Apr 1910 | — | FAN: **Hardin Gray** 34 + **Vesta** 27 + four children, Lee ED 99 fam **248** sh **13 B** (original **S236**). **Louisa not in that house.** sh **14 B** blank | Sturgeon, Lee Co., KY | C184 C166 C225 | S160 S236 S165 |
-| **21 Oct 1958** | — | FAN: **Vestie Bell Gray** d. Lee Co.; parents **Larkin Mays** + **Eliza Pendergrass**; b. 9 Sep 1882 (conflict #15) | Lee Co., KY | C192 | S164 S166 |
+| **21 Oct 1958** | — | FAN: **Vestie Bell Gray** d. Lee Co.; parents **Larkin Mays** + **Eliza Pendergrass**; b. 9 Sep 1882 (conflict #15) | Lee Co., KY | C192 | S164 S245 S166 |
+| **7 Sep 1967** | 91 | FAN: **Hardin K. Gray** d., Lee Co., cert. **042/20591** (statewide index) | Lee Co., KY | C235 | S244 S166 |
 | Apr 1910 | — | FAN: 1910 KY M-200 **no** Lee Louisa/Eliza/Ida/Whitley Mays as indexed heads; Clark Whitley 24 rejected | Kentucky (Miracode) | C185 C186 C187 C188 | S158 S159 |
 | Jun 1900 | — | Greene ED **40** extra sheets (2 B, 9 A, 14 A/B) **nil Stone** (extends C170) | Springfield, Greene Co., MO | C181 | S157 |
 | Apr 1910 | — | Parents Elias (“Elisa”) & Mary (Smallwood) Newnam, couple alone, Proctor ED 100 dw 19/20 | Lee Co., KY | C075 | S057 |
