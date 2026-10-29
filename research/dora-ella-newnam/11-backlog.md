@@ -24,7 +24,7 @@ Prioritised queue — work top to bottom. **Do not declare research complete whi
 | B016 | partial | L | Rissie Newnam TN DC (deceased-only indexes) | Stamper/Pelfrey; skip living hits | Children | L143 L154 L164 | Lee Books **5–15 nil** (**C134**). SortedByName Newnam **R**-block **nil** Rissie (**C151**). TSLA form still **not name-queried** (JS/CloudFront — **S140**). Residual: TN DC 1914+ |
 | B017 | done | M | IA `soundex1920mo176` N-500–N-650 | Dora Newman MO 1920 | 1920 hole | L050 | Full reel OCR nil Dora+Newman |
 | B018 | open | L | Lee Co. land grantor/grantee Newnam 1885–1911 | Samuel/Dora deeds | Asset pass | | May be on-site |
-| B019 | partial | M | 1870 Travellers Rest Elias household (image) | Confirm Dora not yet born; siblings | H2 1868 birth already DISPROVED | L038 L148 | Transcript re-read: Elias hh **131/128** no Dora; Cordy hh **118/115** Louisa 9. IA reel 494 image not isolated |
+| B019 | partial | M | 1870 Travellers Rest Elias household (image) | Confirm Dora not yet born; siblings | H2 1868 birth already DISPROVED | L038 L148 L236 | Transcript: Elias hh **131/128** no Dora; **Katty VS 1874** (**C044**). Original IA **`populationschedu0494unit`** page not isolated |
 | B020 | partial | L | Carter Cove / yellcountyobits workaround | Newman, Dora; Stone, Thomas | C016 C129 | L133 L132 | FAG cemetery search **S117–S118** (L133); Yell obits Stone index nil 1925 Thomas (L132/C128); yellcountyobits still unread; full memorial pages CF-blocked |
 | B021 | done | M | 1920 Lee Co. KY schedule: Burke C.B. / E.T. Newnam | Elias as grandfather in Beattyville; which daughter married Burke? | FAN of P004; may name Dora | L036 L066 L069–L072 | **Original + FAN closed.** E.T. is grandfather of **Provie** (née Hoover), not of C.B. Burke |
 | B022 | done | H | Owsley / Lee pre-1911 deaths; Lee 1912–1929 index | Samuel P Newnam d. 1900–1911 | C012 | L053 L054 L055 L037 L065 L086 | Lee 1911–1929 N-index **and** year files 1912–1929 **nil** Samuel/Dora/Elias/McCoy/John H. Pre-1911 local registers → B034 |
@@ -55,7 +55,7 @@ Prioritised queue — work top to bottom. **Do not declare research complete whi
 
 ## Session handoff
 - **Last closed:** 29 Oct 2026 (America/New_York) · **Stopped after:** merge **`main`** pass 30 + PR #25 locations (**L191**, **B043–B046** closed for free sources read).
-- **Next session starts with:** **B011** FS/Ancestry index; **B040** ED **42–43**; **B014** T623-537 hh **85**; **B044** 1910 KY Ella wife reel (**L180**); **B015** TSLA Mary Bunch
+- **Next session starts with:** **B011** FS/Ancestry index; **B040** ED **42–43**; **B014** T623-537 hh **85**; **B044** 1910 KY Ella wife reel (**L180**); **B019** 1870 Travellers Rest original; **B015** TSLA Mary Bunch
 
 
 ## Escalation log (brick walls — step number from exhaustive-research.md)

@@ -12,7 +12,7 @@ Place as it was *at the date*; modern equivalent in brackets. Flag impossibiliti
 | 1870 | — | Lee County created | KY | — | FS wiki |
 | **Aug 1871 (day 11 POSSIBLE)** | 0 | **Dora born** | Lee Co., KY (PROBABLE) | C001 | S005 S004 S010 |
 | 11 Aug 1868 (DC) | — | Alternate birth — **inconsistent with 1880 age 8 and 1900 Aug 1871** | — | C002 | S003 | **DISPROVED as year** |
-| 5 Aug 1874 | ~3 | Sister Katty/Catharine registered | Lee Co., KY | C044 | S010b prior; S010 1880 age 6 |
+| 5 Aug 1874 | ~3 | Sister **Katty** (Catharine) VS birth registered | Lee Co., KY | C044 | S230 |
 | **1 Jun 1880 (enum. 1 Jun)** | — | **Samuel Newnam, 11, son of John 69 & Mary 57** (PROBABLE = P002); Mary b. KY. Sheet 2 Samuel 13 is McQueary, not Newnam | Lee Co. KY ED 59 sheet 1 dw 3 | C060 C061 C063 | S040 S044 |
 | **1 Jun 1880 (enum. 5 Jun)** | **8** | **In father’s house: Dora, dau., 8, KY** | Lee Co. KY ED 59 sheet 6 dw 46 | C003 | S010 |
 | 1880 (Booneville ED 79) | — | Louisa Pendergrass **18, single**, still in Cordy’s house; **Larkin T. MAYSE** laborer **20, single**, McPhearson hh — both still unmarried | Booneville, Owsley Co., KY | C136 C137 | S128 |

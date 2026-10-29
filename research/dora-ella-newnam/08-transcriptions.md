@@ -2,6 +2,17 @@
 
 Conventions: `[?]` uncertain · `[illegible]` unreadable · `W[illia]m` expansion · `{note}` editorial only.
 
+## DOC002 — Lee County vital statistics birth register (transcription), Katty Newnam, 5 Aug 1874
+- Source: USGenNet Kendrick `lee/births/vsb.html` (1874–1875 extract), accessed 29 Oct 2026 → **S230**
+- Provenance: **Transcription only**; original tax-assessor register not seen.
+
+### Diplomatic transcription
+> **5 Aug 1874** — Katty **NEWNAM**, female, alive, b. Lee Co. Ky, d/o **Elias NEWMAN** b. Clark Co. Ky & **Mary SMALLWOOD** b. Owsley Co. Ky
+
+Claims: **C044** (sister Catharine/Katty). Negative for P001 civil birth: **C220**.
+
+---
+
 ## DOC001 — 1880 U.S. census, Lee County, Kentucky, ED 59, sheet 6
 - Image file(s) + SHA-256: `sources/census/1880-lee-ky-ed59-sheet6-p730-elias-dora.jpg` · `ce48bc3c6a4021976aa480def6b1cc080aced108005d2861f8c144396039b36f`
 - Page: IA `10thcensus0427unit` n730; NARA T9 reel 427; enumerator page 6, SD 3, ED 59
