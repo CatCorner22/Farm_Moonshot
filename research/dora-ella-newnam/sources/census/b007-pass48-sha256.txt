@@ -1,0 +1,3 @@
+417f903621cefc063a9a069ab604e4ace745348e3bf5bb078dec52058d4a6f0a  /workspace/research/dora-ella-newnam/sources/census/1910-bollinger-ed4-letha-sullivan-servant.png
+b4d6f1ce8d0e71d7908e3a17e01c4525d885e410d5e011ba6ba234651cfefa71  /workspace/research/dora-ella-newnam/sources/census/1910-bollinger-ed4-sullivan-newnam-mil.png
+9eceebc4aaad36c50842d0755ecaa2d29f6ed6148d9626104d2ffbccc61e0308  /workspace/research/dora-ella-newnam/sources/census/1910-bollinger-ed5-sullivan-letha-e-dau2.png
