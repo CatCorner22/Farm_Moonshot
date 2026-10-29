@@ -265,7 +265,15 @@ IA `soundex1910ky064` p.443. **Image seen** 29 Oct 2026.
 > ELIZE S 04 KENTUCKY  
 > DEANNA D NR  
 
-No mother-in-law. = C166 couple. → C184. Original family 248 sheet not isolated (not on ED 99 sh 13 A/B).
+No mother-in-law. = C166 couple. → C184. Original family 248 **not on the bound ED 99 sheets** (families 243–249 skipped; sh 14 B blank). → C194.
+
+## DOC020 — 1958 Vestie Bell Gray death-certificate extract
+
+USGenNet Lee 1958 DC extracts (photographs, not the certificate image). Accessed 29 Oct 2026.
+
+> Vestie Bell Gray · 76 yrs 1 mo 12 ds · 9 Sep 1882 Lee Co · 21 Oct 1958 · father **Larkin Mays** · mother **Eliza Pendergrass**
+
+→ C192. Birth year conflicts with 1900 Sep 1881 (#15).
 
 ## DOC013 — Lee Co. deaths 1911–1929 N-index + year extracts (nil for P001/P002)
 See S047/S068. N-index rows (as printed):

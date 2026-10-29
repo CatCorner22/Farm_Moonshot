@@ -33,11 +33,12 @@ Place as it was *at the date*; modern equivalent in brackets. Flag impossibiliti
 | Aug 1899 | 28 | Son John H. born | KY | C025 | S005 |
 | **1 Jun 1900** | **28** | **Sturgeon hh 67/67: wife of Samuel, 7 born 5 living** | Sturgeon precinct, Lee Co., KY | C011 | S005 |
 | **1 Jun 1900** | — | FAN: **Eliza MAYS** hh **26/26**, b. Dec 1861, wd 4-4; children Whitly (Jun 1884), Martha (Nov 1886), Ida (Oct 1894); hired hand John Brandenburgh (Mar 1882). **= Louisa P. Mays** | Sturgeon precinct, Lee Co., KY | C161 C162 C163 | S142 |
+| **1 Jun 1900** | — | FAN: **Hardin GRAY** + **Vestie** + Rosco, hh **85/85**. **Louisa not in the house.** Next door William Gray + Elizabeth Brandenburg MIL | Sturgeon precinct, Lee Co., KY | C191 | S163 |
 | 1 Jun 1900 | — | Elias & Mary at Proctor hh 25/25, 6-6 children living; **Provy Hoover gdau** 13 in the house. George Burke hh 36/36 includes **Charles B. son** Nov 1879 | Proctor precinct, Lee Co., KY | C096 C097 | S076 |
 | 5 Mar 1900 | 28 | BIL John Newnam d. consumption (context) — **only** Newnam in Lee VS 1900–1904; not Samuel | Lee Co. | C098 | S077 |
 | 24 Feb 1906 (WikiTree lore) | ~34 | Alleged death of Samuel | Lee Co.? | C012 | S030 | unproved; required before 1910 by Pearl’s boarding |
 | 29 Aug 1904 | — | Loose: S. P. Newnam 30 2nd m. Rosa L. Banks, Lee — **not merged** | Lee Co. | C013 | S014 prior |
-| 4 Oct 1897 | — | FAN: Hardin Gray × **Vesta MAYES**, 16, **at Liza Mays**; father b. VA, mother b. Owsley — PROBABLE fourth Larkin/Louisa child | Sturgeon / Lee Co., KY | C166 C167 | S144 |
+| 4 Oct 1897 | — | FAN: Hardin Gray × **Vesta MAYES**, 16, **at Liza Mays**; father b. VA, mother b. Owsley — **PROVEN** fourth Larkin/Louisa child (C192) | Sturgeon / Lee Co., KY | C166 C167 C192 | S144 S164 |
 | 15 Jul 1903 | — | FAN: Burtie Brandenburg born, d/o John Brandenburg & Louisa Pendergrass (Louisa’s m2 by this date) | Lee Co., KY | C143 | S133 |
 | **29 Aug 1903** | — | FAN: S. P. Farmer × **Martha Mays**, 17, at **her mother’s, Eliza Brandenburg’s** | Lee Co., KY | C165 C161 | S145 |
 | 28 Sep 1904 | — | Chas. B. Burke × Provie Hoover at Proctor; **“E. T. Newnam Granfather appeared”** | Proctor, Lee Co., KY | C096 | S074 |
@@ -47,7 +48,8 @@ Place as it was *at the date*; modern equivalent in brackets. Flag impossibiliti
 | 15 Apr 1910 | ~38 | **Not in KY/AR/MO N-550 as Dora ~39; not in TN N-550 D-block or McCoy M-window; Coy nil KY/AR/MO/TN-C; Samuel P not a KY N-550 head; two KY Dora Stones rejected; KY child Soundex OCR nil; not KY P-142 Peebles head or wife; not AR P-142 indexed Dora ~39; not in Sturgeon ED 99 as Newnam (original).** 1900 dw **67** reoccupied (Hamilton 4A / Garrett 6B). **1910 Proctor ED 100:** Louisa Mays/Brandenburg **nil**; three Dora daughters rejected (Taylor 16 / Hall 18 / Evans 9) | unknown (not Sturgeon as Newnam; not Proctor as Newnam/Stone) | C030 C031 C031b C034–C039 C077 C081–C083 C088 C106 C154 C155 | S020–S023 S025–S028 S058 S062 S063 S067 S089 S137 |
 | Apr 1910 | — | FAN **rejected:** ED 99 fam **97** John Brandenburg 29 + Susan/Louisa 26 + Ida 6 + Bertie 5 ≠ Louisa P. | Sturgeon, Lee Co., KY | C177 C178 | S152 S153 |
 | ~11 May 1910 | — | FAN: **Samuel Farmer** 33 + **Martha** 23 + Flora 5 + Everett 3, ED 99 fam **251** sh **13 B** = S. P. × Martha Mays. **Louisa not in the house** | Sturgeon, Lee Co., KY | C182 C183 | S155 S156 |
-| Apr 1910 | — | FAN: **Hardin Gray** 34 + **Vista** 27 + four children, Lee ED 99 fam **248** (Miracode). **Louisa not on the card.** = C166 couple | Sturgeon, Lee Co., KY | C184 C166 | S160 |
+| Apr 1910 | — | FAN: **Hardin Gray** 34 + **Vista** 27 + four children, Lee ED 99 fam **248** (Miracode). **Louisa not on the card.** Bound ED 99 has **no** matching original line (fam 243–249 gap; 14B blank) | Sturgeon, Lee Co., KY | C184 C166 C194 | S160 S165 |
+| **21 Oct 1958** | — | FAN: **Vestie Bell Gray** d. Lee Co.; parents **Larkin Mays** + **Eliza Pendergrass**; b. 9 Sep 1882 (conflict #15) | Lee Co., KY | C192 | S164 S166 |
 | Apr 1910 | — | FAN: 1910 KY M-200 **no** Lee Louisa/Eliza/Ida/Whitley Mays as indexed heads; Clark Whitley 24 rejected | Kentucky (Miracode) | C185 C186 C187 C188 | S158 S159 |
 | Jun 1900 | — | Greene ED **40** extra sheets (2 B, 9 A, 14 A/B) **nil Stone** (extends C170) | Springfield, Greene Co., MO | C181 | S157 |
 | Apr 1910 | — | Parents Elias (“Elisa”) & Mary (Smallwood) Newnam, couple alone, Proctor ED 100 dw 19/20 | Lee Co., KY | C075 | S057 |
