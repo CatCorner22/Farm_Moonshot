@@ -318,6 +318,10 @@ One row per search, **including nil results**. Access: free | subscription | on-
 
 | L270 | 2026-10-29 | Reclaim The Records KY index **1965–1990** NEWNAM rows (P010) | **John H. Newnam** decedent | **Nil** **JOHN** Newnam with plausible age. Other **NEWNAM** deaths logged (e.g. **Grant** **1970** Lee, **Cora** **1981** Lee) — FAN only, not P010 (**C238**, **S246**) | S246 C238 | Out-of-state; WWI draft |
 | L271 | 2026-10-29 | Lee Marriage Book **12** re-read (P010) | **John** Newnam groom **1917** | **Rejected:** **John NEWNAM** age **25**, parents **John** & **Serilda**, × **Margaret SPARKS** — not **Samuel**/**Dora** child b. Aug 1899 (**C239**, **S247**) | S247 C239 | WWI draft Lee Co. microfilm |
+| L272 | 2026-10-29 | Genealogy Trails Lee WWI draft transcript (**B047**) | **John H. / McCoy** Newnam registrant **1917–1918** | **Nil** — **1126** card rows parsed; **no** **Newnam**, **Newman**, **McCoy**, or **Pelfrey** surname on Lee boards in this transcript (**C240**, **S248**). Sep **1918** cohort includes other men b. **1899** (e.g. **Lutes, Rollie**) — not P010 | S248 C240 | FS/NARA M1509 images; Estill/Owsley/AR boards |
+| L273 | 2026-10-29 | WWI workaround ladder (**B047**) | M1509 Lee roll / FS coll. **1968530** | **FS** search **Incapsula**; **IA** `worldwaridraftregistrationcards` **0** KY Lee hits; **GT** Estill/Owsley WWI URLs **406**; NARA catalog API returns SPA shell only | — | FS sign-in browse **United States, WWI Draft Registration Cards** KY **Lee** |
+
+**Access honesty (pass 45):** Genealogy Trails Lee WWI HTML **seen** + machine parse (**sources/military/lee-wwi-genealogytrails-parse-2026-10-29.txt**). FS draft **unread**. TSLA **403**.
 
 **Access honesty (pass 44):** TSLA named search still **403**/empty on curl. Computer-use browser **unavailable** (model quota). FS draft search **Incapsula**. Marriage Book **12** transcript **seen**.
 
