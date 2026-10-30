@@ -41,6 +41,12 @@ Diplomatic transcriptions: [`08-transcriptions.md`](08-transcriptions.md). Citat
 | 65 | 1900 (index) | Negative search | [Missouri C-563 — John after Jib; no Jesse](sources/soundex/mo1900-c563-p2998-john-after-jib-no-jesse.jpg) |
 | 66 | 1900 (index) | Rejected same-name | [Missouri N-550 — Bella, 25, St Louis](sources/soundex/mo1900-n550-p406-bella-stlouis-rejected.jpg) |
 | 67 | 1900 (index) | Rejected same-name | [Missouri N-550 — Belle, 29, Virginia, Kansas City](sources/soundex/mo1900-n550-p407-belle-kc-rejected.jpg) |
+| 68 | 23 Jun 1900 | Context | [Bollinger Lorance ED 6 sheet 14 A header](sources/census/1900-bollinger-lorance-ed6-sh14a-hdr.jpg) |
+| 69 | 23 Jun 1900 | Context | [Jacob I Conrad household — Lorance ED 6 sheet 14 A](sources/census/1900-bollinger-lorance-ed6-sh14a-jacob-conrad.jpg) |
+| 70 | Jun 1900 | Negative search | [Bollinger Liberty ED 5 sheet 15 A header](sources/census/1900-bollinger-liberty-ed5-sh15a-hdr.jpg) |
+| 71 | Jun 1900 | Context | [George E Conrad household — Lorance ED 6 sheet 1 B](sources/census/1900-bollinger-lorance-ed6-sh1b-george-conrad.jpg) |
+| 72 | 1910 (index) | Negative search | [Missouri C-563 — Jesse window; no Liberty card](sources/soundex/mo1910-c563-p140-jesse-window-no-liberty.jpg) |
+| 73 | 1910 (index) | Context | [Missouri C-563 — Francis M Conrad of Bollinger](sources/soundex/mo1910-c563-p120-francis-m-bollinger.jpg) |
 | 17 | Apr 1910 | Negative search | [Kentucky N-550 — Millie / Missouri; no McCoy](sources/soundex/ky1910-n550-p329-millie-missouri.jpg) |
 | 18 | Apr 1910 | Negative search | [Kentucky N-550 — Monroe; still no McCoy](sources/soundex/ky1910-n550-p330-monroe-no-mccoy.jpg) |
 | 19 | Apr 1910 | Rejected same-name | [Kentucky N-550 — Sam / Samuel, none is the husband](sources/soundex/ky1910-n550-p342-sam-samuel-not-p002.jpg) |
@@ -315,7 +321,67 @@ Individual card. Newman, Belle, February 1871, age 29, born Virginia, Jackson Co
 
 ![Missouri N-550 — Belle, 29, Virginia, Kansas City](sources/soundex/mo1900-n550-p407-belle-kc-rejected.jpg)
 
+### 68 · 23 Jun 1900 · Bollinger Lorance ED 6 sheet 14 A header
+
+**Role:** Context  
+**File:** [`sources/census/1900-bollinger-lorance-ed6-sh14a-hdr.jpg`](sources/census/1900-bollinger-lorance-ed6-sh14a-hdr.jpg)  
+**Source:** S274 · C297
+
+Supervisor 12, ED 6, sheet 14 A, stamped 74-01, enumerator Thomas H. Stevens, 23 June 1900. This is the sheet the Soundex clerk mis-cited as sheet 17.
+
+![Bollinger Lorance ED 6 sheet 14 A header](sources/census/1900-bollinger-lorance-ed6-sh14a-hdr.jpg)
+
+### 69 · 23 Jun 1900 · Jacob I Conrad household — Lorance ED 6 sheet 14 A
+
+**Role:** Context  
+**File:** [`sources/census/1900-bollinger-lorance-ed6-sh14a-jacob-conrad.jpg`](sources/census/1900-bollinger-lorance-ed6-sh14a-jacob-conrad.jpg)  
+**Source:** S274 · C296 · C292
+
+Dwelling 265/266. Conrad, Jacob I, December 1835, age 64, married 39 years; daughter Maud, April 1878, 21; son Buen, October 1880, 19. No wife on the lines. No Jesse. No Letha. Local FAN of the 1910 Liberty Jesse Conrad house — not merged.
+
+![Jacob I Conrad household — Lorance ED 6 sheet 14 A](sources/census/1900-bollinger-lorance-ed6-sh14a-jacob-conrad.jpg)
+
+### 70 · Jun 1900 · Bollinger Liberty ED 5 sheet 15 A header
+
+**Role:** Negative search  
+**File:** [`sources/census/1900-bollinger-liberty-ed5-sh15a-hdr.jpg`](sources/census/1900-bollinger-liberty-ed5-sh15a-hdr.jpg)  
+**Source:** S275 · C298
+
+Supervisor 12, ED 5, sheet 15 A, enumerator DeKalb Westenhaver. First of the two sheets past the pass-58 close of sheets 1–14. Combined with those, Liberty ED 5 is complete — no Conrad, Sullivan, or Newman target.
+
+![Bollinger Liberty ED 5 sheet 15 A header](sources/census/1900-bollinger-liberty-ed5-sh15a-hdr.jpg)
+
+### 71 · Jun 1900 · George E Conrad household — Lorance ED 6 sheet 1 B
+
+**Role:** Context  
+**File:** [`sources/census/1900-bollinger-lorance-ed6-sh1b-george-conrad.jpg`](sources/census/1900-bollinger-lorance-ed6-sh1b-george-conrad.jpg)  
+**Source:** S275 · C301
+
+Household 16. Conrad, Geo E, March 1852, age 48, married 7 years; wife Flora A, March 1874, 26, 3/3. The three children were born 1894–1897. No Jesse. No Letha. Another local FAN — not merged.
+
+![George E Conrad household — Lorance ED 6 sheet 1 B](sources/census/1900-bollinger-lorance-ed6-sh1b-george-conrad.jpg)
+
 ## 1910 — Soundex, Peebles test, and Sturgeon ED 99
+
+### 72 · 1910 (index) · Missouri C-563 — Jesse window; no Liberty card
+
+**Role:** Negative search  
+**File:** [`sources/soundex/mo1910-c563-p140-jesse-window-no-liberty.jpg`](sources/soundex/mo1910-c563-p140-jesse-window-no-liberty.jpg)  
+**Source:** S276 · C302
+
+Typed Miracode. Jesse/Jessie heads are Pike Jessica 44, Buchanan Jesse 36 with Faerl, and Buchanan Jno 35 living alone. None is the Liberty Jesse 37 + Letha 12 household already read on the original.
+
+![Missouri C-563 — Jesse window; no Liberty card](sources/soundex/mo1910-c563-p140-jesse-window-no-liberty.jpg)
+
+### 73 · 1910 (index) · Missouri C-563 — Francis M Conrad of Bollinger
+
+**Role:** Context  
+**File:** [`sources/soundex/mo1910-c563-p120-francis-m-bollinger.jpg`](sources/soundex/mo1910-c563-p120-francis-m-bollinger.jpg)  
+**Source:** S276 · C303
+
+Typed Miracode. Conrad, Francis M, Bollinger, age 68, with John R in the household. Local FAN of the Liberty Jesse house — not merged.
+
+![Missouri C-563 — Francis M Conrad of Bollinger](sources/soundex/mo1910-c563-p120-francis-m-bollinger.jpg)
 
 ### 17 · Apr 1910 · Kentucky N-550 — Millie / Missouri; no McCoy
 

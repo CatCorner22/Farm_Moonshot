@@ -257,3 +257,23 @@ research/dora-ella-newnam/sources/soundex/mo1900-n550-p406-bella-stlouis-rejecte
 research/dora-ella-newnam/sources/soundex/mo1900-n550-p407-belle-kc-rejected.jpg
   sha256: 5089b9afcfbe3ac681849e4f1826da4145c04f67f320a36f1b8f3242f8dfcaee
   format: JPEG inverted Soundex card
+research/dora-ella-newnam/sources/census/1900-bollinger-lorance-ed6-sh14a-hdr.jpg
+  sha256: 66bda5e03e895309ef9d269ec8b1d3cec278a07b1d2934ce87e7399c1f7890c3
+  format: JPEG header crop, T623-840 p.24
+research/dora-ella-newnam/sources/census/1900-bollinger-lorance-ed6-sh14a-jacob-conrad.jpg
+  sha256: 55f57924f45304b1f37f55da3212d5429258c2f649428f8aa405e9d3b24bb61a
+  format: JPEG household crop, T623-840 p.24 dw 265/266
+research/dora-ella-newnam/sources/census/1900-bollinger-liberty-ed5-sh15a-hdr.jpg
+  sha256: e658e516a1e9037163d91456279ac94d15d5ee6e4586521165c8de69ec5a1e8b
+  format: JPEG header crop, T623-839 p.1133
+research/dora-ella-newnam/sources/census/1900-bollinger-lorance-ed6-sh1b-george-conrad.jpg
+  sha256: 7daa121902b2fd41806f073b230bf0e3e280be10598b1c9fc34a725b8f814830
+  format: JPEG name-column crop, T623-839 p.1138
+research/dora-ella-newnam/sources/soundex/mo1910-c563-p140-jesse-window-no-liberty.jpg
+  sha256: 4da5f76ed45b38a5eee3b12e4a0715ee54d0cbc1f0c28097278004f3106b553d
+  format: JPEG Miracode page
+research/dora-ella-newnam/sources/soundex/mo1910-c563-p120-francis-m-bollinger.jpg
+  sha256: af0eb94325716a3df1b4ea3695217a0a134d8f5956b64707124f5fa9d0b39411
+  format: JPEG Miracode page
+research/dora-ella-newnam/sources/census/b007-pass63-1900-jacob-ed5-ed6-2026-10-30.txt
+  format: Pass 63 search log

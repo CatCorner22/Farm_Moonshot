@@ -570,5 +570,46 @@ No Jesse. No infant Letha. John cards begin p.**2998**. → **C291** / **C292**.
 
 Both rejected vs 1910 Liberty **Newman, Belle** **30** Wd (**C285**). → **C293**.
 
+## DOC027 — 1900 U.S. census, Bollinger Co. MO, Lorance ED 6 sh 14 A (T623-840 p.24)
+- Images: `sources/census/1900-bollinger-lorance-ed6-sh14a-hdr.jpg` SHA-256 `66bda5e03e895309ef9d269ec8b1d3cec278a07b1d2934ce87e7399c1f7890c3`; `…-sh14a-jacob-conrad.jpg` `55f57924f45304b1f37f55da3212d5429258c2f649428f8aa405e9d3b24bb61a`
+- Stamp: Supervisor **12**, ED **6**, Sheet **14 A**; stamped **74-01**; enumerator **Thomas H. Stevens**; **23 Jun 1900**
+- Provenance: **Image seen** 30 Oct 2026 (140 dpi pdftoppm)
+
+### Diplomatic (dwelling 265/266 only)
+> **265/266 Conrad, Jacob I** — Head, W M, Dec **1835**, **64**, M, **39**, b. Missouri, father **North Carolina**, mother Missouri  
+> **Maud** — Daughter, W F, Apr **1878**, **21**, S, b. Missouri, parents Missouri  
+> **Buen** — Son, W M, Oct **1880**, **19**, S, b. Missouri, parents Missouri
+
+Pass 2: No wife on the lines. Soundex members match **C292**. Sheet is **14 A**, not **17**. → **C296** / **C297**.
+
+## DOC028 — 1900 U.S. census, Bollinger Co. MO, Lorance ED 6 sh 1 B (T623-839 p.1138)
+- Image: `sources/census/1900-bollinger-lorance-ed6-sh1b-george-conrad.jpg` SHA-256 `7daa121902b2fd41806f073b230bf0e3e280be10598b1c9fc34a725b8f814830`
+- Provenance: **Image seen** 30 Oct 2026
+
+### Diplomatic (household 16 only)
+> **16/16 Conrad, Geo E** — Head, W M, Mar **1852**, **48**, M, **7**  
+> **Flora A** — Wife, W F, Mar **1874**, **26**, M, **7**, **3/3**  
+> **R. J.** — Daughter, W F, Mar **1894**, **6**, S  
+> **Rudolph A** — Son, W M, ~**1896**, **4**, S  
+> **C.** — Son, W M, Nov **1897**, **2**, S
+
+No Jesse. No Letha. → **C301**.
+
+## DOC029 — 1910 MO Miracode C-563, Jesse window + Francis M
+- Images: `sources/soundex/mo1910-c563-p140-jesse-window-no-liberty.jpg` SHA-256 `4da5f76ed45b38a5eee3b12e4a0715ee54d0cbc1f0c28097278004f3106b553d`; `…-p120-francis-m-bollinger.jpg` `af0eb94325716a3df1b4ea3695217a0a134d8f5956b64707124f5fa9d0b39411`
+- Reel: T1270 roll **50**, IA `soundex1910mo050` pp **120**, **140**
+
+### Diplomatic (p.140 Jesse/Jessie heads)
+> **C563 CONRAD, JESSICA** — Pike / Louisiana · H · W **44** Missouri · Kate **29** · Jess **4**  
+> **C563 CONRAD, JESSE** — Buchanan / St Joseph · H · W **36** Missouri · Faerl **29** Kansas · Harry **16** · Jesse **8** · Gega **7**  
+> **C563 CONRAD, JNO** — Buchanan · H · W **35** Missouri · living alone
+
+No Liberty / Bollinger Jesse matching **C244**. → **C302**.
+
+### Diplomatic (p.120)
+> **C563 CONRAD, FRANCIS M** — Bollinger · H · W **68** Missouri · Conrad, John R (in household)
+
+Local FAN, not Jesse. → **C303**.
+
 ## DOC009 — 1910 TN Soundex N-550 McCoy window (nil)
 Handwritten family/individual cards n2461–n2469. Sequence after Mary C (n2460): Mary D 49 Jefferson (son Layton 11); Mary M 70 Hamilton; Mek. G 50 Cheatham (Florence 19, John 17, General 16, Frances 13, William 10, Doria 6, Luther 1½); Melvin 3½ Giles (gs of Deacon George W); Melvin 54 Giles (SIL of same); Minerva 80 Robertson (gds Lona Neely, Nellie Erwin); Minnie 21 Roane (with Sam P. Sparks); Mitchell 27 Hardin (Ollie P 25, Gladys 4, Burl W 3, Royal E 1 9/12). **No McCoy.** SHA-256 n2463 `23610f8aa4c159b1b554ed1786d11f57d2f56f8a2e8994f7289ae7bd02dfca53`; n2469 `340489566090880388fa6b81ca5751c5944dcaf56a7b44f70fe560788f308586`.

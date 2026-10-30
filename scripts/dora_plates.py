@@ -175,6 +175,48 @@ PLATES: list[dict] = [
         caption="Individual card. Newman, Belle, February 1871, age 29, born Virginia, Jackson County, Kansas City, Broadway 1021. Not the 1910 Liberty widow (birthplace and city fail).",
         source="S273 · C293",
     ),
+    dict(
+        n=68, date="23 Jun 1900", year=1900, role="context",
+        path="census/1900-bollinger-lorance-ed6-sh14a-hdr.jpg",
+        title="Bollinger Lorance ED 6 sheet 14 A header",
+        caption="Supervisor 12, ED 6, sheet 14 A, stamped 74-01, enumerator Thomas H. Stevens, 23 June 1900. This is the sheet the Soundex clerk mis-cited as sheet 17.",
+        source="S274 · C297",
+    ),
+    dict(
+        n=69, date="23 Jun 1900", year=1900, role="context",
+        path="census/1900-bollinger-lorance-ed6-sh14a-jacob-conrad.jpg",
+        title="Jacob I Conrad household — Lorance ED 6 sheet 14 A",
+        caption="Dwelling 265/266. Conrad, Jacob I, December 1835, age 64, married 39 years; daughter Maud, April 1878, 21; son Buen, October 1880, 19. No wife on the lines. No Jesse. No Letha. Local FAN of the 1910 Liberty Jesse Conrad house — not merged.",
+        source="S274 · C296 · C292",
+    ),
+    dict(
+        n=70, date="Jun 1900", year=1900, role="negative",
+        path="census/1900-bollinger-liberty-ed5-sh15a-hdr.jpg",
+        title="Bollinger Liberty ED 5 sheet 15 A header",
+        caption="Supervisor 12, ED 5, sheet 15 A, enumerator DeKalb Westenhaver. First of the two sheets past the pass-58 close of sheets 1–14. Combined with those, Liberty ED 5 is complete — no Conrad, Sullivan, or Newman target.",
+        source="S275 · C298",
+    ),
+    dict(
+        n=71, date="Jun 1900", year=1900, role="context",
+        path="census/1900-bollinger-lorance-ed6-sh1b-george-conrad.jpg",
+        title="George E Conrad household — Lorance ED 6 sheet 1 B",
+        caption="Household 16. Conrad, Geo E, March 1852, age 48, married 7 years; wife Flora A, March 1874, 26, 3/3. The three children were born 1894–1897. No Jesse. No Letha. Another local FAN — not merged.",
+        source="S275 · C301",
+    ),
+    dict(
+        n=72, date="1910 (index)", year=1910, role="negative",
+        path="soundex/mo1910-c563-p140-jesse-window-no-liberty.jpg",
+        title="Missouri C-563 — Jesse window; no Liberty card",
+        caption="Typed Miracode. Jesse/Jessie heads are Pike Jessica 44, Buchanan Jesse 36 with Faerl, and Buchanan Jno 35 living alone. None is the Liberty Jesse 37 + Letha 12 household already read on the original.",
+        source="S276 · C302",
+    ),
+    dict(
+        n=73, date="1910 (index)", year=1910, role="context",
+        path="soundex/mo1910-c563-p120-francis-m-bollinger.jpg",
+        title="Missouri C-563 — Francis M Conrad of Bollinger",
+        caption="Typed Miracode. Conrad, Francis M, Bollinger, age 68, with John R in the household. Local FAN of the Liberty Jesse house — not merged.",
+        source="S276 · C303",
+    ),
     # --- 1910 Soundex / Miracode ---
     dict(
         n=17, date="Apr 1910", year=1910, role="negative",
