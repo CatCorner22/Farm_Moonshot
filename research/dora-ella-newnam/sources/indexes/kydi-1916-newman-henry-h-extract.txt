@@ -1,0 +1,9 @@
+KYDI 1916 extract — Newman/Newnam Henry/Harrison rows
+Source year file: Reclaim_The_Records_-_Kentucky_Death_Index_-_01916.TXT
+SHA-256 of full year file (not committed): b9a51b721c714d1e51ddd3896e5896abfcdae7df47978d6ad5b809d411909e30
+Internet Archive item: reclaim-the-records-kentucky-death-index-01911-1989
+Opened 30 Oct 2026 (America/New_York).
+Index does not name parents.
+
+   NEWMAN          HENRY               52       JEFFN                   03/12/1916 016  07906 /1916
+   NEWMAN          HENRY      H        72       OWSLY                   08/06/1916 044  21663 /1916

@@ -1,0 +1,11 @@
+Lee County KY death-certificate extracts, USGenNet year files 1911-1945.
+Opened 30 Oct 2026 (America/New_York). Transcriptions of photographs, not original DC images.
+Search: Newman/Newnam decedent OR parent fields containing Harrison, Millie, Tincher as Elias T. sibling-parent test.
+Positive for Elias T. himself: 1932 extract (already S434) father Henry Harrison Newnam / mother Millie Tincher Newnam.
+Nil other Lee 1911-1945 extract naming those two as parents of a Newman/Newnam decedent.
+FAN hits kept unmerged:
+- 1913 Elias TINCHER, 80y 6m, b. 4 Aug 1832 Estill, d. 4 Feb 1913, Tincher Cem.; parents Elias TINCHER & Rebecca ASHCRAFT.
+- 1922 Martha Ross, 43, b. 1 Aug 1880 Lee, d. 28 Aug 1922 Sturgeon; parents Brice Burns & Millie Newnam.
+- 1928 Frank Newnam, d. 16 Mar 1928 St. Helens; parents William Newnam & Rhoda Tincher.
+1918 Mary A. still nil as decedent (already C512).
+Year files 1911-1945 downloaded to /tmp/dora-pass51/lee-deaths/ (not all committed; 1913 extract below uses the live HTML).

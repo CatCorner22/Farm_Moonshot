@@ -683,3 +683,39 @@ research/dora-ella-newnam/sources/census/1880-lee-ky-ed59-sheet43-p768-caroline-
   sha256: c637068265f8f5b44105f5e1566796cea49c47e451421c0e15a982f9506b8b3f
   format: JPEG photo, 344x208px
   check: cemetery overview; individual names not readable
+/workspace/research/dora-ella-newnam/sources/indexes/kydi-1916-newman-henry-h-extract.txt
+  sha256: 7700524e8ce2df1da81925a45f50d04ff1689f72b5b911a56bf1a19356dd7de7
+  format: text extract, 583 bytes
+  check: NEWMAN HENRY H 72 OWSLY 08/06/1916 vol 044 #21663; reject JEFFN Henry 52
+/workspace/research/dora-ella-newnam/sources/indexes/owsley-deaths-1916dc.html
+  sha256: 434640d90268e231254f89bbe176338420c53a9ae356ba017a29e7c7c4bc3cc4
+  format: HTML, 32,593 bytes
+  check: NEWNAM Henry H. 72 parent cells empty; GILBERT Josephine d/o Henry H. NEWNAM
+/workspace/research/dora-ella-newnam/sources/indexes/owsley-1916-henry-h-tfkrha-extract.txt
+  sha256: b9963fe21e20483233e1c6420ec3ee6d8980ee29bf4e346774f30aa81ede500a
+  format: text extract, 1,146 bytes
+  check: File 21663 Travelers Rest; no father/mother/informant
+/workspace/research/dora-ella-newnam/sources/cemetery/fag-elias-t-newnam-101658752-portrait.jpg
+  sha256: f23c6f043cbdae08e6d76363cb29b9a1c9689b2802b5804ab60fa1d5177a7a3e
+  format: JPEG photo, 531x442px
+  check: framed portrait of elderly bearded man and boy; not a gravestone
+/workspace/research/dora-ella-newnam/sources/indexes/fag-elias-t-newnam-101658752-wayback-extract.txt
+  sha256: ac8b7bb271e14a3616db9557ba03eb34352a4ef01036913991235562c5d34c6c
+  format: text extract, 806 bytes
+  check: Wayback 20191019145911 authored bio; photo is portrait not stone
+/workspace/research/dora-ella-newnam/sources/indexes/tincher-tribe-genealogy-com-166-extract.txt
+  sha256: 895c1f4c7f1a29850420e71726f76d281c3122b6b078f78e74086966008fe1e3
+  format: text extract, 2,462 bytes
+  check: authored Abt. 1839 Belinda/Armilda x Henry Harrison; cousin permission Belinda
+/workspace/research/dora-ella-newnam/sources/indexes/lee-deaths-1911-1945-newman-parent-sweep.txt
+  sha256: a6027b2fc41e378367ab898fb9eb8a0030df3a9e46d98de67bfb22b36989563c
+  format: text extract, 1,009 bytes
+  check: nil sibling DC naming Henry Harrison + Millie Tincher except Elias T. 1932
+/workspace/research/dora-ella-newnam/sources/indexes/lee-deaths-1913-elias-tincher-extract.txt
+  sha256: 6ae0716f66a54894ee7923350b7524b38b9ec1fc57b33067ec1fae7b1ca8db7e
+  format: text extract, 375 bytes
+  check: Elias TINCHER 80y 6m d. 4 Feb 1913; parents Elias TINCHER x Rebecca ASHCRAFT
+/workspace/research/dora-ella-newnam/sources/indexes/estill-1840-finding-aids-pass51.txt
+  sha256: c531b5813e98ce64cbb97229a49249f64b009ef92e62f58da0eea2421d49f483
+  format: text extract, 1,382 bytes
+  check: Burns not on IA; KHS/KDLA reels; eCCLIX paid; Trails 1840 gap; I Dream 404

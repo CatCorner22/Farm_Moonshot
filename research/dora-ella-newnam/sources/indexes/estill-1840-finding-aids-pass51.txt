@@ -1,0 +1,9 @@
+Estill 1840 Newman×Tincher finding aids, 30 Oct 2026 (America/New_York). None of these is the original bond.
+- SNAC 8180127: Estill County Clerk marriage records [microform] 1840-1844, 1 reel, Kentucky Historical Society.
+- SNAC 8180128: Estill marriage records [microform] 1819-1851, 1 reel, KHS.
+- SNAC 8234588: Estill marriage bonds 1808-1868, 9 reels, KDLA / Kentucky State Archives.
+- FamilySearch / WorldCat: "Record of marriages, Estill County, Kentucky, for the period of years 1808 to 1851 inclusive"; "Estill County marriage permissive notes, 1809-1892"; "Marriage records (Estill County, Kentucky), 1808-1962"; Annie Walker Burns, Historical Records of Estill County, Irvine, Kentucky (McGhee), FS call 976.959 V25b. Not on Internet Archive (search 30 Oct 2026: only Rogers family history).
+- Estill County Clerk eCCLIX: marriages indexed/scanned back to 1797; account, software, and access fees required. In-office viewing free. https://estill.countyclerk.us/records/
+- Genealogy Trails Estill: 1808-1820 plus William Rogers 1851-1868 only (gap includes 1840).
+- I Dream of Genealogy Estill "1811-1925 Various Marriages (Groom-Indexed)" listed on https://idreamof.com/marriage/ky.html; guessed letter-N URLs 404; curl of the index blocked by Mod_Security.
+- Clark Co. kygenweb "various" marriages: Newman hit is 1814 Nancy Newman (Elijah), not Henry Harrison×Tincher.

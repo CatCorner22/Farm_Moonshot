@@ -1307,3 +1307,10 @@ Dwelling **407/407**, Proctor: John Newnam, 68, farmer, $1200/$900, born **Delaw
 
 Brandenburg-Quillen, Heidelberg. **Image seen.** 344×208 pixels. Individual inscriptions are **not readable**. The Mary A. and Elias T. lines used in this pass are from the HTML transcripts, not from this photograph.
 
+## Pass 51 note — FAG portrait (not a numbered plate)
+
+**File:** [`sources/cemetery/fag-elias-t-newnam-101658752-portrait.jpg`](sources/cemetery/fag-elias-t-newnam-101658752-portrait.jpg)  
+**Source:** S452 · S453 · C532 · DOC067
+
+Find A Grave memorial **101658752**. **Image seen.** 531×442 pixels. A framed outdoor portrait of an elderly bearded man and a boy. **Not a gravestone.** Caption on the mat is damaged and **not independently readable**. Does not close **B062**.
+

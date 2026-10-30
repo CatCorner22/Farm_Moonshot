@@ -1594,3 +1594,83 @@ Pass 2: no row dated 1840. No Henry, Harrison, Belinda, Armilda, or Millie with 
 - Coverage ends 1825 → C522
 - Nancy Newman 1825 FAN → C523
 - Patsy Tincher 1821 FAN → C524
+
+## DOC066 — Owsley County KY 1916 death-certificate extracts, Henry H. Newnam (derivative)
+
+- KYDI extract: `sources/indexes/kydi-1916-newman-henry-h-extract.txt` SHA-256 `7700524e8ce2df1da81925a45f50d04ff1689f72b5b911a56bf1a19356dd7de7`
+- Kendrick HTML: `sources/indexes/owsley-deaths-1916dc.html` SHA-256 `434640d90268e231254f89bbe176338420c53a9ae356ba017a29e7c7c4bc3cc4` (32,593 bytes)
+- Bowman/Chandler extract: `sources/indexes/owsley-1916-henry-h-tfkrha-extract.txt` SHA-256 `b9963fe21e20483233e1c6420ec3ee6d8980ee29bf4e346774f30aa81ede500a`
+- Provenance: statewide index + two independent **transcriptions of photographs / microfilm**. **Not** the original certificate image. Two-pass of the HTML table and the C-page prose.
+
+### Diplomatic (KYDI)
+
+> **NEWMAN** · **HENRY** · **H** · **72** · **OWSLY** · **08/06/1916** · **044** · **21663**
+
+### Diplomatic (Kendrick table)
+
+> **NEWNAM, Henry H.** · **72 yrs** · **1844 KY** · **6 Aug** · **S.M. Cecil GY** · *(father empty)* · *(mother empty)*
+
+> **GILBERT, Josephine** · **32 yrs, 3 mos, 4 ds** · **19 Oct 1883 KY** · **23 Jan** · **S.M. Cecil GY** · **Henry H. NEWNAM** · **Mary J. PARDINGTON**
+
+### Diplomatic (Bowman/Chandler)
+
+> **Henry H.** · **8-6-1916** · File No. **21663** · DOB: **1844** · Place of Death: **Travelers Rest, Owsley Co., Ky.** · Male · White · **Widowed** · Age: **72y** · Occupation: **Farmer** · Birthplace: **Kentucky** · Cause: **Cerebral Hemorrage** · Contributory: **Arterioscolerosis** · Signed: **J.A. MAHAFFEY** · Sturgeon · Place of Burial: **S.M. CECIL g.y.** · Date of Burial: **8/7/1916** · Undertaker: **Friends** · Travelers Rest.
+
+Pass 2: parent cells are **empty** in both DC derivatives. File number **21663** matches KYDI volume **044**. Josephine’s father cell is filled; Henry H.’s is not. Jefferson Henry 52 is a different index row.
+
+### Facts extracted → claim IDs
+- KYDI row → C528
+- Extract wording / parents blank → C529
+- Identity vs 1860 H.H. 15 **PROBABLE** → C530
+- Josephine Gilbert FAN → C531
+- Gracy / Willie other houses → C540
+- Original unseen → C541
+
+## DOC067 — Find A Grave memorial 101658752 photograph (portrait, not a stone)
+
+- JPEG: `sources/cemetery/fag-elias-t-newnam-101658752-portrait.jpg` SHA-256 `f23c6f043cbdae08e6d76363cb29b9a1c9689b2802b5804ab60fa1d5177a7a3e` (531×442)
+- Wayback extract: `sources/indexes/fag-elias-t-newnam-101658752-wayback-extract.txt` SHA-256 `ac8b7bb271e14a3616db9557ba03eb34352a4ef01036913991235562c5d34c6c`
+- Provenance: images.findagrave.com 2016 upload; live memorial **403**; Wayback `20191019145911id_` **200**. **Image seen.**
+
+### Diplomatic (what the photograph shows)
+
+> A dark-green frame around a faded outdoor photograph. An elderly bearded man in a dark suit stands beside a boy in a light shirt and trousers, in front of a house and a picket fence. A paper label is glued on the lower-left of the mat; the lettering is damaged and **not independently readable**.
+
+Pass 2: this is **not** a gravestone. Do not print a guessed caption. The authored memorial biography (Co. C bugler; Henry Harrison × Belinda Armilda Tincher) is not stone text.
+
+### Facts extracted → claim IDs
+- Portrait not stone → C532
+- Mary A. memorial CDX empty → C539
+
+## DOC068 — Lee County KY 1913 death-certificate extract, Elias Tincher (derivative)
+
+- Extract: `sources/indexes/lee-deaths-1913-elias-tincher-extract.txt` SHA-256 `6ae0716f66a54894ee7923350b7524b38b9ec1fc57b33067ec1fae7b1ca8db7e`
+- Parent-sweep notes: `sources/indexes/lee-deaths-1911-1945-newman-parent-sweep.txt` SHA-256 `a6027b2fc41e378367ab898fb9eb8a0030df3a9e46d98de67bfb22b36989563c`
+- Provenance: Kendrick transcription of **photographs**. **Not** the original certificate. Two-pass of the HTML row.
+
+### Diplomatic (HTML table cells)
+
+> **Elias TINCHER** · **80 yrs 6 mos** · **4 Aug 1832 Estill Co** · **4 Feb 1913** · **Tincher Cem.** · married · **Elias TINCHER** · **Rebecca ASHCRAFT**
+
+Pass 2: this decedent is a **Tincher**, not a Newnam. Parent names match the authored natal couple of Belinda/Armilda. **Not merged** as uncle of P004.
+
+### Facts extracted → claim IDs
+- 1913 Elias Tincher FAN → C533
+- 1911–1945 sibling-parent **nil** → C537
+- 1922 Martha Ross / 1928 Frank Newnam FAN → C534 / C538
+
+## DOC069 — Estill 1840 Newman×Tincher finding aids and Tincher Tribe authored sketch
+
+- Finding aids: `sources/indexes/estill-1840-finding-aids-pass51.txt` SHA-256 `c531b5813e98ce64cbb97229a49249f64b009ef92e62f58da0eea2421d49f483`
+- Tincher Tribe extract: `sources/indexes/tincher-tribe-genealogy-com-166-extract.txt` SHA-256 `895c1f4c7f1a29850420e71726f76d281c3122b6b078f78e74086966008fe1e3`
+- Provenance: repository catalogs + an authored forum post. **Not** a marriage bond.
+
+### Diplomatic (authored sketch, truncated)
+
+> **BELINDA/ARMILDA TINCHER** … born **Abt. 1823** … married **HENRY HARRISON NEWMAN Abt. 1839** … cousin: permission given by her father **Elias**, that she was **Belinda Tincher** … children **WILLIAM** Abt. 1840; **ELIAS TINCHER NEWMAN** April 18, **1843**; **HARRISON H.** Abt. 1845; **PERMELIA (MILLIE)** Abt. 1848.
+
+Pass 2: **Abt. 1839** is not **27 Feb 1840**. Burns 1808–1851 and the KHS/KDLA films are named, not opened. eCCLIX is paid. Genealogy Trails skips 1821–1850.
+
+### Facts extracted → claim IDs
+- Authored 1839 vs 1840 → C535
+- Finding aids / remaining gap → C536
