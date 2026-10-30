@@ -1753,3 +1753,30 @@ Pass 2: Surname **Newman** (not Newnam). Ellen’s sex is **F** (Kendrick **M** 
 - Same house as 1870 C550 → C555
 - Infant John absent → C556
 - Later children FAN → C557
+
+## DOC073 — 1880 U.S. census, Owsley Co. KY ED 80, Page 9, Henry Newman 34
+- Header: `sources/census/1880-owsley-ed80-p9-hdr.jpg` SHA-256 `614fef1fc349fae4f8d55f45771b4f36ed882c1843cd75dcb93bd113fa473193` (2400×450)
+- Household: `sources/census/1880-owsley-ed80-p9-hh74-henry.jpg` SHA-256 `997d8ffe1e25c9ea9cea137d2c45da0d4f70b47d2452109dfe8f36655c6a42fc` (3200×684)
+- Nativity: `sources/census/1880-owsley-ed80-p9-hh74-nativity.jpg` SHA-256 `8a6f3c38e2904cb752fe03c0ab670136153f3e22d4f7161cbdbde24b46a02daf` (1600×779)
+- Provenance: NARA T9 reel **438**; IA `10thcensus0438unit` jp2 `_0302.jp2` (jp2 SHA-256 `ee53b5641953bd2c749a7a8582aea5bedf4fa9ae2e45bb91d211b0e2fd06821f`; **not committed**). **Image seen.** Two-pass.
+
+### Diplomatic
+
+> Page No. **9**. Supervisor’s Dist. No. **3**. Enumeration Dist. No. **80**. **6 Precinct** written over “Inhabitants in Enumeration Dist No 80”. County of **Owsley**, State of **Kentucky**. Enumerated by me on the **8th** day of June, 1880. Stamp **309**. Form **A**. Received **Sept. 20 80**. Enumerator of this ED (header series, including this sheet): **Robert W. Minter**.
+
+> Line **1** · **74** · **77** · **Newman, Henry** · W · M · **34** · md · **Farm Laborer** · (col. 14 mark, not a month numeral) · nativity **Kentucky** / **Ky.** / **Ky.**
+> Line **2** · — · **Mary** · W · F · **33** · **Wife** · md · **Keeping house** · cannot write (col. **23**) · **Kentucky** / **England** / **Ky.**
+> Line **3** · — · **Ellen F.** · W · F · **14** · **Daughter** · s · **At home** · attended school (col. **21**) · **Kentucky** / **Ky.** / **Ky.**
+> Line **4** · — · **Milla A.** · W · F · **12** · **Daughter** · s · **At home** · attended school (col. **21**) · **Kentucky** / **Ky.** / **Ky.**
+> Line **5** · — · **Chalista** · W · F · **7** · **Daughter** · s · **Kentucky** / **Ky.** / **Ky.**
+> Line **6** · — · **Laura B.** · W · F · **4** · **Daughter** · s · **Kentucky** / **Ky.** / **Ky.**
+> Line **7** · — · **Arthur** · W · M · **2** · **Son** · s · **Kentucky** / **Ky.** / **Ky.**
+
+Pass 2: Surname **Newman** (Kendrick **NEWNAM**). Given **Ellen F.** (not Ellih). **Milla A.** age **12** (not 19). Mary’s father cell is **England**, spelled in full. Sheet date **8th** June; ED opening on Page 1 was 1 June. Next house on line 8 is **75/78 Price, Elias**, 61, Farmer.
+
+### Facts extracted → claim IDs
+- Original household → C561
+- vs Kendrick spelling/date → C562
+- Mary father England on original → C563
+- vs 1860 still PROBABLE → C564
+- B065 done → C565

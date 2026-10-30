@@ -28,7 +28,7 @@ The parents on the 1880 schedule are the couple the certificate would name: Elia
 
 Ten years earlier, on **17 June 1870** — the original schedule; a published transcript said the 7th — Elias and Mary, both twenty-six, were at Travellers Rest in Owsley County with William D, eleven; Malissa D, six; Frances, three; and a one-year-old Mary. There was no Dora. That absence fits an 1871 birth. Next door was Isaac Newman, thirty-seven. [C375] [C067] [S355]
 
-On the next sheet of that Travellers Rest original, dwelling 134 is **Harrison Newman**, fifty-three, with Susan, forty-seven, and eight children from John, eighteen, down to twins Hiram and Sarah, two. That is the 1860 H.H. house, proven. There is no Henry of twenty-five in it. [C542] [C543] [C544] On 8 August 1870 a **Henry Newman**, twenty-four, worked in a coal mine in the Town of Beattyville with Mary, twenty-three, Ellen, five, Millia, three, and infant John. That house is the 1880 Buck Creek couple, proven. Identity with the 1860 boy remains probable, not proved. Millia, three, is not Millie Tincher. [C550] [C551] [C552] [C555]
+On the next sheet of that Travellers Rest original, dwelling 134 is **Harrison Newman**, fifty-three, with Susan, forty-seven, and eight children from John, eighteen, down to twins Hiram and Sarah, two. That is the 1860 H.H. house, proven. There is no Henry of twenty-five in it. [C542] [C543] [C544] On 8 August 1870 a **Henry Newman**, twenty-four, worked in a coal mine in the Town of Beattyville with Mary, twenty-three, Ellen, five, Millia, three, and infant John. That house is the 1880 Buck Creek couple, proven. On 8 June 1880 the original Buck Creek schedule — Owsley district 80, page 9 — lists **Newman, Henry**, thirty-four, a farm labourer, with Mary, thirty-three, whose father was born in England, Ellen F., fourteen, Milla A., twelve, Chalista, seven, Laura B., four, and Arthur, two. The enumerator wrote Newman, not Newnam. Identity with the 1860 boy remains probable, not proved. Millia, three, is not Millie Tincher. Infant John of 1870 is not in the 1880 house. [C550] [C551] [C552] [C555] [C561] [C562] [C563]
 
 A compiled Boone descent through Leah Scholl sits on WikiTree and on cemetery markers. This case has not independently re-proved those steps. They stay speculative.
 
@@ -215,7 +215,6 @@ Charts of pedigree, descendants, and lifespan follow the plates. Dashed lines me
 - Whether witness **Link Mays** is Larkin T. Mays — still possible, not merged.
 - Conflict **#22**: cemetery transcript dates Mary A. Newnam 11 July 1918; Kentucky’s 1918 death index has no matching Lee row. The Find A Grave JPEG on file is a portrait, not a stone.
 - The original 1932 Lee death certificate, volume 20, number 9525, and the original 1916 Owsley certificate, volume 44, number 21663. The 1916 extracts leave the parent cells blank.
-- The original 1880 Buck Creek schedule for Henry Newnam, thirty-four, whose 1870 Beattyville house is now on the film.
 - The Estill Newman–Tincher bond, 1826–1850. Published “to 1850” web files stop at 1825.
 
 The next chat should treat this book and `06-dossier.md` as the combined master, then work the open list. Do not reopen Peebles as a third marriage without a license. Do not print 1868 or 24 February 1906 as facts. Do not promote the 1850–60 Elias to proved fatherhood on the 1932 extract alone.

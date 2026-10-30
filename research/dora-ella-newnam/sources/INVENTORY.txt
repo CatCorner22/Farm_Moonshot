@@ -755,3 +755,15 @@ research/dora-ella-newnam/sources/census/1880-lee-ky-ed59-sheet43-p768-caroline-
   sha256: 20eb07d30ffde80a27c9985a59dee3162974ac7dea08d8059715b9df4a034d24
   format: text extract, 338 bytes
   check: Carter isolate; not merged with C550
+/workspace/research/dora-ella-newnam/sources/census/1880-owsley-ed80-p9-hdr.jpg
+  sha256: 614fef1fc349fae4f8d55f45771b4f36ed882c1843cd75dcb93bd113fa473193
+  format: JPEG crop, 2400x450px
+  check: ED 80 Page 9 stamp 309 8 Jun 1880 6 Precinct Owsley; T9-438 _0302.jp2
+/workspace/research/dora-ella-newnam/sources/census/1880-owsley-ed80-p9-hh74-henry.jpg
+  sha256: 997d8ffe1e25c9ea9cea137d2c45da0d4f70b47d2452109dfe8f36655c6a42fc
+  format: JPEG crop, 3200x684px
+  check: dw 74/77 Newman Henry 34 Farm Laborer + Mary 33 + Ellen F 14 + Milla A 12
+/workspace/research/dora-ella-newnam/sources/census/1880-owsley-ed80-p9-hh74-nativity.jpg
+  sha256: 8a6f3c38e2904cb752fe03c0ab670136153f3e22d4f7161cbdbde24b46a02daf
+  format: JPEG crop, 1600x779px
+  check: Mary father England; Henry Kentucky/Ky/Ky; children Kentucky/Ky/Ky
