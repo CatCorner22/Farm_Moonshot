@@ -1,0 +1,33 @@
+1883 GPO List of Pensioners on the Roll, vol. 5, Lee County, Kentucky
+IA item listpensionerso02buregoog, OCR djvu.txt (3,019,907 bytes).
+Pass 63, 30 Oct 2026 (America/New_York). OCR of the printed volume. Printed-page JPEG not isolated.
+
+OCR heading: LEE  COITNTY.
+PO column: BoMttyville (Beattyville).
+Twenty rows, then LETCHER COUNTY.
+
+OCR cert / name (website tables in lee-1883-pensioners-nil-extract.txt are the same twenty men/women):
+118,564 Lovelace, Jeremiah C
+212,320 Hughes, William P
+764,777 McIntire, Eveline D
+108,433 Stamper, Sarah
+87,746 Baker, Martha A
+23,005 Dunaway, Alice
+140,137 Bowman, Isabel
+136,000 Durbin, John
+24,187 Akers, Palsey
+181,283 Fields, Harison
+128,086 Brandenburg, Jas. H
+182,164 Blackwell, Joseph
+106,172 McGuire, William S
+95,133 Slow, Preston
+149,192 Thatcher, Abraham C
+126,050 Phillips, Zachariah
+171,515 Draton, John
+144,370 Cox, Elisha R. W
+88,142 Durbin, Joseph
+131,025 Frailey, Stephen A. D
+
+NIL Newman / Newnam / Smallwood in this OCR block.
+IA listofpensioners0005unit djvu.txt HTTP 500 this pass; this Google-scan volume was used instead.
+Does not name Elias T. or Henry H. Consistent with their first M850 payments under the Act of 6 Feb 1907.

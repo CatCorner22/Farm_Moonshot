@@ -2094,3 +2094,128 @@ Pass 2: Naper on the same page has company **I**; the Newnam company cells are b
 - Henry H. rank blank → C634
 - Francis D. unmerged → C644
 
+## DOC093 — M850 reel 1661 p0502/p0503, Newnam, Elias T. (original)
+- JPEGs: `sources/military/m850-1661-p0502-newnam-elias-t-front.jpg` SHA-256 `6876f6766f6e9fc6ec1ad5702cabe660ddcd7b72c40e13b1002da68e6f6fa27d`
+- Reverse: `sources/military/m850-1661-p0503-newnam-elias-t-reverse.jpg` SHA-256 `4edd1e6fd46e751d45d558d648657fa9cd8dc8d77a358aba15f7c096e079805c`
+- Provenance: NARA M850 / IA `veteransadminist1661unit` `_0502.jp2` / `_0503.jp2` JPEG derivatives, opened 30 Oct 2026. **Original image seen.** Two cards per frame; Elias T. is the **bottom** card (top of p0502 is Newmyer, John B.).
+
+### Diplomatic — front (bottom card)
+
+> NAME: **Newnam, Elias T.**
+> Certificate No. **631218** · **ARMY INVALID.** · ACT OF FEB. 6, 1907 / ACT OF MAY 11, 1912 / ACT OF MAY 1, 1920 / SPECIAL ACT
+> Service: **Bugler Co. 14 Ky V Cav**
+> Orig **12** · **23 Feb 1907** · cert **20 Apr 1907**
+> Inc **15** · **27 Apr 1912** · **15 May 1912**
+> Aug **20** · **23 May 1912** · **7 Nov 1912**
+> Reiss **30** · **Mch 2, 1917** · **Apr 6, 1917**
+> Inc **50** · **May 1, 1920**
+> **72** · **Nov 14, 1921** · **June 2, 1922**
+> Fees: atty none / Wolfe Nolley
+> Transferred from: **LOUISVILLE, KY**
+> Died: *(blank)* · Bureau notified: *(blank)*
+> Home: **Proctor, Ky.**
+> Former Roll No. **29361** Oct 27/19
+
+Pass 2: Company letter **C** is **not** written on the service line. Do not fill it from M397 or Speed onto this card. Died blank is expected if he transferred to the modern payment card in 1923 and died in 1932.
+
+### Diplomatic — reverse (bottom card)
+
+> NAME: **Elias T. Newnam** · Certificate No. **631218**
+> Last paid to: **4 Feby 1907** · Rate **12–15–20–30** then **72** · SPECIAL ACT / ACT OF MAY 11, 1912 / ACT OF MAY 1, 1920
+> GROUP **2** PAID TO **AUG. 4, 1922**
+> Stamped **Trans. to Mo. Payment Card** (modern-card conversion)
+
+Pass 2: “Mo.” here is the printed transfer stamp used on many M850 reverses in 1923, not a Missouri residence.
+
+### Facts extracted → claim IDs
+- Elias T. cert 631218 Bugler 14 Ky V Cav Proctor → C646 C647 C654 C666
+
+## DOC094 — M850 reel 1661 p0508/p0509, Newnam, Henry H. (original)
+- JPEGs: `sources/military/m850-1661-p0508-newnam-henry-h-front.jpg` SHA-256 `11fc0379eecdb49c1dfbed91ee3e6a9748401189d075178f811141d038fe5e96`
+- Reverse: `sources/military/m850-1661-p0509-newnam-henry-h-reverse.jpg` SHA-256 `3803dbc73a9ccbec83f8ec6cda7ba020aa2027dfeb63022d73c3ecca84ccca7d`
+- Provenance: same reel, `_0508.jp2` / `_0509.jp2`. **Original image seen.** Henry H. is the **top** card (bottom of p0508 is Newnam, James M., unmerged).
+
+### Diplomatic — front (top card)
+
+> NAME: **Newnam, Henry H.**
+> Certificate No. **798864** · **ARMY INVALID** stamped **DEAD** · ACT OF MAY 11, 1912 / ACT OF FEBRUARY 6, 1907
+> Service: **Pvt. Co. C 14 Ky V Cav**
+> Orig **12** · **23 Feb 1907** · **6 May 1907**
+> Transferred from: **LOUISVILLE, KY**
+> Died: **6 Aug 1916** · Bureau notified: **AUG 25 1916** · Check No. **185553** Dated **8/4/16** Canceled
+> Accrued line: payable to widow **Manerva** (a nearby phrase reads “Died Aug 5 16” — do not average with the Died field)
+> Home: **Travelers Rest, Ky.**
+> Former Roll No. **29401** Oct 27/19
+
+Pass 2: Cert **798864** is the same number on the reverse. Do not write Co C onto the 1890 blank cells.
+
+### Diplomatic — reverse (top card)
+
+> NAME: **Henry H. Newnam** · Certificate No. **798864** · stamped **DEAD** · ACT MAY 11, 1912
+> Last paid to: **4 May 1907** · Rate **12–15–20**
+
+### Facts extracted → claim IDs
+- Henry H. cert 798864 Pvt Co C 14 Ky V Cav d. 6 Aug 1916 Travelers Rest widow Manerva → C648 C649 C660 C665
+
+## DOC095 — M850 reel 1661 p0512/p0513, Newnam, Manerva (original)
+- JPEGs: `sources/military/m850-1661-p0512-newnam-manerva-front.jpg` SHA-256 `2b231690aa05bcc8e2700c2159723207ae6525fdbf2d1fe8be31828ce7e1da3d`
+- Reverse: `sources/military/m850-1661-p0513-newnam-manerva-reverse.jpg` SHA-256 `e09476d620e23229d17827750f9a50e9cba9f0d5c1809b3cf71ee0218b03d2ff`
+- Provenance: same reel, `_0512.jp2` / `_0513.jp2`. **Original image seen.** Manerva is the **top** card (bottom of p0512 is Newnam, Mary, dependent of Thomas G, unmerged).
+
+### Diplomatic — front (top card)
+
+> NAME: **Newnam, Manerva**
+> Certificate No. **837778** · **ARMY WIDOW.** · ACT APRIL 19, 1908 / ACT SEPTEMBER 8, 1916
+> Name of Soldier: **Henry H.**
+> Service: **Priv. Co. C 14 Ky Cav** · **married 1895**
+> Orig **12** · **Oct 5-1916**
+> **25** · **Oct 6-1917** · **Feb 2-1918**
+> Inc **30** · **May 1, 1920**
+> Fees: **none** · GROUP **2**
+> Died: **Aug. 28, 1920** · Bureau notified: **MAR 8 1921**
+
+Pass 2: Soldier given name is **Henry H.**, not Henry B. (Hellen C.’s soldier). Married **1895** is not the 1864 Partington license.
+
+### Diplomatic — reverse (top card)
+
+> NAME: **Manerva Newnam** · Certificate No. **837778** · ACT APRIL 19, 1908 · rate **25–30**
+
+### Facts extracted → claim IDs
+- Manerva widow of Henry H. Priv C 14 Ky Cav married 1895 d. 28 Aug 1920 → C650 C660 C658
+
+## DOC096 — M850 reel 1660 Newman-slot negatives (original)
+- JPEGs: `sources/military/m850-1660-p0627-newman-eli-o-eliza-not-elias-t.jpg` SHA-256 `b207fa52e584616156349c7cbc8d0e0f2fe2f840005edeb17562d3c4b4cc3d75`
+- `sources/military/m850-1660-p0767-newman-henry-h-81pa-not-14kycav.jpg` SHA-256 `2bad1cee59d993db81a7ddaec2588f69e855889e37e2387c9e63cb078456adef`
+- Provenance: IA `veteransadminist1660unit`. **Original image seen.**
+
+### Diplomatic — p0627 top
+
+> NAME: **Newman, Eli O** · Certificate No. **1133586** · ARMY INVALID · Pvt **I 9 Ind** · INDIANAPOLIS, IND. · Died **July 9 1917** · home **Mishawaka**
+
+Pass 2: Next card on the same frame is Newman, Eliza, widow of Lazarus, Co A 149 NY Inf, Chicago. **No** Elias T. of 14 Ky Cav between Edward S. and Eliza.
+
+### Diplomatic — p0767 bottom
+
+> NAME: **Newman, Henry H.** · Certificate No. **1008927** · ARMY INVALID · **Corp Co A 81 Pa** · PHILADELPHIA, PA.
+
+Pass 2: Top card is Newman, Henry W., Pvt A 1 Ind VHA, Detroit, died 13 Apr 1910. **Not** Co C 14 Ky Cav.
+
+### Facts extracted → claim IDs
+- Newman-spelling nil for the 14 Ky Cav pair → C651
+
+## DOC097 — GPO 1883 vol. 5 Lee Co. KY table (IA OCR)
+- Extract: `sources/indexes/gpo1883-vol5-lee-ky-ocr-pass63.txt` SHA-256 `55ef9e0570aa5748645cccd99406ac05e18ee151e68c847dd1e9c3c524d009fd`
+- Provenance: IA `listpensionerso02buregoog` `djvu.txt`. OCR of the printed volume. Printed-page JPEG **not isolated**.
+
+### Diplomatic (OCR)
+
+> **LEE  COITNTY.**
+> PO **BoMttyville** (Beattyville)
+> Twenty rows Lovelace through Frailey (cert 118,564–131,025). Next heading **LETCHER COUNTY.**
+
+Pass 2: **NIL** Newman / Newnam in this block. Same twenty names as the website tables (C619).
+
+### Facts extracted → claim IDs
+- GPO OCR Lee nil → C657
+
+

@@ -1,0 +1,20 @@
+Pass 63 coverage — 30 Oct 2026 (America/New_York)
+
+M850 reel 1661 Newnam window IMAGE-SEEN. Elias T. Newnam Army Invalid cert 631218, Bugler Co. 14 Ky V Cav, Proctor, Louisville, payments 1907–1922, died blank on this card. Henry H. Newnam Army Invalid cert 798864, Pvt Co C 14 Ky V Cav, died 6 Aug 1916 Travelers Rest, payable widow Manerva. Manerva Newnam Army Widow cert 837778, married 1895, orig 5 Oct 1916, died 28 Aug 1920.
+
+M850 reel 1660 Newman given-name slot IMAGE-SEEN. No Elias T. of 14 Ky Cav (Eli O. 9 Ind is a different man). Henry H. Newman Corp Co A 81 Pa Philadelphia is a different man.
+
+GPO 1883 vol. 5 IA OCR of Lee Co. KY table (LEE COITNTY / BoMttyville) 20 rows NIL Newman. Printed-page JPEG not isolated.
+
+Speed 1897 ldsgenealogy HTML = same book as C621, not independent.
+
+Catalog 86 / hasMore false. NEW: Dora B045 B061 films bc-9acea467 RUNNING, no PR, process-only, not linear-read. Nested reviewer not respawned.
+
+Original 1932 DC vol 020 #09525 still unseen.
+Estill 1826–1850 Newman×Tincher bond still unseen.
+M123-3 original still unseen.
+T288 index images still unopened (FS 1919699 403; not on IA).
+Do not promote C509.
+Skip C221–C280 / L245–L342 / S259–S266.
+Do not mint C274–C280.
+Do not import sibling C281/S267 from cursor/dora-biography-passes-5b6a.

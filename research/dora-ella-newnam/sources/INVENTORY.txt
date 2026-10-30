@@ -920,3 +920,55 @@ research/dora-ella-newnam/sources/census/1880-lee-ky-ed59-sheet43-p768-caroline-
   sha256: a4d9ff95b1036af7a4fdfa75c342204dfe9ea6ded2259b6f5a5ce4eb29042381
   format: text extract, 482 bytes
   check: NPS soldier search HTML JS shell; names not read
+/workspace/research/dora-ella-newnam/sources/indexes/m850-1661-newnam-coverage-pass63.txt
+  sha256: c903b5d0463f12695c5aa35fc5768803d2f8d7d15cb179949fe66652bcd79d11
+  format: text extract, 2,616 bytes
+  check: M850 1661 Newnam window p0502-p0517; Elias T. 631218; Henry H. 798864; Manerva 837778
+/workspace/research/dora-ella-newnam/sources/indexes/m850-1660-newman-slot-nil-pass63.txt
+  sha256: b940b5e57e2154c7e4b02bd0acdf494d911ff4619dfdc4679968a887cd638d12
+  format: text extract, 1,663 bytes
+  check: M850 1660 Newman slot; Eli O. 9 Ind; Henry H. 81 Pa; no 14 Ky Cav
+/workspace/research/dora-ella-newnam/sources/indexes/gpo1883-vol5-lee-ky-ocr-pass63.txt
+  sha256: 55ef9e0570aa5748645cccd99406ac05e18ee151e68c847dd1e9c3c524d009fd
+  format: text extract, 1,194 bytes
+  check: GPO vol 5 Lee Co KY OCR 20 Beattyville rows nil Newman
+/workspace/research/dora-ella-newnam/sources/indexes/speed-1897-ldsgenealogy-coc-pass63.txt
+  sha256: e579cc4330b40fa6a5d99927a4ebe1736c04f2e0518fc29d3cacb8622f1043c1
+  format: text extract, 558 bytes
+  check: Speed 1897 ldsgenealogy HTML same book as C621
+/workspace/research/dora-ella-newnam/sources/indexes/estill-1840-coverage-pass63.txt
+  sha256: f5d7ed474f63d11b768c8364b01fc021e632ffb4065fdd1ddf4f9daf22707f93
+  format: text extract, 1,305 bytes
+  check: Pass 63 M850 originals; catalog 86; 1932 DC still unseen
+/workspace/research/dora-ella-newnam/sources/military/m850-1661-p0502-newnam-elias-t-front.jpg
+  sha256: 6876f6766f6e9fc6ec1ad5702cabe660ddcd7b72c40e13b1002da68e6f6fa27d
+  format: JPEG photo, 2168x2884px
+  check: full page + margins + verso? straight-on, no glare/flash, strokes several px tall? (paleography.md intake)
+/workspace/research/dora-ella-newnam/sources/military/m850-1661-p0503-newnam-elias-t-reverse.jpg
+  sha256: 4edd1e6fd46e751d45d558d648657fa9cd8dc8d77a358aba15f7c096e079805c
+  format: JPEG photo, 2160x2892px
+  check: full page + margins + verso? straight-on, no glare/flash, strokes several px tall? (paleography.md intake)
+/workspace/research/dora-ella-newnam/sources/military/m850-1661-p0508-newnam-henry-h-front.jpg
+  sha256: 11fc0379eecdb49c1dfbed91ee3e6a9748401189d075178f811141d038fe5e96
+  format: JPEG photo, 2168x2916px
+  check: full page + margins + verso? straight-on, no glare/flash, strokes several px tall? (paleography.md intake)
+/workspace/research/dora-ella-newnam/sources/military/m850-1661-p0509-newnam-henry-h-reverse.jpg
+  sha256: 3803dbc73a9ccbec83f8ec6cda7ba020aa2027dfeb63022d73c3ecca84ccca7d
+  format: JPEG photo, 2160x2892px
+  check: full page + margins + verso? straight-on, no glare/flash, strokes several px tall? (paleography.md intake)
+/workspace/research/dora-ella-newnam/sources/military/m850-1661-p0512-newnam-manerva-front.jpg
+  sha256: 2b231690aa05bcc8e2700c2159723207ae6525fdbf2d1fe8be31828ce7e1da3d
+  format: JPEG photo, 2144x2892px
+  check: full page + margins + verso? straight-on, no glare/flash, strokes several px tall? (paleography.md intake)
+/workspace/research/dora-ella-newnam/sources/military/m850-1661-p0513-newnam-manerva-reverse.jpg
+  sha256: e09476d620e23229d17827750f9a50e9cba9f0d5c1809b3cf71ee0218b03d2ff
+  format: JPEG photo, 2160x2900px
+  check: full page + margins + verso? straight-on, no glare/flash, strokes several px tall? (paleography.md intake)
+/workspace/research/dora-ella-newnam/sources/military/m850-1660-p0627-newman-eli-o-eliza-not-elias-t.jpg
+  sha256: b207fa52e584616156349c7cbc8d0e0f2fe2f840005edeb17562d3c4b4cc3d75
+  format: JPEG photo, 2176x2900px
+  check: full page + margins + verso? straight-on, no glare/flash, strokes several px tall? (paleography.md intake)
+/workspace/research/dora-ella-newnam/sources/military/m850-1660-p0767-newman-henry-h-81pa-not-14kycav.jpg
+  sha256: 2bad1cee59d993db81a7ddaec2588f69e855889e37e2387c9e63cb078456adef
+  format: JPEG photo, 2176x2900px
+  check: full page + margins + verso? straight-on, no glare/flash, strokes several px tall? (paleography.md intake)

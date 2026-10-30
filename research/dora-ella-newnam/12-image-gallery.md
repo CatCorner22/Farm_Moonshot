@@ -1,6 +1,6 @@
 # Source-image gallery: Dora Ella Newnam Stone
 
-One hundred twenty-seven numbered plates (JPEG/PNG captures from NARA microfilm via Internet Archive, plus header and household crops). Plates **7g–7j** are the 1860 Owsley and 1880 Lee Gray originals added in passes 39–40. Plates **7k–7z** and **8a–8f** are the later 1850–1860 Owsley/Breathitt/Madison isolations, including Harrison Newman with Elias aged eight, H.H. Newman with Elias aged eighteen, and Giles Mays at one month and eleven. Plates **8j–8l** are the 1840 Estill originals (John and Christian Tincher, the county recap, and William Newton not Tincher) added in pass 55; plates **8m–8n** are the 1840 Clay originals added in pass 56; plates **8o–8q** are the 1840 Breathitt originals (first name page, last name page ending Total, and the county Abstract) added in pass 57; plates **8r–8u** are the 1840 Estill McIlvain originals and the Edmonson divider added in pass 58. They sit after the 1880 Buck Creek plate because those numbers were already assigned. They are ordered by **the date of the census they record or index**, not by the date the film was scanned. Plates **1a–2c**, **7a–7c**, **55b–55c**, and the 1880 G-600 cards were added in passes 34–37.
+One hundred thirty-five numbered plates (JPEG/PNG captures from NARA microfilm via Internet Archive, plus header and household crops). Plates **7g–7j** are the 1860 Owsley and 1880 Lee Gray originals added in passes 39–40. Plates **7k–7z** and **8a–8f** are the later 1850–1860 Owsley/Breathitt/Madison isolations, including Harrison Newman with Elias aged eight, H.H. Newman with Elias aged eighteen, and Giles Mays at one month and eleven. Plates **8j–8l** are the 1840 Estill originals (John and Christian Tincher, the county recap, and William Newton not Tincher) added in pass 55; plates **8m–8n** are the 1840 Clay originals added in pass 56; plates **8o–8q** are the 1840 Breathitt originals (first name page, last name page ending Total, and the county Abstract) added in pass 57; plates **8r–8u** are the 1840 Estill McIlvain originals and the Edmonson divider added in pass 58; plates **8v–8ac** are the M850 pension-payment cards added in pass 63 (Elias T. Newnam, Henry H. Newnam, Manerva Newnam, and the Newman-spelling collisions). They sit after the 1880 Buck Creek plate because those numbers were already assigned. They are ordered by **the date of the census they record or index**, not by the date the film was scanned. Plates **1a–2c**, **7a–7c**, **55b–55c**, and the 1880 G-600 cards were added in passes 34–37.
 
 Soundex and Miracode cards sit with the census year they index, immediately after any original population schedules for that year.
 
@@ -78,6 +78,14 @@ Diplomatic transcriptions: [`08-transcriptions.md`](08-transcriptions.md). Citat
 | 8s | 1 Jun 1840 | FAN | [Estill McIlvain overlay 0129 — Valentine R. Ward = fishergenes p.68](sources/census/1840-estill-m704-109-leaf138-ward-fishergenes.jpg) |
 | 8t | 1 Jun 1840 | FAN | [Estill McIlvain overlay 0121 — Wm Fincher, not Tincher](sources/census/1840-estill-m704-109-leaf130-fincher.jpg) |
 | 8u | 1840 | Context | [Edmonson divider overlay 0141 — W. Edwards, 2914](sources/census/1840-edmonson-m704-109-leaf151-divider.jpg) |
+| 8v | 1907–1922 | Family hit | [M850 1661 p0502 — Newnam, Elias T., Bugler 14 Ky V Cav](sources/military/m850-1661-p0502-newnam-elias-t-front.jpg) |
+| 8w | 1907–1922 | Family hit | [M850 1661 p0503 — Elias T. Newnam reverse, paid to 4 Aug 1922](sources/military/m850-1661-p0503-newnam-elias-t-reverse.jpg) |
+| 8x | 6 Aug 1916 | FAN | [M850 1661 p0508 — Newnam, Henry H., Pvt Co C 14 Ky V Cav, DEAD](sources/military/m850-1661-p0508-newnam-henry-h-front.jpg) |
+| 8y | 6 Aug 1916 | FAN | [M850 1661 p0509 — Henry H. Newnam reverse, cert 798864](sources/military/m850-1661-p0509-newnam-henry-h-reverse.jpg) |
+| 8z | 1916–1920 | FAN | [M850 1661 p0512 — Newnam, Manerva, widow of Henry H.](sources/military/m850-1661-p0512-newnam-manerva-front.jpg) |
+| 8aa | 1916–1920 | FAN | [M850 1661 p0513 — Manerva Newnam reverse](sources/military/m850-1661-p0513-newnam-manerva-reverse.jpg) |
+| 8ab | 1907–1917 | Negative search | [M850 1660 p0627 — Newman, Eli O., 9 Ind (not Elias T.)](sources/military/m850-1660-p0627-newman-eli-o-eliza-not-elias-t.jpg) |
+| 8ac | 1907–1920 | Rejected same-name | [M850 1660 p0767 — Newman, Henry H., Corp A 81 Pa (not 14 Ky Cav)](sources/military/m850-1660-p0767-newman-henry-h-81pa-not-14kycav.jpg) |
 | 8 | 13 Jun 1900 | Rejected same-name | [Douglas County, Missouri — Thomas and Nancy E. Stone](sources/census/1900-douglas-mo-ed159-stone-sheet.jpg) |
 | 9 | 13 Jun 1900 | Rejected same-name | [Douglas County Stone household (crop)](sources/census/1900-douglas-mo-ed159-stone-hh-crop.jpg) |
 | 10 | 1900 (index) | Rejected same-name | [Missouri S-350 — Thomas Stone, 44, Douglas County](sources/soundex/mo1900-s350-p1678-stone-thomas-44-douglas.jpg) |
@@ -1486,4 +1494,76 @@ Brandenburg-Quillen, Heidelberg. **Image seen.** 344×208 pixels. Individual ins
 **Source:** S452 · S453 · C532 · DOC067
 
 Find A Grave memorial **101658752**. **Image seen.** 531×442 pixels. A framed outdoor portrait of an elderly bearded man and a boy. **Not a gravestone.** Caption on the mat is damaged and **not independently readable**. Does not close **B062**.
+
+### 8v · 1907–1922 · M850 1661 p0502 — Newnam, Elias T., Bugler 14 Ky V Cav
+
+**File:** [`sources/military/m850-1661-p0502-newnam-elias-t-front.jpg`](sources/military/m850-1661-p0502-newnam-elias-t-front.jpg)  
+**Source:** S502 · C646 · DOC093
+
+Bottom card. **Newnam, Elias T.** Army Invalid, cert **631218**, Bugler Co. 14 Ky V Cav, Louisville, home Proctor, Ky. Died field blank. Top card is Newmyer, John B., unmerged.
+
+![M850 1661 p0502 Elias T. Newnam front](sources/military/m850-1661-p0502-newnam-elias-t-front.jpg)
+
+### 8w · 1907–1922 · M850 1661 p0503 — Elias T. reverse
+
+**File:** [`sources/military/m850-1661-p0503-newnam-elias-t-reverse.jpg`](sources/military/m850-1661-p0503-newnam-elias-t-reverse.jpg)  
+**Source:** S502 · C646 · C666 · DOC093
+
+Bottom card reverse. GROUP 2 paid to **4 Aug 1922**, then Trans. to Mo. Payment Card.
+
+![M850 1661 p0503 Elias T. Newnam reverse](sources/military/m850-1661-p0503-newnam-elias-t-reverse.jpg)
+
+### 8x · 6 Aug 1916 · M850 1661 p0508 — Newnam, Henry H., DEAD
+
+**File:** [`sources/military/m850-1661-p0508-newnam-henry-h-front.jpg`](sources/military/m850-1661-p0508-newnam-henry-h-front.jpg)  
+**Source:** S502 · C648 · DOC094
+
+Top card. **Newnam, Henry H.** Pvt Co C 14 Ky V Cav, cert **798864**, died **6 Aug 1916**, Travelers Rest, payable widow **Manerva**. Bottom card is James M. Newnam, unmerged.
+
+![M850 1661 p0508 Henry H. Newnam front](sources/military/m850-1661-p0508-newnam-henry-h-front.jpg)
+
+### 8y · 6 Aug 1916 · M850 1661 p0509 — Henry H. reverse
+
+**File:** [`sources/military/m850-1661-p0509-newnam-henry-h-reverse.jpg`](sources/military/m850-1661-p0509-newnam-henry-h-reverse.jpg)  
+**Source:** S502 · C648 · DOC094
+
+Top card reverse. Cert **798864**, stamped DEAD.
+
+![M850 1661 p0509 Henry H. Newnam reverse](sources/military/m850-1661-p0509-newnam-henry-h-reverse.jpg)
+
+### 8z · 1916–1920 · M850 1661 p0512 — Newnam, Manerva, widow of Henry H.
+
+**File:** [`sources/military/m850-1661-p0512-newnam-manerva-front.jpg`](sources/military/m850-1661-p0512-newnam-manerva-front.jpg)  
+**Source:** S502 · C650 · DOC095
+
+Top card. **Newnam, Manerva**, Army Widow of **Henry H.** Priv Co C 14 Ky Cav, cert **837778**, married **1895**, died **28 Aug 1920**. Bottom card is Mary, dependent of Thomas G, unmerged.
+
+![M850 1661 p0512 Manerva Newnam front](sources/military/m850-1661-p0512-newnam-manerva-front.jpg)
+
+### 8aa · 1916–1920 · M850 1661 p0513 — Manerva reverse
+
+**File:** [`sources/military/m850-1661-p0513-newnam-manerva-reverse.jpg`](sources/military/m850-1661-p0513-newnam-manerva-reverse.jpg)  
+**Source:** S502 · C650 · DOC095
+
+Top card reverse. Cert **837778**.
+
+![M850 1661 p0513 Manerva Newnam reverse](sources/military/m850-1661-p0513-newnam-manerva-reverse.jpg)
+
+### 8ab · 1907–1917 · M850 1660 p0627 — Newman, Eli O., 9 Ind (not Elias T.)
+
+**File:** [`sources/military/m850-1660-p0627-newman-eli-o-eliza-not-elias-t.jpg`](sources/military/m850-1660-p0627-newman-eli-o-eliza-not-elias-t.jpg)  
+**Source:** S503 · C651 · DOC096
+
+Newman given-name Elias slot. **Eli O.** Pvt I 9 Ind, Indianapolis, died 9 Jul 1917. Next card Eliza widow of Lazarus, 149 NY Inf. **No** Elias T. of 14 Ky Cav.
+
+![M850 1660 p0627 Eli O. Newman](sources/military/m850-1660-p0627-newman-eli-o-eliza-not-elias-t.jpg)
+
+### 8ac · 1907–1920 · M850 1660 p0767 — Newman, Henry H., Corp A 81 Pa (not 14 Ky Cav)
+
+**File:** [`sources/military/m850-1660-p0767-newman-henry-h-81pa-not-14kycav.jpg`](sources/military/m850-1660-p0767-newman-henry-h-81pa-not-14kycav.jpg)  
+**Source:** S503 · C651 · DOC096
+
+Bottom card. **Newman, Henry H.** Corp Co A 81 Pa, Philadelphia, cert **1008927**. Top card Henry W. 1 Ind VHA Detroit. **Not** Co C 14th KY Cav.
+
+![M850 1660 p0767 Henry H. Newman 81 Pa](sources/military/m850-1660-p0767-newman-henry-h-81pa-not-14kycav.jpg)
 
