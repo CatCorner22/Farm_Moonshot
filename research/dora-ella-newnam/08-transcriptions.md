@@ -237,22 +237,72 @@ SHA-256 `a1c9d2cbfef048e932a6727d084634cc953dc5bff940d31d6693041ab39ea416` · 22
 **Not P002.**
 
 ### Sheet 13B (PDF 576) — `1910-lee-ky-ed99-p576.jpg`
-SHA-256 `d0b20cdf0b4a85729311415bc1659ee9e0c9aaf6645aa5a90ae1d1cfd53d9f87` · 2268×1575.
+SHA-256 `d0b20cdf0b4a85729311415bc1659ee9e0c9aaf6645aa5a90ae1d1cfd53d9f87` · 2268×1575. **Re-read 30 Oct 2026 (two-pass).** Header: SD **10** · ED **99** · Sheet **13 B** · enumerated **11 May 1910**.
 
-Dwelling **218/257**: **Newman, John H.**, head, ~45, M1 25 years; wife ~52; son **Malcum** ~27, laborer. **Not P010** (P010 was 9 months old in Jun 1900).
-
-Diplomatic (FAN household, re-read 29 Oct 2026):
+Pass 1 (29 Oct) assigned fam **251** to Samuel Farmer and dw **218/257** to John H. Newman — **withdrawn**. Pass 2 from the same JPEG + magnified crops:
 
 | Dw/Fam | Name | Rel | Age | Mar | Notes |
 |---|---|---|---|---|---|
-| 228/251 | **Farmer, Samuel** | Head | 33 | M1 6 | Farmer; = S. P. Farmer of C165 |
-| | Martha | Wife | 23 | M1 6 | 2/2; = Martha Mays (C164) |
-| | Flora | Dau | 5 | S | Later Flora Barrett (S151) |
+| 237/247 | **Newman, John H.** | Head | 45 | M1 25 | **Not P010.** Prior 218/257 withdrawn (**C322**) |
+| | Amanda [?] | Wife | 33[?] | M1 25 | 8/3. Age vs years-married is strained — `[?]` |
+| | Malcolm | Son | 6[?] | S | Prior “Malcum ~27” withdrawn as confident |
+| 238/248 | **Treadway, Solomon** | Head | 34 | M1 16 | **Original fam 248** — not Hardin Gray (**C319**) |
+| | Nellie | Wife | 30 | M1 16 | 6/5[?] |
+| | Minnie | Dau | 14 | S | |
+| | Earl | Son | 11 | S | |
+| | Gertrude | Dau | 7 | S | |
+| | Granville | Son | 5 | S | |
+| | Mabel | Dau | 3 | S | |
+| 240/250 | Wright, Moses | Head | 25 | M1 0 | |
+| | Elizabeth | Wife | 19 | M1 0 | |
+| 241/251 | **Gray, Hardin** | Head | **34** | M1 **12** | Farmer, own farm. → **C317** / DOC024 |
+| | **Vista** | Wife | **27** | M1 **12** | **4/4**. Father b. **Virginia** |
+| | Rascoe | Son | 11 | S | Miracode Rascoe 10 |
+| | Hubert | Son | 9 | S | Miracode Hulbert 07 |
+| | Elcie | Son | 4 | S | Miracode Elize S 04 (sex M on original) |
+| | Deanna | Dau | 1 2/12[?] | S | Months `[?]`; Miracode NR |
+| 242/252 | Farmer, John T. | Head | 25 | M1 7 | Different man from Samuel |
+| 245/255 | **Farmer, Samuel** | Head | 33 | M1 6 | = S. P. Farmer (**C182** / **C320**) |
+| | Martha | Wife | 23 | M1 6 | 2/2; = Martha Mays |
+| | Flora | Dau | 5 | S | |
 | | Everett | Son | 3 | S | |
+| 248/258 | **Gray, William** | Head | 60 | M1 40 | FAN only (**C321**) |
+| | Mary Jane | Wife | 56 | M1 40 | 7/6 |
+| 249/259 | Gray, Columbus | Head | **27** | M1 2 | Prior “17” on this Head line **withdrawn** (the 17-year-old is grandson Isaac Columbus in 258). → **C321** |
 
-**No** mother-in-law / Louisa / Ida / Bertie in the house. → C182.
+**No** Louisa / Eliza / mother-in-law in Hardin’s house or Samuel Farmer’s. → C317 C182.
 
 ED 99 continues through sheet **14 A** (PDF 577). PDF 580 = ED 100 Proctor 1A. No household in the ED lists Dora ~39, Samuel ~41, McCoy ~20, or John H. ~10 of the 1900 Sturgeon set. → C088 C089.
+
+## DOC024 — 1910 U.S. census, Hardin Gray household (original)
+
+- Image: `sources/census/1910-lee-ky-ed99-p576.jpg` · SHA-256 `d0b20cdf0b4a85729311415bc1659ee9e0c9aaf6645aa5a90ae1d1cfd53d9f87`
+- Crop: `sources/census/1910-lee-ky-ed99-sh13b-hardin-gray-crop.jpg` · SHA-256 `c79472ba0da973b0342882a1e0dd2ae5ef49ad01625b0d8701f27f2e0a2cdaee`
+- Page: NARA T624-478; IA PDF 576; ED 99 sheet **13 B**; dw **241** / fam **251**
+- Provenance: NARA microfilm JPEG already in this case folder; **re-read from the image** 30 Oct 2026 (not from the 29 Oct draft). Saw: scan. Original paper not seen ☐
+- Language / script: English; one enumerator hand (American census cursive 1910)
+- Image quality: **sufficient** for surname, given names, ages 34/27, 4-4, and sex of Elcie (M). Deanna’s months `[?]`.
+- Enhancements: contrast crop for Pass 2; quoted dossier image is the uninverted original JPEG
+
+### Diplomatic (this household only)
+
+> Gray, Hardin · Head · M · W · 34 · M1 · 12 · Kentucky · Kentucky · Kentucky · Farmer · own farm · OA  
+> — Vista · Wife · F · W · 27 · M1 · 12 · 4 · 4 · Kentucky · Virginia · Kentucky  
+> — Rascoe · Son · M · W · 11 · S · Kentucky  
+> — Hubert · Son · M · W · 9 · S · Kentucky  
+> — Elcie · Son · M · W · 4 · S · Kentucky  
+> — Deanna · Daughter · F · W · 1 2/12[?] · S · Kentucky
+
+Pass 2: First-pass expectation of “Adkins, Calvin” on a wide crop was **rejected** against the magnified surname (**Gray**, **Hardin**). Bottom-of-page **William Gray** is a different household. No mother-in-law line.
+
+### Normalised reading
+Hardin Gray, 34, married 12 years, farmer, and wife Vista, 27, four children all living — Rascoe 11, Hubert 9, Elcie 4 (son), Deanna about one — Sturgeon, Lee County, 11 May 1910. Louisa Pendergrass Mays Brandenburg is not in the house.
+
+### Facts extracted → claim IDs
+- “Gray, Hardin” “34” “Vista” “27” “4” “4” → C317 C184 C166
+- No Louisa/mother-in-law → C317 (negative)
+- Original fam 251 vs Miracode 0248 → C319
+- Samuel Farmer is 245/255 on the same sheet → C320 C182
 
 ## DOC019 — 1910 KY Miracode G-600 Hardin Gray (typed card)
 
@@ -265,7 +315,7 @@ IA `soundex1910ky064` p.443. **Image seen** 29 Oct 2026.
 > ELIZE S 04 KENTUCKY  
 > DEANNA D NR  
 
-No mother-in-law. = C166 couple. → C184. Original family 248 **not on the bound ED 99 sheets** (families 243–249 skipped; sh 14 B blank). → C194.
+No mother-in-law. = C166 couple. → C184. Original of this couple **is** ED 99 sh **13 B** dw **241** fam **251** (**C317** / DOC024). Miracode **0248** ≠ original fam 248 (that line is Treadway, **C319**). Prior C194 gap **DISPROVED**.
 
 ## DOC020 — 1958 Vestie Bell Gray death-certificate extract
 
@@ -384,3 +434,338 @@ Thomas Stone, 44, woodchopper, and wife Nancy E., 33, married 18 years, with fiv
 
 ## DOC009 — 1910 TN Soundex N-550 McCoy window (nil)
 Handwritten family/individual cards n2461–n2469. Sequence after Mary C (n2460): Mary D 49 Jefferson (son Layton 11); Mary M 70 Hamilton; Mek. G 50 Cheatham (Florence 19, John 17, General 16, Frances 13, William 10, Doria 6, Luther 1½); Melvin 3½ Giles (gs of Deacon George W); Melvin 54 Giles (SIL of same); Minerva 80 Robertson (gds Lona Neely, Nellie Erwin); Minnie 21 Roane (with Sam P. Sparks); Mitchell 27 Hardin (Ollie P 25, Gladys 4, Burl W 3, Royal E 1 9/12). **No McCoy.** SHA-256 n2463 `23610f8aa4c159b1b554ed1786d11f57d2f56f8a2e8994f7289ae7bd02dfca53`; n2469 `340489566090880388fa6b81ca5751c5944dcaf56a7b44f70fe560788f308586`.
+
+
+## DOC019 — 1910 KY Miracode N-550 printed p. 266 (Ella window)
+- Image file(s) + SHA-256: `sources/soundex/1910-ky-n550-p0268-ella-window.jpg` · `00484c73c6c277abca03dc69f150e37b7e0ad11ed31752c942a9f4100c31cd15` (1011×1271 JPEG of IA PDF p. **268** / printed **266**)
+- Page: IA `soundex1910ky124`; NARA T1266 Kentucky 1910 Miracode N-550
+- Provenance: NARA microfilm via Internet Archive PDF, rendered 30 Oct 2026. Saw: scan of typed cards. Original paper not seen ☐
+- Language / script / hands: English; **typed** Miracode cards (one clerk’s typewriter)
+- Image quality: **sufficient** for county, given names, relationship codes, ages, nativity, vol/ED/sheet. Printed page number **266** in upper left.
+- Enhancements: none on the saved JPEG (90–100 dpi PDF render)
+
+### Diplomatic transcription (all five cards on the page; Pass 1+2 from the JPEG)
+
+**Card 1 — Floyd**
+> FLOYD · N550 NEWMAN · ELKANER H · W 21 KENTUCKY KY · 027 0059 0206  
+> BELLE W · 29 KENTUCKY  
+> GRACY SD · 12 KENTUCKY  
+> DORTHA SD · 10 KENTUCKY  
+> WILLIE SS · 07 KENTUCKY  
+> {left col.} BUM[?]
+
+**Card 2 — Campbell / Newport**
+> CAMPBELL · N550 NEWMAN · NEWPORT · ELLA SE · W 35 KENTUCKY KY · 010 0015 0036  
+> ENUMERATED WITH  
+> ROBINSON LAFAYETTE H W
+
+**Card 3 — Fayette / Lexington**
+> FAYETTE · N550 NEWMAN · LEXINGTON · ELLA SI · B 13 KENTUCKY KY · 025 0023 0191  
+> ENUMERATED WITH  
+> BEASELEY WILLIAM H B
+
+**Card 4 — Pendleton**
+> PENDLETON · N550 NEWMAN · ELLANORA SI · 4½ KENTUCKY KY · 075 0137 0110  
+> ENUMERATED WITH  
+> NEWMAN GEORGE H W
+
+**Card 5 — Fayette / Lexington**
+> FAYETTE · N550 NEWMAN · LEXINGTON · ELLEN LO · W 77 IRE[.] KY · 025 0016 0300  
+> ENUMERATED WITH  
+> STAFFORD EUPHRASIA H W
+
+Pass 2: Relationship codes **SE** (servant), **SI** (sister / sister-in-law as indexed), **LO** (lodger), **H/W/SD/SS**. No **Lee**, **Greene**, or **Owsley** county in the Ella cards. Age **35** on card 2 is two digits, not 39. Age **13** on card 3 is race **B**. Age **77** and birthplace **IRE** on card 5 unambiguous. Elkaner given name **Elkaner** (not Ella).
+
+### Normalised reading
+The Ella given-name window for Kentucky Newman/Newnam in 1910 Miracode holds: a 21-year-old Floyd head Elkaner with wife Belle; Ella, 35, servant of Lafayette Robinson in Newport; Ella, 13, Black, sister in William Beaseley’s Lexington house; Ellanora, 4½, with George Newman in Pendleton; Ellen, 77, Irish lodger of Euphrasia Stafford in Lexington. None is Dora Ella Newnam of Sturgeon, ~39.
+
+### Facts extracted → claim IDs
+- No Lee/Greene/Owsley Ella ~39 → C301
+- Cards 2–5 and Elkaner → C302 C303 C304 C305 C308
+
+## DOC020 — 1910 KY Miracode N-550 printed p. 253 (Charles T. + Ella, Union)
+- Image: `sources/soundex/1910-ky-n550-p0255-charles-t-ella-union.jpg` SHA-256 `8ae58cd8384a5b9bde9bf3fa235775f2af0457de51bca97f346adcf10498b570` (1011×1271; printed **253**)
+- Quality: sufficient. Typed cards.
+
+### Diplomatic (Union card only; other cards on the page are Charles/Elsie Mason, Charles L Louisville, Charles W Bullitt ×2)
+
+> UNION · N550 NEWMAN · CHARLES T H · W 29 KENTUCKY KY · 086 0112 0218  
+> ELLA W · 40 KENTUCKY  
+> HENRY A S · 12 KENTUCKY  
+> ELISEBETH D · 07 KENTUCKY
+
+Pass 2: Wife given name **ELLA**; age **40** (not 39). County **UNION**. Head **CHARLES T**. → C306
+
+## DOC021 — 1910 KY Miracode N-550 printed p. 254 (Lee Beattyville Chas + Emma)
+- Image: `sources/soundex/1910-ky-n550-p0256-lee-beattyville-chas-emma.jpg` SHA-256 `b1462ee4d5903f20cc85605e8edc8d1e800a5737f6f6d46509a7308872aff111` (printed **254**)
+- Quality: sufficient.
+
+### Diplomatic (Lee card only)
+
+> LEE · N550 NEWMAN · BEATTYVILLE · CHAS H · W 21 KENTUCKY KY · 033 0091 0013  
+> EMMA W · 23 KENTUCKY  
+> SELDON S · NR KENTUCKY  
+> ADDIE SI · 18 KENTUCKY
+
+Pass 2: County **LEE**, town **BEATTYVILLE**, ED **91**. Head **CHAS** age **21**; wife **EMMA** **23**. Not Dora/Samuel. → C307
+
+## DOC022 — 1910 KY Miracode N-550 printed p. 265 (Elizati, Lee)
+- Image: `sources/soundex/1910-ky-n550-p0267-elizati-lee.jpg` SHA-256 `5e9a40fe24e010f6ddf6a735d0b6fdf94795910b1c132d26de07b426f7ed012c` (printed **265**)
+- Quality: sufficient; given name on last card reads **ELIZATI** (not Elizabeth).
+
+### Diplomatic (Lee card only; other cards Jefferson Elizabeth 67, Kenton Niemann, Kenton Neamann, McCracken Elizabeth J)
+
+> LEE · N550 NEWNAN · ELIZATI H · W 30 KENTUCKY KY · 033 0099 0090  
+> LUCY W · 22 KENTUCKY  
+> ROBERT S · 04 KENTUCKY  
+> WILLIE S · 04 KENTUCKY  
+> NETTIE D · 02 KENTUCKY
+
+Pass 2: Surname **NEWNAN**; ED **99** (Sturgeon). Head **30** male. Already inside the original ED 99 sweep (**C088**). **Not** P001.
+
+## DOC023 — 1910 KY Miracode N-550 printed p. 267 (after Ella)
+- Image: `sources/soundex/1910-ky-n550-p0269-after-ella-ellen-elsie.jpg` SHA-256 `24ab2811acf37b904145e8a24d381b50bdeb059942a7f1ebe3a3f0cc220aa797` (printed **267**; 827×1040)
+- Quality: sufficient. Confirms the Ella given-name window has ended.
+
+### Diplomatic (all five cards)
+
+> JEFFERSON · N550 NEWMAN · LOUISVILLE · ELLEN BO · B 66 KENTUCKY KY · 047 0102 0030  
+> ENUMERATED WITH · FRANK SUSIE H B  
+> UNION · N550 NEWMAN · ELLIOTT H · W 29 KENTUCKY KY · 086 0127 0047  
+> ADELLA SI · 34 KENTUCKY  
+> BARREN · N550 NEWMAN · GLASGOW · ELLIS H · B 35 KENTUCKY KY · 004 0016 0181  
+> NANNIE W · 21 KENTUCKY · ROSIE B D 12 · ROY S 10 · CECIL S 07  
+> MUHLENBERG · N550 NEWMAN · ELSIE M BO · W 16 KENTUCKY KY · 070 0080 0091  
+> ENUMERATED WITH · SUMNER DAVID H W  
+> MCCRACKEN · N550 NEWMAN · EMERALD GGS · 02 KENTUCKY KY · 064 0129 0324  
+> ENUMERATED WITH · NEWMAN PERCILLA H W
+
+Pass 2: First given names **Ellen / Elliott / Ellis / Elsie / Emerald** — alphabetical after Ella. **No** further Ella card. Ellen **66** race **B** → C313. Combined with DOC019 → C301.
+
+## DOC025 — 1870 U.S. census, Proctor Precinct, Lee Co. KY, stamped 333 (original)
+
+- Image: `sources/census/1870-lee-ky-proctor-p333a-james-brandenburg-william-gray.jpg` · SHA-256 `a585aa0367ed4782b3bfe79fb5dc13c789cfdaa4e8d89806a7777cf50b757d34` (2400×3043)
+- Crop: `sources/census/1870-lee-ky-proctor-p333a-dw70-crop.jpg` · SHA-256 `6f48b18f216a54b055a17859dd671f89a675c87723ac56bd4e5175b0ba0e4c82` (1800×1317; lines 1–11 of the name block)
+- Page: NARA M593 reel 481; IA `populationschedu0481unit` zip member `…_0057.jp2` (jp2 SHA-256 `e8d54b7943097aea905a838317f1a71383e2df2c5cfd35c933f8daead6218856`)
+- Provenance: NARA microfilm via Internet Archive, accessed 30 Oct 2026. Saw: scan (JPEG of JP2). Original paper not seen ☐
+- Language / script: English; one enumerator hand (Chas. D. Tyler), American census cursive 1870
+- Image quality: **sufficient** for dwelling numbers, names, ages, occupations, nativity of Martha/Mary/William Gray. Realty of James is **3000** (four digits). Personal-estate of James **15[?]**. William Brandenburg’s realty **800[?]**.
+- Enhancements: contrast crop of lines 1–11 on a copy; quoted claims rest on the unenhanced full page
+
+### Diplomatic (header + dwelling 70 + neighbour Gray head)
+
+> Page No. **11** · Schedule 1. — Inhabitants in **Proctor Precinct**, in the County of **Lee**, State of Kentucky  
+> enumerated by me on the **24** day of **June**, 1870. / **Chas. D. Tyler**, Ass’t Marshal.  
+> Post Office: **Proctor** · stamped **333**
+
+Lines 1–2 continue dwelling **69** from 332b (Joseph 5; Emiline 3 — Brandenburg children). Then:
+
+| Line | Dw/Fam | Name | Age | Sex | Color | Occupation | Realty | Birth |
+|---|---|---|---|---|---|---|---|---|
+| 3 | **70/70** | **Brandenburg, James** | **62** | M | W | Farmer | **3000** | Kentucky |
+| 4 | | — **Nancy** | **54** | F | W | Keeping house | | Kentucky |
+| 5 | | — **William** | **26** | M | W | Farm Labourer | 800[?] | Kentucky |
+| 6 | | **Arnold, Martha** | **15** | F | W | House Keeper | | **Tennessee** |
+| 7 | | **White, Mary** | **16** | F | W | **Domestic Servant** | | **Kentucky** |
+| 8 | | **Gray, William** | **23** | M | W | Farm Labourer | | **Kentucky** |
+| 9 | 71/71 | House, Joshua | 40 | M | W | Farmer | | Virginia |
+| 30 | **75/75** | **Gray, David** | **37** | M | W | Farmer | 400 | Kentucky |
+| 31 | | — Louisa | 30 | F | W | Keeping house | | Kentucky |
+| 32 | | — Mary | 11 | F | W | | | Kentucky |
+| 33 | | — Margaret | 10 | F | W | | | Kentucky |
+| 34 | | — Sylvania | 6 | F | W | | | Kentucky |
+| 35 | | — Emily | 4 | F | W | | | Kentucky |
+| 36 | | — Francis | 1 | F[?] | W | | | Kentucky |
+
+Pass 2: Surname **Brandenburg** (not Brandenburgh) on James’s line. **White, Mary** is a separate surname, not a ditto under Brandenburg. **Gray, William** 23 is a farm labourer in this house, not a son of James. **Gray, David** 37 at dwelling **75** is a different head (wife Louisa, six children) — **not merged** with William 23. James’s realty **3000** vs Kendrick **300** is a transcript disagreement; not averaged.
+
+### Normalised reading
+On 24 June 1870, at Proctor Precinct dwelling 70, farmer James Brandenburg, 62, and Nancy, 54, housed William Brandenburg, 26; Martha Arnold, 15, of Tennessee, housekeeper; **Mary White, 16, domestic servant, Kentucky**; and **William Gray, 23, farm labourer, Kentucky**. Two months later William Gray married Mary Jane White in that house.
+
+### Facts extracted → claim IDs
+- White, Mary 16 domestic servant + Gray, William 23 farm labourer in James Brandenburg’s house → C347 C349 C356
+- Realty 3000 on the original → C356
+- David Gray 37 at dw 75, not merged with William 23 → C366
+
+## DOC026 — 1870 U.S. census, Sturgeon Precinct, Silas Gray household (original)
+
+- Images: `sources/census/1870-lee-ky-sturgeon-p336b-silas-gray.jpg` SHA-256 `1f94024f4fa21d54beef27721ede497241be6b6be9434e5f7430d019722fc144` (2400×3005); crop `…-p336b-silas-crop.jpg` SHA-256 `5e3b048fa663046e74c69b3045c6047ebf6807016faa0d69d149e31cfc374138`; continuation `…-p337a-silas-continuation.jpg` SHA-256 `25a9354f1553faa5ee7304b2606556a44c78faa0eca691b455c291fc965bc82f`
+- Page: NARA M593-481; IA `…_0067.jp2` (B-side, jp2 SHA-256 `04e93a550c6acbc751e5e2ef649c3e6673f2f5e6586a2a594aa301134d53a9db`) and `…_0068.jp2` (A-side stamped 337, jp2 SHA-256 `73f2b0d874f1ec280509ad28a462afd2dea468b3da939b36b2e9edae01e6f9d5`)
+- Provenance: NARA microfilm via IA zip members, 30 Oct 2026. Saw: scan. Original paper not seen ☐
+- Image quality: **sufficient** for head given name **Silas**, Minerva sex **F**, children’s names and ages. Realty of Silas **250[?]**.
+- Enhancements: contrast crops on copies
+
+### Diplomatic (dwelling 13 only)
+
+336b, Page No. **2**, Sturgeon Precinct, enumerated **28 Jun 1870** (stamped **336** on the A-side). Neighbour dw **12/12** Brandenburg, Jackson 38, immediately above.
+
+| Line | Dw/Fam | Name | Age | Sex | Color | Occupation |
+|---|---|---|---|---|---|---|
+| 37 | **13/13** | **Gray, Silas** | **54** | M | W | Farmer |
+| 38 | | — **Minerva** | **48** | **F** | W | Keeping House |
+| 39 | | — **Amelia** | **21** | F | W | |
+| 40 | | — **Elihu** | **19** | M | W | at Home |
+
+Continuation, stamped **337**, Page No. **3**, Post Office Proctor, enumerated **30 Jun 1870**:
+
+| Line | Name | Age | Sex | Occupation |
+|---|---|---|---|---|
+| 1 | — **John** | **18** | M | at Home |
+| 2 | — **Margret** | **16** | F | |
+| 3 | — **Levi** | **14** | M | at Home |
+
+Pass 2: Head is **Silas**, not Silus. Minerva is **F**. **No William** in this house (the page ends the household at Levi 14). Jackson Brandenburg at dw 12 is a neighbour, not merged with James 62 of Proctor.
+
+### Normalised reading
+Silas Gray, 54, farmer, and Minerva, 48, with Amelia 21, Elihu 19, John 18, Margret 16, and Levi 14, Sturgeon Precinct, 28–30 June 1870. William Gray, 23, was enumerated the same week in James Brandenburg’s Proctor house, not here.
+
+### Facts extracted → claim IDs
+- Gray, Silas 54 + Minerva 48 F + five children, William absent → C348 C357 C358
+- Kendrick Silus / sex M withdrawn → C357 C358
+
+## DOC027 — 1900 U.S. census, Sturgeon ED 52 sheet 5 B, dwelling 84 (original crop)
+
+- Image: `sources/census/1900-lee-ky-ed52-sh5b-hh84-william-gray.jpg` SHA-256 `ada14aa35a4777465fe7a1b9223c8f39b97f5de5a8736e13e7c94078e1aecd68` (2712×968)
+- Page: NARA T623-537; Lee Co. KY Sturgeon ED **52** sheet **5 B**. Copied from sibling branch `cursor/dora-research-pass-21` and **independently re-read**. Hh **85** (Hardin) is visible on the same crop; nativity of that house was **not** re-analysed (PR #29 holds the dedicated crop).
+- Image quality: **sufficient** for dwelling **84**, head **William**, birth **May 1847**, age **53**, married **29**; wife **Mary J.** **Jan 1854** **7-7**; MIL **Elizabeth Brandenburgh** **Dec 1831**. Children’s months/years have `[?]` where the crop is tight.
+- Enhancements: none on the quoted file
+
+### Diplomatic (dwelling 84)
+
+> **84** **84** · **Gray, William** · Head · W · M · **May 1847** · **53** · M · **29** · Kentucky · Kentucky · Kentucky · Farmer  
+> — **Mary J.** · Wife · W · F · **Jan 1854** · **46** · M · 29 · **7** · **7** · Kentucky · Kentucky · Kentucky  
+> — Sidney W. · Son · W · M · Sep 1873 · {age as written}  
+> — Robert H. · Son · W · M · Apr 1878  
+> — Lilly [F?] · Daughter · W · F · Jun 188[4?]  
+> — Edna · Daughter · W · F · Mar 188[8?]  
+> — Christopher C. · Son · W · M · Oct 1890  
+> **Brandenburgh, Elizabeth** · Mother-in-law · W · F · **Dec 1831** · **69** · Wd · {children 2-2 on the transcript; digits `[?]` on this crop} · Kentucky · **Tennessee** · **Virginia**
+
+Pass 2: Age of the head is **53**, not 84. The **84** is the dwelling/family number. Hardin begins at **85/85** on the next lines.
+
+### Normalised reading
+William Gray, born May 1847, aged 53, married 29 years, farmer, with wife Mary J., born January 1854, seven children all living, and mother-in-law Elizabeth Brandenburgh, born December 1831, in Sturgeon precinct dwelling 84 on 1 June 1900. Hardin Gray is next door.
+
+### Facts extracted → claim IDs
+- William May 1847 age 53 M29; Mary J. Jan 1854 7-7; Elizabeth MIL Dec 1831 → C326 C332
+- “Age 84” withdrawn as a dwelling-number misread → C326
+
+## DOC028 — 1910 U.S. census, Bollinger Co. MO, Crooked Creek ED 1 sheet 10 A (original)
+
+- Image: `sources/census/1910-bollinger-ed1-dora-e-stone-rejected.png` SHA-256 `5eab4793bf42d8c18b7ef43a6296495620392c100c0e1ed8ad59bfe6c4bf769b` (2369×1637 PNG)
+- Name-column working copy: `sources/census/1910-bollinger-ed1-sh10a-names-enhanced.jpg` SHA-256 `317f812f4a26cc0106d5f9b56e32136c545e9b94c01a512679c5f8d3c5dd9e8a` (**enhanced for legibility**; claims rest on the PNG)
+- Header files: `1910-t624-769-pdfp0366.png` / `…pdfp0369.png` place this sheet as ED **1** sh **10 A** between sh 9 B and 11 A
+- Provenance: copied from PR #26; **name column independently re-read** 30 Oct 2026. Saw: scan. Original paper not seen ☐
+- Image quality: **sufficient** for township **Crooked Creek**, ED **1**, sheet **10 A**, 3 May 1910, enumerator Charles W. Henson; surname **Rhodes** at dw **178**; wife given name **Dora M.[?]**; birthplace **Missouri**
+
+### Diplomatic (header + dwellings 174 and 178)
+
+> State **Missouri** · County **Bollinger** · Township **Crooked Creek** · SD **11** · ED **1** · Sheet **10 A**  
+> Enumerated **3 May 1910** · **Charles W. Henson**
+
+Dw **174/174**: **John H.** {surname **McCamie[?]** / **Larrille[?]**} · Head · 31 · Tennessee. **Not** Sullivan. → C339
+
+Dw **178/178**:
+> **Rhodes, Henry C.** · Head · M · W · **38** · M1 · **18** · **Missouri** · Farmer  
+> — **Dora M.[?]** · Wife · F · W · **37** · M1 · 18 · **6** · **6** · **Missouri** · **Maryland** · Missouri  
+> — James C. · Son · 17 · Missouri  
+> — Iva · Daughter · 15  
+> — Ethel · Daughter · 12  
+> — Minnie · Daughter · 9  
+> — Henry A. · Son · 7  
+> — Earl · Son · 6  
+> — Roy C. · Son · 3
+
+Pass 2: Surname on the enhanced name column is **Rhodes**, not Stone. Wife’s middle initial **M** (not E). Birthplace **Missouri**, not Kentucky. Children 6-6, not 7-5. No McCoy / Pearl / Rissa / John H. of 1899.
+
+### Normalised reading
+Henry C. Rhodes, 38, of Crooked Creek, Bollinger County, Missouri, and wife Dora M., 37, Missouri-born, six children living, 3 May 1910. This is not Dora Ella Newnam. A sibling reading “Dora E. Stone, wife of Henry C.” is a surname misread of this page.
+
+### Facts extracted → claim IDs
+- Rhodes not Stone; Dora M. 37 MO 6-6 → C338
+- ED 1 sh 10 A, not Liberty ED 5 → C323 C316
+- dw 174 John H. not Sullivan → C339
+
+## DOC029 — 1880 Kentucky Soundex G-600, Elisha Gray, Lee ED 59
+
+- Image: `sources/soundex/ky1880-g600-p4850-elisha-gray-lee-ed59.jpg` SHA-256 `b36e1354b7b9ebf640f2ad752e9a7b6180729c2c7a0aba26c1753818b1316b60` (1092×762)
+- Page: NARA T750; IA `soundex1880ky028` PDF **4850**. Typed/hand card. **Image seen.**
+
+### Diplomatic
+
+> **G600** · **Gray, Elisha** {HEAD OF FAMILY} · **W** · **M** · **28** · **Lee** · **Kentucky**  
+> VOL **18** · ED **59** · SHEET **28** · LINE **36** · Kentucky {birthplace}  
+> OTHER MEMBERS:  
+> **Gray, M. Jane** · **W** · **22** · Kentucky  
+> — **Nancy** · **D** · **1** · Kentucky
+
+Pass 2: Head **Elisha** (not Silas, not William). Wife **M. Jane** 22, not Mary J. ~26. One child **Nancy** 1, not Sidney/Hardin/Robert. Same ED as Dora’s 1880 house (ED 59 sheet 6), different household.
+
+### Facts extracted → claim IDs
+- Elisha 28 + M. Jane 22 + Nancy 1, Lee ED 59 sh 28 → C342 (rejected vs C332)
+
+## DOC030 — 1880 Kentucky Soundex G-600, Caroline Gray, Lee ED 59
+
+- Image: `sources/soundex/ky1880-g600-p4780-caroline-gray-lee-ed59.jpg` SHA-256 `52741dc86744c12e4fb707239014ee9e3cda4b46c33fe25137bd484334710f90` (1099×762)
+- Page: same reel, IA PDF **4780**. **Image seen.**
+
+### Diplomatic
+
+> **G600** · **Gray, Caroline** {HEAD OF FAMILY} · **W** · **F** · **44** · **Lee**  
+> VOL **18** · ED **59** · SHEET **43** · LINE **7** · **Virginia** {birthplace}  
+> OTHER MEMBERS:  
+> **Gray, Barney** · **S** · **12** · Kentucky  
+> — **Jessie** · **D** · **8** · Kentucky  
+> — **Ida** · **D** · **6** · Kentucky  
+> — **Allice** · **Ni** · **18** · Kentucky  
+> **Davis, James** · **N** · **33** · Kentucky  
+> {footer} see 2
+
+Pass 2: Head is a woman born **Virginia**. **No** William ~33 and **no** Hardin ~4. Allice is **niece**. FAN of the 1870 Thomas Precinct Caroline (C350), not of C332 as a merge.
+
+### Facts extracted → claim IDs
+- Caroline 44 VA, Lee ED 59 sh 43 → C343 C350
+
+## DOC031 — 1910 U.S. census, ED 99 sheet 13 B, William Gray household (crop)
+
+- Image: `sources/census/1910-lee-ky-ed99-sh13b-william-gray-crop.jpg` SHA-256 `1bced11b9400496dd3121530621aa42ef4dff3b16df6c5687bd36d984bc88965` (1632×599)
+- Same sheet as DOC024 / S311 (Hardin is four families earlier). **Image seen.** Crop of original.
+
+### Diplomatic (dwellings 248–249)
+
+> **248/258** · **Gray, William** · Head · M · W · **60** · M1 · **40** · Kentucky · Farmer  
+> — **Mary Jane** · Wife · F · W · **56** · M1 · 40 · **7** · **6** · Kentucky  
+> — Isaac Columbus · Grandson · M · W · 12 · Kentucky  
+> — Shirley Eliza · Grandson · M · W · 12 · Kentucky  
+> — Lewis John · Grandson · M · W · 11 · Kentucky  
+> **249/259** · **Gray, Columbus** · Head · M · W · **27** · M1 · **2** · Kentucky  
+> — Lydia · Wife · F · W · **19** · M1 · 2 · 1 · 1 · Kentucky  
+> — Lewis · Son · M · W · {infant} · Kentucky
+
+Pass 2: William 60 + Mary Jane 56 **7-6** (one child dead since 1900’s 7-7). Columbus 27 is a separate head, not a 17-year-old (C321). Hardin is **not** in this house (he is dw 241 / DOC024).
+
+### Facts extracted → claim IDs
+- William 60 + Mary Jane 56 7-6 → C321 C332
+- Columbus 27 separate head → C321
+
+## DOC032 — 1880 Kentucky Soundex G-600, William Gray of Lewis County (rejected)
+
+- Image: `sources/soundex/ky1880-g600-p0667-william-gray-lewis-rejected.jpg` SHA-256 `5c2e984df8fdc0a2098a26f671d8cb8e7e1ce829b6af41b1b60487a1a9e0aafa` (936×659)
+- Page: IA `soundex1880ky029` PDF **667**. **Image seen.**
+
+### Diplomatic
+
+> **G600** · **Gray, William** {HEAD OF FAMILY} · **W** · **M** · **45** · **Lewis** · **Kentucky**  
+> VOL **27** · ED **148** · SHEET **29** · LINE **21** · Kentucky  
+> OTHER MEMBERS:  
+> **Gray, Maria** · **W** · **36** · Kentucky  
+> — {Senhora[?]} · D · 13 · Kentucky  
+> — {Josiah[?]} · S · 12 · Kentucky  
+> — **Kate C.** · D · 7 · Kentucky  
+> — **William T.** · S · 5 · Kentucky  
+> {footer} see 2
+
+Pass 2: County **Lewis**, not Lee or Owsley. Wife **Maria** 36, not Mary J. Age **45**, not ~33. **Rejected** vs C332. (S330’s “age 40” is a prior note; this card reads **45**.)
+
+### Facts extracted → claim IDs
+- Lewis Co. William 45 + Maria — rejected vs C332 → C344
