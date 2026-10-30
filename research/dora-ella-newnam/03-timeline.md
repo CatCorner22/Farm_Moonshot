@@ -10,6 +10,7 @@ Place as it was *at the date*; modern equivalent in brackets. Flag impossibiliti
 | **3 Aug 1850** | — | FAN (mapping): Breathitt Dist **2** stamped **1A** original opens (Saml Hargis; dw **1 Andrew Pense** 51) | Breathitt Co., KY | C457 | S405 |
 | **3 Aug 1850** | — | FAN (mapping): Madison Dist **1** stamped **200A** original opens (G. Clay Smith; dw **1 John James Smith** 37) | Madison Co., KY | C467 | S410 |
 | **14 Aug 1850** | — | FAN (negative): Madison Dist **1** stamped **212A** original dw **184**: **John Green** 44 + Nancy 39 + **Silas 20**. **DISPROVED** as Silas Gray ~36 | Madison Co., KY | C468 | S411 |
+| **15 Aug 1850** | — | FAN (negative): Owsley stamped **279A** original dw **33/33**: **Silas Ratliff 8/12** in Reubin Ratliff 28’s house. **DISPROVED** as Silas Gray | Owsley Co., KY | C474 | S416 |
 | **16 Aug 1850** | — | FAN (negative): Breathitt Dist **2** stamped **8A** original dw **105/105**: **Elijah Green** 36 + **Ally** 27. **DISPROVED** as Silas | Breathitt Co., KY | C461 | S408 |
 | **1850 (14A Dist 2)** | — | FAN (negative): Breathitt stamped **14A** original: **Silas, 1**, in the Taulbee continuation. **DISPROVED** as Silas Gray | Breathitt Co., KY | C459 | S406 |
 | **1850 (21A Dist 1)** | — | FAN (negative): Breathitt stamped **21A** original dw **52/52**: **Siras Bryant** 22 farmer. **DISPROVED** as Silas Gray; upgrades C452 | Breathitt Co., KY | C460 | S407 |

@@ -1132,3 +1132,15 @@ Dwelling **184**: John Green, 44, farmer; Nancy, 39; **Silas, 20**; Christopher,
 
 ![1850 Madison 200A header](sources/census/1850-madison-pdfp404-st200A-hdr.jpg)
 
+## Pass 44 additions
+
+### 7v · 15 Aug 1850 · Owsley stamped 279A — Silas Ratliff, 8/12 (not Silas Gray)
+
+**Role:** FAN (negative control; DISPROVED as Silas Gray)  
+**File:** [`sources/census/1850-owsley-pdfp349-st279A-ratliff.jpg`](sources/census/1850-owsley-pdfp349-st279A-ratliff.jpg)  
+**Source:** S416 · C474 · DOC052
+
+Dwelling **33/33**: Reubin Ratliff, 28, farmer; Sarah, 24; Mary, 5; Lucinda, 4; **Silas, 8/12**. This infant is the only given-name Silas in Bawden’s 277A–296A files. He is not Silas Gray.
+
+![1850 Owsley 279A — Silas Ratliff 8/12](sources/census/1850-owsley-pdfp349-st279A-ratliff.jpg)
+

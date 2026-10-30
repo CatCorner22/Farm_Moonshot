@@ -522,4 +522,14 @@ research/dora-ella-newnam/sources/census/1880-lee-ky-ed59-sheet43-p768-caroline-
   sha256: abfdacd48aacfaa6971005380e334b22bd461407398a1ef6cfe37f59bbdbd856
   format: JPEG photo, 1736x1283px
   check: John Green 44 + Silas 20 — not Silas Gray
+/workspace/research/dora-ella-newnam/sources/indexes/1850-owsley-bawden-277A-296A.txt
+  sha256: 74bc1d4b0648e82d99dd9cb4b686d27c24ba3758e3e03ce9a2ebc383308ace48
+  check: Bawden 39 pages 277A-296A; only Silas = Ratliff 8/12 on 279A
+/workspace/research/dora-ella-newnam/sources/census/1850-owsley-pdfp349-st279A-hdr.jpg
+  sha256: 0ccba23e2cf9a143535d5de0ac8b3f8643efd8aeae1cf7118fd62ed01106428a
+  format: JPEG photo, 3301x868px
+/workspace/research/dora-ella-newnam/sources/census/1850-owsley-pdfp349-st279A-ratliff.jpg
+  sha256: 2718c777625f9cca18e72b49c18485fa8e549c550b5d8175568996c590b46641
+  format: JPEG photo, 1876x1023px
+  check: Silas Ratliff 8/12 — not Silas Gray
 

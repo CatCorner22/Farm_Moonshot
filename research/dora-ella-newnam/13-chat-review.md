@@ -857,3 +857,7 @@ PR **#26** HEAD still **`b37864c69d92220574cd7b71dda2805a3b2fbd7c`**. GitHub **O
 
 This fold uses **C472 / L424 / S414**. Next unused **C473+ / L425+ / S415+ / DOC052+**. Parent-county 1850 Gray **heads** are **C442–C471 / DOC047–051**.
 
+# Pass 44 listing (30 Oct 2026, America/New_York)
+
+Catalog **not** re-listed this pass (still **69** after the Pass 43 nested fold). **No** new independently image-backed P001 1900–1926 residence. Original-image work this pass: Owsley **279A** Silas Ratliff **8/12** (**C474 / DOC052**); Bawden **277A–296A** every-person (**C473**). Residual B055: visual given-name Silas on stamped **296B–321**. Skip **C221–C277 / L245–L339 / S259–S265**. Do **not** steal **C278–C280 / L340–L342 / S266**. Next unused **C477+ / L429+ / S418+ / DOC053+**.
+

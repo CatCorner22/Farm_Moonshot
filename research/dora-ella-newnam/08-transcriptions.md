@@ -1202,3 +1202,29 @@ Pass 2: head given name **John** (not Silas). Age **44** (an earlier 80-dpi crop
 - John Green 44 + Silas Green 20 → C468
 - Bryant Gentry 45 → C469
 
+## DOC052 — 1850 U.S. census, Owsley Co. KY stamped 279A, Silas Ratliff 8/12 (original)
+
+- Header: `sources/census/1850-owsley-pdfp349-st279A-hdr.jpg` SHA-256 `0ccba23e2cf9a143535d5de0ac8b3f8643efd8aeae1cf7118fd62ed01106428a` (3301×868)
+- Household crop: `sources/census/1850-owsley-pdfp349-st279A-ratliff.jpg` SHA-256 `2718c777625f9cca18e72b49c18485fa8e549c550b5d8175568996c590b46641` (1876×1023)
+- Provenance: IA `populationschedu0216unix` PDF page **349**. County of **Owsley**, **15th** day of **August** 1850, **Luther Bravener**. Stamp **279**. **Image seen.**
+
+### Diplomatic (lines 1–10)
+
+> SCHEDULE I.—Free Inhabitants in District of Kentucky, in the County of **Owsley**, State of Kentucky, enumerated by me, on the **15th** day of **August** 1850. **Luther Bravener** Ass’t Marshal. {stamp **279**}
+
+> **33 / 33** · **Reubin Ratliff** · **28** · M · Farmer  
+> — **Sarah Ratliff** · **24** · F  
+> — **Mary Ratliff** · **5** · F  
+> — **Lucinda Ratliff** · **4** · F  
+> — **Silas Ratliff** · **8/12** · M  
+> **34 / 34** · **Isaac Hacker** · **24** · M · Farmer  
+> — **Ester Hacker** · **24** · F  
+> — **America Hacker** · **1** · F  
+> — **William J. Morris[?]** · **21** · M  
+> **35 / 35** · **Zadoc[?] Ponder** · **29** · M
+
+Pass 2: given name **Silas** is clear. Age is a **fraction** **8/12**, not 36. Surname **Ratliff** on the Silas line (not ditto-from-Gray). Bawden S415 agrees on names and the 8/12 age.
+
+### Facts extracted → claim IDs
+- Silas Ratliff 8/12 → C474
+

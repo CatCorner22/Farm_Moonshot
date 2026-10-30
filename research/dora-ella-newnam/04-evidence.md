@@ -234,6 +234,10 @@
 
 | S414 | Nested chat-review dump `/tmp/dora-pass43/chat-review-pass43.md` from [Review all cloud chats](bc-55b44cd3-e8e5-5a91-8bea-a131a184de2a), plus parent `list-cloud-agents` on 30 Oct 2026 (America/New_York). Nested catalog **69**. PR **#26** HEAD still **`b37864c`** (GitHub **MERGEABLE**). **No** original census plate opened this fold. | A (research-process) | Cloud-agent transcripts / GitHub |
 
+| S415 | Jen Bawden, “1850 Census of Owsley County, KY,” kygenweb `https://kygenweb.net/owsley/census/1850/{277A–296A}.HTM`, 39 page files opened 30 Oct 2026 (America/New_York). Concat `sources/indexes/1850-owsley-bawden-277A-296A.txt` SHA-256 `74bc1d4b0648e82d99dd9cb4b686d27c24ba3758e3e03ce9a2ebc383308ace48` (249,208 bytes). Covers stamped **277A–296A** only (**296B–321** absent from that directory). **Unproofread derivative.** | D | Bawden / NARA M432-216 |
+| S416 | 1850 U.S. census, Owsley Co., Kentucky, stamped **279A**, enum. **15 August 1850** by Luther Bravener. Extracted from S381 PDF page **349**. JPEG `sources/census/1850-owsley-pdfp349-st279A-hdr.jpg` SHA-256 `0ccba23e2cf9a143535d5de0ac8b3f8643efd8aeae1cf7118fd62ed01106428a` (3301×868); household `…-ratliff.jpg` SHA-256 `2718c777625f9cca18e72b49c18485fa8e549c550b5d8175568996c590b46641` (1876×1023). **Original image seen.** Dw **33/33 Reubin Ratliff** 28 + **Silas 8/12**. | O | Enumerator Bravener |
+| S417 | Same reel, PDF **384–436** name-column clips @110 dpi (53 pages) **image-extracted**. Tesseract 5 used **only as a flagger** (not a source). One flag `p0386` = PDF **386** stamped **297B** visually **William Roberts / Bullock / Bond / Gabbard**, **no Silas**. Headers: PDF **383** still Owsley (Bawden **296A**); PDF **433** stamp **321** (Owsley end); PDF **436** **Pendleton**. | O (mapping) + flagger | Enumerator Bravener |
+
 
 
 | S125 | 1870 U.S. census, Lee Co., KY, Proctor Precinct, p. 329b, dwelling **23**, enum. 14 Jun 1870. USGenNet Kendrick, https://usgennet.org/usa/ky/county/lee/census/1870/329b.HTM accessed 28 Oct 2026. **Transcription.** **Mayse, Andrew** 45; Rachael 40; **Jiles 20** farm labourer; Margaret 16; Sarah 12; Mary 10; William 6; Asa 4; Isam 1. | D | Kendrick / NARA M593-481 |
@@ -650,6 +654,11 @@
 | C471 | Silas Gray is **not** a Gray **head** in 1850 **Madison**: S-K **nil GRAY/GREY**; original G-cluster is Gay / Green / Gentry / Griffin; name columns stamp **200–325** extracted. Residual: non-head ditto under another surname on unread lines of those sheets | PROVEN negative for Madison Gray heads; non-head ditto residual | C448 C449 C467 C468 C469 S410 | B056 |
 
 | C472 | Nested Pass 43 reviewer landed: catalog **69**. PR **#26** HEAD still **`b37864c`** (GitHub **MERGEABLE**). **No** new independently image-backed P001 1900–1926 residence. Sibling IDs **C221–C277 / L245–L339 / S259–S265** remain skip-reel. Do **not** steal Pass 59 drafts **C278–C280 / L340–L342 / S266** | PROVEN as a process count; not a biography fact | S414 L424 | B038 |
+
+| C473 | Bawden’s every-person files for Owsley stamped **277A–296A** contain **one** given-name Silas: **Ratliff, Silas, 8/12** on **279A**. **No** Silas ~36. Gray in that range is only the Thomas house on **289B** (already **C425**). Manervia Abner 6 and Gibson 8 are children, not Minerva ~34. Bawden **does not** cover **296B–321** (those pages 404 on kygenweb) | PROVEN as to that derivative range | S415 | B055 |
+| C474 | Owsley **279A** original dw **33/33**: **Silas Ratliff, 8/12**, male, in Reubin Ratliff 28 + Sarah 24’s house. Same-person test vs Silas Gray ~36 **fails** (age 8/12 vs ~36; surname Ratliff) | DISPROVED as Silas Gray | S416 DOC052 C398 | B055 |
+| C475 | Tesseract flagger on Owsley PDF **384–436** name columns produced **one** Silas-like hit, PDF **386** (**297B**). Original of that clip is **William Roberts** 36 + Bullock/Bond/Gabbard cluster — **no Silas**. Residual: a full visual given-name sweep of stamped **296B–321** | PROVEN as to that false flag; residual visual | S417 | B055 |
+| C476 | Owsley 1850 on M432-216 ends about PDF **433** (stamp **321**). Pendleton is present by PDF **436** (Dist **No 2**, 27 Aug). Mapping: **279A** = PDF **349**; **296A** = PDF **383**; **321A** = PDF **433** | PROVEN as to those anchors | S417 S381 | B055 |
 
 
 
