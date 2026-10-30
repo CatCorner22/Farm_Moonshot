@@ -1,6 +1,6 @@
 # Source-image gallery: Dora Ella Newnam Stone
 
-Sixty-one JPEG images captured from NARA microfilm (via Internet Archive) during this case. They are ordered by **the date of the census they record or index**, not by the date the film was scanned.
+Sixty-five JPEG images captured from NARA microfilm (via Internet Archive) during this case. They are ordered by **the date of the census they record or index**, not by the date the film was scanned. Plates 62–65 were added 30 Oct 2026 (Sturgeon hh 85 original; 1910 Ella rejects; Greene ED 42 sh 36A).
 
 Soundex and Miracode cards sit with the census year they index, immediately after any original population schedules for that year.
 
@@ -80,6 +80,10 @@ Diplomatic transcriptions: [`08-transcriptions.md`](08-transcriptions.md). Citat
 | 59 | Jan 1920 | Family hit | [Kentucky N-550 — E. T. Neuman, grandfather, Beattyville](sources/soundex/ky1920-n550-p4208-et-newnam-beattyville.jpg) |
 | 60 | 12 Jan 1920 | Family hit | [Beattyville ED 111 sheet 6A — C. B. Burke and E. T. Newman](sources/census/1920-lee-ky-ed111-sh6a-burke-et-newman.jpg) |
 | 61 | 12 Jan 1920 | Family hit | [Burke household crop — E. T. Newman, grandfather](sources/census/1920-lee-ky-ed111-sh6a-burke-hh-crop.jpg) |
+| 62 | 11 Jun 1900 | FAN / original | [Sturgeon ED 52 sheet 5B header](sources/census/1900-lee-ky-ed52-sh5b-header.jpg) |
+| 63 | 11 Jun 1900 | FAN / original | [hh 84–85 William Gray + Hardin, Vestie, Rosco](sources/census/1900-lee-ky-ed52-sh5b-hh84-85-nativity.jpg) |
+| 64 | Apr 1910 | Rejected same-name | [1910 KY N-550 p.268 — Ella 35 Newport servant; Ella 13 Lexington](sources/soundex/1910-ky-n550-p0268.jpg) |
+| 65 | 27 Jun 1900 | Context | [Greene ED 42 sheet 36A header — not 86A](sources/census/1900-greene-ed42-sh36a-header.jpg) |
 
 ---
 

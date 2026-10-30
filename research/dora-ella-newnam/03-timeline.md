@@ -33,7 +33,7 @@ Place as it was *at the date*; modern equivalent in brackets. Flag impossibiliti
 | Aug 1899 | 28 | Son John H. born | KY | C025 | S005 |
 | **1 Jun 1900** | **28** | **Sturgeon hh 67/67: wife of Samuel, 7 born 5 living** | Sturgeon precinct, Lee Co., KY | C011 | S005 |
 | **1 Jun 1900** | — | FAN: **Eliza MAYS** hh **26/26**, b. Dec 1861, wd 4-4; children Whitly (Jun 1884), Martha (Nov 1886), Ida (Oct 1894); hired hand John Brandenburgh (Mar 1882). **= Louisa P. Mays** | Sturgeon precinct, Lee Co., KY | C161 C162 C163 | S142 |
-| **1 Jun 1900** | — | FAN: **Hardin GRAY** + **Vestie** + Rosco, hh **85/85**. **Louisa not in the house.** Next door William Gray + Elizabeth Brandenburg MIL | Sturgeon precinct, Lee Co., KY | C191 | S163 |
+| **1 Jun 1900** (enum. **11 Jun**) | — | FAN: **Hardin GRAY** + **Vestie** + Rosco, hh **85/85** on **original** ED **52** sh **5 B**. **Louisa not in the house.** Next door William Gray + Elizabeth Brandenburg MIL. Vestie father b. **Virginia** | Sturgeon precinct, Lee Co., KY | C191 C224 C225 | S163 **S231** |
 | 1 Jun 1900 | — | Elias & Mary at Proctor hh 25/25, 6-6 children living; **Provy Hoover gdau** 13 in the house. George Burke hh 36/36 includes **Charles B. son** Nov 1879 | Proctor precinct, Lee Co., KY | C096 C097 | S076 |
 | 5 Mar 1900 | 28 | BIL John Newnam d. consumption (context) — **only** Newnam in Lee VS 1900–1904; not Samuel | Lee Co. | C098 | S077 |
 | 24 Feb 1906 (WikiTree lore) | ~34 | Alleged death of Samuel | Lee Co.? | C012 | S030 | unproved; required before 1910 by Pearl’s boarding |
