@@ -70,7 +70,7 @@ Place as it was *at the date*; modern equivalent in brackets. Flag impossibiliti
 | 1 Jun 1900 | — | **No** matching Tom/Thomas A. Stone ~42 b. ~1858 MO in statewide S-350 Thomas/Tom window (two Thomas A. and two Tom cards rejected) | Missouri (Soundex) | C092 | S070 |
 | **13 Jun 1900** | — | **Original:** Stone, Thomas, 44, woodchopper, + Nancy E. 33 (8/6) + five daughters, Buchanan Twp ED 159 sh 9B dw 148 — **not merged** with 1920 Tom A. | Buchanan Twp, Douglas Co., MO | C101 C102 | S085 |
 | Jun 1900 | — | Greene Campbell **ED 39 complete** (sh **6–32 B**; 32 B blank) — **no** Stone household. ED **40** A+B **complete nil** (**C278**); ED **41** A+B **complete nil** (**C269/C275**); ED **42–43** swept (**C264**); ED **37** A+B complete — only Stone head is Thomas A. sh **18 A** (**C117/C279**) | Springfield, Greene Co., MO | C169 C170 C171 C181 C189 C117 C264 C269 C275 C278 C279 | S148 S136 S103 S157 S161 S266 |
-| Jun 1900 | — | Greene ED **38** every A-side **nil Stone** (**C280**); B-sides unread | Springfield, Greene Co., MO | C271 C276 C280 | S264 S266 |
+| Jun 1900 | — | Greene ED **38** every A-side **and** every B-side **nil Stone / Newnam / Dora** (**C280** + **C281**). Greene **37–43** Stone sweep **closed**; only Stone head remains Thomas A. ED **37** sh **18 A** (**C117**) | Springfield, Greene Co., MO | C271 C276 C280 C281 | S264 S266 S267 |
 | 24 Feb 1920 | — | Tom A. Stone, 62 wd, b. MO, FIL of Tom M. Randall, tie maker | Howell Twp, Perry Co., AR ED 75 sh 8B | C050 C145 | S104 S105 prior |
 | **1920–Aug 1926** | 48–55 | **Probable** residence Lamar / Carter Cove sector after m2 **T. A. Stone** — **no census line for P001 as Mrs. Stone** after **ED 200** read (**C213**); Coy at Danville (1920) then informant **Ola** (1926) | Yell Co., AR (Lamar Twp / Ola / Carter Cove) | C211 C213 | S003 S078 S117 S225 C014 |
 
@@ -84,6 +84,10 @@ Place as it was *at the date*; modern equivalent in brackets. Flag impossibiliti
 | after 1900 | — | **No record read** for **Rissa/Rissie** after Sturgeon hh **67** (1910 child Soundex **nil**; not with Pearl at Elizabeth’s **1910**) | unknown | C077 C026 | S058 S041 |
 | **13 May 1980** (WikiTree only) | ~83 (if May 1897) | **Possible** death of **Rissie (Newnam) Pelfrey** — **not** primary-sourced | Knoxville, Knox Co., TN | C230 | S241 | Do not print as fact; **C231** nil free corroboration |
 
+| **30 Nov 1928** | — | *Beattyville Enterprise*: “Uncle **Doll Newman** has been very sick… not able to be out” (**PROBABLE** P004) | Beattyville, Lee Co., KY | C284 | S270 |
+| **15 Mar 1932** | — | FAN: **Clay Dunigan**, 23, of Idamay × **Ladona Newman**, 16, of Delvinta; parents Shelby Newman & Grace Brandenburg — **not** P001’s child | Delvinta, Lee Co., KY | C297 C298 | S277 |
+| **1 Apr 1932** | — | *Enterprise*: **E. T. Sparks** of Hazard visiting **Uncle Doll Newnam**; Rev. **Luther Newnam** pastor; Everett of Idamay; Ladonna note | Beattyville / Idamay, Lee Co., KY | C284 C285 C286 C287 | S270 |
 | 18 Apr 1932 | — | Father Elias d. on his birthday, age 90 | Beattyville, Lee Co., KY | C048 | S011 prior |
+| **13 Dec 1939** | — | FAN: **Everett Newnam**, 50, of Idamay, d. accidental pistol (PROBABLE = 1932 cane-planter). Daughters: `Living — details withheld` | Richmond hospital / Idamay, Lee Co., KY | C299 | S278 |
 
 **Impossibility flags:** None. Mother ~29 at Dora’s 1871 birth (Mary b. 1842). Dora age 14 at marriage is legal/period-possible (KY) though young; 1880 age 8 corroborates. Two children born before Coy in the 1886–1889 window would have Dora aged 15–18 — possible. No event after 23 Aug 1926 is attributed to her.

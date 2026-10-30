@@ -11,7 +11,9 @@ Files live in `visuals/` (data file + generated SVG + alt-text table together).
 | V005 | [12-image-gallery.md](12-image-gallery.md) (delivery) | Captured NARA JPEGs labelled and ordered by census year | C003 C060 C062 C063 C031 C038 C064 C068 C069 C083 C088 | Hand-assembled markdown; images in `sources/census/` and `sources/soundex/` | Each plate tagged Family hit / Rejected same-name / Negative search / Context | ☑ |
 | V006 | book/plates/loc-beattyville-1930.jpg | Beattyville + Kentucky River, 1930 — county seat, not Dora | locality | LOC item 2010651160 | Caption dates the view after her death | ☑ |
 | V007 | book/plates/loc-fsa-south-fork-fence-1940.jpg | South Fork fence, Aug 1940 FSA — parent stream, not her farm | locality | LOC item 2017805013 | Caption dates the view 14 years after death | ☑ |
-| V008 | book/index.html (delivery) | Illustrated HTML biography: cited life narrative, 25 figures, endnotes 1–74, source appendix | C001–C113 as used | Hand-assembled HTML from case file + `book/plates/` | Confidence labels in prose; dashed chart links; “not merged” plates captioned | ☑ |
+| V008 | book/index.html (delivery) | Illustrated HTML biography: cited life narrative, figures, endnotes 1–91, source appendix, pass 61 chapter | C001–C304 as used | Hand-assembled HTML from case file + `book/plates/` | Confidence labels in prose; dashed chart links; “not merged” plates captioned | ☑ |
+| V009 | visuals/pedigree-dora.svg (regenerated 30 Oct 2026) | Same pedigree after pass 61; no new biological links invented | C004 | `make_pedigree.py family.json --root P001 --mode pedigree --generations 3` | Dashed = PROBABLE | ☑ |
+| V010 | visuals/timeline-dora.svg (regenerated 30 Oct 2026) | Lifespans; Samuel bar still ends 1910 as a bound | C001 C015 | `make_charts.py timeline visuals/life.csv` | Samuel end-year is “dead by,” not a death date | ☑ |
 
 ## Family trees (family-tree-design.md)
 - Root person & direction: P001 Dora; pedigree (ancestors) and descendant (children). Cut-off: grandparents and children only (no living great-grandchildren). V004 is a FAN descendant of P004 Elias, three generations, to show Provie on the correct union.
