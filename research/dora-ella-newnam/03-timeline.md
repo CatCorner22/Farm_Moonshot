@@ -6,9 +6,19 @@ Place as it was *at the date*; modern equivalent in brackets. Flag impossibiliti
 |---|---|---|---|---|---|
 | 18 Apr 1842 | — | Father Elias T. Newnam born | Clark Co., KY | C040 | S011 prior |
 | Apr 1842 / 22 Apr 1842 | — | Mother Mary Ann Smallwood born | KY (Owsley-area) | C041 | S032 prior |
+| **27 Jul 1850** | — | FAN (mapping): Breathitt Dist **1** stamped **18A** original opens (John Hargis 48 lawyer dw 1). **17B** is blank | Breathitt Co., KY | C457 C462 | S405 S409 |
+| **3 Aug 1850** | — | FAN (mapping): Breathitt Dist **2** stamped **1A** original opens (Saml Hargis; dw **1 Andrew Pense** 51) | Breathitt Co., KY | C457 | S405 |
+| **3 Aug 1850** | — | FAN (mapping): Madison Dist **1** stamped **200A** original opens (G. Clay Smith; dw **1 John James Smith** 37) | Madison Co., KY | C467 | S410 |
+| **14 Aug 1850** | — | FAN (negative): Madison Dist **1** stamped **212A** original dw **184**: **John Green** 44 + Nancy 39 + **Silas 20**. **DISPROVED** as Silas Gray ~36 | Madison Co., KY | C468 | S411 |
+| **16 Aug 1850** | — | FAN (negative): Breathitt Dist **2** stamped **8A** original dw **105/105**: **Elijah Green** 36 + **Ally** 27. **DISPROVED** as Silas | Breathitt Co., KY | C461 | S408 |
+| **1850 (14A Dist 2)** | — | FAN (negative): Breathitt stamped **14A** original: **Silas, 1**, in the Taulbee continuation. **DISPROVED** as Silas Gray | Breathitt Co., KY | C459 | S406 |
+| **1850 (21A Dist 1)** | — | FAN (negative): Breathitt stamped **21A** original dw **52/52**: **Siras Bryant** 22 farmer. **DISPROVED** as Silas Gray; upgrades C452 | Breathitt Co., KY | C460 | S407 |
 | **24 Aug 1850** | — | FAN (negative): Owsley stamped **289B** original dw **168/168**: **Thomas Gray** 47 + **Lucy** 45 + Thomas 17 + Sarah 5. **Not** Silas 36 + William ~3 | Owsley Co., KY | C425 C435 | S382 |
 | **1850 (306A)** | — | FAN (negative): Owsley stamped **306A** original dw **403/403**: **James Gray** 32 + Sally 38 + Angeline 14 + **William 12**. **Not** C332 | Owsley Co., KY | C426 | S383 |
 | **1850 (314B)** | — | FAN (negative): Owsley stamped **314B** original dw **571** **John Gray** 40 + Dolly 37; dw **575** **Charles Gray** 26 + **Manerva** 30 (no William ~3). Charles **DISPROVED** as Silas. Silas-as-head **nil** in Owsley 1850 on this reel | Owsley Co., KY | C427 C428 C429 C436 | S384 |
+| **5 Oct 1850** | — | FAN (negative): Estill stamped **99B** original dw **734/734**: **Marcus Gray** 68 labourer b. **S. Carolina** + **Barsheba** 41. **DISPROVED** as Silas. Only Gray house in Estill 1850 | Estill Co., KY | C444 C453 | S396 |
+| **1850 (Breathitt 1A–44B)** | — | FAN (negative): Breathitt Gray / Silas-as-Gray **PROVEN** nil on originals + Tennille every-person | Breathitt Co., KY | C466 | S404 S405 |
+| **1850 (Madison 200–325)** | — | FAN (negative): Madison Gray **heads** **PROVEN** nil; residual non-head ditto | Madison Co., KY | C471 | S410 S411 |
 | **12 Jul 1860** | — | FAN: Owsley Page **64** original, PO Booneville, dw **440/444**: **Gray, Silas** 46 + **Minerva** 44 + Eliza 15 + **William 13** + Amelia 9 + Elihu 8 + John 7 + Margaret J. 5 + Levi 1 | Booneville PO, Owsley Co., KY | C395 C396 C397 C398 | S369 |
 | **14 Jul 1860** | — | FAN: Owsley Page **67** original, PO Proctor, dw **458/462**: **Brandenburg, Jas.** 52 + **Nancy** 43 + William B. 16 + James K.P. 14. **No Mary White** in the house | Proctor PO, Owsley Co., KY | C400 C401 | S370 |
 

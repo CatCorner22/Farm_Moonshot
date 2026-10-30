@@ -1102,3 +1102,103 @@ Pass 2 (from household crop): head given name **Marcus** (not Silas). Age **68**
 ### Facts extracted → claim IDs
 - Marcus Gray 99B original → C444 C453
 
+## DOC048 — 1850 U.S. census, Breathitt Co. KY stamped 14A, Taulbee Silas 1 (original)
+
+- Image: `sources/census/1850-breathitt-pdfp223-st14A-taulbee-silas.jpg` SHA-256 `35ccd0f55ee14f4e406b8438dc6e22790211f02cdf72ebe3f19587576309fcd1` (1691×1022)
+- Provenance: IA `populationschedu0193unix` PDF page **223**. Dist **2**, enumerator page **13** in the left margin (NARA stamp **14A**). **Image seen.** Header not in this crop; date is August 1850 Dist 2 (Saml Hargis) from adjacent pages.
+- Image quality: **sufficient** for given names and ages on lines 1–8. Surname of the continuation is implied by dwelling carry-forward (no surname on lines 1–6). Next head **Jefferson Tolby** is clear.
+
+### Diplomatic (crop lines 1–8)
+
+> {lines 1–6: no dwelling/family numbers; continuation of prior house}  
+> **Wm. W.** · **14** · M  
+> **Martha Ann** · **10** · F  
+> **Nancy C.** · **8** · F  
+> **Green** · **12** · M  
+> **Elsbury** · **5** · M  
+> **Silas** · **1** · M  
+> **183 / 183** · **Jefferson Tolby** · **25** · M · **Farmer**  
+> — **Temperance** · **26** · F
+
+Pass 2: given name **Silas** is clear (S-i-l-a-s). Age **1**, not 36. No Gray surname on these lines. Tennille files this continuation as **Taulbee** dw **181** (S404); the original crop does not reprint the head surname. Next house is **Tolby**, not Gray. Line 11 given name **Eratina[?]** (Tennille: Pauline) is not used as a claim.
+
+### Facts extracted → claim IDs
+- Silas 1 in the Taulbee continuation → C459
+- Not Silas Gray ~36 → C459 C466
+
+## DOC049 — 1850 U.S. census, Breathitt Co. KY stamped 21A, Siras Bryant 22 (original)
+
+- Image: `sources/census/1850-breathitt-pdfp237-st21A-bryant-siras.jpg` SHA-256 `c79017d8a3304dd8ec105c4fe74637c3fa67b25a58686af5c3f3ea2550b8ea81` (1655×1323)
+- Provenance: IA `populationschedu0193unix` PDF page **237**. Dist **1**. **Image seen.**
+
+### Diplomatic (crop lines 1–9)
+
+> {line 1} **51 / 51** continuation · **Margaret Angel** · **3/12** · F  
+> {line 2} — **Elizth. Johnston[?]** · **12** · F  
+> **52 / 52** · **Elijah Bryant** · **56** · M · **Farmer**  
+> — **Mary Bryant** · **45** · F  
+> — **Dixon[?] Deaton** · **11** · M {Tennille: Dison}  
+> — **Roes Barnett** · **9** · M  
+> — **Martisia Bryant** · **12** · F  
+> — **Siras Bryant** · **22** · M · **Farmer**  
+> **53 / 53** · **Jackson Gilbert** · **30** · M · **Farmer**
+
+Pass 2: given name **Siras** (not Silas; initial **Si** then **ras**, not **las**). Surname **Bryant** on the same line. Age **22**. Tennille’s **Sisas** is a derivative misread of this original. **Not** Gray.
+
+### Facts extracted → claim IDs
+- Siras Bryant 22 original → C460 (upgrades C452)
+
+## DOC050 — 1850 U.S. census, Breathitt Co. KY stamped 8A, Elijah Green 36 (original)
+
+- Household crop: `sources/census/1850-breathitt-pdfp211-st8A-elijah-green-hh.jpg` SHA-256 `e9a8942c75897316200eaa0d52be48936641baa7941d0dfc59d487147008d8fd` (1650×943)
+- Header: `sources/census/1850-breathitt-pdfp211-st8A-hdr.jpg` SHA-256 `24d684d74ce8661caf867cc97616b35621acdf4bf1354675f24df11dd400f0ab` (2805×816)
+- Provenance: IA `populationschedu0193unix` PDF page **211**. Dist **No 2**, County of **Breathitt**, **16th** day of **Augt.** 1850, **Saml Hargis**. **Image seen.**
+
+### Diplomatic (header + household)
+
+> SCHEDULE I.—Free Inhabitants in **District No 2**, in the County of **Breathitt**, State of **Kentucky**, enumerated by me, on the **16th** day of **Augt.** 1850. **Saml Hargis** Ass’t Marshal.
+
+> {prior house lines 13–15: Malinda 7 F; George 5 M}  
+> **105 / 105** · **Elijah Green** · **36** · M · **Farmer**  
+> — **Ally Green** · **27** · F  
+> — **Mary I.** · **6** · F  
+> — **Sally** · **4** · F  
+> — **Ceatta[?]** · **3** · F {alt. Caltha; Tennille: Ceatta}  
+> — **Columbia** · **1** · M  
+> — **Celia Howard** · **60** · F  
+> **106 / 106** · **Felix** {surname Carpenter[?] on Tennille; not used as a claim} · **75** · M
+
+Pass 2: surname **Green** (not Gray) on the head and wife lines. Age **36** coincidental. Wife **Ally**, not Minerva. No child William ~3.
+
+### Facts extracted → claim IDs
+- Elijah Green 36 + Ally 27 → C461
+
+## DOC051 — 1850 U.S. census, Madison Co. KY stamped 212A, John Green + Silas 20 (original)
+
+- Header: `sources/census/1850-madison-pdfp428-st212A-hdr.jpg` SHA-256 `425622eedf61d727fb32dea1555bd18887fc5fa8e76f6d8bf0c9845df6c645a6` (3001×823)
+- Household crop: `sources/census/1850-madison-pdfp428-john-green-hh.jpg` SHA-256 `abfdacd48aacfaa6971005380e334b22bd461407398a1ef6cfe37f59bbdbd856` (1736×1283)
+- Provenance: IA `populationschedu0211unix` PDF page **428**. Dist **No 1**, County of **Madison**, **Fourteenth** day of **August** 1850, **G. Clay Smith**. Printed stamp **212**. **Image seen.** First crop at 80 dpi cut through this house and was discarded.
+
+### Diplomatic (header + household)
+
+> SCHEDULE I.—Free Inhabitants in **District No One**, in the County of **Madison**, State of Kentucky, enumerated by me, on the **Fourteenth** day of **August** 1850. **G. Clay Smith** Ass’t Marshal. {stamp **212**}
+
+> {prior house continuation: Elizabeth 17, William 15, James 14, Caroline 12, Frances 11, Berry 8, Clogetta[?] 5}  
+> **184** · **John Green** · **44** · M · **Farmer**  
+> — **Nancy** · **39** · F  
+> — **Silas** · **20** · M  
+> — **Christopher** · **13** · M  
+> — **Elizabeth** · **11** · F  
+> — **Larry** · **3** · M  
+> **185** · **Joseph Rathburn** · **35** · M · **Farmer**  
+> — **Mary** · **19** · F  
+> — **Nancy** · **7** · F  
+> **186** · **Bryant Gentry** · **45** · M · **Farmer**  
+> — **Lucy** · **66** · F
+
+Pass 2: head given name **John** (not Silas). Age **44** (an earlier 80-dpi crop that read “24” is **withdrawn**). Surname **Green** dittoed onto **Silas 20**. Same-person test vs Silas Gray ~36 fails on surname, age, and household (son in father’s house). **Bryant Gentry** 45 is Gentry, not Gray.
+
+### Facts extracted → claim IDs
+- John Green 44 + Silas Green 20 → C468
+- Bryant Gentry 45 → C469
+

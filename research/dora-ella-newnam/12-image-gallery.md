@@ -1050,3 +1050,85 @@ Dwelling **734/734**: Marcus Gray, 68, labourer, born South Carolina; Barsheba, 
 
 ![1850 Estill 99B — Marcus Gray](sources/census/1850-estill-pdfp433-marcus-gray-hh.jpg)
 
+## Pass 43 additions
+
+### 7o · 3 Aug 1850 · Breathitt Dist 2 stamped 1A — county opening (Andrew Pense)
+
+**Role:** mapping (Breathitt start on M432-193)  
+**File:** [`sources/census/1850-breathitt-pdfp197-st1A-hdr.jpg`](sources/census/1850-breathitt-pdfp197-st1A-hdr.jpg)  
+**Source:** S405 · C457
+
+District No 2, 3 August 1850, Saml Hargis. Dwelling **1/1**: Andrew Pense, 51, farmer. Matches Tennille’s Dist 2 start.
+
+![1850 Breathitt 1A header](sources/census/1850-breathitt-pdfp197-st1A-hdr.jpg)
+
+Household crop:
+
+![1850 Breathitt 1A Andrew Pense](sources/census/1850-breathitt-pdfp197-st1A-pense-hh.jpg)
+
+### 7p · 16 Aug 1850 · Breathitt Dist 2 stamped 8A — Elijah Green, 36 (not Silas)
+
+**Role:** FAN (negative control; DISPROVED as Silas)  
+**File:** [`sources/census/1850-breathitt-pdfp211-st8A-elijah-green-hh.jpg`](sources/census/1850-breathitt-pdfp211-st8A-elijah-green-hh.jpg)  
+**Source:** S408 · C461 · DOC050
+
+Dwelling **105/105**: Elijah Green, 36, farmer; Ally, 27. Surname Green; wife Ally, not Minerva. Age 36 is coincidental.
+
+![1850 Breathitt 8A — Elijah Green](sources/census/1850-breathitt-pdfp211-st8A-elijah-green-hh.jpg)
+
+### 7q · 1850 · Breathitt Dist 2 stamped 14A — Taulbee Silas, 1 (not Silas Gray)
+
+**Role:** FAN (negative control; DISPROVED as Silas Gray)  
+**File:** [`sources/census/1850-breathitt-pdfp223-st14A-taulbee-silas.jpg`](sources/census/1850-breathitt-pdfp223-st14A-taulbee-silas.jpg)  
+**Source:** S406 · C459 · DOC048
+
+Continuation of Taulbee dwelling **181**: Silas, 1, male, after Green, 12, and Elsbury, 5. Next dwelling **183** is Jefferson Tolby, 25. This infant is not Silas Gray.
+
+![1850 Breathitt 14A — Taulbee Silas 1](sources/census/1850-breathitt-pdfp223-st14A-taulbee-silas.jpg)
+
+### 7r · 1850 · Breathitt stamped 17B blank and Dist 1 stamped 18A
+
+**Role:** mapping (Tennille’s 17A→18A skip; Dist 1 start)  
+**File:** [`sources/census/1850-breathitt-pdfp230-st17B-blank-hdr.jpg`](sources/census/1850-breathitt-pdfp230-st17B-blank-hdr.jpg)  
+**Source:** S409 · C462 · C457
+
+Stamped **17B** is a blank schedule. Dist 1 opens at stamped **18A**, 27 July 1850, John Hargis; dwelling **1/1** John Hargis, 48, lawyer.
+
+![1850 Breathitt 17B blank](sources/census/1850-breathitt-pdfp230-st17B-blank-hdr.jpg)
+
+![1850 Breathitt Dist 1 18A header](sources/census/1850-breathitt-pdfp231-st18A-hdr.jpg)
+
+### 7s · 1850 · Breathitt Dist 1 stamped 21A — Siras Bryant, 22 (not Gray)
+
+**Role:** FAN (negative control; upgrades C452)  
+**File:** [`sources/census/1850-breathitt-pdfp237-st21A-bryant-siras.jpg`](sources/census/1850-breathitt-pdfp237-st21A-bryant-siras.jpg)  
+**Source:** S407 · C460 · DOC049
+
+Dwelling **52/52**: Elijah Bryant, 56; Mary, 45; **Siras Bryant, 22**, farmer. Original given name is **Siras**, not Tennille’s Sisas. Not Gray.
+
+![1850 Breathitt 21A — Siras Bryant](sources/census/1850-breathitt-pdfp237-st21A-bryant-siras.jpg)
+
+### 7t · 1850 · Breathitt Dist 1 stamped 32A — Wm. L. Griffing, 35 (not Gray)
+
+**Role:** FAN (negative control)  
+**File:** [`sources/census/1850-breathitt-pdfp259-st32A-griffing.jpg`](sources/census/1850-breathitt-pdfp259-st32A-griffing.jpg)  
+**Source:** S409 · C464
+
+**Wm. L. Griffing**, 35, clerk-merchant. Griffing is not Gray.
+
+![1850 Breathitt 32A — Wm. L. Griffing](sources/census/1850-breathitt-pdfp259-st32A-griffing.jpg)
+
+### 7u · 14 Aug 1850 · Madison Dist 1 stamped 212A — John Green, 44, and Silas Green, 20
+
+**Role:** FAN (negative control; DISPROVED as Silas Gray)  
+**File:** [`sources/census/1850-madison-pdfp428-john-green-hh.jpg`](sources/census/1850-madison-pdfp428-john-green-hh.jpg)  
+**Source:** S411 · C468 · C469 · DOC051
+
+Dwelling **184**: John Green, 44, farmer; Nancy, 39; **Silas, 20**; Christopher, 13; Elizabeth, 11; Larry, 3. Next, Joseph Rathburn; **Bryant Gentry**, 45. Silas Green, 20, in his father’s house is not Silas Gray ~36. Madison Dist 1 opens at stamped **200A** (3 August, G. Clay Smith).
+
+![1850 Madison 212A header](sources/census/1850-madison-pdfp428-st212A-hdr.jpg)
+
+![1850 Madison 212A — John Green household](sources/census/1850-madison-pdfp428-john-green-hh.jpg)
+
+![1850 Madison 200A header](sources/census/1850-madison-pdfp404-st200A-hdr.jpg)
+

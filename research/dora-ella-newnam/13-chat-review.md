@@ -845,3 +845,15 @@ Skip remains **C221–C277 / L245–L339 / S259–S265**. Do **not** mint C274�
 
 This fold uses **C456 / L411 / S403**. Next unused **C457+ / L412+ / S404+ / DOC048+**. 1850 Estill/Breathitt/Madison work remains **C442–C455 / DOC047**.
 
+# Pass 43 listing (this continuation, 30 Oct 2026, America/New_York)
+
+`list-cloud-agents` (`includeArchived: true`, limit 200, offset 0) at spawn → **68** / `hasMore: false`. Nested [Review all cloud chats](bc-55b44cd3-e8e5-5a91-8bea-a131a184de2a) spawned (NEW vs 68). **No** new independently image-backed P001 1900–1926 residence in that listing. Do **not** steal **C221–C277 / L245–L339 / S259–S265**. This pass’s original-image work (Breathitt 1A–44B + Madison 212A John Green / Silas 20) is filed under **C457–C471 / L412–L423 / S404–S413 / DOC048–051**.
+
+# Pass 43 nested fold (later 30 Oct 2026, America/New_York) — [Review all cloud chats](bc-55b44cd3-e8e5-5a91-8bea-a131a184de2a) landed
+
+Nested dump: `/tmp/dora-pass43/chat-review-pass43.md`. Catalog **69** / `hasMore: false` / RUNNING **4** · IDLE **60** · ERROR **5**. NEW vs 68: this nested reviewer only. Working tree **not** edited. Transcripts searched, not linear-read. **No** new independently image-backed P001 1900–1926 residence. **No** Bollinger “Dora E. Stone” claim in that nested transcript (C338 Rhodes stands).
+
+PR **#26** HEAD still **`b37864c69d92220574cd7b71dda2805a3b2fbd7c`**. GitHub **OPEN / MERGEABLE / CLEAN**. Highest sibling IDs **C277 / L339 / S265**. Skip remains **C221–C277 / L245–L339 / S259–S265**. Do **not** mint C274–C277. Pass **59** is still **chat-only** beyond that HEAD — do **not** steal drafts **C278–C280 / L340–L342 / S266**. ED5 helper [Scan ED5 pages 405-434](bc-0039b8bf-7edb-593b-82c3-cb59471d392a) still empty. [B045 B047 free workarounds](bc-42eadea9-319d-533d-9395-742284b79ca4) still matches sibling **C272/C273**, not re-filed.
+
+This fold uses **C472 / L424 / S414**. Next unused **C473+ / L425+ / S415+ / DOC052+**. Parent-county 1850 Gray **heads** are **C442–C471 / DOC047–051**.
+

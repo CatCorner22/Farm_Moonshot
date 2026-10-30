@@ -464,3 +464,62 @@ research/dora-ella-newnam/sources/census/1880-lee-ky-ed59-sheet43-p768-caroline-
 /workspace/research/dora-ella-newnam/sources/census/1850-madison-pdfp433-john-gay-hh.jpg
   sha256: 35a74d3dbe22bb9f4092590712249315902035c0ce1ccbc4c223aa0957784888
   format: JPEG photo, 893x371px
+/workspace/research/dora-ella-newnam/sources/indexes/1850-breathitt-pg0001a.txt
+  sha256: fbc71c0c368af3f0b026c0003c8c110457efb80a01a8c945617a1e7db5743d06
+  check: Tennille Dist 2 1A–16B; nil GRAY/GREY; Taulbee Silas 1 on 14A
+/workspace/research/dora-ella-newnam/sources/indexes/1850-breathitt-pg0016b.txt
+  sha256: c34ec50ffc934fb56f03e586d4e145bc3ad3622886dbb3b6c32c3d73818f7c8f
+  check: Dist 2 tail + Dist 1 18A–31B; Bryant Sisas 22 on 21A
+/workspace/research/dora-ella-newnam/sources/indexes/1850-breathitt-pg0032a.txt
+  sha256: d75466f809e1220ff213985e3ec686ca382f7414d6b4cd89e3ac003dd0323cfb
+  check: Dist 1 32A–44B; Griffing 32A
+/workspace/research/dora-ella-newnam/sources/indexes/1850-breathitt-notes.txt
+  sha256: 8ec3ca6b46a70f8442a29325a0bbbefa3cb5b5f03d505b2721167100b50008bf
+  check: unproofread; Dist 2 1387 free inhabitants
+/workspace/research/dora-ella-newnam/sources/census/1850-breathitt-pdfp197-st1A-hdr.jpg
+  sha256: edf1e9d0c01ea3d89608fe25b7f0f0522f2494f06885c9231b98d3720621ca1a
+  format: JPEG photo, 2784x812px
+  check: Dist 2 1A 3 Aug 1850 Saml Hargis; Andrew Pense dw 1
+/workspace/research/dora-ella-newnam/sources/census/1850-breathitt-pdfp197-st1A-pense-hh.jpg
+  sha256: f1b3a153a3fb22a1bae67e931460963b63d8b481ea5750b26ad8834bf1b7bddb
+  format: JPEG photo, 1336x3139px
+/workspace/research/dora-ella-newnam/sources/census/1850-breathitt-pdfp211-st8A-hdr.jpg
+  sha256: 24d684d74ce8661caf867cc97616b35621acdf4bf1354675f24df11dd400f0ab
+  format: JPEG photo, 2805x816px
+  check: Dist 2 8A 16 Aug 1850
+/workspace/research/dora-ella-newnam/sources/census/1850-breathitt-pdfp211-st8A-elijah-green-hh.jpg
+  sha256: e9a8942c75897316200eaa0d52be48936641baa7941d0dfc59d487147008d8fd
+  format: JPEG photo, 1650x943px
+  check: Elijah Green 36 + Ally 27 — not Silas
+/workspace/research/dora-ella-newnam/sources/census/1850-breathitt-pdfp223-st14A-taulbee-silas.jpg
+  sha256: 35ccd0f55ee14f4e406b8438dc6e22790211f02cdf72ebe3f19587576309fcd1
+  format: JPEG photo, 1691x1022px
+  check: Taulbee Silas 1 — not Silas Gray
+/workspace/research/dora-ella-newnam/sources/census/1850-breathitt-pdfp230-st17B-blank-hdr.jpg
+  sha256: 686a80cb4aefe4df9a96d9e66bf7122d4ab8c236771775fcd822e22f3f33da26
+  format: JPEG photo, 2860x819px
+  check: 17B blank schedule
+/workspace/research/dora-ella-newnam/sources/census/1850-breathitt-pdfp231-st18A-hdr.jpg
+  sha256: ef64702971078ec3176effd7eaba801ca273246a431c9863138ad73947037427
+  format: JPEG photo, 2750x807px
+  check: Dist 1 18A 27 Jul 1850 John Hargis
+/workspace/research/dora-ella-newnam/sources/census/1850-breathitt-pdfp237-st21A-bryant-siras.jpg
+  sha256: c79017d8a3304dd8ec105c4fe74637c3fa67b25a58686af5c3f3ea2550b8ea81
+  format: JPEG photo, 1655x1323px
+  check: Siras Bryant 22 — not Gray
+/workspace/research/dora-ella-newnam/sources/census/1850-breathitt-pdfp259-st32A-griffing.jpg
+  sha256: 987020aa067902e7161e0d8afb1289ed8a809871f774df14e30c958fde7b5a93
+  format: JPEG photo, 1655x1188px
+  check: Wm. L. Griffing 35 — not Gray
+/workspace/research/dora-ella-newnam/sources/census/1850-madison-pdfp404-st200A-hdr.jpg
+  sha256: 84c569acfe9ef95eaae5713668403b48a0d179de228870a9848616cb36e73a36
+  format: JPEG photo, 2934x880px
+  check: Madison Dist 1 200A 3 Aug 1850 G. Clay Smith
+/workspace/research/dora-ella-newnam/sources/census/1850-madison-pdfp428-st212A-hdr.jpg
+  sha256: 425622eedf61d727fb32dea1555bd18887fc5fa8e76f6d8bf0c9845df6c645a6
+  format: JPEG photo, 3001x823px
+/workspace/research/dora-ella-newnam/sources/census/1850-madison-pdfp428-john-green-hh.jpg
+  sha256: abfdacd48aacfaa6971005380e334b22bd461407398a1ef6cfe37f59bbdbd856
+  format: JPEG photo, 1736x1283px
+  check: John Green 44 + Silas 20 — not Silas Gray
+

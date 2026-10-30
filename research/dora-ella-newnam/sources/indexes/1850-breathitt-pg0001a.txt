@@ -1,0 +1,1511 @@
+1850 Federal Census, Breathitt County, Kentucky (File 1 of 3)
+
+Copyright 2000: Darlene Tennille <Tennille@gnt.net
+
+Submitted for use in the USGenWeb Archives by Darlene Tennille.
+
+************************************************************************
+USGENWEB ARCHIVES NOTICE:  These electronic pages may NOT be reproduced in
+any format for profit or presentation by any other organization or
+persons.  Persons or organizations desiring to use this material,
+must obtain the written consent of the contributor, or the legal
+representative of the submitter, and contact the listed USGenWeb
+archivist with proof of this consent. The submitter has given permission
+to the USGenWeb Archives to store the file permanently for free access.
+
+http://www.usgwarchives.net
+***********************************************************************
+
+Thanks to S-K Publications for providing the census page photocopies from
+which this transcription was made.  The complete original, handwritten
+census of this county is available in book form (including a typed index)
+from S-K Publications, PO Box 8173, Wichita KS 67208
+http://www.SKcensus.com
+_____________________________________________________________
+
+Census_Year  1850
+Microfilm #  # M432-193
+State        KY
+County       Breathitt
+____________________________________________________________
+
+
+CENSUS YR:  1850  STATE:  KY  COUNTY:  Breathitt  DIVISION:  District 2  REEL NO:  M432-193  PAGE NO:  1A
+=========================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB
+=========================================================================================================================
+ 1   1    1   Pense          Andrew         51   M         Farmer         1,200     Kentucky                      X
+                   REMARKS:  Beginning District 2
+ 2   1    1   Pense          Rebecca        44   F         Farmer                   Kentucky
+ 3   1    1   Pense          Henry          23   M         Farmer                   Kentucky
+ 4   1    1   Pense          Angy           21   F         Farmer                   Kentucky
+ 5   1    1   Pense          Jos. A.        18   M         Farmer
+ 6   1    1   Pense          Jackson        16   M         Farmer
+ 7   1    1   Pense          Fanny          14   F
+ 8   1    1   Pense          Charity        13   F
+ 9   1    1   Pense          Lurinda        7    F
+ 10  1    1   Pense          Sytha          5    F
+ 11  1    1   Pense          Rebecca        2    F
+ 12  2    2   Pense          John S.        24   M         Farmer         100       Kentucky
+ 13  2    2   Pense          Sally          23   F                                  Kentucky
+ 14  2    2   Pense          Greenville     3    M
+ 15  2    2   Pense          David          2    M
+ 16  2    2   Friley         Henry          24   M         Farmer         100       Kentucky
+ 17  2    2   Gills          Washington     20   M         Farmer                   Kentucky
+ 18  3    3   Taulbee        Isaac          19   M         Farmer         100       Kentucky
+ 19  3    3   Taulbee        Margaret       15   F                                  Kentucky
+ 20  4    4   Holland        George         61   M         Farmer         200       Virginia
+ 21  4    4   Holland        Elizabeth      54   F                                  Virginia
+ 22  4    4   Mullis         Ambrose        75   M         Farmer                   N. Carolina
+ 23  4    4   Puckett        Meredith       25   M         Farmer         250       Kentucky
+ 24  5    5   Bruer          Dennis         27   M         Farmer                   N. Carolina
+ 25  5    5   Bruer          Ailsey         25   F                                  Tennessee
+ 26  5    5   Bruer          Littleton      7    M
+ 27  5    5   Bruer          George         5    M
+ 28  5    5   Bruer          Mary           2    F
+ 29  6    6   Vancleave      Ebenizer       73   M         Farmer         500       N. Carolina
+ 30  6    6   Vancleave      Elizabeth      55   F                                  N. Carolina
+ 31  6    6   Vancleave      Talbert        15   M         Farmer
+ 32  7    7   Crawford       Gideon         62   M         Farmer         200       Kentucky                      X
+ 33  7    7   Crawford       Nancy          51   F                                  N.C.
+ 34  8    8   Holland        John           29   M         Farmer         1,300     Ky.                           X
+ 35  8    8   Holland        Polly          30   F                                  Ky.
+ 36  8    8   Holland        Patsy          13   F
+ 37  8    8   Holland        Washington     10   M
+ 38  8    8   Holland        Nathan         8    M
+ 39  8    8   Holland        Charity        6    F
+ 40  8    8   Holland        Philip         4    M
+ 41  8    8   Holland        Charley        3    M
+ 42  8    8   Holland        John           2    M
+
+CENSUS YR:  1850  STATE:  KY  COUNTY:  Breathitt  DIVISION:  District 2  REEL NO:  M432-193  PAGE NO:  1B
+=========================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB
+=========================================================================================================================
+ 1   8    8   Holland        Lucinda        7/12 F
+ 2   9    9   Bruer          Thomas         25   M         Farmer         300       N.C.
+ 3   9    9   Bruer          Elizabeth      24   F                                  Ky.
+ 4   9    9   Bruer          Bracken        6    M
+ 5   9    9   Bruer          Wm. R.         4    M
+ 6   9    9   Bruer          Mahala         1    F
+ 7   10   10  King           Lewis          23   M         Farmer         300       Va.
+ 8   10   10  King           Louisa         25   F
+ 9   10   10  King           Armina         11   F
+ 10  10   10  King           Jeremiah       9    M
+ 11  10   10  King           Caloway        7    M
+ 12  10   10  King           Oliver C.      5    M
+ 13  10   10  King           Wm. D.         3    M
+ 14  10   10  King           J. W.          2    M
+ 15  11   11  Banks          Daniel         27   M         Farmer         150       Ky.
+ 16  11   11  Banks          Nancy          28   F                                  Tenn.
+ 17  11   11  Banks          William        4    M
+ 18  11   11  Banks          Happy          1    F
+ 19  12   12  King           Fleming        30   M         Farmer         300       Virginia
+ 20  12   12  King           Josephine      21   F                                  Ky.
+ 21  12   12  King           Rosilla        5    F
+ 22  12   12  King           Franklin       3    M
+ 23  12   12  King           Lewis L.       3/12 M
+ 24  13   13  Holland        Ambrose        38   M         Farmer         1,300     Kentucky
+ 25  13   13  Holland        Happy          42   F                                  N.C.
+ 26  13   13  Bryant         Martha         13   F
+ 27  14   14  Cockrell       William        60   M         Farmer & Celrgyman 5,200 VA.
+ 28  14   14  Cockrell       Rhody          30   F
+ 29  15   15  Maloney        M. Kinley      32   M         Farmer         300       Ky.
+ 30  15   15  Maloney        Molinda        31   F                                  Ky.
+ 31  15   15  Maloney        AnnEliza       12   F
+ 32  15   15  Maloney        Wm.            10   M
+ 33  15   15  Maloney        Eleanor        8    F
+ 34  15   15  Maloney        Susannah       5    F
+ 35  15   15  Maloney        Elizabeth      4    F
+ 36  15   15  Maloney        Sally          2    F
+ 37  16   16  Banks          John           26   M         Farmer         200       N.C.
+ 38  16   16  Banks          Katharine      23   F                                  KY.
+ 39  16   16  Banks          Henry          5    M
+ 40  16   16  Banks          Sandford       1    M
+ 41  17   17  Holland        Hiram          32   M         Farmer         1,000     Ky.
+ 42  17   17  Holland        Mary           25   F
+
+CENSUS YR:  1850  STATE:  KY  COUNTY:  Breathitt  DIVISION:  District 2  REEL NO:  M432-193  PAGE NO:  2A
+=========================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB
+=========================================================================================================================
+ 1   17   17  Holland        Arena          9    F
+ 2   17   17  Holland        Sephui         7    M
+ 3   17   17  Holland        Fanny          5    F
+ 4   18   18  Bruer          Isham          20   M         Farmer                   Tennessee
+ 5   18   18  Bruer          Sally          20   F
+ 6   18   18  Bruer          Willis         2    M
+ 7   18   18  Pelfry         Alexander      22   M         Farmer                   Ky
+                   REMARKS:  no house
+ 8   18   18  Pelfry         Eliza I        18   F                                  Ky
+                   REMARKS:  no house
+ 9   18   18  Pelfry         Moses G        2    M
+                   REMARKS:  no house
+ 10  18   18  Pelfry         Alsey I        1    F
+                   REMARKS:  no house
+ 11  18   18  Crawford       F.B            18   M         Farmer                   Ky
+                   REMARKS:  no house
+ 12  18   18  Simpkins       William        19   M         Farmer                   Ky
+                   REMARKS:  no house
+ 13  19   19  Dunn           Jesse          35   M         Farmer                   Ky
+ 14  19   19  Dunn           Sally          29   F                                  Ky
+ 15  19   19  Dunn           Comfort        8    F
+ 16  19   19  Dunn           John           6    M
+ 17  19   19  Dunn           Algium         4    M
+ 18  19   19  Dunn           Grandville     2    M
+ 19  19   19  Dunn           Angeline       5/12 F
+ 20  20   20  Davis          William        40   M         Farmer         500       Virginia
+ 21  20   20  Davis          Elizabeth      30   F                                  Ky
+ 22  20   20  Davis          Eviline        14   F
+ 23  20   20  Davis          Katharine      13   F
+ 24  20   20  Davis          Juliann        11   F
+ 25  21   21  Childers       James M.       31   M         Farmer         200       Va.
+ 26  21   21  Childers       Nancy          28   F                                  Ky
+ 27  21   21  Childers       Gillian        5    F
+ 28  21   21  Childers       James M.       4    M
+ 29  21   21  Childers       Sarah J        2    F
+ 30  21   21  Childers       Jerimi         1    M
+ 31  22   22  Lovelace       Jeremi         65   M         Farmer         1,000     N.C.
+ 32  22   22  Lovelace       Pheobe         51   F                                  N.C.
+ 33  22   22  Lovelace       James          25   M                                  Ky
+ 34  22   22  Lovelace       Ann Eliza      14   F
+ 35  22   22  Lovelace       Columbus       11   M
+ 36  22   22  Lovelace       John H.        9    M
+ 37  23   23  Smith          Hardin         37   M         Farmer         500       Ky
+ 38  23   23  Smith          Elizabeth      30   F                                  Tenn
+ 39  23   23  Smith          Ellen          10   F
+ 40  23   23  Smith          Eliza I.       9    F
+ 41  23   23  Smith          Wiliam N.      8    M
+ 42  23   23  Smith          James A.       7    M
+
+CENSUS YR:  1850  STATE:  KY  COUNTY:  Breathitt  DIVISION:  District 2  REEL NO:  M432-193  PAGE NO:  2B
+=========================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB
+=========================================================================================================================
+ 1   23   23  Smith          Green          6    M
+ 2   23   23  Smith          Polly          5    F
+ 3   23   23  Smith          John M.        4    M
+ 4   23   23  Smith          Lewis H.       2    M
+ 5   24   24  Van Cleave     Andrew S.      25   M         Farmer         300       Tenn
+ 6   24   24  Van Cleave     Mapmier        22   F                                  Tenn
+ 7   24   24  Van Cleave     Anderson       6    M
+ 8   24   24  Van Cleave     Tolbert        3    M
+ 9   24   24  Van Cleave     William        9/12 M
+ 10  25   25  Wood           Luke           35   M         Farmer         200       N.C.
+                   REMARKS:  Last name could be Mood or Wood
+ 11  25   25  Wood           Susan          29   F                                  Tenn
+ 12  25   25  Wood           Andrew O.      6    M
+ 13  25   25  Wood           Sarah E.       5    F
+ 14  25   25  Wood           Martha I.      2    F
+ 15  25   25  Wood           James F.       7/12 M
+ 16  25   25  Crawford       Katharine      55   F                        300       Va.
+ 17  26   26  Kidd           John           25   M         Farmer         1,500     Kentucky
+ 18  26   26  Kidd           Perliann       28   F
+ 19  26   26  Kidd           Jiney Ann      6    F
+ 20  26   26  Kidd           Samuel         4    M
+ 21  26   26  Kidd           David          2    M
+ 22  26   26  Kidd           Elijah         2/12 M
+ 23  27   27  Simpkins       Polly          38   F                                  N.C.
+ 24  27   27  Simpkins       Nancy          21   F                                  Ky.
+ 25  27   27  Simpkins       Sally          15   F
+ 26  27   27  Simpkins       Lucinda        13   F
+ 27  27   27  Simpkins       John           11   M
+ 28  27   27  Simpkins       Louisa         7    F
+ 29  27   27  Simpkins       Rosannah       5    F
+ 30  27   27  Simpkins       Jane           1    F
+ 31  28   28  Rose           Bowen          56   M         Farmer         250       Tenn.
+ 32  28   28  Rose           Comfort        30   F                                  Ky
+ 33  28   28  Rose           Powell I.      11   M
+ 34  28   28  Rose           Sylvania       9    F
+ 35  28   28  Rose           Polly I.       7    F
+ 36  28   28  Rose           Nancy          3    F
+ 37  29   29  Holland        Simon          19   M         Farmer         150       Ky.
+ 38  29   29  Holland        Nancy          21   F                                  Ky.
+ 39  29   29  Holland        Sanford        11/12 M
+ 40  30   30  Taulbee        Saml.          22   M         Farmer                   Ky.
+ 41  30   30  Taulbee        Nancy          17   F                                  Ky.
+ 42  31   31  King           Jeremi         39   M         Farmer         200       Va.
+
+CENSUS YR:  1850  STATE:  KY  COUNTY:  Breathitt  DIVISION:  District 2  REEL NO:  M432-193  PAGE NO:  3A
+=========================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB
+=========================================================================================================================
+ 1   31   31  King           Elizabeth      28   F                                  Ky.
+ 2   31   31  King           Lewis          10   M
+ 3   31   31  King           William        8    M
+ 4   31   31  King           Lydia          6    F
+ 5   31   31  King           Caroline       5    F
+ 6   31   31  King           Elmira         3    F
+ 7   31   31  King           Adison         7/12 M
+ 8   32   32  King           Moses          57   M         Farmer         400       "Franklin Co, Va. "
+                   REMARKS:  Sold in 1813.14
+ 9   32   32  King           Polly          56   F                                  Va.
+ 10  33   33  Bryant         Evin           35   M         Farmer         300       Ky.
+ 11  33   33  Bryant         Elizth         27   F                                  Ky.
+ 12  33   33  Bryant         Sarah          10   F
+ 13  33   33  Bryant         Hiram          7    M
+ 14  33   33  Bryant         Jasper         5    M
+ 15  33   33  Bryant         Husum          2    M
+ 16  34   34  King           George         35   M         Farmer         1,500     Va.
+ 17  34   34  King           Polly          30   F                                  Ky
+ 18  34   34  King           Margaret       17   F
+ 19  34   34  King           Ambrose        11   M
+ 20  34   34  King           Moses          10   M
+ 21  34   34  King           Serildor       8    F
+ 22  34   34  King           Eliza          5    F
+ 23  34   34  King           John           2    M
+ 24  34   34  King           Elijah         1    M
+ 25  34   34  King           Delila         10/12 F
+ 26  35   35  Bailey         Martin         29   M         Farmer         200       Ky.
+ 27  35   35  Bailey         Almeda         22   F                                  Ky.
+ 28  35   35  Bailey         Malinda        3    F
+ 29  35   35  Bailey         Katharine      53   F                                  Virginia
+ 30  36   36  Friley         Sally          55   F                                  N.C.
+ 31  36   36  Friley         Sidney         25   M                                  Ky
+ 32  36   36  Friley         Margaret       17   F
+ 33  37   37  Maloney        John           39   M         Farmer         1,500     Ky
+ 34  37   37  Maloney        Elizabeth      26   F                                  Va.
+ 35  37   37  Maloney        Justin         4    M
+ 36  37   37  Maloney        Eliza Ann      2    F
+ 37  37   37  Maloney        Susan          79   F                                  Va
+ 38  38   38  Puckett        Morgan R.      49   M         Farmer         400       Va
+ 39  38   38  Puckett        Susan          50   F                                  Va
+ 40  38   38  Puckett        Elizabeth      22   F                                  Ky
+ 41  38   38  Puckett        Gardner        18   M         Farmer                   Ky
+ 42  38   38  Puckett        Clarinda       16   F                                  Ky
+
+CENSUS YR:  1850  STATE:  KY  COUNTY:  Breathitt  DIVISION:  District 2  REEL NO:  M432-193  PAGE NO:  3B
+=========================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB
+=========================================================================================================================
+ 1   38   38  Puckett        Minerva        11   F
+ 2   38   38  Puckett        John           10   M
+ 3   38   38  Puckett        Green          8    M
+ 4   38   38  Puckett        Polly          5    F
+ 5   39   39  Holland        James          31   M         Farmer         100       Ky
+ 6   39   39  Holland        Elizabeth      36   F                                  Va.
+ 7   39   39  Holland        Sarah          19   F                                  Ky
+ 8   39   39  Holland        Betsy          11   F
+ 9   39   39  Holland        Jackson        8    M
+ 10  39   39  Holland        Paulina        6    F
+ 11  39   39  Holland        William        3    M
+ 12  39   39  Holland        Rebecca        1    F
+ 13  39   39  Holland        Polly          1    F
+ 14  40   40  Rose           Anderson N.    32   M         Farmer         2,000     Ky
+ 15  40   40  Rose           Eleanor        28   F                                  Ky
+ 16  40   40  Rose           Nancy          4    F
+ 17  40   40  Rose           Lydia Ann.     3    F
+ 18  40   40  Rose           William R.     2    M
+ 19  40   40  Rose           Logan          7/12 M
+ 20  41   41  Coldiron       George W.      22   M         Farmer         70        Va
+ 21  41   41  Coldiron       Priscilla      19   F                                  Ky
+ 22  42   42  Stamper        James W.       40   M         Farmer                   N.C.
+ 23  42   42  Stamper        Margaret       39   F                                  Va
+ 24  42   42  Stamper        John W         15   M         Farmer                   Indiana
+ 25  42   42  Stamper        Eliza J        13   F
+ 26  42   42  Stamper        Joel           12   M
+ 27  42   42  Stamper        Henry          7    M
+ 28  42   42  Stamper        Emiline        4    F
+ 29  42   42  Stamper        Stamper        3/12 M
+ 30  42   42  Stamper        Wm. Lotston    22   M         Farmer         50        ky
+ 31  43   43  Stamper        Richard        72   M                                  N.C.
+ 32  43   43  Stamper        Martha         72   F                                  Va
+ 33  43   43  Dunn           Juliann        19   F                                  Ky
+ 34  43   43  Dunn           Rachel         1    F
+ 35  44   44  Trent          Henry          43   M         Farmer                   Va
+ 36  44   44  Trent          Charity        43   F                                  Va
+ 37  44   44  Trent          James          21   M         Farmer                   Tenn
+ 38  44   44  Trent          William        18   M         Farmer
+ 39  44   44  Trent          John W.        16   M         Farmer
+ 40  44   44  Trent          Nancy E.       14   F
+ 41  44   44  Trent          Eliza          12   F
+ 42  44   44  Trent          George         10   M
+
+CENSUS YR:  1850  STATE:  KY  COUNTY:  Breathitt  DIVISION:  District 2  REEL NO:  M432-193  PAGE NO:  4A
+=========================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB
+=========================================================================================================================
+ 1   44   44  Trent          Henry          7    M
+ 2   44   44  Trent          Stokeley       2    M
+ 3   44   44  Smith          Eleana D.      23   M         Farmer                   Ky
+ 4   45   45  Turner         James          50   M         Farmer         250       Va
+ 5   45   45  Turner         Mary           27   F                                  Georgia
+ 6   45   45  Turner         Jemima         12   F
+ 7   45   45  Turner         Anna           9    F
+ 8   45   45  Turner         Thomas         17   M         Farmer                   Va
+ 9   45   45  Turner         Johnston       21   M                                  Va
+ 10  45   45  Turner         Sally          12   F
+ 11  45   45  Turner         Wm.            11   M
+ 12  45   45  Turner         Nancy          7    F
+ 13  45   45  Turner         Fannie         6    F
+ 14  45   45  Turner         Rebecca        3    F
+ 15  45   45  Turner         John           2    M
+ 16  45   45  Turner         Emiline        1    F
+ 17  46   46  Shepherd       John M.        51   M         Farmer                   N.C.
+ 18  46   46  Shepherd       Eve            25   F                                  Va
+ 19  46   46  Shepherd       Sally F        4    F
+ 20  46   46  Shepherd       George W.      3    M
+ 21  46   46  Shepherd       Celia          1    F
+ 22  47   47  Hurst          Hardin         26   M         Farmer         400       Ky
+ 23  47   47  Hurst          Dulcina        28   F                                  Ky
+ 24  47   47  Hurst          Saml H         7    M
+ 25  47   47  Hurst          Wm. B          5    M
+ 26  47   47  Hurst          Andrew T       4    M
+ 27  47   47  Hurst          Zachry T       2    M
+ 28  47   47  Hurst          Richard        7/12 M
+ 29  48   48  Damrell        Saml           37   M         Farmer         200       Ky
+ 30  48   48  Damrell        Sally          29   F                                  N.C.
+ 31  48   48  Damrell        John           12   M
+ 32  48   48  Damrell        Wm             10   M
+ 33  48   48  Damrell        Joel           7    M
+ 34  48   48  Damrell        Margaret       4    F
+ 35  48   48  Damrell        Franklin       11/12 M
+ 36  49   49  Trent          Alex           25   M         Farmer         100       Va
+ 37  49   49  Trent          Nancy          22   F                                  Tenn
+ 38  49   49  Trent          Mahala         3    F
+ 39  49   49  Trent          Lucinda        1    F
+ 40  50   50  Trent          Wm             24   M         Farmer         150       Tenn
+ 41  50   50  Trent          Mahala         22   F
+ 42  50   50  Trent          Elizth         5    F
+
+CENSUS YR:  1850  STATE:  KY  COUNTY:  Breathitt  DIVISION:  District 2  REEL NO:  M432-193  PAGE NO:  4B
+=========================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB
+=========================================================================================================================
+ 1   51   51  Spencer        Andrew         20   M         Farmer         200       Va
+ 2   51   51  Spencer        Phoebe         16   F                                  Ky
+ 3   52   52  Spencer        Elijah         47   M         Farmer         100       Va
+ 4   52   52  Spencer        Mary           37   F                                  Va
+ 5   52   52  Spencer        John C.        14   M                                  Ky
+ 6   52   52  Spencer        Mary A.        11   F
+ 7   52   52  Spencer        Elizth         9    F
+ 8   52   52  Spencer        Patience       5    F
+ 9   52   52  Spencer        Saml           3    M
+ 10  52   52  Spencer        Elijah         1    M
+ 11  53   53  Gibbs          John           63   M         Farmer                   Va
+ 12  53   53  Gibbs          Elizabeth      51   F                                  N.C.
+ 13  53   53  Gibbs          Wm.            21   M                                  Ky
+ 14  54   54  Gibbs          Green B.       21   M         Farmer                   Ky
+ 15  54   54  Gibbs          Jemima         18   F                                  Ky
+ 16  54   54  Gibbs          Polly          1    F                                  Ky
+ 17  55   55  Pelfry         Alexander      21   M         Farmer                   Ky
+ 18  55   55  Pelfry         Ellen I        18   F                                  Ky
+ 19  55   55  Pelfry         Moses G        2    M
+ 20  55   55  Pelfry         Ailsey I       1    F
+ 21  56   56  Tyra           John           35   M         Farmer         700       Ky
+ 22  56   56  Tyra           Sally          28   F                                  Ky
+ 23  56   56  Tyra           James H.       13   M
+ 24  56   56  Tyra           Polly          11   F
+ 25  56   56  Tyra           Daniel         9    M
+ 26  56   56  Tyra           John           7    M
+ 27  56   56  Tyra           Wm             6    M
+ 28  56   56  Tyra           Ebenezer       5    M
+ 29  56   56  Tyra           Eli I          4    M
+ 30  56   56  Tyra           Asbury         1    M
+ 31  57   57  Holland        Wm             42   M         Farmer         600       Ky
+ 32  57   57  Holland        Cardus         40   F                                  N.C.
+ 33  57   57  Holland        Nancy          17   F
+ 34  57   57  Holland        Preston        15   M         Farmer
+ 35  57   57  Holland        Orlena         11   F
+ 36  57   57  Holland        Wilson         10   M
+ 37  57   57  Holland        Nelson         8    M
+ 38  57   57  Holland        Mahala         6    F
+ 39  57   57  Holland        Kilson         4    F
+ 40  57   57  Holland        Lucinda        2    F
+ 41  57   57  Holland        Charlotte      8/12 F
+ 42  58   58  Holland        John           72   M         Farmer         200       Va.
+
+CENSUS YR:  1850  STATE:  KY  COUNTY:  Breathitt  DIVISION:  District 2  REEL NO:  M432-193  PAGE NO:  5A
+=========================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB
+=========================================================================================================================
+ 1   58   58  Holland        Charity        72   F                                  N.C.
+ 2   59   59  Banks          Wm. W.         39   M         Farmer         150       Va.
+ 3   59   59  Banks          Fiba           30   F                                  Ky
+ 4   59   59  Banks          Charley        15   M                                  Ky
+ 5   59   59  Banks          Sally          10   F
+ 6   59   59  Banks          Elizabeth      8    F
+ 7   59   59  Banks          Danl           7    M
+ 8   59   59  Banks          William        5    M
+ 9   59   59  Banks          Polly          4    F
+ 10  59   59  Banks          James          3    M
+ 11  59   59  Banks          George W.      1    M
+ 12  60   60  Wadkins        Jackson        26   M         Farmer         100       Ky                X
+ 13  60   60  Wadkins        Keziah         26   F                                  Ky                X
+ 14  60   60  Wadkins        Sally          7    F
+ 15  60   60  Wadkins        W.O.W.         3    M
+ 16  60   60  Wadkins        Andrew         2    M
+ 17  61   61  Hattan         John           18   M         Farmer
+ 18  61   61  Hattan         Angy           14   F
+ 19  61   61  Hattan         Wm. I          5/12 M
+ 20  62   62  Banks          John           41   M         Farmer         800       Tenn
+ 21  62   62  Banks          Polly          41   F
+ 22  62   62  Banks          Nelly H        12   F
+ 23  62   62  Banks          Barbara        6    F
+ 24  62   62  Wadkins        Andy           21   M         Farmer
+ 25  63   63  Banks          William Jr.    73   M         Farmer         300       N.C.
+ 26  63   63  Banks          Sally          73   F                                  Penn or Pa
+ 27  64   64  Baker          Alexander      30   M         Farmer                   Ky
+ 28  64   64  Baker          Mary           32   F                                  Ky
+ 29  64   64  Baker          Elizth         13   F
+ 30  64   64  Baker          Sally          9    F
+ 31  64   64  Baker          Elliza         7    F
+ 32  64   64  Baker          Mahala         3    F
+ 33  64   64  Baker          Polly          1    F
+ 34  65   65  Hatton         William        60   M         Farmer         150       Ky
+ 35  65   65  Hatton         Betsy          43   F                                  Tenn
+ 36  65   65  Hatton         Benjm          12   M
+ 37  65   65  Hatton         Wm             9    M
+ 38  65   65  Hatton         Isham          1    M
+ 39  66   66  Stufflebean    Hiram          46   M         Farmer         100       Ky
+ 40  66   66  Stufflebean    Mourning       40   F                                  Ky
+ 41  66   66  Bryant         Sally          9    F
+ 42  66   66  Bryant         Josiah         7    M
+ 999 59   59  Banks          Charlotte      12   F
+
+CENSUS YR:  1850  STATE:  KY  COUNTY:  Breathitt  DIVISION:  District 2  REEL NO:  M432-193  PAGE NO:  5B
+=========================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB
+=========================================================================================================================
+ 1   66   66  Banks          Charlotte      12   F
+ 2   67   67  Banks          David          47   M         Farmer         500       Tenn
+ 3   67   67  Banks          Sally          40   F                                  N.C.
+ 4   67   67  Banks          William        20   M         Farmer                   Ky
+ 5   67   67  Banks          Levina         18   F
+ 6   67   67  Banks          Adam           17   M         Farmer
+ 7   67   67  Banks          Hannah         14   F
+ 8   67   67  Banks          David          12   M
+ 9   67   67  Banks          Polly          10   F
+ 10  67   67  Banks          Eviline        8    F
+ 11  67   67  Banks          Louraney       6    F
+ 12  67   67  Banks          Caroline       5    F
+ 13  67   67  Banks          John           3    M
+ 14  67   67  Banks          Richard        1    M
+ 15  68   68  Shackelford    Sanford        31   M         Farmer         500       Ky
+ 16  68   68  Shackelford    Sarah          31   F                                  Ky
+ 17  68   68  Shackelford    Marion M.      10   M
+ 18  68   68  Shackelford    Caroline       9    F
+ 19  68   68  Shackelford    Armanda        7    F
+ 20  68   68  Shackelford    Nancy          6    F
+ 21  68   68  Shackelford    Louisa         2    F
+ 22  69   69  Shuffield      Wm. P.         26   M         Farmer         300       Ky
+ 23  69   69  Shuffield      Eviline        21   F                                  Ky
+ 24  69   69  Shuffield      Nancy          2    F
+ 25  70   70  Shackelford    Alfred         25   M         Farmer         300       Ky
+ 26  70   70  Shackelford    Mary           23   F                                  Ky
+ 27  70   70  Shackelford    John M.        1    M
+ 28  71   71  Miller         George         46   M         Farmer         1,000     Ky
+ 29  71   71  Miller         Sidney         46   F                                  Va
+ 30  71   71  Miller         Vancey         18   F
+ 31  71   71  Miller         Susan          15   F
+ 32  71   71  Miller         Arminta        14   F
+ 33  71   71  Miller         Armina         12   M
+ 34  71   71  Miller         John           10   M
+ 35  71   71  Miller         Christena      8    F
+ 36  72   72  Carpenter      Sarah          36   F                                  Tenn
+ 37  72   72  Carpenter      Andrew         18   M         Farmer                   Ky
+ 38  72   72  Carpenter      Malinda        7    F                                  Ky
+ 39  72   72  Carpenter      Stephen        16   M         Farmer                   Ky
+ 40  72   72  Carpenter      John           14   M
+ 41  72   72  Carpenter      Nancy          12   F
+ 42  72   72  Carpenter      Saml           10   M
+
+CENSUS YR:  1850  STATE:  KY  COUNTY:  Breathitt  DIVISION:  District 2  REEL NO:  M432-193  PAGE NO:  6A
+=========================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB
+=========================================================================================================================
+ 1   72   72  Miller         George         6    M
+ 2   72   72  Miller         Letchen        4    M
+ 3   72   72  Miller         Abner          2    M
+ 4   73   73  Miller         Owens          23   M         Farmer         200       Ky
+ 5   73   73  Miller         Matilda        20   F
+ 6   74   74  Shuffield      James          60   M         Farmer         200       Va
+ 7   74   74  Shuffield      Elizabeth      50   F                                  Tenn
+ 8   74   74  Shuffield      Susan I        17   F
+ 9   74   74  Shuffield      Elizth         6    F
+ 10  75   75  Newton         William        46   M         Farmer         1,000     Ky
+ 11  75   75  Newton         Alsey          35   F                                  Ky
+ 12  75   75  Newton         Ansel          17   M         Farmer
+ 13  75   75  Newton         Ransom         14   M
+ 14  75   75  Newton         Elizth         12   F
+ 15  75   75  Newton         John           9    M
+ 16  75   75  Newton         Demerias       7    M
+ 17  75   75  Newton         Dillard        5    M
+ 18  75   75  Newton         America        11/12 F
+ 19  76   76  Lykins         E. Issac S.    22   M         Farmer         500       Ky
+ 20  76   76  Wright         Betsy          57   F                                  S. Carol
+ 21  76   76  Lykins         Lucinda        21   F                                  Ky
+ 22  76   76  Lykins         Louisa         2    F
+ 23  76   76  Lykins         Lourany        1/12 F
+ 24  77   77  Back           Lewis Jr.      52   M         Farmer         1,000     Va.
+ 25  77   77  Back           Elizabeth      45   F                                  S.C
+ 26  78   78  Fields         Acey           63   M         Farmer         2,000     N.C.
+                   REMARKS:  Tenant to I. Seville
+ 27  78   78  Fields         Rachel         54   F
+ 28  78   78  Fields         Ace            14   M
+ 29  78   78  Fields         Polly          13   F
+ 30  79   79  Fields         Abram          25   M         Farmer                   Tenn
+ 31  79   79  Fields         Polly          17   F
+ 32  80   80  Fields         Turner         35   M         Farmer         300       Tenn
+ 33  80   80  Fields         Rebecca        25   F                                  Ky
+ 34  80   80  Fields         Thomas I       6    M
+ 35  80   80  Fields         George W.      4    M
+ 36  80   80  Fields         Danl B         2    M
+ 37  81   81  Fields         Stephen B      23   M         Farmer
+ 38  81   81  Fields         Katharine      19   F
+ 39  82   82  Hounshel       Franklin       50   M         Farmer                   Va
+ 40  82   82  Hounshel       Sally          35   F                                  Va
+ 41  82   82  Hounshel       Polly Ann      14   F
+ 42  82   82  Hounshel       Nancy I.       8    F
+
+CENSUS YR:  1850  STATE:  KY  COUNTY:  Breathitt  DIVISION:  District 2  REEL NO:  M432-193  PAGE NO:  6B
+=========================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB
+=========================================================================================================================
+ 1   82   82  Hounshel       Thomas I.      7    M
+ 2   82   82  Hounshel       Floyd          6    M
+ 3   82   82  Hounshel       Eliza          5    F
+ 4   82   82  Hounshel       Susan          4    F
+ 5   82   82  Hounshel       Rachel         2    M
+ 6   82   82  Hounshel       George         9/12 M
+ 7   83   83  Sewell         Margaret       38   F                                  Va.
+ 8   83   83  Sewell         Joseph         16   M         Farmer
+ 9   83   83  Sewell         Harriett       13   F
+ 10  83   83  Sewell         Mary           11   F
+ 11  83   83  Sewell         George         8    M
+ 12  83   83  Sewell         John H.        5    M
+ 13  84   84  McQuinn        Charles B.     60   M         Farmer                   Va
+ 14  84   84  McQuinn        Lucy           57   F                                  Va.
+ 15  84   84  McQuinn        Honey          21   F
+ 16  84   84  McQuinn        Alexander      18   M         Farmer                   Ky
+ 17  84   84  McQuinn        Louisa         17   F
+ 18  84   84  McQuinn        Shadrach       12   M                                                                     X
+                   REMARKS:  Deaf and Dumb
+ 19  85   85  McDanold       Elizabeth      60   F                                                                     X
+                   REMARKS:  Deaf and Dumb
+ 20  85   85  McDanold       Ursula         50   F
+ 21  86   86  Smith          Edmund         54   M    M    Farmer         100
+ 22  86   86  Smith          Lucinda        31   F    M
+ 23  86   86  Smith          Mary           11   F    M
+ 24  86   86  Smith          Wm.            8    M    M
+ 25  86   86  Smith          Matilda        5    F    M
+ 26  86   86  Smith          Admund         3    M    M
+ 27  86   86  Smith          Sally          1    F    M
+ 28  87   87  Jones          Danl.          28   M         Farmer         200       N.C.
+ 29  87   87  Jones          Nancy          24   F                                  Ky
+ 30  87   87  Jones          James H.       4    M
+ 31  87   87  Jones          Henry          2    M
+ 32  87   87  Jones          Granville      4/12 M
+ 33  88   88  Clemons        John           28   M         Farmer         250       Ky
+ 34  88   88  Clemons        Betsy          24   F                                  Ky
+ 35  88   88  Clemons        Lafayette      2    M
+ 36  88   88  Clemons        Benjn          8/12 M
+ 37  89   89  Williams       Coleman        60   M         Farmer         150       Va.
+ 38  89   89  Williams       Elizth         21   F                                  Ky
+ 39  89   89  Williams       James          23   M         Farmer                   Ky
+ 40  90   90  Whitaker       Wm. I.         29   M         Farmer         300       Ky
+ 41  90   90  Whitaker       Betsy          30   F
+ 42  90   90  Whitaker       Nancy          4    F
+
+CENSUS YR:  1850  STATE:  KY  COUNTY:  Breathitt  DIVISION:  District 2  REEL NO:  M432-193  PAGE NO:  7A
+=========================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB
+=========================================================================================================================
+ 1   90   90  Whitaker       Husum          3    M
+ 2   90   90  Whitaker       Anderson       1    M
+ 3   91   91  Clemons        Benjn.         53   M         Farmer         1,500     Virginia
+ 4   91   91  Clemons        Polly          39   F                                  Ky
+ 5   91   91  Clemons        Isaac          18   M         Farmer                   Ky
+ 6   91   91  Clemons        Moses          17   M         Farmer                   Ky
+ 7   91   91  Clemons        Benjn          15   M         Farmer
+ 8   91   91  Clemons        Francis        14   F
+ 9   91   91  Clemons        Elizth         12   F
+ 10  91   91  Clemons        Sally          11   F
+ 11  91   91  Clemons        William        7    M
+ 12  91   91  Clemons        Jackson        5    M
+ 13  91   91  Clemons        Rebecca        8    F
+ 14  91   91  Clemons        Johnston       4    M
+ 15  91   91  Clemons        Nancy          9/12 F
+ 16  92   92  Fugate         Jesse*         28   M         Farmer         200       Ky                            X
+                   REMARKS:  First name unreadable
+ 17  92   92  Fugate         Fasinda        23   F                                  Ky
+ 18  92   92  Fugate         Peggy          3    F
+ 19  92   92  Hillon         Francis I.     22   M         Farmer                   Ky
+ 20  92   92  Fugate         Henly          25   M         Farmer         150       Ky
+ 21  93   93  Smith          Benjn          72   M         Farmer         400       Va
+ 22  93   93  Smith          Nancy          50   F                                  Va
+ 23  93   93  Smith          Rhoda          21   F                                  Ky
+ 24  93   93  Smith          Levina         12   F
+ 25  94   94  Fugate         William        18   M         Farmer         100       Ky
+ 26  94   94  Fugate         Rachel         16   F                                  Ky
+ 27  94   94  Noble          Sally          22   F                                  Ky
+ 28  94   94  Deaton         Lucinda        22   F                                  Ky
+ 29  95   95  Davis          Elizabeth      65   F                                  N.C.
+ 30  95   95  Davis          Robert         26   M         Farmer                   Ky
+ 31  95   95  Davis          Rebecca        33   F                                  Ky
+ 32  95   95  Davis          Elizth         24   F                                  Ky
+ 33  96   96  Clemons        Francis        28   M         Farmer         100       Ky
+ 34  96   96  Clemons        Fanny          26   F                                  Ky
+ 35  96   96  Clemons        Manford        11   M
+ 36  96   96  Clemons        Rhody          8    F
+ 37  96   96  Clemons        Polly          7    F
+ 38  96   96  Clemons        Nancy          5    F
+ 39  96   96  Clemons        Martha         4    F
+ 40  96   96  Miller         Samuel         2    M
+ 41  97   97  Howard         Preston        40   M         Farmer         500       Tenn
+ 42  97   97  Howard         Sally          38   F                                  Ky
+
+CENSUS YR:  1850  STATE:  KY  COUNTY:  Breathitt  DIVISION:  District 2  REEL NO:  M432-193  PAGE NO:  7B
+=========================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB
+=========================================================================================================================
+ 1   97   97  Howard         Russell        15   M         Farmer                   Ky
+ 2   97   97  Howard         Miles          12   M
+ 3   97   97  Howard         S.             10   M
+ 4   97   97  Howard         Elizth         9    F
+ 5   97   97  Howard         Eliza          7    F
+ 6   97   97  Howard         Esther         5    F
+ 7   97   97  Howard         John           2    M
+ 8   98   98  Williams       Wyatt          33   M         Farmer         200       Ky
+ 9   98   98  Williams       Nancy          22   F                                  Ky
+ 10  98   98  Williams       Chandler       11/12 M
+ 11  99   99  Williams       Henry          36   M         Farmer         300       Ky
+ 12  99   99  Williams       Nancy          32   F                                  Ky
+ 13  99   99  Williams       Hiram          12   M
+ 14  99   99  Williams       Sally          10   F
+ 15  99   99  Williams       Lucinda        8    F
+ 16  99   99  Williams       Gilbert        6    M
+ 17  99   99  Williams       Peggy          3    F
+ 18  99   99  Williams       Daniel         6/12 M
+ 19  99   99  Fugate         Jonathon       96   M         Farmer                   Va.
+ 20  100  100 Noble          John           18   M         Farmer         100       Ky
+ 21  100  100 Noble          Katharine      22   F                                  Ky
+ 22  100  100 Noble          Rebecca        1    F
+ 23  101  101 Fugate         John           20   M         Farmer         400       Ky
+ 24  101  101 Fugate         Ritty          68   F                                  Va
+ 25  101  101 Fugate         Andrew         17   M         Farmer
+ 26  102  102 Collins        William        40   M         Farmer         150       Tenn
+ 27  102  102 Collins        Polly          37   F                                  Ky
+ 28  102  102 Collins        Levisa         18   F                                  Ky
+ 29  102  102 Collins        Mary J.        15   F
+ 30  102  102 Collins        William P.     13   M
+ 31  102  102 Collins        Polly          12   F
+ 32  102  102 Collins        Nancy          9    F
+ 33  102  102 Collins        John           7    M
+ 34  102  102 Collins        Eliza          5    F
+ 35  102  102 Collins        James          2    M
+ 36  103  103 McDaniel       John           60   M         Farmer         200       Va
+ 37  103  103 Fugate         Hannah         49   F                                  Tenn
+ 38  103  103 Fugate         Alfred         7    M
+ 39  103  103 McDaniel       Celia          24   F                                  Ky
+ 40  103  103 McDaniel       Polly          18   F
+ 41  103  103 McDaniel       Vasa           16   F
+ 42  103  103 *Collins       Sally          4/12 F
+                   REMARKS:  Should have been at #36. Omission not mat ?
+
+CENSUS YR:  1850  STATE:  KY  COUNTY:  Breathitt  DIVISION:  District 2  REEL NO:  M432-193  PAGE NO:  8A
+=========================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB
+=========================================================================================================================
+ 1   103  103 McDaniel       Thomas         14   M
+ 2   103  103 McDaniel       Wiley          13   M
+ 3   103  103 McDaniel       Shadrach       11   M
+ 4   103  103 McDaniel       Mary           9    F
+ 5   103  103 McDaniel       Matilda        7    F
+ 6   103  103 McDaniel       Lucy           4    F
+ 7   104  104 Carpenter      Benjn          21   M         Farmer                   Ky
+ 8   104  104 Carpenter      Sally          36   F                                  Tenn
+ 9   104  104 Carpenter      Andrew         18   M         Farmer                   Ky
+ 10  104  104 Carpenter      Stephen        16   M         Farmer
+ 11  104  104 Carpenter      John           14   M
+ 12  104  104 Carpenter      Nancy          12   F
+ 13  104  104 Carpenter      Saml           10   M
+ 14  104  104 Carpenter      Malinda        7    F
+ 15  104  104 Carpenter      George         5    M
+ 16  105  105 Green          Elijah         36   M         Farmer         500       Ky
+ 17  105  105 Green          Ally           27   F                                  Ky
+ 18  105  105 Green          Mary I.        6    F
+ 19  105  105 Green          Sally          4    F
+ 20  105  105 Green          Ceatta         3    F
+ 21  105  105 Green          Columbia       1    M
+ 22  105  105 Howard         Celia          60   F                                  Va.
+ 23  106  106 Carpenter      Felix          75   M         Farmer         200       N.C.
+ 24  106  106 Carpenter      Delphia        73   F                                  Va.
+ 25  106  106 Carpenter      Elishia        26   M                                  Ky
+ 26  107  107 Davis          Willliam       31   M         Farmer         100       Ky
+ 27  107  107 Davis          Sally          22   F                                  Ky
+ 28  107  107 Davis          Robert         4    M
+ 29  107  107 Davis          Calvin         1    M
+ 30  107  107 Shepherd       Benjn.         28   M         Farmer                   Ky
+ 31  108  108 Carpenter      Wilson         20   M         Farmer                   Ky
+ 32  108  108 Carpenter      Nancy          22   F
+ 33  108  108 Fitch          Henderson      2    M
+ 34  109  109 Bradley        James          38   M         Farmer         250       Ky
+ 35  109  109 Bradley        Elizth         32   F                                  Ky
+ 36  109  109 Bradley        Polly          12   F
+ 37  109  109 Bradley        American       10   M
+ 38  109  109 Bradley        George         8    M
+ 39  109  109 Bradley        Celia          6    F
+ 40  109  109 Bradley        Wm.            4    M
+ 41  109  109 Bradley        Elizth         2    F
+ 42  109  109 Bradley        Arty           2/12 F
+
+CENSUS YR:  1850  STATE:  KY  COUNTY:  Breathitt  DIVISION:  District 2  REEL NO:  M432-193  PAGE NO:  8B
+=========================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB
+=========================================================================================================================
+ 1   110  110 Shepherd       David H.       51   M         Farmer         300       Va
+ 2   110  110 Shepherd       Rebecca        42   F                                  Va.
+ 3   110  110 Shepherd       Margaret       14   F
+ 4   110  110 Shepherd       William A.     8    M
+ 5   110  110 Shepherd       George         5    M
+ 6   110  110 Shepherd       Elias          3    M
+ 7   110  110 Shepherd       Susan          5/12 F
+ 8   111  111 Shepherd       Henderson      26   M         Farmer         100       Ky
+ 9   111  111 Shepherd       May            24   F                                  Ky
+ 10  111  111 Shepherd       Wm. E.         6    M
+ 11  111  111 Shepherd       George         5    M
+ 12  112  112 Howard         James          90   M         Farmer                   Va
+ 13  112  112 Howard         Elizabeth      70   F                                  Va
+ 14  112  112 Howard         Green          33   M         Farmer         400       Ky
+ 15  112  112 Howard         Peggy          32   F                                  Ky
+ 16  112  112 Howard         Morgan         14   M
+ 17  112  112 Howard         Wm.            12   M
+ 18  112  112 Howard         Martin         10   M
+ 19  112  112 Howard         Franky         8    F
+ 20  112  112 Howard         James          6    M
+ 21  112  112 Howard         Danl           5    M
+ 22  112  112 Howard         John           4    M
+ 23  112  112 Howard         Green          2    M
+ 24  112  112 Howard         Elizth         5/12 F
+ 25  112  112 Howard         Amanda         3/12 F
+ 26  112  112 Allen          Nancy          19   F                                  Ky
+ 27  113  113 Wadkins        Wm.            30   M         Farmer         200       Va
+ 28  113  113 Wadkins        Peggy          40   F                                  Va
+ 29  113  113 Wadkins        Henry          20   M
+                   REMARKS:  "Pauper, Lame"
+ 30  113  113 Wadkins        John           12   M
+ 31  113  113 Wadkins        Polly          15   F
+ 32  113  113 Wadkins        Susan          11   F
+ 33  113  113 Wadkins        James          10   M
+                   REMARKS:  Virginia 100
+ 34  113  113 Wadkins        Barbara        8    F
+ 35  114  114 Miller         Saml           46   M         Farmer         100       Ky
+ 36  114  114 Miller         Franky         30   F                                  Ky
+ 37  114  114 Miller         James W.       11   F
+ 38  114  114 Miller         Wm.            8    M
+ 39  114  114 Miller         Saml           6    M
+ 40  114  114 Bradley        George         22   M         Farmer         200       Ky
+ 41  114  114 Bradley        Anne           21   F                                  Ky
+ 42  115  115 Mullens        Allen          22   M         Farmer         100       Ky
+
+CENSUS YR:  1850  STATE:  KY  COUNTY:  Breathitt  DIVISION:  District 2  REEL NO:  M432-193  PAGE NO:  9A
+=========================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB
+=========================================================================================================================
+ 1   115  115 Mullens        Phoebe         21   F                                  Ky
+ 2   115  115 Mullens        Eviline        3    F
+ 3   116  116 Mullens        Ambrose        47   M         Farmer         150       Ky
+ 4   116  116 Mullens        Matty          46   F                                  Tenn
+ 5   116  116 Mullens        Levina         20   F                                  Va
+ 6   116  116 Mullens        Booker         18   M                                  Ky
+ 7   116  116 Mullens        Sally          14   F
+ 8   116  116 Mullens        Agnel          10   F
+ 9   116  116 Mullens        Rebecca        8    F
+ 10  116  116 Mullens        Samantha       5    F
+ 11  117  117 Gearheart      William        55   M         Farmer         100       Va
+ 12  117  117 Gearheart      Rachel         53   F                                  Ky
+ 13  117  117 Gearheart      Hetty          19   F                                  Ky
+ 14  117  117 Gearheart      Manford        17   M
+ 15  117  117 Gearheart      Polly          15   F
+ 16  117  117 Gearheart      Wm.            13   M
+ 17  117  117 Gearheart      Harrison       10   M
+ 18  117  117 Gearheart      Henderson      5    M
+ 19  118  118 Gilbert        Joseph         40   M         Farmer         100       Va
+ 20  118  118 Gilbert        Suekey         35   F                                  Ky
+ 21  118  118 Gilbert        Eliza          16   F
+ 22  118  118 Gilbert        John           14   M
+ 23  118  118 Gilbert        Benjn.         12   M
+ 24  118  118 Gilbert        Susan          10   F
+ 25  118  118 Gilbert        Thomas         8    M
+ 26  118  118 Gilbert        William        6    M
+ 27  119  119 Jones          John           60   M         Farmer         200       Tenn
+ 28  119  119 Gibson         Dusenbury      30   F                                  Ky
+ 29  119  119 Gibson         John           6    M
+ 30  120  120 Goodman        Enoch          35   M         Farmer                   Tenn
+ 31  120  120 Goodman        Susan          30   F                                  Ky
+ 32  120  120 Goodman        Miriam         15   F
+ 33  120  120 Goodman        Eleanor        13   F
+ 34  120  120 Goodman        Jackson        11   M
+ 35  120  120 Goodman        Obediah        9    M
+ 36  120  120 Goodman        Sarah          7    F
+ 37  120  120 Goodman        Godman         4/12 M
+ 38  121  121 Patton         Granville      45   M         Farmer         150       Ky
+ 39  121  121 Patton         Polly          30   F
+ 40  121  121 Patton         Adam           15   M         Farmer
+ 41  121  121 Patton         John           17   M         Farmer
+ 42  121  121 *Mullins       Ambrose        1    M
+                   REMARKS:  * Should have been with fam. 115
+
+CENSUS YR:  1850  STATE:  KY  COUNTY:  Breathitt  DIVISION:  District 2  REEL NO:  M432-193  PAGE NO:  9B
+=========================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB
+=========================================================================================================================
+ 1   121  121 Patton         Linsey         12   M
+ 2   121  121 Patton         Jane           10   F
+ 3   121  121 Patton         Andrew         6    M
+ 4   121  121 Patton         Littleton      4    M
+ 5   121  121 Patton         Ruben          4/12 M
+ 6   122  122 Conley         David          27   M         Farmer         50        Ky
+ 7   122  122 Conley         Lourinda       27   F
+ 8   122  122 Conley         Polly          6    F
+ 9   122  122 Conley         Peggy          4    F
+ 10  122  122 Conley         Jackson        2    M
+ 11  122  122 Conley         Albert         1    M
+ 12  123  123 Patton         Sarah          35   F                        100       Ky
+ 13  123  123 Patton         Fanny          15   F
+ 14  123  123 Patton         Granville      12   M
+ 15  123  123 Patton         Eliza          18   F
+ 16  123  123 Patton         James          10   M
+ 17  123  123 Patton         Nancy          8    F
+ 18  123  123 Patton         Cynthian       6    F
+ 19  123  123 Patton         Danl           4    M
+ 20  123  123 Patton         John           2    M
+ 21  123  123 Patton         Sarah          4/12 F
+ 22  123  123 Patton         William        2    M
+ 23  124  124 Johnston       John           32   M         Farmer         300       Va
+ 24  124  124 Johnston       Peggy          32   F                                  Ky
+ 25  124  124 Johnston       William        15   M         Farmer
+ 26  124  124 Johnston       Adam           12   M
+ 27  124  124 Johnston       Sarah          9    F
+ 28  124  124 Johnston       Lernuel        7    F
+ 29  124  124 Johnston       Peter          2    M
+ 30  124  124 Johnston       Anne           4    F
+ 31  124  124 Johnston       Benjn.         6/12 M
+ 32  125  125 Carpenter      Saml           23   M         Farmer         200
+ 33  125  125 Carpenter      Katharine      20   F
+ 34  125  125 Carpenter      Hosannah       3    F
+ 35  125  125 Carpenter      George         1    M
+ 36  126  126 Mullens        Isaac          34   M         Farmer         100       Ky
+ 37  126  126 Mullens        Polly          30   F                                  Ky
+ 38  126  126 Mullens        Jemima         10   F
+ 39  126  126 Mullens        Ambrose        8    M
+ 40  126  126 Mullens        Malinda        7    F
+ 41  126  126 Mullens        John           11/12 M
+ 42  127  127 Allen          George         42   M         Farmer         1,200     Ky
+
+CENSUS YR:  1850  STATE:  KY  COUNTY:  Breathitt  DIVISION:  District 2  REEL NO:  M432-193  PAGE NO:  10A
+=========================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB
+=========================================================================================================================
+ 1   127  127 Allen          Malinda        36   F                                  Ky
+ 2   127  127 Allen          Rhoda          18   F                                  Ky
+ 3   127  127 Allen          Elizabeth      16   F
+ 4   127  127 Allen          Wm.            13   M
+ 5   127  127 Allen          Simon          10   M
+ 6   127  127 Allen          Woodson        9    M
+ 7   127  127 Allen          Sarah          5    F
+ 8   127  127 Allen          Louisa         1    F
+ 9   128  128 Conley         John           25   M         Farmer         100       Ky
+ 10  128  128 Conley         Luster         25   F                                  Ky
+ 11  128  128 Conley         John           3    M
+ 12  128  128 Lawhorn        Elizah         27   M         Farmer                   Ky
+ 13  128  128 Lawhorn        John           2    M
+ 14  129  129 Hunter         Robt.          30   M         Farmer         100       Tenn
+ 15  129  129 Hunter         Elizabeth      25   F                                  Ky
+ 16  129  129 Hunter         John           7    M
+ 17  129  129 Hunter         Winney         4    F
+ 18  129  129 Hunter         Elizabeth      2    F
+ 19  130  130 Bradley        George         68   M         Farmer         300       Va
+ 20  130  130 Bradley        Susan          47   F                                  Va
+ 21  130  130 Bradley        Cynthian       18   F                                  Ky
+ 22  130  130 Bradley        John           16   M         Farmer
+ 23  130  130 Bradley        Jacob          12   M
+ 24  130  130 Bradley        Willis         7    M
+ 25  130  130 Bradley        Briton         7    M
+ 26  130  130 Bradley        Anne           5    F
+ 27  131  131 Allen          William        67   M         Farmer         300       Va
+ 28  131  131 Allen          Katharine      58   F                                  Va
+ 29  131  131 Allen          Ira            29   M         Farmer                   Ky
+ 30  131  131 Allen          Dulaney        19   M         Farmer
+ 31  131  131 Allen          Nancy          18   F
+ 32  131  131 Allen          Fanny          16   F
+ 33  132  132 Allen          James          22   M         Farmer         100       Ky
+ 34  132  132 Allen          Elizabeth      20   F
+ 35  132  132 Allen          Farlina        1    F
+ 36  132  132 Allen          Louraney       3/12 F
+ 37  133  133 Collins        Shephard       38   M         Farmer         200       Ky
+ 38  133  133 Collins        Polly          38   M                                  Ky
+ 39  133  133 Collins        John           16   M
+ 40  133  133 Collins        Hiram          14   M         Farmer
+ 41  133  133 Collins        Sally          11   F
+ 42  133  133 Collins        Fareby         10   F
+
+CENSUS YR:  1850  STATE:  KY  COUNTY:  Breathitt  DIVISION:  District 2  REEL NO:  M432-193  PAGE NO:  10B
+=========================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB
+=========================================================================================================================
+ 1   133  133 Collins        Susannah       7    F
+ 2   133  133 Collins        Dicey          5    F
+ 3   134  134 Loveley        Rubin          20   M         Farmer         250       Ky
+ 4   134  134 Loveley        Levisa         17   F                                  Ky
+ 5   134  134 Loveley        Aperson        1    M
+ 6   135  135 Loveley        Wm.            45   M         Farmer         600       Ky
+ 7   135  135 Loveley        Nancy          36   F                                  Ky
+ 8   135  135 Loveley        Thomas         19   M         Farmer
+ 9   135  135 Loveley        Elijah         17   M         Farmer
+ 10  135  135 Loveley        Allen          15   M         Farmer
+ 11  135  135 Loveley        Druana         11   F
+ 12  135  135 Loveley        Danl           9    M
+ 13  135  135 Loveley        Wm.            7    M
+ 14  135  135 Loveley        Tiritha        5    F
+ 15  135  135 Loveley        Louisa         3    F
+ 16  135  135 Loveley        Saml           2    M
+ 17  135  135 Loveley        Elizabeth      1    F
+ 18  136  136 Morgan         Enoch          47   M         Farmer         200       N.C.
+ 19  136  136 Morgan         Jerusid        41   F                                  N.C.
+ 20  136  136 Morgan         Henry          18   M         Farmer                   N.C.
+ 21  136  136 Morgan         Rufus          15   M         Farmer                   N.C.
+ 22  137  137 Mann           William        41   M         Farmer         500       Ky
+ 23  137  137 Mann           Rhoda          37   F                                  Ky
+ 24  137  137 Mann           George         17   M         Farmer
+ 25  137  137 Mann           Sally          15   F
+ 26  137  137 Mann           Saml           11   M
+ 27  137  137 Mann           Eliza          10   F
+ 28  137  137 Mann           Nancy          7    F
+ 29  137  137 Mann           John           5    M
+ 30  137  137 Mann           Wm.            3    M
+ 31  137  137 Mann           Polly          3    F
+ 32  137  137 Mann           Jackson        1    M
+ 33  138  138 Howard         Saml           25   M         Farmer         300       Ky
+ 34  138  138 Howard         Ann            27   F                                  Ky
+ 35  138  138 Howard         Sally          7    F
+ 36  138  138 Howard         John           5    M
+ 37  138  138 Howard         Calvin         3    M
+ 38  138  138 Howard         Howard         1    M
+ 39  139  139 Howard         Wm.            67   M         Farmer         1,000     Va
+ 40  139  139 Howard         Polly          50   F                                  Va
+ 41  139  139 Howard         John           24   M         Farmer                   Ky
+ 42  139  139 Howard         Riley          20   M         Farmer                   Ky
+
+CENSUS YR:  1850  STATE:  KY  COUNTY:  Breathitt  DIVISION:  District 2  REEL NO:  M432-193  PAGE NO:  11A
+=========================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB
+=========================================================================================================================
+ 1   139  139 Howard         Andrew         18   M         Farmer                   Ky
+ 2   140  140 Carpenter      Fielding       26   M         Farmer         150       Ky
+ 3   140  140 Carpenter      Jane           25   F                                  Ky
+ 4   140  140 Carpenter      Alex           7    M
+ 5   140  140 Carpenter      William        5    M
+ 6   140  140 Carpenter      Babe           1    F
+ 7   141  141 Howard         Ben.           34   M         Farmer         500       Ky
+ 8   141  141 Howard         Nancy          30   F                                  Va.
+ 9   141  141 Howard         Rhoda          15   F
+ 10  141  141 Howard         Nathan         12   M
+ 11  141  141 Howard         Martin         10   M
+ 12  141  141 Howard         Lucinda        8    F
+ 13  141  141 Howard         Eliza          6    F
+ 14  141  141 Howard         Larkin         3    M
+ 15  142  142 Mann           John           27   M         Farmer         700       Ky
+ 16  142  142 Mann           Lucinda        27   F                                  Ky
+ 17  142  142 Mann           Adam           3    M
+ 18  142  142 Mann           Eve            1    F
+ 19  143  143 Howard         George         20   M         Farmer         400
+ 20  143  143 Howard         Betsy          20   F
+ 21  143  143 Howard         Wilson         2    M
+ 22  143  143 Howard         Polly          10/12 F
+ 23  144  144 McDanold       Arthur         30   M         Farmer         100       Ky
+ 24  144  144 McDanold       Polly          20   F                                  Ky
+ 25  144  144 McDanold       Elijah         5    M
+ 26  144  144 McDanold       John           3/12 M
+ 27  144  144 McDanold       Sarah          50   F                                  Va
+ 28  145  145 Hagins         Thomas         50   M         Farmer         3,000     N.C.
+ 29  145  145 Hagins         Rebecca        47   F                                  Tenn
+ 30  145  145 Hagins         John           25   M         Farmer                   Ky
+ 31  145  145 Hagins         Mahala         17   F
+ 32  145  145 Hagins         Luraney        17   F
+ 33  145  145 Hagins         Eliza I.       10   F
+ 34  145  145 Hagins         Nancy          8    F
+ 35  145  145 Hagins         Delila         5    F
+ 36  146  146 McCoy          Curtis F.      37   M         Carpenter      100       Va
+ 37  146  146 McCoy          Elizth         31   F                                  Tenn
+ 38  146  146 McCoy          Lousia         12   F
+ 39  146  146 McCoy          Wm.            10   M
+ 40  146  146 McCoy          Mary           8    F
+ 41  146  146 McCoy          Cynthia        6    F
+ 42  146  146 McCoy          George W.      3    M
+
+CENSUS YR:  1850  STATE:  KY  COUNTY:  Breathitt  DIVISION:  District 2  REEL NO:  M432-193  PAGE NO:  11B
+=========================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB
+=========================================================================================================================
+ 1   146  146 McCoy          Lourany        5/12 F
+ 2   147  147 Craft          Wm.            27   M         Farmer         200       Ky
+ 3   147  147 Craft          Rhody          25   F                                  Ky
+ 4   147  147 Craft          Arzela         5    F
+ 5   147  147 Craft          Sarah I.       1    F
+ 6   148  148 Mann           Thomas         28   M         Farmer         300       Ky
+ 7   148  148 Mann           Eliza          26   F                                  Ky
+ 8   148  148 Mann           Minerva        9    F
+ 9   148  148 Mann           Susan          7    F
+ 10  148  148 Mann           Mary           5    F
+ 11  148  148 Mann           Rebecca        1    F
+ 12  149  149 Craft          Susan          47   F                        50        N.C.
+ 13  149  149 Craft          Daniel         19   M         Farmer                   Ky
+ 14  149  149 Craft          John           16   M         Farmer                   Ky
+ 15  149  149 Craft          Preston        14   M
+ 16  149  149 Craft          Elijah         12   M
+ 17  149  149 Craft          Allen          10   M
+ 18  150  150 Robbins        Joshua         40   M         Farmer         150
+ 19  150  150 Robbins        John W.        10   M
+ 20  151  151 Allen          William        32   M         Farmer         600       Ky
+ 21  151  151 Allen          Elizth.        25   F                                  Ky
+ 22  151  151 Allen          Eli            9    M
+ 23  151  151 Allen          John           4    M
+ 24  151  151 Allen          Mahala         7/12 F
+ 25  151  151 Allen          Katharine      35   F                                  Ky
+ 26  152  152 Patton         George         23   M         Farmer         400       Ky
+ 27  152  152 Patton         Polly          28   F                                  Ky
+ 28  152  152 Patton         Thomas         5    M
+ 29  152  152 Patton         Saml.          1    M
+ 30  152  152 Robbins        Kirza          18   F                                  Ky
+ 31  153  153 Trusty         John           29   M         Farmer         200       Indiana
+ 32  153  153 Trusty         Peggy          25   F                                  Ky
+ 33  153  153 Trusty         Albert         5    M
+ 34  153  153 Trusty         Sally          4    F
+ 35  153  153 Trusty         Saml.          1    M
+ 36  153  153 Trusty         William        27   M         Farmer                   Indiana
+ 37  154  154 Trusty         David          27   M         Farmer         200       Indiana
+ 38  154  154 Trusty         Sally          34   F                                  Ky
+ 39  154  154 Trusty         Abram          6    M
+ 40  154  154 Trusty         Ann            5    F
+ 41  154  154 Trusty         Polly          3    F
+ 42  154  154 * Robbins      Wiley          10   M
+                   REMARKS:  Should have been listed with fam 150
+
+CENSUS YR:  1850  STATE:  KY  COUNTY:  Breathitt  DIVISION:  District 2  REEL NO:  M432-193  PAGE NO:  12A
+=========================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB
+=========================================================================================================================
+ 1   154  154 Trusty         Lucinda        1    F
+ 2   155  155 Puckett        Calab          26   M         Farmer         100       Ky
+ 3   155  155 Puckett        Polly          24   F                                  Ky
+ 4   155  155 Puckett        Elizth.        5    F
+ 5   155  155 Puckett        John           3    M
+ 6   155  155 Puckett        Susan          1    F
+ 7   156  156 Marshall       William        45   M         Farmer         100       Ky
+ 8   156  156 Marshall       Nancy          35   F                                  Ky
+ 9   156  156 Marshall       Jefferson      13   M
+ 10  157  157 Cockrell       Jeremi         62   M         Farmer         2,000     Va
+ 11  158  158 Smith          William        25   M         Farmer         100       Ky
+ 12  158  158 Smith          Elizth.        22   F                                  Ky
+ 13  158  158 Smith          Rebecca        4    F
+ 14  158  158 Smith          Malissa        2    F
+ 15  158  158 Smith          Babe           1    M
+ 16  159  159 Allen          Joseph         27   M         Farmer         550       Ky
+ 17  159  159 Allen          Fanny          24   F                                  Ky
+ 18  159  159 Allen          Rebecca        6    F
+ 19  159  159 Allen          Katharine      4    F
+ 20  159  159 Allen          Levisa         2    F
+ 21  159  159 Allen          Ervine         7/12 F
+ 22  160  160 Clemmons       Richard        40   M         Farmer         100       Ky
+ 23  160  160 Clemmons       Rebecca        31   F                                  Ky
+ 24  160  160 Clemmons       John           9    M
+ 25  160  160 Clemmons       Wm.            7    M
+ 26  160  160 Clemmons       Mahala         1    F
+ 27  161  161 Smith          Thomas         52   M         F. & Stone Mason 200     Va
+ 28  161  161 Smith          Sarah          44   F                                  Ky
+ 29  161  161 Smith          Benjn.         23   M                                  Ky
+ 30  161  161 Smith          Martha         22   F                                  Ky
+ 31  161  161 Smith          Mary           20   F
+ 32  161  161 Smith          Richd.         17   M
+ 33  161  161 Smith          Matilda        14   F
+ 34  161  161 Smith          Elias          11   M
+ 35  161  161 Smith          Lewis          9    M
+ 36  161  161 Smith          Aggy           5    F
+ 37  161  161 Allen          George         18   M         Farmer
+ 38  162  162 Calhoun        Evins          23   M         Farmer         100       Ky
+ 39  162  162 Calhoun        Deary          20   F
+ 40  163  163 Risner         Isaac          25   M         Farmer         155
+ 41  163  163 Risner         Polly          23   F
+ 42  163  163 Risner         Martha         1    F
+
+CENSUS YR:  1850  STATE:  KY  COUNTY:  Breathitt  DIVISION:  District 2  REEL NO:  M432-193  PAGE NO:  12B
+=========================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB
+=========================================================================================================================
+ 1   163  163 Risner         Louisa         10/12 F
+ 2   163  163 Miller         Mary           63   F         Farmer         300       Va
+ 3   164  164 Holbrook       John           53   M         Farmer         300       N.C.
+ 4   164  164 Holbrook       Susan          45   F                                  Va
+ 5   164  164 Holbrook       Susan          20   F                                  Ky
+ 6   164  164 Holbrook       Mary Ann       19   F
+ 7   164  164 Holbrook       Hargis         15   M
+                   REMARKS:  Possibly Hargis or Harpir
+ 8   164  164 Holbrook       Wm.            5    M
+ 9   164  164 Holbrook       Isaac          4    M
+ 10  165  165 Mattocks       Emery          38   M         Farmer         150       Va
+ 11  165  165 Mattocks       Mary           36   F
+ 12  165  165 Mattocks       Rebecca        13   F
+ 13  165  165 Mattocks       Willoby        8    M
+ 14  165  165 Mattocks       Jesse          6    M
+ 15  165  165 Mattocks       Carline        5    F
+ 16  165  165 Mattocks       Elijah         1    M
+ 17  166  166 Fletcher       James          38   M         Farmer         150       Va
+ 18  166  166 Fletcher       Betsy          27   F                                  Ky
+ 19  166  166 Fletcher       Louisa         7    F
+ 20  166  166 Fletcher       Nancy          5    F
+ 21  166  166 Fletcher       Susan          3    F
+ 22  167  167 Holbrook       John Jr.       30   M         Farmer         100       Ky.
+ 23  167  167 Holbrook       Levisa         30   F
+ 24  167  167 Holbrook       Elizabeth      8    F
+ 25  167  167 Holbrook       Hiram          6    M
+ 26  167  167 Holbrook       James          4    M
+ 27  167  167 Holbrook       Jacob          2    M
+ 28  167  167 Holbrook       Calvin         1    M
+ 29  168  168 Clemons        Wm.            37   M         Farmer         800       Ky
+ 30  168  168 Clemons        Katharine      36   F
+ 31  168  168 Clemons        William        18   M
+ 32  168  168 Clemons        Elizabeth      16   F
+ 33  168  168 Clemons        Polly Ann      14   F
+ 34  169  169 Calhoun        James          47   M         Farmer         1,000     Va
+ 35  169  169 Calhoun        Polly          43   F
+ 36  169  169 Calhoun        Lucinda        21   F
+ 37  169  169 Calhoun        Dulcina        19   F
+ 38  169  169 Calhoun        James          16   M
+ 39  169  169 Calhoun        Polly          16   F
+ 40  169  169 Calhoun        Jepthy         14   M
+ 41  169  169 Calhoun        Robert         11   M
+ 42  169  169 Calhoun        Nancy          8    F
+
+CENSUS YR:  1850  STATE:  KY  COUNTY:  Breathitt  DIVISION:  District 2  REEL NO:  M432-193  PAGE NO:  13A
+=========================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB
+=========================================================================================================================
+ 1   169  169 Calhoun        Sally          5    F
+ 2   169  169 Calhoun        Milan          3    M
+ 3   170  170 Calhoun        Thomas         65   M         Farmer         150       Va
+ 4   170  170 Calhoun        Nancy          60   F                                  Va
+ 5   170  170 Calhoun        Delila         14   F
+ 6   171  171 Morefield      David          23   M         Farmer                   Va
+ 7   172  172 Howard         Micajah        26   M         Farmer                   Ky
+ 8   172  172 Howard         Dred           49   M                                  Ky
+ 9   172  172 Howard         Julian         49   F                                  Va
+ 10  172  172 Howard         Sam.           13   M                                  Ky
+ 11  172  172 Howard         Mary           8    F
+ 12  172  172 Howard         Hiram          6    M
+ 13  172  172 Howard         Hurum          3    M
+ 14  172  172 Howard         Clay           1    F
+ 15  173  173 Church         Jos.           22   M         Farmer         200       Va
+ 16  173  173 Church         Martha         24   F                                  Va
+ 17  173  173 Church         Sampson        2    M
+ 18  173  173 Church         Lewis          5/12 M
+ 19  174  174 Back           John           40   M         Farmer         400       Scott Co. Va.
+ 20  174  174 Back           Elizabeth      37   F                                  Ky
+ 21  174  174 Back           Minerva        13   F
+ 22  174  174 Back           Polly          11   F
+ 23  174  174 Back           William        9    M
+ 24  174  174 Back           Henry          7    M
+ 25  174  174 Back           Alford         5    M
+ 26  174  174 Back           Eliza.         3    F
+ 27  174  174 Back           Soloman        38   M         Farmer         150       Ky
+ 28  174  174 Back           Jane           34   F                                  Tenn.
+ 29  174  174 Back           Katharine      14   F
+ 30  174  174 Back           Isaac          12   M
+ 31  174  174 Back           John           10   M
+ 32  174  174 Back           Lewis          8    F
+ 33  174  174 Back           Joseph         4    M
+ 34  174  174 Back           Solomon        2    M
+ 35  174  174 Back           Susan          10/12 F
+ 36  174  174 Davis          John           98   M         Farmer                   N.C.
+                   REMARKS:  Puaper
+ 37  175  175 Back           Alfred         46   M         Blacksmith     600       Va.
+ 38  175  175 Back           Isabel         42   F                                  Ky.
+ 39  175  175 Back           Mary           21   F
+ 40  175  175 Back           Elizth         19   F
+ 41  175  175 Back           Henry          17   M         Farmer
+ 42  175  175 Back           John           15   M         Farmer
+
+CENSUS YR:  1850  STATE:  KY  COUNTY:  Breathitt  DIVISION:  District 2  REEL NO:  M432-193  PAGE NO:  13B
+=========================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB
+=========================================================================================================================
+ 1   175  175 Back           Joseph         12   M                                  Ky
+ 2   175  175 Back           Alfred         9    M
+ 3   175  175 Back           Benjn.         7    M
+ 4   177  177 Williams       Stephen        27   M         Farmer         400       Ky
+ 5   177  177 Williams       Sally          25   F
+ 6   177  177 Williams       Levina         8    F
+ 7   177  177 Williams       Emiline        6    F
+ 8   177  177 Williams       Gilbert        4    M
+ 9   177  177 Williams       Greenville     2    M
+ 10  178  178 Birchfield     William        39   M         Farmer         1,200     N.C.
+ 11  178  178 Birchfield     Fanny          33   F
+ 12  178  178 Birchfield     Angeline       11   F
+ 13  178  178 Birchfield     Elizabeth      8    F
+ 14  178  178 Birchfield     Adam           6    M
+ 15  178  178 Birchfield     James          9/12 M
+ 16  179  179 Cope           James D.       51   M         Farmer         2,500     Va.
+ 17  179  179 Cope           Elizabeth      47   F
+ 18  179  179 Cope           Louriany       23   F
+ 19  179  179 Cope           James          18   M
+ 20  179  179 Cope           Lucinda        14   F
+ 21  179  179 Cope           Eviline        12   F
+ 22  179  179 Cope           Caroline       10   F
+ 23  179  179 Cope           Greenville     8    M
+ 24  179  179 Cope           Elizabeth      5    F
+ 25  180  180 Williams       Caleb          20   M         Farmer                   Ky
+ 26  180  180 Williams       Nancy          15   F                                  Ky
+ 27  180  180 Williams       Jas. V.        38   M         Farmer         400       Ky
+ 28  180  180 Williams       Jane           38   F                                  Ky
+ 29  180  180 Williams       Belinda        16   F
+ 30  180  180 Williams       Jephtha W.     14   M
+ 31  180  180 Buffington     Ailsey         13   F
+ 32  180  180 Williams       Wiley O. P.    12   M
+ 33  180  180 Williams       Clarinda       10   F
+ 34  180  180 Williams       Joseph D.      9    M
+ 35  180  180 Williams       Wm. S.         4    M
+ 36  181  181 Jones          John           60   M         Farmer         200       Va.
+                   REMARKS:  Soldier in 1813-1814
+ 37  181  181 Jones          Darcus         50   F                                  Ky
+ 38  181  181 Viers          Anna           35   F                                  Ky
+ 39  181  181 Taulbee        William        48   M         Farmer         1,200     Tenn
+ 40  181  181 Taulbee        Polly          45   F                                  N.C.
+ 41  181  181 Taulbee        John W.        18   M
+ 42  181  181 Taulbee        James P.       16   M
+
+CENSUS YR:  1850  STATE:  KY  COUNTY:  Breathitt  DIVISION:  District 2  REEL NO:  M432-193  PAGE NO:  14A
+=========================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB
+=========================================================================================================================
+ 1   181  181 Taulbee        Wm. W.         14   M
+ 2   181  181 Taulbee        Martha Ann     10   F
+ 3   181  181 Taulbee        Nancy C.       8    F
+ 4   181  181 Taulbee        Green          12   M
+ 5   181  181 Taulbee        Elsbury        5    M
+ 6   181  181 Taulbee        Silas          1    M
+ 7   183  183 Tolby          Jefferson      25   M         Farmer         300       Ky
+ 8   183  183 Tolby          Temperance     26   F
+ 9   183  183 Tolby          William L.     5    M
+ 10  183  183 Tolby          James P.       4    M
+ 11  183  183 Tolby          Pauline        2    F
+ 12  184  184 Tolston        Thomas         25   M         Farmer         100       Ky
+ 13  184  184 Tolston        Rebecca        21   F                                  Georgia
+ 14  185  185 Tolston        Peter          57   M         Farmer         100       Va.
+ 15  185  185 Tolston        Polly          52   F                                  Va.
+ 16  185  185 Tolston        James          16   M         Farmer                   Ky.
+ 17  185  185 Tolston        Tamer          13   F
+ 18  185  185 Tolston        Warrin         13   M
+ 19  185  185 Tolston        Jo. E          9    M
+ 20  185  185 Tolston        Peggy          28   F                                  Ky
+ 21  185  185 Tolston        Polly          6    F
+ 22  185  185 Tolston        Sally          4    F
+ 23  185  185 Tolston        Peter          1    M
+ 24  185  185 Trusty         Danl.          28   M         Farmer                   Ky.
+ 25  185  185 Garner         Wm.            54   M         Farmer                   N.C.
+ 26  185  185 Garner         Locky          30   F                                  Tenn.
+ 27  186  186 Deaton         John           41   M         Farmer & Shff. 1,300     Ky.
+ 28  186  186 Deaton         Malinda        50   F                                  Ky.
+ 29  186  186 Deaton         Thomas         18   M         Farmer                   Indiana
+ 30  186  186 Deaton         Edward         13   M
+ 31  186  186 Deaton         Jemima         11   F
+ 32  186  186 Deaton         Elizth.        9    F
+ 33  186  186 Deaton         Alexander      7    M
+ 34  186  186 Deaton         John           5    M
+ 35  186  186 Deaton         Joseph         5    M
+ 36  186  186 Deaton         Lewis          1    M
+ 37  187  187 Miller         Benjn.         51   M         Farmer         200       Va
+ 38  187  187 Miller         Nancy          42   F                                  Ky
+ 39  187  187 Miller         Miriam         9    F
+ 40  188  188 Miller         Elijah         24   M         Farmer                   Ky
+ 41  188  188 Miller         Nancy          16   F                                  Ky
+ 42  189  189 Russell        John           33   M         Farmer         450       Va
+
+CENSUS YR:  1850  STATE:  KY  COUNTY:  Breathitt  DIVISION:  District 2  REEL NO:  M432-193  PAGE NO:  14B
+=========================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB
+=========================================================================================================================
+ 1   189  189 Russell        Sally          33   F                                  Ky
+ 2   189  189 Russell        Absalam        14   M
+ 3   189  189 Russell        James          12   M
+ 4   189  189 Russell        David          10   M
+ 5   189  189 Russell        William        6    M
+ 6   189  189 Russell        John           4    M
+ 7   189  189 Russell        Nancy          2    F
+ 8   190  190 Miller         John           27   M         Farmer                   Ky
+ 9   190  190 Miller         Tabitha        19   F                                  Ky
+ 10  190  190 Miller         Ruben          3    M
+ 11  190  190 Miller         James          9/12 M
+ 12  191  191 Hays           John B.        17   M         Farmer                   Ky
+ 13  191  191 Hays           Sarah          17   F                                  Ky
+ 14  192  192 Combs          Alfred         36   M         Farmer         1,800     Ky
+ 15  192  192 Combs          Peggy          36   F                                  Ky
+ 16  192  192 Combs          Polly          17   F                                  Ky
+ 17  192  192 Combs          Nancy          16   F                                  Ky                      X
+ 18  192  192 Combs          Henderson      13   M                                                          X
+ 19  192  192 Combs          Shadrach       12   M                                                          X
+ 20  192  192 Combs          Jerry          10   M                                                          X
+ 21  192  192 Combs          Rachel         8    F                                                          X
+ 22  192  192 Combs          Paulina        6    F
+ 23  192  192 Combs          Delila         4    F
+ 24  192  192 Combs          Delaney        3    M
+ 25  192  192 Combs          Issac          11/12 M
+ 26  192  192 Noble          Wm.            16   M         Farmer                   Ky
+ 27  193  193 Fields         Ephraim        32   M         Farmer         300       Ky
+ 28  193  193 Fields         Lydia          32   F                                  Ky
+ 29  193  193 Fields         Nancy          7    F
+ 30  193  193 Fields         Mary           5    F
+ 31  193  193 Fields         Nathan         2    M
+ 32  193  193 Fields         Stephen        9/12 M
+ 33  194  194 Southers       Issac          42   M         Farmer         50        N.C.
+ 34  194  194 Southers       Polly          36   F                                  N.C.
+ 35  194  194 Southers       FranKey        13   F
+ 36  194  194 Southers       Nancy          10   F
+ 37  194  194 Southers       Levina         8    F
+ 38  194  194 Southers       Sampson        6    M
+ 39  194  194 Southers       Nelson         7/12 M
+ 40  195  195 Hicks          Robert         25   M         Farmer         100       Ky
+ 41  195  195 Hicks          Polly          21   F                                  Ky
+ 42  195  195 Hicks          Isaac          5    M                                  Ky
+
+CENSUS YR:  1850  STATE:  KY  COUNTY:  Breathitt  DIVISION:  District 2  REEL NO:  M432-193  PAGE NO:  15A
+=========================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB
+=========================================================================================================================
+ 1   195  195 Hicks          Samuel         3    M
+ 2   195  195 Hicks          Elizabeth      2    F
+ 3   195  195 Hicks          Nancy          8/12 M
+ 4   196  196 Southers       Abrams         42   F         Farmer
+ 5   196  196 Southers       Rosy           33   F
+ 6   196  196 Southers       Sally          13   F
+ 7   196  196 Southers       Linda          8    F
+ 8   196  196 Southers       Peggy          5    F
+ 9   196  196 Southers       Rebecca        2    F
+ 10  197  197 Combs          Henry          31   M         Farmer         1,500     Ky
+ 11  197  197 Combs          Temperance     34   F                                  Ky
+ 12  197  197 Combs          Duleena A.     11   F
+ 13  197  197 Combs          Stephen        9    M
+ 14  197  197 Combs          Larkin         8    M
+ 15  197  197 Combs          Elizth.        7    F
+ 16  197  197 Combs          Alfred         5    M
+ 17  197  197 Combs          Asbury         3    M
+ 18  197  197 Combs          William        1    M
+ 19  198  198 McIntosh       Nimrod         27   M         Farmer         450       Ky
+ 20  198  198 McIntosh       Nancy          25   F                                  Ky
+ 21  198  198 McIntosh       Vardeman       10   M
+ 22  198  198 McIntosh       Eviline        7    F
+ 23  198  198 McIntosh       Andrew         4    M
+ 24  198  198 McIntosh       Ambrose        2    M
+ 25  199  199 Miller         John           50   M         Farmer         250       Ky
+ 26  199  199 Miller         Patsy          35   F                                  Ky
+ 27  199  199 Miller         George         15   M         Farmer
+ 28  199  199 Miller         Peggy          13   F
+ 29  199  199 Miller         Sally          11   F
+ 30  199  199 Miller         Haney          9    F
+ 31  199  199 Miller         Alfred         7    M
+ 32  199  199 Miller         Nancy Ann      5    F
+ 33  200  200 McIntosh       Zech.          30   M         Farmer
+ 34  200  200 McIntosh       Martin         16   M         Farmer
+ 35  200  200 McIntosh       Fran Key       14   F
+ 36  200  200 McIntosh       Mary           10   F
+ 37  200  200 McIntosh       William        8    M
+ 38  200  200 McIntosh       Andrew         6    M
+ 39  200  200 McIntosh       Chaney         4    F
+ 40  201  201 Harvey         Wm.            40   M         Farmer                   Va.
+ 41  201  201 Harvey         Elizth.        41   F
+ 42  201  201 Combs          James          12   M                                  Ky
+
+CENSUS YR:  1850  STATE:  KY  COUNTY:  Breathitt  DIVISION:  District 2  REEL NO:  M432-193  PAGE NO:  15B
+=========================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB
+=========================================================================================================================
+ 1   201  201 Harvey         John           22   M         Farmer                   Ky
+ 2   201  201 Harvey         Robert         12   M
+ 3   201  201 Harvey         Easter         7    F
+ 4   201  201 Harvey         Elizabeth      2    F
+ 5   202  202 Harvey         Wm.            23   M         Farmer                   Ky
+ 6   202  202 Harvey         Ellis          17   F                                  Ky
+ 7   203  203 Fugate         Saml.          25   M         Farmer                   Ky
+ 8   203  203 Fugate         Frankey        26   F                                  Ky
+ 9   203  203 Fugate         Mahala         10   F
+ 10  203  203 Fugate         Nancy          9    F
+ 11  203  203 Fugate         Soloman        2    M
+ 12  204  204 Fugate         John           24   M         Farmer         200       Ky
+ 13  204  204 Fugate         Margaret       22   F                                  Ky
+ 14  204  204 Fugate         Nancy          9    F
+ 15  204  204 Fugate         Delila         7    F
+ 16  204  204 Fugate         Benjn.         5    M
+ 17  204  204 Fugate         James          3    M
+ 18  204  204 Fugate         Hinly          1    M
+ 19  205  205 Rice           George         50   M         Farmer         100       Va
+ 20  205  205 Rice           Sally          54   F                                  Va
+ 21  205  205 Rice           Sam            16   M         Farmer
+ 22  205  205 Rice           Ben.           14   M
+ 23  205  205 Rice           Wesley         21   M
+ 24  206  206 Noble          Jackson        37   M         Farmer                   Ky
+ 25  206  206 Noble          Elizabeth      27   F                                  Ky
+ 26  206  206 Noble          Clabourn       12   M
+ 27  206  206 Noble          Wm.            4    M
+ 28  206  206 Noble          Matilda Ann    2    F
+ 29  206  206 Combs          Simon          16   M         Farmer                   Ky
+ 30  207  207 Miller         William        42   M         Farmer         350       Ky
+ 31  207  207 Miller         Sally          39   F                                  Ky
+ 32  207  207 Miller         Polly          17   F
+ 33  207  207 Miller         Nathan         15   M         Farmer
+ 34  207  207 Miller         Jackson        12   M
+ 35  207  207 Miller         Juda           11   F
+ 36  207  207 Miller         Nancy Ann      9    F
+ 37  207  207 Miller         Lawson         8    M
+ 38  207  207 Miller         Levina         7    F
+ 39  207  207 Miller         Wm.            6    M
+ 40  207  207 Miller         Stephen        3    M
+ 41  207  207 Miller         Clabourn       2    M
+ 42  208  208 Noble          John           26   M         Farmer                   Ky                            X
+
+CENSUS YR:  1850  STATE:  KY  COUNTY:  Breathitt  DIVISION:  District 2  REEL NO:  M432-193  PAGE NO:  16A
+=========================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB
+=========================================================================================================================
+ 1   208  208 Noble          Jane           18   F                                  Ky
+ 2   208  208 Noble          Sally          8/12 F
+ 3   209  209 Francis        Hiram          50   M         Farmer         500       Va
+ 4   209  209 Francis        Sarah          44   F                                  Va
+ 5   209  209 Francis        William        19   M         Farmer                   Ky
+ 6   209  209 Francis        Lucinda        17   F
+ 7   209  209 Francis        Hiram          14   M
+ 8   209  209 Francis        Daniel         11   M
+ 9   210  210 Miller         John B.        36   M         Farmer                   Ky.
+ 10  210  210 Miller         Sarah          30   F
+ 11  210  210 Miller         Speed          12   M
+ 12  210  210 Miller         Daniel         8    M
+ 13  210  210 Miller         James          6    M
+ 14  210  210 Miller         Kaleb          5    M
+ 15  210  210 Miller         Stephen        2    M
+ 16  210  210 Miller         Nancy          3/12 F
+ 17  211  211 Noble          James          24   M         Farmer         100       Ky
+ 18  211  211 Noble          Polly          23   F                                  Ky
+ 19  211  211 Noble          Sarah          1    F
+ 20  212  212 Barnett        Wilson         42   M         Farmer         1,000     Va
+ 21  212  212 Barnett        Polly          37   F                                  Ky
+ 22  213  213 Barnett        George         22   M         Farmer         500       Ky
+ 23  214  214 Woods          Woodson        30   M         Farmer         200       Va
+ 24  214  214 Woods          Jane           30   F                                  Ky
+ 25  214  214 Woods          Polly          12   F
+ 26  214  214 Woods          Lucinda        10   F
+ 27  214  214 Woods          Martha         5    F
+ 28  214  214 Woods          N/R            1    M
+                   REMARKS:  no first name listed
+ 29  215  215 Miller         Elias          50   M         Farmer                   Va
+ 30  215  215 Miller         Nancy          50   F                                  Va
+ 31  216  216 Miller         Saml.          38   M         Farmer                   Ky
+ 32  216  216 Miller         Nancy          25   F                                  Ky
+ 33  216  216 Miller         Tabitha        12   F
+ 34  216  216 Miller         Polly          9    F
+ 35  216  216 Miller         Andrew         7    M
+ 36  216  216 Miller         Patsy          5    F
+ 37  216  216 Miller         Isaac          3    M
+ 38  216  216 Miller         Richd.         5/12 M
+ 39  217  217 Noble          Ira            35   M         Farmer         300       Ky
+ 40  217  217 Noble          Rachel         30   F
+ 41  217  217 Noble          William        12   M
+ 42  217  217 Noble          Saml.          10   M
