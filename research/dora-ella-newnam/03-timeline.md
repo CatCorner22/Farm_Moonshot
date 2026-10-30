@@ -124,5 +124,20 @@ Place as it was *at the date*; modern equivalent in brackets. Flag impossibiliti
 | Apr 1910 | — | FAN: Buck Creek **134** John 31 + Lillie; **158** Grant 21 + Dona (**not** 1876 Grant); **159** Everet 23 + sis Susan. **141** Elizabeth + Pearl unchanged | Buck Creek, Owsley Co., KY | C438 C439 C440 C441 | S375 |
 | **20 Nov 1915** | — | FAN: **John NEWMAN**, 34, widower, b. Owsley, parents **Dan Newman & Mininerva Venable**, × **Cora BRANDENBURG**, 22 | Lee Co., KY | C436 C437 | S374 |
 | **13 Oct 1947** | — | FAN reject: Sarah Newman d. Lee, parents **John Damrel × Elizabeth Angel** — **not** Sarah Veneable | Lee Co., KY | C444 | S379 |
+| **1 Jun 1880** | — | FAN: Owsley Buck Creek hh **100/104** **Daniel NEWNAM** 29 + **Sarah M.** 28 VATNTN + Melissa 4 + **John L.** 1. Next: Joseph L. / Leroy Venable houses | Buck Creek, Owsley Co., KY | C457 C459 C486 | S384 |
+| **2 Jan 1904** | — | FAN: William Evans, 52, 2nd, of Lee × **Manerva Newman**, 51, 3rd, of Owsley | Owsley Co., KY | C468 C469 | S389 |
+| Apr 1910 | — | FAN: Buck Creek hh **116** William Evans 59 m2 7y + **Sarah M.** 60 VTT | Buck Creek, Owsley Co., KY | C468 | S389 S392 |
+| **10 Feb 1909** | — | FAN: **Grant NEWNAM**, 19, of Owsley (father b. Lee, mother b. VA) × **Dova COLE**, 21 | Owsley Co., KY | C464 C465 | S386 |
+| **12 Jan 1915** | — | FAN: **Lillie Newman** d. Owsley, 30y 7m 24d, b. **18 May 1884**; parents J. B. Isaacs × Sally Flanery. KDI vol **012** cert **05734** | Owsley Co., KY | C460 C461 | S387 |
+| **28 Oct 1913** | — | FAN: **Clara Newnam** stillborn; parents Grant × Dena B. Cole; burial T. B. Venable’s | Owsley Co., KY | C466 | S386 |
+| **21 Jun 1916** / **25 Aug 1916** | — | FAN: **Gracy** Newnam (John × Lillie Isaacs); infant **Willie** (John × Cora Bradburg) | Owsley Co., KY | C462 C463 | S388 |
+| **15 Sep 1936** | — | FAN: **Sarah M. Evans** d. Lower Buffalo, 86y 8m, b. **16 Jan 1850** Lee Co. VA; spouse William Evans; father Lee Roy Veneble; mother Ratchel McQueen. **PROBABLE** 1900 widow Minerva | Lower Buffalo, Lee Co., KY | C484 C485 | S390 |
+| **19 Jun 1958** | — | FAN possible: **NEWMAN, DAVID G**, 70, Madison — **not merged** with David F. / Frank | Madison Co., KY | C473 | S391 |
+| **22 June 1900** | — | FAN possible: Buck Creek hh **290/292** **Malissa** Bowman wife **3/1876** KYKYVA — **POSSIBLE** 1880 Melissa | Buck Creek, Owsley Co., KY | C487 C488 | S394 |
+| **17 Jul 1931** | — | FAN: Dellie Bowman d. Owsley, parents **Cris NEWMAN** × Martha LANE — surname conflict vs 1900 Bowman head | Owsley Co., KY | C502 | S394 |
+| Apr 1940 | — | FAN: Owsley ED **95-3** hh **54** **John NEWNAM** 63 + **Cora** 47 + Robert 21. **PROBABLE** 1915 couple / 1880 John L. | Buck Creek / Levi, Owsley Co., KY | C489 C490 C491 | S395 |
+| **17 Jul 1966** | — | FAN possible: **NEWMAN, JOHN L**, 88, Woodford — **not merged** with 1880 John L. | Woodford Co., KY | C492 | S396 |
+| **25 Feb 1981** | — | FAN: **Cora P. Newnam**, 87, widow of Rev. Luther — **PROVEN** | Fayette / Lee Co., KY | C494 | S396 |
+| **19 Nov 1988** | — | FAN possible: **NEWMAN, CORA B**, 95, Fayette — **POSSIBLE** 1940 Cora | Fayette Co., KY | C495 | S396 |
 
 **Impossibility flags:** None. Mother ~29 at Dora’s 1871 birth (Mary b. 1842). Dora age 14 at marriage is legal/period-possible (KY) though young; 1880 age 8 corroborates. Two children born before Coy in the 1886–1889 window would have Dora aged 15–18 — possible. No event after 23 Aug 1926 is attributed to her.

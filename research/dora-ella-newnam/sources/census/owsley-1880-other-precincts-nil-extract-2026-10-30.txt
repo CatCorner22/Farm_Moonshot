@@ -1,0 +1,20 @@
+1880 Owsley remaining precincts searched 30 Oct 2026 for Daniel × Sarah M. / Minerva Newnam.
+Transcription only (Kendrick). Originals not isolated.
+
+FOUND: Buck Creek E.D. 80 hh 100/104 (see owsley-1880-buckcreek-daniel-extract-2026-10-30.txt).
+
+NIL Newman/Newnam household:
+  Cow Creek E.D. 79  https://usgennet.org/usa/ky/county/owsley/census/1880/cowcreek.html
+  Buffalo E.D. 79    https://usgennet.org/usa/ky/county/owsley/census/1880/buffalo.html
+  Island Creek E.D. 80 https://usgennet.org/usa/ky/county/owsley/census/1880/islandcreek.html
+  Sturgeon E.D. 80   (pass 66)
+  Booneville E.D. 79 (pass 66)
+  Mortality E.D. 79 / 80
+
+Lee 1880 directory https://usgennet.org/usa/ky/county/lee/census/1880/ HTTP 403.
+Guessed Lee 1880 precinct slugs HTTP 404.
+
+Strings: Newman, Newnam, Minerva, Sarah M., Daniel, Venable.
+
+Claims: C476
+S385

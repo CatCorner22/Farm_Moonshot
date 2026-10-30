@@ -1,0 +1,26 @@
+1900 U.S. census, Owsley County, Kentucky, Buck Creek precinct.
+Transcribed by Debi Houser Kendrick.
+URL: https://usgennet.org/usa/ky/county/owsley/census/1900/buckcreek.html
+Local: sources/census/owsley-1900-buckcreek.html
+Captured 30 Oct 2026. Transcription only. Original schedule not isolated.
+
+hh 290/292
+Chriss C. BOWMAN  m w  2/1867  33  md 0yrs   KYTNKY
+Malissa wife      f w  3/1876  24  md 1-1    KYKYVA
+John HANDY stepson m w  9/1897   2  s        KYKYKY
+Della BOWMAN dau   f w  7/1894   6  s        KYKYKY
+Leonard son        m w  8/1895   4  s        KYKYKY
+
+Same-person vs 1880 Melissa Newnam age 4 KYKYVA (hh 100/104):
+  identifiers: March 1876 vs ~1876; mother b. VA; Buck Creek precinct; Melissa/Malissa.
+  Missing: maiden Newnam; parents Daniel × Sarah M. on this page.
+  Label: POSSIBLE (C488). Do not merge.
+
+Della 1894 / Leonard 1895 are Bowman’s children from a prior union
+(head married 0 years). Malissa’s 1-1 = John Handy (prior marriage).
+
+1931 Owsley: Dellie BOWMAN, 37, b. Apr 1894 Oklahoma, d. 17 Jul 1931,
+parents Cris NEWMAN × Martha LANE (surname conflict vs 1900 Bowman head).
+
+Claims: C487 C488 C502
+S394

@@ -1,0 +1,43 @@
+RTR KDI 1911-1938 targeted extract 30 Oct 2026
+Collection: reclaim-the-records-kentucky-death-index-01911-1989
+Filter: surname NEWMAN/NEWNAM/NEUMAN/EVANS + given Minerva/Sarah/Lillie/David variants
+
+1913	RAW	EVANS           SARAH      J        76       RBTSN                   06/11/1913 034  16979 /1913					
+1913	RAW	EVANS           SARAH               49       BELL                    09/18/1913 048  23564 /1913					
+1913	RAW	NEWMAN          DAVID      P        72       BALLD                   11/02/1913 058  28543 /1913					
+1913	RAW	NEWMAN          SARAH      F        82       PLSKI                   02/07/1913 012  05543 /1913					
+1914	RAW	EVANS           DAVID      L         9       RCKSL                   02/06/1914 024  11847 /1914					
+1914	RAW	EVANS           SARAH      E        53       LEWIS                   07/18/1914 038  18941 /1914					
+1914	RAW	EVANS           SARAH              U/1       LRNCE                   06/17/1914 035  17146 /1914					
+1914	RAW	EVANS           SARAH               74       JEFFN                   08/18/1914 043  21262 /1914					
+1915	RAW	EVANS           LILLIE     R        20       HNDSN                   01/31/1915 003  01195 /1915					
+1915	RAW	NEWMAN          LILLIE              30       OWSLY                   01/12/1915 012  05734 /1915					
+1916	RAW	EVANS           DAVID               82       JEFFN                   08/02/1916 042  20726 /1916					
+1916	RAW	NEWMAN          MINNIE     W        45       GRVES                   01/15/1916 003  01249 /1916					
+1917	RAW	EVANS           SARAH      F        60       BALLD                   06/11/1917 032  15906 /1917					
+1924	RAW	EVANS           MINNIE              27       GRYSN                   10/26/1924 045  22499 /1924					
+1924	RAW	EVANS           SALLIE              85       LOGAN                   02/18/1924 015  07229 /1924					
+1931	RAW	EVANS           DAVID      D        62       FLMNG                   05/07/1931 024  11896 /1931					
+1931	RAW	EVANS           DAVID      S        41       JEFFN                   05/27/1931 025  12344 /1931					
+1931	RAW	EVANS           SARAH      J        83       JEFFN                   04/03/1931 020  09745 /1931					
+1931	RAW	NEWMAN          DAVID      1       U/1       JEFFN                   04/24/1931 021  10015 /1931					
+1932	RAW	EVANS           SALLIE     C        62       JEFFN                   10/27/1932 049  24003 /1932					
+1932	RAW	EVANS           SARAH      F        81       JEFFN                   07/23/1932 033  16467 /1932					
+1933	RAW	EVANS           LILLIE     J        56       HCKMN                   10/28/1933 048  23592 /1933					
+1933	RAW	EVANS           MINNIE     L        61       JEFFN                   10/20/1933 049  24026 /1933					
+1933	RAW	EVANS           SALLIE              78       CRSTN                   02/21/1933 007  03422 /1933					
+1934	RAW	EVANS           DAVID               88       BARRN                   02/14/1934 011  05376 /1934					
+1934	RAW	EVANS           LILLIE     M        25       JEFFN                   08/17/1934 041  20110 /1934					
+1934	RAW	EVANS           SARAH      B        56       GRYSN                   03/22/1934 018  08946 /1934					
+1934	RAW	NEWMAN          DAVID      L       U/1       HNDSN                   03/01/1934 013  06394 /1934					
+1934	RAW	NEWMAN          LILLIE     M        17       CRTDN                   08/30/1934 060  29874 /1934					
+1935	EVANS           DAVID      H       	74	CMPBL	NEWPORT	03/13/1935	012	05965
+1936	RAW	EVANS           DAVID      M        73       ELIOT                   04/10/1936 032  15743 /1936					
+1936	EVANS           SALLY      S       	48	MASON	MAYSVILLE	07/27/1936	041	20075
+1936	RAW	EVANS           SARAH      J        78       BULLT                   08/04/1936 042  20978 /1936					
+1936	RAW	EVANS           SARAH      M        86       LEE                     09/15/1936 051  25155 /1936					
+1936	EVANS           SARAH      E       	78	FLMNG	FLEMINGSBURG	01/10/1936	002	00932
+1938	RAW	EVANS           MINNIE     L        65       HCKMN                   04/16/1938 019  09160 /1938					
+1938	RAW	EVANS           SARAH      J        86       BUTLR                   10/13/1938 001  00288 /1939					
+
+MISSING/FAIL: [(1911, 'HTTPError', 'HTTP Error 500: Internal Server Error'), (1912, 'HTTPError', 'HTTP Error 500: Internal Server Error'), (1918, 'HTTPError', 'HTTP Error 500: Internal Server Error'), (1919, 'HTTPError', 'HTTP Error 500: Internal Server Error'), (1920, 'HTTPError', 'HTTP Error 500: Internal Server Error'), (1921, 'HTTPError', 'HTTP Error 500: Internal Server Error'), (1922, 'HTTPError', 'HTTP Error 500: Internal Server Error'), (1923, 'HTTPError', 'HTTP Error 500: Internal Server Error'), (1925, 'HTTPError', 'HTTP Error 500: Internal Server Error'), (1926, 'HTTPError', 'HTTP Error 500: Internal Server Error'), (1927, 'HTTPError', 'HTTP Error 500: Internal Server Error'), (1928, 'HTTPError', 'HTTP Error 500: Internal Server Error'), (1929, 'HTTPError', 'HTTP Error 500: Internal Server Error'), (1930, 'HTTPError', 'HTTP Error 500: Internal Server Error')]

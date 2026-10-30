@@ -1,0 +1,28 @@
+Pass 68 census negatives for John × Cora Newnam and 1880 Melissa.
+
+1) Owsley 1920 population transcripts
+   USGenNet census landing (200): years listed 1860, 1870, 1880, 1890,
+   1900, 1910, 1940. No 1920 directory.
+   https://usgennet.org/usa/ky/county/owsley/census/
+   Guessed /census/1920/ and precinct slugs: HTTP 404.
+   Claim: Owsley 1920 Kendrick transcript is unpublished (C498).
+
+2) 1900 Owsley Island Creek + Cow Creek (200)
+   https://usgennet.org/usa/ky/county/owsley/census/1900/island.html
+   https://usgennet.org/usa/ky/county/owsley/census/1900/cowcreek.html
+   Grep NEWMAN/NEWNAM: nil. John L. (~21) is not in those precincts (C500).
+   He is also not in Minerva’s 1900 Buck Creek house (already C431).
+
+3) Lee 1920 precincts opened this pass (Kendrick, transcription only):
+   willow, sturgeon, proctor1, proctor2, ivy, bt, beat1, beat2, sth, fin, nv1
+   + prior Heidelberg.
+   No household John ~40 + Cora ~27.
+   Other Newnam/Newman heads (Shelby, Harry, Kate, Stanley, Sim, etc.)
+   are separate lines. Lucy Kelley 17 nee Newnam (willow) unused.
+   Claim: John × Cora not found as a Lee 1920 head in the pages read (C499).
+
+4) Owsley 1941–1946 DC year-files (200): nil adult John Newnam.
+   1943 Celia Newnam/Newman is mother of Everett McGuire — not this line.
+
+Claims: C498 C499 C500
+S397

@@ -251,6 +251,21 @@
 | S381 | Genealogy Trails Lee WWI draft-card table captured 30 Oct 2026. Local `sources/military/gt-lee-wwi-cards-pass66.html` + extract `gt-lee-wwi-cards-pass66-nil-extract-2026-10-30.txt`. **Nil** Newnam/Newman/McCoy. Landing `ww1draft.html` later **404**. | D (negative) | GT compiler |
 | S382 | GenoPro/Marshall compiled pages (Daniel Boone Newman; Sarah Minerva Venable b. 16 Jan 1850; John L × Cora; Florence). Local `sources/authored/genopro-*-lead.html` + extract `genopro-daniel-sarah-minerva-lead-extract-2026-10-30.txt`. **Authored, unsourced.** | A | Compiler |
 | S383 | Lee Marriage Books **3–15** grepped 30 Oct 2026 for John × Lillie ~1901. Extract `sources/marriages/lee-books-john-lillie-nil-extract-2026-10-30.txt`. **Nil** that couple row. | D (negative those books) | Kendrick |
+| S384 | Debi Houser Kendrick, 1880 Owsley Buck Creek E.D. 80. https://usgennet.org/usa/ky/county/owsley/census/1880/buckcreek.html captured 30 Oct 2026. Local `sources/census/owsley-1880-buckcreek.html` + extract `owsley-1880-buckcreek-daniel-extract-2026-10-30.txt`. Hh **100/104**: Daniel NEWNAM 29 + Sarah M. 28 VATNTN + Melissa 4 + John L. 1. | D | Kendrick from NARA T9 |
+| S385 | 1880 Owsley Cow Creek / Buffalo / Island Creek + mortality, captured 30 Oct 2026. Extract `owsley-1880-other-precincts-nil-extract-2026-10-30.txt`. **Nil** Newman household those precincts. | D (negative those precincts) | Kendrick |
+| S386 | Owsley 1909 VS marriages + 1913 DC. https://usgennet.org/usa/ky/county/owsley/marriages/1909a.html · https://usgennet.org/usa/ky/county/owsley/deaths/1913dc.html. Extract `owsley-1909-grant-dova-extract-2026-10-30.txt`. Grant NEWNAM 19 × Dova COLE 21, 10 Feb 1909; Clara stillborn 28 Oct 1913. | D | Kendrick / KY VS |
+| S387 | Owsley 1915 DC + RTR KDI 1915. https://usgennet.org/usa/ky/county/owsley/deaths/1915dc.html. Extract `owsley-1915-lillie-newman-extract-2026-10-30.txt`. Lillie Newman d. 12 Jan 1915; KDI vol **012** cert **05734**. | D | Kendrick / RTR |
+| S388 | Owsley 1916 DC. https://usgennet.org/usa/ky/county/owsley/deaths/1916dc.html. Extract `owsley-1916-john-children-extract-2026-10-30.txt`. Gracy (John × Lillie Isaacs); Willie (John × Cora Bradburg); Henry H. 72. | D | Kendrick |
+| S389 | Owsley 1903–4 VS marriages. https://usgennet.org/usa/ky/county/owsley/marriages/1903-4.html. Extract `owsley-1904-manerva-evans-extract-2026-10-30.txt`. William Evans × Manerva Newman 2 Jan 1904. 1910 Buck Creek hh 116 Sarah M. Evans 60 VTT. | D | Kendrick |
+| S390 | Lee deaths 1936 + RTR KDI 1936. https://usgennet.org/usa/ky/county/lee/deaths/1936.html. Extract `lee-deaths-1936-sarah-m-evans-extract-2026-10-30.txt`. Sarah M. Evans d. 15 Sep 1936 Lower Buffalo; KDI vol **051** cert **25155**. | D | Kendrick / RTR |
+| S391 | RTR KDI 1911–38 (partial years) + 1939–89 David/Minerva filter. IA `reclaim-the-records-kentucky-death-index-01911-1989`. Extract `rtr-kdi-david-g-madison-1958-extract-2026-10-30.txt` + `rtr-kdi-1911-1938-minerva-sarah-extract-2026-10-30.txt`. DAVID G 70 Madison 19 Jun 1958; nil Minerva Newman 1939–89. | D (index) | KY DHR / RTR |
+| S392 | 1910 Owsley remaining precincts. Extract `owsley-1910-other-precincts-extract-2026-10-30.txt`. Nil matching widow Newnam head. Wild Dog Henry H. + Manerva = C445. | D (negative those heads) | Kendrick |
+| S393 | Owsley 1924 DC. https://usgennet.org/usa/ky/county/owsley/deaths/1924dc.html. Extract `owsley-1924-florence-newman-reject-2026-10-30.txt`. Florence Newman d. 2 Oct 1924, parents Fry × Bingham — reject vs 1910 Florence. | D | Kendrick |
+| S394 | 1900 Owsley Buck Creek hh 290/292. https://usgennet.org/usa/ky/county/owsley/census/1900/buckcreek.html. Extract `owsley-1900-buckcreek-malissa-bowman-extract-2026-10-30.txt`. Chriss C. Bowman + Malissa 3/1876 KYKYVA + John Handy stepson. | D | Kendrick |
+| S395 | 1940 Owsley ED 95-3 hh 54. https://usgennet.org/usa/ky/county/owsley/census/1940/95-3.html. Extract `owsley-1940-95-3-john-cora-extract-2026-10-30.txt`. John Newnam 63 + Cora 47 + Robert 21. | D | Kendrick |
+| S396 | RTR KDI 1939–89 re-filter + 2025 funeral notice (deceased subject only). Extract `rtr-kdi-pass68-john-cora-david-extract-2026-10-30.txt`. John L 88 Woodford 1966; Cora P 1981; Cora B 1988; David Grant Jr. lead. | D / A (notice) | KY DHR / RTR / funeral home |
+| S397 | Owsley census landing + 1900 Island/Cow Creek + Lee 1920 precincts. Extract `pass68-1920-nil-john-cora-extract-2026-10-30.txt`. 1920 Owsley unpublished; Island/Cow Creek nil Newnam; Lee 1920 nil John+Cora head. | D (negative those pages) | Kendrick |
+| S398 | Owsley DC 1941–1946. https://usgennet.org/usa/ky/county/owsley/deaths/1941dc.html (through 1946dc). Nil adult John Newnam. 1943 Celia = McGuire mother. | D (negative John) | Kendrick |
 
 
 ## Claims
@@ -673,6 +688,57 @@
 | C454 | 1900 Minerva’s recorded sex “m” is a clerk/transcript error for a widow head with daughters | PROBABLE (wd + 9-6 + daughters) | S373 | — |
 | C455 | GenoPro’s assignment of **Florence** as daughter of **Cora B. Brandenburg** is **DISPROVED** | DISPROVED (Florence age 8 in 1910; Cora married John 20 Nov 1915) | S382 S375 S374 | authored reject |
 | C456 | **Daniel × Minerva/Sarah** are now **PROBABLE** Everett Newnam’s parents | PROBABLE chain: 1900 Evert in Minerva’s house + 1915 John (Dan × Mininerva) + 1961 Callie (Daniel × Sarah) + 1939 siblings John and Mrs Robert Spicer. **Not PROVEN** until Everett’s own certificate names parents | S373 S374 S370 S278 C434 C437 C410 | #24 / B072 |
+| C457 | 1880 Buck Creek hh **100/104**: **Daniel NEWNAM** 29 md farmer KYKYKY; **Sarah M.** wife 28 VATNTN; **Melissa** 4; **John L.** 1 | PROVEN as the Kendrick transcript | S384 L456 | B076 |
+| C458 | 1880 **Sarah M.** is **PROBABLE** the 1900 widow Minerva / 1915 Mininerva / 1936 Sarah M. Evans / 1961 Sarah Veneable | PROBABLE (same precinct, VA nativity, John L. → 1910/1915 John, Veneble neighbors). Compound given not on one original image | S384 S373 S390 C485 | #24 |
+| C459 | 1880 **John L.** age 1 is **PROBABLE** 1910 John 31 and 1915 John 34 (Dan × Mininerva) | PROBABLE (name John, Owsley, age ~1879, parents Daniel × Sarah M.) | S384 S375 S374 | B056 |
+| C460 | **Lillie Newman** d. **12 Jan 1915**, 30y 7m 24d, b. **18 May 1884** KY; parents **J. B. Isaacs** × **Sally Flanery**; burial Rufus Jackson Graveyard. KDI vol **012** cert **05734** | PROVEN as extract + statewide index | S387 L460 | B074 |
+| C461 | 1910 Lillie, wife of John, is **PROBABLE** the 1915 decedent | PROBABLE (name, age 24→30, John a widower 20 Nov 1915, 1916 Gracy’s mother Lillie Isaacs) | S375 S387 S388 | B074 / B056 |
+| C462 | **Gracy Newnam** d. **21 Jun 1916**, 4y 16d, b. **5 Jun 1912**; parents **John Newnam** × **Lillie Isaacs** | PROVEN as extract | S388 L461 | B056 |
+| C463 | Infant **Willie Newnam** d. **25 Aug 1916**; parents **John Newnam** × **Cora Bradburg** | PROVEN as extract. Cora = Book 11 Brandenburg | S388 S374 | B056 |
+| C464 | **Grant NEWNAM**, 19, of Owsley, 1st, farmer, father b. Lee, mother b. VA, × **Dova COLE**, 21, **10 Feb 1909** | PROVEN as VS extract | S386 L458 | B075 |
+| C465 | 1909 Grant × Dova = 1910 Buck Creek Grant 21 + Dona m1 1y | PROBABLE (age, 1y, Dona/Dova spelling, Owsley) | S386 S375 | B075 |
+| C466 | **Clara Newnam** stillborn **28 Oct 1913**; parents Grant × ?Dena B. Cole; burial T. B. Venable’s | PROVEN as extract | S386 L459 | B075 |
+| C467 | 1910 Grant 21 / 1909 Grant is **POSSIBLE** 1900 David F. Feb 1889 | POSSIBLE only. Same birth year + mother VA + 1900 9-6 leaves no extra 11-year-old. Names differ. **Not merged** | S386 S373 C440 | B081 |
+| C468 | 2 Jan 1904 William Evans × **Manerva Newman**, 51, 3rd = 1910 Sarah M. Evans 60 VTT m2 7y | PROBABLE (age, 7y, Sarah M./Manerva, Buck Creek). #25 on VS nativity | S389 | B077 |
+| C469 | 1904 VS “born Owsley / parents Owsley” **conflicts** with 1880/1900/1910/1936 Virginia nativity | Open **#25**. Prefer VA | S389 S384 S390 | #25 |
+| C470 | 1934 Owsley **EVANS, Manerva**, 67y 8m 4d, Levi, parents Steve McPherson × Rebecca Pendleton | REJECT vs Sarah M. (age ~1867; different parents) | S390 L466 | — |
+| C471 | 1924 **Florence Newman**, 40, parents Hilery Fry × Damey Bingham | REJECT vs 1910 Florence age 8 d/o John × Lillie | S393 L462 | — |
+| C472 | 1910 Wild Dog Henry H. Newman 68 + Manerva 56 = 1900 Dist. 2 couple | REJECT vs Buck Creek widow (already **C445**) | S392 | — |
+| C473 | KDI **NEWMAN, DAVID G**, 70, Madison, **19 Jun 1958**, vol **028** cert **13719** is **POSSIBLE** David F. / Frank of Berea | POSSIBLE only (age ~1888 + Madison). Given **G ≠ F**. **Not merged** | S391 L470 | B055 / B080 |
+| C474 | KDI **NEWMAN, DAVID G**, 60, Madison, **25 Mar 1984** | REJECT vs 1889 David F. (born ~1924) | S391 | — |
+| C475 | 1880 Buck Creek Lucinda Newnam 38 wd and Henry Newnam 34 × Mary are **separate** lines from Daniel | PROVEN as other households on the same page | S384 | — |
+| C476 | 1880 Cow Creek / Buffalo / Island Creek + mortality have **no** Newman household | PROVEN negative those precincts | S385 L457 | B076 |
+| C477 | Owsley VS **1874–78** and Lee Book **1** have **no** Daniel × Sarah/Minerva/Venable license | PROVEN negative those pages | S389 L463 | B079 |
+| C478 | KDI **1939–1989** has **no** MINERVA/MINERWA/MANERVA Newman/Newnam decedent | PROVEN negative those years | S391 L469 | — |
+| C479 | 1910 remaining Owsley precincts have **no** widow Minerva/Sarah M. Newnam head matching Jan 1850 | PROVEN negative those heads | S392 L464 | — |
+| C480 | **Henry H. Newnam** d. **6 Aug 1916**, 72, b. 1844 — Dist. 2 / Wild Dog man | PROVEN as extract; already rejected vs Daniel’s line | S388 C445 | — |
+| C481 | 1913 Clara buried at **T. B. Venable’s** is FAN of Sarah’s natal cluster | POSSIBLE only (cemetery name) | S386 | — |
+| C482 | 1880 **Melissa**, 4, d/o Daniel × Sarah M. — 1900 Malissa Bowman is **POSSIBLE** only | Open **B078**. Not merged (**C488**) | S384 S394 | B078 |
+| C483 | 1870 Beattyville Daniel 22 remains **POSSIBLE** only vs 1880 Daniel 29 | Unchanged (age slack 22→29) | S376 C446 | — |
+| C484 | **Sarah M. Evans** d. **15 Sep 1936** Lower Buffalo, 86y 8m, b. **16 Jan 1850** Lee Co. VA; spouse William Evans; father **Lee Roy Veneble**; mother **Ratchel McQueen**. KDI vol **051** cert **25155** | PROVEN as year-file extract + statewide index | S390 L467 | B077 |
+| C485 | 1936 Sarah M. Evans is **PROBABLE** 1880 Sarah M. / 1900 Minerva / 1904 Manerva / 1910 Sarah M. Evans / 1915 Mininerva / 1961 Sarah Veneable | PROBABLE (≥2 IDs: Sarah M., 16 Jan 1850, VA, Veneble, William Evans, Lower Buffalo). DC does not name Daniel. **Not PROVEN** | S390 S384 S373 S389 C458 | #24 / #25 |
+| C486 | 1880 Leroy Venable 62 × Rachel A. 61 (hh **103/107**) are **PROBABLE** Lee Roy Veneble × Ratchel McQueen of the 1936 extract | PROBABLE (names, ages, next-door to Sarah M.) | S384 S390 | B072 |
+| C487 | 1900 Buck Creek hh **290/292**: Chriss C. Bowman + **Malissa** wife **Mar 1876** 24 md 1-1 **KYKYVA** + John Handy stepson | PROVEN as transcript line | S394 L477 | B078 |
+| C488 | 1900 Malissa Bowman is **POSSIBLE** 1880 Melissa Newnam (age 4) | POSSIBLE (age + mother VA + precinct). Maiden unread. **Not merged** | S394 S384 | B078 |
+| C489 | 1940 Owsley ED **95-3** hh **54**: **John NEWNAM** 63 + **Cora** 47 (m>1, m. at 19, 3 children) + Robert 21 | PROVEN as transcript | S395 L478 | B056 |
+| C490 | 1940 John + Cora = 1910/1915 John × Cora Brandenburg | PROBABLE (names, Buck Creek, ages, Cora m>1) | S395 S374 S375 | B056 |
+| C491 | 1940 John 63 = 1880 **John L.** age 1 | PROBABLE (place + ages + C490 parents) | S395 S384 | B056 |
+| C492 | KDI **NEWMAN JOHN L** 88 Woodford **17 Jul 1966** vol **036** cert **17762** is **POSSIBLE** 1880 John L. | POSSIBLE (age + middle L). Geography Woodford. **Not merged** | S396 | B082 |
+| C493 | KDI **NEWNAM JOHNNIE** 76 Lee/Estill **19 Apr 1972** is **not** 1880 John L. | DISPROVED as that identity (b. ~1896) | S396 | — |
+| C494 | KDI **NEWNAM CORA P** 87 Fayette/Lee **25 Feb 1981** = Cora Plummer, widow of Rev. Luther | PROVEN (obit 27 Feb 1981) | S396 | — |
+| C495 | KDI **NEWMAN CORA B** 95 Fayette **19 Nov 1988** is **POSSIBLE** 1940 Cora (~1893) | POSSIBLE (age). Certificate unread | S396 | B083 |
+| C496 | 2025 funeral notice names a father **David Grant Newman Jr.** in the Berea cluster | SPECULATIVE/POSSIBLE authored lead only. Living survivors withheld. Does **not** prove 1958 = 1889 David F. | S396 | B080 / B081 |
+| C497 | 1984 **DAVID G** 60 Madison remains **rejected** vs 1889 man; **POSSIBLE** as Jr. | POSSIBLE as Jr. only | S396 C474 | B084 |
+| C498 | Owsley 1920 Kendrick population transcript is **unpublished** on USGenNet | PROVEN as catalog (no 1920 year; slugs 404) | S397 | FS / IA |
+| C499 | Lee 1920 precincts read this pass have **no** John ~40 + Cora head | PROVEN negative those pages | S397 | Owsley 1920 |
+| C500 | 1900 Owsley Island Creek + Cow Creek **nil** Newnam | PROVEN negative those precincts | S397 | — |
+| C501 | Owsley DC 1911–1940 **nil** Melissa/Malissa Bowman decedent | PROVEN negative those pages | S396 | — |
+| C502 | 1931 Dellie Bowman extract names father **Cris NEWMAN** × Martha LANE | PROVEN as extract; conflicts with 1900 head surname Bowman | S394 | Do not force-merge |
+| C503 | 1940 hh **55** Clarence Newnan + mother Susie is **not** John’s house | PROVEN separate household | S395 | — |
+| C504 | 1940 Robert, 21, is a deceased-era son of John × Cora | POSSIBLE (relationship as written). Descendants withheld | S395 | — |
+| C505 | Owsley published marriage VS skips **1879–1902** (and 1905–07) | PROVEN as index | S397 L489 | B073 / B079 / B078 |
+| C506 | KDI **COLE GRANT** infant Owsley **2 Feb 1913** is Cole-surname FAN only | POSSIBLE FAN; not Grant 21 | S396 | — |
+| C507 | 1940 Owsley EDs **95-1..95-7** have **no** Grant/David Newnam head matching the 1889 man | PROVEN negative those pages | S395 | B055 / B081 |
 | C224 | **1 Jun 1880** population schedule dw **102/102** (ED **59**, **S235**) is **Flanary** + **Brashears**, **not** a **Mays** head; **Mary MAYS** 83 d. **Jan 1880** in mortality hh **102** (**S120**) — **same dwelling number**, decedent absent from June snapshot | PROVEN (original pop. line + mortality transcript) | S235 S120 L248 | Does not identify Pollie Mays stone (**C147**) |
 
 ## Same-person merges (Hard Rule 3)
@@ -800,7 +866,18 @@
 | 1900 David F. Feb 1889 + Frank of Berea 1939 | Middle initial F.; brother slot | No record uses both names | **Not merged (C435 POSSIBLE)** |
 | 1915 John (Dan × Mininerva, b. Owsley ~1881) + 1910 John 31 + Lillie + 1939 John of Owsley | Parents + Owsley + age + widower after Lillie | 1910 age 31 vs 1915 age 34 | **PROBABLE (C437)** |
 | 1910 Buck Creek Grant 21 + Dona + 1876 Grant of Lee (C378) | Given name Grant + Buck Creek / Lee | Age 21 vs ~34; 1876 Grant already at Heidelberg 1920 | **Not merged (C440)** |
-| 1900 Minerva / 1915 Mininerva Venable / 1961 Sarah Veneable | Husband Daniel/Dan; children Callie/John/Evert; Jan 1850 | Three given-name forms; no dual-name record | **PROBABLE one woman (C442)**; **#24** |
+| 1900 Minerva / 1915 Mininerva Venable / 1961 Sarah Veneable / 1880 Sarah M. / 1936 Sarah M. Evans | Sarah M. + 16 Jan 1850 + VA + Veneble + William Evans + Lower Buffalo | Compound not on one original image; 1904 VS says Owsley (**#25**) | **PROBABLE one woman (C485)**; **#24** |
+| 1909 Grant × Dova + 1910 Grant 21 + Dona | Age, 1y, Dona/Dova, Owsley | — | **PROBABLE (C465)** |
+| 1909 Grant / 1910 Grant 21 + 1900 David F. Feb 1889 | Birth year ~1889; mother VA; 1900 9-6 | Given names differ | **Not merged (C467 POSSIBLE)** |
+| 1915 Lillie Newman Isaacs + 1910 Lillie wife of John | Name, age, John’s Nov 1915 widowhood, 1916 Gracy | — | **PROBABLE (C461)** |
+| KDI DAVID G 70 Madison 1958 + 1900 David F. / Frank of Berea | Age ~1888 + Madison | G ≠ F; no contractor line. 2025 Jr. notice is not a 1958 certificate | **Not merged (C473 POSSIBLE / C496)** |
+| 1900 Malissa Bowman 3/1876 KYKYVA + 1880 Melissa Newnam 4 | Age + mother VA + Buck Creek | Maiden unread; Della’s 1931 father line says Newman not Bowman | **Not merged (C488 POSSIBLE)** |
+| 1940 John Newnam 63 + Cora + 1910/1915 John × Cora + 1880 John L. | Names + Buck Creek + ages + Cora m>1 | Census ages slack ~1877–1881 | **PROBABLE (C490/C491)** |
+| KDI JOHN L 88 Woodford 1966 + 1880 John L. | Middle L + age ~1878 | Death county Woodford ≠ Owsley | **Not merged (C492 POSSIBLE)** |
+| KDI JOHNNIE NEWNAM 76 Lee/Estill 1972 + 1880 John L. | Given-name fragment | Age ⇒ b. ~1896 | **Rejected (C493)** |
+| KDI CORA B 95 Fayette 1988 + 1940 Cora 47 | Age ~1893 | No parent/spouse on index | **Not merged (C495 POSSIBLE)** |
+| 1940 Clarence Newnan + Susie + 1940 John + Cora | Surname + road | Different hh; Susie ≠ Cora | **Rejected (C503)** |
+| 1934 Manerva Evans 67 McPherson + 1936 Sarah M. Evans 86 Veneble | Given Manerva/Sarah + Evans | Age and parents differ | **Not merged (C470)** |
 | 1947 Sarah Newman (John Damrel × Elizabeth Angel) + Sarah Veneable | Given name Sarah + Newman | Maiden Damrel; b. 1868 ≠ 1850 | **Rejected (C444)** |
 | 1900 Dist. 2 Henry H. × Minverva + 1900 Buck Creek widow Minerva | Given name Minerva + Newnam + Owsley | Husband living vs widow; different children | **Rejected (C445)** |
 | 1870 Beattyville Daniel 22 in Brandenburg hh + later Daniel | Given name Daniel + Newman + age ~1848 | One identifier | **Not merged (C446 POSSIBLE)** |

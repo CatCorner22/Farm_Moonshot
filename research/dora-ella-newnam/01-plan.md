@@ -159,6 +159,30 @@ Exact strings logged **L427–L440**.
 
 Exact strings logged **L441–L454**.
 
+## Name-variant storm (pass 67, `search_variants.py`)
+
+**Minerva / Sarah M. / Manerva Newnam / Evans** — Minerva, Manerva, Mininerva, Sarah, Sarah M. × Newnam/newman + Evans + Venable/Veneable/Veneble (V514). Also **16 Jan 1850**, **Lee Co. VA**, **Lower Buffalo**, **William Evans**. OCR Dona→Dova/Dena.
+
+**Lillie Newman / Isaacs** — Lillie, Lilly, Lillian × Newman/Newnam + Isaacs/Isacs + Flanery. Also **18 May 1884**, **12 Jan 1915**, Owsley cert **012/05734**.
+
+**Grant × Dova Cole** — Grant, Dona, Dova, Dena, Donna × Newnam + Cole. Also **10 Feb 1909**, mother b. **VA**, father b. **Lee**.
+
+**David F. / David G. / Frank** — David, Dave, pavid × Newman + Madison. KDI **DAVID G** 70 Madison **19 Jun 1958**. Not merged with Frank or Grant.
+
+Exact strings logged **L455–L475**.
+
+## Name-variant storm (pass 68, `search_variants.py`)
+
+**Melissa / Malissa Newnam** — Melissa, Malissa, Melissie, Lissa × Newnam/newman/newnarn + Bowman + Handy. Also **Mar 1876**, **Buck Creek**, mother b. **VA**. Not Elias’s Melissa Estes Miller (1863–1957).
+
+**John L. / John Newnam of Owsley** — John, Jno, Johnnie, John L × Newnam/newman + Cora Brandenburg. Also **1940 ED 95-3**, **Crane Creek**, age **63**. KDI **JOHN L** Woodford **17 Jul 1966**; reject **JOHNNIE** 76 Lee/Estill 1972.
+
+**David G. / David Grant / Frank** — David, Dave, pavid, Grant × Newman + Madison/Berea. KDI **DAVID G** 70 Madison **19 Jun 1958**; **DAVID G** 60 Madison **25 Mar 1984** (Jr. candidate). 2025 funeral notice (deceased subject) names father **David Grant Newman Jr.** — authored lead only; living survivors withheld.
+
+**Cora B. / Cora P.** — Cora × Newnam/Newman. **CORA P** 1981 = Luther’s widow Plummer. **CORA B** 95 Fayette **19 Nov 1988** POSSIBLE 1940 Cora (~1893).
+
+Exact strings logged **L476–L490**.
+
 ## Agent SDK / GitHub channel
 
 Inspected 30 Oct 2026 (**L351**): this repository has **no** `package.json`, **no** `@grok/agent-sdk`, **no** `bot/` directory. GitHub channel `bot/channels/github.ts` is **n/a** and was **not** authored. Project subagent: `.cursor/agents/dora-genealogy-detective.md`.
