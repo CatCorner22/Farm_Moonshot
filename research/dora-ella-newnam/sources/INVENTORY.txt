@@ -587,3 +587,51 @@ research/dora-ella-newnam/sources/census/1880-lee-ky-ed59-sheet43-p768-caroline-
   format: JPEG photo, 4302x2039px
   check: Harrison Newman 33 + Elias 8 — Flannigan age 3 withdrawn
 
+/workspace/research/dora-ella-newnam/sources/census/1850-owsley-pdfp392-st299B-william-newman.jpg
+  sha256: c21febf5e2690c40ca59bd9e4d4705faf7f354f2afa2e3c58056a5a0536c9a3a
+  format: JPEG photo, 4302x1457px
+  check: William Newman 26 — not Harrison 33
+/workspace/research/dora-ella-newnam/sources/census/1850-owsley-pdfp393-st300A-hdr.jpg
+  sha256: 725df8f32f43c0f73fb44f0cae2cf1966f465f07ce5e004cab772a41b9a42881
+  format: JPEG photo, 5595x1145px
+  check: stamp 300, 5 Sept 1850
+/workspace/research/dora-ella-newnam/sources/census/1850-owsley-pdfp393-st300A-john-newman.jpg
+  sha256: d53b55d5b870b4e2b02f58fcdfece78a8d2e81b8e79591236173abe498811c04
+  format: JPEG photo, 4477x1478px
+  check: John Newman 60 b. Tennessee — not 1880 John 69
+/workspace/research/dora-ella-newnam/sources/census/1850-owsley-pdfp393-st300A-andrew-mays.jpg
+  sha256: b4208f007ba90da9c451b923ca7c98f0971d57179c4d0ec7451c864f1629c42e
+  format: JPEG photo, 4477x1920px
+  check: Andrew Mays + Giles 1/12 — Flannigan 5/12 withdrawn
+/workspace/research/dora-ella-newnam/sources/census/1860-owsley-pdfp353-p54-hdr.jpg
+  sha256: b68530aa1d309d20edf2399fe74b9f313cff709c599d1119493cddfffc843b6b
+  format: JPEG photo, 3107x700px
+  check: Page No. 54, 9 July 1860, PO Booneville
+/workspace/research/dora-ella-newnam/sources/census/1860-owsley-pdfp353-hh364-hh-newman.jpg
+  sha256: dcd86b3fa0928d899894519e7bee53cb8c8d79949c1ae4de0e6119c0cd5bd7d4
+  format: JPEG photo, 2857x1450px
+  check: H.H. Newman 44 + Elias 18
+/workspace/research/dora-ella-newnam/sources/census/1860-owsley-pdfp354-hdr.jpg
+  sha256: 681a5487540d6c8d1e71e45cac6603b218aab8b00c6ed6956a5a670eed082587
+  format: JPEG photo, 3080x450px
+  check: PDF 354 header (Andrew Mays page)
+/workspace/research/dora-ella-newnam/sources/census/1860-owsley-pdfp354-andrew-giles.jpg
+  sha256: 629ee447ba6ffa36ff08c558a297e3aea462c1e3bdd9a782f39f9c5976f3c761
+  format: JPEG photo, 3080x1200px
+  check: Andrew Mays 31 + Giles 11
+/workspace/research/dora-ella-newnam/sources/census/1860-owsley-pdfp358-p59-hdr.jpg
+  sha256: f07fadcd22a551f81192a3b56617678c9b329c9acbca66c89ed5296b6478a466
+  format: JPEG photo, 3066x450px
+  check: Page No. 59, 10 July 1860, PO Proctor
+/workspace/research/dora-ella-newnam/sources/census/1860-owsley-pdfp358-john68-lear.jpg
+  sha256: 01f6aece4dfc9ae734a999dea7f252560591d76ff73fc73207fa75c5f71fd13b
+  format: JPEG photo, 2816x772px
+  check: John Newnam 68 b. Del + Lear 63
+/workspace/research/dora-ella-newnam/sources/census/1860-owsley-pdfp359-p60-hdr.jpg
+  sha256: 0d9da1272f341372944e24ba29565deb394730f700e37d5c6a07ae334d0bf6e7
+  format: JPEG photo, 3087x450px
+  check: Page No. 60, 11 July 1860
+/workspace/research/dora-ella-newnam/sources/census/1860-owsley-pdfp359-harrison15.jpg
+  sha256: 3723dfc25ec963965c43616ff567e9bc13e5e33763a06961880369ea66ce9f63
+  format: JPEG photo, 2967x550px
+  check: Harrison Newman 15 — not Harrison 33 / H.H. 44

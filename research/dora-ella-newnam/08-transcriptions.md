@@ -1383,3 +1383,155 @@ Pass 2: given name **Harrison** is H-a-rr-i-s-o-n, **not** Harris. Surname **New
 - Elias 8 POSSIBLE vs P004, unmerged; Flannigan age 3 withdrawn → C487
 - Tincher Elias 17 different man → C488
 - John Newman 23 separate house → C489
+
+## DOC057 — 1850 U.S. census, Owsley Co. KY stamped 299B, William Newman 26 (original)
+
+- Household crop: `sources/census/1850-owsley-pdfp392-st299B-william-newman.jpg` SHA-256 `c21febf5e2690c40ca59bd9e4d4705faf7f354f2afa2e3c58056a5a0536c9a3a` (4302×1457)
+- Header (same verso as DOC056): `sources/census/1850-owsley-pdfp392-st299B-hdr.jpg` SHA-256 `0ab32397b0d463db3e647c0f2d9d41d53b9869531e406c2b00e3ffaae03c1c1c`
+- Provenance: IA `populationschedu0216unix` PDF page **392** (verso after PDF **391** stamp **299**). **5th** day of **September** 1850, **Luther Bravener**. **Image seen.** Two-pass.
+
+### Diplomatic
+
+> SCHEDULE I.—Free Inhabitants in District of Kentucky, in the County of **Owsley**, State of Kentucky, enumerated by me, on the **5th** day of **September** 1850. **Luther Bravener** Ass’t Marshal. {verso of stamp **299**; same header as DOC056}
+
+> {nativity column continues **Ditto** Kentucky from the first written **Kentucky** on this verso}
+
+> **311 / 311** · **William Newman** · **26** · M · Farmer · **$325** · {nativity ditto Kentucky}
+> — **Jane** · **22** · F
+> — **Francis** · **4** · F
+> — **Leanner** · **2** · F
+> **312 / 312** · **Rebecca Tincher** · **51** · F · Widow · $200  {already DOC056}
+
+Pass 2: given name **William** is W-i-ll-ia-m. Surname **Newman** (N-e-w-m-a-n). Age **26** (closed 6, not 8). Realty **325**. **Francis** is written with a terminal **s** (not Frances). **Leanner** is L-e-a-nn-er, female. **Not** Harrison 33 two dwellings later.
+
+### Facts extracted → claim IDs
+- William Newman 26 household → C491
+
+## DOC058 — 1850 U.S. census, Owsley Co. KY stamped 300A, John Newman 60 b. Tennessee (original)
+
+- Header: `sources/census/1850-owsley-pdfp393-st300A-hdr.jpg` SHA-256 `725df8f32f43c0f73fb44f0cae2cf1966f465f07ce5e004cab772a41b9a42881` (5595×1145)
+- Household crop: `sources/census/1850-owsley-pdfp393-st300A-john-newman.jpg` SHA-256 `d53b55d5b870b4e2b02f58fcdfece78a8d2e81b8e79591236173abe498811c04` (4477×1478)
+- Provenance: IA `populationschedu0216unix` PDF page **393**. Printed stamp **300**. **5th** day of **Sept** 1850, **Luther Bravener**. **Image seen.** Two-pass.
+
+### Diplomatic
+
+> SCHEDULE I.—Free Inhabitants in District of Kentucky, in the County of **Owsley**, State of Kentucky, enumerated by me, on the **5th** day of **Sept** 1850. **Luther Bravener** Ass’t Marshal. {printed stamp **300**}
+
+> **320 / 320** · **John Gabb** · **40** · M · Farmer · $500 · {nativity ditto Kentucky}  {preceding house, crop top}
+> — **Polley Gabb** · **40** · F
+> — {Gabb children through Elizabeth 1}
+> **321 / 321** · **John Newman** · **60** · M · Farmer · **$1000** · **Tennessee**
+> — **Lear** · **55** · F · {nativity} **Kentucky**
+> — **Morris** · **23** · M · Labourer · {nativity ditto Kentucky}
+
+Pass 2: given name **John** is clear. Surname **Newman**. Age **60**. Realty **$1000**. Nativity on the head is written **Tennessee** (T-e-nn-e-ssee), **not** ditto Kentucky. **Lear** is L-e-a-r, female, 55; her nativity is written **Kentucky** (not ditto). **Morris** 23, occupation **Labourer** (not Farmer). Same-person test vs 1880 John 69 (**C060**: KY-born, father N.C., expected age ~39 in 1850) **fails**.
+
+### Facts extracted → claim IDs
+- John Newman 60 Tennessee → C492
+
+## DOC059 — 1850 U.S. census, Owsley Co. KY stamped 300A, Andrew Mays + Giles 1/12 (original)
+
+- Household crop: `sources/census/1850-owsley-pdfp393-st300A-andrew-mays.jpg` SHA-256 `b4208f007ba90da9c451b923ca7c98f0971d57179c4d0ec7451c864f1629c42e` (4477×1920)
+- Header: same 300A as DOC058
+- Provenance: same PDF **393**, **5 Sept 1850**. **Image seen.** Two-pass.
+
+### Diplomatic
+
+> {same 300A header as DOC058}
+
+> **316 / 316** · **William Mays** · **56** · M · Farmer · **$400** · **Kentucky**
+> — **Polley Mays** · **50** · F
+> — **William** · **15** · M
+> — **Peggy** · **13** · F
+> — **Rudey** · **4** · F
+> — **Jessee Caster** · **14** · M
+> **317 / 317** · **Andrew Mays** · **25** · M · Farmer · **$100** · {nativity ditto Kentucky}
+> — **Rachel** · **23** · F
+> — **Giles** · **1/12** · M
+> **318 / 318** · **Colliman Caster** · **29** · M · Farmer · 300 · **Virginia**
+> — **Lucy Caster** · **26** · F
+> — **Susan** · **5** · F
+
+Pass 2: **Giles** given name is G-i-l-e-s (capital **G** as on other G-names; **not** Silas). Age is a stacked fraction **1** over **12**, **not** 5/12 (Flannigan) and **not** ½ (compare Rudey’s **4** and Susan’s **5** on this page). **Rachel** is R-a-ch-e-l, **not** Flannigan’s Rashal. The 14-year-old in William Mays’s house has a written surname **Caster** (C-a-s-t-er), matching the next dwelling **Colliman Caster**. Flannigan’s separate **EASTERS, Jessee 14*** is a surname misread.
+
+### Facts extracted → claim IDs
+- Andrew Mays 25 + Giles 1/12 → C493
+- William Mays 56 POSSIBLE father, unmerged; Jessee Caster 14 (EASTERS withdrawn) → C494
+
+## DOC060 — 1860 U.S. census, Owsley Co. KY Page 54, H.H. Newman 44 + Elias 18 (original)
+
+- Header: `sources/census/1860-owsley-pdfp353-p54-hdr.jpg` SHA-256 `b68530aa1d309d20edf2399fe74b9f313cff709c599d1119493cddfffc843b6b` (3107×700)
+- Household crop: `sources/census/1860-owsley-pdfp353-hh364-hh-newman.jpg` SHA-256 `dcd86b3fa0928d899894519e7bee53cb8c8d79949c1ae4de0e6119c0cd5bd7d4` (2857×1450)
+- Provenance: IA `populationschedu391unit` PDF page **353**. Page No. **54**. **9th** day of **July** 1860, **A.C. Gibson**, Post Office **Booneville**. **Image seen.** Two-pass.
+
+### Diplomatic
+
+> SCHEDULE 1.—Free Inhabitants in {blank} in the County of **Owsley**, State of **Kentucky**, enumerated by me, on the **9th** day of **July** 1860. **A.C. Gibson** Ass’t Marshal. Post Office **Booneville**. Page No. **54**.
+
+> **363 / 363** · **Morris Newman** · **32** · M · Farmer · {realty blank} · **100** · Ky
+> **364 / 364** · **H.H. Newman** · **44** · M · Farmer · **200** · **100** · Ky
+> — **Susan** · **36** · F · Ky
+> — **William** · **20** · M · Farmer · Ky
+> — **Elias** · **18** · M · Farmer · Ky
+> — **H.H.** · **15** · M · Farmer · Ky
+> — **Belinda** · **12** · F · Ky
+> — **John** · **10** · M · Ky
+> — **Marshall V.** · **8** · M · Ky
+> — **Mary J.** · **6** · F · Ky
+> — **Joseph** · **4** · M · Ky
+> — **Jesse** · **4/12** · M · Ky
+> **365 / 365** · **Cornelius Thomas** · **60** · M · Farmer · 2800 · 2000 · Va
+
+Pass 2: head given name is initials **H.H.** (two capitals with periods), **not** Harrison written out. Surname **Newman**. **Elias** 18 is E-l-i-a-s, closed **8**. **Belinda** (not Balinda). Infant **Jesse** age **4/12**.
+
+### Facts extracted → claim IDs
+- H.H. Newman 44 household → C497
+- Same household as 1850 Harrison → C498
+- Elias 18 vs P004 still unmerged → C499
+
+## DOC061 — 1860 U.S. census, Owsley Co. KY PDF 354, Andrew Mays 31 + Giles 11 (original)
+
+- Header: `sources/census/1860-owsley-pdfp354-hdr.jpg` SHA-256 `681a5487540d6c8d1e71e45cac6603b218aab8b00c6ed6956a5a670eed082587` (3080×450)
+- Household crop: `sources/census/1860-owsley-pdfp354-andrew-giles.jpg` SHA-256 `629ee447ba6ffa36ff08c558a297e3aea462c1e3bdd9a782f39f9c5976f3c761` (3080×1200)
+- Provenance: IA `populationschedu391unit` PDF page **354**. **Image seen.** Two-pass.
+
+### Diplomatic
+
+> **374 / 374** · **Wm Smallwood** · **22** · M · Farmer · 100 · 100 · Ky
+> **375 / 375** · **Andrew Mays** · **31** · M · Farmer · **300** · **200** · Ky
+> — **Rachael** · **26** · F · Ky
+> — **Giles** · **11** · M · Ky
+> — **Elizabeth** · **9** · F · Ky
+> — **Margaret** · **7** · F · Ky
+> — **Sarah** · **4** · F · Ky
+> — **Mary** · **1/12** · F · Ky
+> **376 / 376** · **David Mays** · **26** · M · Farmer · {realty blank} · 150 · Ky
+
+Pass 2: **Giles** 11 is G-i-l-e-s, age **11** (not 1). **Rachael** has the extra a vs 1850 **Rachel**.
+
+### Facts extracted → claim IDs
+- Andrew 31 + Giles 11 → C500
+
+## DOC062 — 1860 U.S. census, Owsley Co. KY Pages 59–60, John Newnam 68 b. Delaware + Harrison 15 (original)
+
+- Page 59 header: `sources/census/1860-owsley-pdfp358-p59-hdr.jpg` SHA-256 `f07fadcd22a551f81192a3b56617678c9b329c9acbca66c89ed5296b6478a466` (3066×450)
+- Household: `sources/census/1860-owsley-pdfp358-john68-lear.jpg` SHA-256 `01f6aece4dfc9ae734a999dea7f252560591d76ff73fc73207fa75c5f71fd13b` (2816×772)
+- Page 60 header: `sources/census/1860-owsley-pdfp359-p60-hdr.jpg` SHA-256 `0d9da1272f341372944e24ba29565deb394730f700e37d5c6a07ae334d0bf6e7` (3087×450)
+- Continuation: `sources/census/1860-owsley-pdfp359-harrison15.jpg` SHA-256 `3723dfc25ec963965c43616ff567e9bc13e5e33763a06961880369ea66ce9f63` (2967×550)
+- Provenance: IA `populationschedu391unit` PDF pages **358–359**. **Image seen.** Two-pass.
+
+### Diplomatic
+
+> Page No. **59**. County of **Owsley**. **10th** day of **July** 1860. **A.C. Gibson**. Post Office **Proctor**.
+
+> **407 / 407** · **John Newnam** · **68** · M · Farmer · **1200** · **900** · **Del**
+> — **Lear** · **63** · F · Ky
+
+> Page No. **60**. **11th** day of **July** 1860. Post Office **Proctor**.
+
+> {line 1, continuation of dw 407} **Harrison Newman** · **15** · M · Farmer · Ky
+
+Pass 2: John’s nativity is **Del** (Delaware), **not** Tennessee and **not** Kentucky. Surname on the head looks **Newnam**. **Lear** 63. **Harrison** 15 is written **Harrison**, not H.H. He is a youth in this house, **not** the 44-year-old H.H. on Page 54.
+
+### Facts extracted → claim IDs
+- John 68 Delaware + Lear 63 + Harrison 15 → C501

@@ -875,3 +875,15 @@ Independent parent re-list after the five Visual Silas PDF locals: **77** / `has
 
 Catalog still **77** from the Pass 45 nested fold re-list. **No** new independently image-backed P001 1900–1926 residence. Original-image work this pass: Owsley **299B** Harrison Newman **33** + **Elias 8** (**C486 / DOC056**). Flannigan Elias **3** withdrawn. Identity with P004 **POSSIBLE**, unmerged (**C487**). **B057 done** as to the 1850 original. Skip **C221–C280 / L245–L342 / S259–S266**. Next unused **C491+ / L441+ / S427+ / DOC057+**.
 
+# Pass 47 listing (30 Oct 2026, America/New_York)
+
+`list-cloud-agents` (`includeArchived: true`, limit 200, offset 0 then 50) → **77** / `hasMore: false` / `totalMatched: 77`. Unchanged vs Pass 45 nested fold. Nested reviewer **not** respawned (zero delta). **No** new independently image-backed P001 1900–1926 residence. Original-image work this pass: Owsley **299B** William Newman **26** (**C491 / DOC057**); **300A** John Newman **60** b. **Tennessee** (**C492 / DOC058**, DISPROVED as 1880 John 69); Andrew Mays **Giles 1/12** (**C493 / DOC059**, Flannigan 5/12 withdrawn). **B058 done**. Skip **C221–C280 / L245–L342 / S259–S266**. This listing uses **C495 / L441 / S430**. Next unused after Pass 47 filing was **C497+ / L446+ / S431+ / DOC060+**.
+
+# Pass 48 listing (30 Oct 2026, America/New_York)
+
+Catalog still **77**. Nested reviewer **not** respawned (zero delta). **No** new independently image-backed P001 1900–1926 residence. Original-image work this pass: 1860 Owsley Page **54** **H.H. Newman** 44 + **Elias 18** (**C497 / DOC060**), **PROVEN** same house as 1850 Harrison (**C498**); PDF **354** Andrew **Giles 11** (**C500 / DOC061**); Pages **59–60** John **68 Del** + Harrison 15 (**C501 / DOC062**). **B059 done**. Skip **C221–C280 / L245–L342 / S259–S266**. Next unused after Pass 48 filing **C506+ / L451+ / S434+ / DOC063+**.
+
+# Pass 48 closeout listing (30 Oct 2026, America/New_York)
+
+`list-cloud-agents` (`includeArchived: true`, limit 200) → **77** / `hasMore: false` / `totalMatched: 77`. Transcript of idle helper [Fold nested chat transcript](bc-b9846733-604b-5292-9b04-9b7d2f34aabb) **searched**, not linear-read: it folded [Review all cloud chats](bc-47d4740e-0026-5d85-a28b-0d525c60af4e), minted **no** IDs, edited **no** case files, and is **stale** on catalog (**71**) and next unused (**C477+**). Already folded as **C485 / L438 / S424**. **No** new independently image-backed P001 1900–1926 residence. Nested reviewer **not** respawned. Skip **C221–C280 / L245–L342 / S259–S266**. Pass 47–48 originals and Word closeout use the IDs already minted (**C491–C505 / L441–L450 / S427–S433 / DOC057–062**). Next unused **C506+ / L451+ / S434+ / DOC063+**.
+

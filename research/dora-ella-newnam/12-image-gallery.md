@@ -1,6 +1,6 @@
 # Source-image gallery: Dora Ella Newnam Stone
 
-Eighty-three JPEG/PNG images captured from NARA microfilm (via Internet Archive) during this case. Plates **7g–7j** are the 1860 Owsley and 1880 Lee Gray originals added in passes 39–40. They are ordered by **the date of the census they record or index**, not by the date the film was scanned. Plates **1a–2c**, **7a–7c**, **55b–55c**, and the 1880 G-600 cards were added in passes 34–37.
+One hundred eleven numbered plates (JPEG/PNG captures from NARA microfilm via Internet Archive, plus header and household crops). Plates **7g–7j** are the 1860 Owsley and 1880 Lee Gray originals added in passes 39–40. Plates **7k–7z** and **8a–8f** are the later 1850–1860 Owsley/Breathitt/Madison isolations, including Harrison Newman with Elias aged eight, H.H. Newman with Elias aged eighteen, and Giles Mays at one month and eleven. They are ordered by **the date of the census they record or index**, not by the date the film was scanned. Plates **1a–2c**, **7a–7c**, **55b–55c**, and the 1880 G-600 cards were added in passes 34–37.
 
 Soundex and Miracode cards sit with the census year they index, immediately after any original population schedules for that year.
 
@@ -39,6 +39,30 @@ Diplomatic transcriptions: [`08-transcriptions.md`](08-transcriptions.md). Citat
 | 7h | 14 Jul 1860 | FAN | [Owsley Page 67 — James Brandenburg 52; no Mary White](sources/census/1860-owsley-pdfp366-james-brandenburg.jpg) |
 | 7i | 1 Jun 1880 | FAN | [Lee ED 59 sheet 1 — William Gray 30; Hardin 3 son; next door John Newnam](sources/census/1880-lee-ky-ed59-sheet1-p726-william-gray.jpg) |
 | 7j | 10 Jun 1880 | FAN | [Lee ED 59 sheet 16 — Silas Gray 66; father N.C.; Levi 21](sources/census/1880-lee-ky-ed59-sheet16-p741-silas-gray.jpg) |
+| 7e | 17 Jun 1880 | Rejected same-name | [Lee ED 59 page 28 — Elisha Gray, 28](sources/census/1880-lee-ky-ed59-sheet28-p753-elisha-gray.jpg) |
+| 7f | 28 Jun 1880 | FAN | [Lee ED 59 page 43 — Caroline Gray, 44, Virginia](sources/census/1880-lee-ky-ed59-sheet43-p768-caroline-gray.jpg) |
+| 7k | 24 Aug 1850 | Rejected same-name | [Owsley 289B — Thomas Gray, 47 (not Silas)](sources/census/1850-owsley-pdfp370-thomas-gray.jpg) |
+| 7l | 1850 | Rejected same-name | [Owsley 306A — James Gray, 32, and a different William, 12](sources/census/1850-owsley-pdfp405-james-gray.jpg) |
+| 7m | 1850 | Rejected same-name | [Owsley 314B — John Gray, 40, and Charles Gray, 26, with Manerva](sources/census/1850-owsley-pdfp420-john-charles-gray.jpg) |
+| 7n | 1850 | Rejected same-name | [Estill 99B — Marcus Gray, 68, South Carolina](sources/census/1850-estill-pdfp433-st99B-marcus-gray.jpg) |
+| 7o | 3 Aug 1850 | Context | [Breathitt Dist 2 stamped 1A — county opening](sources/census/1850-breathitt-pdfp197-st1A-hdr.jpg) |
+| 7p | 16 Aug 1850 | Rejected same-name | [Breathitt 8A — Elijah Green, 36 (not Silas)](sources/census/1850-breathitt-pdfp211-st8A-elijah-green-hh.jpg) |
+| 7q | 1850 | Rejected same-name | [Breathitt 14A — Taulbee Silas, 1 (not Silas Gray)](sources/census/1850-breathitt-pdfp223-st14A-taulbee-silas.jpg) |
+| 7r | 1850 | Negative search | [Breathitt 17B blank and Dist 1 18A](sources/census/1850-breathitt-pdfp230-st17B-blank-hdr.jpg) |
+| 7s | 1850 | Rejected same-name | [Breathitt 21A — Siras Bryant, 22 (not Gray)](sources/census/1850-breathitt-pdfp237-st21A-bryant-siras.jpg) |
+| 7t | 1850 | Rejected same-name | [Breathitt 32A — Wm. L. Griffing, 35 (not Gray)](sources/census/1850-breathitt-pdfp259-st32A-griffing.jpg) |
+| 7u | 14 Aug 1850 | Rejected same-name | [Madison 212A — John Green, 44, and Silas Green, 20](sources/census/1850-madison-pdfp428-john-green-hh.jpg) |
+| 7v | 15 Aug 1850 | Rejected same-name | [Owsley 279A — Silas Ratliff, 8/12 (not Silas Gray)](sources/census/1850-owsley-pdfp349-st279A-ratliff.jpg) |
+| 7w | 4 Sept 1850 | Rejected same-name | [Owsley 298A — Silas Wilson, 6 (not Silas Gray)](sources/census/1850-owsley-pdfp389-st298A-wilson-silas.jpg) |
+| 7x | 20 Sept 1850 | Rejected same-name | [Owsley 309B — Silas Phillips, 15 (not Silas Gray)](sources/census/1850-owsley-pdfp410-st309B-phillips-silas.jpg) |
+| 7y | 1850 | Rejected same-name | [Owsley 320A — Squire Bowman, 24 (Cyrus withdrawn)](sources/census/1850-owsley-pdfp431-st320A-bowman-squire.jpg) |
+| 7z | 5 Sept 1850 | FAN | [Owsley 299B — Harrison Newman, 33, and Elias, 8](sources/census/1850-owsley-pdfp392-st299B-harrison-newman.jpg) |
+| 8a | 5 Sept 1850 | FAN | [Owsley 299B — William Newman, 26 (not Harrison)](sources/census/1850-owsley-pdfp392-st299B-william-newman.jpg) |
+| 8b | 5 Sept 1850 | Rejected same-name | [Owsley 300A — John Newman, 60, born Tennessee](sources/census/1850-owsley-pdfp393-st300A-john-newman.jpg) |
+| 8c | 5 Sept 1850 | FAN | [Owsley 300A — Andrew Mays and Giles, 1/12](sources/census/1850-owsley-pdfp393-st300A-andrew-mays.jpg) |
+| 8d | 9 July 1860 | FAN | [Owsley Page 54 — H.H. Newman, 44, and Elias, 18](sources/census/1860-owsley-pdfp353-hh364-hh-newman.jpg) |
+| 8e | 9 July 1860 | FAN | [Owsley PDF 354 — Andrew Mays, 31, and Giles, 11](sources/census/1860-owsley-pdfp354-andrew-giles.jpg) |
+| 8f | 10–11 July 1860 | FAN | [Owsley Pages 59–60 — John Newnam, 68, Delaware, and Harrison, 15](sources/census/1860-owsley-pdfp358-john68-lear.jpg) |
 | 8 | 13 Jun 1900 | Rejected same-name | [Douglas County, Missouri — Thomas and Nancy E. Stone](sources/census/1900-douglas-mo-ed159-stone-sheet.jpg) |
 | 9 | 13 Jun 1900 | Rejected same-name | [Douglas County Stone household (crop)](sources/census/1900-douglas-mo-ed159-stone-hh-crop.jpg) |
 | 10 | 1900 (index) | Rejected same-name | [Missouri S-350 — Thomas Stone, 44, Douglas County](sources/soundex/mo1900-s350-p1678-stone-thomas-44-douglas.jpg) |
@@ -95,6 +119,10 @@ Diplomatic transcriptions: [`08-transcriptions.md`](08-transcriptions.md). Citat
 | 55a | 11 May 1910 | FAN (family hit of Louisa’s daughter) | [Hardin Gray and Vista household crop](sources/census/1910-lee-ky-ed99-sh13b-hardin-gray-crop.jpg) |
 | 55b | 11 May 1910 | FAN | [William Gray and Mary Jane household crop](sources/census/1910-lee-ky-ed99-sh13b-william-gray-crop.jpg) |
 | 55c | 3 May 1910 | Rejected same-name | [Crooked Creek ED 1 sheet 10 A — Rhodes, Henry C., and Dora M., 37, Missouri](sources/census/1910-bollinger-ed1-dora-e-stone-rejected.png) |
+| 62 | 19 Apr 1910 | FAN | [Liberty ED 4 sheet 13 A — Letha Sullivan, servant, 12](sources/census/1910-bollinger-ed4-letha-sullivan-servant.png) |
+| 63 | 23 May 1910 | Rejected same-name | [Liberty ED 4 sheet 15 B — Newnam children and Mary Estes MIL](sources/census/1910-bollinger-ed4-sullivan-newnam-mil.png) |
+| 64 | 16 Apr 1910 | Rejected same-name | [Fillmore ED 2 sheet 8 A — John H. Newnam and Dora, 36, Missouri](sources/census/1910-bollinger-ed2-john-h-newnam-dora-rejected.png) |
+| 65 | 8 Apr 1910 | Negative search | [Bollinger ED 5 sheet 8 B — filename Letha E. not confirmed](sources/census/1910-bollinger-ed5-sullivan-letha-e-dau2.png) |
 | 56 | Jan 1920 | Rejected same-name | [Kentucky N-550 — Dora Newman, 29, Paducah](sources/soundex/ky1920-n550-p4201-dora-29-paducah-rejected.jpg) |
 | 57 | Jan 1920 | Rejected same-name | [Kentucky N-550 — Dora E. Newman, 10, Cumberland](sources/soundex/ky1920-n550-p4203-dora-e-10-cumberland-rejected.jpg) |
 | 58 | Jan 1920 | Negative search | [Kentucky N-550 — “E” tab after the Dora window](sources/soundex/ky1920-n550-p4205-e-tab-after-dora.jpg) |
@@ -1195,4 +1223,80 @@ Dwelling **313/313**: Harrison Newman, 33, farmer, $50; Susan, 24; William, 10; 
 ![1850 Owsley 299B header](sources/census/1850-owsley-pdfp392-st299B-hdr.jpg)
 
 ![1850 Owsley 299B — Harrison Newman household](sources/census/1850-owsley-pdfp392-st299B-harrison-newman.jpg)
+
+## Pass 47 additions
+
+### 8a · 5 Sept 1850 · Owsley stamped 299B — William Newman, 26 (not Harrison)
+
+**Role:** FAN (separate Newman house; not merged with Harrison 33)  
+**File:** [`sources/census/1850-owsley-pdfp392-st299B-william-newman.jpg`](sources/census/1850-owsley-pdfp392-st299B-william-newman.jpg)  
+**Source:** S427 · C491 · DOC057
+
+Dwelling **311/311**: William Newman, 26, farmer, $325; Jane, 22; Francis, 4, female; Leanner, 2. Nativity Kentucky by ditto. Two dwellings later is Harrison, 33.
+
+![1850 Owsley 299B — William Newman 26](sources/census/1850-owsley-pdfp392-st299B-william-newman.jpg)
+
+### 8b · 5 Sept 1850 · Owsley stamped 300A — John Newman, 60, born Tennessee (not 1880 John 69)
+
+**Role:** FAN (DISPROVED as C060)  
+**File:** [`sources/census/1850-owsley-pdfp393-st300A-john-newman.jpg`](sources/census/1850-owsley-pdfp393-st300A-john-newman.jpg)  
+**Source:** S428 · C492 · DOC058
+
+Dwelling **321/321**: John Newman, 60, farmer, $1000, born **Tennessee**; Lear, 55, Kentucky; Morris, 23, labourer. He is not the 1880 John, 69, born Kentucky, father North Carolina.
+
+![1850 Owsley 300A header](sources/census/1850-owsley-pdfp393-st300A-hdr.jpg)
+
+![1850 Owsley 300A — John Newman 60 Tennessee](sources/census/1850-owsley-pdfp393-st300A-john-newman.jpg)
+
+### 8c · 5 Sept 1850 · Owsley stamped 300A — Andrew Mays and Giles, 1/12
+
+**Role:** FAN (PROVEN natal house of C132 Jiles 20, with 1860 Giles 11)  
+**File:** [`sources/census/1850-owsley-pdfp393-st300A-andrew-mays.jpg`](sources/census/1850-owsley-pdfp393-st300A-andrew-mays.jpg)  
+**Source:** S429 · C493 · C494 · DOC059
+
+Dwelling **317/317**: Andrew Mays, 25, farmer, $100; Rachel, 23; **Giles, 1/12**. Flannigan’s **5/12** is withdrawn. Next door, William Mays, 56, with **Jessee Caster**, 14 — Flannigan’s EASTERS is a surname misread.
+
+![1850 Owsley 300A — Andrew Mays + Giles 1/12](sources/census/1850-owsley-pdfp393-st300A-andrew-mays.jpg)
+
+## Pass 48 additions
+
+### 8d · 9 July 1860 · Owsley Page 54 — H.H. Newman, 44, and Elias, 18
+
+**Role:** FAN (PROVEN same household as 1850 Harrison; Elias 18 POSSIBLE vs P004, unmerged)  
+**File:** [`sources/census/1860-owsley-pdfp353-hh364-hh-newman.jpg`](sources/census/1860-owsley-pdfp353-hh364-hh-newman.jpg)  
+**Source:** S431 · C497 · C498 · C499 · DOC060
+
+Dwelling **364/364**, Booneville: H.H. Newman, 44, farmer, $200/$100; Susan, 36; William, 20; **Elias, 18**; H.H., 15; Belinda, 12; John, 10; Marshall V., 8; Mary J., 6; Joseph, 4; Jesse, 4/12. All Kentucky. The 1850 Harrison house under initials.
+
+![1860 Owsley Page 54 header](sources/census/1860-owsley-pdfp353-p54-hdr.jpg)
+
+![1860 Owsley Page 54 — H.H. Newman household](sources/census/1860-owsley-pdfp353-hh364-hh-newman.jpg)
+
+### 8e · 9 July 1860 · Owsley PDF 354 — Andrew Mays, 31, and Giles, 11
+
+**Role:** FAN (PROVEN same house as 1850 Giles 1/12 and 1870 Jiles 20)  
+**File:** [`sources/census/1860-owsley-pdfp354-andrew-giles.jpg`](sources/census/1860-owsley-pdfp354-andrew-giles.jpg)  
+**Source:** S432 · C500 · DOC061
+
+Dwelling **375/375**: Andrew Mays, 31, farmer, $300/$200; Rachael, 26; **Giles, 11**; Elizabeth, 9; Margaret, 7; Sarah, 4; Mary, 1/12.
+
+![1860 Owsley PDF 354 header](sources/census/1860-owsley-pdfp354-hdr.jpg)
+
+![1860 Owsley PDF 354 — Andrew Mays + Giles 11](sources/census/1860-owsley-pdfp354-andrew-giles.jpg)
+
+### 8f · 10–11 July 1860 · Owsley Pages 59–60 — John Newnam, 68, born Delaware, and Harrison, 15
+
+**Role:** FAN (not merged with 1850 John 60 Tennessee; Harrison 15 DISPROVED as Harrison 33)  
+**File:** [`sources/census/1860-owsley-pdfp358-john68-lear.jpg`](sources/census/1860-owsley-pdfp358-john68-lear.jpg)  
+**Source:** S433 · C501 · DOC062
+
+Dwelling **407/407**, Proctor: John Newnam, 68, farmer, $1200/$900, born **Delaware**; Lear, 63, Kentucky. Next page, Harrison Newman, 15, farmer — a youth in this house, not the Booneville H.H. of 44.
+
+![1860 Owsley Page 59 header](sources/census/1860-owsley-pdfp358-p59-hdr.jpg)
+
+![1860 Owsley Page 59 — John Newnam 68 Delaware](sources/census/1860-owsley-pdfp358-john68-lear.jpg)
+
+![1860 Owsley Page 60 header](sources/census/1860-owsley-pdfp359-p60-hdr.jpg)
+
+![1860 Owsley Page 60 — Harrison Newman 15](sources/census/1860-owsley-pdfp359-harrison15.jpg)
 
