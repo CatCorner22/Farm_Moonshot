@@ -1,6 +1,6 @@
 # Source-image gallery: Dora Ella Newnam Stone
 
-One hundred twenty-three numbered plates (JPEG/PNG captures from NARA microfilm via Internet Archive, plus header and household crops). Plates **7g–7j** are the 1860 Owsley and 1880 Lee Gray originals added in passes 39–40. Plates **7k–7z** and **8a–8f** are the later 1850–1860 Owsley/Breathitt/Madison isolations, including Harrison Newman with Elias aged eight, H.H. Newman with Elias aged eighteen, and Giles Mays at one month and eleven. Plates **8j–8l** are the 1840 Estill originals (John and Christian Tincher, the county recap, and William Newton not Tincher) added in pass 55; plates **8m–8n** are the 1840 Clay originals added in pass 56; plates **8o–8q** are the 1840 Breathitt originals (first name page, last name page ending Total, and the county Abstract) added in pass 57. They sit after the 1880 Buck Creek plate because those numbers were already assigned. They are ordered by **the date of the census they record or index**, not by the date the film was scanned. Plates **1a–2c**, **7a–7c**, **55b–55c**, and the 1880 G-600 cards were added in passes 34–37.
+One hundred twenty-seven numbered plates (JPEG/PNG captures from NARA microfilm via Internet Archive, plus header and household crops). Plates **7g–7j** are the 1860 Owsley and 1880 Lee Gray originals added in passes 39–40. Plates **7k–7z** and **8a–8f** are the later 1850–1860 Owsley/Breathitt/Madison isolations, including Harrison Newman with Elias aged eight, H.H. Newman with Elias aged eighteen, and Giles Mays at one month and eleven. Plates **8j–8l** are the 1840 Estill originals (John and Christian Tincher, the county recap, and William Newton not Tincher) added in pass 55; plates **8m–8n** are the 1840 Clay originals added in pass 56; plates **8o–8q** are the 1840 Breathitt originals (first name page, last name page ending Total, and the county Abstract) added in pass 57; plates **8r–8u** are the 1840 Estill McIlvain originals and the Edmonson divider added in pass 58. They sit after the 1880 Buck Creek plate because those numbers were already assigned. They are ordered by **the date of the census they record or index**, not by the date the film was scanned. Plates **1a–2c**, **7a–7c**, **55b–55c**, and the 1880 G-600 cards were added in passes 34–37.
 
 Soundex and Miracode cards sit with the census year they index, immediately after any original population schedules for that year.
 
@@ -74,6 +74,10 @@ Diplomatic transcriptions: [`08-transcriptions.md`](08-transcriptions.md). Citat
 | 8o | 1 Jun 1840 | Negative search | [Breathitt leaf 132 — first name page; John Bowman not Newman](sources/census/1840-breathitt-m704-105-leaf132-names.jpg) |
 | 8p | 1 Jun 1840 | Negative search | [Breathitt leaf 154 — last name page ending Total](sources/census/1840-breathitt-m704-105-leaf154-names.jpg) |
 | 8q | 1840 | Context | [Breathitt recap leaf 156 — Abstract, 11 rows](sources/census/1840-breathitt-m704-105-leaf156-recap.jpg) |
+| 8r | 1 Jun 1840 | Negative search | [Estill McIlvain overlay 0088 — Estill County margin](sources/census/1840-estill-m704-109-leaf96-mcilvain-estill-margin.jpg) |
+| 8s | 1 Jun 1840 | FAN | [Estill McIlvain overlay 0129 — Valentine R. Ward = fishergenes p.68](sources/census/1840-estill-m704-109-leaf138-ward-fishergenes.jpg) |
+| 8t | 1 Jun 1840 | FAN | [Estill McIlvain overlay 0121 — Wm Fincher, not Tincher](sources/census/1840-estill-m704-109-leaf130-fincher.jpg) |
+| 8u | 1840 | Context | [Edmonson divider overlay 0141 — W. Edwards, 2914](sources/census/1840-edmonson-m704-109-leaf151-divider.jpg) |
 | 8 | 13 Jun 1900 | Rejected same-name | [Douglas County, Missouri — Thomas and Nancy E. Stone](sources/census/1900-douglas-mo-ed159-stone-sheet.jpg) |
 | 9 | 13 Jun 1900 | Rejected same-name | [Douglas County Stone household (crop)](sources/census/1900-douglas-mo-ed159-stone-hh-crop.jpg) |
 | 10 | 1900 (index) | Rejected same-name | [Missouri S-350 — Thomas Stone, 44, Douglas County](sources/soundex/mo1900-s350-p1678-stone-thomas-44-douglas.jpg) |
@@ -1428,6 +1432,46 @@ Heading Breathitt County. The name column ends **Total**. No Newman or Tincher h
 Heading Breathitt County. Label Abstract. Eleven numbered recap rows plus a total line. Next county on the reel is Breckinridge.
 
 ![1840 Breathitt recap leaf 156](sources/census/1840-breathitt-m704-105-leaf156-recap.jpg)
+
+### 8r · 1 June 1840 · Estill McIlvain overlay 0088 — Estill County margin
+
+**Role:** Negative search (second Estill enumerator; county proved; no Newman/Tincher)  
+**File:** [`sources/census/1840-estill-m704-109-leaf96-mcilvain-estill-margin.jpg`](sources/census/1840-estill-m704-109-leaf96-mcilvain-estill-margin.jpg)  
+**Source:** S468 · C587 · C588 · DOC081
+
+Andrew McIlvain. Left margin **Estill County**. Representative page of the 25-page McIlvain name run. **Benj Stone** and **Hiram McGuire** sit on this page; they are not merged. No Newman or Tincher head on this page, or on the other twenty-four McIlvain name pages.
+
+![1840 Estill McIlvain overlay 0088 — Estill County](sources/census/1840-estill-m704-109-leaf96-mcilvain-estill-margin.jpg)
+
+### 8s · 1 June 1840 · Estill McIlvain overlay 0129 — Valentine R. Ward (fishergenes p.68)
+
+**Role:** FAN (closes the fishergenes “Estill p.68” match)  
+**File:** [`sources/census/1840-estill-m704-109-leaf138-ward-fishergenes.jpg`](sources/census/1840-estill-m704-109-leaf138-ward-fishergenes.jpg)  
+**Source:** S468 · S472 · C589 · DOC082
+
+Same McIlvain Estill division. **Valentine R. Ward** with two males under five. This is the name half of the fishergenes two-page spread labelled “1840 Estill p.68.” Ancestry page 68 is not NARA overlay 68.
+
+![1840 Estill McIlvain overlay 0129 — Valentine R. Ward](sources/census/1840-estill-m704-109-leaf138-ward-fishergenes.jpg)
+
+### 8t · 1 June 1840 · Estill McIlvain overlay 0121 — Wm Fincher, not Tincher
+
+**Role:** FAN (withdrawn Tincher misread)  
+**File:** [`sources/census/1840-estill-m704-109-leaf130-fincher.jpg`](sources/census/1840-estill-m704-109-leaf130-fincher.jpg)  
+**Source:** S468 · C590 · DOC083
+
+Same McIlvain Estill division. The head after M’Cagy Pitman is **Wm Fincher**. Capital F, *-incher*, not Tincher.
+
+![1840 Estill McIlvain overlay 0121 — Wm Fincher](sources/census/1840-estill-m704-109-leaf130-fincher.jpg)
+
+### 8u · 1840 · Edmonson divider overlay 0141 — W. Edwards, 2914
+
+**Role:** Context (closes McIlvain Estill; opens Edmonson on M704-109)  
+**File:** [`sources/census/1840-edmonson-m704-109-leaf151-divider.jpg`](sources/census/1840-edmonson-m704-109-leaf151-divider.jpg)  
+**Source:** S477 · C591 · DOC084
+
+Large hand “Edmonson County 31.” Assistant marshal **W. Edwards**. Total **2914**. Signatory **William Hoge**. McIlvain is not this division.
+
+![1840 Edmonson divider overlay 0141](sources/census/1840-edmonson-m704-109-leaf151-divider.jpg)
 
 ## Pass 50 note — cemetery overview (not a numbered plate)
 

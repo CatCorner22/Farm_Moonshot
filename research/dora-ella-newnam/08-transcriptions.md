@@ -1893,3 +1893,67 @@ Pass 2: Eleven recap rows vs twelve even name pages (`_0132`–`_0154`) is a cou
 ### Facts extracted → claim IDs
 - Recap Abstract / 11 rows / 13 Nov 1840 → C585
 - Breathitt named-head run complete → C584
+
+## DOC081 — 1840 U.S. census, Estill Co. KY, Andrew McIlvain, overlay 0088 (Estill County margin)
+- Margin/names crop: `sources/census/1840-estill-m704-109-leaf96-mcilvain-estill-margin.jpg` SHA-256 `46365f906b1b1bbc776e2a15e4eede19d88f88d76848f01c18b4d339874f6844` (1800×3124)
+- Provenance: NARA M704 reel **109**; IA `populationsc18400109unit` jp2 `_0096.jp2` overlay stamp **0088** (jp2 SHA-256 `1402636defbd0cda5e9a4c78e49c18d1028614609b81a0e59bea979af50b420a`; **not committed**). Header: division allotted to **A. McIlvain**. Left margin **Estill County**. **Image seen.** Two-pass. Representative page of the 25-page even-leaf run (`_0092`–`_0140`).
+
+### Diplomatic
+
+> SCHEDULE of the whole number of persons within the division allotted to **A. McIlvain**. Left margin **Estill County**. Overlay **0088**. Form **(No. 4.)**.
+
+> Named heads on this page, among others: **Jonah Parke** · Alvin Heale · Wm. J. Clark · Fulton Griggs · John White · **Tinsley Witt** · Joshua Abney · Wm Hatton · Solomon Patterson · Wm Shepherd · Thos. Morehead · Wm Hendricks · Skiler King · **Benj Stone** · **Hiram McGuire** · N.G. Wise · Joph. Crow · Benj Barnett · Jas Whitt · Washington Lynch · Hezekiah Bowman · Jas Witt · Jas Nannen · Thos McDowell · Asa Freeman · John Walker · Michael Winkler · Isaac Shank · Lewis Barnett · David Crouch.
+
+Pass 2: Vertical margin **Estill County** (not Edmonson). Surname **Witt** on Tinsley (given name Tinsley, not the surname Tinsley). **Stone** and **McGuire** are present; **Tincher** is not. No Newman/Newnam head on this page.
+
+### Facts extracted → claim IDs
+- McIlvain county is Estill → C587
+- Named-head nil Newman/Tincher on this run → C588
+- Benj Stone unmerged FAN → C592
+
+## DOC082 — 1840 U.S. census, Estill Co. KY, McIlvain overlay 0129 (Valentine R. Ward = fishergenes p.68)
+- Name crop: `sources/census/1840-estill-m704-109-leaf138-ward-fishergenes.jpg` SHA-256 `b743c5b6d0ee1eee8e5c91f91b995c9ce4dcbf33808d1bcf2fac573ef3065a85` (2200×3026)
+- Provenance: IA `populationsc18400109unit` jp2 `_0138.jp2` overlay stamp **0129** (jp2 SHA-256 `60269226baa1c16475f48ff08112f1b8c769c46b2c843a460a5af03882a16257`; **not committed**). Same McIlvain Estill series. **Image seen.** Two-pass. Matches fishergenes mediaID **2466**.
+
+### Diplomatic
+
+> Overlay **0129**. Division allotted to Andrew McIlvain. Estill (this series).
+
+> **Rachel Covington** · Henry Cobb · [blotted given] Webb · Garland King · Wm Webb · Samuel Moore · James Barrett · Elijah Morton · Warner Hall · Bryant Hall · Mary Williams · John Frazier · James Hall · John Moore · Lucinda Williams · **Valentine R. Ward** (males **2** under 5) · Obed Howard · Wm Adams · Robt Adams · John Sturgeon · Richard Byars · Mace G. Isaac · Ann Burton · Henry Watson · Wm Burton · Benjn Power · Wm Harris · Wm Skinner · Lucy Patton · J.H. Tilleyston.
+
+Pass 2: Given **Valentine R. Ward** (not Tipton). This is the name half of the fishergenes two-page spread; the verso of that JPEG is the manufacturing back with **Wm Harris 73**. First-pass “Tipton/Horn/Hall/McGuire” as *this* sheet’s heads is **withdrawn**.
+
+### Facts extracted → claim IDs
+- fishergenes p.68 = overlay 0129 → C589
+- C578 Lewis non-match stands → C578
+
+## DOC083 — 1840 U.S. census, Estill Co. KY, McIlvain overlay 0121 (Wm Fincher, not Tincher)
+- Name-column crop: `sources/census/1840-estill-m704-109-leaf130-fincher.jpg` SHA-256 `82b61c4949013bfe9bc8fa3e79b41a63212b523ffc3c63e73bce0736bfb1af7e` (1600×1245)
+- Provenance: IA `populationsc18400109unit` jp2 `_0130.jp2` overlay stamp **0121** (jp2 SHA-256 `c15468a693225d9ecc61b6dc323dedcd9facd216980e058b3fb1084b9080deec`; **not committed**). Same McIlvain Estill series. **Image seen.** Two-pass.
+
+### Diplomatic
+
+> Overlay **0121**. Neighbours in this block: Johnie Lutes · Annanias Finley · Gideon Ashcraft · **M’Cagy Pitman** · **Wm Fincher** · James Hutton · John Tutes · Saml Branaughs · John Simmons · Thos Plowman · Tobias Runnells · Jesse McIntosh · John Winkler.
+
+> **Wm Fincher** · males: ticks in the under-5 and 10–15 columns (and later columns on the full page). Surname **Fincher** (capital **F**, *-incher*), **not** Tincher.
+
+Pass 2: Confirmed against John/Christian **Tincher** on overlay **0059** (different capital **T** and *-cher*). Do not treat this row as Elias Barker Tincher.
+
+### Facts extracted → claim IDs
+- Wm Fincher, not Tincher → C590
+
+## DOC084 — 1840 U.S. census, Edmonson Co. KY divider, overlay 0141
+- Divider crop: `sources/census/1840-edmonson-m704-109-leaf151-divider.jpg` SHA-256 `56bac09f494e13aaabe9844eff7c4aca33bd996491479dc6d4c85cd3d7bbf13a` (2200×1782)
+- Provenance: IA `populationsc18400109unit` jp2 `_0151.jp2` overlay stamp **0141** (jp2 SHA-256 `a01ab7e916fb453a4743f977837b3838358a19d58877594b46c21235530d6378`; **not committed**). **Image seen.** Two-pass.
+
+### Diplomatic
+
+> Overlay **0141**. Large hand: **Edmonson County** / **31.**
+> “The foregoing returns of Enumeration made by **W. Edwards** assistant Marshal appointed to take the Census of **Edmonson County** … and I hereby certify them to be correct.” Signatory **William Hoge**. **Total 2914.** “Compared with the aggregate.”
+
+Pass 2: This sheet sits **after** McIlvain’s last Estill names (`_0140`) and **before** Edwards’s first Edmonson names (`_0152`). It is not a McIlvain recap.
+
+### Facts extracted → claim IDs
+- Edmonson start / Edwards / 2914 → C591
+- McIlvain is not this Edmonson division → C587 C591
+

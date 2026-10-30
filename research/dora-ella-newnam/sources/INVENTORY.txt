@@ -811,3 +811,19 @@ research/dora-ella-newnam/sources/census/1880-lee-ky-ed59-sheet43-p768-caroline-
   sha256: 7c4aa784439742ffdf8db5571744a4df2806a3be47743cccd94da1181e4e145d
   format: JPEG crop, 2200x2372px
   check: Breathitt recap Abstract 11 rows; M704-105 _0156.jp2
+/workspace/research/dora-ella-newnam/sources/census/1840-estill-m704-109-leaf96-mcilvain-estill-margin.jpg
+  sha256: 46365f906b1b1bbc776e2a15e4eede19d88f88d76848f01c18b4d339874f6844
+  format: JPEG crop, 1800x3124px
+  check: overlay 0088 McIlvain Estill County margin; M704-109 _0096.jp2
+/workspace/research/dora-ella-newnam/sources/census/1840-estill-m704-109-leaf138-ward-fishergenes.jpg
+  sha256: b743c5b6d0ee1eee8e5c91f91b995c9ce4dcbf33808d1bcf2fac573ef3065a85
+  format: JPEG crop, 2200x3026px
+  check: overlay 0129 Valentine R. Ward = fishergenes p.68; M704-109 _0138.jp2
+/workspace/research/dora-ella-newnam/sources/census/1840-estill-m704-109-leaf130-fincher.jpg
+  sha256: 82b61c4949013bfe9bc8fa3e79b41a63212b523ffc3c63e73bce0736bfb1af7e
+  format: JPEG crop, 1600x1245px
+  check: overlay 0121 Wm Fincher not Tincher; M704-109 _0130.jp2
+/workspace/research/dora-ella-newnam/sources/census/1840-edmonson-m704-109-leaf151-divider.jpg
+  sha256: 56bac09f494e13aaabe9844eff7c4aca33bd996491479dc6d4c85cd3d7bbf13a
+  format: JPEG crop, 2200x1782px
+  check: overlay 0141 Edmonson County 31 W. Edwards 2914; M704-109 _0151.jp2
