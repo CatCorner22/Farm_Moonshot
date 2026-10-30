@@ -78,3 +78,17 @@ Wildcard strings to use: `New*m`, `Dor* New*`, `"Doll Newnam"`, `McCoy OR Coy Ne
 | 29 | 1920 Beattyville Pct 1 original | IA `14thcensusofpopu586unit` PDF p. 14 / T625-586 ED 111 sh 6A | Elias as Burke grandfather | **found original**; E.T. is grandfather of Provie Hoover, not of C.B. |
 | 30 | Lee VS deaths 1874–1878 and 1900–1904 | USGenNet vsd / vsd1 / vsd2 | Samuel P death | **nil** Samuel P; John 37 d. 5 Mar 1900 is BIL context |
 | 31 | 1900 Proctor + Book 7 Burke×Hoover | RootsWeb / USGenNet | Whose grandchild is E.T.? | Provie Hoover gdau of Elias; C.B. son of George Burke |
+
+## Name-variant storm (pass 60–61, `search_variants.py`)
+
+**Dora Newnam / Stone** — given: Dora, posa, dosa, rosa, dona, dara, dore, dori, dola, pora, rora. Surname: Newnam, newman, newnarn, newan, newnom, Stone. Soundex **N550** / **S350**. Combined samples: `"Dora Newnam"`, `"Newnam, Dora"`, `"posa Stone"`, `"Dora newman"`.
+
+**Doll Newnam** — given: Doll, poll, roll × Newnam/newman/newnarn/newan/newnom.
+
+**Ladonna Newnam** — Ladonna / Ladona × Newnam/Newman. **Clay Dunigan** — Clay × Dunigan / Dunagin / Dunnigan. Soundex **D525**.
+
+Exact strings logged **L343** (this branch) and remapped **L379–L395** (`main` pass 60–61).
+
+## Agent SDK / GitHub channel
+
+Inspected 30 Oct 2026 (**L386**): this repository has **no** `package.json`, **no** `@grok/agent-sdk`, **no** `bot/` directory. GitHub channel `bot/channels/github.ts` is **n/a** and was **not** authored. Project subagent: `.cursor/agents/dora-genealogy-detective.md`.

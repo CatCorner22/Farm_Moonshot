@@ -1,6 +1,23 @@
 # Dora Ella Newnam Stone
 
-*A documented life, 1871–1926. Compiled from every research chat in this project, 27–29 October 2026. Living descendants are not named. Facts below the line of proof are labelled in the text. Nothing here is family lore presented as fact.*
+*A documented life, 1871–1926. Compiled from every research chat in this project, 27–30 October 2026. Living descendants are not named. Facts below the line of proof are labelled in the text. Nothing here is family lore presented as fact.*
+
+## Table of contents
+
+1. [Preface](#preface)
+2. [Chapter 1. The girl on Sturgeon Creek](#chapter-1-the-girl-on-sturgeon-creek)
+3. [Chapter 2. Thursday at Doll Newnam’s](#chapter-2-thursday-at-doll-newnams)
+4. [Chapter 3. Seven born, five living](#chapter-3-seven-born-five-living)
+5. [Places: 1900 to death](#places-1900-to-death)
+6. [Chapter 4. The years the census lost](#chapter-4-the-years-the-census-lost)
+7. [Chapter 5. Arkansas, and the name Stone](#chapter-5-arkansas-and-the-name-stone)
+8. [Chapter 6. Noon, Monday, 23 August 1926](#chapter-6-noon-monday-23-august-1926)
+9. [Chapter 7. After she was gone — Beattyville paper, Greene sweep, FAN](#chapter-7-after-she-was-gone--beattyville-paper-greene-sweep-fan)
+10. [The children, in brief](#the-children-in-brief)
+11. [How to read the plates](#how-to-read-the-plates)
+12. [What remains open](#what-remains-open)
+13. [Footnotes](#footnotes)
+14. [Source index](#source-index)
 
 ---
 
@@ -152,15 +169,30 @@ The statewide Arkansas death index and its Ancestry mirror are notorious for mis
 
 Coy Newnam of Ola was informant. He named her spouse T. A. Stone and her parents E. T. Newnam and Mary Smallwood, and he sent her the next day to Carters Chapel. Daniels and Cossey, copying Carter Cove Cemetery on 5 February 1993, found “Newman, Dora” without dates — the name of the husband of her youth, and of the son who buried her. Nearby they copied “Stone, Thomas | 1845 | 1925.” [C016] [S078]
 
-At Carter Cemetery (Carter Cove), Find a Grave’s **cemetery search** (not the individual memorial pages, which Cloudflare blocked from this workspace) lists **Dora Newman** (memorial 97907837) with **no dates** on the listing — matching the 1993 spelling under her maiden name — and **Thomas Stone** (97907931) as **1845–1925**, beside her in the same yard. Those listings are authored derivatives (**S117–S118**, claim **C129**), not vital records, but they align with the certificate and the copyists’ lines. No photograph of either stone is in the case file.
+At Carter Cemetery (Carter Cove), Find a Grave’s **cemetery search** (not the individual memorial pages, which Cloudflare blocked from this workspace) lists **Dora Newman** (memorial 97907837) with **no dates** on the listing — matching the 1993 spelling under her maiden name — and **Thomas Stone** (97907931) as **1845–1925**, beside her in the same yard. Those listings are authored derivatives (**S117–S118**, claim **C129**), not vital records, but they align with the certificate and the copyists’ lines. The compiled yellcountyobits cemetery index (extract dated 29 January 2013), captured 30 October 2026, repeats the same two rows: **Newman, Dora | no dates | Carter Cove Cemetery, Plainview** and **Stone, Thomas | 1845 | 1925 | Carter Cove Cemetery, Plainview**. [C324] [C325] [S281] [S282] No photograph of either stone is in the case file.
 
-
-The *Yell County Journal* at Ola for late August and early September 1926 has not been read. Neither has the *Beattyville Enterprise* for the same weeks. An obituary, if one ran, would be the kin list this biography still lacks.
+The *Yell County Journal* at Ola for late August and early September 1926 has not been read. The only free *Beattyville Enterprise* issues on Internet Archive item `beatty` are six numbers from 1924, 1925, 1928, and 1932 — **1926 is not among them**. [C335] University of Kentucky’s film catalog lists 1909–1911, 1915, 1924–1925, 1928, and 1932 — again **no 1926**. [S284] Internet Archive Solr returned **zero** items for *Yell County Journal* 1926 and **zero** for a 1926 *Enterprise*. [C343] Genealogy Trails’ Yell obituaries landing has no Stone/Newnam/Dora 1926 hit. [C344] An obituary, if one ran, would be the kin list this biography still lacks. Retrieval path: Newspapers.com *Beattyville Enterprise*; UK microfilm **S 90-033**; Arkansas State Archives / a Danville or Plainview library for the *Yell County Journal*.
 
 She was fifty-five if she was the eight-year-old of District 59. The certificate called her fifty-eight. The child on sheet 6 is the better witness to her beginning than the grieving son was to a date he never saw.
 
 ---
 
+
+---
+
+## Chapter 7. After she was gone — Beattyville paper, Greene sweep, FAN
+
+Dora had been in the ground two years when the *Beattyville Enterprise* of 30 November 1928 printed a sick-list note: “Uncle Doll Newman has been very sick… not able to be out.” On 1 April 1932 the same paper said E. T. Sparks of Hazard was visiting Uncle Doll Newnam in town. Seventeen days later Elias T. Newnam died on his ninetieth birthday. Nickname, town, and lifespan are two independent identifiers and no contradiction: the man in those notes is **probable** her father. [C326] [C048] [S283]
+
+The six free issues do not name Dora Stone, Dora Newnam, or Samuel P. They do name a living Beattyville Newnam cluster that is **not** silently merged with her household. Rev. Luther Newnam appears as Christian Church pastor in March–April 1932; Lee marriage books 20–24 show him officiating at Beattyville from at least 24 November 1926 through 1933, including 6 April 1932 — **probable** the same minister, **not** Samuel (dead by 1910). [C327] [C342] [S295] Everett Newnam of Idamay planned two acres of cane in March 1932; the *Enterprise* of 14 December 1939 reported Everett Newnam, fifty, of Idamay, dead of an accidental pistol discharge on the Heidelberg road — **probable** the same man (name + Idamay). His three daughters are living and are not named here. [C328] [C341] [S291]
+
+On 15 March 1932, at Delvinta, George Botner married Clay Dunigan, twenty-three, of Idamay, son of R. C. Dunigan and Sirena Porter, to Ladona Newman, sixteen, of Delvinta, daughter of **Shelby Newman** and **Grace Brandenburg**. [C339] [S290] The 1 April paper said Clay and Ladonna had “quietly married last week.” Same names, same month: **probable** one couple. The bride is **not** Dora’s child — the license names other parents, and Dora had been dead five and a half years. [C340] Living descendants of that 1932 marriage are withheld.
+
+Carrie Newman (1898–1915) at Sandlin Cemetery, Ola, fails the same-person test against Dora. [C337] A 1906 Hopkinsville correspondent-column “newnam” and an 1902 Richmond quote from Will Newnam are other men in other counties. [C333] [C334]
+
+The Greene County, Missouri, 1900 hunt for a second Thomas A. Stone household is finished on free film. Enumeration districts 37 through 43 — every A-side and every B-side — have been read from NARA T623-855/856. The only Stone **head** in that band remains Thomas A., thirty-two, with Matilda and Gertrude, on ED 37 sheet 18A, 27 June 1900. He is still **not merged** with the 1920 Perry County widower. [C281] [C117]
+
+---
 ## The children, in brief
 
 Two children born to Dora and Samuel died before 1 June 1900. They have no names in any record yet read.
@@ -197,11 +229,79 @@ Charts of pedigree, descendants, and lifespan follow the plates. Dashed lines me
 - Where Dora was in April 1910 and January 1920. Newman in Kentucky, Arkansas and Missouri is closed. Sturgeon ED 99 as Newnam is closed. Stone in Kentucky is closed. Peebles in Kentucky 1910 is closed. Other surnames, and a wife listed only on a husband’s card, remain.
 - The original 1885 marriage image; Samuel’s death; the 1925 Arkansas death certificate of T. A. Stone; the Stone × Newnam license; Carter Cove photographs; the *Yell County Journal*.
 - Conflict #9: which 1870–1880 household is Samuel’s.
-- Conflict #4 and #11: which Missouri Thomas Stone, if any, is the 1920 Perry County widower. Greene Campbell ED **37** sheet **18 A** is Thomas A., 32, with Matilda — not merged. Springfield ED **39** sheets **6 through 31 B**, read on the original 856 reel, have no second Stone household. [C117] [C153]
+- Conflict #4 and #11: which Missouri Thomas Stone, if any, is the 1920 Perry County widower. Greene Campbell ED **37** sheet **18 A** is Thomas A., 32, with Matilda — not merged. Greene **37–43** (Springfield / Campbell) name columns are now closed: the only Stone **head** is Thomas A. on ED **37** sheet 18A. [C117] [C281]
 - Louisa P. Mays Brandenburg: not in 1910 Proctor; no 1951 Lee/Owsley death on SortedByName; Lee 1911–1929 B-index has no Louisa. [C154] [C157] [C159]
 - Conflict #13: the 1910 Sturgeon enumerator’s given name (surname **Treadway** on the JPEG).
 - Conflict #14: Larkin Mays, 8 June 1895 (court) versus 8 July 1895 (stone).
 - John H.; Mary Bunch’s death (Lee books and recent “Mary M. Bunch” obituaries do not match); Rissie’s Tennessee identification (SortedByName Newnam R-block is nil); the two unnamed children.
 - Whether witness **Link Mays** is Larkin T. Mays — still possible, not merged.
 
-The next chat should treat this book and `06-dossier.md` as the combined master, then work the open list. Do not reopen Peebles as a third marriage without a license. Do not print 1868 or 24 February 1906 as facts.
+
+- **B049:** 1926 *Beattyville Enterprise* and *Yell County Journal* still unread. IA Solr 0; UK film years omit 1926; six `beatty` issues omit 1926. [C335] [C343]
+- **B045 / B047:** Samuel P. probate film and M1509 draft cards unread.
+- **FAN residual:** Luther Newnam’s own death (B051); Shelby × Grace identity (B052); Everett’s deceased brothers (B053); Carter Cove stone photographs (B054).
+- Greene 37–43 Stone sweep is **closed**. Do not reopen Peebles as a third marriage without a license. Do not print 1868 or 24 February 1906 as facts.
+
+The next session starts with **B049**.
+
+---
+
+## Footnotes
+
+Numbered notes expand the claim/source tags in the narrative. Access labels: *image seen* · *transcription only* · *index only* · *catalog only* · *OCR text* · *not yet examined*. Click a URL when one exists.
+
+1. 1880 U.S. census, Lee County, Kentucky, ED 59, dwelling 46: Dora, daughter, 8. NARA T9-427; Internet Archive [`10thcensus0427unit`](https://archive.org/details/10thcensus0427unit). *Image seen.* **C003** **S010**. **PROVEN** as a census line.
+2. 1880 KY Soundex N-550 continuation: “Newnam, Dora D 8 Kentucky.” IA [`soundex1880ky055`](https://archive.org/details/soundex1880ky055). *Image seen.* **S001** **S002**.
+3. Arkansas State Board of Health, death certificate Dora Stone, Yell Co., noon 23 Aug 1926, cert. 1524, RD 676. Informant Coy Newnam. User-supplied image, prior session; *not re-opened this pass*. Index: [Ancestry 8771](https://www.ancestry.com/search/collections/8771/) / FS [1940760](https://www.familysearch.org/search/collection/1940760) — *not yet examined* from this VM. **C015** **S003**.
+4. Debi Houser Kendrick, Lee Marriage Book 2: Samuel P. Newnam × Dora Ella Newnam, 10 Dec 1885, at Doll Newnam’s. [USGenNet Book 2](https://usgennet.org/usa/ky/county/lee/marriage/marrbook2.html). *Transcription only.* **C010** **S004**. **PROVEN** as to the fact of marriage.
+5. 1900 U.S. census, Sturgeon precinct, Lee Co., KY, dwelling 67/67 (Kendrick transcription). [RootsWeb 1900 Sturgeon](https://sites.rootsweb.com/~kylee/census/1900/1900sturgeon.htm). *Transcription only* as used here. **C011** **S005**.
+6. Birth year August 1871: 1880 age 8 + 1885 age 14 + 1900 “Aug 1871.” Year **PROVEN** vs 1868. Day 11 **POSSIBLE** (certificate only). **C001** **C002**.
+7. Parents Elias Newnam & Mary Smallwood: certificate + 1880 household + wedding at Doll’s. **PROBABLE** (near GPS). **C004**.
+8. 1870 Travellers Rest, Elias household, no Dora. Original M593-494 p. 90. **C067** **S231**.
+9. WikiTree [Newnam-49](https://www.wikitree.com/wiki/Newnam-49): death “abt. 1930” **DISPROVED**; middle name Parriott lore. **S030**.
+10. 1910 Sturgeon ED 99 original, T624-478: P001/P002/McCoy/John H. b.1899 **nil**. IA [`13thcensus1910po478unit`](https://archive.org/details/13thcensus1910po478unit). **C088**.
+11. 1920 Beattyville ED 111 sh 6A: E.T. Newman, grandfather in C.B. Burke’s house. IA [`14thcensusofpopu586unit`](https://archive.org/details/14thcensusofpopu586unit). **C091** **S073**.
+12. 1920 Perry Co. AR: Tom A. Stone, 62, widower. **C050**. Identification with T. A. on the 1926 certificate **PROBABLE** (conflict #4, #11).
+13. 1900 Greene Co. MO ED 37 sh 18A: Thomas A. Stone, 32, Matilda, Gertrude. NARA T623-855; IA [`12thcensusofpopu855unit`](https://archive.org/details/12thcensusofpopu855unit). **C117**. **Not merged.**
+14. Greene ED 37–43 name-column sweep (A+B), including 41 ED 38 B-side crops in `sources/census/b040-ed38-bsides/`. **C281** **S267**. **PROVEN** negative for a second Stone head.
+15. Daniels & Cossey, Carter Cove, 5 Feb 1993: “Newman, Dora” no dates; “Stone, Thomas 1845–1925.” **S078**.
+16. yellcountyobits compiled index p. 64 / 83, captured 30 Oct 2026. [Newman block](https://www.yellcountyobits.org/yc_cemeteryindex/cemeterylist/cemeterylist64.html) · [Stone block](https://www.yellcountyobits.org/yc_cemeteryindex/cemeterylist/cemeterylist83.html). *Transcription only.* **C324** **C325** **S281** **S282**.
+17. Find a Grave cemetery listing: Dora Newman memorial [97907837](https://www.findagrave.com/memorial/97907837/dora-newman); Thomas Stone [97907931](https://www.findagrave.com/memorial/97907931/thomas-stone). Listing HTML seen; memorial biographies CF-blocked. **S117** **S118**.
+18. *Beattyville Enterprise*, IA item [`beatty`](https://archive.org/details/beatty): six issues only. OCR + selected page JPEGs in `sources/press/`. **C326–C332** **C335** **S283**.
+19. UK Microfilm Holdings item [65438](https://ukmfilms.omeka.net/items/show/65438): *Enterprise* years 1909–11, 1915, 1924–25, 1928, 1932. Film **S 90-033**. *Catalog only.* **S284**.
+20. *Hopkinsville Kentuckian*, 9 Aug 1906, p. 8. [LOC](https://www.loc.gov/resource/sn86069395/1906-08-09/ed-1/?sp=8). **C333** **S286**. **DISPROVED** vs Samuel P.
+21. *Richmond Climax*, 23 Apr 1902, p. 1. [LOC](https://www.loc.gov/resource/sn86069162/1902-04-23/ed-1/?sp=1). **C334** **S287**. **DISPROVED** vs Samuel P.
+22. Genealogy Trails Lee WWI draft transcript (1,126 cards). [GT Lee WWI](https://genealogytrails.com/ken/lee/ww1draft.html). Re-fetched 30 Oct 2026. **C336** **S285**.
+23. Lee Marriage Book 23: Clay Dunigan × Ladona Newman, 15 Mar 1932. [USGenNet Book 23](https://usgennet.org/usa/ky/county/lee/marriage/marrbook23.html). *Transcription only.* **C339** **S290**.
+24. Lee obituaries N: Everett Newnam, *Enterprise* 14 Dec 1939. [USGenNet n.html](https://usgennet.org/usa/ky/county/lee/obituaries/n.html#everettnewman). *Transcription only.* **C341** **S291**.
+25. IA Solr 30 Oct 2026: 0 items *Yell County Journal* 1926; 0 items title *Beattyville Enterprise* year 1926. **C343** **S293**.
+26. Genealogy Trails [Yell obituaries](https://genealogytrails.com/ark/yell/obits.html) landing, 30 Oct 2026: nil Stone/Newnam/Dora/1926. **C344** **S294**.
+27. Word biography bytes: SHA-256 `78cdcf44ad1700ee4a0b696215879e2e8485c2dfe794e1d918e64acc1d3d9280` (53,235 bytes). Copies in `book/` and `sources/authored/`. Drive search 0. **C338** **S289**.
+28. Coy × Letha Sullivan, 18 Feb 1917, Ola. **C027** **S024**. Prior session.
+29. NUMIDENT Pearl P. Jackson / Mary Magdalene Bunch naming Sam and Dora. **S006** **S007**. Prior.
+30. Lee Books 5–19: no Peebles; no Dora Newnam remarriage. [USGenNet marriages](https://usgennet.org/usa/ky/county/lee/marriage/). **C084** **S064**.
+
+---
+
+## Source index
+
+Working table of **saved local copies**. Full file list: [`../SOURCE-INDEX.md`](../SOURCE-INDEX.md) and [`../sources/SOURCE-INVENTORY.tsv`](../sources/SOURCE-INVENTORY.tsv) (331 files after this pass).
+
+| ID | Local file | Repository / URL | What it proves | Access |
+|---|---|---|---|---|
+| S003 | *(user image; not re-opened)* | AR Board of Health cert. 1524 | Death, parents, spouse, informant, burial | image seen (prior) |
+| S267 | `../sources/census/b040-ed38-bsides/` (41 PNGs) | [IA T623-855](https://archive.org/details/12thcensusofpopu855unit) | ED 38 B-sides nil Stone/Newnam (**C281**) | image seen |
+| S281 | `../sources/cemetery/yellcountyobits-cemeterylist64-newman-dora-2026-10-30.txt` | [yellcountyobits p.64](https://www.yellcountyobits.org/yc_cemeteryindex/cemeterylist/cemeterylist64.html) | Newman, Dora, no dates, Carter Cove | transcription only |
+| S282 | `../sources/cemetery/yellcountyobits-cemeterylist83-stone-2026-10-30.txt` | [yellcountyobits p.83](https://www.yellcountyobits.org/yc_cemeteryindex/cemeterylist/cemeterylist83.html) | Stone, Thomas, 1845–1925, Carter Cove | transcription only |
+| S283 | `../sources/press/beattyville-enterprise-ia-beatty-ocr-2026-10-30.txt` + leaf JPEGs | [IA `beatty`](https://archive.org/details/beatty) | Doll 1928/1932; FAN; no 1926 | OCR + selected images |
+| S284 | `../sources/press/beattyville-enterprise-uk-microfilm-2026-10-30.html` | [UK item 65438](https://ukmfilms.omeka.net/items/show/65438) | 1926 not in listed film years | catalog only |
+| S285 | `../sources/military/lee-wwi-genealogytrails-reget-2026-10-30.txt` | [GT Lee WWI](https://genealogytrails.com/ken/lee/ww1draft.html) | Nil Newnam/McCoy | transcription only |
+| S286 | `../sources/press/hopkinsville-kentuckian-1906-08-09-p8.jpg` | [LOC](https://www.loc.gov/resource/sn86069395/1906-08-09/ed-1/?sp=8) | Reject vs Samuel P. | image seen |
+| S287 | `../sources/press/richmond-climax-1902-04-23-p1.jpg` | [LOC](https://www.loc.gov/resource/sn86069162/1902-04-23/ed-1/?sp=1) | Will Newnam reject | image seen |
+| S289 | `../sources/authored/Dora-Ella-Newnam-Stone-A-Life-latest.docx` | Local Word export | Latest authored bio bytes | original bytes |
+| S290 | `../sources/marriages/lee-book23-clay-ladona-1932-extract-2026-10-30.txt` | [Book 23](https://usgennet.org/usa/ky/county/lee/marriage/marrbook23.html) | Clay × Ladona 15 Mar 1932 | transcription only |
+| S291 | `../sources/obituaries/lee-obits-n-everett-newnam-1939-extract-2026-10-30.txt` | [Obits N](https://usgennet.org/usa/ky/county/lee/obituaries/n.html#everettnewman) | Everett d. 13 Dec 1939 | transcription only |
+| S293 | `../sources/press/ia-yell-journal-1926-search-2026-10-30.json` | IA Solr | 0 hits for 1926 titles | index only |
+| S294 | `../sources/press/genealogytrails-yell-obits-landing-2026-10-30.html` | [GT Yell obits](https://genealogytrails.com/ark/yell/obits.html) | Nil on landing | transcription only |
+
+Embedded plates live in `plates/` and `../sources/census/`. Charts: [`../visuals/pedigree-dora.svg`](../visuals/pedigree-dora.svg), [`../visuals/timeline-dora.svg`](../visuals/timeline-dora.svg).
