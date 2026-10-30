@@ -777,3 +777,30 @@ Keep skipping unread S-415 John cards / Greene ED 37–41 / hh 85 until #26/#29 
 - MUST-FETCH all retrieved. Parent `bc-01a18bb4` identity only.
 - PR #26 evidence read from `origin/cursor/dora-locations-1900-death-8d03` after `git fetch` of that branch; working tree **not** edited.
 - No living-person research.
+
+
+---
+
+# Pass 39 filing note (30 Oct 2026, America/New_York)
+
+Nested report: `/tmp/dora-pass39/chat-review-pass39.md`. Catalog **63** / `hasMore: false`. NEW vs 62: `bc-9c0756fe` (this nested reviewer; empty when listed). PR **#26** HEAD `df9e4cce6410f66c7e1eed3aa61b38f7d94431e5` (Pass 56 committed; Pass 57 in flight on T623-855). PR **#29** then still OPEN CONFLICTING. **No** new independently image-backed P001 1900–1926 residence. Skip-reel held. Do **not** steal **C221–C268 / L245–L318 / S259–S260**.
+
+# Pass 40 filing note (30 Oct 2026, America/New_York)
+
+Nested report: `/tmp/dora-pass40/chat-review-pass40.md`. Catalog **64** / `hasMore: false` at that nested list. NEW vs 63: `bc-42eadea9-319d-533d-9395-742284b79ca4` (“B045 B047 free workarounds”) — transcript **empty**. PR **#29 MERGED** (`3c77377`). PR **#26** still `df9e4cc`, GitHub **CONFLICTING DIRTY**; Pass 57 uncommitted; highest committed **C268 / L318 / S260**. C249 on that branch is still labelled Stone — this case keeps **C338 Rhodes**. Hh **85** is now on `origin/main` via #29; this branch does **not** re-read it this pass. **No** new independently image-backed P001 1900–1926 residence. Nested Pass 40 reviewer `bc-58a9a05d` did not edit the case folder.
+
+# Pass 41 listing (this continuation, 30 Oct 2026, America/New_York)
+
+`list-cloud-agents` (`includeArchived: true`, limit 50 + offset 50) → **65** / `hasMore: false` / `totalMatched: 65`. NEW vs 64: `bc-58a9a05d-b921-5aed-826e-3c3a87f3f548` (Pass 40 nested reviewer, now IDLE). A further nested reviewer `bc-d60ec7c1-d58a-5ba7-90c8-e6ebb025101b` was spawned this continuation and is **not** in the 65-count. RUNNING at list time: this parent `bc-01a18bb4`; PR **#26** `bc-995d22ea`; ED5 `bc-0039b8bf`. `bc-42eadea9` now IDLE. **No** new independently image-backed P001 pin in the identity-level listing. Fold `bc-d60ec7c1` when it lands.
+
+# Pass 41 filing (later 30 Oct 2026, America/New_York) — catalog **67**
+
+`list-cloud-agents` (limit 200, offset 0) → **67** / `hasMore: false` / `totalMatched: 67`. NEW vs 65:
+
+| bcId | Name | Status | Note |
+|---|---|---|---|
+| `bc-d60ec7c1-d58a-5ba7-90c8-e6ebb025101b` | Review all Dora chats | IDLE | Nested reviewer spawned mid-Pass-41; identity-level listing only this pass |
+| `bc-d47797ef-e801-5f07-87e1-d67682056417` | Review all cloud chats | RUNNING | This nested reviewer; fold when it lands |
+
+RUNNING also: parent `bc-01a18bb4`; PR **#26** `bc-995d22ea`; ED5 `bc-0039b8bf`. **No** new independently image-backed P001 1900–1926 residence. Do **not** steal **C221–C268 / L245–L318 / S259–S260**. PR **#29** remains **MERGED**. This pass’s original-image work (1850 Owsley Gray pages; Madison 1860 name columns) is filed under **C424–C440 / L392–L400 / S380–S391 / DOC044–046**.
+

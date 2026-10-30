@@ -1,6 +1,6 @@
 # Source-image gallery: Dora Ella Newnam Stone
 
-Seventy-nine JPEG/PNG images captured from NARA microfilm (via Internet Archive) during this case. They are ordered by **the date of the census they record or index**, not by the date the film was scanned. Plates **1a–2c**, **7a–7c**, **55b–55c**, and the 1880 G-600 cards were added in passes 34–37.
+Eighty-three JPEG/PNG images captured from NARA microfilm (via Internet Archive) during this case. Plates **7g–7j** are the 1860 Owsley and 1880 Lee Gray originals added in passes 39–40. They are ordered by **the date of the census they record or index**, not by the date the film was scanned. Plates **1a–2c**, **7a–7c**, **55b–55c**, and the 1880 G-600 cards were added in passes 34–37.
 
 Soundex and Miracode cards sit with the census year they index, immediately after any original population schedules for that year.
 
@@ -35,6 +35,10 @@ Diplomatic transcriptions: [`08-transcriptions.md`](08-transcriptions.md). Citat
 | 7b | 1880 (index) | FAN | [G-600 — Caroline Gray, 44, Virginia, Lee ED 59 sheet 43](sources/soundex/ky1880-g600-p4780-caroline-gray-lee-ed59.jpg) |
 | 7c | 1880 (index) | Rejected same-name | [G-600 — William Gray, 45, Lewis County — not Lee](sources/soundex/ky1880-g600-p0667-william-gray-lewis-rejected.jpg) |
 | 7d | 1 Jun 1900 | FAN | [Sturgeon ED 52 sheet 5 B — William Gray, 53, dwelling 84](sources/census/1900-lee-ky-ed52-sh5b-hh84-william-gray.jpg) |
+| 7g | 12 Jul 1860 | FAN | [Owsley Page 64 — Silas Gray 46; William 13](sources/census/1860-owsley-p64-pdfp363-silas-gray.jpg) |
+| 7h | 14 Jul 1860 | FAN | [Owsley Page 67 — James Brandenburg 52; no Mary White](sources/census/1860-owsley-pdfp366-james-brandenburg.jpg) |
+| 7i | 1 Jun 1880 | FAN | [Lee ED 59 sheet 1 — William Gray 30; Hardin 3 son; next door John Newnam](sources/census/1880-lee-ky-ed59-sheet1-p726-william-gray.jpg) |
+| 7j | 10 Jun 1880 | FAN | [Lee ED 59 sheet 16 — Silas Gray 66; father N.C.; Levi 21](sources/census/1880-lee-ky-ed59-sheet16-p741-silas-gray.jpg) |
 | 8 | 13 Jun 1900 | Rejected same-name | [Douglas County, Missouri — Thomas and Nancy E. Stone](sources/census/1900-douglas-mo-ed159-stone-sheet.jpg) |
 | 9 | 13 Jun 1900 | Rejected same-name | [Douglas County Stone household (crop)](sources/census/1900-douglas-mo-ed159-stone-hh-crop.jpg) |
 | 10 | 1900 (index) | Rejected same-name | [Missouri S-350 — Thomas Stone, 44, Douglas County](sources/soundex/mo1900-s350-p1678-stone-thomas-44-douglas.jpg) |
@@ -953,4 +957,86 @@ Dwelling 48/49. Dora born Missouri, 7-6. Not P001.
 No confirmed Letha E., daughter, age 2.
 
 ![Bollinger ED 5 sheet 8 B](sources/census/1910-bollinger-ed5-sullivan-letha-e-dau2.png)
+
+## Pass 39–40 additions
+
+### 7g · 12 Jul 1860 · Owsley Page 64 — Silas Gray, 46, and William, 13
+
+**Role:** FAN (Silas-as-father of C332)  
+**File:** [`sources/census/1860-owsley-p64-pdfp363-silas-gray.jpg`](sources/census/1860-owsley-p64-pdfp363-silas-gray.jpg)  
+**Source:** S369 · C395 · C396 · C398 · DOC040
+
+Page No. 64, 12 July 1860, A.C. Gibson, post office Booneville. Dwelling **440/444**: Silas Gray, 46, farmer, realty 150 / personal 100; Minerva, 44; Eliza, 15, domestic; **William, 13**; Amelia, 9; Elihu, 8; John, 7; Margaret J., 5; Levi, 1. All Kentucky-born. This is the original that proves Silas is the 1928 father of William.
+
+![1860 Owsley Page 64 — Silas Gray](sources/census/1860-owsley-p64-pdfp363-silas-gray.jpg)
+
+Household crop:
+
+![1860 Silas household crop](sources/census/1860-owsley-pdfp363-silas-hh-crop.jpg)
+
+### 7h · 14 Jul 1860 · Owsley Page 67 — James Brandenburg, 52
+
+**Role:** FAN (1870 marriage house; negative for Mary White)  
+**File:** [`sources/census/1860-owsley-pdfp366-james-brandenburg.jpg`](sources/census/1860-owsley-pdfp366-james-brandenburg.jpg)  
+**Source:** S370 · C400 · C401 · DOC041
+
+Page No. 67, 14 July 1860, post office Proctor. Dwelling **458/462**: Jas Brandenburg, 52; Nancy, 43; William B., 16; James K.P., 14. **No Mary White** in this house.
+
+![1860 Owsley Page 67 — James Brandenburg](sources/census/1860-owsley-pdfp366-james-brandenburg.jpg)
+
+### 7i · 1 Jun 1880 · Lee ED 59 sheet 1 — William Gray, 30, Hardin labelled Son
+
+**Role:** FAN (C332 1880 household)  
+**File:** [`sources/census/1880-lee-ky-ed59-sheet1-p726-william-gray.jpg`](sources/census/1880-lee-ky-ed59-sheet1-p726-william-gray.jpg)  
+**Source:** S376 · C409 · C410 · C411 · DOC042
+
+Page No. 1, 1 June 1880, James J. Hampton. Dwelling **2/2**: Gray, William, 30, farmer; Mary J., 23, wife; Susan, 9, daughter; Sidney, 6, son; **Hardin, 3, son**; Robert, 2, son. Next door dwelling **3/3** is John Newnam (plate 3). Adult ages on this sheet are about three years young; do not average with conflict **#21**.
+
+![1880 ED 59 sheet 1 — William Gray](sources/census/1880-lee-ky-ed59-sheet1-p726-william-gray.jpg)
+
+Household crop:
+
+![1880 William household crop](sources/census/1880-lee-ky-ed59-sheet1-p726-william-hh-crop.jpg)
+
+### 7j · 10 Jun 1880 · Lee ED 59 sheet 16 — Silas Gray, 66, father born N.C.
+
+**Role:** FAN (same Silas as 1860/1870)  
+**File:** [`sources/census/1880-lee-ky-ed59-sheet16-p741-silas-gray.jpg`](sources/census/1880-lee-ky-ed59-sheet16-p741-silas-gray.jpg)  
+**Source:** S377 · C412 · C413 · C414 · DOC043
+
+Page No. 16, 10 June 1880. Dwelling **126/126**: Gray, Silas, 66, farmer, born Kentucky, father **N.C.**, mother Ky; Minerva, 60; Levi, 21. The 1880 G-600 Soundex miss for Silas-as-head is an index failure, not an absence.
+
+![1880 ED 59 sheet 16 — Silas Gray](sources/census/1880-lee-ky-ed59-sheet16-p741-silas-gray.jpg)
+
+## Pass 41 additions
+
+### 7k · 24 Aug 1850 · Owsley 289B — Thomas Gray, 47 (not Silas)
+
+**Role:** FAN (negative control)  
+**File:** [`sources/census/1850-owsley-pdfp370-thomas-gray.jpg`](sources/census/1850-owsley-pdfp370-thomas-gray.jpg)  
+**Source:** S382 · C425 · C435 · DOC044
+
+Enumerator page 20, 24 August 1850, Luther Bravener. Dwelling **168/168**: Thomas Gray, 47; Lucy, 45; Thomas, 17; Sarah, 5. This is the indexed 289B Gray house. It is not Silas.
+
+![1850 Owsley 289B — Thomas Gray](sources/census/1850-owsley-pdfp370-thomas-gray.jpg)
+
+### 7l · 1850 · Owsley 306A — James Gray, 32, and a different William, 12
+
+**Role:** FAN (negative control)  
+**File:** [`sources/census/1850-owsley-pdfp405-james-gray.jpg`](sources/census/1850-owsley-pdfp405-james-gray.jpg)  
+**Source:** S383 · C426 · DOC045
+
+Dwelling **403/403**: James Gray, 32; Sally, 38; Angeline, 14; William, 12. William twelve is not the boy who is thirteen in Silas’s 1860 house.
+
+![1850 Owsley 306A — James Gray](sources/census/1850-owsley-pdfp405-james-gray.jpg)
+
+### 7m · 1850 · Owsley 314B — John Gray, 40, and Charles Gray, 26, with Manerva
+
+**Role:** FAN (negative control; Charles DISPROVED as Silas)  
+**File:** [`sources/census/1850-owsley-pdfp420-john-charles-gray.jpg`](sources/census/1850-owsley-pdfp420-john-charles-gray.jpg)  
+**Source:** S384 · C427 · C428 · C436 · DOC046
+
+Dwelling **571**: John Gray, 40, and Dolly, 37. Dwelling **575**: Charles Gray, 26, farmer, and Manerva, 30, with Polly, Betsy, Nancy, Abel, and Eliza — no William aged about three. Charles is not Silas.
+
+![1850 Owsley 314B — John and Charles Gray](sources/census/1850-owsley-pdfp420-john-charles-gray.jpg)
 

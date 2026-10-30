@@ -6,6 +6,12 @@ Place as it was *at the date*; modern equivalent in brackets. Flag impossibiliti
 |---|---|---|---|---|---|
 | 18 Apr 1842 | — | Father Elias T. Newnam born | Clark Co., KY | C040 | S011 prior |
 | Apr 1842 / 22 Apr 1842 | — | Mother Mary Ann Smallwood born | KY (Owsley-area) | C041 | S032 prior |
+| **24 Aug 1850** | — | FAN (negative): Owsley stamped **289B** original dw **168/168**: **Thomas Gray** 47 + **Lucy** 45 + Thomas 17 + Sarah 5. **Not** Silas 36 + William ~3 | Owsley Co., KY | C425 C435 | S382 |
+| **1850 (306A)** | — | FAN (negative): Owsley stamped **306A** original dw **403/403**: **James Gray** 32 + Sally 38 + Angeline 14 + **William 12**. **Not** C332 | Owsley Co., KY | C426 | S383 |
+| **1850 (314B)** | — | FAN (negative): Owsley stamped **314B** original dw **571** **John Gray** 40 + Dolly 37; dw **575** **Charles Gray** 26 + **Manerva** 30 (no William ~3). Charles **DISPROVED** as Silas. Silas-as-head **nil** in Owsley 1850 on this reel | Owsley Co., KY | C427 C428 C429 C436 | S384 |
+| **12 Jul 1860** | — | FAN: Owsley Page **64** original, PO Booneville, dw **440/444**: **Gray, Silas** 46 + **Minerva** 44 + Eliza 15 + **William 13** + Amelia 9 + Elihu 8 + John 7 + Margaret J. 5 + Levi 1 | Booneville PO, Owsley Co., KY | C395 C396 C397 C398 | S369 |
+| **14 Jul 1860** | — | FAN: Owsley Page **67** original, PO Proctor, dw **458/462**: **Brandenburg, Jas.** 52 + **Nancy** 43 + William B. 16 + James K.P. 14. **No Mary White** in the house | Proctor PO, Owsley Co., KY | C400 C401 | S370 |
+
 | 16 Aug 1862 – 16 Sep 1863 | — | Elias, bugler, Co. C 14th KY Cav. | Mt. Sterling / Myrtleville, KY | C042 | S086 S087 prior |
 | **17 Jun 1870** (original; Kendrick “7 Jun” withdrawn) | — | Elias & Mary farming, both **26**, with William D 11, Malissa D 6, Frances 3, Mary 1 (**Dora not yet born**). Same precinct: Cordy Pendergrass hh **118/115**, **Louisa 9**. Next dw Isaac Newman 37 | Travellers Rest, Owsley Co., KY | C067 C375 C376 C043 C136 | S355 S048 S127 |
 | **29 Jun 1870** | — | **Samuel Newman, 1, in John 50 & Elizabeth 25’s Sturgeon hh 19** (PROBABLE natal home of P002) | Sturgeon Precinct, Lee Co., KY (PO Proctor) | C062 | S042 |
@@ -13,7 +19,9 @@ Place as it was *at the date*; modern equivalent in brackets. Flag impossibiliti
 | **Aug 1871 (day 11 POSSIBLE)** | 0 | **Dora born** | Lee Co., KY (PROBABLE) | C001 | S005 S004 S010 |
 | 11 Aug 1868 (DC) | — | Alternate birth — **inconsistent with 1880 age 8 and 1900 Aug 1871** | — | C002 | S003 | **DISPROVED as year** |
 | 5 Aug 1874 | ~3 | Sister Katty/Catharine registered | Lee Co., KY | C044 | S010b prior; S010 1880 age 6 |
+| **1 Jun 1880 (enum. 1 Jun)** | — | FAN: ED 59 sh **1** dw **2/2** original: **Gray, William** 30 farmer + **Mary J.** 23 + Susan 9 + Sidney 6 + **Hardin 3 son** + Robert 2. **Next door** to John Newnam dw 3. Same couple as C332 (**C410**) | Lee Co. KY ED 59 sheet 1 dw 2 | C409 C410 C411 C421 | S376 |
 | **1 Jun 1880 (enum. 1 Jun)** | — | **Samuel Newnam, 11, son of John 69 & Mary 57** (PROBABLE = P002); Mary b. KY. Sheet 2 Samuel 13 is McQueary, not Newnam | Lee Co. KY ED 59 sheet 1 dw 3 | C060 C061 C063 | S040 S044 |
+| **10 Jun 1880** | — | FAN: ED 59 sh **16** dw **126/126** original: **Gray, Silas** 66 farmer (father **N.C.**) + **Minerva** 60 + **Levi** 21. Same household as 1860/1870 Silas (**C413**) | Lee Co. KY ED 59 sheet 16 dw 126 | C412 C413 C414 | S377 |
 | **1 Jun 1880 (enum. 5 Jun)** | **8** | **In father’s house: Dora, dau., 8, KY** | Lee Co. KY ED 59 sheet 6 dw 46 | C003 | S010 |
 | 1880 (Booneville ED 79) | — | Louisa Pendergrass **18, single**, still in Cordy’s house; **Larkin T. MAYSE** laborer **20, single**, McPhearson hh — both still unmarried | Booneville, Owsley Co., KY | C136 C137 | S128 |
 | 29 Dec 1881 | 10 | Sister Malissa D. m. Moses Estes at Elias Newnam’s | Lee Co., KY | C045 | S004 book |
@@ -35,7 +43,7 @@ Place as it was *at the date*; modern equivalent in brackets. Flag impossibiliti
 | **1 Jun 1900** | — | FAN: **Eliza MAYS** hh **26/26**, b. Dec 1861, wd 4-4; children Whitly (Jun 1884), Martha (Nov 1886), Ida (Oct 1894); hired hand John Brandenburgh (Mar 1882). **= Louisa P. Mays** | Sturgeon precinct, Lee Co., KY | C161 C162 C163 | S142 |
 | **24 Jun 1870** | — | FAN: Proctor dw **70/70** (original): **Brandenburg, James** 62 + **Nancy** 54 + William 26 + Arnold, Martha 15 TN + **White, Mary 16** domestic servant + **Gray, William 23** farm labourer. Two months later this couple married at that house | Proctor Precinct, Lee Co., KY | C347 C356 C349 | S340 S334 S317 |
 | **18 Aug 1870** | — | FAN: **William Gray** × **Mary Jane WHITE** at James Brandenburg’s; groom parents b. Madison Co. | Lee Co., KY | C330 C332 | S317 S318 |
-| **28 Jun 1870** | — | FAN: Sturgeon dw **13/13** (original): **Gray, Silas** 54 + **Minerva 48 F** + Amelia 21 + Elihu 19; 337a John 18, Margret 16, Levi 14. **William not in this house.** POSSIBLE 1928 father; **not merged** | Sturgeon Precinct, Lee Co., KY | C348 C357 C358 | S341 S335 |
+| **28 Jun 1870** | — | FAN: Sturgeon dw **13/13** (original): **Gray, Silas** 54 + **Minerva 48 F** + Amelia 21 + Elihu 19; 337a John 18, Margret 16, Levi 14. **William not in this house** (he is at Brandenburg’s). **Same household as 1860 Silas; father of C332 PROVEN** | Sturgeon Precinct, Lee Co., KY | C348 C357 C358 C397 C398 | S341 S335 S369 |
 | **27 Mar 1873** | — | FAN: John Farmer × Margret Jane Gray **at Silas Gray’s** | Lee Co., KY | C340 C351 | S331 |
 | **1 Jun 1900** | — | FAN: **Hardin GRAY** + **Vestie** + Rosco, hh **85/85**. **Louisa not in the house.** Next door William Gray (May 1847 age **53**, not 84) + Elizabeth Brandenburg MIL | Sturgeon precinct, Lee Co., KY | C191 C326 C332 | S163 S315 |
 | **5 Oct 1928** | — | FAN: **William Gray** d. Delvinta, 84y 5m 2d, b. 2 May 1844, widow of Mary J., father **Silas Gray** (extract). Stone 3 May 1844–4 Oct 1928 = same man at one-day offsets (conflict **#21**) | Lee Co., KY | C328 C332 | S313 S166 |

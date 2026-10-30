@@ -915,3 +915,165 @@ Pass 2: Confirms Soundex C343. **No** William ~33 / Hardin ~4.
 
 ### Facts extracted → claim IDs
 - Caroline original → C390 C343
+
+## DOC040 — 1860 U.S. census, Owsley Co. KY Page No. 64, Silas Gray (original)
+
+- Image: `sources/census/1860-owsley-p64-pdfp363-silas-gray.jpg` SHA-256 `cc325121a0704014e220d8300a6e2ae7cda9a1f4386c1b0bd2a0192810d7ca1f` (2781×3597)
+- Household crop: `sources/census/1860-owsley-pdfp363-silas-hh-crop.jpg` SHA-256 `42373b3169812100a154b7144c6861e7e00a37cebf360f18c3a9fb8e39cb1fcb`
+- Header: Page No. **64**, County of **Owsley**, **12th** day of **July** 1860, **A.C. Gibson** Asst Marshal, Post Office **Booneville**. Extracted from IA `populationschedu391unit` PDF page **363**. **Image seen.**
+
+### Diplomatic (lines 24–32)
+
+> **440 / 444** · **Silas Gray** · **46** · M · Farmer · realty **150** · personal **100**  
+> — **Minerva** · **44** · F  
+> — **Eliza** · **15** · F · Domst  
+> — **William** · **13** · M  
+> — **Amelia** · **9** · F  
+> — **Elihu** · **8** · M  
+> — **John** · **7** · M  
+> — **Margaret J.** · **5** · F  
+> — **Levi** · **1** · M  
+> **441 / 445** · **Henry Smith** · **35** · M · Farmer · 1000 / 500
+
+Pass 2 (from household crop, not the Kendrick transcript): given names and ages confirmed. **Margaret J.** is visible (Kendrick’s middle initial stands). Realty/personal **150 / 100** (not 1500). No relationship column on this schedule.
+
+### Facts extracted → claim IDs
+- Silas 1860 original → C395
+- William 13 in the house → C396 C398
+
+## DOC041 — 1860 U.S. census, Owsley Co. KY Page No. 67, James Brandenburg (original)
+
+- Image: `sources/census/1860-owsley-pdfp366-james-brandenburg.jpg` SHA-256 `30183b9158fb6ab85e9a6dd5e8bf401ffb2c745dfc4db8deca954736dd5219ea` (2839×3604)
+- Household crop: `sources/census/1860-owsley-pdfp366-james-hh-crop.jpg` SHA-256 `1668d12ac2b88127619134292b7de8b22c1df8e64c37996b45199564dfd6d61e`
+- Header: Page No. **67**, County of **Owsley**, **14th** day of **July** 1860, **A.C. Gibson**, Post Office **Proctor**, stamped **363**. Extracted from PDF page **366**. **Image seen.**
+
+### Diplomatic (lines 19–24)
+
+> **458 / 462** · **Jas Brandenburg** · **52** · M · Farmer · **2500** / **1000**  
+> — **Nancy** · **43** · F  
+> — **William B.** · **16** · M · Farmer  
+> — **James K.P.** · **14** · M  
+> **Mary A. Day** · **17** · F · Domst G · Tenn  
+> **Sarah Frily** · **14** · F  
+> **459 / 463** · **C.C. Brandenburg** · **22** · M · Farmer · personal **200**  
+> — **Sarah G.** · **19** · F
+
+Pass 2: **No Mary White** in this house. James’s 1870 servant is not here in 1860.
+
+### Facts extracted → claim IDs
+- James 1860 original → C400 C401
+
+## DOC042 — 1880 U.S. census, Lee Co. KY ED 59 Page No. 1, William Gray (original)
+
+- Image: `sources/census/1880-lee-ky-ed59-sheet1-p726-william-gray.jpg` SHA-256 `3a879a81b4a8f537f60b816ed50a47d2574ad2f0844627efc2bfeabc90c75d11` (2882×3234)
+- Household crop: `sources/census/1880-lee-ky-ed59-sheet1-p726-william-hh-crop.jpg` SHA-256 `837308227abc9082cbe99c0e43a7c8e8588fd9472171999ad42fedbb604047ed` (2997×459)
+- Full-width rows: `sources/census/1880-lee-ky-ed59-sheet1-p726-william-rows.jpg` SHA-256 `a05aef7c7739583502253e1da7ae2b9d88afd09380070e8c4c3b60c216a4fd72`
+- Header: Page No. **1**, Enumeration Dist. No. **59**, District No. 59, County of **Lee**, State of Kentucky, enumerated **1st** day of June 1880, **James J. Hampton**. Extracted from IA `10thcensus0427unit` PDF page **726**. **Image seen.**
+
+### Diplomatic (lines 7–12)
+
+> **2 / 2** · **Gray, William** · W · M · **30** · Farmer · Kentucky · Ky · Ky  
+> — **Mary J.** · W · F · **23** · Wife · Keeping house · Kentucky · Ky · Ky  
+> — **Susan** · W · F · **9** · Daughter · Kentucky · Ky · Ky  
+> — **Sidney** · W · M · **6** · Son · Kentucky · Ky · Ky  
+> — **Hardin** · W · M · **3** · Son · Kentucky · Ky · Ky  
+> — **Robert** · W · M · **2** · Son · Kentucky · Ky · Ky  
+> **3 / 3** · **Newnam, John** · W · M · **69** · Farmer
+
+Pass 2 (from 130–150 dpi household and full-width rows, not the 50-dpi Pass 38 names crop): the low-res “Lucy 6 / Hardin 4” reading is **withdrawn**. The names are **Susan 9**, **Sidney 6**, **Hardin 3**, **Robert 2**. Relationship column prints **Son** on Hardin.
+
+### Facts extracted → claim IDs
+- William 1880 original → C409 C410
+- Hardin labelled Son → C411 C333
+
+## DOC043 — 1880 U.S. census, Lee Co. KY ED 59 Page No. 16, Silas Gray (original)
+
+- Image: `sources/census/1880-lee-ky-ed59-sheet16-p741-silas-gray.jpg` SHA-256 `e91d77ec57a31fc324aa22f69ae23de4fcfa714f0a0711e07e25220a7ec490e0` (2882×3245)
+- Household crop: `sources/census/1880-lee-ky-ed59-sheet16-p741-silas-hh-crop.jpg` SHA-256 `bc8f6c216b4568bd346ed06e5e4baade4f833f0c8f6f2da3d941081ef2b9eb03` (2536×325)
+- Header: Page No. **16**, Enumeration Dist. No. **59**, County of **Lee**, enumerated **10th** day of June 1880, **James J. Hampton**. Extracted from PDF page **741**. **Image seen.**
+
+### Diplomatic (dw 126)
+
+> **126 / 126** · **Gray, Silas** · W · M · **66** · Farmer · Kentucky · **N.C.** · Ky  
+> — **Minerva** · W · F · **60** · Wife · Keeping house · Kentucky · Ky · Ky  
+> — **Levi** · W · M · **21** · Son · Works on farm · Kentucky · Ky · Ky
+
+Pass 2: father-of-Silas column is **N.C.**, not a second Kentucky. Levi 21 is the only child still at home.
+
+### Facts extracted → claim IDs
+- Silas 1880 original → C412 C413 C414
+
+## DOC044 — 1850 U.S. census, Owsley Co. KY stamped 289B, Thomas Gray (original)
+
+- Image: `sources/census/1850-owsley-pdfp370-thomas-gray.jpg` SHA-256 `6d8bb4b2117f84647efd1d10437f462a67ccb3385f62ee6845aea0db1eee5356` (2834×3925)
+- Household crop: `sources/census/1850-owsley-pdfp370-thomas-gray-hh.jpg` SHA-256 `1c4e7a93b0dd178ab7848b7dd68159203efb61d6727323bedba35e8b98c6cb87`
+- Header: County of **Owsley**, **24th** day of **August** 1850, **Luther Bravener** Asst Marshal, enumerator page **20**. Extracted from IA `populationschedu0216unix` PDF page **370**. B-side (no printed NARA stamp). Mapped as stamped **289B** from PDF **365** = **287A**. **Image seen.**
+
+### Diplomatic (lines 3–8)
+
+> **168 / 168** · **Thomas Gray** · **47** · M · **Gileon Smith** `[?]` · realty **$200[0?]** · b. Kentucky (ditto)  
+> — **Lucy Gray** · **45** · F  
+> — **Thomas Gray** · **17** · M · Farmer  
+> — **Sarah Gray** · **5** · F  
+> — **Michael Scott** · **20** · M · Laborer  
+> — **John Hortman** · **21** · M · ditto  
+> **169 / 169** · **Garrard Hezomimus** `[?]` · **62** · M · Farmer · $600 · Virginia
+
+Pass 2 (from household crop): wife is **Lucy**, not Logan (name-column first read withdrawn). Occupation of the head is two words; **Silver Smith** is a possible alternative to **Gileon Smith** — claim on occupation capped at **POSSIBLE**. No William ~3.
+
+### Facts extracted → claim IDs
+- Thomas Gray 289B original → C425 C435
+
+## DOC045 — 1850 U.S. census, Owsley Co. KY stamped 306A, James Gray (original)
+
+- Image: `sources/census/1850-owsley-pdfp405-james-gray.jpg` SHA-256 `3667b99dd4810f255c6c770b17e269c3d75ace7670c28f83c04c26cd3acf6227` (2941×3879)
+- Household crop: `sources/census/1850-owsley-pdfp405-james-gray-hh.jpg` SHA-256 `87b0cc109d1305f07132cd1e661ad0f187ba88fd232169ff92e973d3dbf1dcc1`
+- Mapping: PDF **403** printed stamp **305** ⇒ PDF **405** = stamped **306A**. Extracted from PDF page **405**. **Image seen.**
+
+### Diplomatic (lines 40–42)
+
+> **403 / 403** · **James Gray** · **32** · M · Farmer · b. Ky (ditto)  
+> — **Sally** · **38** · F  
+> — **Angeline** · **14** · F  
+> — **William** · **12** · M
+
+Pass 2: William **12**, not ~3. Page-foot tally **22 m / 2 m Col’d** visible; not used as identity evidence.
+
+### Facts extracted → claim IDs
+- James Gray 306A original → C426
+
+## DOC046 — 1850 U.S. census, Owsley Co. KY stamped 314B, John Gray and Charles Gray (original)
+
+- Image: `sources/census/1850-owsley-pdfp420-john-charles-gray.jpg` SHA-256 `63e203b29a5960c42aee4635f9adf97694e55d91cac5d3f5c9bdb81ec088266c` (2861×3859)
+- John crop: `sources/census/1850-owsley-pdfp420-john-gray-hh.jpg` SHA-256 `d3bba78d9a7b8fe04ef38ac4f5a11dba872570bb4c3ef6e35c018ec66e77492d`
+- Charles crop: `sources/census/1850-owsley-pdfp420-charles-gray-hh.jpg` SHA-256 `7c4663b7d88db66905ee9b8c7a7152056247c059e576b2ecb3476ceaa86d638c`
+- Header: enumerator page **71**, County of **Owsley**. B-side after PDF **415** stamp **312** ⇒ stamped **314B**. **Image seen.**
+
+### Diplomatic — John (dw 571)
+
+> **571 / 571** · **John Gray** · **40** · M · Farmer · **$100** · Ky  
+> — **Dolly Gray** · **37** · F  
+> — **Lucinda** · **15** · F  
+> — **America** · **12** · F  
+> — **Ann[?]** · **8** · M  
+> — **John** · **5** · M  
+> — **Thursday** · **3** · F  
+> — **Greenberry Peters** · **30** · M · Laborer  
+> — **Polly Peters** · **22** · F · Tennessee
+
+### Diplomatic — Charles (dw 575)
+
+> **575 / 575** · **Charles Gray** · **26** · M · Farmer · **$150**  
+> — **Manerva** · **30** · F  
+> — **Polly Gray** · **14** · F  
+> — **Betsy Gray** · **12** · F  
+> — **Nancy** · **10** · F  
+> — **Abel** · **1** · M  
+> — **Eliza** · **1** · F
+
+Pass 2: Charles is **not** a misread of Silas (initial **Ch** vs **Si**; age 26 vs ~36). No child William ~3. John not merged with 1860 John 49 + Mary.
+
+### Facts extracted → claim IDs
+- John Gray 314B → C427
+- Charles + Manerva 314B → C428 C436
+

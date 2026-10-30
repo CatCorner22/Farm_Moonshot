@@ -1,0 +1,767 @@
+Owsley County, Kentucky:  1860 census
+
+Transcribed and Submitted to the KyGenWeb by: Janlyn Loomer
+****************************************************************************
+CENSUS KEY
+
+Household number
+Family number
+Name
+Age
+Sex
+Color if other than white
+Occupation
+Value of real estate
+Value of personal estate
+Place of birth
+X If married in the last year
+****************************************************************************
+
+602-611  ABNER, William       26   M   Farmer      $1500    $500      KY     
+
+603-612  WRIGHT, Elisha       59   M   Farmer       --      $50       NC
+                 Anna         57   F                                  GA
+                 Lewis H.     20   M   Farmer       --      $200      KY
+                 Hamilton W.  18   M   Farmer       --      $200      KY
+                 Nancy J.      8   F   W                              KY
+
+604-613  JOHNSON, James       33   M   Stone Mason  --      --        Va
+                  Hamilton J. 13   M                                  Ky
+                 Jerome L.    10   M                                  Ky
+         CIPHERS, Thomas      27   M    Farm Laboror --     $225      Va
+
+605-614  SPENCER, Alexander   36   M   Farmer      $600     $250      Ky
+                  Emily       33   F                                  Ky
+                  Goolman     13   M                                  Ky
+                  Alvin       10   M                                  Ky
+                  Jacob        8   M                                  Ky
+                  Syrena       6   F                                  Ky
+                  Sarah A.     3   F                                  Ky
+
+606-615  CREECH, E.G.         23   M   Merchant    --       $800      Va
+
+607-616  LUTES, B.N.          30   M   Farmer       --      $600      Ky
+                Evaline       30   F                                  Ky
+         TRIMBLE, Mary        65   F   Widow Seamstress               Ky
+
+608-617  LUTES, Jas. H.       23   M   Farmer       --      $200      Ky
+                Caroline      17   F                                  NC
+                Bluford        2   M                                  Ky
+
+609-618  LUTES, John          64   M   Farmer      $800     $800      Md
+                Priscilla     60   F                                  Ky
+                Joseph N.     21   M   Farmer                         Ky
+                William       17   M   Farmer                         Ky
+
+610-619  LUTES, Christopher   26   M   Farmer       $400    $300      Ky
+                Lucinda       24   F                                  Ky
+                Frances        3   F                                  Ky
+                Simpson        1   M                                  Ky
+
+611-620  ROBERTS, John        22   M   Farmer       --      --        Ky
+                  Furby       20   F                                  Ky
+                  Eliza Ann    1   F                                  Ky
+
+612-621  LUTES, Charles       33   M   Farmer      $400     $300      Ky
+                Lucinda       33   F                                  Ky
+                Nancy         13   F                                  Ky
+
+613-622  CREECH, Enoch        26   M   Farmer      $800     $500      Va
+                 Arshula Ann  21   F                                  Va
+                 Martha        5   F                                  Va
+                 Elijah        3   M                                  Va
+                 Mary          2   F                                  Ky
+                 James      6/12   M                                  Ky
+
+614-623  LUCAS, Pleasant      29   M   Farmer      $300     $200      Va
+                Elendar       24   F                                  Va
+                William        2   M                                  Ky
+                Alexander   6/12   M                                  Ky
+         MARTIN, Nimrod       17   M   Farmer                         Va
+         CREECH, Alexander    21   M   School Teacher                 Va
+
+615-624  LUCAS, Goolman       38   M   Farmer       $900    $800      Va
+                Mary          38   F   Consort                        Va
+                Jesse         18   M   Farmer                         Va
+                John F.       16   M   Farmer                         Va
+                Mary          14   F                                  Ky
+                Nancy         13   F                                  Va
+                Sarah         10   F                                  Va
+                Robert         8   M                                  Va
+                Elendar        6   F                                  Ky
+                Anna           2   F                                  Ky
+         LUTES, John          11   M                                  Ky
+         LUTES, Samuel         8   M                                  Ky
+         LUTES, Sarah          5   F                                  Ky
+         LUTES, William        3   M                                  Ky
+         LUTES, Curtis         1   M                                  Ky
+
+616-625  SANDERS, Susan       49   F   Widow Farmer $1000   $100      NC
+                  Joseph      18   M   Black Smith                    NC
+                  Cintha      14   F                                  Va
+                  Hiram       12   M                                  Va
+                  Sarah        8   F                                  Ky
+
+617-626  GUM, W.B.            45   M   Farmer      --       $100      Ky
+              Lucinda         45   F                                  Ky
+              Mitchell        18   M   Farmer                         Ky
+              John P.         15   M   Farmer                         Ky
+              Luallen          8   M                                  Ky
+              Jane             4   F                                  Ky
+              Lewis            6   M                                  Ky
+              Buckhanan        2   M                                  Ky
+              Abraham          1   M                                  Ky
+
+618-627  BRYANT, Simon        35   M   Farmer       --      $50       Ky
+                 Lucinda      18   F                                  Ky
+                 Henry S       2   M                                  Ky
+                 James E.   1/12   M                                  Ky
+
+619-628  HATTEN, William      50   M   Farmer      $500     $100      Ky
+                 Agnes        60   F                                  Ky
+                 William      13   M                                  Ky
+
+620-629  ARNOLD, L.D.         40   M   Farmer       --      $100      Va
+                 Mary         41   F                                  Va
+                 James        19   M   Farmer                         Va
+                 William      18   M   Farmer                         Va
+                 Newton       16   M   Farmer                         Va
+                 Amanda       14   F                                  Va
+                 George       11   M                                  Va
+                 Sarah         9   F                                  Va
+                 Harriet       7   F                                  Va
+                 Carter        5   M                                  Va
+                 Susan         3   F                                  Va
+
+621-630  LUCAS, William       47   M   Farmer      $800     $300      Va
+                Catherine     47   F                                  Tn
+                Samuel        21   M   Farmer                         Va
+                Mary          19   F   Domst.                         Va
+                Nancy         17   F   Domst.                         Va
+                Catherine     14   F                                  Va
+                William       13   M                                  Va
+                Campbell       9   M                                  Va
+                Elizabeth      7   F                                  Va
+                Green          4   M                                  Ky
+
+622 631  CALDWELL, Freeland   25   M   Farmer       --      $175      NC
+                   Elizabeth  25   F                                  NC
+                   William S.  2   M                                  Ky
+                   Thomas J.   1   M                                  Ky
+
+623-632  SPENCER, Goolsman    33   M   Farmer       $1000   $1600     Va
+                  Phebe Ann   27   F                                  Va
+                  Jacob C.    16   M   Farmer                         Ky
+                  Sarah A.    13   F                                  Ky
+                  Matilda     11   F                                  Ky
+                  Elizabeth    9   F                                  Ky
+                  Moses        7   M                                  Ky
+                  William      6   M                                  Ky
+                  Phebe        4   F                                  Ky
+
+624-633  THOMPSON, Alfred     49   M   Farmer      $600     $300      Va     
+                   Mary       47   F                                  Va
+                   Jackson    21   M   Farmer                         Va
+                   Sylvanus   16   M   Farmer                         Va
+                   William    14   M                                  Va
+         RUSSEL, George       52   M   Potter                         NC
+
+625-634  MARSHALL, William N. 38   M   Farmer      -        $40       NC      
+                   Sarah E.   27   F                                  Va
+                   Anna       10   F                                  Va
+                   Martha      8   F                                  Va
+                   Franklin    6   M                                  Va
+                   Mary        4   F                                  Ky
+                   Alfred   3/12   M                                  Ky
+
+626-635  MARSHALL, David      53   M   Farmer       -       -         Va     
+                   Charlotta  54   F                                  NC
+                   Nancy      22   F   Domst.                         NC
+                   Elly       20   F   Domst.                         NC
+                   Martha     18   F   Domst.                         NC
+                   Henry      15   M   Farmer                         NC
+
+627-636  MANN, John           61   M   Farmer      $800     $300      Ky
+               Patsy          59   F                                  Ky
+               Samuel         33   M   Farmer      -        $150      Ky
+               Jackson        28   M   Farmer      $200     $100      Ia
+               Joseph         26   M   Farmer      -        -         Ky
+               Felix          24   M   Farmer      -        -         Ky
+               Priscilla      24   F   Domst.                         Ky
+               William        23   M   Farmer      -        -         Ky
+               James          22   M   Farmer      -        -         Ky
+
+628-637  SNOWDEN, G.B.        37   M   Farmer       $2000   $700      Ky    
+                  Amelia      34   F                                  Va
+                  John M.     10   M                                  Ky
+                  Ameliann     5   F                                  Ky
+                  Greenberry   4   M                                  Ky
+                  Millard F.   3   M                                  Ky
+                  Marybell  2/12   F                                  Ky
+
+629-638  SNOWDON, David       73   M   Farmer      $200     $200    Penn  
+                  Margaret    67   F                                  Ky
+
+630-639  SNOWDON, James       35   M   Farmer      $1600    $200      Ky   
+                  Lucy        27   F                                  Ky
+                  Margaret     2   F                                  Ky
+                  Cornelius 1/12   M                                  Ky
+
+631-640  MCGUIRE, James       55   M   Farmer      $4000    $2500     Ky  
+                  Eviline     44   F                                  Ky
+                  Felix       20   M   Farmer                         Ky
+                  Simpson     17   M   Farmer                         Ky
+                  Caroline    15   F   Domst.                         Ky
+                  Fletcher    12   M                                  Ky
+                  Bascum      10   M                                  Ky
+                  Elandar      8   F                                  Ky
+                  Louiza       5   F                                  Ky
+                  Cashius      3   M                                  Ky
+                  Brutas       3   M                                  Ky
+
+632-641  GILBERT, Aquilla     77   M   Farmer      -        $60       Ky     
+                  Susan       40   F                                  Ky
+                  John W.     20   M   Farmer                         Ky
+                  Henry F.    16   M   Farmer                         Ky
+                  Francis M.  13   M                                  Ky
+                  Patsey      10   F                                  Ky
+                  Louiza       8   F                                  Ky
+                  Lucinda      5   F                                  Ky
+                  Martha       4   F                                  Ky
+                  Simon J.     3   M                                  Ky
+         ANDERSON, George      4   M                                  Ky
+
+633-642  GILBERT, John M.     24   M   Farmer      -        $25       Ky  
+                  Sarah Ann   16   F   W                              Ky
+
+634-643  MANN, Martin         36   M   Farmer      -        $60       Ky  
+               Mary J.        25   F   Consort                        Ky
+               Amilda          5   F                                  Ky
+               Emily           3   F                                  Ky
+               Patsy           1   F                                  Ky
+
+635-644  BAKER, John          47   M   Farmer      -        $100    Tenn
+                Margaret      48   F                                Tenn
+                Sarah         16   F   Domst.                         Va
+                John          14   M                                  Va
+                Eviline       10   F                                  Va
+         SHOEMAKER,Woodson     7   M                                  Ky
+
+636-645  ADAMS, Squire        30   M   Farmer      -        $100      Ky
+                Nancy         30   F                                  Ky
+                Daniel        16   M   Farmer                         Ky
+                Mary           7   F                                  Ky
+                Lucy           5   F                                  Ky
+                John           3   M                                  Ky
+                William        1   M                                  Ky
+
+637-646  NOLAND, Henry        49   M   Farmer      $2000    $1000     Ky 
+                 Nancy        48   F                                  Ky
+                 Didama       20   F   Domst.                         Ky
+                 David        17   M   Farmer                         Ky
+                 Nicholas     14   M                                  Ky
+                 Margaret A.  12   F                                  Ky
+                 John C.B.     4   M                                  Ky
+         BUSH, John L.         6   M                                  Ky
+         ESTES, Priscilla     35   F   Domst. G.                      Ky
+         ESTES, James G.    3/12   M                                  Ky
+
+638-647  LITTLE, Mary         40   F   Widow Spinster -     -         Va
+                 Adaline      18   F   Domst.                         Va
+                 Henry C.      2   M                                  Ky
+
+639-648  VANDERPOOL, Joseph   40   M   Farmer      $600     $200      Va  
+                     Levina   37   F                                  Ky
+                     John C.  16   M   Farmer                         Ky
+                     Mary Ann 14   F                                  Ky
+                     Thursey  11   F                                  Ky
+                     America   9   F                                  Ky
+                     Enoch     5   M                                  Ky
+                     Samuel F. 3   M                                  Ky
+                     Joseph G. 1   M                                  Ky
+
+640-649  LANE, James W.       28   M   Farmer      $2000    $1000     Va x
+               Sarah          26   F   Consort                        Ky
+    650  UNDERWOOD, Minerva L.30   F   Domst. G.                      Va     
+                    Elbert     5   M                                  Ky  
+                    David      4   M                                  Ky
+                    Winfield 9/12  M                                  Ky
+
+641-651  FRANCE, Morgan       38   M   Farmer      $1000    $500      Va
+                 Sarah        50   F                                  Va
+                 John M.      12   M                                  Va
+                 Fielding     10   M                                  Ky
+                 Clarinda     10   F                                  Ky
+                 Virginia      8   F                                  Ky
+
+642-652  SPARKS, Isaac        50   M   House Carpenter $300  $100     Ky
+         SPARKS, Jane         67   F   Widow Seamstress               SC
+    653  ROBERTS, Margaret    39   F   Widow Farmer                   Ky     
+                  John F.     18   M   Farmer                         Ky
+                  Isaac       14   M                                  Ky
+                  Jane        11   F                                  Ky
+                  Moses        8   M                                  Ky
+
+643-654  MCGUIRE, James Sr.   88   M   Farmer      $9000    $5000     Va 
+                  Didama      87   F                                  Va
+         BRYANT, Morticia     19   F   Domst. G.                      Ky
+
+644-655  MOLONY, William      51   M   Farmer      $2000    $500      NC  
+                 Nancy        30   F                                  Va
+                 Jeremiah     18   M   Farmer                         Ky
+                 Daniel       16   M   Farmer                         Ky
+                 Susanah      14   F                                  Ky
+                 Luranah      12   F                                  Ky
+                 George       10   M                                  Ky
+                 McKinley      8   M                                  Ky
+                 Nancy         7   F                                  Ky
+                 Franklin P.   6   M                                  Ky
+                 Solomon       2   M                                  Ky
+
+645-656  MOLONY, John         29   M   Farmer      $500    $100       Ky
+                 Sally Ann    28   F                                  Ky
+                 William       6   M                                  Ky
+                 Newton        2   M                                  Ky
+
+646-657  WILLIAMS, George     45   M   Carpenter    -       $100      Va
+                   Ermine     38   F                                  Ky
+                   John       11   M                                  Ky
+                   James       9   M                                  Ky                   
+                   Patsyann    7   F                                  Ky
+                   Lucy E.     5   F                                  Ky
+                Priscilla B.  7/12 F                                  Ky
+
+647-658  VANDERPOOL, Abram    38   M   Farmer       -       $100      Va   
+                     Amanda  36    F                                  Ky
+                   Isaac     16    M   Farmer                         Ky
+                   Elizabeth 14    F                                  Ky
+                   William T.13    M                                  Ky
+                   Margaret  11    F                                  Ky
+                   Jacob      9    M                                  Ky
+                   James      7    M                                  Ky
+                   John C.B.  1    M                                  Ky
+
+648-659  JEWELL, David        51   M   Farmer       -       $100      Ky
+                 Mary         53   F                                  Ky
+                 Anna         22   F   Domst.                         Ky
+                 Tilitha      16   F   Domst.                         Ky
+                 Sarah        13   F                                  Ky
+                 Robert       14   M                                  Ky
+                 Daniel        8   M                                  Ky
+
+649-660  COOMER, Perin        49   M   Farmer      -        $400      NC    
+                 Sarah        49   F                                  NC
+                 A.J.         22   M   Farmer                         Ky
+                 Jesse        18   M   Farmer                         Va
+                 Isaac N.     16   M                                  Va
+                 Perin        14   M                                  Va
+                 George T.    12   M                                  Va
+                 Nancy J.     10   F                                  Va
+                 Levina        8   F                                  Va
+                 Joseph M.     6   M                                  Va
+                 Riley F.      6   M                                  Va
+                 Hughs         1   M                                  Ky
+
+650-661  MCGUIRE, John        50   M   Farmer      $5500    $2000     Ky 
+                  Elizabeth   46   F                                  Ky
+                  Margaret    18   F   Domst.                         Ky
+                  William H.  16   M   Farmer                         Ky
+                  John G.     14   M                                  Ky
+                  Demanda     11   F                                  Ky
+                  James M.     9   M                                  Ky
+                  Elizabeth E. 6   F                                  Ky
+
+651-662  DUNAWAY, Thomas      27   M   Farmer      -        $200      Ky
+                  Elizabeth   26   F   Consort                        Ky
+                  Nancy        4   F                                  Ky
+                  John M.      2   M                                  Ky
+                  James        1   M                                  Ky
+
+652  663  DUNEGIM, Luanne     26   F   Widow Farmer  -      -         Va
+                   A.G.        1   M                                  Ky
+         DUNEGIM, Nancy       55   F   Widow Farmer 250     $200      SC
+                  Jesse       17   M   Farmer                         Va
+                  Berry       14   M                                  Va
+                  Nancy       11   F                                  Va
+                  William      9   M                                  Va
+
+653-664  DUNAWAY, David       58   M   Farmer      $200     $500      Va
+                  Priscilla   56   F                                  Va
+
+654  665  DUNAWAY, William C. 33   M   Farmer       -       $100      Ky 
+                   Angeline   24   F                                  Ky
+                   Sarah       9   F                                  Ky
+                   Margaret    6   F                                  Ky
+                   David W.    4   M                                  Ky
+                   Felix       1   M                                  Ky
+         DUNAWAY, B.F.        63   M   Widower Mechanic -   -         Ky
+
+655-666  FREEMAN, William     37   M   Farmer      -        -         Ky
+                  Nancy       38   F                                  Ky
+                  Efford      18   M   Farmer                         Ky
+                  Edford      16   M   Farmer                         Ky
+                  William      6   M                                  Ky
+                  Josiah       2   M                                  Ky
+         NEWTON, Fulton       23   M   Farm Laborer   -     -         Ky
+
+656-667  WEILER, Samuel       40   M   Farmer      -       $1500 Germany
+                 Catherine    29   F                                  Ky
+                 Rachael       7   F                                  Ky
+                 Hannah        5   F                                  Ky
+                 Mary          2   F                                  Ky
+                 Isaac      1/12   M                                  Ky
+
+657-668  BOWMAN, Henry        40   M   Farmer      $800     $400      Ky
+                 Rachael      35   F                                  Ky
+                 Permelia     18   F   Domst.                         Ky
+                 Elihu        17   M   Farmer                         Ky
+                 Green        15   M   Farmer                         Ky
+                 Amanda       13   F                                  Ky
+                 Melvina      11   F                                  Ky
+                 Geniva        9   F                                  Ky
+                 Lucy Ann      7   F                                  Ky
+                 Lewis         6   M                                  Ky
+                 Curtis        5   M                                  Ky
+                 Zacheriah     3   M                                  Ky
+                 Nancy         1   F                                  Ky
+                 Bluford       4   M                                  Ky
+
+658-669  REYNOLDS, Joseph     34   M   Farmer      -        $600      Ky
+                   Esther     31   F                                  Ky
+                   James S.   13   M                                  Ky
+                   Daniel H.   9   M                                  Ky
+                   Emily D.    6   F                                  Ky
+                   Nancy J.    4   F                                  Ky
+                   Elizabeth   1   F                                  Ky
+
+659-670  WILSON, Phillip      52   M   Farmer      $2000    $1000     NC
+                 Mary         48   F                                  Ky
+                 William      21   M   Farmer                         Ky
+                 Robert       20   M   Farmer                         Ky
+                 America      18   F   Domst.                         Ky
+                 Phillip      15   M   Farmer                         Ky
+                 Deborah      14   F                                  Ky
+                 Jackson      13   M                                  Ky
+                 Pleasant     12   M                                  Ky
+                 Samuel       10   M                                  Ky
+                 Jonathan      9   M                                  Ky
+                 Mary          7   F                                  Ky
+                 Margaret      5   F                                  Ky
+
+660-671  REYNOLDS, Wesley     43   M   Farmer      $3500    $2000     Ky
+                   Nancy      39   F                                  Ky
+                   Permelia   21   F   Domst.                         Ky
+                   Martha     17   F   Domst.                         Ky
+                   Emaline    16   F   Domst.                         Ky
+                   Gilbert    14   M                                  Ky
+                   Mary J.    12   F                                  Ky
+                   Lucy Ann    9   F                                  Ky
+                   Lucinda     7   F                                  Ky
+                   Jaily       5   F                                  Ky
+    672  BAILEY, Green        18   M   Farmer                         Va x
+                 Elizabeth    19   F                                  Ky
+
+661-673  REYNOLDS, Moses      46   M   Farmer      $2000    $1500     Ky
+                  Nancy       43   F   Consort                        Ky
+                  Mary        23   F   Domst.                         Ky
+                  Henderson   21   M   Farmer                         Ky
+                  Lewis       20   M   Farmer                         Ky
+                  Malon       18   M   Farmer                         Ky
+                  Martha A.   15   F   Domst.                         Ky
+                  Elias       13   M                                  Ky
+                  Pleasant P. 10   M                                  Ky
+                  Edward J.    7   M                                  Ky
+                  Moses J.R.   5   M                                  Ky
+                  Daniel W.    1   M                                  Ky
+                  Perry A.     1   M                                  Ky
+         SPENCER, W. S.       21   M   School Teacher                 Va     
+
+662-674  STAPLETON, William   52   M   Farmer      $400     $600      Ky
+                    Eliza     45   F                                  Ky
+                    Granville 22   M   Farmer                         Ky
+                    William   20   M   Farmer                         Ky
+                    Elizabeth 18   F   Domst.                         Ky
+                    Edward    16   M   Farmer                         Ky
+                    Martha    14   F                                  Ky
+                    Emily     12   F                                  Ky
+
+663-675  ANDERSON, Franklin   33   M   Farmer      -        $100      Va
+                   Jane       26   F                                  Ky
+                   America    10   F                                  Ky
+                   Eliza J.    7   F                                  Ky
+                   Thomas      5   M                                  Ky
+                   Jacob       2   M                                  Ky
+         ANDERSON, George     31   M   Farm Laboror -       -         Va
+
+664-676  MCINTOSH, Henry      21   M   Farmer       -       $100      Ky
+                   Nancy      19   F                                  Ky
+                   Elizabeth   1   F                                  Ky
+
+665-677  REYNOLDS, Meridith   21   M   Farmer      -        $100      Ky x             
+                   Elizabeth  20   F                                  Ky
+
+666-678  EVERSOLE, William    46   M   Farmer      $3000    $1000     Ky               
+                   Barbary A  37   F                                  Ky
+                   George     15   M   Farmer                         Ky
+                   Martha     13   F                                  Ky
+                   Lucy       10   F                                  Ky
+                   Logan       6   M                                  Ky
+                   Elizabeth   3   F                                  Ky
+                   John C.  8/12   M                                  Ky
+         JACKSON, Franklin    20   M   Farm Laboror  $200   $100      Ky
+
+667-679  MOORE, James D.      28   M   Blacksmith   -       $300      Ia
+                Emily         26   F                                  Ky
+                America       11   F                                  Ky
+                Daniel        10   M                                  Ky
+                William        7   M                                  Ky
+                Jane           5   F                                  Ky
+                Lucinda        4   F                                  Ky
+                Joseph         2   M                                  Ky
+
+668-680  CALLAHAM, Jeremiah   25   M   Farmer      $700     $600      Ky               
+                   Esther     27   F                                  Ky
+                   Daniel      6   M                                  Ky
+                   William     4   M                                  Ky
+                   Meriah      2   F                                  Ky
+                   Lucinda  9/12   F                                  Ky
+
+669-681  JOHNSTON, James      21   M   Farmer      -        $800      Ky               
+                   Nancy      22   F                                  Ky
+                   Millard F.  1   M                                  Ky
+    682  HENSLEY, Nancy       18   F   Widow Farmer -       -         Ky
+                  Angeline     1   F                                  Ky
+                  A.J.      1/12   M                                  Ky
+
+670-683  PETERS, Samuel       22   M   Farmer      -        -         Ky 
+                 Elizabeth    20   F                                  Ky
+                 James      1/12   M                                  Ky
+
+671-684  MOORE, James R.      38   M   Farmer      $2000    $1000     Ky
+                Cintha Ann    39   F                                  Ky
+                Rebecca J.    10   F                                  Ky
+                Joseph P.      8   M                                  Ky
+                William J.     7   M                                  Ky
+                Elias W.       4   M                                  Ky
+         FOWLER, Caroline     18   F   Domst. G.                      Ky
+
+672-685  MOORE, Elias         70   M   Farmer      $1100    $1500     Ky
+                Cely          67   F                                  Ky
+                Pleasant      19   M   Farmer                         Ky
+
+673-686  MOORE, William       23   M   Farmer      $500     $300      Ky
+                Leanah        23   F                                  Ky
+                Serilda J.     1   F                                  Ky
+         ANGEL, Hamilton      26   M   Farm Laboror                   Ky
+
+674-687  MOORE, Richard       25   M   Farmer      $800     $300      Ky               
+                Nancy         22   F   Consort                        Ky
+                Martha Ann     2   F                                  Ky
+                Jefferson B 2/12   M                                  Ky
+
+675-688  Harris, William      24   M   Farmer      -        $100      Ky
+                 Mahala       25   F                                  Ky
+         SMITH, Mary          24   F   Domst. G.                      Ky
+         HARRIS, Benjamin     16   M   Laborer Farmer                 Ky
+         SMITH, Thomas        35   M   Farm Laborer                   Ky
+
+676-689  GABBARD, Jacob       47   M   Farmer      $2500    $1000     Va
+                  Elizabeth   39   F                                  Ky
+                  Henry       15   M   Farmer                         Ky
+                  William     13   M                                  Ky
+                  John         9   M                                  Ky
+                  Margaret    11   F                                  Ky
+                  Rebecca J.   6   F                                  Ky
+         WOODS, Rebecca       58   F   Widow Spinster                 NC
+
+677-690  GABBARD, John        49   M   Farmer      $300     -         Va
+                  Margaret    45   F                                  Ky
+                  Peter       23   M   Farmer                         Ky
+                  Rebecca     21   F   Domst.                         Ky
+                  Julius      18   M   Farmer                         Ky
+                  Benjamin    15   M   Farmer                         Ky
+                  Isaac       11   M                                  Ky
+                  Jane         6   F                                  Ky
+                  Jacob        3   M                                  Ky
+
+678-691  GABBARD, Isaac       55   M   Farmer      $2725    $1500     Va
+                  Jane        49   F                                  Va
+                  Mary        21   F   Domst.                         Ky
+                  Abel        18   M   Farmer                         Ky
+                  Abijah      17   M   Farmer                         Ky
+                  Rachael     14   F                                  Ky
+                  Margaret    12   F                                  Ky
+                  Martha J.   10   F                                  Ky
+                  William      8   M                                  Ky
+         ISAACKS, Nancy       87   F   Widow                          NC      
+    692  GABBARD, Elizabeth   31   F   Widow Spinster -     $100    Tenn               
+                  Anna         5   F                                  Ky
+                  Jane         1   F                                  Ky
+
+679-693  FROST, Robert        36   M   Farmer      $600     $300    Tenn
+                Susan         23   F                                  Va
+                James A.      11   M                                  Ky
+                William        5   M                                  Ky
+                Nancy J.       3   F                                  Ky
+         SMITH, Eda           17   F   Domst. G.                      Ky
+
+680-694  BOWLIN, William      30   M   Widow Farmer -       $100      Ky
+                 James        13   M                                  Ky
+                 Elizabeth    10   F                                  Ky
+                 Eli           7   M                                  Ky
+
+681-695  EVANS, Henderson     25   M   Farmer      $700     $100      Ky
+                Lydia M.      25   F                                  Ky
+                Sylvester      5   M                                  Ky
+                Statira        4   F                                  Ky
+                Nancy          2   F                                  Ky
+
+682-696  JOHNSTON, Levi       22   M   Farmer      -        $125      Ky               
+                   Rebecca    19   F                                  Ky
+                   Maryann  2/12   F                                  Ky
+
+683-697  WOODS, Paul          27   M   Farmer      -        -         Va               
+                Margaret      25   F                                  Va
+                Catherine      7   F                                  Va
+                Ransom         5   M                                  Ky
+                John           3   M                                  Ky
+
+684-698  JOHNSTON, Anderson   28   M   Farmer      $100     $125      Ky
+                   Mary       25   F                                  Va
+                   Richard M.  4   M                                  Ky
+                   Samuel      1   M                                  Ky
+         WEBB, Mary J.        13   F                                  Ky
+
+685-699  SIZEMORE, Henderson  33   M   Farmer      -        $125      Ky               
+                   Minerva    38   F                                  Ky
+                   Alcy Ann   13   F                                  Ky
+                   John       11   M                                  Ky
+                   Susan       9   F                                  Ky
+                   William     6   M                                  Ky
+                   Buchannan   2   M                                  Ky
+
+686-700  COMBS, John          25   M   Farmer      $700     $200      Ky               
+                Rachael       24   F                                  Ky
+                George W.      4   M                                  Ky
+                Morris         3   M                                  Ky
+                James M.       1   M                                  Ky
+         BAKER, Rhoda         15   F   Domst. G.                      Ky
+
+687-701  ABNER, Lacy          49   M   Farmer      $300     $500      Ky               
+                Cintha        46   F   Consort                        Ky
+                Mary          18   F   Domst.                         Ky
+                John          16   M   Farmer                         Ky
+                Minerva       14   F                                  Ky
+                Katherine     12   F                                  Ky
+                Elizabeth     10   F                                  Ky
+                Leander        8   M                                  Ky
+                Harvey         6   M                                  Ky
+                Amanda         2   F                                  Ky
+
+688-702  HUNT, William        50   M   Farmer      $1000    $3100     Ky
+               Susan          47   F                                  Ky
+               Nancy          22   F   Domst.                         Ky
+               Lucinda        18   F   Domst.                         Ky
+               Esther         16   F   Domst.                         Ky
+
+689-703  BARNETT, James       34   M   Farmer      $500     $200      Ky               
+                  Isabella    34   F                                  Ky
+                  Brice       14   M                                  Ky
+                  Jesse       13   M                                  Ky
+                  Jane        10   F                                  Ky
+         CARMACK, Mary        17   F   Domst. G.                      Ky
+         CARMACK, William     14   M                                  Ky
+
+690-704  MORGAN, J. G.        33   M   Farmer      -        $1200     Ky
+                 Elizabeth    29   F                                  Ky
+                 William T.   11   M                                  Ky                     
+                 John         10   M                                  Ky
+                 Azier         8   M                                  Ky
+                 Abijah        7   M                                  Ky
+                 Shadrick      5   M                                  Ky
+                 Henry         4   M                                  Ky
+                 Alexander     1   M                                  Ky
+                 Sarah      1/12   F                                  Ky
+
+691-705  COPE, Jacob          59   M   Farmer      -        $150      NC
+               Sarah          56   F                                  NC
+               Elizabeth      19   F   Domst.                       Tenn
+               George         17   M   Farmer                       Tenn
+               William        13   M                                Tenn
+
+692-706  COLE, O.C.           54   M   Farmer      $3000    $1000     Ky               
+               Perlina        45   F                                  Ky
+               Speed C.       22   M   Farmer                         Ky
+               Marlicia C.    20   F   Domst.                         Ky
+               Thomas J.      15   M   Farmer                         Ky
+               O.C.           10   M                                  Ky
+               Perlina         6   F                                  Ky
+
+693-707  COLE, William J.     28   M   Farmer      $500     $300      Ky
+               Mary           22   F                                  Ky
+               James B.        4   M                                  Ky
+               John C.         2   M                                  Ky
+               Marticia     6/12   F                                  Ky
+
+694-708  SANDLIN, Andrew      27   M   Farmer      $50      $100      Ky
+                  Mary        18   F                                  Mo
+                  James     6/12   M                                  Ky
+
+695-709  ABNER, Enoch         30   M   Farmer      $2100    $800      Ky
+                Martha        22   F                                  Ky
+                Lacy           2   M                                  Ky
+                William        1   M                                  Ky
+                Elizabeth     50   F   Old Domst. G.                  Ky
+         ABNER, John          72   M   Widow Farmer  -      -       Tenn
+
+696-710  BURNS, William       62   M   Farmer      $1200    $1500     NC 
+                Rachael       52   F                                  Ky
+                John          24   M   Farmer                         Ky
+                Wiley         22   M   Farmer                         Ky
+                Zilpha        20   F   Domst.                         Ky
+                Nancy         19   F   Domst.                         Ky
+                Sarah         17   F   Domst.                         Ky
+                Joice         15   F   Domst.                         Ky
+                Francis       12   M                                  Ky
+                Mary           8   F                                  Ky
+
+697-711  WILLIAMS, James      40   M   Farmer      $1200    $300      Ky               
+                   Lucinda    39   F                                  Ky
+                   Matilda    17   F   Domst.                         Ky
+                   Mary       16   F   Domst.                         Ky
+                   Eliza      14   F                                  Ky
+                   Nancy      12   F                                  Ky
+                   Lewis      10   M                                  Ky
+                   John        6   M                                  Ky
+                   Enoch       5   M                                  Ky
+
+698-712  BAKER, Adoniram      55   M   Farmer      $600     $100      NC                
+                Nancy         50   F                                  SC
+                James         20   M   Farmer                         Ky
+                Nancy         16   F   Domst.                         Ky     
+                Elizabeth     13   F                                  Ky
+                Martha        11   F                                  Ky
+                Adoniram       8   M                                  Ky
+         BISHOP, Sarah         8   F                                  Ky
+                 Rachael       6   F                                  Ky
+
+699-713  STAPLETON, Granville 22   M   Farmer       -       $150      Ky
+                    Mary Ann  21   F                                  Ky
+
+700-714  PETERS, Elijah       38   M   Farmer      $700     $300      Va               
+                 Margaret     39   F                                  Ky
+                 Rebecca      16   F   Domst.                         Ky
+                 John         14   M                                  Ky
+                 Martha       12   F                                  Ky
+                 Sally Ann    10   F                                  Ky
+                 Mary Ann      8   F                                  Ky
+                 Rachael       6   F                                  Ky
+                 Margaret      4   F                                  Ky
+
+701-715  JOHNSON, Paschal     36   M   Farmer      -        $150      Ky
+                  Rhoda       33   F                                  Ky
+                  Robert      10   M                                  Ky
+                  William      8   M                                  Ky
+                  John         6   M                                  Ky
+                  Rachael      3   F                                  Ky
+                  Eliann       1   F                                  Ky

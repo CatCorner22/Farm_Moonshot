@@ -317,3 +317,92 @@ research/dora-ella-newnam/sources/census/1880-lee-ky-ed59-sheet43-p768-caroline-
   sha256: d0c5d4d245ab67694980f9e9a47f0cde072ea4098f4283df2d7b7c300eaaa685
   format: JPEG photo, 2096x2352px
   check: full page + margins + verso? straight-on, no glare/flash, strokes several px tall? (paleography.md intake)
+
+# Pass 39–40 additions (30 Oct 2026) — hashes from sha256sum on this VM
+/workspace/research/dora-ella-newnam/sources/census/1860-owsley-p64-pdfp363-silas-gray.jpg  (1,934,918 bytes)
+  sha256: cc325121a0704014e220d8300a6e2ae7cda9a1f4386c1b0bd2a0192810d7ca1f
+  format: JPEG photo, 2781x3597px
+  check: full page + margins; IA populationschedu391unit PDF p.363; strokes several px tall
+/workspace/research/dora-ella-newnam/sources/census/1860-owsley-pdfp363-silas-hh-crop.jpg  (315,378 bytes)
+  sha256: 42373b3169812100a154b7144c6861e7e00a37cebf360f18c3a9fb8e39cb1fcb
+  format: JPEG photo, 1947x772px
+  check: dw 440/444 crop of Page 64
+/workspace/research/dora-ella-newnam/sources/census/1860-owsley-pdfp366-james-brandenburg.jpg  (1,894,918 bytes)
+  sha256: 30183b9158fb6ab85e9a6dd5e8bf401ffb2c745dfc4db8deca954736dd5219ea
+  format: JPEG photo, 2839x3604px
+  check: full page + margins; IA PDF p.366
+/workspace/research/dora-ella-newnam/sources/census/1860-owsley-pdfp366-james-hh-crop.jpg  (288,233 bytes)
+  sha256: 1668d12ac2b88127619134292b7de8b22c1df8e64c37996b45199564dfd6d61e
+  format: JPEG photo
+  check: dw 458/462 crop of Page 67
+/workspace/research/dora-ella-newnam/sources/census/1860-owsley-pdfp368-john-gray.jpg  (1,902,287 bytes)
+  sha256: e2be29293f03939254b31e32b8b6cd6a3ed2213bf988c3b3a6a7efdfde1af18c
+  format: JPEG photo, 2832x3597px
+  check: dw 471/475 John Gray — not merged with Silas
+/workspace/research/dora-ella-newnam/sources/indexes/1860sec1.txt
+  sha256: 462877452b2612e522de40091cc9ca980aefdf59ae2cd57bcd01840cbb146f85
+/workspace/research/dora-ella-newnam/sources/indexes/1860sec2.txt
+  sha256: 11c254782aaabffead261a4956b0ab419e141cad45ce9e06004d43f8aa33419b
+/workspace/research/dora-ella-newnam/sources/indexes/1860sec3.txt
+  sha256: 54c9588a42ecca1a016797674571084e0cc1e595606acee453046c263ec65dd1
+/workspace/research/dora-ella-newnam/sources/indexes/1860sec4.txt
+  sha256: a09a48811cd0243de7b9354309070131a30ba98b62132c0e55a1cc4a5b583bed
+/workspace/research/dora-ella-newnam/sources/indexes/1860sec5.txt
+  sha256: b0dc101ec9d7468995458d77494256fc82cddc8b60bf972118a36c2922c89ded
+/workspace/research/dora-ella-newnam/sources/indexes/1860sec6.txt
+  sha256: 99984eadd115c97a471ab0a7ed779678b033408fb59becb5a4f6e2b61d37ee5e
+/workspace/research/dora-ella-newnam/sources/indexes/1860sec7.txt
+  sha256: 9f8096fde0530c4c48cd4150dc89447bb2b21cc110be58fde5de51d4b25ab3d2
+/workspace/research/dora-ella-newnam/sources/indexes/1860sec8.txt
+  sha256: 93814d34061d4c666000cdd2a429ff89efcdccb1f14f06070c31bfff0b634782
+/workspace/research/dora-ella-newnam/sources/indexes/1860sec9.txt
+  sha256: 71393a5999daa8b83d8a7de12e44962191f983b8e056e16f51e0d6f23c80148d
+/workspace/research/dora-ella-newnam/sources/census/1880-lee-ky-ed59-sheet1-p726-william-gray.jpg  (1,340,770 bytes)
+  sha256: 3a879a81b4a8f537f60b816ed50a47d2574ad2f0844627efc2bfeabc90c75d11
+  format: JPEG photo, 2882x3234px
+  check: full page + margins; IA 10thcensus0427unit PDF p.726
+/workspace/research/dora-ella-newnam/sources/census/1880-lee-ky-ed59-sheet1-p726-william-hh-crop.jpg  (275,708 bytes)
+  sha256: 837308227abc9082cbe99c0e43a7c8e8588fd9472171999ad42fedbb604047ed
+  format: JPEG photo, 2997x459px
+  check: dw 2/2 crop including Sidney/Hardin/Robert
+/workspace/research/dora-ella-newnam/sources/census/1880-lee-ky-ed59-sheet16-p741-silas-gray.jpg  (1,441,317 bytes)
+  sha256: e91d77ec57a31fc324aa22f69ae23de4fcfa714f0a0711e07e25220a7ec490e0
+  format: JPEG photo, 2882x3245px
+  check: full page + margins; IA PDF p.741
+/workspace/research/dora-ella-newnam/sources/census/1880-lee-ky-ed59-sheet16-p741-silas-hh-crop.jpg  (200,087 bytes)
+  sha256: bc8f6c216b4568bd346ed06e5e4baade4f833f0c8f6f2da3d941081ef2b9eb03
+  format: JPEG photo, 2536x325px
+  check: dw 126/126 crop
+/workspace/research/dora-ella-newnam/sources/indexes/1850indx.txt
+  sha256: a38c8b04ae44177e3eb3a6eb5cb1ca2d8de684ff7d10eeffd190955b6e4f86d3
+  check: USGenWeb Owsley 1850 surname index (Wayback id_ snapshot); GRAY 289B-306A-314B
+/workspace/research/dora-ella-newnam/sources/census/1850-owsley-pdfp365-st287A-brandenburg.jpg
+  sha256: cfcb35ecddbaa1dcc2cd367c7bf60422ff8b63f2805dc85e1bb94f0986e45518
+  format: JPEG photo, 2961x3905px
+  check: stamp 287A mapping anchor; George Brandenburg FAN
+/workspace/research/dora-ella-newnam/sources/census/1850-owsley-pdfp370-thomas-gray.jpg
+  sha256: 6d8bb4b2117f84647efd1d10437f462a67ccb3385f62ee6845aea0db1eee5356
+  format: JPEG photo, 2834x3925px
+  check: 289B Thomas Gray 47 — not Silas
+/workspace/research/dora-ella-newnam/sources/census/1850-owsley-pdfp370-thomas-gray-hh.jpg
+  sha256: 1c4e7a93b0dd178ab7848b7dd68159203efb61d6727323bedba35e8b98c6cb87
+/workspace/research/dora-ella-newnam/sources/census/1850-owsley-pdfp404-wm-brandenburg.jpg
+  sha256: 7081b554308144ee29c305225c525c51f67f51a146c2578d34f545642ba7e571
+  format: JPEG photo, 2868x3625px
+/workspace/research/dora-ella-newnam/sources/census/1850-owsley-pdfp405-james-gray.jpg
+  sha256: 3667b99dd4810f255c6c770b17e269c3d75ace7670c28f83c04c26cd3acf6227
+  format: JPEG photo, 2941x3879px
+  check: 306A James Gray 32 + William 12 — not C332
+/workspace/research/dora-ella-newnam/sources/census/1850-owsley-pdfp405-james-gray-hh.jpg
+  sha256: 87b0cc109d1305f07132cd1e661ad0f187ba88fd232169ff92e973d3dbf1dcc1
+/workspace/research/dora-ella-newnam/sources/census/1850-owsley-pdfp419-brandenburg.jpg
+  sha256: 3fa7c742731dd0d9f01723111114613bc24a5ff82cdf3d8c5110d56e8c3ea7ad
+  format: JPEG photo, 2908x3879px
+/workspace/research/dora-ella-newnam/sources/census/1850-owsley-pdfp420-john-charles-gray.jpg
+  sha256: 63e203b29a5960c42aee4635f9adf97694e55d91cac5d3f5c9bdb81ec088266c
+  format: JPEG photo, 2861x3859px
+  check: 314B John 40 + Charles 26/Manerva 30 — Charles DISPROVED as Silas
+/workspace/research/dora-ella-newnam/sources/census/1850-owsley-pdfp420-john-gray-hh.jpg
+  sha256: d3bba78d9a7b8fe04ef38ac4f5a11dba872570bb4c3ef6e35c018ec66e77492d
+/workspace/research/dora-ella-newnam/sources/census/1850-owsley-pdfp420-charles-gray-hh.jpg
+  sha256: 7c4663b7d88db66905ee9b8c7a7152056247c059e576b2ecb3476ceaa86d638c
