@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+
+  <title>Military Info</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Estill County, Kentucky military records and veteran information.">
+
+  <!-- Global site styles -->
+  <link rel="stylesheet" href="../../../style/style.css">
+</head>
+
+<body>
+<a id="top"></a>
+
+<div class="page">
+
+  <!-- =====================================================
+       HEADER
+       ===================================================== -->
+  <header class="site-header">
+    <h1 class="site-title">Military Info</h1>
+    <p class="site-subtitle">Estill County, Kentucky</p>
+  </header>
+
+  <!-- =====================================================
+       BREADCRUMB / CONTEXT
+       ===================================================== -->
+  <section class="panel">
+    <a href="../index.htm">&laquo; Index</a>
+  </section>
+
+  <!-- =====================================================
+       CONTACT / NOTE
+       ===================================================== -->
+  <!--<section class="panel">
+    <p>
+      If you have anything you would like to add or if you have any questions,
+      please contact <a href="mailto:hsloan2002@hotmail.com">Harlan</a>.
+    </p>
+
+    <p>
+      There are also some military information listed in the
+      <a href="../family/index.htm">family info</a> pages.
+    </p>
+  </section>-->
+
+  <!-- =====================================================
+       MILITARY RECORD SECTIONS
+       ===================================================== -->
+  <section class="panel">
+    <h2>Military Record Sections</h2>
+
+    <ul class="nav-grid">
+      <li><a href="revwar/index.htm">Revolutionary War</a></li>
+	  <li><a href="1812/index.htm">War of 1812</a></li>
+      <li><a href="mexican/index.htm">Mexican War</a></li>
+      <li><a href="civwar/index.htm">Civil War</a></li>
+      <li><a href="spanish/index.htm">Spanish American War</a></li>
+      <li><a href="ww1/index.htm">World War I</a></li>
+      <li><a href="ww2/index.htm">World War II</a></li>
+      <li><a href="korea/index.htm">Korean War</a></li>
+      <li><a href="vietnam/index.htm">Vietnam War</a></li>
+    </ul>
+  </section>
+
+  <!-- =====================================================
+       NOTES / DISCLAIMER
+       ===================================================== -->
+  <section class="panel note">
+    <div id="disclaimer"></div>
+
+    <script>
+    fetch('../../include/disclaimer.htm')
+      .then(r => { if(!r.ok) throw new Error('HTTP '+r.status); return r.text(); })
+      .then(t => document.getElementById('disclaimer').innerHTML = t)
+      .catch(e => document.getElementById('disclaimer').innerHTML = '<p><strong>Disclaimer failed to load:</strong> '+e.message+'</p>');
+    </script>
+  </section>
+
+</div>
+
+<!-- =====================================================
+     GLOBAL IMAGE OVERLAY SYSTEM
+     ===================================================== -->
+<script src="https://kygenweb.net/estill/style/img-overlay.js"></script>
+
+</body>
+</html>

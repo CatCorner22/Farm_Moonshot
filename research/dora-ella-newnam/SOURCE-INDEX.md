@@ -1,7 +1,7 @@
 # Source index — Dora Ella Newnam Stone
 
 Working inventory of **saved local copies** in `sources/` plus the authored Word biography.  
-Full file list (406+ files): [`sources/SOURCE-INVENTORY.tsv`](sources/SOURCE-INVENTORY.tsv) (path, bytes, SHA-256 prefix).
+Full file list (**500** files after pass 64): [`sources/SOURCE-INVENTORY.tsv`](sources/SOURCE-INVENTORY.tsv) (path, bytes, SHA-256 prefix).
 
 **Access labels:** `image seen` · `index only` · `transcription only` · `catalog only` · `OCR text` · `not yet examined`.
 
@@ -69,6 +69,20 @@ Captured this session: **30 Oct 2026**. Earlier plates remain in `sources/census
 | S323 | `sources/obituaries/lee-obits-g-2026-10-30.html` | 2026-10-30 | USGenNet Lee obituaries G | https://usgennet.org/usa/ky/county/lee/obituaries/g.html | G-page; Grant’s own notice not here | **C337** | transcription only |
 | S324 | `sources/wills/lee-mjs-newman-will-2026-10-30.html` | 2026-10-30 | USGenNet Lee wills | https://usgennet.org/usa/ky/county/lee/wills/mjsnewnam.html | Mary Jane Steele Newman — **not** Samuel P. | **C319** reject | transcription only |
 | S325 | `sources/census/lee-1900-beattyville-url-404-2026-10-30.txt` | 2026-10-30 | USGenNet / RootsWeb | (URLs in file) | 1900 Beattyville/Proctor transcript URLs 404/403 | **C350** | not examined |
+| S326 | `sources/catalog/fhl-175637-court-orders-1870-1919.html` · `fhl-178832-order-books-1894-1922.html` · `fhl-179117-probate-1870-1967.html` · `fhl-180678-wills-1873-1945.html` · `fhl-573774-tax-1870-1875.html` · `fhl-573294-tax-1879-1892.html` · `ldsgenealogy-lee-tax.html` · `ldsgenealogy-lee-court-orders-1870-1919.html` | 2026-10-30 | LDSGenealogy FHL2 / FS catalog pointers | https://ldsgenealogy.com/KY/Lee-County-Court-Records.htm | Court orders 1870–1919 = FS **127869**; order books 1894–1922 = **964964**; probate 1870–1967 = **127913**; wills 1873–1945 = **127891**; tax 1870–75 = **156057**; tax 1879–92 = **97277**. FHL2 CGI IDs in the filenames are **not** the FamilySearch catalog IDs. Images unread | **C361** | catalog only |
+| S327 | `sources/court/usgennet-lee-court.html` · `sources/court/lee-oct1887-claims-newnam-nil-2026-10-30.txt` | 2026-10-30 | USGenNet Lee court | https://usgennet.org/usa/ky/county/lee/court/ · https://usgennet.org/usa/ky/county/lee/court/Oct1887claims.html | Landing = Phillips bio + Oct 1887 claims only. Claims list **nil** Newnam/Newman/Samuel | **C360 C362** | transcription only |
+| S328 | `sources/catalog/snac-lee-clerk-probate.html` · `sources/catalog/kdla-county-records.pdf` | 2026-10-30 | SNAC / KDLA | https://snaccooperative.org/ · https://kdla.ky.gov/Archives-and-Reference/Documents/Inventory_County_Records.pdf | KHS Lee probate microform **1873–1945**; KDLA Lee **other probate 1873–2004** + **order books 1870–1981**. Images unread | **C374 C375** | catalog only |
+| S329 | `sources/vital/lee-deaths-1915-grant-stillborn-extract-2026-10-30.txt` · `lee-deaths-1915-pass64.html` · `lee-kdi-n-reget-pass64.html` | 2026-10-30 | USGenNet Lee deaths 1915 + KDI N | https://usgennet.org/usa/ky/county/lee/deaths/1915.html · https://usgennet.org/usa/ky/county/lee/deaths/kdi/n.html | Stillborn female Newnam, 29 May 1915 Willow, parents Grant × Martha Brandenburg. KDI “NEWMAN, Grant 1” vol **026** cert **12938** age **U/1** = that infant | **C351 C352 C372** | transcription only |
+| S330 | `sources/vital/lee-deaths-1928-frank-newnam-extract-2026-10-30.txt` · `lee-deaths-1928-pass64.html` | 2026-10-30 | USGenNet Lee deaths 1928 | https://usgennet.org/usa/ky/county/lee/deaths/1928.html | Frank Newnam d. 16 Mar 1928 St. Helens, b. 4 Oct 1853, parents William × Rhoda Tincher. **Not** Berea contractor | **C353 C354** | transcription only |
+| S331 | `sources/vital/lee-deaths-1926-callie-dorothy-extract-2026-10-30.txt` · `lee-deaths-1926-pass64.html` | 2026-10-30 | USGenNet Lee deaths 1926 | https://usgennet.org/usa/ky/county/lee/deaths/1926.html | Callie Newnam/Newnan d. 27 Apr 1926 (parents Sam Moore × Mary Brandenburg) = Everett’s wife; Dorothy d. 6 Oct 1926 Idamay. **Not** Callie Spicer | **C355 C356 C357** | transcription only |
+| S332 | `sources/obituaries/lee-obits-melissa-estes-miller-1957-extract-2026-10-30.txt` · `sources/vital/lee-deaths-1957-pass64.html` | 2026-10-30 | USGenNet Lee obituaries M + deaths 1957 | https://usgennet.org/usa/ky/county/lee/obituaries/m.html#melissanmiller | Melissa Newnam Estes Miller, d/o Elias T. × Mary Ann Smallwood, b. 22 Nov 1863, d. 11 Apr 1957; *Enterprise* 18 Apr 1957; Riverview | **C358** | transcription only |
+| S333 | `sources/vital/lee-deaths-1951-pass64.html` · `lee-deaths-1957-pass64.html` | 2026-10-30 | USGenNet Lee deaths 1951–1957 | https://usgennet.org/usa/ky/county/lee/deaths/ | **Nil Grant** decedent. 1952 Stanley Newman (John × Serilda Angel) and 1955 Ellen Newman (John Newton × Julia Durbin) rejected | **C371 C373** | transcription only |
+| S334 | `sources/cemetery/berea-cemetery-newnam-nil-2026-10-30.txt` · `berea-cemetery-inventory.pdf` | 2026-10-30 | Madison County Public Library | https://apps.madisonlibrary.org/public_records/BereaCemetery_Print.pdf | Compiled Berea Cemetery book: **nil** Grant / Frank / Clifton Newnam. Mary V. Parsons Newman (2000) and Marie Newman Woods (1999) not merged | **C359** | index only |
+| S335 | `sources/marriages/lee-marrbook1-pass64.html` | 2026-10-30 | USGenNet Lee Book 1 | https://usgennet.org/usa/ky/county/lee/marriage/marrbook1.html | **Nil** William Newnam × Katherine Sternberg. Elisha Martin × Nancy Robinson, 11 Dec 1872, at **Sam Sternbergh**’s house is Sternberg FAN only | **C368** | transcription only |
+| S336 | `sources/catalog/kygenweb-owsley.html` · `sources/wills/owsley-will-index.html` · `sources/obituaries/owsley-obits-index.html` · `sources/vital/owsley-deaths-index.html` | 2026-10-30 | KYGenWeb Owsley | https://kygenweb.net/owsley/ | Will index placeholder empty; compiled obits: Luther officiant only, **no** John Newnam decedent | **C363 C364** | transcription / catalog |
+| S337 | `sources/catalog/kygenweb-estill.html` · `sources/vital/estill-deaths-1945.html` · `estill-deaths-1951.html` … `1955.html` · `sources/marriages/estill-grooms.html` · `sources/military/estill-ww1.html` · `estill-ww1-gt.html` · `owsley-ww1-gt.html` | 2026-10-30 | KYGenWeb / Genealogy Trails Estill + Owsley | https://kygenweb.net/estill/ | Deaths 1945 / 1951–55 **nil** Newnam/Newman/Grant/Fred. Grooms-to-1850: Nancy Newman × James Sparks 9 Dec 1825. Estill WWI empty; GT Estill/Owsley WWI **404** | **C365 C366 C367** | transcription / catalog |
+| S338 | `sources/catalog/ldsgenealogy-lee-military.html` · `fhl-180734-wwi-lee.html` | 2026-10-30 | LDSGenealogy Lee military | https://ldsgenealogy.com/KY/Lee-County-Military-Records.htm | FS **1146342** Lee WWI draft cards. Images unread | **C361** | catalog only |
+| S339 | `sources/press/ia-solr-grant-quoted.json` · `ia-solr-melissa-estes-miller.json` · `ia-solr-lee-court-orders.json` | 2026-10-30 | Internet Archive Solr + LOC CA | https://archive.org/advancedsearch.php · https://www.loc.gov/collections/chronicling-america/ | Quoted Solr **numFound 0** Grant / Melissa Estes Miller / Frank+1853 / Lee court-order title (**C369**). LOC CA Newnam + Samuel + Kentucky **0** pages (**C370**) | **C369 C370** | index only |
 
 ## Word biography provenance
 
@@ -86,6 +100,10 @@ See [`sources/authored/PROVENANCE.md`](sources/authored/PROVENANCE.md). Drive se
 | NARA M1509 rolls **KY45** (Lee), **KY24** (Estill), **KY74** (Owsley), **AR69** (Yell) | FS sign-in or NARA | Cards unread (**B047**) |
 | KDLA / KHS Lee probate 1873–2004 | Film browse Samuel P. Newnam admin. | **B045** |
 | FS Lee Court Orders 1870–1919 / Order Books 1894–1922 | Sign-in browse for Samuel P. administration | **B061** |
+| FS Lee tax books **156057** (1870–75) / **97277** (1879–92) | Browse taxpayer **Newnam / Newman / Samuel P. / Elias / Grant** | **B065** |
+| FS **1146342** Lee WWI draft cards | John H. b. 1899; McCoy b. 1890; Luther b. 1891 | **B069** |
+| KHS Lee probate microform 1873–1945 / KDLA other probate 1873–2004 + order books 1870–1981 | On-site / interlibrary film for Samuel P. | **C374 C375** |
+| Madison Co. deaths / *Berea Citizen* 1951–1955 | Grant Newnam death (not in Lee/Estill year files or Berea Cemetery book) | **B066** |
 
 ## Variant strings used this session (categories 1–4)
 
@@ -95,4 +113,4 @@ See [`sources/authored/PROVENANCE.md`](sources/authored/PROVENANCE.md). Drive se
 
 **Thomas / T. A. Stone:** Thomas, Tom, T. A., T A × Stone, Store, Stowe (rejects already logged).
 
-Exact strings in `02-log.md` **L343–L352** and **L380–L397**.
+Exact strings in `02-log.md` **L343–L352**, **L380–L397**, and **L398–L411**.

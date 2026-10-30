@@ -102,5 +102,11 @@ Place as it was *at the date*; modern equivalent in brackets. Flag impossibiliti
 | **28 Feb 1945** | — | FAN: Rev. **Luther Newnam** d. Beattyville, age 54y 7d; b. 21 Feb 1891; parents William × Katherine Sternberg; wife Cora | Beattyville, Lee Co., KY | C305 C306 | S294 S297 |
 | **28 Dec 1984** / **28 Aug 1986** | — | FAN: **Ladonna Newman Dunigan** / **Clay Dunigan** d.; Dunaway Cemetery (both deceased) | Lee Co., KY | C312 C313 | S301 |
 | **25 Feb 1981** (if “Wednesday” of Fri 27 Feb paper) | — | FAN: **Cora Plummer Newnam**, widow of Rev. Luther, d. Lexington hospital | Lexington / Beattyville | C307 | S295 |
+| **11 Dec 1872** | — | FAN: Elisha Martin × Nancy Robinson application at house of **Sam Sternbergh** (Book 1). Not a William × Katherine license | Lee Co., KY | C368 | S335 |
+| **29 May 1915** | — | FAN: stillborn female **Newnam**, Willow; parents **Grant Newnam** × **Martha Brandenburg**. KDI “Grant 1” is this infant | Willow, Lee Co., KY | C351 C352 C372 | S329 |
+| **16 Mar 1928** | — | FAN reject: **Frank Newnam** d. St. Helens, b. 4 Oct 1853; parents William × Rhoda Tincher. **Not** Everett’s brother Frank of Berea | St. Helens, Lee Co., KY | C353 C354 | S330 |
+| **27 Apr 1926** | — | FAN: **Callie (Moore) Newnam**, wife of Everett, d. (Proctor / Idamay extracts). Parents Sam Moore × Mary Brandenburg. **Not** Callie Spicer | Lee / Owsley, KY | C355 C357 | S331 |
+| **6 Oct 1926** | — | FAN: **Dorothy Newnam**, 1, d. Idamay; parents Everett Newnam × Callie Moore | Idamay, Lee Co., KY | C356 | S331 |
+| **11 Apr 1957** | — | FAN / household: **Melissa Newnam Estes Miller**, Dora’s sister, d. age 93; d/o Elias T. × Mary Ann Smallwood; buried Riverview | Beattyville, Lee Co., KY | C358 | S332 |
 
 **Impossibility flags:** None. Mother ~29 at Dora’s 1871 birth (Mary b. 1842). Dora age 14 at marriage is legal/period-possible (KY) though young; 1880 age 8 corroborates. Two children born before Coy in the 1886–1889 window would have Dora aged 15–18 — possible. No event after 23 Aug 1926 is attributed to her.

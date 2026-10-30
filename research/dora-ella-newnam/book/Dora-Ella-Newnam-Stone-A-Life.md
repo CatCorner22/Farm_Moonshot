@@ -192,7 +192,21 @@ On 28–29 September 1936 a coal truck left Kentucky 21 east of Berea. Edward Ne
 
 Grant Newnam is a documented man, and he is **not** silently merged with Frank. On 12 August 1899 he bonded, at twenty-three, to marry Martha Brandenburgh, eighteen, at Oliver Brandenburgh’s. [C330] [S307] Martha Brandenburg Newnam died 18 February 1951 at St. Joseph’s in Lexington, her husband living. [C332] [S310] Their son William, born 5 February 1907 at Station Camp, Estill County, died 11 July 1955 in Springfield, Ohio, and the paper called Grant “the late.” Grant therefore died between those two dates. [C334] [C335] [S311] Same names and the Brandenburg wife make the 1899/1951/1955 Grant **probable** one man, and **probable** the 1936 Berea uncle. Frank the contractor remains a separate person: different given name, and Grant was still alive in 1939 when Everett’s notice named Frank, not Grant. [C336] [C337] Conflict #20.
 
-Mrs. Robert Spicer of Lower Buffalo is **probable** the wife in the couple “Rev. and Mrs. Robert Spicer of Lower Buffalo,” grandparents of Linda Lou Spicer, who died at three on 3 May 1944. [C341] [C323] [S312] Callie’s own death notice is still unread. [C342]
+Mrs. Robert Spicer of Lower Buffalo is **probable** the wife in the couple “Rev. and Mrs. Robert Spicer of Lower Buffalo,” grandparents of Linda Lou Spicer, who died at three on 3 May 1944. [C341] [C323] [S312] Callie (Newnam) Spicer’s own death notice is still unread. [C342]
+
+The 1926 Callie Newnam on the Lee death extract is a different woman. She died 27 April 1926 at Proctor — a second extract says Idamay — aged thirty years and one month, parents Sam Moore and Mary Brandenburg. Dorothy Newnam, one year old, died 6 October 1926 at Idamay; her extract names father Everett Newnam and mother Callie Moore. Those two independent identifiers make Callie Moore Newnam **proven** as Everett’s wife. She is **not** Callie (Newnam) Spicer of Lower Buffalo, who was still living in May 1944. Conflict #21. [C355] [C356] [C357] [S331]
+
+Melissa, the sixteen-year-old in Elias’s 1880 house, died 11 April 1957 as Melissa Newnam Estes Miller, ninety-three, daughter of Elias T. and Mary Ann Smallwood Newman, born 22 November 1863. The *Enterprise* of 18 April 1957 and the 1957 year-file agree: funeral 14 April at Beattyville Christian Church; buried Riverview. Survivors: son Herman Estes of Brasstown, North Carolina; stepson Johnnie E. Miller; granddaughter Ruby Booth. Same-person versus 1880 Malissa: parents plus birth year. Dora is not named — she had been dead thirty-one years. The 1939 living-sister list (Frankie Jones, Mary Peters, Melissa Eastes) is consistent; the 1957 notice does not name Frankie or Mary as living. [C358] [S332] [C003]
+
+On 29 May 1915 a stillborn daughter of Grant Newnam and Martha Brandenburg was recorded at Willow. The Kentucky death-index row “NEWMAN, Grant 1” (volume 026, certificate 12938, age U/1) is that infant indexed under the father’s given name — **not** Grant of Berea’s death. Combined with the 1899 license and the 1936 Berea uncle, Grant × Martha is **probable** one couple. Conflict #20 still holds: Grant is not Everett’s brother. [C351] [C352] [C372] [S329]
+
+A Frank Newnam died 16 March 1928 at St. Helens, born 4 October 1853, parents William Newnam and Rhoda Tincher. He is **not** Everett’s brother Frank the contractor of Berea, who was still living on 13 December 1939. Conflict #22. Do not merge William × Rhoda with Luther’s William × Katherine. [C353] [C354] [S330]
+
+Grant’s own death is still unread. He is not a decedent in the Lee 1951–1957 year files — 1952 Stanley Newman (parents John × Serilda Angel) is the rejected Book 12 cluster; 1955 Ellen Newman (parents John Newton × Julia Durbin) is another house. He is not in Estill 1945 or 1951–1955 extracts. The published Berea Cemetery inventory has no Grant, Frank, or Clifton Newnam. Residual: Madison County death and the *Berea Citizen*. [C371] [C365] [C359] [S333] [S334] [S337]
+
+Samuel P. still has no published will. The October 1887 Lee claims list is nil for Newnam. The USGenNet court landing holds only that claims page and a Phillips sketch — no order-book transcripts. FamilySearch catalog IDs for the unread films are now locked: court orders 1870–1919 = **127869**; order books 1894–1922 = **964964**; probate 1870–1967 = **127913**; wills 1873–1945 = **127891**; tax 1870–75 = **156057**; tax 1879–92 = **97277**; Lee WWI cards = **1146342**. Kentucky Historical Society holds Lee probate 1873–1945 on microform; KDLA inventories other probate 1873–2004 and order books 1870–1981. Images not examined. [C360] [C361] [C374] [C375] [S326] [S327] [S328]
+
+Owsley compiled obituaries name Luther only as an officiant — no John Newnam of Owsley decedent. The Owsley will index is still a placeholder. Estill grooms-to-1850 has only Nancy Newman × James Sparks, 9 December 1825. Lee Book 1 has no William × Katherine Sternberg; the 11 December 1872 application of Elisha Martin × Nancy Robinson at Sam Sternbergh’s house is Sternberg FAN only. [C364] [C363] [C366] [C368] [S335] [S336]
 
 On 15 March 1932, at Delvinta, George Botner married Clay Dunigan, twenty-three, of Idamay, son of R. C. Dunigan and Sirena Porter, to Ladona Newman, sixteen, of Delvinta, daughter of **Shelby Newman** and **Grace Brandenburg**. [C297] [S277] The 1 April paper said Clay and Ladonna had “quietly married last week.” Same names, same month: **probable** one couple. The bride is **not** Dora’s child — the license names other parents, and Dora had been dead five and a half years. [C298] The 1913 Book 10 license names those parents: Shelby Newnam, twenty-one, son of Richard Newnam and Sarah Damrell, married Gracie Brandenburg, fifteen, daughter of Major Brandenburg and Emily Howelton, on 4 September 1913. [C309] [C310] [S298] That Shelby is **not** Samuel P. Ladonna Newman Dunigan (19 November 1915 – 28 December 1984) and Clay Dunigan (18 May 1908 – 28 August 1986) lie at Dunaway Cemetery. [C312] [C313] Living descendants of that 1932 marriage are withheld.
 
@@ -248,11 +262,12 @@ Charts of pedigree, descendants, and lifespan follow the plates. Dashed lines me
 
 
 - **B049 / B058:** 1926 *Beattyville Enterprise*, *Yell County Journal*, *Danville Democrat*, and *Dardanelle Post-Dispatch* still unread. Free catalogs closed (R010 steps 1–18). [C293] [C301] [C343] [C346]
-- **B045 / B061 / B047:** Samuel P. probate film (FS 127913 / 127891) and court orders 1870–1919 unread; M1509 draft cards unread. [C320] [C348]
-- **FAN residual:** Frank of Berea (B055) not merged with Grant (conflict #20); John of Owsley (B056); Callie Spicer’s own death (B057); Grant’s death 1951–1955 (B063); Fred of Irvine (B062); William × Katherine Sternberg license (B064); Carter Cove stone photographs (B054). Luther’s death and Shelby × Grace are **closed**.
+- **B045 / B061 / B065:** Samuel P. probate and court-order **images** unread. Catalog IDs locked: FS **127913 / 127891 / 127869 / 964964 / 156057 / 97277**. October 1887 claims **nil**. KHS/KDLA film unread. [C360] [C361] [C374] [C375]
+- **B047 / B069:** M1509 **KY45/24/74** and FS **1146342** Lee WWI cards unread. Estill WWI page empty; GT Estill/Owsley **404**. [C367]
+- **FAN residual:** Frank of Berea (B055) not merged with Grant (#20) or with 1928 St. Helens Frank (#22); John of Owsley (B056); Callie Spicer’s own death (B057) — not the 1926 Callie Moore (#21); Grant’s Madison death (B066); Fred of Irvine (B062); William × Katherine Sternberg license (B064); two William lines (B071); Carter Cove stone photographs (B054). Luther’s death, Shelby × Grace, and Melissa Estes Miller **11 Apr 1957** are **closed**.
 - Greene 37–43 Stone sweep is **closed**. Do not reopen Peebles as a third marriage without a license. Do not print 1868 or 24 February 1906 as facts.
 
-The next session starts with **B045** (and **B061**).
+The next session starts with **B045** (FS **127913 / 127891**) and **B061** (**127869 / 964964**).
 
 ---
 
@@ -300,12 +315,20 @@ Numbered notes expand the claim/source tags in the narrative. Access labels: *im
 38. *Enterprise*, 11 May 1944: Linda Lou Spicer; grandparents Rev. and Mrs. Robert Spicer of Lower Buffalo. [USGenNet s.html](https://usgennet.org/usa/ky/county/lee/obituaries/s.html#lindalspicer). **C341** **S312**.
 39. Lee Books 2–8: no William Newnam × Katherine Sternberg. William Newnam witnessed Buford Sternberg × Ollie Murphy, 18 Oct 1888. [Book 3](https://usgennet.org/usa/ky/county/lee/marriage/marrbook3.html). **C339** **C340** **S308**.
 40. LOC Chronicling America collection JSON, 30 Oct 2026: Newnam + Kentucky 1930–1945 = 0; Newnam + *The Citizen* = 0; 1926 “Stone Ola Arkansas” = Osceola and other counties. **C344** **C345** **C347** **S316**. *Index only.*
+41. Lee deaths 1915: stillborn female Newnam, 29 May 1915, Willow; parents Grant Newnam × Martha Brandenburg. [USGenNet 1915](https://usgennet.org/usa/ky/county/lee/deaths/1915.html). KDI “NEWMAN, Grant 1,” vol. 026, cert. 12938, age U/1 = that infant, not Grant of Berea. [kdi/n.html](https://usgennet.org/usa/ky/county/lee/deaths/kdi/n.html). *Transcription only.* **C351** **C352** **S329**. **PROVEN** as extracts.
+42. Lee deaths 1926: Callie Newnam/Newnan d. 27 Apr 1926, parents Sam Moore × Mary Brandenburg; Dorothy Newnam d. 6 Oct 1926 Idamay, parents Everett Newnam × Callie Moore. [USGenNet 1926](https://usgennet.org/usa/ky/county/lee/deaths/1926.html). *Transcription only.* **C355–C357** **S331**. Conflict **#21**. **PROVEN** two-woman split.
+43. Lee deaths 1928: Frank Newnam d. 16 Mar 1928 St. Helens, b. 4 Oct 1853, parents William Newnam × Rhoda Tincher. [USGenNet 1928](https://usgennet.org/usa/ky/county/lee/deaths/1928.html). *Transcription only.* **C353** **C354** **S330**. Conflict **#22**. **PROVEN** not-merge vs Berea contractor.
+44. *Beattyville Enterprise*, 18 Apr 1957, plus Lee 1957 year-file: Melissa Newnam Estes Miller, d/o Elias T. × Mary Ann Smallwood, b. 22 Nov 1863, d. 11 Apr 1957; buried Riverview. [USGenNet m.html](https://usgennet.org/usa/ky/county/lee/obituaries/m.html#melissanmiller). *Transcription only.* **C358** **S332**. Same-person vs 1880 Malissa: parents + year. **PROVEN**.
+45. Madison County Public Library, Berea Cemetery burial inventory. [PDF](https://apps.madisonlibrary.org/public_records/BereaCemetery_Print.pdf). *Index only.* **Nil** Grant / Frank / Clifton Newnam. **C359** **S334**.
+46. FamilySearch catalog IDs (images unread): court orders 1870–1919 **127869**; order books 1894–1922 **964964**; probate 1870–1967 **127913**; wills 1873–1945 **127891**; tax 1870–75 **156057**; tax 1879–92 **97277**; Lee WWI cards **1146342**. LDSGenealogy FHL2 CGI numbers in saved HTML filenames are **not** those IDs. **C361** **S326** **S338**. *Catalog only.*
+47. USGenNet Lee court landing + October 1887 claims: **nil** Newnam. [court/](https://usgennet.org/usa/ky/county/lee/court/) · [Oct1887claims](https://usgennet.org/usa/ky/county/lee/court/Oct1887claims.html). **C360** **C362** **S327**. SNAC KHS probate 1873–1945 and KDLA other probate 1873–2004 / order books 1870–1981 unread. **C374** **C375** **S328**.
+48. Lee deaths 1951–1957 **nil** Grant decedent; Estill 1945 / 1951–55 **nil** Newnam/Newman/Grant/Fred; Owsley compiled obits **nil** John Newnam decedent; Book 1 **nil** William × Katherine. **C371** **C365** **C364** **C368** **S333** **S336** **S337** **S335**. *Transcription only.*
 
 ---
 
 ## Source index
 
-Working table of **saved local copies**. Full file list: [`../SOURCE-INDEX.md`](../SOURCE-INDEX.md) and [`../sources/SOURCE-INVENTORY.tsv`](../sources/SOURCE-INVENTORY.tsv) (406+ files after this pass).
+Working table of **saved local copies**. Full file list: [`../SOURCE-INDEX.md`](../SOURCE-INDEX.md) and [`../sources/SOURCE-INVENTORY.tsv`](../sources/SOURCE-INVENTORY.tsv) (**500** files after pass 64).
 
 | ID | Local file | Repository / URL | What it proves | Access |
 |---|---|---|---|---|
@@ -328,5 +351,12 @@ Working table of **saved local copies**. Full file list: [`../SOURCE-INDEX.md`](
 | S307 | `../sources/marriages/lee-book5-grant-martha-1899-extract-2026-10-30.txt` | [Book 5](https://usgennet.org/usa/ky/county/lee/marriage/marrbook5.html) | Grant × Martha 12 Aug 1899 | transcription only |
 | S309 | `../sources/obituaries/lee-obits-clifton-newman-1936-extract-2026-10-30.txt` | [Obits N](https://usgennet.org/usa/ky/county/lee/obituaries/n.html#cliftonnewman) | Clifton d. 29 Sep 1936 | transcription only |
 | S315 | `../sources/press/loc-item-dardanelle-post-dispatch.json` | [LOC sn89051008](https://www.loc.gov/item/sn89051008/) | *Dardanelle Post-Dispatch* not digitized | catalog only |
+| S326 | `../sources/catalog/fhl-175637-court-orders-1870-1919.html` + sibling FHL2 pages | [LDSGenealogy Lee court](https://ldsgenealogy.com/KY/Lee-County-Court-Records.htm) | FS IDs **127869 / 964964 / 127913 / 127891 / 156057 / 97277** | catalog only |
+| S329 | `../sources/vital/lee-deaths-1915-grant-stillborn-extract-2026-10-30.txt` | [1915 deaths](https://usgennet.org/usa/ky/county/lee/deaths/1915.html) | Grant × Martha stillborn 29 May 1915 | transcription only |
+| S330 | `../sources/vital/lee-deaths-1928-frank-newnam-extract-2026-10-30.txt` | [1928 deaths](https://usgennet.org/usa/ky/county/lee/deaths/1928.html) | Frank d. 16 Mar 1928 St. Helens — reject vs Berea | transcription only |
+| S331 | `../sources/vital/lee-deaths-1926-callie-dorothy-extract-2026-10-30.txt` | [1926 deaths](https://usgennet.org/usa/ky/county/lee/deaths/1926.html) | Callie Moore + Dorothy; not Spicer | transcription only |
+| S332 | `../sources/obituaries/lee-obits-melissa-estes-miller-1957-extract-2026-10-30.txt` | [Obits M](https://usgennet.org/usa/ky/county/lee/obituaries/m.html#melissanmiller) | Melissa Estes Miller d. 11 Apr 1957 | transcription only |
+| S334 | `../sources/cemetery/berea-cemetery-newnam-nil-2026-10-30.txt` | [Berea Cemetery PDF](https://apps.madisonlibrary.org/public_records/BereaCemetery_Print.pdf) | Nil Grant/Frank/Clifton | index only |
+| S338 | `../sources/catalog/ldsgenealogy-lee-military.html` | [LDSGenealogy Lee military](https://ldsgenealogy.com/KY/Lee-County-Military-Records.htm) | FS **1146342** unread | catalog only |
 
 Embedded plates live in `plates/` and `../sources/census/`. Charts: [`../visuals/pedigree-dora.svg`](../visuals/pedigree-dora.svg), [`../visuals/timeline-dora.svg`](../visuals/timeline-dora.svg).

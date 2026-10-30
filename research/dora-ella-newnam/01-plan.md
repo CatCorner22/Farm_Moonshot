@@ -103,6 +103,22 @@ Exact strings logged **L343–L360**.
 
 Exact strings logged **L380–L397**.
 
+## Name-variant storm (pass 64, `search_variants.py`)
+
+**Grant Newnam** — given: Grant, grent, gant, brant. Surname: Newnam, newman, newnarn, newan, newnom. Soundex **N550**. Combined: `"Grant Newnam"`, `"Newnam, Grant"`, `"Grant Newman"`. KDI infant row: **Grant 1** / **U/1**. Also **Martha Brandenburg**.
+
+**Frank Newnam** — Frank × Newnam/newman. Also **St. Helens**, **Tincher**, **1853**. Do not merge with Berea contractor.
+
+**Callie Newnam / Callie Moore** — Callie, Cally, Kelly (OCR). Also **Moore**, **Spicer**, **Dorothy**. Two women: wife (Moore, d. 1926) vs sister (Spicer, living 1944).
+
+**Melissa Newnam Estes Miller** — Melissa, Malissa, Eastes, Estes × Newnam/Newman. Also **Elias T.** + **Mary Ann Smallwood**. Herman Estes (deceased-only residual).
+
+**Samuel Newnam probate** — Samuel × Newnam/newman + will / administration / court orders. Catalog IDs (not FHL2 CGI numbers): **127869**, **964964**, **127913**, **127891**, **156057**, **97277**.
+
+**John H. / Luther WWI** — John, McCoy, Luther × Newnam + draft. FS **1146342**; M1509 **KY45 / KY24 / KY74**.
+
+Exact strings logged **L398–L411**.
+
 ## Agent SDK / GitHub channel
 
 Inspected 30 Oct 2026 (**L351**): this repository has **no** `package.json`, **no** `@grok/agent-sdk`, **no** `bot/` directory. GitHub channel `bot/channels/github.ts` is **n/a** and was **not** authored. Project subagent: `.cursor/agents/dora-genealogy-detective.md`.

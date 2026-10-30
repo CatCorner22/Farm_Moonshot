@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Estill County Marriages</title>
+
+<link rel="stylesheet" href="../../../style/style.css">
+</head>
+
+<body>
+<a id="top"></a>
+
+<div class="page">
+
+<header class="site-header">
+  <p class="site-title">Estill County Marriage Information</p>
+  <p class="site-subtitle">Estill County, Kentucky • KYGenWeb</p>
+</header>
+
+<section class="panel">
+  <p>
+    <!--<a href="../../index.htm">Home</a> |-->
+    <a href="../index.htm">Back</a>
+  </p>
+</section>
+
+
+   <section class="panel">
+    <p>
+      This section contains Estill County marriage records, certificates,
+      and related documents. If you are unsure of a marriage date, use the
+      site search or the RootsWeb marriage search below.
+    </p>
+	
+  </section>
+  
+
+  <section class="panel">
+    <h2>Marriage Files</h2>
+    <ul class="link-list">
+      <li><a href="pages/grooms.htm">Marriages by Groom Surname</a></li>
+      <li><a href="pages/marriage_1.htm">James Jones &amp; Mary E. Profitt</a></li>
+      <li><a href="pages/marriage_2.htm">Jesse Woosley &amp; Sarah Crutchfield</a></li>
+      <li><a href="pages/Estill ounty Marriages - 1850.htm">Estill County Marriages to 1850</a></li>
+       <li><a class="img-ref"
+            data-img="pages/images/marry221.jpg"
+            data-caption="">Minister’s Returns – July–Aug 1901</a></li>
+      <li><a class="img-ref"
+            data-img="pages/images/returns.jpg"
+            data-caption="">Minister’s Returns – March 1902</a></li>
+    </ul>
+  </section>
+
+  <section class="panel">
+    <h2>Marriage Certificates</h2>
+
+    <div class="alpha-grid">
+      <a href="pages/certificates.htm">Certificates</a>
+    
+    </div>
+   
+  </section>
+<!-- =====================================================
+       NOTES / DISCLAIMER
+       ===================================================== -->
+  <section class="panel note">
+    
+	<div id="disclaimer"></div>
+<!--<script>
+fetch('../../../include/disclaimer.htm').then(r=>r.text()).then(t=>document.getElementById('disclaimer').innerHTML=t);
+</script>-->
+
+	<script>
+fetch('../../include/disclaimer.htm')
+  .then(r => { if(!r.ok) throw new Error('HTTP '+r.status); return r.text(); })
+  .then(t => document.getElementById('disclaimer').innerHTML = t)
+  .catch(e => document.getElementById('disclaimer').innerHTML = '<section class="panel note"><p><strong>Disclaimer failed to load:</strong> '+e.message+'</p></section>');
+</script>
+
+  </section>
+
+</div>
+
+<!-- =====================================================
+     GLOBAL IMAGE OVERLAY SYSTEM
+     ===================================================== -->
+<script src="https://kygenweb.net/estill/style/img-overlay.js"></script>
+
+  
+</body>
+</html>

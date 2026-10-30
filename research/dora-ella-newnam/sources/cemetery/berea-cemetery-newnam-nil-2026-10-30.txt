@@ -1,0 +1,14 @@
+Madison County Public Library, Berea Cemetery burial inventory
+https://apps.madisonlibrary.org/public_records/BereaCemetery_Print.pdf
+Local copy: berea-cemetery-inventory.pdf (5,166,102 bytes), captured 30 Oct 2026.
+Index only (compiled cemetery book). Stones not photographed.
+
+Grep of the extracted text for Newnam / Newman / Grant / Clifton / Frank:
+
+  MARY V. PARSONS NEWMAN (F) Oct. 27, 1913 – Apr. 9, 2000 — not merged
+  MARIE NEWMAN WOODS (F) Apr. 30, 1929 – Dec. 18, 1999 — not merged
+  GRANT as given name appears on other surnames (Abrams, Chenault, etc.)
+
+NIL: Grant Newnam/Newman; Frank Newnam/Newman; Clifton Newnam/Newman.
+
+Grant of Berea, Frank the contractor, and Clifton (d. 29 Sep 1936) are not in this published Berea Cemetery inventory.
