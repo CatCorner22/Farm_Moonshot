@@ -1,0 +1,5 @@
+Clay County KY 1840 census transcription, Timothy Spence, kygenweb.net/clay/census/1840.html
+Opened 30 Oct 2026 (America/New_York) via WebFetch.
+Search (case-insensitive): Newman, Newnam, Numan, Newmon, Tincher, Tinsher.
+Result: NIL.
+The page is a full-county head-of-household transcript with age-tick strings. Derivative of M704-108 (Clark, Clay, Clinton, Cumberland). Original not seen this pass.

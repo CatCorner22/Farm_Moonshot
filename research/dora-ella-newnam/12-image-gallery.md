@@ -1,6 +1,6 @@
 # Source-image gallery: Dora Ella Newnam Stone
 
-One hundred fifteen numbered plates (JPEG/PNG captures from NARA microfilm via Internet Archive, plus header and household crops). Plates **7g–7j** are the 1860 Owsley and 1880 Lee Gray originals added in passes 39–40. Plates **7k–7z** and **8a–8f** are the later 1850–1860 Owsley/Breathitt/Madison isolations, including Harrison Newman with Elias aged eight, H.H. Newman with Elias aged eighteen, and Giles Mays at one month and eleven. They are ordered by **the date of the census they record or index**, not by the date the film was scanned. Plates **1a–2c**, **7a–7c**, **55b–55c**, and the 1880 G-600 cards were added in passes 34–37.
+One hundred eighteen numbered plates (JPEG/PNG captures from NARA microfilm via Internet Archive, plus header and household crops). Plates **7g–7j** are the 1860 Owsley and 1880 Lee Gray originals added in passes 39–40. Plates **7k–7z** and **8a–8f** are the later 1850–1860 Owsley/Breathitt/Madison isolations, including Harrison Newman with Elias aged eight, H.H. Newman with Elias aged eighteen, and Giles Mays at one month and eleven. Plates **8j–8l** are the 1840 Estill originals (John and Christian Tincher, the county recap, and William Newton not Tincher) added in pass 55; they sit after the 1880 Buck Creek plate because those numbers were already assigned. They are ordered by **the date of the census they record or index**, not by the date the film was scanned. Plates **1a–2c**, **7a–7c**, **55b–55c**, and the 1880 G-600 cards were added in passes 34–37.
 
 Soundex and Miracode cards sit with the census year they index, immediately after any original population schedules for that year.
 
@@ -1340,6 +1340,36 @@ Dwelling **74/77**: Newman, Henry, 34, farm laborer; Mary, 33, wife, keeping hou
 ![1880 Owsley ED 80 page 9 — Newman, Henry, 34](sources/census/1880-owsley-ed80-p9-hh74-henry.jpg)
 
 ![1880 Owsley ED 80 page 9 — nativity, Mary’s father England](sources/census/1880-owsley-ed80-p9-hh74-nativity.jpg)
+
+### 8j · 1 June 1840 · Estill overlay 0059 — John Tincher and Christian Tincher
+
+**Role:** FAN (young Tincher heads in Estill; not merged as brothers of Belinda/Millie)  
+**File:** [`sources/census/1840-estill-m704-109-leaf66-tincher.jpg`](sources/census/1840-estill-m704-109-leaf66-tincher.jpg)  
+**Source:** S468 · C567 · C568 · DOC074
+
+Warren Lewis, County of Estill. **John Tincher**: males 2 under 5, 1 aged 5–10, 1 aged 20–30; female 1 aged 20–30. **Christian Tincher**: male 1 under 5, 1 aged 20–30; females 2 under 5, 1 aged 5–10, 1 aged 20–30. Neither is a man of fifty. No Newman head on this page.
+
+![1840 Estill overlay 0059 — John and Christian Tincher](sources/census/1840-estill-m704-109-leaf66-tincher.jpg)
+
+### 8k · 1840 · Estill recap overlay 0081 — J.G. Riddle, 5535 inhabitants
+
+**Role:** FAN (closes Warren Lewis’s Estill name pages on M704-109)  
+**File:** [`sources/census/1840-estill-m704-109-leaf89-recap.jpg`](sources/census/1840-estill-m704-109-leaf89-recap.jpg)  
+**Source:** S468 · C571 · DOC075
+
+Estill County. Assistant marshal **J.G. Riddle**. One recapitulation. Total inhabitants **5535** (a **5543** figure also appears; print both). Certified by Richard Ricketts. Compared with the aggregate.
+
+![1840 Estill recap overlay 0081](sources/census/1840-estill-m704-109-leaf89-recap.jpg)
+
+### 8l · 1 June 1840 · Estill overlay 0063 — William Newton, not Tincher
+
+**Role:** FAN (withdrawn Tincher misread)  
+**File:** [`sources/census/1840-estill-m704-109-leaf70-william-newton.jpg`](sources/census/1840-estill-m704-109-leaf70-william-newton.jpg)  
+**Source:** S468 · C572 · DOC076
+
+Same Lewis Estill division. The head near the foot is **William Newton**; **Jonathan Newton** follows. Male ticks include ages 15–20, 20–30, and 40–50. Do not treat the older male as a named Elias Tincher.
+
+![1840 Estill overlay 0063 — William Newton](sources/census/1840-estill-m704-109-leaf70-william-newton.jpg)
 
 ## Pass 50 note — cemetery overview (not a numbered plate)
 

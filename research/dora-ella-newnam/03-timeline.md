@@ -4,6 +4,7 @@ Place as it was *at the date*; modern equivalent in brackets. Flag impossibiliti
 
 | Date (exact/range) | Age | Event | Place (then [now]) | Claim ID | Source ID |
 |---|---|---|---|---|---|
+| **1 Jun 1840** (census day) | — | FAN: Estill Co. original, Warren Lewis name pages. **John Tincher** and **Christian Tincher** are young heads (both male 20–30) on overlay **0059**. **Nil** named head Henry/Harrison/Newman/Newnam. **Nil** named head Elias Tincher. County recap overlay **0081**: **J.G. Riddle**, **5535** inhabitants. A “William Tincher” on overlay **0063** is **William Newton**. Authored 27 Feb 1840 Newman×Tincher bond **still unseen** | Estill Co., KY | C567 C568 C569 C570 C571 C572 C576 | S468 |
 | 18 Apr 1842 | — | Father Elias T. Newnam born | Clark Co., KY | C040 | S011 prior |
 | Apr 1842 / 22 Apr 1842 | — | Mother Mary Ann Smallwood born | KY (Owsley-area) | C041 | S032 prior |
 | **27 Jul 1850** | — | FAN (mapping): Breathitt Dist **1** stamped **18A** original opens (John Hargis 48 lawyer dw 1). **17B** is blank | Breathitt Co., KY | C457 C462 | S405 S409 |

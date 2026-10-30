@@ -767,3 +767,23 @@ research/dora-ella-newnam/sources/census/1880-lee-ky-ed59-sheet43-p768-caroline-
   sha256: 8a6f3c38e2904cb752fe03c0ab670136153f3e22d4f7161cbdbde24b46a02daf
   format: JPEG crop, 1600x779px
   check: Mary father England; Henry Kentucky/Ky/Ky; children Kentucky/Ky/Ky
+/workspace/research/dora-ella-newnam/sources/census/1840-estill-m704-109-leaf66-tincher.jpg
+  sha256: c68ee9990c8ec0f1ce76c3d714c0725d4effb9857bd22316e326c82ddce73cb9
+  format: JPEG crop, 2400x1135px
+  check: overlay 0059 John Tincher + Christian Tincher; M704-109 _0066.jp2
+/workspace/research/dora-ella-newnam/sources/census/1840-estill-m704-109-leaf70-william-newton.jpg
+  sha256: a905b6ae81ed6c5c8ae2751e203102ec4dfd77eae25eb4af6399c4faa1ec552d
+  format: JPEG crop, 1600x2011px
+  check: overlay 0063 William Newton not Tincher; Jonathan Newton next
+/workspace/research/dora-ella-newnam/sources/census/1840-estill-m704-109-leaf89-recap.jpg
+  sha256: 0dfb78316a0cb94177667b6b9ecdec33b61f91b16db281bef333ad316e0e9588
+  format: JPEG crop, 2200x1751px
+  check: overlay 0081 Estill recap J.G. Riddle 5535 inhabitants
+/workspace/research/dora-ella-newnam/sources/indexes/estill-kyfootsteps-marr-misc-1808-1851-c-grooms.txt
+  sha256: fdb8b4e17b15d73936af039dc0ecf921ca028caa3bcce11df8c85cf15379d462
+  format: text extract, 1,878 bytes
+  check: C-groom surnames only; coverage hole not a Newman×Tincher nil
+/workspace/research/dora-ella-newnam/sources/indexes/clay-1840-spence-newman-tincher-nil.txt
+  sha256: 5f69fe625c119aaac51e3a211a46059c603e3509c637615634a293a52b3ad218
+  format: text extract, 400 bytes
+  check: Clay 1840 transcript nil Newman/Tincher; original unread

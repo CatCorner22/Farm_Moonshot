@@ -1780,3 +1780,53 @@ Pass 2: Surname **Newman** (Kendrick **NEWNAM**). Given **Ellen F.** (not Ellih)
 - Mary father England on original → C563
 - vs 1860 still PROBABLE → C564
 - B065 done → C565
+
+## DOC074 — 1840 U.S. census, Estill Co. KY, Warren Lewis, overlay 0059 (John & Christian Tincher)
+- Household crop: `sources/census/1840-estill-m704-109-leaf66-tincher.jpg` SHA-256 `c68ee9990c8ec0f1ce76c3d714c0725d4effb9857bd22316e326c82ddce73cb9` (2400×1135)
+- Provenance: NARA M704 reel **109**; IA `populationsc18400109unit` jp2 `_0066.jp2` overlay stamp **0059** (jp2 SHA-256 `302b0cad5ce5fa3ef65f814f8974eb12712deca13f95a437d8c638e3d19133b4`; **not committed**). Left-margin series: **County of Estill**; enumerator **Warren Lewis**. **Image seen.** Two-pass.
+
+### Diplomatic
+
+> SCHEDULE of the whole number of persons within the division allotted to **Warren Lewis**. County of **Estill** (left margin, this series). Overlay **0059**.
+
+> **John Tincher** · males: **2** under 5 · **1** aged 5–10 · **1** aged 20–30 · females: **1** aged 20–30
+> **Christian Tincher** · males: **1** under 5 · **1** aged 20–30 · females: **2** under 5 · **1** aged 5–10 · **1** aged 20–30
+
+Pass 2: Given **John** (not Jhn as a different man) and **Christian**. Surname **Tincher** (not Tucker; Tucker heads appear on later Lewis pages). Neighbours on the same name block include Harrison Wills, Samuel Bean/Bowen, James Howard, John Martin, Elizabeth Gummins/Tinnery, William Osborne, Samuel Hall, **John Newton**. No Newman/Newnam head on this page.
+
+### Facts extracted → claim IDs
+- John Tincher young head → C567
+- Christian Tincher young head → C568
+- Not Elias ~50; unmerged as Belinda’s brothers → C567 C568 C570
+
+## DOC075 — 1840 U.S. census, Estill Co. KY recap, overlay 0081
+- Recap crop: `sources/census/1840-estill-m704-109-leaf89-recap.jpg` SHA-256 `0dfb78316a0cb94177667b6b9ecdec33b61f91b16db281bef333ad316e0e9588` (2200×1751)
+- Provenance: IA `populationsc18400109unit` jp2 `_0089.jp2` overlay stamp **0081** (jp2 SHA-256 `441daca3e6e897668ff2b9475db399d72c6f9ebd1d21c7867c08de0a8643d621`; **not committed**). **Image seen.** Two-pass.
+
+### Diplomatic
+
+> **Estill County.** **J.G. Riddle** Asst. **(1 Recapitulation)**. Large sheet number **30**.
+> The annual return of enumeration, made by **J.G. Riddle** (assistant marshall) appointed to take the census of **Estill County**, I have examined & hereby certify to be correct. **Richard Ricketts**.
+> Total No. of Inhabitants: **5535** (a **5543** figure also appears beside it; do not average).
+> **Compared with the aggregate.**
+
+Pass 2: Assistant marshal is **J.G. Riddle**, not Warren Lewis (Lewis enumerated the name pages). Certification signatory **Richard Ricketts**. This sheet closes the Lewis Estill name pages on this reel. Overlay **0084** / IA `_0092.jp2` is a **different** enumerator (**Andrew McIlvain**).
+
+### Facts extracted → claim IDs
+- Recap 5535 / Riddle / 1 Recapitulation → C571
+- Later McIlvain sheets not proved Estill from this recap → C577
+
+## DOC076 — 1840 U.S. census, Estill Co. KY, overlay 0063 (William Newton, not Tincher)
+- Name-column crop: `sources/census/1840-estill-m704-109-leaf70-william-newton.jpg` SHA-256 `a905b6ae81ed6c5c8ae2751e203102ec4dfd77eae25eb4af6399c4faa1ec552d` (1600×2011)
+- Provenance: IA `populationsc18400109unit` jp2 `_0070.jp2` overlay stamp **0063** (jp2 SHA-256 `a493830a7cb7731c69977e127630b8650aee566b36d8f2c8e8c70b2c4ebafe7a`; **not committed**). Same Lewis Estill series (left margin **County of Estill**). **Image seen.** Two-pass.
+
+### Diplomatic
+
+> Lower names on overlay **0063**, among others: William Gibson · David Glover · William Tibbs · John Henson · Elijah Hatfield/Ratliff · J.D. Ayer · John T. Hornsby · **William Newton** · Jacob Cables · James T. Little · **Jonathan Newton**.
+
+> **William Newton** · males: **1** aged 15–20 · **1** aged 20–30 · **1** aged 40–50 · females: ticks in the 20–30 and 30–40 columns (and a later female column). Do not treat the male 40–50 as a named Elias.
+
+Pass 2: Surname **Newton** (capital N, *-ton* ending), **not** Tincher. Confirmed against John/Christian **Tincher** on overlay **0059** (different capital T and *-cher*). First-pass “William Tincher” **withdrawn**.
+
+### Facts extracted → claim IDs
+- William Newton, not Tincher → C572
