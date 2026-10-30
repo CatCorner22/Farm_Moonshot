@@ -237,22 +237,72 @@ SHA-256 `a1c9d2cbfef048e932a6727d084634cc953dc5bff940d31d6693041ab39ea416` · 22
 **Not P002.**
 
 ### Sheet 13B (PDF 576) — `1910-lee-ky-ed99-p576.jpg`
-SHA-256 `d0b20cdf0b4a85729311415bc1659ee9e0c9aaf6645aa5a90ae1d1cfd53d9f87` · 2268×1575.
+SHA-256 `d0b20cdf0b4a85729311415bc1659ee9e0c9aaf6645aa5a90ae1d1cfd53d9f87` · 2268×1575. **Re-read 30 Oct 2026 (two-pass).** Header: SD **10** · ED **99** · Sheet **13 B** · enumerated **11 May 1910**.
 
-Dwelling **218/257**: **Newman, John H.**, head, ~45, M1 25 years; wife ~52; son **Malcum** ~27, laborer. **Not P010** (P010 was 9 months old in Jun 1900).
-
-Diplomatic (FAN household, re-read 29 Oct 2026):
+Pass 1 (29 Oct) assigned fam **251** to Samuel Farmer and dw **218/257** to John H. Newman — **withdrawn**. Pass 2 from the same JPEG + magnified crops:
 
 | Dw/Fam | Name | Rel | Age | Mar | Notes |
 |---|---|---|---|---|---|
-| 228/251 | **Farmer, Samuel** | Head | 33 | M1 6 | Farmer; = S. P. Farmer of C165 |
-| | Martha | Wife | 23 | M1 6 | 2/2; = Martha Mays (C164) |
-| | Flora | Dau | 5 | S | Later Flora Barrett (S151) |
+| 237/247 | **Newman, John H.** | Head | 45 | M1 25 | **Not P010.** Prior 218/257 withdrawn (**C322**) |
+| | Amanda [?] | Wife | 33[?] | M1 25 | 8/3. Age vs years-married is strained — `[?]` |
+| | Malcolm | Son | 6[?] | S | Prior “Malcum ~27” withdrawn as confident |
+| 238/248 | **Treadway, Solomon** | Head | 34 | M1 16 | **Original fam 248** — not Hardin Gray (**C319**) |
+| | Nellie | Wife | 30 | M1 16 | 6/5[?] |
+| | Minnie | Dau | 14 | S | |
+| | Earl | Son | 11 | S | |
+| | Gertrude | Dau | 7 | S | |
+| | Granville | Son | 5 | S | |
+| | Mabel | Dau | 3 | S | |
+| 240/250 | Wright, Moses | Head | 25 | M1 0 | |
+| | Elizabeth | Wife | 19 | M1 0 | |
+| 241/251 | **Gray, Hardin** | Head | **34** | M1 **12** | Farmer, own farm. → **C317** / DOC024 |
+| | **Vista** | Wife | **27** | M1 **12** | **4/4**. Father b. **Virginia** |
+| | Rascoe | Son | 11 | S | Miracode Rascoe 10 |
+| | Hubert | Son | 9 | S | Miracode Hulbert 07 |
+| | Elcie | Son | 4 | S | Miracode Elize S 04 (sex M on original) |
+| | Deanna | Dau | 1 2/12[?] | S | Months `[?]`; Miracode NR |
+| 242/252 | Farmer, John T. | Head | 25 | M1 7 | Different man from Samuel |
+| 245/255 | **Farmer, Samuel** | Head | 33 | M1 6 | = S. P. Farmer (**C182** / **C320**) |
+| | Martha | Wife | 23 | M1 6 | 2/2; = Martha Mays |
+| | Flora | Dau | 5 | S | |
 | | Everett | Son | 3 | S | |
+| 248/258 | **Gray, William** | Head | 60 | M1 40 | FAN only (**C321**) |
+| | Mary Jane | Wife | 56 | M1 40 | 7/6 |
+| 249/259 | Gray, Columbus | Head | 17 | M1 2 | Not merged with the grandson in 258 |
 
-**No** mother-in-law / Louisa / Ida / Bertie in the house. → C182.
+**No** Louisa / Eliza / mother-in-law in Hardin’s house or Samuel Farmer’s. → C317 C182.
 
 ED 99 continues through sheet **14 A** (PDF 577). PDF 580 = ED 100 Proctor 1A. No household in the ED lists Dora ~39, Samuel ~41, McCoy ~20, or John H. ~10 of the 1900 Sturgeon set. → C088 C089.
+
+## DOC024 — 1910 U.S. census, Hardin Gray household (original)
+
+- Image: `sources/census/1910-lee-ky-ed99-p576.jpg` · SHA-256 `d0b20cdf0b4a85729311415bc1659ee9e0c9aaf6645aa5a90ae1d1cfd53d9f87`
+- Crop: `sources/census/1910-lee-ky-ed99-sh13b-hardin-gray-crop.jpg` · SHA-256 `c79472ba0da973b0342882a1e0dd2ae5ef49ad01625b0d8701f27f2e0a2cdaee`
+- Page: NARA T624-478; IA PDF 576; ED 99 sheet **13 B**; dw **241** / fam **251**
+- Provenance: NARA microfilm JPEG already in this case folder; **re-read from the image** 30 Oct 2026 (not from the 29 Oct draft). Saw: scan. Original paper not seen ☐
+- Language / script: English; one enumerator hand (American census cursive 1910)
+- Image quality: **sufficient** for surname, given names, ages 34/27, 4-4, and sex of Elcie (M). Deanna’s months `[?]`.
+- Enhancements: contrast crop for Pass 2; quoted dossier image is the uninverted original JPEG
+
+### Diplomatic (this household only)
+
+> Gray, Hardin · Head · M · W · 34 · M1 · 12 · Kentucky · Kentucky · Kentucky · Farmer · own farm · OA  
+> — Vista · Wife · F · W · 27 · M1 · 12 · 4 · 4 · Kentucky · Virginia · Kentucky  
+> — Rascoe · Son · M · W · 11 · S · Kentucky  
+> — Hubert · Son · M · W · 9 · S · Kentucky  
+> — Elcie · Son · M · W · 4 · S · Kentucky  
+> — Deanna · Daughter · F · W · 1 2/12[?] · S · Kentucky
+
+Pass 2: First-pass expectation of “Adkins, Calvin” on a wide crop was **rejected** against the magnified surname (**Gray**, **Hardin**). Bottom-of-page **William Gray** is a different household. No mother-in-law line.
+
+### Normalised reading
+Hardin Gray, 34, married 12 years, farmer, and wife Vista, 27, four children all living — Rascoe 11, Hubert 9, Elcie 4 (son), Deanna about one — Sturgeon, Lee County, 11 May 1910. Louisa Pendergrass Mays Brandenburg is not in the house.
+
+### Facts extracted → claim IDs
+- “Gray, Hardin” “34” “Vista” “27” “4” “4” → C317 C184 C166
+- No Louisa/mother-in-law → C317 (negative)
+- Original fam 251 vs Miracode 0248 → C319
+- Samuel Farmer is 245/255 on the same sheet → C320 C182
 
 ## DOC019 — 1910 KY Miracode G-600 Hardin Gray (typed card)
 
@@ -265,7 +315,7 @@ IA `soundex1910ky064` p.443. **Image seen** 29 Oct 2026.
 > ELIZE S 04 KENTUCKY  
 > DEANNA D NR  
 
-No mother-in-law. = C166 couple. → C184. Original family 248 **not on the bound ED 99 sheets** (families 243–249 skipped; sh 14 B blank). → C194.
+No mother-in-law. = C166 couple. → C184. Original of this couple **is** ED 99 sh **13 B** dw **241** fam **251** (**C317** / DOC024). Miracode **0248** ≠ original fam 248 (that line is Treadway, **C319**). Prior C194 gap **DISPROVED**.
 
 ## DOC020 — 1958 Vestie Bell Gray death-certificate extract
 
@@ -384,3 +434,110 @@ Thomas Stone, 44, woodchopper, and wife Nancy E., 33, married 18 years, with fiv
 
 ## DOC009 — 1910 TN Soundex N-550 McCoy window (nil)
 Handwritten family/individual cards n2461–n2469. Sequence after Mary C (n2460): Mary D 49 Jefferson (son Layton 11); Mary M 70 Hamilton; Mek. G 50 Cheatham (Florence 19, John 17, General 16, Frances 13, William 10, Doria 6, Luther 1½); Melvin 3½ Giles (gs of Deacon George W); Melvin 54 Giles (SIL of same); Minerva 80 Robertson (gds Lona Neely, Nellie Erwin); Minnie 21 Roane (with Sam P. Sparks); Mitchell 27 Hardin (Ollie P 25, Gladys 4, Burl W 3, Royal E 1 9/12). **No McCoy.** SHA-256 n2463 `23610f8aa4c159b1b554ed1786d11f57d2f56f8a2e8994f7289ae7bd02dfca53`; n2469 `340489566090880388fa6b81ca5751c5944dcaf56a7b44f70fe560788f308586`.
+
+
+## DOC019 — 1910 KY Miracode N-550 printed p. 266 (Ella window)
+- Image file(s) + SHA-256: `sources/soundex/1910-ky-n550-p0268-ella-window.jpg` · `00484c73c6c277abca03dc69f150e37b7e0ad11ed31752c942a9f4100c31cd15` (1011×1271 JPEG of IA PDF p. **268** / printed **266**)
+- Page: IA `soundex1910ky124`; NARA T1266 Kentucky 1910 Miracode N-550
+- Provenance: NARA microfilm via Internet Archive PDF, rendered 30 Oct 2026. Saw: scan of typed cards. Original paper not seen ☐
+- Language / script / hands: English; **typed** Miracode cards (one clerk’s typewriter)
+- Image quality: **sufficient** for county, given names, relationship codes, ages, nativity, vol/ED/sheet. Printed page number **266** in upper left.
+- Enhancements: none on the saved JPEG (90–100 dpi PDF render)
+
+### Diplomatic transcription (all five cards on the page; Pass 1+2 from the JPEG)
+
+**Card 1 — Floyd**
+> FLOYD · N550 NEWMAN · ELKANER H · W 21 KENTUCKY KY · 027 0059 0206  
+> BELLE W · 29 KENTUCKY  
+> GRACY SD · 12 KENTUCKY  
+> DORTHA SD · 10 KENTUCKY  
+> WILLIE SS · 07 KENTUCKY  
+> {left col.} BUM[?]
+
+**Card 2 — Campbell / Newport**
+> CAMPBELL · N550 NEWMAN · NEWPORT · ELLA SE · W 35 KENTUCKY KY · 010 0015 0036  
+> ENUMERATED WITH  
+> ROBINSON LAFAYETTE H W
+
+**Card 3 — Fayette / Lexington**
+> FAYETTE · N550 NEWMAN · LEXINGTON · ELLA SI · B 13 KENTUCKY KY · 025 0023 0191  
+> ENUMERATED WITH  
+> BEASELEY WILLIAM H B
+
+**Card 4 — Pendleton**
+> PENDLETON · N550 NEWMAN · ELLANORA SI · 4½ KENTUCKY KY · 075 0137 0110  
+> ENUMERATED WITH  
+> NEWMAN GEORGE H W
+
+**Card 5 — Fayette / Lexington**
+> FAYETTE · N550 NEWMAN · LEXINGTON · ELLEN LO · W 77 IRE[.] KY · 025 0016 0300  
+> ENUMERATED WITH  
+> STAFFORD EUPHRASIA H W
+
+Pass 2: Relationship codes **SE** (servant), **SI** (sister / sister-in-law as indexed), **LO** (lodger), **H/W/SD/SS**. No **Lee**, **Greene**, or **Owsley** county in the Ella cards. Age **35** on card 2 is two digits, not 39. Age **13** on card 3 is race **B**. Age **77** and birthplace **IRE** on card 5 unambiguous. Elkaner given name **Elkaner** (not Ella).
+
+### Normalised reading
+The Ella given-name window for Kentucky Newman/Newnam in 1910 Miracode holds: a 21-year-old Floyd head Elkaner with wife Belle; Ella, 35, servant of Lafayette Robinson in Newport; Ella, 13, Black, sister in William Beaseley’s Lexington house; Ellanora, 4½, with George Newman in Pendleton; Ellen, 77, Irish lodger of Euphrasia Stafford in Lexington. None is Dora Ella Newnam of Sturgeon, ~39.
+
+### Facts extracted → claim IDs
+- No Lee/Greene/Owsley Ella ~39 → C301
+- Cards 2–5 and Elkaner → C302 C303 C304 C305 C308
+
+## DOC020 — 1910 KY Miracode N-550 printed p. 253 (Charles T. + Ella, Union)
+- Image: `sources/soundex/1910-ky-n550-p0255-charles-t-ella-union.jpg` SHA-256 `8ae58cd8384a5b9bde9bf3fa235775f2af0457de51bca97f346adcf10498b570` (1011×1271; printed **253**)
+- Quality: sufficient. Typed cards.
+
+### Diplomatic (Union card only; other cards on the page are Charles/Elsie Mason, Charles L Louisville, Charles W Bullitt ×2)
+
+> UNION · N550 NEWMAN · CHARLES T H · W 29 KENTUCKY KY · 086 0112 0218  
+> ELLA W · 40 KENTUCKY  
+> HENRY A S · 12 KENTUCKY  
+> ELISEBETH D · 07 KENTUCKY
+
+Pass 2: Wife given name **ELLA**; age **40** (not 39). County **UNION**. Head **CHARLES T**. → C306
+
+## DOC021 — 1910 KY Miracode N-550 printed p. 254 (Lee Beattyville Chas + Emma)
+- Image: `sources/soundex/1910-ky-n550-p0256-lee-beattyville-chas-emma.jpg` SHA-256 `b1462ee4d5903f20cc85605e8edc8d1e800a5737f6f6d46509a7308872aff111` (printed **254**)
+- Quality: sufficient.
+
+### Diplomatic (Lee card only)
+
+> LEE · N550 NEWMAN · BEATTYVILLE · CHAS H · W 21 KENTUCKY KY · 033 0091 0013  
+> EMMA W · 23 KENTUCKY  
+> SELDON S · NR KENTUCKY  
+> ADDIE SI · 18 KENTUCKY
+
+Pass 2: County **LEE**, town **BEATTYVILLE**, ED **91**. Head **CHAS** age **21**; wife **EMMA** **23**. Not Dora/Samuel. → C307
+
+## DOC022 — 1910 KY Miracode N-550 printed p. 265 (Elizati, Lee)
+- Image: `sources/soundex/1910-ky-n550-p0267-elizati-lee.jpg` SHA-256 `5e9a40fe24e010f6ddf6a735d0b6fdf94795910b1c132d26de07b426f7ed012c` (printed **265**)
+- Quality: sufficient; given name on last card reads **ELIZATI** (not Elizabeth).
+
+### Diplomatic (Lee card only; other cards Jefferson Elizabeth 67, Kenton Niemann, Kenton Neamann, McCracken Elizabeth J)
+
+> LEE · N550 NEWNAN · ELIZATI H · W 30 KENTUCKY KY · 033 0099 0090  
+> LUCY W · 22 KENTUCKY  
+> ROBERT S · 04 KENTUCKY  
+> WILLIE S · 04 KENTUCKY  
+> NETTIE D · 02 KENTUCKY
+
+Pass 2: Surname **NEWNAN**; ED **99** (Sturgeon). Head **30** male. Already inside the original ED 99 sweep (**C088**). **Not** P001.
+
+## DOC023 — 1910 KY Miracode N-550 printed p. 267 (after Ella)
+- Image: `sources/soundex/1910-ky-n550-p0269-after-ella-ellen-elsie.jpg` SHA-256 `24ab2811acf37b904145e8a24d381b50bdeb059942a7f1ebe3a3f0cc220aa797` (printed **267**; 827×1040)
+- Quality: sufficient. Confirms the Ella given-name window has ended.
+
+### Diplomatic (all five cards)
+
+> JEFFERSON · N550 NEWMAN · LOUISVILLE · ELLEN BO · B 66 KENTUCKY KY · 047 0102 0030  
+> ENUMERATED WITH · FRANK SUSIE H B  
+> UNION · N550 NEWMAN · ELLIOTT H · W 29 KENTUCKY KY · 086 0127 0047  
+> ADELLA SI · 34 KENTUCKY  
+> BARREN · N550 NEWMAN · GLASGOW · ELLIS H · B 35 KENTUCKY KY · 004 0016 0181  
+> NANNIE W · 21 KENTUCKY · ROSIE B D 12 · ROY S 10 · CECIL S 07  
+> MUHLENBERG · N550 NEWMAN · ELSIE M BO · W 16 KENTUCKY KY · 070 0080 0091  
+> ENUMERATED WITH · SUMNER DAVID H W  
+> MCCRACKEN · N550 NEWMAN · EMERALD GGS · 02 KENTUCKY KY · 064 0129 0324  
+> ENUMERATED WITH · NEWMAN PERCILLA H W
+
+Pass 2: First given names **Ellen / Elliott / Ellis / Elsie / Emerald** — alphabetical after Ella. **No** further Ella card. Ellen **66** race **B** → C313. Combined with DOC019 → C301.

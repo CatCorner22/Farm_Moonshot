@@ -218,3 +218,27 @@ research/dora-ella-newnam/sources/census/1900-douglas-mo-ed159-stone-hh-crop.jpg
   sha256: 79fffff5b3df2d9332df7b5e082f656acc3bb77d6aec3f53d198bfe4add7d2d8
   format: JPEG photo, 2860x527px
   check: full page + margins + verso? straight-on, no glare/flash, strokes several px tall? (paleography.md intake)
+/workspace/research/dora-ella-newnam/sources/soundex/1910-ky-n550-p0255-charles-t-ella-union.jpg  (63,226 bytes)
+  sha256: 8ae58cd8384a5b9bde9bf3fa235775f2af0457de51bca97f346adcf10498b570
+  format: JPEG photo, 1011x1271px
+  check: full page + margins + verso? straight-on, no glare/flash, strokes several px tall? (paleography.md intake)
+/workspace/research/dora-ella-newnam/sources/soundex/1910-ky-n550-p0256-lee-beattyville-chas-emma.jpg  (62,767 bytes)
+  sha256: b1462ee4d5903f20cc85605e8edc8d1e800a5737f6f6d46509a7308872aff111
+  format: JPEG photo, 1011x1271px
+  check: full page + margins + verso? straight-on, no glare/flash, strokes several px tall? (paleography.md intake)
+/workspace/research/dora-ella-newnam/sources/soundex/1910-ky-n550-p0267-elizati-lee.jpg  (57,764 bytes)
+  sha256: 5e9a40fe24e010f6ddf6a735d0b6fdf94795910b1c132d26de07b426f7ed012c
+  format: JPEG photo, 1011x1271px
+  check: full page + margins + verso? straight-on, no glare/flash, strokes several px tall? (paleography.md intake)
+/workspace/research/dora-ella-newnam/sources/soundex/1910-ky-n550-p0268-ella-window.jpg  (59,893 bytes)
+  sha256: 00484c73c6c277abca03dc69f150e37b7e0ad11ed31752c942a9f4100c31cd15
+  format: JPEG photo, 1011x1271px
+  check: full page + margins + verso? straight-on, no glare/flash, strokes several px tall? (paleography.md intake)
+/workspace/research/dora-ella-newnam/sources/soundex/1910-ky-n550-p0269-after-ella-ellen-elsie.jpg  (120,024 bytes)
+  sha256: 24ab2811acf37b904145e8a24d381b50bdeb059942a7f1ebe3a3f0cc220aa797
+  format: JPEG photo, 827x1040px
+  check: full page + margins + verso? straight-on, no glare/flash, strokes several px tall? (paleography.md intake)
+/workspace/research/dora-ella-newnam/sources/census/1910-lee-ky-ed99-sh13b-hardin-gray-crop.jpg  (158,041 bytes)
+  sha256: c79472ba0da973b0342882a1e0dd2ae5ef49ad01625b0d8701f27f2e0a2cdaee
+  format: JPEG photo, 2177x236px
+  check: full page + margins + verso? straight-on, no glare/flash, strokes several px tall? (paleography.md intake)

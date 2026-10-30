@@ -1,6 +1,6 @@
 # Source-image gallery: Dora Ella Newnam Stone
 
-Sixty-one JPEG images captured from NARA microfilm (via Internet Archive) during this case. They are ordered by **the date of the census they record or index**, not by the date the film was scanned.
+Sixty-seven JPEG images captured from NARA microfilm (via Internet Archive) during this case. They are ordered by **the date of the census they record or index**, not by the date the film was scanned.
 
 Soundex and Miracode cards sit with the census year they index, immediately after any original population schedules for that year.
 
@@ -38,6 +38,11 @@ Diplomatic transcriptions: [`08-transcriptions.md`](08-transcriptions.md). Citat
 | 17 | Apr 1910 | Negative search | [Kentucky N-550 — Millie / Missouri; no McCoy](sources/soundex/ky1910-n550-p329-millie-missouri.jpg) |
 | 18 | Apr 1910 | Negative search | [Kentucky N-550 — Monroe; still no McCoy](sources/soundex/ky1910-n550-p330-monroe-no-mccoy.jpg) |
 | 19 | Apr 1910 | Rejected same-name | [Kentucky N-550 — Sam / Samuel, none is the husband](sources/soundex/ky1910-n550-p342-sam-samuel-not-p002.jpg) |
+| 19a | Apr 1910 | Rejected same-name | [Kentucky N-550 — Charles T. + Ella 40, Union Co.](sources/soundex/1910-ky-n550-p0255-charles-t-ella-union.jpg) |
+| 19b | Apr 1910 | Context (FAN) | [Kentucky N-550 — Beattyville Chas + Emma](sources/soundex/1910-ky-n550-p0256-lee-beattyville-chas-emma.jpg) |
+| 19c | Apr 1910 | Context (FAN) | [Kentucky N-550 — Elizati Newnan, Lee ED 99](sources/soundex/1910-ky-n550-p0267-elizati-lee.jpg) |
+| 19d | Apr 1910 | Negative search | [Kentucky N-550 — Ella window; no ~39 in Lee/Greene/Owsley](sources/soundex/1910-ky-n550-p0268-ella-window.jpg) |
+| 19e | Apr 1910 | Negative search | [Kentucky N-550 — after Ella: Ellen / Elliott / Ellis](sources/soundex/1910-ky-n550-p0269-after-ella-ellen-elsie.jpg) |
 | 20 | Apr 1910 | Rejected same-name | [Kentucky N-550 — Samuel E. of Muhlenberg](sources/soundex/ky1910-n550-p343-samuel-e-muhlenberg-not-p002.jpg) |
 | 21 | Apr 1910 | Rejected same-name | [Kentucky S-350 — Dora Stone, servant, Louisville](sources/soundex/ky1910-s350-p149-dora-servant-louisville.jpg) |
 | 22 | Apr 1910 | Rejected same-name | [Kentucky S-350 — Dora Stone, 18, Wolfe County](sources/soundex/ky1910-s350-p150-dora-18-wolfe.jpg) |
@@ -73,7 +78,8 @@ Diplomatic transcriptions: [`08-transcriptions.md`](08-transcriptions.md). Citat
 | 52 | 27 Apr 1910 | Rejected same-name | [Sturgeon ED 99 sheet 7A — Reuben Newnam](sources/census/1910-lee-ky-ed99-p563.jpg) |
 | 53 | 27 Apr 1910 | Rejected same-name | [Sturgeon ED 99 sheet 7A (second capture) — Ruben Newnam](sources/census/1910-po478-p0563-lee-sturgeon-ed99-sheet7a-ruben-newnam.jpg) |
 | 54 | Apr 1910 | Context | [Sturgeon ED 99 sheet 9B — Ancestry image 499 = this PDF page 568](sources/census/1910-po478-p0568-lee-sturgeon-ed99-sheet9b.jpg) |
-| 55 | Apr 1910 | Rejected same-name | [Sturgeon ED 99 sheet 13B — a different John H. Newman](sources/census/1910-lee-ky-ed99-p576.jpg) |
+| 55 | Apr 1910 | Rejected same-name / FAN | [Sturgeon ED 99 sheet 13B — John H. Newman; Hardin Gray; Samuel Farmer](sources/census/1910-lee-ky-ed99-p576.jpg) |
+| 55a | 11 May 1910 | FAN (family hit of Louisa’s daughter) | [Hardin Gray and Vista household crop](sources/census/1910-lee-ky-ed99-sh13b-hardin-gray-crop.jpg) |
 | 56 | Jan 1920 | Rejected same-name | [Kentucky N-550 — Dora Newman, 29, Paducah](sources/soundex/ky1920-n550-p4201-dora-29-paducah-rejected.jpg) |
 | 57 | Jan 1920 | Rejected same-name | [Kentucky N-550 — Dora E. Newman, 10, Cumberland](sources/soundex/ky1920-n550-p4203-dora-e-10-cumberland-rejected.jpg) |
 | 58 | Jan 1920 | Negative search | [Kentucky N-550 — “E” tab after the Dora window](sources/soundex/ky1920-n550-p4205-e-tab-after-dora.jpg) |
@@ -290,6 +296,46 @@ Sam, 74, of Knox; Samuel of Newport; a Black Samuel Noonan; a Louisville Samuel,
 Samuel E., 41, with Lou E. and children Bertha, Luea, Joseph, Mary, Minnie. Wrong county, wrong wife, wrong children. Closes the Kentucky-head search for Dora’s first husband in April 1910.
 
 ![Kentucky N-550 — Samuel E. of Muhlenberg](sources/soundex/ky1910-n550-p343-samuel-e-muhlenberg-not-p002.jpg)
+
+### 20a · Apr 1910 · Kentucky N-550 — Charles T. Newman + Ella 40, Union County
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/1910-ky-n550-p0255-charles-t-ella-union.jpg`](sources/soundex/1910-ky-n550-p0255-charles-t-ella-union.jpg)  
+**Source:** S301 · C306 · DOC020
+
+Typed Miracode: Union County, Charles T. head 29, Ella wife 40, Henry A. 12, Elisebeth 7. Not Dora of Sturgeon.
+
+### 20b · Apr 1910 · Kentucky N-550 — Beattyville Chas + Emma
+
+**Role:** Context (FAN)  
+**File:** [`sources/soundex/1910-ky-n550-p0256-lee-beattyville-chas-emma.jpg`](sources/soundex/1910-ky-n550-p0256-lee-beattyville-chas-emma.jpg)  
+**Source:** S301 · C307 · DOC021
+
+Lee County, Beattyville, ED 91: Chas 21, Emma 23, Seldon, Addie 18. Wrong ages and wife. Already inside the Beattyville original sweep.
+
+### 20c · Apr 1910 · Kentucky N-550 — Elizati Newnan, Lee ED 99
+
+**Role:** Context (FAN)  
+**File:** [`sources/soundex/1910-ky-n550-p0267-elizati-lee.jpg`](sources/soundex/1910-ky-n550-p0267-elizati-lee.jpg)  
+**Source:** S301 · DOC022
+
+Sturgeon ED 99 family 90: Elizati 30, Lucy 22, Robert, Willie, Nettie. Already inside the original ED 99 sweep. Not P001.
+
+### 20d · Apr 1910 · Kentucky N-550 — Ella window (printed p. 266)
+
+**Role:** Negative search  
+**File:** [`sources/soundex/1910-ky-n550-p0268-ella-window.jpg`](sources/soundex/1910-ky-n550-p0268-ella-window.jpg)  
+**Source:** S301 · C301–C305 · C308 · DOC019
+
+The Ella given-name cards: Elkaner of Floyd; Ella 35 servant in Newport; Ella 13 Black in Lexington; Ellanora 4½ in Pendleton; Ellen 77 Irish lodger in Lexington. **No** Ella ~39 in Lee, Greene, or Owsley.
+
+### 20e · Apr 1910 · Kentucky N-550 — after Ella (printed p. 267)
+
+**Role:** Negative search  
+**File:** [`sources/soundex/1910-ky-n550-p0269-after-ella-ellen-elsie.jpg`](sources/soundex/1910-ky-n550-p0269-after-ella-ellen-elsie.jpg)  
+**Source:** S301 · C313 · DOC023
+
+Ellen / Elliott / Ellis / Elsie / Emerald. The Ella slot is closed.
 
 ### 21 · Apr 1910 · Kentucky S-350 — Dora Stone, servant, Louisville
 
@@ -633,13 +679,23 @@ The sheet Ancestry numbers as image 499. No Dora, Samuel, McCoy, or the 1899 chi
 
 ### 55 · Apr 1910 · Sturgeon ED 99 sheet 13B — a different John H. Newman
 
-**Role:** Rejected same-name  
+**Role:** Rejected same-name / FAN  
 **File:** [`sources/census/1910-lee-ky-ed99-p576.jpg`](sources/census/1910-lee-ky-ed99-p576.jpg)  
-**Source:** S067 · C088 · C089
+**Source:** S067 · S311 · C088 · C089 · C317 · C319 · C320 · C322
 
-Dwelling 218/257: Newman, John H., about 45, married 25 years; son Malcum, about 27. Not Dora’s child John H., who was nine months old in June 1900. End of ED 99. She was not still on Sturgeon Creek as a Newnam.
+Sheet 13 B, 11 May 1910. Dwelling 237/247: Newman, John H. — not Dora’s child. Dwelling 241/251: **Gray, Hardin** 34 and **Vista** 27 (4-4) with Rascoe, Hubert, Elcie, Deanna — Louisa is not in that house. Dwelling 245/255: Samuel and Martha Farmer. Family 248 is Treadway, Solomon. She was not still on Sturgeon Creek as a Newnam.
 
-![Sturgeon ED 99 sheet 13B — a different John H. Newman](sources/census/1910-lee-ky-ed99-p576.jpg)
+![Sturgeon ED 99 sheet 13B — John H. Newman; Hardin Gray; Samuel Farmer](sources/census/1910-lee-ky-ed99-p576.jpg)
+
+### 55a · 11 May 1910 · Hardin Gray and Vista — household crop
+
+**Role:** FAN (Vesta Mayes Gray, Louisa’s daughter)  
+**File:** [`sources/census/1910-lee-ky-ed99-sh13b-hardin-gray-crop.jpg`](sources/census/1910-lee-ky-ed99-sh13b-hardin-gray-crop.jpg)  
+**Source:** S312 · C317 · DOC024
+
+Crop of dwelling 241 family 251. Hardin Gray, 34, married 12 years, farmer; Vista, 27, four children living; father born Virginia. No mother-in-law. This is the original that a prior hunt said was missing from the film.
+
+![Hardin Gray and Vista household crop](sources/census/1910-lee-ky-ed99-sh13b-hardin-gray-crop.jpg)
 
 ## 1920 — Kentucky Newman index and Beattyville original
 
