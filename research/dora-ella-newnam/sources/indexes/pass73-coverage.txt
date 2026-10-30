@@ -1,0 +1,28 @@
+Pass 73 coverage — 30 Oct 2026 America/New_York
+Catalog 114 / hasMore false / totalMatched 114. Unchanged vs Pass 72.
+Nested reviewer not respawned. Message queue empty.
+bc-9acea467 Dora B045 B061 films still RUNNING empty.
+bc-995d22ea Dora location search PR #31 still RUNNING (IDs not imported).
+bc-0039b8bf Scan ED5 still RUNNING empty.
+bc-aea168dd WAITING_FOR_BACKGROUND_WORK PR #33 (C281 not imported).
+This run bc-01a18bb4-e162-785c-9724-86a7c5663bf1.
+No IDs imported from PR #31 / #33. Do not mint C274–C280. Do not promote C509.
+
+Image-seen:
+  soundex1920ky056 G-000 4000–4380 including Gay Walker 4320 ED 90 and Matilda slot 4175–4176 consecutive
+  soundex1920ky132 R-200 Rice/Rose/Ross William W samples 2510–2660
+  soundex1920ky073 H-435 Helton William 1450–1490 (1480 blank; 1490 H-436)
+  soundex1920ky023 B-653 Robb slot 1630–1638 (1630 Ronald / 1631 Robert consecutive)
+  soundex1920ky134 R-300 Reid/Reed David D samples 2450–2550
+  soundex1920ky149 S-520 Simms/Sims 3300–3548 (3547 S-520 Dollie / 3548 S-530 Dolly consecutive)
+  soundex1920ky078 H-620–H-625 (H-630 does NOT start here)
+  soundex1920ky079 H-630 from 0020 Howard Dan; Drucilla slot 101–119 card-by-card
+Still unseen: original 1932 DC vol 020 #09525; 1916 DC vol 044 #21663 face;
+  Estill 1840 bond; M123-3; T288. FS 1940760 / Ancestry 8771 / TSLA unread.
+Breathitt marriage pages still 403 / Oops. TFKRHA 429.
+Opener Soundex given-name head slots now image-closed:
+  G-000 Matilda; R-200 Rice William W; R-300 Reid David D; H-435 Helton William W;
+  H-630 Hardy Drucilla D; S-520 Simms William (code ended at D); B-653 Robb.
+ED 92 hh 1–13 still residual: other surnames (1910 sh 2+ / Rice Elizabeth E / Rice Benjamin B);
+  A-2 member cards; filming gap.
+Josephine×Gilbert ~1902 still unseen (Breathitt 403; Estill two plates only; TFKRHA 429).

@@ -1,0 +1,31 @@
+Pass 73 — 1920 KY Soundex H-630 Hardy / Howard / Hart Drucilla D-window
+NARA M1563 reel 79 / IA soundex1920ky079. Image-seen 30 Oct 2026.
+H-630 does NOT start on ky078 (that reel is H-620 Harris through H-625 Howrigan at leaf 4400).
+H-630 starts ky079 leaf 0020 Howard, Dan. Hardy sits with Howard/Hart in this code.
+
+D-window card-by-card 101–119 (Dora through Dudley), then E names from 0200:
+
+0020 H-630 Howard, Dan 39 Clark vol 16 ED 22 sh 5 ln 3 × Julia 40, Nora 11, Mable 1 4/12 — H-630 start
+0050 Howard, David N 78 Ohio Fordsville × Marry B 60 — other
+0100 Howard, Dora 30 Magoffin × Blanchy 6, Oma 4 — DISPROVED as Drucilla (age 30 vs ~50; Howard; Magoffin) and as P001
+0101 Howard, Dora 27 Whitley Corbin boarder of Lewis, David — DISPROVED as P001 (age 27 vs ~49)
+0103 Howard, Dora 49 Carroll × Lee Joseph Bo 51 Indiana — DISPROVED as Drucilla (Howard; Carroll; not Wd head with William/James)
+0105 Hurst, Dorman 40 Ohio × Bessie — other
+0106 Harrod, Dorman 21 Franklin × Mintie — other
+0108 Howard, Dorsie 30 Jefferson boarder — other
+0110 Hard, Dory 13 Jefferson SIL of Lowman, Mike — other
+0112 Howard, Dotson 21 Ohio brother of Leslie — other
+0113 Hart, Douglas 58 Grayson × Nancy 63 — other
+0114 Howard, Douglas 24 C/B Perry VA × Lucy 34 TN — other
+0115 Howard, Dovey 31 Hardin step-granddaughter of Hale, James — other
+0116 Howard, Drew F 25 Estill Irvine Fighting Branch × Sarah 24 — other
+0117 H-630 Howard, Drucilla 16 Leslie DIL of Howard, Elisha vol 60 ED 161 sh 5 ln 94
+  DISPROVED as 1910 Buffalo Hardy, Drucilla 40 Wd (age 16 vs ~50; Howard not Hardy; Leslie; DIL not Wd head).
+0118 Howard, Dudd 63 Breathitt × Kate 60, Harrison 31 — other
+0119 Hart, Dural 52 Jefferson × Mary 11, Edward 5 — other
+0120 Howard, Dudley 47 Magoffin — D window continues, then E names (Edith 0200 …)
+
+NIL Hardy, Drucilla ~50 Wd Owsley as an H-630 given-name card in the Dora→Dudley slot (101–119 card-by-card).
+NIL vol 76 ED 92 sh 1 in this window.
+1910 Buffalo dw 7/7 Hardy, Drucilla 40 Wd 6-4 therefore has no matching 1920 KY H-630 Drucilla card.
+Residual: A-2 member card; Soundex miss; dead/moved/remarried.

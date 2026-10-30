@@ -1404,3 +1404,83 @@ research/dora-ella-newnam/sources/census/1880-lee-ky-ed59-sheet43-p768-caroline-
   sha256: 047eede7aea36a813f1ca87329b572da8a8bd5c3cf74fcd7b5cfd4430b0d9ff7
   format: text extract, 1,530 bytes
   check: Pass 72 coverage; catalog 114; 1916 DC still unseen; ED 92 hh 1-13 residual
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-g000-p4320-gay-walker-owsley-ed90.jpg
+  sha256: 8b68712bbc69aad835c22f19625e0da07e837901eb7ce1ffeeb287c8ab34440b
+  format: JPEG photo, 1600x960px
+  check: 1920 Soundex G-000 Gay Walker 44 Owsley ED 90 not ED 92 sh 1
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-g000-p4175-guy-massie-not-matilda.jpg
+  sha256: 0323cb0c99ac3ef241ca341a3e134f1cddbf644dd1d9993109fc4afa8efd140a
+  format: JPEG photo, 1600x960px
+  check: 1920 Soundex G-000 Guy Massie 16 Bell not Matilda
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-g000-p4176-gee-matilda-19-fayette.jpg
+  sha256: 541777d72d35c26fb227ad11f78324e3a679b70333c54b83f9befba0721feb71
+  format: JPEG photo, 1600x948px
+  check: 1920 Soundex G-000 Gee Matilda 19 Fayette SIL DISPROVED as 1910 Matilda
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-r200-p2550-rice-william-38-franklin.jpg
+  sha256: 2eafb10fb35b30dc2b6e4484fffbd2a89c81541b371da58ab11d6edda2a0499b
+  format: JPEG photo, 1600x1050px
+  check: 1920 Soundex R-200 Rice William 38 Franklin DISPROVED as 1910 William E
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-r200-p2600-rice-william-mu-56-louisville.jpg
+  sha256: 05253f1bc1c26149bb5c52a492490641abc8f4c69219eb31239621ede30e7c43
+  format: JPEG photo, 1600x1037px
+  check: 1920 Soundex R-200 Rice William Mu 56 Louisville boarder DISPROVED
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-h435-p1450-helton-william-59-knox.jpg
+  sha256: 96c54c736aec815de01551f4cdea944252821e4f8e9d7239b5f4ecb60900116e
+  format: JPEG photo, 1600x1051px
+  check: 1920 Soundex H-435 Helton William 59 Knox Living Alone DISPROVED
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-b653-p1631-brandy-robert-not-robb.jpg
+  sha256: 664ea42e2ec3ce2a04a50209f09a979ce151e781083811e79b1a46016cb563b7
+  format: JPEG photo, 1600x990px
+  check: 1920 Soundex B-653 Brandy Robert 45 Mason consecutive after Ronald not Robb
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-b653-p1634-brandenburgh-robert-37-lee.jpg
+  sha256: 79833be4fd1e783532fb0d48e6107e291dad859959d44db0525e741856cef004
+  format: JPEG photo, 1600x1015px
+  check: 1920 Soundex B-653 Brandenburgh Robert 37 Lee not Robb
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-r300-p2530-reed-david-m-45-clark.jpg
+  sha256: e86ac0a207976bac5920f10db8b75f6d8995cde8cc0ccf9339c49d80f5cbd7fe
+  format: JPEG photo, 1600x1060px
+  check: 1920 Soundex R-300 Reed David M 45 Clark x Nannie DISPROVED as 1910 Reid David
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-s520-p3547-sims-dollie-not-william.jpg
+  sha256: fca28d530c806ed444e69c37ec74552c6880254d0f321647865d30992197e98c
+  format: JPEG photo, 1600x916px
+  check: 1920 Soundex S-520 Sims Dollie 29 consecutive with S-530 nil William
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-h630-p0020-howard-dan-h630-start.jpg
+  sha256: 3156b0efe999982ec8ec3121fb427da08e934de9347b62f837e33fb49bb91174
+  format: JPEG photo, 1600x977px
+  check: 1920 Soundex H-630 start Howard Dan 39 Clark
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-h630-p0117-howard-drucilla-16-leslie.jpg
+  sha256: bb37876f19a35c14a1ac84a54edc6492ba1ae0d6b122dc86bf15d2177057d0ee
+  format: JPEG photo, 1600x952px
+  check: 1920 Soundex H-630 Howard Drucilla 16 Leslie DIL DISPROVED as 1910 Hardy
+/workspace/research/dora-ella-newnam/sources/indexes/ky1920-g000-gay-pass73.txt
+  sha256: 1e8a47b01460fcb8120ea2d9255555db9a61dfe7b485d06b7b0203f238269680
+  format: text extract, 1,832 bytes
+  check: 1920 G-000 Gay Walker ED 90 and Matilda slot nil
+/workspace/research/dora-ella-newnam/sources/indexes/ky1920-r200-rice-pass73.txt
+  sha256: 2c0c06e260c81294d47b291239dd3e49936cf027bb990b726aa7d594c753b4e0
+  format: text extract, 1,679 bytes
+  check: 1920 R-200 Rice William W-window DISPROVED hits
+/workspace/research/dora-ella-newnam/sources/indexes/ky1920-h435-helton-pass73.txt
+  sha256: b8d3cf67484a918b7bd2d4ffb274d03a0a57dad3d121af86fdf791ff2f42c15a
+  format: text extract, 1,184 bytes
+  check: 1920 H-435 Helton William W-window DISPROVED
+/workspace/research/dora-ella-newnam/sources/indexes/ky1920-b653-robb-nil-pass73.txt
+  sha256: 0dfd00b9b76bae2b03692c80dfea72c02a6a00da47bff389101568c6c034063e
+  format: text extract, 1,296 bytes
+  check: 1920 B-653 Robb slot Ronald 1630 Robert 1631 consecutive
+/workspace/research/dora-ella-newnam/sources/indexes/ky1920-r300-reid-david-pass73.txt
+  sha256: 47b664bdea2ab8de75a0501cf32cd77db1055323d2b5066f998679207d7599c8
+  format: text extract, 1,483 bytes
+  check: 1920 R-300 Reed David M Clark DISPROVED as 1910 Reid David
+/workspace/research/dora-ella-newnam/sources/indexes/ky1920-s520-simms-william-nil-pass73.txt
+  sha256: a3119c69f006b58988cb89eb9cb252e749b56ac2a958c6ad5f3eaf9abcf0a49c
+  format: text extract, 1,350 bytes
+  check: 1920 S-520 ended at Dollie 3547 consecutive S-530 nil William
+/workspace/research/dora-ella-newnam/sources/indexes/ky1920-h630-hardy-drucilla-pass73.txt
+  sha256: a1b9b1660d2d26ba02deebd0d0d11331a415a44a3edb7fb023c136dd5c16577a
+  format: text extract, 2,173 bytes
+  check: 1920 H-630 Howard Drucilla 16 DISPROVED as 1910 Hardy 40 Wd
+/workspace/research/dora-ella-newnam/sources/indexes/pass73-coverage.txt
+  sha256: ca24f285de8ee8a7017f3fb05b7d5cf5c01aef77e40d86aae435b6212d85f1df
+  format: text extract, 1,849 bytes
+  check: Pass 73 coverage; catalog 114; opener Soundex given-name heads closed; ED 92 hh 1-13 residual

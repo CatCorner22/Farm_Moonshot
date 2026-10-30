@@ -2984,5 +2984,174 @@ Pass 2: County is **Breathitt**. Continuation **3435** (image-seen, not cropped 
 - Lee 47 Breathitt not merged with 1910 Eliza → C780
 - P.H. 43 Owsley ED 91 (leaf 3560, not this JPEG) → C781
 
+## DOC121 — 1920 Kentucky Soundex G-000, Gay Walker Owsley ED 90 + Matilda slot (derivative)
+
+- Card 4320: `sources/soundex/ky1920-g000-p4320-gay-walker-owsley-ed90.jpg` SHA-256 `8b68712bbc69aad835c22f19625e0da07e837901eb7ce1ffeeb287c8ab34440b`
+- Card 4175: `…p4175-guy-massie-not-matilda.jpg` `0323cb0c99ac3ef241ca341a3e134f1cddbf644dd1d9993109fc4afa8efd140a`
+- Card 4176: `…p4176-gee-matilda-19-fayette.jpg` `541777d72d35c26fb227ad11f78324e3a679b70333c54b83f9befba0721feb71`
+- Extract: `ky1920-g000-gay-pass73.txt` `1e8a47b01460fcb8120ea2d9255555db9a61dfe7b485d06b7b0203f238269680`
+- Provenance: NARA M1563 reel **56** / IA `soundex1920ky056` leaves **4320**, **4175**, **4176**, opened 30 Oct 2026. **Image-seen.** Given-name sort (Gay/Gee/Guy together). G-000 isolated **4000–4380**.
+
+### Diplomatic — card 4320
+
+> G-000 **Gay, Walker**  
+> Color **W** · Age **44** · Birthplace **Kentucky** · County **Owsley**  
+> Vol **76** · E.D. **90** · Sheet **3** · Line **95**  
+> Other members: **Gay, Martha** W **37** Kentucky; **Bailey** S **16**; **Dovie[?]** D **12**; **Oakley** S **9**; **Lonnie** S **7**.  
+> Clerk note **#1 see #2**. Form **A-1a**.
+
+Pass 2: ED is **90**, not **92**. Head is male Walker, not the 1910 widow Matilda.
+
+### Diplomatic — cards 4175–4176 (Matilda slot)
+
+> G-000 **Guy, Massie** · W **16** · Tennessee · Bell · Vol **6** ED **32** sh **5** ln **75** · Enumerated with **Liber, Alonzo** · Relationship **Sister in Law**. Form **A-4**.
+
+> G-000 **Gee, Matilda** · W **19** · Kentucky · Fayette · Lexington · Nelson Ave **329** · Vol **25** ED **60** sh **12** ln **60** · Enumerated with **Jesse, Bubbie** · Relationship **Sister in law**. Form **A-2**.
+
+Pass 2: Leaves **4175** and **4176** are consecutive. **No** Gay, Matilda ~42 Wd Owsley card between them. Gee Matilda 19 is **DISPROVED** as 1910 Matilda 32 Wd.
+
+### Facts extracted → claim IDs
+- Gay Walker 44 ED 90, not sh 1, not Matilda → C790
+- Nil Gay Matilda ~42; Gee Matilda 19 DISPROVED → C791
+
+## DOC122 — 1920 Kentucky Soundex R-200, Rice William W-window (derivative)
+
+- Card 2550: `sources/soundex/ky1920-r200-p2550-rice-william-38-franklin.jpg` SHA-256 `2eafb10fb35b30dc2b6e4484fffbd2a89c81541b371da58ab11d6edda2a0499b`
+- Card 2600: `…p2600-rice-william-mu-56-louisville.jpg` `05253f1bc1c26149bb5c52a492490641abc8f4c69219eb31239621ede30e7c43`
+- Extract: `ky1920-r200-rice-pass73.txt` `2c0c06e260c81294d47b291239dd3e49936cf027bb990b726aa7d594c753b4e0`
+- Provenance: NARA M1563 reel **132** / IA `soundex1920ky132` leaves **2550**, **2600**, **2650**, opened 30 Oct 2026. **Image-seen.** Given-name sort (Rice/Rose/Ross Williams together).
+
+### Diplomatic — card 2550
+
+> R-200 **Rice, William**  
+> Color **W** · Age **38** · Birthplace **Kentucky** · County **Franklin** · City **Peaks Mill**  
+> Vol **27** · E.D. **93** · Sheet **1** · Line **18**  
+> Other members: **Rice, Ollie** W **31**; **Virgil** S **8**; **Jessie** D **3 7/12**; **Dortha** D **1/12**. Form **A-1a**.
+
+Pass 2: Franklin × Ollie, age 38. **DISPROVED** as 1910 Buffalo William E 46 × Eliza.
+
+### Diplomatic — card 2600
+
+> R-200 **Rice, William**  
+> Color **Mu** · Age **56** · Birthplace **Virginia** · County **Jefferson** · City **Louisville** · Street **Cosgrove** · House **1309**  
+> Vol **49** · E.D. **176** · Sheet **6** · Line **88**  
+> Enumerated with **Not reported** · Relationship **Boarder**. Form **A-3**.
+
+Pass 2: Race **Mu**, Virginia, boarder. **DISPROVED** as 1910 William E.
+
+### Facts extracted → claim IDs
+- Sampled W-window Williams DISPROVED; nil Owsley William E × Eliza → C792
+
+## DOC123 — 1920 Kentucky Soundex H-435, Helton William Knox (derivative)
+
+- Card 1450: `sources/soundex/ky1920-h435-p1450-helton-william-59-knox.jpg` SHA-256 `96c54c736aec815de01551f4cdea944252821e4f8e9d7239b5f4ecb60900116e`
+- Extract: `ky1920-h435-helton-pass73.txt` `b8d3cf67484a918b7bd2d4ffb274d03a0a57dad3d121af86fdf791ff2f42c15a`
+- Provenance: NARA M1563 reel **73** / IA `soundex1920ky073` leaf **1450**, opened 30 Oct 2026. **Image-seen.** Leaves **1460** and **1470** image-seen, JPEGs not retained.
+
+### Diplomatic — card 1450
+
+> H-435 **Helton, William**  
+> Color **W** · Age **59** · Birthplace **Kentucky** · County **Knox**  
+> Vol **57** · E.D. **129** · Sheet **15** · Line **60**  
+> Other members: **Living Alone**. Form **A-1a**.
+
+Pass 2: Knox, alone, age 59. **DISPROVED** as 1910 Buffalo Helton William 40 × Eliza.
+
+### Facts extracted → claim IDs
+- Helton William W-window DISPROVED hits; nil Owsley × Eliza → C793
+
+## DOC124 — 1920 Kentucky Soundex B-653, Robb slot Brandy Robert + Brandenburgh Robert Lee (derivative)
+
+- Card 1631: `sources/soundex/ky1920-b653-p1631-brandy-robert-not-robb.jpg` SHA-256 `664ea42e2ec3ce2a04a50209f09a979ce151e781083811e79b1a46016cb563b7`
+- Card 1634: `…p1634-brandenburgh-robert-37-lee.jpg` `79833be4fd1e783532fb0d48e6107e291dad859959d44db0525e741856cef004`
+- Extract: `ky1920-b653-robb-nil-pass73.txt` `0dfd00b9b76bae2b03692c80dfea72c02a6a00da47bff389101568c6c034063e`
+- Provenance: NARA M1563 reel **23** / IA `soundex1920ky023` leaves **1631**, **1634**, opened 30 Oct 2026. **Image-seen.** Given-name sort (Robb after Ronald, before Robert).
+
+### Diplomatic — card 1631
+
+> B-653 **Brandy, Robert**  
+> Color **B** · Age **45** · Birthplace **Kentucky** · County **Mason**  
+> Vol **69** · E.D. **172** · Sheet **8** · Line **97**  
+> Other members: **Brandy, Kittie** W **26**; **Bosgrove[?], James** S.S. **6**; **Lockbrook[?], Pauline** S.D. **4 1/2**; **Brandy, Francis** D **6/12**. Form **A-1a**.
+
+Pass 2: Consecutive after Ronald continuation **1630**. **No** Robb card.
+
+### Diplomatic — card 1634
+
+> B-653 **Brandenburgh, Robert**  
+> Color **W** · Age **37** · Birthplace **Kentucky** · County **Lee**  
+> Vol **59** · E.D. **113** · Sheet **7** · Line **21**  
+> Other members: **Brandenburgh, Ida** W **33**; **Effie** D **14**; **Mable** D **11**; **Onga Mae** D **8**; **Ethel** D **5**.  
+> Clerk note **#1 see #2**. Form **A-1a**.
+
+Pass 2: Lee, Robert not Robb, wife Ida. **Not** 1910 Buffalo Brandenburg, Robb.
+
+### Facts extracted → claim IDs
+- Nil Brandenburg Robb given-name card → C794
+
+## DOC125 — 1920 Kentucky Soundex R-300, Reed David M Clark (derivative)
+
+- Card 2530: `sources/soundex/ky1920-r300-p2530-reed-david-m-45-clark.jpg` SHA-256 `e86ac0a207976bac5920f10db8b75f6d8995cde8cc0ccf9339c49d80f5cbd7fe`
+- Extract: `ky1920-r300-reid-david-pass73.txt` `47b664bdea2ab8de75a0501cf32cd77db1055323d2b5066f998679207d7599c8`
+- Provenance: NARA M1563 reel **134** / IA `soundex1920ky134` leaf **2530**, opened 30 Oct 2026. **Image-seen.**
+
+### Diplomatic — card 2530
+
+> R-300 **Reed, David M**  
+> Color **W** · Age **45** · Birthplace **Kentucky** · County **Clark** · City **Winchester** · Street **College** · House **201**  
+> Vol **16** · E.D. **35** · Sheet **11** · Line **97**  
+> Other members: **Reed, Nannie** W **50** Kentucky. Form **A-1a**.
+
+Pass 2: Clark × Nannie. **DISPROVED** as 1910 Buffalo Reid, David 38 × Lucinda.
+
+### Facts extracted → claim IDs
+- Reed David M DISPROVED; nil Owsley Reid David × Lucinda → C795
+
+## DOC126 — 1920 Kentucky Soundex S-520, Sims Dollie (William slot bound) (derivative)
+
+- Card 3547: `sources/soundex/ky1920-s520-p3547-sims-dollie-not-william.jpg` SHA-256 `fca28d530c806ed444e69c37ec74552c6880254d0f321647865d30992197e98c`
+- Extract: `ky1920-s520-simms-william-nil-pass73.txt` `a3119c69f006b58988cb89eb9cb252e749b56ac2a958c6ad5f3eaf9abcf0a49c`
+- Provenance: NARA M1563 reel **149** / IA `soundex1920ky149` leaf **3547**, opened 30 Oct 2026. **Image-seen.** Leaf **3548** (S-530) image-seen, JPEG not retained.
+
+### Diplomatic — card 3547
+
+> S-520 **Sims, Dollie**  
+> Color **W** · Age **29** · Birthplace **Kentucky** · County **Lincoln** · City **Kings Mountain**  
+> Vol **60** · E.D. **83** · Sheet **12** · Line **98**  
+> Enumerated with **Sims, Oliver** · Relationship **Sister**. Form **A-3**.
+
+Pass 2: Next leaf **3548** is already S-**530**. S-520 ended in the D given-name window. **No** William card.
+
+### Facts extracted → claim IDs
+- Nil S-520 Simms/Sims William given-name card → C796
+
+## DOC127 — 1920 Kentucky Soundex H-630, Howard Dan start + Howard Drucilla 16 Leslie (derivative)
+
+- Card 0020: `sources/soundex/ky1920-h630-p0020-howard-dan-h630-start.jpg` SHA-256 `3156b0efe999982ec8ec3121fb427da08e934de9347b62f837e33fb49bb91174`
+- Card 0117: `…p0117-howard-drucilla-16-leslie.jpg` `bb37876f19a35c14a1ac84a54edc6492ba1ae0d6b122dc86bf15d2177057d0ee`
+- Extract: `ky1920-h630-hardy-drucilla-pass73.txt` `a1b9b1660d2d26ba02deebd0d0d11331a415a44a3edb7fb023c136dd5c16577a`
+- Provenance: NARA M1563 reel **79** / IA `soundex1920ky079` leaves **0020**, **0117**, opened 30 Oct 2026. **Image-seen.** ky078 **0020–4400** image-seen as H-620–H-625 (H-630 does **not** start there).
+
+### Diplomatic — card 0020
+
+> H-630 **Howard, Dan**  
+> Color **W** · Age **39** · Birthplace **Kentucky** · County **Clark**  
+> Vol **16** · E.D. **22** · Sheet **5** · Line **3**  
+> Other members: **Howard, Julia** W **40**; **Nora** D **11**; **Mable** D **1 4/12**. Form **A-1a**.
+
+Pass 2: First H-630 card on ky079. Not Hardy.
+
+### Diplomatic — card 0117
+
+> H-630 **Howard, Drucilla**  
+> Color **W** · Age **16** · Birthplace **Kentucky** · County **Leslie**  
+> Vol **60** · E.D. **161** · Sheet **5** · Line **94**  
+> Enumerated with **Howard, Elisha** · Relationship **Daughter-in-law**. Form **A-3**.
+
+Pass 2: Age 16, Howard, Leslie, DIL. **DISPROVED** as 1910 Buffalo Hardy, Drucilla 40 Wd.
+
+### Facts extracted → claim IDs
+- H-630 isolated; Howard Drucilla 16 DISPROVED; nil Hardy Drucilla ~50 → C797
+
 
 

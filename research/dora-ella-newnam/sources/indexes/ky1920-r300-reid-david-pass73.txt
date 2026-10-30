@@ -1,0 +1,20 @@
+Pass 73 — 1920 KY Soundex R-300 Reid / Reed / Read / Redd / Routt David D-window
+NARA M1563 reel 134 / IA soundex1920ky134. Image-seen 30 Oct 2026.
+R-300 isolated: ky134 leaf 2000 = R-300 Read, Cles; 4000 still R-300 Reed, Luther; ky135_0020 = R-320 Rhodes.
+Reid/Reed/Read sit together. David is in the D window after Charlie (C) and before Lloyd (L).
+
+Sequence image-seen:
+2450 Reed, Claude 28 Ballard — C given-name
+2500 Reed, Dan 33 B Washington lodger — D given-name
+2510 Reed, Daniel L continuation Sarah Hayes D 3 1/2, Mary 1 1/2 — other
+2520 R-390 Reed, David Mu 46 Clark Winchester Spring 17 Living Alone — WRONG CODE; race Mu; alone; Clark. DISPROVED as 1910 Reid, David 38 × Lucinda.
+2530 R-300 Reed, David M 45 W Clark Winchester College 201 vol 16 ED 35 sh 11 ln 97 × Nannie 50
+  DISPROVED as 1910 Buffalo Reid, David 38 × Lucinda (Clark not Owsley; Nannie not Lucinda).
+2540 R-300 Reid, Davis 39 Maryland Union Sturgis Main vol 87 ED 132 sh 8–9 ln 63 × Annie 32, Daniel 5
+  DISPROVED (Davis not David; MD; Union; Annie not Lucinda). Image-seen; JPEG not retained in sources/.
+2550 Red, Dick 49 B McCracken — other given-name
+
+NIL Reid/Reed, David ~48 Owsley × Lucinda as an R-300 given-name card in the sampled D window.
+NIL vol 76 ED 92 sh 1 in these samples.
+1910 Buffalo dw 3/3 Reid, David 38 m1 18 × Lucinda 32 6-6 therefore has no matching 1920 KY R-300 David card.
+Residual: A-2 member card; unsampled later D leaves; Soundex miss; dead/moved.

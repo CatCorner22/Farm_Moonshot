@@ -1,0 +1,25 @@
+Pass 73 — 1920 KY Soundex S-520 Simms / Sims / Sams / Simes William slot
+NARA M1563 reel 149 / IA soundex1920ky149. Image-seen 30 Oct 2026.
+S-520 isolated: ky149 leaf 3300 = S-520 Sams/Sims; 3600 already S-530 Senag.
+Given-name sort. William would sit in the W window after the D names. S-520 ended during the D window.
+
+Sequence image-seen:
+3300 S-520 Sams/Sims, Aquila 37 Casey — A given-name
+3400 Sims, Carrie 56 Jefferson — C
+3500 Sames, Cleveland H 35 Estill — C
+3510 Sams, Conley 25 Madison — C
+3520 Sims, Damion 45 LaRue — D
+3530 Shanks, Dave continuation — D
+3540 Sims, Dee 41 Grayson — D
+3542 Sams, Delbert 33 Knox — D
+3544 Swook[?], Demitra 69 Jefferson FIL — D
+3546 Sims, Dock continuation — D
+3547 S-520 Sims, Dollie 29 Lincoln Kings Mountain vol 60 ED 83 sh 12 ln 98 sister of Sims, Oliver
+3548 S-530 Sams, Dolly D. 32 Madison dau of Riddle, Jason vol 62 ED 94 sh 5 ln 59
+  Leaves 3547 (S-520 Dollie) and 3548 (S-530 Dolly) are consecutive. S-520 ended in the D given-name window.
+  No S-520 William card can exist after the code ended.
+
+NIL S-520 Simms/Sims, William ~54 Owsley × Laura as a given-name card.
+NIL vol 76 ED 92 sh 1 in this window.
+1910 Buffalo dw 8/8 Simms, William 44 m1 15 × Laura 35 6-6 therefore has no matching 1920 KY S-520 William card.
+Residual: A-2 member card; Soundex miss; dead/moved.

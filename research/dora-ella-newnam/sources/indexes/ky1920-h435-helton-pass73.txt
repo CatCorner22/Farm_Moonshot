@@ -1,0 +1,19 @@
+Pass 73 — 1920 KY Soundex H-435 Helton William W-window
+NARA M1563 reel 73 / IA soundex1920ky073. Image-seen 30 Oct 2026.
+H-435 isolated: leaf 800 Helton, Edgar; 1450 Helton, William 59 Knox; 1490 already H-436 Holder, Alonzo.
+Leaf 1480 is a blank/dark frame (no card).
+
+Sequence image-seen:
+1450 Helton, William 59 Knox vol 57 ED 129 sh 15 ln 60 Living Alone
+  DISPROVED as 1910 Buffalo Helton, William 40 × Eliza (age 59 vs ~50; Knox; alone vs Eliza).
+1460 Helton, William G 35 Warren vol 88 ED 125 sh 5 ln 94 × Carrie B 26, Mona G D 6, Edna M D 3 6/12
+  DISPROVED (age 35 vs ~50; Warren; Carrie not Eliza).
+1470 Helton, William C 62 Edmonson vol 23 ED 51 sh 9 ln 49 × Anna 61, Walter 26, Lida 24, Vera 15
+  DISPROVED (age 62 vs ~50; Edmonson; Anna not Eliza). Image-seen; JPEG not retained in sources/.
+1480 blank/dark frame
+1490 H-436 Holder, Alonzo Barren — H-435 ended
+
+NIL Owsley Helton, William ~50 × Eliza as an H-435 given-name card in the sampled W window.
+NIL vol 76 ED 92 sh 1 in these samples.
+1910 Buffalo dw 4/4 Helton, William 40 m1 18 × Eliza 35 5-4 therefore has no matching 1920 KY H-435 William card.
+Residual: A-2 member card; Soundex miss; dead/moved.

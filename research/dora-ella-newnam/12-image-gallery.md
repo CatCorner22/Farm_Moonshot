@@ -1,6 +1,6 @@
 # Source-image gallery: Dora Ella Newnam Stone
 
-One hundred ninety-five numbered plates (JPEG/PNG captures from NARA microfilm via Internet Archive, plus header and household crops). Plates **7g–7j** are the 1860 Owsley and 1880 Lee Gray originals added in passes 39–40. Plates **7k–7z** and **8a–8f** are the later 1850–1860 Owsley/Breathitt/Madison isolations, including Harrison Newman with Elias aged eight, H.H. Newman with Elias aged eighteen, and Giles Mays at one month and eleven. Plates **8j–8l** are the 1840 Estill originals (John and Christian Tincher, the county recap, and William Newton not Tincher) added in pass 55; plates **8m–8n** are the 1840 Clay originals added in pass 56; plates **8o–8q** are the 1840 Breathitt originals (first name page, last name page ending Total, and the county Abstract) added in pass 57; plates **8r–8u** are the 1840 Estill McIlvain originals and the Edmonson divider added in pass 58; plates **8v–8ac** are the M850 pension-payment cards added in pass 63 (Elias T. Newnam, Henry H. Newnam, Manerva Newnam, and the Newman-spelling collisions); plates **8ad–8ai** are the 1900 Sturgeon and 1910 Wild Dog Henry H. originals added in pass 64; plates **8aj–8ao** are the 1910 Sturgeon Arthur original and the 1920 Wild Dog nil (including the rejected Evans+Minerva house) added in pass 65; plates **8ap–8au** are the 1920 Island Creek Arthur original, the Soundex Arthur card, the leftover Sturgeon ED 89 closer, and the Minerva-slot Soundex card (Minnie, not Minerva) added in pass 66; plates **8av–8bb** are the 1920 Island Creek remainder headers, the rejected Barker Malvera and Wilson×Minerva houses, the Cow Creek opener, and the Soundex Walter Logan / Walter A. Louisville cards added in pass 67; plates **8bc–8bh** are the remainder of Cow Creek (sheet 4 A and 7 A headers, the rejected Allen Ella and Cale Minerva houses, the last populated sheet 14 A, and the ED 92 opener) added in pass 68; plates **8bi–8bu** are the 1920 Booneville ED 88, Buffalo ED 92, and Buck Creek ED 93 originals added in pass 69; plates **8bv–8bz** are the 1910 Sturgeon Gilbert×Josie and Lynch×Laura originals, the 1920 G-416 Soundex card that misnamed Gilbert John as Robert, and the Buffalo Baker household that holds that father-in-law, added in pass 70; plates **8ca–8cc** are the 1910 Buffalo Gilbert, John original and the 1920 G-416 Douglas card that proves Soundex indexed filmed ED 92, added in pass 71; plates **8cd–8cl** are the 1910 Buffalo opener sheet (Combs Samuel, Gabbard Elijah and Lee, Rice Dora aged two) and the 1920 C-512/G-163 cards (Samuel B. of Island Creek, Elijah of Lee, Lee of Breathitt, Louise and Loya bounding the empty Lowe slot), added in pass 72. They sit after the 1880 Buck Creek plate because those numbers were already assigned. They are ordered by **the date of the census they record or index**, not by the date the film was scanned. Plates **1a–2c**, **7a–7c**, **55b–55c**, and the 1880 G-600 cards were added in passes 34–37.
+Two hundred seven numbered plates (JPEG/PNG captures from NARA microfilm via Internet Archive, plus header and household crops). Plates **7g–7j** are the 1860 Owsley and 1880 Lee Gray originals added in passes 39–40. Plates **7k–7z** and **8a–8f** are the later 1850–1860 Owsley/Breathitt/Madison isolations, including Harrison Newman with Elias aged eight, H.H. Newman with Elias aged eighteen, and Giles Mays at one month and eleven. Plates **8j–8l** are the 1840 Estill originals (John and Christian Tincher, the county recap, and William Newton not Tincher) added in pass 55; plates **8m–8n** are the 1840 Clay originals added in pass 56; plates **8o–8q** are the 1840 Breathitt originals (first name page, last name page ending Total, and the county Abstract) added in pass 57; plates **8r–8u** are the 1840 Estill McIlvain originals and the Edmonson divider added in pass 58; plates **8v–8ac** are the M850 pension-payment cards added in pass 63 (Elias T. Newnam, Henry H. Newnam, Manerva Newnam, and the Newman-spelling collisions); plates **8ad–8ai** are the 1900 Sturgeon and 1910 Wild Dog Henry H. originals added in pass 64; plates **8aj–8ao** are the 1910 Sturgeon Arthur original and the 1920 Wild Dog nil (including the rejected Evans+Minerva house) added in pass 65; plates **8ap–8au** are the 1920 Island Creek Arthur original, the Soundex Arthur card, the leftover Sturgeon ED 89 closer, and the Minerva-slot Soundex card (Minnie, not Minerva) added in pass 66; plates **8av–8bb** are the 1920 Island Creek remainder headers, the rejected Barker Malvera and Wilson×Minerva houses, the Cow Creek opener, and the Soundex Walter Logan / Walter A. Louisville cards added in pass 67; plates **8bc–8bh** are the remainder of Cow Creek (sheet 4 A and 7 A headers, the rejected Allen Ella and Cale Minerva houses, the last populated sheet 14 A, and the ED 92 opener) added in pass 68; plates **8bi–8bu** are the 1920 Booneville ED 88, Buffalo ED 92, and Buck Creek ED 93 originals added in pass 69; plates **8bv–8bz** are the 1910 Sturgeon Gilbert×Josie and Lynch×Laura originals, the 1920 G-416 Soundex card that misnamed Gilbert John as Robert, and the Buffalo Baker household that holds that father-in-law, added in pass 70; plates **8ca–8cc** are the 1910 Buffalo Gilbert, John original and the 1920 G-416 Douglas card that proves Soundex indexed filmed ED 92, added in pass 71; plates **8cd–8cl** are the 1910 Buffalo opener sheet (Combs Samuel, Gabbard Elijah and Lee, Rice Dora aged two) and the 1920 C-512/G-163 cards (Samuel B. of Island Creek, Elijah of Lee, Lee of Breathitt, Louise and Loya bounding the empty Lowe slot), added in pass 72; plates **8cm–8cx** are the 1920 opener-Soundex remaining codes (Gay Walker of Island Creek, the empty Matilda/Robb/William/Drucilla slots, and the rejected Rice, Helton, Reed, and Howard Drucilla cards), added in pass 73. They sit after the 1880 Buck Creek plate because those numbers were already assigned. They are ordered by **the date of the census they record or index**, not by the date the film was scanned. Plates **1a–2c**, **7a–7c**, **55b–55c**, and the 1880 G-600 cards were added in passes 34–37.
 
 Soundex and Miracode cards sit with the census year they index, immediately after any original population schedules for that year.
 
@@ -147,6 +147,18 @@ Diplomatic transcriptions: [`08-transcriptions.md`](08-transcriptions.md). Citat
 | 8cj | 1920 (index) | Rejected same-name | [Kentucky G-163 — Gabbard, Lee 47, Breathitt ED 48 sh 9](sources/soundex/ky1920-g163-p3434-gabbard-lee-breathitt.jpg) |
 | 8ck | 1920 (index) | Negative search | [Kentucky C-512 — Combs, Louise 54, Madison (not Lowe)](sources/soundex/ky1920-c512-p1252-combs-louise-not-lowe.jpg) |
 | 8cl | 1920 (index) | Negative search | [Kentucky C-512 — Combs, Loya 32, Boyd (not Lowe)](sources/soundex/ky1920-c512-p1253-combs-loya-not-lowe.jpg) |
+| 8cm | 1920 (index) | FAN | [Kentucky G-000 — Gay, Walker 44, Owsley ED 90 sh 3](sources/soundex/ky1920-g000-p4320-gay-walker-owsley-ed90.jpg) |
+| 8cn | 1920 (index) | Negative search | [Kentucky G-000 — Guy, Massie 16, Bell (not Matilda)](sources/soundex/ky1920-g000-p4175-guy-massie-not-matilda.jpg) |
+| 8co | 1920 (index) | Rejected same-name | [Kentucky G-000 — Gee, Matilda 19, Fayette SIL](sources/soundex/ky1920-g000-p4176-gee-matilda-19-fayette.jpg) |
+| 8cp | 1920 (index) | Rejected same-name | [Kentucky R-200 — Rice, William 38, Franklin × Ollie](sources/soundex/ky1920-r200-p2550-rice-william-38-franklin.jpg) |
+| 8cq | 1920 (index) | Rejected same-name | [Kentucky R-200 — Rice, William Mu 56, Louisville boarder](sources/soundex/ky1920-r200-p2600-rice-william-mu-56-louisville.jpg) |
+| 8cr | 1920 (index) | Rejected same-name | [Kentucky H-435 — Helton, William 59, Knox Living Alone](sources/soundex/ky1920-h435-p1450-helton-william-59-knox.jpg) |
+| 8cs | 1920 (index) | Negative search | [Kentucky B-653 — Brandy, Robert 45, Mason (not Robb)](sources/soundex/ky1920-b653-p1631-brandy-robert-not-robb.jpg) |
+| 8ct | 1920 (index) | Rejected same-name | [Kentucky B-653 — Brandenburgh, Robert 37, Lee × Ida](sources/soundex/ky1920-b653-p1634-brandenburgh-robert-37-lee.jpg) |
+| 8cu | 1920 (index) | Rejected same-name | [Kentucky R-300 — Reed, David M. 45, Clark × Nannie](sources/soundex/ky1920-r300-p2530-reed-david-m-45-clark.jpg) |
+| 8cv | 1920 (index) | Negative search | [Kentucky S-520 — Sims, Dollie 29, Lincoln (not William)](sources/soundex/ky1920-s520-p3547-sims-dollie-not-william.jpg) |
+| 8cw | 1920 (index) | Context | [Kentucky H-630 start — Howard, Dan 39, Clark](sources/soundex/ky1920-h630-p0020-howard-dan-h630-start.jpg) |
+| 8cx | 1920 (index) | Rejected same-name | [Kentucky H-630 — Howard, Drucilla 16, Leslie DIL](sources/soundex/ky1920-h630-p0117-howard-drucilla-16-leslie.jpg) |
 | 8 | 13 Jun 1900 | Rejected same-name | [Douglas County, Missouri — Thomas and Nancy E. Stone](sources/census/1900-douglas-mo-ed159-stone-sheet.jpg) |
 | 9 | 13 Jun 1900 | Rejected same-name | [Douglas County Stone household (crop)](sources/census/1900-douglas-mo-ed159-stone-hh-crop.jpg) |
 | 10 | 1900 (index) | Rejected same-name | [Missouri S-350 — Thomas Stone, 44, Douglas County](sources/soundex/mo1900-s350-p1678-stone-thomas-44-douglas.jpg) |
@@ -2179,4 +2191,112 @@ Vol **67** ED **103** sh **11** ln **17**. Consecutive with Loya on the next lea
 Vol **8** ED **28** sh **7** ln **24**. Consecutive after Louise. Closes the C-512 Lowe given-name slot.
 
 ![1920 Soundex C-512 Combs Loya](sources/soundex/ky1920-c512-p1253-combs-loya-not-lowe.jpg)
+
+### 8cm · 1920 (index) · Soundex G-000 — Gay, Walker 44, Owsley ED 90
+
+**File:** [`sources/soundex/ky1920-g000-p4320-gay-walker-owsley-ed90.jpg`](sources/soundex/ky1920-g000-p4320-gay-walker-owsley-ed90.jpg)  
+**Source:** S581 · C790 · DOC121
+
+Vol **76** ED **90** sh **3** ln **95** × Martha. **Not** ED 92 sh 1. **Not** 1910 Buffalo Gay, Matilda 32 Wd.
+
+![1920 Soundex G-000 Gay Walker](sources/soundex/ky1920-g000-p4320-gay-walker-owsley-ed90.jpg)
+
+### 8cn · 1920 (index) · Soundex G-000 — Guy, Massie 16, Bell (not Matilda)
+
+**File:** [`sources/soundex/ky1920-g000-p4175-guy-massie-not-matilda.jpg`](sources/soundex/ky1920-g000-p4175-guy-massie-not-matilda.jpg)  
+**Source:** S581 · C791 · DOC121
+
+Vol **6** ED **32** sh **5** ln **75**. Sister-in-law of Liber, Alonzo. Consecutive with Gee, Matilda 19.
+
+![1920 Soundex G-000 Guy Massie](sources/soundex/ky1920-g000-p4175-guy-massie-not-matilda.jpg)
+
+### 8co · 1920 (index) · Soundex G-000 — Gee, Matilda 19, Fayette SIL
+
+**File:** [`sources/soundex/ky1920-g000-p4176-gee-matilda-19-fayette.jpg`](sources/soundex/ky1920-g000-p4176-gee-matilda-19-fayette.jpg)  
+**Source:** S581 · C791 · DOC121
+
+Vol **25** ED **60** sh **12** ln **60**. Age **19** versus ~42. **DISPROVED** as 1910 Gay, Matilda 32 Wd. Closes the G-000 Matilda given-name slot.
+
+![1920 Soundex G-000 Gee Matilda 19](sources/soundex/ky1920-g000-p4176-gee-matilda-19-fayette.jpg)
+
+### 8cp · 1920 (index) · Soundex R-200 — Rice, William 38, Franklin × Ollie
+
+**File:** [`sources/soundex/ky1920-r200-p2550-rice-william-38-franklin.jpg`](sources/soundex/ky1920-r200-p2550-rice-william-38-franklin.jpg)  
+**Source:** S582 · C792 · DOC122
+
+Vol **27** ED **93** sh **1** ln **18**. Age 38 versus ~56; Ollie not Eliza. **DISPROVED** as 1910 Buffalo Rice, William E.
+
+![1920 Soundex R-200 Rice William 38](sources/soundex/ky1920-r200-p2550-rice-william-38-franklin.jpg)
+
+### 8cq · 1920 (index) · Soundex R-200 — Rice, William Mu 56, Louisville boarder
+
+**File:** [`sources/soundex/ky1920-r200-p2600-rice-william-mu-56-louisville.jpg`](sources/soundex/ky1920-r200-p2600-rice-william-mu-56-louisville.jpg)  
+**Source:** S582 · C792 · DOC122
+
+Vol **49** ED **176** sh **6** ln **88**. Race **Mu**, Virginia, boarder. **DISPROVED** as 1910 William E.
+
+![1920 Soundex R-200 Rice William Mu 56](sources/soundex/ky1920-r200-p2600-rice-william-mu-56-louisville.jpg)
+
+### 8cr · 1920 (index) · Soundex H-435 — Helton, William 59, Knox Living Alone
+
+**File:** [`sources/soundex/ky1920-h435-p1450-helton-william-59-knox.jpg`](sources/soundex/ky1920-h435-p1450-helton-william-59-knox.jpg)  
+**Source:** S583 · C793 · DOC123
+
+Vol **57** ED **129** sh **15** ln **60**. Knox, alone, age 59 versus ~50. **DISPROVED** as 1910 Buffalo Helton, William × Eliza.
+
+![1920 Soundex H-435 Helton William 59](sources/soundex/ky1920-h435-p1450-helton-william-59-knox.jpg)
+
+### 8cs · 1920 (index) · Soundex B-653 — Brandy, Robert 45, Mason (not Robb)
+
+**File:** [`sources/soundex/ky1920-b653-p1631-brandy-robert-not-robb.jpg`](sources/soundex/ky1920-b653-p1631-brandy-robert-not-robb.jpg)  
+**Source:** S584 · C794 · DOC124
+
+Vol **69** ED **172** sh **8** ln **97**. Consecutive after Ronald. No Robb card.
+
+![1920 Soundex B-653 Brandy Robert](sources/soundex/ky1920-b653-p1631-brandy-robert-not-robb.jpg)
+
+### 8ct · 1920 (index) · Soundex B-653 — Brandenburgh, Robert 37, Lee × Ida
+
+**File:** [`sources/soundex/ky1920-b653-p1634-brandenburgh-robert-37-lee.jpg`](sources/soundex/ky1920-b653-p1634-brandenburgh-robert-37-lee.jpg)  
+**Source:** S584 · C794 · DOC124
+
+Vol **59** ED **113** sh **7** ln **21**. Lee, Robert not Robb, wife Ida. **Not** 1910 Buffalo Brandenburg, Robb.
+
+![1920 Soundex B-653 Brandenburgh Robert Lee](sources/soundex/ky1920-b653-p1634-brandenburgh-robert-37-lee.jpg)
+
+### 8cu · 1920 (index) · Soundex R-300 — Reed, David M. 45, Clark × Nannie
+
+**File:** [`sources/soundex/ky1920-r300-p2530-reed-david-m-45-clark.jpg`](sources/soundex/ky1920-r300-p2530-reed-david-m-45-clark.jpg)  
+**Source:** S585 · C795 · DOC125
+
+Vol **16** ED **35** sh **11** ln **97**. Clark × Nannie. **DISPROVED** as 1910 Buffalo Reid, David × Lucinda.
+
+![1920 Soundex R-300 Reed David M](sources/soundex/ky1920-r300-p2530-reed-david-m-45-clark.jpg)
+
+### 8cv · 1920 (index) · Soundex S-520 — Sims, Dollie 29, Lincoln (not William)
+
+**File:** [`sources/soundex/ky1920-s520-p3547-sims-dollie-not-william.jpg`](sources/soundex/ky1920-s520-p3547-sims-dollie-not-william.jpg)  
+**Source:** S586 · C796 · DOC126
+
+Vol **60** ED **83** sh **12** ln **98**. Consecutive with S-530. S-520 ended in the D window. No William card.
+
+![1920 Soundex S-520 Sims Dollie](sources/soundex/ky1920-s520-p3547-sims-dollie-not-william.jpg)
+
+### 8cw · 1920 (index) · Soundex H-630 start — Howard, Dan 39, Clark
+
+**File:** [`sources/soundex/ky1920-h630-p0020-howard-dan-h630-start.jpg`](sources/soundex/ky1920-h630-p0020-howard-dan-h630-start.jpg)  
+**Source:** S587 · C797 · DOC127
+
+Vol **16** ED **22** sh **5** ln **3**. First H-630 card on ky079. ky078 is still H-620–H-625.
+
+![1920 Soundex H-630 Howard Dan](sources/soundex/ky1920-h630-p0020-howard-dan-h630-start.jpg)
+
+### 8cx · 1920 (index) · Soundex H-630 — Howard, Drucilla 16, Leslie DIL
+
+**File:** [`sources/soundex/ky1920-h630-p0117-howard-drucilla-16-leslie.jpg`](sources/soundex/ky1920-h630-p0117-howard-drucilla-16-leslie.jpg)  
+**Source:** S587 · C797 · DOC127
+
+Vol **60** ED **161** sh **5** ln **94**. Age **16** versus ~50. **DISPROVED** as 1910 Buffalo Hardy, Drucilla 40 Wd. Closes the H-630 Drucilla given-name slot.
+
+![1920 Soundex H-630 Howard Drucilla 16](sources/soundex/ky1920-h630-p0117-howard-drucilla-16-leslie.jpg)
 
