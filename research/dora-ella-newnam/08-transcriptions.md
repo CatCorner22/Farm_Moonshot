@@ -611,5 +611,58 @@ No Liberty / Bollinger Jesse matching **C244**. → **C302**.
 
 Local FAN, not Jesse. → **C303**.
 
+## DOC030 — 1900 MO Soundex C-563, Francis / George window
+- Images: `sources/soundex/mo1900-c563-p2897-francis-e-whitewater.jpg` SHA-256 `6a6e2107e92e937fad99491b1aa080dfe306e7ccedb9c78c5b81bc5d407d2f31`; `…-p2898-francis-m-whitewater.jpg` `bcbe3e07b0afc0e02d58d334eddffd0a284682a0576553b8b9725391673b2318`; `…-p2899-francis-m-younger-whitewater.jpg` `a2173d758f189ba00867a971280de437ccaffd5b7e7aa613d1c598d4293d7e75`; `…-p2936-george-e-lorance.jpg` `5a564cce171f86b67fa848ea0eee3e875d2e595e7da4fac0c4bec3e5ffa52ee7`
+- Reel: IA `soundex1900mo054` pp **2897–2899**, **2936** (inverted film)
+- Provenance: **Image seen** 30 Oct 2026
+
+### Diplomatic (p.2897)
+> **C563 Conrad, Francis E** — vol **7** ED **10** · W · Sept **1868** **32** M Missouri · Bollinger · Whitewater Twp  
+> **Willie L.** — Son · July **1897** **2** Missouri  
+> **Iva A.** — Daughter · Aug **1898** **1** Missouri
+
+### Diplomatic (p.2898)
+> **C563 Conrad, Francis M** — vol **7** ED **10** sh **8** ln **16** · W · July **1841** **58** M United States · Bollinger · Whitewater Twp  
+> **Sophia B** — Wife · Apr **1849** **51** United States  
+> **Recie I.[?]** — [dau on card] · ~**1879** **20**  
+> **Seales, Sarah E.** — [listed] · Feb **1892** **8**  
+> **Conrad, W.I.** — Son · ~**1878** **22**  
+> **Nella** — [dau on card] · ~**1881**
+
+### Diplomatic (p.2899)
+> **C563 Conrad, Francis M** — vol **7** ED **10** sh **8** · W · Mar **1871** **29** M Missouri · Bollinger · Whitewater Twp  
+> **Conrad, Mary C** — Wife · Apr **1876** **24** Missouri
+
+### Diplomatic (p.2936)
+> **C563 Conrad, Geo. E.** — vol **7** ED **6** sh **1** · W · Mar **1852** **48** M Missouri · Bollinger · Lorance Twp · Marble Hill  
+> **Flora A** — Wife · Mar **1874** **26** Indiana  
+> **L.J.** — Daughter · Mar **1894** **6** Missouri  
+> **Rudolph R.** — Son · June **1896** **4** Missouri  
+> **C.** — Son · Nov **1897** **2** Missouri
+
+No Jesse on any card. George E matches **C301**. Francis M elder members are superseded by **C311**. → **C305–C308**.
+
+## DOC031 — 1900 U.S. census, Bollinger Co. MO, Whitewater ED 10 sh 8 A (T623-840 p.152)
+- Images: `sources/census/1900-bollinger-whitewater-ed10-sh8a-hdr.jpg` SHA-256 `c5211f163c32959a3fba9655d0a2bbdd21efc42a789dd50cffc11d4a6c798dc5`; `…-sh8a-francis-m.jpg` `89c3850bde03b79edf9db39c22c0b4f510321b77833c8f059a88ccc0405dc2db`
+- Stamp: Supervisor **13**, ED **10**, Sheet **8 A**; stamped **319**
+- Provenance: **Image seen** 30 Oct 2026 (100 dpi pdftoppm)
+
+### Diplomatic (dwelling 136/140 only)
+> **136/140 Conrad, Francis M** — Head, W M, July **1841**, **58**, M, **39**  
+> **Sophia B** — Wife, W F, Apr **1849**, ~**50**, M, **39**, **3** children / **2** living  
+> **Recie[?] A** — Son, W M, Mar **1879**, **20**, S  
+> **Seales, Sarah E** — Boarder, W F, Feb **1892**, **8**, S  
+> **Conrad, John R** — Son, W M, Sept **1873**, **26**, M, **1**  
+> **[Rosilla?]** — Daughter-in-law, W F, ~**1877**, **23**, M, **1**, **0/0**
+
+Pass 2: Recie’s given name is a difficult hand (Recie / Reuben); marked `[?]`. No Jesse. No Letha. Sophia **3/2** accounts for John R + Recie only. → **C311** / **C315**.
+
+## DOC032 — 1900 U.S. census, Bollinger Co. MO, Lutesville ED 7 sh 1 A header
+- Image: `sources/census/1900-bollinger-lutesville-ed7-sh1a-hdr.jpg` SHA-256 `587a4978c14d55c619a6df465a9ed582f00c6986edd773562a246f7d81c43aca`
+- Stamp: Supervisor **12**, ED **7**, Sheet **1 A**; Lutesville Village; stamped **260**
+- Provenance: **Image seen** 30 Oct 2026
+
+Header only. Name-column sweep of sh **1 A–17 B** is in **L370** / **C309** (nil Conrad / Sullivan / Newman / Letha).
+
 ## DOC009 — 1910 TN Soundex N-550 McCoy window (nil)
 Handwritten family/individual cards n2461–n2469. Sequence after Mary C (n2460): Mary D 49 Jefferson (son Layton 11); Mary M 70 Hamilton; Mek. G 50 Cheatham (Florence 19, John 17, General 16, Frances 13, William 10, Doria 6, Luther 1½); Melvin 3½ Giles (gs of Deacon George W); Melvin 54 Giles (SIL of same); Minerva 80 Robertson (gds Lona Neely, Nellie Erwin); Minnie 21 Roane (with Sam P. Sparks); Mitchell 27 Hardin (Ollie P 25, Gladys 4, Burl W 3, Royal E 1 9/12). **No McCoy.** SHA-256 n2463 `23610f8aa4c159b1b554ed1786d11f57d2f56f8a2e8994f7289ae7bd02dfca53`; n2469 `340489566090880388fa6b81ca5751c5944dcaf56a7b44f70fe560788f308586`.

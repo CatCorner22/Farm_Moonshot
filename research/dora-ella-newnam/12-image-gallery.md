@@ -47,6 +47,13 @@ Diplomatic transcriptions: [`08-transcriptions.md`](08-transcriptions.md). Citat
 | 71 | Jun 1900 | Context | [George E Conrad household — Lorance ED 6 sheet 1 B](sources/census/1900-bollinger-lorance-ed6-sh1b-george-conrad.jpg) |
 | 72 | 1910 (index) | Negative search | [Missouri C-563 — Jesse window; no Liberty card](sources/soundex/mo1910-c563-p140-jesse-window-no-liberty.jpg) |
 | 73 | 1910 (index) | Context | [Missouri C-563 — Francis M Conrad of Bollinger](sources/soundex/mo1910-c563-p120-francis-m-bollinger.jpg) |
+| 74 | 1900 (index) | Rejected same-name | [Missouri C-563 — Francis E Conrad of Whitewater](sources/soundex/mo1900-c563-p2897-francis-e-whitewater.jpg) |
+| 75 | 1900 (index) | Context | [Missouri C-563 — Francis M Conrad of Whitewater (elder)](sources/soundex/mo1900-c563-p2898-francis-m-whitewater.jpg) |
+| 76 | 1900 (index) | Rejected same-name | [Missouri C-563 — Francis M Conrad of Whitewater (younger)](sources/soundex/mo1900-c563-p2899-francis-m-younger-whitewater.jpg) |
+| 77 | 1900 (index) | Context | [Missouri C-563 — George E Conrad of Lorance](sources/soundex/mo1900-c563-p2936-george-e-lorance.jpg) |
+| 78 | Jun 1900 | Negative search | [Bollinger Lutesville ED 7 sheet 1 A header](sources/census/1900-bollinger-lutesville-ed7-sh1a-hdr.jpg) |
+| 79 | Jun 1900 | Context | [Bollinger Whitewater ED 10 sheet 8 A header](sources/census/1900-bollinger-whitewater-ed10-sh8a-hdr.jpg) |
+| 80 | Jun 1900 | Context | [Francis M Conrad household — Whitewater ED 10 sheet 8 A](sources/census/1900-bollinger-whitewater-ed10-sh8a-francis-m.jpg) |
 | 17 | Apr 1910 | Negative search | [Kentucky N-550 — Millie / Missouri; no McCoy](sources/soundex/ky1910-n550-p329-millie-missouri.jpg) |
 | 18 | Apr 1910 | Negative search | [Kentucky N-550 — Monroe; still no McCoy](sources/soundex/ky1910-n550-p330-monroe-no-mccoy.jpg) |
 | 19 | Apr 1910 | Rejected same-name | [Kentucky N-550 — Sam / Samuel, none is the husband](sources/soundex/ky1910-n550-p342-sam-samuel-not-p002.jpg) |
@@ -382,6 +389,80 @@ Typed Miracode. Jesse/Jessie heads are Pike Jessica 44, Buchanan Jesse 36 with F
 Typed Miracode. Conrad, Francis M, Bollinger, age 68, with John R in the household. Local FAN of the Liberty Jesse house — not merged.
 
 ![Missouri C-563 — Francis M Conrad of Bollinger](sources/soundex/mo1910-c563-p120-francis-m-bollinger.jpg)
+
+## 1900 — Missouri Stone search (Tom A. candidates)
+
+### 74 · 1900 (index) · Missouri C-563 — Francis E Conrad of Whitewater
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/mo1900-c563-p2897-francis-e-whitewater.jpg`](sources/soundex/mo1900-c563-p2897-francis-e-whitewater.jpg)  
+**Source:** S277 · C306
+
+Inverted Soundex card. Conrad, Francis E, Bollinger Whitewater, September 1868, age 32, with toddlers Willie (1897) and Iva (1898). Not Jesse Conrad.
+
+![Missouri C-563 — Francis E Conrad of Whitewater](sources/soundex/mo1900-c563-p2897-francis-e-whitewater.jpg)
+
+### 75 · 1900 (index) · Missouri C-563 — Francis M Conrad of Whitewater (elder)
+
+**Role:** Context  
+**File:** [`sources/soundex/mo1900-c563-p2898-francis-m-whitewater.jpg`](sources/soundex/mo1900-c563-p2898-francis-m-whitewater.jpg)  
+**Source:** S277 · C305 · C312
+
+Inverted Soundex card. Conrad, Francis M, July 1841, age 58, Whitewater ED 10 sheet 8. Member list (W.I., Nella) is a clerk approximation — prefer the original on Plate 80.
+
+![Missouri C-563 — Francis M Conrad of Whitewater (elder)](sources/soundex/mo1900-c563-p2898-francis-m-whitewater.jpg)
+
+### 76 · 1900 (index) · Missouri C-563 — Francis M Conrad of Whitewater (younger)
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/mo1900-c563-p2899-francis-m-younger-whitewater.jpg`](sources/soundex/mo1900-c563-p2899-francis-m-younger-whitewater.jpg)  
+**Source:** S277 · C307 · C314
+
+Inverted Soundex card. Conrad, Francis M, March 1871, age 29, wife Mary C, April 1876, 24. Not Jesse. The card’s sheet 8 line 5 locator fails on the original.
+
+![Missouri C-563 — Francis M Conrad of Whitewater (younger)](sources/soundex/mo1900-c563-p2899-francis-m-younger-whitewater.jpg)
+
+### 77 · 1900 (index) · Missouri C-563 — George E Conrad of Lorance
+
+**Role:** Context  
+**File:** [`sources/soundex/mo1900-c563-p2936-george-e-lorance.jpg`](sources/soundex/mo1900-c563-p2936-george-e-lorance.jpg)  
+**Source:** S277 · C308 · C301
+
+Inverted Soundex card. Conrad, Geo. E, March 1852, age 48, Lorance Marble Hill, ED 6 sheet 1. Matches the original on Plate 71.
+
+![Missouri C-563 — George E Conrad of Lorance](sources/soundex/mo1900-c563-p2936-george-e-lorance.jpg)
+
+### 78 · Jun 1900 · Bollinger Lutesville ED 7 sheet 1 A header
+
+**Role:** Negative search  
+**File:** [`sources/census/1900-bollinger-lutesville-ed7-sh1a-hdr.jpg`](sources/census/1900-bollinger-lutesville-ed7-sh1a-hdr.jpg)  
+**Source:** S278 · C309
+
+Supervisor 12, ED 7, sheet 1 A, Lutesville Village, stamped 260. First of seventeen sheets. Combined with sheets 1–17 B, Lutesville is complete — no Conrad, Sullivan, or Newman target.
+
+![Bollinger Lutesville ED 7 sheet 1 A header](sources/census/1900-bollinger-lutesville-ed7-sh1a-hdr.jpg)
+
+### 79 · Jun 1900 · Bollinger Whitewater ED 10 sheet 8 A header
+
+**Role:** Context  
+**File:** [`sources/census/1900-bollinger-whitewater-ed10-sh8a-hdr.jpg`](sources/census/1900-bollinger-whitewater-ed10-sh8a-hdr.jpg)  
+**Source:** S279 · C311
+
+Supervisor 13, ED 10, sheet 8 A, Whitewater Township, stamped 319. The sheet the Soundex clerk cited for Francis M elder.
+
+![Bollinger Whitewater ED 10 sheet 8 A header](sources/census/1900-bollinger-whitewater-ed10-sh8a-hdr.jpg)
+
+### 80 · Jun 1900 · Francis M Conrad household — Whitewater ED 10 sheet 8 A
+
+**Role:** Context  
+**File:** [`sources/census/1900-bollinger-whitewater-ed10-sh8a-francis-m.jpg`](sources/census/1900-bollinger-whitewater-ed10-sh8a-francis-m.jpg)  
+**Source:** S279 · C311 · C315 · C313
+
+Dwelling 136/140. Conrad, Francis M, July 1841, age 58, married 39 years; wife Sophia B, 3 children / 2 living; son Recie, 20; boarder Sarah E. Seales, 8; son John R, 26, married, with a daughter-in-law. No Jesse. No Letha. Sophia’s 3/2 means Jesse is not a living child of this couple. Same man as the 1910 Francis M, 68, on Plate 73.
+
+![Francis M Conrad household — Whitewater ED 10 sheet 8 A](sources/census/1900-bollinger-whitewater-ed10-sh8a-francis-m.jpg)
+
+## 1910 — Soundex, Peebles test, and Sturgeon ED 99
 
 ### 17 · Apr 1910 · Kentucky N-550 — Millie / Missouri; no McCoy
 

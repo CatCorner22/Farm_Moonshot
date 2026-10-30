@@ -277,3 +277,26 @@ research/dora-ella-newnam/sources/soundex/mo1910-c563-p120-francis-m-bollinger.j
   format: JPEG Miracode page
 research/dora-ella-newnam/sources/census/b007-pass63-1900-jacob-ed5-ed6-2026-10-30.txt
   format: Pass 63 search log
+research/dora-ella-newnam/sources/soundex/mo1900-c563-p2897-francis-e-whitewater.jpg
+  sha256: 6a6e2107e92e937fad99491b1aa080dfe306e7ccedb9c78c5b81bc5d407d2f31
+  format: JPEG inverted Soundex card
+research/dora-ella-newnam/sources/soundex/mo1900-c563-p2898-francis-m-whitewater.jpg
+  sha256: bcbe3e07b0afc0e02d58d334eddffd0a284682a0576553b8b9725391673b2318
+  format: JPEG inverted Soundex card
+research/dora-ella-newnam/sources/soundex/mo1900-c563-p2899-francis-m-younger-whitewater.jpg
+  sha256: a2173d758f189ba00867a971280de437ccaffd5b7e7aa613d1c598d4293d7e75
+  format: JPEG inverted Soundex card
+research/dora-ella-newnam/sources/soundex/mo1900-c563-p2936-george-e-lorance.jpg
+  sha256: 5a564cce171f86b67fa848ea0eee3e875d2e595e7da4fac0c4bec3e5ffa52ee7
+  format: JPEG inverted Soundex card
+research/dora-ella-newnam/sources/census/1900-bollinger-lutesville-ed7-sh1a-hdr.jpg
+  sha256: 587a4978c14d55c619a6df465a9ed582f00c6986edd773562a246f7d81c43aca
+  format: JPEG header crop, T623-840 p.34
+research/dora-ella-newnam/sources/census/1900-bollinger-whitewater-ed10-sh8a-hdr.jpg
+  sha256: c5211f163c32959a3fba9655d0a2bbdd21efc42a789dd50cffc11d4a6c798dc5
+  format: JPEG header crop, T623-840 p.152
+research/dora-ella-newnam/sources/census/1900-bollinger-whitewater-ed10-sh8a-francis-m.jpg
+  sha256: 89c3850bde03b79edf9db39c22c0b4f510321b77833c8f059a88ccc0405dc2db
+  format: JPEG household crop, T623-840 p.152 dw 136/140
+research/dora-ella-newnam/sources/census/b007-pass64-1900-francis-ed7-ed10-2026-10-30.txt
+  format: Pass 64 search log
