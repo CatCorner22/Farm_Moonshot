@@ -1,0 +1,42 @@
+Pass 66 — 1900 Bollinger Union ED 8 complete + Wayne ED 9 start
+Date: 30 Oct 2026 (America/New_York)
+Backlog: B007
+Reel: T623-840 (12thcensusofpopu840unit) local /tmp/t623-840.pdf
+
+ED 8 Union map (Oliver A. Dalton):
+  p68  = sh 1 A (stamped 277)
+  p72  = sh 3 A (stamped 279)
+  p73  = sh 3 B  ← David Conrad dw 50/51
+  p74  = sh 4 A; p75 = sh 4 B UNUSED (blank header + blank names)
+  p80  = sh 7 A (stamped 283)
+  p84  = sh 9 A (stamped 285)
+  p86  = sh 10 A (stamped 286)
+  p90  = sh 12 A (stamped 288)
+  p91  = sh 12 B — “This is the end of my enumeration”
+  p92  = ED 9 Wayne sh 1 A (William Craff; dw restart at 1; stamped 289)
+
+Every ED 8 sheet (1 A–12 B, including blank 4 B) name-column top visually read.
+
+FIND: Conrad, David, dw 50/51, ED 8 sh 3 B:
+  Head WM Jan 1871 29 M 3 MO/MO/MO
+  Miranda G wife Mar 1881 19 M 3 2/1 MO/MO/MO
+  Asah/Asa D son Aug 1898 1 S MO/MO/MO
+  NOT Jesse. No Letha. One living child is a boy.
+
+NIL Sullivan / Newman / Newnam / Letha on any ED 8 sheet.
+
+Rejects:
+  Hain, Jessie D Head (sh 1–2, already Pass 64)
+  Jessie E son (Cox/Roach cluster sh 1 B)
+  Hartle, Jessie M son age 5 (sh 11)
+  Myers, Jessie son ~8 (sh 9 B)
+  Child Doras: Statler Dora M ~3 (sh 5 B); Segett/Seabaugh Dora (sh 6 B);
+    Peck Dora child (sh 8 B); West Dora T 15 (ED 9 sh 1 A, sampled)
+  Viola daughters (Johnson sh 5 B; Crite Roland sh 6 A) — not Letha Sullivan
+  Burcham, Talitha wife ~64 (sh 10 B) — not Letha 2
+
+ED 9 Wayne sampled: sh 1 A (p92) + sh 2 A (p94) headers + name columns.
+  Surnames sh 1 A: West, Clubb, Clatt, Brannock, Ritchey — nil Conrad/Sullivan/Newman/Letha.
+  Residual: ED 9 sh 1 B + sh 2 B through last Wayne sheet (p95–p137; ED 10 starts p138).
+
+Working crops /tmp/b007-pass66/ NOT committed except the four evidence JPEGs.

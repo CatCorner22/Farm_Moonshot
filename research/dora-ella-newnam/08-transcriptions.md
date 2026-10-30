@@ -693,5 +693,14 @@ Continuation on sh **7 B**: Columbus Dec **1894** **5**; Guy May **1896** **3**;
 
 → **C321**.
 
+## DOC036 — 1900 U.S. census, Union ED 8 sh 3 B (David Conrad)
+- Image: `sources/census/1900-bollinger-union-ed8-sh3b-david-conrad.jpg` SHA-256 `149a217d0c778ba2e2f27a39bfe732f3be66c8b93ffa94fd084fbeadc21def24`
+
+> Dw **50/51**. **Conrad, David** — Head, W M, Jan **1871**, **29**, M, **3**, MO/MO/MO  
+> **Miranda G** — Wife, W F, Mar **1881**, **19**, M, **3**, **2/1**, MO/MO/MO  
+> **Asah/Asa D** — Son, W M, Aug **1898**, **1**, S, MO/MO/MO
+
+→ **C347**. Not Jesse. No Letha.
+
 ## DOC009 — 1910 TN Soundex N-550 McCoy window (nil)
 Handwritten family/individual cards n2461–n2469. Sequence after Mary C (n2460): Mary D 49 Jefferson (son Layton 11); Mary M 70 Hamilton; Mek. G 50 Cheatham (Florence 19, John 17, General 16, Frances 13, William 10, Doria 6, Luther 1½); Melvin 3½ Giles (gs of Deacon George W); Melvin 54 Giles (SIL of same); Minerva 80 Robertson (gds Lona Neely, Nellie Erwin); Minnie 21 Roane (with Sam P. Sparks); Mitchell 27 Hardin (Ollie P 25, Gladys 4, Burl W 3, Royal E 1 9/12). **No McCoy.** SHA-256 n2463 `23610f8aa4c159b1b554ed1786d11f57d2f56f8a2e8994f7289ae7bd02dfca53`; n2469 `340489566090880388fa6b81ca5751c5944dcaf56a7b44f70fe560788f308586`.

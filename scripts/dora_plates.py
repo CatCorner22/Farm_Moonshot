@@ -294,6 +294,27 @@ PLATES: list[dict] = [
         caption="Conrad, Peter R, January 1834, age 66, wife Emma E born Denmark; Conrad, John E, May 1867, age 33, wife Josephine, 8/7 children. Two more Whitewater FAN households — not Jesse.",
         source="S280 · C321",
     ),
+    dict(
+        n=85, date="Jun 1900", year=1900, role="rejected",
+        path="census/1900-bollinger-union-ed8-sh3b-david-conrad.jpg",
+        title="David Conrad household — Union ED 8 sheet 3 B",
+        caption="Dwelling 50/51. Conrad, David, January 1871, age 29, married 3 years; wife Miranda G, March 1881, age 19, 2/1; son Asa D, August 1898, age 1. Local FAN — not Jesse (different given name, marriage length, no Letha).",
+        source="S296 · C347",
+    ),
+    dict(
+        n=86, date="Jun 1900", year=1900, role="negative",
+        path="census/1900-bollinger-union-ed8-sh12b-end.jpg",
+        title="End of Union ED 8 — Dalton’s last sheet",
+        caption="Oliver A. Dalton wrote that this is the end of his enumeration. Last Union names are Bollinger, Mungle, and Edell. No Jesse Conrad, no Sullivan, no Newman, no Letha.",
+        source="S296 · C348",
+    ),
+    dict(
+        n=87, date="1 Jun 1900", year=1900, role="context",
+        path="census/1900-bollinger-wayne-ed9-sh1a-hdr.jpg",
+        title="Wayne Township ED 9 sheet 1 A header",
+        caption="Bollinger County ED 9 begins at T623-840 PDF page 92. Enumerator William Craff. Dwelling numbers restart at 1. Name-column sweep of this ED is the next residual after Union ED 8 closed.",
+        source="S296",
+    ),
     # --- 1910 Soundex / Miracode ---
     dict(
         n=17, date="Apr 1910", year=1910, role="negative",

@@ -314,3 +314,17 @@ research/dora-ella-newnam/sources/census/1900-bollinger-whitewater-ed10-sh15b-pe
   format: JPEG name-column crop, T623-840 p.167
 research/dora-ella-newnam/sources/census/b007-pass65-1900-ed10-complete-2026-10-30.txt
   format: Pass 65 search log
+research/dora-ella-newnam/sources/census/1900-bollinger-union-ed8-sh3b-david-conrad.jpg
+  sha256: 149a217d0c778ba2e2f27a39bfe732f3be66c8b93ffa94fd084fbeadc21def24
+  format: JPEG household crop, T623-840 p.73 dw 50/51
+research/dora-ella-newnam/sources/census/1900-bollinger-union-ed8-sh12b-hdr.jpg
+  sha256: 1475cc7e35b38403d330be3772f5d7be6e414c585d316c41a3cf119d2798679c
+  format: JPEG header crop, T623-840 p.91
+research/dora-ella-newnam/sources/census/1900-bollinger-union-ed8-sh12b-end.jpg
+  sha256: 57feed45364f6761ec9bce2d28319d46ecbc7a118f7322940bafc20aae3a485d
+  format: JPEG name-column crop, T623-840 p.91 end-of-enumeration
+research/dora-ella-newnam/sources/census/1900-bollinger-wayne-ed9-sh1a-hdr.jpg
+  sha256: 9a95e585557e3dc35849acb2bac5d041fab7fc24cf093e2f209246df791e45b8
+  format: JPEG header crop, T623-840 p.92
+research/dora-ella-newnam/sources/census/b007-pass66-1900-ed8-union-2026-10-30.txt
+  format: Pass 66 search log

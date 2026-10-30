@@ -12,7 +12,7 @@ Prioritised queue — work top to bottom. **Do not declare research complete whi
 | B004 | nil | H | IA `soundex1920ky117` N-550 | Dora / Ella Newman ~48 KY | 1920 hole | L035 | Three Dora cards, all wrong age; E-tab after Dougal |
 | B005 | done | H | IA `soundex1920ky144` S-350 | Dora Stone ~48 KY | m2 already by Jan 1920? | L047 | Full reel OCR nil Dora Stone |
 | B006 | done | H | IA `soundex1920tn107` N-550 | Dora Newman ~48 TN | 1920 hole | L049 | Full reel OCR nil Dora+Newman |
-| B007 | partial | M | 1910 Bollinger Co. MO Liberty Twp | Letha Sullivan household — any Newnam boarder/MIL | H4 Missouri FAN | L079 L083 L101 L105 L114 L146 L258 **L277 L278 L280 L281 L282 L283 L284 L287 L288** **L290** **L301–L304** **L309 L310** **L315 L316** **L317** **L346** **L347–L349** **L354–L360** **L361–L368** **L369–L374** **L375–L378** | **Pass 65:** Whitewater ED **10** **complete** nil Jesse/Letha (**C316**). **Frank E** original = Soundex Francis E (**C317**); children list is clerk error (**C318**). Other Conrad heads Luke / Francis C widow / Alfred / William H / Peter R / John E are FAN (**C319–C321**). Residual: Letha **12** / Jesse still unplaced in **1900** (non-head / ED **1–3** / **8–9** / other state / IN C-rolls not on IA) |
+| B007 | partial | M | 1910 Bollinger Co. MO Liberty Twp | Letha Sullivan household — any Newnam boarder/MIL | H4 Missouri FAN | L079 L083 L101 L105 L114 L146 L258 **L277 L278 L280 L281 L282 L283 L284 L287 L288** **L290** **L301–L304** **L309 L310** **L315 L316** **L317** **L346** **L347–L349** **L354–L360** **L361–L368** **L369–L374** **L375–L378** **L396–L398** | **Pass 66:** Union ED **8** **complete** nil Jesse/Letha (**C348**). **David Conrad** **29** on sh **3 B** is FAN, not Jesse (**C347**). Residual: Letha **12** / Jesse still unplaced in **1900** (non-head / ED **1–3** / **9** remainder / other state / IN C-rolls not on IA) |
 | B008 | done | H | IA 1910 KY N-550 children | John H ~10 / Pearl already found / Rissa / Mary M as GD or servant | Household pass | L051 | OCR nil; Pearl 1910 Owsley prior |
 | B009 | nil | M | USGenNet Lee deaths 1911–1929 “N” | Samuel P / Dora / John Newnam deaths | C012 | L037 | No Samuel/Dora/John H in Lee 1911–1929; try Owsley + pre-1911 |
 | B010 | partial | M | Chronicling America / USGenNet gleanings | Newnam, Dora, Samuel, Coy, Stone, Ola 1900–1926 | Press pass | L041 L144 L166 L183 **L286** **L380 L382 L391 L392** | IA `beatty` six issues + LOC KY Newnam two rejects (**C333–C335**). GT Yell obits landing **nil** (**C344**). Residual: unread 1926 week (**B049**) |
@@ -62,8 +62,8 @@ Prioritised queue — work top to bottom. **Do not declare research complete whi
 | B054 | open | L | Carter Cove stone photographs | Newman, Dora; Stone, Thomas | C324 C325 | L379 | FAG memorials **97907837** / **97907931** — photo request / on-site |
 
 ## Session handoff
-- **Last closed:** 30 Oct 2026 (America/New_York) · **Stopped after:** Pass **65** + merge of `main` `c6f1a2c` (**L379–L395**, **C324–C346**).
-- **Next session starts with:** **B007** remaining Bollinger ED **1–3** / **8–9**; **B049** 1926 obituary; **1910/1920 P001 holes**; user handoffs (**R001/R007/R008**); **B045** probate; **B047** M1509 |
+- **Last closed:** 30 Oct 2026 (America/New_York) · **Stopped after:** Pass **66** (**L396–L398**, **C347–C348**) — Union ED **8** complete; David Conrad FAN found; no Jesse / Letha in that township. Merge of `main` `c6f1a2c` remapped **L379–L395**.
+- **Next session starts with:** **B007** remaining Bollinger ED **9** Wayne + ED **1–3**; **B049** 1926 obituary; **1910/1920 P001 holes**; user handoffs (**R001/R007/R008**); **B045** probate; **B047** M1509 |
 
 
 ## Escalation log (brick walls — step number from exhaustive-research.md)

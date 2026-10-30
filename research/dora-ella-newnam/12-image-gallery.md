@@ -58,6 +58,9 @@ Diplomatic transcriptions: [`08-transcriptions.md`](08-transcriptions.md). Citat
 | 82 | Jun 1900 | Rejected same-name | [Frank E Conrad household — Whitewater ED 10 sheet 7 A](sources/census/1900-bollinger-whitewater-ed10-sh7a-frank-e.jpg) |
 | 83 | Jun 1900 | Context | [Luke Conrad and Francis C Conrad widow — Whitewater ED 10 sheet 7 B](sources/census/1900-bollinger-whitewater-ed10-sh7b-luke-francis-c.jpg) |
 | 84 | Jun 1900 | Context | [Peter R and John E Conrad — Whitewater ED 10 sheet 15 B](sources/census/1900-bollinger-whitewater-ed10-sh15b-peter-john.jpg) |
+| 85 | Jun 1900 | Rejected same-name | [David Conrad household — Union ED 8 sheet 3 B](sources/census/1900-bollinger-union-ed8-sh3b-david-conrad.jpg) |
+| 86 | Jun 1900 | Negative search | [End of Union ED 8 — Dalton’s last sheet](sources/census/1900-bollinger-union-ed8-sh12b-end.jpg) |
+| 87 | 1 Jun 1900 | Context | [Wayne Township ED 9 sheet 1 A header](sources/census/1900-bollinger-wayne-ed9-sh1a-hdr.jpg) |
 | 17 | Apr 1910 | Negative search | [Kentucky N-550 — Millie / Missouri; no McCoy](sources/soundex/ky1910-n550-p329-millie-missouri.jpg) |
 | 18 | Apr 1910 | Negative search | [Kentucky N-550 — Monroe; still no McCoy](sources/soundex/ky1910-n550-p330-monroe-no-mccoy.jpg) |
 | 19 | Apr 1910 | Rejected same-name | [Kentucky N-550 — Sam / Samuel, none is the husband](sources/soundex/ky1910-n550-p342-sam-samuel-not-p002.jpg) |
@@ -505,6 +508,36 @@ Continuation of the Frank E children, then Conrad, Luke, 34, with Anna B, and Co
 Conrad, Peter R, January 1834, age 66, wife Emma E born Denmark; Conrad, John E, May 1867, age 33, wife Josephine, 8/7 children. Two more Whitewater FAN households — not Jesse.
 
 ![Peter R and John E Conrad — Whitewater ED 10 sheet 15 B](sources/census/1900-bollinger-whitewater-ed10-sh15b-peter-john.jpg)
+
+### 85 · Jun 1900 · David Conrad household — Union ED 8 sheet 3 B
+
+**Role:** Rejected same-name  
+**File:** [`sources/census/1900-bollinger-union-ed8-sh3b-david-conrad.jpg`](sources/census/1900-bollinger-union-ed8-sh3b-david-conrad.jpg)  
+**Source:** S296 · C347
+
+Dwelling 50/51. Conrad, David, January 1871, age 29, married 3 years; wife Miranda G, March 1881, age 19, 2/1; son Asa D, August 1898, age 1. Local FAN — not Jesse (different given name, marriage length, no Letha).
+
+![David Conrad household — Union ED 8 sheet 3 B](sources/census/1900-bollinger-union-ed8-sh3b-david-conrad.jpg)
+
+### 86 · Jun 1900 · End of Union ED 8 — Dalton’s last sheet
+
+**Role:** Negative search  
+**File:** [`sources/census/1900-bollinger-union-ed8-sh12b-end.jpg`](sources/census/1900-bollinger-union-ed8-sh12b-end.jpg)  
+**Source:** S296 · C348
+
+Oliver A. Dalton wrote that this is the end of his enumeration. Last Union names are Bollinger, Mungle, and Edell. No Jesse Conrad, no Sullivan, no Newman, no Letha.
+
+![End of Union ED 8 — Dalton’s last sheet](sources/census/1900-bollinger-union-ed8-sh12b-end.jpg)
+
+### 87 · 1 Jun 1900 · Wayne Township ED 9 sheet 1 A header
+
+**Role:** Context  
+**File:** [`sources/census/1900-bollinger-wayne-ed9-sh1a-hdr.jpg`](sources/census/1900-bollinger-wayne-ed9-sh1a-hdr.jpg)  
+**Source:** S296
+
+Bollinger County ED 9 begins at T623-840 PDF page 92. Enumerator William Craff. Dwelling numbers restart at 1. Name-column sweep of this ED is the next residual after Union ED 8 closed.
+
+![Wayne Township ED 9 sheet 1 A header](sources/census/1900-bollinger-wayne-ed9-sh1a-hdr.jpg)
 
 ## 1910 — Soundex, Peebles test, and Sturgeon ED 99
 
