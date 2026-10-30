@@ -497,6 +497,9 @@ def main() -> None:
     print(f"wrote {GALLERY_MD}")
     if not args.gallery_only:
         build_pdf()
+    import subprocess
+
+    subprocess.run([sys.executable, str(ROOT / "scripts" / "build_dora_word.py")], check=True)
 
 
 if __name__ == "__main__":

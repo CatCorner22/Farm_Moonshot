@@ -25,7 +25,12 @@ Compiled PDF with the NARA plate gallery and the four family charts:
 Rebuild from the repository root:
 
 ```bash
-python3 scripts/build_dora_book.py
+python3 scripts/build_dora_book.py    # PDF + image gallery + Word (.docx)
+python3 scripts/build_dora_word.py    # Word only from the same markdown
 ```
+
+Master Word document (regenerate after editing the markdown):
+
+- [`Dora-Ella-Newnam-Stone-A-Life.docx`](Dora-Ella-Newnam-Stone-A-Life.docx)
 
 The builder also rewrites [`../12-image-gallery.md`](../12-image-gallery.md) from `scripts/dora_plates.py`. Chat inventory: [`../13-chat-review.md`](../13-chat-review.md).

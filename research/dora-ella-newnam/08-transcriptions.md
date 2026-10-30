@@ -203,7 +203,20 @@ Diplomatic (Newnam cluster only):
 | | Della | Dau | 11 | S | |
 | | Willard | Son | 6 | S | |
 
-**Not P002/P001** (wife Sarah; children ≠ 1900 set).
+**Not P002/P001** (wife Sarah; children ≠ 1900 set). The brother is **Newman, George**, 32 — a “Plowman, George, BIL, 22” reading of this line is withdrawn (L191). Same sheet, dw **60/62**: Brandenburg, Fred, 23, M1 2; Ollie, 19 — precinct FAN, not Louisa’s house.
+
+### Sheet 6B (PDF 560) — `1910-po478-p0560-lee-sturgeon-ed99-sheet6b-dw67-garrett.jpg`
+
+Diplomatic (rejected same-name, 29 Oct 2026):
+
+| Dw/Fam | Name | Rel | Age | Mar | Notes |
+|---|---|---|---|---|---|
+| 70/97 | **Brandenburg, John** | Head | 29 | M1 8 | Miracode 033-0099-0097 |
+| | Susan [Miracode: Louisa] | Wife | 26 | M1 8 | 5/5 |
+| | Ida | Dau | 6 | S | ≠ Ida Mays ~16 |
+| | Bertie | Dau | 5 | S | ≠ Burtie b. 15 Jul 1903 |
+
+**Rejected** vs Louisa P. Mays Brandenburg. → C177.
 
 ### Sheet 6A (PDF 561) — `1910-lee-ky-ed99-p561.jpg`
 SHA-256 `11c331f46c946c86ff41b66684c136a5a06b3e1ec2197edc15cd2a32001c276b` · 2254×1560. Enum. 26 April.
@@ -228,7 +241,39 @@ SHA-256 `d0b20cdf0b4a85729311415bc1659ee9e0c9aaf6645aa5a90ae1d1cfd53d9f87` · 22
 
 Dwelling **218/257**: **Newman, John H.**, head, ~45, M1 25 years; wife ~52; son **Malcum** ~27, laborer. **Not P010** (P010 was 9 months old in Jun 1900).
 
-ED 99 continues through sheet 13B (PDF 578 is the blank/end B; PDF 579 = ED 100 Proctor 1A). No household in the ED lists Dora ~39, Samuel ~41, McCoy ~20, or John H. ~10 of the 1900 Sturgeon set. → C088 C089.
+Diplomatic (FAN household, re-read 29 Oct 2026):
+
+| Dw/Fam | Name | Rel | Age | Mar | Notes |
+|---|---|---|---|---|---|
+| 228/251 | **Farmer, Samuel** | Head | 33 | M1 6 | Farmer; = S. P. Farmer of C165 |
+| | Martha | Wife | 23 | M1 6 | 2/2; = Martha Mays (C164) |
+| | Flora | Dau | 5 | S | Later Flora Barrett (S151) |
+| | Everett | Son | 3 | S | |
+
+**No** mother-in-law / Louisa / Ida / Bertie in the house. → C182.
+
+ED 99 continues through sheet **14 A** (PDF 577). PDF 580 = ED 100 Proctor 1A. No household in the ED lists Dora ~39, Samuel ~41, McCoy ~20, or John H. ~10 of the 1900 Sturgeon set. → C088 C089.
+
+## DOC019 — 1910 KY Miracode G-600 Hardin Gray (typed card)
+
+IA `soundex1910ky064` p.443. **Image seen** 29 Oct 2026.
+
+> LEE · G600 GRAY HARDIN · H · 033 0099 0248 · W 34 KENTUCKY  
+> VISTA W 27 KENTUCKY  
+> RASCOE S 10 KENTUCKY  
+> HULBERT S 07 KENTUCKY  
+> ELIZE S 04 KENTUCKY  
+> DEANNA D NR  
+
+No mother-in-law. = C166 couple. → C184. Original family 248 **not on the bound ED 99 sheets** (families 243–249 skipped; sh 14 B blank). → C194.
+
+## DOC020 — 1958 Vestie Bell Gray death-certificate extract
+
+USGenNet Lee 1958 DC extracts (photographs, not the certificate image). Accessed 29 Oct 2026.
+
+> Vestie Bell Gray · 76 yrs 1 mo 12 ds · 9 Sep 1882 Lee Co · 21 Oct 1958 · father **Larkin Mays** · mother **Eliza Pendergrass**
+
+→ C192. Birth year conflicts with 1900 Sep 1881 (#15).
 
 ## DOC013 — Lee Co. deaths 1911–1929 N-index + year extracts (nil for P001/P002)
 See S047/S068. N-index rows (as printed):

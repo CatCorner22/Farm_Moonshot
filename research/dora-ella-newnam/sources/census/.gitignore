@@ -1,0 +1,6 @@
+*.pdf
+
+# Local IA census downloads (large)
+popu855.pdf
+popu855-p*.png
+1880-ed59-batch/
