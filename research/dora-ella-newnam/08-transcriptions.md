@@ -9,7 +9,7 @@ Conventions: `[?]` uncertain · `[illegible]` unreadable · `W[illia]m` expansio
 ### Diplomatic transcription
 > **5 Aug 1874** — Katty **NEWNAM**, female, alive, b. Lee Co. Ky, d/o **Elias NEWMAN** b. Clark Co. Ky & **Mary SMALLWOOD** b. Owsley Co. Ky
 
-Claims: **C044** (sister Catharine/Katty). Negative for P001 civil birth: **C220**.
+Claims: **C044** (sister Catharine/Katty). Negative for P001 civil birth: **C251**.
 
 ---
 
