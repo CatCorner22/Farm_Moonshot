@@ -74,6 +74,11 @@ Diplomatic transcriptions: [`08-transcriptions.md`](08-transcriptions.md). Citat
 | 98 | 2 Jun 1900 | Rejected same-name | [County Jail and village end — Lorance ED 6 sheet 3 B](sources/census/1900-bollinger-lorance-ed6-sh3b-jail-end.jpg) |
 | 99 | 29 Jun 1900 | Negative search | [End of Lorance ED 6 — Stevens’s last occupied lines](sources/census/1900-bollinger-lorance-ed6-sh18a-end.jpg) |
 | 100 | 29 Jun 1900 | Context | [Lorance Township ED 6 sheet 18 A header](sources/census/1900-bollinger-lorance-ed6-sh18a-hdr.jpg) |
+| 101 | 1900 (index) | Rejected same-name | [Indiana S-415 — Francis M Sullivan household (front)](sources/soundex/in1900-s415-p999-francis-m-lethia.jpg) |
+| 102 | 1900 (index) | Rejected same-name | [Indiana S-415 — Lethia M, age 1](sources/soundex/in1900-s415-p1000-lethia-m.jpg) |
+| 103 | 1900 (index) | Rejected same-name | [Indiana C-563 — Jessie Conrad, 42, Indianapolis](sources/soundex/in1900-c563-p1081-jessie-42-indianapolis.jpg) |
+| 104 | 1900 (index) | Rejected same-name | [Kentucky C-563 — Jerry C Conrad, 35, Kenton](sources/soundex/ky1900-c563-p2825-jerry-c-kenton.jpg) |
+| 105 | 1900 (index) | Rejected same-name | [Indiana C-563 — Jessie, age 3, Miami County](sources/soundex/in1900-c563-p1080-jessie-age3-miami.jpg) |
 | 17 | Apr 1910 | Negative search | [Kentucky N-550 — Millie / Missouri; no McCoy](sources/soundex/ky1910-n550-p329-millie-missouri.jpg) |
 | 18 | Apr 1910 | Negative search | [Kentucky N-550 — Monroe; still no McCoy](sources/soundex/ky1910-n550-p330-monroe-no-mccoy.jpg) |
 | 19 | Apr 1910 | Rejected same-name | [Kentucky N-550 — Sam / Samuel, none is the husband](sources/soundex/ky1910-n550-p342-sam-samuel-not-p002.jpg) |
@@ -681,6 +686,56 @@ Sheet 18 A line 10: Stevens wrote that here ends the enumeration of Lorance Town
 Last Lorance sheet. Supervisor 12, enumeration district 6, sheet 18 A, stamped 259. Enumerated 29 June 1900 by Thomas H. Stevens. T623-840 page 33 is an unused verso; page 34 is Lutesville ED 7 sheet 1 A (already C309).
 
 ![Lorance Township ED 6 sheet 18 A header](sources/census/1900-bollinger-lorance-ed6-sh18a-hdr.jpg)
+
+### 101 · 1900 (index) · Indiana S-415 — Francis M Sullivan household (front)
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/in1900-s415-p999-francis-m-lethia.jpg`](sources/soundex/in1900-s415-p999-francis-m-lethia.jpg)  
+**Source:** S304 · C363
+
+Brown County, Van Buren Township, volume 7, ED 26, sheet 8, line 47. Sullivan, Francis M, February 1868, age 32, Indiana-born; wife Rosa B, September 1870, age 29, Indiana. Children Ethel M, Minerva E, Sophronia A, and John W. Continuation names Lethia M (Plate 102). Mother’s Indiana nativity fails vs 1910 Letha Sullivan (mother Missouri).
+
+![Indiana S-415 — Francis M Sullivan household (front)](sources/soundex/in1900-s415-p999-francis-m-lethia.jpg)
+
+### 102 · 1900 (index) · Indiana S-415 — Lethia M, age 1
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/in1900-s415-p1000-lethia-m.jpg`](sources/soundex/in1900-s415-p1000-lethia-m.jpg)  
+**Source:** S304 · C363
+
+Continuation of Francis M. Sullivan, Lethia M, daughter, February 1899, age 1, Indiana. Close given-name and age to Letha Viola ~2, but mother Rosa B is Indiana-born and the household is intact with five children. Not merged with C244.
+
+![Indiana S-415 — Lethia M, age 1](sources/soundex/in1900-s415-p1000-lethia-m.jpg)
+
+### 103 · 1900 (index) · Indiana C-563 — Jessie Conrad, 42, Indianapolis
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/in1900-c563-p1081-jessie-42-indianapolis.jpg`](sources/soundex/in1900-c563-p1081-jessie-42-indianapolis.jpg)  
+**Source:** S303 · C361 · C362
+
+Colored head, October 1857, age 42, born North Carolina, Marion County, Indianapolis Center Township. The only Jessie/Jesse Conrad head in the Indiana 1900 C-563 J-window. Race, age, and nativity all fail vs 1910 Jesse Conrad (White, ~27, Missouri). Next card is Joel, 50 — no White Jesse ~27.
+
+![Indiana C-563 — Jessie Conrad, 42, Indianapolis](sources/soundex/in1900-c563-p1081-jessie-42-indianapolis.jpg)
+
+### 104 · 1900 (index) · Kentucky C-563 — Jerry C Conrad, 35, Kenton
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/ky1900-c563-p2825-jerry-c-kenton.jpg`](sources/soundex/ky1900-c563-p2825-jerry-c-kenton.jpg)  
+**Source:** S305 · C364 · C365
+
+August 1864, age 35, Kenton County, Independence; wife Mary, July 1865, age 34. This is the J-given card immediately before the John block. No Jesse Conrad head ~27 sits between Jerry and John on the Kentucky 1900 C-563 reel.
+
+![Kentucky C-563 — Jerry C Conrad, 35, Kenton](sources/soundex/ky1900-c563-p2825-jerry-c-kenton.jpg)
+
+### 105 · 1900 (index) · Indiana C-563 — Jessie, age 3, Miami County
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/in1900-c563-p1080-jessie-age3-miami.jpg`](sources/soundex/in1900-c563-p1080-jessie-age3-miami.jpg)  
+**Source:** S303 · C361
+
+Individual card, July 1896, age 3, Peru, Miami County, enumerated with a Kennedy household. The card immediately before Indianapolis Jessie, 42. A toddler, not Jesse Conrad ~27.
+
+![Indiana C-563 — Jessie, age 3, Miami County](sources/soundex/in1900-c563-p1080-jessie-age3-miami.jpg)
 
 ## 1910 — Soundex, Peebles test, and Sturgeon ED 99
 

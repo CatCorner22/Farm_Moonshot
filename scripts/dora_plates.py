@@ -406,6 +406,41 @@ PLATES: list[dict] = [
         caption="Last Lorance sheet. Supervisor 12, enumeration district 6, sheet 18 A, stamped 259. Enumerated 29 June 1900 by Thomas H. Stevens. T623-840 page 33 is an unused verso; page 34 is Lutesville ED 7 sheet 1 A (already C309).",
         source="S302 · C358",
     ),
+    dict(
+        n=101, date="1900 (index)", year=1900, role="rejected",
+        path="soundex/in1900-s415-p999-francis-m-lethia.jpg",
+        title="Indiana S-415 — Francis M Sullivan household (front)",
+        caption="Brown County, Van Buren Township, volume 7, ED 26, sheet 8, line 47. Sullivan, Francis M, February 1868, age 32, Indiana-born; wife Rosa B, September 1870, age 29, Indiana. Children Ethel M, Minerva E, Sophronia A, and John W. Continuation names Lethia M (Plate 102). Mother’s Indiana nativity fails vs 1910 Letha Sullivan (mother Missouri).",
+        source="S304 · C363",
+    ),
+    dict(
+        n=102, date="1900 (index)", year=1900, role="rejected",
+        path="soundex/in1900-s415-p1000-lethia-m.jpg",
+        title="Indiana S-415 — Lethia M, age 1",
+        caption="Continuation of Francis M. Sullivan, Lethia M, daughter, February 1899, age 1, Indiana. Close given-name and age to Letha Viola ~2, but mother Rosa B is Indiana-born and the household is intact with five children. Not merged with C244.",
+        source="S304 · C363",
+    ),
+    dict(
+        n=103, date="1900 (index)", year=1900, role="rejected",
+        path="soundex/in1900-c563-p1081-jessie-42-indianapolis.jpg",
+        title="Indiana C-563 — Jessie Conrad, 42, Indianapolis",
+        caption="Colored head, October 1857, age 42, born North Carolina, Marion County, Indianapolis Center Township. The only Jessie/Jesse Conrad head in the Indiana 1900 C-563 J-window. Race, age, and nativity all fail vs 1910 Jesse Conrad (White, ~27, Missouri). Next card is Joel, 50 — no White Jesse ~27.",
+        source="S303 · C361 · C362",
+    ),
+    dict(
+        n=104, date="1900 (index)", year=1900, role="rejected",
+        path="soundex/ky1900-c563-p2825-jerry-c-kenton.jpg",
+        title="Kentucky C-563 — Jerry C Conrad, 35, Kenton",
+        caption="August 1864, age 35, Kenton County, Independence; wife Mary, July 1865, age 34. This is the J-given card immediately before the John block. No Jesse Conrad head ~27 sits between Jerry and John on the Kentucky 1900 C-563 reel.",
+        source="S305 · C364 · C365",
+    ),
+    dict(
+        n=105, date="1900 (index)", year=1900, role="rejected",
+        path="soundex/in1900-c563-p1080-jessie-age3-miami.jpg",
+        title="Indiana C-563 — Jessie, age 3, Miami County",
+        caption="Individual card, July 1896, age 3, Peru, Miami County, enumerated with a Kennedy household. The card immediately before Indianapolis Jessie, 42. A toddler, not Jesse Conrad ~27.",
+        source="S303 · C361",
+    ),
     # --- 1910 Soundex / Miracode ---
     dict(
         n=17, date="Apr 1910", year=1910, role="negative",

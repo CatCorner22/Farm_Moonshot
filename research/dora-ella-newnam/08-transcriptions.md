@@ -787,5 +787,41 @@ Lines **11–50** blank. Last occupied household (ln **2–9**) is a Hatton[?]/N
 
 Footer: **Here ends th[e enumeration]** of the village. → **C360**. Killien Jesse is **41**, not ~**27**, and is a prisoner, not a Conrad head. Dora **16** is not P001.
 
+## DOC043 — 1900 IN Soundex S-415, Sullivan, Francis M + Lethia M
+- Images: `sources/soundex/in1900-s415-p999-francis-m-lethia.jpg` SHA-256 `ccad8ecb1f5934c66379e562c3666863323d16cb190e75a84a57855f79f74ad7`; `…-p1000-lethia-m.jpg` `7b101b07e79e821ab742c4784188b837a2ab821f36684e6e78284e49fc8e631b`
+- Reel: T1044, IA `soundex1900in208` n**999–1000**
+- Provenance: **Image seen** 30 Oct 2026 (IA BookReader JPEG, inverted for reading)
+
+### Diplomatic
+> **S-415 Sullivan, Francis M** — Head · vol **7** ED **26** sh **8** ln **47** · W M Feb **1868** **32** Indiana · Brown · Van Buren Twp  
+> **Rosa B** — Wife, Sept **1870**, **29**, Indiana  
+> **Ethel M** — D, Mar **1892**, **8**, Indiana  
+> **Minerva E** — D, Mar **1893**, **7**, Indiana  
+> **Sophronia A** — D, Sept **1894**, **5**, Indiana  
+> **John W** — S, Jan **1897**, **3**, Indiana  
+> **Lethia M** — D, Feb **1899**, **1**, Indiana  *(continuation card)*
+
+→ **C363**. Mother Indiana-born. Not C244.
+
+## DOC044 — 1900 IN Soundex C-563, Jessie rejects
+- Images: `sources/soundex/in1900-c563-p1080-jessie-age3-miami.jpg` SHA-256 `b65cc9bfd15bdd3f4fcde38f9bbd49b067f0f9c6f900fed5178a694d42a5bc2c`; `…-p1081-jessie-42-indianapolis.jpg` `764257e9e781570389dfa6f5267f10cb88e1061613a78456a5848da71fec846a`
+- Reel: T1044, IA `soundex1900iln045` n**1080–1081**
+
+### Diplomatic
+> **C-563 Jessie** — Individual · July **1896** **3** Indiana · Miami · Peru · enumerated with Kennedy  
+> **C-563 Conrad, Jessie** — Head · vol **40** ED **72** sh **5** ln **25** · Colored F[?] Oct **1857** **42** N. Carolina · Marion · Indianapolis Center Twp
+
+Next card is **Joel** **50**. No White Jesse ~**27**. → **C361 / C362**.
+
+## DOC045 — 1900 KY Soundex C-563, Jerry C (Jesse slot)
+- Image: `sources/soundex/ky1900-c563-p2825-jerry-c-kenton.jpg` SHA-256 `9ff0cd0bea179093976fb2674efa0d005d873ff97d8a3235834b28878b2eb49a`
+- Reel: T1047, IA `soundex1900ky038` n**2825**
+
+### Diplomatic
+> **C-563 Conrad, Jerry C** — Head · vol **44** ED **126** sh **3** ln **53** · W M Aug **1864** **35** Kentucky · Kenton · Independence  
+> **Mary** — Wife, July **1865**, **34**, Kentucky
+
+Preceded by James W / Jennie; followed by Johns. No Jesse. → **C364 / C365**.
+
 ## DOC009 — 1910 TN Soundex N-550 McCoy window (nil)
 Handwritten family/individual cards n2461–n2469. Sequence after Mary C (n2460): Mary D 49 Jefferson (son Layton 11); Mary M 70 Hamilton; Mek. G 50 Cheatham (Florence 19, John 17, General 16, Frances 13, William 10, Doria 6, Luther 1½); Melvin 3½ Giles (gs of Deacon George W); Melvin 54 Giles (SIL of same); Minerva 80 Robertson (gds Lona Neely, Nellie Erwin); Minnie 21 Roane (with Sam P. Sparks); Mitchell 27 Hardin (Ollie P 25, Gladys 4, Burl W 3, Royal E 1 9/12). **No McCoy.** SHA-256 n2463 `23610f8aa4c159b1b554ed1786d11f57d2f56f8a2e8994f7289ae7bd02dfca53`; n2469 `340489566090880388fa6b81ca5751c5944dcaf56a7b44f70fe560788f308586`.

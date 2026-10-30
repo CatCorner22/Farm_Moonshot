@@ -384,3 +384,20 @@ research/dora-ella-newnam/sources/census/1900-bollinger-lorance-ed6-sh18a-hdr.jp
   format: JPEG header crop, T623-840 p.32
 research/dora-ella-newnam/sources/census/b007-pass69-1900-ed6-lorance-complete-2026-10-30.txt
   format: Pass 69 ED 6 complete search log
+research/dora-ella-newnam/sources/soundex/in1900-s415-p999-francis-m-lethia.jpg
+  sha256: ccad8ecb1f5934c66379e562c3666863323d16cb190e75a84a57855f79f74ad7
+  format: JPEG Soundex card, IA soundex1900in208 n999 (inverted)
+research/dora-ella-newnam/sources/soundex/in1900-s415-p1000-lethia-m.jpg
+  sha256: 7b101b07e79e821ab742c4784188b837a2ab821f36684e6e78284e49fc8e631b
+  format: JPEG Soundex continuation, IA soundex1900in208 n1000 (inverted)
+research/dora-ella-newnam/sources/soundex/in1900-c563-p1080-jessie-age3-miami.jpg
+  sha256: b65cc9bfd15bdd3f4fcde38f9bbd49b067f0f9c6f900fed5178a694d42a5bc2c
+  format: JPEG Soundex card, IA soundex1900iln045 n1080 (inverted)
+research/dora-ella-newnam/sources/soundex/in1900-c563-p1081-jessie-42-indianapolis.jpg
+  sha256: 764257e9e781570389dfa6f5267f10cb88e1061613a78456a5848da71fec846a
+  format: JPEG Soundex card, IA soundex1900iln045 n1081 (inverted)
+research/dora-ella-newnam/sources/soundex/ky1900-c563-p2825-jerry-c-kenton.jpg
+  sha256: 9ff0cd0bea179093976fb2674efa0d005d873ff97d8a3235834b28878b2eb49a
+  format: JPEG Soundex card, IA soundex1900ky038 n2825 (inverted)
+research/dora-ella-newnam/sources/soundex/b007-pass70-1900-ky-in-c563-2026-10-30.txt
+  format: Pass 70 KY/IN C-563 + IN S-415 search log

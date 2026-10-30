@@ -1,0 +1,36 @@
+Pass 70 — 1900 KY / IN C-563 Jesse + IN S-415 Letha
+Date: 30 Oct 2026 (America/New_York)
+Backlog: B007 residual other-state 1900 / IN C-rolls
+
+=== Access ===
+IN C-rolls are on IA under identifier prefix soundex1900iln* (Indiana film misfiled as Illinois).
+  soundex1900iln045 = T1044 C-560 Jas. F. — C-610 Ernest  (leafCount 3980)
+IN S-415 is soundex1900in208 = T1044 S-410 — S-424 (leafCount 3792)
+KY C-563 is soundex1900ky038 = T1047 C-541 — C-600 James S. (leafCount 3899)
+AR C-563 reel located: soundex1900ar025 = T1033 C-540 Frank — C-600 Iva (leafCount 2375) — C-563 body not yet walked.
+IL C-563 reel located: soundex1900il083 = C-553 — C-600. Not yet walked.
+TN C-563 reel located: soundex1900tn036 = C-540 Pat — C-600 Jake. Not yet walked.
+
+Image seen via IA BookReader page JPEGs (not the full 100–350 MB PDFs). Local /tmp/p70/ working crops not committed except the evidence JPEGs listed in S303–S305.
+
+=== IN C-563 Jesse window (iln045 n1080–n1090) ===
+n1080 Jessie individual July 1896 age 3 Miami/Peru — child, not Jesse ~27.
+n1081 Conrad, Jessie head Colored Oct 1857 age 42 N.C. Marion/Indianapolis — reject (race, age, nativity).
+n1082 Conrad, Joel June 1849 age 50 Montgomery — after Jesse alphabetically.
+n1083+ John cards. No White Jesse Conrad ~27 MO head.
+
+=== IN S-415 Lethia (in208 n999–n1000) ===
+Sullivan, Francis M  Feb 1868 32 IN  Brown Co. Van Buren Twp  vol 7 ED 26 sh 8 ln 47
+  Rosa B wife Sept 1870 29 IN
+  Ethel M 8, Minerva E 7, Sophronia A 5, John W 3, Lethia M D Feb 1899 age 1 IN
+Mother Indiana-born, not Missouri. Intact 5-child household. Not merged with C244.
+
+=== KY C-563 Jesse window (ky038 n2820–n2828) ===
+n2820 James W 38 Jefferson. n2824 Jennie 38 Grant individual.
+n2825 Jerry C Aug 1864 35 Kenton + Mary.
+n2826 John 19 Germany Louisville individual.
+n2827 John Aug 1872 27 IL Webster.
+No Jesse between Jerry and John.
+
+=== Residual ===
+AR/IL/TN C-563 bodies; IN S-415 John-father cards with a MO-born wife + Letha ~2.

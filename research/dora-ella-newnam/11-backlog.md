@@ -12,7 +12,7 @@ Prioritised queue — work top to bottom. **Do not declare research complete whi
 | B004 | nil | H | IA `soundex1920ky117` N-550 | Dora / Ella Newman ~48 KY | 1920 hole | L035 | Three Dora cards, all wrong age; E-tab after Dougal |
 | B005 | done | H | IA `soundex1920ky144` S-350 | Dora Stone ~48 KY | m2 already by Jan 1920? | L047 | Full reel OCR nil Dora Stone |
 | B006 | done | H | IA `soundex1920tn107` N-550 | Dora Newman ~48 TN | 1920 hole | L049 | Full reel OCR nil Dora+Newman |
-| B007 | partial | M | 1910 Bollinger Co. MO Liberty Twp | Letha Sullivan household — any Newnam boarder/MIL | H4 Missouri FAN | L079 L083 L101 L105 L114 L146 L258 **L277 L278 L280 L281 L282 L283 L284 L287 L288** **L290** **L301–L304** **L309 L310** **L315 L316** **L317** **L346** **L347–L349** **L354–L360** **L361–L368** **L369–L374** **L375–L378** **L396–L398** **L399–L401** **L402–L408** **L409–L412** | **Pass 69:** Lorance ED **6** complete (**C358**). **All ten** 1900 Bollinger EDs closed for Jesse-as-head / Letha-as-named-child (**C359**). Residual: other-state 1900; IN C-rolls; Letha **12** / Jesse still unplaced in **1900** |
+| B007 | partial | M | 1910 Bollinger Co. MO Liberty Twp | Letha Sullivan household — any Newnam boarder/MIL | H4 Missouri FAN | L079 L083 L101 L105 L114 L146 L258 **L277 L278 L280 L281 L282 L283 L284 L287 L288** **L290** **L301–L304** **L309 L310** **L315 L316** **L317** **L346** **L347–L349** **L354–L360** **L361–L368** **L369–L374** **L375–L378** **L396–L398** **L399–L401** **L402–L408** **L409–L412** **L413–L417** | **Pass 70:** IN C-rolls found (`soundex1900iln045`). IN + KY C-563 Jesse **nil** (**C361/C365**). Lethia M Brown Co. **rejected** (**C363**). Residual: AR/IL/TN C-563; IN S-415 John-father + MO-born wife |
 | B008 | done | H | IA 1910 KY N-550 children | John H ~10 / Pearl already found / Rissa / Mary M as GD or servant | Household pass | L051 | OCR nil; Pearl 1910 Owsley prior |
 | B009 | nil | M | USGenNet Lee deaths 1911–1929 “N” | Samuel P / Dora / John Newnam deaths | C012 | L037 | No Samuel/Dora/John H in Lee 1911–1929; try Owsley + pre-1911 |
 | B010 | partial | M | Chronicling America / USGenNet gleanings | Newnam, Dora, Samuel, Coy, Stone, Ola 1900–1926 | Press pass | L041 L144 L166 L183 **L286** **L380 L382 L391 L392** | IA `beatty` six issues + LOC KY Newnam two rejects (**C333–C335**). GT Yell obits landing **nil** (**C344**). Residual: unread 1926 week (**B049**) |
@@ -62,8 +62,8 @@ Prioritised queue — work top to bottom. **Do not declare research complete whi
 | B054 | open | L | Carter Cove stone photographs | Newman, Dora; Stone, Thomas | C324 C325 | L379 | FAG memorials **97907837** / **97907931** — photo request / on-site |
 
 ## Session handoff
-- **Last closed:** 30 Oct 2026 (America/New_York) · **Stopped after:** Pass **69** (**L409–L412**, **C358–C360**) — Lorance ED **6** complete; all ten 1900 Bollinger EDs closed for Jesse-as-head.
-- **Next session starts with:** **B007** residual other-state 1900 / IN C-rolls; **B049** 1926 obituary; **1910/1920 P001 holes**; user handoffs (**R001/R007/R008**); **B045** probate; **B047** M1509 |
+- **Last closed:** 30 Oct 2026 (America/New_York) · **Stopped after:** Pass **70** (**L413–L417**, **C361–C365**) — IN/KY 1900 C-563 Jesse nil; IN Lethia M rejected.
+- **Next session starts with:** **B007** AR/IL/TN C-563 J-windows; IN S-415 John + MO-born wife; **B049** 1926 obituary; user handoffs (**R001/R007/R008**); **B045** probate; **B047** M1509 |
 
 
 ## Escalation log (brick walls — step number from exhaustive-research.md)
