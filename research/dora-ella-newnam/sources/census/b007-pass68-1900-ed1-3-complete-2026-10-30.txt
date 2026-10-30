@@ -1,0 +1,109 @@
+Pass 68 remainder — 1900 Bollinger ED 1 Crooked Creek + ED 2 Fillmore + ED 3 German sh 1 A–8 A
+Date: 30 Oct 2026 (America/New_York)
+Backlog: B007
+Reel: T623-839 (IA 12thcensusofpopu839unit) local /tmp/t623-839.pdf + /tmp/b007-pass68/ed123/
+Image seen: name-column ntop + nbot (NAME + relation + sex + birth + age) for every sheet.
+Do not trust OCR. Uncertain letters marked [?].
+Prior slice: ED 3 sh 8 B–15 B already logged (L402 / S298 / b007-pass68-1900-ed3-german-p1076-1090-2026-10-30.txt).
+
+=== ED 1 Crooked Creek (Francis P. Myers) ===
+  p1005 = sh  1 A (stamped 176)  enum.  1 Jun
+  p1006 = sh  1 B
+  p1026 = sh 11 B                enum. 22 Jun  ← Sullivad/Sullivan J. L. last hh
+  p1027 = sh 12 A (stamped 187)  enum. 26 Jun  ← children continue
+  p1034 = sh 15 B                enum. 30 Jun  — ED 1 ENDS
+  ln 77 of sh 15 B: “Here Ends This Enumeration”; ln 78–100 blank.
+  p1035 = Fillmore ED 2 sh 1 A.
+
+NIL Conrad / Newman / Newnam / Letha Viola / Stone / Henry C. Stone on any ED 1 sheet.
+
+Sullivan-adjacent:
+  p1026 sh 11 B ln 99–100 + p1027 sh 12 A ln 1–4
+    Sullivad[?]/Sullivan, J. L.  Head  WM  Dec 1857  42  M 13  MO/KY/MO
+    Susan                         Wife  WF  Dec 1870  29  M 13  4/3  MO/Germany/MO
+    James                         [relation blank on this image]
+    Jimmie                        Son   WM  Sep 1888  11  S
+    John                          Son   WM  Dec 1890   9  S
+    Barney                        Son   WM  1897       3  S
+    NO daughter Letha. Head age 42 ≠ Jesse Conrad ~27 in 1900.
+
+Jesse rejects (none Conrad):
+  Henderson, Jesse   Head  July 1862  37  (p1007 sh 2 A)
+  Rhodes, Jessey     Son   Mar  1876  24  (p1011; father Jacob)
+  Willis, Jessey     Head  Aug  1862  37  (p1023)
+  Green Josey/Jessey Head ~33; Miller jessey 18 — given-name only.
+
+Dora / Litha rejects (none P001 / none Letha Viola ~2):
+  Killian Dora ~2; Roland Dora MIL 70; Stack Dora 4; Litha Starkey 5.
+
+=== ED 2 Fillmore (Anderson Mitchell) ===
+  p1035 = sh  1 A (stamped 191)  enum.  1 Jun
+  p1045 = sh  6 A (stamped 196)
+  p1047 = sh  7 A                ← Newell, John
+  p1049 = sh  8 A (stamped 198)
+  p1051 = sh  9 A (stamped 199)  enum. 15 Jun  ← Francis, William B
+  p1058 = sh 12 B                enum. 20 Jun
+  p1059 = sh 13 A (stamped 203)  enum. 26 Jun  — last occupied A-side
+  p1060 = sh 13 B UNUSED (header blank; no county / ED / names)
+  p1061 = German ED 3 sh 1 A.
+
+NIL Conrad / Newman / Newnam / Sullivan / Letha Viola on any ED 2 sheet.
+1910 Fillmore couple John H. Newnam + Dora is absent here as a Newnam household.
+
+Newell ≠ Newnam:
+  p1047 sh 7 A dw 124/124  Newell, John  Head  WM  May 1840  60  + Patty A + children.
+  Other Newell heads (Daniel / Samuel) on this ED — surname ends -ell.
+
+Francis reject (Lethy J 17 + Dora Ellen 2 ≠ Letha Viola / P001):
+  p1051 sh 9 A dw 164/159
+    Francis, William B  Head  WM  May 1853  47  M 32  MO/MO/MO
+    Martha J            Wife  WF  Jan 1853  46  M 32  10/8
+    Roy W               Son   WM  July 1877  22
+    Lethy J             Dau   WF  Aug  1882  17
+    Lottie A            Dau   WF  Dec  1885  14
+    Elmer F             Son   WM  Mar  1888  12
+    Nellie              Dau   WF  Nov  1890   9
+    Dora Ellen          Dau   WF  July 1897   2
+    Emlertzer[?], Thomas Boarder May 1877  23
+  Lethy J is 17, not ~2. Dora Ellen is 2 but father is William B Francis (MO), not Newnam/Stone.
+  P001 is 28 at Sturgeon KY the same night (C011).
+
+Other Dora daughters on ED 2 (Phillips, Moser, Sample, Cronister, James, Cooper, Rhodes) fail vs P001.
+Altha J dau 16 (sh 7 A ln 1, continuation) ≠ Letha. Viola Walker ~3 ≠ Letha Viola.
+
+=== ED 3 German sh 1 A–8 A (William P. Hanner early; William R. James by sh 8 A) ===
+  p1061 = sh  1 A (stamped 204)  enum.  1 Jun  Hanner
+  p1064 = sh  2 B                enum.  4 Jun  ← Stone, Joe
+  p1067 = sh  4 A
+  p1075 = sh  8 A (stamped 211)  enum. 14 Jun  James
+  p1076–1090 = sh 8 B–15 B already L402 / S298.
+  ED 3 ends p1090 sh 15 B ln 55; ln 56–100 blank.
+
+NIL Conrad / Sullivan / Newman / Newnam / Letha on sh 1 A–8 A.
+
+Stone FAN (not T.A. / not Henry C.):
+  p1064 sh 2 B dw 32/32
+    Stone, Joe    Head  WM  Mar 1857  42  M 15
+    Sarah E       Wife  WF  Sept 1863 36  M 15  6/6  KY/KY/KY
+    Hovy L        Son   WM  Feb  1885  15
+    Alena I       Dau   WF  Jan  1887  13
+    Enis P        Son   WM  Apr  1890  10
+    Elsie S       Dau   WF  June 1893   7
+    John V        Son   WM  Sept 1895   4
+    Henry B       Son   WM  Dec  1897   2
+  Wife living. Given name Joe, not Thomas/T.A./Henry C. Six children, none Dora.
+
+Jesse rejects on sh 1 A–8 A (none Conrad):
+  Pogue, Jesse T  Head  July 1862  37  M 16 + Nancy J  (p1063 sh 2 A)
+  James, Jesse    Head  female ~50  (later sheet; also James Jesse H 45 on sh 11 A = L402)
+  Biffle, Jesse   Head  ~35
+  Sitze cluster ≠ Stone.
+
+Viola Mayfield ~6 ≠ Letha Viola ~2.
+
+=== County residual ===
+Combined with Pass 62–67: 1900 Bollinger Jesse-as-head / Letha-as-named-child is closed for ED 1–5 and 7–10.
+ED 6 Lorance was read for Conrad heads (Jacob I, George E) but not every sheet line-by-line.
+B007 residual: ED 6 unread non-head lines; other-state 1900; IN C-rolls; 1910/1920 P001 holes.
+
+Working crops /tmp/b007-pass68/ NOT committed except the eight evidence JPEGs listed in S299–S301.

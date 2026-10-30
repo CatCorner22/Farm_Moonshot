@@ -713,5 +713,52 @@ Continuation on sh **7 B**: Columbus Dec **1894** **5**; Guy May **1896** **3**;
 
 → **C349**. Not Jesse. No Letha.
 
+## DOC038 — 1900 U.S. census, Crooked Creek ED 1 sh 11 B–12 A (Sullivan J. L.)
+- Image: `sources/census/1900-bollinger-crooked-creek-ed1-sh11b-sullivan-jl.jpg` SHA-256 `f2fd08577f9c78593c38b7138f978f81617910769354852a19b3cb4e080d268c`
+- Provenance: **Image seen** 30 Oct 2026 (pdftoppm extract of T623-839 pp **1026–1027**)
+
+### Diplomatic (dwelling 213/213 only)
+> Dw **213/213**. **Sullivad[?]/Sullivan, J. L.** — Head, W M, Dec **1857**, **42**, M, **13**, MO/KY/MO  
+> **Susan** — Wife, W F, Dec **1870**, **29**, M, **13**, **4/3**, MO/Germany/MO  
+> **James** — [relation blank on this image]  
+> **Jimmie** — Son, W M, Sep **1888**, **11**, S, MO/MO/MO  
+> **John** — Son, W M, Dec **1890**, **9**, S, MO/MO/MO  
+> **Barney** — Son, W M, **1897**, **3**, S, MO/MO/MO
+
+→ **C352**. Not Jesse. No Letha.
+
+## DOC039 — 1900 U.S. census, Fillmore ED 2 sh 9 A (Francis William B)
+- Image: `sources/census/1900-bollinger-fillmore-ed2-sh9a-francis-lethy.jpg` SHA-256 `83731ae44cd55d5b4719c351b612b08c5fb9e55035e9642a01229db4b5ce5997`
+- Provenance: **Image seen** 30 Oct 2026 (T623-839 p.**1051**)
+
+### Diplomatic (dwelling 164/159 only)
+> Dw **164/159**. **Francis, William B** — Head, W M, May **1853**, **47**, M, **32**, MO/MO/MO  
+> **Martha J** — Wife, W F, Jan **1853**, **46**, M, **32**, **10/8**, MO/MO/MO  
+> **Roy W** — Son, W M, July **1877**, **22**, S  
+> **Lethy J** — Daughter, W F, Aug **1882**, **17**, S  
+> **Lottie A** — Daughter, W F, Dec **1885**, **14**, S  
+> **Elmer F** — Son, W M, Mar **1888**, **12**, S  
+> **Nellie** — Daughter, W F, Nov **1890**, **9**, S  
+> **Dora Ellen** — Daughter, W F, July **1897**, **2**, S  
+> **Emlertzer[?], Thomas** — Boarder, W M, May **1877**, **23**, S
+
+→ **C354**. Lethy J is 17, not ~2. Dora Ellen is not P001.
+
+## DOC040 — 1900 U.S. census, German ED 3 sh 2 B (Stone Joe)
+- Image: `sources/census/1900-bollinger-german-ed3-sh2b-stone-joe.jpg` SHA-256 `6dd8f423becf2c7a87ca972f60cd091785ff2d98c9f5e82adf96f5c373798926`
+- Provenance: **Image seen** 30 Oct 2026 (T623-839 p.**1064**)
+
+### Diplomatic (dwelling 32/32 only)
+> Dw **32/32**. **Stone, Joe** — Head, W M, Mar **1857**, **42**, M, **15**  
+> **Sarah E** — Wife, W F, Sept **1863**, **36**, M, **15**, **6/6**, KY/KY/KY  
+> **Hovy L** — Son, W M, Feb **1885**, **15**, S  
+> **Alena I** — Daughter, W F, Jan **1887**, **13**, S  
+> **Enis P** — Son, W M, Apr **1890**, **10**, S  
+> **Elsie S** — Daughter, W F, June **1893**, **7**, S  
+> **John V** — Son, W M, Sept **1895**, **4**, S  
+> **Henry B** — Son, W M, Dec **1897**, **2**, S
+
+→ **C355**. Not T.A. Stone. Not Henry C. Stone.
+
 ## DOC009 — 1910 TN Soundex N-550 McCoy window (nil)
 Handwritten family/individual cards n2461–n2469. Sequence after Mary C (n2460): Mary D 49 Jefferson (son Layton 11); Mary M 70 Hamilton; Mek. G 50 Cheatham (Florence 19, John 17, General 16, Frances 13, William 10, Doria 6, Luther 1½); Melvin 3½ Giles (gs of Deacon George W); Melvin 54 Giles (SIL of same); Minerva 80 Robertson (gds Lona Neely, Nellie Erwin); Minnie 21 Roane (with Sam P. Sparks); Mitchell 27 Hardin (Ollie P 25, Gladys 4, Burl W 3, Royal E 1 9/12). **No McCoy.** SHA-256 n2463 `23610f8aa4c159b1b554ed1786d11f57d2f56f8a2e8994f7289ae7bd02dfca53`; n2469 `340489566090880388fa6b81ca5751c5944dcaf56a7b44f70fe560788f308586`.

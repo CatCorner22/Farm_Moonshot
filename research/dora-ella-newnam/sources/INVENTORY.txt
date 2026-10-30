@@ -342,3 +342,31 @@ research/dora-ella-newnam/sources/census/1900-bollinger-wayne-ed9-sh23b-hdr.jpg
   format: JPEG header crop, T623-840 p.137
 research/dora-ella-newnam/sources/census/b007-pass67-1900-ed9-wayne-2026-10-30.txt
   format: Pass 67 search log
+research/dora-ella-newnam/sources/census/1900-bollinger-crooked-creek-ed1-sh1a-hdr.jpg
+  sha256: 1b47d28b76b1d2db349df4e67ab47f8c2d93c6a8fcbc094b306c3e0f09e9df2e
+  format: JPEG header crop, T623-839 p.1005
+research/dora-ella-newnam/sources/census/1900-bollinger-crooked-creek-ed1-sh11b-sullivan-jl.jpg
+  sha256: f2fd08577f9c78593c38b7138f978f81617910769354852a19b3cb4e080d268c
+  format: JPEG household crop, T623-839 pp.1026–1027 dw 213/213
+research/dora-ella-newnam/sources/census/1900-bollinger-crooked-creek-ed1-sh15b-end.jpg
+  sha256: 573fb04dedd5e4875290805a2f83ea27ec1c91687b535c951601b5c08973ca0e
+  format: JPEG name-column crop, T623-839 p.1034 end-of-enumeration
+research/dora-ella-newnam/sources/census/1900-bollinger-fillmore-ed2-sh9a-francis-lethy.jpg
+  sha256: 83731ae44cd55d5b4719c351b612b08c5fb9e55035e9642a01229db4b5ce5997
+  format: JPEG household crop, T623-839 p.1051 dw 164/159
+research/dora-ella-newnam/sources/census/1900-bollinger-fillmore-ed2-sh13a-hdr.jpg
+  sha256: b80212e72a81d3ac9cc31458efca6f087043f98db6a106391414b3d67891c8f9
+  format: JPEG header crop, T623-839 p.1059
+research/dora-ella-newnam/sources/census/1900-bollinger-german-ed3-sh1a-hdr.jpg
+  sha256: 8d76a1bac1387252a239996edb384ae7a6711006e24816738d42c96d0f98907e
+  format: JPEG header crop, T623-839 p.1061
+research/dora-ella-newnam/sources/census/1900-bollinger-german-ed3-sh2b-stone-joe.jpg
+  sha256: 6dd8f423becf2c7a87ca972f60cd091785ff2d98c9f5e82adf96f5c373798926
+  format: JPEG household crop, T623-839 p.1064 dw 32/32
+research/dora-ella-newnam/sources/census/1900-bollinger-german-ed3-sh15b-end.jpg
+  sha256: 07f103153a37c1be53ec439488bc291672602e22843af49d60e0757eb22eaa3c
+  format: JPEG name-column crop, T623-839 p.1090 end-of-enumeration
+research/dora-ella-newnam/sources/census/b007-pass68-1900-ed3-german-p1076-1090-2026-10-30.txt
+  format: Pass 68 ED 3 tail search log
+research/dora-ella-newnam/sources/census/b007-pass68-1900-ed1-3-complete-2026-10-30.txt
+  format: Pass 68 ED 1–3 complete search log

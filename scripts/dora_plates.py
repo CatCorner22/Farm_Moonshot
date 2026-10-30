@@ -336,6 +336,48 @@ PLATES: list[dict] = [
         caption="Last Wayne sheet. Supervisor 12, sheet 23 B, enumerated 27 June 1900 by William Craff. The ED digit on this verso is written loosely (can be read as 7); township, enumerator, and sheet 23 match the 23 A header (ED 9).",
         source="S297 · C350",
     ),
+    dict(
+        n=91, date="1 Jun 1900", year=1900, role="context",
+        path="census/1900-bollinger-crooked-creek-ed1-sh1a-hdr.jpg",
+        title="Crooked Creek Township ED 1 sheet 1 A header",
+        caption="Bollinger County ED 1 begins at T623-839 PDF page 1005, stamped 176. Enumerator Francis P. Myers, 1 June 1900. Name-column sweep of every sheet 1 A–15 B is now complete (C351).",
+        source="S299 · C351",
+    ),
+    dict(
+        n=92, date="Jun 1900", year=1900, role="rejected",
+        path="census/1900-bollinger-crooked-creek-ed1-sh11b-sullivan-jl.jpg",
+        title="Sullivan J. L. household — Crooked Creek ED 1 sheets 11 B–12 A",
+        caption="Dwelling 213/213. Sullivad/Sullivan, J. L., December 1857, age 42, married 13 years; wife Susan, December 1870, age 29, 4/3; sons Jimmie 11, John 9, Barney 3. Local FAN — not Jesse (age 42 vs ~27; three sons, no Letha).",
+        source="S299 · C352",
+    ),
+    dict(
+        n=93, date="30 Jun 1900", year=1900, role="negative",
+        path="census/1900-bollinger-crooked-creek-ed1-sh15b-end.jpg",
+        title="End of Crooked Creek ED 1 — Myers’s last sheet",
+        caption="Sheet 15 B line 77: Myers wrote “Here Ends This Enumeration.” Lines 78–100 blank. Combined with sheets 1 A–15 A, Crooked Creek is complete — no Conrad, no Newman, no Letha Viola.",
+        source="S299 · C351",
+    ),
+    dict(
+        n=94, date="15 Jun 1900", year=1900, role="rejected",
+        path="census/1900-bollinger-fillmore-ed2-sh9a-francis-lethy.jpg",
+        title="Francis household — Fillmore ED 2 sheet 9 A",
+        caption="Dwelling 164/159. Francis, William B, May 1853, age 47, married 32 years; wife Martha J; daughter Lethy J, August 1882, age 17; daughter Dora Ellen, July 1897, age 2. Lethy is 17, not ~2. Dora Ellen’s father is William B Francis, Missouri-born — not P001 (age 28, Kentucky, at Sturgeon the same night).",
+        source="S300 · C354",
+    ),
+    dict(
+        n=95, date="4 Jun 1900", year=1900, role="rejected",
+        path="census/1900-bollinger-german-ed3-sh2b-stone-joe.jpg",
+        title="Joe Stone household — German ED 3 sheet 2 B",
+        caption="Dwelling 32/32. Stone, Joe, March 1857, age 42, married 15 years; wife Sarah E, September 1863, age 36, 6/6, Kentucky-born; six children Hovy L through Henry B. Local FAN — not T. A. Stone (widower, older) and not Henry C. Stone. No child Dora.",
+        source="S301 · C355",
+    ),
+    dict(
+        n=96, date="24 Jun 1900", year=1900, role="negative",
+        path="census/1900-bollinger-german-ed3-sh15b-end.jpg",
+        title="End of German ED 3 — James’s last occupied lines",
+        caption="Sheet 15 B, last household Seabaugh, Jesse L, April 1860, age 40, plus Ida M, Ella, and James R. Lines 56–100 blank. Combined with sheets 1 A–15 A, German Township is complete — no Conrad, no Sullivan, no Newman, no Letha.",
+        source="S298 · S301 · C356",
+    ),
     # --- 1910 Soundex / Miracode ---
     dict(
         n=17, date="Apr 1910", year=1910, role="negative",

@@ -64,6 +64,12 @@ Diplomatic transcriptions: [`08-transcriptions.md`](08-transcriptions.md). Citat
 | 88 | Jun 1900 | Rejected same-name | [George A Conrad household — Wayne ED 9 sheet 6 B](sources/census/1900-bollinger-wayne-ed9-sh6b-george-a-conrad.jpg) |
 | 89 | 27 Jun 1900 | Negative search | [End of Wayne ED 9 — Craff’s last occupied lines](sources/census/1900-bollinger-wayne-ed9-sh23b-end.jpg) |
 | 90 | 27 Jun 1900 | Context | [Wayne Township ED 9 sheet 23 B header](sources/census/1900-bollinger-wayne-ed9-sh23b-hdr.jpg) |
+| 91 | 1 Jun 1900 | Context | [Crooked Creek Township ED 1 sheet 1 A header](sources/census/1900-bollinger-crooked-creek-ed1-sh1a-hdr.jpg) |
+| 92 | Jun 1900 | Rejected same-name | [Sullivan J. L. household — Crooked Creek ED 1 sheets 11 B–12 A](sources/census/1900-bollinger-crooked-creek-ed1-sh11b-sullivan-jl.jpg) |
+| 93 | 30 Jun 1900 | Negative search | [End of Crooked Creek ED 1 — Myers’s last sheet](sources/census/1900-bollinger-crooked-creek-ed1-sh15b-end.jpg) |
+| 94 | 15 Jun 1900 | Rejected same-name | [Francis household — Fillmore ED 2 sheet 9 A](sources/census/1900-bollinger-fillmore-ed2-sh9a-francis-lethy.jpg) |
+| 95 | 4 Jun 1900 | Rejected same-name | [Joe Stone household — German ED 3 sheet 2 B](sources/census/1900-bollinger-german-ed3-sh2b-stone-joe.jpg) |
+| 96 | 24 Jun 1900 | Negative search | [End of German ED 3 — James’s last occupied lines](sources/census/1900-bollinger-german-ed3-sh15b-end.jpg) |
 | 17 | Apr 1910 | Negative search | [Kentucky N-550 — Millie / Missouri; no McCoy](sources/soundex/ky1910-n550-p329-millie-missouri.jpg) |
 | 18 | Apr 1910 | Negative search | [Kentucky N-550 — Monroe; still no McCoy](sources/soundex/ky1910-n550-p330-monroe-no-mccoy.jpg) |
 | 19 | Apr 1910 | Rejected same-name | [Kentucky N-550 — Sam / Samuel, none is the husband](sources/soundex/ky1910-n550-p342-sam-samuel-not-p002.jpg) |
@@ -571,6 +577,66 @@ Sheet 23 B, lines 72–73: Cummins/Cunnins, Richard, June 1874, age 26, and wife
 Last Wayne sheet. Supervisor 12, sheet 23 B, enumerated 27 June 1900 by William Craff. The ED digit on this verso is written loosely (can be read as 7); township, enumerator, and sheet 23 match the 23 A header (ED 9).
 
 ![Wayne Township ED 9 sheet 23 B header](sources/census/1900-bollinger-wayne-ed9-sh23b-hdr.jpg)
+
+### 91 · 1 Jun 1900 · Crooked Creek Township ED 1 sheet 1 A header
+
+**Role:** Context  
+**File:** [`sources/census/1900-bollinger-crooked-creek-ed1-sh1a-hdr.jpg`](sources/census/1900-bollinger-crooked-creek-ed1-sh1a-hdr.jpg)  
+**Source:** S299 · C351
+
+Bollinger County ED 1 begins at T623-839 PDF page 1005, stamped 176. Enumerator Francis P. Myers, 1 June 1900. Name-column sweep of every sheet 1 A–15 B is now complete (C351).
+
+![Crooked Creek Township ED 1 sheet 1 A header](sources/census/1900-bollinger-crooked-creek-ed1-sh1a-hdr.jpg)
+
+### 92 · Jun 1900 · Sullivan J. L. household — Crooked Creek ED 1 sheets 11 B–12 A
+
+**Role:** Rejected same-name  
+**File:** [`sources/census/1900-bollinger-crooked-creek-ed1-sh11b-sullivan-jl.jpg`](sources/census/1900-bollinger-crooked-creek-ed1-sh11b-sullivan-jl.jpg)  
+**Source:** S299 · C352
+
+Dwelling 213/213. Sullivad/Sullivan, J. L., December 1857, age 42, married 13 years; wife Susan, December 1870, age 29, 4/3; sons Jimmie 11, John 9, Barney 3. Local FAN — not Jesse (age 42 vs ~27; three sons, no Letha).
+
+![Sullivan J. L. household — Crooked Creek ED 1 sheets 11 B–12 A](sources/census/1900-bollinger-crooked-creek-ed1-sh11b-sullivan-jl.jpg)
+
+### 93 · 30 Jun 1900 · End of Crooked Creek ED 1 — Myers’s last sheet
+
+**Role:** Negative search  
+**File:** [`sources/census/1900-bollinger-crooked-creek-ed1-sh15b-end.jpg`](sources/census/1900-bollinger-crooked-creek-ed1-sh15b-end.jpg)  
+**Source:** S299 · C351
+
+Sheet 15 B line 77: Myers wrote “Here Ends This Enumeration.” Lines 78–100 blank. Combined with sheets 1 A–15 A, Crooked Creek is complete — no Conrad, no Newman, no Letha Viola.
+
+![End of Crooked Creek ED 1 — Myers’s last sheet](sources/census/1900-bollinger-crooked-creek-ed1-sh15b-end.jpg)
+
+### 94 · 15 Jun 1900 · Francis household — Fillmore ED 2 sheet 9 A
+
+**Role:** Rejected same-name  
+**File:** [`sources/census/1900-bollinger-fillmore-ed2-sh9a-francis-lethy.jpg`](sources/census/1900-bollinger-fillmore-ed2-sh9a-francis-lethy.jpg)  
+**Source:** S300 · C354
+
+Dwelling 164/159. Francis, William B, May 1853, age 47, married 32 years; wife Martha J; daughter Lethy J, August 1882, age 17; daughter Dora Ellen, July 1897, age 2. Lethy is 17, not ~2. Dora Ellen’s father is William B Francis, Missouri-born — not P001 (age 28, Kentucky, at Sturgeon the same night).
+
+![Francis household — Fillmore ED 2 sheet 9 A](sources/census/1900-bollinger-fillmore-ed2-sh9a-francis-lethy.jpg)
+
+### 95 · 4 Jun 1900 · Joe Stone household — German ED 3 sheet 2 B
+
+**Role:** Rejected same-name  
+**File:** [`sources/census/1900-bollinger-german-ed3-sh2b-stone-joe.jpg`](sources/census/1900-bollinger-german-ed3-sh2b-stone-joe.jpg)  
+**Source:** S301 · C355
+
+Dwelling 32/32. Stone, Joe, March 1857, age 42, married 15 years; wife Sarah E, September 1863, age 36, 6/6, Kentucky-born; six children Hovy L through Henry B. Local FAN — not T. A. Stone (widower, older) and not Henry C. Stone. No child Dora.
+
+![Joe Stone household — German ED 3 sheet 2 B](sources/census/1900-bollinger-german-ed3-sh2b-stone-joe.jpg)
+
+### 96 · 24 Jun 1900 · End of German ED 3 — James’s last occupied lines
+
+**Role:** Negative search  
+**File:** [`sources/census/1900-bollinger-german-ed3-sh15b-end.jpg`](sources/census/1900-bollinger-german-ed3-sh15b-end.jpg)  
+**Source:** S298 · S301 · C356
+
+Sheet 15 B, last household Seabaugh, Jesse L, April 1860, age 40, plus Ida M, Ella, and James R. Lines 56–100 blank. Combined with sheets 1 A–15 A, German Township is complete — no Conrad, no Sullivan, no Newman, no Letha.
+
+![End of German ED 3 — James’s last occupied lines](sources/census/1900-bollinger-german-ed3-sh15b-end.jpg)
 
 ## 1910 — Soundex, Peebles test, and Sturgeon ED 99
 
