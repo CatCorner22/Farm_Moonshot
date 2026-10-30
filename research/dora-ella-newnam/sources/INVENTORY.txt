@@ -218,3 +218,24 @@ research/dora-ella-newnam/sources/census/1900-douglas-mo-ed159-stone-hh-crop.jpg
   sha256: 79fffff5b3df2d9332df7b5e082f656acc3bb77d6aec3f53d198bfe4add7d2d8
   format: JPEG photo, 2860x527px
   check: full page + margins + verso? straight-on, no glare/flash, strokes several px tall? (paleography.md intake)
+research/dora-ella-newnam/sources/census/1900-greene-ed42-sh1b-header.jpg
+  sha256: 875446badf8ecd9d0967fdb428f9bc398f9632b14e9ff57dfc7d55f4a3fb6125
+  format: JPEG header crop, T623-856 p.181
+research/dora-ella-newnam/sources/census/1900-greene-ed42-sh37b-header.jpg
+  sha256: 8a726155e29ecf7e237de108a87c017b4ca8cd17dccbeef0486faaa3240fc0ce
+  format: JPEG header crop, T623-856 p.253
+research/dora-ella-newnam/sources/census/1900-greene-ed43-sh1a-header.jpg
+  sha256: b28ed84b01531dcc288604affc7f8df4d6bbd5591cbde6c237abb7ae2e894b8c
+  format: JPEG header crop, T623-856 p.256
+research/dora-ella-newnam/sources/census/1900-greene-ed43-sh29b-header.jpg
+  sha256: 295ed2c7d6a7ff72d5beac5195649940b0991c19679ecd6b74256faa741d9146
+  format: JPEG header crop, T623-856 p.313
+research/dora-ella-newnam/sources/census/1900-greene-ed42-sh21a-names.jpg
+  sha256: 2ccfe8627d77d1f2970c4617415ad158fe65f4559d66725e5fb09e0d4ab86d69
+  format: JPEG name-column crop
+research/dora-ella-newnam/sources/census/1900-greene-ed43-sh1a-names.jpg
+  sha256: 0b34d0ad99c5cb7193cc2a0a816d71d770ca8eeb36a0a47ca89717b3d60a0056
+  format: JPEG name-column crop
+research/dora-ella-newnam/sources/census/1900-greene-ed43-sh16a-names.jpg
+  sha256: 234238983c7b957f443315b6e8cdbcc6387696fe55f3517c790882ccc85e4d34
+  format: JPEG name-column crop

@@ -406,5 +406,18 @@ Pass 2: Surname **Gray** (not Grey). Given name **Hardin** clear. Wife **Vestie*
 ### Normalised reading
 Hardin Gray, 24, farmer, and wife Vestie, 18, married three years, with infant son Rosco, lived next to William and Mary J. Gray (Vestie’s in-laws) in Sturgeon precinct on 11 June 1900. Vestie reported her father born in Virginia. Louisa Pendergrass Mays Brandenburg was not in this house.
 
+## DOC021 — 1900 Greene Co. MO ED 42–43 headers (T623-856)
+- Image file(s) + SHA-256: `sources/census/1900-greene-ed42-sh1b-header.jpg` · `875446badf8ecd9d0967fdb428f9bc398f9632b14e9ff57dfc7d55f4a3fb6125`; `…-sh37b-header.jpg` · `8a726155e29ecf7e237de108a87c017b4ca8cd17dccbeef0486faaa3240fc0ce`; `1900-greene-ed43-sh1a-header.jpg` · `b28ed84b01531dcc288604affc7f8df4d6bbd5591cbde6c237abb7ae2e894b8c`; `…-sh29b-header.jpg` · `295ed2c7d6a7ff72d5beac5195649940b0991c19679ecd6b74256faa741d9146`
+- Page: IA `12thcensusofpopu856unit` PDF pp. **181, 253, 256, 313**
+- Provenance: NARA T623 reel 856 via Internet Archive, accessed 30 Oct 2026. **Original headers seen.**
+
+Header readings (diplomatic):
+> p.181 · State Missouri · County Greene · Campbell Twp / North Campbell · Springfield · Ward 6 · ED **42** · Sheet **1 B** · enum. 23 June 1900 · Rollt F. Renshaw
+> p.253 · same township/city · Ward 6 · ED **42** · Sheet **37 B** · enum. 28 June 1900 · Renshaw
+> p.256 · North Campbell Township · Springfield · Ward 7 · ED **43** · Sheet **1 A** · Robert A. Witten
+> p.313 · same · Ward 7 · ED **43** · Sheet **29 B** · Witten
+
+Pass 2: ED **43** starts at p.**256**, not p.254 (p.254 is Loretto Academy boarders, ED 42 tail). Name-column samples listed in **S235** have **no Stone**. → C229 C230.
+
 ## DOC009 — 1910 TN Soundex N-550 McCoy window (nil)
 Handwritten family/individual cards n2461–n2469. Sequence after Mary C (n2460): Mary D 49 Jefferson (son Layton 11); Mary M 70 Hamilton; Mek. G 50 Cheatham (Florence 19, John 17, General 16, Frances 13, William 10, Doria 6, Luther 1½); Melvin 3½ Giles (gs of Deacon George W); Melvin 54 Giles (SIL of same); Minerva 80 Robertson (gds Lona Neely, Nellie Erwin); Minnie 21 Roane (with Sam P. Sparks); Mitchell 27 Hardin (Ollie P 25, Gladys 4, Burl W 3, Royal E 1 9/12). **No McCoy.** SHA-256 n2463 `23610f8aa4c159b1b554ed1786d11f57d2f56f8a2e8994f7289ae7bd02dfca53`; n2469 `340489566090880388fa6b81ca5751c5944dcaf56a7b44f70fe560788f308586`.

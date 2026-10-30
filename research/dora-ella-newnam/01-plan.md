@@ -61,7 +61,7 @@ Wildcard strings to use: `New*m`, `Dor* New*`, `"Doll Newnam"`, `McCoy OR Coy Ne
 | 10 | 1910 KY S-350 Dora Stone | IA `soundex1910ky154` | Unlikely (Stone still widower 1920) | **two Dora Stones found, both rejected** |
 | 11 | 1910 KY N-550 Samuel given-names | IA `soundex1910ky124` printed pp. 342–343 | Was Samuel still a KY head? | **nil for P002** (wrong Samuels listed S027) |
 | 12 | 1880 Lee ED 59 sheet 1 | IA `10thcensus0427unit` n725 | Samuel ~11 | **found — John 69 / Mary 57 / Samuel 11** |
-| 13 | Tom A. Stone 1925 AR DC | Ancestry AR deaths (paywall) / AR Dept of Health | Birth year 1845 vs ~1858 | **user retrieval** |
+| 13 | Tom A. Stone 1925 AR DC | Ancestry AR deaths (paywall) / AR Dept of Health | Birth year 1845 vs ~1858 | **user retrieval** — ADH SOAP is modern-era only (**C227**) |
 | 14 | Stone × Newnam marriage 1920–25 | Yell / Perry / Logan Co. licenses (on-site or FS) | m2 date/place | **user retrieval** |
 | 15 | Samuel death 1900–1911 | Lee Co. (pre-1911, likely none statewide); cemetery; newspapers | Close widowhood | Open; not a 1910 KY N-550 head |
 | 16 | John H.; Mary Bunch; Rissie TN DC | KY/TN vitals, NUMIDENT, licenses | Children after 1900 | Partial (Pearl/Mary NUMIDENT prior); John H. VA namesake rejected |

@@ -197,7 +197,8 @@ Charts of pedigree, descendants, and lifespan follow the plates. Dashed lines me
 - Where Dora was in April 1910 and January 1920. Newman in Kentucky, Arkansas and Missouri is closed. Sturgeon ED 99 as Newnam is closed. Stone in Kentucky is closed. Peebles in Kentucky 1910 is closed. Other surnames, and a wife listed only on a husband’s card, remain.
 - The original 1885 marriage image; Samuel’s death; the 1925 Arkansas death certificate of T. A. Stone; the Stone × Newnam license; Carter Cove photographs; the *Yell County Journal*.
 - Conflict #9: which 1870–1880 household is Samuel’s.
-- Conflict #4 and #11: which Missouri Thomas Stone, if any, is the 1920 Perry County widower. Greene Campbell ED **37** sheet **18 A** is Thomas A., 32, with Matilda — not merged. Springfield ED **39** sheets **6 through 31 B**, read on the original 856 reel, have no second Stone household. [C117] [C153]
+- Conflict #4 and #11: which Missouri Thomas Stone, if any, is the 1920 Perry County widower. Greene Campbell ED **37** sheet **18 A** is Thomas A., 32, with Matilda — not merged. Springfield ED **39** through sampled ED **42** interiors and ED **43** start have no second Thomas A. head on the pages read. The earlier “James M. Stone / sheet 86 A” page-cite is withdrawn. [C117] [C153] [C229] [C230]
+- Arkansas Department of Health’s public CertificateSearch service is live but indexes **modern** deaths and marriages only. It does not replace the 1914–1950 death index still unread on FamilySearch **1940760** / Ancestry **8771**. [C227]
 - Louisa P. Mays Brandenburg: not in 1910 Proctor; no 1951 Lee/Owsley death on SortedByName; Lee 1911–1929 B-index has no Louisa. [C154] [C157] [C159]
 - Conflict #13: the 1910 Sturgeon enumerator’s given name (surname **Treadway** on the JPEG).
 - Conflict #14: Larkin Mays, 8 June 1895 (court) versus 8 July 1895 (stone).
