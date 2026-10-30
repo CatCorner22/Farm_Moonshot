@@ -635,3 +635,51 @@ research/dora-ella-newnam/sources/census/1880-lee-ky-ed59-sheet43-p768-caroline-
   sha256: 3723dfc25ec963965c43616ff567e9bc13e5e33763a06961880369ea66ce9f63
   format: JPEG photo, 2967x550px
   check: Harrison Newman 15 — not Harrison 33 / H.H. 44
+/workspace/research/dora-ella-newnam/sources/indexes/lee-deaths-1932.html
+  sha256: aee34fa0c556d5fe403511255554d4de9cccbcb3bf476acd9ea142637a965628
+  format: HTML, 39,011 bytes
+  check: Kendrick 1932 DC extracts — Elias T. Newnam row
+/workspace/research/dora-ella-newnam/sources/indexes/lee-deaths-1918.html
+  sha256: 6aa518ef6c561c25b6394ee5f5aeb2100dcdc28c4a18fa9673bfa9c3cf424ddd
+  format: HTML, 67,018 bytes
+  check: Kendrick 1918 DC extracts — nil Newnam/Newman/Smallwood decedent
+/workspace/research/dora-ella-newnam/sources/indexes/kydi-1932-newman-elias-t-extract.txt
+  sha256: 0a62512a4e93827a71bbdb54a97caee8e7804bdb5b7d4ef96d5288a0e44bb725
+  format: text extract, 291 bytes
+  check: NEWMAN ELIAS T 90 LEE 04/18/1932 vol 020 #09525
+/workspace/research/dora-ella-newnam/sources/indexes/kydi-1918-newman-smallwood-lee-nil.txt
+  sha256: cf550e3c501f1451a29592b03149ce1de0075db3688005d0041fba9b94b9a19d
+  format: text extract, 3,335 bytes
+  check: 1918 KYDI nil Mary Newnam/Newman/Smallwood in LEE; no LEE 07/11/1918
+/workspace/research/dora-ella-newnam/sources/indexes/kydi-1917-1919-mary-newman-extract.txt
+  sha256: 1afd5a9eccea3c14b5bec9a0485bc2e20c1adf3cc306ad9e037296a4131aa7c3
+  format: text extract, 1,165 bytes
+  check: 1917/1919 KYDI Mary Newman not Lee ~76
+/workspace/research/dora-ella-newnam/sources/indexes/estill-marriages-to-1850-marry03-wayback.htm
+  sha256: 12e41a26a6ab11215fb6b4a1009df6fd9ceadd8fdd9f96293da938f404a1e912
+  format: HTML, 96,083 bytes
+  check: Estill marry03 A–E brides; Ashcraft×Tincher 1818; nil 1840
+/workspace/research/dora-ella-newnam/sources/indexes/estill-marriages-to-1850-marry04-extract.txt
+  sha256: 4f89deaea4cc54effb5e378f92905518a73056faeb3ae4bb8fd0e136693cbde8
+  format: text extract, 18,674 bytes
+  check: Estill marry04 F–W; years 1809–1825 only; Nancy Newman 1825; Patsy Tincher 1821
+/workspace/research/dora-ella-newnam/sources/indexes/estill-marry-index-2005-wayback.htm
+  sha256: 39c78a8facd326f2b00d20d97e1c87584bba4d188ea134096e38b26f2993538e
+  format: HTML, 24,578 bytes
+  check: 2005 KyGenWeb Estill marry index — marry03 A–E, marry04 F–W
+/workspace/research/dora-ella-newnam/sources/indexes/estill-marrycert-t-wayback.htm
+  sha256: 89e0e803337a81b947580b9ab5a52b095655c8774a0f831bfa24258bb445c646
+  format: HTML, 3,966 bytes
+  check: volunteer T-groom certificates are Tipton, not Tincher 1840
+/workspace/research/dora-ella-newnam/sources/indexes/brandenburg-quillen-cemetery-b-q.html
+  sha256: f47a8a21061e791aa5d576f2aacf4dc6dfce0f079ef92261838e8467dc0db23e
+  format: HTML, 52,559 bytes
+  check: annotated Kendrick transcript — Mary A. + Elias T. with parent notes
+/workspace/research/dora-ella-newnam/sources/indexes/brandenburg-quillen-cemetery-leecocem.html
+  sha256: 9cd39605894201effb2d88c913f6d237273f7173a573edf6b233de9081e81806
+  format: HTML, 22,688 bytes
+  check: shorter transcript — dates/military, no parent notes
+/workspace/research/dora-ella-newnam/sources/cemetery/brandenburg-quillen-bq2.jpg
+  sha256: c637068265f8f5b44105f5e1566796cea49c47e451421c0e15a982f9506b8b3f
+  format: JPEG photo, 344x208px
+  check: cemetery overview; individual names not readable

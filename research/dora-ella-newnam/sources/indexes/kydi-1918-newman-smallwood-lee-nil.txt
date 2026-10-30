@@ -1,0 +1,40 @@
+# KYDI 1918 (Reclaim the Records year file …_01918.TXT).
+# Full year file SHA-256 f6f35d1cb0a36b96caacdd16d4fcb62041cd41cc428024b77c4b3c70e20bfcd6 — not committed.
+# Strings: NEWMAN/NEWNAM/NEUMAN/SMALLWOOD statewide; LEE county; MARY in LEE; date 07/11/1918.
+#
+# NEWMAN/NEWNAM/NEUMAN/SMALLWOOD decedents in LEE: none.
+# Statewide those surnames in 1918 (none is Mary in Lee):
+NEWMAN          ALLICE     L        39       WDFRD     WOODFORD      11/27/1918 075  37330 /1918
+NEWMAN          CECIL              U/1       BOYD                    09/10/1918 044  21922 /1918
+NEWMAN          CLARENCE   R       U/1       HNDSN                   11/25/1918 068  33853 /1918
+NEWMAN          ELLA       S        53       HANCK                   09/23/1918 079  39141 /1918
+NEWMAN          GLADIES    O         1       MLNBG                   09/12/1918 048  23896 /1918
+NEWMAN          JAMES      X        51       HARLN                   10/25/1918 054  26564 /1918
+NEWMAN          JAMES               36       UNION                   10/27/1918 063  31128 /1918
+NEWMAN          JOHN       R        19       JEFFN                   10/22/1918 058  28818 /1918
+NEWMAN          JOSEPH              53       JEFFN                   04/12/1918 022  10726 /1918
+NEWMAN          JOSIE      H        63       JEFFN                   12/08/1918 080  39535 /1918
+NEWMAN          MOLLIE     E        60       MASON                   07/05/1918 038  18751 /1918
+NEWMAN          MORTON             U/1       CARTR                   08/11/1918 045  22114 /1918
+NEWMAN          THEODORE   H       U/1       JEFFN                   02/17/1918 009  04499 /1918
+NEWMAN          WILLIAM    O        50       CMPBL                   08/15/1918 040  19583 /1918
+NEUMAN          JOHN                50       KNOX                    11/07/1918 070  34993 /1918
+SMALLWOOD       ANNA       M       U/1       HARDN                   12/24/1918 079  39187 /1918
+SMALLWOOD       E          2       U/1       JEFFN                   08/22/1918 042  20574 /1918
+SMALLWOOD       EARNEST              1       LAURL                   09/18/1918 047  23393 /1918
+# NEWNAM: zero rows in 1918 year file.
+#
+# LEE + MARY (other surnames — not Newnam/Smallwood):
+HIERONYMUS      MARY       C        87       LEE                     03/27/1918 023  11216 /1918
+NEWTON          MARY       J        33       LEE                     01/17/1918 005  02050 /1918
+STAMPER         MARY                58       LEE                     11/27/1918 071  35239 /1918
+TREADWAY        MARY       E        61       LEE                     08/16/1918 082  40650 /1918
+TREADWAY        MARY                59       LEE                     08/16/1918 042  20926 /1918
+#
+# LEE deaths in July 1918 (no 07/11/1918):
+CLAY            CEILA               65       LEE                     07/05/1918 071  35220 /1918
+MCINTOSH        WALTER     2       U/1       LEE                     07/04/1918 042  20923 /1918
+HORN            GERTRUDE             1       LEE                     07/12/1918 037  18496 /1918
+TUTT            MAY                U/1       LEE                     07/23/1918 037  18499 /1918
+FOX             BERRY                9       LEE                     07/27/1918 042  20922 /1918
+ESTES           ARBERRY             78       LEE                     07/23/1918 004  01731 /1920

@@ -1,0 +1,257 @@
+# Estill County Marriages to 1850 (F–W) — compact extract
+# Wayback 20050120005743id_ http://www.rootsweb.com/~kyestill/marry/marry04.htm
+# Title claims “to 1850”; parsed years in this file are 1809–1825 only.
+# Columns: party1_surname | party1_given | mi | “married” | party2_surname | party2_given | | on | day | mon | year
+# SHA-256 of downloaded HTML (916580 bytes, FrontPage inline styles):
+# f3aeae182ec9e2367d419feb9592d8edcbe6fa3115d541fb1c5ed433268a6b77
+
+Estill County Marriages to 1850 Marriages Home Fabush | Benjamin |  | married | Melone | Sarah |  | on | 30 | Aug | 1812
+Farmer | Eva |  | married | Mcfarland | Robert |  | on | 17 | Jan | 1809
+Fass | Susannah |  | married | Reed | Robert |  | on | 29 | Feb | 1816
+Ferrill | Polly |  | married | Frame | John |  | on | 19 | Sep | 1818
+Ferrill | William |  | married | Hays | Mariah |  | on | 10 | Sep | 1824
+Filey | James |  | married | Mckinney | Lucy |  | on | 3 | Jun | 1824
+Fisher | William |  | married | Oldham | Elizabeth |  | on | 25 | Apr | 1815
+Fisher | Henry |  | married | Newton | Agnes |  | on | 30 | Jun | 1816
+Fisher | Lydia |  | married | Hawke | William |  | on | 7 | Sep | 1816
+Fisher | James |  | married | Jones | Penelope |  | on | 4 | Aug | 1824
+Flynn | Andrew |  | married | Flynn | Susannah |  | on | 10 | Sep | 1820
+Foot | Nelly |  | married | Trusty | Ezekiel |  | on | 12 | Dec | 1816
+Foreman | John |  | married | Stillwill | Susanna |  | on | 13 | Feb | 1811
+Forkner | Nancy |  | married | King | Jeremiah | Jr. | on | 30 | May | 1815
+Forkner | James |  | married | King | Susannah |  | on | 8 | Jan | 1819
+Fowler | Jeremiah |  | married | Sparks | Polly |  | on | 14 | Apr | 1825
+Fraley | Benjamin |  | married | Molonee | Sarah |  | on | 23 | Aug | 1812
+Freeman | John |  | married | Stellart | Susanna |  | on | 15 | Feb | 1812
+Friend | Abraham |  | married | --- | Catherine |  | on | 18 | Feb | 1822
+Fritts | Cathrine |  | married | Parnell | William |  | on | 1 | Oct | 1818
+Fritz | Caty |  | married | Parmee | William |  | on | 29 | Oct | 1818
+Gaddy | Thomas |  | married | Walker | Betsy |  | on | 6 | Jan | 1815
+Garrison | Elizabeth |  | married | Suthard | Micejah |  | on | 8 | Feb | 1825
+George | Green |  | married | Pigg | Sally |  | on | 12 | Jul | 1825
+Gist | William |  | married | Hulen | Sally |  | on | 10 | Jan | 1818
+Glascock | Eli |  | married | Pitcher | Henrietta |  | on | 15 | Jun | 1824
+Gordon | Howard |  | married | Woodward | Polly |  | on | 26 | Sep | 1813
+Gragg | Jesse |  | married | Riley | Deborah |  | on | 16 | Mar | 1817
+Grayham | James |  | married | King | Sally |  | on | 19 | Aug | 1821
+Green | George |  | married | Pigg | Sally |  | on | 12 | Jul | 1825
+Gregg | Jesse |  | married | Riley | Debora |  | on | 16 | Mar | 1817
+Greyham | James |  | married | King | Sally |  | on | 19 | Aug | 1821
+Griece | James |  | married | Rainy | Lessia |  | on | 23 | Mar | 1816
+Griffith | Benjamin |  | married | Peak | Elizabeth |  | on | 20 | May | 1812
+Grimes | Mary |  | married | Lucas | Solomon |  | on | 23 | Jul | 1812
+Grisham | Nancy |  | married | Robertson | Alexander |  | on | 14 | Aug | 1817
+Grisham | James |  | married | Hockensmith | Fanny |  | on | 2 | Aug | 1821
+Grisham | John | P. | married | Hockensmith | Polly |  | on | 20 | Jan | 1825
+Grubbs | Jesse |  | married | Oldham | Nancy |  | on | 24 | Dec | 1818
+Gudgin | Allen |  | married | Reed | Beckey |  | on | 9 | Feb | 1813
+Hadden | Nicholas |  | married | Noland | Nancy |  | on | 16 | Jan | 1822
+Hadden | Nicholas |  | married | Noland | Nancy |  | on | 16 | Jan | 1822
+Hall | William |  | married | Johnson | Arta |  | on | 2 | Feb | 1817
+Hall | Garrett |  | married | Newkirk | Mary |  | on | 15 | Apr | 1819
+Hall | Polly |  | married | Harris | Randolph |  | on | 22 | May | 1825
+Hamilton | Joseph |  | married | Puckett | Sally |  | on | 22 | Jul | 1823
+Han | John |  | married | Hanks | Castira |  | on | 23 | Feb | 1824
+Hanks | Castrina |  | married | Hon | John |  | on | 23 | Feb | 1824
+Hanson | Sally |  | married | Meadows | William |  | on | 24 | Oct | 1813
+Harns | Carrington |  | married | Walters | Barbary |  | on | 6 | Oct | 1818
+Harris | Jane |  | married | Ship | Lewis |  | on | 20 | Sep | 1825
+Hatton | Sally |  | married | Hawkins | John |  | on | 1 | Apr | 1809
+Hatton | Adam |  | married | Melone | Nancy |  | on | 20 | Jul | 1814
+Hawks | Minerva |  | married | Noland | James |  | on | 1 | Mar | 1825
+Hendricks | Mary |  | married | Richardson | John |  | on | 9 | Oct | 1818
+Hendricks | William |  | married | Richardson | Fanny |  | on | 25 | Apr | 1823
+Henry | Isaac |  | married | Sparks | Catherine |  | on | 25 | Jul | 1819
+Henry | Betsy |  | married | Noland | Jushua |  | on | 21 | Sep | 1820
+Henry | Absolom |  | married | King | Margaret |  | on | 13 | Feb | 1823
+Hensly | Garrett | M. | married | Pitcher | Susan |  | on | 25 | Jul | 1819
+Henson | Rebeckah |  | married | Shieffield | James |  | on | 4 | Jan | 1817
+Hickes | Patsy |  | married | Richardson | Amos |  | on | 4 | Oct | 1810
+Hicks | Mary |  | married | Richardson | Daniel |  | on | 25 | Dec | 1818
+Hightower | John |  | married | King | Polly |  | on | 11 | Jan | 1817
+Hill | Sally |  | married | Quick | James |  | on | 25 | Feb | 1815
+Hill | Sally |  | married | Lynch | James |  | on | 28 | May | 1815
+Hill | James |  | married | Parks | Rebeckah |  | on | 24 | Dec | 1815
+Hockensmith | Polly |  | married | Merryman | Noah |  | on | 14 | Dec | 1809
+Holand | Joel |  | married | Mullins | Susanna |  | on | 20 | Oct | 1809
+Holloday | Elizabeth |  | married | Parr | Isaac | Jr. | on | 8 | Apr | 1809
+Holman | John |  | married | King | Kisiah |  | on | 13 | Apr | 1814
+Holman | William |  | married | Witt | Nancy |  | on | 21 | Sep | 1814
+Holt | Elizabeth[Mrs] |  | married | Noland | Ashford | B. | on | 7 | May | 1822
+Hood | Andrew |  | married | White | Mariam |  | on | 3 | Jun | 1819
+Hooton | Thomas |  | married | Montgomery | Esther |  | on | 9 | Aug | 1815
+Horn | Polly |  | married | Lancaster | Lockey |  | on | 12 | Jan | 1814
+Horn | John |  | married | Meadows | Rebeccah |  | on | 29 | Dec | 1814
+Horn | Susanna |  | married | Meadows | Jacob |  | on | 23 | Nov | 1815
+Horn | Jane |  | married | Watson | Paul |  | on | 16 | Apr | 1817
+Horn | Elizabeth |  | married | Ingram | William |  | on | 30 | Jul | 1817
+Horn | Polly |  | married | Smothers | Daniel |  | on | 1 | Feb | 1822
+Horsley | Sarah |  | married | Poor | William |  | on | 31 | Dec | 1815
+Howard | Peggy |  | married | Vice | Aquila |  | on | 20 | Nov | 1812
+Howard | William |  | married | See | Polly |  | on | 12 | May | 1815
+Howard | Polly |  | married | King | Samuel |  | on | 4 | May | 1816
+Howell | Philison |  | married | Noland | Henay |  | on | 24 | Oct | 1813
+Howell | Nancy |  | married | Purcell | Thomas |  | on | 29 | May | 1821
+Howell | Nancy |  | married | Russell | Thomas |  | on | 29 | May | 1821
+Howell | Patsy |  | married | Noland | John |  | on | 26 | Dec | 1821
+Howell | Elizabeth |  | married | Wagle | Reuben |  | on | 11 | Aug | 1825
+Hubbard | Fanny |  | married | Roberson | James |  | on | 21 | Apr | 1814
+Huff | Richard |  | married | Park | Elizabeth |  | on | 15 | Jun | 1823
+Hughs | Fanny |  | married | Witt | Littleberry |  | on | 18 | Jul | 1814
+Hulan | Ambrose |  | married | Keland | Sally |  | on | 27 | Jun | 1812
+Huland | William |  | married | Swinn | Polly |  | on | 23 | Dec | 1811
+Hulen | Charlotte |  | married | Nolan | Henry |  | on | 7 | Feb | 1811
+Hunt | Lewis |  | married | Monigle | Elizabeth |  | on | 10 | Jun | 1817
+Huntsman | Sally |  | married | Mckinsie | Henry |  | on | 29 | Jan | 1824
+Johns | Sarah |  | married | Lewis | Martin |  | on | 12 | Apr | 1823
+Jones | Ann |  | married | Jones | William |  | on | 22 | Jan | 1811
+Jones | Rebackah |  | married | Lax | Timothy |  | on | 17 | Nov | 1819
+Jones | Rebecca |  | married | Sacks | Timothy |  | on | 17 | Nov | 1819
+Jones | Noel |  | married | Shaw | Sophia |  | on | 29 | Jul | 1822
+Jones | Ambrose |  | married | Newton | Martha |  | on | 12 | Dec | 1822
+Jones | John |  | married | Rose | Jane |  | on | 15 | Nov | 1824
+Kelley | Jemima |  | married | Richardson | Ryan |  | on | 3 | May | 1820
+Kelley | Samuel | Jr. | married | Mcfarland | Rachel |  | on | 25 | Mar | 1822
+Kenedy | Ann |  | married | Wilkerson | Brice |  | on | 9 | Apr | 1812
+Ketchum | Joseph |  | married | King | Sarah |  | on | 5 | Apr | 1818
+Kimbrell | Frances |  | married | Witt | Nathan |  | on | 18 | Feb | 1822
+Kimbrell | John |  | married | Niblick | Caroline |  | on | 2 | Feb | 1823
+Kincaid | Anna |  | married | Miller | Jacob |  | on | 17 | Feb | 1817
+King | Joseph |  | married | Townson | Rhoda |  | on | 1 | Nov | 1810
+King | James |  | married | Townson | Rhoda |  | on | 20 | Nov | 1812
+King | Thankfull |  | married | Vesser | Peter |  | on | 30 | Sep | 1816
+King | Priscilla |  | married | Vaper | John |  | on | 6 | Nov | 1817
+King | Prisella |  | married | Vesser | John |  | on | 6 | Nov | 1817
+King | Miles |  | married | Mccarty | Matilda |  | on | 18 | Oct | 1821
+King | Skilar |  | married | Mccarty | Matilda |  | on | 18 | Oct | 1821
+King | Jacob |  | married | King | Rachael |  | on | 4 | Jul | 1824
+Lackey | James |  | married | Merrill | Betsy |  | on | 21 | Dec | 1811
+Lackey | James |  | married | Moore | Elizabeth |  | on | 15 | Feb | 1820
+Lane | Nancy |  | married | Phelbind | Luke |  | on | 22 | Jun | 1815
+Larison | Patsy |  | married | Rodgers | John |  | on | 30 | Dec | 1811
+Larrison | Abba |  | married | Rogers | William |  | on | 19 | Jul | 1813
+Larrison | William |  | married | Parks | Nancy |  | on | 15 | Jan | 1822
+Lax | Joel |  | married | Shepherd | Nancy | Anne | on | 1 | Sep | 1816
+Lax | Carter |  | married | Skinner | Eday |  | on | 2 | Dec | 1816
+Lea | Margat |  | married | Woodward | Silas |  | on | 27 | Feb | 1812
+Lee | Perlina |  | married | Witt | Elisha |  | on | 2 | Feb | 1823
+Lee | Polly |  | married | Swope | Andrew |  | on | 26 | Nov | 1825
+Logsdon | George |  | married | Mckinzie | Sarah |  | on | 12 | Oct | 1818
+Lones | Fanny |  | married | Riddle | James |  | on | 20 | Mar | 1818
+Lowery | James |  | married | Merrill | Jenny |  | on | 9 | Feb | 1815
+Lucas | George |  | married | Thomas | Polly |  | on | 25 | Nov | 1813
+Luce | Carter |  | married | Skinner | Fay |  | on | 2 | Dec | 1816
+Lukes | Elizabeth |  | married | Tomson | Eli |  | on | 25 | Mar | 1810
+Lutes | John |  | married | Man | Priscilla |  | on | 13 | Jun | 1816
+Lutes | Nathan |  | married | Warner | Sally |  | on | 8 | Jul | 1821
+Lutes | Charles |  | married | Mann | Delilah |  | on | 19 | Aug | 1821
+Lyle | Lemuel |  | married | Vesser | Nancy |  | on | 8 | Jul | 1816
+Lynch | David |  | married | Wells | Elizabeth |  | on | 2 | Feb | 1817
+Mabary | Emely |  | married | Shy | Simson |  | on | 4 | Jun | 1818
+Malton | Margaret |  | married | Miller | John |  | on | 26 | May | 1814
+Man | Rebecca |  | married | Noland | Nicholas |  | on | 18 | Jun | 1811
+Mann | John |  | married | Tincher | Patsy |  | on | 26 | Mar | 1821
+Mann | Deedamon |  | married | Mcguire | Benjamin |  | on | 20 | Sep | 1825
+Martin | Mariah |  | married | Walters | Levi |  | on | 16 | Jun | 1817
+Martin | Mariah |  | married | Waters | Levi |  | on | 26 | Jun | 1817
+Mathery | Squire | Skelton | married | Nelly | Mathery |  | on | 15 | Dec | 1823
+Maxwell | John |  | married | Woolery | Ann |  | on | 14 | Jun | 1821
+Mccreary | Margaret |  | married | Tuddith | Thomas |  | on | 26 | Oct | 1822
+Mccreery | Susan |  | married | Wallace | Cantley | M. | on | 29 | Aug | 1820
+Mccully | Nancy |  | married | Taylor | Robert | B. | on | 23 | Dec | 1820
+Mcguira | Annis |  | married | Sparks | Isaac |  | on | 18 | Sep | 1810
+Mcguire | Peggy |  | married | Snowden | David |  | on | 1 | Jul | 1812
+Mcguire | Archibald |  | married | Sharp | Susanna |  | on | 9 | Jan | 1823
+Mcguire | Margaret |  | married | Thomas | Cornelius |  | on | 11 | Dec | 1823
+Mckinney | Elizabeth |  | married | Picklesimon | Elijah |  | on | 18 | Oct | 1814
+Mckinsey | Richard |  | married | Sparks | Annis |  | on | 14 | Feb | 1813
+Mcmahan | Moses |  | married | Snowden | Betsy |  | on | 15 | Jan | 1816
+Mcmonega | Susan |  | married | Noland | Francis |  | on | 2 | Jan | 1809
+Mcmonegle | Aaron |  | married | Noland | Polly |  | on | 23 | May | 1816
+Mcquinn | Edah |  | married | Purcell | John |  | on | 21 | Jul | 1818
+Mcswain | William |  | married | Oneal | Rachel |  | on | 28 | Feb | 1820
+Mead | Elisha |  | married | Noland | Polly |  | on | 6 | Sep | 1820
+Melony | Sidney |  | married | Miller | George |  | on | 17 | Mar | 1825
+Midkiff | Kimble |  | married | Robertson | Henietta |  | on | 4 | Feb | 1819
+Miller | Nancy |  | married | Ross | James |  | on | 15 | May | 1811
+Miller | Mary | Elizabeth | married | Stufflebean | William |  | on | 27 | Feb | 1812
+Miller | Sarah |  | married | Wilcoxon | Alfred |  | on | 11 | Feb | 1818
+Miller | Pegga |  | married | Wilkson | Ross |  | on | 17 | Sep | 1822
+Mitchell | Alexander |  | married | Reid | Hannah |  | on | 24 | Jan | 1809
+Mize | Isaac |  | married | Walker | Nancy |  | on | 14 | Mar | 1819
+Mize | Milton |  | married | Warford | Rebecca |  | on | 17 | Nov | 1824
+Moberly | Thomas | J. | married | Oldham | Sally |  | on | 8 | Feb | 1816
+Moore | John |  | married | Reed | Polly |  | on | 23 | Nov | 1814
+Moore | Eli |  | married | Warford | Polly |  | on | 10 | Dec | 1823
+Morrow | Jesse |  | married | Rose | Rebecca |  | on | 7 | Mar | 1817
+Murphy | Jesse |  | married | Park | Tabetha |  | on | 4 | Sep | 1817
+Murphy | Mary | Ann | married | Parks | Levi |  | on | 25 | Jul | 1818
+Newkirk | Nancy |  | married | Snowden | Joseph |  | on | 11 | Jun | 1813
+Newman | Nancy |  | married | Sparks | James |  | on | 9 | Dec | 1825
+Newton | Helena |  | married | Wyatt | James |  | on | 1 | Aug | 1816
+Noland | Liney |  | married | Parrish | William |  | on | 25 | Mar | 1810
+Noland | Anney |  | married | Parrish | William |  | on | 29 | Mar | 1810
+Noland | Sereny |  | married | Parks | William |  | on | 29 | Mar | 1810
+Noland | James |  | married | Webber | Elizabeth |  | on | 2 | Aug | 1810
+Noland | Polly |  | married | Noland | William |  | on | 8 | Jan | 1818
+Noland | John |  | married | Noland | Tabitha |  | on | 16 | Dec | 1822
+Oldakers | Jacob |  | married | Vanberskuk | Betty |  | on | 12 | Mar | 1812
+Oldham | Nathaniel |  | married | Sparks | Peggy |  | on | 6 | May | 1812
+Owens | Nancy |  | married | Reynolds | Tobias |  | on | 6 | Jan | 1820
+Owens | Sally |  | married | Reid | Thomas |  | on | 13 | Feb | 1821
+Pace | Jonathan |  | married | Park | Catharine |  | on | 14 | Jan | 1822
+Park | Nancy |  | married | Peeler | George | A. | on | 17 | Feb | 1815
+Park | Barbary |  | married | Richardson | John |  | on | 11 | Jan | 1816
+Park | John |  | married | Poulton | Patsy |  | on | 12 | Jan | 1820
+Park | Mourning |  | married | Wagers | James |  | on | 5 | Mar | 1821
+Park | John |  | married | Robinson | Malinda |  | on | 6 | May | 1824
+Park | Jane |  | married | Park | Rolen |  | on | 15 | Aug | 1825
+Parker | Sally |  | married | Yates | William |  | on | 12 | Jun | 1823
+Parks | Winna |  | married | Wagers | Ambrose |  | on | 16 | Mar | 1820
+Parris | John |  | married | Wasson | Polly |  | on | 30 | Oct | 1811
+Parriss | John |  | married | Wasson | Polly |  | on | 25 | Oct | 1811
+Pasley | Richard |  | married | Wood | Sinthlote |  | on | 22 | Sep | 1809
+Patrick | Alexander | Jr. | married | White | Catherine |  | on | 2 | Jan | 1820
+Phillips | Polly |  | married | Ridge | John |  | on | 21 | Nov | 1815
+Picher | Susanna |  | married | Swingle | John |  | on | 25 | Aug | 1816
+Pike | Samuel |  | married | Woolery | Elizabeth |  | on | 19 | Oct | 1821
+Pike | Phillip |  | married | Puckett | Permelia |  | on | 12 | Nov | 1821
+Pitcher | William | Jr. | married | Stivers | Catherine |  | on | 3 | Nov | 1820
+Pitman | Nancy |  | married | West | William |  | on | 29 | Oct | 1818
+Poulton | Nancy |  | married | Stevens | Thornton |  | on | 18 | Jul | 1821
+Powell | Patsy |  | married | Sparks | Thomas |  | on | 20 | Apr | 1825
+Purcell | Richard |  | married | Woods | Jessa | Sellock | on | 19 | Sep | 1809
+Quinn | Abner | W. | married | White | Nancy |  | on | 22 | Jul | 1819
+Reynolds | Pleasant |  | married | Thomas | Judith |  | on | 24 | Sep | 1818
+Reynolds | John | W. | married | Webber | Naomy |  | on | 7 | Jan | 1819
+Reynolds | John |  | married | West | Lucy |  | on | 3 | Dec | 1823
+Richardson | David |  | married | Skinner | Chisaah |  | on | 2 | Jan | 1814
+Richardson | Paulina |  | married | Winburn | Thomas |  | on | 11 | Dec | 1815
+Richardson | Patsy |  | married | Turngate | Elias |  | on | 31 | Jul | 1821
+Richardson | Jaily |  | married | Tungate | William |  | on | 13 | Jan | 1825
+Robins | Polly |  | married | Wagers | Richard |  | on | 28 | May | 1823
+Robinson | Sookey |  | married | Townsend | James |  | on | 24 | Jan | 1815
+Rodgers | Hiram |  | married | Witt | Milly |  | on | 21 | Dec | 1818
+Rose | Samuel |  | married | Warson | Jenny |  | on | 1 | Oct | 1818
+Ross | John |  | married | Warner | Polly |  | on | 11 | Mar | 1814
+Scrivner | Ann |  | married | Walker | Robert |  | on | 10 | Aug | 1825
+Sharp | Elvila |  | married | Vivion | John |  | on | 21 | Jan | 1822
+Smoote | Polly |  | married | Squires | John |  | on | 25 | Nov | 1818
+Sparks | --- |  | married | --- | --- |  | on | 3 | Sep | 1824
+Sparks | Thomas |  | married | Thomas | Dosha |  | on | 16 | Nov | 1812
+Stevens | Rebecca |  | married | Williams | John | W. | on | 30 | Dec | 1823
+Stewart | Archibald |  | married | Tribble | Elizabeth |  | on | 26 | Feb | 1816
+Strangham | Benjamin |  | married | White | Peggy |  | on | 25 | Mar | 1818
+Tipon | --- |  | married | --- | --- |  | on | 20 | Feb | 1824
+Tipton | Reuben | S. | married | West | Betsy |  | on | 10 | Jan | 1818
+Tipton | Francis |  | married | Tipton | Jesse |  | on | 17 | Jan | 1821
+Tipton | Tilitha |  | married | Walker | John |  | on | 4 | Jun | 1822
+Walters | Hannah |  | married | Walters | James |  | on | 24 | Feb | 1822
+Walters | Virginia |  | married | Wry | Samuel |  | on | 25 | Sep | 1825
+Walton | David |  | married | Warford | Elizabeth |  | on | 7 | Jun | 1825
+Ward | Andrew |  | married | White | Mariam |  | on | 3 | Jun | 1819
+Waters | Bailey |  | married | Wells | Milleton |  | on | 1 | Feb | 1825
+Waters | Bailey | S. | married | Wills | Milliton |  | on | 1 | Feb | 1825
+Webber | Morning |  | married | Wilson | Sampson |  | on | 20 | May | 1812
+Welch | Elizabeth |  | married | White | Willis |  | on | 22 | Oct | 1810
+Witt | --- |  | married | --- | --- |  | on | 30 | May | 1824

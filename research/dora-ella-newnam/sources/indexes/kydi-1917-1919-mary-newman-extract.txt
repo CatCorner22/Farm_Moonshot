@@ -1,0 +1,18 @@
+# KYDI 1917 and 1919 — Mary Newman/Newnam/Smallwood and LEE+MARY.
+# Year files not committed. 1917 SHA in log; 1919 SHA in log.
+#
+# 1917 NEWMAN MARY (not Lee; not ~76):
+NEWMAN          MARY       F         8       JEFFN                   10/30/1917 056  27866 /1917
+NEWMAN          MARY       K        72       WBSTR                   02/17/1917 026  12720 /1917
+SMALLWOOD       MARY                 4       LESLI                   11/18/1917 005  02065 /1918
+# 1917 LEE+MARY:
+HORN            MARY       L        61       LEE                     02/06/1917 024  11740 /1917
+SNOWDEN         MARY               U/1       LEE                     10/24/1917 057  28351 /1917
+# 1917 LEE NEWMAN (FAN, not Mary):
+NEWMAN          DELLIE              21       LEE                     01/08/1917 024  11741 /1917
+#
+# 1919 NEWMAN/SMALLWOOD MARY (not Lee ~76):
+NEWMAN          MARY       L        61       FLOYD                   01/12/1919 003  01334 /1919
+NEWMAN          MARY       L        59       FLOYD                   01/12/1919 012  05620 /1919
+SMALLWOOD       MARY                76       CLAY                    07/17/1919 041  20470 /1919
+# 1919 LEE+MARY: none.

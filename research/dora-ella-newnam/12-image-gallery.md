@@ -1212,11 +1212,11 @@ Dwelling **581/581**: Thomas Bowman, 68, farmer, Virginia; Polley, 60; **Squire,
 
 ### 7z · 5 Sept 1850 · Owsley stamped 299B — Harrison Newman, 33, and Elias, 8
 
-**Role:** FAN (POSSIBLE identity of Elias 8 with P004; not merged)  
+**Role:** FAN (PROBABLE identity of Elias 8 with P004 via 1932 extract; not merged as PROVEN)  
 **File:** [`sources/census/1850-owsley-pdfp392-st299B-harrison-newman.jpg`](sources/census/1850-owsley-pdfp392-st299B-harrison-newman.jpg)  
-**Source:** S425 · C486 · C487 · DOC056
+**Source:** S425 · C486 · C487 · C509 · DOC056
 
-Dwelling **313/313**: Harrison Newman, 33, farmer, $50; Susan, 24; William, 10; **Elias, 8**; Henry, 6; Balinda, 2. Nativity Kentucky by ditto. Flannigan’s age **3** for Elias is a derivative error. Identity with Elias T. Newnam (born 18 April 1842) is possible, not proved. Next door, John Newman, 23. Above, Rebecca Tincher’s Elias, 17, is a different man.
+Dwelling **313/313**: Harrison Newman, 33, farmer, $50; Susan, 24; William, 10; **Elias, 8**; Henry, 6; Balinda, 2. Nativity Kentucky by ditto. Flannigan’s age **3** for Elias is a derivative error. Identity with Elias T. Newnam (born 18 April 1842) is **probable**, not proved. Next door, John Newman, 23. Above, Rebecca Tincher’s Elias, 17, is a different man.
 
 ![1850 Owsley 299A header](sources/census/1850-owsley-pdfp391-st299A-hdr.jpg)
 
@@ -1262,7 +1262,7 @@ Dwelling **317/317**: Andrew Mays, 25, farmer, $100; Rachel, 23; **Giles, 1/12**
 
 ### 8d · 9 July 1860 · Owsley Page 54 — H.H. Newman, 44, and Elias, 18
 
-**Role:** FAN (PROVEN same household as 1850 Harrison; Elias 18 POSSIBLE vs P004, unmerged)  
+**Role:** FAN (PROVEN same household as 1850 Harrison; Elias 18 PROBABLE vs P004 via 1932 extract)  
 **File:** [`sources/census/1860-owsley-pdfp353-hh364-hh-newman.jpg`](sources/census/1860-owsley-pdfp353-hh364-hh-newman.jpg)  
 **Source:** S431 · C497 · C498 · C499 · DOC060
 
@@ -1299,4 +1299,11 @@ Dwelling **407/407**, Proctor: John Newnam, 68, farmer, $1200/$900, born **Delaw
 ![1860 Owsley Page 60 header](sources/census/1860-owsley-pdfp359-p60-hdr.jpg)
 
 ![1860 Owsley Page 60 — Harrison Newman 15](sources/census/1860-owsley-pdfp359-harrison15.jpg)
+
+## Pass 50 note — cemetery overview (not a numbered plate)
+
+**File:** [`sources/cemetery/brandenburg-quillen-bq2.jpg`](sources/cemetery/brandenburg-quillen-bq2.jpg)  
+**Source:** S442 · C516 · C517 · DOC064
+
+Brandenburg-Quillen, Heidelberg. **Image seen.** 344×208 pixels. Individual inscriptions are **not readable**. The Mary A. and Elias T. lines used in this pass are from the HTML transcripts, not from this photograph.
 

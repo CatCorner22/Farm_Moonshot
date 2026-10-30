@@ -1380,7 +1380,7 @@ Pass 2: given name **Harrison** is H-a-rr-i-s-o-n, **not** Harris. Surname **New
 
 ### Facts extracted → claim IDs
 - Harrison Newman 33 household → C486
-- Elias 8 POSSIBLE vs P004, unmerged; Flannigan age 3 withdrawn → C487
+- Elias 8 PROBABLE vs P004 via 1932 extract; Flannigan age 3 withdrawn → C487 / C509
 - Tincher Elias 17 different man → C488
 - John Newman 23 separate house → C489
 
@@ -1487,7 +1487,7 @@ Pass 2: head given name is initials **H.H.** (two capitals with periods), **not*
 ### Facts extracted → claim IDs
 - H.H. Newman 44 household → C497
 - Same household as 1850 Harrison → C498
-- Elias 18 vs P004 still unmerged → C499
+- Elias 18 vs P004 **PROBABLE** via 1932 extract → C499 / C509
 
 ## DOC061 — 1860 U.S. census, Owsley Co. KY PDF 354, Andrew Mays 31 + Giles 11 (original)
 
@@ -1535,3 +1535,62 @@ Pass 2: John’s nativity is **Del** (Delaware), **not** Tennessee and **not** K
 
 ### Facts extracted → claim IDs
 - John 68 Delaware + Lear 63 + Harrison 15 → C501
+
+## DOC063 — Lee County KY 1932 death-certificate extract, Elias T. Newnam (derivative)
+
+- File: `sources/indexes/lee-deaths-1932.html` SHA-256 `aee34fa0c556d5fe403511255554d4de9cccbcb3bf476acd9ea142637a965628`
+- Provenance: Kendrick transcription of **photographs** of Kentucky DCs. **Not** the original certificate image. Two-pass of the HTML table row.
+
+### Diplomatic (HTML table cells)
+
+> **Elias T. Newnam** · **90 yrs** · **18 Apr 1842 Clark Co** · **18 Apr 1932 Beattyville** · **Heidelberg** · **widower** · **Henry Harrison Newnam** · **Millie Tincher Newnam**
+
+Pass 2: given name **Elias T.** (not Doll). Age **90**. Birth and death the same calendar day. Father cell is **Henry Harrison Newnam** (three words). Mother cell is **Millie Tincher Newnam**. Find A Grave `href`s on those three names are Kendrick’s links, not additional originals. Informant cell is absent.
+
+### Facts extracted → claim IDs
+- 1932 extract wording → C506
+- KYDI corroboration of date/age/county → C507
+- Identity with P004 **PROBABLE** → C508 / C509
+- Mother Millie ≠ wife Susan → C510
+
+## DOC064 — Brandenburg-Quillen Cemetery, Heidelberg, Lee Co. KY (derivative transcripts + overview photo)
+
+- Annotated HTML: `sources/indexes/brandenburg-quillen-cemetery-b-q.html` SHA-256 `f47a8a21061e791aa5d576f2aacf4dc6dfce0f079ef92261838e8467dc0db23e`
+- Shorter HTML: `sources/indexes/brandenburg-quillen-cemetery-leecocem.html` SHA-256 `9cd39605894201effb2d88c913f6d237273f7173a573edf6b233de9081e81806`
+- Overview JPEG: `sources/cemetery/brandenburg-quillen-bq2.jpg` SHA-256 `c637068265f8f5b44105f5e1566796cea49c47e451421c0e15a982f9506b8b3f` (344×208)
+- Provenance: Kendrick on-ground copy 26 Jul 2001. **Not** the original stones. Two-pass of the two HTML pages. Photo **image-seen**; inscriptions **not readable**.
+
+### Diplomatic (annotated page)
+
+> **Mary A. NEWNAM** · **22 Apr 1842** · **11 Jul 1918** · d/o James R. & Caroline Bullock Smallwood
+> **Elias T. NEWNAM** · **1842** · **18 Apr 1932** · Ky **C** Co 14th Ky CAS **BGLR** · s/o Henry Harrison & B. A. Tincher Newman
+
+### Diplomatic (shorter page)
+
+> **Mary A. NEWNAM** · **4/22/1842** · **7/11/1918**
+> **Elias T. NEWNAM** · Ky **D** Co 14th Ky CAS **BGLA?**
+
+Pass 2: the parent clauses and the company letter **C** exist only on the annotated page. The shorter page has **D** and a queried **BGLA**. Do not treat the parent clauses as stone text.
+
+### Facts extracted → claim IDs
+- Mary A. dates → C516
+- Elias T. dates / military → C517
+- Parent notes not independent → C518
+- Photo illegible for names → C516 / S442
+
+## DOC065 — Estill County Marriages to 1850 (F–W), marry04 extract (derivative)
+
+- Extract: `sources/indexes/estill-marriages-to-1850-marry04-extract.txt` SHA-256 `4f89deaea4cc54effb5e378f92905518a73056faeb3ae4bb8fd0e136693cbde8`
+- Provenance: Wayback `20050120005743id_` of rootsweb `~kyestill/marry/marry04.htm`. Two-pass of parsed rows. **Years present: 1809–1825.**
+
+### Diplomatic (rows matching Newman / Tincher)
+
+> **Mann** · **John** · married · **Tincher** · **Patsy** · on · **26** · **Mar** · **1821**
+> **Newman** · **Nancy** · married · **Sparks** · **James** · on · **9** · **Dec** · **1825**
+
+Pass 2: no row dated 1840. No Henry, Harrison, Belinda, Armilda, or Millie with Newman/Tincher.
+
+### Facts extracted → claim IDs
+- Coverage ends 1825 → C522
+- Nancy Newman 1825 FAN → C523
+- Patsy Tincher 1821 FAN → C524
