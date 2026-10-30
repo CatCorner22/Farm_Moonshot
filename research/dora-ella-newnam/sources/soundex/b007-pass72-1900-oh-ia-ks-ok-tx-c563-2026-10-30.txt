@@ -1,0 +1,77 @@
+Pass 72 — 1900 OH / IA / KS / OK / TX C-563 Jesse + IN S-415 L-window + John name-lines
+Date: 30 Oct 2026 (America/New_York)
+Backlog: B007 residual other-state 1900 / IN S-415 Letha + unread John cards
+
+=== Access ===
+Image seen via IA BookReader page JPEGs (not the full 100–350 MB PDFs).
+  TX C-563 J = soundex1900tx054 (T1073 C-563 J. B.–C-600 William; leafCount 3423)
+  OH C-563   = soundex1900oh067 (T1065 C-560 John–C-600 John H.; leafCount 4100)
+  IA C-563   = soundex1900ia037 (T1045 C-552 Elizabeth–C-600; leafCount 4165)
+  KS C-563   = soundex1900ks025 (T1046 C-540 Thomas H.–C-615 Byron B.; leafCount 3986)
+  OK C-563   = soundex1900ok009 (T1066 C-462 Earnest–C-622; leafCount 3947)
+  IN S-415   = soundex1900in208 (already located Pass 70; L-window + John gaps)
+Local /tmp/p72/ working crops not committed except the evidence JPEGs listed in S310–S315.
+
+=== IN S-415 L-given window (in208 n1390–n1416) ===
+n1390 Katharine R still K. n1395 Lance 30 PA. n1396 Lawrence 17 Noble individual.
+n1398 Sullivan, Leeley HEAD W June 1858 49 IN, Daviess Steele Twp, vol 12 ED 11 sh 20 ln 14.
+  Vina wife Apr 1869 31 IN; Lizzie 13, Charles E 11, Henry 6, Adel 4 — all IN.
+n1399 continuation: Penner Lola SD Dec 1888 11 IN; Daisy SD Feb 1891 9 IN;
+  Lethen SS/SD July 1897 2 IN; Luttrell Albert BD Aug 1880 19 IN.
+  Lethen is a Penner stepchild, Indiana-born, mother Vina Indiana. Not C244.
+n1400 Leigh 14 individual. n1401 Leona 13 individual.
+n1402 Leslie T HEAD June 1867 32 IN, Marion Center Indianapolis.
+n1403 Levi M HEAD Nov 1864 35 IN, Wells Chester — consecutive leaf after Leslie.
+No Letha / Letta / Lethia / Lettie individual or head card between Leslie and Levi.
+n1404–n1416 Levi continuations / Levinin / Lizzie / Lou / Lucinda. L-window closed for those strings.
+
+=== IN S-415 John name-lines (in208 n1221–n1349 every card) ===
+n1221 Jessie leftover / n1222 Johanna / n1223 John tab / then John heads and continuations
+through n1349. n1350 already Joseph (Pass 71). Every intervening leaf is a John (or
+John continuation). Family-section residual: unread wives/children on heads whose
+members were not line-read (C373 remains PROBABLE as to MO-wife + Letha ~2).
+
+=== TX C-563 J-window (tx054 n1–n20 every card) ===
+n1 divider Texas 1900 C-563 J. n2 J tab.
+n3 J.B. 68 AL Gonzales. n4 J.B. 72 Germany San Antonio individual.
+n5 Conrad, J.B. HEAD W Sep 1878 21 Missouri, Frio pct 7. Wife Bee Feb 1881 19 TX;
+  Joseph K son Aug 1899 1 TX. Reject vs 1910 Jesse (age 21 vs ~17/27; initials; intact TX son).
+n6–n17 J.D. / J.E. / J.W. / Jack / Jacob B / James / Jefferson P.
+  Jefferson P continuation n17: Coonrod, Jesse J SON Oct 1898 1 TX — toddler, not a head.
+n18 Joe Conrady. n19–n20 John. No Jesse head between Jefferson and Joe.
+
+=== OH C-563 Jesse slot (oh067; Jacob ~n1500, John tab n1547) ===
+n1540 Cunard Jennie 55. n1541 Coonrod Jennie S 33 individual.
+n1542 Conrad Jerry HEAD Mar 1855 45 OH Hocking + continuation n1543.
+n1544 Coonrod, Jessie HEAD Apr 1869 30 OH, Paulding Harrison. Wife Marthy Apr 1873 27 OH.
+  Reject (nativity OH; wife OH; no Letha).
+n1545 Conrad, Jessie L individual May 1836 64 PA, Lucas Toledo, with Barr, John. Reject.
+n1546 Chamrada Joe 39 Bohemia. n1547 John tab. No White Jesse ~27 MO as head.
+
+=== IA C-563 Jesse slot (ia037; James L n1880, John n1895) ===
+n1885 Conrad Jerry 43 OH Lyon Rock Rapids.
+n1886 Conrad, Jesse HEAD Feb 1863 37 Ohio, Cerro Gordo Lincoln. Wife Jessie Apr 1876 24 IA;
+  Carl E son May 1895 5 IA. Reject (age 37; nativity OH; IA son).
+n1887 Conrad, Jessie F HEAD Feb 1858 42 Indiana, Ringgold Clinton. Wife Alice L Feb 1859 41 IA.
+  Reject (age 42; nativity IN).
+n1888–n1889 Joe. Then John. No White Jesse ~27 MO as head.
+
+=== KS C-563 Jesse slot (ks025; Henry n1850, James F n1870, John n1874) ===
+n1871 James F continuation (Nellie 13, Cora 9 KS) — no Jesse child.
+n1872 Conrad, Jay J HEAD Mar 1873 27 Indiana, Brown Horton. Wife Mable July 1876 23 IA.
+  Reject (Jay ≠ Jesse; nativity IN).
+n1873 Conerty John 29 IL. Then more Johns. No Jesse head between James F and John.
+
+=== OK C-563 (ok009; C-563 Charley n2500, Howard n2520, C-600 by n2560; film interleaved) ===
+n2520 Coonrod Howard 33 KS Payne.
+n2525 Conrad, Jessie C HEAD Feb 1842 58 Missouri, Custer Grant Twp. Wife Melora Feb 1850 50 MO;
+  child Apr 1883 17 MO; n2526 continuation Ruth M dau Aug 1891 8 MO.
+  Reject (age 58; intact MO-born older children; no Letha ~2).
+n2521–n2524 / n2527 interleave C-565 Cameron and C-563 Chenoworth J-names.
+No White Jesse ~27 MO as head after Jessie C 58.
+
+=== Residual ===
+Other-state 1900 beyond AR/IL/TN/IN/KY/MO/OH/IA/KS/OK/TX.
+IN S-415 John family-section residual (wives/children on heads not line-read);
+other Sullivan given-name heads (not Francis/Jessie/John/L) that might list a Letha ~2.
+B049 1926 obituary; R001/R007/R008; B045 probate; B047 M1509.

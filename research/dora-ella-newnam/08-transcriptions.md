@@ -871,5 +871,79 @@ Preceded by John; followed by James. Only Jesse head on the AR C-563 reel. Not 1
 
 No children. Not C244. → **C372**.
 
+## DOC050 — 1900 IN Soundex S-415, Leeley Sullivan + Lethen Penner
+- Images: `sources/soundex/in1900-s415-p1398-leeley-sullivan.jpg` SHA-256 `71349d2b8ffba71c5c4952d6c8402697c57ab10350da6aa8fbb0356f0da298aa`; `…-p1399-lethen-penner-sd.jpg` `b6c113ff99595b89fdf3cc5f66ce10cace653dbeac97c963ff0c96fda0a581a8`
+- Reel: IA `soundex1900in208` n**1398–1399**
+
+### Diplomatic
+> **S-415 Sullivan, Leeley** — Head · vol **12** ED **11** sh **20** ln **14** · W June **1858** **49** Indiana · Daviess · Steele Twp  
+> **Vina** — Wife, Apr **1869**, **31**, Indiana  
+> **Lizzie** — D, July **1886**, **13**, Indiana  
+> **Charles E** — S, Nov **1888**, **11**, Indiana  
+> **Henry** — S, Nov **1893**, **6**, Indiana  
+> **Adel** — D, Jan **1896**, **4**, Indiana  
+> **Penner, Lola** — SD, Dec **1888**, **11**, Indiana  
+> **Daisy** — SD, Feb **1891**, **9**, Indiana  
+> **Lethen** — S.S./S.D., July **1897**, **2**, Indiana  
+> **Luttrell, Albert** — BD, Aug **1880**, **19**, Indiana
+
+Lethen is a Penner stepchild. Not C244. Leslie T (n1402) is the next L-head after Leigh/Leona; Levi M (n1403) is the next leaf. → **C374 / C375**.
+
+## DOC051 — 1900 TX Soundex C-563, J.B. 21 Frio
+- Image: `sources/soundex/tx1900-c563-p5-jb-21-frio.jpg` SHA-256 `b696b03a42daf8fb48cb7ca3307da16857e7ab57f7da8c0931f5c088dc58cf92`
+- Reel: IA `soundex1900tx054` n**5**
+
+### Diplomatic
+> **C-563 Conrad, J.B.** — Head · vol **59** ED **50** sh **6** ln **31** · W Sep **1878** **21** Missouri · Frio · pct **7**  
+> **Bee** — Wife, Feb **1881**, **19**, Texas  
+> **Joseph K** — S, Aug **1899**, **1**, Texas
+
+J-window n1–20 has no Jesse head. Jefferson P’s continuation names Jesse J, son, age 1. → **C377 / C378**.
+
+## DOC052 — 1900 OH Soundex C-563, Jessie 30 Paulding + Jessie L 64
+- Images: `sources/soundex/oh1900-c563-p1544-jessie-30-paulding.jpg` SHA-256 `ca1760d5e647cdd0043ed24a91c6d4663dc2a47b60aff03e21c50cbe55e73d61`; `…-p1545-jessie-l-64-toledo.jpg` `af9206615faa1e46b33da3a451d33ecdff38f25c2278a8bde9a662927700d17a`
+- Reel: IA `soundex1900oh067` n**1544–1545**
+
+### Diplomatic
+> **C-563 Coonrod, Jessie** — Head · vol **122** ED **58** sh **8** ln **41** · W Apr **1869** **30** Ohio · Paulding · Harrison Twp  
+> **Marthy** — Wife, Apr **1873**, **27**, Ohio  
+> **C-563 Conrad, Jessie L** — Individual · May **1836** **64** Pennsylvania · Lucas · Toledo · enumerated with Barr, John
+
+John tab is n1547. No White Jesse ~27 MO. → **C379 / C380**.
+
+## DOC053 — 1900 IA Soundex C-563, Jesse 37 + Jessie F 42
+- Images: `sources/soundex/ia1900-c563-p1886-jesse-37-cerro-gordo.jpg` SHA-256 `f4be4d441dbe305b6a0b989994db814e2ad9540dbb7707fc414bb24fe3a427b4`; `…-p1887-jessie-f-42-ringgold.jpg` `e8eee9297b793381096d0016869363bed2a725dd7a6ec9fb4a73001db6d06ee1`
+- Reel: IA `soundex1900ia037` n**1886–1887**
+
+### Diplomatic
+> **C-563 Conrad, Jesse** — Head · vol **14** ED **24** sh **19** ln **76** · W Feb **1863** **37** Ohio · Cerro Gordo · Lincoln Twp  
+> **Jessie** — Wife, Apr **1876**, **24**, Iowa  
+> **Carl E** — S, May **1895**, **5**, Iowa  
+> **C-563 Conrad, Jessie F** — Head · vol **67** ED **102** sh **10** ln **67** · W Feb **1858** **42** Indiana · Ringgold · Clinton Twp  
+> **Alice L** — Wife, Feb **1859**, **41**, Iowa
+
+Then Joe. No White Jesse ~27 MO. → **C381 / C382 / C383**.
+
+## DOC054 — 1900 KS Soundex C-563, Jay J 27 Brown
+- Image: `sources/soundex/ks1900-c563-p1872-jay-j-27-brown.jpg` SHA-256 `324c2fadbbbc58cd0ce952d2b40f604eee89561d468fa95195e89565e6aa7be6`
+- Reel: IA `soundex1900ks025` n**1872**
+
+### Diplomatic
+> **C-563 Conrad, Jay J** — Head · vol **5** ED **26** sh **15** ln **1** · W Mar **1873** **27** Indiana · Brown · Horton  
+> **Mable** — Wife, July **1876**, **23**, Iowa
+
+James F precedes; John follows. No Jesse head. → **C384 / C385**.
+
+## DOC055 — 1900 OK Soundex C-563, Jessie C 58 Custer
+- Image: `sources/soundex/ok1900-c563-p2525-jessie-c-58-custer.jpg` SHA-256 `7ccdaf118cb25160a15a99b6798da3a08e891b2d0ea45a2458e0e8c2999f4c2d`
+- Reel: IA `soundex1900ok009` n**2525**
+
+### Diplomatic
+> **C-563 Conrad, Jessie C** — Head · vol **3** ED **39** sh **8** ln **13** · W Feb **1842** **58** Missouri · Custer · Grant Twp  
+> **Melora** — Wife, Feb **1850**, **50**, Missouri  
+> child Apr **1883** **17** Missouri (front); **Ruth M** D Aug **1891** **8** Missouri (n2526)
+
+Only Jessie/Jesse Conrad head in the OK C-563 body walked. Not 1910 Jesse. → **C386 / C387**.
+
 ## DOC009 — 1910 TN Soundex N-550 McCoy window (nil)
 Handwritten family/individual cards n2461–n2469. Sequence after Mary C (n2460): Mary D 49 Jefferson (son Layton 11); Mary M 70 Hamilton; Mek. G 50 Cheatham (Florence 19, John 17, General 16, Frances 13, William 10, Doria 6, Luther 1½); Melvin 3½ Giles (gs of Deacon George W); Melvin 54 Giles (SIL of same); Minerva 80 Robertson (gds Lona Neely, Nellie Erwin); Minnie 21 Roane (with Sam P. Sparks); Mitchell 27 Hardin (Ollie P 25, Gladys 4, Burl W 3, Royal E 1 9/12). **No McCoy.** SHA-256 n2463 `23610f8aa4c159b1b554ed1786d11f57d2f56f8a2e8994f7289ae7bd02dfca53`; n2469 `340489566090880388fa6b81ca5751c5944dcaf56a7b44f70fe560788f308586`.

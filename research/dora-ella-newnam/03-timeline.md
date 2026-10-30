@@ -92,6 +92,12 @@ Place as it was *at the date*; modern equivalent in brackets. Flag impossibiliti
 | Jun 1900 | — | TN Soundex C-563: **no** Jesse. Jennie **36** Lincoln is immediately followed by John **10** Coffee | Tennessee (Soundex) | C369 | S307 |
 | Jun 1900 | — | AR Soundex C-563: **Jesse R** **34** TN Izard + Sarah B + three AR children — **not** 1910 Jesse. No other Jesse head | Izard Co., AR (Soundex) | C370 C371 | S308 |
 | Jun 1900 | — | IN Soundex S-415: **Jessie** Sullivan **28** Greene + Lula **21** IN, no children. John-band sample has **no** MO-born wife + Letha ~**2** | Indiana (Soundex) | C372 C373 | S309 |
+| Jun 1900 | 2 | **Lethen** (Penner), stepchild of Leeley Sullivan, Daviess / Steele — **not** merged with 1910 Letha **12**. L-window has **no** Letha/Letta/Lethia/Lettie card (Leslie → Levi consecutive). John name-lines n**1221–1349** are all John | Daviess Co., IN (Soundex) | C374 C375 C376 | S310 |
+| Jun 1900 | — | TX Soundex C-563: **no** Jesse head. **J.B.** **21** MO Frio rejected. Jesse J is a **1**-year-old son of Jefferson P | Texas (Soundex) | C377 C378 | S311 |
+| Jun 1900 | — | OH Soundex C-563: **no** White Jesse ~**27** MO. Jessie **30** OH Paulding and Jessie L **64** PA Toledo rejected | Ohio (Soundex) | C379 C380 | S312 |
+| Jun 1900 | — | IA Soundex C-563: Jesse **37** OH Cerro Gordo and Jessie F **42** IN Ringgold rejected. **No** White Jesse ~**27** MO | Iowa (Soundex) | C381 C382 C383 | S313 |
+| Jun 1900 | — | KS Soundex C-563: **no** Jesse head. Jay J **27** IN Brown rejected | Kansas (Soundex) | C384 C385 | S314 |
+| Jun 1900 | — | OK Soundex C-563: Jessie C **58** MO Custer rejected. **No** White Jesse ~**27** MO | Oklahoma (Soundex) | C386 C387 | S315 |
 | Jun 1900 | — | 1900 MO N-550 **Bella** 25 St Louis and **Belle** 29 VA Kansas City — **not** the 1910 Liberty widow (**C285**) | Missouri (Soundex) | C293 C285 | S273 |
 | **14 Apr 1910** | — | **Letha Sullivan**, **12**, **Nurse**, in **Jesse Conrad** hh, Liberty Twp ED **4** sh **3 A** (PDF p.**435**) — **POSSIBLE** Coy’s later wife; **not merged**. Pass 48 “sh 8 A” caption withdrawn. Household: Jesse **37**, wife **28**, Mary ~**3**, male child ~**3**, Letha. 1910 C-563 Jesse window has **no** matching Liberty card (**C302**) | Liberty Twp, Bollinger Co., MO | C244 C286 C295 C302 | S268 S276 |
 | **15 Apr 1910** | ~38 | **Not** indexed as Dora Stone on 1910 MO or AR **S-350** D-windows (**C288/C289**); KY S-350 Dora cards already rejected (**C038**) | Missouri / Arkansas (Miracode) | C288 C289 C038 | S269 S270 S026 |

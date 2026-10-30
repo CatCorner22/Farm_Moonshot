@@ -421,3 +421,41 @@ research/dora-ella-newnam/sources/soundex/in1900-s415-p1220-jessie-lula-greene.j
   format: JPEG Soundex card, IA soundex1900in208 n1220
 research/dora-ella-newnam/sources/soundex/b007-pass71-1900-ar-il-tn-c563-2026-10-30.txt
   format: Pass 71 AR/IL/TN C-563 + IN S-415 John search log
+research/dora-ella-newnam/sources/soundex/in1900-s415-p1398-leeley-sullivan.jpg
+  sha256: 71349d2b8ffba71c5c4952d6c8402697c57ab10350da6aa8fbb0356f0da298aa
+  format: JPEG Soundex card, IA soundex1900in208 n1398
+research/dora-ella-newnam/sources/soundex/in1900-s415-p1399-lethen-penner-sd.jpg
+  sha256: b6c113ff99595b89fdf3cc5f66ce10cace653dbeac97c963ff0c96fda0a581a8
+  format: JPEG Soundex card, IA soundex1900in208 n1399
+research/dora-ella-newnam/sources/soundex/in1900-s415-p1402-leslie-t-then-levi.jpg
+  sha256: 1b14648750d889dfa7ca6faea82ccfe9364567709216d93116f18ad53e643ef2
+  format: JPEG Soundex card, IA soundex1900in208 n1402
+research/dora-ella-newnam/sources/soundex/in1900-s415-p1403-levi-m-after-leslie.jpg
+  sha256: fc68bae436c69607db403c0369cb424d613a060b89e30f76c9aa732364e8016b
+  format: JPEG Soundex card, IA soundex1900in208 n1403
+research/dora-ella-newnam/sources/soundex/tx1900-c563-p1-j-divider.jpg
+  sha256: 7b9a8e6c5fd8891fc6f90d5c7427ea1eba2491aaf40542bb7d26fdca1a4c8043
+  format: JPEG Soundex divider, IA soundex1900tx054 n1
+research/dora-ella-newnam/sources/soundex/tx1900-c563-p5-jb-21-frio.jpg
+  sha256: b696b03a42daf8fb48cb7ca3307da16857e7ab57f7da8c0931f5c088dc58cf92
+  format: JPEG Soundex card, IA soundex1900tx054 n5
+research/dora-ella-newnam/sources/soundex/oh1900-c563-p1544-jessie-30-paulding.jpg
+  sha256: ca1760d5e647cdd0043ed24a91c6d4663dc2a47b60aff03e21c50cbe55e73d61
+  format: JPEG Soundex card, IA soundex1900oh067 n1544
+research/dora-ella-newnam/sources/soundex/oh1900-c563-p1545-jessie-l-64-toledo.jpg
+  sha256: af9206615faa1e46b33da3a451d33ecdff38f25c2278a8bde9a662927700d17a
+  format: JPEG Soundex card, IA soundex1900oh067 n1545
+research/dora-ella-newnam/sources/soundex/ia1900-c563-p1886-jesse-37-cerro-gordo.jpg
+  sha256: f4be4d441dbe305b6a0b989994db814e2ad9540dbb7707fc414bb24fe3a427b4
+  format: JPEG Soundex card, IA soundex1900ia037 n1886
+research/dora-ella-newnam/sources/soundex/ia1900-c563-p1887-jessie-f-42-ringgold.jpg
+  sha256: e8eee9297b793381096d0016869363bed2a725dd7a6ec9fb4a73001db6d06ee1
+  format: JPEG Soundex card, IA soundex1900ia037 n1887
+research/dora-ella-newnam/sources/soundex/ks1900-c563-p1872-jay-j-27-brown.jpg
+  sha256: 324c2fadbbbc58cd0ce952d2b40f604eee89561d468fa95195e89565e6aa7be6
+  format: JPEG Soundex card, IA soundex1900ks025 n1872
+research/dora-ella-newnam/sources/soundex/ok1900-c563-p2525-jessie-c-58-custer.jpg
+  sha256: 7ccdaf118cb25160a15a99b6798da3a08e891b2d0ea45a2458e0e8c2999f4c2d
+  format: JPEG Soundex card, IA soundex1900ok009 n2525
+research/dora-ella-newnam/sources/soundex/b007-pass72-1900-oh-ia-ks-ok-tx-c563-2026-10-30.txt
+  format: Pass 72 OH/IA/KS/OK/TX C-563 + IN S-415 L-window search log

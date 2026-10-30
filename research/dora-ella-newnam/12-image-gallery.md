@@ -85,6 +85,18 @@ Diplomatic transcriptions: [`08-transcriptions.md`](08-transcriptions.md). Citat
 | 109 | 1900 (index) | Context | [Tennessee C-563 — John Coonrod, 10, Coffee County](sources/soundex/tn1900-c563-p3037-john-coffee.jpg) |
 | 110 | 1900 (index) | Rejected same-name | [Arkansas C-563 — Jesse R Conrad, 34, Izard County](sources/soundex/ar1900-c563-p619-jesse-r-izard.jpg) |
 | 111 | 1900 (index) | Rejected same-name | [Indiana S-415 — Jessie Sullivan, 28, Greene County](sources/soundex/in1900-s415-p1220-jessie-lula-greene.jpg) |
+| 112 | 1900 (index) | Rejected same-name | [Indiana S-415 — Leeley Sullivan, Daviess County](sources/soundex/in1900-s415-p1398-leeley-sullivan.jpg) |
+| 113 | 1900 (index) | Rejected same-name | [Indiana S-415 — Lethen Penner, age 2](sources/soundex/in1900-s415-p1399-lethen-penner-sd.jpg) |
+| 114 | 1900 (index) | Negative search | [Indiana S-415 — Leslie T; Letha slot empty](sources/soundex/in1900-s415-p1402-leslie-t-then-levi.jpg) |
+| 115 | 1900 (index) | Context | [Indiana S-415 — Levi M, immediately after Leslie](sources/soundex/in1900-s415-p1403-levi-m-after-leslie.jpg) |
+| 116 | 1900 (index) | Rejected same-name | [Texas C-563 — J.B. Conrad, 21, Frio County](sources/soundex/tx1900-c563-p5-jb-21-frio.jpg) |
+| 117 | 1900 (index) | Rejected same-name | [Ohio C-563 — Jessie Coonrod, 30, Paulding County](sources/soundex/oh1900-c563-p1544-jessie-30-paulding.jpg) |
+| 118 | 1900 (index) | Rejected same-name | [Ohio C-563 — Jessie L, 64, Toledo](sources/soundex/oh1900-c563-p1545-jessie-l-64-toledo.jpg) |
+| 119 | 1900 (index) | Rejected same-name | [Iowa C-563 — Jesse Conrad, 37, Cerro Gordo County](sources/soundex/ia1900-c563-p1886-jesse-37-cerro-gordo.jpg) |
+| 120 | 1900 (index) | Rejected same-name | [Iowa C-563 — Jessie F Conrad, 42, Ringgold County](sources/soundex/ia1900-c563-p1887-jessie-f-42-ringgold.jpg) |
+| 121 | 1900 (index) | Rejected same-name | [Kansas C-563 — Jay J Conrad, 27, Brown County](sources/soundex/ks1900-c563-p1872-jay-j-27-brown.jpg) |
+| 122 | 1900 (index) | Rejected same-name | [Oklahoma C-563 — Jessie C Conrad, 58, Custer County](sources/soundex/ok1900-c563-p2525-jessie-c-58-custer.jpg) |
+| 123 | 1900 (index) | Context | [Texas C-563 — J-tab divider](sources/soundex/tx1900-c563-p1-j-divider.jpg) |
 | 17 | Apr 1910 | Negative search | [Kentucky N-550 — Millie / Missouri; no McCoy](sources/soundex/ky1910-n550-p329-millie-missouri.jpg) |
 | 18 | Apr 1910 | Negative search | [Kentucky N-550 — Monroe; still no McCoy](sources/soundex/ky1910-n550-p330-monroe-no-mccoy.jpg) |
 | 19 | Apr 1910 | Rejected same-name | [Kentucky N-550 — Sam / Samuel, none is the husband](sources/soundex/ky1910-n550-p342-sam-samuel-not-p002.jpg) |
@@ -802,6 +814,126 @@ White head, December 1865, age 34, born Tennessee, Claiborne Township, volume 17
 White head, December 1871, age 28, Indiana-born, Center Township, volume 25, ED 23, sheet 7, line 39. Wife Lula, December 1878, age 21, Indiana. No children. Not the 1910 Letha Sullivan household and not a Missouri-born wife.
 
 ![Indiana S-415 — Jessie Sullivan, 28, Greene County](sources/soundex/in1900-s415-p1220-jessie-lula-greene.jpg)
+
+### 112 · 1900 (index) · Indiana S-415 — Leeley Sullivan, Daviess County
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/in1900-s415-p1398-leeley-sullivan.jpg`](sources/soundex/in1900-s415-p1398-leeley-sullivan.jpg)  
+**Source:** S310 · C375
+
+White head, June 1858, age 49, Indiana-born, Steele Township, volume 12, ED 11, sheet 20, line 14. Wife Vina, April 1869, age 31, Indiana, and four Indiana-born Sullivan children. Continuation (Plate 113) adds Penner stepchildren including Lethen, age 2. Not C244.
+
+![Indiana S-415 — Leeley Sullivan, Daviess County](sources/soundex/in1900-s415-p1398-leeley-sullivan.jpg)
+
+### 113 · 1900 (index) · Indiana S-415 — Lethen Penner, age 2
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/in1900-s415-p1399-lethen-penner-sd.jpg`](sources/soundex/in1900-s415-p1399-lethen-penner-sd.jpg)  
+**Source:** S310 · C375
+
+Continuation of Leeley Sullivan. Penner, Lola and Daisy, stepdaughters, and Lethen, July 1897, age 2, Indiana. Close given-name and age to Letha Viola ~2, but the surname is Penner and the mother Vina is Indiana-born. Not merged with C244. Leslie T (Plate 114) is the next L-head.
+
+![Indiana S-415 — Lethen Penner, age 2](sources/soundex/in1900-s415-p1399-lethen-penner-sd.jpg)
+
+### 114 · 1900 (index) · Indiana S-415 — Leslie T; Letha slot empty
+
+**Role:** Negative search  
+**File:** [`sources/soundex/in1900-s415-p1402-leslie-t-then-levi.jpg`](sources/soundex/in1900-s415-p1402-leslie-t-then-levi.jpg)  
+**Source:** S310 · C374
+
+Sullivan, Leslie T, June 1867, age 32, Indiana, Marion County, Center Township, Indianapolis. The next leaf is Levi M (Plate 115). No Letha, Letta, Lethia, or Lettie card sits between them.
+
+![Indiana S-415 — Leslie T; Letha slot empty](sources/soundex/in1900-s415-p1402-leslie-t-then-levi.jpg)
+
+### 115 · 1900 (index) · Indiana S-415 — Levi M, immediately after Leslie
+
+**Role:** Context  
+**File:** [`sources/soundex/in1900-s415-p1403-levi-m-after-leslie.jpg`](sources/soundex/in1900-s415-p1403-levi-m-after-leslie.jpg)  
+**Source:** S310 · C374
+
+Sullivan, Levi M, November 1864, age 35, Indiana, Wells County, Chester Township. Combined with Plate 114 this closes the Indiana 1900 S-415 L-window for Letha/Letta/Lethia/Lettie as a given name.
+
+![Indiana S-415 — Levi M, immediately after Leslie](sources/soundex/in1900-s415-p1403-levi-m-after-leslie.jpg)
+
+### 116 · 1900 (index) · Texas C-563 — J.B. Conrad, 21, Frio County
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/tx1900-c563-p5-jb-21-frio.jpg`](sources/soundex/tx1900-c563-p5-jb-21-frio.jpg)  
+**Source:** S311 · C377 · C378
+
+White head, September 1878, age 21, born Missouri, Frio County, precinct 7. Wife Bee, February 1881, age 19, Texas; son Joseph K, August 1899, age 1, Texas. The only Missouri-born young Conrad head in the Texas 1900 C-563 J-window. Initials, age, and an intact Texas son fail vs 1910 Jesse Conrad. No Jesse head sits between Jefferson P and Joe.
+
+![Texas C-563 — J.B. Conrad, 21, Frio County](sources/soundex/tx1900-c563-p5-jb-21-frio.jpg)
+
+### 117 · 1900 (index) · Ohio C-563 — Jessie Coonrod, 30, Paulding County
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/oh1900-c563-p1544-jessie-30-paulding.jpg`](sources/soundex/oh1900-c563-p1544-jessie-30-paulding.jpg)  
+**Source:** S312 · C379 · C380
+
+White head, April 1869, age 30, born Ohio, Harrison Township. Wife Marthy, April 1873, age 27, Ohio. The Jessie head immediately before the John tab. Nativity and wife fail vs 1910 Jesse Conrad.
+
+![Ohio C-563 — Jessie Coonrod, 30, Paulding County](sources/soundex/oh1900-c563-p1544-jessie-30-paulding.jpg)
+
+### 118 · 1900 (index) · Ohio C-563 — Jessie L, 64, Toledo
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/oh1900-c563-p1545-jessie-l-64-toledo.jpg`](sources/soundex/oh1900-c563-p1545-jessie-l-64-toledo.jpg)  
+**Source:** S312 · C379
+
+Individual card, May 1836, age 64, born Pennsylvania, Lucas County, Toledo, enumerated with John Barr. The Jessie card immediately after Paulding Jessie, 30, and immediately before the John tab.
+
+![Ohio C-563 — Jessie L, 64, Toledo](sources/soundex/oh1900-c563-p1545-jessie-l-64-toledo.jpg)
+
+### 119 · 1900 (index) · Iowa C-563 — Jesse Conrad, 37, Cerro Gordo County
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/ia1900-c563-p1886-jesse-37-cerro-gordo.jpg`](sources/soundex/ia1900-c563-p1886-jesse-37-cerro-gordo.jpg)  
+**Source:** S313 · C381 · C383
+
+White head, February 1863, age 37, born Ohio, Lincoln Township. Wife Jessie, April 1876, age 24, Iowa; son Carl E, May 1895, age 5, Iowa. The only Jesse given-name head in the Iowa 1900 C-563 J-window. Age, Ohio nativity, and an Iowa son fail vs 1910 Jesse Conrad.
+
+![Iowa C-563 — Jesse Conrad, 37, Cerro Gordo County](sources/soundex/ia1900-c563-p1886-jesse-37-cerro-gordo.jpg)
+
+### 120 · 1900 (index) · Iowa C-563 — Jessie F Conrad, 42, Ringgold County
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/ia1900-c563-p1887-jessie-f-42-ringgold.jpg`](sources/soundex/ia1900-c563-p1887-jessie-f-42-ringgold.jpg)  
+**Source:** S313 · C382 · C383
+
+White head, February 1858, age 42, born Indiana, Clinton Township. Wife Alice L, February 1859, age 41, Iowa. The Jessie head immediately after Jesse, 37. Next cards are Joe.
+
+![Iowa C-563 — Jessie F Conrad, 42, Ringgold County](sources/soundex/ia1900-c563-p1887-jessie-f-42-ringgold.jpg)
+
+### 121 · 1900 (index) · Kansas C-563 — Jay J Conrad, 27, Brown County
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/ks1900-c563-p1872-jay-j-27-brown.jpg`](sources/soundex/ks1900-c563-p1872-jay-j-27-brown.jpg)  
+**Source:** S314 · C384 · C385
+
+White head, March 1873, age 27, born Indiana, Horton. Wife Mable, July 1876, age 23, Iowa. Age matches 1910 Jesse, but the given name is Jay and the nativity is Indiana. James F precedes; John follows. No Jesse head on the Kansas 1900 C-563 reel.
+
+![Kansas C-563 — Jay J Conrad, 27, Brown County](sources/soundex/ks1900-c563-p1872-jay-j-27-brown.jpg)
+
+### 122 · 1900 (index) · Oklahoma C-563 — Jessie C Conrad, 58, Custer County
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/ok1900-c563-p2525-jessie-c-58-custer.jpg`](sources/soundex/ok1900-c563-p2525-jessie-c-58-custer.jpg)  
+**Source:** S315 · C386 · C387
+
+White head, February 1842, age 58, born Missouri, Grant Township. Wife Melora, February 1850, age 50, Missouri; Missouri-born children into 1891. The only Jessie/Jesse Conrad head in the Oklahoma 1900 C-563 body. Age and an intact older household fail vs 1910 Jesse Conrad.
+
+![Oklahoma C-563 — Jessie C Conrad, 58, Custer County](sources/soundex/ok1900-c563-p2525-jessie-c-58-custer.jpg)
+
+### 123 · 1900 (index) · Texas C-563 — J-tab divider
+
+**Role:** Context  
+**File:** [`sources/soundex/tx1900-c563-p1-j-divider.jpg`](sources/soundex/tx1900-c563-p1-j-divider.jpg)  
+**Source:** S311 · C377
+
+Handwritten divider: Texas 1900, C-563, J. The Texas 1900 C-563 J-window begins on the next leaves. Combined with Plate 116, the run has no Jesse Conrad head.
+
+![Texas C-563 — J-tab divider](sources/soundex/tx1900-c563-p1-j-divider.jpg)
 
 ## 1910 — Soundex, Peebles test, and Sturgeon ED 99
 
