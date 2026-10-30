@@ -719,3 +719,39 @@ research/dora-ella-newnam/sources/census/1880-lee-ky-ed59-sheet43-p768-caroline-
   sha256: c531b5813e98ce64cbb97229a49249f64b009ef92e62f58da0eea2421d49f483
   format: text extract, 1,382 bytes
   check: Burns not on IA; KHS/KDLA reels; eCCLIX paid; Trails 1840 gap; I Dream 404
+/workspace/research/dora-ella-newnam/sources/census/1870-owsley-travrest-p15-hdr.jpg
+  sha256: d6e470a785b45bf569ab651f7e474ce7aceb6e1fabf24df3e8527c062cba14c3
+  format: JPEG crop, 2400x420px
+  check: Travellers Rest 17 Jun 1870 header; sheet after Page 14 stamp 348
+/workspace/research/dora-ella-newnam/sources/census/1870-owsley-travrest-p15-hh134-harrison.jpg
+  sha256: 417784a2548bffcdc21e4ea3d5a489463e358b046baf2308b5f02b5c54170810
+  format: JPEG crop, 2200x1471px
+  check: dw 134/131 Newman Harrison 53 + Susan 47; no Henry ~25
+/workspace/research/dora-ella-newnam/sources/census/1870-lee-beattyville-p315a-hdr.jpg
+  sha256: dc04c7b037a328ecc7ba4982944d0aad47b702ea2d6a37d8d8a25da6a2acc33e
+  format: JPEG crop, 2400x426px
+  check: Town of Beattyville 8 Aug 1870 stamp 315 Page 3
+/workspace/research/dora-ella-newnam/sources/census/1870-lee-beattyville-p315a-hh19-henry.jpg
+  sha256: 0b643d163db8e35041e100fbe06a1559b9277d315a91c0e943d7e8d6f99f53e1
+  format: JPEG crop, 5062x1086px
+  check: dw 19/19 Newman Henry 24 + Mary 23 + Ellen 5 F + Millia 3 + John 8/12
+/workspace/research/dora-ella-newnam/sources/indexes/lee-1870-p315a-beattyville.html
+  sha256: 23bd6bcd9723580dccc992f5bad945cf4f9711b3329d63b7a1e42c61899debf8
+  format: HTML, 30,811 bytes
+  check: Kendrick 315a; Ellen sex M withdrawn vs original F
+/workspace/research/dora-ella-newnam/sources/indexes/lee-1870-p307b-beattyville.html
+  sha256: d5d7612bac00c80ea8f5b9a5e789c10774a3bdc75057e2697665bf5bf3268756
+  format: HTML, 31,673 bytes
+  check: Daniel Newman 22 in Debby Brandenburg hh 23
+/workspace/research/dora-ella-newnam/sources/indexes/lee-1870-p314b-beattyville.html
+  sha256: cfe938665139d404ad8fcc2cda8510b7c423d8935d31f1e3c707a2a4cc74b84b
+  format: HTML
+  check: Town of Beattyville page 2; context only
+/workspace/research/dora-ella-newnam/sources/indexes/owsley-1880-buckcreek-henry-newnam-extract.txt
+  sha256: f5e28924fc17c939a139418490ec096d08d2709c5c5325174e4c3e30e29e6898
+  format: text extract, 3,580 bytes
+  check: hh 74/77 Henry NEWNAM 34 + Mary 33 + Ellen F 14 + Milla A 12
+/workspace/research/dora-ella-newnam/sources/indexes/carter-kygenweb-newman-henry-stewart-extract.txt
+  sha256: 20eb07d30ffde80a27c9985a59dee3162974ac7dea08d8059715b9df4a034d24
+  format: text extract, 338 bytes
+  check: Carter isolate; not merged with C550

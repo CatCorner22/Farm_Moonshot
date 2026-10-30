@@ -1,6 +1,6 @@
 # Source-image gallery: Dora Ella Newnam Stone
 
-One hundred eleven numbered plates (JPEG/PNG captures from NARA microfilm via Internet Archive, plus header and household crops). Plates **7g–7j** are the 1860 Owsley and 1880 Lee Gray originals added in passes 39–40. Plates **7k–7z** and **8a–8f** are the later 1850–1860 Owsley/Breathitt/Madison isolations, including Harrison Newman with Elias aged eight, H.H. Newman with Elias aged eighteen, and Giles Mays at one month and eleven. They are ordered by **the date of the census they record or index**, not by the date the film was scanned. Plates **1a–2c**, **7a–7c**, **55b–55c**, and the 1880 G-600 cards were added in passes 34–37.
+One hundred fourteen numbered plates (JPEG/PNG captures from NARA microfilm via Internet Archive, plus header and household crops). Plates **7g–7j** are the 1860 Owsley and 1880 Lee Gray originals added in passes 39–40. Plates **7k–7z** and **8a–8f** are the later 1850–1860 Owsley/Breathitt/Madison isolations, including Harrison Newman with Elias aged eight, H.H. Newman with Elias aged eighteen, and Giles Mays at one month and eleven. They are ordered by **the date of the census they record or index**, not by the date the film was scanned. Plates **1a–2c**, **7a–7c**, **55b–55c**, and the 1880 G-600 cards were added in passes 34–37.
 
 Soundex and Miracode cards sit with the census year they index, immediately after any original population schedules for that year.
 
@@ -63,6 +63,8 @@ Diplomatic transcriptions: [`08-transcriptions.md`](08-transcriptions.md). Citat
 | 8d | 9 July 1860 | FAN | [Owsley Page 54 — H.H. Newman, 44, and Elias, 18](sources/census/1860-owsley-pdfp353-hh364-hh-newman.jpg) |
 | 8e | 9 July 1860 | FAN | [Owsley PDF 354 — Andrew Mays, 31, and Giles, 11](sources/census/1860-owsley-pdfp354-andrew-giles.jpg) |
 | 8f | 10–11 July 1860 | FAN | [Owsley Pages 59–60 — John Newnam, 68, Delaware, and Harrison, 15](sources/census/1860-owsley-pdfp358-john68-lear.jpg) |
+| 8g | 17 June 1870 | FAN | [Travellers Rest — Harrison Newman, 53](sources/census/1870-owsley-travrest-p15-hh134-harrison.jpg) |
+| 8h | 8 August 1870 | FAN | [Beattyville — Newman, Henry, 24](sources/census/1870-lee-beattyville-p315a-hh19-henry.jpg) |
 | 8 | 13 Jun 1900 | Rejected same-name | [Douglas County, Missouri — Thomas and Nancy E. Stone](sources/census/1900-douglas-mo-ed159-stone-sheet.jpg) |
 | 9 | 13 Jun 1900 | Rejected same-name | [Douglas County Stone household (crop)](sources/census/1900-douglas-mo-ed159-stone-hh-crop.jpg) |
 | 10 | 1900 (index) | Rejected same-name | [Missouri S-350 — Thomas Stone, 44, Douglas County](sources/soundex/mo1900-s350-p1678-stone-thomas-44-douglas.jpg) |
@@ -1299,6 +1301,30 @@ Dwelling **407/407**, Proctor: John Newnam, 68, farmer, $1200/$900, born **Delaw
 ![1860 Owsley Page 60 header](sources/census/1860-owsley-pdfp359-p60-hdr.jpg)
 
 ![1860 Owsley Page 60 — Harrison Newman 15](sources/census/1860-owsley-pdfp359-harrison15.jpg)
+
+### 8g · 17 June 1870 · Travellers Rest — Harrison Newman, 53
+
+**Role:** FAN (same house as 1860 H.H. 44; Henry ~25 absent)  
+**File:** [`sources/census/1870-owsley-travrest-p15-hh134-harrison.jpg`](sources/census/1870-owsley-travrest-p15-hh134-harrison.jpg)  
+**Source:** S458 · C542 · C543 · C544 · DOC070
+
+Dwelling **134/131**: Harrison Newman, 53, farmer, $160/$153; Susan, 47; John, 18; Marshay, 16, female; Mary, 14; Joseph, 12; Morris, 8; Lucy Ann, 5; Hiram, 2; Sarah M., 2. No Henry of twenty-five.
+
+![1870 Travellers Rest page-15 header](sources/census/1870-owsley-travrest-p15-hdr.jpg)
+
+![1870 Travellers Rest — Harrison Newman 53](sources/census/1870-owsley-travrest-p15-hh134-harrison.jpg)
+
+### 8h · 8 August 1870 · Town of Beattyville — Newman, Henry, 24
+
+**Role:** FAN (PROBABLE the 1860 H.H. 15; not merged as proved)  
+**File:** [`sources/census/1870-lee-beattyville-p315a-hh19-henry.jpg`](sources/census/1870-lee-beattyville-p315a-hh19-henry.jpg)  
+**Source:** S460 · C550 · C551 · C553 · DOC071
+
+Dwelling **19/19**: Henry Newman, 24, works in a coal mine; Mary, 23, keeping house; Ellen, 5, female; Millia, 3; John, 8/12, born October. That is the 1880 Buck Creek house, proved from the 1880 transcript. It is not proved to be the 1860 boy.
+
+![1870 Beattyville stamped 315 header](sources/census/1870-lee-beattyville-p315a-hdr.jpg)
+
+![1870 Beattyville — Newman, Henry, 24](sources/census/1870-lee-beattyville-p315a-hh19-henry.jpg)
 
 ## Pass 50 note — cemetery overview (not a numbered plate)
 

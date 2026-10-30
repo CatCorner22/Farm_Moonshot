@@ -1674,3 +1674,82 @@ Pass 2: **Abt. 1839** is not **27 Feb 1840**. Burns 1808–1851 and the KHS/KDLA
 ### Facts extracted → claim IDs
 - Authored 1839 vs 1840 → C535
 - Finding aids / remaining gap → C536
+
+## DOC070 — 1870 U.S. census, Travellers Rest, Owsley Co., Harrison Newman hh 134 (original)
+
+- Header: `sources/census/1870-owsley-travrest-p15-hdr.jpg` SHA-256 `d6e470a785b45bf569ab651f7e474ce7aceb6e1fabf24df3e8527c062cba14c3` (2400×420)
+- Household: `sources/census/1870-owsley-travrest-p15-hh134-harrison.jpg` SHA-256 `417784a2548bffcdc21e4ea3d5a489463e358b046baf2308b5f02b5c54170810` (2200×1471)
+- Provenance: IA `populationschedu0494unit` jp2 `_0090.jp2` (the sheet immediately after Page **14** / stamp **348** / jp2 `_0089`, already DOC033). **Image seen.** Two-pass.
+
+### Diplomatic
+
+> Travellers Rest Precinct, County of **Owsley**, **17th** day of June **1870**. Post Office **Travellers Rest**. A. J. Herd.
+
+> **133/130** · **Venable, Joseph L** · **34** · M · W · Farmer · Tennessee
+> — **Lucy Ann** · **34** · F · W · Keeping House · Virginia
+> — **Nancy A** · **14** · F · W
+> — **Mary C** · **10** · F · W
+> — **William L** · **4** · M · W · Kentucky
+> — **James T** · **1** · M · W
+
+> **134/131** · **Newman, Harrison** · **53** · M · W · Farmer · realty **160** · personal **153** · Kentucky (ditto)
+> — **Susan** · **47** · F · W · Keeping House
+> — **John** · **18** · M · W · Farm Labor
+> — **Marshay** · **16** · F · W
+> — **Mary** · **14** · F · W
+> — **Joseph** · **12** · M · W · Farm Labor
+> — **Morris** · **8** · M · W
+> — **Lucy Ann** · **5** · F · W
+> — **Hiram** · **2** · M · W
+> — **Sarah M.** · **2** · F · W
+
+Pass 2: **No** Henry / H.H. ~25 in this house. Marshay’s sex is **F**. Given name **Marshay**, not Marshall. Hiram, not Huram. Written page number on this sheet is a **15/20** form; dwelling numbers continue **133–134** from Page **14**’s **131–132**, so the sheet sequence is not in doubt.
+
+### Facts extracted → claim IDs
+- Harrison 53 house → C542
+- Same household as 1860 H.H. 44 → C543
+- Henry ~25 absent → C544
+- Marshay ≠ Marshall V → C547
+- Decatur 24 on the same sheet → C546
+
+## DOC071 — 1870 U.S. census, Town of Beattyville, Lee County, Kentucky, stamped 315
+- Header: `sources/census/1870-lee-beattyville-p315a-hdr.jpg` SHA-256 `dc04c7b037a328ecc7ba4982944d0aad47b702ea2d6a37d8d8a25da6a2acc33e` (2400×426)
+- Household: `sources/census/1870-lee-beattyville-p315a-hh19-henry.jpg` SHA-256 `0b643d163db8e35041e100fbe06a1559b9277d315a91c0e943d7e8d6f99f53e1` (5062×1086)
+- Provenance: IA `populationschedu0481unit` jp2 `_0021.jp2` (jp2 SHA-256 `dd5d693f7b83574a413248a07aa5b83e77b10ca77f29565a606232dcd1e93b24`; **not committed**). **Image seen.** Two-pass.
+
+### Diplomatic
+
+> Page No. **3**. Inhabitants in **Town of Beattyville**, in the County of **Lee**, State of **Kentucky**, enumerated by me on the **8** day of **August**, 1870. Post Office: **Beattyville**. Stamp **315**. Chas. D. Tyler.
+
+> **19/19** · **Newman, Henry** · **24** · M · W · works in coal Mine · nativity ditto Kentucky
+> — **Mary** · **23** · F · W · Keeping House
+> — **Ellen** · **5** · F · W
+> — **Millia** · **3** · F · W
+> — **John** · **8/12** · M · W · month born **Oct**
+
+Pass 2: Surname **Newman** (not Newnam). Ellen’s sex is **F** (Kendrick **M** withdrawn). Given name **Millia**, not Millie. Occupation **works in coal Mine**. No realty/personal amounts on this house. 1870 does not state relationships.
+
+### Facts extracted → claim IDs
+- Henry 24 house → C550
+- vs 1860 H.H. 15 → C551
+- Millia ≠ Millie Tincher → C552
+- Ellen F → C553
+
+## DOC072 — 1880 Owsley Buck Creek, Henry Newnam 34 (Kendrick)
+- Extract: `sources/indexes/owsley-1880-buckcreek-henry-newnam-extract.txt` SHA-256 `f5e28924fc17c939a139418490ec096d08d2709c5c5325174e4c3e30e29e6898`
+- Page: USGenNet `census/1880/buckcreek.html`; ED **80**, 6th Precinct, enum. **1 Jun 1880**, Robert W. Minter. **Transcription only.** Original **not seen**.
+
+### Abstract (not diplomatic of handwriting)
+
+> **74/77 Henry NEWNAM** m w 34 md farm laborer KYKYKY
+> **Mary** wife f w 33 md keeping house **KYEngKY**
+> **Ellen F.** dau f w 14 s at home KYKYKY
+> **Milla A.** dau f w 12 s at home KYKYKY
+> Chalista dau f w 7 s
+> Laura B. dau f w 4 s
+> Arthur son m w 2 s
+
+### Facts extracted → claim IDs
+- Same house as 1870 C550 → C555
+- Infant John absent → C556
+- Later children FAN → C557
