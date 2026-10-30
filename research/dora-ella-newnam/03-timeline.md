@@ -119,5 +119,10 @@ Place as it was *at the date*; modern equivalent in brackets. Flag impossibiliti
 | **9 Dec 1970** | — | FAN: **Grant Newnam** of Lee d. Fayette age 93; b. **10 Jun 1876**; vol **060** cert **29556**. Same man as 1899/1920 **PROVEN** | Fayette / Lee Co., KY | C376 C378 | S341 S347 |
 | **7 Jun 1973** / **24 Oct 1987** | — | FAN: **Shelby Newman** 80 / **Grace B. Newman** 89, Madison — **PROBABLE** Ladona’s parents | Madison Co., KY | C402 C403 | S341 |
 | **25 Jan 1990** | — | FAN: **Ivan Newnam**, s/o Grant × Martha, d. (NUMIDENT; deceased) | Kentucky | C397 | S354 |
+| **14 July 1870** | — | FAN: **Newman, Daniel**, 22, farm labourer, Beattyville hh **23** in Debby Brandenburg’s house — **POSSIBLE** later Daniel | Beattyville, Lee Co., KY | C446 | S376 |
+| **22 June 1900** | — | FAN: Owsley Buck Creek hh **324/326** widow **Minerva NEWNAM** Jan 1850 9-6; **Callie** Jan 1885; **Evert** Nov 1886; **David F.** Feb 1889. Daniel already dead | Buck Creek, Owsley Co., KY | C431 C432 | S373 |
+| Apr 1910 | — | FAN: Buck Creek **134** John 31 + Lillie; **158** Grant 21 + Dona (**not** 1876 Grant); **159** Everet 23 + sis Susan. **141** Elizabeth + Pearl unchanged | Buck Creek, Owsley Co., KY | C438 C439 C440 C441 | S375 |
+| **20 Nov 1915** | — | FAN: **John NEWMAN**, 34, widower, b. Owsley, parents **Dan Newman & Mininerva Venable**, × **Cora BRANDENBURG**, 22 | Lee Co., KY | C436 C437 | S374 |
+| **13 Oct 1947** | — | FAN reject: Sarah Newman d. Lee, parents **John Damrel × Elizabeth Angel** — **not** Sarah Veneable | Lee Co., KY | C444 | S379 |
 
 **Impossibility flags:** None. Mother ~29 at Dora’s 1871 birth (Mary b. 1842). Dora age 14 at marriage is legal/period-possible (KY) though young; 1880 age 8 corroborates. Two children born before Coy in the 1886–1889 window would have Dora aged 15–18 — possible. No event after 23 Aug 1926 is attributed to her.

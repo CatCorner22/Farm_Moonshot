@@ -1,7 +1,7 @@
 # Source index — Dora Ella Newnam Stone
 
 Working inventory of **saved local copies** in `sources/` plus the authored Word biography.  
-Full file list (rebuilt after pass 65): [`sources/SOURCE-INVENTORY.tsv`](sources/SOURCE-INVENTORY.tsv) (path, bytes, SHA-256 prefix).
+Full file list (rebuilt after pass 66): [`sources/SOURCE-INVENTORY.tsv`](sources/SOURCE-INVENTORY.tsv) (path, bytes, SHA-256 prefix).
 
 **Access labels:** `image seen` · `index only` · `transcription only` · `catalog only` · `OCR text` · `not yet examined`.
 
@@ -112,6 +112,17 @@ Captured this session: **30 Oct 2026**. Earlier plates remain in `sources/census
 | S370 | `sources/vital/lee-deaths-1961-callie-spicer-extract-2026-10-30.txt` | 2026-10-30 | USGenNet Lee deaths 1961 | https://usgennet.org/usa/ky/county/lee/deaths/1961.html | Callie Spicer extract: 2 Jan 1886 – 5 Nov 1961; Daniel Newnam × Sarah Veneable | **C408 C409 C430** | transcription only |
 | S371 | `sources/vital/lee-deaths-1966.html` · `lee-deaths-1966-spicer-nil-extract-2026-10-30.txt` | 2026-10-30 | USGenNet Lee deaths 1966 | https://usgennet.org/usa/ky/county/lee/deaths/1966.html | Nil Robert Spicer / Grant / Newnam | **C416** | transcription only |
 | S372 | *(Lee deaths 1970 URL 404)* | 2026-10-30 | USGenNet | https://usgennet.org/usa/ky/county/lee/deaths/1970.html | 404; Grant died Fayette | **C428** | not examined |
+| S373 | `sources/census/owsley-1900-buckcreek.html` · `owsley-1900-buckcreek-minerva-extract-2026-10-30.txt` | 2026-10-30 | USGenNet 1900 Owsley Buck Creek | https://usgennet.org/usa/ky/county/owsley/census/1900/buckcreek.html | Hh 324/326 widow Minerva + Callie / Evert / David F. | **C431–C435 C454** | transcription only |
+| S374 | `sources/marriages/lee-marrbook11.html` · `lee-book11-john-cora-1915-extract-2026-10-30.txt` | 2026-10-30 | USGenNet Lee Book 11 | https://usgennet.org/usa/ky/county/lee/marriage/marrbook11.html | John × Cora 20 Nov 1915; parents Dan × Mininerva Venable | **C436 C437** | transcription only |
+| S375 | `sources/census/owsley-1910-buck.html` · `owsley-1910-buck-newman-extract-2026-10-30.txt` | 2026-10-30 | USGenNet 1910 Owsley Buck Creek | https://usgennet.org/usa/ky/county/owsley/census/1910/buck1910.html | John+Lillie 134; Grant 21 158; Everet 159; Elizabeth+Pearl 141 | **C438–C441 C451** | transcription only |
+| S376 | `sources/census/lee-1870-307b.html` · `lee-1870-307b-daniel-extract-2026-10-30.txt` | 2026-10-30 | USGenNet 1870 Lee p.307b | https://usgennet.org/usa/ky/county/lee/census/1870/307b.HTM | Daniel 22 in Debby Brandenburg hh 23 | **C446** | transcription only |
+| S377 | `sources/census/owsley-1900-dist2.html` · `owsley-1900-dist2-henry-h-reject-2026-10-30.txt` | 2026-10-30 | USGenNet 1900 Owsley Dist. 2 | https://usgennet.org/usa/ky/county/owsley/census/1900/dist2.html | Henry H. × Minverva — reject vs widow Minerva | **C445** | transcription only |
+| S378 | `sources/census/owsley-1880-sturgeon.html` · `owsley-1880-booneville.html` · `owsley-1880-newman-nil-extract-2026-10-30.txt` | 2026-10-30 | USGenNet 1880 Owsley | https://usgennet.org/usa/ky/county/owsley/census/1880/sturgeon.html | Nil Newman household those precincts | **C447** | transcription only |
+| S379 | `sources/vital/lee-deaths-1947.html` · `lee-deaths-1947-sarah-newman-damrel-reject-2026-10-30.txt` | 2026-10-30 | USGenNet Lee deaths 1947 | https://usgennet.org/usa/ky/county/lee/deaths/1947.html | Sarah Newman 13 Oct 1947 = Damrel — reject | **C444** | transcription only |
+| S380 | `sources/vital/lee-deaths-1911-pass66.html` … `lee-deaths-1938-pass66.html` · `lee-deaths-1911-1938-daniel-nil-extract-2026-10-30.txt` | 2026-10-30 | USGenNet Lee deaths 1911–1938 | https://usgennet.org/usa/ky/county/lee/deaths/ | Nil Daniel Newman/Newnam decedent | **C448** | transcription only |
+| S381 | `sources/military/gt-lee-wwi-cards-pass66.html` · `gt-lee-wwi-cards-pass66-nil-extract-2026-10-30.txt` | 2026-10-30 | Genealogy Trails Lee WWI | https://genealogytrails.com/ken/lee/ww1draft.html | Nil Newnam/Newman/McCoy (page later 404) | **C449** | transcription only |
+| S382 | `sources/authored/genopro-*-lead.html` · `genopro-daniel-sarah-minerva-lead-extract-2026-10-30.txt` | 2026-10-30 | GenoPro compiled tree | https://familytrees.genopro.com/beltster/marshall/ | Authored Sarah Minerva 16 Jan 1850; Florence-as-Cora DISPROVED | **C443 C455** | authored lead |
+| S383 | `sources/marriages/lee-books-john-lillie-nil-extract-2026-10-30.txt` | 2026-10-30 | USGenNet Lee Books 3–15 | https://usgennet.org/usa/ky/county/lee/marriage/ | Nil John × Lillie ~1901 | **C452** | transcription only |
 
 ## Word biography provenance
 
@@ -143,4 +154,6 @@ See [`sources/authored/PROVENANCE.md`](sources/authored/PROVENANCE.md). Drive se
 
 **Thomas / T. A. Stone:** Thomas, Tom, T. A., T A × Stone, Store, Stowe (rejects already logged).
 
-Exact strings in `02-log.md` **L343–L352**, **L380–L397**, **L398–L411**, and **L412–L440**.
+Exact strings in `02-log.md` **L343–L352**, **L380–L397**, **L398–L411**, **L412–L440**, and **L441–L454**.
+
+**Pass 66 (Daniel / Minerva / John / Evert):** Minerva, Mininerva, Sarah × Veneable/Venable; Daniel, paniel, raniel; David, pavid, ravid; Evert, Everett, Everet × Newnam/newman/newnarn. Soundex **N550**. John × Lillie / Cora. Grant 21 vs Grant 1876.

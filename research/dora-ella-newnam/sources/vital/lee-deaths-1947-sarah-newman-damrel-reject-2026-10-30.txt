@@ -1,0 +1,20 @@
+Lee County deaths 1947 year-file (USGenNet).
+Local copy: sources/vital/lee-deaths-1947.html
+URL: https://usgennet.org/usa/ky/county/lee/deaths/1947.html
+Accessed / extracted: 30 Oct 2026. Transcription only.
+
+Sarah Newman
+  79 yrs 1 mos 6 ds
+  b. 7 Sep 1868 Lee Co
+  d. 13 Oct 1947
+  cemetery/column: Damrel
+  marital: single
+  father: John Damrel
+  mother: Elizabeth Angel
+
+REJECT vs Sarah Veneable / Minerva of C408/C431:
+  maiden Damrel; birth 1868 (Minerva of 1900 was Jan 1850); listed single;
+  this is the Damrell line already attached to Shelby Newman (C309), not Daniel’s wife.
+
+Claims: C444
+Source: S379

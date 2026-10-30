@@ -1,0 +1,19 @@
+1870 U.S. census, Lee County, Kentucky, Beattyville Precinct, p. 307b.
+Enumerated 14 July 1870 by Chas. D. Tyler. NARA M593-481.
+Transcribed on USGenNet (local copy sources/census/lee-1870-307b.html).
+URL: https://usgennet.org/usa/ky/county/lee/census/1870/307b.HTM
+Accessed / extracted: 30 Oct 2026. Transcription only.
+
+Household 23/23:
+  Brandenburg  Debby     61 M W keeping house  KY
+  Brandenburg  Samuel    27 M W farmer         KY  (real $3000 / pers $3000)
+  Brandenburg  Sousan    15 F W                KY
+  Newman       Daniel    22 M W farm labourer  KY  (cannot write; male 21+)
+
+One identifier only (given name Daniel + Newman + Lee/Owsley cluster + age ~22 ⇒ b. ~1848).
+POSSIBLE the later husband of Minerva / father of Callie, John, Evert — not merged.
+
+Index confirmation: lee-1870-index.html “Newman, Daniel” → 307b.HTM.
+
+Claims: C446
+Source: S376

@@ -1,0 +1,22 @@
+Lee County death year-files 1911–1938 (USGenNet), re-read 30 Oct 2026 (pass 66).
+Local copies: sources/vital/lee-deaths-1911-pass66.html … lee-deaths-1938-pass66.html
+plus already-held 1915/1926/1928 pages from earlier passes.
+Index page: sources/vital/lee-kdi-n-pass66.html
+  https://usgennet.org/usa/ky/county/lee/deaths/kdi/n.html
+
+Exact strings grepped: Daniel, Newman, Newnam, Minerva, Mininerva, Veneable, Venable.
+
+Result: **no Daniel Newman / Newnam decedent** in Lee 1911–1938 year files.
+N-index (1911–1929) likewise has no Daniel Newnam row.
+
+Expected if Daniel was already dead by 22 June 1900 (C432).
+Does **not** prove a statewide 1911–1938 Kentucky Death Index read — only these Lee year pages.
+
+Known Newnam collisions already claimed elsewhere (do not reopen):
+  1914 Cordelia Abner, parents Sam Newnam × Elza Newnam (C093)
+  1915 stillborn female, parents Grant × Martha (C351)
+  1926 Callie Moore / Dorothy (C355–C357)
+  1928 Frank of St. Helens (C353)
+
+Claims: C448
+Source: S380

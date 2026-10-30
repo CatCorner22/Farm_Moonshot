@@ -1,0 +1,16 @@
+Genealogy Trails, Lee County Kentucky WWI draft-card transcript.
+Local copy: sources/military/gt-lee-wwi-cards-pass66.html
+URL attempted: https://genealogytrails.com/ken/lee/ww1draft.html
+Note: the first-page URL now 404 on a later GET; this saved HTML is the cards table captured 30 Oct 2026 (pass 66).
+Companion landing: sources/catalog/ldsgenealogy-lee-military-pass66.html
+  https://ldsgenealogy.com/KY/Lee-County-Military-Records.htm (catalog only; FS 1146342 unread)
+
+Exact strings grepped in the saved table: Newnam, Newman, McCoy, Mc Coy, Luther (as surname Newnam).
+
+Result: **nil** Newnam / Newman / McCoy registrant.
+Luther hits on the page are Brandenburg, Luther and Underwood, Luther — other men.
+
+Extends C240 / C241 / C321. Images of FS 1146342 and M1509 KY45/24/74 remain unread (B069 / B047).
+
+Claims: C449
+Source: S381

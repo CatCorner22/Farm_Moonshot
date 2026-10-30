@@ -145,6 +145,20 @@ Exact strings logged **L412–L426**.
 
 Exact strings logged **L427–L440**.
 
+## Name-variant storm (pass 66, `search_variants.py`)
+
+**Minerva / Sarah / Mininerva Newnam** — Minerva, Mininerva, Minverva (Dist. 2 clerk), Sarah × Newnam/newman + Veneable/Venable (Soundex V514). Also **Jan 1850**, **Buck Creek**, **9-6**. Reject: Dist. 2 Henry H. × Minverva; 1947 Sarah Damrel.
+
+**Daniel Newnam** — Daniel, Dan, paniel, raniel × Newnam/newman/newnarn. Also **1870 Beattyville**, **dead before 22 June 1900**. Not Elias.
+
+**Evert / Everett / Everet** — Evert, Everett, Everet, Evertt × Newnam. 1900 Nov 1886; 1910 age 23; 1939 age 50 vs KDI 53.
+
+**David F. / Frank** — David, Dave, pavid × Newnam; Frank, Francis, Franklin of Berea. POSSIBLE only. Not 1928 St. Helens; not Grant.
+
+**John × Lillie / Cora** — John, Jon, Jno × Newnam/newman + Lillie/Lilly/Lilla + Cora Brandenburg. Lee Books 3–15 nil Lillie; Book 11 Cora 20 Nov 1915.
+
+Exact strings logged **L441–L454**.
+
 ## Agent SDK / GitHub channel
 
 Inspected 30 Oct 2026 (**L351**): this repository has **no** `package.json`, **no** `@grok/agent-sdk`, **no** `bot/` directory. GitHub channel `bot/channels/github.ts` is **n/a** and was **not** authored. Project subagent: `.cursor/agents/dora-genealogy-detective.md`.
