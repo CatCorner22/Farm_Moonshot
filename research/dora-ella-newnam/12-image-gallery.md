@@ -1,6 +1,6 @@
 # Source-image gallery: Dora Ella Newnam Stone
 
-Sixty-seven JPEG images captured from NARA microfilm (via Internet Archive) during this case. They are ordered by **the date of the census they record or index**, not by the date the film was scanned.
+Seventy-nine JPEG/PNG images captured from NARA microfilm (via Internet Archive) during this case. They are ordered by **the date of the census they record or index**, not by the date the film was scanned. Plates **1a–2c**, **7a–7c**, **55b–55c**, and the 1880 G-600 cards were added in passes 34–37.
 
 Soundex and Miracode cards sit with the census year they index, immediately after any original population schedules for that year.
 
@@ -19,6 +19,11 @@ Diplomatic transcriptions: [`08-transcriptions.md`](08-transcriptions.md). Citat
 
 | # | Record date | Role | Image |
 |---|---|---|---|
+| 1a | 24 Jun 1870 | FAN | [Proctor Precinct, stamped 333 — James Brandenburg; Mary White; William Gray](sources/census/1870-lee-ky-proctor-p333a-james-brandenburg-william-gray.jpg) |
+| 1b | 24 Jun 1870 | FAN | [Dwelling 70 crop — White, Mary 16; Gray, William 23](sources/census/1870-lee-ky-proctor-p333a-dw70-crop.jpg) |
+| 2a | 28 Jun 1870 | FAN | [Sturgeon Precinct, 336b — Gray, Silas](sources/census/1870-lee-ky-sturgeon-p336b-silas-gray.jpg) |
+| 2b | 28 Jun 1870 | FAN | [Silas Gray household crop](sources/census/1870-lee-ky-sturgeon-p336b-silas-crop.jpg) |
+| 2c | 30 Jun 1870 | FAN | [Stamped 337 — Silas household continuation](sources/census/1870-lee-ky-sturgeon-p337a-silas-continuation.jpg) |
 | 1 | 29 Jun 1870 | Context | [Sturgeon Precinct, page 3 (stamped 337)](sources/census/1870-lee-ky-sturgeon-p337a-context.jpg) |
 | 2 | 29 Jun 1870 | Family hit | [John, Elizabeth, and infant Samuel Newman](sources/census/1870-lee-ky-sturgeon-p337b-john-elizabeth-samuel.jpg) |
 | 3 | 1 Jun 1880 | Family hit | [John and Mary Newnam; Samuel, aged 11](sources/census/1880-lee-ky-ed59-sheet1-p725-john-samuel.jpg) |
@@ -26,6 +31,10 @@ Diplomatic transcriptions: [`08-transcriptions.md`](08-transcriptions.md). Citat
 | 5 | 5 Jun 1880 | Family hit | [Elias and Mary Newnam; Dora, aged 8](sources/census/1880-lee-ky-ed59-sheet6-p730-elias-dora.jpg) |
 | 6 | 1880 (index) | Family hit | [Soundex card — Elias Newnam household](sources/soundex/ky1880-n550-p2105-elias-newnam.jpg) |
 | 7 | 1880 (index) | Family hit | [Soundex continuation — Dora and Catharine](sources/soundex/ky1880-n550-p2106-elias-continuation-dora.jpg) |
+| 7a | 1880 (index) | Rejected same-name | [G-600 — Elisha Gray, 28, Lee ED 59 sheet 28](sources/soundex/ky1880-g600-p4850-elisha-gray-lee-ed59.jpg) |
+| 7b | 1880 (index) | FAN | [G-600 — Caroline Gray, 44, Virginia, Lee ED 59 sheet 43](sources/soundex/ky1880-g600-p4780-caroline-gray-lee-ed59.jpg) |
+| 7c | 1880 (index) | Rejected same-name | [G-600 — William Gray, 45, Lewis County — not Lee](sources/soundex/ky1880-g600-p0667-william-gray-lewis-rejected.jpg) |
+| 7d | 1 Jun 1900 | FAN | [Sturgeon ED 52 sheet 5 B — William Gray, 53, dwelling 84](sources/census/1900-lee-ky-ed52-sh5b-hh84-william-gray.jpg) |
 | 8 | 13 Jun 1900 | Rejected same-name | [Douglas County, Missouri — Thomas and Nancy E. Stone](sources/census/1900-douglas-mo-ed159-stone-sheet.jpg) |
 | 9 | 13 Jun 1900 | Rejected same-name | [Douglas County Stone household (crop)](sources/census/1900-douglas-mo-ed159-stone-hh-crop.jpg) |
 | 10 | 1900 (index) | Rejected same-name | [Missouri S-350 — Thomas Stone, 44, Douglas County](sources/soundex/mo1900-s350-p1678-stone-thomas-44-douglas.jpg) |
@@ -80,6 +89,8 @@ Diplomatic transcriptions: [`08-transcriptions.md`](08-transcriptions.md). Citat
 | 54 | Apr 1910 | Context | [Sturgeon ED 99 sheet 9B — Ancestry image 499 = this PDF page 568](sources/census/1910-po478-p0568-lee-sturgeon-ed99-sheet9b.jpg) |
 | 55 | Apr 1910 | Rejected same-name / FAN | [Sturgeon ED 99 sheet 13B — John H. Newman; Hardin Gray; Samuel Farmer](sources/census/1910-lee-ky-ed99-p576.jpg) |
 | 55a | 11 May 1910 | FAN (family hit of Louisa’s daughter) | [Hardin Gray and Vista household crop](sources/census/1910-lee-ky-ed99-sh13b-hardin-gray-crop.jpg) |
+| 55b | 11 May 1910 | FAN | [William Gray and Mary Jane household crop](sources/census/1910-lee-ky-ed99-sh13b-william-gray-crop.jpg) |
+| 55c | 3 May 1910 | Rejected same-name | [Crooked Creek ED 1 sheet 10 A — Rhodes, Henry C., and Dora M., 37, Missouri](sources/census/1910-bollinger-ed1-dora-e-stone-rejected.png) |
 | 56 | Jan 1920 | Rejected same-name | [Kentucky N-550 — Dora Newman, 29, Paducah](sources/soundex/ky1920-n550-p4201-dora-29-paducah-rejected.jpg) |
 | 57 | Jan 1920 | Rejected same-name | [Kentucky N-550 — Dora E. Newman, 10, Cumberland](sources/soundex/ky1920-n550-p4203-dora-e-10-cumberland-rejected.jpg) |
 | 58 | Jan 1920 | Negative search | [Kentucky N-550 — “E” tab after the Dora window](sources/soundex/ky1920-n550-p4205-e-tab-after-dora.jpg) |
@@ -90,6 +101,56 @@ Diplomatic transcriptions: [`08-transcriptions.md`](08-transcriptions.md). Citat
 ---
 
 ## 1870 — original population schedules
+
+### 1a · 24 Jun 1870 · Proctor Precinct, stamped 333 — James Brandenburg’s house
+
+**Role:** FAN (William Gray × Mary Jane White)  
+**File:** [`sources/census/1870-lee-ky-proctor-p333a-james-brandenburg-william-gray.jpg`](sources/census/1870-lee-ky-proctor-p333a-james-brandenburg-william-gray.jpg)  
+**Source:** S340 · S334 · C347 · C356 · C366 · DOC025
+
+Page No. 11, Proctor Precinct, 24 June 1870, Chas. D. Tyler, post office Proctor, stamped **333**. Dwelling **70/70**: Brandenburg, James, 62, farmer, realty **3000**; Nancy, 54; William, 26, farm labourer; Arnold, Martha, 15, Tennessee, housekeeper; **White, Mary, 16, domestic servant, Kentucky**; **Gray, William, 23, farm labourer, Kentucky**. Two months later this couple married in this house. Dwelling **75** on the same page is **Gray, David**, 37, with wife Louisa — a different man, not merged.
+
+![Proctor Precinct stamped 333 — James Brandenburg, Mary White, William Gray](sources/census/1870-lee-ky-proctor-p333a-james-brandenburg-william-gray.jpg)
+
+### 1b · 24 Jun 1870 · Dwelling 70 crop
+
+**Role:** FAN  
+**File:** [`sources/census/1870-lee-ky-proctor-p333a-dw70-crop.jpg`](sources/census/1870-lee-ky-proctor-p333a-dw70-crop.jpg)  
+**Source:** S340 · C356 · DOC025
+
+Lines 3–8. Mary White is a separate surname, not a Brandenburg daughter. William Gray is a labourer in the house, not a son of James.
+
+![Dwelling 70 crop — White, Mary 16; Gray, William 23](sources/census/1870-lee-ky-proctor-p333a-dw70-crop.jpg)
+
+### 2a · 28 Jun 1870 · Sturgeon Precinct, 336b — Gray, Silas
+
+**Role:** FAN (possible 1928 father of William; not merged)  
+**File:** [`sources/census/1870-lee-ky-sturgeon-p336b-silas-gray.jpg`](sources/census/1870-lee-ky-sturgeon-p336b-silas-gray.jpg)  
+**Source:** S341 · C348 · C357 · C358 · DOC026
+
+Page No. 2, 28 June 1870. Dwelling **13/13**: **Gray, Silas**, 54, farmer (not Silus); **Minerva**, 48, **female**, keeping house; Amelia 21; Elihu 19. William is not in this house. Kendrick’s given-name Silus and Minerva sex M are transcript slips.
+
+![Sturgeon 336b — Gray, Silas](sources/census/1870-lee-ky-sturgeon-p336b-silas-gray.jpg)
+
+### 2b · 28 Jun 1870 · Silas Gray household crop
+
+**Role:** FAN  
+**File:** [`sources/census/1870-lee-ky-sturgeon-p336b-silas-crop.jpg`](sources/census/1870-lee-ky-sturgeon-p336b-silas-crop.jpg)  
+**Source:** S341 · DOC026
+
+Lines 37–40, including the page footer. Neighbour dwelling 12 is Brandenburg, Jackson, 38 — not merged with James 62.
+
+![Silas Gray household crop](sources/census/1870-lee-ky-sturgeon-p336b-silas-crop.jpg)
+
+### 2c · 30 Jun 1870 · Stamped 337 — Silas household continuation
+
+**Role:** FAN  
+**File:** [`sources/census/1870-lee-ky-sturgeon-p337a-silas-continuation.jpg`](sources/census/1870-lee-ky-sturgeon-p337a-silas-continuation.jpg)  
+**Source:** S341 · C348 · DOC026
+
+Page No. 3, post office Proctor. John 18, Margret 16, Levi 14. The household ends here. No William.
+
+![Silas household continuation](sources/census/1870-lee-ky-sturgeon-p337a-silas-continuation.jpg)
 
 ### 1 · 29 Jun 1870 · Sturgeon Precinct, page 3 (stamped 337)
 
@@ -758,4 +819,66 @@ Original schedule, 12 January 1920, enumerator Harry L. Perkins. Dwelling 106: C
 Crop of lines 17–24. Dora is not in this house. Her father is. She is not in Coy’s house at Danville, Yell County, either. The 1920 hole remains.
 
 ![Burke household crop — E. T. Newman, grandfather](sources/census/1920-lee-ky-ed111-sh6a-burke-hh-crop.jpg)
+
+## Pass 34–37 additions (FAN originals and rejects)
+
+### 7a · 1880 (index) · Elisha Gray, 28, Lee ED 59 sheet 28
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/ky1880-g600-p4850-elisha-gray-lee-ed59.jpg`](sources/soundex/ky1880-g600-p4850-elisha-gray-lee-ed59.jpg)  
+**Source:** S328 · C342 · DOC029
+
+Soundex G-600. Wife M. Jane, 22; daughter Nancy, 1. Same district as Dora in 1880, not William × Mary J. (ages and children fail).
+
+![Elisha Gray Soundex card](sources/soundex/ky1880-g600-p4850-elisha-gray-lee-ed59.jpg)
+
+### 7b · 1880 (index) · Caroline Gray, 44, Virginia, Lee ED 59 sheet 43
+
+**Role:** FAN  
+**File:** [`sources/soundex/ky1880-g600-p4780-caroline-gray-lee-ed59.jpg`](sources/soundex/ky1880-g600-p4780-caroline-gray-lee-ed59.jpg)  
+**Source:** S329 · C343 · C350 · DOC030
+
+No William ~33 or Hardin ~4 in this house. Probable continuation of the 1870 Thomas Precinct Caroline.
+
+![Caroline Gray Soundex card](sources/soundex/ky1880-g600-p4780-caroline-gray-lee-ed59.jpg)
+
+### 7c · 1880 (index) · William Gray, 45, Lewis County
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/ky1880-g600-p0667-william-gray-lewis-rejected.jpg`](sources/soundex/ky1880-g600-p0667-william-gray-lewis-rejected.jpg)  
+**Source:** S330 · C344 · DOC032
+
+Lewis County, wife Maria, 36. Not Lee, not Mary J.
+
+![William Gray of Lewis County — rejected](sources/soundex/ky1880-g600-p0667-william-gray-lewis-rejected.jpg)
+
+### 7d · 1 Jun 1900 · Sturgeon dwelling 84 — William Gray, 53
+
+**Role:** FAN  
+**File:** [`sources/census/1900-lee-ky-ed52-sh5b-hh84-william-gray.jpg`](sources/census/1900-lee-ky-ed52-sh5b-hh84-william-gray.jpg)  
+**Source:** S315 · C326 · C332 · DOC027
+
+Original crop, ED 52 sheet 5 B. William, May 1847, age **53**, married 29 years — not age 84 (that number is the dwelling). Mary J., January 1854, 7-7. Mother-in-law Elizabeth Brandenburgh, December 1831. Hardin is dwelling 85 on the next lines; that nativity crop is held by a sibling PR and was not re-opened here.
+
+![Sturgeon dwelling 84 — William Gray](sources/census/1900-lee-ky-ed52-sh5b-hh84-william-gray.jpg)
+
+### 55b · 11 May 1910 · William Gray and Mary Jane — household crop
+
+**Role:** FAN  
+**File:** [`sources/census/1910-lee-ky-ed99-sh13b-william-gray-crop.jpg`](sources/census/1910-lee-ky-ed99-sh13b-william-gray-crop.jpg)  
+**Source:** S322 · C321 · C332 · DOC031
+
+Same sheet as Hardin (plate 55a). Dwelling 248 family 258: William, 60, married 40 years; Mary Jane, 56, 7-6. Columbus, 27, is the next head.
+
+![William Gray and Mary Jane household crop](sources/census/1910-lee-ky-ed99-sh13b-william-gray-crop.jpg)
+
+### 55c · 3 May 1910 · Rhodes, Henry C., and Dora M., 37, Missouri
+
+**Role:** Rejected same-name  
+**File:** [`sources/census/1910-bollinger-ed1-dora-e-stone-rejected.png`](sources/census/1910-bollinger-ed1-dora-e-stone-rejected.png)  
+**Source:** S321 · C338 · C323 · DOC028
+
+Crooked Creek Township, Bollinger County, Missouri, ED **1** sheet **10 A** — not Liberty ED 5. Husband **Rhodes**, not Stone. Wife **Dora M.**, 37, born **Missouri**, 6-6. A sibling label “Dora E. Stone” is a surname misread of this page. Not P001.
+
+![Crooked Creek ED 1 sheet 10 A — Rhodes household](sources/census/1910-bollinger-ed1-dora-e-stone-rejected.png)
 

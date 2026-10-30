@@ -268,7 +268,7 @@ Pass 1 (29 Oct) assigned fam **251** to Samuel Farmer and dw **218/257** to John
 | | Everett | Son | 3 | S | |
 | 248/258 | **Gray, William** | Head | 60 | M1 40 | FAN only (**C321**) |
 | | Mary Jane | Wife | 56 | M1 40 | 7/6 |
-| 249/259 | Gray, Columbus | Head | 17 | M1 2 | Not merged with the grandson in 258 |
+| 249/259 | Gray, Columbus | Head | **27** | M1 2 | Prior “17” on this Head line **withdrawn** (the 17-year-old is grandson Isaac Columbus in 258). → **C321** |
 
 **No** Louisa / Eliza / mother-in-law in Hardin’s house or Samuel Farmer’s. → C317 C182.
 
@@ -541,3 +541,231 @@ Pass 2: Surname **NEWNAN**; ED **99** (Sturgeon). Head **30** male. Already insi
 > ENUMERATED WITH · NEWMAN PERCILLA H W
 
 Pass 2: First given names **Ellen / Elliott / Ellis / Elsie / Emerald** — alphabetical after Ella. **No** further Ella card. Ellen **66** race **B** → C313. Combined with DOC019 → C301.
+
+## DOC025 — 1870 U.S. census, Proctor Precinct, Lee Co. KY, stamped 333 (original)
+
+- Image: `sources/census/1870-lee-ky-proctor-p333a-james-brandenburg-william-gray.jpg` · SHA-256 `a585aa0367ed4782b3bfe79fb5dc13c789cfdaa4e8d89806a7777cf50b757d34` (2400×3043)
+- Crop: `sources/census/1870-lee-ky-proctor-p333a-dw70-crop.jpg` · SHA-256 `6f48b18f216a54b055a17859dd671f89a675c87723ac56bd4e5175b0ba0e4c82` (1800×1317; lines 1–11 of the name block)
+- Page: NARA M593 reel 481; IA `populationschedu0481unit` zip member `…_0057.jp2` (jp2 SHA-256 `e8d54b7943097aea905a838317f1a71383e2df2c5cfd35c933f8daead6218856`)
+- Provenance: NARA microfilm via Internet Archive, accessed 30 Oct 2026. Saw: scan (JPEG of JP2). Original paper not seen ☐
+- Language / script: English; one enumerator hand (Chas. D. Tyler), American census cursive 1870
+- Image quality: **sufficient** for dwelling numbers, names, ages, occupations, nativity of Martha/Mary/William Gray. Realty of James is **3000** (four digits). Personal-estate of James **15[?]**. William Brandenburg’s realty **800[?]**.
+- Enhancements: contrast crop of lines 1–11 on a copy; quoted claims rest on the unenhanced full page
+
+### Diplomatic (header + dwelling 70 + neighbour Gray head)
+
+> Page No. **11** · Schedule 1. — Inhabitants in **Proctor Precinct**, in the County of **Lee**, State of Kentucky  
+> enumerated by me on the **24** day of **June**, 1870. / **Chas. D. Tyler**, Ass’t Marshal.  
+> Post Office: **Proctor** · stamped **333**
+
+Lines 1–2 continue dwelling **69** from 332b (Joseph 5; Emiline 3 — Brandenburg children). Then:
+
+| Line | Dw/Fam | Name | Age | Sex | Color | Occupation | Realty | Birth |
+|---|---|---|---|---|---|---|---|---|
+| 3 | **70/70** | **Brandenburg, James** | **62** | M | W | Farmer | **3000** | Kentucky |
+| 4 | | — **Nancy** | **54** | F | W | Keeping house | | Kentucky |
+| 5 | | — **William** | **26** | M | W | Farm Labourer | 800[?] | Kentucky |
+| 6 | | **Arnold, Martha** | **15** | F | W | House Keeper | | **Tennessee** |
+| 7 | | **White, Mary** | **16** | F | W | **Domestic Servant** | | **Kentucky** |
+| 8 | | **Gray, William** | **23** | M | W | Farm Labourer | | **Kentucky** |
+| 9 | 71/71 | House, Joshua | 40 | M | W | Farmer | | Virginia |
+| 30 | **75/75** | **Gray, David** | **37** | M | W | Farmer | 400 | Kentucky |
+| 31 | | — Louisa | 30 | F | W | Keeping house | | Kentucky |
+| 32 | | — Mary | 11 | F | W | | | Kentucky |
+| 33 | | — Margaret | 10 | F | W | | | Kentucky |
+| 34 | | — Sylvania | 6 | F | W | | | Kentucky |
+| 35 | | — Emily | 4 | F | W | | | Kentucky |
+| 36 | | — Francis | 1 | F[?] | W | | | Kentucky |
+
+Pass 2: Surname **Brandenburg** (not Brandenburgh) on James’s line. **White, Mary** is a separate surname, not a ditto under Brandenburg. **Gray, William** 23 is a farm labourer in this house, not a son of James. **Gray, David** 37 at dwelling **75** is a different head (wife Louisa, six children) — **not merged** with William 23. James’s realty **3000** vs Kendrick **300** is a transcript disagreement; not averaged.
+
+### Normalised reading
+On 24 June 1870, at Proctor Precinct dwelling 70, farmer James Brandenburg, 62, and Nancy, 54, housed William Brandenburg, 26; Martha Arnold, 15, of Tennessee, housekeeper; **Mary White, 16, domestic servant, Kentucky**; and **William Gray, 23, farm labourer, Kentucky**. Two months later William Gray married Mary Jane White in that house.
+
+### Facts extracted → claim IDs
+- White, Mary 16 domestic servant + Gray, William 23 farm labourer in James Brandenburg’s house → C347 C349 C356
+- Realty 3000 on the original → C356
+- David Gray 37 at dw 75, not merged with William 23 → C366
+
+## DOC026 — 1870 U.S. census, Sturgeon Precinct, Silas Gray household (original)
+
+- Images: `sources/census/1870-lee-ky-sturgeon-p336b-silas-gray.jpg` SHA-256 `1f94024f4fa21d54beef27721ede497241be6b6be9434e5f7430d019722fc144` (2400×3005); crop `…-p336b-silas-crop.jpg` SHA-256 `5e3b048fa663046e74c69b3045c6047ebf6807016faa0d69d149e31cfc374138`; continuation `…-p337a-silas-continuation.jpg` SHA-256 `25a9354f1553faa5ee7304b2606556a44c78faa0eca691b455c291fc965bc82f`
+- Page: NARA M593-481; IA `…_0067.jp2` (B-side, jp2 SHA-256 `04e93a550c6acbc751e5e2ef649c3e6673f2f5e6586a2a594aa301134d53a9db`) and `…_0068.jp2` (A-side stamped 337, jp2 SHA-256 `73f2b0d874f1ec280509ad28a462afd2dea468b3da939b36b2e9edae01e6f9d5`)
+- Provenance: NARA microfilm via IA zip members, 30 Oct 2026. Saw: scan. Original paper not seen ☐
+- Image quality: **sufficient** for head given name **Silas**, Minerva sex **F**, children’s names and ages. Realty of Silas **250[?]**.
+- Enhancements: contrast crops on copies
+
+### Diplomatic (dwelling 13 only)
+
+336b, Page No. **2**, Sturgeon Precinct, enumerated **28 Jun 1870** (stamped **336** on the A-side). Neighbour dw **12/12** Brandenburg, Jackson 38, immediately above.
+
+| Line | Dw/Fam | Name | Age | Sex | Color | Occupation |
+|---|---|---|---|---|---|---|
+| 37 | **13/13** | **Gray, Silas** | **54** | M | W | Farmer |
+| 38 | | — **Minerva** | **48** | **F** | W | Keeping House |
+| 39 | | — **Amelia** | **21** | F | W | |
+| 40 | | — **Elihu** | **19** | M | W | at Home |
+
+Continuation, stamped **337**, Page No. **3**, Post Office Proctor, enumerated **30 Jun 1870**:
+
+| Line | Name | Age | Sex | Occupation |
+|---|---|---|---|---|
+| 1 | — **John** | **18** | M | at Home |
+| 2 | — **Margret** | **16** | F | |
+| 3 | — **Levi** | **14** | M | at Home |
+
+Pass 2: Head is **Silas**, not Silus. Minerva is **F**. **No William** in this house (the page ends the household at Levi 14). Jackson Brandenburg at dw 12 is a neighbour, not merged with James 62 of Proctor.
+
+### Normalised reading
+Silas Gray, 54, farmer, and Minerva, 48, with Amelia 21, Elihu 19, John 18, Margret 16, and Levi 14, Sturgeon Precinct, 28–30 June 1870. William Gray, 23, was enumerated the same week in James Brandenburg’s Proctor house, not here.
+
+### Facts extracted → claim IDs
+- Gray, Silas 54 + Minerva 48 F + five children, William absent → C348 C357 C358
+- Kendrick Silus / sex M withdrawn → C357 C358
+
+## DOC027 — 1900 U.S. census, Sturgeon ED 52 sheet 5 B, dwelling 84 (original crop)
+
+- Image: `sources/census/1900-lee-ky-ed52-sh5b-hh84-william-gray.jpg` SHA-256 `ada14aa35a4777465fe7a1b9223c8f39b97f5de5a8736e13e7c94078e1aecd68` (2712×968)
+- Page: NARA T623-537; Lee Co. KY Sturgeon ED **52** sheet **5 B**. Copied from sibling branch `cursor/dora-research-pass-21` and **independently re-read**. Hh **85** (Hardin) is visible on the same crop; nativity of that house was **not** re-analysed (PR #29 holds the dedicated crop).
+- Image quality: **sufficient** for dwelling **84**, head **William**, birth **May 1847**, age **53**, married **29**; wife **Mary J.** **Jan 1854** **7-7**; MIL **Elizabeth Brandenburgh** **Dec 1831**. Children’s months/years have `[?]` where the crop is tight.
+- Enhancements: none on the quoted file
+
+### Diplomatic (dwelling 84)
+
+> **84** **84** · **Gray, William** · Head · W · M · **May 1847** · **53** · M · **29** · Kentucky · Kentucky · Kentucky · Farmer  
+> — **Mary J.** · Wife · W · F · **Jan 1854** · **46** · M · 29 · **7** · **7** · Kentucky · Kentucky · Kentucky  
+> — Sidney W. · Son · W · M · Sep 1873 · {age as written}  
+> — Robert H. · Son · W · M · Apr 1878  
+> — Lilly [F?] · Daughter · W · F · Jun 188[4?]  
+> — Edna · Daughter · W · F · Mar 188[8?]  
+> — Christopher C. · Son · W · M · Oct 1890  
+> **Brandenburgh, Elizabeth** · Mother-in-law · W · F · **Dec 1831** · **69** · Wd · {children 2-2 on the transcript; digits `[?]` on this crop} · Kentucky · **Tennessee** · **Virginia**
+
+Pass 2: Age of the head is **53**, not 84. The **84** is the dwelling/family number. Hardin begins at **85/85** on the next lines.
+
+### Normalised reading
+William Gray, born May 1847, aged 53, married 29 years, farmer, with wife Mary J., born January 1854, seven children all living, and mother-in-law Elizabeth Brandenburgh, born December 1831, in Sturgeon precinct dwelling 84 on 1 June 1900. Hardin Gray is next door.
+
+### Facts extracted → claim IDs
+- William May 1847 age 53 M29; Mary J. Jan 1854 7-7; Elizabeth MIL Dec 1831 → C326 C332
+- “Age 84” withdrawn as a dwelling-number misread → C326
+
+## DOC028 — 1910 U.S. census, Bollinger Co. MO, Crooked Creek ED 1 sheet 10 A (original)
+
+- Image: `sources/census/1910-bollinger-ed1-dora-e-stone-rejected.png` SHA-256 `5eab4793bf42d8c18b7ef43a6296495620392c100c0e1ed8ad59bfe6c4bf769b` (2369×1637 PNG)
+- Name-column working copy: `sources/census/1910-bollinger-ed1-sh10a-names-enhanced.jpg` SHA-256 `317f812f4a26cc0106d5f9b56e32136c545e9b94c01a512679c5f8d3c5dd9e8a` (**enhanced for legibility**; claims rest on the PNG)
+- Header files: `1910-t624-769-pdfp0366.png` / `…pdfp0369.png` place this sheet as ED **1** sh **10 A** between sh 9 B and 11 A
+- Provenance: copied from PR #26; **name column independently re-read** 30 Oct 2026. Saw: scan. Original paper not seen ☐
+- Image quality: **sufficient** for township **Crooked Creek**, ED **1**, sheet **10 A**, 3 May 1910, enumerator Charles W. Henson; surname **Rhodes** at dw **178**; wife given name **Dora M.[?]**; birthplace **Missouri**
+
+### Diplomatic (header + dwellings 174 and 178)
+
+> State **Missouri** · County **Bollinger** · Township **Crooked Creek** · SD **11** · ED **1** · Sheet **10 A**  
+> Enumerated **3 May 1910** · **Charles W. Henson**
+
+Dw **174/174**: **John H.** {surname **McCamie[?]** / **Larrille[?]**} · Head · 31 · Tennessee. **Not** Sullivan. → C339
+
+Dw **178/178**:
+> **Rhodes, Henry C.** · Head · M · W · **38** · M1 · **18** · **Missouri** · Farmer  
+> — **Dora M.[?]** · Wife · F · W · **37** · M1 · 18 · **6** · **6** · **Missouri** · **Maryland** · Missouri  
+> — James C. · Son · 17 · Missouri  
+> — Iva · Daughter · 15  
+> — Ethel · Daughter · 12  
+> — Minnie · Daughter · 9  
+> — Henry A. · Son · 7  
+> — Earl · Son · 6  
+> — Roy C. · Son · 3
+
+Pass 2: Surname on the enhanced name column is **Rhodes**, not Stone. Wife’s middle initial **M** (not E). Birthplace **Missouri**, not Kentucky. Children 6-6, not 7-5. No McCoy / Pearl / Rissa / John H. of 1899.
+
+### Normalised reading
+Henry C. Rhodes, 38, of Crooked Creek, Bollinger County, Missouri, and wife Dora M., 37, Missouri-born, six children living, 3 May 1910. This is not Dora Ella Newnam. A sibling reading “Dora E. Stone, wife of Henry C.” is a surname misread of this page.
+
+### Facts extracted → claim IDs
+- Rhodes not Stone; Dora M. 37 MO 6-6 → C338
+- ED 1 sh 10 A, not Liberty ED 5 → C323 C316
+- dw 174 John H. not Sullivan → C339
+
+## DOC029 — 1880 Kentucky Soundex G-600, Elisha Gray, Lee ED 59
+
+- Image: `sources/soundex/ky1880-g600-p4850-elisha-gray-lee-ed59.jpg` SHA-256 `b36e1354b7b9ebf640f2ad752e9a7b6180729c2c7a0aba26c1753818b1316b60` (1092×762)
+- Page: NARA T750; IA `soundex1880ky028` PDF **4850**. Typed/hand card. **Image seen.**
+
+### Diplomatic
+
+> **G600** · **Gray, Elisha** {HEAD OF FAMILY} · **W** · **M** · **28** · **Lee** · **Kentucky**  
+> VOL **18** · ED **59** · SHEET **28** · LINE **36** · Kentucky {birthplace}  
+> OTHER MEMBERS:  
+> **Gray, M. Jane** · **W** · **22** · Kentucky  
+> — **Nancy** · **D** · **1** · Kentucky
+
+Pass 2: Head **Elisha** (not Silas, not William). Wife **M. Jane** 22, not Mary J. ~26. One child **Nancy** 1, not Sidney/Hardin/Robert. Same ED as Dora’s 1880 house (ED 59 sheet 6), different household.
+
+### Facts extracted → claim IDs
+- Elisha 28 + M. Jane 22 + Nancy 1, Lee ED 59 sh 28 → C342 (rejected vs C332)
+
+## DOC030 — 1880 Kentucky Soundex G-600, Caroline Gray, Lee ED 59
+
+- Image: `sources/soundex/ky1880-g600-p4780-caroline-gray-lee-ed59.jpg` SHA-256 `52741dc86744c12e4fb707239014ee9e3cda4b46c33fe25137bd484334710f90` (1099×762)
+- Page: same reel, IA PDF **4780**. **Image seen.**
+
+### Diplomatic
+
+> **G600** · **Gray, Caroline** {HEAD OF FAMILY} · **W** · **F** · **44** · **Lee**  
+> VOL **18** · ED **59** · SHEET **43** · LINE **7** · **Virginia** {birthplace}  
+> OTHER MEMBERS:  
+> **Gray, Barney** · **S** · **12** · Kentucky  
+> — **Jessie** · **D** · **8** · Kentucky  
+> — **Ida** · **D** · **6** · Kentucky  
+> — **Allice** · **Ni** · **18** · Kentucky  
+> **Davis, James** · **N** · **33** · Kentucky  
+> {footer} see 2
+
+Pass 2: Head is a woman born **Virginia**. **No** William ~33 and **no** Hardin ~4. Allice is **niece**. FAN of the 1870 Thomas Precinct Caroline (C350), not of C332 as a merge.
+
+### Facts extracted → claim IDs
+- Caroline 44 VA, Lee ED 59 sh 43 → C343 C350
+
+## DOC031 — 1910 U.S. census, ED 99 sheet 13 B, William Gray household (crop)
+
+- Image: `sources/census/1910-lee-ky-ed99-sh13b-william-gray-crop.jpg` SHA-256 `1bced11b9400496dd3121530621aa42ef4dff3b16df6c5687bd36d984bc88965` (1632×599)
+- Same sheet as DOC024 / S311 (Hardin is four families earlier). **Image seen.** Crop of original.
+
+### Diplomatic (dwellings 248–249)
+
+> **248/258** · **Gray, William** · Head · M · W · **60** · M1 · **40** · Kentucky · Farmer  
+> — **Mary Jane** · Wife · F · W · **56** · M1 · 40 · **7** · **6** · Kentucky  
+> — Isaac Columbus · Grandson · M · W · 12 · Kentucky  
+> — Shirley Eliza · Grandson · M · W · 12 · Kentucky  
+> — Lewis John · Grandson · M · W · 11 · Kentucky  
+> **249/259** · **Gray, Columbus** · Head · M · W · **27** · M1 · **2** · Kentucky  
+> — Lydia · Wife · F · W · **19** · M1 · 2 · 1 · 1 · Kentucky  
+> — Lewis · Son · M · W · {infant} · Kentucky
+
+Pass 2: William 60 + Mary Jane 56 **7-6** (one child dead since 1900’s 7-7). Columbus 27 is a separate head, not a 17-year-old (C321). Hardin is **not** in this house (he is dw 241 / DOC024).
+
+### Facts extracted → claim IDs
+- William 60 + Mary Jane 56 7-6 → C321 C332
+- Columbus 27 separate head → C321
+
+## DOC032 — 1880 Kentucky Soundex G-600, William Gray of Lewis County (rejected)
+
+- Image: `sources/soundex/ky1880-g600-p0667-william-gray-lewis-rejected.jpg` SHA-256 `5c2e984df8fdc0a2098a26f671d8cb8e7e1ce829b6af41b1b60487a1a9e0aafa` (936×659)
+- Page: IA `soundex1880ky029` PDF **667**. **Image seen.**
+
+### Diplomatic
+
+> **G600** · **Gray, William** {HEAD OF FAMILY} · **W** · **M** · **45** · **Lewis** · **Kentucky**  
+> VOL **27** · ED **148** · SHEET **29** · LINE **21** · Kentucky  
+> OTHER MEMBERS:  
+> **Gray, Maria** · **W** · **36** · Kentucky  
+> — {Senhora[?]} · D · 13 · Kentucky  
+> — {Josiah[?]} · S · 12 · Kentucky  
+> — **Kate C.** · D · 7 · Kentucky  
+> — **William T.** · S · 5 · Kentucky  
+> {footer} see 2
+
+Pass 2: County **Lewis**, not Lee or Owsley. Wife **Maria** 36, not Mary J. Age **45**, not ~33. **Rejected** vs C332. (S330’s “age 40” is a prior note; this card reads **45**.)
+
+### Facts extracted → claim IDs
+- Lewis Co. William 45 + Maria — rejected vs C332 → C344

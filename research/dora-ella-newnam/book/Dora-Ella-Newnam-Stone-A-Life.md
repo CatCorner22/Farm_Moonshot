@@ -8,7 +8,7 @@
 
 This book is a biography, not a pedigree abstract. It answers one question: what can be documented, under the Genealogical Proof Standard, of the life of Dora Ella Newnam, later Dora Stone, who died at Ola, Yell County, Arkansas, at noon on Monday, 23 August 1926.
 
-Fifty-three Cursor chats on this repository were reviewed for this volume (primary research, helpers, scans, and failed browser hunts). The original mobile session opened the case and read the Arkansas death certificate the family still holds. Later sessions recovered the 1880 childhood schedule that free transcripts had missed, walked statewide Soundex reels for 1910 and 1920, tested a Peebles third-marriage hypothesis and set it aside, and photographed NARA microfilm frames — sixty-one in the first gallery, then sixty-six with the 1910 Kentucky Ella Miracode plates, now sixty-seven with the Hardin Gray household crop from Sturgeon sheet 13 B. This volume folds those chats into one narrative. The case dossier remains the working file; this book is the public reading of it. Sibling chats still running on Greene ED 41–43, 1900 Liberty, and 1900 hh 85 are inventoried, not duplicated.
+Sixty Cursor chats on this repository were reviewed for this volume (primary research, helpers, scans, and failed browser hunts). The original mobile session opened the case and read the Arkansas death certificate the family still holds. Later sessions recovered the 1880 childhood schedule that free transcripts had missed, walked statewide Soundex reels for 1910 and 1920, tested a Peebles third-marriage hypothesis and set it aside, and photographed NARA microfilm frames — the 1880 childhood schedule, the 1910 Kentucky Ella Miracode plates, Hardin Gray on Sturgeon sheet 13 B, the 1870 Proctor original of James Brandenburg’s house, Silas Gray’s Sturgeon original, the 1900 William Gray dwelling-84 crop, and the Bollinger page a sibling had labelled “Dora E. Stone,” which is Henry C. Rhodes and Dora M. of Missouri. This volume folds those chats into one narrative. The case dossier remains the working file; this book is the public reading of it. Sibling chats still running on Greene ED 41–43, 1900 Liberty, and 1900 hh 85 are inventoried, not duplicated. Do not import their “Dora E. Stone” as this woman.
 
 Two marriages are documented. A later Peebles husband is not. The year 1868 on the death certificate is wrong. Where she spent April 1910 and January 1920 is still unknown. Those limits are part of the story.
 
@@ -53,6 +53,8 @@ Mays were already in District 59 in 1880. The mortality schedule Hampton filed f
 A separate **Newnam Cemetery** at Pebworth — also called Newman or Newman-Combs, a Kentucky Landmark, 101 Find a Grave memorials — is the earlier clan yard, not High View on Spencer Ridge. No Samuel P. or Dora listing turned up in the free sources opened this pass. [C150] [S130]
 
 The original marriage page (FamilySearch Q2QD-PZHL) has not been seen from this workspace. The reading is from Debi Kendrick’s Lee County Book 2 transcription. The fact of the marriage is proved; palaeography of the original page remains an open retrieval.
+
+A later Sturgeon neighbour of Vesta’s in-laws is now on the original 1870 film. On 24 June 1870 James Brandenburg, sixty-two, farmed in Proctor Precinct dwelling 70 with Nancy, fifty-four; William Brandenburg, twenty-six; Martha Arnold, fifteen, of Tennessee; **Mary White, sixteen, a domestic servant**; and **William Gray, twenty-three, a farm labourer**. [C356] [S340] On 18 August 1870 that William Gray married **Mary Jane White** in that house. [C330] They are the Sturgeon couple of 1900–1928 (**PROVEN**). [C332] The Gray Cemetery copy and WikiTree call her née Brandenburg. That is **SPECULATIVE**. The license and the original census say **White**. Conflict **#19**. His death certificate says born 2 May 1844; the 1870 and 1900 schedules cluster on 1846–47. Conflict **#21**. Print both years. Do not invent a third. **Silas Gray**, fifty-four, of Sturgeon the same week is a **possible** father named on the 1928 extract; William is not in Silas’s house, so they are not merged. [C348] Hardin Gray, next door in 1900, is a **possible** son, not merged. [C333] A 1910 Missouri page labelled “Dora E. Stone, wife of Henry C.” in another chat is **Rhodes, Henry C.**, and **Dora M.**, thirty-seven, born Missouri, six children living. That is not this woman. [C338]
 
 Samuel was family. On the first page of the same 1880 district, dwelling 3, taken 1 June, a boy named Samuel, eleven, son, lived with John Newnam, sixty-nine, farmer, born in Kentucky, father born in North Carolina, and Mary, fifty-seven, with Eli, sixteen, Susan, twenty, and Hannah, nine. [C060] [C061] [S040] Age eleven in June 1880 is exactly the June 1869 birth of the 1900 husband and the sixteen-year-old of December 1885. Identification of that boy as Dora’s husband is probable.
 
@@ -181,7 +183,7 @@ Two children born to Dora and Samuel died before 1 June 1900. They have no names
 
 ## How to read the plates
 
-Part II of the PDF prints every JPEG preserved in this case, sixty-one frames, in chronological order of the record. Four roles appear in the captions:
+Part II of the PDF prints the JPEG and PNG frames preserved in this case, in chronological order of the record. Four roles appear in the captions:
 
 - **Family hit** — names Dora or a documented relative.
 - **Rejected same-name** — a Dora, Samuel, Thomas, or similar who fails the same-person test.
@@ -198,6 +200,9 @@ Charts of pedigree, descendants, and lifespan follow the plates. Dashed lines me
 
 - Where Dora was in April 1910 and January 1920. Newman in Kentucky, Arkansas and Missouri is closed. Sturgeon ED 99 as Newnam is closed. Stone in Kentucky is closed. Peebles in Kentucky 1910 is closed. Kentucky N-550 **Ella ~39** in Lee, Greene, and Owsley is closed. Other surnames, and a wife listed only on a husband’s card, remain.
 - Conflict **#18** is resolved: Hardin Gray and Vista are on Sturgeon sheet 13 B, dwelling 241 family 251. Louisa is not in that house. The Miracode number 0248 is not the original family 248. [C317] [C319]
+- Conflict **#19** is open: Mary J. Gray’s maiden name is **White** on the 1870 license and original census (**PROBABLE**) versus **Brandenburg** on the cemetery copy and WikiTree (**SPECULATIVE**). Do not print née Brandenburg as fact. [C349] [C356]
+- Conflict **#21** is open: William Gray’s birth year is 1844 on the death extract and stone versus 1846–47 on the 1870 and 1900 originals. Print May 1844/1847. Identity is not in doubt. [C332] [C328]
+- A sibling “Dora E. Stone” on Crooked Creek ED 1 sheet 10 A is **Rhodes**, not Stone, and is not this woman. [C338]
 - The original 1885 marriage image; Samuel’s death; the 1925 Arkansas death certificate of T. A. Stone; the Stone × Newnam license; Carter Cove photographs; the *Yell County Journal*.
 - Conflict #9: which 1870–1880 household is Samuel’s.
 - Conflict #4 and #11: which Missouri Thomas Stone, if any, is the 1920 Perry County widower. Greene Campbell ED **37** sheet **18 A** is Thomas A., 32, with Matilda — not merged. Springfield ED **39** sheets **6 through 31 B**, read on the original 856 reel, have no second Stone household. [C117] [C153]
