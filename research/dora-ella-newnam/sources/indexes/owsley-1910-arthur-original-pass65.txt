@@ -1,0 +1,20 @@
+Pass 65 — 1910 Owsley Sturgeon original, Arthur Newman hh 119
+30 Oct 2026 America/New_York. Original image seen.
+
+NARA T624-498 / IA 13thcensus1910po498unit zip-member _0881.jp2 (leaf 881).
+Mag. Dist. 2 Sturgeon. Sheet 7 B. Dwelling 119 family 119.
+
+Diplomatic (Pass 1 names crop + Pass 2 household JPEG):
+119/119 Newman, Arthur  Head  M W  27  m1 8  Kentucky Kentucky Kentucky  English  Farmer  General Farm  OA
+         Florence       Wife  F W  23  m1 8  1-1  Kentucky Tennessee Kentucky  English  none
+         Omer           Son   M W   3  S     Kentucky Kentucky Kentucky
+
+Header crop: State Kentucky, County Owsley, Magisterial District 2 Sturgeon, sheet B.
+ED stamp on the retained 7 B banner is faint; Sturgeon Mag Dist 2 on this reel is ED 165 (NARA T624-498 mapping; Wild Dog Mag Dist 7 is ED 170 on later leaves).
+
+Next household 120/120 Moore, James (matches Kendrick).
+Prior lines on the same sheet are children of the previous house (Mattie / Thomas B. / Gertrude / Alpha L.), not Newmans.
+
+Kendrick sturg1910.html 119-119 NEWMAN Arthur 27 m1 8y + Florence 23 m1 8y 1-1 KTK + Omer 3 matches the original.
+JPEGs in sources/census/: 1910-owsley-ed165-sh7b-hdr.jpg; …hh119-arthur.jpg; …hh119-names.jpg.
+Enumerator date is not on the retained 7 B header crop. Do not invent it.

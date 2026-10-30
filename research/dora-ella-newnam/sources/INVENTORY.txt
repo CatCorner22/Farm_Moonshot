@@ -972,3 +972,183 @@ research/dora-ella-newnam/sources/census/1880-lee-ky-ed59-sheet43-p768-caroline-
   sha256: 2bad1cee59d993db81a7ddaec2588f69e855889e37e2387c9e63cb078456adef
   format: JPEG photo, 2176x2900px
   check: full page + margins + verso? straight-on, no glare/flash, strokes several px tall? (paleography.md intake)
+/workspace/research/dora-ella-newnam/sources/census/1900-owsley-ed89-sh7b-hdr.jpg
+  sha256: 3cdc20b21561d0f7d1ee628df6e09316995f1f837763d699b0cb609a74efd49c
+  format: JPEG photo, 7496x1042px
+  check: 1900 Owsley ED 89 sh 7B header Mag Dist 2
+/workspace/research/dora-ella-newnam/sources/census/1900-owsley-ed89-sh7b-hh114-henry.jpg
+  sha256: cf5f1f331e4345afd2a66985679f72245a93d6ba800dfdc4e2e024608c00a2b7
+  format: JPEG photo, 4798x2756px
+  check: full page + margins + verso? straight-on, no glare/flash, strokes several px tall? (paleography.md intake)
+/workspace/research/dora-ella-newnam/sources/census/1900-owsley-ed89-sh7b-hh114-henry-crop.jpg
+  sha256: 6f3f80d56e8fe6de167d6ca398d06c15d20b7f5861c1f1ae364f240312c1d9b4
+  format: JPEG photo, 3523x1490px
+  check: 1900 dw 114/115 Henry H Newnam + Minerva crop
+/workspace/research/dora-ella-newnam/sources/census/1910-owsley-ed170-sh2a-hdr.jpg
+  sha256: 4dc598d40ff838a1071f31f995eaa2d6c3c14114c0f080633a836e67676ccb36
+  format: JPEG photo, 7560x839px
+  check: 1910 Owsley ED 170 sh 2A header Mag Dist 7 Wild Dog
+/workspace/research/dora-ella-newnam/sources/census/1910-owsley-ed170-sh2a-hh20-henry-manerva.jpg
+  sha256: 110445c2abf16b82587d9025e6a724f00df9821ca6a3cad39e2fb9d94d47938f
+  format: JPEG photo, 7409x761px
+  check: 1910 dw 20/20 Henry H Newman m2 15 + Manerva
+/workspace/research/dora-ella-newnam/sources/census/1910-owsley-ed170-sh2a-hh20-crop.jpg
+  sha256: b6456b440ae6948712f9e8f1515f3cfb5e52aa472b3ba27f1c7538b8e74d56f3
+  format: JPEG photo, 5292x457px
+  check: 1910 hh 20 name/personal/nativity crop
+/workspace/research/dora-ella-newnam/sources/indexes/kydi-1920-newman-manerva-nil-pass64.txt
+  sha256: c320212af183f45e6d94208882538c7a3127a5a3ca87a0a268f388ea57bc04eb
+  format: text extract, 4,329 bytes
+  check: KYDI 1920 nil LEE/OWSLY Newman; nil Manerva Newman
+/workspace/research/dora-ella-newnam/sources/indexes/owsley-1920dc-newman-nil-pass64.txt
+  sha256: e5fca0f81ef170bf3b4e2842c91b2bcc449b1a2c1bc6b4ae7c112f3ac31aa5bb
+  format: text extract, 916 bytes
+  check: Owsley 1920 DC nil Newman decedent; Wilson Manerva J other woman
+/workspace/research/dora-ella-newnam/sources/indexes/lee-1920-marr-manerva-nil-pass64.txt
+  sha256: 752c4990abacef8b49877db1d5c81e4bbe8424cf05a8b9a6231c82f3faabbb27
+  format: text extract, 926 bytes
+  check: Lee 1920 deaths nil; Books 3-5 nil Henry x Manerva
+/workspace/research/dora-ella-newnam/sources/indexes/owsley-1900-1910-henry-manerva-pass64.txt
+  sha256: 76444bb70f0707fd5cfa3f0eb8fa1cd0e9d70d46238f0ce910db256478ee0277
+  format: text extract, 1,620 bytes
+  check: Kendrick 1900 Sturgeon 114 and 1910 Wild Dog 20 transcripts
+/workspace/research/dora-ella-newnam/sources/indexes/pass64-coverage.txt
+  sha256: 7a647b41a88f502d1eefbb4935ed3a9fdad4cc6b91628cca1920e42f9d893f43
+  format: text extract, 938 bytes
+  check: Pass 64 coverage; catalog 86; 1916 DC still unseen
+/workspace/research/dora-ella-newnam/sources/census/1910-owsley-ed165-sh7b-hdr.jpg
+  sha256: 95cf3255b525c137ab4da7cf6abd81225a52b417c68391cc156323e7f83a683e
+  format: JPEG photo, 7912x639px
+  check: 1910 Owsley ED 165 sh 7B header Mag Dist 2 Sturgeon
+/workspace/research/dora-ella-newnam/sources/census/1910-owsley-ed165-sh7b-hh119-arthur.jpg
+  sha256: b85f5ce3354e4f88fa0a3ac2526253d935a7e1eada65a792e5c96ad152551d9c
+  format: JPEG photo, 7912x537px
+  check: 1910 dw 119/119 Newman Arthur 27 m1 8 + Florence + Omer
+/workspace/research/dora-ella-newnam/sources/census/1910-owsley-ed165-sh7b-hh119-names.jpg
+  sha256: aa77ed70561b9fa72530b54476dfe560220bc7fd3b2716dd1e471bfc590244b6
+  format: JPEG photo, 3956x537px
+  check: 1910 hh 119 names crop Arthur Florence Omer
+/workspace/research/dora-ella-newnam/sources/census/1920-owsley-ed94-sh1a-hdr.jpg
+  sha256: 2b0424fe0d003b9e5448d102954eea9a69d434b9169c95cd16d92ab55a0badfb
+  format: JPEG photo, 7632x575px
+  check: 1920 Owsley ED 94 sh 1A header Wild Dog Precinct No 7
+/workspace/research/dora-ella-newnam/sources/census/1920-owsley-ed94-sh7b-hdr.jpg
+  sha256: a1e3a8966ff0e6834b6845e33468f1b775625d0fce851024283338d431df567b
+  format: JPEG photo, 7400x598px
+  check: 1920 Owsley ED 94 sh 7B header last population sheet
+/workspace/research/dora-ella-newnam/sources/census/1920-owsley-ed94-sh1b-hh18-evans.jpg
+  sha256: 3b6543c0cba0fbe65fbb62fac1e7aadd15f8f71acb48734805bf3067c04c1a73
+  format: JPEG photo, 2448x540px
+  check: 1920 ED 94 sh 1B hh 18 Evans William 68 + Minerva 67 rejected
+/workspace/research/dora-ella-newnam/sources/indexes/owsley-1910-arthur-original-pass65.txt
+  sha256: de65691e9d154c7b2f051f551f2d610d01f6c950227612ba2c485000c4981c45
+  format: text extract, 1,295 bytes
+  check: 1910 Sturgeon original Arthur 119 diplomatic
+/workspace/research/dora-ella-newnam/sources/indexes/owsley-1920-ed94-wilddog-nil-pass65.txt
+  sha256: ec3cc08569e546fd095d783bd437b8c4847b661b75ef09dcbeec9907567085f5
+  format: text extract, 1,435 bytes
+  check: 1920 Wild Dog ED 94 original nil Newman; Evans rejected
+/workspace/research/dora-ella-newnam/sources/indexes/lee-1920-census-manerva-nil-pass65.txt
+  sha256: e9483ecea036a3354282fcbe9efaccdf3ac6d2144c40c1a536c8ba1ab8ad5137
+  format: text extract, 1,005 bytes
+  check: Lee 1920 HTML Manerva hits other women
+/workspace/research/dora-ella-newnam/sources/indexes/owsley-1880-burris-manerva-pass65.txt
+  sha256: 6bc83cb9244be1fab72ba985debc2d5eb4447ff26038f4396867b5512cc5dd83
+  format: text extract, 1,296 bytes
+  check: 1880 Sturgeon Burris x Manerva 25 VA POSSIBLE unmerged
+/workspace/research/dora-ella-newnam/sources/indexes/pass65-coverage.txt
+  sha256: bfcc6f87afbde7ad39495dff4cf1b13608b8362452247adb071dc4d1a49a3748
+  format: text extract, 1,307 bytes
+  check: Pass 65 coverage; catalog 86; PR 31 process-only; 1916 DC still unseen
+/workspace/research/dora-ella-newnam/sources/census/1920-owsley-ed90-sh7a-hdr.jpg
+  sha256: e2fb15ce11eaee655b2d71dd1587ffe1f7f092e42241f3bb92def44d9be068d7
+  format: JPEG photo, 7600x564px
+  check: 1920 Owsley ED 90 sh 7A header Island Creek Precinct No 3
+/workspace/research/dora-ella-newnam/sources/census/1920-owsley-ed90-sh7a-hh113-arthur.jpg
+  sha256: c89be4ce8a866231627b5aff748b1e622f4992f9159d43c3908fb12627a19249
+  format: JPEG photo, 7296x616px
+  check: 1920 dw 113/121 Newman Arthur 45 + Florence + Omer + Grant
+/workspace/research/dora-ella-newnam/sources/census/1920-owsley-ed90-sh7a-hh113-names.jpg
+  sha256: 3d0cd53b598ce3711830a7858431b708db7437b074d192d7dc1eebcf81f849fb
+  format: JPEG photo, 3724x616px
+  check: 1920 hh 113 names crop Arthur Florence Omer Grant no Manerva
+/workspace/research/dora-ella-newnam/sources/census/1920-owsley-ed89-sh13a-hdr.jpg
+  sha256: 0e4d94ff5b3d9b233536c67497e3bc8d75a93dbd89d22431a36d876b5c61e397
+  format: JPEG photo, 7648x580px
+  check: 1920 Owsley ED 89 sh 13A header last populated Sturgeon sheet
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-n550-p4109-newman-arthur-owsley.jpg
+  sha256: 6876b29bdef7a2e57441c6a94538f38f719b97b5b10d5a9a2a842a25d250a27b
+  format: JPEG photo, 1600x1068px
+  check: 1920 KY N-550 Newman Arthur 45 Owsley ED 90 sh 7 ln 32
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-n550-p4630-minnie-not-minerva.jpg
+  sha256: 1c5db39270d8d26498b1f591def5cf32b2195eea17a8ec37a528068ee8858930
+  format: JPEG photo, 1600x1068px
+  check: 1920 KY N-550 leaf 4630 Minnie 12 Logan not Minerva
+/workspace/research/dora-ella-newnam/sources/indexes/owsley-1920-ed90-arthur-original-pass66.txt
+  sha256: 21e8c35dbe4e22fa409769af0e60f5f03bad2ef5abf82050f4d21bf59f4a90f2
+  format: text extract, 1,139 bytes
+  check: 1920 Island Creek original Arthur 113 diplomatic
+/workspace/research/dora-ella-newnam/sources/indexes/owsley-1920-ed89-remainder-nil-pass66.txt
+  sha256: bb330a99f2dacbd28b7cf461eaf1a0506fac8367a55cb77bd66697734d097417
+  format: text extract, 1,178 bytes
+  check: 1920 Sturgeon ED 89 remainder original nil Newman; Tymes rejected
+/workspace/research/dora-ella-newnam/sources/indexes/ky1920-n550-m-window-manerva-nil-pass66.txt
+  sha256: b553256b2364a37a47320a83daa7e3049e646de38d887b3e1cdae43b36fdb874
+  format: text extract, 2,170 bytes
+  check: 1920 KY N-550 M-window nil Manerva/Minerva Newman
+/workspace/research/dora-ella-newnam/sources/indexes/pass66-coverage.txt
+  sha256: a45f1e2a2b589d73dc3c93c621e856fff0eac1dd2a9223b4af37f1cdd7b284f8
+  format: text extract, 1,005 bytes
+  check: Pass 66 coverage; catalog 90; PR 31 ED9 helpers process-only; 1916 DC still unseen
+/workspace/research/dora-ella-newnam/sources/census/1920-owsley-ed90-sh9a-hdr.jpg
+  sha256: c5a7fd2749797eb2f4827fa7e4fe8ec744fa706062b369e1664691871c0688c2
+  format: JPEG photo, 7584x927px
+  check: 1920 Owsley ED 90 sh 9A header Island Creek remainder
+/workspace/research/dora-ella-newnam/sources/census/1920-owsley-ed90-sh13b-hdr.jpg
+  sha256: f6ff6b5a7d389bb4ab40986142c51c67e84a150407e9ac6dd7db4b874b57f734
+  format: JPEG photo, 7536x933px
+  check: 1920 Owsley ED 90 sh 13B header last Island Creek sheet
+/workspace/research/dora-ella-newnam/sources/census/1920-owsley-ed91-sh1a-hdr.jpg
+  sha256: ae95bd1c0203c0f530250f3435a410b0211804a9d87feca85f64f8010c077e52
+  format: JPEG photo, 7664x936px
+  check: 1920 Owsley ED 91 sh 1A header Cow Creek Precinct No 4
+/workspace/research/dora-ella-newnam/sources/census/1920-owsley-ed89-sh3a-hh37-baker-manerva.jpg
+  sha256: 60b67a91bd96d07d4ffe2143a1666edd960effed1f9826b8f16d1dcf7a42bc43
+  format: JPEG photo, 2590x733px
+  check: 1920 ED 89 sh 3A hh 37 Barker Malvera 64 wd rejected (filename misnomer)
+/workspace/research/dora-ella-newnam/sources/census/1920-owsley-ed89-sh7b-hh122-wilson-manerva.jpg
+  sha256: 860103715de7839986e79d92cfd588b2add92eb0ae84955d3a14ce85b11d519d
+  format: JPEG photo, 2590x724px
+  check: 1920 ED 89 sh 7B hh 122 Wilson Harden 70 x Minerva 70 rejected
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-n550-p4776-newman-walter-logan.jpg
+  sha256: 51c5adc5cac48b74439a2bae21516a815f1576e57aa49c09d1cbc244a5c5d99c
+  format: JPEG photo, 1600x1067px
+  check: 1920 KY N-550 Newman Walter 39 Logan unmerged
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-n550-p4778-newman-walter-a-louisville.jpg
+  sha256: ecab7be1a311926f16ce8ea170cf075c653a8441a4d5b2b8f824a35907a21edf
+  format: JPEG photo, 1600x1067px
+  check: 1920 KY N-550 Newman Walter A 33 Louisville unmerged
+/workspace/research/dora-ella-newnam/sources/indexes/owsley-1916-tfkrha-c-henry-h-pass67.txt
+  sha256: e78f9350081ed58f085f1cd3c8d88fb630badf980074917078f96097669184de
+  format: text extract, 1,611 bytes
+  check: Rosenbalm 1916 C Henry H 21663 Widowed blank parents; Willie 21666 filled
+/workspace/research/dora-ella-newnam/sources/indexes/owsley-1920-ed90-remainder-nil-pass67.txt
+  sha256: 88b444b81bd6e41b09a8d4df3c1440a73c63691cabca5888cd63aae9f36ddeec
+  format: text extract, 2,342 bytes
+  check: 1920 Island Creek ED 90 remainder original nil second Newman
+/workspace/research/dora-ella-newnam/sources/indexes/owsley-1920-ed91-cowcreek-partial-pass67.txt
+  sha256: 6ede0d5bfb17b78f29c94cf20d86610f96c67086f49194385351276fd5d5accd
+  format: text extract, 1,087 bytes
+  check: 1920 Cow Creek ED 91 sh 1A-3B partial nil Newman
+/workspace/research/dora-ella-newnam/sources/indexes/ky1920-n550-walter-window-pass67.txt
+  sha256: 3519ee037ca3ae1b2e3a784948fab5a35172658a09ff489fba67c2b2af05f4cc
+  format: text extract, 1,754 bytes
+  check: 1920 KY N-550 Walter window nil Owsley/Lee Walter with Manerva
+/workspace/research/dora-ella-newnam/sources/indexes/owsley-1921dc-manerva-smith-pass67.txt
+  sha256: a02e79d8a252ef5e7a61b1c1f7a9410b4f40f641d70193f11976c816dd45c2f8
+  format: text extract, 604 bytes
+  check: Owsley 1921 HTML Manerva SMITH mother cell not C650
+/workspace/research/dora-ella-newnam/sources/indexes/pass67-coverage.txt
+  sha256: 50830e119e44788584f3c42bad40471ba62b19cfab7b29be298a8a5264c69c7d
+  format: text extract, 1,036 bytes
+  check: Pass 67 coverage; catalog 91 mid-pass (closeout 95); 1916 DC still unseen

@@ -1,0 +1,32 @@
+Pass 67 — 1920 Owsley ED 90 Island Creek Precinct No. 3 remainder (original)
+NARA T625-594 / IA 14thcensusofpopu594unit leaves 1118–1127
+Visual every-name-column, 30 Oct 2026 (America/New_York). Enumerator Oscar J. Judd, January 1920.
+
+Sheet map (this pass):
+  1118 = ED 90 sh 9 A  Island Creek Precinct #3
+  1119 = ED 90 sh 9 B
+  1120 = ED 90 sh 10 A
+  1121 = ED 90 sh 10 B
+  1122 = ED 90 sh 11 A
+  1123 = ED 90 sh 11 B
+  1124 = ED 90 sh 12 A
+  1125 = ED 90 sh 12 B
+  1126 = ED 90 sh 13 A
+  1127 = ED 90 sh 13 B  (enumerator closeout: Precinct #3 Owsley)
+
+Heads sampled (nil Newman/Newnam):
+  9 A: continuation of Moore, Marion (from 8 B) + Reed Charley, Johnson Charley, Owen, Million Bossie, Carroll Mary, Million Robert, Million Benjamin, Miller Jesse, Bishop Green
+  9 B: Hignite Dudley, Cole Thomas B, Wilder Joseph H, Ball William, Ball James E, Bowles William, Wilson Robert C, Wilson Matt Jr, Murrell Jonah, Bishop Katherine, Hardy James, Timo William
+  10 A: King Samuel / Jefferson / Harlan / Henry C; Taylor Henry; Scott Robert; Hensley John / Jim; Thompson King
+  10 B: Thompson James, King Jefferson W, Ball Hugh, Sizemore John T (son Walter D — not Walter Newman), McKinney George, Woods William / Silas, Hensley James R
+  11 A: Hunter John H, Clem George, Sandlin Edwin H / Lewis, Allen George W, Taylor Jesse / Bob H, Edwards Finley / William H
+  11 B: Edwards James H / Leonard / Robert, King James M, Huff Robert H, Hunter Robert, Moore William, McDaniel John
+  12 A: Moore Wesley / Pleasant, Banks John R, Hudson Henry, McDaniel Frank, Sizemore Farmer / Doctor H, Marshall Logan / Joe
+  12 B: Griffith Henry Clay, Cook Ad, Crouch Ed, Holcomb Homer, Parker William, Gaston David, Avrit Ogden, Inman John S, Combs Merida, Hacker John
+  13 A: Hacker William, Combs Samuel / Mary, Roberts Canty, Hill Nancy Jane / Edward; Baker Sarah mother-in-law 60 wd (not Manerva Newnam); Taylor Anderson
+  13 B: Thomas Jack, Hill Samuel / Chester, Bryant James, Eversole Nathan / Robert L, Combs Samuel B, Sizemore Marton / William / Lewis, Banks Henry
+
+Rejected given-name:
+  sh 9 A continuation of Moore, Marion: Dora Daughter age 10 — DISPROVED as P001 (age 10 vs ~48)
+
+Combined with Pass 66 sh 1 A–8 B (Arthur on 7 A dw 113/121): entire ED 90 Island Creek Precinct #3 original nil second Newman head and nil Manerva Newnam.

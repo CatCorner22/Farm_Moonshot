@@ -1,0 +1,16 @@
+Pass 64 extract — Kendrick Owsley 1920 death-certificate table
+URL: https://usgennet.org/usa/ky/county/owsley/deaths/1920dc.html opened 30 Oct 2026.
+Transcription of photographs, not original DC images. HTML working copy not committed.
+
+NEWNAM / NEWMAN as decedent: NIL in this year table.
+
+28 Aug 1920 row:
+  BATES, Eva | 3 ds | b. 25 Aug | d. 28 Aug | unknown × Martha BATES
+  Matches KYDI BATES EVA U/1 OWSLY 08/28/1920 vol 057 #28285.
+
+Manerva strings (not decedents named Newnam):
+  Manerva MASON — parent of child Rosa Bowman (mother cell), not a decedent.
+  WILSON, Manerva J. | 71y 3m 20d | b. 27 Feb 1849 TN | d. 12 Sep | H.D. Wilson gv | James HURST × Mary RACKARD
+  DISPROVED as identity with M850 Manerva Newnam (different surname, parents Hurst/Rackard, death 12 Sep not 28 Aug).
+
+Owsley 1921 DC HTML (same session): Manerva SMITH appears as a parent, not a decedent. Newman/Newnam decedent: NIL.

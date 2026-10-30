@@ -1,0 +1,17 @@
+Pass 67 — 1920 Owsley ED 91 Cow Creek Precinct No. 4 PARTIAL (original)
+NARA T625-594 / IA 14thcensusofpopu594unit leaves 1128–1133
+Visual every-name-column, 30 Oct 2026 (America/New_York). Enumerator J.S./A.S. Dooley.
+
+  1128 = ED 91 sh 1 A  Cow Creek Precinct #4  hh 1–8
+  1129 = unused blank form (no state/county/ED)
+  1130 = ED 91 sh 2 A  hh 9–13, rest of sheet blank
+  1131 = ED 91 sh 2 B  hh 14–22
+  1132 = ED 91 sh 3 A  hh 23–34
+  1133 = ED 91 sh 3 B  continuation + hh 35–41
+
+Heads: Dees/Duff Claude, Marshall (James, Martha, C.B., Charlie, Herbert, Ezekiel, Meredith, etc.), Cole John L, Chaney Josiah, Banning James, Stewart, Lewis, Gabbard, Combs, Belton, Wilson Charles / James, Duff, Robinson, McIntosh.
+NIL Newman/Newnam/Manerva Newnam on these sheets. ED 91 is NOT closed (continues after leaf 1133).
+
+Rejected given-name:
+  sh 1 A hh 8/8 Banning, James 44 + Dora Wife 44 — DISPROVED as P001 (surname Banning; husband James; Island Creek/Cow Creek vs Dora’s documented chain)
+  sh 1 A Marshall Charlie house: Dora daughter (child) — DISPROVED as P001

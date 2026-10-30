@@ -1,0 +1,60 @@
+Pass 64 extract — Reclaim the Records KYDI year file 01920.TXT
+Source: IA reclaim-the-records-kentucky-death-index-01911-1989 / _01920.TXT
+Working copy /tmp/dora-pass63/kydi-1920.txt — NOT committed (3,556,749 bytes / 37,966 data rows).
+Opened 30 Oct 2026. County codes: LEE, OWSLY.
+
+Year-file size check: 39552 lines.
+LEE deaths (county token LEE): 182
+OWSLY deaths: 89
+
+=== NEWMAN / NEWNAM / NEWMANN rows (all counties) ===
+BASHEARS        NEWMAN     R         2       MRSHL                   12/24/1920 062  30820 /1920
+NEWMAN          ANDREW     J       U/1       BALLD                   04/20/1920 021  10389 /1920
+NEWMAN          CLARK      F        33       JEFFN                   03/31/1920 018  08691 /1920
+NEWMAN          ELSIE               67       CARTR                   04/30/1920 022  10740 /1920
+NEWMAN          GEORGIA    A        70       SMPSN                   05/23/1920 031  15031 /1920
+NEWMAN          HENRY      G        89       MLNBG                   05/24/1920 030  14730 /1920
+NEWMAN          HENRY      J        78       ALLEN                   11/29/1920 001  00025 /1921
+NEWMAN          J          H        79       JEFFN                   11/24/1920 055  27430 /1920
+NEWMAN          JAMES               60       JEFFN                   03/23/1920 018  08747 /1920
+NEWMAN          JOHNIE     3       U/1       UNION                   12/30/1920 016  07991 /1922
+NEWMAN          LILLY      M       U/1       BULLT                   10/04/1920 048  23908 /1920
+NEWMAN          SARAH      B        43       HNDSN                   02/16/1920 017  08152 /1920
+NEWMAN          WM         R        73       CMPBL                   05/04/1920 027  13207 /1920
+NEWMAN          WM         1       U/1       CMPBL                   02/21/1920 007  03280 /1920
+NEWMANN         CARL       A        28       MCCRK                   02/22/1920 012  05539 /1920
+
+LEE Newman rows: NIL
+OWSLY Newman rows: NIL
+
+=== MANERVA / MINERVA given-name decedents (all counties) ===
+ABRAHAM         MINERVA              9       JEFFN                   11/11/1920 055  27377 /1920
+BARTON          MANERVA             68       KNOX                    08/20/1920 042  20834 /1920
+BOWEN           MINERVA             53       GRNUP                   12/24/1920 060  29681 /1920
+CASEY           MINERVA    P         1       GARRD                   02/21/1920 008  03900 /1920
+CONNOR          MINERVA    E        52       DAVES                   07/18/1920 036  17841 /1920
+CORDEN          MINERVA    L       U/1       OHIO                    12/19/1920 062  30999 /1920
+DILLINGHAM      MANERVA    J        76       HARDN                   01/16/1920 002  00943 /1920
+EDDY            MANERVA    J        73       HARDN                   08/29/1920 041  20209 /1920
+FIELDS          MINERVA             42       JEFFN                   06/28/1920 033  16404 /1920
+FURY            MINERVA    J        74       BRCKN                   11/03/1920 053  26466 /1920
+HALE            MANERVA    J        72       RUSEL                   02/14/1920 013  06200 /1920
+HARRIS          MINERVA             42       JEFFN                   07/06/1920 038  18556 /1920
+HARTGROVE       MINERVA             73       LOGAN                   11/02/1920 056  27944 /1920
+JOHNSON         MANERVA             78       JEFFN                   07/24/1920 037  18332 /1920
+KELLER          MINERVA    L        33       FYETE                   01/07/1920 002  00768 /1920
+MINOR           MINERVA    J        87       JEFFN                   05/27/1920 028  13962 /1920
+REED            MANERVA             22       LAURL                   09/13/1920 056  27765 /1920
+RUSSELL         MINERVA    A        86       PLSKI                   09/02/1920 052  25915 /1920
+SWEENY          MINERVA             25       FYETE                   09/11/1920 045  22213 /1920
+YOUNG           MINERVA             26       JEFFN                   11/05/1920 056  27572 /1920
+
+Manerva/Minerva + Newman/Newnam: NIL
+Manerva/Minerva in LEE or OWSLY: NIL
+
+=== Deaths on 08/28/1920: 94 rows ===
+OWSLY on 08/28/1920: 1
+BATES           EVA                U/1       OWSLY                   08/28/1920 057  28285 /1920
+LEE on 08/28/1920: 0
+
+Rejected same-name: NEWMAN HENRY G 89 MLNBG 05/24/1920; NEWMAN HENRY J 78 ALLEN 11/29/1920 — not Owsley, not the 1916 Travelers Rest man.

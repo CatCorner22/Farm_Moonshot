@@ -1,0 +1,14 @@
+Pass 67 coverage — 30 Oct 2026 (America/New_York)
+B063 workarounds:
+  TFKRHA Rosenbalm 1916 C-surnames extract (Henry H. #21663 Widowed; parents omitted; Willie #21666 parents filled)
+  1920 ED 90 Island Creek remainder originals sh 9 A–13 B (entire precinct now image-seen; only Newman is Arthur 113/121)
+  1920 ED 89 sh 3 A Barker, Malvera 64 wd and sh 7 B Wilson, Harden 70 x Minerva 70 DISPROVED as C650
+  1920 ED 91 Cow Creek sh 1 A–3 B PARTIAL nil Newman
+  1920 KY N-550 Walter given-name window image-seen; no Owsley/Lee Walter; no Manerva on those cards
+  Owsley 1921 HTML Manerva SMITH is a mother cell
+  KYDI 1921 still 503; TFKRHA G page Vercel 429 (Josephine Gilbert not re-opened)
+Catalog 91 / hasMore false. NEW vs 90: Fold nested Dora chats bc-988b2961 (read-only; no IDs).
+B045/B061 films bc-9acea467 still RUNNING, empty transcript.
+PR #31 four ED9 helpers and location-search IDs not imported. Sibling C281 not imported.
+Original 1932 DC, 1916 DC face, 1840 bond, M123-3, T288 still unseen.
+Do not promote C509.

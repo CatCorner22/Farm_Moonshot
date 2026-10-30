@@ -1,0 +1,11 @@
+Pass 64 coverage — 30 Oct 2026 America/New_York
+Catalog 86 / hasMore false / totalMatched 86. Unchanged vs Pass 63.
+NEW vs 86: none. Nested reviewer not respawned.
+RUNNING: Dora B045 B061 films bc-9acea467 — process-only, not linear-read.
+WAITING: Dora's biography research bc-aea168dd on cursor/dora-biography-passes-5b6a (sibling C281 not imported).
+This run bc-01a18bb4.
+Originals image-seen: 1900 T623-547 leaf 579 ED 89 sh 7 B hh 114/115; 1910 T624-498 leaf 988 ED 170 sh 2 A hh 20/20.
+KYDI 1920 year file opened (not committed). Owsley/Lee 1920 DC HTML opened. Lee Books 3-5 opened.
+Still unseen: original 1932 DC vol 020 #09525; original 1916 DC vol 044 #21663; Estill 1826-1850 bond; M123-3; T288 index.
+Manerva 28 Aug 1920 civil row: NIL in KYDI 1920 LEE/OWSLY and NIL as Newman decedent on Owsley/Lee 1920 HTML.
+Do not promote C509. Skip C221-C280 / L245-L342 / S259-S266. Do not mint C274-C280. Do not import sibling C281.

@@ -1,0 +1,30 @@
+Pass 67 extract — TFKRHA / Connie King Rosenbalm, “Death Certificates 1916 Owsley C”
+Captured 30 Oct 2026 (America/New_York) from a WebSearch snapshot of the 1916 C-surnames page
+(live www.tfkrha.org SSL name-mismatch; Wayback 2020 capture 404; USGenNet 1916dc.html is the other derivative).
+This is a second independent derivative of KY DC vol 044 #21663. Original certificate face unseen.
+
+Neighbor (parents/informant FILLED):
+Willie  8-25-1916  File No. 21666
+  Place of Death: Buck Creek, Owsley Co., Ky.
+  Sex: Male  Race: White  Martial Status: Single
+  Birthplace: Owsley Co., Ky.
+  Name of Father: John NEWMAN  Birthplace of Father: Ky.
+  Maiden Name of Mother: Cesa BRADBERRY  Birthplace of Mother: Ky.
+  Informant: John NEWMAN  Address: Vincent, Ky.
+  Cause of Death: Asphyxia from compression of cord
+  Signed: B.F. TYE, M.D., Travelers Rest
+  Place of Burial: JACKSON Graveyard  Date of Burial: 8/26/1916
+
+Henry H.  8-6-1916  File No. 21663
+  DOB: 1844
+  Place of Death: Travelers Rest, Owsley Co., Ky.
+  Sex: Male  Race: White  Martial Status: Widowed  Age: 72y
+  Occupation: Farmer  Birthplace: Kentucky
+  Cause of Death: Cerebral Hemorrage
+  Contributory: Arterioscolerosis  Duration of Illness: 2 years
+  Signed: J.A. MAHAFFEY  Address of Signed: Sturgeon
+  Place of Burial: S.M. CECIL g.y.  Date of Burial: 8/7/1916
+  Undertaker: Friends  Address of Undertaker: Travelers Rest
+  NOTE: this extract omits Name of Father / Maiden Name of Mother / Informant
+  (those fields are present and filled on the neighboring Willie row).
+  Matches Kendrick/Bowman-Chandler blank parent cells (C529).

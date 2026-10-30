@@ -1,0 +1,23 @@
+Pass 65 — 1920 Owsley Wild Dog Precinct No. 7 original (ED 94) nil Newman
+30 Oct 2026 America/New_York. Original image seen.
+
+NARA T625-594 / IA 14thcensusofpopu594unit.
+Leaves 1192-1205 = ED 94, Mag Dist 7 Wild Dog Precinct No. 7, SD 10, sheets 1 A through 7 B, dwellings/families 1-129.
+hOCR empty of names; isolation by JP2 header sampling then visual name-column read of all 14 sheets.
+
+Header sh 1 A (leaf 1192): State Kentucky, County Owsley, Wild Dog Precinct No. 7, SD 10, ED 94, sheet 1 A.
+Header sh 7 B (leaf 1205): same precinct, sheet 7 B.
+
+Visual every-name-column: NIL Newman / Newnam / Manerva Newnam as head or obvious wife.
+
+Rejected same-name on sh 1 B (leaf 1193) hh 18/18:
+  Evans, William  Head  M  68  M
+  Minerva         Wife  F  67  M
+  (plus a young male in the house — not a Newnam surname)
+Evans ≠ Newnam. DISPROVED as identity with M850 widow Manerva Newnam (C650).
+
+Last population sheet 7 B: hh 127/127 Whicker, James; hh 128/128 Young, James; hh 129/129 Creech, Enoch head + Tackett, Ray in home. Then blank lines.
+
+JPEGs: 1920-owsley-ed94-sh1a-hdr.jpg; 1920-owsley-ed94-sh7b-hdr.jpg; 1920-owsley-ed94-sh1b-hh18-evans.jpg.
+
+Mapping context (not a Sturgeon read): leaf 1080 = Dist 2 Sturgeon Precinct No. 2, ED 89, sh 8 A; leaf 1095/1115 = Island Creek Precinct No. 3, ED 90; leaf 1130 = Cow Creek Precinct No. 4, ED 91. 1920 Sturgeon ED 89 originals for Arthur/Manerva as non-head remain residual.

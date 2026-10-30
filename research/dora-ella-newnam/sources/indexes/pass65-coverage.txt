@@ -1,0 +1,13 @@
+Pass 65 coverage — 30 Oct 2026 America/New_York
+Catalog 86 / hasMore false / totalMatched 86. Unchanged vs Pass 64.
+NEW vs 86: none. Nested reviewer not respawned. Message queue empty.
+RUNNING process-only (not linear-read): Dora B045 B061 films bc-9acea467; Scan ED5 bc-0039b8bf; Dora location search bc-995d22ea PR #31 OPEN (Bollinger 1900 Whitewater/Union; their IDs not imported).
+WAITING: Dora's biography research bc-aea168dd PR #33 OPEN on cursor/dora-biography-passes-5b6a (sibling C281 not imported).
+IDLE: Dora passes from B049 bc-6a14d74c.
+This run bc-01a18bb4.
+Originals image-seen: 1910 T624-498 leaf 881 ED 165 sh 7 B hh 119/119 Newman, Arthur; 1920 T625-594 leaves 1192-1205 ED 94 Wild Dog Precinct No. 7 sh 1 A-7 B hh 1-129 nil Newman/Newnam.
+Lee 1920 HTML Manerva/Minerva hits opened (none a ~66 Newnam widow). 1880 Owsley Sturgeon Kendrick Burris x Manerva 25 VA opened (POSSIBLE, unmerged).
+KYDI 1921 year file: attempted; HTTP 503 or result logged separately.
+Still unseen: original 1932 DC vol 020 #09525; original 1916 DC vol 044 #21663; Estill 1826-1850 bond; M123-3; T288 index.
+Residual B063: 1920 Manerva as non-head in Sturgeon ED 89 (or with Arthur); 1916 DC face.
+Do not promote C509. Skip C221-C280 / L245-L342 / S259-S266. Do not mint C274-C280. Do not import sibling C281.

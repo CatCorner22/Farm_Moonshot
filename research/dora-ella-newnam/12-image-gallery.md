@@ -1,6 +1,6 @@
 # Source-image gallery: Dora Ella Newnam Stone
 
-One hundred thirty-five numbered plates (JPEG/PNG captures from NARA microfilm via Internet Archive, plus header and household crops). Plates **7g–7j** are the 1860 Owsley and 1880 Lee Gray originals added in passes 39–40. Plates **7k–7z** and **8a–8f** are the later 1850–1860 Owsley/Breathitt/Madison isolations, including Harrison Newman with Elias aged eight, H.H. Newman with Elias aged eighteen, and Giles Mays at one month and eleven. Plates **8j–8l** are the 1840 Estill originals (John and Christian Tincher, the county recap, and William Newton not Tincher) added in pass 55; plates **8m–8n** are the 1840 Clay originals added in pass 56; plates **8o–8q** are the 1840 Breathitt originals (first name page, last name page ending Total, and the county Abstract) added in pass 57; plates **8r–8u** are the 1840 Estill McIlvain originals and the Edmonson divider added in pass 58; plates **8v–8ac** are the M850 pension-payment cards added in pass 63 (Elias T. Newnam, Henry H. Newnam, Manerva Newnam, and the Newman-spelling collisions). They sit after the 1880 Buck Creek plate because those numbers were already assigned. They are ordered by **the date of the census they record or index**, not by the date the film was scanned. Plates **1a–2c**, **7a–7c**, **55b–55c**, and the 1880 G-600 cards were added in passes 34–37.
+One hundred sixty numbered plates (JPEG/PNG captures from NARA microfilm via Internet Archive, plus header and household crops). Plates **7g–7j** are the 1860 Owsley and 1880 Lee Gray originals added in passes 39–40. Plates **7k–7z** and **8a–8f** are the later 1850–1860 Owsley/Breathitt/Madison isolations, including Harrison Newman with Elias aged eight, H.H. Newman with Elias aged eighteen, and Giles Mays at one month and eleven. Plates **8j–8l** are the 1840 Estill originals (John and Christian Tincher, the county recap, and William Newton not Tincher) added in pass 55; plates **8m–8n** are the 1840 Clay originals added in pass 56; plates **8o–8q** are the 1840 Breathitt originals (first name page, last name page ending Total, and the county Abstract) added in pass 57; plates **8r–8u** are the 1840 Estill McIlvain originals and the Edmonson divider added in pass 58; plates **8v–8ac** are the M850 pension-payment cards added in pass 63 (Elias T. Newnam, Henry H. Newnam, Manerva Newnam, and the Newman-spelling collisions); plates **8ad–8ai** are the 1900 Sturgeon and 1910 Wild Dog Henry H. originals added in pass 64; plates **8aj–8ao** are the 1910 Sturgeon Arthur original and the 1920 Wild Dog nil (including the rejected Evans+Minerva house) added in pass 65; plates **8ap–8au** are the 1920 Island Creek Arthur original, the Soundex Arthur card, the leftover Sturgeon ED 89 closer, and the Minerva-slot Soundex card (Minnie, not Minerva) added in pass 66; plates **8av–8bb** are the 1920 Island Creek remainder headers, the rejected Barker Malvera and Wilson×Minerva houses, the Cow Creek opener, and the Soundex Walter Logan / Walter A. Louisville cards added in pass 67. They sit after the 1880 Buck Creek plate because those numbers were already assigned. They are ordered by **the date of the census they record or index**, not by the date the film was scanned. Plates **1a–2c**, **7a–7c**, **55b–55c**, and the 1880 G-600 cards were added in passes 34–37.
 
 Soundex and Miracode cards sit with the census year they index, immediately after any original population schedules for that year.
 
@@ -86,6 +86,31 @@ Diplomatic transcriptions: [`08-transcriptions.md`](08-transcriptions.md). Citat
 | 8aa | 1916–1920 | FAN | [M850 1661 p0513 — Manerva Newnam reverse](sources/military/m850-1661-p0513-newnam-manerva-reverse.jpg) |
 | 8ab | 1907–1917 | Negative search | [M850 1660 p0627 — Newman, Eli O., 9 Ind (not Elias T.)](sources/military/m850-1660-p0627-newman-eli-o-eliza-not-elias-t.jpg) |
 | 8ac | 1907–1920 | Rejected same-name | [M850 1660 p0767 — Newman, Henry H., Corp A 81 Pa (not 14 Ky Cav)](sources/military/m850-1660-p0767-newman-henry-h-81pa-not-14kycav.jpg) |
+| 8ad | 1 Jun 1900 | FAN | [Owsley ED 89 sheet 7 B header — Mag Dist 2 Sturgeon](sources/census/1900-owsley-ed89-sh7b-hdr.jpg) |
+| 8ae | 1 Jun 1900 | FAN | [Dwelling 114/115 — Newnam, Henry H. 55; Minerva 48](sources/census/1900-owsley-ed89-sh7b-hh114-henry.jpg) |
+| 8af | 1 Jun 1900 | FAN | [Household crop — Henry H., Minerva, Arthur, Josephine, Lou V., Walter](sources/census/1900-owsley-ed89-sh7b-hh114-henry-crop.jpg) |
+| 8ag | 18 Apr 1910 | FAN | [Owsley ED 170 sheet 2 A header — Mag Dist 7 Wild Dog](sources/census/1910-owsley-ed170-sh2a-hdr.jpg) |
+| 8ah | 18 Apr 1910 | FAN | [Dwelling 20/20 — Newman, Henry H. 68 m2 15; Manerva 56](sources/census/1910-owsley-ed170-sh2a-hh20-henry-manerva.jpg) |
+| 8ai | 18 Apr 1910 | FAN | [Household crop — Henry H. and Manerva, couple alone](sources/census/1910-owsley-ed170-sh2a-hh20-crop.jpg) |
+| 8aj | Apr 1910 | FAN | [Owsley ED 165 sheet 7 B header — Mag Dist 2 Sturgeon](sources/census/1910-owsley-ed165-sh7b-hdr.jpg) |
+| 8ak | Apr 1910 | FAN | [Dwelling 119/119 — Newman, Arthur 27 m1 8; Florence 23; Omer 3](sources/census/1910-owsley-ed165-sh7b-hh119-arthur.jpg) |
+| 8al | Apr 1910 | FAN | [Names crop — Arthur, Florence, Omer](sources/census/1910-owsley-ed165-sh7b-hh119-names.jpg) |
+| 8am | 1 Jan 1920 | Negative search | [Owsley ED 94 sheet 1 A header — Wild Dog Precinct No. 7](sources/census/1920-owsley-ed94-sh1a-hdr.jpg) |
+| 8an | 1 Jan 1920 | Negative search | [Owsley ED 94 sheet 7 B header — last population sheet](sources/census/1920-owsley-ed94-sh7b-hdr.jpg) |
+| 8ao | 1 Jan 1920 | Rejected same-name | [ED 94 sh 1 B hh 18 — Evans, William 68; Minerva 67](sources/census/1920-owsley-ed94-sh1b-hh18-evans.jpg) |
+| 8ap | 1 Jan 1920 | FAN | [Owsley ED 90 sheet 7 A header — Island Creek Precinct No. 3](sources/census/1920-owsley-ed90-sh7a-hdr.jpg) |
+| 8aq | 1 Jan 1920 | FAN | [Dwelling 113/121 — Newman, Arthur 45; Florence 33; Omer 12; Grant 3½](sources/census/1920-owsley-ed90-sh7a-hh113-arthur.jpg) |
+| 8ar | 1 Jan 1920 | FAN | [Names crop — Arthur, Florence, Omer, Grant; no Manerva](sources/census/1920-owsley-ed90-sh7a-hh113-names.jpg) |
+| 8as | 1920 (index) | FAN | [Kentucky N-550 — Newman, Arthur 45, Owsley ED 90 sh 7 ln 32](sources/soundex/ky1920-n550-p4109-newman-arthur-owsley.jpg) |
+| 8at | 1 Jan 1920 | Negative search | [Owsley ED 89 sheet 13 A header — last populated Sturgeon sheet](sources/census/1920-owsley-ed89-sh13a-hdr.jpg) |
+| 8au | 1920 (index) | Negative search | [Kentucky N-550 leaf 4630 — Minnie 12 Logan, not Minerva](sources/soundex/ky1920-n550-p4630-minnie-not-minerva.jpg) |
+| 8av | 1 Jan 1920 | Negative search | [Owsley ED 90 sheet 9 A header — Island Creek remainder](sources/census/1920-owsley-ed90-sh9a-hdr.jpg) |
+| 8aw | 1 Jan 1920 | Negative search | [Owsley ED 90 sheet 13 B header — last Island Creek sheet](sources/census/1920-owsley-ed90-sh13b-hdr.jpg) |
+| 8ax | 1 Jan 1920 | Rejected same-name | [ED 89 sh 3 A hh 37 — Barker, Malvera 64 wd, not Manerva Newnam](sources/census/1920-owsley-ed89-sh3a-hh37-baker-manerva.jpg) |
+| 8ay | 1 Jan 1920 | Rejected same-name | [ED 89 sh 7 B hh 122 — Wilson, Harden 70 × Minerva 70](sources/census/1920-owsley-ed89-sh7b-hh122-wilson-manerva.jpg) |
+| 8az | 1 Jan 1920 | Negative search | [Owsley ED 91 sheet 1 A header — Cow Creek Precinct No. 4](sources/census/1920-owsley-ed91-sh1a-hdr.jpg) |
+| 8ba | 1920 (index) | Rejected same-name | [Kentucky N-550 — Newman, Walter 39, Logan (Ora, Mary, Ruth)](sources/soundex/ky1920-n550-p4776-newman-walter-logan.jpg) |
+| 8bb | 1920 (index) | Rejected same-name | [Kentucky N-550 — Newman, Walter A 33, Louisville (Elva, Walter 1½)](sources/soundex/ky1920-n550-p4778-newman-walter-a-louisville.jpg) |
 | 8 | 13 Jun 1900 | Rejected same-name | [Douglas County, Missouri — Thomas and Nancy E. Stone](sources/census/1900-douglas-mo-ed159-stone-sheet.jpg) |
 | 9 | 13 Jun 1900 | Rejected same-name | [Douglas County Stone household (crop)](sources/census/1900-douglas-mo-ed159-stone-hh-crop.jpg) |
 | 10 | 1900 (index) | Rejected same-name | [Missouri S-350 — Thomas Stone, 44, Douglas County](sources/soundex/mo1900-s350-p1678-stone-thomas-44-douglas.jpg) |
@@ -1566,4 +1591,229 @@ Newman given-name Elias slot. **Eli O.** Pvt I 9 Ind, Indianapolis, died 9 Jul 1
 Bottom card. **Newman, Henry H.** Corp Co A 81 Pa, Philadelphia, cert **1008927**. Top card Henry W. 1 Ind VHA Detroit. **Not** Co C 14th KY Cav.
 
 ![M850 1660 p0767 Henry H. Newman 81 Pa](sources/military/m850-1660-p0767-newman-henry-h-81pa-not-14kycav.jpg)
+
+### 8ad · 1 Jun 1900 · Owsley ED 89 sheet 7 B header
+
+**File:** [`sources/census/1900-owsley-ed89-sh7b-hdr.jpg`](sources/census/1900-owsley-ed89-sh7b-hdr.jpg)  
+**Source:** S508 · C669 · DOC098
+
+Kentucky, Owsley, Mag Dist **2**, ED **89**, sheet **7 B**. T623-547 leaf 579.
+
+![1900 Owsley ED 89 sh 7B header](sources/census/1900-owsley-ed89-sh7b-hdr.jpg)
+
+### 8ae · 1 Jun 1900 · Dwelling 114/115 — Newnam, Henry H. 55; Minerva 48
+
+**File:** [`sources/census/1900-owsley-ed89-sh7b-hh114-henry.jpg`](sources/census/1900-owsley-ed89-sh7b-hh114-henry.jpg)  
+**Source:** S508 · C669 · DOC098
+
+Henry H. Oct 1844 age **55** m 35; Minerva 48 m 35 **4-2** VaVaVa; Arthur, Josephine, Lou V., Walter. Kendrick age 53 withdrawn.
+
+![1900 hh 114 Henry H. Newnam](sources/census/1900-owsley-ed89-sh7b-hh114-henry.jpg)
+
+### 8af · 1 Jun 1900 · Household crop — Henry H. and Minerva
+
+**File:** [`sources/census/1900-owsley-ed89-sh7b-hh114-henry-crop.jpg`](sources/census/1900-owsley-ed89-sh7b-hh114-henry-crop.jpg)  
+**Source:** S508 · C669 · DOC098
+
+Two-pass diplomatic crop. Surname **Newnam**. Josephine 17 is the 1916 Gilbert candidate.
+
+![1900 hh 114 crop](sources/census/1900-owsley-ed89-sh7b-hh114-henry-crop.jpg)
+
+### 8ag · 18 Apr 1910 · Owsley ED 170 sheet 2 A header
+
+**File:** [`sources/census/1910-owsley-ed170-sh2a-hdr.jpg`](sources/census/1910-owsley-ed170-sh2a-hdr.jpg)  
+**Source:** S509 · C672 · DOC099
+
+Kentucky, Owsley, Mag Dist **7 Wild Dog**, SD **11**, ED **170**, sheet **2 A**. Enumerator **James W. McCuan**, 18 April 1910.
+
+![1910 Owsley ED 170 sh 2A header](sources/census/1910-owsley-ed170-sh2a-hdr.jpg)
+
+### 8ah · 18 Apr 1910 · Dwelling 20/20 — Newman, Henry H. 68 m2 15; Manerva 56
+
+**File:** [`sources/census/1910-owsley-ed170-sh2a-hh20-henry-manerva.jpg`](sources/census/1910-owsley-ed170-sh2a-hh20-henry-manerva.jpg)  
+**Source:** S509 · C672 · DOC099
+
+**m2 15** both lines; Manerva **5-4**; Farmer General Farm OA. Couple alone. Conflict **#25** vs 1900 m 35.
+
+![1910 hh 20 Henry H. Newman](sources/census/1910-owsley-ed170-sh2a-hh20-henry-manerva.jpg)
+
+### 8ai · 18 Apr 1910 · Household crop — Henry H. and Manerva
+
+**File:** [`sources/census/1910-owsley-ed170-sh2a-hh20-crop.jpg`](sources/census/1910-owsley-ed170-sh2a-hh20-crop.jpg)  
+**Source:** S509 · C672 · DOC099
+
+Nativity Henry KKK; Manerva Virginia Virginia Kentucky.
+
+![1910 hh 20 crop](sources/census/1910-owsley-ed170-sh2a-hh20-crop.jpg)
+
+### 8aj · Apr 1910 · Owsley ED 165 sheet 7 B header
+
+**File:** [`sources/census/1910-owsley-ed165-sh7b-hdr.jpg`](sources/census/1910-owsley-ed165-sh7b-hdr.jpg)  
+**Source:** S519 · C693 · DOC101
+
+Kentucky, Owsley, Mag Dist **2 Sturgeon**, sheet **7 B**. ED stamp faint; Sturgeon Mag Dist 2 on T624-**498** is ED **165**.
+
+![1910 Owsley ED 165 sh 7B header](sources/census/1910-owsley-ed165-sh7b-hdr.jpg)
+
+### 8ak · Apr 1910 · Dwelling 119/119 — Newman, Arthur 27 m1 8; Florence 23; Omer 3
+
+**File:** [`sources/census/1910-owsley-ed165-sh7b-hh119-arthur.jpg`](sources/census/1910-owsley-ed165-sh7b-hh119-arthur.jpg)  
+**Source:** S519 · C693 · DOC101
+
+Farmer General Farm OA. Florence **1-1**, nativity Kentucky Tennessee Kentucky. Next hh Moore, James.
+
+![1910 hh 119 Arthur Newman](sources/census/1910-owsley-ed165-sh7b-hh119-arthur.jpg)
+
+### 8al · Apr 1910 · Names crop — Arthur, Florence, Omer
+
+**File:** [`sources/census/1910-owsley-ed165-sh7b-hh119-names.jpg`](sources/census/1910-owsley-ed165-sh7b-hh119-names.jpg)  
+**Source:** S519 · C693 · DOC101
+
+Pass 2 given names from this crop.
+
+![1910 hh 119 names](sources/census/1910-owsley-ed165-sh7b-hh119-names.jpg)
+
+### 8am · 1 Jan 1920 · Owsley ED 94 sheet 1 A header
+
+**File:** [`sources/census/1920-owsley-ed94-sh1a-hdr.jpg`](sources/census/1920-owsley-ed94-sh1a-hdr.jpg)  
+**Source:** S518 · C690 · DOC102
+
+Kentucky, Owsley, Wild Dog Precinct No. **7**, SD **10**, ED **94**, sheet **1 A**.
+
+![1920 Owsley ED 94 sh 1A header](sources/census/1920-owsley-ed94-sh1a-hdr.jpg)
+
+### 8an · 1 Jan 1920 · Owsley ED 94 sheet 7 B header
+
+**File:** [`sources/census/1920-owsley-ed94-sh7b-hdr.jpg`](sources/census/1920-owsley-ed94-sh7b-hdr.jpg)  
+**Source:** S518 · C690 · DOC102
+
+Last population sheet of Wild Dog Precinct No. 7. Hh **1–129** name columns: nil Newman/Newnam.
+
+![1920 Owsley ED 94 sh 7B header](sources/census/1920-owsley-ed94-sh7b-hdr.jpg)
+
+### 8ao · 1 Jan 1920 · ED 94 sh 1 B hh 18 — Evans, William 68; Minerva 67
+
+**File:** [`sources/census/1920-owsley-ed94-sh1b-hh18-evans.jpg`](sources/census/1920-owsley-ed94-sh1b-hh18-evans.jpg)  
+**Source:** S518 · C691 · DOC102
+
+Rejected. Surname **Evans**. Not Manerva Newnam.
+
+![1920 hh 18 Evans Minerva](sources/census/1920-owsley-ed94-sh1b-hh18-evans.jpg)
+
+### 8ap · 1 Jan 1920 · Owsley ED 90 sheet 7 A header
+
+**File:** [`sources/census/1920-owsley-ed90-sh7a-hdr.jpg`](sources/census/1920-owsley-ed90-sh7a-hdr.jpg)  
+**Source:** S525 · C700 · DOC103
+
+Kentucky, Owsley, Island Creek Precinct No. **3**, SD **10**, ED **90**, sheet **7 A**. Enumerator date not on the retained crop.
+
+![1920 Owsley ED 90 sh 7A header](sources/census/1920-owsley-ed90-sh7a-hdr.jpg)
+
+### 8aq · 1 Jan 1920 · Dwelling 113/121 — Newman, Arthur 45; Florence 33; Omer 12; Grant 3½
+
+**File:** [`sources/census/1920-owsley-ed90-sh7a-hh113-arthur.jpg`](sources/census/1920-owsley-ed90-sh7a-hh113-arthur.jpg)  
+**Source:** S525 · C700 · DOC103
+
+Farmer General Farm OA, farm schedule 110. **No** Manerva in the house. Next hh McConnell, Mary H. 49 wd.
+
+![1920 hh 113 Arthur Newman](sources/census/1920-owsley-ed90-sh7a-hh113-arthur.jpg)
+
+### 8ar · 1 Jan 1920 · Names crop — Arthur, Florence, Omer, Grant
+
+**File:** [`sources/census/1920-owsley-ed90-sh7a-hh113-names.jpg`](sources/census/1920-owsley-ed90-sh7a-hh113-names.jpg)  
+**Source:** S525 · C700 · C702 · DOC103
+
+Pass 2 given names from this crop. Manerva is not a line.
+
+![1920 hh 113 names](sources/census/1920-owsley-ed90-sh7a-hh113-names.jpg)
+
+### 8as · 1920 (index) · N-550 Newman, Arthur 45, Owsley ED 90 sheet 7 line 32
+
+**File:** [`sources/soundex/ky1920-n550-p4109-newman-arthur-owsley.jpg`](sources/soundex/ky1920-n550-p4109-newman-arthur-owsley.jpg)  
+**Source:** S526 · C700 · DOC104
+
+Vol **76**. Florence 33, Omer 12, Grant 3½. Matches the ED 90 original.
+
+![1920 Soundex Arthur Owsley](sources/soundex/ky1920-n550-p4109-newman-arthur-owsley.jpg)
+
+### 8at · 1 Jan 1920 · Owsley ED 89 sheet 13 A header
+
+**File:** [`sources/census/1920-owsley-ed89-sh13a-hdr.jpg`](sources/census/1920-owsley-ed89-sh13a-hdr.jpg)  
+**Source:** S527 · C703 · DOC105
+
+Last populated sheet of Sturgeon Precinct No. 2. Enumerator: 1,222 people in the district. Name columns of sh **11 A–13 A**: nil Newman head.
+
+![1920 Owsley ED 89 sh 13A header](sources/census/1920-owsley-ed89-sh13a-hdr.jpg)
+
+### 8au · 1920 (index) · N-550 leaf 4630 — Minnie 12 Logan, not Minerva
+
+**File:** [`sources/soundex/ky1920-n550-p4630-minnie-not-minerva.jpg`](sources/soundex/ky1920-n550-p4630-minnie-not-minerva.jpg)  
+**Source:** S528 · C705 · DOC104
+
+The alphabetical slot where Minerva Newman would sit. Granddaughter of John Neal. Not C650.
+
+![1920 Soundex Minnie not Minerva](sources/soundex/ky1920-n550-p4630-minnie-not-minerva.jpg)
+
+### 8av · 1 Jan 1920 · Owsley ED 90 sheet 9 A header
+
+**File:** [`sources/census/1920-owsley-ed90-sh9a-hdr.jpg`](sources/census/1920-owsley-ed90-sh9a-hdr.jpg)  
+**Source:** S531 · C713 · C714 · DOC107
+
+Kentucky, Owsley, Island Creek Precinct No. **3**, ED **90**, sheet **9 A**. Enumerator **Oscar J. Judd**. Continuation of Moore, Marion: Dora Daughter 10, not P001. Name columns of sh **9 A–13 B**: nil Newman head.
+
+![1920 Owsley ED 90 sh 9A header](sources/census/1920-owsley-ed90-sh9a-hdr.jpg)
+
+### 8aw · 1 Jan 1920 · Owsley ED 90 sheet 13 B header
+
+**File:** [`sources/census/1920-owsley-ed90-sh13b-hdr.jpg`](sources/census/1920-owsley-ed90-sh13b-hdr.jpg)  
+**Source:** S531 · C713 · DOC107
+
+Last sheet of Island Creek Precinct No. 3. Combined with Arthur on sh **7 A**: entire ED **90** has one Newman household.
+
+![1920 Owsley ED 90 sh 13B header](sources/census/1920-owsley-ed90-sh13b-hdr.jpg)
+
+### 8ax · 1 Jan 1920 · ED 89 sh 3 A hh 37 — Barker, Malvera 64 wd
+
+**File:** [`sources/census/1920-owsley-ed89-sh3a-hh37-baker-manerva.jpg`](sources/census/1920-owsley-ed89-sh3a-hh37-baker-manerva.jpg)  
+**Source:** S532 · C711 · DOC107
+
+Rejected. Surname **Barker**. Mother of Martha Eversole, 44 wd. Filename is a first-pass misnomer. Not C650.
+
+![1920 hh 37 Barker Malvera](sources/census/1920-owsley-ed89-sh3a-hh37-baker-manerva.jpg)
+
+### 8ay · 1 Jan 1920 · ED 89 sh 7 B hh 122 — Wilson, Harden 70 × Minerva 70
+
+**File:** [`sources/census/1920-owsley-ed89-sh7b-hh122-wilson-manerva.jpg`](sources/census/1920-owsley-ed89-sh7b-hh122-wilson-manerva.jpg)  
+**Source:** S533 · C712 · DOC107
+
+Rejected. Surname **Wilson**. Husband Harden living (Henry died 1916). Arthor 36 is not Arthur Newman.
+
+![1920 hh 122 Wilson Minerva](sources/census/1920-owsley-ed89-sh7b-hh122-wilson-manerva.jpg)
+
+### 8az · 1 Jan 1920 · Owsley ED 91 sheet 1 A header
+
+**File:** [`sources/census/1920-owsley-ed91-sh1a-hdr.jpg`](sources/census/1920-owsley-ed91-sh1a-hdr.jpg)  
+**Source:** S537 · C715 · C716 · DOC107
+
+Cow Creek Precinct No. **4**, ED **91**, sheet **1 A**. Enumerator **J.S./A.S. Dooley**. Partial: the district continues after leaf **1133**. Banning, Dora wife 44, not P001.
+
+![1920 Owsley ED 91 sh 1A header](sources/census/1920-owsley-ed91-sh1a-hdr.jpg)
+
+### 8ba · 1920 (index) · N-550 Newman, Walter 39, Logan
+
+**File:** [`sources/soundex/ky1920-n550-p4776-newman-walter-logan.jpg`](sources/soundex/ky1920-n550-p4776-newman-walter-logan.jpg)  
+**Source:** S534 · C717 · C718 · DOC108
+
+Ora 29, Mary 7, Ruth 1 6/12. Not Henry’s 1900 son (Logan vs Owsley; age 39 vs expected ~31). No Manerva.
+
+![1920 Soundex Walter Logan](sources/soundex/ky1920-n550-p4776-newman-walter-logan.jpg)
+
+### 8bb · 1920 (index) · N-550 Newman, Walter A 33, Louisville
+
+**File:** [`sources/soundex/ky1920-n550-p4778-newman-walter-a-louisville.jpg`](sources/soundex/ky1920-n550-p4778-newman-walter-a-louisville.jpg)  
+**Source:** S534 · C717 · C719 · DOC108
+
+Elva 27, Walter 1½, Poplar Level Road. Unmerged vs Henry’s son. No Manerva.
+
+![1920 Soundex Walter A Louisville](sources/soundex/ky1920-n550-p4778-newman-walter-a-louisville.jpg)
 

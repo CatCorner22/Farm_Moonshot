@@ -2218,4 +2218,308 @@ Pass 2: **NIL** Newman / Newnam in this block. Same twenty names as the website 
 ### Facts extracted → claim IDs
 - GPO OCR Lee nil → C657
 
+## DOC098 — 1900 U.S. census, Owsley Co., KY, ED 89 sheet 7 B, dw 114/115 (original)
+- JPEGs: `sources/census/1900-owsley-ed89-sh7b-hdr.jpg` SHA-256 `3cdc20b21561d0f7d1ee628df6e09316995f1f837763d699b0cb609a74efd49c`
+- Household: `…hh114-henry.jpg` `cf5f1f331e4345afd2a66985679f72245a93d6ba800dfdc4e2e024608c00a2b7`
+- Crop: `…hh114-henry-crop.jpg` `6f3f80d56e8fe6de167d6ca398d06c15d20b7f5861c1f1ae364f240312c1d9b4`
+- Provenance: NARA T623-**547** / IA `12thcensusofpopu547unit` `_0579.jp2`, opened 30 Oct 2026. **Original image seen.** Pass 1 from the committed household JPEG; Pass 2 from the tighter crop, blind of Kendrick.
+
+### Diplomatic — header
+
+> TWELFTH CENSUS OF THE UNITED STATES. SCHEDULE No. 1.—POPULATION.  
+> State **Kentucky** · County **Owsley** · Mag. Dist. **2** · Enumeration District No. **89** · Sheet **7 B**
+
+### Diplomatic — dwelling 114, family 115
+
+| Dw/Fam | Name | Rel | Color | Sex | Birth | Age | Mar | Yrs | Ch. | Nativity |
+|---|---|---|---|---|---|---|---|---|---|---|
+| 114/115 | **Newnam, Henry H.** | Head | W | M | **Oct 1844** | **55** | m | **35** | | Kentucky Kentucky Kentucky |
+| | **Minerva** | wife | W | F | *(blank)* | **48** | m | **35** | **4 2** | Virginia Virginia Virginia |
+| | Arthur | Son | W | M | Oct 1878 | 21 | S | | | Kentucky Kentucky Kentucky |
+| | Josephine | Daughter | W | F | Oct 1882 | 17 | S | | | Kentucky Kentucky Kentucky |
+| | **Lou V.** | Daughter | W | F | Oct 1884 | 15 | S | | | Kentucky Kentucky Kentucky |
+| | Walter | Son | W | M | Jan 1889 | 11 | S | | | Kentucky Kentucky Kentucky |
+
+Pass 2: Surname **Newnam** (not Newman). Henry’s age is **55**, not Kendrick’s **53**. Minerva’s month/year of birth is **blank** on this sheet. Children-ever-born **4-2** sit on **her** line. Third letter of the daughter’s given name is an open **u** → **Lou V.** (a closed-u reading is Lon; Kendrick Lou V.). Occupation column is **not** on the retained household JPEG. Next household 115/116 **Botner, Westley A.** 51 wd.
+
+### Facts extracted → claim IDs
+- Henry H. 55 Oct 1844 + Minerva 48 4-2 → C669 C670 C674 C683
+- Josephine 17 daughter → C671
+
+## DOC099 — 1910 U.S. census, Owsley Co., KY, ED 170 sheet 2 A, dw 20/20 (original)
+- JPEGs: `sources/census/1910-owsley-ed170-sh2a-hdr.jpg` SHA-256 `4dc598d40ff838a1071f31f995eaa2d6c3c14114c0f080633a836e67676ccb36`
+- Household: `…hh20-henry-manerva.jpg` `110445c2abf16b82587d9025e6a724f00df9821ca6a3cad39e2fb9d94d47938f`
+- Crop: `…hh20-crop.jpg` `b6456b440ae6948712f9e8f1515f3cfb5e52aa472b3ba27f1c7538b8e74d56f3`
+- Provenance: NARA T624-**498** / IA `13thcensus1910po498unit` `_0988.jp2`, opened 30 Oct 2026. **Original image seen.** Pass 1 from the name-column + personal-description zooms; Pass 2 from the nativity/occupation zooms.
+
+### Diplomatic — header
+
+> THIRTEENTH CENSUS OF THE UNITED STATES: 1910 POPULATION  
+> State **Kentucky** · County **Owsley** · Magisterial District **7 Wild Dog**  
+> Supervisor’s District No. **11** · Enumeration District No. **170** · Sheet No. **2 A**  
+> Enumerated by me on the **18** day of **April** 1910, **James W. McCuan**, Enumerator.
+
+### Diplomatic — dwelling 20, family 20 (lines 1–2)
+
+> **20 20 Newman, Henry H.** Head M W **68** **m2 15** Kentucky Kentucky Kentucky English **Farmer** **General Farm** **OA** yes yes  
+> **Manerva** Wife F W **56** **m2 15** **5 4** Virginia Virginia Kentucky English **none** yes no
+
+Pass 2: Surname on this schedule is **Newman**. Wife’s given name is **Manerva** (not Minerva). Both lines **m2 15**. Mother of how many children **5-4** on Manerva only. Mother’s birthplace **Kentucky** here vs **Virginia** in 1900 (**C686**). Next household 21-21 **Botner, Isaac** 80 m1 54. Couple is **alone** — Arthur/Josephine/Lou/Walter are not in this house.
+
+### Facts extracted → claim IDs
+- Henry H. 68 m2 15 + Manerva 56 m2 15 5-4 → C672 C673 C674 C675 C676
+
+## DOC100 — KYDI 1920 + Owsley/Lee 1920 DC extracts (Manerva civil-row hunt)
+- Extract: `sources/indexes/kydi-1920-newman-manerva-nil-pass64.txt` SHA-256 `c320212af183f45e6d94208882538c7a3127a5a3ca87a0a268f388ea57bc04eb`
+- Owsley DC: `owsley-1920dc-newman-nil-pass64.txt` `e5fca0f81ef170bf3b4e2842c91b2bcc449b1a2c1bc6b4ae7c112f3ac31aa5bb`
+- Lee deaths + Books 3–5: `lee-1920-marr-manerva-nil-pass64.txt` `752c4990abacef8b49877db1d5c81e4bbe8424cf05a8b9a6231c82f3faabbb27`
+- Provenance: Reclaim the Records year file (not committed) and Kendrick HTML, opened 30 Oct 2026. **Index/extract only.** Original 1920 DC images **not seen**.
+
+### Diplomatic (index)
+
+> KYDI 1920: NEWMAN/NEWNAM **nil LEE, nil OWSLY**. MANERVA/MINERVA + Newman **nil**. 08/28/1920 Owsley = **BATES EVA U/1**.  
+> Owsley 1920 table: Newman decedent **nil**; **WILSON, Manerva J.** 12 Sep 1920 d/o Hurst × Rackard.  
+> Lee Books 3–5: **nil** Henry H. × Manerva.
+
+Pass 2: Do not treat Eva Bates or Manerva Wilson as the pension widow.
+
+### Facts extracted → claim IDs
+- KYDI/Owsley/Lee 1920 nil → C677 C678 C679 C680
+
+## DOC101 — 1910 U.S. census, Owsley Co., KY, ED 165 sheet 7 B, dw 119/119 (original)
+- JPEGs: `sources/census/1910-owsley-ed165-sh7b-hdr.jpg` SHA-256 `95cf3255b525c137ab4da7cf6abd81225a52b417c68391cc156323e7f83a683e`
+- Household: `…hh119-arthur.jpg` `b85f5ce3354e4f88fa0a3ac2526253d935a7e1eada65a792e5c96ad152551d9c`
+- Names: `…hh119-names.jpg` `aa77ed70561b9fa72530b54476dfe560220bc7fd3b2716dd1e471bfc590244b6`
+- Provenance: NARA T624-**498** / IA `13thcensus1910po498unit` `_0881.jp2`, opened 30 Oct 2026. **Original image seen.** Pass 1 from the names crop; Pass 2 from the full-household JPEG, blind of Kendrick for the given names, then checked.
+
+### Diplomatic — header
+
+> THIRTEENTH CENSUS OF THE UNITED STATES: 1910 POPULATION  
+> State **Kentucky** · County **Owsley** · Magisterial District **2 Sturgeon**  
+> Sheet No. **7 B**  
+> ED stamp on this banner is faint; Sturgeon Mag Dist 2 on T624-**498** is ED **165**. Enumerator date **not** on the retained crop.
+
+### Diplomatic — dwelling 119, family 119
+
+> **119 119 Newman, Arthur** Head M W **27** **m1 8** Kentucky Kentucky Kentucky English **Farmer** **General Farm** **OA**  
+> **Florence** Wife F W **23** **m1 8** **1 1** Kentucky **Tennessee** Kentucky English **none**  
+> **Omer** Son M W **3** S Kentucky Kentucky Kentucky
+
+Pass 2: Surname on this schedule is **Newman**. Both spouses **m1 8**. Florence children-ever-born **1-1**. Next household 120-120 **Moore, James**. Prior lines on the sheet are children of the previous house (Mattie / Thomas B. / Gertrude / Alpha L.), not Newmans. Age **27** vs expected **31** from 1900 Oct 1878 (**C694**).
+
+### Facts extracted → claim IDs
+- Arthur 27 m1 8 + Florence 23 + Omer 3 → C693 C694 C682
+
+## DOC102 — 1920 U.S. census, Owsley Co., KY, ED 94 sheets 1 A–7 B (original; nil Newman)
+- JPEGs: `sources/census/1920-owsley-ed94-sh1a-hdr.jpg` SHA-256 `2b0424fe0d003b9e5448d102954eea9a69d434b9169c95cd16d92ab55a0badfb`
+- Last sheet: `…sh7b-hdr.jpg` `a1e3a8966ff0e6834b6845e33468f1b775625d0fce851024283338d431df567b`
+- Rejected: `…sh1b-hh18-evans.jpg` `3b6543c0cba0fbe65fbb62fac1e7aadd15f8f71acb48734805bf3067c04c1a73`
+- Provenance: NARA T625-**594** / IA `14thcensusofpopu594unit` `_1192.jp2`–`_1205.jp2`, opened 30 Oct 2026. **Original image seen.** Pass 1 from header crops (district/ED); Pass 2 from name-column crops of all 14 sheets.
+
+### Diplomatic — header (sheet 1 A)
+
+> FOURTEENTH CENSUS OF THE UNITED STATES: 1920—POPULATION  
+> State **Kentucky** · County **Owsley** · Township **Wild Dog Precinct No. 7**  
+> Supervisor’s District No. **10** · Enumeration District No. **94** · Sheet No. **1 A**
+
+### Diplomatic — rejected household 18 (sheet 1 B, leaf 1193)
+
+> **18 18 Evans, William** Head M **68** M  
+> **Minerva** Wife F **67** M
+
+### Diplomatic — last households (sheet 7 B)
+
+> **127 127 Whicker, James** Head  
+> **128 128 Young, James** Head  
+> **129 129 Creech, Enoch** Head · **Tackett, Ray** in home
+
+Pass 2: Visual every-name-column of hh **1–129**: **NIL** Newman / Newnam / Manerva Newnam. Evans/Minerva is a **different** surname. This is a **PROVEN negative** of Manerva as a Newnam head in Henry’s 1910 district, not a proof she had died.
+
+### Facts extracted → claim IDs
+- ED 94 nil Newman → C690
+- Evans + Minerva 67 → C691
+
+## DOC103 — 1920 U.S. census, Owsley Co., KY, ED 90 sheet 7 A, dw 113/121 (original)
+- JPEGs: `sources/census/1920-owsley-ed90-sh7a-hdr.jpg` SHA-256 `e2fb15ce11eaee655b2d71dd1587ffe1f7f092e42241f3bb92def44d9be068d7`
+- Household: `…hh113-arthur.jpg` `c89be4ce8a866231627b5aff748b1e622f4992f9159d43c3908fb12627a19249`
+- Names: `…hh113-names.jpg` `3d0cd53b598ce3711830a7858431b708db7437b074d192d7dc1eebcf81f849fb`
+- Provenance: NARA T625-**594** / IA `14thcensusofpopu594unit` `_1114.jp2`, opened 30 Oct 2026. **Original image seen.** Pass 1 from the names crop (leaf 1114-names); Pass 2 from the full-household JPEG, blind of the Soundex card for the given names, then checked.
+
+### Diplomatic — header
+
+> FOURTEENTH CENSUS OF THE UNITED STATES: 1920—POPULATION  
+> State **Kentucky** · County **Owsley** · Township **Island Creek Precinct No. 3**  
+> Supervisor’s District No. **10** · Enumeration District No. **90** · Sheet No. **7 A**  
+> Enumerator date **not** on the retained header crop.
+
+### Diplomatic — dwelling 113, family 121, lines 32–35
+
+> **113 121 Newman, Arthur** Head owned-free farm M W **45** M Kentucky Kentucky Kentucky **Farmer** **General Farm** **OA** farm sch. **110**  
+> **Florence** Wife F W **33** M Kentucky Kentucky Kentucky **none**  
+> **Omer** Son M W **12** S school/read/write Kentucky Kentucky Kentucky  
+> **Grant** Son M W **3 1/2** S Kentucky Kentucky Kentucky
+
+Pass 2: Surname on this schedule is **Newman**. Arthur and Florence **cannot read or write** (two “no” marks). Omer attended school and can read and write. **No** mother, boarder, or other Newman in the house. Next household **114 122 McConnell, Mary H.** 49 wd. Sheet **7 B** (leaf **1115**) continues Edwards / Shepherd / Conrad / Baker — **nil** Newman. Age **45** vs 1910 **27** is conflict on the man, not a second household.
+
+### Facts extracted → claim IDs
+- Arthur 45 + Florence 33 + Omer 12 + Grant 3½, no Manerva → C700 C701 C702
+
+## DOC104 — 1920 Kentucky Soundex N-550 Arthur card + M-window (Manerva hunt)
+- Arthur card: `sources/soundex/ky1920-n550-p4109-newman-arthur-owsley.jpg` SHA-256 `6876b29bdef7a2e57441c6a94538f38f719b97b5b10d5a9a2a842a25d250a27b`
+- Minerva-slot card: `sources/soundex/ky1920-n550-p4630-minnie-not-minerva.jpg` `1c5db39270d8d26498b1f591def5cf32b2195eea17a8ec37a528068ee8858930`
+- Extract: `sources/indexes/ky1920-n550-m-window-manerva-nil-pass66.txt` `b553256b2364a37a47320a83daa7e3049e646de38d887b3e1cdae43b36fdb874`
+- Provenance: NARA M1563 reel 117 / IA `soundex1920ky117` leaves **4109** and **4582–4639**, opened 30 Oct 2026. **Images seen.** Pass 1 of 4109 from the JPEG; Pass 2 against the ED 90 original (DOC103).
+
+### Diplomatic — leaf 4109 (Arthur)
+
+> N550 **Newman, Arthur** (head of family)  
+> Kentucky · Vol **76** · E.D. **90** · Sheet **7** · Line **32**  
+> W **45** Kentucky · Owsley  
+> Newman, Florence W **33** Kentucky  
+> — Omer S **12** Kentucky  
+> — Grant S **3 1/2** Kentucky
+
+Pass 2: The card matches DOC103. A prior-session reading of this leaf as Arthur **37** / sheet **5** / John·Delma·Stella is **withdrawn**.
+
+### Diplomatic — leaf 4630 (Minerva slot)
+
+> N550 **Newman, Minnie** (individual)  
+> W **12** Georgia · Logan  
+> Enumerated with **Neal, John** · Grand daughter
+
+Pass 2: Leaves **4582–4639** run Mable → … → Melvin → **Minnie** → Mollie. **Nil** Manerva / Minerva Newman. Leaf **4583** Malcom Newman 36 Lee is a found-other (**C706**).
+
+### Facts extracted → claim IDs
+- Arthur Soundex = original → C700
+- M-window nil Manerva Newman → C705
+- Malcom Lee unmerged → C706
+
+## DOC105 — 1920 U.S. census, Owsley Co., KY, ED 89 sheets 11 A–13 B (original; nil Newman)
+- JPEG: `sources/census/1920-owsley-ed89-sh13a-hdr.jpg` SHA-256 `0e4d94ff5b3d9b233536c67497e3bc8d75a93dbd89d22431a36d876b5c61e397`
+- Extract: `owsley-1920-ed89-remainder-nil-pass66.txt` `bb330a99f2dacbd28b7cf461eaf1a0506fac8367a55cb77bd66697734d097417`
+- Provenance: NARA T625-**594** / IA `14thcensusofpopu594unit` `_1096.jp2`–`_1101.jp2`, opened 30 Oct 2026. **Original image seen.** Completes Pass 65’s sh **1 A–10 B**. Pass 1 from header crops; Pass 2 from name-column crops of all six leftover sheets.
+
+### Diplomatic — header (sheet 13 A, last populated)
+
+> FOURTEENTH CENSUS OF THE UNITED STATES: 1920—POPULATION  
+> State **Kentucky** · County **Owsley** · Sturgeon Precinct No. **2**  
+> Enumeration District No. **89** · Sheet No. **13 A**  
+> Enumerator note on the name column: “Number of People in my District is **1222**”
+
+### Diplomatic — rejected given-name (sheet 11 A, leaf 1096)
+
+> **Tymes, Thomas** Head  
+> **Manerva** Daughter age **2**
+
+Pass 2: Visual every-name-column of sh **11 A–13 A**: **NIL** Newman / Newnam head. Sh **13 B** blank. Tymes/Manerva is a **different** family. Combined with Pass 65, **entire ED 89** is a **PROVEN negative** of a Newman head in 1920 Sturgeon.
+
+### Facts extracted → claim IDs
+- ED 89 remainder nil Newman → C703
+- Tymes + Manerva 2 → C704
+
+## DOC106 — Connie King Rosenbalm, TFKRHA 1916 Owsley C-surnames (Henry H. + Willie)
+
+- Extract: `sources/indexes/owsley-1916-tfkrha-c-henry-h-pass67.txt` SHA-256 `e78f9350081ed58f085f1cd3c8d88fb630badf980074917078f96097669184de` (1,611 bytes)
+- Provenance: Connie King Rosenbalm transcript of KY DC photographs / microfilm, captured 30 Oct 2026 from a WebSearch snapshot of the 1916 C-surnames page. Live `www.tfkrha.org` SSL name-mismatch; Wayback 2020 capture **404**. **Not** the original certificate image. Independent of Kendrick (DOC066) and Bowman/Chandler. Two-pass of the extract against DOC066.
+
+### Diplomatic (Willie, neighboring filled row)
+
+> **Willie** · **8-25-1916** · File No. **21666** · Place of Death: **Buck Creek, Owsley Co., Ky.** · Male · White · Single · Birthplace: Owsley Co., Ky. · Name of Father: **John NEWMAN** · Birthplace of Father: Ky. · Maiden Name of Mother: **Cesa BRADBERRY** · Birthplace of Mother: Ky. · Informant: **John NEWMAN** · Vincent, Ky. · Cause: Asphyxia from compression of cord · Signed: **B.F. TYE, M.D.**, Travelers Rest · Burial: **JACKSON Graveyard** · **8/26/1916**
+
+### Diplomatic (Henry H.)
+
+> **Henry H.** · **8-6-1916** · File No. **21663** · DOB: **1844** · Place of Death: **Travelers Rest, Owsley Co., Ky.** · Male · White · **Widowed** · Age: **72y** · Occupation: **Farmer** · Birthplace: **Kentucky** · Cause: **Cerebral Hemorrage** · Contributory: **Arterioscolerosis** · Duration: **2 years** · Signed: **J.A. MAHAFFEY** · Sturgeon · Place of Burial: **S.M. CECIL g.y.** · Date of Burial: **8/7/1916** · Undertaker: **Friends** · Travelers Rest.
+
+Pass 2: parent and informant fields are **omitted** on the Henry H. row and **filled** on the neighboring Willie row. Matches Kendrick/Bowman-Chandler **Widowed** + blank parents (**C529**). Does **not** open the original DC face. Does **not** resolve **#24**.
+
+### Facts extracted → claim IDs
+- Rosenbalm wording / Widowed / blank parents → C709
+- Willie parents filled → C710
+- Original unseen / #24 still open → C726
+
+## DOC107 — 1920 U.S. census, Owsley Co., KY, ED 90 sheets 9 A–13 B + ED 91 sheets 1 A–3 B (original)
+
+- JPEGs: `sources/census/1920-owsley-ed90-sh9a-hdr.jpg` SHA-256 `c5a7fd2749797eb2f4827fa7e4fe8ec744fa706062b369e1664691871c0688c2`
+- Last Island Creek: `…sh13b-hdr.jpg` `f6ff6b5a7d389bb4ab40986142c51c67e84a150407e9ac6dd7db4b874b57f734`
+- Cow Creek: `…ed91-sh1a-hdr.jpg` `ae95bd1c0203c0f530250f3435a410b0211804a9d87feca85f64f8010c077e52`
+- Rejected Barker: `…ed89-sh3a-hh37-baker-manerva.jpg` `60b67a91bd96d07d4ffe2143a1666edd960effed1f9826b8f16d1dcf7a42bc43`
+- Rejected Wilson: `…ed89-sh7b-hh122-wilson-manerva.jpg` `860103715de7839986e79d92cfd588b2add92eb0ae84955d3a14ce85b11d519d`
+- Extracts: `owsley-1920-ed90-remainder-nil-pass67.txt` `88b444b81bd6e41b09a8d4df3c1440a73c63691cabca5888cd63aae9f36ddeec`; `owsley-1920-ed91-cowcreek-partial-pass67.txt` `6ede0d5bfb17b78f29c94cf20d86610f96c67086f49194385351276fd5d5accd`
+- Provenance: NARA T625-**594** / IA `14thcensusofpopu594unit` `_1118.jp2`–`_1133.jp2`, opened 30 Oct 2026. **Original image seen.** Completes Pass 66’s ED **90** sh **1 A–8 B**. Pass 1 from header crops (frac 0.18); Pass 2 from name-column visual reads.
+
+### Diplomatic — header (sheet 9 A)
+
+> FOURTEENTH CENSUS OF THE UNITED STATES: 1920—POPULATION  
+> State **Kentucky** · County **Owsley** · Township **Island Creek Precinct No. 3**  
+> Supervisor’s District No. **10** · Enumeration District No. **90** · Sheet No. **9 A**  
+> Enumerator **Oscar J. Judd**, January 1920.
+
+### Diplomatic — rejected given-name (sheet 9 A)
+
+> **Moore, Marion** Head *(continued from sh 8 B hh 141/163)*  
+> **Dora** Daughter age **10**
+
+### Diplomatic — rejected Manerva candidates (ED 89, already in the Sturgeon original)
+
+> **37 37 Eversole, Martha** 44 wd  
+> **Barker, Malvera** Mother **64** wd
+
+> **122 123 Wilson, Harden** Head **70**  
+> **Minerva** Wife **70**  
+> Nancy 43 · **Arthor** 36 · Lela gdau 15 · Earl gson 13
+
+### Diplomatic — header (ED 91 sheet 1 A)
+
+> State **Kentucky** · County **Owsley** · **Cow Creek Precinct No. 4**  
+> Enumeration District No. **91** · Sheet No. **1 A**  
+> Enumerator **J.S./A.S. Dooley**
+
+### Diplomatic — rejected given-name (ED 91 sheet 1 A)
+
+> **8 8 Banning, James** 44  
+> **Dora** Wife **44**
+
+Pass 2: Visual every-name-column of ED **90** sh **9 A–13 B**: **NIL** Newman / Newnam head and **NIL** Manerva Newnam. Sh **13 B** closes Precinct **#3**. Combined with Arthur on sh **7 A**, **entire ED 90** has **one** Newman household. ED **91** sh **1 A–3 B** **NIL** Newman; the district **continues** after leaf **1133**. Leaf **1129** is an unused blank form. Baker, Sarah MIL 60 wd on sh **13 A** is a different widow.
+
+### Facts extracted → claim IDs
+- Entire ED 90 one Newman house (Arthur) → C713
+- Moore Dora 10 → C714
+- ED 91 partial nil → C715
+- Banning Dora 44 → C716
+- Barker Malvera → C711
+- Wilson Harden × Minerva → C712
+- Baker Sarah MIL → C723
+- Marshall Charlie child Dora → C728
+
+## DOC108 — 1920 Kentucky Soundex N-550 Walter given-name window
+
+- Walter 39 Logan: `sources/soundex/ky1920-n550-p4776-newman-walter-logan.jpg` SHA-256 `51c5adc5cac48b74439a2bae21516a815f1576e57aa49c09d1cbc244a5c5d99c`
+- Walter A 33 Louisville: `…p4778-newman-walter-a-louisville.jpg` `ecab7be1a311926f16ce8ea170cf075c653a8441a4d5b2b8f824a35907a21edf`
+- Extract: `sources/indexes/ky1920-n550-walter-window-pass67.txt` `3519ee037ca3ae1b2e3a784948fab5a35172658a09ff489fba67c2b2af05f4cc`
+- Provenance: NARA M1563 reel 117 / IA `soundex1920ky117` leaves **4775–4781**, opened 30 Oct 2026. **Images seen.** Bounded by Viola **4768** / Vitalis **4770** and Waverly **4780** / Wesley **4781**. N-550 ends before leaf **4850** (N560 Nunnery). Pass 1 from the JPEGs; Pass 2 against the extract. Prior “W-window 4700–5300” samples were **not** this slot.
+
+### Diplomatic — leaf 4776 (Walter, Logan)
+
+> N550 **Newman, Walter**  
+> W **39** · Logan  
+> Newman, Ora W **29**  
+> — Mary D **7**  
+> — Ruth D **1 6/12**
+
+### Diplomatic — leaf 4778 (Walter A, Louisville)
+
+> N550 **Newman, Walter A**  
+> W **33** · Jefferson Louisville · Poplar Level Road  
+> Newman, Elva W **27**  
+> — Walter S **1 1/2**
+
+Pass 2: Leaf **4775** is **Walker O.** 47 Union, **not** Walter. Leaf **4777** Walter 21 b. **Virginia**, Camp Knox, 81st Field Artillery — **DISPROVED** as Henry’s 1900 son. Leaf **4779** Walter B 43 Campbell Melbourne. **Nil** Owsley/Lee Walter Newman card. **Nil** Manerva/Minerva on any Walter card in this window.
+
+### Facts extracted → claim IDs
+- Walter window nil Owsley/Lee → C717
+- Walter 39 Logan unmerged → C718
+- Walter A 33 Louisville unmerged → C719
+- Walter 21 VA Camp Knox DISPROVED → C720
+- Walter B 43 Campbell unmerged → C721
+
 

@@ -1,0 +1,15 @@
+Pass 66 coverage — 30 Oct 2026 America/New_York
+Catalog 90 / hasMore false (was 86). NEW: four nested "Read ED9 sheets …" helpers of PR #31
+(bc-72256edf, bc-3a494f12, bc-1939d385, bc-2c28b46e) IDLE, process-only, IDs not imported.
+PR #31 still OPEN. PR #33 still OPEN (sibling C281 not imported). Nested reviewer not respawned.
+Message queue empty. This run bc-01a18bb4-e162-785c-9724-86a7c5663bf1.
+
+Image-seen this pass:
+- T625-594 leaf 1114 ED 90 sh 7 A dw 113/121 Newman Arthur 45 + Florence + Omer + Grant (no Manerva)
+- T625-594 leaves 1096-1101 ED 89 sh 11 A-13 B remainder (nil Newman head; Tymes child Manerva 2 rejected)
+- Soundex 1920 KY N-550 leaf 4109 Arthur Owsley card
+- Soundex 1920 KY N-550 leaves 4582-4639 M-window nil Manerva/Minerva Newman
+
+Still unseen: original 1932 DC vol 020 #09525; original 1916 DC vol 044 #21663;
+Estill 1826-1850 Newman x Tincher bond; M123-3; T288 / Fold3 pension index.
+Do not promote C509. Skip C221-C280 / L245-L342 / S259-S266. Do not mint C274-C280.

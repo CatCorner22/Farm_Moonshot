@@ -1,0 +1,18 @@
+Pass 64 extract — Lee 1920 deaths HTML + Marriage Books 3–5 (Henry H. × Manerva 1895 hunt)
+Lee 1920: https://usgennet.org/usa/ky/county/lee/deaths/1920.html (saved lee-1920.html)
+Books: marrbook3.html, marrbook4.html, marrbook5.html (path /lee/marriage/ not /lee/marriages/).
+
+Lee 1920 HTML 'Newman' hits: 0
+Lee 1920 HTML 'Newnam' hits: 0
+Lee 1920 HTML 'Manerva' hits: 0
+Lee 1920 HTML 'Minerva' hits: 0
+Lee 1920 HTML 'Minverva' hits: 0
+Newman/Newnam/Manerva as decedent: NIL (hits if any are non-decedent context).
+
+Lee Marriage Book 4 (1891–1896) Newnam grooms/brides seen:
+  John Bowman × Rachel Newnam 26 Sep 1892
+  Huram R. Newnam × Lou Emma Newnam 16 Jul 1894
+  Richard Newnam as witness (not a groom of Manerva)
+  NIL Henry H. / Harry H. × Manerva / Minerva / Minverva 1894–1896.
+Books 3 and 5 likewise NIL that couple.
+1895 marriage if civil is likely Owsley (books burned; Williams/Dishon list ends 1880).

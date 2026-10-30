@@ -1,0 +1,14 @@
+Pass 67 — Owsley 1921 death-certificate HTML (Kendrick / USGenNet)
+https://usgennet.org/usa/ky/county/owsley/deaths/1921dc.html opened 30 Oct 2026.
+
+Nil Newman/Newnam decedent on the page.
+
+One Manerva given-name hit, a MOTHER cell not a decedent:
+  WILSON, Charlie  5 ds  b. 14 Sep 1921 Owsley  d. 18 Sep
+  burial J. S. Wilson gv
+  father Daniel WILSON
+  mother Manerva SMITH
+DISPROVED as identity with M850 widow Manerva Newnam (C650).
+
+USGenNet 1955dc.html / 1956dc.html HTTP 404 (deaths index through 1946 only).
+KYDI 1921 year file still HTTP 503 (repeat of Pass 64–66). Not a death-date proof.
