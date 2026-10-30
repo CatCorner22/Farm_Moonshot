@@ -1,0 +1,52 @@
+Pass 57 — 30 Oct 2026 (America/New_York)
+B040 T623-856 ED 41 remaining A-sides + T623-855 reel map / ED 37 samples
+B045 / B047 free workarounds
+
+T623-856 Greene (local /tmp/t623-856-greene.pdf, 865 pp)
+ED 41 = PDF p.98 (sh 1A) … p.179 (sh 41B); p.180 = ED 42 sh 1A.
+A-side formula: p = 98 + 2*(sheet-1).
+
+This pass visually read remaining ED 41 A-sides (name column top + bottom, lines 1–50):
+104=4A, 108=6A, 112=8A, 116=10A, 120=12A, 124=14A, 126=15A, 128=16A,
+130=17A, 132=18A, 136=20A, 140=22A, 142=23A, 144=24A, 146=25A, 148=26A,
+150=27A, 152=28A, 154=29A, 156=30A, 158=31A, 160=32A, 164=34A, 166=35A,
+168=36A, 170=37A, 172=38A, 174=39A, 176=40A, 178=41A.
+Prior A-sides already logged: 1A/2A/3A/5A/7A/9A/11A/13A/19A/21A/33A.
+Combined = every ED 41 A-side. Nil Stone / Thomas A. head.
+
+Rejected (not Stone / not P001):
+- p108 sh 6A ln 16 Dora W, daughter of Fort, Charlie
+- p130 sh 17A ln 4 Dora, daughter (prior household; child)
+- p174 sh 39A ln 4 Dora S, daughter
+- p156 sh 30A ln 22 Stans, James (higher-res re-read; not Stone) + wife Rissie
+- p164 sh 34A ln 23 Aton, Walter W (higher-res re-read; initial A, not S)
+
+T623-855 (IA 12thcensusofpopu855unit PDF, 928 pp, local /tmp/t623-855.pdf)
+Header map (this pass):
+  p750 ED 35 Boone Twp / Ash Grove sh 6B
+  p780 ED 36 Brookline Twp sh 10B
+  p781 ED 37 Campbell Twp (excl. Springfield) sh 1A  …  p834 = sh 27B
+  p800 = ED 37 sh 10B; p810 = 15B; p814 = 17B; p815 = 18A (C117 Thomas A. confirmed)
+  p820 = 20B; p830 = 25B
+  p835 ED 38 Springfield in Campbell sh 1A  …  p916 ≈ sh 41B
+  p840 = ED 38 sh 3B; p850 = sh 8B (Children's Protestant Home); p860 = sh 13B
+  p900 = ED 38 sh 33B
+  p917–926 ED 39 sh 1–5 (p920 = sh 2B); reel ends p928
+
+ED 37 A-sides visually sampled this pass (nil Stone except known C117):
+  781=1A, 783=2A, 785=3A, 791=6A, 799=10A, 809=15A, 815=18A (Thomas A. / Matilda / Gertrude / Ivory Jenkins),
+  817=19A, 829=25A.
+ED 38 sh 1A p835 re-read nil (confirms L104).
+
+B045 new free nils (not originals): KYGenWeb Lee/Owsley/Estill wills+obits; FAG Newnam cemetery 2378080 + Samuel Newnam/Newman;
+IA catalog Beattyville Enterprise 1900–10 = 0; Chronicling America / BillionGraves 403;
+Wayback USGW Lee court/obits; Estill Newman Cemetery Samuel W. 1804–1873 rejected;
+KHS SNAC: Lee probate microfilm 1873–1945 (Martin F. Schmidt Research Library) — unread.
+
+B047: NARA M1509 pamphlet roll map (catalog only): KY45 Lee; KY24 Estill; KY74 Owsley; KY8/9 Breathitt; KY43 Knox; AR49 Perry; AR69 Yell.
+Carter KYGenWeb WWI roster: Edward/James/Thornton/William/Willie Newman — all rejected vs P010 / McCoy.
+KYGenWeb Estill/Lee/Owsley/Breathitt WWI pages nil or photo-only.
+IA M1509 + "John Newnam" draft JSON numFound=0.
+GT Lee 1126-card page re-grep: no Newnam/Newman/McCoy (confirms C240).
+
+Local crops /tmp/b040-pass57/ not committed.
