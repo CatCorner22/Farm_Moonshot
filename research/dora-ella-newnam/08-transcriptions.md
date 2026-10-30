@@ -502,5 +502,44 @@ Header readings (diplomatic):
 
 Pass 2: ED **43** starts at p.**256**, not p.254 (p.254 is Loretto Academy boarders, ED 42 tail). Name-column samples listed in **S256** have **no Stone**. Full ED **42–43** A+B later swept (**C264**).
 
+## DOC022 — 1910 U.S. census, Bollinger Co. MO, Liberty ED 4 sh 10 B (PDF p.450)
+- Image: `sources/census/1910-bollinger-ed4-sullivan-newnam-mil.png` (filename is a pass-48 misnomer) + crop `…-sh10b-newman-belle-estes-john.jpg` · SHA-256 `9414cddca7443168dd9afbaefbd8fa2ce7a3201b31ce53518075b107ad886bd1`
+- Page: IA `13thcensus1910po769unit` PDF p. **450**; NARA T624 roll **769**; ED **4** sh **10 B**; enum. **21 May 1910**
+- Provenance: **Image seen** 30 Oct 2026 (140 dpi pdftoppm + committed PNG)
+
+### Diplomatic transcription (households 157/158–159/161)
+> **157/158 Newman, Belle** — Head, F, W, **30**, Wd, **4** children / **4** living, b. Missouri, parents Missouri  
+> **[Newman,] Opal[?]** — Daughter, F, W, **8**  
+> **Herman** — Son, M, W, **8**  
+> **Newman, Walter** — Son, M, W, **5**  
+> **Isabelle** — Daughter, F, W, **3**  
+> **157/159 Wells, Thomas** — Head, M, W, **24**, M1, **2**  
+> **Zelma** — Wife, **22**, M1, **1/1**  
+> **Elsie** — Daughter  
+> **158/160 Estes, John** — Head, M, W, **55**, M1, **18**  
+> **Ida M** — Wife, **34**, M1, **18**, **2/2**  
+> **Henry R** — Son, **14**  
+> **Edith A** — Daughter, **9**  
+> **Estes, Hannah** — Mother-in-law, F, W, **60**, Wd, **8/4**  
+> **William T** — Brother-in-law, M, W, **41**  
+> **159/161 Seiler, John A** — Head, **46**, M1, **18**  
+> **Annie[?] S** — Wife, **44**, M1, **18**, **9/6**  
+> **John L** — Son, **19**  
+> **Charles W** — Son, **6**
+
+Pass 2: Head surname on dw **158/160** matches the MIL line **Estes** (same hand). **Not** Sullivan. **No** Sarah Newman. **No** Oscar S. → **C284** / **C285**.
+
+## DOC023 — 1910 U.S. census, Bollinger Co. MO, Liberty ED 4 sh 3 A (PDF p.435)
+- Image: `sources/census/1910-bollinger-ed4-letha-sullivan-servant.png` + crop `…-sh3a-conrad-letha-sullivan.jpg` · SHA-256 `da4326863a40df3b9e172f240518a8c4d869b53dc5cbba457bb90c350b87c286`
+- Stamp: Supervisor **11**, ED **4**, Sheet **3 A**; enumerator **Arthur F. McClain**; **14 Apr 1910**
+
+### Diplomatic (dwelling 25/26 only)
+> **25/26 Conrad, Jesse[?]** — Head, M, W, ~**37**, M1, **15**, b. Missouri  
+> **[wife]** — Wife, ~**26**, M1, **1/1**  
+> **Mary** — Daughter, ~**3**  
+> **Sullivan, Letha** — **Nurse**, F, W, **12**, b. Missouri, father **Indiana**
+
+Pass 2: Sheet stamp is **3 A**, not **8 A**. Relation **Nurse** (not servant). → **C244** / **C286**.
+
 ## DOC009 — 1910 TN Soundex N-550 McCoy window (nil)
 Handwritten family/individual cards n2461–n2469. Sequence after Mary C (n2460): Mary D 49 Jefferson (son Layton 11); Mary M 70 Hamilton; Mek. G 50 Cheatham (Florence 19, John 17, General 16, Frances 13, William 10, Doria 6, Luther 1½); Melvin 3½ Giles (gs of Deacon George W); Melvin 54 Giles (SIL of same); Minerva 80 Robertson (gds Lona Neely, Nellie Erwin); Minnie 21 Roane (with Sam P. Sparks); Mitchell 27 Hardin (Ollie P 25, Gladys 4, Burl W 3, Royal E 1 9/12). **No McCoy.** SHA-256 n2463 `23610f8aa4c159b1b554ed1786d11f57d2f56f8a2e8994f7289ae7bd02dfca53`; n2469 `340489566090880388fa6b81ca5751c5944dcaf56a7b44f70fe560788f308586`.
