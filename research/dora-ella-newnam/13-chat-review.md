@@ -831,3 +831,7 @@ C249 on that HEAD is still labelled “Dora E. Stone … Henry C. Stone”; this
 
 This branch’s original-image work remains **C424–C440 / L392–L400 / S380–S391 / DOC044–046**. This fold uses **C441 / L401 / S392**. Next unused **C442+ / L402+ / S393+ / DOC047+**.
 
+# Pass 42 listing (this continuation, 30 Oct 2026, America/New_York)
+
+`list-cloud-agents` (`includeArchived: true`, limit 200, offset 0) → **68** / `hasMore: false` / `totalMatched: 68`. NEW vs 67: [Review all cloud chats](bc-b9d3861e-db5c-5ba2-95a8-bc5261f79593) (RUNNING, nested this pass). RUNNING also: parent `bc-01a18bb4`; PR **#26** `bc-995d22ea`; ED5 `bc-0039b8bf`. Independent fetch: PR **#26** HEAD **`b37864c69d92220574cd7b71dda2805a3b2fbd7c`** (`Merge origin/main 1fca25c; remap pass 21–22 colliding IDs`). Highest sibling IDs **C277 / L339 / S265**. Do **not** steal **C221–C277 / L245–L339 / S259–S265**. **No** new independently image-backed P001 1900–1926 residence. Fold `bc-b9d3861e` when it lands. This pass’s original-image work (1850 Estill 99B Marcus Gray; Breathitt/Madison headers + Madison 214B Gay) is filed under **C442–C455 / L402–L410 / S393–S402 / DOC047**.
+

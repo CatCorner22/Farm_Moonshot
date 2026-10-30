@@ -1077,3 +1077,28 @@ Pass 2: Charles is **not** a misread of Silas (initial **Ch** vs **Si**; age 26 
 - John Gray 314B → C427
 - Charles + Manerva 314B → C428 C436
 
+## DOC047 — 1850 U.S. census, Estill Co. KY stamped 99B, Marcus Gray (original)
+
+- Image: `sources/census/1850-estill-pdfp433-st99B-marcus-gray.jpg` SHA-256 `7bd054fd502f03a6118602c662a56b59123cbe3c011ff2a080b4c67eded69be1` (3438×4326)
+- Household crop: `sources/census/1850-estill-pdfp433-marcus-gray-hh.jpg` SHA-256 `832b8930713fb7f86b4da9a83a717af7d81b7cc1c5ff5854d68c94d27d56af7e` (2604×929)
+- Header: `sources/census/1850-estill-pdfp433-st99B-hdr.jpg` SHA-256 `f766e4b762c263b3e5232bfa46fa58c0205b7e4aa6e2cfbfc306b761029c89bd`
+- Provenance: IA `populationschedu0198unix` PDF page **433**. County of **Estill**, **5th** day of **Oct.** 1850, **M.H. Price** Asst Marshal. B-side after PDF **432** printed stamp **99**. **Image seen.**
+
+### Diplomatic (lines 21–28)
+
+> **734 / 734** · **Marcus Gray** · **68** · M · **Labourer** · b. **S. Carolina**  
+> — **Barsheba** · **41** · F · b. Kentucky (ditto)  
+> — **Jasper** · **13** · M  
+> — **Jackson** · **12** · M  
+> — **Marcus** · **9** · M  
+> — **Morgan** · **7** · M  
+> — **George** · **5** · M  
+> — **Loucinda** · **1** · F  
+> **735 / 735** · **Ebenezer Park** · **74** · M · Farmer · b. N. Carolina  
+> **736 / 736** · **John Scrivner** · **68** · M · ditto
+
+Pass 2 (from household crop): head given name **Marcus** (not Silas). Age **68** (not ~36). Occupation **Labourer**. Nativity **S. Carolina**. Wife **Barsheba**, 41. No child William ~3 (youngest daughter Loucinda 1; sons 13/12/9/7/5). Woods S395 agrees on names and ages.
+
+### Facts extracted → claim IDs
+- Marcus Gray 99B original → C444 C453
+

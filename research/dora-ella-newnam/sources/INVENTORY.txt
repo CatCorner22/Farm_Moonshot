@@ -406,3 +406,61 @@ research/dora-ella-newnam/sources/census/1880-lee-ky-ed59-sheet43-p768-caroline-
   sha256: d3bba78d9a7b8fe04ef38ac4f5a11dba872570bb4c3ef6e35c018ec66e77492d
 /workspace/research/dora-ella-newnam/sources/census/1850-owsley-pdfp420-charles-gray-hh.jpg
   sha256: 7c4663b7d88db66905ee9b8c7a7152056247c059e576b2ecb3476ceaa86d638c
+/workspace/research/dora-ella-newnam/sources/indexes/1850-estill-indx.txt
+  sha256: e2ddcd0d4f5f7ddacb11a6c66040017346d562b240b282a904ef60db69573b54
+  check: S-K Estill 1850; GRAY 99B only
+/workspace/research/dora-ella-newnam/sources/indexes/1850-estill-woods.txt
+  sha256: c82ff19d0df8f7441ddbee5874952749a353dcd54d27d6251a245d2f146e7354
+  check: Woods every-person Estill 1850; Marcus Gray 68 on 99b
+/workspace/research/dora-ella-newnam/sources/indexes/1850-breathitt-indx.txt
+  sha256: dfa635da0a62242d61a99bd34cba2967cf6ad139c65bbad455466449d72b4065
+  check: S-K Breathitt 1850; no GRAY/GREY
+/workspace/research/dora-ella-newnam/sources/indexes/1850-breathitt-all.txt
+  sha256: 2b1f8ba9056f90bd97470992902f553667b244531da3d3be23a726674da42fb7
+/workspace/research/dora-ella-newnam/sources/indexes/1850-breathitt-cens1850.txt
+  sha256: 0a82970c832b20777035274ab19d64b8f7776063a27e18d3d8dff97c556095b2
+/workspace/research/dora-ella-newnam/sources/indexes/1850-madison-indx.txt
+  sha256: aacce20c702b1295a094b9ab25afe2a7918b609dada291210807af5835102f50
+  check: S-K Madison 1850; no GRAY/GREY; GAY 214B
+/workspace/research/dora-ella-newnam/sources/census/1850-estill-pdfp328-47A-hdr.jpg
+  sha256: 25e04704624bb9d5571f26a513e76ace1f7d9c7fd9c808109f28c6f3f0abc689
+  format: JPEG photo, 3164x878px
+  check: Estill opening; William Swope dw 1
+/workspace/research/dora-ella-newnam/sources/census/1850-estill-pdfp328-swope-hh.jpg
+  sha256: 708bb7e335857c6f87dd56f3dc8eafece10988fb1c93cc13d70ff0abc1d44ba4
+  format: JPEG photo, 1740x480px
+/workspace/research/dora-ella-newnam/sources/census/1850-estill-pdfp433-st99B-marcus-gray.jpg
+  sha256: 7bd054fd502f03a6118602c662a56b59123cbe3c011ff2a080b4c67eded69be1
+  format: JPEG photo, 3438x4326px
+  check: 99B Marcus Gray 68 — not Silas
+/workspace/research/dora-ella-newnam/sources/census/1850-estill-pdfp433-marcus-gray-hh.jpg
+  sha256: 832b8930713fb7f86b4da9a83a717af7d81b7cc1c5ff5854d68c94d27d56af7e
+  format: JPEG photo, 2604x929px
+/workspace/research/dora-ella-newnam/sources/census/1850-estill-pdfp433-st99B-hdr.jpg
+  sha256: f766e4b762c263b3e5232bfa46fa58c0205b7e4aa6e2cfbfc306b761029c89bd
+  format: JPEG photo, 3438x778px
+/workspace/research/dora-ella-newnam/sources/census/1850-breathitt-pdfp201-hdr.jpg
+  sha256: 90dfec2efc86615529fed67e46a37b6b5a26bc87a0202af7615eeb0369d0fdfa
+  format: JPEG photo, 2867x813px
+  check: Breathitt Dist 2 header
+/workspace/research/dora-ella-newnam/sources/census/1850-breathitt-pdfp201-names.jpg
+  sha256: 87c0cdd712a053ec9e37ef4ed8220c946c6c56c05dd0a2093f3aed0babc280d1
+  format: JPEG photo, 1433x1110px
+/workspace/research/dora-ella-newnam/sources/census/1850-breathitt-pdfp241-hdr.jpg
+  sha256: 67f46ce708ead7d62ae98544ddbe08f8d6c036484fd0db432a4bbb963011158a
+  format: JPEG photo, 2589x749px
+  check: Breathitt Dist 1 header
+/workspace/research/dora-ella-newnam/sources/census/1850-madison-pdfp405-hdr.jpg
+  sha256: 49dde2eb3fbe0096859761e8c682605735533174ca2c058b13cdfc2369b1a67f
+  format: JPEG photo, 2508x703px
+  check: Madison Dist 1 start stamp 200
+/workspace/research/dora-ella-newnam/sources/census/1850-madison-pdfp432-st214A-hdr.jpg
+  sha256: 395a8d470663e706eef521ec17554cdab353431705f2d582a6370802d8e42421
+  format: JPEG photo, 1929x480px
+/workspace/research/dora-ella-newnam/sources/census/1850-madison-pdfp433-st214B-names.jpg
+  sha256: a69943afd8e8dc50384c2409d389990d8752544db840cc87c23e7033c271f529
+  format: JPEG photo, 893x2059px
+  check: 214B John Gay 34 — not Gray
+/workspace/research/dora-ella-newnam/sources/census/1850-madison-pdfp433-john-gay-hh.jpg
+  sha256: 35a74d3dbe22bb9f4092590712249315902035c0ce1ccbc4c223aa0957784888
+  format: JPEG photo, 893x371px

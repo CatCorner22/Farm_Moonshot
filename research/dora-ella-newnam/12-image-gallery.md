@@ -1040,3 +1040,13 @@ Dwelling **571**: John Gray, 40, and Dolly, 37. Dwelling **575**: Charles Gray, 
 
 ![1850 Owsley 314B — John and Charles Gray](sources/census/1850-owsley-pdfp420-john-charles-gray.jpg)
 
+### 7n · 1850 · Estill 99B — Marcus Gray, 68, labourer, South Carolina
+
+**Role:** FAN (negative control; DISPROVED as Silas)  
+**File:** [`sources/census/1850-estill-pdfp433-st99B-marcus-gray.jpg`](sources/census/1850-estill-pdfp433-st99B-marcus-gray.jpg)  
+**Source:** S396 · C444 · C453 · DOC047
+
+Dwelling **734/734**: Marcus Gray, 68, labourer, born South Carolina; Barsheba, 41; Jasper, Jackson, Marcus, Morgan, George, Loucinda. This is Estill’s only Gray house on the 1850 film. It is not Silas.
+
+![1850 Estill 99B — Marcus Gray](sources/census/1850-estill-pdfp433-marcus-gray-hh.jpg)
+
