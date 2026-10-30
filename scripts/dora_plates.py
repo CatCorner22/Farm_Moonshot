@@ -378,6 +378,34 @@ PLATES: list[dict] = [
         caption="Sheet 15 B, last household Seabaugh, Jesse L, April 1860, age 40, plus Ida M, Ella, and James R. Lines 56–100 blank. Combined with sheets 1 A–15 A, German Township is complete — no Conrad, no Sullivan, no Newman, no Letha.",
         source="S298 · S301 · C356",
     ),
+    dict(
+        n=97, date="1 Jun 1900", year=1900, role="context",
+        path="census/1900-bollinger-lorance-ed6-sh1a-hdr.jpg",
+        title="Lorance Township ED 6 sheet 1 A header — Marble Hill",
+        caption="Bollinger County ED 6 begins at T623-839 PDF page 1137, stamped 242. Enumerator Thomas H. Stevens, 1 June 1900, Marble Hill Village. Combined with T623-840 sheets 4 A–18 A, Lorance is complete (C358).",
+        source="S302 · C358",
+    ),
+    dict(
+        n=98, date="2 Jun 1900", year=1900, role="rejected",
+        path="census/1900-bollinger-lorance-ed6-sh3b-jail-end.jpg",
+        title="County Jail and village end — Lorance ED 6 sheet 3 B",
+        caption="Institution line: County Jail, lines 82–90. Prisoner Killien/Killion Jesse, October 1858, age 41 — not Conrad Jesse (~27). Last village household: Mowell/Joe, daughter Dora, March 1884, age 16 — not P001. Stevens then wrote that the village enumeration ends. Sheet 4 A resumes the rural township on T623-840.",
+        source="S302 · C360",
+    ),
+    dict(
+        n=99, date="29 Jun 1900", year=1900, role="negative",
+        path="census/1900-bollinger-lorance-ed6-sh18a-end.jpg",
+        title="End of Lorance ED 6 — Stevens’s last occupied lines",
+        caption="Sheet 18 A line 10: Stevens wrote that here ends the enumeration of Lorance Township (the part not in Marble Hill Village). Lines 11–50 blank. Combined with sheets 1 A–17 B, Lorance is complete — no Jesse Conrad household, no Sullivan, no Newman, no Letha Viola. With Passes 62–68 this closes all ten 1900 Bollinger EDs (C359).",
+        source="S302 · C358 · C359",
+    ),
+    dict(
+        n=100, date="29 Jun 1900", year=1900, role="context",
+        path="census/1900-bollinger-lorance-ed6-sh18a-hdr.jpg",
+        title="Lorance Township ED 6 sheet 18 A header",
+        caption="Last Lorance sheet. Supervisor 12, enumeration district 6, sheet 18 A, stamped 259. Enumerated 29 June 1900 by Thomas H. Stevens. T623-840 page 33 is an unused verso; page 34 is Lutesville ED 7 sheet 1 A (already C309).",
+        source="S302 · C358",
+    ),
     # --- 1910 Soundex / Miracode ---
     dict(
         n=17, date="Apr 1910", year=1910, role="negative",

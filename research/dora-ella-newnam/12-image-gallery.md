@@ -70,6 +70,10 @@ Diplomatic transcriptions: [`08-transcriptions.md`](08-transcriptions.md). Citat
 | 94 | 15 Jun 1900 | Rejected same-name | [Francis household — Fillmore ED 2 sheet 9 A](sources/census/1900-bollinger-fillmore-ed2-sh9a-francis-lethy.jpg) |
 | 95 | 4 Jun 1900 | Rejected same-name | [Joe Stone household — German ED 3 sheet 2 B](sources/census/1900-bollinger-german-ed3-sh2b-stone-joe.jpg) |
 | 96 | 24 Jun 1900 | Negative search | [End of German ED 3 — James’s last occupied lines](sources/census/1900-bollinger-german-ed3-sh15b-end.jpg) |
+| 97 | 1 Jun 1900 | Context | [Lorance Township ED 6 sheet 1 A header — Marble Hill](sources/census/1900-bollinger-lorance-ed6-sh1a-hdr.jpg) |
+| 98 | 2 Jun 1900 | Rejected same-name | [County Jail and village end — Lorance ED 6 sheet 3 B](sources/census/1900-bollinger-lorance-ed6-sh3b-jail-end.jpg) |
+| 99 | 29 Jun 1900 | Negative search | [End of Lorance ED 6 — Stevens’s last occupied lines](sources/census/1900-bollinger-lorance-ed6-sh18a-end.jpg) |
+| 100 | 29 Jun 1900 | Context | [Lorance Township ED 6 sheet 18 A header](sources/census/1900-bollinger-lorance-ed6-sh18a-hdr.jpg) |
 | 17 | Apr 1910 | Negative search | [Kentucky N-550 — Millie / Missouri; no McCoy](sources/soundex/ky1910-n550-p329-millie-missouri.jpg) |
 | 18 | Apr 1910 | Negative search | [Kentucky N-550 — Monroe; still no McCoy](sources/soundex/ky1910-n550-p330-monroe-no-mccoy.jpg) |
 | 19 | Apr 1910 | Rejected same-name | [Kentucky N-550 — Sam / Samuel, none is the husband](sources/soundex/ky1910-n550-p342-sam-samuel-not-p002.jpg) |
@@ -637,6 +641,46 @@ Dwelling 32/32. Stone, Joe, March 1857, age 42, married 15 years; wife Sarah E, 
 Sheet 15 B, last household Seabaugh, Jesse L, April 1860, age 40, plus Ida M, Ella, and James R. Lines 56–100 blank. Combined with sheets 1 A–15 A, German Township is complete — no Conrad, no Sullivan, no Newman, no Letha.
 
 ![End of German ED 3 — James’s last occupied lines](sources/census/1900-bollinger-german-ed3-sh15b-end.jpg)
+
+### 97 · 1 Jun 1900 · Lorance Township ED 6 sheet 1 A header — Marble Hill
+
+**Role:** Context  
+**File:** [`sources/census/1900-bollinger-lorance-ed6-sh1a-hdr.jpg`](sources/census/1900-bollinger-lorance-ed6-sh1a-hdr.jpg)  
+**Source:** S302 · C358
+
+Bollinger County ED 6 begins at T623-839 PDF page 1137, stamped 242. Enumerator Thomas H. Stevens, 1 June 1900, Marble Hill Village. Combined with T623-840 sheets 4 A–18 A, Lorance is complete (C358).
+
+![Lorance Township ED 6 sheet 1 A header — Marble Hill](sources/census/1900-bollinger-lorance-ed6-sh1a-hdr.jpg)
+
+### 98 · 2 Jun 1900 · County Jail and village end — Lorance ED 6 sheet 3 B
+
+**Role:** Rejected same-name  
+**File:** [`sources/census/1900-bollinger-lorance-ed6-sh3b-jail-end.jpg`](sources/census/1900-bollinger-lorance-ed6-sh3b-jail-end.jpg)  
+**Source:** S302 · C360
+
+Institution line: County Jail, lines 82–90. Prisoner Killien/Killion Jesse, October 1858, age 41 — not Conrad Jesse (~27). Last village household: Mowell/Joe, daughter Dora, March 1884, age 16 — not P001. Stevens then wrote that the village enumeration ends. Sheet 4 A resumes the rural township on T623-840.
+
+![County Jail and village end — Lorance ED 6 sheet 3 B](sources/census/1900-bollinger-lorance-ed6-sh3b-jail-end.jpg)
+
+### 99 · 29 Jun 1900 · End of Lorance ED 6 — Stevens’s last occupied lines
+
+**Role:** Negative search  
+**File:** [`sources/census/1900-bollinger-lorance-ed6-sh18a-end.jpg`](sources/census/1900-bollinger-lorance-ed6-sh18a-end.jpg)  
+**Source:** S302 · C358 · C359
+
+Sheet 18 A line 10: Stevens wrote that here ends the enumeration of Lorance Township (the part not in Marble Hill Village). Lines 11–50 blank. Combined with sheets 1 A–17 B, Lorance is complete — no Jesse Conrad household, no Sullivan, no Newman, no Letha Viola. With Passes 62–68 this closes all ten 1900 Bollinger EDs (C359).
+
+![End of Lorance ED 6 — Stevens’s last occupied lines](sources/census/1900-bollinger-lorance-ed6-sh18a-end.jpg)
+
+### 100 · 29 Jun 1900 · Lorance Township ED 6 sheet 18 A header
+
+**Role:** Context  
+**File:** [`sources/census/1900-bollinger-lorance-ed6-sh18a-hdr.jpg`](sources/census/1900-bollinger-lorance-ed6-sh18a-hdr.jpg)  
+**Source:** S302 · C358
+
+Last Lorance sheet. Supervisor 12, enumeration district 6, sheet 18 A, stamped 259. Enumerated 29 June 1900 by Thomas H. Stevens. T623-840 page 33 is an unused verso; page 34 is Lutesville ED 7 sheet 1 A (already C309).
+
+![Lorance Township ED 6 sheet 18 A header](sources/census/1900-bollinger-lorance-ed6-sh18a-hdr.jpg)
 
 ## 1910 — Soundex, Peebles test, and Sturgeon ED 99
 

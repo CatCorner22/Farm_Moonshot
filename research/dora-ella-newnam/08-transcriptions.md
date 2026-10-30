@@ -760,5 +760,32 @@ Continuation on sh **7 B**: Columbus Dec **1894** **5**; Guy May **1896** **3**;
 
 → **C355**. Not T.A. Stone. Not Henry C. Stone.
 
+## DOC041 — 1900 U.S. census, Lorance ED 6 sh 18 A (township end)
+- Images: `sources/census/1900-bollinger-lorance-ed6-sh18a-end.jpg` SHA-256 `4dedd7debb0d8ceeb585488b9504388bd4002f05a3f082bb5654fc0ba91414ad`; `…-sh18a-hdr.jpg` `dac949afabf2ca2e06cd180a85e9d01765a78e2d2b33eb040475e89a6a0ae949`; `…-sh1a-hdr.jpg` `432f44fb514bd6b969c09acd438709d2d4d91ee8fd6a800fb9670444bc40e0f5`
+- Stamp (sh **18 A**): Supervisor **12**, ED **6**, Sheet **18 A**; stamped **259**; enumerator **Thomas H. Stevens**; **29 Jun 1900**. Township **Lorance**. Institution blank.
+- Stamp (sh **1 A**): Supervisor **12**, ED **6**, Sheet **1 A**; stamped **242**; **1 Jun 1900**; incorporated place **Marble Hill Village**.
+- Provenance: **Image seen** 30 Oct 2026 (120 dpi pdftoppm of T623-840 p.**32** and T623-839 p.**1137**)
+
+### Diplomatic (closing line only)
+> Ln **10**: **Here ends the enumeration of Lorance Township** that part not [in] Marble Hill Village all that part north of the [illegible — remainder of line]
+
+Lines **11–50** blank. Last occupied household (ln **2–9**) is a Hatton[?]/Nation[?] family — no Conrad / Sullivan / Newman / Letha. → **C358**.
+
+## DOC042 — 1900 U.S. census, Lorance ED 6 sh 3 B (County Jail + village end)
+- Image: `sources/census/1900-bollinger-lorance-ed6-sh3b-jail-end.jpg` SHA-256 `92b30aa224091a293ee1db9309259697dda5f0ed431ae6c660e2783af5e7dcec`
+- Stamp: Supervisor **12**, ED **6**, Sheet **3 B**; **2 Jun 1900**; **Marble Hill Village**; Institution **County Jail (Line 82 to 90 inclusive)**; enumerator **Thomas H. Stevens**
+- Provenance: **Image seen** 30 Oct 2026 (T623-839 p.**1142**)
+
+### Diplomatic (jail prisoners + last village household)
+> **Killien[?]/Killion, Jesse** — Prisoner, W M, Oct **1858**, **41**, S, Missouri  
+> **Leslie[?], Pink[?]** [alt given **Jesse**] — Prisoner, W M, May **1843**, **57**, M, **11**, Missouri  
+> **Huffman[?], Harry[?]** — Prisoner, W M, July **1873**, **26**, S, Missouri  
+> **Mowell[?], Joe** — Head, W M, Mar **1844**, **56**, M, **33**, Germany  
+> **J. M.** — Wife, W F, Mar **1848**, **52**, M, **33**, **7/2**, Pennsylvania  
+> **C. L.** — Son, W M, May **1870**, **30**, S, Missouri  
+> **Dora** — Daughter, W F, Mar **1884**, **16**, S, Missouri
+
+Footer: **Here ends th[e enumeration]** of the village. → **C360**. Killien Jesse is **41**, not ~**27**, and is a prisoner, not a Conrad head. Dora **16** is not P001.
+
 ## DOC009 — 1910 TN Soundex N-550 McCoy window (nil)
 Handwritten family/individual cards n2461–n2469. Sequence after Mary C (n2460): Mary D 49 Jefferson (son Layton 11); Mary M 70 Hamilton; Mek. G 50 Cheatham (Florence 19, John 17, General 16, Frances 13, William 10, Doria 6, Luther 1½); Melvin 3½ Giles (gs of Deacon George W); Melvin 54 Giles (SIL of same); Minerva 80 Robertson (gds Lona Neely, Nellie Erwin); Minnie 21 Roane (with Sam P. Sparks); Mitchell 27 Hardin (Ollie P 25, Gladys 4, Burl W 3, Royal E 1 9/12). **No McCoy.** SHA-256 n2463 `23610f8aa4c159b1b554ed1786d11f57d2f56f8a2e8994f7289ae7bd02dfca53`; n2469 `340489566090880388fa6b81ca5751c5944dcaf56a7b44f70fe560788f308586`.
