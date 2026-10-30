@@ -1,0 +1,62 @@
+Pass 67 — 1900 Bollinger Wayne ED 9 complete
+Date: 30 Oct 2026 (America/New_York)
+Backlog: B007
+Reel: T623-840 (12thcensusofpopu840unit) local /tmp/t623-840.pdf
+
+ED 9 Wayne map (William Craff / William L. Craff):
+  p92  = sh  1 A (stamped 289)  — West / Clubb / Jarrett / Whitener / Crouch / Ritchey
+  p94  = sh  2 A (stamped 290)
+  p96  = sh  3 A (stamped 291)
+  p98  = sh  4 A (stamped 292)
+  p100 = sh  5 A (stamped 293)
+  p102 = sh  6 A (stamped 294)
+  p103 = sh  6 B               ← George A Conrad dw 112/117
+  p110 = sh 10 A (stamped 298)
+  p120 = sh 15 A (stamped 303)
+  p130 = sh 20 A (stamped 308)
+  p136 = sh 23 A (stamped 311)
+  p137 = sh 23 B — last occupied ~ln 73; ln 74–100 blank. ED 9 ends.
+  p138 = ED 10 Whitewater sh 1 A (already Pass 65)
+
+Every ED 9 sheet (1 A–23 B) name-column top + bottom visually read.
+
+FIND: Conrad, George A, dw 112/117, ED 9 sh 6 B:
+  Head WM May 1871 29 M 1
+  Mary L wife Oct 1867 32 M 1
+  Ethel C son June 1899 11/12 S
+  NOT Jesse. No Letha. One living child is an infant boy.
+
+NIL Sullivan / Newman / Newnam / Letha-Viola (~age 2) on any ED 9 sheet.
+
+Sullivan-adjacent (NOT Sullivan):
+  Sullens Charles (×2) + William on sh 8 B (p107) — surname ends -ens
+  Sullins Isaac 54 + Sarah 52 on sh 10 B (p111) — no child Letha
+
+Letha-adjacent (wrong age vs Letha Viola ~2 in 1900):
+  Welker Letitia dau 13 (sh 4 A)
+  Gaines Lettie dau 6 (sh 4 B)
+  King Lestia wife 28 (sh 5 A)
+  Grant Joseph dau Lela/Letha Aug 1877 age 22 (sh 12 A)
+  Fish Noah L dau Lethy Feb 1880 age 20 (sh 17 B)
+
+Jesse/Jessie rejects (none Conrad):
+  Phelps Jesse L Head Sept 1869 30 (sh 3 A)
+  Eaker Jessie M dau 7; Wright Jesse g-son 9; Howell Jesse Head 24
+  Watkins Jesse 27; How Jesse F 28; Finley Jesse P 45
+  Malone Jesse 50 Wd; Bradshaw Jesse 30; Pulley Jesse 60
+  plus child Jessies (Hinsell, Myers, Holcomb, Bowerman, Thurston nephew 4)
+
+Dora rejects (none P001):
+  West Dora T dau 15 (sh 1 A, already Pass 66)
+  Wilson Dora C dau Dec 1886 age 13 (sh 1 B)
+  Williams Dora wife Jan 1852 age 48 (sh 6 B, same sheet as George A)
+  Ladd Dora SIL 14; Wallace Dora dau 15
+  Creedon[?] Joseph wife Dora Apr 1867 age 33 (sh 10 A) — husband not Stone/Newnam
+  Randolph Dora L wife Sept 1868 age 31 (sh 13 B)
+  Linky[?] Francis wife Dora Nov 1881 age 18 (sh 20 B)
+  Gass/Goss William dau Dora Meh 1878 age 22 (sh 22 B)
+
+Creedon/Corder lookalikes are NOT Conrad (C-r-eedon; C-o-r-d-e-r).
+Pigue/Pique Conrad A on sh 18 A is a GIVEN name, surname Pigue.
+
+Working crops /tmp/b007-pass67/ NOT committed except the evidence JPEGs.

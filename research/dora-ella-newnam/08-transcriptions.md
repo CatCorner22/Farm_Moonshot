@@ -702,5 +702,16 @@ Continuation on sh **7 B**: Columbus Dec **1894** **5**; Guy May **1896** **3**;
 
 → **C347**. Not Jesse. No Letha.
 
+## DOC037 — 1900 U.S. census, Wayne ED 9 sh 6 B (George A Conrad)
+- Image: `sources/census/1900-bollinger-wayne-ed9-sh6b-george-a-conrad.jpg` SHA-256 `25a6a21e8abe6c872be3c48aeb9bdcd326ea7969acdd8acd26abcef273b13d3c`
+- Provenance: **Image seen** 30 Oct 2026 (120 dpi pdftoppm)
+
+### Diplomatic (dwelling 112/117 only)
+> Dw **112/117**. **Conrad, George A** — Head, W M, May **1871**, **29**, M, **1**, MO/MO/MO  
+> **Mary L** — Wife, W F, Oct **1867**, **32**, M, **1**, **1/1**, MO/MO/MO  
+> **Ethel C** — Son, W M, June **1899**, **11/12**, S, MO/MO/MO
+
+→ **C349**. Not Jesse. No Letha.
+
 ## DOC009 — 1910 TN Soundex N-550 McCoy window (nil)
 Handwritten family/individual cards n2461–n2469. Sequence after Mary C (n2460): Mary D 49 Jefferson (son Layton 11); Mary M 70 Hamilton; Mek. G 50 Cheatham (Florence 19, John 17, General 16, Frances 13, William 10, Doria 6, Luther 1½); Melvin 3½ Giles (gs of Deacon George W); Melvin 54 Giles (SIL of same); Minerva 80 Robertson (gds Lona Neely, Nellie Erwin); Minnie 21 Roane (with Sam P. Sparks); Mitchell 27 Hardin (Ollie P 25, Gladys 4, Burl W 3, Royal E 1 9/12). **No McCoy.** SHA-256 n2463 `23610f8aa4c159b1b554ed1786d11f57d2f56f8a2e8994f7289ae7bd02dfca53`; n2469 `340489566090880388fa6b81ca5751c5944dcaf56a7b44f70fe560788f308586`.

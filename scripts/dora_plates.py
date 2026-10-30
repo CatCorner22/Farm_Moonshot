@@ -312,8 +312,29 @@ PLATES: list[dict] = [
         n=87, date="1 Jun 1900", year=1900, role="context",
         path="census/1900-bollinger-wayne-ed9-sh1a-hdr.jpg",
         title="Wayne Township ED 9 sheet 1 A header",
-        caption="Bollinger County ED 9 begins at T623-840 PDF page 92. Enumerator William Craff. Dwelling numbers restart at 1. Name-column sweep of this ED is the next residual after Union ED 8 closed.",
-        source="S296",
+        caption="Bollinger County ED 9 begins at T623-840 PDF page 92. Enumerator William Craff. Dwelling numbers restart at 1. Name-column sweep of every sheet 1 A–23 B is now complete (C350).",
+        source="S296 · S297 · C350",
+    ),
+    dict(
+        n=88, date="Jun 1900", year=1900, role="rejected",
+        path="census/1900-bollinger-wayne-ed9-sh6b-george-a-conrad.jpg",
+        title="George A Conrad household — Wayne ED 9 sheet 6 B",
+        caption="Dwelling 112/117. Conrad, George A, May 1871, age 29, married 1 year; wife Mary L, October 1867, age 32, 1/1; son Ethel C, June 1899, 11/12. Local FAN — not Jesse (different given name, marriage length, infant son not Letha).",
+        source="S297 · C349",
+    ),
+    dict(
+        n=89, date="27 Jun 1900", year=1900, role="negative",
+        path="census/1900-bollinger-wayne-ed9-sh23b-end.jpg",
+        title="End of Wayne ED 9 — Craff’s last occupied lines",
+        caption="Sheet 23 B, lines 72–73: Cummins/Cunnins, Richard, June 1874, age 26, and wife Elsie, January 1884, age 16. Lines 74–100 blank. Combined with sheets 1 A–23 A, Wayne Township is complete — no Jesse Conrad, no Sullivan, no Newman, no Letha Viola.",
+        source="S297 · C350",
+    ),
+    dict(
+        n=90, date="27 Jun 1900", year=1900, role="context",
+        path="census/1900-bollinger-wayne-ed9-sh23b-hdr.jpg",
+        title="Wayne Township ED 9 sheet 23 B header",
+        caption="Last Wayne sheet. Supervisor 12, sheet 23 B, enumerated 27 June 1900 by William Craff. The ED digit on this verso is written loosely (can be read as 7); township, enumerator, and sheet 23 match the 23 A header (ED 9).",
+        source="S297 · C350",
     ),
     # --- 1910 Soundex / Miracode ---
     dict(

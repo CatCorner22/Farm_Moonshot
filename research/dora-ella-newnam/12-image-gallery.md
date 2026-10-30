@@ -61,6 +61,9 @@ Diplomatic transcriptions: [`08-transcriptions.md`](08-transcriptions.md). Citat
 | 85 | Jun 1900 | Rejected same-name | [David Conrad household — Union ED 8 sheet 3 B](sources/census/1900-bollinger-union-ed8-sh3b-david-conrad.jpg) |
 | 86 | Jun 1900 | Negative search | [End of Union ED 8 — Dalton’s last sheet](sources/census/1900-bollinger-union-ed8-sh12b-end.jpg) |
 | 87 | 1 Jun 1900 | Context | [Wayne Township ED 9 sheet 1 A header](sources/census/1900-bollinger-wayne-ed9-sh1a-hdr.jpg) |
+| 88 | Jun 1900 | Rejected same-name | [George A Conrad household — Wayne ED 9 sheet 6 B](sources/census/1900-bollinger-wayne-ed9-sh6b-george-a-conrad.jpg) |
+| 89 | 27 Jun 1900 | Negative search | [End of Wayne ED 9 — Craff’s last occupied lines](sources/census/1900-bollinger-wayne-ed9-sh23b-end.jpg) |
+| 90 | 27 Jun 1900 | Context | [Wayne Township ED 9 sheet 23 B header](sources/census/1900-bollinger-wayne-ed9-sh23b-hdr.jpg) |
 | 17 | Apr 1910 | Negative search | [Kentucky N-550 — Millie / Missouri; no McCoy](sources/soundex/ky1910-n550-p329-millie-missouri.jpg) |
 | 18 | Apr 1910 | Negative search | [Kentucky N-550 — Monroe; still no McCoy](sources/soundex/ky1910-n550-p330-monroe-no-mccoy.jpg) |
 | 19 | Apr 1910 | Rejected same-name | [Kentucky N-550 — Sam / Samuel, none is the husband](sources/soundex/ky1910-n550-p342-sam-samuel-not-p002.jpg) |
@@ -533,11 +536,41 @@ Oliver A. Dalton wrote that this is the end of his enumeration. Last Union names
 
 **Role:** Context  
 **File:** [`sources/census/1900-bollinger-wayne-ed9-sh1a-hdr.jpg`](sources/census/1900-bollinger-wayne-ed9-sh1a-hdr.jpg)  
-**Source:** S296
+**Source:** S296 · S297 · C350
 
-Bollinger County ED 9 begins at T623-840 PDF page 92. Enumerator William Craff. Dwelling numbers restart at 1. Name-column sweep of this ED is the next residual after Union ED 8 closed.
+Bollinger County ED 9 begins at T623-840 PDF page 92. Enumerator William Craff. Dwelling numbers restart at 1. Name-column sweep of every sheet 1 A–23 B is now complete (C350).
 
 ![Wayne Township ED 9 sheet 1 A header](sources/census/1900-bollinger-wayne-ed9-sh1a-hdr.jpg)
+
+### 88 · Jun 1900 · George A Conrad household — Wayne ED 9 sheet 6 B
+
+**Role:** Rejected same-name  
+**File:** [`sources/census/1900-bollinger-wayne-ed9-sh6b-george-a-conrad.jpg`](sources/census/1900-bollinger-wayne-ed9-sh6b-george-a-conrad.jpg)  
+**Source:** S297 · C349
+
+Dwelling 112/117. Conrad, George A, May 1871, age 29, married 1 year; wife Mary L, October 1867, age 32, 1/1; son Ethel C, June 1899, 11/12. Local FAN — not Jesse (different given name, marriage length, infant son not Letha).
+
+![George A Conrad household — Wayne ED 9 sheet 6 B](sources/census/1900-bollinger-wayne-ed9-sh6b-george-a-conrad.jpg)
+
+### 89 · 27 Jun 1900 · End of Wayne ED 9 — Craff’s last occupied lines
+
+**Role:** Negative search  
+**File:** [`sources/census/1900-bollinger-wayne-ed9-sh23b-end.jpg`](sources/census/1900-bollinger-wayne-ed9-sh23b-end.jpg)  
+**Source:** S297 · C350
+
+Sheet 23 B, lines 72–73: Cummins/Cunnins, Richard, June 1874, age 26, and wife Elsie, January 1884, age 16. Lines 74–100 blank. Combined with sheets 1 A–23 A, Wayne Township is complete — no Jesse Conrad, no Sullivan, no Newman, no Letha Viola.
+
+![End of Wayne ED 9 — Craff’s last occupied lines](sources/census/1900-bollinger-wayne-ed9-sh23b-end.jpg)
+
+### 90 · 27 Jun 1900 · Wayne Township ED 9 sheet 23 B header
+
+**Role:** Context  
+**File:** [`sources/census/1900-bollinger-wayne-ed9-sh23b-hdr.jpg`](sources/census/1900-bollinger-wayne-ed9-sh23b-hdr.jpg)  
+**Source:** S297 · C350
+
+Last Wayne sheet. Supervisor 12, sheet 23 B, enumerated 27 June 1900 by William Craff. The ED digit on this verso is written loosely (can be read as 7); township, enumerator, and sheet 23 match the 23 A header (ED 9).
+
+![Wayne Township ED 9 sheet 23 B header](sources/census/1900-bollinger-wayne-ed9-sh23b-hdr.jpg)
 
 ## 1910 — Soundex, Peebles test, and Sturgeon ED 99
 
