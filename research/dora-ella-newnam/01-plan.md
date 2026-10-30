@@ -49,7 +49,7 @@ Wildcard strings to use: `New*m`, `Dor* New*`, `"Doll Newnam"`, `McCoy OR Coy Ne
 |---|---|---|---|---|
 | 1 | 1880 census Lee Co. ED 59 | NARA T9-427 / IA `10thcensus0427unit` n730 | Doll household, Dora ~8 | **found this session — image** |
 | 2 | 1880 KY Soundex N-550 | IA `soundex1880ky055` n2105–2106 | Pointer + continuation | **found this session** |
-| 3 | 1910 KY Miracode/Soundex N-550 Dora & McCoy | IA `soundex1910ky124` | Statewide individual cards | **nil Dora (prior+this); nil McCoy this session** |
+| 3 | 1910 KY Miracode/Soundex N-550 Dora & McCoy | IA `soundex1910ky124` | Statewide individual cards | **nil Dora (prior+this); nil McCoy; Ella window pass 21 nil P001 (C233)** |
 | 4 | 1910 AR Soundex N-550 Dora, Coy, McCoy | IA `soundex1910ar087` n665–702 | Statewide | **nil this session** |
 | 5 | 1900 Sturgeon hh 67 | USGenNet / RootsWeb transcription | Samuel & Dora + 5 children | **transcription seen this session** |
 | 6 | Lee Marriage Book 2 | USGenNet | 10 Dec 1885 Dora Ella × Samuel P. | **transcription seen this session**; FS image Q2QD-PZHL unread |
@@ -61,7 +61,7 @@ Wildcard strings to use: `New*m`, `Dor* New*`, `"Doll Newnam"`, `McCoy OR Coy Ne
 | 10 | 1910 KY S-350 Dora Stone | IA `soundex1910ky154` | Unlikely (Stone still widower 1920) | **two Dora Stones found, both rejected** |
 | 11 | 1910 KY N-550 Samuel given-names | IA `soundex1910ky124` printed pp. 342–343 | Was Samuel still a KY head? | **nil for P002** (wrong Samuels listed S027) |
 | 12 | 1880 Lee ED 59 sheet 1 | IA `10thcensus0427unit` n725 | Samuel ~11 | **found — John 69 / Mary 57 / Samuel 11** |
-| 13 | Tom A. Stone 1925 AR DC | Ancestry AR deaths (paywall) / AR Dept of Health | Birth year 1845 vs ~1858 | **user retrieval** |
+| 13 | Tom A. Stone 1925 AR DC | Ancestry AR deaths (paywall) / AR Dept of Health | Birth year 1845 vs ~1858 | **user retrieval** — ADH SOAP is modern-era only (**C227**) |
 | 14 | Stone × Newnam marriage 1920–25 | Yell / Perry / Logan Co. licenses (on-site or FS) | m2 date/place | **user retrieval** |
 | 15 | Samuel death 1900–1911 | Lee Co. (pre-1911, likely none statewide); cemetery; newspapers | Close widowhood | Open; not a 1910 KY N-550 head |
 | 16 | John H.; Mary Bunch; Rissie TN DC | KY/TN vitals, NUMIDENT, licenses | Children after 1900 | Partial (Pearl/Mary NUMIDENT prior); John H. VA namesake rejected |

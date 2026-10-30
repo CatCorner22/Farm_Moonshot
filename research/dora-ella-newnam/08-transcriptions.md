@@ -382,5 +382,42 @@ Thomas Stone, 44, woodchopper, and wife Nancy E., 33, married 18 years, with fiv
 
 {Note} Soundex card (DOC015 item 3) agrees on Thomas, Matilda, Gertrude, and Jenkins Ivory. Matilda’s month/year on the card (Mch 1876 age 24) differs slightly from the schedule (July 1873 age 26). Gertrude’s birthplace on one machine crop read Wisconsin — schedule column read **Missouri**; prefer original over Soundex where they agree. **Do not merge** Jenkins or this household with P001 Dora Ella Newnam Stone (C118). **Not merged** with 1920 Tom A. Stone Perry AR (C117). → C107 C117 C118.
 
+## DOC020 — 1900 U.S. census, Lee Co. KY, Sturgeon ED 52 sheet 5B hh 84–85 (original)
+- Image file(s) + SHA-256: `sources/census/1900-lee-ky-ed52-sh5b-header.jpg` · `e183b39207566c630de6c20e704e41c03b141ef93685b1229c826b2bc18d9be2`; `…-hh84-85-nativity.jpg` · `e6e7f1c744a50a02ff1e9f1ce5253941f2f6e0f5ef323cd32c541e7a6e228eac`; `…-full.jpg` · `49081c132c31bb7be3cc709305d0c00112e28c5c855cde593b9c51054c4d7be9`
+- Page: IA `12thcensusofpopu537unit` PDF p.943; NARA T623 reel 537; ED **52**, sheet **5 B**; enum. **11 Jun 1900**, Morgan J. Treadway; Precinct 6 Sturgeon
+- Provenance: NARA microfilm via Internet Archive, accessed 30 Oct 2026. **Original image seen.**
+
+Header (diplomatic):
+> State Kentucky · County Lee · Precinct 6 Sturgeon · Supervisor’s District 10 · Enumeration District 52 · Sheet 5 B  
+> Enumerated by me on the 11th day of June, 1900. Morgan J. Treadway, Enumerator.
+
+| Line | Dw/Fam | Name | Rel | Color/Sex | Birth | Age | Status | Yrs mar | Ch. | POB / F / M | Occ. |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| 61–69 | 84/84 | Gray, William | Head | W M | May 1847 | 53 | M | 29 | — | Kentucky / Kentucky / Kentucky | Farmer |
+| 62 | | — Mary J. | Wife | W F | Jan 1854 | 46 | M | 29 | 7 / 7 | Kentucky / Kentucky / Kentucky | — |
+| 63–68 | | Sidney W.; Robert H.; Lilly F.; Edna; Christopher C. | children | | | | | | Kentucky / Kentucky / Kentucky | |
+| 70 | | Brandenburg, Elizabeth | Mother-in-law | W F | Dec 1831 | 69 | Wd | | 2 / 2 | Kentucky / Tennessee / Virginia | — |
+| **71** | **85/85** | **Gray, Hardin** | Head | W M | **Jan 1876** | **24** | M | **3** | — | Kentucky / Kentucky / Kentucky | Farmer |
+| **72** | | **— Vestie** | Wife | W F | **Sep 1881** | **18** | M | **3** | **1 / 1** | Kentucky / **Virginia** / Kentucky | — |
+| **73** | | **— Rosco** | Son | W M | **Dec 1899** | **5/12** | S | | | Kentucky / Kentucky / Kentucky | — |
+
+Pass 2: Surname **Gray** (not Grey). Given name **Hardin** clear. Wife **Vestie** (not Vesta on this line). Father-birth column for Vestie is **Virginia** — same reading as Kendrick. Dwelling/family **85/85** written in the left margin. Household **86/86** begins immediately: Brandenburg, Joseph. **Louisa / Eliza Mays is not on these lines.** → C191 C224 C225.
+
+### Normalised reading
+Hardin Gray, 24, farmer, and wife Vestie, 18, married three years, with infant son Rosco, lived next to William and Mary J. Gray (Vestie’s in-laws) in Sturgeon precinct on 11 June 1900. Vestie reported her father born in Virginia. Louisa Pendergrass Mays Brandenburg was not in this house.
+
+## DOC021 — 1900 Greene Co. MO ED 42–43 headers (T623-856)
+- Image file(s) + SHA-256: `sources/census/1900-greene-ed42-sh1b-header.jpg` · `875446badf8ecd9d0967fdb428f9bc398f9632b14e9ff57dfc7d55f4a3fb6125`; `…-sh37b-header.jpg` · `8a726155e29ecf7e237de108a87c017b4ca8cd17dccbeef0486faaa3240fc0ce`; `1900-greene-ed43-sh1a-header.jpg` · `b28ed84b01531dcc288604affc7f8df4d6bbd5591cbde6c237abb7ae2e894b8c`; `…-sh29b-header.jpg` · `295ed2c7d6a7ff72d5beac5195649940b0991c19679ecd6b74256faa741d9146`
+- Page: IA `12thcensusofpopu856unit` PDF pp. **181, 253, 256, 313**
+- Provenance: NARA T623 reel 856 via Internet Archive, accessed 30 Oct 2026. **Original headers seen.**
+
+Header readings (diplomatic):
+> p.181 · State Missouri · County Greene · Campbell Twp / North Campbell · Springfield · Ward 6 · ED **42** · Sheet **1 B** · enum. 23 June 1900 · Rollt F. Renshaw
+> p.253 · same township/city · Ward 6 · ED **42** · Sheet **37 B** · enum. 28 June 1900 · Renshaw
+> p.256 · North Campbell Township · Springfield · Ward 7 · ED **43** · Sheet **1 A** · Robert A. Witten
+> p.313 · same · Ward 7 · ED **43** · Sheet **29 B** · Witten
+
+Pass 2: ED **43** starts at p.**256**, not p.254 (p.254 is Loretto Academy boarders, ED 42 tail). Name-column samples listed in **S235** have **no Stone**. → C229 C230.
+
 ## DOC009 — 1910 TN Soundex N-550 McCoy window (nil)
 Handwritten family/individual cards n2461–n2469. Sequence after Mary C (n2460): Mary D 49 Jefferson (son Layton 11); Mary M 70 Hamilton; Mek. G 50 Cheatham (Florence 19, John 17, General 16, Frances 13, William 10, Doria 6, Luther 1½); Melvin 3½ Giles (gs of Deacon George W); Melvin 54 Giles (SIL of same); Minerva 80 Robertson (gds Lona Neely, Nellie Erwin); Minnie 21 Roane (with Sam P. Sparks); Mitchell 27 Hardin (Ollie P 25, Gladys 4, Burl W 3, Royal E 1 9/12). **No McCoy.** SHA-256 n2463 `23610f8aa4c159b1b554ed1786d11f57d2f56f8a2e8994f7289ae7bd02dfca53`; n2469 `340489566090880388fa6b81ca5751c5944dcaf56a7b44f70fe560788f308586`.
