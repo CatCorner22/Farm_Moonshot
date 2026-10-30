@@ -1,0 +1,25 @@
+Pass 58 — 30 Oct 2026 (America/New_York)
+B040 T623-855 ED 37 remaining A-sides + T623-856 ED 41 B-sides + ED 38/39 samples
+
+T623-855 ED 37 A-sides now complete (p781–833 odd, + p813/827/816):
+  Previously: 1A,2A,3A,6A,10A,15A,18A,19A,25A (C271/C117).
+  This pass: 4A=787, 5A=789, 7A=793, 8A=795, 9A=797, 11A=801, 12A=803,
+  13A=805, 14A=807, 16A=811, 17A=813 (Stone, Elizabeth J. MIL ln 1 = C112 re-seen;
+  Bowles household follows — no Thomas A.), 18B=816 (post-C117 continuation, nil Stone),
+  20A=819, 21A=821, 22A=823, 23A=825, 24A=827, 26A=831, 27A=833.
+  Only Stone head in ED 37 A-sides remains Thomas A. sh 18A (C117).
+
+T623-856 ED 41 B-sides — every odd page 99–179 (sh 1B–41B) name columns seen.
+  Nil Stone / Thomas A. head. Wright roomers (Jacob p115; James p159) and Wright Clara
+  granddaughter (p167) are Springfield Wrights, not Stone.
+
+T623-855 ED 38 A-side samples (835=1A already L104):
+  847=7A, 855=11A, 863=15A (Dora Lucy A daughter — child, rejected),
+  871=19A, 879=23A, 887=27A, 895=31A (Weaver, Sarah H. — not Newnam; higher-res),
+  903=35A, 911=39A. Nil Stone.
+
+T623-855 ED 39 sh 1–5 A-sides (reel-855 tail):
+  917=1A, 919=2A, 921=3A (Stowe, John C. — not Stone), 923=4A,
+  925=5A (Wright, Henry — not Stone). Nil Stone / Thomas A.
+
+Local crops /tmp/b040-pass58/ not committed.
