@@ -835,3 +835,13 @@ This branch’s original-image work remains **C424–C440 / L392–L400 / S380�
 
 `list-cloud-agents` (`includeArchived: true`, limit 200, offset 0) → **68** / `hasMore: false` / `totalMatched: 68`. NEW vs 67: [Review all cloud chats](bc-b9d3861e-db5c-5ba2-95a8-bc5261f79593) (RUNNING, nested this pass). RUNNING also: parent `bc-01a18bb4`; PR **#26** `bc-995d22ea`; ED5 `bc-0039b8bf`. Independent fetch: PR **#26** HEAD **`b37864c69d92220574cd7b71dda2805a3b2fbd7c`** (`Merge origin/main 1fca25c; remap pass 21–22 colliding IDs`). Highest sibling IDs **C277 / L339 / S265**. Do **not** steal **C221–C277 / L245–L339 / S259–S265**. **No** new independently image-backed P001 1900–1926 residence. Fold `bc-b9d3861e` when it lands. This pass’s original-image work (1850 Estill 99B Marcus Gray; Breathitt/Madison headers + Madison 214B Gay) is filed under **C442–C455 / L402–L410 / S393–S402 / DOC047**.
 
+# Pass 42 nested fold (later 30 Oct 2026, America/New_York) — [Review all cloud chats](bc-b9d3861e-db5c-5ba2-95a8-bc5261f79593) landed
+
+Nested dump: `/tmp/dora-pass42/chat-review-pass42.md`. Catalog **68** / `hasMore: false` / RUNNING **4** · IDLE **59** · ERROR **5**. NEW vs 67: this nested reviewer only. Working tree **not** edited. Transcripts searched, not linear-read. **No** new independently image-backed P001 1900–1926 residence.
+
+**Stale pins in that nested report:** (1) PR **#26** HEAD `650a475` (Pass **58**) — independent fetch this fold still **`b37864c`**. (2) “C277 not on origin” — **C277 / L333–L334 / S265** are on that HEAD (AR DH CertificateSearch modern-era nil, remapped from `main` **C227**; **n/a** for the 1914–1950 index; not a P001 pin). (3) parent HEAD `2701378` — this branch is now **`4b08fbc`** (Pass **42**). GitHub PR **#26** is now **OPEN / MERGEABLE / CLEAN**.
+
+Skip remains **C221–C277 / L245–L339 / S259–S265**. Do **not** mint C274–C277. Pass **59** (ED 40 / reel-855 B-sides) is still **chat-only** beyond that HEAD. ED5 helper [Scan ED5 pages 405-434](bc-0039b8bf-7edb-593b-82c3-cb59471d392a) still empty. [B045 B047 free workarounds](bc-42eadea9-319d-533d-9395-742284b79ca4) still matches sibling **C272/C273**, not re-filed.
+
+This fold uses **C456 / L411 / S403**. Next unused **C457+ / L412+ / S404+ / DOC048+**. 1850 Estill/Breathitt/Madison work remains **C442–C455 / DOC047**.
+
