@@ -184,11 +184,21 @@ She was fifty-five if she was the eight-year-old of District 59. The certificate
 
 Dora had been in the ground two years when the *Beattyville Enterprise* of 30 November 1928 printed a sick-list note: “Uncle Doll Newman has been very sick… not able to be out.” On 1 April 1932 the same paper said E. T. Sparks of Hazard was visiting Uncle Doll Newnam in town. Seventeen days later Elias T. Newnam died on his ninetieth birthday. Nickname, town, and lifespan are two independent identifiers and no contradiction: the man in those notes is **probable** her father. [C284] [C048] [S270]
 
-The six free issues do not name Dora Stone, Dora Newnam, or Samuel P. They do name a living Beattyville Newnam cluster that is **not** silently merged with her household. Rev. Luther Newnam appears as Christian Church pastor in March–April 1932; Lee marriage books 20–24 show him officiating at Beattyville from at least 24 November 1926 through 1933, including 6 April 1932 — **probable** the same minister, **not** Samuel (dead by 1910). [C285] [C300] [S282] Everett Newnam of Idamay planned two acres of cane in March 1932; the *Enterprise* of 14 December 1939 reported Everett Newnam, fifty, of Idamay, dead of an accidental pistol discharge on the Heidelberg road — **probable** the same man (name + Idamay). His three daughters are living and are not named here. [C286] [C299] [S278]
+The six free issues do not name Dora Stone, Dora Newnam, or Samuel P. They do name a living Beattyville Newnam cluster that is **not** silently merged with her household. Rev. Luther Newnam appears as Christian Church pastor in March–April 1932; Lee marriage books 20–24 show him officiating at Beattyville from at least 24 November 1926 through 1933, including 6 April 1932 — **probable** the same minister, **not** Samuel (dead by 1910). [C285] [C300] [S282] He died at Beattyville on 28 February 1945, aged fifty-four years and seven days, born there 21 February 1891, son of William Newnam and Katherine Sternberg, husband of Cora Plummer — **proven** as a correlated pair of a death-register extract and the 1 March 1945 *Enterprise*. [C305] [C306] [S294] [S297] The same notice names one surviving brother, Fred Newnam of Irvine, and does not name Everett, Frank, John, or Grant. That silence is evidence against folding Luther into Everett’s sibling set, and it keeps Luther’s father William **unmerged** from Elias’s son William. [C338] [C328] His infant son Larry Gene died in February 1937; Cora, his widow, died in February 1981. [C308] [C307]
 
-On 15 March 1932, at Delvinta, George Botner married Clay Dunigan, twenty-three, of Idamay, son of R. C. Dunigan and Sirena Porter, to Ladona Newman, sixteen, of Delvinta, daughter of **Shelby Newman** and **Grace Brandenburg**. [C297] [S277] The 1 April paper said Clay and Ladonna had “quietly married last week.” Same names, same month: **probable** one couple. The bride is **not** Dora’s child — the license names other parents, and Dora had been dead five and a half years. [C298] Living descendants of that 1932 marriage are withheld.
+Everett Newnam of Idamay planned two acres of cane in March 1932; the *Enterprise* of 14 December 1939 reported Everett Newnam, fifty, of Idamay, dead of an accidental pistol discharge on the Heidelberg road — **probable** the same man (name + Idamay). His three daughters are living and are not named here. Surviving brothers: Frank Newnam, contractor of Berea, and John Newnam of Owsley County; one sister, Mrs. Robert Spicer of Lower Buffalo. [C286] [C299] [S278] Neither brother’s own death notice is on the Lee F or J pages. [C324] [C337]
+
+On 28–29 September 1936 a coal truck left Kentucky 21 east of Berea. Edward Newnam, son of Everett of Idamay — sixteen in the home-county *Enterprise*, twenty in the *Berea Citizen* — was killed at once. Clifton Newman, seventeen, son of Grant Newman of Berea, died the next afternoon. Edward had been staying with his uncle and aunt, Mr. and Mrs. Grant Newman. [C322] [C333] [S302] [S309] Conflict #18 leaves the age open; the wreck and the parentage are not in doubt.
+
+Grant Newnam is a documented man, and he is **not** silently merged with Frank. On 12 August 1899 he bonded, at twenty-three, to marry Martha Brandenburgh, eighteen, at Oliver Brandenburgh’s. [C330] [S307] Martha Brandenburg Newnam died 18 February 1951 at St. Joseph’s in Lexington, her husband living. [C332] [S310] Their son William, born 5 February 1907 at Station Camp, Estill County, died 11 July 1955 in Springfield, Ohio, and the paper called Grant “the late.” Grant therefore died between those two dates. [C334] [C335] [S311] Same names and the Brandenburg wife make the 1899/1951/1955 Grant **probable** one man, and **probable** the 1936 Berea uncle. Frank the contractor remains a separate person: different given name, and Grant was still alive in 1939 when Everett’s notice named Frank, not Grant. [C336] [C337] Conflict #20.
+
+Mrs. Robert Spicer of Lower Buffalo is **probable** the wife in the couple “Rev. and Mrs. Robert Spicer of Lower Buffalo,” grandparents of Linda Lou Spicer, who died at three on 3 May 1944. [C341] [C323] [S312] Callie’s own death notice is still unread. [C342]
+
+On 15 March 1932, at Delvinta, George Botner married Clay Dunigan, twenty-three, of Idamay, son of R. C. Dunigan and Sirena Porter, to Ladona Newman, sixteen, of Delvinta, daughter of **Shelby Newman** and **Grace Brandenburg**. [C297] [S277] The 1 April paper said Clay and Ladonna had “quietly married last week.” Same names, same month: **probable** one couple. The bride is **not** Dora’s child — the license names other parents, and Dora had been dead five and a half years. [C298] The 1913 Book 10 license names those parents: Shelby Newnam, twenty-one, son of Richard Newnam and Sarah Damrell, married Gracie Brandenburg, fifteen, daughter of Major Brandenburg and Emily Howelton, on 4 September 1913. [C309] [C310] [S298] That Shelby is **not** Samuel P. Ladonna Newman Dunigan (19 November 1915 – 28 December 1984) and Clay Dunigan (18 May 1908 – 28 August 1986) lie at Dunaway Cemetery. [C312] [C313] Living descendants of that 1932 marriage are withheld.
 
 Carrie Newman (1898–1915) at Sandlin Cemetery, Ola, fails the same-person test against Dora. [C295] A 1906 Hopkinsville correspondent-column “newnam” and an 1902 Richmond quote from Will Newnam are other men in other counties. [C291] [C292]
+
+The 1926 week she died is still unread in original paper. *The Yell County Journal* of Ola ran from 1925 to 1934 (LCCN SN90050035). The *Danville Democrat* of 1899–1927 was still publishing that August. The *Dardanelle Post-Dispatch* (LCCN SN89051008, 190?–1976) was a living weekly and is **not** digitized on the Library of Congress item record. Internet Archive holds none of those 1926 issues. A Chronicling America search for “Stone Ola Arkansas” in 1926 returns the *Osceola Times* and other counties — not Yell. Lee obituaries S, D, and L have no Dora Stone notice for 1926. [C314] [C315] [C343] [C346] [C347] [C317]
 
 The Greene County, Missouri, 1900 hunt for a second Thomas A. Stone household is finished on free film. Enumeration districts 37 through 43 — every A-side and every B-side — have been read from NARA T623-855/856. The only Stone **head** in that band remains Thomas A., thirty-two, with Matilda and Gertrude, on ED 37 sheet 18A, 27 June 1900. He is still **not merged** with the 1920 Perry County widower. [C281] [C117]
 
@@ -237,12 +247,12 @@ Charts of pedigree, descendants, and lifespan follow the plates. Dashed lines me
 - Whether witness **Link Mays** is Larkin T. Mays — still possible, not merged.
 
 
-- **B049:** 1926 *Beattyville Enterprise* and *Yell County Journal* still unread. IA Solr 0; UK film years omit 1926; six `beatty` issues omit 1926. [C293] [C301]
-- **B045 / B047:** Samuel P. probate film and M1509 draft cards unread.
-- **FAN residual:** Luther Newnam’s own death (B051); Shelby × Grace identity (B052); Everett’s deceased brothers (B053); Carter Cove stone photographs (B054).
+- **B049 / B058:** 1926 *Beattyville Enterprise*, *Yell County Journal*, *Danville Democrat*, and *Dardanelle Post-Dispatch* still unread. Free catalogs closed (R010 steps 1–18). [C293] [C301] [C343] [C346]
+- **B045 / B061 / B047:** Samuel P. probate film (FS 127913 / 127891) and court orders 1870–1919 unread; M1509 draft cards unread. [C320] [C348]
+- **FAN residual:** Frank of Berea (B055) not merged with Grant (conflict #20); John of Owsley (B056); Callie Spicer’s own death (B057); Grant’s death 1951–1955 (B063); Fred of Irvine (B062); William × Katherine Sternberg license (B064); Carter Cove stone photographs (B054). Luther’s death and Shelby × Grace are **closed**.
 - Greene 37–43 Stone sweep is **closed**. Do not reopen Peebles as a third marriage without a license. Do not print 1868 or 24 February 1906 as facts.
 
-The next session starts with **B049**.
+The next session starts with **B045** (and **B061**).
 
 ---
 
@@ -280,12 +290,22 @@ Numbered notes expand the claim/source tags in the narrative. Access labels: *im
 28. Coy × Letha Sullivan, 18 Feb 1917, Ola. **C027** **S024**. Prior session.
 29. NUMIDENT Pearl P. Jackson / Mary Magdalene Bunch naming Sam and Dora. **S006** **S007**. Prior.
 30. Lee Books 5–19: no Peebles; no Dora Newnam remarriage. [USGenNet marriages](https://usgennet.org/usa/ky/county/lee/marriage/). **C084** **S064**.
+31. Rev. Luther Newnam death: *Beattyville Enterprise*, 1 Mar 1945, plus Lee 1945 death extract. [USGenNet n.html](https://usgennet.org/usa/ky/county/lee/obituaries/n.html). *Transcription only.* **C305** **C306** **S294** **S297**. **PROVEN** as a correlated pair.
+32. Lee Book 10: Shelby Newnam × Gracie Brandenburg, 4 Sept 1913. [USGenNet Book 10](https://usgennet.org/usa/ky/county/lee/marriage/marrbook10.html). *Transcription only.* **C309** **S298**.
+33. *Yell County Journal* 1925–1934, LCCN [SN90050035](https://www.loc.gov/item/sn90050035/); *Danville Democrat* 1899–1927; *Dardanelle Post-Dispatch* 190?–1976, LCCN [SN89051008](https://www.loc.gov/item/sn89051008/) (`digitized: false`). **C314** **C315** **C343**. *Catalog only.*
+34. Lee Book 5: Grant Newnam × Martha Brandenburgh, bond 12 Aug 1899. [USGenNet Book 5](https://usgennet.org/usa/ky/county/lee/marriage/marrbook5.html). *Transcription only.* **C330** **S307**.
+35. *Berea Citizen*, 1 Oct 1936: Clifton Newman, 17, son of Grant of Berea, d. 29 Sep 1936. [USGenNet n.html](https://usgennet.org/usa/ky/county/lee/obituaries/n.html#cliftonnewman). *Transcription only.* **C333** **S309**.
+36. *Enterprise*, 15 Mar 1951: Martha Brandenburg Newnam d. 18 Feb 1951, Grant living. [USGenNet](https://usgennet.org/usa/ky/county/lee/obituaries/n.html#margbn). **C332** **S310**.
+37. *Enterprise*, 14 Jul 1955: William Newman, son of late Grant and Martha Brandenburg, d. 11 Jul 1955. **C334** **C335** **S311**.
+38. *Enterprise*, 11 May 1944: Linda Lou Spicer; grandparents Rev. and Mrs. Robert Spicer of Lower Buffalo. [USGenNet s.html](https://usgennet.org/usa/ky/county/lee/obituaries/s.html#lindalspicer). **C341** **S312**.
+39. Lee Books 2–8: no William Newnam × Katherine Sternberg. William Newnam witnessed Buford Sternberg × Ollie Murphy, 18 Oct 1888. [Book 3](https://usgennet.org/usa/ky/county/lee/marriage/marrbook3.html). **C339** **C340** **S308**.
+40. LOC Chronicling America collection JSON, 30 Oct 2026: Newnam + Kentucky 1930–1945 = 0; Newnam + *The Citizen* = 0; 1926 “Stone Ola Arkansas” = Osceola and other counties. **C344** **C345** **C347** **S316**. *Index only.*
 
 ---
 
 ## Source index
 
-Working table of **saved local copies**. Full file list: [`../SOURCE-INDEX.md`](../SOURCE-INDEX.md) and [`../sources/SOURCE-INVENTORY.tsv`](../sources/SOURCE-INVENTORY.tsv) (331 files after this pass).
+Working table of **saved local copies**. Full file list: [`../SOURCE-INDEX.md`](../SOURCE-INDEX.md) and [`../sources/SOURCE-INVENTORY.tsv`](../sources/SOURCE-INVENTORY.tsv) (406+ files after this pass).
 
 | ID | Local file | Repository / URL | What it proves | Access |
 |---|---|---|---|---|
@@ -303,5 +323,10 @@ Working table of **saved local copies**. Full file list: [`../SOURCE-INDEX.md`](
 | S278 | `../sources/obituaries/lee-obits-n-everett-newnam-1939-extract-2026-10-30.txt` | [Obits N](https://usgennet.org/usa/ky/county/lee/obituaries/n.html#everettnewman) | Everett d. 13 Dec 1939 | transcription only |
 | S280 | `../sources/press/ia-yell-journal-1926-search-2026-10-30.json` | IA Solr | 0 hits for 1926 titles | index only |
 | S281 | `../sources/press/genealogytrails-yell-obits-landing-2026-10-30.html` | [GT Yell obits](https://genealogytrails.com/ark/yell/obits.html) | Nil on landing | transcription only |
+| S294 | `../sources/obituaries/lee-obits-luther-newnam-1945-extract-2026-10-30.txt` | [Obits N](https://usgennet.org/usa/ky/county/lee/obituaries/n.html) | Luther d. 28 Feb 1945 | transcription only |
+| S298 | `../sources/marriages/lee-book10-shelby-gracie-1913-extract-2026-10-30.txt` | [Book 10](https://usgennet.org/usa/ky/county/lee/marriage/marrbook10.html) | Shelby × Gracie 4 Sept 1913 | transcription only |
+| S307 | `../sources/marriages/lee-book5-grant-martha-1899-extract-2026-10-30.txt` | [Book 5](https://usgennet.org/usa/ky/county/lee/marriage/marrbook5.html) | Grant × Martha 12 Aug 1899 | transcription only |
+| S309 | `../sources/obituaries/lee-obits-clifton-newman-1936-extract-2026-10-30.txt` | [Obits N](https://usgennet.org/usa/ky/county/lee/obituaries/n.html#cliftonnewman) | Clifton d. 29 Sep 1936 | transcription only |
+| S315 | `../sources/press/loc-item-dardanelle-post-dispatch.json` | [LOC sn89051008](https://www.loc.gov/item/sn89051008/) | *Dardanelle Post-Dispatch* not digitized | catalog only |
 
 Embedded plates live in `plates/` and `../sources/census/`. Charts: [`../visuals/pedigree-dora.svg`](../visuals/pedigree-dora.svg), [`../visuals/timeline-dora.svg`](../visuals/timeline-dora.svg).

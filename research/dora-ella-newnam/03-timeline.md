@@ -89,5 +89,18 @@ Place as it was *at the date*; modern equivalent in brackets. Flag impossibiliti
 | **1 Apr 1932** | — | *Enterprise*: **E. T. Sparks** of Hazard visiting **Uncle Doll Newnam**; Rev. **Luther Newnam** pastor; Everett of Idamay; Ladonna note | Beattyville / Idamay, Lee Co., KY | C284 C285 C286 C287 | S270 |
 | 18 Apr 1932 | — | Father Elias d. on his birthday, age 90 | Beattyville, Lee Co., KY | C048 | S011 prior |
 | **13 Dec 1939** | — | FAN: **Everett Newnam**, 50, of Idamay, d. accidental pistol (PROBABLE = 1932 cane-planter). Daughters: `Living — details withheld` | Richmond hospital / Idamay, Lee Co., KY | C299 | S278 |
+| **4 Sept 1913** | — | FAN: **Shelby Newnam**, 21, × **Gracie Brandenburg**, 15, at bride’s home (Book 10). Parents Richard×Sarah Damrell / Major×Emily Howelton. **Not** P002 | Lee Co., KY | C309 C310 | S298 |
+| **19 Nov 1915** | — | FAN: **Ladonna Newman** b., mother Grace Brandenburg (index). Stone agrees | Lee Co., KY | C312 | S300 S301 |
+| Jan 1920 | — | FAN: Sturgeon hh **65–70** Shelby 28, Grace 21, Ladona 3 2/12, George B. 1 3/12 | Sturgeon, Lee Co., KY | C311 | S299 |
+| **18 Oct 1888** | — | FAN: **William Newnam** witnessed Buford Sternberg × Ollie Murphy (Book 3). **Not merged** with Elias’s son William | Lee Co., KY | C339 C340 | S308 |
+| **12–13 Aug 1899** | — | FAN: **Grant Newnam**, 23, bonded to **Martha Brandenburgh**, 18, at Oliver Brandenburgh’s | Lee Co., KY | C330 | S307 |
+| **28–29 Sep 1936** | — | FAN: **Edward Newnam** (Everett’s son) killed 28 Sep; cousin **Clifton**, 17, son of Grant of Berea, d. 29 Sep; same KY 21 wreck | Madison Co. / Idamay | C322 C333 | S302 S309 |
+| **3 May 1944** | — | FAN: **Linda Lou Spicer**, 3, d. Lexington; grandparents **Rev. and Mrs. Robert Spicer of Lower Buffalo** | Lexington / Lower Buffalo, Lee Co. | C341 | S312 |
+| **18 Feb 1951** | — | FAN: **Martha Brandenburg Newnam**, wife of Grant (living), d. St. Joseph’s, Lexington | Lexington / Yellow Rock | C332 | S310 |
+| **11 Jul 1955** | — | FAN: **William Newman**, son of **late** Grant & Martha Brandenburg, d. Springfield, Ohio (b. 5 Feb 1907 Estill) | Springfield, OH / Yellow Rock | C334 C335 | S311 |
+| **13 Feb 1937** | — | FAN: infant **Larry Gene Newnam**, son of Rev. Luther & Cora, d. Beattyville | Beattyville, Lee Co., KY | C308 | S296 |
+| **28 Feb 1945** | — | FAN: Rev. **Luther Newnam** d. Beattyville, age 54y 7d; b. 21 Feb 1891; parents William × Katherine Sternberg; wife Cora | Beattyville, Lee Co., KY | C305 C306 | S294 S297 |
+| **28 Dec 1984** / **28 Aug 1986** | — | FAN: **Ladonna Newman Dunigan** / **Clay Dunigan** d.; Dunaway Cemetery (both deceased) | Lee Co., KY | C312 C313 | S301 |
+| **25 Feb 1981** (if “Wednesday” of Fri 27 Feb paper) | — | FAN: **Cora Plummer Newnam**, widow of Rev. Luther, d. Lexington hospital | Lexington / Beattyville | C307 | S295 |
 
 **Impossibility flags:** None. Mother ~29 at Dora’s 1871 birth (Mary b. 1842). Dora age 14 at marriage is legal/period-possible (KY) though young; 1880 age 8 corroborates. Two children born before Coy in the 1886–1889 window would have Dora aged 15–18 — possible. No event after 23 Aug 1926 is attributed to her.

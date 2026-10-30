@@ -1,0 +1,1 @@
+{"responseHeader":{"status":0,"QTime":67,"params":{"query":"(text:&quot;Dora Stone&quot; OR text:&quot;Dora Stone&quot; OR text__reviews:&quot;Dora Stone&quot;) AND (text:1926 OR text:1926 OR text__reviews:1926)","qin":"&quot;Dora Stone&quot; AND 1926","fields":"identifier,title,year","wt":"json","rows":20,"start":0}},"response":{"numFound":0,"start":0,"docs":[]}}

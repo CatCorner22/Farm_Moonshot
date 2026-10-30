@@ -1,7 +1,7 @@
 # Source index — Dora Ella Newnam Stone
 
 Working inventory of **saved local copies** in `sources/` plus the authored Word biography.  
-Full file list (331 files): [`sources/SOURCE-INVENTORY.tsv`](sources/SOURCE-INVENTORY.tsv) (path, bytes, SHA-256 prefix).
+Full file list (406+ files): [`sources/SOURCE-INVENTORY.tsv`](sources/SOURCE-INVENTORY.tsv) (path, bytes, SHA-256 prefix).
 
 **Access labels:** `image seen` · `index only` · `transcription only` · `catalog only` · `OCR text` · `not yet examined`.
 
@@ -26,6 +26,49 @@ Captured this session: **30 Oct 2026**. Earlier plates remain in `sources/census
 | S280 | `sources/press/ia-yell-journal-1926-search-2026-10-30.json` · `ia-beattyville-enterprise-1926-search-2026-10-30.json` | 2026-10-30 | Internet Archive Solr | https://archive.org/ | 0 items for those 1926 titles | **C301** | index only |
 | S281 | `sources/press/genealogytrails-yell-obits-landing-2026-10-30.html` | 2026-10-30 | Genealogy Trails Yell obits | https://genealogytrails.com/ark/yell/obits.html | Landing page nil Stone/Newnam/Dora/1926 | **C302** | transcription only |
 | S282 | *(same HTML as S277)* | 2026-10-30 | Lee Books 20–24 officiant rows | https://usgennet.org/usa/ky/county/lee/marriage/marrbook23.html | Luther Newnam, minister, 1926–1933 including 6 Apr 1932 | **C300** | transcription only |
+| S283 | `sources/press/genealogytrails-yell-newspapers-2026-10-30.html` · `ldsgenealogy-yell-newspapers-2026-10-30.html` | 2026-10-30 | GT / LDSGenealogy Yell newspaper directories | http://genealogytrails.com/ark/yell/news_list.html | *Yell County Journal* 1925–1934 LCCN **SN90050035** | **C314** | catalog only |
+| S284 | *(same GT/LDS files as S283)* | 2026-10-30 | GT / LDSGenealogy | same | *Danville Democrat* 1899–1927 still living Aug 1926 | **C315** | catalog only |
+| S285 | *(AR Archives finding-aid shell; pass 62)* | 2026-10-30 | Arkansas State Archives | https://findingaids.digitalheritage.arkansas.gov/repositories/3/resources/5388 | Yell newspaper microfilm, 112 reels; reel list not seen | **C316** | catalog only |
+| S286 | `sources/press/ia-danville-democrat-1926-search-2026-10-30.json` · `ia-dora-stone-1926-ola-yell-search-2026-10-30.json` | 2026-10-30 | Internet Archive Solr | https://archive.org/ | 0 items Democrat 1926 / Dora Stone 1926 Ola | **C318** | index only |
+| S287 | `sources/obituaries/lee-obits-s-rosa-stone-reject-2026-10-30.txt` | 2026-10-30 | USGenNet Lee obituaries S/D/L | https://usgennet.org/usa/ky/county/lee/obituaries/s.html | Nil 1926 Dora; Rosa Stone Menifee rejected | **C317** | transcription only |
+| S288 | *(Newspapers.com catalog snippet; unread pages)* | 2026-10-30 | Newspapers.com | — | *Enterprise* advertised 1896–1999, 26,889 pages | **C326** | catalog only |
+| S289 | *(reserved; pass 62 press extras live under S283–S288)* | 2026-10-30 | — | — | — | — | — |
+| S290 | `sources/catalog/lee-wills-landing-2026-10-30.html` | 2026-10-30 | USGenNet Lee wills | https://usgennet.org/usa/ky/county/lee/wills/ | No Samuel P. Newnam will | **C319** | transcription only |
+| S291 | `sources/catalog/ldsgenealogy-lee-probate-1870-1967-2026-10-30.html` | 2026-10-30 | LDSGenealogy / FS catalog | https://ldsgenealogy.com/KY/Lee-County-Probate-Records.htm | Probate 1870–1967 = FS **127913** | **C320** | catalog only |
+| S292 | `sources/catalog/ldsgenealogy-lee-wills-1873-1945-2026-10-30.html` | 2026-10-30 | LDSGenealogy / FS catalog | same directory | Wills 1873–1945 = FS **127891** | **C320** | catalog only |
+| S293 | `sources/military/lee-wwi-draft-cards-page-2026-10-30.html` | 2026-10-30 | Genealogy Trails Lee | https://genealogytrails.com/ken/lee/wwi_draft_cards.html | Second GT page nil Newnam/McCoy | **C321** | transcription only |
+| S294 | `sources/obituaries/lee-obits-luther-newnam-1945-extract-2026-10-30.txt` | 2026-10-30 | USGenNet Lee obituaries N | https://usgennet.org/usa/ky/county/lee/obituaries/n.html | *Enterprise* 1 Mar 1945: Luther d. 28 Feb 1945 | **C305 C306 C338** | transcription only |
+| S295 | `sources/obituaries/lee-obits-cora-plummer-newnam-1981-extract-2026-10-30.txt` | 2026-10-30 | USGenNet Lee obituaries N | same | *Herald-Leader* 27 Feb 1981: Cora widow | **C307** | transcription only |
+| S296 | `sources/obituaries/lee-obits-larry-gene-newnam-1937-extract-2026-10-30.txt` | 2026-10-30 | USGenNet Lee obituaries N | same | Larry Gene d. Feb 1937 | **C308** | transcription only |
+| S297 | `sources/vital/lee-deaths-1945-luther-extract-2026-10-30.txt` | 2026-10-30 | USGenNet Lee deaths 1945 | https://usgennet.org/usa/ky/county/lee/deaths/ | Luther DC extract: 54y 7d; parents William × Katherine Sternberg | **C305** | transcription only |
+| S298 | `sources/marriages/lee-book10-shelby-gracie-1913-extract-2026-10-30.txt` | 2026-10-30 | USGenNet Lee Book 10 | https://usgennet.org/usa/ky/county/lee/marriage/marrbook10.html | Shelby × Gracie 4 Sept 1913 | **C309 C310** | transcription only |
+| S299 | `sources/census/lee-1920-sturgeon-shelby-extract-2026-10-30.txt` | 2026-10-30 | USGenNet 1920 Sturgeon | https://usgennet.org/usa/ky/county/lee/census/ | hh 65–70 Shelby + Grace + Ladona | **C311** | transcription only |
+| S300 | `sources/vital/lee-births-n-2026-10-30.html` | 2026-10-30 | USGenNet Lee births N | https://usgennet.org/usa/ky/county/lee/births/ | NEWMAN LADONNA, mother GRACE BRANDENBURG, 19 Nov 1915 | **C312** | transcription only |
+| S301 | `sources/cemetery/lee-dunaway-ladonna-extract-2026-10-30.txt` | 2026-10-30 | USGenNet Dunaway Cemetery | https://usgennet.org/usa/ky/county/lee/cemeteries/ | Ladonna 1915–1984; Clay 1908–1986 | **C312 C313** | transcription only |
+| S302 | `sources/obituaries/lee-obits-edward-newnam-1936-extract-2026-10-30.txt` | 2026-10-30 | USGenNet Lee obituaries N | https://usgennet.org/usa/ky/county/lee/obituaries/n.html | Edward wreck 28 Sep 1936 | **C322** | transcription only |
+| S303 | *(SortedByName Callie Newnam / Robert Spicer; pass 62)* | 2026-10-30 | SortedByName | — | CALLIE NEWNAM mother + ROBERT SPICER | **C323** | index only |
+| S304 | `sources/obituaries/lee-obits-n-2026-10-30-pass62.html` *(F/J pages also seen)* | 2026-10-30 | USGenNet Lee obituaries F + J | https://usgennet.org/usa/ky/county/lee/obituaries/ | Nil Frank of Berea / John of Owsley own notices | **C324** | transcription only |
+| S305 | `sources/cemetery/wayback-cdx-fag-97907837-2026-10-30.json` · `…97907931…` | 2026-10-30 | Internet Archive Wayback CDX | https://web.archive.org/cdx/search/cdx | 0 snapshots of those FAG memorials | **C325** | index only |
+| S306 | `sources/wills/lee-elizabeth-newnam-will-2026-10-30.html` · extract `.txt` | 2026-10-30 | USGenNet Lee wills | https://usgennet.org/usa/ky/county/lee/wills/enewnam.html | 15 Jan 1922 / proved 1934; heir Pearl Jackson only | **C233** | transcription only |
+| S307 | `sources/marriages/lee-book5-grant-martha-1899-extract-2026-10-30.txt` · `lee-marrbook5-sternberg-scan-2026-10-30.html` | 2026-10-30 | USGenNet Lee Book 5 | https://usgennet.org/usa/ky/county/lee/marriage/marrbook5.html | Grant × Martha bond 12 Aug 1899 | **C330** | transcription only |
+| S308 | `sources/marriages/lee-book3-william-sternberg-1888-extract-2026-10-30.txt` · `lee-books2-8-william-katherine-sternberg-nil-2026-10-30.txt` | 2026-10-30 | USGenNet Lee Books 2–8 | https://usgennet.org/usa/ky/county/lee/marriage/marrbook3.html | William witnessed Sternberg 18 Oct 1888; nil William × Katherine | **C339 C340** | transcription only |
+| S309 | `sources/obituaries/lee-obits-clifton-newman-1936-extract-2026-10-30.txt` | 2026-10-30 | USGenNet / *Berea Citizen* 1 Oct 1936 | https://usgennet.org/usa/ky/county/lee/obituaries/n.html#cliftonnewman | Clifton, 17, son of Grant of Berea, d. 29 Sep 1936 | **C333** | transcription only |
+| S310 | `sources/obituaries/lee-obits-martha-brandenburg-newnam-1951-extract-2026-10-30.txt` | 2026-10-30 | USGenNet Lee obituaries N | https://usgennet.org/usa/ky/county/lee/obituaries/n.html#margbn | Martha d. 18 Feb 1951; Grant living | **C332** | transcription only |
+| S311 | `sources/obituaries/lee-obits-william-newman-1955-grant-son-extract-2026-10-30.txt` | 2026-10-30 | USGenNet Lee obituaries N | same | William, son of late Grant, d. 11 Jul 1955 | **C334 C335** | transcription only |
+| S312 | `sources/obituaries/lee-obits-linda-lou-spicer-1944-extract-2026-10-30.txt` | 2026-10-30 | USGenNet Lee obituaries S | https://usgennet.org/usa/ky/county/lee/obituaries/s.html#lindalspicer | Linda Lou d. 3 May 1944; grandparents Rev. & Mrs. Robert Spicer, Lower Buffalo | **C341** | transcription only |
+| S313 | `sources/obituaries/lee-obits-s-2026-10-30-pass63.html` | 2026-10-30 | USGenNet Lee obituaries S | https://usgennet.org/usa/ky/county/lee/obituaries/s.html | Full S page; nil Callie (Newnam) Spicer death | **C342** | transcription only |
+| S314 | `sources/press/loc-item-citizen-berea.json` | 2026-10-30 | Library of Congress | https://www.loc.gov/item/sn85052076/ | *The Citizen* (Berea) 1899–1958 digitized | **C344** | catalog only |
+| S315 | `sources/press/loc-item-dardanelle-post-dispatch.json` | 2026-10-30 | Library of Congress | https://www.loc.gov/item/sn89051008/ | *Dardanelle Post-Dispatch* 190?–1976, LCCN **SN89051008**, not digitized | **C343** | catalog only |
+| S316 | `sources/press/loc-ca-newnam-ky-1930-1945.json` · `loc-ca-partof-citizen-newnam.json` · `loc-ca-stone-ola-1926.json` · `loc-ca-frank-newnam.json` | 2026-10-30 | LOC Chronicling America collection JSON | https://www.loc.gov/collections/chronicling-america/ | KY Newnam 1930–45 = 0; Citizen Newnam = 0; Frank = 0; 1926 “Ola” = Osceola | **C345 C347 C342** | index only |
+| S317 | `sources/press/ia-solr-dora-stone-1926.json` · `ia-solr-samuel-newnam-will.json` · `ia-solr-luther-newnam-draft.json` | 2026-10-30 | Internet Archive Solr | https://archive.org/advancedsearch.php | numFound 0 on those three queries | **C346** | index only |
+| S318 | `sources/press/genealogytrails-yell-news-list-2026-10-30.html` · `catalog/ldsgenealogy-yell-newspapers-reget-2026-10-30.html` | 2026-10-30 | GT / LDSGenealogy | http://genealogytrails.com/ark/yell/news_list.html | Title list reconfirm | **C314 C315 C343** | catalog only |
+| S319 | `sources/catalog/ldsgenealogy-lee-court-2026-10-30.html` · `ldsgenealogy-lee-probate-2026-10-30.html` | 2026-10-30 | LDSGenealogy | https://ldsgenealogy.com/KY/Lee-County-Court-Records.htm | Court orders 1870–1919; probate 1870–1967 | **C348** | catalog only |
+| S320 | `sources/catalog/madison-library-berea-citizen-2026-10-30.html` | 2026-10-30 | Madison County Public Library | https://www.madisonlibrary.org/research/archives/berea-citizen | *Berea Citizen* archive catalog | **C344** | catalog only |
+| S321 | `sources/vital/lee-county-library-death-record-2026-10-30.html` | 2026-10-30 | Lee County Public Library | https://www.leecountylibrary.org/news/87-lee-county-death-record | Compiled Ledger list nil Dora Stone / Samuel / Callie | **C349** | transcription only |
+| S322 | `sources/vital/lee-deaths-landing-2026-10-30.html` | 2026-10-30 | USGenNet Lee deaths | https://usgennet.org/usa/ky/county/lee/deaths/ | Year-file landing; no new Samuel P. row | **C319** | catalog only |
+| S323 | `sources/obituaries/lee-obits-g-2026-10-30.html` | 2026-10-30 | USGenNet Lee obituaries G | https://usgennet.org/usa/ky/county/lee/obituaries/g.html | G-page; Grant’s own notice not here | **C337** | transcription only |
+| S324 | `sources/wills/lee-mjs-newman-will-2026-10-30.html` | 2026-10-30 | USGenNet Lee wills | https://usgennet.org/usa/ky/county/lee/wills/mjsnewnam.html | Mary Jane Steele Newman — **not** Samuel P. | **C319** reject | transcription only |
+| S325 | `sources/census/lee-1900-beattyville-url-404-2026-10-30.txt` | 2026-10-30 | USGenNet / RootsWeb | (URLs in file) | 1900 Beattyville/Proctor transcript URLs 404/403 | **C350** | not examined |
 
 ## Word biography provenance
 
@@ -39,8 +82,10 @@ See [`sources/authored/PROVENANCE.md`](sources/authored/PROVENANCE.md). Drive se
 | Newspapers.com *Beattyville Enterprise* 1896–1999 | Search Newnam/Newman/Stone, Aug–Sep **1926** and 1904–1910 | 1926 not in IA `beatty` six issues or UK film years |
 | UK Margaret I. King Library microfilm **S 90-033** / KUK **18568** | Request *Beattyville Enterprise* reels for 1909–11 / 1915 (Samuel-death window) | Catalog only (**S271**) |
 | *Yell County Journal* (Ola, 1925–1934) | AR State Archives / Danville or Plainview library | Not digitised free |
+| *Dardanelle Post-Dispatch* (LCCN **SN89051008**) Aug 1926 | AR State Archives / Dardanelle or Arkansas River Valley library | LOC item `digitized: false` (**C343**) |
 | NARA M1509 rolls **KY45** (Lee), **KY24** (Estill), **KY74** (Owsley), **AR69** (Yell) | FS sign-in or NARA | Cards unread (**B047**) |
 | KDLA / KHS Lee probate 1873–2004 | Film browse Samuel P. Newnam admin. | **B045** |
+| FS Lee Court Orders 1870–1919 / Order Books 1894–1922 | Sign-in browse for Samuel P. administration | **B061** |
 
 ## Variant strings used this session (categories 1–4)
 
@@ -50,4 +95,4 @@ See [`sources/authored/PROVENANCE.md`](sources/authored/PROVENANCE.md). Drive se
 
 **Thomas / T. A. Stone:** Thomas, Tom, T. A., T A × Stone, Store, Stowe (rejects already logged).
 
-Exact strings in `02-log.md` **L343–L352**.
+Exact strings in `02-log.md` **L343–L352** and **L380–L397**.
