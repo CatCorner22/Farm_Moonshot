@@ -452,3 +452,328 @@ Keep skipping Greene 42–43 remaining B-sides / T623-839 / hh 85 until #26/#29 
 
 **Status update on this filing (later 30 Oct 2026, America/New_York):** a second `list-cloud-agents` on this continuation still returned **60** / `hasMore: false`. Nested reviewer `bc-fa32244b` is now **IDLE** (142 messages; catalog above). `bc-28cdb8cd` IDLE. RUNNING: this run `bc-01a18bb4`, PR **#26** `bc-995d22ea`, ED5 `bc-0039b8bf`. ERROR: five Ancestry/FS/TSLA browser hunts, unchanged. **No** new independently image-backed P001 pin. Do **not** import Pass 55 draft **C263–C266** or the in-flight Liberty p.1124 “Dora E. wife” guess.
 
+
+
+---
+
+# Pass 38 filing note (30 Oct 2026, America/New_York)
+
+Live re-list after this filing still returned **62** / `hasMore: false`. Nested reviewer `bc-87c7034f` is now **IDLE** (was RUNNING/empty when that nested run started). Parent `bc-01a18bb4` still RUNNING. Independently image-backed P001 1900–1926 residence: **NONE**. Do **not** steal C263–C266 / L313–L316 / S259. C266 on PR #26 is **Dora E. Copley**, not Cato. Full nested catalog follows.
+
+# Pass 38 (30 Oct 2026 ~09:49–09:50Z) — cloud-agent catalog **62** (was **60** on pass 37; **59** on pass 36; **58** on pass 34/35)
+
+`cursor-cloud-list-cloud-agents` (`includeArchived: true`, `limit: 200`, `offset: 0`) → **62** / `hasMore: false` / `totalMatched: 62`. Archived: **0**. Killed: **0**. Statuses: **IDLE 53 · RUNNING 4 · ERROR 5**.
+
+**Count check:** 62 listed = `returned` = `agentCount` = `totalMatched`. `hasMore: false` (no further pages). Gone since 60-catalog: **0**.
+
+This nested reviewer is `bc-87c7034f-e5f6-5607-8a63-67e4a5a3c588` (“Review all cloud chats”) — **RUNNING**, transcript **empty** (`{"messages":[]}`). Parent case agent `bc-01a18bb4-e162-785c-9724-86a7c5663bf1` (“Genealogy detective project updates”, branch `cursor/dora-continue-chat-review-3bf1`) **RUNNING** — **identity + PR #30 GitHub only**; own transcript **not** fetched (forbidden).
+
+Fetched this pass (`batch-fetch-details`, transcripts + diff-metadata + events): **6** agents under `/tmp/cursor/cloud-agent-transcripts/2026-10-30T09-50-11Z-5879/` —
+
+| bcId | why fetched | msgs |
+|---|---|---:|
+| `bc-87c7034f-e5f6-5607-8a63-67e4a5a3c588` | NEW since 60 | 0 (empty) |
+| `bc-dd16e045-050e-55f6-a9ca-de4e3af8848d` | NEW + MUST-FETCH | 64 |
+| `bc-fa32244b-c7f6-596c-97b5-2df617923c9b` | MUST-FETCH (was empty RUNNING) | 142 |
+| `bc-995d22ea-9633-4d0d-a5ef-c36b6ff78d03` | MUST-FETCH PR #26 | 4508 |
+| `bc-0039b8bf-7edb-593b-82c3-cb59471d392a` | MUST-FETCH ED5 scan | 0 (empty) |
+| `bc-b0a6ba89-91b4-4a8c-a51c-1725f6ff1f8c` | MUST-FETCH PR #29 | 864 |
+
+Unfetched 56 agents reuse Pass 37 findings/message counts (status refreshed from this list). No living WikiTree DNA testers named or researched.
+
+**Watch (still skip while in flight):** T623-**839** leftover work is now **Pass 56** unread S-415 **John** cards (roll **248** between L303 samples) on PR #26; Greene ED **37–41** residual; T623-**537** hh **85** nativity (PR #29 holds it). Do **not** reuse **C221–C266 / L245–L287 / S259** (sibling-owned, including newly **committed** C263–C266 / L313–L316 / S259). Living people: do not research.
+
+## Catalog count vs prior
+
+| Pass | Count | Delta |
+|---|---|---|
+| Pass 34 / C335 | 56 | — |
+| Pass 34/35 (`/tmp/dora-pass34/chat-review-pass34.md`) | **58** | +2 helpers |
+| Pass 36 (`/tmp/dora-pass36/chat-review-pass36.md`) | **59** | +1 (`bc-28cdb8cd`) |
+| Pass 37 (`/tmp/dora-pass37/chat-review-pass37.md` / full copy `…-full-from-reviewer.md`) | **60** | +1 (`bc-fa32244b`) |
+| **This pass 38** | **62** | **+2 NEW** |
+
+## NEW agents since 60-catalog (Pass 37)
+
+Compared 60 Pass-37 `catalog.json` bcIds vs 62 this list: intersection **60**, gone **0**, new **2**.
+
+| bcId | name | class | status | created (UTC) | msgs |
+|---|---|---|---|---|---:|
+| `bc-87c7034f-e5f6-5607-8a63-67e4a5a3c588` | Review all cloud chats | helper (this nested Pass 38 review) | **RUNNING**; transcript **empty** | 2026-10-30 09:49:24 | 0 |
+| `bc-dd16e045-050e-55f6-a9ca-de4e3af8848d` | Summarize nested chat review | helper (Pass 37 compact extract of `bc-fa32244b`) | **IDLE** | 2026-10-30 09:32:57 | 64 |
+
+**Status/content change, not new:**
+
+- `bc-fa32244b` (Pass 37 nested reviewer) **RUNNING/empty → IDLE, 142 msgs** (1 user / 83 assistant / 58 tool). Wrote `/tmp/dora-pass37/chat-review-pass37.md` + `catalog.json`. **Stale:** it recorded Pass 55 as uncommitted and p1124 husband as a **Cato, William** guess.
+- `bc-995d22ea` still RUNNING; **4351 → 4508** msgs; **Pass 55 now committed**.
+- `bc-0039b8bf` still RUNNING/empty.
+- `bc-b0a6ba89` still IDLE, 864 msgs, PR #29 CONFLICTING.
+
+## Independently image-backed P001 1900–1926 residence
+
+**NO. Expectation met: NONE.** No fetched transcript asserts a new P001 census/residence line for 1900–1926 that this branch independently re-read from an original image.
+
+Residence chain on this case is unchanged: **1900 Sturgeon C011 → 1910 UNKNOWN → 1917 Ola Coy C027 → 1926 Ola/Carter**.
+
+Pass 55 on PR #26 is **negatives + a rejected same-name collision (Copley)**, not a P001 pin. **This pass did not re-read p1123–1124 or Greene B-sides.** Treat C263–C266 as sibling sayings.
+
+## PR #26 — Pass 55 **is committed**
+
+Agent `bc-995d22ea-9633-4d0d-a5ef-c36b6ff78d03`. GitHub:
+
+```json
+{
+  "title": "Dora research: 1870 Elias original, 1910 Ella Miracode, birth-to-death pass",
+  "state": "OPEN",
+  "mergeable": "MERGEABLE",
+  "mergeStateStatus": "CLEAN",
+  "headRefName": "cursor/dora-locations-1900-death-8d03",
+  "headRefOid": "ff58673ee8aeefa8ee6b4f9d94119a14c0e4ba05",
+  "url": "https://github.com/CatCorner22/Farm_Moonshot/pull/26",
+  "additions": 616,
+  "deletions": 72,
+  "changedFiles": 77
+}
+```
+
+`git log -1 --format='%H %s' origin/cursor/dora-locations-1900-death-8d03` after fetch:
+
+`ff58673ee8aeefa8ee6b4f9d94119a14c0e4ba05 Pass 55: Greene ED 42–43 B-sides nil Stone; Liberty ED 5 nil Sullivan`
+
+Committed **2026-10-30T09:36:23Z**. Parent of that commit is still Pass 54 `90785abc63bbc9ab109e24613e199ee473e80159` (09:10:41Z).
+
+Cursor diff-metadata this fetch: PR **OPEN**, not merged, **+1439 / −878 / 77 files** (was +1387/−878/76 on Pass 37).
+
+Transcript: **4508** messages (44 user / 2671 assistant / 1793 tool). Last substantial assistant after the Pass 55 close: started **Pass 56** on leftover S-415 **John** cards, roll **248** (“I'll map the unread John cards on roll 248, invert them, and read for Bollinger.”). **No Pass 56 commit.**
+
+### Exact C263–C266 claim wording (on that branch evidence)
+
+Command: `git show origin/cursor/dora-locations-1900-death-8d03:research/dora-ella-newnam/04-evidence.md | rg -n 'C263|C264|C265|C266'`
+
+Verbatim lines from that command (sibling-owned; do not steal IDs):
+
+```
+426:| C263 | 1900 Greene ED **42** remaining B-sides listed in **L313** contain **no** Stone / Thomas A. head. With **L311** this is every ED **42** B-side (odd pp **181–253**) | PROVEN (negative for that ED’s B-sides) | S256 L313 C262 | B040 / #11 |
+427:| C264 | 1900 Greene ED **43** remaining B-sides listed in **L314** contain **no** Stone / Thomas A. head. Combined with **C259** (A-sides), **C262**, and **C263**, ED **42** (p.**180–255**) and ED **43** (p.**256–319**) are name-column swept | PROVEN (negative for those two EDs) | S256 L314 C259 C262 C263 | B040 / #11; ED **37–41** still residual |
+428:| C265 | 1900 Bollinger Liberty ED **5** sheets **1 A–14 B** (T623-839 pp **1105–1132**) contain **no** Sullivan / Letha / Newnam household and **no** infant Letha | PROVEN (negative on those twenty-eight sheets) | S259 L315 | B007; does not disprove **C244** (1910) |
+429:| C266 | **Dora E.** Copley, **26**, wife of **Abraham Copley** **33** (b. Jan 1867 KY), 1900 Liberty ED **5** sh **10 A–B** dw/fam **124** (T623-839 pp **1123–1124**), born **Oct 1873 Missouri**, **3/3** children, parents MO/TN — **is not** P001 | PROVEN (rejected) | Birth month/year and state (Oct 1873 MO vs Aug 1871 KY); husband Copley ≠ Samuel P.; P001 is at Sturgeon KY the same census day (**C011**) | S259 L316 | B007 |
+437:| 1900 Liberty ED 5 sh 10A–B Dora E. Copley 26 b. Oct 1873 MO + P001 | Given name Dora E. | Age 26 vs 28; b. MO vs KY; husband Abraham Copley; P001 enumerated at Sturgeon KY | **Rejected (C266)** |
+```
+
+C266 is **Copley**, not Cato. Sibling-owned.
+
+Matching log rows (`02-log.md` L313–L316) and source **S259** (Liberty ED 5 name columns + Copley household **seen**; log `sources/census/b040-b007-pass55-2026-10-30.txt`). Pass 55 note: crops under `/tmp/b007-pass55/ed5/` and `/tmp/b040-pass54/names/` **not committed**.
+
+### Cato vs Copley
+
+| Stage | Husband ID for p1124 “Dora E. Wife” |
+|---|---|
+| In-flight Pass 37 catalogs (`bc-fa32244b`, `bc-dd16e045`) | **Guess: Cato, William** Head on p1123; not finished; not a P001 hit |
+| PR #26 chat msg[4323] (thinking, before close) | “Page 1123 likely ends with **Cato William** Head. Dora E on page 1124 is his wife.” (**one** Cato mention in the whole 4508-msg transcript) |
+| Chat msg[4409] | “Surname reads **Copley**. I’m writing the Pass 55 logs…” |
+| **Committed** `ff58673` / C266 / L316 / S259 | **Abraham Copley**, 33, b. Jan 1867 KY, farmer, m. 7 yrs; wife **Dora E.**, 26, b. Oct 1873 **Missouri**, 3/3, parents MO/TN. **No “Cato” in 04-evidence.md on that branch.** |
+
+**Do not import Cato.** **Do not import Copley as P001.** Sibling-owned **C266**. Not independently image-read here.
+
+### What they committed vs what this case independently verified
+
+| Their claim | Their status | Independently verified here? |
+|---|---|---|
+| C249 Dora E. **Stone** / Henry C. | still in their book as Stone reject vs P001 | **YES as household, NO as Stone** — **C338 Rhodes, Henry C. + Dora M.[?]** |
+| C250 Dora Newnam 36 IN | they already reject vs P001 | **Not re-read this pass** |
+| C260–C262 Pass 54 | committed `90785ab` | **NO** (sibling-owned) |
+| **C263–C266 Pass 55** | **committed `ff58673`** | **NO** — not re-read; **do not steal IDs** |
+| p1124 Dora E. wife | **Copley** reject (C266) | **NO** — not a P001 pin even on their saying |
+| Pass 56 John cards | in flight after msg 4483 | **NO** |
+
+## FLAG — chats that still treat C249 as Dora E. Stone
+
+C249 is **Rhodes, Henry C. + Dora M.[?]** (**C338**). SHA-256 `5eab4793bf42d8c18b7ef43a6296495620392c100c0e1ed8ad59bfe6c4bf769b`. MO ≠ KY; Rhodes ≠ T.A./Samuel; 6-6 ≠ 7-5; no Sturgeon children.
+
+| Chat | Evidence this pass |
+|---|---|
+| **`bc-995d22ea` / PR #26** | **YES, still.** Committed `04-evidence.md` line 379 after Pass 55 still reads: “**Dora E. Stone**, **37**, wife of **Henry C. Stone**, Crooked Creek Twp … ED **1**, sh **10 A**”. Filename on that branch remains `1910-bollinger-ed1-dora-e-stone-rejected.png`. Transcript has **50** “Dora E. Stone” / **62** C249 hits; **1** “Rhodes”. Recent assistant texts after msg 4000 do not retract the surname. |
+| `bc-929b8124` | **Prior FLAG, not re-fetched.** Pass 37: helper “verified YES” C249 as Stone from filename+SHA; last text did not retract. Still **IDLE**. Treat as unretracted unless a later fetch shows otherwise. |
+
+Nested reviewers (`bc-fa32244b`, `bc-dd16e045`, this pass) **correctly flag** the Stone error; they do not treat C249 as P001/Stone as a positive ID.
+
+## FLAG — chats that still treat pdfp0367 as Liberty ED 5 Sullivan
+
+pdfp0367 is **Crooked Creek ED 1** (this branch: **C316 / C323 / C338–C339 / B048**). Dw 174 **C339** McCamie[?]/Larrille[?]; dw 178 Rhodes **C338**. Not Liberty ED 5 (Liberty ED 5 on T623-839 is 1900 pp 1105–1132).
+
+| Chat | Evidence this pass |
+|---|---|
+| **`bc-55740f1c`** | **Prior FLAG, not re-fetched.** Pass 37: 152 msgs, still asserts pdfp0367 John H. Sullivan + Dora A. 31 + McCoy W. 7 as Liberty ED 5. Still **IDLE**. Headline misread stands until a later fetch shows a retraction. |
+| `bc-995d22ea` / PR #26 | **Does not currently treat pdfp0367 as Liberty ED 5 Sullivan.** Early thinking (msg 2908) copied the Sullivan headline, then msg 2916 corrected “pdfp0367 is actually Crooked Creek ED 1 sh 10A, not John H Sullivan” — but then filed that sheet as **Henry C. Stone** (C249). Zero `pdfp0367` in later assistant `text`. |
+
+## Sibling-owned IDs — do **not** steal
+
+User rule: **C221–C266 / L245–L287 / S259** are sibling-owned. Report only; do not file under those numbers on this branch.
+
+**New this pass (now committed on PR #26, still do not steal):**
+
+| ID | Owner | Status | steal? |
+|---|---|---|---|
+| **C263** remaining Greene ED 42 B-sides nil Stone | PR #26 `bc-995d22ea` | committed Pass 55 `ff58673` | **NO** |
+| **C264** remaining Greene ED 43 B-sides nil Stone | same | committed | **NO** |
+| **C265** Liberty ED 5 sh 1A–14B nil Sullivan/Letha/Newnam | same | committed | **NO** |
+| **C266** Dora E. Copley 26 (Abraham Copley) reject vs P001 | same | committed | **NO** |
+| **L313 L314 L315 L316** | same | committed | **NO** |
+| **S259** Liberty ED 5 originals + Copley household | same | committed | **NO** |
+| Ford/Fordney dau **Dora M** p1129; Bridwell dau **Dora C** p1109; Laughlin dau Dora p229 | same | they already reject vs P001 | **NO** |
+| In-flight Pass 56 S-415 John cards | same | uncommitted | **NO** / skip-reel |
+
+Also still forbidden from prior passes: **C221–C250 / L245–L287 / C260–C262 / C249-as-Stone / pdfp0367-as-Sullivan / C258 Wright Dora / PR #29 T623-537 hh 85**.
+
+Skip-reels still held: unread S-415 John cards; Greene ED 37–41; T623-537 hh 85.
+
+## PR #29
+
+Agent `bc-b0a6ba89-91b4-4a8c-a51c-1725f6ff1f8c`. **IDLE**. GitHub **OPEN / CONFLICTING / DIRTY**. Branch `cursor/dora-research-pass-21`. HEAD `819751ee8c41cae432ffe58ab5cbfae7c6a91491`. Diff-metadata: +176/−26, 30 files. **864 msgs** (unchanged vs Pass 36/37). Last assistant still: fetched `origin/main`, in-progress merge **not committed**; conflict markers remain in `04-evidence.md`, `06-dossier.md`, `11-backlog.md`. Holds **hh 85** nativity — **skip**. ID collision C221–C223 vs `main`.
+
+## Open GitHub PRs (`CatCorner22/Farm_Moonshot`)
+
+| PR | Agent | Head | GitHub | Notes |
+|---|---|---|---|---|
+| **#26** | `bc-995d22ea` | `cursor/dora-locations-1900-death-8d03` @ `ff58673` | **OPEN MERGEABLE CLEAN** | **Pass 55 committed**; Pass **56** in chat only (John cards) |
+| **#29** | `bc-b0a6ba89` | `cursor/dora-research-pass-21` @ `819751e` | **OPEN CONFLICTING DIRTY** | Merge of `origin/main` uncommitted |
+| **#30** | `bc-01a18bb4` (parent) | `cursor/dora-continue-chat-review-3bf1` @ `49b86c55583ba8d0c23588501d3e382bed341b16` | **OPEN MERGEABLE CLEAN** | Title “Dora research passes 32–37: 1870 Gray originals, Rhodes not Stone, Word book”; 77 files +33544/−54. Identity only this review (HEAD moved vs Pass 37 `ae2ebe04`) |
+
+Merged (historical, already on `main`): #28 biography, #27 deep research, #25 locations, #24–#13 biography/book chain, #7/#5/#4 Dora primaries, #3–#1 skill.
+
+## Primaries / scans (named watch list)
+
+| Agent | Msgs | Status | PR / branch | Now doing |
+|---|---|---|---|---|
+| `bc-995d22ea` Dora location search | **4508** (was 4351) | **RUNNING** | **#26 OPEN MERGEABLE CLEAN** | **Pass 55 committed `ff58673`.** **Pass 56 in flight:** leftover S-415 John cards roll 248. C249 still Stone in their book. C266 = Copley reject. |
+| `bc-b0a6ba89` Genealogy detective | **864** | IDLE | **#29 OPEN CONFLICTING DIRTY** | Unchanged. Holds hh 85. |
+| `bc-0039b8bf` Scan ED5 405–434 | **0** | **RUNNING** | none | Transcript still **empty**. No pages 405–434. |
+| `bc-55740f1c` Scan ED5 PNGs | 152 (prior) | IDLE | none | Not re-fetched. Still the pdfp0367 Sullivan FLAG. |
+| `bc-b2cfe195` Scan 1900 Liberty PNGs | 99 (prior) | IDLE | none | Unchanged even-page nil; still lists withdrawn William H. Sullivan. |
+| `bc-01a183ca` Dora biography | 3417 (prior) | IDLE | **#28 MERGED** | No new 1900–26 P001 pin. |
+| `bc-01a18bb4` parent | — | **RUNNING** | **#30 OPEN** | Identity only this review. |
+| `bc-fa32244b` Pass 37 reviewer | **142** | IDLE | none | Was empty RUNNING; wrote 60-catalog; stale on Pass 55. |
+| `bc-dd16e045` Pass 37 extract | **64** | IDLE | none | **NEW.** Compact extract; stale (Pass 55 uncommitted / Cato). |
+| `bc-87c7034f` this review | **0** | **RUNNING** | none | Empty; in flight. |
+
+## Nested Pass 37 extract (`bc-dd16e045`) — what it got right / what is now stale
+
+Usable for the 60-agent inventory as of ~09:32Z. **Wrong as of 09:36Z:**
+
+- “No Pass 55 commit exists” / “uncommitted Pass 55” / draft C263–C266 → **superseded by `ff58673`**.
+- p1124 husband “lean Cato, William” → **committed as Abraham Copley (C266)**.
+- PR #26 msgs **4351** → now **4508**.
+- `bc-fa32244b` “RUNNING / empty” → **IDLE / 142**.
+
+Do not take Cato into this case’s evidence from that extract.
+
+## ED5 transcript
+
+`bc-0039b8bf-7edb-593b-82c3-cb59471d392a` — **empty**: `{"messages":[]}` (21 bytes). Status still **RUNNING**. Events: two `mcp_auth_error` Gmail warnings only. No pages 405–434 were read in any fetched chat.
+
+## Full catalog (62)
+
+Newest first, as returned. Msgs from this-pass `transcript.json` (`messages` length) when fetched; otherwise Pass 37 count. Parent = identity only.
+
+| # | bcId | name | status | created (UTC) | msgs | PR | empty? | 1-line finding |
+|---|---|---|---|---|---:|---|---|---|
+| 1 | `bc-87c7034f-e5f6-5607-8a63-67e4a5a3c588` | Review all cloud chats **NEW** | **RUNNING** | 2026-10-30 09:49:24 | 0 |  | yes | NEW this nested Pass 38 reviewer; transcript empty (in flight); identity only; no images. |
+| 2 | `bc-dd16e045-050e-55f6-a9ca-de4e3af8848d` | Summarize nested chat review **NEW** | IDLE | 2026-10-30 09:32:57 | 64 |  | no | NEW Pass 37 compact extractor (64 msgs); cataloged 60 agents from bc-fa32244b. STALE vs this pass: still says Pass 55 uncommitted and p1124 husband = Cato, William. No images. |
+| 3 | `bc-fa32244b-c7f6-596c-97b5-2df617923c9b` | Review all cloud chats | IDLE | 2026-10-30 09:23:01 | 142 |  | no | Pass 37 nested reviewer now IDLE (was empty RUNNING); 142 msgs; wrote /tmp/dora-pass37 (60 agents). STALE: Pass 55 then uncommitted / Cato guess. No images. |
+| 4 | `bc-28cdb8cd-212b-57bc-af34-4e66f5fa62bf` | Review all Dora cloud chats | IDLE | 2026-10-30 09:10:07 | 107 |  | no | Pass 36 nested reviewer; now IDLE with 107 msgs (was empty/RUNNING last pass); wrote /tmp/dora-pass36; no images. |
+| 5 | `bc-f672cc5c-c4fd-5ed0-a1fe-3ee8490bd474` | Review all Dora chats | IDLE | 2026-10-30 08:56:13 | 147 |  | no | Pass 34/35 nested catalog (58 agents); no images. |
+| 6 | `bc-929b8124-6bf2-5c95-a507-70dea3e72f5b` | Review running chat transcripts | IDLE | 2026-10-30 08:39:36 | 115 |  | no | Helper; earlier wrongly treated C249 filename as Stone; last text still does not retract surname error (C338 Rhodes). |
+| 7 | `bc-01571c02-d829-5f15-92db-ab8f34af1c1d` | Review remaining cloud chats | IDLE | 2026-10-30 08:22:03 | 144 |  | no | Helper nested remaining chats (catalog 56); no fieldwork. |
+| 8 | `bc-554687c0-96cf-5d4e-bf70-ed0f37f02406` | Summarize PR26 transcript | IDLE | 2026-10-30 08:10:16 | 87 |  | no | Helper summarized PR #26 at 3412 msgs (now stale vs 4508). |
+| 9 | `bc-b9ee7cdf-0249-5215-9f62-57aa37f0ecc1` | Summarize sibling+helper chats | IDLE | 2026-10-30 08:10:16 | 70 |  | no | Helper sibling+scan summary; noted ED5 empty. |
+| 10 | `bc-e5f39fe4-de72-5c8b-8a7c-484a187312e0` | Summarize remaining helper transcripts | IDLE | 2026-10-30 07:50:00 | 137 |  | no | Helper remaining helpers; MO Soundex PNG not re-read. |
+| 11 | `bc-d50aea9c-69e1-54d3-a241-586a10cf4171` | Summarize review-helper transcripts | IDLE | 2026-10-30 07:45:24 | 74 |  | no | Helper review-of-reviewers; no fieldwork. |
+| 12 | `bc-02919df5-2e86-5974-941a-35f559593645` | Summarize running sibling transcripts | IDLE | 2026-10-30 07:45:24 | 73 |  | no | Helper running-sibling summary; ED5 empty. |
+| 13 | `bc-3a362662-09b7-59a0-949b-571159302c05` | Summarize census-scan transcripts | IDLE | 2026-10-30 07:45:24 | 45 |  | no | Helper census-scan summary; PNG blobs not in JSON. |
+| 14 | `bc-012dea72-5247-52b3-91ca-c6af8180be7b` | Review running sibling chats | IDLE | 2026-10-30 07:29:58 | 162 |  | no | Helper nested running siblings; no independent images. |
+| 15 | `bc-4410686b-67f6-5635-888b-5e1198b52db3` | Review scan and helper chats | IDLE | 2026-10-30 07:29:58 | 131 |  | no | Helper nested 20 scan/helpers. |
+| 16 | `bc-3fd159b6-6b21-5c9b-9da9-763c4cdf91a8` | Review older primary chats | IDLE | 2026-10-30 07:29:58 | 68 |  | no | Helper nested 19 older primaries. |
+| 17 | `bc-b2cfe195-dad1-510f-a5d3-e14453ad915f` | Scan 1900 Liberty PNGs for Sullivan | IDLE | 2026-10-30 07:29:43 | 99 |  | no | Scan 17 even-page 1900 Liberty PNGs: nil infant Letha/Viola head; still lists withdrawn William H. Sullivan. |
+| 18 | `bc-01a18bb4-e162-785c-9724-86a7c5663bf1` | Genealogy detective project updates | **RUNNING** | 2026-10-30 07:27:30 | — | #30 OPEN | n/a | PARENT case agent (this env); identity+PR #30 only — transcript not fetched (forbidden). |
+| 19 | `bc-b0a6ba89-91b4-4a8c-a51c-1725f6ff1f8c` | Genealogy detective Dora research | IDLE | 2026-10-29 23:07:09 | 864 | #29 OPEN | no | PR #29 still IDLE OPEN CONFLICTING DIRTY; 864 msgs unchanged; pass 21–22 pushed; origin/main merge uncommitted; holds hh 85 nativity. |
+| 20 | `bc-0039b8bf-7edb-593b-82c3-cb59471d392a` | Scan ED5 pages 405-434 | **RUNNING** | 2026-10-29 22:31:25 | 0 |  | yes | Scan ED5 405–434 still RUNNING with empty transcript {"messages":[]} — no PNG claims. Events: two Gmail MCP auth warnings only. |
+| 21 | `bc-55740f1c-00e0-5951-8953-15d6d9d5d758` | Scan ED5 census PNGs names | IDLE | 2026-10-29 22:18:38 | 152 |  | no | Scan 54 PNGs; still asserts pdfp0367 John H. Sullivan + Dora A. 31 as Liberty ED 5 — do not import (C338/C339). |
+| 22 | `bc-887a76bb-8390-5fe6-a397-34447bdd0d0f` | Scan mo233 John band PNGs | IDLE | 2026-10-29 21:53:31 | 95 |  | no | MO Soundex S-415 John-band sample: nil Bollinger/Letha head. |
+| 23 | `bc-2eacda92-fbec-5222-9084-d4894995d612` | Scan mo233 head PNGs Sullivan | IDLE | 2026-10-29 21:45:25 | 149 |  | no | MO Soundex S-415 head PNGs: nil target Sullivan head. |
+| 24 | `bc-2c2b6383-4de9-5124-bcaf-8a2e5e4521fb` | Scan mo233 PNGs for Sullivan | IDLE | 2026-10-29 21:41:36 | 147 |  | no | MO Soundex mo233 Sullivan sample: nil Letha/Viola/John H. head. |
+| 25 | `bc-4d290b6c-09a4-5003-9330-57e96bcab7d2` | Read MO soundex PNGs Sullivan | IDLE | 2026-10-29 21:37:02 | 82 |  | no | MO Soundex S-435 (Shelton band) pass49: not Sullivan. |
+| 26 | `bc-b43a15fd-3e65-5113-9179-222ec8344456` | TSLA death search Rissie | **ERROR** | 2026-10-29 20:47:26 | 0 |  | yes | ERROR empty; TSLA Rissie still not name-queried. |
+| 27 | `bc-8e76cea0-c388-5c48-a33d-243f2e5d63b5` | B043 sweep + goal completion | IDLE | 2026-10-29 17:24:07 | 272 |  | no | Closed B043 Yell 1910 IA sweep nil P001 (already in dossier C153). |
+| 28 | `bc-cc229b3e-5272-5612-ab17-04537c722c44` | Close B023 B044 B043 location | IDLE | 2026-10-29 16:26:57 | 294 |  | no | Closer: no new P001 residence pin. |
+| 29 | `bc-7ca3e767-4efb-549f-900c-e5f362c805de` | Goal audit + location backlog | IDLE | 2026-10-29 16:07:24 | 222 |  | no | Location backlog audit; 1900–1926 chain unchanged. |
+| 30 | `bc-cb3a3891-3e21-51a9-8a3c-78e22ea353f6` | Book: B046 ED 200 nil | IDLE | 2026-10-29 15:44:42 | 45 |  | no | Book fold-in of B046 ED 200 nil. |
+| 31 | `bc-3796a2aa-d5db-5a1d-b141-eee0ff23fd1a` | Sync C146 into book | IDLE | 2026-10-29 14:56:39 | 40 |  | no | Synced C146 into book Places; no new pin. |
+| 32 | `bc-e8dfdb73-a6e4-53b4-b343-d8fb8c6fb7d1` | B046 fold-in + PR retry | IDLE | 2026-10-29 14:56:24 | 334 |  | no | B046 fold-in + PR retry; git/book only. |
+| 33 | `bc-cd08a20a-763d-5a53-b340-4930221d6f8e` | Open PR + branch sync | IDLE | 2026-10-29 14:56:07 | 47 |  | no | Open-PR/branch sync helper; no research. |
+| 34 | `bc-00e3bde6-2d2d-5097-8628-cfb202372bf1` | Merge 1913–1926 branch + book | IDLE | 2026-10-29 14:55:08 | 113 |  | no | Merge 1913–1926 book helper; could not open PR. |
+| 35 | `bc-8288e8fb-8eb6-57ad-887f-c07fba5b98e8` | Execute B046 1920 Ola census | IDLE | 2026-10-29 14:52:21 | 278 |  | no | Executed B046 1920 Ola ED 200 IA read (C213). |
+| 36 | `bc-f3cfb3e7-759e-5add-bde6-3939f547f485` | Follow-up B042–B045 gaps | IDLE | 2026-10-29 14:50:55 | 197 |  | no | B042–B045: C146 USGenNet 1910 transcripts nil P001. |
+| 37 | `bc-281c57f3-937a-5920-aa1c-3d8221b38f54` | Review Farm_Moonshot project chats | IDLE | 2026-10-29 14:48:26 | 117 |  | no | Prior project-chat inventory (L161); B046 lead. |
+| 38 | `bc-359a99fe-a390-5c02-a0a4-986d794942fa` | Dora 1913–1926 location web search | IDLE | 2026-10-29 14:47:59 | 131 |  | no | 1913–1926 web search; no new PROVEN residence beyond Coy 1917 / 1926 death. |
+| 39 | `bc-3b441f4a-2cce-5eb2-bfc4-5a210a6ac0ce` | Dora Word book + git sync | IDLE | 2026-10-29 14:47:59 | 145 |  | no | Word book + git hygiene; Places 1900-death. |
+| 40 | `bc-e3326e8c-597f-53c8-b831-fd8cc5dec482` | Dora 1900–1912 location web search | IDLE | 2026-10-29 14:47:59 | 126 |  | no | 1900–1912 web search; C203 Rosa Banks; no new P001 pin. |
+| 41 | `bc-995d22ea-9633-4d0d-a5ef-c36b6ff78d03` | Dora location search | **RUNNING** | 2026-10-29 14:47:15 | 4508 | #26 OPEN | no | PR #26 RUNNING 4508 msgs (was 4351). Pass 55 COMMITTED ff58673 09:36Z (C263–C266; C266 = Dora E. Copley not Cato). Pass 56 in flight: unread S-415 John cards roll 248. Still files C249 as Dora E. Stone. No new P001 pin. |
+| 42 | `bc-01a183ca-4028-7f9b-9d4c-34d4ab6671f6` | Dora biography research | IDLE | 2026-10-28 18:33:52 | 3417 | #28 MERGED | no | Biography passes 18–31; PR #28 MERGED; no new 1900–26 P001 pin. |
+| 43 | `bc-95a4d0c6-b500-5aa3-b9d3-eca0e43fdb58` | Summarize original Dora chat | IDLE | 2026-10-28 12:40:01 | 44 |  | no | Summarizer of original Dora chat; no independent images. |
+| 44 | `bc-a00fe62a-a1b3-5693-9ded-09fde0d88e90` | Summarize early-1900s Dora chat | IDLE | 2026-10-28 12:40:01 | 51 |  | no | Summarizer of early-1900s chat; no independent images. |
+| 45 | `bc-98b5c0ac-172b-555e-8d60-7d06811e0b69` | Summarize extract/pearl helper chats | IDLE | 2026-10-28 12:40:00 | 49 |  | no | Summarizer of extract/pearl helpers; no fieldwork. |
+| 46 | `bc-01a18285-696d-761f-be7a-74d897313200` | Dora master biography | IDLE | 2026-10-28 12:39:04 | 2414 | #13 MERGED | no | HTML master biography; C117 Greene Thomas A.; PR #13 MERGED. |
+| 47 | `bc-a16def3b-c4be-41e9-846c-f31bc0f8dd81` | Dora's early 1900s | IDLE | 2026-10-27 15:14:04 | 1718 | #7 MERGED | no | Early-1900s primary; 1910 hole; Sturgeon ED 99 original; PR #7 MERGED. |
+| 48 | `bc-3db016fa-fdb4-5c11-981a-ff0769a16da0` | FamilySearch census browser hunt | **ERROR** | 2026-10-27 13:59:55 | 0 |  | yes | ERROR empty; FamilySearch browser hunt died at start. |
+| 49 | `bc-ddbf6d0b-4e48-5086-b854-d359ec987b09` | Parse ancestry skill transcript | IDLE | 2026-10-27 13:49:02 | 63 |  | no | Parse ancestry-skill transcript; skill-building only. |
+| 50 | `bc-62de7db1-7290-5623-bc0c-8367354d88a5` | Extract Dora research state | IDLE | 2026-10-27 13:49:02 | 169 |  | no | Extract research-state helper; no new facts. |
+| 51 | `bc-becce541-0459-5d97-b5f0-409bad2e072a` | Summarize latest Dora findings | IDLE | 2026-10-27 13:49:02 | 77 |  | no | Summarize latest findings helper. |
+| 52 | `bc-589f63df-4d1c-5cc3-99e8-c31bef2eb44a` | Extract Pearl breakthrough | IDLE | 2026-10-27 13:49:02 | 77 |  | no | Extract Pearl breakthrough helper. |
+| 53 | `bc-8286c652-a1aa-5dbb-ab90-cc2b8895ee94` | Parse original Dora transcript | IDLE | 2026-10-27 13:49:02 | 99 |  | no | Parse original Dora transcript helper. |
+| 54 | `bc-0bd3b0b2-ec76-4a5c-93c7-10c0bfe1f312` | Dora research continuation | IDLE | 2026-10-27 13:47:22 | 4887 | #5 MERGED | no | Continuation primary; 1920 Beattyville E.T.; PR #5 MERGED. |
+| 55 | `bc-2ffa148f-bd17-4e95-beef-aa2f31940c4a` | Ancestry research skill | IDLE | 2026-10-27 10:46:44 | 393 | #1 MERGED | no | Authored genealogy-detective skill; PR #1 MERGED; no Dora facts. |
+| 56 | `bc-4bc6adb0-9219-5895-986c-fa21e5cbeb24` | Summarize Pearl breakthrough from transcript | IDLE | 2026-10-27 10:41:57 | 87 |  | no | Summarize Pearl breakthrough helper. |
+| 57 | `bc-5f387719-eeb1-5806-8407-93ba585780ac` | Ancestry Dora browser search | **ERROR** | 2026-10-27 10:01:30 | 0 |  | yes | ERROR empty; Ancestry browser hunt. |
+| 58 | `bc-9759714e-33fc-55d4-99c3-0a1fd082a36b` | Ancestry browser Dora search | **ERROR** | 2026-10-27 10:01:06 | 0 |  | yes | ERROR empty; Ancestry browser hunt. |
+| 59 | `bc-12ae958f-d3cf-532c-8bf7-db037fd78879` | Ancestry.com Dora research | **ERROR** | 2026-10-27 10:00:54 | 0 |  | yes | ERROR empty; Ancestry.com Dora hunt. |
+| 60 | `bc-352be520-d192-5b41-a04b-1dea8135a1a3` | Summarize latest Dora research | IDLE | 2026-10-27 09:45:52 | 197 |  | no | Summarize latest Dora research helper. |
+| 61 | `bc-41e4c7da-d929-5e23-b808-89ad12711316` | Extract Dora research state | IDLE | 2026-10-27 09:30:31 | 74 |  | no | Extract Dora research state helper. |
+| 62 | `bc-01a17a5a-f7be-70f0-8063-d9a0707aebd1` | Dora | IDLE | 2026-10-26 22:35:47 | 3682 | #4 MERGED | no | Opened the case (DC, WikiTree, 1900 Sturgeon); PR #4 MERGED. |
+
+**Count check:** 62 listed = `totalMatched` 62. Empty transcripts this pass among fetched: **2** (`bc-87c7034f`, `bc-0039b8bf`). Empty from prior catalog and still ERROR/unfetched: **5** hunts (`bc-b43a15fd`, `bc-3db016fa`, `bc-5f387719`, `bc-9759714e`, `bc-12ae958f`). Parent transcript not fetched. `bc-fa32244b` is **no longer empty**.
+
+## Empty / ERROR transcripts
+
+| bcId | name | transcript |
+|---|---|---|
+| `bc-87c7034f` | this nested review | **empty** `{"messages":[]}` (RUNNING) |
+| `bc-0039b8bf` | Scan ED5 405–434 | **empty** `{"messages":[]}` (RUNNING) |
+| `bc-b43a15fd` | TSLA death search Rissie | **empty** (ERROR; not re-fetched) |
+| `bc-3db016fa` | FamilySearch census browser hunt | **empty** (ERROR; not re-fetched) |
+| `bc-5f387719` | Ancestry Dora browser search | **empty** (ERROR; not re-fetched) |
+| `bc-9759714e` | Ancestry browser Dora search | **empty** (ERROR; not re-fetched) |
+| `bc-12ae958f` | Ancestry.com Dora research | **empty** (ERROR; not re-fetched) |
+
+## Ten most important findings
+
+1. **Catalog 62** (was 60). **NEW:** this reviewer `bc-87c7034f` (empty RUNNING) and `bc-dd16e045` (IDLE, 64 msgs, Pass 37 compact extract). `bc-fa32244b` filled in (142 msgs) and went IDLE. Count check **62 = totalMatched**, `hasMore: false`, gone **0**.
+2. **No independently image-backed P001 1900–1926 residence.** Chain still 1900 Sturgeon → 1910 hole → 1917 Ola → 1926 death. Pass 55 is negatives + a Copley reject, not a pin.
+3. **PR #26 Pass 55 IS committed** — `ff58673ee8aeefa8ee6b4f9d94119a14c0e4ba05` (09:36:23Z), GitHub HEAD matches, OPEN/MERGEABLE/CLEAN. Pass 37 catalogs that said “uncommitted” are stale.
+4. **C266 wording is Dora E. Copley, not Cato.** Exact: “**Dora E.** Copley, **26**, wife of **Abraham Copley** **33** (b. Jan 1867 KY), 1900 Liberty ED **5** sh **10 A–B** dw/fam **124** (T623-839 pp **1123–1124**), born **Oct 1873 Missouri**, **3/3** children, parents MO/TN — **is not** P001.” Chat had a brief Cato guess (msg 4323) then corrected. Nested reviewers still repeat Cato. **Not P001. Do not steal C266.**
+5. **Sibling-owned now includes committed C263–C266 / L313–L316 / S259** plus the standing ban on C221–C262 / L245–L287. Do not reuse those IDs.
+6. **FLAG C249-as-Stone:** PR #26 evidence line 379 still names “Dora E. Stone … Henry C. Stone” after Pass 55. This branch: **C338 Rhodes**. Helper `bc-929b8124` unretracted (not re-fetched).
+7. **FLAG pdfp0367 as Liberty ED 5 Sullivan:** `bc-55740f1c` still (prior catalog; still IDLE). PR #26 itself later placed that PNG in Crooked Creek ED 1 but as Stone (wrong surname). It is Crooked Creek ED 1.
+8. **PR #26 already started Pass 56** (unread S-415 John cards, roll 248). Skip that reel. Residual Greene ED 37–41 also theirs.
+9. **PR #29 still OPEN CONFLICTING DIRTY**; 864 msgs unchanged; hh 85 remains theirs. **ED5 `bc-0039b8bf` still empty RUNNING** — pages 405–434 unread in every fetched chat.
+10. Nested Pass 37 extract (`bc-dd16e045`) is a valid 60-snapshot but **wrong on Pass 55 commit state and Cato**. Open PRs: **#26, #29, #30**. Ancestry still 403 in prior catalogs; living DNA testers untouched.
+
+## Next chat
+
+Keep skipping unread S-415 John cards / Greene ED 37–41 / hh 85 until #26/#29 merge or go idle with a finished log. Do not file C249 as Stone (**C338**). Do not file pdfp0367 as Liberty ED 5 Sullivan. Do not file their C221–C266 / L245–L287 / S259 / L313–L316 under those numbers. If Pass 56 commits John-card crops, copy via `git show` and re-read independently before any P001 language. Rebuild Word/PDF only after narrative edits on **this** branch.
+
+## Method notes
+
+- List: one page, offset 0, limit 200, `includeArchived: true`, `hasMore: false`.
+- MUST-FETCH all retrieved. Parent `bc-01a18bb4` identity only.
+- PR #26 evidence read from `origin/cursor/dora-locations-1900-death-8d03` after `git fetch` of that branch; working tree **not** edited.
+- No living-person research.

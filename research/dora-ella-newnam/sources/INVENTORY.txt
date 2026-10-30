@@ -289,3 +289,31 @@ research/dora-ella-newnam/sources/census/1900-douglas-mo-ed159-stone-hh-crop.jpg
 /workspace/research/dora-ella-newnam/sources/soundex/ky1880-g600-p0667-william-gray-lewis-rejected.jpg  (120,548 bytes)
   sha256: 5c2e984df8fdc0a2098a26f671d8cb8e7e1ce829b6af41b1b60487a1a9e0aafa
   format: JPEG photo, 936x659px
+research/dora-ella-newnam/sources/census/1870-owsley-travrest-elias-hh131-pdfp090.jpg  (2,914,554 bytes)
+  sha256: aa56943106e30f0cf2e03cbd9349749a5b4e1695170f8e4f46071157b886831f
+  format: JPEG photo, 3018x3823px
+  check: full page + margins + verso? straight-on, no glare/flash, strokes several px tall? (paleography.md intake)
+research/dora-ella-newnam/sources/census/1910-bollinger-ed2-john-h-newnam-dora-rejected.png  (3,151,062 bytes)
+  sha256: 34b9dd557be2d0d03ce86ac7cba15f2bc67f2e1276ec029f558375c1d399864c
+  format: PNG image, 2384x1637px
+  check: full page + margins + verso? straight-on, no glare/flash, strokes several px tall? (paleography.md intake)
+research/dora-ella-newnam/sources/census/1910-bollinger-ed4-letha-sullivan-servant.png  (3,654,532 bytes)
+  sha256: 417f903621cefc063a9a069ab604e4ace745348e3bf5bb078dec52058d4a6f0a
+  format: PNG image, 2510x1718px
+  check: full page + margins + verso? straight-on, no glare/flash, strokes several px tall? (paleography.md intake)
+research/dora-ella-newnam/sources/census/1910-bollinger-ed4-sullivan-newnam-mil.png  (3,572,660 bytes)
+  sha256: b4d6f1ce8d0e71d7908e3a17e01c4525d885e410d5e011ba6ba234651cfefa71
+  format: PNG image, 2488x1718px
+  check: full page + margins + verso? straight-on, no glare/flash, strokes several px tall? (paleography.md intake)
+research/dora-ella-newnam/sources/census/1910-bollinger-ed5-sullivan-letha-e-dau2.png  (3,152,527 bytes)
+  sha256: 9eceebc4aaad36c50842d0755ecaa2d29f6ed6148d9626104d2ffbccc61e0308
+  format: PNG image, 2504x1712px
+  check: full page + margins + verso? straight-on, no glare/flash, strokes several px tall? (paleography.md intake)
+research/dora-ella-newnam/sources/census/1880-lee-ky-ed59-sheet28-p753-elisha-gray.jpg  (829,093 bytes)
+  sha256: e2a5c0d8f404c7efe36705c54996fc5827a6e22e3fe0ee98d54f30824cc10a65
+  format: JPEG photo, 2096x2365px
+  check: full page + margins + verso? straight-on, no glare/flash, strokes several px tall? (paleography.md intake)
+research/dora-ella-newnam/sources/census/1880-lee-ky-ed59-sheet43-p768-caroline-gray.jpg  (860,443 bytes)
+  sha256: d0c5d4d245ab67694980f9e9a47f0cde072ea4098f4283df2d7b7c300eaaa685
+  format: JPEG photo, 2096x2352px
+  check: full page + margins + verso? straight-on, no glare/flash, strokes several px tall? (paleography.md intake)

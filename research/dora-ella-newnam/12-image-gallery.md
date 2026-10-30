@@ -882,3 +882,75 @@ Crooked Creek Township, Bollinger County, Missouri, ED **1** sheet **10 A** — 
 
 ![Crooked Creek ED 1 sheet 10 A — Rhodes household](sources/census/1910-bollinger-ed1-dora-e-stone-rejected.png)
 
+## Pass 38 additions
+
+### 1b · 17 Jun 1870 · Travellers Rest dwelling 131 — Elias Newman, 26
+
+**Role:** Family hit (negative for Dora)  
+**File:** [`sources/census/1870-owsley-travrest-elias-hh131-pdfp090.jpg`](sources/census/1870-owsley-travrest-elias-hh131-pdfp090.jpg)  
+**Source:** S355 · C375 · C067 · DOC033
+
+Original. Page 14, stamped 348. Elias 26, Mary 26, four children, no Dora. Header 17 June (not Kendrick’s 7 June). Next door Isaac 37.
+
+![1870 Travellers Rest — Elias Newman](sources/census/1870-owsley-travrest-elias-hh131-pdfp090.jpg)
+
+### 7e · 17 Jun 1880 · Lee ED 59 page 28 — Elisha Gray, 28
+
+**Role:** Rejected same-name  
+**File:** [`sources/census/1880-lee-ky-ed59-sheet28-p753-elisha-gray.jpg`](sources/census/1880-lee-ky-ed59-sheet28-p753-elisha-gray.jpg)  
+**Source:** S363 · C389 · C342 · DOC038
+
+Original, extracted from T9-427 PDF page 753. Wife M. Jane 22, daughter Nancy 1. Not William × Mary J.
+
+![1880 ED 59 page 28 — Elisha Gray](sources/census/1880-lee-ky-ed59-sheet28-elisha-hh-crop.jpg)
+
+### 7f · 28 Jun 1880 · Lee ED 59 page 43 — Caroline Gray, 44, Virginia
+
+**Role:** FAN  
+**File:** [`sources/census/1880-lee-ky-ed59-sheet43-p768-caroline-gray.jpg`](sources/census/1880-lee-ky-ed59-sheet43-p768-caroline-gray.jpg)  
+**Source:** S364 · C390 · C343 · DOC039
+
+Original, PDF page 768. No William ~33 or Hardin ~4.
+
+![1880 ED 59 page 43 — Caroline Gray](sources/census/1880-lee-ky-ed59-sheet43-caroline-hh-crop.jpg)
+
+### 62 · 19 Apr 1910 · Liberty ED 4 sheet 13 A — Letha Sullivan, servant, 12
+
+**Role:** FAN (not P001; not Coy’s wife)  
+**File:** [`sources/census/1910-bollinger-ed4-letha-sullivan-servant.png`](sources/census/1910-bollinger-ed4-letha-sullivan-servant.png)  
+**Source:** S351 · C370 · DOC034
+
+Conrad household. Letha 12, Missouri / Indiana / Missouri. Independent re-read of a sibling PNG.
+
+![Liberty ED 4 sheet 13 A — Letha Sullivan servant](sources/census/1910-bollinger-ed4-letha-sullivan-servant.png)
+
+### 63 · 23 May 1910 · Liberty ED 4 sheet 15 B — Newnam children and Mary Estes MIL
+
+**Role:** FAN / rejected claimed household  
+**File:** [`sources/census/1910-bollinger-ed4-sullivan-newnam-mil.png`](sources/census/1910-bollinger-ed4-sullivan-newnam-mil.png)  
+**Source:** S352 · C372 · C373 · DOC035
+
+Not John Sullivan + Sarah Newman. Nellie Solomon[?] with Newnam Walter 5 and Isabelle 3; Seabaugh with Estes, Mary MIL 60.
+
+![Liberty ED 4 sheet 15 B](sources/census/1910-bollinger-ed4-sullivan-newnam-mil.png)
+
+### 64 · 16 Apr 1910 · Fillmore ED 2 sheet 8 A — John H. Newnam and Dora, 36, Missouri
+
+**Role:** Rejected same-name  
+**File:** [`sources/census/1910-bollinger-ed2-john-h-newnam-dora-rejected.png`](sources/census/1910-bollinger-ed2-john-h-newnam-dora-rejected.png)  
+**Source:** S353 · C371 · DOC036
+
+Dwelling 48/49. Dora born Missouri, 7-6. Not P001.
+
+![Fillmore ED 2 sheet 8 A — rejected Dora](sources/census/1910-bollinger-ed2-john-h-newnam-dora-rejected.png)
+
+### 65 · 8 Apr 1910 · Bollinger ED 5 sheet 8 B — filename Letha E. not confirmed
+
+**Role:** Negative search  
+**File:** [`sources/census/1910-bollinger-ed5-sullivan-letha-e-dau2.png`](sources/census/1910-bollinger-ed5-sullivan-letha-e-dau2.png)  
+**Source:** S354 · C378 · DOC037
+
+No confirmed Letha E., daughter, age 2.
+
+![Bollinger ED 5 sheet 8 B](sources/census/1910-bollinger-ed5-sullivan-letha-e-dau2.png)
+

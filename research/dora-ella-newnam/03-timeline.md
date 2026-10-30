@@ -7,7 +7,7 @@ Place as it was *at the date*; modern equivalent in brackets. Flag impossibiliti
 | 18 Apr 1842 | — | Father Elias T. Newnam born | Clark Co., KY | C040 | S011 prior |
 | Apr 1842 / 22 Apr 1842 | — | Mother Mary Ann Smallwood born | KY (Owsley-area) | C041 | S032 prior |
 | 16 Aug 1862 – 16 Sep 1863 | — | Elias, bugler, Co. C 14th KY Cav. | Mt. Sterling / Myrtleville, KY | C042 | S086 S087 prior |
-| 7 Jun 1870 | — | Elias & Mary farming with William D 11, Malissa D 6, Frances 3, Mary 1 (**Dora not yet born**). Same precinct: Cordy Pendergrass hh **118/115**, **Louisa 9** | Travellers Rest, Owsley Co., KY | C067 C043 C136 | S048 S127 |
+| **17 Jun 1870** (original; Kendrick “7 Jun” withdrawn) | — | Elias & Mary farming, both **26**, with William D 11, Malissa D 6, Frances 3, Mary 1 (**Dora not yet born**). Same precinct: Cordy Pendergrass hh **118/115**, **Louisa 9**. Next dw Isaac Newman 37 | Travellers Rest, Owsley Co., KY | C067 C375 C376 C043 C136 | S355 S048 S127 |
 | **29 Jun 1870** | — | **Samuel Newman, 1, in John 50 & Elizabeth 25’s Sturgeon hh 19** (PROBABLE natal home of P002) | Sturgeon Precinct, Lee Co., KY (PO Proctor) | C062 | S042 |
 | 1870 | — | Lee County created | KY | — | FS wiki |
 | **Aug 1871 (day 11 POSSIBLE)** | 0 | **Dora born** | Lee Co., KY (PROBABLE) | C001 | S005 S004 S010 |
@@ -39,6 +39,16 @@ Place as it was *at the date*; modern equivalent in brackets. Flag impossibiliti
 | **27 Mar 1873** | — | FAN: John Farmer × Margret Jane Gray **at Silas Gray’s** | Lee Co., KY | C340 C351 | S331 |
 | **1 Jun 1900** | — | FAN: **Hardin GRAY** + **Vestie** + Rosco, hh **85/85**. **Louisa not in the house.** Next door William Gray (May 1847 age **53**, not 84) + Elizabeth Brandenburg MIL | Sturgeon precinct, Lee Co., KY | C191 C326 C332 | S163 S315 |
 | **5 Oct 1928** | — | FAN: **William Gray** d. Delvinta, 84y 5m 2d, b. 2 May 1844, widow of Mary J., father **Silas Gray** (extract). Stone 3 May 1844–4 Oct 1928 = same man at one-day offsets (conflict **#21**) | Lee Co., KY | C328 C332 | S313 S166 |
+| **Jan 1876** | — | FAN: **Harden GRAY** born, s/o William GRAY b. Owsley & Mary **RADER** b. Owsley (VS extract). Raises Hardin-as-son to **PROBABLE** (C333); maiden Rader = #19 C | Lee Co., KY | C382 C333 | S356 |
+| **14 Apr 1878** | — | FAN: **Robert A. GRAY** born, s/o William GRAY & Mary J. **RAIDER** | Lee Co., KY | C383 | S356 |
+| **17 Jun 1880** | — | FAN: ED 59 p.**28** original — **Gray, Elisha** 28 + M. Jane 22 + Nancy 1. **Not** William×Mary J. | Lee Co., KY ED 59 | C389 C342 | S363 |
+| **28 Jun 1880** | — | FAN: ED 59 p.**43** original — **Gray, Caroline** 44 VA + Barney/Jessie/Ida. **Not** William×Mary J. | Lee Co., KY ED 59 | C390 C343 | S364 |
+| **19 Apr 1910** | — | FAN (rejected as P001): Liberty ED **4** sh **13 A** — Letha Sullivan, servant, **12**, Conrad house | Liberty Twp, Bollinger Co., MO | C370 | S351 |
+| **16 Apr 1910** | — | Rejected vs P001: Fillmore ED **2** sh **8 A** — John H. Newnam 35 + Dora 36 MO 7-6 | Fillmore Twp, Bollinger Co., MO | C371 | S353 |
+| **16 Jan 1925** | — | FAN: Mary J. Gray stone date still **nil** in statewide KYDI 1925 (nil Gray in Lee) | KY (index negative) | C380 C329 | S357 |
+| **5 Oct 1928** | — | FAN: KYDI confirms William Gray 84 LEE vol 063 #31429 | Lee Co., KY | C381 C328 | S358 S313 |
+| **7 Sep 1967** | — | FAN: KYDI **GRAY HARDIN K 91 FYETE LEE** vol 042 #20591 (index; DC image unread) | Fayette Co. / Lee Co. residence, KY | C379 | S359 |
+
 | 1 Jun 1900 | — | Elias & Mary at Proctor hh 25/25, 6-6 children living; **Provy Hoover gdau** 13 in the house. George Burke hh 36/36 includes **Charles B. son** Nov 1879 | Proctor precinct, Lee Co., KY | C096 C097 | S076 |
 | 5 Mar 1900 | 28 | BIL John Newnam d. consumption (context) — **only** Newnam in Lee VS 1900–1904; not Samuel | Lee Co. | C098 | S077 |
 | 24 Feb 1906 (WikiTree lore) | ~34 | Alleged death of Samuel | Lee Co.? | C012 | S030 | unproved; required before 1910 by Pearl’s boarding |

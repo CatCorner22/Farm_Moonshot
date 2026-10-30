@@ -769,3 +769,149 @@ Pass 2: County **Lewis**, not Lee or Owsley. Wife **Maria** 36, not Mary J. Age 
 
 ### Facts extracted → claim IDs
 - Lewis Co. William 45 + Maria — rejected vs C332 → C344
+
+
+## DOC033 — 1870 U.S. census, Travellers Rest, Owsley Co., Elias Newman hh 131
+
+- Image: `sources/census/1870-owsley-travrest-elias-hh131-pdfp090.jpg` SHA-256 `aa56943106e30f0cf2e03cbd9349749a5b4e1695170f8e4f46071157b886831f` (3018×3823)
+- Header: Page No. **14**, Travellers Rest Precinct, County of **Owsley**, State of Kentucky, enumerated **17** June **1870**, Post Office Travellers Rest, stamped **348**. **Image seen.**
+
+### Diplomatic (dwellings 131–132)
+
+> **131/128** · **Newman, Elias** · **26** · M · W · Farmer · realty **200** · Kentucky  
+> — **Mary** · **26** · F · W · Keeping House · Kentucky  
+> — **William D** · **11** · M · W · Farm Labor · Kentucky  
+> — **Malissa D** · **6** · F · W · Kentucky  
+> — **Frances** · **3** · F · W · Kentucky  
+> — **Mary** · **1** · F · W · Kentucky  
+> **132/129** · **Newman, Isaac** · **37** · M · W · Farmer · realty **300** · Kentucky  
+> — **Lucinda** · **37** · F · W · Keeping House · Kentucky
+
+Pass 2: Ages **26/26** (not 28/28). Youngest child **Mary 1**. **No Dora.** Kendrick’s enumeration date “7 Jun” is a derivative; this header is **17**.
+
+### Facts extracted → claim IDs
+- Elias 26 + Mary 26, no Dora → C375 C067
+- Isaac 37 next door → C376
+
+## DOC034 — 1910 U.S. census, Liberty Twp ED 4 sheet 13 A, Letha Sullivan servant
+
+- Image: `sources/census/1910-bollinger-ed4-letha-sullivan-servant.png` SHA-256 `417f903621cefc063a9a069ab604e4ace745348e3bf5bb078dec52058d4a6f0a` (2510×1718)
+- Header: Missouri, Bollinger, Liberty Township, SD **11**, ED **4**, sheet **13 A**, **19 Apr 1910**, Arthur F. Wilson. **Image seen.**
+
+### Diplomatic (last household)
+
+> **25/26** · **Conrad, Lewis[?]** · Head · M · W · **32** · M1 · **13** · Missouri · Farmer  
+> — {Sallie[?]} · Wife · F · W · **~38** · M1 · 13 · **1** · **1** · Missouri  
+> — {John[?]} · Son · M · W · **~14** · S · Missouri  
+> — {Ocie[?]} · Daughter · F · W · **~13** · S · Missouri  
+> **Boger, Raleigh** · Servant · M · W · **~12** · S · Missouri  
+> **Sullivan, Letha** · Servant · F · W · **12** · S · **Missouri** / **Indiana** / **Missouri**
+
+Pass 2: Letha’s age **12** is clear. Father’s nativity **Indiana** is consistent across crops; this person’s state **Missouri**. Conrad/wife ages 32/~38, not 47/44. Uncertain given names marked `[?]`.
+
+### Facts extracted → claim IDs
+- Letha 12 servant → C370 (POSSIBLE FAN only; not P001)
+
+## DOC035 — 1910 U.S. census, Liberty Twp ED 4 sheet 15 B
+
+- Image: `sources/census/1910-bollinger-ed4-sullivan-newnam-mil.png` SHA-256 `b4d6f1ce8d0e71d7908e3a17e01c4525d885e410d5e011ba6ba234651cfefa71` (2488×1718)
+- Header: Liberty Township, ED **4**, sheet **15 B**, **23 May 1910**, Arthur F. Wilson. **Image seen.**
+
+### Diplomatic (dwellings 156–160)
+
+> **156/157** · **Hill, James L.** · Head · M · W · **39** · Wd · Kentucky  
+> — John · Son · 15 · Missouri  
+> — Kiara[?] · Daughter · 13 · Missouri  
+> — Lola · Daughter · 9 · Missouri  
+> **157/158** · **Solomon[?], Nellie** · Head · F · W · **30** · Wd · **4** · **4** · Missouri  
+> — Bessie · Daughter · 13  
+> — Jennie[?] · {Son/Dau} · 8  
+> **Newnam, Walter** · Son · **5** · Missouri  
+> **Newnam, Isabelle** · Daughter · **3** · Missouri  
+> **157/159** · **Wesley, Thomas** · Head · 24 · M1 · 2 · Missouri  
+> — Zelma · Wife · 22 · 1-1  
+> — Elzie · Daughter  
+> **158/160** · **Seabaugh, John** · Head · **55** · M1 · 18 · Missouri  
+> — Ida M · Wife · **34** · M1 16 · 2-2  
+> — Henry R · Son · 14  
+> — Edith A · Daughter · 8  
+> **Estes, Mary** · Mother-in-law · F · W · **60** · Wd · **8** · **4** · Missouri  
+> — William T · Brother-in-law · **41** · S
+
+Pass 2: No John Sullivan. No Sarah Newman. No Oscar 21. The 60-year-old MIL is **Mary Estes**.
+
+### Facts extracted → claim IDs
+- Nellie + Newnam children → C372
+- Mary Estes MIL → C373
+- Hill 39 KY → C374
+
+## DOC036 — 1910 U.S. census, Fillmore Twp ED 2 sheet 8 A, John H. Newnam (rejected)
+
+- Image: `sources/census/1910-bollinger-ed2-john-h-newnam-dora-rejected.png` SHA-256 `34b9dd557be2d0d03ce86ac7cba15f2bc67f2e1276ec029f558375c1d399864c` (2384×1637)
+- Header: Missouri, Bollinger, Fillmore Township, SD **11**, ED **2**, sheet **8 A**, **16 Apr 1910**. **Image seen.**
+
+### Diplomatic (dwelling 48/49)
+
+> **48/49** · **Newnam, John H.** · Head · M · W · **35** · M1 · **16** · {Missouri} · Farmer  
+> — **Dora** · Wife · F · W · **36** · M1 · 16 · **7** · **6** · **Missouri** / Indiana / Indiana  
+> — Oscar · Son · 12 · Missouri  
+> — Loren · Son · 9  
+> — Opal · Daughter · 7  
+> — Stella · Daughter · 5  
+> — Evelin · Daughter · 3
+
+Pass 2: Dwelling **48/49**, not 88/89. Dora’s own birthplace reads **Missouri**, not Kentucky. Children are not the Sturgeon set. **Rejected vs P001.** A possible sixth/seventh child line is not in the household crop.
+
+### Facts extracted → claim IDs
+- John H. 35 + Dora 36 MO 7-6 → C371 (rejected)
+
+## DOC037 — 1910 U.S. census, Bollinger ED 5 sheet 8 B (filename not confirmed)
+
+- Image: `sources/census/1910-bollinger-ed5-sullivan-letha-e-dau2.png` SHA-256 `9eceebc4aaad36c50842d0755ecaa2d29f6ed6148d9626104d2ffbccc61e0308` (2504×1712)
+- Header: SD **11**, ED **5**, sheet **8 B**, **8 Apr 1910**, enumerator J. L. Sweeth[?]. **Image seen.**
+
+### Diplomatic (selected)
+
+> Huddleson[?] household: several daughters with middle initial **E** (Carrie E **13**, Goldie E **3**, infant **2/12**).  
+> A Tennessee-nativity house includes **Caroline**, Mother-in-law, **69**, Wd.  
+> **No line confirmed as Letha E., daughter, age 2.**
+
+Pass 2: Filename claim **not confirmed**. Uncertain surnames marked `[?]`.
+
+### Facts extracted → claim IDs
+- Filename not confirmed → C378
+
+## DOC038 — 1880 U.S. census, Lee Co. ED 59 Page No. 28, Elisha Gray (original)
+
+- Image: `sources/census/1880-lee-ky-ed59-sheet28-p753-elisha-gray.jpg` SHA-256 `e2a5c0d8f404c7efe36705c54996fc5827a6e22e3fe0ee98d54f30824cc10a65` (2096×2365)
+- Header: Page No. **28**, Supervisor’s Dist. **3**, Enumeration Dist. **59**, District **59**, County of **Lee**, State of Kentucky, **17** June 1880, James J. Hampton. Extracted from IA PDF page **753**. **Image seen.**
+
+### Diplomatic (dwelling 23/24)
+
+> **23/24** · **Gray, Elisha** · M · **28** · Farmer · Kentucky  
+> — **M. Jane** · F · **22** · Wife · Keeping house · Kentucky  
+> — **Nancy** · F · **1** · Daughter · Kentucky
+
+Pass 2: Confirms Soundex C342. **No** William ~33. **No** Hardin ~4.
+
+### Facts extracted → claim IDs
+- Elisha original → C389 C342
+
+## DOC039 — 1880 U.S. census, Lee Co. ED 59 Page No. 43, Caroline Gray (original)
+
+- Image: `sources/census/1880-lee-ky-ed59-sheet43-p768-caroline-gray.jpg` SHA-256 `d0c5d4d245ab67694980f9e9a47f0cde072ea4098f4283df2d7b7c300eaaa685` (2096×2352)
+- Header: Page No. **43**, ED **59**, Lee County, **28** June 1880, James J. Hampton, stamped **481**. Extracted from IA PDF page **768**. **Image seen.**
+
+### Diplomatic (dwelling 343/343)
+
+> **343/343** · **Gray, Caroline** · F · **44** · Farmer · **Virginia**  
+> — **Barney** · M · **12** · Son · Kentucky  
+> — **Jessie** · F · **8** · Daughter  
+> — **Ida** · F · **6** · Daughter  
+> — **Allice** · F · **18** · Niece  
+> **Davis, James** · M · **33** · Nephew
+
+Pass 2: Confirms Soundex C343. **No** William ~33 / Hardin ~4.
+
+### Facts extracted → claim IDs
+- Caroline original → C390 C343
