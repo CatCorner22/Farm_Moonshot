@@ -1,0 +1,52 @@
+Pass 65 — Whitewater ED 10 complete (Francis E original + remaining Conrad FAN)
+Date: 30 Oct 2026 (America/New_York)
+Backlog: B007
+Reel: T623-840 (12thcensusofpopu840unit)
+
+ED 10 map:
+  p136 = ED 9 Wayne sh 20 A (last Wayne A-side seen)
+  p138 = ED 10 Whitewater sh 1 A (dw/fam restart at 1; enum. 1 Jun)
+  p150 = ED 10 sh 7 A  ← Frank E original
+  p151 = ED 10 sh 7 B  ← Luke + Francis C widow
+  p152 = ED 10 sh 8 A  ← Francis M elder (Pass 64)
+  p165 = ED 10 sh 14 B ← Alfred
+  p166 = ED 10 sh 15 A ← William H; Mary A DIL continuation
+  p167 = ED 10 sh 15 B ← Peter R + John E
+  p168 = ED 10 sh 16 A (two leftover names; ED ends)
+
+Every ED 10 sheet sh 1 A–16 A name-column top visually read; bots of Conrad sheets read.
+
+CONRAD heads on original (none is Jesse; none has Letha):
+  sh 7 A dw 123/129 Conrad, Frank E ~1868 age 31 M 8; wife Cora/Eva ~32 6/7;
+        children Ida, Dale, David + (sh 7 B) Columbus Dec 1894 5, Guy May 1896 3,
+        Johnny Mar 1898 2. = Soundex Francis E (C306/C317). Children on Soundex
+        (Willie/Iva) do not match (C318 / conflict #21).
+  sh 7 B dw 126/131 Conrad, Luke Sept 1865 34 M 8; Anna B Mar 1873 27 4/3;
+        Herbert, Bertha, Selma infant. Not Jesse (C319).
+  sh 7 B dw 127/132 Conrad, Francis C Head WF Sept 1843 56 Wd 8/4;
+        Bertha F dau ~20 + son. Female widow — not Francis E/M (C320).
+  sh 8 A Francis M elder (C311) — already logged.
+  sh 14 B Conrad, Alfred Oct 1844 55 M 22; Elizabeth M Jan 1846 54 9/7;
+        son Feb 1877 23; DIL Mary A Feb 1877 21 2/2 + Blanche + May A (C321/C323).
+  sh 15 A Conrad, William H Mar 1848 52 M 32; Susan M Mar 1849 51 12/9;
+        Joseph D, John M, Charles; Christina mother 84 (C321).
+  sh 15 B Conrad, Peter R Jan 1834 66 M 14; Emma E Aug 1852 47 4/2 Denmark;
+        Arthur O 23, Emma O 22, Minnie F 11, Julius C 8 (C321).
+  sh 15 B Conrad, John E May 1867 33 M 13; Josephine Mar 1870 32 8/7;
+        several children (C321). Not Jesse.
+
+Younger Francis M (Mar 1871 + Mary C) still not a clean original match.
+Francis E Soundex “line 66” is a clerk error (sh 7 A, not sh 8 B ln 66).
+
+Rejects (C322):
+  Cook, Jesse E Head Jan 1852 48 (sh 4 B)
+  Propst, Jesse Head Apr 1874 26 (sh 14 A)
+  Joes, Jesse T son Jan 1883 17 (sh 3 B)
+  Bollinger, Dora A dau (sh 1 B) — county-as-surname
+  Pohlman, Dora dau (sh 13 A)
+  Schaugh, Dora B dau Oct 1888 11 (sh 14 A)
+  Blalock, Dotta B dau (sh 6 A)
+
+NIL Sullivan / Newman / Newnam / Letha on every ED 10 sheet.
+
+Working crops /tmp/b007-pass65/ NOT committed.

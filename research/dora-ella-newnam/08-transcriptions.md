@@ -664,5 +664,34 @@ Pass 2: Recie’s given name is a difficult hand (Recie / Reuben); marked `[?]`.
 
 Header only. Name-column sweep of sh **1 A–17 B** is in **L370** / **C309** (nil Conrad / Sullivan / Newman / Letha).
 
+## DOC033 — 1900 U.S. census, Bollinger Co. MO, Whitewater ED 10 sh 7 A (T623-840 p.150)
+- Image: `sources/census/1900-bollinger-whitewater-ed10-sh7a-frank-e.jpg` SHA-256 `438a87dcd4319490ef3ecb9e7b9f1cac18c9d527191d4ef6fcc7fe8d7836c6bd`
+- Provenance: **Image seen** 30 Oct 2026 (90 dpi pdftoppm)
+
+### Diplomatic (dwelling 123/129 only)
+> **123/129 Conrad, Frank E** — Head, W M, ~**1868**, **31**, M, **8**  
+> **Cora[?]/Eva[?]** — Wife, W F, ~**1868**, **32**, M, **6/7**  
+> **Ida[?]** — Daughter  
+> **Dale** — Son  
+> **David[?]** — Son  
+
+Continuation on sh **7 B**: Columbus Dec **1894** **5**; Guy May **1896** **3**; Johnny Mar **1898** **2**. No Letha. → **C317**.
+
+## DOC034 — 1900 U.S. census, Whitewater ED 10 sh 7 B (Luke + Francis C)
+- Image: `sources/census/1900-bollinger-whitewater-ed10-sh7b-luke-francis-c.jpg` SHA-256 `d8f8b295c2e4c2f4c617c37a974ce724264156a904c9f9015d80a5864c321110`
+
+> **Conrad, Luke** — Head, W M, Sept **1865**, **34**, M, **8**; **Anna B** wife Mar **1873**, **27**, **4/3**; Herbert W **4**; Bertha B **4**; Selma L infant  
+> **Conrad, Francis C** — Head, W F, Sept **1843**, **56**, Wd, **8/4**; Bertha F dau ~**20** + son
+
+→ **C319** / **C320**.
+
+## DOC035 — 1900 U.S. census, Whitewater ED 10 sh 15 B (Peter R + John E)
+- Image: `sources/census/1900-bollinger-whitewater-ed10-sh15b-peter-john.jpg` SHA-256 `8354ba0e55cfadb440ebf71efff87c52388f2a94237b9d0b7745a88ada8656c8`
+
+> **Conrad, Peter R** — Head, W M, Jan **1834**, **66**, M, **14**; **Emma E** wife Aug **1852**, **47**, **4/2**, b. Denmark; Arthur O **23**; Emma O **22**; Minnie F **11**; Julius C **8**  
+> **Conrad, John E** — Head, W M, May **1867**, **33**, M, **13**; **Josephine** wife Mar **1870**, **32**, **8/7**; several children
+
+→ **C321**.
+
 ## DOC009 — 1910 TN Soundex N-550 McCoy window (nil)
 Handwritten family/individual cards n2461–n2469. Sequence after Mary C (n2460): Mary D 49 Jefferson (son Layton 11); Mary M 70 Hamilton; Mek. G 50 Cheatham (Florence 19, John 17, General 16, Frances 13, William 10, Doria 6, Luther 1½); Melvin 3½ Giles (gs of Deacon George W); Melvin 54 Giles (SIL of same); Minerva 80 Robertson (gds Lona Neely, Nellie Erwin); Minnie 21 Roane (with Sam P. Sparks); Mitchell 27 Hardin (Ollie P 25, Gladys 4, Burl W 3, Royal E 1 9/12). **No McCoy.** SHA-256 n2463 `23610f8aa4c159b1b554ed1786d11f57d2f56f8a2e8994f7289ae7bd02dfca53`; n2469 `340489566090880388fa6b81ca5751c5944dcaf56a7b44f70fe560788f308586`.

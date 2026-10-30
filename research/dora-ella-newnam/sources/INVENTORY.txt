@@ -300,3 +300,17 @@ research/dora-ella-newnam/sources/census/1900-bollinger-whitewater-ed10-sh8a-fra
   format: JPEG household crop, T623-840 p.152 dw 136/140
 research/dora-ella-newnam/sources/census/b007-pass64-1900-francis-ed7-ed10-2026-10-30.txt
   format: Pass 64 search log
+research/dora-ella-newnam/sources/census/1900-bollinger-whitewater-ed10-sh1a-hdr.jpg
+  sha256: 84ab703b0f65989387b578c835a51c2e5be3cf788c20998825b96bc6d877030e
+  format: JPEG header crop, T623-840 p.138
+research/dora-ella-newnam/sources/census/1900-bollinger-whitewater-ed10-sh7a-frank-e.jpg
+  sha256: 438a87dcd4319490ef3ecb9e7b9f1cac18c9d527191d4ef6fcc7fe8d7836c6bd
+  format: JPEG household crop, T623-840 p.150 dw 123/129
+research/dora-ella-newnam/sources/census/1900-bollinger-whitewater-ed10-sh7b-luke-francis-c.jpg
+  sha256: d8f8b295c2e4c2f4c617c37a974ce724264156a904c9f9015d80a5864c321110
+  format: JPEG name-column crop, T623-840 p.151
+research/dora-ella-newnam/sources/census/1900-bollinger-whitewater-ed10-sh15b-peter-john.jpg
+  sha256: 8354ba0e55cfadb440ebf71efff87c52388f2a94237b9d0b7745a88ada8656c8
+  format: JPEG name-column crop, T623-840 p.167
+research/dora-ella-newnam/sources/census/b007-pass65-1900-ed10-complete-2026-10-30.txt
+  format: Pass 65 search log

@@ -266,6 +266,34 @@ PLATES: list[dict] = [
         caption="Dwelling 136/140. Conrad, Francis M, July 1841, age 58, married 39 years; wife Sophia B, 3 children / 2 living; son Recie, 20; boarder Sarah E. Seales, 8; son John R, 26, married, with a daughter-in-law. No Jesse. No Letha. Sophia’s 3/2 means Jesse is not a living child of this couple. Same man as the 1910 Francis M, 68, on Plate 73.",
         source="S279 · C311 · C315 · C313",
     ),
+    dict(
+        n=81, date="1 Jun 1900", year=1900, role="negative",
+        path="census/1900-bollinger-whitewater-ed10-sh1a-hdr.jpg",
+        title="Bollinger Whitewater ED 10 sheet 1 A header",
+        caption="Supervisor 13, ED 10, sheet 1 A, Whitewater Township. First of sixteen sheets. Combined with sheets 1–16 A, Whitewater is complete — no Jesse Conrad, Sullivan, or Letha.",
+        source="S280 · C316",
+    ),
+    dict(
+        n=82, date="Jun 1900", year=1900, role="rejected",
+        path="census/1900-bollinger-whitewater-ed10-sh7a-frank-e.jpg",
+        title="Frank E Conrad household — Whitewater ED 10 sheet 7 A",
+        caption="Dwelling 123/129. Conrad, Frank E, about 1868, age 31, married 8 years; wife Cora or Eva, about 32, 6/7 children. This is the Soundex Francis E man. Not Jesse. The Soundex children’s names (Willie, Iva) do not match the original.",
+        source="S280 · C317 · C318",
+    ),
+    dict(
+        n=83, date="Jun 1900", year=1900, role="context",
+        path="census/1900-bollinger-whitewater-ed10-sh7b-luke-francis-c.jpg",
+        title="Luke Conrad and Francis C Conrad widow — Whitewater ED 10 sheet 7 B",
+        caption="Continuation of the Frank E children, then Conrad, Luke, 34, with Anna B, and Conrad, Francis C, female widow, 56. Local FAN — not Jesse.",
+        source="S280 · C319 · C320",
+    ),
+    dict(
+        n=84, date="Jun 1900", year=1900, role="context",
+        path="census/1900-bollinger-whitewater-ed10-sh15b-peter-john.jpg",
+        title="Peter R and John E Conrad — Whitewater ED 10 sheet 15 B",
+        caption="Conrad, Peter R, January 1834, age 66, wife Emma E born Denmark; Conrad, John E, May 1867, age 33, wife Josephine, 8/7 children. Two more Whitewater FAN households — not Jesse.",
+        source="S280 · C321",
+    ),
     # --- 1910 Soundex / Miracode ---
     dict(
         n=17, date="Apr 1910", year=1910, role="negative",

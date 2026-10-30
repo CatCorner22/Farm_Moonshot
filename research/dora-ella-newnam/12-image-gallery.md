@@ -54,6 +54,10 @@ Diplomatic transcriptions: [`08-transcriptions.md`](08-transcriptions.md). Citat
 | 78 | Jun 1900 | Negative search | [Bollinger Lutesville ED 7 sheet 1 A header](sources/census/1900-bollinger-lutesville-ed7-sh1a-hdr.jpg) |
 | 79 | Jun 1900 | Context | [Bollinger Whitewater ED 10 sheet 8 A header](sources/census/1900-bollinger-whitewater-ed10-sh8a-hdr.jpg) |
 | 80 | Jun 1900 | Context | [Francis M Conrad household — Whitewater ED 10 sheet 8 A](sources/census/1900-bollinger-whitewater-ed10-sh8a-francis-m.jpg) |
+| 81 | 1 Jun 1900 | Negative search | [Bollinger Whitewater ED 10 sheet 1 A header](sources/census/1900-bollinger-whitewater-ed10-sh1a-hdr.jpg) |
+| 82 | Jun 1900 | Rejected same-name | [Frank E Conrad household — Whitewater ED 10 sheet 7 A](sources/census/1900-bollinger-whitewater-ed10-sh7a-frank-e.jpg) |
+| 83 | Jun 1900 | Context | [Luke Conrad and Francis C Conrad widow — Whitewater ED 10 sheet 7 B](sources/census/1900-bollinger-whitewater-ed10-sh7b-luke-francis-c.jpg) |
+| 84 | Jun 1900 | Context | [Peter R and John E Conrad — Whitewater ED 10 sheet 15 B](sources/census/1900-bollinger-whitewater-ed10-sh15b-peter-john.jpg) |
 | 17 | Apr 1910 | Negative search | [Kentucky N-550 — Millie / Missouri; no McCoy](sources/soundex/ky1910-n550-p329-millie-missouri.jpg) |
 | 18 | Apr 1910 | Negative search | [Kentucky N-550 — Monroe; still no McCoy](sources/soundex/ky1910-n550-p330-monroe-no-mccoy.jpg) |
 | 19 | Apr 1910 | Rejected same-name | [Kentucky N-550 — Sam / Samuel, none is the husband](sources/soundex/ky1910-n550-p342-sam-samuel-not-p002.jpg) |
@@ -461,6 +465,46 @@ Supervisor 13, ED 10, sheet 8 A, Whitewater Township, stamped 319. The sheet the
 Dwelling 136/140. Conrad, Francis M, July 1841, age 58, married 39 years; wife Sophia B, 3 children / 2 living; son Recie, 20; boarder Sarah E. Seales, 8; son John R, 26, married, with a daughter-in-law. No Jesse. No Letha. Sophia’s 3/2 means Jesse is not a living child of this couple. Same man as the 1910 Francis M, 68, on Plate 73.
 
 ![Francis M Conrad household — Whitewater ED 10 sheet 8 A](sources/census/1900-bollinger-whitewater-ed10-sh8a-francis-m.jpg)
+
+### 81 · 1 Jun 1900 · Bollinger Whitewater ED 10 sheet 1 A header
+
+**Role:** Negative search  
+**File:** [`sources/census/1900-bollinger-whitewater-ed10-sh1a-hdr.jpg`](sources/census/1900-bollinger-whitewater-ed10-sh1a-hdr.jpg)  
+**Source:** S280 · C316
+
+Supervisor 13, ED 10, sheet 1 A, Whitewater Township. First of sixteen sheets. Combined with sheets 1–16 A, Whitewater is complete — no Jesse Conrad, Sullivan, or Letha.
+
+![Bollinger Whitewater ED 10 sheet 1 A header](sources/census/1900-bollinger-whitewater-ed10-sh1a-hdr.jpg)
+
+### 82 · Jun 1900 · Frank E Conrad household — Whitewater ED 10 sheet 7 A
+
+**Role:** Rejected same-name  
+**File:** [`sources/census/1900-bollinger-whitewater-ed10-sh7a-frank-e.jpg`](sources/census/1900-bollinger-whitewater-ed10-sh7a-frank-e.jpg)  
+**Source:** S280 · C317 · C318
+
+Dwelling 123/129. Conrad, Frank E, about 1868, age 31, married 8 years; wife Cora or Eva, about 32, 6/7 children. This is the Soundex Francis E man. Not Jesse. The Soundex children’s names (Willie, Iva) do not match the original.
+
+![Frank E Conrad household — Whitewater ED 10 sheet 7 A](sources/census/1900-bollinger-whitewater-ed10-sh7a-frank-e.jpg)
+
+### 83 · Jun 1900 · Luke Conrad and Francis C Conrad widow — Whitewater ED 10 sheet 7 B
+
+**Role:** Context  
+**File:** [`sources/census/1900-bollinger-whitewater-ed10-sh7b-luke-francis-c.jpg`](sources/census/1900-bollinger-whitewater-ed10-sh7b-luke-francis-c.jpg)  
+**Source:** S280 · C319 · C320
+
+Continuation of the Frank E children, then Conrad, Luke, 34, with Anna B, and Conrad, Francis C, female widow, 56. Local FAN — not Jesse.
+
+![Luke Conrad and Francis C Conrad widow — Whitewater ED 10 sheet 7 B](sources/census/1900-bollinger-whitewater-ed10-sh7b-luke-francis-c.jpg)
+
+### 84 · Jun 1900 · Peter R and John E Conrad — Whitewater ED 10 sheet 15 B
+
+**Role:** Context  
+**File:** [`sources/census/1900-bollinger-whitewater-ed10-sh15b-peter-john.jpg`](sources/census/1900-bollinger-whitewater-ed10-sh15b-peter-john.jpg)  
+**Source:** S280 · C321
+
+Conrad, Peter R, January 1834, age 66, wife Emma E born Denmark; Conrad, John E, May 1867, age 33, wife Josephine, 8/7 children. Two more Whitewater FAN households — not Jesse.
+
+![Peter R and John E Conrad — Whitewater ED 10 sheet 15 B](sources/census/1900-bollinger-whitewater-ed10-sh15b-peter-john.jpg)
 
 ## 1910 — Soundex, Peebles test, and Sturgeon ED 99
 
