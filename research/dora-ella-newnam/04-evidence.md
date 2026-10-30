@@ -208,6 +208,7 @@
 | S389 | Same reel, PDF page **404**. JPEG `sources/census/1850-owsley-pdfp404-wm-brandenburg.jpg` SHA-256 `7081b554308144ee29c305225c525c51f67f51a146c2578d34f545642ba7e571` (2868×3625). **Original image seen.** Dw **392/392 Wm Brandenburg** 50 + Margaret 13 and younger (FAN; **not** merged with 1860 James 52). | O | Enumerator Bravener |
 | S390 | Same reel, PDF page **419** (314A, the A-side before S384). JPEG `sources/census/1850-owsley-pdfp419-brandenburg.jpg` SHA-256 `3fa7c742731dd0d9f01723111114613bc24a5ff82cdf3d8c5110d56e8c3ea7ad` (2908×3879). **Original image seen.** Dw **565 Joseph Brandenburg** 41 + Elizabeth 36; dw **566 Wm. M. Brandenburg** 46 + Sally 36. **No** James ~42 as head on this page. | O | Enumerator Bravener |
 | S391 | Jen Bawden, “1850 Census of Owsley County, KY” given-name index, RootsWeb `sites.rootsweb.com/~kyowsley/census/1850/CENSINDX.HTM`, accessed 30 Oct 2026. **Derivative.** Gray given names listed: Lucy, Sarah, Thomas, Thomas only — **misses** James, John, Charles, Dolly, Manerva seen on the originals. | D (incomplete) | Bawden / NARA M432-216 |
+| S392 | Nested chat-review dump `/tmp/dora-pass41/chat-review-pass41.md` from [Review all cloud chats](bc-d47797ef-e801-5f07-87e1-d67682056417), plus independent `git fetch origin cursor/dora-locations-1900-death-8d03` and `gh pr view 26` on 30 Oct 2026 (America/New_York). Nested catalog **67** (`hasMore: false`). Nested PR **#26** pin `44cca6c` (Pass **57**) superseded by HEAD **`650a475580bdc799cd51176555a0e20f9a4d16c8`** (Pass **58**, 2026-10-30T11:28:39Z). Highest sibling IDs on that HEAD: **C276 / L326 / S264**. **No** original census plate opened on this branch this fold. | A (research-process) | Cloud-agent transcripts / GitHub |
 
 
 
@@ -591,6 +592,7 @@
 | C438 | 1850 Owsley PDF **404** dw **392** Wm Brandenburg 50 is a FAN, **not** merged with 1860 James | PROVEN as a different head | S389 | B049 |
 | C439 | 1850 Owsley **314A** has Joseph Brandenburg 41 and Wm. M. Brandenburg 46 — ages sit near James ~42 — **not merged** (different given names; Hard Rule 3 fails) | PROVEN as unmerged; James 1850 head still unidentified | S390 | B049 |
 | C440 | B053 Madison Gray/Silas **head** name-column sweep PDF **140–428** is complete as a negative. Residual: non-head ditto under another surname; McLean portion of reel 384 | PROVEN as to heads seen | S386 C432 | B053 |
+| C441 | Nested Pass 41 reviewer landed: catalog still **67**. PR **#26** HEAD independently confirmed **`650a475`** (Pass **58**). **No** new independently image-backed P001 1900–1926 residence. Sibling IDs **C221–C276 / L245–L326 / S259–S264** are skip-reel, not imported. Nested `44cca6c` / “Pass 58 uncommitted” pin is stale | PROVEN as a process count; not a biography fact | S392 L401 | B038 |
 
 
 

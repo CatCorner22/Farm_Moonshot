@@ -804,3 +804,30 @@ Nested report: `/tmp/dora-pass40/chat-review-pass40.md`. Catalog **64** / `hasMo
 
 RUNNING also: parent `bc-01a18bb4`; PR **#26** `bc-995d22ea`; ED5 `bc-0039b8bf`. **No** new independently image-backed P001 1900–1926 residence. Do **not** steal **C221–C268 / L245–L318 / S259–S260**. PR **#29** remains **MERGED**. This pass’s original-image work (1850 Owsley Gray pages; Madison 1860 name columns) is filed under **C424–C440 / L392–L400 / S380–S391 / DOC044–046**.
 
+# Pass 41 nested fold (later 30 Oct 2026, America/New_York) — [Review all cloud chats](bc-d47797ef-e801-5f07-87e1-d67682056417) landed
+
+Nested dump: `/tmp/dora-pass41/chat-review-pass41.md`. Catalog **67** / `hasMore: false` / statuses then RUNNING **4** · IDLE **58** · ERROR **5**. NEW vs 65: this nested reviewer + [Review all Dora chats](bc-d60ec7c1-d58a-5ba7-90c8-e6ebb025101b) (IDLE, inventory-only; stale on PR **#26** HEAD `df9e4cc`). Working tree **not** edited by the nested reviewer. Transcripts were searched, not read end-to-end. **No** new independently image-backed P001 1900–1926 residence.
+
+**Stale pin in that nested report:** it stopped at PR **#26** HEAD `44cca6c` (Pass **57**). Independent `git fetch` + `gh pr view 26` this fold: HEAD **`650a475580bdc799cd51176555a0e20f9a4d16c8`** — `Pass 58: ED 37 A-sides and ED 41 B-sides complete; no second Stone` (committed 2026-10-30T11:28:39Z). GitHub still **OPEN / CONFLICTING / DIRTY**.
+
+**Do not steal** sibling IDs now through Pass **58**: **C221–C276 / L245–L326 / S259–S264**. Highest committed on that HEAD: **C276 / L326 / S264**. Do **not** mint **C274–C276** here. Skip-reel held for Greene ED **42–43**, T623-839 Liberty, unread S-415 John, and T623-537 hh **85** (hh **85** still not independently re-read on this branch after #29 merge).
+
+Sibling wording on that HEAD (inventory only — **not** re-read as originals on this branch):
+
+| ID | sibling wording (do not steal) |
+|---|---|
+| **C269** / L319 / S261 | Greene ED **41** remaining A-sides nil Stone; every ED **41** A-side swept; B-sides then unread |
+| **C270** | T623-855 map: ED **37** p.781–834, ED **38** p.835–916, ED **39** sh 1–5 p.917–926; p.815 = Thomas A. sh 18A (C117) |
+| **C271** | Sampled ED **37** A-sides nil second Stone head |
+| **C272** / L322 / S262 | B045 free substitutes still nil Samuel P. death/probate |
+| **C273** / L323 / S263 | B047 free WWI still nil John H. / McCoy; M1509 rolls named, cards not examined |
+| **C274** / L324 / S264 | Every ED **37** A-side: only Stone head is Thomas A. sh **18 A**; p.813 Elizabeth J. MIL (C112) |
+| **C275** / L325 | Every ED **41** B-side nil Stone; ED **41** A+B swept |
+| **C276** / L326 | Sampled ED **38** A-sides + ED **39** sh **1 A–5 A** nil Stone; **Stowe, John C.** rejected; **Dora Lucy A.** child rejected |
+
+C249 on that HEAD is still labelled “Dora E. Stone … Henry C. Stone”; this case keeps **C338 Rhodes**. C266 remains **Copley** (not Cato).
+
+[B045 B047 free workarounds](bc-42eadea9-319d-533d-9395-742284b79ca4) (now IDLE, ~180 msgs) did **not** write case files. Nested summary of that chat is index-only and matches sibling **C272 / C273**. This branch does **not** re-file those nils. ED5 helper [Scan ED5 pages 405-434](bc-0039b8bf-7edb-593b-82c3-cb59471d392a) still has an empty transcript (Gmail `mcp_auth_error` only).
+
+This branch’s original-image work remains **C424–C440 / L392–L400 / S380–S391 / DOC044–046**. This fold uses **C441 / L401 / S392**. Next unused **C442+ / L402+ / S393+ / DOC047+**.
+
