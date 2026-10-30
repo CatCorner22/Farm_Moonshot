@@ -1,0 +1,40 @@
+Pass 55 — Greene ED 42–43 remaining B-sides + Liberty ED 5 interior
+==================================================================
+Date: 30 Oct 2026 (America/New_York)
+
+B040 Greene T623-856 (/tmp/t623-856-greene.pdf)
+  Remaining ED 42 B-sides name-column crops (/tmp/b040-pass54/names/, not committed):
+    205 209 211 215 217 221 223 225 227 229 233 235 237 239 243 245 247 249 253
+    Combined with L311 (181 183 185 187 189 191 193 195 197 199 201 203 207
+    213 219 231 241 251) = every ED 42 B-side (odd pp 181–253).
+    No Stone / Thomas A. head.
+    p229 Laughlin hh: dau Dora — Springfield child, not P001.
+
+  Remaining ED 43 B-sides:
+    261 263 267 269 271 273 275 277 279 281 283 285 287 289 291 293 295 297
+    299 301 303 305 307 309 311 313 315
+    Combined with L312 (259 265) and L308 pages 257 + 316–319 = every ED 43
+    B-side in p.256–319.
+    No Stone / Thomas A. head.
+    p259 Binis wife Ella (prior) and later Ella/Dora given names are Springfield
+    locals, not P001.
+
+B007 Liberty 1900 T623-839 ED 5 (E. Holt Westenhaver)
+  Header map confirmed:
+    p1105 = ED 5 sh 1 A
+    p1106 = ED 5 sh 1 B
+    p1124 = ED 5 sh 10 B (16 Jun 1900)
+    p1130 = ED 5 sh 13 B
+    p1131–1132 = sh 14 A–14 B
+  Name-column crops of pp 1105–1132 (28 sheets; /tmp/b007-pass55/ed5/, not committed).
+  No Sullivan / Letha / Newnam / Newman household.
+  p1105 dw 8: McCoy, Thomas — local homonym, not P010.
+  p1106 servant line remains Huffman/Nuffman (C257), not Sullivan.
+  Child Doras rejected: Bridwell dau Dora C (p1109); Ford/Fordney dau Dora M (p1129).
+  Same-name adult: p1123 last line + p1124 ln 1 — Copley, Abraham, 33, b. Jan 1867 KY,
+    farmer, m. 7 yrs; wife Dora E., 26, b. Oct 1873 Missouri, 3/3 children, parents
+    MO/TN. Not P001 (P001 is at Sturgeon KY 1 Jun 1900, b. Aug 1871 KY).
+
+Residual after this pass:
+  B007: unread S-415 John Sullivan cards between the L303 samples.
+  B040: ED 37–41 sheets not yet line-read beyond prior spot/bracket work (C117 stands).
