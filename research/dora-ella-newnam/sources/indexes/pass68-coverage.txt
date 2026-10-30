@@ -1,0 +1,7 @@
+Pass 68 coverage — 30 Oct 2026 America/New_York
+B063: entire 1920 Owsley ED 91 Cow Creek Precinct #4 original now closed (sh 1 A-14 A; 1155 unused B). NIL Newman head. Cale Minerva 73 DISPROVED as C650. Allen Ella 30 and Cale wife 42 DISPROVED as P001. ED 92 starts leaf 1156 (header only; not every-name-read). ED 88 and ED 93 remainder still unread.
+1916 DC workarounds: TFKRHA 1916 G page apex HTTP 429 (Josephine not re-opened); Wayback CDX empty for that URL; Josephine Gilbert remains Kendrick extract only (C531). KYDI 1955 previously 503 this run. Original vol 044 #21663 face still unseen.
+Catalog 98 / hasMore false / totalMatched 98. Nested reviewer not respawned. ED1 sheets 1-8 now IDLE with content (nil Newman; IDs not imported). B045 films still RUNNING empty. PR #31 / #33 IDs not imported. Sibling C281 not imported.
+Do not promote C509.
+Skip C221-C280 / L245-L342 / S259-S266.
+Next unused after this file: see 11-backlog handoff.

@@ -1,6 +1,6 @@
 # Source-image gallery: Dora Ella Newnam Stone
 
-One hundred sixty numbered plates (JPEG/PNG captures from NARA microfilm via Internet Archive, plus header and household crops). Plates **7g–7j** are the 1860 Owsley and 1880 Lee Gray originals added in passes 39–40. Plates **7k–7z** and **8a–8f** are the later 1850–1860 Owsley/Breathitt/Madison isolations, including Harrison Newman with Elias aged eight, H.H. Newman with Elias aged eighteen, and Giles Mays at one month and eleven. Plates **8j–8l** are the 1840 Estill originals (John and Christian Tincher, the county recap, and William Newton not Tincher) added in pass 55; plates **8m–8n** are the 1840 Clay originals added in pass 56; plates **8o–8q** are the 1840 Breathitt originals (first name page, last name page ending Total, and the county Abstract) added in pass 57; plates **8r–8u** are the 1840 Estill McIlvain originals and the Edmonson divider added in pass 58; plates **8v–8ac** are the M850 pension-payment cards added in pass 63 (Elias T. Newnam, Henry H. Newnam, Manerva Newnam, and the Newman-spelling collisions); plates **8ad–8ai** are the 1900 Sturgeon and 1910 Wild Dog Henry H. originals added in pass 64; plates **8aj–8ao** are the 1910 Sturgeon Arthur original and the 1920 Wild Dog nil (including the rejected Evans+Minerva house) added in pass 65; plates **8ap–8au** are the 1920 Island Creek Arthur original, the Soundex Arthur card, the leftover Sturgeon ED 89 closer, and the Minerva-slot Soundex card (Minnie, not Minerva) added in pass 66; plates **8av–8bb** are the 1920 Island Creek remainder headers, the rejected Barker Malvera and Wilson×Minerva houses, the Cow Creek opener, and the Soundex Walter Logan / Walter A. Louisville cards added in pass 67. They sit after the 1880 Buck Creek plate because those numbers were already assigned. They are ordered by **the date of the census they record or index**, not by the date the film was scanned. Plates **1a–2c**, **7a–7c**, **55b–55c**, and the 1880 G-600 cards were added in passes 34–37.
+One hundred sixty-six numbered plates (JPEG/PNG captures from NARA microfilm via Internet Archive, plus header and household crops). Plates **7g–7j** are the 1860 Owsley and 1880 Lee Gray originals added in passes 39–40. Plates **7k–7z** and **8a–8f** are the later 1850–1860 Owsley/Breathitt/Madison isolations, including Harrison Newman with Elias aged eight, H.H. Newman with Elias aged eighteen, and Giles Mays at one month and eleven. Plates **8j–8l** are the 1840 Estill originals (John and Christian Tincher, the county recap, and William Newton not Tincher) added in pass 55; plates **8m–8n** are the 1840 Clay originals added in pass 56; plates **8o–8q** are the 1840 Breathitt originals (first name page, last name page ending Total, and the county Abstract) added in pass 57; plates **8r–8u** are the 1840 Estill McIlvain originals and the Edmonson divider added in pass 58; plates **8v–8ac** are the M850 pension-payment cards added in pass 63 (Elias T. Newnam, Henry H. Newnam, Manerva Newnam, and the Newman-spelling collisions); plates **8ad–8ai** are the 1900 Sturgeon and 1910 Wild Dog Henry H. originals added in pass 64; plates **8aj–8ao** are the 1910 Sturgeon Arthur original and the 1920 Wild Dog nil (including the rejected Evans+Minerva house) added in pass 65; plates **8ap–8au** are the 1920 Island Creek Arthur original, the Soundex Arthur card, the leftover Sturgeon ED 89 closer, and the Minerva-slot Soundex card (Minnie, not Minerva) added in pass 66; plates **8av–8bb** are the 1920 Island Creek remainder headers, the rejected Barker Malvera and Wilson×Minerva houses, the Cow Creek opener, and the Soundex Walter Logan / Walter A. Louisville cards added in pass 67; plates **8bc–8bh** are the remainder of Cow Creek (sheet 4 A and 7 A headers, the rejected Allen Ella and Cale Minerva houses, the last populated sheet 14 A, and the ED 92 opener) added in pass 68. They sit after the 1880 Buck Creek plate because those numbers were already assigned. They are ordered by **the date of the census they record or index**, not by the date the film was scanned. Plates **1a–2c**, **7a–7c**, **55b–55c**, and the 1880 G-600 cards were added in passes 34–37.
 
 Soundex and Miracode cards sit with the census year they index, immediately after any original population schedules for that year.
 
@@ -111,6 +111,12 @@ Diplomatic transcriptions: [`08-transcriptions.md`](08-transcriptions.md). Citat
 | 8az | 1 Jan 1920 | Negative search | [Owsley ED 91 sheet 1 A header — Cow Creek Precinct No. 4](sources/census/1920-owsley-ed91-sh1a-hdr.jpg) |
 | 8ba | 1920 (index) | Rejected same-name | [Kentucky N-550 — Newman, Walter 39, Logan (Ora, Mary, Ruth)](sources/soundex/ky1920-n550-p4776-newman-walter-logan.jpg) |
 | 8bb | 1920 (index) | Rejected same-name | [Kentucky N-550 — Newman, Walter A 33, Louisville (Elva, Walter 1½)](sources/soundex/ky1920-n550-p4778-newman-walter-a-louisville.jpg) |
+| 8bc | 1 Jan 1920 | Negative search | [Owsley ED 91 sheet 4 A header — Cow Creek remainder](sources/census/1920-owsley-ed91-sh4a-hdr.jpg) |
+| 8bd | 1 Jan 1920 | Rejected same-name | [ED 91 sh 4 A hh 54 — Allen, Robert 30; Ella wife 30](sources/census/1920-owsley-ed91-sh4a-hh54-allen-ella.jpg) |
+| 8be | 1 Jan 1920 | Negative search | [Owsley ED 91 sheet 7 A header — Cow Creek](sources/census/1920-owsley-ed91-sh7a-hdr.jpg) |
+| 8bf | 1 Jan 1920 | Rejected same-name | [ED 91 sh 7 A hh 110 — Cale, Tom 51; Minerva 73 W, not Manerva Newnam](sources/census/1920-owsley-ed91-sh7a-hh110-cale-minerva.jpg) |
+| 8bg | 1 Jan 1920 | Negative search | [Owsley ED 91 sheet 14 A header — last populated Cow Creek sheet](sources/census/1920-owsley-ed91-sh14a-hdr.jpg) |
+| 8bh | 1 Jan 1920 | Negative search | [Owsley ED 92 sheet 1 A header — next precinct after Cow Creek](sources/census/1920-owsley-ed92-sh1a-hdr.jpg) |
 | 8 | 13 Jun 1900 | Rejected same-name | [Douglas County, Missouri — Thomas and Nancy E. Stone](sources/census/1900-douglas-mo-ed159-stone-sheet.jpg) |
 | 9 | 13 Jun 1900 | Rejected same-name | [Douglas County Stone household (crop)](sources/census/1900-douglas-mo-ed159-stone-hh-crop.jpg) |
 | 10 | 1900 (index) | Rejected same-name | [Missouri S-350 — Thomas Stone, 44, Douglas County](sources/soundex/mo1900-s350-p1678-stone-thomas-44-douglas.jpg) |
@@ -1816,4 +1822,58 @@ Ora 29, Mary 7, Ruth 1 6/12. Not Henry’s 1900 son (Logan vs Owsley; age 39 vs 
 Elva 27, Walter 1½, Poplar Level Road. Unmerged vs Henry’s son. No Manerva.
 
 ![1920 Soundex Walter A Louisville](sources/soundex/ky1920-n550-p4778-newman-walter-a-louisville.jpg)
+
+### 8bc · 1 Jan 1920 · Owsley ED 91 sheet 4 A header
+
+**File:** [`sources/census/1920-owsley-ed91-sh4a-hdr.jpg`](sources/census/1920-owsley-ed91-sh4a-hdr.jpg)  
+**Source:** S539 · C729 · C731 · DOC109
+
+Cow Creek Precinct No. **4**, ED **91**, sheet **4 A**. Enumerator **J.S. Dooley**. Remainder after Pass 67 sh **1 A–3 B**.
+
+![1920 Owsley ED 91 sh 4A header](sources/census/1920-owsley-ed91-sh4a-hdr.jpg)
+
+### 8bd · 1 Jan 1920 · Allen, Ella wife 30 — not P001
+
+**File:** [`sources/census/1920-owsley-ed91-sh4a-hh54-allen-ella.jpg`](sources/census/1920-owsley-ed91-sh4a-hh54-allen-ella.jpg)  
+**Source:** S541 · C731 · DOC109
+
+Rejected. Husband **Robert Allen**. Age **30** vs ~48.
+
+![1920 hh 54 Allen Ella](sources/census/1920-owsley-ed91-sh4a-hh54-allen-ella.jpg)
+
+### 8be · 1 Jan 1920 · Owsley ED 91 sheet 7 A header
+
+**File:** [`sources/census/1920-owsley-ed91-sh7a-hdr.jpg`](sources/census/1920-owsley-ed91-sh7a-hdr.jpg)  
+**Source:** S539 · C729 · C730 · DOC109
+
+Still Cow Creek Precinct No. **4**, ED **91**, sheet **7 A**.
+
+![1920 Owsley ED 91 sh 7A header](sources/census/1920-owsley-ed91-sh7a-hdr.jpg)
+
+### 8bf · 1 Jan 1920 · Cale, Tom + Minerva 73 — not Manerva Newnam
+
+**File:** [`sources/census/1920-owsley-ed91-sh7a-hh110-cale-minerva.jpg`](sources/census/1920-owsley-ed91-sh7a-hh110-cale-minerva.jpg)  
+**Source:** S540 · C730 · DOC109
+
+Rejected. Surname **Cale**. Age **73** vs ~66. Relationship written **widower** [sic].
+
+![1920 hh 110 Cale Minerva](sources/census/1920-owsley-ed91-sh7a-hh110-cale-minerva.jpg)
+
+### 8bg · 1 Jan 1920 · Owsley ED 91 sheet 14 A header
+
+**File:** [`sources/census/1920-owsley-ed91-sh14a-hdr.jpg`](sources/census/1920-owsley-ed91-sh14a-hdr.jpg)  
+**Source:** S539 · C729 · DOC109
+
+Last populated Cow Creek sheet. Lines **1–15** only; hh **241** Young, John. Leaf **1155** unused B.
+
+![1920 Owsley ED 91 sh 14A header](sources/census/1920-owsley-ed91-sh14a-hdr.jpg)
+
+### 8bh · 1 Jan 1920 · Owsley ED 92 sheet 1 A header
+
+**File:** [`sources/census/1920-owsley-ed92-sh1a-hdr.jpg`](sources/census/1920-owsley-ed92-sh1a-hdr.jpg)  
+**Source:** S542 · C729 · DOC109
+
+Next precinct after Cow Creek. Header only; name column unread this pass. Township not confidently read.
+
+![1920 Owsley ED 92 sh 1A header](sources/census/1920-owsley-ed92-sh1a-hdr.jpg)
 

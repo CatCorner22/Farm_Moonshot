@@ -1152,3 +1152,43 @@ research/dora-ella-newnam/sources/census/1880-lee-ky-ed59-sheet43-p768-caroline-
   sha256: 50830e119e44788584f3c42bad40471ba62b19cfab7b29be298a8a5264c69c7d
   format: text extract, 1,036 bytes
   check: Pass 67 coverage; catalog 91 mid-pass (closeout 95); 1916 DC still unseen
+/workspace/research/dora-ella-newnam/sources/census/1920-owsley-ed91-sh4a-hdr.jpg
+  sha256: ee458a6ae0621d5752253337c13b3003d3d161b694999dc04ac403a79ee1a455
+  format: JPEG photo, 7584x938px
+  check: 1920 ED 91 sh 4A Cow Creek header
+/workspace/research/dora-ella-newnam/sources/census/1920-owsley-ed91-sh7a-hdr.jpg
+  sha256: cc84bc4e851e869d8bc9959279f90a498a9bcc4b326aaea4035de0bb10bd1ba5
+  format: JPEG photo, 7584x933px
+  check: 1920 ED 91 sh 7A Cow Creek header
+/workspace/research/dora-ella-newnam/sources/census/1920-owsley-ed91-sh13a-hdr.jpg
+  sha256: 0c55df70d3c985497de2601565e92e85498bff7365ff8af231e9ab8750542b3f
+  format: JPEG photo, 7584x930px
+  check: 1920 ED 91 sh 13A Cow Creek header
+/workspace/research/dora-ella-newnam/sources/census/1920-owsley-ed91-sh14a-hdr.jpg
+  sha256: 0041b4548d6c04ab2a16dcf31eeb1ee24beab3710f3f2f394687355e640cda94
+  format: JPEG photo, 7616x930px
+  check: 1920 ED 91 sh 14A last populated Cow Creek
+/workspace/research/dora-ella-newnam/sources/census/1920-owsley-ed91-unused-b-hdr.jpg
+  sha256: dc89cc158c58c6762be58851f2f22e71e5d96ef26d234528dc9b68f2a8a5b5ee
+  format: JPEG photo, 7600x938px
+  check: 1920 ED 91 unused blank B-side after 14A
+/workspace/research/dora-ella-newnam/sources/census/1920-owsley-ed92-sh1a-hdr.jpg
+  sha256: 6129bc32a4b2d9ca354b8c710fc323bfd40f437548b2019f80a9a5c14e951509
+  format: JPEG photo, 7584x933px
+  check: 1920 ED 92 sh 1A header next precinct after Cow Creek
+/workspace/research/dora-ella-newnam/sources/census/1920-owsley-ed91-sh7a-hh110-cale-minerva.jpg
+  sha256: 079108fdb736b77294d2b8d5f55f1a9ebe417937cd55e294ab3c624028c9fbe5
+  format: JPEG photo, 2578x522px
+  check: 1920 ED 91 sh 7A hh 110 Cale Tom Minerva 73 rejected
+/workspace/research/dora-ella-newnam/sources/census/1920-owsley-ed91-sh4a-hh54-allen-ella.jpg
+  sha256: 78e685373de2c733a19ae35648f38857f012a4ae3f9a145bd9e9df145732aea5
+  format: JPEG photo, 2578x351px
+  check: 1920 ED 91 sh 4A hh 54 Allen Ella 30 rejected
+/workspace/research/dora-ella-newnam/sources/indexes/owsley-1920-ed91-cowcreek-entire-pass68.txt
+  sha256: a2b98b38a1e31d00468dded3278d2dde46d513c539580f04adadda4a1166cab0
+  format: text extract, 1,520 bytes
+  check: 1920 Cow Creek ED 91 entire original nil Newman
+/workspace/research/dora-ella-newnam/sources/indexes/pass68-coverage.txt
+  sha256: 2576411c3ad19a473acf3ae56412ee7e52155f05b3928d728b708940c7ee9134
+  format: text extract, 951 bytes
+  check: Pass 68 coverage; catalog 98; 1916 DC still unseen

@@ -2522,4 +2522,65 @@ Pass 2: Leaf **4775** is **Walker O.** 47 Union, **not** Walter. Leaf **4777** W
 - Walter 21 VA Camp Knox DISPROVED → C720
 - Walter B 43 Campbell unmerged → C721
 
+## DOC109 — 1920 U.S. census, Owsley Co., KY, ED 91 sheets 4 A–14 A (original; entire Cow Creek)
+
+- Headers: `sources/census/1920-owsley-ed91-sh4a-hdr.jpg` SHA-256 `ee458a6ae0621d5752253337c13b3003d3d161b694999dc04ac403a79ee1a455`
+- Last populated: `…sh14a-hdr.jpg` `0041b4548d6c04ab2a16dcf31eeb1ee24beab3710f3f2f394687355e640cda94`
+- Unused B: `…unused-b-hdr.jpg` `dc89cc158c58c6762be58851f2f22e71e5d96ef26d234528dc9b68f2a8a5b5ee`
+- Next ED: `…ed92-sh1a-hdr.jpg` `6129bc32a4b2d9ca354b8c710fc323bfd40f437548b2019f80a9a5c14e951509`
+- Rejected Minerva: `…ed91-sh7a-hh110-cale-minerva.jpg` `079108fdb736b77294d2b8d5f55f1a9ebe417937cd55e294ab3c624028c9fbe5`
+- Rejected Ella: `…ed91-sh4a-hh54-allen-ella.jpg` `78e685373de2c733a19ae35648f38857f012a4ae3f9a145bd9e9df145732aea5`
+- Extract: `owsley-1920-ed91-cowcreek-entire-pass68.txt` `a2b98b38a1e31d00468dded3278d2dde46d513c539580f04adadda4a1166cab0`
+- Provenance: NARA T625-**594** / IA `14thcensusofpopu594unit` `_1134.jp2`–`_1156.jp2`, opened 30 Oct 2026. **Original image seen.** Completes Pass 67’s ED **91** sh **1 A–3 B**. Pass 1 from header crops (frac 0.18); Pass 2 from name-column visual reads.
+
+### Diplomatic — header (sheet 14 A)
+
+> FOURTEENTH CENSUS OF THE UNITED STATES: 1920—POPULATION  
+> State **Kentucky** · County **Owsley** · Township **Cow Creek Precinct**  
+> Supervisor’s District No. **10** · Enumeration District No. **91** · Sheet No. **14 A**  
+> Enumerator **A.S./J.S. Dooley**, 20/21 January 1920.
+
+### Diplomatic — last populated households (sheet 14 A, lines 1–15)
+
+> *(cont.)* **Treadaway** Maud dau **6** · Marie dau **1 4/12[?]**  
+> **239 239 Campbell, Jane** Head F **53** W · Edd son **21**  
+> **240 240 Reynolds, H. B.** Head M **42** S  
+> **241 241 Young, John** Head M **35** M · Elsie[?]/Effie[?] wife **45** · children Cliffy through William  
+> Lines **16–50** empty.
+
+### Diplomatic — unused verso (leaf 1155)
+
+> Printed **Sheet No. … B** only. State, county, precinct, ED, enumerator **blank**. Name column lines **51–100** empty (**0** of **50** filled).
+
+### Diplomatic — rejected Manerva candidate (sheet 7 A)
+
+> **110 110 Cale, Tom** Head M **51** W owned-free  
+> Lewis son **17** S  
+> Everett son **13** S  
+> **Minerva** relationship written **widower** [sic] F **73** W
+
+Pass 2: Independent crop favors **widower** in the relationship column (enumerator used marital-status language). A helper pass read **Mother**. The given name, age, sex, marital **W**, and Cale household are stable. **Not** Manerva Newnam.
+
+### Diplomatic — rejected Ella (sheet 4 A)
+
+> **54 54 Allen, Robert** Head M **30** M  
+> **Ella** wife F **30** M  
+> Ralph son **5** S
+
+### Diplomatic — next precinct (leaf 1156 header only)
+
+> State **Kentucky** · County **Owsley** · Enumeration District No. **92** · Sheet No. **1 A**  
+> Township not confidently read this pass. Name column **not** every-name-read.
+
+Pass 2: Visual every-name-column of ED **91** sh **4 A–14 A**: **NIL** Newman / Newnam head. Combined with sh **1 A–3 B**, **entire Cow Creek Precinct #4** original is closed. Smith **Dora** dau **12** on sh **9 B** is a different child. Cale Henry’s wife **42** (Jane or Ella[?]) is a different woman.
+
+### Facts extracted → claim IDs
+- Entire ED 91 nil Newman head → C729
+- Cale Minerva 73 → C730
+- Allen Ella 30 → C731
+- Cale Henry wife 42 → C732
+- Smith Dora 12 → C733
+- ED 92 header only → S542
+- Original unseen / #24 still open → C736
+
 

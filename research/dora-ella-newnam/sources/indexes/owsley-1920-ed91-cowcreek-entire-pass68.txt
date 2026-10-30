@@ -1,0 +1,31 @@
+Pass 68 — 1920 Owsley Co. KY ED 91 Cow Creek Precinct No. 4 entire original
+NARA T625-594 / IA 14thcensusofpopu594unit
+Leaves 1128-1155 (Pass 67 already read 1128-1133 sh 1 A-3 B; this pass 1134-1155)
+
+Headers (frac 0.18, image-seen):
+  1134 = ED 91 sh 4 A Cow Creek Precinct #4, enum. J.S. Dooley, 3/4 Jan 1920
+  1140 = ED 91 sh 7 A still Cow Creek #4
+  1150 = ED 91 sh 12 A still Cow Creek
+  1152 = ED 91 sh 13 A
+  1153 = ED 91 sh 13 B, 20 Jan 1920
+  1154 = ED 91 sh 14 A, last populated sheet (lines 1-15 only; hh 239-241)
+  1155 = unused blank B-side (header empty except printed Sheet B; name column 0 of 50)
+  1156 = Owsley ED 92 sh 1 A (next precinct; township not confidently read)
+
+Visual every-name-column of remaining Cow Creek sheets 4 A-14 A:
+  NIL Newman / Newnam / Newmon / Neuman head
+  NIL Manerva Newnam
+
+Rejected given-name / widow collisions:
+  sh 4 A hh 54/54 Allen, Robert 30 + Ella wife 30  (not P001)
+  sh 7 A hh 110/110 Cale, Tom 51 W; Lewis 17; Everett 13; Minerva relationship written "widower" [sic] F 73 W  (not C650)
+  sh 7 A hh 114/114 Cale, Henry 48 + wife Jane/Ella[?] 42  (not P001)
+  sh 9 B hh 153 Smith, Joe; Dora daughter 12  (not P001)
+  sh 6 A Gabbard, Sallie Head 64 F  (not C650)
+  sh 7 B Moore, Margaret Head 72 F  (not C650)
+
+Last populated: 14 A hh 241/241 Young, John 35. Combined with Pass 67 sh 1 A-3 B: ENTIRE ED 91 original closed.
+Enumerators J.S./A.S. Dooley (early sheets) continuing through 14 A.
+
+Original 1916 DC vol 044 #21663 still unseen.
+Do not promote C509.
