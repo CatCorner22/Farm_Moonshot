@@ -1,0 +1,46 @@
+1950 U.S. census, Owsley County, Kentucky, ED 95-3 (Magisterial District 1).
+NARA T628-3538. Images from 1950census.archives.gov IIIF,
+series 43290879-Kentucky-132516 (27 population schedules).
+Accessed 30 Oct 2026. Image seen (selected sheets) + NARA name-index JSON.
+
+Portfolio label (sheet 0001):
+  State KENTUCKY, County OWSLEY, M.D. 1.
+  Enumerator Preston W. Mainous.
+  Population count on label 27 schedules; agriculture 22.
+  District office Harrodsburg, Kentucky. Image saved:
+  sources/census/owsley-1950-95-3-0001-label.jpg
+
+NARA name API (https://1950census.archives.gov/api/search):
+  Owsley + Newnam = 0
+  Owsley + Newman = 3 hits:
+    ED 95-5 sheets — Bowman / Bewman / Barman OCR noise (not Newman)
+    ED 95-3 sheet 0023 — name token "Newman"
+  Variants Neuman=0, Newmon/Newnman/Nawman collapse to the same 95-3 Newman token.
+
+Sheet 0023 (image seen; name-column crop saved):
+  Heading “Proceeding north”.
+  Household ~109: King, Elbert J. + Bertha.
+  Household ~110: Hale / Vedie + Beulah + children.
+  Household ~110 (second): surname visual Neurmon / Newman,
+    Clarence head, Mae wife, Hershel and other children matching
+    1940 ED 95-3 hh 55 Clarence NEWNAN + Mae (already C503 reject
+    vs John+Cora). Crop:
+    sources/census/owsley-1950-95-3-0023-clarence-names.jpg
+  Later houses: Watts, Gosa — not John+Cora.
+
+Sheet 0008 (image seen): Brewer, Carmack, Bowman, Combs, Herald,
+  Jackson, Abner, Peters. No John+Cora Newman.
+
+Montages of sheets 0002–0026 (reduced) showed no obvious
+John + Cora household. Tesseract on name columns was unreliable
+on this handwriting and is not used as a source.
+
+John Newnam 63 + Cora 47 of 1940 hh 54 are **not** on the NARA
+Newman/Newnam index for Owsley 1950 and are **not** the 95-3
+Newman household that was imaged. They had left this ED, or
+were enumerated under a surname the OCR missed. Full
+line-by-line visual of every name on all 27 sheets was not
+completed.
+
+Claims: C512 C513 C524
+S399

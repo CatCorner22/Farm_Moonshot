@@ -139,5 +139,9 @@ Place as it was *at the date*; modern equivalent in brackets. Flag impossibiliti
 | **17 Jul 1966** | — | FAN possible: **NEWMAN, JOHN L**, 88, Woodford — **not merged** with 1880 John L. | Woodford Co., KY | C492 | S396 |
 | **25 Feb 1981** | — | FAN: **Cora P. Newnam**, 87, widow of Rev. Luther — **PROVEN** | Fayette / Lee Co., KY | C494 | S396 |
 | **19 Nov 1988** | — | FAN possible: **NEWMAN, CORA B**, 95, Fayette — **POSSIBLE** 1940 Cora | Fayette Co., KY | C495 | S396 |
+| Apr 1950 | — | FAN: Owsley ED **95-3** (M.D. 1, enumerator Preston W. Mainous): Newman household on sheet **0023** is **Clarence + Mae**, not John+Cora. County Newnam index **0** | Owsley Co., KY | C512 C513 C524 | S399 |
+| Apr 1950 | — | FAN: Madison ED **76-6** Richmond — **Neuman, Shelly** 57 + **Grace** 51 **PROBABLE** Shelby×Grace. ED **76-32** **Dewey** Newman 26 **rejected** vs 1889 David F. | Madison Co., KY | C522 C523 | S400 |
+| **21 Jul 1864** / **29 Jun 1880** | — | FAN only: TFKRHA Williams list — Harry H. Newnam × Partington; Flanery × Rachel E. Venable. **Nil** Daniel×Sarah | Owsley (reconstructed) | C508 | S401 |
+| **6 Jun 1966** | — | FAN reject: **John Wesley Newman**, 69, Big Stone Gap VA — **not** KDI John L 17 Jul 1966 | Wise Co., VA | C509 | S402 |
 
 **Impossibility flags:** None. Mother ~29 at Dora’s 1871 birth (Mary b. 1842). Dora age 14 at marriage is legal/period-possible (KY) though young; 1880 age 8 corroborates. Two children born before Coy in the 1886–1889 window would have Dora aged 15–18 — possible. No event after 23 Aug 1926 is attributed to her.

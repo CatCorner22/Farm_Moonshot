@@ -1,0 +1,44 @@
+1950 U.S. census, Madison County, Kentucky. NARA name API + selected
+images from 1950census.archives.gov. Accessed 30 Oct 2026.
+
+API: county=Madison name=Newman → 13 sheets. OCR given names that
+survived a “new*” filter:
+  76-9  newman Wm
+  76-32 newman Dover   ← visual = Dewey (below)
+  76-33 Newman Hiram D
+  76-28 newman Vinian
+  76-3  newman selma
+  76-18 Newman Garry
+  76-32 newman Clay E
+  76-11 newman Delton C
+  76-12 newman (token only)
+  76-32 newman Donna J
+  76-6  (filter empty; visual = Shelly + Grace)
+
+API: Madison + Newnam = 0.
+API: Madison + David Newman / Frank Newman returned 80–90 sheets of
+OCR noise (David/Frank as given names on other surnames). Not used
+as a positive list.
+
+Image seen — ED 76-32 sheet 0026 (crop saved
+madison-1950-76-32-dewey-newman-names.jpg):
+  Last household: Newman, Dewey, 26, + Betty, 27, + Vivian 7,
+  Phyllis A. 6, Linda F. 4. Lived Floyd County, KY, a year ago.
+  OCR “Dover” = Dewey. Age 26 in 1950 ⇒ born ~1924.
+  REJECT vs 1900 David F. Feb 1889 / Frank of Berea (~60 in 1950).
+  POSSIBLE as a later David G. Jr. cluster only if other records
+  agree — not merged here (C522).
+
+Image seen — ED 76-6 Richmond sheet 0008 (crop saved
+madison-1950-76-6-shelby-grace-names.jpg):
+  ED printed “Richmond 76-6”.
+  Neuman, Shelly, 57, + Grace, 51.
+  PROBABLE Shelby Newman × Grace Brandenburg (C402/C403).
+  Richmond, not Berea. Not Frank of Berea. Not David G. 1888 (C523).
+
+No 1950 Madison Newman head in the OCR list is age ~61–70 named
+David / Frank / Grant. Contractor Frank and David G. 1958 remain
+unread on the population schedule.
+
+Claims: C516 C522 C523
+S400

@@ -183,6 +183,18 @@ Exact strings logged **L455–L475**.
 
 Exact strings logged **L476–L490**.
 
+## Name-variant storm (pass 69, `search_variants.py`)
+
+**John L. Newman / Newnam of Owsley → Woodford 1966** — John, Jno, Johnnie, John L × Newman/newnam/newnarn + Cora Brandenburg. Also **17 Jul 1966**, vol **036** cert **17762**, Woodford. Reject **John Wesley Newman** 6 Jun 1966 age 69 (Big Stone Gap). 1950 Owsley ED **95-3** (1940 Crane Creek ED) + Woodford Newman OCR.
+
+**David G. / David F. / Frank of Berea** — David, Dave, pavid, Frank, Grant × Newman/Newnam + Madison/Berea. KDI **19 Jun 1958** vol **028** cert **13719**. Also **Dewey** (OCR Dover), **Shelly/Shelby**. 2025 notice: father **David Grant Newman Jr.** — authored; living survivors withheld.
+
+**Cora B. Newman 1988** — Cora, Cora B × Newman/Newnam + Fayette. Not **Cora P.** 1981 (Plummer).
+
+**Daniel × Sarah M. Venable** — Daniel, paniel × Newnam/newman + Sarah / Sarah M. / Minerva / Manerva + Venable/Veneable/Veneble. TFKRHA 1843–80 Williams list (courthouse fire). Also **Harry H. Newnam** 1864 and **Rachel E. Venable** 1880 as FAN-only rows.
+
+Exact strings logged **L491–L506**.
+
 ## Agent SDK / GitHub channel
 
 Inspected 30 Oct 2026 (**L351**): this repository has **no** `package.json`, **no** `@grok/agent-sdk`, **no** `bot/` directory. GitHub channel `bot/channels/github.ts` is **n/a** and was **not** authored. Project subagent: `.cursor/agents/dora-genealogy-detective.md`.

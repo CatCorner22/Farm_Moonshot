@@ -1,5 +1,6 @@
 path	bytes	sha256_12
 INVENTORY.txt	18995	b3b6eb2038c1
+SOURCE-INVENTORY.tsv	48745	e8f800879414
 authored/Dora-Ella-Newnam-Stone-A-Life-book-copy-2026-10-30.docx	53235	78cdcf44ad17
 authored/Dora-Ella-Newnam-Stone-A-Life-latest.docx	53235	78cdcf44ad17
 authored/PROVENANCE.md	1300	1ec6a9834fec
@@ -44,6 +45,9 @@ catalog/kygenweb-owsley-marr.html	1543	e4c58ed71a94
 catalog/kygenweb-owsley-pass66.html	32138	45affe780d2f
 catalog/kygenweb-owsley.html	32138	45affe780d2f
 catalog/kygenweb-vitals.html	28233	dfcdb0f89a1d
+catalog/lds-berea-pass69.html	29422	ae019a7b60db
+catalog/lds-woodford-deaths-pass69.html	15426	64eedca4e7f2
+catalog/lds-woodford-pass69.html	9794	4477bfcda8a9
 catalog/ldsgenealogy-estill-landing.html	9750	5b5573d5a614
 catalog/ldsgenealogy-estill-marr.html	4105	793a83268094
 catalog/ldsgenealogy-estill-obits-reget.html	4105	793a83268094
@@ -76,8 +80,12 @@ catalog/owsley-1940-dir.html	6419	7d40ed956d1d
 catalog/owsley-census-landing.html	6991	ff2c6a19af65
 catalog/r011-pass65-workarounds.txt	1445	50f76d898967
 catalog/rootsweb-ky-vitals.html	2	44136fa355b3
+catalog/snac-duell-clark-pass69.html	4296	200233bb1f61
 catalog/snac-lee-clerk-probate.html	4296	f1a1ad084a57
+catalog/tfkrha-owsley-1843-80-wayback.html	9336	3aa81145d4ab
 catalog/usgennet-lee-landing-pass64.html	10207	2448f0b4cbce
+catalog/woodford-1966-john-l-retrieval-extract-2026-10-30.txt	1813	78acb216b026
+catalog/woodford-hs-books-pass69.html	410794	c4d1e09cc700
 cemetery/berea-cemetery-inventory.pdf	5166102	c37929093a72
 cemetery/berea-cemetery-newnam-nil-2026-10-30.txt	765	801e796915a7
 cemetery/fag-grant-newman-173232336-snippet-2026-10-30.txt	496	047ef125d337
@@ -389,6 +397,10 @@ census/lee-1920-sturgeon-shelby-extract-2026-10-30.txt	486	2f67d510ecea
 census/lee-1920-sturgeon.html	178080	34f1ec8fc500
 census/lee-1920-willow.html	84719	29a598f05294
 census/lee-census-landing.html	7284	116c7087987b
+census/madison-1950-76-32-dewey-newman-names.jpg	779280	e94567627b0b
+census/madison-1950-76-6-shelby-grace-names.jpg	590117	44124696dde2
+census/madison-1950-newman-extract-2026-10-30.txt	1648	bde7c4d8a7e0
+census/nara-1950-madison-newman-api.json	16773	6685b8bb4c4f
 census/owsley-1880-booneville.html	67033	2cdcbe884b6d
 census/owsley-1880-buckcreek-daniel-extract-2026-10-30.txt	1143	bc4ff402e411
 census/owsley-1880-buckcreek.html	34287	062b8d493827
@@ -438,6 +450,9 @@ census/owsley-1940-95-4.html	33644	56099bcab048
 census/owsley-1940-95-5.html	82667	957dea21a7e0
 census/owsley-1940-95-6.html	48334	9c9b40f746d8
 census/owsley-1940-95-7.html	58557	082d1f8c3c77
+census/owsley-1950-95-3-0001-label.jpg	848868	e98a96bc9e7c
+census/owsley-1950-95-3-0023-clarence-names.jpg	825657	8baa8d2545b4
+census/owsley-1950-ed95-3-extract-2026-10-30.txt	1973	f69bccf83f21
 census/owsley-census-landing.html	6991	ff2c6a19af65
 census/pass68-1920-nil-john-cora-extract-2026-10-30.txt	1321	6ed42f14d39e
 court/estill-court-index.html	4096	69d90bd83cef
@@ -508,8 +523,10 @@ marriages/owsley-marr-index.html	7840	148339f636c7
 marriages/owsley-marr-landing.html	7840	148339f636c7
 marriages/owsley-marriages.html	146	55f7d9e99b8e
 marriages/owsley-marry.html	146	55f7d9e99b8e
+marriages/owsley-sub-marr-pass69.html	5195	e6b961787cf3
 marriages/owsley-sub.html	5195	e6b961787cf3
 marriages/pass61-sha256.txt	648	eb3421b52a63
+marriages/tfkrha-owsley-1843-80-extract-2026-10-30.txt	1318	140f86ba783b
 military/estill-military-index.html	3085	deaf50a6a5e6
 military/estill-ww1-gt.html	1150	3a840b982574
 military/estill-ww1.html	3095	a51fb55b790b
@@ -531,6 +548,7 @@ military/owsley-ww1-gt.html	1151	a4d78fcbb49d
 military/wwi-crossborder-workaround-2026-10-29.txt	730	da298e19e51d
 obituaries/estill-obits-index.html	20913	0acf69dd0b40
 obituaries/estill-obits-reget.html	1543	e4c58ed71a94
+obituaries/gt-woodford-obits-pass69.html	10514	91b56234ea05
 obituaries/lee-obits-b-pass68.html	721498	19ac49223281
 obituaries/lee-obits-clifton-newman-1936-extract-2026-10-30.txt	1257	995f5b3d7aac
 obituaries/lee-obits-cora-plummer-newnam-1981-extract-2026-10-30.txt	1055	20f801745dfc
@@ -602,6 +620,7 @@ press/loc-ca-samuel-newnam-ky.json	1803534	f200b066f4a0
 press/loc-ca-stone-ola-1926.json	2104378	22c20035c3e1
 press/loc-item-citizen-berea.json	44794	d81d59f2d4ec
 press/loc-item-dardanelle-post-dispatch.json	34420	9e99e64ca9b1
+press/pass69-david-g-1958-retrieval-extract-2026-10-30.txt	1447	bbfd2ca45141
 press/richmond-climax-1902-04-23-p1.jpg	807100	0724defcd111
 soundex/1910-ky-n550-p0263.jpg	68303	cc7c14e89c18
 soundex/1910-ky-n550-p0266.jpg	59284	e13e6e730c9e

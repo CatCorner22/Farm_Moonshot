@@ -266,6 +266,11 @@
 | S396 | RTR KDI 1939–89 re-filter + 2025 funeral notice (deceased subject only). Extract `rtr-kdi-pass68-john-cora-david-extract-2026-10-30.txt`. John L 88 Woodford 1966; Cora P 1981; Cora B 1988; David Grant Jr. lead. | D / A (notice) | KY DHR / RTR / funeral home |
 | S397 | Owsley census landing + 1900 Island/Cow Creek + Lee 1920 precincts. Extract `pass68-1920-nil-john-cora-extract-2026-10-30.txt`. 1920 Owsley unpublished; Island/Cow Creek nil Newnam; Lee 1920 nil John+Cora head. | D (negative those pages) | Kendrick |
 | S398 | Owsley DC 1941–1946. https://usgennet.org/usa/ky/county/owsley/deaths/1941dc.html (through 1946dc). Nil adult John Newnam. 1943 Celia = McGuire mother. | D (negative John) | Kendrick |
+| S399 | 1950 U.S. census, Owsley ED **95-3**, NARA T628-3538, 1950census.archives.gov IIIF `43290879-Kentucky-132516`. Label + sheet **0023** images seen 30 Oct 2026. Local `sources/census/owsley-1950-95-3-0001-label.jpg` · `owsley-1950-95-3-0023-clarence-names.jpg` + extract `owsley-1950-ed95-3-extract-2026-10-30.txt`. Clarence Newman + Mae = 1940 hh 55. John+Cora not that house. | O (selected sheets) + D (name API) | NARA |
+| S400 | 1950 U.S. census, Madison Co. NARA name API + ED **76-32** sh **0026** and ED **76-6** sh **0008** images seen 30 Oct 2026. Local crops `madison-1950-76-32-dewey-newman-names.jpg` · `madison-1950-76-6-shelby-grace-names.jpg` + extract `madison-1950-newman-extract-2026-10-30.txt` + `nara-1950-madison-newman-api.json`. Dewey 26; Shelly 57 + Grace 51 Richmond. | O (two sheets) + D (API) | NARA |
+| S401 | TFKRHA “Early Marriages of Owsley Residents” 1843–80 (Williams notes after courthouse fire). Wayback HTML `sources/catalog/tfkrha-owsley-1843-80-wayback.html` + extract `tfkrha-owsley-1843-80-extract-2026-10-30.txt`. Harry H. Newnam 1864; Flanery × Rachel E. Venable 1880; **nil** Daniel×Sarah. Owsley submitted-marriages landing also nil. | D (negative that list) | TFKRHA / Williams |
+| S402 | Woodford 1966 John L. workaround bundle. Extract `sources/catalog/woodford-1966-john-l-retrieval-extract-2026-10-30.txt`. GT Woodford obits; LDSGenealogy Woodford deaths; Woodford HS Duell-Clark vol. II 1958–1978 catalog; NARA 1950 Woodford Newman OCR; John Wesley Newman 6 Jun 1966 reject. | D / A (catalog) | GT / WCHS / NARA / CJ snippet |
+| S403 | David G. 1958 workaround bundle. Extract `sources/press/pass69-david-g-1958-retrieval-extract-2026-10-30.txt`. 2025 State-Journal notice (deceased subject); *Citizen* LCCN **sn85052076** unread; FS 1958 DC unread. | A / catalog | State-Journal / Berea Archives / FS |
 
 
 ## Claims
@@ -739,6 +744,23 @@
 | C505 | Owsley published marriage VS skips **1879–1902** (and 1905–07) | PROVEN as index | S397 L489 | B073 / B079 / B078 |
 | C506 | KDI **COLE GRANT** infant Owsley **2 Feb 1913** is Cole-surname FAN only | POSSIBLE FAN; not Grant 21 | S396 | — |
 | C507 | 1940 Owsley EDs **95-1..95-7** have **no** Grant/David Newnam head matching the 1889 man | PROVEN negative those pages | S395 | B055 / B081 |
+| C508 | TFKRHA 1843–80 Williams list (courthouse-fire reconstruction) has **nil** Daniel Newnam × Sarah/Minerva Venable | PROVEN as that published list. Harry H. Newnam 1864 and Flanery × Rachel E. Venable 1880 are on it | S401 | B079 residual |
+| C509 | **John Wesley Newman**, 69, d. **6 Jun 1966** Big Stone Gap VA is **not** KDI **JOHN L** 88 Woodford **17 Jul 1966** | DISPROVED as same person (age, day, place) | S402 | — |
+| C510 | Duell-Clark Funeral Home records **1957–1969** exist at KHS; compiled vol. **II 1958–1978** is sold by Woodford Co. Historical Society | PROVEN as catalog / holding. Pages **unread** | S402 | B082 retrieval |
+| C511 | NARA 1950 Woodford name index: Newman = Clinton / Kenneth M. / Herbert; **Newnam 0**; no John L ~72 | PROVEN as that OCR index | S402 | Certificate unread |
+| C512 | 1950 Owsley ED **95-3** sheet **0023** Newman household is **Clarence** + **Mae** + children = 1940 hh **55** | PROVEN (image). **Not** John+Cora | S399 S395 C503 | — |
+| C513 | NARA 1950 Owsley name index **Newnam = 0**; Newman hits = Clarence 95-3 + Bowman OCR on 95-5 | PROVEN as that index | S399 | Full visual residual |
+| C514 | Lee obituaries **J** have **no** John L. Newman / John Newnam of Owsley 1966 decedent | PROVEN negative that page | S402 | — |
+| C515 | Genealogy Trails Woodford obits have **no** 1966 John Newman | PROVEN negative that page (only Alice Ashmore 1908) | S402 | — |
+| C516 | Madison 1950 NARA Newman OCR list contains Wm, Dewey, Hiram D, Vinian, selma, Garry, Clay E, Delton C, Donna J — **no** David G ~61 / Frank contractor | PROVEN as that OCR list | S400 | Schedule unread |
+| C517 | *The Citizen* (Berea) LCCN **sn85052076** through June 1958 is the free-catalog path for a 19 Jun 1958 obituary; 1958 pages **unread** this session | PROVEN as catalog | S403 | Hutchins / Newspapers.com |
+| C518 | 2025 State-Journal notice for a deceased 1950 Berea-born man names parents **David Grant Newman Jr.** × Ruby Lee Riddle Newman | SPECULATIVE/POSSIBLE authored lead (same as **C496**). Living survivors withheld | S403 | Do not merge 1958 |
+| C519 | FS catalog **127913 / 127869 / 1146342** remain SPA; 1958 KY DC image unread | PROVEN as access this session | S403 L492 | R011 |
+| C520 | Owsley submitted-marriages landing **nil** Daniel × Sarah/Venable | PROVEN negative that page | S401 | — |
+| C521 | USGW Archives Woodford / Madison landings returned HTTP **000** this session | PROVEN as access | S402 L505 | Retry |
+| C522 | 1950 Madison ED **76-32** **Newman, Dewey**, 26, + Betty is **not** 1889 David F. / Frank of Berea | DISPROVED (age ⇒ b. ~1924). OCR “Dover” = Dewey | S400 | — |
+| C523 | 1950 Madison ED **76-6** Richmond **Neuman, Shelly**, 57, + **Grace**, 51 = Shelby × Grace Brandenburg | PROBABLE (names + ages + Madison). Not Frank / David G. | S400 C402 C403 | — |
+| C524 | 1940 John+Cora are **not** on the 1950 ED **95-3** Newman/Newnam index hit | PROBABLE they left that ED or were missed by OCR. Not a 1966 proof | S399 C512 C513 | B082 |
 | C224 | **1 Jun 1880** population schedule dw **102/102** (ED **59**, **S235**) is **Flanary** + **Brashears**, **not** a **Mays** head; **Mary MAYS** 83 d. **Jan 1880** in mortality hh **102** (**S120**) — **same dwelling number**, decedent absent from June snapshot | PROVEN (original pop. line + mortality transcript) | S235 S120 L248 | Does not identify Pollie Mays stone (**C147**) |
 
 ## Same-person merges (Hard Rule 3)
@@ -877,6 +899,10 @@
 | KDI JOHNNIE NEWNAM 76 Lee/Estill 1972 + 1880 John L. | Given-name fragment | Age ⇒ b. ~1896 | **Rejected (C493)** |
 | KDI CORA B 95 Fayette 1988 + 1940 Cora 47 | Age ~1893 | No parent/spouse on index | **Not merged (C495 POSSIBLE)** |
 | 1940 Clarence Newnan + Susie + 1940 John + Cora | Surname + road | Different hh; Susie ≠ Cora | **Rejected (C503)** |
+| 1950 ED 95-3 Newman (Clarence + Mae) + 1940 John + Cora | Same ED | Clarence = 1940 hh 55 | **Rejected as John (C512)** |
+| John Wesley Newman d. 6 Jun 1966 age 69 + KDI John L 88 Woodford 17 Jul 1966 | Year 1966 + Newman | Age, day, place | **Rejected (C509)** |
+| 1950 Dewey Newman 26 Madison + David F. 1889 / Frank of Berea | Surname Newman + Madison | Age ⇒ b. ~1924 | **Rejected (C522)** |
+| 1950 Neuman Shelly 57 + Grace 51 Richmond + Shelby × Grace Brandenburg | Names + Madison + ages | Richmond ≠ Berea | **PROBABLE (C523)** |
 | 1934 Manerva Evans 67 McPherson + 1936 Sarah M. Evans 86 Veneble | Given Manerva/Sarah + Evans | Age and parents differ | **Not merged (C470)** |
 | 1947 Sarah Newman (John Damrel × Elizabeth Angel) + Sarah Veneable | Given name Sarah + Newman | Maiden Damrel; b. 1868 ≠ 1850 | **Rejected (C444)** |
 | 1900 Dist. 2 Henry H. × Minverva + 1900 Buck Creek widow Minerva | Given name Minerva + Newnam + Owsley | Husband living vs widow; different children | **Rejected (C445)** |
