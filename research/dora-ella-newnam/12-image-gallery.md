@@ -770,9 +770,85 @@ Sheet 8A household 133 is **Newman, McCoy**, 40, + Edith 29 MO — **PROBABLE** 
 **File:** [`sources/census/powell-1920-1050-county-card.jpg`](sources/census/powell-1920-1050-county-card.jpg)  
 **Source:** S439 · C655
 
-1920 U.S. census, Powell County, Kentucky. NARA T625-596; Internet Archive `14thcensusofpopu596unit` leaf 1050. Card: POWELL CO. EDs 142 and 177 / 143 to 146 / 178. Population starts leaf 1051. Name columns unread.
+1920 U.S. census, Powell County, Kentucky. NARA T625-596; Internet Archive `14thcensusofpopu596unit` leaf 1050. Card: POWELL CO. EDs 142 and 177 / 143 to 146 / 178. Population starts leaf 1051.
 
 ![Powell 1920 county card](sources/census/powell-1920-1050-county-card.jpg)
+
+**Source:** S441 · C658
+
+1920 U.S. census, Powell County, Kentucky, ED 142 sheet 1A, Stanton Precinct, 13 January 1920. Leaf 1051. First Dora-wife already rejected vs P001. Name-column walk 1051–1201: no Newman/McCoy head at contact-sheet resolution.
+
+![Powell 1920 ED 142 Stanton sheet 1A](sources/census/powell-1920-1051-ed142-stanton-sh1a.jpg)
+
+**Source:** S444 · C664
+
+Kentucky death certificate, Estill County, registered 9771, 22 April 1918. Decedent [Susananna?] Brandenburg, Station Camp. Informant Boyd Newman, Leighton. Image seen.
+
+![1918 Estill DC 9771](sources/vital/estill-1918-susanna-brandenburg-cert9771.jpg)
+
+**Source:** S443 · C661
+
+1920 U.S. census, Breathitt County, Kentucky, ED 52 sheet 19A, Quicksand Precinct, 17 January 1920. Leaf 1128. Soundex sheet 19 line 17 slack vs this line 17.
+
+![Breathitt 1920 ED 52 sheet 19A](sources/census/breathitt-1920-ed52-1128-sh19a.jpg)
+
+**Source:** S449 · C677
+
+Lee County, Kentucky, Marriage Book 6 compiled transcript. Floyd Newnam, 23, × Allie A. Brandenburg, 18, 31 July 1902. Derivative; register image unread.
+
+**Source:** S452 · C683
+
+1910 U.S. census, Estill County, Kentucky, ED 48 sheet 1A, Station Camp Precinct. IA `13thcensus1910po472unit` leaf 0481.
+
+![1910 Estill Station Camp ED 48 sheet 1A](sources/census/estill-1910-ed48-0481-stationcamp-sh1a.jpg)
+
+**Source:** S453 · C685
+
+Same reel, ED 48 sheet 4B leaf 0488 line 71. Diplomatic: Pennington, John, 27. Rejected vs Newman.
+
+![1910 Pennington reject zoom](sources/census/estill-1910-ed48-0488-ln71-pennington-zoom.jpg)
+
+**Source:** S454 · C688
+
+1920 U.S. census, Breathitt County, Kentucky, ED 41 sheet 1A. Leaf 0896. District 41 starts here; 0901 is sheet 2B.
+
+![Breathitt 1920 ED 41 sheet 1A](sources/census/breathitt-1920-ed41-0896-sh1a.jpg)
+
+**Source:** S457 · C697
+
+1910 Kentucky Miracode N-550, IA `soundex1910ky124` leaf 0251. Newman, Boyd, Lee, ED 98, visitation 158, with Allie, Sarah, Arthur, Carlos, Clarence.
+
+![1910 Miracode Boyd Allie Lee ED 98](sources/soundex/ky1910-n550-p0251-boyd-allie-lee-ed98.jpg)
+
+**Source:** S458 · C698 · C700
+
+1910 U.S. census, Lee County, Kentucky, Heidelberg precinct, ED 98 sheet 8A, dwelling 157 / family 158. Newman, Boyd, 38; Allie, 28; four children. Same household as 1920 Station Camp.
+
+![1910 Lee ED 98 Boyd Allie names](sources/census/lee-1910-ed98-0536-boyd-allie-names-zoom.jpg)
+
+**Source:** S460 · C702
+
+1900 U.S. census, Lee County, Kentucky, Sturgeon precinct, ED 52 sheet 2B line 54. Newman, Boyd, boarder, March 1878, age 22, day laborer, Allen Sams household 27.
+
+![1900 Sturgeon Boyd boarder](sources/census/lee-1900-ed52-0936-hh27-continued.jpg)
+
+**Source:** S467 · C722
+
+1900 U.S. census, Lee County, Kentucky, Sturgeon precinct, ED 52 sheet 3A, household 41. Brandenburgh, Oliver, and Allie A., daughter, November 1885, age 14.
+
+![1900 Sturgeon Oliver Allie A hh 41](sources/census/lee-1900-ed52-0937-oliver-allie-hh41.jpg)
+
+**Source:** S466 · C717 · C730
+
+1920 Kentucky Soundex N-550, IA `soundex1920ky117` leaf 4474. Newman, John, 38, Breathitt, wife Jennie 21. Rejected vs John L.
+
+![1920 Soundex John Jennie Breathitt](sources/soundex/ky1920-n550-p4474-john-jennie-card.jpg)
+
+**Source:** S468 · C719
+
+1920 U.S. census, Breathitt County, Kentucky, ED 52 sheet 1A. Leaf 1116. Actual start of district 52.
+
+![Breathitt 1920 ED 52 sheet 1A](sources/census/breathitt-1920-ed52-1116-sh1a.jpg)
 
 ![Owsley 1920 ED 93 Buck Creek township line](sources/census/owsley-1920-ed93-1170-buckcreek-township.png)
 

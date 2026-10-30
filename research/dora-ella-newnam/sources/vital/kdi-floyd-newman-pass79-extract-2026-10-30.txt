@@ -1,0 +1,7 @@
+Pass 79 KDI given-name FLOYD NEWMAN 1939-1989 (RTR year TXTs /tmp/dora65/rtr)
+Only decedent whose GIVEN name is FLOYD:
+  NEWMAN FLOYD W  62  CMPBL/CAMPBELL  08/10/1971  vol 038 cert 18994
+  Age 62 => b. ~1909. REJECTED vs Floyd Newnam ~23 in 1902 (b. ~1878-79) and vs Boyd 45 in 1920 (b. ~1875).
+Many NEWMAN + county FLOYD rows (eastern KY) are county-of-death, not given name.
+NEWMAN BOYD 101 FYETE/FAYETTE 12/02/1976 vol 058 cert 28501 — already C667.
+

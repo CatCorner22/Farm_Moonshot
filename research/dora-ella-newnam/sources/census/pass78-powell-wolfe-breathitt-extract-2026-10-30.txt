@@ -1,0 +1,63 @@
+Pass 78 extract — 30 Oct 2026
+1920 Powell T625-596 name columns; Wolfe T625-602 start; Breathitt ED 52;
+1918 Estill DC image Boyd Newman informant; KDI Boyd/Allie.
+
+VARIANTS (search_variants.py + kinship soundex) before query:
+  John × Newman/Newnam/Newnarn/Newan/Noonan/Nunan  Soundex N550
+  Boyd × Newman/Newnam  N550
+  Allie × Newman/Brandenburg/Brandenbur
+  McCoy/Coy × Newman/Newnam  M200 / N550
+  ocr-surname Newman → newnam / newnarn / newan
+  Place: Breathitt / Quicksand / Powell / Stanton / Clay City / Wolfe / Hazel Green / Lee City / Whitley / Station Camp / Leighton / Fayette
+
+=== POWELL T625-596 (image seen) ===
+IA 14thcensusofpopu596unit leaves 1051–1201 downloaded (151 ok; 1202 empty).
+ED 142 Stanton Precinct sh 1A leaf 1051, 13 Jan 1920, George E. [Harrison?]. First Dora-wife already rejected (C656).
+ED 144 Clay City at 1100. ED 178 at 1180.
+Name-column contact sheets 1051–1201: no Newman/Newnam/McCoy / John L+Cora HEAD identified at montage resolution (C658).
+Not every line at full-sheet.
+
+=== WOLFE T625-602 (image seen) ===
+Wayne still at leaf 0368 (ED 268 Mill Springs).
+Wolfe by leaf 0374: Lee City Precinct / Lee City Town.
+Hazel Green Precinct leaf 0380 (ED 236/237, Wesley M. Mead).
+Whitley Williamsburg by leaf 0440 (ED 277).
+Leaves 0368–0440 (73) name-column contact sheets: no Newman/McCoy head identified at this dark-montage resolution (C660).
+
+=== BREATHITT T625-559 ED 52 (image seen) ===
+ED 52 = Quicksand Precinct.
+Leaf 1110 = sh 1A, 3 Jan, enumerator Jane [Allen?].
+Leaf 1127 = sh 18 A.
+Leaf 1128 = sh 19 A, 17 Jan, Joseph [Hendricks?].
+Leaf 1129 = sh 20 A.
+Soundex N-550 John 38 + Jennie (Vol 4 ED 52 sh 19 ln 17) does NOT match 19A line 17
+(diplomatic: [Hensley?/other], Jesse[?] 32 + Lela 32 + children). Slack. Original still not isolated (C662).
+Remaining Breathitt EDs not fully line-read (C663).
+
+=== 1918 ESTILL DC (image seen) ===
+KYGenWeb scan https://kygenweb.net/estill/site/records/death/pages/images/1918_020_09771.jpg
+Registered 9771. Precinct Sta Camp. Decedent [Susananna?] Brandenburg.
+b. 5 Feb 1863. d. 22 Apr 1918. Father David Mays. Mother Serena Richardson.
+Informant Boyd Newman, Leighton. Undertaker Ben Sparkes, Leighton.
+Cause peritonitis; contributory kick in abdomen by cow. Burial 24 Apr 1918.
+Transcript agrees: https://kygenweb.net/estill/site/records/death/pages/images/1918_020_09771.txt
+
+=== KDI (index only) ===
+Only statewide BOYD NEWMAN 1911–1989: age 101, Fayette, 2 Dec 1976, vol 058 cert 28501.
+ALLIE B NEWMAN 94 Fayette 13 Dec 1978 vol 064 cert 31780.
+Other Allie rows rejected on age/county. Certificate images unread.
+Estill compiled 1976 and 1978 death pages: no Newman/Boyd/Allie row.
+
+=== FS R011 step 28 ===
+Seven IDs HTTP 403 Incapsula. Images unread.
+
+=== ACCESS HONESTY ===
+Powell 1051–1201 contact sheets: image seen at montage resolution.
+Wolfe 0368–0440 contact sheets: image seen; dark.
+Breathitt ED 52 1110/1127/1128/1129: image seen.
+1918 DC JPEG: image seen.
+KDI year TXTs: seen.
+Estill 1918/1976/1978 compiled HTML: seen (1918 table is two rows only).
+2004 Tracy obit: WebSearch full-page text seen; live GET 404.
+FS films unread. Newspapers.com / Duell-Clark / cert 17762 / 1926 papers / M1509 unread.
+Authored latest.docx SHA 78cdcf44… not overwritten.

@@ -287,6 +287,68 @@ Exact strings logged **L554–L560**.
 
 Exact strings logged **L561–L572**.
 
+### Pass 78 variant storm (30 Oct 2026)
+
+**John L. Newman / Newnam (1920 Breathitt / Powell / Wolfe)** — John, Jno, John L, Johnnie × Newman/Newnam/Newnarn/Newan/Noonan/Nunan. Soundex **N550**. Age **~41** / Cora / Quicksand / Stanton / Clay City / Hazel Green / Lee City.
+
+**Boyd Newman + Allie Brandenburg** — Boyd × Newman/Newnam. Allie × Newman/Brandenburg/Brandenbur. Soundex **N550**. Station Camp / Leighton / Fayette. Also informant on 1918 Susanna DC.
+
+**McCoy / Coy Newman** — McCoy, Mc Coy, Coy × Newman/Newnam. Soundex **M200** / **N550**.
+
+**OCR surname** — Newman → newnam / newnarn / newan.
+
+**Place** — Breathitt / Quicksand / Powell / Stanton / Clay City / Wolfe / Hazel Green / Lee City / Whitley / Station Camp / Leighton / Fayette.
+
+**Samuel P. Newnam** — films **127913 / 127891 / 127869 / 964964 / 1146342 / 156057 / 97277** (still **403**, R011 step **28**).
+
+Exact strings logged **L573–L585**.
+
+### Pass 79 variant storm (30 Oct 2026)
+
+**Floyd Newnam / Boyd Newman** — Floyd/Floid/Boyd/Boyde × Newman/Newnam/Newnarn/Newan. Soundex **N550**. Age **~23 in 1902** / **~45 in 1920**. Do not merge on first hit.
+
+**Allie A. Brandenburg** — Allie/Alice/Alla × Brandenburg/Brandenbur/Brandenberg/Brandenburgh. Soundex **B653**.
+
+**John L. Newman** — John/Jno/John L/Johnnie × Newman/Newnam/Noonan/Nunan. Breathitt EDs **38–57**.
+
+**McCoy / Coy** — McCoy/Coy × Newman/Newnam. Soundex **M200** / **N550**.
+
+**OCR surname** — Newman → newnam / newnarn / newan. Pennington rejected on 1910 4B (expectation capture).
+
+**Place** — Lee / Estill / Station Camp / Leighton / Breathitt / Quicksand / Noble / Fayette / Campbell (reject).
+
+**Cross-identifier** — cert **28501** / **31780**; delayed birth Arthur **24 Jan 1906** mother Allie Brandenbur; informant Boyd Newman 1918.
+
+**Samuel P. Newnam** — films **127913 / 127891 / 127869 / 964964 / 1146342 / 156057 / 97277** (still **403**, R011 step **29**).
+
+Exact strings logged **L586–L598**.
+
+### Pass 80 variant storm (30 Oct 2026)
+
+**Floyd Newnam / Boyd Newman** — Floyd/Floid/Boyd/Boyde × Newman/Newnam/newnarn/newan. Soundex **N550**. Ages **~22 in 1900 / ~23 in 1902 / ~38 in 1910 / ~45 in 1920**. Do not merge on first hit.
+
+**Allie A. Brandenburg** — Allie/Alice/Alla × Brandenburg/Brandenbur/Brandenberg/Newman. Soundex **B653**.
+
+**Cross-identifier** — 1910 Miracode Vol **33** ED **98** vis **158**; 1900 Sturgeon hh **27/27**; cert **28501** / **31780**; delayed birth Arthur **24 Jan 1906**.
+
+**Place** — Heidelberg / Sturgeon / Station Camp / Leighton / Lee / Estill / Fayette.
+
+**Samuel P. Newnam** — films **127913 / 127891 / 127869 / 964964 / 1146342 / 156057 / 97277** (still **403**, R011 step **30**).
+
+Exact strings logged **L599–L612**.
+
+### Pass 81 variant storm (30 Oct 2026)
+
+**John Newman / Jennie** — John/Jno/Johnnie × Newman/Newnam/newnarn/newan/Noonan/Nunan. Jennie/Jenny. Soundex **N550**. Cross-id Virgil / Freda / Henry 52 / Julie 42. Vol **4** ED **52** sh **19** ln **17**.
+
+**Allie A. Brandenburg** — Allie/Alice/Alla × Brandenburg/Brandenburgh/brandenburi/branenburg. Soundex **B653**. 1900 Sturgeon hh **41/41**.
+
+**Place** — Breathitt / Quicksand / Sturgeon / Lee / ED 52 / ED 23 / ED 56.
+
+**Samuel P. Newnam** — films **127913 / 127891 / 127869 / 964964 / 1146342 / 156057 / 97277** (still **403**, R011 step **31**).
+
+Exact strings logged **L613–L623**.
+
 ## Agent SDK / GitHub channel
 
 Inspected 30 Oct 2026 (**L351**): this repository has **no** `package.json`, **no** `@grok/agent-sdk`, **no** `bot/` directory. GitHub channel `bot/channels/github.ts` is **n/a** and was **not** authored. Project subagent: `.cursor/agents/dora-genealogy-detective.md`.

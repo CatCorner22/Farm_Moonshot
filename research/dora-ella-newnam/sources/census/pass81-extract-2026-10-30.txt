@@ -1,0 +1,80 @@
+Pass 81 extract — 30 Oct 2026
+B088 Breathitt ED 52 remap + Soundex John 38+Jennie card;
+B089 1900 Allie A. Brandenburg hh 41 original;
+B045/B061 FS walls (R011-31).
+
+VARIANTS (search_variants.py + kinship Soundex N550/B653) before query:
+  John / Jno / Johnnie × Newman/Newnam/newnarn/newan/Noonan/Nunan  N550
+  Jennie / Jenny × Newman/Newnam
+  Allie / Alice / Alla × Brandenburg/Brandenburgh/brandenburi/branenburg  B653
+  Virgil / Freda as cross-identifiers
+  Place: Breathitt / Quicksand / Sturgeon / Lee / ED 52
+  Cross-id: Soundex Vol 4 ED 52 sh 19 ln 17; 1900 hh 41/41
+
+=== 1920 KY SOUNDEX N-550 leaf 4474 (image seen) ===
+IA soundex1920ky117
+https://archive.org/details/soundex1920ky117
+Newman, John (head of family)
+  N550  Kentucky  VOL 4  ED 52  SHEET 19  LINE 17
+  W 38  b. Ky  County: Breathitt
+  Other members:
+    Newman, Jennie  W 21 Ky
+    Virgil          S  3 Ky
+    Freda           D  1 Ky
+    Henry           F 52 Ky
+    Julie           M 42 Ky
+Rejected vs John L ~41 + Cora ~26 (wife Jennie not Cora; children Virgil/Freda not Pencie/Robert; parents Henry/Julie in house).
+Neighbor cards 4472 Niemann John Jefferson; 4473 Neumann John 36 Franklin; 4475 Newman John 68 Campbell boarder; 4476 Newman John 31 Boyd roomer — all rejected.
+
+=== BREATHITT T625-559 ED 52 REMAP (image seen) ===
+Pass 78 C661 is WRONG on leaf 1110.
+  Leaf 1110 = Breathitt ED 23 sh 13A, enumerator Irvin Allen — NOT ED 52 sh 1A.
+  Leaf 1116 = Breathitt ED 52 sh 1A, 3 Jan 1920, Joseph [Hendrix?] — ACTUAL ED 52 start.
+  Leaf 1126 = ED 52 sh 6A
+  Leaf 1127 = ED 52 sh 6B
+  Leaf 1128 = ED 52 sh 7A  (pass 78 called this 19A — corrected)
+  Leaf 1129 = ED 52 sh 7B  (pass 78 called this 20A — corrected)
+  Leaf 1130 = ED 52 sh 8A
+  Leaf 1134 = ED 52 (or 53) sh 10A, 29 Jan, same enumerator
+  Leaf 1144 = ED 56 sh 4A, Elliott Croft — ED 52 has ended
+  Leaf 1146 = ED 56 sh 5A
+  Leaf 1152 = ED 56 sh 8A
+ED 52 therefore has no sheet 19. Soundex "sh 19 ln 17" is clerk slack.
+1128 sh 7A ln 17 remains Landon/Jesse-type household — not Newman.
+ED 52 leaves 1116–1136 name columns sampled on montage: no Newman / John+Jennie / Virgil / Freda head isolated. Not every line at full-sheet.
+John 38+Jennie original still not isolated.
+
+=== 1900 LEE STURGEON ED 52 sh 3A leaf 0937 (image seen) ===
+IA 12thcensusofpopu537unit
+https://archive.org/details/12thcensusofpopu537unit
+Precinct 6 Sturgeon. Sheet 3A.
+hh 41/41 diplomatic:
+  Brandenburgh, Oli[ver], head, W M, June 1861, 38, M 19, KY/KY/KY
+  Susan, wife, W F, Feb 1865, 35, M 19, 9-9, KY/KY/KY
+  William B, son, W M, Sept 1883, 16, S
+  Allie A, daughter, W F, Nov 1885, 14, S
+  John S, son, W M, Aug 1887, 12, S
+  Maggie, daughter, W F, Feb 1890, 10, S
+  Rhoda, daughter, W F, May 1892, 8, S
+  David, son, W M, Dec 1894, 5, S
+  Henderson, son, W M, Sept 1896, 3, S
+  Colonel T, son, W M, Dec 1899, [6/12?], S
+Matches compiled USGenNet 1900 Sturgeon hh 41. Original of Allie A. now isolated.
+Same precinct as Boyd boarder hh 27 (C702). Identity of this Allie A. with 1910/1920 Allie still depends on #27.
+
+=== WORKAROUNDS ===
+KYGenWeb Breathitt 1920 births: NEWMAN/NEWNAM 0. FREDA hits = OAKS/BREWER.
+Combs-families Breathitt 1920 extract: no Newman/Newnam/McCoy.
+USGW files.usgwarchives.net/ky/breathitt/census/1920/ timeout (0 bytes).
+FS seven IDs HTTP 403 Incapsula (R011-31). Images unread.
+
+=== ACCESS HONESTY ===
+Soundex 4472–4476: image seen.
+Breathitt headers 1110/1114–1118/1126–1134/1144–1152/1156: image seen (sheet-number crops).
+ED 52 name columns 1116–1143: montage sampled; not every line at full-sheet.
+1900 Sturgeon 0937: image seen (full + hh 41 crop).
+KYGenWeb 1920 births: text seen via WebFetch.
+Combs 1920 Breathitt: search-snippet / prior fetch text seen; no Newman.
+USGW 1920 dir: timeout, not read.
+FS films unread. Book 6 register unread. Certs 28501/31780 unread.
+Authored latest.docx SHA 78cdcf44… not overwritten.

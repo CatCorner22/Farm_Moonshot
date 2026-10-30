@@ -26,6 +26,10 @@
 20. [Pass 75. Estill 1920 — Station Camp first](#pass-75-estill-1920--station-camp-first)
 21. [Pass 76. Station Camp corrected — Boyd and Allie](#pass-76-station-camp-corrected--boyd-and-allie)
 22. [Pass 77. Powell starts at leaf 1050](#pass-77-powell-starts-at-leaf-1050)
+23. [Pass 78. Powell walked; Boyd of Leighton](#pass-78-powell-walked-boyd-of-leighton)
+24. [Pass 79. Floyd married Allie in 1902](#pass-79-floyd-married-allie-in-1902)
+25. [Pass 80. Boyd and Allie in Heidelberg, 1910](#pass-80-boyd-and-allie-in-heidelberg-1910)
+26. [Pass 81. Allie A. on the original, and the John–Jennie card](#pass-81-allie-a-on-the-original-and-the-johnjennie-card)
 
 ---
 
@@ -312,9 +316,65 @@ FamilySearch films 127913, 127891, 127869, 964964, 1146342, 156057, and 97277 re
 
 Wolfe County is on T625-602. The title card at leaf 2 is Kentucky volume 91: Wayne districts 258–275, Wolfe 234–242, then volume 92 Whitley. The Wolfe schedules themselves are unread. [C652] [S439]
 
-Powell County is on T625-596 after Pike. The county card is leaf 1050: districts 142 and 177, 143 to 146, and 178. Pike still occupies leaf 1000. District 142, Stanton Precinct, begins on leaf 1051, 13 January 1920. The first household’s wife is a Dora — not Dora Ella Newnam Stone; the surname is not hers and the age is wrong. Clay City, district 144, is at leaf 1100. District 178 is at leaf 1180. Those name columns are the next walk. [C655] [C656] [C657]
+Powell County is on T625-596 after Pike. The county card is leaf 1050: districts 142 and 177, 143 to 146, and 178. Pike still occupies leaf 1000. District 142, Stanton Precinct, begins on leaf 1051, 13 January 1920. The first household’s wife is a Dora — not Dora Ella Newnam Stone; the surname is not hers and the age is wrong. Clay City, district 144, is at leaf 1100. District 178 is at leaf 1180. [C655] [C656] [C657]
 
-FamilySearch films 127913, 127869, and 1146342 returned 403 again. [C617]
+### Pass 78. Powell walked; Boyd of Leighton
+
+Powell’s name columns, leaves 1051 to 1201, were walked on contact sheets. No Newman, Newnam, or McCoy head — and no John L. with Cora — appears at that resolution. That is a **probable** negative, not a line-by-line county close. [C658] [C673] [S441]
+
+Wolfe starts on the same reel as Wayne. Wayne is still at leaf 368, Mill Springs, district 268. Wolfe is on the film by leaf 374: Lee City Precinct, Lee City Town. Hazel Green Precinct is leaf 380. Whitley — Williamsburg, district 277 — has begun by leaf 440. Those seventy-three leaves were contact-sheeted. No Newman or McCoy head was identified on the dark montages. [C659] [C660] [S442]
+
+Breathitt district 52 is Quicksand. Sheet 1A is leaf 1110, 3 January. Sheet 19A is leaf 1128, 17 January. The Soundex card that already rejected John, thirty-eight, with Jennie points at district 52, sheet 19, line 17. Line 17 on sheet 19A is not that couple. The names at that band read **[Hensley? / other], Jesse[?]**, thirty-two, and **Lela**, thirty-two. The original of the Soundex household is still not isolated. Remaining Breathitt districts are unread. [C661] [C662] [C663] [S443]
+
+On 22 April 1918 a Station Camp woman died whose certificate — registered 9771 — we now have as a scan. The face reads **[Susananna?] Brandenburg**, born 5 February 1863, father David Mays, mother Serena Richardson. The informant is **Boyd Newman**, Leighton. The undertaker is Ben Sparkes, also of Leighton. Cause: peritonitis; contributory, a kick in the abdomen by a cow. Burial 24 April. [C664] [S444]
+
+Boyd Newman of Leighton in 1918 is **probable** the Station Camp head of 1920: same uncommon name, same precinct cluster, two years apart. The certificate does not name Allie. [C665] Susananna is FAN of Allie Brandenburg Newman — **possible** mother or mother-in-law, not merged. Allie was about thirty-five in 1920. [C666]
+
+Kentucky’s statewide death index, 1911–1989, has exactly one **Newman, Boyd**: age 101, Fayette County, 2 December 1976, volume 58, certificate 28501. Age 101 implies a birth about 1875, which matches a man of forty-five in January 1920. **Allie B. Newman**, 94, died in Fayette on 13 December 1978, volume 64, certificate 31780 — a birth about 1884, which matches Allie at thirty-five in 1920. Other Allie Newman rows fail on age or county. Both certificates are unread. Do not print 1976 as Boyd’s proven death. [C667] [C668] [S445]
+
+A compiled 2004 Estill obituary names Tracy Newman, seventy-eight, died 18 February, son of **the late Boyd and Allie Brandenburg Newman**. Living children are withheld. The page text was seen; a live fetch from this machine returned 404. [C669] [S446]
+
+FamilySearch films 127913, 127891, 127869, 964964, 1146342, 156057, and 97277 returned 403 again. [C670] [S447]
+
+### Pass 79. Floyd married Allie in 1902
+
+Lee Marriage Book 6, a compiled USGenNet transcript, has the license we lacked. **Floyd Newnam**, twenty-three, farmer, first marriage, of Lee County, married **Allie A. Brandenburg**, eighteen, first marriage, of Lee County, on 31 July 1902, at “my house,” by A. J. Marcum. The witnesses were Elizabeth Webb and Edna Marcum. That row is **proven** as a compiled sentence. The register image is unread. [C677] [C678] [S449]
+
+The same book has **Boyde Newnam** as a witness on 13 October 1900 at Scott Mays’ house. Books 4, 5, and 7 have no Boyd Newman groom. [C680] [C681] [S450]
+
+Floyd of 1902 is **not merged** with Boyd of 1920. The wife’s name, the Lee–Estill cluster, Arthur’s 1906 delayed birth, and Allie’s ages line up. The given names do not — Floyd versus Boyd — and the ages are about four years apart. Under the same-person rule that is a contradiction. **Possible** only. Do not print Floyd as Boyd. [C679] [#27]
+
+Kentucky’s death index, 1939–1989, has no Floyd Newman born about 1879. The only given-name Floyd is Floyd W., sixty-two, Campbell County, 10 August 1971 — born about 1909, rejected. [C682] [S451]
+
+The 1910 Estill reel is T624-472. Station Camp, district 48, begins at leaf 481, sheet 1A. Sampled sheets through 17A do not isolate a Floyd or Boyd household with Allie. A look-alike on sheet 4B, line 71, is **Pennington, John**, twenty-seven. Remaining district 48 sheets are unread. [C683] [C684] [C685] [S452] [S453]
+
+Breathitt’s 1920 name columns, leaves 840 to 1176, were walked on contact sheets. District 41 starts at leaf 896, sheet 1A — not 901, which is sheet 2B. No Newman, Newnam, or McCoy head, and no John L. with Cora, appears at montage resolution. That is a **probable** negative, not a line-by-line county close. [C688] [C690] [C691] [S454]
+
+FamilySearch films 127913, 127891, 127869, 964964, 1146342, 156057, and 97277 returned 403 again. [C694] [S456]
+
+### Pass 80. Boyd and Allie in Heidelberg, 1910
+
+The 1910 Kentucky Miracode card we lacked is on Internet Archive `soundex1910ky124`, leaf 251. **Newman, Boyd**, of Lee County, volume 33, district 98, visitation 158: wife **Allie**, twenty-six; **Sarah**, six; **Arthur**, four; **Carlos**, three; **Clarence**, age not recorded. The card says Boyd is twenty-eight. That age is slack. [C697] [C699] [S457]
+
+The original schedule is Heidelberg precinct, district 98, sheet 8A — leaf 536 of T624-478. Dwelling 157, family 158: **Newman, Boyd**, thirty-eight, married seven years; **Allie**, twenty-eight, four children born and four living; a daughter **S[arah?]**, six; **Arthur**, four; **Carlos**, three; **Clarence**, one. They are farmers or laborers, all born Kentucky. [C698] [S458]
+
+Those four children are the 1920 Station Camp children. Carlos is Corlue. The household moved from Heidelberg, Lee County, to Station Camp, Estill County, between April 1910 and the 1918 Leighton informant line. Same wife, same four names, same birth order. **Proven** one household. They are not John L. and Cora. [C700] [C714] [C716]
+
+There is no Floyd Newman head on the 1910 Kentucky N-550 F-window. [C701] [S459]
+
+On 1 June 1900, on Sturgeon sheet 2B, **Newman, Boyd**, boarder, born March 1878, twenty-two, single, day laborer, lives in Allen Sams’s house — household 27, two doors from a Brandenburg hired hand and in the same precinct as compiled **Allie A. Brandenburg**, fourteen, daughter of Oliver. [C702] [C703] [C710] [S460] [S461]
+
+Floyd of 1902 is **still not merged** with this Boyd. The alignments are stronger: Allie A., the same 1900 precinct, no Floyd head in 1910, children starting about 1904, seven years married by April 1910. The contradictions remain: Floyd versus Boyd, and age twenty-three in 1902 versus thirty-eight in 1910. **Possible** only. Do not print Floyd as Boyd. [C711] [#27]
+
+### Pass 81. Allie A. on the original, and the John–Jennie card
+
+The compiled 1900 Allie A. row is now an original. Sturgeon sheet 3A, leaf 937, household 41: **Brandenburgh, Oliver**, June 1861, thirty-eight, married nineteen years; **Susan**, February 1865, thirty-five, nine children born and nine living; **Allie A.**, daughter, November 1885, fourteen; then William B., John S., Maggie, Rhoda, David, Henderson, and Colonel T. That is **proven**. She is **probable** the 1902 bride. Whether she is Boyd’s 1910 wife still hangs on conflict #27. [C722] [C723] [S467]
+
+The 1920 Soundex card for John of Breathitt is now readable in full. Newman, John, thirty-eight, volume 4, district 52, sheet 19, line 17: wife **Jennie**, twenty-one; **Virgil**, three; **Freda**, one; **Henry**, fifty-two, father; **Julie**, forty-two, mother. That card is **proven**. He is **not** John L. of Owsley. [C717] [C730] [S466]
+
+District 52 does not start where pass 78 said. Leaf 1110 is district 23, sheet 13A. District 52 starts at leaf 1116, sheet 1A. Leaf 1128 is sheet 7A, not 19A. District 52 has no sheet 19 — district 56 is already on the film by leaf 1144. The Soundex sheet number is slack. The original household is still not isolated. [C718] [C719] [C720] [C721] [C728] [S468]
+
+Certificates 28501 and 31780 are still unread. SortedByName has no Boyd Newman page and no Kentucky Floyd born about 1878–79 who belongs here. FamilySearch films returned 403 again. [C706] [C707] [C708] [C709] [S462] [S463]
 
 In Madison County in 1950 a **Dewey** Newman, twenty-six, is not David F. or Frank of Berea. [C522] **Shelly** Newman, fifty-seven, and **Grace**, fifty-one, of Richmond are **probable** Shelby and Grace Brandenburg. [C523] They are not the contractor. A 1958 David G. Newman, seventy, of Madison remains **possible** only. [C473]
 
@@ -390,10 +450,10 @@ Charts of pedigree, descendants, and lifespan follow the plates. Dashed lines me
 - **B049 / B058:** 1926 *Beattyville Enterprise*, *Yell County Journal*, *Danville Democrat*, and *Dardanelle Post-Dispatch* still unread. Free catalogs closed (R010 steps 1–18). [C293] [C301] [C343] [C346]
 - **B045 / B061 / B065:** Samuel P. probate and court-order **images** unread. Catalog IDs locked: FS **127913 / 127891 / 127869 / 964964 / 156057 / 97277**. October 1887 claims **nil**. KHS/KDLA film unread. [C360] [C361] [C374] [C375]
 - **B047 / B069:** M1509 **KY45/24/74** and FS **1146342** Lee WWI cards unread. Estill WWI page empty; GT Estill/Owsley **404**. [C367]
-- **FAN residual:** Frank of Berea (B055) — 1900 David F. **possible**; 1958 David G. Madison **possible** only (**C473**); 1950 Dewey 26 **rejected** (**C522**); not merged with Grant (#20) or 1928 St. Helens Frank (#22); John of Owsley is **PROVEN** through 1930/1940/1950 (**C557**) and **absent** from **entire 1920 Owsley** (**C611**), published Lee 1920 (**C612**), and **absent as a couple** from 1920 Estill (**C643**; Station Camp **nil withdrawn** — Boyd+Allie **C634 C635**); 1966 Woodford death **probable**, not proven (**#26**); McCoy 40 on Buck Creek 1930 **PROBABLE** P010 (**C562**); 1920 Owsley / 1940/1950 Owsley McCoy head **nil** (**C611 C574 C575**); **447-20-2466** not merged (**C576**); Barney McCoy Newman of AR **rejected** (**C618**); 1918 Robert / Cora Brandenburg **probable** their son (**C614**); 1942 Combs charge **possible** authored only (**C619**); Daniel × Sarah M./Minerva are **probable** Everett’s parents (**C456/C485**, **#24**); 1930 Everett **KYVAKY** (**C530**); Daniel’s license still unread after TFKRHA 1843–80 **nil** (B079); Melissa ~1876 unread (B078); Grant 21 vs David F. unread (B081); William × Katherine license (B064); two William lines (B071); Herman Estes of Brasstown (B067); Frankie Jones / Mary Peters (B068); Carter Cove stone photographs (B054). **Done this increment:** Estill 1920 couple-close; Boyd+Allie Station Camp; Jackson contact-sheet; Powell mapped; Arthur delayed birth. **Done earlier:** 1920 Owsley county (**B086**); Arthur 45 Island Creek only Newman. **Closed earlier:** 1880 Daniel house; Lillie **12 Jan 1915**; Sarah M. Evans **15 Sep 1936**; Grant **9 Dec 1970**; 1920 Heidelberg; Fred L. 1961; Callie Spicer **5 Nov 1961**; Kate = Katherine Sternberg. Luther, Shelby × Grace, and Melissa Estes Miller **11 Apr 1957** remain **closed**.
+- **FAN residual:** Frank of Berea (B055) — 1900 David F. **possible**; 1958 David G. Madison **possible** only (**C473**); 1950 Dewey 26 **rejected** (**C522**); not merged with Grant (#20) or 1928 St. Helens Frank (#22); John of Owsley is **PROVEN** through 1930/1940/1950 (**C557**) and **absent** from **entire 1920 Owsley** (**C611**), published Lee 1920 (**C612**), **absent as a couple** from 1920 Estill (**C643**; Station Camp **nil withdrawn** — Boyd+Allie **C634 C635**), and **absent** Powell/Wolfe contact sheets (**C658 C673**) and Breathitt **0840–1176** contact sheets (**C690 C691**); **1910 Heidelberg Boyd 38 + Allie 28 + four children = 1920 Station Camp — PROVEN (C700)**; 1900 Boyd boarder **Mar 1878** **PROVEN (C702)**; 1902 Floyd×Allie license **proven** as compiled, **still not merged** with Boyd (**#27**, **C711**); 1966 Woodford death **probable**, not proven (**#26**); McCoy 40 on Buck Creek 1930 **PROBABLE** P010 (**C562**); 1920 Owsley / 1940/1950 Owsley McCoy head **nil** (**C611 C574 C575**); **447-20-2466** not merged (**C576**); Barney McCoy Newman of AR **rejected** (**C618**); 1918 Robert / Cora Brandenburg **probable** their son (**C614**); 1942 Combs charge **possible** authored only (**C619**); Daniel × Sarah M./Minerva are **probable** Everett’s parents (**C456/C485**, **#24**); 1930 Everett **KYVAKY** (**C530**); 1910 ED **98** Rissie servant 15 **possible** P013, **not merged** (**C713** / B016); Daniel’s license still unread after TFKRHA 1843–80 **nil** (B079); Melissa ~1876 unread (B078); Grant 21 vs David F. unread (B081); William × Katherine license (B064); two William lines (B071); Herman Estes of Brasstown (B067); Frankie Jones / Mary Peters (B068); Carter Cove stone photographs (B054). **Done this increment:** 1910 Heidelberg Boyd+Allie original; 1900 Boyd boarder original; Floyd 1910 Soundex nil. **Done earlier:** Powell 1051–1201 contact-sheet; Wolfe start mapped; Breathitt ED 52 / 0840–1176; 1918 Boyd informant; Estill 1920 couple-close; Boyd+Allie Station Camp; Jackson contact-sheet; 1920 Owsley county (**B086**). **Closed earlier:** 1880 Daniel house; Lillie **12 Jan 1915**; Sarah M. Evans **15 Sep 1936**; Grant **9 Dec 1970**; 1920 Heidelberg; Fred L. 1961; Callie Spicer **5 Nov 1961**; Kate = Katherine Sternberg. Luther, Shelby × Grace, and Melissa Estes Miller **11 Apr 1957** remain **closed**.
 - Greene 37–43 Stone sweep is **closed**. Do not reopen Peebles as a third marriage without a license. Do not print 1868 or 24 February 1906 as facts. Do not print Grant as dead in 1951–1955. Do not print “Sarah Minerva” as a proven dual given. Do not print 1966 as John’s death. Do not print 1962 as McCoy’s death. Do not print the 1942 Combs charge as fact.
 
-The next session starts with **B088** remaining Breathitt T625-**559** name columns, then Powell T625-**596** (from leaf **1051**) and Wolfe T625-**602** EDs **234–242**. Then **B089** Boyd × Allie, **B045** (FS **127913 / 127891**) and **B061** (**127869 / 964964**), **B087** 1942 Combs charge, **B069/B047**, **B082** Duell-Clark / cert **17762**, **B083**, **B085** McCoy after 1930 (447-20-2466 not merged; Barney McCoy AR rejected), **B080** *Citizen* 1958, **B079**, **B055/B081**, **B049/B058**.
+The next session starts with **B088** Breathitt full-sheet residuals + John 38+Jennie original (ED **52** has no sheet 19), Powell/Wolfe full-sheet residuals, **B045** (FS **127913 / 127891**) and **B061** (**127869 / 964964**), **B089** residual Book 6 register + certs **28501 / 31780**, **B087** 1942 Combs charge, **B069/B047**, **B082** Duell-Clark / cert **17762**, **B083**, **B085** McCoy after 1930 (447-20-2466 not merged; Barney McCoy AR rejected), **B016** Rissie 15 servant 1910 (not merged), **B080** *Citizen* 1958, **B079**, **B055/B081**, **B049/B058**.
 
 ---
 
@@ -496,6 +556,22 @@ Numbered notes expand the claim/source tags in the narrative. Access labels: *im
 93. 1920 Jackson T625-577, IA [`14thcensusofpopu577unit`](https://archive.org/details/14thcensusofpopu577unit): Vol **41** EDs **17–28**. ED **17** McKee 2 Jan. Contact sheets **0003–0224** **nil** Newman/McCoy head (montage). Breathitt T625-559 ED **41** at leaf **0901**. *Image seen* (headers). **C644–C647** **S436** **S437**.
 94. SCGS Estill delayed births: **NEWMAN, Arthur**, **24 Jan 1906**, mother **Allie Brandenbur**, vol **240** cert **49665**. [estill-ok.pdf](http://www.scgs-ky.org/delbrth/estill-ok.pdf). *Compiled index.* **PROBABLE** Soundex Arthur 13. Allie ≠ Cora. **C650 C651** **S438**.
 95. 1920 Wolfe T625-602 title leaf **0002** Vol **91** EDs **234–242**. Powell T625-596 card leaf **1050**; ED **142** starts **1051**. IA [`14thcensusofpopu602unit`](https://archive.org/details/14thcensusofpopu602unit) · [`14thcensusofpopu596unit`](https://archive.org/details/14thcensusofpopu596unit). *Image seen.* **C652 C655–C657** **S439**. FS seven IDs **403** (R011-27). **C648** **S440**.
+96. Same Powell reel, leaves **1051–1201** name-column contact sheets: **nil** Newman/McCoy / John L+Cora head (montage). Wolfe starts leaf **0374** Lee City; Hazel Green **0380**; Whitley **0440**. Contact sheets **0368–0440** **nil** at dark-montage resolution. **C658–C660 C673** **S441** **S442**.
+97. Breathitt ED **52** Quicksand: sh **1A** leaf **1110**; sh **19 A** leaf **1128**. Soundex sh **19** ln **17** slack vs 19A. IA [`14thcensusofpopu559unit`](https://archive.org/details/14thcensusofpopu559unit). *Image seen.* **C661 C662 C663** **S443**.
+98. Estill death certificate registered **9771**, 22 Apr 1918: **[Susananna?] Brandenburg**, Station Camp; informant **Boyd Newman**, Leighton. [Certificate scan](https://kygenweb.net/estill/site/records/death/pages/images/1918_020_09771.jpg) · [transcript](https://kygenweb.net/estill/site/records/death/pages/images/1918_020_09771.txt). *Image seen.* **C664 C665 C666** **S444**.
+99. KDI **NEWMAN, BOYD** 101 Fayette **2 Dec 1976** vol **058** cert **28501**; **ALLIE B** 94 Fayette **13 Dec 1978** vol **064** cert **31780**. *Index only.* **POSSIBLE**. Compiled 2004 Tracy obit names the late Boyd and Allie Brandenburg Newman. Living children withheld. FS seven IDs **403** (R011-28). **C667–C670 C669** **S445** **S446** **S447**.
+100. Lee Marriage Book **6** compiled: **Floyd NEWNAM** 23 × **Allie A. BRANDENBURG** 18, **31 Jul 1902**, A. J. Marcum. [marrbook6.html](https://usgennet.org/usa/ky/county/lee/marriage/marrbook6.html). *Compiled HTML. Register unread.* **Not merged** with 1920 Boyd (#27). Books **4/5/7** nil Boyd Newman groom. **C677–C681 C696** **S449** **S450**.
+101. KDI given-name **FLOYD NEWMAN** 1939–89: only **FLOYD W** 62 Campbell **10 Aug 1971** — **rejected**. **C682** **S451**.
+102. 1910 Estill T624-472, IA [`13thcensus1910po472unit`](https://archive.org/details/13thcensus1910po472unit): Station Camp ED **48** starts leaf **0481** sh **1A**. Sampled sheets **nil** isolated Floyd/Boyd+Allie house. Sh **4B** ln **71** **Pennington, John** 27 rejected. *Image seen.* **C683–C686** **S452** **S453**.
+103. 1920 Breathitt T625-559 leaves **0840–1176** name-column contact sheets **nil** Newman/McCoy / John L+Cora head (montage). ED **41** starts **0896** sh **1A**. IA [`14thcensusofpopu559unit`](https://archive.org/details/14thcensusofpopu559unit). *Image seen.* FS seven IDs **403** (R011-29). **C688–C694** **S454** **S456**.
+104. 1910 KY Miracode N-550 leaf **0251**: **Newman, Boyd**, Lee, Vol **33**, ED **98**, vis **158**, W **28**; Allie 26; Sarah 6; Arthur 4; Carlos 3; Clarence NR. IA [`soundex1910ky124`](https://archive.org/details/soundex1910ky124). *Image seen.* Age 28 slack vs original 38. **C697** **C699** **S457**.
+105. 15 Apr 1910 Lee ED **98** Heidelberg sh **8A** leaf **0536** dw **157** / fam **158**: **Newman, Boyd**, 38, + **Allie**, 28, m **7**, **4-4**, + S[arah?] 6 + Arthur 4 + Carlos 3 + Clarence 1. IA [`13thcensus1910po478unit`](https://archive.org/details/13thcensus1910po478unit). *Image seen.* **Same household as 1920 Station Camp — PROVEN (C700).** Carlos = Corlue **PROBABLE**. Not John L+Cora. Homs, Boyd 33 on leaf **0534** rejected. **C698** **C700** **C704** **C714** **C716** **S458** **S464**.
+106. 1 Jun 1900 Lee ED **52** Sturgeon sh **2B** ln **54**: **Newman, Boyd**, boarder, **Mar 1878**, 22, S, KY/KY/KY, day laborer, Allen Sams hh **27**. IA [`12thcensusofpopu537unit`](https://archive.org/details/12thcensusofpopu537unit). *Image seen.* Compiled [1900sturgeon](https://usgennet.org/usa/ky/county/lee/census/1900/1900sturgeon.html) agrees; compiled Allie A. 14 in Oliver BRANDENBURGH hh **41** — original of 41 **not isolated**. **C702** **C703** **C710** **S460** **S461**.
+107. No Floyd Newman 1910 KY N-550 head (F-window leaves **274–276**). Floyd 1902 **still not merged** with Boyd (#27) — **POSSIBLE** only. SortedByName [floyd_newman.html](https://sortedbyname.com/letter_n/newman/floyd_newman.html) no KY Lee/Estill ~1878; no boyd_newman.html. Certs **28501 / 31780** unread. FS seven IDs **403** (R011-30). 1910 ED **98** sh **6A** **Newman, Rissie**, servant, 15 — **POSSIBLE** Dora’s daughter, **not merged**. **C701** **C706–C709** **C711** **C713** **S459** **S462** **S463** **S465**.
+108. 1 Jun 1900 Lee ED **52** Sturgeon sh **3A** leaf **0937** hh **41/41**: **Brandenburgh, Oli[ver]**, June 1861, 38, m 19; **Susan**, Feb 1865, 35, 9-9; **Allie A.**, Nov 1885, 14. IA [`12thcensusofpopu537unit`](https://archive.org/details/12thcensusofpopu537unit). *Image seen.* **C722** **C723** **S467**.
+109. 1920 KY Soundex N-550 leaf **4474**: **Newman, John**, Breathitt, Vol **4**, ED **52**, sh **19**, ln **17**, W **38**; Jennie 21; Virgil 3; Freda 1; Henry 52; Julie 42. IA [`soundex1920ky117`](https://archive.org/details/soundex1920ky117). *Image seen.* **Rejected** vs John L. **C717** **C730** **S466**.
+110. T625-559 remap: leaf **1110** = ED **23** sh **13A**; ED **52** starts **1116** sh **1A**; leaf **1128** = sh **7A** not 19A; ED **52** has **no sheet 19**. IA [`14thcensusofpopu559unit`](https://archive.org/details/14thcensusofpopu559unit). *Image seen.* Original of the Soundex house **not isolated**. **C718–C721** **C728** **S468** **S469**.
+111. FS seven IDs **403** (R011-31). KYGenWeb Breathitt 1920 births **NEWMAN/NEWNAM 0**. Combs Breathitt 1920 **nil** Newman. USGW 1920 dir **timeout**. **C724–C727** **S470–S473**.
 
 ---
 
@@ -590,5 +666,38 @@ Working table of **saved local copies**. Full file list: [`../SOURCE-INDEX.md`](
 | S438 | `../sources/vital/estill-delayed-births-scgs.pdf` | [SCGS delayed births](http://www.scgs-ky.org/delbrth/estill-ok.pdf) | Arthur Newman 24 Jan 1906 / Allie Brandenbur | compiled index |
 | S439 | `../sources/census/powell-1920-1050-county-card.jpg` · Wolfe title | [IA T625-596](https://archive.org/details/14thcensusofpopu596unit) · [T625-602](https://archive.org/details/14thcensusofpopu602unit) | Powell card 1050; Wolfe EDs 234–242 | image seen |
 | S440 | `../sources/catalog/pass76-fs-403-access-2026-10-30.txt` | FamilySearch catalog | FS seven IDs HTTP 403 (R011-27) | catalog |
+| S441 | `../sources/census/powell-1920-1051-ed142-stanton-sh1a.jpg` | [IA T625-596](https://archive.org/details/14thcensusofpopu596unit) | Powell 1051–1201 contact-sheet nil | image seen |
+| S442 | `../sources/census/wolfe-1920-0374-leecity.jpg` | [IA T625-602](https://archive.org/details/14thcensusofpopu602unit) | Wolfe start 0374 Lee City | image seen |
+| S443 | `../sources/census/breathitt-1920-ed52-1110-quicksand-sh1a.jpg` | [IA T625-559](https://archive.org/details/14thcensusofpopu559unit) | Breathitt ED 52 Quicksand | image seen |
+| S444 | `../sources/vital/estill-1918-susanna-brandenburg-cert9771.jpg` | [KYGenWeb scan](https://kygenweb.net/estill/site/records/death/pages/images/1918_020_09771.jpg) | 1918 DC 9771 Boyd Newman informant | image seen |
+| S445 | `../sources/vital/kdi-boyd-allie-newman-pass78-extract-2026-10-30.txt` | Reclaim The Records | Boyd 1976 / Allie B 1978 Fayette | index only |
+| S446 | `../sources/vital/estill-2004-obits-tracy-newman-extract-2026-10-30.txt` | KYGenWeb Estill | Compiled Tracy 2004 parents | compiled |
+| S447 | `../sources/catalog/pass78-fs-403-access-2026-10-30.txt` | FamilySearch | FS seven IDs HTTP 403 (R011-28) | catalog |
+| S448 | Estill marriages landing | KYGenWeb Estill | Boyd × Allie license unread (pre-Book 6) | catalog |
+| S449 | `../sources/vital/lee-marr-book6-pass79-extract-2026-10-30.txt` | [Lee Book 6](https://usgennet.org/usa/ky/county/lee/marriage/marrbook6.html) | Floyd × Allie A. Brandenburg 31 Jul 1902 | compiled HTML |
+| S450 | `../sources/vital/lee-marr-books457-pass79-newman-extract-2026-10-30.txt` | USGenNet Lee Books 4/5/7 | Nil Boyd Newman groom | compiled HTML |
+| S451 | `../sources/vital/kdi-floyd-newman-pass79-extract-2026-10-30.txt` | Reclaim The Records | Floyd W 1971 rejected | index only |
+| S452 | `../sources/census/estill-1910-ed48-0481-stationcamp-sh1a.jpg` | [IA T624-472](https://archive.org/details/13thcensus1910po472unit) | Station Camp ED 48 starts 0481 | image seen |
+| S453 | `../sources/census/estill-1910-ed48-0488-pennington-john-reject.jpg` | [IA T624-472](https://archive.org/details/13thcensus1910po472unit) | Pennington John 27 rejected | image seen |
+| S454 | `../sources/census/breathitt-1920-ed41-0896-sh1a.jpg` | [IA T625-559](https://archive.org/details/14thcensusofpopu559unit) | ED 41 starts 0896; 0840–1176 contact-sheet nil | image seen |
+| S455 | `../sources/catalog/us-census-ky-pass79-no-1920-transcripts-2026-10-30.txt` | [us-census.org](https://www.us-census.org/pub/usgenweb/census/ky/breathitt/) | No 1920 Breathitt/Estill/Powell transcripts | catalog |
+| S456 | `../sources/catalog/pass79-fs-403-access-2026-10-30.txt` | FamilySearch | FS seven IDs HTTP 403 (R011-29) | catalog |
+| S457 | `../sources/soundex/ky1910-n550-p0251-boyd-allie-lee-ed98.jpg` | [IA T1266](https://archive.org/details/soundex1910ky124) | Boyd 28 + Allie Lee ED 98 vis 158 | image seen |
+| S458 | `../sources/census/lee-1910-ed98-0536-heidelberg-sh8a.jpg` · hh158 crop | [IA T624-478](https://archive.org/details/13thcensus1910po478unit) | Boyd 38 + Allie 28 Heidelberg fam 158 | image seen |
+| S459 | `../sources/soundex/ky1910-n550-p0274-f-window-no-floyd.jpg` | [IA T1266](https://archive.org/details/soundex1910ky124) | No Floyd Newman 1910 KY head | image seen |
+| S460 | `../sources/census/lee-1900-ed52-0936-sturgeon-sh2b.jpg` · hh27 continued | [IA T623-537](https://archive.org/details/12thcensusofpopu537unit) | Boyd boarder Mar 1878 age 22 | image seen |
+| S461 | `../sources/census/lee-1900-sturgeon-boyd-allie-pass80-extract-2026-10-30.txt` | [USGenNet 1900 Sturgeon](https://usgennet.org/usa/ky/county/lee/census/1900/1900sturgeon.html) | Compiled Boyd boarder + Allie A. 14 | compiled HTML |
+| S462 | `../sources/vital/sortedbyname-floyd-newman-pass80-extract-2026-10-30.txt` | [SortedByName Floyd](https://sortedbyname.com/letter_n/newman/floyd_newman.html) | No KY Floyd ~1878; no boyd_newman.html | index only |
+| S463 | `../sources/catalog/pass80-fs-403-access-2026-10-30.txt` | FamilySearch | FS seven IDs HTTP 403 (R011-30) | catalog |
+| S464 | `../sources/census/lee-1910-ed98-0534-homs-boyd-reject.jpg` | [IA T624-478](https://archive.org/details/13thcensus1910po478unit) | Homs Boyd 33 rejected | image seen |
+| S465 | `../sources/census/pass80-1910-lee-ed98-boyd-extract-2026-10-30.txt` | This session | Pass 80 extract | extract |
+| S466 | `../sources/soundex/ky1920-n550-p4474-john-jennie-breathitt.jpg` | [IA Soundex](https://archive.org/details/soundex1920ky117) | John 38 + Jennie 21 Breathitt card | image seen |
+| S467 | `../sources/census/lee-1900-ed52-0937-sturgeon-sh3a.jpg` · hh41 crop | [IA T623-537](https://archive.org/details/12thcensusofpopu537unit) | Oliver + Allie A. Nov 1885 age 14 | image seen |
+| S468 | `../sources/census/breathitt-1920-ed52-1116-sh1a.jpg` | [IA T625-559](https://archive.org/details/14thcensusofpopu559unit) | ED 52 starts 1116 sh 1A | image seen |
+| S469 | `../sources/census/breathitt-1920-ed52-1128-sh7a.jpg` | [IA T625-559](https://archive.org/details/14thcensusofpopu559unit) | Leaf 1128 = sh 7A not 19A | image seen |
+| S470 | `../sources/catalog/pass81-fs-403-access-2026-10-30.txt` | FamilySearch | FS seven IDs HTTP 403 (R011-31) | catalog |
+| S471 | `../sources/vital/breathitt-1920-births-newman-nil-2026-10-30.txt` | [KYGenWeb 1920 births](https://kygenweb.net/breathitt/births_deaths/1920.html) | Breathitt 1920 births NEWMAN 0 | transcription only |
+| S472 | Combs Breathitt 1920 | [Combs 1920](https://www.combs-families.org/combs/records/ky/breathitt/1920.htm) | Nil Newman/McCoy | transcription only |
+| S473 | `../sources/census/pass81-extract-2026-10-30.txt` | This session | Pass 81 extract | extract |
 
 Embedded plates live in `plates/` and `../sources/census/`. Charts: [`../visuals/pedigree-dora.svg`](../visuals/pedigree-dora.svg), [`../visuals/timeline-dora.svg`](../visuals/timeline-dora.svg).

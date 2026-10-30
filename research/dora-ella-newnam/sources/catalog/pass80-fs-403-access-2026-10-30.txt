@@ -1,0 +1,10 @@
+Pass 80 FS catalog access — 30 Oct 2026
+R011 step 30. GET https://www.familysearch.org/search/catalog/{id}
+127913 403
+127891 403
+127869 403
+964964 403
+1146342 403
+156057 403
+97277 403
+Images unread. Do not re-ask. Retrieval: FS sign-in browse 127869 then 127913.

@@ -557,5 +557,60 @@ Pass 2: Boyd and Allie clear on both original and card. Slack: Soundex “sheet 
 ### Normalised reading
 Boyd Newman, 45, and wife Allie, 35, with at least five children named on the Soundex card and more on the B-side, lived in Station Camp precinct on 26 January 1920. They are not John L. Newman and Cora Brandenburg.
 
+## DOC010 — 1918 Estill death certificate registered 9771 (image seen)
+
+Local file: `sources/vital/estill-1918-susanna-brandenburg-cert9771.jpg` (KYGenWeb scan of the registered certificate). SHA-256 computed at save. Transcript: `estill-1918-susanna-brandenberg-cert9771.txt`.
+
+Diplomatic (selected fields; handwriting marked):
+> County **Estill** · Voting precinct **Sta Camp** · Registered **9771**  
+> Full name: **[Susananna?] Brandenburg**  
+> Female · White · Married  
+> Date of birth: **February 5, 1863** · Age **55** yrs **2** mos. **16** ds.  
+> Occupation: **House Keeping** · Birthplace: **Kentucky**  
+> Father: **David Mays** · Father’s birthplace: **Kentucky**  
+> Mother: **Serena Richardson** · Mother’s birthplace: **Kentucky**  
+> Informant: **Boyd Newman** · Address: **Leighton**  
+> Date of death: **April 22, 1918**  
+> Cause: **Peritonitis** · Contributory: **Kick in abdomen by cow**  
+> Undertaker: **Ben Sparkes** · **Leighton** · Burial **4/24/1918**  
+> Filed **4/25/1918** · Registrar **R. B. Kelly**
+
+Pass 2: Informant **Boyd Newman** and precinct **Sta Camp** are clear. Given name of decedent capped **[Susananna?]** vs compiled **Susanna**. → **C664 C665 C666** / **S444**.
+
+## DOC011 — Lee Marriage Book 6 compiled (Floyd × Allie) + 1910 Pennington reject
+
+**Inventory:** `sources/vital/lee-marr-book6-pass79-extract-2026-10-30.txt` (compiled HTML, derivative). `sources/census/estill-1910-ed48-0488-ln71-pennington-zoom.jpg` (image seen).
+
+### Diplomatic (compiled Book 6)
+> Floyd NEWNAM & Allie A. BRANDENBURG Husband: age: 23, residence: Lee Co KY, farmer, 1st marriage Wife: age: 18, residence: Lee Co KY, 1st marriage md: 31 Jul 1902 at my house, by A. J. Marcum witnesses: Elizabeth Webb & Edna Marcum
+
+### Diplomatic (0488 ln 71)
+> **Pennington, John** Head M W **27** M1 …
+
+Pass 2: surname **Pennington** not Newman (P- vs N-; -ington ending). → **C677 C685** / **S449 S453**.
+
+## DOC012 — 1910 Lee ED 98 Heidelberg fam 158 + 1900 Sturgeon Boyd boarder
+
+**Inventory:** `sources/census/lee-1910-ed98-0536-heidelberg-sh8a.jpg` · `lee-1910-ed98-0536-boyd-allie-names-zoom.jpg` · `sources/soundex/ky1910-n550-p0251-boyd-allie-lee-ed98.jpg` · `sources/census/lee-1900-ed52-0936-hh27-continued.jpg` (images seen).
+
+### Diplomatic (1910 sh 8A dw 157 / fam 158, lines 33–38)
+> **Newman, Boyd** Head M W **38** M **7** Kentucky Kentucky Kentucky  
+> **—— Allie** Wife F W **28** M **7** **4-4** Kentucky Kentucky Kentucky  
+> **—— S[arah?]** Daughter F W **6** S Kentucky Kentucky Kentucky  
+> **—— Arthur** Son M W **4** S Kentucky Kentucky Kentucky  
+> **—— Carlos** Son M W **3** S Kentucky Kentucky Kentucky  
+> **—— Clarence** Son M W **1** S Kentucky Kentucky Kentucky
+
+### Diplomatic (Miracode leaf 0251)
+> LEE N550 NEWMAN BOYD H W **28** KY · ALLIE W 26 · SARAH D 6 · ARTHUR S 4 · CARLOS S 3 · CLARENCE S NR · Vol **033** ED **098** vis **0158**
+
+### Diplomatic (1900 sh 2B ln 54)
+> **Newman, Boyd** Boarder M W **Mar 1878** **22** S Kentucky Kentucky Kentucky Day Laborer
+
+Pass 2: 1910 surname **Newman** (not Homs — that reject is sh 7A ln 9). Wife **Allie** not Cora. Daughter first letter **S**. Soundex age **28** vs schedule **38**. → **C697 C698 C699 C700 C702** / **S457 S458 S460**.
+
+### Normalised reading
+Susananna (or Susanna) Brandenburg died at Station Camp on 22 April 1918. Boyd Newman of Leighton was the informant. He is probable the 1920 Station Camp head. Relationship to Allie is not stated.
+
 ## DOC009 — 1910 TN Soundex N-550 McCoy window (nil)
 Handwritten family/individual cards n2461–n2469. Sequence after Mary C (n2460): Mary D 49 Jefferson (son Layton 11); Mary M 70 Hamilton; Mek. G 50 Cheatham (Florence 19, John 17, General 16, Frances 13, William 10, Doria 6, Luther 1½); Melvin 3½ Giles (gs of Deacon George W); Melvin 54 Giles (SIL of same); Minerva 80 Robertson (gds Lona Neely, Nellie Erwin); Minnie 21 Roane (with Sam P. Sparks); Mitchell 27 Hardin (Ollie P 25, Gladys 4, Burl W 3, Royal E 1 9/12). **No McCoy.** SHA-256 n2463 `23610f8aa4c159b1b554ed1786d11f57d2f56f8a2e8994f7289ae7bd02dfca53`; n2469 `340489566090880388fa6b81ca5751c5944dcaf56a7b44f70fe560788f308586`.

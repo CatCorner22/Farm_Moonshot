@@ -1,0 +1,14 @@
+Pass 78 KDI extract — 30 Oct 2026
+Source: Reclaim The Records Kentucky Death Index annual TXTs (local /tmp/dora65/rtr/)
+Exact strings: NEWMAN + given BOYD; NEWMAN + given ALLIE/ALLY/ALICE
+
+ONLY statewide Boyd Newman 1911-1989:
+  NEWMAN  BOYD  101  FYETE  FAYETTE  12/02/1976  vol 058 cert 28501 /1976
+
+Allie Newman rows:
+  NEWMAN  ALLIE H  86  PNLTN  KENTON   01/20/1958  003 01327  (rejected vs Allie ~1885)
+  NEWMAN  ALLIE    55  PIKE   WEST VIRGINI  04/07/1964  019 09092  (rejected age)
+  NEWMAN  ALLIE D  69  KENTN  BOONE    09/23/1975  051 25318  (rejected age)
+  NEWMAN  ALLIE B  94  FYETE  FAYETTE  12/13/1978  064 31780  (POSSIBLE Allie Brandenburg ~1884)
+
+Certificate images unread.
