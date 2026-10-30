@@ -229,6 +229,64 @@ Exact strings logged **L515–L521**.
 
 Exact strings logged **L522–L530**.
 
+### Pass 73 variant storm (30 Oct 2026)
+
+**John L. Newman / Newnam (1920 Buck Creek)** — John, Jno, John L, Johnnie × Newman/Newnam/Newnarn/Newan. Soundex **N550**. Age **~41** / Cora / Pencie / Florence / Robert / T625-594 / ED **93** / Precinct **No. 6**.
+
+**McCoy / Coy Newman** — McCoy, Mc Coy, Coy × Newman/Newnam. Soundex **M200** / **N550**. Inverted **MCCOY, NEWMAN** / SSN **447-20-2466** (not merged).
+
+**Samuel P. Newnam** — Samuel, Sam, S P × Newnam/Newman/newnarn. Films **127913 / 127891 / 127869 / 964964 / 1146342 / 156057 / 97277** (still **403**).
+
+**Place** — Buck Creek / Buckcreek / Lucky Fork (withdrawn) / Wild Dog / Wilder (withdrawn) / Precinct No. 6 / No. 7.
+
+Exact strings logged **L531–L543**.
+
+### Pass 74 variant storm (30 Oct 2026)
+
+**John L. Newman / Newnam (1920 county close)** — John, Jno, John L, Johnnie × Newman/Newnam/Newnarn/Newan/Noonan. Soundex **N550**. Age **~41** / Cora / Pencie / Florence / Robert / T625-594 / EDs **88–94**. Also **Cole, John L** (Cow Creek reject) and **John L. Johnson** (St. Helens reject).
+
+**Arthur Newman (Island Creek 1920)** — Arthur × Newman/Newnam. Florence / Grant / Omer[?] / Island Creek / ED **90**. Same-person vs 1930 Arthur 54 × Rhoda + Grant 14.
+
+**McCoy / Coy Newman** — McCoy, Mc Coy, Coy, Barney McCoy (reject) × Newman/Newnam. Soundex **M200** / **N550**. Inverted **MCCOY, NEWMAN** / SSN **447-20-2466** (not merged).
+
+**Cora Brandenburg Newman** — Cora × Newman/Newnam/Brandenburg. Also **Bradburry** (Willie 1916 reject). 1918 Owsley birth **ROBERT**.
+
+**Samuel P. Newnam** — Samuel, Sam, S P × Newnam/Newman/newnarn. Films **127913 / 127891 / 127869 / 964964 / 1146342 / 156057 / 97277** (still **403**, R011 step **25**).
+
+Exact strings logged **L544–L553**.
+
+### Pass 75 variant storm (30 Oct 2026)
+
+**John L. Newman / Newnam (1920 Estill)** — John, Jno, John L, Johnnie × Newman/Newnam/Newnarn/Newan/Noonan. Soundex **N550**. Age **~41** / Cora / Station Camp / Irvine / Ravenna / T625-566 / EDs **36–45, 174–175**. Also **Johnson, Henry** (Station Camp reject).
+
+**Cora Brandenburg Newman** — Cora × Newman/Newnam/Brandenburg. 1918 Robert still the last in-county fix.
+
+**McCoy / Coy Newman** — McCoy, Mc Coy, Coy × Newman/Newnam. Soundex **M200** / **N550**. (Yell 1920 already holds P010; Estill is a negative control.)
+
+**Place** — Estill / Irvine / East Irvine / West Irvine / Station Camp / Ravenna / Millers Creek / Red Lick / Williams / Jackson / Breathitt / Powell / Wolfe.
+
+**Samuel P. Newnam** — films **127913 / 127869 / 1146342** (still **403**, R011 step **26**).
+
+Exact strings logged **L554–L560**.
+
+### Pass 76–77 variant storm (30 Oct 2026)
+
+**John L. Newman / Newnam (1920 Estill / Jackson / Breathitt / Powell / Wolfe)** — John, Jno, John L, Johnnie × Newman/Newnam/Newnarn/Newan/Noonan/Nunan. Soundex **N550**. Age **~41** / Cora.
+
+**Boyd Newman + Allie** — Boyd × Newman/Newnam. Allie × Newman/Brandenburg. Soundex **N550**. Station Camp ED **44** sh **14B**.
+
+**Andy / Andrew / Andridge Newman** — Andy, Andrew, Andridge × Newman. ED **43** Irvine given name capped `[?]`.
+
+**McCoy / Coy Newman** — McCoy, Mc Coy, Coy × Newman/Newnam. Soundex **M200** / **N550**.
+
+**OCR surname** — Newman → newnam / newnarn / newan.
+
+**Place** — Estill / Irvine / Station Camp / Ravenna / Jackson / McKee / Breathitt / Powell / Stanton / Clay City / Wolfe.
+
+**Samuel P. Newnam** — films **127913 / 127891 / 127869 / 964964 / 1146342 / 156057 / 97277** (still **403**, R011 step **27**).
+
+Exact strings logged **L561–L572**.
+
 ## Agent SDK / GitHub channel
 
 Inspected 30 Oct 2026 (**L351**): this repository has **no** `package.json`, **no** `@grok/agent-sdk`, **no** `bot/` directory. GitHub channel `bot/channels/github.ts` is **n/a** and was **not** authored. Project subagent: `.cursor/agents/dora-genealogy-detective.md`.

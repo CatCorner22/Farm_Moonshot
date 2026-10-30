@@ -1,0 +1,13 @@
+NARA M1509 Kentucky roll map (Allen County / NARA pamphlet) — pass 73 re-read.
+https://www.friendsofallencounty.org/detail_mtnara.php?mtid=7935
+https://www.archives.gov/files/research/military/ww1/draft-registration/m1509.pdf
+Catalog seen 30 Oct 2026. Card images unread.
+
+KY45  Lawrence (K–Z), Lee (A–Z), Leslie (A–Z)
+KY24  Edmonson (T–Z), Elliott, Estill, Fayette (A–E)
+KY74  Oldham, Owen, Owsley
+
+Genealogy Trails Lee WWI cards table already nil Newnam/Newman/McCoy (C321 / S248).
+FS collection 1146342 / catalog still HTTP 403 (R011 step 24).
+IA Solr this session: no free M1509 KY45/KY74 item.
+Retrieval: FS sign-in browse 1146342, or NARA Atlanta M1509 KY45 (Lee) then KY74 (Owsley).

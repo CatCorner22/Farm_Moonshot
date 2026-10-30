@@ -1,0 +1,18 @@
+Pass 74 FamilySearch catalog access, 30 Oct 2026. R011 step 25.
+
+Exact IDs retried (GET, User-Agent Mozilla/5.0):
+  https://www.familysearch.org/search/catalog/127913   Lee probate 1870–1967
+  https://www.familysearch.org/search/catalog/127891   Lee wills 1873–1945
+  https://www.familysearch.org/search/catalog/127869   Lee court orders 1870–1919
+  https://www.familysearch.org/search/catalog/964964   Lee order books 1894–1922
+  https://www.familysearch.org/search/catalog/1146342  Lee WWI cards
+  https://www.familysearch.org/search/catalog/156057   Lee tax 1870–75
+  https://www.familysearch.org/search/catalog/97277    Lee tax 1879–92
+
+Result: catalog pages return SPA / sign-in wall (HTTP 403 or Incapsula
+shell). Images unread. Do not pretend they were read.
+
+Autonomous pivot this pass: finish 1920 Owsley name columns (B086 closed);
+Lee 1920 transcripts; Owsley 1911–1920 N births; Barney McCoy Newman reject.
+Retrieval path unchanged: FS sign-in browse 127869 then 127913 for decedent
+Newnam / Newman / Samuel P.

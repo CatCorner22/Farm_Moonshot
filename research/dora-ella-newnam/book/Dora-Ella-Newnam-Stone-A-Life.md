@@ -21,6 +21,11 @@
 15. [Pass 70. John and Cora in Woodford, 1950](#pass-70-john-and-cora-in-woodford-1950)
 16. [Pass 71. John L. and McCoy on Buck Creek, 1930](#pass-71-john-l-and-mccoy-on-buck-creek-1930)
 17. [Pass 72. The 1920 Owsley reel, and McCoy after 1930](#pass-72-the-1920-owsley-reel-and-mccoy-after-1930)
+18. [Pass 73. Buck Creek, 1920 — and John L. is not there](#pass-73-buck-creek-1920--and-john-l-is-not-there)
+19. [Pass 74. The rest of 1920 Owsley — Arthur only](#pass-74-the-rest-of-1920-owsley--arthur-only)
+20. [Pass 75. Estill 1920 — Station Camp first](#pass-75-estill-1920--station-camp-first)
+21. [Pass 76. Station Camp corrected — Boyd and Allie](#pass-76-station-camp-corrected--boyd-and-allie)
+22. [Pass 77. Powell starts at leaf 1050](#pass-77-powell-starts-at-leaf-1050)
 
 ---
 
@@ -227,7 +232,7 @@ Kentucky’s 1930 Soundex never covered Owsley. FamilySearch films 127913, 12786
 
 ### Pass 72. The 1920 Owsley reel, and McCoy after 1930
 
-The 1920 Kentucky population reel that holds Owsley is T625-594 — Ohio, Oldham, Owen, and Owsley — on Internet Archive as `14thcensusofpopu594unit`. The metadata names Owsley enumeration districts 88 through 94. The county begins at leaf 1038: Booneville Number 1, district 88, sheet 1A, enumerator W. M. Dooley, 12 January. Sturgeon is 89. Island Creek is 90. Cow Creek is 91. Buffalo is 92. District 93 sits between Buffalo and Wilder. Wilder, district 94, runs to about leaf 1205. No header yet read says Buck Creek. [C571] [C572] [S411]
+The 1920 Kentucky population reel that holds Owsley is T625-594 — Ohio, Oldham, Owen, and Owsley — on Internet Archive as `14thcensusofpopu594unit`. The metadata names Owsley enumeration districts 88 through 94. The county begins at leaf 1038: Booneville Number 1, district 88, sheet 1A, enumerator W. M. Dooley, 12 January. Sturgeon is 89. Island Creek is 90. Cow Creek is 91. Buffalo is 92. Pass 72 left district 93 unnamed and read district 94 as Wilder. Pass 73 corrects both. [C571] [C572] [S411]
 
 Name-column crops from those districts — Booneville sheets including 1A, Sturgeon samples, Island Creek, Cow Creek, Buffalo, 93, and Wilder — have no Newman, Newnam, McCoy, or Coy as a surname on the sheets examined. Bowman, Brandenburg, Gabbard, Pendergrass, and Jett appear. John L. and McCoy are not on those samples. The rest of the reel is still open. [C573] [C581] [S412]
 
@@ -239,7 +244,77 @@ A NUMIDENT row filed as **MCCOY, NEWMAN**, born 13 April 1890, Social Security n
 
 FamilySearch films 127913, 127869, and 1146342 returned 403 again. [C578]
 
+### Pass 73. Buck Creek, 1920 — and John L. is not there
+
+The missing precinct is on the reel. Leaf 1170, enumeration district 93, sheet 1A, is **Buckcreek Precinct No. 6**. The enumerator is W. L. Coley. Magisterial district 6 is the same number Buck Creek carried in 1900 and in 1930. [C584] [S418]
+
+District 94 is not Wilder. Leaf 1192, sheet 1A, reads **Wild Dog Precinct No. 7**. The Combs-families excerpt of Robert L. Smith’s 1920 compilation independently lists Buck Creek and Wild Dog. Smith’s Combs households — Ace 16, David 71, Walter 72, Logan 146, Nathan 149, James S. 150, Andy J. 160 — sit on those same original sheets. [C585] [C587] [S419] [S421]
+
+The seven 1920 Owsley districts are now named: Booneville, Sturgeon, Island Creek, Cow Creek, Buffalo, Buck Creek, Wild Dog. There is no separate Lucky Fork. [C595] [C597]
+
+Buck Creek in January 1920 runs households 1 through 183. The name columns are read. There is no Newman, Newnam, McCoy, or Coy as a surname. Household 134, where John sat with Lillie in 1910, is an Isaacs house. [C586] [C588] [S420]
+
+John L. and Cora are **proven** on Buck Creek in 1930 and on Crane Creek in 1940 and in Woodford in 1950. They are **not** on Buck Creek in 1920. That is a hole of its own — ten years after Lillie’s death and the Cora Brandenburg license, five years before the 1926 informant year, ten years before they reappear next door to McCoy. [C557] [C588]
+
+McCoy is not there either. That matches the 1920 Yell County, Arkansas, household already on file. [C589]
+
+FamilySearch films 127913, 127891, 127869, 964964, 1146342, 156057, and 97277 returned 403 again. The Lee wills page is still empty. Kentucky’s M1509 draft rolls are mapped — KY45 holds Lee, KY74 holds Owsley — and the cards are still unread. [C583] [C590] [C593] [S417] [S422]
+
 The reconstructed Owsley marriage list that J. W. F. Williams saved after the courthouse fire names Harry H. Newnam in 1864 and a Venable bride in 1880. It does not name Daniel and Sarah. [C508] [S401] The published vital-statistics years still skip 1879–1902. [C505]
+
+### Pass 74. The rest of 1920 Owsley — Arthur only
+
+Pass 73 closed Buck Creek. The rest of the reel is now closed. Every name column in Owsley enumeration districts 88, 89, 90, 91, 92, and 94 has been read. [C603] [C606] [C607] [C608] [C609] [C610] [S425]
+
+There is exactly one Newman household in the county. On Island Creek, district 90, sheet 7A, leaf 1114, 13 January 1920, Oscar J. Judd listed household 113/121: **Newman, Arthur**, forty-five; **Florence**, thirty-three; a son whose given name reads **Omer [?]** , twelve; and **Grant**, three and one month. [C600] [C601] [S424] That is the 1930 Sturgeon house of Arthur, fifty-four, with Rhoda and Grant, fourteen, and the 1940 house of Arthur, sixty-three, with Roda and Grant, twenty-two — Henry and Mary’s line. [C602] It is not John L.
+
+Two same-name traps sit on the same reel. On Cow Creek, household 4/4, **Cole, John L.**, forty-seven, is not a Newman. [C605] On the published Lee 1920 St. Helens page, **John L.**, brother, forty-two, is **John L. Johnson**, born Kentucky, parents Virginia and North Carolina. [C613] [S426]
+
+John L. and Cora are **proven** on Buck Creek in 1930, on Crane Creek in 1940, and in Woodford in 1950. They are **absent from every 1920 Owsley enumeration district** and from every published Lee 1920 transcript. [C611] [C612] McCoy is not there either.
+
+The 1918 Owsley birth index still puts them in the county two years earlier: **NEWMAN, ROBERT**, mother **BRANDENBURG, CORA**. That child is **probable** the Robert L., twelve, of the 1930 house. [C614] [S427] A 1916 Willie whose mother is Cora **Bradburry** is a different Cora. [C615] Grace, 1912, mother Lillie Isaacs, is a child of John’s first marriage. [C616]
+
+FamilySearch films 127913, 127891, 127869, 964964, 1146342, 156057, and 97277 returned 403 again. [C617] [S430] A Barney McCoy Newman of White County, Arkansas, husband of Lula Ethel Knupp, is **not** Dora’s son. [C618] The 1942 George Combs homicide at Vincent is on the death extract; the Courier page does not name the shooter. A later annotation that John Newnam was charged stays **possible** only. [C619] [C620] [S429] Do not print the charge as fact. The California NUMIDENT number 447-20-2466 still has no free death row. [C621]
+
+USGenNet has no published Estill 1920 transcript. That is the next original. [C623]
+
+### Pass 75. Estill 1920 — Station Camp first
+
+The Estill County schedules sit on the same 1920 Kentucky reel as Clay, Clinton, and Cumberland: T625-566, Internet Archive `14thcensusofpopu566unit`, 1,152 leaves. Estill begins at leaf 832 with a title card and runs through leaf 1150. The published districts are 36–37, 174–175, and 38–45. [C625] [C626] [S431]
+
+East Irvine is 36. West Irvine is 37. Ravenna is 175. Millers Creek is 38. Red Lick is 40. Station Camp — the precinct that touches Owsley — is 44. Williams is 45. [C627] [S432]
+
+Station Camp, leaves 1098 to 1130, was first read as nil. That reading is **withdrawn**. Sheet 14B was missed. [C628] [C635]
+
+A Henry Johnson on leaf 1118 is not John L. [C629]
+
+### Pass 76. Station Camp corrected — Boyd and Allie
+
+On 26 January 1920, on Station Camp sheet 14B — Internet Archive leaf 1126 — the household is **Newman, Boyd**, forty-five, and **Allie**, thirty-five, with Sarah A., fifteen, Arthur, thirteen, Corlue, twelve, Clarence, ten, and younger children, plus a Brandenburg nephew. The Soundex card agrees: N-550, volume 20, ED 44, sheet 14, line 7, card 1 of 2. The card’s “line 7” is slack; the household sits on the B-side. [C634] [C637] [S434]
+
+They are not John L. and Cora. Different given names, different ages, different children. [C636]
+
+Irvine Precinct, ED 43 sheet 8B, 16 January, enumerator West C. Richardson, holds another Newman house: a farm laborer of thirty-four, wife thirty-four, daughter ten, son five, son two. The given names are hard. **[Andridge? / Andy?]** and **[Sarah?]** stay in brackets. That couple is not John L. and Cora either. [C633] [C654] [S433]
+
+The rest of Estill — East and West Irvine, Ravenna, Millers Creek, Red Lick, Thomas, Williams — was walked on name-column contact sheets. No third Newman or McCoy **head** appeared. Benjamin Nunan on ED 174, John Nunan about thirty-seven on Red Lick, and Hawkins, John L., on district 39 are other surnames. [C639] [C640] [C641] [C642]
+
+John L. and Cora are **absent as a couple** from 1920 Estill. They were already absent from every 1920 Owsley district and from the published Lee transcripts. [C643] [C611] [C612]
+
+Jackson County sits on T625-577, volume 41, districts 17–28. McKee Town, ED 17 sheet 1A, 2 January, enumerator Allie Baker, opens the county. Contact sheets through leaf 224 — the Jackson end of the reel — show no Newman, Newnam, or McCoy head at that resolution. [C644] [C645] [S436]
+
+Breathitt is on T625-559 after Bell. District 41 begins at leaf 901. The name columns on that reel are not yet fully read. The Soundex John of thirty-eight with Jennie, already rejected, is still the wrong man. [C646] [C647]
+
+A compiled Estill delayed-birth index names **NEWMAN, Arthur**, born 24 January 1906, mother **Allie Brandenbur**, volume 240, certificate 49665. That row is **probable** the Soundex Arthur, thirteen, in Boyd’s house. Allie is about thirty-five in 1920 — born about 1885. Cora Brandenburg Newman is about twenty-six. They are not the same woman. Same surname, same county cluster: FAN only. [C650] [C651] [S438]
+
+FamilySearch films 127913, 127891, 127869, 964964, 1146342, 156057, and 97277 returned 403 again. [C648] [S440]
+
+### Pass 77. Powell starts at leaf 1050
+
+Wolfe County is on T625-602. The title card at leaf 2 is Kentucky volume 91: Wayne districts 258–275, Wolfe 234–242, then volume 92 Whitley. The Wolfe schedules themselves are unread. [C652] [S439]
+
+Powell County is on T625-596 after Pike. The county card is leaf 1050: districts 142 and 177, 143 to 146, and 178. Pike still occupies leaf 1000. District 142, Stanton Precinct, begins on leaf 1051, 13 January 1920. The first household’s wife is a Dora — not Dora Ella Newnam Stone; the surname is not hers and the age is wrong. Clay City, district 144, is at leaf 1100. District 178 is at leaf 1180. Those name columns are the next walk. [C655] [C656] [C657]
+
+FamilySearch films 127913, 127869, and 1146342 returned 403 again. [C617]
 
 In Madison County in 1950 a **Dewey** Newman, twenty-six, is not David F. or Frank of Berea. [C522] **Shelly** Newman, fifty-seven, and **Grace**, fifty-one, of Richmond are **probable** Shelby and Grace Brandenburg. [C523] They are not the contractor. A 1958 David G. Newman, seventy, of Madison remains **possible** only. [C473]
 
@@ -315,10 +390,10 @@ Charts of pedigree, descendants, and lifespan follow the plates. Dashed lines me
 - **B049 / B058:** 1926 *Beattyville Enterprise*, *Yell County Journal*, *Danville Democrat*, and *Dardanelle Post-Dispatch* still unread. Free catalogs closed (R010 steps 1–18). [C293] [C301] [C343] [C346]
 - **B045 / B061 / B065:** Samuel P. probate and court-order **images** unread. Catalog IDs locked: FS **127913 / 127891 / 127869 / 964964 / 156057 / 97277**. October 1887 claims **nil**. KHS/KDLA film unread. [C360] [C361] [C374] [C375]
 - **B047 / B069:** M1509 **KY45/24/74** and FS **1146342** Lee WWI cards unread. Estill WWI page empty; GT Estill/Owsley **404**. [C367]
-- **FAN residual:** Frank of Berea (B055) — 1900 David F. **possible**; 1958 David G. Madison **possible** only (**C473**); 1950 Dewey 26 **rejected** (**C522**); not merged with Grant (#20) or 1928 St. Helens Frank (#22); John of Owsley is **PROVEN** through 1930/1940/1950 (**C557**); 1966 Woodford death **probable**, not proven (**#26**); McCoy 40 on Buck Creek 1930 **PROBABLE** P010 (**C562**); 1940/1950 Owsley McCoy head **nil** (**C574 C575**); **447-20-2466** not merged (**C576**); Daniel × Sarah M./Minerva are **probable** Everett’s parents (**C456/C485**, **#24**); 1930 Everett **KYVAKY** (**C530**); Daniel’s license still unread after TFKRHA 1843–80 **nil** (B079); Melissa ~1876 unread (B078); Grant 21 vs David F. unread (B081); William × Katherine license (B064); two William lines (B071); Herman Estes of Brasstown (B067); Frankie Jones / Mary Peters (B068); Carter Cove stone photographs (B054). **Advanced this pass:** 1920 Owsley reel mapped; sampled name cols nil; 1940/1950 McCoy nil; N-550 John window closed. **Closed earlier:** 1880 Daniel house; Lillie **12 Jan 1915**; Sarah M. Evans **15 Sep 1936**; Grant **9 Dec 1970**; 1920 Heidelberg; Fred L. 1961; Callie Spicer **5 Nov 1961**; Kate = Katherine Sternberg. Luther, Shelby × Grace, and Melissa Estes Miller **11 Apr 1957** remain **closed**.
-- Greene 37–43 Stone sweep is **closed**. Do not reopen Peebles as a third marriage without a license. Do not print 1868 or 24 February 1906 as facts. Do not print Grant as dead in 1951–1955. Do not print “Sarah Minerva” as a proven dual given. Do not print 1966 as John’s death. Do not print 1962 as McCoy’s death.
+- **FAN residual:** Frank of Berea (B055) — 1900 David F. **possible**; 1958 David G. Madison **possible** only (**C473**); 1950 Dewey 26 **rejected** (**C522**); not merged with Grant (#20) or 1928 St. Helens Frank (#22); John of Owsley is **PROVEN** through 1930/1940/1950 (**C557**) and **absent** from **entire 1920 Owsley** (**C611**), published Lee 1920 (**C612**), and **absent as a couple** from 1920 Estill (**C643**; Station Camp **nil withdrawn** — Boyd+Allie **C634 C635**); 1966 Woodford death **probable**, not proven (**#26**); McCoy 40 on Buck Creek 1930 **PROBABLE** P010 (**C562**); 1920 Owsley / 1940/1950 Owsley McCoy head **nil** (**C611 C574 C575**); **447-20-2466** not merged (**C576**); Barney McCoy Newman of AR **rejected** (**C618**); 1918 Robert / Cora Brandenburg **probable** their son (**C614**); 1942 Combs charge **possible** authored only (**C619**); Daniel × Sarah M./Minerva are **probable** Everett’s parents (**C456/C485**, **#24**); 1930 Everett **KYVAKY** (**C530**); Daniel’s license still unread after TFKRHA 1843–80 **nil** (B079); Melissa ~1876 unread (B078); Grant 21 vs David F. unread (B081); William × Katherine license (B064); two William lines (B071); Herman Estes of Brasstown (B067); Frankie Jones / Mary Peters (B068); Carter Cove stone photographs (B054). **Done this increment:** Estill 1920 couple-close; Boyd+Allie Station Camp; Jackson contact-sheet; Powell mapped; Arthur delayed birth. **Done earlier:** 1920 Owsley county (**B086**); Arthur 45 Island Creek only Newman. **Closed earlier:** 1880 Daniel house; Lillie **12 Jan 1915**; Sarah M. Evans **15 Sep 1936**; Grant **9 Dec 1970**; 1920 Heidelberg; Fred L. 1961; Callie Spicer **5 Nov 1961**; Kate = Katherine Sternberg. Luther, Shelby × Grace, and Melissa Estes Miller **11 Apr 1957** remain **closed**.
+- Greene 37–43 Stone sweep is **closed**. Do not reopen Peebles as a third marriage without a license. Do not print 1868 or 24 February 1906 as facts. Do not print Grant as dead in 1951–1955. Do not print “Sarah Minerva” as a proven dual given. Do not print 1966 as John’s death. Do not print 1962 as McCoy’s death. Do not print the 1942 Combs charge as fact.
 
-The next session starts with **B045** (FS **127913 / 127891**) and **B061** (**127869 / 964964**). Then **B086** 1920 Owsley remainder, **B069/B047**, **B082** Duell-Clark / cert **17762**, **B083**, **B085** McCoy after 1930 (447-20-2466 not merged), **B080** *Citizen* 1958, **B079**, **B055/B081**, **B049/B058**.
+The next session starts with **B088** remaining Breathitt T625-**559** name columns, then Powell T625-**596** (from leaf **1051**) and Wolfe T625-**602** EDs **234–242**. Then **B089** Boyd × Allie, **B045** (FS **127913 / 127891**) and **B061** (**127869 / 964964**), **B087** 1942 Combs charge, **B069/B047**, **B082** Duell-Clark / cert **17762**, **B083**, **B085** McCoy after 1930 (447-20-2466 not merged; Barney McCoy AR rejected), **B080** *Citizen* 1958, **B079**, **B055/B081**, **B049/B058**.
 
 ---
 
@@ -400,10 +475,27 @@ Numbered notes expand the claim/source tags in the narrative. Access labels: *im
 72. 1930 Lee Co. (Kendrick) EDs 1–11: Everett 42 wd KYVAKY; Grant 53 + Martha; Elias T. 87; Luther + Cora; Catherine 59 wd; Moses Estes + Malissa D. nee NEWMAN; Robert + Callie Spicer; nil John+Cora head. [Lee 1930](https://usgennet.org/usa/ky/county/lee/census/1930/). *Transcription only.* **C530–C539** **S405**.
 73. 1890 Owsley veterans schedule, six precincts, nil Newnam. [1890 landing](https://usgennet.org/usa/ky/county/owsley/census/1890/). *Transcription only.* **C540** **S406**. TFKRHA 1930 D3 Arthur Newman 54 + Grant 14 (Henry × Mary). D7 annotated page unread; the household is now on the original (**C555**). **C543 C544** **S407**.
 74. 1930 U.S. census, Owsley ED **95-7** (Buck Creek), T626-773, IA [`kentuckycensus00reel773`](https://archive.org/details/kentuckycensus00reel773) leaves **650–669**. *Image seen.* Hh **131** **Newman, John L** 51 + **Cora** 36 + Pencie + Robert + Florence Combs. Hh **133** **Newman, McCoy** 40 + Edith 29 MO. [us-census.org ED list](https://www.us-census.org/states/kentucky/teams/Owsley1930-T626-773.htm). **C555–C563** **C557** **S409** **S410**. Conflict **#26** open on death date only.
-75. 1920 U.S. census, Owsley EDs **88–94**, T625-594, IA [`14thcensusofpopu594unit`](https://archive.org/details/14thcensusofpopu594unit) leaves **1038–1205**. *Image seen* (headers + sampled name columns). No Buck Creek header yet. Sampled name cols **nil** Newman/McCoy. [IA item](https://archive.org/details/14thcensusofpopu594unit). **C571–C573** **S411** **S412**. Residual **B086**.
+75. 1920 U.S. census, Owsley EDs **88–94**, T625-594, IA [`14thcensusofpopu594unit`](https://archive.org/details/14thcensusofpopu594unit) leaves **1038–1205**. *Image seen* (headers + sampled name columns). Pass 72 left ED 93 unnamed. [IA item](https://archive.org/details/14thcensusofpopu594unit). **C571–C573** **S411** **S412**. Residual then **B086**.
 76. 1940 Owsley EDs **95-1..95-7** (Kendrick): **nil** McCoy Newman head. Arthur 63 + Roda + Grant 22 = Henry × Mary. [USGenNet 1940](https://usgennet.org/usa/ky/county/owsley/census/1940/). *Transcription only.* **C574** **C579** **C582** **S413**.
 77. NARA 1950 name API, Owsley, `state=KY`: McCoy **0**; Newman = Bowman OCR + Clarence. [1950census.archives.gov](https://1950census.archives.gov/). *Index only.* **C575** **S414**.
 78. SortedByName **MCCOY, NEWMAN** b. **13 Apr 1890**, SSN **447-20-2466**, Modesto claim **11 Jul 1962**. [index_939](https://sortedbyname.com/letter_m/mccoy/index_939.html). *Index only.* **POSSIBLE** inverted P010 — **not merged**. **C576** **S415**. 1920 KY N-550 John window 4460–4499 **nil** Owsley. IA [`soundex1920ky117`](https://archive.org/details/soundex1920ky117). **C577** **C580**.
+79. 1920 U.S. census, Owsley ED **93** sh **1A** leaf **1170**: township **Buckcreek Precinct No. 6**. IA [`14thcensusofpopu594unit`](https://archive.org/details/14thcensusofpopu594unit). *Image seen.* **C584** **C595** **S418**.
+80. Same ED, households **1–183** (leaves **1170–1190**): **nil** Newman/Newnam/McCoy. 1910 John hh **134** is 1920 Isaacs. [Combs 1920 excerpt](https://combs-families.org/combs/records/ky/owsley/1920.htm) names Buck Creek + Wild Dog. **C586** **C588** **C589** **C587** **S419** **S420**.
+81. 1920 Owsley ED **94** sh **1A** leaf **1192**: **Wild Dog Precinct No. 7** (not Wilder). *Image seen.* **C585** **C598** **S421**. FS catalog **403** again (**C583** **S417**). M1509 **KY45**=Lee, **KY74**=Owsley (**C593** **S422**).
+82. 1920 Owsley ED **90** sh **7A** leaf **1114** hh **113/121**: **Newman, Arthur** 45 + Florence 33 + Omer[?] 12 + Grant 3 1/12. IA [`14thcensusofpopu594unit`](https://archive.org/details/14thcensusofpopu594unit). *Image seen.* **C600** **C601** **C602** **S424**. **PROBABLE** = 1930/1940 Arthur (Henry × Mary).
+83. Same reel, remaining EDs **88 / 89 / 91 / 92 / 94** name columns: **nil** John L + Cora / McCoy. Cole John L 47 on Cow Creek **rejected**. Entire county has **exactly one** Newman head. **C603–C611** **C605** **S425**.
+84. Published Lee 1920 transcripts: **nil** John ~41 + Cora ~26 Newman head. St. Helens John L brother 42 = **Johnson**. [Lee 1920](https://usgennet.org/usa/ky/county/lee/census/1920/). *Transcription only.* **C612** **C613** **S426**.
+85. Owsley births 1911–1920 N: **NEWMAN, ROBERT**, mother **BRANDENBURG, CORA**, **1918**. [n.htm](https://usgennet.org/usa/ky/county/owsley/births/n.htm). *Transcription only.* **PROBABLE** 1930 Robert L. Willie / Bradburry 1916 rejected. **C614** **C615** **C616** **S427**.
+86. **Barney McCoy Newman** of White Co. AR × Lula Ethel Knupp **rejected** vs P010. No free CA death row for **447-20-2466**. **C618** **C621** **S428**.
+87. George COMBS d. **6 May 1942** Vincent. Courier extract does **not** name shooter. Houser “John NEWNAM was charged” is authored — **POSSIBLE** only. **C619** **C620** **S429**.
+88. FS catalog seven IDs HTTP **403** (R011 step **25**). USGenNet Estill **no** 1920 transcript. Duell-Clark unread. **C617** **C622** **C623** **S430**.
+89. 1920 U.S. census, Estill Co. KY, T625-566, IA [`14thcensusofpopu566unit`](https://archive.org/details/14thcensusofpopu566unit), leaves **832–1150**. *Image seen* (headers). EDs **36–37, 174–175, 38–45**. [us-census.org](https://www.us-census.org/states/kentucky/e-ky.htm). **C625–C627** **S431** **S432**.
+90. Same reel, ED **44** Station Camp: Pass 75 **nil** is **withdrawn** (**C628 C635**). Johnson Henry rejected (**C629**). **C630–C632**.
+91. 1920 Estill ED **44** sh **14B** leaf **1126** hh **120/135**: **Newman, Boyd** 45 + **Allie** 35 + Sarah A / Arthur / Corlue / Clarence. Soundex N-550 p**4130**, Vol **20** ED **44** sh **14** ln **7**. IA [`14thcensusofpopu566unit`](https://archive.org/details/14thcensusofpopu566unit) · [`soundex1920ky117`](https://archive.org/details/soundex1920ky117). *Image seen.* **C634 C636 C637** **S434**.
+92. Same reel, ED **43** sh **8B** leaf **1094** hh **175/170**: Newman **[Andridge?/Andy?]** 34 + **[Sarah?]** 34 + 3 children. *Image seen.* **Not** John L. Remaining Estill contact sheets: no third Newman/McCoy head. Nunan/Hawkins rejected. **C633 C639–C643 C654** **S433** **S435**.
+93. 1920 Jackson T625-577, IA [`14thcensusofpopu577unit`](https://archive.org/details/14thcensusofpopu577unit): Vol **41** EDs **17–28**. ED **17** McKee 2 Jan. Contact sheets **0003–0224** **nil** Newman/McCoy head (montage). Breathitt T625-559 ED **41** at leaf **0901**. *Image seen* (headers). **C644–C647** **S436** **S437**.
+94. SCGS Estill delayed births: **NEWMAN, Arthur**, **24 Jan 1906**, mother **Allie Brandenbur**, vol **240** cert **49665**. [estill-ok.pdf](http://www.scgs-ky.org/delbrth/estill-ok.pdf). *Compiled index.* **PROBABLE** Soundex Arthur 13. Allie ≠ Cora. **C650 C651** **S438**.
+95. 1920 Wolfe T625-602 title leaf **0002** Vol **91** EDs **234–242**. Powell T625-596 card leaf **1050**; ED **142** starts **1051**. IA [`14thcensusofpopu602unit`](https://archive.org/details/14thcensusofpopu602unit) · [`14thcensusofpopu596unit`](https://archive.org/details/14thcensusofpopu596unit). *Image seen.* **C652 C655–C657** **S439**. FS seven IDs **403** (R011-27). **C648** **S440**.
 
 ---
 
@@ -474,5 +566,29 @@ Working table of **saved local copies**. Full file list: [`../SOURCE-INDEX.md`](
 | S414 | `../sources/census/nara-1950-owsley-mccoy-nil-extract-2026-10-30.txt` | [NARA 1950census](https://1950census.archives.gov/) | Owsley McCoy API 0 | index only |
 | S415 | `../sources/census/ky1920-n550-john-window-pass72-extract-2026-10-30.txt` | [IA Soundex](https://archive.org/details/soundex1920ky117) · [SortedByName](https://sortedbyname.com/letter_m/mccoy/index_939.html) | John window nil Owsley; 447-20-2466 not merged | image seen + index |
 | S416 | `../sources/catalog/pass72-fs-403-access-2026-10-30.txt` | FamilySearch catalog | FS 127913/127869/1146342 HTTP 403 | catalog |
+| S417 | `../sources/catalog/pass73-fs-403-access-2026-10-30.txt` | FamilySearch / USGW / KYGenWeb | FS seven IDs HTTP 403; Lee wills empty | catalog |
+| S418 | `../sources/census/owsley-1920-ed93-1170-buckcreek-township.png` | [IA T625-594](https://archive.org/details/14thcensusofpopu594unit) | ED 93 = Buck Creek Precinct No. 6 | image seen |
+| S419 | `../sources/census/combs-owsley-1920-extract-2026-10-30.txt` | [Combs 1920](https://combs-families.org/combs/records/ky/owsley/1920.htm) | Buck Creek + Wild Dog named; Combs hh match | transcription only |
+| S420 | `../sources/census/owsley-1920-ed93-1185-hh134-isaacs.jpg` | [IA T625-594](https://archive.org/details/14thcensusofpopu594unit) | ED 93 hh 1–183 nil Newman; hh 134 = Isaacs | image seen |
+| S421 | `../sources/census/owsley-1920-ed94-1192-wilddog-township.png` | [IA T625-594](https://archive.org/details/14thcensusofpopu594unit) | ED 94 = Wild Dog Precinct No. 7 | image seen |
+| S422 | `../sources/military/m1509-ky-roll-map-pass73-2026-10-30.txt` | [ACPL M1509](https://www.friendsofallencounty.org/detail_mtnara.php?mtid=7935) | KY45 = Lee; KY74 = Owsley | catalog |
+| S423 | `../sources/census/owsley-census-landing-pass73.html` | [USGenNet census](https://usgennet.org/usa/ky/county/owsley/census/) | No 1920 year published | catalog |
+| S424 | `../sources/census/owsley-1920-ed90-1114-arthur-hh.jpg` · county-closed extract | [IA T625-594](https://archive.org/details/14thcensusofpopu594unit) | Arthur 45 Island Creek; only Newman in Owsley | image seen |
+| S425 | `../sources/census/owsley-1920-ed91-1128-cole-johnl.jpg` + ED name cols | [IA T625-594](https://archive.org/details/14thcensusofpopu594unit) | EDs 88–94 nil John L/McCoy; Cole reject | image seen |
+| S426 | `../sources/census/lee-1920-newman-nil-john-l-pass74-extract-2026-10-30.txt` | [Lee 1920](https://usgennet.org/usa/ky/county/lee/census/1920/) | Nil John+Cora head; Johnson reject | transcription only |
+| S427 | `../sources/vital/owsley-births-n-1911-1920-pass74-extract-2026-10-30.txt` | [Owsley births N](https://usgennet.org/usa/ky/county/owsley/births/n.htm) | ROBERT / CORA BRANDENBURG 1918 | transcription only |
+| S428 | Heber Springs / Roller funeral notices | authored | Barney McCoy Newman AR rejected | authored / index |
+| S429 | `../sources/press/combs-1942-george-homicide-pass74-extract-2026-10-30.txt` | [Combs / Owsley 1942](https://combs-families.org/combs/records/ky/owsley/1920.htm) | George Combs 6 May 1942; charge annotation only | transcription + authored |
+| S430 | `../sources/catalog/pass74-fs-403-access-2026-10-30.txt` | FamilySearch catalog | FS seven IDs HTTP 403 (R011-25) | catalog |
+| S431 | `../sources/census/estill-1920-t625-566-pass75-extract-2026-10-30.txt` | [IA T625-566](https://archive.org/details/14thcensusofpopu566unit) | Estill leaves 832–1150 mapped (C628 later withdrawn) | image seen + catalog |
+| S432 | `../sources/census/estill-1920-ed44-1110-stationcamp-header.jpg` + ED headers | [IA T625-566](https://archive.org/details/14thcensusofpopu566unit) | ED 36/37/174/175/38–45 headers | image seen |
+| S433 | `../sources/census/estill-1920-ed43-1094-newman-andy-hh.jpg` | [IA T625-566](https://archive.org/details/14thcensusofpopu566unit) | ED 43 Newman 34+34+3 children | image seen |
+| S434 | `../sources/census/estill-1920-ed44-1126-sheet14b.jpg` · Soundex p4130 | [IA T625-566](https://archive.org/details/14thcensusofpopu566unit) · [Soundex](https://archive.org/details/soundex1920ky117) | Boyd 45 + Allie 35 Station Camp 14B | image seen |
+| S435 | `../sources/census/estill-1920-ed174-0922-nunan-benjamin.jpg` + rejects | [IA T625-566](https://archive.org/details/14thcensusofpopu566unit) | Nunan/Hawkins rejects | image seen |
+| S436 | `../sources/census/jackson-1920-0001-title.jpg` | [IA T625-577](https://archive.org/details/14thcensusofpopu577unit) | Jackson Vol 41 EDs 17–28 | image seen |
+| S437 | `../sources/census/breathitt-1920-ed41-0901-header.jpg` | [IA T625-559](https://archive.org/details/14thcensusofpopu559unit) | Breathitt ED 41 at leaf 901 | image seen |
+| S438 | `../sources/vital/estill-delayed-births-scgs.pdf` | [SCGS delayed births](http://www.scgs-ky.org/delbrth/estill-ok.pdf) | Arthur Newman 24 Jan 1906 / Allie Brandenbur | compiled index |
+| S439 | `../sources/census/powell-1920-1050-county-card.jpg` · Wolfe title | [IA T625-596](https://archive.org/details/14thcensusofpopu596unit) · [T625-602](https://archive.org/details/14thcensusofpopu602unit) | Powell card 1050; Wolfe EDs 234–242 | image seen |
+| S440 | `../sources/catalog/pass76-fs-403-access-2026-10-30.txt` | FamilySearch catalog | FS seven IDs HTTP 403 (R011-27) | catalog |
 
 Embedded plates live in `plates/` and `../sources/census/`. Charts: [`../visuals/pedigree-dora.svg`](../visuals/pedigree-dora.svg), [`../visuals/timeline-dora.svg`](../visuals/timeline-dora.svg).

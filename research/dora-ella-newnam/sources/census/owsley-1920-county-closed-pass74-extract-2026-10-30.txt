@@ -1,0 +1,45 @@
+1920 U.S. census, Owsley County, Kentucky — county close, pass 74.
+NARA T625-594. IA 14thcensusofpopu594unit. Image seen 30 Oct 2026.
+
+Reel leaves 1038–1205 = EDs 88–94 (Booneville, Sturgeon, Island Creek,
+Cow Creek, Buffalo, Buck Creek, Wild Dog). Name-column files exist for
+every leaf 1038–1170 and 1192–1205.
+
+ONLY Newman/Newnam household in the county:
+  ED 90 Island Creek Precinct No. 3, sh 7A, leaf 1114, 13 Jan 1920,
+  enumerator Oscar J. Judd.
+  hh 113/121  Newman, Arthur   head  owns farm  m w 45 m  KY
+              Florence         wife             f w 33 m  KY
+              Omer [?]         son              m w 12 s  KY
+              Grant            son              m w  3 1/12 s KY
+  = 1930 D3 Arthur 54 × Rhoda + Grant 14 / 1940 ED 95-5 hh 235
+    Arthur 63 + Roda 66 + Grant 22 (Henry × Mary). NOT John L.
+
+John L + Cora (~41 / ~26) and McCoy/Coy (~30): ABSENT from every 1920
+Owsley ED. Buck Creek ED 93 hh 1–183 already nil (C586/C588). This pass
+closes the residual EDs 88 / 89 / 90 / 91 / 92 / 94.
+
+ED 88 Booneville No. 1 (1038–~1065): Bowman / Taylor / Seale /
+Brandenburg / Hocker — nil Newman/McCoy.
+
+ED 89 Sturgeon Precinct No. 2 (~1066–1101): Barrett / Judd / Maggard /
+Duff / Brandenburg / Reynolds / Hutson / Peters / Fields / Pierson —
+nil Newman/McCoy on sheets read.
+
+ED 90 Island Creek Precinct No. 3 (1102–1127): Arthur only (above).
+Sheet 1121: Thompson / King / Ball / Sizemore / McKinney / Woods —
+nil other Newman.
+
+ED 91 Cow Creek Precinct No. 4 (1128–1157): leaf 1128 header
+"Cow Creek Prec. 4." hh 4/4 Cole, John L, 47 + wife ~45 — NOT Newman.
+Remaining Cow Creek name columns nil Newman/McCoy.
+
+ED 92 Buffalo (~1158–1169): Sizemore / Mosby / McIntosh / Baker /
+Rogers / Morris / Gabbard / Roberts / Bishop — nil Newman/McCoy.
+
+ED 94 Wild Dog Precinct No. 7 (1192–1205): Gabbard / Phillips / Rose /
+Begley / Caudill / Baker / Young / Couch — nil Newman/McCoy
+(upgrades sampled C598 to full-ED visual).
+
+B086 closed as a county visual. 1920 hole for John L + Cora is now
+outside Owsley (Lee published transcripts also nil — see Lee extract).

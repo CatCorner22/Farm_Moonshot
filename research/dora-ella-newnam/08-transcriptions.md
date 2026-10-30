@@ -502,5 +502,60 @@ Header readings (diplomatic):
 
 Pass 2: ED **43** starts at p.**256**, not p.254 (p.254 is Loretto Academy boarders, ED 42 tail). Name-column samples listed in **S256** have **no Stone**. Full ED **42–43** A+B later swept (**C264**).
 
+## DOC025 — 1920 U.S. census, Estill Co. KY, Irvine Precinct, ED 43 sheet 8B hh 175/170 (original)
+- Image file(s) + SHA-256: `sources/census/estill-1920-ed43-1094-newman-andy-hh.jpg` · `5ba79b342e08324e0aad85592546a1f9fd6a8aea6f7ba341f8272456eb835d0f`; zoom `0c0fec1f8114d2635866bea8b4e1d848e4ab0f18b696a7c402e36124e66c12a1`
+- Page: IA `14thcensusofpopu566unit` leaf **1094**; NARA T625-566; ED **43**, sheet **8 B**; enum. **16 Jan 1920**, West C. Richardson
+- Provenance: NARA microfilm via Internet Archive, accessed 30 Oct 2026. **Original image seen.**
+
+Header (diplomatic):
+> State Kentucky · County Estill · Irvine Precinct · Supervisor’s District **7** · Enumeration District **43** · Sheet **8 B**  
+> Enumerated by me on the **16** day of January, 1920. / **West C. Richardson**, Enumerator.
+
+| Dw/Fam | Name | Rel | Sex/Color | Age | POB | Occ. |
+|---|---|---|---|---|---|---|
+| **175/170** | **Newman, [Andridge? / Andy?]** | Head | M W | **34** | KY/KY/KY | Farm laborer (working out) |
+| | **— [Sarah?]** | Wife | F W | **34** | KY/KY/KY | — |
+| | **— [Velva?]** | Daughter | F W | **10** | KY | — |
+| | **— [Herman?]** | Son | M W | **5** | KY | — |
+| | **— [John?]** | Son | M W | **2** | KY | — |
+
+Pass 2: Given names capped `[?]`. Ages 34/34/10/5/2 clear on the zoom. **Not** John L ~41 + Cora ~26. → **C633 C654** / **S433**.
+
+### Normalised reading
+A Newman couple, both 34, with three children 10, 5, and 2, lived in Irvine Precinct on 16 January 1920. The head was a farm laborer working out. They are not John L. and Cora.
+
+## DOC024 — 1920 U.S. census, Estill Co. KY, Station Camp, ED 44 sheet 14B hh 120/135 + Soundex N-550 p4130 (original)
+- Image file(s) + SHA-256: `sources/census/estill-1920-ed44-1126-sheet14b.jpg` · `d897e494e2202efbe08fd4bd96d2966a390dadf4bdf3fdb55c4c3c8ce492297a`; zoom `19657bf7f407985e8e67045532ea3731864fea8694533a438a4f34911c2e6e8f`; Soundex `6d4c706ad94810d6b8d7a763bfd03e5ac3dad22ae29cc26218f82081aa48db66`
+- Page: IA `14thcensusofpopu566unit` leaf **1126**; NARA T625-566; ED **44**, sheet **14 B**; enum. **26 Jan 1920**, John Fox[?]
+- Soundex: IA `soundex1920ky117` leaf **4130**; N-550; Vol **20** ED **44** sheet **14** line **7**; card **#1 of 2**
+- Provenance: NARA microfilm via Internet Archive, accessed 30 Oct 2026. **Original image seen.**
+
+Header (diplomatic):
+> State Kentucky · County Estill · Station Camp Precinct · Supervisor’s District **7** · Enumeration District **44** · Sheet **14 B**  
+> Enumerated by me on the **26** day of January, 1920. / **John Fox[?]**, Enumerator.
+
+| Dw/Fam | Name | Rel | Age |
+|---|---|---|---|
+| **120/135** | **Newman, Boyd** | Head | **45** |
+| | **— Allie** | Wife | **35** |
+| | **— Sarah A** | Daughter | **15** |
+| | **— Arthur** | Son | **13** |
+| | **— Corlue** | Son | **12** |
+| | **— Clarence** | Son | **10** |
+| | **— Chester** | Son | **8** |
+| | **— [Eunice?]** | Son | **6** |
+| | **— Lella M** | Daughter | **4** |
+| | Brandenburg, **[Neat?]** | Nephew | |
+| | **[Newman?], [Lida?]** | Nephew | **7** |
+
+Soundex card (diplomatic):
+> N-550 · Newman Boyd · W 45 · Kentucky · Estill · Vol 20 · E.D. 44 · Sheet 14 · Line 7  
+> Allie W 35 · Sarah A. D 15 · Arthur S 13 · Corlue S 12 · Clarence S 10 · #1 of 2
+
+Pass 2: Boyd and Allie clear on both original and card. Slack: Soundex “sheet 14 line 7” vs household on **14B**. Pass 75 **C628** nil is **withdrawn**. **Not** John L + Cora. → **C634 C635 C636 C637** / **S434**.
+
+### Normalised reading
+Boyd Newman, 45, and wife Allie, 35, with at least five children named on the Soundex card and more on the B-side, lived in Station Camp precinct on 26 January 1920. They are not John L. Newman and Cora Brandenburg.
+
 ## DOC009 — 1910 TN Soundex N-550 McCoy window (nil)
 Handwritten family/individual cards n2461–n2469. Sequence after Mary C (n2460): Mary D 49 Jefferson (son Layton 11); Mary M 70 Hamilton; Mek. G 50 Cheatham (Florence 19, John 17, General 16, Frances 13, William 10, Doria 6, Luther 1½); Melvin 3½ Giles (gs of Deacon George W); Melvin 54 Giles (SIL of same); Minerva 80 Robertson (gds Lona Neely, Nellie Erwin); Minnie 21 Roane (with Sam P. Sparks); Mitchell 27 Hardin (Ollie P 25, Gladys 4, Burl W 3, Royal E 1 9/12). **No McCoy.** SHA-256 n2463 `23610f8aa4c159b1b554ed1786d11f57d2f56f8a2e8994f7289ae7bd02dfca53`; n2469 `340489566090880388fa6b81ca5751c5944dcaf56a7b44f70fe560788f308586`.

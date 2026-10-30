@@ -732,7 +732,47 @@ Sheet 8A household 133 is **Newman, McCoy**, 40, + Edith 29 MO — **PROBABLE** 
 **File:** [`sources/census/owsley-1920-ed88-1040-header.png`](sources/census/owsley-1920-ed88-1040-header.png)  
 **Source:** S411 · C571 · C572
 
-1920 U.S. census, Owsley County, Kentucky, ED 88, Booneville No. 1. NARA T625-594; Internet Archive `14thcensusofpopu594unit`. Header crop: county Owsley, precinct Booneville, enumerator W. M. Dooley. Owsley occupies EDs 88–94 on this reel. No Buck Creek header has been read. Sampled name columns are nil Newman/McCoy.
+1920 U.S. census, Owsley County, Kentucky, ED 88, Booneville No. 1. NARA T625-594; Internet Archive `14thcensusofpopu594unit`. Header crop: county Owsley, precinct Booneville, enumerator W. M. Dooley. Owsley occupies EDs 88–94 on this reel. Pass 73 names ED 93 as Buck Creek.
 
 ![Owsley 1920 ED 88 Booneville header](sources/census/owsley-1920-ed88-1040-header.png)
+
+### 65 · Jan 1920 · Owsley ED 93 Buck Creek Precinct No. 6 header
+
+**Role:** Context (1920 hole; John L. absent)  
+**File:** [`sources/census/owsley-1920-ed93-1170-buckcreek-township.png`](sources/census/owsley-1920-ed93-1170-buckcreek-township.png)  
+**Source:** S418 · C584 · C586 · C588
+
+1920 U.S. census, Owsley County, Kentucky, ED 93, sheet 1A, leaf 1170. Township line: **Buckcreek Precinct No. 6**. Households 1–183 have no Newman, Newnam, McCoy, or Coy. John L. and Cora are not there.
+
+### 66 · 26 Jan 1920 · Estill ED 44 sheet 14B — Boyd Newman + Allie
+
+**Role:** FAN hit (Station Camp; C628 withdrawn)  
+**File:** [`sources/census/estill-1920-ed44-1126-boyd-newman-zoom.jpg`](sources/census/estill-1920-ed44-1126-boyd-newman-zoom.jpg)  
+**Source:** S434 · C634 · C635 · C636
+
+1920 U.S. census, Estill County, Kentucky, Station Camp, ED 44, sheet 14B, household 120/135. NARA T625-566; Internet Archive `14thcensusofpopu566unit` leaf 1126. Visual: Newman, Boyd, 45; Allie, 35; Sarah A 15; Arthur 13; Corlue 12; Clarence 10. Soundex N-550 p4130 agrees. **Not** John L + Cora. Pass 75 Station Camp nil **withdrawn**.
+
+![Estill 1920 ED 44 — Boyd + Allie](sources/census/estill-1920-ed44-1126-boyd-newman-zoom.jpg)
+
+### 67 · 16 Jan 1920 · Estill ED 43 sheet 8B — Newman 34 + wife 34
+
+**Role:** FAN reject vs John L  
+**File:** [`sources/census/estill-1920-ed43-1094-newman-andy-zoom.jpg`](sources/census/estill-1920-ed43-1094-newman-andy-zoom.jpg)  
+**Source:** S433 · C633 · C654
+
+1920 U.S. census, Estill County, Kentucky, Irvine Precinct, ED 43, sheet 8B, household 175/170. Visual: Newman, [Andridge?/Andy?], 34, farm laborer; [Sarah?], 34; three children 10/5/2. Given names capped `[?]`. **Not** John L + Cora.
+
+![Estill 1920 ED 43 — Newman 34](sources/census/estill-1920-ed43-1094-newman-andy-zoom.jpg)
+
+### 68 · Jan 1920 · Powell County card — T625-596 leaf 1050
+
+**Role:** Context (reel map; 1920 hole residual)  
+**File:** [`sources/census/powell-1920-1050-county-card.jpg`](sources/census/powell-1920-1050-county-card.jpg)  
+**Source:** S439 · C655
+
+1920 U.S. census, Powell County, Kentucky. NARA T625-596; Internet Archive `14thcensusofpopu596unit` leaf 1050. Card: POWELL CO. EDs 142 and 177 / 143 to 146 / 178. Population starts leaf 1051. Name columns unread.
+
+![Powell 1920 county card](sources/census/powell-1920-1050-county-card.jpg)
+
+![Owsley 1920 ED 93 Buck Creek township line](sources/census/owsley-1920-ed93-1170-buckcreek-township.png)
 

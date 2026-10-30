@@ -151,7 +151,20 @@ Place as it was *at the date*; modern equivalent in brackets. Flag impossibiliti
 | Apr 1950 | — | FAN: Woodford ED **120-13** sheet **0012** **Newman, John** 70 + **Cora** 56. **PROBABLE** 1940 couple. API OCR “Juhn”/“cocan” | Woodford Co., KY | C525 C526 C529 | S404 |
 | Apr 1950 | — | FAN: Madison ED **76-6** Richmond — **Neuman, Shelly** 57 + **Grace** 51 **PROBABLE** Shelby×Grace. ED **76-32** **Dewey** Newman 26 **rejected** vs 1889 David F. | Madison Co., KY | C522 C523 | S400 |
 | Jan 1920 | — | FAN: Owsley T625-594 EDs **88–94** mapped (Booneville / Sturgeon / Island Creek / Cow Creek / Buffalo / ED 93 / Wilder). Sampled name cols **nil** Newman/McCoy. No Buck Creek header yet | Owsley Co., KY | C571 C572 C573 C581 | S411 S412 |
+| Jan 1920 | — | FAN **PROVEN**: Owsley ED **93** = **Buck Creek Precinct No. 6** (leaf **1170**). Hh **1–183** **nil** Newman/McCoy. 1910 John hh **134** is 1920 Isaacs. John L + Cora **absent** | Buck Creek, Owsley Co., KY | C584 C586 C588 C589 | S418 S420 |
+| Jan 1920 | — | FAN **PROVEN**: Owsley ED **94** = **Wild Dog Precinct No. 7** (not Wilder). Sampled name cols **nil** Newman/McCoy | Wild Dog, Owsley Co., KY | C585 C598 | S421 |
+| Jan 1920 | — | FAN **PROVEN**: ED **90** Island Creek hh **113/121** **Newman, Arthur** 45 + Florence 33 + Omer[?] 12 + Grant 3 1/12. Only Newman head in the county | Island Creek, Owsley Co., KY | C600 C601 C602 C611 | S424 |
+| Jan 1920 | — | FAN **PROVEN** negative: Owsley EDs **88 / 89 / 91 / 92 / 94** name columns **nil** John L+Cora / McCoy. Cole John L and Johnson John L **rejected** | Owsley Co., KY | C603–C610 C605 C613 C611 | S425 |
+| Jan 1920 | — | FAN **PROVEN** negative: published Lee 1920 transcripts **nil** John ~41 + Cora ~26 Newman head | Lee Co., KY | C612 | S426 |
+| 1918 | — | FAN **PROVEN** as index: **NEWMAN, ROBERT**, mother **BRANDENBURG, CORA**, Owsley. **PROBABLE** 1930 Robert L | Owsley Co., KY | C614 | S427 |
+| 6 May 1942 | — | FAN: **George COMBS** d. Vincent, homicide extract. Charge of **John NEWNAM** is authored only | Vincent, Owsley Co., KY | C619 C620 | S429 |
 | Jan 1920 | — | FAN: KY N-550 John window 4460–4499 **nil** Owsley/Lee John L ~41 + Cora. John L 28 Harlan + Roxie **rejected** | Kentucky Soundex | C577 C580 | S415 |
+| Jan 1920 | — | FAN: Estill T625-566 mapped (leaves **832–1150**). Pass 75 Station Camp **nil** (**C628**) **WITHDRAWN** | Estill Co., KY | C625–C627 C635 | S431 S432 |
+| 16 Jan 1920 | ~48 (P001); FAN ages 34/34 | FAN: Estill ED **43** sh **8B** hh **175/170** Newman **[Andridge?]** 34 + **[Sarah?]** 34 + 3 children. **Not** John L | Irvine Precinct, Estill Co., KY | C633 C654 | S433 |
+| 26 Jan 1920 | — | FAN **PROVEN**: Estill ED **44** sh **14B** hh **120/135** **Newman, Boyd** 45 + **Allie** 35 + Sarah A / Arthur / Corlue / Clarence. Soundex N-550 p4130 | Station Camp, Estill Co., KY | C634 C637 C635 | S434 |
+| 24 Jan 1906 | — | FAN **PROVEN** as compiled index: **NEWMAN, Arthur**, mother **Allie Brandenbur**, Estill vol **240** cert **49665**. **PROBABLE** Boyd’s son | Estill Co., KY | C650 C651 | S438 |
+| Jan 1920 | — | FAN **PROVEN** negative: John L + Cora **absent as a couple** from 1920 Estill (only Newman heads = ED 43 and Boyd). Jackson contact-sheet **nil** Newman/McCoy head. Breathitt mapped, not closed | Estill / Jackson / Breathitt, KY | C643 C645 C646 C649 | S433 S436 S437 |
+| Jan 1920 | — | FAN: Wolfe T625-602 title Vol **91** EDs **234–242**. Powell T625-596 card leaf **1050**; ED **142** starts **1051**. Name columns unread | Wolfe / Powell Co., KY | C652 C655 C657 | S439 |
 | Apr 1940 | — | FAN: Owsley EDs **95-1..95-7** **nil** McCoy/Coy Newman head ~50. Arthur 63+Roda+Grant 22 = Henry×Mary. Ree McCoy 15 = Galigar son | Owsley Co., KY | C574 C579 C582 | S413 |
 | Apr 1950 | — | FAN: Owsley McCoy name API **0**. Newman hits = Bowman OCR + Clarence | Owsley Co., KY | C575 | S414 |
 | 11 Jul 1962 | — | NUMIDENT claim only: **MCCOY, NEWMAN** b. **13 Apr 1890** SSN **447-20-2466**, Modesto CA. **POSSIBLE** inverted P010 — **not merged**. Not a death date | Modesto, CA (claim office) | C576 | S415 |
