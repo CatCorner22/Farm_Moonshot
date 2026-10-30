@@ -1,0 +1,46 @@
+Pass 53 — 1900 Greene ED 42–43 A-sides (B040)
+=============================================
+Date: 30 Oct 2026 (America/New_York)
+Reel: NARA T623-856, IA 12thcensusofpopu856unit, 865 pp
+Local file: /tmp/t623-856-greene.pdf (NOT /tmp/t623-856.pdf, which is 1920 KY)
+
+Header remap (visual):
+  p175 = ED 41 sh 39 B  North Campbell
+  p180 = ED 42 sh  1 A  North Campbell / Springfield ward 6
+  p181 = ED 42 sh  1 B
+  p199 = ED 42 sh 10 B
+  p200 = ED 42 sh 11 A
+  p210 = ED 42 sh 16 A
+  p220 = ED 42 sh 21 A
+  p230 = ED 42 sh 26 A
+  p250 = ED 42 sh 36 A  (prior “sh 86 A” is a 3/8 misread; 1A + 70 pages = 36A)
+  p254 = ED 42 boarding-house sheet
+  p255 = ED 42 last B  BLANK
+  p256 = ED 43 sh  1 A  North Campbell / Springfield ward 7, Robert R. Hatton
+  p260 = ED 43 sh  3 A
+  p270 = ED 43 sh  8 A  (prior L239 “ED 44 sh 8 A” is an ED-stamp misread)
+  p280 = ED 43 sh 13 A
+  p300 = ED 43 sh 23 A
+  p310 = ED 43 sh 28 A
+  p315 = ED 43 sh 30 B
+  p318–319 = ED 43 tail (p319 almost blank: Dillard pair only)
+  p320 = volume title: Missouri Vol. 34 Greene Co. E.D.’s 44 to 61
+  p325 = ED 44 sh  2 B
+
+Unread A-sides visually read this pass (name-column crops @72 dpi; local
+/tmp/b040-pass53/names/, not committed):
+  ED 42: 182 184 186 190 192 194 198 202 206 208 214 216 218 222 224
+         226 232 234 238 242 246 248 254
+  ED 43: 256 257 258 262 264 266 272 274 278 282 286 288 290 294 296
+         298 302 304 306 312 314 316 317 318 319
+  plus p255 blank.
+
+Stone / Thomas A. on those A-sides: none.
+Named Dora: ED 43 sh 1 A dw/fam 6/6 Wright head 39 b. Iowa; wife Dora 34
+  b. Apr 1866 Missouri, 3/3 children — not P001 (C258).
+p314 “Newman” in the name-column-only crop is Shannon (wife Ida, b. Ind/KS)
+  on higher-res re-read — not a Newnam.
+
+Residual: unread B-sides inside ED 42–43 (A-sides + prior every-8 bracket
+and named samples already cover the heads that usually start on A).
+ED 44+ is outside B040 (Solomon Stone / William Newnam already C221/C222).

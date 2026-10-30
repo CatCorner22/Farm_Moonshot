@@ -45,7 +45,7 @@ Prioritised queue — work top to bottom. **Do not declare research complete whi
 | B037 | done | L | 1910 Lee KY Sturgeon ED 99 sheet **8A** header (T624-478 jp2 p.564) | Re-read enumerator signature: Elam Brandenburg vs Elton E. Newnam | conflict #13 | L102 | **Surname Treadway** on the original (C113). Given name not picked. Brandenburg / Newnam readings withdrawn as confident claims |
 | B038 | done | H | All project chats → master biography book | Combine chats; journalistic PDF with every saved JPEG | Written conclusion | L090 | `book/Dora-Ella-Newnam-Stone-A-Life.md` + `.pdf` (80 pp, 61 plates). Rebuild: `python3 scripts/build_dora_book.py` |
 | B039 | partial | L | Owsley / Lee census + marriage index + later DCs (deceased-only) | Robert & Sallie; Larkin×Louisa | FAN of P002’s Owsley line | L096 L106 L110 L113 L115 L116 L120 L127 L147 L158 **L260** **L295** | Owsley VS **1853–59, 1874–78, 1903–10 nil** Robert×Sallie and Larkin×Louisa (**C148**). Lee Books **1–15** **C228** nil Larkin×Louisa party row. Owsley marr book URLs **404** (**L295**). Gap **1879–1902** / courthouse |
-| B040 | partial | H | IA T623-855/856 Greene Co. | ED **37–43** Stone sweep | C117 / conflict #11 | L097 L100 L103 L104 L109 L112 L119 L131 L134 L156 L159 L160 L170 L171 L172 L192 L200 L207 L209 L210 L239 **L244** **L296 L297 L300** | **Thomas A. sh 18A (C117).** Pass 30 **C200/C201 withdrawn** (**#17**, **L297**). **C221–C223** + bracket **C254**. Residual: ED **42–43** unread sheets |
+| B040 | partial | H | IA T623-855/856 Greene Co. | ED **37–43** Stone sweep | C117 / conflict #11 | L097 L100 L103 L104 L109 L112 L119 L131 L134 L156 L159 L160 L170 L171 L172 L192 L200 L207 L209 L210 L239 **L244** **L296 L297 L300** **L305–L308** | **Thomas A. sh 18A (C117).** Pass 53: ED **42** = p.**180–255**, ED **43** = p.**256–319** (**L305**). Unread **A-sides** **nil Stone** (**C259**); **Wright, Dora** **34** b. **1866 MO** rejected (**C258**). Residual: unread **B-sides** |
 | B041 | partial | L | Lee/Owsley graves / minutes (on-site) | Samuel P. burial 1900–1910 | C012 | L098 L150 L169 L147 L148 | **Newnam Cemetery Pebworth** (**C150**). High View unmarked. Lee Clerk / KDLA |
 | B042 | partial | H | KDNP / Lee papers 1900–1912 | Newnam press | C012 B010 | L149 L150 L155 L183 | LOC Cloudflare; KDNP **nil**; no historic Beattyville Enterprise on KDL |
 | B043 | done | M | 1910 Yell AR T624-68 | Dora ~39 before Coy 1917 | H4 AR 1910 | L152 L153 L187 L190 L191 | **Done (negative)** — **C219**, **S228** |
@@ -55,8 +55,8 @@ Prioritised queue — work top to bottom. **Do not declare research complete whi
 | B047 | partial | M | WWI draft **1917–1918** Lee / Estill / Owsley / MO / TN sector | John H. Newnam b. Aug 1899; McCoy b. 1890 | P010 after 1900 | **L271–L274** | Lee **GT** **1126** cards **nil** (**C240–C241**, **S248**). Cross-border free transcripts **404/406** + MO bios **nil** (**C242**, **S249**). Residual: **FS/NARA M1509**; TN Knox/TSLA |
 
 ## Session handoff
-- **Last closed:** 30 Oct 2026 (America/New_York) · **Stopped after:** Pass **52** (**L301–L304**, **C255–C257**) + merge remapping.
-- **Next session starts with:** **B040** unread Greene ED **42–43**; **B007** ED **4** sh **1–4** + unread S-415 John cards; user handoffs (**R001/R007/R008**); **B045** probate; **B047** M1509 |
+- **Last closed:** 30 Oct 2026 (America/New_York) · **Stopped after:** Pass **53** (**L305–L308**, **C258–C259**) Greene ED **42–43** A-sides.
+- **Next session starts with:** **B040** unread ED **42–43** **B-sides**; **B007** ED **4** sh **1–4** + unread S-415 John cards + roll **249**; user handoffs (**R001/R007/R008**); **B045** probate; **B047** M1509 |
 
 
 ## Escalation log (brick walls — step number from exhaustive-research.md)
