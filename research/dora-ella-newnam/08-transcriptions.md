@@ -1957,3 +1957,21 @@ Pass 2: This sheet sits **after** McIlvain’s last Estill names (`_0140`) and *
 - Edmonson start / Edwards / 2914 → C591
 - McIlvain is not this Edmonson division → C587 C591
 
+## DOC085 — Owsley reconstructed marriage list, 21 July 1864 (Harry H. Newnam × Mary J. Partington)
+- Extract: `sources/indexes/owsley-tfkrha-williams-1843-80-extract.txt` SHA-256 `21530b95db118e138ab967f8a2af94a33ad9c3505d7fec69f2a0250acec485c0`
+- Provenance: TFKRHA “Early Marriages of Owsley Residents,” Yvonne Dishon from J. W. F. Williams notes. Live site **429**. Wayback 2016-03-30 HTML **opened** 30 Oct 2026. **Transcription of a derivative.** Courthouse books destroyed.
+
+### Diplomatic
+
+> Below we give the dates of several marriage licenses issued many years ago in Owsley county. These records were destroyed in the fire which burned the court house in Booneville.
+
+> **July 21, 1864**
+> **Harry H. Newnam and Mary J. Partington**
+
+Pass 2: Only Newman/Newnam row on the published list. 1843–1849 slice has no Newman/Tincher/Harrison. Susan Pitman (1852) is not Newman.
+
+### Facts extracted → claim IDs
+- 1864 Harry H. × Mary J. Partington → C596
+- 1843–1849 nil Harrison×Susan on this list → C597
+- B064 residual derivative found → C602
+

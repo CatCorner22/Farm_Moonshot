@@ -827,3 +827,11 @@ research/dora-ella-newnam/sources/census/1880-lee-ky-ed59-sheet43-p768-caroline-
   sha256: 56bac09f494e13aaabe9844eff7c4aca33bd996491479dc6d4c85cd3d7bbf13a
   format: JPEG crop, 2200x1782px
   check: overlay 0141 Edmonson County 31 W. Edwards 2914; M704-109 _0151.jp2
+/workspace/research/dora-ella-newnam/sources/indexes/owsley-tfkrha-williams-1843-80-extract.txt
+  sha256: 21530b95db118e138ab967f8a2af94a33ad9c3505d7fec69f2a0250acec485c0
+  format: text extract, 1,332 bytes
+  check: 21 Jul 1864 Harry H. Newnam x Mary J. Partington; 1843-49 nil Harrison
+/workspace/research/dora-ella-newnam/sources/indexes/estill-1840-coverage-pass59.txt
+  sha256: 90302289c3b9a997f22502c898b88f3e9b10258b32f51aee7014d13a1eb90168
+  format: text extract, 1,814 bytes
+  check: IA Burns numFound 0; KDLA 994033 and IGI M517301 skip 1840

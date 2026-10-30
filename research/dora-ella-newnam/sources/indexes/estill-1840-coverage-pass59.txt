@@ -1,0 +1,22 @@
+Estill 1840 Newman x Tincher coverage notes, Pass 59, 30 Oct 2026 (America/New_York). None of these is the original 27 Feb 1840 bond.
+
+1. Internet Archive advanced search title:"Historical Records of Estill" -> numFound 0.
+   title:(Estill County) AND (marriage OR marriages OR Burns OR McGhee) -> 1 hit: identifier rogersrelatedfam0000roge (Rogers family history, already noted S457). Burns / McGhee 1808-1851 compilation still not on IA.
+
+2. FamilySearch wiki Estill County, Kentucky Genealogy (opened 30 Oct 2026 via search capture; live wiki 403 this VM):
+   - County marriage records begin 1808.
+   - IGI/batch Estill marriage index 1852-1861 Batch M517301; 1874 Batch C517302. No 1840 batch listed.
+   - Collection "Kentucky, County Marriages, 1797-1954" remains login-walled here.
+
+3. KDLA Vital Records Microfilm Inventory (PDF opened 30 Oct 2026):
+   Estill County Roll #994033
+   Birth Records: 1852-1861, 1874, 1878, 1910
+   Marriage Records: 1852-1859, 1861, 1874, 1878
+   Death Records: 1852-1859, 1861, 1874, 1878, 1910
+   Additional death certificates at KDLA for 1911-1967 (statewide) — this is the series for vol 020 #09525, still unseen.
+
+4. LDS Genealogy Estill County Marriage Records (25 sources) opened 30 Oct 2026: lists Burns/McGhee "Record of marriages, Estill County, Kentucky, 1808-1851", "Estill County marriage permissive notes, 1809-1892", and "Marriage records (Estill County, Kentucky), 1808-1962" as FamilySearch Library / WorldCat holdings. None opened as images.
+
+5. USGenWeb Archives Estill marriage letter files (marr_no.txt / marr_t.txt) timed out (0 bytes / 25s). Live Genealogy Trails Estill 406 Mod_Security.
+
+6. Original 1932 Lee DC vol 020 #09525: no free image found this pass (USGenNet extract and KYDI index already on file). Informant still unnamed in the extract.
