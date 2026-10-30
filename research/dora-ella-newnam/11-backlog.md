@@ -12,7 +12,7 @@ Prioritised queue — work top to bottom. **Do not declare research complete whi
 | B004 | nil | H | IA `soundex1920ky117` N-550 | Dora / Ella Newman ~48 KY | 1920 hole | L035 | Three Dora cards, all wrong age; E-tab after Dougal |
 | B005 | done | H | IA `soundex1920ky144` S-350 | Dora Stone ~48 KY | m2 already by Jan 1920? | L047 | Full reel OCR nil Dora Stone |
 | B006 | done | H | IA `soundex1920tn107` N-550 | Dora Newman ~48 TN | 1920 hole | L049 | Full reel OCR nil Dora+Newman |
-| B007 | partial | M | 1910 Bollinger Co. MO Liberty Twp | Letha Sullivan household — any Newnam boarder/MIL | H4 Missouri FAN | L079 L083 L101 L105 L114 L146 L258 **L277 L278 L280 L281 L282 L283 L284 L287 L288** **L290** | **Pass 50:** rejected **C249–C250**. **Pass 51:** 1900 T623-839 mapped (Bollinger at reel tail; Liberty ED **4–5** PDF **~1101–1131**). Infant Letha **not** confirmed on even-page sample. `main` pass-20 truncated mid-PDF remapped **L290**. Residual: 1900 odd pages + ED **5** tail; 1910 John H. Sullivan father |
+| B007 | partial | M | 1910 Bollinger Co. MO Liberty Twp | Letha Sullivan household — any Newnam boarder/MIL | H4 Missouri FAN | L079 L083 L101 L105 L114 L146 L258 **L277 L278 L280 L281 L282 L283 L284 L287 L288** **L290** **L301–L304** | **Pass 52:** 1900 S-415 **no Letha head** (**C255**); sampled John cards **no Bollinger** (**C256**). L288 “William H Sullivan” on ED **5** sh **1 B** **withdrawn** (**C257**). Residual: unread John cards; ED **4** sh **1–4**; ED **5** interior lines; roll **249** William |
 | B008 | done | H | IA 1910 KY N-550 children | John H ~10 / Pearl already found / Rissa / Mary M as GD or servant | Household pass | L051 | OCR nil; Pearl 1910 Owsley prior |
 | B009 | nil | M | USGenNet Lee deaths 1911–1929 “N” | Samuel P / Dora / John Newnam deaths | C012 | L037 | No Samuel/Dora/John H in Lee 1911–1929; try Owsley + pre-1911 |
 | B010 | partial | M | Chronicling America / USGenNet gleanings | Newnam, Dora, Samuel, Coy, Stone, Ola 1900–1926 | Press pass | L041 L144 L166 L183 **L286** | *Yell County Journal* (Ola, **1925–1934**) — **not digitised**. GT Yell marriages **nil** Stone×Newnam (**C135**). LOC Cloudflare / new path **404** (**L286**); KDNP **nil** (**L183**) |
@@ -55,8 +55,8 @@ Prioritised queue — work top to bottom. **Do not declare research complete whi
 | B047 | partial | M | WWI draft **1917–1918** Lee / Estill / Owsley / MO / TN sector | John H. Newnam b. Aug 1899; McCoy b. 1890 | P010 after 1900 | **L271–L274** | Lee **GT** **1126** cards **nil** (**C240–C241**, **S248**). Cross-border free transcripts **404/406** + MO bios **nil** (**C242**, **S249**). Residual: **FS/NARA M1509**; TN Knox/TSLA |
 
 ## Session handoff
-- **Last closed:** 30 Oct 2026 (America/New_York) · **Stopped after:** merge **`origin/main` `7883373`** (PR #25/#27/#28). Remapped colliding IDs (**C251–C254**, **L289–L300**). Kept pass 31 **#17**.
-- **Next session starts with:** User handoffs (**R001/R007/R008**); **B040** unread ED **42–43**; **B007** 1900 Liberty odd pages; **B014** Hardin DC image; **B045** probate; **B047** M1509 |
+- **Last closed:** 30 Oct 2026 (America/New_York) · **Stopped after:** Pass **52** (**L301–L304**, **C255–C257**) + merge remapping.
+- **Next session starts with:** **B040** unread Greene ED **42–43**; **B007** ED **4** sh **1–4** + unread S-415 John cards; user handoffs (**R001/R007/R008**); **B045** probate; **B047** M1509 |
 
 
 ## Escalation log (brick walls — step number from exhaustive-research.md)
