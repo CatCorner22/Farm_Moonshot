@@ -1,0 +1,39 @@
+1890 Lee County KY Union veterans special schedule — Kendrick HTML transcripts.
+Opened 30 Oct 2026 (America/New_York) from USGenNet (live 200). RootsWeb mirrors 403.
+NARA M123 roll 3 (Lee among Adair…Whitley). Original images NOT seen this pass
+(IA search nil; FamilySearch coll. 1877095 / Ancestry 8667 login-walled).
+Transcriber: Debi Houser Kendrick. Derivative of the 1890 special schedule.
+
+OLD LANDING (1890b.html) — Beattyville Precinct, Old Landing, Dist 6, ED 77,
+Harlan T. Beatty, enumerated June 1890. Default PO Beattyville unless noted.
+
+  Line 8  hh 231/243  Ace Tincher       Pvt  C  14 Ky Cav  8/16/1862–9/16/1863  1y 1m 0d
+           note #8: Yellow jaundice - Reinlisted Veteran
+  Line 9  hh 235/247  Elias T. Newnam   Bugler C  14 Ky Cav  8/16/1862–6/16/1863  1y 1m 0d
+           no #9 note (default Beattyville PO). Length 1y 1m 0d from 8/16/1862
+           implies muster-out 9/16/1863, not 6/16 — conflict with AG roster 9/16
+           and with Ace Tincher on the same page. Do not average.
+  Line 48 hh 384/405  Henry H. Newnam   Pvt  —  —  —  —  —
+           note #48: Address, Proctor, Ky. Company/regiment/dates BLANK on this
+           transcript. Do not fill from M397 or the 14th KY Cav roster.
+
+BEATTYVILLE (1890.html) — Beattyville Precinct, Dist 6, ED 77, same enumerator.
+
+  Line 13 hh 76/82  Sarah A. widow of Cadiff Newnam  Pvt C  14 Ky Cav
+           8/16/1862–9/16/1863  1y 0m 0d
+           note #13: P_____ _____ fever. FAN, not merged with Elias T. / Henry H.
+
+STURGEON (1890c.html) — Sturgeon Precinct, Dist 6, ED 77.
+
+  Line 1  hh 392/414  John Newnam    Pvt G  47 Ky Inf  7/27/1863–12/26/1864  1y 5m 29d
+           note #1: Address, Beattyville, Ky - general disability. FAN, unmerged
+           vs 1880 John 69 (would be ~79).
+  Line 23 hh 455/481  John W. Newnam Pvt D  8 Ky Inf   8/ /1861–9/ /1862  1y 1m
+           FAN, unmerged. M397 lists John W. Newman Co C 14th KY Cav Corporal
+           as a different (or additional) service — not silently merged.
+
+PROCTOR part 1 (1890d.html): nil Elias T. / Henry H. Newnam.
+  Line 15 hh 84/90   Elias Tincher    Pvt —  8 Ky Inf  dates blank. FAN vs C533, unmerged.
+  Line 17 hh 103/111 William N. Tincher Pvt A  7 Ky Inf  8/19/1861–10/5/1864. Unmerged.
+
+PROCTOR part 2 (1890e.html): nil Newnam/Newman this grep.

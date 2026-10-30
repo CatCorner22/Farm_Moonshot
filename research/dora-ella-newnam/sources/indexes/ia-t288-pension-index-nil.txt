@@ -1,0 +1,15 @@
+Internet Archive T288 / General Index to Pension Files hunt
+Pass 62, 30 Oct 2026 (America/New_York).
+
+Query 1: title:(general index to pension files) AND newman
+  https://archive.org/advancedsearch.php ... output=json
+  numFound 0
+
+Query 2: collection:(usnationalarchives) AND title:(pension files)
+  AND (T288 OR "general index to pension")
+  numFound 0
+
+FamilySearch collection 1919699 live HTTP 403 this VM.
+Ancestry Civil War Pension Index unread (paywall).
+This is not a name-by-name nil inside T288. It is a coverage hole:
+the index images were not opened.

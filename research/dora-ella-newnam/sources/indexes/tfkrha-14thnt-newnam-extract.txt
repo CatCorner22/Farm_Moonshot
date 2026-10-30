@@ -1,0 +1,272 @@
+TFKRHA 14th Kentucky Cavalry roster, N–T page
+https://tfkrha.org/owsley/14THNT.htm opened 30 Oct 2026 (America/New_York).
+Derivative of KY Adjutant General rolls. Live HTML 200 this pass (search capture
+and converted text). Company column is blank in the converted Newnam rows;
+Naper on the same page has company I. Does NOT name parents.
+
+ROSTER OF THE 14TH KENTUCKY CAVALRY
+
+ ROSTER OF THE 14TH KENTUCKY CAVALRY
+
+N-T
+
+NAME
+
+Rank
+
+Co
+
+Enrolled
+
+Mustered In
+
+At
+
+Mustered Out
+
+At
+
+Adj. Comment
+
+Naper, J.J. Crittenden
+
+Pvt
+
+I
+
+1863-03-01
+
+1863-06-15
+
+Lex
+
+1864-03-24
+
+CmpNel
+
+Napier, Ezekiel
+
+Pvt
+
+L
+
+1862-12-10
+
+1863-02-13
+
+Irv
+
+1864-03-24
+
+CmpNel
+
+Napier, Micajah C.
+
+Pvt
+
+L
+
+1862-12-06
+
+1863-02-13
+
+Irv
+
+1864-03-24
+
+CmpNel
+
+Napier, Micajah S.
+
+Pvt
+
+L
+
+1862-12-17
+
+1863-02-13
+
+Irv
+
+1864-03-24
+
+CmpNel
+
+Neal, James R.
+
+Pvt
+
+1862-10-28
+
+1863-02-13
+
+Irv
+
+1864-03-24
+
+CmpNel
+
+Neal, James R.
+
+Pvt
+
+1862-10-20
+
+1863-06-15
+
+Lex
+
+1863-05-01t
+
+Transferred to Co. F.
+
+Nealy, Armond G.
+
+Pvt
+
+1862-12-01
+
+1863-02-13
+
+Irv
+
+1863-03-24
+
+CmpNel
+
+Nealy, David R.
+
+Pvt
+
+1862-08-04
+
+1863-02-13
+
+Irv
+
+1863-03-24
+
+CmpNel
+
+Nealy, John
+
+Pvt
+
+1862-12-01
+
+1863-02-13
+
+Irv
+
+1863-03-24
+
+CmpNel
+
+Neeley, David R.
+
+Pvt
+
+1862-08-04
+
+1863-02-13
+
+Irv
+
+1863-05-01t
+
+Transferred to Company E.
+
+Neely, Ransom C.
+
+1862-12-01
+
+1863-02-13
+
+Estil
+
+1864-03-24
+
+CmpNel
+
+Nelson, Alexander
+
+Pvt
+
+1863-01-21
+
+1863-02-13
+
+Estil
+
+1864-03-01t
+
+Transferred to 6th Ky. Infantry.
+
+Nelson, James
+
+1862-12-19
+
+1863-02-13
+
+Estil
+
+1864-03-01t
+
+Transferred to 6th Ky. Infantry.
+
+Newnam, Elias T.
+
+Bug
+
+1862-08-16
+
+1862-08-21
+
+MtStl
+
+1863-09-16
+
+Mysvl
+
+Newnam, Francis D.
+
+Pvt
+
+1862-08-16
+
+1862-08-21
+
+MtStl
+
+1863-09-17
+
+Mysvl
+
+Newnam, Henry H.
+
+1862-08-16
+
+1862-08-21
+
+MtStl
+
+1863-09-17
+
+Mysvl
+
+Newnam, John W.
+
+Cpl
+
+1862-08-16
+
+1862-08-21
+
+MtStl
+
+1863-09-16
+
+Mysvl
+
+Henry H. rank cell blank. Elias T. rank Bug. Francis D. Pvt. John W. Cpl.
+Elias MO 1863-09-16 Mysvl; Francis D. and Henry H. MO 1863-09-17 Mysvl.

@@ -835,3 +835,88 @@ research/dora-ella-newnam/sources/census/1880-lee-ky-ed59-sheet43-p768-caroline-
   sha256: 90302289c3b9a997f22502c898b88f3e9b10258b32f51aee7014d13a1eb90168
   format: text extract, 1,814 bytes
   check: IA Burns numFound 0; KDLA 994033 and IGI M517301 skip 1840
+
+/workspace/research/dora-ella-newnam/sources/indexes/lee-1890-veterans-extract.txt
+  sha256: bafc95798234cb91cc6622b5914ac93fe3d5e1b6d171ed73d984ea17b5096ea5
+  format: text extract, 2,340 bytes
+  check: 1890 Old Landing Elias T. Bugler Co C; Henry H. blank unit Proctor
+/workspace/research/dora-ella-newnam/sources/indexes/lee-1890-oldlanding.html
+  sha256: ac228e7cc206c0ed290a93fa4f301b52098dd4c0ca700a1ad86fd73f3913c41f
+  format: HTML, 44,998 bytes
+  check: Kendrick 1890 veterans Old Landing ED 77
+/workspace/research/dora-ella-newnam/sources/indexes/lee-1890-beattyville.html
+  sha256: 30dfe3b2ecd217cf023223b60834e7f87777d29d2f798cb1401158980e0faccf
+  format: HTML, 43,609 bytes
+  check: Kendrick 1890 veterans Beattyville; Cadiff Newnam widow
+/workspace/research/dora-ella-newnam/sources/indexes/lee-1890-sturgeon.html
+  sha256: 4bde12d8b2e9791edf8e8b236bad9b671b029a391f50070b375aea93c1d3febb
+  format: HTML, 26,508 bytes
+  check: Kendrick 1890 veterans Sturgeon; John / John W. Newnam
+/workspace/research/dora-ella-newnam/sources/indexes/lee-1890-index.html
+  sha256: abf88bc0816c8b59297150e83d656c2a429fd55cf7f766bf9d0f0964334fde64
+  format: HTML, 8,424 bytes
+  check: Kendrick 1890 veterans precinct index
+/workspace/research/dora-ella-newnam/sources/indexes/kydi-1918-0711-mary-nil-extract.txt
+  sha256: 4531adb8b4330b9155c0f93d9e39f21c07aa08b9d0f246141729b27c9c691cdf
+  format: text extract, 1,403 bytes
+  check: KYDI 1918 statewide 07/11 nil LEE nil Newman
+/workspace/research/dora-ella-newnam/sources/indexes/owsley-1918-newman-nil-extract.txt
+  sha256: 51d7c4f615497a009120852be92f0770d41464a329cded00ed422d729f329934
+  format: text extract, 966 bytes
+  check: Owsley 1917-19 DC extracts nil Newman/Smallwood decedent
+/workspace/research/dora-ella-newnam/sources/indexes/m397-14th-kycav-newnam-extract.txt
+  sha256: e8223ed962cf22d7db582d8bcce71f93a1518daff469ea273060fe7bea51fe9b
+  format: text extract, 1,436 bytes
+  check: M397 reel 131 Elias T. Teamster/Bugler Co C; Henry H. Private
+/workspace/research/dora-ella-newnam/sources/indexes/estill-1840-coverage-pass60.txt
+  sha256: c9152d90e2f95c8b29eafbd0bb363c5a17ae1ebac3e4b88602e0b915448925f2
+  format: text extract, 895 bytes
+  check: Pass 60 Burns CDX FS 1417495 403; original DC unseen
+/workspace/research/dora-ella-newnam/sources/indexes/estill-1840-coverage-pass61.txt
+  sha256: 6087f55d987bb8a3f6354a37380a68473621e9830f648ed19143dc46264cbdb9
+  format: text extract, 1,545 bytes
+  check: Pass 61 1883 pension nils; Speed; beatty Uncle Doll
+/workspace/research/dora-ella-newnam/sources/indexes/lee-1883-pensioners-nil-extract.txt
+  sha256: b0b9d5154e1f7ecbf87546bdb4192ffed15dbf6653e22becf36e5c0215f5258b
+  format: text extract, 1,838 bytes
+  check: 20 Lee/Beattyville 1883 rows nil Newman/Newnam
+/workspace/research/dora-ella-newnam/sources/indexes/owsley-1883-pensioners-nil-extract.txt
+  sha256: e370c65c4399e04f128e45c9da81eb97bf6f9009398ba9930197ba035c8d361d
+  format: text extract, 628 bytes
+  check: Owsley 1883 Baker-Winn nil Newman; Susan J. Smallwood unmerged
+/workspace/research/dora-ella-newnam/sources/indexes/union-regiments-14cav-coc-extract.txt
+  sha256: 6af690cbeced4ea327d888ee724e9bc80383aae94297d1c37a947bed0a0b5c7b
+  format: text extract, 1,229 bytes
+  check: Speed 1897 Co C buglers Henry Stamper, Elias T. Newman
+/workspace/research/dora-ella-newnam/sources/indexes/beattyville-enterprise-doll-extract.txt
+  sha256: d270566687bf894eff4deb82121742358a796e972bea4faa4a5fbb6911e26214
+  format: text extract, 1,508 bytes
+  check: 30 Nov 1928 Uncle Doll Newman sick; 1 Apr 1932 Sparks visit
+/workspace/research/dora-ella-newnam/sources/indexes/eastkyunion-bio-c-elias-extract.txt
+  sha256: 128838bd390e71f7187efea6114d4191f8922d06c66d8b5ff1153db2c0f00a53
+  format: text extract, 706 bytes
+  check: Bio_C Elias parents/pension/buried blank
+/workspace/research/dora-ella-newnam/sources/indexes/nps-14th-kycav-unit-extract.txt
+  sha256: 4e2e4601f47a67013e8caf061455f08a277b6f4adaf159c30162e8565d407b35
+  format: text extract, 669 bytes
+  check: NPS UKY0014RC Cos A-D MI 6 Nov 1862; MO 16 Sep 1863-24 Mar 1864
+/workspace/research/dora-ella-newnam/sources/indexes/tfkrha-14thnt-newnam-extract.txt
+  sha256: 37c7145d558249ad8a63e220102071abbe426811d1b1afeff38f91ff2ffc95f3
+  format: text extract, 1,962 bytes
+  check: Live TFKRHA Elias T. Bug MO 16 Sep 1863 Mysvl; Henry H. rank blank
+/workspace/research/dora-ella-newnam/sources/indexes/estill-1840-coverage-pass62.txt
+  sha256: 008f645867d6f7db513a41b4269f408ffa36ac21946730a8a5d334eb2ec78325
+  format: text extract, 1,736 bytes
+  check: Pass 62 T288 not on IA; FS 1919699 403; USGW timeout
+/workspace/research/dora-ella-newnam/sources/indexes/uk-omeka-beattyville-holdings-extract.txt
+  sha256: 837490c94bd7dfe4fac42691b8a53de101218d73b76fc3a5706d3ead750b34c4
+  format: text extract, 638 bytes
+  check: UK omeka 65438 KUK 18568 scattered Beattyville Enterprise issues
+/workspace/research/dora-ella-newnam/sources/indexes/ia-t288-pension-index-nil.txt
+  sha256: 55e98e61629a77c4349e527901f6284367048847b4b01293803cc6bf3d227685
+  format: text extract, 563 bytes
+  check: IA T288 title searches numFound 0
+/workspace/research/dora-ella-newnam/sources/indexes/nps-soldier-search-js-shell.txt
+  sha256: a4d9ff95b1036af7a4fdfa75c342204dfe9ea6ded2259b6f5a5ce4eb29042381
+  format: text extract, 482 bytes
+  check: NPS soldier search HTML JS shell; names not read

@@ -1,0 +1,13 @@
+Estill 1840 Newman×Tincher + 1932 DC coverage notes, Pass 60, 30 Oct 2026
+(America/New_York). None of these is the original 27 Feb 1840 bond or vol 020 #09525.
+
+1. IA creator:(Annie Walker Burns) AND estill -> numFound 0 (extends C599).
+2. Wayback CDX for kygenweb.net/estill/marry/marrycert/n.htm -> empty (no 200 capture).
+   Live kygenweb Estill N-groom certificate page not opened (prior T-page was Tipton).
+3. FamilySearch catalog 1417495 (KY Death Records 1911-1965) live 403 this VM.
+4. digitalheritage.arkansas.gov DNS fail this pass (extends B011).
+5. Genealogy Trails Yell deaths_various.html 301.
+6. Burns remains a private/library digital copy (Schimka notes a PDF in a private
+   collection; not a public IA/Hathi item). eCCLIX still paid.
+7. 1890 veterans transcripts (S481) do not name Elias T.'s parents.
+8. Original 1932 DC vol 020 #09525 and 1916 vol 044 #21663 still unseen.

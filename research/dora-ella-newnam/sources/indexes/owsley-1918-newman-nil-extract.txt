@@ -1,0 +1,15 @@
+Owsley County KY death-certificate extracts 1917–1919 vs Mary A. Newnam 11 Jul 1918.
+USGenNet Kendrick HTML opened 30 Oct 2026 (America/New_York):
+  https://usgennet.org/usa/ky/county/owsley/deaths/1918dc.html  200  44,167 bytes
+  https://usgennet.org/usa/ky/county/owsley/deaths/1917dc.html  200  35,764 bytes
+  https://usgennet.org/usa/ky/county/owsley/deaths/1919dc.html  200  46,389 bytes
+Transcriptions of photographs, not original DC images. HTML working copies not
+committed (size); this extract is the search result.
+
+1918: nil decedent NEWNAM / NEWMAN / SMALLWOOD. Only TINCHER string is mother
+  Emeline TINCHER of ROBINSON, Butler (58, d. 14 Jun) — FAN, unmerged, not Mary A.
+1917: nil NEWNAM / NEWMAN / SMALLWOOD as decedent or parent in a grep of the file.
+1919: nil NEWNAM / NEWMAN / SMALLWOOD as decedent or parent in a grep of the file.
+
+Neighbouring-county civil registration for a 11 Jul 1918 Mary Newnam death is
+not in these Owsley extracts.

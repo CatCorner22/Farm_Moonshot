@@ -1,0 +1,7 @@
+NPS Civil War soldier search, 30 Oct 2026 (America/New_York).
+https://www.nps.gov/civilwar/search-soldiers.htm?submitted=1&firstName=Elias&lastName=Newman&stateCode=KY&warSideCode=U
+HTTP 200, 42,543 bytes. Same size for Newnam and for Henry Newman.
+HTML is a JavaScript shell: p#noResultsMsg and div#search-results are
+display:none; no soldier names in the static markup.
+Names not read. Do not invent a soldierId.
+Unit history already extracted as nps-14th-kycav-unit-extract.txt.

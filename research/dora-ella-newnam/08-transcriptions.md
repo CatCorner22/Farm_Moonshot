@@ -1975,3 +1975,122 @@ Pass 2: Only Newman/Newnam row on the published list. 1843–1849 slice has no N
 - 1843–1849 nil Harrison×Susan on this list → C597
 - B064 residual derivative found → C602
 
+## DOC086 — 1890 Union veterans schedule, Lee Co. Old Landing, Elias T. Newnam (Kendrick HTML)
+- HTML: `sources/indexes/lee-1890-oldlanding.html` SHA-256 `ac228e7cc206c0ed290a93fa4f301b52098dd4c0ca700a1ad86fd73f3913c41f` (44,998 bytes)
+- Extract: `sources/indexes/lee-1890-veterans-extract.txt` SHA-256 `bafc95798234cb91cc6622b5914ac93fe3d5e1b6d171ed73d984ea17b5096ea5`
+- Provenance: USGenNet, Debi Houser Kendrick, opened 30 Oct 2026. **Transcription of NARA M123 roll 3.** Original image **not seen**.
+
+### Diplomatic
+
+> Eleventh Census of the United States / Special Schedule / Surviving Soldiers, Sailors, and Marines, and Widows, Etc.
+> Persons who served … in Beattyville Precinct, County of Lee, State of Kentucky, enumerated in June 1890.
+> **Old Landing**, District **6**, Enumeration District **77**, **Harlan T. Beatty**, Enumerator
+
+> Line **9** · Home **235** · Family **247** · **Elias T. Newnam** · **Bugler** · **C** · **14 Ky Cav** · Enlistment **8/16/1862** · Discharge **6/16/1863** · Length **1y 1m 0d**
+
+> Note: All use Beattyville Post Office unless otherwise noted. **No #9 note.**
+
+Pass 2: Line **8** on the same table is **Ace Tincher**, Pvt C 14 Ky Cav **8/16/1862–9/16/1863**. Length on line 9 (**1y 1m 0d**) from 8/16/1862 is 9/16/1863, not 6/16. Do not silently correct the HTML.
+
+### Facts extracted → claim IDs
+- Elias T. Newnam Bugler Co C 14 Ky Cav Old Landing → C603
+- Discharge 6/16 vs roster 9/16 → C604
+- Ace Tincher FAN → C606
+
+## DOC087 — 1890 Union veterans schedule, Lee Co. Old Landing, Henry H. Newnam (Kendrick HTML)
+- Same HTML as DOC086.
+
+### Diplomatic
+
+> Line **48** · Home **384** · Family **405** · **Henry H. Newnam** · **Pvt** · **—** · **—** · Enlistment **—** · Discharge **—** · Length **—**
+
+> Note **#48** Address, **Proctor, Ky**
+
+Pass 2: Company, regiment, and dates are blank in this transcript. Do not fill them from M397 (Co C Private) or the 14th KY Cav roster.
+
+### Facts extracted → claim IDs
+- Henry H. Newnam Pvt blank unit, Proctor PO → C605
+- Original M123 unseen → C618
+
+## DOC088 — Speed 1897, 14th KY Cav Company C (IA OCR)
+- Extract: `sources/indexes/union-regiments-14cav-coc-extract.txt` SHA-256 `6af690cbeced4ea327d888ee724e9bc80383aae94297d1c37a947bed0a0b5c7b`
+- Provenance: Thomas Speed, *The Union Regiments of Kentucky* (1897), IA `unionregimentso00unio` OCR, opened 30 Oct 2026. **Derivative** of the 1866 AG report. 1866 volume **not image-read**.
+
+### Diplomatic
+
+> Fourteenth Kentucky Cavalry, Company "C."
+> CAPTAIN—Seldon F. Bowman. … SERGTS.—… **Elihu Tincher**, …
+> CORPLS.—… **John W. Newman**, …
+> **BUGLERS—Henry Stamper, Elias T. Newman.**
+> FARRIERS—**Wm. J. Smallwood**, Wm. P. Crabtree.
+> PRIVATES include: **Francis D. Newman**, **Henry H. Newman**, **Asa Tincher**, …
+
+Pass 2: No individual enlistment or muster-out days in this company list. Does not name parents.
+
+### Facts extracted → claim IDs
+- Elias T. Newman bugler Co C → C621
+- Elihu Tincher / Asa Tincher unmerged → C631
+- Wm. J. Smallwood farrier unmerged → C632
+
+## DOC089 — Beattyville Enterprise, 30 Nov 1928, Uncle Doll Newman
+- Extract: `sources/indexes/beattyville-enterprise-doll-extract.txt` SHA-256 `d270566687bf894eff4deb82121742358a796e972bea4faa4a5fbb6911e26214`
+- Provenance: IA item `beatty` OCR of UK microfilm, opened 30 Oct 2026. **OCR**; jp2 not cropped.
+
+### Diplomatic
+
+> BEATTYVILLE, LEE COUNTY, KENTUCKY, NOVEMBER 30, 1928
+> t'nc I. Doll Newman haa been verj *lek for a few days and r»>t able to be out.
+
+Reading: Uncle Doll Newman has been very sick for a few days and not able to be out.
+
+Pass 2: Uncertain OCR letters. Nickname Doll + Beattyville 1928. Does not name parents.
+
+### Facts extracted → claim IDs
+- Uncle Doll Newman sick 30 Nov 1928 → C623
+
+## DOC090 — Beattyville Enterprise, 1 Apr 1932, Uncle Doll Newnam
+- Same extract as DOC089.
+
+### Diplomatic
+
+> E. T. Sparks of Hazard was visiting Uncle Doll Newnam in this city Tuesday.
+
+Pass 2: Vol XXVI No. 14, Easter week 1932. Alive 17 days before the 18 Apr 1932 death extract. Visitor unmerged. No later issue on this IA item.
+
+### Facts extracted → claim IDs
+- Uncle Doll Newnam visited 1 Apr 1932 → C624
+- No 21 Apr 1932+ issue on IA `beatty` → C627
+
+## DOC091 — 1883 Lee County pensioners (website tables)
+- Extract: `sources/indexes/lee-1883-pensioners-nil-extract.txt` SHA-256 `b0b9d5154e1f7ecbf87546bdb4192ffed15dbf6653e22becf36e5c0215f5258b`
+- Provenance: New Horizons + Genealogy Trails tables of the GPO 1883 list, opened 30 Oct 2026. **Transcriptions.** GPO original unread.
+
+### Diplomatic
+
+Twenty Beattyville rows (Akers through Thatcher). **NIL** Newman / Newnam / Smallwood.
+
+Pass 2: Independent websites, same GPO source. Not an image of the printed volume.
+
+### Facts extracted → claim IDs
+- Lee 1883 nil → C619
+- GPO original unread → C628
+
+## DOC092 — TFKRHA 14th KY Cav N–T roster, Newnam rows (live HTML)
+- Extract: `sources/indexes/tfkrha-14thnt-newnam-extract.txt` SHA-256 `37c7145d558249ad8a63e220102071abbe426811d1b1afeff38f91ff2ffc95f3`
+- Provenance: https://tfkrha.org/owsley/14THNT.htm opened 30 Oct 2026, HTTP **200**. **Derivative** of KY AG rolls.
+
+### Diplomatic
+
+> NAME / Rank / Co / Enrolled / Mustered In / At / Mustered Out / At
+> **Newnam, Elias T.** / **Bug** / *(blank)* / **1862-08-16** / **1862-08-21** / **MtStl** / **1863-09-16** / **Mysvl**
+> **Newnam, Francis D.** / **Pvt** / *(blank)* / 1862-08-16 / 1862-08-21 / MtStl / **1863-09-17** / Mysvl
+> **Newnam, Henry H.** / *(blank)* / *(blank)* / 1862-08-16 / 1862-08-21 / MtStl / **1863-09-17** / Mysvl
+> **Newnam, John W.** / **Cpl** / *(blank)* / 1862-08-16 / 1862-08-21 / MtStl / 1863-09-16 / Mysvl
+
+Pass 2: Naper on the same page has company **I**; the Newnam company cells are blank in this conversion. Do not fill Co C from M397 onto this table. Do not fill Henry H. rank from M397. Does not name parents.
+
+### Facts extracted → claim IDs
+- Elias T. Bug MO 16 Sep 1863 Maysville → C633
+- Henry H. rank blank → C634
+- Francis D. unmerged → C644
+

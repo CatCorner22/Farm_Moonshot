@@ -1,0 +1,28 @@
+Estill 1840 / 1932 DC / pension coverage notes, Pass 62, 30 Oct 2026
+(America/New_York). None of these is the original 27 Feb 1840 bond, vol 020
+#09525, or M123-3 original.
+
+1. Live TFKRHA https://tfkrha.org/owsley/14THNT.htm HTTP 200. Newnam, Elias T.
+   rank Bug; enrolled 1862-08-16; MI 1862-08-21 MtStl; MO 1863-09-16 Mysvl.
+   Company cell blank on the converted Newnam rows (Naper on the same page
+   has company I). Henry H. rank cell blank; MO 1863-09-17. Does not name
+   parents.
+2. Internet Archive advancedsearch title:(general index to pension files)
+   AND newman — numFound 0. collection:usnationalarchives AND title:(pension
+   files) AND (T288 OR "general index to pension") — numFound 0. T288 images
+   not on IA this pass.
+3. FamilySearch collection 1919699 (General Index to Pension Files,
+   1861-1934) HTTP 403 this VM.
+4. NPS soldier search pages HTTP 200 but JS shell only (noResultsMsg hidden;
+   results not in HTML). Names not read. Unit page already S492.
+5. USGW Archives Estill marr-n.txt / marr-t.txt / marr-no.txt curl timeout
+   25s, 0 bytes (repeat of Pass 59 L521).
+6. UK omeka item 65438 (KUK 18568 / S 90-033): Beattyville Enterprise
+   scattered issues 1909-1911; 1915; 1924-1925; 1928; 1932. Digitized on
+   external hard drive. Does not add a post-1 Apr 1932 issue beyond IA beatty.
+7. freecivilwarrecords M397 reel 131 live HTTP 403 this pass. Search-capture
+   rows match C610 (Newman/Newnam Elias T. Teamster/Bugler Co C).
+8. eastkyunion 1883 Owsley pensioner page HTTP 403 this pass.
+9. John Henry "Uncle Doll" Herald (Breathitt album, b. 1865) is a different
+   man — not merged with Beattyville Uncle Doll Newnam.
+10. Original 1932 DC and 1840 bond still unseen. Do not promote C509.

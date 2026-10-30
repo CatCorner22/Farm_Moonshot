@@ -1,0 +1,23 @@
+KYDI 1918 statewide — 11 Jul 1918 and Mary ~76 vs Brandenburg-Quillen stone.
+Reclaim the Records year file Reclaim_The_Records_-_Kentucky_Death_Index_-_01918.TXT
+from IA item reclaim-the-records-kentucky-death-index-01911-1989.
+Opened 30 Oct 2026 (America/New_York). Full year file NOT committed (4,918,205 bytes).
+Prior Lee/Newman-nil extracts (S437/S443/S444) stand. This pass adds:
+
+1. All rows dated 07/11/1918: 92 deaths. ZERO in LEE. ZERO NEWMAN/NEWNAM/NEUMAN/
+   SMALLWOOD/TINCHER. Mary given-name hits on that date (all rejected vs P005):
+     CONLEY MARY 32 JEFFN vol 037 #18212
+     EZELL MARY J 73 CRSTN vol 035 #17329
+     REYNOLDS MARY J 85 KENTN vol 037 #18394
+     SALMONS MARY 23 WHTLY vol 039 #19265
+2. Statewide MARY age 76 any date, 1918: 18 rows. NONE in LEE/OWSLY/ESTIL/WOLFE/
+   BRTHT/CLAY. NONE surnamed Newman/Newnam/Smallwood. Closest rejects:
+     FIKE MARY A 76 JEFFN 07/23/1918 (12 days later; Jefferson; Fike)
+     NEWTON MARY L 76 OHIO 04/30/1918 (wrong surname/county/date)
+     BURRESS MARY A 76 MCCRY 10/23/1918
+3. NEWMAN+MARY and NEWNAM+MARY: nil in the entire 1918 year file.
+4. OWSLY July 1918 nearby: GABBARD JOHN H 1 07/10; HERALD GOLDA 1 07/06;
+   SEBASTIAN MITCHELL 1 07/10. No Mary, no Newnam.
+
+Does not invent a certificate. Strengthens conflict #22: if Mary A. Newnam died
+11 Jul 1918 in Kentucky under those surnames, the statewide index does not have her.

@@ -1,0 +1,26 @@
+NARA M397 compiled military service records — 14th Kentucky Cavalry name index.
+FreeCivilWarRecords.org publication M397 reel 131 index page, opened 30 Oct 2026
+via web search capture (live page later 403 this VM). Derivative index of Union
+volunteer compiled service records. Cards / images NOT opened.
+
+Rows (surname variants cross-referenced):
+
+  Newman, Elias T.     14th Regiment, Kentucky Cavalry  C  Teamster  Bugler
+  Newnam, Elias T. (ref)  same
+  Newman, Francis D. (ref)  14th KY Cav  C  Private  Private
+  Newnam, Francis D.        same
+  Newman, Henry H. (ref)    14th KY Cav  C  Private  Private
+  Newnam, Henry H.          same
+  Newman, John W.           14th KY Cav  C  Corporal  Corporal
+  Newnam, John W. (ref)     same
+
+Does NOT name parents. Does NOT replace the 1932 DC. Henry H. unit on this index
+is Co C — the 1890 Kendrick transcript leaves Henry H.'s company/regiment blank;
+do not overwrite that blank from this index.
+
+TFKRHA 14th KY Cavalry roster (N-T page, opened 30 Oct 2026 via search capture):
+  Newnam, Elias T.  Bug  enrolled 1862-08-16  MI 1862-08-21 MtStl  MO 1863-09-16 Mysvl
+  Newnam, Francis D. Pvt  1862-08-16 / 1862-08-21 MtStl / 1863-09-17 Mysvl
+  Newnam, Henry H.        1862-08-16 / 1862-08-21 MtStl / 1863-09-17 Mysvl
+Elias T. roster muster-out 16 Sep 1863 vs 1890 transcript discharge 16 Jun 1863
+(conflict #23). Length on the 1890 row is 1y 1m 0d, which matches 16 Sep, not 16 Jun.
