@@ -799,3 +799,15 @@ research/dora-ella-newnam/sources/census/1880-lee-ky-ed59-sheet43-p768-caroline-
   sha256: 9da78430e89409d7fd0ea09c01a9e074f05f592e5c869aa262018d8ffaca3596
   format: text extract, 1,304 bytes
   check: Edmonson 1840 index nil Newman/Tincher; page 84 not McIlvain
+/workspace/research/dora-ella-newnam/sources/census/1840-breathitt-m704-105-leaf132-names.jpg
+  sha256: e5c23d70312d66dc249cb819f128512d61c274f5028cdbfbdf5e670ae2b92a72
+  format: JPEG crop, 1400x1540px
+  check: Breathitt first name page; John Bowman not Newman; M704-105 _0132.jp2
+/workspace/research/dora-ella-newnam/sources/census/1840-breathitt-m704-105-leaf154-names.jpg
+  sha256: fef7d4b2d97d74d739cac49f632bc640914043dcef0c4c162b371897a0fb75ad
+  format: JPEG crop, 1400x1550px
+  check: Breathitt last name page ends Total; M704-105 _0154.jp2
+/workspace/research/dora-ella-newnam/sources/census/1840-breathitt-m704-105-leaf156-recap.jpg
+  sha256: 7c4aa784439742ffdf8db5571744a4df2806a3be47743cccd94da1181e4e145d
+  format: JPEG crop, 2200x2372px
+  check: Breathitt recap Abstract 11 rows; M704-105 _0156.jp2

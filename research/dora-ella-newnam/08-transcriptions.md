@@ -1861,3 +1861,35 @@ Pass 2: Twenty-three recap rows match the twenty-three Clay name pages read (IA 
 ### Facts extracted → claim IDs
 - Recap pages 1–23 / overlay 0127 → C580
 - Clay named-head run complete → C579
+
+## DOC079 — 1840 U.S. census, Breathitt Co. KY, IA leaf 132 (first name page)
+- Name page: `sources/census/1840-breathitt-m704-105-leaf132-names.jpg` SHA-256 `e5c23d70312d66dc249cb819f128512d61c274f5028cdbfbdf5e670ae2b92a72` (1400×1540)
+- Last name page (Total): `sources/census/1840-breathitt-m704-105-leaf154-names.jpg` SHA-256 `fef7d4b2d97d74d739cac49f632bc640914043dcef0c4c162b371897a0fb75ad` (1400×1550)
+- Provenance: NARA M704 reel **105**; IA `populationsc18400105unit` jp2 `_0132.jp2` (jp2 SHA-256 `cff692e2bcc1b78b06e03eb99c542c8072b3c4c4c19933c36e98f08686cec086`; **not committed**) and `_0154.jp2` (jp2 SHA-256 `41093f4caf576effebb59c32f886c9f091fc9263c6d2ebf462bcd252f771223d`; **not committed**). Heading **Breathitt County**. Enumerator signature **William Haddix**. **Image seen.** Two-pass. Representative first and last pages of the 12-page even-leaf run (`_0132`–`_0154`).
+
+### Diplomatic
+
+> First name page, IA `_0132`. Heading **Breathitt County**. Named heads include, among others: J.C. Cock · John Amis · George Bradley · Sarah Back · R.M. Davidson · William Southard · Abraham Southard · George Day · James Day · Jesse Back · Isaac Back · William Noble · Will Noble · Charles Noble · Andrew Day · Wiley Noble · Edward Combs · Robert Davidson · Jesse Day · **John Back** · **John Bowman** · Elias Amis · Will Amis · Thomas Amis · **Isaac Noble**.
+
+> Last name page, IA `_0154`. Heading **Breathitt County**. Heads include James D. Spencer · William McIntosh · Solomon Hall · John Davidson · and others of the same eastern-KY cluster. The last written word in the name column is **Total**.
+
+Pass 2: Surname **Bowman** on John (not Newman). No Newman/Newnam/Tincher head on this page or on the other eleven even name pages in the run.
+
+### Facts extracted → claim IDs
+- Breathitt named-head pages, nil Newman/Tincher → C584
+- John Bowman not Newman → C584
+
+## DOC080 — 1840 U.S. census, Breathitt Co. KY recap, IA leaf 156
+- Recap: `sources/census/1840-breathitt-m704-105-leaf156-recap.jpg` SHA-256 `7c4aa784439742ffdf8db5571744a4df2806a3be47743cccd94da1181e4e145d` (2200×2372)
+- Provenance: IA `populationsc18400105unit` jp2 `_0156.jp2` (jp2 SHA-256 `664ed36c4d95cd6e4c7d0ba2efc1f7d9b3a3cd6b1662649741f250c2c6e65057`; **not committed**). **Image seen.** Two-pass.
+
+### Diplomatic
+
+> Heading **Breathitt County**. Label **Abstract**. **11** numbered recap rows of age-column ticks, plus a total line. Male under-5 foot **237**. Enumerator signature **William Haddix**.
+> Adjacent sheet IA `_0158` (not a numbered plate): certification dated **Breathitt County Nov 13th 1840**.
+
+Pass 2: Eleven recap rows vs twelve even name pages (`_0132`–`_0154`) is a count puzzle. Print both. Do not drop a name page or invent a twelfth recap row.
+
+### Facts extracted → claim IDs
+- Recap Abstract / 11 rows / 13 Nov 1840 → C585
+- Breathitt named-head run complete → C584

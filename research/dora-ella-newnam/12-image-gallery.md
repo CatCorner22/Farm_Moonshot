@@ -1,6 +1,6 @@
 # Source-image gallery: Dora Ella Newnam Stone
 
-One hundred twenty numbered plates (JPEG/PNG captures from NARA microfilm via Internet Archive, plus header and household crops). Plates **7g–7j** are the 1860 Owsley and 1880 Lee Gray originals added in passes 39–40. Plates **7k–7z** and **8a–8f** are the later 1850–1860 Owsley/Breathitt/Madison isolations, including Harrison Newman with Elias aged eight, H.H. Newman with Elias aged eighteen, and Giles Mays at one month and eleven. Plates **8j–8l** are the 1840 Estill originals (John and Christian Tincher, the county recap, and William Newton not Tincher) added in pass 55; plates **8m–8n** are the 1840 Clay originals (a Clay name page and the county recap) added in pass 56. They sit after the 1880 Buck Creek plate because those numbers were already assigned. They are ordered by **the date of the census they record or index**, not by the date the film was scanned. Plates **1a–2c**, **7a–7c**, **55b–55c**, and the 1880 G-600 cards were added in passes 34–37.
+One hundred twenty-three numbered plates (JPEG/PNG captures from NARA microfilm via Internet Archive, plus header and household crops). Plates **7g–7j** are the 1860 Owsley and 1880 Lee Gray originals added in passes 39–40. Plates **7k–7z** and **8a–8f** are the later 1850–1860 Owsley/Breathitt/Madison isolations, including Harrison Newman with Elias aged eight, H.H. Newman with Elias aged eighteen, and Giles Mays at one month and eleven. Plates **8j–8l** are the 1840 Estill originals (John and Christian Tincher, the county recap, and William Newton not Tincher) added in pass 55; plates **8m–8n** are the 1840 Clay originals added in pass 56; plates **8o–8q** are the 1840 Breathitt originals (first name page, last name page ending Total, and the county Abstract) added in pass 57. They sit after the 1880 Buck Creek plate because those numbers were already assigned. They are ordered by **the date of the census they record or index**, not by the date the film was scanned. Plates **1a–2c**, **7a–7c**, **55b–55c**, and the 1880 G-600 cards were added in passes 34–37.
 
 Soundex and Miracode cards sit with the census year they index, immediately after any original population schedules for that year.
 
@@ -71,6 +71,9 @@ Diplomatic transcriptions: [`08-transcriptions.md`](08-transcriptions.md). Citat
 | 8l | 1 Jun 1840 | FAN | [Estill overlay 0063 — William Newton, not Tincher](sources/census/1840-estill-m704-109-leaf70-william-newton.jpg) |
 | 8m | 1 Jun 1840 | Negative search | [Clay leaf 105 — Cornett / Joel Gray; no Newman or Tincher](sources/census/1840-clay-m704-108-leaf105-names.jpg) |
 | 8n | 1840 | Context | [Clay recap overlay 0127 — pages 1–23](sources/census/1840-clay-m704-108-leaf135-recap.jpg) |
+| 8o | 1 Jun 1840 | Negative search | [Breathitt leaf 132 — first name page; John Bowman not Newman](sources/census/1840-breathitt-m704-105-leaf132-names.jpg) |
+| 8p | 1 Jun 1840 | Negative search | [Breathitt leaf 154 — last name page ending Total](sources/census/1840-breathitt-m704-105-leaf154-names.jpg) |
+| 8q | 1840 | Context | [Breathitt recap leaf 156 — Abstract, 11 rows](sources/census/1840-breathitt-m704-105-leaf156-recap.jpg) |
 | 8 | 13 Jun 1900 | Rejected same-name | [Douglas County, Missouri — Thomas and Nancy E. Stone](sources/census/1900-douglas-mo-ed159-stone-sheet.jpg) |
 | 9 | 13 Jun 1900 | Rejected same-name | [Douglas County Stone household (crop)](sources/census/1900-douglas-mo-ed159-stone-hh-crop.jpg) |
 | 10 | 1900 (index) | Rejected same-name | [Missouri S-350 — Thomas Stone, 44, Douglas County](sources/soundex/mo1900-s350-p1678-stone-thomas-44-douglas.jpg) |
@@ -1395,6 +1398,36 @@ County of Clay. Heads include Edward Cornett, **Joel Gray**, **Lynn S. Tinsley**
 Left-column heading “Recapitulation of Clay County.” Numbered rows 1 through 23. Overlay **0127**. Next county on the reel is Clinton.
 
 ![1840 Clay recap overlay 0127](sources/census/1840-clay-m704-108-leaf135-recap.jpg)
+
+### 8o · 1 June 1840 · Breathitt IA leaf 132 — first name page (no Newman or Tincher)
+
+**Role:** Negative search (first Breathitt named-head page)  
+**File:** [`sources/census/1840-breathitt-m704-105-leaf132-names.jpg`](sources/census/1840-breathitt-m704-105-leaf132-names.jpg)  
+**Source:** S476 · C584 · DOC079
+
+Heading Breathitt County. Enumerator William Haddix. **John Bowman** is not Newman. No Newman or Tincher head on this page, or on the other eleven even name pages through leaf 154.
+
+![1840 Breathitt leaf 132 — first names](sources/census/1840-breathitt-m704-105-leaf132-names.jpg)
+
+### 8p · 1 June 1840 · Breathitt IA leaf 154 — last name page, Total
+
+**Role:** Negative search (last Breathitt named-head page)  
+**File:** [`sources/census/1840-breathitt-m704-105-leaf154-names.jpg`](sources/census/1840-breathitt-m704-105-leaf154-names.jpg)  
+**Source:** S476 · C584 · DOC079
+
+Heading Breathitt County. The name column ends **Total**. No Newman or Tincher head.
+
+![1840 Breathitt leaf 154 — last names, Total](sources/census/1840-breathitt-m704-105-leaf154-names.jpg)
+
+### 8q · 1840 · Breathitt recap IA leaf 156 — Abstract, 11 rows
+
+**Role:** Context (closes Breathitt’s name pages on M704-105)  
+**File:** [`sources/census/1840-breathitt-m704-105-leaf156-recap.jpg`](sources/census/1840-breathitt-m704-105-leaf156-recap.jpg)  
+**Source:** S476 · C585 · DOC080
+
+Heading Breathitt County. Label Abstract. Eleven numbered recap rows plus a total line. Next county on the reel is Breckinridge.
+
+![1840 Breathitt recap leaf 156](sources/census/1840-breathitt-m704-105-leaf156-recap.jpg)
 
 ## Pass 50 note — cemetery overview (not a numbered plate)
 
