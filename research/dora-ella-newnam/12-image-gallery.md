@@ -19,6 +19,7 @@ Diplomatic transcriptions: [`08-transcriptions.md`](08-transcriptions.md). Citat
 
 | # | Record date | Role | Image |
 |---|---|---|---|
+| 62 | Apr 1950 | Family hit (FAN) | [Woodford ED 120-13 — John 70 + Cora 56](sources/census/woodford-1950-120-13-john-cora-ages.jpg) |
 | 1 | 29 Jun 1870 | Context | [Sturgeon Precinct, page 3 (stamped 337)](sources/census/1870-lee-ky-sturgeon-p337a-context.jpg) |
 | 2 | 29 Jun 1870 | Family hit | [John, Elizabeth, and infant Samuel Newman](sources/census/1870-lee-ky-sturgeon-p337b-john-elizabeth-samuel.jpg) |
 | 3 | 1 Jun 1880 | Family hit | [John and Mary Newnam; Samuel, aged 11](sources/census/1880-lee-ky-ed59-sheet1-p725-john-samuel.jpg) |
@@ -702,4 +703,14 @@ Original schedule, 12 January 1920, enumerator Harry L. Perkins. Dwelling 106: C
 Crop of lines 17–24. Dora is not in this house. Her father is. She is not in Coy’s house at Danville, Yell County, either. The 1920 hole remains.
 
 ![Burke household crop — E. T. Newman, grandfather](sources/census/1920-lee-ky-ed111-sh6a-burke-hh-crop.jpg)
+
+### 62 · Apr 1950 · Woodford ED 120-13 sheet 0012 — John 70 + Cora 56
+
+**Role:** Family hit (FAN of Everett — brother John of Owsley)  
+**File:** [`sources/census/woodford-1950-120-13-john-cora-ages.jpg`](sources/census/woodford-1950-120-13-john-cora-ages.jpg)  
+**Source:** S404 · C525 · C526
+
+1950 U.S. census, Woodford County, Kentucky, ED 120-13, sheet 0012. NARA name-index OCR: “newman Juhn” / “cocan.” Visual: Newman, John, head, w, m, 70, married, Ky; Cora, wife, w, f, 56, married, Ky. **PROBABLE** the 1940 Owsley John 63 + Cora 47. Conflict #26. Do not print the 1966 Woodford index row as a proven death.
+
+![Woodford 1950 — John 70 + Cora 56](sources/census/woodford-1950-120-13-john-cora-ages.jpg)
 

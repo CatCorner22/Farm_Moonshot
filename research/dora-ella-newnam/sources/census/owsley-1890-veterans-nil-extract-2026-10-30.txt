@@ -1,0 +1,27 @@
+1890 U.S. special schedule — surviving Union soldiers, sailors, marines,
+and widows. Owsley County, Kentucky. Kendrick transcripts captured
+30 Oct 2026. Transcription only.
+
+Landing: https://usgennet.org/usa/ky/county/owsley/census/1890/
+Local: sources/census/owsley-1890-dir.html
+Precincts (all six opened):
+  Booneville (1)  https://usgennet.org/usa/ky/county/owsley/census/1890/booneville.html
+  Booneville (2)  …/booneville2.html
+  Buck Creek      …/buckcreek.html   (local owsley-1890-buckcreek.html)
+  Buffalo         …/buffalo.html
+  Cow Creek       …/cowcreek.html
+  Sturgeon        …/sturgeon.html
+
+Grep of all six precinct HTML files: **nil** Newnam / Newman /
+Newnarn / Newmann.
+
+Daniel Newnam (dead by 22 June 1900, C432) is **not** listed as a
+Civil War veteran or veteran’s widow on this published Owsley
+special schedule. That is negative evidence against a Union-pension
+path for him; it does not prove he never served (Confederate service
+and unlisted Union service both remain possible). Elias T. Newnam’s
+14th KY Cavalry service is already documented on other records and
+is a Lee/Owsley neighbour, not this Daniel.
+
+Claims: C540
+S406

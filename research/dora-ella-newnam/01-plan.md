@@ -195,6 +195,18 @@ Exact strings logged **L476–L490**.
 
 Exact strings logged **L491–L506**.
 
+## Name-variant storm (pass 70, `search_variants.py`)
+
+**John + Cora Newman in 1950 / 1930** — John, Juhn (NARA OCR), Jno × Newman/Newnam/Newnman/newnarn + Cora, cocan (OCR). Soundex **N550**. NARA API: `state=KY` not `Kentucky`. Also **John L** 70 / Cora 56 Woodford ED **120-13**.
+
+**Lee 1930 FAN** — Everett/Everet/Evert; Grant; Elias T / Doll; Luther; Catherine/Katherine Sternberg; Callie Spicer; Malissa/Melissa Estes; Ellen; Mary J.
+
+**1890 veterans** — Newnam/Newman/Newnarn on Owsley special schedule (all six precincts).
+
+**TFKRHA 1930 D3/D7** — Arthur Newman + Grant son 14 (Henry×Mary reject); John+Cora on D7 Buck Creek (unread).
+
+Exact strings logged **L507–L514**.
+
 ## Agent SDK / GitHub channel
 
 Inspected 30 Oct 2026 (**L351**): this repository has **no** `package.json`, **no** `@grok/agent-sdk`, **no** `bot/` directory. GitHub channel `bot/channels/github.ts` is **n/a** and was **not** authored. Project subagent: `.cursor/agents/dora-genealogy-detective.md`.

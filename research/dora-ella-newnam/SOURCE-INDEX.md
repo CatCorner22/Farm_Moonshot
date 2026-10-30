@@ -1,7 +1,7 @@
 # Source index — Dora Ella Newnam Stone
 
 Working inventory of **saved local copies** in `sources/` plus the authored Word biography.  
-Full file list (rebuilt after pass 66): [`sources/SOURCE-INVENTORY.tsv`](sources/SOURCE-INVENTORY.tsv) (path, bytes, SHA-256 prefix).
+Full file list (rebuilt after pass 70): [`sources/SOURCE-INVENTORY.tsv`](sources/SOURCE-INVENTORY.tsv) (path, bytes, SHA-256 prefix).
 
 **Access labels:** `image seen` · `index only` · `transcription only` · `catalog only` · `OCR text` · `not yet examined`.
 
@@ -143,6 +143,11 @@ Captured this session: **30 Oct 2026**. Earlier plates remain in `sources/census
 | S401 | `sources/catalog/tfkrha-owsley-1843-80-wayback.html` · `sources/marriages/tfkrha-owsley-1843-80-extract-2026-10-30.txt` | 2026-10-30 | TFKRHA / Wayback | https://tfkrha.org/Marriages/Marriages_Owsley_1843-80.php | Nil Daniel×Sarah; Harry H. 1864; Flanery×Venable 1880 | **C508 C520** | transcription only |
 | S402 | `sources/catalog/woodford-1966-john-l-retrieval-extract-2026-10-30.txt` · `gt-woodford-obits-pass69.html` · `woodford-hs-books-pass69.html` | 2026-10-30 | GT / WCHS / NARA / CJ snippet | https://genealogytrails.com/ken/woodford/obits1.html | John Wesley reject; Duell-Clark path; Woodford 1950 nil John L | **C509–C511 C514 C515** | catalog / index |
 | S403 | `sources/press/pass69-david-g-1958-retrieval-extract-2026-10-30.txt` | 2026-10-30 | State-Journal + Berea Archives catalog | https://state-journal.com/2025/02/04/david-g-newman/ | 2025 Jr. notice; *Citizen* 1958 unread | **C517 C518** | authored / catalog |
+| S404 | `sources/census/woodford-1950-120-13-john-cora-ages.jpg` · `nara-1950-woodford-newman-api.json` · `woodford-1950-120-13-john-cora-extract-2026-10-30.txt` | 2026-10-30 | NARA 1950census Woodford ED 120-13 | https://1950census.archives.gov/ | John 70 + Cora 56; OCR Juhn/cocan | **C525–C529 C549** | image seen + index |
+| S405 | `sources/census/lee-1930-dir.html` · `lee-1930-ed1.html`…`ed11.html` · `lee-1930-newman-extract-2026-10-30.txt` | 2026-10-30 | USGenNet Lee 1930 | https://usgennet.org/usa/ky/county/lee/census/1930/ | Everett KYVAKY; Grant 53; Elias; Luther; nil John+Cora head | **C530–C539** | transcription only |
+| S406 | `sources/census/owsley-1890-dir.html` · precinct HTML · `owsley-1890-veterans-nil-extract-2026-10-30.txt` | 2026-10-30 | USGenNet Owsley 1890 veterans | https://usgennet.org/usa/ky/county/owsley/census/1890/ | Nil Newnam/Newman six precincts | **C540** | transcription only |
+| S407 | `sources/census/tfkrha-1930-d3-sturgeon.txt` · `owsley-1930-tfkrha-catalog-extract-2026-10-30.txt` | 2026-10-30 | TFKRHA 1930 Owsley D3 | https://tfkrha.org/ | Arthur Newman 54 + Grant 14 (Henry×Mary); D7 unread | **C543 C544 C547** | transcription only (D3) |
+| S408 | `sources/census/nara-1950-lee-newnam-api.json` · `lee-1950-65-1-0021-corap-names.jpg` · `nara-1950-lee-rejects-extract-2026-10-30.txt` | 2026-10-30 | NARA 1950census Lee/Boyle/Estill | https://1950census.archives.gov/ | Cara P. = Plummer; Johnia / Boyle Cora B rejected | **C541 C542 C548 C552** | image seen + index |
 
 ## Word biography provenance
 
@@ -177,3 +182,5 @@ See [`sources/authored/PROVENANCE.md`](sources/authored/PROVENANCE.md). Drive se
 Exact strings in `02-log.md` **L343–L352**, **L380–L397**, **L398–L411**, **L412–L440**, **L441–L454**, **L455–L475**, and **L476–L490**.
 
 **Pass 66 (Daniel / Minerva / John / Evert):** Minerva, Mininerva, Sarah × Veneable/Venable; Daniel, paniel, raniel; David, pavid, ravid; Evert, Everett, Everet × Newnam/newman/newnarn. Soundex **N550**. John × Lillie / Cora. Grant 21 vs Grant 1876.
+
+**Pass 70 (John 70 + Cora 56 / Lee 1930):** John, Juhn, Jno × Newman/Newnam/Newnman + Cora, cocan. NARA `state=KY`. Everett/Grant/Elias/Luther/Catherine/Callie/Malissa. Exact strings **L507–L514**.

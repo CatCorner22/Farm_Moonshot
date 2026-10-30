@@ -1,0 +1,42 @@
+1950 U.S. census — NARA name API + selected sheet images.
+https://1950census.archives.gov/api/search
+Accessed 30 Oct 2026. Image seen (crops) + index JSON.
+Local: sources/census/nara-1950-lee-newnam-api.json
+        sources/census/lee-1950-65-1-0021-corap-names.jpg
+
+Lee County (state=KY):
+  ED 65-1 sheet 0021 — API “newnam Cara P.”
+    Visual crop: Cora P. Newnam household (Luther’s widow).
+    Same woman as KDI CORA P 87 Fayette/Lee 25 Feb 1981 (C494).
+    **Not** 1940 Cora Brandenburg (~57 in 1950).
+  ED 65-1 sheet 0020 — API “newnam Luther”
+    Residual name in Luther’s Beattyville cluster (he died 1945).
+    Not a living 1950 head proof; not expanded.
+  ED 65-13 sheet 0011 — API “neunam Johnia”
+    OCR of a different John. Age/household ≠ John L ~72.
+    **Rejected** vs 1880 John L. / 1940 John 63.
+  ED 65-6 — API John L. is a **child** in another household
+    (not isolated as a full schedule this pass). **Rejected** vs
+    John L. b. ~1879.
+  ED 65-13 other tokens: neunam Clande / martha / neuram Verron —
+    keep separate (Fred/Luther cluster).
+
+Boyle County:
+  ED 11-27 sheet 0024 — Cora B. wife ~44.
+    Age ⇒ b. ~1906. **Rejected** vs 1940 Cora ~47 (would be ~57)
+    and vs KDI CORA B 95 in 1988 (would be ~57 in 1950).
+
+Estill County:
+  Newnam API hits = Fred / Glen line (Luther’s Irvine brother
+  cluster). **Not** John L ~72. **Not** 1940 Cora.
+
+Owsley County:
+  Reconfirmed: Newnam = 0; Newman = Clarence 95-3 + Bowman OCR
+  on 95-5 (already C512/C513). No second John+Cora hit.
+
+Fayette / Madison / Woodford Cora-as-head:
+  Woodford Newman API has no Cora head token. Cora appears as
+  wife on Woodford 120-13-0012 (S404).
+
+Claims: C541 C542 C548 C552
+S408

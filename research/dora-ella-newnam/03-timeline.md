@@ -136,10 +136,17 @@ Place as it was *at the date*; modern equivalent in brackets. Flag impossibiliti
 | **22 June 1900** | — | FAN possible: Buck Creek hh **290/292** **Malissa** Bowman wife **3/1876** KYKYVA — **POSSIBLE** 1880 Melissa | Buck Creek, Owsley Co., KY | C487 C488 | S394 |
 | **17 Jul 1931** | — | FAN: Dellie Bowman d. Owsley, parents **Cris NEWMAN** × Martha LANE — surname conflict vs 1900 Bowman head | Owsley Co., KY | C502 | S394 |
 | Apr 1940 | — | FAN: Owsley ED **95-3** hh **54** **John NEWNAM** 63 + **Cora** 47 + Robert 21. **PROBABLE** 1915 couple / 1880 John L. | Buck Creek / Levi, Owsley Co., KY | C489 C490 C491 | S395 |
-| **17 Jul 1966** | — | FAN possible: **NEWMAN, JOHN L**, 88, Woodford — **not merged** with 1880 John L. | Woodford Co., KY | C492 | S396 |
+| **17 Jul 1966** | — | FAN **probable**: **NEWMAN, JOHN L**, 88, Woodford vol **036** cert **17762** — same county as 1950 John 70. Certificate unread. Do not print as proven death | Woodford Co., KY | C492 C527 | S396 S404 |
 | **25 Feb 1981** | — | FAN: **Cora P. Newnam**, 87, widow of Rev. Luther — **PROVEN** | Fayette / Lee Co., KY | C494 | S396 |
-| **19 Nov 1988** | — | FAN possible: **NEWMAN, CORA B**, 95, Fayette — **POSSIBLE** 1940 Cora | Fayette Co., KY | C495 | S396 |
+| **19 Nov 1988** | — | FAN **probable**: **NEWMAN, CORA B**, 95, Fayette — age matches 1940/1950 Cora. Certificate unread | Fayette Co., KY | C495 C528 | S396 S404 |
+| Apr 1930 | — | FAN: Lee ED **10** hh **132** **Everett NEWMAN** 42 wd **KYVAKY** + Louis 15, Edward 12, Gladys 8. Mother-b. VA | Heidelberg–Beattyville Rd, Lee Co., KY | C530 C531 C554 | S405 |
+| Apr 1930 | — | FAN: Lee ED **11** hh **281** **Grant NEWMAN** 53 + Martha 44 + 4 children + Nancy Reynolds 71 = 1876 Grant | Lee Co., KY | C532 C533 | S405 |
+| Apr 1930 | — | FAN: Lee ED **1** Elias T. 87 wd; Luther 39 + Cora 36 WW Vet. ED **9** Catherine 59 wd KYGermKY. ED **5** Moses Estes + Malissa D. 66 nee NEWMAN. ED **3** Robert Spicer + Callie 44 | Lee Co., KY | C534–C538 | S405 |
+| Apr 1930 | — | FAN: Lee EDs **1–11** **nil** John ~52 + Cora ~37 head. Owsley D7 Buck Creek **unread** | Lee / Owsley, KY | C539 C544 | S405 S407 |
+| Apr 1930 | — | FAN: Owsley D3 Sturgeon hh **171** Arthur Newman 54 × Rhoda + Grant 14 (Henry × Mary) — **not** Daniel’s line. Hh **10** Matilda Evans nee Venable 83 | Sturgeon, Owsley Co., KY | C543 C547 | S407 |
+| Jun 1890 | — | FAN negative: Owsley veterans special schedule (6 precincts) **nil** Newnam/Newman | Owsley Co., KY | C540 | S406 |
 | Apr 1950 | — | FAN: Owsley ED **95-3** (M.D. 1, enumerator Preston W. Mainous): Newman household on sheet **0023** is **Clarence + Mae**, not John+Cora. County Newnam index **0** | Owsley Co., KY | C512 C513 C524 | S399 |
+| Apr 1950 | — | FAN: Woodford ED **120-13** sheet **0012** **Newman, John** 70 + **Cora** 56. **PROBABLE** 1940 couple. API OCR “Juhn”/“cocan” | Woodford Co., KY | C525 C526 C529 | S404 |
 | Apr 1950 | — | FAN: Madison ED **76-6** Richmond — **Neuman, Shelly** 57 + **Grace** 51 **PROBABLE** Shelby×Grace. ED **76-32** **Dewey** Newman 26 **rejected** vs 1889 David F. | Madison Co., KY | C522 C523 | S400 |
 | **21 Jul 1864** / **29 Jun 1880** | — | FAN only: TFKRHA Williams list — Harry H. Newnam × Partington; Flanery × Rachel E. Venable. **Nil** Daniel×Sarah | Owsley (reconstructed) | C508 | S401 |
 | **6 Jun 1966** | — | FAN reject: **John Wesley Newman**, 69, Big Stone Gap VA — **not** KDI John L 17 Jul 1966 | Wise Co., VA | C509 | S402 |
