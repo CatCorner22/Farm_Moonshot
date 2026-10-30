@@ -1,0 +1,48 @@
+Pass 59 — 30 Oct 2026 (America/New_York)
+B040 T623-856 ED 40 remaining A+B + T623-855 ED 37 remaining B-sides + ED 38 remaining A-sides
+
+T623-856 ED 40 (p.58–97, Campbell Twp Springfield ward 3, Ali O. Mack):
+  Previously: A 1–5,7,8,10,12,13 (C170); A 9,14 + B 2,14 (C181); A 20 / p.96 (C189).
+  This pass unread A: 6A=p68, 11A=p78, 15A=p86, 16A=p88, 17A=p90, 18A=p92, 19A=p94.
+    (20A already C189.)
+  This pass remaining B: 1B=p59, 3B=p63, 4B=p65, 5B=p67, 6B=p69, 7B=p71, 8B=p73,
+    9B=p75, 10B=p77, 11B=p79, 12B=p81, 13B=p83, 15B=p87, 16B=p89, 17B=p91,
+    18B=p93, 19B=p95, 20B=p97.
+  Combined with C170/C181/C189: every ED 40 A+B name column read. No Stone household.
+
+  Rejects (ED 40):
+    p88 sh 16A ln 7–8: Sullivan, Jerry Head WM Jul 1855 age 44 m.18 b. Ohio;
+      Dora I. wife WF Dec 1856 age 43 m.18 0/0 b. Illinois — not P001.
+    p88 sh 16A ln 44: Sullivan, Harry lodger — not Letha/John cluster.
+    p59 sh 1B ln 68: Starnes (Stonnes), Thomas nephew in Gott John E. hh — not Stone.
+    p79 sh 11B ln 63: Store, Cassie Head — not Stone (Store/Stone lookalike).
+    p93 sh 18B ln 54: Jackson, Zina (not Dora).
+    p94 sh 19A: Wright, James — Springfield Wright, not Stone.
+
+T623-855 ED 37 remaining B-sides (even pp 782–834 except already-read
+  16B=812, 18B=816, 19B=818, 20B=820, 22B=824):
+  1B=782, 2B=784, 3B=786, 4B=788, 5B=790, 6B=792, 7B=794, 8B=796, 9B=798,
+  10B=800, 11B=802, 12B=804, 13B=806, 14B=808, 15B=810, 17B=814, 21B=822
+  (short/blank tail), 23B=826, 24B=828, 25B=830, 26B=832, 27B=834.
+  Combined with C274 A-sides + L103/L324 prior B samples: ED 37 A+B complete.
+  Only Stone HEAD remains Thomas A. sh 18A (C117).
+  Other Stone: p796 sh 8B ln 59 Stone, Austin L. servant — not Thomas A.
+
+T623-855 ED 38 remaining A-sides + missed sh 4A:
+  Previously: 1A (L104/C271); samples 7/11/15/19/23/27/31/35/39 (C276).
+  This pass: 2A=837, 3A=839, 4A=841, 5A=843, 6A=845, 8A=849, 9A=851, 10A=853,
+    12A=857, 13A=859, 14A=861, 16A=865, 17A=867, 18A=869, 20A=873, 21A=875,
+    22A=877, 24A=881, 25A=883, 26A=885, 28A=889, 29A=891, 30A=893, 32A=897,
+    33A=899, 34A=901, 36A=905, 37A=907, 38A=909, 40A=913, 41A=915.
+  Combined with C271/C276: every ED 38 A-side name column read. No Stone head.
+
+  Rejects (ED 38 A):
+    p875 sh 21A: Wilson, Dorva A. daughter — child, not P001.
+    p883 sh 25A ln 1: Cody, Dora P. wife — Cody household, not Stone.
+    p905 sh 36A: Newsom, Alice M. daughter (Black) — Newsom ≠ Newnam.
+    p909 sh 38A: Wright, Ivy boarder — Springfield Wright.
+    p915 sh 41A: Pettibone, Dora F. wife — Pettibone household, not Stone.
+
+Residual B040: ED 38 B-sides only.
+
+Local crops /tmp/b040-pass59/ not committed.

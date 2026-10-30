@@ -1,0 +1,16 @@
+Pass 51 — 1900 Bollinger Liberty map (T623-839) — 30 Oct 2026
+==============================================================
+IA 12thcensusofpopu839unit PDF 496,887,773 bytes / 1144 pages.
+
+NARA: reel 839 = Bates + Benton + Bollinger EDs 1–5 + ED 6 sheets 1–8.
+
+Header samples:
+  p0901 Benton
+  p1001 Benton Williams Twp ED 12
+  p1051 Bollinger Fillmore ED 2 sh 4 A
+  p1101 Bollinger Liberty ED 4 sh 6 A
+  p1131 Bollinger Liberty ED 5 sh 14 A
+
+Even-page render 1088–1144 started (local folder b007-1900-liberty-pass51/, not committed).
+No infant Letha/Viola Sullivan confirmed on pages checked (L288).
+Genealogy Trails Bollinger census page empty (~300 B) — no 1910 transcript.

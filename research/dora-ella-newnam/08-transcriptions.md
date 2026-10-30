@@ -2,6 +2,37 @@
 
 Conventions: `[?]` uncertain · `[illegible]` unreadable · `W[illia]m` expansion · `{note}` editorial only.
 
+## DOC002 — Lee County vital statistics birth register (transcription), Katty Newnam, 5 Aug 1874
+- Source: USGenNet Kendrick `lee/births/vsb.html` (1874–1875 extract), accessed 29 Oct 2026 → **S230**
+- Provenance: **Transcription only**; original tax-assessor register not seen.
+
+### Diplomatic transcription
+> **5 Aug 1874** — Katty **NEWNAM**, female, alive, b. Lee Co. Ky, d/o **Elias NEWMAN** b. Clark Co. Ky & **Mary SMALLWOOD** b. Owsley Co. Ky
+
+Claims: **C044** (sister Catharine/Katty). Negative for P001 civil birth: **C251**.
+
+---
+
+## DOC003 — 1870 U.S. census, Owsley County, Travellers Rest, dwelling 131 / family 128
+- Image: `sources/census/1870-owsley-travrest-elias-hh131-pdfp090.jpg` · SHA-256 `aa56943106e30f0cf2e03cbd9349749a5b4e1695170f8e4f46071157b886831f`
+- Page: IA `populationschedu0494unit` PDF p. **90**; NARA M593 roll **494**; precinct page **19**; enum. **17 Jun 1870**, A. J. Herd, PO Travellers Rest
+- Provenance: **Image seen** 29 Oct 2026
+
+### Diplomatic transcription (household only)
+> Dwelling **131**, family **128**  
+> **Newman, Elias** — 26, M, W, Farmer, RE $250, PE $150, b. Kentucky  
+> **Mary** — 24, F, W, Keeping house, b. Kentucky  
+> **William** — 11, M, W, Farm labor, b. Kentucky  
+> **Melissa D.** — 6, F, W, b. Kentucky  
+> **Frances** — 3, F, W, b. Kentucky  
+> **Mary** — 1, F, W, b. Kentucky  
+
+No child named Dora. Kendrick transcript lists visit **7 Jun 1870** and Mary **26** (**S048**) — enumerator sheet date **17 Jun** on original.
+
+Claims: **C067** (Dora not yet born).
+
+---
+
 ## DOC001 — 1880 U.S. census, Lee County, Kentucky, ED 59, sheet 6
 - Image file(s) + SHA-256: `sources/census/1880-lee-ky-ed59-sheet6-p730-elias-dora.jpg` · `ce48bc3c6a4021976aa480def6b1cc080aced108005d2861f8c144396039b36f`
 - Page: IA `10thcensus0427unit` n730; NARA T9 reel 427; enumerator page 6, SD 3, ED 59
@@ -241,6 +272,19 @@ SHA-256 `d0b20cdf0b4a85729311415bc1659ee9e0c9aaf6645aa5a90ae1d1cfd53d9f87` · 22
 
 Dwelling **218/257**: **Newman, John H.**, head, ~45, M1 25 years; wife ~52; son **Malcum** ~27, laborer. **Not P010** (P010 was 9 months old in Jun 1900).
 
+Diplomatic — **Hardin Gray fam 248** (re-read pass 35, 29 Oct 2026; crop `1910-lee-ky-ed99-p576-hardin248-crop.jpg` SHA-256 `feee3e433ee0a8181e4aaf3a17f8f9acf5ca26d4e2dbf6ad2500458fc22363ee`):
+
+| Dw/Fam | Name | Rel | Age | Mar | Notes |
+|---|---|---|---|---|---|
+| 247/248 | **Gray, Hardin** | Head | 34 | M1 12 | Farmer; KY/KY/VA |
+| | **Vesta** | Wife | 27 | M1 12 | 4-4; = Vesta Mayes (C166) |
+| | **Roscoe** | Son | 11 | S | ≈ Rosco Dec 1899 (C191) |
+| | **Hubert** | Son | 9 | S | Miracode Hulbert |
+| | **Elcie** | Son | 4 | S | Miracode Elize |
+| | **Deanna** | Dau | 1 9/12 | S | Miracode Deanna |
+
+**No** mother-in-law / Louisa. → **C184** / **C225** / **S236**. Prior **C194** gap claim **withdrawn** (**L251**).
+
 Diplomatic (FAN household, re-read 29 Oct 2026):
 
 | Dw/Fam | Name | Rel | Age | Mar | Notes |
@@ -254,6 +298,30 @@ Diplomatic (FAN household, re-read 29 Oct 2026):
 
 ED 99 continues through sheet **14 A** (PDF 577). PDF 580 = ED 100 Proctor 1A. No household in the ED lists Dora ~39, Samuel ~41, McCoy ~20, or John H. ~10 of the 1900 Sturgeon set. → C088 C089.
 
+## DOC020 — 1900 Lee ED 52 sh 5B dw 85 Hardin Gray (original)
+
+IA `12thcensusofpopu537unit` PDF **p. 943**, accessed 29 Oct 2026. **Image seen.** File: `sources/census/1900-lee-ed52-sh5b-hh85-hardin-gray.jpg` · SHA-256 `4a66a29126a92c7b62630e14082c5638a8ab5cc6bf029337d44eae9df2a5ee77`.
+
+| Line | Diplomatic transcription | Notes |
+|---|---|---|
+| 70 | **Gray, Hardin** | Head; W M; b. **Jan 1876**; **24**; m. **3** yrs; KY/KY/KY; Farmer |
+| 71 | **Gray, Vestie** | Wife; W F; b. **Sep 1881**; **18**; m. **3** yrs; **1**-**1**; KY/**VA**/KY |
+| 72 | **Gray, Rosco** | Son; W M; b. **Jun 1899**; **11/12**; s; KY/KY/KY |
+
+Dw/fam **85/85** · ED **52** · Sturgeon Precinct 6 · enum. **11 Jun 1900** · Morgan J. Treadway. → **C191** / **S233**.
+
+## DOC021 — 1880 Lee ED 59 dw 102 Flanary (original)
+
+IA `10thcensus0427unit` PDF **p. 738**, accessed 29 Oct 2026. **Image seen.** File: `sources/census/1880-lee-ed59-p738-dw102-flanary.jpg` · SHA-256 `cd0d71c30e7286bc9b475a1fc18c86e4855354694001c821523ad1b00c2831fd`.
+
+| Line | Diplomatic transcription | Notes |
+|---|---|---|
+| 35–38 | **Flanary, Spence** head **36** farmer; **Elizabeth** wife **34**; **Andrew** son **12**; **Mary** dau **10** | Dw/fam **102/102** |
+| 39 | **Brashears, William** **80** | Relationship partly illegible on original |
+| — | **No Mays surname** in household | Mortality **Mary MAYS** 83 d. Jan 1880 also keyed to hh **102** (**S120**) → **C224** |
+
+Stamped census p. **13** · enum. **9 Jun 1880** · James J. Hampton.
+
 ## DOC019 — 1910 KY Miracode G-600 Hardin Gray (typed card)
 
 IA `soundex1910ky064` p.443. **Image seen** 29 Oct 2026.
@@ -265,9 +333,24 @@ IA `soundex1910ky064` p.443. **Image seen** 29 Oct 2026.
 > ELIZE S 04 KENTUCKY  
 > DEANNA D NR  
 
-No mother-in-law. = C166 couple. → C184. Original family 248 **not on the bound ED 99 sheets** (families 243–249 skipped; sh 14 B blank). → C194.
+No mother-in-law. = C166 couple. → C184. Original fam **248** on ED **99** sh **13 B** (**S236** / DOC022). sh **14 B** blank only (**S165**).
 
-## DOC020 — 1958 Vestie Bell Gray death-certificate extract
+## DOC022 — 1910 Lee ED 99 sh 13B dw/fam 247/248 Hardin Gray (original)
+
+T624-478 PDF **576**; crop `sources/census/1910-lee-ky-ed99-p576-hardin248-crop.jpg`. Accessed 29 Oct 2026. **Image seen.**
+
+| Line | Diplomatic transcription | Notes |
+|---|---|---|
+| 69 | **Gray, Hardin** | Head; W M; **34**; M1 **12** yrs; KY/KY/**VA**; Farmer |
+| 70 | **Gray, Vesta** | Wife; W F; **27**; M1 **12**; **4**-**4** |
+| 71 | **Gray, Roscoe** | Son; **11**; S |
+| 72 | **Gray, Hubert** | Son; **9**; S |
+| 73 | **Gray, Elcie** | Son; **4**; S |
+| 74 | **Gray, Deanna** | Dau; **1** **9/12**; S |
+
+Fam **248** · ED **99** sh **13 B** · enum. **10–11 May 1910**. → **C184** **C225** / **S236**.
+
+## DOC023 — 1958 Vestie Bell Gray death-certificate extract
 
 USGenNet Lee 1958 DC extracts (photographs, not the certificate image). Accessed 29 Oct 2026.
 
@@ -401,7 +484,7 @@ Header (diplomatic):
 | **72** | | **— Vestie** | Wife | W F | **Sep 1881** | **18** | M | **3** | **1 / 1** | Kentucky / **Virginia** / Kentucky | — |
 | **73** | | **— Rosco** | Son | W M | **Dec 1899** | **5/12** | S | | | Kentucky / Kentucky / Kentucky | — |
 
-Pass 2: Surname **Gray** (not Grey). Given name **Hardin** clear. Wife **Vestie** (not Vesta on this line). Father-birth column for Vestie is **Virginia** — same reading as Kendrick. Dwelling/family **85/85** written in the left margin. Household **86/86** begins immediately: Brandenburg, Joseph. **Louisa / Eliza Mays is not on these lines.** → C191 C224 C225.
+Pass 2: Surname **Gray** (not Grey). Given name **Hardin** clear. Wife **Vestie** (not Vesta on this line). Father-birth column for Vestie is **Virginia** — same reading as Kendrick. Dwelling/family **85/85** written in the left margin. Household **86/86** begins immediately: Brandenburg, Joseph. **Louisa / Eliza Mays is not on these lines.** → C191 / S233.
 
 ### Normalised reading
 Hardin Gray, 24, farmer, and wife Vestie, 18, married three years, with infant son Rosco, lived next to William and Mary J. Gray (Vestie’s in-laws) in Sturgeon precinct on 11 June 1900. Vestie reported her father born in Virginia. Louisa Pendergrass Mays Brandenburg was not in this house.
@@ -417,7 +500,7 @@ Header readings (diplomatic):
 > p.256 · North Campbell Township · Springfield · Ward 7 · ED **43** · Sheet **1 A** · Robert A. Witten
 > p.313 · same · Ward 7 · ED **43** · Sheet **29 B** · Witten
 
-Pass 2: ED **43** starts at p.**256**, not p.254 (p.254 is Loretto Academy boarders, ED 42 tail). Name-column samples listed in **S235** have **no Stone**. → C229 C230.
+Pass 2: ED **43** starts at p.**256**, not p.254 (p.254 is Loretto Academy boarders, ED 42 tail). Name-column samples listed in **S256** have **no Stone**. Full ED **42–43** A+B later swept (**C264**).
 
 ## DOC009 — 1910 TN Soundex N-550 McCoy window (nil)
 Handwritten family/individual cards n2461–n2469. Sequence after Mary C (n2460): Mary D 49 Jefferson (son Layton 11); Mary M 70 Hamilton; Mek. G 50 Cheatham (Florence 19, John 17, General 16, Frances 13, William 10, Doria 6, Luther 1½); Melvin 3½ Giles (gs of Deacon George W); Melvin 54 Giles (SIL of same); Minerva 80 Robertson (gds Lona Neely, Nellie Erwin); Minnie 21 Roane (with Sam P. Sparks); Mitchell 27 Hardin (Ollie P 25, Gladys 4, Burl W 3, Royal E 1 9/12). **No McCoy.** SHA-256 n2463 `23610f8aa4c159b1b554ed1786d11f57d2f56f8a2e8994f7289ae7bd02dfca53`; n2469 `340489566090880388fa6b81ca5751c5944dcaf56a7b44f70fe560788f308586`.

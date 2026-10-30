@@ -1,0 +1,32 @@
+Pass 56 — 1900 MO Soundex S-415 John window denser read (B007)
+==============================================================
+Date: 30 Oct 2026 (America/New_York)
+
+Reel: IA soundex1900mo248 (T1055 roll 248), 4030 pp, local /tmp/sndx1900/mo248.pdf
+Window: PDF pp 3500–3690 (fills L303 every-4–12 sample gaps).
+Crops: inverted top-half /tmp/sndx1900/john-pass56/ (153 new pages) plus prior
+       /tmp/sndx1900/dense/ and john-letha/. Local crops not committed.
+
+Given-name bands visually confirmed:
+  ~3501–3519  Jessie / Jerry Sullivan (Buchanan, Clinton, Jackson, Johnson, St Louis)
+  ~3530       Joe (Cass / Belton)
+  ~3540–3667  John / John A.–W. Sullivan (and S-415 Slavens misfiles)
+  ~3668       Jordan Sullivan
+  ~3670+      Joseph Sullivan (Jasper, Nodaway, Harrison, Lawrence)
+
+John-band counties on cards read this pass (no Bollinger):
+  Buchanan (St Joseph), Butler (Poplar Bluff), St Louis, Jackson (Kansas City),
+  Jasper (Carterville / Joplin), Dunklin (Holcomb), Hamilton (Walker),
+  Ralls, Barry (Monett), Johnson (Warrensburg), Nodaway, Benton (Lamar; Slavens),
+  Ripley, Lawrence, Ste. Genevieve, Adair/Macon window, Harrison, St Louis (John W.).
+
+Nil: Bollinger County; Liberty Twp; infant Letha/Viola as a named child on the
+John cards whose family lines were visible.
+
+1910 John Sullivan of Liberty ED 4 (C245) remains unplaced on a 1900 S-415
+John *head* card.
+
+B040 side-work (same pass): T623-856 ED 41 A-sides p.102, 106, 114, 118, 122
+(North Campbell / Drury sector) name-column crops — nil Stone / Thomas A.
+Residual ED 41 sheets and ED 40 unread A/B still open. Local crops
+/tmp/b040-pass56/ not committed.

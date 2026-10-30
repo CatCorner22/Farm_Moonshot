@@ -1,0 +1,34 @@
+Pass 52 — 1900 Bollinger Liberty + MO Soundex S-415 (B007)
+=========================================================
+Date: 30 Oct 2026 (America/New_York)
+
+Population T623-839 (IA 12thcensusofpopu839unit, 1144 pp, retained /tmp/t623-839.pdf)
+
+Header map (visual):
+  p1099 = Liberty ED 4 sh 5 A (J. A. Hughey)
+  p1101 = Liberty ED 4 sh 6 A
+  p1104 = Liberty ED 4 sh 7 B
+  p1106 = Liberty ED 5 sh 1 B (E. Holt Westenhaver)  ← L288 “Sullivan servant” page
+  p1107 = Liberty ED 5 sh 2 A
+  p1110 = Liberty ED 5 sh 3 B
+  p1120 = Liberty ED 5 sh 8 B
+  p1130 = Liberty ED 5 sh 13 B
+  p1144 = non-schedule (reel tail flourish)
+
+Odd pages 1085–1143 rendered locally (b007-1900-liberty-pass52/, not committed).
+Name-column crops of p1100–1108: no confirmed infant Letha/Viola Sullivan.
+p1106 servant line: name-column crop reads closer to Huffman/Nuffman, William H.,
+servant — L288 “Sullivan, William H.” not confirmed on re-read.
+
+1900 MO Soundex T1055 roll 248 (IA soundex1900mo248, 128 MB, 4030 pp)
+  Allen County list: roll 0248 = S-400 — S-415 Press R.
+  Sullivan S-415 John window ~PDF pp 3500–3690 sampled (~every 4–12 pp):
+    counties seen: Pike, Lafayette, Audrain, Jefferson, St Louis, Randolph —
+    no Bollinger on cards read.
+  Letha given-name window PDF pp 3708–3739 EVERY card:
+    Katie (St Louis servant) → Lambert (cont.) → Leona (Jackson step-dau 9)
+    → Leroy (St Louis boarder 2) → Lewis D. (Johnson servant).
+    No Letha / Letta / Litha / Viola as a Soundex head.
+
+Residual: unread John Sullivan cards between samples; ED 4 sh 1–4 and
+unread ED 5 interior lines; roll 249 (S-415 R.D. —) William window.

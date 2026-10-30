@@ -1,0 +1,22 @@
+Pass 50 — T624-769 PDF pp 351–434 full render (B007) — 30 Oct 2026
+=================================================================
+PDF: /tmp/t624-769.pdf (393,379,666 bytes; IA 13thcensus1910po769unit EU mirror)
+Render: 84 pages @95 dpi → local folder b007-ed5-full-pass50/ (249 MB, not committed)
+
+Verified originals (images seen; SHA in b007-pass50-sha256.txt):
+
+1) pdfp0367 = Crooked Creek Twp, ED 1, sh 10 A (enum. Charles M. Lewis, 3 May 1910)
+   Stone, Henry C. head 37 b. IN farmer rents farm
+   Stone, Dora E. wife 37 b. MO, father IN, mother MO; M1 18 yrs; 11 children / 10 living
+   Nine children in house (James H 17 … Laura 2)
+   REJECTED vs P001 (KY birth; 7/5 in 1900; husband Samuel not Henry C.)
+
+2) pdfp0387 = Fillmore Twp, ED 2, sh 4 A, Buchanan Road (enum. 19–20 Apr 1910)
+   Newnam, John H. head 37 b. MO, father IN, mother MO; M1 16 yrs; owns farm free
+   Newnam, Dora wife 36 b. IN (parents IN); M1 16; 7 born / 6 living
+   Children: Oscar 15, Lewis 13, Ora 9, Stella 7, Zella 3, Anthony 1 11/12 — all MO
+   REJECTED vs P001 (birthplace IN vs KY; husband John H. vs Samuel P.; children do not match 1900 Sturgeon set)
+
+Folder also contains mixed ED 1 / 2 / 4 / 5 sheets (pagination interleave). Liberty ED 4 Letha-12 servant (C244) and John Sullivan + Newman MIL (C245) unchanged from Pass 48.
+
+P001 still not located as a KY-born woman ~39 in this 351–434 sector.

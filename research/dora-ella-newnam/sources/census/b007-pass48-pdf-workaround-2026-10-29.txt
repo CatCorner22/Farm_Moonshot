@@ -1,0 +1,19 @@
+Pass 48 — B007 PDF workaround (29 Oct 2026)
+============================================
+Blocker addressed: IA jp2 direct fetch returned 146 B HTML (L258, L146).
+
+Workaround B2: EU mirror full PDF
+  URL: https://dn760007.eu.archive.org/0/items/13thcensus1910po769unit/13thcensus1910po769unit.pdf
+  Size: 393,379,666 bytes (1162 pages)
+  Tool: PyMuPDF render every 3rd page PDF pp 348–480 @ 100 dpi → sources/census/b007-liberty-ed5-pass48/
+
+Key original reads (images seen):
+  pdfp0435 (ED 4 sh 8A): Letha Sullivan, 12, servant, Jesse Conrad hh — SHA b4d6f1ce… (copy 1910-bollinger-ed4-letha-sullivan-servant.png)
+  pdfp0450 (ED 4 sh 7B): John Sullivan hh; Newman/Newnam Sarah 60 MIL; Oscar 21 BIL — SHA b4d6f1ce… (copy 1910-bollinger-ed4-sullivan-newnam-mil.png)
+  pdfp0420 (ED 5 sh 9B): William W Sullivan; dau Letha E., 2 — rejected vs Letha Viola b.1900 — SHA 9eceebc4…
+
+Soundex workaround (Letha Viola card):
+  IA item soundex1910mo234 (T1270 S-432 Frances — S-453 William J.), PDF 33,096,518 bytes downloaded.
+  jp2 still 146 B; OCR sweep pages 150–650 step 8 incomplete (tesseract timeouts).
+
+Negative (P001): No Dora Newnam/Newman ~39 in bracket pp 348–480.

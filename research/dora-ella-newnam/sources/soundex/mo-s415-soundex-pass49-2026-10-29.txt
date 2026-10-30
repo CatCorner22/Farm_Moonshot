@@ -1,0 +1,21 @@
+Pass 49 — MO 1910 Soundex Sullivan (B007 residual) — 29 Oct 2026
+================================================================
+
+Correction: **Sullivan** Soundex = **S-415**, not S-435.
+  - IA `soundex1910mo233` — T1270 **S-415 Patrick H. — S-432 Frances** (973 pp PDF, 26.8 MB)
+  - IA `soundex1910mo234` — T1270 **S-432 Frances — S-453 William J.** (Shelton/Webster **S-435** band; NOT Sullivan)
+
+mo233 S-415 head pass (PDF pp 1–450 sampled @ step 10; full read pp 10–60 cards):
+  - **27+** Sullivan / variant lines (SULLIVEN, SILIVAN, etc.)
+  - **Nil** **Bollinger** County on any Sullivan card
+  - **Nil** **LETHA** / **VIOLA** on Sullivan cards
+  - **Nil** **John H. Sullivan** head card in sampled S-415 block
+  - LETHA near-miss: **SAULS, LETHA** (St Louis, S420); **SILVERS, LITHA** (Buchanan, S416)
+
+mo234 S-435 pass (PDF pp 200–400 step 6):
+  - Cards are **SHELTON**, **WEBSTER**, misfile **SULLTION L S** (Greene, age 53) — rejected vs Letha Viola b. ~1900
+
+Population schedule (Pass 48 **S251**) remains best Letha lead:
+  - **Letha Sullivan**, 12, servant, Jesse Conrad, Liberty ED 4 (**C244** POSSIBLE)
+
+Images (local, partial commit): sources/soundex/mo233-s415-head-pass49/, mo233-s415-john-pass49/, mo234-s435-pass49/

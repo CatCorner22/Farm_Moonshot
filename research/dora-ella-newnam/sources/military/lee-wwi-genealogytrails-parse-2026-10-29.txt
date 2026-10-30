@@ -1,0 +1,13 @@
+Genealogy Trails — Lee County KY WWI Draft Registration Cards 1917–1918
+URL: https://genealogytrails.com/ken/lee/wwi_draft_cards.html
+Fetched: 29 Oct 2026 (VM); HTTP 200; ~452 KB HTML
+
+Parse method: HTML table rows extracted (1126 registration rows).
+
+Surname grep (first column, registrant name):
+  Newnam / Newman / McCoy / Pelfrey — 0 rows
+
+Note: Many Lee men born 1899 appear on Sep 1918 Beattyville cards (e.g. Lutes, Rollie, 19, 02.08.1899).
+No registrant named John * Newnam/Newman with Aug/Sep 1899 birth in this transcript.
+
+Limitations: Transcription only; not NARA M1509 images. Men who registered in another county/state would not appear here.

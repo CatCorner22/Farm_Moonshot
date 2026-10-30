@@ -7,12 +7,12 @@ Place as it was *at the date*; modern equivalent in brackets. Flag impossibiliti
 | 18 Apr 1842 | — | Father Elias T. Newnam born | Clark Co., KY | C040 | S011 prior |
 | Apr 1842 / 22 Apr 1842 | — | Mother Mary Ann Smallwood born | KY (Owsley-area) | C041 | S032 prior |
 | 16 Aug 1862 – 16 Sep 1863 | — | Elias, bugler, Co. C 14th KY Cav. | Mt. Sterling / Myrtleville, KY | C042 | S086 S087 prior |
-| 7 Jun 1870 | — | Elias & Mary farming with William D 11, Malissa D 6, Frances 3, Mary 1 (**Dora not yet born**). Same precinct: Cordy Pendergrass hh **118/115**, **Louisa 9** | Travellers Rest, Owsley Co., KY | C067 C043 C136 | S048 S127 |
+| 7 Jun 1870 (transcript) / **17 Jun 1870** (original p. 90) | — | Elias & Mary farming with William D 11, Malissa D 6, Frances 3, Mary 1 (**Dora not yet born**). Same precinct: Cordy Pendergrass hh **118/115**, **Louisa 9** | Travellers Rest, Owsley Co., KY | C067 C043 C136 | S048 S127 **S231** |
 | **29 Jun 1870** | — | **Samuel Newman, 1, in John 50 & Elizabeth 25’s Sturgeon hh 19** (PROBABLE natal home of P002) | Sturgeon Precinct, Lee Co., KY (PO Proctor) | C062 | S042 |
 | 1870 | — | Lee County created | KY | — | FS wiki |
 | **Aug 1871 (day 11 POSSIBLE)** | 0 | **Dora born** | Lee Co., KY (PROBABLE) | C001 | S005 S004 S010 |
 | 11 Aug 1868 (DC) | — | Alternate birth — **inconsistent with 1880 age 8 and 1900 Aug 1871** | — | C002 | S003 | **DISPROVED as year** |
-| 5 Aug 1874 | ~3 | Sister Katty/Catharine registered | Lee Co., KY | C044 | S010b prior; S010 1880 age 6 |
+| 5 Aug 1874 | ~3 | Sister **Katty** (Catharine) VS birth registered | Lee Co., KY | C044 | S230 |
 | **1 Jun 1880 (enum. 1 Jun)** | — | **Samuel Newnam, 11, son of John 69 & Mary 57** (PROBABLE = P002); Mary b. KY. Sheet 2 Samuel 13 is McQueary, not Newnam | Lee Co. KY ED 59 sheet 1 dw 3 | C060 C061 C063 | S040 S044 |
 | **1 Jun 1880 (enum. 5 Jun)** | **8** | **In father’s house: Dora, dau., 8, KY** | Lee Co. KY ED 59 sheet 6 dw 46 | C003 | S010 |
 | 1880 (Booneville ED 79) | — | Louisa Pendergrass **18, single**, still in Cordy’s house; **Larkin T. MAYSE** laborer **20, single**, McPhearson hh — both still unmarried | Booneville, Owsley Co., KY | C136 C137 | S128 |
@@ -33,8 +33,8 @@ Place as it was *at the date*; modern equivalent in brackets. Flag impossibiliti
 | Aug 1899 | 28 | Son John H. born | KY | C025 | S005 |
 | **1 Jun 1900** | **28** | **Sturgeon hh 67/67: wife of Samuel, 7 born 5 living** | Sturgeon precinct, Lee Co., KY | C011 | S005 |
 | **1 Jun 1900** | — | FAN: **Eliza MAYS** hh **26/26**, b. Dec 1861, wd 4-4; children Whitly (Jun 1884), Martha (Nov 1886), Ida (Oct 1894); hired hand John Brandenburgh (Mar 1882). **= Louisa P. Mays** | Sturgeon precinct, Lee Co., KY | C161 C162 C163 | S142 |
-| **1 Jun 1900** (enum. **11 Jun**) | — | FAN: **Hardin GRAY** + **Vestie** + Rosco, hh **85/85** on **original** ED **52** sh **5 B**. **Louisa not in the house.** Next door William Gray + Elizabeth Brandenburg MIL. Vestie father b. **Virginia** | Sturgeon precinct, Lee Co., KY | C191 C224 C225 | S163 **S231** |
-| Jun 1900 (enum. 6–28 Jun) | — | Greene Co. MO ED **42** (North Campbell / Springfield ward 6, Renshaw) interiors sampled sh **1 B–37 B** and ED **43** (ward 7, Witten) sh **1 A** through **29 B** samples: **no** Thomas A. Stone head on pages read. ED **37** sh **18 A** Thomas A. (C117) unchanged | Campbell Twp / Springfield, Greene Co., MO | C229 C230 C117 | S235 S232 |
+| **1 Jun 1900** (enum. **11 Jun**) | — | FAN: **Hardin GRAY** + **Vestie** + Rosco, hh **85/85** on **original** ED **52** sh **5 B**. **Louisa not in the house.** Next door William Gray + Elizabeth Brandenburg MIL. Vestie father b. **Virginia** | Sturgeon precinct, Lee Co., KY | C191 | S163 **S233** |
+| Jun 1900 (enum. 6–28 Jun) | — | Greene Co. MO ED **42–43** name-column swept: **no** Thomas A. Stone head. ED **37** sh **18 A** Thomas A. (C117) unchanged | Campbell Twp / Springfield, Greene Co., MO | C264 C259 C117 | S256 |
 | 1 Jun 1900 | — | Elias & Mary at Proctor hh 25/25, 6-6 children living; **Provy Hoover gdau** 13 in the house. George Burke hh 36/36 includes **Charles B. son** Nov 1879 | Proctor precinct, Lee Co., KY | C096 C097 | S076 |
 | 5 Mar 1900 | 28 | BIL John Newnam d. consumption (context) — **only** Newnam in Lee VS 1900–1904; not Samuel | Lee Co. | C098 | S077 |
 | 24 Feb 1906 (WikiTree lore) | ~34 | Alleged death of Samuel | Lee Co.? | C012 | S030 | unproved; required before 1910 by Pearl’s boarding |
@@ -50,8 +50,9 @@ Place as it was *at the date*; modern equivalent in brackets. Flag impossibiliti
 | 15 Apr 1910 | ~38 | **Not in KY/AR/MO N-550 as Dora ~39; not in TN N-550 D-block or McCoy M-window; Coy nil KY/AR/MO/TN-C; Samuel P not a KY N-550 head; two KY Dora Stones rejected; KY child Soundex OCR nil; not KY P-142 Peebles head or wife; not AR P-142 indexed Dora ~39; not in Sturgeon ED 99 as Newnam (original).** 1900 dw **67** reoccupied (Hamilton 4A / Garrett 6B). **1910 Proctor ED 100:** Louisa Mays/Brandenburg **nil**; three Dora daughters rejected (Taylor 16 / Hall 18 / Evans 9) | unknown (not Sturgeon as Newnam; not Proctor as Newnam/Stone) | C030 C031 C031b C034–C039 C077 C081–C083 C088 C106 C154 C155 | S020–S023 S025–S028 S058 S062 S063 S067 S089 S137 |
 | Apr 1910 | — | FAN **rejected:** ED 99 fam **97** John Brandenburg 29 + Susan/Louisa 26 + Ida 6 + Bertie 5 ≠ Louisa P. | Sturgeon, Lee Co., KY | C177 C178 | S152 S153 |
 | ~11 May 1910 | — | FAN: **Samuel Farmer** 33 + **Martha** 23 + Flora 5 + Everett 3, ED 99 fam **251** sh **13 B** = S. P. × Martha Mays. **Louisa not in the house** | Sturgeon, Lee Co., KY | C182 C183 | S155 S156 |
-| Apr 1910 | — | FAN: **Hardin Gray** 34 + **Vista** 27 + four children, Lee ED 99 fam **248** (Miracode). **Louisa not on the card.** Bound ED 99 has **no** matching original line (fam 243–249 gap; 14B blank) | Sturgeon, Lee Co., KY | C184 C166 C194 | S160 S165 |
-| **21 Oct 1958** | — | FAN: **Vestie Bell Gray** d. Lee Co.; parents **Larkin Mays** + **Eliza Pendergrass**; b. 9 Sep 1882 (conflict #15) | Lee Co., KY | C192 | S164 S166 |
+| Apr 1910 | — | FAN: **Hardin Gray** 34 + **Vesta** 27 + four children, Lee ED 99 fam **248** sh **13 B** (original **S236**). **Louisa not in that house.** sh **14 B** blank | Sturgeon, Lee Co., KY | C184 C166 C225 | S160 S236 S165 |
+| **21 Oct 1958** | — | FAN: **Vestie Bell Gray** d. Lee Co.; parents **Larkin Mays** + **Eliza Pendergrass**; b. 9 Sep 1882 (conflict #15) | Lee Co., KY | C192 | S164 S245 S166 |
+| **7 Sep 1967** | 91 | FAN: **Hardin K. Gray** d., Lee Co., cert. **042/20591** (statewide index) | Lee Co., KY | C235 | S244 S166 |
 | Apr 1910 | — | FAN: 1910 KY M-200 **no** Lee Louisa/Eliza/Ida/Whitley Mays as indexed heads; Clark Whitley 24 rejected | Kentucky (Miracode) | C185 C186 C187 C188 | S158 S159 |
 | Jun 1900 | — | Greene ED **40** extra sheets (2 B, 9 A, 14 A/B) **nil Stone** (extends C170) | Springfield, Greene Co., MO | C181 | S157 |
 | Apr 1910 | — | Parents Elias (“Elisa”) & Mary (Smallwood) Newnam, couple alone, Proctor ED 100 dw 19/20 | Lee Co., KY | C075 | S057 |
@@ -68,7 +69,8 @@ Place as it was *at the date*; modern equivalent in brackets. Flag impossibiliti
 | Jan 1920 | — | **Original** ED 111 sh 6A dw 106/114: C.B. Burke, postmaster; Provie, asst. postmaster; Vivie M 14; Vedia G 10; George P 3[?]/12; **Newman, E.T., Grand Father, 75 wd, none**; Bertie Combs, RR clerk; Warren C. Miller, 23, PA — PROBABLE P004 | Beattyville, Lee Co., KY | C065 C091 C095 | S073 S046 |
 | 1 Jun 1900 | — | **No** matching Tom/Thomas A. Stone ~42 b. ~1858 MO in statewide S-350 Thomas/Tom window (two Thomas A. and two Tom cards rejected) | Missouri (Soundex) | C092 | S070 |
 | **13 Jun 1900** | — | **Original:** Stone, Thomas, 44, woodchopper, + Nancy E. 33 (8/6) + five daughters, Buchanan Twp ED 159 sh 9B dw 148 — **not merged** with 1920 Tom A. | Buchanan Twp, Douglas Co., MO | C101 C102 | S085 |
-| Jun 1900 | — | Greene Campbell **ED 39 complete** (sh **6–32 B**; 32 B blank) — **no** Stone household. ED **40** A-sides + extra B-sides + tail **nil**; ED **41** sh **1 A / 7 A** nil (**C189**); ED **42–43** mapped, not exhausted | Springfield, Greene Co., MO | C169 C170 C171 C181 C189 C117 | S148 S136 S103 S157 S161 |
+| Jun 1900 | — | Greene Campbell **ED 39 complete** (sh **6–32 B**; 32 B blank) — **no** Stone household. ED **40** A+B **complete nil** (**C278**); ED **41** A+B **complete nil** (**C269/C275**); ED **42–43** swept (**C264**); ED **37** A+B complete — only Stone head is Thomas A. sh **18 A** (**C117/C279**) | Springfield, Greene Co., MO | C169 C170 C171 C181 C189 C117 C264 C269 C275 C278 C279 | S148 S136 S103 S157 S161 S266 |
+| Jun 1900 | — | Greene ED **38** every A-side **nil Stone** (**C280**); B-sides unread | Springfield, Greene Co., MO | C271 C276 C280 | S264 S266 |
 | 24 Feb 1920 | — | Tom A. Stone, 62 wd, b. MO, FIL of Tom M. Randall, tie maker | Howell Twp, Perry Co., AR ED 75 sh 8B | C050 C145 | S104 S105 prior |
 | **1920–Aug 1926** | 48–55 | **Probable** residence Lamar / Carter Cove sector after m2 **T. A. Stone** — **no census line for P001 as Mrs. Stone** after **ED 200** read (**C213**); Coy at Danville (1920) then informant **Ola** (1926) | Yell Co., AR (Lamar Twp / Ola / Carter Cove) | C211 C213 | S003 S078 S117 S225 C014 |
 
@@ -79,6 +81,8 @@ Place as it was *at the date*; modern equivalent in brackets. Flag impossibiliti
 | **noon 23 Aug 1926** | **55** (if b. Aug 1871) | **Death, apoplexy 1 day, Dr. Thos. W. Beal; informant Coy Newnam, Ola; spouse T. A. Stone; parents Elias Newnam & Mary Smallwood** | Ola, Yell Co., AR (res. written “Mammoth” — **C204b** open) | C015 | S003 |
 | 24 Aug 1926 | — | Burial Carters Chapel | Carter Cove / Carter Cemetery, Lamar Twp, Yell Co., AR (**C206**) | C016 C206 | S003 S078 S219 S220 |
 | **16 Jun 1927** | — | FAN: **Martha Farmer** d., b. 1 Nov 1886; parents Larkin Mays & Louisa Pendergrass | Lee Co., KY | C164 | S143 |
+| after 1900 | — | **No record read** for **Rissa/Rissie** after Sturgeon hh **67** (1910 child Soundex **nil**; not with Pearl at Elizabeth’s **1910**) | unknown | C077 C026 | S058 S041 |
+| **13 May 1980** (WikiTree only) | ~83 (if May 1897) | **Possible** death of **Rissie (Newnam) Pelfrey** — **not** primary-sourced | Knoxville, Knox Co., TN | C230 | S241 | Do not print as fact; **C231** nil free corroboration |
 
 | 18 Apr 1932 | — | Father Elias d. on his birthday, age 90 | Beattyville, Lee Co., KY | C048 | S011 prior |
 
