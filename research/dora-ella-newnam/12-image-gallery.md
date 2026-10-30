@@ -714,3 +714,25 @@ Crop of lines 17–24. Dora is not in this house. Her father is. She is not in C
 
 ![Woodford 1950 — John 70 + Cora 56](sources/census/woodford-1950-120-13-john-cora-ages.jpg)
 
+### 63 · Apr 1930 · Owsley ED 95-7 sheet 7B — John L. 51 + Cora 36
+
+**Role:** Family hit (FAN of Everett — brother John of Owsley; identity now proven)  
+**File:** [`sources/census/owsley-1930-95-7-0663-john-cora.jpg`](sources/census/owsley-1930-95-7-0663-john-cora.jpg)  
+**Source:** S409 · C556 · C557
+
+1930 U.S. census, Owsley County, Kentucky, ED 95-7 (Buck Creek), sheet 7B, household 131. NARA T626-773; Internet Archive `kentuckycensus00reel773` leaf 663. Visual: Newman, John L, 51, married first at 25, KYKY**VA**, farmer; Cora, 36, m. 19; Pencie M 23; Robert L 12; Combs, Florence M, daughter, 26; Velma I, granddaughter, 3. **PROVEN** the 1880 John L / 1910 John × Lillie / 1915 John × Cora / 1940 John 63 + Cora 47 / 1950 Woodford John 70 + Cora 56. Conflict #26 remains open on the 1966 death date only.
+
+![Owsley 1930 ED 95-7 — John L 51 + Cora 36](sources/census/owsley-1930-95-7-0663-john-cora.jpg)
+
+Sheet 8A household 133 is **Newman, McCoy**, 40, + Edith 29 MO — **PROBABLE** Dora’s son P010 (`owsley-1930-95-7-0664-mccoy.jpg`). 1920s children withheld.
+
+### 64 · Jan 1920 · Owsley ED 88 Booneville header — T625-594
+
+**Role:** Context (reel map; 1920 hole residual)  
+**File:** [`sources/census/owsley-1920-ed88-1040-header.png`](sources/census/owsley-1920-ed88-1040-header.png)  
+**Source:** S411 · C571 · C572
+
+1920 U.S. census, Owsley County, Kentucky, ED 88, Booneville No. 1. NARA T625-594; Internet Archive `14thcensusofpopu594unit`. Header crop: county Owsley, precinct Booneville, enumerator W. M. Dooley. Owsley occupies EDs 88–94 on this reel. No Buck Creek header has been read. Sampled name columns are nil Newman/McCoy.
+
+![Owsley 1920 ED 88 Booneville header](sources/census/owsley-1920-ed88-1040-header.png)
+

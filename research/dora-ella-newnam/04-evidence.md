@@ -274,8 +274,16 @@
 | S404 | 1950 U.S. census, Woodford ED **120-13** sheet **0012**, NARA series `43290879-Kentucky-164399`. Image seen 30 Oct 2026. Local crop `sources/census/woodford-1950-120-13-john-cora-ages.jpg` + API `nara-1950-woodford-newman-api.json` + extract `woodford-1950-120-13-john-cora-extract-2026-10-30.txt`. **Newman, John** head w m **70** married Ky; **Cora** wife w f **56** married Ky. OCR tokens “newman Juhn” / “cocan.” | O (sheet) + D (API) | NARA |
 | S405 | 1930 Lee Co. Kendrick transcripts, EDs **1–11**. Landing https://usgennet.org/usa/ky/county/lee/census/1930/. Local `lee-1930-dir.html` + `lee-1930-ed1.html`…`ed11.html` + extract `lee-1930-newman-extract-2026-10-30.txt`. Everett 42 wd KYVAKY; Grant 53 + Martha; Elias T. 87; Luther + Cora; Catherine 59 wd; Moses Estes + Malissa D. nee NEWMAN; Robert Spicer + Callie; **nil** John+Cora head. | D | Kendrick from NARA T626 |
 | S406 | 1890 Owsley veterans special schedule, all six precincts. https://usgennet.org/usa/ky/county/owsley/census/1890/. Local `owsley-1890-dir.html` + precinct HTML + extract `owsley-1890-veterans-nil-extract-2026-10-30.txt`. **Nil** Newnam/Newman. | D (negative those pages) | Kendrick |
-| S407 | TFKRHA 1930 Owsley D3 Sturgeon (Bowling). Live 429; page dump `sources/census/tfkrha-1930-d3-sturgeon.txt` + extract `owsley-1930-tfkrha-catalog-extract-2026-10-30.txt`. Arthur Newman 54 × Rhoda Mays + Grant son 14 (Henry × Mary). Matilda Evans nee Venable 83 + Cora B. 46 s. D7 Buck Creek **unread**. | D (D3 seen; D7 unread) | TFKRHA / Bowling |
+| S407 | TFKRHA 1930 Owsley D3 Sturgeon (Bowling). Live 429; page dump `sources/census/tfkrha-1930-d3-sturgeon.txt` + extract `owsley-1930-tfkrha-catalog-extract-2026-10-30.txt`. Arthur Newman 54 × Rhoda Mays + Grant son 14 (Henry × Mary). Matilda Evans nee Venable 83 + Cora B. 46 s. D7 annotated page unread; original ED **95-7** is **S409**. | D (D3 seen) | TFKRHA / Bowling |
 | S408 | 1950 Lee / Boyle / Estill NARA name API + selected crops. Local `nara-1950-lee-newnam-api.json` · `lee-1950-65-1-0021-corap-names.jpg` + extract `nara-1950-lee-rejects-extract-2026-10-30.txt`. Cara P. = Cora Plummer; Johnia / child John L / Boyle Cora B ~44 **rejected** vs 1880/1940 couple. | O (crops) + D (API) | NARA |
+| S409 | 1930 U.S. census, Owsley ED **95-7** (Buck Creek), T626-773, IA `kentuckycensus00reel773` leaves **650–669**. Image seen 30 Oct 2026. Local `owsley-1930-95-7-0663-john-cora.jpg` · `owsley-1930-95-7-0664-mccoy.jpg` + extract `owsley-1930-95-7-extract-2026-10-30.txt`. John L 51 + Cora 36; McCoy 40 + Edith; Clarence 37. | O (sheets) | NARA / IA |
+| S410 | 1930 Owsley ED list + reel map. Local `owsley-1930-95-7-ed-map.txt` · `us-census-owsley-1930-t626-773.html`. https://www.us-census.org/states/kentucky/teams/Owsley1930-T626-773.htm. 95-7 = M.D. 6 Buck Creek. KY 1930 Soundex partial (Owsley n/a). | D / catalog | US-Census.org / NARA M2053 |
+| S411 | 1920 Owsley T625-594 reel map. Local `owsley-1920-t625-594-ed-map-2026-10-30.txt` · `owsley-1920-t625-594-pass72-extract-2026-10-30.txt` · `ia-14thcensusofpopu594unit-meta.json`. https://archive.org/details/14thcensusofpopu594unit. Headers ED 88–94. | O / catalog | IA / NARA T625-594 |
+| S412 | 1920 Owsley name-column samples. Local `owsley-1920-ed88-1038-names.png` · `ed88-1040-header.png` · `ed89-1080-names.png` · `ed90-1104-names.png` · `ed91-1132-names.png` · `ed92-1162-names.png` · `ed93-1180-names.png` · `ed94-1200-names.png`. | O | IA T625-594 |
+| S413 | 1940 Owsley McCoy nil. Local `owsley-1940-mccoy-nil-extract-2026-10-30.txt` · `owsley-1940-95-1.html`…`95-7.html`. https://usgennet.org/usa/ky/county/owsley/census/1940/. John+Cora; Clarence; Arthur 63+Roda; Ree McCoy 15 Galigar. | D | USGenNet |
+| S414 | 1950 NARA Owsley McCoy/Newman API. Local `nara-1950-owsley-mccoy-api.json` · `nara-1950-owsley-newman-api.json` · `nara-1950-owsley-mccoy-nil-extract-2026-10-30.txt`. https://1950census.archives.gov/. McCoy 0; Newman = Bowman OCR + Clarence. | index | NARA 1950census |
+| S415 | 1920 KY N-550 John window + NUMIDENT inverted name. Local `ky1920-n550-john-window-pass72-extract-2026-10-30.txt` · `ky1920-n550-p4492-john-l-harlan-reject.jpg` · `sortedbyname-newman-mccoy-1890-extract-2026-10-30.txt`. https://archive.org/details/soundex1920ky117 · https://sortedbyname.com/letter_m/mccoy/index_939.html | O / index | IA M1563 / SortedByName |
+| S416 | Pass 72 access note. Local `sources/catalog/pass72-fs-403-access-2026-10-30.txt`. FS **127913 / 127869 / 1146342** HTTP **403**. USGenNet Owsley 1920 dir **404**. | catalog | FamilySearch / USGenNet |
 
 
 ## Claims
@@ -731,8 +739,8 @@
 | C487 | 1900 Buck Creek hh **290/292**: Chriss C. Bowman + **Malissa** wife **Mar 1876** 24 md 1-1 **KYKYVA** + John Handy stepson | PROVEN as transcript line | S394 L477 | B078 |
 | C488 | 1900 Malissa Bowman is **POSSIBLE** 1880 Melissa Newnam (age 4) | POSSIBLE (age + mother VA + precinct). Maiden unread. **Not merged** | S394 S384 | B078 |
 | C489 | 1940 Owsley ED **95-3** hh **54**: **John NEWNAM** 63 + **Cora** 47 (m>1, m. at 19, 3 children) + Robert 21 | PROVEN as transcript | S395 L478 | B056 |
-| C490 | 1940 John + Cora = 1910/1915 John × Cora Brandenburg | PROBABLE (names, Buck Creek, ages, Cora m>1) | S395 S374 S375 | B056 |
-| C491 | 1940 John 63 = 1880 **John L.** age 1 | PROBABLE (place + ages + C490 parents) | S395 S384 | B056 |
+| C490 | 1940 John + Cora = 1910/1915 John × Cora Brandenburg | **PROVEN** (1930 adds Pencie + Florence Combs + Robert + Cora on one original) | S395 S374 S375 S409 C557 | B056 |
+| C491 | 1940 / 1930 John L. 51 = 1880 **John L.** age 1 | **PROVEN** (John L + ages 1→51→63→70 + mother VA) | S395 S384 S409 C557 C558 | B056 |
 | C492 | KDI **NEWMAN JOHN L** 88 Woodford **17 Jul 1966** vol **036** cert **17762** is **PROBABLE** 1880 John L. / 1940 John + 1950 Woodford John 70 | PROBABLE (age + middle L + **1950 Woodford** with Cora). Certificate unread. **Not PROVEN** | S396 S404 C525 C526 | B082 |
 | C493 | KDI **NEWNAM JOHNNIE** 76 Lee/Estill **19 Apr 1972** is **not** 1880 John L. | DISPROVED as that identity (b. ~1896) | S396 | — |
 | C494 | KDI **NEWNAM CORA P** 87 Fayette/Lee **25 Feb 1981** = Cora Plummer, widow of Rev. Luther | PROVEN (obit 27 Feb 1981) | S396 | — |
@@ -785,7 +793,7 @@
 | C541 | 1950 Lee ED **65-1** sheet **0021** “newnam Cara P.” = Cora Plummer, Luther’s widow | PROBABLE (name + Beattyville + C494). **Not** 1940 Cora | S408 C494 | — |
 | C542 | 1950 Lee ED **65-13** “neunam Johnia” and ED **65-6** child John L. are **not** 1880 John L. | DISPROVED as that identity | S408 | — |
 | C543 | 1930 Owsley D3 hh **171**: Arthur NEWMAN 54 × Rhoda Mays + Grant son 14 (s/o Henry & Mary; 1st wife Florence Frye) | PROVEN as transcript. **Not** Daniel’s line; **not** 1876 Grant | S407 | — |
-| C544 | TFKRHA 1930 Owsley **D7 Buck Creek** remains **unread** (live 429; Wayback 404) | PROVEN as access. Residual for 1930 John+Cora | S407 | B056 / B082 |
+| C544 | TFKRHA 1930 Owsley **D7** annotated page remains unread (live 500; Wayback CDX empty). **Superseded** for the household by IA T626-773 ED **95-7** original (**C555**) | PROVEN as TFKRHA access. The schedule itself is now **image seen** | S407 S409 | — |
 | C545 | 1930 Lee ED **2** 74/75 **Ellen NEWNAM** 47 m 23 + dau 16 — keep separate | PROVEN as transcript. Not Cora Brandenburg / not Cora Plummer | S405 | — |
 | C546 | 1930 Lee ED **6** 59/61 **Mary J. NEWMAN** 74 wd + brother William B. 68 — keep separate | PROVEN as transcript. Not Sarah M. Evans | S405 | — |
 | C547 | 1930 Owsley D3 hh **10**: Matilda EVANS 83 wd nee VENABLE (d/o Leroy × Rachel McQueen) + Cora B. dau 46 s | PROBABLE sister of Sarah M. Evans. Cora B. here ≠ 1940 Cora | S407 C484 C486 | — |
@@ -796,6 +804,34 @@
 | C552 | 1950 Estill Newnam API hits are the Fred / Glen line, **not** John L ~72 | PROVEN as that index | S408 | — |
 | C553 | 1930 Grant hh mother **Nancy Reynolds** 71 is Martha’s mother (or mother-in-law as written) | POSSIBLE (relationship as written). Not expanded | S405 | — |
 | C554 | 1930 Everett’s son **Edward**, 12, is the 1936 wreck victim | PROBABLE (name + father Everett + age vs *Enterprise* 16) | S405 C322 | #18 |
+| C555 | 1930 Owsley ED **95-7** = Magisterial Dist. 6 Buck Creek on T626-773; IA `kentuckycensus00reel773` leaves **650–669** | PROVEN (headers + us-census.org ED list) | S409 S410 L515 | B056 |
+| C556 | 1930 ED **95-7** sh **7B** hh **131/131**: **Newman, John L** 51 m 25 KYKY**VA** farmer + **Cora** 36 m 19 KYKYKY + Pencie M 23 + Robert L 12 + Combs, Florence M dau 26 + Velma I gd 3 | PROVEN as image (scale 2) | S409 L516 | B056 / B082 |
+| C557 | 1930 John L + Cora = 1880 John L / 1910 John × Lillie / 1915 John × Cora / 1940 John 63 + Cora 47 / 1950 Woodford John 70 + Cora 56 | **PROVEN** (≥2 IDs: John L + Cora + Pencie + Florence + Robert + mother VA + ages). 1966 death still unread | S409 S384 S374 S375 S395 S404 C490 C491 | #26 |
+| C558 | 1930 John L mother-b. **Virginia** confirms Sarah M. / Minerva Venable (VA) as his mother | PROVEN as that nativity on this schedule | S409 C456 C457 | #24 |
+| C559 | 1930 Florence M. Combs, 26, daughter = 1910 Florence, 8 | PROVEN (age + relationship). Married Combs ~1922 (m. 22). Gd Velma I, 3 — census line only; may be living | S409 C455 | — |
+| C560 | 1930 hh **130/130** Newman, Clarence 37 + May 26 + Susie mother 50 = 1940/1950 Clarence + Mae | PROVEN (names + ages + mother Susie) | S409 C512 | — |
+| C561 | 1930 ED **95-7** sh **8A** hh **133/133**: **Newman, McCoy** 40 m 21 KYKYKY farmer rents + Edith 29 m 14 MOMOMO + 4 children b. AR/TN | PROVEN as image | S409 L517 | B047 / B085 |
+| C562 | 1930 McCoy 40 = Dora’s son **P010** (Apr 1890) | PROBABLE (rare name + age + KY parents + AR-born children in Dora’s AR window + 1926 informant Coy). No license/DC this session | S409 C011 | B085 |
+| C563 | ED **95-7** complete visual: only Newman heads are Clarence, John L, McCoy | PROVEN as that ED | S409 | — |
+| C564 | KY 1930 Soundex (M2053) is **partial** (Bell, Floyd, Harlan, Kenton, Muhlenberg, Perry, Pike). Owsley/Lee/Woodford **n/a** | PROVEN as catalog | S410 L518 | Method |
+| C565 | RTR KDI 1931–38 + 1939–89: **nil** MCCOY / COY × NEWMAN/NEWNAM. MALCOM 83 Madison/Lee 4 Oct 1966 **rejected** vs 1890 | PROVEN as those years | S409 L519 | B085 |
+| C566 | FS catalog **127913 / 127869 / 1146342** HTTP **403** this session (R011 step 22) | PROVEN as access | S416 L520 | R011 |
+| C567 | USGenNet Owsley 1920 directory **404**; TFKRHA D7 Wayback CDX **empty** | PROVEN as access | S416 S411 L520 | B056 residual 1920 |
+| C568 | John L 1930 age-at-first-marriage **25** vs 1910 “married 9 years” at 31 (~22) | POSSIBLE enumerator slack. Does not threaten **C557** | S409 S375 | — |
+| C569 | McCoy’s 1930 children born AR then TN then the family in Owsley | PROVEN as that schedule. Post-1926 path for P010 **PROBABLE** | S409 C562 | B085 |
+| C570 | 1930 John L first-marriage age 25 + Cora 19 (license 20 Nov 1915) | PROVEN as those columns. Cora’s 19 ⇒ ~1913 vs 1915 license — slack | S409 C436 | — |
+| C571 | 1920 Owsley is NARA T625-594 on IA `14thcensusofpopu594unit` (Ohio/Oldham/Owen/Owsley); metadata names Owsley EDs **88–94**; originals occupy leaves **1038–1205** | PROVEN (IA metadata + header map) | S411 L522 | B056 / B086 |
+| C572 | 1920 precinct headers: Booneville **88**; Sturgeon **89**; Island Creek **90**; Cow Creek **91**; Buffalo **92**; ED **93**; Wilder **94**. **No** header yet read that says Buck Creek | PROVEN as those headers | S411 L523 | B086 |
+| C573 | 1920 name-column visual samples (EDs **88–94** listed in S412) are **nil** Newman/Newnam/McCoy. Residual sheets = **B086** | PROVEN as those sheets. County not closed | S412 L524 | B086 |
+| C574 | 1940 Owsley EDs **95-1..95-7** (Kendrick): **no** McCoy/Coy Newman head ~50. Only Newman heads = John+Cora (**95-3**), Clarence (**95-3**), Arthur 63+Roda+Grant 22 (**95-5**) | PROVEN as those transcripts | S413 L525 | B085 |
+| C575 | NARA 1950 API: Owsley **McCoy 0**; Owsley **Newman 3** = Bowman OCR + Clarence **95-3**. Statewide McCoy+Newman **729** is OCR collision, not a person | PROVEN as that API | S414 L526 | B085 |
+| C576 | SortedByName **MCCOY, NEWMAN** b. **13 Apr 1890**, SSN **447-20-2466**, NUMIDENT deceased, Modesto CA claim **11 Jul 1962** | POSSIBLE inverted P010 only. **Not merged.** 1962 is a claim date, not a death | S415 L527 | B085 |
+| C577 | 1920 KY N-550 leaf **4492**: **Newman, John L** 28 Harlan + Roxie — **rejected** vs John L ~41 + Cora | DISPROVED as that identity | S415 L528 | — |
+| C578 | FS catalog **127913 / 127869 / 1146342** HTTP **403** this session (R011 step **23**) | PROVEN as access | S416 L529 | R011 |
+| C579 | 1940 ED **95-5** hh **235** Arthur NEWMAN 63 + Roda 66 + Grant 22 + Carl Cecil stepson 40 = 1930 D3 Arthur 54 × Rhoda + Grant 14 (Henry × Mary) | PROVEN (names + ages + Roda/Rhoda). Not Daniel’s line | S413 C543 | — |
+| C580 | 1920 KY N-550 John window leaves **4460–4499** visually read: **no** Owsley/Lee John L ~41 + Cora | PROVEN as that window | S415 L528 | B086 residual original |
+| C581 | 1920 ED **88** Booneville sh **1A** leaf **1038** name col: Bowman / Taylor / Seale / Brandenburg / Hocker — **nil** Newman/McCoy | PROVEN as that sheet | S412 L524 | B086 |
+| C582 | 1940 ED **95-3** **Ree McCoy**, 15, is a Galigar son, **not** a McCoy Newman head | PROVEN as that transcript. Not P010 | S413 | — |
 | C224 | **1 Jun 1880** population schedule dw **102/102** (ED **59**, **S235**) is **Flanary** + **Brashears**, **not** a **Mays** head; **Mary MAYS** 83 d. **Jan 1880** in mortality hh **102** (**S120**) — **same dwelling number**, decedent absent from June snapshot | PROVEN (original pop. line + mortality transcript) | S235 S120 L248 | Does not identify Pollie Mays stone (**C147**) |
 
 ## Same-person merges (Hard Rule 3)
@@ -929,8 +965,9 @@
 | 1915 Lillie Newman Isaacs + 1910 Lillie wife of John | Name, age, John’s Nov 1915 widowhood, 1916 Gracy | — | **PROBABLE (C461)** |
 | KDI DAVID G 70 Madison 1958 + 1900 David F. / Frank of Berea | Age ~1888 + Madison | G ≠ F; no contractor line. 2025 Jr. notice is not a 1958 certificate | **Not merged (C473 POSSIBLE / C496)** |
 | 1900 Malissa Bowman 3/1876 KYKYVA + 1880 Melissa Newnam 4 | Age + mother VA + Buck Creek | Maiden unread; Della’s 1931 father line says Newman not Bowman | **Not merged (C488 POSSIBLE)** |
-| 1940 John Newnam 63 + Cora + 1910/1915 John × Cora + 1880 John L. | Names + Buck Creek + ages + Cora m>1 | Census ages slack ~1877–1881 | **PROBABLE (C490/C491)** |
-| KDI JOHN L 88 Woodford 1966 + 1880 John L. + 1940 John + 1950 Woodford John 70 | Middle L + age ~1878 + **1950 Woodford with Cora** | Certificate unread | **PROBABLE (C492/C526/C527).** Not PROVEN |
+| 1940 John Newnam 63 + Cora + 1910/1915 John × Cora + 1880 John L. + **1930 John L 51** | John L + Cora + Pencie + Florence + Robert + mother VA + ages | First-marriage age 25 vs 1910 “9 years” slack | **PROVEN (C490/C491/C557)** |
+| KDI JOHN L 88 Woodford 1966 + 1880 John L. + 1930/1940/1950 John + Cora | Middle L + age ~1878 + **1950 Woodford with Cora** | Certificate unread | **PROBABLE (C492/C526/C527).** Not PROVEN |
+| 1930 McCoy Newman 40 Buck Creek + 1900 McCoy Apr 1890 + 1926 informant Coy | Rare name + age + KY parents + AR-born children | Wife Edith unread elsewhere; no DC | **PROBABLE (C562).** Not PROVEN |
 | KDI JOHNNIE NEWNAM 76 Lee/Estill 1972 + 1880 John L. | Given-name fragment | Age ⇒ b. ~1896 | **Rejected (C493)** |
 | KDI CORA B 95 Fayette 1988 + 1940 Cora 47 + 1950 Woodford Cora 56 | Age ~1893 + wife of John | Certificate unread; not Cora P. 1981 | **PROBABLE (C495/C528).** Not PROVEN |
 | 1940 Clarence Newnan + Susie + 1940 John + Cora | Surname + road | Different hh; Susie ≠ Cora | **Rejected (C503)** |

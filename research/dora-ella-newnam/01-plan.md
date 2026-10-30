@@ -207,6 +207,28 @@ Exact strings logged **L491–L506**.
 
 Exact strings logged **L507–L514**.
 
+### Pass 71 variant storm (30 Oct 2026)
+
+**John L. Newman / Newnam** — John, Jno, John L, Juhn (OCR) × Newman/Newnam/newnarn/newan. Soundex **N550**. Also **51** / Buck Creek / ED **95-7** / T626-773 / cert **17762** vol **036**.
+
+**Cora B. Newman** — Cora, Cora B × Newman/Newnam. Cert **29183** RD **059**. Not Cora P. / Plummer.
+
+**McCoy / Coy Newman** — McCoy, Mc Coy, Coy, Malcom (reject) × Newman/Newnam. Age **40** / Apr 1890 / Edith / Arkansas children.
+
+**Samuel P. Newnam** — Samuel, Sam, S P × Newnam/Newman/newnarn/newan/newnom. Films **127913 / 127869 / 1146342**.
+
+Exact strings logged **L515–L521**.
+
+### Pass 72 variant storm (30 Oct 2026)
+
+**John L. Newman / Newnam (1920)** — John, Jno, John L × Newman/Newnam/Newnarn/Newan/Noonan. Soundex **N550**. Also age **~41** / Cora / Owsley / Lee / T625-594 / EDs **88–94**.
+
+**McCoy / Coy Newman (1920/1940/1950)** — McCoy, Mc Coy, Coy × Newman/Newnam. Soundex **M200** / **N550**. Also Edith / Arkansas children / Apr 1890 / inverted **MCCOY, NEWMAN** / SSN **447-20-2466**.
+
+**Samuel P. Newnam** — Samuel, Sam, S P × Newnam/Newman. Films **127913 / 127869 / 1146342** (still **403**).
+
+Exact strings logged **L522–L530**.
+
 ## Agent SDK / GitHub channel
 
 Inspected 30 Oct 2026 (**L351**): this repository has **no** `package.json`, **no** `@grok/agent-sdk`, **no** `bot/` directory. GitHub channel `bot/channels/github.ts` is **n/a** and was **not** authored. Project subagent: `.cursor/agents/dora-genealogy-detective.md`.

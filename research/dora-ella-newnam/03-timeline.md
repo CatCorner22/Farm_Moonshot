@@ -142,12 +142,19 @@ Place as it was *at the date*; modern equivalent in brackets. Flag impossibiliti
 | Apr 1930 | — | FAN: Lee ED **10** hh **132** **Everett NEWMAN** 42 wd **KYVAKY** + Louis 15, Edward 12, Gladys 8. Mother-b. VA | Heidelberg–Beattyville Rd, Lee Co., KY | C530 C531 C554 | S405 |
 | Apr 1930 | — | FAN: Lee ED **11** hh **281** **Grant NEWMAN** 53 + Martha 44 + 4 children + Nancy Reynolds 71 = 1876 Grant | Lee Co., KY | C532 C533 | S405 |
 | Apr 1930 | — | FAN: Lee ED **1** Elias T. 87 wd; Luther 39 + Cora 36 WW Vet. ED **9** Catherine 59 wd KYGermKY. ED **5** Moses Estes + Malissa D. 66 nee NEWMAN. ED **3** Robert Spicer + Callie 44 | Lee Co., KY | C534–C538 | S405 |
-| Apr 1930 | — | FAN: Lee EDs **1–11** **nil** John ~52 + Cora ~37 head. Owsley D7 Buck Creek **unread** | Lee / Owsley, KY | C539 C544 | S405 S407 |
+| Apr 1930 | — | FAN: Lee EDs **1–11** **nil** John ~52 + Cora ~37 head (they are in Owsley) | Lee Co., KY | C539 | S405 |
+| Apr 1930 | — | FAN **PROVEN**: Owsley ED **95-7** sh **7B** hh **131** **Newman, John L** 51 KYKY**VA** + **Cora** 36 + Pencie M 23 + Robert L 12 + Florence M Combs 26 + Velma I gd 3. Hh **130** Clarence 37 + May + Susie 50 | Buck Creek, Owsley Co., KY | C555–C560 C557 | S409 |
+| Apr 1930 | — | FAN **PROBABLE** P010: ED **95-7** sh **8A** hh **133** **Newman, McCoy** 40 KYKYKY + Edith 29 MO + 4 children b. AR/TN. Next door to John L | Buck Creek, Owsley Co., KY | C561 C562 C569 | S409 |
 | Apr 1930 | — | FAN: Owsley D3 Sturgeon hh **171** Arthur Newman 54 × Rhoda + Grant 14 (Henry × Mary) — **not** Daniel’s line. Hh **10** Matilda Evans nee Venable 83 | Sturgeon, Owsley Co., KY | C543 C547 | S407 |
 | Jun 1890 | — | FAN negative: Owsley veterans special schedule (6 precincts) **nil** Newnam/Newman | Owsley Co., KY | C540 | S406 |
 | Apr 1950 | — | FAN: Owsley ED **95-3** (M.D. 1, enumerator Preston W. Mainous): Newman household on sheet **0023** is **Clarence + Mae**, not John+Cora. County Newnam index **0** | Owsley Co., KY | C512 C513 C524 | S399 |
 | Apr 1950 | — | FAN: Woodford ED **120-13** sheet **0012** **Newman, John** 70 + **Cora** 56. **PROBABLE** 1940 couple. API OCR “Juhn”/“cocan” | Woodford Co., KY | C525 C526 C529 | S404 |
 | Apr 1950 | — | FAN: Madison ED **76-6** Richmond — **Neuman, Shelly** 57 + **Grace** 51 **PROBABLE** Shelby×Grace. ED **76-32** **Dewey** Newman 26 **rejected** vs 1889 David F. | Madison Co., KY | C522 C523 | S400 |
+| Jan 1920 | — | FAN: Owsley T625-594 EDs **88–94** mapped (Booneville / Sturgeon / Island Creek / Cow Creek / Buffalo / ED 93 / Wilder). Sampled name cols **nil** Newman/McCoy. No Buck Creek header yet | Owsley Co., KY | C571 C572 C573 C581 | S411 S412 |
+| Jan 1920 | — | FAN: KY N-550 John window 4460–4499 **nil** Owsley/Lee John L ~41 + Cora. John L 28 Harlan + Roxie **rejected** | Kentucky Soundex | C577 C580 | S415 |
+| Apr 1940 | — | FAN: Owsley EDs **95-1..95-7** **nil** McCoy/Coy Newman head ~50. Arthur 63+Roda+Grant 22 = Henry×Mary. Ree McCoy 15 = Galigar son | Owsley Co., KY | C574 C579 C582 | S413 |
+| Apr 1950 | — | FAN: Owsley McCoy name API **0**. Newman hits = Bowman OCR + Clarence | Owsley Co., KY | C575 | S414 |
+| 11 Jul 1962 | — | NUMIDENT claim only: **MCCOY, NEWMAN** b. **13 Apr 1890** SSN **447-20-2466**, Modesto CA. **POSSIBLE** inverted P010 — **not merged**. Not a death date | Modesto, CA (claim office) | C576 | S415 |
 | **21 Jul 1864** / **29 Jun 1880** | — | FAN only: TFKRHA Williams list — Harry H. Newnam × Partington; Flanery × Rachel E. Venable. **Nil** Daniel×Sarah | Owsley (reconstructed) | C508 | S401 |
 | **6 Jun 1966** | — | FAN reject: **John Wesley Newman**, 69, Big Stone Gap VA — **not** KDI John L 17 Jul 1966 | Wise Co., VA | C509 | S402 |
 

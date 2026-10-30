@@ -1,0 +1,41 @@
+1920 U.S. census, Owsley County, Kentucky.
+NARA T625 roll 594 (Ohio / Oldham / Owen / Owsley).
+Internet Archive identifier 14thcensusofpopu594unit
+https://archive.org/details/14thcensusofpopu594unit
+1208 scanned leaves. Image count from IA metadata. Accessed 30 Oct 2026.
+
+AHGP / us-census.org: Owsley EDs 88–94 on this reel.
+
+BookReader (image seen, scale 8 headers):
+  zip=/24/items/14thcensusofpopu594unit/14thcensusofpopu594unit_jp2.zip
+  file=14thcensusofpopu594unit_jp2/14thcensusofpopu594unit_NNNN.jp2
+  4-digit leaf names. Leaf 1208 HTTP 404; last population frames ~1205–1207.
+
+Header map (visual):
+  1030  Owen Co. New Liberty precinct, ED 141 sh 13B  (still Owen)
+  1040  Owsley Booneville No. 1, ED 88 sh 2A, W.M. Dooley, 13 Jan
+  1045  Owsley Booneville, ED 88 sh 4B
+  1050  Owsley Booneville No. 1, ED 88 sh 7A
+  1060  Owsley Booneville No. 1, ED 88 sh 12A
+  1080  Owsley Dist. 2 Sturgeon Precinct No. 2, ED 89 sh 8A, John M. Wilson, 7 Jan
+  1095  Owsley Dist. 2 Sturgeon, ED 89 (later sheet)
+  1102  Owsley Island Creek Precinct No. 3, ED 90 sh 1A, Oscar J. Judd, 6 Jan
+  1110  Owsley Island Creek Precinct No. 3, ED 90 sh 3A
+  1130  Owsley Cow Creek precinct, ED 91 sh 2A
+  1150  Owsley Cow Creek, ED 91 later sheet
+  1160  Owsley Buffalo Precinct No. 2, ED 92
+  1170–1180  Owsley ED 93 (Lucky Creek / Sturgeon-adjacent label)
+  1198  Owsley Wilder Precinct No. 1, ED 94 sh 4A, Chester A. Gabbard, 13 Jan
+  1200  Owsley Wilder precinct, ED 94
+  1202  Owsley Wilder, ED 94 sh 6A, 20 Jan
+
+No 1920 header yet read that says “Buck Creek.”
+Owsley originals occupy roughly leaves 1040–1205.
+
+Name-column visual samples (scale 4), nil Newman/McCoy on those sheets:
+  ED 89 Sturgeon: 1070, 1080, 1085, 1090, 1095
+  ED 93: 1170, 1180, 1190
+  ED 94 Wilder: 1200
+  Residual: remaining sheets of 89/93/94 + all of ED 88/90/91/92 unread as name columns.
+
+USGenNet Owsley 1920 directory remains HTTP 404 (C567).

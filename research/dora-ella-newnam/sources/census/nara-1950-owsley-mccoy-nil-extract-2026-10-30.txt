@@ -1,0 +1,21 @@
+NARA 1950census name API — Pass 72.
+https://1950census.archives.gov/
+state=KY (not state=Kentucky — that returns 0; C549).
+Captured 30 Oct 2026. Index only.
+
+owsley + McCoy / Mc Coy / Coy:
+  nara-1950-owsley-mccoy-api.json  total=0
+
+owsley + Newman / Newnam:
+  nara-1950-owsley-newman-api.json  total=3
+  ED 95-5 sheets = Bowman OCR noise (Bewman / Bawman / Barman)
+  ED 95-3 sheet 0023 = Newman (Clarence + Mae, already C512)
+
+Statewide KY query mixing McCoy + Newman:
+  nara-1950-mccoy-newman-ky-api.json  total=729
+  OCR collision (any sheet with both fragments). Not a person named
+  McCoy Newman. Not used as a hit list.
+
+No 1950 Owsley head named McCoy Newman ~60.
+Claims: C575
+S414

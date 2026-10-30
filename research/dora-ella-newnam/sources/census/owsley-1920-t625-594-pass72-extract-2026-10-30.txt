@@ -1,0 +1,45 @@
+1920 U.S. census, Owsley County, Kentucky — Pass 72 extract.
+NARA T625 roll 594 (Ohio / Oldham / Owen / Owsley).
+Internet Archive identifier 14thcensusofpopu594unit
+https://archive.org/details/14thcensusofpopu594unit
+Metadata: 1208 scanned leaves; reel description names Owsley EDs 88–94.
+BookReader zip=/24/items/14thcensusofpopu594unit/14thcensusofpopu594unit_jp2.zip
+4-digit leaf names. Leaf 1208 HTTP 404. Accessed 30 Oct 2026.
+Access: image seen (headers + name-column crops). Original jp2.zip not downloaded.
+
+Header map (visual, scale 8 / scale 4):
+  1030  Owen Co. New Liberty precinct, ED 141 sh 13B (still Owen)
+  1038  Owsley Booneville No. 1, ED 88 sh 1A, W.M. Dooley, 12 Jan
+  1040  Owsley Booneville No. 1, ED 88 sh 2A, W.M. Dooley, 13 Jan
+  1080  Owsley Dist. 2 Sturgeon Precinct No. 2, ED 89 sh 8A, John M. Wilson, 7 Jan
+  1102  Owsley Island Creek Precinct No. 3, ED 90 sh 1A, Oscar J. Judd, 6 Jan
+  1130  Owsley Cow Creek precinct, ED 91 sh 2A
+  1160  Owsley Buffalo Precinct No. 2, ED 92
+  1170–1180  Owsley ED 93 (Lucky Creek / Sturgeon-adjacent)
+  1198  Owsley Wilder Precinct No. 1, ED 94 sh 4A, Chester A. Gabbard, 13 Jan
+
+No 1920 header yet read that says “Buck Creek.”
+Owsley originals occupy roughly leaves 1040–1205 (sh 1A of ED 88 is leaf 1038).
+
+Name-column visual samples (scale 4 crops), nil Newman / Newnam / McCoy / Coy as surname:
+  ED 88 Booneville: 1038 (Bowman, Taylor, Seale, Brandenburg, Hocker);
+                    1054 (Gilbert, Barrett, Spencer, Smith, Bowman, Jett)
+  ED 89 Sturgeon:   1070, 1080, 1085, 1088 (Bowman, McConnell, Peters,
+                    Fields, Bunch), 1090, 1095
+  ED 90 Island Cr.: 1104 (Hall, Beard, Thomas, Cecil, Pendergrass)
+  ED 91 Cow Creek:  1132 (Marshall, Gabbard — no Newman)
+  ED 92 Buffalo:    1162 (no Newman/McCoy on that crop)
+  ED 93:            1170, 1180, 1190
+  ED 94 Wilder:     1196 (Age, Botner, Gabbard, Waters, Marcum, Cecil,
+                    Wilson, Bolin, Flannery), 1200
+
+Crops exist for additional leaves (1072, 1076, 1093, 1098, 1172, 1176,
+1184, 1192, 1202, and others under /tmp/dora72/owsley1920ocr/). Those
+are not claimed as visually read.
+
+Residual B086: remaining unread name columns of EDs 88–94
+(every sheet not listed above). Tesseract on these crops is not evidence.
+
+USGenNet Owsley 1920 directory remains HTTP 404 (C567).
+Claims: C571 C572 C573 C581 C582
+S411 S412
