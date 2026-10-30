@@ -1830,3 +1830,34 @@ Pass 2: Surname **Newton** (capital N, *-ton* ending), **not** Tincher. Confirme
 
 ### Facts extracted → claim IDs
 - William Newton, not Tincher → C572
+
+## DOC077 — 1840 U.S. census, Clay Co. KY, IA leaf 105 (names; Joel Gray page)
+- Name crop: `sources/census/1840-clay-m704-108-leaf105-names.jpg` SHA-256 `33a6c59a6da91e4b0bbd3dfb5bfa729afac2ef30210f46882ab85691016a7c54` (2400×3235)
+- Provenance: NARA M704 reel **108**; IA `populationsc18400108unit` jp2 `_0105.jp2` (jp2 SHA-256 `0a392fa28220c9c403da7a51c3d45a72e18d9649d3f97c083777aeabc6476644`; **not committed**). Left-margin series: **County of Clay**. **Image seen.** Two-pass. Representative name page from the 23-page Clay run (IA odds `_0089`–`_0133`).
+
+### Diplomatic
+
+> SCHEDULE of the whole number of persons within the division. Left margin **County of Clay**. Form **(No. 4.)**.
+
+> Named heads on this page, among others: **Edward Cornett** · James Ivory · Robert Cornett · Joseph McCray · David Johnson · Dillon Collingsworth · Thomas Philpot · Timothy Philpot · William Burton · Andrew A. Bundy · **Joel Gray** · James Best · Alexander White · Moses Nicholson · Archabald Adrian · Thomas Matthews · James Frances · Elhanan Muncy · **Lynn S. Tinsley** · William Grundy · Aby Bowman · David Herd · John Griffin · Sidney M. Williams · Jonathan Hollinsworth · Eli Holland · Joseph Holland · William Sleet · William Daniel · **Isaac Simpson**.
+
+Pass 2: Surname **Gray** on Joel (not Newman). **Tinsley** (capital T, *-ley*), **not** Tincher. No Newman/Newnam/Tincher head on this page. Column totals at the foot include males 11 / 9 / 8 / 11 / 14 / 8 / 5 / 5 / 2 / 1 / 0 and females 20 / 12 / 9 / 6 / 18 / 7.
+
+### Facts extracted → claim IDs
+- Clay named-head page, nil Newman/Tincher → C579
+- Joel Gray / Tinsley not Tincher → C579
+
+## DOC078 — 1840 U.S. census, Clay Co. KY recap, overlay 0127
+- Recap crop: `sources/census/1840-clay-m704-108-leaf135-recap.jpg` SHA-256 `37e2eff332ee41d640d8941af7919864eab76c8f1ff1cd70759dd070887ef51e` (2200×2376)
+- Provenance: IA `populationsc18400108unit` jp2 `_0135.jp2` overlay stamp **0127** (jp2 SHA-256 `b3d5f389dc61b51bcabe077e3f0e6bbc8eece4314e69937f9631644c78ae9f28`; **not committed**). **Image seen.** Two-pass.
+
+### Diplomatic
+
+> Overlay **0127**. Form **(No. 4.)**. Left-column heading: **Recapitulation of Clay County**. Numbered rows **1** through **23** (one row per name page).
+> Male under-5 column foot **447**; other male age-column feet **339**, **275**, **219**, **308**, **190**, **105**, **88**, **37**, **12**, **2**, **1**. Female under-5 foot **430**. Do not treat those feet as a published county total of inhabitants.
+
+Pass 2: Twenty-three recap rows match the twenty-three Clay name pages read (IA odds `_0089`–`_0133`). This sheet closes Clay on reel **108**. Next county on the reel is Clinton (IA `_0143`).
+
+### Facts extracted → claim IDs
+- Recap pages 1–23 / overlay 0127 → C580
+- Clay named-head run complete → C579

@@ -1,6 +1,6 @@
 # Source-image gallery: Dora Ella Newnam Stone
 
-One hundred eighteen numbered plates (JPEG/PNG captures from NARA microfilm via Internet Archive, plus header and household crops). Plates **7g–7j** are the 1860 Owsley and 1880 Lee Gray originals added in passes 39–40. Plates **7k–7z** and **8a–8f** are the later 1850–1860 Owsley/Breathitt/Madison isolations, including Harrison Newman with Elias aged eight, H.H. Newman with Elias aged eighteen, and Giles Mays at one month and eleven. Plates **8j–8l** are the 1840 Estill originals (John and Christian Tincher, the county recap, and William Newton not Tincher) added in pass 55; they sit after the 1880 Buck Creek plate because those numbers were already assigned. They are ordered by **the date of the census they record or index**, not by the date the film was scanned. Plates **1a–2c**, **7a–7c**, **55b–55c**, and the 1880 G-600 cards were added in passes 34–37.
+One hundred twenty numbered plates (JPEG/PNG captures from NARA microfilm via Internet Archive, plus header and household crops). Plates **7g–7j** are the 1860 Owsley and 1880 Lee Gray originals added in passes 39–40. Plates **7k–7z** and **8a–8f** are the later 1850–1860 Owsley/Breathitt/Madison isolations, including Harrison Newman with Elias aged eight, H.H. Newman with Elias aged eighteen, and Giles Mays at one month and eleven. Plates **8j–8l** are the 1840 Estill originals (John and Christian Tincher, the county recap, and William Newton not Tincher) added in pass 55; plates **8m–8n** are the 1840 Clay originals (a Clay name page and the county recap) added in pass 56. They sit after the 1880 Buck Creek plate because those numbers were already assigned. They are ordered by **the date of the census they record or index**, not by the date the film was scanned. Plates **1a–2c**, **7a–7c**, **55b–55c**, and the 1880 G-600 cards were added in passes 34–37.
 
 Soundex and Miracode cards sit with the census year they index, immediately after any original population schedules for that year.
 
@@ -66,6 +66,11 @@ Diplomatic transcriptions: [`08-transcriptions.md`](08-transcriptions.md). Citat
 | 8g | 17 June 1870 | FAN | [Travellers Rest — Harrison Newman, 53](sources/census/1870-owsley-travrest-p15-hh134-harrison.jpg) |
 | 8h | 8 August 1870 | FAN | [Beattyville — Newman, Henry, 24](sources/census/1870-lee-beattyville-p315a-hh19-henry.jpg) |
 | 8i | 8 June 1880 | FAN | [Buck Creek ED 80 p.9 — Newman, Henry, 34](sources/census/1880-owsley-ed80-p9-hh74-henry.jpg) |
+| 8j | 1 Jun 1840 | FAN | [Estill overlay 0059 — John Tincher and Christian Tincher](sources/census/1840-estill-m704-109-leaf66-tincher.jpg) |
+| 8k | 1840 | FAN | [Estill recap overlay 0081 — J.G. Riddle, 5535](sources/census/1840-estill-m704-109-leaf89-recap.jpg) |
+| 8l | 1 Jun 1840 | FAN | [Estill overlay 0063 — William Newton, not Tincher](sources/census/1840-estill-m704-109-leaf70-william-newton.jpg) |
+| 8m | 1 Jun 1840 | Negative search | [Clay leaf 105 — Cornett / Joel Gray; no Newman or Tincher](sources/census/1840-clay-m704-108-leaf105-names.jpg) |
+| 8n | 1840 | Context | [Clay recap overlay 0127 — pages 1–23](sources/census/1840-clay-m704-108-leaf135-recap.jpg) |
 | 8 | 13 Jun 1900 | Rejected same-name | [Douglas County, Missouri — Thomas and Nancy E. Stone](sources/census/1900-douglas-mo-ed159-stone-sheet.jpg) |
 | 9 | 13 Jun 1900 | Rejected same-name | [Douglas County Stone household (crop)](sources/census/1900-douglas-mo-ed159-stone-hh-crop.jpg) |
 | 10 | 1900 (index) | Rejected same-name | [Missouri S-350 — Thomas Stone, 44, Douglas County](sources/soundex/mo1900-s350-p1678-stone-thomas-44-douglas.jpg) |
@@ -1370,6 +1375,26 @@ Estill County. Assistant marshal **J.G. Riddle**. One recapitulation. Total inha
 Same Lewis Estill division. The head near the foot is **William Newton**; **Jonathan Newton** follows. Male ticks include ages 15–20, 20–30, and 40–50. Do not treat the older male as a named Elias Tincher.
 
 ![1840 Estill overlay 0063 — William Newton](sources/census/1840-estill-m704-109-leaf70-william-newton.jpg)
+
+### 8m · 1 June 1840 · Clay IA leaf 105 — Cornett / Joel Gray (no Newman or Tincher)
+
+**Role:** Negative search (Clay named-head page; no Newman/Tincher)  
+**File:** [`sources/census/1840-clay-m704-108-leaf105-names.jpg`](sources/census/1840-clay-m704-108-leaf105-names.jpg)  
+**Source:** S474 · C579 · DOC077
+
+County of Clay. Heads include Edward Cornett, **Joel Gray**, **Lynn S. Tinsley**, Isaac Simpson. Tinsley is not Tincher. No Newman or Tincher head on this page, or on the other twenty-two Clay name pages.
+
+![1840 Clay leaf 105 — names](sources/census/1840-clay-m704-108-leaf105-names.jpg)
+
+### 8n · 1840 · Clay recap overlay 0127 — Recapitulation of Clay County, pages 1–23
+
+**Role:** Context (closes Clay’s 23 name pages on M704-108)  
+**File:** [`sources/census/1840-clay-m704-108-leaf135-recap.jpg`](sources/census/1840-clay-m704-108-leaf135-recap.jpg)  
+**Source:** S474 · C580 · DOC078
+
+Left-column heading “Recapitulation of Clay County.” Numbered rows 1 through 23. Overlay **0127**. Next county on the reel is Clinton.
+
+![1840 Clay recap overlay 0127](sources/census/1840-clay-m704-108-leaf135-recap.jpg)
 
 ## Pass 50 note — cemetery overview (not a numbered plate)
 

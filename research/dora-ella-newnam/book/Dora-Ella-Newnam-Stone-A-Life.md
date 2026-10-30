@@ -30,6 +30,8 @@ Ten years earlier, on **17 June 1870** — the original schedule; a published tr
 
 On the next sheet of that Travellers Rest original, dwelling 134 is **Harrison Newman**, fifty-three, with Susan, forty-seven, and eight children from John, eighteen, down to twins Hiram and Sarah, two. That is the 1860 H.H. house, proven. There is no Henry of twenty-five in it. [C542] [C543] [C544] On 8 August 1870 a **Henry Newman**, twenty-four, worked in a coal mine in the Town of Beattyville with Mary, twenty-three, Ellen, five, Millia, three, and infant John. That house is the 1880 Buck Creek couple, proven. On 8 June 1880 the original Buck Creek schedule — Owsley district 80, page 9 — lists **Newman, Henry**, thirty-four, a farm labourer, with Mary, thirty-three, whose father was born in England, Ellen F., fourteen, Milla A., twelve, Chalista, seven, Laura B., four, and Arthur, two. The enumerator wrote Newman, not Newnam. Identity with the 1860 boy remains probable, not proved. Millia, three, is not Millie Tincher. Infant John of 1870 is not in the 1880 house. [C550] [C551] [C552] [C555] [C561] [C562] [C563]
 
+Thirty years before that Travellers Rest sheet, the 1840 Estill original lists young heads **John Tincher** and **Christian Tincher** — men in their twenties, not a man of fifty — and no named Newman or Elias Tincher head on Warren Lewis’s pages. A first-pass William Tincher on that film is **William Newton**. Clay County’s original, twenty-three name pages, likewise has no Newman or Tincher head; the recap is labelled Recapitulation of Clay County, pages 1–23. Four Smallwood heads in Clay are not merged as Mary Ann’s kin. The enumerator after Estill’s recap, Andrew McIlvain, is not Edmonson’s published page 84. The authored 27 February 1840 Newman–Tincher bond remains unseen. Do not promote the 1932 extract’s father to proved. [C567] [C568] [C569] [C570] [C572] [C579] [C580] [C581] [C582] [C509]
+
 A compiled Boone descent through Leah Scholl sits on WikiTree and on cemetery markers. This case has not independently re-proved those steps. They stay speculative.
 
 ---
@@ -215,6 +217,6 @@ Charts of pedigree, descendants, and lifespan follow the plates. Dashed lines me
 - Whether witness **Link Mays** is Larkin T. Mays — still possible, not merged.
 - Conflict **#22**: cemetery transcript dates Mary A. Newnam 11 July 1918; Kentucky’s 1918 death index has no matching Lee row. The Find A Grave JPEG on file is a portrait, not a stone.
 - The original 1932 Lee death certificate, volume 20, number 9525, and the original 1916 Owsley certificate, volume 44, number 21663. The 1916 extracts leave the parent cells blank.
-- The Estill Newman–Tincher bond, 1826–1850. Published “to 1850” web files stop at 1825.
+- The Estill Newman–Tincher bond, 1826–1850. Published “to 1850” web files stop at 1825. The 1840 Estill and Clay census originals are now seen; they do not name a Newman head. Breathitt 1840 remains unread.
 
 The next chat should treat this book and `06-dossier.md` as the combined master, then work the open list. Do not reopen Peebles as a third marriage without a license. Do not print 1868 or 24 February 1906 as facts. Do not promote the 1850–60 Elias to proved fatherhood on the 1932 extract alone.

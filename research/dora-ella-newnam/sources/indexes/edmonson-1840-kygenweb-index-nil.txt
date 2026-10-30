@@ -1,0 +1,26 @@
+Edmonson County KY 1840 census index + page 84 transcript
+KyGenWeb / KYKinFolk: https://kygenweb.net/edmonson/census/1840/index.html
+Page 84: https://kygenweb.net/edmonson/census/1840/84.html
+Opened 30 Oct 2026 (America/New_York). Derivative of NARA M704 (Edmonson is on reel 109 after Estill).
+
+Index surname scan (case-insensitive):
+  Newman / Newnam / Numan / Newmon — NIL
+  Tincher / Tinsher — NIL
+  Wiseman — NIL
+  Tipton — NIL
+  Wray — NIL
+  Newland — NIL
+  Sparks / Tackett — NIL
+  Abner as a surname — NIL
+  LONG, Abner — present, page 89 (not Wiseman)
+
+Published PAGE 84 heads (not McIlvain overlay 0084):
+  JOHNSON Sylvianis; JOHNSON John M.; FORD Wiliam; SHANK William; RHODES John;
+  MITCHIEL Bedford; BARRET A. M.; ROGERS James W.; SKAGGS William; EPERSON William;
+  CLAYTON Austin; ROGERS John L.; SMITH Liberty R.; FOWLER L. B.; JONES Thomas;
+  CLAYTON A. B.; MCCLUNG John; GOINS James F.; THOMPSON N. P.; MITCHIEL Woodford;
+  DIXON W. S.; LEE Robert; RICHARDSON T. M. R.; PINERY Martin; LINSEY John;
+  ELMORE Martin; STICE Charles; WEBB M. H.; THOMSON Delila; LINSEY James.
+
+McIlvain overlay 0084 heads (M.M. Parke, Abner Wiseman, Tipton, Durbin) are not this page.
+PARKE as Parker exists elsewhere in the Edmonson index; Durbin exists elsewhere; neither is on page 84.

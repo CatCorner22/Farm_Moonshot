@@ -787,3 +787,15 @@ research/dora-ella-newnam/sources/census/1880-lee-ky-ed59-sheet43-p768-caroline-
   sha256: 5f69fe625c119aaac51e3a211a46059c603e3509c637615634a293a52b3ad218
   format: text extract, 400 bytes
   check: Clay 1840 transcript nil Newman/Tincher; original unread
+/workspace/research/dora-ella-newnam/sources/census/1840-clay-m704-108-leaf105-names.jpg
+  sha256: 33a6c59a6da91e4b0bbd3dfb5bfa729afac2ef30210f46882ab85691016a7c54
+  format: JPEG crop, 2400x3235px
+  check: Clay County names Edward Cornett Joel Gray Isaac Simpson; M704-108 _0105.jp2
+/workspace/research/dora-ella-newnam/sources/census/1840-clay-m704-108-leaf135-recap.jpg
+  sha256: 37e2eff332ee41d640d8941af7919864eab76c8f1ff1cd70759dd070887ef51e
+  format: JPEG crop, 2200x2376px
+  check: overlay 0127 Recapitulation of Clay County pages 1-23
+/workspace/research/dora-ella-newnam/sources/indexes/edmonson-1840-kygenweb-index-nil.txt
+  sha256: 9da78430e89409d7fd0ea09c01a9e074f05f592e5c869aa262018d8ffaca3596
+  format: text extract, 1,304 bytes
+  check: Edmonson 1840 index nil Newman/Tincher; page 84 not McIlvain
