@@ -1,6 +1,6 @@
 # Source-image gallery: Dora Ella Newnam Stone
 
-Sixty-one JPEG images captured from NARA microfilm (via Internet Archive) during this case. They are ordered by **the date of the census they record or index**, not by the date the film was scanned.
+Sixty-nine JPEG images captured from NARA microfilm (via Internet Archive) during this case. They are ordered by **the date of the census they record or index**, not by the date the film was scanned. Plates 66–69 were added 30 Oct 2026 (Greene ED 42 start/end; ED 43 start/end).
 
 Soundex and Miracode cards sit with the census year they index, immediately after any original population schedules for that year.
 
@@ -80,6 +80,14 @@ Diplomatic transcriptions: [`08-transcriptions.md`](08-transcriptions.md). Citat
 | 59 | Jan 1920 | Family hit | [Kentucky N-550 — E. T. Neuman, grandfather, Beattyville](sources/soundex/ky1920-n550-p4208-et-newnam-beattyville.jpg) |
 | 60 | 12 Jan 1920 | Family hit | [Beattyville ED 111 sheet 6A — C. B. Burke and E. T. Newman](sources/census/1920-lee-ky-ed111-sh6a-burke-et-newman.jpg) |
 | 61 | 12 Jan 1920 | Family hit | [Burke household crop — E. T. Newman, grandfather](sources/census/1920-lee-ky-ed111-sh6a-burke-hh-crop.jpg) |
+| 62 | 11 Jun 1900 | FAN / original | [Sturgeon ED 52 sheet 5B header](sources/census/1900-lee-ky-ed52-sh5b-header.jpg) |
+| 63 | 11 Jun 1900 | FAN / original | [hh 84–85 William Gray + Hardin, Vestie, Rosco](sources/census/1900-lee-ky-ed52-sh5b-hh84-85-nativity.jpg) |
+| 64 | Apr 1910 | Rejected same-name | [1910 KY N-550 p.268 — Ella 35 Newport servant; Ella 13 Lexington](sources/soundex/1910-ky-n550-p0268.jpg) |
+| 65 | 27 Jun 1900 | Context | [Greene ED 42 sheet 36A header — not 86A](sources/census/1900-greene-ed42-sh36a-header.jpg) |
+| 66 | 23 Jun 1900 | Context | [Greene ED 42 sheet 1B header](sources/census/1900-greene-ed42-sh1b-header.jpg) |
+| 67 | 28 Jun 1900 | Context | [Greene ED 42 sheet 37B header](sources/census/1900-greene-ed42-sh37b-header.jpg) |
+| 68 | Jun 1900 | Context | [Greene ED 43 sheet 1A header](sources/census/1900-greene-ed43-sh1a-header.jpg) |
+| 69 | Jun 1900 | Context | [Greene ED 43 sheet 29B header](sources/census/1900-greene-ed43-sh29b-header.jpg) |
 
 ---
 
@@ -248,6 +256,46 @@ Fails race, age, and household. Not Tom A. of 1920 Arkansas.
 Coal-miner boarder, born May 1869. No wife, no daughters matching 1920. Not merged.
 
 ![Missouri S-350 — Tom Stone, 31, Vernon County](sources/soundex/mo1900-s350-p1728-stone-tom-31-vernon.jpg)
+
+### 66 · 23 Jun 1900 · Greene ED 42 sheet 1B header
+
+**Role:** Context  
+**File:** [`sources/census/1900-greene-ed42-sh1b-header.jpg`](sources/census/1900-greene-ed42-sh1b-header.jpg)  
+**Source:** S256 · C264
+
+North Campbell / Springfield ward 6, ED 42, sheet 1 B, enumerator Rollt F. Renshaw. Start of the ED 42 sweep (later finished A+B).
+
+![Greene ED 42 sheet 1B header](sources/census/1900-greene-ed42-sh1b-header.jpg)
+
+### 67 · 28 Jun 1900 · Greene ED 42 sheet 37B header
+
+**Role:** Context  
+**File:** [`sources/census/1900-greene-ed42-sh37b-header.jpg`](sources/census/1900-greene-ed42-sh37b-header.jpg)  
+**Source:** S256 · C264
+
+Last populated ED 42 sheet on this reel (p.253). No Thomas A. Stone head on the interiors between plates 66 and 67.
+
+![Greene ED 42 sheet 37B header](sources/census/1900-greene-ed42-sh37b-header.jpg)
+
+### 68 · Jun 1900 · Greene ED 43 sheet 1A header
+
+**Role:** Context  
+**File:** [`sources/census/1900-greene-ed43-sh1a-header.jpg`](sources/census/1900-greene-ed43-sh1a-header.jpg)  
+**Source:** S256 · C264
+
+ED 43 begins at PDF p.256: North Campbell, Springfield ward 7, Robert A. Witten. Name column on this sheet has no Stone.
+
+![Greene ED 43 sheet 1A header](sources/census/1900-greene-ed43-sh1a-header.jpg)
+
+### 69 · Jun 1900 · Greene ED 43 sheet 29B header
+
+**Role:** Context  
+**File:** [`sources/census/1900-greene-ed43-sh29b-header.jpg`](sources/census/1900-greene-ed43-sh29b-header.jpg)  
+**Source:** S256 · C264
+
+ED 43 sheet 29 B (p.313). Name-column samples from sheet 1 A through here found no Stone. Full ED 42–43 A+B later swept (**C264**).
+
+![Greene ED 43 sheet 29B header](sources/census/1900-greene-ed43-sh29b-header.jpg)
 
 ## 1910 — Soundex, Peebles test, and Sturgeon ED 99
 
