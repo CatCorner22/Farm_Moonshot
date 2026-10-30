@@ -582,6 +582,60 @@
 | C373 | 1952 **Stanley Newman** (parents **John Newman** × **Serilda Angel**) is the same cluster as the rejected 1917 Book 12 John — **not** Everett’s brother John of Owsley | PROBABLE not-merge (already **C239**). One identifier only if forced | S333 C239 | B056 reject |
 | C374 | SNAC: Kentucky Historical Society holds Lee Clerk **probate records [microform], 1873–1945**. **Not examined** | PROVEN as a catalog citation | S328 L401 | B045 |
 | C375 | KDLA *County Records* inventory (PDF saved this pass): Lee **other probate 1873–2004**; **order books 1870–1981**. **Not examined** | PROVEN as to that inventory row (extends **C243**) | S328 L401 C243 | B045 / B061 |
+| C376 | **Grant Newnam** of Lee Co. d. **9 Dec 1970**, age **93**, death county **Fayette**, vol **060** cert **29556** | PROVEN as the statewide annual-list row + SortedByName KY death sentence | S341 S347 L414 L417 | B066 |
+| C377 | Same Grant was born **10 Jun 1876**, SSN **407-54-0572**, DMF death **December 1970** | PROVEN as that Death Master File / SortedByName row | S347 L417 | B066 |
+| C378 | The 1970 decedent is the **1899 / 1920 / 1951** Grant × **Martha Brandenburg**: name + wife Martha + Lee/Yellow Rock + age 23 (1899) / 42 (1920) / 93 (1970) / b. 10 Jun 1876 | PROVEN same-person (≥2 IDs, no contradiction once #23 is resolved) | S307 S344 S347 C330 C376 C377 C381 | B066 |
+| C379 | The 14 Jul 1955 *Enterprise* phrase “the late Grant and Martha” is **not** a 1951–1955 death for Grant | DISPROVED as a death date (he died 1970). The paper is still a valid source for William’s own death | S311 C335 C376 C392 | #23 |
+| C380 | **Lucy Arvin**, b. **10 Jun 1900** Yellow Rock, d. Mar 1981, d/o **Grant Newnam** × **Martha Brandenberg** | PROVEN as that NUMIDENT / SortedByName row (deceased) | S347 L417 | FAN |
+| C381 | **1920** Heidelberg hh **101–106**: Grant Newnam 42, Martha 38 nee Brandenburg, Boscoe 17, Otto 15, William 13, Oliver 11, Nancy J. 9, Victoria 7, Ivan 3 | PROVEN as that Kendrick transcription | S344 S357 L418 | B070 |
+| C382 | **Hiram Arvin** × **Lucy Newnam**, **14 Sep 1918** Willow; bride’s parents **Grant Newnam × Martha Brandenburg** | PROVEN as Book 13 transcription | S345 L419 | FAN |
+| C383 | **Kate Newnam** d. **21 Sep 1941** Beattyville, age 70y 7m 1d, b. **20 Feb 1871** Lee; burial Proctor; spouse **W. N. Newnam**; father **Samuel Sternberg**; mother **Mahaley Robinson** | PROVEN as the 1941 year-file extract + matching KDI row | S342 S341 L415 | B060 / B062 |
+| C384 | Kate (**C383**) is **Katherine Sternberg**, mother of Rev. Luther Newnam (1945 DC: William × Katherine Sternberg) | PROVEN (Sternberg father + W. N. spouse + dates + Proctor stone) | S342 S297 C305 C383 | B060 |
+| C385 | **William Newnam** stone, Proctor: **15 Apr 1867 – 10 Dec 1905**, is **PROBABLE** Luther’s father (Kate’s spouse **W. N.**; same cemetery cluster; ages fit Luther b. 1891) | PROBABLE (stone is transcription; no 1905 VS — Lee gap **C110**) | S343 C384 | B060 |
+| C386 | **Fred L. Newman** d. **14 Jun 1961**, age **66**, Estill / Estill, vol **029** cert **14145** | PROVEN as the statewide annual-list row | S341 L414 | B062 |
+| C387 | Fred **C386** = Proctor Fred 1894–1961 = Luther’s 1945 brother **Fred of Irvine** | PROBABLE (Estill/Irvine + age 66 in 1961 ≈ 1894–95 + mother’s Proctor cluster). Not merged with 1953 Fred G. Neuman of McCracken | S343 S294 C338 C386 | B062 |
+| C388 | **Era Newnam** 1897–1991 (Proctor pair) is **PROBABLE** Fred’s wife; SortedByName **ERA** of Estill d. **11 Aug 1991** age 93 Fayette; FRED × ERA R. REEVES, daughter Helen b. 1920 Irvine | PROBABLE (paired stone + Estill/Irvine) | S343 L422 | B062 |
+| C389 | **Everett Newman** d. **13 Dec 1939**, age **53**, Madison death / Lee residence, vol **062** cert **30987** | PROVEN as the statewide row (confirms **C299**). Age 53 vs *Enterprise* 50 — do not average | S341 S278 C299 | B053 |
+| C390 | **Luther Newman** d. **28 Feb 1945**, age **54**, Lee / Lee, vol **013** cert **06315** | PROVEN as the statewide row (confirms **C305**) | S341 S297 C305 | B051 |
+| C391 | **Martha J. Newman** d. **18 Feb 1951**, age **68**, Fayette death / Lee residence, vol **014** cert **06888** | PROVEN as the statewide row (confirms **C332**) | S340 S310 C332 | B063 |
+| C392 | Statewide KY death lists **1951–1955** have **no Grant Newman/Newnam** decedent | PROVEN negative for those five annual lists (he died 1970) | S340 L413 | B066 |
+| C393 | **Frank Newman**, 60, d. **12 Dec 1949** Jefferson — **not merged** with Everett’s brother, contractor of Berea | PROVEN not-merge (Jefferson ≠ Madison; one identifier only) | S341 L414 | B055 reject |
+| C394 | No **John Newnam/Newman** decedent in Lee / Owsley / Madison on the 1939–1989 KDI years read | PROVEN negative for those years and counties | S341 L414 | B056 |
+| C396 | Compiled FAG memorial **173232336** places Grant Newman (1877–1970) at **Beatty Place Cemetery**, Beattyville | POSSIBLE–PROBABLE burial (search snippet; page/image not seen). Birth year 1877 vs SSDI 1876 not averaged | S348 L420 | B066 residual |
+| C397 | **Ivan Newnam** (also Ivan Newman), b. **16 May 1916** Willow, s/o Grant Newman × Martha Brandenburg, d. **25 Jan 1990**, SSN **401-07-9966** | PROVEN as that NUMIDENT row (deceased) | S354 L421 | FAN |
+| C398 | FS catalog images **127913 / 127891 / 127869 / 964964 / 1146342 / 156057 / 97277** remain **not examined** this pass | PROVEN as an access note | S349 L423 | R011 |
+| C399 | USGenWeb Archives Lee **wills** and **court** pages timed out; directory text reported “None available” | PROVEN as to the timeout / directory snippet | S353 L423 | B045 |
+| C400 | IA Solr **numFound 0** for `"Dora Stone" 1926`, title *Yell County Journal* 1926, and M1509 Kentucky draft | PROVEN as to those queries | S350 L424 | B049 / B069 |
+| C401 | `leecounty.kentuckycourt.us` probate page is a **modern** clerk-path (Circuit Clerk Tyler Phillips, 256 Main St). **No** 1900–1910 images | PROVEN as to that page | S349 L423 | B045 retrieval |
+| C402 | **Shelby Newman** d. **7 Jun 1973**, age **80**, Madison / Madison | PROBABLE Ladona’s father (age 21 in 1913 ≈ b. 1892; Madison) | S341 C309 | B052 confirm |
+| C403 | **Grace B. Newman** d. **24 Oct 1987**, age **89**, Madison / Madison | PROBABLE Grace Brandenburg (age 15 in 1913 ≈ b. 1898) | S341 C309 | B052 confirm |
+| C404 | **Roscoe Newnam** × **Bertha Reece**, **13 Dec 1923** Beattyville; groom’s parents **Grant Newnam × Martha Brandenbug?** | PROVEN as Book 17 transcription | S346 L419 | FAN |
+| C405 | Kate Newnam’s parents on the 1941 extract are **Samuel Sternberg** × **Mahaley Robinson** | PROVEN as that extract (new FAN; license for William × Kate still unread) | S342 C383 | B064 residual |
+| C406 | No **Frank Newman/Newnam** decedent in **Madison** on the 1939–1989 KDI years read | PROVEN negative for those years in Madison | S341 L414 | B055 |
+| C407 | **GRANT NEWMAN**, 76, d. **7 Jun 1980** Knox — **rejected** vs C376 | PROVEN not-merge (Knox; age 76 ≠ 93; 1980 ≠ 1970) | S341 | reject |
+| C408 | **Callie Spicer** d. **5 Nov 1961**, Lee Co.; 75y 10m 3d; b. **2 Jan 1886** Owsley; burial Riverview; married; father **Daniel Newnam**; mother **Sarah Veneable** | PROVEN as that 1961 year-file extract (certificate image not seen) | S370 S359 L429 | B057 |
+| C409 | Callie (**C408**) is **PROBABLE** the NUMIDENT **Callie Newnam** × **Robert Spicer** of Willow (mother of Victoria/Sam/Vernon) | PROBABLE (Callie + Spicer + Newnam father + Lee/Owsley/Willow). Spouse name blank on the extract | S370 S303 C323 C408 | B057 |
+| C410 | Callie (**C408/C409**) is **PROBABLE** Everett’s 1939 sister **Mrs. Robert Spicer of Lower Buffalo** | PROBABLE (same chain as **C323/C341**, now with a death date after 1944). 1939 line still omits her given name | S370 S278 C323 C341 | B057 |
+| C411 | KDI **SPICER, CALLIE**, 75, LEE/LEE, **5 Nov 1961**, vol **050** cert **24706** is the **C408** event | PROVEN as a derivative-index identity (same date + age + county) | S361 C408 | B057 |
+| C412 | **SPICER, CALLIE B**, 63, BRACKEN **6 Mar 1942** is **not** Everett’s sister (sister living May 1944; wrong county) | PROVEN not-merge | S361 | B057 reject |
+| C413 | Later **Callie Spicer** rows — Perry/Breathitt 1963 age 70; Breathitt 1969 age 69; Breathitt 1975 age 74 — are **not** the 1961 Lee woman | PROVEN not-merge (different date/county; 1961 already used) | S361 | B057 reject |
+| C414 | KDI **SPICER, LINDA**, 3, Fayette/Lexington, **3 May 1944** confirms **C341** | PROVEN as the statewide row for Linda Lou | S361 S312 C341 | B057 |
+| C415 | **SPICER, ROBERT**, 83, Boyle death / Lee residence, **11 Nov 1966** is **PROBABLE** Rev. Robert of Lower Buffalo | PROBABLE (Robert + Lee + age ~1883 + living 1944). Boyle DC unread | S361 C341 | B057 residual |
+| C416 | Lee deaths **1966** year file has **no** Robert Spicer / Grant / Newnam decedent | PROVEN negative for that page (Robert died Boyle) | S371 L430 | B057 |
+| C417 | Lee obituaries **S** still has **no** Callie Spicer death notice | PROVEN negative for that page (extends **C342**) | S313 L436 | B057 |
+| C418 | **JOHNNIE NEWNAM**, 76, Lee death / Estill residence, **19 Apr 1972** is **not merged** with Everett’s brother John of Owsley | PROVEN not-merge at GPS (Johnnie + Estill ≠ Owsley; one identifier only) | S363 | B056 reject |
+| C419 | No **John Newnam/Newman** decedent with **Owsley** residence on KDI years **1939–1989** | PROVEN negative (extends **C394**) | S363 S341 C394 | B056 |
+| C420 | No **Frank Newnam/Newman** decedent with **Madison** residence on KDI years **1939–1989** | PROVEN negative (extends **C406**) | S363 S341 C406 | B055 |
+| C421 | **FRANKLIN D. Newman**, 16, Lee **3 Jul 1949** is **not** the Berea contractor | PROVEN not-merge (age 16) | S363 | B055 reject |
+| C422 | **ESTES, HERMAN H**, 68, Estill **18 Jun 1952** is **not** Melissa’s son Herman of Brasstown (named living **11 Apr 1957**) | PROVEN not-merge | S364 C358 | B067 reject |
+| C423 | **ESTES, HERMAN L**, 61, Metcalfe **6 Oct 1987** is **not** merged with Herman of Brasstown | PROVEN not-merge (Metcalfe ≠ Clay Co. N.C.; one identifier) | S364 | B067 reject |
+| C424 | KY KDI **1939–1989** has **no** Herman Estes of Brasstown / North Carolina | PROVEN negative for those KY lists | S364 L432 | B067 |
+| C425 | **PETERS, MARY**, 69, Fayette **5 Mar 1942** is **POSSIBLE** the 1939 Lexington sister Mary Peters — **not merged** (Mary + Peters + Fayette only) | POSSIBLE. Age 69 ⇒ b. ~1873 vs 1880 Mary ~10 (b. ~1870). One cluster | S365 C099 | B068 |
+| C426 | No **Jones** Frankie/Frances/Fannie decedent in **Oldham / La Grange** on KDI **1939–1989** | PROVEN negative for those county codes | S365 L433 | B068 |
+| C427 | No **McCoy / Coy** Newman/Newnam decedent on KDI **1939–1989** | PROVEN negative for those givens | S366 L434 | children |
+| C428 | USGenNet Lee deaths **1970** URL is **404**. Grant died Fayette, not Lee | PROVEN as to that URL | S372 L437 | B066 |
+| C429 | **NEWMAN, DORA**, 72, Owsley **26 Dec 1979** is **not** P001 | PROVEN not-merge (P001 d. 1926) | S362 | reject |
+| C430 | **Daniel Newnam** × **Sarah Veneable** are **PROVEN** as Callie Spicer’s parents on the 1961 extract. They are **not** silently Everett’s parents | PROVEN as to Callie’s line; Everett parentage unread | S370 C408 | B072 |
 | C224 | **1 Jun 1880** population schedule dw **102/102** (ED **59**, **S235**) is **Flanary** + **Brashears**, **not** a **Mays** head; **Mary MAYS** 83 d. **Jan 1880** in mortality hh **102** (**S120**) — **same dwelling number**, decedent absent from June snapshot | PROVEN (original pop. line + mortality transcript) | S235 S120 L248 | Does not identify Pollie Mays stone (**C147**) |
 
 ## Same-person merges (Hard Rule 3)
@@ -696,4 +750,11 @@
 | Callie Moore Newnam d. 1926 + Callie (Newnam) Spicer living May 1944 | Given name Callie + Newnam | Different maiden/married identities; Spicer couple living 1944 | **Not merged (#21)** |
 | Melissa Estes Miller 1957 + 1880 Malissa, 16, in Elias’s house | Parents + birth year 1863 | 1939 “Melissa Eastes” of Lexington still living | **Same woman PROVEN (C358)** |
 | William Newnam, 1888 Sternberg witness + Luther’s father William × Katherine Sternberg | Given name William + Sternberg FAN + Lee | No marriage row; Elias also had a son William | **Not merged (C339 / C328)** |
-| Rev. & Mrs. Robert Spicer of Lower Buffalo (1944 grandparents) + Everett’s sister Mrs. Robert Spicer of Lower Buffalo (1939) | Robert Spicer + Lower Buffalo | Wife’s given name not in the 1939 line | **PROBABLE same couple (C341 / C323)**; Callie still unread |
+| Rev. & Mrs. Robert Spicer of Lower Buffalo (1944 grandparents) + Everett’s sister Mrs. Robert Spicer of Lower Buffalo (1939) | Robert Spicer + Lower Buffalo | Wife’s given name not in the 1939 line | **PROBABLE same couple (C341 / C323)**; Callie’s death is now **C408** |
+| 1899 Grant × Martha + 1920 Heidelberg hh 101–106 + 1970 Grant of Lee | Grant + Martha Brandenburg + Lee + ages 23 / 42 / 93 | 1955 “late Grant” is paper wording (**#23**) | **Same man PROVEN (C378)** |
+| 1961 Callie Spicer (Daniel Newnam × Sarah Veneable) + NUMIDENT Callie Newnam × Robert | Callie + Spicer + Newnam + Lee/Owsley | Spouse name blank on 1961 extract | **PROBABLE (C409)** |
+| 1961 Callie Spicer + Everett’s 1939 sister Mrs. Robert Spicer | Robert Spicer + Lee + living 1944 / dead 1961 | 1939 line omits given name | **PROBABLE (C410)** |
+| JOHNNIE NEWNAM 76 Lee/Estill 1972 + John of Owsley 1939 | Given-name fragment | Estill ≠ Owsley | **Not merged (C418)** |
+| HERMAN H Estes Estill 1952 + Herman of Brasstown living 1957 | Herman + Estes | 1952 decedent cannot be the 1957 survivor | **Not merged (C422)** |
+| PETERS MARY 69 Fayette 1942 + 1939 sister Mary Peters of Lexington | Mary + Peters + Fayette | No parent line on the index row | **Not merged (C425 POSSIBLE)** |
+| 1979 Dora Newman 72 Owsley + P001 | Given name Dora | P001 d. 1926 | **Rejected (C429)** |

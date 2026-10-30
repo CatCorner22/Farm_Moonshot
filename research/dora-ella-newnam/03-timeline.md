@@ -108,5 +108,16 @@ Place as it was *at the date*; modern equivalent in brackets. Flag impossibiliti
 | **27 Apr 1926** | — | FAN: **Callie (Moore) Newnam**, wife of Everett, d. (Proctor / Idamay extracts). Parents Sam Moore × Mary Brandenburg. **Not** Callie Spicer | Lee / Owsley, KY | C355 C357 | S331 |
 | **6 Oct 1926** | — | FAN: **Dorothy Newnam**, 1, d. Idamay; parents Everett Newnam × Callie Moore | Idamay, Lee Co., KY | C356 | S331 |
 | **11 Apr 1957** | — | FAN / household: **Melissa Newnam Estes Miller**, Dora’s sister, d. age 93; d/o Elias T. × Mary Ann Smallwood; buried Riverview | Beattyville, Lee Co., KY | C358 | S332 |
+| **Jan 1920** | — | FAN: Heidelberg hh **101–106** Grant 42, Martha 38 nee Brandenburg, Boscoe 17, Otto 15, William 13, Oliver 11, Nancy J. 9, Victoria 7, Ivan 3 | Heidelberg, Lee Co., KY | C381 | S344 |
+| **14 Sep 1918** | — | FAN: **Hiram Arvin** × **Lucy Newnam**; bride’s parents Grant × Martha Brandenburg | Willow, Lee Co., KY | C382 | S345 |
+| **13 Dec 1923** | — | FAN: **Roscoe Newnam** × **Bertha Reece**; groom’s parents Grant × Martha | Beattyville, Lee Co., KY | C404 | S346 |
+| **10 Dec 1905** | — | FAN: **William Newnam** stone, Proctor, **15 Apr 1867 – 10 Dec 1905** — **PROBABLE** Luther’s father | Proctor, Lee Co., KY | C385 | S343 |
+| **21 Sep 1941** | — | FAN: **Kate Newnam** d. Beattyville, b. **20 Feb 1871**; spouse W. N.; parents Samuel Sternberg × Mahaley Robinson = Katherine Sternberg **PROVEN** | Beattyville, Lee Co., KY | C383 C384 | S342 |
+| **14 Jun 1961** | — | FAN: **Fred L. Newman** d. Estill age 66 — **PROBABLE** Luther’s brother Fred of Irvine | Estill Co., KY | C386 C387 | S341 S343 |
+| **5 Nov 1961** | — | FAN: **Callie Spicer** d. Lee, b. **2 Jan 1886** Owsley; parents Daniel Newnam × Sarah Veneable; Riverview. **PROBABLE** Everett’s sister | Lee Co., KY | C408 C410 | S370 |
+| **11 Nov 1966** | — | FAN: **Robert Spicer**, 83, d. Boyle / Lee residence — **PROBABLE** Rev. Robert of Lower Buffalo | Boyle / Lee Co., KY | C415 | S361 |
+| **9 Dec 1970** | — | FAN: **Grant Newnam** of Lee d. Fayette age 93; b. **10 Jun 1876**; vol **060** cert **29556**. Same man as 1899/1920 **PROVEN** | Fayette / Lee Co., KY | C376 C378 | S341 S347 |
+| **7 Jun 1973** / **24 Oct 1987** | — | FAN: **Shelby Newman** 80 / **Grace B. Newman** 89, Madison — **PROBABLE** Ladona’s parents | Madison Co., KY | C402 C403 | S341 |
+| **25 Jan 1990** | — | FAN: **Ivan Newnam**, s/o Grant × Martha, d. (NUMIDENT; deceased) | Kentucky | C397 | S354 |
 
 **Impossibility flags:** None. Mother ~29 at Dora’s 1871 birth (Mary b. 1842). Dora age 14 at marriage is legal/period-possible (KY) though young; 1880 age 8 corroborates. Two children born before Coy in the 1886–1889 window would have Dora aged 15–18 — possible. No event after 23 Aug 1926 is attributed to her.

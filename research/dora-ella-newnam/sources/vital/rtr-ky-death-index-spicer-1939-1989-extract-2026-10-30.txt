@@ -1,0 +1,323 @@
+Reclaim The Records / Kentucky Death Index 1911-1989
+https://archive.org/details/reclaim-the-records-kentucky-death-index-01911-1989
+Access: transcription only (annual-list TXT). Do not commit full year files.
+Filter: SPICER/variants all years 1939-1989.
+
+1939	SPICER          AMY        F         1       BRTHT                   07/07/1939 001  00251 /1940
+1939	SPICER          ESTHER              40       BRTHT     SIMPSON       07/05/1939 034  16685 /1939
+1939	SPICER          IRENE               12       BRTHT     SIMPSON       07/05/1939 034  16688 /1939
+1939	SPICER          ORLENE              12       BRTHT     SIMPSON       07/05/1939 034  16689 /1939
+1939	SPICER          PATTIE     F        61       TODD                    06/06/1939 033  16311 /1939
+1939	SPICER          RICHARD             50       BRTHT     SIMPSON       07/05/1939 034  16684 /1939
+1939	SPICER          SHERMAN              8       BRTHT     SIMPSON       07/05/1939 034  16690 /1939
+1939	SPICER          THOMAS     C       U/1       FULTN     MORRIS        08/30/1939 040  19951 /1939
+1939	SPICER          WILLIAM    J        81       CARRL                   05/17/1939 024  11940 /1939
+1940	SPICER          ADELINE    M        93       HCKMN                   12/07/1940 003  01214 /1940
+1940	SPICER          ALICE      J        72       GRANT     GRANT         05/26/1940 025  12063 /1940
+1940	SPICER          CALVIN              42       FYETE     BRETHITT      04/12/1940 047  23322 /1940
+1940	SPICER          ELIZABETH           40       JEFFN     JEFFERSON     10/02/1940 049  24004 /1940
+1940	SPICER          FERRELL             88       MCCRK     HICKMAN       05/09/1940 027  13068 /1940
+1940	SPICER          JOSEPH     J        78       FYETE     FAYETTE       06/15/1940 029  14298 /1940
+1940	SPICER          NANCY               36       BRTHT     BREATHITT     10/07/1940 051  25155 /1940
+1940	SPICER          ROBERT     T        56       JEFFN     JEFFERSON     05/07/1940 026  12510 /1940
+1940	SPICER          W          F        73       MCLEN     MCLEAN        01/09/1940 005  02243 /1940
+1941	SPICER          LIZZIE              33       BRTHT     CANOE         01/13/1941 019  09162 /1941
+1941	SPICER          LIZZIE              33       BRTHT                   01/13/1941 001  00337 /1941
+1941	SPICER          RACHEL              41       BRTHT     BREATHITT     03/01/1941 033  16492 /1941
+1942	SPICER          CALLIE     B        63       BRCKN     BRACKEN       03/06/1942 026  12869 /1942
+1942	SPICER JR       FRANK              U/1       HPKNS                   05/31/1942 023  11308 /1942
+1943	SPICER          HELEN      I        43       FULTN     FULTON        04/22/1943 017  08388 /1943
+1943	SPICER          JESSE      C        41       JEFFN     KENTON        01/01/1943 003  01483 /1943
+1943	SPICER          JESSIE               1       BRTHT     BREATHITT     12/07/1943 052  25960 /1943
+1943	SPICER          LAVERNE             16       FYETE     ESTILL        01/10/1943 002  00762 /1943
+1944	SPICER          BRYANT              84       BRTHT     BREATHITT     02/09/1944 008  03523 /1944
+1944	SPICER          CHRISTINE           10       BRTHT     BREATHITT     04/01/1944 018  08546 /1944
+1944	SPICER          EDSEL                6       BRTHT     BREATHITT     07/02/1944 036  17538 /1944
+1944	SPICER          ELI                 37       BRTHT     BREATHITT     12/01/1944 053  26028 /1944
+1944	SPICER          LINDA                3       FYETE     LEXINGTON     05/03/1944 023  11277 /1944
+1944	SPICER          PLEASE              74       BRTHT     BREATHITT     05/21/1944 007  03039 /1946
+1945	SPICER          ALBERT     T        79       CARRL     CARROLL       12/22/1945 001  00401 /1946
+1945	SPICER          BETTY      J       U/1       CLARK     CLARK         09/08/1945 042  20657 /1945
+1945	SPICER          E          V        79       CARRL     CARROLL       04/01/1945 015  07332 /1945
+1945	SPICER          HETTIE              86       FYETE     FAYETTE       06/16/1945 025  12073 /1945
+1945	SPICER          HOWARD              23       ESTIL     ESTILL        05/27/1945 020  09612 /1945
+1945	SPICER          MATTIE              31       FYETE     LEE           02/13/1945 007  03050 /1945
+1945	SPICER          SAM                 78       BRTHT     BREATHITT     03/12/1945 010  04898 /1945
+1945	SPICER          WOODSON    W        65       DAVES     MCLEAN        09/26/1945 038  18561 /1945
+1946	SPICER          ALICE      T         5       PERRY     BREATHITT     02/24/1946 011  05061 /1946
+1946	SPICER          ANNA       M       U/1       WOLFE     WOLFE         12/15/1946 056  27667 /1946
+1946	SPICER          COLLIE     J        62       HCKMN     HICKMAN       12/24/1946 053  26068 /1946
+1946	SPICER          ELLA       M       U/1       WOLFE     WOLFE         12/11/1946 056  27666 /1946
+1946	SPICER          FENDALEW   L       U/1       BRTHT     BREATHITT     10/29/1946 042  20860 /1946
+1947	SPICER          HARRY               71       BRTHT     BREATHITT     03/26/1947 025  12415 /1947
+1947	SPICER          POLLY               77       FYETE     BREATHITT     07/05/1947 031  15156 /1947
+1947	SPICER          SUSIE               80       OWEN      OWEN          04/05/1947 020  09728 /1947
+1948	SPICER          ANNA       W        73       CARRL     CARROLL       06/06/1948 024  11532 /1948
+1948	SPICER          ELIZABETH  T        79       BRTHT     BREATHITT     02/12/1948 009  04487 /1948
+1948	SPICER          FLOENCE    D        74       JESMN     JESSAMINE     08/07/1948 034  16908 /1948
+1948	SPICER          GARY               U/1       JEFFN     PERRY         10/27/1948 042  20999 /1948
+1948	SPICER          JESSEE              50       HARLN     HARLAN        12/14/1948 051  25197 /1948
+1948	SPICER          NELLIE     C        64       JEFFN     JEFFERSON     11/22/1948 052  25810 /1948
+1948	SPICER          RAY        H        72       FULTN     FULTON        11/23/1948 051  25025 /1948
+1948	SPICER          RHODA      L        62       WOLFE     WOLFE         05/09/1948 027  13479 /1948
+1948	SPICER          SALLIE     A        90       ESTIL     ESTILL        06/06/1948 024  11725 /1948
+1949	SPICER          LOUISE     L        44       HCKMN     HICKMAN       07/20/1949 028  13952 /1949
+1949	SPICER          ROBERT     W        46       FYETE     FAYETTE       12/14/1949 050  24805 /1949
+1949	SPICER          SCOTT               72       WHTLY     WHITLEY       07/06/1949 036  17513 /1949
+1949	SPICER          SERILDA             66       BRTHT     BREATHITT     05/20/1949 022  10988 /1949
+1950	SPICER          ANNIE      M        55       ESTIL     ESTILL        04/02/1950 014  06929 /1950
+1950	SPICER          DANIEL     B        80       HNDSN     HENDERSON     05/19/1950 020  09632 /1950
+1950	SPICER          EDDIE      R       U/1       PERRY     PERRY         06/11/1950 027  13034 /1950
+1950	SPICER          EDWARD     T        69       FYETE     FAYETTE       09/25/1950 041  20059 /1950
+1950	SPICER          WILLIAM    E        73       JEFFN     JEFFERSON     11/01/1950 046  22985 /1950
+1951	SPICER          BERNICE    G        74       CRSTN     TODD          01/31/1951 004  01935 /1951
+1951	SPICER          IDA        W        81       CARRL     CARROLL       10/16/1951 040  19664 /1951
+1951	SPICER          JESSE      W       U/1       FYETE     BREATHITT     10/17/1951 040  19896 /1951
+1951	SPICER          WALTER              39       BRTHT     BREATHITT     12/04/1951 048  23956 /1951
+1952	SPICER          HANEY               77       BRTHT     BREATHITT     11/27/1952 050  24936 /1952
+1952	SPICER          MARTHA              67       FYETE     BREATHITT     05/11/1952 019  09327 /1952
+1952	SPICER          ONIE                77       MCLEN     MCLEAN        10/30/1952 049  24279 /1952
+1952	SPICER          VADA       M        24       LEE       LEE           12/20/1952 053  26388 /1952
+1953	SPICER          EMLEY      J        66       POWEL     POWELL        07/28/1953 040  19531 /1953
+1953	SPICER          FANNIE              68       CMPBL     CAMPBELL      04/30/1953 019  09387 /1953
+1953	SPICER          GREENBERRY          72       CLARK     CLARK         04/11/1953 015  07288 /1953
+1953	SPICER          HATTIE     K        62       FYETE     FAYETTE       01/13/1953 001  00448 /1953
+1953	SPICER          MARY       L       U/1       BRTHT     BREATHITT     03/19/1953 009  04436 /1953
+1954	SPICER          GEORGE     1       U/1       PERRY     PERRY         04/24/1954 016  07953 /1954
+1954	SPICER          JOHN       W        43       BRTHT     BREATHITT     12/18/1954 053  26420 /1954
+1954	SPICER          MARGARET            57       PERRY     PERRY         04/01/1954 016  07955 /1954
+1954	SPICER          NANCY      C        87       FYETE     FAYETTE       02/05/1954 005  02242 /1954
+1954	SPICER          SARAH               74       PERRY     PERRY         03/04/1954 016  07944 /1954
+1954	SPICER JR       DAVID              U/1       FYETE     WOLFE         09/15/1954 035  17390 /1954
+1955	SPICER          AMY        S        80       MCLEN     MCLEAN        12/27/1955 054  26971 /1955
+1955	SPICER          CAREY      A        77       FYETE     FAYETTE       06/30/1955 027  13389 /1955
+1955	SPICER          SELDON              65       BRTHT     BREATHITT     10/10/1955 044  21697 /1955
+1956	SPICER          ANGIE               79       MCCRK     MCCRACKEN     03/17/1956 012  05774 /1956
+1956	SPICER          ESTELL              57       BRTHT     BREATHITT     02/07/1956 004  01941 /1956
+1956	SPICER          SYLVIA              37       KENTN     CAMPBELL      04/12/1956 016  07853 /1956
+1957	SPICER          ALBERT     E        64       KENTN     KENTON        10/29/1957 049  24340 /1957
+1957	SPICER          FRED       M        85       HCKMN     HICKMAN       12/01/1957 053  26482 /1957
+1957	SPICER          JOSEPH     A        76       HPKNS     HOPKINS       06/11/1957 029  14405 /1957
+1957	SPICER          RAYMOND              7       FYETE     PERRY         10/16/1957 047  23117 /1957
+1957	SPICER          SHADE               76       BRTHT     BREATHITT     05/23/1957 023  11297 /1957
+1957	SPICER          WARREN     E        66       FULTN     HICKMAN       03/01/1957 010  04692 /1957
+1958	SPICER          JAMES      A        60       CMPBL     CAMPBELL      02/24/1958 010  04532 /1958
+1958	SPICER          JENNIE              93       CMPBL     CAMPBELL      05/04/1958 020  09945 /1958
+1959	SPICER          BOBBY      G        21       ESTIL     ESTILL        03/27/1959 015  07003 /1959
+1959	SPICER          CHARLIE             55       BRTHT     BREATHITT     12/20/1959 056  27559 /1959
+1959	SPICER          CLIFFORD            21       BRTHT     BREATHITT     08/19/1959 046  22877 /1959
+1959	SPICER          GREEN               50       CMPBL     CAMPBELL      09/17/1959 037  18470 /1959
+1959	SPICER          HARLAN              51       BRTHT     BREATHITT     02/06/1959 004  01891 /1959
+1959	SPICER          HENRY      C        75       OHIO      MCLEAN        05/13/1959 022  10876 /1959
+1959	SPICER          LUKE                71       JEFFN     JEFFERSON     01/29/1959 006  02593 /1959
+1959	SPICER          NANNIE     E        73       OHIO      DAVIESS       12/12/1959 055  27092 /1959
+1959	SPICER          PHEOBE     J        87       MCLEN     MCLEAN        11/18/1959 049  24374 /1959
+1959	SPICER          SHIRLEY    A        13       JHNSN     MORGAN        04/14/1959 017  08021 /1959
+1959	SPICER          SUSAN               87       WDFRD     WOODFORD      12/30/1959 058  28588 /1959
+1959	SPICER          SUSIE      F        81       HPKNS     HOPKINS       02/20/1959 015  07452 /1959
+1960	SPICER          ALEX                76       BRTHT     BREATHITT     11/18/1960 057  28252 /1960
+1960	SPICER          CANDACY             94       BRTHT     BREATHITT     12/27/1960 057  28253 /1960
+1960	SPICER          ELIZA      J        60       SHLBY     SHELBY        02/28/1960 014  06907 /1960
+1960	SPICER          ELIZABETH           78       WHTLY     WHITLEY       04/21/1960 019  09494 /1960
+1960	SPICER          JANE                59       PERRY     BREATHITT     07/19/1960 037  18300 /1960
+1960	SPICER          KATHERINE  B        67       BRTHT     BR            01/25/1960 001  00128 /1960
+1960	SPICER          ROSE       A        83       BRTHT     BREATHITT     09/19/1960 038  18843 /1960
+1960	SPICER          SARAH      A        75       HPKNS     MUHLENBERG    07/03/1960 030  14951 /1960
+1961	SPICER          CALLIE              75       LEE       LEE           11/05/1961 050  24706 /1961
+1961	SPICER          ELIZABETH           84       WDFRD     WOODFORD      04/03/1961 018  08884 /1961
+1961	SPICER          IDA        M        29       FRNKL     BREATHITT     12/31/1961 053  26283 /1961
+1961	SPICER          JENCE               98       HCKMN     HICKMAN       11/21/1961 054  26560 /1961
+1961	SPICER          JESSE      J        70       PIKE      PIKE          06/23/1961 027  13345 /1961
+1961	SPICER          POLLY      C        64       BRTHT     BREATHITT     11/20/1961 052  25704 /1961
+1961	SPICER          ROBERT     L        74       FYETE     FAYETTE       12/09/1961 053  26242 /1961
+1962	SPICER          CARLEE     E        15       BRTHT     BREATHITT     07/25/1962 035  17172 /1962
+1962	SPICER          ELIZA               81       JEFFN     BREATHITT     06/26/1962 027  13267 /1962
+1962	SPICER          FOYSTER             60       FYETE     ESTILL        01/02/1962 006  02530 /1962
+1962	SPICER          GARFIELD            80       LEE       LEE           02/20/1962 008  03723 /1962
+1962	SPICER          JAMES      I        89       CRSTN     LIVINGSTON    07/01/1962 030  14955 /1962
+1962	SPICER          JOSEPHINE  R        40       ESTIL     ESTILL        03/01/1962 011  05052 /1962
+1963	SPICER          BENJAMN             85       WOLFE     WOLFE         07/12/1963 037  18316 /1963
+1963	SPICER          CALLIE     B        70       PERRY     BREATHITT     01/18/1963 004  01690 /1963
+1963	SPICER          DELLA      B        49       FYETE     FAYETTE       02/04/1963 006  02521 /1963
+1963	SPICER          GEORGE              50       JEFFN     FAYETTE       10/17/1963 048  23923 /1963
+1963	SPICER          LENA       R        71       BURBN     BOURBON       11/19/1963 051  25351 /1963
+1963	SPICER          LEONARD             69       ESTIL     ESTILL        03/25/1963 019  09073 /1963
+1963	SPICER          NETTIE     E        74       LVGST     LIVINGSTON    11/25/1963 063  31047 /1963
+1963	SPICER          SALLY      A        89       BRTHT     BREATHITT     03/09/1963 010  04940 /1963
+1964	SPICER          ADDIE               69       BRTHT     BREATHITT     04/19/1964 015  07169 /1964
+1964	SPICER          BELLE      M        83       PIKE      PIKE          12/08/1964 061  30105 /1964
+1964	SPICER          BERNADN            U/1       JEFFN     INDIANA       04/30/1964 022  10985 /1964
+1964	SPICER          EMMA                71       CLARK     BREATHITT     02/22/1964 010  04878 /1964
+1964	SPICER          ILIE       B        83       MLNBG     MUHLENBERG    04/21/1964 018  08960 /1964
+1964	SPICER          JAMES               81       CMPBL     CAMPBELL      04/03/1964 015  07229 /1964
+1964	SPICER          JOHNNY              21       BRTHT     BREATHITT     04/07/1964 040  19629 /1964
+1964	SPICER          LELIA      M        61       MCLEN     MCLEAN        01/09/1964 003  01467 /1964
+1964	SPICER          LULA                73       BRTHT     BREATHITT     11/09/1964 054  26961 /1964
+1964	SPICER          PRICE               83       BRTHT     BREATHITT     12/04/1964 054  26959 /1964
+1964	SPICER          SUDA       J        84       JEFFN     JEFFERSON     09/07/1964 042  20656 /1964
+1964	SPICER          WILLIAM    N        55       MLNBG     MUHLENBERG    01/07/1964 004  01581 /1964
+1965	SPICER          ELIZBTH    S        83       JEFFN     JEFFERSON     07/23/1965 032  15698 /1965
+1965	SPICER          LELA                76       FYETE     ESTILL        08/27/1965 035  17421 /1965
+1965	SPICER          MILDRED    I        92       LVGST     LIVINGSTON    09/14/1965 043  21057 /1965
+1965	SPICER          PHOEBA     C        89       HPKNS     HOPKINS       12/31/1965 060  29960 /1965
+1965	SPICER          THURMAN    W        61       MCLEN     MCLEAN        10/20/1965 048  23724 /1965
+1965	SPICER          WILLIAM    M        56       JEFFN     JEFFERSON     12/27/1965 057  28459 /1965
+1966	SPICER          CHESTER    A        68       ESTIL     ESTILL        03/31/1966 015  07480 /1966
+1966	SPICER          MANDY      W        69       ESTIL     ESTILL        05/21/1966 021  10131 /1966
+1966	SPICER          MAUDE               61       JCKSN     JACKSON       01/23/1966 006  02752 /1966
+1966	SPICER          ROBERT              83       BOYLE     LEE           11/11/1966 056  27808 /1966
+1966	SPICER          SUSAN      J        96       ESTIL     ESTILL        07/12/1966 031  15394 /1966
+1966	SPICER          VINA                80       CMPBL     OHIO          07/07/1966 031  15066 /1966
+1966	SPICER          WILLIAM    R        75       FYETE     LEE           10/11/1966 047  23172 /1966
+1967	SPICER          BELLE               80       BRTHT     BREATHITT     12/26/1967 062  30623 /1967
+1967	SPICER          JOHN                71       BRTHT     BREATHITT     08/16/1967 036  17726 /1967
+1968	SPICER          CECIL               44       FYETE     JESSAMINE     10/15/1968 048  23950 /1968
+1968	SPICER          EULAH      M        66       CLARK     CLARK         10/18/1968 048  23771 /1968
+1968	SPICER          EZEKIAL             78       ESTIL     ESTILL        03/25/1968 012  05523 /1968
+1968	SPICER          LEWIS               69       ESTIL     ESTILL        07/18/1968 033  16103 /1968
+1968	SPICER          MURRAY     P        83       CRSTN     CHRISTIAN     07/23/1968 037  18427 /1968
+1968	SPICER          NANNIE     W        80       ESTIL     ESTILL        02/05/1968 006  02802 /1968
+1968	SPICER          NETTIE     O        85       FYETE     FAYETTE       12/19/1968 063  31294 /1968
+1968	SPICER          PEARL               96       JEFFN     CARROLL       06/01/1968 034  16850 /1968
+1968	SPICER          SAMUEL             102       BRTHT     BREATHITT     01/08/1968 005  02407 /1968
+1968	SPICER          WILLIAM             83       FYETE     FAYETTE       06/14/1968 028  13502 /1968
+1969	SPICER          ANDERSN             83       WOLFE     WOLFE         03/03/1969 021  10323 /1969
+1969	SPICER          CALLIE     S        69       BRTHT     BREATHITT     05/08/1969 043  21062 /1969
+1969	SPICER          HARLAN     S         4       JEFFN     INDIANA       10/10/1969 050  24612 /1969
+1969	SPICER          JANE                46       CMPBL     CAMPBELL      11/17/1969 053  26303 /1969
+1969	SPICER          LOUISE              67       PERRY     PERRY         11/21/1969 066  32719 /1969
+1969	SPICER          MICHAEL    L        18       JEFFN     JEFFERSON     07/06/1969 034  16997 /1969
+1969	SPICER          RAY                 67       HCKMN     HICKMAN       03/29/1969 018  08520 /1969
+1969	SPICER          THOMAS     W        94       BURBN     BOURBON       09/12/1969 042  20975 /1969
+1969	SPICER          TILDA               98       BRTHT     BREATHITT     07/19/1969 032  15617 /1969
+1969	SPICER          VICKI      R         7       FYETE     FAYETTE       02/28/1969 011  05304 /1969
+1970	SPICER          ABE                 53       FYETE     BREATHITT     02/19/1970 006  02953 /1970
+1970	SPICER          DELBERT             58       WHTLY     BREATHITT     05/24/1970 032  15775 /1970
+1970	SPICER          ERNEST     G        66       HPKNS     MUHLENBERG    02/12/1970 007  03397 /1970
+1970	SPICER          JAMES      R        57       KENTN     KENTON        10/21/1970 051  25490 /1970
+1970	SPICER          RICHARD    M        27       HARDN     HARDIN        04/29/1970 024  11639 /1970
+1970	SPICER          WALKER              57       FYETE     FAYETTE       07/22/1970 043  21489 /1970
+1971	SPICER          CORA       W        70       PERRY     PERRY         03/08/1971 015  07004 /1971
+1971	SPICER          DORA       H        85       ESTIL     ESTILL        06/03/1971 028  13683 /1971
+1971	SPICER          HENRY               76       BRTHT     BREATHITT     02/12/1971 005  02317 /1971
+1971	SPICER          INFANT     1       U/1       FYETE     BREATHITT     12/18/1971 065  32214 /1971
+1971	SPICER          JOHN       O        83       LVGST     LIVINGSTON    10/24/1971 058  28532 /1971
+1971	SPICER          LETHA               74       ESTIL     BREATHITT     03/25/1971 044  21770 /1971
+1971	SPICER          WHICK               86       BRTHT     BREATHITT     06/18/1971 043  21393 /1971
+1972	SPICER          MERDIE              64       BRTHT     BREATHITT     03/25/1972 017  08385 /1972
+1972	SPICER          WILLIAM             43       BRTHT     BREATHITT     09/02/1972 044  21776 /1972
+1972	SPICER          WILSON              83       BURBN     FAYETTE       07/17/1972 033  16364 /1972
+1973	SPICER          CLYDE               12       PERRY     PERRY         03/11/1973 016  07581 /1973
+1973	SPICER          DENISE     R         3       JEFFN     INDIANA       03/28/1973 013  06398 /1973
+1973	SPICER          ELIAS               93       FYETE     LEE           06/21/1973 034  16883 /1973
+1973	SPICER          FELIX               86       BRTHT     BREATHITT     01/24/1973 001  00157 /1973
+1973	SPICER          GEORGE              72       MADSN     ESTILL        09/10/1973 054  26666 /1973
+1973	SPICER          JAMES      W        89       ESTIL     MADISON       10/30/1973 062  30574 /1973
+1973	SPICER          JAMES               21       HARSN     HARRISON      02/18/1973 007  03076 /1973
+1973	SPICER          JOANNA     W        52       FYETE     LEE           05/04/1973 023  11124 /1973
+1973	SPICER          JOHN                55       FYETE     ESTILL        03/10/1973 012  05563 /1973
+1973	SPICER          JOHN       R       U/1       CLARK     CLARK         08/01/1973 039  19489 /1973
+1973	SPICER          MICHELL    M       U/1       JEFFN     INDIANA       07/22/1973 042  20624 /1973
+1973	SPICER          SAMUEL     C        53       FYETE     ESTILL        05/28/1973 029  14135 /1973
+1974	SPICER          ERNEST              86       PERRY     PERRY         07/13/1974 052  25747 /1974
+1974	SPICER          GEORGE              99       PERRY     BREATHITT     01/05/1974 004  01695 /1974
+1974	SPICER          HENRIETTA  E        70       CMPBL     CAMPBELL      09/19/1974 048  23517 /1974
+1974	SPICER          JASON               72       LAURL     JACKSON       02/10/1974 014  06557 /1974
+1974	SPICER          LOLA       M        62       LTCHR     LETCHER       06/01/1974 040  19935 /1974
+1974	SPICER          NANNIE     L        75       FYETE     BREATHITT     10/18/1974 054  26711 /1974
+1974	SPICER          NELLIE     M        61       FYETE     FAYETTE       06/08/1974 028  13563 /1974
+1974	SPICER          ZORAH               37       BELL      BELL          04/15/1974 016  07538 /1974
+1975	SPICER          ARCH       B        85       ESTIL     ESTILL        07/02/1975 033  16116 /1975
+1975	SPICER          CALLIE     R        74       BRTHT     BREATHITT     02/15/1975 005  02250 /1975
+1975	SPICER          CHARLIE             70       WHTLY     WHITLEY       01/15/1975 005  02019 /1975
+1975	SPICER          DONNA      Y       402       FYETE     BREATHITT     09/12/1975 044  21706 /1975
+1975	SPICER          ERVIN      F        68       CMPBL     OHIO          01/01/1975 001  00263 /1975
+1975	SPICER          FLOYD      W        56       BRTHT     BREATHITT     05/22/1975 022  10664 /1975
+1975	SPICER          GRANVILLE           82       JEFFN     INDIANA       09/25/1975 050  24812 /1975
+1975	SPICER          GROVER     C        86       BOYD      BOYD          03/08/1975 010  04932 /1975
+1975	SPICER          MARVIN     L        16       LAURL     JACKSON       05/08/1975 030  14939 /1975
+1975	SPICER          NANCY      T        73       ESTIL     ESTILL        05/01/1975 023  11024 /1975
+1975	SPICER          PAUL                53       JEFFN     INDIANA       05/22/1975 025  12155 /1975
+1975	SPICER          TERAH      S        67       OWEN      OWEN          11/07/1975 057  28123 /1975
+1975	SPICER          VERGIN     A        77       MCCRK     MCCRACKEN     05/04/1975 026  12527 /1975
+1976	SPICER          GENEVA     G        49       CLARK     CLARK         01/01/1976 001  00292 /1976
+1976	SPICER          GREENBERRY          77       PERRY     PERRY         06/13/1976 030  14859 /1976
+1976	SPICER          LESTER     G        18       BRTHT     BREATHITT     03/27/1976 009  04390 /1976
+1976	SPICER          WILLIAM    M        77       FYETE     FAYETTE       01/22/1976 005  02379 /1976
+1977	SPICER          CLARA               90       JEFFN     JEFFERSON     10/12/1977 066  32659 /1977
+1977	SPICER          ELLEN      D        83       FYETE     FAYETTE       11/26/1977 060  29622 /1977
+1977	SPICER          LLOYD      C        65       FYETE     PERRY         11/16/1977 054  26995 /1977
+1977	SPICER          LUTHER              54       BRTHT     BREATHITT     01/20/1977 005  02089 /1977
+1977	SPICER          MORRIS     W        51       HCKMN     HICKMAN       04/07/1977 017  08239 /1977
+1977	SPICER          RANDALL    G        14       FYETE     ESTILL        05/03/1977 021  10372 /1977
+1977	SPICER          SILAS               27       JEFFN     INDIANA       04/23/1977 022  10979 /1977
+1977	SPICER          TALBERT             60       BRTHT     BREATHITT     08/31/1977 067  33466 /1977
+1978	SPICER          DANIEL     B        38       BRTHT     BREATHITT     04/08/1978 022  10731 /1978
+1978	SPICER          JAMES      C        51       PLSKI     PULASKI       09/20/1978 047  23296 /1978
+1978	SPICER          LILLIAN             86       JEFFN     CARROLL       03/06/1978 013  06332 /1978
+1978	SPICER          LILLIE              73       BRTHT     BREATHITT     05/10/1978 027  13265 /1978
+1978	SPICER          MITCHELL   E        40       PERRY     BREATHITT     12/23/1978 067  33201 /1978
+1978	SPICER          OBIE                64       LTCHR     LETCHER       06/20/1978 031  15057 /1978
+1978	SPICER          RONALD             401       CMPBL     CAMPBELL      06/08/1978 032  15986 /1978
+1978	SPICER          WILSON              54       JCKSN     JACKSON       07/14/1978 034  16892 /1978
+1979	SPICER          LUCY                47       JEFFN     INDIANA       05/12/1979 028  13573 /1979
+1979	SPICER          WILLIAM    C        71       JEFFN     JEFFERSON     02/20/1979 007  03358 /1979
+1980	SPICER          ANNA       F        88       BOYD      BOYD          05/17/1980 026  12984 /1980
+1980	SPICER          BRUCE               58       JEFFN     JEFFERSON     05/30/1980 029  14149 /1980
+1980	SPICER          CASSIE              91       FYETE     MADISON       01/18/1980 001  00436 /1980
+1980	SPICER          CORA                91       KENTN     BREATHITT     05/11/1980 025  12088 /1980
+1980	SPICER          ELBERT              84       FYETE     BREATHITT     08/21/1980 067  33477 /1980
+1980	SPICER          IMA        J        53       MCCRK     MCCRACKEN     07/31/1980 041  20325 /1980
+1980	SPICER          NETTIE              83       FYETE     FAYETTE       02/09/1980 011  05136 /1980
+1980	SPICER          PAUL       C        93       NELSN     NELSON        06/29/1980 031  15139 /1980
+1980	SPICER          PAUL                56       KENTN     KENTON        12/23/1980 066  32685 /1980
+1980	SPICER          WILLIAM    L        62       FYETE     JEFFERSON     08/29/1980 044  21542 /1980
+1981	SPICER          CHARLES             49       ESTIL     ESTILL        11/02/1981 054  26606 /1981
+1981	SPICER          DAN                 85       PERRY     BREATHITT     06/02/1981 031  15362 /1981
+1981	SPICER          ELBERT     H        67       CMPBL     CAMPBELL      07/16/1981 038  18525 /1981
+1981	SPICER          FLOYD               81       PERRY     BREATHITT     01/07/1981 015  07311 /1981
+1981	SPICER          JACK                83       PERRY     PERRY         03/09/1981 015  07303 /1981
+1981	SPICER          JOHNNY     M        37       BRTHT     BREATHITT     10/09/1981 048  23748 /1981
+1981	SPICER          OWEN                68       FYETE     ESTILL        06/26/1981 033  16218 /1981
+1981	SPICER          ROBERT     V        31       FYETE     BOONE         04/12/1981 022  10968 /1981
+1981	SPICER          VERNON              62       KENTN     BOONE         12/14/1981 062  30622 /1981
+1982	SPICER          EDWARD     L        75       WOLFE     WOLFE         04/17/1982 020  09659 /1982
+1982	SPICER          MILES               56       PERRY     PERRY         01/22/1982 008  03708 /1982
+1982	SPICER          URITH      C        99       JEFFN     JEFFERSON     09/12/1982 045  22172 /1982
+1983	SPICER          ADDIE      N        67       BRTHT     BREATHITT     05/28/1983 021  10308 /1983
+1983	SPICER          BEN        D        36       FYETE     ESTILL        12/26/1983 065  32494 /1983
+1983	SPICER          ETHEL               63       PERRY     BREATHITT     03/06/1983 014  06988 /1983
+1983	SPICER          LIZZIE     J       101       BRTHT     BREATHITT     01/15/1983 001  00115 /1983
+1983	SPICER          THELMA     G        67       FYETE     FAYETTE       01/04/1983 001  00450 /1983
+1984	SPICER          ELVIRA              72       PERRY     BREATHITT     01/27/1984 014  06886 /1984
+1984	SPICER          GEORGE     W        74       JEFFN     JEFFERSON     11/22/1984 061  30196 /1984
+1984	SPICER          LEVI                82       PERRY     PERRY         09/02/1984 047  23122 /1984
+1984	SPICER          OSCAR               69       FYETE     FAYETTE       05/31/1984 028  13508 /1984
+1984	SPICER          SERENA     C        67       BRTHT     BREATHITT     04/04/1984 027  13092 /1984
+1984	SPICER          WILLIE              62       BRTHT     BREATHITT     03/03/1984 010  04607 /1984
+1985	SPICER          BUELL               69       ESTIL     ESTILL        09/25/1985 051  25051 /1985
+1985	SPICER          DORSEY              63       BRTHT     BREATHITT     12/14/1985 066  32797 /1985
+1985	SPICER          ERVINE              72       OWSLY     BREATHITT     09/15/1985 049  24190 /1985
+1985	SPICER          FUTHA               86       KENTN     KENTON        05/30/1985 031  15310 /1985
+1985	SPICER          HELEN      M        58       ESTIL     ESTILL        10/08/1985 051  25053 /1985
+1985	SPICER          MARY       E        75       ESTIL     ESTILL        03/12/1985 012  05561 /1985
+1985	SPICER          OLA        S        85       CMPBL     BREATHITT     02/27/1985 011  05320 /1985
+1985	SPICER          WINFRED             69       FYETE     LEE           03/09/1985 012  05871 /1985
+1986	SPICER          DOROTHY    B        67       KENTN     KENTON        03/18/1986 014  06988 /1986
+1986	SPICER          MCKINLEY            83       BRTHT     BREATHITT     01/06/1986 011  05319 /1986
+1986	SPICER          NANNIE              84       PERRY     PERRY         01/09/1986 010  04701 /1986
+1986	SPICER          SAMUEL     J        81       BRTHT     BREATHITT     12/06/1986 061  30319 /1986
+1986	SPICER          VIRGIL              67       FYETE     ESTILL        07/02/1986 035  17066 /1986
+1987	SPICER          ALLENE              93       JEFFN     JEFFERSON     10/24/1987 057  28065 /1987
+1987	SPICER          ANGELINE            76       PERRY     BREATHITT     11/03/1987 068  33984 /1987
+1987	SPICER          MARY       M        65       BRTHT     BREATHITT     09/15/1987 044  21570 /1987
+1987	SPICER          NANNIE              88       FYETE     BREATHITT     10/06/1987 055  27409 /1987
+1987	SPICER          RUTH       E        92       NELSN     NELSON        09/24/1987 053  26335 /1987
+1988	SPICER          ANGELICA   M       207       JEFFN     INDIANA       12/19/1988 069  34415 /1988
+1988	SPICER          ETHEL      I        70       PERRY     BREATHITT     02/09/1988 017  08157 /1988
+1988	SPICER          FRANKLIN   F        80       HPKNS     HOPKINS       04/02/1988 020  09777 /1988
+1988	SPICER          NOAH                85       BELL      HARLAN        06/14/1988 029  14404 /1988
+1988	SPICER          SANTFORD            50       MADSN     ESTILL        10/07/1988 056  27810 /1988
+1988	SPICER          WILLA      J        58       FLOYD     NEVADA        08/12/1988 042  20968 /1988
+1989	SPICER          MURRAY     P        64       DAVES     MUHLENBERG    06/21/1989 030  14618 /1989
+1989	SPICER          OLLIE      M        63       BRTHT     BREATHITT     07/05/1989 034  16952 /1989

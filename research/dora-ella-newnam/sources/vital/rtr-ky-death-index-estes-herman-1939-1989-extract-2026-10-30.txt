@@ -1,0 +1,253 @@
+Reclaim The Records / Kentucky Death Index 1911-1989
+https://archive.org/details/reclaim-the-records-kentucky-death-index-01911-1989
+Access: transcription only (annual-list TXT). Do not commit full year files.
+Filter: ESTES/EASTES Herman + any Estes in Lee-cluster counties.
+
+1952	ESTES           HERMAN     H        68       ESTIL     ESTILL        06/18/1952 024  11784 /1952
+1987	ESTES           HERMAN     L        61       MTCLF     METCALFE      10/06/1987 053  26280 /1987
+1939	ESTES           J          S        66       CLARK                   02/05/1939 007  03411 /1939
+1939	ESTES           JAMES      R        19       MADSN                   01/31/1939 005  02127 /1939
+1939	ESTES           JOHN       W        58       CLARK     CLARK         10/10/1939 049  24400 /1939
+1940	ESTES           ALPHA      F       U/1       ESTIL     ESTILL        12/10/1940 057  28078 /1940
+1940	ESTES           EDWARD     C        36       CLARK     CLARK         07/17/1940 033  16361 /1940
+1940	ESTES           JOHN       M        63       CLARK     CLARK         12/22/1940 056  27956 /1940
+1940	ESTES           LEVI                46       LEE       LEE           06/29/1940 036  17552 /1940
+1940	ESTES           MARY                30       ESTIL                   10/25/1940 047  23208 /1940
+1940	ESTES           RILEY               58       CLARK     CLARK         12/29/1940 056  27968 /1940
+1940	ESTES           SAMUEL     E       U/1       ESTIL                   10/18/1940 047  23213 /1940
+1940	ESTES           WILLIAM             79       LEE       LEE           02/13/1940 010  04877 /1940
+1941	ESTES           ASBERRY             98       LEE       LEE           05/02/1941 027  13106 /1941
+1941	ESTES           ELIZABETH           91       CLARK     CLARK         04/19/1941 019  09426 /1941
+1941	ESTES           ESTELLE             34       FYETE     PULASKI       09/10/1941 044  21651 /1941
+1941	ESTES           FREDERICK  A        79       FYETE     FAYETTE       05/15/1941 025  12050 /1941
+1941	ESTES           JOHN                75       LEE       LEE           01/23/1941 011  05322 /1941
+1941	ESTES           LILLIE              44       MADSN     MADISON       02/27/1941 011  05495 /1941
+1942	ESTES           GEORGE              54       LEE       LEE           11/17/1942 055  27350 /1942
+1942	ESTES           SAMUEL              78       ESTIL                   06/02/1942 027  13201 /1942
+1943	ESTES           CARRY      L        85       MADSN     MADISON       12/28/1943 006  02518 /1944
+1943	ESTES           CLARENCE            66       FYETE     POWELL        03/12/1943 012  05628 /1943
+1943	ESTES           HUBERT              40       ESTIL     ESTILL        02/19/1943 007  03222 /1943
+1943	ESTES           MARIAH     J        85       FYETE     FAYETTE       08/23/1943 036  17502 /1943
+1943	ESTES           WENDEL     T       U/1       ESTIL     ESTILL        12/03/1943 053  26317 /1943
+1944	ESTES           DANIEL              82       ESTIL                   01/15/1944 002  00794 /1944
+1944	ESTES           DEBBY               70       LEE       LEE           11/27/1944 056  27713 /1944
+1944	ESTES           IRENE               69       FYETE     SCOTT         06/11/1944 027  13396 /1944
+1944	ESTES           READA               46       MADSN     MADISON       05/04/1944 025  12467 /1944
+1945	ESTES           JOHN       M        79       FYETE     FAYETTE       04/17/1945 016  07601 /1945
+1945	ESTES           MARTHA     A        44       CLARK     CLARK         12/12/1945 051  25136 /1945
+1945	ESTES           MATTIE     D        83       MADSN     MADISON       10/30/1945 044  21970 /1945
+1945	ESTES           MINNIE              49       FYETE     GARRARD       08/13/1945 034  16568 /1945
+1945	ESTES           RADA                75       MADSN     MADISON       08/06/1945 036  17666 /1945
+1946	ESTES           GREENVILLE          77       ESTIL     ESTILL        08/08/1946 035  17028 /1946
+1946	ESTES           MINNIE              50       CLARK     CLARK         01/20/1946 002  00522 /1946
+1947	ESTES           GENEVA               2       ESTIL     ESTILL        02/07/1947 006  02956 /1947
+1947	ESTES           HOMER               18       CLARK     CLARK         06/09/1947 026  12651 /1947
+1947	ESTES           IDA                 34       CLARK     CLARK         05/11/1947 022  10531 /1947
+1947	ESTES           JAMES      B        51       FYETE     CLARK         09/18/1947 040  19506 /1947
+1948	ESTES           EARL       E       U/1       CLARK     CLARK         08/14/1948 032  15915 /1948
+1948	ESTES           JAMES      A        61       FYETE     FAYETTE       05/05/1948 020  09585 /1948
+1948	ESTES           JASPER              58       MADSN     LEE           08/31/1948 039  19228 /1948
+1948	ESTES           PATRICIA   R       U/1       MADSN     MADISON       02/23/1948 008  03728 /1948
+1948	ESTES           POLLY      L        28       CLARK     CLARK         03/12/1948 015  07150 /1948
+1948	ESTES           STELLA     L       U/1       ESTIL     ESTILL        12/28/1948 050  24831 /1948
+1948	ESTES           WILLIAM    C        89       MADSN     MADISON       06/18/1948 026  12939 /1948
+1949	ESTES           CLAYTON             59       LEE       LEE           05/16/1949 021  10171 /1949
+1949	ESTES           ELISHA     M        66       FYETE     FAYETTE       03/20/1949 010  04590 /1949
+1949	ESTES           ELLEN               72       CLARK     CLARK         12/11/1949 054  26911 /1949
+1949	ESTES           JOYCE      F       U/1       CLARK     CLARK         09/25/1949 041  20162 /1949
+1949	ESTES           RAYMOND    E        38       CLARK     CLARK         06/19/1949 027  13483 /1949
+1950	ESTES           SARAH      J        87       CLARK     POWELL        03/16/1950 019  09162 /1950
+1950	ESTES           STEVE               86       MADSN     MAD           01/10/1950 003  01288 /1950
+1951	ESTES           ELMER      N        68       FYETE     FAYETTE       04/14/1951 014  06813 /1951
+1951	ESTES           FRED       R       U/1       LEE       LEE           03/24/1951 016  07925 /1951
+1951	ESTES           SHELBY     M        58       LEE       LEE           04/04/1951 016  07922 /1951
+1952	ESTES           HERMAN     H        68       ESTIL     ESTILL        06/18/1952 024  11784 /1952
+1952	ESTES           JOHN       M       U/1       FYETE     FAYETTE       12/08/1952 051  25374 /1952
+1952	ESTES           NANNIE              79       CLARK     CLARK         11/30/1952 051  25207 /1952
+1953	ESTES           ALLEN               62       MADSN     MADISON       01/21/1953 022  10856 /1953
+1953	ESTES           CHARLES    O        40       FYETE     CLARK         01/14/1953 001  00416 /1953
+1953	ESTES           FANNIE     S        80       FYETE     FAYETTE       02/15/1953 005  02358 /1953
+1953	ESTES           JESSIE     F        64       FYETE     FAYETTE       01/19/1953 001  00418 /1953
+1954	ESTES           DEBBIE     D        82       ESTIL     ESTILL        12/06/1954 048  23708 /1954
+1954	ESTES           JAMES      G        73       ESTIL     ESTILL        02/04/1954 005  02164 /1954
+1955	ESTES           ESTHER              97       LEE       LEE           03/02/1955 012  05655 /1955
+1955	ESTES           GEORGE     F        56       FYETE     FAYETTE       04/28/1955 018  08989 /1955
+1955	ESTES           JERRY      M       U/1       MADSN     MADISON       03/24/1955 012  05778 /1955
+1956	ESTES           CHARLES    E       U/1       LEE       LEE           01/22/1956 003  01284 /1956
+1956	ESTES           EVERETT             64       CLARK     CLARK         06/01/1956 024  11508 /1956
+1956	ESTES           HIRAM               65       CLARK     CLARK         03/31/1956 010  04578 /1956
+1956	ESTES           LEVI                87       LEE       LEE           04/04/1956 016  07957 /1956
+1956	ESTES           SARAH      J        84       MADSN     ESTILL        09/26/1956 044  21517 /1956
+1956	ESTES           WILLIAM    F        57       FYETE     FAYETTE       02/01/1956 005  02417 /1956
+1957	ESTES           JONAH      J        78       MADSN     ESTILL        12/31/1957 058  28634 /1957
+1957	ESTES           MALLIE     B        79       ESTIL     ESTILL        05/06/1957 019  09412 /1957
+1957	ESTES           MARY       E        68       FYETE     FAYETTE       03/12/1957 010  04503 /1957
+1957	ESTES           REBECCA             90       ESTIL     ESTILL        10/31/1957 046  22977 /1957
+1957	ESTES           ROSCOE              20       ESTIL     ESTILL        09/17/1957 042  20608 /1957
+1957	ESTES           SUSAN      E        72       CLARK     CLARK         06/23/1957 023  11478 /1957
+1958	ESTES           ORRIN      T        68       CLARK     BOURBON       12/08/1958 052  25676 /1958
+1958	ESTES           SAM                 73       CLARK     CLARK         04/17/1958 021  10095 /1958
+1958	ESTES           WILSE               23       ESTIL     ESTILL        10/24/1958 043  21143 /1958
+1959	ESTES           CONNIE     L       U/1       ESTIL     ESTILL        12/09/1959 051  25447 /1959
+1959	ESTES           JULIA      M        23       ESTIL     LEE           12/20/1959 051  25442 /1959
+1959	ESTES           LILLY      A        55       FYETE     CLARK         09/26/1959 042  20998 /1959
+1959	ESTES           MINERVA    B        79       CLARK     CLARK         12/07/1959 051  25283 /1959
+1960	ESTES           BRENDA     S       U/1       FYETE     FAYETTE       05/01/1960 021  10144 /1960
+1960	ESTES           JAMES      C        45       CLARK     CLARK         03/26/1960 016  07501 /1960
+1960	ESTES           RITA       J         5       MADSN     MADISON       10/25/1960 056  27642 /1960
+1961	ESTES           BUFORD              74       FYETE     POWELL        06/27/1961 029  14280 /1961
+1961	ESTES           LILLIE     M        79       ESTIL     ESTILL        07/28/1961 034  16528 /1961
+1961	ESTES           THOMAS     V        92       ESTIL     ESTILL        03/21/1961 015  07029 /1961
+1962	ESTES           JAMES      G        70       CLARK     CLARK         08/08/1962 035  17342 /1962
+1962	ESTES           MARION     L        86       ESTIL     ESTILL        12/20/1962 059  29363 /1962
+1962	ESTES           MARION     L        86       ESTIL     ESTILL        12/20/1962 059  29363 /1962
+1962	ESTES           SARAH      J        59       ESTIL     ESTILL        05/18/1962 026  12626 /1962
+1962	ESTES           WILLIAM    B        70       FYETE     ESTILL        12/09/1962 055  27203 /1962
+1963	ESTES           EDWARD     E        17       LEE       LEE           07/23/1963 036  17653 /1963
+1963	ESTES           JACOB               85       MADSN     ESTILL        04/23/1963 026  12892 /1963
+1963	ESTES           JAMES      E        41       CLARK     CLARK         01/29/1963 005  02368 /1963
+1963	ESTES           OVA        R        41       FYETE     POWELL        01/24/1963 006  02507 /1963
+1963	ESTES           WILLIAM    F        57       FYETE     JESSAMINE     01/01/1963 012  05718 /1963
+1964	ESTES           BERTHA     F        55       ESTIL     BOYD          03/28/1964 020  09962 /1964
+1964	ESTES           EFFIE      C        72       FYETE     FAYETTE       11/06/1964 050  24825 /1964
+1964	ESTES           JAMES      C        81       FYETE     FAYETTE       08/20/1964 036  17535 /1964
+1964	ESTES           VIRGIL              47       LEE       LEE           06/07/1964 028  13639 /1964
+1964	ESTES           VIRGNIA    F        47       CLARK     CLARK         08/05/1964 035  17377 /1964
+1965	ESTES           COLEMAN             67       MADSN     MADISON       11/27/1965 058  28939 /1965
+1965	ESTES           OBIE       E        60       FYETE     FAYETTE       01/14/1965 001  00412 /1965
+1965	ESTES           WILLIAM             51       FYETE     CLARK         01/20/1965 002  00507 /1965
+1966	ESTES           ABBIE               82       FYETE     PULASKI       09/08/1966 042  20728 /1966
+1966	ESTES           ANNA       M        38       FYETE     JEFFERSON     12/14/1966 061  30472 /1966
+1966	ESTES           J SHIRL             65       CLARK     CLARK         10/11/1966 046  22888 /1966
+1966	ESTES           KATHRNE    C        59       FYETE     FAYETTE       06/30/1966 032  15520 /1966
+1966	ESTES           MAGGIE              80       FYETE     SCOTT         04/09/1966 015  07496 /1966
+1966	ESTES           PETE                76       FYETE     CLARK         03/12/1966 010  04880 /1966
+1967	ESTES           LEE        A        53       FYETE     FAYETTE       01/28/1967 001  00457 /1967
+1967	ESTES           ROBERT     M        68       CLARK     CLARK         02/14/1967 005  02223 /1967
+1968	ESTES           JAMES      C        51       FYETE     FAYETTE       11/19/1968 054  26722 /1968
+1969	ESTES           ABRAHAM    P        79       MARON     JACKSON       10/09/1969 051  25481 /1969
+1969	ESTES           CASH       R        67       FYETE     LEE           12/07/1969 059  29426 /1969
+1969	ESTES           EDWARD              56       FYETE     CLARK         12/27/1969 063  31465 /1969
+1969	ESTES           FRANCES    N        37       FYETE     PULASKI       11/22/1969 054  26621 /1969
+1969	ESTES           MATTIE              80       MADSN     MADISON       11/04/1969 066  32635 /1969
+1969	ESTES           RICHARD    B        73       MADSN     MADISON       09/16/1969 046  22847 /1969
+1970	ESTES           ALLIE               86       FYETE     CLARK         09/05/1970 044  21588 /1970
+1970	ESTES           CHARLES    B        82       CLARK     CLARK         10/19/1970 049  24026 /1970
+1970	ESTES           FORREST             78       ESTIL     POWELL        12/13/1970 059  29494 /1970
+1970	ESTES           JOHN                24       FYETE     CLARK         05/01/1970 023  11298 /1970
+1970	ESTES           JOSEPH     A        68       FYETE     FAYETTE       09/09/1970 044  21559 /1970
+1970	ESTES           OSCAR      G        77       MADSN     MADISON       01/18/1970 004  01774 /1970
+1970	ESTES           ROSEBEL             80       ESTIL     ESTILL        07/27/1970 039  19049 /1970
+1971	ESTES           BILLIE     H        73       FYETE     FAYETTE       03/30/1971 017  08144 /1971
+1971	ESTES           HARRISON   S        84       FYETE     FAYETTE       05/06/1971 023  11042 /1971
+1971	ESTES           JAMES      G        53       FYETE     POWELL        12/15/1971 065  32253 /1971
+1971	ESTES           JOHN       H        71       FYETE     MADISON       05/29/1971 028  13748 /1971
+1971	ESTES           JOSEPH     R        70       CLARK     CLARK         12/28/1971 065  32129 /1971
+1971	ESTES           WILLIAM    T        54       ESTIL     FAYETTE       11/08/1971 055  27175 /1971
+1972	ESTES           BANFORD    E        79       ESTIL     ESTILL        06/22/1972 034  16887 /1972
+1972	ESTES           HENRY      M        87       CLARK     CLARK         07/02/1972 034  16746 /1972
+1972	ESTES           RAY        N        55       MADSN     MADISON       04/16/1972 021  10358 /1972
+1972	ESTES           TURNER     C        71       CLARK     ESTILL        09/28/1972 050  24693 /1972
+1973	ESTES           EARIE               76       CLARK     CLARK         09/02/1973 045  22143 /1973
+1973	ESTES           GENTRY              75       FYETE     ESTILL        08/21/1973 040  19751 /1973
+1973	ESTES           LEWIS      S        66       FYETE     CLARK         07/17/1973 034  16805 /1973
+1973	ESTES           RHODA      I        52       ESTIL     ESTILL        01/11/1973 001  00425 /1973
+1974	ESTES           ALLEN               73       CLARK     CLARK         02/18/1974 010  04898 /1974
+1974	ESTES           ALMA       I        48       ESTIL     ESTILL        12/10/1974 064  31673 /1974
+1974	ESTES           IDA                 86       LEE       LEE           04/08/1974 025  12133 /1974
+1974	ESTES           JASON      A       316       FYETE     FAYETTE       11/08/1974 054  26797 /1974
+1974	ESTES           JOHN       M        62       FYETE     FAYETTE       12/10/1974 059  29287 /1974
+1975	ESTES           BESSIE              65       FYETE     FAYETTE       08/20/1975 039  19006 /1975
+1975	ESTES           HEZEKIAH            80       MADSN     MADISON       08/02/1975 041  20354 /1975
+1975	ESTES           JULIUS              48       FYETE     FAYETTE       12/10/1975 059  29158 /1975
+1975	ESTES           MARY       A        79       MADSN     MADISON       12/23/1975 065  32440 /1975
+1975	ESTES           PLEYS               65       FYETE     FAYETTE       01/12/1975 002  00581 /1975
+1975	ESTES           ROBERT     M        52       HARSN     CLARK         10/22/1975 055  27033 /1975
+1975	ESTES           ROLAND              88       LEE       LEE           12/05/1975 061  30384 /1975
+1976	ESTES           CLEMON              75       ESTIL     ESTILL        12/26/1976 062  30584 /1976
+1976	ESTES           CRYSTAL    L       406       FYETE     MADISON       10/29/1976 052  25973 /1976
+1976	ESTES           ELBY                63       FYETE     POWELL        07/24/1976 037  18315 /1976
+1976	ESTES           JAMES      C        59       ESTIL     ESTILL        08/21/1976 037  18253 /1976
+1976	ESTES           MARY       E        46       CLARK     CLARK         03/09/1976 010  04622 /1976
+1977	ESTES           ARMILDA    R        75       ESTIL     ESTILL        03/19/1977 016  07721 /1977
+1977	ESTES           ELLEN               82       LEE       LEE           09/02/1977 046  22819 /1977
+1977	ESTES           GILLEY     A        84       LEE       LEE           08/20/1977 041  20253 /1977
+1977	ESTES           IDA                 82       FYETE     POWELL        11/29/1977 065  32217 /1977
+1977	ESTES           PORA       F        90       CLARK     CLARK         03/07/1977 016  07575 /1977
+1977	ESTES           WALTER     P        73       FYETE     CLARK         10/01/1977 054  26945 /1977
+1978	ESTES           ETHEL      L        60       MADSN     MADISON       01/27/1978 003  01385 /1978
+1978	ESTES           JESSE               83       ESTIL     ESTILL        01/05/1978 001  00397 /1978
+1978	ESTES           LAURA      D        89       FYETE     FAYETTE       09/29/1978 049  24192 /1978
+1978	ESTES           MAGGIE     G        71       CLARK     CLARK         07/05/1978 033  16165 /1978
+1978	ESTES           MANDY      M        70       ESTIL     ESTILL        02/02/1978 005  02451 /1978
+1978	ESTES           MARY       S        71       ESTIL     ESTILL        06/17/1978 028  13610 /1978
+1978	ESTES           ROBERT              92       FYETE     MADISON       09/23/1978 049  24107 /1978
+1979	ESTES           ANNIE      A        91       CLARK     CLARK         03/04/1979 010  04700 /1979
+1979	ESTES           GREENVILLE          79       FYETE     LEE           02/02/1979 005  02491 /1979
+1979	ESTES           MARY       R        71       CLARK     CLARK         12/30/1979 062  30818 /1979
+1979	ESTES           SHELTON    B        58       CLARK     CLARK         01/04/1979 001  00295 /1979
+1980	ESTES           DAMION              58       FYETE     ESTILL        09/07/1980 044  21670 /1980
+1980	ESTES           ELIZABETH  A       401       FYETE     CLARK         10/10/1980 049  24221 /1980
+1980	ESTES           FANNIE     W        63       CLARK     CLARK         05/10/1980 022  10682 /1980
+1980	ESTES           GRACE      S        92       CLARK     POWELL        11/04/1980 054  26615 /1980
+1980	ESTES           HOLLY      L        21       ESTIL     ESTILL        04/19/1980 022  10793 /1980
+1980	ESTES           JAMES               77       FYETE     FAYETTE       06/10/1980 027  13473 /1980
+1980	ESTES           NORRIS              52       FYETE     LEE           09/05/1980 044  21573 /1980
+1981	ESTES           ALBERT     E        50       CMPBL     ESTILL        07/14/1981 032  15997 /1981
+1981	ESTES           ARLIE      C        62       CLARK     POWELL        11/05/1981 053  26478 /1981
+1981	ESTES           CHARLIE    T        49       BURBN     CLARK         06/18/1981 027  13326 /1981
+1981	ESTES           DULUTH     E        45       CLARK     CLARK         01/04/1981 001  00307 /1981
+1981	ESTES           ELISHA     P        87       MADSN     MADISON       02/01/1981 009  04276 /1981
+1981	ESTES           FLOYD               71       FYETE     WOLFE         12/19/1981 064  31751 /1981
+1981	ESTES           JOHN       W        71       LEE       LEE           06/03/1981 030  14988 /1981
+1981	ESTES           KATHLEEN   M        57       FYETE     JESSAMINE     06/15/1981 028  13772 /1981
+1982	ESTES           BERTHA     G        59       FYETE     CLARK         04/10/1982 021  10245 /1982
+1982	ESTES           BUFORD              59       FYETE     POWELL        10/03/1982 053  26175 /1982
+1982	ESTES           HARLAN              91       MADSN     ESTILL        02/04/1982 008  03541 /1982
+1982	ESTES           HARRY      L        64       CLARK     CLARK         10/18/1982 053  26011 /1982
+1982	ESTES           LILLIE     M        92       LEE       LEE           06/13/1982 029  14420 /1982
+1982	ESTES           RANDALL    B        54       FYETE     CLARK         12/29/1982 063  31474 /1982
+1982	ESTES           ROY        S        70       FYETE     POWELL        12/22/1982 063  31396 /1982
+1982	ESTES           TRAVIS              63       ESTIL     ESTILL        07/15/1982 038  18627 /1982
+1983	ESTES           BRADLEY             67       FYETE     ESTILL        07/20/1983 039  19098 /1983
+1983	ESTES           CLEVE               47       FYETE     ESTILL        03/17/1983 017  08013 /1983
+1983	ESTES           ETHEL               81       FYETE     FAYETTE       12/29/1983 066  32512 /1983
+1983	ESTES           HOMER               76       CLARK     CLARK         12/14/1983 060  29791 /1983
+1983	ESTES           JEAN       M        69       FYETE     CLARK         12/13/1983 061  30124 /1983
+1983	ESTES           JOSEPH     D       301       FYETE     ESTILL        09/09/1983 050  24547 /1983
+1983	ESTES           LEMON               75       ESTIL     ESTILL        12/14/1983 060  29901 /1983
+1983	ESTES           PATTY      J       201       FYETE     FAYETTE       11/23/1983 060  29972 /1983
+1984	ESTES           BETSY      W        75       FYETE     FAYETTE       04/16/1984 016  07997 /1984
+1984	ESTES           LOLUS               74       FYETE     MADISON       02/04/1984 006  02600 /1984
+1984	ESTES           LULU                85       FYETE     FAYETTE       09/05/1984 049  24170 /1984
+1985	ESTES           EDGAR      R        64       MADSN     MADISON       09/23/1985 054  26727 /1985
+1985	ESTES           FANNIE     F        74       ESTIL     LEE           09/19/1985 051  25046 /1985
+1985	ESTES           FLORENCE            81       FYETE     LEE           06/08/1985 029  14357 /1985
+1985	ESTES           GRACE      C        87       FYETE     MERCER        09/26/1985 051  25113 /1985
+1985	ESTES           KARA                82       FYETE     FAYETTE       03/18/1985 012  05831 /1985
+1985	ESTES           MAUDE               84       MADSN     ESTILL        07/07/1985 038  18601 /1985
+1986	ESTES           LAURA      S        86       ESTIL     MADISON       07/09/1986 040  19862 /1986
+1986	ESTES           MARIE      M        73       FYETE     FAYETTE       04/30/1986 023  11476 /1986
+1986	ESTES           NERALYN    M        86       CLARK     CLARK         01/21/1986 001  00371 /1986
+1986	ESTES           WILLIAM    C        86       FYETE     LEE           09/16/1986 046  22647 /1986
+1987	ESTES           BESSIE     R        91       MADSN     MADISON       12/20/1987 068  33573 /1987
+1987	ESTES           DANIEL              87       OWSLY     ESTILL        12/01/1987 065  32026 /1987
+1987	ESTES           DELTA      M        89       FYETE     PULASKI       11/09/1987 056  27559 /1987
+1987	ESTES           ETTA                68       FYETE     ESTILL        10/24/1987 055  27437 /1987
+1987	ESTES           JESSIE     L        63       FYETE     MERCER        04/11/1987 018  08654 /1987
+1987	ESTES           LILLIE     G        92       CLARK     CLARK         06/19/1987 033  16290 /1987
+1987	ESTES           LULA       P        91       FYETE     MADISON       12/15/1987 061  30295 /1987
+1987	ESTES           MASCO               75       ESTIL     ESTILL        03/29/1987 017  08376 /1987
+1988	ESTES           BERNICE    A        62       FYETE     ESTILL        03/25/1988 019  09176 /1988
+1988	ESTES           CHERYL     W        26       FYETE     CLARK         06/11/1988 031  15017 /1988
+1988	ESTES           CURLEY              58       FYETE     JESSAMINE     11/18/1988 059  29131 /1988
+1988	ESTES           EDNA                87       ESTIL     ESTILL        02/29/1988 012  05955 /1988
+1988	ESTES           JOHN       L         8       FYETE     ESTILL        07/10/1988 036  17858 /1988
+1988	ESTES           LILLIE     M        89       MADSN     LEE           03/09/1988 016  07858 /1988
+1988	ESTES           VIRGINIA   C        71       BURBN     FAYETTE       10/31/1988 069  34005 /1988
+1989	ESTES           DARVIN     K        57       FYETE     BATH          07/11/1989 035  17400 /1989
+1989	ESTES           DONALD     D        54       FYETE     FAYETTE       05/30/1989 030  14708 /1989
+1989	ESTES           HALEY      M        82       FYETE     ESTILL        04/25/1989 024  11780 /1989
+1989	ESTES           MARGARET   P        77       FYETE     CLARK         01/13/1989 006  02992 /1989
+1989	ESTES           VIRGIL     S        75       MADSN     CLARK         01/29/1989 010  04742 /1989
+1989	ESTES           WILLIE              86       FYETE     ESTILL        04/10/1989 019  09124 /1989

@@ -1,0 +1,29 @@
+Reclaim The Records / Kentucky Death Index 1911-1989
+https://archive.org/details/reclaim-the-records-kentucky-death-index-01911-1989
+Access: transcription only (annual-list TXT). Do not commit full year files.
+Filter: JONES Frankie/Frances (cluster) + PETERS Mary age>=60 Fayette/Lee/Madison/Jackson.
+
+1939	JONES           FANNIE              66       JEFFN     LOU           01/08/1939 004  01622 /1939
+1944	JONES           FRANCIS    E        70       HENRY     HENRY         05/10/1944 028  13729 /1944
+1946	JONES           FANNIE              72       JEFFN     JEFFERSON     11/07/1946 048  23943 /1946
+1949	JONES           FANNIE     L        87       FYETE     FAYETTE       05/01/1949 019  09086 /1949
+1950	JONES           FRANCES    R        51       JEFFN     JEFFERSON     07/01/1950 029  14430 /1950
+1952	JONES           FANNIE     C        83       FYETE     MONTGOMERY    01/15/1952 001  00430 /1952
+1954	JONES           FANNIE     B        58       JEFFN     JEFF          08/18/1954 032  15961 /1954
+1954	JONES           FRANCIS    E        14       MADSN     MADISON       06/11/1954 025  12237 /1954
+1961	JONES           FRANCES             60       JEFFN     JEFF          09/21/1961 039  19203 /1961
+1964	JONES           FANNIE     B        62       JEFFN     JEFFERSON     02/19/1964 013  06091 /1964
+1964	JONES           FRANCES    B        67       JEFFN     JEFFERSON     12/04/1964 056  27969 /1964
+1964	JONES           FRANCES    H        86       JEFFN     JEFFERSON     01/18/1964 003  01156 /1964
+1965	JONES           FRANKIE    J       U/1       JEFFN     JEFFERSON     01/31/1965 006  02701 /1965
+1967	JONES           FANNIE              74       JEFFN     JEFFERSON     10/13/1967 049  24285 /1967
+1972	JONES           FANNIE     E        68       MADSN     MADISON       09/21/1972 053  26410 /1972
+1972	JONES           FANNIE     E        84       JEFFN     JEFFERSON     10/09/1972 052  25910 /1972
+1972	JONES           FRANCES             44       JEFFN     JEFF          01/04/1972 003  01048 /1972
+1975	JONES           FRANCIS    A        67       JEFFN     JEFFERSON     10/04/1975 060  29612 /1975
+1976	JONES           FRANCES    L        86       JEFFN     JEFFERSON     09/10/1976 044  21714 /1976
+1977	JONES           FANNIE     C        76       FYETE     FAYETTE       01/05/1977 002  00518 /1977
+1987	JONES           FANNIE     F        92       JEFFN     JEFFERSON     10/17/1987 052  25776 /1987
+1988	JONES           FANNIE     L        72       JEFFN     JEFFERSON     11/06/1988 060  29676 /1988
+1988	JONES           FANNIE     M        91       FYETE     FAYETTE       06/15/1988 031  15111 /1988
+1942	PETERS          MARY                69       FYETE     FAYETTE       03/05/1942 012  05960 /1942

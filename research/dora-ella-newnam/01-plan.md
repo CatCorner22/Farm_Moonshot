@@ -119,6 +119,32 @@ Exact strings logged **L380–L397**.
 
 Exact strings logged **L398–L411**.
 
+## Name-variant storm (pass 65, `search_variants.py`)
+
+**Samuel Newnam probate** — Samuel × Newnam/newman/newnarn/newan/newnom/Newmann + will / administration / court orders. Catalog IDs: **127913**, **127891**, **127869**, **964964**. Soundex **N550**.
+
+**Grant Newnam** — Grant, grent × Newnam/newman. Also **Martha Brandenburg**, **Lucy Arvin**, **Yellow Rock**, **Berea**, **10 Jun 1876**. KDI years **1951–1955** (nil) then **1939–1989** (hit **1970**).
+
+**Fred / Luther / Kate / William (Luther’s line)** — Fred, Luther, Kate, Katherine, Katie × Newnam/newman; **Sternberg**, **Irvine**, **Estill**, **Proctor**. William × **15 Apr 1867 / 10 Dec 1905**.
+
+**John H. / McCoy / Frank WWI and deaths** — John, McCoy, Luther, Frank × Newnam + draft / KDI Madison / Owsley. FS **1146342**; M1509 **KY45 / KY24 / KY74**.
+
+**Dora Stone 1926 press** — Dora/Posa/Dosa/Rosa × Stone/Newnam; *Yell County Journal*; *Danville Democrat*.
+
+Exact strings logged **L412–L426**.
+
+## Name-variant storm (pass 65 continued / B057, `search_variants.py`)
+
+**Callie Spicer** — Callie, Cally, Calie, Caroline × Spicer (Soundex **S126**) / Newnam (N550). Also **Daniel Newnam**, **Sarah Veneable**, **Lower Buffalo**, **Riverview**. Rejects: Callie B of Bracken 1942; Callie B Perry/Breathitt 1963; Callie S Breathitt 1969; Callie R Breathitt 1975.
+
+**Robert Spicer** — Robert × Spicer. KDI **BOYLE / LEE** 11 Nov 1966 age 83. Lee 1966 year file expected nil (death county Boyle).
+
+**Daniel Newnam** — Daniel, paniel, raniel × Newnam/newman/newnarn. Callie’s 1961 father; Everett-parentage test (**B072**). Do not merge with Elias.
+
+**Herman Estes** — Herman × Estes/Eastes. KY hits: Herman H Estill 1952 (dead before 1957 notice); Herman L Metcalfe 1987. Brasstown N.C. residual.
+
+Exact strings logged **L427–L440**.
+
 ## Agent SDK / GitHub channel
 
 Inspected 30 Oct 2026 (**L351**): this repository has **no** `package.json`, **no** `@grok/agent-sdk`, **no** `bot/` directory. GitHub channel `bot/channels/github.ts` is **n/a** and was **not** authored. Project subagent: `.cursor/agents/dora-genealogy-detective.md`.

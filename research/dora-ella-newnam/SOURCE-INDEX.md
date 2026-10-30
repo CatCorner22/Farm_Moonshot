@@ -1,7 +1,7 @@
 # Source index — Dora Ella Newnam Stone
 
 Working inventory of **saved local copies** in `sources/` plus the authored Word biography.  
-Full file list (**500** files after pass 64): [`sources/SOURCE-INVENTORY.tsv`](sources/SOURCE-INVENTORY.tsv) (path, bytes, SHA-256 prefix).
+Full file list (rebuilt after pass 65): [`sources/SOURCE-INVENTORY.tsv`](sources/SOURCE-INVENTORY.tsv) (path, bytes, SHA-256 prefix).
 
 **Access labels:** `image seen` · `index only` · `transcription only` · `catalog only` · `OCR text` · `not yet examined`.
 
@@ -83,6 +83,35 @@ Captured this session: **30 Oct 2026**. Earlier plates remain in `sources/census
 | S337 | `sources/catalog/kygenweb-estill.html` · `sources/vital/estill-deaths-1945.html` · `estill-deaths-1951.html` … `1955.html` · `sources/marriages/estill-grooms.html` · `sources/military/estill-ww1.html` · `estill-ww1-gt.html` · `owsley-ww1-gt.html` | 2026-10-30 | KYGenWeb / Genealogy Trails Estill + Owsley | https://kygenweb.net/estill/ | Deaths 1945 / 1951–55 **nil** Newnam/Newman/Grant/Fred. Grooms-to-1850: Nancy Newman × James Sparks 9 Dec 1825. Estill WWI empty; GT Estill/Owsley WWI **404** | **C365 C366 C367** | transcription / catalog |
 | S338 | `sources/catalog/ldsgenealogy-lee-military.html` · `fhl-180734-wwi-lee.html` | 2026-10-30 | LDSGenealogy Lee military | https://ldsgenealogy.com/KY/Lee-County-Military-Records.htm | FS **1146342** Lee WWI draft cards. Images unread | **C361** | catalog only |
 | S339 | `sources/press/ia-solr-grant-quoted.json` · `ia-solr-melissa-estes-miller.json` · `ia-solr-lee-court-orders.json` | 2026-10-30 | Internet Archive Solr + LOC CA | https://archive.org/advancedsearch.php · https://www.loc.gov/collections/chronicling-america/ | Quoted Solr **numFound 0** Grant / Melissa Estes Miller / Frank+1853 / Lee court-order title (**C369**). LOC CA Newnam + Samuel + Kentucky **0** pages (**C370**) | **C369 C370** | index only |
+| S340 | `sources/vital/rtr-ky-death-index-newman-1951-1955-extract-2026-10-30.txt` | 2026-10-30 | Reclaim The Records / IA | https://archive.org/details/reclaim-the-records-kentucky-death-index-01911-1989 | NEWMAN/NEWNAM 1951–55 (81 rows). Martha J 18 Feb 1951; **nil Grant** | **C391 C392** | transcription only |
+| S341 | `sources/vital/rtr-ky-death-index-target-givens-1939-1989-extract-2026-10-30.txt` | 2026-10-30 | same | same | Target givens 1939–1989: Grant 1970; Fred L 1961; Kate 1941; Luther 1945; Everett 1939; Shelby 1973; Grace B 1987 | **C376 C386 C383 C389 C390 C402 C403** | transcription only |
+| S342 | `sources/vital/lee-deaths-1941-kate-newnam-extract-2026-10-30.txt` · `lee-deaths-1941.html` | 2026-10-30 | USGenNet Lee deaths 1941 | https://usgennet.org/usa/ky/county/lee/deaths/1941.html | Kate Newnam d. 21 Sep 1941; spouse W. N.; parents Samuel Sternberg × Mahaley Robinson | **C383 C384 C405** | transcription only |
+| S343 | `sources/cemetery/lee-proctor-newnam-extract-2026-10-30.txt` · `lee-proctor-cemetery.html` | 2026-10-30 | USGenNet Proctor Cemetery | https://usgennet.org/usa/ky/county/lee/cemeteries/proctor.html | Fred 1894–1961; Era 1897–1991; Kate 1871–1941; William 15 Apr 1867–10 Dec 1905 | **C385 C387 C388** | transcription only |
+| S344 | `sources/census/lee-1920-heidelberg-grant-extract-2026-10-30.txt` · `lee-1920-heidelberg.html` | 2026-10-30 | USGenNet 1920 Heidelberg | https://usgennet.org/usa/ky/county/lee/census/1920/heidelberg.html | hh 101–106 Grant 42 + Martha Brandenburg + children | **C381** | transcription only |
+| S345 | `sources/marriages/lee-book13-lucy-arvin-1918-extract-2026-10-30.txt` · `lee-marrbook13.html` | 2026-10-30 | USGenNet Lee Book 13 | https://usgennet.org/usa/ky/county/lee/marriage/marrbook13.html | Hiram Arvin × Lucy Newnam 14 Sep 1918; parents Grant × Martha | **C382** | transcription only |
+| S346 | `sources/marriages/lee-book17-roscoe-reece-1923-extract-2026-10-30.txt` · `lee-marrbook17.html` | 2026-10-30 | USGenNet Lee Book 17 | https://usgennet.org/usa/ky/county/lee/marriage/marrbook17.html | Roscoe × Bertha Reece 13 Dec 1923; parents Grant × Martha | **C404** | transcription only |
+| S347 | `sources/vital/sortedbyname-grant-newnam-1970-extract-2026-10-30.txt` · `sortedbyname-newnam-index6.html` | 2026-10-30 | SortedByName | https://sortedbyname.com/letter_n/newnam/index_6.html | GRANT of Lee d. 9 Dec 1970 age 93 Fayette; b. 10 Jun 1876 SSN 407-54-0572; father of Lucy Arvin | **C376 C377 C380** | index only |
+| S348 | `sources/cemetery/fag-grant-newman-173232336-snippet-2026-10-30.txt` | 2026-10-30 | Find A Grave search snippet | https://www.findagrave.com/memorial/173232336 | Grant Newman 1877–1970 Beatty Place — snippet only | **C396** | index only |
+| S349 | `sources/catalog/r011-pass65-workarounds.txt` · `leecounty-court-probate.html` | 2026-10-30 | FS / USGenWeb / KDLA / IA / NARA / Lee clerk | (paths in file) | R011 steps 8–19; images unread | **C398 C401** | catalog only |
+| S350 | `sources/press/ia-solr-dora-stone-1926-pass65.json` · `ia-solr-yell-journal-1926-pass65.json` | 2026-10-30 | Internet Archive Solr | https://archive.org/advancedsearch.php | numFound 0 Dora Stone 1926 / Yell Journal 1926 | **C400** | index only |
+| S351 | `sources/military/nara-catalog-m1509-search.json` · `press/ia-solr-samuel-probate-pass65.json` | 2026-10-30 | NARA catalog / IA Solr | — | NARA SPA unused; Samuel probate Solr junk/0 | **C400 C398** | catalog / index |
+| S353 | `sources/catalog/r011-pass65-workarounds.txt` (USGenWeb note) | 2026-10-30 | USGenWeb Archives Lee | http://files.usgwarchives.net/ky/lee/ | Wills/court timeout; directory “None available” | **C399** | not examined |
+| S354 | `sources/vital/sortedbyname-ivan-newnam-extract-2026-10-30.txt` · `sortedbyname-newnam-index7.html` | 2026-10-30 | SortedByName | https://sortedbyname.com/letter_n/newnam/index_7.html | Ivan b. 16 May 1916 Willow; d. 25 Jan 1990; parents Grant × Martha | **C397** | index only |
+| S355 | `sources/vital/lee-deaths-1941.html` | 2026-10-30 | USGenNet Lee deaths 1941 | https://usgennet.org/usa/ky/county/lee/deaths/1941.html | Full 1941 year-file HTML | **C383** | transcription only |
+| S356 | `sources/cemetery/lee-proctor-cemetery.html` | 2026-10-30 | USGenNet Proctor | https://usgennet.org/usa/ky/county/lee/cemeteries/proctor.html | Full cemetery HTML | **C385** | transcription only |
+| S357 | `sources/census/lee-1920-heidelberg.html` | 2026-10-30 | USGenNet 1920 Heidelberg | https://usgennet.org/usa/ky/county/lee/census/1920/heidelberg.html | Full precinct HTML | **C381** | transcription only |
+| S358 | `sources/vital/sortedbyname-era-fred-newnam-extract-2026-10-30.txt` · `sortedbyname-newnam-index5.html` | 2026-10-30 | SortedByName | https://sortedbyname.com/letter_n/newnam/index_5.html | ERA of Estill d. 11 Aug 1991; FRED × ERA R. REEVES | **C388** | index only |
+| S359 | `sources/vital/lee-deaths-1961.html` | 2026-10-30 | USGenNet Lee deaths 1961 | https://usgennet.org/usa/ky/county/lee/deaths/1961.html | Full 1961 year-file (Callie Spicer + nil Fred in Lee) | **C408 C386** | transcription only |
+| S360 | `sources/vital/estill-deaths-1961.html` | 2026-10-30 | KYGenWeb Estill 1961 | (404 this pass) | Estill 1961 page 404; Fred is KDI-only | **C386** | not examined |
+| S361 | `sources/vital/rtr-ky-death-index-spicer-1939-1989-extract-2026-10-30.txt` | 2026-10-30 | Reclaim The Records / IA | same IA item | All SPICER rows 1939–1989 | **C411–C415** | transcription only |
+| S362 | `sources/vital/rtr-ky-death-index-leeish-newnam-1939-1989-extract-2026-10-30.txt` | 2026-10-30 | same | same | Newman/Newnam death-or-residence Lee-cluster | **C429** | transcription only |
+| S363 | `sources/vital/rtr-ky-death-index-frank-john-full-1939-1989-extract-2026-10-30.txt` | 2026-10-30 | same | same | FRANK*/JOHN* Newman statewide | **C418–C421** | transcription only |
+| S364 | `sources/vital/rtr-ky-death-index-estes-herman-1939-1989-extract-2026-10-30.txt` | 2026-10-30 | same | same | Herman Estes + Lee-cluster Estes | **C422–C424** | transcription only |
+| S365 | `sources/vital/rtr-ky-death-index-frankie-jones-mary-peters-1939-1989-extract-2026-10-30.txt` | 2026-10-30 | same | same | Frankie Jones cluster + Mary Peters Fayette 1942 | **C425 C426** | transcription only |
+| S366 | `sources/vital/rtr-ky-death-index-fan-givens-1939-1989-extract-2026-10-30.txt` | 2026-10-30 | same | same | FAN givens (Grant/Fred/Luther/Everett/Shelby/Grace/etc.) | **C376 C386 C427** | transcription only |
+| S370 | `sources/vital/lee-deaths-1961-callie-spicer-extract-2026-10-30.txt` | 2026-10-30 | USGenNet Lee deaths 1961 | https://usgennet.org/usa/ky/county/lee/deaths/1961.html | Callie Spicer extract: 2 Jan 1886 – 5 Nov 1961; Daniel Newnam × Sarah Veneable | **C408 C409 C430** | transcription only |
+| S371 | `sources/vital/lee-deaths-1966.html` · `lee-deaths-1966-spicer-nil-extract-2026-10-30.txt` | 2026-10-30 | USGenNet Lee deaths 1966 | https://usgennet.org/usa/ky/county/lee/deaths/1966.html | Nil Robert Spicer / Grant / Newnam | **C416** | transcription only |
+| S372 | *(Lee deaths 1970 URL 404)* | 2026-10-30 | USGenNet | https://usgennet.org/usa/ky/county/lee/deaths/1970.html | 404; Grant died Fayette | **C428** | not examined |
 
 ## Word biography provenance
 
@@ -103,7 +132,8 @@ See [`sources/authored/PROVENANCE.md`](sources/authored/PROVENANCE.md). Drive se
 | FS Lee tax books **156057** (1870–75) / **97277** (1879–92) | Browse taxpayer **Newnam / Newman / Samuel P. / Elias / Grant** | **B065** |
 | FS **1146342** Lee WWI draft cards | John H. b. 1899; McCoy b. 1890; Luther b. 1891 | **B069** |
 | KHS Lee probate microform 1873–1945 / KDLA other probate 1873–2004 + order books 1870–1981 | On-site / interlibrary film for Samuel P. | **C374 C375** |
-| Madison Co. deaths / *Berea Citizen* 1951–1955 | Grant Newnam death (not in Lee/Estill year files or Berea Cemetery book) | **B066** |
+| Fayette DC vol **060** cert **29556** | Grant Newnam **9 Dec 1970** certificate image | Index already read (**C376**) |
+| Lee 1961 DC Callie Spicer / Estill 1961 Fred L. Newman | Certificate images | Extracts read (**C408 / C386**) |
 
 ## Variant strings used this session (categories 1–4)
 
@@ -113,4 +143,4 @@ See [`sources/authored/PROVENANCE.md`](sources/authored/PROVENANCE.md). Drive se
 
 **Thomas / T. A. Stone:** Thomas, Tom, T. A., T A × Stone, Store, Stowe (rejects already logged).
 
-Exact strings in `02-log.md` **L343–L352**, **L380–L397**, and **L398–L411**.
+Exact strings in `02-log.md` **L343–L352**, **L380–L397**, **L398–L411**, and **L412–L440**.

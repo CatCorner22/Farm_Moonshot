@@ -1,0 +1,86 @@
+Reclaim The Records / Kentucky Death Index 1951-1955
+Source: https://archive.org/details/reclaim-the-records-kentucky-death-index-01911-1989
+Access: transcription only (statewide annual lists). Extract of NEWMAN/NEWNAM surnames.
+Rows: 81
+
+1951	NEWMAN          ANNA                74       JEFFN     JEFFERSON     08/23/1951 033  16396 /1951
+1951	NEWMAN          ETTA                88       ALLEN     ALLEN         08/29/1951 035  17291 /1951
+1951	NEWMAN          GEORGE     W        76       KENTN     KENTON        08/14/1951 038  18604 /1951
+1951	NEWMAN          GEORGE     M         3       OLDHM     TRIMBLE       10/05/1951 047  23407 /1951
+1951	NEWMAN          HARRY               51       JEFFN     JEFFERSON     02/09/1951 006  02660 /1951
+1951	NEWMAN          HARRY      L       U/1       JEFFN     JEFFERSON     03/23/1951 015  07361 /1951
+1951	NEWMAN          JAMES      H        72       CARRL     CARROLL       12/15/1951 049  24079 /1951
+1951	NEWMAN          LEWIS      2       U/1       KENTN     KENTON        09/20/1951 042  20814 /1951
+1951	NEWMAN          MARTHA     J        68       FYETE     LEE           02/18/1951 014  06888 /1951
+1951	NEWMAN          ROLLAND    M        38       FYETE     FAYETTE       11/27/1951 049  24320 /1951
+1951	NEWMAN          ROSCOE     C        62       BELL      BELL          03/29/1951 013  06374 /1951
+1951	NEWMAN          THOMAS     S        76       HENRY     HENRY         03/17/1951 010  04806 /1951
+1951	NEWMAN          WILLIAM             72       CARTR     CARTER        03/16/1951 014  06626 /1951
+1951	NEWMAN          WM         C        63       JEFFN     JEFFERSON     02/02/1951 006  02723 /1951
+1952	NEWMAN          ALVIN               66       JEFFN     JEFFERSON     04/30/1952 021  10106 /1952
+1952	NEWMAN          ANNIE      E        74       MLNBG     MUHLENBERG    05/27/1952 022  10822 /1952
+1952	NEWMAN          BETTY      S       U/1       KNOX      KNOX          04/08/1952 016  07988 /1952
+1952	NEWMAN          FANNIE     K        74       KNOX      KNOX          04/05/1952 016  07991 /1952
+1952	NEWMAN          HAROLD               2       BURBN     BOURBON       12/30/1952 055  27128 /1952
+1952	NEWMAN          KATHERINE           75       HNDSN     HENDERSON     07/31/1952 034  16728 /1952
+1952	NEWMAN          KATIE      C        73       JEFFN     JEFFERSON     11/12/1952 048  23580 /1952
+1952	NEWMAN          MELVIN     1       U/1       JEFFN     JEFFERSON     12/01/1952 052  25834 /1952
+1952	NEWMAN          OTHA                77       HANCK     HANCOCK       09/09/1952 038  18650 /1952
+1952	NEWMAN          POSEY      B        65       DAVES     DAVIESS       05/15/1952 019  09277 /1952
+1952	NEWMAN          RUTH       A        71       UNION     UNION         06/17/1952 041  20034 /1952
+1952	NEWMAN          STANLEY             62       LEE       LEE           08/15/1952 035  17311 /1952
+1952	NEWMAN          SYLVESTER  P        59       JEFFN     JEFFERSON     03/15/1952 012  05571 /1952
+1952	NEWMAN          THOMAS     L        85       WARRN     WARREN        10/10/1952 045  22405 /1952
+1952	NEWMAN          VANDEN     G       U/1       PIKE      PIKE          08/30/1952 055  27247 /1953
+1952	NEWMAN          WILLIAM    M       U/1       HARLN     HARLAN        12/29/1952 052  25661 /1952
+1952	NEWMANN         GEORGE     G        70       JEFFN     JEFFERSON     03/04/1952 011  05492 /1952
+1953	NEUMAN          FRED       G        59       MCCRK     MCCRACKEN     03/31/1953 018  08576 /1953
+1953	NEUMAN          SOPHIA              84       MCCRK     MCCRACKEN     01/13/1953 003  01349 /1953
+1953	NEWMAN          BESSIE     J        75       WARRN     WARREN        09/20/1953 044  21634 /1953
+1953	NEWMAN          CHARLES    1       U/1       KENTN     KENTON        04/19/1953 017  08304 /1953
+1953	NEWMAN          GARY       L         3       FYETE     FRANKLIN      03/19/1953 010  04830 /1953
+1953	NEWMAN          GEORGE     H        88       ALLEN     ALLEN         08/27/1953 036  17667 /1953
+1953	NEWMAN          JANET               58       MLNBG     MUHLENBERG    04/13/1953 018  08799 /1953
+1953	NEWMAN          JEROME              76       LAURL     LAUREL        12/14/1953 054  26891 /1953
+1953	NEWMAN          JOSEPH     P       U/1       JEFFN     JEFFERSON     12/05/1953 051  25490 /1953
+1953	NEWMAN          MARGARET   A        13       FYETE     FAYETTE       05/18/1953 020  09728 /1953
+1953	NEWMAN          MINNIE              91       JEFFN     JEFFERSON     03/15/1953 012  05664 /1953
+1953	NEWMAN          NANNIE     D        81       HNDSN     HENDERSON     05/26/1953 020  09955 /1953
+1953	NEWMAN          PATRICK    W       U/1       KENTN     CAMPBELL      12/03/1953 052  25646 /1953
+1953	NEWMAN          RUTH       M        69       MCCRK     MCCRACKEN     01/22/1953 003  01374 /1953
+1953	NEWMAN          SARAH      V        85       KENTN     KENTON        10/25/1953 047  23219 /1953
+1953	NEWMAN          TILLIE              56       JEFFN     JEFFERSON     10/11/1953 042  20612 /1953
+1953	NEWMAN          WILLIAM    J        65       JEFFN     JEFF          10/29/1953 042  20836 /1953
+1953	NEWMAN          WILLIAM    F        77       JEFFN     JEFFERSON     02/23/1953 007  03074 /1953
+1954	NEWMAN          AGUSTES             78       CARTR     CARTER        05/10/1954 027  13034 /1954
+1954	NEWMAN          ANTOINETTE          84       DAVES     HANCOCK       03/30/1954 013  06497 /1954
+1954	NEWMAN          BERTHA     M        72       JEFFN     JEFFERSON     08/25/1954 032  15861 /1954
+1954	NEWMAN          BIRD       M        68       ALLEN     ALLEN         07/04/1954 026  12748 /1954
+1954	NEWMAN          GREEN      B        42       FLOYD     FLOYD         07/13/1954 027  13355 /1954
+1954	NEWMAN          JAMES      H        87       MONRO     MONROE        08/18/1954 034  16555 /1954
+1954	NEWMAN          MALISSA             65       WBSTR     WEBSTER       01/28/1954 008  03705 /1954
+1954	NEWMAN          MANDY      F        65       BARRN     ALLEN         10/22/1954 042  20917 /1954
+1954	NEWMAN          MARGARET            81       FRNKL     FRANKLIN      05/25/1954 018  08854 /1954
+1954	NEWMAN          VIRGIL              47       JEFFN     JEFF          04/05/1954 015  07035 /1954
+1954	NEWMAN          YOGI       B       U/1       PIKE      PIKE          04/12/1954 016  07992 /1954
+1955	NEWMAN          ADELINE    E        85       BRECK     BRECKINRIDGE  06/30/1955 027  13005 /1955
+1955	NEWMAN          BETTIE              79       JEFFN     JEFFERSON     08/01/1955 033  16241 /1955
+1955	NEWMAN          DANIEL     P       U/1       MLNBG     MUHL          01/19/1955 003  01389 /1955
+1955	NEWMAN          ELIZABETH  F        84       JEFFN     JEFFERSON     02/06/1955 006  02974 /1955
+1955	NEWMAN          ELLEN               72       LEE       LEE           04/27/1955 021  10040 /1955
+1955	NEWMAN          ELMER      C        54       PLSKI     PULASKI       01/15/1955 003  01484 /1955
+1955	NEWMAN          ELSIE      S        79       MASON     MASON         02/20/1955 007  03471 /1955
+1955	NEWMAN          EMALINA             79       CARTR     CARTER        09/10/1955 044  21833 /1955
+1955	NEWMAN          GLADYS     R        48       FYETE     FAYETTE       08/25/1955 032  15680 /1955
+1955	NEWMAN          HAROLD     H        66       BULLT     BULLITT       03/09/1955 009  04054 /1955
+1955	NEWMAN          HELEN      M        36       KENTN     KENTON        10/03/1955 042  20865 /1955
+1955	NEWMAN          JAMES      W        80       MLNBG     MUHL          10/22/1955 048  23508 /1955
+1955	NEWMAN          JAMES      B        68       FRNKL     FRANKLIN      04/06/1955 014  06955 /1955
+1955	NEWMAN          JOHN       E        77       WARRN     WARREN        05/29/1955 026  12731 /1955
+1955	NEWMAN          LOLA       V        78       PNLTN     PENDLETON     06/17/1955 026  12547 /1955
+1955	NEWMAN          MARY       L        67       JEFFN     HARDIN        05/16/1955 020  09795 /1955
+1955	NEWMAN          MOLLIE     H        75       MCCRK     BALLARD       01/02/1955 003  01226 /1955
+1955	NEWMAN          NORA       A        86       FRNKL     FRANKLIN      06/16/1955 027  13461 /1955
+1955	NEWMAN          O          T        54       BALLD     BALLARD       05/23/1955 022  10733 /1955
+1955	NEWMAN          ORVIL               31       BURBN     BOURBON       01/11/1955 001  00089 /1955
+1955	NEWMAN          WILLIAM             54       ESTIL     ESTILL        12/22/1955 049  24443 /1955

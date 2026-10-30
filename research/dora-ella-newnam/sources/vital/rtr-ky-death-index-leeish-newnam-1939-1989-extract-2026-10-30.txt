@@ -1,0 +1,146 @@
+Reclaim The Records / Kentucky Death Index 1911-1989
+https://archive.org/details/reclaim-the-records-kentucky-death-index-01911-1989
+Access: transcription only (annual-list TXT). Do not commit full year files.
+Filter: NEWMAN/NEWNAM/NEUMAN death-or-residence LEE/OWSLEY/ESTILL/MADISON/FAYETTE/CLARK/WOLFE/JACKSON.
+
+1939	NEWMAN          BACHARY    T        90       FYETE                   01/10/1939 002  00788 /1939
+1939	NEWMAN          BOREN      2       U/1       LEE                     09/18/1939 047  23158 /1939
+1939	NEWMAN          EVERETT             53       MADSN     LEE           12/13/1939 062  30987 /1939
+1941	NEWNAM          KATE                70       LEE       LEE           09/21/1941 046  22707 /1941
+1943	NEWMAN          MILTON              76       FYETE     FAYETTE       11/13/1943 049  24147 /1943
+1944	NEWMAN          JIMMIE     L       U/1       FYETE     FAYETTE       12/20/1944 053  26469 /1944
+1944	NEWNAM          MARY       J        89       LEE       LEE           02/07/1944 025  12277 /1944
+1945	NEWMAN          ALENA               67       FYETE     MADISON       07/27/1945 029  14282 /1945
+1945	NEWMAN          ALICE      C        39       FYETE     FAYETTE       04/27/1945 020  09730 /1945
+1945	NEWMAN          JEWELL              59       LEE       LEE           10/18/1945 049  24035 /1945
+1945	NEWMAN          LUTHER              54       LEE       LEE           02/28/1945 013  06315 /1945
+1946	NEWMAN          EVA                 51       LEE       LEE           09/03/1946 040  19962 /1946
+1946	NEWMAN          JOHN                62       FYETE     FAYETTE       09/10/1946 039  19072 /1946
+1946	NEWMAN          ROBERT              83       MADSN     MADISON       05/24/1946 028  13873 /1946
+1947	NEWMAN          ELLA       B        70       FYETE     FAYETTE       08/05/1947 035  17390 /1947
+1947	NEWMAN          LEONA               24       FYETE     PERRY         07/08/1947 035  17385 /1947
+1947	NEWMAN          NICIE               66       FYETE     WHITLEY       05/31/1947 026  12829 /1947
+1947	NEWMAN          SARAH               79       LEE       LEE           10/13/1947 046  22683 /1947
+1948	NEWMAN          DONNIE     G       U/1       LEE       LEE           09/23/1948 043  21342 /1948
+1949	NEWMAN          EVERETT             31       ESTIL     ESTILL        07/26/1949 028  13575 /1949
+1949	NEWMAN          FRANKLIN   D        16       LEE       LEE           07/03/1949 030  14605 /1949
+1949	NEWMAN          JUDY       C       U/1       MADSN     MADISON       05/04/1949 035  17020 /1949
+1949	NEWMAN          MARY       H        56       FYETE     FAYETTE       07/31/1949 032  15788 /1949
+1949	NEWMAN          WILLIAM    E        55       FYETE     CAMPBELL      05/14/1949 023  11352 /1949
+1949	NEWMAN JR       CLAUDE              18       LEE       LEE           02/17/1949 007  03308 /1949
+1950	NEWMAN          DANNY      L       U/1       MADSN     MAD           09/16/1950 043  21233 /1950
+1950	NEWMAN          DONNIE     R       U/1       MADSN     MAD           09/16/1950 043  21232 /1950
+1950	NEWMAN          DOROTHY    J       U/1       ESTIL     ESTILL        03/19/1950 014  06923 /1950
+1950	NEWMAN          RENA                68       LEE       LEE           01/14/1950 007  03259 /1950
+1950	NEWMAN          SALLEY     E        82       FYETE     FAYETTE       10/31/1950 045  22274 /1950
+1950	NEWMAN          SUSIE               68       OWSLY     OWSLEY        02/10/1950 008  03578 /1950
+1950	NEWMAN          WAYNE      A         1       FYETE     FAYETTE       12/23/1950 054  26746 /1950
+1951	NEWMAN          MARTHA     J        68       FYETE     LEE           02/18/1951 014  06888 /1951
+1951	NEWMAN          ROLLAND    M        38       FYETE     FAYETTE       11/27/1951 049  24320 /1951
+1952	NEWMAN          STANLEY             62       LEE       LEE           08/15/1952 035  17311 /1952
+1953	NEWMAN          GARY       L         3       FYETE     FRANKLIN      03/19/1953 010  04830 /1953
+1953	NEWMAN          MARGARET   A        13       FYETE     FAYETTE       05/18/1953 020  09728 /1953
+1955	NEWMAN          ELLEN               72       LEE       LEE           04/27/1955 021  10040 /1955
+1955	NEWMAN          GLADYS     R        48       FYETE     FAYETTE       08/25/1955 032  15680 /1955
+1955	NEWMAN          WILLIAM             54       ESTIL     ESTILL        12/22/1955 049  24443 /1955
+1956	NEWMAN          MABLE               76       FYETE     PENDLETON     02/29/1956 010  04709 /1956
+1957	NEWMAN          WILLIAM             61       FYETE     FLOYD         05/01/1957 024  11584 /1957
+1958	NEWMAN          DAVID      G        70       MADSN     MADISON       06/19/1958 028  13719 /1958
+1958	NEWMAN          MAE                 55       OWSLY     OWSLEY        12/15/1958 059  29133 /1958
+1959	NEWMAN          AMANDA              76       ESTIL     ESTILL        06/09/1959 029  14132 /1959
+1959	NEWMAN          EDWARD     M        80       FYETE     FAYETTE       01/20/1959 001  00407 /1959
+1960	NEWMAN          HENDRIX             73       ESTIL     ESTILL        04/11/1960 016  07625 /1960
+1960	NEWMAN          LARRY      G         8       FYETE     LEE           08/04/1960 034  16753 /1960
+1960	NEWNAM          ELVOYDE             21       ESTIL     OWSLEY        09/17/1960 043  21477 /1960
+1961	NEWMAN          ALICE      W        81       FYETE     FAYETTE       07/19/1961 029  14286 /1961
+1961	NEWMAN          CHESTER             47       FYETE     BOURBON       01/10/1961 002  00506 /1961
+1961	NEWMAN          EDITH               34       FYETE     FAYETTE       01/26/1961 002  00514 /1961
+1961	NEWMAN          FRED       L        66       ESTIL     ESTILL        06/14/1961 029  14145 /1961
+1961	NEWMAN          JESSAMINE           86       FYETE     FAYETTE       08/24/1961 034  16550 /1961
+1962	NEUMAN          MOLLIE     R        58       FYETE     FAYETTE       07/17/1962 031  15186 /1962
+1962	NEWMAN          EARNEST    C        50       MADSN     MADISON       02/04/1962 008  03891 /1962
+1962	NEWMAN          JOHN                88       FYETE     FAYETTE       04/27/1962 021  10268 /1962
+1963	NEWMAN          DERRIS              61       FYETE     JESSAMINE     02/26/1963 011  05455 /1963
+1963	NEWMAN          HUGH       B        70       FYETE     TENNESSEE     09/03/1963 043  21250 /1963
+1963	NEWMAN          LOYD                53       FYETE     GEORGIA       12/13/1963 061  30390 /1963
+1963	NEWMAN          MARY       S        93       FYETE     FAYETTE       12/24/1963 061  30399 /1963
+1963	NEWMAN          PATRICA    A       U/1       FYETE     LETCHER       01/21/1963 006  02657 /1963
+1964	NEWMAN          JAMES      S        20       FYETE     FAYETTE       03/29/1964 016  07598 /1964
+1965	NEWMAN          DONABLL    C        78       MADSN     MADISON       07/20/1965 038  18670 /1965
+1965	NEWNAM          MARY       E        41       MADSN     CLARK         12/17/1965 061  30366 /1965
+1966	NEWMAN          JAMES      W        57       FYETE     FAYETTE       12/12/1966 057  28276 /1966
+1966	NEWMAN          MALCOM              83       MADSN     LEE           10/04/1966 050  24546 /1966
+1967	NEUMAN          BERTRAM    M        67       FYETE     FAYETTE       04/06/1967 016  07659 /1967
+1968	NEWMAN          LOUISE     P        74       FYETE     WOODFORD      03/05/1968 017  08421 /1968
+1968	NEWMAN          ROBERT     T        66       FYETE     FAYETTE       11/16/1968 054  26746 /1968
+1968	NEWNAM          LOUISE     H        53       FYETE     FAYETTE       09/24/1968 048  23933 /1968
+1969	NEWMAN          CHARLES    R        64       FYETE     FLOYD         09/04/1969 043  21447 /1969
+1969	NEWMAN          CHARLNE    R       U/1       FYETE     FRANKLIN      05/23/1969 022  10999 /1969
+1969	NEWMAN          JEFFREY    D       U/1       FYETE     FRANKLIN      05/22/1969 022  11000 /1969
+1969	NEWMAN          KENNETH    R        16       FYETE     BRACKEN       07/15/1969 033  16022 /1969
+1969	NEWNAM          MARGRET             75       MADSN     ESTILL        03/17/1969 025  12423 /1969
+1970	NEWMAN          LEWIS               41       FYETE     FAYETTE       02/17/1970 006  02919 /1970
+1970	NEWNAM          GRANT               93       FYETE     LEE           12/09/1970 060  29556 /1970
+1971	NEWMAN          HENRY               88       CLAY      OWSLEY        09/04/1971 044  21656 /1971
+1971	NEWMAN          MARTHA              87       KENTN     LEE           06/09/1971 030  14968 /1971
+1972	NEWMAN          FRANK      L        37       FYETE     FLEMING       08/29/1972 045  22329 /1972
+1972	NEWMAN          PAULINA    R        74       FRNKL     LEE           04/14/1972 019  09086 /1972
+1972	NEWNAM          JOHNNIE             76       LEE       ESTILL        04/19/1972 021  10178 /1972
+1972	NEWNAM          MINNIE     H        86       FYETE     WOODFORD      10/22/1972 056  27566 /1972
+1973	NEWMAN          SHELBY              80       MADSN     MADISON       06/07/1973 037  18352 /1973
+1973	NEWMAN          ZALMA               67       MADSN     MADISON       06/26/1973 037  18350 /1973
+1975	NEWMAN          CHARLIE             79       PERRY     LEE           04/24/1975 026  12844 /1975
+1975	NEWMAN          DEWEY      H        76       FYETE     FAYETTE       09/30/1975 049  24100 /1975
+1975	NEWMAN          THOMAS     M        56       FYETE     FRANKLIN      04/05/1975 017  08450 /1975
+1976	NEWMAN          BOYD               101       FYETE     FAYETTE       12/02/1976 058  28501 /1976
+1976	NEWMAN          HENRY      O        77       FYETE     FAYETTE       01/31/1976 005  02342 /1976
+1976	NEWMAN          ROY        W        68       FYETE     POWELL        04/02/1976 016  07683 /1976
+1977	NEWMAN          ANN        C        85       FYETE     FAYETTE       04/26/1977 021  10425 /1977
+1977	NEWMAN          SUDIE               68       LEE       LEE           09/17/1977 051  25474 /1977
+1977	NEWMAN          WILLARD    R        64       FYETE     PIKE          04/29/1977 021  10366 /1977
+1978	NEWMAN          ALLIE      B        94       FYETE     FAYETTE       12/13/1978 064  31780 /1978
+1978	NEWMAN          ERWIN      J        73       FYETE     FAYETTE       07/05/1978 033  16440 /1978
+1978	NEWMAN          LUCIAN     W        67       FYETE     FAYETTE       11/17/1978 054  26918 /1978
+1978	NEWMAN          SHADE               68       FYETE     LEE           05/08/1978 023  11218 /1978
+1979	NEWMAN          DORA                72       OWSLY     OWSLEY        12/26/1979 061  30279 /1979
+1979	NEWMAN          DOVIE      W        90       MADSN     MADISON       01/04/1979 014  06532 /1979
+1979	NEWMAN          ROBERT     L        61       FYETE     WOODFORD      01/14/1979 001  00414 /1979
+1979	NEWMAN          RONNIE     E        25       FYETE     VIRGINIA      02/25/1979 011  05028 /1979
+1980	NEWMAN          JAMES      H        58       FYETE     MADISON       07/22/1980 043  21487 /1980
+1981	NEWMAN          BOREN               77       BRTHT     LEE           11/17/1981 066  32801 /1981
+1981	NEWMAN          JOHN       B        64       ESTIL     ESTILL        08/30/1981 043  21281 /1981
+1981	NEWMAN          JUNE       M        69       FYETE     MORGAN        06/16/1981 033  16232 /1981
+1981	NEWNAM          CORA       P        87       FYETE     LEE           02/25/1981 012  05561 /1981
+1982	NEWMAN          GRACE      E        74       OWSLY     OWSLEY        08/15/1982 041  20271 /1982
+1982	NEWMAN          HERBERT    L        77       FYETE     OHIO          04/16/1982 016  07755 /1982
+1982	NEWMAN          HIRAM      D        68       FYETE     CLARK         11/16/1982 053  26344 /1982
+1982	NEWMAN          SELDON     W        38       FYETE     FAYETTE       07/26/1982 033  16062 /1982
+1982	NEWNAM          OPTHELMA   S        68       FYETE     SCOTT         07/07/1982 033  16022 /1982
+1983	NEUMANN         MATTHEW    J        70       FYETE     JEFFERSON     10/24/1983 055  27312 /1983
+1983	NEWMAN          AMANDA     B        77       CLARK     CLARK         09/04/1983 044  21622 /1983
+1983	NEWMAN          DELTON              58       MADSN     MADISON       01/13/1983 003  01486 /1983
+1983	NEWMAN          PAUL       E        34       LEE       LEE           10/01/1983 058  28682 /1983
+1984	NEWMAN          DAVID      G        60       MADSN     MADISON       03/25/1984 020  09547 /1984
+1984	NEWMAN          GLADYS     F        78       FYETE     WOODFORD      04/25/1984 022  10753 /1984
+1984	NEWMAN          HOBERT              62       MADSN     MADISON       05/18/1984 025  12313 /1984
+1985	NEWMAN          JAMES      J        68       FYETE     FAYETTE       02/21/1985 012  05835 /1985
+1985	NEWMAN          MYRTLE     E        67       FYETE     WOODFORD      10/01/1985 051  25184 /1985
+1985	NEWMAN          NAOMI      R        59       FYETE     FAYETTE       07/21/1985 035  17146 /1985
+1986	NEWMAN          ARTHUR              80       FYETE     FAYETTE       10/02/1986 051  25241 /1986
+1986	NEWMAN          JOHN       T        67       FYETE     FAYETTE       05/10/1986 024  11529 /1986
+1986	NEWMAN          MAGGIE              90       FYETE     LAUREL        08/11/1986 041  20058 /1986
+1986	NEWMAN          RILEY      M        86       FYETE     FLEMING       05/14/1986 024  11709 /1986
+1987	NEUMAN          BESSIE     R        88       FYETE     FAYETTE       09/04/1987 045  22055 /1987
+1987	NEWMAN          BILLIE              91       FYETE     FAYETTE       02/19/1987 006  02908 /1987
+1987	NEWMAN          GRACE      B        89       MADSN     MADISON       10/24/1987 053  26210 /1987
+1987	NEWMAN          OLIVER              78       FYETE     LEE           05/22/1987 028  13889 /1987
+1988	NEWMAN          CASSIOPHEI L       630       MADSN     MADISON       07/12/1988 039  19496 /1988
+1988	NEWMAN          CORA       B        95       FYETE     FAYETTE       11/19/1988 059  29183 /1988
+1988	NEWMAN          CURTIS     L        35       LEE       LEE           10/22/1988 056  27642 /1988
+1988	NEWMAN          DEWEY      L        73       FYETE     LEE           10/05/1988 053  26207 /1988
+1988	NEWMAN          DONALD     L        42       JCKSN     JACKSON       12/10/1988 065  32332 /1988
+1988	NEWMAN          ETTA       D        87       FYETE     LEE           04/18/1988 019  09423 /1988
+1988	NEWMAN          LUTHER     W        80       FYETE     WOODFORD      06/11/1988 036  17727 /1988
+1988	NEWMAN          MADGE               65       MADSN     MADISON       02/10/1988 016  07846 /1988
+1989	NEUMANN         ERNST      C        93       FYETE     GRANT         08/05/1989 041  20122 /1989
+1989	NEWNAM          CLAUDE              70       FYETE     ESTILL        05/04/1989 024  11950 /1989
