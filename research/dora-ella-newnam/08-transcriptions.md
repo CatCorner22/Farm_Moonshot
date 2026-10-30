@@ -2584,3 +2584,223 @@ Pass 2: Visual every-name-column of ED **91** sh **4 A–14 A**: **NIL** Newman 
 - Original unseen / #24 still open → C736
 
 
+## DOC110 — 1920 U.S. census, Owsley Co., KY, ED 88 sheets 1 A–19 A (original; entire Booneville)
+
+- Headers: `sources/census/1920-owsley-ed88-sh1a-hdr.jpg` SHA-256 `a0dd7e17c61764907ac8b55cae96e03de87f1218a26a27107be5afe05b8b0403`
+- Sheet 14 A: `…sh14a-hdr.jpg` `0165e41cdbaa2825757a1ed8f99a24d95a55b00def76c8a733961152339a17f1`
+- Town start: `…sh17a-town-hdr.jpg` `f5870b5e616a2c4092f2815ef8b9697f3947835ace69e841d04d1cbf82895b48`
+- Last populated: `…sh19a-hdr.jpg` `53ae3ad4c0687f033061af61c35bf29a777f39c88aacadf4b409836773dc5c38`
+- Unused B: `…unused-19b-hdr.jpg` `062fefc6f39219e70b59cfd34621e5f04900d6dc54abcb8b06e62783f291fc76`
+- Rejected Manerva: `…sh14a-hh231-taylor-manerva.jpg` `419b74c40a610df69437371038b5afacbf934f8025fef40a6aa22b5d2f7c50ca`
+- Rejected Dora: `…sh15a-hh248-magee-dora.jpg` `f08b4c9e7e6876f1c7531526dea61d180d6c2d86156be2dedb85f63b8356770a`
+- Rejected Needham: `…sh17b-hh310-needham-sally.jpg` `ac63d62acf86573e3c3303128eb88842470760c072e0c3205b910f2be84c45f4`
+- Extract: `owsley-1920-ed88-booneville-entire-pass69.txt` `be01d3e170526b9a42993b041039e666ae1c28ddafe2c891ad0e5004460c8c4b`
+- Provenance: NARA T625-**594** / IA `14thcensusofpopu594unit` `_1038.jp2`–`_1075.jp2`, opened 30 Oct 2026. **Original image seen.** Pass 1 from header crops (frac 0.18); Pass 2 from name-column visual reads.
+
+### Diplomatic — header (sheet 1 A)
+
+> FOURTEENTH CENSUS OF THE UNITED STATES: 1920—POPULATION  
+> State **Kentucky** · County **Owsley** · Township **Booneville Pct 1**  
+> Supervisor’s District No. **10** · Enumeration District No. **88** · Sheet No. **1 A**  
+> Enumerator **W.M. Dooley**, 12 January 1920.
+
+### Diplomatic — first households (sheet 1 A)
+
+> **1 1 Bowman, Zach** Head M **62** M · Rachel S. wife **65**  
+> **2 Taylor, Daisy E.** Head F **81** W  
+> **3 3 Braswell, Sam B.** Head …
+
+### Diplomatic — rejected Manerva candidate (sheet 14 A)
+
+> **231 235 Taylor, William** Head M **52** M owned-free  
+> **Manerva** Mother F **73** W  
+> **Henry** Son M **35** S
+
+Pass 2: Surname on Manerva is a ditto from Taylor. Same sheet Taylor, Hank 46 and Taylor, James 38. **Not** Manerva Newnam.
+
+### Diplomatic — rejected Dora (sheet 15 A)
+
+> **248 252 Magee, Cal** Head M **29** M  
+> **Dora** wife F **25** M
+
+### Diplomatic — last populated (sheet 19 A, Town of Booneville)
+
+> **Givett[?]/Guest, Henry** Head M B **35** · Nannie wife **30** · Lena 14 · Bertha 10 · Lenie 8 · Hettie 1⁶⁄₁₂  
+> Lines **44–50** empty. Enumerator closeout note.
+
+### Diplomatic — unused verso (leaf 1075)
+
+> Printed **Sheet No. … B**. Name column lines **51–100** empty (**0** of **50** filled).
+
+Pass 2: Visual every-name-column of ED **88** sh **1 A–19 A**: **NIL** Newman / Newnam head. Needham, Sally 63 wd is **Needham**, not Newman. Maggard Minerva dau 17 is a different girl.
+
+### Facts extracted → claim IDs
+- Entire ED 88 nil Newman head → C739
+- Taylor Manerva 73 → C740
+- Magee Dora 25 → C741
+- Needham / Maggard Minerva 17 → C742
+
+## DOC111 — 1920 U.S. census, Owsley Co., KY, ED 92 leaves 1156–1169 (original; filmed Buffalo)
+
+- Header: `sources/census/1920-owsley-ed92-sh1a-hdr.jpg` SHA-256 `6129bc32a4b2d9ca354b8c710fc323bfd40f437548b2019f80a9a5c14e951509` (already S542)
+- Last: `…sh7b-hdr.jpg` `45279832668d1bdec8a66a7d18306bcd4a976f116721a6eeb4cc14fab6686a3e`
+- Rejected Dora: `…sh1b-hh27-mcintosh-dora.jpg` `e7ec0fc7a79ae47c6eb111eb628eb8647345903b1bae1a59053f9b0c7a419a1a`
+- Rejected Minervey: `…sh5b-hh95-baker-minervey.jpg` `0f2de76cc133009fd63c085b272637565bab1495728db1618e9f744f62839422`
+- Extract: `owsley-1920-ed92-buffalo-filmed-pass69.txt` `fd93999a5d85642a3995c65345072ef532b86db267fd8a9ec6f3058086cae78e`
+- Provenance: NARA T625-**594** / IA `14thcensusofpopu594unit` `_1156.jp2`–`_1169.jp2`, opened 30 Oct 2026. **Original image seen.** Completes Pass 68’s ED **92** sh **1 A** header.
+
+### Diplomatic — header (leaf 1156)
+
+> State **Kentucky** · County **Owsley** · Township **Buffalo Precinct No. 5**  
+> Supervisor’s District No. **10** · Enumeration District No. **92** · Sheet No. **1 A**  
+> Enumerator **Fred Hubbard**, 8 January 1920.
+
+### Diplomatic — name column (leaf 1156)
+
+> Printed line numbers **51–100** (B-form).  
+> **14 14 Gilbert, Lewis** Head M **67** M · Indiana wife **58**  
+> **15 15 Gilbert, Bury** Head **35** …
+
+Pass 2: The stamped sheet letter is **A**; the printed form is a **B-side**. First household on this image is **14**. Hh **1–13** are not on leaves **1156–1157**.
+
+### Diplomatic — rejected Dora (leaf 1157, stamped 1 B)
+
+> **27 27 McIntosh, Millard** Head M **39** M  
+> **Dora** wife F **37** M
+
+### Diplomatic — rejected Minervey (leaf 1165, stamped 5 B)
+
+> **Baker, John** Head  
+> **Minervey** wife F **50** M
+
+Pass 2: Visual every-name-column of filmed ED **92** leaves **1156–1169**: **NIL** Newman / Newnam head.
+
+### Facts extracted → claim IDs
+- Filmed ED 92 nil Newman head → C743
+- McIntosh Dora 37 → C744
+- Baker Minervey 50 → C745
+- Hh 1–13 residual → C752
+
+## DOC112 — 1920 U.S. census, Owsley Co., KY, ED 93 sheets 1 A–11 A (original; entire Buck Creek)
+
+- Headers: `sources/census/1920-owsley-ed93-sh1a-hdr.jpg` SHA-256 `9933e05cf840a9a3c4a794b3cd627e37e1890a9ddec0695da762a0cf7ffe80e1`
+- Last populated: `…sh11a-hdr.jpg` `044768690f510354d1a5804e8c8e7a79a1c2f71dbda252269fcc2e3ae522e0ac`
+- Unused B: `…unused-11b-hdr.jpg` `82f312dc90cdba427166b741d18ac2dec1a40519a1434cb28b40cdcf6a384b40`
+- Rejected Manerva: `…sh6b-hh94-marcum-manerva.jpg` `a1e96201895d48aaa17431d20534ed0dee8afa39be89da0ff388813982607359`
+- Rejected Dara: `…sh11a-hh178-mcpherson-dara.jpg` `a00676af05add20fd93e4cff4bd8d3861a652e8d5df6adb59a292af24214f769`
+- Extract: `owsley-1920-ed93-buckcreek-entire-pass69.txt` `25d1fe7dd87836dfceeeec039e58b8ed81854e37ccd83cfad840135e1639e302`
+- Provenance: NARA T625-**594** / IA `14thcensusofpopu594unit` `_1170.jp2`–`_1191.jp2`, opened 30 Oct 2026. **Original image seen.**
+
+### Diplomatic — header (sheet 1 A)
+
+> FOURTEENTH CENSUS OF THE UNITED STATES: 1920—POPULATION  
+> State **Kentucky** · County **Owsley** · Township **Buck Creek Precinct No. 6**  
+> Supervisor’s District No. **10** · Enumeration District No. **93** · Sheet No. **1 A**  
+> Enumerator **J.G. Easley** / **W.C. Dooley**, 2/3 January 1920.
+
+### Diplomatic — rejected Manerva candidate (sheet 6 B)
+
+> **94 94 Marcum, Harvey** Head M **58** M  
+> **Manerva** wife F **54** M  
+> William son · Holbert son · Sanford son · Lewis son · Victory dau · Cosy dau
+
+Pass 2: Surname rewritten **Marcum** on continuation lines. **Not** Manerva Newnam.
+
+### Diplomatic — rejected Dara (sheet 11 A)
+
+> **178 178 McPherson, John** Head M **43** M  
+> **Dara** wife F **40** M
+
+Pass 2: Given name diplomatic **Dara** (open *a*). Visual every-name-column of ED **93** sh **1 A–11 A**: **NIL** Newman / Newnam head. Leaf **1191** unused blank B.
+
+### Facts extracted → claim IDs
+- Entire ED 93 nil Newman head → C746
+- Marcum Manerva 54 → C747
+- McPherson Dara 40 → C748
+- Original unseen / #24 still open → C750
+
+## DOC113 — 1910 U.S. census, Owsley Co., KY, ED 165 sheets 9 A–9 B (original)
+
+- Header 9 A: `sources/census/1910-owsley-ed165-sh9a-hdr.jpg` SHA-256 `db6b66e33e86f2660a2053e1baa940972ebf1cfa9cc952bfe0890ed21bf4be69`
+- Household 147: `…hh147-gilbert-josie.jpg` `53ac066f2a91697160ffda6cbf90775dcbc82207c5dd8ce1e6fac808e5f3dc99`
+- Household 154: `…sh9b-hh154-lynch-laura.jpg` `72b6382d7fb7c0aa1349ffbf744aa2fc762b66d8dcf3ae193804d7bfe4a4e17c`
+- Extract: `owsley-1910-gilbert-josie-pass70.txt` `c7a673fecf50dfbb324a4f4603b4aaae0561d06cbd4b69afd9db35c57a9ea010`
+- Provenance: NARA T624-**498** / IA `13thcensus1910po498unit` `_0884.jp2` / `_0885.jp2`, opened 30 Oct 2026. **Original image seen.** Same ED as Arthur dw **119** (**DOC101**).
+
+### Diplomatic — header (sheet 9 A)
+
+> THIRTEENTH CENSUS OF THE UNITED STATES: 1910 POPULATION  
+> State **Kentucky** · County **Owsley** · Township **Magisterial District 2 Sturgeon**  
+> Enumeration District No. **165** · Sheet No. **9 A**  
+> Enumerated by me on the **21st** day of **April**, 1910, **John F. Brewer**, Enumerator.
+
+### Diplomatic — household 147 (sheet 9 A, Charles Fork Road)
+
+> **147 147 Gilbert, Robert** Head M W **29** **m2 8** · Kentucky  
+> **Josie** Wife F W **26** **m1 8** **1-0** · Kentucky
+
+Pass 2: Couple alone. Next **148 148 Begley, Ballard** Head 23 m1 2 · Agnes wife 23 · Bertha sister 19. Parent-nativity cells not on the retained names crop.
+
+### Diplomatic — household 154 (sheet 9 B, Endee Road)
+
+> **154 154 Lynch, Benton** Head M W **34** **m1 15** · Kentucky  
+> **Laura** wife F W **34** **m1 15** **6-5** · Kentucky  
+> Della dau 13 · Hobart son 11 · Pearl dau 4 · Fanny dau 2 · Ethel dau infant
+
+Pass 2: Given name **Laura** only. Surname ditto **Lynch**. **Newman is not written on this line.** Kendrick “Laura (Newman)” is a transcriber annotation. Kendrick m1 **18y** withdrawn (original **15**). Grant Lynch hh **153** **Ella** dau **1 3/12** is a child, not P001.
+
+### Facts extracted → claim IDs
+- Gilbert × Josie 26 → C753
+- Same-person vs 1900/1916 Josephine → C754
+- Laura Lynch, Newman not on original → C759
+
+## DOC114 — 1920 Kentucky Soundex G-416, Gilbert Robert 84 Owsley (derivative)
+
+- Card: `sources/soundex/ky1920-g416-p2263-gilbert-robert-84-owsley.jpg` SHA-256 `98883b575dc344e5a811725b72e2f21b668a9f8a1e65546ec119eb2f9ef40497`
+- Extract: `ky1920-g416-gilbert-pass70.txt` `5c851d62bee23460e449f8f35b537311fbfa4a1d570542417e05b19618f84840`
+- Provenance: NARA M1563 reel **59** / IA `soundex1920ky059` leaf **2263**, opened 30 Oct 2026. **Image-seen.** No djvu.txt (404); chOCR empty.
+
+### Diplomatic — card 2263
+
+> G416 **Gilbert, Robert**  
+> Color **W** · Age **84** · Birthplace **Kentucky** · County **Owsley**  
+> Vol **76** · ED **92** · Sheet **5** · Line **96**  
+> Enumerated with **Baker, Robert**  
+> Relationship to above **Father-in-law**
+
+Pass 2: Robert given-name window ~2262–2275 **nil** Robert ~39 Owsley as a head. Lewis window **nil** vol 76 Lewis Gilbert 67.
+
+### Facts extracted → claim IDs
+- Nil Robert ~39 Owsley head → C755
+- Card 2263 age 84 FIL → C756 (disproved on original)
+- Lewis 67 Soundex miss → C757
+
+## DOC115 — 1920 U.S. census, Owsley Co., KY, ED 92 leaf 1164 (original; Baker + Gilbert FIL)
+
+- Header: `sources/census/1920-owsley-ed92-sh5a-hdr.jpg` SHA-256 `59f9b7004b94cea3bfa10f54dbfb7734dfc3664f030ec59fff2bb421959cfe54`
+- Household: `…hh90-baker-gilbert-fil.jpg` `7a0ee1c5c0373784f2e8339bd828dfebd26d018ee54ca569d06bf2510d6de0cb`
+- Provenance: NARA T625-**594** / IA `14thcensusofpopu594unit` `_1164.jp2`, opened 30 Oct 2026. **Original image seen.** Completes the Soundex 2263 citation.
+
+### Diplomatic — header (leaf 1164)
+
+> FOURTEENTH CENSUS OF THE UNITED STATES: 1920—POPULATION  
+> State **Kentucky** · County **Owsley** · Township **Buffalo Precinct No. 5**  
+> Supervisor’s District No. **10** · Enumeration District No. **92** · Sheet No. **5 A**  
+> Enumerator **Fred Hubbard**, 13 January 1920.
+
+Pass 2: Stamped **5 A**; printed form is a **B-side** (lines **51–100**). Same A/B stamp swap as leaf **1156**.
+
+### Diplomatic — household 90 (lines 86–96)
+
+> **90 90 Baker, Robert** Head M W ~**40** M  
+> **Louise[?]** wife F W **41** M  
+> Arthur son 23 · Alley son 18 · and younger children  
+> **96 Gilbert, John** father-in-law M W **84** Wd
+
+Pass 2: Original given name **John**, not Soundex **Robert**. Then hh **91 Brewer, Willie** 62 + Emma 60; hh **92 Burns, Raphael** 21 + Atty 22.
+
+### Facts extracted → claim IDs
+- Gilbert John 84 FIL → C756
+- Soundex Robert is a clerk error → C755/C756
+
+

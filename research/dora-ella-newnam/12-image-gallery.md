@@ -1,6 +1,6 @@
 # Source-image gallery: Dora Ella Newnam Stone
 
-One hundred sixty-six numbered plates (JPEG/PNG captures from NARA microfilm via Internet Archive, plus header and household crops). Plates **7g–7j** are the 1860 Owsley and 1880 Lee Gray originals added in passes 39–40. Plates **7k–7z** and **8a–8f** are the later 1850–1860 Owsley/Breathitt/Madison isolations, including Harrison Newman with Elias aged eight, H.H. Newman with Elias aged eighteen, and Giles Mays at one month and eleven. Plates **8j–8l** are the 1840 Estill originals (John and Christian Tincher, the county recap, and William Newton not Tincher) added in pass 55; plates **8m–8n** are the 1840 Clay originals added in pass 56; plates **8o–8q** are the 1840 Breathitt originals (first name page, last name page ending Total, and the county Abstract) added in pass 57; plates **8r–8u** are the 1840 Estill McIlvain originals and the Edmonson divider added in pass 58; plates **8v–8ac** are the M850 pension-payment cards added in pass 63 (Elias T. Newnam, Henry H. Newnam, Manerva Newnam, and the Newman-spelling collisions); plates **8ad–8ai** are the 1900 Sturgeon and 1910 Wild Dog Henry H. originals added in pass 64; plates **8aj–8ao** are the 1910 Sturgeon Arthur original and the 1920 Wild Dog nil (including the rejected Evans+Minerva house) added in pass 65; plates **8ap–8au** are the 1920 Island Creek Arthur original, the Soundex Arthur card, the leftover Sturgeon ED 89 closer, and the Minerva-slot Soundex card (Minnie, not Minerva) added in pass 66; plates **8av–8bb** are the 1920 Island Creek remainder headers, the rejected Barker Malvera and Wilson×Minerva houses, the Cow Creek opener, and the Soundex Walter Logan / Walter A. Louisville cards added in pass 67; plates **8bc–8bh** are the remainder of Cow Creek (sheet 4 A and 7 A headers, the rejected Allen Ella and Cale Minerva houses, the last populated sheet 14 A, and the ED 92 opener) added in pass 68. They sit after the 1880 Buck Creek plate because those numbers were already assigned. They are ordered by **the date of the census they record or index**, not by the date the film was scanned. Plates **1a–2c**, **7a–7c**, **55b–55c**, and the 1880 G-600 cards were added in passes 34–37.
+One hundred eighty-three numbered plates (JPEG/PNG captures from NARA microfilm via Internet Archive, plus header and household crops). Plates **7g–7j** are the 1860 Owsley and 1880 Lee Gray originals added in passes 39–40. Plates **7k–7z** and **8a–8f** are the later 1850–1860 Owsley/Breathitt/Madison isolations, including Harrison Newman with Elias aged eight, H.H. Newman with Elias aged eighteen, and Giles Mays at one month and eleven. Plates **8j–8l** are the 1840 Estill originals (John and Christian Tincher, the county recap, and William Newton not Tincher) added in pass 55; plates **8m–8n** are the 1840 Clay originals added in pass 56; plates **8o–8q** are the 1840 Breathitt originals (first name page, last name page ending Total, and the county Abstract) added in pass 57; plates **8r–8u** are the 1840 Estill McIlvain originals and the Edmonson divider added in pass 58; plates **8v–8ac** are the M850 pension-payment cards added in pass 63 (Elias T. Newnam, Henry H. Newnam, Manerva Newnam, and the Newman-spelling collisions); plates **8ad–8ai** are the 1900 Sturgeon and 1910 Wild Dog Henry H. originals added in pass 64; plates **8aj–8ao** are the 1910 Sturgeon Arthur original and the 1920 Wild Dog nil (including the rejected Evans+Minerva house) added in pass 65; plates **8ap–8au** are the 1920 Island Creek Arthur original, the Soundex Arthur card, the leftover Sturgeon ED 89 closer, and the Minerva-slot Soundex card (Minnie, not Minerva) added in pass 66; plates **8av–8bb** are the 1920 Island Creek remainder headers, the rejected Barker Malvera and Wilson×Minerva houses, the Cow Creek opener, and the Soundex Walter Logan / Walter A. Louisville cards added in pass 67; plates **8bc–8bh** are the remainder of Cow Creek (sheet 4 A and 7 A headers, the rejected Allen Ella and Cale Minerva houses, the last populated sheet 14 A, and the ED 92 opener) added in pass 68; plates **8bi–8bu** are the 1920 Booneville ED 88, Buffalo ED 92, and Buck Creek ED 93 originals added in pass 69; plates **8bv–8bz** are the 1910 Sturgeon Gilbert×Josie and Lynch×Laura originals, the 1920 G-416 Soundex card that misnamed Gilbert John as Robert, and the Buffalo Baker household that holds that father-in-law, added in pass 70. They sit after the 1880 Buck Creek plate because those numbers were already assigned. They are ordered by **the date of the census they record or index**, not by the date the film was scanned. Plates **1a–2c**, **7a–7c**, **55b–55c**, and the 1880 G-600 cards were added in passes 34–37.
 
 Soundex and Miracode cards sit with the census year they index, immediately after any original population schedules for that year.
 
@@ -117,6 +117,24 @@ Diplomatic transcriptions: [`08-transcriptions.md`](08-transcriptions.md). Citat
 | 8bf | 1 Jan 1920 | Rejected same-name | [ED 91 sh 7 A hh 110 — Cale, Tom 51; Minerva 73 W, not Manerva Newnam](sources/census/1920-owsley-ed91-sh7a-hh110-cale-minerva.jpg) |
 | 8bg | 1 Jan 1920 | Negative search | [Owsley ED 91 sheet 14 A header — last populated Cow Creek sheet](sources/census/1920-owsley-ed91-sh14a-hdr.jpg) |
 | 8bh | 1 Jan 1920 | Negative search | [Owsley ED 92 sheet 1 A header — next precinct after Cow Creek](sources/census/1920-owsley-ed92-sh1a-hdr.jpg) |
+| 8bi | 1 Jan 1920 | Negative search | [Owsley ED 88 sheet 1 A header — Booneville Precinct No. 1](sources/census/1920-owsley-ed88-sh1a-hdr.jpg) |
+| 8bj | 1 Jan 1920 | Rejected same-name | [ED 88 sh 14 A hh 231 — Taylor, William 52; Manerva Mother 73](sources/census/1920-owsley-ed88-sh14a-hh231-taylor-manerva.jpg) |
+| 8bk | 1 Jan 1920 | Rejected same-name | [ED 88 sh 15 A hh 248 — Magee, Cal 29; Dora wife 25](sources/census/1920-owsley-ed88-sh15a-hh248-magee-dora.jpg) |
+| 8bl | 1 Jan 1920 | Rejected same-name | [ED 88 sh 17 B — Needham, Sally 63 wd; Maggard Minerva dau 17](sources/census/1920-owsley-ed88-sh17b-hh310-needham-sally.jpg) |
+| 8bm | 1 Jan 1920 | Negative search | [Owsley ED 88 sheet 19 A header — last populated Booneville sheet](sources/census/1920-owsley-ed88-sh19a-hdr.jpg) |
+| 8bn | 1 Jan 1920 | Negative search | [Owsley ED 88 unused 19 B](sources/census/1920-owsley-ed88-unused-19b-hdr.jpg) |
+| 8bo | 1 Jan 1920 | Rejected same-name | [ED 92 leaf 1157 hh 27 — McIntosh, Millard 39; Dora wife 37](sources/census/1920-owsley-ed92-sh1b-hh27-mcintosh-dora.jpg) |
+| 8bp | 1 Jan 1920 | Rejected same-name | [ED 92 leaf 1165 — Baker, John; Minervey wife 50](sources/census/1920-owsley-ed92-sh5b-hh95-baker-minervey.jpg) |
+| 8bq | 1 Jan 1920 | Negative search | [Owsley ED 92 sheet 7 B header — last Buffalo sheet](sources/census/1920-owsley-ed92-sh7b-hdr.jpg) |
+| 8br | 1 Jan 1920 | Negative search | [Owsley ED 93 sheet 1 A header — Buck Creek Precinct No. 6](sources/census/1920-owsley-ed93-sh1a-hdr.jpg) |
+| 8bs | 1 Jan 1920 | Rejected same-name | [ED 93 sh 6 B hh 94 — Marcum, Harvey 58; Manerva wife 54](sources/census/1920-owsley-ed93-sh6b-hh94-marcum-manerva.jpg) |
+| 8bt | 1 Jan 1920 | Rejected same-name | [ED 93 sh 11 A hh 178 — McPherson, John 43; Dara wife 40](sources/census/1920-owsley-ed93-sh11a-hh178-mcpherson-dara.jpg) |
+| 8bu | 1 Jan 1920 | Negative search | [Owsley ED 93 unused 11 B](sources/census/1920-owsley-ed93-unused-11b-hdr.jpg) |
+| 8bv | 21 Apr 1910 | FAN | [Owsley ED 165 sheet 9 A header — Mag Dist 2 Sturgeon](sources/census/1910-owsley-ed165-sh9a-hdr.jpg) |
+| 8bw | 21 Apr 1910 | FAN | [Dwelling 147/147 — Gilbert, Robert 29 m2 8; Josie 26 m1 8 1-0](sources/census/1910-owsley-ed165-sh9a-hh147-gilbert-josie.jpg) |
+| 8bx | 21 Apr 1910 | FAN | [Dwelling 154/154 — Lynch, Benton 34; Laura wife 34 (Newman not on original)](sources/census/1910-owsley-ed165-sh9b-hh154-lynch-laura.jpg) |
+| 8by | 1920 (index) | Rejected same-name | [Kentucky G-416 — Gilbert, Robert 84, Owsley ED 92 sh 5 ln 96](sources/soundex/ky1920-g416-p2263-gilbert-robert-84-owsley.jpg) |
+| 8bz | 1 Jan 1920 | Rejected same-name | [ED 92 sh 5 A hh 90 — Baker, Robert ~40; Gilbert, John FIL 84](sources/census/1920-owsley-ed92-sh5a-hh90-baker-gilbert-fil.jpg) |
 | 8 | 13 Jun 1900 | Rejected same-name | [Douglas County, Missouri — Thomas and Nancy E. Stone](sources/census/1900-douglas-mo-ed159-stone-sheet.jpg) |
 | 9 | 13 Jun 1900 | Rejected same-name | [Douglas County Stone household (crop)](sources/census/1900-douglas-mo-ed159-stone-hh-crop.jpg) |
 | 10 | 1900 (index) | Rejected same-name | [Missouri S-350 — Thomas Stone, 44, Douglas County](sources/soundex/mo1900-s350-p1678-stone-thomas-44-douglas.jpg) |
@@ -1871,9 +1889,173 @@ Last populated Cow Creek sheet. Lines **1–15** only; hh **241** Young, John. L
 ### 8bh · 1 Jan 1920 · Owsley ED 92 sheet 1 A header
 
 **File:** [`sources/census/1920-owsley-ed92-sh1a-hdr.jpg`](sources/census/1920-owsley-ed92-sh1a-hdr.jpg)  
-**Source:** S542 · C729 · DOC109
+**Source:** S542 S550 · C743 C752 · DOC111
 
-Next precinct after Cow Creek. Header only; name column unread this pass. Township not confidently read.
+
+Next precinct after Cow Creek. Stamped Sheet **1 A**, Buffalo Precinct No. **5**, enumerator **Fred Hubbard**, 8 Jan 1920. Printed form is a **B-side**; first household on the image is **14**. Name column of the filmed ED now read in Pass 69 (**C743**). Hh **1–13** residual.
 
 ![1920 Owsley ED 92 sh 1A header](sources/census/1920-owsley-ed92-sh1a-hdr.jpg)
+
+### 8bi · 1 Jan 1920 · Owsley ED 88 sheet 1 A header
+
+**File:** [`sources/census/1920-owsley-ed88-sh1a-hdr.jpg`](sources/census/1920-owsley-ed88-sh1a-hdr.jpg)  
+**Source:** S546 · C739 · DOC110
+
+Booneville Precinct No. **1**, ED **88**, sheet **1 A**. Enumerator **W.M. Dooley**, 12 January 1920.
+
+![1920 Owsley ED 88 sh 1A header](sources/census/1920-owsley-ed88-sh1a-hdr.jpg)
+
+### 8bj · 1 Jan 1920 · Taylor, William + Manerva Mother 73 — not Manerva Newnam
+
+**File:** [`sources/census/1920-owsley-ed88-sh14a-hh231-taylor-manerva.jpg`](sources/census/1920-owsley-ed88-sh14a-hh231-taylor-manerva.jpg)  
+**Source:** S547 · C740 · DOC110
+
+Rejected. Surname **Taylor**. Relationship **Mother**. Age **73** vs ~66.
+
+![1920 hh 231 Taylor Manerva](sources/census/1920-owsley-ed88-sh14a-hh231-taylor-manerva.jpg)
+
+### 8bk · 1 Jan 1920 · Magee, Cal + Dora wife 25 — not P001
+
+**File:** [`sources/census/1920-owsley-ed88-sh15a-hh248-magee-dora.jpg`](sources/census/1920-owsley-ed88-sh15a-hh248-magee-dora.jpg)  
+**Source:** S548 · C741 · DOC110
+
+Rejected. Husband **Cal Magee**. Age **25** vs ~48.
+
+![1920 hh 248 Magee Dora](sources/census/1920-owsley-ed88-sh15a-hh248-magee-dora.jpg)
+
+### 8bl · 1 Jan 1920 · Needham, Sally 63 — not Newman
+
+**File:** [`sources/census/1920-owsley-ed88-sh17b-hh310-needham-sally.jpg`](sources/census/1920-owsley-ed88-sh17b-hh310-needham-sally.jpg)  
+**Source:** S549 · C742 · DOC110
+
+Rejected. Surname **Needham**. Maggard **Minerva** daughter **17** is a different girl.
+
+![1920 Needham Sally / Maggard Minerva](sources/census/1920-owsley-ed88-sh17b-hh310-needham-sally.jpg)
+
+### 8bm · 1 Jan 1920 · Owsley ED 88 sheet 19 A header
+
+**File:** [`sources/census/1920-owsley-ed88-sh19a-hdr.jpg`](sources/census/1920-owsley-ed88-sh19a-hdr.jpg)  
+**Source:** S546 · C739 · DOC110
+
+Last populated Booneville / Town of Booneville sheet. Enumerator closeout. Leaf **1075** unused B.
+
+![1920 Owsley ED 88 sh 19A header](sources/census/1920-owsley-ed88-sh19a-hdr.jpg)
+
+### 8bn · 1 Jan 1920 · Owsley ED 88 unused 19 B
+
+**File:** [`sources/census/1920-owsley-ed88-unused-19b-hdr.jpg`](sources/census/1920-owsley-ed88-unused-19b-hdr.jpg)  
+**Source:** S546 · C739 · DOC110
+
+Blank B-side. Lines **51–100** empty.
+
+![1920 Owsley ED 88 unused 19B](sources/census/1920-owsley-ed88-unused-19b-hdr.jpg)
+
+### 8bo · 1 Jan 1920 · McIntosh, Millard + Dora wife 37 — not P001
+
+**File:** [`sources/census/1920-owsley-ed92-sh1b-hh27-mcintosh-dora.jpg`](sources/census/1920-owsley-ed92-sh1b-hh27-mcintosh-dora.jpg)  
+**Source:** S551 · C744 · DOC111
+
+Rejected. Husband **Millard McIntosh**. Age **37** vs ~48.
+
+![1920 hh 27 McIntosh Dora](sources/census/1920-owsley-ed92-sh1b-hh27-mcintosh-dora.jpg)
+
+### 8bp · 1 Jan 1920 · Baker, John + Minervey wife 50 — not Manerva Newnam
+
+**File:** [`sources/census/1920-owsley-ed92-sh5b-hh95-baker-minervey.jpg`](sources/census/1920-owsley-ed92-sh5b-hh95-baker-minervey.jpg)  
+**Source:** S552 · C745 · DOC111
+
+Rejected. Surname **Baker**. Age **50** vs ~66.
+
+![1920 Baker Minervey](sources/census/1920-owsley-ed92-sh5b-hh95-baker-minervey.jpg)
+
+### 8bq · 1 Jan 1920 · Owsley ED 92 sheet 7 B header
+
+**File:** [`sources/census/1920-owsley-ed92-sh7b-hdr.jpg`](sources/census/1920-owsley-ed92-sh7b-hdr.jpg)  
+**Source:** S550 · C743 · DOC111
+
+Last Buffalo Precinct No. **5** sheet. Enumerator **Fred Hubbard**, 16 January 1920.
+
+![1920 Owsley ED 92 sh 7B header](sources/census/1920-owsley-ed92-sh7b-hdr.jpg)
+
+### 8br · 1 Jan 1920 · Owsley ED 93 sheet 1 A header
+
+**File:** [`sources/census/1920-owsley-ed93-sh1a-hdr.jpg`](sources/census/1920-owsley-ed93-sh1a-hdr.jpg)  
+**Source:** S553 · C746 · DOC112
+
+Buck Creek Precinct No. **6**, ED **93**, sheet **1 A**. Enumerator **J.G. Easley** / **W.C. Dooley**, 2/3 January 1920.
+
+![1920 Owsley ED 93 sh 1A header](sources/census/1920-owsley-ed93-sh1a-hdr.jpg)
+
+### 8bs · 1 Jan 1920 · Marcum, Harvey + Manerva wife 54 — not Manerva Newnam
+
+**File:** [`sources/census/1920-owsley-ed93-sh6b-hh94-marcum-manerva.jpg`](sources/census/1920-owsley-ed93-sh6b-hh94-marcum-manerva.jpg)  
+**Source:** S554 · C747 · DOC112
+
+Rejected. Surname **Marcum**. Husband **Harvey** living. Age **54** vs ~66.
+
+![1920 hh 94 Marcum Manerva](sources/census/1920-owsley-ed93-sh6b-hh94-marcum-manerva.jpg)
+
+### 8bt · 1 Jan 1920 · McPherson, John + Dara wife 40 — not P001
+
+**File:** [`sources/census/1920-owsley-ed93-sh11a-hh178-mcpherson-dara.jpg`](sources/census/1920-owsley-ed93-sh11a-hh178-mcpherson-dara.jpg)  
+**Source:** S555 · C748 · DOC112
+
+Rejected. Diplomatic given name **Dara**. Husband **John McPherson**. Age **40** vs ~48.
+
+![1920 hh 178 McPherson Dara](sources/census/1920-owsley-ed93-sh11a-hh178-mcpherson-dara.jpg)
+
+### 8bu · 1 Jan 1920 · Owsley ED 93 unused 11 B
+
+**File:** [`sources/census/1920-owsley-ed93-unused-11b-hdr.jpg`](sources/census/1920-owsley-ed93-unused-11b-hdr.jpg)  
+**Source:** S553 · C746 · DOC112
+
+
+Blank B-side after the last populated Buck Creek sheet.
+
+![1920 Owsley ED 93 unused 11B](sources/census/1920-owsley-ed93-unused-11b-hdr.jpg)
+
+### 8bv · 21 Apr 1910 · Owsley ED 165 sheet 9 A header
+
+**File:** [`sources/census/1910-owsley-ed165-sh9a-hdr.jpg`](sources/census/1910-owsley-ed165-sh9a-hdr.jpg)  
+**Source:** S558 · C753 · DOC113
+
+Kentucky, Owsley, Mag Dist **2 Sturgeon**, ED **165**, sheet **9 A**. Enumerator **John F. Brewer**, 21 April 1910. Two sheets after Arthur’s house on 7 B.
+
+![1910 Owsley ED 165 sh 9A header](sources/census/1910-owsley-ed165-sh9a-hdr.jpg)
+
+### 8bw · 21 Apr 1910 · Dwelling 147/147 — Gilbert, Robert 29 m2 8; Josie 26 m1 8 1-0
+
+**File:** [`sources/census/1910-owsley-ed165-sh9a-hh147-gilbert-josie.jpg`](sources/census/1910-owsley-ed165-sh9a-hh147-gilbert-josie.jpg)  
+**Source:** S558 · C753 · C754 · DOC113
+
+Charles Fork Road. Couple alone. **PROBABLE** Henry’s 1900 daughter Josephine / 1916 Josephine Gilbert. Age 26 matches 19 Oct 1883; 1900 Oct 1882 is one year earlier and is not averaged.
+
+![1910 hh 147 Gilbert Josie](sources/census/1910-owsley-ed165-sh9a-hh147-gilbert-josie.jpg)
+
+### 8bx · 21 Apr 1910 · Dwelling 154/154 — Lynch, Benton 34; Laura wife 34
+
+**File:** [`sources/census/1910-owsley-ed165-sh9b-hh154-lynch-laura.jpg`](sources/census/1910-owsley-ed165-sh9b-hh154-lynch-laura.jpg)  
+**Source:** S559 · C759 · DOC113
+
+Given name **Laura** only. Surname ditto **Lynch**. A published transcript adds Newman in parentheses; that word is **not** on the original. **POSSIBLE** unmerged vs 1880 Laura B., aged four.
+
+![1910 hh 154 Lynch Laura](sources/census/1910-owsley-ed165-sh9b-hh154-lynch-laura.jpg)
+
+### 8by · 1920 (index) · Soundex G-416 — Gilbert, Robert 84, Owsley — clerk error
+
+**File:** [`sources/soundex/ky1920-g416-p2263-gilbert-robert-84-owsley.jpg`](sources/soundex/ky1920-g416-p2263-gilbert-robert-84-owsley.jpg)  
+**Source:** S560 · C755 · C756 · DOC114
+
+Vol **76** ED **92** sh **5** ln **96**. Enumerated with **Baker, Robert**, relationship **Father-in-law**. Age **84** vs the 1910 husband ~39. The original names **John**.
+
+![1920 Soundex G-416 Gilbert Robert 84](sources/soundex/ky1920-g416-p2263-gilbert-robert-84-owsley.jpg)
+
+### 8bz · 1 Jan 1920 · Baker, Robert + Gilbert, John FIL 84 — not the 1910 Robert
+
+**File:** [`sources/census/1920-owsley-ed92-sh5a-hh90-baker-gilbert-fil.jpg`](sources/census/1920-owsley-ed92-sh5a-hh90-baker-gilbert-fil.jpg)  
+**Source:** S561 · C756 · DOC115
+
+Stamped 5 A on a B-form. Line **96**: **Gilbert, John** father-in-law **84** Wd. Hard Rule 6: original over Soundex.
+
+![1920 hh 90 Baker Gilbert FIL](sources/census/1920-owsley-ed92-sh5a-hh90-baker-gilbert-fil.jpg)
 

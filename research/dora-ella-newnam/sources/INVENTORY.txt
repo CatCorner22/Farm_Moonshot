@@ -1192,3 +1192,119 @@ research/dora-ella-newnam/sources/census/1880-lee-ky-ed59-sheet43-p768-caroline-
   sha256: 2576411c3ad19a473acf3ae56412ee7e52155f05b3928d728b708940c7ee9134
   format: text extract, 951 bytes
   check: Pass 68 coverage; catalog 98; 1916 DC still unseen
+/workspace/research/dora-ella-newnam/sources/census/1920-owsley-ed88-sh1a-hdr.jpg
+  sha256: a0dd7e17c61764907ac8b55cae96e03de87f1218a26a27107be5afe05b8b0403
+  format: JPEG photo, 7584x933px
+  check: 1920 ED 88 sh 1A Booneville Precinct No. 1 header
+/workspace/research/dora-ella-newnam/sources/census/1920-owsley-ed88-sh14a-hdr.jpg
+  sha256: 0165e41cdbaa2825757a1ed8f99a24d95a55b00def76c8a733961152339a17f1
+  format: JPEG photo, 7616x933px
+  check: 1920 ED 88 sh 14A Booneville header (Taylor house)
+/workspace/research/dora-ella-newnam/sources/census/1920-owsley-ed88-sh14a-hh231-taylor-manerva.jpg
+  sha256: 419b74c40a610df69437371038b5afacbf934f8025fef40a6aa22b5d2f7c50ca
+  format: JPEG photo, 2590x586px
+  check: 1920 ED 88 sh 14A hh 231 Taylor William Manerva Mother 73 rejected
+/workspace/research/dora-ella-newnam/sources/census/1920-owsley-ed88-sh15a-hh248-magee-dora.jpg
+  sha256: f08b4c9e7e6876f1c7531526dea61d180d6c2d86156be2dedb85f63b8356770a
+  format: JPEG photo, 2601x958px
+  check: 1920 ED 88 sh 15A hh 248 Magee Cal Dora 25 rejected
+/workspace/research/dora-ella-newnam/sources/census/1920-owsley-ed88-sh17a-town-hdr.jpg
+  sha256: f5870b5e616a2c4092f2815ef8b9697f3947835ace69e841d04d1cbf82895b48
+  format: JPEG photo, 7632x927px
+  check: 1920 ED 88 sh 17A Town of Booneville header
+/workspace/research/dora-ella-newnam/sources/census/1920-owsley-ed88-sh17b-hh310-needham-sally.jpg
+  sha256: ac63d62acf86573e3c3303128eb88842470760c072e0c3205b910f2be84c45f4
+  format: JPEG photo, 2612x866px
+  check: 1920 ED 88 sh 17B Needham Sally 63 Maggard Minerva 17 rejected
+/workspace/research/dora-ella-newnam/sources/census/1920-owsley-ed88-sh19a-hdr.jpg
+  sha256: 53ae3ad4c0687f033061af61c35bf29a777f39c88aacadf4b409836773dc5c38
+  format: JPEG photo, 7616x930px
+  check: 1920 ED 88 sh 19A last populated Booneville
+/workspace/research/dora-ella-newnam/sources/census/1920-owsley-ed88-unused-19b-hdr.jpg
+  sha256: 062fefc6f39219e70b59cfd34621e5f04900d6dc54abcb8b06e62783f291fc76
+  format: JPEG photo, 7632x938px
+  check: 1920 ED 88 unused blank 19B
+/workspace/research/dora-ella-newnam/sources/census/1920-owsley-ed92-sh1b-hh27-mcintosh-dora.jpg
+  sha256: e7ec0fc7a79ae47c6eb111eb628eb8647345903b1bae1a59053f9b0c7a419a1a
+  format: JPEG photo, 2584x871px
+  check: 1920 ED 92 leaf 1157 hh 27 McIntosh Millard Dora 37 rejected
+/workspace/research/dora-ella-newnam/sources/census/1920-owsley-ed92-sh5b-hh95-baker-minervey.jpg
+  sha256: 0f2de76cc133009fd63c085b272637565bab1495728db1618e9f744f62839422
+  format: JPEG photo, 2584x781px
+  check: 1920 ED 92 sh 5B Baker John Minervey wife 50 rejected
+/workspace/research/dora-ella-newnam/sources/census/1920-owsley-ed92-sh7b-hdr.jpg
+  sha256: 45279832668d1bdec8a66a7d18306bcd4a976f116721a6eeb4cc14fab6686a3e
+  format: JPEG photo, 7600x933px
+  check: 1920 ED 92 sh 7B last Buffalo sheet
+/workspace/research/dora-ella-newnam/sources/census/1920-owsley-ed93-sh1a-hdr.jpg
+  sha256: 9933e05cf840a9a3c4a794b3cd627e37e1890a9ddec0695da762a0cf7ffe80e1
+  format: JPEG photo, 7584x930px
+  check: 1920 ED 93 sh 1A Buck Creek Precinct No. 6 header
+/workspace/research/dora-ella-newnam/sources/census/1920-owsley-ed93-sh6b-hh94-marcum-manerva.jpg
+  sha256: a1e96201895d48aaa17431d20534ed0dee8afa39be89da0ff388813982607359
+  format: JPEG photo, 2617x1310px
+  check: 1920 ED 93 sh 6B hh 94 Marcum Harvey Manerva 54 rejected
+/workspace/research/dora-ella-newnam/sources/census/1920-owsley-ed93-sh11a-hdr.jpg
+  sha256: 044768690f510354d1a5804e8c8e7a79a1c2f71dbda252269fcc2e3ae522e0ac
+  format: JPEG photo, 7616x930px
+  check: 1920 ED 93 sh 11A last populated Buck Creek
+/workspace/research/dora-ella-newnam/sources/census/1920-owsley-ed93-sh11a-hh178-mcpherson-dara.jpg
+  sha256: a00676af05add20fd93e4cff4bd8d3861a652e8d5df6adb59a292af24214f769
+  format: JPEG photo, 2590x955px
+  check: 1920 ED 93 sh 11A hh 178 McPherson John Dara 40 rejected
+/workspace/research/dora-ella-newnam/sources/census/1920-owsley-ed93-unused-11b-hdr.jpg
+  sha256: 82f312dc90cdba427166b741d18ac2dec1a40519a1434cb28b40cdcf6a384b40
+  format: JPEG photo, 7696x938px
+  check: 1920 ED 93 unused blank 11B
+/workspace/research/dora-ella-newnam/sources/indexes/owsley-1920-ed88-booneville-entire-pass69.txt
+  sha256: be01d3e170526b9a42993b041039e666ae1c28ddafe2c891ad0e5004460c8c4b
+  format: text extract, 1,045 bytes
+  check: 1920 Booneville ED 88 entire original nil Newman
+/workspace/research/dora-ella-newnam/sources/indexes/owsley-1920-ed92-buffalo-filmed-pass69.txt
+  sha256: fd93999a5d85642a3995c65345072ef532b86db267fd8a9ec6f3058086cae78e
+  format: text extract, 923 bytes
+  check: 1920 Buffalo ED 92 filmed original nil Newman; hh 1-13 residual
+/workspace/research/dora-ella-newnam/sources/indexes/owsley-1920-ed93-buckcreek-entire-pass69.txt
+  sha256: 25d1fe7dd87836dfceeeec039e58b8ed81854e37ccd83cfad840135e1639e302
+  format: text extract, 737 bytes
+  check: 1920 Buck Creek ED 93 entire original nil Newman
+/workspace/research/dora-ella-newnam/sources/indexes/pass69-coverage.txt
+  sha256: 165b688c50aa0bbe618d51b6f65e639d041cb9516757b3b7987aa7ecef3f32a1
+  format: text extract, 627 bytes
+  check: Pass 69 coverage; catalog 114; 1916 DC still unseen; ED 92 hh 1-13 residual
+/workspace/research/dora-ella-newnam/sources/census/1910-owsley-ed165-sh9a-hdr.jpg
+  sha256: db6b66e33e86f2660a2053e1baa940972ebf1cfa9cc952bfe0890ed21bf4be69
+  format: JPEG photo, 7896x1036px
+  check: 1910 ED 165 sh 9A Sturgeon header (Gilbert house)
+/workspace/research/dora-ella-newnam/sources/census/1910-owsley-ed165-sh9a-hh147-gilbert-josie.jpg
+  sha256: 53ac066f2a91697160ffda6cbf90775dcbc82207c5dd8ce1e6fac808e5f3dc99
+  format: JPEG photo, 2685x959px
+  check: 1910 ED 165 sh 9A hh 147 Gilbert Robert Josie 26
+/workspace/research/dora-ella-newnam/sources/census/1910-owsley-ed165-sh9b-hh154-lynch-laura.jpg
+  sha256: 72b6382d7fb7c0aa1349ffbf744aa2fc762b66d8dcf3ae193804d7bfe4a4e17c
+  format: JPEG photo, 2690x659px
+  check: 1910 ED 165 sh 9B hh 154 Lynch Benton Laura 34 Newman not on original
+/workspace/research/dora-ella-newnam/sources/census/1920-owsley-ed92-sh5a-hdr.jpg
+  sha256: 59f9b7004b94cea3bfa10f54dbfb7734dfc3664f030ec59fff2bb421959cfe54
+  format: JPEG photo, 7584x933px
+  check: 1920 ED 92 sh 5A Buffalo header (B-form stamped 5 A)
+/workspace/research/dora-ella-newnam/sources/census/1920-owsley-ed92-sh5a-hh90-baker-gilbert-fil.jpg
+  sha256: 7a0ee1c5c0373784f2e8339bd828dfebd26d018ee54ca569d06bf2510d6de0cb
+  format: JPEG photo, 2578x1481px
+  check: 1920 ED 92 sh 5A hh 90 Baker Robert Gilbert John FIL 84
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-g416-p2263-gilbert-robert-84-owsley.jpg
+  sha256: 98883b575dc344e5a811725b72e2f21b668a9f8a1e65546ec119eb2f9ef40497
+  format: JPEG photo, 1600x962px
+  check: 1920 Soundex G-416 Gilbert Robert 84 Owsley clerk error
+/workspace/research/dora-ella-newnam/sources/indexes/owsley-1910-gilbert-josie-pass70.txt
+  sha256: c7a673fecf50dfbb324a4f4603b4aaae0561d06cbd4b69afd9db35c57a9ea010
+  format: text extract, 1,299 bytes
+  check: 1910 Gilbert x Josie original plus Laura Lynch
+/workspace/research/dora-ella-newnam/sources/indexes/ky1920-g416-gilbert-pass70.txt
+  sha256: 5c851d62bee23460e449f8f35b537311fbfa4a1d570542417e05b19618f84840
+  format: text extract, 1,708 bytes
+  check: 1920 G-416 nil Robert ~39 Owsley; original John 84
+/workspace/research/dora-ella-newnam/sources/indexes/pass70-coverage.txt
+  sha256: d0d0ee4cc6b5e66a718a90300f8bbbcf14ed6900a36076ecc3339c895bea09f0
+  format: text extract, 989 bytes
+  check: Pass 70 coverage; catalog 114; 1916 DC still unseen; ED 92 hh 1-13 residual

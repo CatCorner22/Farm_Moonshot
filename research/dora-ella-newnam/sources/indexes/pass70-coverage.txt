@@ -1,0 +1,17 @@
+Pass 70 coverage — 30 Oct 2026 America/New_York
+B063 FAN of Josephine Gilbert (1916 extract d/o Henry H. Newnam × Mary J. Pardington;
+1900 Josephine 17 in Henry’s Sturgeon house).
+
+Opened:
+- 1910 original T624-498 leaf 884 ED 165 sh 9 A dw 147/147 Gilbert, Robert 29 m2 8
+  + Josie 26 m1 8 1-0 (couple alone). Leaf 885 sh 9 B dw 154/154 Lynch, Benton 34
+  + Laura 34 — Newman not on the original.
+- 1920 KY Soundex G-416 Robert window: nil Robert ~39 Owsley head; only Owsley
+  Robert card is age 84 FIL, original Gilbert John 84 in Baker, Robert’s house.
+- Owsley VS 1908a/b 1909a/b 1910a/b: nil Josephine/Josie Newnam × Gilbert.
+  Grant NEWNAM 10 Feb 1909 and Clabe/John/Mary Jane GILBERT are other people.
+
+Not opened: original 1916 DC vol 044 #21663; 1895 Owsley civil license (books burned);
+ED 92 hh 1–13; 1932 DC; 1840 bond; M123-3; T288.
+Catalog 114 / hasMore false / unchanged vs Pass 69.
+Do not promote C509. Do not mint C274–C280. Do not import sibling C281/S267.

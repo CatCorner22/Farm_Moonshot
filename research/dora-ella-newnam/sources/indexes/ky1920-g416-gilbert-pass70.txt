@@ -1,0 +1,38 @@
+Pass 70 — 1920 KY Soundex G-416 (Gilbert/Glover/Galbraith) + original check
+NARA M1563 reel 59 / IA soundex1920ky059
+Volume on the reel spine: G-400 A.A. – G-436 William
+Given-name sort; Gilbert/Glover/Galbraith interleaved. No djvu.txt (404); chOCR empty.
+
+Robert given-name window ~leaves 2262–2275 image-seen:
+  nil Robert Gilbert ~39 Owsley as a head.
+
+Leaf 2263: Gilbert, Robert  W 84  Kentucky  Owsley
+  vol 76  ED 92  sh 5  ln 96
+  Enumerated with: Baker, Robert
+  Relationship: Father-in-law
+  G-416 stamp. The only Owsley G-416 Robert card in this window.
+
+Original T625-594 / IA 14thcensusofpopu594unit leaf 1164
+  stamped Sheet 5 A, Buffalo Precinct No. 5, ED 92
+  printed form is a B-side (lines 51–100)
+  Enumerator Fred Hubbard, 13 January 1920
+  ln 86–96 hh 90/90:
+    Baker, Robert   Head   ~40  M
+    Louise[?]/Louisa[?]  Wife  41  M
+    Arthur son 23, Alley son 18, and younger children
+    ln 96 Gilbert, John  father-in-law  M W 84  Wd
+  Then hh 91/91 Brewer, Willie 62 + Emma 60
+       hh 92/92 Burns, Raphael 21 + Atty 22
+
+Soundex given-name Robert is a derivative error (copied the head Baker, Robert).
+Original given name John. Age 84 vs expected ~39 for the 1910 Robert. DISPROVED.
+
+Lewis given-name window ~2045–2065 image-seen:
+  nil vol 76 Lewis Gilbert 67 (ED 92 hh 14/14 Gilbert, Lewis 67 is a Soundex miss
+  of the original already read on leaf 1156; Louis variant residual).
+
+Other Robert Gilbert cards in the window DISPROVED as the 1910 Sturgeon husband:
+  Madison 24 / 52; Bell 67; Lewis Co. 45 × Nancy; Jefferson 19 soldier.
+
+USGenNet 1920 Owsley census HTML /census/1920/  HTTP 404 (compiled by Robert L.
+Smith is lookup-only). 1910 districts remain online.

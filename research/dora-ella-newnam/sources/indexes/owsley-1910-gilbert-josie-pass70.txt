@@ -1,0 +1,27 @@
+Pass 70 — 1910 Owsley ED 165 sheets 9 A–9 B (original)
+NARA T624-498 / IA 13thcensus1910po498unit
+leaf 884 = ED 165 sh 9 A; leaf 885 = ED 165 sh 9 B
+Magisterial District 2 Sturgeon, Owsley Co., KY
+Enumerator John F. Brewer, 21 April 1910 (sh 9 A header)
+Left margin sh 9 A: Charles Fork Road
+Left margin sh 9 B: Endee Road / Travelers Rest
+
+sh 9 A dw 147/147 (lines 45–46):
+  Gilbert, Robert  Head  M W 29  m2  8  Kentucky
+  Josie            Wife  F W 26  m1  8  1-0  Kentucky
+  Couple alone. Next hh 148/148 Begley, Ballard 23 + Agnes 23 + Bertha sister 19.
+
+sh 9 B dw 154/154 (lines 71–72+):
+  Lynch, Benton  Head  M W 34  m1 15  Kentucky
+  Laura          Wife  F W 34  m1 15  6-[5]  Kentucky
+  Della 13, Hobart 11, Pearl 4, Fanny 2, Ethel infant.
+  Given name Laura only. Surname ditto Lynch.
+  Kendrick sturg1910.html prints "Laura (Newman)" — Newman is a transcriber
+  annotation, not on the original. Kendrick m1 18y is a derivative slip (original 15).
+
+Same sheet dw 153/153 Lynch, Grant 34 + Polly A. 26; Ella daughter 1 3/12
+  — Ella is a child, not P001.
+
+Kendrick 147-147 GILBERT Robert 29 m2 8y KVK / Josie 26 m1 8y 1-0 KKK matched
+on names, ages, marriage columns, and 1-0. Parent-nativity cells not on the
+retained 9 A names crop; do not copy Kendrick KVK/KKK as original.
