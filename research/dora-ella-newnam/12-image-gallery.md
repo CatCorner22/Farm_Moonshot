@@ -35,6 +35,12 @@ Diplomatic transcriptions: [`08-transcriptions.md`](08-transcriptions.md). Citat
 | 14 | 1900 (index) | Rejected same-name | [Missouri S-350 — Thomas A. Stone, 24, Cooper County](sources/soundex/mo1900-s350-p1685-stone-thomas-a-24-cooper.jpg) |
 | 15 | 1900 (index) | Rejected same-name | [Missouri S-350 — Tom Stone, 21, Black](sources/soundex/mo1900-s350-p1727-stone-tom-black-21.jpg) |
 | 16 | 1900 (index) | Rejected same-name | [Missouri S-350 — Tom Stone, 31, Vernon County](sources/soundex/mo1900-s350-p1728-stone-tom-31-vernon.jpg) |
+| 62 | Jun 1900 | Negative search | [Bollinger Liberty ED 4 sheet 5 A header](sources/census/1900-bollinger-liberty-ed4-sh5a-hdr.jpg) |
+| 63 | Jun 1900 | Negative search | [Bollinger Liberty ED 4 sheet 7 B names (ED tail)](sources/census/1900-bollinger-liberty-ed4-sh7b-names-bot.jpg) |
+| 64 | 1900 (index) | Context | [Missouri C-563 — Jacob Conrad of Lorance](sources/soundex/mo1900-c563-p2985-jacob-lorance.jpg) |
+| 65 | 1900 (index) | Negative search | [Missouri C-563 — John after Jib; no Jesse](sources/soundex/mo1900-c563-p2998-john-after-jib-no-jesse.jpg) |
+| 66 | 1900 (index) | Rejected same-name | [Missouri N-550 — Bella, 25, St Louis](sources/soundex/mo1900-n550-p406-bella-stlouis-rejected.jpg) |
+| 67 | 1900 (index) | Rejected same-name | [Missouri N-550 — Belle, 29, Virginia, Kansas City](sources/soundex/mo1900-n550-p407-belle-kc-rejected.jpg) |
 | 17 | Apr 1910 | Negative search | [Kentucky N-550 — Millie / Missouri; no McCoy](sources/soundex/ky1910-n550-p329-millie-missouri.jpg) |
 | 18 | Apr 1910 | Negative search | [Kentucky N-550 — Monroe; still no McCoy](sources/soundex/ky1910-n550-p330-monroe-no-mccoy.jpg) |
 | 19 | Apr 1910 | Rejected same-name | [Kentucky N-550 — Sam / Samuel, none is the husband](sources/soundex/ky1910-n550-p342-sam-samuel-not-p002.jpg) |
@@ -248,6 +254,66 @@ Fails race, age, and household. Not Tom A. of 1920 Arkansas.
 Coal-miner boarder, born May 1869. No wife, no daughters matching 1920. Not merged.
 
 ![Missouri S-350 — Tom Stone, 31, Vernon County](sources/soundex/mo1900-s350-p1728-stone-tom-31-vernon.jpg)
+
+### 62 · Jun 1900 · Bollinger Liberty ED 4 sheet 5 A header
+
+**Role:** Negative search  
+**File:** [`sources/census/1900-bollinger-liberty-ed4-sh5a-hdr.jpg`](sources/census/1900-bollinger-liberty-ed4-sh5a-hdr.jpg)  
+**Source:** S271 · C290
+
+Supervisor 12, ED 4, sheet 5 A, enumerator James R. Hughey. First sheet after the pass-54 close of sheets 1–4. The name column has Null, Baker, Davis, Crites — no Conrad, Sullivan, or Newman.
+
+![Bollinger Liberty ED 4 sheet 5 A header](sources/census/1900-bollinger-liberty-ed4-sh5a-hdr.jpg)
+
+### 63 · Jun 1900 · Bollinger Liberty ED 4 sheet 7 B names (ED tail)
+
+**Role:** Negative search  
+**File:** [`sources/census/1900-bollinger-liberty-ed4-sh7b-names-bot.jpg`](sources/census/1900-bollinger-liberty-ed4-sh7b-names-bot.jpg)  
+**Source:** S271 · C290 · C294
+
+Last sheet of Liberty ED 4. Myers, Day, Huffstetter, Baker, Crites, Barret. Child Dorse E. Baker (November 1898, age 1) is not P001. The next PDF page is ED 5 sheet 1 A.
+
+![Bollinger Liberty ED 4 sheet 7 B names (ED tail)](sources/census/1900-bollinger-liberty-ed4-sh7b-names-bot.jpg)
+
+### 64 · 1900 (index) · Missouri C-563 — Jacob Conrad of Lorance
+
+**Role:** Context  
+**File:** [`sources/soundex/mo1900-c563-p2985-jacob-lorance.jpg`](sources/soundex/mo1900-c563-p2985-jacob-lorance.jpg)  
+**Source:** S272 · C292
+
+Inverted Soundex card. Conrad, Jacob I, Bollinger Lorance, born December 1835, age 64. Local FAN of the 1910 Liberty Jesse Conrad household. Other members Maud 22 and a child 19 — no Jesse, no infant Letha.
+
+![Missouri C-563 — Jacob Conrad of Lorance](sources/soundex/mo1900-c563-p2985-jacob-lorance.jpg)
+
+### 65 · 1900 (index) · Missouri C-563 — John after Jib; no Jesse
+
+**Role:** Negative search  
+**File:** [`sources/soundex/mo1900-c563-p2998-john-after-jib-no-jesse.jpg`](sources/soundex/mo1900-c563-p2998-john-after-jib-no-jesse.jpg)  
+**Source:** S272 · C291
+
+The Conrad given-name run jumps from Jib (p.2997) to John (p.2998). No Jesse, Jessie, or Jess head card in 1900 Missouri Soundex C-563.
+
+![Missouri C-563 — John after Jib; no Jesse](sources/soundex/mo1900-c563-p2998-john-after-jib-no-jesse.jpg)
+
+### 66 · 1900 (index) · Missouri N-550 — Bella, 25, St Louis
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/mo1900-n550-p406-bella-stlouis-rejected.jpg`](sources/soundex/mo1900-n550-p406-bella-stlouis-rejected.jpg)  
+**Source:** S273 · C293
+
+Individual card. Newman, Bella, about 1874, age 25, St Louis, Laclede Avenue 3751. Not the 1910 Liberty widow (age and city fail).
+
+![Missouri N-550 — Bella, 25, St Louis](sources/soundex/mo1900-n550-p406-bella-stlouis-rejected.jpg)
+
+### 67 · 1900 (index) · Missouri N-550 — Belle, 29, Virginia, Kansas City
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/mo1900-n550-p407-belle-kc-rejected.jpg`](sources/soundex/mo1900-n550-p407-belle-kc-rejected.jpg)  
+**Source:** S273 · C293
+
+Individual card. Newman, Belle, February 1871, age 29, born Virginia, Jackson County, Kansas City, Broadway 1021. Not the 1910 Liberty widow (birthplace and city fail).
+
+![Missouri N-550 — Belle, 29, Virginia, Kansas City](sources/soundex/mo1900-n550-p407-belle-kc-rejected.jpg)
 
 ## 1910 — Soundex, Peebles test, and Sturgeon ED 99
 

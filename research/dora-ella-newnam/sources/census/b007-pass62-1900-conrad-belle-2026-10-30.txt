@@ -1,0 +1,65 @@
+Pass 62 — 1900 Letha/Conrad/Belle (B007) + C-563 / N-550
+=========================================================
+Date: 30 Oct 2026 (America/New_York)
+
+Merge check (user request this turn):
+  git fetch origin main → origin/main = f00adcd (PR #26 squash).
+  HEAD de508bf is 50 ahead / 0 behind. merge-tree empty. No conflicts.
+
+Population T623-839 (retained /tmp/t623-839.pdf)
+  Liberty ED 4 remaining sheets (C260 already closed sh 1 A–4 B):
+    p1099 = ED 4 sh 5 A (James R. Hughey)
+    p1100 = ED 4 sh 5 B
+    p1101 = ED 4 sh 6 A
+    p1102 = ED 4 sh 6 B
+    p1103 = ED 4 sh 7 A
+    p1104 = ED 4 sh 7 B  ← last Liberty ED 4 sheet
+    p1105 = ED 5 sh 1 A (already C265)
+  Name columns of sh 5 A–7 B visually read (120 dpi pdftoppm).
+  Nil Conrad / Sullivan / Newman / Newnam / Letha / Viola household.
+  Child Doras rejected vs P001 (she is at Sturgeon KY the same day, C011):
+    Crites, Dora A dau May 1900 age 1/12 (sh 5 B)
+    Mouser, Dora dau Dec 1895 age 4 (sh 5 B)
+    Baker, Dora dau Feb 1885 age 15 (sh 6 A)
+    Baker, Dorse E dau Nov 1898 age 1 (sh 7 B)
+  Moose, Belle wife Sep 1869 age 30 (sh 6 B) is not Newman Belle (C285).
+
+1900 MO Soundex T1055 roll 54 (IA soundex1900mo054, 167 MB / 4195 pp)
+  Volume: C-552 Duey — C-600 G. Local /tmp/sndx1900/mo054.pdf
+  C-563 Conrad given-name map (inverted cards):
+    ~p2800 Ada; ~p2850 Charles P.; ~p2900 Francis; ~p2950 Gustave
+    J-window every card 2983–3003:
+      Jacob A cont.; Jacob D (Lawrence Aurora IN); **Jacob I/J Bollinger Lorance**
+        (vol 7 ED 6 sh 17 ln 5, b. Dec 1835 age 64 MO) — Maud? wife Apr 1878
+        age 22 + child Oct 1880 age 19. No Jesse. No infant Letha.
+      Jake (Johnson); James divider; James (Laclede / Buchanan / Andrew / James A)
+      Jasper (St Louis); Jehile/Jchile N (Harrison KS); Jib (St Louis Switzerland)
+      **John starts p2998.** No Jesse / Jessie / Jess head card in the Ja–Jo gap.
+
+1900 MO Soundex T1055 (IA soundex1900mo200, 156 MB / 3446 pp)
+  Volume: N-520/524 S.D. — N-635 Maggie. Includes N-550 Newman.
+  Belle/Bella window (every card ~400–410):
+    August C (Cedar); B.F. (Caldwell, Black, age 25); B. James (Nodaway)
+    Balthasar Naumann (St Louis Germany 67)
+    **Bella** individual, vol 101 ED 322 sh 10 ln 78, ~1874 age 25 MO, St Louis
+      Laclede Ave 3751 — rejected vs C285 (city; age 25→35 vs 30)
+    **Belle** individual, vol 42 ED 26 sh 4 ln 12, Feb 1871 age 29 VA, Jackson
+      Kansas City Broadway 1021 — rejected vs C285 (VA; KC; age 29→39 vs 30)
+    Then Ben (St Louis 21). No Bollinger Belle ~20 head or individual card.
+
+1910 T624-769 p435 re-read @160 dpi (dw 25/26):
+  Conrad, Jesse Head M W 37 M1 15 MO/MO/MO farmer
+  Wife F W 28 M1 1/1 MO/MO/MO
+  Mary dau ~3
+  male child ~3 (given name uncertain) — extra person vs DOC023 first pass
+  Sullivan, Letha Nurse F W 12 MO / Indiana / MO
+  Years-married 15 (head) vs 1/1 on wife is internally inconsistent.
+
+Indiana 1900 C-563: IA soundex1900in* collection (203 items) begins at
+  soundex1900in100 = H-500. C-rolls are not in the uploaded set.
+
+B045: kygenweb.net/lee/wills/ re-opened (HTML 6435 B). No new Samuel P. Newnam
+  will row (same residual as L346).
+B047: M1509 rolls still unread.
+
+Local working crops /tmp/b007-pass62/ and /tmp/sndx1900/{c563,jesse,jwin,belle,bband,mo054map,mo200map} NOT committed.

@@ -239,3 +239,21 @@ research/dora-ella-newnam/sources/census/1900-greene-ed43-sh1a-names.jpg
 research/dora-ella-newnam/sources/census/1900-greene-ed43-sh16a-names.jpg
   sha256: 234238983c7b957f443315b6e8cdbcc6387696fe55f3517c790882ccc85e4d34
   format: JPEG name-column crop
+research/dora-ella-newnam/sources/census/1900-bollinger-liberty-ed4-sh5a-hdr.jpg
+  sha256: a0639896f30bb2f3c78542e84552166bc6d551c073c25627aa539a7854ca0d2c
+  format: JPEG header crop, T623-839 p.1099
+research/dora-ella-newnam/sources/census/1900-bollinger-liberty-ed4-sh7b-names-bot.jpg
+  sha256: 306b168c1b9c57b5c7143f051e21160bfb11a63fff70c93bd80de017c867b7c4
+  format: JPEG name-column crop, T623-839 p.1104
+research/dora-ella-newnam/sources/soundex/mo1900-c563-p2985-jacob-lorance.jpg
+  sha256: b5f6ffb640634325e76a0574cf813e45d0a4bcf2bb3a2f687d57e780e581d30b
+  format: JPEG inverted Soundex card
+research/dora-ella-newnam/sources/soundex/mo1900-c563-p2998-john-after-jib-no-jesse.jpg
+  sha256: 0748f46f573a31174ba948b062f1bc9de066afd426af0fe389d12eac877cce43
+  format: JPEG inverted Soundex card
+research/dora-ella-newnam/sources/soundex/mo1900-n550-p406-bella-stlouis-rejected.jpg
+  sha256: 6c6cbbcd8f7582e86c48c03ca468b80e5da81056fc59bf0db603fa96aa39e546
+  format: JPEG inverted Soundex card
+research/dora-ella-newnam/sources/soundex/mo1900-n550-p407-belle-kc-rejected.jpg
+  sha256: 5089b9afcfbe3ac681849e4f1826da4145c04f67f320a36f1b8f3242f8dfcaee
+  format: JPEG inverted Soundex card

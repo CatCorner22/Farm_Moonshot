@@ -133,6 +133,48 @@ PLATES: list[dict] = [
         caption="Coal-miner boarder, born May 1869. No wife, no daughters matching 1920. Not merged.",
         source="S085 · C092",
     ),
+    dict(
+        n=62, date="Jun 1900", year=1900, role="negative",
+        path="census/1900-bollinger-liberty-ed4-sh5a-hdr.jpg",
+        title="Bollinger Liberty ED 4 sheet 5 A header",
+        caption="Supervisor 12, ED 4, sheet 5 A, enumerator James R. Hughey. First sheet after the pass-54 close of sheets 1–4. The name column has Null, Baker, Davis, Crites — no Conrad, Sullivan, or Newman.",
+        source="S271 · C290",
+    ),
+    dict(
+        n=63, date="Jun 1900", year=1900, role="negative",
+        path="census/1900-bollinger-liberty-ed4-sh7b-names-bot.jpg",
+        title="Bollinger Liberty ED 4 sheet 7 B names (ED tail)",
+        caption="Last sheet of Liberty ED 4. Myers, Day, Huffstetter, Baker, Crites, Barret. Child Dorse E. Baker (November 1898, age 1) is not P001. The next PDF page is ED 5 sheet 1 A.",
+        source="S271 · C290 · C294",
+    ),
+    dict(
+        n=64, date="1900 (index)", year=1900, role="context",
+        path="soundex/mo1900-c563-p2985-jacob-lorance.jpg",
+        title="Missouri C-563 — Jacob Conrad of Lorance",
+        caption="Inverted Soundex card. Conrad, Jacob I, Bollinger Lorance, born December 1835, age 64. Local FAN of the 1910 Liberty Jesse Conrad household. Other members Maud 22 and a child 19 — no Jesse, no infant Letha.",
+        source="S272 · C292",
+    ),
+    dict(
+        n=65, date="1900 (index)", year=1900, role="negative",
+        path="soundex/mo1900-c563-p2998-john-after-jib-no-jesse.jpg",
+        title="Missouri C-563 — John after Jib; no Jesse",
+        caption="The Conrad given-name run jumps from Jib (p.2997) to John (p.2998). No Jesse, Jessie, or Jess head card in 1900 Missouri Soundex C-563.",
+        source="S272 · C291",
+    ),
+    dict(
+        n=66, date="1900 (index)", year=1900, role="rejected",
+        path="soundex/mo1900-n550-p406-bella-stlouis-rejected.jpg",
+        title="Missouri N-550 — Bella, 25, St Louis",
+        caption="Individual card. Newman, Bella, about 1874, age 25, St Louis, Laclede Avenue 3751. Not the 1910 Liberty widow (age and city fail).",
+        source="S273 · C293",
+    ),
+    dict(
+        n=67, date="1900 (index)", year=1900, role="rejected",
+        path="soundex/mo1900-n550-p407-belle-kc-rejected.jpg",
+        title="Missouri N-550 — Belle, 29, Virginia, Kansas City",
+        caption="Individual card. Newman, Belle, February 1871, age 29, born Virginia, Jackson County, Kansas City, Broadway 1021. Not the 1910 Liberty widow (birthplace and city fail).",
+        source="S273 · C293",
+    ),
     # --- 1910 Soundex / Miracode ---
     dict(
         n=17, date="Apr 1910", year=1910, role="negative",

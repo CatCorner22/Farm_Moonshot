@@ -534,12 +534,41 @@ Pass 2: Head surname on dw **158/160** matches the MIL line **Estes** (same hand
 - Stamp: Supervisor **11**, ED **4**, Sheet **3 A**; enumerator **Arthur F. McClain**; **14 Apr 1910**
 
 ### Diplomatic (dwelling 25/26 only)
-> **25/26 Conrad, Jesse[?]** — Head, M, W, ~**37**, M1, **15**, b. Missouri  
-> **[wife]** — Wife, ~**26**, M1, **1/1**  
-> **Mary** — Daughter, ~**3**  
-> **Sullivan, Letha** — **Nurse**, F, W, **12**, b. Missouri, father **Indiana**
+> **25/26 Conrad, Jesse** — Head, M, W, **37**, M1, **15**, b. Missouri, parents Missouri, farmer  
+> **[wife]** — Wife, F, W, **28**, M1, **1/1**, b. Missouri  
+> **Mary** — Daughter, F, W, ~**3**, b. Missouri  
+> **[male given name uncertain]** — Son[?], M, W, ~**3**, b. Missouri  
+> **Sullivan, Letha** — **Nurse**, F, W, **12**, b. Missouri, father **Indiana**, mother Missouri
 
 Pass 2: Sheet stamp is **3 A**, not **8 A**. Relation **Nurse** (not servant). → **C244** / **C286**.
+Pass 3 (160 dpi): extra male child ~**3**; wife age **28**; head years-married **15** vs wife **1/1** is internally inconsistent. → **C295**.
+
+## DOC024 — 1900 U.S. census, Bollinger Co. MO, Liberty ED 4 sh 5 A–7 B
+- Images: `sources/census/1900-bollinger-liberty-ed4-sh5a-hdr.jpg` SHA-256 `a0639896f30bb2f3c78542e84552166bc6d551c073c25627aa539a7854ca0d2c`; `…-sh7b-names-bot.jpg` `306b168c1b9c57b5c7143f051e21160bfb11a63fff70c93bd80de017c867b7c4`
+- Pages: T623-839 PDF pp **1099–1104**; enumerator **James R. Hughey**; 11–16 Jun 1900
+- Provenance: **Image seen** 30 Oct 2026 (120 dpi pdftoppm)
+
+Stamp map: p.**1099** sh **5 A**; p.**1100** sh **5 B**; p.**1101** sh **6 A**; p.**1102** sh **6 B**; p.**1103** sh **7 A**; p.**1104** sh **7 B** (last ED **4** sheet). **Nil** Conrad / Sullivan / Newman / Newnam / Letha. → **C290**.
+
+## DOC025 — 1900 MO Soundex C-563, Conrad J-window
+- Images: `sources/soundex/mo1900-c563-p2985-jacob-lorance.jpg` SHA-256 `b5f6ffb640634325e76a0574cf813e45d0a4bcf2bb3a2f687d57e780e581d30b`; `…-p2998-john-after-jib-no-jesse.jpg` `0748f46f573a31174ba948b062f1bc9de066afd426af0fe389d12eac877cce43`
+- Reel: T1055 roll **54**, IA `soundex1900mo054` pp **2983–3003**
+
+### Diplomatic (p.2985)
+> **C563 Conrad, Jacob I[?]** — Head · vol **7** ED **6** sh **17** ln **5** · W M Dec **1835** **64** Missouri · Bollinger · Lorance Twp  
+> **Conrad, Maud[?]** — W · Apr **1878** **22** Missouri  
+> **[child]** — Oct **1880** **19** Missouri
+
+No Jesse. No infant Letha. John cards begin p.**2998**. → **C291** / **C292**.
+
+## DOC026 — 1900 MO Soundex N-550, Belle/Bella
+- Images: `sources/soundex/mo1900-n550-p406-bella-stlouis-rejected.jpg` SHA-256 `6c6cbbcd8f7582e86c48c03ca468b80e5da81056fc59bf0db603fa96aa39e546`; `…-p407-belle-kc-rejected.jpg` `5089b9afcfbe3ac681849e4f1826da4145c04f67f320a36f1b8f3242f8dfcaee`
+- Reel: IA `soundex1900mo200` pp **406–407**
+
+> **N550 Newman, Bella** — Individual · vol **101** ED **322** sh **10** ln **78** · W · ~**1874** **25** Missouri · St Louis · Laclede Ave **3751**  
+> **N550 Newman, Belle** — Individual · vol **42** ED **26** sh **4** ln **12** · W F Feb **1871** **29** Virginia · Jackson · Kansas City · Broadway **1021**
+
+Both rejected vs 1910 Liberty **Newman, Belle** **30** Wd (**C285**). → **C293**.
 
 ## DOC009 — 1910 TN Soundex N-550 McCoy window (nil)
 Handwritten family/individual cards n2461–n2469. Sequence after Mary C (n2460): Mary D 49 Jefferson (son Layton 11); Mary M 70 Hamilton; Mek. G 50 Cheatham (Florence 19, John 17, General 16, Frances 13, William 10, Doria 6, Luther 1½); Melvin 3½ Giles (gs of Deacon George W); Melvin 54 Giles (SIL of same); Minerva 80 Robertson (gds Lona Neely, Nellie Erwin); Minnie 21 Roane (with Sam P. Sparks); Mitchell 27 Hardin (Ollie P 25, Gladys 4, Burl W 3, Royal E 1 9/12). **No McCoy.** SHA-256 n2463 `23610f8aa4c159b1b554ed1786d11f57d2f56f8a2e8994f7289ae7bd02dfca53`; n2469 `340489566090880388fa6b81ca5751c5944dcaf56a7b44f70fe560788f308586`.
