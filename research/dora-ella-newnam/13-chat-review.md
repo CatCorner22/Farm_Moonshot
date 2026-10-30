@@ -861,3 +861,17 @@ This fold uses **C472 / L424 / S414**. Next unused **C473+ / L425+ / S415+ / DOC
 
 Catalog **not** re-listed this pass (still **69** after the Pass 43 nested fold). **No** new independently image-backed P001 1900–1926 residence. Original-image work this pass: Owsley **279A** Silas Ratliff **8/12** (**C474 / DOC052**); Bawden **277A–296A** every-person (**C473**). Residual B055: visual given-name Silas on stamped **296B–321**. Skip **C221–C277 / L245–L339 / S259–S265**. Do **not** steal **C278–C280 / L340–L342 / S266**. Next unused **C477+ / L429+ / S418+ / DOC053+**.
 
+# Pass 45 listing (30 Oct 2026, America/New_York)
+
+`list-cloud-agents` (`includeArchived: true`, limit 200) at spawn → **71** / `hasMore: false`. Nested [Review all cloud chats](bc-47d4740e-0026-5d85-a28b-0d525c60af4e) spawned after that listing. Independent `gh pr view 26`: **MERGED** (`f00adcd`; last commit **`2147e1da`** Pass **59**). Highest sibling IDs now **C280 / L342 / S266**. Skip-reel **C221–C280 / L245–L342 / S259–S266**. **No** new independently image-backed P001 1900–1926 residence. Original-image work this pass: Owsley **298A** Wilson Silas **6** (**C478 / DOC054**); **309B** Phillips Silas **15** (**C479 / DOC055**); **320A** Bowman **Squire 24** (Cyrus withdrawn, **C480 / DOC053**); Flannigan parts **1–5** (**C477**). **B055 done** (**C483**). This listing uses **C484 / L436 / S423**.
+
+# Pass 45 nested fold (later 30 Oct 2026, America/New_York) — [Review all cloud chats](bc-47d4740e-0026-5d85-a28b-0d525c60af4e) landed
+
+Transcript searched, not linear-read. Nested catalog **71** / `hasMore: false` / RUNNING **4** · IDLE **62** · ERROR **5**. Working tree **not** edited by the nested reviewer. **No** new independently image-backed P001 1900–1926 residence. Chain unchanged: 1900 Sturgeon → 1910 hole → 1917 Ola → 1926 death. **C338 Rhodes** stands. PR **#26** **MERGED** confirmed (`2147e1da` / `f00adcd`). Skip **C221–C280 / L245–L342 / S259–S266**. Pass 59 Greene Stone-nils remain sibling skip-reel (C278–C280), not re-filed here.
+
+Independent parent re-list after the five Visual Silas PDF locals: **77** / `hasMore: false`. NEW vs 71: [Visual Silas PDF 384-393](bc-b8706b04-a903-5edf-8d4b-efd60a55e065), [Visual Silas PDF 394-403](bc-15ecaad8-0d95-5e2c-a227-c2ba2e58ac1d), [Visual Silas PDF 404-413](bc-d1cb279d-bfdd-5513-b1d4-27208dc05342), [Visual Silas PDF 414-423](bc-518d700c-0822-50d8-85f4-855c36f17392), [Visual Silas PDF 424-433](bc-86f103f0-efbe-5f79-b358-e577cacd83ff), plus the fold Task. This fold uses **C485 / L438 / S424**.
+
+# Pass 46 listing (30 Oct 2026, America/New_York)
+
+Catalog still **77** from the Pass 45 nested fold re-list. **No** new independently image-backed P001 1900–1926 residence. Original-image work this pass: Owsley **299B** Harrison Newman **33** + **Elias 8** (**C486 / DOC056**). Flannigan Elias **3** withdrawn. Identity with P004 **POSSIBLE**, unmerged (**C487**). **B057 done** as to the 1850 original. Skip **C221–C280 / L245–L342 / S259–S266**. Next unused **C491+ / L441+ / S427+ / DOC057+**.
+

@@ -532,4 +532,58 @@ research/dora-ella-newnam/sources/census/1880-lee-ky-ed59-sheet43-p768-caroline-
   sha256: 2718c777625f9cca18e72b49c18485fa8e549c550b5d8175568996c590b46641
   format: JPEG photo, 1876x1023px
   check: Silas Ratliff 8/12 — not Silas Gray
+/workspace/research/dora-ella-newnam/sources/census/1850-owsley-pdfp424-nc.jpg
+  sha256: 7ba5721f53ae95e14859e0156b73e7141ddebcf82721f0364586856581947178
+/workspace/research/dora-ella-newnam/sources/census/1850-owsley-pdfp425-nc.jpg
+  sha256: 166d9b5302b825e907321dabebe7aba3de6d684bb0eee27e07a484083994b8e2
+/workspace/research/dora-ella-newnam/sources/census/1850-owsley-pdfp426-nc.jpg
+  sha256: 22ecd2c5e39806c203661f12ded14573d25e8bba164c3a6ae8827a85c5b4d71d
+/workspace/research/dora-ella-newnam/sources/census/1850-owsley-pdfp427-nc.jpg
+  sha256: 59597028e29c92a126b89be4289305e878e30cf3f29d139b2528a6ac9663e159
+/workspace/research/dora-ella-newnam/sources/census/1850-owsley-pdfp428-nc.jpg
+  sha256: dfa65d7f09aacd19876f4fd1e717d54acc3fcb03975ebce624b86f283bd6b16b
+/workspace/research/dora-ella-newnam/sources/census/1850-owsley-pdfp429-nc.jpg
+  sha256: aefb6ec57ab36fc3463c1cd5abb7c249c936fc764c90948fbb6d084afc5af491
+/workspace/research/dora-ella-newnam/sources/census/1850-owsley-pdfp430-nc.jpg
+  sha256: 0a7098dbb5adfbc2f92cebf3467f0b98cf27f85af8a35f380d294a4ce12ccd9f
+/workspace/research/dora-ella-newnam/sources/census/1850-owsley-pdfp431-nc.jpg
+  sha256: f38d92fb3a2ba356f2a03b2ae5936e9e562a05c8d770219fee677f74fba0d27a
+/workspace/research/dora-ella-newnam/sources/census/1850-owsley-pdfp432-nc.jpg
+  sha256: 4bff518e0a2bc18f8344c4959bcd2da9c27ccfaa15457bb6e610c80cb30cd6a3
+/workspace/research/dora-ella-newnam/sources/census/1850-owsley-pdfp433-nc.jpg
+  sha256: 6b397d46e2264a8d0cca9080931869d4cd7a74d2ae31169b97b28ef6de92dcc3
+  check: Owsley 316B-321A name columns; Sylvania 9; Squire 24
+/workspace/research/dora-ella-newnam/sources/indexes/1850-owsley-flannigan-parts1-5.htm
+  sha256: 69bb92978b44f05f51935a2cb4980d819b29c523413bc942669793565a3bff3b
+  check: Flannigan parts 1-5 concat; three given-name Silas; Harrison Newman Elias 3 is original 8
+/workspace/research/dora-ella-newnam/sources/census/1850-owsley-pdfp389-st298A-hdr.jpg
+  sha256: f451d2db12a431a9f35848961f196218fa5641b1a38357f276d47b8b3eca14fc
+  format: JPEG photo, 3790x792px
+/workspace/research/dora-ella-newnam/sources/census/1850-owsley-pdfp389-st298A-wilson-silas.jpg
+  sha256: 098caa1b135c3735c9825e1643753646809f9905c238fae885b32a841d93bac3
+  format: JPEG photo, 4264x1782px
+  check: Silas Wilson 6 — not Silas Gray
+/workspace/research/dora-ella-newnam/sources/census/1850-owsley-pdfp410-st309B-hdr.jpg
+  sha256: d31d6e57bdc8a4f3e5e317fde836c101310b905dcfdfe090af4766f3e916a25f
+  format: JPEG photo, 3696x798px
+/workspace/research/dora-ella-newnam/sources/census/1850-owsley-pdfp410-st309B-phillips-silas.jpg
+  sha256: c41897fb504ee2cb31dac0c886d00a8cddb8360be83bd256e00ecc013519ba5c
+  format: JPEG photo, 4158x2243px
+  check: Silas Phillips 15 — not Silas Gray
+/workspace/research/dora-ella-newnam/sources/census/1850-owsley-pdfp431-st320A-bowman-squire.jpg
+  sha256: 1555dad48ef96c49d9043ab0b71813c13cf402c18fd947d18081a1421a7f971e
+  format: JPEG photo, 4288x1776px
+  check: Squire Bowman 24 — Cyrus withdrawn
+/workspace/research/dora-ella-newnam/sources/census/1850-owsley-pdfp391-st299A-hdr.jpg
+  sha256: caa520b88ecea7e6843fee9b4cc1b033f1431c4945a3257aa5a803b3792f8c37
+  format: JPEG photo, 5556x1182px
+  check: stamp 299, 4 Sept 1850
+/workspace/research/dora-ella-newnam/sources/census/1850-owsley-pdfp392-st299B-hdr.jpg
+  sha256: 0ab32397b0d463db3e647c0f2d9d41d53b9869531e406c2b00e3ffaae03c1c1c
+  format: JPEG photo, 5377x1129px
+  check: 5 Sept 1850 verso
+/workspace/research/dora-ella-newnam/sources/census/1850-owsley-pdfp392-st299B-harrison-newman.jpg
+  sha256: a8d8291b7c573cd4faab366ee452b2bc2461b88421f4930182e1a3f7c8bde808
+  format: JPEG photo, 4302x2039px
+  check: Harrison Newman 33 + Elias 8 — Flannigan age 3 withdrawn
 

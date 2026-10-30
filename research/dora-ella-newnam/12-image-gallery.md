@@ -1144,3 +1144,55 @@ Dwelling **33/33**: Reubin Ratliff, 28, farmer; Sarah, 24; Mary, 5; Lucinda, 4; 
 
 ![1850 Owsley 279A — Silas Ratliff 8/12](sources/census/1850-owsley-pdfp349-st279A-ratliff.jpg)
 
+## Pass 45 additions
+
+### 7w · 4 Sept 1850 · Owsley stamped 298A — Silas Wilson, 6 (not Silas Gray)
+
+**Role:** FAN (negative control; DISPROVED as Silas Gray)  
+**File:** [`sources/census/1850-owsley-pdfp389-st298A-wilson-silas.jpg`](sources/census/1850-owsley-pdfp389-st298A-wilson-silas.jpg)  
+**Source:** S420 · C478 · DOC054
+
+Dwelling **289/289**: William Wilson, 40, farmer; Sally, 38; Larkin, 20; Henry, 15; Woodson, 12; Malinda, 8; **Silas, 6**; Jane, 5. Flannigan indexed this house as **WILDER**. The original surname is **Wilson**. He is not Silas Gray.
+
+![1850 Owsley 298A header](sources/census/1850-owsley-pdfp389-st298A-hdr.jpg)
+
+![1850 Owsley 298A — Silas Wilson 6](sources/census/1850-owsley-pdfp389-st298A-wilson-silas.jpg)
+
+### 7x · 20 Sept 1850 · Owsley stamped 309B — Silas Phillips, 15 (not Silas Gray)
+
+**Role:** FAN (negative control; DISPROVED as Silas Gray)  
+**File:** [`sources/census/1850-owsley-pdfp410-st309B-phillips-silas.jpg`](sources/census/1850-owsley-pdfp410-st309B-phillips-silas.jpg)  
+**Source:** S421 · C479 · DOC055
+
+Dwelling **437/437**: B. F. Phillips, 44, blacksmith, Virginia; Susan, 41; John, 21; Nancy, 19; Zachariah, 17; **Silas, 15**; James, 13; Eliza, 11; Benjamin, 9; Susan, 7; Rody, 5; Thomas, 3; Henry, 2. Capital **S** matches **Susan** on the page. He is not Giles and not Silas Gray.
+
+![1850 Owsley 309B header](sources/census/1850-owsley-pdfp410-st309B-hdr.jpg)
+
+![1850 Owsley 309B — Silas Phillips 15](sources/census/1850-owsley-pdfp410-st309B-phillips-silas.jpg)
+
+### 7y · 1850 · Owsley stamped 320A — Squire Bowman, 24 (Cyrus withdrawn)
+
+**Role:** FAN (negative control; first-pass Cyrus withdrawn)  
+**File:** [`sources/census/1850-owsley-pdfp431-st320A-bowman-squire.jpg`](sources/census/1850-owsley-pdfp431-st320A-bowman-squire.jpg)  
+**Source:** S422 · C480 · DOC053
+
+Dwelling **581/581**: Thomas Bowman, 68, farmer, Virginia; Polley, 60; **Squire, 24**, farmer; Rodey, 26; Martha, 2; Maria, 1/12; John Campbell, 23; Emily, 21. A name-column first pass read **Cyrus**. The household original is **Squire**. He is not Silas.
+
+![1850 Owsley 320A — Squire Bowman 24](sources/census/1850-owsley-pdfp431-st320A-bowman-squire.jpg)
+
+## Pass 46 additions
+
+### 7z · 5 Sept 1850 · Owsley stamped 299B — Harrison Newman, 33, and Elias, 8
+
+**Role:** FAN (POSSIBLE identity of Elias 8 with P004; not merged)  
+**File:** [`sources/census/1850-owsley-pdfp392-st299B-harrison-newman.jpg`](sources/census/1850-owsley-pdfp392-st299B-harrison-newman.jpg)  
+**Source:** S425 · C486 · C487 · DOC056
+
+Dwelling **313/313**: Harrison Newman, 33, farmer, $50; Susan, 24; William, 10; **Elias, 8**; Henry, 6; Balinda, 2. Nativity Kentucky by ditto. Flannigan’s age **3** for Elias is a derivative error. Identity with Elias T. Newnam (born 18 April 1842) is possible, not proved. Next door, John Newman, 23. Above, Rebecca Tincher’s Elias, 17, is a different man.
+
+![1850 Owsley 299A header](sources/census/1850-owsley-pdfp391-st299A-hdr.jpg)
+
+![1850 Owsley 299B header](sources/census/1850-owsley-pdfp392-st299B-hdr.jpg)
+
+![1850 Owsley 299B — Harrison Newman household](sources/census/1850-owsley-pdfp392-st299B-harrison-newman.jpg)
+

@@ -1248,7 +1248,7 @@ Pass 2: given name **Silas** is clear. Age is a **fraction** **8/12**, not 36. S
 - Provenance: NARA M432-216, IA `populationschedu0216unix`. Clips are **column 3** (name) plus dwelling/family/age/sex. PDF **433** = last Owsley page, stamp **321A** (S417). Stamp labels below are from that map, not re-read off these crops. Saw: JPEG of microfilm. Original paper not seen.
 - Language / script / hands: English; one enumerator bookhand (Luther Bravener).
 - Image quality: **sufficient** for given names and most surnames at native ~400×1024; a few terminals `[?]`. Enhancements: grayscale + autocontrast **on copies only**.
-- Scope: every given name in column 3, PDF 424–433. Hunt: Silas / Sylus / Cyrus / Sylas / Siras / Siles / Sy / Silas-like; Gray/Grey (head or ditto). Same-person test **not** this document. **No claim IDs minted.**
+- Scope: every given name in column 3, PDF 424–433. Hunt: Silas / Sylus / Cyrus / Sylas / Siras / Siles / Sy / Silas-like; Gray/Grey (head or ditto). Same-person test **not** this document. Claims: **C480** (Squire, Cyrus withdrawn); **C482** (Sylvania / Gray nil).
 
 ### Diplomatic (hits and page bounds)
 
@@ -1270,8 +1270,8 @@ Pass 2: given name **Silas** is clear. Age is a **fraction** **8/12**, not 36. S
 **PDF 430** {stamp **319B**} — First head: **Stephen Gunn** 50 M, dw **571/571**. Last head: **Gipson Thomas** 61 M, dw **578/578**. Also William Boles Sr/Robert/William Boles, Beaty McQueen, Abraham Gunn, Charles Price. **Ealy** 22 F ≠ Silas. **Abijah** 12 M ≠ Silas. **Gipson** is a given name, surname **Thomas**, ≠ Gray. **NIL Silas. NIL Gray.**
 
 **PDF 431** {stamp **320A**} — First head: **Enoch Bowman** 27 M, dw **579/579**. Last head: **Elizabeth Bowman** 40 F, dw **585/585**.
-- **Silas-like:** dw **581/581**, head **Thomas Bowman** 68 M, given **Cyrus**, age **24**, sex **M**, surname ditto **Bowman**. Capital compared with **Solomon** (dw 580) on the same page: Solomon’s S is a long serpentine; this letter is a compact **C**. Second letter is **y** (descender), then **rus**. **Not** Silas (would be i-l-a-s). Alt **Syrus** only if the capital is taken as S.
-- Same house: Polley 60 F, Rody 26 F, Rebecka 2 F, Maria 4/12 F, John Hampton 23 M, Emily 21 F.
+- First-pass **Silas-like** (WITHDRAWN): dw **581/581**, given **Cyrus** 24 M. Independent original (S422 / household JPEG) is **Squire**, 24, M, Farmer. Capital **S** + **quire**; Flannigan part 5 page 320 agrees **Squire 24**.
+- Same house: **Thomas Bowman** 68 M Farmer $1000 VA; **Polley** 60 F Ky; **Squire** 24 M Farmer; **Rodey** 26 F; **Martha** 2 F; **Maria** 1/12 F; **John Campbell** 23 M Laborer VA; **Emily** 21 F Ky.
 - Examined, not hits: Solomon, Stephen, Palestine[?], Mead, Emanuel, Rily, Luther, Elijah Peters, Cornelius, Eleanor.
 - **NIL Gray.**
 
@@ -1282,8 +1282,104 @@ Pass 2: given name **Silas** is clear. Age is a **fraction** **8/12**, not 36. S
 - **NIL Silas. NIL Gray.**
 
 ### Pass 2
-Re-read after line-crops and contrast copies. **Cyrus** 24 M and **Sylvania** 9 F stand. **Ezekiel** Callahan is not Cyrus. **Jesse** lines are J-e-ss-e. No **Gray/Grey** surname on these ten clips (Gipson, Gunn, Sparks ≠ Gray).
+Re-read after line-crops, contrast copies, and an independent 240-dpi household crop of dw **581**. **Sylvania** 9 F stands. **Cyrus** 24 M is **WITHDRAWN**; the ink is **Squire** 24 M. **Ezekiel** Callahan is not Cyrus. **Jesse** lines are J-e-ss-e. No **Gray/Grey** surname on these ten clips (Gipson, Gunn, Sparks ≠ Gray).
 
 ### Facts extracted
-No claim IDs minted (task instruction). Ink-only: **Cyrus** 24 M ditto Bowman, dw 581, PDF 431; **Sylvania** 9 F ditto Bradford, dw 544, PDF 427. Gray/Grey **nil** on PDF 424–433.
+- Sylvania 9 F Bradford dw 544 → C482
+- Squire 24 M Bowman dw 581 (Cyrus withdrawn) → C480
+- Gray/Grey **nil** on PDF 424–433 → C482
 
+
+
+## DOC054 — 1850 U.S. census, Owsley Co. KY stamped 298A, Silas Wilson 6 (original)
+
+- Header: `sources/census/1850-owsley-pdfp389-st298A-hdr.jpg` SHA-256 `f451d2db12a431a9f35848961f196218fa5641b1a38357f276d47b8b3eca14fc` (3790×792)
+- Household crop: `sources/census/1850-owsley-pdfp389-st298A-wilson-silas.jpg` SHA-256 `098caa1b135c3735c9825e1643753646809f9905c238fae885b32a841d93bac3` (4264×1782)
+- Provenance: IA `populationschedu0216unix` PDF page **389**. County of **Owsley**, **4th** day of **September** 1850, **Luther Bravener**. Printed stamp **298**. **Image seen.**
+
+### Diplomatic
+
+> SCHEDULE I.—Free Inhabitants in District of Kentucky, in the County of **Owsley**, State of Kentucky, enumerated by me, on the **4th** day of **September** 1850. **Luther Bravener** Ass’t Marshal. {stamp **298**}
+
+> **289 / 289** · **William Wilson** · **40** · M · Farmer · $150
+> — **Sally Wilson** · **38** · F
+> — **Larkin** · **20** · M · Farmer
+> — **Henry** · **15** · M · {ditto}
+> — **Woodson** · **12** · M
+> — **Malinda** · **8** · F
+> — **Silas** · **6** · M
+> — **Jane** · **5** · F
+> **290 / 290** · **Charles Spivey** · **39** · M · Farmer · $570
+
+Pass 2: given name **Silas** is clear (capital **S** as on **Sally**; **ilas**). Age **6**, not 36. Surname on the head is **Wilson** (W-i-l-s-o-n), **not** Wilder (Flannigan S419) and **not** Gray.
+
+### Facts extracted → claim IDs
+- Silas Wilson 6 → C478
+
+## DOC055 — 1850 U.S. census, Owsley Co. KY stamped 309B, Silas Phillips 15 (original)
+
+- Header: `sources/census/1850-owsley-pdfp410-st309B-hdr.jpg` SHA-256 `d31d6e57bdc8a4f3e5e317fde836c101310b905dcfdfe090af4766f3e916a25f` (3696×798)
+- Household crop: `sources/census/1850-owsley-pdfp410-st309B-phillips-silas.jpg` SHA-256 `c41897fb504ee2cb31dac0c886d00a8cddb8360be83bd256e00ecc013519ba5c` (4158×2243)
+- Provenance: IA `populationschedu0216unix` PDF page **410** (verso after PDF **409** stamp **309**). **20th** day of **September** 1850, **Luther Bravener**. **Image seen.**
+
+### Diplomatic
+
+> SCHEDULE I.—Free Inhabitants in District of Kentucky, in the County of **Owsley**, State of Kentucky, enumerated by me, on the **20th** day of **September** 1850. **Luther Bravener** Ass’t Marshal. {B-side after stamp **309**}
+
+> **437 / 437** · **B. F. Phillips** · **44** · M · Black Smith · {realty} · **Va**
+> — **Susan** · **41** · F · Ky
+> — **John** · **21** · M
+> — **Nancy** · **19** · F
+> — **Zachariah** · **17** · M · Laborer
+> — **Silas** · **15** · M
+> — **James** · **13** · M
+> — **Eliza** · **11** · F
+> — **Benjamin** · **9** · M
+> — **Susan** · **7** · F
+> — **Rody** · **5** · F
+> — **Thomas** · **3** · M
+> — **Henry** · **2** · M
+> **438 / 438** · **Martin Friley** · **34** · M
+
+Pass 2: given name **Silas** is clear. Capital matches **Susan** on lines 21 and 29 of this house (not the **G** of **Gray** / **Giles** on other pages). Two dots over **i**. Age **15**. Surname ditto **Phillips**.
+
+### Facts extracted → claim IDs
+- Silas Phillips 15 → C479
+
+## DOC056 — 1850 U.S. census, Owsley Co. KY stamped 299B, Harrison Newman 33 + Elias 8 (original)
+
+- Header: `sources/census/1850-owsley-pdfp392-st299B-hdr.jpg` SHA-256 `0ab32397b0d463db3e647c0f2d9d41d53b9869531e406c2b00e3ffaae03c1c1c` (5377×1129)
+- Household crop: `sources/census/1850-owsley-pdfp392-st299B-harrison-newman.jpg` SHA-256 `a8d8291b7c573cd4faab366ee452b2bc2461b88421f4930182e1a3f7c8bde808` (4302×2039)
+- Mapping header: `sources/census/1850-owsley-pdfp391-st299A-hdr.jpg` SHA-256 `caa520b88ecea7e6843fee9b4cc1b033f1431c4945a3257aa5a803b3792f8c37` (5556×1182) — stamp **299**, **4 September 1850**
+- Provenance: IA `populationschedu0216unix` PDF page **392** (verso after PDF **391** stamp **299**). **5th** day of **September** 1850, **Luther Bravener**. **Image seen.**
+
+### Diplomatic
+
+> SCHEDULE I.—Free Inhabitants in District of Kentucky, in the County of **Owsley**, State of Kentucky, enumerated by me, on the **5th** day of **September** 1850. **Luther Bravener** Ass’t Marshal. {verso of stamp **299**}
+
+> {nativity column, first written word on this verso:} **Kentucky** — thereafter **Ditto** down the Newman cluster.
+
+> **312 / 312** · **Rebecca Tincher** · **51** · F · Widow · $200 · {nativity ditto Kentucky}
+> — **Eli Tincher** · **30** · M · Laborer
+> — **William** · **21** · M · {occupation ditto}
+> — **Elias** · **17** · M · {occupation ditto}
+> — **Hose** · **16** · M · {occupation ditto}
+> — **Henry** · **12** · M
+> — **Price** · **6** · M
+> **313 / 313** · **Harrison Newman** · **33** · M · Farmer · **50** · {nativity ditto Kentucky}
+> — **Susan** · **24** · F
+> — **William** · **10** · M
+> — **Elias** · **8** · M
+> — **Henry** · **6** · M
+> — **Balinda** · **2** · F
+> **314 / 314** · **John Newman** · **23** · M · Farmer
+> — **Susan** · **23** · F
+> — **Daniel** · **3** · M  {line visible at the foot of the crop}
+
+Pass 2: given name **Harrison** is H-a-rr-i-s-o-n, **not** Harris. Surname **Newman** (N-e-w-m-a-n), not Newnam on this line. Age **33**. **Elias** 8 is a closed **8**, not a **3** (compare **3** on Daniel two dwellings later). William **10** (1 and 0), not 8. Flannigan S419 “Elias 3” is a derivative error.
+
+### Facts extracted → claim IDs
+- Harrison Newman 33 household → C486
+- Elias 8 POSSIBLE vs P004, unmerged; Flannigan age 3 withdrawn → C487
+- Tincher Elias 17 different man → C488
+- John Newman 23 separate house → C489
