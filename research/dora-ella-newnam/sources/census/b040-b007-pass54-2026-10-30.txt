@@ -1,0 +1,32 @@
+Pass 54 — Greene ED 42–43 B-sides + Liberty ED 4 sh 1–4 + S-415 William
+=======================================================================
+Date: 30 Oct 2026 (America/New_York)
+
+B040 Greene T623-856 (/tmp/t623-856-greene.pdf)
+  ED 42 B-sides visually read (name-column @70 dpi, local /tmp/b040-pass54/names/):
+    181 183 185 187 189 191 193 195 197 199 201 203 207 213 219 231 241 251
+    — no Stone / Thomas A. head.
+  ED 43 B-sides sampled: 259 265 — no Stone.
+  Residual unread B-sides listed in L311/L312.
+
+B007 Liberty 1900 T623-839 ED 4 sh 1–4 (existing pass51/52 PNGs, name crops):
+  p1091 = Liberty ED 4 sh 1 A (J. B. Hughey)  — Fulbert, Seiler, Allmonson,
+           Snider (dau Dora — child, not P001), Hufferman, Nance, Vangilder
+  p1092 = sh 1 B  — Shufferman, Pittman, Bostow, Nenninger, Brittrel
+  p1093 = sh 2 A  — Trenkle, Macheel, Bussink, Landwehr, Fisher, Eftink, Schmidt
+  p1094 = sh 2 B  — Store Thomas (NOT Stone), Manning, Eftink, Grice, Krusel
+  p1095 = sh 3 A  — Engelman, Jansen, Holzmann, Vandewater, Baker
+  p1096 = sh 3 B  — Brandel, Holzmann, Shell, Thele
+  p1097 = sh 4 A  — Vandewater, Scharenberg, Elfrank, Seiler
+  p1098 = sh 4 B  — Shell, Baker, Moose, Besse, Brewer, Waggle
+  No Sullivan / Letha / Newnam household. No infant Letha.
+
+B007 1900 MO Soundex T1055 roll 249 (IA soundex1900mo249, 4267 pp)
+  Roll starts remaining S-415 (after Press R. on roll 248) then S-416+.
+  p0161 Sullivan Timothy (not Bollinger)
+  William window ~p0200–p0275 (S-415 ends before p0280 Silvers/Slifer S-416):
+    counties/cities on cards read: St Louis, Adair, Cape Girardeau, Franklin,
+    Lafayette/Lawrence, Randolph, Buchanan/St Joseph, Osage/Texas?, Jackson
+    (Kansas City), Jasper?/Benton twp, Iron (Ironton), Caldwell (Hamilton).
+    NO Bollinger on cards sampled (every ~5–10 pp plus named pages).
+  Local inverted crops /tmp/sndx249/wm/ not committed.
