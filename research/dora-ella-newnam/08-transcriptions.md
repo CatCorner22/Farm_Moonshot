@@ -1228,3 +1228,62 @@ Pass 2: given name **Silas** is clear. Age is a **fraction** **8/12**, not 36. S
 ### Facts extracted → claim IDs
 - Silas Ratliff 8/12 → C474
 
+## DOC053 — 1850 U.S. census, Owsley Co. KY, name column, PDF 424–433 (stamps 316B–321A)
+
+- Image file(s) + SHA-256 (name-column clips; **image seen**; OCR/tesseract **not** a source):
+
+| PDF | File | SHA-256 |
+|---|---|---|
+| 424 | `sources/census/1850-owsley-pdfp424-nc.jpg` | `7ba5721f53ae95e14859e0156b73e7141ddebcf82721f0364586856581947178` |
+| 425 | `sources/census/1850-owsley-pdfp425-nc.jpg` | `166d9b5302b825e907321dabebe7aba3de6d684bb0eee27e07a484083994b8e2` |
+| 426 | `sources/census/1850-owsley-pdfp426-nc.jpg` | `22ecd2c5e39806c203661f12ded14573d25e8bba164c3a6ae8827a85c5b4d71d` |
+| 427 | `sources/census/1850-owsley-pdfp427-nc.jpg` | `59597028e29c92a126b89be4289305e878e30cf3f29d139b2528a6ac9663e159` |
+| 428 | `sources/census/1850-owsley-pdfp428-nc.jpg` | `dfa65d7f09aacd19876f4fd1e717d54acc3fcb03975ebce624b86f283bd6b16b` |
+| 429 | `sources/census/1850-owsley-pdfp429-nc.jpg` | `aefb6ec57ab36fc3463c1cd5abb7c249c936fc764c90948fbb6d084afc5af491` |
+| 430 | `sources/census/1850-owsley-pdfp430-nc.jpg` | `0a7098dbb5adfbc2f92cebf3467f0b98cf27f85af8a35f380d294a4ce12ccd9f` |
+| 431 | `sources/census/1850-owsley-pdfp431-nc.jpg` | `f38d92fb3a2ba356f2a03b2ae5936e9e562a05c8d770219fee677f74fba0d27a` |
+| 432 | `sources/census/1850-owsley-pdfp432-nc.jpg` | `4bff518e0a2bc18f8344c4959bcd2da9c27ccfaa15457bb6e610c80cb30cd6a3` |
+| 433 | `sources/census/1850-owsley-pdfp433-nc.jpg` | `6b397d46e2264a8d0cca9080931869d4cd7a74d2ae31169b97b28ef6de92dcc3` |
+
+- Provenance: NARA M432-216, IA `populationschedu0216unix`. Clips are **column 3** (name) plus dwelling/family/age/sex. PDF **433** = last Owsley page, stamp **321A** (S417). Stamp labels below are from that map, not re-read off these crops. Saw: JPEG of microfilm. Original paper not seen.
+- Language / script / hands: English; one enumerator bookhand (Luther Bravener).
+- Image quality: **sufficient** for given names and most surnames at native ~400×1024; a few terminals `[?]`. Enhancements: grayscale + autocontrast **on copies only**.
+- Scope: every given name in column 3, PDF 424–433. Hunt: Silas / Sylus / Cyrus / Sylas / Siras / Siles / Sy / Silas-like; Gray/Grey (head or ditto). Same-person test **not** this document. **No claim IDs minted.**
+
+### Diplomatic (hits and page bounds)
+
+**PDF 424** {stamp **316B**} — starts mid-household: **Sally Bragg** 25 F. First head: **Elza A. Britton** 33 M, dw **517/517**. Last head: **James Hunt** 25 M, dw **529/529**. Given names read: Sally, Nancy, Malinda, John, David, Elza, Marton, Charley, James, Merry[?], Rebecca, Wm, Martha, John, Nancy, John, Isaac, Mary, Elizabeth, Francis, John, Martha, Mary, Franky[?], Arthur, Carlista[?], Jefferson, Jesse, Betsy, Jacob, Margaret, Henry, Laura, Wm, Nancy, Levi, James, Mary, James, Nancy, Malinda, Mary Jane. **Jesse** (J-e-ss-e) ≠ Silas. **NIL Silas. NIL Gray.**
+
+**PDF 425** {stamp **317A**} — Hunt continuation: **Abijah Anderson** 12 M, **Isaac** 9 M, **Byram**[?] 5 M, **Noah Anderson** 8 M. First head: **Jesse G. Anderson** 24 M, dw **530/530**. Last head: **Wm Ellerdy**[?] 35 M, dw **535/535**. Also Mark Morgan, Andrew Lee, Wm Herrington, Lewis/Calvina/James Luker, Jacob 80. **Isaac** ≠ Silas. **NIL Silas. NIL Gray.**
+
+**PDF 426** {stamp **317B**} — Ellerdy continuation: **George Woods** 2 M. First head: **Larkin Chandler** 27 M, dw **536/536**. Last head: **Henry Bradford** 29 M, dw **543/543**. Dw **538/538** **Ezekiel Callahan** 33 M — E-z-e-k-i-e-l, **not** Cyrus. Also Mack Callahan 23, Elijah Peters, Robert/Thursford Davidson, Richard Bradford. **NIL Silas. NIL Gray.**
+
+**PDF 427** {stamp **318A**} — First head: **Sally Bradford** 30 F, dw **544/544**. Last head: **James Anglin** 61 M, dw **550/550**.
+- **Silas-like:** dw **544**, head **Sally Bradford** 30 F, given **Sylvania**, age **9**, sex **F**, surname ditto **Bradford**. Ink: S-y-l-v-a-n-i-a (v not c; not Lucinda).
+- Examined, not hits: **Jesse** 8 M (Nathaniel Bradford 545); **Elly**[?] 7 F (John Rader 547); **Elijah Woody** 34 M (548); **Cynthia** 4 F (Woody); **Isaac** 4 M (Robert Sparks 549).
+- **NIL Gray** (Bradford, Rader, Ponder, Woody, Sparks, Anglin).
+
+**PDF 428** {stamp **318B**} — First head: **John Sizemore** 36 M, dw **551/551**. Last head: **Daniel Cope** 32 M, dw **558/558**. Also Charley Smith, L. P. Robinson, James Pennington, Levi Marcum, J. J. McKee, William Evans. **Isaac P.** 3 M ≠ Silas. **NIL Silas. NIL Gray.**
+
+**PDF 429** {stamp **319A**} — Cope continuation: **Louisa Cope** 6 F. First head: **Michael Wilson** 55 M, dw **559/559**. Last head: **John Wilson** 37 M, dw **570/570**. Also Alfred/Phillip Wilson, Hawkins Bales, James Ambrose, Howel Brewer. **NIL Silas. NIL Gray.**
+
+**PDF 430** {stamp **319B**} — First head: **Stephen Gunn** 50 M, dw **571/571**. Last head: **Gipson Thomas** 61 M, dw **578/578**. Also William Boles Sr/Robert/William Boles, Beaty McQueen, Abraham Gunn, Charles Price. **Ealy** 22 F ≠ Silas. **Abijah** 12 M ≠ Silas. **Gipson** is a given name, surname **Thomas**, ≠ Gray. **NIL Silas. NIL Gray.**
+
+**PDF 431** {stamp **320A**} — First head: **Enoch Bowman** 27 M, dw **579/579**. Last head: **Elizabeth Bowman** 40 F, dw **585/585**.
+- **Silas-like:** dw **581/581**, head **Thomas Bowman** 68 M, given **Cyrus**, age **24**, sex **M**, surname ditto **Bowman**. Capital compared with **Solomon** (dw 580) on the same page: Solomon’s S is a long serpentine; this letter is a compact **C**. Second letter is **y** (descender), then **rus**. **Not** Silas (would be i-l-a-s). Alt **Syrus** only if the capital is taken as S.
+- Same house: Polley 60 F, Rody 26 F, Rebecka 2 F, Maria 4/12 F, John Hampton 23 M, Emily 21 F.
+- Examined, not hits: Solomon, Stephen, Palestine[?], Mead, Emanuel, Rily, Luther, Elijah Peters, Cornelius, Eleanor.
+- **NIL Gray.**
+
+**PDF 432** {stamp **320B**} — Bowman continuation: **Rachel Bowman** 15 F. First head: **S. L. Spear**[?] 30 M, dw **586/586** {initials as written; not expanded}. Last head: **Harrison Gipson** 39 M, dw **591/591**. **Cynthia** 23 F (William H. McDowell, 589) is Cynthia, not Cyrus. **Sophina** 1 F ≠ Silas. **NIL Silas. NIL Gray.**
+
+**PDF 433** {stamp **321A**, last Owsley} — Gipson continuation: **Sarah Gipson** 3 F, **Woodson** 1 M. First head: **Joseph Thomas** 51 M, dw **592/592**. Last head: **Benjamin McGuire** 45 M, dw **593/593**. Then blank lines, printed **Male / Female / Total**, page foot **14 m.** Did **not** read past this page.
+- Examined, not hits: **Elisha** 12 M, **Eli** 10 M, **Levi** 11 M, **Elijah** 8 M (Thomas house); McGuire last child **Elyza**[?] 6 M (y-descender after l; alt Eliza; **not** Silas/Sylus).
+- **NIL Silas. NIL Gray.**
+
+### Pass 2
+Re-read after line-crops and contrast copies. **Cyrus** 24 M and **Sylvania** 9 F stand. **Ezekiel** Callahan is not Cyrus. **Jesse** lines are J-e-ss-e. No **Gray/Grey** surname on these ten clips (Gipson, Gunn, Sparks ≠ Gray).
+
+### Facts extracted
+No claim IDs minted (task instruction). Ink-only: **Cyrus** 24 M ditto Bowman, dw 581, PDF 431; **Sylvania** 9 F ditto Bradford, dw 544, PDF 427. Gray/Grey **nil** on PDF 424–433.
+
