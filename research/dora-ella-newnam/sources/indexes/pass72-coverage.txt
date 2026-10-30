@@ -1,0 +1,24 @@
+Pass 72 coverage — 30 Oct 2026 America/New_York
+Catalog 114 / hasMore false / totalMatched 114. Unchanged vs Pass 71.
+Nested reviewer not respawned. Message queue empty.
+bc-9acea467 Dora B045 B061 films still RUNNING empty.
+This run bc-01a18bb4-e162-785c-9724-86a7c5663bf1.
+No IDs imported from PR #31 / #33. Do not mint C274–C280. Do not promote C509.
+
+Image-seen:
+  T624-498 leaves 948–949 (ED 168 sh 1 A / 1 B Buffalo openers)
+  soundex1920ky032 C-512 denser Samuel 1560–1648 including Samuel B 1644 ED 90
+  soundex1920ky057 G-163 Elijah 3189 / Lee head 3434 Breathitt / P.H. 3560 ED 91
+Opened:
+  Wolfe 1861–1909 marriage HTML
+  Clay gmg / gmnq / brdg / brdmn
+  Estill grooms.htm + certs + two minister-return plates (1901 Jul–Aug; 1902 Mar–Apr)
+  Perry marriage landing (1821–1859 only)
+Still unseen: original 1932 DC vol 020 #09525; 1916 DC vol 044 #21663 face;
+  Estill 1840 bond; M123-3; T288. FS 1940760 / Ancestry 8771 / TSLA unread.
+Breathitt marriage pages still 403 / Oops. TFKRHA 429. usgwarchives timeout.
+C512 L-window card-by-card 1251–1259: Louise 1252 / Loya 1253 consecutive — NIL Combs, Lowe.
+ED 92 hh 1–13 still residual: remaining opener Soundex codes G-000 Gay (after F-620 on ky055 ⇒ ky056),
+  R-300 Reid, H-435 Helton (ky072 starts H-400), H-630 Hardy, S-520 Simms (after S-363 on ky146),
+  R-200 Rice (ky132 is R-200 Rose/Rooks), B-653 Brandenburg (before C-125 on ky025 ⇒ ky023/024).
+C512 denser Samuel, C512 Lowe slot, and G163 Elijah/Lee/P windows now nil vol 76 ED 92 sh 1.

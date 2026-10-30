@@ -1,0 +1,39 @@
+Pass 71 — 1920 KY Soundex G-416 John window + ED 92 sh 1 probe
+NARA M1563 reel 59 / IA soundex1920ky059. Images seen 30 Oct 2026.
+Given-name sort; Gilbert / Glover / Galbraith interleaved.
+
+John/Joseph window (James ~leaf 2000 → Kirt ~2016):
+  2002 Galbreath, Joseph  42  Jefferson (Watkins Hotel lodger) — not Gilbert John
+  2004 Gilbert, Joseph C. 62  Marshall × Mary V 56 — not John; not Owsley
+  2008 Glover, Julia M.   74  Jefferson Louisville
+  2010 Galbreath, Julius  B  Hopkins Earlington × Elmyra
+  2014 Glover, Hettie     21  Powell Clay City (dau of Insley, Adeline)
+  2016 Gilbert, Kirt      52  Lewis × Anna 52, Paul 4
+  Nil Gilbert, John as a G-416 head in this window. Consistent with 1920 original
+  John 84 being a father-in-law on Baker, Robert's card (S560/S561), not a head.
+
+ED 92 filmed-sheet positive (Soundex clerks saw the filmed schedules):
+  leaf 2020 Gilbert, Douglas  W 7  Kentucky, Owsley, vol 76 ED 92 sheet 2 line 42
+  enumerated with Colwell, William; relationship Step-son.
+  JPEG sources/soundex/ky1920-g416-p2020-gilbert-douglas-owsley.jpg
+  Sheet 2 is on the filmed original (after the missing A-form of sheet 1).
+  Therefore Soundex indexed ED 92 people who are on the film.
+  Residual of hh 1–13 / sheet 1 lines 1–50: if that A-form existed when the clerks
+  worked, cards citing vol 76 ED 92 sh 1 should exist under those heads' codes.
+  None found in the G-416 John window or on this Douglas card.
+
+C512 Combs (M1563 reel 32, C-510–C-516) samples:
+  0800 Combs, Harlan 21 Knott (with Mullins, Samuel) — not Owsley
+  1400 Combs, Myrtle 10 Breathitt/Jackson adopted dau of Gross, Hiram
+  1550 C512 Robert given-name tab divider
+  1650 Combert, Samuel W. 30 Pulaski (see Combert) — not Combs, not Owsley
+  1750 Combs, Talton 30 Breathitt × Maggie
+  1850 Combs, Wesley B. 43 Lee vol 59 ED 114 sh 1 ln 75 × Ada M 26 — Lee, not vol 76
+  1950 C-513 Compton, Ambers Pike
+  Sampled Samuel–T–W cards: nil vol 76 ED 92 sh 1. Residual: denser Samuel Combs
+  cards between the Robert tab (1550) and Talton (1750).
+
+G163 Gabbard (M1563 reel 57, G-125–G-236) samples:
+  3600 G-163 Gabehart, Robert L. Taylor vol 86 ED 150 — start of G163, not Gabbard
+  3800 G-200 Gorch, Alice Lincoln — G163 already ended
+  Gabbard not isolated in this sample. Residual: leaves 3601–3799.

@@ -1,0 +1,28 @@
+Pass 71 — 1910 Owsley Buffalo Mag Dist 5 original (Gilbert John 74)
+NARA T624-498 / IA 13thcensus1910po498unit
+leaf 952 = ED 168 sh 3 A (stamp 168 / 3 A), Mag Dist 5 Buffalo Precinct No. 5,
+  enumerator George M. Hogg[?], starts dw 34 Combs, Abijah.
+leaf 957 = ED 168 sh 5 B (stamp 168 / 5 B), same precinct.
+leaf 964 = ED 168 sh 8 A (hh 127 Reed, John).
+leaf 966 = Buck Creek Precinct ED 169 sh 1 A (next ED).
+
+leaf 957 lines 82–95 (original image seen 30 Oct 2026):
+  75/75 Baker, Robert H.  Head  M W 31  m1 10  KyKyKy
+       Laura              Wife  F W 28  m1 10  7-6
+       children John, Arthur, Allie, [Leonard?], Shelby, Nellie
+  76/76 Gilbert, John     Head  M W 74  m2 18  KyKyKy  English
+       Darkis[?]          Wife  F W 39  m1 18  1-1
+       Burns, Lurinda     Daughter F W 45 Wd  7-7
+       Priscella          Granddaughter F W 10
+       Floyd              Grandson M W 8
+       Bowling, Elijah    Nephew M W 29 S
+
+Kendrick buff1910.html 76-76 GILBERT John 74 m2 18y + Daughter (Darkis) wife 39 matched
+on names, ages, m2 18, Burns/Priscella/Floyd/Bowling. Original relationship of Darkis
+is Wife, not Daughter.
+
+Same-person vs 1920 Gilbert, John FIL 84 of Baker, Robert (C756):
+  name John Gilbert; age 74→84; Buffalo precinct; 1910 next door to Baker, Robert H. 31.
+  1920 Wd vs 1910 m2 with Darkis 39 is consistent with her death 1910–1920.
+  Do not silently merge 1910 Baker Robert H. × Laura 28 with 1920 Baker Robert × Louise[?] 41
+  (wife given-name and +13 vs +10 age). John identity is PROBABLE, not averaged with the Baker wives.

@@ -1,0 +1,28 @@
+Pass 72/73 — 1920 KY Soundex C-512 Lowe given-name slot
+NARA M1563 reel 32 / IA soundex1920ky032. Image-seen 30 Oct 2026.
+Given-name sort. Lowe sits alphabetically after Louise and before Loya/Lucas.
+
+Sequence image-seen:
+1200 Combs, Lee 35 Perry vol 18 ED 95 sh 5 ln 25 × Tildie — other (not Lowe; not Owsley)
+1210 Combs, Leona 13 Henderson — other
+1220 Combs, Levy 24 Lee Co vol 59 ED 113 — other county
+1230 Combs, Lindsey 42 Franklin (Black) Frankfort — other
+1240 Combs, Logan W. continuation — other
+1250 Combs, Louisa 36 Fayette, Eastern State Hospital patient — other
+1251 Combs, Louisa 70 Perry, MIL of Hoskins, Ezekiel C. vol 78 ED 104 — other
+1252 Combs, Louise 54 Madison Berea vol 67 ED 103 sh 11 ln 17 × Bessie 18, Deleprey 11
+1253 Combs, Loya 32 Boyd Ashland vol 8 ED 28 sh 7 ln 24 × Ethel 22
+  Leaves 1252 and 1253 are consecutive. No card for Combs, Lowe exists between them.
+1254 Combs, Lucas B 29 Fayette, partner son of Combs, Leslie — other
+1255 Combs, Lucinda 21 Harlan — other
+1256 Combert, Lucinda 55 Adair — other surname
+1257 Combest, Lucretia 37 Pulaski — other surname
+1258 Combs, Lucy 51 Leslie servant — other
+1259 Combs, Luellia 7 Breathitt GD of Combs, William — other
+1260 Combs, Lula 38 Perry (Black) — other
+1270 Combs, Mace 28 Breathitt — M given-name; L-window ended
+
+NIL Combs, Lowe as a C-512 given-name head or individual card in Kentucky.
+NIL vol 76 ED 92 sh 1 in this L-window.
+1910 Buffalo dw 9/9 Combs, Lowe therefore has no matching 1920 KY C-512 Lowe card.
+Possible: dead/moved; A-2 member of another house; Soundex miss; spelled Lou/Low (not yet card-by-card).

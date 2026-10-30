@@ -2803,4 +2803,186 @@ Pass 2: Original given name **John**, not Soundex **Robert**. Then hh **91 Brewe
 - Gilbert John 84 FIL → C756
 - Soundex Robert is a clerk error → C755/C756
 
+## DOC116 — 1910 U.S. census, Owsley Co., KY, ED 168 sheet 5 B (original; Gilbert John 74)
+
+- Header: `sources/census/1910-owsley-ed168-sh5b-hdr.jpg` SHA-256 `90dd6a44964f773b7d64ddc91699ff17edace3e7e8a4cf4d64e8c102e1ae5c04`
+- Household 76: `…hh76-gilbert-john.jpg` `d2e83d038e72b1e43a25aecc380a6007ab38d11e2092e4054f2b24870347641e`
+- Extract: `owsley-1910-ed168-gilbert-john-pass71.txt` `9da9cb9770ea1dc18e0173ed1a933a30a3dcef0097c1b078ec8c02725b7675d5`
+- Provenance: NARA T624-**498** / IA `13thcensus1910po498unit` `_0957.jp2`, opened 30 Oct 2026. **Original image seen.** Same county reel as Sturgeon ED **165** (**DOC113**). Leaf **952** = ED 168 sh 3 A starts dw 34 Combs, Abijah. Leaf **966** = Buck Creek Precinct ED **169** sh 1 A.
+
+### Diplomatic — header (sheet 5 B)
+
+> THIRTEENTH CENSUS OF THE UNITED STATES: 1910 POPULATION  
+> State **Kentucky** · County **Owsley** · Township **Magisterial Dist 5 Buffalo** / **Buffalo Precinct No. 5**  
+> Enumeration District No. **168** · Sheet No. **5 B**  
+> Enumerated by me on the **[day not retained on this header crop]** day of **April**, 1910, **George M. Hogg[?]**, Enumerator.
+
+Pass 2: Printed form is a **B-side** (lines **51–100**). Stamp **168**.
+
+### Diplomatic — household 75 (sheet 5 B, lines immediately above 76)
+
+> **75 75 Baker, Robert H.** Head M W **31** **m1 10** · Kentucky  
+> **Laura** Wife F W **28** **m1 10** **7-6** · Kentucky  
+> children including Willie son 6 · Nellie dau 3 4/12
+
+Pass 2: Wife given name **Laura**. Do **not** merge with 1920 Baker Robert × Louise[?] (**C766**).
+
+### Diplomatic — household 76 (sheet 5 B, lines 91–96)
+
+> **76 76 Gilbert, John** Head M W **74** **m2 18** · Kentucky · English  
+> **Darkis[?]** Wife F W **39** **m1 18** **1-1** · Kentucky · English  
+> **Burns, Lurinda** Daughter F W **45** Wd **7-7** · Kentucky  
+> **Priscella** Granddaughter F W **10** · Kentucky  
+> **Floyd** Grandson M W **8** · Kentucky  
+> **Bowling, Elijah** nephew M W **29** S · Kentucky · English
+
+Pass 2: Original relationship of Darkis is **Wife**, not Daughter. Kendrick `buff1910.html` “Daughter (Darkis)” withdrawn.
+
+### Facts extracted → claim IDs
+- Gilbert John 74 → C765
+- Baker Robert H. × Laura not merged with 1920 Baker × Louise[?] → C766
+
+## DOC117 — 1920 Kentucky Soundex G-416, Gilbert Douglas Owsley (derivative)
+
+- Card: `sources/soundex/ky1920-g416-p2020-gilbert-douglas-owsley.jpg` SHA-256 `d1cef0c2be67f9ac58046013b6232e2120c6d1cd7d55ece714e67cbcd87ae6a5`
+- Extract: `ky1920-g416-john-ed92-pass71.txt` `819999b4e440ea5e9d841ad8c8156e64fd5fe5791b3ada7cd367149e6bbd7728`
+- Provenance: NARA M1563 reel **59** / IA `soundex1920ky059` leaf **2020**, opened 30 Oct 2026. **Image-seen.** Same reel as Soundex Robert 84 (**DOC114**). No djvu.txt (404).
+
+### Diplomatic — card 2020
+
+> G416 **Gilbert, Douglas**  
+> Color **W** · Age **7** · Birthplace **Kentucky** · County **Owsley**  
+> Vol **76** · ED **92** · Sheet **2** · Line **42**  
+> Enumerated with **Colwell, William**  
+> Relationship to above **Step-son**
+
+Pass 2: John/Joseph window ~2002–2016 **nil** Gilbert, John as a head. Sheet **2** is on the filmed original.
+
+### Facts extracted → claim IDs
+- Douglas ED 92 sh 2 → C768
+- Nil Gilbert John head in this window → C768 / C765
+
+## DOC118 — 1910 U.S. census, Owsley Co., KY, ED 168 sheets 1 A–1 B (original; Buffalo openers)
+
+- Header: `sources/census/1910-owsley-ed168-sh1a-hdr.jpg` SHA-256 `47c1b68091647f5cbbd31323bc2470011bf5127917333e656004fbce44368554`
+- Household 1: `…hh1-combs-samuel.jpg` `a42d8bc9baceec19b5a1834eec8b7def0581e1a1294a2f8d4e8e74f2df365360`
+- Households 5–6: `…hh5-6-gabbard.jpg` `4f12797d23f830ff6bf6dddb56c61ef5ad5b4ccce546686af7135dd9d405805f`
+- Household 10: `…hh10-rice-dora.jpg` `e6e09022f64888a8cb92ebde4993e846252aa59f2d9b3fb273bafe52d16e56a7`
+- Extract: `owsley-1910-ed168-sh1-openers-pass72.txt` `a4b138a54aae24906b37b23270f365f11c4dd28ab8fc22d3b13406286e2abbde`
+- Provenance: NARA T624-**498** / IA `13thcensus1910po498unit` `_0948.jp2` (sh **1 A**) and `_0949.jp2` (sh **1 B**), opened 30 Oct 2026. **Original image seen.** Same county reel as Buffalo sh **5 B** (**DOC116**). Stamp **168**.
+
+### Diplomatic — header (sheet 1 A)
+
+> THIRTEENTH CENSUS OF THE UNITED STATES: 1910 POPULATION  
+> State **Kentucky** · County **Owsley** · Township **Buffalo Precinct No. 5** / Mag Dist **5**  
+> Enumeration District No. **168** · Sheet No. **1 A**  
+> Enumerated by me on the **[day not retained on this header crop]** day of **April**, 1910, **George M. Hogg[?]**, Enumerator.
+
+Pass 2: Printed **A-form**. Stamp **168**.
+
+### Diplomatic — household 1 (sheet 1 A, lines 1–4)
+
+> **1 1 Combs, Samuel** Head M W **37** **m1 15** · Kentucky  
+> **Hulda** Wife F W **33** **m1 15** **6-2** · Kentucky  
+> **John H** Son M W **14** S · Kentucky  
+> **Nancy** Daughter F W **2 2/12** S · Kentucky
+
+Pass 2: Line 4 is **Nancy Daughter 2 2/12**, not Isaac 12 (a first-pass misread of the full-names column, withdrawn).
+
+### Diplomatic — households 5–7 (sheet 1 A, lines 27–37)
+
+> **5 5 Gabbard, Elijah** Head M W **38** **m1 16** · Kentucky  
+> **Amy** Wife F W **38** **m1 16** **5-5** · Kentucky  
+> **William** Son M W **12** S · Kentucky  
+> **Edward** Son M W **9** S · Kentucky  
+> **Nora** Daughter F W **7** S · Kentucky  
+> **Elisha** Son M W **4** S · Kentucky  
+> **Sydney** Son M W **2 6/12** S · Kentucky  
+> **6 6 Gabbard, Lee** Head M W **37** **m1 12** · Kentucky  
+> **Eliza** Wife F W **30** **m1 12** **1-1** · Kentucky  
+> **Lillie** Daughter F W **6** S · Kentucky  
+> **7 7 Hardy, Drucilla** Head F W **40** Wd **6-4** · Kentucky
+
+Pass 2: Two Gabbard heads on the opener sheet. Do **not** merge either with the 1920 Soundex Elijah/Lee cards (**DOC120**).
+
+### Diplomatic — household 10 (sheet 1 B; crop starts at the wife)
+
+> **Eliza Ann** Wife F W **37** **m1 10** **5-4** · Kentucky  
+> **Charley** Son M W **14** S · Kentucky  
+> **Taylor** Son M W **10** S · Kentucky  
+> **Delia** Daughter F W **8** S · Kentucky  
+> **Myrtie** Daughter F W **6** S · Kentucky  
+> **Luke** Son M W **4** S · Kentucky  
+> **Dora** Daughter F W **2 2/12** S · Kentucky  
+> **11 11 Rice, Elizabeth** Head F W **46** Wd · Kentucky
+
+Pass 2: Head of dw **10/10** is **Rice, William E.** 46 (read on the full sheet; the household crop begins at Eliza Ann). Daughter **Dora** is age **2**. **DISPROVED** as P001.
+
+### Facts extracted → claim IDs
+- Buffalo openers original-verified → C775
+- Rice Dora 2 DISPROVED as P001 → C776
+
+## DOC119 — 1920 Kentucky Soundex C-512, Combs Samuel B. Owsley + Lowe slot (derivative)
+
+- Card 1644: `sources/soundex/ky1920-c512-p1644-combs-samuel-b-owsley.jpg` SHA-256 `c413af5e7867ce8fe7cc61131170b2b1bd81a20d8ba3dd3f01678c1c6938ec6d`
+- Card 1252: `…p1252-combs-louise-not-lowe.jpg` `fe072364e8e359c9b0e24286aecf509dc8db9f8dca365b626d4d43f59b325fc7`
+- Card 1253: `…p1253-combs-loya-not-lowe.jpg` `f1dc00454f659c4b7728bfe816aeed16d6d25042f39d62c1aaac9694be955a27`
+- Extracts: `ky1920-c512-samuel-ed90-pass72.txt` `a20b4d5ad53906498eff6df68d08f68e2812a6819189e3876cf53d844ea6c79b`; `ky1920-c512-lowe-nil-pass72.txt` `4d97a5d4c6da3d5d011be45a88947bccf0e04df9197a0c257b3322c5fa351b17`
+- Provenance: NARA M1563 reel **32** / IA `soundex1920ky032` leaves **1644**, **1252**, **1253**, opened 30 Oct 2026. **Image-seen.** Same reel as Pass 71 C512 samples (**S569**). Given-name sort within the code.
+
+### Diplomatic — card 1644
+
+> C-512 **Combs, Samuel B.**  
+> Color **W** · Age **42** · Birthplace **Kentucky** · County **Owsley**  
+> Vol **76** · E.D. **90** · Sheet **[blank]** · Line **72**  
+> Other members: **Combs, Hulda** W **42** Kentucky; **Nancy** D **11** Kentucky; **Addie** D **6** Kentucky; **James** S **3¾** Kentucky.  
+> Form **A-1a**.
+
+Pass 2: Sheet number blank on the card. ED is **90**, not **92**. Age 42 vs 1910 37 is **+5**, not averaged.
+
+### Diplomatic — cards 1252–1253 (Lowe slot)
+
+> C-512 **Combs, Louise** · W **54** · Kentucky · Madison · Berea · Prospect N.R. · Vol **67** ED **103** sh **11** ln **17** · Bessie D 18; Deleprey S 11.
+
+> C-512 **Combs, Loya** · W **32** · Kentucky · Boyd · Ashland · Jefferson · Vol **8** ED **28** sh **7** ln **24** · Ethel W 22.
+
+Pass 2: Leaves **1252** and **1253** are consecutive. **No** Combs, Lowe card between them.
+
+### Facts extracted → claim IDs
+- Samuel B ED 90, PROBABLE 1910 dw 1, not ED 92 sh 1 → C777 / C778
+- Nil Combs, Lowe given-name card → C789
+
+## DOC120 — 1920 Kentucky Soundex G-163, Gabbard Elijah Lee + Gabbard Lee Breathitt (derivative)
+
+- Card 3189: `sources/soundex/ky1920-g163-p3189-gabbard-elijah-lee.jpg` SHA-256 `38de01139a1179d496f481ee12b59d036bb7dbfa0dffb51b9414533c2b83598b`
+- Card 3434: `…p3434-gabbard-lee-breathitt.jpg` `34fafcd35c7df67bfff9e3e0303d0c7b9d68cbf95f1d6d77b8ea3fecd77c46f5`
+- Extract: `ky1920-g163-gabbard-pass72.txt` `faab7378ca9188cbb60fe516ba7d4258d561de8483c6f6634fe2d31ca57455f5`
+- Provenance: NARA M1563 reel **57** / IA `soundex1920ky057` leaves **3189** and **3434**, opened 30 Oct 2026. **Image-seen.** Given-name sort (Elijah in the E window; Lee in the L window).
+
+### Diplomatic — card 3189
+
+> G-163 **Gabbard, Elijah**  
+> Color **W** · Age **41** · Birthplace **Kentucky** · County **Lee**  
+> Vol **59** · E.D. **113** · Sheet **5** · Line **1**  
+> Other members: **Gabbard, Annie** W **41** Kentucky; **William** S **22**; **Edward** S **18**; **Elijah** S **15**; **Sally** D **13**.  
+> Clerk note **#1 see #2**.
+
+Pass 2: County is **Lee**, not Owsley. Do **not** merge with 1910 Buffalo Elijah × Amy (**C779**).
+
+### Diplomatic — card 3434
+
+> G-163 **Gabbard, Lee**  
+> Color **W** · Age **47** · Birthplace **Kentucky** · County **Breathitt**  
+> Vol **6** · E.D. **48** · Sheet **9** · Line **85**  
+> Other members: **Gabbard, Orlena** W **47** Kentucky; **Gil** S **17**; **Jeff** S **15**; **Abbie** D **13**; **Cindy** D **11**.  
+> Clerk note **#1 see #2**.
+
+Pass 2: County is **Breathitt**. Continuation **3435** (image-seen, not cropped into this JPEG) adds Laura 7, Joe 5, Wesley 3, Johndy 10/12. Do **not** merge with 1910 Buffalo Lee × Eliza 1-1 Lillie 6 (**C780**).
+
+### Facts extracted → claim IDs
+- Elijah 41 Lee not merged with 1910 Amy → C779
+- Lee 47 Breathitt not merged with 1910 Eliza → C780
+- P.H. 43 Owsley ED 91 (leaf 3560, not this JPEG) → C781
+
+
 

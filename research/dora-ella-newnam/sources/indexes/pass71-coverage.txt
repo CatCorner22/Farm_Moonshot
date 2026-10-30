@@ -1,0 +1,22 @@
+Pass 71 coverage — 30 Oct 2026
+Catalog 114 / hasMore false / totalMatched 114. Unchanged vs Pass 70.
+This run bc-01a18bb4-e162-785c-9724-86a7c5663bf1. Nested reviewer not respawned.
+bc-9acea467 still RUNNING empty. No IDs imported.
+
+Originals image-seen: 1910 T624-498 leaf 957 ED 168 sh 5 B dw 76/76 Gilbert, John 74.
+Soundex image-seen: G-416 leaves 2002–2036 (John window + Douglas ED 92 sh 2);
+C512 samples on reel 32; G163 samples on reel 57.
+
+Lee Books 4–9 and Owsley VS 1903–4 opened: nil Josephine Newnam × Gilbert.
+Jackson KYGenWeb marry G and N-P opened: nil Robert × Josephine Newnam.
+Gilbert/Griffith Cemetery HTML opened: nil Josephine.
+TFKRHA 1916 G and Owsley 1843–80 marriages live 429.
+Breathitt/Estill/Clay KYGenWeb marriage landings 404.
+USGenNet 1920 Owsley census 404.
+
+Original 1932 DC vol 020 #09525, 1916 vol 044 #21663 face, 1840 bond,
+M123-3, T288 still unseen. Do not promote C509.
+ED 92 hh 1–13 still residual (Soundex indexes filmed ED 92 sheets; sh 1 A-form
+cards not found in the windows read).
+Josephine×Gilbert ~1902 civil license still unseen (VS gap 1879–1902; Lee 4–9 nil;
+Jackson G/N-P nil; neighboring KYGenWeb 404).

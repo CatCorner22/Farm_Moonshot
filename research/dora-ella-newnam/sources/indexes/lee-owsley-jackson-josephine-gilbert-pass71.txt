@@ -1,0 +1,54 @@
+Pass 71 — Josephine Newnam × Gilbert civil-license substitutes
+Opened 30 Oct 2026. Transcriptions / compiled indexes. Nil of that couple.
+
+Lee Co. KY Marriage Books (Debi Kendrick, USGenNet /usa/ky/county/lee/marriage/):
+  Book 4 (1891–1896) https://usgennet.org/usa/ky/county/lee/marriage/marrbook4.html
+    GILBERT × Josie D. CRABTREE — other person (Josephine Newnam would be a child).
+    GILBERT × Nancy A. PHILLIPS; GILBERT × Sarah LEWIS; PHILLIPS × Lucinda GILBERT.
+    Josephine LYNCH × Sidney LYNCH — other person.
+  Book 5 (1896–1902) marrbook5.html
+    Brides Josie Belle KENDRICK; Josephine MOORE; Josie SPICER — other people.
+    Gilbert grooms: Ruhamy ROBERTS; Rebecca Jane CAMPBELL; Eva J. HOLLON; Tempa H. SHOEMAKER.
+    Nil Josephine/Josie Newnam/Newman × Gilbert.
+  Book 6 (1900–1903) marrbook6.html  — covers the ~1902 m1-8 window
+    Brides Josie T. NEWTON; Josie Goe — other people.
+    W. GILBERT × Emily Jane SHOEMAKER.
+    Nil Josephine/Josie Newnam/Newman × Gilbert.
+  Book 7 (1903–1906) marrbook7.html
+    Bride Josie COMBS — other person.
+    C. GILBERT × Carrie HORN.
+    Nil Josephine/Josie Newnam/Newman × Gilbert.
+  Book 8 (1906–1909) marrbook8.html
+    Brides Josie BLOUNT; Josie McKenney; Josie ADDISON — other people.
+    GILBERT × Mattie CARTER; Brucie NEWTON; Dora DEATON (groom Gilbert, bride Dora Deaton — not P001).
+    Nil Josephine/Josie Newnam/Newman × Gilbert.
+  Book 9 (1909–1913) marrbook9.html
+    Full-text grep nil Josephine/Josie near Gilbert as this couple.
+    (Couple already married m1 8 by Apr 1910; this book is a delayed-recording check.)
+
+Owsley Co. KY VS 1903 & 1904
+  https://usgennet.org/usa/ky/county/owsley/marriages/1903-4.html
+  Nil Josephine/Josie as bride or groom.
+  Nil Newnam/Newman × Gilbert.
+  Other people: Manerva NEWMAN (not this bride); Gilbert HARRIS (not this groom).
+  Published VS gap remains 1879–1902 (the ~1902 license year).
+
+Jackson Co. KY marriages compiled by Edie Smith, KYGenWeb /jackson/marry/
+  g-marriages.html Gilbert grooms: Dace × Sloan, Polly Ann 12-5-1900;
+    James M. × Morris, Leatha A. 12-3-1888; James M. × Fowler, Annise B. 1904;
+    John R. × Montgomery, Josephine 5-10-1892 (other Josephine);
+    Quiller Peter × Flannery, Nancy M. 8-13-1885.
+    Nil Robert Gilbert × Josephine/Josie Newnam/Newman 1901–1903.
+  n-pmarriages.html Newman, Thomas A. × Jones, Mattie 2-21-1895 d/o Franklin B.
+    Nil Newnam heading. Nil Josephine Newnam bride.
+    Smith, Josie is another surname block.
+
+Breathitt / Estill / Clay KYGenWeb marriage landing pages: HTTP 404
+  (breathitt/marriage.htm → 404.html; estill/marriages.html 404; clay/marriages.html 404).
+
+TFKRHA Marriages_Owsley_1843-80.php and 1916_Deaths_G.php live HTTP 429 this pass
+  (SSL name-mismatch on www.tfkrha.org; insecure retry also 429).
+
+USGenNet Owsley /census/1920/ still 404. Census index has 1860–1910 and 1940; no 1920 transcript.
+
+Gilbert/Griffith Cemetery (kygenweb.net/owsley/cemetery/gilbert.htm): nil Josephine, Josie, Newman, Newnam, Robert Gilbert as a named stone in the HTML.

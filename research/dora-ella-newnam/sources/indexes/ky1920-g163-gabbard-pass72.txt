@@ -1,0 +1,44 @@
+Pass 72 — 1920 KY Soundex G-163 Gabbard (IA soundex1920ky057)
+NARA M1563 reel 57. Given-name sort (Gabbard / Gabehart / Gabbert / Gifford interleaved).
+Code bounds from this reel: G-152 ~2800; G-163 C-tab ~3100; G-200 ~3800.
+Image-seen 30 Oct 2026 (America/New_York). Derivative.
+
+Elijah given-name zoom 3080–3190:
+- 3160 Gabbard, Denzel 5 Jackson vol 41 ED 27 sh 6 ln 18, nephew of Rose, James H. Other.
+- 3186 Gabbard Elbert 22 Whitley. Other.
+- 3188 Gabbard, Eli 24 Jackson. Other.
+- 3189 Gabbard, Elijah W 41 Kentucky, Lee, vol 59 ED 113 sh 5 ln 1
+       × Annie W 41; William S 22; Edward S 18; Elijah S 15; Sally D 13. #1 see #2.
+- 3190 continuation: Piere S 9; Mitchell S 4; Ottie D 1 1/2. #2 see #1.
+NIL Owsley vol 76 ED 92 sh 1 Elijah.
+
+Hard Rule 3 vs 1910 Buffalo dw 5/5 Gabbard, Elijah 38 × Amy 38 5-5, sons William 12 / Edward 9 /
+Elisha 4 / Nora 7 / Sydney 2 6/12:
+  Suggestive: William 12→22 (+10), Edward 9→18 (+9).
+  Contradict: head 38→41 is +3 not +10; Amy vs Annie; Owsley vs Lee; Nora 7 vs Sally 13;
+  Sydney 2 vs Piere 9. NOT MERGED.
+
+Lee given-name zoom 3420–3458:
+- 3431 Gabbard, Laura 40 Madison vol 67 ED 103 sh 16 ln 37 × Etna D 20, Eva D 15, Lewis S 13. Not a Lee head.
+- 3432 Gifford, Lawrence 16 Mason vol 68 ED 120 sh 8 ln 42, brother of Poe, Elenor. Other surname.
+- 3433 Gabbard, Leander 26 Jackson vol 41 ED 25 sh 6 ln 98 × Fannie W 19, Virgil S 3/12. Other.
+- 3434 Gabbard, Lee W 47 Kentucky, Breathitt, vol 6 ED 48 sh 9 ln 85
+       × Orlena W 47; Gil S 17; Jeff S 15; Abbie D 13; Cindy D 11. #1 see #2.
+- 3435 continuation: Laura D 7; Joe S 5; Wesley S 3; Johndy S 10/12. #2 see #1.
+NIL Owsley vol 76 ED 92 sh 1 Gabbard Lee.
+
+Hard Rule 3 vs 1910 Buffalo dw 6/6 Gabbard, Lee 37 m1 12 × Eliza 30 1-1, Lillie D 6:
+  Contradict: Eliza vs Orlena; Breathitt vs Owsley; 1910 1 living child vs 1920 eight children
+  including Gil 17 (would have been ~7 in 1910, contradicting 1-1). NOT MERGED.
+
+P given-name:
+- 3560 Gabbard, P. H. W 43 Kentucky, Owsley, vol 76 ED 91 sh 6 ln 22
+       × Lula W 36; Isaac S 18; Cash S 13; Nello S 10; Thelma D 8. #1 see #2.
+  ED 91 Cow Creek is already filmed and every-name-read (Pass 68). Not ED 92 sh 1.
+
+John sample: 3400 Gabbard, John W 66 Lee vol 59 ED 113 sh 1 ln 89, living alone. Other.
+Frieda sample: 3480 Gabbard, Frieda 16 Breathitt vol 6 ED 47 sh 11 ln 39, sister of Gabbard, Clay. Other.
+
+Prior residual “3601–3799 for Gabbard” was the wrong window: leaf 3600 is Gabehart/Habehart
+Robert L Taylor (G-163 Robert given-name), not the start of Gabbard. Gabbard Elijah sits in
+the E window; Gabbard Lee in the L window.

@@ -1,0 +1,53 @@
+Pass 72 — Josephine Newnam × Gilbert ~1902 neighboring-county substitutes
+Opened 30 Oct 2026 (America/New_York). Derivative HTML / two Estill return images.
+
+WOLFE — https://kygenweb.net/wolfe/Marriage.htm opened (1861–1909 VS film compilation).
+  nil Gilbert, Newman, Newnam, Josie as a party.
+  Josephine B. Tutt is other Josephine.
+
+CLAY — https://kygenweb.net/clay/marriages/ (live alternate; prior /marriages landing was 404).
+  gmg.htm G grooms: Gilbert, Wallace W. 1823; Gilbert, William 1825; Gabbard, Gilbert (given Gilbert);
+    Gibson, Gilbert 1891/1920 other. nil Robert × Josephine Newnam.
+  gmnq.htm N–Q grooms: nil Newman/Newnam.
+  brdg.htm G brides: Harriet / Marianne / Sally / Sylvania Gilbert. nil Josephine.
+  brdmn.htm M–N brides: nil Newnam/Newman/Josephine.
+
+ESTILL — https://kygenweb.net/estill/site/records/marriages/ live alternate.
+  grooms.htm compiled file has no 190x years. Newman, Nancy × Sparks, James 9 Dec 1825 only Newman.
+  nil Gilbert grooms in that compiled file.
+  certificates: Tipton, Joseph × Margaret Gilbert June 1835 — other couple, other century.
+  Minister-return IMAGES (not a county-wide 1902 nil — these plates only):
+    1901 July–August plate, 8 couples, nil Josephine × Gilbert.
+      25 Jul 1901 Elias [Krytzfang?] × Rosie Farthing
+      27 Jul 1901 W.H. Spicy × Sarah A Reed
+      1 Aug 1901 James Parks × Nellie Walling
+      1 Aug 1901 Author Witt × Emma Wise
+      14 Aug 1901 Alfred Bailey × Mallie Townsend
+      7 Aug 1901 Clark Baston × Julie Richardson
+      22 Aug 1901 Jasper Gray × M.E. Johnson
+      22 Aug 1901 B.F. Hall × Grace Estes
+    1902 late March–3 Apr plate (page 79), 8 couples, nil Josephine × Gilbert.
+      24 Mar 1902 [Cline?] Crouch × Myrtle Rogers
+      27 Mar 1902 Alcor Stafford × Lottie Skinner
+      29 Mar 1902 J.B. Harsh × Lucy Cox
+      26 Mar 1902 Mike Winkler × Nannie Gross
+      20 Mar 1902 [Jane?] Mills × Sallie Puckett
+      29 Mar 1902 L. Wolfenbarger × Minnie Johnson
+      26 Mar 1902 Jas Robert × Martha Cody
+      3 Apr 1902 Jesse Williams × Sarah C. Lyons
+
+JACKSON H (prior residual): Gilbert × Moore, Mary Ellen 1878–79 other.
+
+BREATHITT — still not opened:
+  /marriages/ HTTP 403 (Pass 71)
+  /marriage/ Oops page
+  /vitals/marriages.html Oops/404
+  kykinfolk Breathitt redirected to kygenweb.net/breathitt/
+  usgwarchives.net timed out (90s then 20s)
+
+PERRY — https://kygenweb.net/perry/marriage/ opened: coverage 1821–1846 and 1852–1859 only.
+  n/a for a ~1902 license.
+
+TFKRHA Owsley 1843–80 / 1916 G still HTTP 429.
+USGenNet 1920 Owsley census HTML still 404.
+Estill grooms.htm is early-19th-c compiled, not a 1902 register.

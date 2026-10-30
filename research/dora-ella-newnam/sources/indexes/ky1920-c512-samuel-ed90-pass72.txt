@@ -1,0 +1,26 @@
+Pass 72 — 1920 KY Soundex C-512 denser Samuel window (IA soundex1920ky032)
+NARA M1563 reel 32. Given-name sort within the code (not surname-then-given).
+Image-seen 30 Oct 2026 (America/New_York). Derivative of the 1920 population schedule.
+
+Window sampled: leaves 1560, 1570, 1580, 1590, 1600, 1610, 1620, 1630, 1632, 1634,
+1636, 1638, 1640, 1642, 1644, 1646, 1648 (plus Pass 71 coarser samples).
+
+Sequence in this window:
+- through ~1580 still Robert given-name
+- ~1590 Roscoe
+- ~1600 Saffie
+- 1610 Combs, Sam 50 Breathitt vol 6 ED 53 sh 9 ln 28 × Haley 48, Haty 12 (Not Reported nativity)
+- 1644 Combs, Samuel B. W 42 Kentucky, Owsley, vol 76 ED 90 line 72 (sheet blank on card)
+      × Hulda W 42; Nancy D 11; Addie D 6; James S 3 3/4. All Kentucky. A-1a.
+- Other Samuel cards in the denser window (Perry 36, Leslie 43, Breathitt 55, LaRue Black 60,
+  Knott 24) are not vol 76 ED 92 sh 1.
+
+NIL vol 76 ED 92 sh 1 in this denser Samuel window.
+
+Same-person vs 1910 Buffalo dw 1/1 Combs, Samuel 37 m1 15 × Hulda 33 6-2 + John H 14 + Nancy 2 2/12:
+  Align: Samuel Combs + wife Hulda + daughter Nancy 2 2/12 → 11 + Owsley.
+  Contradict: head age 37→42 is +5 not +10 (Hulda 33→42 is +9; Nancy +9).
+  1920 children Addie 6 / James 3 3/4 born after April 1910; John H 14 expected ~24 and out of house.
+  Location: 1920 card is ED 90 (Island Creek; filmed and already every-name-read in Pass 66–67),
+  NOT ED 92 sh 1.
+  PROBABLE same 1910 dw 1 couple; not merged as proved; age not averaged; not the missing sh 1 house.
