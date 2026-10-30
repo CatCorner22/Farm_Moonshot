@@ -441,6 +441,48 @@ PLATES: list[dict] = [
         caption="Individual card, July 1896, age 3, Peru, Miami County, enumerated with a Kennedy household. The card immediately before Indianapolis Jessie, 42. A toddler, not Jesse Conrad ~27.",
         source="S303 · C361",
     ),
+    dict(
+        n=106, date="1900 (index)", year=1900, role="rejected",
+        path="soundex/il1900-c563-p2569-jesse-17-scott.jpg",
+        title="Illinois C-563 — Jesse Conrad, 17, Scott County",
+        caption="Individual card, November 1882, age 17, Indiana-born, Point Pleasant Township, boarder with William Richardson, volume 146, ED 136, sheet 4, line 61. The only Jesse given-name card in the Illinois 1900 C-563 J-window. A teenager, not Jesse Conrad ~27.",
+        source="S306 · C366 · C367",
+    ),
+    dict(
+        n=107, date="1900 (index)", year=1900, role="rejected",
+        path="soundex/il1900-c563-p2570-jessie-41-decatur.jpg",
+        title="Illinois C-563 — Jessie Conrad, 41, Decatur",
+        caption="White head, July 1858, age 41, born Indiana, Macon County, Decatur Township. Children Pearl, Henry, Blanche (Ohio) and Nellie (Illinois). The Jessie head immediately after Jesse, 17. Age and a four-child household fail vs 1910 Jesse Conrad. Next cards are Joe.",
+        source="S306 · C366 · C368",
+    ),
+    dict(
+        n=108, date="1900 (index)", year=1900, role="negative",
+        path="soundex/tn1900-c563-p3036-jennie-lincoln.jpg",
+        title="Tennessee C-563 — Jennie Conrad, 36, Lincoln County",
+        caption="White head, October 1865, age 36, Tennessee-born, 24th Civil District, volume 43, ED 76, sheet 13, line 56. Last J-given card before the John block. Combined with Plate 109, no Jesse sits between Jennie and John on the Tennessee 1900 C-563 reel.",
+        source="S307 · C369",
+    ),
+    dict(
+        n=109, date="1900 (index)", year=1900, role="context",
+        path="soundex/tn1900-c563-p3037-john-coffee.jpg",
+        title="Tennessee C-563 — John Coonrod, 10, Coffee County",
+        caption="Individual card, July 1889, age 10, Tennessee-born, 6th Civil District, volume 9, ED 31, sheet 9, line 96. The first John card. It is the leaf immediately after Jennie (Plate 108).",
+        source="S307 · C369",
+    ),
+    dict(
+        n=110, date="1900 (index)", year=1900, role="rejected",
+        path="soundex/ar1900-c563-p619-jesse-r-izard.jpg",
+        title="Arkansas C-563 — Jesse R Conrad, 34, Izard County",
+        caption="White head, December 1865, age 34, born Tennessee, Claiborne Township, volume 17, ED 159, sheet 2, line 2. Wife Sarah B, October 1873, age 26, Arkansas; children Mary, Baxter L, and Honey, all Arkansas-born. The only Jesse head on the Arkansas 1900 C-563 reel. Age, nativity, and an intact Arkansas household fail vs 1910 Jesse Conrad. No Letha.",
+        source="S308 · C370 · C371",
+    ),
+    dict(
+        n=111, date="1900 (index)", year=1900, role="rejected",
+        path="soundex/in1900-s415-p1220-jessie-lula-greene.jpg",
+        title="Indiana S-415 — Jessie Sullivan, 28, Greene County",
+        caption="White head, December 1871, age 28, Indiana-born, Center Township, volume 25, ED 23, sheet 7, line 39. Wife Lula, December 1878, age 21, Indiana. No children. Not the 1910 Letha Sullivan household and not a Missouri-born wife.",
+        source="S309 · C372",
+    ),
     # --- 1910 Soundex / Miracode ---
     dict(
         n=17, date="Apr 1910", year=1910, role="negative",

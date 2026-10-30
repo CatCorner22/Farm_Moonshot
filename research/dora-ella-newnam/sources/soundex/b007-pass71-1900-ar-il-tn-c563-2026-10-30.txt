@@ -1,0 +1,58 @@
+Pass 71 — 1900 AR / IL / TN C-563 Jesse + IN S-415 John
+Date: 30 Oct 2026 (America/New_York)
+Backlog: B007 residual other-state 1900
+
+=== Access ===
+Image seen via IA BookReader page JPEGs (not the full 100–350 MB PDFs).
+  IL C-563 = soundex1900il083 (C-553–C-600)
+  TN C-563 = soundex1900tn036 (C-540–C-600)
+  AR C-563 = soundex1900ar025 (T1033 C-540–C-600; film order messy / often reverse-alpha within code)
+  IN S-415 John = soundex1900in208 (already located Pass 70)
+Local /tmp/p71/ working crops not committed except the evidence JPEGs listed in S306–S309.
+
+=== IL C-563 Jesse window (il083 n2561–n2579, every card) ===
+n2560 Conrad James R Black 49 NC Chicago (prior sample) + wife Jessie 33 MO — wife, not a Jesse head.
+n2561 Conrad James R 47 OH Moultrie.
+n2562 Conard James W 30 IN Edgar.
+n2563 Connerton Jane 28 IN Chicago individual.
+n2564 Coonrod Jefferson 77 IL Green Greenfield.
+n2565 Conrad Jenniah 40 IL Shelby.
+n2566 Connerty Jennie 25 IL Chicago individual.
+n2567 Conrad Jennie 24 IL Rock Island.
+n2568 Coonrod Jennie 20 IN Green Greenfield individual.
+n2569 Conrad Jesse W Nov 1882 17 IN Scott Point Pleasant Twp — INDIVIDUAL / boarder with Richardson, William. Vol 146 ED 136 sh 4 ln 61. Too young; not a head.
+n2570 Conrad Jessie W July 1858 41 IN Macon Decatur Twp Decatur — HEAD. Vol 118 ED 46 sh 40 ln 67. Children Pearl D 17 OH, Henry S 15 OH, Blanche D 14 OH, Nellie D 8 IL. Too old; female-pattern household.
+n2571 Conryth Joe 20 IL Kane Aurora individual.
+n2572+ Joe / Johanna / John. No White Jesse ~27 between Jessie 41 and Joe.
+
+=== TN C-563 Jesse window (tn036 n3031–n3039, every card) ===
+n3030 Conrad Herman 36 NY Memphis individual.
+n3031 Coonrod Huston B Mar 1872 27 TN Hamilton Chattanooga individual — named Huston, Colored, not Jesse.
+n3032 Coonrod Isaiah B May 1870 30 TN Coffee 6th Civil Dist head.
+n3033 Conrad J. L. W July 1835 64 OH Marshall Civil Dist 4 head.
+n3034 J. L. continuation: P.B. son 16 MO; Cowder gdau 4 TN.
+n3035 Conrad James H W Jan 1849 51 MD Tipton.
+n3036 Conrad Jennie W Oct 1865 36 TN Lincoln 24th Civil Dist head. Vol 43 ED 76 sh 13 ln 56.
+n3037 Coonrod John B July 1889 10 TN Coffee 6th Civil Dist individual. Vol 9 ED 31 sh 9 ln 96.
+n3038 Conerdy John W W May 1865 35 AL Lawrence Dist 2.
+n3039 Conrad Joseph W June 1870 29 IL Hickman.
+Jennie (n3036) is immediately followed by John (n3037). No Jesse card.
+
+=== AR C-563 (ar025; code block n600–n660, reverse-ish given names) ===
+Film map: n400 C-600; n500–n590 C-565 Cameron; n600–n650 C-563; n660 C-562; n700 C-560.
+n619 Conrad Jesse R W Dec 1865 34 TN Izard Claiborne Twp. Vol 17 ED 159 sh 2 ln 2.
+  Sarah B wife Oct 1873 26 AR; Mary A? dau Nov 1894 5 AR; Baxter L son Feb 1896 4 AR; Honey? son Nov 1898 1 AR.
+  Reject vs 1910 Jesse Conrad (age 34 vs ~27; nativity TN vs MO; intact AR children; no Letha).
+n618 John B Canard 53; n620 James S Canerday 54. Jesse R is the only Jesse head in the J run.
+
+=== IN S-415 John + Jessie (in208 n1220–n1380) ===
+n1220 Sullivan Jessie HEAD W Dec 1871 28 IN Greene Center Twp. Vol 25 ED 23 sh 7 ln 39.
+  Lula wife Dec 1878 21 IN. No children. Not C244.
+John band n1230–n1340 sampled every ~10 pp (plus n1230/1240/1250/1260/1270/1280/1290/1300/1310/1320/1330/1340):
+  wives seen Ohio / Indiana / Ireland; individuals MA / England / IN. No MO-born wife + Letha ~2 on cards read.
+n1350 already Joseph. John window closed as to sampled cards; cards between 10-page samples unread.
+
+=== Residual ===
+Other-state 1900 beyond AR/IL/TN/IN/KY/MO (OH, IA, KS, OK, TX C-563 if those reels exist on IA).
+IN S-415 unread cards between John samples; other given-name Sullivan heads (not John/Francis) with a Letha ~2 child.
+B049 1926 obituary; R001/R007/R008; B045 probate; B047 M1509.

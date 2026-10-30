@@ -79,6 +79,12 @@ Diplomatic transcriptions: [`08-transcriptions.md`](08-transcriptions.md). Citat
 | 103 | 1900 (index) | Rejected same-name | [Indiana C-563 — Jessie Conrad, 42, Indianapolis](sources/soundex/in1900-c563-p1081-jessie-42-indianapolis.jpg) |
 | 104 | 1900 (index) | Rejected same-name | [Kentucky C-563 — Jerry C Conrad, 35, Kenton](sources/soundex/ky1900-c563-p2825-jerry-c-kenton.jpg) |
 | 105 | 1900 (index) | Rejected same-name | [Indiana C-563 — Jessie, age 3, Miami County](sources/soundex/in1900-c563-p1080-jessie-age3-miami.jpg) |
+| 106 | 1900 (index) | Rejected same-name | [Illinois C-563 — Jesse Conrad, 17, Scott County](sources/soundex/il1900-c563-p2569-jesse-17-scott.jpg) |
+| 107 | 1900 (index) | Rejected same-name | [Illinois C-563 — Jessie Conrad, 41, Decatur](sources/soundex/il1900-c563-p2570-jessie-41-decatur.jpg) |
+| 108 | 1900 (index) | Negative search | [Tennessee C-563 — Jennie Conrad, 36, Lincoln County](sources/soundex/tn1900-c563-p3036-jennie-lincoln.jpg) |
+| 109 | 1900 (index) | Context | [Tennessee C-563 — John Coonrod, 10, Coffee County](sources/soundex/tn1900-c563-p3037-john-coffee.jpg) |
+| 110 | 1900 (index) | Rejected same-name | [Arkansas C-563 — Jesse R Conrad, 34, Izard County](sources/soundex/ar1900-c563-p619-jesse-r-izard.jpg) |
+| 111 | 1900 (index) | Rejected same-name | [Indiana S-415 — Jessie Sullivan, 28, Greene County](sources/soundex/in1900-s415-p1220-jessie-lula-greene.jpg) |
 | 17 | Apr 1910 | Negative search | [Kentucky N-550 — Millie / Missouri; no McCoy](sources/soundex/ky1910-n550-p329-millie-missouri.jpg) |
 | 18 | Apr 1910 | Negative search | [Kentucky N-550 — Monroe; still no McCoy](sources/soundex/ky1910-n550-p330-monroe-no-mccoy.jpg) |
 | 19 | Apr 1910 | Rejected same-name | [Kentucky N-550 — Sam / Samuel, none is the husband](sources/soundex/ky1910-n550-p342-sam-samuel-not-p002.jpg) |
@@ -736,6 +742,66 @@ August 1864, age 35, Kenton County, Independence; wife Mary, July 1865, age 34. 
 Individual card, July 1896, age 3, Peru, Miami County, enumerated with a Kennedy household. The card immediately before Indianapolis Jessie, 42. A toddler, not Jesse Conrad ~27.
 
 ![Indiana C-563 — Jessie, age 3, Miami County](sources/soundex/in1900-c563-p1080-jessie-age3-miami.jpg)
+
+### 106 · 1900 (index) · Illinois C-563 — Jesse Conrad, 17, Scott County
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/il1900-c563-p2569-jesse-17-scott.jpg`](sources/soundex/il1900-c563-p2569-jesse-17-scott.jpg)  
+**Source:** S306 · C366 · C367
+
+Individual card, November 1882, age 17, Indiana-born, Point Pleasant Township, boarder with William Richardson, volume 146, ED 136, sheet 4, line 61. The only Jesse given-name card in the Illinois 1900 C-563 J-window. A teenager, not Jesse Conrad ~27.
+
+![Illinois C-563 — Jesse Conrad, 17, Scott County](sources/soundex/il1900-c563-p2569-jesse-17-scott.jpg)
+
+### 107 · 1900 (index) · Illinois C-563 — Jessie Conrad, 41, Decatur
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/il1900-c563-p2570-jessie-41-decatur.jpg`](sources/soundex/il1900-c563-p2570-jessie-41-decatur.jpg)  
+**Source:** S306 · C366 · C368
+
+White head, July 1858, age 41, born Indiana, Macon County, Decatur Township. Children Pearl, Henry, Blanche (Ohio) and Nellie (Illinois). The Jessie head immediately after Jesse, 17. Age and a four-child household fail vs 1910 Jesse Conrad. Next cards are Joe.
+
+![Illinois C-563 — Jessie Conrad, 41, Decatur](sources/soundex/il1900-c563-p2570-jessie-41-decatur.jpg)
+
+### 108 · 1900 (index) · Tennessee C-563 — Jennie Conrad, 36, Lincoln County
+
+**Role:** Negative search  
+**File:** [`sources/soundex/tn1900-c563-p3036-jennie-lincoln.jpg`](sources/soundex/tn1900-c563-p3036-jennie-lincoln.jpg)  
+**Source:** S307 · C369
+
+White head, October 1865, age 36, Tennessee-born, 24th Civil District, volume 43, ED 76, sheet 13, line 56. Last J-given card before the John block. Combined with Plate 109, no Jesse sits between Jennie and John on the Tennessee 1900 C-563 reel.
+
+![Tennessee C-563 — Jennie Conrad, 36, Lincoln County](sources/soundex/tn1900-c563-p3036-jennie-lincoln.jpg)
+
+### 109 · 1900 (index) · Tennessee C-563 — John Coonrod, 10, Coffee County
+
+**Role:** Context  
+**File:** [`sources/soundex/tn1900-c563-p3037-john-coffee.jpg`](sources/soundex/tn1900-c563-p3037-john-coffee.jpg)  
+**Source:** S307 · C369
+
+Individual card, July 1889, age 10, Tennessee-born, 6th Civil District, volume 9, ED 31, sheet 9, line 96. The first John card. It is the leaf immediately after Jennie (Plate 108).
+
+![Tennessee C-563 — John Coonrod, 10, Coffee County](sources/soundex/tn1900-c563-p3037-john-coffee.jpg)
+
+### 110 · 1900 (index) · Arkansas C-563 — Jesse R Conrad, 34, Izard County
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/ar1900-c563-p619-jesse-r-izard.jpg`](sources/soundex/ar1900-c563-p619-jesse-r-izard.jpg)  
+**Source:** S308 · C370 · C371
+
+White head, December 1865, age 34, born Tennessee, Claiborne Township, volume 17, ED 159, sheet 2, line 2. Wife Sarah B, October 1873, age 26, Arkansas; children Mary, Baxter L, and Honey, all Arkansas-born. The only Jesse head on the Arkansas 1900 C-563 reel. Age, nativity, and an intact Arkansas household fail vs 1910 Jesse Conrad. No Letha.
+
+![Arkansas C-563 — Jesse R Conrad, 34, Izard County](sources/soundex/ar1900-c563-p619-jesse-r-izard.jpg)
+
+### 111 · 1900 (index) · Indiana S-415 — Jessie Sullivan, 28, Greene County
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/in1900-s415-p1220-jessie-lula-greene.jpg`](sources/soundex/in1900-s415-p1220-jessie-lula-greene.jpg)  
+**Source:** S309 · C372
+
+White head, December 1871, age 28, Indiana-born, Center Township, volume 25, ED 23, sheet 7, line 39. Wife Lula, December 1878, age 21, Indiana. No children. Not the 1910 Letha Sullivan household and not a Missouri-born wife.
+
+![Indiana S-415 — Jessie Sullivan, 28, Greene County](sources/soundex/in1900-s415-p1220-jessie-lula-greene.jpg)
 
 ## 1910 — Soundex, Peebles test, and Sturgeon ED 99
 

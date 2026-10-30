@@ -823,5 +823,53 @@ Next card is **Joel** **50**. No White Jesse ~**27**. → **C361 / C362**.
 
 Preceded by James W / Jennie; followed by Johns. No Jesse. → **C364 / C365**.
 
+## DOC046 — 1900 IL Soundex C-563, Jesse 17 + Jessie 41
+- Images: `sources/soundex/il1900-c563-p2569-jesse-17-scott.jpg` SHA-256 `eb2e615beeff79796cefebf1170ed646c6bc96e4e6494954db76283fb276fff1`; `…-p2570-jessie-41-decatur.jpg` `82beb68d9ecbfd12b443c503b36e2ee8acf99d878cb9635422eafcf7e90eafeb`
+- Reel: IA `soundex1900il083` n**2569–2570**
+- Provenance: **Image seen** 30 Oct 2026 (IA BookReader JPEG)
+
+### Diplomatic
+> **C-563 Conrad, Jesse** — Individual · vol **146** ED **136** sh **4** ln **61** · W Nov **1882** **17** Indiana · Scott · Point Pleasant Twp · enumerated with Richardson, William · relationship Boarder  
+> **C-563 Conrad, Jessie** — Head · vol **118** ED **46** sh **40** ln **67** · W July **1858** **41** Indiana · Macon · Decatur Twp · Decatur  
+> **Pearl** — D, Oct **1882**, **17**, Ohio  
+> **Henry** — S, June **1884**, **15**, Ohio  
+> **Blanche** — D, Feb **1886**, **14**, Ohio  
+> **Nellie** — D, Sept **1891**, **8**, Illinois
+
+Next cards are **Joe**. No White Jesse ~**27**. → **C366 / C367 / C368**.
+
+## DOC047 — 1900 TN Soundex C-563, Jennie then John
+- Images: `sources/soundex/tn1900-c563-p3036-jennie-lincoln.jpg` SHA-256 `0f6fcc83b86d89d2f48dc6190e6828658f144123c400e0e0be1273ef85f3351b`; `…-p3037-john-coffee.jpg` `4d4e839ad5f05d9081bca3e88939db26073850e2be1c352c5118a3f027dcca81`
+- Reel: IA `soundex1900tn036` n**3036–3037**
+
+### Diplomatic
+> **C-563 Conrad, Jennie** — Head · vol **43** ED **76** sh **13** ln **56** · W Oct **1865** **36** Tennessee · Lincoln · 24th Civil Dist  
+> **C-563 Coonrod, John** — Individual · vol **9** ED **31** sh **9** ln **96** · B July **1889** **10** Tennessee · Coffee · 6th Civil Dist
+
+Consecutive leaves. No Jesse between Jennie and John. → **C369**.
+
+## DOC048 — 1900 AR Soundex C-563, Jesse R Izard
+- Image: `sources/soundex/ar1900-c563-p619-jesse-r-izard.jpg` SHA-256 `4001251ede0d2af44c7a2c8ee8be443da6273dfabe66a188e58ea5ab29d40fa7`
+- Reel: IA `soundex1900ar025` n**619**
+
+### Diplomatic
+> **C-563 Conrad, Jesse R** — Head · vol **17** ED **159** sh **2** ln **2** · W Dec **1865** **34** Tennessee · Izard · Claiborne Twp  
+> **Sarah B** — Wife, Oct **1873**, **26**, Arkansas  
+> **Mary A[?]** — D, Nov **1894**, **5**, Arkansas  
+> **Baxter L** — S, Feb **1896**, **4**, Arkansas  
+> **Honey[?]** — S, Nov **1898**, **1**, Arkansas
+
+Preceded by John; followed by James. Only Jesse head on the AR C-563 reel. Not 1910 Jesse. → **C370 / C371**.
+
+## DOC049 — 1900 IN Soundex S-415, Jessie Sullivan + Lula
+- Image: `sources/soundex/in1900-s415-p1220-jessie-lula-greene.jpg` SHA-256 `538dd24c2fa28279fa9e7d45f0a64c8b9fefbf810c9d1d4e36a3b4e662b01a83`
+- Reel: IA `soundex1900in208` n**1220**
+
+### Diplomatic
+> **S-415 Sullivan, Jessie** — Head · vol **25** ED **23** sh **7** ln **39** · W Dec **1871** **28** Indiana · Greene · Center Twp  
+> **Lula** — Wife, Dec **1878**, **21**, Indiana
+
+No children. Not C244. → **C372**.
+
 ## DOC009 — 1910 TN Soundex N-550 McCoy window (nil)
 Handwritten family/individual cards n2461–n2469. Sequence after Mary C (n2460): Mary D 49 Jefferson (son Layton 11); Mary M 70 Hamilton; Mek. G 50 Cheatham (Florence 19, John 17, General 16, Frances 13, William 10, Doria 6, Luther 1½); Melvin 3½ Giles (gs of Deacon George W); Melvin 54 Giles (SIL of same); Minerva 80 Robertson (gds Lona Neely, Nellie Erwin); Minnie 21 Roane (with Sam P. Sparks); Mitchell 27 Hardin (Ollie P 25, Gladys 4, Burl W 3, Royal E 1 9/12). **No McCoy.** SHA-256 n2463 `23610f8aa4c159b1b554ed1786d11f57d2f56f8a2e8994f7289ae7bd02dfca53`; n2469 `340489566090880388fa6b81ca5751c5944dcaf56a7b44f70fe560788f308586`.

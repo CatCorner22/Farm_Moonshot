@@ -401,3 +401,23 @@ research/dora-ella-newnam/sources/soundex/ky1900-c563-p2825-jerry-c-kenton.jpg
   format: JPEG Soundex card, IA soundex1900ky038 n2825 (inverted)
 research/dora-ella-newnam/sources/soundex/b007-pass70-1900-ky-in-c563-2026-10-30.txt
   format: Pass 70 KY/IN C-563 + IN S-415 search log
+research/dora-ella-newnam/sources/soundex/il1900-c563-p2569-jesse-17-scott.jpg
+  sha256: eb2e615beeff79796cefebf1170ed646c6bc96e4e6494954db76283fb276fff1
+  format: JPEG Soundex card, IA soundex1900il083 n2569
+research/dora-ella-newnam/sources/soundex/il1900-c563-p2570-jessie-41-decatur.jpg
+  sha256: 82beb68d9ecbfd12b443c503b36e2ee8acf99d878cb9635422eafcf7e90eafeb
+  format: JPEG Soundex card, IA soundex1900il083 n2570
+research/dora-ella-newnam/sources/soundex/tn1900-c563-p3036-jennie-lincoln.jpg
+  sha256: 0f6fcc83b86d89d2f48dc6190e6828658f144123c400e0e0be1273ef85f3351b
+  format: JPEG Soundex card, IA soundex1900tn036 n3036
+research/dora-ella-newnam/sources/soundex/tn1900-c563-p3037-john-coffee.jpg
+  sha256: 4d4e839ad5f05d9081bca3e88939db26073850e2be1c352c5118a3f027dcca81
+  format: JPEG Soundex card, IA soundex1900tn036 n3037
+research/dora-ella-newnam/sources/soundex/ar1900-c563-p619-jesse-r-izard.jpg
+  sha256: 4001251ede0d2af44c7a2c8ee8be443da6273dfabe66a188e58ea5ab29d40fa7
+  format: JPEG Soundex card, IA soundex1900ar025 n619
+research/dora-ella-newnam/sources/soundex/in1900-s415-p1220-jessie-lula-greene.jpg
+  sha256: 538dd24c2fa28279fa9e7d45f0a64c8b9fefbf810c9d1d4e36a3b4e662b01a83
+  format: JPEG Soundex card, IA soundex1900in208 n1220
+research/dora-ella-newnam/sources/soundex/b007-pass71-1900-ar-il-tn-c563-2026-10-30.txt
+  format: Pass 71 AR/IL/TN C-563 + IN S-415 John search log
