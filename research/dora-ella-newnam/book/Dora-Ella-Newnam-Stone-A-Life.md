@@ -51,6 +51,9 @@
 45. [Pass 100. Fred and Era in Irvine, and Madison is empty](#pass-100-fred-and-era-in-irvine-and-madison-is-empty)
 46. [Pass 101. Kentucky is roll 15, and 1950 33-8 is Millers Creek](#pass-101-kentucky-is-roll-15-and-1950-33-8-is-millers-creek)
 47. [Pass 102. The surviving 1926 weekly is the Post-Dispatch](#pass-102-the-surviving-1926-weekly-is-the-post-dispatch)
+48. [Pass 103. Roll 5 is at Pope County Library](#pass-103-roll-5-is-at-pope-county-library)
+49. [Pass 104. The Madison library archive starts in 2008](#pass-104-the-madison-library-archive-starts-in-2008)
+50. [Pass 105. Fayetteville holds the same 1926 weekly](#pass-105-fayetteville-holds-the-same-1926-weekly)
 
 ---
 
@@ -787,6 +790,52 @@ Kentucky’s digital newspaper program still ends the Berea *Citizen* in 1922. H
 
 John 38 and Jennie stay **rejected**. Floyd is still **not merged** with Boyd. The 1926 retrieval path is the *Dardanelle Post-Dispatch*, not the Democrat and not the Journal’s June issues. Do not print 1966 or 1976 as proven deaths. Do not print Floyd as Boyd. Do not print 1962 as McCoy’s death. Do not print the 1942 Combs charge as fact. [C1181]
 
+### Pass 103. Roll 5 is at Pope County Library
+
+The official National Archives T1224 pamphlet, seventeen pages, names the 1930 description rolls. They are rolls 61 through 90. Roll 69 is Kansas and Kentucky. Estill district 33-8 lives on that roll. The descriptions have not been read. [C1182] [S880]
+
+Steve Morse’s 1930 transcribed-description tool returns nothing for Kentucky keywords Estill, Station, Station Camp, or 33-8. The page says the National Archives and FamilySearch data are no longer online. The us-census Estill 1930 directory still publishes only districts 33-1 through 33-4. Districts 33-5 through 33-14, including Station Camp South, remain unpublished. [C1183] [C1184] [S881] [S882]
+
+Pope County Library’s Yell newspaper list names the reel. *Dardanelle Post-Dispatch* Roll 5 runs from 21 June 1923 through 26 April 1928. The library is at 116 East Third Street, Russellville, Arkansas. That reel includes August 1926. It has not been read. The Arkansas Digital Newspaper Program is Chronicling America only. digitalheritage.arkansas.gov did not resolve this pass. [C1185] [C1186] [S883] [S884]
+
+A Chronicling America search for “Dora Stone” in 1926 returns one hit: the *Evening star* of Washington, D.C., 24 December 1926. Wrong place. Wrong date. Rejected. Newnam and Ola in 1926 return nothing. [C1193] [S891]
+
+The free World War I ladders still do not produce Lee, Estill, or Owsley cards. Genealogy Trails’ Estill and Owsley military pages have no draft table. The Carter County roster of 4,434 names has five Newman men — Edward, James, Thornton, William, Willie — all Carter men. No Newnam. The McCoy surnames on that roster are other Carter men. They are not McCoy of Owsley and not John H. Kentucky Department for Libraries and Archives holds federal draft cards and published no name index in the twenty-nine-page introduction. [C1187] [C1188] [C1189] [S885] [S886] [S887]
+
+Madison County’s 1958 K–R death year-file independently lists the same man already in the statewide index: Newman, David G, 19 June 1958, age seventy, death Madison, residence Madison, volume 028, file 13719. The year-files for 1956 through 1961 have no other Newman or Newnam and no Frank decedent. A William J. Hutchins, eighty-six, who died 20 February 1958 in Madison, is not the library and is not Frank. [C1190] [C1191] [C473] [S888] [S889]
+
+The later title *The Berea Citizen*, Library of Congress control number SN85052075, begins 3 July 1958 and is not digitized. A death on 19 June 1958 is still *The Citizen* on the Hutchins June 1958 film. FamilySearch 1146342, 127913, and 1810731 rendered a login shell — roadblock step 52. Do not re-ask the clerk. Do not print 1966 as fact. [C1192] [C1195] [S890] [S893]
+
+David G. remains **possible** only against Frank of Berea. The middle initial is G, not F. No contractor line sits on that year-file row. District 33-8 is still unpublished. The 1926 retrieval path is Pope Roll 5. Do not print 1966 or 1976 as proven deaths. Do not print Floyd as Boyd. Do not print 1962 as McCoy’s death. Do not print the 1942 Combs charge as fact. [C1196]
+
+### Pass 104. The Madison library archive starts in 2008
+
+Madison County Public Library hosts a *Berea Citizen Newspaper Archive* that embeds a local app. The app lists 201 monthly PDF files. The earliest is 17 and 24 April 2008. The latest is February 2026. The years present are 2008 through 2026. The string 1958 does not appear. June 1958 is not in that free modern archive. The notice, if it exists, remains on the Hutchins *Citizen* film. [C1197] [S896]
+
+Pope County Library’s own county newspaper list is Russellville paper — the Courier-Democrat, the Gazette, the Advertiser. It does not hold the *Dardanelle Post-Dispatch*. The Yell reel list is a separate page. That is still Roll 5. [C1198] [S897]
+
+Steve Morse’s other 1930 description form, `ed.php` rather than `ed2.php`, still offers Estill (33) and 33-8 in its dropdowns. The page still says the National Archives and FamilySearch data are no longer online. The search button is a JavaScript call. The descriptions have not been read. The National Archives HTML table again names T1224 roll 69 as Kansas and Kentucky. Internet Archive has no T1224 Kentucky item. [C1199] [C1200] [S898] [S899]
+
+KYGenWeb’s Estill census page publishes 1880, districts 36 through 40, and nothing later. There is no 1930 extract for Station Camp South. The Estill wills page publishes James Scrivner, Henry Thomas, and Jacob Tipton. No Newnam. No Newman. No Samuel P. [C1201] [C1202] [S900] [S901]
+
+The Arkansas State Archives finding aid for Pope County newspaper microfilm is behind a robot wall this pass. digitalheritage.arkansas.gov did not resolve. A search snippet for inventory 149 is the *Dardanelle Post* of 1882–1888, not the 1926 *Post-Dispatch*. Rejected as a 1926 path. WorldCat lists a published Owsley draft-card book, OCLC 54019565; the live page was a 403. [C1203] [S902]
+
+David G. is still **possible** only against Frank of Berea. District 33-8 is still unpublished. The 1926 retrieval path is still Pope Roll 5. Do not print 1966 or 1976 as proven deaths. Do not print Floyd as Boyd. Do not print 1962 as McCoy’s death. Do not print the 1942 Combs charge as fact. [C1204]
+
+### Pass 105. Fayetteville holds the same 1926 weekly
+
+The University of Arkansas working spreadsheet of Arkansas newspapers on microfilm has 1,024 rows. *Dardanelle post=dispatch* is call number **F419.D37 D3**, OCLC 19026544. The library’s own “Lib Has” note includes 7 July 1910 through 31 March 1955. August 1926 is inside that run. The film has not been read. Mullins Library has moved the microforms off-site during renovation. The spreadsheet is the holdings list. [C1205] [C1208] [S904] [S905]
+
+The same sheet confirms what the Library of Congress already said about the Democrat. The 1899 *Danville Democrat* at Fayetteville is one issue: 15 July 1915. There is no 1926 Democrat there. A *Rural record* from Magazine Mountain is filmed for 17 June 1926 only. That is not the week she died. Rejected as the death-notice path. [C1206] [C1207]
+
+Knox County’s World War I N-index lists five Newman men — Clarence, Ed, Joe Daniel, John E., Pete. They are Knox men. No Newnam. No Luther of Beattyville. Genealogy Trails’ Lee draft tables, 452 kilobytes this pass, still have no Newnam, Newman, or McCoy. [C1209] [C1210] [S906] [S907]
+
+The Estill 1930 team page still names district 33-8 as Magisterial District 3, Station Camp, south part. It is still unpublished. T1224 roll 69 is still Kansas and Kentucky. Those descriptions have not been read. [C1211] [C1212]
+
+A 2025 funeral notice for a Berea-born man names deceased parents David Grant Newman Jr. and Ruby Lee Riddle Newman. Living survivors are withheld. The notice densifies the junior line. It does not make the 1958 David G., age seventy, into Frank of Berea. [C1213] [C518] [S910]
+
+David G. of 1958 is still **possible** only against Frank. District 33-8 is still unpublished. The 1926 retrieval path is now Pope Roll 5 **and** Fayetteville F419.D37 D3. Do not print 1966 or 1976 as proven deaths. Do not print Floyd as Boyd. Do not print 1962 as McCoy’s death. Do not print the 1942 Combs charge as fact. [C1214]
+
 
 In Madison County in 1950 a **Dewey** Newman, twenty-six, is not David F. or Frank of Berea. [C522] **Shelly** Newman, fifty-seven, and **Grace**, fifty-one, of Richmond are **probable** Shelby and Grace Brandenburg. [C523] They are not the contractor. A 1958 David G. Newman, seventy, of Madison remains **possible** only. [C473]
 
@@ -859,13 +908,13 @@ Charts of pedigree, descendants, and lifespan follow the plates. Dashed lines me
 - Whether witness **Link Mays** is Larkin T. Mays — still possible, not merged.
 
 
-- **B049 / B058:** 1926 *Beattyville Enterprise*, *Yell County Journal*, *Danville Democrat*, and *Dardanelle Post-Dispatch* still unread. Free catalogs closed (R010 steps 1–18). [C293] [C301] [C343] [C346]
+- **B049 / B058:** 1926 *Beattyville Enterprise*, *Yell County Journal*, *Danville Democrat*, and *Dardanelle Post-Dispatch* still unread. Democrat has **no 1926 film**. Journal holds June **10–17** only. Retrieval is Pope **Roll 5** and UArk **Microfilm F419.D37 D3** (Lib Has **<1910:7:7-1955:3:31>**). [C1173] [C1174] [C1185] [C1205]
 - **B045 / B061 / B065:** Samuel P. probate and court-order **images** unread. Catalog IDs locked: FS **127913 / 127891 / 127869 / 964964 / 156057 / 97277**. October 1887 claims **nil**. KHS/KDLA film unread. [C360] [C361] [C374] [C375]
 - **B047 / B069:** Official M1509 pamphlet locks **KY45** Lee / **KY74** Owsley / **KY24** Estill / **KY64** Madison N–Z / **KY90** Wolfe+Woodford. [C1021] Cards and FS **1146342** unread. GT Lee N table unpublished. [C1022]
 - **FAN residual:** Frank of Berea (B055) — 1900 David F. **possible**; 1958 David G. Madison **possible** only (**C473**); 1950 Dewey 26 **rejected** (**C522**); 1950 Madison Newnam API **0** / Newman **13** no Frank (**C965**); 1920 Berea Town ED **103 COMPLETE** **0317–0348** and **PROBABLE** entire-ED name-negative (**C957–C964**); college **0349–0350** sampled **nil**; 1930 Madison T626-769 **mapped** (**C969**); Berea Town **76-16 COMPLETE** **0340–0376** **PROBABLE** entire-ED name-negative (**C972–C980**); Glade North **76-17 COMPLETE** **0378–0392** (**C985**); Glade SW **76-18 COMPLETE** **0394–0429** (**C990 C993**); Glade SE **76-19 COMPLETE** **0430–0465** (**C997 C999**); residual Madison DC / *Citizen*; not merged with Grant (#20) or 1928 St. Helens Frank (#22); John of Owsley is **PROVEN** through 1930/1940/1950 (**C557**) and **absent** from **entire 1920 Owsley** (**C611**), published Lee 1920 (**C612**), **absent as a couple** from 1920 Estill (**C643**; Station Camp **nil withdrawn** — Boyd+Allie **C634 C635**), and **absent** Powell/Wolfe contact sheets (**C658 C673**) and Breathitt **0840–1176** contact sheets (**C690 C691**); Bell **25–34 ALL COMPLETE** on IA T625-559 (**C942 C943 C949–C952**; **C932 withdrawn**); **PROBABLE** entire-Bell name negative; Wolfe Torrent **238** **0443–0471** closed; Holly **239** start **0472** / end **0486** (**C870** start withdrawn); Stillwater **240** start **0488**; Clifty **241** sh **1** only; Antioch **242** not on the IA 515-image scan (`1602` = PA Mercer, **C947**); 1930 Station Camp North **33-7 COMPLETE** — Boyd+Allie **absent** (**C919–C921**); **33-8 / 33-9 ABSENT** from IA T626-742 (stamped **094A→117A**; Estill ends **0947** Grant card) (**C935 C940**); **0650–0749 ≠ 33-8** (**C936**); **1920 Breathitt ED 52 George's Branch sh 19A ln 17 Newman John 38 + Jennie 21 ISOLATED and rejected vs John L (C772–C775)**; **leaf 1116 = ED 55 sh 1A (C791)**; **1910 Heidelberg Boyd 38 + Allie 28 + four children = 1920 Station Camp — PROVEN (C700)**; 1900 Boyd boarder **Mar 1878** **PROVEN (C702)**; 1902 Floyd×Allie license **proven** as compiled, **still not merged** with Boyd (**#27**, **C711**); 1940 compiled / 1950 Hendrix line **rejected** vs Boyd+Allie (**C941 C945**); 1966 Woodford death **probable**, not proven (**#26**); McCoy 40 on Buck Creek 1930 **PROBABLE** P010 (**C562**); 1920 Owsley / 1940/1950 Owsley McCoy head **nil** (**C611 C574 C575**); **447-20-2466** not merged (**C576**); Barney McCoy Newman of AR **rejected** (**C618**); 1918 Robert / Cora Brandenburg **probable** their son (**C614**); 1942 Combs charge **possible** authored only (**C619**); Daniel × Sarah M./Minerva are **probable** Everett’s parents (**C456/C485**, **#24**); 1930 Everett **KYVAKY** (**C530**); 1910 ED **98** Rissie servant 15 **possible** P013, **not merged** (**C713** / B016); Daniel’s license still unread after TFKRHA 1843–80 **nil** (B079); Melissa ~1876 unread (B078); Grant 21 vs David F. unread (B081); William × Katherine license (B064); two William lines (B071); Herman Estes of Brasstown (B067); Frankie Jones / Mary Peters (B068); Carter Cove stone photographs (B054). **Done this increment:** Bell **25–34** official closes; Estill **33-8/33-9** film-gap proven on IA T626-742; 1920 Berea Town ED **103** official close. **Done earlier:** 1910 Heidelberg Boyd+Allie original; 1900 Boyd boarder original; Floyd 1910 Soundex nil; Powell 1051–1201 contact-sheet; Wolfe start mapped; Breathitt ED 52 / 0840–1176; 1918 Boyd informant; Estill 1920 couple-close; Boyd+Allie Station Camp; Jackson contact-sheet; 1920 Owsley county (**B086**). **Closed earlier:** 1880 Daniel house; Lillie **12 Jan 1915**; Sarah M. Evans **15 Sep 1936**; Grant **9 Dec 1970**; 1920 Heidelberg; Fred L. 1961; Callie Spicer **5 Nov 1961**; Kate = Katherine Sternberg. Luther, Shelby × Grace, and Melissa Estes Miller **11 Apr 1957** remain **closed**.
 - Greene 37–43 Stone sweep is **closed**. Do not reopen Peebles as a third marriage without a license. Do not print 1868 or 24 February 1906 as facts. Do not print Grant as dead in 1951–1955. Do not print “Sarah Minerva” as a proven dual given. Do not print 1966 as John’s death. Do not print 1962 as McCoy’s death. Do not print the 1942 Combs charge as fact.
 
-The next session starts with **B089** Estill **1930 33-8** on FS/Ancestry/NARA film (absent IA 742; stamped **095A–102B** unpublished) + **M1930 roll 15** Estill county + Irvine maps, **B058** *Dardanelle Post-Dispatch* **Aug–Sep 1926** film at AR Hist Comn / Dardanelle / Pope / UArk (**C1175** — do not chase Democrat 1926 film or Journal August), **B088** Antioch **242** catalog already **proven** — do not stall, **B045/B061** FS sign-in (clerk already recorded — do not re-ask), **B069/B047** M1509 **KY45** cards, **B082** Duell-Clark / cert **17762**, **B055/B080** Hutchins June 1958 page, **B085** McCoy after 1930.
+The next session starts with **B089** Estill **1930 33-8** on FS/Ancestry/NARA film (absent IA 742; stamped **095A–102B** unpublished) + **M1930 roll 15** Estill county + Irvine maps + **T1224 roll 69** descriptions, **B058** *Dardanelle Post-Dispatch* **Aug–Sep 1926** on Pope **Roll 5** / UArk **F419.D37 D3** / AR Hist Comn / Dardanelle (**C1185 C1205** — do not chase Democrat 1926 film, Journal August, Rural record 17 Jun 1926, or Madison library modern PDFs), **B088** Antioch **242** catalog already **proven** — do not stall, **B045/B061** FS sign-in (clerk already recorded — do not re-ask), **B069/B047** M1509 **KY45** cards, **B082** Duell-Clark / cert **17762**, **B055/B080** Hutchins June 1958 page, **B085** McCoy after 1930.
 
 ---
 
@@ -1077,6 +1126,12 @@ Numbered notes expand the claim/source tags in the narrative. Access labels: *im
 202. [Estill 1930 team](https://www.us-census.org/states/kentucky/teams/Estill1930-T626-742.htm) 33-8 still unpublished. IA Solr T1224 KY / T626-742 **0**. NARA [1930 landing](https://www.archives.gov/research/census/1930/) locator form absent. FS [2329948](https://www.familysearch.org/en/search/collection/2329948) SPA. *Catalog.* **C1170–C1172** **S860–S863**.
 203. LOC [*Danville Democrat* 1899–1927](https://www.loc.gov/item/sn89051010/) SN89051010: no 1926 holdings. [*Yell County Journal*](https://www.loc.gov/item/sn90050035/) SN90050035: **1926:6:10-17** only. [*Dardanelle Post-Dispatch*](https://www.loc.gov/item/sn89051008/) SN89051008: film **includes Aug 1926**. *Catalog.* **C1173–C1175** **S864–S866**.
 204. UK [NDNP listtitles](https://www.uky.edu/Projects/NDNP/listtitles.html): *Citizen* digitized 1899–1922. Berea [Hutchins newspapers](https://libraryguides.berea.edu/newspapers): microfilm 1899–1958. GT [Lee WWI](https://genealogytrails.com/ken/lee/wwi_draft_cards.html) nil. USGenNet [Lee wills](https://usgennet.org/usa/ky/county/lee/wills/) no Samuel P. *Catalog / transcription.* **C1176–C1181** **S868–S878**.
+205. Official NARA [T1224 pamphlet](https://www.archives.gov/files/research/microfilm/t1224.pdf): 1930 rolls **61–90**; roll **69** = Kansas + Kentucky. Steve Morse [ed2.php](https://stevemorse.org/ed/ed2.php) Estill/Station/33-8 **NOTHING FOUND**. [Estill 1930 team](https://www.us-census.org/states/kentucky/teams/Estill1930-T626-742.htm) **33-1–33-4** only. *Pamphlet / access / catalog.* **C1182–C1184** **S880–S882**.
+206. Pope County Library [Yell newspapers](https://www.argenweb.net/pope/yellnews.htm): *Dardanelle Post-Dispatch* **Roll 5** = **21 Jun 1923–26 Apr 1928**, 116 E Third, Russellville AR. LOC CA [Dora Stone 1926](https://www.loc.gov/collections/chronicling-america/) = *Evening star* DC **rejected**. *Catalog / index.* **C1185 C1186 C1193** **S883 S884 S891**.
+207. KYGenWeb Madison [1958b](https://kygenweb.net/madison/Rootsweb_files/research/death/years/1958b.htm): **NEWMAN, DAVID G**, **19 Jun 1958**, age **70**, vol **028** file **13719**. LOC [sn85052075](https://www.loc.gov/item/sn85052075/): *Berea Citizen* starts **3 Jul 1958**. *Compiled-index / catalog.* **C1190–C1192** **S888–S890**.
+208. Madison County Public Library [Berea Citizen archive](https://apps.madisonlibrary.org/newspapers/bereacitizen/index.php): **201** PDFs **Apr 2008–Feb 2026**; no **1958**. KYGenWeb Estill [census](https://kygenweb.net/estill/site/records/census/index.htm) **1880** only; [wills](https://kygenweb.net/estill/site/records/wills/index.htm) Scrivner/Thomas/Tipton. Steve Morse [ed.php](https://stevemorse.org/ed/ed.php) data offline. *Catalog / compiled landing.* **C1197–C1204** **S896–S903**.
+209. UArk [Arkansas newspapers spreadsheet](https://docs.google.com/spreadsheets/d/1xrclpjr4KNZW57JrlmGrYbrDDeZrWy86v7Gw-CjUY3c/export?format=csv): *Dardanelle post=dispatch* **Microfilm F419.D37 D3** Lib Has **<1910:7:7-1955:3:31>**. Democrat **1915:7:15** only. Rural record **1926:6:17** rejected. [Libguide](https://libguides.uark.edu/newspapers/arkansas): microforms remote. *Catalog.* **C1205–C1208** **S904 S905**.
+210. KYGenWeb Knox [WWI N](https://kygenweb.net/knox/World-War-Draft-Cards/WWI-N/index-n.html): five Newman = Knox men; no Newnam/Luther. GT [Lee WWI](https://genealogytrails.com/ken/lee/wwi_draft_cards.html) published tables nil. *Compiled-index.* **C1209 C1210** **S906 S907**.
 
 
 ---
@@ -1360,6 +1415,18 @@ Working table of **saved local copies**. Full file list: [`../SOURCE-INDEX.md`](
 | S868 | `../sources/press/uky-ndnp-listtitles-pass102.html` | [UK NDNP](https://www.uky.edu/Projects/NDNP/listtitles.html) | Citizen digitized 1899–1922 | catalog |
 | S869 | `../sources/press/berea-libguide-newspapers-pass102.html` | [Hutchins newspapers](https://libraryguides.berea.edu/newspapers) | Citizen microfilm 1899–1958 | catalog |
 | S878 | `../sources/census/pass102-extract-2026-10-31.txt` | This session | Pass 102 extract | extract |
+| S880 | `../sources/catalog/nara-t1224-1930-ky-extract-pass103.txt` | [NARA T1224](https://www.archives.gov/files/research/microfilm/t1224.pdf) | Roll 69 = KS+KY | pamphlet |
+| S883 | `../sources/press/argenweb-pope-yellnews-pass103.html` | [Pope Yell news](https://www.argenweb.net/pope/yellnews.htm) | Post-Dispatch Roll 5 | catalog |
+| S888 | `../sources/vital/madison-1958-newman-extract-pass103.txt` | [Madison 1958b](https://kygenweb.net/madison/Rootsweb_files/research/death/years/1958b.htm) | DAVID G 19 Jun 1958 vol 028 file 13719 | compiled-index |
+| S890 | `../sources/press/loc-item-sn85052075-pass103.json` | [LOC SN85052075](https://www.loc.gov/item/sn85052075/) | Berea Citizen starts 3 Jul 1958 | catalog |
+| S895 | `../sources/census/pass103-extract-2026-10-31.txt` | This session | Pass 103 extract | extract |
+| S896 | `../sources/press/madisonlib-bereacitizen-app-pass104.html` | [Madison library app](https://apps.madisonlibrary.org/newspapers/bereacitizen/index.php) | 2008–2026 only; no 1958 | catalog |
+| S900 | `../sources/catalog/kygenweb-estill-census-pass104.html` | [Estill census](https://kygenweb.net/estill/site/records/census/index.htm) | 1880 only | compiled landing |
+| S901 | `../sources/catalog/kygenweb-estill-wills-pass104.html` | [Estill wills](https://kygenweb.net/estill/site/records/wills/index.htm) | No Samuel P. | compiled landing |
+| S903 | `../sources/census/pass104-extract-2026-10-31.txt` | This session | Pass 104 extract | extract |
+| S904 | `../sources/press/uark-postdispatch-1926-extract-pass105.txt` | [UArk sheet](https://docs.google.com/spreadsheets/d/1xrclpjr4KNZW57JrlmGrYbrDDeZrWy86v7Gw-CjUY3c/export?format=csv) | F419.D37 D3 includes Aug 1926 | catalog |
+| S906 | `../sources/military/kygenweb-knox-wwi-n-pass105.html` | [Knox WWI N](https://kygenweb.net/knox/World-War-Draft-Cards/WWI-N/index-n.html) | Knox Newman men; no Luther | compiled-index |
+| S911 | `../sources/census/pass105-extract-2026-10-31.txt` | This session | Pass 105 extract | extract |
 
 
 Embedded plates live in `plates/` and `../sources/census/`. Charts: [`../visuals/pedigree-dora.svg`](../visuals/pedigree-dora.svg), [`../visuals/timeline-dora.svg`](../visuals/timeline-dora.svg).

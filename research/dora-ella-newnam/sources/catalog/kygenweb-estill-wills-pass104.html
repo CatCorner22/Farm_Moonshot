@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+
+  <title>Wills</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Estill County, Kentucky genealogy records and historical resources.">
+
+  <!-- Global site styles -->
+  <link rel="stylesheet" href="../../../style/style.css">
+</head>
+
+<body>
+<a id="top"></a>
+
+<div class="page">
+
+  <!-- =====================================================
+       HEADER
+       ===================================================== -->
+  <header class="site-header">
+    <h1 class="site-title">Wills</h1>
+    <p class="site-subtitle">Estill County, Kentucky</p>
+  </header>
+
+  <!-- =====================================================
+       BREADCRUMB / BACK LINK
+       ===================================================== -->
+  <section class="panel">
+    <a href="../index.htm">&laquo; Records Home</a>
+  </section>
+
+  <!-- =====================================================
+       DESCRIPTION / METADATA
+       ===================================================== -->
+  <section class="panel">
+    <p>
+      If you have anything you would like to add or if you have any questions, please contact <a href="mailto:hsloan2002@hotmail.com">Harlan</a>.
+    </p>
+
+  </section>
+
+  <!-- =====================================================
+       MAIN DATA / CONTENT
+       ===================================================== -->
+  <section class="panel">
+    <h2>Files</h2>
+
+    <ul>
+      <li><a href="james-scrivner.html">James Scrivner</a></li>
+      <li><a href="henry-thomas.html">Henry Thomas</a></li>
+      <li><a href="jacob_tipton.html">Jacob Tipton</a></li>
+    </ul>
+
+    <h3>Images</h3>
+
+    <ul>
+      <li>None submitted yet</li>
+    </ul>
+
+    <h3>Offsite Links</h3>
+
+    <ul>
+      <li>None submitted yet</li>
+    </ul>
+
+    <p class="center">
+      <a href="#top">Back to top</a>
+    </p>
+
+  </section>
+
+  <!-- =====================================================
+       NOTES / DISCLAIMER
+       ===================================================== -->
+  <section class="panel note">
+
+    <div id="disclaimer"></div>
+
+    <script>
+    fetch('../../include/disclaimer.htm')
+      .then(r => {
+        if (!r.ok) {
+          throw new Error('HTTP ' + r.status);
+        }
+        return r.text();
+      })
+      .then(t => {
+        document.getElementById('disclaimer').innerHTML = t;
+      })
+      .catch(e => {
+        document.getElementById('disclaimer').innerHTML =
+          '<p><strong>Disclaimer failed to load:</strong> ' +
+          e.message +
+          '</p>';
+      });
+    </script>
+
+  </section>
+
+</div>
+
+<!-- =====================================================
+     GLOBAL IMAGE OVERLAY SYSTEM
+     ===================================================== -->
+<script src="https://kygenweb.net/estill/style/img-overlay.js"></script>
+
+</body>
+</html>

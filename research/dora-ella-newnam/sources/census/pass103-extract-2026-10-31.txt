@@ -1,0 +1,34 @@
+Pass 103 extract — 31 Oct 2026
+Target: deceased Dora Ella Newnam Stone (P001). Deceased-only.
+
+B089 / T1224:
+- Official NARA T1224 pamphlet (17 pp) seen: 1930 descriptions = rolls 61–90; roll 69 = Kansas + Kentucky.
+- Estill 33-8 descriptions unread on that roll.
+- Steve Morse ed2.php year=1930 state=KY keywords=Estill / Station / Station+Camp / 33-8 = "NOTHING FOUND" (data no longer online).
+- us-census Estill 1930 dir: published files = 33-1..33-4 only. 33-5..33-14 still unpublished. _indx-m-q.txt Newman/Newnam/Boyd 0.
+
+B058 / 1926:
+- Pope County Library (116 E Third St, Russellville AR 72801) yellnews.htm: Dardanelle Post-Dispatch Roll 5 = 21 Jun 1923–26 Apr 1928 (includes Aug 1926).
+- ADNP = Chronicling America only. digitalheritage.arkansas.gov DNS this pass.
+- LOC CA "Dora Stone" 1926 = 1 hit: Evening star (Washington, D.C.) 24 Dec 1926 — REJECTED (wrong place/date).
+- LOC CA Newnam Ola 1926 = 0.
+
+B069 / WWI:
+- GT Estill / Owsley military landings: no WWI draft page (1818–1890 pensions + WWII/Vietnam only).
+- KYGenWeb Carter WWI roster (4,434 names): Newman = Edward 6 Feb 1893; James 17 Feb 1897; Thornton 4 Mar 1890; William 28 Apr 1878; Willie 24 Aug 1895. No Newnam. McCoy = Charlie/Fenton/George W/Harry/Malcon/Willie — Carter men, not P010.
+- KDLA WWI intro PDF (29 pp): Federal Draft Registration Cards held at KDLA; no name index in the slides.
+- IA Solr M1509 KY 0. NARA catalog API SPA. FS 1146342 SPA.
+
+B055 / B080:
+- KYGenWeb Madison death year-file 1958b (surnames K–R): NEWMAN, DAVID, G, 1958-06-19, age 070, death MADSN, residence MADISON, vol 028, file 13719.
+- Same row as C473 KDI. Independent county-filtered compilation.
+- Madison year-files 1956–1961 A–D / E–J / K–R / S–Z: no other Newman/Newnam; no Frank decedent.
+- 1958c HUTCHINS, WILLIAM J, 1958-02-20, age 086, MADSN — rejected (not the library; not Frank).
+- LOC sn85052075 The Berea Citizen: starts 3 Jul 1958; digitized false. June 1958 death is still The Citizen (sn85052076) on Hutchins film.
+- KYGenWeb Madison obits landing: no Newman/Newnam/Frank/David G.
+
+B045 / B061:
+- FS 127913 / 1146342 / 1810731 SPA (R011 step 52). Do not re-ask clerk.
+
+Do not print 1966, 1976, Floyd-as-Boyd, 1962 as McCoy death, or 1942 Combs charge as fact.
+Living 1932 descendants withheld.

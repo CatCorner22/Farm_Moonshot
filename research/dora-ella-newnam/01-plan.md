@@ -745,6 +745,48 @@ Exact strings logged **L965–L990**.
 
 Exact strings logged **L991–L1008**.
 
+### Pass 103 variant storm (31 Oct 2026)
+
+**Boyd / Allie (B089)** — Boyd/Boyde/Floyd × Newman/Newnam/newnarn/newan. Combined: "Boyd Newman" | "Newman, Boyd". Soundex **N550** / **B300**. Place 1930 **33-8** Station Camp South; T1224 roll **69**; Steve Morse ed2 Estill / Station / 33-8.
+
+**Dora Stone 1926 (B049/B058)** — Dora/posa/dosa/rosa/dona × Stone/Newman/Newnam. Soundex **S350** / **N550**. Place Ola / Yell / Dardanelle. LCCN **SN89051008**. Pope County Library **Roll 5**. Cert **1524** RD **676**.
+
+**Frank / David G (B055/B080)** — Frank/David F./David G. × Newnam/Newman. Soundex **N550**. Place Madison / Berea. Cert **13719** RD **028**. Madison year-files **1956–1961**.
+
+**WWI (B069/B047)** — John H. b. 1899; McCoy b. 1890; Luther b. 1891 × M1509 **KY45 / KY24 / KY74**. Carter roster Newman/McCoy. KDLA Federal Draft Cards.
+
+**Samuel P. (B045/B061)** — Samuel/Sam × Newnam/Newman + will/estate. Films **127913 / 1146342** (SPA expected, R011 step **52**).
+
+Exact strings logged **L1009–L1026**.
+
+### Pass 104 variant storm (31 Oct 2026)
+
+**Boyd / Allie (B089)** — Boyd/Boyde/Floyd × Newman/Newnam/newnarn. Soundex **N550** / **B300**. Place 1930 **33-8** Station Camp South; T1224 roll **69**; Steve Morse `ed.php` Estill / Station / 33-8; KYGenWeb Estill 1880-only census page.
+
+**Dora Stone 1926 (B049/B058)** — Dora/posa/dosa/rosa/dona × Stone/Newman/Newnam. Soundex **S350** / **N550**. Place Ola / Yell / Dardanelle. LCCN **SN89051008**. Pope `newspaper.htm` / `micro.htm` / `yellnews.htm` Roll **5**. Cert **1524** RD **676**.
+
+**Frank / David G (B055/B080)** — Frank/David F./David G. × Newnam/Newman. Soundex **N550**. Place Madison / Berea. Cert **13719** RD **028**. Madison library `bereacitizen` app 2008–2026.
+
+**WWI (B069/B047)** — John H. b. 1899; McCoy b. 1890; Luther b. 1891 × M1509 **KY45 / KY24 / KY74**. WorldCat OCLC **54019565**.
+
+**Samuel P. (B045/B061)** — Samuel/Sam × Newnam/Newman + will/estate. KYGenWeb Estill wills Scrivner/Thomas/Tipton.
+
+Exact strings logged **L1027–L1035**.
+
+### Pass 105 variant storm (31 Oct 2026)
+
+**Boyd / Allie (B089)** — Boyd/Boyde/Floyd × Newman/Newnam/newnarn. Soundex **N550** / **B300**. Place 1930 **33-8** Station Camp South; T1224 roll **69**; us-census Estill 1930 team.
+
+**Dora Stone 1926 (B049/B058)** — Dora/posa/dosa/rosa/dona × Stone/Newman/Newnam. Soundex **S350** / **N550**. Place Ola / Yell / Dardanelle. LCCN **SN89051008**. UArk sheet **F419.D37 D3**. Pope **Roll 5**. Cert **1524** RD **676**.
+
+**Frank / David G (B055/B080/B084)** — Frank/David F./David G./David Grant × Newnam/Newman. Soundex **N550**. Place Madison / Berea. Certs **13719** RD **028**; **09547** RD **020**. Ruby Lee Riddle / RIDDELL.
+
+**WWI (B069/B047)** — Luther/John H./McCoy × Newnam/Newman/newnarn. Knox WWI N-index. GT Lee draft tables. M1509 **KY45 / KY24 / KY74**.
+
+**Samuel P. (B045/B061)** — Samuel/Sam × Newnam/Newman + will/estate. OnGenealogy KY probate (blocked).
+
+Exact strings logged **L1036–L1048**.
+
 ## Agent SDK / GitHub channel
 
 Inspected 30 Oct 2026 (**L351**): this repository has **no** `package.json`, **no** `@grok/agent-sdk`, **no** `bot/` directory. GitHub channel `bot/channels/github.ts` is **n/a** and was **not** authored. Project subagent: `.cursor/agents/dora-genealogy-detective.md`.

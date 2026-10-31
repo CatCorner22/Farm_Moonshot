@@ -304,5 +304,16 @@ Place as it was *at the date*; modern equivalent in brackets. Flag impossibiliti
 | Jun 1926 | — | FAN **PROVEN** as catalog: *Yell County Journal* SN90050035 holdings **1926:6:10-17** only. August 1926 Journal **not** held | Ola, Yell Co., AR | C1174 | S865 |
 | 1911–1955 | — | FAN **PROVEN** as catalog: *Dardanelle Post-Dispatch* SN89051008 film **includes Aug 1926** at AR Hist Comn / Dardanelle / Pope / UArk. Surviving 1926 weekly | Dardanelle, Yell Co., AR | C1175 | S866 |
 | 1899–1958 | — | FAN **PROVEN** as catalog: *Citizen* (Berea) digitized **1899–1922**; Hutchins microfilm **1899–1958**; *Berea Citizen* microfilm **1958–2008** | Berea, Madison Co., KY | C1176 C1177 | S868 S869 |
+| 1930 | — | FAN **PROVEN** as pamphlet: T1224 roll **69** = Kansas + Kentucky (reconfirm). Steve Morse 1930 KY Estill/33-8 transcribed descriptions **NOTHING FOUND** | Kentucky | C1182 C1183 | S880 S881 |
+| 21 Jun 1923–26 Apr 1928 | — | FAN **PROVEN** as catalog: Pope County Library *Dardanelle Post-Dispatch* **Roll 5** includes Aug 1926 | Russellville, Pope Co., AR | C1185 | S883 |
+| 19 Jun 1958 | — | FAN **PROVEN** as compiled Madison year-file: **NEWMAN, DAVID G**, 70, death MADSN, residence MADISON, vol **028** file **13719**. Still **POSSIBLE** only vs Frank of Berea | Madison Co., KY | C1190 C473 | S888 |
+| 3 Jul 1958 | — | FAN **PROVEN** as catalog: *The Berea Citizen* sn85052075 begins; June 1958 death still *The Citizen* | Berea, Madison Co., KY | C1192 | S890 |
+| Apr 2008–Feb 2026 | — | FAN **PROVEN** as catalog: Madison County Public Library *Berea Citizen* app = **201** monthly PDFs **2008–2026** only. No 1958 issue | Berea, Madison Co., KY | C1197 | S896 |
+| 1880 | — | FAN **PROVEN** as compiled landing: KYGenWeb Estill census = Districts **36–40** only. No 1930 extract | Estill Co., KY | C1201 | S900 |
+| — | — | FAN **PROVEN** as compiled landing: KYGenWeb Estill wills = Scrivner / Thomas / Tipton. No Samuel P. / Newnam | Estill Co., KY | C1202 | S901 |
+| 1910–1955 | — | FAN **PROVEN** as catalog: UArk *Dardanelle post=dispatch* **Microfilm F419.D37 D3** Lib Has **<1910:7:7-1955:3:31>** includes Aug 1926 | Fayetteville, AR | C1205 | S904 |
+| 1915 | — | FAN **PROVEN** as catalog: UArk *Danville Democrat* 1899 title holds **1915:7:15** only — no 1926 | Fayetteville, AR | C1206 | S904 |
+| 17 Jun 1926 | — | FAN **PROVEN** as catalog: UArk *Rural record* (Magazine Mountain) **<1926:6:17>** only. **Rejected** as Aug 1926 Dora path | Yell Co., AR | C1207 | S904 |
+| 1917–1918 | — | FAN **PROVEN** as compiled-index: Knox WWI N = five Newman Knox men; Newnam/Luther **0** | Knox Co., KY | C1209 | S906 |
 
 **Impossibility flags:** None. Mother ~29 at Dora’s 1871 birth (Mary b. 1842). Dora age 14 at marriage is legal/period-possible (KY) though young; 1880 age 8 corroborates. Two children born before Coy in the 1886–1889 window would have Dora aged 15–18 — possible. No event after 23 Aug 1926 is attributed to her.
