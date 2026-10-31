@@ -2013,3 +2013,51 @@ research/dora-ella-newnam/sources/census/1880-lee-ky-ed59-sheet43-p768-caroline-
   format: text extract, 780 bytes
   check: Pass 81 coverage; catalog 135; A-156 and residuals closed
 
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-g416-p2059-gilbert-loue-i-69-cumberland.jpg
+  sha256: ae51751da858445fe273d8163f36eb949f3544440fa641da7291f5b098b97360
+  format: JPEG photo, 355,940 bytes
+  check: 1920 Soundex G-416 2059 Gilbert Loue I 69 Cumberland DISPROVED as Lewis 67
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-g416-p2060-gilbert-louis-h-19-jefferson.jpg
+  sha256: 41d4ba1958f00d4f40a062c867b36b0f826524087427b27997b076f7cb153641
+  format: JPEG photo, 364,593 bytes
+  check: 1920 Soundex G-416 2060 Gilbert Louis H 19 Jefferson DISPROVED as Lewis 67
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-g416-p2063-gilbert-loyd-owsley-ed92.jpg
+  sha256: 383148b7424a3783f2e6ed59ecf89019733fad92c9afe37e617072d46994e55a
+  format: JPEG photo, 316,971 bytes
+  check: 1920 Soundex G-416 2063 Gilbert Loyd A-2 Owsley ED 92 clerk 16 ln 59
+/workspace/research/dora-ella-newnam/sources/census/1920-owsley-ed92-sh2a-hdr.jpg
+  sha256: a77c93e151adcdd3bdd616635ac0bd50ee92263dcccf47de8c0f54d8884ca41c
+  format: JPEG photo, 79,568 bytes
+  check: 1920 Owsley ED 92 sh 2 A header Buffalo Precinct 5
+/workspace/research/dora-ella-newnam/sources/census/1920-owsley-ed92-sh2b-hdr.jpg
+  sha256: 7d6a0e5f3ba363b83ec3e48eb49e4297ac2780ec60f123efe28b77bf3b5b570f
+  format: JPEG photo, 79,909 bytes
+  check: 1920 Owsley ED 92 sh 2 B header Buffalo Precinct 5
+/workspace/research/dora-ella-newnam/sources/census/1920-owsley-ed92-sh2b-hh48-colwell-gilbert.jpg
+  sha256: 15d306851353e68d6df602c391939bad2e784e5e75dd4dbb0b895db68e733b01
+  format: JPEG photo, 100,838 bytes
+  check: 1920 original Colwell William + Gilbert Loyd 10 / Douglas 7
+/workspace/research/dora-ella-newnam/sources/census/1920-owsley-ed92-sh2b-hh43-baker-hubert-dora.jpg
+  sha256: 7da76092b3a7f0a5c58aece613708dcee2f782800ca5e749e66fb8906fb1abab
+  format: JPEG photo, 65,744 bytes
+  check: 1920 original Baker Hubert dau Dora 21 DISPROVED as P001
+/workspace/research/dora-ella-newnam/sources/indexes/ky1920-g416-louis-pass82.txt
+  sha256: f61410ad7570da0e5f478996550268a55112827cbf80cc21ba7444c17a31d940
+  format: text extract, 2,817 bytes
+  check: 1920 G-416 Louis window nil Lewis/Louis 67 Owsley
+/workspace/research/dora-ella-newnam/sources/indexes/owsley-1920-ed92-sh2-colwell-pass82.txt
+  sha256: 61072f964115d4453c18ba5c4c9e171c8320df88c5776e06882c32d97ca70658
+  format: text extract, 2,014 bytes
+  check: 1920 original ED 92 sh 2 Colwell Loyd 10 Douglas 7
+/workspace/research/dora-ella-newnam/sources/indexes/owsley-dc-1911-1920-openers-pass82.txt
+  sha256: 083c3dc287e88ea50c97a4695267e5ae65824f3ba9f84751c8ab2e728ea76656
+  format: text extract, 1,839 bytes
+  check: Owsley 1911-1920 DC openers John 85 / John Robert / Tildy
+/workspace/research/dora-ella-newnam/sources/indexes/josephine-gilbert-pass82.txt
+  sha256: 113d35d552a8fc3ea6c510cf3d2b2089ff93fff404193b2da926a9c45f373b88
+  format: text extract, 2,138 bytes
+  check: Josephine x Gilbert ~1902 remaining-county nil/n/a
+/workspace/research/dora-ella-newnam/sources/indexes/pass82-coverage.txt
+  sha256: 840c55444481bc152317cf1f0ab4ce36dc42b0debec13a0237fdf5a5bb8ee102
+  format: text extract, 1,221 bytes
+  check: Pass 82 coverage; catalog 139; Louis window closed

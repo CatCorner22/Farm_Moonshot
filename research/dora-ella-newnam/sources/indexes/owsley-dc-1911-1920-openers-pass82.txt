@@ -1,0 +1,28 @@
+Pass 82 — Owsley KY death extracts 1911-1920 opener-name sweep
+Kendrick USGenNet 1911dc.html-1920dc.html opened 31 Oct 2026 America/New_York.
+HTML-seen. Derivative of the civil register. Original faces unread.
+
+Cited rows:
+1913 GILBERT, John Robert  72 yrs  b. 18 Sep 1841 KY  d. 14 Oct  Gilbert Cem
+     father Abijah GILBERT  mother Martha GIBSON
+     DISPROVED as 1910 Buffalo dw 76 Gilbert, John 74 (~1836): birth 1841 vs ~1836;
+     parents Abijah×Gibson vs later 1920 extract Isaac×Rebecka Gabbard; died 1913
+     so cannot be 1920 FIL 84.
+1917 GAY, Tildy  35 yrs  d. 9 Aug  father John MORGIN  mother Cive? FELTY
+     POSSIBLE unmerged vs 1910 dw 2 Gay, Matilda 32 Wd (would be ~39 in 1917).
+     Age 35 vs ~39; maiden Morgin/Felty unknown on 1910 schedule. Do not merge.
+1920 GILBERT, John  85 yrs  b. 10 Jul 1835 Perry Co  d. 17 Dec
+     father Isaac GILBERT  mother Rebecka GABBARD
+     PROBABLE same man as 1910 dw 76 Gilbert, John 74 m2 18 (C765) and 1920 FIL
+     Gilbert, John 84 Wd (C756). Age 74 (Apr 1910) → 84 (Jan 1920) → 85 (17 Dec 1920)
+     matches a 10 Jul 1835 birth. Died AFTER the January 1920 census, so he is not
+     a missing hh 1-13 occupant. Original face unread.
+
+Nil matching decedents (other same-surnames are other people; do not treat extract-nil as death):
+  Combs, Lowe; Reid/Reed, David; Helton, William (1911 Wm HELTON 47 d. 6 Dec, parents
+    George HELTON × Lair NAPER — not merged with 1910 dw 4; 1910 opener age unread on C775);
+  Hardy, Drucilla; Simms/Sims, William; Rice, William E / Elizabeth / Benjamin;
+  Brandenburg, Robb; Gilbert, Lewis 67.
+1911-1920 extracts already filed for Evans John (C852) and Newman/Manerva.
+1916 NEWNAM, Henry H. 72 / Josephine Gilbert 32 already C529/C531.
+Do not treat extract-nil as proof of death. Original 1916 vol 044 #21663 face still unseen.

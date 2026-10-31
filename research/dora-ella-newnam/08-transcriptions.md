@@ -3945,5 +3945,97 @@ Pass 2: License still unseen. Do **not** treat extract-nil as a marriage.
 ### Facts extracted → claim IDs
 - Josephine Floyd substitutes this pass nil/other → C877
 
+## DOC163 — 1920 Kentucky Soundex G-416, Louis/Lou/Loyd window (derivative)
+
+- Card 2059: `sources/soundex/ky1920-g416-p2059-gilbert-loue-i-69-cumberland.jpg` SHA-256 `ae51751da858445fe273d8163f36eb949f3544440fa641da7291f5b098b97360`
+- Card 2060: `…p2060-gilbert-louis-h-19-jefferson.jpg` `41d4ba1958f00d4f40a062c867b36b0f826524087427b27997b076f7cb153641`
+- Card 2063: `…p2063-gilbert-loyd-owsley-ed92.jpg` `383148b7424a3783f2e6ed59ecf89019733fad92c9afe37e617072d46994e55a`
+- Extract: `ky1920-g416-louis-pass82.txt` `f61410ad7570da0e5f478996550268a55112827cbf80cc21ba7444c17a31d940`
+- Provenance: NARA M1563 reel **59** / IA `soundex1920ky059`, opened 31 Oct 2026. **Image-seen** (scale=1). Given-name sort. Visual-read **2054–2072**.
+
+### Diplomatic — cited cards
+
+> G-416 **Gilbert, Loue I.** Head W **69** Kentucky Cumberland vol **20** ED **69** sh **10** ln **89** × Carey D **37** + Smith HS **14**. **DISPROVED** as original Lewis 67 Owsley (Cumberland; Loue I; Carey/Smith ≠ Indiana wife 58).
+
+> G-416 **Gilbert, Louis H.** Head W **19** Kentucky Jefferson Louisville Chestnut **1511** vol **45** ED **51** sh **8** ln **50** × Willie W ~**16** + Louis F S **1 4/12** + Daniel S **1/12** + Mill, Mamie MIL **53** TN. **DISPROVED** as original Lewis 67 (age 19 vs 67; Jefferson; infant sons).
+
+> G-416 **Gilbert, Loyd** (individually) W **16** Kentucky Owsley vol **76** ED **92** sh **2** ln **59**. Enumerated with **Colwell, William**. Relationship **Step-son**. Form A-2. **DISPROVED** as Lewis 67. Clerk age 16 / line 59 vs original age **10** / line **39** (**C882**).
+
+Pass 2: Window **2054–2072** **nil** Gilbert, Lewis/Louis ~67 Owsley as a head. Original leaf **1156** exists — Soundex miss. Hard Rule 6: original Lewis stands. Do **not** treat given-name nil as proof of death.
+
+### Facts extracted → claim IDs
+- Louis window nil; 2059/2060 DISPROVED; original Lewis is a Soundex miss → C880
+- 2063 Loyd A-2 Colwell; clerk 16/ln 59 → C881
+
+## DOC164 — 1920 U.S. census, Owsley Co., KY, ED 92 sheets 2 A / 2 B (original; Colwell)
+
+- Header 2 A: `sources/census/1920-owsley-ed92-sh2a-hdr.jpg` SHA-256 `a77c93e151adcdd3bdd616635ac0bd50ee92263dcccf47de8c0f54d8884ca41c`
+- Header 2 B: `…sh2b-hdr.jpg` `7d6a0e5f3ba363b83ec3e48eb49e4297ac2780ec60f123efe28b77bf3b5b570f`
+- Colwell: `…sh2b-hh48-colwell-gilbert.jpg` `15d306851353e68d6df602c391939bad2e784e5e75dd4dbb0b895db68e733b01`
+- Rejected Dora: `…sh2b-hh43-baker-hubert-dora.jpg` `7da76092b3a7f0a5c58aece613708dcee2f782800ca5e749e66fb8906fb1abab`
+- Extract: `owsley-1920-ed92-sh2-colwell-pass82.txt` `61072f964115d4453c18ba5c4c9e171c8320df88c5776e06882c32d97ca70658`
+- Provenance: NARA T625 reel **594** / IA `14thcensusofpopu594unit` leaves **1158–1159**, opened 31 Oct 2026. **Original image-seen.** Enumerator **Fred Hubbard**.
+
+### Diplomatic — headers
+
+> Leaf **1158**: State **Kentucky** · County **Owsley** · Township **Buffalo Precinct No. 5** · SD **10** · ED **92** · Sheet **2 A**. Enumerator **Fred Hubbard**, **8** January 1920. Printed lines **51–100** (B-form). First hh **32**.
+
+> Leaf **1159**: State **Kentucky** · County **Owsley** · Township **Buffalo Precinct No. 5** · SD **10** · ED **92** · Sheet **2 B**. Enumerator **Fred Hubbard**, **6** January 1920. Printed lines **1–50** (A-form).
+
+### Diplomatic — cited lines (leaf 1159)
+
+> Ln **8** dw **43/43 Baker, Hubert** Head ~**34**. Ln **11** **Dora** Daughter **21**. **DISPROVED as P001**.
+
+> Ln **33** dw **47/47 Gilbert, Chester** Head ~**32** × Sarah ~**30**. **DISPROVED** as Lewis 67.
+
+> Ln **37** dw **48/48 Colwell, William** Head ~**50** m. Ln **38** Lillie Wife ~**38** m. Ln **39 Gilbert, Loyd** Step son **10** S. Ln **40 Gilbert, Whitehead** Step son **11** S. Ln **41 Gilbert, Mary** Step dau **4** S. Ln **42 Gilbert, Douglas** Step son **7** S. Ln **43 Emmer** Dau **6/12** S.
+
+Pass 2: Hard Rule 6 of Soundex **2063** (age 10 / ln 39) and **2020** (Douglas 7 ln 42). This house is on filmed sh **2**, **not** missing sh 1.
+
+### Facts extracted → claim IDs
+- Original Colwell + Loyd 10 ln 39 + Douglas 7 ln 42; Hard Rule 6 → C882
+- Baker Hubert dau Dora 21 DISPROVED as P001 → C888
+
+## DOC165 — Owsley 1911–1920 DC extracts, opener sweep (derivative)
+
+- Extract: `owsley-dc-1911-1920-openers-pass82.txt` SHA-256 `083c3dc287e88ea50c97a4695267e5ae65824f3ba9f84751c8ab2e728ea76656`
+- Provenance: Kendrick USGenNet `1911dc.html`–`1920dc.html`, opened 31 Oct 2026. **HTML-seen**, not original faces.
+
+### Diplomatic — cited extracts
+
+> **1920 GILBERT, John** 85 yrs, b. **10 Jul 1835 Perry Co**, d. **17 Dec**, father **Isaac GILBERT**, mother **Rebecka GABBARD**. **PROBABLE** 1910 dw 76 / 1920 FIL 84. Died after the January 1920 census.
+
+> **1913 GILBERT, John Robert** 72 yrs, b. **18 Sep 1841**, d. **14 Oct**, Gilbert Cem, parents **Abijah GILBERT** × **Martha GIBSON**. **DISPROVED** as 1910 dw 76.
+
+> **1917 GAY, Tildy** 35 yrs, d. **9 Aug**, father **John MORGIN**, mother **Cive? FELTY**. **POSSIBLE unmerged** vs 1910 Matilda 32 Wd. **Do not merge**.
+
+Pass 2: **Nil** matching decedents for Combs Lowe, Reid David, Helton William, Hardy Drucilla, Simms William, Rice heads, Brandenburg Robb, Gilbert Lewis 67. Do **not** treat extract-nil as death. Original 1916 vol **044** #**21663** face unread.
+
+### Facts extracted → claim IDs
+- 1920 John 85 PROBABLE C765/C756 → C883
+- 1913 John Robert DISPROVED → C884
+- 1917 Tildy unmerged → C885
+- opener-name nil → C886
+
+## DOC166 — Josephine×Gilbert ~1902 substitutes (Pass 82)
+
+- Extract: `josephine-gilbert-pass82.txt` SHA-256 `113d35d552a8fc3ea6c510cf3d2b2089ff93fff404193b2da926a9c45f373b88`
+- Coverage: `pass82-coverage.txt` `2540342b37e62544a40bc1092458d6e79668c58fcb3a0f5888c546ef93463db9`
+- Provenance: KYGenWeb/USGenNet HTML opened 31 Oct 2026. **HTML-seen**, not civil-register images.
+
+### Diplomatic — cited extracts
+
+> Letcher landing HTTP **200**: years 1852–57, 1859, 1874–76, 1878, 1901, 1906–1910. **1902 n/a**. 1852 Wayback **200** n/a ~1902. Surname-index rootsweb **403**.
+
+> Bell license-JPG directory HTTP **200**: Gambrel-Cecil_Miracle-Letha **other**. G/N **404**. Martin landing **200**: 1874–1878 only; usgwarchives timeout. Pike landing **200**: no 1902 index. Rowan landing / `rowan-mg.html` **200** (5,781 bytes, no table). Breathitt `/marriages.htm` **200** “Oops”. Estill still two plates. Magoffin G still **404**.
+
+> Owsley cemetery listing: Gilbert/Griffith already C774; **no Cecil** string. USGenNet `cecil.html` / `smcecil.html` **404**.
+
+Pass 2: License still unseen. Do **not** treat extract-nil as a marriage.
+
+### Facts extracted → claim IDs
+- Josephine remaining-county substitutes this pass nil/n/a → C887
+
+
 
 

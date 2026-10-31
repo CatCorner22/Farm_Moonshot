@@ -1,6 +1,6 @@
 # Source-image gallery: Dora Ella Newnam Stone
 
-Two hundred ninety-two numbered plates (JPEG/PNG captures from NARA microfilm via Internet Archive, plus header and household crops). Plates **7g–7j** are the 1860 Owsley and 1880 Lee Gray originals added in passes 39–40. Plates **7k–7z** and **8a–8f** are the later 1850–1860 Owsley/Breathitt/Madison isolations, including Harrison Newman with Elias aged eight, H.H. Newman with Elias aged eighteen, and Giles Mays at one month and eleven. Plates **8j–8l** are the 1840 Estill originals (John and Christian Tincher, the county recap, and William Newton not Tincher) added in pass 55; plates **8m–8n** are the 1840 Clay originals added in pass 56; plates **8o–8q** are the 1840 Breathitt originals (first name page, last name page ending Total, and the county Abstract) added in pass 57; plates **8r–8u** are the 1840 Estill McIlvain originals and the Edmonson divider added in pass 58; plates **8v–8ac** are the M850 pension-payment cards added in pass 63 (Elias T. Newnam, Henry H. Newnam, Manerva Newnam, and the Newman-spelling collisions); plates **8ad–8ai** are the 1900 Sturgeon and 1910 Wild Dog Henry H. originals added in pass 64; plates **8aj–8ao** are the 1910 Sturgeon Arthur original and the 1920 Wild Dog nil (including the rejected Evans+Minerva house) added in pass 65; plates **8ap–8au** are the 1920 Island Creek Arthur original, the Soundex Arthur card, the leftover Sturgeon ED 89 closer, and the Minerva-slot Soundex card (Minnie, not Minerva) added in pass 66; plates **8av–8bb** are the 1920 Island Creek remainder headers, the rejected Barker Malvera and Wilson×Minerva houses, the Cow Creek opener, and the Soundex Walter Logan / Walter A. Louisville cards added in pass 67; plates **8bc–8bh** are the remainder of Cow Creek (sheet 4 A and 7 A headers, the rejected Allen Ella and Cale Minerva houses, the last populated sheet 14 A, and the ED 92 opener) added in pass 68; plates **8bi–8bu** are the 1920 Booneville ED 88, Buffalo ED 92, and Buck Creek ED 93 originals added in pass 69; plates **8bv–8bz** are the 1910 Sturgeon Gilbert×Josie and Lynch×Laura originals, the 1920 G-416 Soundex card that misnamed Gilbert John as Robert, and the Buffalo Baker household that holds that father-in-law, added in pass 70; plates **8ca–8cc** are the 1910 Buffalo Gilbert, John original and the 1920 G-416 Douglas card that proves Soundex indexed filmed ED 92, added in pass 71; plates **8cd–8cl** are the 1910 Buffalo opener sheet (Combs Samuel, Gabbard Elijah and Lee, Rice Dora aged two) and the 1920 C-512/G-163 cards (Samuel B. of Island Creek, Elijah of Lee, Lee of Breathitt, Louise and Loya bounding the empty Lowe slot), added in pass 72; plates **8cm–8cx** are the 1920 opener-Soundex remaining codes (Gay Walker of Island Creek, the empty Matilda/Robb/William/Drucilla slots, and the rejected Rice, Helton, Reed, and Howard Drucilla cards), added in pass 73; plates **8cy–8dk** are the 1910 Buffalo sheets 1 B–2 B (Baker Jesse, Evans John, Gay Henry) and the 1920 original plus Soundex of that Gay Henry house, with the rejected R-200 Elizabeth and Benjamin cards, added in pass 74; plates **8dl–8dx** are the 1920 Buffalo sheets 6 B–7 A originals (Abner Lewis, Barrett Bruce, Abner Samuel, Gabbard W.B., Baker Jesse) and the B-260 Jesse plus E-152 Evans John Soundex cards, added in pass 76; plates **8dy–8eq** are the 1920 Buffalo sheets 3 B and 5 B originals (Bowman Henry, Sile, Andy, Jack, and Dean George), the 1910 Bales correction, and the B-550 Henry plus C-652 James Soundex cards, added in pass 77; plates **8er–8fh** are the 1910 Buffalo sheet 2 diplomatic re-read (Jacob × Lyda, McIntosh Daniel, Carmack James, Gaine Reece × Daniel Linda, Dean Maggie, Gabbard Willis), the 1920 Daniel Reece original, and the G-500 / M-253 / G-163 / C-652 remaining Soundex cards, added in pass 78; plates **8fi–8fo** are the 1920 Booneville original that unmasks Soundex 1511 as Edmonds, the leftover-even E-152 John card that writes Owsley against ED 300, and the densified Susan-window cards (Eubanks, Effinger, Evans Susie, T divider), added in pass 79; plates **8fp–8fv** are the E-152 Lula 14 Carter SIL, Lula 36 Fleming, Robert E 53 Owsley, Robert T 54 Elliott A-2, Robey S 15 Union, John H 46 Lee Beattyville, and John W 28 Lee × Dora cards, added in pass 80; plates **8fw–8ge** are the 1920 original ED 89 Robert E. house, the A-156 Arch/Isaac/Louis/Samuel cards, and the C-652 Jacob / M-253 Daniel W / G-500 Raymond residual cards, added in pass 81. They sit after the 1880 Buck Creek plate because those numbers were already assigned. They are ordered by **the date of the census they record or index**, not by the date the film was scanned. Plates **1a–2c**, **7a–7c**, **55b–55c**, and the 1880 G-600 cards were added in passes 34–37.
+Two hundred ninety-nine numbered plates (JPEG/PNG captures from NARA microfilm via Internet Archive, plus header and household crops). Plates **7g–7j** are the 1860 Owsley and 1880 Lee Gray originals added in passes 39–40. Plates **7k–7z** and **8a–8f** are the later 1850–1860 Owsley/Breathitt/Madison isolations, including Harrison Newman with Elias aged eight, H.H. Newman with Elias aged eighteen, and Giles Mays at one month and eleven. Plates **8j–8l** are the 1840 Estill originals (John and Christian Tincher, the county recap, and William Newton not Tincher) added in pass 55; plates **8m–8n** are the 1840 Clay originals added in pass 56; plates **8o–8q** are the 1840 Breathitt originals (first name page, last name page ending Total, and the county Abstract) added in pass 57; plates **8r–8u** are the 1840 Estill McIlvain originals and the Edmonson divider added in pass 58; plates **8v–8ac** are the M850 pension-payment cards added in pass 63 (Elias T. Newnam, Henry H. Newnam, Manerva Newnam, and the Newman-spelling collisions); plates **8ad–8ai** are the 1900 Sturgeon and 1910 Wild Dog Henry H. originals added in pass 64; plates **8aj–8ao** are the 1910 Sturgeon Arthur original and the 1920 Wild Dog nil (including the rejected Evans+Minerva house) added in pass 65; plates **8ap–8au** are the 1920 Island Creek Arthur original, the Soundex Arthur card, the leftover Sturgeon ED 89 closer, and the Minerva-slot Soundex card (Minnie, not Minerva) added in pass 66; plates **8av–8bb** are the 1920 Island Creek remainder headers, the rejected Barker Malvera and Wilson×Minerva houses, the Cow Creek opener, and the Soundex Walter Logan / Walter A. Louisville cards added in pass 67; plates **8bc–8bh** are the remainder of Cow Creek (sheet 4 A and 7 A headers, the rejected Allen Ella and Cale Minerva houses, the last populated sheet 14 A, and the ED 92 opener) added in pass 68; plates **8bi–8bu** are the 1920 Booneville ED 88, Buffalo ED 92, and Buck Creek ED 93 originals added in pass 69; plates **8bv–8bz** are the 1910 Sturgeon Gilbert×Josie and Lynch×Laura originals, the 1920 G-416 Soundex card that misnamed Gilbert John as Robert, and the Buffalo Baker household that holds that father-in-law, added in pass 70; plates **8ca–8cc** are the 1910 Buffalo Gilbert, John original and the 1920 G-416 Douglas card that proves Soundex indexed filmed ED 92, added in pass 71; plates **8cd–8cl** are the 1910 Buffalo opener sheet (Combs Samuel, Gabbard Elijah and Lee, Rice Dora aged two) and the 1920 C-512/G-163 cards (Samuel B. of Island Creek, Elijah of Lee, Lee of Breathitt, Louise and Loya bounding the empty Lowe slot), added in pass 72; plates **8cm–8cx** are the 1920 opener-Soundex remaining codes (Gay Walker of Island Creek, the empty Matilda/Robb/William/Drucilla slots, and the rejected Rice, Helton, Reed, and Howard Drucilla cards), added in pass 73; plates **8cy–8dk** are the 1910 Buffalo sheets 1 B–2 B (Baker Jesse, Evans John, Gay Henry) and the 1920 original plus Soundex of that Gay Henry house, with the rejected R-200 Elizabeth and Benjamin cards, added in pass 74; plates **8dl–8dx** are the 1920 Buffalo sheets 6 B–7 A originals (Abner Lewis, Barrett Bruce, Abner Samuel, Gabbard W.B., Baker Jesse) and the B-260 Jesse plus E-152 Evans John Soundex cards, added in pass 76; plates **8dy–8eq** are the 1920 Buffalo sheets 3 B and 5 B originals (Bowman Henry, Sile, Andy, Jack, and Dean George), the 1910 Bales correction, and the B-550 Henry plus C-652 James Soundex cards, added in pass 77; plates **8er–8fh** are the 1910 Buffalo sheet 2 diplomatic re-read (Jacob × Lyda, McIntosh Daniel, Carmack James, Gaine Reece × Daniel Linda, Dean Maggie, Gabbard Willis), the 1920 Daniel Reece original, and the G-500 / M-253 / G-163 / C-652 remaining Soundex cards, added in pass 78; plates **8fi–8fo** are the 1920 Booneville original that unmasks Soundex 1511 as Edmonds, the leftover-even E-152 John card that writes Owsley against ED 300, and the densified Susan-window cards (Eubanks, Effinger, Evans Susie, T divider), added in pass 79; plates **8fp–8fv** are the E-152 Lula 14 Carter SIL, Lula 36 Fleming, Robert E 53 Owsley, Robert T 54 Elliott A-2, Robey S 15 Union, John H 46 Lee Beattyville, and John W 28 Lee × Dora cards, added in pass 80; plates **8fw–8ge** are the 1920 original ED 89 Robert E. house, the A-156 Arch/Isaac/Louis/Samuel cards, and the C-652 Jacob / M-253 Daniel W / G-500 Raymond residual cards, added in pass 81; plates **8gf–8gl** are the 1920 Buffalo sheet 2 originals (Colwell/Loyd and Baker Hubert’s daughter Dora) and the G-416 Loue I / Louis H / Loyd cards, added in pass 82. They sit after the 1880 Buck Creek plate because those numbers were already assigned. They are ordered by **the date of the census they record or index**, not by the date the film was scanned. Plates **1a–2c**, **7a–7c**, **55b–55c**, and the 1880 G-600 cards were added in passes 34–37.
 
 Soundex and Miracode cards sit with the census year they index, immediately after any original population schedules for that year.
 
@@ -244,6 +244,13 @@ Diplomatic transcriptions: [`08-transcriptions.md`](08-transcriptions.md). Citat
 | 8gc | 1920 (index) | Rejected same-name | [Kentucky C-652 — Carmack, Jacob 32, Clay](sources/soundex/ky1920-c652-p2763-carmack-jacob-32-clay.jpg) |
 | 8gd | 1920 (index) | Rejected same-name | [Kentucky M-253 — McIntosh, Daniel W. 50, Carroll × Rosa](sources/soundex/ky1920-m253-p3729-mcintosh-daniel-50-carroll.jpg) |
 | 8ge | 1920 (index) | Rejected same-name | [Kentucky G-500 — Goham[?], Raymond 31, Franklin](sources/soundex/ky1920-g500-p2361-goham-raymond-31-franklin.jpg) |
+| 8gf | 8 Jan 1920 | Context | [ED 92 sh 2 A header — Buffalo Precinct No. 5, enumerator Fred Hubbard](sources/census/1920-owsley-ed92-sh2a-hdr.jpg) |
+| 8gg | 6 Jan 1920 | Context | [ED 92 sh 2 B header — Buffalo Precinct No. 5, enumerator Fred Hubbard](sources/census/1920-owsley-ed92-sh2b-hdr.jpg) |
+| 8gh | 6 Jan 1920 | FAN | [ED 92 sh 2 B dw 48 — Colwell, William + Gilbert Loyd 10 / Douglas 7](sources/census/1920-owsley-ed92-sh2b-hh48-colwell-gilbert.jpg) |
+| 8gi | 6 Jan 1920 | Rejected same-name | [ED 92 sh 2 B dw 43 — Baker, Hubert dau Dora 21 DISPROVED as P001](sources/census/1920-owsley-ed92-sh2b-hh43-baker-hubert-dora.jpg) |
+| 8gj | 1920 (index) | Rejected same-name | [Kentucky G-416 — Gilbert, Loue I. 69, Cumberland](sources/soundex/ky1920-g416-p2059-gilbert-loue-i-69-cumberland.jpg) |
+| 8gk | 1920 (index) | Rejected same-name | [Kentucky G-416 — Gilbert, Louis H. 19, Jefferson](sources/soundex/ky1920-g416-p2060-gilbert-louis-h-19-jefferson.jpg) |
+| 8gl | 1920 (index) | FAN | [Kentucky G-416 — Gilbert, Loyd A-2, Owsley ED 92 sh 2](sources/soundex/ky1920-g416-p2063-gilbert-loyd-owsley-ed92.jpg) |
 | 8 | 13 Jun 1900 | Rejected same-name | [Douglas County, Missouri — Thomas and Nancy E. Stone](sources/census/1900-douglas-mo-ed159-stone-sheet.jpg) |
 | 9 | 13 Jun 1900 | Rejected same-name | [Douglas County Stone household (crop)](sources/census/1900-douglas-mo-ed159-stone-hh-crop.jpg) |
 | 10 | 1900 (index) | Rejected same-name | [Missouri S-350 — Thomas Stone, 44, Douglas County](sources/soundex/mo1900-s350-p1678-stone-thomas-44-douglas.jpg) |
@@ -3149,6 +3156,69 @@ Head of already-filed continuation 3730. Wife Rosa. **DISPROVED** as 1910 Buffal
 Consecutive Raymond then Richard. No Reece between 2360 and 2365. Closes the G-500 residual. Do not hunt D-540.
 
 ![1920 Soundex G-500 Goham Raymond Franklin](sources/soundex/ky1920-g500-p2361-goham-raymond-31-franklin.jpg)
+
+### 8gf · 1920 · ED 92 sh 2 A header — Buffalo Precinct No. 5
+
+**File:** [`sources/census/1920-owsley-ed92-sh2a-hdr.jpg`](sources/census/1920-owsley-ed92-sh2a-hdr.jpg)  
+**Source:** S636 · C882 · DOC164
+
+Stamped 2 A, printed B-form, 8 January 1920, enumerator Fred Hubbard, SD 10 ED 92. First household 32. Inverted A/B pairing continues.
+
+![1920 Owsley ED 92 sh 2 A header](sources/census/1920-owsley-ed92-sh2a-hdr.jpg)
+
+### 8gg · 1920 · ED 92 sh 2 B header — Buffalo Precinct No. 5
+
+**File:** [`sources/census/1920-owsley-ed92-sh2b-hdr.jpg`](sources/census/1920-owsley-ed92-sh2b-hdr.jpg)  
+**Source:** S636 · C882 · DOC164
+
+Stamped 2 B, printed A-form, 6 January 1920, enumerator Fred Hubbard.
+
+![1920 Owsley ED 92 sh 2 B header](sources/census/1920-owsley-ed92-sh2b-hdr.jpg)
+
+### 8gh · 1920 · Colwell, William + Gilbert Loyd 10 / Douglas 7
+
+**File:** [`sources/census/1920-owsley-ed92-sh2b-hh48-colwell-gilbert.jpg`](sources/census/1920-owsley-ed92-sh2b-hh48-colwell-gilbert.jpg)  
+**Source:** S636 · C882 · DOC164
+
+Dwelling 48/48. Line 39 **Gilbert, Loyd** Step son **10**. Line 42 **Gilbert, Douglas** Step son **7**. Hard Rule 6 of Soundex 2063 (clerk 16 / ln 59) and of Soundex 2020. Not missing sheet 1.
+
+![1920 Owsley ED 92 Colwell Gilbert](sources/census/1920-owsley-ed92-sh2b-hh48-colwell-gilbert.jpg)
+
+### 8gi · 1920 · Baker, Hubert dau Dora 21
+
+**File:** [`sources/census/1920-owsley-ed92-sh2b-hh43-baker-hubert-dora.jpg`](sources/census/1920-owsley-ed92-sh2b-hh43-baker-hubert-dora.jpg)  
+**Source:** S636 · C888 · DOC164
+
+Dwelling 43/43. Daughter Dora, 21. **DISPROVED as P001**.
+
+![1920 Owsley ED 92 Baker Hubert Dora](sources/census/1920-owsley-ed92-sh2b-hh43-baker-hubert-dora.jpg)
+
+### 8gj · 1920 (index) · Soundex G-416 — Gilbert, Loue I. 69, Cumberland
+
+**File:** [`sources/soundex/ky1920-g416-p2059-gilbert-loue-i-69-cumberland.jpg`](sources/soundex/ky1920-g416-p2059-gilbert-loue-i-69-cumberland.jpg)  
+**Source:** S635 · C880 · DOC163
+
+Volume 20, ED 69, sheet 10, line 89. Wife Carey. **DISPROVED** as original Buffalo Lewis 67.
+
+![1920 Soundex G-416 Gilbert Loue I Cumberland](sources/soundex/ky1920-g416-p2059-gilbert-loue-i-69-cumberland.jpg)
+
+### 8gk · 1920 (index) · Soundex G-416 — Gilbert, Louis H. 19, Jefferson
+
+**File:** [`sources/soundex/ky1920-g416-p2060-gilbert-louis-h-19-jefferson.jpg`](sources/soundex/ky1920-g416-p2060-gilbert-louis-h-19-jefferson.jpg)  
+**Source:** S635 · C880 · DOC163
+
+Louisville Chestnut 1511, volume 45, ED 51, sheet 8, line 50. Wife Willie. **DISPROVED** as original Buffalo Lewis 67.
+
+![1920 Soundex G-416 Gilbert Louis H Jefferson](sources/soundex/ky1920-g416-p2060-gilbert-louis-h-19-jefferson.jpg)
+
+### 8gl · 1920 (index) · Soundex G-416 — Gilbert, Loyd A-2, Owsley ED 92
+
+**File:** [`sources/soundex/ky1920-g416-p2063-gilbert-loyd-owsley-ed92.jpg`](sources/soundex/ky1920-g416-p2063-gilbert-loyd-owsley-ed92.jpg)  
+**Source:** S635 · C881 · DOC163
+
+Enumerated with Colwell, William, relationship Step-son. Clerk age 16 / line 59. Hard Rule 6: original age **10**, line **39**.
+
+![1920 Soundex G-416 Gilbert Loyd Owsley](sources/soundex/ky1920-g416-p2063-gilbert-loyd-owsley-ed92.jpg)
 
 
 

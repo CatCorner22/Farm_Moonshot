@@ -1,0 +1,43 @@
+Pass 82 — 1920 Kentucky Soundex G-416 Louis/Lou/Loyd window
+NARA M1563 reel 59 / IA soundex1920ky059 leaves 2054-2072
+Opened 31 Oct 2026 America/New_York. Image-seen (scale=1 JPEGs).
+Given-name sort. Visual-read every leaf 2054-2072.
+
+2054 Gilbert, Linnie continuation A-2: Lillie D 5 / Letha D 2 Kentucky.
+2055 Galbraith, Lizzie 55 TN; Christian A-2 of Creecy, Andrew; Mother. Not Owsley Lewis.
+2056 Glover, Lonzo 40 Webster × Nora B 39. Not Gilbert.
+2057 Glover, Lou 37 Caldwell × Curtis 16 / Zelma 8. Not Gilbert.
+2058 Glover, Lou Mu 65 Fayette Lexington vol 12 ED 19 sh 16 ln 6. Not Gilbert; not Owsley.
+2059 Gilbert, Loue I. Head W 69 Kentucky Cumberland vol 20 ED 69 sh 10 ln 89
+     × Carey D 37 + Smith HS 14. DISPROVED as original Lewis 67 Owsley (county Cumberland;
+     given Loue I; children Carey/Smith ≠ Indiana wife 58 of hh 14).
+2060 Gilbert, Louis H. Head W 19 Kentucky Jefferson Louisville Chestnut 1511
+     vol 45 ED 51 sh 8 ln 50 × Willie W ~16 + Louis F S 1 4/12 + Daniel S 1/12
+     + Mill, Mamie MIL 53 TN. DISPROVED as original Lewis 67 (age 19 vs 67; Jefferson;
+     children infants ≠ Indiana wife 58).
+2061 G-416 A-2 Lawson 19 Calloway Murray, enumerated with Cox, Sally, relationship son.
+     Not Owsley Lewis 67.
+2062 Galbraith, Lowell 59 Bracken × Lillie 51 + Kelly S 29. Not Gilbert.
+2063 Gilbert, Loyd (individually) W 16 Kentucky Owsley vol 76 ED 92 sh 2 ln 59.
+     Enumerated with Colwell, William. Relationship Step-son. Form A-2.
+     DISPROVED as Lewis 67 (age 16 vs 67; A-2 step-son not head).
+     Hard Rule 6 vs original T625-594 leaf 1159 ED 92 stamped 2 B ln 39:
+     original age 10, original line 39 (clerk 16 / ln 59 are derivative errors).
+     Keep as plate. Proves Soundex indexed filmed ED 92 including A-2.
+2064 Gilbert, Loyd Head W 36 Horton vol 95 ED 85 sh 7 ln 6 × Olie 33
+     + Shirley S 15 / Victoria D 13 / James S 10 / Elmer S 8. DISPROVED (Horton; 36 vs 67).
+2065 Loyd continuation Ethel/Bessie/Estel. Same Horton house.
+2066 Galbraith, Lucile 28 Perry Hazard servant of Brunner, Pattie.
+2067 Glover, Lucile M ~6 Lewis GD of Gooch, John; bottom Galbraith Lucinda.
+2068 Galbraith, Lucinda 68 Bracken mother of Galbraith, McKinley.
+2069 Gilbert, Lucy 6 Clark GD of Colvin, Brook.
+2070 Gilbert, Lucy 39 Jefferson teacher.
+2071 Galbraith, Louisa 72 Fayette Lexington West High 529 vol 24 ED 69 sh 5 ln 35
+     × Lutie D 32 / Janie D 29 / Frances D 25.
+2072 Gilbert, Lula 29 McCracken Paducah Harrison 316 vol 64 ED 148 sh 11 ln 70
+     × Slatt, Will Br 43 n.r.
+
+NIL Gilbert, Lewis/Louis ~67 Owsley vol 76 ED 92 as a G-416 head in this window.
+Original hh 14 Gilbert, Lewis 67 (leaf 1156) remains a Soundex miss. Hard Rule 6:
+original stands. Do not treat given-name nil as proof of death.
+Louis variant residual of Lewis 67 is now image-closed.

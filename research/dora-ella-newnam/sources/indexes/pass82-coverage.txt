@@ -1,0 +1,19 @@
+Pass 82 coverage 31 Oct 2026 America/New_York
+Catalog 139 / hasMore false / totalMatched 139. Was 135.
+NEW vs 135 (no IDs imported): Dora B058 1926 papers now IDLE;
+Read MO Edward/Francis sheets now IDLE; Read MO Michael/Patrick sheets RUNNING;
+Dora B071 1850 Tincher RUNNING (closeout re-list vs 138).
+Already-folded: Read MO James fam sheets IDLE. Nested reviewer not respawned.
+Message queue empty. This run bc-01a18bb4-e162-785c-9724-86a7c5663bf1.
+Sibling PR #33 C281 not imported.
+G-416 Louis window 2054-2072 image-closed. 2060 Louis H 19 Jefferson and 2059 Loue I 69
+Cumberland DISPROVED as original Lewis 67. 2063 Loyd A-2 Colwell; original leaf 1159
+sh 2 B ln 39 Loyd step-son 10 (Hard Rule 6: clerk 16 / ln 59). Original Lewis 67 remains
+a Soundex miss.
+1920 Kendrick DC GILBERT, John 85 b. 10 Jul 1835 Perry d. 17 Dec parents Isaac × Rebecka
+Gabbard, PROBABLE 1910 dw 76 / 1920 FIL 84 (died after census).
+1917 GAY, Tildy 35 d/o Morgin/Felty unmerged vs 1910 Matilda.
+Josephine remaining-county substitutes nil/n/a.
+Do not hunt D-540. Do not promote C509. Do not close B063.
+Original 1932 DC, 1916 DC face, 1840 bond, M123-3, T288 still unseen.
+Next unused after this filing: C891+ / L773+ / S639+ / DOC167+.

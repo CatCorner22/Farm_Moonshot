@@ -1,0 +1,33 @@
+Pass 82 — Josephine Newnam × Gilbert ~1902 remaining-county substitutes
+Opened 31 Oct 2026 America/New_York. HTML-seen, not civil-register images.
+UA Mozilla/5.0 (compatible; genealogy-research/pass82; +https://archive.org)
+KYGenWeb Mod_Security: this UA returns 200; bare Mozilla/5.0 returns 226 Not Acceptable.
+
+Letcher kygenweb.net/letcher/marriages.htm HTTP 200 (89,319 bytes): county landing.
+  Years listed 1852-1857, 1859, 1874-1876, 1878, 1901, 1906-1910. 1902 n/a.
+  WayBack 1852 marriages HTTP 200 (13,839 bytes) — n/a ~1902.
+  rootsweb Letcher_Co_Marriage_Indexes.html HTTP 403.
+Bell kygenweb.net/bell/marriages/ HTTP 200 (51,465 bytes): license-JPG directory (261 hrefs).
+  Only Gilbert/Newman/Cecil-like filename: Gambrel-Cecil_Miracle-Letha.JPG (other; not Josephine).
+  Bell G-Marriages.htm / N-Marriages.htm HTTP 404 (1,543-byte error).
+Martin kygenweb.net/martin/marriages.htm HTTP 200 (59,892 bytes): landing.
+  Year files 1874-1878 only. n/a ~1902.
+  files.usgwarchives.net/ky/martin/vitals/marr0001.txt / marr0002.txt / marr0003.txt
+    timed out 30s, 0 bytes.
+Pike kygenweb.net/pike/marriages.htm HTTP 200 (10,378 bytes): county landing, no 1902 index.
+  Floyd's Pike 1818-1875 already n/a ~1902.
+Rowan kygenweb.net/rowan/marriages.htm and rowan-mg.html both HTTP 200 (5,781 bytes):
+  same landing; no marriage table.
+Breathitt kygenweb.net/breathitt/marriages.htm HTTP 200 (3,672 bytes): "Oops" placeholder.
+  /marriages/ still historically 403.
+Estill kygenweb.net/estill/site/records/marriages/ HTTP 200 (2,732 bytes):
+  still only the two already-filed 1901/1902 minister-return plates.
+Magoffin G still 404 (prior).
+Owsley KYGenWeb cemetery listing HTTP 200: Gilbert/Griffith already C774; no Cecil string.
+USGenNet owsley/cemeteries/ HTTP 200: no Cecil string.
+  usgennet.org/.../cemeteries/cecil.html and smcecil.html HTTP 404.
+IA T288 search numFound 0; KY DC 1916 images numFound 0 (this pass).
+TFKRHA live C: direct apex HTTP 429; www 308. Not a new independent extract.
+
+NIL Josephine/Josie Newnam/Newman × Gilbert ~1902 in these opened files.
+License unseen. Do not treat extract-nil as a marriage.

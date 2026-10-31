@@ -1,0 +1,35 @@
+Pass 82 — 1920 original T625-594 ED 92 sheets 2 A / 2 B (Colwell / Loyd)
+IA 14thcensusofpopu594unit zip-members _1158.jp2 / _1159.jp2
+Opened 31 Oct 2026 America/New_York. Original image-seen.
+Enumerator Fred Hubbard. Buffalo Precinct No. 5. SD 10. ED 92.
+
+Leaf 1158 stamped Sheet 2 A, 8 January 1920. Printed form is a B-side (lines 51-100).
+First populated household on this image is dw 32/32 (continuation of filmed ED 92, not missing sh 1).
+Ln 51 dw 32/32 Ligon[?], George Head ~44 × Bell Wife ~43.
+
+Leaf 1159 stamped Sheet 2 B, 6 January 1920. Printed form is an A-side (lines 1-50).
+Inverted pairing (A-form under a B stamp), same pattern as sh 1 A being a B-form.
+
+Ln 8 dw 43/43 Baker, Hubert Head ~34; wife ~43; Daniel B Son ~24; Dora Daughter 21.
+  Dora 21 DISPROVED as P001 (age 21 vs ~48; daughter of Hubert vs wife of T.A. Stone).
+
+Ln 33 dw 47/47 Gilbert, Chester Head ~32 × Sarah Wife ~30 + Woodrow Son 4 + Maggie Dau ~2.
+  FAN on filmed sh 2. DISPROVED as Lewis 67 (age ~32 vs 67; own head with young children).
+
+Ln 37 dw 48/48 Colwell, William Head ~50 m
+Ln 38 Lillie Wife ~38 m
+Ln 39 Gilbert, Loyd Step son 10 S     ← original of Soundex G-416 2063
+Ln 40 Gilbert, Whitehead Step son 11 S
+Ln 41 Gilbert, Mary Step daughter 4 S
+Ln 42 Gilbert, Douglas Step son 7 S   ← original of Soundex G-416 2020 (ln 42 age 7 matches)
+Ln 43 Emmer Daughter 6/12 S           (Colwell child)
+
+Hard Rule 6 of Soundex 2063: original given name Loyd, age 10, line 39, relationship Step son
+of Colwell, William. Clerk wrote age 16 and line 59. Original stands.
+Hard Rule 6 of Soundex 2020: original Douglas 7 on ln 42 of this same house. Matches.
+
+Ln 44 dw 49/49 Gabbard, Michael Head 61. FAN on filmed sh 2. Not missing sh 1.
+  Not merged with 1910 Michael ~25 (age 61 vs ~35 expected) and not re-opened as C828's 67.
+
+This house is on filmed sh 2. Not missing sh 1. Proves Soundex clerks indexed filmed ED 92
+including A-2 step-children. Residual of hh 1-13 remains true filming gap / death / moved / out of KY.
