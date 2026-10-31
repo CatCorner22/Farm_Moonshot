@@ -830,3 +830,17 @@ Exact strings logged **L1079–L1083**.
 ## Agent SDK / GitHub channel
 
 Inspected 30 Oct 2026 (**L351**): this repository has **no** `package.json`, **no** `@grok/agent-sdk`, **no** `bot/` directory. GitHub channel `bot/channels/github.ts` is **n/a** and was **not** authored. Project subagent: `.cursor/agents/dora-genealogy-detective.md`.
+
+### Pass 109 variant storm (31 Oct 2026)
+
+**Boyd / Allie (B089)** — Boyd/Boyde/Floyd × Newman/Newnam/newnarn/newan. Soundex **N550** / **B300**. Place IA **`kentuckycensus00reel742`** true **33-7** Station Camp North leaves **755–775**; **33-6** Ravenna/Millers Creek **719–746**; **33-14** Dist. 2 **747–753**. OCR given Boyd.
+
+**Dora Stone 1926 (B049/B058)** — Dora/posa/dosa/rosa/dona × Stone/Newman/Newnam. Soundex **S350** / **N550**. Cert **1524** RD **676**. Residual Pope **Roll 5**.
+
+**Frank / David G (B055/B080)** — Frank/David F./David G. × Newnam/Newman. Soundex **N550**. Cert **13719** RD **028**.
+
+**WWI (B069/B047)** — Luther/John H./McCoy × Newnam/Newman/newnarn. M1509 **KY45 / KY24 / KY74**.
+
+**Samuel probate (B045)** — Samuel/Sam P. × Newnam/Newman will/estate. USGenNet Lee wills landing.
+
+Exact strings logged **L1084–L1092**.

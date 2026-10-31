@@ -328,5 +328,10 @@ Place as it was *at the date*; modern equivalent in brackets. Flag impossibiliti
 | Apr 1930 | — | FAN **PROVEN** as visual nil: Boyd + Allie Newman/Newnam **absent** from all **27** sheets of 1930 Estill **33-9** | Estill Co., KY | C1243 | S940 |
 | Apr 1930 | — | FAN **PROVEN** as image: Estill **33-5** Irvine South Dist. 1 isolated leaves **707–717** (Mrs Daisy Wiggins; **1A** stamped **060**–**6A** stamped **065**) | Estill Co., KY | C1244 | S941 |
 | Apr 1930 | — | FAN **PROVEN** as visual nil: Boyd + Allie **absent** from all **11** populated sheets of 1930 Estill **33-5** | Estill Co., KY | C1245 | S942 |
+| Apr 1930 | — | FAN **PROVEN** as image: true Estill **33-7** Station Camp North isolated leaves **755–775** (Clay Mcneal; **1A–11A** stamped **094**) | Estill Co., KY | C1247 | S944 |
+| Apr 1930 | — | FAN **PROVEN** as visual nil: Boyd + Allie **absent** from all **21** sheets of true 1930 Estill **33-7** | Estill Co., KY | C1248 | S945 |
+| Apr 1930 | — | FAN **WITHDRAWN**: C919–C921 793–819-as-33-7. Those leaves are **33-9** | Estill Co., KY | C1249 | S946 |
+| Apr 1930 | — | FAN **PROVEN** as image: Estill **33-6** Ravenna/Millers Creek isolated leaves **719–746** (Jesse Thorp; **1A–14B**). Names unread | Estill Co., KY | C1250 | S947 |
+
 
 **Impossibility flags:** None. Mother ~29 at Dora’s 1871 birth (Mary b. 1842). Dora age 14 at marriage is legal/period-possible (KY) though young; 1880 age 8 corroborates. Two children born before Coy in the 1886–1889 window would have Dora aged 15–18 — possible. No event after 23 Aug 1926 is attributed to her.

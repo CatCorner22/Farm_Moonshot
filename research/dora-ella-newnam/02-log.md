@@ -1,3 +1,13 @@
+
+## Access honesty pass 109
+- IA ACPL **`kentuckycensus00reel742`** IIIF **image seen** (headers + 21 name columns 33-7; 33-6/33-14 headers).
+- Genealogy Trails Lee WWI live **406**.
+- USGenNet Lee wills live **200**.
+- ARGenWeb yellnews live **200**.
+- ADNP CONTENTdm JS shell — no 1926 issue list extracted.
+- FS SPA / clerk Tyler Phillips — do not re-ask.
+- NARA M1930 roll **15** / T1224 roll **69** unread.
+
 # 02 — Research log: Dora Ella Newnam Stone
 
 One row per search, **including nil results**. Access: free | subscription | on-site | not digitised.
@@ -1149,6 +1159,16 @@ One row per search, **including nil results**. Access: free | subscription | on-
 | L1081 | 2026-10-31 | IA ACPL reel 742 IIIF (**B089**) | Estill **33-5** headers 706–719 | **Isolated** leaves **707–717**: Dist. **1**, ED **33-5**, Mrs Daisy Wiggins, **1A** stamped **060**–**6A** stamped **065**. **706** = **33-4** **12B**. **719** = **33-6** Ravenna (**C1244**) | S941 | B089 |
 | L1082 | 2026-10-31 | IA ACPL reel 742 name columns (**B089**) | Newman/Newnam; Boyd/Floyd | **11** sheets **visually read**. Newman **0**. Witt Floyd **rejected**. Boyd+Allie **absent** (**C1245**) | S942 | B089 |
 | L1083 | 2026-10-31 | Same-person write-up pass 108 | 33-5 + 33-9 visual nil | **33-5 + 33-7 + 33-8 + 33-9** all visually read — Boyd+Allie **absent**. #20/#26/#27 open (**C1246**) | S943 | B089 |
+
+| L1084 | 2026-10-31 | IA ACPL **`kentuckycensus00reel742`** IIIF (**B089**) | Estill **33-7** headers 754–776 | **Isolated** leaves **755–775**: Station Camp Dist. **3**, ED **33-7**, Clay Mcneal, **1A–11A** stamped **094**. **776** unused. **777** = **33-8** (**C1247**) | S944 | B089 |
+| L1085 | 2026-10-31 | IA ACPL reel 742 name columns (**B089**) | Newman/Newnam/Newmon/Newnarn; Boyd/Floyd | **21** sheets **visually read**. Newman **0**. Johnson Floyd **rejected**. Boyd+Allie **absent** (**C1248**) | S945 | B089 |
+| L1086 | 2026-10-31 | Same-person correction pass 109 | C919–C921 vs C1242 | **C919–C921 WITHDRAWN** as 33-7 identity. 793–819 = **33-9** (**C1249**) | S946 | B089 |
+| L1087 | 2026-10-31 | IA ACPL reel 742 IIIF (**B089**) | Estill **33-6** headers 719–746 | **Isolated** **719–746**: Jesse Thorp; Ravenna **1A**–Millers Creek **14B**. Names unread (**C1250**) | S947 | B089 |
+| L1088 | 2026-10-31 | IA ACPL reel 742 IIIF (**B089**) | Estill **33-14** headers 747–754 | **747–753** Dist. **2** Millers Creek **1A–4A**. **754** unused (**C1251**) | S948 | B089 |
+| L1089 | 2026-10-31 | Genealogy Trails Lee WWI (**B069**) | Newman/Newnam/McCoy | Live GET **406**. WebSearch full-page Newman **0** (**C1252**) | S949 | B069 |
+| L1090 | 2026-10-31 | USGenNet Lee wills (**B045**) | Samuel P. Newnam / Newman | Landing **HTML seen**. No Samuel P. (**C1253**) | S950 | B045 |
+| L1091 | 2026-10-31 | ARGenWeb Pope yellnews (**B058**) | Post-Dispatch Roll 5 | **21 Jun 1923–26 Apr 1928** reconfirm (**C1254**) | S951 | B058 |
+| L1092 | 2026-10-31 | Same-person write-up pass 109 | true 33-7 visual nil | True **33-7 + 33-8 + 33-9 + 33-5** closed. #20/#26/#27 open (**C1255**) | S952 | B089 |
 
 **Access honesty (pass 108):** IA **`kentuckycensus00reel742`** IIIF **image seen**: Estill **33-9** leaves **793–819** headers + name columns **visually read** (27 sheets); **33-5** leaves **707–717** headers + name columns **visually read** (11 sheets); boundary headers **706 / 718 / 719 / 820 / 821** **seen**. Book 6 register **unread**. Certs **28501 / 31780 / 17762 / 13719 / 09547** **unread**. M1509 **cards unread**. M1930 roll **15** / T1224 roll **69** / A3378 **22/23** **maps/descriptions unread**. Remaining Estill 1930 EDs (**33-6 / 33-10+**) **not** fully read. *Dardanelle Post-Dispatch* Pope **Roll 5** and UArk **F419.D37 D3** **film unread**. Newspapers.com **41271** June **1958** pages **unread**. Hutchins June **1958** page **unread**. Authored `latest.docx` SHA **78cdcf44…** not overwritten.
 
