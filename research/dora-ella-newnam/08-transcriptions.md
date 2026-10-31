@@ -2599,5 +2599,47 @@ Diplomatic **Lillie** / **Laura M**. → **C736**.
 
 Diplomatic **Nellie R**. → **C738**.
 
+## DOC212 — 1900 MO Soundex S-415, M.J.; Ella 1
+- Image: `sources/soundex/mo1900-s415-n3755-mj-ella-1.jpg` SHA-256 `d10cf91d3d97d51c1599b123f39332ca88e7a279fef5cf7f5d936782cf1cb5f9`
+- Reel: IA `soundex1900mo248` n**3755** rotate **0**
+
+### Diplomatic
+> **S415 Sullivan, M.J.** — Head · vol **64** ED **77** sh **3** ln **46** · W July **1874** **25** Illinois · New Madrid / Como Twp
+> **Lizzie** W Mar **1872** **27** Kentucky; **Ella** D Nov **1898** **1** Missouri
+
+Diplomatic **Ella**. → **C740**.
+
+## DOC213 — 1900 MO Soundex S-415, M. John; M.E. 1 / Ina M 2/12
+- Image: `sources/soundex/mo1900-s415-n3756-mjohn-me-1.jpg` SHA-256 `2b371669bead2403a14b1412c94a8eecb5cc503c60fe37700cd272941d2026bf`
+- Continuation: `sources/soundex/mo1900-s415-n3757-inam-2-12.jpg` SHA-256 `de1b656d88df7f6809a9c106a5e3afec9446e712876c1b01cd6c67cf17fa96f6`
+- Reel: IA `soundex1900mo248` n**3756–3757** rotate **0**
+
+### Diplomatic
+> **S415 Sullivan, M. John** — Head · vol **72** ED **110** sh **1** ln **64** · W Aug **1866** **33** Missouri · Pettis / Sedalia Twp, Sedalia · footer `#1 see #2`
+> **Charlie** W Jan **1871** **29** Missouri; **John M** S Mar **1892** **7** Missouri; **Jas P** S Aug **1894** **5** Missouri; **Mary** D June **1896** **3** Missouri; **M.E.** D July **1898** **1** Missouri
+> n**3757** continuation: **Ina M**[?] D May **1900** **2/12** Missouri; **Meyers, Agnes** Si July **1881** **19** Missouri
+
+Diplomatic **Ina M**[?] (raw also readable Iva). → **C741**.
+
+## DOC214 — 1900 MO Soundex S-415, Martha; Jane 1
+- Image: `sources/soundex/mo1900-s415-n3787-martha-jane-1.jpg` SHA-256 `ca4502c208520a8385de29b8ff2b0fee17f9130112a1e2fa65afb063262252d9`
+- Reel: IA `soundex1900mo248` n**3787** rotate **0**
+
+### Diplomatic
+> **S415 Sullivan, Martha** — Head · vol **16** ED **143**[?] sh **15** ln **77** · W Sept **1870** **29** Illinois · Stoddard / Duck Creek Twp, Essex, Bedford
+> **Johnson, Mary** D Nov **1889** **11** Mo; **Cora M** D Nov **1893** **6** Mo; **Otto** S Sept **1897** **2** Mo; **Jane** D Jan[?] **1899** **1** Mo; **Worbler, Christie** Si Dec **1835** **62** Ohio
+
+Diplomatic **Jane**; **Otto** is a **son**. → **C742**.
+
+## DOC215 — 1900 MO Soundex S-415, Mary; Lucy 9/12
+- Image: `sources/soundex/mo1900-s415-n3832-mary-lucy-9-12.jpg` SHA-256 `bcd8601332acc71fd5fd61516c80d31cb71f53c12170cfe519899dd8302db49a`
+- Reel: IA `soundex1900mo248` n**3832** rotate **0**
+
+### Diplomatic
+> **S415 Sullivan, Mary** — Head · vol **113** ED **158** sh **2** ln **12** · W Apr **1872** **28** Missouri · Wayne / Williams Twp
+> **Chas E** S Apr **1890** **10** Missouri; **Minnie** D Jan **1894** **6** Missouri; **Fred L** S Mar **1897** **3** Missouri; **Lucy** D Aug **1899** **9/12** Missouri; **Couchy, Benj** Bo Sept **1884** **16** Missouri
+
+Diplomatic **Lucy**. → **C743**.
+
 ## DOC009 — 1910 TN Soundex N-550 McCoy window (nil)
 Handwritten family/individual cards n2461–n2469. Sequence after Mary C (n2460): Mary D 49 Jefferson (son Layton 11); Mary M 70 Hamilton; Mek. G 50 Cheatham (Florence 19, John 17, General 16, Frances 13, William 10, Doria 6, Luther 1½); Melvin 3½ Giles (gs of Deacon George W); Melvin 54 Giles (SIL of same); Minerva 80 Robertson (gds Lona Neely, Nellie Erwin); Minnie 21 Roane (with Sam P. Sparks); Mitchell 27 Hardin (Ollie P 25, Gladys 4, Burl W 3, Royal E 1 9/12). **No McCoy.** SHA-256 n2463 `23610f8aa4c159b1b554ed1786d11f57d2f56f8a2e8994f7289ae7bd02dfca53`; n2469 `340489566090880388fa6b81ca5751c5944dcaf56a7b44f70fe560788f308586`.

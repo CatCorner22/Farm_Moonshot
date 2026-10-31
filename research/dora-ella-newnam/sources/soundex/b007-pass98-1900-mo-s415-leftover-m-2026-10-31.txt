@@ -1,0 +1,65 @@
+Pass 98 add — 1900 MO S-415 leftover M (M-tab→Melinda, before Michael)
+Date: 31 Oct 2026 (America/New_York)
+Target C244: 1910 Letha Sullivan 12 nurse, Jesse Conrad, Liberty Twp,
+  Bollinger Co. MO; father reported Indiana-born.
+Hunt: Letha / Letta / Lethia / Lettie / Litha / Viola / Lottie / Leta ~0–2
+  on leftover-M parent / female-head cards. Do not merge. Hard Rule 3.
+
+MO walk (card images seen; full reel PDF not downloaded):
+  soundex1900mo248 rot 0
+  leftover M n3752–3870 (M-tab n3752; Mary tab n3795; Michael starts n3872).
+  119/119 after IA 502 retries (n3819, 3847–3849, 3866, 3870).
+  Working crops /tmp/p98/mo-m-walk/ not committed except plated n3755–3757,
+  n3787, n3832.
+
+Parent-verified given-name run (header strips + nativity sheets):
+  M-tab / M. / M.F. / M.J. / M. John / M.L. / Mabel / Maggie / Maggy /
+  Malinda / Mamie / Margaret / Margerite / Margretta / Marie / Mark /
+  Marks / Marsellus / Martha / Martha A / Martha B (Slebin leftover) /
+  Martin W / Mary-tab / Mary … / Mary A / Mary B / Mary C / Mary E /
+  Mary F / Mary J / Mary N / Mary O (Slavens leftover) / Matthew /
+  Matilda / Maud / Maudie / Maurice / May / Maybelle / Melinda.
+
+Hunt-adjacent (all REJECT vs C244):
+  n3755 M.J. July 1874 25 IL, New Madrid / Como:
+    Lizzie W Mar 1872 27 KY; Ella D Nov 1898 1 MO. → C740
+  n3756–3757 M. John Aug 1866 33 MO, Pettis / Sedalia:
+    Charlie W 29 MO; John M 7; Jas P 5; Mary D June 1896 3;
+    M.E. D July 1898 1; Ina M[?] D May 1900 2/12; Meyers Agnes Si 19.
+    → C741
+  n3787 Martha Sept 1870 29 IL, Stoddard / Duck Creek / Essex:
+    Johnson Mary 11 / Cora M 6; Otto S Sept 1897 2 (son, not Etta);
+    Jane D Jan[?] 1899 1; Worbler Christie Si 62 OH. → C742
+  n3832 Mary Apr 1872 28 MO, Wayne / Williams:
+    Chas E 10; Minnie 6; Fred L 3; Lucy D Aug 1899 9/12;
+    Couchy Benj Bo 16. → C743
+
+IN-born leftover-M heads (no girl ~0–2):
+  n3792 Martha A June 1829 70 IN, Jasper Twin Grove — MIL of Hall, Alex.
+  n3794 Martin W Apr 1841 59 IN, Wright Hart / Hartville — wife only
+    (Unice/Vina Nov 1853 46 IL).
+  n3850 Slavens Mary O Mar 1853 47 IN, Jackson Kaw / KC — other-code;
+    Newkirk Mary L D May 1899 1 (granddaughter; surname Newkirk).
+
+Bollinger locality: none. Closest geography: Stoddard Duck Creek (n3787)
+  and Wayne Williams (n3832). Dunklin Holcomb Martha 58 MS individual
+  (n3789) — no toddler.
+
+Leftover N–O agent reconcile (same date; do not rewrite L625):
+  [Read IN leftover N-O 1561-1584](bc-425ade60-23ad-54b6-b2f5-208c67c27a39)
+    NIL. n1563 last child is Irene (agent Ione[?] withdrawn).
+  [Read IN leftover N-O 1585-1609](bc-7dddb0d5-950b-5762-8b3f-546ef5437e1a)
+    NIL. n1596 unnamed D May 1900 is 0/12 or 1/12 (L625 wrote 4/12);
+    head Slavins Oleo[?]/Olea. Nellie R confirmed.
+
+MO leftover-M Agent A:
+  [Read MO leftover-M 3752-3810](bc-1ab7c747-19ca-577a-918c-b9167d128b99)
+    NIL vs C244. Parent adopts Otto S (not Etta) on n3787; Ina M[?]
+    on n3757 (raw also readable Iva). Ella / Jane / M.E. confirmed.
+
+MO leftover-M Agent B (n3812–3870) not yet filed at write; parent last-line
+  + nativity walk of that slice is authoritative for C739/C743.
+
+Verdict: MO leftover M closed for C244 merge.
+Residual: leftover M on KY/AR/IL/TN if unused; leftover G/S uncommon
+  bands; B049 film.

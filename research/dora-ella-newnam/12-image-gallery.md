@@ -257,6 +257,11 @@ Diplomatic transcriptions: [`08-transcriptions.md`](08-transcriptions.md). Citat
 | 282 | 1900 (index) | Rejected same-name | [Indiana S-415 — Marion continuation; Lillie, 3, and Laura M, 4/12; not C244](sources/soundex/in1900-s415-n1449-lillie-3-lauram-4-12.jpg) |
 | 283 | 1900 (index) | Rejected same-name | [Indiana S-415 — Noah, 46, Indiana, Miami Jefferson; not C244 father](sources/soundex/in1900-s415-n1584-noah-46-in.jpg) |
 | 284 | 1900 (index) | Rejected same-name | [Indiana S-415 — Noah continuation; Nellie R, 2; not C244](sources/soundex/in1900-s415-n1585-nellie-r-2.jpg) |
+| 285 | 1900 (index) | Rejected same-name | [Missouri S-415 — M.J., 25, Illinois, New Madrid Como; Ella, 1; not C244](sources/soundex/mo1900-s415-n3755-mj-ella-1.jpg) |
+| 286 | 1900 (index) | Rejected same-name | [Missouri S-415 — M. John, 33, Missouri, Pettis Sedalia; M.E., 1; not C244 father](sources/soundex/mo1900-s415-n3756-mjohn-me-1.jpg) |
+| 287 | 1900 (index) | Rejected same-name | [Missouri S-415 — M. John continuation; Ina M, 2/12; not C244](sources/soundex/mo1900-s415-n3757-inam-2-12.jpg) |
+| 288 | 1900 (index) | Rejected same-name | [Missouri S-415 — Martha, 29, Illinois, Stoddard Duck Creek; Jane, 1; not C244](sources/soundex/mo1900-s415-n3787-martha-jane-1.jpg) |
+| 289 | 1900 (index) | Rejected same-name | [Missouri S-415 — Mary, 28, Missouri, Wayne Williams; Lucy, 9/12; not C244](sources/soundex/mo1900-s415-n3832-mary-lucy-9-12.jpg) |
 | 123 | 1900 (index) | Context | [Texas C-563 — J-tab divider](sources/soundex/tx1900-c563-p1-j-divider.jpg) |
 | 17 | Apr 1910 | Negative search | [Kentucky N-550 — Millie / Missouri; no McCoy](sources/soundex/ky1910-n550-p329-millie-missouri.jpg) |
 | 18 | Apr 1910 | Negative search | [Kentucky N-550 — Monroe; still no McCoy](sources/soundex/ky1910-n550-p330-monroe-no-mccoy.jpg) |
@@ -2695,6 +2700,56 @@ White head, February 1854, age 46, born Indiana, Miami County, Jefferson Townshi
 Continuation of Noah (plate 283). Daughter Nellie R, October 1897, age 2, Indiana. Brother-in-law Josiah Brower, 65, Ohio. Diplomatic Nellie R, not Letha. Rejected as C244.
 
 ![Indiana S-415 — Noah continuation; Nellie R, 2; not C244](sources/soundex/in1900-s415-n1585-nellie-r-2.jpg)
+
+### 285 · 1900 (index) · Missouri S-415 — M.J., 25, Illinois, New Madrid Como; Ella, 1; not C244
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/mo1900-s415-n3755-mj-ella-1.jpg`](sources/soundex/mo1900-s415-n3755-mj-ella-1.jpg)  
+**Source:** S405 · C740
+
+White head, July 1874, age 25, born Illinois, New Madrid County, Como Township. Wife Lizzie, 27, Kentucky. Daughter Ella, November 1898, age 1, Missouri. Diplomatic Ella, not Letha. Father Illinois. Rejected as C244.
+
+![Missouri S-415 — M.J., 25, Illinois, New Madrid Como; Ella, 1; not C244](sources/soundex/mo1900-s415-n3755-mj-ella-1.jpg)
+
+### 286 · 1900 (index) · Missouri S-415 — M. John, 33, Missouri, Pettis Sedalia; M.E., 1; not C244 father
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/mo1900-s415-n3756-mjohn-me-1.jpg`](sources/soundex/mo1900-s415-n3756-mjohn-me-1.jpg)  
+**Source:** S405 · C741
+
+White head, August 1866, age 33, born Missouri, Pettis County, Sedalia Township. Wife Charlie, 29, Missouri. Children John M, 7; Jas P, 5; Mary, 3; M.E., July 1898, age 1. Continuation n3757 has Ina M, 2/12. Intact Pettis household. Rejected as C244.
+
+![Missouri S-415 — M. John, 33, Missouri, Pettis Sedalia; M.E., 1; not C244 father](sources/soundex/mo1900-s415-n3756-mjohn-me-1.jpg)
+
+### 287 · 1900 (index) · Missouri S-415 — M. John continuation; Ina M, 2/12; not C244
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/mo1900-s415-n3757-inam-2-12.jpg`](sources/soundex/mo1900-s415-n3757-inam-2-12.jpg)  
+**Source:** S405 · C741
+
+Continuation of M. John (plate 286). Daughter Ina M, May 1900, age 2/12, Missouri (raw also readable Iva). Sister Agnes Meyers, 19. Diplomatic Ina M, not Letha. Rejected as C244.
+
+![Missouri S-415 — M. John continuation; Ina M, 2/12; not C244](sources/soundex/mo1900-s415-n3757-inam-2-12.jpg)
+
+### 288 · 1900 (index) · Missouri S-415 — Martha, 29, Illinois, Stoddard Duck Creek; Jane, 1; not C244
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/mo1900-s415-n3787-martha-jane-1.jpg`](sources/soundex/mo1900-s415-n3787-martha-jane-1.jpg)  
+**Source:** S405 · C742
+
+White female head, September 1870, age 29, born Illinois, Stoddard County, Duck Creek Township, Essex. Johnson daughters Mary, 11, and Cora M, 6. Son Otto, September 1897, age 2. Daughter Jane, 1899, age 1. Sister Christie Worbler, 62, Ohio. Diplomatic Jane; Otto is a son. Closest leftover-M geography (Stoddard abuts Bollinger). Rejected as C244.
+
+![Missouri S-415 — Martha, 29, Illinois, Stoddard Duck Creek; Jane, 1; not C244](sources/soundex/mo1900-s415-n3787-martha-jane-1.jpg)
+
+### 289 · 1900 (index) · Missouri S-415 — Mary, 28, Missouri, Wayne Williams; Lucy, 9/12; not C244
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/mo1900-s415-n3832-mary-lucy-9-12.jpg`](sources/soundex/mo1900-s415-n3832-mary-lucy-9-12.jpg)  
+**Source:** S405 · C743
+
+White female head, April 1872, age 28, born Missouri, Wayne County, Williams Township. Children Chas E, 10; Minnie, 6; Fred L, 3; Lucy, August 1899, age 9/12. Boarder Benj Couchy, 16. Diplomatic Lucy, not Letha. Wayne is adjacent to Bollinger. Rejected as C244.
+
+![Missouri S-415 — Mary, 28, Missouri, Wayne Williams; Lucy, 9/12; not C244](sources/soundex/mo1900-s415-n3832-mary-lucy-9-12.jpg)
 
 ### 123 · 1900 (index) · Texas C-563 — J-tab divider
 
