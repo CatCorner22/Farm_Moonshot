@@ -169,6 +169,12 @@ Exact strings logged **L499–L512**.
 
 Exact strings logged **L597+**.
 
+## Name-variant storm (pass 79, 31 Oct 2026, `search_variants.py`)
+
+**Dora Newnam --also Newman --also Stone** — given: Dora, posa, dosa, rosa, dona, dara, dore, dori, dola, pora, rora. Surname: Newnam, newman, newnarn, newan, newnom, Stone. Soundex **N550** / **S350**. Combined samples: `"Dora Newnam"`, `"Newnam, Dora"`, `"posa Newman"`, `"Dora Stone"`, `"Stone, Dora"`. Also Ella / alla / elia / Mrs Stone / Mrs Newman as **mother** on Estill remaining 1911–16 A–B/C–F/G–J/U–Z and 1917–23 K–N/O–T. Mary / mayr / mam / marv × Newnam / Smallwood on Estill death years 1911–16/1920–24/1926 and Madison 1918 K–R. Dora / Ella / Posa Stone on Madison 1926 S–Z. Same given+OCR set as boarder/MIL/wife ~38/~48 on Lincoln 1910/1920 opened township files.
+
+Exact strings logged **L615+**.
+
 ## Name-variant storm (pass 77, 31 Oct 2026, `search_variants.py`)
 
 **Dora Newnam --also Newman --also Stone** — given: Dora, posa, dosa, rosa, dona, dara, dore, dori, dola, pora, rora. Surname: Newnam, newman, newnarn, newan, newnom, Stone. Soundex **N550** / **S350**. Combined samples: `"Dora Newnam"`, `"Newnam, Dora"`, `"posa Newman"`, `"Dora Stone"`, `"Stone, Dora"`. Also Ella / Mrs Stone / Mrs Newman / Posa as leftover White `transcription.htm` (open only if a real body) and as bride/mother/taxpayer on new year-hole hosts 1901–09 / 1911–16 / 1921–25 (Montgomery Pike D–E–F; Montgomery death 1914–33; Powell births mother field; Saline poll + marr I–R). Bride 1920–25: Dora / Ella / Posa × Newnam / Newman / Stone.
