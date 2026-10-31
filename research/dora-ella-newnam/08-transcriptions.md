@@ -5029,3 +5029,74 @@ Pass 2: License still unseen. Do **not** invent T288 contents. Do **not** promot
 - Morgan 1900–1906 Josephine other/nil → C1020
 - T288 rolls 347/348 identified; images unseen → C1021
 - B061 remaining gap → C1023
+
+## DOC210 — Catalog + Pass 95 coverage
+
+- Extract: `pass95-coverage.txt` SHA-256 `6b4a7b3f68bb994a782d07fbb4b9f82246544c0e5776130e3e364c5edf294af1`
+- Provenance: Cursor `list-cloud-agents` includeArchived limit 200, 31 Oct 2026. This run `bc-01a18bb4-e162-785c-9724-86a7c5663bf1`.
+
+### Diplomatic — catalog
+
+> **178** / `hasMore: false` / `totalMatched: 178`. Was **173**. NEW vs 173 (5; **no IDs imported**): Read remaining Pass 96 KY AR TN sheets RUNNING; Read AR IL / KY / MO / IN Pass 96 leftover sheets RUNNING. Status-only: Hunt Dora 1910/1920 lines **renamed** B068 Perry 1920 remaining EDs still RUNNING (same id); Continue Dora genealogy still RUNNING. Nested reviewer **not** respawned. Sibling C281 **not imported**.
+
+Pass 2: Process count only. **No** new independently image-backed P001 1900–1926 residence. Skip **C221–C280**. Do **not** promote C509. Do **not** hunt remaining 1930 Owsley sheets.
+
+### Facts extracted → claim IDs
+- catalog 178 was 173; NEW 5 not imported → C1024
+- B063 remaining gap → C1032
+- B061 remaining gap → C1033
+
+## DOC211 — NARA Catalog T288 access path (Pass 95)
+
+- Extract: `t288-nara-catalog-pass95.txt` SHA-256 `d5f1aa88130d79965426f7b3a136be701a26abf90b0a1373efc5bed06a8583ff`
+- Provenance: NARA Catalog series NAID **563268**; file-unit pages for reels **347/348**; IIIF info.json; Catalog search `"Newnam"`; WikiTree Newnam-172 authored. Opened 31 Oct 2026. **Metadata / access-fail**. Card images unseen.
+
+### Diplomatic — cited catalog / authored
+
+> Series: General Index to Civil War and Later Pension Files, ca. 1949–ca. 1949. National Archives Identifier: **563268**. Record Group 15. Microform publication T288. 544 rolls. Catalog: 2,662 File Units / 2,410,183 digital objects claimed. Partially Available in the Catalog.
+
+> Reel **347** — Nesbitt, Wm. E. THRU Newman, Lazarus: NAID **382331091 / 382332092 / 382333093 / 382334094 / 382335095**.
+
+> Reel **348** — Newman, Leon THRU Nichols, Wilber: NAID **382335916 / 382336917 / 382337918 / 382338919 / 382339920**. Other Files on (5 of 5): **T288-0348.pdf**, 859 MB. PDF not downloaded.
+
+> IIIF: `catalog.archives.gov/iiif/3/lz%2Fdc-metro%2Frg-015%2F563268/T288-0348/T288-0348-01001.tif`. Frame 01001 info 3216×2336. Frame 04000 info 3248×2352. Pixel GETs timeout or 502 HTML. OpaAPI media URL returned Catalog SPA HTML (5,454 bytes).
+
+> Catalog `q="Newnam"`: other series (JFK / Confederate / Rev War / volunteer CSR). Nil of T288 file-unit titles named Newnam. Title-nil, not a card-nil.
+
+> WikiTree Newnam-172 (authored): Ancestry Record 4654 #510014 — Francis D Newman, C. 14 Ky. Cavalry, roll 347, spouse Sarah A Newman. Card image not seen. DISPROVED as Elias T. Newnam.
+
+Pass 2: Do **not** invent T288 card contents. Do **not** promote C509. Do not close B061.
+
+### Facts extracted → claim IDs
+- Catalog NAIDs / IIIF path identified; images unseen → C1025
+- Newnam title-nil not a card-nil → C1026
+- WikiTree Francis D Newman DISPROVED as Elias → C1031
+- B061 remaining gap → C1033
+
+## DOC212 — Josephine remaining substitutes (Pass 95)
+
+- Extract: `josephine-gilbert-pass95.txt` SHA-256 `ca17aa736a989299c085bc3253de4ca23d37a0a93090052ab8ab980cb7b044d1`
+- Coverage: `pass95-coverage.txt` `6b4a7b3f68bb994a782d07fbb4b9f82246544c0e5776130e3e364c5edf294af1`
+- Provenance: KYGenWeb Carter abstracts / Greenup mar1838 / remaining-county 404s; Genealogy Trails Hardin/Meade/Mercer/Nelson/Greenup; Breathitt 403; TFKRHA 429; FAG 403. Opened 31 Oct 2026. **HTML-seen / access-fail**, not a ~1902 civil register. License unseen. Original 1916 DC face unseen. T288 images unseen.
+
+### Diplomatic — cited extracts
+
+> Carter KYGenWeb abstracts: 28 couples. **6-28-1902** DEFOE, John M. × TWINAM, Ethel — other. Nil Josephine / Josie / Gilbert / Newman / Newnam. Partial volunteer list, not county-wide 1902.
+
+> kygenweb `{county}/marriages.htm` 404: Lawrence, Lewis, Greenup, Jackson, Mercer, Nelson, Barren, Warren, Daviess, Hart. Hardin ctssites landing 200, no ~1902 table. Meade genheritage landing 200, no ~1902 table.
+
+> Greenup `mar1838.html` (31,387 bytes): Marriages through 1838. Years 1802–1850. Josephine/Gilbert/Newman/Newnam token 0. N: Newcomb / Neal / Noel / Norton / Norris / Nelson / Nunnelley.
+
+> Genealogy Trails Meade 1862: McFarland, Jonas × Josephine George 12 Feb 1862. Other (1862; maiden George ≠ Newnam). DISPROVED as this ~1902 bride.
+
+> Mercer `1900mar.html` (2,135 bytes): Selected 1900's Marriages, BOTTOM cluster 1911–1933. No 1902 row. Josephine/Gilbert/Newman/Newnam token 0. n/a as a 1902 Newnam license.
+
+Pass 2: License still unseen. FAG 403 is unread, not a DISPROVED of Mary Jane Steele. Do not close B063.
+
+### Facts extracted → claim IDs
+- Carter abstracts nil/other → C1027
+- remaining-county 404s / landings → C1028
+- Greenup 1838 n/a ~1902 → C1029
+- GT Meade 1862 DISPROVED; Mercer BOTTOM n/a → C1030
+- access-fails / FAG 403 unread → C1031
+- B063 remaining gap → C1032

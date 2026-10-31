@@ -2692,3 +2692,16 @@ research/dora-ella-newnam/sources/census/1880-lee-ky-ed59-sheet43-p768-caroline-
   sha256: 5ea5612f48702f6b894608aefdb863a0921f4169d9947f9a66e650cd58c12327
   format: JPEG photo, 220,896 bytes
   check: 1930 original ED 95-8 sh 5 A dw 95-96 Barrett Emery 58 / Oliphant 22 DISPROVED as John 85
+
+/workspace/research/dora-ella-newnam/sources/indexes/pass95-coverage.txt
+  sha256: 6b4a7b3f68bb994a782d07fbb4b9f82246544c0e5776130e3e364c5edf294af1
+  format: text extract, 3,816 bytes
+  check: Pass 95 coverage; catalog 178 was 173; T288 Catalog NAIDs identified unseen
+/workspace/research/dora-ella-newnam/sources/indexes/t288-nara-catalog-pass95.txt
+  sha256: d5f1aa88130d79965426f7b3a136be701a26abf90b0a1373efc5bed06a8583ff
+  format: text extract, 3,168 bytes
+  check: NARA Catalog T288 series 563268; reels 347/348 NAIDs; IIIF path; images unseen
+/workspace/research/dora-ella-newnam/sources/indexes/josephine-gilbert-pass95.txt
+  sha256: ca17aa736a989299c085bc3253de4ca23d37a0a93090052ab8ab980cb7b044d1
+  format: text extract, 3,344 bytes
+  check: Carter abstracts nil/other; Greenup 1838 n/a; Meade 1862 Josephine George DISPROVED

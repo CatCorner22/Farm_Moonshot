@@ -1,0 +1,66 @@
+Pass 95 coverage — 31 Oct 2026 (America/New_York)
+This run bc-01a18bb4-e162-785c-9724-86a7c5663bf1
+Catalog list-cloud-agents includeArchived limit 200 → 178 / hasMore false / totalMatched 178.
+Was 173. NEW vs 173 (5; no IDs imported):
+  Read remaining Pass 96 KY AR TN sheets RUNNING
+    bc-580cc145-88a4-547f-8836-c949f51c092f
+  Read AR IL Pass 96 leftover sheets RUNNING
+    bc-504dd9ff-1805-57c1-aad3-88d5adface18
+  Read KY Pass 96 leftover sheets RUNNING
+    bc-230cb512-de5d-5557-9c9d-c027ed7a75c0
+  Read MO Pass 96 leftover sheets RUNNING
+    bc-4405453f-ae6b-54a0-ba53-db7ea29d671a
+  Read IN Pass 96 leftover sheets RUNNING
+    bc-f5477cb1-6147-54c9-8510-3bc7f8d48fbc
+Status-only (not new IDs):
+  Hunt Dora 1910/1920 lines renamed B068 Perry 1920 remaining EDs
+    same id bc-aa43eaa5-be23-54be-a20a-7a5238fd33f8 still RUNNING.
+  Continue Dora genealogy still RUNNING
+    https://cursor.com/agents/bc-7eb25736-d3e3-510a-83d6-9535752f0297
+  Read IN Pass 95 sheets still RUNNING.
+  Dora 1840 Clark B059 still RUNNING.
+  Scan ED5 pages 405-434 still RUNNING.
+  Dora location search WAITING_FOR_BACKGROUND_WORK PR #31.
+  Dora's biography research WAITING_FOR_BACKGROUND_WORK PR #33
+    (sibling C281 not imported).
+  Project status review WAITING_FOR_BACKGROUND_WORK.
+Nested reviewer not respawned. Message queue empty.
+Skip C221–C280 / L245–L342 / S259–S266.
+Do not mint C274–C280. Do not promote C509. Do not hunt D-540.
+Do not close B063. Do not hunt remaining 1930 Owsley sheets (closed Pass 94).
+Do not import C281.
+
+Work this pass:
+- NARA Catalog T288 series NAID 563268 opened (2,662 file units; 544 rolls).
+  Reel 347 file units (Nesbitt, Wm. E. THRU Newman, Lazarus, 1–5 of 5):
+    382331091 / 382332092 / 382333093 / 382334094 / 382335095.
+  Reel 348 file units (Newman, Leon THRU Nichols, Wilber, 1–5 of 5):
+    382335916 / 382336917 / 382337918 / 382338919 / 382339920.
+  File unit 5 of 5 lists Other Files T288-0348.pdf 859 MB — not downloaded.
+  IIIF path confirmed (info.json 200 prior; pixel GETs timeout/502 this pass).
+  Catalog quoted "Newnam" hits are other series (JFK / Confederate / Rev War /
+  volunteer CSR) — nil of T288 file-unit titles. Not a card-nil.
+  IA T288 still garbage / not NARA T288. FS coll. 1919699 403.
+  WikiTree Newnam-172 authored Ancestry T288 index: Francis D Newman,
+  C. 14 Ky. Cavalry, roll 347, spouse Sarah A Newman — card unseen.
+  DISPROVED as Elias T. Do not invent card contents. Do not promote C509.
+- Josephine remaining:
+  Carter KYGenWeb abstracts opened (28 couples). DEFOE × TWINAM 6-28-1902 other.
+  Nil Josephine/Gilbert/Newman/Newnam. Partial compiled list, not county-wide 1902.
+  kygenweb marriages.htm 404: Lawrence, Lewis, Greenup, Jackson, Mercer,
+  Nelson, Barren, Warren, Daviess, Hart.
+  Hardin ctssites.com/kyhardin/ landing 200, no ~1902 table; marriage.html 404.
+  Meade genheritage.com/meade/ landing 200, no ~1902 table; vitals/marriages 404.
+  Greenup mar1838.html opened: through 1838 (outliers 1845/1850); n/a ~1902.
+  N: Newcomb/Neal/Noel/Norton/Norris/Nelson/Nunnelley; nil Newman/Newnam/Josephine.
+  Genealogy Trails Hardin marriagerecords.html index-only (no table).
+  Meade marriages.html is 1862 only: Josephine George × Jonas McFarland
+  12 Feb 1862 DISPROVED (1862; maiden George ≠ Newnam).
+  Mercer marriage_index.html 18th-c/1825/1900mar.html links.
+  Mercer 1900mar.html is selected 1911–1933 BOTTOM cluster; n/a as 1902 Newnam.
+  Nelson 1785–1815 n/a. Greenup GT 1804–1820 / 1862 n/a.
+- 1916 DC: TFKRHA SSL mismatch then HTTPS 429. Not a fourth extract.
+- FAG cemetery 2475554 and memorial 165350371 both 403. Stone unread.
+- Breathitt /marriages/ 403. Rootsweb Greenup/Lawrence/Lewis 403 this pass.
+
+B061 / B063 remain open. Next unused after this pass: C1034+ / L906+ / S711+ / DOC213+.

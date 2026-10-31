@@ -1,0 +1,60 @@
+Pass 95 — NARA Catalog T288 access path (images unseen)
+Opened 31 Oct 2026 (America/New_York). Metadata / access-fail. Not card images.
+
+Series: General Index to Civil War and Later Pension Files, ca. 1949–ca. 1949.
+National Archives Identifier: 563268.
+Record Group 15. Microform publication T288. 544 rolls.
+Catalog: 2,662 File Units / 2,410,183 digital objects claimed in the series
+description. Arranged alphabetically by surname of veteran.
+Attention on the series page: Partially Available in the Catalog.
+
+Reel 347 — Nesbitt, Wm. E. THRU Newman, Lazarus (Container ID: Reel 347)
+  (1 of 5) NAID 382331091
+  (2 of 5) NAID 382332092
+  (3 of 5) NAID 382333093
+  (4 of 5) NAID 382334094
+  (5 of 5) NAID 382335095
+
+Reel 348 — Newman, Leon THRU Nichols, Wilber (Container ID: Reel 348)
+  (1 of 5) NAID 382335916
+  (2 of 5) NAID 382336917
+  (3 of 5) NAID 382337918
+  (4 of 5) NAID 382338919
+  (5 of 5) NAID 382339920
+  Other Files on (5 of 5): T288-0348.pdf, Portable Document File, 859 MB.
+  PDF not downloaded this pass.
+
+IIIF (info.json previously 200; pixel GETs this pass timeout or 502 HTML):
+  https://catalog.archives.gov/iiif/3/lz%2Fdc-metro%2Frg-015%2F563268%2FT288-0348%2FT288-0348-01001.tif
+  Frame 01001 info: 3216×2336. Frame 04000 info: 3248×2352 (reel has ≥4000 frames).
+  Smallest listed size for 01001 is 101×73. GET of /full/101,/0/default.jpg timed out.
+  Tile 0,0,512,512 timed out. OpaAPI media URL returned Catalog SPA HTML (5454 bytes).
+  S3 NARAprodstorage previously 403. Do not invent card contents from info.json.
+
+Catalog search q="Newnam" (WebFetch of catalog.archives.gov/search):
+  Hits are other series: RG 272 Newnam, John (JFK); Confederate citizens /
+  63d State Troops; Revolutionary War CSR; volunteer-organization carded indexes
+  (Iowa Nathaniel 9th Cav; Pennsylvania George 69th Inf; Missouri John W 11th Cav;
+  Iowa Elwood W 34th Inf). Nil of T288 file-unit titles named Newnam.
+  File units are named by reel range, not individual veterans.
+  This is a title-nil, not a card-nil. Do not file as T288 card-nil.
+
+Catalog search q=Newnam&f.ancestorNaIds=563268 did not isolate T288 reel titles
+(same other-series hits in the returned sample).
+
+IA advancedsearch title:(General Index to Pension Files) numFound 0.
+IA T288-0348 numFound 0. IA T288 title hits remain garbage (iSkyPhone, CIA).
+FamilySearch collection 1919699 HTTP 403 this pass.
+Fold3/Ancestry paywalled. Do not invent T288 contents. Do not promote C509.
+
+WikiTree Newnam-172 (authored, opened this pass): Ancestry Record 4654 #510014
+cites U.S. Civil War Pension Index T288, NAI 563268, Roll 347,
+Name Francis D Newman, Unit C. 14 Ky. Cavalry, Filing Place Kentucky,
+Relation to Head Soldier, Spouse Sarah A Newman. Card image not seen.
+Ancestry spelling Newman vs profile Newnam. Roll 347 is the Newman block
+(Nesbitt–Newman Lazarus), consistent with an index spelling Newman.
+DISPROVED as Elias T. Newnam (Francis ≠ Elias; different given name;
+WikiTree death 1884 vs Elias 1932). FAN of Co C 14 Ky Cav only.
+Hard Rule 6: do not treat the Ancestry index as the card.
+
+Elias T. cert 631218 remains known from M850 (C646). T288 card still unseen.

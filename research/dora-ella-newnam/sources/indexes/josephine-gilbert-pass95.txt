@@ -1,0 +1,58 @@
+Pass 95 — Josephine Newnam × Gilbert ~1902 remaining substitutes
+Opened 31 Oct 2026 (America/New_York). HTML-seen / access-fail, not a ~1902 civil register.
+License unseen. Original 1916 DC face unseen. T288 images unseen.
+
+Carter County KY (KYGenWeb abstracted marriages; kygenweb.net/carter/marriage/abstracts.html):
+- OPENED. 28 couples in the table. Partial volunteer list, not county-wide 1902.
+- 6-28-1902 DEFOE, John M. × TWINAM, Ethel — other (neither Josephine nor Gilbert;
+  neither Newnam/Newman).
+- Nil Josephine / Josie / Gilbert / Newman / Newnam in the opened table.
+
+kygenweb.net/{county}/marriages.htm HTTP 404 (1543-byte stub) this pass:
+  Lawrence, Lewis, Greenup, Jackson, Mercer, Nelson, Barren, Warren, Daviess, Hart.
+
+Hardin: kygenweb.net/hardin/marriages.htm 200 → ctssites.com/kyhardin/ landing
+  (12,449 bytes). No ~1902 Josephine×Gilbert table on the landing.
+  ctssites.com/kyhardin/marriage.html / marriages.htm / vitals.htm / records.htm 404.
+
+Meade: kygenweb.net/meade/marriages.htm 200 → genheritage.com/meade/ landing
+  (6,559 bytes). BMD section advertised; vitals.html / marriages.htm /
+  birth-marriage-death-records/ 404. No ~1902 table opened.
+
+Greenup KYGenWeb mar1838.html OPENED (31,387 bytes).
+  Title: Marriages through 1838 | Greenup Co | KYGenWeb.
+  Alphabetised compilation, transcribed by Rebekka.
+  Years on the page 1802–1850 (outliers 1841/1845/1850). n/a as a ~1902 license.
+  Josephine / Josie / Gilbert / Newman / Newnam / Newsom token count 0.
+  N surnames present: Newcomb, James × Clarinda Alington Nov 1806;
+  Neal Jacob × Sally Kouns 6 Sep 1804; Noel Daniel × Nancy Brown 4 Dec 1823;
+  Norton, James × Elizabeth West 28 Apr 1823; Norris Charles × Levisa Jamison
+  27 Apr 1832; Nelson John A × Eliza Roberts 16 Feb 1833;
+  Nunnelley, Daniel × America Skaggs 23 Feb 1836.
+  rootsweb.com/~kygreenu/mar1838.html 403 this pass (kygenweb copy used).
+
+Genealogy Trails (genealogytrails.com/ken/):
+- Hardin marriagerecords.html 200 (1,989 bytes): index only (Marriage Index /
+  Marriage News). No couple table. n/a ~1902.
+- Meade marriages.html 200 (8,170 bytes): 1862 Marriages only.
+  McFarland, Jonas × Josephine George 12 Feb 1862. Other (1862; maiden George
+  ≠ Newnam; groom McFarland ≠ Gilbert). DISPROVED as this ~1902 bride.
+  Nil Newman/Newnam/Gilbert.
+- Mercer marriage_index.html 200: 18th-c / 1825 / 1900mar.html links.
+  1900mar.html OPENED (2,135 bytes): title "1900 Marriages"; body is
+  "Selected 1900's Marriages" contributed by Anna Newell — BOTTOM-family
+  cluster 1911–1933 (Bailey/Bottom 1933; Bottom×Isham 1923; etc.).
+  Years 1911, 1917, 1919, 1923, 1925, 1926, 1930, 1933. No 1902 row.
+  Josephine/Josie/Gilbert/Newman/Newnam token count 0.
+  n/a as a 1902 Newnam license (selected later BOTTOM rows).
+- Nelson marriages.html 200: 1785–1815 / 1796. n/a ~1902.
+- Greenup marriages_main.html 200: bonds 1804–1820; marriages 1862. n/a ~1902.
+
+Breathitt kygenweb.net/breathitt/marriages/ HTTP 403 (680 bytes).
+TFKRHA 1916 C: HTTP SSL mismatch on www.tfkrha.org; HTTPS tfkrha.org 429
+  (Vercel). Not a fourth extract (Rosenbalm already C709).
+FamilySearch collection 1919699 HTTP 403.
+Find A Grave cemetery 2475554 and memorial 165350371 HTTP 403.
+rootsweb Lawrence / Lewis landings 403 this pass.
+
+License still unseen. Do not close B063.
