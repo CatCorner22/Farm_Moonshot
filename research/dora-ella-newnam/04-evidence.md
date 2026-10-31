@@ -655,6 +655,26 @@
 | C1336 | Yell ARGenWeb bride pages **D–F / M–O / S** are a **1842–1878** compilation. **No** Dora Stone / Newman 1911–25 on those pages (they do not reach those years) | PROVEN as to those pages | S352 L452 | year hole |
 | C1337 | ARGenWeb Perry births: **no records posted after 1900**. Deaths submitted files skip 1900–1926 (1860–99 / 1950+) | PROVEN as to those landings | S351 L453 | year hole |
 | C1338 | ARGenWeb Yell `census.htm` is **HTTP 404**. County home has no 1910/1920 census link | PROVEN as to those URLs | S352 L454 | |
+| C1339 | 1910 Perry **Casa Town** hh **131**: Amanda Stone 46 Wd 14/6 AR seamstress + Manning/Marcus/Grace/Rayburn/Nora 21. hh **129**: Mary Stone MIL 62 Wd. **No** Dora ~38. Amanda = 1920 Perryville cluster | PROVEN as to those households; DISPROVED as P001 | S353 L458 | FAN |
+| C1340 | 1910 **Fourche LaFave**: Dora wife 28 of George P. Cates (3/3 AR) **rejected**; Rosa Leigh 38 D AR (Zella/Gradelle/Artie) **rejected**; Ella Griffith 36 AR 0/0 **rejected**; Ella Creasey 28 S **rejected** | DISPROVED as P001 | S353 L458 | |
+| C1341 | 1910 **Perry Twp** hh **283**: Charles H. Newman 23 AR + Annie F. 18 + Riley + George W. 17 — **no** MIL/boarder Dora. hh **123** Allie M. Newman 20 dau of Lucas. hh **198** Butler, Dora boarder 20 S AR **rejected** | PROVEN as to those households; DISPROVED as P001 | S353 L459 | FAN |
+| C1342 | 1910 **Petit Jean** hh **266**: Dora wife 36 of James M. Bonds (4/4 AR) **rejected**. hh **322** Elijah J. Stone 59 VA + Mary 50 AR; hh **330** James Stone 34 + Lizzie 20 — no Dora | DISPROVED as P001; Stone FAN only | S353 L459 | |
+| C1343 | 1910 **South View** hh **89**: Allan E. Stone 40 AR + Flora E. 32 IL + stepson Charles Yates 32 — **no** Dora | PROVEN as to that household | S353 L459 | FAN |
+| C1344 | 1910 Petit Jean **convict camp**: page states all prisoners and guards were white males. Newman, John 19 S AR prisoner — **not** P001 (female) and **not** P010 (age 19 vs ~10; AR vs KY) | PROVEN as to that page; DISPROVED as P001/P010 | S353 L459 | |
+| C1345 | 1910 **Casa Twp** hh **25**: Dora wife 27 of Greenie Hance (4/3 AR) **rejected**. Dona Moss 28 **rejected** | DISPROVED as P001 | S353 L460 | |
+| C1346 | 1910 **Perryville Town** entire opened census: **nil P001 ~38**. Ella I. House 21; Cora J. Wallace 36 (judge’s wife). Ben F. Butler hh **67** is a different Butler cluster | PROVEN negatives for that town | S353 L460 | |
+| C1347 | 1910 **Fourche Town** **nil P001**. **Rose Creek** hh **75**: Dora wife 34 of William Alexander (MO; Myrtle/Mazie/Alice/Pearl 8/Jessie) **rejected**. Ella S. Isom 37 AR **rejected** | DISPROVED as P001 | S353 L460 | |
+| C1348 | 1910 **Aplin** hh **198**: Dora Mosby 40 S MS (same 1920 cluster) **rejected**. Dora Shelton DIL 18 **rejected**. Ella J. Lipe 50 TN **rejected** | DISPROVED as P001 | S353 L461 | |
+| C1349 | 1910 **Houston Twp** hh **154**: Dora Davis 22 AR **rejected**. hh **155**: Dora Cliffton boarder 24 AR **rejected** | DISPROVED as P001 | S353 L461 | |
+| C1350 | 1910 **Dry Fork / Omega / Cherry Hill / Tyler**: **nil P001 ~38**. Cherry Hill zero given-name hits. Cora Blair 30 MS; Rosa McGraw 40 AR **rejected** | PROVEN negatives for those townships | S353 L462 | |
+| C1351 | Remaining Perry 1910 **census bodies unpublished** this pass: Eran Town, Forest, Lake, Maumelle, McCool, New Tennessee, Union, Walnut Grove, Houston Town. Their **indexes** are head-nil for Dora/Ella/Stone/Newman | PROVEN as to those indexes; census **not yet examined** | S353 L463 | B070 |
+| C1352 | Perry Marriage Book **F** (12 Dec 1916–24 Feb 1922) N+S+D: **no** Newman/Newnam; **no** Dora bride; only Stone = Ada 24 × Elbert 19 Dec 1917. **No** T.A./Tom Stone groom | PROVEN as to those letter pages | S354 L464 | year hole |
+| C1353 | Perry Book **G** (14 Feb 1922–3 Jul 1930) N+S+D: NEWMAN, W A 27 × Tedder 23 Sep 1922 — **not** Coy. Stone grooms ages 18–20. **No** Dora Newnam × T.A. Stone. Sheets/McGhee/Callaway/Brown Doras **rejected** | PROVEN negative for Dora as a party | S354 L464 | year hole |
+| C1354 | ARGenWeb Conway census index lists 1910 and 1920 as **unlinked labels**. No township transcript for those years on that host | PROVEN as to that page | S355 L465 | new host |
+| C1355 | Conway Books **W/X/Y** bride (26 Oct 1919–15 Aug 1925): **no** Dora/Ella Newnam × Stone. **Hill, Dora 48** × Crynes 15 Jun 1924 **rejected**. **Scoggins, Dora E. Mrs 49** × Conley 17 Aug 1924 **rejected**. Book Z unread | PROVEN as to those tables; DISPROVED as P001 for the two age-adjacent Doras | S355 L466 | year hole |
+| C1356 | ARGenWeb Pope: home has **no** 1910/1920 census link. `newsrptc.htm` is an ATU microfilm catalog (no name index). Probate Record C **nil** Newman/Stone/Dora | PROVEN as to those pages | S355 L467 | new host |
+| C1357 | ARGenWeb Perry wills landing posts only **Sanford Taylor 1906**. No Newnam/Stone estate index | PROVEN as to that landing | S355 L468 | year hole |
+| C1358 | USGenWeb Archives Perry landing **timeout** (one try) | PROVEN as to that attempt | S355 L469 | |
 | C224 | **1 Jun 1880** population schedule dw **102/102** (ED **59**, **S235**) is **Flanary** + **Brashears**, **not** a **Mays** head; **Mary MAYS** 83 d. **Jan 1880** in mortality hh **102** (**S120**) — **same dwelling number**, decedent absent from June snapshot | PROVEN (original pop. line + mortality transcript) | S235 S120 L248 | Does not identify Pollie Mays stone (**C147**) |
 
 ## Same-person merges (Hard Rule 3)
@@ -681,6 +701,16 @@
 | 1910 Rankin Dora? Goin 28 + P001 | Given Dora? | Age 28; b. TN; m. 8y; 2/2; husband Bert Goin | **Rejected (C1332)** |
 | 1910 Howell Laura B. Butler 25 + Laura Bell (Stone) Butler | Laura B. + Butler + Howell + b. MO | No maiden Stone on this transcript | **PROBABLE FAN (C1330); not P001** |
 | 1912 Perry McCoy Newman 23 × Ada Bench + P006 Coy | Rare given McCoy; age ~23 vs b. Apr 1890; Perry/Yell | No parents/prior residence; 1917 Letha is documented | **Not merged (C1335 POSSIBLE; #19)** |
+| 1910 Casa Town Amanda Stone 46 + P001 | Surname Stone; Perry | Age 46 Wd AR; children Manning–Nora; no Tom A. | **Rejected (C1339)** |
+| 1910 Fourche LaFave Dora Cates 28 + P001 | Given Dora | Age 28 vs ~38; AR; 3/3; husband George P. Cates | **Rejected (C1340)** |
+| 1910 Perry Twp Butler Dora 20 + P001 | Given Dora; boarder | Age 20 vs ~38; AR; single | **Rejected (C1341)** |
+| 1910 Petit Jean Dora Bonds 36 + P001 | Given Dora; age ~36–38 | AR; m. 7y; Bonds daughters Rosa/Ola/Lona/Esther | **Rejected (C1342)** |
+| 1910 Casa Twp Dora Hance 27 + P001 | Given Dora | Age 27; AR; Hance children Usty/Cornelia/Georgia | **Rejected (C1345)** |
+| 1910 Rose Creek Dora Alexander 34 + P001 | Given Dora | Age 34; MO; daughters Myrtle–Jessie including Pearl age 8 | **Rejected (C1347)** |
+| 1910 Aplin Dora Mosby 40 + 1920 Dora W. Mosby 50 | Given Dora; Mosby; MS; single | Same cluster; not KY; mother Hettie/Hattie | **Rejected (C1348 / C1326)** |
+| 1910 convict Newman, John 19 + P010 | Surname Newman | Age 19 vs ~10; AR vs KY; male prisoner | **Rejected (C1344)** |
+| 1924 Conway Hill, Dora 48 × Crynes + P001 | Given Dora; age 48 | Surname Hill; groom John Crynes 60; not Stone | **Rejected (C1355)** |
+| 1924 Conway Scoggins, Dora E. Mrs 49 × Conley + P001 | Dora E. + age 49 | Already Mrs. Scoggins; groom W. E. Conley | **Rejected / not merged (C1355)** |
 | 1920 Perryville Amanda S. Stone 56 + P001 | Surname Stone | Born AR; dau Nora J. 32; not Tom A.’s house | **Rejected (C1313)** |
 | 1920 Sturgeon Dora 37 nee JUDD (Hall Mays) + P001 | Given name Dora | Age 37; maiden Judd; living children in that house | **Rejected (C126 cluster / this pass)** |
 | 1920 Sturgeon Pearl 24 nee NEWMAN in Clyde Jackson hh + P001 | Daughter’s married household | P001 would be mother ~48; she is not listed | **Not the same line — child located, mother absent (C305)** |

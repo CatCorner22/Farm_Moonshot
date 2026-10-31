@@ -151,6 +151,12 @@ Exact strings logged **L361–L372**. Ages from `kinship.py`: 28 (1 Jun 1900), 3
 
 Exact strings logged **L343–L360**.
 
+## Name-variant storm (pass 69, 31 Oct 2026, `search_variants.py`)
+
+**Dora Newnam --also Newman** — given: Dora, posa, dosa, rosa, dona, dara, dore, dori, dola, pora, rora. Surname: Newnam, newman, newnarn, newan, newnom. Soundex **N550**. Combined samples: `"Dora Newnam"`, `"Newnam, Dora"`, `"posa Newman"`, `"Dora newman"`. Also Ella / Mrs Stone / Mrs Newman / Posa / Dona / Nora / Cora as given-name variants on remaining Perry 1910 township transcripts. Stone Soundex **S350**. FAN: Tom A. / Laura Bell Butler / Randall / McCoy Newman.
+
+Exact strings logged **L456+**.
+
 ## Name-variant storm (pass 68, `search_variants.py`)
 
 **Dora Stone --also Newman** — given: Dora, posa, dosa, rosa, dona, dara, dore, dori, dola, pora, rora. Surname: Stone, storie, stona, stome, Newman. Soundex **S350** / **N550**. Combined samples: `"Dora Stone"`, `"Stone, Dora"`, `"posa Stone"`, `"Dora Newman"`. Also Ella / Mrs Stone / Mrs Newman / Posa / Dona as given-name variants on Perry 1920/1910 transcripts.
