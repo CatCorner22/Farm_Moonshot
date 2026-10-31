@@ -1,0 +1,30 @@
+Pass 81 — C-652 / G-500 / M-253 residuals
+Images seen 31 Oct 2026. Given-name sort. Visual-read every residual leaf.
+
+C-652 Carmack remaining James leaves ky038 2751-2769 (closes S613 residual):
+  2751 Crenshaw J.A. A-1b continuation Earl 10 / Merl 8 / Hertie 6 / Carl 4 / Floya 9/12
+  2753 Crenshaw J.C. A-1b continuation Luton Charles BL 13
+  2754 Crenshaw J.D. 45 Union Sturgis Monroe 206 boarder of Simpson Mary DISPROVED
+  2756 Crenshaw J.H. 33 Elliott x Lillie 28 + Ivernia 10 / Herbert Floyd 8 / Susan Ruella 6 / Ora Onnease 5 DISPROVED
+  2757 Crenshaw J.H. A-1b Cidellarrene S 2
+  2759 Corrington J.G. 80 Oldham Pewee Valley Confederate Home Inmate DISPROVED
+  2761 Carmicle J.W. A-1b continuation Richard 14 / Ruth 12 / Minnie 6 / May 6 (head 2760 already DISPROVED)
+  2763 Carmack, Jacob 32 Clay x Emilene 20 + Eunice 4 7/12 + Dolly 2 7/12 DISPROVED as James ~50 Owsley ED 92 (keep as Clay Carmack FAN)
+  2764 Coomes, James B 10 Jefferson Louisville GS of Ross Walter DISPROVED
+  2766 Carney, James 19 Jefferson Camp Zachary Taylor soldier Private DISPROVED
+  2767 Currens[?], James 25 Mercer Harrodsville x Beulah 20 + Haskell 2 DISPROVED
+  2769 Carney, James 31 Pike Elkville Front 423 x Nellie 19 + Carrie M 7/12 + Kimberlain Earl Se 16 DISPROVED
+  NIL Carmack, James ~50 Owsley vol 76 ED 92.
+
+G-500 remaining 2361-2364 (closes S610 residual):
+  2361 Goham[?], Raymond 31 Franklin Peaks Mill x Eudora 22 DISPROVED as Reece
+  2362 Guinn, Raymond H. 37 TN Boyle Danville Beatty Avenue 219 x Lucy 27 + William 9 DISPROVED
+  2363 Guinn, Richard 39 Logan Lewisburg x Zora 28 + Goldie 16 / John W 7 / Hattie L 1 1/2 DISPROVED
+  2364 Guinn, Richard 40 Hopkins x Willie 17 + Helen L 7/12 DISPROVED
+  Consecutive Raymond then Richard — no Reece between 2360 and 2365.
+  Do not hunt D-540 to prove C833.
+
+M-253 residual 3729 (closes S611 residual; head of already-filed 3730 continuation):
+  3729 McIntosh, Daniel W 50 Carroll vol 20 ED 45 sh 4 ln 60 x Rosa 45 + George L 29 / Isaiah 23 / Lillie 21 / Julius 14; See 2 (=3730).
+  Carroll != Owsley; Rosa != Fannie[?] Harris; children != 1910 Buffalo set.
+  DISPROVED as 1910 Buffalo McIntosh Daniel.

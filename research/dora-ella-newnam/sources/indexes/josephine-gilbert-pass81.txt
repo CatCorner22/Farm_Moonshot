@@ -1,0 +1,16 @@
+Pass 81 — Josephine Newnam x Gilbert ~1902 neighboring-county substitutes
+Opened 31 Oct 2026. HTML/PDF-seen, not civil-register images.
+
+Floyd KYGenWeb:
+  flmarriage-g.html HTTP 200: GIBSON, Joel m. Nancy GILBERT, Feb 2, 1832 (other; 1832; bride Gilbert; groom Gibson).
+  flmarriage-n.html HTTP 200: NEWMAN, Jackson, m. Polly JUSTICE, Nov 19, 1860 (other; 1860; bride Justice).
+  floyd-co-marriages-1808-1904.html HTTP 200: Gilbert grooms include Gilbert x PRATER, Perlina Aug 21, 1846 and Gilbert x STURGILL, America Jul 4, 1865 (other; not Josephine; not ~1902). No Josephine Newnam bride.
+  Magoffin G still 404. Breathitt vitals 403/timeout (prior).
+
+Floyd/Johnson booklet PDF "A medley of marriages from 1816-1944" (Horne; 36 pp; 5,135,253 bytes):
+  Josephine May x Joe Price 7 May 1931 (other; bride May; 1931).
+  Josephine Rice x Johesey Colvin 17 Mar 1874 Johnson Co. (other; bride Rice; 1874).
+  Josephine Caudill x Benjamin H. Hitchcock 16 Oct 1913 Johnson Co. (other; bride Caudill; 1913).
+  NIL Josephine/Josie Newnam/Newman x Gilbert ~1902.
+
+License unseen. Do not treat extract-nil as a marriage.

@@ -1,0 +1,107 @@
+Pass 81 — 1920 Kentucky Soundex A-156 Abner
+NARA M1563 reel 1 / IA soundex1920ky001
+Friendsofallencounty mtid=163ky: reel 0001 = A-000 through A-260.
+Image-seen 31 Oct 2026. Given-name sort. Tesseract flagger only; every cited card visual-read.
+
+Reel map (coarse probes):
+  20 A-100 Abey Edward 67 Henry New Castle living alone
+  400 A-130 Abbott Lula 10 Oldham
+  800 A-140 Abel Joseph 23 Jefferson
+  1200 A-145 Apling Asia M 19 Butler
+  1250 A-145 Appling William F 13 Butler
+  1300 A-150 Abney Henry A 54 Madison
+  1400 A-152 Auffenkamp Charles L 52 Jefferson
+  1420 A-153 Avent Kelly 48 McCracken
+  1440 A-153 Abinatis Tom 60 Ballard
+  1441-1444 still A-153/A-155 (Atenion Walter; Abnatha Walter W / Harper; Abernathy Will)
+  1445 blank/leader
+  A-156 starts ~1446 Abner, Addie
+  A-160 by 1655 Aubry, Abe 31 Jefferson (1656 Abey Adah; 1657 Aubery Albert L; 1658 A-162 Avar Albert N; 1659 Avery Alfred)
+  A-160 Avery already at 1660 on coarse probe. Reel 1 5600/6000 HTTP 404.
+
+Casey / A given-name through Charles (1446-1460):
+  1446 Addie 17 Laurel servant of Daniel, Robert DISPROVED
+  1447 Alice 14 Perry step-daughter of Comer[?] Telford DISPROVED
+  1448 Ance 2 Perry step-son of Dixon John O DISPROVED
+  1449 Andy 39 Madison x Oppha 23 + Martha J 4 1/2 DISPROVED
+  1450 Arch Head W 29 KY Owsley vol 76 ED 92 sh 6 ln 25 x Sarah W 23
+       Hard Rule 6: original T625-594 leaf 1167 ED 92 stamped 6 B ln 25 dw 111/111 is Abner, Casey Head 32 x Sarah 33 (C818 / DOC133).
+       Clerk wrote Arch for Casey; age 29 vs 32; wife 23 vs 33. Same sheet/line as original Casey.
+  1451 Arlie 11 Clay GD of Helton Elisha DISPROVED
+  1452 Belle 66 Clark mother of Abner Robert DISPROVED
+  1453 Ben 38 Madison x Mary 37 DISPROVED
+  1454 Benjamin F 12 Powell nephew of Holden Arthur DISPROVED
+  1455 Beverley P 47 Clay x Delilah 20 + Callie 4 DISPROVED
+  1456 Brook 37 Lee St Helens x Leler 30 DISPROVED
+  1457 Brit 5 Perry step-son of Dixon John D DISPROVED
+  1458 C. J. 44 Madison Berea Chestnut x Ida 35 + Lola 13 / Vernon 7 / Jack 4 1/2 + Davis Sallie Mother 80 DISPROVED as Casey
+  1459 Cassius 41 Clark Winchester Jefferson 15 x Nannie 35 + Florence 12 / Martha 9 / May 4 / Cadie 2 DISPROVED as Casey
+  1460 Charles 49 Nicholas x Boggess Rosie SIL 28 / Shay Sam N 43 / Boggess Lillian Ni 14 DISPROVED
+  No Casey given-name card: clerk filed the Buffalo house as Arch.
+
+L-window 1581-1599 (after Lillie 13 Clay 1580; Mahala T already at 1590/1600):
+  1581 Lillie 14 Clay boarder of Lytle James M DISPROVED
+  1582 Lillie B 34 Jackson dau of Powell W.H. DISPROVED
+  1583 Liga 16 Wayne servant of Smith John T DISPROVED
+  1584 Louis 28 Powell brother-in-law of Holden Arthur DISPROVED (28 vs ~50; Powell vs Owsley)
+  1585 Louis Head W 41 Lee vol 59 ED 115 sh 3 ln 45 x Sarah W 26 + Robert S 16 / Willie S 14 / Bertha D 11 / Jerold S 7
+       DISPROVED as 1920 Buffalo Lewis 50 x Susan 42 (Lee vs Owsley; Sarah vs Susan; children not Jesse/Laura/Hazel)
+  1586 continuation Coleman S 2
+  1587 Lucy 31 Kenton Covington DISPROVED
+  1588 Lucy Jane 4 Jackson GD of Powell W.H. DISPROVED
+  1589 Soundex advertising reverse (non-card)
+  1590 Mahala T 66 Muhlenberg Central City North Fourth x Bartley Ada GD 18 (duplicate of 1600)
+  1591 Martha 33 Clay sister of Abner Dan DISPROVED
+  1592 Martha 16 Monroe servant DISPROVED
+  1593 Martha J 76 Butler mother of Abner John W DISPROVED
+  1594 Mary 49 Jefferson Central State Hospital Patient DISPROVED
+  1595 Mary An 67 Powell Stanton mother of Abner Joseph DISPROVED
+  1596 Mary E 76 Crittenden mother of Farley Gus DISPROVED
+  1597 Mary Ellen 8 Jackson GD of Powell W.H. DISPROVED
+  1598 Milton 63 Clay x Marcia 61 + Flora/Ella/Ida/Eva DISPROVED
+  1599 continuation John 20 / Harvey 18 / Ambrose 15
+  NIL Lewis ~50 Owsley vol 76 ED 92. Original leaf 1167 ln 30 dw 113/113 Abner, Lewis 50 x Susan 42 exists (C808). Soundex miss of a filmed original. Hard Rule 6: original wins.
+
+Isaac A-2 (Owsley proof):
+  1520 Abner, Isaac W 3 1/2 KY Owsley vol 76 ED 90 sh 13 ln 52, enumerated with Hill, Samuel, relationship Grand-son. Form A-2.
+       Island Creek, not Buffalo ED 92. DISPROVED as Lewis/Samuel/Casey. Proves A-156 indexed Owsley including A-2.
+
+Samuel window 1621-1654 (after Robert 1620; A-160 by 1655):
+  1621 Robert 42 Clay x Aletha 34 DISPROVED
+  1622 continuation Willie 3 1/2
+  1623 Robert 28 Knox x Jennie 27 DISPROVED
+  1624 Robert E 36 Jackson McKee prisoner Jackson County Jail DISPROVED
+  1625 Roy 15 Clay stepson of Henson Taylor DISPROVED
+  1626 Sallie 50 Jackson x Andy 17 / Bessie 16 / Essie 13 / Aron 10 DISPROVED
+  1627 Sam'l H 10 Jackson GS of Powell W.H. DISPROVED as Buffalo Samuel 53
+  1628 Samuel Head W 53 KY Owsley vol 76 ED 92 sh 7 ln 1 x Marian W 51 + Daniel, Chester GS 8
+       Matches original T625-594 leaf 1168 stamped 7 A ln 1 dw 117/117 Abner, Samuel 53 x Maria 51 + Daniel Chester GS 8 (C809 / DOC134). Hard Rule 6.
+  1629 Samuel 26 Knox x Christina 25 + Clay 4 1/2 / Dorotha 2 4/12 DISPROVED
+  1630 Shelby 27 Clay x Eva 23 DISPROVED
+  1631 Sherman 46 Powell x Polly 43 DISPROVED
+  1632 continuation Howard 11 / Fred F 78 / Nolan Christine MIL 80
+  1633 Shila[?] / Silas 44 Clay x Elizabeth 42 DISPROVED
+  1634 continuation Edward 6 / Gilbert 5 / Dorothy 2 1/2 / Zella 9/12
+  1635 Steve 30 Knox x Susan 27 DISPROVED
+  1636 Sudie 3 1/2 Clay stepdaughter of Henson Taylor DISPROVED
+  1637 Taya[?] 29 Clay x Minnie 23 DISPROVED
+  1638 Thelma 4 Clay GD of Abner, Levi DISPROVED (Clay Levi, not Owsley Lewis)
+  1639 Ola 18 Clay stepson of Henson Taylor DISPROVED
+  1640 Oles 56 Clay x Isabelle 56 + Mandy 20 / Reuben 15 DISPROVED
+  1641 Odom 34 Clay x Belle 24 DISPROVED
+  1642 continuation Ida D 5/12
+  1643 Thomas J 33 Barren x Susie M 27 + Mary S 7 DISPROVED
+  1644 Tib 24 Jackson x Lessie 19 + China D 2 DISPROVED
+  1645 Vina 36 Leslie x Dan 17 / Joe 16 / Ellen 14 / Willie 7 DISPROVED
+  1646 Virgil 20 Metcalfe x Daisy M 14 DISPROVED
+  1647 Wiley 43 Clay x Leetha 40 DISPROVED
+  1648 continuation Della 6 / Mattie 3 1/2
+  1649 Will 39 Bourbon x Lucy 33 + Clifford 10 / Catesby 3/12 DISPROVED
+  1650 Wm 52 Marion New Market x Maggie 51 + Harper Bill Se 53 DISPROVED
+  1651 William 36 Laurel nephew of Wilson James DISPROVED
+  1652 William A 54 Barren x Bertha[?] 52 DISPROVED
+  1653 Willis 24 Perry x Clara 23 DISPROVED
+  1654 blank/leader
+  A-156 given-name block closed.
+
+Other Owsley A-156 heads already on original (not missing sh 1): Casey/Arch ED 92 sh 6 ln 25; Samuel ED 92 sh 7 ln 1; Isaac A-2 ED 90. Lewis 50 is original-only (Soundex miss).

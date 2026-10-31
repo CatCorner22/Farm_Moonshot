@@ -1,0 +1,10 @@
+Pass 81 coverage 31 Oct 2026 America/New_York
+Catalog 135 / hasMore false / totalMatched 135. Unchanged vs Pass 80. Nested helpers process-folded only. No IDs imported.
+This run bc-01a18bb4-e162-785c-9724-86a7c5663bf1. Message queue empty.
+Original T625-594 leaf 1092 ED 89 sh 9 A Evans Robert E 53 image-seen (Hard Rule 6 of Soundex 2023).
+A-156 reel 1 isolated; Casey window 1446-1460, Lewis 1581-1599, Samuel 1621-1654 image-closed.
+C-652 2751-2769 / G-500 2361-2364 / M-253 3729 residuals image-closed.
+Floyd G/N/1808-1904 HTML and Horne 1816-1944 PDF Josephine x Gilbert nil/other.
+Do not hunt D-540. Do not promote C509. Do not close B063.
+Original 1932 DC, 1916 DC face, 1840 bond, M123-3, T288 still unseen.
+Next unused after this filing: C879+ / L765+ / S634+ / DOC163+.

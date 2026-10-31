@@ -3850,4 +3850,100 @@ Pass 2: License still unseen. Do **not** treat extract-nil as a marriage.
 ### Facts extracted → claim IDs
 - Josephine neighboring-county substitutes this pass nil/n/a → C864
 
+## DOC158 — 1920 Owsley ED 89 sheet 9 A, Evans, Robert E. (original)
+
+- Header: `sources/census/1920-owsley-ed89-sh9a-hdr.jpg` SHA-256 `f124d955aa029ef01bd7bc64d1f5870a046bae776f2f0b84d53d8d4cd47dd8b5`
+- Line 30: `sources/census/1920-owsley-ed89-sh9a-ln30-evans-robert-e.jpg` SHA-256 `534336fb016e4f209368e46694323b9b56cd88ac869b9ef6aaa38505981b215b`
+- Extract: `owsley-1920-ed89-sh9a-evans-robert-e-pass81.txt` `e5de78879207cdbef5d6a6442628f21ea40112e269f215d28b2441e3abe292f4`
+- Provenance: NARA T625 reel **594** / IA `14thcensusofpopu594unit` leaf **1092**, opened 31 Oct 2026. **Image-seen.** Enumerator **John M. Wilson**, **13 Jan 1920**. Stamp **254**. Sturgeon Precinct No. **2**.
+
+### Diplomatic — cited lines
+
+> Ln **30** FM **150/153 Evans, Robert E.** Head OM m W **53** m KY. Ln **31** Margie Wife f W **51** m KY. Ln **32** Nannie Daughter f W **22** S KY. Ln **33** Walter Son m W **17** S KY. Ln **34** James B Son m W **13** S KY. Ln **35** Lucinda Daughter f W **11** S KY. Ln **36** Richardson, William H. **65** Missouri.
+
+Pass 2: Matches Soundex E-152 **2023**. Hard Rule 6: original given name Robert E.; wife Margie. **DISPROVED** as 1910 Buffalo Robert. **Not merged**. Pass 65 already screened ED **89** for Newman heads (nil).
+
+### Facts extracted → claim IDs
+- Original Robert E 53 Owsley ED 89 DISPROVED as Buffalo child; Hard Rule 6 of Soundex 2023 → C868
+
+## DOC159 — 1920 Kentucky Soundex A-156, Casey / Isaac (derivative)
+
+- Card 1450: `sources/soundex/ky1920-a156-p1450-abner-arch-owsley-ed92.jpg` SHA-256 `de432861f211993feca64c4a70bb81366edb103c1d78a5a62585bde617eac3a3`
+- Card 1520: `…p1520-abner-isaac-owsley-ed90.jpg` `5facc47651943042f6d73787ac211b6bd04ed79594f8d6adc84d9e61379960b6`
+- Extract: `ky1920-a156-abner-pass81.txt` `8b6c9d2fa072337c3dd5225c7f9de2d3f55fc2c150d6bc73ac0dfbd87e392bba`
+- Provenance: NARA M1563 reel **1** / IA `soundex1920ky001`, opened 31 Oct 2026. **Image-seen.** Given-name sort. A-156 starts ~**1446**. Visual-read **1446–1460** and **1520**.
+
+### Diplomatic — cited cards
+
+> A-156 **Abner, Arch** Head W **29** Kentucky Owsley vol **76** ED **92** sh **6** ln **25** × Sarah W **23**. Hard Rule 6: original leaf **1167** ln **25** dw **111/111** is **Abner, Casey** Head **32** × Sarah **33**. Clerk wrote Arch for Casey.
+
+> A-156 **Abner, Isaac W.** (individually) W **3 1/2** Kentucky Owsley vol **76** ED **90** sh **13** ln **52**. Enumerated with Hill, Samuel. Relationship **Grand-son**. Form A-2. Island Creek, not Buffalo. Proves A-156 indexed Owsley including A-2.
+
+Pass 2: Casey given-name window **1446–1460** **nil** Casey card. Other A-names **DISPROVED** as Casey. Do **not** treat Arch as a second Buffalo head.
+
+### Facts extracted → claim IDs
+- 1450 Arch is original Casey; Hard Rule 6 → C869
+- Casey window nil Casey given-name → C870
+- 1520 Isaac W A-2 Owsley proves indexing → C871
+
+## DOC160 — 1920 Kentucky Soundex A-156, Lewis / Samuel (derivative)
+
+- Card 1585: `sources/soundex/ky1920-a156-p1585-abner-louis-41-lee.jpg` SHA-256 `14b54e77a1bfbc7abe732fcafad45ec8b5eefb2fa55190f7d0f75b9bf8f50e70`
+- Card 1628: `…p1628-abner-samuel-owsley-ed92.jpg` `fba28b12fc4a7b99a79ac5b32ae585afa896b4db2001572ffffdde5a65df8e75`
+- Extract: same `ky1920-a156-abner-pass81.txt` as DOC159
+- Provenance: NARA M1563 reel **1** / IA `soundex1920ky001`, opened 31 Oct 2026. **Image-seen.** Visual-read **1581–1599** and **1621–1654**.
+
+### Diplomatic — cited cards
+
+> A-156 **Abner, Louis** Head W **41** Kentucky Lee vol **59** ED **115** sh **3** ln **45** × Sarah W **26** + Robert S **16** / Willie S **14** / Bertha D **11** / Jerold S **7** / Coleman S **2**. **DISPROVED** as 1920 Buffalo Lewis 50 × Susan 42 (Lee ≠ Owsley; Sarah ≠ Susan).
+
+> A-156 **Abner, Samuel** Head W **53** Kentucky Owsley vol **76** ED **92** sh **7** ln **1** × Marian W **51** + Daniel, Chester GS **8**. Matches original leaf **1168** stamped **7 A** ln **1** dw **117/117** Abner, Samuel **53** × **Maria** **51**. Hard Rule 6: original Maria stands.
+
+Pass 2: Lewis window **1581–1599** **nil** Lewis ~50 Owsley. Original leaf **1167** ln **30** exists — Soundex miss. Samuel window **1621–1654** other cards **DISPROVED** as Buffalo Samuel. A-156 given-name block closed (A-160 by **1655**).
+
+### Facts extracted → claim IDs
+- Lewis window nil; 1585 Louis 41 Lee DISPROVED; original Lewis is a Soundex miss → C872
+- 1628 Samuel copies original; window closed → C873
+
+## DOC161 — C-652 / G-500 / M-253 residuals (derivative)
+
+- Card 2763: `sources/soundex/ky1920-c652-p2763-carmack-jacob-32-clay.jpg` SHA-256 `66fc75b4c61c6c894badba0071e836a41d11432035f1515760c0179a66277f7d`
+- Card 2361: `…ky1920-g500-p2361-goham-raymond-31-franklin.jpg` `2868ddaa321a8bcfef7620e4c304151722ab91a5b7c8ed6ce6aea12a6dcfeb88`
+- Card 3729: `…ky1920-m253-p3729-mcintosh-daniel-50-carroll.jpg` `f0bd8823735a5b2198b3d25c79f9ad75d1beef349307437404cf7a202aa38d23`
+- Extract: `ky1920-c652-g500-m253-residuals-pass81.txt` `304ab2adcde8e91f4afaa68ffc07069a676cb4703bfc63057e7b2fdac3050b64`
+- Provenance: NARA M1563 reels **38** / **60** / **103**, opened 31 Oct 2026. **Image-seen.** Visual-read C-652 **2751–2769**, G-500 **2361–2364**, M-253 **3729**.
+
+### Diplomatic — cited cards
+
+> C-652 **Carmack, Jacob** Head W **32** Clay × Emilene W **20** + Eunice D **4 7/12** + Dolly D **2 7/12**. **DISPROVED** as Carmack, James ~50 Owsley ED **92**. Keep as Clay Carmack FAN.
+
+> G-500 **Goham[?], Raymond** Head W **31** Franklin Peaks Mill × Eudora W **22**. Consecutive **2362–2364** Guinn Raymond H Boyle / Guinn Richard Logan / Guinn Richard Hopkins. No Reece between already-filed **2360** and **2365**.
+
+> M-253 **McIntosh, Daniel W.** Head W **50** Carroll vol **20** ED **45** sh **4** ln **60** × Rosa W **45** + George L **29** / Isaiah **23** / Lillie **21** / Julius **14**; See **2**. **DISPROVED** as 1910 Buffalo Daniel.
+
+Pass 2: Closes S613 / S610 / S611 residuals. Do **not** hunt D-540 to prove **C833**.
+
+### Facts extracted → claim IDs
+- C-652 2751–2769 nil Carmack James Owsley; 2763 Jacob 32 Clay DISPROVED → C874
+- G-500 2361–2364 nil Reece → C875
+- 3729 Daniel W 50 Carroll DISPROVED as 1910 Buffalo Daniel → C876
+
+## DOC162 — Josephine×Gilbert ~1902 substitutes (Pass 81)
+
+- Extract: `josephine-gilbert-pass81.txt` SHA-256 `8548b2ee5313ca5b021a919b161b399041ce7b490fc636ee0e0571b96286fe10`
+- Coverage: `pass81-coverage.txt` `929452b9ae158d968fd54e86d6ba138bca8fdfe549b2508b5552008852a5f42c`
+- Provenance: Floyd KYGenWeb HTML and Horne 1816–1944 PDF opened 31 Oct 2026. **HTML/PDF-seen**, not civil-register images.
+
+### Diplomatic — cited extracts
+
+> Floyd `flmarriage-g.html` HTTP **200**: GIBSON, Joel m. Nancy GILBERT, Feb 2, **1832** (other; bride Gilbert; 1832). `flmarriage-n.html` HTTP **200**: NEWMAN, Jackson, m. Polly JUSTICE, Nov 19, **1860** (other). `floyd-co-marriages-1808-1904.html` HTTP **200**: Gilbert × PRATER, Perlina Aug 21, **1846** and Gilbert × STURGILL, America Jul 4, **1865** (other; not Josephine; not ~1902).
+
+> Horne PDF: Josephine May × Joe Price **7 May 1931**; Josephine Rice × Johesey Colvin **17 Mar 1874** Johnson Co.; Josephine Caudill × Benjamin H. Hitchcock **16 Oct 1913** Johnson Co. **NIL** Josephine/Josie Newnam/Newman × Gilbert ~1902.
+
+Pass 2: License still unseen. Do **not** treat extract-nil as a marriage.
+
+### Facts extracted → claim IDs
+- Josephine Floyd substitutes this pass nil/other → C877
+
+
 

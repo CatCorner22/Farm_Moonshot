@@ -1,0 +1,19 @@
+Pass 81 — 1920 original T625-594 leaf 1092 = Owsley ED 89 sheet 9 A
+NARA T625 reel 594 / IA 14thcensusofpopu594unit _1092.jp2
+Image-seen 31 Oct 2026. Enumerator John M. Wilson, 13 Jan 1920.
+State Kentucky. County Owsley. Township District 3 Sturgeon Precinct No. 2.
+ED 89. Sheet 9 A. Stamp 254. Supervisor's Dist 10.
+
+Ln 30 FM 150/153 Evans, Robert E. Head OM m W 53 m KY
+Ln 31 Margie Wife f W 51 m KY
+Ln 32 Nannie Daughter f W 22 S KY
+Ln 33 Walter Son m W 17 S KY
+Ln 34 James B Son m W 13 S KY
+Ln 35 Lucinda Daughter f W 11 S KY
+Ln 36 Richardson, William H. [boarder/other] 65 Missouri
+Ln 37 Wilson, J.S. next household
+
+Matches Soundex E-152 leaf 2023 (vol 76 ED 89 sh 9 ln 30).
+Hard Rule 6: original given name Robert E.; wife Margie; children Nannie/Walter/James B/Lucinda.
+DISPROVED as 1910 Buffalo Robert (~11, son of John x Susan). Not merged.
+Pass 65 already screened ED 89 for Newman heads (nil).

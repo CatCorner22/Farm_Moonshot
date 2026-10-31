@@ -1956,4 +1956,60 @@ research/dora-ella-newnam/sources/census/1880-lee-ky-ed59-sheet43-p768-caroline-
   sha256: 16cd54e30e650add406d6bc025f539477335131d66cd0cc28025b3295a4117b1
   format: text extract, 786 bytes
   check: Pass 80 coverage; catalog 135; L/R/odds windows closed
+/workspace/research/dora-ella-newnam/sources/census/1920-owsley-ed89-sh9a-hdr.jpg
+  sha256: f124d955aa029ef01bd7bc64d1f5870a046bae776f2f0b84d53d8d4cd47dd8b5
+  format: JPEG photo, 73,272 bytes
+  check: 1920 Owsley ED 89 sh 9 A header Sturgeon Precinct 2
+/workspace/research/dora-ella-newnam/sources/census/1920-owsley-ed89-sh9a-ln30-evans-robert-e.jpg
+  sha256: 534336fb016e4f209368e46694323b9b56cd88ac869b9ef6aaa38505981b215b
+  format: JPEG photo, 68,031 bytes
+  check: 1920 original Evans Robert E 53 ED 89 DISPROVED as Buffalo child
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-a156-p1450-abner-arch-owsley-ed92.jpg
+  sha256: de432861f211993feca64c4a70bb81366edb103c1d78a5a62585bde617eac3a3
+  format: JPEG photo, 215,095 bytes
+  check: 1920 Soundex A-156 1450 Arch clerk misread of original Casey
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-a156-p1520-abner-isaac-owsley-ed90.jpg
+  sha256: 5facc47651943042f6d73787ac211b6bd04ed79594f8d6adc84d9e61379960b6
+  format: JPEG photo, 227,308 bytes
+  check: 1920 Soundex A-156 1520 Isaac W A-2 Owsley ED 90
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-a156-p1585-abner-louis-41-lee.jpg
+  sha256: 14b54e77a1bfbc7abe732fcafad45ec8b5eefb2fa55190f7d0f75b9bf8f50e70
+  format: JPEG photo, 230,408 bytes
+  check: 1920 Soundex A-156 1585 Louis 41 Lee DISPROVED as Buffalo Lewis
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-a156-p1628-abner-samuel-owsley-ed92.jpg
+  sha256: fba28b12fc4a7b99a79ac5b32ae585afa896b4db2001572ffffdde5a65df8e75
+  format: JPEG photo, 223,738 bytes
+  check: 1920 Soundex A-156 1628 Samuel 53 copies original Maria house
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-c652-p2763-carmack-jacob-32-clay.jpg
+  sha256: 66fc75b4c61c6c894badba0071e836a41d11432035f1515760c0179a66277f7d
+  format: JPEG photo, 263,446 bytes
+  check: 1920 Soundex C-652 2763 Jacob 32 Clay DISPROVED as James ~50
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-m253-p3729-mcintosh-daniel-50-carroll.jpg
+  sha256: f0bd8823735a5b2198b3d25c79f9ad75d1beef349307437404cf7a202aa38d23
+  format: JPEG photo, 239,736 bytes
+  check: 1920 Soundex M-253 3729 Daniel W 50 Carroll DISPROVED as Buffalo Daniel
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-g500-p2361-goham-raymond-31-franklin.jpg
+  sha256: 2868ddaa321a8bcfef7620e4c304151722ab91a5b7c8ed6ce6aea12a6dcfeb88
+  format: JPEG photo, 167,919 bytes
+  check: 1920 Soundex G-500 2361 Raymond residual closer no Reece
+/workspace/research/dora-ella-newnam/sources/indexes/owsley-1920-ed89-sh9a-evans-robert-e-pass81.txt
+  sha256: e5de78879207cdbef5d6a6442628f21ea40112e269f215d28b2441e3abe292f4
+  format: text extract, 908 bytes
+  check: 1920 original ED 89 sh 9 A Evans Robert E
+/workspace/research/dora-ella-newnam/sources/indexes/ky1920-a156-abner-pass81.txt
+  sha256: 8b6c9d2fa072337c3dd5225c7f9de2d3f55fc2c150d6bc73ac0dfbd87e392bba
+  format: text extract, 6,525 bytes
+  check: 1920 A-156 Casey Lewis Samuel Isaac windows
+/workspace/research/dora-ella-newnam/sources/indexes/ky1920-c652-g500-m253-residuals-pass81.txt
+  sha256: 304ab2adcde8e91f4afaa68ffc07069a676cb4703bfc63057e7b2fdac3050b64
+  format: text extract, 2,156 bytes
+  check: 1920 C-652 G-500 M-253 residuals closed
+/workspace/research/dora-ella-newnam/sources/indexes/josephine-gilbert-pass81.txt
+  sha256: 8548b2ee5313ca5b021a919b161b399041ce7b490fc636ee0e0571b96286fe10
+  format: text extract, 1,113 bytes
+  check: Josephine x Gilbert ~1902 Floyd substitutes nil/other
+/workspace/research/dora-ella-newnam/sources/indexes/pass81-coverage.txt
+  sha256: 929452b9ae158d968fd54e86d6ba138bca8fdfe549b2508b5552008852a5f42c
+  format: text extract, 780 bytes
+  check: Pass 81 coverage; catalog 135; A-156 and residuals closed
 
