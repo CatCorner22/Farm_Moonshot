@@ -60,16 +60,17 @@ Prioritised queue — work top to bottom. **Do not declare research complete whi
 | B052 | open | L | Lee census / Book 23 parents (deceased-only) | **Shelby Newman** × **Grace Brandenburg** — parents of Ladona | C298 | L353 | Do not merge Shelby with P002. Living descendants of 1932 couple **withheld** |
 | B053 | open | L | Everett Newnam Idamay FAN (deceased-only) | Frank of Berea; John of Owsley; Mrs Robert Spicer | C299 | L354 | Brothers named in 1939 obit; skip any living daughters |
 | B054 | open | L | Carter Cove stone photographs | Newman, Dora; Stone, Thomas | C282 C283 | L344 | FAG memorials **97907837** / **97907931** — photo request / on-site |
-| B090 | open | H | Identify Dr. **Thos. W. Beal** of the 1926 certificate | Beal/Beale/Beall × Thomas/Thos/T.W.; 1923–27 AMD; Yell licenses; 1926 paper | C015 C371 C373 C378 | L381 L385 L388 | **1921 + 1929 AMD nil.** Not Pool, not Ballenger, not E. W. Thomas (1880s), not T. W. Hurley (d. 1917) |
-| B091 | open | M | AMD / state registers 1923–1927 (gap between S291 and S296) | Ola / Beal / Pool / Ballenger | C370 C373 | L387 | IA Solr 1922–29 returned **only** the 1929 item. Hunt 1923/1925/1927 editions |
-| B092 | open | L | W. R. Brewer after 1921 (left Ola by 1929) | Brewer B660; Tenn. 1902 class | C370 C379 | L383 | 1921 Ola MD; web nil. FAN only |
-| B093 | open | L | Thomas Jefferson Pool FAN (deceased-only) | Danville 1921 → Ola 1929; JAMA 1929 Yell health officer (prior snippet, **not re-opened**) | C372 | L381 L388 | Possible 1926 civic physician; **not** the named attending Beal |
-| B094 | open | M | Yell / Perry federal land + county deeds Newnam/Stone/Beal | USGW `yell.txt` / `perry.txt` | asset | L389 | This session **timeout**. Do not invent holdings |
+| B095 | open | H | Identify Dr. **Thos. W. Beal** of the 1926 certificate | Beal/Beale/Beall × Thomas/Thos/T.W.; 1923–27 AMD; Yell licenses; 1926 paper | C015 C371 C373 C378 | L381 L385 L388 | **1921 + 1929 AMD nil.** Not Pool, not Ballenger. **B090 on PR #35 is a different item** (1850 William × Rhoda) — do not reuse |
+| B096 | open | M | AMD / state registers 1923–1927 (gap between S291 and S296) | Ola / Beal / Pool / Ballenger | C370 C373 | L387 | IA Solr 1922–29 returned **only** the 1929 item. Hunt 1923/1925/1927 editions |
+| B097 | open | L | W. R. Brewer after 1921 (left Ola by 1929) | Brewer B660; Tenn. 1902 class | C370 C379 | L383 | 1921 Ola MD; web nil. FAN only |
+| B098 | open | L | Thomas Jefferson Pool FAN (deceased-only) | Danville 1921 → Ola 1929; JAMA 1929 Yell health officer (prior snippet, **not re-opened**) | C372 | L381 L388 | Possible 1926 civic physician; **not** the named attending Beal |
+| B099 | open | M | Yell / Perry federal land + county deeds Newnam/Stone/Beal | USGW `yell.txt` / `perry.txt` | asset | L389 | This session **timeout**. Do not invent holdings |
 
 ## Session handoff
 - **Last closed on this branch:** 31 Oct 2026 · **Stopped after:** complementary archive pass (**L380–L394**, **C370–C381**, **S291–S298**) — Word copy + FAMILY-TOC + source inventory; AMD **1921** and **1929** Ola physician lists; Encyclopedia of Arkansas Ola page; Beal **nil** in those directories.
 - **Project-wide next session starts with:** **B055** (merge or work on `cursor/dora-1900-death-reconstruction-2b6a` / [PR #34](https://github.com/CatCorner22/Farm_Moonshot/pull/34) first). **If staying on `main` without that merge: B049.**
-- Then **B049** 1926 papers; **B056** Mary 1918 DC; **B090** Beal; user **R001/R007/R008**.
+- Then **B049** 1926 papers; **B056** Mary 1918 DC; **B095** Beal; user **R001/R007/R008**.
+- Wrap-up [PR #35](https://github.com/CatCorner22/Farm_Moonshot/pull/35) closed **B051** (Luther 1945) and **B052** (Shelby × Gracie 1913) with C1500+ — do not reopen those on this branch.
 - **Do not edit** sibling `14-1900-death-reconstruction.md` or `sources/wrapup/` while those agents are live. See [`15-shared-stopping-point.md`](15-shared-stopping-point.md). |
 
 

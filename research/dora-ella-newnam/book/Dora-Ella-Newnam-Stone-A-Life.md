@@ -246,7 +246,7 @@ Charts of pedigree, descendants, and lifespan follow the plates. Dashed lines me
 
 The next session starts with **B055** after merging the 1900–death year-grid branch (PR #34). Agents remaining on `main` start **B049**. See [`../15-shared-stopping-point.md`](../15-shared-stopping-point.md).
 
-- **B090:** Dr. Thos. W. Beal is still unidentified. He is not in the 1921 or 1929 Ola medical directories. [C371] [C373]
+- **B095:** Dr. Thos. W. Beal is still unidentified. He is not in the 1921 or 1929 Ola medical directories. [C371] [C373]
 
 ---
 

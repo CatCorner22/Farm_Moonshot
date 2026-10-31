@@ -26,7 +26,7 @@ Transcripts were fetched for genealogy runs that changed files or held useful le
 |---|---|---|---|
 | bc-1167f1f5-88e9-5d35-9c89-7e5c7380cb46 | Word doc, archive, stop plan | RUNNING | this increment |
 | bc-aa43eaa5-be23-54be-a20a-7a5238fd33f8 | Dora 1900-death details | IDLE | C305–C316; next B055 |
-| bc-4d051835-9f7f-5a37-8cb9-03182abe8229 | Wrap-up review and leads | RUNNING | empty transcript at fetch; leave `sources/wrapup/` |
+| bc-4d051835-9f7f-5a37-8cb9-03182abe8229 | Wrap-up review and leads | RUNNING | [PR #35](https://github.com/CatCorner22/Farm_Moonshot/pull/35) closed B051/B052; their B090 ≠ Beal |
 
 ## Other fetched transcripts (leads only)
 

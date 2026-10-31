@@ -43,8 +43,8 @@ Wildcard strings to use: `New*m`, `Dor* New*`, `"Doll Newnam"`, `McCoy OR Coy Ne
 | Letha Viola Sullivan | Coy’s wife | Missouri origin may explain 1910 gap |
 | Rev. J. E. Dunagin; Link Mays | 1885 officiant / witness | FAN for 1880s Sturgeon |
 | Etta (Stone) Randall; Laura Bell (Stone) Butler | Probable stepdaughters | Tom A. Stone identity |
-| Dr. Thos. W. Beal | 1926 attending (C015) | Not in 1921/1929 AMD at Ola (C371 C373). Identity still open (B090) |
-| Thos. J. Pool, M.D. | Danville 1921 / Ola 1929 | Not Beal; Yell health-officer lead (B093) |
+| Dr. Thos. W. Beal | 1926 attending (C015) | Not in 1921/1929 AMD at Ola (C371 C373). Identity still open (B095) |
+| Thos. J. Pool, M.D. | Danville 1921 / Ola 1929 | Not Beal; Yell health-officer lead (B098) |
 | W. R. Brewer; Geo. C. Davis; Wm. Harkey; Wm. E. Ballenger; Elbert C. Hunt; J. M. Miller | 1921/1929 Ola licensees | Medical FAN around the death year |
 
 ## Ordered searches (from source-matrix.md)
