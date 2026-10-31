@@ -2407,3 +2407,20 @@ research/dora-ella-newnam/sources/census/1880-lee-ky-ed59-sheet43-p768-caroline-
   sha256: b041e379af4bbba10d02dc15b66fcf7c1d82a8452dc145af2cbbebe6ba0e5c80
   format: text extract, 2,847 bytes
   check: Josephine remaining Pendleton/Boyle n/a other; T288 unseen
+
+/workspace/research/dora-ella-newnam/sources/indexes/pass90-coverage.txt
+  sha256: bce815ed9553b3296a7f5ecdba74fb671b76bb2139e758660af21bc4383278b9
+  format: text extract, 1,619 bytes
+  check: Pass 90 coverage; catalog 152; KYDI 1921-1930 Barrett John nil neighboring counties; Lee 1925 unmerged
+/workspace/research/dora-ella-newnam/sources/indexes/kydi-1921-1930-barrett-john-pass90.txt
+  sha256: c728e12b8bdf84045fd1e9a9c8c79430bc2b2a1d4c1c924214a4860739c589b1
+  format: text extract, 3,274 bytes
+  check: KYDI 1921-1930 nil Barrett John ~80 LEE/OWSLY/CLAY/JCKSN/ESTIL/BRTHT except Lee 1925 John 70
+/workspace/research/dora-ella-newnam/sources/indexes/lee-owsley-barrett-pass90.txt
+  sha256: 2a58b27cda3846a289334c34683b1464719179ceb876805409629176141a87b9
+  format: text extract, 2,924 bytes
+  check: Lee 1925 John Barrett 70 Beattyville not merged; Owsley 1921 Susan 65 DISPROVED
+/workspace/research/dora-ella-newnam/sources/indexes/josephine-gilbert-pass90.txt
+  sha256: 4818cd5a9348035f16b7ff441a768dfd1582a629df2aa973205e9097a997427a
+  format: text extract, 1,633 bytes
+  check: Josephine remaining Bath/Fleming/Carroll n/a 404; T288 unseen

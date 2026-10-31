@@ -1,0 +1,29 @@
+Pass 90 coverage — 31 Oct 2026 America/New_York
+This run bc-01a18bb4-e162-785c-9724-86a7c5663bf1
+Catalog 152 / hasMore false / totalMatched 152. Unchanged vs Pass 89.
+NEW vs 152 = 0 (no IDs imported).
+Status-only: IL Edward Francis George now IDLE; IL Michael now IDLE.
+IL Patrick still RUNNING.
+KY/TN/AR S-415 still IDLE. Dora 1840 Clark B059 still RUNNING.
+Read IN Charles/Daniel/Joseph/Peter/Robert still IDLE.
+Dora's biography research PR #33 WAITING_FOR_BACKGROUND_WORK
+(sibling C281 not imported). Nested reviewer not respawned.
+Message queue empty.
+
+Work this pass:
+- KYDI 1921–1930 statewide: nil Barrett/Barett/Barret John ~75–85 in
+  LEE/OWSLY/CLAY/JCKSN/ESTIL/BRTHT except Lee 1925 JOHN 70 vol 025 #12470
+  (already unmerged as C954; HTML-seen this pass). Other statewide Johns
+  Beard/Baird/Jefferson/Pike/Perry DISPROVED.
+- Lee 1925 HTML: John Barrett ca 70 yrs, KY, 12 Apr 1925 Beattyville,
+  buried Lee Co, spouse/father/mother blank. Not merged (70 vs ~80;
+  Beattyville Lee ≠ Buffalo Owsley).
+- Owsley 1921dc.html: BARRETT, Susan 65, b. 10 Mar 1856, father Lacy ABNER
+  × Sintha COMBS. DISPROVED as 1920 Susan 68 / 1910 Susan 62.
+- Owsley 1921–1930 DC HTML nil Barrett, John. Clay 1921–1930 HTML 404.
+- Josephine remaining: Bath/Fleming/Spencer/Grayson/Hart/Barren/etc.
+  /marriages.htm 404 or landing-only; Carroll/Gallatin/Allen/Trimble n/a ~1902.
+- T288: IA numFound 0 (t288* still audio garbage).
+- Do not hunt D-540. Do not close B063. Do not promote C509. Do not import C281.
+- No new gallery plates. Gallery stays 326.
+- Next unused after this pass C969+ / L845+ / S686+ / DOC191+.

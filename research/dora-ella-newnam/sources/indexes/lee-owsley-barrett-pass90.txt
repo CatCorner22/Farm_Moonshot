@@ -1,0 +1,45 @@
+Pass 90 — Lee 1921–1930 and Owsley 1921–1930 Barrett death extracts
+Opened 31 Oct 2026 America/New_York. HTML-seen. Original DC faces unread.
+
+LEE — Debi Houser Kendrick, USGenNet lee/deaths/1921.html–1930.html
+  Header: Name / Age / Birthdate / Deathdate / Buried / Spouse / Father / Mother
+  1921 nil Barrett decedent.
+  1922 Nannie Rose Sparks infant; mother Pearly Barrett — not John.
+  1923 Walter Barrett, (age blank), 9 Sep 1923 Beattyville, single,
+        father William Barrett, mother Mary Jane Roberts.
+        Same parental couple as Lee 1913 John 28 (C950). Not 1910 John 65.
+  1924 Albert Barrett, 22 yrs 12 ds, b. 5 May 1902 Lee, d. 17 May 1924 Beattyville,
+        Barrett cemetery, single, father John Bell Barrett, mother Fannie Bowman.
+        John Bell ≠ 1910 Buffalo John × Susan (wife Fannie Bowman ≠ Susan;
+        son Albert 22 ≠ Lee 39 / James 23). Not merged.
+  1925 John Barrett, ca 70 yrs, KY, 12 Apr 1925 Beattyville, buried Lee Co,
+        spouse (blank), father (blank), mother (blank).
+        Matches KYDI vol 025 #12470. Age 70 vs ~80 (1910 John 65);
+        Beattyville Lee ≠ Buffalo Owsley. Parents blank. NOT MERGED.
+  1926 Geneva Gilbert infant; mother Flora Barrett — not John.
+  1927 George Holland Jr infant; mother Nancy Barrett — not John.
+  1928 Infant Male Barrett stillborn; father Jos Barrett × Agnes Charles.
+  1929 Nellie Frances Toler infant; mother Rosa Barrett — not John.
+  1930 Genes Ray Barrett infant; father Floyd Barrett × Lourane Caudill.
+
+OWSLEY — Kendrick deaths/1921dc.html–1930dc.html (HTML-seen)
+  1921 BARRETT, Susan 65 yrs, b. 10 Mar 1856 Owsley, d. 4 Feb, father Lacy ABNER,
+        mother Sintha COMBS. Matches KYDI vol 009 #04172.
+        DISPROVED as 1920 original Susan mother 68 Wd / 1910 Susan 62:
+        age 65 vs ~69 (would require age going backwards from the 14 Jan 1920
+        original); birth 10 Mar 1856 vs census ~1848/~1852; parents Abner × Combs
+        are identifiers of this decedent, not of the 1910 Buffalo wife.
+  1921 BEARD, Nellie Mae stillbirth — Beard; infant.
+  1922 BEARD, Susan 70 yrs 1 mo 7 ds, b. 15 Feb 1852 KY, d. 22 Mar, Beard Gyard,
+        father Amon BROCK, mother Hailey PATRICK. Beard ≠ Barrett. DISPROVED.
+  1923 BARRETT, Elza infant; father Alex BARRETT × Edna BAILEY. Not John.
+  1924 BEARD, Robert 19 — Beard. Not John.
+  1925 Ida BARRETT / Thomas BARRETT as parent cells of Gabbard rows. Not John.
+  1926 BARRETT, Thelma Francis infant; father Robert BARRETT × Lou ABSHEAR.
+  1927–1930 nil Barrett, John decedent. 1930 BEARD, America 80 widow of Robert BEARD.
+  Entire Owsley 1921–1930 DC HTML: nil Barrett, John as decedent.
+
+CLAY kygenweb deaths/1921.html–1930.html all 404. Substitute is KYDI (nil Barrett John Clay).
+
+Do not treat extract-nil as proof of death. Original 1916 vol 044 #21663 unseen.
+Do not hunt D-540. Do not close B063. Do not promote C509.

@@ -1,0 +1,29 @@
+Pass 90 — Josephine Newnam × Gilbert ~1902 remaining substitutes + T288
+Opened 31 Oct 2026 America/New_York. License unseen. Original 1916 DC face unseen.
+T288 unseen.
+
+KYGenWeb /marriages.htm remaining closer/outer ring:
+  Bath / Fleming / Spencer / Grayson / Hart / Barren / Metcalfe / Cumberland /
+  Clinton / Monroe / Simpson / Warren / Logan / Todd 404
+  Bath and Fleming county landings 200; no ~1902 Josephine register opened.
+  Trimble redirected to ole.net/~maggie/trimble landing — n/a as a ~1902 index.
+  Oldham redirected to genheritage.com/oldham — n/a as a ~1902 index.
+  Meade redirected to genheritage.com/meade — n/a as a ~1902 index.
+  Hardin redirected to ctssites.com/kyhardin — n/a as a ~1902 index.
+  Bullitt redirected to bullitt-genweb.org landing — n/a as a ~1902 index.
+  Carroll marriages.htm 200 landing (no Josephine/Josie/Gilbert/Newnam hits).
+  Gallatin marriages.htm 200: early 1820s Mitchell/Simpson contributed notes;
+    n/a ~1902.
+  Allen marriages.htm 200: 1870 census abstracts and 1930s marriages;
+    bride/groom index URLs 404. n/a ~1902.
+
+IA advancedsearch 31 Oct 2026:
+  title T288 OR "General Index to Pension Files" Newman — numFound 0
+  identifier t288* OR generalindextopen* — numFound 1 =
+    t288hwu6jq24nnnrailpdmfxinwk0ffsdc7lul6x (audio "The Purge"; NOT NARA T288)
+  title M123 OR 1890 veterans Kentucky — numFound 0
+  title death certificate 1916 Owsley — numFound 0
+  title estill burns marriage 1840 — numFound 0
+Do not invent T288 / Burns / 1916 DC contents.
+
+Do not promote C509. Do not hunt D-540. License unseen. Original 1916 DC unseen. T288 unseen.

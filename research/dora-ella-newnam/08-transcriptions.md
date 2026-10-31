@@ -4550,3 +4550,71 @@ Pass 2: License still unseen. Do **not** invent T288 contents. Do **not** promot
 - Josephine remaining nil/other/n/a → C955
 - T288 still unseen → C956
 - B061 remaining gap → C958
+
+## DOC188 — KYDI 1921–1930 Barrett John statewide (Pass 90)
+
+- Extract: `kydi-1921-1930-barrett-john-pass90.txt` SHA-256 `c728e12b8bdf84045fd1e9a9c8c79430bc2b2a1d4c1c924214a4860739c589b1`
+- Coverage: `pass90-coverage.txt` `bce815ed9553b3296a7f5ecdba74fb671b76bb2139e758660af21bc4383278b9`
+- Provenance: Reclaim the Records, *Kentucky Death Index 1911–1989*, IA item `reclaim-the-records-kentucky-death-index-01911-1989`. Year files **1921–1930** opened 31 Oct 2026. **Index only.** Does **not** name parents. Full year files **not committed**. Stale `/tmp/dora-pass64/kydi-1921.txt` was an HTML error page and was **not** reused.
+
+### Diplomatic — cited index rows
+
+> **Nil** Barrett/Barett/Barret, John ~75–85 decedent in **LEE / OWSLY / CLAY / JCKSN / ESTIL / BRTHT** 1921–1930 except Lee **1925** BARRETT JOHN **70** 04/12/1925 vol **025** #**12470**.
+
+> Other statewide Johns **DISPROVED**: **1921** BEARD JOHN R **64** Adair; **1922** BAIRD JOHN C **84** Barren / JOHN A **60** Jefferson; **1923** BARRETT JOHN G **57** Pike; **1925** BAIRD JOHN S **69** Campbell; **1926** BARRETT JOHN **43** Perry / BEARD JOHN W **53** Henderson; **1927** BEARD JOHN A **61** Fulton; **1928** BAIRD JOHN W **91** Simpson / BARRET JOHN J **74** Jefferson / BARRETT JOHN R **63** Jefferson; **1930** BEARD JOHN R **57** Jefferson. **1924** and **1929** **nil** statewide Barrett/Beard/Baird John.
+
+> Neighbor-county Barrett-ish not John ~80: 1921 BARRETT SUSAN **65** Owsley (**DISPROVED** as 1920 Susan 68); 1922 BEARD SUSAN **70** Owsley (Beard ≠ Barrett).
+
+Pass 2: Index-nil is **not** proof of death. Unregistered / out of KY / delayed filing remain open. Do **not** treat KYDI as a civil death row for 1910 Barrett John 65. Do not close B063.
+
+### Facts extracted → claim IDs
+- KYDI 1921–1930 nil Barrett John ~80 neighboring counties except Lee 1925 John 70 → C960
+- other statewide Johns DISPROVED → C962
+- 1921 Owsley Susan 65 index row (see DOC189 for HTML DISPROOF) → C963
+
+## DOC189 — Lee / Owsley Barrett DC extracts 1921–1930 (Pass 90)
+
+- Extract: `lee-owsley-barrett-pass90.txt` SHA-256 `2a58b27cda3846a289334c34683b1464719179ceb876805409629176141a87b9`
+- Provenance: Lee USGenNet `1921.html`–`1930.html`; Owsley Kendrick `1921dc.html`–`1930dc.html`. **HTML-seen** 31 Oct 2026. Original DC faces unread. Clay 1921–1930 HTML **404**.
+
+### Diplomatic — cited extracts
+
+> Lee **1925**: **John Barrett**, ca **70** yrs, KY, 12 Apr 1925 Beattyville, buried Lee Co, spouse/father/mother **blank**. Matches KYDI vol **025** #**12470**. Age 70 vs ~80; Beattyville Lee ≠ Buffalo Owsley. **Not merged**.
+
+> Lee **1923**: Walter Barrett, Beattyville, father **William Barrett**, mother **Mary Jane Roberts** — same parental couple as Lee 1913 John 28 (**C950**). Not 1910 John.
+
+> Lee **1924**: Albert Barrett 22, father **John Bell Barrett**, mother **Fannie Bowman**. John Bell ≠ 1910 Buffalo John × Susan. **Not merged**.
+
+> Owsley **1921**: **BARRETT, Susan** **65** yrs, b. **10 Mar 1856** Owsley, d. 4 Feb, father **Lacy ABNER**, mother **Sintha COMBS**. Matches KYDI vol **009** #**04172**. **DISPROVED** as 1920 original Susan mother **68 Wd** / 1910 Susan **62**.
+
+> Owsley **1922**: BEARD, Susan **70**, father Amon BROCK × Hailey PATRICK. Beard ≠ Barrett. **DISPROVED**.
+
+> Entire Owsley 1921–1930 DC HTML: **nil** Barrett, John as decedent.
+
+Pass 2: HTML extracts, not original faces. Do not treat extract-nil as proved death. Do not merge the 1925 Lee John 70.
+
+### Facts extracted → claim IDs
+- Lee 1925 John 70 Beattyville parents blank not merged → C961
+- Owsley 1921 Susan 65 Abner×Combs DISPROVED as 1920 Susan 68 → C963
+- Owsley 1921–1930 nil Barrett John; 1922 Beard Susan DISPROVED → C964
+
+## DOC190 — Josephine remaining + T288 (Pass 90)
+
+- Extract: `josephine-gilbert-pass90.txt` SHA-256 `4818cd5a9348035f16b7ff441a768dfd1582a629df2aa973205e9097a997427a`
+- Coverage: `pass90-coverage.txt` `bce815ed9553b3296a7f5ecdba74fb671b76bb2139e758660af21bc4383278b9`
+- Provenance: KYGenWeb HTML (Bath/Fleming/Spencer/etc 404; Trimble/Oldham/Meade/Hardin/Bullitt redirects; Carroll/Gallatin/Allen landings), IA advancedsearch. Opened 31 Oct 2026. **HTML-seen / access-fail**, not a ~1902 civil register. License unseen. Original 1916 DC face unseen. T288 unseen.
+
+### Diplomatic — cited extracts
+
+> Bath / Fleming / Spencer / Grayson / Hart / Barren / Metcalfe / Cumberland / Clinton / Monroe / Simpson / Warren / Logan / Todd `/marriages.htm` **404**. Trimble/Oldham/Meade/Hardin/Bullitt redirected landings **n/a** as ~1902 indexes.
+
+> Carroll marriages.htm 200 landing (no Josephine/Josie/Gilbert/Newnam hits). Gallatin 1820s notes **n/a** ~1902. Allen 1930s / bride-groom **404** **n/a** ~1902.
+
+> IA T288 title **numFound 0**. Identifier `t288*` is audio **The Purge**, **not** NARA T288.
+
+Pass 2: License still unseen. Do **not** invent T288 contents. Do **not** promote C509. Do not close B063.
+
+### Facts extracted → claim IDs
+- Josephine remaining nil/n/a/404 → C965
+- T288 still unseen → C966
+- B061 remaining gap → C968
