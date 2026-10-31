@@ -1,0 +1,29 @@
+Pass 85 — Josephine Newnam × Gilbert ~1902 remaining-county substitutes
+HTML-seen / JPEG-seen 31 Oct 2026 America/New_York.
+UA Mozilla/5.0 (compatible; genealogy-research/pass85).
+License unseen. Do not treat extract-nil as a marriage.
+
+County /marriages.htm 404 (indexes 200): Menifee, Montgomery, Lawrence, Boyd,
+Bath, Fleming, Nicholas, McCreary.
+
+Follow-ups:
+Montgomery marriage_records.html 200: courthouse fires 1851/1863; reconstructed
+  Ellsberry 1817–50 authored; FS batches 1852–61 / 1875 / 1876–78 / 1894 only.
+  n/a ~1902.
+Bath archives pointer only (usgwarchives marriage.htm). No 1902 table opened.
+Boyd Vitals/vitals.htm 200: Marriages 1875 / Negro 1895 / 1907. n/a ~1902.
+McCreary marriages/marriages.htm 200: Anderson / Alsip-Carter family pages only.
+  County formed 1912. n/a ~1902.
+Menifee marriage.html / vitals/marriages.html 404.
+Fleming marriage_records.html 404.
+Lawrence usgwarchives timeout (empty fetch).
+Nicholas marriages/marriage.html 200; landing points at
+  /nicholas/images/marr18521914.jpg (1,836,689 bytes, fetched).
+  JPEG image-seen: clerk copy of 1852 marriages, certified 14 June 1853
+  (“A True Copy from the Register … June 14th 1853”). Filename 1852–1914 is
+  the landing title; this plate is 1852–early 1853 only. n/a ~1902.
+  Visible grooms begin Sept 1852 (James Worthington × Eliza Edwards, &c.).
+  String-nil Josephine / Gilbert / Newman / Newnam on this 1852–53 plate.
+
+String-nil Josephine/Gilbert/Newman/Newnam on opened HTML (except the
+Nicholas JPEG, which is n/a ~1902 as dated). License unseen.

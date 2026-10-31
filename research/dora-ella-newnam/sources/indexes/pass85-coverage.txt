@@ -1,0 +1,24 @@
+Pass 85 coverage 31 Oct 2026 America/New_York
+Catalog 145 / hasMore false / totalMatched 145. Was 141.
+NEW vs 141 (4; no IDs imported):
+Dora 1840 N-walks RUNNING https://cursor.com/agents/bc-e8865439-338b-57c8-a126-e5feb69d5dee
+Read IN Charles/Daniel/Joseph/Peter/Robert RUNNING https://cursor.com/agents/bc-3c2f58a4-c84c-5b49-844b-792a9f107ab8
+Read MO Charles/Daniel sheets IDLE https://cursor.com/agents/bc-ec1a3f8e-c15d-549c-8a80-2952ddd69580
+Read MO Joseph/Peter sheets IDLE https://cursor.com/agents/bc-63488092-476f-5476-83af-3c842fcf10bf
+Status-only: Dora B071 1850 Tincher now IDLE (was RUNNING in Pass 84).
+Nested reviewer not respawned. Message queue empty.
+This run bc-01a18bb4-e162-785c-9724-86a7c5663bf1.
+Sibling PR #33 C281 not imported.
+B-630 Barrett Ben every-leaf 2326-2424 image-closed.
+Nil Barrett Ben ~42 Owsley vol 76 ED 92 as a head.
+2397 Barrett Ben 60 Livingston DISPROVED; 2398 continuation GS.
+2392 Barrett Ben 18 Franklin DISPROVED.
+2413 Barett Bent 24 Owsley ED 88 = original FM 195/198 Bent 24 × Mary.
+Hard Rule 6. DISPROVED as 1910 Ben 32.
+2345 Barrett Arch 46 Lee DISPROVED as Ben.
+Other Ben-slot Beard/Board/Bird/Byrd DISPROVED.
+Josephine remaining-county nil/n/a; Nicholas JPEG is 1852-53 clerk copy, n/a ~1902.
+IA T288/M123/KYDC 1916 numFound 0; Rogers djvu 401/403.
+Do not hunt D-540. Do not promote C509. Do not close B063.
+Original 1932 DC, 1916 DC face, 1840 bond, M123-3, T288 still unseen.
+Next unused after this filing: C923+ / L803+ / S660+ / DOC177+.

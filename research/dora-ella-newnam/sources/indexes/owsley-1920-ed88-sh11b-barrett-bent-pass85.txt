@@ -1,0 +1,32 @@
+Pass 85 — 1920 original Owsley ED 88 sh 11 B FM 195/198 Barrett/Barett, Bent
+NARA T625 reel 594; IA 14thcensusofpopu594unit _1058.jp2 (11 A) / _1059.jp2 (11 B).
+Original image seen 31 Oct 2026 America/New_York. Hard Rule 6 of Soundex B-630 2413.
+
+Header 11 A (leaf 1058): STATE Kentucky COUNTY Owsley. Booneville No 1.
+Supervisor's District 10. Enumeration District 88. Sheet No. 11 A.
+Enumerated 19 January 1920. Enumerator [W. H. Lutes?].
+
+Header 11 B (leaf 1059): STATE Kentucky COUNTY Owsley. Booneville No 1.
+Supervisor's District 10. Enumeration District 88. Sheet No. 11 B.
+Enumerated 20 January 1920.
+
+Stamped 11 A = A-form lines 1–50. Stamped 11 B = B-form lines 51–100.
+Soundex “sheet 11 line 76” is stamped 11 B ln 76 (normal pairing, not ED 92 inverted).
+
+Diplomatic (ln 72–81, name column + relationship + age):
+72 FM 194/197 Tiney, Charles Head 1R M W 19 M
+73 Willis Son
+74 Gibson, Easter Boarder F W 57 W
+75 Tiney, Cassie Wife F W 18 M
+76 FM 195/198 Barett, Bent Head 1R M W 24 M  [Soundex Barett; original Barett]
+77 Mary Wife F W 24 M
+78 Maybe Daughter F W 3 S
+79 Stanley Son M W 1 S
+80 FM 196/199 Stamper, Edgar Head 1R M W 32 M
+81 Fannie Wife
+
+Identifiers that fail Hard Rule 3 vs 1910 Buffalo Barrett, Ben 32 × Anna:
+  age 24 vs ~42; ED 88 Booneville ≠ ED 92 Buffalo; wife Mary ≠ Anna;
+  children Maybe 3 / Stanley 1 vs the 1910 Buffalo children.
+Not merged with 1920 ED 92 dw 115 Barrett, Bruce 42 × Anna (C819 POSSIBLE).
+DISPROVED as 1910 Ben 32 / 1920 Bruce 42.

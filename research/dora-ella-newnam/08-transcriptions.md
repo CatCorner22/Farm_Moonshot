@@ -4202,6 +4202,79 @@ Pass 2: License still unseen. Do **not** treat extract-nil as a marriage. Do **n
 - Obits Luther-only; IA / Rogers negatives → C910
 - B-630 Barrett Ben sampled-nil → C908
 
+## DOC174 — 1920 Soundex B-630 Barrett Ben every-leaf 2326–2424 (Pass 85)
+
+- Extract: `ky1920-b630-barrett-ben-pass85.txt` SHA-256 `5190c8946f15864ac91afae5d79f44f9e688a665dc68d21f5c0dccdf7a8c3e05`
+- Coverage: `pass85-coverage.txt` `62668bdae8d7a94e379356910ce41d47edc7f82885636c2d23a65167526eaf22`
+- Provenance: IA `soundex1920ky018` zip-member JP2, native ~2015-wide. **Image-seen** 31 Oct 2026. 99 leaves, 0 fails. Tesseract on 42% bands was garbage; two-pass visual Read of keepers.
+
+### Diplomatic — cited cards
+
+> **2345** B-630 **Barrett, Arch** Head W **46** Kentucky **Lee** vol **59** ED **113** sheet **5** line **82**. **DISPROVED** as 1910 Ben 32 (given Arch; Lee ≠ Owsley).
+
+> **2392** B-630 **Barrett, Ben** Head W **18** Not Reported **Franklin** vol **22** ED **28** sheet **15** line **4**. **DISPROVED** as 1910 Ben 32.
+
+> **2397** B-630 **Barrett, Ben** Head W **60** United States **Livingston** vol **63** ED **117** sheet **3** line **78**. The Barrett Ben head in the Ben slot. **DISPROVED** as 1910 Ben 32.
+
+> **2398** continuation of **2397**: **[Bayne?], Ben E.** GS **7** Kentucky; **[Alayolue?]** SN **5** Kentucky. Grandchildren, not a second Barrett Ben head.
+
+> **2413** B-630 **Barett, Bent** Head W **24** Kentucky **Owsley** vol **76** ED **88** sheet **11** line **76**. Derivative of original FM **195/198** (DOC175).
+
+Pass 2: Ben given-name slot **image-closed**. **Nil** Barrett, Ben ~42 Owsley vol **76** ED **92** as a head. Original Bruce 42 × Anna remains **POSSIBLE** C819.
+
+### Facts extracted → claim IDs
+- Ben slot closed; nil Ben ~42 Owsley ED 92 → C914
+- 2397 Barrett Ben 60 Livingston DISPROVED → C915
+- 2392 Barrett Ben 18 Franklin DISPROVED → C916
+- 2345 Arch 46 Lee DISPROVED as Ben → C918
+- Beard/Board/Bird/Byrd Bens DISPROVED → C919
+
+## DOC175 — 1920 original ED 88 sh 11 B FM 195 Barett Bent × Mary (Pass 85)
+
+- Extract: `owsley-1920-ed88-sh11b-barrett-bent-pass85.txt` SHA-256 `71a0c3e2c3b351f3de4e692e3c9ba9a71cc5c07285cdf2c02eb20a2f93641d45`
+- Provenance: IA T625-**594** leaves **1058–1059**. **Original image seen** 31 Oct 2026. Hard Rule 6 of Soundex **2413**.
+
+### Diplomatic — cited lines
+
+> Header 11 A: STATE Kentucky COUNTY Owsley. **Booneville No 1**. SD **10**. ED **88**. Sheet **11 A**. Enumerated **19 January 1920**.
+
+> Header 11 B: **Booneville No 1**. SD **10**. ED **88**. Sheet **11 B**. Enumerated **20 January 1920**. Stamped 11 B = B-form lines 51–100. Soundex “sheet 11 line 76” is stamped **11 B** ln **76**.
+
+> Ln **76** FM **195/198 Barett, Bent** Head 1R M W **24** M.
+
+> Ln **77** **Mary** Wife F W **24** M.
+
+> Ln **78** **Maybe** Daughter F W **3** S.
+
+> Ln **79** **Stanley** Son M W **1** S.
+
+Pass 2: Original Bent stands. **DISPROVED** as 1910 Ben 32 × Anna and as 1920 Bruce 42 × Anna. Completes ED 88 original already **nil** Newman head.
+
+### Facts extracted → claim IDs
+- Original Bent 24 Booneville DISPROVED as 1910 Ben / 1920 Bruce → C917
+
+## DOC176 — Josephine×Gilbert ~1902 remaining substitutes + IA / Rogers (Pass 85)
+
+- Extract: `josephine-gilbert-pass85.txt` SHA-256 `0f7ee1b8fc157b53f2f878be8900271bd537a454327e4c839bfde7bb1969b4c0`
+- Coverage: `pass85-coverage.txt` `62668bdae8d7a94e379356910ce41d47edc7f82885636c2d23a65167526eaf22`
+- Provenance: KYGenWeb HTML and Nicholas JPEG opened 31 Oct 2026. **HTML-seen / JPEG-seen**, not a ~1902 civil register.
+
+### Diplomatic — cited extracts
+
+> Montgomery `marriage_records.html` **200**: reconstructed Ellsberry **1817–50**; FS batches **1852–61 / 1875 / 1876–78 / 1894** only. **n/a ~1902**.
+
+> Boyd `Vitals/vitals.htm` **200**: Marriages **1875 / Negro 1895 / 1907**. **n/a ~1902**. McCreary formed **1912**. Menifee/Fleming follow-up HTML **404**. Lawrence usgwarchives timeout.
+
+> Nicholas `/nicholas/images/marr18521914.jpg` (1,836,689 bytes) **image-seen**: clerk copy of **1852** marriages, certified **14 June 1853**. Filename is the landing title; this plate is **1852–early 1853** only. **n/a ~1902**. String-**nil** Josephine/Gilbert/Newman/Newnam on the plate.
+
+> IA T288 / M123 / KY DC 1916 **numFound 0**. Rogers `_djvu.txt` **401**; item-server **403/401**; `/stream/` HTML wrapper Newman/Tincher/1840 count **0**.
+
+Pass 2: License still unseen. Do **not** treat extract-nil as a marriage. Do **not** promote C509. Barrett Ben every-leaf closed (C914).
+
+### Facts extracted → claim IDs
+- Josephine remaining nil/n/a; Nicholas JPEG n/a ~1902 → C920
+- IA / Rogers negatives → C921
+
 
 
 

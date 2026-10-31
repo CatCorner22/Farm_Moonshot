@@ -2162,3 +2162,52 @@ research/dora-ella-newnam/sources/census/1880-lee-ky-ed59-sheet43-p768-caroline-
   sha256: 3dfe6b342541212febe9f96a886445ae01552077a2a030d283b8d240417e9431
   format: text extract, 1,076 bytes
   check: Pass 84 coverage; catalog 141; Dean Martha Hard Rule 6
+
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-b630-p2345-barrett-arch-46-lee.jpg
+  sha256: b17b8984c38a208411eb38d0d72b612ca4594c3fbefefe67d177b79efbda48e4
+  format: JPEG photo, 129,227 bytes
+  check: 1920 Soundex B-630 Barrett Arch 46 Lee DISPROVED as Ben
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-b630-p2392-barrett-ben-18-franklin.jpg
+  sha256: fe4f4536429d68e47a051fd4c2790c05f3d5eda2c9e8384034f2bf41be25c3f6
+  format: JPEG photo, 154,963 bytes
+  check: 1920 Soundex B-630 Barrett Ben 18 Franklin DISPROVED
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-b630-p2397-barrett-ben-60-livingston.jpg
+  sha256: d33596cf63d81d538e88fb7b8bba0ef895d2951c136a905308d28a35f42a63c9
+  format: JPEG photo, 163,033 bytes
+  check: 1920 Soundex B-630 Barrett Ben 60 Livingston DISPROVED
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-b630-p2398-barrett-ben-cont-gs.jpg
+  sha256: 9d4d909fc0e00b0c1ff039963ab085d06ac28a4db5624ed7f71ca75899999ef5
+  format: JPEG photo, 190,234 bytes
+  check: 1920 Soundex B-630 2398 continuation GS of Ben 60
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-b630-p2413-barrett-bent-24-owsley-ed88.jpg
+  sha256: eca301d2ea2760d8bf38cdf7473b2289e5dee3dbbd24b17c69c8698d15e83414
+  format: JPEG photo, 193,833 bytes
+  check: 1920 Soundex B-630 Barett Bent 24 Owsley ED 88 derivative
+/workspace/research/dora-ella-newnam/sources/census/1920-owsley-ed88-sh11a-hdr.jpg
+  sha256: 6500d1e21ad23692831417fb527691bdd4bec62e0b5a75ab12a9edb3ff1a9781
+  format: JPEG photo, 141,272 bytes
+  check: 1920 original ED 88 sh 11 A Booneville header
+/workspace/research/dora-ella-newnam/sources/census/1920-owsley-ed88-sh11b-hdr.jpg
+  sha256: a3482fa9afdfdc15c2ebdfd702d2db940dcbb647690ebe290215ed54e1093590
+  format: JPEG photo, 142,765 bytes
+  check: 1920 original ED 88 sh 11 B Booneville header
+/workspace/research/dora-ella-newnam/sources/census/1920-owsley-ed88-sh11b-hh195-barrett-bent.jpg
+  sha256: e5727d649c2471d54fc7da53f4504547e48a6f276a3e6a36fb6813b7c26697bd
+  format: JPEG photo, 175,489 bytes
+  check: 1920 original ED 88 sh 11 B FM 195 Barett Bent x Mary
+/workspace/research/dora-ella-newnam/sources/indexes/ky1920-b630-barrett-ben-pass85.txt
+  sha256: 5190c8946f15864ac91afae5d79f44f9e688a665dc68d21f5c0dccdf7a8c3e05
+  format: text extract, 2,985 bytes
+  check: 1920 B-630 Barrett Ben every-leaf 2326-2424 closed
+/workspace/research/dora-ella-newnam/sources/indexes/owsley-1920-ed88-sh11b-barrett-bent-pass85.txt
+  sha256: 71a0c3e2c3b351f3de4e692e3c9ba9a71cc5c07285cdf2c02eb20a2f93641d45
+  format: text extract, 1,503 bytes
+  check: 1920 original ED 88 sh 11 B FM 195 Barett Bent Hard Rule 6
+/workspace/research/dora-ella-newnam/sources/indexes/josephine-gilbert-pass85.txt
+  sha256: 0f7ee1b8fc157b53f2f878be8900271bd537a454327e4c839bfde7bb1969b4c0
+  format: text extract, 1,572 bytes
+  check: Josephine x Gilbert ~1902 remaining-county nil/n/a; Nicholas 1852-53 JPEG
+/workspace/research/dora-ella-newnam/sources/indexes/pass85-coverage.txt
+  sha256: 62668bdae8d7a94e379356910ce41d47edc7f82885636c2d23a65167526eaf22
+  format: text extract, 1,495 bytes
+  check: Pass 85 coverage; catalog 145; Barrett Ben every-leaf closed

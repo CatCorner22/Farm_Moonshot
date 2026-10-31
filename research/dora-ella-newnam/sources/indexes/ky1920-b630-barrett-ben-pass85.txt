@@ -1,0 +1,55 @@
+Pass 85 — 1920 Kentucky Soundex B-630 Barrett Ben every-leaf 2326–2424
+NARA M1563 reel ky018 (B-625 Obe–B-631 Wylie)
+IA soundex1920ky018 zip-member JP2. Image-seen 31 Oct 2026 America/New_York.
+Native ~2015-wide. Given-name sort. 99 leaves, 0 fetch fails.
+Pass 84 sampled this window; this pass is every-leaf.
+
+A given-names (through Belle, immediately before Ben):
+2326 Board, Anna 54 Breckinridge (A).
+2345 Barrett, Arch W 46 Kentucky Lee vol 59 ED 113 sh 5 ln 82.
+  DISPROVED as 1910 Buffalo Ben 32 (given Arch; 46 vs ~42; Lee ≠ Owsley). Lee FAN only.
+2365 Byrd, Arthur ~20 Whitley vol 92 ED 292 (A).
+2385 Barrett, Bedford W 46 Daviess vol 21 ED 55 (B given-names start).
+2390 dark/illegible (sampled).
+2391 Board, Belle 70 Trimble PA (Belle immediately before Ben).
+
+Ben given-name slot (Barrett Ben heads + Soundex B-630 Ben collisions):
+2392 Barrett, Ben W 18 Not Reported Franklin vol 22 ED 28 sh 15 ln 4.
+  DISPROVED as 1910 Ben 32 (18 vs ~42; Franklin ≠ Owsley; vol 22 ≠ 76).
+2393 Byrd, Ben 46 Indiana Henderson DISPROVED.
+2394 Byrd, Ben continuation Stanley S 10.
+2395 Baird, Ben 21 Grant vol 29.
+2396 Beard, Ben B 18 Simpson vol 85 ED 108 DISPROVED.
+2397 Barrett, Ben W 60 United States Livingston vol 63 ED 117 sh 3 ln 78.
+  The Barrett Ben head in the Ben slot.
+  DISPROVED as 1910 Buffalo Ben 32 (60 vs ~42; Livingston ≠ Owsley; vol 63 ≠ 76).
+2398 continuation GS [Bayne?], Ben E. 7 Kentucky; [Alayolue?] SN 5 Kentucky.
+  Grandchildren of 2397, not a second Barrett Ben head.
+2399 Beard, Ben B 36 Henderson vol 37 ED 82.
+2400 Bird, Ben T 37 Washington vol 20 ED 153.
+2401 Byrd, Ben F 68 Barren vol 3 ED 33.
+2402 Bird, Ben F Jr Jefferson; 2403 Bird, Ben F Sr PA Jefferson.
+2404 Byrd, Ben M 39 Pendleton Cynthiana.
+2405 Board, Ben M 72 Caldwell vol 12 ED 21 sh 1 ln 60 DISPROVED.
+2406 Byrd, Ben T 34 Graves.
+2407 Beard, Ben H 38 Christian vol 12 ED 60.
+
+Benjamin cluster starts:
+2408 Board, Benjamin E 11 Caldwell.
+2409 Beard, Benjamin 51 Jefferson; 2410 continuation Isabel D 5.
+2411 Brady, Benjamin F 34 Marion; 2412 Brady, Benjamin F 12 Marion.
+
+Bent slot:
+2413 Barett, Bent W 24 Kentucky Owsley vol 76 ED 88 sh 11 ln 76.
+  = original T625-594 leaf 1059 stamped 11 B ln 76 FM 195/198 Barrett/Barett, Bent 24 × Mary 24
+    + Maybe dau 3 + Stanley son 1. Hard Rule 6. Booneville, not Buffalo.
+  DISPROVED as 1910 Ben 32 (24 vs ~42; ED 88 ≠ ED 92; Mary ≠ Anna of C819).
+2414 Byrd, Berlie 31 Hickman (Bent slot closed; no continuation).
+2424 Baird, Bertha R 20 Jefferson vol 46 ED 67 (Bertha after Bent).
+  Bessie 2425 already Pass 84 (C908).
+
+Nil Barrett, Ben ~42 Owsley vol 76 ED 92 as a head.
+Ben given-name slot image-closed. Two Barrett, Ben heads exist (18 Franklin; 60 Livingston);
+neither is the 1910 Buffalo couple. Owsley Bent 24 is a different Booneville house.
+Original dw 115 Barrett, Bruce 42 × Anna remains POSSIBLE C819 (would file under Bruce, not Ben).
+Residual: Bruce given-name slot after Bessie 2425 is NOT this pass's every-leaf.
