@@ -163,6 +163,12 @@ Exact strings logged **L485–L498**.
 
 Exact strings logged **L499–L512**.
 
+## Name-variant storm (pass 74, 31 Oct 2026, `search_variants.py`)
+
+**Dora Newnam --also Newman --also Stone** — given: Dora, posa, dosa, rosa, dona, dara, dore, dori, dola, pora, rora. Surname: Newnam, newman, newnarn, newan, newnom, Stone. Soundex **N550** / **S350**. Combined samples: `"Dora Newnam"`, `"Newnam, Dora"`, `"posa Newman"`, `"Dora Stone"`, `"Stone, Dora"`. Also Ella / Mrs Stone / Mrs Newman / Posa / Nora / Cora as boarder/MIL/wife ~38 on unpublished Van Buren 1910 township *originals* (alternate catalog paths, not the 404 slugs) and ~48 on new year-hole hosts. Bride 1924–25: Dora / Ella / Posa × Newnam / Newman / Stone.
+
+Exact strings logged **L529+**.
+
 ## Name-variant storm (pass 73, 31 Oct 2026, `search_variants.py`)
 
 **Dora Newnam --also Newman** — given: Dora, posa, dosa, rosa, dona, dara, dore, dori, dola, pora, rora. Surname: Newnam, newman, newnarn, newan, newnom. Soundex **N550**. Combined samples: `"Dora Newnam"`, `"Newnam, Dora"`, `"posa Newman"`, `"Dora newman"`.

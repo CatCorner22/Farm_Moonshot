@@ -1,0 +1,45 @@
+# Extract — B074 Van Buren 1910 unpublished townships: alternate catalogs
+# 31 Oct 2026. Did NOT refetch the 404 body slugs from B073.
+# Did NOT refetch opened 1910 bodies, 1920 Union 149a–160b, Perry 1910,
+# ED 191 351–379, ED 188 303–319, C335/C349 Solr, Conway Z, logged phone.
+
+## Alternate paths tried (once each; not the B073 404 URLs)
+Wayback CDX 200 list for www.argenweb.net/vanburen/Census/1910/*
+  https://web.archive.org/cdx/search/cdx?url=www.argenweb.net/vanburen/Census/1910/*&output=text&fl=original,statuscode,timestamp&filter=statuscode:200&limit=150
+  RESULT 200. Snapshots exist ONLY for the already-opened published set
+  (bloodworth, cadron, choctaw, davis, griggs1–23, grove, hartsugg,
+  heading, hh*, households, index, linncrk, mountain, rr, sulpherspgs,
+  union1–12, washington1–8).
+  NO snapshot for: barnett, bradley, holly/holley, liberty, wheeler,
+  whiteoak, archey, cargile, cleveland, craig, culpepper, griggs24,
+  union13.
+
+What's New (argenweb.net/vanburen/new.htm) 200, saved new-2026-10-31.htm
+  "1910 Union Twsp transcription complete" (households.html still lists 300;
+   last posted body head hh 203 Burgess).
+  No note that Griggs 24+ or unpublished township bodies were later posted.
+  Griggs listed 270 households; last body head hh 199 McNeely.
+
+New slugs (not the B073 404 set), one GET each, all HTTP 404:
+  1910holley.htm (1900 spelling)
+  1910whiteoak1.htm (1920 naming)
+  1910griggs.html (alpha like choctaw)
+  1910union.html (alpha)
+
+USGW Van Buren landing + files.usgwarchives.net/ar/vanburen/census/
+  timeout 28s (not retried). WebSearch snippet of usgwarchives.net/ar/vanburen/vanburen.htm
+  lists 1840/1850/1880 Baker / 1920 Bee Branch / 1930 — no 1910 township bodies.
+
+Genealogy Trails genealogytrails.com/ark/vanburen/census.html 200
+  1850 mortality / 1860 mortality / 1883 pensioners only. No 1910.
+
+Head lists already on disk (not refetched): Archie–Cargile / Choctaw–Cleveland /
+Craig–Culpepper. Re-read: Cora Cole 1887 TN; Dona Carr 1881 AR; Ella J Guiling
+1857 IN; Dora Bell 1899 AR; Newman Wilks 1875 MS (given name); Ella Rhoades 1883 AR.
+No Stone head. No Dora ~1872 KY. Holly / Liberty / Wheeler / White Oak have
+household counts only (117 / 137 / 153 / 61) — no head list and no body.
+
+## Verdict
+Unpublished 1910 township *bodies* are unpublished on ARGenWeb, Wayback, GT,
+and (snippet) USGW. Later Griggs/Union pages were never posted.
+Residual = NARA T624 originals (see t624-66 extract).

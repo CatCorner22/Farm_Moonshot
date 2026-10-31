@@ -1,0 +1,39 @@
+# Extract — IA 13thcensus1910po0066unit (catalog: T624 reel 66)
+# 31 Oct 2026. Image seen (title cards + sampled headers). PDF 276,920,945 bytes
+# / 1329 pages downloaded to /tmp only — NOT committed.
+
+Catalog (IA metadata + NARA T624 pamphlet): "Reel 66. Sevier, Union, and Van Buren Counties."
+Identifier: 13thcensus1910po0066unit
+https://archive.org/details/13thcensus1910po0066unit
+
+## Title cards actually on this scan
+n1 / PDF p.2:  "13th CENSUS 1910 ARKANSAS — Vol. 62 — Sevier — 1-183"
+  saved: t624-66-n001-sevier-vol62-title.jpg
+n370:         "13th CENSUS 1910 ARKANSAS — Vol. 63 — Union (part) — 1208"
+  saved: t624-66-n370-union-part-title.jpg
+
+The filmed volume numbers are 62 (Sevier) and 63 (Union part), not a Van Buren card.
+
+## Sampled population headers (IA page/n{N}.jpg = 0-based leaf)
+n4    first pop. sheet; ED field ~120; county faint
+n79   Sevier Co. — Bear Creek Twp — ED 171 sheet 17-B — Supervisor 4
+n199  Sevier Co. — Clear Creek Twp — ED 175 sheet 10-B — Supervisor 4
+n279  blank schedule (no names)
+n359  Sevier Co. — Washington Twp — ED 181 sheet 3-B — Supervisor 4
+n370  Union (part) title card (above)
+n380  Union Co. — Boone Twp — ED 126 sheet 2-B — Supervisor 7
+n390  Union Co. — Boone Twp — ED 126 sheet 7-B — Supervisor 7
+n399  Union Co. — Boone Twp — ED 127 sheet 3-A — Supervisor 7
+n449  Union Co. — El Dorado Twp — ED 128 sheet 16-A — Supervisor 7
+n1310 Union Co. — Wesson precinct — ED 141 sheet 6-B — Supervisor 7
+n1320 Union Co. — Wesson precinct — ED 141 sheet 11-B — Supervisor 7
+n1328 film target (end of reel)
+
+## Van Buren
+No Van Buren County title card and no Van Buren township header was seen on
+the sampled leaves. Sevier occupies the first ~360 leaves; Union (part)
+occupies n370–n1320. That leaves no 270-page gap for Van Buren’s ~13,500
+people. This IA item, despite the collection blurb, is Sevier + Union (part).
+
+Van Buren 1910 originals remain not yet examined on a volume that actually
+contains them. Residual → B075 (do not re-download this PDF).

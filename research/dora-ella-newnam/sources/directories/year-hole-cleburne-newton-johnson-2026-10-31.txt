@@ -1,0 +1,51 @@
+# Extract — year-hole hosts B074 (Cleburne retry + Newton + Johnson)
+# 31 Oct 2026. New / alternate paths. Did not repeat C335/C349 Solr,
+# Conway Z, Logan/Faulkner/Yell catalogs, or logged phone.
+
+## Cleburne miscellaneous marriages 1924–1928 (one live retry + Wayback)
+Live files.usgwarchives.net/ar/cleburne/vitals/marriages/miscmar1.txt
+  Pass 73: timeout 0 bytes. This pass: timeout 35s (the one retry).
+Wayback CDX: 11 snapshots 2013–2025, all status 200.
+Wayback id_ 20251106053518 → saved sources/marriages/cleburne/miscmar1.txt
+  Submitter Mary Allen Brown, 30 Oct 2004.
+  R. F. Pierce, minister, Quitman, credentials Book A p.18. Eight marriages:
+    D.N. Johnson × Opal B. Ward          28 Dec 1924
+    Virgil Fenley × Ameline Linn         4 Jan 1925
+    Joe Akinns × Vesta Goff              19 Feb 1925
+    Odis Swaffer × Wilma Kendrick        7 Nov 1926
+    Oscar Thompson × Dice Miles          25 Dec 1927
+    J.I. Jackson × Hazel Johnson         25 Dec 1927
+    I.J. Jackson × Edna Debusk           28 Jan 1928
+    Lawrence New × Pauline Jackson       25 Mar 1928
+  No Dora / Ella / Posa / Newman / Newnam / Stone.
+  Not a complete county book — one minister’s list.
+
+USGW Cleburne landing www.usgwarchives.net/ar/cleburne/cleburne.htm timeout 22s
+(not retried).
+
+## Newton County AR (new host; north of Searcy)
+https://www.argenweb.net/newton/  200
+  Home links marriages A–L / M–Z. census.htm / census.html 404.
+  No 1910 or 1920 population transcript on that landing.
+maral.html 200 (151,775 B) + marmz.html 200 (107,716 B)
+  No Newnam / Newman party row.
+  Only Dora: GOSNELL, Dora Belle × CHAFFIN, James Thomas, 26 Mar 1899
+    — rejected (1899; P001 is Samuel’s wife at Sturgeon 1900).
+  1920–25 Stone parties (not P001 / T.A.):
+    STONE, Squire × FERRELL, Mattie   17 Nov 1924
+    STONE, Vesta × TILLY, Dotson      24 Apr 1925
+    STONE, Preston × MINNAY, Irene    5 Jan 1927 (after her death window)
+
+## Johnson County AR (new host; ARGenWeb redirects)
+https://www.argenweb.net/johnson/  200  META refresh → johnsoncountygenealogy.com
+Saved home.html (redirect stub).
+johnsoncountygenealogy.com 200 Wix page “Thank you for your patience!”
+  pages-sitemap.xml: home / blog / research-tools / groups / legal only.
+  research-tools: off-site Historical Society links; no 1910/1920 transcript.
+  argenweb.net/johnson/census.htm|.html and marriages.html  404.
+
+## Verdict
+Cleburne 1924–28 archive file is a short minister list — nil P001.
+Newton compiled marriages do not name her.
+Johnson free catalog is a redirect/stub with no 1910/1920 or 1921–25 book.
+Dora still UNKNOWN Apr 1910 and Jan 1920; m2 place still open.

@@ -4,7 +4,7 @@ Year-by-year / event-by-event pinpoints from **1 June 1900** through **24 August
 Only cited claims. Confidence: **PROVEN** · **PROBABLE** · **POSSIBLE** · **SPECULATIVE** · **DISPROVED**.  
 Unverified items stay **open**. Living descendants are redacted.
 
-**Session:** 31 Oct 2026 · branch `cursor/dora-1900-death-reconstruction-2b6a` · logs **L361–L528** · claims **C305–C369, C1300–C1427** · sources **S283–S290, S299–S367**.  
+**Session:** 31 Oct 2026 · branch `cursor/dora-1900-death-reconstruction-2b6a` · logs **L361–L544** · claims **C305–C369, C1300–C1436** · sources **S283–S290, S299–S370**.  
 **Ages** computed from birth **11 Aug 1871** (year **PROVEN**; day 11 **POSSIBLE**): 28 on 1 Jun 1900; 38 on 15 Apr 1910; 45 on 18 Feb 1917; 48 on 1 Jan 1920; 55 on 23 Aug 1926.
 
 ---
@@ -15,7 +15,7 @@ Unverified items stay **open**. Living descendants are redacted.
 |---|---|---|---|
 | 1 Jun 1900 | Sturgeon precinct, Lee Co., KY, dwelling **67/67**, wife of Samuel P. Newnam; five living children of seven born | **PROVEN** (transcription) | C011 |
 | 1901–Mar 1910 | No record read names her place. Kentucky **PROBABLE** only by later children’s KY events and the absence of an out-of-state Newnam head card | **PROBABLE** KY, place **open** | C012 C205 |
-| Apr 1910 | **Not** Newman/Newnam/Stone/Peebles ~39 in KY/AR/MO/OK/TX indexes; **not** Sturgeon ED 99 as Newnam; **not** with Pearl (hh 141) or with Rufus Jackson (hh 161) in Owsley; **not** on any linked Perry 1910 ARGenWeb census page; **not** in Van Buren 1910 Union 25a–36a / Red River (Newman p.35 = William S.); **not** on remaining published Van Buren 1910 township bodies (Phillips Dora A. 44 / Sims Dora F. 31 **rejected**) | **UNKNOWN** (honest gap) | C030 C033 C088 C070 C317 C1330 C1339–C1350 C1359–C1368 C1406–C1410 C1413–C1422 |
+| Apr 1910 | **Not** Newman/Newnam/Stone/Peebles ~39 in KY/AR/MO/OK/TX indexes; **not** Sturgeon ED 99 as Newnam; **not** with Pearl (hh 141) or with Rufus Jackson (hh 161) in Owsley; **not** on any linked Perry 1910 ARGenWeb census page; **not** in Van Buren 1910 Union 25a–36a / Red River (Newman p.35 = William S.); **not** on remaining published Van Buren 1910 township bodies (Phillips Dora A. 44 / Sims Dora F. 31 **rejected**); unpublished VB 1910 bodies **never posted**; IA po0066 = Sevier+Union not Van Buren | **UNKNOWN** (honest gap) | C030 C033 C088 C070 C317 C1330 C1339–C1350 C1359–C1368 C1406–C1410 C1413–C1422 C1428–C1431 |
 | 1911–Jan 1917 | No record read places her | **open** | C205 |
 | 18 Feb 1917 | Son Coy marries at **Ola**, Yell Co., AR — first documented **Arkansas** event for this *family*; does **not** place Dora at the courthouse | Event **PROVEN**; her presence **POSSIBLE** | C027 C312 |
 | 29 Jun 1917 / 11 Mar 1919 | Daughter Pearl registers two births in **Lee Co., KY** as Pearl Newman | Children **PROVEN** in Lee; Dora **not** on those index rows | C306 C307 |
@@ -115,7 +115,7 @@ She is **not**:
 - in Perry County, Arkansas, **Howell** 1910 (entire township opened): **no** Tom A. Stone and **no** Dora ~38. James R. Butler and **Laura B.**, 25, Missouri, are in hh **17** without a father-in-law — **PROBABLE** FAN (Laura Bell Stone Butler) that still **excludes** P001. [C1330] [C1331] [S350] Rankin 1910 **Dora?** Goin, 28, Tennessee, and **Dora** daughter, 6, fail the same-person test; William J. Stone’s house has Lottie, not Dora. [C1332]
 - in the remaining Perry 1910 townships opened last pass (Casa Town and Township, Fourche LaFave, Perry Township, Petit Jean, South View, convict camp, Perryville Town, Fourche Town, Rose Creek, Aplin, Houston Township, Dry Fork, Omega, Cherry Hill, Tyler). Amanda Stone, 46, widow, Arkansas, in Casa Town hh **131** is the 1920 Perryville cluster — **no** Dora in that house. [C1339] Charles H. Newman, 23, in Perry Township hh **283** has wife Annie and brother George — **no** mother-in-law Dora. [C1341] Elijah J. Stone (59, Virginia), James Stone (34), and Allan E. Stone (40) have other wives. [C1342] [C1343] The convict camp page is all-male; John Newman, 19, Arkansas, is not John H. [C1344] Age-adjacent rejects: Dora Cates, 28; Dora Bonds, 36; Dora Hance, 27; Dora Alexander, 34, Missouri; Dora Mosby, 40, single, Mississippi. [C1340] [C1345] [C1347] [C1348]
 - in the last nine Perry 1910 census bodies (Eran Town, Forest, Lake, Maumelle, McCool, New Tennessee, Union, Walnut Grove, Houston Town). Those files have **zero** Stone/Newman/Newnam surname rows. Closest given+age hit is **Malcum, Dora**, 37, Arkansas, 4/4, wife of George for 19 years, with Johnnie, Jeffrey, Joe, and Olar — **rejected**. [C1365] Ella Johnson, 43, Mississippi, and Ella L. Steakley, 36, Mississippi, fail the same-person test. [C1364] [C1367] Lillie Waters, 34, Kentucky, a servant in Houston Town, is **not merged**. [C1367] Combined with the prior opens, **every linked ARGenWeb Perry 1910 township census page** has now been read; P001 is not on that derivative set. [C1368] Original NARA T624 schedules remain unread.
-- in the remaining published Van Buren 1910 township bodies (Bloodworth, Cadron, Davis, Griggs 1–23, Hartsugg, Linn Creek, Mountain, Sulphur Springs, Washington, Choctaw and Grove alpha lists, Union page **12** after 36a). **Zero** Stone person-rows. Newman is a Griggs local cluster (James T. 22, Sammie A. 70, Sarah A. 14). Phillips, Dora A., 44, Arkansas, and Sims, Dora F., 31, single sister, fail the same-person test. [C1413] [C1414] [C1415] [C1416] [C1419] Unpublished township body slugs are **404**. [C1422]
+- in the remaining published Van Buren 1910 township bodies (Bloodworth, Cadron, Davis, Griggs 1–23, Hartsugg, Linn Creek, Mountain, Sulphur Springs, Washington, Choctaw and Grove alpha lists, Union page **12** after 36a). **Zero** Stone person-rows. Newman is a Griggs local cluster (James T. 22, Sammie A. 70, Sarah A. 14). Phillips, Dora A., 44, Arkansas, and Sims, Dora F., 31, single sister, fail the same-person test. [C1413] [C1414] [C1415] [C1416] [C1419] Unpublished township body slugs were **404** and alternate catalogs (Wayback, What’s New, Genealogy Trails, new filename slugs) show those bodies were **never posted**. [C1422] [C1428] IA `13thcensus1910po0066unit` is Sevier + Union (part), **not** Van Buren. [C1431]
 
 **Still unpublished (404):** 1910 Lee **Heidelberg, Ivy Patch, St Helens**. [C360] Conway 1910/1920 transcripts are **unpublished** on ARGenWeb (labels only). [C1354]
 
@@ -248,7 +248,11 @@ Statewide / ED negatives already on file:
 
 **This pass — Yell ED 188 Galla Rock originals:** true range is IA PDF **303–319** (sheet 1A–9A). Page 319 ends **“Here ends the enumeration of Galla.”** **No** Mrs T. A. Stone ~48. [C1403–C1405] [S363] Rejects: Caffler Nora 36; Humphrey Rossa 37; wife Dora 25; **Stoner** 42 Tennessee.
 
-**This pass — Van Buren 1910 Union / Red River (year-hole):** index Newman Union p.**35** is **Wiliam S. Newman**, 38, + Laura? E., 33 — **no Dora**. [C1410] Fitzgerald Dora 39 Missouri / Simpkins Dora 49 Arkansas / Blackburn Dora 35 **rejected**. [C1407–C1409] Other 1910 Van Buren townships remain **B073**.
+**This pass — Van Buren 1910 Union / Red River (year-hole):** index Newman Union p.**35** is **Wiliam S. Newman**, 38, + Laura? E., 33 — **no Dora**. [C1410] Fitzgerald Dora 39 Missouri / Simpkins Dora 49 Arkansas / Blackburn Dora 35 **rejected**. [C1407–C1409] Other published 1910 Van Buren townships were **B073**; unpublished bodies **B074**.
+
+**This pass — unpublished Van Buren 1910 bodies (B074):** Wayback CDX, What’s New, Genealogy Trails, and four new slugs (holley / whiteoak1 / griggs.html / union.html) confirm the unpublished township *bodies* were **never posted**. [C1428] [C1429] [S368] Griggs after household **199** and Union after **203** have no later page. Holly, Liberty, Wheeler, and White Oak have household counts only. IA `13thcensus1910po0066unit` is cataloged as T624 reel 66 (Sevier, Union, and Van Buren), but the title cards on the scan are **Vol. 62 Sevier** and **Vol. 63 Union (part)**; sampled headers are Sevier then Union County. Van Buren schedules are **not** on that scan. [C1431] [S369]
+
+**This pass — Cleburne 1924–28 / Newton / Johnson:** the Cleburne archive file is eight R. F. Pierce marriages — **no** Dora or Stone. [C1430] Newton compiled marriages have **no** Newnam/Newman party; Dora Belle Gosnell, 1899, and Squire/Vesta Stone, 1924–25, are other people. [C1433] Johnson ARGenWeb is a redirect to a Wix stub. [C1432]
 
 **Occupation Jan 1920:** no occupation line for P001, because no schedule line for P001.
 
@@ -329,7 +333,7 @@ WWI: Lee County draft transcript (1,126 cards) has **no** Newnam / Newman / McCo
 | 1907 | — | **open** |
 | 1908 | — | **open** |
 | 1909 | — | **open** |
-| 1910 | Not on any searched Newman/Stone/Peebles line; not Sturgeon ED 99; not with Pearl; not Posa/Nora/Cora ~39 on Proctor/Fincastle/NewVA, Owsley Booneville/Sturgeon/Wild Dog, **or Island/Cow/Buffalo**; **not** on any linked Perry 1910 ARGenWeb census page (derivative set now complete); **not** on remaining published Van Buren 1910 township bodies. Heidelberg/Ivy/St Helens still unpublished; VB unpublished townships **404** | **UNKNOWN** for her; children/FAN **PROVEN** |
+| 1910 | Not on any searched Newman/Stone/Peebles line; not Sturgeon ED 99; not with Pearl; not Posa/Nora/Cora ~39 on Proctor/Fincastle/NewVA, Owsley Booneville/Sturgeon/Wild Dog, **or Island/Cow/Buffalo**; **not** on any linked Perry 1910 ARGenWeb census page (derivative set now complete); **not** on remaining published Van Buren 1910 township bodies. Unpublished VB bodies **never posted**; IA po0066 = Sevier+Union, **not** Van Buren. Heidelberg/Ivy/St Helens still unpublished | **UNKNOWN** for her; children/FAN **PROVEN** |
 | 1911 | — (Lee births N/D/E/S/B/A/G/H/M: no mother Dora) | **open** |
 | 1912 | — | **open** |
 | 1913 | — | **open** |
@@ -378,7 +382,7 @@ WWI: Lee County draft transcript (1,126 cards) has **no** Newnam / Newman / McCo
 | 1920 Owsley published transcripts | **None found** on USGenNet / KYGenWeb / census-online (**C1303**). Residual = originals / FS |
 | Perry 1920 remaining *unpublished* census bodies | Casa / Forest / New TN / Perry twp+town / Petit Jean / Union still **404** (**C1373**). Fourteen index-nil published bodies **done** (**C1374–C1383**) |
 | Van Buren 1920 Union p.150 Stone house | **Done** (**C1394**): Abbie? 37 wd + Charles 3. Dora not in house |
-| Van Buren 1910 remaining township bodies | Union 25a–36a + Red River **done** (**C1406–C1410**). Remaining published bodies **done** (**C1413–C1422**). Unpublished township slugs **404** (**B074**) |
+| Van Buren 1910 remaining township bodies | Union 25a–36a + Red River **done** (**C1406–C1410**). Remaining published bodies **done** (**C1413–C1422**). Unpublished bodies **never posted** (**C1428**). IA po0066 = Sevier+Union, **not** Van Buren (**C1431** / **B075**) |
 | Van Buren 1920 Union after 158b | **Done** (**C1423–C1424**): pages **159a–160b** **nil** P001. union12 **404** |
 | Perry 1910 remaining *unpublished* census bodies | **Done** this pass (**C1359–C1368**). Entire linked ARGenWeb 1910 set now opened |
 | Conway Marriage Book **Z** bride (19 Aug 1925–28 Jul 1927) | **Done** (**C1369–C1371**). No later letter posted |
@@ -387,7 +391,7 @@ WWI: Lee County draft transcript (1,126 cards) has **no** Newnam / Newman / McCo
 
 ## Files this reconstruction rests on
 
-- Case: `03-timeline.md`, `04-evidence.md` (C305–C369, C1300–C1427, S283–S290, S299–S367), `06-dossier.md`, `07-conflicts.md` #18–#19, `02-log.md` L361–L528, `SOURCE-INDEX.md`
+- Case: `03-timeline.md`, `04-evidence.md` (C305–C369, C1300–C1436, S283–S290, S299–S370), `06-dossier.md`, `07-conflicts.md` #18–#19, `02-log.md` L361–L544, `SOURCE-INDEX.md`
 - Pass 66 extracts: `sources/marriages/owsley-vs-1903-10-dora-bride-nil-2026-10-31.txt`, `lee-book10-vsm2-ella-smith-nil-2026-10-31.txt`, `sources/births/lee-owsley-1902-09-mother-dora-nil-2026-10-31.txt`, `lee-owsley-desb-mother-dora-1911-20-2026-10-31.txt`, `sources/census/1910-1920-ocr-unread-precincts-2026-10-31.txt`, `sources/catalog/ldsgenealogy-owsley-marriages-extract-2026-10-31.txt`, `sources/directories/year-hole-directories-voters-2026-10-31.txt`
 - Pass 67 extracts: `sources/census/1910-owsley-island-cow-buff-ocr-2026-10-31.txt`, `1920-lee-beat-precincts-dora-2026-10-31.txt`, `perry-1920-howell-perryville-dora-2026-10-31.txt`, `sources/births/lee-owsley-magh-1921-mother-dora-2026-10-31.txt`, `sources/directories/year-hole-new-hosts-2026-10-31.txt`
 - Pass 68 extracts: `sources/census/perry-1920-remaining-dora-2026-10-31.txt`, `perry-1910-howell-rankin-dora-2026-10-31.txt`, `sources/marriages/perry-de-yell-marr-dora-2026-10-31.txt`
@@ -396,6 +400,7 @@ WWI: Lee County draft transcript (1,126 cards) has **no** Newnam / Newman / McCo
 - Pass 71 extracts: `sources/census/perry-1920-unpublished-and-bodies-dora-2026-10-31.txt`, `yell-ed191-remainder-dora-2026-10-31.txt`, `sources/directories/year-hole-vanburen-logan-2026-10-31.txt`
 - Pass 72 extracts: `sources/census/vanburen-1920-bodies-dora-2026-10-31.txt`, `yell-ed188-galla-rock-dora-2026-10-31.txt`, `vanburen-1910-union-dora-2026-10-31.txt`
 - Pass 73 extracts: `sources/census/vanburen-1910-remaining-dora-2026-10-31.txt`, `vanburen-1920-union-after-158b-dora-2026-10-31.txt`, `sources/directories/year-hole-cleburne-searcy-stone-2026-10-31.txt`
+- Pass 74 extracts: `sources/census/vanburen-1910-unpublished-alt-2026-10-31.txt`, `sources/census/vanburen/1910-orig/t624-66-map-2026-10-31.txt`, `sources/directories/year-hole-cleburne-newton-johnson-2026-10-31.txt`
 - Narrative: `book/Dora-Ella-Newnam-Stone-A-Life.md` § Places: 1900 to death
 
 This reconstruction is **not complete**. Dora’s 1900–death life is **not** filled in.
