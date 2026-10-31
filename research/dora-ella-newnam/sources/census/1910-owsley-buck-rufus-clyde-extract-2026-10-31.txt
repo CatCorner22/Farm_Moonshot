@@ -1,0 +1,30 @@
+# Extract: 1910 Owsley Co. KY Buck Creek Dist. (USGenNet Kendrick transcription)
+# Source: https://usgennet.org/usa/ky/county/owsley/census/1910/buck1910.html
+# Captured 31 Oct 2026. HTTP 200, 228638 bytes. Transcription only. Original NARA T624 not seen this pass.
+
+## Household 141-141 — Pearl (already C026 / S051); Dora not in house
+NEWMAN Elizabeth  H F W 61  wd  7-2     KKK
+ANGLE Susan       D F W 44  wd          KKK
+NEWMAN Pearl     GD F W 15  s           KKK
+
+## Household 161-161 — Rufus JACKSON (20 households later, same district)
+JACKSON Rufus     H M W 44  m1 24y      KKK
+Margaret          W F W 43  m1 24y 11-10 KKK
+Sudie             D F W 19  s           KKK
+Clyde             S M W 16  s           KKK
+Otto              S M W 14  s           KKK
+Dewey             S M W 12  s           KKK
+Alice             D F W  9  s           KKK
+Florence          D F W  7  s           KKK
+Lucy              D F W  6  s           KKK
+Brewton           S M W  2  s           KKK
+
+## Other Jackson heads in this district (not merged with Clyde of hh 161)
+38-38  JACKSON George W. 37 + Amanda J. 32 + three daughters (no Clyde)
+42-42  JACKSON Smith 43 + Rosa B. (Garrett) + children (no Clyde)
+
+## Other Clyde in this district (not Jackson)
+32-32  JUDD Wilson — Clyde son 17 (continues the 1900 Wilson Judd house)
+
+Exact strings searched: Clyde, Jackson, JACKSON, Pearl, NEWMAN, NEWNAM, Dora, Ella, Stone.
+P001 is not in hh 141 or hh 161.

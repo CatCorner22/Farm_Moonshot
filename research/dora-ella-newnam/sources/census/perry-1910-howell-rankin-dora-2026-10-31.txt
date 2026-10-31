@@ -1,0 +1,38 @@
+# Extract — Perry Co. AR 1910 Howell + Rankin + selected indexes (B068 fallback)
+# Captured 31 Oct 2026. Transcription only (Sharon Smith / ARGenWeb).
+# Landing: https://www.argenweb.net/perry/census/1910census/
+# Hunt: Dora/Ella/Posa ~35–42; Stone/Newman FAN (Tom A.; Laura Bell Butler).
+
+## Howell Township — entire census opened (pages 38a–38c; ~30 heads)
+Index: NO Stone, Newman, Dora, Ella, Randall heads.
+hh 17: Butler, James R. Head 27 M 10yrs MO Farmer;
+       Laura B. Wife 25 M 10yrs 3/2 MO Farm Laborer;
+       Fred H. Son 2 AR; Clarence Son 2 AR.
+  Next house is Owens hh 18. No FIL/MIL/boarder.
+  Laura B. Butler 25 MO in Tom A.’s 1920 township = PROBABLE FAN stepdaughter
+  (dossier already lists Laura Bell (Stone) Butler). Tom A. and Dora are NOT in this house.
+hh 27: Hale, Zachary T. Head 61 M 15yrs TN Farmer;
+       Ella B. Wife 35 M 15yrs AR Farm Laborer. AR-born; married ~1895. Rejected as P001.
+No Tom A. Stone line. No Dora ~38 KY. Verdict: Howell 1910 excludes P001 and Tom A. as residents.
+
+## Rankin Township — census opened (Stone FAN + Dora hits)
+hh 321: Goin, Bert Head 33 M 8yrs KY Farmer;
+        Dora? Wife 28 M 8yrs 2/2 TN Farm Laborer;
+        Clarence son 6 AR; Percy son 4 AR.
+  Age 28 vs ~38; TN; 2 living children vs P001’s 5. Rejected.
+Dora dau 6 S SC (Mattie 35 SC household). Child. Rejected.
+hh 343: Stone, William J. Head 34 M 5yrs MS Farmer;
+        Lottie E. Wife 28 M 5yrs 3/3 AR Farm Laborer;
+        Lucy dau 4 AR; Frances dau 2 AR.
+  Same cluster as 1920 W. James Stone. No Dora / Tom A.
+hh 333: Bremmer, Oscar 33 IL; Ella M. wife 25 IL. Rejected.
+hh 381: Palmer, John T. 31 MS Doctor; Ella M. wife 29 AR. Rejected.
+Ella dau 2 AR (child).
+Verdict: nil P001.
+
+## 1910 indexes opened (heads only; census not opened this pass)
+Aplin / Houston Twp / Houston Town / Perryville Town / Casa Twp:
+  no Dora, Ella, Stone, Newman, Newnam heads.
+Residual remaining 1910 townships (Cherry Hill, Dry Fork, Eran, Forest, Fourche LaFave,
+Fourche Town, Lake, Maumelle, McCool, New Tennessee, Omega, Perry Twp, Petit Jean,
+Rose Creek, South View, Tyler, Union, Walnut Grove, convict camp) → B069.

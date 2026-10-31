@@ -1,0 +1,146 @@
+# Extract — Perry Co. AR 1910 unpublished census bodies + Conway Book Z (B070)
+# Captured 31 Oct 2026. Transcription only (Sharon Smith / ARGenWeb Perry; Euna Beavers Conway).
+# Landing: https://www.argenweb.net/perry/census/1910census/
+# Did NOT refetch Howell / Rankin or pass-69 opened census bodies
+#   (Casa Town/Twp, Fourche LaFave, Perry Twp, Petit Jean, South View, convict camp,
+#    Perryville, Fourche Town, Rose Creek, Aplin, Houston Twp, Dry Fork, Omega,
+#    Cherry Hill, Tyler).
+# Hunt: Dora/Ella/Posa/Dona/Nora/Cora ~32–48; Stone/Newman FAN (Tom A.; boarder/MIL).
+# Parser: 11-column tables; ditto (") inherits surname; leftover cells = 0 on every file.
+
+## Eran Town (Perry Township) — 292 person-rows
+No Stone / Newman / Newnam surname.
+hh 21: Burns, Agnes 34 Wd 3/2 AR; Lee 21; Ella dau 18 S AR. Ella 18 rejected.
+hh 49: Huckeby, Thomas J. 34 AR carpenter; Rosa A. wife 32 M 5yrs 3/2 AR seamstress; Lee 4; dau 1 8/12.
+        Rosa A. 32 AR rejected (given Rosa; 32 vs ~38; AR; 3/2; husband Huckeby).
+hh 17: Richardson, Henry 60 AL; Rachel E. 60 AL; Cas 25; Clark, Letha boarder 48 Wd 6/2 MS washer.
+        Letha 48 MS is not P001 (wrong given name; MS; 6/2). Not Coy’s later wife Letha
+        (that woman married 1917; this Letha was already 48 in 1910).
+Other boarders in town are male (McGahu, Copenhaven 43 KY, Quirk, Wilmot, Corrimder, Wallace).
+Verdict: nil P001.
+
+## Forest Township — 153 person-rows
+No Stone / Newman / Newnam.
+Cora M. Smith wife 32 M 10yrs 5/4 AR (hh 44); Cora V. Clark 27 TX (hh 52); Cora Donathan 29 AR (hh 68).
+All rejected (given Cora; wrong husbands/children/birthplaces).
+Verdict: nil P001.
+
+## Lake Township — 354 person-rows
+No Stone / Newman / Newnam.
+hh 193: McGhee, Robert W. 42 AR; Mary 42 AR 8/4; Wiley 11; Dora dau 6 S AR; Etta 2.
+        Dora McGhee 6 rejected (child).
+hh 201: McGhee, Dan R. 39 AR; Rosa wife 33 M 14yrs 6/3 MO; Missouri 10; Haley 7; William 2.
+        Rosa 33 MO rejected.
+Youngblood Rosa 24; Gadd Rosa 22 teacher; Outsey Nora 22 — wrong ages.
+Verdict: nil P001.
+
+## Maumelle Township — 206 person-rows
+No Stone / Newman / Newnam.
+hh 21: Smith, Benjamin 48 MI; Nora wife 39 M 22yrs 4/4 OH; Emory 15 MI; Ida 11 MI; Carrie 5 MI.
+        Nora Smith 39 OH rejected (given Nora; OH; 4/4 vs P001 7/5 in 1900; 22y to Benjamin; MI-born children).
+hh 25: Boyett, Dora dau 3 AR. Child. Rejected.
+Gifford Nora dau 16 OK — child.
+Verdict: nil P001.
+
+## McCool Township — 244 person-rows
+No Stone / Newman / Newnam.
+Jones, Rosa L. wife 28 AR (hh 4); Orrell, Nora L. dau 5 (hh 25). Rejected.
+Douthat, Florence boarder 32 Wd 5/2 AR; Green, Belch E. boarder 48 Wd AR — not Dora.
+Verdict: nil P001.
+
+## New Tennessee Township — 452 person-rows
+No Stone / Newman / Newnam.
+hh 202: Johnson, George 46 IL farmer; Ella wife 43 M 23yrs 2/1 MS; Arthur 17 AR.
+        Ella Johnson 43 MS rejected (MS; 2/1; m. 23y to George; one son Arthur).
+Other Ella/Nora/Cora/Rosa hits are children or Nora McGie 24 / Nora VanMeter 24.
+Lovell, Mattie aunt 47 Wd 0/0 GA — not Dora (0 children; GA; aunt).
+Verdict: nil P001.
+
+## Union Township — 458 person-rows
+No Stone / Newman / Newnam.
+hh 274: Malcum, George 38 AR farmer; Dora wife 37 M 19yrs 4/4 AR farm laborer;
+        Johnnie 18; Jeffrey 16; Joe 15; Olar 14; Casey, Sarah SIL 29 S AR.
+        Closest given+age hit. Same-person test FAILS: surname Malcum; b. AR vs KY;
+        4/4 vs 7/5 (1900); m. 19y from ~1891 to George (P001 m. Samuel 1885);
+        four AR-born children Johnnie/Jeffrey/Joe/Olar ≠ Pearl/Coy/Mary/Rissa/John.
+        Rejected / not merged.
+hh 230: Gaddy, Ella boarder 27 M 5yrs 2/2 AR farmer in Wilson Brown hh. Age 27. Rejected.
+hh 248: Daniels, Cora niece 29 M 10yrs 2/2 AR. Rejected.
+hh 218: Atkins, Dora H. dau 10. Child. Rejected.
+Waller Ella 24; other Rosa children. Rejected.
+Verdict: nil P001.
+
+## Walnut Grove Township — 327 person-rows
+No Stone / Newman / Newnam.
+Riley, Dora niece 2 S AR (hh 129). Child. Rejected.
+Holcomb Nora 14; Bull Rosa 14; Brown Cora 3 / Nora 7 — children.
+Ayre sisters Annie 32 TX / Elizabeth 35 Wd TN — not Dora.
+Verdict: nil P001.
+
+## Houston Town (Houston Twp) — 319 person-rows
+No Stone / Newman / Newnam. (Houston *Township* body already opened pass 69.)
+hh 44: Steakley, Monroe S. 38 AL farmer; Ella L. wife 36 M 19yrs 6/6 MS;
+        Frank 17, Arthur 15, Lula 12, Eddie J. 10, Houston 6, Whit 3;
+        Herndon, Mary MIL 64 Wd 2/1 MS.
+        Ella L. Steakley 36 MS rejected (MS; 6/6; six named Steakley children; MIL Herndon).
+hh 49: Rankin, Dona wife 20 M 2yrs 1/1 AL. Age 20. Rejected.
+hh 12: Sevier, Elbridge G. 63 TN postmaster; Martha E. 62 MO; Joseph 20;
+        Waters, Lillie servant 34 M 16yrs 5/1 KY servant.
+        KY + age 34 is one identifier only. Given Lillie; 5/1 vs 7/5; servant in Sevier house;
+        married 16y. Not merged. Rejected as P001.
+Linebarger Cora L. 19. Rejected.
+Verdict: nil P001.
+
+## County-wide 1910 derivative result
+These nine bodies contain **zero** Stone / Newman / Newnam surname rows.
+Combined with Howell/Rankin (pass 68) and the pass-69 opened set, every linked
+ARGenWeb Perry 1910 township *census* page has now been opened. P001 is not on
+that derivative set. Original NARA T624 schedules remain unread (B011).
+
+# Conway County — Book Z + landing (B070)
+
+## Book Z bride table
+URL: https://www.argenweb.net/conway/ccmarrbkzbride.html
+Heading on landing: Conway County Marriages Book Z-Bride, 19 Aug 1925 – 28 Jul 1927.
+Table columns actually run Groom / Age / Bride / Age / Marriage Date / Page (groom-alpha).
+Parsed 633 data rows (plus header). Access: index / transcription only.
+
+**No** Newnam / Newman party (groom or bride).
+**No** bride Dora / Ella Newnam × Stone.
+**No** T. A. / Tom / Thomas Stone groom.
+
+Stone parties (all fail same-person test):
+  Ingram, Dock 22 × Stone, Ola 18, 23 May 1926, p. 290
+  Michan, Ernest 18 × Stone, Sybil 18, 15 May 1926, p. 285
+  Richardson, Samuel 19 × Stone, Olie 19, LD-1 May 1926 Not Executed, p. 43
+  Stone, Dock 37 × Barnes, Naomi 20, 3 Oct 1926, p. 393
+        (groom Stone; bride Naomi 20; date after P001 death 23 Aug 1926)
+
+Given-name near-hits rejected:
+  Maxwell, Lando 21 × Greer, Dora 18, 24 Jan 1927, p. 500 — age 18; after death
+  Smith, T. R. 52 × Goforth, Ella (Mrs.) 39, 25 Sep 1925, p. 39 — Ella 39 vs ~54; already Mrs. Goforth
+  Williams, J. T. 46 × Curtis, Dona (Mrs.) 36, 9 Sep 1925, p. 18 — Dona 36 vs ~54
+  Phillips, B. B. 58 × Page, Nora 50, 19 Feb 1927, p. 519 — Nora; after death
+  Washington, J. 49 × Smith, Rosa 52, 30 Dec 1925, p. 176 — Rosa; already Smith
+Age 48–58 brides on the table are Gregory / Duncan / Bolden / Jackson / Parker /
+Lowe / Logan / Reynolds / Page / Williams / Mitchell / Smith / Wilds — none Newnam/Stone.
+
+Book Z groom page `ccmarrbkzgroom.html` is HTTP 404. The marriages landing
+mis-links “Book Z-Groom” to the Book Y groom file (already nil’d pass 69).
+
+## Conway marriages.htm (current ARGenWeb)
+https://www.argenweb.net/conway/marriages.htm (200, 8769 bytes)
+Posted books in the m2 window: W, X, Y, Z only. **No** Book AA / later letter.
+Books A/B and a 1891 list are 19th-century (outside this hunt).
+
+## Conway nodates.htm (year-hole host)
+https://www.argenweb.net/conway/nodates.htm (200)
+Page states submissions are Conway residents **prior to 1914**.
+Named couples: Watkins/Andrews; Andrews/Barns; Cooksey; Gordon/Walker;
+Hansell × Ella (Eller) May Powell Gardenhire; Harness; Hendrixson; Hodge;
+Hood/Maxwell; Macnew 1934; Powell; Stout; Williams/Brewer; Williams/Polk;
+Williams/Tucker; William/Maxwell.
+**No** Dora / Newnam / Newman / Stone. The one Ella is Gardenhire — rejected.
+
+Verdict: Conway posted books covering 26 Oct 1919 – 28 Jul 1927 (W–Z) have
+**no** Dora Newnam × T. A. Stone. Residual m2 license = Yell 1920–25 / statewide AR / unread clerk books.

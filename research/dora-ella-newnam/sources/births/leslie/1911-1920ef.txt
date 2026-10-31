@@ -1,0 +1,356 @@
+Leslie County Births from 1911-1920
+Each listing includes childs names, date of birth, mothers name,
+volume number, volume year and certificate number.
+
+
+ EAKLES             MORRIS                          11        19      1919 CALWELL            NANIE                      105       52056               1919
+
+| EASTRIDGE          HARVY                            7        31      1919 JACKSON            LAURA                      65        32241               1919
+
+| ECKLES             LASSIE                           2        29      1916 CALWELL            NANNIE                     23        11435               1916
+
+| ECKLES             MORRIS                          11        19      1919 COLDWELL           NANNIE                     74        36781               1944
+
+| EDGINDY            HERMAN                           9        21      1915 WOOTON             MARTHA                     100       49639               1915
+
+| EDMAND             RUBY                            10        24      1914 ROBERTSON          DARA                       104       51561               1914
+
+| EDWARDS            SALLIE                           8        10      1911 BEGLEY             BERTHA                     100       39694               1911
+
+| EDWARDS            MAE                              9         8      1913 BEGLEY             MARY                       189       91285               1965
+
+| EKLES              HARLAN                           9         8      1917 CALWELL            NANIE                      93        46498               1917
+
+| ELAM               ROSCOE                           9        26      1912 EVERSOLE           MOLLIE                     136       54300               1912
+
+| ELAM               MARTHA             E             1        13      1915 EVERSOLE           MOLLIE                     7         3253                1915
+
+| ENGLAND            BERT                             5         8      1915 VALENTINE          MARY                       49        24458               1915
+
+| ENGLAND            EVELYN                           1         9      1917 VALENTIN           MARY                       7         3160                1917
+
+| ENGLAND            WALDO                            3         1      1919 VALENTINE          MARY                       194       92090               1974
+
+| ENGLE              IDA                              1        10      1915 NORTH              LUCY                       7         3256                1915
+
+| ENGLE              FRED                             3        29      1916 BAKER              SALLIE                     88        43841               1916
+
+| ESTEP              LAWERNCE                         4        28      1912 COLLINS            REBECCA                    67        26788               1912
+
+| ESTEP              RAME                             8        12      1912 HENSLEY            EVELINE                    102       40794               1912
+
+| ESTEP              OHLEY                           12        29      1913 ARNETTE            MARY                       2         798                 1914
+
+| ESTEP              LILLY                            6         9      1914 COLLINS            REBECCA                    109       54284               1914
+
+| ESTEP              JAMES                            1         6      1917 COLLINS            REBECCA                    63        31032               1917
+
+| ESTEP              JAMES                           11         5      1917 HENSLEY            EVELINE                    123       61014               1941
+
+| ESTEP              DILLARD                          3         8      1919 ARNETTE            MARY                       56        27926               1919
+
+| ESTEP              HELEN                            5        20      1919 HUBBARD            RELLIE                     98        48805               1924
+
+| ESTEP              GEORGIA                          9        13      1920 HUBBARD            RELLIE                     98        48785               1924
+
+| ESTRIDGE           JOHN               M             3        25      1911 JACKSON            LAURA                      118       47034               1911
+
+| ESTRIDGE           MADISON                          1        18      1915 JACKSON            LAURA                      7         3255                1915
+
+| ESTRIDGE           MARION                          12        31      1916 JACKSON            LAURA                      124       61894               1916
+
+| ESTRIDGE           HARVEY                           7        29      1919 JACKSON            LAURD                      105       52057               1919
+
+| EVERSOL            MARGARET                         2        27      1917 BAKER              NET                        52        25567               1917
+
+| EVERSOLE           WILLIAM            H             6         5      1911 CARNETT            RHODA                      74        29298               1911
+
+| EVERSOLE           CHESTER                          5        28      1912 STACY              MAGGIE                     62        24515               1912
+
+| EVERSOLE           PAUL                             6        15      1913 MORGAN             PHRONA                     122       60765               1913
+
+| EVERSOLE           AUGUSTUS                         8        20      1913 HUFF               PAEMA                      96        47856               1913
+
+| EVERSOLE           ISMA                             1        22      1915 BEGLEY             DOSHA                      7         3262                1915
+
+| EVERSOLE           WILLIE                          10        18      1915 EVERSOLE           PATSY                      126       62616               1943
+
+| EVERSOLE           EVA                              3         8      1916 STACY              MAGIE                      68        33540               1916
+
+| EVERSOLE           GRANVELL                         3        16      1916 HUFF               DERLENA                    30        14971               1916
+
+| EVERSOLE           HALLENA                          9        11      1916 RIELY              ELLMONNY                   52        25584               1917
+
+| EVERSOLE           WILLIAM            R            10        17      1917 MORGAN             SOPHRONA                   124       61589               1917
+
+| EVERSOLE           PAULINE                          4         7      1918 HUFF               ETHEL                      46        22804               1943
+
+| EVERSOLE           MCGREW                           8        23      1918 HUFF               PERLINA                    77        38379               1918
+
+| EVERSOLE           HERBERT                         10         9      1918 BEGLEY             DASHA                      97        48065               1918
+
+| EVERSOLE           SUSAN              B            11        14      1918 COMBS              ANNIE                      119       59182               1918
+
+| EVERSOLE           RUTH                             8        30      1919 BAKER              NETTIE                     83        41320               1919
+
+| EVERSOLE           CLINTUS                         11        19      1919 HUFF               ETHEL                      105       52050               1919
+
+| EVERSOLE           FRED                            11        20      1919 BEGLEY             DACIE                      105       52054               1919
+
+| EVERSOLE           ISAAC                            6         4      1920 COLLINS            FLORENCE                   74        36600               1920
+
+| EVERSOLE           MAUD                            10        18      1920 MARYN              PHRANA                     129       64072               1920
+
+| EWBY               ELLA               N             8        27      1920 SIMPSON            JEMINIA                    94        46844               1920
+
+| FARLER             NANCY                           12        12      1912 JOSEPH             RASSIA                     158       63101               1912
+
+| FARLER             JAMES                            7        11      1913 FARLER             RACHAL                     74        36876               1913
+
+| FARLEY             ARNOLD                           7        11      1913 HAMILTON           RACHEL                     201       93022               1976
+
+| FARLEY             CHLAE                            2        19      1914 WILSON             VICTORIA                   18        8993                1914
+
+| FARLEY             DOCKSID                         12        16      1914 SHEPHERD           LOUISA                     2         525                 1915
+
+| FARLEY             SIDNEY                          12        16      1914 SHEPHERD           LOUIDA                     128       63579               1914
+
+| FARLEY             WILLIE                          12        14      1917 SHEPHERD           LOUISA                     124       61594               1917
+
+| FARLEY             HAZEL                            2         1      1919 NANTZ              BELLE                      27        13232               1919
+
+| FARLEY             SUSAN                           12        24      1920 SHEPHERD           LOUISE                     129       64084               1920
+
+| FARMER             F                  1             7        31      1912 NAPIER             MOLLIE                     95        37790               1912
+
+| FARMER             FOREST                           7        15      1913 NAPIER             MOLLIE                     29        14112               1943
+
+| FARMER             LESLIE                          12        12      1915 MORGAN             NANCY                      183       90419               1953
+
+| FARMER             HAROLD             C             3        13      1917 SMITH              SUSAN                      188       91153               1979
+
+| FARMER             EDWARD             N             8         2      1917 NAPIER             MOLLIE                     63        31027               1942
+
+| FARMER             QUENTION                         8         5      1918 MORGAN             SALLIE                     203       93921               1952
+
+| FARMER             FELIX              P             7        11      1919 NAPIER             MOLLIE                     73        36378               1919
+
+| FARMER             EUNICE                           3        16      1920 MORGAN             OPHA                       129       64114               1920
+
+| FARMER             WILLIAM            C            10         4      1920 NAPIER             MOLLIE                     105       52062               1920
+
+| FARNER             WM                 2             1        25      1914 VANOVER            CORA                       8         3693                1914
+
+| FATHU              JOHN               L             4         3      1915 NAPIER             LENA                       43        21197               1915
+
+| FAUCH              MALVERY                          5        17      1919 MAGGARD            LINDA                      56        27889               1919
+
+| FEE                JAMES                            8        15      1911 FEE                MARY                       100       39690               1911
+
+| FEE                MARY               1             8        15      1911 FEE                MARY                       100       39691               1911
+
+| FEE                DAVID                           11        30      1913 LAWSON             IDA                        124       61970               1913
+
+| FEE                BETTIE                           2        24      1914 FEE                POLLY                      19        9005                1914
+
+| FEE                LLOYD                            8        19      1914 LAWSON             MARY                       2         520                 1915
+
+| FEE                MANFORD                         10        16      1914 FEE                SUDA                       104       51553               1914
+
+| FEE                JOHN                             6        27      1916 MORGAN             ADA                        63        31237               1916
+
+| FEE                MARTHA                           3         2      1917 FEE                MARY                       28        13999               1917
+
+| FEE                JOHN                             6         9      1918 DIXON              ADA                        57        28311               1918
+
+| FEE                VINNIE                          11         7      1919 FEE                NANCY                      105       52042               1919
+
+| FEE                WILLIAM            B            11        19      1919 COLWELL            IDA                        105       52040               1919
+
+| FEE                SUDA                            11        22      1920 HOSKINS            DORA                       189       91240               1969
+
+| FEETNER            DESSIE                           8         3      1914 CAMPBELL           LEWSINDY                   82        40559               1914
+
+| FEISTER            CHARLIE                          7         6      1918 NANTZ              MILA                       67        33481               1918
+
+| FELTNER            ALBERT                           2        23      1911 NANTZ              EMILY                      134       66700               1942
+
+| FELTNER            RALPH                            8        24      1911 BENTLEY            ORPHA                      100       39697               1911
+
+| FELTNER            ETHEL                            2         6      1912 HOSKINS            AMELIA                     21        8381                1912
+
+| FELTNER            LESTER                           2        23      1912 COLWELL            LUCINDA                    40        15642               1912
+
+| FELTNER            WILLIAM            S            12        20      1912 BAKER              POLLY                      158       63109               1912
+
+| FELTNER            LULA                             4        25      1913 SIZEMORE           LAURA                      78        38583               1913
+
+| FELTNER            EDITH              F             6         9      1913 MAGGARD            ONA                        64        31946               1913
+
+| FELTNER            FERN                             6        16      1913 MAGGARD            ONA                        122       60767               1913
+
+| FELTNER            WM                 A             7        28      1913 HOWARD             ORTENA                     122       60842               1913
+
+| FELTNER            BOYED                            9         2      1913 STATCHLER          RILDA                      12        5537                1914
+
+| FELTNER            BLANCHE                         10        11      1913 HARTAN             RENA                       12        5568                1914
+
+| FELTNER            MORRIS                           5        28      1914 BAKER              POLLY                      121       60156               1914
+
+| FELTNER            ELBERT                           6         5      1914 SIZEMORE           LAURA                      134       66698               1942
+
+| FELTNER            DON                              8        28      1914 NANTZ              ENNA                       121       60161               1914
+
+| FELTNER            ELMER              E             8        31      1914 HOSKINS            AMELIA                     74        36778               1944
+
+| FELTNER            GEORGE             E             8        31      1914 HOSKINS            MEALY                      121       60162               1914
+
+| FELTNER            LELIA              V             1         5      1915 MAGGARD            ONA                        7         3252                1915
+
+| FELTNER            SADIA                           10        15      1915 BENTLEY            ORPHA                      107       53026               1915
+
+| FELTNER            FANNY                           12        28      1915 HORTON             RENA                       133       66042               1915
+
+| FELTNER            EDGAR                            6        29      1916 LEWIS              FANNIE                     68        33555               1916
+
+| FELTNER            CHESMEY                          7         8      1916 STATURE            SARILDA                    78        38561               1916
+
+| FELTNER            HOBART                           8        24      1916 HOSKINS            AMELIA                     46        22541               1942
+
+| FELTNER            DOCIE                            9         7      1916 CAMPBELL           SINDY                      94        46884               1916
+
+| FELTNER            ENOS                            10         6      1916 LEWIS              SARAH                      124       61876               1916
+
+| FELTNER            BARLOW                           8        24      1917 BAKER              PALLY                      83        41375               1917
+
+| FELTNER            ELSIE              M            10         3      1917 MAGGARD            ONIA                       124       61607               1917
+
+| FELTNER            MARCUS                          12        31      1917 MAGGARD            NANNIE                     74        36783               1944
+
+| FELTNER            JOHN               H             1         6      1918 NANTZ              EMILY                      6         2784                1918
+
+| FELTNER            FAE                              2        14      1918 BENTLEY            ORPHA                      26        12544               1918
+
+| FELTNER            MANUEL                           8        25      1918 HOWARD             ORLENA                     87        43128               1918
+
+| FELTNER            DEWEY                           12        10      1918 CAMPBELL           SINDA                      119       59227               1918
+
+| FELTNER            FRONIE                          12        30      1918 STATCHEL           MYREDY                     119       59192               1918
+
+| FELTNER            MAY                              2         6      1919 HOSKINS            MELLIE                     56        27908               1919
+
+| FELTNER            LIZA               J             4        17      1919 BOWLING            GEORGAN                    56        27917               1919
+
+| FELTNER            GRACE                            7        14      1919 HORTON             IRENE                      116       57966               1942
+
+| FELTNER            NOLA               P            12        23      1919 LEWIS              LAURA                      117       58169               1919
+
+| FELTNER            EFFA                            11        21      1920 STIDHAM            MARTHA                     116       57965               1920
+
+| FELTNER            VERNA                           11        22      1920 BENTLEY            ORPHA                      116       57952               1920
+
+| FIELD              MARIE                           10         1      1920 FIELD              SINDO                      129       64108               1920
+
+| FIELDS             CARL                             2        12      1911 ADAMS              JUDA                       168       83776               1942
+
+| FIELDS             MAE                             12         1      1911 BEGLEY             MABVERY                    168       83794               1942
+
+| FIELDS             LULA                             4        20      1912 WELLS              REBECCA                    190       91522               1954
+
+| FIELDS             MERTLE                           9        10      1913 KILBURN            MARKET                     1         200                 1914
+
+| FIELDS             SILVA                           10        17      1913 LEWIS              REBECCA                    123       61334               1913
+
+| FIELDS             PEARLIE                          2        20      1914 WELLS              REBECCA                    18        8999                1914
+
+| FIELDS             LILLIA                           4        19      1914 BEGLEY             MALNORY                    121       60151               1914
+
+| FIELDS             SESSIE                           6        23      1914 WOOTON             IDA                        61        30018               1914
+
+| FIELDS             MATTILDA                        12         2      1914 FIELDS             ALAS                       128       63588               1914
+
+| FIELDS             GRACE              H            12         4      1914 FIELDS             MAGGIE                     216       96209               1951
+
+| FIELDS             MAE                             10        19      1915 HART               LAURA                      126       62598               1943
+
+| FIELDS             MALLEY                          11         8      1916 WELLS              REBECKY                    114       56660               1916
+
+| FIELDS             LEWIS                           11        20      1916 FIELDS             ALICE                      124       61885               1916
+
+| FIELDS             LUCY                             4         6      1917 BEGLEY             MAGIE                      40        19876               1917
+
+| FIELDS             DAYL                             4        26      1917 ADAMS              JUDA                       52        25590               1917
+
+| FIELDS             ALICE                            5        13      1917 JONES              LIZZIE                     188       91092               1980
+
+| FIELDS             ROY                              7        21      1917 LEWIS              REBECCA                    83        41374               1917
+
+| FIELDS             ISABELL                          8        18      1917 BEALEY             MALVY                      83        41376               1917
+
+| FIELDS             MARY               A            11        11      1917 YOUNG              MAGGIE                     124       61592               1917
+
+| FIELDS             STELLIE                          3        10      1918 FIELDS             LATTY                      26        12530               1918
+
+| FIELDS             LOGAN                            4         1      1918 HEART              CORA                       87        43105               1918
+
+| FIELDS             WILLIAM                          5        13      1918 JANES              LORAIN                     87        43089               1918
+
+| FIELDS             JENNIE                           6        10      1918 WELLS              REBECCA                    57        28334               1918
+
+| FIELDS             NELLIE                          12        29      1918 HUFF               ORPHIA                     119       59224               1918
+
+| FIELDS             FANNIE                          12        31      1918 SMITH              LAURA                      119       59214               1918
+
+| FIELDS             HELLA                            9        14      1919 BOGGS              CLIRINDA                   94        46644               1919
+
+| FIELDS             HENRY                            3        13      1920 KILBURN            MARGET                     41        20415               1920
+
+| FIELDS             VISTIVE                          8        19      1920 YOUNG              MAGGIE                     129       64102               1920
+
+| FIELDS             GEORGE             W             9        16      1920 HART               LAURA                      129       64090               1920
+
+| FIELDS             FRANCIS                         11        13      1920 HUFF               ORPHA                      116       57964               1920
+
+| FIELDS             ABJAH                           12        30      1920 WYATT              FRANCIS                    129       64083               1920
+
+| FIELDS             MYRTLE                          12        30      1920 WYATT              FRANCIS                    129       64082               1920
+
+| FINLEY             SIM                              7        21      1915 ARNETT             FRANCIS                    46        22788               1943
+
+| FLESHER            LESLIE                           9        28      1912 FLESHER            UNKNOWN                    124       49285               1912
+
+| FORESTER           FLORENCE                         4        20      1917 NAUTZ              MILEY                      40        19869               1917
+
+| FORLER             HARLACE                          4         5      1918 JOSEPH             CASEY                      77        38387               1918
+
+| FORRESTER          LIZZA                           12         4      1917 BEGLEY             EVA                        124       61601               1917
+
+| FORSTER            LAWRENCE                         4        29      1920 BEGLEY             EVA                        41        20421               1920
+
+| FOSTER             ZILPHA             S            12         5      1917 BAGLEY             EVA                        12        5626                1943
+
+| FOSTER             SYLVIA             D            12         5      1920 BEGLEY             EVA                        197       92462               1985
+
+| FOUCH              JAMES                           12         3      1911 MAGGARD            LINDA                      2         530                 1912
+
+| FOUCH              LILLIE                          12         3      1911 FOUCH              LINDA                      2         531                 1912
+
+| FOUCH              DELLY                           12        23      1914 MAGGARD            LINDA                      12        5517                1915
+
+| FOUGHT             EVERETT            F            10        28      1913 CRAWFORD           RACHEL                     187       91059               1957
+
+| FRANCE             ESTILL                           3         2      1914 VANOVER            MARTHA                     184       90593               1957
+
+| FRANCE             BETHEL                          10        20      1919 FRANCE             NINA                       94        46647               1919
+
+| FRANCIS            GILLUS             T             8         3      1918 DAY                SIELER                     134       66696               1942
+
+| FRAZER             BECAN                           11        17      1915 ALLEN              JENETTIE                   124       61833               1915
+
+| FRAZIER            BEATRICE                        11        10      1914 ALLEN              JEANETTIE                  192       91682               1973
+
+| FUAET              BEARY              1             4        16      1916 JOHNSON            IDA                        42        20695               1916
+
+| FUGET              LAYMAN                           3        19      1914 CALWELL            POLLY                      35        17354               1914
+
+| FUGETE             LIZA                             5        20      1920 COMBS              BECKY                      116       57945               1920

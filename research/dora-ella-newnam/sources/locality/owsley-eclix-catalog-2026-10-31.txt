@@ -1,0 +1,23 @@
+Owsley County Clerk online records, 31 Oct 2026. B057 remaining free path (no phone).
+
+https://owsley.countyclerk.us/online-records/  HTTP 200, 321828 bytes.
+Software Management / eCCLIX:
+  Commercial User — subscription fee; multi-county.
+  Private User — "Owsley County residents seeking to search for personal reasons";
+    Owsley-only; five searches per day; no charge.
+This session did not create an account and did not attest residency.
+CSV embedded on /records/ is GitHub candidate-filings (Owsley.csv), not marriages.
+
+https://owsley.countyclerk.us/records/  HTTP 200 — recording-fee / how-to pages; no browsable 1911–17 marriage book.
+
+Clerk contact listed on the site (not called): Austin Bowling, 20 Main Street, PO Box 500,
+Booneville KY 41314; (606) 593-5735; austin.bowling@ky.gov.
+Instruction: do not re-call logged phones.
+
+FamilySearch wiki Owsley (WebSearch snippet; FS wiki Incapsula if fetched):
+  compiled title "Owsley County, Kentucky Marriages 1831-1954" listed;
+  Ancestry collection 1117 *About* text lists Owsley coverage
+  1852–1859, 1874, 1876–1879, 1903–1904, 1908–1910 — not 1911–1917.
+  That About list was not an Ancestry search; catalog only.
+
+Combs-families Owsley 1911.htm fetched separately (S324): Combs FAN, not a marriage book.

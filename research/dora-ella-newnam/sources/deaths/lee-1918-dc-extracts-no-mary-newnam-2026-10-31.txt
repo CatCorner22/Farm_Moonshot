@@ -1,0 +1,7 @@
+# Extract: Lee County Kentucky Death Certificates 1918
+# https://usgennet.org/usa/ky/county/lee/deaths/1918.html
+# Captured 31 Oct 2026. HTTP 200, 67018 bytes. Transcription only.
+
+Full-text search of the opened page for Newnam / Newman / Smallwood / Dora Stone: no matching decedent.
+Nearest given-name collision: Mary A. Botner (not Newnam).
+Mary A. Newnam (stone 11 Jul 1918, Brandenburg-Quillen) is NOT among the photographed/transcribed 1918 Lee certificates on this page.

@@ -1,0 +1,21 @@
+# B049 remaining free/digital path, 31 Oct 2026. Did not re-call any logged phone.
+
+1. Internet Archive Solr title:(Dardanelle Post-Dispatch) AND year:1926
+   https://archive.org/advancedsearch.php?... output=json
+   HTTP 200. numFound: 0. File: ia-dardanelle-1926-solr-2026-10-31.json
+
+2. Internet Archive Solr "Dora Stone" OR "Posa Stone" AND 1926 AND (Ola OR Yell OR Beattyville)
+   HTTP 200. numFound: 0. File: ia-posa-stone-1926-solr-2026-10-31.json
+
+3. Chronicling America lccn/sn89051008.json (Dardanelle Post=dispatch)
+   HTTP 403 Cloudflare interstitial. Title exists in the catalog (190?–1976)
+   from WebSearch snippet; issue list not opened. No 1926 page image seen.
+
+4. Prior already logged (do not redo as new searches): IA beatty six issues
+   omit 1926; UK film years omit 1926; GT Yell obits landing nil;
+   IA Solr Yell County Journal 1926 = 0.
+
+Still unread: Newspapers.com Beattyville Enterprise Aug–Sep 1926;
+UK S 90-033 (no 1926 year on catalog); AR State Archives /
+Pope County Library / UArk *Yell County Journal* and *Dardanelle
+Post-Dispatch* Aug–Sep 1926 on film. Phone already recorded — do not re-ask.

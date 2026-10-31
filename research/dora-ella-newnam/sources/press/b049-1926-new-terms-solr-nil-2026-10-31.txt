@@ -1,0 +1,16 @@
+B049 remaining free hosts, NEW terms/collection (not the C335 queries). 31 Oct 2026.
+Did not re-call the logged phone. Did not re-hit IA Solr Dardanelle Post-Dispatch 1926
+or Dora/Posa Stone 1926. Did not re-hit LOC lccn JSON (prior 403).
+
+IA advancedsearch.php JSON (HTTP 200 each):
+  "Carter Cove" AND year:1926                         numFound 0
+  "Carters Chapel" AND year:1926                      numFound 0
+  title:("Yell County Record") AND year:1926          numFound 0
+  "Coy Newnam" AND year:1926                          numFound 0
+
+digitalheritage.arkansas.gov/death-records-index/  — DNS fail from this VM
+  (curl: Could not resolve host). Collection exists per WebSearch
+  ("In Remembrance" death index 1812–2006, letter files S-T / M-O).
+  Not examined. Residual B065.
+
+WorldCat Hollingsworth 2002 logged under B062/S327 — print, not a 1926 paper.

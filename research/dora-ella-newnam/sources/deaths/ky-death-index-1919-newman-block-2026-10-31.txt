@@ -1,0 +1,31 @@
+# Extract: Kentucky statewide death index 1919
+# Same IA item. File: ..._01919.TXT. Downloaded 31 Oct 2026. HTTP 200, 3,744,023 bytes. Index only.
+# ZERO rows spelled NEWNAM.
+# NEWMAN Mary: MARY L 61 FLOYD 01/12/1919 and duplicate 59 FLOYD same date — not P005.
+# Near-hit NOT merged: SMALLWOOD MARY age 76 CLAY 07/17/1919 vol 041 #20470.
+# Same-person vs P005 (stone 11 Jul 1918, married Newnam, burial Heidelberg Lee) fails:
+#   surname SMALLWOOD vs NEWNAM; county CLAY vs Lee burial; year 1919 vs 1918; day 17 vs 11.
+# Age 76 is close to b. Apr 1842. Keep separate. SPECULATIVE collision only.
+
+NEWMAN          ALBERT              70       JEFFN                   11/14/1919 061  30263 /1919
+NEWMAN          BUD                 53       CARTR                   05/06/1919 032  15538 /1919
+NEWMAN          CATHREN             87       HANCK                   04/07/1919 037  18258 /1919
+NEWMAN          E          1       U/1       SHLBY                   08/19/1919 049  24441 /1919
+NEWMAN          ELLEN               75       FYETE                   09/30/1919 051  25135 /1919
+NEWMAN          EMMA       F        54       FRNKL                   10/18/1919 055  27320 /1919
+NEWMAN          FREDA               11       KENTN                   04/26/1919 029  14085 /1919
+NEWMAN          GEORGE              61       JEFFN                   11/25/1919 061  30147 /1919
+NEWMAN          MARY       L        61       FLOYD                   01/12/1919 003  01334 /1919
+NEWMAN          MARY       L        59       FLOYD                   01/12/1919 012  05620 /1919
+NEWMAN          MERILLA    J        65       BALLD                   07/01/1919 041  20029 /1919
+NEWMAN          MILES                9       HNDSN                   05/04/1919 033  16089 /1919
+NEWMAN          MINERVA    E        83       RBTSN                   11/14/1919 063  31039 /1919
+NEWMAN          NICOLAS             55       JEFFN                   04/08/1919 028  13896 /1919
+NEWMAN          REVA       C       U/1       KNOX                    02/11/1919 014  06998 /1919
+NEWMAN          RUTH       A         3       MLNBG                   01/21/1919 008  03542 /1919
+NEWMAN          VAN        B        80       HNDSN                   12/07/1919 065  32464 /1919
+NEWMAN          WASH                42       CRSTN                   02/11/1919 011  05250 /1919
+NEWMAN          WILLIAM    T        31       JEFFN                   02/23/1919 022  10729 /1919
+SMALLWOOD       BEN        A         4       PIKE                    12/28/1919 068  33684 /1919
+SMALLWOOD       MARY                76       CLAY                    07/17/1919 041  20470 /1919
+SMALLWOOD       RUDY                 4       LNCLN                   03/17/1919 023  11370 /1919

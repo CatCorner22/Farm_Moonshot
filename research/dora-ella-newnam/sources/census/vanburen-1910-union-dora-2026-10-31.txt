@@ -1,0 +1,46 @@
+# Extract — Van Buren Co. AR 1910 Union + Red River (year-hole / 1910 placement, B072)
+# 31 Oct 2026. ARGenWeb vanburen/Census/1910/. Transcription only.
+# Did not refetch Perry 1910. New host pages for Apr 1910.
+
+## Files
+1910index.html   Red River & Union heads. Newman Union p.35 only.
+                 Zero Stone / Dora / Ella / Posa / Newnam heads.
+1910rr.htm       Red River 25 Apr 1910 (Ernest M Levell). Nil P001.
+1910union1.htm   Union 25a–b  15 Apr (Riley W. Quattlebaum)
+1910union2.htm   26a–b
+1910union3.htm   27a–b
+1910union4.htm   27b–28b
+1910union5.htm   29a–30a
+1910union6.htm   30b
+1910union7.htm   31a–b
+1910union8.htm   32a–b
+1910union9.htm   33a–b
+1910union10.htm  34a–b
+1910union11.htm  35a–36a  (index Newman p.35)
+
+Union after 36a and other 1910 township bodies (Bloodworth / Cadron / Davis /
+Griggs / Hartsugg / Linn Creek / Mountain / Sulphur Springs / Washington /
+Choctaw / Grove) not opened this pass → B073.
+
+## Index Newman Union p.35 = 1910union11.htm hh 168/173
+Newman, Wiliam S.  head  m w 38 m1 18  Ar/Ms/?   farmer
+Laura? E.          wife  f w 33 m1 18  7/4  Ar/Ar/Ar
+Mary M             dau   8
+Roseana? G.        dau   5
+Thomas K.          son   3
+John W.            son   1y1mo
+Swafford, John W.  BIL   26 S  Ar
+No Dora in the house. Local cluster (not P001; not Coy).
+
+## Other 1910 Union Dora/Ella hits (rejected)
+union4 hh 51: Fitzgerald, Frank 43 Mo + Dora wife 39 Mo/Ky/Mo m1 20 8/5
+  children Archey 15 / Lamont 12 / Francis 8 / Edith 4 / Earnest 1 (all Mo).
+union5 hh 65: Simpkins, Stephen M. 51 + Dora wife 49 Ar/Tn/Ga m1 32 11/8
+  Matty / John R / Alvin / Alice / Frank / Homer / Bitha (all Ar).
+union6 hh 87: Bradbury, Dora head 34 S Va/Eng/Va farmer.
+union8 hh 121: Blackburn, James W. 33 Ar + Dora wife 35 Ar/Tn/Ar m1 14 4/4
+  Albert C / Lela / Lem / Audie C. Same couple as 1920 Union Blackburn + Dora 44.
+
+## Verdict
+Opened 1910 Union 25a–36a + Red River: nil P001 ~38. Newman p.35 is William S.
+Residual other Van Buren 1910 township bodies → B073.

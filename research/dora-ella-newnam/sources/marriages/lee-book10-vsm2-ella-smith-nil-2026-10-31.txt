@@ -1,0 +1,18 @@
+Lee Marriage Book 10 (1912–1914) + VS marriages 1907–1910
+Test of SMITH, Frances / mother NEWMAN, Ella / 29 May 1914 (Lee births S).
+31 Oct 2026. Transcription only.
+
+marrbook10.html  HTTP 200, 181765 B
+  https://usgennet.org/usa/ky/county/lee/marriage/marrbook10.html
+  Exact: Dora, Ella, Newman, Newnam, Smith (as party).
+  **No** Dora/Ella Newnam/Newman bride.
+  **No** Smith groom × Ella/Dora Newman.
+  Dora brides rejected: STAMPER, TAYLOR, GABBARD, HALL (C311 cluster).
+  Ella MCINTOSH only Ella bride.
+  FAN: Luther Newnam witness; Louann/Richard/Dema/Demia Newnam as parents of others.
+
+vsm2.html  HTTP 200, 69812 B  (1907–1910 vital-statistics marriages)
+  https://usgennet.org/usa/ky/county/lee/marriage/vsm2.html
+  2 Oct 1907  G.B. BARRETT 23 × Dora PALMER 18 (2nd), res. Owsley — age 18 vs P001 ~36
+  11 Jul 1910 Newton PENCE 33 × Dora COMBS 30 (2nd), res. Wolfe — Wolfe-born
+  **No** Newnam/Newman bride.

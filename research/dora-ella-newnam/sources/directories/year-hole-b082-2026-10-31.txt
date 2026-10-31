@@ -1,0 +1,245 @@
+B082 / pass 82 — Clay remaining A–J/T–Z + Rockcastle A/C/G/U + new-host catalogs — 31 Oct 2026
+Access: transcription / catalog. No Van Buren original seen.
+No FS/Ancestry credentials. DAS image.jpg not re-hit. po0066/po0067 not re-downloaded.
+
+== fetch summary == ok=109 skip_existing=0 fail=0
+
+== Clay remaining births A–J / T–Z ==
+files=57 data_rows~6570
+MOTHER Dora/Ella/Posa + Newnam/Newman/Stone: 0
+child NEWMAN/NEWNAM: 0
+child STONE: 0
+any mother given Dora/Ella/Posa (other surnames): 112
+  1911a-c.htm: child BISHOP RHODA / mother FELTY DORA
+  1911a-c.htm: child BURNS DORA / mother GAY ELLA
+  1911a-c.htm: child BURNS VERNON / mother BURNS DORA
+  1911a-c.htm: child CRAFT THOMAS / mother PORTER DORA
+  1911d-g.htm: child GILBERT LINCOLN / mother CRANK DORA
+  1911t-z.htm: child TAYLOR LILLY / mother MILLS ELLA
+  1912d-f.htm: child DAVIDSON DENNIE / mother WEBB DORA
+  1912d-f.htm: child DAVIDSON SALLIE / mother LEDFORD ELLA
+  1912g-h.htm: child GREEN DONALD / mother COMBS DORA
+  1912g-h.htm: child GREER EVA / mother REED DORA
+  1912g-h.htm: child HAYRE ALONZO / mother PHILPOT ELLA
+  1912g-h.htm: child HOUSE DORIS / mother BOWLING DORA
+  1912t-y.htm: child WILSON LUCY / mother BAKER ELLA
+  1913a-c.htm: child BISHOP JESSE / mother FELTY DORA
+  1913a-c.htm: child CLARK MINNIE / mother FREDRICK ELLA
+  1913d-g.htm: child DEZARN EARL / mother LOVINS ELLA
+  1913d-g.htm: child FIELDS MARIE / mother PARKER DORA
+  1913d-g.htm: child GILBERT BERTHA / mother CRANK DORA
+  1913h-k.htm: child HOUSE EARL / mother HOUSE DORA
+  1913h-k.htm: child JORDAN FLORA / mother SWAFFORD ELLA
+  1913t-y.htm: child WILSON WOODROW / mother BAKER ELLA
+  1914a-c.htm: child ALLEN FLORA / mother GREER DORA
+  1914a-c.htm: child CLARKSON JOHN / mother MCDANIEL DORA
+  1914a-c.htm: child COLLETT CORINE / mother SMITH DORA
+  1914d-h.htm: child GREEN LINA / mother WYATT DORA
+  1914d-h.htm: child GREEN MARY / mother COMBS DORA
+  1914d-h.htm: child GREER ELMO / mother REED DORA
+  1914d-h.htm: child HALL ALFRED / mother BRANDENBERG DORA
+  1914d-h.htm: child HOUSE AUTHAR / mother BOWLING DORA
+  1914i-m.htm: child LAWS BEATTRESS / mother SMITH DORA
+  1914i-m.htm: child LEWIS CLEO / mother BOWLES DORA
+  1915a-b.htm: child BIRCH THOMAS / mother THOMSON ELLA
+  1915c-f.htm: child DAVIDSON HENRY / mother DUNN ELLA
+  1915c-f.htm: child ENGLAND DANIEL / mother LEDFORD DORA
+  1915g-h.htm: child GABBARD JOHNNIE / mother RUTHERFORD DORA
+  1915g-h.htm: child GABBARD MAGGIE / mother RETHERFORD DORA
+  1915i-m.htm: child LONGHRAN MAY / mother ABNER ELLA
+  1916a-b.htm: child ALLEN ELLENER / mother ABNER DORA
+  1916a-b.htm: child BISHOP CHARLEY / mother FELTY DORA
+  1916a-b.htm: child BURNS HENRY / mother BURNS DORA
+
+== Rockcastle remaining A/C/G/U 1911-23 ==
+files=52 rows~3890
+rows with Newman/Newnam: 0
+rows with Stone: 0
+Dora/Ella/Posa AND Newman/Stone same row: 0
+any Dora/Ella/Posa on row: 132
+  1911a.htm: ANDERSON | CONOY | L | na | 1911 | 09 | 18 | HELTON | ROSA | 117 | 46421
+  1911a.htm: BULLOCK | ALZIE | I | na | 1911 | 05 | 22 | BULLOCK | ROSA | 064 | 25580
+  1911g.htm: GRANS | DARE | 2 | na | 1911 | 04 | 14 | WRAN | ROSA | 051 | 20222
+  1911g.htm: GRAVES | ROSA | E | na | 1911 | 11 | 07 | MCKENNEY | ELLEN | 142 | 56580
+  1911g.htm: HARDIN | PAUL | L | na | 1911 | 07 | 19 | DEES | DORA | 118 | 47167
+  1911g.htm: HOPKINS | IDA | M | na | 1911 | 01 | 23 | DAVIS | ROSA | 010 | 03960
+  1911g.htm: HOWARD | ELIGALE | B | na | 1911 | 04 | 15 | GROSS | DORA | 051 | 20251
+  1911g.htm: HOWARD | ROSA |  | na | 1911 | 06 | 11 | HOWARD | AMARICO | 077 | 30417
+  1911g.htm: HYSNGER | LULUA | M | na | 1911 | 10 | 28 | LINSEY | DORA | 145 | 57645
+  1911g.htm: JONES | THOMAS | 1 | na | 1911 | 09 | 28 | OWENS | ELLA | 117 | 46423
+  1911u.htm: WALLEN | ROSA | L | na | 1911 | 02 | 08 | WALLEN | ELLEN | 023 | 08997
+  1912a.htm: BARNES | CLYDE |  | na | 1912 | 11 | 02 | KIRBY | ROSA | 147 | 58706
+  1912a.htm: BOLES | HENRY | B | na | 1912 | 07 | 12 | BURNETT | ROSA | 155 | 77317
+  1912c.htm: CHASTEEN | ROSA |  | na | 1912 | 07 | 16 | HALE | MARGRET | 092 | 36504
+  1912c.htm: DAVIS | ESTER | B | na | 1912 | 02 | 24 | TURNER | DORA | 040 | 15704
+  1912c.htm: DEES | JAMES | O | na | 1912 | 06 | 20 | DEES | ROSA | 078 | 31134
+  1912c.htm: DUNCIL | BOYD |  | na | 1912 | 03 | 04 | BEGLEY | ROSA | 201 | 93085
+  1912c.htm: DURHAM | FLORA | B | na | 1912 | 03 | 06 | VANZANT | ROSA | 037 | 14794
+  1912g.htm: GRIFFIN | ADEN | L | na | 1912 | 07 | 01 | ADAMS | ROSA | 092 | 36472
+  1912g.htm: JONES | LUCELE |  | na | 1912 | 09 | 12 | OWENS | ELLA | 120 | 47766
+  1912u.htm: VANCE | ROSA | E | na | 1912 | 10 | 08 | BROWN | MYRTTE | 134 | 53309
+  1913a.htm: ABNEY | DORA | L | na | 1913 | 05 | 31 | DREW | FANCY | 057 | 28061
+  1913a.htm: ALLEN | PEARLIE | H | na | 1913 | 03 | 17 | HALE | ROSA | 034 | 16633
+  1913a.htm: ANDERSON | MAGGIE | E | na | 1913 | 06 | 28 | JORDAN | DORA | 069 | 34442
+  1913a.htm: BLANTON | CARRIE |  | na | 1913 | 11 | 06 | HELTON | ELLA | 120 | 59981
+  1913a.htm: BROWN | JOE | R | na | 1913 | 05 | 10 | SUTTON | DORA | 057 | 28044
+  1913a.htm: BULLOCK | ALMA | L | na | 1913 | 06 | 17 | BULLOCK | ROSA | 066 | 32887
+  1913c.htm: CLIFT | JOHN | W | na | 1913 | 03 | 18 | JORDON | ELLA | 034 | 16613
+  1913c.htm: DEES | DORA |  | na | 1913 | 02 | 14 | HELLARD | RACHEL | 021 | 10293
+  1913c.htm: FLANERY | HOWARD | P | na | 1913 | 07 | 30 | DONELSON | DORA | 011 | 05061
+  1913c.htm: FLETCHER | HERBERT | C | na | 1913 | 04 | 21 | MARLER | ELLA | 200 | 92889
+  1913c.htm: FRENCH | ROLLIE | G | na | 1913 | 01 | 12 | PACE | ELLA | 023 | 11289
+  1913g.htm: HARDIN | JAMES | S | na | 1913 | 12 | 06 | DEES | DORA | 133 | 66239
+  1913g.htm: HARPER | ELLA |  | na | 1913 | 05 | 03 | NICELY | MARY | 078 | 38770
+  1913g.htm: HELTON | RUTH |  | na | 1913 | 05 | 26 | GOODMAN | ROSA | 068 | 33752
+  1913g.htm: HOWARD | JOE | 2 | na | 1913 | 05 | 07 | GROSS | DORA | 057 | 28050
+  1913u.htm: WELLS | DORA |  | na | 1913 | 08 | 31 | LUNCEFORD | SUBIE | 087 | 43475
+  1914a.htm: ANGLIN | ROSA |  | na | 1914 | 06 | 28 | COOK | MATTIE | 066 | 32555
+  1914a.htm: ARTHUR | DELBERT | H | na | 1914 | 02 | 22 | MCCLURE | ELLA | 021 | 10171
+  1914c.htm: CORDELL | LILLIE | M | na | 1914 | 09 | 05 | SPARKS | ROSA | 095 | 47127
+
+== new year-hole catalogs ==
+catalog/laurel-home-2026-10-31.html: ok bytes=28854 hrefs=53 interesting=births/index.htm;death_cert.html;census/index.html;http://www.census-
+online.com/links/;deaths/index.htm;marriages/index.html;http://www.rootsweb.com/~census/
+catalog/knox-home-2026-10-31.html: ok bytes=4935 hrefs=33 interesting=Births/Births.html;Census/Census.html;Death-Certificates/Death-Index.html;Marriage-Certificates/index.html
+catalog/whitley-home-2026-10-31.html: ok bytes=5391 hrefs=25 interesting=./births/births.html;./Census/census.html;./deaths/deaths.html;./Marriages/marriages.html
+catalog/leslie-home-2026-10-31.html: ok bytes=10032 hrefs=46 interesting=birth/index.htm;census.htm;death/index.htm;marriage/index.htm
+catalog/magoffin-home-2026-10-31.html: ok bytes=18094 hrefs=40 interesting=births/index.htm;deaths/index.html;census/1870/1870.html;marr_groom.html;marr_bride.html;http://www.kykinfolk.com/carroll/OrderVitals.htm
+catalog/ashley-home-2026-10-31.html: ok bytes=12378 hrefs=39 interesting=census/ashleycensus.html;deaths/deathindex.htm;marriage/marriageindex.html;history/1918-1920statepenitentiaryinmates.htm
+catalog/drew-home-2026-10-31.html: ok bytes=8135 hrefs=45 interesting=Census/census.html;Deaths/death.html;Marriages/marriage.html;dc1920.html
+catalog/bradley-home-2026-10-31.html: ok bytes=22375 hrefs=122 interesting=census/index.html;marriage/marriage_bonds.htm;marriage/index.html;marriage/1940.html;marriage/index.html;marriage/brides_w.shtml;marriage/grooms_f.shtml;marriage/later_b_c_brides.html;census/1880census1.html;marriage/later_o_grooms.html;marriage/grooms_v.shtml;marriage/grooms_w.shtml;marriage/grooms_o.shtml;http://www.rootsweb.com/~usgenweb/ar/bradley/census/1880/0000read.htm;indexes/1920index.html
+catalog/sebastian-home-2026-10-31.html: ok bytes=8315 hrefs=40 interesting=Births/Births.html;census/Census.html;deaths/death_index.htm;marr/MARRIAGES.html
+
+== tighter Dora/Ella/Posa mothers (remaining files only) ==
+Clay remaining Dora/Ella/Posa mother rows: 112
+Clay remaining Dora/Ella/Posa mother surnames: ABNER, BAKER, BENGE, BISHOP, BOWLES, BOWLING, BOWMAN, BRANDENBERG, BROWN, BUKER, BURNS, CHILDS, CLARK, COLLITT, COMBS, COPE, CRANK, DANIEL, DELPH, DOWNY, DUNN, EVERSOLE, FELTY, FREDERICK, FREDRICK, GAY, GRAY, GREER, HACKER, HAMMONS, HARRIS, HIBBARD, HOUNSHELL, HOUSE, HOWARD, HUBBARD, HUDSON, ISAACS, JONES, LEDFORD, LOVINS, LUNSFORD, MCDANIEL, MILLER, MILLS, PARKER, PHILPOT, PORTER, REED, RETHERFORD, ROBERTS, RUTHERFORD, SIZEMORE, SMALLWOOD, SMITH, SPURLOCK, STEWART, SWAFFORD, THOMSON, WEBB, WYATT
+
+Rockcastle remaining Dora/Ella/Posa mother rows: 61
+Rockcastle remaining Dora/Ella/Posa mother surnames: BLANTON, BOWMAN, BROWN, CUMMINS, DAVE, DAVIS, DEES, DONELSON, DOOLEY, FARLEY, FIELDS, GADD, GROSS, HART, HELTON, HOPKINS, HOWARD, JONES, JORDAN, JORDON, LAMBERT, LINSEY, MARLER, MCCLURE, MCQUEEN, NICELEY, NICLEY, OWENS, PACE, ROBINSON, STEPP, SUTTON, THOMAS, TURNER
+sample:
+  1911g.htm: HARDIN PAUL / DEES DORA
+  1911g.htm: HOWARD ELIGALE / GROSS DORA
+  1911g.htm: HYSNGER LULUA / LINSEY DORA
+  1911g.htm: JONES THOMAS / OWENS ELLA
+  1912c.htm: DAVIS ESTER / TURNER DORA
+  1912g.htm: JONES LUCELE / OWENS ELLA
+  1913a.htm: ANDERSON MAGGIE / JORDAN DORA
+  1913a.htm: BLANTON CARRIE / HELTON ELLA
+  1913a.htm: BROWN JOE / SUTTON DORA
+  1913c.htm: CLIFT JOHN / JORDON ELLA
+  1913c.htm: FLANERY HOWARD / DONELSON DORA
+  1913c.htm: FLETCHER HERBERT / MARLER ELLA
+  1913c.htm: FRENCH ROLLIE / PACE ELLA
+  1913g.htm: HARDIN JAMES / DEES DORA
+  1913g.htm: HOWARD JOE / GROSS DORA
+  1914a.htm: ARTHUR DELBERT / MCCLURE ELLA
+  1915a.htm: ANDERSON ELBERT / JORDAN DORA
+  1915c.htm: CLIFFORD THELMA / JORDAN ELLA
+  1915c.htm: FRINCH URNES / PACE ELLA
+  1915g.htm: HARDEN ELER / DEES DORA
+  1915g.htm: HILLARD MARTHA / NICELEY DORA
+  1915g.htm: JONES GENEVA / HOWARD ELLA
+  1915u.htm: WILSON JERVEL / FIELDS DORA
+  1916a.htm: BLANTON JONAS / BLANTON ELLA
+  1916a.htm: BOWMAN DENA / BOWMAN ELLA
+
+== new-host index pages ==
+catalog/laurel-births-2026-10-31.html: ok bytes=31437 hrefs=87 years_mentioned=['1911', '1912', '1913', '1914', '1915', '1916', '1917', '1918', '1919', '1920', '1921', '1922', '1923']
+catalog/laurel-deaths-2026-10-31.html: ok bytes=41871 hrefs=76 years_mentioned=['1911', '1912', '1913', '1914', '1915', '1916', '1917', '1918', '1919', '1920', '1921', '1922', '1923', '1924', '1925', '1926']
+catalog/laurel-marr-2026-10-31.html: ok bytes=22303 hrefs=51 years_mentioned=['1905', '1915']
+catalog/knox-births-2026-10-31.html: ok bytes=9734 hrefs=72 years_mentioned=['1901', '1902', '1903', '1904', '1905', '1906', '1907', '1908', '1909', '1910', '1911', '1912', '1913', '1914', '1915', '1916', '1917', '1918', '1919', '1920']
+catalog/knox-deaths-2026-10-31.html: ok bytes=6162 hrefs=44 years_mentioned=['1911']
+catalog/knox-marr-2026-10-31.html: ok bytes=13495 hrefs=114 years_mentioned=['1911']
+catalog/whitley-births-2026-10-31.html: ok bytes=9953 hrefs=66 years_mentioned=['1911', '1920', '1921']
+catalog/whitley-deaths-2026-10-31.html: ok bytes=5117 hrefs=13 years_mentioned=[]
+catalog/whitley-marr-2026-10-31.html: ok bytes=6863 hrefs=39 years_mentioned=[]
+catalog/leslie-births-2026-10-31.html: ok bytes=5226 hrefs=38 years_mentioned=['1911', '1920', '1921']
+catalog/leslie-deaths-2026-10-31.html: ok bytes=6935 hrefs=32 years_mentioned=['1901', '1903', '1904', '1911', '1915', '1918', '1924']
+catalog/leslie-marr-2026-10-31.html: ok bytes=3861 hrefs=15 years_mentioned=['1901', '1903', '1904']
+catalog/magoffin-births-2026-10-31.html: 404-page bytes=0
+catalog/magoffin-deaths-2026-10-31.html: 404-page bytes=0
+catalog/magoffin-marr-groom-2026-10-31.html: 404-page bytes=0
+catalog/magoffin-marr-bride-2026-10-31.html: 404-page bytes=0
+catalog/ashley-deaths-2026-10-31.html: ok bytes=2927 hrefs=5 years_mentioned=[]
+catalog/ashley-marr-2026-10-31.html: ok bytes=23328 hrefs=6 years_mentioned=['1901', '1923', '1924'] HAS_NAME_STRING
+catalog/drew-deaths-2026-10-31.html: ok bytes=4354 hrefs=8 years_mentioned=[]
+catalog/drew-marr-2026-10-31.html: ok bytes=4105 hrefs=9 years_mentioned=[]
+catalog/drew-dc1920-2026-10-31.html: ok bytes=6420 hrefs=4 years_mentioned=['1918', '1920']
+catalog/bradley-1920idx-2026-10-31.html: http404 bytes=0
+catalog/bradley-later-o-grooms-2026-10-31.html: ok bytes=3543 hrefs=3 years_mentioned=[]
+catalog/bradley-marr-2026-10-31.html: ok bytes=11790 hrefs=93 years_mentioned=[] HAS_NAME_STRING
+catalog/sebastian-births-2026-10-31.html: ok bytes=5930 hrefs=34 years_mentioned=['1921']
+catalog/sebastian-deaths-2026-10-31.html: ok bytes=5904 hrefs=20 years_mentioned=['1919']
+catalog/sebastian-marr-2026-10-31.html: ok bytes=6994 hrefs=18 years_mentioned=['1901', '1904', '1908', '1920']
+
+== Laurel births K/O 1911-23 + deaths 1911-21 + Bradley N/S ==
+fetch ok=42 fail=0
+Laurel K/O births files=26 rows~3620
+mother Dora/Ella/Posa + Newnam/Stone: 0
+Newman/Newnam rows: 9
+  1911k.htm: NEWMAN | WILLIAM | H | na | 1911 | 08 | 31 | JONES | MATTIE | 125 | 62420
+  1912k.htm: NEWMAN | CHARLES | R | na | 1912 | 08 | 20 | HARGIS | HATTIE | 109 | 43423
+  1914k.htm: NEWMAN | HAZEL |  | na | 1914 | 07 | 05 | HUGHES | HATTIE | 071 | 35029
+  1916k.htm: NEWMAN | GLADYS | N | na | 1916 | 04 | 01 | HUGHS | HATTIE | 141 | 70390
+  1917k.htm: NEWMAN | CARL |  | na | 1917 | 10 | 31 | HUGHES | HATTIE | 103 | 51497
+  1918k.htm: NEWMAN | REVA | K | na | 1918 | 12 | 08 | BYRLEY | DAISY | 006 | 02836
+  1919k.htm: NEWMAN | EDNA |  | na | 1919 | 06 | 05 | STOVEN | EDYTH | 094 | 46536
+  1919k.htm: NEWMAN | SELDA | R | na | 1919 | 12 | 14 | BYRLEY | DAISY | 117 | 58010
+  1921k.htm: NEWMAN | EUGENE | W | na | 1921 | 02 | 15 | HUGHES | HATTIE | 017 | 08201
+Stone rows: 2
+  1912o.htm: STONE | MABEL | G | na | 1912 | 06 | 12 | HODGE | CORA | 075 | 29973
+  1914o.htm: STONE | WILLIAM | S | na | 1914 | 12 | 06 | BRYANT | HATTIE | 128 | 63652
+Dora/Ella/Posa mothers other surnames: 75
+  1911k.htm: MILLER WILLIAM / KISSING ELLA
+  1911o.htm: SLAGLE IDA / SPARKS DORA
+  1912k.htm: MARTIN LOLA / EATON DORA
+  1912o.htm: OVERBAY GLADYS / ELAM DORA
+  1912o.htm: PARMAN EULA / PARMAN DORA
+  1912o.htm: PROVENCE EDWIN / CORNETT ELLA
+  1912o.htm: SHERMAN EDMON / WYNT DORA
+  1912o.htm: SOUTHERLAND ELIZABETH / JONES DORA
+  1912o.htm: TURNER JAMES / FLOYD DORA
+  1913k.htm: MOORE GLEN / AZHILL ELLA
+  1913o.htm: RIDDLE LEONARD / COX DORA
+  1913o.htm: SEAGLE LEE / SPARKS DORA
+  1913o.htm: SLAGLE LEE / SPARKS DORA
+  1913o.htm: TROSPER JOHN / FLOYD DORA
+  1914k.htm: LEE WILLIAM / UNKNOWN DORA
+  1914k.htm: MCFADDEN HARRY / LEWIS DORA
+  1914k.htm: MCVAY STEPHEN / MOORE DORA
+  1914k.htm: MILLER ROBERT / WARREN ELLA
+  1914k.htm: MILLER ROBERT / WARREN ELLA
+  1914k.htm: MOORE ESTHER / COBB DORA
+  1914k.htm: MOORE OSCAR / LANKAM DORA
+  1914o.htm: PENNINGTON THELMA / PIGG ELLA
+  1914o.htm: SOUTHERLAND EDITH / JONES DORA
+  1915k.htm: KINSER FLORA / STANLEY ELLA
+  1915k.htm: MARCUM FREDDIE / BURNER DORA
+Laurel deaths 1911-21 files=12 table_rows~2251
+name-string rows: 18
+  1912.htm: DAVIS | STELLA |  | 1912 | 10 | 15 | U/1 | 067
+  1912.htm: METCALF | DELLA |  | 1912 | 03 | 24 | 027 | 020
+  1913.htm: HALE | STELLA | C | 1913 | 08 | 24 | 001 | 045
+  1913.htm: MCCARQUE | DORA | B | 1913 | 09 | 29 | 022 | 050
+  1913.htm: MILBURN | DORA | A | 1913 | 03 | 17 | 006 | 030
+  1914.htm: LIVINGSTONE | GEORGE |  | 1914 | 01 | 26 | 037 | 024
+  1914.htm: PATTERSON | DELLA | M | 1914 | 05 | 27 | 001 | 028
+  1914.htm: SPARKS | ESTELLA | S | 1914 | 05 | 12 | 024 | 063
+  1915.htm: HELLARD | MARY |  | 1915 | 09 | 11 | 074 | 046
+  1916.htm: HELLARD | WM | E | 1916 | 09 | 15 | 001 | 048
+  1917.htm: ARNOLD | IDELLA | S | 1917 | 07 | 27 | 046 | 041
+  1917.htm: PINIX | ZELLA |  | 1917 | 01 | 15 | U/1 | 017
+  1917.htm: SMALLWOOD | DAVID | E | 1917 | 10 | 04 | 075 | 057
+  1918lz.htm: SMALLWOOD | EARNEST |  | 1918 | 09 | 18 | 001 | 047
+  1919.htm: MARTIN | STELLA | M | 1919 | 02 | 11 | 013 | 015
+  1920.htm: PHILLIPS | ELLA | O | 1920 | 02 | 22 | 023 | 011
+  1920.htm: WEBB | DELLA |  | 1920 | 03 | 07 |  | 024
+  1921.htm: GARLAND | ELLA | M | 1921 | 09 | 24 | 002 | 041
+Bradley N/S letters:
+  brides_n.shtml: bytes=11548 years=['1910', '1912', '1914', '1915', '1916', '1917', '1918', '1919', '1920', '1925'] name_hits=1
+    <tr><td>Newman, Mary Alice</td><td align=center>20</TD><td>Oliver, Hugh</td><td align=center>21</td><TD>Aug 25, 1936</td><td>Marriage Book P, p. 360</td><td><a href="index.html">Ann Ragsdale</a>  </td
+  brides_s.shtml: bytes=29574 years=['1911', '1912', '1913', '1914', '1915', '1916', '1917', '1918', '1919', '1920', '1921', '1923', '1924'] name_hits=1
+    <tr><td>Stone, Ellen S. &nbsp;<a href="marriage_endnotes.html">*</a> <I>(C)</I></td><td align=center>19</td><td>Hamilton, A. A.</td><td align=center>25</td>
+  grooms_n.shtml: bytes=7646 years=['1910', '1920', '1922'] name_hits=0
+  grooms_s.shtml: bytes=32920 years=['1910', '1912', '1913', '1914', '1915', '1916', '1917', '1918', '1919', '1920', '1921', '1922', '1923'] name_hits=1
+    <tr><td>Stone, E. E.</td><td align=center>24</td><td>Brandon, Nettie</td><td align=center>18</td><td>20 Apr 1903</td><td>Marriage Book E, p. 237</td><td><a href="index.html">Bill Sharp (for JW)</a></t

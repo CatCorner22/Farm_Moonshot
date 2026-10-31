@@ -79,6 +79,68 @@ Wildcard strings to use: `New*m`, `Dor* New*`, `"Doll Newnam"`, `McCoy OR Coy Ne
 | 30 | Lee VS deaths 1874–1878 and 1900–1904 | USGenNet vsd / vsd1 / vsd2 | Samuel P death | **nil** Samuel P; John 37 d. 5 Mar 1900 is BIL context |
 | 31 | 1900 Proctor + Book 7 Burke×Hoover | RootsWeb / USGenNet | Whose grandchild is E.T.? | Provie Hoover gdau of Elias; C.B. son of George Burke |
 
+## Name-variant storm (pass 67, 31 Oct 2026, `search_variants.py`)
+
+**Dora Newnam / Stone (B067 placement)** — given: Dora, posa, dosa, rosa, dona, dara, dore, dori, dola, pora, rora, Nora, Cora, Ella, alla, elia, E., Mrs. Stone, Mrs. Newman. Surname: Newnam, newman, newnarn, newan, newnom, Stone, storie, stona, stome. Soundex **N550** / **S350**. Combined: `"Dora Newnam"`, `"Newnam, Dora"`, `"posa Newman"`, `"Ella Newman"`, `"Mrs. Stone"`, `"Dora Belle"`.
+
+**Dora as mother 1911–25** — Dora / Ella / Posa / Dara × Newnam / Newman / Stone on Lee A/G/H/M and 1921–30 N/SN/M; Owsley A/G/H/M.
+
+**1920 Perry (new place)** — Dora / Ella / Posa × Stone / Newman + Howell / Perryville / Tom A. / Randall.
+
+Exact strings logged **L430–L441**.
+
+## Name-variant storm (pass 66, 31 Oct 2026, `search_variants.py`)
+
+**Dora Newnam / Stone (B066 placement)** — given: Dora, posa, dosa, rosa, dona, dara, dore, dori, dola, pora, rora, Nora, Cora, Ella, alla, elia, E., Mrs. Stone, Mrs. Newman. Surname: Newnam, newman, newnarn, newan, newnom, Stone, storie, stona, stome. Soundex **N550** / **S350**. Combined: `"Dora Newnam"`, `"Newnam, Dora"`, `"posa Newman"`, `"Ella Newman"`, `"Mrs. Stone"`.
+
+**Dora as bride 1903–10 (Owsley VS)** — Dora / Dorah / Dova / Ella / Posa × Newnam / Newman / Stone.
+
+**Dora as mother 1902–20** — Dora / Ella / Posa / Dara × Newnam / Newman / Stone / Smith (Frances 1914 near-hit).
+
+Exact strings logged **L419–L429**.
+
+## Name-variant storm (pass 65, 31 Oct 2026, `search_variants.py`)
+
+**Pearl Newnam / Clyde Jackson (B061)** — Pearl × Newnam, newman, newnarn, newan, newnom. Clyde × Jackson, jacksen. Soundex **N550** / **J250**. Combined: `"Pearl Newnam"`, `"Newnam, Pearl"`, `"Clyde Jackson"`, `"Jackson, Clyde"`.
+
+**Dora 1926 press (B049 new terms)** — `"Carter Cove"` / `"Carters Chapel"` / `"Coy Newnam"` / title *Yell County Record* + year 1926. Did **not** repeat C335 strings.
+
+**Dora as mother (year hole)** — Dora / Ella × Newnam / Newman / Stone on Lee births N.
+
+Exact strings logged **L406–L418**.
+
+## Name-variant storm (pass 64, 31 Oct 2026, `search_variants.py`)
+
+**Mary A. Newnam 1918** — given: Mary, mayr, mam, marv. Surname: Newnam, newman, newnarn, newan, newnom, Smallwood. Soundex **N550** / **S543**. Combined: `"Mary Newnam"`, `"Newnam, Mary"`, `"Mary newman"`, `"Mary Smallwood"`. Date+place: `07/11/1918` + LEE / OWSLY / ESTIL / BRTHT.
+
+**Clyde Jackson / Pearl** (B057 reuse) — Clyde × Jackson/jacksen; Pearl × Newnam/Newman. Soundex **J250** / **N550**.
+
+**Dora Stone 1926 press** (B049) — Dora / Posa / Dosa / Rosa × Stone / Newnam / Newman + Ola / Yell / Beattyville / Dardanelle.
+
+Exact strings logged **L396–L405**.
+
+## Name-variant storm (pass 63, 31 Oct 2026, `search_variants.py`)
+
+**Pearl Newnam / Jackson** — given: Pearl. Surname: Newnam, newman, newnarn, newan, newnom, Jackson. Combined: `"Pearl Newnam"`, `"Newnam, Pearl"`, `"Pearl Jackson"`, `"Jackson, Pearl"`.
+
+**Clyde Jackson** — given: Clyde. Surname: Jackson, jacksen. Soundex **J250**. Combined: `"Clyde Jackson"`, `"Jackson, Clyde"`. OCR given-name generator added no extra typed-index forms.
+
+**Mary A. Newnam 1918** — Mary / Mary A. / Marie × Newnam/Newman/Smallwood (reused on Owsley 1918dc).
+
+Exact strings logged **L373–L379**.
+
+## Name-variant storm (pass 62, 31 Oct 2026, `search_variants.py`)
+
+**Dora Newnam / Stone** — given: Dora, posa, dosa, rosa, dona, dara, dore, dori, dola, pora, rora. Surname: Newnam, newman, newnarn, newan, newnom, Stone, Posa. Soundex **N550** / **S350**. Combined samples: `"Dora Newnam"`, `"Newnam, Dora"`, `"posa Stone"`, `"Dora newman"`.
+
+**McCoy / Coy Newnam** — McCoy × Newnam/newman/newnarn/newan/newnom/Coy. Used for 1917 Ola vs Lee WWI residual.
+
+**Pearl Newman / Jackson** — Pearl × Newman/Newnam + Clyde Jackson. OCR Pearl → Pcarl/Peral not needed on typed indexes.
+
+**Mary A. Newnam 1918** — Mary / Mary A. / Marie × Newnam/Newman/Smallwood.
+
+Exact strings logged **L361–L372**. Ages from `kinship.py`: 28 (1 Jun 1900), 38 (15 Apr 1910), 45 (18 Feb 1917), 48 (1 Jan 1920), 55 (23 Aug 1926).
+
 ## Name-variant storm (pass 60–61, `search_variants.py`)
 
 **Dora Newnam / Stone** — given: Dora, posa, dosa, rosa, dona, dara, dore, dori, dola, pora, rora. Surname: Newnam, newman, newnarn, newan, newnom, Stone. Soundex **N550** / **S350**. Combined samples: `"Dora Newnam"`, `"Newnam, Dora"`, `"posa Stone"`, `"Dora newman"`.
@@ -88,6 +150,116 @@ Wildcard strings to use: `New*m`, `Dor* New*`, `"Doll Newnam"`, `McCoy OR Coy Ne
 **Ladonna Newnam** — Ladonna / Ladona × Newnam/Newman. **Clay Dunigan** — Clay × Dunigan / Dunagin / Dunnigan. Soundex **D525**.
 
 Exact strings logged **L343–L360**.
+
+## Name-variant storm (pass 71, 31 Oct 2026, `search_variants.py`)
+
+**Dora Stone --also Newman** — given: Dora, posa, dosa, rosa, dona, dara, dore, dori, dola, pora, rora. Surname: Stone, storie, stona, stome, Newman. Soundex **S350** / **N550**. Combined samples: `"Dora Stone"`, `"Stone, Dora"`, `"posa Stone"`, `"Dora Newman"`. Also Ella / Mrs Stone / Mrs Newman / Posa / Nora / Cora on Perry 1920 unpublished/unread bodies (Casa / Forest / New TN / Perry twp+town / Petit Jean / Union + published index-nil townships) and Yell ED 191 remainder.
+
+Exact strings logged **L485–L498**.
+
+## Name-variant storm (pass 72, 31 Oct 2026, `search_variants.py`)
+
+**Dora Stone --also Newman** — given: Dora, posa, dosa, rosa, dona, dara, dore, dori, dola, pora, rora. Surname: Stone, storie, stona, stome, Newman. Soundex **S350** / **N550**. Combined samples: `"Dora Stone"`, `"Stone, Dora"`, `"posa Stone"`, `"Dora Newman"`. Also Ella / Mrs Stone / Mrs Newman / Posa / Nora / Cora as boarder/MIL/wife ~48 on Van Buren 1920 remaining township bodies (especially Union p.150 Stone house) and Yell ED **188** Galla Rock originals.
+
+Exact strings logged **L499–L512**.
+
+## Name-variant storm (pass 78, 31 Oct 2026, `search_variants.py`)
+
+**Dora Newnam --also Newman --also Stone** — given: Dora, posa, dosa, rosa, dona, dara, dore, dori, dola, pora, rora. Surname: Newnam, newman, newnarn, newan, newnom, Stone. Soundex **N550** / **S350**. Combined samples: `"Dora Newnam"`, `"Newnam, Dora"`, `"posa Newman"`, `"Dora Stone"`, `"Stone, Dora"`. Also Ella / Mrs Stone / Mrs Newman / T.A. / Tom Stone as Saline Q/R *groom* (1923–27) and as decedent/mother/patentee on new year-hole hosts 1901–09 / 1911–16 / 1921–25 (Grant BLM land; Menifee death year files; Estill births K–N / O–T mother field). Bride 1920–26: Dora / Ella / Posa × Newnam / Newman / Stone. Storey kept separate from Stone.
+
+Exact strings logged **L597+**.
+
+## Name-variant storm (pass 79, 31 Oct 2026, `search_variants.py`)
+
+**Dora Newnam --also Newman --also Stone** — given: Dora, posa, dosa, rosa, dona, dara, dore, dori, dola, pora, rora. Surname: Newnam, newman, newnarn, newan, newnom, Stone. Soundex **N550** / **S350**. Combined samples: `"Dora Newnam"`, `"Newnam, Dora"`, `"posa Newman"`, `"Dora Stone"`, `"Stone, Dora"`. Also Ella / alla / elia / Mrs Stone / Mrs Newman as **mother** on Estill remaining 1911–16 A–B/C–F/G–J/U–Z and 1917–23 K–N/O–T. Mary / mayr / mam / marv × Newnam / Smallwood on Estill death years 1911–16/1920–24/1926 and Madison 1918 K–R. Dora / Ella / Posa Stone on Madison 1926 S–Z. Same given+OCR set as boarder/MIL/wife ~38/~48 on Lincoln 1910/1920 opened township files.
+
+Exact strings logged **L615+**.
+
+## Name-variant storm (pass 80, 31 Oct 2026, `search_variants.py`)
+
+**Dora Newnam --also Newman --also Stone** — given: Dora, posa, dosa, rosa, dona, dara, dore, dori, dola, pora, rora. Surname: Newnam, newman, newnarn, newan, newnom, Stone. Soundex **N550** / **S350**. Combined samples: `"Dora Newnam"`, `"Newnam, Dora"`, `"posa Newman"`, `"Dora Stone"`, `"Stone, Dora"`. Also Ella / alla / elia / Mrs Stone / Mrs Newman. Mary / mayr / mam / marv × Newnam / Smallwood on Madison remaining death year×letter files (1911–17 / 1919–25 K–R and S–Z; 1918 S–Z; 1926 K–R). Dora / Ella / Posa / Nora / Cora as boarder/MIL/wife ~38 on Prairie 1910 township bodies (Belcher / Hickory Plains / Bullard / Roc Roe / Tyler / Center / Union / Des Arc / Upper Hill / Hazen). Bride 1920–25: Dora / Ella / Posa × Newnam / Newman / Stone on Cleveland 1873–1992 if that file covers those years.
+
+Exact strings logged **L633+**.
+
+## Name-variant storm (pass 81, 31 Oct 2026, `search_variants.py`)
+
+**Dora Newnam --also Newman --also Stone** — given: Dora, posa, dosa, rosa, dona, dara, dore, dori, dola, pora, rora. Surname: Newnam, newman, newnarn, newan, newnom, Stone. Soundex **N550** / **S350**. Combined samples: `"Dora Newnam"`, `"Newnam, Dora"`, `"posa Newman"`, `"Dora Stone"`, `"Stone, Dora"`. Also Ella / alla / elia / Mrs Stone / Mrs Newman. Mary / mayr / mam / marv × Newnam / Smallwood. Dora / Ella / Posa / Nora / Cora as boarder/MIL/wife ~38 on Woodruff remaining 1910 sheets (if posted) and Logan map pages if they hold 1901–25 name bodies. Bride 1920–25: Dora / Ella / Posa × Newnam / Newman / Stone on Pulaski AR / Clay KY / Rockcastle if those files cover those years.
+
+Exact strings logged **L651+**.
+
+## Name-variant storm (pass 82, 31 Oct 2026, `search_variants.py`)
+
+**Dora Newnam --also Newman --also Stone** — given: Dora, posa, dosa, rosa, dona, dara, dore, dori, dola, pora, rora. Surname: Newnam, newman, newnarn, newan, newnom, Stone. Soundex **N550** / **S350**. Combined samples: `"Dora Newnam"`, `"Newnam, Dora"`, `"posa Newman"`, `"Dora Stone"`, `"Stone, Dora"`. Also Ella / alla / elia / Mrs Stone / Mrs Newman. Mother field on Clay remaining 1911–23 A–J/T–Z and Rockcastle remaining A–B/C–F/G–J/U–Z. Bride 1920–25: Dora / Ella / Posa × Newnam / Newman / Stone on any new year-hole host that posts a 1901–25 name register.
+
+Exact strings logged **L669+**.
+
+## Name-variant storm (pass 83, 31 Oct 2026, `search_variants.py`)
+
+**Dora Newnam --also Newman --also Stone** — given: Dora, posa, dosa, rosa, dona, dara, dore, dori, dola, pora, rora. Surname: Newnam, newman, newnarn, newan, newnom, Stone. Soundex **N550** / **S350**. Combined samples: `"Dora Newnam"`, `"Newnam, Dora"`, `"posa Newman"`, `"Dora Stone"`, `"Stone, Dora"`. Also Ella / alla / elia / Mrs Stone / Mrs Newman. Mother field on Laurel remaining 1911–23 A–B/C–F/G–J/U–Z and Knox 1901–20 year files. Mary / mayr × Newnam / Smallwood and Dora / Ella / Posa Stone on Knox/Whitley/Leslie death letter files if they hold 1901–25 names. Bride 1920–25: Dora / Ella / Posa × Newnam / Newman / Stone on any new year-hole host that posts a 1901–25 name register.
+
+Exact strings logged **L687+**.
+
+## Name-variant storm (pass 84, 31 Oct 2026, `search_variants.py`)
+
+**Dora Newnam --also Newman --also Stone** — given: Dora, posa, dosa, rosa, dona, dara, dore, dori, dola, pora, rora. Surname: Newnam, newman, newnarn, newan, newnom, Stone. Soundex **N550** / **S350**. Combined samples: `"Dora Newnam"`, `"Newnam, Dora"`, `"posa Newman"`, `"Dora Stone"`, `"Stone, Dora"`. Also Ella / alla / elia / Mrs Stone / Mrs Newman. Mother field on Bell remaining 1921 A–M / O–R / T–Z. Bride 1920–25: Dora / Ella / Posa × Newnam / Newman / Stone on Jackson remaining marr letters (C–D / E–F / G / H / I–K / L–M / R / T / V–Y) and any Harlan posted 1901–25 name register. After those three catalogs: Dora / Ella / Posa as boarder/MIL/wife ~38/~48 on unread 1910/1920 jurisdictions, or as taxpayer/patentee/directory entry 1901–25, or in AR/KY papers not already Solr’d.
+
+Exact strings logged **L705+**.
+
+## Name-variant storm (pass 85, 31 Oct 2026, `search_variants.py`)
+
+**Dora Newnam --also Newman --also Stone** — given: Dora, posa, dosa, rosa, dona, dara, dore, dori, dola, pora, rora. Surname: Newnam, newman, newnarn, newan, newnom, Stone. Soundex **N550** / **S350**. Combined samples: `"Dora Newnam"`, `"Newnam, Dora"`, `"posa Newman"`, `"Dora Stone"`, `"Stone, Dora"`. Also Ella / alla / elia / Mrs Stone / Mrs Newman. Dora / Ella / Posa / Nora / Cora as boarder/MIL/wife ~38/~48 on unread 1910/1920 jurisdictions that actually post household bodies (not Franklin/Conway unpublished stubs). Land: Dora / Newman / Newnam / Stone patentee on Yell/Perry when usgw resolves. Tax/directory 1901–25: Dora / Ella / Posa × Newnam / Newman / Stone. **Do not** start another unbounded fifth-ring KY letter dump unless a file names mother Dora/Ella Newnam **and** a second identifier aligns.
+
+Exact strings logged **L723+**.
+
+## Name-variant storm (pass 77, 31 Oct 2026, `search_variants.py`)
+
+**Dora Newnam --also Newman --also Stone** — given: Dora, posa, dosa, rosa, dona, dara, dore, dori, dola, pora, rora. Surname: Newnam, newman, newnarn, newan, newnom, Stone. Soundex **N550** / **S350**. Combined samples: `"Dora Newnam"`, `"Newnam, Dora"`, `"posa Newman"`, `"Dora Stone"`, `"Stone, Dora"`. Also Ella / Mrs Stone / Mrs Newman / Posa as leftover White `transcription.htm` (open only if a real body) and as bride/mother/taxpayer on new year-hole hosts 1901–09 / 1911–16 / 1921–25 (Montgomery Pike D–E–F; Montgomery death 1914–33; Powell births mother field; Saline poll + marr I–R). Bride 1920–25: Dora / Ella / Posa × Newnam / Newman / Stone.
+
+Exact strings logged **L577+**.
+
+## Name-variant storm (pass 76, 31 Oct 2026, `search_variants.py`)
+
+**Dora Newnam --also Newman --also Stone** — given: Dora, posa, dosa, rosa, dona, dara, dore, dori, dola, pora, rora. Surname: Newnam, newman, newnarn, newan, newnom, Stone. Soundex **N550** / **S350**. Combined samples: `"Dora Newnam"`, `"Newnam, Dora"`, `"posa Newman"`, `"Dora Stone"`, `"Stone, Dora"`. Also Ella / Mrs Stone / Mrs Newman / Posa / Nora / Cora as boarder/MIL/wife ~38 on FS 1727033 Van Buren waypoints (title-card confirmation required before any household read) and ~38/~48 on White Co. named 1910 Dist. 150–173 / 1920 township bodies. Bride 1920–25: Dora / Ella / Posa × Newnam / Newman / Stone on White unclaimed M–N / R–S letters.
+
+Exact strings logged **L561+**.
+
+## Name-variant storm (pass 75, 31 Oct 2026, `search_variants.py`)
+
+**Dora Newnam --also Newman --also Stone** — given: Dora, posa, dosa, rosa, dona, dara, dore, dori, dola, pora, rora. Surname: Newnam, newman, newnarn, newan, newnom, Stone. Soundex **N550** / **S350**. Combined samples: `"Dora Newnam"`, `"Newnam, Dora"`, `"posa Newman"`, `"Dora Stone"`, `"Stone, Dora"`. Also Ella / Mrs Stone / Mrs Newman / Posa / Nora / Cora as boarder/MIL/wife ~38 on T624 title-card county names and ~48 on new year-hole hosts (Pope 1920 index; Scott 1910/1920 heads and 1882–1974 N/S marriages). Bride 1920–25: Dora / Ella / Posa × Newnam / Newman / Stone.
+
+Exact strings logged **L545+**.
+
+## Name-variant storm (pass 74, 31 Oct 2026, `search_variants.py`)
+
+**Dora Newnam --also Newman --also Stone** — given: Dora, posa, dosa, rosa, dona, dara, dore, dori, dola, pora, rora. Surname: Newnam, newman, newnarn, newan, newnom, Stone. Soundex **N550** / **S350**. Combined samples: `"Dora Newnam"`, `"Newnam, Dora"`, `"posa Newman"`, `"Dora Stone"`, `"Stone, Dora"`. Also Ella / Mrs Stone / Mrs Newman / Posa / Nora / Cora as boarder/MIL/wife ~38 on unpublished Van Buren 1910 township *originals* (alternate catalog paths, not the 404 slugs) and ~48 on new year-hole hosts. Bride 1924–25: Dora / Ella / Posa × Newnam / Newman / Stone.
+
+Exact strings logged **L529+**.
+
+## Name-variant storm (pass 73, 31 Oct 2026, `search_variants.py`)
+
+**Dora Newnam --also Newman** — given: Dora, posa, dosa, rosa, dona, dara, dore, dori, dola, pora, rora. Surname: Newnam, newman, newnarn, newan, newnom. Soundex **N550**. Combined samples: `"Dora Newnam"`, `"Newnam, Dora"`, `"posa Newman"`, `"Dora newman"`.
+
+**Dora Stone --also Newman** — given: Dora, posa, dosa, rosa, dona, dara, dore, dori, dola, pora, rora. Surname: Stone, storie, stona, stome, Newman. Soundex **S350** / **N550**. Combined samples: `"Dora Stone"`, `"Stone, Dora"`, `"posa Stone"`, `"Dora Newman"`. Also Ella / Mrs Stone / Mrs Newman / Posa / Nora / Cora as boarder/MIL/wife ~38 on Van Buren 1910 remaining township bodies (Bloodworth / Cadron / Davis / Griggs / Hartsugg / Linn Creek / Mountain / Sulphur Springs / Washington / Choctaw / Grove + head-of-household pages) and 1920 Union after 158b if posted.
+
+Exact strings logged **L513+**.
+
+## Name-variant storm (pass 70, 31 Oct 2026, `search_variants.py`)
+
+**Dora Newnam --also Newman** — given: Dora, posa, dosa, rosa, dona, dara, dore, dori, dola, pora, rora. Surname: Newnam, newman, newnarn, newan, newnom. Soundex **N550**. Also Ella / Mrs Stone / Mrs Newman / Posa / Nora / Cora on remaining Perry 1910 census bodies (Eran, Forest, Lake, Maumelle, McCool, New Tennessee, Union, Walnut Grove, Houston Town). Stone Soundex **S350**. Conway Book Z bride: Dora / Ella / Posa × Newnam / Newman / Stone.
+
+Exact strings logged **L471–L484**.
+
+## Name-variant storm (pass 69, 31 Oct 2026, `search_variants.py`)
+
+**Dora Newnam --also Newman** — given: Dora, posa, dosa, rosa, dona, dara, dore, dori, dola, pora, rora. Surname: Newnam, newman, newnarn, newan, newnom. Soundex **N550**. Combined samples: `"Dora Newnam"`, `"Newnam, Dora"`, `"posa Newman"`, `"Dora newman"`. Also Ella / Mrs Stone / Mrs Newman / Posa / Dona / Nora / Cora as given-name variants on remaining Perry 1910 township transcripts. Stone Soundex **S350**. FAN: Tom A. / Laura Bell Butler / Randall / McCoy Newman.
+
+Exact strings logged **L456+**.
+
+## Name-variant storm (pass 68, `search_variants.py`)
+
+**Dora Stone --also Newman** — given: Dora, posa, dosa, rosa, dona, dara, dore, dori, dola, pora, rora. Surname: Stone, storie, stona, stome, Newman. Soundex **S350** / **N550**. Combined samples: `"Dora Stone"`, `"Stone, Dora"`, `"posa Stone"`, `"Dora Newman"`. Also Ella / Mrs Stone / Mrs Newman / Posa / Dona as given-name variants on Perry 1920/1910 transcripts.
+
+Exact strings logged **L442–L455**.
 
 ## Agent SDK / GitHub channel
 

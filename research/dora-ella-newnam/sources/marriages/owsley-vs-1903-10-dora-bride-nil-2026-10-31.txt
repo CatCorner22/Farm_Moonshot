@@ -1,0 +1,34 @@
+Owsley County KY Vital Statistics marriages — dedicated Dora-as-bride pass
+31 Oct 2026. Transcription only (Kendrick / USGenNet).
+
+Pages fetched (HTTP 200):
+  1903-4.html  29336 B  https://usgennet.org/usa/ky/county/owsley/marriages/1903-4.html
+  1908a.html   22605 B
+  1908b.html   15706 B
+  1909a.html   22096 B
+  1909b.html   15835 B
+  1910a.html   22285 B
+  1910b.html   14443 B
+
+Exact bride strings: Dora, Dorah, Ella, Posa, Dara, Nora, Cora, Newman, Newnam, Stone.
+
+RESULT: **no** bride Dora/Ella Newnam/Newman/Stone.
+
+Rejected same-given (not merged with P001):
+  8 Jan 1904  Butler JEWELL 21 (2nd) × Dora COLLINS 22 (3rd), b. Breathitt
+  5 Nov 1908  (groom on page) × Dora CAMPBELL 15 (1st), b. Owsley
+  30 Dec 1909 × Dora M. SHORT 19 (1st), b. Breathitt, res. Breathitt
+  8 May 1910  × Dorah J. BECKNELL 21 (1st), b. Owsley
+  6 Oct 1910  × Dora CREECH 22 (2nd), b. Owsley
+  10 Oct 1910 × Dora BOTNER 18 (1st), b. Owsley
+  Ella P. GARRETT 18 (1st) 11 Dec 1908
+  Ella MORRIS 23 (1st) Perry 28 Nov 1909
+  Ella SANDLIN 16 (1st) 17 Nov 1910
+
+FAN (not P001):
+  2 Jan 1904  William EVANS 52 (2nd) × Manerva NEWMAN 51 (3rd), b. Owsley
+  10 Feb 1909 Grant NEWNAM 19 (1st), farmer, b. Owsley, father b. Lee, mother b. VA
+              × Dova COLE 21 (1st), b. Owsley
+              Dova is OCR-adjacent to Dora; age 21 vs P001 ~38; 1st vs would-be 2nd+ — rejected
+
+No Newnam/Newman/Stone groom other than Grant. Gap 1905–07 and 1911+ unpublished.

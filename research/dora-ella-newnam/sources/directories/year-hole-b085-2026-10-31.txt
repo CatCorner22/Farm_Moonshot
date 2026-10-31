@@ -1,0 +1,64 @@
+B085 / pass 85 year-hole extract — 31 Oct 2026
+Access: image seen (Miracode cards) / index only (Johnson 1910 Dewberry) / transcription only (land) / catalog.
+No Van Buren original schedule seen. No FS/Ancestry credentials. DAS image.jpg not re-hit.
+No fifth-ring KY letter dump.
+
+== AR 1910 Miracode T1260 roll 108 (IA soundex1910ar108) ==
+Volume: S-323 Annie -- S-353 James M. PDF 971 pp / 24,446,425 bytes.
+Direct item server ia800601.us.archive.org (archive.org/download returned 170 B HTML).
+S-350 begins ~printed p.560 (Alonzo). D-given densified PDF pp 581-625.
+Image seen (not OCR-as-source):
+
+Rejected Dora / Dora-like:
+- Fulton S350 SEETO/SEETON Charles J H W 32 AR; DORA M W 29 AR + Albert/Virgil/John/Martha/Ovella. Not Stone. (p574)
+- Searcy S350 SITTIN Charles H H W 32 AR; DORA A W 30 AR + Dona/Webster/Charlie/Delmer/Infant. Not Stone. (p579)
+- Hempstead S350 STONE Jefferson D H W 46 AR; DORA W 42 AR; Sydney S 16; James D S 11. Nativity AR; children not hers. (p654)
+- Garland S350 SUTTON Davis 27 IN enumerated with WORSHAM, DORA H W. Surname Worsham. (p590)
+- Hot Spring S350 SUTTON DASA H W 32 AR (not Dora). (p590)
+
+Rejected Ella / Ellen:
+- Nevada S350 STONE Ella NI NR AR enumerated with Vertram Eliza H B. Nativity AR. (p602)
+- Yell S350 STONE Ellen J H W 46 VA + Minnie 42 IN, Pearl 18 AR, Martha 14 MO, Edna 6 MO, Burton Bertha 21. Local Yell cluster — not merged with P001/P003. (p602)
+- Ashley S350 SUTTON Ella NI 23 AR with Willis Ruthy. (p602)
+- Phillips S350 SUTTON Frank H B 28 AR; ELLA W 27 MS. (p615)
+- Monroe S350 SATE Ilen H W 23 TX; ELLA W 19 KS. (p635 OCR; not re-imaged)
+- Stone Elmer wife Ella 21 AR (p604 OCR)
+
+No Dora Stone ~38 KY as head or indexed person on the S-350 cards read.
+Fits Tom A. still widowed Feb 1920.
+
+== Boone 1910 Bellefonte ==
+Heads of household index only. No Newman/Newnam. No Dora head.
+STONE Thomas D. — not merged (no household body; no 2nd identifier).
+HALE Ella — head; not P001.
+
+== Johnson 1910 Dewberry surname index (Wayback 20240804174954) ==
+Newman, 69, 267. Stone, 91, 162, 174, 188, 253, 336. No Newnam. No Dora-as-surname.
+Household bodies unread (print book / T624-54 Jefferson+Johnson, IA po0054 PDF 291 MB, 1605 images, no OCR).
+
+== Catalogs without 1910/1920 household bodies ==
+Garland census.htm: 1840 pensioners / 1880 offsite / 1930 orphanage. No 1910/1920 body.
+Sebastian Census.html: 1860-1900 townships; 1910 = blank form only.
+Clark AR census.htm: 1830-1840 USGW only.
+Carroll census.html: 1840-1850 USGW only.
+Johnson/Logan/Pope/Sebastian/Crawford/Howard/Madison AR census.htm: 404.
+Johnson home: 170 B stub.
+
+== Harlan 1920 household pages ==
+Landing lists Newman/Stone heads (Baxter 39a, Evarts 112a, Benham 155a/b 205b, Lynch 177a 233b, Pee Vee 244a, Pine Mt 257a).
+kygenweb.net/harlan/1920/pages*.html = HTTP 200, 462 B stubs (not kept).
+sites.rootsweb.com / rootsweb.com ~kyharlan = 403. Household bodies not read.
+
+== Land (live usgw timeout; files from search/Wayback cache) ==
+Yell fedland pre-1908 (Joy Fisher): STONE ISAAC N 12 4N 23W 160 1906/03/16; STONE MATHEW 8 4N 20W 40 1860/03/01; STONE WILLIAM H 28/29 2N 23W 1883/1888.
+Zero NEWMAN/NEWNAM. Zero DORA. SNIPES ELLA 1893 rejected.
+Perry fedland pre-1908: file complete A-YOUNG. Zero NEWMAN/NEWNAM/STONE/DORA.
+RICHARDSON ELLA J 26/27 3N 18W 1907/05/06 rejected.
+
+== IA Solr new titles (not C335/C349/C1484/C1669) ==
+See ia-solr-newtitles-b085-2026-10-31.json
+
+== T624-66 / B057 ==
+Env FAMILYSEARCH/ANCESTRY empty. DAS not re-hit. No Van Buren household seen.
+B057 path only: FHL 178898 / Owsley Clerk Austin Bowling, 20 Main St, PO Box 500, Booneville KY 41314, austin.bowling@ky.gov. Phone not re-called.
+Saline T.A. 1911/1912 not merged with Tom A. of Perry.

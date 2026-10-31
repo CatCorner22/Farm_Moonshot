@@ -1,0 +1,43 @@
+B080 / pass 80 — Prairie Co. AR 1910 township name indexes — 31 Oct 2026
+Access: index only (every-name dropdown). Not household schedules.
+Landing: https://www.argenweb.net/prairie/1910census/1910cens.htm (saved prior, C1610).
+Calhoun Township href = ".htm" + construction.gif — never posted.
+
+Township files (all HTTP 200):
+  belcher.htm   17399 B   414 names
+  hplains.htm   38103 B  1004
+  bullard.htm   17678 B   419
+  rocroe.htm    17785 B   419
+  tyler.htm     31353 B   832
+  center.htm    31248 B   815
+  union.htm     19360 B   472
+  desarc.htm    13955 B   316
+  uphill.htm    21797 B   538
+  hazen.htm     71080 B  1528
+Total 6757 indexed names.
+
+Household-body slugs tried once (belcher1/2, hplains1, bullard1, rocroe1, tyler1,
+center1, union1, desarc1, uphill1, hazen1–4, part1, part2): all HTTP 404 355 B.
+Those 404 stubs were **not** kept.
+
+NEWMAN / NEWNAM: **zero** on all ten indexes.
+
+STONE (local; not merged with P003 / P001):
+  Hickory Plains: STONE, William S.
+  Bullard: STONE, Josie / Nora / Sam / Thomas G.   (Thomas G. ≠ Tom A. of Perry)
+  Hazen: Stone, Cora / Forrest J. / John F. (PART 1)
+
+Given-name Dora / Ella / Dona / Nora / Cora / Rosa on other surnames (sample rejects):
+  Belcher: Langley Ella; Trice Dona; Borges Rosa
+  Hickory Plains: Lackey Dora; Lenderman Dora; BULLARD Ella; HARSHAW Edora
+  Bullard: CURRY Dora L.; PARCHMAN Dora; THOMPSON Dora; STONE Nora
+  Roc Roe: Davis Dora Lee / Ella; Eilers Dora; Gerlach Dora A.
+  Tyler: Pitts Dora; Wilks Ella
+  Center: GERREN Dora L.; MILES Dora; MINTON Ella F.
+  Union: Kirk Dora; Williams Ella G.
+  Des Arc: Scruggs Ella; Uland Ella L.
+  Upper Hill: MILLARD Dona / Ella; several Ella
+  Hazen: Allen Dora L.; Barr Dora E.; Compton Dora; Abram Ella
+None is Newnam/Newman/Stone ~38 b. KY.
+
+NO record placed P001.

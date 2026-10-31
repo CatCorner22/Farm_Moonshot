@@ -1,0 +1,20 @@
+# USGenNet Owsley military landing
+# https://usgennet.org/usa/ky/county/owsley/military.html
+# Captured 31 Oct 2026. HTTP 200, 9241 bytes.
+# Local copy: sources/military/owsley-military-2026-10-31.html
+
+Full-text search of the opened page: no "WWI", "WW1", "World War",
+"Draft", "1917", "Jackson", or "Clyde". Page is Civil War link lists only.
+No free Owsley WWI draft transcript is published there.
+
+Companion (opened): 1967 courthouse-fire photo page
+https://usgennet.org/usa/ky/county/owsley/photos/chfire67.html
+HTTP 200, 4157 bytes. Title: "Owsley County Court House on Fire, 1967".
+Image chfire67.jpg referenced. This is a locality note for why
+1911–1929 marriage books may be missing from published sites (C321);
+it does not by itself prove a 1911–17 Clyde × Pearl license was destroyed.
+
+M1509 KY74 card images still unread (FS/NARA). Print book:
+Patricia Merrill Hollingsworth, World War I draft registration cards,
+Owsley County, Kentucky (Three Trails West Chapter DAR, 2002),
+WorldCat 54019565 — not examined.

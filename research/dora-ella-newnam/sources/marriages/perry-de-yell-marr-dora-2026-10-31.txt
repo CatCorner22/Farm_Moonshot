@@ -1,0 +1,48 @@
+# Extract — Perry Books D/E (N+S) + Yell ARGenWeb bride D–F / M–O / S
+# Captured 31 Oct 2026. Index / transcription only.
+# Year-hole hosts: Perry 1905–c.1916 (Books D–E); Yell compiled brides (19th c. only).
+
+## Perry Book D — 15 Jan 1905 – 26 Sep 1912 (Shubert)
+N-surnames (perrymarriagebookdn.html):
+  NEWMAN, Bertha 18 × SHIPMAN, Walter 22  24-Dec-1906  D-099
+  NEWMAN, Homer 21 × FIELDS, Annie 17     6-Sep-1908   D-196
+  NEWMAN, John 26 × GATELEY, Addie 19    16-Dec-1906  D-102
+  No Newnam. No Dora/Ella Newman bride. No McCoy.
+S-surnames (perrymarriagebookds.html):
+  SHELTON, N S 21 × FIELDER, Dora 18     26-Mar-1910  D-279  (age 18 — rejected)
+  SIMON, Ella 22 × ALLISON, J M 36       15-Feb-1906  D-030  (age 22 — rejected)
+  STONE, Albert 22 × ALLEN, Fay 18        5-Mar-1911   D-330
+  STONE, Amanda Mrs 42 × STONE, J N 44   16-Nov-1905  D-012
+  STONE, Annie 20 × HUCHINGSON, James T  4-Oct-1905   D-011
+  STONE, J H 35 × PORTER, Lizzie 20      20-Mar-1910  D-256
+  STONE, J N 44 × STONE, Amanda Mrs 42   16-Nov-1905  D-012
+  STONE, Marie 18 × METTILAE?, J E 24     2-Jul-1910  D-294
+  No Dora/Ella/T.A./Tom Stone party.
+
+## Perry Book E — N + S (Shubert; years on page run 1912–1916)
+N-surnames (marriagebooken.html):
+  NEWMAN, Alice May 21 × GRAY, James H 36   25-Apr-1913  E-225
+  NEWMAN, C H 26 × SAPPINGTON, Maude Bell 26 9-Feb-1913  E-209
+  NEWMAN, McCoy 23 × BENCH, Ada 14           1-Aug-1912  E-126
+    Rare given name + age 23 in Aug 1912 ≈ b. ~1889 vs P006 Apr 1890 + Perry/Yell geography.
+    POSSIBLE same man as Coy (P006); NOT merged (one new record; 1917 Letha is documented).
+    Does not name Dora and does not place her.
+  No Newnam. No Dora/Ella Newman bride.
+  Other Ella: SUMMERS, Ella Mrs 23 × NEELY; CADY, Ella 19 × NUNN — rejected.
+S-surnames (marriagebookes.html):
+  STONE, M L D 22 × MARSHALL, Julia 19      9-Jan-1915  E-453
+  No Dora/Ella/T.A./Tom Stone party.
+
+## Perry vitals landings
+Births: “no records posted after 1900.” No 1901–25 list.
+Deaths submitted files: 1860–1899; 1950–1968; 1980–1999; 2000–2009. No 1900–1926 file.
+
+## Yell ARGenWeb marriages (Gayle Triller; “most of this list is by bride”)
+Landing + D–F / M–O / S opened.
+Years on those three pages: 1842–1878 only (19th-century compilation).
+D–F: no Dora / Newman / Newnam / Stone / Ella.
+M–O: no Newman / Newnam / Dora / Stone / Ella.
+S: GEIGER, Dora × SINCLAIR, William 3 Jan 1875 (rejected — 1875);
+   STONE, Martha A 1871; STONE, Mary F 1876 (rejected).
+   No Sullivan / Letha / Coy / Dora Stone 1917–1925 (compilation does not reach those years).
+Yell census.htm = HTTP 404.

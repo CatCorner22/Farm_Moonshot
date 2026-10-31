@@ -1,0 +1,61 @@
+# Extract — year-hole new hosts + Perry Books F/G (B069 fallback)
+# Captured 31 Oct 2026. Index / transcription only.
+
+## Perry Marriage Book F (12 Dec 1916 – 24 Feb 1922) — N, S, D letter pages
+Source: https://www.argenweb.net/perry/marriages/marriagebookfn.html (+ fs, fd)
+Compiler: Dwight Shubert.
+N page: **no** NEWMAN / NEWNAM / DORA. Last N names are New, Newsum, Nichols, Nord, Norfleet, Norman, Norwood, Nyles.
+S page: **STONE, Ada 24** × ELBERT, Edgar 23, 19 Dec 1917, F-135 — only Stone. **No** T.A. / Tom / Thomas Stone groom.
+D page: **no** Dora / Dorah as a party (Davis, Dean, Dodson, etc.).
+Verdict: **no** Dora Newnam × Stone in Book F N/S/D.
+
+## Perry Marriage Book G (14 Feb 1922 – 3 Jul 1930) — N, S, D letter pages
+N page: **NEWMAN, W A 27** × TEDDER, Elizabeth Jennett 21, 23 Sep 1922, G-039.
+        Not Coy (age/name). **No** Dora Newnam bride.
+S page Stone grooms (all too young / after her death window as *her* groom):
+  STONE, Francis 18 × FINKBEINER, Alfie 21, 1 Mar 1926, G-320
+  STONE, J J 18 × RANKIN, Viva 15, 5 May 1928, G-473
+  STONE, John 20 × GRIFFITH, Hattie 19, 1 Mar 1930, G-618
+  STONE, Lucy Miss 19 × TAYLOR, Opal 17, 17 Jan 1927, G-380
+Near-hit Doras on S (wrong surname / age):
+  SHARP, Ervin 26 × McGHEE, Dora 20, 9 Mar 1924
+  SHEETS, Dora 32 × LEMONDS, William Shelby 39, 14 Jun 1930 (after P001 death)
+  SKINNER, Ralph B 21 × CALLAWAY, Dora 18, 10 Aug 1929
+  STARS, Bloush 38 × BROWN, Dora Mrs 30, 12 Oct 1925
+D page: **no** Dora Newnam. DUKE, Ella Mrs 28 × GIBBONS 25 Aug 1927 — after death; not her.
+Verdict: **no** Dora Newnam × T.A. Stone in Book G N/S/D.
+
+## Conway Co. ARGenWeb — new host
+Census index (censusindex.htm): 1910 and 1920 are **unlinked labels** (1830/1840/1850/1860-partial have hrefs; 1870–1920 do not).
+Home: 1900 Center Ridge Township Index only among census files.
+Marriages landing: Books W–Z cover 1919–1927 (m2 window).
+
+### Book W bride (26 Oct 1919 – 24 Nov 1921) — table parsed
+No bride Dora/Ella Newnam/Newman. No bride Stone except groom **Stone, Ollie 38** × Furr, Rassie Mrs 26, 29 Nov 1920.
+Dora brides rejected: Ridling 22; Riley 18; Thomas 32 × Cross; Toney 19.
+Newman, Gladys 18 × Brents, Charlie 19, 16 Jul 1920 — not P001.
+
+### Book X bride (14 Aug 1921 – 3 Nov 1923)
+No Dora Newnam. Stone, Sadie 20 × Wright, Jess 30, 29 Apr 1923.
+Groom Stone, John 21 × Felton, Gertie 20, 12 Nov 1921.
+Dora brides: Bostain 16; Kelso, Dora Mae 17 (license not executed); Simmons, Dora lee 18.
+Harden, Ella 50 × Donald, George W. 65, 15 Sep 1921 — age 50 vs ~50; surname Harden; **rejected**.
+
+### Book Y bride (25 Oct 1923 – 15 Aug 1925)
+**Hill, Dora 48** × Crynes, John 60, 15 Jun 1924, p. 213 — age-adjacent; surname Hill; groom Crynes. **Rejected.**
+**Scoggins, Dora E. (Mrs.) 49** × Conley, W. E. 54, 17 Aug 1924, p. 264 — Dora E. + age 49; already Mrs. Scoggins; groom Conley. **Rejected / not merged.**
+Newman, Janie 18; Newman, Maudie 21; groom Newman, Wesley 25 — other family.
+Nix, Dora 29 × Berger. No Dora Newnam × Stone.
+
+Book Z (19 Aug 1925 – 28 Jul 1927) **not fetched** this pass → B070 residual.
+
+## Pope Co. ARGenWeb — new host
+Home: **no** 1910/1920 census transcript link.
+newsrptc.htm: ATU microfilm catalog only (Arkansas Gazette, Courier, etc.). **No** name index.
+Probate Court Record C: **no** Newman / Newnam / Stone / Dora in the saved file.
+
+## Perry wills landing
+Only posted will: Sanford Taylor, 1906. **No** Newnam / Stone estate index.
+
+## USGenWeb Archives Perry
+https://www.usgwarchives.net/ar/perry/perry.htm — **timeout** (one try; not retried).

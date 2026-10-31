@@ -1,0 +1,71 @@
+B079 / pass 79 — Estill KY remaining birth letters + 1917–23 K–N/O–T
+Captured 31 Oct 2026. Access: transcription only (KYGenWeb / Harlan Sloan tables).
+Pattern: https://kygenweb.net/estill/site/records/births/years/{YYYY}-{ab|cf|gj|kn|ot|uz}.htm
+Exception: 1911 A–B working URL is 1911-AB.htm (case-sensitive). Lowercase 1911-ab.htm = HTTP 404 (1543 B stub). 1911-AB.HTM also 404.
+Did NOT refetch 1911–16 kn/ot (B078 / C1498 / S389).
+
+== Remaining 1911–16 letters A–B / C–F / G–J / U–Z ==
+24 files, 1743 data rows. Mother field present on every file.
+NO mother Dora / Ella / Posa / Dosa / Rosa / Dona / Dara + Newnam / Newman / Stone.
+
+1911-AB.htm 200 16968 B, 58 rows.
+  Child ARVIN, DORA, mother STEPPS, ADDIE, 12 May 1911, vol 57 cert 22747 — child given Dora, not mother Dora Newnam.
+
+Stone as mother's last name (other given names) — rejected:
+  1911-gj HOWARD FRED mother STONE SOFA 1 May 1911
+  1912-uz WORRELL WOODROW mother STONE LUCY 1 Oct 1912
+  1913-cf FREEMAN J mother STONE PATTIE 6 Jul 1913
+  1915-gj HOWARD SOPHA mother STONE SOPHA 22 Apr 1915
+  1915-uz WARRELL STEPHEN mother STONE LUCY 5 Jan 1915
+  1915-uz WOOD ELSIE mother STONE SISSIE 17 Mar 1915
+
+Mother first = Dora (other surnames) — rejected:
+  1911-cf EDWARDS ELORY mother COLE DORA 14 Apr 1911
+  1913-ab BERRYMAN BERT mother WITT DORA 10 Apr 1913
+  1914-cf FELD SAM mother SLAVIN DORA 18 Jun 1914
+  1914-gj ISAACS VERNON mother PETERS DORA 17 Mar 1914
+  1915-ab AMERINE MYRTLE mother WILSON DORA 22 Jul 1915
+  1916-gj GORDON BERTHA mother MANSFIELD DORA 27 Feb 1916
+  1916-uz VANCE ESTHER mother LEADVINE DORA 8 Jun 1916
+  (also DONA: 1915-ab BERRYMAN NELLIE mother WITT DONA 2 Jul 1915; 1915-cf COLE LILLIAN mother FIKE DONA 8 Aug 1915)
+
+Mother first = Ella / Rosa (other surnames; sample, all rejected): Cole/King/Moore/Richardson/Howell/Neal/McIntosh/Hall/Jones/Hines/Taylor/Boggs/Henry/Powell/Tipton/Newton/Alcorn/White/Hounshell/Abney etc.
+
+No Newman/Newnam child on remaining letters (those surnames sit on K–N, already read B078).
+
+== 1917–23 K–N + O–T ==
+14 files, 1899 data rows. Column order: child / sex / year-month-day / mother last+first / vol / cert.
+NO mother Dora / Ella / Posa + Newnam / Newman / Stone.
+
+Newman/Newnam as child last or mother last (other families — not merged):
+  1917-kn NEWMAN HARVEY L 21 Jan 1917 mother STARK MARY
+  1918-kn NEWMAN GOLDIE M 26 Sep 1918 mother BRANDENBURG ALLIE
+  1918-kn NEWMAN WILLIAM R 29 Apr 1918 mother REEVES EVA
+  1919-kn MCMAINE CARL O 12 Sep 1919 mother NEWMAN ZADIE
+  1920-kn NEWMAN EDITH H 18 Jan 1920 mother RIVER ERA
+  1920-kn NEWMAN ODIS 19 Oct 1920 mother BRANDENBERG ALLIE
+  1921-kn MCKINNEY EDNA 30 Dec 1921 mother NEWMAN SARAH
+  1921-kn NEWMAN JAMES W 30 Apr 1921 mother RHODUS MOLLIE
+  1921-kn NEWMAN MELUINIA R 20 Jul 1921 mother CHAMEY SARAH
+  1922-kn NEWNAM VIRGINIA R 30 Mar 1922 mother REEVES ERA
+  1923-kn NEWMAN LUTHER K 28 Jan 1923 mother ROSE MOLLIE
+
+Stone as mother's last (other given) — rejected:
+  1917-ot ROSE MARGARETT mother STONE MARY 11 Jun 1917
+  1917-ot SAMS ROBERT mother STONE BESSIE 23 Jun 1917
+  1921-ot TURPIN MINNIA mother STONE ALMA 21 Oct 1921
+  1922-ot SAMS LOIS mother STONE BESSIE 24 Mar 1922
+  1922-ot STEVENS DYANTHA mother STONE HATTIE 3 Sep 1922
+
+Stone as child's last (other mothers) — rejected as P001 children:
+  1917: JAMES / SMITH BLANCHE; MITCHEL / PUCKETT ANNIE; NORA / LINCOLN STELLA
+  1918: FLOSSIE / PUCKETT SUSIE; IRENE / CROW BESSIE; JAMES / HORN CYNTHA
+  1919: FRANK / WINKLER STELLA; GLENWAY / WHITE DORA (mother surname WHITE); J / EMBS VENNES; RUSSELL / PUCKETT ANNA; WILBERT / SNOUDEN MAGGIE
+  1920: ELSIE / MORGISON NELLIE; EMANUEL / SNOWDEN MAGGIE; J / WINKLER HATTIE
+  1921: BOACE / JWINKLER STEELA; RAYMOND / SNOWDEN SUSIE; ROY / PUCKETT ANNIE; WILBERT / ENES VERER
+  1922: EVERETT / PUCKETT SUSIE; LILLY / TUBB BARTHENIA; VIOLA / SNOWDEN MAGGIE; WAYNE / ALLEN HOOMIE
+  1923: HARROLD / EMCO VENA
+
+STONE GLENWAY 4 Dec 1919 mother WHITE DORA — mother given Dora, maiden WHITE, not Newnam/Stone.
+
+Mother first = Dora other surnames 1917–23 (rejected): Dickinson, Taylor, Tipton, Dickerson, Cook, Baber, Morganison, etc.

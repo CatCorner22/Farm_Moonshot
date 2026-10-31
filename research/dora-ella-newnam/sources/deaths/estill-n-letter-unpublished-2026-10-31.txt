@@ -1,0 +1,14 @@
+# Estill death-certificate alphabetical landing
+# https://kygenweb.net/estill/site/records/death/
+# Captured 31 Oct 2026. HTTP 200, 9536 bytes.
+# Local copy: sources/deaths/estill-death-landing-2026-10-31.html
+
+"Death Certificates (Alphabetical)" section: letter N is printed as
+plain text ("N •") with no href. Letters J, O, Q, U, V, X, Y, Z likewise
+unlinked. Linked letters in the commented/visible block: A–I, K–M, P, R–T, W.
+No Estill N-certificate page exists to open for Mary Newnam.
+
+Year pages 1917 / 1918 / 1919 were opened (see companion extracts).
+Out-of-county "Lee" page opened: only NEWNAM is JOHNNIE, 19 Apr 1972,
+death LEE / residence ESTILL, vol 021 file 10178 — already rejected
+vs P010 (C237). Not Mary A. 1918.

@@ -1,0 +1,57 @@
+# Extract — Yell Co. AR 1920 ED 191 remainder (B071)
+# Original images: IA `14thcensusofpopu086unit` (NARA T625-86), PDF 597 pp, ~176 MB
+# downloaded this pass to /tmp/t625-86-yell.pdf (not committed).
+# Name-column crops: pypdfium2 + Pillow autocontrast, /tmp/ed191-names/p0351–p0379-names.jpg.
+# Key pages copied to sources/census/ed191/.
+# Access: image seen (visual read). No tesseract on this VM. Do not invent surnames.
+# Prior C215 / S226 / L185 bracket “PDF pp 330–378 = ED 191” is **wrong at the start**.
+
+## Header map (this pass — visual header reads of the same PDF)
+318     Galla Rock     ED 188
+325–331 Gilkey         ED 187
+335–350 Gravelly Hill / Gravelly Village  ED 192
+351–379 **true ED 191**  Lamar Township + Plainview town
+380     blank
+381+    Magazine / other EDs (not 191)
+
+p379 last household, then enumerator note **“no more to enumerate.”** ED 191 ends there.
+
+Prior sample JPEGs 330 / 335 / 340 / 345 / 350 (sources/census/1920-yell-ed191-pdfp*.jpg)
+are **not** ED 191. They are Gilkey 187 / Gravelly 192.
+Samples that fall inside true ED 191: 355, 360, 365, 370, 375, 378 + remainder 351–354,
+356–359, 361–364, 366–369, 371–374, 376–377, 379 (name crops read this pass).
+
+## Remainder hunt (Dora / Ella / Posa / Mrs Stone / Newman ~48; FAN Tom A. / McCoy / Randall)
+Visual read of name + relationship + age columns on 351–379.
+Handwriting hard. Uncertain surnames marked [illegible] — not invented.
+
+p351 (sheet start, hh 1+): Lamar opening sheet. No Stone / Newman head. No Dora ~48 wife.
+p352 hh 13: wife given **Dora**[?] age **28** (surname [illegible] — do not invent). Age 28 vs ~48. **Rejected.**
+         hh 14 Johnston family; wife age ~52 — given name not read as Dora with confidence.
+p354–p358: no Mrs T.A. Stone; no McCoy; no Tom A. as head. Ages of wives in these
+         households do not present a KY-born ~48 Dora + Sturgeon children cluster.
+p362 (would be ~sheet 6B if 351=1A): **no** clean re-isolation of prior **Stone, P.E. 42 / Dora 40 KY**
+         (C149). Do **not** relocate that pair. A male head ~36 + wife Emma
+         (surname [illegible] — Hinman/Henson/other; **not** claimed as Newman).
+p363 hh 141: **Cole**, wife given **Dora**[?] / Nora age **~27**; two young daughters. **Rejected.**
+p366 hh 172: wife **Ella** age **36** (surname [illegible] — Inman/Ermin/other; **not** invented);
+         boarders in house. Age 36 vs ~48. **Rejected.**
+p370: subdivision note “Here ends the …” (end of a precinct inside the ED); more sheets follow.
+         No Dora ~48 / Stone / Newman on the names read.
+p374–p375: no Stone / Newman / Dora ~48.
+p376 hh 229: **Johnston**, **Dora** wife **34**. **Rejected** (age 34; Johnston children).
+p378 (~sheet 14B if 351=1A): Roper / Howell / Simmons / Daniel / Beatty / Truman / Hol /
+         Hedgepath / Nelson / Wright households. **No** clean re-isolation of prior
+         **Stone, J.H. 29 / Dora 22 AR** (C149). Do **not** relocate that pair.
+p379: last hh **[Long?], S.P.** 32 + **Emma** + children; then **“no more to enumerate.”**
+         No Dora / Stone.
+
+## Verdict
+True ED 191 (351–379) remainder: **no** Mrs T. A. Stone ~48 b. KY with son McCoy;
+**no** Tom A. Stone as head; **no** Newman/Newnam household matching P001.
+Known C149 Stone/Dora homonyms were **not** re-found on the remainder pages read —
+they may sit on the mis-bracketed 330–350 sheets (ED 187/192) or on a sheet whose
+surname was not confidently read. Those pairs stay **rejected** as previously written;
+their sheet addresses are **not** restated from this pass.
+P001 line on ED 191: **nil** on pages visually read (PROBABLE negative; handwriting
+caps some given-name readings at POSSIBLE). Originals remain the source; OCR was not used.

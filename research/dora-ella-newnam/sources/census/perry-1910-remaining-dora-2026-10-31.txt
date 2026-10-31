@@ -1,0 +1,107 @@
+# Extract — Perry Co. AR 1910 remaining townships (B069)
+# Captured 31 Oct 2026. Transcription only (Sharon Smith / ARGenWeb).
+# Landing: https://www.argenweb.net/perry/census/1910census/
+# Did NOT refetch Howell / Rankin (C1330–C1332) or the five 1910 indexes already saved (C1333).
+# Hunt: Dora/Ella/Posa ~35–42; Stone/Newman FAN (Tom A.; Laura Bell Butler; Charles H. Newman).
+
+## Indexes opened (heads only)
+Casa Town: Stone, Amanda 24b hh 131.
+Cherry Hill / Dry Fork / Eran / Forest / Fourche Town / Lake / Maumelle / McCool /
+New Tennessee / Omega / Rose Creek / Tyler / Union / Walnut Grove: no Dora, Ella, Stone, Newman heads.
+Fourche LaFave: Leigh, Rosa 44b hh 90 (census body uses hh 91).
+Perry Township: Newman, Charles H. 91b hh 283. Turner, Stone E. (given Stone, not surname).
+Petit Jean: Stone, Elijah J. 56b hh 322; Stone, James 57a hh 330.
+South View: Stone, Alan 104b hh 89.
+
+## Casa Town — census opened
+hh 129: McConnell, Geo. W. 34 AR druggist; Rosa wife 28 AR 2/2;
+        Stone, Mary Mother-in-law 62 Wd 6/1 U.S.; Debbie SIL 19 Wd AL.
+        Mary Stone 62 is a different Stone cluster. No Dora.
+hh 131: Stone, Amanda Head 46 Wd 14/6 AR Seamstress;
+        Manning 18; Marcus 15; Grace 10; Rayburn 6; Nora dau 21 S AR.
+        Same cluster as 1920 Perryville Amanda S. Stone 56. No Dora / Tom A.
+hh 152: Huggins, Robert H. 43 AR postmaster; Ella wife 43 M 20yrs MS; Florence 20.
+        Ella Huggins 43 MS rejected (MS; m. 20y; postmaster’s wife).
+hh 122 Ella Lewis 22 S MS teacher — child/young adult. Rejected.
+Verdict: Casa Town excludes P001. Amanda Stone FAN only.
+
+## Fourche LaFave — census opened
+hh 91: Leigh, Rosa Head 38 D 5/3 AR; Zella 17; Gradelle 10; Artie 6. Rejected (AR; divorced; those daughters).
+hh 101: Cates, George P. 33 AR shingle mill; Dora wife 28 M 7yrs 3/3 AR; Lester/Earl/Verdie.
+        Rejected (age 28 vs ~38; AR; 3/3; husband Cates).
+hh 49: Griffith, Tristram J. 51 MS; Ella wife 36 M 16yrs 0/0 AR. Rejected (0 children; AR; Griffith).
+hh 47: Creasey, Cyrus 78 Wd IN; Ella dau 28 S AR. Rejected.
+hh 118: Windle, Rosa wife 38 IL m 21yrs. Rejected.
+No Stone / Newman heads. Verdict: nil P001.
+
+## Perry Township — census opened (largest body)
+hh 283: Newman, Charles H. 23 M 2yrs AR Farmer; Annie F. 18 AR 1/1; Riley R. 3/12; George W. brother 17.
+        No mother / MIL / boarder Dora.
+hh 123: Lucas boarding house — Newman, Allie M. dau 20 M 1yr + infant gdau. Not P001.
+hh 198: Butler, Dora boarder 20 S AR. Rejected (age 20).
+hh 136: Turner, Stone E. 29 (given name Stone). Not a Stone surname house.
+No Tom A. Stone. No Dora ~38 KY. Verdict: nil P001.
+
+## Petit Jean — census opened
+hh 266: Bonds, James M. 38 AR; Dora wife 36 M 7yrs 4/4 AR; Rosa 5, Ola 3, Lona 1, Esther 2/12.
+        Rejected (AR; Bonds children; husband James).
+hh 322: Stone, Elijah J. 59 M 30yrs VA Farmer; Mary 50 AR 7/5; Walter 17. No Dora.
+hh 330: Stone, James 34 AR timber; Lizzie 20 AR 0/0. No Dora.
+hh 320: Bierman, Rosa wife 54 MS (same cluster as 1920 Rosa C. Beerman). Rejected.
+Verdict: nil P001. Elijah/James Stone are other families.
+
+## South View — census opened
+hh 89: Stone, Allan E. 40 M 7yrs AR Farm Laborer; Flora E. 32 IL 1/1; Yates, Charles stepson 32.
+        No Dora / Tom A.
+No other Dora/Ella ~38. Verdict: nil P001.
+
+## Convict camp (Petit Jean, Fowler Mill Road) — entire page
+Note on page: “All prisoners & guards were white males.”
+Newman, John 19/S AR Prisoner/Laborer (p. 58a). Age 19 vs P010 ~10; AR vs KY. Not P010. Not P001 (female).
+No female names. Verdict: nil P001.
+
+## Casa Township — census opened (index was head-nil last pass)
+hh 25: Hance, Greenie 29 AR RR laborer; Dora wife 27 M 9yrs 4/3 AR; Usty 8, Cornelia 5, Georgia 2.
+        Rejected (age 27; AR; Hance children).
+hh 26: Moss, Dona wife 28 AR. Rejected.
+No Stone / Newman. Verdict: nil P001.
+
+## Perryville Town — census opened
+No Dora/Ella/Stone/Newman ~38. Closest: Ella I. House sister 21 Wd AR; Cora J. Wallace 36 AR (county judge’s wife, 5/5).
+hh 67: Butler, Ben F. 36 AR + Nannie 29 + five children + Tom J. Butler father 60 Wd TN.
+        Different Butler cluster from Laura B. in Howell. No Dora.
+Verdict: nil P001.
+
+## Fourche Town — census opened
+hh 86: Arnold, Rosa wife 36 AL m 15yrs 2/0. Rejected.
+No Stone / Newman / Dora ~38. Verdict: nil P001.
+
+## Rose Creek — census opened
+hh 75: Alexander, William 45 MO; Dora wife 34 M 9yrs 3/3 MO; Myrtle 20, Mazie 17, Alice 14, Pearl 8, Jessie 3 + stepson.
+        Rejected (age 34; MO; those daughters — Pearl here is 8, not P008).
+hh 63: Isom, Ella S. wife 37 AR m 18yrs 8/5. Rejected (AR; Isom children).
+Verdict: nil P001.
+
+## Aplin — census opened (index was head-nil)
+hh 198: Mosby, Hettie A. 64 Wd MS; Dora dau 40 S MS; Joseph 35; Bertha 27.
+        Same woman as 1920 Dora W. Mosby 50 S MS. Rejected.
+hh 137: Shelton, Dora DIL 18 M 1yr AR (Walter 18). Same 1920 Aplin Shelton cluster. Rejected.
+hh 140: Lipe, Ella J. wife 50 TN m 31yrs 10/7 (William G. 55 IL). Same as 1920 Ella J. Lipe. Rejected.
+hh 201: Miller, Dora wife 17 AR. Rejected.
+Verdict: nil P001.
+
+## Houston Township — census opened
+hh 154: Davis, Dora wife 22 AR. Rejected.
+hh 155: Cliffton, Dora boarder 24 M AR + Golda 1. Rejected.
+No Stone / Newman ~38. Verdict: nil P001.
+
+## Dry Fork / Omega / Cherry Hill / Tyler — census opened (small)
+Dry Fork: Nora? Keener dau age ? only. No Dora ~38.
+Omega: Blair, Cora wife 30 MS. Rejected.
+Cherry Hill: no Dora/Ella/Stone/Newman at any age.
+Tyler: McGraw, Rosa wife 40 AR m 19yrs 4/4. Rejected. Ella Gardner dau 4.
+Verdict: nil P001.
+
+## Residual unpublished 1910 census bodies (indexes opened; census not fetched this pass)
+Eran Town, Forest, Lake, Maumelle, McCool, New Tennessee, Union, Walnut Grove, Houston Town.
+Those indexes had no Dora/Ella/Stone/Newman heads. Boarder/MIL hunt in the bodies remains B070.

@@ -1,0 +1,26 @@
+LDSGenealogy.com Owsley County KY Marriage Records — catalog only
+https://www.ldsgenealogy.com/KY/Owsley-County-Marriage-Records.htm
+HTTP 200, 9386 B, 31 Oct 2026. **Not** a FamilySearch image session. No login.
+
+Listed sources (7):
+  1797-1954 Kentucky Marriages — MyHeritage (paywall, not opened)
+  1852-1914 Kentucky Marriage Records (Ancestry) — About text:
+      Owsley coverage 1852–1859, 1874, 1876–1879, 1903–1904, 1908–1910
+      **Same years as published USGenNet VS. No 1911–1917.**
+  Birth, marriage, and death records, 1852-1910 — WorldCat
+  Kentucky Marriage Index 1973-1999 — Ancestry (out of window)
+  Ohio/Oldham/Owen/Owsley VS bundle — WorldCat
+  **Owsley County, Kentucky marriages, 1843-1929** — FamilySearch Library
+      ldsgenealogy FHL2 link id **178898**
+      This is the R.L. Smith compilation (B064). **Not examined.**
+  **Reconstructed marriage records of Owsley County, Kentucky, 1843-1910** — FHL **179175**
+      Ends 1910. **Not examined.**
+
+Clerk mail path (written once; do not re-call the phone):
+  Austin Bowling, Owsley County Clerk
+  20 Main Street, PO Box 500, Booneville KY 41314
+  austin.bowling@ky.gov
+  Request: certified search of marriage books **1911–1917** for
+  Clyde Jackson (parents Rufus × Margaret) × Pearl Newnam/Newman.
+  Phone (606) 593-5735 — already logged; **not** re-called.
+  eCCLIX remains fee or resident-only (C346).
