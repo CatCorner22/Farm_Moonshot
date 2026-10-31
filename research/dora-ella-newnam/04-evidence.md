@@ -675,6 +675,20 @@
 | C1356 | ARGenWeb Pope: home has **no** 1910/1920 census link. `newsrptc.htm` is an ATU microfilm catalog (no name index). Probate Record C **nil** Newman/Stone/Dora | PROVEN as to those pages | S355 L467 | new host |
 | C1357 | ARGenWeb Perry wills landing posts only **Sanford Taylor 1906**. No Newnam/Stone estate index | PROVEN as to that landing | S355 L468 | year hole |
 | C1358 | USGenWeb Archives Perry landing **timeout** (one try) | PROVEN as to that attempt | S355 L469 | |
+| C1359 | 1910 Perry **Eran Town** (292 rows): **nil P001 ~38**. **No** Stone/Newman. Ella Burns dau 18 **rejected**. Rosa A. Huckeby wife 32 AR 3/2 **rejected**. Clark, Letha boarder 48 Wd MS **rejected** (not P001; not Coy’s Letha) | PROVEN negatives for that town; DISPROVED as P001 | S356 L471 | |
+| C1360 | 1910 **Forest**: **nil P001**. Cora M. Smith 32 / Cora V. Clark 27 / Cora Donathan 29 **rejected**. **No** Stone/Newman | PROVEN negatives | S356 L472 | |
+| C1361 | 1910 **Lake**: **nil P001**. Dora McGhee dau 6 **rejected**. Rosa McGhee wife 33 MO 6/3 **rejected**. **No** Stone/Newman | DISPROVED as P001 | S356 L473 | |
+| C1362 | 1910 **Maumelle**: **nil P001**. Nora Smith wife 39 OH 4/4 M 22y to Benjamin **rejected**. Dora Boyett dau 3 **rejected**. **No** Stone/Newman | DISPROVED as P001 | S356 L474 | |
+| C1363 | 1910 **McCool**: **nil P001 ~38**. Rosa L. Jones 28 / Nora L. Orrell 5 **rejected**. **No** Stone/Newman | PROVEN negatives | S356 L475 | |
+| C1364 | 1910 **New Tennessee**: **nil P001**. Ella Johnson wife 43 MS 2/1 M 23y to George **rejected**. **No** Stone/Newman | DISPROVED as P001 | S356 L476 | |
+| C1365 | 1910 **Union** hh **274**: Malcum, Dora wife 37 AR 4/4 M 19y to George + Johnnie/Jeffrey/Joe/Olar + SIL Casey — **rejected**. Ella Gaddy boarder 27 **rejected**. **No** Stone/Newman | DISPROVED as P001 | S356 L477 | |
+| C1366 | 1910 **Walnut Grove**: **nil P001**. Dora Riley niece 2 **rejected**. **No** Stone/Newman | DISPROVED as P001 | S356 L478 | |
+| C1367 | 1910 **Houston Town** (Houston Twp body already opened): **nil P001**. Ella L. Steakley wife 36 MS 6/6 + MIL Mary Herndon 64 **rejected**. Dona Rankin 20 **rejected**. Waters, Lillie servant 34 KY 5/1 **not merged** | DISPROVED as P001 | S356 L479 | |
+| C1368 | Combined with **C1330–C1350**: every linked ARGenWeb Perry **1910** township *census* page is now opened. **Zero** Stone/Newman rows in the nine bodies of this pass. P001 is **not** on that derivative set. Original T624 unread | PROVEN as to those transcripts; not an original-schedule negative | S356 L480 | B011 residual |
+| C1369 | Conway Book **Z** bride table (19 Aug 1925–28 Jul 1927), **633** rows: **no** Newnam/Newman party; **no** Dora Newnam × Stone; **no** T.A./Tom/Thomas Stone groom | PROVEN as to that table | S357 L481 | year hole |
+| C1370 | Book Z rejects: Greer, Dora 18 × Maxwell 1927; Stone brides Ola/Sybil/Olie 18–19; Stone, Dock 37 × Barnes, Naomi 20 on **3 Oct 1926** (after P001 death); Goforth, Ella Mrs 39 × Smith; Curtis, Dona Mrs 36 | DISPROVED as P001 | S357 L482 | |
+| C1371 | Conway `marriages.htm`: last posted book is **Z**. **No** Book AA+. Z-groom URL **404** (landing mislinks to Y-groom). `nodates.htm` (pre-1914 submissions): only Ella = Gardenhire; **no** Dora/Newnam/Stone | PROVEN as to those pages | S357 L483 | year hole |
+| C1372 | Residual after B070: Perry **1920** unpublished census bodies (Casa / Forest / New TN / Perry twp+town / Petit Jean / Union) and Yell **ED 191** remainder. Dora still **UNKNOWN** Apr 1910 and Jan 1920 | SPECULATIVE as to next host; placement **open** | S356 S357 L484 | B071 |
 | C224 | **1 Jun 1880** population schedule dw **102/102** (ED **59**, **S235**) is **Flanary** + **Brashears**, **not** a **Mays** head; **Mary MAYS** 83 d. **Jan 1880** in mortality hh **102** (**S120**) — **same dwelling number**, decedent absent from June snapshot | PROVEN (original pop. line + mortality transcript) | S235 S120 L248 | Does not identify Pollie Mays stone (**C147**) |
 
 ## Same-person merges (Hard Rule 3)
@@ -711,6 +725,15 @@
 | 1910 convict Newman, John 19 + P010 | Surname Newman | Age 19 vs ~10; AR vs KY; male prisoner | **Rejected (C1344)** |
 | 1924 Conway Hill, Dora 48 × Crynes + P001 | Given Dora; age 48 | Surname Hill; groom John Crynes 60; not Stone | **Rejected (C1355)** |
 | 1924 Conway Scoggins, Dora E. Mrs 49 × Conley + P001 | Dora E. + age 49 | Already Mrs. Scoggins; groom W. E. Conley | **Rejected / not merged (C1355)** |
+| 1910 Union Malcum, Dora 37 + P001 | Given Dora; age 37 | Surname Malcum; b. AR; 4/4; m. 19y to George; children Johnnie/Jeffrey/Joe/Olar | **Rejected (C1365)** |
+| 1910 New Tennessee Ella Johnson 43 + P001 | Ella; age 43 | b. MS; 2/1; m. 23y to George; son Arthur | **Rejected (C1364)** |
+| 1910 Houston Town Ella L. Steakley 36 + P001 | Ella; age 36 | b. MS; 6/6; six Steakley children; MIL Herndon | **Rejected (C1367)** |
+| 1910 Houston Town Waters, Lillie 34 KY + P001 | Age ~34; b. KY | Given Lillie; 5/1; servant in Sevier hh; m. 16y | **Rejected / not merged (C1367)** |
+| 1910 Maumelle Nora Smith 39 + P001 | Age 39 | Given Nora; b. OH; 4/4; m. 22y to Benjamin; MI children | **Rejected (C1362)** |
+| 1910 Eran Rosa A. Huckeby 32 + P001 | Age 32 | Given Rosa; b. AR; 3/2; husband Huckeby | **Rejected (C1359)** |
+| 1910 Lake Dora McGhee 6 + P001 | Given Dora | Age 6; parents Robert W. + Mary McGhee | **Rejected (C1361)** |
+| 1925–27 Conway Greer, Dora 18 + P001 | Given Dora | Age 18 vs ~54; groom Maxwell; 1927 | **Rejected (C1370)** |
+| 1926 Conway Stone, Dock 37 × Barnes Naomi + P001 | Groom surname Stone | Bride Naomi 20; 3 Oct 1926 after P001 death | **Rejected (C1370)** |
 | 1920 Perryville Amanda S. Stone 56 + P001 | Surname Stone | Born AR; dau Nora J. 32; not Tom A.’s house | **Rejected (C1313)** |
 | 1920 Sturgeon Dora 37 nee JUDD (Hall Mays) + P001 | Given name Dora | Age 37; maiden Judd; living children in that house | **Rejected (C126 cluster / this pass)** |
 | 1920 Sturgeon Pearl 24 nee NEWMAN in Clyde Jackson hh + P001 | Daughter’s married household | P001 would be mother ~48; she is not listed | **Not the same line — child located, mother absent (C305)** |

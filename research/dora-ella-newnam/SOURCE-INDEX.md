@@ -5,7 +5,7 @@ Full file list (331 files): [`sources/SOURCE-INVENTORY.tsv`](sources/SOURCE-INVE
 
 **Access labels:** `image seen` · `index only` · `transcription only` · `catalog only` · `OCR text` · `not yet examined`.
 
-Captured this session: **31 Oct 2026** (S283–S290, S299–S355). Earlier plates remain in `sources/census/`, `sources/soundex/`, and `book/plates/` (see `12-image-gallery.md` and `04-evidence.md`). Pass 60–61 sources S267–S282 remain.
+Captured this session: **31 Oct 2026** (S283–S290, S299–S357). Earlier plates remain in `sources/census/`, `sources/soundex/`, and `book/plates/` (see `12-image-gallery.md` and `04-evidence.md`). Pass 60–61 sources S267–S282 remain.
 
 | ID | Filename | Date captured | Repository | URL | Citation (what / where created / where accessed) | What it proves | Access |
 |---|---|---|---|---|---|---|---|
@@ -91,6 +91,8 @@ Captured this session: **31 Oct 2026** (S283–S290, S299–S355). Earlier plate
 | S353 | `sources/census/perry1910/` remaining idx/cen + `perry-1910-remaining-dora-2026-10-31.txt` | 2026-10-31 | ARGenWeb Perry 1910 | perry/census/1910census/ | Remaining townships (not Howell/Rankin) | **Nil** P001; Stone/Newman FAN houses exclude her (**C1339–C1351**) | transcription only (negative) |
 | S354 | `sources/marriages/perry-book-f-*.html` + `perry-book-g-*.html` + extract | 2026-10-31 | ARGenWeb Perry marriages | perry/marriages/ | Books F/G N+S+D 1916–30 | **No** Dora×Stone (**C1352 C1353**) | index / transcription |
 | S355 | `sources/census/conway/` + `sources/marriages/conway/` + `sources/census/pope/` + `sources/court/perry/wills-landing.html` + extract | 2026-10-31 | ARGenWeb Conway / Pope / Perry wills | conway/ ; pope/ ; perry/court/wills/ | 1910/1920 catalog + W/X/Y brides + Pope film/probate | Conway 1910/1920 unpublished; W/X/Y **nil** Dora Newnam×Stone; Pope catalog only (**C1354–C1358**) | index / catalog |
+| S356 | `sources/census/perry1910/cen-eran.html` + forest/lake/maumelle/mccool/newtennessee/union/walnutgrove/houstontown + `perry-1910-unpublished-dora-2026-10-31.txt` | 2026-10-31 | ARGenWeb Perry 1910 | perry/census/1910census/ | Last nine census bodies | **Nil** P001; **zero** Stone/Newman; Malcum/Johnson/Steakley rejected (**C1359–C1368**) | transcription only (negative) |
+| S357 | `sources/marriages/conway/book-z-bride.html` + `marriages-htm-2026-10-31.html` + `nodates-2026-10-31.html` + extract | 2026-10-31 | ARGenWeb Conway marriages | conway/ccmarrbkzbride.html | Book Z 633 rows + landing + nodates | **No** Dora Newnam×Stone; no AA+; nodates **nil** (**C1369–C1371**) | index / transcription |
 
 ## Word biography provenance
 
@@ -112,8 +114,8 @@ See [`sources/authored/PROVENANCE.md`](sources/authored/PROVENANCE.md). Drive se
 | R.L. Smith, *Owsley Co. Marriages 1843–1929* (print, cited on Combs-families) | ILL / KHS: Clyde × Pearl | **B064** |
 | AR Digital Archives In Remembrance death index S–T / M–O | When host resolves: Stone / Newman 1926 | DNS this pass (**C350** / **B065**) |
 | ARGenWeb Perry 1920 remaining *unpublished* / index-nil census bodies | Casa / Forest / New TN / Perry twp+town / Petit Jean / Union unpublished; other index-nil published bodies | Hit townships done (**C1318–C1329** / **B068**) |
-| ARGenWeb Perry 1910 remaining *unpublished* census bodies | Eran / Forest / Lake / Maumelle / McCool / New TN / Union / Walnut Grove / Houston Town | Hit/priority townships done (**C1339–C1350** / **B070**) |
-| Conway Marriage Book **Z** bride | 19 Aug 1925–28 Jul 1927 Dora Newnam × Stone | W/X/Y done (**C1355**) |
+| ARGenWeb Perry 1910 remaining *unpublished* census bodies | Eran / Forest / Lake / Maumelle / McCool / New TN / Union / Walnut Grove / Houston Town | **Done** (**C1359–C1368** / **B070**) |
+| Conway Marriage Book **Z** bride | 19 Aug 1925–28 Jul 1927 Dora Newnam × Stone | **Done** (**C1369–C1371**) |
 
 ## Variant strings used this session (categories 1–4)
 
@@ -123,7 +125,7 @@ See [`sources/authored/PROVENANCE.md`](sources/authored/PROVENANCE.md). Drive se
 
 **Thomas / T. A. Stone:** Thomas, Tom, T. A., T A × Stone, Store, Stowe (rejects already logged).
 
-Exact strings in `02-log.md` **L343–L352** (pass 60–61), **L361–L372** (pass 62), **L373–L379** (pass 63), **L396–L405** (pass 64), **L406–L418** (pass 65), **L419–L429** (pass 66), **L430–L441** (pass 67), **L442–L455** (pass 68), and **L456–L470** (pass 69).
+Exact strings in `02-log.md` **L343–L352** (pass 60–61), **L361–L372** (pass 62), **L373–L379** (pass 63), **L396–L405** (pass 64), **L406–L418** (pass 65), **L419–L429** (pass 66), **L430–L441** (pass 67), **L442–L455** (pass 68), **L456–L470** (pass 69), and **L471–L484** (pass 70).
 
 **Pearl / Clyde (pass 63):** Pearl × Newnam/Newman/Jackson; Clyde × Jackson/jacksen. Soundex **N550** / **J250**.
 

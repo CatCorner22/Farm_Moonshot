@@ -151,6 +151,12 @@ Exact strings logged **L361–L372**. Ages from `kinship.py`: 28 (1 Jun 1900), 3
 
 Exact strings logged **L343–L360**.
 
+## Name-variant storm (pass 70, 31 Oct 2026, `search_variants.py`)
+
+**Dora Newnam --also Newman** — given: Dora, posa, dosa, rosa, dona, dara, dore, dori, dola, pora, rora. Surname: Newnam, newman, newnarn, newan, newnom. Soundex **N550**. Also Ella / Mrs Stone / Mrs Newman / Posa / Nora / Cora on remaining Perry 1910 census bodies (Eran, Forest, Lake, Maumelle, McCool, New Tennessee, Union, Walnut Grove, Houston Town). Stone Soundex **S350**. Conway Book Z bride: Dora / Ella / Posa × Newnam / Newman / Stone.
+
+Exact strings logged **L471–L484**.
+
 ## Name-variant storm (pass 69, 31 Oct 2026, `search_variants.py`)
 
 **Dora Newnam --also Newman** — given: Dora, posa, dosa, rosa, dona, dara, dore, dori, dola, pora, rora. Surname: Newnam, newman, newnarn, newan, newnom. Soundex **N550**. Combined samples: `"Dora Newnam"`, `"Newnam, Dora"`, `"posa Newman"`, `"Dora newman"`. Also Ella / Mrs Stone / Mrs Newman / Posa / Dona / Nora / Cora as given-name variants on remaining Perry 1910 township transcripts. Stone Soundex **S350**. FAN: Tom A. / Laura Bell Butler / Randall / McCoy Newman.

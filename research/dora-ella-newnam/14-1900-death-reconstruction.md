@@ -4,7 +4,7 @@ Year-by-year / event-by-event pinpoints from **1 June 1900** through **24 August
 Only cited claims. Confidence: **PROVEN** · **PROBABLE** · **POSSIBLE** · **SPECULATIVE** · **DISPROVED**.  
 Unverified items stay **open**. Living descendants are redacted.
 
-**Session:** 31 Oct 2026 · branch `cursor/dora-1900-death-reconstruction-2b6a` · logs **L361–L470** · claims **C305–C369, C1300–C1358** · sources **S283–S290, S299–S355**.  
+**Session:** 31 Oct 2026 · branch `cursor/dora-1900-death-reconstruction-2b6a` · logs **L361–L484** · claims **C305–C369, C1300–C1372** · sources **S283–S290, S299–S357**.  
 **Ages** computed from birth **11 Aug 1871** (year **PROVEN**; day 11 **POSSIBLE**): 28 on 1 Jun 1900; 38 on 15 Apr 1910; 45 on 18 Feb 1917; 48 on 1 Jan 1920; 55 on 23 Aug 1926.
 
 ---
@@ -15,13 +15,13 @@ Unverified items stay **open**. Living descendants are redacted.
 |---|---|---|---|
 | 1 Jun 1900 | Sturgeon precinct, Lee Co., KY, dwelling **67/67**, wife of Samuel P. Newnam; five living children of seven born | **PROVEN** (transcription) | C011 |
 | 1901–Mar 1910 | No record read names her place. Kentucky **PROBABLE** only by later children’s KY events and the absence of an out-of-state Newnam head card | **PROBABLE** KY, place **open** | C012 C205 |
-| Apr 1910 | **Not** Newman/Newnam/Stone/Peebles ~39 in KY/AR/MO/OK/TX indexes; **not** Sturgeon ED 99 as Newnam; **not** with Pearl (hh 141) or with Rufus Jackson (hh 161) in Owsley | **UNKNOWN** (honest gap) | C030 C033 C088 C070 C317 |
+| Apr 1910 | **Not** Newman/Newnam/Stone/Peebles ~39 in KY/AR/MO/OK/TX indexes; **not** Sturgeon ED 99 as Newnam; **not** with Pearl (hh 141) or with Rufus Jackson (hh 161) in Owsley; **not** on any linked Perry 1910 ARGenWeb census page | **UNKNOWN** (honest gap) | C030 C033 C088 C070 C317 C1330 C1339–C1350 C1359–C1368 |
 | 1911–Jan 1917 | No record read places her | **open** | C205 |
 | 18 Feb 1917 | Son Coy marries at **Ola**, Yell Co., AR — first documented **Arkansas** event for this *family*; does **not** place Dora at the courthouse | Event **PROVEN**; her presence **POSSIBLE** | C027 C312 |
 | 29 Jun 1917 / 11 Mar 1919 | Daughter Pearl registers two births in **Lee Co., KY** as Pearl Newman | Children **PROVEN** in Lee; Dora **not** on those index rows | C306 C307 |
 | 11 Jul 1918 | Mother **Mary A. Newnam** buried Brandenburg-Quillen, Heidelberg | Burial **PROVEN** (2001 reading); **statewide KY death index 1917–19 nil**; Dora **not named** | C309 C310 C326 C047 |
 | Jan 1920 | **Not** in Pearl’s Sturgeon house; **not** in Coy’s Danville house; **not** in Elias’s Beattyville house; **not** Mrs. Stone on Yell ED 200; **not** in Beattyville Pct 1–2; Tom A. Stone is a **widower** in Perry Howell hh 122 (Dora absent); **not** in remaining opened Perry 1920 townships | Her line **UNKNOWN**; those households **PROVEN** negatives | C305 C207 C209 C213 C050 C1304 C1311 C1318–C1329 |
-| Feb 1920–1925 | **Probable** m2 T. A. Stone *after* 24 Feb 1920 (he is widowed that day) | m2 **PROBABLE**; date/place **open** | C014 C316 |
+| Feb 1920–1925 | **Probable** m2 T. A. Stone *after* 24 Feb 1920 (he is widowed that day). Perry D–G and Conway W–Z posted books **nil** Dora Newnam × Stone | m2 **PROBABLE**; date/place **open** | C014 C316 C1334 C1352 C1355 C1369 |
 | noon 23 Aug 1926 | Death, Ola, Yell Co., AR; spouse T. A. Stone; informant Coy Newnam of Ola; apoplexy 1 day | **PROVEN** | C015 |
 | 24 Aug 1926 | Burial Carters Chapel / Carter Cove | **PROVEN** | C016 C206 |
 
@@ -113,9 +113,10 @@ She is **not**:
 - on 1910 Owsley **Booneville, Sturgeon, or Wild Dog** transcripts under those OCR forms [C362]
 - on 1910 Owsley **Island Creek, Cow Creek, or Buffalo** under those OCR forms. Two age-adjacent wives on Cow Creek — **Dora Belle Moore, 36** (Jeff Moore, m1 24y) and **Dora Bolin, 36** (Isaac Bolin; Zack, Elizabeth, John) — fail the same-person test. No Newman/Stone heads in those three districts. [C1300] [C1301] [C1302] [C1317]
 - in Perry County, Arkansas, **Howell** 1910 (entire township opened): **no** Tom A. Stone and **no** Dora ~38. James R. Butler and **Laura B.**, 25, Missouri, are in hh **17** without a father-in-law — **PROBABLE** FAN (Laura Bell Stone Butler) that still **excludes** P001. [C1330] [C1331] [S350] Rankin 1910 **Dora?** Goin, 28, Tennessee, and **Dora** daughter, 6, fail the same-person test; William J. Stone’s house has Lottie, not Dora. [C1332]
-- in the remaining Perry 1910 townships opened this pass (Casa Town and Township, Fourche LaFave, Perry Township, Petit Jean, South View, convict camp, Perryville Town, Fourche Town, Rose Creek, Aplin, Houston Township, Dry Fork, Omega, Cherry Hill, Tyler). Amanda Stone, 46, widow, Arkansas, in Casa Town hh **131** is the 1920 Perryville cluster — **no** Dora in that house. [C1339] Charles H. Newman, 23, in Perry Township hh **283** has wife Annie and brother George — **no** mother-in-law Dora. [C1341] Elijah J. Stone (59, Virginia), James Stone (34), and Allan E. Stone (40) have other wives. [C1342] [C1343] The convict camp page is all-male; John Newman, 19, Arkansas, is not John H. [C1344] Age-adjacent rejects: Dora Cates, 28; Dora Bonds, 36; Dora Hance, 27; Dora Alexander, 34, Missouri; Dora Mosby, 40, single, Mississippi. [C1340] [C1345] [C1347] [C1348]
+- in the remaining Perry 1910 townships opened last pass (Casa Town and Township, Fourche LaFave, Perry Township, Petit Jean, South View, convict camp, Perryville Town, Fourche Town, Rose Creek, Aplin, Houston Township, Dry Fork, Omega, Cherry Hill, Tyler). Amanda Stone, 46, widow, Arkansas, in Casa Town hh **131** is the 1920 Perryville cluster — **no** Dora in that house. [C1339] Charles H. Newman, 23, in Perry Township hh **283** has wife Annie and brother George — **no** mother-in-law Dora. [C1341] Elijah J. Stone (59, Virginia), James Stone (34), and Allan E. Stone (40) have other wives. [C1342] [C1343] The convict camp page is all-male; John Newman, 19, Arkansas, is not John H. [C1344] Age-adjacent rejects: Dora Cates, 28; Dora Bonds, 36; Dora Hance, 27; Dora Alexander, 34, Missouri; Dora Mosby, 40, single, Mississippi. [C1340] [C1345] [C1347] [C1348]
+- in the last nine Perry 1910 census bodies (Eran Town, Forest, Lake, Maumelle, McCool, New Tennessee, Union, Walnut Grove, Houston Town). Those files have **zero** Stone/Newman/Newnam surname rows. Closest given+age hit is **Malcum, Dora**, 37, Arkansas, 4/4, wife of George for 19 years, with Johnnie, Jeffrey, Joe, and Olar — **rejected**. [C1365] Ella Johnson, 43, Mississippi, and Ella L. Steakley, 36, Mississippi, fail the same-person test. [C1364] [C1367] Lillie Waters, 34, Kentucky, a servant in Houston Town, is **not merged**. [C1367] Combined with the prior opens, **every linked ARGenWeb Perry 1910 township census page** has now been read; P001 is not on that derivative set. [C1368] Original NARA T624 schedules remain unread.
 
-**Still unpublished (404):** 1910 Lee **Heidelberg, Ivy Patch, St Helens**. [C360] Remaining Perry 1910 *census bodies* (indexes already head-nil): Eran, Forest, Lake, Maumelle, McCool, New Tennessee, Union, Walnut Grove, Houston Town — **B070**. [C1351] Conway 1910/1920 transcripts are **unpublished** on ARGenWeb (labels only). [C1354]
+**Still unpublished (404):** 1910 Lee **Heidelberg, Ivy Patch, St Helens**. [C360] Conway 1910/1920 transcripts are **unpublished** on ARGenWeb (labels only). [C1354]
 
 **H3** (another married surname, or wife listed only on a husband’s card) remains **open** except Peebles, which is **not supported**. [C087] A **Smith** remarriage by 1914 (Frances Smith / mother Ella Newman, 29 May 1914) is **not merged** — one identifier only; Lee Book 10 and the 1920 precincts just read do not corroborate. [C358] [C364]
 
@@ -147,7 +148,9 @@ No Lee tax list for 1901–09 is published on the USGenNet/KYGenWeb pages opened
 
 **This pass — Perry marriage Books D (1905–12) and E (N+S, years on page 1912–16):** **no** bride Dora/Ella Newnam and **no** T. A. / Tom Stone groom. Local Newmans (John × Addie 1906; Homer; Bertha) are the Rankin cluster, not hers. [C1334] [C1335] [S351] Book E **NEWMAN, McCoy, 23**, × **BENCH, Ada, 14**, 1 August 1912, is a **POSSIBLE** same-name hit for son Coy — **not merged** (conflict #19). It does **not** name Dora and does **not** place her. [C1335] Yell ARGenWeb bride pages D–F / M–O / S are a **1842–1878** compilation only; they do not cover 1911–25. [C1336] Perry posted **no** births after 1900 and **no** submitted death file for 1900–1926. [C1337]
 
-**This pass — Perry Books F (12 Dec 1916–24 Feb 1922) and G (14 Feb 1922–3 Jul 1930), letters N+S+D:** **no** Dora Newnam bride and **no** T. A. / Tom Stone groom. Book F has **no** Newman row; the only Stone is Ada, 24, × Edgar Elbert, 1917. [C1352] Book G has W. A. Newman, 27, × Elizabeth Tedder, 1922 (not Coy) and Stone grooms aged 18–20. [C1353] Conway County Books W/X/Y brides (26 Oct 1919–15 Aug 1925) likewise have **no** Dora Newnam × Stone. Two age-adjacent Conway Doras — Hill, Dora, 48, × John Crynes, 1924, and Scoggins, Dora E., Mrs, 49, × W. E. Conley, 1924 — fail the same-person test. [C1355] Book Z (Aug 1925–1927) is unread (**B070**).
+**This pass — Perry Books F (12 Dec 1916–24 Feb 1922) and G (14 Feb 1922–3 Jul 1930), letters N+S+D:** **no** Dora Newnam bride and **no** T. A. / Tom Stone groom. Book F has **no** Newman row; the only Stone is Ada, 24, × Edgar Elbert, 1917. [C1352] Book G has W. A. Newman, 27, × Elizabeth Tedder, 1922 (not Coy) and Stone grooms aged 18–20. [C1353] Conway County Books W/X/Y brides (26 Oct 1919–15 Aug 1925) likewise have **no** Dora Newnam × Stone. Two age-adjacent Conway Doras — Hill, Dora, 48, × John Crynes, 1924, and Scoggins, Dora E., Mrs, 49, × W. E. Conley, 1924 — fail the same-person test. [C1355]
+
+**This pass — Conway Book Z bride table (19 Aug 1925–28 Jul 1927), 633 rows:** **no** Newnam/Newman party and **no** Dora Newnam × T. A. Stone. Stone brides are Ola, Sybil, and Olie, all 18–19. Stone, Dock, 37, married Naomi Barnes, 20, on 3 October 1926 — after P001’s death. Greer, Dora, 18, and Goforth, Ella, Mrs, 39, fail the same-person test. [C1369] [C1370] The current Conway marriages landing posts **no** book after Z. The undated-submissions page is pre-1914 and names no Dora/Newnam/Stone. [C1371]
 
 ---
 
@@ -246,7 +249,7 @@ Statewide / ED negatives already on file:
 
 **New constraint this reconstruction states explicitly (C316):** if the husband is the 1920 Tom A. Stone, the marriage is **after 24 February 1920** (he is enumerated widowed) and **before** her 23 August 1926 death (certificate names spouse T. A. Stone). The 1925 Carter Cove marker for Thomas Stone, if it is his, tightens the window to **24 Feb 1920 × 1925**.
 
-**Still unread:** Yell County marriage book 1920–1925; Arkansas statewide bride index; 1925 Arkansas death certificate for Thomas/T.A. Stone (conflict #4, birth 1845 vs ~1858). Perry Books **D–G** letter pages now **nil** Dora × Stone (D/E N+S; F/G N+S+D). [C085] [C1334] [C1335] [C1352] [C1353] Conway W/X/Y **nil**. [C1355]
+**Still unread:** Yell County marriage book 1920–1925; Arkansas statewide bride index; 1925 Arkansas death certificate for Thomas/T.A. Stone (conflict #4, birth 1845 vs ~1858). Perry Books **D–G** letter pages now **nil** Dora × Stone (D/E N+S; F/G N+S+D). [C085] [C1334] [C1335] [C1352] [C1353] Conway **W–Z** **nil**. [C1355] [C1369]
 
 **Residence 1920–Aug 1926 — PROBABLE** Lamar / Carter Cove / Ola sector as Mrs. Stone, **without** a census line after the ED 200 read. [C211] Grounds: 1926 death at Ola, informant Coy of Ola, burial Carters Chapel, husband’s **probable** 1925 marker there. That is geography by death and burial, not a 1922 city directory.
 
@@ -313,7 +316,7 @@ WWI: Lee County draft transcript (1,126 cards) has **no** Newnam / Newman / McCo
 | 1907 | — | **open** |
 | 1908 | — | **open** |
 | 1909 | — | **open** |
-| 1910 | Not on any searched Newman/Stone/Peebles line; not Sturgeon ED 99; not with Pearl; not Posa/Nora/Cora ~39 on Proctor/Fincastle/NewVA, Owsley Booneville/Sturgeon/Wild Dog, **or Island/Cow/Buffalo**; not in opened Perry 1910 townships (Howell/Rankin + Casa–Tyler set). Heidelberg/Ivy/St Helens and nine Perry census bodies still unpublished | **UNKNOWN** for her; children/FAN **PROVEN** |
+| 1910 | Not on any searched Newman/Stone/Peebles line; not Sturgeon ED 99; not with Pearl; not Posa/Nora/Cora ~39 on Proctor/Fincastle/NewVA, Owsley Booneville/Sturgeon/Wild Dog, **or Island/Cow/Buffalo**; **not** on any linked Perry 1910 ARGenWeb census page (derivative set now complete). Heidelberg/Ivy/St Helens still unpublished | **UNKNOWN** for her; children/FAN **PROVEN** |
 | 1911 | — (Lee births N/D/E/S/B/A/G/H/M: no mother Dora) | **open** |
 | 1912 | — | **open** |
 | 1913 | — | **open** |
@@ -360,18 +363,19 @@ WWI: Lee County draft transcript (1,126 cards) has **no** Newnam / Newman / McCo
 | Yell 1920 **ED 191** remainder | Last unread Carter Cove sector for Mrs. Stone |
 | 1920 Owsley published transcripts | **None found** on USGenNet / KYGenWeb / census-online (**C1303**). Residual = originals / FS |
 | Perry 1920 remaining *unpublished* census bodies + index-nil published bodies | Casa / Forest / New TN / Perry twp+town / Petit Jean / Union unpublished; Cherry Hill / Dry Fork / Houston Town / Kenney / Lake / Maumelle / Mountain / Omega / Rose / Rowland / South View / Sweet Home / Tyler / Walnut Grove index-nil (**B068** opened the hit townships) |
-| Perry 1910 remaining *unpublished* census bodies | Eran / Forest / Lake / Maumelle / McCool / New TN / Union / Walnut Grove / Houston Town (**B070**). Hit/priority townships **done** (**C1339–C1350**) |
-| Conway Marriage Book **Z** bride (19 Aug 1925–28 Jul 1927) | Last unread Conway book in the m2 window (**C1355**) |
+| Perry 1910 remaining *unpublished* census bodies | **Done** this pass (**C1359–C1368**). Entire linked ARGenWeb 1910 set now opened |
+| Conway Marriage Book **Z** bride (19 Aug 1925–28 Jul 1927) | **Done** (**C1369–C1371**). No later letter posted |
 
 ---
 
 ## Files this reconstruction rests on
 
-- Case: `03-timeline.md`, `04-evidence.md` (C305–C369, C1300–C1358, S283–S290, S299–S355), `06-dossier.md`, `07-conflicts.md` #18–#19, `02-log.md` L361–L470, `SOURCE-INDEX.md`
+- Case: `03-timeline.md`, `04-evidence.md` (C305–C369, C1300–C1372, S283–S290, S299–S357), `06-dossier.md`, `07-conflicts.md` #18–#19, `02-log.md` L361–L484, `SOURCE-INDEX.md`
 - Pass 66 extracts: `sources/marriages/owsley-vs-1903-10-dora-bride-nil-2026-10-31.txt`, `lee-book10-vsm2-ella-smith-nil-2026-10-31.txt`, `sources/births/lee-owsley-1902-09-mother-dora-nil-2026-10-31.txt`, `lee-owsley-desb-mother-dora-1911-20-2026-10-31.txt`, `sources/census/1910-1920-ocr-unread-precincts-2026-10-31.txt`, `sources/catalog/ldsgenealogy-owsley-marriages-extract-2026-10-31.txt`, `sources/directories/year-hole-directories-voters-2026-10-31.txt`
 - Pass 67 extracts: `sources/census/1910-owsley-island-cow-buff-ocr-2026-10-31.txt`, `1920-lee-beat-precincts-dora-2026-10-31.txt`, `perry-1920-howell-perryville-dora-2026-10-31.txt`, `sources/births/lee-owsley-magh-1921-mother-dora-2026-10-31.txt`, `sources/directories/year-hole-new-hosts-2026-10-31.txt`
 - Pass 68 extracts: `sources/census/perry-1920-remaining-dora-2026-10-31.txt`, `perry-1910-howell-rankin-dora-2026-10-31.txt`, `sources/marriages/perry-de-yell-marr-dora-2026-10-31.txt`
 - Pass 69 extracts: `sources/census/perry-1910-remaining-dora-2026-10-31.txt`, `sources/marriages/perry-fg-conway-wxy-dora-2026-10-31.txt`
+- Pass 70 extracts: `sources/census/perry-1910-unpublished-dora-2026-10-31.txt`, `sources/marriages/conway-z-nodates-dora-2026-10-31.txt`
 - Narrative: `book/Dora-Ella-Newnam-Stone-A-Life.md` § Places: 1900 to death
 
 This reconstruction is **not complete**. Dora’s 1900–death life is **not** filled in.
