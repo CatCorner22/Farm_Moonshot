@@ -1,0 +1,40 @@
+Pass 93 extract — 31 Oct 2026 (America/New_York)
+B055 1930 Madison T626-769 Berea Town ED 76-16 + Glade 76-17.
+
+Published ED list (us-census.org Madison1930-T626-769):
+- 76-16 Berea Town; institution Berea College
+- 76-17 Mag. Dist. 6 Glade (North Part)
+- 76-18 Mag. Dist. 6 Glade (Southwest Part), excluding Berea Town
+- 76-19 Mag. Dist. 6 Glade (Southeast Part)
+
+IA kentuckycensus00reel769 visual:
+- 0335 w800 = 76-15 Yates Mag Dist 5 sh 7B, April 17, S.P. Powell.
+- 0338 w1200 = 76-15 Yates Mag Dist 5 sh 9A, April 22, S.P. Powell. Short sheet (Gossett / Coal / Edington). Official-looking 76-15 end-adjacent.
+- 0339 w1200 = unused blank B schedule.
+- 0340 w1200 = Incorporated place Berea, Mag Dist 6, ED 76-16, sh 1A, 2 April, J.A. Baker. Official 76-16 START. Visual miller / manager cluster (first dwellings). Nil Newman / Frank isolated.
+- 0350 w1200 = Berea City 76-16 sh 6A, 7 April, J.A. Baker. Visual Gooch / Blount / Wilson / Anderson. Nil Newman.
+- 0360 w1200 = Berea City 76-16 sh 11A, 16 April, J.A. Baker. Visual French / Walls / Eagle / Hamilton — “French, Eugene” is not Frank Newman.
+- 0365 w800 = Berea City 76-16 sh 13B, 18 April, J.A. Baker.
+- 0375 w800 = Berea City 76-16, Institution Berea College, sh 18B, 3 April, J.A. Baker.
+- 0376 w1200 = Berea City 76-16, Institution Berea College, sh 19A, 24 April, J.A. Baker. Last populated 76-16 sheet (college students/workers: Holder / Miller / Freeman / Jones). Nil Newman isolated.
+- 0377 w1200 = unused blank after 76-16.
+- 76-16 COMPLETE 0340–0376 (sh 1A–19A, college on later sheets).
+- 0378 w1200 = Mag Dist 6 Glade, ED 76-17, sh 1A, 14 April, Leon Lewis. Official 76-17 START. Farmers (Barnette / Richardson / Jennings). Nil Newman.
+- 0379 w1200 = 76-17 sh 1B continuation.
+- 0380 w800 = 76-17 sh 2A.
+- 0390 w800 = 76-17 sh 7A.
+- 0392 w1200 = 76-17 Mag Dist 6 sh 8A, 3 May, Leon Lewis. Short sheet (3 households: Parks / Combs / Coy). Official-looking 76-17 END.
+- 0393 w1200 = unused blank.
+- 0394 w1200 = Mag Dist 6 Glade (excluding Berea Town), ED 76-18, sh 1A, 2 April, W.D. Daniel. Official 76-18 START. Blanton cluster. Residual: remaining 76-18 / 76-19.
+
+Tesseract name-column crops 0336–0379 (44 sheets): nil newman/newnam/noonan/nunan/frank/david/mccoy/grant tokens. Assist only.
+
+Catalog:
+- us-census Madison 1930 ED list HTML seen (S676).
+- FS 127913 / 127869 / 1146342 SPA ~19 KB (R011-43).
+- IA Solr “estill county kentucky 1930 census station camp” numFound 0.
+- IA Solr Antioch/Clifty Wolfe 1920 numFound 0.
+- AHGP / CA Frank Newman Berea 1930 FAIL/403.
+- kygenweb Madison landing HTML seen.
+
+Same-person: John 38+Jennie still rejected vs John L. Floyd still not merged vs Boyd. French Eugene rejected vs Frank. 76-17 “Coy” household on 0392 is a given-name token only — not merged with McCoy Newnam (wrong county; no second identifier). Do not print 1966, 1976, Floyd-as-Boyd, 1962 as McCoy death, or 1942 Combs charge as fact.

@@ -1,0 +1,58 @@
+Pass 91 extract — 31 Oct 2026 (America/New_York)
+B089 Estill 1930 33-8 hunt + B088 Bell 26/27/31–34 closes + B055 Madison T625-590 map.
+
+IA kentuckycensus00reel742 (T626-742, 1165 images):
+- 0650 = Estill ED 33-2 Irvine City South sh 16B stamped 41, 15 Apr, Mel J. Johnston. NOT 33-8.
+- 0746 = ED 33-6 Millers Creek West sh 14B stamped 79, 9 Apr, Jesse Keep. Short end.
+- 0747 = ED 33-14 Millers Creek East sh 1A stamped 80, 9 Apr, Charley H. Patrick. Official 33-14 start.
+- 0819 = ED 33-7 Station Camp North sh 14A end (already C920).
+- 0820 = unused blank schedule.
+- 0821 w1600 = ED 33-10 Red Lick East Mag Dist 4 sh 1A stamped 117, 2 Apr, Robert E. Tye. Thrasher / Rose / Ingram / Hallard cluster. NOT 33-8.
+- Stamped 094A (33-7 end) jumps to 117A (33-10 start). 33-8 (095A–102B) and 33-9 (103A–116A) ABSENT from this IA scan.
+- 0901 = ED 33-12 Forks West sh 9A stamped 157, Houston J. Tuttle.
+- 0924 = ED 33-12 sh 14B stamped 168. “Here ends the Enumeration of Magisterial District No 33-12 Forks District … Houston J. Tuttle.” Official 33-12 end.
+- 0925 = ED 33-13 Forks East Mag Dist 6 sh 1A stamped 169, 2 Apr, Halloran farmers.
+- 0937 = ED 33-13 sh 7A stamped 175, County Poor Farm. Brumley? household. Nil Newman.
+- 0945 = ED 33-13 sh 11A stamped 179, 17 Apr, Halloran. Short last Estill populated sheet.
+- 0946 unused (seen in prior download).
+- 0947 = GRANT CO. E.D’S 41-1 TO 41-12 (COMPLETE). Estill ends on this scan without 33-8/33-9.
+- 15thcensus1742unit = 1930 North Dakota (Sargent/Sheridan/Sioux/Stark/Steele). Not a second T626-742.
+- us-census.org Estill 1930: 33-8 still unpublished (095A–102B).
+- 1940 LDSGenealogy compiled: Irvine = Fred line; Miller Creek / Forks / Riddell nil Newman; Red Lick = Hendrix ~1885 + Sarah E + John Beverly + Melvina + James Beverly — rejected vs Boyd+Allie. Station Camp 1940 unpublished.
+- NARA 1950 Estill Newnam API total 3: Fred Irvine 33-1; Hendrix-line 33-13/sheet header 33-15 Irvine-Winchester Rd (Newnam ~65 carpenter + Sarah 64 + John B 33; Melvina + James B) image seen; 33-6 Vertie fragment. Estill Newman API 0.
+
+IA 14thcensusofpopu559unit (T625-559 Bell):
+- 0517 = South Side Precinct 20 Middlesboro ED 26 sh 1A, 3 Feb, Ralph Goins. Official start.
+- 0559 = ED 26 sh 22A. “Here ends the enumeration of South Side Precinct Middlesboro City.” ED 26 COMPLETE 0517–0559.
+- 0560 unused blank.
+- 0561 = Precinct 21 West End Middlesboro ED 27 sh 1A, 2 Feb.
+- 0606 = ED 27 sh 23B, 4 Mar, Ralph Goins. Marsee George 58 + Mary 53 + Fannie 23. “Here ends the enumeration of West End Precinct.” ED 27 COMPLETE 0561–0606.
+- 0607 = volume title VOL. 8 BELL / BREATHITT.
+- 0608 = BELL CO. E.D’S 28 TO 34 (pt.).
+- 0661 = Precinct 26 Dorothy ED 31 sh 1A, 2 Feb, John H. Lee. Hoskins / Miracle / Thompson.
+- 0674 = ED 31 sh 7B, 13 Feb, John H. Lee. “Here ends the enumeration of Precinct 26 Dorothy.” ED 31 COMPLETE 0661–0674.
+- 0675 = Precinct 27 Ferndale ED 32 sh 1A, 3 Feb, William T. Gibbons. Official start.
+- 0685 = ED 32 sh 5B, 13 Feb. “Here ends the enumeration of Precinct 27 Ferndale.” ED 32 COMPLETE 0675–0685.
+- 0686 = Suttly Precinct ED 33 sh 1A, 16 Feb, John W. Faulkner. Official start.
+- 0696 = ED 33 sh 6A, 21 Feb. “This completes the enumeration of Suttly Precinct.” ED 33 COMPLETE 0686–0696.
+- 0697 unused.
+- 0698–0731 ED 34 Clear Creek already isolated (C833–C836). 0731 = sh 17B, 27 Feb, John Hays. Last Bell sheet.
+- Bell EDs 25–34 ALL have official starts and closes on this IA scan. Combined with tesseract 282-sheet nil (C915) = PROBABLE entire-Bell name negative for Newman/Newnam/Noonan/McCoy.
+
+IA 14thcensusofpopu590unit (T625-590 Madison, 1170 images):
+- Leaf 1 = KY Vol 67 Madison EDs 89–113 (comp) + Marshall/Martin/Menifee.
+- Leaf 2 = MADISON CO. E.D’S 89 TO 113 (comp).
+- 0005 / 0025 = Richmond City ED 99.
+- 0275 = Precinct 13 Bear Valley ED 101.
+- 0320 = Precinct 16 Berea Town ED 103 sh 2B, 3 Jan, Henry C. Combs.
+- 0330 = same ED 103 sh 7B; 0340 = sh 12B (college/hospital occupations).
+- 0350 = Precinct 16 Berea Town ED 102 sh 17B, 17 Jan, Henry C. Combs. Institution: Berea College Academy & Workers.
+- 0500 = ED 110 Poosey Precinct 2.
+- 0600 = Marshall Co. ED 161 (Madison closed before this leaf).
+- Sampled Berea 102/103 name columns: nil Frank / David F. Newnam head. Residual: remaining 102/103 visual lines.
+
+IA 14thcensusofpopu1602unit = 1920 Pennsylvania Mercer Co. Not a T625-602 remainder. Antioch 242 still not on a free IA item.
+
+FS catalog 127913 / 127869 / 1146342 = SPA shells (R011 step 41). Images unread. Clerk Tyler Phillips 606-464-8400 already recorded. Do not re-ask.
+
+Same-person: John 38+Jennie still rejected vs John L. Floyd still not merged vs Boyd. Hendrix/Sarah 1950 rejected vs Boyd+Allie. Marsee Cora-less. Do not print 1966, 1976, Floyd-as-Boyd, 1962 as McCoy death, or 1942 Combs charge as fact. Living 1932 descendants withheld.

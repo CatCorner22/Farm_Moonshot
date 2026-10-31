@@ -1,0 +1,34 @@
+Pass 92 extract — 31 Oct 2026 (America/New_York)
+B055 remaining Berea Town ED 102/103 visual name lines + workarounds.
+
+IA 14thcensusofpopu590unit (T625-590 Madison):
+- 0314–0315 = still prior precinct (not 103 start).
+- 0316 = unused blank schedule (X).
+- 0317 w1200 = Precinct 16 Berea Town, ED 103, sh 1A, 2 Jan, Henry C. Combs. Official ED 103 START. Visual Clark / Toleson / Reed / Richmond / Shearer / Hall. Nil Newman / Frank.
+- 0318–0347 = ED 103 town continuation (0320=2B, 0324=4B, 0330=7B, 0340=12B already isolated).
+- 0324 w1200 = ED 103 sh 4B, 5 Jan. Visual Trosper / Hatfield / Morgan / Harrison / Johnson / Ledford. OCR “Frank” token is a false hit — rejected.
+- 0348 w1200 = ED 103 sh 16B, 17 Jan, Henry C. Combs. Short sheet; enumerator wrote “None.” Official-looking ED 103 town END. Visual Martin / Bowles / Eagle / Thacker / Flannery. Nil Newman.
+- ED 103 town COMPLETE 0317–0348 (sh 1A–16B).
+- 0349 w1200 = Precinct 16, Institution Berea College Academy & Workers, 16 Jan, Henry C. Combs, sheet 17A (college overflow). Visual student/worker given names; nil Frank / Newman head.
+- 0350 w1200 = Precinct 16 Berea Town, ED 102, sh 17B, 17 Jan, Henry C. Combs. Institution Berea College Academy & Workers. Short last sheet. Official-looking college END.
+- 0351 w1200 = Glade Creek Precinct, ED 104, sh 1A, 2 Jan, Carl R. Todd. After Berea Town. Farmers (Daugherty / Walker). Nil Newman.
+- 0360 w1200 = ED 104 sh 5B, 10 Jan, Carl R. Todd. Ballinger cluster. Nil Newman.
+- Tesseract name-column invert, 39 leaves 0314–0352: nil newman/newnam/newnarn/noonan/nunan/mccoy tokens. One false Frank on 0324 rejected visually.
+- Combined official start+end + OCR + visual samples = PROBABLE entire ED 103 town name-negative for Frank / David F. Newnam. College 0349–0350 sampled nil.
+
+NARA 1950 Madison:
+- Newnam API total 0.
+- Newman API 13 sheets: Dewey/Dover 26 (already C522 reject); neuman Shelly + Grace (C523); Hiram D; Wm; Vinian; selma; Garry; willians + Addie. No Frank / David F contractor head.
+- “Frank Newman” API hits are other surnames (Stone Frank; Pigg Frank; etc.) — not used.
+
+IA kentuckycensus00reel769 (T626-769): live, 1137 images. Title card: Madison EDs 76-1 to 76-24 (complete) + Marion 78-1–78-21 + Martin 80-1–80-8. Leaf 5 = Richmond City 76-1. Residual: 1930 Berea EDs unread.
+
+FS 127913 / 127869 / 1146342 = SPA chrome (~19 KB). R011 step 42. Images unread. Do not re-ask Tyler Phillips 606-464-8400.
+
+IA Solr “wolfe county kentucky 1920 census antioch” numFound 0. Antioch 242 still not on a free IA item.
+
+us-census.org Estill 1930 directory: still only 33-1–33-4 published. 33-8 unpublished (095A–102B). AHGP T626-742 lists Estill 33-1–33-6, 33-14, 33-7–33-13 on the same reel already walked — 33-8/33-9 remain absent from the IA scan.
+
+CA Frank Newnam Berea / Dora Stone 1926 JSON HTTP 403. GT Madison obits 403. us-census Madison/Wolfe 1920 dirs 403.
+
+Same-person: John 38+Jennie still rejected. Floyd still not merged vs Boyd. Dewey/Shelly already logged. Do not print 1966, 1976, Floyd-as-Boyd, 1962 as McCoy death, or 1942 Combs charge as fact. Living 1932 descendants withheld.

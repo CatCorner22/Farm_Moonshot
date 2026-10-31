@@ -477,6 +477,68 @@ Exact strings logged from **L729**.
 
 Exact strings logged **L748–L770**.
 
+### Pass 91 variant storm (31 Oct 2026)
+
+**Boyd / Allie / Floyd** — Boyd/Boyde/Floyd × Newman/Newnam/newnarn/newan. Allie/Ollie × Brandenburg/Brandenburgh/Brandburg. Soundex **N550** / **B653** / **B300**.
+
+**John / Cora / McCoy Newman** — John/Jno/Johnnie × Newman/Newnam/newnarn/newan/Noonan/Nunan. Cora × Newman/Newnam/Brandenburg. McCoy/Coy / Mc Coy. Soundex **N550** / **M200**.
+
+**Frank of Berea** — Frank/David F./David G. × Newnam/Newman/newnarn/newan/newnom.
+
+**OCR given** — Dora → posa / dosa / rosa / dona / dara / dore / dori / dola / pora / rora.
+
+**Place** — Station Camp South 33-8 / Station Camp North 33-7 / Red Lick East 33-10 / Forks East 33-13 / South Side Precinct 20 / West End Precinct 21 / Dorothy Precinct 26 / Ferndale Precinct 27 / Suttly / Clear Creek Precinct 24 / Berea Town Precinct 16 / Antioch 242 / Clifty 241.
+
+**ED / precinct misreads** — 33-8/33-7/33-10/33-9; 26/20; 27/21; 31/26; 32/27; 33/Suttly; 102/103 Berea.
+
+**Certs** — 17762 RD **036**; 28501; 31780; 1524 RD **676**. Cross-id Clarence delayed **49261**; Arthur **49665**.
+
+**Samuel P. Newnam** — films **127913 / 127869 / 1146342** (SPA, R011 step **41**).
+
+Exact strings logged **L771–L790**.
+
+### Pass 92 variant storm (31 Oct 2026)
+
+**Frank of Berea** — Frank/David F./David G. × Newnam/Newman/newnarn/newan/newnom/Noonan. OCR given: Frank → frank / frenk / frnuk. Soundex **N550**.
+
+**John / Cora / McCoy Newman** — John/Jno/Johnnie × Newman/Newnam/newnarn/newan/Noonan/Nunan. Cora × Newman/Newnam/Brandenburg. McCoy/Coy / Mc Coy. Soundex **N550** / **M200**.
+
+**Boyd / Allie / Floyd** — Boyd/Boyde/Floyd × Newman/Newnam. Allie/Ollie × Brandenburg/Brandburg. Soundex **N550** / **B653**.
+
+**OCR given** — Dora → posa / dosa / rosa / dona / dara / dore / dori / dola / pora / rora.
+
+**Place** — Berea Town Precinct **16** / Berea College Academy & Workers / Glade Creek / Richmond 76-1 / Station Camp South **33-8** / Antioch **242**.
+
+**ED / precinct misreads** — 103/102/104 Berea; 76-1 Richmond vs Berea; 33-8/33-7/33-9.
+
+**Certs** — 17762 RD **036**; 28501; 31780; 1524 RD **676**. Cross-id Clarence delayed **49261**; Arthur **49665**.
+
+**Samuel P. Newnam** — films **127913 / 127869 / 1146342** (SPA, R011 step **42**).
+
+Exact strings logged **L791–L805**.
+
+### Pass 93 variant storm (31 Oct 2026)
+
+**Frank of Berea** — Frank/David F./David G. × Newnam/Newman/newnarn/newan/newnom/Noonan. Combined: "Frank Newnam" | "Newnam, Frank" | newman + filter Frank*. OCR given: Frank → frank / frenk / frnuk. Soundex **N550**.
+
+**Grant of Berea** — Grant × Newnam/Newman (Berea collision; not merged with Frank, #20).
+
+**John / Cora / McCoy Newman** — John/Jno/Johnnie × Newman/Newnam/Noonan. Cora × Brandenburg. McCoy/Coy. Soundex **N550** / **M200**.
+
+**Boyd / Allie / Floyd** — Boyd/Boyde/Floyd × Newman/Newnam. Allie/Ollie × Brandenburg. Soundex **N550** / **B653**.
+
+**OCR given** — Dora → posa / dosa / rosa / dona / dara / dore / dori / dola / pora / rora.
+
+**Place** — Berea Town **76-16** / Berea College / Glade **76-17 / 76-18 / 76-19** / Yates **76-13–76-15** / Richmond **76-1**.
+
+**ED / precinct misreads** — 76-16/76-15/76-17; 103/102 1920 vs 76-16 1930.
+
+**Certs** — 17762 RD **036**; 28501; 31780; 1524 RD **676**.
+
+**Samuel P. Newnam** — films **127913 / 127869 / 1146342** (SPA, R011 step **43**).
+
+Exact strings logged **L806–L820**.
+
 ## Agent SDK / GitHub channel
 
 Inspected 30 Oct 2026 (**L351**): this repository has **no** `package.json`, **no** `@grok/agent-sdk`, **no** `bot/` directory. GitHub channel `bot/channels/github.ts` is **n/a** and was **not** authored. Project subagent: `.cursor/agents/dora-genealogy-detective.md`.

@@ -360,6 +360,66 @@ Captured this session: **30 Oct 2026**. Earlier plates remain in `sources/census
 | S618 | `sources/press/ca-dora-stone-ola-1926-pass90.json` · `ca-posa-stone-1926-pass90.json` | 2026-10-31 | Chronicling America | https://chroniclingamerica.loc.gov/ | 403/404; no 1926 page image | **C** — | catalog |
 | S619 | `sources/census/pass90-extract-2026-10-31.txt` | 2026-10-31 | This session | — | Pass 90 extract | **C910–C932** | extract |
 | S620 | `sources/catalog/ia-solr-t625-602-pass90.json` · `nara-t625-602-pass90.json` | 2026-10-31 | IA / NARA | https://archive.org/advancedsearch.php | No second T625-602 remainder; NARA SPA | **C908 C916** | catalog |
+| S621 | `sources/census/estill-1930-ed3310-0821-redlick-1a-pass91.jpg` | 2026-10-31 | IA T626-742 | https://archive.org/details/kentuckycensus00reel742 | ED **33-10** Red Lick East sh **1 A** stamped **117** | **C933** | image seen |
+| S622 | `sources/census/estill-1930-ed337-0820-unused-pass91.jpg` | 2026-10-31 | IA T626-742 | https://archive.org/details/kentuckycensus00reel742 | Unused blank after **33-7** | **C934** | image seen |
+| S623 | `sources/census/estill-1930-ed337-0819-end-w1200-pass91.jpg` | 2026-10-31 | IA T626-742 | https://archive.org/details/kentuckycensus00reel742 | **33-7** end stamped **094A** before the 117 jump | **C935** | image seen |
+| S624 | `sources/census/estill-1930-grant-card-0947-pass91.jpg` | 2026-10-31 | IA T626-742 | https://archive.org/details/kentuckycensus00reel742 | Grant Co. EDs **41-1–41-12**; Estill ends | **C935 C940** | image seen |
+| S625 | `sources/census/pass90/estill1930/reel742-leaf0650.jpg` | 2026-10-31 | IA T626-742 | https://archive.org/details/kentuckycensus00reel742 | **33-2** Irvine South sh **16 B** | **C936** | image seen |
+| S626 | `sources/census/pass91/estill1930/reel742-leaf0746.jpg` | 2026-10-31 | IA T626-742 | https://archive.org/details/kentuckycensus00reel742 | **33-6** Millers Creek West sh **14 B** | **C936** | image seen |
+| S627 | `sources/census/estill-1930-ed3314-0747-start-pass91.jpg` | 2026-10-31 | IA T626-742 | https://archive.org/details/kentuckycensus00reel742 | **33-14** start stamped **80** | **C937** | image seen |
+| S628 | `sources/census/estill-1930-ed3312-0924-end-pass91.jpg` | 2026-10-31 | IA T626-742 | https://archive.org/details/kentuckycensus00reel742 | **33-12** official end Houston J. Tuttle | **C938** | image seen |
+| S629 | `sources/census/estill-1930-ed3313-0925-start-pass91.jpg` | 2026-10-31 | IA T626-742 | https://archive.org/details/kentuckycensus00reel742 | **33-13** Forks East start | **C939** | image seen |
+| S630 | `sources/census/estill-1930-ed3313-0945-11a-pass91.jpg` | 2026-10-31 | IA T626-742 | https://archive.org/details/kentuckycensus00reel742 | **33-13** sh **11 A** last Estill populated | **C940** | image seen |
+| S631 | `sources/census/pass91/estill-1940-lds-newman-extract-pass91.txt` | 2026-10-31 | LDSGenealogy / RootsPoint | — | 1940 compiled precincts; Hendrix reject | **C941** | transcription only |
+| S632 | `sources/census/bell-1920-ed26-0517-southside-1a-pass91.jpg` | 2026-10-31 | IA T625-559 | https://archive.org/details/14thcensusofpopu559unit | ED **26** South Side sh **1 A** official start | **C942** | image seen |
+| S633 | `sources/census/bell-1920-ed26-0559-end-pass91.jpg` | 2026-10-31 | IA T625-559 | https://archive.org/details/14thcensusofpopu559unit | ED **26** sh **22 A** official end | **C942** | image seen |
+| S634 | `sources/census/bell-1920-ed27-0561-westend-1a-pass91.jpg` | 2026-10-31 | IA T625-559 | https://archive.org/details/14thcensusofpopu559unit | ED **27** West End sh **1 A** official start | **C943** | image seen |
+| S635 | `sources/census/bell-1920-ed27-0606-end-pass91.jpg` | 2026-10-31 | IA T625-559 | https://archive.org/details/14thcensusofpopu559unit | ED **27** sh **23 B** official end | **C943** | image seen |
+| S636 | `sources/census/bell-1920-ed28-34-card-0608-pass91.jpg` · `pass91/bell1920/t625-559-leaf0607-w800.jpg` | 2026-10-31 | IA T625-559 | https://archive.org/details/14thcensusofpopu559unit | Vol. 8 title + Bell EDs **28–34** card | **C944** | image seen |
+| S637 | `sources/census/estill-1950-33-13-0021-newnam-pass91.jpg` | 2026-10-31 | NARA 1950 | https://1950census.archives.gov/ | Hendrix-line Newnam **rejected** vs Boyd+Allie | **C945** | image seen |
+| S638 | `sources/catalog/fs-127913-pass91.html` · `fs-127869-pass91.html` · `fs-1146342-pass91.html` | 2026-10-31 | FamilySearch | https://www.familysearch.org/search/catalog/127913 | R011 step **41**; images unread | **C946** | catalog |
+| S639 | `sources/catalog/ia-solr-t625-602-remainder-pass91.json` | 2026-10-31 | Internet Archive | https://archive.org/advancedsearch.php | `1602` = PA Mercer; no T625-602 remainder | **C947** | catalog |
+| S640 | `sources/census/madison-1920-ed89-113-card-pass91.jpg` | 2026-10-31 | IA T625-590 | https://archive.org/details/14thcensusofpopu590unit | Madison EDs **89–113** (comp) | **C948** | image seen |
+| S641 | `sources/catalog/ia-14thcensusofpopu590unit-pass91.json` | 2026-10-31 | Internet Archive | https://archive.org/details/14thcensusofpopu590unit | Madison 1920; **1170** images | **C948** | catalog |
+| S642 | `sources/census/bell-1920-ed31-0674-dorothy-end-pass91.jpg` | 2026-10-31 | IA T625-559 | https://archive.org/details/14thcensusofpopu559unit | ED **31** Dorothy official end | **C949** | image seen |
+| S643 | `sources/census/bell-1920-ed32-0675-ferndale-1a-pass91.jpg` | 2026-10-31 | IA T625-559 | https://archive.org/details/14thcensusofpopu559unit | ED **32** Ferndale official start | **C950** | image seen |
+| S644 | `sources/census/bell-1920-ed32-0685-ferndale-end-pass91.jpg` | 2026-10-31 | IA T625-559 | https://archive.org/details/14thcensusofpopu559unit | ED **32** Ferndale official end | **C950** | image seen |
+| S645 | `sources/census/bell-1920-ed33-0686-suttly-1a-pass91.jpg` | 2026-10-31 | IA T625-559 | https://archive.org/details/14thcensusofpopu559unit | ED **33** Suttly official start | **C951** | image seen |
+| S646 | `sources/census/bell-1920-ed33-0696-suttly-end-pass91.jpg` · `bell-1920-ed33-0697-unused-pass91.jpg` | 2026-10-31 | IA T625-559 | https://archive.org/details/14thcensusofpopu559unit | ED **33** Suttly official end; **0697** unused | **C951** | image seen |
+| S647 | `sources/census/pass91/estill1930/reel742-leaf0937.jpg` | 2026-10-31 | IA T626-742 | https://archive.org/details/kentuckycensus00reel742 | **33-13** County Poor Farm; nil Newman | **C953** | image seen |
+| S648 | `sources/census/madison-1920-ed103-berea-0320-2b-pass91.jpg` | 2026-10-31 | IA T625-590 | https://archive.org/details/14thcensusofpopu590unit | Berea Town ED **103** sh **2 B** | **C954** | image seen |
+| S649 | `sources/census/madison-1920-ed102-berea-college-0350-pass91.jpg` | 2026-10-31 | IA T625-590 | https://archive.org/details/14thcensusofpopu590unit | Berea ED **102** college sh **17 B** | **C954** | image seen |
+| S650 | `sources/census/pass91/nara-1950-estill-newnam.json` · `nara-1950-estill-newman.json` | 2026-10-31 | NARA 1950 API | https://1950census.archives.gov/api/search | Estill Newnam **total 3**; Newman **0** | **C955** | index only |
+| S651 | `sources/census/pass91-extract-2026-10-31.txt` | 2026-10-31 | This session | — | Pass 91 extract | **C933–C956** | extract |
+| S652 | `sources/census/madison-1920-ed103-0317-berea-1a-pass92.jpg` | 2026-10-31 | IA T625-590 | https://archive.org/details/14thcensusofpopu590unit | ED **103** Berea Town sh **1 A** official start | **C957** | image seen |
+| S653 | `sources/census/madison-1920-ed103-0316-unused-pass92.jpg` | 2026-10-31 | IA T625-590 | https://archive.org/details/14thcensusofpopu590unit | Unused blank before **103** | **C958** | image seen |
+| S654 | `sources/census/madison-1920-ed103-0348-berea-16b-end-pass92.jpg` | 2026-10-31 | IA T625-590 | https://archive.org/details/14thcensusofpopu590unit | ED **103** sh **16 B** official-looking town end | **C959** | image seen |
+| S655 | `sources/census/madison-1920-ed102-0349-college-17a-pass92.jpg` | 2026-10-31 | IA T625-590 | https://archive.org/details/14thcensusofpopu590unit | Berea College Academy & Workers sh **17 A** | **C960** | image seen |
+| S656 | `sources/census/madison-1920-ed102-0350-college-17b-end-pass92.jpg` | 2026-10-31 | IA T625-590 | https://archive.org/details/14thcensusofpopu590unit | ED **102** sh **17 B** college end | **C961** | image seen |
+| S657 | `sources/census/madison-1920-ed104-0351-gladecreek-1a-pass92.jpg` | 2026-10-31 | IA T625-590 | https://archive.org/details/14thcensusofpopu590unit | ED **104** Glade Creek sh **1 A** | **C962 C970** | image seen |
+| S658 | `sources/census/pass92/berea-ocr.txt` | 2026-10-31 | IA T625-590 | https://archive.org/details/14thcensusofpopu590unit | 39-sheet OCR; 0324 Frank false hit | **C963** | OCR draft |
+| S659 | `sources/catalog/nara-1950-madison-newman-pass92.json` · `nara-1950-madison-newnam-pass92.json` | 2026-10-31 | NARA 1950 API | https://1950census.archives.gov/api/search | Madison Newnam **0**; Newman **13** no Frank | **C965** | index only |
+| S660 | `sources/catalog/fs-127913-pass92.html` · `fs-127869-pass92.html` · `fs-1146342-pass92.html` | 2026-10-31 | FamilySearch | https://www.familysearch.org/search/catalog/127913 | R011 step **42**; images unread | **C966** | catalog |
+| S661 | `sources/catalog/ia-solr-antioch-242-pass92.json` | 2026-10-31 | Internet Archive | https://archive.org/advancedsearch.php | Antioch **242** numFound **0** | **C967** | catalog |
+| S662 | `sources/catalog/ia-kentuckycensus00reel769-pass92.json` | 2026-10-31 | Internet Archive | https://archive.org/details/kentuckycensus00reel769 | T626-769 **1137** images | **C969** | catalog |
+| S663 | `sources/census/madison-1930-t626-769-card-pass92.jpg` · `madison-1930-t626-769-madison-card-pass92.jpg` | 2026-10-31 | IA T626-769 | https://archive.org/details/kentuckycensus00reel769 | Madison **76-1–76-24** complete on card | **C969** | image seen |
+| S664 | `sources/census/pass92-extract-2026-10-31.txt` | 2026-10-31 | This session | — | Pass 92 extract | **C957–C971** | extract |
+| S667 | `sources/catalog/uscensus-estill-1930-pass92.html` | 2026-10-31 | US-Census.org | https://www.us-census.org/pub/usgenweb/census/ky/estill/1930/ | **33-8** still unpublished | **C968** | catalog |
+| S668 | `sources/census/madison-1930-ed7616-0340-berea-1a-pass93.jpg` | 2026-10-31 | IA T626-769 | https://archive.org/details/kentuckycensus00reel769 | ED **76-16** Berea Town sh **1 A** official start | **C972** | image seen |
+| S669 | `sources/census/madison-1930-ed7616-0339-unused-pass93.jpg` | 2026-10-31 | IA T626-769 | https://archive.org/details/kentuckycensus00reel769 | Unused blank before **76-16** | **C973** | image seen |
+| S670 | `sources/census/madison-1930-ed7615-0338-yates-9a-pass93.jpg` | 2026-10-31 | IA T626-769 | https://archive.org/details/kentuckycensus00reel769 | ED **76-15** Yates sh **9 A** | **C974** | image seen |
+| S671 | `sources/census/madison-1930-ed7616-0376-college-19a-end-pass93.jpg` | 2026-10-31 | IA T626-769 | https://archive.org/details/kentuckycensus00reel769 | ED **76-16** Berea College sh **19 A** last populated | **C975** | image seen |
+| S672 | `sources/census/madison-1930-ed7616-0377-unused-pass93.jpg` | 2026-10-31 | IA T626-769 | https://archive.org/details/kentuckycensus00reel769 | Unused blank after **76-16** | **C976** | image seen |
+| S673 | `sources/census/madison-1930-ed7617-0378-glade-1a-pass93.jpg` | 2026-10-31 | IA T626-769 | https://archive.org/details/kentuckycensus00reel769 | ED **76-17** Glade sh **1 A** official start | **C978** | image seen |
+| S674 | `sources/census/madison-1930-ed7616-0350-6a-pass93.jpg` | 2026-10-31 | IA T626-769 | https://archive.org/details/kentuckycensus00reel769 | ED **76-16** sh **6 A** mid sample | **C980** | image seen |
+| S675 | `sources/census/pass93/berea16-ocr.txt` | 2026-10-31 | IA T626-769 | https://archive.org/details/kentuckycensus00reel769 | 44-sheet OCR nil newman/frank/grant | **C979** | OCR draft |
+| S676 | `sources/catalog/uscensus-madison-1930-pass93.html` | 2026-10-31 | US-Census.org | https://www.us-census.org/states/kentucky/teams/Madison1930-T626-769.htm | **76-16** = Berea Town | **C981** | catalog |
+| S677 | `sources/catalog/fs-127913-pass93.html` · `fs-127869-pass93.html` · `fs-1146342-pass93.html` | 2026-10-31 | FamilySearch | https://www.familysearch.org/search/catalog/127913 | R011 step **43**; images unread | **C982** | catalog |
+| S678 | `sources/catalog/ia-solr-t626-742-missing-pass93.json` · `ia-solr-antioch-242-pass93.json` | 2026-10-31 | Internet Archive | https://archive.org/advancedsearch.php | Station Camp / Antioch **numFound 0** | **C983** | catalog |
+| S679 | `sources/census/madison-1930-ed7617-0392-glade-8a-end-pass93.jpg` | 2026-10-31 | IA T626-769 | https://archive.org/details/kentuckycensus00reel769 | ED **76-17** sh **8 A** official-looking end | **C984** | image seen |
+| S680 | `sources/census/madison-1930-ed7618-0394-glade-1a-pass93.jpg` · `madison-1930-ed7617-0393-unused-pass93.jpg` | 2026-10-31 | IA T626-769 | https://archive.org/details/kentuckycensus00reel769 | **76-18** official start; **0393** unused | **C985 C986** | image seen |
+| S681 | `sources/census/pass93/glade17-ocr.txt` | 2026-10-31 | IA T626-769 | https://archive.org/details/kentuckycensus00reel769 | 21-sheet Glade OCR nil newman/frank/grant | **C985** | OCR draft |
+| S682 | `sources/census/pass93-extract-2026-10-31.txt` | 2026-10-31 | This session | — | Pass 93 extract | **C972–C987** | extract |
 
 ## Word biography provenance
 
@@ -403,3 +463,9 @@ Exact strings in `02-log.md` **L343–L352**, **L380–L397**, **L398–L411**, 
 **Pass 76–77 (Boyd / Allie / Estill close / Powell):** John, Boyd, Andy/Andrew/Andridge, Allie × Newman/Newnam/Noonan/Nunan/Brandenburg. McCoy/Coy. Soundex **N550** / **M200**. T625-566 / 577 / 559 / 596 / 602. Exact strings **L561–L572**.
 
 **Pass 90 (Bell 25/28/29 / Estill 33-7 / Rissie / clerk):** John/Jno/Johnnie × Newman/Newnam/newnarn/newan/newnom/Noonan/Nunan. Boyd/Boyde/Floyd × Newman. Rissie/Rissa × Newnam/Stamper/Pelfrey. Dora OCR posa/dosa/rosa/dona. Certs **17762** RD **036**; **28501**; **31780**. Soundex **N550** / **M200**. Exact strings **L748–L770**.
+
+**Pass 91 (33-8 absent / Bell 26–33 closes / Berea map):** Boyd/Boyde/Floyd × Newman/Newnam. Allie × Brandenburg. John/Frank × Newman/Newnam/Noonan. Dora OCR posa/dosa/rosa/dona. Place Station Camp South **33-8** / Dorothy **26** / Ferndale **27** / Suttly / Berea Town **16**. Soundex **N550** / **M200** / **B300**. Exact strings **L771–L790**.
+
+**Pass 92 (ED 103 close / college 102 / T626-769):** Frank/David F./David G. × Newnam/Newman/Noonan. Place Berea Town **16** / College Academy / Glade Creek / Richmond **76-1**. Soundex **N550**. Exact strings **L791–L805**.
+
+**Pass 93 (76-16 / 76-17 close):** Frank/David F./David G./Grant × Newnam/Newman/Noonan. Place Berea Town **76-16** / Berea College / Glade **76-17 / 76-18**. Soundex **N550**. Exact strings **L806–L820**.

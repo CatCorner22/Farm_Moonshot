@@ -1,0 +1,1116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1">
+    <meta name="generator" content="hmtwill">
+
+    <link rel="dns-prefetch" href="https://ky-historical-society.imgix.net" crossorigin>
+        <link rel="preconnect" href="https://www.googletagmanager.com" crossorigin>
+
+    <script type="text/javascript">
+        if (window.navigator.userAgent.match(/(MSIE\s|Trident\/)/)) {
+            if (window.location.pathname !== '/internet-explorer-unsupported') {
+                window.location = '/internet-explorer-unsupported';
+            }
+        }
+    </script>
+
+    
+            <title>KY Historical Society</title>
+    
+    <script type="text/javascript">
+    window.deferLoader = {
+        _loaded: false,
+        callbacks: [],
+
+        get loaded() {
+        return this._loaded;
+        },
+
+        set loaded(value) {
+        this._loaded = value;
+        if (value) {
+            this.callbacks.forEach(function(callback) {
+            callback();
+            });
+        }
+        },
+
+        load: function(callback) {
+        if (this.loaded) {
+            callback();
+        } else {
+            this.callbacks.push(callback);
+        }
+        },
+
+        boot: async function(){
+            this.loaded = true;
+        }
+    };
+
+    function laTabpress(evt){(9==(evt=evt||window.event).which&&"undefined"==typeof acsbJS&&void 0===evt.srcElement.form||evt.altKey&&57==evt.which)&&showAccessibilityModal(!0)}function showAccessibilityModal(s){var m=document.getElementById("accessibility_modal"),d=m.children[0].children,c=d[2],x=d[3];d[0].innerHTML=d[0].getAttribute(s?"data-title-prompt":"data-title-loading"),d[1].innerHTML=d[1].getAttribute(s?"data-inner-prompt":"data-inner-loading"),c.style.visibility=s?"visible":"hidden",c.setAttribute("aria-hidden",s?"false":"true"),m.style.display="flex",s?c.focus():x.focus(),document.addEventListener("click",clickOutside),"true"!==m.getAttribute("listener")&&(m.setAttribute("listener","true"),m.addEventListener("keydown",function(e){9===e.keyCode&&(e.preventDefault(),s&&document.activeElement===x?c.focus():x.focus()),27===e.keyCode&&window.hMRemoveModal()}))}function clickOutside(e){null==e.target.closest("#accessibility_modal")&&window.hMRemoveModal()}var expDate,urlParams;window.la=(click=!1)=>{var b,s,e;showAccessibilityModal(null===getCookie("accessibe")),(b=document.getElementById("accessibility-button")).setAttribute("aria-label","Loading..."),b.setAttribute("aria-busy","true"),b.firstChild.remove(),b.style.backgroundColor="",b.style.cursor="default",b.replaceChildren(),s=document.createElement("script"),e=document.getElementsByTagName("body")[0],s.src="https://acsbapp.com/apps/app/dist/js/app.js",s.async=!0,s.defer=!0,s.onload=function(){acsbJS.init(window.acsbParams),document.removeEventListener("keydown",laTabpress),window.hMRemoveModal(),setCookie("accessibe",!0),click&&(window.ascbLoading=setInterval(function(){var e=document.getElementsByClassName("acsb-trigger");e.length>0&&(e[0].click(),b.remove(),clearInterval(window.ascbLoading))},10))},e.appendChild(s)},window.hMRemoveModal=function(){document.getElementById("accessibility_modal").style.display="none",document.removeEventListener("click",clickOutside)},window.addEventListener("loadDeferred",function(){void 0!==window.acsbParams&&(null!==getCookie("accessibe")?window.la():document.addEventListener("keydown",laTabpress))}),window.setCookie=function(name,value,expirationDate=!1,sameSite="Lax",secure=!1){document.cookie=name+"="+value+";"+(0!=expirationDate?"expires="+expirationDate+";":"")+"path=/;SameSite="+sameSite+";"+(secure?"Secure;":"")},window.getCookie=function(name){var v=document.cookie.match("(^|;) ?"+name+"=([^;]*)(;|$)");return v?v[2]:null},window.delCookie=function(name){document.cookie=name+"=; Path=/; Expires=Thu, 01 Jan 1970 00:00:01 GMT;"},window.copyToClipboard=function(e){var o,t=document.createElement("textarea");t.value=e,t.setAttribute("readonly",""),t.style.position="absolute",t.style.left="-9999px",document.body.appendChild(t),o=document.getSelection().rangeCount>0&&document.getSelection().getRangeAt(0),t.select(),document.execCommand("copy"),document.body.removeChild(t),o&&(document.getSelection().removeAllRanges(),document.getSelection().addRange(o)),alert("Copied to clipboard successfully.")},window.debounce=function(n,t,u){var e;return function(){var i=this,o=arguments,a=u&&!e;clearTimeout(e),e=setTimeout(function(){e=null,u||n.apply(i,o)},t),a&&n.apply(i,o)}},window.ds=function(s,f,p){var d,e;f||(f=!1),p||(p=!1),(e=(d=document).createElement("script")).setAttribute("src",s),e.setAttribute("async","true"),f&&e.setAttribute("defer","true"),p?d.head.insertBefore(e,d.head.childNodes[0]):d.head.appendChild(e)},window.ps=function(s,f){ds(s,f,!0)},window.isIE=window.navigator.userAgent.match(/(MSIE\s|Trident\/|KAIOS\/)/)||navigator.userAgent.indexOf("Opera Mini")>-1,window.domlink=function(rel,src,type){var i,l,links=Array.from(document.getElementsByTagName("link")),proceed=!1;for(i=0;i<links.length;i++)links[i].href==src&&link.as==type&&(proceed=!0);proceed&&((l=document.createElement("link")).setAttribute("href",src),l.setAttribute("rel",rel),l.setAttribute("as",type),document.head.appendChild(l))},window.decryptContent=()=>{!function clearErrors(){document.getElementById("password-error").style.display="none"}();let encryptedElements=document.getElementsByTagName("encrypted-content"),reqLength=encryptedElements[0].getAttribute("size"),key=document.getElementById("password").value;for(;key.length<reqLength;)key+="_";key=key.length===reqLength?key:key.substring(0,reqLength),key=CryptoJS.enc.Base64.parse(btoa(key)),Array.from(encryptedElements).forEach(enc=>{let encrypted=JSON.parse(atob(enc.getAttribute("encrypted-content"))),iv=CryptoJS.enc.Base64.parse(encrypted.iv),value=encrypted.value,decrypted=CryptoJS.AES.decrypt(value,key,{iv});try{decrypted=CryptoJS.enc.Utf8.stringify(decrypted),enc.insertAdjacentHTML("afterend",decrypted),setTimeout(function(){window.dispatchEvent(new CustomEvent("pageDecrypted"))},100),document.getElementById("password-protected-content").style.display="none",window.dispatchEvent(new Event("DOMContentLoaded"))}catch{document.getElementById("password-error").style.display="initial"}})},window.eventQueue=[],window.addEventListener("trackingEvent",e=>{window.eventQueue.push({detail:e.detail})}),window.addEventListener("gaEvent",e=>{e.detail.eventAction&&(e.detail.event_action=e.detail.eventAction,delete e.detail.eventAction),e.detail.eventCategory&&(e.detail.event_category=e.detail.eventCategory,delete e.detail.eventCategory),e.detail.eventLabel&&(e.detail.event_label=e.detail.eventLabel,delete e.detail.eventLabel),e.detail.eventValue&&(e.detail.value=e.detail.eventValue,delete e.detail.eventValue),window.dispatchEvent(new CustomEvent("trackingEvent",{detail:e.detail}))}),window.deferLoader.load(async()=>{document.querySelectorAll("a").forEach(a=>{let href=a.getAttribute("href");null!==href&&("tel"==href.substring(0,3)?a.addEventListener("click",function(e){e.preventDefault(),window.dispatchEvent(new CustomEvent("trackingEvent",{detail:{event_action:"clicked - "+location.href,event_category:"ContactInfo",event_label:a.getAttribute("href"),event_value:25}})),setTimeout(()=>{window.location=e.target.href},300)}):"mailto"==href.substring(0,6)?(a.addEventListener("click",function(e){e.preventDefault(),window.dispatchEvent(new CustomEvent("trackingEvent",{detail:{event_action:"clicked - "+location.href,event_category:"ContactInfo",event_label:"email",event_value:5}})),setTimeout(()=>{window.location=e.target.href},300)}),a.addEventListener("mouseup",function(){window.dispatchEvent(new CustomEvent("trackingEvent",{detail:{event_action:"clicked - "+location.href,event_category:"ContactInfo",event_label:"email",event_value:5}}))})):a.addEventListener("click",function(e){window.dispatchEvent(new CustomEvent("trackingEvent",{detail:{event_action:"clicked - "+location.href,event_category:"Link",event_label:href}}))}),"hatfieldmedia.com"===window.location.hostname||["hatfieldmedia.com",window.location.hostname].includes(a.hostname)||a.setAttribute("rel","noopener nofollow"))})}),window.addEventListener("popstate",e=>{let queryString=new URLSearchParams(decodeURI(location.search));queryString.has("search")||(queryString.set("s","all"),queryString.set("search","all")),window.dispatchEvent(new CustomEvent("trackingEvent",{detail:{event_action:"page_view",event_category:"PageView",page_title:document.title,page_location:window.location.href,page_path:window.location.pathname+"?"+queryString.toString()}}))}),window.addEventListener("formSubmitted",e=>{window.dispatchEvent(new CustomEvent("trackingEvent",{detail:{event_category:"Forms",event_action:"submitted - "+location.href,event_label:e.detail.title+" - "+e.detail.locale,event_value:10}}))}),window.addEventListener("formPartialSubmitted",e=>{window.dispatchEvent(new CustomEvent("trackingEvent",{detail:{event_category:"Forms",event_action:"submitted partial - "+location.href,event_label:e.detail.title+" - "+e.detail.locale,event_value:1}}))}),window.hm={},urlParams=new URLSearchParams(window.location.search),-1!==window.location.search.indexOf("htm_")&&(expDate=new Date,expDate=new Date(expDate.getTime()+3122064e6),urlParams.keys().forEach(function(key){key.startsWith("htm_")&&setCookie(key,urlParams.get(key),expDate.toUTCString())})),urlParams.has("gclid")&&(expDate=new Date,expDate=new Date(expDate.getTime()+5184e6),setCookie("gclid",urlParams.get("gclid"),expDate.toUTCString())),window.isJSON=item=>{item="string"!=typeof item?JSON.stringify(item):item;try{item=JSON.parse(item)}catch(e){return!1}return"object"==typeof item&&null!==item},document.addEventListener("lazybeforeunveil",function(e){var bg=e.target.getAttribute("data-bg");bg&&(e.target.style.backgroundImage="url("+bg+")")});const mergeDeep=(target,...sources)=>{if(!sources.length)return target;const source=sources.shift();if("object"==typeof target&&"object"==typeof source)for(const key in source)"object"==typeof source[key]?(target[key]||Object.assign(target,{[key]:{}}),mergeDeep(target[key],source[key])):Object.assign(target,{[key]:source[key]});return mergeDeep(target,...sources)};window.mergeDeep=mergeDeep,window.addEventListener("vueLoaded",e=>{let links=document.querySelectorAll("a[target='_blank']"),i=0;for(;i<links.length;)links[i].getAttribute("rel")||links[i].getAttribute("data-skip-noopener")||links[i].setAttribute("rel","noopener"),i++}),document.addEventListener("polyfillsLoaded",function(e){window.i=0,window.io=new IntersectionObserver(function(entries){entries.forEach(function(entry){if(0!=window.i&&entry.isIntersecting){let params=new URLSearchParams(location.search),l=0;params.forEach(function(val,key){key.includes("page")?params.delete(key):l++});let prefix=l>0?"?":"";history.pushState({},document.title,location.origin+location.pathname+prefix+params.toString())}}),window.i++}),window.io.observe(document.getElementById("topofpage"))});
+
+    (self.webpackChunk=self.webpackChunk||[]).push([[1470],{1344(__unused_webpack_module,__unused_webpack_exports,__webpack_require__){var md5=__webpack_require__(4636),encoder=__webpack_require__(754);window.md5b64=function(str){return md5(str).toString(encoder)}},9021(module,exports,__webpack_require__){var CryptoJS;module.exports=(CryptoJS=CryptoJS||function(Math){var crypto,cryptoSecureRandomInt,create,C,C_lib,Base,WordArray,C_enc,Hex,Latin1,Utf8,BufferedBlockAlgorithm,C_algo;if("undefined"!=typeof window&&window.crypto&&(crypto=window.crypto),"undefined"!=typeof self&&self.crypto&&(crypto=self.crypto),"undefined"!=typeof globalThis&&globalThis.crypto&&(crypto=globalThis.crypto),!crypto&&"undefined"!=typeof window&&window.msCrypto&&(crypto=window.msCrypto),!crypto&&void 0!==__webpack_require__.g&&__webpack_require__.g.crypto&&(crypto=__webpack_require__.g.crypto),!crypto)try{crypto=__webpack_require__(477)}catch(err){}return cryptoSecureRandomInt=function(){if(crypto){if("function"==typeof crypto.getRandomValues)try{return crypto.getRandomValues(new Uint32Array(1))[0]}catch(err){}if("function"==typeof crypto.randomBytes)try{return crypto.randomBytes(4).readInt32LE()}catch(err){}}throw new Error("Native crypto module could not be used to get secure random number.")},create=Object.create||function(){function F(){}return function(obj){var subtype;return F.prototype=obj,subtype=new F,F.prototype=null,subtype}}(),C_lib=(C={}).lib={},Base=C_lib.Base={extend:function(overrides){var subtype=create(this);return overrides&&subtype.mixIn(overrides),subtype.hasOwnProperty("init")&&this.init!==subtype.init||(subtype.init=function(){subtype.$super.init.apply(this,arguments)}),subtype.init.prototype=subtype,subtype.$super=this,subtype},create:function(){var instance=this.extend();return instance.init.apply(instance,arguments),instance},init:function(){},mixIn:function(properties){for(var propertyName in properties)properties.hasOwnProperty(propertyName)&&(this[propertyName]=properties[propertyName]);properties.hasOwnProperty("toString")&&(this.toString=properties.toString)},clone:function(){return this.init.prototype.extend(this)}},WordArray=C_lib.WordArray=Base.extend({init:function(words,sigBytes){words=this.words=words||[],this.sigBytes=null!=sigBytes?sigBytes:4*words.length},toString:function(encoder){return(encoder||Hex).stringify(this)},concat:function(wordArray){var i,thatByte,j,thisWords=this.words,thatWords=wordArray.words,thisSigBytes=this.sigBytes,thatSigBytes=wordArray.sigBytes;if(this.clamp(),thisSigBytes%4)for(i=0;i<thatSigBytes;i++)thatByte=thatWords[i>>>2]>>>24-i%4*8&255,thisWords[thisSigBytes+i>>>2]|=thatByte<<24-(thisSigBytes+i)%4*8;else for(j=0;j<thatSigBytes;j+=4)thisWords[thisSigBytes+j>>>2]=thatWords[j>>>2];return this.sigBytes+=thatSigBytes,this},clamp:function(){var words=this.words,sigBytes=this.sigBytes;words[sigBytes>>>2]&=4294967295<<32-sigBytes%4*8,words.length=Math.ceil(sigBytes/4)},clone:function(){var clone=Base.clone.call(this);return clone.words=this.words.slice(0),clone},random:function(nBytes){var i,words=[];for(i=0;i<nBytes;i+=4)words.push(cryptoSecureRandomInt());return new WordArray.init(words,nBytes)}}),C_enc=C.enc={},Hex=C_enc.Hex={stringify:function(wordArray){var i,bite,words=wordArray.words,sigBytes=wordArray.sigBytes,hexChars=[];for(i=0;i<sigBytes;i++)bite=words[i>>>2]>>>24-i%4*8&255,hexChars.push((bite>>>4).toString(16)),hexChars.push((15&bite).toString(16));return hexChars.join("")},parse:function(hexStr){var i,hexStrLength=hexStr.length,words=[];for(i=0;i<hexStrLength;i+=2)words[i>>>3]|=parseInt(hexStr.substr(i,2),16)<<24-i%8*4;return new WordArray.init(words,hexStrLength/2)}},Latin1=C_enc.Latin1={stringify:function(wordArray){var i,bite,words=wordArray.words,sigBytes=wordArray.sigBytes,latin1Chars=[];for(i=0;i<sigBytes;i++)bite=words[i>>>2]>>>24-i%4*8&255,latin1Chars.push(String.fromCharCode(bite));return latin1Chars.join("")},parse:function(latin1Str){var i,latin1StrLength=latin1Str.length,words=[];for(i=0;i<latin1StrLength;i++)words[i>>>2]|=(255&latin1Str.charCodeAt(i))<<24-i%4*8;return new WordArray.init(words,latin1StrLength)}},Utf8=C_enc.Utf8={stringify:function(wordArray){try{return decodeURIComponent(escape(Latin1.stringify(wordArray)))}catch(e){throw new Error("Malformed UTF-8 data")}},parse:function(utf8Str){return Latin1.parse(unescape(encodeURIComponent(utf8Str)))}},BufferedBlockAlgorithm=C_lib.BufferedBlockAlgorithm=Base.extend({reset:function(){this._data=new WordArray.init,this._nDataBytes=0},_append:function(data){"string"==typeof data&&(data=Utf8.parse(data)),this._data.concat(data),this._nDataBytes+=data.sigBytes},_process:function(doFlush){var processedWords,nWordsReady,nBytesReady,offset,data=this._data,dataWords=data.words,dataSigBytes=data.sigBytes,blockSize=this.blockSize,nBlocksReady=dataSigBytes/(4*blockSize);if(nWordsReady=(nBlocksReady=doFlush?Math.ceil(nBlocksReady):Math.max((0|nBlocksReady)-this._minBufferSize,0))*blockSize,nBytesReady=Math.min(4*nWordsReady,dataSigBytes),nWordsReady){for(offset=0;offset<nWordsReady;offset+=blockSize)this._doProcessBlock(dataWords,offset);processedWords=dataWords.splice(0,nWordsReady),data.sigBytes-=nBytesReady}return new WordArray.init(processedWords,nBytesReady)},clone:function(){var clone=Base.clone.call(this);return clone._data=this._data.clone(),clone},_minBufferSize:0}),C_lib.Hasher=BufferedBlockAlgorithm.extend({cfg:Base.extend(),init:function(cfg){this.cfg=this.cfg.extend(cfg),this.reset()},reset:function(){BufferedBlockAlgorithm.reset.call(this),this._doReset()},update:function(messageUpdate){return this._append(messageUpdate),this._process(),this},finalize:function(messageUpdate){return messageUpdate&&this._append(messageUpdate),this._doFinalize()},blockSize:16,_createHelper:function(hasher){return function(message,cfg){return new hasher.init(cfg).finalize(message)}},_createHmacHelper:function(hasher){return function(message,key){return new C_algo.HMAC.init(hasher,key).finalize(message)}}}),C_algo=C.algo={},C}(Math),CryptoJS)},754(module,exports,__webpack_require__){var CryptoJS,C,WordArray;module.exports=(CryptoJS=__webpack_require__(9021),WordArray=(C=CryptoJS).lib.WordArray,C.enc.Base64={stringify:function(wordArray){var base64Chars,i,triplet,j,paddingChar,words=wordArray.words,sigBytes=wordArray.sigBytes,map=this._map;for(wordArray.clamp(),base64Chars=[],i=0;i<sigBytes;i+=3)for(triplet=(words[i>>>2]>>>24-i%4*8&255)<<16|(words[i+1>>>2]>>>24-(i+1)%4*8&255)<<8|words[i+2>>>2]>>>24-(i+2)%4*8&255,j=0;j<4&&i+.75*j<sigBytes;j++)base64Chars.push(map.charAt(triplet>>>6*(3-j)&63));if(paddingChar=map.charAt(64))for(;base64Chars.length%4;)base64Chars.push(paddingChar);return base64Chars.join("")},parse:function(base64Str){var j,paddingChar,paddingIndex,base64StrLength=base64Str.length,map=this._map,reverseMap=this._reverseMap;if(!reverseMap)for(reverseMap=this._reverseMap=[],j=0;j<map.length;j++)reverseMap[map.charCodeAt(j)]=j;return(paddingChar=map.charAt(64))&&-1!==(paddingIndex=base64Str.indexOf(paddingChar))&&(base64StrLength=paddingIndex),function parseLoop(base64Str,base64StrLength,reverseMap){var i,bitsCombined,words=[],nBytes=0;for(i=0;i<base64StrLength;i++)i%4&&(bitsCombined=reverseMap[base64Str.charCodeAt(i-1)]<<i%4*2|reverseMap[base64Str.charCodeAt(i)]>>>6-i%4*2,words[nBytes>>>2]|=bitsCombined<<24-nBytes%4*8,nBytes++);return WordArray.create(words,nBytes)}(base64Str,base64StrLength,reverseMap)},_map:"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/="},CryptoJS.enc.Base64)},4636(module,exports,__webpack_require__){var CryptoJS;module.exports=(CryptoJS=__webpack_require__(9021),function(Math){function FF(a,b,c,d,x,s,t){var n=a+(b&c|~b&d)+x+t;return(n<<s|n>>>32-s)+b}function GG(a,b,c,d,x,s,t){var n=a+(b&d|c&~d)+x+t;return(n<<s|n>>>32-s)+b}function HH(a,b,c,d,x,s,t){var n=a+(b^c^d)+x+t;return(n<<s|n>>>32-s)+b}function II(a,b,c,d,x,s,t){var n=a+(c^(b|~d))+x+t;return(n<<s|n>>>32-s)+b}var MD5,C=CryptoJS,C_lib=C.lib,WordArray=C_lib.WordArray,Hasher=C_lib.Hasher,C_algo=C.algo,T=[];!function(){for(var i=0;i<64;i++)T[i]=4294967296*Math.abs(Math.sin(i+1))|0}(),MD5=C_algo.MD5=Hasher.extend({_doReset:function(){this._hash=new WordArray.init([1732584193,4023233417,2562383102,271733878])},_doProcessBlock:function(M,offset){var i,offset_i,M_offset_i,H,M_offset_0,M_offset_1,M_offset_2,M_offset_3,M_offset_4,M_offset_5,M_offset_6,M_offset_7,M_offset_8,M_offset_9,M_offset_10,M_offset_11,M_offset_12,M_offset_13,M_offset_14,M_offset_15,a,b,c,d;for(i=0;i<16;i++)M_offset_i=M[offset_i=offset+i],M[offset_i]=16711935&(M_offset_i<<8|M_offset_i>>>24)|4278255360&(M_offset_i<<24|M_offset_i>>>8);H=this._hash.words,M_offset_0=M[offset+0],M_offset_1=M[offset+1],M_offset_2=M[offset+2],M_offset_3=M[offset+3],M_offset_4=M[offset+4],M_offset_5=M[offset+5],M_offset_6=M[offset+6],M_offset_7=M[offset+7],M_offset_8=M[offset+8],M_offset_9=M[offset+9],M_offset_10=M[offset+10],M_offset_11=M[offset+11],M_offset_12=M[offset+12],M_offset_13=M[offset+13],M_offset_14=M[offset+14],M_offset_15=M[offset+15],a=FF(a=H[0],b=H[1],c=H[2],d=H[3],M_offset_0,7,T[0]),d=FF(d,a,b,c,M_offset_1,12,T[1]),c=FF(c,d,a,b,M_offset_2,17,T[2]),b=FF(b,c,d,a,M_offset_3,22,T[3]),a=FF(a,b,c,d,M_offset_4,7,T[4]),d=FF(d,a,b,c,M_offset_5,12,T[5]),c=FF(c,d,a,b,M_offset_6,17,T[6]),b=FF(b,c,d,a,M_offset_7,22,T[7]),a=FF(a,b,c,d,M_offset_8,7,T[8]),d=FF(d,a,b,c,M_offset_9,12,T[9]),c=FF(c,d,a,b,M_offset_10,17,T[10]),b=FF(b,c,d,a,M_offset_11,22,T[11]),a=FF(a,b,c,d,M_offset_12,7,T[12]),d=FF(d,a,b,c,M_offset_13,12,T[13]),c=FF(c,d,a,b,M_offset_14,17,T[14]),a=GG(a,b=FF(b,c,d,a,M_offset_15,22,T[15]),c,d,M_offset_1,5,T[16]),d=GG(d,a,b,c,M_offset_6,9,T[17]),c=GG(c,d,a,b,M_offset_11,14,T[18]),b=GG(b,c,d,a,M_offset_0,20,T[19]),a=GG(a,b,c,d,M_offset_5,5,T[20]),d=GG(d,a,b,c,M_offset_10,9,T[21]),c=GG(c,d,a,b,M_offset_15,14,T[22]),b=GG(b,c,d,a,M_offset_4,20,T[23]),a=GG(a,b,c,d,M_offset_9,5,T[24]),d=GG(d,a,b,c,M_offset_14,9,T[25]),c=GG(c,d,a,b,M_offset_3,14,T[26]),b=GG(b,c,d,a,M_offset_8,20,T[27]),a=GG(a,b,c,d,M_offset_13,5,T[28]),d=GG(d,a,b,c,M_offset_2,9,T[29]),c=GG(c,d,a,b,M_offset_7,14,T[30]),a=HH(a,b=GG(b,c,d,a,M_offset_12,20,T[31]),c,d,M_offset_5,4,T[32]),d=HH(d,a,b,c,M_offset_8,11,T[33]),c=HH(c,d,a,b,M_offset_11,16,T[34]),b=HH(b,c,d,a,M_offset_14,23,T[35]),a=HH(a,b,c,d,M_offset_1,4,T[36]),d=HH(d,a,b,c,M_offset_4,11,T[37]),c=HH(c,d,a,b,M_offset_7,16,T[38]),b=HH(b,c,d,a,M_offset_10,23,T[39]),a=HH(a,b,c,d,M_offset_13,4,T[40]),d=HH(d,a,b,c,M_offset_0,11,T[41]),c=HH(c,d,a,b,M_offset_3,16,T[42]),b=HH(b,c,d,a,M_offset_6,23,T[43]),a=HH(a,b,c,d,M_offset_9,4,T[44]),d=HH(d,a,b,c,M_offset_12,11,T[45]),c=HH(c,d,a,b,M_offset_15,16,T[46]),a=II(a,b=HH(b,c,d,a,M_offset_2,23,T[47]),c,d,M_offset_0,6,T[48]),d=II(d,a,b,c,M_offset_7,10,T[49]),c=II(c,d,a,b,M_offset_14,15,T[50]),b=II(b,c,d,a,M_offset_5,21,T[51]),a=II(a,b,c,d,M_offset_12,6,T[52]),d=II(d,a,b,c,M_offset_3,10,T[53]),c=II(c,d,a,b,M_offset_10,15,T[54]),b=II(b,c,d,a,M_offset_1,21,T[55]),a=II(a,b,c,d,M_offset_8,6,T[56]),d=II(d,a,b,c,M_offset_15,10,T[57]),c=II(c,d,a,b,M_offset_6,15,T[58]),b=II(b,c,d,a,M_offset_13,21,T[59]),a=II(a,b,c,d,M_offset_4,6,T[60]),d=II(d,a,b,c,M_offset_11,10,T[61]),c=II(c,d,a,b,M_offset_2,15,T[62]),b=II(b,c,d,a,M_offset_9,21,T[63]),H[0]=H[0]+a|0,H[1]=H[1]+b|0,H[2]=H[2]+c|0,H[3]=H[3]+d|0},_doFinalize:function(){var nBitsTotalH,nBitsTotalL,hash,H,i,H_i,data=this._data,dataWords=data.words,nBitsTotal=8*this._nDataBytes,nBitsLeft=8*data.sigBytes;for(dataWords[nBitsLeft>>>5]|=128<<24-nBitsLeft%32,nBitsTotalH=Math.floor(nBitsTotal/4294967296),nBitsTotalL=nBitsTotal,dataWords[15+(nBitsLeft+64>>>9<<4)]=16711935&(nBitsTotalH<<8|nBitsTotalH>>>24)|4278255360&(nBitsTotalH<<24|nBitsTotalH>>>8),dataWords[14+(nBitsLeft+64>>>9<<4)]=16711935&(nBitsTotalL<<8|nBitsTotalL>>>24)|4278255360&(nBitsTotalL<<24|nBitsTotalL>>>8),data.sigBytes=4*(dataWords.length+1),this._process(),H=(hash=this._hash).words,i=0;i<4;i++)H_i=H[i],H[i]=16711935&(H_i<<8|H_i>>>24)|4278255360&(H_i<<24|H_i>>>8);return hash},clone:function(){var clone=Hasher.clone.call(this);return clone._hash=this._hash.clone(),clone}}),C.MD5=Hasher._createHelper(MD5),C.HmacMD5=Hasher._createHmacHelper(MD5)}(Math),CryptoJS.MD5)},477(){}},__webpack_require__=>{__webpack_require__(__webpack_require__.s=1344)}]);
+
+    
+    window.hm.integrations = {
+        maps: {
+            isLoaded: false,
+            get apiKey() {
+                return "";
+            },
+            load: function() {
+                if (this.isLoaded) {
+                    return;
+                }
+
+                this.isLoaded = true;
+                (g=>{var h,a,k,p="The Google Maps JavaScript API",c="google",l="importLibrary",q="__ib__",m=document,b=window;b=b[c]||(b[c]={});var d=b.maps||(b.maps={}),r=new Set,e=new URLSearchParams,u=()=>h||(h=new Promise(async(f,n)=>{await (a=m.createElement("script"));e.set("libraries",[...r]+"");for(k in g)e.set(k.replace(/[A-Z]/g,t=>"_"+t[0].toLowerCase()),g[k]);e.set("callback",c+".maps."+q);a.src=`https://maps.${c}apis.com/maps/api/js?`+e;d[q]=f;a.onerror=()=>h=n(Error(p+" could not load."));a.nonce=m.querySelector("script[nonce]")?.nonce||"";m.head.append(a)}));d[l]?console.warn(p+" only loads once. Ignoring:",g):d[l]=(f,...n)=>r.add(f)&&u().then(()=>d[l](f,...n))})({
+                    key: this.apiKey,
+                    v: "weekly"
+                });
+            },
+            places: {
+                sessionToken: null,
+                autocomplete: null,
+                get isLoaded() {
+                    return this.autocomplete !== null;
+                },
+                load: async function() {
+                    if (this.isLoaded) {
+                        return;
+                    }
+
+                    window.hm.integrations.maps.load();
+
+                    const { AutocompleteSuggestion, AutocompleteSessionToken } = await google.maps.importLibrary("places");
+                    this.autocomplete = {
+                        service: AutocompleteSuggestion,
+                        sessionToken: AutocompleteSessionToken,
+                    };
+
+                    this.sessionToken = new AutocompleteSessionToken();
+                }
+            }
+        }
+    };
+</script>
+
+    <script type="text/javascript">
+  
+  document.documentElement.style.hasOwnProperty('scrollBehavior')||ps("/js/polyfills/smoothscroll.js?id=a293e76e0d03ebc15aff76c6f70773f6")
+</script>
+
+    <!-- Analytics things -->
+    <script type="text/javascript">
+  window.loadDeferred = false;
+
+  window.hm.name = "KY Historical Society";
+
+  window.params = {
+    CookiesConsentRequired: false,
+    VueAnalytics: {
+      fields: {"sampleRate":100,"siteSpeedSampleRate":10},
+      customIdFields: []
+    },
+    VueGtm: {
+      id: "GTM-MBVVFLP"
+    },
+    UET: {
+      id: ""
+    },
+    GA: {
+      keys: null,
+      keys_v4: ["G-LBPMWTQW0K"],
+      cross_domain_urls: [""],
+      custom_dimensions: {
+        HMCID: "HMCID"
+      },
+      version: 4
+    },
+    FacebookPixel: {
+      id: 477894560999443
+    },
+    ReCaptcha: {
+      key: "6LcHC2EbAAAAAC7dx1nbwvkq85rcEaKLv4SN9e6G"
+    }
+  };
+</script>
+
+
+        <script>
+        let tag = window.params.GA.keys_v4[0];
+        window.deferLoader.load(() => window.ds("https://www.googletagmanager.com/gtag/js?id=" + tag));
+    </script>
+    
+<script type="text/javascript">
+  (self.webpackChunk=self.webpackChunk||[]).push([[267,4099],{1040(__unused_webpack_module,__webpack_exports__,__webpack_require__){function _typeof(o){return _typeof="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(o){return typeof o}:function(o){return o&&"function"==typeof Symbol&&o.constructor===Symbol&&o!==Symbol.prototype?"symbol":typeof o},_typeof(o)}function _defineProperties(e,r){var t,o;for(t=0;t<r.length;t++)(o=r[t]).enumerable=o.enumerable||!1,o.configurable=!0,"value"in o&&(o.writable=!0),Object.defineProperty(e,_toPropertyKey(o.key),o)}function _createClass(e,r,t){return r&&_defineProperties(e.prototype,r),t&&_defineProperties(e,t),Object.defineProperty(e,"prototype",{writable:!1}),e}function _toPropertyKey(t){var i=function _toPrimitive(t,r){var e,i;if("object"!=_typeof(t)||!t)return t;if(void 0!==(e=t[Symbol.toPrimitive])){if("object"!=_typeof(i=e.call(t,r||"default")))return i;throw new TypeError("@@toPrimitive must return a primitive value.")}return("string"===r?String:Number)(t)}(t,"string");return"symbol"==_typeof(i)?i:i+""}__webpack_require__.d(__webpack_exports__,{A:()=>EventBase});var EventBase=_createClass(function EventBase(){var _this=this;!function _classCallCheck(a,n){if(!(a instanceof n))throw new TypeError("Cannot call a class as a function")}(this,EventBase),window.eventQueue.forEach(function(event){_this.processEvent(event)}),window.addEventListener("trackingEvent",function(e){_this.processEvent(e)}),window.addEventListener("cookiesConsentGranted",function(){_this.consentCookies()}),window.dispatchEvent(new CustomEvent(this.name+"Loaded"))})},7580(__unused_webpack_module,__unused_webpack___webpack_exports__,__webpack_require__){function _typeof(o){return _typeof="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(o){return typeof o}:function(o){return o&&"function"==typeof Symbol&&o.constructor===Symbol&&o!==Symbol.prototype?"symbol":typeof o},_typeof(o)}function _defineProperties(e,r){var t,o;for(t=0;t<r.length;t++)(o=r[t]).enumerable=o.enumerable||!1,o.configurable=!0,"value"in o&&(o.writable=!0),Object.defineProperty(e,_toPropertyKey(o.key),o)}function _toPropertyKey(t){var i=function _toPrimitive(t,r){var e,i;if("object"!=_typeof(t)||!t)return t;if(void 0!==(e=t[Symbol.toPrimitive])){if("object"!=_typeof(i=e.call(t,r||"default")))return i;throw new TypeError("@@toPrimitive must return a primitive value.")}return("string"===r?String:Number)(t)}(t,"string");return"symbol"==_typeof(i)?i:i+""}function _callSuper(t,o,e){return o=_getPrototypeOf(o),function _possibleConstructorReturn(t,e){if(e&&("object"==_typeof(e)||"function"==typeof e))return e;if(void 0!==e)throw new TypeError("Derived constructors may only return object or undefined");return function _assertThisInitialized(e){if(void 0===e)throw new ReferenceError("this hasn't been initialised - super() hasn't been called");return e}(t)}(t,_isNativeReflectConstruct()?Reflect.construct(o,e||[],_getPrototypeOf(t).constructor):o.apply(t,e))}function _isNativeReflectConstruct(){try{var t=!Boolean.prototype.valueOf.call(Reflect.construct(Boolean,[],function(){}))}catch(t){}return(_isNativeReflectConstruct=function _isNativeReflectConstruct(){return!!t})()}function _getPrototypeOf(t){return _getPrototypeOf=Object.setPrototypeOf?Object.getPrototypeOf.bind():function(t){return t.__proto__||Object.getPrototypeOf(t)},_getPrototypeOf(t)}function _setPrototypeOf(t,e){return _setPrototypeOf=Object.setPrototypeOf?Object.setPrototypeOf.bind():function(t,e){return t.__proto__=e,t},_setPrototypeOf(t,e)}function _gtag(){dataLayer.push(arguments)}var GA,_eventbase_js__WEBPACK_IMPORTED_MODULE_0__=__webpack_require__(1040);window.dataLayer=window.dataLayer||[],window.params.CookiesConsentRequired&&_gtag("consent","default",{ad_storage:"denied",ad_user_data:"denied",ad_personalization:"denied",analytics_storage:"denied"}),_gtag("js",new Date),window.params.GA.config={custom_map:{},get resource_time(){return(new Date).getTime()}},_gtag("set","resource_time",function getNowSeconds(){return(new Date).getTime()}),Object.keys(window.params.GA.custom_dimensions).forEach(function(k){"false"!==window.params.GA.custom_dimensions[k]&&!1!==window.params.GA.custom_dimensions[k]&&window.params.GA.keys_v4.length>0&&(window.params.GA.config.custom_map[window.params.GA.custom_dimensions[k]]=k)}),[0,3].includes(window.params.GA.version)&&window.params.GA.keys.forEach(function(key){_gtag("config",key,window.params.GA.config)}),[0,4].includes(window.params.GA.version)&&window.params.GA.keys_v4.forEach(function(key){_gtag("config",key,window.params.GA.config)}),window.params.GA.cross_domain_urls.length>0&&_gtag("set","linker",{domains:window.params.GA.cross_domain_urls}),GA=function(_EventBase){function GA(){var _window$hm$auth,_this;return function _classCallCheck(a,n){if(!(a instanceof n))throw new TypeError("Cannot call a class as a function")}(this,GA),_this=_callSuper(this,GA),null!==(_window$hm$auth=window.hm.auth)&&void 0!==_window$hm$auth&&_window$hm$auth.accessUid&&(_this.user=window.hm.auth.accessUid),_this}return function _inherits(t,e){if("function"!=typeof e&&null!==e)throw new TypeError("Super expression must either be null or a function");t.prototype=Object.create(e&&e.prototype,{constructor:{value:t,writable:!0,configurable:!0}}),Object.defineProperty(t,"prototype",{writable:!1}),e&&_setPrototypeOf(t,e)}(GA,_EventBase),function _createClass(e,r,t){return r&&_defineProperties(e.prototype,r),t&&_defineProperties(e,t),Object.defineProperty(e,"prototype",{writable:!1}),e}(GA,[{key:"clientId",get:function get(){return new Promise(function(resolve){[0,3].includes(window.params.GA.version)?_gtag("get",window.params.GA.keys[0],"client_id",resolve):_gtag("get",window.params.GA.keys_v4[0],"client_id",resolve)})}},{key:"clientIdV4",get:function get(){return new Promise(function(resolve){_gtag("get",window.params.GA.keys_v4[0],"client_id",resolve)})}},{key:"name",get:function get(){return"GA"}},{key:"user",set:function set(id){_gtag("config",window.params.GA.keys_v4[0],{user_id:id})}},{key:"processEvent",value:function processEvent(event){[0,3].includes(window.params.GA.version)&&(event.detail.send_to=window.params.GA.keys[0],_gtag("event",event.detail.event_action,event.detail)),[0,4].includes(window.params.GA.version)&&(event.detail.send_to=window.params.GA.keys_v4[0],this.processEventV4(event))}},{key:"processEventV4",value:function processEventV4(event){var params,_event$detail$currenc,eventName,payload,detail;"Forms"==event.detail.event_category?(params={},event.detail.value&&(params.currency=null!==(_event$detail$currenc=event.detail.currency)&&void 0!==_event$detail$currenc?_event$detail$currenc:"USD",params.value=event.detail.value),event.detail.event_category&&(params.resource_type=event.detail.event_category),event.detail.event_label&&(params.resource_name=event.detail.event_label),event.detail.event_action.includes("partial")?_gtag("event","generate_lead_partial",params):_gtag("event","generate_lead",params)):"ContactInfo"==event.detail.event_category?(event.detail.event_label.includes("tel")&&_gtag("event","contact_info_click_tel",{value:event.detail.event_value}),event.detail.event_label.includes("email")&&_gtag("event","contact_info_click_email",{value:event.detail.event_value})):"25_seconds"==event.detail.event_action||("Link"==event.detail.event_category?_gtag("event","click_internal_link",{resource_type:event.detail.event_category,resource_name:event.detail.event_label}):"SiteSearch"==event.detail.event_category?_gtag("event","search",{search_term:event.detail.event_label}):"Login"==event.detail.event_category?_gtag("event","login",{method:event.detail.event_label}):"HubspotChat"==event.detail.event_category?_gtag("event","chat_interaction",{resource_type:"hubspot",resource_name:event.detail.event_action,value:event.detail.value}):"Intercom Messenger"==event.detail.event_category||(eventName=event.detail.event_action,payload={resource_type:event.detail.event_category,resource_name:event.detail.event_label,value:event.detail.value},delete(detail=structuredClone(event.detail)).event_category,delete detail.event_action,delete detail.event_label,delete detail.value,_gtag("event",eventName,payload=Object.assign(payload,detail))))}},{key:"setUserData",value:function setUserData(key,value){_gtag("set","user_data",function _defineProperty(e,r,t){return(r=_toPropertyKey(r))in e?Object.defineProperty(e,r,{value:t,enumerable:!0,configurable:!0,writable:!0}):e[r]=t,e}({},key,value.trim().toLowerCase()))}},{key:"gtag",value:function gtag(a,b,c){return _gtag(a,b,c)}},{key:"consentCookies",value:function consentCookies(){_gtag("consent","update",{ad_storage:"granted",ad_user_data:"granted",ad_personalization:"granted",analytics_storage:"granted"})}}])}(_eventbase_js__WEBPACK_IMPORTED_MODULE_0__.A),window.GA=new GA,window.gtag=window.GA.gtag,"false"!==window.params.GA.custom_dimensions.HMCID&&!1!==window.params.GA.custom_dimensions.CID&&(window.GA.clientId.then(function(cid){if([0,3].includes(window.params.GA.version)){var p={};p.HMCID=cid,p.non_interaction=!0,_gtag("event","set_custom_dimension",p)}}),window.GA.clientIdV4.then(function(cid){var hash=window.md5b64(cid);[0,4].includes(window.params.GA.version)&&_gtag("set","user_properties",{HMCID:hash})}))}},__webpack_require__=>{__webpack_require__(__webpack_require__.s=7580)}]);
+
+  
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer',"GTM-MBVVFLP");
+</script>
+
+
+
+
+<script type="text/javascript">
+(self.webpackChunk=self.webpackChunk||[]).push([[6112],{5013(){function _slicedToArray(r,e){return function _arrayWithHoles(r){if(Array.isArray(r))return r}(r)||function _iterableToArrayLimit(r,l){var e,n,i,u,a,f,o,t=null==r?null:"undefined"!=typeof Symbol&&r[Symbol.iterator]||r["@@iterator"];if(null!=t){a=[],f=!0,o=!1;try{if(i=(t=t.call(r)).next,0===l){if(Object(t)!==t)return;f=!1}else for(;!(f=(e=i.call(t)).done)&&(a.push(e.value),a.length!==l);f=!0);}catch(r){o=!0,n=r}finally{try{if(!f&&null!=t.return&&(u=t.return(),Object(u)!==u))return}finally{if(o)throw n}}return a}}(r,e)||_unsupportedIterableToArray(r,e)||function _nonIterableRest(){throw new TypeError("Invalid attempt to destructure non-iterable instance.\nIn order to be iterable, non-array objects must have a [Symbol.iterator]() method.")}()}function _unsupportedIterableToArray(r,a){if(r){if("string"==typeof r)return _arrayLikeToArray(r,a);var t={}.toString.call(r).slice(8,-1);return"Object"===t&&r.constructor&&(t=r.constructor.name),"Map"===t||"Set"===t?Array.from(r):"Arguments"===t||/^(?:Ui|I)nt(?:8|16|32)(?:Clamped)?Array$/.test(t)?_arrayLikeToArray(r,a):void 0}}function _arrayLikeToArray(r,a){(null==a||a>r.length)&&(a=r.length);for(var e=0,n=Array(a);e<a;e++)n[e]=r[e];return n}function setEntryAnalyticsCookie(){var search_params,entry_analytics,_iterator,_step,_step$value,key,value,trackable_params=["gclid"],expirationDate=new Date,date=new Date;expirationDate.setTime(date.getTime()+2592e6),search_params=new URLSearchParams(location.search),entry_analytics=JSON.parse(getCookie("entry_analytics")?getCookie("entry_analytics"):"{}"),_iterator=function _createForOfIteratorHelper(r,e){var _n,F,o,a,u,t="undefined"!=typeof Symbol&&r[Symbol.iterator]||r["@@iterator"];if(!t){if(Array.isArray(r)||(t=_unsupportedIterableToArray(r))||e&&r&&"number"==typeof r.length)return t&&(r=t),_n=0,{s:F=function F(){},n:function n(){return _n>=r.length?{done:!0}:{done:!1,value:r[_n++]}},e:function e(r){throw r},f:F};throw new TypeError("Invalid attempt to iterate non-iterable instance.\nIn order to be iterable, non-array objects must have a [Symbol.iterator]() method.")}return a=!0,u=!1,{s:function s(){t=t.call(r)},n:function n(){var r=t.next();return a=r.done,r},e:function e(r){u=!0,o=r},f:function f(){try{a||null==t.return||t.return()}finally{if(u)throw o}}}}(search_params);try{for(_iterator.s();!(_step=_iterator.n()).done;)key=(_step$value=_slicedToArray(_step.value,2))[0],value=_step$value[1],trackable_params.includes(key)&&void 0===entry_analytics[key]&&(entry_analytics[key]=value)}catch(err){_iterator.e(err)}finally{_iterator.f()}setCookie("entry_analytics",JSON.stringify(entry_analytics),expirationDate.toUTCString())}window.params.CookiesConsentRequired||setEntryAnalyticsCookie(),window.addEventListener("cookiesConsentGranted",function(){setEntryAnalyticsCookie()})}},__webpack_require__=>{__webpack_require__(__webpack_require__.s=5013)}]);
+</script>
+
+
+<!-- Facebook Pixel Code -->
+  <script type="text/javascript">
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  if(window.params.CookiesConsentRequired)fbq('consent', 'revoke');
+  fbq('init', 477894560999443);
+  fbq('track', 'PageView');
+  (self.webpackChunk=self.webpackChunk||[]).push([[208,267],{1040(__unused_webpack_module,__webpack_exports__,__webpack_require__){function _typeof(o){return _typeof="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(o){return typeof o}:function(o){return o&&"function"==typeof Symbol&&o.constructor===Symbol&&o!==Symbol.prototype?"symbol":typeof o},_typeof(o)}function _defineProperties(e,r){var t,o;for(t=0;t<r.length;t++)(o=r[t]).enumerable=o.enumerable||!1,o.configurable=!0,"value"in o&&(o.writable=!0),Object.defineProperty(e,_toPropertyKey(o.key),o)}function _createClass(e,r,t){return r&&_defineProperties(e.prototype,r),t&&_defineProperties(e,t),Object.defineProperty(e,"prototype",{writable:!1}),e}function _toPropertyKey(t){var i=function _toPrimitive(t,r){var e,i;if("object"!=_typeof(t)||!t)return t;if(void 0!==(e=t[Symbol.toPrimitive])){if("object"!=_typeof(i=e.call(t,r||"default")))return i;throw new TypeError("@@toPrimitive must return a primitive value.")}return("string"===r?String:Number)(t)}(t,"string");return"symbol"==_typeof(i)?i:i+""}__webpack_require__.d(__webpack_exports__,{A:()=>EventBase});var EventBase=_createClass(function EventBase(){var _this=this;!function _classCallCheck(a,n){if(!(a instanceof n))throw new TypeError("Cannot call a class as a function")}(this,EventBase),window.eventQueue.forEach(function(event){_this.processEvent(event)}),window.addEventListener("trackingEvent",function(e){_this.processEvent(e)}),window.addEventListener("cookiesConsentGranted",function(){_this.consentCookies()}),window.dispatchEvent(new CustomEvent(this.name+"Loaded"))})},4045(__unused_webpack_module,__unused_webpack___webpack_exports__,__webpack_require__){function _typeof(o){return _typeof="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(o){return typeof o}:function(o){return o&&"function"==typeof Symbol&&o.constructor===Symbol&&o!==Symbol.prototype?"symbol":typeof o},_typeof(o)}function _defineProperties(e,r){var t,o;for(t=0;t<r.length;t++)(o=r[t]).enumerable=o.enumerable||!1,o.configurable=!0,"value"in o&&(o.writable=!0),Object.defineProperty(e,_toPropertyKey(o.key),o)}function _toPropertyKey(t){var i=function _toPrimitive(t,r){var e,i;if("object"!=_typeof(t)||!t)return t;if(void 0!==(e=t[Symbol.toPrimitive])){if("object"!=_typeof(i=e.call(t,r||"default")))return i;throw new TypeError("@@toPrimitive must return a primitive value.")}return("string"===r?String:Number)(t)}(t,"string");return"symbol"==_typeof(i)?i:i+""}function _callSuper(t,o,e){return o=_getPrototypeOf(o),function _possibleConstructorReturn(t,e){if(e&&("object"==_typeof(e)||"function"==typeof e))return e;if(void 0!==e)throw new TypeError("Derived constructors may only return object or undefined");return function _assertThisInitialized(e){if(void 0===e)throw new ReferenceError("this hasn't been initialised - super() hasn't been called");return e}(t)}(t,_isNativeReflectConstruct()?Reflect.construct(o,e||[],_getPrototypeOf(t).constructor):o.apply(t,e))}function _isNativeReflectConstruct(){try{var t=!Boolean.prototype.valueOf.call(Reflect.construct(Boolean,[],function(){}))}catch(t){}return(_isNativeReflectConstruct=function _isNativeReflectConstruct(){return!!t})()}function _getPrototypeOf(t){return _getPrototypeOf=Object.setPrototypeOf?Object.getPrototypeOf.bind():function(t){return t.__proto__||Object.getPrototypeOf(t)},_getPrototypeOf(t)}function _setPrototypeOf(t,e){return _setPrototypeOf=Object.setPrototypeOf?Object.setPrototypeOf.bind():function(t,e){return t.__proto__=e,t},_setPrototypeOf(t,e)}var FB=function(_EventBase){function FB(){return function _classCallCheck(a,n){if(!(a instanceof n))throw new TypeError("Cannot call a class as a function")}(this,FB),_callSuper(this,FB,arguments)}return function _inherits(t,e){if("function"!=typeof e&&null!==e)throw new TypeError("Super expression must either be null or a function");t.prototype=Object.create(e&&e.prototype,{constructor:{value:t,writable:!0,configurable:!0}}),Object.defineProperty(t,"prototype",{writable:!1}),e&&_setPrototypeOf(t,e)}(FB,_EventBase),function _createClass(e,r,t){return r&&_defineProperties(e.prototype,r),t&&_defineProperties(e,t),Object.defineProperty(e,"prototype",{writable:!1}),e}(FB,[{key:"processEvent",value:function processEvent(event){switch(event.event_category){case"ContactInfo":fbq("track","Contact");break;case"Forms":fbq("track","Lead",{content_category:event.event_action,content_name:event.event_label});break;case"PageView":fbq("track","PageView");break;case"SiteSearch":fbq("track","Search",{content_category:event.event_action,search_string:event.event_label});break;default:var payload={};switch(payload.currency=event.detail.currency||"USD",payload.content_name=document.title,event.detail.event_action){case"view_item":payload.content_ids=event.detail.items.map(function(item){return item.id}),payload.content_type="product",payload.contents=event.detail.items.map(function(item){return{id:item.id,quantity:item.quantity}}),fbq("track","ViewContent",payload);break;case"view_item_list":payload.content_ids=event.detail.items.map(function(item){return item.id}),payload.content_type="product_group",payload.contents=event.detail.items.map(function(item){return{id:item.id,quantity:item.quantity}}),fbq("track","ViewContent",payload);break;case"add_to_cart":payload.content_ids=event.detail.items.map(function(item){return item.id}),payload.contents=event.detail.items.map(function(item){return{id:item.id,quantity:item.quantity}}),fbq("track","AddToCart",payload);break;case"begin_checkout":payload.content_ids=event.detail.items.map(function(item){return item.id}),payload.contents=event.detail.items.map(function(item){return{id:item.id,quantity:item.quantity}}),fbq("track","InitiateCheckout",payload);break;case"purchase":payload.content_ids=event.detail.items.map(function(item){return item.id}),payload.contents=event.detail.items.map(function(item){return{id:item.id,quantity:item.quantity}}),payload.value=event.detail.value,fbq("track","Purchase",payload);break;default:fbq("trackCustom",event.detail.event_action,event.detail)}}}},{key:"name",get:function get(){return"FB"}},{key:"consentCookies",value:function consentCookies(){fbq("consent","grant")}}])}(__webpack_require__(1040).A);window.FB=new FB}},__webpack_require__=>{__webpack_require__(__webpack_require__.s=4045)}]);
+  </script>
+<!-- End Facebook Pixel Code -->
+
+
+
+
+
+
+
+
+
+    <!-- Styles & Scripts -->
+    <link type="text/css" href="/css/fonts.css?id=a4ce18a610c9014d8a6a5af753b32d6d" rel="stylesheet">
+    <link type="text/css" href="/css/app.css?id=b0d08fe822938b66095d3ccbda420248" rel="stylesheet">
+    <link type="text/css" href="/css/form.css?id=54ba8ecc259456b60f3d74ae6897fe76" rel="stylesheet">
+            <link type="text/css" href="/css/accessibility.css?id=60c9456f176122f0cc697db26bfb978b" rel="stylesheet">
+    
+    
+    <script type="text/javascript" src="/js/manifest.js?id=d04f1cebbd7be9ac9182e39aedfcff7e" defer></script>
+    <script type="text/javascript" src="/js/vendor.js?id=de61785ce2af181acaaf6bdbc6b63b09" defer></script>
+    <script type="text/javascript" src="/js/app.js?id=ea288003c61055c778164a17b5daa3a8" defer></script>
+
+    <meta name="facebook-domain-verification" content="wqx9v5yoi348ux07kap6edahlch5ym"/>
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+
+    <meta property="ix:host" content="ky-historical-society.imgix.net">
+    <meta property="ix:useHttps" content="1">
+    <meta property="ix:srcAttribute" content="data-src">
+    <meta property="ix:srcsetAttribute" content="data-srcset">
+    <meta property="ix:sizesAttribute" content="data-sizes">
+
+    <link rel="apple-touch-icon-precomposed" sizes="57x57" href="/apple-icon-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="60x60" href="/apple-icon-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/apple-icon-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="76x76" href="/apple-icon-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/apple-icon-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="120x120" href="/apple-icon-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/apple-icon-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="/apple-icon-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="180x180" href="/apple-icon-precomposed.png">
+    <link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+</head>
+<body>
+<!-- Google Tag Manager (noscript) -->
+<!-- End Google Tag Manager (noscript) -->
+    <a href="#" tabindex="0" style="position: absolute; left: -10000px; top: auto; width: 1px; height: 1px; overflow: hidden;" onclick="la()" role="button" aria-label="Click here to enable the accessibility widget for this website (Can also be opened using the Alt+9 Key)">Click here to enable the accessibility widget for this website (Can also be opened using the Alt+9 Key)</a>
+<div id="topofpage"></div>
+<div id="abovethefold">
+    	<div id="core__navbar" class="core__header__standard core__header header">
+        <div class="nav-top-bar">
+            <div class="container">
+                <div class="link-wrapper">
+                                                                                                    <a href="/participate/join" >
+                                <span>Become a Member</span>
+                                <span class="visually-hidden"></span>
+                            </a>
+                                                                                <a href="/donate-now" >
+                                <span>Make a Donation</span>
+                                <span class="visually-hidden"></span>
+                            </a>
+                                                            </div>
+            </div>
+        </div>
+		<div class="nav-container">
+			<div class="nav-image-container">
+				<a class="nav-link" href="/">
+                    					        <img id="231250106022" class="nav-logo" src="https://ky-historical-society.imgix.net/3945799c-9d29-4d95-8c3c-0d7b4e7f37cd/KHS-Horizontal-FullColor.png?auto=compress%2Cformat&fit=min&fm=png&q=80&rect=0%2C0%2C324%2C100&s=dcc46cfa0a2b8ff6c90413cd29b7c4b0" alt="Khs Horizontal Fullcolor" width="324" height="100" data-src="https://ky-historical-society.imgix.net/3945799c-9d29-4d95-8c3c-0d7b4e7f37cd/KHS-Horizontal-FullColor.png?auto=compress%2Cformat&fit=min&fm=png&q=80&rect=0%2C0%2C324%2C100&s=dcc46cfa0a2b8ff6c90413cd29b7c4b0">
+                    				</a>
+			</div>
+			<div class="nav-menu-container">
+                <button aria-expanded="false" aria-controls="man-nav-container" id="hamburger-toggler">
+					<span class="visually-hidden">Menu Button</span>
+					<span id="nav-hamburger-stroke-1" class="nav-hamburger-stroke"></span>
+					<span id="nav-hamburger-stroke-2" class="nav-hamburger-stroke"></span>
+					<span id="nav-hamburger-stroke-3" class="nav-hamburger-stroke"></span>
+				</button>
+                <nav id="nav-link-container" class="nav-main v2">
+					<div class="nav-link-wrapper" aria-expanded="false" aria-controls="nav-America250KY">
+    <a
+        class="nav-link nav-link-parent"
+        href="/participate/america250ky"
+            >
+        <span>America250KY</span>
+                    <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" role="img" fill="currentColor"  viewBox="0 0 512 512" class="core__icon__chevron-down"><path d="M233.4 406.6c12.5 12.5 32.8 12.5 45.3 0l192-192c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L256 338.7 86.6 169.4c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3l192 192z"/></svg>
+            </a>
+            <div id="nav-America250KY" class="sub-link-wrapper collapsed">
+            <a
+                class="sub-link all"
+                href="/participate/america250ky"
+                            >
+                America250KY
+            </a>
+                                            <a
+                    class="sub-link"
+                    href="/participate/america250ky/america250ky-educator-resources"
+                                    >
+                    <span>America250KY Educator Resources</span>
+                </a>
+                                            <a
+                    class="sub-link"
+                    href="/participate/america250ky/liberty-tree-project"
+                                    >
+                    <span>Liberty Tree Project</span>
+                </a>
+                                            <a
+                    class="sub-link"
+                    href="/participate/america250ky/america250ky-objectives-focus-areas-themes"
+                                    >
+                    <span>America250KY Objectives, Focus Areas &amp; Themes</span>
+                </a>
+                                            <a
+                    class="sub-link"
+                    href="/participate/america250ky/statewide-events-programs-calendar"
+                                    >
+                    <span>Statewide Events &amp; Programs Calendar</span>
+                </a>
+                                            <a
+                    class="sub-link"
+                    href="/participate/america250ky/america250ky-community-resources-county-committees"
+                                    >
+                    <span>America250KY Community Resources &amp; County Committees</span>
+                </a>
+                                            <a
+                    class="sub-link"
+                    href="/participate/america250ky/america-250ky-logo-usage-policy"
+                                    >
+                    <span>America 250KY Logo Usage Policy</span>
+                </a>
+                                            <a
+                    class="sub-link"
+                    href="/participate/america250ky/america250ky-grant-program"
+                                    >
+                    <span>America250KY Grant Program</span>
+                </a>
+                    </div>
+    </div><div class="nav-link-wrapper" aria-expanded="false" aria-controls="nav-Explore">
+    <a
+        class="nav-link nav-link-parent"
+        href="/explore"
+            >
+        <span>Explore</span>
+                    <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" role="img" fill="currentColor"  viewBox="0 0 512 512" class="core__icon__chevron-down"><path d="M233.4 406.6c12.5 12.5 32.8 12.5 45.3 0l192-192c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L256 338.7 86.6 169.4c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3l192 192z"/></svg>
+            </a>
+            <div id="nav-Explore" class="sub-link-wrapper collapsed">
+            <a
+                class="sub-link all"
+                href="/explore"
+                            >
+                Explore
+            </a>
+                                            <a
+                    class="sub-link"
+                    href="/explore/catalog-research-tools"
+                                    >
+                    <span>Catalog &amp; Research Tools</span>
+                </a>
+                                            <a
+                    class="sub-link"
+                    href="/explore/historical-marker-program"
+                                    >
+                    <span>Historical Marker Program</span>
+                </a>
+                                            <a
+                    class="sub-link"
+                    href="/explore/resources"
+                                    >
+                    <span>Resources</span>
+                </a>
+                                            <a
+                    class="sub-link"
+                    href="/explore/exhibits"
+                                    >
+                    <span>Exhibits</span>
+                </a>
+                                            <a
+                    class="sub-link"
+                    href="/khs-podcasts"
+                                    >
+                    <span>KHS Podcasts</span>
+                </a>
+                                            <a
+                    class="sub-link"
+                    href="/explore/library-research-services"
+                                    >
+                    <span>Library Research Services</span>
+                </a>
+                                            <a
+                    class="sub-link"
+                    href="/explore/virtual-visitor"
+                                    >
+                    <span>Virtual Visitor</span>
+                </a>
+                    </div>
+    </div><div class="nav-link-wrapper" aria-expanded="false" aria-controls="nav-Visit">
+    <a
+        class="nav-link nav-link-parent"
+        href="/visit"
+            >
+        <span>Visit</span>
+                    <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" role="img" fill="currentColor"  viewBox="0 0 512 512" class="core__icon__chevron-down"><path d="M233.4 406.6c12.5 12.5 32.8 12.5 45.3 0l192-192c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L256 338.7 86.6 169.4c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3l192 192z"/></svg>
+            </a>
+            <div id="nav-Visit" class="sub-link-wrapper collapsed">
+            <a
+                class="sub-link all"
+                href="/visit"
+                            >
+                Visit
+            </a>
+                                            <a
+                    class="sub-link"
+                    href="/visit/thomas-d-clark-center-for-kentucky-history"
+                                    >
+                    <span>Thomas D. Clark Center for Kentucky History</span>
+                </a>
+                                            <a
+                    class="sub-link"
+                    href="/visit/old-state-capitol-experience"
+                                    >
+                    <span>Old State Capitol Experience</span>
+                </a>
+                                            <a
+                    class="sub-link"
+                    href="/visit/kentucky-military-history-museum"
+                                    >
+                    <span>Kentucky Military History Museum</span>
+                </a>
+                                            <a
+                    class="sub-link"
+                    href="/stewart-home-school-1792-museum-store"
+                                    >
+                    <span>Stewart Home &amp; School 1792 Museum Store</span>
+                </a>
+                                            <a
+                    class="sub-link"
+                    href="/visit/martin-f-schmidt-research-library"
+                                    >
+                    <span>Martin F. Schmidt Research Library</span>
+                </a>
+                                            <a
+                    class="sub-link"
+                    href="/visit/hours-admission"
+                                    >
+                    <span>Hours &amp; Admission</span>
+                </a>
+                                            <a
+                    class="sub-link"
+                    href="/visit/facilities-rental"
+                                    >
+                    <span>Facilities Rental</span>
+                </a>
+                                            <a
+                    class="sub-link"
+                    href="/visit/accessibility"
+                                    >
+                    <span>Accessibility</span>
+                </a>
+                                            <a
+                    class="sub-link"
+                    href="/visit/tours"
+                                    >
+                    <span>Tours</span>
+                </a>
+                                            <a
+                    class="sub-link"
+                    href="/visit/youth-organization-experiences"
+                                    >
+                    <span>Youth Organization Experiences</span>
+                </a>
+                    </div>
+    </div><div class="nav-link-wrapper" aria-expanded="false" aria-controls="nav-Participate">
+    <a
+        class="nav-link nav-link-parent"
+        href="/participate"
+            >
+        <span>Participate</span>
+                    <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" role="img" fill="currentColor"  viewBox="0 0 512 512" class="core__icon__chevron-down"><path d="M233.4 406.6c12.5 12.5 32.8 12.5 45.3 0l192-192c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L256 338.7 86.6 169.4c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3l192 192z"/></svg>
+            </a>
+            <div id="nav-Participate" class="sub-link-wrapper collapsed">
+            <a
+                class="sub-link all"
+                href="/participate"
+                            >
+                Participate
+            </a>
+                                            <a
+                    class="sub-link"
+                    href="/participate/america250ky"
+                                    >
+                    <span>America250KY</span>
+                </a>
+                                            <a
+                    class="sub-link"
+                    href="/participate/kentucky-oral-history-commission"
+                                    >
+                    <span>Kentucky Oral History Commission</span>
+                </a>
+                                            <a
+                    class="sub-link"
+                    href="/participate/commissions-committees"
+                                    >
+                    <span>Commissions &amp; Committees</span>
+                </a>
+                                            <a
+                    class="sub-link"
+                    href="/participate/support-local-history"
+                                    >
+                    <span>Support Local History</span>
+                </a>
+                                            <a
+                    class="sub-link"
+                    href="/participate/transcribing-kentucky-history"
+                                    >
+                    <span>Transcribing Kentucky History</span>
+                </a>
+                                            <a
+                    class="sub-link"
+                    href="/participate/volunteer"
+                                    >
+                    <span>Volunteer</span>
+                </a>
+                                            <a
+                    class="sub-link"
+                    href="/participate/intern"
+                                    >
+                    <span>Intern</span>
+                </a>
+                                            <a
+                    class="sub-link"
+                    href="/participate/donate-your-treasures"
+                                    >
+                    <span>Donate Your Treasures</span>
+                </a>
+                                            <a
+                    class="sub-link"
+                    href="/participate/join"
+                                    >
+                    <span>Join</span>
+                </a>
+                                            <a
+                    class="sub-link"
+                    href="/participate/give"
+                                    >
+                    <span>Give</span>
+                </a>
+                                            <a
+                    class="sub-link"
+                    href="/sponsorship-opportunites"
+                                    >
+                    <span>Sponsorship Opportunites</span>
+                </a>
+                                            <a
+                    class="sub-link"
+                    href="/participate/youth-advisory-board"
+                                    >
+                    <span>Youth Advisory Board</span>
+                </a>
+                    </div>
+    </div><div class="nav-link-wrapper" aria-expanded="false" aria-controls="nav-News-&-Events">
+    <a
+        class="nav-link nav-link-parent"
+        href="/news-events"
+            >
+        <span>News &amp; Events</span>
+                    <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" role="img" fill="currentColor"  viewBox="0 0 512 512" class="core__icon__chevron-down"><path d="M233.4 406.6c12.5 12.5 32.8 12.5 45.3 0l192-192c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L256 338.7 86.6 169.4c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3l192 192z"/></svg>
+            </a>
+            <div id="nav-News &amp; Events" class="sub-link-wrapper collapsed">
+            <a
+                class="sub-link all"
+                href="/news-events"
+                            >
+                News &amp; Events
+            </a>
+                                            <a
+                    class="sub-link"
+                    href="/news"
+                                    >
+                    <span>News</span>
+                </a>
+                                            <a
+                    class="sub-link"
+                    href="/stories-and-blogs"
+                                    >
+                    <span>Stories and Blogs</span>
+                </a>
+                                            <a
+                    class="sub-link"
+                    href="/events"
+                                    >
+                    <span>Events</span>
+                </a>
+                                            <a
+                    class="sub-link"
+                    href="/history-awards"
+                                    >
+                    <span>History Awards</span>
+                </a>
+                                            <a
+                    class="sub-link"
+                    href="/khs-for-me/adult-programs"
+                                    >
+                    <span>Adult Programs</span>
+                </a>
+                                            <a
+                    class="sub-link"
+                    href="/khs-for-me/youth-family-programs"
+                                    >
+                    <span>Youth &amp; Family Programs</span>
+                </a>
+                    </div>
+    </div><div class="nav-link-wrapper" aria-expanded="false" aria-controls="nav-KHS-For-Me">
+    <a
+        class="nav-link nav-link-parent"
+        href="/khs-for-me"
+            >
+        <span>KHS For Me</span>
+                    <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" role="img" fill="currentColor"  viewBox="0 0 512 512" class="core__icon__chevron-down"><path d="M233.4 406.6c12.5 12.5 32.8 12.5 45.3 0l192-192c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L256 338.7 86.6 169.4c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3l192 192z"/></svg>
+            </a>
+            <div id="nav-KHS For Me" class="sub-link-wrapper collapsed">
+            <a
+                class="sub-link all"
+                href="/khs-for-me"
+                            >
+                KHS For Me
+            </a>
+                                            <a
+                    class="sub-link"
+                    href="/khs-for-me/youth-family-programs"
+                                    >
+                    <span>Youth &amp; Family Programs</span>
+                </a>
+                                            <a
+                    class="sub-link"
+                    href="/khs-for-me/for-educators"
+                                    >
+                    <span>For Educators</span>
+                </a>
+                                            <a
+                    class="sub-link"
+                    href="/khs-for-me/for-genealogists"
+                                    >
+                    <span>For Genealogists</span>
+                </a>
+                                            <a
+                    class="sub-link"
+                    href="/khs-for-me/adult-programs"
+                                    >
+                    <span>Adult Programs</span>
+                </a>
+                                            <a
+                    class="sub-link"
+                    href="/khs-for-me/for-researchers"
+                                    >
+                    <span>For Researchers</span>
+                </a>
+                                            <a
+                    class="sub-link"
+                    href="/khs-for-me/local-history-services"
+                                    >
+                    <span>Local History Services</span>
+                </a>
+                    </div>
+    </div><div class="nav-link-wrapper" aria-expanded="false" aria-controls="nav-About">
+    <a
+        class="nav-link nav-link-parent"
+        href="/about"
+            >
+        <span>About</span>
+                    <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" role="img" fill="currentColor"  viewBox="0 0 512 512" class="core__icon__chevron-down"><path d="M233.4 406.6c12.5 12.5 32.8 12.5 45.3 0l192-192c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L256 338.7 86.6 169.4c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3l192 192z"/></svg>
+            </a>
+            <div id="nav-About" class="sub-link-wrapper collapsed">
+            <a
+                class="sub-link all"
+                href="/about"
+                            >
+                About
+            </a>
+                                            <a
+                    class="sub-link"
+                    href="/about/impact-reports"
+                                    >
+                    <span>Impact Reports</span>
+                </a>
+                                            <a
+                    class="sub-link"
+                    href="/about/staff"
+                                    >
+                    <span>Staff</span>
+                </a>
+                                            <a
+                    class="sub-link"
+                    href="/about/careers"
+                                    >
+                    <span>Careers</span>
+                </a>
+                                            <a
+                    class="sub-link"
+                    href="/about/khs-foundation"
+                                    >
+                    <span>KHS Foundation</span>
+                </a>
+                                            <a
+                    class="sub-link"
+                    href="/about/governing-board"
+                                    >
+                    <span>Governing Board</span>
+                </a>
+                                            <a
+                    class="sub-link"
+                    href="/about/history"
+                                    >
+                    <span>History</span>
+                </a>
+                                            <a
+                    class="sub-link"
+                    href="/about/contact"
+                                    >
+                    <span>Contact</span>
+                </a>
+                                            <a
+                    class="sub-link"
+                    href="/about/open-records-request"
+                                    >
+                    <span>Open Records Request</span>
+                </a>
+                    </div>
+    </div>
+				</nav>
+			</div>
+            <div class="nav-search-container">
+                <button class="search-toggle" id="ToggleSearchModal">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" fill="currentColor"><!-- Font Awesome Free 5.15.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="M505 442.7L405.3 343c-4.5-4.5-10.6-7-17-7H372c27.6-35.3 44-79.7 44-128C416 93.1 322.9 0 208 0S0 93.1 0 208s93.1 208 208 208c48.3 0 92.7-16.4 128-44v16.3c0 6.4 2.5 12.5 7 17l99.7 99.7c9.4 9.4 24.6 9.4 33.9 0l28.3-28.3c9.4-9.4 9.4-24.6.1-34zM208 336c-70.7 0-128-57.2-128-128 0-70.7 57.2-128 128-128 70.7 0 128 57.2 128 128 0 70.7-57.2 128-128 128z"/></svg>
+                    <span class="visually-hidden">Open Search Modal</span>
+                </button>
+            </div>
+            <div class="banner">
+                                                        <a href="https://16671a.blackbaudhosting.com/16671a/1000-1-AF-GOS" target="_blank" >CONTRIBUTE TO THE FUND FOR KHS TODAY!</a>
+                                                </div>
+		</div>
+
+        
+
+        <div class="modal" id="SearchModal">
+            <div class="modal-content">
+                <div class="row">
+                    <div class="col-12">
+                        <h2>Search the Site</h2>
+                        <p>To Search KHS Collections, <a href="/explore/catalog-research-tools">Click Here <span class="visually-hidden">to search KHS Collections.</span></a></p>
+                    </div>
+                    <div class="col-12">
+                    <form method="get" action="/search">
+                        <input type="text" name="search" id="ModalSearchInput">
+                        <input type="submit" value="Search" class="btn accent"></input>
+                    </form>
+                    </div>
+                </div>
+                <span class="close" onclick="modalOff()"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 352 512"><path d="M242.72 256l100.07-100.07c12.28-12.28 12.28-32.19 0-44.48l-22.24-22.24c-12.28-12.28-32.19-12.28-44.48 0L176 189.28 75.93 89.21c-12.28-12.28-32.19-12.28-44.48 0L9.21 111.45c-12.28 12.28-12.28 32.19 0 44.48L109.28 256 9.21 356.07c-12.28 12.28-12.28 32.19 0 44.48l22.24 22.24c12.28 12.28 32.2 12.28 44.48 0L176 322.72l100.07 100.07c12.28 12.28 32.2 12.28 44.48 0l22.24-22.24c12.28-12.28 12.28-32.19 0-44.48L242.72 256z"/></svg></span>
+            </div>
+            <div class="overlay" onclick="modalOff()"></div>
+        </div>
+	</div>
+</div>
+<div id="app" class="container-fluid px-0">
+          <div class="hm-404-template block white" style="padding-top: 14rem; text-align: center;">
+      <div class="row">
+        <div class="col-12 content-wrapper">
+          <h1>404 - Page Not Found</h1>
+          <p>The content you are looking for could not be found.</p>
+          <a href="/" title="Homepage" class="btn">
+            <div class="btn-overlay"></div>
+            <span>Home</span>
+          </a>
+        </div>
+      </div>
+    </div>
+  <footer class="site-footer v2">
+    <div class="footer-sponsorship-section">
+        <div class="container-lg">
+            <div class="row my-3 justify-content-center">
+                                    <div class="col-12 col-md-10 col-lg-8 text-center mb-3">
+                        <div class="core__content">
+                            <p style="text-align: center;"><strong style="text-align: center;">The Kentucky Historical Society is an agency of the Kentucky Tourism, Arts and Heritage Cabinet, an affiliate of the Smithsonian, has full accreditation from the American Alliance of Museums and is a founding member of the History Relevance Campaign.</strong></p>
+                        </div>
+                    </div>
+                                <div class="col-12 d-flex justify-content-center flex-wrap">
+                                                                                                <a href="/about/khs-foundation"  class="d-flex justify-content-center align-items-center m-3 mx-5" style="max-width: 225px;">
+                                <img src="https://ky-historical-society.imgix.net/ca0da84f-ad10-4b26-ba3a-a97891c71e07/KHSF-Centered-FullColor_KHSF-CenteredLogo.svg?s=182e8e1e26635db3fb0625ca22611ac9" data-src="https://ky-historical-society.imgix.net/ca0da84f-ad10-4b26-ba3a-a97891c71e07/KHSF-Centered-FullColor_KHSF-CenteredLogo.svg?s=182e8e1e26635db3fb0625ca22611ac9" alt="Download 1" />
+                            </a>
+                                                                                                                        <a href="https://tah.ky.gov"  target="_blank"  class="d-flex justify-content-center align-items-center m-3 mx-5" style="max-width: 225px;">
+                                <img src="https://ky-historical-society.imgix.net/dd32e27f-a106-4391-8393-1e2ecf7e7e3f/TeamKentuckyTAHCabinet-01.png?auto=compress%2Cformat&amp;fit=clip&amp;fm=pjpg&amp;h=396&amp;q=80&amp;rect=0%2C0%2C756%2C396&amp;w=1500&amp;s=3703064e490df52d575f40322bd9abf3" data-src="https://ky-historical-society.imgix.net/dd32e27f-a106-4391-8393-1e2ecf7e7e3f/TeamKentuckyTAHCabinet-01.png?auto=compress%2Cformat&amp;fit=clip&amp;fm=pjpg&amp;h=396&amp;q=80&amp;rect=0%2C0%2C756%2C396&amp;w=1500&amp;s=3703064e490df52d575f40322bd9abf3" alt="Team Kentucky Tah Cabinet 01" />
+                            </a>
+                                                                                                                        <a href="https://affiliations.si.edu/"  target="_blank"  class="d-flex justify-content-center align-items-center m-3 mx-5" style="max-width: 225px;">
+                                <img src="https://ky-historical-society.imgix.net/3b748c36-0469-4939-82e9-01a506eda1ec/smithsonian-affiliate.png?auto=compress%2Cformat&amp;fit=clip&amp;fm=pjpg&amp;h=59&amp;q=80&amp;rect=0%2C0%2C360%2C59&amp;w=1500&amp;s=1100fda4b7ce530ebd0b868c408ea4d1" data-src="https://ky-historical-society.imgix.net/3b748c36-0469-4939-82e9-01a506eda1ec/smithsonian-affiliate.png?auto=compress%2Cformat&amp;fit=clip&amp;fm=pjpg&amp;h=59&amp;q=80&amp;rect=0%2C0%2C360%2C59&amp;w=1500&amp;s=1100fda4b7ce530ebd0b868c408ea4d1" alt="Smithsonian Affiliate" />
+                            </a>
+                                                                                                                        <a href="https://www.aam-us.org/"  target="_blank"  class="d-flex justify-content-center align-items-center m-3 mx-5" style="max-width: 225px;">
+                                <img src="https://ky-historical-society.imgix.net/3b748c36-0469-4939-82e9-01a506eda1ec/a-a-m.png?auto=compress%2Cformat&amp;fit=clip&amp;fm=pjpg&amp;h=85&amp;q=80&amp;rect=0%2C0%2C84%2C85&amp;w=1500&amp;s=1f53aa1023a036b7c189f7a182712771" data-src="https://ky-historical-society.imgix.net/3b748c36-0469-4939-82e9-01a506eda1ec/a-a-m.png?auto=compress%2Cformat&amp;fit=clip&amp;fm=pjpg&amp;h=85&amp;q=80&amp;rect=0%2C0%2C84%2C85&amp;w=1500&amp;s=1f53aa1023a036b7c189f7a182712771" alt="A A M" />
+                            </a>
+                                                            </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer-cta background-tertiary">
+        <div class="container">
+            <h2 style="text-align: center;"><a href="/participate/join">To make a better tomorrow,&nbsp;<em>invest in yesterday</em>.</a></h2>
+<h3 style="text-align: center;"><a href="/participate/join">JOIN TODAY.</a></h3>
+        </div>
+    </div>
+    <div class="side-column">
+        <div class="logo-wrapper">
+            <div class="logo">
+                                    <a href="/">
+                            <img id="823474229146" class="footer-logo" src="https://ky-historical-society.imgix.net/01fae91b-93b5-4d01-ae89-4a913bd66826/KHS-Emblem-FullColor_KHS-EmblemLogo.svg?s=e25ab0035f9e74cfedac19d0178a1d0f" alt="Emblem Logo" width="800" height="800" data-src="https://ky-historical-society.imgix.net/01fae91b-93b5-4d01-ae89-4a913bd66826/KHS-Emblem-FullColor_KHS-EmblemLogo.svg?s=e25ab0035f9e74cfedac19d0178a1d0f">
+                    </a>
+                            </div>
+            <div class="content">
+                <p>100 W. Broadway,<br />Frankfort, KY 40601<br /><a href="tel:+1(502)%20564-1792">(502) 564-1792</a></p>
+            </div>
+        </div>
+        <div class="content-wrapper">
+            <p><strong>Thomas D. Clark Center for Kentucky History</strong><br />100 West Broadway, Frankfort, KY 40601</p>
+<p><strong>Old State Capitol &amp; Public Grounds</strong><br />300 West Broadway, Frankfort, KY 40601</p>
+<p><strong>Kentucky Military History Museum</strong><br />125 East Main St, Frankfort, KY 40601</p>
+<p><strong>Martin F. Schmidt Research Library</strong><br />100 West Broadway, Frankfort, KY 40601</p>
+        </div>
+    </div>
+    <div class="main-column">
+        <div class="column-links">
+            <div class="column column-one">
+                                                        <a href="/about" >
+                        About KHS
+                        <span class="visually-hidden"></span>
+                    </a>
+                                                        <a href="/about/governing-board" >
+                        Governing Board
+                        <span class="visually-hidden"></span>
+                    </a>
+                                                        <a href="/about/staff" >
+                        Staff
+                        <span class="visually-hidden"></span>
+                    </a>
+                                                        <a href="/about/careers" >
+                        Careers
+                        <span class="visually-hidden"></span>
+                    </a>
+                                                        <a href="/about/khs-foundation" >
+                        KHS Foundation
+                        <span class="visually-hidden"></span>
+                    </a>
+                                                        <a href="/news" >
+                        News &amp; Blogs
+                        <span class="visually-hidden"></span>
+                    </a>
+                                                        <a href="/about/impact-reports" >
+                        Impact Reports
+                        <span class="visually-hidden"></span>
+                    </a>
+                                                        <a href="/about/open-records-request" >
+                        Open Records Request
+                        <span class="visually-hidden"></span>
+                    </a>
+                            </div>
+            <div class="column column-two">
+                                                        <a href="/khs-for-me/adult-programs" >
+                        For Adults
+                        <span class="visually-hidden"></span>
+                    </a>
+                                                        <a href="/khs-for-me/youth-family-programs" >
+                        For Youth and Families
+                        <span class="visually-hidden"></span>
+                    </a>
+                                                        <a href="/khs-for-me/for-educators" >
+                        For Educators
+                        <span class="visually-hidden"></span>
+                    </a>
+                                                        <a href="/khs-for-me/for-genealogists" >
+                        For Genealogists
+                        <span class="visually-hidden"></span>
+                    </a>
+                                                        <a href="/khs-for-me/for-researchers" >
+                        For Researchers
+                        <span class="visually-hidden"></span>
+                    </a>
+                                                        <a href="/khs-for-me/local-history-services" >
+                        Local History Services
+                        <span class="visually-hidden"></span>
+                    </a>
+                            </div>
+            <div class="column column-three">
+                                                        <a href="/about/contact" >
+                        Contact Us
+                        <span class="visually-hidden"></span>
+                    </a>
+                                                        <a href="/participate/join" >
+                        Membership
+                        <span class="visually-hidden"></span>
+                    </a>
+                                                        <a href="/visit/facilities-rental" >
+                        Host an Event
+                        <span class="visually-hidden"></span>
+                    </a>
+                                                        <a href="/visit/accessibility" >
+                        Accessibility
+                        <span class="visually-hidden"></span>
+                    </a>
+                                                        <a href="/press" >
+                        Press
+                        <span class="visually-hidden"></span>
+                    </a>
+                            </div>
+        </div>
+        <div class="social-newsletter">
+            <div class="social">
+                <h3 class="h6">Follow Us</h3>
+                <div class="social-media-account-wrapper ">
+                    <a class="social-account-link" href="https://www.facebook.com/KyHistSoc/" target="_blank">
+                <svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="facebook-f" class="svg-inline--fa fa-facebook-f fa-w-10" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path fill="currentColor" d="M279.14 288l14.22-92.66h-88.91v-60.13c0-25.35 12.42-50.06 52.24-50.06h40.42V6.26S260.43 0 225.36 0c-73.22 0-121.08 44.38-121.08 124.72v70.62H22.89V288h81.39v224h100.17V288z"></path></svg>                <span class="visually-hidden"> Link to facebook</span>
+            </a>
+                    <a class="social-account-link" href="https://twitter.com/KyHistSoc" target="_blank">
+                <svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="twitter" class="svg-inline--fa fa-twitter fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"></path></svg>                <span class="visually-hidden"> Link to twitter</span>
+            </a>
+                    <a class="social-account-link" href="https://www.instagram.com/kentuckyhistoricalsociety/?hl=en" target="_blank">
+                <svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="instagram" class="svg-inline--fa fa-instagram fa-w-14" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z"></path></svg>                <span class="visually-hidden"> Link to instagram</span>
+            </a>
+                    <a class="social-account-link" href="https://www.youtube.com/channel/UCunZDN4KpmyYrFz7A6-680g" target="_blank">
+                <svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="youtube" class="svg-inline--fa fa-youtube fa-w-18" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path fill="currentColor" d="M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.205-142.739 81.201z"></path></svg>                <span class="visually-hidden"> Link to youtube</span>
+            </a>
+                    <a class="social-account-link" href="https://www.linkedin.com/company/kentucky-historical-society/" target="_blank">
+                <svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="linkedin-in" class="svg-inline--fa fa-linkedin-in fa-w-14" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M100.28 448H7.4V148.9h92.88zM53.79 108.1C24.09 108.1 0 83.5 0 53.8a53.79 53.79 0 0 1 107.58 0c0 29.7-24.1 54.3-53.79 54.3zM447.9 448h-92.68V302.4c0-34.7-.7-79.2-48.29-79.2-48.29 0-55.69 37.7-55.69 76.7V448h-92.78V148.9h89.08v40.8h1.3c12.4-23.5 42.69-48.3 87.88-48.3 94 0 111.28 61.9 111.28 142.3V448z"></path></svg>                <span class="visually-hidden"> Link to linkedin</span>
+            </a>
+                    <a class="social-account-link" href="https://www.pinterest.com/KHS1792/_created/" target="_blank">
+                <svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="pinterest" class="svg-inline--fa fa-pinterest fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><path fill="currentColor" d="M496 256c0 137-111 248-248 248-25.6 0-50.2-3.9-73.4-11.1 10.1-16.5 25.2-43.5 30.8-65 3-11.6 15.4-59 15.4-59 8.1 15.4 31.7 28.5 56.8 28.5 74.8 0 128.7-68.8 128.7-154.3 0-81.9-66.9-143.2-152.9-143.2-107 0-163.9 71.8-163.9 150.1 0 36.4 19.4 81.7 50.3 96.1 4.7 2.2 7.2 1.2 8.3-3.3.8-3.4 5-20.3 6.9-28.1.6-2.5.3-4.7-1.7-7.1-10.1-12.5-18.3-35.3-18.3-56.6 0-54.7 41.4-107.6 112-107.6 60.9 0 103.6 41.5 103.6 100.9 0 67.1-33.9 113.6-78 113.6-24.3 0-42.6-20.1-36.7-44.8 7-29.5 20.5-61.3 20.5-82.6 0-19-10.2-34.9-31.4-34.9-24.9 0-44.9 25.7-44.9 60.2 0 22 7.4 36.8 7.4 36.8s-24.5 103.8-29 123.2c-5 21.4-3 51.6-.9 71.2C65.4 450.9 0 361.1 0 256 0 119 111 8 248 8s248 111 248 248z"></path></svg>                <span class="visually-hidden"> Link to pinterest</span>
+            </a>
+            </div>
+            </div>
+            <div class="newsletter">
+                <h3 class="h6">Join Our Newsletter</h3>
+                <div class="formHolder">
+    <h2 class="footer-newsletter form-title">Footer Newsletter</h2>
+    
+    <vue-form
+        :id="'215'"
+        :title="'Footer Newsletter'"
+        :locale="'en'"
+        :endpoint="'/api/form/en/footer-newsletter'"
+        :button-text="'Sign Up'"
+
+        :success-type="'success_message'"
+        :internal-link="''"
+        :external-link="''"
+
+        :progress-bar="false"
+        :minimum-validation="[]"
+        :disclaimer="''"
+        
+    >
+        <template v-slot:default="slotProps">
+            <vue-form-text
+    ref="newsletter_email_form_component"
+    :type="'email'"
+    :name="'newsletter_email'"
+    :label="'Email Address'"
+    :placeholder="'Email Address'"
+    :inputclass="'none'"
+    :is-dependent="false"
+    :field-dependency="''"
+              :is_required="true"
+        :form-id="slotProps.formId"
+    :position="'1'"
+
+>
+</vue-form-text>
+
+        </template>            
+    </vue-form>
+
+</div>            </div>
+        </div>
+    </div>
+    <div class="bottom-bar">
+        <div class="links">
+                                            <div class="link">
+                    <a href="/about/contact" >Contact Information<span class="visually-hidden"></span></a>
+                </div>
+                    </div>
+        <div class="content">
+            <p>&copy; 2000 - 2026 The Kentucky Historical Society. All rights reserved.</p>
+        </div>
+    </div>
+
+    <div class="footer">
+        <a href="https://hatfieldmedia.com" class="footer-hatfield-logo-link">
+            <div class="footer-hatfield-logo" id="footer-hatfield-logo"><span class="visually-hidden">Hatfield Media Logo and Website Link</span></div>
+        </a>
+        <div class="footer-hatfield-links">
+            <span><a href="https://history.ky.gov/hatfield-media-credit" id="site-info"></a> | </span>
+            <span><a href="https://history.ky.gov/hatfield-media-copyright" id="copyright-info"></a> | </span>
+            <span><a href="https://history.ky.gov/hatfield-media-privacy" id="privacy-policy"></a> | </span>
+            <span class="footer-info"><a href="/accessibility" id="accessibility-statement"></a></span>
+        </div>
+    </div>
+</div>
+
+
+            <div id="accessibility-button" onclick="window.la(true)" style="background-color: #00b0e2; position: fixed; right: auto; left: 20px; top: auto; bottom: 20px; border-radius: 50%; width: 45px; height: 45px; z-index: 9999; cursor: pointer;" tabindex="0" role="button" aria-label="Click here to enable the accessibility widget for this website (Can also be opened using the Alt+9 Key)">
+ <svg id="accessibility-svg" class="accessibility-icon" xmlns="http://www.w3.org/2000/svg" role="none" viewBox="0 0 50 57"><path style="fill: #ffffff !important;" d="M20.8 0c-3 0-5.4 2.4-5.4 5.4s2.4 5.4 5.4 5.4c3 0 5.4-2.4 5.4-5.4S23.8 0 20.8 0zM17.9 11.1c-3.2 0-3.7 2-3.7 3.6v19.1c0 1.6 1.3 3 3 3l13.6-0.1c0 0 4.7 7.1 7 10.6 0.7 1.1 1.6 2 3 2 1.8 0 3.4-1.5 3.2-3.2 -0.1-0.7-0.2-1.4-0.7-2 -2.1-3.1-6.2-9.9-8.5-12.4 -0.6-0.6-1.4-1.1-2.3-1.1l-11.2 0V18.8l8 5.5c1.2 0.8 2.7 0.5 3.5-0.7 0.8-1.2 0.5-2.7-0.7-3.5 0 0-8.3-5.7-12.5-8.6C19.2 11.2 18.4 11.1 17.9 11.1zM48.9 16.4c-0.2 0-0.4 0.1-0.5 0.2l-10 10H24.2c-0.4 0-0.8 0.3-0.8 0.8v0.3c0 0.4 0.3 0.8 0.8 0.8h14.6c0.2 0 0.4-0.1 0.6-0.2l10.3-10.3c0.3-0.3 0.3-0.8 0-1.1l-0.2-0.2C49.3 16.5 49.1 16.4 48.9 16.4zM12.8 21.7C5.4 23.9 0 30.7 0 38.9 0 49 8.1 57 17.9 57c7.5 0 14-4.7 16.6-11.4l-2.7-4.1c-1.2 6.4-6.9 11.4-14 11.4 -8 0-14.2-6.4-14.2-14 0-5.9 3.7-11 9.1-13.1V21.7z"/></svg>
+ <div id="accessibility-spinner" style="display: none;" class="accessibility-icon ai-loader"></div>
+</div>
+<div class="accessibility-modal" id="accessibility_modal" tabindex="0" role="dialog" aria-labelled-by="modal_title">
+  <div>
+    <h2 style="color:#000000;" id="modal_title" data-title-prompt="Additional functionality" data-title-loading="Loading aditional functionality..."></h2>
+    <p style="color:#000000;" id="modal_content" data-inner-prompt="Would you like to enhance your user experience with keyboard navigation and accessibility functionality?" data-inner-loading="Please wait one moment while the additional functionality loads."></p>
+	  <button onclick="window.la(true)" class="button-yes">Yes</button>
+    <button class="button-close" onclick="window.hMRemoveModal();document.removeEventListener('keydown', laTabpress);">X</button>
+  </div>
+</div>
+    </div>
+<script>
+            window.acsbParams = {"statementLink":"","feedbackLink":"","footerHtml":"Accessibility by Hatfield Media","hideMobile":false,"hideTrigger":false,"language":"en","position":"left","leadColor":"#00b0e2","triggerColor":"#00b0e2","triggerRadius":"50%","triggerPositionX":"left","triggerPositionY":"bottom","triggerIcon":"default","triggerSize":"medium","triggerOffsetX":20,"triggerOffsetY":20,"mobile":{"triggerSize":"small","triggerPositionX":"left","triggerOffsetX":"20","triggerOffsetY":"20","triggerRadius":"20"}}
+    </script>
+<!-- This is a good place for 'every-page' javascript -->
+
+    <script type="text/javascript">
+        var searchModalButton = document.getElementById("ToggleSearchModal");
+
+        searchModalButton.addEventListener("click", (event) => {
+            var searchModal = document.getElementById("SearchModal");
+            var searchInput = document.getElementById("ModalSearchInput");
+            searchModal.classList.add('show');
+            searchInput.focus();
+            searchInput.select();
+        });
+
+        function modalOff() {
+            var searchModal = document.getElementById("SearchModal");
+            searchModal.classList.contains('show') ? searchModal.classList.remove('show') : '';
+        }
+    </script>
+
+		<script type="text/javascript">
+			window.addEventListener("vueLoaded", function (event) {
+				var navjs = document.createElement("script");
+				navjs.setAttribute('src', "/js/nav-v2.js?id=eaecb89f525cd7d065944619e7b12f79");
+				navjs.setAttribute('defer', "true");
+				document.head.appendChild(navjs);
+			});
+		</script>
+	    <script type="text/javascript">
+        function scrollToNextBlock(event) {
+            let scrollTo = event.target.closest('.block').nextElementSibling
+            if (scrollTo == null) {
+                scrollTo = document.querySelector('#app .block');
+            }
+            let navHeight = document.getElementById('core__navbar').clientHeight
+            let stickyNavigation = document.querySelector('.core__block-sticky-navigation');
+            let offset = 0;
+            if (stickyNavigation) {
+                offset = stickyNavigation.clientHeight + navHeight;
+            } else {
+                offset = navHeight;
+            }
+
+
+            if(scrollTo != null) {
+                window.scrollTo({
+                    top: scrollTo.offsetTop - offset,
+                    left: 0,
+                    behavior: 'smooth'
+                })
+            }
+        }
+    </script>
+  <script>
+    var elements = [
+	'site-info',
+	'copyright-info',
+	'privacy-policy',
+	'accessibility-statement'
+];
+
+var innerHTML = [
+	"Site Info",
+	"Copyright",
+	"Privacy",
+	"Accessibility"
+];
+
+for(i=0;i<elements.length;i++){
+	var element = document.getElementById(elements[i]);
+	if(typeof element != undefined && element != null) {
+		element.innerHTML = innerHTML[i];
+		element.style.paddingLeft = "5px";
+	}
+}
+
+// Defer loading image until page is fully loaded
+
+var logo = document.getElementById('footer-hatfield-logo');
+logo.title = "Website Design by Hatfield Media"
+
+if (typeof logo != undefined && logo != null){
+	logo.style.backgroundImage = "url('https://assets.hatfieldmedia.com/HM-footer-logo-white.png')";
+}
+
+// This script should not be instantiated on the page until the dom content is fully loaded, since it is always at the very bottom.
+  </script>
+<script type="text/javascript">
+    window.loadDeferred = window.isIE?!0:new Promise(function(r){r(!0)});
+</script>
+    <noscript><img height="1" width="1" style="display:none"
+                   src="https://www.facebook.com/tr?id=4.7789456099944E+14&ev=PageView&noscript=1"
+        /></noscript>
+</body>
+</html>
