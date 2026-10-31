@@ -1058,3 +1058,47 @@ research/dora-ella-newnam/sources/soundex/tn1900-s415-n3726-andrewj-noname-2-12.
   format: JPEG Soundex card, IA soundex1900tn153 n3726
 research/dora-ella-newnam/sources/soundex/b007-pass95-1900-in-mo-ky-ar-il-tn-s415-andrew-samuel-2026-10-31.txt
   format: Pass 95 IN/MO/KY/AR/IL/TN S-415 Andrew–Samuel search log
+research/dora-ella-newnam/sources/soundex/in1900-s415-n0760-af-35-in-pamela-2-12.jpg
+  sha256: e6e87b30ec86459d67bc962f61dd47d54f85396e7d59df8c3cc5321ce76560f7
+  format: JPEG Soundex card, IA soundex1900in208 n0760
+research/dora-ella-newnam/sources/soundex/in1900-s415-n0800-arthur-23-in-iola-2.jpg
+  sha256: a1779ec6fa5b43b1cd1fda146db2d9f8e84e4f32d094a96c1d80c1af1c5a295e
+  format: JPEG Soundex card, IA soundex1900in208 n0800
+research/dora-ella-newnam/sources/soundex/in1900-s415-n1114-isaacr-47-in-fern-3.jpg
+  sha256: d7bde3c15181550bbc93150d7f27649fe13dd39581ae2a61eae54533daa7aad7
+  format: JPEG Soundex card, IA soundex1900in208 n1114
+research/dora-ella-newnam/sources/soundex/in1900-s415-n1702-stevensond-42-in-bonnieh-1.jpg
+  sha256: 669d93076249a03fa6174313b6c5daa3b4ca9eb3011e6c63777f77d4478fbe7e
+  format: JPEG Soundex card, IA soundex1900in208 n1702
+research/dora-ella-newnam/sources/soundex/il1900-s415-n1401-af-cont-lindiep-2.jpg
+  sha256: 325102a7e9e45db610e1b33b19f8d9b04bd746216aba8cc1f7f0df8a2e19b011
+  format: JPEG Soundex card, IA soundex1900il401 n1401 rotate -90
+research/dora-ella-newnam/sources/soundex/mo1900-s415-n2962-allenn-45-in-dade.jpg
+  sha256: bd67a32b52602707dcc49bc8cec6f1f81330c965777f741608ae56f97610a6e0
+  format: JPEG Soundex card, IA soundex1900mo248 n2962
+research/dora-ella-newnam/sources/soundex/mo1900-s415-n2963-allenn-claud-s-2.jpg
+  sha256: 6b10a2c3a8184af17a94163b0e8fc99a13d1ff04bc975cb70f596a5886e85215
+  format: JPEG Soundex card, IA soundex1900mo248 n2963
+research/dora-ella-newnam/sources/soundex/mo1900-s415-n3721-lawrence-lea-2.jpg
+  sha256: 64acdb65267ef2c98fd9617064f04d3c6fcff761932d8a070193424c439fe5c6
+  format: JPEG Soundex card, IA soundex1900mo248 n3721
+research/dora-ella-newnam/sources/soundex/mo1900-s415-n0183-wardb-ivaj-1.jpg
+  sha256: 27742f51367ad4bade6b521baa669c5cd758a09db356043366510b71db0080ed
+  format: JPEG Soundex card, IA soundex1900mo249 n0183
+research/dora-ella-newnam/sources/soundex/mo1900-s415-n0182-waltera-viola-wife.jpg
+  sha256: 7cff256dc2056f81c462785f0330ffb7d64360bfb8d1a2eb694d4bef133ffced
+  format: JPEG Soundex card, IA soundex1900mo249 n0182
+research/dora-ella-newnam/sources/soundex/ar1900-s415-n2393-aj-newman-mil.jpg
+  sha256: 78afff7043b7c636ced535340eb9f3e40dead83f059837d26ae77ae4f0e88796
+  format: JPEG Soundex card, IA soundex1900ar107 n2393
+research/dora-ella-newnam/sources/soundex/ky1900-s415-n2969-louie-jeni-in.jpg
+  sha256: 358b58811bfef376fbdff1433d4a3e22f267a66c8d4e83b59ffed04c738ed56e
+  format: JPEG Soundex card, IA soundex1900ky161 n2969
+research/dora-ella-newnam/sources/soundex/tn1900-s415-n3718-anderson-cont.jpg
+  sha256: a090d5b24043dcca0da9d35ade1f99a3628ef161d907dfe195b6910a4ff2ce7f
+  format: JPEG Soundex card, IA soundex1900tn153 n3718
+research/dora-ella-newnam/sources/soundex/tn1900-s415-n3766-burrell-baby-d.jpg
+  sha256: 370106a2c5ad8b1af7ebf46d956ac0240f91661081af0719f0468321363c4189
+  format: JPEG Soundex card, IA soundex1900tn153 n3766
+research/dora-ella-newnam/sources/soundex/b007-pass96-1900-in-mo-ky-ar-il-tn-s415-leftover-fathers-2026-10-31.txt
+  format: Pass 96 IN/MO/KY/AR/IL/TN S-415 leftover-father search log

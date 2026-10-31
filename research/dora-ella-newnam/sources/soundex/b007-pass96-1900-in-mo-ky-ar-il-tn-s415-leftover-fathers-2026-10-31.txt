@@ -1,0 +1,49 @@
+Pass 96 — 1900 S-415 leftover uncommon given-name parent cards
+Date: 31 Oct 2026 (America/New_York)
+Target C244: 1910 Letha Sullivan 12 nurse, Jesse Conrad, Liberty Twp, Bollinger Co. MO; father reported Indiana-born.
+Hunt: Letha / Letta / Lethia / Lettie / Litha / Viola / Lottie / Leta ~0–2 on PARENT cards.
+Do not merge. Hard Rule 3.
+
+Reels (card images seen; full reel PDFs not downloaded):
+  soundex1900in208 rot 0
+  soundex1900mo248 + soundex1900mo249 rot 0
+  soundex1900ky161 rot 0
+  soundex1900ar107 rot 0
+  soundex1900il401 rot -90 (il402 not in this leftover A walk)
+  soundex1900tn153 rot 0
+
+Walks:
+  IN A leftover n0760–0784; B leftover n0797–0837; Isaac n1108–1122; Louis/Lyman n1404–1426; Walter ABSENT (Thomas T / Townsend / Timothy / Tom / Vera; William n1760)
+  MO A leftover n2955–2971; B leftover n3000–3044; Isaac ABSENT (James after Henry n3405); L leftover n3720–3751 (M-tab n3752); W leftover mo249 n0160–0187
+  KY Aaron n2445–2459; B leftover n2485–2535; Isaac ABSENT; Lewis/Louie n2954–2970
+  AR Alexander/Amos n2390–2409; B leftover n2418–2445
+  IL A leftover n1395–1455 including A.F. n1400–1401
+  TN Ambrose/Alice n3705–3718 (n3718 = Anderson #2); B leftover n3738–3766 (n3766 = Burrell L #2); Isaac/Ira n3948–3958
+
+Agents (visual paleography only; no research/ IDs):
+  [Read IN Pass 96 leftover sheets](bc-f5477cb1-6147-54c9-8510-3bc7f8d48fbc)
+  [Read KY Pass 96 leftover sheets](bc-230cb512-de5d-5557-9c9d-c027ed7a75c0)
+  [Read AR IL Pass 96 leftover sheets](bc-504dd9ff-1805-57c1-aad3-88d5adface18)
+  [Read remaining Pass 96 KY AR TN sheets](bc-ea843d3b-42d9-5361-a41e-a79495bd0738)
+  [Read MO Pass 96 leftover sheets](bc-16d11e46-af38-54ea-98b4-48815d804f4c) + local [Read MO Pass 96 leftover sheets](bc-fe8f8989-5e59-56c7-85ed-890fefb54f09)
+  Late Pass 95 IN: [Read IN Pass 95 sheets](bc-1276bf4a-143b-54bc-9596-a2f03179eeb2) — n1702 Bonnie H addendum; do not rewrite 7fc842a
+
+Parent-verified hunt-adjacent (all REJECT vs C244):
+  IN n0760 A.F. 35 IN Madison Lafayette + Pamela D Mar 1900 2/12 IN — closest leftover IN-father + girl ~0–2
+  IN n0800 Arthur 23 IN Washington Twp + Iola E D Dec 1897 2 IN
+  IN n1114 Isaac R 47 IN Indianapolis + Fern D Oct 1897 3 IN
+  IN n1702 Stevenson D 42 IN Dubois Madison + Bonnie H D Apr 1899 1 IN (Pass 95 addendum)
+  IL n1400–1401 A.F. 42 IN Macon Whitmore + Margie L D Jan 1897 3 IL + Lindie P D Feb 1898 2 IL — C684 "adults only" INCOMPLETE
+  MO n2962–2963 Allen N 45 IN Dade Polk + Claud S Apr 1898 2 MO (son)
+  MO n3721 Lawrence 26 MO Oregon Thayer + Lea D Mar 1898 2 MO
+  MO n0183 Ward B 26 MO Perry Brazeau + Iva J D Apr 1899 1 MO (Perry adjacent Bollinger)
+  MO n0182 Walter A 24 KS + Viola W Feb 1880 20 NE (wife; no child)
+  AR n2393 A.J. 28 AR Washington Prairie + Gertie 3 / Nora 1/2 + Newman, E (Mrs) M Oct 1827 72 AR (MIL FAN)
+  KY n2969 Louie 46 KY Woodford + Jeni W 44 IN + Jennie D 4 KY
+  TN n3766 Burrell L #2 Baby D July 1899 10/12 TN
+  TN n3718 Slavin Anderson #2 Gales 16 / Ollie 12 — Pass 95 C656 treated n3718 as Andrew start
+
+B049 add: yellcountyobits Stone A–R siteindex 289/290 no Dora/Posa/Thomas 1926; IA Solr 0 for 1926 Journal and (dora OR posa) AND stone AND yell AND 1926; ASA finding aid Cloudflare; USGenWeb Yell has no 1926 obit file.
+
+Verdict: leftover uncommon S-415 fathers on IN/MO/KY/AR/IL/TN closed for C244 merge.
+Residual: B049 1926 paper; original 1900 schedules of closest IN-father near-hits if wanted.

@@ -233,6 +233,20 @@ Diplomatic transcriptions: [`08-transcriptions.md`](08-transcriptions.md). Citat
 | 258 | 1900 (index) | Context | [Illinois S-415 — A.F., 42, Indiana, Whitmore; adults only](sources/soundex/il1900-s415-n1400-af-42-in-adults.jpg) |
 | 259 | 1900 (index) | Rejected same-name | [Tennessee S-415 — Rufus, Haywood; Linnie, 1; not C244](sources/soundex/tn1900-s415-n0337-rufus-linnie-1.jpg) |
 | 260 | 1900 (index) | Rejected same-name | [Tennessee S-415 — Sullivant, Henry, Haywood; Rosie L., 5/12; not C244](sources/soundex/tn1900-s415-n3936-henry-rosiel-5-12.jpg) |
+| 261 | 1900 (index) | Rejected same-name | [Indiana S-415 — A.F., 35, Indiana, Lafayette Twp; Pamela, 2/12; not C244](sources/soundex/in1900-s415-n0760-af-35-in-pamela-2-12.jpg) |
+| 262 | 1900 (index) | Rejected same-name | [Indiana S-415 — Arthur, 23, Indiana, Washington Twp; Iola E., 2; not C244](sources/soundex/in1900-s415-n0800-arthur-23-in-iola-2.jpg) |
+| 263 | 1900 (index) | Rejected same-name | [Indiana S-415 — Isaac R., 47, Indiana, Indianapolis; Fern, 3; not C244](sources/soundex/in1900-s415-n1114-isaacr-47-in-fern-3.jpg) |
+| 264 | 1900 (index) | Rejected same-name | [Indiana S-415 — Stevenson D., 42, Indiana, Dubois; Bonnie H., 1; not C244](sources/soundex/in1900-s415-n1702-stevensond-42-in-bonnieh-1.jpg) |
+| 265 | 1900 (index) | Rejected same-name | [Illinois S-415 — A.F. continuation, Whitmore; Lindie P., 2; not C244](sources/soundex/il1900-s415-n1401-af-cont-lindiep-2.jpg) |
+| 266 | 1900 (index) | Rejected same-name | [Missouri S-415 — Allen N., 45, Indiana, Dade Polk Twp](sources/soundex/mo1900-s415-n2962-allenn-45-in-dade.jpg) |
+| 267 | 1900 (index) | Rejected same-name | [Missouri S-415 — Allen N. continuation; Claud, son, 2; not C244](sources/soundex/mo1900-s415-n2963-allenn-claud-s-2.jpg) |
+| 268 | 1900 (index) | Rejected same-name | [Missouri S-415 — Lawrence, Oregon Thayer; Lea, 2; not C244](sources/soundex/mo1900-s415-n3721-lawrence-lea-2.jpg) |
+| 269 | 1900 (index) | Rejected same-name | [Missouri S-415 — Ward B., Perry Brazeau; Iva J., 1; not C244](sources/soundex/mo1900-s415-n0183-wardb-ivaj-1.jpg) |
+| 270 | 1900 (index) | Rejected same-name | [Missouri S-415 — Walter A., 24, Kansas; wife Viola, 20; not C244](sources/soundex/mo1900-s415-n0182-waltera-viola-wife.jpg) |
+| 271 | 1900 (index) | Context | [Arkansas S-415 — A.J., Washington Prairie; Mrs. E. Newman, 72, mother-in-law](sources/soundex/ar1900-s415-n2393-aj-newman-mil.jpg) |
+| 272 | 1900 (index) | Context | [Tennessee S-415 — Slavin, Anderson continuation; not Andrew](sources/soundex/tn1900-s415-n3718-anderson-cont.jpg) |
+| 273 | 1900 (index) | Rejected same-name | [Tennessee S-415 — Burrell L. continuation; Baby, 10/12; not C244](sources/soundex/tn1900-s415-n3766-burrell-baby-d.jpg) |
+| 274 | 1900 (index) | Rejected same-name | [Kentucky S-415 — Louie, Woodford; wife Jeni, 44, Indiana; not an Indiana father](sources/soundex/ky1900-s415-n2969-louie-jeni-in.jpg) |
 | 123 | 1900 (index) | Context | [Texas C-563 — J-tab divider](sources/soundex/tx1900-c563-p1-j-divider.jpg) |
 | 17 | Apr 1910 | Negative search | [Kentucky N-550 — Millie / Missouri; no McCoy](sources/soundex/ky1910-n550-p329-millie-missouri.jpg) |
 | 18 | Apr 1910 | Negative search | [Kentucky N-550 — Monroe; still no McCoy](sources/soundex/ky1910-n550-p330-monroe-no-mccoy.jpg) |
@@ -2431,6 +2445,146 @@ White head, August 1864, age 35, born Tennessee, Haywood County, 16th Civil Dist
 White head, August 1872, age 27, born Tennessee, Haywood County, 12th Civil District. Terminal t on Sullivant. Wife Ophelia, 23. Daughter Rosie L., December 1899, age 5/12. Diplomatic Rosie L. Father Tennessee. Rejected as C244.
 
 ![Tennessee S-415 — Sullivant, Henry, Haywood; Rosie L., 5/12; not C244](sources/soundex/tn1900-s415-n3936-henry-rosiel-5-12.jpg)
+
+### 261 · 1900 (index) · Indiana S-415 — A.F., 35, Indiana, Lafayette Twp; Pamela, 2/12; not C244
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/in1900-s415-n0760-af-35-in-pamela-2-12.jpg`](sources/soundex/in1900-s415-n0760-af-35-in-pamela-2-12.jpg)  
+**Source:** S389 · C697
+
+White head, February 1865, age 35, born Indiana, Madison County, Lafayette Township. Wife Jessie E., 18, Indiana. Daughter Pamela, March 1900, age 2/12, Indiana. Closest leftover uncommon-name Indiana father with a girl about 0–2. Diplomatic Pamela. Rejected as C244.
+
+![Indiana S-415 — A.F., 35, Indiana, Lafayette Twp; Pamela, 2/12; not C244](sources/soundex/in1900-s415-n0760-af-35-in-pamela-2-12.jpg)
+
+### 262 · 1900 (index) · Indiana S-415 — Arthur, 23, Indiana, Washington Twp; Iola E., 2; not C244
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/in1900-s415-n0800-arthur-23-in-iola-2.jpg`](sources/soundex/in1900-s415-n0800-arthur-23-in-iola-2.jpg)  
+**Source:** S389 · C698
+
+White head, October 1876, age 23, born Indiana, Washington Township. Wife Hattie M., 24. Daughter Iola E., December 1897, age 2. Son William R., 6/12. Diplomatic Iola E. Rejected as C244.
+
+![Indiana S-415 — Arthur, 23, Indiana, Washington Twp; Iola E., 2; not C244](sources/soundex/in1900-s415-n0800-arthur-23-in-iola-2.jpg)
+
+### 263 · 1900 (index) · Indiana S-415 — Isaac R., 47, Indiana, Indianapolis; Fern, 3; not C244
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/in1900-s415-n1114-isaacr-47-in-fern-3.jpg`](sources/soundex/in1900-s415-n1114-isaacr-47-in-fern-3.jpg)  
+**Source:** S389 · C699
+
+White head, August 1853, age 47, born Indiana, Indianapolis, Sheffield Avenue 1130. Daughter Fern, October 1897, age 3, Indiana. Diplomatic Fern. Rejected as C244.
+
+![Indiana S-415 — Isaac R., 47, Indiana, Indianapolis; Fern, 3; not C244](sources/soundex/in1900-s415-n1114-isaacr-47-in-fern-3.jpg)
+
+### 264 · 1900 (index) · Indiana S-415 — Stevenson D., 42, Indiana, Dubois; Bonnie H., 1; not C244
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/in1900-s415-n1702-stevensond-42-in-bonnieh-1.jpg`](sources/soundex/in1900-s415-n1702-stevensond-42-in-bonnieh-1.jpg)  
+**Source:** S389 · C700
+
+White head, September 1858, age 42, born Indiana, Dubois County, Madison Township. Wife Laura E., 34. Daughter Bonnie H., April 1899, age 1. Pass 95 Samuel-walk addendum; not in the Pass 95 claim set. Diplomatic Bonnie H. Rejected as C244.
+
+![Indiana S-415 — Stevenson D., 42, Indiana, Dubois; Bonnie H., 1; not C244](sources/soundex/in1900-s415-n1702-stevensond-42-in-bonnieh-1.jpg)
+
+### 265 · 1900 (index) · Illinois S-415 — A.F. continuation, Whitmore; Lindie P., 2; not C244
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/il1900-s415-n1401-af-cont-lindiep-2.jpg`](sources/soundex/il1900-s415-n1401-af-cont-lindiep-2.jpg)  
+**Source:** S393 · C701
+
+Continuation of A.F., 42, Indiana, Macon County, Whitmore (see #2). Daughters Margie L., January 1897, age 3, and Lindie P., February 1898, age 2, both Illinois. Pass 95 C684 adults-only reading is incomplete. Diplomatic Lindie P. Rejected as C244.
+
+![Illinois S-415 — A.F. continuation, Whitmore; Lindie P., 2; not C244](sources/soundex/il1900-s415-n1401-af-cont-lindiep-2.jpg)
+
+### 266 · 1900 (index) · Missouri S-415 — Allen N., 45, Indiana, Dade Polk Twp
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/mo1900-s415-n2962-allenn-45-in-dade.jpg`](sources/soundex/mo1900-s415-n2962-allenn-45-in-dade.jpg)  
+**Source:** S390 · C702
+
+White head, February 1855, age 45, born Indiana, Dade County, Polk Township. Wife Ellen, 34, Missouri. Children through Willie, 5. Footer see #2. Only leftover Missouri Indiana-father with children.
+
+![Missouri S-415 — Allen N., 45, Indiana, Dade Polk Twp](sources/soundex/mo1900-s415-n2962-allenn-45-in-dade.jpg)
+
+### 267 · 1900 (index) · Missouri S-415 — Allen N. continuation; Claud, son, 2; not C244
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/mo1900-s415-n2963-allenn-claud-s-2.jpg`](sources/soundex/mo1900-s415-n2963-allenn-claud-s-2.jpg)  
+**Source:** S390 · C702
+
+Continuation: Claud, son, April 1898, age 2, Missouri; mother-in-law Margaret Underwood, 60, Tennessee. The toddler is a son. Rejected as C244.
+
+![Missouri S-415 — Allen N. continuation; Claud, son, 2; not C244](sources/soundex/mo1900-s415-n2963-allenn-claud-s-2.jpg)
+
+### 268 · 1900 (index) · Missouri S-415 — Lawrence, Oregon Thayer; Lea, 2; not C244
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/mo1900-s415-n3721-lawrence-lea-2.jpg`](sources/soundex/mo1900-s415-n3721-lawrence-lea-2.jpg)  
+**Source:** S390 · C703
+
+White head, June 1873, age 26, born Missouri, Oregon County, Thayer. Wife Oglee, 24. Daughter Lea, March 1898, age 2. Diplomatic Lea, three letters, no t. Father Missouri. Rejected as C244.
+
+![Missouri S-415 — Lawrence, Oregon Thayer; Lea, 2; not C244](sources/soundex/mo1900-s415-n3721-lawrence-lea-2.jpg)
+
+### 269 · 1900 (index) · Missouri S-415 — Ward B., Perry Brazeau; Iva J., 1; not C244
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/mo1900-s415-n0183-wardb-ivaj-1.jpg`](sources/soundex/mo1900-s415-n0183-wardb-ivaj-1.jpg)  
+**Source:** S390 · C704
+
+White head, September 1873, age 26, born Missouri, Perry County, Brazeau Township. Wife Malva E., 24, Kentucky. Daughter Iva J., April 1899, age 1. Perry County adjoins Bollinger. Father Missouri. Diplomatic Iva J. Rejected as C244.
+
+![Missouri S-415 — Ward B., Perry Brazeau; Iva J., 1; not C244](sources/soundex/mo1900-s415-n0183-wardb-ivaj-1.jpg)
+
+### 270 · 1900 (index) · Missouri S-415 — Walter A., 24, Kansas; wife Viola, 20; not C244
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/mo1900-s415-n0182-waltera-viola-wife.jpg`](sources/soundex/mo1900-s415-n0182-waltera-viola-wife.jpg)  
+**Source:** S390 · C708
+
+White head, June 1876, age 24, born Kansas, Cedar County, Box Township. Wife Viola, February 1880, age 20, Nebraska. No children. Hunt-string Viola is the wife. Rejected as C244.
+
+![Missouri S-415 — Walter A., 24, Kansas; wife Viola, 20; not C244](sources/soundex/mo1900-s415-n0182-waltera-viola-wife.jpg)
+
+### 271 · 1900 (index) · Arkansas S-415 — A.J., Washington Prairie; Mrs. E. Newman, 72, mother-in-law
+
+**Role:** Context  
+**File:** [`sources/soundex/ar1900-s415-n2393-aj-newman-mil.jpg`](sources/soundex/ar1900-s415-n2393-aj-newman-mil.jpg)  
+**Source:** S392 · C705
+
+White head, February 1872, age 28, born Arkansas. Daughters Gertie, 3, and Nora, 1/2. Mother-in-law Newman, E. (Mrs), October 1827, age 72, Arkansas, recovered on the deep crop. FAN only; not merged with the dossier Newnams.
+
+![Arkansas S-415 — A.J., Washington Prairie; Mrs. E. Newman, 72, mother-in-law](sources/soundex/ar1900-s415-n2393-aj-newman-mil.jpg)
+
+### 272 · 1900 (index) · Tennessee S-415 — Slavin, Anderson continuation; not Andrew
+
+**Role:** Context  
+**File:** [`sources/soundex/tn1900-s415-n3718-anderson-cont.jpg`](sources/soundex/tn1900-s415-n3718-anderson-cont.jpg)  
+**Source:** S394 · C706
+
+Continuation of Slavin, Anderson, Scott County. Son Gales, 16; daughter Ollie, 12. Pass 95 treated this leaf as the start of the Andrew band. Andrew begins at n3719.
+
+![Tennessee S-415 — Slavin, Anderson continuation; not Andrew](sources/soundex/tn1900-s415-n3718-anderson-cont.jpg)
+
+### 273 · 1900 (index) · Tennessee S-415 — Burrell L. continuation; Baby, 10/12; not C244
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/tn1900-s415-n3766-burrell-baby-d.jpg`](sources/soundex/tn1900-s415-n3766-burrell-baby-d.jpg)  
+**Source:** S394 · C707
+
+Continuation of Burrell L., 34, Tennessee, Hawkins County. Unnamed daughter Baby, July 1899, age 10/12. Father Tennessee. Rejected as C244.
+
+![Tennessee S-415 — Burrell L. continuation; Baby, 10/12; not C244](sources/soundex/tn1900-s415-n3766-burrell-baby-d.jpg)
+
+### 274 · 1900 (index) · Kentucky S-415 — Louie, Woodford; wife Jeni, 44, Indiana; not an Indiana father
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/ky1900-s415-n2969-louie-jeni-in.jpg`](sources/soundex/ky1900-s415-n2969-louie-jeni-in.jpg)  
+**Source:** S391 · C709
+
+White head, March 1854, age 46, born Kentucky, Woodford County, Mortonsville. Wife Jeni, July 1855, age 44, Indiana. Daughter Jennie, 4, Kentucky. Sister-in-law Lida Breadhiff, 38, Indiana. Indiana is the wife. Rejected as C244 father.
+
+![Kentucky S-415 — Louie, Woodford; wife Jeni, 44, Indiana; not an Indiana father](sources/soundex/ky1900-s415-n2969-louie-jeni-in.jpg)
 
 ### 123 · 1900 (index) · Texas C-563 — J-tab divider
 

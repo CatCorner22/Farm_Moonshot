@@ -2380,5 +2380,125 @@ Terminal *t* on Sullivant. Diplomatic **Rosie L**. → **C686**.
 
 Diplomatic **Viola E**. Adult. → **C664**.
 
+## DOC192 — 1900 IN Soundex S-415, A.F. 35 Indiana; Pamela 2/12
+- Image: `sources/soundex/in1900-s415-n0760-af-35-in-pamela-2-12.jpg` SHA-256 `e6e87b30ec86459d67bc962f61dd47d54f85396e7d59df8c3cc5321ce76560f7`
+- Reel: IA `soundex1900in208` n**0760**
+
+### Diplomatic
+> **S415 Sullivan, A.F.** — Head · vol **73** ED **94** sh **5** ln **88** · W Feb **1865** **35** Indiana · Madison / Lafayette Twp
+> **Jessie E** W Jan **1882** **18** Indiana; **Pamela** D Mar **1900** **2/12** Indiana
+
+Diplomatic **Pamela**. Closest leftover IN-father + girl ~0–2. → **C697**.
+
+## DOC193 — 1900 IN Soundex S-415, Arthur 23 Indiana; Iola E 2
+- Image: `sources/soundex/in1900-s415-n0800-arthur-23-in-iola-2.jpg` SHA-256 `a1779ec6fa5b43b1cd1fda146db2d9f8e84e4f32d094a96c1d80c1af1c5a295e`
+- Reel: IA `soundex1900in208` n**0800**
+
+### Diplomatic
+> **S415 Sullivan, Arthur** — Head · vol **82** ED **140** sh **3** ln **48** · W Oct **1876** **23** Indiana · Washington / Washington Twp
+> **Hattie M** W Jan **1876** **24** Indiana; **Iola E** D Dec **1897** **2** Indiana; **William R** S June **1899** **6/12** Indiana
+
+Diplomatic **Iola E**. → **C698**.
+
+## DOC194 — 1900 IN Soundex S-415, Isaac R 47 Indiana; Fern 3
+- Image: `sources/soundex/in1900-s415-n1114-isaacr-47-in-fern-3.jpg` SHA-256 `d7bde3c15181550bbc93150d7f27649fe13dd39581ae2a61eae54533daa7aad7`
+- Reel: IA `soundex1900in208` n**1114**
+
+### Diplomatic
+> **S415 Sullivan, Isaac R** — Head · Marion / Wayne / Indianapolis Sheffield **1130** · W Aug **1853** **47** Indiana
+> **Mary E** **44**; **William Lee** **15**; **Fern** D Oct **1897** **3** Indiana
+
+Diplomatic **Fern**. → **C699**.
+
+## DOC195 — 1900 IN Soundex S-415, Stevenson D 42 Indiana; Bonnie H 1
+- Image: `sources/soundex/in1900-s415-n1702-stevensond-42-in-bonnieh-1.jpg` SHA-256 `669d93076249a03fa6174313b6c5daa3b4ca9eb3011e6c63777f77d4478fbe7e`
+- Reel: IA `soundex1900in208` n**1702** (Pass 95 addendum)
+
+### Diplomatic
+> **S415 Sullivan, Stevenson D** — Head · vol **17** ED **47** sh **5** ln **87** · W Sept **1858** **42** Indiana · Dubois / Madison Twp
+> **Laura E** W Aug **1865** **34** Indiana; **David E** S May **1888** **12**; **Orvil O** S June **1894** **5**; **Sarah A** D Feb **1897** **3**; **Bonnie H** D Apr **1899** **1** Indiana
+
+Diplomatic **Bonnie H**. → **C700**.
+
+## DOC196 — 1900 IL Soundex S-415, A.F. continuation; Lindie P 2
+- Image: `sources/soundex/il1900-s415-n1401-af-cont-lindiep-2.jpg` SHA-256 `325102a7e9e45db610e1b33b19f8d9b04bd746216aba8cc1f7f0df8a2e19b011`
+- Reel: IA `soundex1900il401` n**1401** rotate **-90**
+
+### Diplomatic
+> **S415 Sullivan, A.F.** — continuation (`see #2`) · Macon / Whitmore
+> **Annie E** **13**; **Bertha L** **11**; **William E** **6**; **Margie L** D Jan **1897** **3** Illinois; **Lindie P** D Feb **1898** **2** Illinois
+
+Diplomatic **Lindie P** (L-i-n-d-i-e) / **Margie L**. **C684** incomplete. → **C701**.
+
+## DOC197 — 1900 MO Soundex S-415, Allen N 45 Indiana, Dade
+- Image: `sources/soundex/mo1900-s415-n2962-allenn-45-in-dade.jpg` SHA-256 `bd67a32b52602707dcc49bc8cec6f1f81330c965777f741608ae56f97610a6e0`
+- Reel: IA `soundex1900mo248` n**2962**
+
+### Diplomatic
+> **S415 Sullivan, Allen N** — Head · vol **26** ED **66** sh **14** ln **10** · W Feb **1855** **45** Indiana · Dade / Polk Twp
+> **Ellen** W Jan **1866** **34** Missouri; **Harry A** S Apr **1885** **15**; **Clara A** D Apr **1887** **13**; **Della** D June **1890** **9**; **Willie** S Sept **1894** **5**; `#1 see #2`
+
+→ **C702**.
+
+## DOC198 — 1900 MO Soundex S-415, Allen N continuation; Claud S 2
+- Image: `sources/soundex/mo1900-s415-n2963-allenn-claud-s-2.jpg` SHA-256 `6b10a2c3a8184af17a94163b0e8fc99a13d1ff04bc975cb70f596a5886e85215`
+- Reel: IA `soundex1900mo248` n**2963**
+
+### Diplomatic
+> **Sullivan, Allen N** — continuation
+> **Claud** S Apr **1898** **2** Missouri; **Underwood, Margaret** M.L. Feb **1840** **60** Tennessee
+
+Toddler is a **son**. → **C702**.
+
+## DOC199 — 1900 MO Soundex S-415, Lawrence; Lea 2
+- Image: `sources/soundex/mo1900-s415-n3721-lawrence-lea-2.jpg` SHA-256 `64acdb65267ef2c98fd9617064f04d3c6fcff761932d8a070193424c439fe5c6`
+- Reel: IA `soundex1900mo248` n**3721**
+
+### Diplomatic
+> **S416 Sullivan, Lawrence** — Head · vol **69** ED **88** sh **11** ln **8** · W June **1873** **26** Missouri · Oregon / Thayer Twp / Thayer
+> **Oglee** W May **1876** **24** Missouri; **Lea** D Mar **1898** **2** Missouri
+
+Diplomatic **Lea** (3 letters). → **C703**.
+
+## DOC200 — 1900 MO Soundex S-415, Ward B; Iva J 1
+- Image: `sources/soundex/mo1900-s415-n0183-wardb-ivaj-1.jpg` SHA-256 `27742f51367ad4bade6b521baa669c5cd758a09db356043366510b71db0080ed`
+- Reel: IA `soundex1900mo249` n**0183**
+
+### Diplomatic
+> **S415 Sullivan, Ward B** — Head · vol **77** ED **13** sh **4** ln **63** · W Sept **1873** **26** Missouri · Perry / Brazeau Twp
+> **Malva E** W July **1875** **24** Kentucky; **Iva J** D Apr **1899** **1** Missouri; **Quigley, Claud** Se Feb **1884** **16** Missouri
+
+Diplomatic **Iva J**. Perry adjacent Bollinger. → **C704**.
+
+## DOC201 — 1900 AR Soundex S-415, A.J.; Newman MIL 72
+- Image: `sources/soundex/ar1900-s415-n2393-aj-newman-mil.jpg` SHA-256 `78afff7043b7c636ced535340eb9f3e40dead83f059837d26ae77ae4f0e88796`
+- Reel: IA `soundex1900ar107` n**2393**
+
+### Diplomatic
+> **S415 Sullivan, A.J.** — Head · W Feb **1872** **28** Arkansas · Washington / Prairie Twp
+> **Gertie** D **3** Arkansas; **Nora** D **½** Arkansas; **Newman, E (Mrs)** M Oct **1827** **72** Arkansas
+
+Deep crop recovered the MIL line. FAN only. → **C705**.
+
+## DOC202 — 1900 TN Soundex S-415, Anderson continuation
+- Image: `sources/soundex/tn1900-s415-n3718-anderson-cont.jpg` SHA-256 `a090d5b24043dcca0da9d35ade1f99a3628ef161d907dfe195b6910a4ff2ce7f`
+- Reel: IA `soundex1900tn153` n**3718**
+
+### Diplomatic
+> **S416 Slavin, Anderson** — continuation (`#2 See #1`)
+> **Gales[?]** S Mar **1884** **16** Tennessee; **Ollie** D Mar **1888** **12** Tennessee
+
+Not an Andrew card. → **C706**.
+
+## DOC203 — 1900 TN Soundex S-415, Burrell L continuation; Baby 10/12
+- Image: `sources/soundex/tn1900-s415-n3766-burrell-baby-d.jpg` SHA-256 `370106a2c5ad8b1af7ebf46d956ac0240f91661081af0719f0468321363c4189`
+- Reel: IA `soundex1900tn153` n**3766**
+
+### Diplomatic
+> **Sullivan, Burrell L** — continuation
+> **Baby** D July **1899** **10/12** Tennessee
+
+Unnamed infant girl. → **C707**.
+
 ## DOC009 — 1910 TN Soundex N-550 McCoy window (nil)
 Handwritten family/individual cards n2461–n2469. Sequence after Mary C (n2460): Mary D 49 Jefferson (son Layton 11); Mary M 70 Hamilton; Mek. G 50 Cheatham (Florence 19, John 17, General 16, Frances 13, William 10, Doria 6, Luther 1½); Melvin 3½ Giles (gs of Deacon George W); Melvin 54 Giles (SIL of same); Minerva 80 Robertson (gds Lona Neely, Nellie Erwin); Minnie 21 Roane (with Sam P. Sparks); Mitchell 27 Hardin (Ollie P 25, Gladys 4, Burl W 3, Royal E 1 9/12). **No McCoy.** SHA-256 n2463 `23610f8aa4c159b1b554ed1786d11f57d2f56f8a2e8994f7289ae7bd02dfca53`; n2469 `340489566090880388fa6b81ca5751c5944dcaf56a7b44f70fe560788f308586`.
