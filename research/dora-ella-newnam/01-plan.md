@@ -977,3 +977,23 @@ Exact strings logged **L1183–L1214**.
 
 **Pass 116g addendum:** 1840 Clark certificate n0083; Clay start n0091; Estill header n0097; Edmonson certificate n0186; fishergenes Estill p.68. Same variant set.
 
+### Pass 117 variant storm (31 Oct 2026)
+
+**Dora Stone 1926 (B058)** — Dora/posa/dosa/rosa/dona/dara/dore/dori/dola/pora/rora × Stone/Newman/Newnam. Soundex **S350** / **N550**. Cert **1524** RD **676**. Place Pope **Roll 5** / UArk **F419.D37 D3** / LCCN **sn89051008**. IA Solr title Dardanelle Post / Post-Dispatch year **1926**. One catalog reconfirm only (`item.digitized: false`). Phone **479-968-4368** already recorded — do not re-ask.
+
+**William × Rhoda / remaining N-walks (B071)** — William/Wm/Will × Newnam/Newman/Newnarn/Newan/Newnom. Rhoda/Roda × Tincher/Tinsher/Fincher/Tinker. Decatur / Leaner / Benjamin F./B.F. Soundex **N550** / **T526**. Place Laurel reel **209** remaining name columns n0331–n0381; Montgomery reel **214** remaining name columns n0061–n0171; Estill 1840 even leaves n0092–n0144 (window n0090–n0155); Clay 1840 odd leaves after n0099 through recap n0135. OCR/HTR given William / Rhoda / Abner / Newman / Tincher / Henaman.
+
+**Marriage** — William × Rhoda Tincher; H.H. × Belinda Tincher **27 Feb 1840** kept separate.
+
+**Frank / David G (B055/B080)** — Frank/David F./David G. × Newnam/Newman. Soundex **N550**. Cert **13719** RD **028**. Hutchins FAQ **9938** rooms **228–229**. Newspapers.com **41271**. Phone **859-985-3364** already recorded.
+
+**WWI (B069/B059)** — Luther/John H./McCoy × Newnam/Newman/newnarn. M1509 **KY45 / KY24 / KY74**. Soundex **N550** / **M200**.
+
+**Samuel probate (B045/B065)** — Samuel/Sam P. × Newnam/Newman. FS **127913 / 156057 / 97277**. Jane Steele / Elizabeth / Mary F. Tincher already the last live wills read.
+
+**John L (B082)** — John L × Newman cert **17762** RD **036**. Do not print 1966 as fact.
+
+**McCoy (B085)** — McCoy/Coy × Newman/Newnam after Apr 1930. Soundex **N550** / **M200**. Deceased-only. Do not print 1962.
+
+Exact strings logged **L1215–L1234**.
+

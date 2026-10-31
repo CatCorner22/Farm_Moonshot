@@ -1659,6 +1659,21 @@
 | C1414 | LOC digitized **false** ×4. Solr 1926 **0**. IA **602** still **515** | PROVEN as catalog | S1050 S1051 S1060 L1212 | B058 B088 |
 | C1415 | FS **1146342** **404** (R011-**58**). USGenNet wills LIVE no Samuel P. | PROVEN as access / compiled | S1046 S1061 L1213 | B069 B045 |
 | C1416 | Parents William × Rhoda still **PROBABLE**. 1850 couple still unread as a living head | PROBABLE | S1048 L1214 | B071 |
+| C1417 | LOC sn89051008 `item.digitized: false` (pass117). IA Solr Post-Dispatch 1926 **numFound 0**. Film unread | PROVEN as catalog | S1062 S1063 L1215 L1216 | B058 |
+| C1418 | Laurel 1850 remaining namecols n0331–n0381 **visually** walked **nil** Newman/Tincher. n0381 still Laurel (D. Buford, 9 Oct). n0382 **LAWRENCE** 20 July John T. Harris. County walk **CLOSED** | PROVEN as negative (this reel) | S1064 L1217 | B071 |
+| C1419 | Montgomery 1850 remaining namecols n0061–n0171 **visually** walked **nil** Newman/Tincher. n0171 Dist 2 Montgomery 6 Sep Foley stamped **85**. n0172+ **MORGAN** L.P. Turner. County walk **CLOSED** | PROVEN as negative (this reel) | S1065 L1218 | B071 |
+| C1420 | Estill 1840 even leaves n0092–n0144 walked. n0146 **John H Recastle** certificate ~3 Oct 1840. n0148 recap. Window n0090–n0155 **CLOSED**. No William × Rhoda | PROVEN as negative (this window) | S1066 L1219 | B071 |
+| C1421 | Estill 1840 n0092 **POSSIBLE** Abner Newman/Newnam (given Abner reasonably clear; surname N-slack). **NOT** William | POSSIBLE | S1067 L1220 | B071 |
+| C1422 | Estill 1840 n0114 Lerling/Sterling **Henaman**. **REJECT** vs Newman | DISPROVED as Newman | S1068 L1221 | B071 |
+| C1423 | Clay 1840 odd leaves n0101–n0133 **nil** Newman/Tincher. n0135 Recapitulation of Clay County pages **1–23**. n0139+ Clinton. County **CLOSED** | PROVEN as negative (this reel) | S1069 L1222 | B071 |
+| C1424 | Still **no** free William × Rhoda license. Authored 1845 unused. Grooms/brides **404** | PROVEN as negative | S1076 L1223 | B071 |
+| C1425 | Parents William × Rhoda still **PROBABLE**. 1860 Rhoda widow + B.F. **7** **PROVEN**. #28 stands. 1850 couple still unread as a living head | PROBABLE | S1076 L1224 | B071 |
+| C1426 | Hutchins FAQ **9938** **404**. No free June **1958** *Citizen* clip. Phone not re-asked | PROVEN as access | S1075 L1225 | B055 B080 |
+| C1427 | IA Solr M1509 KY **0**. FS **1146342** SPA (R011-**59**). GT Lee published tables **nil** Newnam/Newman/McCoy | PROVEN as access / compiled | S1072 S1073 S1074 L1226 | B069 B059 |
+| C1428 | USGenNet wills **LIVE** — Jane Steele NEWMAN + Elizabeth NEWNAM + Mary F. Tincher; **no** Samuel P. Tax unread | PROVEN as compiled | S1070 L1227 | B045 B065 |
+| C1429 | No new Woodford / cert **17762**. Do not print 1966 | PROVEN as negative | S1076 L1228 | B082 |
+| C1430 | IA **602** imagecount still **515**. One line | PROVEN as catalog | S1071 L1229 | B088 |
+| C1431 | No new deceased McCoy/Rissie. Do not print 1962. Grant 21 **not merged**. B084 POSSIBLE Jr only | PROVEN as negative / same-person | S1076 L1230 | B085 B081 B084 |
 | C1246 | Same-person write-up pass 108: 1930 Estill **33-5 + 33-7 + 33-8 + 33-9** all visually read — Boyd+Allie **absent**. 33-5 and 33-9 are no longer unpublished on free film. 1958 David G still **POSSIBLE** only vs Frank. #20/#26/#27 open. Do not print 1966, 1976, Floyd-as-Boyd, 1962 as McCoy death, or 1942 Combs charge as fact | PROVEN as analysis | S943 L1083 | B089 B055 B080 |
 
 ## Same-person merges (Hard Rule 3)
@@ -1890,4 +1905,9 @@
 | 1840 Estill p.68 Valentine R. Ward cluster + William Newman | Estill 1840 + N/T surnames | No Newman/Tincher on that spread | **Page-level nil (C1408)**. County not complete |
 | 1840 Clay sampled Johnson/Hubbard/Maggard + William Newman | Clay 1840 | No Newman/Tincher on n0091/n0095/n0099 | **Sample nil (C1404)**. County not complete |
 | 1840 n0160 Stephen Nelson + Newman | N-surname + Edmonson | NELSON ≠ Newman | **Rejected as identity (C1405)** |
+| 1840 Estill Abner Newman[?] + William Newman | N-surname + Estill 1840 | Given Abner ≠ William; surname N-slack | **Not merged (C1421).** POSSIBLE Newman only |
+| 1840 Estill Henaman + Newman | N/H-surname + Estill 1840 | Henaman ≠ Newman | **Rejected (C1422)** |
+| Laurel 1850 remaining N + William × Rhoda | Laurel reel 209 name columns | No Newman/Tincher on n0331–n0381 | **County-level nil (C1418)** |
+| Montgomery 1850 remaining N + William × Rhoda | Montgomery reel 214 name columns | No Newman/Tincher on n0061–n0171 | **County-level nil (C1419)** |
+| Clay 1840 after n0099 + William Newman | Clay 1840 odd leaves | No Newman/Tincher through recap n0135 | **County-level nil (C1423)** |
 

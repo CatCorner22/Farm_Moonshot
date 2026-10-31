@@ -763,3 +763,73 @@ Pass 2: county end of Clark 1840. Clay begins on n0091. → **C1403** / **S1054*
 > Rachael Covington; Henry Todd; James Wood[?]; Garland King; Wm. Wiles[?]; Samuel Moore; James Powell; Elizabeth Martin; Harmon Hall; Bryant Hall; Mary Oldham; John Frazier; James Hall; John Wood; Susanna Dilemme[?]; **Valentine R. Ward**; Orea Howards; Wm. Adams; Robt. Adams; John Stivers; Nicholas Ryan; Moses[?] Fox; Sam Benton; Henry Martin; Wm Benton; Bryce Pover[?]; Wm Harris; Wm Skinner; Lucy Peterson; J.H. Fitzpatrick.
 
 Pass 2: **nil** Newman / Newnam / Tincher on this spread. County walk not complete. → **C1408** / **S1058**.
+
+## DOC023 — 1840 Estill County certificate (reel 109 n0146)
+
+**Inventory:** `sources/census/pass117/keyplates/estill1840-n0146-cert.jpg` (image seen).
+
+### Diplomatic
+> State of Kentucky Estill County  
+> The number of persons within my Division consisting of seven thousand five hundred & twenty seven[?] appears in the foregoing schedule subscribed by me this 3d[?] day of October 1840  
+> John H Recastle  
+> D.M.C.[?]
+
+Pass 2: county-end of the Estill 1840 window (n0090–n0155). Recastle name repeats in the clerk/memorandum blocks. Population figure and exact day capped **POSSIBLE** (hand slack). → **C1420** / **S1066**.
+
+## DOC024 — 1840 Estill n0092 Abner Newman[?]
+
+**Inventory:** `sources/census/pass117/estill1840/crops/n0092-abner-tight0.jpg` · `n0092-abner-tight1.jpg` · `n0092-abner-band.jpg` (images seen).
+
+### Diplomatic (name column, mid-page)
+> John Witt[?]  
+> **Abner Newman[ame?]**  1 / 1  
+> Jesse Terry  
+> Wm Richardson  
+> John B Powell  
+> Jas H Robertson  
+> John Smith  
+> Thos White
+
+Pass 2: given **Abner** reasonably clear. Surname N-slack — Newman / Newnam / Newmaname. **POSSIBLE**. **NOT** William. → **C1421** / **S1067**.
+
+## DOC025 — 1840 Estill n0114 Henaman
+
+**Inventory:** `sources/census/pass117/estill1840/crops/n0114-henaman-tight.jpg` · `n0114-henaman-band.jpg` (images seen).
+
+### Diplomatic
+> Sterling[?] / Lerling[?] **Henaman**  3  
+> Leonard Witt  
+> David Baker
+
+Pass 2: surname **Henaman**, not Newman. **REJECT**. → **C1422** / **S1068**.
+
+## DOC026 — 1840 Clay County recapitulation (reel 108 n0135)
+
+**Inventory:** `sources/census/pass117/keyplates/clay1840-n0135-recap.jpg` (image seen).
+
+### Diplomatic
+> Recapitulation of Clay County  
+> page 1 … 23  
+> (column totals; last named page **23**)
+
+Pass 2: Clay name pages end. n0139+ is Clinton. → **C1423** / **S1069**.
+
+## DOC027 — 1850 Laurel / Lawrence county-end (reel 209 n0381 / n0382)
+
+**Inventory:** `sources/census/pass117/keyplates/laurel-n0381-header.jpg` · `lawrence-n0382-header.jpg` (images seen).
+
+### Diplomatic
+> n0381: SCHEDULE I—Free Inhabitants in the County of **Laurel**. 9 day of Oct 1850. **D. Buford**.  
+> n0382: County of **Lawrence**. 20th day of July 1850. **John T. Harris** Ass't Marshal. Stamped **59**.
+
+Pass 2: Laurel 1850 on this reel ends at n0381. → **C1418** / **S1064**.
+
+## DOC028 — 1850 Montgomery / Morgan county-end (reel 214 n0171 / n0173)
+
+**Inventory:** `sources/census/pass117/keyplates/mont-n0171-header.jpg` · `morgan-n0173-header.jpg` (images seen).
+
+### Diplomatic
+> n0171: District **No. 2**, County of **Montgomery**, Kentucky. 6th day of September 1850. **Chas E. Foley** Ass't Marshal. Stamped **85**.  
+> n0173: County of **Morgan**. 21st day of July 1850. **L. P. Turner** Ass't Marshal.
+
+Pass 2: Montgomery 1850 on this reel ends at n0171. → **C1419** / **S1065**.

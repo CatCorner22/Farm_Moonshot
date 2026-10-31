@@ -377,6 +377,10 @@ Place as it was *at the date*; modern equivalent in brackets. Flag impossibiliti
 | 1850 | Perry | FAN **PROVEN** as compiled-index: S-K N = **NAPIER / NOLAND**. Wilson + annotated **nil** Newman | Perry Co., KY | C1352 | S1023 |
 | 1850 | Whitley | FAN **PROVEN** as compiled-index: **NEWBY 399A** ≠ Newman. **No Newman** | Whitley Co., KY | C1353 | S1024 |
 | 1850 | — | FAN **PROVEN** as catalog: Lee / Jackson / Powell **n/a** (not yet counties). Parents William × Rhoda still **PROBABLE** | KY | C1351 C1365 C1366 | S1030 |
+| 1850 | Laurel | FAN **PROVEN** as image + negative: reel **209** n0331–n0381 name columns walked **nil** Newman/Tincher. n0382 **LAWRENCE**. County walk **CLOSED** | Laurel Co., KY | C1418 | S1064 |
+| 1850 | Montgomery Dist 2 | FAN **PROVEN** as image + negative: reel **214** n0061–n0171 name columns walked **nil** Newman/Tincher. n0172+ **MORGAN**. County walk **CLOSED** | Montgomery Co., KY | C1419 | S1065 |
+| **3 Oct 1840[?]** | Estill | FAN **PROVEN** as image: n0146 **John H Recastle** Estill certificate. Window n0090–n0155 **CLOSED**. **POSSIBLE** Abner Newman n0092 **NOT** William | Estill Co., KY | C1420 C1421 C1422 | S1066 S1067 S1068 |
+| 1840 | Clay | FAN **PROVEN** as image + negative: odd leaves n0101–n0133 **nil** Newman/Tincher. n0135 Recapitulation pages **1–23**. County **CLOSED** | Clay Co., KY | C1423 | S1069 |
 
 
 **Impossibility flags:** None. Mother ~29 at Dora’s 1871 birth (Mary b. 1842). Dora age 14 at marriage is legal/period-possible (KY) though young; 1880 age 8 corroborates. Two children born before Coy in the 1886–1889 window would have Dora aged 15–18 — possible. No event after 23 Aug 1926 is attributed to her.
