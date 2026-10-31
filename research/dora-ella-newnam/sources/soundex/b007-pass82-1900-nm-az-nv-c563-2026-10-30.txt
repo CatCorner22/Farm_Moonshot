@@ -1,0 +1,36 @@
+Pass 82 — 1900 NM/AZ/NV C-563 Jesse
+Date: 30 Oct 2026 (America/New_York)
+Backlog: B007 residual other-state 1900
+
+=== Access ===
+Image seen via IA BookReader page JPEGs (not the full 100–350 MB PDFs).
+  NM C-563 = soundex1900nm005 (T1061 C-510–D-250 James; imagecount 3213)
+    Codes interleaved. C-560 Conner Williams n721–n787; C-563 Katie
+    n759 / Ruth n771; C-600 Carey n789.
+  AZ C-563 = soundex1900az005 (T1032 C-500 D.–D-250 Howard; imagecount 3748)
+    C-552 Cunningham n841/n878; C-553 Conant n879; C-560 divider n880;
+    C-563 G.W.L. 46 MO n912 → Mrs n938; C-565 Cameron n961.
+  NV C-563 = soundex1900nv002 (T1058 C-460–E-520; imagecount 3103)
+    Codes interleaved. C-563 Henry n462 → Jacob 51 Prussia n463 →
+    Louis 20 Germany n475; C-562 Connors n481; C-600 n496.
+Local /tmp/p82/ working crops not committed except the evidence JPEGs listed in S348–S350.
+
+=== NM C-563 (nm005 n700–860 every card) ===
+James/Jennie/John of C-560/565 (Conness, Cameron, Coner) n754–n758;
+C-563 Conrad, Katie 2 MO roomer n759 (C465); Ruth n771; C-560 Williams
+through n787; C-600 n789. No White Jesse ~27 MO (C459).
+
+=== AZ C-563 (az005 n820–980 every card) ===
+C-552 through n878; C-560 divider n880; C-563 Conrad G.W.L. 46 MO
+Chloride n912 (C462) → Mrs n938. Johns in the gap are C-560/562.
+No Jesse card (C460).
+
+=== NV C-563 (nv002 n460–620 every card) ===
+C-563 Conrad Henry 36 WI n462 → Jacob 51 Prussia n463 (C463) →
+Louis 20 Germany n475 (C464). No Jesse between Jacob and Louis (C461).
+C-600 begins n496.
+
+=== Residual ===
+Other-state 1900 beyond the forty-three C-563 jurisdictions now closed
+(prior forty + NM/AZ/NV). Pinned unread: UT/MT/WY/ND/SD/DC/AK/HI.
+B049 1926 obituary; R001/R007/R008; B045 probate; B047 M1509.

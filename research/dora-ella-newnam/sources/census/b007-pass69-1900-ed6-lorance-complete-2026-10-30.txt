@@ -1,0 +1,52 @@
+Pass 69 — 1900 Bollinger Lorance ED 6 complete
+Date: 30 Oct 2026 (America/New_York)
+Backlog: B007
+Reels: T623-839 pp 1137–1142 + T623-840 pp 4–32
+Enumerators: Thomas H. Stevens (Lorance Twp / Marble Hill village). ED 7 Lutesville starts T623-840 p.34.
+
+Image seen: name-column ntop + sampled nbot (NAME + relation + sex + birth + age) for every occupied sheet.
+Do not trust OCR. Uncertain letters marked [?].
+
+=== Map ===
+T623-839:
+  p1137 = sh  1 A (stamped 242)  Marble Hill village  1 Jun
+  p1138 = sh  1 B                ← George E Conrad hh 16
+  p1139 = sh  2 A
+  p1140 = sh  2 B
+  p1141 = sh  3 A
+  p1142 = sh  3 B                County Jail (ln 82–90) + “Here ends th[e]” village tail
+  p1143–1144 unused / film leader
+T623-840:
+  p1–3  title / blank (not schedules)
+  p4    = sh  4 A (stamped 245)  4 Jun
+  p10   = sh  7 A
+  p24   = sh 14 A (stamped 74-01) 23 Jun  ← Jacob I Conrad dw 265/266
+  p30   = sh 17 A
+  p32   = sh 18 A (stamped 259)  29 Jun  — ED 6 ENDS
+           “Here ends the enumeration of Lorance Township”
+  p33   = unused blank B-side
+  p34   = ED 7 Lutesville sh 1 A (already C309)
+
+=== Conrad heads (already C296 / C301; re-seen) ===
+  sh 1 B hh 16  Conrad, Geo E  Mar 1852  48  M 7 + Flora A 26 3/3 + three children 1894–97. No Jesse. No Letha.
+  sh 14 A dw 265/266  Conrad, Jacob I  Dec 1835  64  M 39 + Maud 21 + Buen 19. No wife. No Jesse. No Letha.
+NO other Conrad head or child named Jesse / Letha on any ED 6 sheet.
+
+=== NIL ===
+Sullivan / Newman / Newnam / Letha Viola (~age 2) on any ED 6 sheet.
+
+=== Homonym rejects ===
+  sh 3 B jail: Killien[?]/Killian Jesse Prisoner Oct 1858  41 — not Conrad, not ~27.
+               Leslie[?] Jesse Prisoner May 1843  57.
+               Mowell[?] Joe dau Dora Mar 1884  16.
+  sh 7 A  McCormick Dora I dau June 1898  4; Mayne Dora A ~16 (prior L365).
+  sh 10 A Albright Dora E dau Feb 1891  9.
+  sh 12 A Walker Dora W dau Nov 1881  18.
+  sh 13 A Bowles Dora L dau Mar 1878  22; Robbins wife Dora Dec 1870  29.
+  sh 17 B Wallace Jessie L dau Dec 1893  6 (prior L363).
+  Crader cluster (sh 6 A / 16 A) is NOT Conrad.
+
+=== County close ===
+With Pass 62–68: every 1900 Bollinger ED (1–10) is now name-column closed for Jesse-as-head and Letha-as-named-child.
+
+Working crops /tmp/b007-pass69/ NOT committed except the evidence JPEGs listed in S302.

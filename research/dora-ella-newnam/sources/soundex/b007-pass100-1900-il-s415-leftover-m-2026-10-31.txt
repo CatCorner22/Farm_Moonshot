@@ -1,0 +1,58 @@
+Pass 100 — 1900 Illinois S-415 leftover M (Louise → Maurice / Michael tab)
+Date: 31 Oct 2026 (America/New_York)
+Target C244: 1910 Letha Sullivan 12 nurse, Jesse Conrad, Liberty Twp, Bollinger Co. MO; father reported Indiana-born.
+Hunt: Letha / Letta / Lethia / Lettie / Litha / Viola / Lottie / Leta ~0–2 on PARENT cards.
+Variants (ocr-given Letha + S415 Sullivan): Letha, Letta, Lethia, Lettie, Litha, Leta, Lella, Lelia, Lottie, Viola.
+Do not merge. Hard Rule 3.
+
+Reel (card images seen; full reel PDF not downloaded):
+  soundex1900il401 rotate −90
+  leftover M n3202–3475 (Louise n3201 / M-tab n3205 → Maggie → Margaret → Martin → Mary → Maurice n3463–3465 → Max/May/Mek → Mick; Michael tab n3475; Michael given-name cards start n3476, already Pass 93)
+
+Cards: 274/274 after 17 IA 502 retries in Pass 99 download. Parent family-section walk this pass.
+Local working crops /tmp/p99/il-m/ **not committed**.
+
+Parent walk (authoritative):
+  n3202–3338 every sequential 4-up + last-line recoveries on HEAD cards
+  n3339–3475 every sequential 4-up + last-line recoveries on HEAD / clipped cards
+  Agent A report /tmp/p99/il-m-read-a.md and Agent B /tmp/p99/il-m-read-b.md used as drafts only
+
+Parent corrections vs Agent A:
+  n3207 last daughter is diplomatic **Laura** D Nov 1898 1 IL — not Lottie/Lettie/Lotta
+  n3207 also Chas. E S Feb 1900 1/2 IL (clipped on 4-up)
+  n3207 third child Jennet C D Nov 1896 3 (not Grant)
+  n3252 last daughter is **Mary** D Jan 1898 1 IL (Agent A last line clipped)
+  n3258 also **Clementine** D Sep 1899 8/12 (clipped on 4-up)
+  n3321 John S **June** 1897 2 (Agent A Oct)
+
+Parent-verified hunt-adjacent (all REJECT vs C244):
+  n3207 M.C. 32 Ohio Chicago Union Ave 5815 + **Laura** D 1 + Jennet C D 3
+  n3211 M.L. 28 CT + Genevieve D 2 OH + Lucile D 3/12 IL
+  n3212 M.P. 37 IL + Lauretta D 1 IL
+  n3213 M.P. 32 Ireland Joliet + Alma D 3 IL
+  n3216 M.W. 40 IL Champaign + Helen D Mar 1900 4/12
+  n3252 Slobonic Marcus 39 Austria Joliet **Liberty** St 107 + Kate D 3 + **Mary** D 1 — street Liberty false-friend
+  n3258 Margaret 39 IL Chicago Adams 2003 + **Viola** D Dec 1897 2 + Clementine D 8/12
+  n3299 Margaret 2 own-card boarder Kane Aurora
+  n3318 Slavens Martin 37 IN Iroquois Concord — Homer S 6 only
+  n3321 Martin 43 NY Jacksonville + Mary D 4 + John S 2 (son)
+  n3323 Martin H 38 IL Fort Sheridan + Martin S 1 (son)
+  n3366 Mary 38 IN Chicago servant — no family
+  n3367 Mary 47 IN Chicago 38th — adult children 24/21/19/16 only
+  n3458 Mathew 30 MO Quincy + **Lila** D July 1894 5 IL
+  n3473 [name line cut] D Feb 1899 1/2 Iowa, Gardon E (Mrs), Wabash Ave 1349; remarks apparently dau of Sullivan May
+  n3474 Mick 31 IN Champaign SIL — no family
+
+IN leftover-M heads/subjects: Maggie 28/39 lodger-visitor; Mamie 22/19; Margaret 38 SIL; Slavens Marcellus 46 / Martin 37 (interfile). No IN Sullivan father + girl ~0–2.
+
+Missouri nativity in this pull: n3351 son John 27 (head IL); n3420 Mary 18 servant; n3421 Mary 23 dau East St Louis IL; n3458 Mathew 30 Quincy head. No Bollinger / Liberty Twp MO.
+
+Hunt-string Letha/Letta/Lethia/Lettie/Litha/Leta any age: **NIL**.
+Hunt-string Lottie as ~0–2: **NIL** (Agent A Lottie on n3207 withdrawn).
+Hunt-string Viola: adult none in this pull except **Viola 2** on Margaret 39 IL — rejected.
+
+Verdict: leftover M **closed** on Illinois. Combined with Pass 98–99, leftover M is now closed on IN/MO/KY/AR/TN/IL. C244 still unplaced.
+
+Agents (visual paleography drafts; parent walk authoritative):
+  [Read IL leftover-M 3202-3338](bc-55170d5c-2f2d-55ce-a532-2c63b3ced800)
+  [Read IL leftover-M 3339-3475](bc-2644ed91-148a-5f03-9e5a-46700eb2bfe8)

@@ -1,0 +1,54 @@
+Pass 61 — B007 C245 re-read + 1910 S-350 (30 Oct 2026)
+======================================================
+Local PDF: /tmp/t624-769.pdf (IA 13thcensus1910po769unit, 393,379,666 bytes)
+
+Sheet-stamp remap (pass 48 log was wrong):
+  PDF p.435 = ED 4 sh 3 A  (pass 48 said 8 A) — Letha / Conrad
+  PDF p.443 = ED 4 sh 7 A
+  PDF p.444 = ED 4 sh 7 B  (pass 48 claimed C245 lived here)
+  PDF p.445 = ED 4 sh 8 A  (pass 48 claimed Letha lived here)
+  PDF p.446 = ED 4 sh 8 B
+  PDF p.447 = ED 4 sh 9 A
+  PDF p.448 = ED 4 sh 9 B
+  PDF p.449 = ED 4 sh 10 A
+  PDF p.450 = ED 4 sh 10 B (pass 48 said 7 B) — saved as 1910-bollinger-ed4-sullivan-newnam-mil.png
+  PDF p.451 = ED 4 sh 11 A
+  PDF p.452 = ED 4 sh 11 B
+
+p.450 sh 10 B diplomatic (Liberty Twp, Bollinger, enum. 21 May 1910):
+  157/158 Newman, Belle  Head F W 30 Wd  4/4  MO/MO/MO
+          [dau] Opal[?]  8; Herman son 8; Newman Walter son 5; Isabelle dau 3
+  157/159 Wells, Thomas  Head 24 + Zelma 22 + Elsie
+  158/160 Estes, John    Head 55 M1 18 + Ida M 34 M1 18 2/2
+          Henry R son 14; Edith A dau 9
+          Estes, Hannah  Mother-in-law 60 Wd 8/4
+          William T      Brother-in-law 41
+  159/161 Seiler, John A Head 46 + Annie[?] S 44 + John L 19 + Charles W 6
+  NO John Sullivan. NO Sarah Newman 60 MIL. NO Oscar S. 21 BIL.
+
+p.435 sh 3 A diplomatic (enum. Arthur F. McClain, 14 Apr 1910):
+  25/26 Conrad, Jesse Head ~37 m.15 + wife + Mary dau ~3
+        Sullivan, Letha  relationship Nurse  F W 12  MO / IN / —
+  Not sheet 8 A (real 8 A is dwellings 102+; no Conrad / Letha).
+
+ED 4 sh 7 A, 7 B, 8 A, 9 B, 10 A, 10 B, 11 A, 11 B name columns:
+  no John Sullivan + Newman in-laws household.
+
+1910 Miracode S-350 (Stone/Sutton):
+  IA soundex1910mo228 (T1270 S-344 Fay — S-351 William N.), 970 pp, 27,272,378 bytes.
+  D-window PDF pp 307–315: Daniel/Dave → Dell/Dena/Dessie → Dicey/Dick → Dollie → Dorothy.
+  No Dora given-name card. Near-hit: Bollinger STONE, Dena E. 25 (p.311) — not Dora.
+  IA soundex1910ar108 (T1260 S-323 Annie — S-353 James M.), 971 pp, 24,446,425 bytes.
+  D-window PDF pp 590–595: Daniel → Davis/Dessie/Deva → Dickie/Dillie/Doc → Dora → Dottie → E.
+  Rejects: (1) Fulton S350 SEETON/SEATON Charles J + wife DORA M 29 AR (p.575);
+           (2) Ashley Portland S350 SUTTON DORA Head B 24 LA living alone (p.593);
+           (3) Boone STONE Dottie E dau 7 (p.593).
+  No Dora Stone ~39 KY in Yell/Perry.
+
+Crops committed:
+  sources/census/1910-bollinger-ed4-sh10b-newman-belle-estes-john.jpg
+  sources/census/1910-bollinger-ed4-sh3a-conrad-letha-sullivan.jpg
+  sources/soundex/mo1910-s350-p311-d-window-no-dora.jpg
+  sources/soundex/mo1910-s350-p312-d-window-no-dora.jpg
+  sources/soundex/ar1910-s350-p593-dora-sutton-rejected.jpg
+  sources/soundex/ar1910-s350-p575-dora-m-seeton-rejected.jpg

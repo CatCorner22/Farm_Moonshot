@@ -1,0 +1,19 @@
+Pass 63 — 30 Oct 2026 (America/New_York)
+B007 / 1910-hole
+
+T623-839 (IA 12thcensusofpopu839unit) and T623-840 (IA 12thcensusofpopu840unit) originals, visually read.
+soundex1910mo050 (T1270 roll 50, C-560 Patrick P. — C-613 Mariah), 967 pp, visually sampled C-563 window.
+
+Reel map correction:
+- T623-839 continues past Liberty ED 5 sh 14: p.1133 = ED 5 sh 15 A (Westenhaver); p.1135 = ED 5 sh 16 A; p.1137 = ED 6 sh 1 A (Stevens); p.1141 = ED 6 sh 3 A. ED 6 sh 4+ is on reel 840.
+- T623-840 p.4 = ED 6 sh 4 A; p.10 = sh 7 A; p.24 = sh 14 A; p.30 = sh 17 A; p.32 = sh 18 A.
+
+Finds:
+1. Jacob I Conrad original = Lorance ED 6 sh 14 A (T623-840 p.24), dw 265/266, enum. 23 Jun 1900, Stevens. NOT sh 17. Head Dec 1835 age 64 M 39 MO/NC/MO; Maud dau Apr 1878 21; Buen son Oct 1880 19. No wife present. No Jesse. No Letha.
+2. Soundex vol 7 ED 6 sh 17 ln 5 is a clerk error (actual sh 14 A).
+3. George E Conrad on ED 6 sh 1 B hh 16: Mar 1852 48 M 7; Flora A wife Mar 1874 26 3/3; three children b. 1894-1897 only. No Jesse. No Letha.
+4. Liberty ED 5 sh 15 A–16 B nil target (Crites Conrad + Teletha is Crites surname). Combined with C265, ED 5 complete.
+5. ED 6 sh 7 A+B and sh 17 A+B nil Conrad (17≠7 hypothesis rejected).
+6. 1910 C-563 Jesse window (p.140): Pike Jessica 44; Buchanan Jesse 36 + Faerl; Buchanan Jno 35 alone. No Liberty/Bollinger Jesse card matching C244. Francis M Conrad Bollinger 68 + John R (p.120) is local FAN.
+
+Working crops /tmp/b007-pass63/ and /tmp/sndx1910/c563* not committed except the six evidence JPEGs.

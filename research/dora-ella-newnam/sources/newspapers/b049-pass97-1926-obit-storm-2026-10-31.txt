@@ -1,0 +1,80 @@
+Pass 97 — B049 1926 Dora/Posa Stone obituary free-source storm (add)
+Date: 31 Oct 2026 (America/New_York)
+Backlog: B049 remains open
+Extends L609 / S361 / C343 / C491–C494.
+
+Exact strings / identifiers this pass:
+  Dora Stone; Posa Stone; Dora Newman; Dora Newnam; Posa Newman;
+  Mrs. T.A. Stone; Yell County Journal 1926; Beattyville Enterprise 1926;
+  Danville Democrat 1926; Dardanelle Post-Dispatch 1926; Dardanelle Post 1926;
+  Yell County Record 1926; Ola Enterprise 1926; Three Forks 1926 Kentucky;
+  Obituaries of Yell County 1874-2007; Mary Fowler Leek; In Remembrance
+  death index 1812-2006; SN90050035; sn89051008; Pope Library Roll 5.
+
+=== Repositories actually opened ===
+1. Internet Archive Solr (advancedsearch.php, 31 Oct 2026) — all numFound 0:
+   title:("danville democrat") AND year:1926
+   title:("dardanelle post-dispatch") AND year:1926
+   title:("dardanelle post") AND year:1926
+   title:("yell county record") AND year:1926
+   title:("ola enterprise") AND year:1926
+   title:("three forks") AND year:1926 AND kentucky
+   "yell county" obituaries 1874-2007
+   collection:newspapers AND yell AND 1926 AND (stone OR newman OR newnam)
+   title:("beattyville") AND year:1926
+   creator:("mary fowler leek") AND yell
+   Extends C343 / C491.
+
+2. ldsgenealogy.com/AR/Yell-County-Newspapers-and-Obituaries.htm (page seen):
+   Lists electronic resource “Obituaries of Yell County, AR, copied from
+   area newspapers, years 1874–2007” (WorldCat) and “Yell County,
+   Arkansas, obituaries and historical items” (WorldCat). Offline titles
+   include Danville Democrat 1899–1927 and Yell County Journal 1925–1934.
+   Compilation not on IA (query 1). WorldCat search page loaded without
+   a usable OCLC holdings table this pass.
+
+3. Arkansas Digital Archives death-records-index (In Remembrance 1812–2006):
+   Landing https://digitalheritage.arkansas.gov/death-records-index/ — HTTP 500
+   this fetch. WebSearch of the landing confirms browse collections A–B … S–T
+   … U–Z exist; records themselves are on-site at ASA. No free Stone/Newman
+   1926 row seen.
+
+4. Mary Fowler Leek continuation (page seen):
+   http://www.maryfowlerleek.net/yellcountyobits/  (ycobits/ + ycobitsimages/)
+   http://www.maryfowlerleek.net/yellcountyobits/ycobits/index.htm
+     — 6,272-name continuation of the 33,000-name original.
+   https://maryfowlerleek.net/yellcountyobits/ycobits/names.htm
+     — search-form HTML only (7369 bytes). Grep of that HTML: 0 hits for
+     Stone / Newman / Newnam / Posa / Dora.
+
+5. Wayback yellcountyobits siteindex289 (page seen):
+   https://web.archive.org/web/2020/https://www.yellcountyobits.org/siteindex/siteindex289.html
+   Stone A–R: Earl / Edith / Elton / Eva Mae / James A / Leroy.
+   No Dora / Posa / Thomas 1926. Corroborates L609.
+
+6. Live ARGenWeb Pope Library film list (page seen; was HTTP 406 on Pass 86):
+   https://www.argenweb.net/pope/yellnews.htm
+   Pope County Library, 116 E. Third St., Russellville AR.
+   Dardanelle Post-Dispatch Roll 5 = 21 Jun 1923–26 Apr 1928.
+   Film unread. Upgrades C493 from snippet to page-seen.
+
+7. LOC directory:
+   Dardanelle Post=dispatch sn89051008 (190?–1976) — title page seen via
+   WebSearch; holdings tab timed out. Not among digitized CA titles.
+   Yell County Journal SN90050035 — CA fetch timed out (access-blocked).
+   Danville Democrat 1930–1945 (sn89051002) holdings start 1930 — no 1926.
+
+8. ASA newspaper inventories:
+   “Dardanelle Post” MFILM NEWS 000122 is 1882–1888 only (not 1926).
+   Yell County Newspaper Microfilm collection finding aid still JS/Cloudflare.
+
+9. HeritageTracer newspaper-list page seen: Yell County obits images /
+   Dardanelle Post Dispatch 1890s–2009 listed as free indexes — same
+   yellcountyobits corpus already walked (L609 / this Wayback).
+
+=== Verdict ===
+No free 1926 Dora/Posa/Thomas Stone obituary. Next retrieval unchanged:
+  Newspapers.com Beattyville Enterprise Aug 1926;
+  Pope Library Roll 5 (now page-confirmed);
+  ASA Yell County Journal film (SN90050035 / OCLC 21025741).
+  Add: ASA In Remembrance death-index S–T and M–O drawers on-site.

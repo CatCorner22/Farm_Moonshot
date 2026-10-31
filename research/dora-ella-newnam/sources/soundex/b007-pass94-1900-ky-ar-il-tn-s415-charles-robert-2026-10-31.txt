@@ -1,0 +1,40 @@
+Pass 94 — 1900 S-415 Charles / Daniel / Joseph / Peter / Robert
+KY / AR / IL / TN family-section walks
+Date: 31 Oct 2026 (America/New_York)
+Target: C244 1910 Letha Sullivan, 12, nurse, Jesse Conrad hh, Liberty Twp, Bollinger Co. MO. Father reported Indiana-born. A ~0–2 child in 1900 sits on a parent card.
+
+Hunt: Letha / Letta / Lethia / Lettie / Litha / Viola / Lottie / Leta
+Also: every toddler girl ~0–3; every IN-father; MO nativity; Bollinger.
+
+Method: IA BookReader page JPEGs inverted (IL rotate −90). Every-card family-section crops. Visual paleography; no tesseract as authority.
+KY report: /tmp/p94/ky-read.md  [Read KY Pass 94 sheets](bc-0af313db-5871-5005-8b67-e0cd0f43ff80)
+AR report: /tmp/p94/ar-read.md  [Read AR Pass 94 sheets](bc-d7a3a1c2-a4ae-5431-811a-bcdbe0df4f68)
+TN report: /tmp/p94/tn-read.md  [Read TN Pass 94 sheets](bc-77d8fffd-3712-51cf-9f0b-c9ed30b3c712)
+IL: parent birthplace sweep of all 484 cards + hunt-card reads. [Read IL Pass 94 sheets](bc-16432ad5-bc9e-5351-89f6-720f7e830d8e) still running at write; parent IN-father inventory is complete.
+
+Band edges (image seen)
+KY soundex1900ky161 rot 0:
+  Charles* n2524 Chas → n2547 Charly (Charlotte C n2546 out)
+  Daniel*  n2566 → n2580 Danley A
+  Joseph*  n2927 → n2931 Joseph C (male Joseph present)
+  Peter*   n3100 Slavin, Peter L only
+  Robert*  n3119 → n3130 Robert N
+AR soundex1900ar107 rot 0:
+  Charles n2442–2443; Daniel n2450–2457; Joseph n2656 only; Peter n2752–2753; Robert n2764–2765 (boys)
+TN soundex1900tn153+tn154 rot 0:
+  Charles n3777–3794; Dan/Daniel n3809–3821; Joseph n0165–0172; Peter n0310 only; Robert/Robt n0326–0333
+IL soundex1900il401 rot −90:
+  Charles n1660 first (walk 1658–1799); Daniel n1796–1994; Joseph n3032–3080; Peter continuation n3907 / Robert H n3961 (walk 3903–3996)
+
+Result: NIL Sullivan daughter Letha-string ~0–2 with IN-father + Bollinger on any of the four reels.
+Do not merge any Pass 94 card with C244 (Hard Rule 3).
+
+Closest near-hits (all rejected):
+  KY n2576 Daniel A 42 Indiana + Lilly 10 Indiana (Louisville)
+  KY n3097 Perry wife Lilitha 40 KY (Litha-family, adult)
+  KY n3100 Slavin Peter L + Docia 8/12 KY
+  AR n2656 Joseph L (AR) + Viola E 7 AR
+  TN n0306 Paul (TN) + Lettie 5 TN
+  TN n0310 Peter (WV) + Lena 4 TN
+  IL n3050 Joseph 36 Indiana + Marry B 1 IL (Kane Geneva)
+  IL n1660 Charles 27 Indiana boarder, no child

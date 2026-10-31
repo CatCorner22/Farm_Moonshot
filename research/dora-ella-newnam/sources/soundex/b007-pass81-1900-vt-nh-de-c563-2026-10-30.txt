@@ -1,0 +1,42 @@
+Pass 81 — 1900 VT/NH/DE C-563 Jesse
+Date: 30 Oct 2026 (America/New_York)
+Backlog: B007 residual other-state 1900
+
+=== Access ===
+Image seen via IA BookReader page JPEGs (not the full 100–350 MB PDFs).
+  VT C-563 = soundex1900vt009 (T1075 C-536–C-650 Irene; imagecount 4172)
+    Codes interleaved. C-560 Connor n751; C-563 Jennie C n782 /
+    Canerdy Jesse H 32 VT n783; C-565 Cameron n901; C-600 Carey n1051.
+  NH C-563 = soundex1900nh011 (T1059 C-535–C-630 Lozare; imagecount 3664)
+    C-560 n901/n1051; C-562 Connors Patrick n1201; C-563 from Adam/
+    Chouinard n1224; James 35 NH n1250; John B n1251; C-600 n1351.
+  DE C-563 = soundex1900de004 (T1037 C-453–D-000; imagecount 3881)
+    Codes interleaved C-560/562/563/565. Extended walk n1800–2120.
+    C-562 Conrad James R 52 PA n1874; C-563 John R / Mary G / Samuel;
+    C-565 Cameron; C-600 divider n1977.
+Local /tmp/p81/ working crops not committed except the evidence JPEGs listed in S345–S347.
+
+=== VT C-563 (vt009 n730–920 every card) ===
+C-560 Conner James run n773–n781; n782 C-563 Coonerty, Jennie C 37 MA
+daughter of Clissold; n783 C-563 Canerdy, Jesse H 32 Vermont Duxbury
++ Nettie L 34 + Charles 10 + Herbert 7 (C456); n784 Conery Johana.
+No White Jesse ~27 MO (C453).
+
+=== NH C-563 (nh011 n1180–1370 every card) ===
+C-562 Williams through n1221; C-563 Chouinard/Conrad from Adam n1224;
+Arthur / Edward / Ella / George / Harry; n1250 Conrad, James 35 NH
+Portsmouth boarder of Pike (C457); n1251 Choinard, John B 54 Canada.
+No Jesse card (C454).
+
+=== DE C-563 (de004 n1800–2120 every card) ===
+C-560 Conner James F n1872; C-565 Cameron James P n1873;
+n1874 C-562 Conrad, James R 52 PA South Milford + Anna 44 + Harvey 16
+(C458); Jane / Jeremiah / Johns (C-560/562) including C-563 Conrad
+John R continuation n1898; Mary G n1930; Samuel n1948–49;
+C-600 divider n1977. No C-563 Jesse (C455).
+
+=== Residual ===
+Other-state 1900 beyond the forty C-563 jurisdictions now closed
+(MO + IN/KY/AR/IL/TN/OH/IA/KS/OK/TX/AL/MS/LA/NE/MI/NC/WV/WI/MN/FL/GA/VA/SC/PA/MD/CO/CA/NY/NJ/WA/MA/CT/OR/ME/RI/ID/VT/NH/DE).
+Pinned unread: NM/AZ/NV/UT/MT/WY/ND/SD/DC and remaining territories.
+B049 1926 obituary; R001/R007/R008; B045 probate; B047 M1509.

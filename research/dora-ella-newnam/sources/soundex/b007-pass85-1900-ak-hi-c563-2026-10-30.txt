@@ -1,0 +1,35 @@
+Pass 85 — 1900 AK/HI C-563 Jesse
+Date: 30 Oct 2026 (America/New_York)
+Backlog: B007 residual other-state 1900
+
+=== Access ===
+Image seen via IA BookReader page JPEGs (not the full 100–350 MB PDFs).
+  AK C-563 = soundex1900ak003 (T1031 B-650–C-642; imagecount 3735)
+    C-535 n2851; C-562 n3000–3001; C-563 Chenowith/Conrad/Chumaritzki
+    n3002–3035 interleaved with C-560/561/562/565; C-616 n3151.
+    Every card n2980–3160.
+  HI C-563 = soundex1900hi005 (T1041 C-500–D-625; imagecount 4057)
+    C-520 through n1651; C-560 Camera n1951–1956 → C-563 Conradt
+    Wm family n1957–1958 + Wm 18 n1959 → C-600 divider n1961.
+    Every card n1930–2120.
+Local /tmp/p85/ working crops not committed except the evidence JPEGs
+listed in S357–S358.
+
+=== AK C-563 (ak003 n2980–3160 every card) ===
+C-563 Conrad leaves: Edw 38 WI Ft Independence n3003 (C484);
+F.F. / H. / H.R. Nome steamer passengers (H.R. n3016, C485);
+O.L. SS Olympia n3029; W.J. SS Roanoke n3035 (C486).
+J-window n3017–3032 is other codes (Connors/Cameron/Conner/Conroy).
+No Jesse card (C482).
+
+=== HI C-563 (hi005 n1930–2120 every card) ===
+C-560 Camera through n1956. C-563 Conradt Wm Hawaiian/Germany
+Pulo Dist family n1957–1958 (C487; dau Dora 2 Hawaiian Is is not
+Letha) → Conradt Wm 18 Hawaiian Puna living alone n1959 (C488) →
+C-600 divider n1961. No Jesse card (C483).
+
+=== Residual ===
+1900 C-563 Jesse-as-head now closed for all 45 states + OK/AZ/NM/AK/HI
+territories + DC (fifty-one jurisdictions). B007 residual is no longer
+a state-Soundex hunt. Next: B049 1926 obituary; R001/R007/R008;
+B045 probate; B047 M1509.

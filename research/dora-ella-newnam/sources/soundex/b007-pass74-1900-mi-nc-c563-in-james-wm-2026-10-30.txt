@@ -1,0 +1,63 @@
+Pass 74 — 1900 MI/NC C-563 Jesse + IN S-415 James/William family-sections
+Date: 30 Oct 2026 (America/New_York)
+Backlog: B007 residual other-state 1900 / IN S-415 James+William family-sections
+
+=== Access ===
+Image seen via IA BookReader page JPEGs (not the full 100–350 MB PDFs).
+  IN S-415 = soundex1900in208 (already located Pass 70)
+  MI C-563 = soundex1900mi046 (T1052 C-552 John**–C-600; imagecount 4269)
+  NC C-563 = soundex1900nc033x (T1063 C-563 George–C-616 Asburg; imagecount 3994)
+  NC prior reel soundex1900nc032x = C-516 Nancy–C-563 Franklin (Jesse is on nc033x)
+IA Solr identifier:soundex1900ga* AND (C-563 OR Conrad) = 0
+IA Solr identifier:soundex1900va* AND (C-563 OR C563) = 0
+IA Solr identifier:soundex1900wi* AND (C-563 OR C563) = 0
+IA Solr identifier:soundex1900fl* AND (C-563 OR C563) = 0
+Local /tmp/p74/ working crops not committed except the evidence JPEGs listed in S321–S323.
+
+=== IN S-415 James family-sections (in208 n1140–n1205) ===
+66 family-section crops on 4 contact sheets (james_p00–p03).
+Wives / associates: Indiana, Ohio, Ireland, Kentucky. Children on those cards
+do not include Letha / Letta / Lethia / Lettie ~2 with a Missouri-born wife.
+n1200 Lettie June 1863 ~37 Indiana is a wife (Earl / Lee / Peter, all Indiana),
+not a child ~2. C396 family-section residual is closed (C398).
+
+=== IN S-415 William family-sections (in208 n1760–n1850 every card) ===
+91 full cards (evens reused from Pass 73; odds downloaded this pass).
+Nativities on family lines: Indiana, Ohio, Kentucky, Ireland, Tennessee,
+Virginia, Pennsylvania. No Missouri-born wife + Letha ~2.
+n1768 Vera 4 IN is an individual granddaughter of Davis, John L. — pre-William.
+n1816 Lettie ~26 Kentucky is a wife (Herbert 13 KY), not Letha ~2.
+n1830 William H continuation: Margaret D Feb 1895 5 IN; Nora D Feb 1898 2 IN
+  — Nora is not Letha (C399). n1850 already S-416 Silkerman, Adam.
+C397 family-section residual is closed (C399).
+
+=== MI C-563 Jesse slot (mi046; C-552 at n50, C-563 from ~n1490) ===
+Coarse locators every 200 pp across 4269 leaves; tight every 15 pp n1460–1860;
+every card n1590–1617.
+C-562 through n1475 (Comerton Abraham 70 Canada).
+C-563 Conrad, Andrew 28 MI at n1490.
+H-names through n1580 (Conrardy Hazel 14 OH). J-tab at n1595.
+Jacob n1596–1599; James n1600–1603; Jay S n1604; Jerome n1605.
+n1606 Conrod, Jessie individual W Oct 1866 33 Michigan, Kent / Grattan Twp,
+  enumerated with Ford, Horace, relationship Daughter (C401).
+n1607 already John (Chenond/Conrad John 46 Canada).
+n1613 Conrad, John 35 New York, Macomb / Armada + Mary 32 MI + Raymond 1/2 MI
+  — first John after Jessie; nativity New York (contact-sheet "Missouri" was a
+  misread of Newyork). No male Jesse ~27 MO between Jerome and John (C400).
+
+=== NC C-563 Jesse slot (nc033x; divider n1 = C-563 J) ===
+Coarse locators; tight every 8 pp n1–153; every card n24–42.
+n1 divider NORTH CAROLINA-1900 C-563 J. Henry n17; James run n25–n33;
+Jennie/Jeremiah n31–n35; then Jesse; then John n37.
+n33 Conrad, James individual W June 1872 27 North Carolina, Haywood /
+  Waynesville Twp / Waynesville, boarder with [Brice?], Elighett S (C405).
+n36 Conrad, Jesse head W Jan 1828 72 North Carolina, Forsyth / Old Jamestown
+  Twp, vol 25 ED 29 sh 17 ln 89. Mary A D Oct 1840 59 North Carolina (C404).
+n37 already Conrad, John 38 NC. No White Jesse ~27 MO (C403).
+C-565 Cameron by n129.
+
+=== Residual ===
+Other-state 1900 beyond AR/IL/TN/IN/KY/MO/OH/IA/KS/OK/TX/AL/MS/LA/NE/MI/NC
+(GA/VA/WI/FL identifier Solr 0 this pass; WV/MN and west still open).
+IN S-415 unread Thomas / other-head family-sections that might list a Letha ~2.
+B049 1926 obituary; R001/R007/R008; B045 probate; B047 M1509.

@@ -1,0 +1,46 @@
+Pass 100 add — B049 1926 Dora/Posa Stone obituary free-source storm
+Date: 31 Oct 2026 (America/New_York)
+Backlog: B049 remains open
+Extends L610 / L619–L622 / S395 / S401 / C710–C714 / C733–C734.
+
+Exact strings: Dora Stone; Posa Stone; Dora Newman; Dora Newnam;
+  Mrs. T.A. Stone; Stone 1926; Newnam 1926; Newman 1926.
+
+=== Repositories actually opened ===
+1. NW Arkansas Genealogical Society / Wilma Fields,
+   “Obituaries from NW Arkansas Newspapers 1926”
+   https://sites.rootsweb.com/~arnwags/Indexes/1926.html
+   Page seen. Seven named decedents only:
+     Bagby E.M.; Henry Capt. Norman Smith; Koons Mollie Gearheart;
+     Rice T.M. Dr.; Robertson Joseph A.; Sammons Grandma;
+     Stroud Gabriel LaFayette (d. 19 Aug 1926).
+   **Nil** Stone / Newman / Newnam / Dora / Posa.
+   Neighbouring-region index (not Yell). → C764 / L635.
+
+2. GenealogyTrails, “Newspapers of Yell County, Arkansas”
+   http://genealogytrails.com/ark/yell/news_list.html
+   Page seen (LOC Chronicling America derivative).
+   1926-era titles confirmed on that list:
+     Danville Democrat 1899–1927
+     Dardanelle Post-Dispatch 190?–1976
+     Rural Record (Rebrab / Havana / Magazine Mountain) 1924–1930
+     Yell County Journal (Ola) 1925–1934
+   No issue images. Rural Record is a new neighbouring-title
+   catalog line for the death week (Havana, not Ola).
+   Holdings not on this HTML. → L635.
+
+3. yellcountyobits siteindex290 Stone block re-opened
+   (already S072): Stone, Richard / Ruby / Ruth / Tommy 2/1/1968 /
+   William. **Still no** Dora / Posa / Thomas 1925–26. → L635.
+
+WebSearch “Rural Record Havana 1926 Stone/Newman” — no digitized
+issue or named 1926 obituary. IA Solr for that title not re-run
+(Pass 97 already 0 for seven + nine extra titles, C710).
+
+=== Verdict ===
+No free 1926 Dora/Posa/Thomas Stone obituary. Next retrieval unchanged:
+  Newspapers.com Beattyville Enterprise Aug 1926;
+  Pope Library Roll 5 (C714);
+  ASA Yell County Journal film (SN90050035 / OCLC 21025741);
+  ASA In Remembrance S–T / M–O drawers on-site;
+  Rural Record 1924–1930 holdings (new catalog neighbour).

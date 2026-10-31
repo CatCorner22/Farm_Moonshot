@@ -1,0 +1,47 @@
+Pass 60 — 30 Oct 2026 (America/New_York)
+B040 T623-855 ED 38 every B-side + ED 39 sh 1–5 B-sides
+
+ED 38 Springfield-in-Campbell (p.835–916):
+  A-sides already complete (C280). This pass: every B-side even pp 836–916
+  (sh 1B–41B). Name-column top (header through ~ln 25) + bottom (~ln 26–50)
+  visually read. No Stone / Thomas A. head.
+
+  Rejects (ED 38 B):
+    p842 sh 4B: Haynes, ? Head + wife Ora/Dra (possible Dora), b. Jul 1869
+      age 30, m.7, 0/0 — not P001 (P001 is Aug 1871 KY, 7/5, Sturgeon KY).
+    p842 sh 4B: Carroll, Frank Head + Dora wife, b. Jul 1864 age 35, m.11, 3/3.
+    p848 sh 7B: Michela/Michele, Louis Head + Dora M. wife, ~1864 age 35, m.14, 3/3.
+    p850 sh 8B Children's Protestant Home: Newman, Clifford inmate, male, b. 1893 age 7.
+    p852 sh 9B: Sullivan, Cordelia Head wd (Dec 1840) + Holding sons + Sullivan
+      Anna M. dau / William L. son — Springfield widow, not Bollinger John/Letha.
+    p854 sh 10B: Bovine, Edward Head + Dora daughter b. Jan 1886 age 14.
+    p894 sh 30B: Newsome, Anna E. boarder, Dec 1850 age 49 Wd — Newsome ≠ Newnam.
+    Lookalikes: Storey Sarah servant (p860); Stark Walter Head (p840);
+      Henry, Norman H. Head (p864, not Newman); Henson, Mary sister (p838);
+      Story, Frances (p874); McCoy, James Head (p890, Springfield);
+      Wright Tella / Charles (p868).
+
+ED 39 sh 1–5 B-sides (reel-855 tail, even pp 918–926):
+  Previously A-sides only (C276). This pass: 1B=918, 2B=920, 3B=922,
+  4B=924, 5B=926 top+bottom. Nil Stone / Thomas A. head.
+  Wright, Monroe Head on sh 4B is a Springfield Wright (Henry already C276 on 5A).
+  Combined with C169 (sh 6–32 on reel 856) + C276 (sh 1–5 A): ED 39 complete
+  on both reels.
+
+B040 name-column sweep of Greene ED 37–43 is now complete:
+  ED 37 A+B (C279; only Stone head = Thomas A. sh 18A C117)
+  ED 38 A+B (C280 + C281)
+  ED 39 both reels (C169 + C276 + C283)
+  ED 40 A+B (C278)
+  ED 41 A+B (C275)
+  ED 42–43 A+B (C264)
+
+B007 parallel: US-census.org Bollinger 1900 team page (T623-839 ED 4–5 Liberty)
+  still has empty transcriber/status cells — no substitute for the already-read
+  originals (C260/C265). 1910 John Sullivan (C245) still unplaced in 1900.
+
+B045 parallel: USGenNet Lee wills index re-opened — still only Mary Jane Steele
+  Newnam, Elizabeth Newnam, Mary F. Newnam Tincher. No Samuel P. Newnam will.
+  Samuel P. Brandenburgh (1891) and Samuel P. Steele (1945) are different men.
+
+Local crops /tmp/b040-pass60/ not committed.

@@ -1,0 +1,77 @@
+Pass 73 — 1900 AL/MS/LA/NE C-563 Jesse + IN S-415 John family-sections + James/William
+Date: 30 Oct 2026 (America/New_York)
+Backlog: B007 residual other-state 1900 / IN S-415 John family-sections + other given-name heads
+
+=== Access ===
+Image seen via IA BookReader page JPEGs (not the full 100–350 MB PDFs).
+  AL C-563 = soundex1900al036 (T1030 C-553–C-615 Henson; leafCount 3475)
+  MS C-563 = soundex1900ms029 (T1054 C-540 John D.–C-600; leafCount 4026)
+  LA C-563 = soundex1900la029 (T1048 C-550 Joseph–C-620 Cyprian; leafCount 4184)
+  NE C-563 = soundex1900ne018 (T1057 C-516–C-600; leafCount 3749)
+  IN S-415 = soundex1900in208 (already located Pass 70)
+Local /tmp/p73/ working crops not committed except the evidence JPEGs listed in S316–S320.
+
+=== IN S-415 John family-sections (in208 n1224–n1349) ===
+114 family-section crops read on 8 contact sheets (page00–07).
+Wives / nativities seen: Indiana, Ireland, New York, Maine, Kentucky, Ohio, Virginia,
+Illinois, Pennsylvania, Connecticut. Children names on those cards do not include
+Letha / Letta / Lethia / Lettie ~2 with a Missouri-born wife.
+n1226 (Lake / Whiting / New York Ave 908) is a boarder with Case, C.E. — no family.
+n1227 Sullivan, John HEAD W May 1855 45 IN, Clark Charlestown, vol 9 ED 4 sh 18 ln 79.
+  Brothers: Daniel B Jan 1856 44 Missouri; Alonzo B Mar 1865 32 IN;
+  Charles B May 1873 27 IN; Thomas B Feb 1877 23 IN. No wife. No Letha.
+  Daniel B is a Missouri-born *brother*, not a MO wife + Letha pair (C389).
+n1239 Terre Haute Spruce 1307: Mary W 17 IN + Hazel 1/12 IN; Walters Annie 57 OH;
+  Lizzie 25 IL; Minnie 22 IL — Illinois, not Missouri.
+C373 family-section residual is closed (C388).
+
+=== AL C-563 Jesse slot (al036; C-562 Conger ~n650, C-564 Conerly interleaved) ===
+Every card n650–n685. Film interleaves C-562 Conger / C-564 Conerly / C-563 Conrad.
+C-563 given-name run in that span: Elizabeth, Fred, Henry, Henry D, then
+n677–n678 C-564 Herman / Conerly John L, then n679 Coonrod, John L W Feb 1871 29
+Florida, Henry / Cowarts. Then Joseph (n680). No Jesse / Jessie card between
+Henry D (n676, children Lilla 3 / Jay 1 / Baby 3/12 AL) and John L (C390).
+
+=== MS C-563 Jesse slot (ms029; C-560 Conner through n1963, C-563 from ~n1965) ===
+Every card n1960–n2005. n1986 Conrad, Henry B Jan 1857 43 MS + continuation n1987
+(Netta 9). n1988 Conrad, J.M. individual W Nov 1876 24 MS Coahoma Clarksdale (C392).
+n1989 Conrad, Iserel/Israel B May 1880 20 MS Tate. n1990 Conrad, Joe W Apr 1855 45
+Arkansas Warren Fostoria. No Jesse / Jessie head between Henry and Joe (C391).
+
+=== LA C-563 J-window (la029; C-563 also holds Camarata / Conners / Connors) ===
+Every card n840–n865. James Conners (n845) through Joseph Conrad (n860):
+Conners/Connors/Camarata Johns, then Conners Joseph 38 Ireland (n859), then
+Conrad, Joseph B Feb 1865 35 LA New Orleans (n860). No Jesse / Jessie Conrad
+head in that run (C393). An earlier contact-sheet "Jessie" at n1030 was a
+misread of Conrad, Marie C, 75 LA.
+
+=== NE C-563 Jesse slot (ne018; C-560 Conry ~n2400, C-565 Cummins n2800) ===
+Every card n2700–n2710. n2700 Conrad, Jacob H W Dec 1858 42 IN Cass Avoca.
+n2701 Jacob continuation (John 6 / Grace 4 NE). n2702 Conrad, James individual
+W Aug 1872 27 Kansas Douglas South Omaha (C395). n2703 Conradson, Johanna
+W Nov 1854 45 Norway Knox Raymond. n2704 Conrad, John W Aug 1835 64 Germany
+Phelps Lyndon. James and Johanna are consecutive leaves — no Jesse card (C394).
+
+=== IN S-415 James window (in208 n1140–n1205 every name-line) ===
+n1140 James W Aug 1867 33 IN Montgomery Union + Elizabeth 26 IN.
+n1160 James W Aug 1848 51 OH Wabash + Izora 48 OH.
+n1180 James M Feb 1852 48 WV Madison Boone + Gertrude 25 IL + child 5.
+n1190 James L continuation: Margaret 14, Paul R 9, Catherine 5, Anthony 2 IN
+  — youngest Anthony, not Letha.
+n1200 Jefferson S. n1210 Jerry. n1220 Jessie (Pass 71).
+All name-lines n1140–n1205 are James (or James continuation). Family-section
+residual on unread James heads remains (C396).
+
+=== IN S-415 William window (in208 n1760–n1850) ===
+n1750 Timothy 11 Children's Home. n1760 Timothy N 36 IN Jay.
+n1770 W. T. 40 KS Vanderburg Evansville.
+n1790–n1840 William heads (40 IN Marion; 50 IN Washington; 54 OH; William D 42
+Boone; William H continuation Margaret 5 + Nora 2 IN; William W 58 IN).
+n1850 already S-416 Silkerman, Adam — S-415 ends. Nora age 2 is not Letha (C397).
+William family-section residual on unread heads remains.
+
+=== Residual ===
+Other-state 1900 beyond AR/IL/TN/IN/KY/MO/OH/IA/KS/OK/TX/AL/MS/LA/NE.
+IN S-415 unread family-sections on James / William / Thomas / other heads
+that might list a Letha ~2.
+B049 1926 obituary; R001/R007/R008; B045 probate; B047 M1509.

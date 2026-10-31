@@ -1,0 +1,55 @@
+Pass 75 — 1900 WV/WI/MN C-563 Jesse + IN S-415 Thomas family-sections
+Date: 30 Oct 2026 (America/New_York)
+Backlog: B007 residual other-state 1900 / IN S-415 Thomas family-sections
+
+=== Access ===
+Image seen via IA BookReader page JPEGs (not the full 100–350 MB PDFs).
+  IN S-415 = soundex1900in208 (already located Pass 70)
+  WV C-563 = soundex1900wv0018 (T1078 C-563/565 E.B.–C-623; imagecount 3966)
+    prior reel soundex1900wv0017 = C-514/515 T.–C-563/565 Della
+  WI C-563 = soundex1900wi030 (T1079 C-552 Henry**–C-620 Celia; imagecount 4172)
+  MN C-563 = soundex1900mn028 (T1053 C-530–C-600 Moses; imagecount 3620)
+Pinned unread for next pass (not walked):
+  FL soundex1900fl012 C-552 Helen M.–C-632 Harriet (imagecount 3175)
+  GA soundex1900ga039 C-536 W.B.–C-600 Henrietta (imagecount 4286)
+  VA soundex1900va033 C-552 B.–C-613 Wm F.** (imagecount 4047)
+Local /tmp/p75/ working crops not committed except the evidence JPEGs listed in S324–S327.
+
+=== IN S-415 Thomas family-sections (in208 n1710–1759 every card) ===
+50 cards. Locators: Stephen n1700; Thomas n1720 (43 Indianapolis);
+Thomas T n1740 (49 Jefferson Twp); Timothy N n1760.
+Family nativities: Indiana, Ireland, Kentucky, Ohio, Germany.
+No Missouri-born wife + Letha / Letta / Lethia / Lettie ~2 (C406).
+n1726 Mattie 25 Kentucky is a wife, not a child ~2.
+
+=== WV C-563 Jesse slot (wv0018 n1–80 every card) ===
+Reel opens at C-563/565 E-tab (n1) / Cameron E.B. (n2). Film interleaves
+C-563 Conrad and C-565 Cameron.
+E-names through Everett; F/G/H; Isaias n39; then:
+n40 Conrad, Jesse head W Aug 1831 68 WV, Grant Dist, vol 7 ED 20 sh 18 ln 13.
+  Elens W Aug 1878 21 WV; Bertha J D Dec 1899 1 Virginia (C408).
+n41 Conrad, Isaac 53 WV (contact-sheet "Jesse" was Isaac).
+Jacobs n42–46; James run n47–57 (n47 James 25 WV boarder/BIL);
+Jeremiah n58–59;
+n60 Conrad, Jessie M. head W June 1866 34 WV, Gilmer / Glenville,
+  vol 7 ED 33 sh 12 ln 82. Rosa 26; Alta Opal 3; infant 5/12; Fay L 14 —
+  all West Virginia (C409).
+n61 already John 75 Germany. No White Jesse ~27 MO (C407).
+
+=== WI C-563 Jesse slot (wi030) ===
+C-563 from Conrad Albert n1060 through Susan / Conrady William n1380;
+C-565 Cameron by n1400.
+Every card n1238–1265: James H 38 PA n1240–1241; Jane 70 Ireland n1242;
+John tab n1244; then Johns. No Jesse / Jessie card (C410).
+
+=== MN C-563 Jesse slot (mn028) ===
+C-562 Connery through ~n2460; C-563 Conrad Albert n2480;
+Jerome H 43 WI n2580; John n2581; Josephine / Julius from n2596;
+C-565 Cameron by n2700. Film also holds Chouinard cards in this span.
+Every card n2574–2611: James 47 Canada n2577; Jerome n2580; John n2581.
+No Jesse / Jessie card (C411).
+
+=== Residual ===
+Other-state 1900 beyond AR/IL/TN/IN/KY/MO/OH/IA/KS/OK/TX/AL/MS/LA/NE/MI/NC/WV/WI/MN.
+FL/GA/VA C-563 reels pinned, unread. IN S-415 Thomas family-sections closed.
+B049 1926 obituary; R001/R007/R008; B045 probate; B047 M1509.

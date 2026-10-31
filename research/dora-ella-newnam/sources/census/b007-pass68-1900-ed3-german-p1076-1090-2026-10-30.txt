@@ -1,0 +1,56 @@
+Pass 68 — 1900 Bollinger German ED 3, PDF p.1076–1090 (sheets 8 B–15 B)
+Date: 30 Oct 2026
+Backlog: B007
+Reel: T623-839 (12thcensusofpopu839unit) local /tmp/b007-pass68/
+Enumerator: William R. James. German Township, SD 12, ED 3.
+Image seen: name-column ntop+nbot (NAME + RELATION + sex + birth + age) for every page.
+Do not trust OCR. Uncertain letters marked [?].
+
+ED 3 map (this slice):
+  p1076 = sh  8 B                 enum. 1 Jun
+  p1077 = sh  9 A (stamped 212)   enum. 6 Jun
+  p1078 = sh  9 B                 enum. 6 Jun
+  p1079 = sh 10 A (stamped 213)   enum. 18 Jun
+  p1080 = sh 10 B                 enum. 18 Jun
+  p1081 = sh 11 A (stamped 214)   enum. 19 Jun
+  p1082 = sh 11 B                 enum. 19 Jun
+  p1083 = sh 12 A (stamped 215)   enum. 20 Jun
+  p1084 = sh 12 B                 enum. 20 Jun
+  p1085 = sh 13 A (stamped 216)   enum. 21 Jun
+  p1086 = sh 13 B                 enum. 22 Jun
+  p1087 = sh 14 A (stamped 217)   enum. 23 Jun
+  p1088 = sh 14 B                 enum. 23 Jun
+  p1089 = sh 15 A (stamped 218)   enum. 23 Jun
+  p1090 = sh 15 B                 enum. 24 Jun  — ED 3 ENDS
+  p1091 = Liberty ED 4 sh 1 A (already Pass 54/C260)
+
+p-1090 last occupied: ln 51 (Polly A, wife, continuation of Griffin John from 15 A ln 50);
+ln 52–55 Seabaugh Jesse L household; ln 56–100 BLANK.
+
+NIL Conrad / Sullivan / Newman / Newnam / Letha / Viola / Stone on any sheet 8 B–15 B.
+
+Jesse/Dora hits (none is Jesse Conrad; none is P001):
+
+  p1076 sh 8 B ln 76  Cobb[?]/Cook[?] Jesse F  Head  WM  Oct 1878  21  M 1
+                      Mandy wife Jan 1882 18; Hubert F son Jun 1900 0/12
+  p1078 sh 9 B ln 96  Dora (Statler Ephraim hh)  Dau   WF  Dec 1895   4  S
+  p1079 sh 10 A ln 20 Jesse H (May James L hh)   Son   WM  Feb 1896   4  S
+  p1081 sh 11 A ln 13 James Jesse H              Head  WM  Apr 1855  45  M 23
+                      Sarah C wife May 1855 45
+  p1085 sh 13 A ln  4 Jesse A (James John A hh)  Son   WM  Sep 1883  16  S
+  p1087 sh 14 A ln 32 Jesse I/J (Seat Caroline)  Son   WM  Jul 1886  13  S
+  p1087 sh 14 A ln 44 Hartle Jesse               Head  WM  Sep 1848  51  Wd
+  p1087 sh 14 A ln 47 Jesse M (same Hartle hh)   Son   WM  Aug 1884  15  S
+  p1089 sh 15 A ln  8 Jesse M (Long Lee hh)      Son   WM  Dec 1899 5/12 S
+  p1090 sh 15 B ln 52 Seabaugh Jesse L           Head  WM  Apr 1860  40  M 8
+                      Ida M wife Nov 1874 25; Ella dau Mch 1881 19; James R son Aug 1896 3
+
+Cora/Flora/Nora lookalikes (NOT Dora): Flora I dau sh 8 B ln 51; Cora E Mayfield dau sh 11 B;
+Cora M dau sh 12 A; Cora B May dau sh 12 B; Cora L McGee wife sh 12 B; Nora I Bollinger wife sh 10 B;
+Nora H Limbaugh dau + Flora B dau sh 13 B; Cora Seat wife sh 14 A.
+
+Crisp (NOT Conrad) on sh 8 B ln 60 Alexander Head Jun 1842 57, and sh 9 A ln 9 George[?] Head Jan 1868 31.
+
+HEAD surnames by page — see compact table in agent reply.
+
+Working crops /tmp/b007-pass68/ NOT committed.

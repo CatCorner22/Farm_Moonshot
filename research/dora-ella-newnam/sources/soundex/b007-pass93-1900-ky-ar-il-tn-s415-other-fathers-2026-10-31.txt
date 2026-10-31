@@ -1,0 +1,53 @@
+Pass 93 — 31 Oct 2026 (America/New_York)
+B007 residual: 1900 KY/AR/IL/TN Soundex S-415 Edward / Francis / Frank /
+George / Michael / Mike / Patrick family-sections for child Letha ~0–2.
+
+Reels (card images seen; full PDFs not downloaded):
+  IA soundex1900ky161   T1047  (rotate 0)
+  IA soundex1900ar107   T1033  (rotate 0)
+  IA soundex1900il401   T1043  (rotate -90)
+  IA soundex1900tn153   T1072  S-415 Edward–George (reel ends at Jake)
+  IA soundex1900tn154   T1072  S-415 James–; Michael/Patrick
+
+Method: BookReader JPEG every card in each given-name band; invert + ~0.72
+family-section crop; visual read of 4-card sheets. Tesseract not used.
+Variants: Letha / Letta / Lethia / Lettie / Litha / Viola / Lottie / Leta.
+
+KY  Edward n2608–2619; Francis/Frank n2657–2667; George n2671–2688;
+    Michael/Michal/Mike n3036–3051; Patrick/Pat n3083–3092.
+    NIL Letha-string on those bands (C565–C569).
+    Out-of-band Lettie 5/12 on Edwin n2620 Boone — rejected (C570).
+    Patrick T wife Kate A 34 MO Louisville — no toddler (C571).
+    No IN-father. No Bollinger.
+
+AR  Edward/Ed/E.J. n2468–2475; Francis/Frank/Franklin n2499–2504;
+    George n2508–2522; Michael/Mike n2718–2720; Patrick/Pat n2743–2744.
+    NIL Letha-string as a Sullivan daughter ~0–2 (C572–C576).
+    Lottie 3 Roberts on Ed J n2471 — rejected (C577).
+    George W 40 Indiana, Yell Mason, Sarah E 3 — FAN (C578).
+    Mike J 32 Missouri Pulaski, Mildred 1 — FAN (C579).
+    No Bollinger.
+
+TN  Edward/Ed n3840–3850; Francis/Frank n3883–3891; George n3895–3908;
+    Michael/Mike/Michel n0249–0255; Patrick n0294–0304.
+    NIL Letha-string (C555–C559).
+    Michel 39 IN Memphis boarder — no child (C560).
+    Lena 2 / Lena L 1 / Viola ~27 / Lee 1/12 rejected (C561–C564).
+
+IL  Edward/Edw n1995–2037; Francis/Frank n2167–2211; George n2235–2259;
+    Michael/Mike n3476–3615; Patrick/Pat n3756–3902. Rotate -90.
+    NIL Letha-string on those bands (C580–C584).
+    George 33 IN Montgomery Butler Grove — sons Elonza 3 / Albert 1/12 (C585).
+    Michael F 30 IN Chicago roomer — no child (C586).
+    Mike 34 IN Marshall Toluca — SD Francie 1 (C587).
+    Frank 32 MO Chicago BIL — no child (C588).
+    After-band Loretta 1 on Fred L — rejected (C589).
+    No Bollinger.
+
+Residual B007: Charles / Daniel / Joseph / Peter / Robert on KY/AR/IL/TN.
+Working crops /tmp/p93/ not committed except listed evidence JPEGs.
+State reads also in:
+  sources/soundex/b007-pass93-1900-ky-s415-efgmp-2026-10-31.md
+  sources/soundex/b007-pass93-1900-ar-s415-edward-patrick-2026-10-31.md
+  sources/soundex/b007-pass93-tn-edward-patrick-read.md
+  /tmp/p93/il-efg-read.md /tmp/p93/il-michael-read.md /tmp/p93/il-patrick-read.md

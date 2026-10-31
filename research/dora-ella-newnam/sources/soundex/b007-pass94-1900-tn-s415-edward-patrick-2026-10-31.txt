@@ -1,0 +1,8 @@
+Pass 94 / 2026-10-31
+IA soundex1900tn153 + soundex1900tn154
+Edward n3840-3850 / Francis n3883-3891 / George n3895-3908 / Michael n0249-0255 / Patrick n0294-0304
+Visual every 4-card sheet. No tesseract.
+NIL Letha/Letta/Lethia/Lettie/Litha/Viola-as-toddler/Lottie/Leta ~0-2
+Near-hits: Michel 39 IN boarder no child (C560); Lena 2 (C561); Lena L 1 (C562); Viola ~27 boarder (C563); Lee 1/12 (C564)
+Report: sources/soundex/b007-pass93-tn-edward-patrick-read.md
+Log: L535-L539  Claims: C555-C564  Source: S375

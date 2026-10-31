@@ -1,0 +1,71 @@
+Pass 64 — 1900 C-563 Francis/George + Lutesville ED 7 + Whitewater ED 10
+Date: 30 Oct 2026 (America/New_York)
+Backlog: B007
+Reels: IA soundex1900mo054 (T1055 roll 54) C-563 F/G window;
+       T623-840 (12thcensusofpopu840unit, 769 pp) ED 7 Lutesville + ED 8 sample + ED 10 Whitewater
+
+C-563 F/G cards visually read (inverted):
+  p2897 Francis E Conrad, vol 7 ED 10, Sept 1868 age 32, Bollinger Whitewater;
+        Willie L son July 1897 2; Iva A dau Aug 1898 1. No Jesse. No Letha.
+  p2898 Francis M Conrad (elder), vol 7 ED 10 sh 8 ln 16, July 1841 age 58,
+        Bollinger Whitewater; Sophia B wife Apr 1849 51; Recie ~1879 20;
+        Seales Sarah E ~1892 8; Conrad W.I. son ~1878 22; Nella ~1881.
+        No Jesse. (Member list is a clerk approximation — see original.)
+  p2899 Francis M Conrad (younger), vol 7 ED 10 sh 8, Mar 1871 age 29,
+        Whitewater; Mary C wife Apr 1876 24. Not Jesse.
+  p2936 George E Conrad CONFIRMS original C301: vol 7 ED 6 sh 1,
+        Mar 1852 48, Lorance Marble Hill; Flora A Mar 1874 26 Indiana;
+        L.J. Mar 1894 6; Rudolph R June 1896 4; C. Nov 1897 2.
+
+T623-840 reel map (Pass 64):
+  p34  = ED 7 Lutesville Village sh 1 A (stamped 260)
+  p66  = ED 7 sh 17 A (stamped 276)
+  p67  = ED 7 sh 17 B (last Lutesville sheet; blank tail)
+  p68  = ED 8 Union sh 1 A (dw/fam restart at 1)
+  p72  = ED 8 sh 2 A (stamped 279)
+  p80  = ED 8 Union sh 7 A
+  p120 = ED 9 Wayne sh 12 A
+  p136 = ED 9 Wayne still
+  p140 = ED 10 Whitewater sh 3 A (stamped 313)
+  p148 = ED 10 sh 6 A
+  p150 = ED 10 sh 7 A
+  p152 = ED 10 sh 8 A (stamped 319)  ← Francis M elder original
+  p160 = ED 10 sh 13 A
+  p200 = Boone Bourbon ED 14 (Bollinger ended)
+
+ED 7 Lutesville name-column sweep (p34–p67, sh 1 A–17 B): NIL Conrad / Sullivan / Newman / Newnam / Letha.
+  Near-hits rejected: Lutes Dora B dau ~1885 age 14; Miller Dora E dau July 1883 age 16.
+  Surnames seen (sample): Buford, Croft, Langston, Stanton, Bell, Reber, England,
+  Akerling, Wingo, Leffler, Goodwin, Langdon, Chandler, King, Hahn, Richard,
+  Peters, Loxley, Gibbs, Gahr, Helm, Bess, Dixson, Morgan, Jones, Zoller, Lutes,
+  Shatt, Baker, Rush, Smith, McGregory, Richards, Huffman, Clark, Baukhneiss,
+  Bennett, Shell, Biss, Vandorn, Clippard, Frank, Holloway, Harris, Shults,
+  Reminger, Wright, Fisher, Allman, Dunkin, Shriver, Bean, Ross, Pittman,
+  Miller, Shafer, Keiser, Reynolds, Kitchen, Pinney, Mitchell, Merriman,
+  Haley, Corder, Critt, Bennett, Engleheart.
+
+ED 8 overflow sample (p68–p72): Smith, Blankenship, Cook, Cox, Roach, Starkey,
+  Groves, Henson, Dennis, Hain Jessie (Head, not Conrad), Isbell, Jones, Shirley,
+  Webb, Burcham, Grindstaff. NIL Conrad / Sullivan / Newman / Letha.
+
+ED 10 sh 8 A (p152) ORIGINAL — dw 136/140:
+  ln 14 Conrad, Francis M  Head WM July 1841 58 M 39
+  ln 15 Sophia B            Wife WF Apr 1849 ~50 M 39  3/2
+  ln 16 Recie[?] A          Son  WM Mar 1879 20 S
+  ln 17 Seales, Sarah E     Boarder WF Feb 1892 8 S
+  ln 18 Conrad, John R      Son  WM Sept 1873 26 M 1
+  ln 19 [Rosilla?]          Dau-in-law WF ~1877 23 M 1  0/0
+  No Jesse. No Letha.
+  Sophia 3/2 ⇒ two living children = John R + Recie. Jesse is not a living child
+  of this couple. Age 58 in 1900 = 68 in 1910 ⇒ same man as C303 (Francis M 68
+  + John R on 1910 Miracode).
+  Soundex “sh 8 ln 16” is close (head is ln 14). Soundex members W.I. / Nella
+  do not appear; John R + DIL do. Conflict #20.
+
+ED 10 sh 8 A ln 5 = Baptist/Bapst child Carol (not younger Francis M).
+ED 10 sh 8 B ln 66 = Oster child (not Francis E). Those Soundex locators fail.
+
+sh 8 A also: Loberg Dora A dau Oct 1883 16 — reject vs P001.
+
+Working crops /tmp/b007-pass64/ NOT committed.
+Evidence JPEGs committed (see INVENTORY).

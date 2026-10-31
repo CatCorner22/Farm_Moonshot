@@ -1,0 +1,122 @@
+Pass 90 — 1900 MO Soundex S-415 JAMES family-sections (visual card read)
+Date: 31 Oct 2026
+Reel: IA soundex1900mo248 (T1055 roll 248), leaves n3405–n3525
+Local 4-card sheets: /tmp/p90/mo-james/sheets/mjm-000.jpg–mjm-030.jpg
+  mjm-000 = n3405–n3408 … mjm-029 = n3521–n3524; mjm-030 = n3525
+Image seen: every JPEG (raw + inverted tops/fam). Diplomatic quotes. [?] = uncertain.
+
+=== 1. James* band ===
+Before: n3405 continuation. Head line diplomatic **"Salvamansky[?], Jacot[Jacob?]"**
+  (S-415; given name is a J-name immediately before the James tab).
+  Children: Maggie D May 1893 8 Austria NR; Wilhelmina D Nov 1893 6 Austria NR;
+  Oscar S Jan 1895 5 Missouri; Eva D Jan 1897 3 Missouri. Note "4 boarders and [rest]".
+n3406 = printed **James** Soundex divider tab.
+First James card = **n3407** Sullivan, James (individual) W Nov 1874 25 Illinois,
+  St Louis / Cardinal Ave; enum. with Waters, Mary; rel. **Sister-in-Law**[?].
+Last James* card = **n3492** Slavens[?], James W. W Nov 1863 36 Missouri,
+  **Johnson / Liberty Twp** (not Bollinger).
+After James*:
+  n3493 Sullivan, Jane W Nov 1843 57 Tennessee, Stone / Pine Twp (in-law).
+  n3494–n3499 Jeremiah / Jeremiah J.
+  **n3500** first Jessie: Sullivan, Jessie E. individual W Aug 1876 23 Missouri,
+    Jackson / Kaw Twp / Kansas City, stepson of Wallis, James M.
+  n3501–n3522 Jerry / Jerry T / Jerry E / Jerry J (Jessie E sits *before* Jerry).
+  n3523–n3524 Jesse M; n3525 Sullivan, Jessie W Aug 1877 23 Illinois, St Louis
+    + wife Catherine Mar 1877 23 Ohio.
+
+James* n range: **n3406 (tab) / n3407–n3492**.
+
+n3473 is a printed **J** middle-initial divider (James J. subsection), still inside James*.
+
+=== 2. Toddler girls age 0–2 (every sheet) ===
+
+A. JAMES* band
+  n3438  **"Cora"** D Jan 1899 **1** Missouri
+          Head: Sullivan, James W Oct 1870 30 Missouri, St Louis / Magnolia Ave
+            vol 108 ED 362 sh 11 ln 62
+          Wife: Ella W Mar 1878 22 Illinois
+          Also: Maher, Joseph F[ather?] Jan 1840 60 Missouri; n3439 Allie S 16 / Clinton S 9
+  n3451  **"Elenore"[?]** / **"Ellenore"[?]** / **"Eleanor"[?]** D Apr 1900 **2/12** Missouri
+          Continuation of n3450 Sullivan, James W Un Un Un Pennsylvania,
+            Nodaway / Jefferson Twp, vol 68 ED 109 sh 4 ln 30
+          Wife: Elizabeth W Apr 1871 29 Nebraska
+          Other ch.: Mary D Sept 1891 8; Catharine D Sept 1892 7;
+            Magdalene D Mar 1895 5; Joseph S Mar 1899 1 — all Missouri
+  n3458  **"R. L."[?]** / **"P. L."[?]** D Jan 1898 **2** Missouri
+          Head: Sullivan, James C. W Aug 1857 42 Missouri,
+            Christian / Lincoln Twp, vol 21 ED 17 sh 12 ln 2
+          Wife: Mary A W June 1863 37 Missouri
+          Other ch.: Nolie C D Feb 1893 7; Earl T S Feb 1896 4 — Missouri
+  n3488  **"Minnie G"** D Dec 1899 **6/12** Missouri
+          Head: Sullivan, James P. W Mar 1870 30 Missouri,
+            Texas / Roubidoux Twp, vol 110 ED 133 sh 16 ln 75
+          Wife: Elizabeth H W Oct 1872 28 New York
+          Other ch.: LeRoly[?] S Oct 1893 6; Minta I D Feb 1897 3 — Missouri
+
+B. After James* (same sheet run)
+  n3511  O'Neill, **"Grace"** D Oct 1899 **8/12** Missouri
+          On Sullivan, Jerry continuation (not a James card).
+          Patrick B Feb 1878 23 Ireland also on this card.
+
+Girls aged **3** (not 0–2; listed only to close the hunt):
+  n3419 Catholine[?] D July 1896 3 Mo (James, Polk / Humansville)
+  n3422 Margaret G.D. July 1896 3 Mo (Sleven[?]/Sullivan James cont.)
+  n3443 Minnie D July 1896 3 Mo (James, Ste. Genevieve)
+  n3517 Maud D June 1896 3 Mo (Jerry, Christian / Lincoln)
+
+=== 3. Letha-string hits any age ===
+Hunt: Letha, Letta, Lethia, Lettie, Litha, Viola, Lottie, Leta.
+**Nil** on n3405–n3525 (James* and the Jane/Jeremiah/Jessie/Jerry/Jesse tail).
+
+Near-misses (not the hunt strings):
+  n3417 Ellen W 27 Illinois (wife)
+  n3438 Ella W 22 Illinois (wife); Cora D 1 (above)
+  n3443 Lulu D June 1888 11 Mo
+  n3451 Elenore[?] D 2/12 (above) — not Letha
+  n3456 Lillie W Nov 1863 36 Illinois (wife of James A., Cedar / Box Twp)
+  n3484 Dollie D Oct 1887 13 Mo (James M., Dent[?] / Franklin)
+  n3522 Loretta M D Apr 1891 9 Illinois (Jerry T., after James)
+
+=== 4. Indiana-born heads/wives; Bollinger ===
+IN-born:
+  n3410 wife **"Martha"** W Dec 1843 56 **Indiana**
+        Head: Slavens[?]/Slivens[?], James W Aug 1838 61,
+          birthplace **"Indiana"[?]** / **"Sardinia"[?]** (same word is hard),
+          Jackson / Kaw Twp / Kansas City, vol 46 ED 122 sh 2 ln 40
+        n3411 cont.: McNutt, Elizabeth H.L. Mar 1826 74 **Indiana**;
+          Lyander P S 35 IL; Florence[?] DL 25 Canada[?]; Newton Lydia H 25 Iowa;
+          Harwood, Slavens GD Nov 1895 5 Maryland. No toddler.
+  n3463 head **Sullivan[?]/Sulhorn[?], James C.** W July 1831 **68 Indiana**
+        Douglas / Finley Twp, vol 29 ED 163 sh 8 ln 67. **"Living Alone"**.
+        (A different James C. of the same twp is n3459, b. Missouri, with family.)
+  n3522 (after James*) Jerry T. W Aug 1861 38 **Indiana**, St Louis;
+        wife Lizzie M Dec 1867 32 Mo; Loretta M D 9 IL.
+
+**Bollinger: nil.** Liberty Twp cards in this run are not Bollinger:
+  n3426 Slavin[?], James Jan 1829 71 KY — **Adair / Liberty Twp** (son Jessie[?] 33 IL)
+  n3444 Sullivan, James Sept 1877 22 Mo — **Madison / Liberty Twp**
+        (wife Sina Sept 1879 20 Mo; son Columbus S July 1898 1 Mo)
+  n3492 Slavens[?], James W. Nov 1863 36 Mo — **Johnson / Liberty Twp**
+        (wife Allie I Nov 1871 28 Mo; Eva C D Apr 1891 9 Mo)
+
+=== 5. Letha-string child ~0–2? ===
+**No.**
+
+=== 6. Dark / hard cards ===
+  n3405 surname/given: Salvamansky[?] Jacot[Jacob?] — hard hand, not forced to Sullivan.
+  n3406 James divider tab (dark stock; word "James" readable).
+  n3410 head birthplace Indiana[?]/Sardinia[?].
+  n3416 month NR/NB; individual Ireland 71, City Poor House.
+  n3450 month/year/age written **"Un" / "Un" / "Un"** Pennsylvania.
+  n3451 infant given name Elenore[?] (looped capital; -nore/-nora ending).
+  n3458 age-2 daughter name two-letter / initials R. L.[?] or P. L.[?].
+  n3463 head surname Sullivan[?]/Sulhorn[?].
+  n3473 printed J-tab (mostly blank).
+  Remaining cards were readable enough for given name + family table.
+  No card was wholly black / unreadable.
+
+=== Method notes ===
+Do not invent: every given name above was read from the card image.
+Ages 0/1/2 were taken from the AGE column (fractions 2/12, 6/12, 8/12 counted as 0).
+Surnames Sullivan / Slavens / Sleven / Slavin / Sulhorn are S-415 and were left as
+read when the hand was not a clear "Sullivan".

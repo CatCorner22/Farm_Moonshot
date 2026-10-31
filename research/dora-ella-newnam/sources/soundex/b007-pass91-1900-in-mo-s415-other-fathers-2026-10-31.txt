@@ -1,0 +1,69 @@
+Pass 91 — 31 Oct 2026 (America/New_York)
+B007 residual: 1900 IN/MO Soundex S-415 other father given-names
+(Edward / Michael / Patrick / Francis / George, plus Frank/Mike)
+every-card family-sections for child Letha / Letta / Lethia / Lettie /
+Litha / Viola / Lottie / Leta ~0-2.
+
+Reels (card images seen; full PDFs not re-downloaded this pass):
+  IA soundex1900mo248  T1055 S-400 — S-415 Press R.
+  IA soundex1900in208  T1044 S-410 — S-424
+
+Method: BookReader JPEG every card; invert + ~0.72 family-section;
+visual read of 4-card sheets; 0.95 crops for near-hits. Variants:
+Letha / Letta / Lethia / Lettie / Litha / Viola / Lottie / Leta.
+
+MO Edward  n3185–3202 (E-tab n3175; Edwin n3203; Ellen n3222).
+  Family-sections: no Letha/Letta/Lethia/Lettie/Litha/Viola/Lottie/Leta ~0-2.
+  n3202 Edward M 33 IN Jasper Galena; Vera 1 CO — not Letha.
+  No Bollinger.
+
+MO Francis/Frank  n3264–3278 (F-tab n3255; Frederick n3279).
+  Family-sections: no Letha-string ~0-2.
+  n3265 Francis 46 IN Jackson KC: Frankie A D Jan 1898 2 MO — Frankie, not Letha.
+  No Bollinger.
+
+MO George  n3286–3320 (H-tab n3325; Jerome n3321).
+  Family-sections: no Letha-string ~0-2.
+  n3302 Larna[?]/Lanna[?] D Oct 1897 2 MO on George continuation — not Letha.
+  n3310 Ettie D July 1897 2 MO on Geo M continuation — first letter E.
+  n3311 Slavens Geo M 48 MO Stoddard: Lottie 14 IN — age 14; Slavens.
+  No Bollinger.
+
+MO Michael/Mike  n3871–3909 (Michael tab n3872; Mildred n3910).
+  Family-sections: no Letha-string of any age.
+  Toddler girls Helen I 1 / M. Hellen 11/12 / Nora 1 — not Letha.
+  IN wives Esther 22 / C. Mary 32. No Bollinger.
+
+MO Patrick  n3968–4005 (P.F./P.H. n3966–3967; Pearl n4006).
+  Family-sections: no Letha-string of any age.
+  Toddler girls Nora 11/12 / Ellen 2 / Lizzie 1 — not Letha.
+  n3972 Patrick 36 IN Kansas City. n3990 Patrick Butler Poplar Bluff — not Bollinger.
+
+IN Edward/Eddie  n944 + n947–951 (Eddie 4 inmate; Edgar/Edith sit between).
+  Family-sections: no Letha-string. Anna M 1 on Edgar P; no MO wife.
+
+IN Francis/Frank  n997–1010 (Frank tab n1001).
+  n1000 Lethia M D Feb 1899 1 IN on Francis M — already C363 (mother IN).
+  No other Letha-string ~0-2. Helene 1 on Francis n998 IN.
+
+IN George  n1018–1047 (Gilbert n1048).
+  Family-sections: no Letha-string. Elsie 6/12 / Vera 10/12 / Mary E 2 / Sylphonia 8/12.
+  No MO wife + young daughter.
+
+IN Michael/Mike  n1524–1560 (Maurice n1520; Missouri given-name n1561).
+  Family-sections: no Letha-string. Bertha L 1 / Jenerive 10/12. No MO wife.
+
+IN Patrick/Pat  n1610–1633 (Peter tab n1635).
+  Family-sections: no Letha-string. No MO wife.
+
+Evidence committed:
+  mo1900-s415-p3202-edward-m-33-in.jpg
+  mo1900-s415-p3310-geo-m-ettie-2.jpg
+  mo1900-s415-p3265-francis-46-in-frankie.jpg
+
+Local /tmp/p91/ working crops not committed except those three JPEGs.
+
+Residual after Pass 91: IN/MO Edward/Francis/Frank/George/Michael/Patrick
+closed. Letha ~0-2 still unplaced. Next B007: remaining IN/MO given-names
+(Charles / Daniel / Joseph / Peter / Robert) and Edward/Michael/Patrick/
+Francis/George on KY/AR/IL/TN. B049 1926 paper unread.

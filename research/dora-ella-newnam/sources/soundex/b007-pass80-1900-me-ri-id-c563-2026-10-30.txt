@@ -1,0 +1,52 @@
+Pass 80 — 1900 ME/RI/ID C-563 Jesse
+Date: 30 Oct 2026 (America/New_York)
+Backlog: B007 residual other-state 1900
+
+=== Access ===
+Image seen via IA BookReader page JPEGs (not the full 100–350 MB PDFs).
+  ME C-563 = soundex1900me015 (T1049 C-560 E.M.–C-625 Jesse L.; imagecount 4170)
+    C-560 Conroy n151; C-562 Conners John n301 through William n380;
+    C-563 Conrad Albert n381; James E 32 ME n400; John M n402;
+    C-565 Cameron A.B. n418.
+  RI C-563 = soundex1900ri010 (T1069 C-562–C-636 Rosie; imagecount 3485)
+    C-562 Connors through William J n186; n187 is the C-563 code divider
+    with no Conrad cards; C-565 Cameron Albert D n188.
+  ID C-563 = soundex1900id004 (T1042 C-550–D-400 Ruth C.; imagecount 3522)
+    Codes interleaved C-560/C-562/C-563/C-565 (Florida pattern).
+    C-563 Isaac 34 IN n160; J-tab n161; James H 34 MO n174;
+    Coonrod John H 60 IL n186.
+Local /tmp/p80/ working crops not committed except the evidence JPEGs listed in S342–S344.
+
+=== ME C-563 (me015 n280–470 every card) ===
+C-562 Conners Horatio / James / John / Joseph / Kate / Margaret / Mary /
+Michael / Patrick / Thomas / Timothy / William through n380.
+n381 Conrad, Albert Canada Hancock / Orland (C-563 start);
+n398 Conrad, Hibbard B 25 Canada Jonesboro son-in-law;
+n400 Conrad, James E 32 Maine Calais + Ida M 34 MA (C452);
+n401 Chouinard, Jean Baptiste;
+n402 Conrad, John M;
+then Chouinard Josephs / Conrad Johns / Samuels / Williams;
+C-565 Cameron n418.
+No White Jesse ~27 MO (C447).
+
+=== RI C-563 (ri010 n130–320 every card) ===
+C-562 Connors Michael / Nellie / Nora / Patrick / Peter / Rose / Sarah /
+Thomas / William through n186 (William J 7 RI grandson).
+n187 Soundex C-563 code divider (no name card).
+n188 C-565 Cameron, Albert D 44 Providence.
+No C-563 Conrad leaf at all (C448).
+
+=== ID C-563 (id004 n130–320 every card) ===
+Interleaved C-560 Conner / C-562 Congers / C-563 Conrad / C-565 Cameron.
+C-563: Edward / Edward L / Ely M / Ephraim / Isaac 34 IN Rathdrum BIL
+n160 (C451) → J-tab n161 → James H 34 Missouri Mullan n174 (C450)
+→ Coonrod John H 60 IL Van Wyck n186.
+No White Jesse ~27 MO (C449).
+
+=== Residual ===
+Other-state 1900 beyond the thirty-seven C-563 jurisdictions now closed
+(MO + IN/KY/AR/IL/TN/OH/IA/KS/OK/TX/AL/MS/LA/NE/MI/NC/WV/WI/MN/FL/GA/VA/SC/PA/MD/CO/CA/NY/NJ/WA/MA/CT/OR/ME/RI/ID).
+Pinned unread (volume field only, not walked):
+  VT soundex1900vt009 T1075 C-536–C-650 Irene (imagecount 4172)
+  Also remaining: NH/DE/NM/AZ/NV/UT/MT/WY/ND/SD/DC and territories.
+B049 1926 obituary; R001/R007/R008; B045 probate; B047 M1509.

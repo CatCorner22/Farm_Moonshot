@@ -1,0 +1,60 @@
+Pass 92 — 31 Oct 2026 (America/New_York)
+B007 residual: 1900 IN/MO Soundex S-415 remaining father given-names
+(Charles / Daniel / Joseph / Peter / Robert) every-card family-sections
+for child Letha / Letta / Lethia / Lettie / Litha / Viola / Lottie / Leta ~0-2.
+
+Reels (card images seen; full PDFs not re-downloaded this pass):
+  IA soundex1900mo248  T1055 S-400 — S-415 Press R.
+  IA soundex1900mo249  T1055 S-415 R.D. —  (Robert before Thomas)
+  IA soundex1900in208  T1044 S-410 — S-424
+
+Method: BookReader JPEG every card; invert + ~0.72 family-section;
+visual read of 4-card sheets; 0.95 crops for near-hits. Variants:
+Letha / Letta / Lethia / Lettie / Litha / Viola / Lottie / Leta.
+
+MO Charles  n3045–3068 (Charlie last; Cicero n3072 after).
+  No Letha-string. n3056 Loret D July 1899 10/12 MO on Charles continuation
+  — diplomatic Loret, not Lottie/Letha. No IN heads/wives. No Bollinger.
+
+MO Daniel  n3100–3141 (David n3142).
+  No Letha-string. n3117 Daniel May 1846 54 Ireland, Bollinger Wayne
+  vol 7 ED 9 sh 10 ln 68; wife Sarah E 48 MO; only infant is GD
+  Storz, Sarah Oct 1899 6/12 MO (n3118). FAN, not Letha.
+
+MO Joseph  n3669–3689 (tab n3668; Julia n3693).
+  No Letha-string. Olie 9/12; Linnie[?] W 1. No IN. No Bollinger.
+
+MO Peter  n4008–4015 (Petter n4007; Phebe n4016; Press R n4028; blank after).
+  No Letha-string. Lucy L 1/12; Mamie 8/12. No IN. No Bollinger.
+
+MO Robert  mo249 n0021–0029 (Richard through n0019; Roth n0020/n0030).
+  No Letha-string. Iona[?] 1 on n0025; Fay 3 on n0027 Pike Liberty
+  (not Bollinger). No IN father of a Letha-string toddler.
+
+IN Charles  n0838–0857 (Ella/Cornelius after).
+  No Letha-string. Ruby 2. n0881 Cyrus: Lullen[?]/Lillen[?] D Sept 1899 1 IN
+  — not Letha (Cyrus, after Charles).
+
+IN Daniel  n0883–0917.
+  No Letha-string. n0909 Daniel C 42 IN + wife Dora E 41 Ohio —
+  rejected as P001 (age 41 vs 28; Ohio vs KY). Louisa 1 on n0907.
+
+IN Joseph  n1350–1365 (Josie 19 last).
+  No Letha-string. Josephine M 10/12. No MO wife + young daughter.
+
+IN Peter  n1636–1639 (tab n1635).
+  No Letha-string. Thelma I 1.
+
+IN Robert  n1659–1667.
+  No Letha-string. Flora B 1.
+
+Evidence committed:
+  mo1900-s415-p3056-charles-loret.jpg
+  mo1900-s415-p3117-daniel-bollinger-wayne.jpg
+  in1900-s415-p0909-daniel-c-dora-e.jpg
+
+Local /tmp/p92/ working crops not committed except those three JPEGs.
+
+Residual after Pass 92: IN/MO Charles/Daniel/Joseph/Peter/Robert closed.
+Letha ~0-2 still unplaced. Next B007: Edward/Francis/George/Michael/Patrick
+on KY/AR/IL/TN. B049 1926 paper unread.

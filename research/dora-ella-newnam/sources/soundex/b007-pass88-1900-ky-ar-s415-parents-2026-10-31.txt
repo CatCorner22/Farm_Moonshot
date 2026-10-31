@@ -1,0 +1,96 @@
+Pass 88 — 31 Oct 2026 (America/New_York)
+B007 residual: 1900 KY/AR Soundex S-415 parent-card family-sections
+for child Letha / Letta / Lethia / Lettie / Litha / Viola / Lottie ~0–2.
+
+Reels (card images seen; full PDFs not downloaded):
+  IA soundex1900ky161  T1047 S-365 Anna B.–S-420 Brown
+  IA soundex1900ar107  T1033 S-363 P.W.–S-432
+
+Method: BookReader JPEG every card in each given-name band; invert + ~0.72
+family-section crop; visual read of 4-card sheets. Tesseract not used
+(hung on prior family-section sweep). Variants: Letha / Letta / Lethia /
+Lettie / Litha / Viola / Lottie / Leta.
+
+KY John  n2813 tab; n2814–2925 John* heads; n2926 Johnie; n2927 Joseph.
+  Family-sections n2814–2925: wives KY / Ireland / PA / OH / TN / England / MI.
+  No Letha/Letta/Lethia/Lettie/Litha. Toddler near-hits wrong name/sex
+  (Angela 0, Lizzie 1, Markley 1, Raymond 1, Lillian 1, Francis 2,
+  Hanky 6/12, Ida 1, Ivan 1, Goebel 2/12, Clarence 1).
+  n2849 John Jan 1836 64 MO, Fleming / Flemingsburg, wife Margaret Aug 1832
+  67 KY, no children — not a father of a ~2-year-old.
+  n2910–2911 dark/blank — skip, not a name leaf.
+
+AR John  n2605 tab; n2606–2656 John* heads; then Joseph L / Josie /
+  Katherine / Lafayette n2662 (L-window already Pass 86).
+  Family-sections n2606–2656: no Letha/Letta/Lethia/Lettie/Litha.
+  n2627–2628 Sullivan, John Apr 1844 55 Wisconsin, Benton / Osage Twp,
+  vol 3 ED 19 sh 7 ln 64. Wife Ann Nov 1854 46 TN. Continuation:
+  John S Mar 1892 8 AR; Osa S July 1895 5 AR; Leta D Oct 1898 2 AR.
+  Diplomatic given name Leta (not Letha). Father WI vs C244 father IN.
+  Intact AR household. REJECT vs C244.
+  n2622 John Oct 1872 27 Missouri, Yell / Dardanelle Twp, vol 42 ED 154
+  sh 3 ln 65. Wife Belle Dec 1879 20 AR; Stabbs Edward J. 17 AR. No Letha.
+  Yell FAN only; not merged.
+  n2639 John F 46 Indiana Jackson — Anna 15 MO, no toddler.
+
+KY James  n2740–2786 James* (Harry/Henry before; Jasper/Jeff after).
+  Family-sections: no Letha/Letta/Lethia/Lettie/Litha.
+  Near-hits: n2753 Charles H May 1900 0 son; n2761 Rachel C Aug 1897 2;
+  n2765 Charlie K Mar 1898 2 son; n2774 Baby D Nov 1899 6/12 unnamed;
+  n2775 Viola W D Sept 1895 4 KY (age 4, KY). n2786 last James head.
+
+AR James  n2564–2588 James* (Jacob before; Jane/Jeff after).
+  Family-sections: no Letha/Letta/Lethia/Lettie/Litha.
+  n2568 James 33 AR Crawford, wife Martha J 31 Missouri, kids 9/7/4 — no ~2 Letha.
+  n2571 James 25 Missouri Logan servant — no children.
+  n2588 James W Feb 1865 35 Missouri, Yell / Magazine Twp, vol 42 ED 152
+  sh 19 ln 37. Wife Susanah J Feb 1860 40 Missouri. No children. Yell FAN.
+  n2600 Jim F Dec 1858 41 Missouri Pine / Smith, Eva 7 / Emanuel 5 — no Letha.
+
+KY William  n3228 William tab; n3229–3295 William*/Willie; then Winfrey /
+  Wolford / Woodie / Zachariah; n3302 S-416 tab.
+  Family-sections: no Letha/Letta/Lethia/Lettie/Litha.
+  Near-hits: n3241 Valerie Dec 1898 1; n3249 William Feb 1898 1 male servant;
+  n3257 Infant D Nov 1899 6/12 unnamed; n3274 William S Sept 1899 8/12 son;
+  n3291 Eva Mar 1897 3 / John H Apr 1899 1.
+
+AR William  n2819 William 2 grandson; n2820–2861 William*/Willie;
+  n2862 S-416 tab; n2863 Silverstein.
+  Family-sections: no Letha/Letta/Lethia/Lettie/Litha.
+  n2816 Wesley L wife Lottie Dec 1879 20 AR (wife, not ~2).
+  n2829 William Jan 1874 26 Missouri Greene Clark Twp prisoner — no children.
+  n2836–2837 William A 44 Missouri Baxter, Norman S Oct 1897 2 MO (son, not Letha).
+  n2844 William D 46 OH Yell / Ferguson / Belleville boarder — no children. Yell FAN.
+  n2861 Willie E 26 Missouri White DeView, wife Jennie 24 AR — no children.
+
+KY Thomas  n3179 Theona / n3180–3181 Thos individual; n3182–3198 Thomas*;
+  then Time / Tom / Timothy / Tomothy / Ulysses.
+  Family-sections n3182–3198: no Letha/Letta/Lethia/Lettie/Litha.
+  n3184 Catherine M May 1897 3 / Thomas infant May 1900.
+  n3192 Nannie J Jan 1900 4/12.
+  n3198 Alice June 1897 2 KY (Alice, not Letha).
+
+AR Thomas / Tom  n2788–2795 Thomas*; Tiller / Tim / Timothy; n2800–2803 Tom*.
+  Family-sections: no Letha/Letta/Lethia/Lettie/Litha.
+  n2801 Tom Sept 1871 28 AR Yell / Dardanelle, Maud 25 AL, Ira 5, Rosie Aug 1899
+  11/12 AL — no Letha. Yell FAN.
+
+AR Viola (V-leaf after Tom, before W-tab n2805):
+  n2804 Sullivan, Viola, individual, Colored, June 1899, 11/12, Arkansas,
+  Pulaski / Eastman Twp, vol 33 ED 98 sh 2 ln 23. Enumerated with
+  Newton, Jasper — Daughter. REJECT vs C244 (race Colored; age 11/12;
+  Pulaski AR; father-figure Jasper Newton; not a White IN-nativity nurse).
+
+Evidence committed:
+  ar1900-s415-p2627-john-leta.jpg
+  ar1900-s415-p2628-leta-2.jpg
+  ar1900-s415-p2622-john-yell-dardanelle.jpg
+  ky1900-s415-p2849-john-64-mo-fleming.jpg
+  ar1900-s415-p2804-viola-pulaski.jpg
+  ar1900-s415-p2588-james-w-yell-mo.jpg
+
+Local /tmp/p88/ working crops not committed except those six JPEGs.
+
+Residual after Pass 88: IL/TN 1900 S-415 parent-card walks
+(John/James/William/Thomas). KY/AR parent-card bands closed.
+PY

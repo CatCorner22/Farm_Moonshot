@@ -1,0 +1,88 @@
+Pass 89 — 31 Oct 2026 (America/New_York)
+B007 residual: 1900 IL/TN Soundex S-415 parent-card family-sections
+for child Letha / Letta / Lethia / Lettie / Litha / Viola / Lottie / Leta ~0-2.
+
+Reels (card images seen; full PDFs not downloaded):
+  IA soundex1900il401  T1043 S-400 Wm.F.–S-415 Thomas  (rotate -90)
+  IA soundex1900il402  T1043 S-415 Thomas–S-423 Gerhard (BookReader already upright; rotate 0)
+  IA soundex1900tn154  T1072 S-415 James–S-436
+
+Method: BookReader JPEG every card in each given-name band; invert + ~0.72
+family-section crop; visual read of 4-card sheets. Fuller 0.95 crops for
+near-hits. Tesseract not used. Variants: Letha / Letta / Lethia / Lettie /
+Litha / Viola / Lottie / Leta.
+
+IL James  n2391–2549 James*/Jas. (John leftovers n2388–2390; Jeremiah n2560).
+  Family-sections: no Letha/Letta/Lethia/Lettie/Litha/Viola/Lottie/Leta.
+  n2414 James Aug 1872 27 IL, Mason / Quiver Twp, wife Bettie Sept 1878
+    21 Missouri, Lelia D Nov 1896 3 IL — Lelia age 3, not Letha.
+  n2539 James P Nov 1871 30 IL, Piatt / Goose Creek Twp / De Land,
+    vol 135 ED 129 sh 1 ln 65. Wife Ella Nov 1870 31 Indiana.
+    Lillie D Aug 1898 1 IL; Lella D Apr 1900 1/12 IL.
+    Diplomatic Lella (not Letha). Intact IL household. REJECT vs C244.
+
+IL John  n2695–3028 John*/Jno. (Joseph E n3031; Joseph tab n3033).
+  Family-sections: no Letha/Letta/Lethia/Lettie/Litha/Viola/Leta ~0-2.
+  n2813 Lottie D Jan 1883 17 IL (John 42 Ireland, Sangamon Springfield).
+  n2960 John H B Jan 1864 36 TN, Cook / Chicago Racine Place, wife
+    Jamesana 34 KY; Lottie D July 1895 4 IL — race Colored; age 4.
+  MO heads: n2741 wife Anna 27 MO (Edna 2 IL, not Letha);
+    n2926 wife Mamie 27 MO (Helen N 4/12, not Letha);
+    n2993 John L 26 MO lodger; n3002 John M 40 MO East St Louis
+    (Helen 11/12, not Letha).
+
+IL Thomas  il401 n4068–4113 + il402 n0003–0027 Thomas/Thos;
+  Timothy n0029–0097; Tom n0098–0100; Tomas A n0101 (last).
+  Family-sections: no Letha/Letta/Lethia/Lettie/Litha/Viola/Lottie/Leta.
+  n0101 Tomas A Apr 1869 31 IL, Iroquois / Onarga; Anna J 23 IL;
+    Coletta[?] M (or Loletta[?]) D Apr 1899 1 IL — not a clear Letha.
+
+IL William  il402 n0129–0243 William*; Willie n0244–0245; S-416 n0252.
+  Family-sections: no Letha/Letta/Lethia/Lettie/Litha ~0-2.
+  n0149 Lottie D Nov 1895 5 IL (Wm 29 Gallatin).
+  n0212 Tealy, Viola n.p. May 1899 1 IL — surname Tealy, not Sullivan.
+  n0250 continuation of Zachariah F: Leta D Jan 1887 13 IL. REJECT
+    (age 13). MO heads boarders/nephews n0202–0204, n0240 — no Letha.
+
+TN James  n0003–0053 James* (Jane n0054; Jeremiah n0061).
+  Family-sections: no Letha/Letta/Lethia/Litha/Viola/Leta ~0-2.
+  n0026 Lottie D June 1884 15 TN (James C 48 Williamson).
+  n0063 Jerry continuation: Hettie[?] L (or Lettie[?]) D Mar 1899 1 TN.
+    Initial H/L uncertain; father Jerry, not a target parent name.
+
+TN John  n0084–0161 John* (Jonas B n0162; Joseph n0165).
+  Family-sections: no Letha/Letta/Lethia/Lettie/Litha/Viola/Lottie/Leta.
+  n0133 wife Emma[?] 37 Missouri (John C 41 TN Shelby); child Herbert 9 TN.
+
+TN Thomas  n0368–0380 Thomas/Thos + n0383–0385 Tom/Tomas/Tommy.
+  Family-sections: no Letha/Letta/Lethia/Lettie/Litha/Lottie/Leta ~0-2.
+  n0386 Viola individual B May 1894 6 TN, Mason 12th C.D., vol 44 ED 42
+    sh 6 ln 6; enumerated with Porter, Ellen, G. Daughter. REJECT vs C244
+    (race Colored; age 6; Mason TN; Ellen Porter grandmother-figure).
+  n0375 Littie D Nov 1894 6 on Soulpen[?] Thomas B — not Sullivan / age 6.
+
+TN William  n0412–0458 William* (tab n0411); Willie n0459–0465;
+  Zachariah n0467–0469; Slover n0473.
+  Family-sections: no Letha/Letta/Lethia/Lettie/Litha/Viola/Lottie/Leta ~0-2.
+  n0448 William J Jan 1868 32 TN, Macon 1 C.D., vol 44 ED 32 sh 19 ln 97.
+    Wife Dona A Aug 1877 22 TN; Lea D Feb 1898 2 TN. Diplomatic Lea
+    (3 letters, not Leta). REJECT vs C244.
+  n0413 William Aug 1859 39 Mo., Weakley C.D. 20; wife Mellie 36 KY;
+    daughters 15/10/~8 — no Letha.
+  n0463–0464 Willis J: Lottie 17 and Lottie L GD 3 (after Willie band).
+
+Evidence committed:
+  il1900-s415-p2539-james-p-lella.jpg
+  il1900-s415-p2414-james-bettie-mo-lelia.jpg
+  tn1900-s415-p0386-viola-6-mason.jpg
+  tn1900-s415-p0448-william-j-lea-2.jpg
+  il1900-s415-p0250-zachariah-leta-13.jpg
+  tn1900-s415-p0063-jerry-hettie-1.jpg
+
+Local /tmp/p89/ working crops not committed except those six JPEGs.
+
+Residual after Pass 89: IN/MO/KY/AR/IL/TN S-415 L-windows and
+John/James/William/Thomas parent-card walks are closed. Letha ~0-2
+still unplaced. Next B007: other father given-names (Edward / Michael /
+Patrick / Francis / George) on IN/MO first; MO John/James/William/Thomas
+densification if prior walks were samples only. B049 1926 paper still unread.
