@@ -1674,6 +1674,135 @@
 | C1429 | No new Woodford / cert **17762**. Do not print 1966 | PROVEN as negative | S1076 L1228 | B082 |
 | C1430 | IA **602** imagecount still **515**. One line | PROVEN as catalog | S1071 L1229 | B088 |
 | C1431 | No new deceased McCoy/Rissie. Do not print 1962. Grant 21 **not merged**. B084 POSSIBLE Jr only | PROVEN as negative / same-person | S1076 L1230 | B085 B081 B084 |
+| C1432 | LOC sn89051008 `item.digitized: false` (pass118 + pass118c). IA Solr Post-Dispatch 1926 **numFound 0**. Film unread | PROVEN as catalog | S1077 S1078 L1235 L1236 | B058 |
+| C1433 | Clark 1840 odd name leaves n0005–n0081 **visually** walked **nil** Newman/Newnam/Tincher head | PROVEN as negative (this reel) | S1079 S1080 L1237 | B071 |
+| C1434 | Clark 1840 n0081 last names + **Total County** / Winchester recap. Name walk **CLOSED**. Certificate remains n0083 (**C1403**) | PROVEN as image | S1079 L1238 | B071 |
+| C1435 | Owsley 1850 remaining n0394–n0432 **visually** walked **nil** William × Rhoda living head. n0431 still Owsley (Luther Broaddus, 27 Sept). n0432 stamped **321** last Owsley. n0433 **Pendleton** Dist 2 Wm Taylor. Remaining Owsley after 300B **CLOSED** | PROVEN as negative (this reel) | S1081 S1082 L1239 L1240 | B071 |
+| C1436 | Owsley 1850 n0408 stamped **309** = SK TINCHER **309A**. hh **132 Thos. Tincher 22** farmer $215 Ky + Margaret + siblings Mary/James/John/Emerina/Elisa/Eliza/Polly Ann/Blage/Randolph/Milly Ann. **REJECT** vs William × Rhoda | DISPROVED as the couple | S1083 L1241 | B071 |
+| C1437 | S-K Owsley 1850 **LIVE**: **NEWMAN 299B, 300A** only; **NEWTON 314B**; **TINCHER 299B, 309A**. Tesseract remaining namecols token-nil Newman/Newnam | PROVEN as compiled-index + OCR draft | S1084 S1085 L1242 | B071 |
+| C1438 | Knox 1850 isolated: n0006 Knox W.W. Pope 27 July stamped **321**; n0158 Barbourville Knox 2 Oct stamped **397**. Montages sampled **nil** Newman head. SK Knox **404**. Full N-walk residual | PROVEN as isolation / sample | S1086 L1243 | B071 |
+| C1439 | Morgan 1850 isolated: n0174–n0351 L.P. Turner still Morgan; n0352 **Muhlenberg** Dist 1 Wm S. McNary 1 Aug. Montages sampled **nil** Newman head. SK Morgan **404**. Full N-walk residual | PROVEN as isolation / sample | S1087 L1244 | B071 |
+| C1440 | Still **no** free William × Rhoda license. Grooms/brides/kykinfolk **404**. USGW Owsley 1850indx timeout | PROVEN as negative | S1092 L1245 | B071 |
+| C1441 | Parents William × Rhoda still **PROBABLE**. 1860 Rhoda widow + B.F. **7** **PROVEN**. #28 stands. 1850 couple still unread as a living head (Knox/Morgan residual) | PROBABLE | S1092 L1246 | B071 |
+| C1442 | Hutchins FAQ **9938** `libraryanswers.berea.edu` **LIVE**: *Citizen* index **1899–1983** paper cards rooms **228–229**. `libraryguides` path **404**. No free June **1958** clip. Phone not re-asked | PROVEN as catalog | S1088 L1247 | B055 B080 |
+| C1443 | GT Lee WWI published tables **LIVE** **452540**. Luther Brandenburg + Luther Underwood only. **No** Luther/John H./McCoy Newnam/Newman. Cards unread | PROVEN as compiled | S1089 L1248 | B059 B069 |
+| C1444 | FS **1146342 / 127913 / 156057** **404** (R011-**60**). Tax unread | PROVEN as access | S1090 L1249 | B069 B065 B045 |
+| C1445 | IA **602** imagecount still **515**. One line | PROVEN as catalog | S1091 L1250 | B088 |
+| C1446 | IA Solr M1509 KY **numFound 0** | PROVEN as catalog | S1078 L1251 | B069 |
+| C1447 | USGenNet wills **LIVE** — Jane Steele NEWMAN + Elizabeth NEWNAM + Mary F. Tincher; **no** Samuel P. Clerk not re-asked | PROVEN as compiled | S1089 L1252 | B045 B065 |
+| C1448 | WCHS Duell-Clark **1958–1978** still **$10**. Cert **17762** unread. Do not print 1966 | PROVEN as catalog / negative | S1092 L1253 | B082 |
+| C1449 | Grant 21 **not merged** vs David F. B084 POSSIBLE Jr only. No new deceased McCoy. Do not print 1962. Living 1950-line withheld | PROVEN as same-person / negative | S1092 L1254 | B081 B084 B085 |
+| C1450 | Did not walk Estill **1930 33-12 / 33-13**. Phones / R001/R007/R008 not re-asked | PROVEN as process | S1092 L1255 | B058 B089 |
+| C1451 | LOC sn89051008 `item.digitized: false` (pass119). IA Solr Post-Dispatch 1926 **numFound 0**. Film unread. Phone not re-asked | PROVEN as catalog | S1093 S1094 L1257 L1258 | B058 |
+| C1452 | Knox 1850 starts n0005: County of Knox, 27 July 1850, W.W. Pope (one leaf earlier than the pass-118 isolate) | PROVEN as image | S1095 L1259 | B071 |
+| C1453 | Knox n0158 Barbourville last named Knox (W.W. Pope, 2 Oct). n0159 blank divider. n0160 **Larue** Hamilton Dist, J.H. Hamlin, 3 Aug. Larue not walked | PROVEN as image | S1096 S1097 L1260 L1261 | B071 |
+| C1454 | Knox namecols n0005–n0158 on disk. Tesseract psm **4** + psm **6** + heads4 **token-nil** Newman/Tincher (OCR draft). Visual namecols **image seen** at n0006/12/24/32/40/48/56/64/72/80/88/96/104/112/120/136/144/158 — **nil** Newman/Tincher head. Remaining leaves between samples **not** every-line walked | PROVEN as negative (sampled + OCR) | S1098 S1099 L1262 L1263 | B071 |
+| C1455 | KYGenWeb Morgan 1850Index.doc **LIVE**. OLE extract N surnames = Needham **728** / Nickell / Noble **409** / Norman **1044**. **No** Newman/Newnam/Tincher/Tinker/Newkirk/Numan | PROVEN as compiled-index | S1100 S1101 L1264 | B071 |
+| C1456 | Morgan household .doc “Newton” = given name only (Newton P. Reed lawyer; children named Newton). **Not** a Newman surname | PROVEN as compiled / reject | S1100 L1265 | B071 |
+| C1457 | Morgan n0351 = last Morgan + assistant-marshal certificate **November 1850**. n0352 **Muhlenberg** Dist 1 Wm S. McNary 1 Aug. County isolate **CLOSED** | PROVEN as image | S1102 S1103 L1266 | B071 |
+| C1458 | Morgan 1850 **CLOSED** as compiled-index county-level negative + original isolate + November certificate. OCR token-nil. Visual samples n0174/n0260/n0351 **nil** Newman head | PROVEN as negative (this reel + index) | S1100 S1102 S1104 L1267 | B071 |
+| C1459 | Still **no** free William × Rhoda license. kykinfolk **404**. USGW Estill marr **timeout**. Authored mytrees 1845 unused | PROVEN as negative | S1105 L1268 | B071 |
+| C1460 | Parents William × Rhoda still **PROBABLE**. 1860 Rhoda widow + B.F. **7** **PROVEN**. #28 stands. 1850 couple unread as living head — Knox remaining namecols residual | PROBABLE | S1105 L1269 | B071 |
+| C1461 | GT Lee WWI published tables **LIVE** **452540**. Luther Brandenburg + Luther Underwood only. **No** Luther/John H./McCoy Newnam/Newman. Cards unread | PROVEN as compiled | S1106 L1270 | B059 B069 |
+| C1462 | FS **1146342 / 127913 / 156057** **404** (R011-**61**). Tax unread | PROVEN as access | S1107 L1271 | B069 B065 B045 |
+| C1463 | USGenNet wills **LIVE** — Jane Steele NEWMAN + Elizabeth NEWNAM + Mary F. TINCHER; **no** Samuel P. Clerk not re-asked | PROVEN as compiled | S1108 L1272 | B045 B065 |
+| C1464 | Hutchins FAQ **9938** `libraryanswers` **LIVE**: *Citizen* cards **1899–1983** rooms **228–229**. No free June **1958** clip. Phone not re-asked | PROVEN as catalog | S1109 L1273 | B055 B080 |
+| C1465 | IA **602** imagecount still **515**. One line | PROVEN as catalog | S1110 L1274 | B088 |
+| C1466 | IA Solr M1509 KY **numFound 0** | PROVEN as catalog | S1094 L1275 | B069 |
+| C1467 | WCHS Duell-Clark **1958–1978** still **$10**. Cert **17762** unread. Do not print 1966 | PROVEN as catalog / negative | S1105 L1276 | B082 |
+| C1468 | Grant 21 **not merged** vs David F. B084 POSSIBLE Jr only. No new deceased McCoy. Do not print 1962. Living 1950-line withheld | PROVEN as same-person / negative | S1105 L1277 | B081 B084 B085 |
+| C1469 | Did not walk Estill **1930 33-12 / 33-13**. Phones / R001/R007/R008 not re-asked | PROVEN as process | S1105 L1278 | B058 B089 |
+| C1470 | SK Knox/Morgan 1850 **404**. kykinfolk Knox/Morgan/Estill/Owsley **404**. US-census.org Knox 1850 not transcribed | PROVEN as catalog | S1105 L1262 | B071 |
+| C1471 | LOC sn89051008 `item.digitized: false` (pass120). IA Solr Post-Dispatch 1926 **numFound 0**. Film unread. Phone not re-asked | PROVEN as catalog | S1111 S1112 L1279 L1280 | B058 |
+| C1472 | Knox 1850 n0005–n0158 **CLOSED**: 77 two-up strips knox-0005-0006 … knox-0157-0158. This session re-read first + last 2-ups **nil** Newman/Tincher. OCR psm **6** **token-nil** | PROVEN as negative (this reel) | S1113 S1114 L1281 L1282 | B071 |
+| C1473 | Knox n0160 is **Larue** — not walked. n0158 Barbourville last named Knox (reconfirm) | PROVEN as image | S1114 L1283 | B071 |
+| C1474 | KYGenWeb Floyd 1850 family-name index **LIVE**. Caveat “This list may not be complete.” N = NEAL / NESBITT / NEWSOM / NICHOLS / NOLEN / NUSOM. T = TACKETT…TYRA. **No** Newman/Newnam/Tincher | PROVEN as compiled-index | S1115 L1284 | B071 |
+| C1475 | Floyd 1850 original start isolated: IA **`0200unix`** n0003 County of Floyd, **20 July 1850**, David Cooley, stamped **813**. Line 1 **Daniel Steel 59** physician Stokes N.C. | PROVEN as image | S1116 L1285 | B071 |
+| C1476 | Floyd n0090 still Floyd **27 Aug**; n0120 still Floyd **3 Sep**; n0150 **Barren**; n0300 **Franklin**. County isolate mapped | PROVEN as image | S1117 L1286 | B071 |
+| C1477 | Floyd 1850 **CLOSED** as compiled family-name + start/end isolate. Not every-line original | PROVEN as negative (compiled + isolate) | S1115 S1116 S1117 L1287 | B071 |
+| C1478 | Clay 1850 n0005: County of Clay, **26 July 1850**, Herschel White. dw **14 William Collins 25** farmer | PROVEN as image | S1118 L1288 | B071 |
+| C1479 | Clay n0054 still County of Clay, **16 Aug 1850**, H.L. White, stamped **317**. Isolate of hh **54** is n0009 (**C1491**) | PROVEN as image | S1119 L1289 | B071 |
+| C1480 | S-K Pike 1850 **LIVE** HTML. N = NEW / NEWSOM / NICHOLS / NICOLS / NUNERY / NUNNERY. T = TACKETT / TAILER / TAILOR / TERRY / THACKER / THOMPSON / THORNSBURY / TOLLEY. **No** Newman/Tincher. n0005 County of Pike isolated | PROVEN as compiled-index + image | S1120 S1121 L1290 | B071 |
+| C1481 | Pike 1850 **CLOSED** as compiled family-name. Original remaining leaves not every-line walked | PROVEN as negative (compiled) | S1120 S1121 L1291 | B071 |
+| C1482 | S-K Harlan 1850 **LIVE** HTML. N = NANCE / NAPIER / NEILL / NEILSON / NOE / NOLEN / NORTH / NUCKLES / NUNN. T = TACKETT / TAYLOR / TEMPLETON / THACKER / THOMAS / THOMPSON / TINSLEY / TURNER. **No** Newman/Tincher | PROVEN as compiled-index | S1122 L1292 | B071 |
+| C1483 | IA reel **206** (`0206unix`) n0005 = **Jefferson / Louisville** — not Harlan. Harlan 1850 **CLOSED** as compiled family-name | PROVEN as catalog + compiled | S1122 S1123 L1293 | B071 |
+| C1484 | Still **no** free William × Rhoda license. kykinfolk **404**. USGenNet `willindex.html` **404**; `/wills/` **LIVE** | PROVEN as negative | S1130 L1294 | B071 |
+| C1485 | Parents William × Rhoda still **PROBABLE**. 1860 Rhoda widow + B.F. **7** **PROVEN**. #28 stands. 1850 couple unread as a living head. Clay William **42** original is a **reject**, not the couple | PROBABLE | S1130 L1295 | B071 |
+| C1486 | GT Lee WWI published tables **LIVE** **452540**. Luther Brandenburg + Underwood only. **No** Luther/John H./McCoy Newnam/Newman. Cards unread | PROVEN as compiled | S1125 L1296 | B059 B069 |
+| C1487 | FS **1146342 / 127913 / 156057** Incapsula **403** (R011-**62**). Tax unread | PROVEN as access | S1126 L1297 | B069 B065 B045 |
+| C1488 | USGenNet `/wills/` **LIVE** — Jane Steele NEWMAN + Elizabeth NEWNAM + Mary F. TINCHER; **no** Samuel P. Clerk not re-asked | PROVEN as compiled | S1124 L1298 | B045 B065 |
+| C1489 | Hutchins FAQ **9938** `libraryanswers` **LIVE** cards **228–229**. IA **602** still **515**. IA Solr M1509 KY **0**. No free June **1958** clip | PROVEN as catalog | S1127 S1128 S1112 L1299 | B055 B080 B088 B069 |
+| C1490 | Grant 21 **not merged** vs David F. B084 POSSIBLE Jr only. No new deceased McCoy. WCHS DNS fail. Do not print 1966 or 1962. Did not walk **33-12 / 33-13**. Phones / R001/R007/R008 not re-asked. Living 1950-line withheld | PROVEN as same-person / process | S1129 S1130 L1300 | B081 B084 B085 B082 B089 |
+| C1491 | Clay 1850 n0009 stamped **299**, **26 July**, Herschel White. hh **54/54** **John Hibbard 75** M farmer $600 Va + **Margaret 71** + **John Davis 12** Ky + **Margaret 10** Ky + **James Hibbard 10** + **Franklin Hibbard 5** Mo + **William Newman 42** M Ten | PROVEN as image | S1131 S1132 S1133 L1301 | B071 |
+| C1492 | Same-person **REJECT** vs William × Rhoda **CONFIRMED** on original: no Rhoda; no Decatur/Leaner; Tennessee boarder in Hibbard house. **C1347** now **image seen** | PROVEN as reject | S1132 S1133 L1302 | B071 |
+| C1493 | Parents William × Rhoda still **PROBABLE**. 1860 Rhoda widow + B.F. **7** **PROVEN**. #28 stands. 1850 couple still unread as a living head | PROBABLE | S1135 L1303 | B071 |
+| C1494 | Clay 1850 Hibbard hh **54** isolate **CLOSED** as reject. Remaining Clay name columns not required for this reject | PROVEN as process | S1135 L1304 | B071 |
+| C1495 | Did not walk Estill **1930 33-12 / 33-13**. Phones / clerk not re-asked | PROVEN as process | S1135 L1305 | B058 B089 |
+| C1496 | LOC sn89051008 JSON **seen** (`item.digitized: false`, pass122). IA Solr Post-Dispatch 1926 **0**. Film unread. Phone **479-968-4368** not re-asked | PROVEN as catalog | S1136 S1137 L1307 L1308 | B058 |
+| C1497 | Wayback 2013 RootsWeb KYLetcher 1850 every-name **LIVE** (2,509 parsed name links; pages **125a–155b**). N = Nicholas **151b** / Niece **147b** / NS **139b**. T = Taylor / Thacker / Thomas / Tyre. **No** Newman / Newnam / Tincher / Tinker / Fincher | PROVEN as compiled-index | S1138 L1309 | B071 |
+| C1498 | IA reel **209** n0531 last Lawrence: County of Lawrence, **2 Oct 1850**, J. W. Haws. Elizabeth Flannery **4** + Frances Flannery **2** Ky | PROVEN as image | S1139 L1310 | B071 |
+| C1499 | IA reel **209** n0532 LETCHER District **2**, **23 Aug 1850**, P. H. Collier, stamped **125** | PROVEN as image | S1140 L1311 | B071 |
+| C1500 | Letcher 1850 mid/late isolate: n0540 Dist 2 **28 Aug** P. H. Collier; n0560 Dist 2 **13 Sep** stamped **139** Martha Day **18**; n0580 first district **27 Aug** J. M. Burns; n0590 first district **30 Aug** J. M. Burns | PROVEN as image | S1141 L1312 | B071 |
+| C1501 | Reel **209** ends n0591 MICROCOPY **432**; n0592 blank; n0593 **404**. imagecount **593**. Letcher 1850 **CLOSED** as compiled every-name + start/end isolate (not every-line original of 59 pages) | PROVEN as negative (compiled + isolate) | S1138 S1140 S1142 L1313 | B071 |
+| C1502 | S-K Johnson 1850 **LIVE**. N = NELSON **121A** / NIBERT **120A** / NICHELL **95B/96A/97B/108B** / NOTT **81B**. T = TACKETT / TODD / TRIMBLE / TURNER / TYSINGER. **No** Newman/Tincher. Reel **208** n0005 = Jessamine (1 Aug, Jonathan Keron) — not Johnson. County **CLOSED** compiled; original not isolated | PROVEN as compiled-index | S1143 S1144 L1314 | B071 |
+| C1503 | S-K Estill 1850 **LIVE** reconfirm: NEWMAN **85B / 91B** only (already **REJECT C1339 C1340**). No TINCHER. N = NEAL / NEWMAN / NICKERSON / NOLAND / NORTON | PROVEN as compiled-index (reconfirm) | S1145 L1315 | B071 |
+| C1504 | S-K Breathitt 1850 **LIVE** reconfirm: **no** Newman/Newnam. TINCHER **20B** only (already **REJECT C1377**). N = NAPIER / NEAL / NEWTON / NIECE / NIX / NOBLE / NOE | PROVEN as compiled-index (reconfirm) | S1146 L1316 | B071 |
+| C1505 | S-K Madison 1850 **LIVE** reconfirm: NEWMAN **250B** only (already **REJECT C1343**). No TINCHER | PROVEN as compiled-index (reconfirm) | S1147 L1317 | B071 |
+| C1506 | Still **no** free William × Rhoda license. kykinfolk Estill/Owsley marr **404**. Google SERP captured; no new free transcript | PROVEN as negative | S1148 L1318 | B071 |
+| C1507 | Parents William × Rhoda still **PROBABLE**. 1860 Rhoda widow + B.F. **7** **PROVEN**. #28 stands. Abner n0092 **POSSIBLE** only. 1850 couple unread as a living head | PROBABLE | S1155 L1319 | B071 |
+| C1508 | GT Lee WWI published tables **LIVE** **452540**. Luther Brandenburg + Underwood only. **No** Luther/John H./McCoy Newnam/Newman. Cards unread | PROVEN as compiled | S1149 L1320 | B059 B069 |
+| C1509 | FS **1146342 / 127913 / 156057** Incapsula **403** (R011-**63**). Tax / wills / cards unread. USGenNet `/wills/` **LIVE** — Jane Steele NEWMAN + Elizabeth NEWNAM + Mary F. TINCHER; **no** Samuel P. Clerk not re-asked. IA Solr M1509 KY **0** | PROVEN as access / compiled | S1150 S1151 S1152 L1321 L1322 | B065 B045 B069 |
+| C1510 | Hutchins FAQ **9938** `libraryanswers` **LIVE** cards **228–229**. No free June **1958** clip. Phone not re-asked | PROVEN as catalog | S1153 L1323 | B055 B080 |
+| C1511 | IA **602** still **515**. One line | PROVEN as catalog | S1154 L1324 | B088 |
+| C1512 | Grant 21 **not merged** vs David F. | PROVEN as same-person | S1155 L1325 | B081 |
+| C1513 | B084 POSSIBLE Jr only. Living 1950-line withheld | PROVEN as same-person | S1155 L1326 | B084 |
+| C1514 | No new deceased McCoy. Do not print 1962. WCHS not re-hit. Do not print 1966 | PROVEN as process | S1155 L1327 | B085 B082 |
+| C1515 | Did not walk Estill **1930 33-12 / 33-13**. Phones / R001/R007/R008 not re-asked | PROVEN as process | S1155 L1328 | B058 B089 |
+| C1516 | LOC sn89051008 JSON **seen** (`item.digitized: false`, pass123). IA Solr Post-Dispatch 1926 **0**. Film unread. Phone **479-968-4368** not re-asked | PROVEN as catalog | S1156 S1157 L1331 L1332 | B058 |
+| C1517 | Lawrence 1850 compiled PT1 (David May, RootsWeb `~kylawren/CEN1850PT1.html`) hh **1–500** **nil** Newman / Newnam / Tincher | PROVEN as compiled-index | S1158 L1333 | B071 |
+| C1518 | Lawrence 1850 PT2 hh **653 NEWMAN, Henry 44** M Blacksmith **GER** + Agnus **36** IRE + Valentine **16** / Agnus **13** / Peter **11** IRE. **REJECT** vs William × Rhoda | PROVEN as compiled + reject | S1159 L1334 | B071 |
+| C1519 | Lawrence 1850 PT2 hh **820 NEWMAN, Reynolds 45** M Farmer $2000 **NC** + Malinda **39** KY + Caroline **18** / Anna **16** / Smith **15** / John **14** / **William 12** (son) / Jemima **6** / Marion **4** / Isabel **1**. Wife Malinda ≠ Rhoda. **REJECT** | PROVEN as compiled + reject | S1159 L1335 | B071 |
+| C1520 | Lawrence 1850 tax list: **Newman, Reynolds** only. No Tincher. Combined with n0382 start / n0531 last isolate: county **CLOSED** compiled | PROVEN as compiled-index + isolate | S1160 S1139 L1336 | B071 |
+| C1521 | S-K Nicholas 1850 **LIVE**. N = NEAL / NEWPORT / NICHOLS / NORTON / NORVELL / NUGENT / NUNN / NESBIT. **No** Newman / Tincher. County **CLOSED** compiled | PROVEN as compiled-index | S1161 L1337 | B071 |
+| C1522 | S-K Boyle 1850 **LIVE**. N = NASH / NEALE / NEIL / NEILY / NEVIENS / NICHOLS / NICHOLSON / NOEL / NORTH / NORTHCUT. **No** Newman / Tincher. County **CLOSED** compiled | PROVEN as compiled-index | S1162 L1338 | B071 |
+| C1523 | S-K Wayne 1850 **LIVE**. N = NEAL / NEALE / NEALY / NEEL / **NEW** / NICHOLAS / NICKELS / NICKS / NIXON / NOAKES / NOBLE / NOKES / NORFLET / NORFLETT / NORMAN. **NEW ≠ Newman**. No Tincher. County **CLOSED** compiled | PROVEN as compiled-index | S1163 L1339 | B071 |
+| C1524 | Pulaski County Historical Society typed book IA `pulaskicountyken0000pula` index **NEWMAN 26-27-78** only. NEWBY 27-175. NIKIRK 14-164-260 | PROVEN as compiled-index | S1164 L1340 | B071 |
+| C1525 | IA reel **217** n0157 **image seen**. Pulaski Div **1**, **16 Aug 1850**, J. F. Beale, stamped **27**. hh **185 Andy I Newman 41** M Blacksmith $1570 **NC** + Mary **27** KY + Jackson **16** / William **14** / James H **12** / Andy W **10** / Mary A **8** / Susan **6** / Amanda **3**. Book p.26. **REJECT** vs William × Rhoda | PROVEN as image + reject | S1165 S1168 L1341 | B071 |
+| C1526 | IA reel **217** n0158 **image seen**. Pulaski Div **1**, **17 Aug 1850**, J. F. Beale. hh **194 Edward Newman 64** M Farmer **NC** + Anna **59** + Louiza **24** + I M **17** + Manerva Hubble **1**. Book p.27. **REJECT** | PROVEN as image + reject | S1166 S1168 L1342 | B071 |
+| C1527 | IA reel **217** n0212 **image seen**. Pulaski Div **1**, **7 Sep 1850**, J. F. Beale, stamped **42** (SK **42A**). hh **583 Will I Newman 31** M Farmer $400 **Va** + Rachel **23** Ky + Sarah A **5** + Elizabeth **4** + Martha **1**. Book p.78. Wife Rachel ≠ Rhoda. Children ≠ Decatur/Leaner. **REJECT** | PROVEN as image + reject | S1167 S1168 L1343 | B071 |
+| C1528 | SK Pulaski **NEWNAM 14A/14B**: n0131–n0132 is the page-14 window (1 July, J. F. Beale, hh **1–19**). Visually **nil** Newnam. Book p.14 = NIKIRK / Dutton / Newkirk. SK 14A/14B is a Newkirk misread or not this couple | PROVEN as image + negative | S1169 L1344 | B071 |
+| C1529 | Pulaski 1850 **CLOSED** compiled + originals for all three Newman heads (Andy I / Edward / Will I). No William × Rhoda | PROVEN as county close | S1164–S1169 L1345 | B071 |
+| C1530 | Bath 1850 2nd Div pages **5–7** (n0384–n0386) **image seen**. Anderson/Scott/Magowan/Sudduth/Ragland/Stewart/probable Newland/Carr/Bailey. **No** Tincher. SK TINCHER **6A/6B/7A** is not this window | PROVEN as image + negative | S1170 L1346 | B071 |
+| C1531 | Bath 1850 1st Div isolated: n0470 **1st Division** 6 Sep stamped **89**; n0480 **1st Division** 11 Sep stamped **99**. SK TINCHER **6A/6B/7A** originals still residual at the 1st Div start | PROVEN as image (headers) | S1171 L1347 | B071 |
+| C1532 | Fleming 1850 Dist **1** isolated: n0398 **4 Sep**, W. P. Pope, stamped **310**. SK NEWMAN **309A / 331B / 379B / 380B / 386B / 389A / 395A**. n0397 Williams/Howe/Porter — Newman **309A** not on that sheet. Originals of those pages residual | PROVEN as compiled-index + isolate | S1172 S1173 L1348 | B071 |
+| C1533 | Reel **208** n0005–n0251 Jessamine; n0253 Kenton start; n0643 MICROCOPY 432 ROLL **208** END. Johnson original not found between Jessamine end and Kenton start on this IA scan. Compiled already **nil** (**C1502**) | PROVEN as image / catalog | S1174 L1349 | B071 |
+| C1534 | Still **no** free William × Rhoda license. kykinfolk / Google SERP; no new transcript | PROVEN as negative | S1175 L1350 | B071 |
+| C1535 | Parents William × Rhoda still **PROBABLE**. 1860 Rhoda widow + B.F. **7** **PROVEN**. #28 stands. Abner n0092 **POSSIBLE** only. 1850 couple unread as a living head | PROBABLE | S1180 L1351 | B071 |
+| C1536 | GT Lee WWI published tables **LIVE** **452540**. Luther Brandenburg + Underwood only. Cards unread | PROVEN as compiled | S1176 L1352 | B059 B069 |
+| C1537 | FS **1146342 / 127913 / 156057** Incapsula **403** (R011-**64**). Tax / wills / cards unread. USGenNet `/wills/` **LIVE** — Jane Steele / Elizabeth / Mary F. TINCHER; **no** Samuel P. Clerk not re-asked. IA Solr M1509 KY **0** | PROVEN as access / compiled | S1177 S1178 L1353 L1354 | B065 B045 B069 |
+| C1538 | Hutchins FAQ **9938** `libraryanswers` **LIVE** cards **228–229**. No free June **1958** clip. Phone not re-asked | PROVEN as catalog | S1179 L1355 | B055 B080 |
+| C1539 | IA **602** still **515**. One line | PROVEN as catalog | S1179 L1356 | B088 |
+| C1540 | Grant 21 **not merged**. B084 POSSIBLE Jr only. No new McCoy. Do not print 1966 or 1962. Did not walk **33-12 / 33-13**. Phones / R001/R007/R008 not re-asked | PROVEN as process / same-person | S1180 L1357–L1360 | B081 B084 B085 B082 B089 |
+| C1541 | LOC sn89051008 JSON **seen** (`item.digitized: false`, pass124). IA Solr Post-Dispatch 1926 **0**. Film unread. Phone not re-asked | PROVEN as catalog | S1181 S1182 L1361 | B058 |
+| C1542 | **Correction to C1531:** IA reel **191** n0470 **image seen** is **2d Division** Bath, **6 Sep 1850**, W. W. Apperson, stamped **89**, enumerator p. **45**. Not 1st Division | PROVEN as image + correction | S1183 L1362 | B071 |
+| C1543 | Bath 2nd Div page remap (SK surnames): n0386 = **4A** Stewart; n0387 = **4B** Shrout/Traylor; n0388 = **5A** Spence; n0390 = **6A**; n0391 = **6B**; n0392 = **7A** | PROVEN as image + index | S1184 L1363 | B071 |
+| C1544 | n0390 **image seen**. 2d Div **23 Jul 1850**, stamped **6** (SK **6A**). hh **73 John Tincher 26** farmer + Ann **17**. **REJECT** vs William × Rhoda | PROVEN as image + reject | S1185 L1364 | B071 |
+| C1545 | n0391 **image seen**. 2d Div **23 Jul 1850**, p. **12** (SK **6B**; SMOOT at foot). hh **78 Francis Tincher 36** laborer **VA** + Nancy **36** + Louisa **18** + Alsey A **16** + Aley A **14** + Kitty **12**. **REJECT** | PROVEN as image + reject | S1186 L1365 | B071 |
+| C1546 | n0392 **image seen**. 2d Div **28 Jul 1850**, stamped **13** (SK **7A**). hh **85 John S Tincher 47** farmer **VA** + Betsy **42** + Andrew **26** laborer + Abigail **16** + William **20** (son) + George **13** + Mary **5** + Andrew **2**. **REJECT** | PROVEN as image + reject | S1187 L1366 | B071 |
+| C1547 | Bath TINCHER **6A/6B/7A** **CLOSED** originals. No William × Rhoda. No Newman hidden under Tincher on those sheets | PROVEN as county-page close | S1185–S1187 L1367 | B071 |
+| C1548 | Bath 1850 **CLOSED** compiled + Tincher originals. SK N = NELSON/NEWLAND/NICHOL/NICHOLAS only | PROVEN as county close | S1171 S1188 L1368 | B071 |
+| C1549 | Fleming n0396 **image seen**. Dist **1**, **4 Sep 1850**, W. P. Boyd, stamped **309**. Alexander **42** + Michael **21** in Sapp hh; hh **703 John Newman 55** KY + Elizabeth **48** + six children. **REJECT** | PROVEN as image + reject | S1189 L1369 | B071 |
+| C1550 | Fleming n0443 **image seen**. Dist **1**, **27 Sep 1850**. hh **1022 John Newman 78** auctioneer $600 **VA** + Elizabeth **63** **MD**. SK **331B**. **REJECT** | PROVEN as image + reject | S1190 L1370 | B071 |
+| C1551 | Fleming n0539 **image seen**. 2nd Div **27 Aug 1850**. hh **270 Thomas Newman 40** KY + Margarett **36** + James M **14** IN + Elisha **10** + John F **7** + Sarah N **5** + Thomas **2**. **REJECT** | PROVEN as image + reject | S1191 L1371 | B071 |
+| C1552 | Fleming compiled (Rigdon): Samuel **37** × Sarah; James **37** × Mary Ann; John D **48** × Manerva Jane. All **REJECT**. No William × Rhoda | PROVEN as compiled + reject | S1192 L1372 | B071 |
+| C1553 | Fleming Dist **1** Newman originals **CLOSED**. 395A original residual (n0550 is stamped **385**). 2nd Div remaining pages optional | PROVEN as partial county close | S1193 L1373 | B071 |
+| C1554 | Still **no** free William × Rhoda license. mytrees 1845 unused | PROVEN as negative | S1194 L1374 | B071 |
+| C1555 | Parents still **PROBABLE**. 1860 Rhoda widow + B.F. **7** **PROVEN**. #28 stands. Abner n0092 **POSSIBLE** only. 1850 couple unread as a living head | PROBABLE | S1210 L1375 | B071 |
+| C1556 | GT Lee WWI **LIVE** **452540**. Luther Brandenburg + Underwood only. Cards unread | PROVEN as compiled | S1195 L1376 | B059 B069 |
+| C1557 | FS **1146342 / 127913 / 156057** SPA ~19 KB `isLoggedIn` (R011-**65**). Images unread. USGenNet `/wills/` **LIVE** — no Samuel P. IA Solr M1509 **0** | PROVEN as access / compiled | S1196 S1197 L1377 | B065 B045 B069 |
+| C1558 | Hutchins FAQ **9938** **LIVE** cards **228–229**. No free June **1958** clip. Phone not re-asked | PROVEN as catalog | S1198 L1378 | B055 B080 |
+| C1559 | IA **602** still **515** (pass123 metadata). One line | PROVEN as catalog | S1199 L1379 | B088 |
+| C1560 | Grant 21 **not merged**. B084 POSSIBLE Jr only. No new McCoy. Do not print 1966 or 1962. Did not walk **33-12 / 33-13**. Phones / R001/R007/R008 not re-asked | PROVEN as process | S1210 L1380–L1390 | B081 B084 B085 B082 B089 |
 | C1246 | Same-person write-up pass 108: 1930 Estill **33-5 + 33-7 + 33-8 + 33-9** all visually read — Boyd+Allie **absent**. 33-5 and 33-9 are no longer unpublished on free film. 1958 David G still **POSSIBLE** only vs Frank. #20/#26/#27 open. Do not print 1966, 1976, Floyd-as-Boyd, 1962 as McCoy death, or 1942 Combs charge as fact | PROVEN as analysis | S943 L1083 | B089 B055 B080 |
 
 ## Same-person merges (Hard Rule 3)
@@ -1893,7 +2022,7 @@
 | 1850 Estill David J 24 + Nancy J + Mary F 2 + Robert 1 + William × Rhoda | Newman + Estill 1850 | Wife Nancy J ≠ Rhoda; children Mary F/Robert ≠ Decatur/Leaner; age 24 | **Rejected (C1339)** |
 | 1850 Estill Samuel W ~50 + William 4 + William × Rhoda | Given William + Newman + Estill 1850 | Age 4 vs adult husband; father Samuel W; mother Sally | **Rejected (C1340 / C1371)** |
 | 1850 Madison T. T. Newman 34 M.D. Miss. + William × Rhoda | Newman + Madison 1850 | Occupation M.D.; birth Mississippi; wife Mary C; children Mary/Lafayette/Andrew/Elizabeth | **Rejected (C1343)** |
-| 1850 Clay William 42 M Tn. Hibbard boarder + William × Rhoda | Given William + Newman + 1850 KY | Tennessee birth; no wife/children in house; Clay ≠ Owsley/Estill cluster | **Rejected (C1347)** |
+| 1850 Clay William 42 M Tn. Hibbard boarder + William × Rhoda | Given William + Newman + 1850 KY | Tennessee birth; no wife/children in house; Clay ≠ Owsley/Estill cluster | **Rejected (C1347)** — original now **image seen (C1491 C1492)** |
 | 1850 Perry Rhoda Allen 30 (Jonathan Allen 214) + Rhoda Tincher | Given Rhoda + Perry 1850 | Surname Allen; m. 25 Mar 1847 Perry | **Rejected (C1352)** |
 | 1850 Whitley NEWBY 399A + Newman | N-surname + Whitley 1850 | NEWBY ≠ Newman | **Rejected (C1353)** |
 | 1850 Garrard NEWTON / Rockcastle NEWCOM + Newman | N-surname + 1850 KY | NEWTON / NEWCOM ≠ Newman | **Rejected (C1349 / C1350)** |
@@ -1910,4 +2039,22 @@
 | Laurel 1850 remaining N + William × Rhoda | Laurel reel 209 name columns | No Newman/Tincher on n0331–n0381 | **County-level nil (C1418)** |
 | Montgomery 1850 remaining N + William × Rhoda | Montgomery reel 214 name columns | No Newman/Tincher on n0061–n0171 | **County-level nil (C1419)** |
 | Clay 1840 after n0099 + William Newman | Clay 1840 odd leaves | No Newman/Tincher through recap n0135 | **County-level nil (C1423)** |
+| Knox 1850 remaining namecols + William × Rhoda | Knox reel 209 n0005–n0158 two-ups + OCR | No Newman/Tincher on 77 two-ups / OCR tokens | **County-level nil (C1472)** |
+| Floyd 1850 compiled N/T + William × Rhoda | Floyd family-name index + n0003 isolate | N = NEAL…NUSOM; T = TACKETT…TYRA; no Newman/Tincher | **County-level compiled nil (C1474 C1477)** |
+| Pike 1850 S-K N/T + William × Rhoda | S-K Pike LIVE HTML | NEW/NEWSOM/NICHOLS/NUNERY only; no Newman/Tincher | **County-level compiled nil (C1480 C1481)** |
+| Harlan 1850 S-K N/T + William × Rhoda | S-K Harlan LIVE HTML | NANCE…NUNN; TINSLEY; no Newman/Tincher | **County-level compiled nil (C1482 C1483)** |
+| Letcher 1850 every-name + isolate + William × Rhoda | Wayback 2013 RootsWeb 2,509 names + n0532–n0590 isolate | N = Nicholas/Niece/NS; T = Taylor/Thacker/Thomas/Tyre; no Newman/Tincher | **County-level compiled + isolate nil (C1497 C1501)** |
+| Johnson 1850 S-K N/T + William × Rhoda | S-K Johnson LIVE HTML | NELSON/NIBERT/NICHELL/NOTT; no Newman/Tincher | **County-level compiled nil (C1502)** |
+| Estill 1850 S-K reconfirm + William × Rhoda | S-K Estill LIVE HTML | NEWMAN 85B/91B only (already REJECT) | **County-level compiled reconfirm (C1503)** |
+| Breathitt 1850 S-K reconfirm + William × Rhoda | S-K Breathitt LIVE HTML | TINCHER 20B only (already REJECT); no Newman | **County-level compiled reconfirm (C1504)** |
+| Madison 1850 S-K reconfirm + William × Rhoda | S-K Madison LIVE HTML | NEWMAN 250B only (already REJECT) | **County-level compiled reconfirm (C1505)** |
+| Lawrence 1850 compiled + isolate + William × Rhoda | David May PT1+PT2 + tax + n0382/n0531 | Henry 44 GER REJECT; Reynolds 45 NC × Malinda REJECT; tax Reynolds only | **County-level compiled + isolate nil (C1517–C1520)** |
+| Nicholas 1850 S-K N/T + William × Rhoda | S-K Nicholas LIVE HTML | NEAL/NEWPORT/NICHOLS…; no Newman/Tincher | **County-level compiled nil (C1521)** |
+| Boyle 1850 S-K N/T + William × Rhoda | S-K Boyle LIVE HTML | NASH…NORTHCUT; no Newman/Tincher | **County-level compiled nil (C1522)** |
+| Wayne 1850 S-K N/T + William × Rhoda | S-K Wayne LIVE HTML | NEW only; no Newman/Tincher | **County-level compiled nil (C1523)** |
+| Pulaski 1850 Andy I / Edward / Will I + William × Rhoda | IA reel 217 originals + book 26-27-78 | Andy I 41 NC × Mary REJECT; Edward 64 NC × Anna REJECT; Will I 31 VA × Rachel REJECT (SK 42A) | **County-level original + compiled close (C1525–C1529)** |
+| Bath 1850 2nd Div pp 5–7 + William × Rhoda | IA reel 191 n0384–n0386 | No Tincher on 2nd Div pages 5–7 | **Division-page nil (C1530)**. 1st Div TINCHER 6–7 residual |
+| Fleming 1850 SK NEWMAN pages + William × Rhoda | S-K Fleming + n0398 isolate | NEWMAN 309A/331B/379–395 listed; originals unread | **Index hit, originals residual (C1532)** |
+| Bath 1850 TINCHER 6A/6B/7A + William × Rhoda | IA reel 191 n0390–n0392 originals | John 26×Ann; Francis 36 VA×Nancy; John S 47 VA×Betsy + William 20 son | **Page-level original close (C1544–C1548)** |
+| Fleming 1850 Newman heads + William × Rhoda | n0396 / n0443 / n0539 + Rigdon compiled | John 55; John 78 VA; Thomas 40; Samuel 37; James 37; John D 48 — all REJECT | **Original + compiled reject (C1549–C1553)** |
 

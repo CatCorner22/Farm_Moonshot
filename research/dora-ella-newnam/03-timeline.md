@@ -372,7 +372,7 @@ Place as it was *at the date*; modern equivalent in brackets. Flag impossibiliti
 | 1840 | Fayette | FAN **PROVEN** as image: n0202 **Andrew M. McCalla** / Lexington | Fayette Co., KY | C1406 | S1053 |
 | 1840 | Estill | FAN **PROVEN** as county isolation: n0097 header **Estill County**. Window ~n0090–n0155. fishergenes p.68 **nil** Newman/Tincher. County not complete | Estill Co., KY | C1407 C1408 C1409 | S1057 S1058 |
 | 1850 | Breathitt | FAN **PROVEN** as every-name compiled + original: **nil** Newman/Newnam. **TINCHER 20B** now image-seen — Wm. **45** + Matilda **REJECT** | Breathitt Co., KY | C1346 C1364 C1377 | S1018 S1019 S1034 |
-| 1850 | Clay | FAN **PROVEN** as compiled-index + reject: William Newman **42** M Tn. in Hibbard hh **54**. No Rhoda | Clay Co., KY | C1347 | S1020 |
+| 1850 | Clay | FAN **PROVEN** as compiled-index + original: William Newman **42** M Tn. in Hibbard hh **54**. No Rhoda. Original now **image seen** n0009 (**C1491**) | Clay Co., KY | C1347 C1491 C1492 | S1020 S1132 |
 | 1850 | Garrard / Rockcastle | FAN **PROVEN** as compiled-index: Garrard **NEWTON** only; Rockcastle **NEWCOM / NEWCUM**. **No Newman** | Garrard / Rockcastle, KY | C1349 C1350 | S1021 S1022 |
 | 1850 | Perry | FAN **PROVEN** as compiled-index: S-K N = **NAPIER / NOLAND**. Wilson + annotated **nil** Newman | Perry Co., KY | C1352 | S1023 |
 | 1850 | Whitley | FAN **PROVEN** as compiled-index: **NEWBY 399A** ≠ Newman. **No Newman** | Whitley Co., KY | C1353 | S1024 |
@@ -381,6 +381,37 @@ Place as it was *at the date*; modern equivalent in brackets. Flag impossibiliti
 | 1850 | Montgomery Dist 2 | FAN **PROVEN** as image + negative: reel **214** n0061–n0171 name columns walked **nil** Newman/Tincher. n0172+ **MORGAN**. County walk **CLOSED** | Montgomery Co., KY | C1419 | S1065 |
 | **3 Oct 1840[?]** | Estill | FAN **PROVEN** as image: n0146 **John H Recastle** Estill certificate. Window n0090–n0155 **CLOSED**. **POSSIBLE** Abner Newman n0092 **NOT** William | Estill Co., KY | C1420 C1421 C1422 | S1066 S1067 S1068 |
 | 1840 | Clay | FAN **PROVEN** as image + negative: odd leaves n0101–n0133 **nil** Newman/Tincher. n0135 Recapitulation pages **1–23**. County **CLOSED** | Clay Co., KY | C1423 | S1069 |
+| 1840 | Clark | FAN **PROVEN** as image + negative: odd name leaves n0005–n0081 **visually** walked **nil** Newman/Tincher. n0081 **Total County** / Winchester. Name walk **CLOSED** | Clark Co., KY | C1433 C1434 | S1079 S1080 |
+| **20 Sept 1850** | Owsley stamped **309** | FAN **PROVEN** as image + reject: hh **132 Thos. Tincher 22** + siblings. **Not** William × Rhoda. Remaining Owsley after 300B n0394–n0432 **nil** the couple. n0433 **Pendleton** | Owsley Co., KY | C1435 C1436 C1437 | S1081 S1083 S1084 |
+| 1850 | Knox | FAN **PROVEN** as isolation + sampled negative: n0005–n0158 Knox (Barbourville n0158; n0160 **Larue**). Visual samples + OCR **nil** Newman/Tincher. Remaining leaves residual | Knox Co., KY | C1452 C1453 C1454 | S1095 S1096 S1098 |
+| 1850 | Morgan | FAN **PROVEN** as compiled-index + image: 1850Index.doc N = Needham/Nickell/Noble/Norman only. n0351 November certificate. County **CLOSED** | Morgan Co., KY | C1455 C1457 C1458 | S1100 S1102 S1104 |
+| 1850 | Knox | FAN **PROVEN** as every-line namecol + 77 two-ups + OCR **token-nil**. County walk **CLOSED**. n0160 Larue not walked | Knox Co., KY | C1472 C1473 | S1113 S1114 |
+| **20 July 1850** | Floyd stamped **813** | FAN **PROVEN** as image: n0003 County of Floyd, David Cooley. Daniel Steel **59** physician Stokes N.C. | Floyd Co., KY | C1475 | S1116 |
+| 1850 | Floyd | FAN **PROVEN** as compiled family-name + isolate: N = NEAL…NUSOM; T no TINCHER. n0150 Barren; n0300 Franklin. County **CLOSED** (not every-line original) | Floyd Co., KY | C1474 C1476 C1477 | S1115 S1117 |
+| **26 July 1850** | Clay stamped **299** | FAN **PROVEN** as image + reject: n0009 hh **54/54 John Hibbard 75** Va + Margaret **71** + John Davis **12** + Margaret **10** + James **10** + Franklin **5** Mo + **William Newman 42** M Ten. **Not** William × Rhoda | Clay Co., KY | C1491 C1492 | S1131 S1132 S1133 |
+| 1850 | Pike | FAN **PROVEN** as compiled-index + start isolate: S-K N = NEW/NEWSOM/NICHOLS/NUNERY; T no TINCHER. n0005 County of Pike. County **CLOSED** compiled | Pike Co., KY | C1480 C1481 | S1120 S1121 |
+| 1850 | Harlan | FAN **PROVEN** as compiled-index: S-K N = NANCE…NUNN; T = TINSLEY. **No** Newman/Tincher. IA reel 206 = Jefferson. County **CLOSED** compiled | Harlan Co., KY | C1482 C1483 | S1122 S1123 |
+| **2 Oct 1850** | Lawrence last | FAN **PROVEN** as image: n0531 County of Lawrence, J. W. Haws. Elizabeth Flannery **4** | Lawrence Co., KY | C1498 | S1139 |
+| **23 Aug 1850** | Letcher Dist 2 stamped **125** | FAN **PROVEN** as image: n0532 P. H. Collier. County start isolated | Letcher Co., KY | C1499 | S1140 |
+| **13 Sep 1850** | Letcher Dist 2 stamped **139** | FAN **PROVEN** as image: n0560 Martha Day **18** | Letcher Co., KY | C1500 | S1141 |
+| 1850 | Letcher | FAN **PROVEN** as compiled every-name + isolate: Wayback 2,509 names pages **125a–155b**; N = Nicholas/Niece/NS; T no TINCHER. n0591 MICROCOPY 432. County **CLOSED** | Letcher Co., KY | C1497 C1501 | S1138 S1142 |
+| 1850 | Johnson | FAN **PROVEN** as compiled-index: S-K N = NELSON/NIBERT/NICHELL/NOTT. **No** Newman/Tincher. Reel 208 n0005 = Jessamine. County **CLOSED** compiled | Johnson Co., KY | C1502 | S1143 S1144 |
+| 1850 | Estill / Breathitt / Madison | FAN **PROVEN** as compiled reconfirm: Estill NEWMAN 85B/91B already REJECT; Breathitt TINCHER 20B already REJECT; Madison NEWMAN 250B already REJECT | KY | C1503 C1504 C1505 | S1145 S1146 S1147 |
+| 1850 | Lawrence | FAN **PROVEN** as compiled + isolate: David May PT1 hh **1–500** nil; PT2 Henry **44** GER **REJECT**; Reynolds **45** NC × Malinda **REJECT**; tax Reynolds only. n0382 start / n0531 last. County **CLOSED** compiled | Lawrence Co., KY | C1517–C1520 | S1158–S1160 |
+| **16 Aug 1850** | Pulaski Div 1 stamped **27** | FAN **PROVEN** as image + reject: n0157 hh **185 Andy I Newman 41** NC blacksmith $1570 + Mary **27** KY + six children including William **14**. **Not** William × Rhoda | Pulaski Co., KY | C1525 | S1165 S1168 |
+| **17 Aug 1850** | Pulaski Div 1 | FAN **PROVEN** as image + reject: n0158 hh **194 Edward Newman 64** NC farmer + Anna **59**. **Not** William × Rhoda | Pulaski Co., KY | C1526 | S1166 S1168 |
+| **7 Sep 1850** | Pulaski Div 1 stamped **42** | FAN **PROVEN** as image + reject: n0212 hh **583 Will I Newman 31** VA farmer $400 + Rachel **23** + Sarah A **5** + Elizabeth **4** + Martha **1**. SK **42A**. **Not** William × Rhoda | Pulaski Co., KY | C1527 | S1167 S1168 |
+| 1850 | Pulaski | FAN **PROVEN** as compiled + originals: book NEWMAN **26-27-78** only. SK 14A/14B = page-14 / NIKIRK. County **CLOSED** | Pulaski Co., KY | C1524 C1528 C1529 | S1164 S1169 |
+| 1850 | Nicholas / Boyle / Wayne | FAN **PROVEN** as compiled-index: no Newman/Tincher. Wayne **NEW** only. Counties **CLOSED** compiled | KY | C1521 C1522 C1523 | S1161 S1162 S1163 |
+| 1850 | Bath 2nd Div pp **5–7** | FAN **PROVEN** as image + negative: n0384–n0386 nil Tincher. SK TINCHER **6A/6B/7A** is not this window | Bath Co., KY | C1530 | S1170 |
+| **6 / 11 Sep 1850** | Bath 1st Div stamped **89 / 99** | FAN **PROVEN** as header isolate: n0470 / n0480 1st Division. TINCHER **6–7** originals residual | Bath Co., KY | C1531 | S1171 |
+| **4 Sep 1850** | Fleming Dist 1 stamped **310** | FAN **PROVEN** as image + index: n0398 W. P. Pope. SK NEWMAN **309A/331B/379–395**. Originals residual | Fleming Co., KY | C1532 | S1172 S1173 |
+| **23 Jul 1850** | Bath 2nd Div stamped **6** | FAN **PROVEN** as image + reject: n0390 hh **73 John Tincher 26** + Ann **17**. SK **6A** | Bath Co., KY | C1544 | S1185 |
+| **23 Jul 1850** | Bath 2nd Div p. **12** | FAN **PROVEN** as image + reject: n0391 hh **78 Francis Tincher 36** VA laborer + Nancy + four daughters. SK **6B** | Bath Co., KY | C1545 | S1186 |
+| **28 Jul 1850** | Bath 2nd Div stamped **13** | FAN **PROVEN** as image + reject: n0392 hh **85 John S Tincher 47** VA + Betsy **42** + William **20** (son). SK **7A** | Bath Co., KY | C1546 | S1187 |
+| **4 Sep 1850** | Fleming Dist 1 stamped **309** | FAN **PROVEN** as image + reject: n0396 John Newman **55** × Elizabeth; Alexander **42** | Fleming Co., KY | C1549 | S1189 |
+| **27 Sep 1850** | Fleming Dist 1 | FAN **PROVEN** as image + reject: n0443 John Newman **78** VA auctioneer × Elizabeth **63** MD. SK **331B** | Fleming Co., KY | C1550 | S1190 |
+| **27 Aug 1850** | Fleming 2nd Div | FAN **PROVEN** as image + reject: n0539 Thomas Newman **40** × Margarett | Fleming Co., KY | C1551 | S1191 |
 
 
 **Impossibility flags:** None. Mother ~29 at Dora’s 1871 birth (Mary b. 1842). Dora age 14 at marriage is legal/period-possible (KY) though young; 1880 age 8 corroborates. Two children born before Coy in the 1886–1889 window would have Dora aged 15–18 — possible. No event after 23 Aug 1926 is attributed to her.

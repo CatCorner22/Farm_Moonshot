@@ -66,6 +66,13 @@
 60. [Pass 115. The 1850 couple is not in Estill or Madison](#pass-115-the-1850-couple-is-not-in-estill-or-madison)
 61. [Pass 116. Clark 91A and Breathitt 20B are other Tinchers](#pass-116-clark-91a-and-breathitt-20b-are-other-tinchers)
 62. [Pass 117. The remaining name columns are empty](#pass-117-the-remaining-name-columns-are-empty)
+63. [Pass 118. Clark’s names end at the county total](#pass-118-clarks-names-end-at-the-county-total)
+64. [Pass 119. Morgan’s index has no Newman](#pass-119-morgans-index-has-no-newman)
+65. [Pass 120. Knox remaining, Floyd, Pike, and Harlan](#pass-120-knox-remaining-floyd-pike-and-harlan)
+66. [Pass 121. Clay household 54 is a Tennessee boarder](#pass-121-clay-household-54-is-a-tennessee-boarder)
+67. [Pass 122. Letcher’s every-name list has no Newman](#pass-122-letchers-every-name-list-has-no-newman)
+68. [Pass 123. Pulaski’s three Newman heads are other men](#pass-123-pulaskis-three-newman-heads-are-other-men)
+69. [Pass 124. Bath Tincher and Fleming Newman are other households](#pass-124-bath-tincher-and-fleming-newman-are-other-households)
 
 ---
 
@@ -1056,7 +1063,41 @@ Parents remain **probable**. William himself is still not on a living 1850 sched
 
 The other film items did not move. Hutchins FAQ 9938 returned 404. No free June 1958 *Citizen* clip. No new M1509 card. FamilySearch 1146342 is still a sign-in wall — roadblock step 59. Internet Archive reel 602 is still 515 images. USGenNet Lee wills, live this pass, still name Jane Steele Newman, Elizabeth Newnam, and Mary F. Newnam Tincher — not Samuel P. Certificate 17762 is unread. Do not print 1966. No new deceased McCoy or Rissie row. Do not print 1962. Grant, twenty-one, is still not merged with David F. David G. of 1984 is still **possible** as a junior only. Living 1950-line descendants are withheld. Districts 33-12 and 33-13 were not walked. Do not re-ask Tyler Phillips, Pope 479-968-4368, or Hutchins 859-985-3364. [C1426–C1431] [S1070–S1076]
 
+### Pass 118. Clark’s names end at the county total
 
+August 1926 is still on film. The Library of Congress item for the *Dardanelle Post-Dispatch*, LCCN sn89051008, still reads `item.digitized: false`. Internet Archive Solr for that title in 1926 returned zero items again. Pope County Library Roll 5 is unchanged. The phone, 479-968-4368, is already recorded. [C1432] [S1077] [S1078]
+
+Clark 1840 names are finished. Odd leaves n0005 through n0081 were walked: Haggard, Hampton, Bush, Quisenberry, Combs, Judy, Flynn. No Newman or Tincher head. Leaf n0081 closes with the county total for Winchester. The certificate remains n0083. [C1433] [C1434] [S1079] [S1080]
+
+Owsley 1850 after the Newman cluster is finished. Name columns from n0394 through n0432 were walked. Leaf n0431 is still Owsley — 27 September 1850, Luther Broaddus. Leaf n0433 is Pendleton District 2: 27 August 1850, William Taylor. [C1435] [S1081] [S1082]
+
+The S-K Tincher page at stamped 309 is now an original. Household 132 is Thomas Tincher, twenty-two, farmer, $215, Kentucky, with Margaret and a house of younger Tinchers. There is no William, no Rhoda about twenty-seven, no Decatur, no infant B. F. Rejected. The compiled index still lists Newman only on 299B–300A. [C1436] [C1437] [S1083] [S1084]
+
+Knox 1850 on reel 209 is isolated from n0006 (W. W. Pope, 27 July) through Barbourville at n0158 (2 October). Morgan 1850 on reel 214 is isolated from n0174 (L. P. Turner) through n0351; n0352 is Muhlenberg. Montage samples on both counties show no Newman head. The full name-column walks remain. [C1438] [C1439] [S1086] [S1087]
+
+No free license for William Newman and Rhoda Tincher appeared. H. H. Newman and Belinda Tincher, 27 February 1840 in Estill, stay a different couple. [C1440]
+
+Parents remain **probable**. William himself is still not on a living 1850 schedule. The 1860 widow Rhoda with B. F., seven, is still **proven**. Conflict #28 stands. [C1441]
+
+The other film items did not move. Hutchins FAQ 9938 is live again at libraryanswers.berea.edu: the 1899–1983 *Citizen* cards sit between rooms 228 and 229. The libraryguides path is still 404. No free June 1958 *Citizen* clip. No new M1509 card. FamilySearch 1146342, 127913, and 156057 returned 404 — roadblock step 60. Internet Archive reel 602 is still 515 images. USGenNet Lee wills, live this pass, still name Jane Steele Newman, Elizabeth Newnam, and Mary F. Newnam Tincher — not Samuel P. Certificate 17762 is unread. Do not print 1966. No new deceased McCoy or Rissie row. Do not print 1962. Grant, twenty-one, is still not merged with David F. David G. of 1984 is still **possible** as a junior only. Living 1950-line descendants are withheld. Districts 33-12 and 33-13 were not walked. Do not re-ask Tyler Phillips, Pope 479-968-4368, or Hutchins 859-985-3364. [C1442–C1450] [S1088–S1092]
+
+### Pass 119. Morgan’s index has no Newman
+
+August 1926 is still on film. The Library of Congress item for the *Dardanelle Post-Dispatch*, LCCN sn89051008, still reads `item.digitized: false`. Internet Archive Solr for that title in 1926 returned zero items again. Pope County Library Roll 5 is unchanged. The phone, 479-968-4368, is already recorded. [C1451] [S1093] [S1094]
+
+Knox 1850 starts one leaf earlier than the last isolate. Leaf n0005 is Knox — 27 July 1850, W. W. Pope. Leaf n0158 is Barbourville, still Knox, 2 October. Leaf n0159 is a blank divider. Leaf n0160 is Larue: Hamilton District, 3 August 1850, J. H. Hamlin. Larue was not walked. [C1452] [C1453] [S1095] [S1096] [S1097]
+
+Name columns from n0005 through n0158 are on disk. Machine reads (page and household-head crops) found no newman, newnam, or tincher token. Original name columns were read at n0006, n0012, n0024, n0032, n0040, n0048, n0056, n0064, n0072, n0080, n0088, n0096, n0104, n0112, n0120, n0136, n0144, and n0158: Bryant, Tye, Ingram, Farmer, Hopper, Barton, Haynes, Stewart, Disney, Helton, Taylor. No Newman or Tincher head on those leaves. The unread leaves between the samples remain. [C1454] [S1098] [S1099]
+
+Morgan 1850 is finished. KYGenWeb’s 1850 surname index — a Word file extracted from the live county page — lists Needham, Nickell, Noble, and Norman under N. There is no Newman, no Newnam, no Tincher. “Newton” in the household files is a given name: Newton P. Reed, a lawyer, and children named Newton. [C1455] [C1456] [S1100] [S1101]
+
+Leaf n0351 is the last Morgan sheet on the reel: Willis Williamson, then the assistant marshal’s certificate for the county of Morgan, November 1850. Leaf n0352 is Muhlenberg District 1. [C1457] [C1458] [S1102] [S1103]
+
+No free license for William Newman and Rhoda Tincher appeared. An authored 1845 tree row was not used. H. H. Newman and Belinda Tincher, 27 February 1840 in Estill, stay a different couple. [C1459]
+
+Parents remain **probable**. William himself is still not on a living 1850 schedule. The 1860 widow Rhoda with B. F., seven, is still **proven**. Conflict #28 stands. [C1460]
+
+The other film items did not move. Hutchins FAQ 9938 is live at libraryanswers.berea.edu: the 1899–1983 *Citizen* cards sit between rooms 228 and 229. No free June 1958 *Citizen* clip. No new M1509 card. FamilySearch 1146342, 127913, and 156057 returned 404 — roadblock step 61. Internet Archive reel 602 is still 515 images. USGenNet Lee wills, live this pass, still name Jane Steele Newman, Elizabeth Newnam, and Mary F. Newnam Tincher — not Samuel P. Certificate 17762 is unread. Do not print 1966. No new deceased McCoy or Rissie row. Do not print 1962. Grant, twenty-one, is still not merged with David F. David G. of 1984 is still **possible** as a junior only. Living 1950-line descendants are withheld. Districts 33-12 and 33-13 were not walked. Do not re-ask Tyler Phillips, Pope 479-968-4368, or Hutchins 859-985-3364. [C1461–C1470] [S1106–S1110]
 
 In Madison County in 1950 a **Dewey** Newman, twenty-six, is not David F. or Frank of Berea. [C522] **Shelly** Newman, fifty-seven, and **Grace**, fifty-one, of Richmond are **probable** Shelby and Grace Brandenburg. [C523] They are not the contractor. A 1958 David G. Newman, seventy, of Madison remains **possible** only. [C473]
 
@@ -1085,6 +1126,71 @@ The 1926 week she died is still unread in original paper. *The Yell County Journ
 The Greene County, Missouri, 1900 hunt for a second Thomas A. Stone household is finished on free film. Enumeration districts 37 through 43 — every A-side and every B-side — have been read from NARA T623-855/856. The only Stone **head** in that band remains Thomas A., thirty-two, with Matilda and Gertrude, on ED 37 sheet 18A, 27 June 1900. He is still **not merged** with the 1920 Perry County widower. [C281] [C117]
 
 ---
+
+### Pass 120. Knox remaining, Floyd, Pike, and Harlan
+
+August 1926 is still on film. The Library of Congress item for the *Dardanelle Post-Dispatch*, LCCN sn89051008, still reads `item.digitized: false`. Internet Archive Solr for that title in 1926 returned zero items again. Pope County Library Roll 5 is unchanged. The phone, 479-968-4368, is already recorded. [C1471] [S1111] [S1112]
+
+Knox 1850 name columns from n0005 through n0158 are finished. Seventy-seven two-up strips were read. First and last leaves were re-read. Machine tokens found no newman, newnam, or tincher. Leaf n0158 is Barbourville, still Knox. Leaf n0160 is Larue. Larue was not walked. [C1472] [C1473] [S1113] [S1114]
+
+Floyd 1850 is finished on the compiled family-name index. N runs Neal through Nusom. T has no Tincher. Leaf n0003 isolates the county start: 20 July 1850, David Cooley, Daniel Steel, fifty-nine, physician, Stokes, North Carolina. Later samples reach Barren and Franklin. Not every-line original. [C1474] [C1475] [C1477] [S1115] [S1116]
+
+Pike and Harlan close on S-K compiled indexes. Pike N is New, Newsom, Nichols, Nunery. Harlan N is Nance through Nunn, with Tinsley under T. Neither county has Newman or Tincher. Internet Archive reel 206 is Jefferson / Louisville — not Harlan. [C1480] [C1481] [C1482] [C1483] [S1120] [S1122]
+
+No free license for William Newman and Rhoda Tincher appeared. Parents remain **probable**. The 1860 widow Rhoda with B. F., seven, is still **proven**. Conflict #28 stands. [C1484] [C1485]
+
+The other film items did not move. Hutchins FAQ 9938 is live at libraryanswers.berea.edu. FamilySearch 1146342, 127913, and 156057 returned Incapsula 403 — roadblock step 62. Internet Archive reel 602 is still 515 images. USGenNet Lee wills still name Jane Steele Newman, Elizabeth Newnam, and Mary F. Newnam Tincher — not Samuel P. Do not print 1966. Do not print 1962. Grant, twenty-one, is still not merged with David F. David G. of 1984 is still **possible** as a junior only. Districts 33-12 and 33-13 were not walked. [C1486–C1490] [S1124–S1130]
+
+### Pass 121. Clay household 54 is a Tennessee boarder
+
+Clay 1850 household 54 is now an original. Leaf n0009 is stamped 299, 26 July 1850, Herschel White. John Hibbard, seventy-five, Virginia, farmer, $600, sits with Margaret, seventy-one, three Hibbard and Davis children, and **William Newman, forty-two, male, Tennessee**. There is no Rhoda. There is no Decatur. There is no Leaner. Rejected against William × Rhoda. The earlier compiled reject is now image-seen. [C1491] [C1492] [S1131] [S1132] [S1133]
+
+Parents remain **probable**. The 1850 couple is still unread as a living head. Conflict #28 stands. Districts 33-12 and 33-13 were not walked. [C1493] [C1494] [C1495] [S1135]
+
+### Pass 122. Letcher’s every-name list has no Newman
+
+August 1926 is still on film. The Library of Congress item still reads `item.digitized: false`. Internet Archive Solr for 1926 returned zero items. Pope County Library Roll 5 is unchanged. The phone is already recorded. [C1496] [S1136] [S1137]
+
+Letcher 1850 is finished. A 2013 Wayback copy of the RootsWeb every-name index lists 2,509 names on pages 125a–155b. Under N the names are Nicholas, Niece, and NS. Under T they are Taylor, Thacker, Thomas, and Tyre. There is no Newman, no Newnam, and no Tincher. [C1497] [S1138]
+
+The original isolate matches that page range. Leaf n0531 is the last Lawrence sheet: 2 October 1850, J. W. Haws, Elizabeth Flannery, four. Leaf n0532 is Letcher District 2: 23 August 1850, P. H. Collier, stamped 125. Leaf n0560 is still District 2, 13 September, stamped 139, Martha Day, eighteen. Leaf n0590 is the first district, 30 August, J. M. Burns. The reel ends at n0591, a MICROCOPY 432 target. Not every-line original of fifty-nine pages. [C1498] [C1499] [C1500] [C1501] [S1139] [S1140] [S1141] [S1142]
+
+Johnson 1850 closes on the S-K compiled index: Nelson, Nibert, Nichell, Nott. No Newman. No Tincher. Reel 208 leaf n0005 is Jessamine, not Johnson. [C1502] [S1143] [S1144]
+
+Estill, Breathitt, and Madison S-K pages were re-read. They still show only the Newman and Tincher households already rejected on the originals. [C1503] [C1504] [C1505] [S1145] [S1146] [S1147]
+
+No free license for William Newman and Rhoda Tincher appeared. Parents remain **probable**. William himself is still not on a living 1850 schedule. The 1860 widow Rhoda with B. F., seven, is still **proven**. Conflict #28 stands. Abner Newman on Estill 1840 n0092 stays **possible** only. [C1506] [C1507] [S1155]
+
+The other film items did not move. Genealogy Trails Lee WWI tables are live and still name Luther Brandenburg and Underwood only. FamilySearch 1146342, 127913, and 156057 returned Incapsula 403 — roadblock step 63. USGenNet Lee wills still omit Samuel P. Hutchins FAQ 9938 is live. Reel 602 is still 515 images. Do not print 1966. Do not print 1962. Grant, twenty-one, is still not merged with David F. David G. of 1984 is still **possible** as a junior only. Living 1950-line descendants are withheld. Districts 33-12 and 33-13 were not walked. Do not re-ask Tyler Phillips, Pope 479-968-4368, or Hutchins 859-985-3364. [C1508–C1515] [S1149–S1155]
+
+### Pass 123. Pulaski’s three Newman heads are other men
+
+August 1926 is still on film. The Library of Congress item still reads `item.digitized: false`. Internet Archive Solr for 1926 returned zero items. The phone is already recorded. [C1516] [S1156] [S1157]
+
+Lawrence 1850 closes on David May’s compiled list. Households 1–500 have no Newman or Tincher. Household 653 is Henry Newman, forty-four, a German blacksmith, with Agnus of Ireland — **rejected**. Household 820 is Reynolds Newman, forty-five, of North Carolina, with Malinda and a son William, twelve — **rejected**. The 1850 tax list names Reynolds only. [C1517] [C1518] [C1519] [C1520] [S1158] [S1159] [S1160]
+
+Nicholas, Boyle, and Wayne close on S-K compiled N-windows. None of those counties lists Newman or Tincher. Wayne’s **NEW** is not Newman. [C1521] [C1522] [C1523] [S1161] [S1162] [S1163]
+
+Pulaski is finished on the originals. The county historical society book indexes NEWMAN at pages 26, 27, and 78 only. Leaf n0157, 16 August 1850, stamped 27, is Andy I. Newman, forty-one, a North Carolina blacksmith, with Mary and seven children including a son William, fourteen — **rejected**. Leaf n0158 is Edward Newman, sixty-four, of North Carolina, with Anna — **rejected**. Leaf n0212, 7 September, stamped 42, is the S-K 42A household: Will I. Newman, thirty-one, of Virginia, farmer, $400, with Rachel, twenty-three, Sarah A., five, Elizabeth, four, and Martha, one — **rejected**. Rachel is not Rhoda. Those children are not Decatur and Leaner. S-K NEWNAM 14A/14B is the page-14 window / NIKIRK, visually empty of Newnam. [C1524] [C1525] [C1526] [C1527] [C1528] [C1529] [S1164] [S1165] [S1166] [S1167] [S1169]
+
+No free license for William Newman and Rhoda Tincher appeared. Parents remain **probable**. Conflict #28 stands. [C1534] [C1535] [S1180]
+
+### Pass 124. Bath Tincher and Fleming Newman are other households
+
+August 1926 is still on film. `item.digitized` is still false. Solr is still zero. [C1541] [S1181] [S1182]
+
+The Bath hunt had been pointed at the wrong pages. Leaf n0470 is still **2d Division**, 6 September 1850, stamped 89 — not the 1st Division start. S-K page numbers are the stamped corners. Stewart on n0386 is page 4A; Shrout and Traylor on n0387 are 4B; Spence on n0388 is 5A. Tincher 6A/6B/7A is n0390–n0392. [C1542] [C1543] [S1183] [S1184]
+
+On 23 July 1850, stamped 6, household 73 is John Tincher, twenty-six, farmer, with Ann, seventeen — **rejected**. The same day, page 12, household 78 is Francis Tincher, thirty-six, a Virginia laborer, with Nancy and four daughters, Louisa, Alsey A., Aley A., and Kitty. Smoot at the foot marks 6B — **rejected**. On 28 July, stamped 13, household 85 is John S. Tincher, forty-seven, a Virginia farmer, with Betsy, forty-two, Andrew, twenty-six, Abigail, sixteen, William, twenty (a son), George, thirteen, Mary, five, and Andrew, two — **rejected**. William the son is not William the husband of Rhoda. Bath’s S-K N-window is Nelson, Newland, Nichol, Nicholas only. Bath 1850 is closed. [C1544] [C1545] [C1546] [C1547] [C1548] [S1185] [S1186] [S1187] [S1188]
+
+Fleming District 1, 4 September 1850, stamped 309, shows Alexander Newman, forty-two, and Michael, twenty-one, in the Sapp house, and household 703 John Newman, fifty-five, of Kentucky, with Elizabeth, forty-eight, and six children — **rejected**. On 27 September, household 1022 is John Newman, seventy-eight, a Virginia auctioneer, with Elizabeth, sixty-three, of Maryland. That is S-K 331B — **rejected**. On 27 August in the 2nd Division, household 270 is Thomas Newman, forty, with Margarett and five children including James M., fourteen, of Indiana — **rejected**. Debra Rigdon’s compiled list adds Samuel, thirty-seven, with Sarah; James, thirty-seven, with Mary Ann; and John D., forty-eight, with Manerva Jane — all **rejected**. District 1 Newman originals are closed. Page 395A remains a residual. [C1549] [C1550] [C1551] [C1552] [C1553] [S1189] [S1190] [S1191] [S1192]
+
+No free license appeared. Parents remain **probable**. The 1860 widow Rhoda with B. F., seven, is still **proven**. Conflict #28 stands. Abner Newman on Estill 1840 n0092 stays **possible** only. [C1554] [C1555] [S1210]
+
+Genealogy Trails Lee WWI tables are live and still name Luther Brandenburg and Underwood only. FamilySearch 1146342, 127913, and 156057 returned SPA shells — roadblock step 65. USGenNet Lee wills still omit Samuel P. Hutchins FAQ 9938 is live. Reel 602 is still 515 images. Do not print 1966. Do not print 1962. Grant, twenty-one, is still not merged with David F. David G. of 1984 is still **possible** as a junior only. Living 1950-line descendants are withheld. Districts 33-12 and 33-13 were not walked. Do not re-ask Tyler Phillips, Pope 479-968-4368, or Hutchins 859-985-3364. [C1556–C1560] [S1195–S1210]
+
+
+
 ## The children, in brief
 
 Two children born to Dora and Samuel died before 1 June 1900. They have no names in any record yet read.
@@ -1417,6 +1523,52 @@ Numbered notes expand the claim/source tags in the narrative. Access labels: *im
 271. 1840 U.S. census, Clay County, Kentucky. IA [`populationsc18400108unit`](https://archive.org/details/populationsc18400108unit) odd leaves after n0099 through n0135 Recapitulation of Clay County pages **1–23**. *Image seen.* **C1423** **S1069**.
 272. No free William × Rhoda license. Parents still **PROBABLE**. 1860 Rhoda widow + B.F. **7** **PROVEN**. #28 stands. *Negative / analysis.* **C1424 C1425** **S1076**.
 273. No free June **1958** *Citizen*. FAQ **9938** **404**. IA Solr M1509 **0**. FS **1146342** SPA. IA **602** still **515**. USGenNet wills Jane Steele / Elizabeth / Mary F. — no Samuel P. Cert **17762** unread. Do not print 1966 or 1962. *Catalog.* **C1426–C1431** **S1070–S1075**.
+274. LOC [sn89051008](https://www.loc.gov/item/sn89051008/) `item.digitized: false`. IA Solr Post-Dispatch 1926 **0**. Film unread. *Catalog.* **C1432** **S1077 S1078**.
+275. 1840 U.S. census, Clark County, Kentucky. IA [`populationsc18400108unit`](https://archive.org/details/populationsc18400108unit) odd names n0005–n0081 **visually** read — **nil** Newman/Tincher. n0081 Total County / Winchester. *Image seen.* **C1433 C1434** **S1079 S1080**.
+276. 1850 U.S. census, Owsley County, Kentucky. IA [`populationschedu0216unix`](https://archive.org/details/populationschedu0216unix) n0394–n0432 **nil** William × Rhoda. n0433 **Pendleton**. n0408 stamped **309** hh **132** Thos. Tincher **22** **REJECT**. [S-K Owsley 1850](https://www.skcensus.com/1850-census-index-owsley-county-kentucky/) NEWMAN **299B–300A** only. *Image seen / index.* **C1435 C1436 C1437** **S1081–S1084**.
+277. Knox 1850 isolate n0006–n0158; Morgan 1850 isolate n0174–n0351. Montage samples **nil** Newman head. *Image seen.* **C1438 C1439** **S1086 S1087**.
+278. No free William × Rhoda license. Parents still **PROBABLE**. 1860 Rhoda widow + B.F. **7** **PROVEN**. #28 stands. *Negative / analysis.* **C1440 C1441** **S1092**.
+279. Hutchins [FAQ 9938](https://libraryanswers.berea.edu/faq/9938) **LIVE** cards **228–229**. FS **404** (R011-60). IA **602** still **515**. USGenNet wills no Samuel P. Do not print 1966 or 1962. *Catalog.* **C1442–C1450** **S1088–S1092**.
+280. LOC [sn89051008](https://www.loc.gov/item/sn89051008/) `item.digitized: false` (pass 119). IA Solr Post-Dispatch 1926 **0**. Film unread. *Catalog.* **C1451** **S1093 S1094**.
+281. 1850 U.S. census, Knox County, Kentucky. IA [`populationschedu0209unix`](https://archive.org/details/populationschedu0209unix) n0005 Knox start (27 July, W.W. Pope); n0158 Barbourville last named Knox; n0159 blank; n0160 **Larue**. *Image seen.* **C1452 C1453** **S1095 S1096 S1097**.
+282. Knox name columns n0005–n0158 OCR token-nil. Visual samples listed in the extract **nil** Newman/Tincher. Remaining leaves residual. *Image seen / OCR draft.* **C1454** **S1098 S1099**.
+283. [KYGenWeb Morgan 1850 index](https://kygenweb.net/morgan/census/1850CList.html) `1850Index.doc`: N = Needham / Nickell / Noble / Norman only. Newton = given name. *Transcription.* **C1455 C1456** **S1100 S1101**.
+284. 1850 U.S. census, Morgan County, Kentucky. IA [`populationschedu0214unix`](https://archive.org/details/populationschedu0214unix) n0351 November 1850 certificate; n0352 **Muhlenberg**. County **CLOSED**. *Image seen / index.* **C1457 C1458** **S1102 S1103 S1104**.
+285. No free William × Rhoda license. Parents still **PROBABLE**. 1860 Rhoda widow + B.F. **7** **PROVEN**. #28 stands. *Negative / analysis.* **C1459 C1460** **S1105**.
+286. GT [Lee WWI](https://www.genealogytrails.com/ken/lee/wwi_draft_cards.html) **LIVE** **452540** nil Newnam. FS **404** (R011-61). IA **602** still **515**. USGenNet wills Jane Steele / Elizabeth / Mary F. — no Samuel P. Hutchins [FAQ 9938](https://libraryanswers.berea.edu/faq/9938) **LIVE**. Cert **17762** unread. Do not print 1966 or 1962. *Catalog.* **C1461–C1470** **S1106–S1110**.
+
+287. LOC [sn89051008](https://www.loc.gov/item/sn89051008/) `item.digitized: false` (pass 120). IA Solr Post-Dispatch 1926 **0**. Film unread. *Catalog.* **C1471** **S1111 S1112**.
+288. 1850 U.S. census, Knox County, Kentucky. IA [`populationschedu0209unix`](https://archive.org/details/populationschedu0209unix) n0005–n0158 seventy-seven two-ups + OCR token-nil. County **CLOSED**. *Image seen / OCR draft.* **C1472 C1473** **S1113 S1114**.
+289. [KYGenWeb Floyd 1850 family-name index](https://kygenweb.net/floyd/records/census/1850-census-index.html) N = NEAL…NUSOM. IA [`populationschedu0200unix`](https://archive.org/details/populationschedu0200unix) n0003 Floyd start. County **CLOSED** compiled. *Transcription / image seen.* **C1474 C1475 C1477** **S1115 S1116**.
+290. [S-K Pike 1850](https://www.skcensus.com/1850-census-index-pike-county-kentucky/) NEW/NEWSOM/NICHOLS/NUNERY. [S-K Harlan 1850](https://www.skcensus.com/1850-census-index-harlan-county-kentucky/) NANCE…NUNN. IA reel 206 = Jefferson. *Index / catalog.* **C1480–C1483** **S1120–S1123**.
+291. No free William × Rhoda license. Parents still **PROBABLE**. 1860 Rhoda widow + B.F. **7** **PROVEN**. #28 stands. *Negative / analysis.* **C1484 C1485** **S1130**.
+292. Clay 1850 n0009 stamped **299** hh **54** John Hibbard **75** Va + **William Newman 42** M Ten. IA [`populationschedu0197unix`](https://archive.org/details/populationschedu0197unix). **REJECT**. *Image seen.* **C1491 C1492** **S1131–S1134**.
+293. Parents still **PROBABLE** after Clay original. #28 stands. *Analysis.* **C1493–C1495** **S1135**.
+294. LOC [sn89051008](https://www.loc.gov/item/sn89051008/) `item.digitized: false` (pass 122). IA Solr Post-Dispatch 1926 **0**. Film unread. *Catalog.* **C1496** **S1136 S1137**.
+295. Wayback 2013 RootsWeb [KYLetcher 1850 every-name](https://web.archive.org/web/20130515000000/http://www.rootsweb.ancestry.com/~kyletshe/1850/1850b.htm) 2,509 names; pages **125a–155b**. N = Nicholas/Niece/NS. *Transcription.* **C1497** **S1138**.
+296. 1850 U.S. census, Letcher County, Kentucky. IA [`populationschedu0209unix`](https://archive.org/details/populationschedu0209unix) n0531 last Lawrence; n0532 Letcher Dist 2 stamped **125**; n0591 MICROCOPY 432. County **CLOSED**. *Image seen.* **C1498–C1501** **S1139–S1142**.
+297. [S-K Johnson 1850](https://www.skcensus.com/1850-census-index-johnson-county-kentucky/) NELSON/NIBERT/NICHELL/NOTT. Reel **208** n0005 Jessamine. County **CLOSED** compiled. *Index.* **C1502** **S1143 S1144**.
+298. S-K Estill / Breathitt / Madison 1850 reconfirm already-rejected Newman/Tincher pages. *Index.* **C1503–C1505** **S1145–S1147**.
+299. No free William × Rhoda license. Parents still **PROBABLE**. 1860 Rhoda widow + B.F. **7** **PROVEN**. #28 stands. *Negative / analysis.* **C1506 C1507** **S1155**.
+300. GT [Lee WWI](https://www.genealogytrails.com/ken/lee/wwi_draft_cards.html) **LIVE** **452540** nil Newnam. FS Incapsula **403** (R011-63). IA **602** still **515**. USGenNet wills Jane Steele / Elizabeth / Mary F. — no Samuel P. Hutchins [FAQ 9938](https://libraryanswers.berea.edu/faq/9938) **LIVE**. Do not print 1966 or 1962. *Catalog.* **C1508–C1515** **S1149–S1155**.
+
+301. LOC [sn89051008](https://www.loc.gov/item/sn89051008/) `item.digitized: false` (pass123). IA Solr 1926 **0**. *Catalog.* **C1516** **S1156 S1157**.
+302. Lawrence 1850 David May PT1+PT2: Henry **44** GER **REJECT**; Reynolds **45** NC × Malinda **REJECT**. *Compiled + reject.* **C1517–C1520** **S1158–S1160**.
+303. Pulaski n0157 Andy I **41** NC × Mary. [IA reel 217](https://archive.org/details/populationschedu0217unix). *Image seen + reject.* **C1525** **S1165**.
+304. Pulaski n0158 Edward **64** NC × Anna. *Image seen + reject.* **C1526** **S1166**.
+305. Pulaski n0212 Will I **31** VA × Rachel stamped **42** = SK 42A. *Image seen + reject.* **C1527** **S1167**.
+306. Nicholas / Boyle / Wayne S-K compiled nil Newman/Tincher. *Index.* **C1521–C1523** **S1161–S1163**.
+307. LOC [sn89051008](https://www.loc.gov/item/sn89051008/) `item.digitized: false` (pass124). *Catalog.* **C1541** **S1181 S1182**.
+308. Bath n0470 is **2d Division** stamped **89**. Corrects C1531. [IA reel 191](https://archive.org/details/populationschedu0191unix). *Image seen + correction.* **C1542** **S1183**.
+309. Bath n0390 John Tincher **26** × Ann **17**. SK **6A**. *Image seen + reject.* **C1544** **S1185**.
+310. Bath n0391 Francis Tincher **36** VA × Nancy. SK **6B**. *Image seen + reject.* **C1545** **S1186**.
+311. Bath n0392 John S Tincher **47** VA × Betsy; William **20** son. SK **7A**. *Image seen + reject.* **C1546** **S1187**.
+312. Fleming n0396 John Newman **55** × Elizabeth; Alexander **42**. [IA reel 199](https://archive.org/details/populationschedu0199unix). *Image seen + reject.* **C1549** **S1189**.
+313. Fleming n0443 John Newman **78** VA × Elizabeth MD. SK **331B**. *Image seen + reject.* **C1550** **S1190**.
+314. Fleming n0539 Thomas Newman **40** × Margarett. *Image seen + reject.* **C1551** **S1191**.
+315. Fleming compiled Samuel **37** / James **37** / John D **48**. *Compiled + reject.* **C1552** **S1192**.
+316. No free William × Rhoda license. Parents still **PROBABLE**. 1860 Rhoda widow + B.F. **7** **PROVEN**. #28 stands. *Negative / analysis.* **C1554 C1555** **S1210**.
+317. GT [Lee WWI](https://www.genealogytrails.com/ken/lee/wwi_draft_cards.html) **LIVE** **452540** nil Newnam. FS SPA (R011-65). IA **602** still **515**. USGenNet wills no Samuel P. Hutchins [FAQ 9938](https://libraryanswers.berea.edu/faq/9938) **LIVE**. Do not print 1966 or 1962. *Catalog.* **C1556–C1560** **S1195–S1210**.
 
 
 
@@ -1804,6 +1956,60 @@ Working table of **saved local copies**. Full file list: [`../SOURCE-INDEX.md`](
 | S1070 | `../sources/catalog/usgennet-lee-wills-pass117.html` | [USGenNet Lee wills](https://usgennet.org/usa/ky/county/lee/wills/) | Jane Steele / Elizabeth / Mary F.; no Samuel P. | transcription only |
 | S1071 | `../sources/catalog/ia-602-meta-pass117.json` | [IA 602](https://archive.org/details/14thcensusofpopu602unit) | imagecount 515 | catalog |
 | S1076 | `../sources/census/pass117-extract-2026-10-31.txt` | This session | Pass 117 extract | extract |
+| S1077 | `../sources/catalog/loc-sn89051008-pass118c.json` | [LOC sn89051008](https://www.loc.gov/item/sn89051008/) | item.digitized false | catalog |
+| S1079 | `../sources/census/pass118/keyplates/clark1840-n0081-county-total.jpg` | [IA 1840 reel 108](https://archive.org/details/populationsc18400108unit) | Clark Total County | image seen |
+| S1083 | `../sources/census/pass118/keyplates/owsley1850-n0408-tincher-309a.jpg` | [IA 1850 reel 216](https://archive.org/details/populationschedu0216unix) | Thos. Tincher 22 reject | image seen |
+| S1086 | `../sources/census/pass118/keyplates/knox1850-n0006-hdr.jpg` | [IA 1850 reel 209](https://archive.org/details/populationschedu0209unix) | Knox isolate | image seen |
+| S1087 | `../sources/census/pass118/keyplates/morgan1850-n0174-hdr.jpg` | [IA 1850 reel 214](https://archive.org/details/populationschedu0214unix) | Morgan isolate | image seen |
+| S1092 | `../sources/census/pass118-extract-2026-10-31.txt` | This session | Pass 118 extract | extract |
+| S1093 | `../sources/catalog/loc-sn89051008-pass119.json` | [LOC sn89051008](https://www.loc.gov/item/sn89051008/) | item.digitized false | catalog |
+| S1095 | `../sources/census/pass119/keyplates/knox1850-n0005-hdr.jpg` | [IA 1850 reel 209](https://archive.org/details/populationschedu0209unix) | Knox starts n0005 | image seen |
+| S1097 | `../sources/census/pass119/keyplates/knox1850-n0160-larue.jpg` | [IA 1850 reel 209](https://archive.org/details/populationschedu0209unix) | Larue, not Knox | image seen |
+| S1100 | `../sources/census/pass119/morgan-index/1850Index.doc` | [KYGenWeb Morgan 1850](https://kygenweb.net/morgan/census/1850CList.html) | N = Needham/Nickell/Noble/Norman | transcription only |
+| S1102 | `../sources/census/pass119/keyplates/morgan1850-n0351-certificate.jpg` | [IA 1850 reel 214](https://archive.org/details/populationschedu0214unix) | Morgan November certificate | image seen |
+| S1105 | `../sources/census/pass119-extract-2026-10-31.txt` | This session | Pass 119 extract | extract |
+| S1106 | `../sources/catalog/gt-lee-wwi-pass119.html` | [GT Lee WWI](https://www.genealogytrails.com/ken/lee/wwi_draft_cards.html) | Luther Brandenburg + Underwood only | transcription only |
+| S1108 | `../sources/catalog/usgennet-lee-wills-pass119.html` | [USGenNet Lee wills](https://usgennet.org/usa/ky/county/lee/wills/) | no Samuel P. | transcription only |
+| S1109 | `../sources/catalog/hutchins-faq-9938-answers-pass119.html` | [FAQ 9938](https://libraryanswers.berea.edu/faq/9938) | cards 228–229 | catalog |
+| S1110 | `../sources/catalog/ia-602-meta-pass119.json` | [IA 602](https://archive.org/details/14thcensusofpopu602unit) | imagecount 515 | catalog |
+
+| S1111 | `../sources/catalog/loc-sn89051008-pass120.json` | [LOC sn89051008](https://www.loc.gov/item/sn89051008/) | item.digitized false | catalog |
+| S1113 | `../sources/census/pass120/knox2/` | [IA 1850 reel 209](https://archive.org/details/populationschedu0209unix) | Knox 77 two-ups | image seen |
+| S1115 | `../sources/catalog/kygenweb-floyd-1850-idx-pass120.html` | [KYGenWeb Floyd 1850](https://kygenweb.net/floyd/records/census/1850-census-index.html) | NEAL…NUSOM; no Newman | transcription only |
+| S1116 | `../sources/census/pass120/keyplates/floyd1850-n0003-start.jpg` | [IA reel 200](https://archive.org/details/populationschedu0200unix) | Floyd start | image seen |
+| S1120 | `../sources/catalog/sk-pike-1850-pass120.html` | [S-K Pike](https://www.skcensus.com/1850-census-index-pike-county-kentucky/) | no Newman/Tincher | index only |
+| S1122 | `../sources/catalog/sk-harlan-1850-pass120.html` | [S-K Harlan](https://www.skcensus.com/1850-census-index-harlan-county-kentucky/) | no Newman/Tincher | index only |
+| S1130 | `../sources/census/pass120-extract-2026-10-31.txt` | This session | Pass 120 extract | extract |
+| S1131 | `../sources/census/pass121/keyplates/clay1850-n0009-header.jpg` | [IA reel 197](https://archive.org/details/populationschedu0197unix) | Clay stamped 299 | image seen |
+| S1132 | `../sources/census/pass121/keyplates/clay1850-n0009-hh54-names.jpg` | [IA reel 197](https://archive.org/details/populationschedu0197unix) | Hibbard + William Newman 42 | image seen |
+| S1135 | `../sources/census/pass121-extract-2026-10-31.txt` | This session | Pass 121 extract | extract |
+| S1136 | `../sources/catalog/loc-sn89051008-pass122.json` | [LOC sn89051008](https://www.loc.gov/item/sn89051008/) | item.digitized false | catalog |
+| S1138 | `../sources/catalog/wayback-letcher-1850b-pass122.html` | Wayback RootsWeb Letcher 1850 | 2,509 names; no Newman/Tincher | transcription only |
+| S1139 | `../sources/census/pass122/keyplates/r209-n0531-lawrence-last-hdr.jpg` | [IA reel 209](https://archive.org/details/populationschedu0209unix) | last Lawrence | image seen |
+| S1140 | `../sources/census/pass122/keyplates/r209-n0532-letcher-start-hdr.jpg` | [IA reel 209](https://archive.org/details/populationschedu0209unix) | Letcher Dist 2 start | image seen |
+| S1141 | `../sources/census/pass122/keyplates/r209-n0560-letcher-hdr.jpg` | [IA reel 209](https://archive.org/details/populationschedu0209unix) | Letcher Dist 2 mid | image seen |
+| S1142 | `../sources/census/pass122/keyplates/r209-n0591-microcopy-hdr.jpg` | [IA reel 209](https://archive.org/details/populationschedu0209unix) | reel end | image seen |
+| S1143 | `../sources/catalog/sk-johnson-1850-pass122.html` | [S-K Johnson](https://www.skcensus.com/1850-census-index-johnson-county-kentucky/) | no Newman/Tincher | index only |
+| S1149 | `../sources/catalog/gt-lee-wwi-pass122.html` | [GT Lee WWI](https://www.genealogytrails.com/ken/lee/wwi_draft_cards.html) | Luther Brandenburg + Underwood | transcription only |
+| S1151 | `../sources/catalog/usgennet-lee-wills-pass122.html` | [USGenNet Lee wills](https://usgennet.org/usa/ky/county/lee/wills/) | no Samuel P. | transcription only |
+| S1153 | `../sources/catalog/hutchins-faq-9938-answers-pass122.html` | [FAQ 9938](https://libraryanswers.berea.edu/faq/9938) | cards 228–229 | catalog |
+| S1155 | `../sources/census/pass122-extract-2026-10-31.txt` | This session | Pass 122 extract | extract |
+
+| S1156 | `../sources/catalog/loc-sn89051008-pass123.json` | [LOC sn89051008](https://www.loc.gov/item/sn89051008/) | item.digitized false | catalog |
+| S1165 | `../sources/census/pass123/keyplates/r217-n0157-andy-i.jpg` | [IA reel 217](https://archive.org/details/populationschedu0217unix) | Andy I 41 NC | image seen |
+| S1166 | `../sources/census/pass123/keyplates/r217-n0158-edward.jpg` | [IA reel 217](https://archive.org/details/populationschedu0217unix) | Edward 64 NC | image seen |
+| S1167 | `../sources/census/pass123/keyplates/r217-n0212-will-i-42a.jpg` | [IA reel 217](https://archive.org/details/populationschedu0217unix) | Will I 31 VA × Rachel | image seen |
+| S1180 | `../sources/census/pass123-extract-2026-10-31.txt` | This session | Pass 123 extract | extract |
+| S1181 | `../sources/catalog/loc-sn89051008-pass124.json` | [LOC sn89051008](https://www.loc.gov/item/sn89051008/) | item.digitized false | catalog |
+| S1185 | `../sources/census/pass124/keyplates/r191-n0390-setters-6a.jpg` | [IA reel 191](https://archive.org/details/populationschedu0191unix) | John Tincher 26 × Ann | image seen |
+| S1186 | `../sources/census/pass124/keyplates/r191-n0391-francis-tincher-6b.jpg` | [IA reel 191](https://archive.org/details/populationschedu0191unix) | Francis Tincher 36 VA | image seen |
+| S1187 | `../sources/census/pass124/keyplates/r191-n0392-john-s-tincher-7a.jpg` | [IA reel 191](https://archive.org/details/populationschedu0191unix) | John S Tincher 47 VA | image seen |
+| S1189 | `../sources/census/pass124/keyplates/r199-n0396-john-newman-55-309.jpg` | [IA reel 199](https://archive.org/details/populationschedu0199unix) | John Newman 55 | image seen |
+| S1190 | `../sources/census/pass124/keyplates/r199-n0443-john-78-331b.jpg` | [IA reel 199](https://archive.org/details/populationschedu0199unix) | John Newman 78 VA | image seen |
+| S1191 | `../sources/census/pass124/keyplates/r199-n0539-thomas-40-380.jpg` | [IA reel 199](https://archive.org/details/populationschedu0199unix) | Thomas Newman 40 | image seen |
+| S1195 | `../sources/catalog/gt-lee-wwi-pass124.html` | [GT Lee WWI](https://www.genealogytrails.com/ken/lee/wwi_draft_cards.html) | Luther Brandenburg + Underwood | transcription only |
+| S1198 | `../sources/catalog/hutchins-faq-9938-answers-pass124.html` | [FAQ 9938](https://libraryanswers.berea.edu/faq/9938) | cards 228–229 | catalog |
+| S1210 | `../sources/census/pass124-extract-2026-10-31.txt` | This session | Pass 124 extract | extract |
 
 
 Embedded plates live in `plates/` and `../sources/census/`. Charts: [`../visuals/pedigree-dora.svg`](../visuals/pedigree-dora.svg), [`../visuals/timeline-dora.svg`](../visuals/timeline-dora.svg).

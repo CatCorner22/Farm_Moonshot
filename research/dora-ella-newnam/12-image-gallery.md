@@ -1053,3 +1053,41 @@ Same map, county preview — 33-8 in Magisterial District 2 Millers Creek; Stati
 ![Estill 1930 Nennian Ray reject](sources/census/pass112-acpl742/crop0863-nennian-ray.jpg)
 
 **Source:** S972 · C1278
+
+## 1850 — Pulaski / Bath / Fleming (passes 123–124)
+
+1850 U.S. census, Pulaski County, Division 1, 7 September — Will I. Newman 31 VA × Rachel. S-K 42A. Rejected versus William × Rhoda.
+
+![Pulaski Will I 42A](sources/census/pass123/keyplates/r217-n0212-will-i-42a.jpg)
+
+**Source:** S1167 · C1527
+
+1850 U.S. census, Bath County, 2d Division, 23 July, stamped 6 — John Tincher 26 + Ann 17.
+
+![Bath Tincher 6A](sources/census/pass124/keyplates/r191-n0390-setters-6a.jpg)
+
+**Source:** S1185 · C1544
+
+1850 U.S. census, Bath County, 2d Division, 23 July — Francis Tincher 36 VA laborer.
+
+![Bath Francis Tincher 6B](sources/census/pass124/keyplates/r191-n0391-francis-tincher-6b.jpg)
+
+**Source:** S1186 · C1545
+
+1850 U.S. census, Bath County, 2d Division, 28 July — John S. Tincher 47 VA + Betsy; son William 20.
+
+![Bath John S Tincher 7A](sources/census/pass124/keyplates/r191-n0392-john-s-tincher-7a.jpg)
+
+**Source:** S1187 · C1546
+
+1850 U.S. census, Fleming County, District 1, 4 September, stamped 309 — John Newman 55 × Elizabeth; Alexander 42.
+
+![Fleming John 55](sources/census/pass124/keyplates/r199-n0396-john-newman-55-309.jpg)
+
+**Source:** S1189 · C1549
+
+1850 U.S. census, Fleming County, District 1, 27 September — John Newman 78 VA auctioneer.
+
+![Fleming John 78](sources/census/pass124/keyplates/r199-n0443-john-78-331b.jpg)
+
+**Source:** S1190 · C1550

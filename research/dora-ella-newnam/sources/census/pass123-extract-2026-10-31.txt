@@ -1,0 +1,17 @@
+PASS 123 EXTRACT 2026-10-31
+B058 LOC sn89051008 item.digitized: false; IA Solr Post-Dispatch 1926 0. Film unread. Phone not re-asked. C1516
+Lawrence 1850 CLOSED compiled: PT1 hh 1-500 nil; PT2 Henry 44 GER hh 653 REJECT; Reynolds 45 NC x Malinda hh 820 REJECT (son William 12). Tax Reynolds only. C1517-C1520
+Nicholas / Boyle / Wayne 1850 CLOSED compiled. No Newman/Tincher. C1521-C1523
+Pulaski book NEWMAN 26-27-78 only.
+n0157 Andy I Newman 41 NC blacksmith x Mary 27 REJECT. C1525
+n0158 Edward Newman 64 NC x Anna 59 REJECT. C1526
+n0212 Will I Newman 31 VA x Rachel 23 + Sarah A 5 / Elizabeth 4 / Martha 1. SK 42A. REJECT. C1527
+SK NEWNAM 14A/14B = page-14 / NIKIRK. C1528
+Pulaski CLOSED. C1529
+Bath 2nd Div pp 5-7 n0384-n0386 nil Tincher (later remapped). C1530
+n0470 written as 1st Div stamped 89 — CORRECTED pass 124 as still 2d Div. C1531/C1542
+Fleming Dist 1 n0398 4 Sep stamped 310 isolate; Newman pages residual this write. C1532
+Reel 208 Johnson gap (Jessamine/Kenton). C1533
+No free William x Rhoda license. Parents still PROBABLE. C1534 C1535
+GT Lee WWI LIVE 452540. FS Incapsula 403 R011-64. FAQ 9938 LIVE. 602 still 515. C1536-C1540
+Variants: William Newnam/Newman/Newnarn/Numan/Newnom; Rhoda Tincher/Tinchir/Fincher/Tinker; Soundex N550 T526 S350.

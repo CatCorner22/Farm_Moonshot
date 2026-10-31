@@ -1,4 +1,48 @@
 
+## Access honesty pass 124
+- LOC sn89051008 JSON **seen** (`item.digitized: false`). IA Solr Post-Dispatch 1926 **0**. IA Solr M1509 KY query returned. IA **602** pass124 refetch empty; pass123 metadata still **515**.
+- Bath 1850: n0390 / n0391 / n0392 **image seen** (TINCHER 6A/6B/7A). n0470 **image seen** as **2d Division** (corrects C1531).
+- Fleming 1850: n0396 / n0443 / n0539 **image seen**. Rigdon compiled snippets **seen**. 395A original **not** fully read (n0550 = stamped 385).
+- FS **1146342 / 127913 / 156057** SPA ~19 KB (R011-**65**). USGenNet `/wills/` **HTML seen**. GT Lee WWI **452540 LIVE**. Hutchins FAQ **9938** **LIVE**.
+- Did **not** walk Estill **1930 33-12 / 33-13**.
+- Did **not** re-ask R001/R007/R008, Tyler Phillips, Pope **479-968-4368**, or Hutchins **859-985-3364**.
+- Book 6 register **unread**. Certs **28501 / 31780 / 17762 / 13719 / 09547 / 07401** **images unread**. M1509 **cards unread**. *Dardanelle Post-Dispatch* Pope **Roll 5** / UArk **F419.D37 D3** **film unread**. Newspapers.com **41271** June **1958** **unread**. 1850 William × Rhoda couple **unread** as a living head. Authored `latest.docx` SHA **78cdcf44…** not overwritten.
+
+## Access honesty pass 123
+- LOC sn89051008 JSON **seen** (`item.digitized: false`). IA Solr Post-Dispatch 1926 **0**. IA Solr M1509 KY **0**. IA **602** metadata **515**.
+- Lawrence 1850: RootsWeb kylawren PT1+PT2 + tax **HTML/text seen**. Henry 44 GER and Reynolds 45 NC compiled households **read**.
+- Nicholas / Boyle / Wayne 1850: S-K HTML **seen** (N-window extracted).
+- Pulaski 1850: IA book `pulaskicountyken0000pula` djvu + leaves **seen**. n0157 Andy I / n0158 Edward / n0212 Will I (stamped **42**) **image seen**. n0132 page-14 window **image seen**.
+- Bath 1850: 2nd Div n0380–n0386 **image seen**; n0470 / n0480 1st Div headers **image seen**. 1st Div TINCHER **6–7** originals **not** fully read this write.
+- Fleming 1850: S-K HTML **seen**. n0396–n0398 Dist 1 isolate **image seen**. Newman 309A/379–395 originals **not** fully read this write.
+- FS **1146342 / 127913 / 156057** Incapsula **403** (R011-**64**). USGenNet `/wills/` **HTML seen**. GT Lee WWI **452540 LIVE**. Hutchins FAQ **9938** `libraryanswers` **LIVE**.
+- SK Lawrence / Greenup / Carter / Lincoln / Clay **404** (do not treat their NT extracts as real).
+- Did **not** walk Estill **1930 33-12 / 33-13**.
+- Did **not** re-ask R001/R007/R008, Tyler Phillips, Pope **479-968-4368**, or Hutchins **859-985-3364**.
+- Book 6 register **unread**. Certs **28501 / 31780 / 17762 / 13719 / 09547 / 07401** **images unread**. M1509 **cards unread**. *Dardanelle Post-Dispatch* Pope **Roll 5** / UArk **F419.D37 D3** **film unread**. Newspapers.com **41271** June **1958** **unread**. 1850 William × Rhoda couple **unread** as a living head. Authored `latest.docx` SHA **78cdcf44…** not overwritten.
+
+## Access honesty pass 122
+- LOC sn89051008 JSON **seen** (`item.digitized: false`). IA Solr Post-Dispatch 1926 **0**. IA Solr M1509 KY **0**. IA **602** metadata **515**. IA reel **209** metadata imagecount **593**.
+- Letcher 1850: Wayback 2013 RootsWeb every-name **HTML seen** (2,509 names). n0531 last Lawrence + n0532 Letcher start + n0560 / n0590 / n0591 headers **image seen**.
+- Johnson / Estill / Breathitt / Madison 1850: S-K HTML **seen** (N/T extracted). Reel **208** n0005 = Jessamine **image seen**.
+- FS **1146342 / 127913 / 156057** Incapsula **403** (R011-**63**). USGenNet `/wills/` **HTML seen**. GT Lee WWI **452540 LIVE**. Hutchins FAQ **9938** `libraryanswers` **LIVE**.
+- SK Letcher / Lawrence **404**. KYGenWeb Letcher census/1850 redirects to county landing. USGW archives timeout. kykinfolk marr **404**.
+- Did **not** walk Estill **1930 33-12 / 33-13**.
+- Did **not** re-ask R001/R007/R008, Tyler Phillips, Pope **479-968-4368**, or Hutchins **859-985-3364**.
+- Book 6 register **unread**. Certs **28501 / 31780 / 17762 / 13719 / 09547 / 07401** **images unread**. M1509 **cards unread**. *Dardanelle Post-Dispatch* Pope **Roll 5** / UArk **F419.D37 D3** **film unread**. Newspapers.com **41271** June **1958** **unread**. 1850 William × Rhoda couple **unread** as a living head. Authored `latest.docx` SHA **78cdcf44…** not overwritten.
+
+## Access honesty pass 120–121
+- LOC sn89051008 JSON **seen** (`item.digitized: false`). IA Solr Post-Dispatch 1926 **0**. IA Solr M1509 KY **0**. IA **602** metadata **515**.
+- Knox 1850: 77 two-up strips **image seen** (first + last re-read this session); namecol OCR psm **6** **token-nil** (draft). n0005 / n0158 / n0160 headers **image seen**.
+- Floyd 1850: KYGenWeb family-name index **HTML seen**. n0003 start + n0090 / n0120 / n0150 / n0300 headers **image seen**.
+- Clay 1850: n0005 start + n0054 still-Clay headers **image seen**. n0009 full sheet + hh **54** band **image seen** (pass 121).
+- Pike 1850: S-K HTML **seen** (N/T extracted). n0005 header **image seen**.
+- Harlan 1850: S-K HTML **seen** (N/T extracted). IA **0206unix** n0005 = **Jefferson**, not Harlan.
+- FS **1146342 / 127913 / 156057** Incapsula **403** (R011-**62**). USGenNet `/wills/` **HTML seen**. GT Lee WWI **452540 LIVE**. Hutchins FAQ **9938** `libraryanswers` **LIVE**. WCHS **DNS fail**.
+- Did **not** walk Estill **1930 33-12 / 33-13**.
+- Did **not** re-ask R001/R007/R008, Tyler Phillips, Pope **479-968-4368**, or Hutchins **859-985-3364**.
+- Book 6 register **unread**. Certs **28501 / 31780 / 17762 / 13719 / 09547 / 07401** **images unread**. M1509 **cards unread**. *Dardanelle Post-Dispatch* Pope **Roll 5** / UArk **F419.D37 D3** **film unread**. Newspapers.com **41271** June **1958** **unread**. 1850 William × Rhoda couple **unread** as a living head. Authored `latest.docx` SHA **78cdcf44…** not overwritten.
+
 ## Access honesty pass 114
 - IA **`populationschedu391unit`** 1860 KY reel **391** (M653-391, Owen + Owsley) **image seen**. Owsley start **n0299** stamped **297**. Stamped **353** = leaf **n0355** handwritten page **57**, Proctor, **14 July 1860**. Name columns of **n0352** (p. **54** Booneville) and **n0355** **visually read**.
 - IA **`populationschedu0494unit`** 1870 Travellers Rest **n0089** (page **19**, stamped **348**) and **n0090** (page **20**) **image seen**. Decatur **24** original isolated.
@@ -1358,6 +1402,168 @@ One row per search, **including nil results**. Access: free | subscription | on-
 | L1232 | 2026-10-31 | Laurel n0382 / Mont n0173 county ends (**B071**) | Lawrence / Morgan | Headers **image seen**. Laurel ends n0381; Montgomery ends n0171 | S1064 S1065 | B071 |
 | L1233 | 2026-10-31 | Clay n0135 recap (**B071**) | Recapitulation of Clay County | Pages **1–23**. Name walk ends. **Image seen** | S1069 | B071 |
 | L1234 | 2026-10-31 | Did not walk Estill **33-12 / 33-13**; phones / R001/R007/R008 | — | As instructed. No re-ask | S1076 | B058 B089 |
+| L1235 | 2026-10-31 | LOC sn89051008 JSON (**B058**) | Dardanelle Post-Dispatch / digitized | `item.digitized: false` (pass118 + pass118c). Film unread. Phone not re-asked (**C1432**) | S1077 | B058 |
+| L1236 | 2026-10-31 | IA Solr Post-Dispatch 1926 (**B058**) | title Dardanelle Post / Post-Dispatch year 1926 | **numFound 0** (**C1432**) | S1078 | B058 |
+| L1237 | 2026-10-31 | IA reel **108** odd names n0005–n0081 (**B071**) | Clark 1840 | Visually walked. **nil** Newman/Newnam/Tincher head (**C1433**) | S1080 | B071 |
+| L1238 | 2026-10-31 | Clark 1840 n0081 (**B071**) | Total County / Winchester | Last names + county recap. Name walk **CLOSED**. Cert remains n0083 (**C1434**) | S1079 | B071 |
+| L1239 | 2026-10-31 | IA **`0216unix`** n0394–n0432 (**B071**) | Owsley 1850 remaining | Visually walked. **nil** William × Rhoda living head. n0432 last Owsley stamped **321**. n0433 **Pendleton**. Remaining Owsley **CLOSED** (**C1435**) | S1081 S1082 | B071 |
+| L1240 | 2026-10-31 | Owsley n0388 / n0410 / n0430 headers (**B071**) | county bounds | n0388 Owsley stamped **298** Luther Broaddus; n0410 stamped **310**; n0430 stamped **321** | S1081 | B071 |
+| L1241 | 2026-10-31 | Owsley n0408 stamped **309** (**B071**) | TINCHER 309A | hh **132 Thos. Tincher 22** + siblings. **REJECT** vs William × Rhoda (**C1436**) | S1083 | B071 |
+| L1242 | 2026-10-31 | S-K Owsley 1850 + tesseract (**B071**) | NEWMAN / TINCHER / NEWTON | **LIVE**: NEWMAN **299B, 300A**; TINCHER **299B, 309A**; NEWTON **314B**. OCR remaining token-nil Newman (**C1437**) | S1084 S1085 | B071 |
+| L1243 | 2026-10-31 | IA **`0209unix`** Knox isolate + montage samples (**B071**) | Knox 1850 | n0006–n0158 still Knox (Barbourville n0158). Samples **nil** Newman head. SK **404**. Full N-walk residual (**C1438**) | S1086 | B071 |
+| L1244 | 2026-10-31 | IA **`0214unix`** Morgan isolate + montage samples (**B071**) | Morgan 1850 | n0174–n0351 still Morgan L.P. Turner. n0352 **Muhlenberg**. Samples **nil** Newman head. SK **404**. Full N-walk residual (**C1439**) | S1087 | B071 |
+| L1245 | 2026-10-31 | Free marriage (**B071**) | William × Rhoda | Still **no** free license. Grooms/brides **404**. USGW 1850indx timeout (**C1440**) | S1092 | B071 |
+| L1246 | 2026-10-31 | Same-person / parents (**B071**) | William × Rhoda | Parents still **PROBABLE**. 1860 Rhoda widow + B.F. **7** **PROVEN**. #28 stands. 1850 couple unread as living head — Knox/Morgan residual (**C1441**) | S1092 | B071 |
+| L1247 | 2026-10-31 | Hutchins FAQ **9938** (**B055/B080**) | June 1958 *Citizen* | `libraryanswers` **LIVE** cards **228–229**. `libraryguides` **404**. No free June 1958 clip. Phone not re-asked (**C1442**) | S1088 | B055 B080 |
+| L1248 | 2026-10-31 | GT Lee WWI (**B059**) | Luther / Newnam / Newman / McCoy | LIVE **452540**. Luther Brandenburg + Underwood only. **No** Luther Newnam. Cards unread (**C1443**) | S1089 | B059 B069 |
+| L1249 | 2026-10-31 | FS **1146342 / 127913 / 156057** (**B069/B065/B045**) | cards / probate / tax | All **404** (R011-**60**). Images unread (**C1444**) | S1090 | B069 B065 B045 |
+| L1250 | 2026-10-31 | IA **602** metadata (**B088**) | imagecount | still **515**. One line (**C1445**) | S1091 | B088 |
+| L1251 | 2026-10-31 | IA Solr M1509 KY (**B069**) | collection:wwi_draft subject:Kentucky | **numFound 0** (**C1446**) | S1078 | B069 |
+| L1252 | 2026-10-31 | USGenNet Lee wills (**B045/B065**) | Samuel P | **LIVE** Jane Steele NEWMAN + Elizabeth NEWNAM + Mary F. Tincher — **no** Samuel P. Clerk not re-asked (**C1447**) | S1089 | B045 B065 |
+| L1253 | 2026-10-31 | WCHS / cert **17762** (**B082**) | John L | Duell-Clark **1958–1978** still **$10**. Do not print 1966 (**C1448**) | S1092 | B082 |
+| L1254 | 2026-10-31 | Grant 21 / David G 1984 / McCoy (**B081/B084/B085**) | same-person | Grant 21 **not merged**. B084 POSSIBLE Jr only. No new deceased McCoy. Do not print 1962 (**C1449**) | S1092 | B081 B084 B085 |
+| L1255 | 2026-10-31 | Did not walk Estill **33-12 / 33-13**; phones / R001/R007/R008 | — | As instructed. No re-ask (**C1450**) | S1092 | B058 B089 |
+| L1256 | 2026-10-31 | Search-variant-alternatives cats **1–4** before first query | William/Rhoda/Luther/David/Dora | Soundex **N550** / **T526** / **S350**. Exact strings this extract | S1092 | B071 |
+
+| L1257 | 2026-10-31 | LOC sn89051008 JSON (**B058**) | Dardanelle Post-Dispatch / digitized | `item.digitized: false` (pass119). Film unread. Phone not re-asked (**C1451**) | S1093 | B058 |
+| L1258 | 2026-10-31 | IA Solr Post-Dispatch 1926 (**B058**) | Dardanelle Post-Dispatch 1926 | **numFound 0** (**C1451**) | S1094 | B058 |
+| L1259 | 2026-10-31 | IA **`0209unix`** n0005 header (**B071**) | Knox 1850 start | County of Knox, 27 July, W.W. Pope. Starts one leaf earlier than pass-118 isolate (**C1452**) | S1095 | B071 |
+| L1260 | 2026-10-31 | IA **`0209unix`** n0158–n0160 headers (**B071**) | Knox / Larue | n0158 Barbourville last named Knox. n0159 blank. n0160 **Larue**. Larue not walked (**C1453**) | S1096 S1097 | B071 |
+| L1261 | 2026-10-31 | SK / US-census / USGW Knox 1850 (**B071**) | Newman / Tincher | SK **404**. US-census 1850 not transcribed. USGW timeout (**C1470**) | S1105 | B071 |
+| L1262 | 2026-10-31 | IA **`0209unix`** Knox namecols n0005–n0158 OCR (**B071**) | Newman/Tincher | psm **4** + psm **6** + heads4 **token-nil** (OCR draft) (**C1454**) | S1098 | B071 |
+| L1263 | 2026-10-31 | IA **`0209unix`** Knox visual samples (**B071**) | living head | n0006/12/24/32/40/48/56/64/72/80/88/96/104/112/120/136/144/158 **nil** Newman/Tincher. Remaining leaves residual (**C1454**) | S1099 | B071 |
+| L1264 | 2026-10-31 | KYGenWeb Morgan **1850Index.doc** (**B071**) | N surnames | Needham / Nickell / Noble / Norman only. **No** Newman/Tincher (**C1455**) | S1100 S1101 | B071 |
+| L1265 | 2026-10-31 | KYGenWeb Morgan household .doc (**B071**) | Newton | Given name only (Newton P. Reed; children). **Not** Newman (**C1456**) | S1100 | B071 |
+| L1266 | 2026-10-31 | IA **`0214unix`** n0351–n0352 (**B071**) | Morgan end | n0351 certificate November 1850. n0352 **Muhlenberg**. Isolate **CLOSED** (**C1457**) | S1102 S1103 | B071 |
+| L1267 | 2026-10-31 | Morgan 1850 close (**B071**) | William × Rhoda | Compiled-index + isolate + certificate. County **CLOSED** (**C1458**) | S1100 S1104 | B071 |
+| L1268 | 2026-10-31 | Free marriage (**B071**) | William × Rhoda | Still **no** free license. kykinfolk **404**. USGW Estill timeout. mytrees 1845 unused (**C1459**) | S1105 | B071 |
+| L1269 | 2026-10-31 | Same-person / parents (**B071**) | William × Rhoda | Parents still **PROBABLE**. 1860 Rhoda widow + B.F. **7** **PROVEN**. #28 stands (**C1460**) | S1105 | B071 |
+| L1270 | 2026-10-31 | GT Lee WWI (**B059**) | Luther / John H. / McCoy | LIVE **452540**. Luther Brandenburg + Underwood only (**C1461**) | S1106 | B059 |
+| L1271 | 2026-10-31 | FS **1146342 / 127913 / 156057** (**B065/B045/B069**) | catalog | HTTP **404** (R011-**61**). Images unread (**C1462**) | S1107 | B065 B045 B069 |
+| L1272 | 2026-10-31 | USGenNet Lee wills (**B045/B065**) | Samuel P. | Jane Steele / Elizabeth / Mary F. TINCHER. **No** Samuel P. Clerk not re-asked (**C1463**) | S1108 | B045 B065 |
+| L1273 | 2026-10-31 | Hutchins FAQ **9938** (**B055/B080**) | *Citizen* cards | `libraryanswers` **LIVE** rooms **228–229**. No free June **1958** clip. Phone not re-asked (**C1464**) | S1109 | B055 B080 |
+| L1274 | 2026-10-31 | IA **602** metadata (**B088**) | imagecount | still **515**. One line (**C1465**) | S1110 | B088 |
+| L1275 | 2026-10-31 | IA Solr M1509 KY (**B069**) | wwi_draft + Kentucky | **numFound 0** (**C1466**) | S1094 | B069 |
+| L1276 | 2026-10-31 | WCHS / cert **17762** (**B082**) | John L | Duell-Clark **1958–1978** still **$10**. Do not print 1966 (**C1467**) | S1105 | B082 |
+| L1277 | 2026-10-31 | Grant 21 / David G 1984 / McCoy (**B081/B084/B085**) | same-person | Grant 21 **not merged**. B084 POSSIBLE Jr only. No new deceased McCoy. Do not print 1962 (**C1468**) | S1105 | B081 B084 B085 |
+| L1278 | 2026-10-31 | Did not walk Estill **33-12 / 33-13**; phones / R001/R007/R008 | — | As instructed. No re-ask (**C1469**) | S1105 | B058 B089 |
+
+| L1279 | 2026-10-31 | LOC sn89051008 JSON (**B058**) | Dardanelle Post-Dispatch / digitized | `item.digitized: false` (pass120). Film unread. Phone not re-asked (**C1471**) | S1111 | B058 |
+| L1280 | 2026-10-31 | IA Solr Post-Dispatch 1926 (**B058**) | Dardanelle Post-Dispatch 1926 | **numFound 0** (**C1471**) | S1112 | B058 |
+| L1281 | 2026-10-31 | Knox 1850 two-ups n0005–n0158 (**B071**) | Newman/Tincher | 77 strips. First + last re-read **nil**. County **CLOSED** (**C1472**) | S1113 | B071 |
+| L1282 | 2026-10-31 | Knox namecol OCR psm **6** (**B071**) | newman/newnam/tincher | **token-nil** (OCR draft) (**C1472**) | S1113 | B071 |
+| L1283 | 2026-10-31 | Knox n0158 / n0160 headers (**B071**) | Knox / Larue | n0158 Barbourville last Knox. n0160 **Larue** not walked (**C1473**) | S1114 | B071 |
+| L1284 | 2026-10-31 | KYGenWeb Floyd 1850 family-name index (**B071**) | N / T surnames | NEAL…NUSOM; TACKETT…TYRA. **No** Newman/Tincher. Caveat incomplete (**C1474**) | S1115 | B071 |
+| L1285 | 2026-10-31 | IA **`0200unix`** n0003 (**B071**) | Floyd 1850 start | County of Floyd, 20 July, David Cooley, stamped **813**. Daniel Steel **59** physician Stokes N.C. (**C1475**) | S1116 | B071 |
+| L1286 | 2026-10-31 | IA **`0200unix`** n0090 / n0120 / n0150 / n0300 (**B071**) | Floyd bounds | n0090/n0120 still Floyd; n0150 **Barren**; n0300 **Franklin** (**C1476**) | S1117 | B071 |
+| L1287 | 2026-10-31 | Floyd 1850 close (**B071**) | William × Rhoda | Compiled family-name + isolate. County **CLOSED** (**C1477**) | S1115 S1116 | B071 |
+| L1288 | 2026-10-31 | IA **`0197unix`** n0005 (**B071**) | Clay 1850 start | County of Clay, 26 July, Herschel White. dw **14** William Collins (**C1478**) | S1118 | B071 |
+| L1289 | 2026-10-31 | IA **`0197unix`** n0054 (**B071**) | Clay still | 16 Aug, H.L. White, stamped **317**. Isolate of hh **54** = n0009 (**C1479 C1491**) | S1119 | B071 |
+| L1290 | 2026-10-31 | S-K Pike 1850 HTML (**B071**) | N / T surnames | NEW/NEWSOM/NICHOLS/NUNERY; TACKETT…TOLLEY. **No** Newman/Tincher. n0005 Pike isolated (**C1480**) | S1120 S1121 | B071 |
+| L1291 | 2026-10-31 | Pike 1850 close (**B071**) | William × Rhoda | Compiled family-name. County **CLOSED** (**C1481**) | S1120 | B071 |
+| L1292 | 2026-10-31 | S-K Harlan 1850 HTML (**B071**) | N / T surnames | NANCE…NUNN; TINSLEY. **No** Newman/Tincher (**C1482**) | S1122 | B071 |
+| L1293 | 2026-10-31 | IA **`0206unix`** n0005 (**B071**) | purported Harlan reel | **Jefferson / Louisville** — not Harlan. Harlan **CLOSED** compiled (**C1483**) | S1123 | B071 |
+| L1294 | 2026-10-31 | Free marriage (**B071**) | William × Rhoda | Still **no** free license. kykinfolk **404**. `/wills/` LIVE no license (**C1484**) | S1130 | B071 |
+| L1295 | 2026-10-31 | Same-person / parents (**B071**) | William × Rhoda | Parents still **PROBABLE**. 1860 Rhoda widow + B.F. **7** **PROVEN**. #28 stands (**C1485**) | S1130 | B071 |
+| L1296 | 2026-10-31 | GT Lee WWI (**B059**) | Luther / John H. / McCoy | LIVE **452540**. Luther Brandenburg + Underwood only (**C1486**) | S1125 | B059 |
+| L1297 | 2026-10-31 | FS **1146342 / 127913 / 156057** (**B065/B045/B069**) | catalog | Incapsula **403** (R011-**62**). Images unread (**C1487**) | S1126 | B065 B045 B069 |
+| L1298 | 2026-10-31 | USGenNet Lee `/wills/` (**B045/B065**) | Samuel P. | Jane Steele / Elizabeth / Mary F. TINCHER. **No** Samuel P. Clerk not re-asked (**C1488**) | S1124 | B045 B065 |
+| L1299 | 2026-10-31 | Hutchins FAQ **9938** / IA **602** / Solr M1509 (**B055/B088/B069**) | cards / imagecount | LIVE rooms **228–229**. **602** still **515**. M1509 **0** (**C1489**) | S1127 S1128 S1112 | B055 B088 B069 |
+| L1300 | 2026-10-31 | Grant 21 / David G 1984 / McCoy / WCHS / 33-12 (**B081/B084/B082**) | same-person | Grant 21 **not merged**. B084 POSSIBLE Jr only. WCHS DNS. Do not print 1966/1962. No 33-12 walk (**C1490**) | S1129 S1130 | B081 B084 B082 B089 |
+| L1301 | 2026-10-31 | IA **`0197unix`** n0009 hh **54** (**B071**) | John Hibbard / William Newman | **Image seen.** John Hibbard **75** Va + Margaret **71** + John Davis **12** + Margaret **10** + James **10** + Franklin **5** Mo + **William Newman 42** M Ten (**C1491**) | S1131 S1132 S1133 | B071 |
+| L1302 | 2026-10-31 | Same-person Clay William **42** original (**B071**) | vs William × Rhoda | **REJECT** confirmed: no Rhoda; no Decatur/Leaner. **C1347** now image-seen (**C1492**) | S1132 S1133 | B071 |
+| L1303 | 2026-10-31 | Parents after Clay original (**B071**) | William × Rhoda | Still **PROBABLE**. 1850 couple unread as living head (**C1493**) | S1135 | B071 |
+| L1304 | 2026-10-31 | Clay hh **54** close (**B071**) | isolate | **CLOSED** as reject. Remaining Clay N-walk not required for this reject (**C1494**) | S1135 | B071 |
+| L1305 | 2026-10-31 | Did not walk Estill **33-12 / 33-13**; phones / R001/R007/R008 | — | As instructed. No re-ask (**C1495**) | S1135 | B058 B089 |
+| L1306 | 2026-10-31 | Search-variant-alternatives cats **1–4** | William/Rhoda/Luther/Dora | Soundex **N550** / **T526** / **S350**. Exact strings this extract | S1130 S1135 | B071 |
+
+| L1307 | 2026-10-31 | LOC sn89051008 JSON (**B058**) | Dardanelle Post-Dispatch / digitized | `item.digitized: false` (pass122). Film unread. Phone not re-asked (**C1496**) | S1136 | B058 |
+| L1308 | 2026-10-31 | IA Solr Post-Dispatch 1926 (**B058**) | Dardanelle Post-Dispatch 1926 | **numFound 0** (**C1496**) | S1137 | B058 |
+| L1309 | 2026-10-31 | Wayback 2013 RootsWeb KYLetcher 1850 every-name (**B071**) | Newman / Tincher | 2,509 names; pages **125a–155b**. N = Nicholas/Niece/NS; T = Taylor/Thacker/Thomas/Tyre. **No** Newman/Tincher (**C1497**) | S1138 | B071 |
+| L1310 | 2026-10-31 | IA **`0209unix`** n0531 (**B071**) | last Lawrence | County of Lawrence, 2 Oct, J. W. Haws. Elizabeth Flannery **4** (**C1498**) | S1139 | B071 |
+| L1311 | 2026-10-31 | IA **`0209unix`** n0532 (**B071**) | Letcher start | District **2**, 23 Aug 1850, P. H. Collier, stamped **125** (**C1499**) | S1140 | B071 |
+| L1312 | 2026-10-31 | IA **`0209unix`** n0560 / n0580 / n0590 (**B071**) | Letcher mid/late | Dist 2 13 Sep stamped **139**; first district 27/30 Aug J. M. Burns (**C1500**) | S1141 | B071 |
+| L1313 | 2026-10-31 | Letcher 1850 close (**B071**) | compiled + isolate | n0591 MICROCOPY 432; n0593 404. County **CLOSED** (**C1501**) | S1138 S1142 | B071 |
+| L1314 | 2026-10-31 | S-K Johnson 1850 + reel **208** n0005 (**B071**) | N / T surnames | NELSON/NIBERT/NICHELL/NOTT; no Newman/Tincher. n0005 = Jessamine. **CLOSED** compiled (**C1502**) | S1143 S1144 | B071 |
+| L1315 | 2026-10-31 | S-K Estill 1850 reconfirm (**B071**) | NEWMAN | **85B / 91B** only (already REJECT). No TINCHER (**C1503**) | S1145 | B071 |
+| L1316 | 2026-10-31 | S-K Breathitt 1850 reconfirm (**B071**) | TINCHER | **20B** only (already REJECT). No Newman (**C1504**) | S1146 | B071 |
+| L1317 | 2026-10-31 | S-K Madison 1850 reconfirm (**B071**) | NEWMAN | **250B** only (already REJECT) (**C1505**) | S1147 | B071 |
+| L1318 | 2026-10-31 | Free marriage (**B071**) | William × Rhoda | Still **no** free license. kykinfolk **404** (**C1506**) | S1148 | B071 |
+| L1319 | 2026-10-31 | Same-person / parents (**B071**) | William × Rhoda | Parents still **PROBABLE**. 1860 Rhoda widow + B.F. **7** **PROVEN**. #28 stands (**C1507**) | S1155 | B071 |
+| L1320 | 2026-10-31 | GT Lee WWI (**B059**) | Luther / John H. / McCoy | LIVE **452540**. Luther Brandenburg + Underwood only (**C1508**) | S1149 | B059 |
+| L1321 | 2026-10-31 | FS **1146342 / 127913 / 156057** (**B065/B045/B069**) | catalog | Incapsula **403** (R011-**63**). Images unread (**C1509**) | S1150 | B065 B045 B069 |
+| L1322 | 2026-10-31 | USGenNet Lee `/wills/` + IA Solr M1509 (**B045/B065/B069**) | Samuel P. / cards | Jane Steele / Elizabeth / Mary F. TINCHER. **No** Samuel P. M1509 **0**. Clerk not re-asked (**C1509**) | S1151 S1152 | B045 B065 B069 |
+| L1323 | 2026-10-31 | Hutchins FAQ **9938** (**B055/B080**) | *Citizen* cards | `libraryanswers` **LIVE** rooms **228–229**. No free June **1958** clip. Phone not re-asked (**C1510**) | S1153 | B055 B080 |
+| L1324 | 2026-10-31 | IA **602** metadata (**B088**) | imagecount | still **515**. One line (**C1511**) | S1154 | B088 |
+| L1325 | 2026-10-31 | Grant 21 vs David F. (**B081**) | same-person | **not merged** (**C1512**) | S1155 | B081 |
+| L1326 | 2026-10-31 | David G 1984 (**B084**) | Jr | POSSIBLE Jr only. Living 1950-line withheld (**C1513**) | S1155 | B084 |
+| L1327 | 2026-10-31 | McCoy / WCHS / cert **17762** (**B085/B082**) | deceased-only | No new McCoy. Do not print 1962 or 1966 (**C1514**) | S1155 | B085 B082 |
+| L1328 | 2026-10-31 | Did not walk Estill **33-12 / 33-13**; phones / R001/R007/R008 | — | As instructed. No re-ask (**C1515**) | S1155 | B058 B089 |
+| L1329 | 2026-10-31 | Search-variant-alternatives cats **1–4** | William/Rhoda/Luther/Dora | Soundex **N550** / **T526** / **S350**. Exact strings this extract | S1155 | B071 |
+| L1330 | 2026-10-31 | SK Letcher / Lawrence / USGW / KYGenWeb Letcher (**B071**) | workaround | SK **404**; USGW timeout; KYGenWeb 1850 redirects to landing. ≥3 workarounds: Wayback every-name + original isolate + SK siblings | S1138 S1142 | B071 |
+
+| L1331 | 2026-10-31 | LOC sn89051008 JSON (**B058**) | Dardanelle Post-Dispatch / digitized | `item.digitized: false` (pass123). Film unread. Phone not re-asked (**C1516**) | S1156 | B058 |
+| L1332 | 2026-10-31 | IA Solr Post-Dispatch 1926 (**B058**) | Dardanelle Post-Dispatch 1926 | **numFound 0** (**C1516**) | S1157 | B058 |
+| L1333 | 2026-10-31 | RootsWeb kylawren CEN1850PT1 (**B071**) | Newman / Tincher | hh **1–500** nil (**C1517**) | S1158 | B071 |
+| L1334 | 2026-10-31 | RootsWeb kylawren CEN1850PT2 hh **653** (**B071**) | Henry Newman | **44** GER blacksmith + Agnus IRE. **REJECT** (**C1518**) | S1159 | B071 |
+| L1335 | 2026-10-31 | RootsWeb kylawren CEN1850PT2 hh **820** (**B071**) | Reynolds Newman | **45** NC × Malinda; son William **12**. **REJECT** (**C1519**) | S1159 | B071 |
+| L1336 | 2026-10-31 | Lawrence 1850 tax + close (**B071**) | Newman | Reynolds only. County **CLOSED** compiled (**C1520**) | S1160 | B071 |
+| L1337 | 2026-10-31 | S-K Nicholas 1850 (**B071**) | N / T surnames | NEAL/NEWPORT/NICHOLS…; no Newman/Tincher. **CLOSED** (**C1521**) | S1161 | B071 |
+| L1338 | 2026-10-31 | S-K Boyle 1850 (**B071**) | N / T surnames | NASH…NORTHCUT; no Newman/Tincher. **CLOSED** (**C1522**) | S1162 | B071 |
+| L1339 | 2026-10-31 | S-K Wayne 1850 (**B071**) | N / T surnames | NEW only; no Newman/Tincher. **CLOSED** (**C1523**) | S1163 | B071 |
+| L1340 | 2026-10-31 | IA `pulaskicountyken0000pula` index (**B071**) | NEWMAN | **26-27-78** only (**C1524**) | S1164 | B071 |
+| L1341 | 2026-10-31 | IA **`0217unix`** n0157 (**B071**) | Andy I Newman | Div 1 16 Aug stamped **27**. **41** NC blacksmith × Mary. **REJECT** (**C1525**) | S1165 | B071 |
+| L1342 | 2026-10-31 | IA **`0217unix`** n0158 (**B071**) | Edward Newman | 17 Aug. **64** NC farmer × Anna. **REJECT** (**C1526**) | S1166 | B071 |
+| L1343 | 2026-10-31 | IA **`0217unix`** n0212 (**B071**) | Will I Newman / SK 42A | 7 Sep stamped **42**. **31** VA farmer × Rachel + Sarah A / Elizabeth / Martha. **REJECT** (**C1527**) | S1167 | B071 |
+| L1344 | 2026-10-31 | Pulaski page-14 window n0132 (**B071**) | SK NEWNAM 14A/14B | hh **9–19** visually nil Newnam. Book p.14 NIKIRK (**C1528**) | S1169 | B071 |
+| L1345 | 2026-10-31 | Pulaski 1850 close (**B071**) | three Newman heads | County **CLOSED** compiled + originals (**C1529**) | S1164–S1169 | B071 |
+| L1346 | 2026-10-31 | Bath 2nd Div n0384–n0386 (**B071**) | TINCHER 6–7 | Pages **5–7** nil Tincher (**C1530**) | S1170 | B071 |
+| L1347 | 2026-10-31 | Bath 1st Div n0470 / n0480 (**B071**) | 1st Div isolate | 6 Sep stamped **89** / 11 Sep stamped **99**. TINCHER **6–7** residual (**C1531**) | S1171 | B071 |
+| L1348 | 2026-10-31 | Fleming Dist 1 n0398 + SK (**B071**) | NEWMAN pages | 4 Sep stamped **310**. 309A/379–395 originals residual (**C1532**) | S1172 S1173 | B071 |
+| L1349 | 2026-10-31 | Reel **208** Johnson gap (**B071**) | Jessamine / Kenton | n0251 Jessamine; n0253 Kenton. Johnson original not isolated (**C1533**) | S1174 | B071 |
+| L1350 | 2026-10-31 | Free marriage (**B071**) | William × Rhoda | Still **no** free license (**C1534**) | S1175 | B071 |
+| L1351 | 2026-10-31 | Same-person / parents (**B071**) | William × Rhoda | Parents still **PROBABLE**. 1860 Rhoda widow + B.F. **7** **PROVEN**. #28 stands (**C1535**) | S1180 | B071 |
+| L1352 | 2026-10-31 | GT Lee WWI (**B059**) | Luther / John H. / McCoy | LIVE **452540**. Luther Brandenburg + Underwood only (**C1536**) | S1176 | B059 |
+| L1353 | 2026-10-31 | FS **1146342 / 127913 / 156057** (**B065/B045/B069**) | catalog | Incapsula **403** (R011-**64**). Images unread (**C1537**) | S1177 | B065 B045 B069 |
+| L1354 | 2026-10-31 | USGenNet Lee `/wills/` + IA Solr M1509 (**B045/B065/B069**) | Samuel P. / cards | Jane Steele / Elizabeth / Mary F. TINCHER. **No** Samuel P. M1509 **0**. Clerk not re-asked (**C1537**) | S1178 | B045 B065 B069 |
+| L1355 | 2026-10-31 | Hutchins FAQ **9938** (**B055/B080**) | *Citizen* cards | `libraryanswers` **LIVE** rooms **228–229**. No free June **1958** clip. Phone not re-asked (**C1538**) | S1179 | B055 B080 |
+| L1356 | 2026-10-31 | IA **602** metadata (**B088**) | imagecount | still **515**. One line (**C1539**) | S1179 | B088 |
+| L1357 | 2026-10-31 | Grant 21 vs David F. (**B081**) | same-person | **not merged** (**C1540**) | S1180 | B081 |
+| L1358 | 2026-10-31 | David G 1984 (**B084**) | Jr | POSSIBLE Jr only. Living 1950-line withheld (**C1540**) | S1180 | B084 |
+| L1359 | 2026-10-31 | McCoy / WCHS / cert **17762** (**B085/B082**) | deceased-only | No new McCoy. Do not print 1962 or 1966 (**C1540**) | S1180 | B085 B082 |
+| L1360 | 2026-10-31 | Search-variant-alternatives cats **1–4** | William/Rhoda/Luther/Dora | Soundex **N550** / **T526** / **S350**. Exact strings this extract | S1180 | B071 |
+
+| L1361 | 2026-10-31 | LOC sn89051008 JSON (**B058**) | Dardanelle Post-Dispatch / digitized | `item.digitized: false` (pass124). Film unread (**C1541**) | S1181 | B058 |
+| L1362 | 2026-10-31 | IA **`0191unix`** n0470 (**B071**) | Bath division | **2d Division** 6 Sep stamped **89**. Corrects C1531 (**C1542**) | S1183 | B071 |
+| L1363 | 2026-10-31 | Bath 2nd Div remap n0386–n0392 (**B071**) | SK page numbers | 4A–7A mapped by Stewart/Shrout/Spence/Setters/Smoot (**C1543**) | S1184 | B071 |
+| L1364 | 2026-10-31 | IA **`0191unix`** n0390 (**B071**) | TINCHER 6A | John **26** × Ann **17**. **REJECT** (**C1544**) | S1185 | B071 |
+| L1365 | 2026-10-31 | IA **`0191unix`** n0391 (**B071**) | TINCHER 6B | Francis **36** VA × Nancy. **REJECT** (**C1545**) | S1186 | B071 |
+| L1366 | 2026-10-31 | IA **`0191unix`** n0392 (**B071**) | TINCHER 7A | John S **47** VA × Betsy; William **20** son. **REJECT** (**C1546**) | S1187 | B071 |
+| L1367 | 2026-10-31 | Bath TINCHER 6–7 close (**B071**) | three households | Page-level **CLOSED** (**C1547**) | S1185–S1187 | B071 |
+| L1368 | 2026-10-31 | Bath 1850 close (**B071**) | N + Tincher | County **CLOSED** compiled + originals (**C1548**) | S1188 | B071 |
+| L1369 | 2026-10-31 | IA **`0199unix`** n0396 (**B071**) | SK 309 | John **55** × Elizabeth; Alexander **42**. **REJECT** (**C1549**) | S1189 | B071 |
+| L1370 | 2026-10-31 | IA **`0199unix`** n0443 (**B071**) | SK 331B | John **78** VA × Elizabeth MD. **REJECT** (**C1550**) | S1190 | B071 |
+| L1371 | 2026-10-31 | IA **`0199unix`** n0539 (**B071**) | Thomas Newman | **40** × Margarett. **REJECT** (**C1551**) | S1191 | B071 |
+| L1372 | 2026-10-31 | USGW Fleming Rigdon compiled (**B071**) | Samuel / James / John D | All **REJECT**. No William × Rhoda (**C1552**) | S1192 | B071 |
+| L1373 | 2026-10-31 | Fleming Dist 1 close (**B071**) | Newman heads | Dist 1 originals **CLOSED**. 395A residual (**C1553**) | S1193 | B071 |
+| L1374 | 2026-10-31 | Free marriage (**B071**) | William × Rhoda | Still **no** free license (**C1554**) | S1194 | B071 |
+| L1375 | 2026-10-31 | Same-person / parents (**B071**) | William × Rhoda | Parents still **PROBABLE**. #28 stands (**C1555**) | S1210 | B071 |
+| L1376 | 2026-10-31 | GT Lee WWI (**B059**) | Luther / John H. / McCoy | LIVE **452540**. Luther Brandenburg + Underwood only (**C1556**) | S1195 | B059 |
+| L1377 | 2026-10-31 | FS **1146342 / 127913 / 156057** (**B065/B045/B069**) | catalog | SPA ~19 KB (R011-**65**). Images unread. Wills no Samuel P. (**C1557**) | S1196 S1197 | B065 B045 B069 |
+| L1378 | 2026-10-31 | Hutchins FAQ **9938** (**B055/B080**) | *Citizen* cards | **LIVE** rooms **228–229**. No free June **1958** clip (**C1558**) | S1198 | B055 B080 |
+| L1379 | 2026-10-31 | IA **602** metadata (**B088**) | imagecount | still **515**. One line (**C1559**) | S1199 | B088 |
+| L1380 | 2026-10-31 | Grant 21 vs David F. (**B081**) | same-person | **not merged** (**C1560**) | S1210 | B081 |
+| L1381 | 2026-10-31 | David G 1984 (**B084**) | Jr | POSSIBLE Jr only. Living 1950-line withheld (**C1560**) | S1210 | B084 |
+| L1382 | 2026-10-31 | McCoy / WCHS / cert **17762** (**B085/B082**) | deceased-only | No new McCoy. Do not print 1962 or 1966 (**C1560**) | S1210 | B085 B082 |
+| L1383 | 2026-10-31 | Search-variant-alternatives cats **1–4** | William/Rhoda/Luther/Dora | Soundex **N550** / **T526** / **S350**. Exact strings this extract | S1210 | B071 |
+
+
+
+**Access honesty (pass 120):** LOC sn89051008 JSON **seen** (`item.digitized: false`). IA Solr Post-Dispatch 1926 **0**. IA Solr M1509 KY **0**. IA **602** metadata **515**. Knox 77 two-ups **image seen**; OCR **token-nil**. Floyd family-name index **HTML seen**; n0003 start **image seen**. Clay n0005 / n0054 headers **image seen**. Pike + Harlan S-K **HTML seen**. FS three IDs Incapsula **403**. USGenNet `/wills/` **HTML seen**. GT Lee WWI **LIVE**. Hutchins FAQ **9938** **LIVE**. WCHS **DNS**. *Dardanelle Post-Dispatch* film **unread**. M1509 **cards unread**. Certs **unread**. Authored `latest.docx` SHA **78cdcf44…** not overwritten.
+
+**Access honesty (pass 121):** IA **`0197unix`** Clay n0005–n0020 + n0009 full sheet **image seen**. hh **54** band **image seen**. Tesseract on namecols **draft only**. Remaining Clay leaves after the isolate **not** every-line walked. Authored `latest.docx` SHA **78cdcf44…** not overwritten.
+
+**Access honesty (pass 118):** LOC sn89051008 JSON **seen** (`item.digitized: false` ×2). IA Solr Post-Dispatch 1926 **0**. IA Solr M1509 KY **0**. IA **602** metadata **515**. Clark 1840 name columns n0005–n0081 **visually** read; n0081 Total County / Winchester **image seen**. Owsley 1850 remaining n0394–n0432 name columns **visually** read; n0408 TINCHER **309A** full sheet **image seen**; n0431/n0433 headers **image seen**. S-K Owsley 1850 **HTML seen**. Knox n0006/n0158 headers **image seen**; montages sampled. Morgan n0174/n0351/n0352 headers **image seen**; montages sampled. FS **1146342 / 127913 / 156057** **404**. USGenNet wills **HTML seen**. GT Lee WWI **452 KB live seen**. Hutchins FAQ **9938** `libraryanswers` **HTML seen**; `libraryguides` **404**. Estill grooms/brides / kykinfolk **404**. WCHS books **HTML seen**. *Dardanelle Post-Dispatch* Pope **Roll 5** and UArk **F419.D37 D3** **film unread**. Newspapers.com **41271** June **1958** pages **unread**. Hutchins June **1958** page **unread**. M1509 **cards unread**. Certs **17762 / 13719 / 09547** **unread**. Knox / Morgan 1850 N-surnames **not fully walked**. Authored `latest.docx` SHA **78cdcf44…** not overwritten.
 
 **Access honesty (pass 117):** LOC sn89051008 JSON **seen** (`item.digitized: false`). IA Solr Post-Dispatch 1926 **0**. IA Solr M1509 KY **0**. IA **602** metadata **515**. Laurel **209** name columns n0331–n0381 **visually** read (montages + prior namecols); n0381/n0382 headers **image seen**. Montgomery **214** name columns n0061–n0171 **visually** read; n0171/n0173 headers **image seen**. Estill 1840 even leaves n0092–n0144 **visually** read; n0146 Recastle certificate **image seen**; Abner + Henaman tight crops **image seen**. Clay 1840 odd leaves n0101–n0133 **visually** read; n0135 recap **image seen**. FS **1146342** SPA / Incapsula. FS **127913** **404**. USGenNet wills **HTML seen**. GT Lee WWI **452 KB live seen**. Hutchins FAQ **9938** **404**. Estill grooms/brides / kykinfolk / USGW **404**. *Dardanelle Post-Dispatch* Pope **Roll 5** and UArk **F419.D37 D3** **film unread**. Newspapers.com **41271** June **1958** pages **unread**. Hutchins June **1958** page **unread**. M1509 **cards unread**. Certs **17762 / 13719 / 09547** **unread**. 1840 Clark names n0005–n0081 **not** fully walked. Authored `latest.docx` SHA **78cdcf44…** not overwritten.
 
@@ -1521,3 +1727,5 @@ One row per search, **including nil results**. Access: free | subscription | on-
 **Access honesty (pass 22):** Cordy Pendergrass cemetery HTML, 1880 mortality, 1870 Proctor 329b, Lee Books 1/5–15, 1920 Sturgeon, GT Yell marriages, and rejected Bunch obits were opened. IA census jp2/PDF and TSLA named death search were **not** successfully queried. Paywalled Ancestry / unsigned FS images remain unread.
 
 **Access honesty:** free items above were actually opened. Paywalled Ancestry, unsigned FamilySearch images, FS **search API block** + **Incapsula** on record search, Find A Grave / yellcountyobits **403**, SortedByName Cloudflare (intermittent), IA **jp2/HTML false downloads** + **truncated PDF range** on T623-856, LOC newspaper **Cloudflare**, and AR Digital Heritage death index (**500 / empty / HTTP 000**) were **not** read. **Pass 29 Oct 2026 (B046):** IA **`14thcensusofpopu086unit`** PDF **~176 MB** downloaded; **ED 200** (IA PDF pp **379–519**, header-checked) read from images; jp2 BookReader still **404**. Pass 14 (PR #15): Greene ED 37 jp2 ~814–830 + ED 38 samples, Bollinger Liberty ED 5 jp2 ~420–480, Lee obituaries F, 1900 Owsley Booneville Robert NEWMAN in Farley hh. Pass 15–16 (PR #16): Thomas A. Stone sh 18A (C117), Greene OCR 0817–0880, Bollinger 0400–0480, Lee marr Books 6–9 nil, Yell GT nil Stone. Pass 17 (PR #17): Buck index UNUM hh 91 (C123), Lee Book 4 nil, reel 855/856 map. Pass 18–19: Lee marr Books **1–10** Robert×Sallie nil; Mary Bunch marr Books 1–15 nil; 1900/1920 Sturgeon Newman FAN; Jiles Mays FAN; Link Mays witness-only (C127); Yell obits Stone list nil 1925 Thomas. Lee `deaths/miscellaneous.html` remains 404. Pass 20 (PR #27 merge): **L238–L244** — 1880 jp2 + Bollinger **769** mid-PDF blocked; Rhubin Newman rejected (**C220**); Digital Heritage Stone browse **500**; Owsley marr books **404**.
+
+**Access honesty (pass 119):** LOC sn89051008 JSON **seen** (`digitized: false`). IA Solr Post-Dispatch 1926 **0**. IA Solr M1509 KY **0**. IA **602** metadata **515**. FS **1146342 / 127913 / 156057** **404**. KYGenWeb Morgan **1850Index.doc** + household .doc **seen** (OLE extract). IA **`0209unix`** Knox n0005–n0158 name columns **image seen** (sampled visual + full OCR draft). IA **`0214unix`** Morgan n0174 / n0260 / n0351 **image seen**; n0351 certificate **image seen**. Hutchins FAQ **9938** `libraryanswers` **LIVE**. USGenNet wills **LIVE**. GT Lee WWI **LIVE** **452540**. SK Knox/Morgan **404**. kykinfolk marriage **404**. USGW Estill/Knox **timeout**. IA hOCR 0209/0214 **28 bytes** empty. Phones / clerk not re-asked.

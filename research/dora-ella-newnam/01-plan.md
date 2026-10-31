@@ -997,3 +997,121 @@ Exact strings logged **L1183–L1214**.
 
 Exact strings logged **L1215–L1234**.
 
+### Pass 118 variant storm (31 Oct 2026)
+
+**Dora Stone 1926 (B058)** — Dora/posa/dosa/rosa/dona × Stone/Newman/Newnam. Soundex **S350** / **N550**. Cert **1524** RD **676**. Place Pope **Roll 5** / UArk **F419.D37 D3** / LCCN **sn89051008**. IA Solr title Dardanelle Post / Post-Dispatch year **1926**. One catalog reconfirm only (`item.digitized: false`). Phone **479-968-4368** already recorded — do not re-ask.
+
+**William × Rhoda / Clark 1840 + 1850 residual (B071)** — William/Wm/Will × Newnam/Newman/Newnarn/Newan/Newnom/Nunnem/Numan. Rhoda/Roda × Tincher/Tinchir/Fincher/Tinker. Decatur / Leaner / Benjamin F./B.F. / Thos. Soundex **N550** / **T526**. Place Clark 1840 reel **108** odd names n0005–n0081; Owsley 1850 reel **216** remaining n0394–n0432 (TINCHER **309A**); Knox reel **209** n0005–n0158; Morgan reel **214** n0173–n0351. OCR/HTR given William / Rhoda / Thomas / Newman / Tincher.
+
+**Marriage** — William × Rhoda Tincher; H.H. × Belinda Tincher **27 Feb 1840** kept separate.
+
+**Frank / David G (B055/B080)** — Frank/David F./David G. × Newnam/Newman. Soundex **N550**. Hutchins FAQ **9938** (`libraryanswers.berea.edu`) rooms **228–229**. Phone **859-985-3364** already recorded.
+
+**WWI (B069/B059)** — Luther/John H./McCoy × Newnam/Newman/newnarn. M1509 **KY45 / KY24 / KY74**. Soundex **N550** / **M200**.
+
+**Samuel probate (B045/B065)** — Samuel/Sam P. × Newnam/Newman. FS **127913 / 156057 / 97277**. Jane Steele / Elizabeth / Mary F. Tincher already the last live wills read.
+
+**John L (B082)** — John L × Newman cert **17762** RD **036**. Do not print 1966 as fact.
+
+**McCoy / Grant 21 / David G 1984 (B085/B081/B084)** — McCoy/Coy × Newman/Newnam; Grant/David F./David G. Soundex **N550** / **M200**. Deceased-only. Do not print 1962.
+
+Exact strings logged **L1235–L1256**.
+
+### Pass 119 variant storm (31 Oct 2026)
+
+**Dora Stone 1926 (B058)** — Dora/posa/dosa/rosa/dona × Stone/Newman/Newnam. Soundex **S350** / **N550**. Cert **1524** RD **676**. Place Pope **Roll 5** / UArk **F419.D37 D3** / LCCN **sn89051008**. IA Solr title Dardanelle Post / Post-Dispatch year **1926**. One catalog reconfirm only (`item.digitized: false`). Phone **479-968-4368** already recorded — do not re-ask.
+
+**William × Rhoda / Knox + Morgan 1850 (B071)** — William/Wm/Will × Newnam/Newman/Newnarn/Newan/Newnom/Nunnem/Numan. Rhoda/Roda × Tincher/Tinchir/Fincher/Tinker. Needham/Nickell/Noble/Norman (Morgan N-window). Soundex **N550** / **T526**. Place Knox reel **209** n0005–n0158 (Larue n0160); Morgan reel **214** n0174–n0351 + KYGenWeb **1850Index.doc**. OCR/HTR given William / Rhoda / Newman / Tincher / Newton.
+
+**Marriage** — William × Rhoda Tincher; H.H. × Belinda Tincher **27 Feb 1840** kept separate. Authored mytrees 1845 unused.
+
+**Frank / David G (B055/B080)** — Frank/David F./David G. × Newnam/Newman. Soundex **N550**. Hutchins FAQ **9938** (`libraryanswers.berea.edu`) rooms **228–229**. Phone **859-985-3364** already recorded.
+
+**WWI (B069/B059)** — Luther/John H./McCoy × Newnam/Newman/newnarn. M1509 **KY45 / KY24 / KY74**. Soundex **N550** / **M200**.
+
+**Samuel probate (B045/B065)** — Samuel/Sam P. × Newnam/Newman. FS **127913 / 156057 / 97277**. Jane Steele / Elizabeth / Mary F. Tincher already the last live wills read.
+
+**John L (B082)** — John L × Newman cert **17762** RD **036**. Do not print 1966 as fact.
+
+**McCoy / Grant 21 / David G 1984 (B085/B081/B084)** — McCoy/Coy × Newman/Newnam; Grant/David F./David G. Soundex **N550** / **M200**. Deceased-only. Do not print 1962.
+
+Exact strings logged **L1257–L1278**.
+
+### Pass 120 variant storm (31 Oct 2026)
+
+**Dora Stone 1926 (B058)** — Dora/posa/dosa/rosa/dona × Stone/Newman/Newnam. Soundex **S350** / **N550**. Cert **1524** RD **676**. Place Pope **Roll 5** / UArk **F419.D37 D3** / LCCN **sn89051008**. IA Solr title Dardanelle Post-Dispatch year **1926**. One catalog reconfirm only (`item.digitized: false`). Phone **479-968-4368** already recorded — do not re-ask.
+
+**William × Rhoda / Knox + Floyd + Pike + Harlan 1850 (B071)** — William/Wm/Will × Newnam/Newman/Newnarn/Newan/Newnom/Nunnem/Numan. Rhoda/Roda × Tincher/Tinchir/Fincher/Tinker. Soundex **N550** / **T526**. Place Knox reel **209** n0005–n0158 two-ups; Floyd family-name N = NEAL/NESBITT/NEWSOM/NICHOLS/NOLEN/NUSOM; Pike S-K N = NEW/NEWSOM/NICHOLS/NUNERY; Harlan S-K N = NANCE/NAPIER/NEILL/NOE/NOLEN/NUNN. OCR/HTR given William / Rhoda / Newman / Tincher / Hibbard.
+
+**Marriage** — William × Rhoda Tincher; H.H. × Belinda Tincher **27 Feb 1840** kept separate. Authored mytrees 1845 unused.
+
+**Frank / David G (B055/B080)** — Frank/David F./David G. × Newnam/Newman. Soundex **N550**. Hutchins FAQ **9938** (`libraryanswers.berea.edu`) rooms **228–229**. Phone **859-985-3364** already recorded.
+
+**WWI (B069/B059)** — Luther/John H./McCoy × Newnam/Newman/newnarn. M1509 **KY45 / KY24 / KY74**. Soundex **N550** / **M200**.
+
+**Samuel probate (B045/B065)** — Samuel/Sam P. × Newnam/Newman. FS **127913 / 156057 / 97277**. Jane Steele / Elizabeth / Mary F. Tincher already the last live wills read.
+
+**John L (B082)** — John L × Newman cert **17762** RD **036**. Do not print 1966 as fact.
+
+**McCoy / Grant 21 / David G 1984 (B085/B081/B084)** — McCoy/Coy × Newman/Newnam; Grant/David F./David G. Soundex **N550** / **M200**. Deceased-only. Do not print 1962.
+
+Exact strings logged **L1279–L1300**.
+
+### Pass 121 variant storm (31 Oct 2026)
+
+**Clay 1850 Hibbard hh 54 (B071)** — William/Wm × Newman/Newnam/Newnarn; Hibbard/Hibbord/Hebbard; John + Margaret. Soundex **N550** / **H163**. Place IA **`populationschedu0197unix`** n0005–n0020 / n0009 stamped **299**. OCR given William / Newman / Hibbard.
+
+Exact strings logged **L1301–L1306**.
+
+
+### Pass 122 variant storm (31 Oct 2026)
+
+**Dora Stone 1926 (B058)** — Dora/posa/dosa/rosa/dona × Stone/Newman/Newnam. Soundex **S350** / **N550**. Cert **1524** RD **676**. Place Pope **Roll 5** / UArk **F419.D37 D3** / LCCN **sn89051008**. IA Solr title Dardanelle Post-Dispatch year **1926**. One catalog reconfirm only (`item.digitized: false`). Phone **479-968-4368** already recorded — do not re-ask.
+
+**William × Rhoda / Letcher + Johnson + SK reconfirm 1850 (B071)** — William/Wm/Will × Newnam/Newman/Newnarn/Newan/Newnom/Nunnem/Numan. Rhoda/Roda × Tincher/Tinchir/Fincher/Tinker. Soundex **N550** / **T526**. Place Letcher reel **209** n0532–n0590 + Wayback 2013 every-name N = Nicholas/Niece/NS; Johnson S-K N = NELSON/NIBERT/NICHELL/NOTT; Estill/Breathitt/Madison SK reconfirm. OCR/HTR given William / Rhoda / Newman / Tincher / Collier / Haws.
+
+**Marriage** — William × Rhoda Tincher; H.H. × Belinda Tincher **27 Feb 1840** kept separate. Authored mytrees 1845 unused.
+
+**Frank / David G (B055/B080)** — Frank/David F./David G. × Newnam/Newman. Soundex **N550**. Hutchins FAQ **9938** (`libraryanswers.berea.edu`) rooms **228–229**. Phone **859-985-3364** already recorded.
+
+**WWI (B069/B059)** — Luther/John H./McCoy × Newnam/Newman/newnarn. M1509 **KY45 / KY24 / KY74**. Soundex **N550** / **M200**.
+
+**Samuel probate (B045/B065)** — Samuel/Sam P. × Newnam/Newman. FS **127913 / 156057 / 97277**. Jane Steele / Elizabeth / Mary F. Tincher already the last live wills read.
+
+**John L (B082)** — John L × Newman cert **17762** RD **036**. Do not print 1966 as fact.
+
+**McCoy / Grant 21 / David G 1984 (B085/B081/B084)** — McCoy/Coy × Newman/Newnam; Grant/David F./David G. Soundex **N550** / **M200**. Deceased-only. Do not print 1962.
+
+Exact strings logged **L1307–L1330**.
+
+### Pass 123 variant storm (31 Oct 2026)
+
+**Dora Stone 1926 (B058)** — Dora/posa/dosa/rosa/dona × Stone/Newman/Newnam. Soundex **S350** / **N550**. Cert **1524** RD **676**. Place Pope **Roll 5** / UArk **F419.D37 D3** / LCCN **sn89051008**. IA Solr title Dardanelle Post-Dispatch year **1926**. One catalog reconfirm only (`item.digitized: false`). Phone **479-968-4368** already recorded — do not re-ask.
+
+**William × Rhoda / Lawrence + Pulaski + Bath + Fleming 1850 (B071)** — William/Wm/Will × Newnam/Newman/Newnarn/Newan/Newnom/Nunnem/Numan. Rhoda/Roda × Tincher/Tinchir/Fincher/Tinker. Andy I / Edward / Will I / Henry / Reynolds. Soundex **N550** / **T526**. Place Lawrence David May PT1+PT2; Pulaski reel **217** n0132 / n0157 / n0158 / n0212 + book `pulaskicountyken0000pula`; Bath reel **191** 2nd Div n0384–n0386 + 1st Div n0470/n0480; Fleming reel **199** n0398 stamped **310**. Nicholas/Boyle/Wayne S-K. OCR/HTR given William / Will I / Andy / Edward / Rhoda / Newman / Newnam / Tincher / Rachel.
+
+**Marriage** — William × Rhoda Tincher; H.H. × Belinda Tincher **27 Feb 1840** kept separate. Authored mytrees 1845 unused.
+
+**Frank / David G (B055/B080)** — Frank/David F./David G. × Newnam/Newman. Soundex **N550**. Hutchins FAQ **9938** (`libraryanswers.berea.edu`) rooms **228–229**. Phone **859-985-3364** already recorded.
+
+**WWI (B069/B059)** — Luther/John H./McCoy × Newnam/Newman/newnarn. M1509 **KY45 / KY24 / KY74**. Soundex **N550** / **M200**.
+
+**Samuel probate (B045/B065)** — Samuel/Sam P. × Newnam/Newman. FS **127913 / 156057 / 97277**. Jane Steele / Elizabeth / Mary F. Tincher already the last live wills read.
+
+**John L (B082)** — John L × Newman cert **17762** RD **036**. Do not print 1966 as fact.
+
+**McCoy / Grant 21 / David G 1984 (B085/B081/B084)** — McCoy/Coy × Newman/Newnam; Grant/David F./David G. Soundex **N550** / **M200**. Deceased-only. Do not print 1962.
+
+Exact strings logged **L1331–L1360**.
+
+### Pass 124 variant storm (31 Oct 2026)
+
+**Dora Stone 1926 (B058)** — Dora/posa/dosa/rosa/dona × Stone/Newman/Newnam. Soundex **S350** / **N550**. Cert **1524** RD **676**. One catalog reconfirm (`item.digitized: false`). Phone **479-968-4368** not re-asked.
+
+**William × Rhoda / Bath TINCHER 6–7 + Fleming NEWMAN (B071)** — William/Wm/Will × Newnam/Newman/Newnarn/Newan/Newnom/Numan. Rhoda/Roda × Tincher/Tinchir/Fincher/Tinker. Francis / John S / John 26 / Ann / Betsy / Andrew. Fleming John 55 / John 78 / Thomas 40 / Samuel 37 / James 37 / John D 48 / Alexander 42. Soundex **N550** / **T526**. Place Bath reel **191** n0390–n0392; Fleming reel **199** n0396 / n0443 / n0539. OCR/HTR Tincher/Tinchir/Fincher; Newman/Newnam.
+
+**Marriage** — William × Rhoda Tincher; H.H. × Belinda **27 Feb 1840** kept separate. Authored mytrees 1845 unused.
+
+**Frank / WWI / probate / 602 / Grant** — same strings as pass 123. FAQ **9938** LIVE. FS SPA R011-**65**.
+
+Exact strings logged **L1361–L1383**.
