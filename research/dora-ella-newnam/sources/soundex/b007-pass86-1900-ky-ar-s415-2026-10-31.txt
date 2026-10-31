@@ -1,0 +1,56 @@
+Pass 86 — 1900 KY / AR S-415 Letha given-name windows + B049 1926 obit storm
+Date: 31 Oct 2026 (America/New_York)
+Backlog: B007 residual Letha unplaced; B049 1926 obituary
+
+=== Access ===
+Image seen via IA BookReader page JPEGs (not the full 100–350 MB PDFs).
+  KY S-415 = soundex1900ky161 (T1047 S-365 Anna B.–S-420 Brown; imagecount 3548)
+    Locator every 100 pp n50–3450. S-415 Sullivan from Aaron n2450 through
+    Samuel n3450. L-window n2948 Kelley → n2952 Laura → n2956 Leslie →
+    n2957 Lewis (empty Letha slot) → Lillie/Lizzie/Lon/Louie/Lucy/Luther n2976.
+    Every card n2900–3080.
+  AR S-415 = soundex1900ar107 (T1033 S-363 P.W.–S-432; imagecount 3979)
+    Locator every 100 pp n50–3850. S-415 from Daniel n2450. L-window
+    Lafayette n2662 → Laura/Lena/Leon/Leonidas → n2676 Lester →
+    n2677 Levi (empty Letha slot) → Lewis tab n2679 → Lizzie/Louie.
+    Every card n2600–2780.
+  IL S-415 located: soundex1900il401 (T1043 S-400 Wm.F.–S-415 Thomas;
+    imagecount 4115) and il402 (S-415 Thomas–S-423 Gerhard; 4305).
+    Film is rotated 90° on BookReader JPEGs; L-window not yet every-card.
+  TN S-415 located: soundex1900tn153 (T1072 S-363 Luke–S-415 Jake; 3974)
+    and tn154 (S-415 James–S-436; 3816). n1850 already S-426 Sliger John.
+    L-window not yet every-card.
+Local /tmp/p86/ working crops not committed except the evidence JPEGs
+listed in S359–S360.
+
+=== KY S-415 L-window (ky161 n2900–3080 every card) ===
+K-tail: Kelley n2948; King H n2949; Kirby L n2950 (Boone).
+L-heads: Laura J n2952 (individual Nov 1886 23 KY, Henderson);
+Lee n2953 (individual Apr 1875 25 KY, Henry);
+Lem n2954 (head Nov 1875 25 KY, Ballard);
+Lenord n2955 (individual Aug 1890 9 KY, Woodford);
+Leslie n2956 (head Feb 1872 28 KY, Russell vol 67 ED 160 sh 10 ln 37);
+Lewis (Slavin/Selvin Colored) n2957 Jefferson;
+Lewis n2958 Green; Lewis n2959 Boone.
+Then Lillie n2960, Linda n2961, Lizzie n2964/2965, Lon n2968,
+Louie n2969, Lucy n2972, Slavers Lucy A n2973, Luther n2976 Green.
+M-names from n2980 (Madaline / Mabel / Maggie / Mary).
+No Letha / Letta / Lethia / Lettie / Litha / Viola card between
+Leslie n2956 and Lewis n2957 (C489).
+
+=== AR S-415 L-window (ar107 n2600–2780 every card) ===
+John band through n2659 (John / Slavin John S continuation).
+L-heads: Lafayette n2662 (Colored Sept 1850 50 MS, Faulkner);
+Laura n2666 (individual Dec 1841 58 IN);
+Lena n2670 / n2671; Leon n2672; Leonidas n2673–2674 (Drew / Francis 79 KY on continuation);
+Lester L n2676 (head Feb 1871 29 TN, Scott / Hickman Twp vol 35 ED 111 sh 1 ln 63);
+Levi P n2677 (head Oct 1864 35 AR, Crawford / Dyer Twp) + continuation n2678 (son John L Feb 1899 1 AR);
+Lewis tab n2679; Lizzie n2682; Louie n2686 (individual Mar 1882 18 MO).
+M-names from ~n2694 (Mack / Maggie / Malvina / Martin / Mary / Michael).
+No Letha / Letta / Lethia / Lettie / Litha / Viola card between
+Lester n2676 and Levi n2677 (C490).
+
+=== Residual ===
+Letha ~0–2 would sit on a parent card, not her own (same limit as C255/C374).
+Next S-415: rotate-walk IL il401 L-window; TN tn154 after James/John.
+B049 1926 paper still unread (see newspapers/b049-pass86-1926-obit-storm-2026-10-31.txt).

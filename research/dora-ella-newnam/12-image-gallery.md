@@ -166,6 +166,10 @@ Diplomatic transcriptions: [`08-transcriptions.md`](08-transcriptions.md). Citat
 | 191 | 1900 (index) | Rejected same-name | [Alaska C-563 — Conrad, W. J., Nome passenger; no Jesse leaf](sources/soundex/ak1900-c563-p3035-wj-passenger.jpg) |
 | 192 | 1900 (index) | Rejected same-name | [Hawaii C-563 — Conradt, Wm., Hawaiian Islands; daughter Dora, 2](sources/soundex/hi1900-c563-p1957-wm-conradt.jpg) |
 | 193 | 1900 (index) | Rejected same-name | [Hawaii C-563 — Conradt, Wm., 18, Hawaiian Islands, Puna; no Jesse leaf](sources/soundex/hi1900-c563-p1959-wm-18.jpg) |
+| 194 | 1900 (index) | Negative search | [Kentucky S-415 — Sullivan, Leslie, 28, Russell; last leaf before Letha](sources/soundex/ky1900-s415-p2956-leslie.jpg) |
+| 195 | 1900 (index) | Negative search | [Kentucky S-415 — Lewis, after Leslie; Letha slot empty](sources/soundex/ky1900-s415-p2957-lewis-after-leslie.jpg) |
+| 196 | 1900 (index) | Negative search | [Arkansas S-415 — Sullivan, Lester L., 29, Scott; last leaf before Letha](sources/soundex/ar1900-s415-p2676-lester.jpg) |
+| 197 | 1900 (index) | Negative search | [Arkansas S-415 — Levi P., after Lester; Letha slot empty](sources/soundex/ar1900-s415-p2677-levi-after-lester.jpg) |
 | 123 | 1900 (index) | Context | [Texas C-563 — J-tab divider](sources/soundex/tx1900-c563-p1-j-divider.jpg) |
 | 17 | Apr 1910 | Negative search | [Kentucky N-550 — Millie / Missouri; no McCoy](sources/soundex/ky1910-n550-p329-millie-missouri.jpg) |
 | 18 | Apr 1910 | Negative search | [Kentucky N-550 — Monroe; still no McCoy](sources/soundex/ky1910-n550-p330-monroe-no-mccoy.jpg) |
@@ -1694,6 +1698,46 @@ Hawaiian head, born Germany, Pulo District. Wife Emily, 37, Hawaiian Islands; so
 Caucasian head, December 1881, age 18, born Hawaiian Islands, Puna. Living alone. C-600 divider follows at n1961. Combined with the n1930–2120 every-card walk, Hawaii 1900 C-563 has no Jesse Conrad head.
 
 ![Hawaii C-563 — Conradt, Wm., 18, Hawaiian Islands, Puna; no Jesse leaf](sources/soundex/hi1900-c563-p1959-wm-18.jpg)
+
+### 194 · 1900 (index) · Kentucky S-415 — Sullivan, Leslie, 28, Russell; last leaf before Letha
+
+**Role:** Negative search  
+**File:** [`sources/soundex/ky1900-s415-p2956-leslie.jpg`](sources/soundex/ky1900-s415-p2956-leslie.jpg)  
+**Source:** S359 · C489
+
+White head, February 1872, age 28, born Kentucky, Russell County, volume 67, ED 160, sheet 10, line 37. Immediate L-leaf before Lewis. Combined with Plate 195, Kentucky 1900 S-415 has no Letha, Letta, Lethia, or Lettie head.
+
+![Kentucky S-415 — Sullivan, Leslie, 28, Russell; last leaf before Letha](sources/soundex/ky1900-s415-p2956-leslie.jpg)
+
+### 195 · 1900 (index) · Kentucky S-415 — Lewis, after Leslie; Letha slot empty
+
+**Role:** Negative search  
+**File:** [`sources/soundex/ky1900-s415-p2957-lewis-after-leslie.jpg`](sources/soundex/ky1900-s415-p2957-lewis-after-leslie.jpg)  
+**Source:** S359 · C489
+
+Colored head, March 1872, age 28, born Kentucky, Jefferson County. First L-e-w leaf after Leslie. No Letha, Letta, Lethia, or Lettie card sits between them. A child of about two would appear only on a parent card.
+
+![Kentucky S-415 — Lewis, after Leslie; Letha slot empty](sources/soundex/ky1900-s415-p2957-lewis-after-leslie.jpg)
+
+### 196 · 1900 (index) · Arkansas S-415 — Sullivan, Lester L., 29, Scott; last leaf before Letha
+
+**Role:** Negative search  
+**File:** [`sources/soundex/ar1900-s415-p2676-lester.jpg`](sources/soundex/ar1900-s415-p2676-lester.jpg)  
+**Source:** S360 · C490
+
+White head, February 1871, age 29, born Tennessee, Scott County, Hickman Township, volume 35, ED 111, sheet 1, line 63. Immediate L-leaf before Levi P. Combined with Plate 197, Arkansas 1900 S-415 has no Letha, Letta, Lethia, or Lettie head.
+
+![Arkansas S-415 — Sullivan, Lester L., 29, Scott; last leaf before Letha](sources/soundex/ar1900-s415-p2676-lester.jpg)
+
+### 197 · 1900 (index) · Arkansas S-415 — Levi P., after Lester; Letha slot empty
+
+**Role:** Negative search  
+**File:** [`sources/soundex/ar1900-s415-p2677-levi-after-lester.jpg`](sources/soundex/ar1900-s415-p2677-levi-after-lester.jpg)  
+**Source:** S360 · C490
+
+White head, October 1864, age 35, born Arkansas, Crawford County, Dyer Township. First Levi leaf after Lester. No Letha, Letta, Lethia, or Lettie card sits between them. The Lewis tab follows at n2679.
+
+![Arkansas S-415 — Levi P., after Lester; Letha slot empty](sources/soundex/ar1900-s415-p2677-levi-after-lester.jpg)
 
 ### 123 · 1900 (index) · Texas C-563 — J-tab divider
 

@@ -1,0 +1,79 @@
+Pass 86 — B049 1926 Dora/Posa Stone obituary free-source storm
+Date: 31 Oct 2026 (America/New_York)
+Backlog: B049 open
+
+Exact strings tried this pass (categories 1–4 + cross-identifier):
+  Dora Stone; Posa Stone; Dora Newman; Dora Newnam; Posa Newman;
+  Dosa Stone; Dona Stone; Rosa Stone Ola; Mrs. Stone Ola; Mrs. T.A. Stone;
+  Tom Stone Yell; Dora Stone Yell; Dora Newman Stone Beattyville Enterprise 1926;
+  Yell County Journal 1926; Beattyville Enterprise 1926; Ola Enterprise 1926;
+  Yell County News 1926; Rural Record 1926; Dardanelle Post 1926; Danville Democrat 1926.
+
+=== Repositories actually opened ===
+1. WebSearch (31 Oct 2026):
+   "Posa Stone Ola Arkansas 1926 obituary" — nil Posa/Dora 1926 obit.
+   "Dora Stone Yell County Arkansas died August 1926" — GT various deaths
+     has Sloan Myrtle V. 18 Aug 1926, not Dora Stone.
+   "Yell County Journal 1926 holdings WorldCat OR Arkansas State Archives" —
+     title ran 1925–1934; LCCN SN90050035; OCLC 21025741; ASA Yell County
+     Newspaper Microfilm collection finding-aid URL JS-blocked.
+   "Dora Newman Stone Beattyville Enterprise 1926" — IA beatty still six
+     issues only (no 1926); Newspapers.com paywall 1896–1999.
+   Neighboring: "Posa/Dora/Mrs T.A. Stone Arkansas 1926 Ola OR Danville
+     OR Dardanelle OR Perryville" — nil 1926 hit.
+   Dardanelle Post-Dispatch 1926 — Chronicling America directory lists
+     sn89051008; not among digitized titles. WebSearch snippet of
+     argenweb.net/pope/yellnews.htm lists Pope County Library microfilm
+     Roll 5 = 21 Jun 1923–26 Apr 1928 (covers Aug 1926). Live curl of
+     that URL this pass = HTTP 406.
+
+2. Internet Archive Solr (advancedsearch.php, 31 Oct 2026):
+   title:("Yell County Journal") AND year:1926     numFound 0
+   title:("Beattyville Enterprise") AND year:1926  numFound 0
+   title:("Ola Enterprise") AND year:1926          numFound 0
+   title:("Yell County News") AND year:1926        numFound 0
+   title:("Rural Record") AND year:1926            numFound 0
+   title:("Dardanelle Post") AND year:1926         numFound 0
+   title:("Danville Democrat") AND year:1926       numFound 0
+   Extends C343.
+
+3. Chronicling America:
+   chroniclingamerica.loc.gov search JSON → HTTP 308 to
+   loc.gov/chroniclingamerica/search/... → HTTP 404.
+   loc.gov/collections/chronicling-america JSON → HTTP 403 Cloudflare.
+   loc.gov/item/sn90050035 and lccn/sn90050035 → HTTP 403 Cloudflare.
+   Pages not read. Logged as access-blocked, not as a name-nil.
+
+4. Genealogy Trails (HTTP 200, pages seen):
+   genealogytrails.com/ark/yell/deaths_various.html — 0 posa / dora stone /
+     newman, dora / newnam. 1926 names on page: SCISSON Johny Mae 16 May 1926;
+     SLOAN Myrtle V. 18 Aug 1926. No Stone.
+   genealogytrails.com/ark/yell/obits.html — 0 posa / dora stone / 1926.
+   genealogytrails.com/ark/yell/news_list.html — directory only
+     (Ola Enterprise 1915–191?; Yell County Journal 1925–1934;
+     Rural Record 1924–1930; Dardanelle Post-Dispatch 190?–1976;
+     Danville Democrat 1899–1927). No digitized 1926 issues.
+
+5. ldsgenealogy.com/AR/Ola.htm (HTTP 200, page seen):
+   Offline newspapers: Ola Enterprise 1915–1910s; Yell County Journal
+   1925–1934. No online 1926 run.
+
+6. yellcountyobits.org siteindex 289/290 — HTTP 403 Cloudflare (snippet
+   from WebSearch showed Stone, Richard 2006 … no 1926 Dora/Posa).
+7. digitalheritage.arkansas.gov death-records-index — DNS fail (host
+   would not resolve this pass).
+8. worldcat.org/oclc/21025741 — HTTP 403 Cloudflare.
+
+=== Workaround steps this pass (adds to L387/L395) ===
+7. Chronicling America JSON follow-redirect 308/404 + Cloudflare 403.
+8. IA Solr 0 for five additional 1926 neighboring titles.
+9. GT Yell deaths_various + obits full-page nil (C492).
+10. Holdings identified: Yell County Journal LCCN SN90050035 / OCLC 21025741;
+    Dardanelle Post-Dispatch Pope Library Roll 5 (1923–1928) as the
+    neighboring-county 1926 substitute (C493/C494). Live ARGenWeb page 406.
+
+=== Still unread ===
+Newspapers.com Beattyville Enterprise Aug 1926; UK S 90-033 (1926 absent
+from catalog years); AR State Archives / Pope County Library (Russellville)
+Dardanelle Post-Dispatch Roll 5 and Yell County Journal 1926 film.
+B049 remains open.

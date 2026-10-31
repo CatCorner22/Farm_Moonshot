@@ -695,3 +695,19 @@ research/dora-ella-newnam/sources/soundex/hi1900-c563-p1959-wm-18.jpg
   format: JPEG Soundex card, IA soundex1900hi005 n1959
 research/dora-ella-newnam/sources/soundex/b007-pass85-1900-ak-hi-c563-2026-10-30.txt
   format: Pass 85 AK/HI C-563 Jesse search log
+research/dora-ella-newnam/sources/soundex/ky1900-s415-p2956-leslie.jpg
+  sha256: 0b62e362f5987d04ff1775e8345a908223e82a20220f19b59e2f739ba1b2fd1a
+  format: JPEG Soundex card, IA soundex1900ky161 n2956
+research/dora-ella-newnam/sources/soundex/ky1900-s415-p2957-lewis-after-leslie.jpg
+  sha256: 5989c492a283786f7841edacedc9928746a1f86ad9ed038bd84bca9c01e662e8
+  format: JPEG Soundex card, IA soundex1900ky161 n2957
+research/dora-ella-newnam/sources/soundex/ar1900-s415-p2676-lester.jpg
+  sha256: 96484f42b7691d727f8ecd18a5b39f89244cd0117531fac0ef9c0c89803f8244
+  format: JPEG Soundex card, IA soundex1900ar107 n2676
+research/dora-ella-newnam/sources/soundex/ar1900-s415-p2677-levi-after-lester.jpg
+  sha256: aeba770fdeabac7acb14e66a55033a468705bb5ee671921f092a494c72da26d1
+  format: JPEG Soundex card, IA soundex1900ar107 n2677
+research/dora-ella-newnam/sources/soundex/b007-pass86-1900-ky-ar-s415-2026-10-31.txt
+  format: Pass 86 KY/AR S-415 Letha search log
+research/dora-ella-newnam/sources/newspapers/b049-pass86-1926-obit-storm-2026-10-31.txt
+  format: Pass 86 B049 1926 obituary free-source storm log

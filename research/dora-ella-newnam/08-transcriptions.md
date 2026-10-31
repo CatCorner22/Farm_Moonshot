@@ -1694,5 +1694,41 @@ Daughter Dora, 2, Hawaiian Islands, is not Letha Sullivan. → **C483 / C487**.
 
 C-600 divider follows at n1961. No Jesse card. → **C483 / C488**.
 
+## DOC124 — 1900 KY Soundex S-415, Leslie Sullivan, 28, Russell County
+- Image: `sources/soundex/ky1900-s415-p2956-leslie.jpg` SHA-256 `0b62e362f5987d04ff1775e8345a908223e82a20220f19b59e2f739ba1b2fd1a`
+- Reel: IA `soundex1900ky161` n**2956**
+
+### Diplomatic
+> **S-415 Sullivan, Leslie** — Head of family · vol **67** ED **160** sh **10** ln **37** · W Feb **1872** **28** Kentucky · Russell / Mag. Dist No. **2**
+
+Immediate L-leaf before Lewis. No Letha / Letta / Lethia / Lettie card between them. → **C489**.
+
+## DOC125 — 1900 KY Soundex S-415, Lewis (after Leslie)
+- Image: `sources/soundex/ky1900-s415-p2957-lewis-after-leslie.jpg` SHA-256 `5989c492a283786f7841edacedc9928746a1f86ad9ed038bd84bca9c01e662e8`
+- Reel: IA `soundex1900ky161` n**2957**
+
+### Diplomatic
+> **S-415** [Slavin/Selvin?], **Lewis** — Head of family · vol **36** ED **5** sh **3** ln **77** · B Mar **1872** **28** Kentucky · Jefferson / Mag. Dist **6**
+
+First L-e-w leaf after Leslie. Empty Letha slot. → **C489**.
+
+## DOC126 — 1900 AR Soundex S-415, Lester L. Sullivan, 29, Scott County
+- Image: `sources/soundex/ar1900-s415-p2676-lester.jpg` SHA-256 `96484f42b7691d727f8ecd18a5b39f89244cd0117531fac0ef9c0c89803f8244`
+- Reel: IA `soundex1900ar107` n**2676**
+
+### Diplomatic
+> **Sullivan, Lester L** — Head of family · vol **35** ED **111** sh **1** ln **63** · W Feb **1871** **29** Tennessee · Scott / Hickman Twp
+
+Immediate L-leaf before Levi P. No Letha / Letta / Lethia / Lettie card between them. → **C490**.
+
+## DOC127 — 1900 AR Soundex S-415, Levi P. Sullivan (after Lester)
+- Image: `sources/soundex/ar1900-s415-p2677-levi-after-lester.jpg` SHA-256 `aeba770fdeabac7acb14e66a55033a468705bb5ee671921f092a494c72da26d1`
+- Reel: IA `soundex1900ar107` n**2677**
+
+### Diplomatic
+> **Sullivent, Levi P.** — Head of family · vol **9** ED **52** sh **14** ln **38** · W Oct **1864** **35** Arkansas · Crawford / Dyer Twp
+
+First Levi leaf after Lester. Empty Letha slot. Lewis tab follows at n2679. → **C490**.
+
 ## DOC009 — 1910 TN Soundex N-550 McCoy window (nil)
 Handwritten family/individual cards n2461–n2469. Sequence after Mary C (n2460): Mary D 49 Jefferson (son Layton 11); Mary M 70 Hamilton; Mek. G 50 Cheatham (Florence 19, John 17, General 16, Frances 13, William 10, Doria 6, Luther 1½); Melvin 3½ Giles (gs of Deacon George W); Melvin 54 Giles (SIL of same); Minerva 80 Robertson (gds Lona Neely, Nellie Erwin); Minnie 21 Roane (with Sam P. Sparks); Mitchell 27 Hardin (Ollie P 25, Gladys 4, Burl W 3, Royal E 1 9/12). **No McCoy.** SHA-256 n2463 `23610f8aa4c159b1b554ed1786d11f57d2f56f8a2e8994f7289ae7bd02dfca53`; n2469 `340489566090880388fa6b81ca5751c5944dcaf56a7b44f70fe560788f308586`.
