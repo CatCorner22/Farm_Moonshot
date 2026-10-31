@@ -1973,5 +1973,37 @@ Diplomatic **Frankie**, not Letha. Rejected as **C244**. → **C540**.
 
 Diplomatic **Ettie** (first letter **E**). Rejected as **C244**. → **C541**.
 
+## DOC152 — 1900 MO Soundex S-415, Charles continuation; Loret 10/12
+- Image: `sources/soundex/mo1900-s415-p3056-charles-loret.jpg` SHA-256 `af963ccd54a94e38b2ee54ae77fdad41b4e7588805b11b8a1721a842007fcddd`
+- Reel: IA `soundex1900mo248` n**3056**
+
+### Diplomatic
+> **S-415 Sullivan, Charles** — Head of family continued · State Missouri · Howell / Sisson Twp
+> **Lilar[?] M** D May **1897** **3** Missouri; **Loret** D July **1899** **10/12** Missouri
+
+Diplomatic **Loret** (third letter **r**). Rejected as **C244**. → **C552**.
+
+## DOC153 — 1900 MO Soundex S-415, Sullivan, Daniel, 54, Ireland, Bollinger Wayne
+- Image: `sources/soundex/mo1900-s415-p3117-daniel-bollinger-wayne.jpg` SHA-256 `2d17b60c72807e838c0dc0e1a090ae598b20813ec89b8ec9416a86bb2c1af731`
+- Reel: IA `soundex1900mo248` n**3117**
+
+### Diplomatic
+> **S-415 Sullivan, Daniel** — Head of family · vol **7** ED **9** sh **10** ln **68** · W May **1846** **54** Ireland · Bollinger / Wayne Twp
+> Wife **Sullivan, Sarah E** — July **1852** **48** Missouri
+> **James** S; **Agnes** D; **Charlie** S (adult children)
+
+Only infant is GD **Storz, Sarah** Oct **1899** **6/12** on n**3118**. FAN. → **C554**.
+
+## DOC154 — 1900 IN Soundex S-415, Sullivan, Daniel C., 42, Indiana; wife Dora E 41 Ohio
+- Image: `sources/soundex/in1900-s415-p0909-daniel-c-dora-e.jpg` SHA-256 `aace357d020e5ac3cc3a3fe88d03530e16508bf924c3ccff82c1e385e7b3bab2`
+- Reel: IA `soundex1900in208` n**0909**
+
+### Diplomatic
+> **S-415 Sullivan, Daniel C** — Head of family · W May **1858** **42** Indiana
+> Wife **Sullivan, Dora E** — Jan **1859** **41** Ohio
+> **Katie** D Feb **1883** **17** Indiana; **Jennie** D Dec **1885** **14** Indiana; **Johanna** D May **1889** **11** Indiana
+
+Age **41** vs **28**; Ohio vs Kentucky. Rejected as **P001**. → **C553**.
+
 ## DOC009 — 1910 TN Soundex N-550 McCoy window (nil)
 Handwritten family/individual cards n2461–n2469. Sequence after Mary C (n2460): Mary D 49 Jefferson (son Layton 11); Mary M 70 Hamilton; Mek. G 50 Cheatham (Florence 19, John 17, General 16, Frances 13, William 10, Doria 6, Luther 1½); Melvin 3½ Giles (gs of Deacon George W); Melvin 54 Giles (SIL of same); Minerva 80 Robertson (gds Lona Neely, Nellie Erwin); Minnie 21 Roane (with Sam P. Sparks); Mitchell 27 Hardin (Ollie P 25, Gladys 4, Burl W 3, Royal E 1 9/12). **No McCoy.** SHA-256 n2463 `23610f8aa4c159b1b554ed1786d11f57d2f56f8a2e8994f7289ae7bd02dfca53`; n2469 `340489566090880388fa6b81ca5751c5944dcaf56a7b44f70fe560788f308586`.

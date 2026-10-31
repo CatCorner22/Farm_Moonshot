@@ -1247,6 +1247,27 @@ PLATES: list[dict] = [
         source="S370 · C541",
     ),
     dict(
+        n=222, date="1900 (index)", year=1900, role="rejected",
+        path="soundex/mo1900-s415-p3056-charles-loret.jpg",
+        title="Missouri S-415 — Charles continuation; Loret, 10/12; not C244",
+        caption="Continuation of Sullivan, Charles, Howell County, Sisson Township. Lilar M., May 1897, 3, Missouri; Loret, July 1899, 10/12, Missouri. Diplomatic Loret (third letter r), not Lottie or Letha. Rejected as C244.",
+        source="S372 · C552",
+    ),
+    dict(
+        n=223, date="1900 (index)", year=1900, role="context",
+        path="soundex/mo1900-s415-p3117-daniel-bollinger-wayne.jpg",
+        title="Missouri S-415 — Daniel, 54, Ireland, Bollinger Wayne",
+        caption="White head, May 1846, age 54, born Ireland, Bollinger County, Wayne Township, volume 7, ED 9, sheet 10, line 68. Wife Sarah E., July 1852, 48, Missouri. Children James, Agnes, Charlie. The only infant is granddaughter Sarah Storz, October 1899, 6/12, on the continuation. Local FAN; not a Letha household.",
+        source="S372 · C554",
+    ),
+    dict(
+        n=224, date="1900 (index)", year=1900, role="rejected",
+        path="soundex/in1900-s415-p0909-daniel-c-dora-e.jpg",
+        title="Indiana S-415 — Daniel C., 42, Indiana; wife Dora E., 41, Ohio; not P001",
+        caption="White head, May 1858, age 42, born Indiana. Wife Dora E., January 1859, 41, Ohio. Daughters Katie 17, Jennie 14, Johanna 11, Indiana. Age 41 versus 28 and Ohio versus Kentucky reject this wife as Dora Ella Newnam.",
+        source="S374 · C553",
+    ),
+    dict(
         n=123, date="1900 (index)", year=1900, role="context",
         path="soundex/tx1900-c563-p1-j-divider.jpg",
         title="Texas C-563 — J-tab divider",

@@ -795,3 +795,14 @@ research/dora-ella-newnam/sources/soundex/mo1900-s415-p3265-francis-46-in-franki
   format: JPEG Soundex card, IA soundex1900mo248 n3265
 research/dora-ella-newnam/sources/soundex/b007-pass91-1900-in-mo-s415-other-fathers-2026-10-31.txt
   format: Pass 91 IN/MO S-415 other-father search log
+research/dora-ella-newnam/sources/soundex/mo1900-s415-p3056-charles-loret.jpg
+  sha256: af963ccd54a94e38b2ee54ae77fdad41b4e7588805b11b8a1721a842007fcddd
+  format: JPEG Soundex card, IA soundex1900mo248 n3056
+research/dora-ella-newnam/sources/soundex/mo1900-s415-p3117-daniel-bollinger-wayne.jpg
+  sha256: 2d17b60c72807e838c0dc0e1a090ae598b20813ec89b8ec9416a86bb2c1af731
+  format: JPEG Soundex card, IA soundex1900mo248 n3117
+research/dora-ella-newnam/sources/soundex/in1900-s415-p0909-daniel-c-dora-e.jpg
+  sha256: aace357d020e5ac3cc3a3fe88d03530e16508bf924c3ccff82c1e385e7b3bab2
+  format: JPEG Soundex card, IA soundex1900in208 n909
+research/dora-ella-newnam/sources/soundex/b007-pass92-1900-in-mo-s415-remaining-2026-10-31.txt
+  format: Pass 92 IN/MO S-415 remaining-father search log

@@ -194,6 +194,9 @@ Diplomatic transcriptions: [`08-transcriptions.md`](08-transcriptions.md). Citat
 | 219 | 1900 (index) | Context | [Missouri S-415 — Edward M., 33, Indiana, Jasper Galena](sources/soundex/mo1900-s415-p3202-edward-m-33-in.jpg) |
 | 220 | 1900 (index) | Rejected same-name | [Missouri S-415 — Francis, 46, Indiana, Jackson; Frankie A., 2](sources/soundex/mo1900-s415-p3265-francis-46-in-frankie.jpg) |
 | 221 | 1900 (index) | Rejected same-name | [Missouri S-415 — Geo M. continuation; Ettie, 2](sources/soundex/mo1900-s415-p3310-geo-m-ettie-2.jpg) |
+| 222 | 1900 (index) | Rejected same-name | [Missouri S-415 — Charles continuation; Loret, 10/12; not C244](sources/soundex/mo1900-s415-p3056-charles-loret.jpg) |
+| 223 | 1900 (index) | Context | [Missouri S-415 — Daniel, 54, Ireland, Bollinger Wayne](sources/soundex/mo1900-s415-p3117-daniel-bollinger-wayne.jpg) |
+| 224 | 1900 (index) | Rejected same-name | [Indiana S-415 — Daniel C., 42, Indiana; wife Dora E., 41, Ohio; not P001](sources/soundex/in1900-s415-p0909-daniel-c-dora-e.jpg) |
 | 123 | 1900 (index) | Context | [Texas C-563 — J-tab divider](sources/soundex/tx1900-c563-p1-j-divider.jpg) |
 | 17 | Apr 1910 | Negative search | [Kentucky N-550 — Millie / Missouri; no McCoy](sources/soundex/ky1910-n550-p329-millie-missouri.jpg) |
 | 18 | Apr 1910 | Negative search | [Kentucky N-550 — Monroe; still no McCoy](sources/soundex/ky1910-n550-p330-monroe-no-mccoy.jpg) |
@@ -2002,6 +2005,36 @@ White head, August 1854, age 46, born Indiana, Jackson County, Kansas City, Mich
 Continuation of Sullivan, Geo M. Ettie, daughter, July 1897, 2, Missouri; Roy J., son, October 1898, 1, Missouri. Diplomatic Ettie (first letter E), not Letha. Rejected as C244.
 
 ![Missouri S-415 — Geo M. continuation; Ettie, 2](sources/soundex/mo1900-s415-p3310-geo-m-ettie-2.jpg)
+
+### 222 · 1900 (index) · Missouri S-415 — Charles continuation; Loret, 10/12; not C244
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/mo1900-s415-p3056-charles-loret.jpg`](sources/soundex/mo1900-s415-p3056-charles-loret.jpg)  
+**Source:** S372 · C552
+
+Continuation of Sullivan, Charles, Howell County, Sisson Township. Lilar M., May 1897, 3, Missouri; Loret, July 1899, 10/12, Missouri. Diplomatic Loret (third letter r), not Lottie or Letha. Rejected as C244.
+
+![Missouri S-415 — Charles continuation; Loret, 10/12; not C244](sources/soundex/mo1900-s415-p3056-charles-loret.jpg)
+
+### 223 · 1900 (index) · Missouri S-415 — Daniel, 54, Ireland, Bollinger Wayne
+
+**Role:** Context  
+**File:** [`sources/soundex/mo1900-s415-p3117-daniel-bollinger-wayne.jpg`](sources/soundex/mo1900-s415-p3117-daniel-bollinger-wayne.jpg)  
+**Source:** S372 · C554
+
+White head, May 1846, age 54, born Ireland, Bollinger County, Wayne Township, volume 7, ED 9, sheet 10, line 68. Wife Sarah E., July 1852, 48, Missouri. Children James, Agnes, Charlie. The only infant is granddaughter Sarah Storz, October 1899, 6/12, on the continuation. Local FAN; not a Letha household.
+
+![Missouri S-415 — Daniel, 54, Ireland, Bollinger Wayne](sources/soundex/mo1900-s415-p3117-daniel-bollinger-wayne.jpg)
+
+### 224 · 1900 (index) · Indiana S-415 — Daniel C., 42, Indiana; wife Dora E., 41, Ohio; not P001
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/in1900-s415-p0909-daniel-c-dora-e.jpg`](sources/soundex/in1900-s415-p0909-daniel-c-dora-e.jpg)  
+**Source:** S374 · C553
+
+White head, May 1858, age 42, born Indiana. Wife Dora E., January 1859, 41, Ohio. Daughters Katie 17, Jennie 14, Johanna 11, Indiana. Age 41 versus 28 and Ohio versus Kentucky reject this wife as Dora Ella Newnam.
+
+![Indiana S-415 — Daniel C., 42, Indiana; wife Dora E., 41, Ohio; not P001](sources/soundex/in1900-s415-p0909-daniel-c-dora-e.jpg)
 
 ### 123 · 1900 (index) · Texas C-563 — J-tab divider
 
