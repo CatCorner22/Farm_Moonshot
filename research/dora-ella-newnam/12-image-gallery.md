@@ -111,6 +111,12 @@ Diplomatic transcriptions: [`08-transcriptions.md`](08-transcriptions.md). Citat
 | 136 | 1900 (index) | Rejected same-name | [West Virginia C-563 — Jessie M Conrad, 34, Gilmer County](sources/soundex/wv1900-c563-p60-jessie-m-34-gilmer.jpg) |
 | 137 | 1900 (index) | Negative search | [Wisconsin C-563 — John-tab divider after James H](sources/soundex/wi1900-c563-p1244-john-tab-after-james.jpg) |
 | 138 | 1900 (index) | Negative search | [Minnesota C-563 — Jerome H Conrad, immediately before John](sources/soundex/mn1900-c563-p2580-jerome-before-john.jpg) |
+| 139 | 1900 (index) | Rejected same-name | [Florida C-562 — Jesse P Congers, 29, Sumter County](sources/soundex/fl1900-c562-p371-jesse-p-congers.jpg) |
+| 140 | 1900 (index) | Rejected same-name | [Florida C-565 — Jessie I Cameron, 19, Lake County](sources/soundex/fl1900-c565-p372-jessie-cameron.jpg) |
+| 141 | 1900 (index) | Negative search | [Florida C-563 — John Sr Coonrod, immediately after James H](sources/soundex/fl1900-c563-p383-john-coonrod.jpg) |
+| 142 | 1900 (index) | Rejected same-name | [Georgia C-563 — John Cunard, 27, Jasper County](sources/soundex/ga1900-c563-p3326-john-cunard.jpg) |
+| 143 | 1900 (index) | Rejected same-name | [Virginia C-563 — Joe W Canard, 30, Fauquier County](sources/soundex/va1900-c563-p1517-joe-w-canard.jpg) |
+| 144 | 1900 (index) | Rejected same-name | [Virginia C-563 — Lee A Conrad, 37, Richmond; not Jesse](sources/soundex/va1900-c563-p1530-lee-a-not-jesse.jpg) |
 | 123 | 1900 (index) | Context | [Texas C-563 — J-tab divider](sources/soundex/tx1900-c563-p1-j-divider.jpg) |
 | 17 | Apr 1910 | Negative search | [Kentucky N-550 — Millie / Missouri; no McCoy](sources/soundex/ky1910-n550-p329-millie-missouri.jpg) |
 | 18 | Apr 1910 | Negative search | [Kentucky N-550 — Monroe; still no McCoy](sources/soundex/ky1910-n550-p330-monroe-no-mccoy.jpg) |
@@ -1089,6 +1095,66 @@ Handwritten divider after James H, 38, Pennsylvania, and Jane, 70, Ireland. John
 White head, October 1856, age 43, born Wisconsin, Faribault County. Wife Martha, 42; daughter, 12, Dakota. John is the next leaf. Combined with the n2574–2611 every-card walk, Minnesota 1900 C-563 has no Jesse Conrad head.
 
 ![Minnesota C-563 — Jerome H Conrad, immediately before John](sources/soundex/mn1900-c563-p2580-jerome-before-john.jpg)
+
+### 139 · 1900 (index) · Florida C-562 — Jesse P Congers, 29, Sumter County
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/fl1900-c562-p371-jesse-p-congers.jpg`](sources/soundex/fl1900-c562-p371-jesse-p-congers.jpg)  
+**Source:** S328 · C412 · C413
+
+White head, April 1871, age 29, born Florida, Center Hill. Wife Mary A, 26; Pearly E, 6; Allen, 3; Geneva, 1 — all Florida. Surname is Congers, not Conrad. Combined with the interleaved n350–445 walk, Florida 1900 C-563 has no Jesse Conrad head.
+
+![Florida C-562 — Jesse P Congers, 29, Sumter County](sources/soundex/fl1900-c562-p371-jesse-p-congers.jpg)
+
+### 140 · 1900 (index) · Florida C-565 — Jessie I Cameron, 19, Lake County
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/fl1900-c565-p372-jessie-cameron.jpg`](sources/soundex/fl1900-c565-p372-jessie-cameron.jpg)  
+**Source:** S328 · C414
+
+White individual, July 1880, age 19, born Brazil, Eustis. Boarder with Samuel H. Powers. Surname is Cameron, not Conrad. Age and nativity fail vs 1910 Jesse Conrad.
+
+![Florida C-565 — Jessie I Cameron, 19, Lake County](sources/soundex/fl1900-c565-p372-jessie-cameron.jpg)
+
+### 141 · 1900 (index) · Florida C-563 — John Sr Coonrod, immediately after James H
+
+**Role:** Negative search  
+**File:** [`sources/soundex/fl1900-c563-p383-john-coonrod.jpg`](sources/soundex/fl1900-c563-p383-john-coonrod.jpg)  
+**Source:** S328 · C412
+
+White head, March 1825, age 75, born South Carolina, Jackson County. Walter, Lizzie, Ida, and Peter L, all Florida. James H, 28, Florida, is the preceding C-563 J-name. No Jesse card sits between them.
+
+![Florida C-563 — John Sr Coonrod, immediately after James H](sources/soundex/fl1900-c563-p383-john-coonrod.jpg)
+
+### 142 · 1900 (index) · Georgia C-563 — John Cunard, 27, Jasper County
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/ga1900-c563-p3326-john-cunard.jpg`](sources/soundex/ga1900-c563-p3326-john-cunard.jpg)  
+**Source:** S329 · C415 · C416
+
+White head, September 1872, age 27, born Georgia, Thompson and Barnes district. Wife Lee Ella, 25; four Georgia children. Age matches 1910 Jesse, but the given name is John and the nativity is Georgia. James, 38, Alabama, and Camarata Joe, 44, Italy, precede; no Jesse card.
+
+![Georgia C-563 — John Cunard, 27, Jasper County](sources/soundex/ga1900-c563-p3326-john-cunard.jpg)
+
+### 143 · 1900 (index) · Virginia C-563 — Joe W Canard, 30, Fauquier County
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/va1900-c563-p1517-joe-w-canard.jpg`](sources/soundex/va1900-c563-p1517-joe-w-canard.jpg)  
+**Source:** S330 · C418 · C419
+
+White head, December 1869, age 30, born Virginia, Marshall District. Wife Julia, 30; James E, 5; Anna Timber, 12 — all Virginia. James, 26, precedes; John, 80, follows. No Jesse card in the Virginia 1900 C-563 J-window.
+
+![Virginia C-563 — Joe W Canard, 30, Fauquier County](sources/soundex/va1900-c563-p1517-joe-w-canard.jpg)
+
+### 144 · 1900 (index) · Virginia C-563 — Lee A Conrad, 37, Richmond; not Jesse
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/va1900-c563-p1530-lee-a-not-jesse.jpg`](sources/soundex/va1900-c563-p1530-lee-a-not-jesse.jpg)  
+**Source:** S330 · C418 · C420
+
+White head, January 1863, age 37, born West Virginia, Beech Street. Wife Victoria B, 30, Virginia. A contact-sheet reading of “Jes A” was Lee A. Combined with the n1508–1572 every-card walk, Virginia 1900 C-563 has no Jesse Conrad head.
+
+![Virginia C-563 — Lee A Conrad, 37, Richmond; not Jesse](sources/soundex/va1900-c563-p1530-lee-a-not-jesse.jpg)
 
 ### 123 · 1900 (index) · Texas C-563 — J-tab divider
 

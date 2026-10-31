@@ -1,0 +1,57 @@
+Pass 76 — 1900 FL/GA/VA C-563 Jesse
+Date: 30 Oct 2026 (America/New_York)
+Backlog: B007 residual other-state 1900
+
+=== Access ===
+Image seen via IA BookReader page JPEGs (not the full 100–350 MB PDFs).
+  FL C-563 = soundex1900fl012 (T1039 C-552 Helen M.–C-632 Harriet; imagecount 3175)
+  GA C-563 = soundex1900ga039 (T1040 C-536 W.B.–C-600 Henrietta; imagecount 4286)
+  VA C-563 = soundex1900va033 (T1076 C-552 B.–C-613 Wm F.**; imagecount 4047)
+Local /tmp/p76/ working crops not committed except the evidence JPEGs listed in S328–S330.
+
+=== FL C-563 (fl012 n350–445 every card; film interleaves C-561/562/563/564/565) ===
+C-561 Comerford Henry n350; C-565 Cameron from Jack n359; C-562 Congers / Conyers;
+C-563 Coonrade / Coonrod / Conrad / Cammerata mixed through the same span.
+C-563 Conrad/Coonrod named leaves in the walk: Herman M n355; Jacob n363;
+James H 28 FL n368; John Sr 75 SC n383; Joseph A/P n392–394; Joey n395;
+Lorenzo D n398; Cammerata Pasquel n419–420; Thad n438; Thomas W n439.
+No Jesse / Jessie on a C-563 card (C412).
+Near-hits in the interleaved J run:
+  n371 C-562 Congers, Jesse P. W Apr 1871 29 FL, Sumter / Center Hill;
+    Mary A 26 FL; Pearly E 6; Allen 3; Geneva 1 — all Florida (C413).
+  n372 C-565 Cameron, Jessie I. individual W July 1880 19 Brazil, Lake / Eustis;
+    boarder with Powers, Samuel H (C414).
+
+=== GA C-563 (ga039 n3298–3355 every card) ===
+C-562 Conger ends William / Willie n3302–3305.
+n3306 C-563 divider. Cunard / Cynard / Conerdly / Camarata through n3345;
+n3346 C-565 Cameron tab.
+J-window: J.C. Cunard n3322–3323; Conerdly James 38 AL n3324;
+Camarata Joe 44 Italy n3325; Cunard John 27 GA Jasper n3326–3327.
+No Jesse / Jessie card (C415).
+Cunard John 27 GA + Lee Ella + four GA children is not 1910 Jesse (C416).
+Camarata Joe 44 Italy Cedartown is not 1910 Jesse (C417).
+
+=== VA C-563 (va033 n1508–1572 every card) ===
+C-563 from Henry P n1509 through Willie n1568; n1569 C-565 tab;
+Cameron (W.R.) n1570.
+I-tab n1513. J-window: Canard Jack n1514; Conrad Jacob W n1515;
+Conrad James 26 VA n1516; Canard Joe W Dec 1869 ~30 VA Fauquier n1517;
+Cunard Jimmie W 60 n1518; Conrad John 80 Botetourt n1519; more Johns;
+Joseph A/E/C/H n1523–1527. Then Kirk / Laura / Lee A / Lizzie… Gracy n1540;
+Mary / Minnie / Nathan / Robert / Samuel / Thomas / William / Willie.
+No Jesse / Jessie card (C418).
+Canard Joe W ~30 VA + Julia + James E is not 1910 Jesse (C419).
+Conrad Lee A Jan 1863 37 WV, Richmond / Beech, + Victoria B 30 VA —
+contact-sheet “Jes A” was Lee A (C420).
+
+=== Residual ===
+Other-state 1900 beyond AR/IL/TN/IN/KY/MO/OH/IA/KS/OK/TX/AL/MS/LA/NE/MI/NC/WV/WI/MN/FL/GA/VA
+(twenty-three jurisdictions now closed for C-563 Jesse-as-head).
+Pinned unread (volume field only, not walked):
+  SC soundex1900sc024 T1070 C-540 Lafayette–C-615 Luther (imagecount 4158)
+  PA soundex1900pa100 T1068 C-560 Harry G.–C-563 May (imagecount 3649)
+  MD soundex1900md022 T1050 C-516 John–C-600 Fredrick (imagecount 3898)
+  CO soundex1900co012 T1035 C-500 Taylor–C-615 Xeries L. (imagecount 4038)
+  CA soundex1900ca036 T1034 C-534 Harriett–C-565 (imagecount 4266)
+B049 1926 obituary; R001/R007/R008; B045 probate; B047 M1509.

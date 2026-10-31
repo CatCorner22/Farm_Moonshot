@@ -1084,5 +1084,77 @@ James H 38 PA is n1240; Jane 70 Ireland n1242; Johns begin n1245. No Jesse card.
 
 n2581 is already John. No Jesse card. → **C411**.
 
+## DOC070 — 1900 FL Soundex C-562, Jesse P Congers
+- Image: `sources/soundex/fl1900-c562-p371-jesse-p-congers.jpg` SHA-256 `fb0d2fd6999a551691d242f34a0528c1fbc6ac1889fd0f2f4631c24af4093cb8`
+- Reel: IA `soundex1900fl012` n**371**
+
+### Diplomatic
+> **C-562 Congers, Jesse P.** — Head of family · vol **16** ED **152** sh **4** ln **46** · W Apr **1871** **29** Florida · Sumter / [Center Hill / Sumterville]  
+> **Mary A** — W, Mar **1874**, **26**, Florida  
+> **Pearly E** — D, Nov **1893**, **6**, Florida  
+> **Allen** — S, June **1897**, **3**, Florida  
+> **Geneva** — D, Mar **1899**, **1**, Florida
+
+Surname Congers, nativity Florida. → **C413**.
+
+## DOC071 — 1900 FL Soundex C-565, Jessie I Cameron
+- Image: `sources/soundex/fl1900-c565-p372-jessie-cameron.jpg` SHA-256 `0a63be1710b1fb07a909fe66aa42252e62b37439635a41e787d4b22a924f5480`
+- Reel: IA `soundex1900fl012` n**372**
+
+### Diplomatic
+> **C-565 Cameron, Jessie I.** — Individual · vol **9** ED **74** sh **12** ln **30** · W July **1880** **19** Brazil NR · Lake / Pct **13** Eustis  
+> Enumerated with **Powers, Samuel H** · Relationship **Boarder**
+
+Surname Cameron, age 19, Brazil. → **C414**.
+
+## DOC072 — 1900 FL Soundex C-563, John Sr Coonrod (first C-563 after James H)
+- Image: `sources/soundex/fl1900-c563-p383-john-coonrod.jpg` SHA-256 `7bbafde39f093f3637389a28461abac76ea0dfe03d1d91da80cb6395a2b86ac2`
+- Reel: IA `soundex1900fl012` n**383**
+
+### Diplomatic
+> **C-563 Coonrod, John Sr** — Head of family · vol **8** ED **57** sh **6** ln **35** · W March **1825** **75** S Carolina · Jackson Pct **11**  
+> **Walter** — S, Nov **1878**, **21**, Florida  
+> **Lizzie** — D, April **1881**, **19**, Florida  
+> **Ida** — D, June **1882**, **17**, Florida  
+> **Peter L** — S, Aug **1883**, **16**, Florida
+
+James H 28 FL is n368; no C-563 Jesse between them. → **C412**.
+
+## DOC073 — 1900 GA Soundex C-563, John Cunard
+- Image: `sources/soundex/ga1900-c563-p3326-john-cunard.jpg` SHA-256 `cab5fac4a1e042e4a36cb84a92db532d1b4736dd8a72ad584719786d901c9455`
+- Reel: IA `soundex1900ga039` n**3326**
+
+### Diplomatic
+> **C-563 Cunard, John** — Head of family · vol **40** ED **60** sh **7** ln **56** · W Sept **1872** **27** Georgia · Jasper / G.M. **297** Thompson & Barnes  
+> **Lee Ella** — W, July **1874**, **25**, Georgia  
+> **Ocie L** — D, Nov **1894**, **5**, Georgia  
+> **Edgar R** — S, Jan **1896**, **4**, Georgia  
+> **Milton L** — D, July **1897**, **2**, Georgia  
+> **Alburn** — S, July **1899**, **1/2**, Georgia
+
+James 38 AL n3324 and Camarata Joe 44 Italy n3325 precede; no Jesse card. → **C415 / C416**.
+
+## DOC074 — 1900 VA Soundex C-563, Joe W Canard
+- Image: `sources/soundex/va1900-c563-p1517-joe-w-canard.jpg` SHA-256 `ce1089ed1b9ef7a0296308bbcb2352d44399dea4dfccf6ee5aab89a1a00112af`
+- Reel: IA `soundex1900va033` n**1517**
+
+### Diplomatic
+> **C-563 Canard, Joe W.** — Head of family · vol **18** ED **33** sh **4** ln **100** · W Dec **1869** **30** Virginia · Fauquier / Marshall Dist  
+> **Julia** — W, Nov **1870**, **30**, Virginia  
+> **James E** — S, Nov **1895**, **5**, Virginia  
+> **Timber, Anna** — [S?], May **1888**, **12**, Virginia
+
+James 26 precedes; John 80 follows. → **C418 / C419**.
+
+## DOC075 — 1900 VA Soundex C-563, Lee A Conrad (not Jesse)
+- Image: `sources/soundex/va1900-c563-p1530-lee-a-not-jesse.jpg` SHA-256 `fbdffe716ee42f0b2d0dab6691d6bb1465fe5b586b50970beb171f5e060ca291`
+- Reel: IA `soundex1900va033` n**1530**
+
+### Diplomatic
+> **C-563 Conrad, Lee A.** — Head of family · vol **67** ED **56** sh **19** ln **56** · W Jan **1863** **37** West Virginia · Richmond city / Beech / house **109**  
+> **Victoria B** — W, May **1870**, **30**, Virginia
+
+A coarse-locator reading of “Jes A” was **Lee A**. → **C420**.
+
 ## DOC009 — 1910 TN Soundex N-550 McCoy window (nil)
 Handwritten family/individual cards n2461–n2469. Sequence after Mary C (n2460): Mary D 49 Jefferson (son Layton 11); Mary M 70 Hamilton; Mek. G 50 Cheatham (Florence 19, John 17, General 16, Frances 13, William 10, Doria 6, Luther 1½); Melvin 3½ Giles (gs of Deacon George W); Melvin 54 Giles (SIL of same); Minerva 80 Robertson (gds Lona Neely, Nellie Erwin); Minnie 21 Roane (with Sam P. Sparks); Mitchell 27 Hardin (Ollie P 25, Gladys 4, Burl W 3, Royal E 1 9/12). **No McCoy.** SHA-256 n2463 `23610f8aa4c159b1b554ed1786d11f57d2f56f8a2e8994f7289ae7bd02dfca53`; n2469 `340489566090880388fa6b81ca5751c5944dcaf56a7b44f70fe560788f308586`.
