@@ -302,6 +302,17 @@ Regenerated **before** B042 KDNP / Lee papers residual queries (`bc-c5415202`). 
 
 Exact strings logged **L576–L585**.
 
+## Name-variant storm (pass 82, `search_variants.py`, 31 Oct 2026)
+
+Regenerated **before** B020 FAG memorial-biography queries (`bc-20e39036`). **Did not take B042** (`bc-c5415202` Pass **81**, **C484–C493 / L576–L585 / S418–S427**). **Did not take B007** (`bc-6d51c793` Pass **76**). **Did not take B014 / B039 / B047 / B049 / B055 / B056.** **Did not retake B030 / B015 / B016 / B045 / B051 / B054 / B057 / B092.** This pass uses **C494–C503 / L586–L596 / S428–S435**. Categories **1–4**:
+
+1. **Canonical:** Dora Ella Newnam (P001); FAG listing **Dora Newman** **97907837**; **Thomas Stone** **97907931**; cemetery **53354**.
+2. **User / family:** Newman / Newnam / Dorra (stone) / Posa (1926 index) / Tom / T. A. Stone.
+3. **Machine / OCR given:** Dora → posa / dosa / rosa / dona / dara; Dorra → porra / rorra. Surname: Newnam / newman / newnarn / newan / newnom; Stone / storie / stona / stome. Soundex **N550** / **S350** / **D600**.
+4. **Repository quirks:** FAG `firstName`+`lastName`+`cemeteryId=53354`; `bio=` keyword; old `cgi-bin/fg.cgi?page=gr&GRid=`; Wayback `url=` / `www.` / prefix; IA quoted memorial IDs; Wikidata P535; WikiTree Newnam-49 API.
+
+Exact strings logged **L586–L596**.
+
 ## Agent SDK / GitHub channel
 
 Inspected 30 Oct 2026 (**L351**): this repository has **no** `package.json`, **no** `@grok/agent-sdk`, **no** `bot/` directory. GitHub channel `bot/channels/github.ts` is **n/a** and was **not** authored. Project subagent: `.cursor/agents/dora-genealogy-detective.md`.
