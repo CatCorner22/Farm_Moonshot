@@ -1846,5 +1846,69 @@ Rejected as **C244**. → **C509**.
 
 No children. Yell FAN. → **C504**.
 
+## DOC140 — 1900 IL Soundex S-415, Sullivan, James P., 30, Illinois, Piatt; Lella 1/12
+- Image: `sources/soundex/il1900-s415-p2539-james-p-lella.jpg` SHA-256 `3fe362c1da6b0d73ccc7332b0c5651a69abb0df65ace1a2dce8fb8ab32412063`
+- Reel: IA `soundex1900il401` n**2539** (rotate **-90**)
+
+### Diplomatic
+> **S-415 Sullivan, James P** — Head of family · vol **135** ED **129** sh **1** ln **65** · W Nov **1871** **30** Illinois · Piatt / Goose Creek Twp / De Land
+> Wife **Sullivan, Ella** — Nov **1870** **31** Indiana
+> **Eddie** S Aug **1890** **9** Illinois; **Charles** S Oct **1893** **6** Illinois; **Lillie** D Aug **1898** **1** Illinois; **Lella** D Apr **1900** **1/12** Illinois
+
+Diplomatic given name **Lella**, not Letha. Rejected as **C244**. → **C518**.
+
+## DOC141 — 1900 IL Soundex S-415, Sullivan, James, 27, Illinois, Mason; Bettie MO; Lelia 3
+- Image: `sources/soundex/il1900-s415-p2414-james-bettie-mo-lelia.jpg` SHA-256 `c126f49aef3373064388fdc2fac05f64deac7967f321009b8cffdcd9b267e592`
+- Reel: IA `soundex1900il401` n**2414** (rotate **-90**)
+
+### Diplomatic
+> **S-415 Sullivan, James** — Head of family · W Aug **1872** **27** Illinois · Mason / Quiver Twp
+> Wife **Sullivan, Bettie** — Sept **1878** **21** Missouri
+> **Lelia** D Nov **1896** **3** Illinois
+
+Diplomatic **Lelia**, age **3**. Rejected as **C244**. → **C519**.
+
+## DOC142 — 1900 TN Soundex S-415, Sullivan, Viola, 6, Mason County
+- Image: `sources/soundex/tn1900-s415-p0386-viola-6-mason.jpg` SHA-256 `6a7a9b0488f1bb00e64215b04888ad24be1ef69c21e3a0bbd20600f259b068c8`
+- Reel: IA `soundex1900tn154` n**0386**
+
+### Diplomatic
+> **S-415 Sullivan, Viola** — Individual · vol **44** ED **42** sh **6** ln **6** · Colored May **1894** **6** Tennessee · Mason / 12th Civil Dist
+> Enumerated with **Porter, Ellen** · Relationship: G. Daughter
+
+Rejected as **C244**. → **C520**.
+
+## DOC143 — 1900 TN Soundex S-415, Sullivan, William J., 32, Tennessee, Macon; Lea 2
+- Image: `sources/soundex/tn1900-s415-p0448-william-j-lea-2.jpg` SHA-256 `2a5df071c2d836005862282fc6f3e799ed5dcc7be57ee6fa752520295f9e500d`
+- Reel: IA `soundex1900tn154` n**0448**
+
+### Diplomatic
+> **S-415 Sullivan, William J** — Head of family · vol **44** ED **32** sh **19** ln **97** · W Jan **1868** **32** Tennessee · Macon / 1st Civil Dist
+> Wife **Sullivan, Dona A** — Aug **1877** **22** Tennessee
+> **Lea** D Feb **1898** **2** Tennessee
+> **Horsley, Sadie** SIL May **1888** **12** Tennessee; **Adams, Clarence** B May **1870** **30** Tennessee
+
+Diplomatic given name **Lea** (three letters), not Leta. Rejected as **C244**. → **C521**.
+
+## DOC144 — 1900 IL Soundex S-415, Leta, daughter, 13, on Zachariah F.
+- Image: `sources/soundex/il1900-s415-p0250-zachariah-leta-13.jpg` SHA-256 `bca19199a376dcdbac8dd89d16e545dd3a19835ace52f2d3ac52f461d677efe0`
+- Reel: IA `soundex1900il402` n**0250** (rotate **0**)
+
+### Diplomatic
+> **S-415 Sullivan, Zachariah** — Head of family continued · State Illinois
+> **Leta** D Jan **1887** **13** Illinois
+
+Age **13** vs ~**2**. Rejected as **C244**. → **C522**.
+
+## DOC145 — 1900 TN Soundex S-415, Jerry continuation; Hettie L., 1
+- Image: `sources/soundex/tn1900-s415-p0063-jerry-hettie-1.jpg` SHA-256 `82c6c8c3a8e0ce61b5a1f469714c8f4c895c6edb0f498af465e829c40099a14c`
+- Reel: IA `soundex1900tn154` n**0063**
+
+### Diplomatic
+> **S-415 Sullivan, Jerry** — Head of family continued · State Tennessee
+> **Jessie M** D Mar **1895** **5** Tennessee; **Hettie[?] L** (or **Lettie[?]** ) D Mar **1899** **1** Tennessee; **Williams, Johnie** L Mar **1892** **8** Tennessee
+
+Initial **H** vs **L** uncertain. Father **Jerry**, not a target parent name. → **C514**.
+
 ## DOC009 — 1910 TN Soundex N-550 McCoy window (nil)
 Handwritten family/individual cards n2461–n2469. Sequence after Mary C (n2460): Mary D 49 Jefferson (son Layton 11); Mary M 70 Hamilton; Mek. G 50 Cheatham (Florence 19, John 17, General 16, Frances 13, William 10, Doria 6, Luther 1½); Melvin 3½ Giles (gs of Deacon George W); Melvin 54 Giles (SIL of same); Minerva 80 Robertson (gds Lona Neely, Nellie Erwin); Minnie 21 Roane (with Sam P. Sparks); Mitchell 27 Hardin (Ollie P 25, Gladys 4, Burl W 3, Royal E 1 9/12). **No McCoy.** SHA-256 n2463 `23610f8aa4c159b1b554ed1786d11f57d2f56f8a2e8994f7289ae7bd02dfca53`; n2469 `340489566090880388fa6b81ca5751c5944dcaf56a7b44f70fe560788f308586`.

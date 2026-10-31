@@ -182,6 +182,12 @@ Diplomatic transcriptions: [`08-transcriptions.md`](08-transcriptions.md). Citat
 | 207 | 1900 (index) | Context | [Kentucky S-415 — Sullivan, John, 64, Missouri, Fleming; no children](sources/soundex/ky1900-s415-p2849-john-64-mo-fleming.jpg) |
 | 208 | 1900 (index) | Rejected same-name | [Arkansas S-415 — Sullivan, Viola, 11/12, Pulaski; not C244](sources/soundex/ar1900-s415-p2804-viola-pulaski.jpg) |
 | 209 | 1900 (index) | Context | [Arkansas S-415 — Sullivan, James W., 35, Missouri, Yell Magazine; no children](sources/soundex/ar1900-s415-p2588-james-w-yell-mo.jpg) |
+| 210 | 1900 (index) | Rejected same-name | [Illinois S-415 — James P., Piatt; Lella, 1/12; not C244](sources/soundex/il1900-s415-p2539-james-p-lella.jpg) |
+| 211 | 1900 (index) | Rejected same-name | [Illinois S-415 — James and Bettie of Mason; Lelia, 3; not C244](sources/soundex/il1900-s415-p2414-james-bettie-mo-lelia.jpg) |
+| 212 | 1900 (index) | Rejected same-name | [Tennessee S-415 — Sullivan, Viola, 6, Mason County; not C244](sources/soundex/tn1900-s415-p0386-viola-6-mason.jpg) |
+| 213 | 1900 (index) | Rejected same-name | [Tennessee S-415 — William J., Macon; Lea, 2; not C244](sources/soundex/tn1900-s415-p0448-william-j-lea-2.jpg) |
+| 214 | 1900 (index) | Rejected same-name | [Illinois S-415 — Leta, 13, on Zachariah F.; not C244](sources/soundex/il1900-s415-p0250-zachariah-leta-13.jpg) |
+| 215 | 1900 (index) | Context | [Tennessee S-415 — Jerry continuation; Hettie L., 1](sources/soundex/tn1900-s415-p0063-jerry-hettie-1.jpg) |
 | 123 | 1900 (index) | Context | [Texas C-563 — J-tab divider](sources/soundex/tx1900-c563-p1-j-divider.jpg) |
 | 17 | Apr 1910 | Negative search | [Kentucky N-550 — Millie / Missouri; no McCoy](sources/soundex/ky1910-n550-p329-millie-missouri.jpg) |
 | 18 | Apr 1910 | Negative search | [Kentucky N-550 — Monroe; still no McCoy](sources/soundex/ky1910-n550-p330-monroe-no-mccoy.jpg) |
@@ -1870,6 +1876,66 @@ Colored individual, June 1899, age 11/12, born Arkansas, Pulaski County, Eastman
 White head, February 1865, age 35, born Missouri, Yell County, Magazine Township, volume 42, ED 152, sheet 19, line 37. Wife Susanah J., February 1860, 40, Missouri. No children. Yell geography FAN only; not a father of Letha.
 
 ![Arkansas S-415 — Sullivan, James W., 35, Missouri, Yell Magazine; no children](sources/soundex/ar1900-s415-p2588-james-w-yell-mo.jpg)
+
+### 210 · 1900 (index) · Illinois S-415 — James P., Piatt; Lella, 1/12; not C244
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/il1900-s415-p2539-james-p-lella.jpg`](sources/soundex/il1900-s415-p2539-james-p-lella.jpg)  
+**Source:** S366 · C518
+
+White head, November 1871, age 30, born Illinois, Piatt County, Goose Creek Township, De Land, volume 135, ED 129, sheet 1, line 65. Wife Ella, November 1870, 31, Indiana. Daughters Lillie, August 1898, 1, Illinois, and Lella, April 1900, 1/12, Illinois. Diplomatic given name Lella, not Letha. Intact Illinois household. Rejected as C244.
+
+![Illinois S-415 — James P., Piatt; Lella, 1/12; not C244](sources/soundex/il1900-s415-p2539-james-p-lella.jpg)
+
+### 211 · 1900 (index) · Illinois S-415 — James and Bettie of Mason; Lelia, 3; not C244
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/il1900-s415-p2414-james-bettie-mo-lelia.jpg`](sources/soundex/il1900-s415-p2414-james-bettie-mo-lelia.jpg)  
+**Source:** S366 · C519
+
+White head, August 1872, age 27, born Illinois, Mason County, Quiver Township. Wife Bettie, September 1878, 21, Missouri. Daughter Lelia, November 1896, 3, Illinois. Name Lelia and age 3 contradict the 1910 Liberty nurse. Not merged.
+
+![Illinois S-415 — James and Bettie of Mason; Lelia, 3; not C244](sources/soundex/il1900-s415-p2414-james-bettie-mo-lelia.jpg)
+
+### 212 · 1900 (index) · Tennessee S-415 — Sullivan, Viola, 6, Mason County; not C244
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/tn1900-s415-p0386-viola-6-mason.jpg`](sources/soundex/tn1900-s415-p0386-viola-6-mason.jpg)  
+**Source:** S367 · C520
+
+Colored individual, May 1894, age 6, born Tennessee, Mason County, 12th Civil District, volume 44, ED 42, sheet 6, line 6. Enumerated with Porter, Ellen, as granddaughter. Race, age 6, Mason household, and Ellen Porter as the grandmother-figure all contradict the 1910 Liberty White nurse. Rejected as C244.
+
+![Tennessee S-415 — Sullivan, Viola, 6, Mason County; not C244](sources/soundex/tn1900-s415-p0386-viola-6-mason.jpg)
+
+### 213 · 1900 (index) · Tennessee S-415 — William J., Macon; Lea, 2; not C244
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/tn1900-s415-p0448-william-j-lea-2.jpg`](sources/soundex/tn1900-s415-p0448-william-j-lea-2.jpg)  
+**Source:** S367 · C521
+
+White head, January 1868, age 32, born Tennessee, Macon County, 1st Civil District, volume 44, ED 32, sheet 19, line 97. Wife Dona A., August 1877, 22, Tennessee. Daughter Lea, February 1898, 2, Tennessee. Diplomatic given name Lea (three letters), not Leta or Letha. Intact Tennessee household. Rejected as C244.
+
+![Tennessee S-415 — William J., Macon; Lea, 2; not C244](sources/soundex/tn1900-s415-p0448-william-j-lea-2.jpg)
+
+### 214 · 1900 (index) · Illinois S-415 — Leta, 13, on Zachariah F.; not C244
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/il1900-s415-p0250-zachariah-leta-13.jpg`](sources/soundex/il1900-s415-p0250-zachariah-leta-13.jpg)  
+**Source:** S366 · C522
+
+Continuation of Sullivan, Zachariah F. Leta, daughter, January 1887, 13, Illinois. Age 13 versus about 2. Rejected as the 1910 Liberty Township nurse.
+
+![Illinois S-415 — Leta, 13, on Zachariah F.; not C244](sources/soundex/il1900-s415-p0250-zachariah-leta-13.jpg)
+
+### 215 · 1900 (index) · Tennessee S-415 — Jerry continuation; Hettie L., 1
+
+**Role:** Context  
+**File:** [`sources/soundex/tn1900-s415-p0063-jerry-hettie-1.jpg`](sources/soundex/tn1900-s415-p0063-jerry-hettie-1.jpg)  
+**Source:** S367 · C514
+
+Continuation of Sullivan, Jerry, Williamson District 1. Jessie M., daughter, March 1895, 5; Hettie L. (initial H versus L uncertain), daughter, March 1899, 1, Tennessee; Williams, Johnie L., March 1892, 8. Father is Jerry, not a target parent name. Not a confirmed Letha-string child.
+
+![Tennessee S-415 — Jerry continuation; Hettie L., 1](sources/soundex/tn1900-s415-p0063-jerry-hettie-1.jpg)
 
 ### 123 · 1900 (index) · Texas C-563 — J-tab divider
 
