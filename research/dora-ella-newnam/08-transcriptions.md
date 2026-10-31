@@ -1784,5 +1784,67 @@ Given name Lothier; age 26. Not Letha. → **C498**.
 
 Age 22 vs ~2. Rejected as the 1910 Liberty Nurse. → **C497**.
 
+## DOC134 — 1900 AR Soundex S-415, Sullivan, John, 55, Wisconsin, Benton Osage
+- Image: `sources/soundex/ar1900-s415-p2627-john-leta.jpg` SHA-256 `af34c0c8df7feeff400aeaa63e5869f9e14a8f5ca47d0eb82bc1a2fc1918c4bb`
+- Reel: IA `soundex1900ar107` n**2627**
+
+### Diplomatic
+> **S-415 Sullivan, John** — Head of family · vol **3** ED **19** sh **7** ln **64** · W April **1844** **55** Wisconsin · Benton / Osage Township
+> Wife **Sullivan, Ann** — Nov **1854** **46** Tennessee
+> **Keller, Liza** D Aug **1882** **17** Arkansas; **Leach, Nellie** D Jan **1885** **15** Arkansas; **Sullivan, Roger** S Feb **1889** **11** Arkansas
+
+Continuation on DOC135. → **C501**.
+
+## DOC135 — 1900 AR Soundex S-415, Leta, daughter, 2, on John of Benton
+- Image: `sources/soundex/ar1900-s415-p2628-leta-2.jpg` SHA-256 `cc224117e76241811388deb8e380d07f880838fcb3bb50563ce9357b39220da2`
+- Reel: IA `soundex1900ar107` n**2628**
+
+### Diplomatic
+> **S-415 Sullivan, John** — Head of family continued · State Arkansas
+> **John** S Mar **1892** **8** Arkansas; **Osa** S July **1895** **5** Arkansas; **Leta** D Oct **1898** **2** Arkansas
+
+Diplomatic given name **Leta**, not Letha. Rejected as **C244**. → **C501**.
+
+## DOC136 — 1900 AR Soundex S-415, Sullivan, John, 27, Missouri, Yell Dardanelle
+- Image: `sources/soundex/ar1900-s415-p2622-john-yell-dardanelle.jpg` SHA-256 `24fbc3454ddc78b2f558d843cbed50da28d78e1c4a546b3cc7e0ba462eb977af`
+- Reel: IA `soundex1900ar107` n**2622**
+
+### Diplomatic
+> **S-415 Sullivan, John** — Head of family · vol **42** ED **154** sh **3** ln **65** · W Oct **1872** **27** Missouri · Yell / Dardanelle Twp
+> Wife **Sullivan, Belle** — Dec **1879** **20** Arkansas
+> **Stabbs, Edward J.** O.L. Jan **1882** **17** Arkansas
+
+No Letha. Yell FAN only. → **C502**.
+
+## DOC137 — 1900 KY Soundex S-415, Sullivan, John, 64, Missouri, Fleming
+- Image: `sources/soundex/ky1900-s415-p2849-john-64-mo-fleming.jpg` SHA-256 `197b5a8ae233aca31cefa1e81800bca7cc93a81c28d5e8b91774c55d03238ce6`
+- Reel: IA `soundex1900ky161` n**2849**
+
+### Diplomatic
+> **S-415 Sullivan, John** — Head of family · vol **22** ED **42** sh **8** ln **82** · W Jan **1836** **64** Missouri · Fleming / Mag Dist 4 / Flemingsburg
+> Wife **Sullivan, Margaret** — Aug **1832** **67** Kentucky
+
+No children. → **C499**.
+
+## DOC138 — 1900 AR Soundex S-415, Sullivan, Viola, 11/12, Pulaski
+- Image: `sources/soundex/ar1900-s415-p2804-viola-pulaski.jpg` SHA-256 `21c01ff25e0f8b91083f05cde2bf7b1bc6e46e6d60244f0d14fd2d371a67388b`
+- Reel: IA `soundex1900ar107` n**2804**
+
+### Diplomatic
+> **S-415 Sullivan, Viola** — Individual · vol **33** ED **98** sh **2** ln **23** · Colored June **1899** **11/12** Arkansas · Pulaski / Eastman Twp
+> Enumerated with **Newton, Jasper** · Relationship: Daughter
+
+Rejected as **C244**. → **C509**.
+
+## DOC139 — 1900 AR Soundex S-415, Sullivan, James W., 35, Missouri, Yell Magazine
+- Image: `sources/soundex/ar1900-s415-p2588-james-w-yell-mo.jpg` SHA-256 `6be61a537bf138547c35065a9e479f0a52625d7b8cef5d9bedaf1f9d70827fa8`
+- Reel: IA `soundex1900ar107` n**2588**
+
+### Diplomatic
+> **S-415 Sullivan, James W.** — Head of family · vol **42** ED **152** sh **19** ln **37** · W Feb **1865** **35** Missouri · Yell / Magazine Twp
+> Wife **Sullivan, Susanah J.** — Feb **1860** **40** Missouri
+
+No children. Yell FAN. → **C504**.
+
 ## DOC009 — 1910 TN Soundex N-550 McCoy window (nil)
 Handwritten family/individual cards n2461–n2469. Sequence after Mary C (n2460): Mary D 49 Jefferson (son Layton 11); Mary M 70 Hamilton; Mek. G 50 Cheatham (Florence 19, John 17, General 16, Frances 13, William 10, Doria 6, Luther 1½); Melvin 3½ Giles (gs of Deacon George W); Melvin 54 Giles (SIL of same); Minerva 80 Robertson (gds Lona Neely, Nellie Erwin); Minnie 21 Roane (with Sam P. Sparks); Mitchell 27 Hardin (Ollie P 25, Gladys 4, Burl W 3, Royal E 1 9/12). **No McCoy.** SHA-256 n2463 `23610f8aa4c159b1b554ed1786d11f57d2f56f8a2e8994f7289ae7bd02dfca53`; n2469 `340489566090880388fa6b81ca5751c5944dcaf56a7b44f70fe560788f308586`.

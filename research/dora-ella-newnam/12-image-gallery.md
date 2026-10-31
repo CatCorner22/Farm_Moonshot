@@ -176,6 +176,12 @@ Diplomatic transcriptions: [`08-transcriptions.md`](08-transcriptions.md). Citat
 | 201 | 1900 (index) | Negative search | [Tennessee S-415 — Levi J., after Leon; Letha slot empty](sources/soundex/tn1900-s415-p196-levi-j.jpg) |
 | 202 | 1900 (index) | Rejected same-name | [Tennessee S-415 — Sullivan, Lottie, 22, Henry County; not Letha](sources/soundex/tn1900-s415-p205-lottie-22-henry.jpg) |
 | 203 | 1900 (index) | Rejected same-name | [Tennessee S-415 — Sulevine, Lothier, 26, Carroll County; not Letha](sources/soundex/tn1900-s415-p204-lothier-sulevine.jpg) |
+| 204 | 1900 (index) | Rejected same-name | [Arkansas S-415 — Sullivan, John, 55, Wisconsin, Benton Osage; Leta family](sources/soundex/ar1900-s415-p2627-john-leta.jpg) |
+| 205 | 1900 (index) | Rejected same-name | [Arkansas S-415 — Leta, daughter, 2, Arkansas, on John of Benton; not C244](sources/soundex/ar1900-s415-p2628-leta-2.jpg) |
+| 206 | 1900 (index) | Context | [Arkansas S-415 — Sullivan, John, 27, Missouri, Yell Dardanelle; no Letha](sources/soundex/ar1900-s415-p2622-john-yell-dardanelle.jpg) |
+| 207 | 1900 (index) | Context | [Kentucky S-415 — Sullivan, John, 64, Missouri, Fleming; no children](sources/soundex/ky1900-s415-p2849-john-64-mo-fleming.jpg) |
+| 208 | 1900 (index) | Rejected same-name | [Arkansas S-415 — Sullivan, Viola, 11/12, Pulaski; not C244](sources/soundex/ar1900-s415-p2804-viola-pulaski.jpg) |
+| 209 | 1900 (index) | Context | [Arkansas S-415 — Sullivan, James W., 35, Missouri, Yell Magazine; no children](sources/soundex/ar1900-s415-p2588-james-w-yell-mo.jpg) |
 | 123 | 1900 (index) | Context | [Texas C-563 — J-tab divider](sources/soundex/tx1900-c563-p1-j-divider.jpg) |
 | 17 | Apr 1910 | Negative search | [Kentucky N-550 — Millie / Missouri; no McCoy](sources/soundex/ky1910-n550-p329-millie-missouri.jpg) |
 | 18 | Apr 1910 | Negative search | [Kentucky N-550 — Monroe; still no McCoy](sources/soundex/ky1910-n550-p330-monroe-no-mccoy.jpg) |
@@ -1804,6 +1810,66 @@ White individual, September 1877, age 22, born Tennessee, Henry County, First Di
 White head, July 1873, age 26, born Tennessee, Carroll County, 2nd Civil District. Given name Lothier; surname diplomatic Sulevine. Not Letha Sullivan.
 
 ![Tennessee S-415 — Sulevine, Lothier, 26, Carroll County; not Letha](sources/soundex/tn1900-s415-p204-lothier-sulevine.jpg)
+
+### 204 · 1900 (index) · Arkansas S-415 — Sullivan, John, 55, Wisconsin, Benton Osage; Leta family
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/ar1900-s415-p2627-john-leta.jpg`](sources/soundex/ar1900-s415-p2627-john-leta.jpg)  
+**Source:** S365 · C501
+
+White head, April 1844, age 55, born Wisconsin, Benton County, Osage Township, volume 3, ED 19, sheet 7, line 64. Wife Ann, November 1854, 46, Tennessee. Children on this card include Roger, 11, Arkansas. Continuation on Plate 205 names Leta, daughter, 2.
+
+![Arkansas S-415 — Sullivan, John, 55, Wisconsin, Benton Osage; Leta family](sources/soundex/ar1900-s415-p2627-john-leta.jpg)
+
+### 205 · 1900 (index) · Arkansas S-415 — Leta, daughter, 2, Arkansas, on John of Benton; not C244
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/ar1900-s415-p2628-leta-2.jpg`](sources/soundex/ar1900-s415-p2628-leta-2.jpg)  
+**Source:** S365 · C501
+
+Continuation of John of Benton Osage. John, son, March 1892, 8; Osa, son, July 1895, 5; Leta, daughter, October 1898, 2, all born Arkansas. Diplomatic given name Leta, not Letha. Father born Wisconsin versus the 1910 Liberty nurse's father Indiana. Intact Arkansas household. Rejected as C244.
+
+![Arkansas S-415 — Leta, daughter, 2, Arkansas, on John of Benton; not C244](sources/soundex/ar1900-s415-p2628-leta-2.jpg)
+
+### 206 · 1900 (index) · Arkansas S-415 — Sullivan, John, 27, Missouri, Yell Dardanelle; no Letha
+
+**Role:** Context  
+**File:** [`sources/soundex/ar1900-s415-p2622-john-yell-dardanelle.jpg`](sources/soundex/ar1900-s415-p2622-john-yell-dardanelle.jpg)  
+**Source:** S365 · C502
+
+White head, October 1872, age 27, born Missouri, Yell County, Dardanelle Township, volume 42, ED 154, sheet 3, line 65. Wife Belle, December 1879, 20, Arkansas; Stabbs, Edward J., 17, Arkansas. No child Letha. Yell geography FAN only; not merged with C244.
+
+![Arkansas S-415 — Sullivan, John, 27, Missouri, Yell Dardanelle; no Letha](sources/soundex/ar1900-s415-p2622-john-yell-dardanelle.jpg)
+
+### 207 · 1900 (index) · Kentucky S-415 — Sullivan, John, 64, Missouri, Fleming; no children
+
+**Role:** Context  
+**File:** [`sources/soundex/ky1900-s415-p2849-john-64-mo-fleming.jpg`](sources/soundex/ky1900-s415-p2849-john-64-mo-fleming.jpg)  
+**Source:** S364 · C499
+
+White head, January 1836, age 64, born Missouri, Fleming County, Mag. Dist. 4, Flemingsburg, volume 22, ED 42, sheet 8, line 82. Wife Margaret, August 1832, 67, Kentucky. No children on the card. Not a father of a child about two.
+
+![Kentucky S-415 — Sullivan, John, 64, Missouri, Fleming; no children](sources/soundex/ky1900-s415-p2849-john-64-mo-fleming.jpg)
+
+### 208 · 1900 (index) · Arkansas S-415 — Sullivan, Viola, 11/12, Pulaski; not C244
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/ar1900-s415-p2804-viola-pulaski.jpg`](sources/soundex/ar1900-s415-p2804-viola-pulaski.jpg)  
+**Source:** S365 · C509
+
+Colored individual, June 1899, age 11/12, born Arkansas, Pulaski County, Eastman Township, volume 33, ED 98, sheet 2, line 23. Enumerated with Newton, Jasper, as daughter. Race, age, Pulaski household, and Jasper Newton as the father-figure all contradict the 1910 Liberty White nurse. Rejected as C244.
+
+![Arkansas S-415 — Sullivan, Viola, 11/12, Pulaski; not C244](sources/soundex/ar1900-s415-p2804-viola-pulaski.jpg)
+
+### 209 · 1900 (index) · Arkansas S-415 — Sullivan, James W., 35, Missouri, Yell Magazine; no children
+
+**Role:** Context  
+**File:** [`sources/soundex/ar1900-s415-p2588-james-w-yell-mo.jpg`](sources/soundex/ar1900-s415-p2588-james-w-yell-mo.jpg)  
+**Source:** S365 · C504
+
+White head, February 1865, age 35, born Missouri, Yell County, Magazine Township, volume 42, ED 152, sheet 19, line 37. Wife Susanah J., February 1860, 40, Missouri. No children. Yell geography FAN only; not a father of Letha.
+
+![Arkansas S-415 — Sullivan, James W., 35, Missouri, Yell Magazine; no children](sources/soundex/ar1900-s415-p2588-james-w-yell-mo.jpg)
 
 ### 123 · 1900 (index) · Texas C-563 — J-tab divider
 
