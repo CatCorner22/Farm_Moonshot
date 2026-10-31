@@ -703,3 +703,23 @@ Crop of lines 17–24. Dora is not in this house. Her father is. She is not in C
 
 ![Burke household crop — E. T. Newman, grandfather](sources/census/1920-lee-ky-ed111-sh6a-burke-hh-crop.jpg)
 
+### 62 · 7 Oct 2014 photo · Carter Cemetery slab — DORRA / NEWNAM
+
+**Role:** Family hit  
+**File:** [`sources/cemetery/fag-dora-newnam-97907837-stone-2014-full-2026-10-31.jpg`](sources/cemetery/fag-dora-newnam-97907837-stone-2014-full-2026-10-31.jpg)  
+**Source:** S353 · C412 · C414 · conflict #24
+
+Homemade concrete marker at Carter Cemetery (id 53354), Plainview, Yell County. Diplomatic reading **DORRA / NEWNAM**. No dates. Find a Grave memorial 97907837. Identification with Dora Ella Newnam Stone is **PROBABLE**.
+
+![Dorra Newnam homemade slab, Carter Cemetery](sources/cemetery/fag-dora-newnam-97907837-inscription-crop-2026-10-31.jpg)
+
+### 63 · 6 Oct 2014 photo · Carter Cemetery granite — THOMAS STONE 1845–1925
+
+**Role:** Family hit (probable m2)  
+**File:** [`sources/cemetery/fag-thomas-stone-97907931-stone-2014-full-2026-10-31.jpg`](sources/cemetery/fag-thomas-stone-97907931-stone-2014-full-2026-10-31.jpg)  
+**Source:** S354 · C413 · conflict #4
+
+Commercial granite in the same yard. Diplomatic reading **THOMAS STONE / 1845 — 1925**. Does not settle the 1845 vs ~1858 birth-year conflict.
+
+![Thomas Stone granite, Carter Cemetery](sources/cemetery/fag-thomas-stone-97907931-inscription-crop-2026-10-31.jpg)
+

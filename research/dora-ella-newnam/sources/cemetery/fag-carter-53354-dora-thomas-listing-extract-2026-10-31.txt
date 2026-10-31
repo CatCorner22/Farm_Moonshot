@@ -1,0 +1,96 @@
+Find a Grave Carter Cemetery (id 53354) + stone photographs
+Captured 31 Oct 2026 · B054 · pass 71 · bc-20e39036
+Did not replay B057 L442–L452. Sibling C395–C398 / L454–L459 / S337–S339 left alone.
+Left L418–L429 / C367–C374 / S317–S322 for B092.
+
+User-Agent curl (Chrome/120). Individual memorial pages still HTTP 403 Cloudflare.
+
+CEMETERY PAGE (200, 236,920 B)
+  https://www.findagrave.com/cemetery/53354/carter-cemetery
+  Title: Carter Cemetery in Plainview, Arkansas - Find a Grave Cemetery
+  Cemetery ID: 53354
+  Also called on page: Carter Cove Cemetery
+  Address: Plainview, Yell County, Arkansas, USA
+  Memorials: 464 · 65% photographed
+  GPS (page): N34.96543 W093.24435
+  Directions: In Plainview at intersection of Hwy 28 & 60, take Hwy 60 for 3.4 miles.
+    Turn right just pass the bridge onto Carter Cove Rd. Go 1/4 mile & turn right onto
+    Carter Chapel Lane. Take the first gravel road on the right & cemetery will be on
+    your right.
+  Cemetery-overview photo credits on page (NOT the grave photos): Christina Atkinson
+    (27 Aug 2008); Vicki G (20 Jul 2014); Beverly Joe Vaughn (14 Jan 2023).
+  Grave-photo photographer is not named on the listing (memorial pages 403).
+  Local head extract: fag-carter-cemetery-53354-head-2026-10-31.html
+
+CEMETERY ID 53325 (200, 171,114 B) — REJECT as Carter Cove
+  https://www.findagrave.com/cemetery/53325
+  Title: Campground Cemetery in Hector, Arkansas
+  L010's "53325" is the wrong yard.
+
+MEMORIAL-SEARCH (exact strings; 200 unless noted)
+  firstName=Dora lastName=Newman cemeteryId=53354
+    sr-97907837 Dora Newman — "Birth and death dates unknown."
+    Thumbnail: https://images.findagrave.com/photoThumbnails/photos/2014/279/97907837_1412682277.jpg
+    Full:     https://images.findagrave.com/photos/2014/279/97907837_1412682277.jpg
+    Only Newman memorial in this cemetery on that filter.
+  lastName=Newman cemeteryId=53354
+    Same single hit: 97907837 Dora Newman. No other Newman.
+  firstName=Thomas lastName=Stone cemeteryId=53354
+    sr-97907931 Thomas Stone — 1845 – 1925
+    Thumbnail: https://images.findagrave.com/photoThumbnails/photos/2014/278/97907931_1412626902.jpg
+    Full:     https://images.findagrave.com/photos/2014/278/97907931_1412626902.jpg
+  lastName=Stone cemeteryId=53354
+    Same single hit: 97907931 Thomas Stone. No other Stone.
+  lastName=Newnam                         — No matches (0 memorials)
+  firstName=Dora lastName=Newnam          — No matches
+  firstName=Dora lastName=Stone           — No matches
+  firstName=Posa lastName=Stone           — No matches
+  firstName=Tom lastName=Stone            — No matches
+  firstName=Coy lastName=Newnam           — No matches
+  firstName=Coy lastName=Newman           — No matches
+  firstName=Dorra lastName=Newnam         — No matches
+  memorial/97907837/dora-newman           — 403
+  memorial/97907931/thomas-stone          — 403
+
+STONE PHOTOS (image seen; images.findagrave.com 200)
+  Dora full: fag-dora-newnam-97907837-stone-2014-full-2026-10-31.jpg
+    1,372,968 B · 2097×1325 · SHA-256 03ad858b468414808fb538dfd22406604bdabeecc3036b16dde65b2d914a1325
+    EXIF: Canon PowerShot S5 IS · DateTime 2014:10:07 06:44:28 · Software/Artist Picasa
+    Working downscale (1800×1137, 677,210 B): fag-dora-newnam-97907837-stone-2014-2026-10-31.jpg
+    Inscription crop (1400×821): fag-dora-newnam-97907837-inscription-crop-2026-10-31.jpg
+      SHA-256 d2370a5d553e5adff3bbe2ec6ed52d09544b5f3d5e987e71ef05816fc759552f
+  Thomas full: fag-thomas-stone-97907931-stone-2014-full-2026-10-31.jpg
+    3,843,876 B · 3264×2448 · SHA-256 1d428c0f5f858f2913335e42f793a01da8a0bd44605c287f9e675eb86a1124c9
+    EXIF: Canon PowerShot S5 IS · DateTime 2014:10:06 15:21:08 · Software/Artist Picasa
+    Working downscale (1600×1200, 651,315 B): fag-thomas-stone-97907931-stone-2014-2026-10-31.jpg
+    Inscription crop (1400×1137): fag-thomas-stone-97907931-inscription-crop-2026-10-31.jpg
+      SHA-256 f11e29295f538a0358b994fc5bc4c1a1de61de50e44619b9e4174dab1f978105
+
+DIPLOMATIC READINGS (two passes from the crops; paleography.md)
+  Dora slab — homemade concrete, letters scratched; no dates; no emblem.
+    Line 1: DORRA
+    Line 2: NEWNAM
+    Pass 2: line 1 is five letters; the third and fourth are the same R form (not DORA + stray).
+      Line 2 fourth letter is N (two stems + diagonal), not M; last letter is M (three stems).
+      Not NEWMAN. No other text.
+    Normalised: Dora Newnam (DORRA treated as a carver doubling; NEWNAM is the family spelling).
+  Thomas marker — commercial granite, machine-cut sans-serif; artificial pink lilies on the sod.
+    Line 1: THOMAS STONE
+    Line 2: 1845 — 1925
+    Pass 2: digits 1-8-4-5 and 1-9-2-5 confirmed. Em-dash between the years.
+
+FREE SUBSTITUTES (same day)
+  Wayback CDX findagrave.com/memorial/97907837 and /97907931 : HTTP 200, body [] (no snapshots).
+  Genealogy Trails ark/yell/cem.htm (200): Carter Cemetery 345754N 0931443W
+    (34°57′54″ N, 93°14′43″ W) — agrees with FAG/MapCarta. Carter Family Cemetery = unknown coords
+    (different yard; already rejected Carter, Dora 1866–1895).
+  ARGenWeb yell/Cemeteries/cartercovecem.html : 404
+  ARGenWeb yell/Cemeteries/cartercem.html     : 404
+  ARGenWeb yell/Cemeteries/carterfamcem.html  : 200, Carter Family Cemetery (not this yard)
+  Interment.net us/ar/yell.htm : 200, 20,892 B — no Carter / Newman / Newnam / Stone line
+  BillionGraves Carter-Cemetery/157161 : 403
+  Rootsweb ~arcemete/yell/yell.htm : 403
+  yellcountyobits cemeterylist64 : 403 this pass (prior S268–S269 stand)
+  USGW Archives ar/yell : timeout 20s
+
+WebSearch "Dorra Newnam Carter Cove" : no independent third-party hit (stone spelling is new to print).

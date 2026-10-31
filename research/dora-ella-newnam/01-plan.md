@@ -66,7 +66,7 @@ Wildcard strings to use: `New*m`, `Dor* New*`, `"Doll Newnam"`, `McCoy OR Coy Ne
 | 15 | Samuel death 1900–1911 | Lee Co. (pre-1911, likely none statewide); cemetery; newspapers | Close widowhood | Open; not a 1910 KY N-550 head |
 | 16 | John H.; Mary Bunch; Rissie TN DC | KY/TN vitals, NUMIDENT, licenses | Children after 1900 | Partial (Pearl/Mary NUMIDENT prior); John H. VA namesake rejected |
 | 17 | Yell County Journal obit Aug 1926 | AR State Archives / Plainview or Danville library | Names surviving kin | **on-site** |
-| 18 | Carter Cove photograph | Find A Grave 403 from VM; in-person | Confirm undated “Newman, Dora” | **user / photo request** |
+| 18 | Carter Cove photograph | Find A Grave cemetery search + `images.findagrave.com` | Confirm undated “Newman, Dora” | **Pass 71: stones image seen.** Diplomatic **DORRA / NEWNAM** (no dates); **THOMAS STONE 1845 — 1925**. Memorial bios still 403. |
 | 19 | DNA | — | Excluded (living-tester files) | n/a |
 | 22 | 1910 KY Miracode P-142 Peebles/Peeples/Peoples | IA `soundex1910ky128` printed pp. ~233–247 | H3-Peebles as KY 1910 wife or head | **nil for P001** (Edora Peoples 65 Graves rejected; no wife Dora on any P-142 card) |
 | 23 | 1910 AR Miracode P-142 D-window | IA `soundex1910ar091` printed pp. ~178–193 | H3-Peebles as AR 1910 Dora ~39 | **nil for P001** (Dora Sykes 19 and Dora Bell 16 rejected) |
@@ -179,7 +179,18 @@ Regenerated **before** B054 queries (`bc-20e39036`). **Did not replay B057 L442�
 3. **Machine / OCR given:** Dora, posa, dosa, rosa, dona, dara, dore, dori, dola, pora, rora. Thomas, thos, tom, t a, t. a. Surname: Newman, newnam, newnarn, newan; Stone, storie, stona, stome. Soundex **N550** / **S350** / **D600** / **T520** / **C636**.
 4. **Repository quirks:** FAG memorial IDs **97907837** / **97907931** (individual pages historically CF-blocked); cemetery search `cemetery/53354` vs `53325`; `Last, First` on compiled indexes; yellcountyobits cemeterylist **64** / **83**; Daniels/Cossey 1993 copy; BillionGraves / Interment / GT / ARGenWeb / Wayback as photo substitutes.
 
-Exact strings logged **L469+**.
+Exact strings logged **L469–L476**.
+
+## Name-variant storm (pass 71, `search_variants.py`, 31 Oct 2026)
+
+Regenerated **before** B054 repository queries (`bc-20e39036`). **Did not replay B057 L442–L452.** Sibling owns C395+ / L454+ / S337+. **Left L418–L429 / C367–C374 / S317–S322 for B092.** This agent used **C410–C416 / L469–L476 / S352–S354**. Categories **1–4**:
+
+1. **Canonical:** Dora Newman (FAG listing title); Thomas Stone 1845–1925; Carter Cemetery / Carter Cove / Carters Chapel / Plainview Cemetery; cemetery id **53354**.
+2. **User / family:** Dora / Dora Ella / Posa; Newman / Newnam; Dora Stone; Thomas / Tom / T. A. / Thos Stone. **Stone inscription (new):** DORRA / NEWNAM.
+3. **Machine / OCR given:** Dora, posa, dosa, rosa, dona, dara, dore, dori, dola, pora, rora, Dorra. Thomas, thos, tom, t a. Surname: Newnam, newman, newnarn, newan, newnom; Stone, storie, stona, stome. Soundex **N550** / **S350** / **D600**.
+4. **Repository quirks:** FAG memorial IDs **97907837** / **97907931** (individual pages **403**; cemetery search + `images.findagrave.com` **200**); cemetery **53354** vs wrong id **53325** (Campground, Hector); `Last, First`; yellcountyobits 64/83; Daniels/Cossey 1993; Wayback CDX; Interment; GT `cem.htm`; ARGenWeb cartercove/carter/carterfam; BillionGraves.
+
+Exact strings logged **L469–L476**.
 
 ## Name-variant storm (pass 70-B057, `search_variants.py`, 31 Oct 2026)
 
@@ -191,6 +202,17 @@ Regenerated before B057 residual queries (`bc-c5415202`). **Did not retake C383�
 4. **Repository quirks:** Find A Grave cemetery **2651502** memorial-search `lastName=Newman` (listing HTML; individual memorials **403**); Madison KYGenWeb `1936b.htm` (N-block); Lee Books `Last, First`; Proctor `cemeteries/proctor.html` (not `cemetery/`); Owsley deaths year files.
 
 Exact strings logged **L454–L459**.
+
+## Name-variant storm (pass 72, `search_variants.py`, 31 Oct 2026)
+
+Regenerated **before** B045 queries (`bc-c5415202`). **Did not take B049 / B055 / B056 / B092.** **Did not retake B051 / B054 / B057.** Sibling `bc-20e39036` closed B054 as **C410–C416 / L469–L476 / S352–S354**. **Left L418–L429 / C367–C374 / S317–S322 for B092.** This pass uses **C417+ / L477+ / S355+**. Categories **1–4**:
+
+1. **Canonical:** Samuel P. Newnam (P002); middle Parriott is WikiTree lore only.
+2. **User / family:** Newman / Newnam / Newnarn / Newan / Newnom; Samuel / Sam / S. P. / S P; Samuel Parriott Newnam.
+3. **Machine / OCR given:** Samuel (ocr-given: Samuel only). Surname: Newnam, newman, newnarn, newan, newnom. Soundex **N550** / Samuel **S540** / Parriott **P630**.
+4. **Repository quirks:** USGenNet / KYGenWeb `Last, First` on will indexes; FS Catalog place **United States, Kentucky, Lee** + keywords probate/wills; Ancestry collection **9066** paywall; KDLA inventory columns “Will Books” / “other Probate”; SNAC creator **Lee County (Ky.) County Clerk**; IA Solr `title:(…)` vs full-text.
+
+Exact strings logged **L477–L485**.
 
 ## Agent SDK / GitHub channel
 

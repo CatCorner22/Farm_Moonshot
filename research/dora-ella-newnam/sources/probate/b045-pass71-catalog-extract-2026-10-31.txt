@@ -1,0 +1,183 @@
+B045 Pass 71 — Samuel P. Newnam probate film catalog (31 Oct 2026)
+Worker: bc-c5415202. Access: catalog only / index only / transcription only.
+Film images: not examined. No DGS or microfilm reel number verified from an opened FamilySearch catalog record.
+
+========================================================================
+1. LDS Genealogy — Lee County KY Probate Records
+URL: https://www.ldsgenealogy.com/KY/Lee-County-Probate-Records.htm
+     (mail.ldsgenealogy.com same page)
+Opened: 31 Oct 2026. HTML seen via WebFetch.
+Lists 3 sources:
+  - Kentucky, Wills and Probate Records, 1774-1989 — Ancestry (paywall)
+  - Probate records, 1870-1967 — FamilySearch Library
+  - Wills, 1873-1945 — FamilySearch Library
+No name index. No Samuel / Newnam / Newman on the page.
+
+OnGenealogy Kentucky probate listings (WebSearch + full-page dump):
+  Lee County – Probate Records – Probate Records, 1870-1967, at FS
+  Lee County – Probate Records – Wills, 1873-1945, at FS
+
+Ancestor Hunt free KY probate list:
+  Lee County Probate Records, 1870-1967
+  Lee County Wills, 1873-1945
+
+FamilySearch Wiki snippet (WebSearch of
+https://www.familysearch.org/en/wiki/Lee_County,_Kentucky_Genealogy ;
+direct fetch 403 / Incapsula this pass):
+  Online Probate Indexes and Records
+  - 1774-1989 Kentucky, U.S., Wills and Probate Records, 1774-1989 at Ancestry ($)
+  - 1870-1967 Probate records, 1870-1967(*); County Court at FamilySearch Catalog — index & images
+  - 1873-1945 Will Book 1 (1873-1945) at FamilySearch
+  - 1873-1945 Wills, 1873-1945(*); County Court at FamilySearch Catalog — index & images
+  - Full-Text Search - Wills and Probate Records at FamilySearch
+  Courthouse snippet: Lee County Courthouse, Main St, Room 11, P.O. Box 412,
+  Beattyville, KY 41311, phone 606-464-4115.
+  Record-dates table: Probate beginning 1870.
+FS catalog keyword search
+  https://www.familysearch.org/search/catalog/results?count=20&query=%2Bplace%3A%22United%20States%2C%20Kentucky%2C%20Lee%22%20%2Bkeywords%3Aprobate
+  returned HTTP 404 shell. Catalog ID / DGS / film number NOT verified.
+Do not invent a film number.
+
+========================================================================
+2. USGenNet Lee wills index (re-opened)
+URL: https://usgennet.org/usa/ky/county/lee/wills/
+HTML saved: usgennet-lee-wills-index-2026-10-31.html
+SHA-256 9240a477d6460962efea3812f6d2359405aa28d4928e140f04553ccc7bf63564 (30,679 B)
+Newnam / Newman testators on the published index:
+  Mary Jane Steele NEWMAN
+  Elizabeth NEWNAM
+  Mary F. Newnam TINCHER
+  (Mary F. TINCHER also listed as a separate link)
+NO Samuel / Samuel P. / S. P. / Parriott Newnam or Newman.
+Other "Samuel" on the index: Samuel BEATTY; Samuel DARCH; Samuel P. BRANDENBURGH;
+  Samuel PLUMMER; Samuel P. STEELE — different surnames, not merged.
+
+KYGenWeb Lee wills: https://kygenweb.net/lee/wills/
+HTML saved: kygenweb-lee-wills-2026-10-31.html
+SHA-256 96bcb554662233db9ea7f4bc0742b98f70399f9e01b48161a0b05bcc27558f7b (6,435 B)
+Files listed: McGuire, Archibald D.; Raines, J. F.; Steele, Wilgus.
+Images: None submitted. No Newnam/Newman/Samuel P.
+
+========================================================================
+3. Owsley neighbouring-jurisdiction will index
+URL: https://kygenweb.net/owsley/wills/will_index.html
+HTML saved: kygenweb-owsley-will-index-placeholder-2026-10-31.html
+SHA-256 daa46b374b1cd8fbc7598bbcb22afae58e75b7d787a967f643c7c1d9156b7078 (562 B)
+Text: "Owsley County Will Index and other Probate Records will be here soon!"
+No names. Placeholder only.
+
+========================================================================
+4. KDLA County Records inventory (Lee + Owsley rows)
+County Records.pdf
+  https://kdla.ky.gov/Archives-and-Reference/Documents/County%20Records.pdf
+  saved kdla-county-records-2026-10-31.pdf
+  SHA-256 7407369287490063aa9f48a41f81f10037209c2b363f9484dfd2d968bf5d4745 (170,641 B)
+Inventory_County_Records.pdf
+  https://kdla.ky.gov/Archives-and-Reference/Documents/Inventory_County_Records.pdf
+  saved kdla-inventory-county-records-2026-10-31.pdf
+  SHA-256 3265cd33304e406f7ab85234973c0a446584a45d8e7b24742109f03067c058a2 (178,864 B)
+Header (Inventory extract): County | Birth | Marriage | Death | Deed |
+  County Order Books | other Probate Records | Civil Cases | Criminal Cases
+Note on both PDFs: "Documents pertaining to probate are recorded in volumes
+  containing records of administrations, court proceedings, court minutes,
+  estates, executors, guardians, inventories, probates, sales, settlements,
+  and/or wills."
+Lee row (Inventory line, cleaner extract):
+  Birth 1874-1876, 1878-1879, 1902-1904
+  Marriage 1870-2001
+  Death 1874-1878, 1900-1904, 1911-1967
+  Deed 1870-2004
+  County Order Books 1870-1981
+  other Probate 1873-2004
+  Civil 1873-1970
+  Criminal 1873-1973
+Lee 1905-1910 still has no inventoried death register (extends C110).
+Owsley last-line extract (Inventory):
+  Death 1852-1859, 1874-1879, 1907-1910, 1911-1967
+  Deed 1929-2003
+  Order 1929-1987
+  other Probate 1930-2001
+  Civil 1923-1953
+  Criminal 1925-1977
+Owsley other-probate column on that table begins 1930 — no 1900-1910
+Owsley probate volumes listed. Column assignment is from the Inventory
+header + last-line extract; volumes themselves not opened.
+
+========================================================================
+5. KDLA retrieval path (pages opened)
+Records-Requests:
+  https://kdla.ky.gov/Archives-and-Reference/Pages/Records-Requests.aspx
+  Mail: Archives Research Room, KDLA, P.O. Box 537, 300 Coffee Tree Road,
+        Frankfort, KY 40602
+  Fee: $20 in-state / $25 out-of-state, non-refundable, payable to
+       Kentucky State Treasurer. Allow 4-6 weeks.
+  Form named on page: Probate/Will Record Request
+  Form PDF: https://kdla.ky.gov/Archives-and-Reference/Documents/probate.pdf
+  saved kdla-probate-will-request-form-2026-10-31.pdf
+  SHA-256 32daa019d71ee20d72429b05461e758ba2bd2e7b063fb2c66b59b62c486aeb08 (291,837 B)
+  Fields seen (WebSearch snippet + PDF download): Full Name of Deceased;
+    County; Year of Death; Exact Date if known; Book/Page if known.
+Visiting:
+  https://kdla.ky.gov/Archives-and-Reference/Pages/Visiting-the-Archives.aspx
+  Research Room Mon-Thu 9:00-3:30 EDT; closed Friday. Appointments encouraged.
+  Phone (502) 564-1770. Email kdla.archives@ky.gov
+  Address 300 Coffee Tree Road, Frankfort, KY 40601
+  Staff do not perform research on-site; many holdings are microfilm.
+
+========================================================================
+6. KHS / SNAC
+SNAC page https://snaccooperative.org/view/1321093
+  Direct fetch 403 / bot-wall this pass (HTML "Verifying that you are not a bot").
+  WebSearch snippet (same URL): creatorOf
+  "Lee County (Ky.) County Clerk. Probate records [microform], 1873-1945."
+  Holding repository: Kentucky Historical Society, Martin F. Schmidt Research Library.
+Martin F. Schmidt Research Library
+  https://history.ky.gov/visit/martin-f-schmidt-research-library
+  100 West Broadway, Frankfort, KY 40601
+  Hours: Tuesday-Saturday 10 am-5 pm
+  Contact: khsrefdesk@ky.gov, (502) 782-8080
+  Microfilm reader-printers on site.
+Library Research Services
+  https://history.ky.gov/explore/library-research-services
+  Mail: Research Services, Kentucky Historical Society, 100 W. Broadway,
+        Frankfort, KY 40601
+  Single Record Request $21.20 (check/MO only); hourly $47.70 members / $53.00
+  others; allow up to eight weeks. Call 502-782-8080.
+
+========================================================================
+7. Internet Archive Solr (31 Oct 2026) — all numFound=0
+A. title:(Samuel P Newnam OR "Samuel Newnam") AND (will OR probate) AND Kentucky
+B. "Lee County" Kentucky (probate OR wills) Newnam
+C. title:("Samuel Newman" OR "Samuel P Newman") AND (will OR probate) AND Kentucky
+D. "Samuel Parriott" (Newnam OR Newman) (will OR probate OR death)
+JSON saved beside this extract. No digitized will/probate item for P002.
+
+========================================================================
+8. Exact retrieval path (film unread)
+Path A — FamilySearch (free with sign-in / FamilySearch Center):
+  Sign in. Catalog place = United States, Kentucky, Lee.
+  Open titles "Probate records, 1870-1967" and "Wills, 1873-1945" / Will Book 1
+  (1873-1945). Browse the decedent index, then administrations / settlements /
+  inventories 1900-1910. Strings: Newnam, Newman, Newnarn, Newan, Newnom,
+  Samuel, Samuel P, S. P., S P, Parriott. Also Full-Text Search
+  (Wills and Probate Records) with the same strings + Lee + 1900-1910.
+  Catalog ID / DGS not verified from this VM.
+Path B — KDLA paid copy or on-site:
+  Probate/Will Record Request: decedent Samuel P. Newnam / Newman / S. P.
+  Newnam / Samuel Parriott Newnam; county Lee (try Owsley only as a second
+  form — inventory other-probate starts 1930); year of death 1900-1910
+  (WikiTree 24 Feb 1906 is unsourced lore — do not treat as a known date).
+  Mail form + $25 out-of-state / $20 in-state to Archives Research Room,
+  P.O. Box 537, 300 Coffee Tree Road, Frankfort, KY 40602, payable Kentucky
+  State Treasurer. Or visit Mon-Thu 9-3:30, (502) 564-1770.
+Path C — KHS on-site / fee research:
+  Ask for Lee County Clerk probate microform 1873-1945 at Martin F. Schmidt
+  Research Library, 100 W. Broadway, Frankfort, KY 40601. Hours Tue-Sat 10-5.
+  Or mail Single Record / hourly research request (see §6).
+Path D — Lee County Clerk:
+  Wiki snippet: Main St, Room 11, P.O. Box 412, Beattyville, KY 41311,
+  606-464-4115. Ask for will book 1 / administrations 1900-1910, Newnam.
+  Clerk site historically 403 from this VM (L285).
+
+Nothing above is a reading of the film.
+PY

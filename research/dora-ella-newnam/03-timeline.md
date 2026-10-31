@@ -37,7 +37,7 @@ Place as it was *at the date*; modern equivalent in brackets. Flag impossibiliti
 | Jun 1900 (enum. 6–28 Jun) | — | Greene Co. MO ED **42–43** name-column swept: **no** Thomas A. Stone head. ED **37** sh **18 A** Thomas A. (C117) unchanged | Campbell Twp / Springfield, Greene Co., MO | C264 C259 C117 | S256 |
 | 1 Jun 1900 | — | Elias & Mary at Proctor hh 25/25, 6-6 children living; **Provy Hoover gdau** 13 in the house. George Burke hh 36/36 includes **Charles B. son** Nov 1879 | Proctor precinct, Lee Co., KY | C096 C097 | S076 |
 | 5 Mar 1900 | 28 | BIL John Newnam d. consumption (context) — **only** Newnam in Lee VS 1900–1904; not Samuel | Lee Co. | C098 | S077 |
-| 24 Feb 1906 (WikiTree lore) | ~34 | Alleged death of Samuel | Lee Co.? | C012 | S030 | unproved; required before 1910 by Pearl’s boarding |
+| 24 Feb 1906 (WikiTree lore) | ~34 | Alleged death of Samuel. Pass **72** free will/probate indexes still **nil**; FS/KDLA/KHS film **unread** (**C424**) | Lee Co.? | C012 C417–C424 | S030 S355–S363 | unproved; required before 1910 by Pearl’s boarding |
 | **29 Aug 1903** | — | FAN: S. P. Farmer × **Martha Mays**, 17, at **her mother’s, Eliza Brandenburg’s** | Lee Co., KY | C165 C161 | S145 |
 | 15 Jul 1903 | — | FAN: Burtie Brandenburg born, d/o John Brandenburg & Louisa Pendergrass (Louisa’s m2 by this date) | Lee Co., KY | C143 | S133 |
 | 4 Oct 1897 | — | FAN: Hardin Gray × **Vesta MAYES**, 16, **at Liza Mays**; father b. VA, mother b. Owsley — **PROVEN** fourth Larkin/Louisa child (C192) | Sturgeon / Lee Co., KY | C166 C167 C192 | S144 S164 |
@@ -77,7 +77,7 @@ Place as it was *at the date*; modern equivalent in brackets. Flag impossibiliti
 | 1896–1926 | — | **No Lee Co. license** for Dora Newnam/Newman × Peebles/Stone (Books 5–19); **no Peebles surname** in those books | Lee Co., KY | C084 | S064 |
 | 1916–1930 | — | **No Perry Co. license** for Dora × Peebles/Stone; Peoples present, Peebles absent | Perry Co., AR | C085 | S065 |
 | **1920 × 1925** | 48–54 | **m2 T. A. Stone (PROBABLE = Tom A. Stone)** — **not** a third (Peebles) marriage in the searched licenses | Yell or Perry Co., AR (license unread) | C014 C087 | S003 S104 S064 S065 |
-| 1925 | — | “Stone, Thomas, 1845–1925” at Carter Cove (index) | Yell Co., AR | C051 | S079 prior |
+| 1925 | — | “Stone, Thomas, 1845–1925” at Carter Cove — now **image seen** on the granite (**C413**) | Carter Cemetery **53354**, Yell Co., AR | C051 C413 | S354 S079 |
 | **Jan 1850** | — | FAN: **Minerva NEWNAM** b. (1900 age 50) — mother of Evert / Callie / David F. | VA (own nativity VAVATN) | C349 | S309 |
 | **Jan 1885** | — | FAN: **Callie** dau of Minerva b. — **PROBABLE** later Mrs Robert Spicer | KY | C349 C356 | S309 |
 | **Nov 1886** | — | FAN: **Evert NEWNAM** son of Minerva b. (1900 age 13) — **PROBABLE** Everett of Idamay | KY (Owsley line) | C349 C354 | S309 |
@@ -91,7 +91,7 @@ Place as it was *at the date*; modern equivalent in brackets. Flag impossibiliti
 | **27 Apr 1926** | — | FAN: **Callie Newnam**, 30, d. (extracts: Proctor **and** Idamay / Vincent); parents Sam Moore & Mary Brandenburg. Birth **10 Mar** vs **19 Mar 1896** — conflict **#22**. **PROBABLE** burial Newman Family Cemetery, Vincent (FAG listing, no photo). **PROBABLE** wife of Everett of Idamay. **Not** sister Callie Spicer | Lee / Owsley line, KY | C308 C310 C356 C395 | S287 S337 |
 | **noon 23 Aug 1926** | **55** (if b. Aug 1871) | **Death, apoplexy 1 day, Dr. Thos. W. Beal; informant Coy Newnam, Ola; spouse T. A. Stone; parents Elias Newnam & Mary Smallwood** | Ola, Yell Co., AR (res. written “Mammoth” — Yell/Perry PO **DISPROVED** on GT lists; Nimrod misread still **untested** on image — **C204b C335–C339**) | C015 C204b | S003 S305 |
 | **23 Aug 1926** | — | FAN coincidence: **Sidney Mayse**, 27, d. Idamay the **same calendar day** — **not** a Dora record | Idamay, Lee Co., KY | C320 | S287 |
-| 24 Aug 1926 | — | Burial Carters Chapel | Carter Cove / Carter Cemetery, Lamar Twp, Yell Co., AR (**C206**) | C016 C206 | S003 S078 S219 S220 |
+| 24 Aug 1926 | — | Burial Carters Chapel; slab **image seen** **DORRA / NEWNAM** (no dates) | Carter Cove / Carter Cemetery **53354**, Lamar Twp, Yell Co., AR (**C206 C412**) | C016 C206 C412 C414 | S003 S078 S353 S219 S220 |
 | **Jul 1892** | — | FAN: **Shelby** son of **Richard Newnam** & **Sarah M.** born (1900 age 7) — **not** P002 | Sturgeon precinct, Lee Co., KY | C322 | S295 |
 | **4 Sep 1913** | — | FAN: **Shelby NEWNAM**, 21, × **Gracie BRANDENBURG**, 15, at bride's home; parents Richard Newnam & Sarah Damrell / Major Brandenburg & Emily Howelton | Lee Co., KY | C321 | S294 |
 | **Jan 1920** | — | FAN: Sturgeon hh **65–70** **Shelby NEWMAN** 28 + **Grace** 21 + **Ladona** 3 2/12 + George B. 1 3/12; next door Major Brandenburg | Sturgeon, Lee Co., KY | C323 | S296 |

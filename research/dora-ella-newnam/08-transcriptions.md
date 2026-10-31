@@ -502,5 +502,43 @@ Header readings (diplomatic):
 
 Pass 2: ED **43** starts at p.**256**, not p.254 (p.254 is Loretto Academy boarders, ED 42 tail). Name-column samples listed in **S256** have **no Stone**. Full ED **42–43** A+B later swept (**C264**).
 
+## DOC022 — Carter Cemetery slab, memorial 97907837 (Dora / Dorra Newnam)
+- Image: `sources/cemetery/fag-dora-newnam-97907837-stone-2014-full-2026-10-31.jpg` · SHA-256 `03ad858b468414808fb538dfd22406604bdabeecc3036b16dde65b2d914a1325` (2097×1325)
+- Crop used for letters: `sources/cemetery/fag-dora-newnam-97907837-inscription-crop-2026-10-31.jpg` · SHA-256 `d2370a5d553e5adff3bbe2ec6ed52d09544b5f3d5e987e71ef05816fc759552f`
+- Provenance: Find a Grave photo `photos/2014/279/97907837_1412682277.jpg`, captured 31 Oct 2026. EXIF Canon PowerShot S5 IS, 2014-10-07 06:44:28, Picasa. Photographer unnamed on the listing (memorial page 403).
+- Document type: homemade concrete grave marker, letters scratched; English capitals; one hand.
+- Image quality: **sufficient** for every letter. Full marker in frame; crop is the inscription only.
+- Enhancements: crop only, on a copy. Untouched full JPEG retained.
+
+### Diplomatic transcription (Pass 1 + Pass 2 from the crop)
+> DORRA  
+> NEWNAM
+
+Pass 2 notes: line 1 is five letters; the third and fourth are the same R form (not DORA plus a stray). Line 2 fourth letter is N (two stems + diagonal), not M; last letter is M. No dates, no emblem, no other text.
+
+### Normalised layer
+Dora Newnam — DORRA treated as a **PROBABLE** carver doubling of Dora; NEWNAM is the family spelling (not Newman).
+
+Claims: **C412 C414 C415** · conflict **#24** · **S353**
+
+---
+
+## DOC023 — Carter Cemetery granite, memorial 97907931 (Thomas Stone)
+- Image: `sources/cemetery/fag-thomas-stone-97907931-stone-2014-full-2026-10-31.jpg` · SHA-256 `1d428c0f5f858f2913335e42f793a01da8a0bd44605c287f9e675eb86a1124c9` (3264×2448)
+- Crop: `sources/cemetery/fag-thomas-stone-97907931-inscription-crop-2026-10-31.jpg` · SHA-256 `f11e29295f538a0358b994fc5bc4c1a1de61de50e44619b9e4174dab1f978105`
+- Provenance: Find a Grave photo `photos/2014/278/97907931_1412626902.jpg`, captured 31 Oct 2026. EXIF Canon PowerShot S5 IS, 2014-10-06 15:21:08, Picasa.
+- Document type: commercial granite marker, machine-cut sans-serif; English capitals.
+- Image quality: **sufficient**. Artificial pink lilies on the sod are later decoration, not part of the inscription.
+
+### Diplomatic transcription (Pass 1 + Pass 2)
+> THOMAS STONE  
+> 1845 — 1925
+
+Pass 2: digits 1-8-4-5 and 1-9-2-5 confirmed. Em-dash between the years.
+
+Claims: **C413** · conflict **#4** · **S354**
+
+---
+
 ## DOC009 — 1910 TN Soundex N-550 McCoy window (nil)
 Handwritten family/individual cards n2461–n2469. Sequence after Mary C (n2460): Mary D 49 Jefferson (son Layton 11); Mary M 70 Hamilton; Mek. G 50 Cheatham (Florence 19, John 17, General 16, Frances 13, William 10, Doria 6, Luther 1½); Melvin 3½ Giles (gs of Deacon George W); Melvin 54 Giles (SIL of same); Minerva 80 Robertson (gds Lona Neely, Nellie Erwin); Minnie 21 Roane (with Sam P. Sparks); Mitchell 27 Hardin (Ollie P 25, Gladys 4, Burl W 3, Royal E 1 9/12). **No McCoy.** SHA-256 n2463 `23610f8aa4c159b1b554ed1786d11f57d2f56f8a2e8994f7289ae7bd02dfca53`; n2469 `340489566090880388fa6b81ca5751c5944dcaf56a7b44f70fe560788f308586`.
