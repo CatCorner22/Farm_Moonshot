@@ -1,0 +1,60 @@
+Pass 94 coverage — 31 Oct 2026 (America/New_York)
+This run bc-01a18bb4-e162-785c-9724-86a7c5663bf1
+Catalog list-cloud-agents includeArchived limit 200 → 173 / hasMore false / totalMatched 173.
+Was 157. NEW vs 157 (16; no IDs imported):
+  Dora FAN acronym meaning IDLE
+  Visual-read 95-7 and 95-8 IDLE
+  Read TN Pass 95 sheets IDLE
+  Read KY Pass 95 sheets IDLE
+  Read IL Pass 95 sheets IDLE
+  Read AR Pass 95 sheets IDLE
+  Read MO Pass 95 sheets IDLE
+  Read IN Pass 95 sheets RUNNING
+  Word doc, archive, stop plan IDLE
+  Hunt Dora 1910/1920 lines RUNNING
+  Wrap-up review and leads IDLE
+  Project status review WAITING_FOR_BACKGROUND_WORK
+  Visual-read 95-2 remaining A IDLE
+  Visual-read 95-2 remaining B IDLE
+  Visual-read 95-4 and 95-5 IDLE
+  Visual-read 95-3 remaining IDLE
+Status-only: Continue Dora genealogy still RUNNING
+(https://cursor.com/agents/bc-7eb25736-d3e3-510a-83d6-9535752f0297).
+Read IL Pass 94 sheets now IDLE (was RUNNING). TN/AR/KY Pass 94 IDLE.
+Dora location search now RUNNING (was WAITING_FOR_BACKGROUND_WORK; PR #31).
+Dora 1840 Clark B059 still RUNNING. Nested reviewer not respawned.
+Sibling PR #33 C281 not imported. Skip C221–C280 / L245–L342 / S259–S266.
+Do not mint C274–C280. Do not promote C509. Do not hunt D-540. Do not close B063.
+Nested visual-read helpers process-folded only; this run independently two-passed
+the remaining 1930 Owsley name columns.
+
+Work this pass:
+- Remaining 1930 T626-773 Owsley name columns every-line visual two-pass
+  (OCR of 128 remaining leaves: 0 hunt hits; OCR is hunt aid only / Hard Rule 6).
+  Closed: 95-2 remainder after 1 B / 4 B / 11 B–12 B; 95-3 remainder after
+  7 A / 7 B / 12 B; entire 95-4; entire 95-5; entire 95-7; entire 95-8.
+  95-1 Town already closed Pass 93. 95-6 Buffalo already closed Pass 91.
+  Unused B: 561 (Williams blank), 669 (95-7), 681 (95-8).
+  Leaves 682–684 are Robertson Co. ED 101-1 (not Owsley).
+- 95-2 Barrett heads all DISPROVED as John ~85 / Susan ~78 (Clay 40 × Ollie 39;
+  Andy 26; Alex 32; Carl 33; George 34 × Jennie; Richard 63 × Francis;
+  Willie 36; Sam 27; Harrison 27; Bent 37 × Mary; Henry 37 × Nannie;
+  James 50 × Martha). Polly grandfather 83 Wd in Spence house: closest age,
+  given name Polly ≠ John, not a head, no Susan. George 34 not merged with
+  George 37 × Rosie 37. James 50 × Martha not merged with Buffalo James 45 × Ollie.
+  Three Barrett males age 37 in 95-2 kept unmerged (Bent / Henry / cluster George).
+- 95-3 remaining NIL Barrett head. First-pass Barrett on 570 ln50 withdrawn:
+  Conrad, Hiram 69 S (Hard Rule 6; same-hand Conrad, Lizzie on 573).
+- 95-4 one Barrett head: William 42 × Daisy DISPROVED as John 85 and as 1939
+  William 79. 95-5 NIL Barrett (parent verified samples 612 / 620).
+- 95-7 NIL Barrett. 95-8 Emery 58 × Emily 60 / Oliphant 22 × Nannie DISPROVED.
+- Josephine: Morgan KY Connie Spurlock 1900–1903 and 1903–1906 OPENED.
+  Josephine/Josie hits are other brides or witnesses. Gilbert/Newman/Newnam nil.
+  License unseen. Courthouse fires 1862 and 1925 noted; these compiled pages
+  still cover 1900–1906.
+- T288: NARA roll list OPENED. Roll 347 Nesbitt, Wm. E.–Newman, Lazarus;
+  roll 348 Newman, Leon–Nichols, Wilber (Newnam sorts after Newman).
+  IA still garbage / not NARA T288. NARA catalog API is SPA HTML, not images.
+  T288 unseen. Do not invent contents. Do not promote C509.
+
+B061 / B063 remain open. Next unused after this pass: C1024+ / L895+ / S708+ / DOC210+.

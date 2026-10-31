@@ -1,0 +1,45 @@
+Pass 94 — Josephine Newnam × Gilbert ~1902 remaining substitutes + T288
+Opened 31 Oct 2026. HTML-seen / access-fail, not a ~1902 civil register.
+License unseen. Original 1916 DC face unseen. T288 unseen.
+
+Morgan County KY (Connie Spurlock compiled marriages; KYGenWeb / rootsweb mirror):
+- Landing mcmarriages.html OPENED (WebFetch). Courthouse records lost 1862 and 1925
+  (county page). Compiled 1900–1906 pages still exist.
+- marriages1900-1903p4.html OPENED (kygenweb.net and sites.rootsweb.com mirrors):
+  Josephine Lewis WITNESS (not a bride).
+  23 Oct 1900 Henry C. Johnston × Josephine Spradlin at G. W. Spradlin’s. Other
+  (maiden Spradlin ≠ Newnam).
+  Josie Allington WITNESS (not a bride).
+  Gilbert token count 0. Newman/Newnam/Newsom token count 0.
+  Nil Josephine Newnam × Gilbert.
+- marriages1903-1906p5.html OPENED:
+  29 Sep 1904 Willis Whiteley × Josephine Holliday — other (Holliday).
+  12 Aug 1905 Geo. Mays × Josephine Vest — other (Vest).
+  15 Aug 1904 R.E. Murphy × Josie Patrick — other (Patrick).
+  1 Jan 1905 Dane Caskey × Josie Buskak/Buskat — other.
+  Josie Elam WITNESS.
+  Gilbert 0. Newman/Newnam 0.
+  n/a as a 1902 Newnam license (years 1903–1906). Other Josies DISPROVED.
+
+Johnson County 1902 year file already opened Pass 83 (nil). Landing re-seen;
+year file not re-claimed as a new nil this pass.
+Leslie 1900–01 / 1903–04 already Pass 79 (1902 gap). 1900-1901.html 404 this pass.
+kyfootsteps surname directories 406 Not Acceptable (User-Agent). Powell
+Misc.Records.Powell.MARR.txt already Pass 79/84.
+
+IA T288:
+- title "General Index to Pension Files" numFound 0 (repeat).
+- T0288 / "T-288" / "publication T288": numFound 13, all garbage (Popcornarchive,
+  CIA reading-room, NASA, etc.). Not NARA T288.
+- (pension index) AND (newman OR newnam): 23 hits, including already-used
+  veteransadminist1660unit / 1661unit (M850, not T288).
+NARA roll list OPENED (archives.gov/research/military/pension-genealogy/1861-1934.html):
+  Roll 347 Nesbitt, Wm. E.--Newman, Lazarus
+  Roll 348 Newman, Leon--Nichols, Wilber
+  Newnam sorts after the entire Newman block (4th letter n after m), so a Newnam
+  card if present would fall on roll 348. Card images not seen.
+NARA catalog.archives.gov API returns SPA HTML (not JSON / not microfilm).
+Digitized-microfilm PDF lists T288 as Fully digitized in the Catalog — images
+not retrieved this pass (SPA). Fold3/Ancestry paywalled. FS collection 1919699
+was 403 in prior passes; not re-opened as images.
+T288 unseen. Do not invent contents. Do not promote C509. License still unseen.

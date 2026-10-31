@@ -1,0 +1,101 @@
+Pass 94 — 1930 T626-773 remaining-Owsley every-line Barrett John/Susan
+IA item kentuckycensus00reel773. Images seen 31 Oct 2026. Working JP2s not retained.
+Name-column working files from Pass 92 (/tmp/pass92/names). OCR of 128 remaining
+leaves: 0 Barrett/Susan/John hits (tesseract failed on these crops). Visual
+two-pass is the source (Hard Rule 6).
+
+Already closed before this pass (not re-filed as new):
+- 95-1 Town 528–533 (Pass 93)
+- 95-2 sh 1 B leaf 535; sh 4 B leaf 541 Walker 38; sh 11 B–12 B leaves 555–557
+- 95-3 sh 7 A/7 B/12 B leaves 582, 583, 591
+- 95-4 sh 8 B leaf 607 Byrdah/Ollie (re-seen NIL Barrett head)
+- 95-6 Buffalo 636–648 (Pass 91)
+- 95-8 opener names on 670 cited Pass 92 (every-lined this pass)
+
+95-2 Booneville Mag Dist 1 remainder (Charles C. Seale unless noted):
+
+Leaf 534 sh 1 A, enum. Charles C. Seale, 8 Apr 1930 (header two-passed).
+  dw 1/1 Barrett, Clay Head 40 m × Ollie Wife 39 + Clifton Son 19 + Kera Dau 16
+  + May Belle Dau 12 + Laura Dau 9 + Jack Son 6 + Elmer Son (fractional age).
+  DISPROVED as John ~85 (age 40; Ollie ≠ Susan). Not merged with Buffalo
+  James 45 × Ollie 34 (Clay ≠ James; 40/39 ≠ 45/34; children Clifton/Kera/
+  May Belle/Laura/Jack/Elmer ≠ Minnie/Pearl/Virgie/Martha/Horton).
+  Gerritt, W.B. × Manerva is Gerritt, not Barrett.
+
+Leaves 536–540, 542–554 (skip 541):
+  538 sh 3 A 15 Apr: dw 48/48 Barrett, Andy 26 × Lizzie 25 + son Irvin[?] ~2.
+    dw 55/55 Barrett, Alex Head 32 (continues 539: Edna Wife 25 + Gertrude 6
+    + Lola 1 4/12).
+  539: Barrett, Mary Lodger 40 Wd in Moon, Margaret 74 house (not a head).
+  545 sh 6 B 18 Apr: dw 126/126 Barrett, Carl 33 × Nannie 31 + Maxine 7 +
+    Dorothy + Bishop, Lucy Mother 68 Wd.
+  551 sh 9 B 23 Apr: dw 189/189 Barrett, George 34 × Jennie 33 + Virgil 13 +
+    Bailey 10 + Fanny M. 8. NOT merged with cluster George 37 × Rosie 37
+    (Jennie ≠ Rosie; Virgil/Bailey/Fanny ≠ Luther/Birdie/Ada/…).
+  552 sh 10 A 23 Apr: dw 198/198 Barrett, Richard 63 × Francis 60.
+    dw 199/199 Barrett, Willie 36 × Ettie B. 34 + Flossie 17 + Luna 14 +
+    Effie 12 + Dorothy 10 + Conley 8 + Nora E. 7 + Herald 5 + Margaret 2 3/12.
+    Adjacent dwellings; Hard Rule 3 keeps them separate.
+  553 sh 10 B: in Spence, Harlan 24 × Hazel 19 house,
+    Barrett, Polly Grandfather 83 Wd. Closest Barrett age to John ~85.
+    Given name Polly ≠ John; relation Grandfather not Head; Wd; no Susan.
+    Not merged with John.
+  554 sh 11 A: dw 221/221 Barrett, Sam 27 × Fanny 24 + Thelma 7 + Ray 4 7/12
+    + Dorothy 2 3/12 + Robert 4/12.
+    Baker, James Head 85 is Baker, not Barrett.
+
+Leaves 558–569 (second/third enumerators of 95-2):
+  558 sh 13 A 25 Apr, enum. Charles P. Cole (header two-passed).
+    dw 252/252 Moore, Clay 66 × Ollie 65 + Barrett, Sam adpt.son 5.
+    dw 253/153 Barrett, Harrison 27 × Mattie 27 (fam no. 153 as written).
+  559 sh 13 B Cole: NIL Barrett head. Bowman, Jack 75 × Susan 75 — BOWMAN.
+    "Here ends the enumeration" (Cole).
+  560 sh 14 A 2 Apr, enum. Mrs. Georgia Williams. NIL Barrett. 561 unused blank B.
+  563 Williams 2 B: dw 23/23 Barrett, Bent 37 × Mary 35 + Maude 13 + Stanley 11
+    + Josie 9 + Henry 7 + Willard 5 + Virginia 2 6/12 + Childers, Martha lodger 73.
+    NOT merged with cluster George 37 or Henry 37.
+  564: Barrett, Ollie Mother-in-law 25 S in Moore, Grace 26 house
+    (age/relation internally implausible; diplomatic stands).
+    Winn, William 79 × Susan 79 — WINN, not Barrett.
+  565 South Bowman: dw 44/44 Barrett, Henry 37 × Nannie 33 + Jessie 15 + Oma 14
+    + Vernon 12 + Edward 10 + Thomas 8 + Stanley 6 + Fred 4 4/12 +
+    Lawrence 2 4/12 + Pearl Son 11/12. NOT merged with Bent 37.
+    Bowman, John 76 × Sallie 59 — BOWMAN.
+  566: dw 59/59 Barrett, James 50 × Martha 50 + Albert 12.
+    NOT merged with Buffalo James 45 × Ollie 34 (Martha ≠ Ollie; 50 ≠ 45;
+    Albert 12 ≠ those children).
+  567–569: NIL Barrett head. 569 "Here ends the enumeration" (Williams).
+    Ln 66 head inked out — not invented as Barrett.
+
+95-3 Sturgeon #2 remainder (Blaine Wilson):
+  Leaves 570–581, 584–590 every-line NIL Barrett head / NIL Barrett person.
+  570 ln50 first-pass Barrett withdrawn: Conrad, Hiram 69 S (open-loop C;
+    571 Maggie sister 56 continues; 573 Conrad, Lizzie Head-H 46 Wd same hand).
+  Burch, John uncle 80 Wd (580) — BURCH. Peters, Susan Wife 91 (581) — PETERS.
+
+95-4 Island Creek Mag Dist 3 leaves 592–611 every-line:
+  One Barrett head: 602 sh 6 A dw 99/99 Barrett, William 42 m × Daisy 38 +
+  Nellie 14 + Blaine 12 + William Jr 9 + Myrtle 7 + Mabel 4 5/12[?].
+  DISPROVED as John ~85 and as 1939 William 79 (~70 in 1930).
+  607 re-seen: Byrdah/Ollie Sizemore daughters; NIL Barrett head.
+
+95-5 Cow Creek Mag Dist 4 leaves 612–635 every-line NIL Barrett/Barret/Barett.
+  Parent two-pass samples: 612 (Gibson/Reynolds/Wilson John 33 × Rosie —
+  John 33 ≠ ~85; Baker Millard F ≠ Barrett) and 620 (Moore W.G. 77 × Mary 70
+  — Moore; Baker Andy 76 × Elizabeth 71 — Baker ≠ Barrett).
+
+95-7 Buck Creek Mag Dist 6 leaves 650–668 every-line NIL Barrett head.
+  669 unused B blank. Hallett, Susan MIL 75 in Jackson, Smith hh — HALLETT.
+
+95-8 Wild Dog Mag Dist 7 leaves 670–680 every-line:
+  678 sh 5 A 21 Apr, Shirley Mainous:
+    dw 95/95 Barrett, Emery 58 × Emily 60 + Walter Son 20 S.
+    dw 96/96 Barrett, Oliphant 22 × Nannie 21 + Harold 3 8/12 + Mabel 1 8/12.
+    Both DISPROVED as John ~85 × Susan ~78.
+  681 unused B blank.
+  682 Robertson divider. 683–684 Robertson ED 101-1 Mt. Olivet (not Owsley).
+
+County-wide 1930 original: NIL Barrett John ~85 / Susan ~78 as a couple or
+as heads in any Owsley ED on this reel. John-not-in-James-house remains
+POSSIBLE death 1910–1920 only (KYDI 1911–1940 nil is negative, not proof).
+Do not close B063.

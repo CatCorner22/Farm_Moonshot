@@ -2603,3 +2603,92 @@ research/dora-ella-newnam/sources/census/1880-lee-ky-ed59-sheet43-p768-caroline-
   sha256: 4ab9e49f7a2587c06c233a39815bfe19553f1ebd9eaff6a47e49817d1d60a403
   format: JPEG photo, 64,911 bytes
   check: 1930 original ED 95-8 sh 1 A header Wild Dog Shirley Mainous 3 Apr 1930
+
+/workspace/research/dora-ella-newnam/sources/indexes/pass94-coverage.txt
+  sha256: 7560fd3dd3acf333fbb12e367804dbd7ad4f8fb13ab5e7baafa75a299a3abc89
+  format: text extract, 3,470 bytes
+  check: Pass 94 coverage; catalog 173 was 157; remaining 1930 Owsley every-line closed
+/workspace/research/dora-ella-newnam/sources/indexes/owsley-1930-remaining-everyline-pass94.txt
+  sha256: b2b35021028029cb1092f641dee73acbf15db284c0095af76ea8b65a78ef59a0
+  format: text extract, 5,813 bytes
+  check: remaining 1930 Owsley every-line; county-wide NIL Barrett John 85 / Susan 78 as heads
+/workspace/research/dora-ella-newnam/sources/indexes/josephine-gilbert-pass94.txt
+  sha256: c0230cf89d7cbd169491d1ec4e9905488444a4be2d9c932b866bfa922e0dd546
+  format: text extract, 2,578 bytes
+  check: Morgan Spurlock 1900-1906 Josephine other/nil; T288 rolls 347/348 identified unseen
+/workspace/research/dora-ella-newnam/sources/census/1930-owsley-ed952-sh1a-hdr.jpg
+  sha256: 82f0816c2c62731473df4ba48e2500c593abffa0aaa102fe278e943edc37f1ea
+  format: JPEG photo, 54,855 bytes
+  check: 1930 original ED 95-2 sh 1 A header Charles C. Seale 8 Apr 1930
+/workspace/research/dora-ella-newnam/sources/census/1930-owsley-ed952-sh1a-hh1-barrett-clay.jpg
+  sha256: 0410d74a36dc630e5cfae8f50c42d80e19775e623889751855758c01ee2ccef6
+  format: JPEG photo, 80,339 bytes
+  check: 1930 original ED 95-2 sh 1 A dw 1 Barrett Clay 40 x Ollie DISPROVED as John 85
+/workspace/research/dora-ella-newnam/sources/census/1930-owsley-ed952-sh3a-hh48-barrett-andy.jpg
+  sha256: 503579f93d55296b0db7afd079103ff8170464cb4fccee8304896c0be982cf15
+  format: JPEG photo, 66,017 bytes
+  check: 1930 original ED 95-2 sh 3 A dw 48 Barrett Andy 26 x Lizzie DISPROVED as John 85
+/workspace/research/dora-ella-newnam/sources/census/1930-owsley-ed952-sh3a-ln50-barrett-alex.jpg
+  sha256: 0cdece3bcd52005abbe97071ab560e8ffa288b95820a2e2a768a6ad6f919f9b3
+  format: JPEG photo, 39,540 bytes
+  check: 1930 original ED 95-2 sh 3 A ln 50 Barrett Alex 32 DISPROVED as John 85
+/workspace/research/dora-ella-newnam/sources/census/1930-owsley-ed952-sh6b-hh126-barrett-carl.jpg
+  sha256: ce3dbdd92bb09576ced72fe29848a73fc8f0798df929e1fae5292a80ca5d5223
+  format: JPEG photo, 63,871 bytes
+  check: 1930 original ED 95-2 sh 6 B dw 126 Barrett Carl 33 x Nannie DISPROVED as John 85
+/workspace/research/dora-ella-newnam/sources/census/1930-owsley-ed952-sh9b-hh189-barrett-george.jpg
+  sha256: ff3fda0bda4e1a1b3d31a04a4a3fe1e67020d97628391a158aee601e5914a150
+  format: JPEG photo, 64,906 bytes
+  check: 1930 original ED 95-2 sh 9 B dw 189 Barrett George 34 x Jennie not merged with George 37
+/workspace/research/dora-ella-newnam/sources/census/1930-owsley-ed952-sh10a-hh198-barrett-richard.jpg
+  sha256: 40cc08b29e67ef46bda3a9e94f47be014f0b674212c23f77c3d94e2b1b843c08
+  format: JPEG photo, 30,213 bytes
+  check: 1930 original ED 95-2 sh 10 A dw 198 Barrett Richard 63 x Francis DISPROVED as John 85
+/workspace/research/dora-ella-newnam/sources/census/1930-owsley-ed952-sh10a-hh198-199-barrett-richard-willie.jpg
+  sha256: fad71855350884e1cc695c42b1f8fe87a3444ea05b9e7498baea803e95a1a29f
+  format: JPEG photo, 116,285 bytes
+  check: 1930 original ED 95-2 sh 10 A dw 198-199 Richard 63 / Willie 36 unmerged
+/workspace/research/dora-ella-newnam/sources/census/1930-owsley-ed952-sh10b-ln69-barrett-polly.jpg
+  sha256: 44f6843859c4a5e6fcc1300cfea37ccaaadb724f3cb48bbd05b9b5e37a954419
+  format: JPEG photo, 54,072 bytes
+  check: 1930 original ED 95-2 sh 10 B Barrett Polly grandfather 83 Wd not John
+/workspace/research/dora-ella-newnam/sources/census/1930-owsley-ed952-sh11a-hh221-barrett-sam.jpg
+  sha256: 5ac906e7d58c3f1d171b2984b31e58054e50c424d2376ce764382cf5a90ebfbf
+  format: JPEG photo, 64,124 bytes
+  check: 1930 original ED 95-2 sh 11 A dw 221 Barrett Sam 27 x Fanny DISPROVED as John 85
+/workspace/research/dora-ella-newnam/sources/census/1930-owsley-ed952-sh13a-hdr.jpg
+  sha256: dfb5aefbe7a104d274dfe556799c5cc69b6de3b26634debbecbd6a3cc43c12f5
+  format: JPEG photo, 50,194 bytes
+  check: 1930 original ED 95-2 sh 13 A header Charles P. Cole 25 Apr 1930
+/workspace/research/dora-ella-newnam/sources/census/1930-owsley-ed952-sh13a-hh252-253-moore-harrison.jpg
+  sha256: 64bc2a6a0df6f7905db42f31579849a6d953df8baf538d51fd69b3ce82b01d46
+  format: JPEG photo, 178,095 bytes
+  check: 1930 original ED 95-2 sh 13 A dw 252-253 Moore Clay / Barrett Harrison 27
+/workspace/research/dora-ella-newnam/sources/census/1930-owsley-ed952-sh2b-hh23-barrett-bent.jpg
+  sha256: eade4f71aa217b5e4cd1826c0b2b8691673dafe913ad9a36723e8bd82f2a5e22
+  format: JPEG photo, 117,116 bytes
+  check: 1930 original ED 95-2 Williams dw 23 Barrett Bent 37 x Mary not merged with Henry 37
+/workspace/research/dora-ella-newnam/sources/census/1930-owsley-ed952-hh44-barrett-henry.jpg
+  sha256: 9d22706ead259af89c513053f8547963cc54414b0c4a96788a43f4082691fc7d
+  format: JPEG photo, 152,464 bytes
+  check: 1930 original ED 95-2 dw 44 Barrett Henry 37 x Nannie not merged with Bent 37
+/workspace/research/dora-ella-newnam/sources/census/1930-owsley-ed952-hh59-barrett-james.jpg
+  sha256: abee829ed5921a2c13cee66ee92ec24b28253be06f21c2a7727a1ab16a8f8105
+  format: JPEG photo, 339,319 bytes
+  check: 1930 original ED 95-2 dw 59 Barrett James 50 x Martha not merged with Buffalo James 45
+/workspace/research/dora-ella-newnam/sources/census/1930-owsley-ed954-sh6a-hdr.jpg
+  sha256: 727a0ea60a2d9609251c269f547198dd71eb0ba3fb7aa04437997614cb7bd7d3
+  format: JPEG photo, 52,412 bytes
+  check: 1930 original ED 95-4 sh 6 A header Joseph T. Minger April 1930
+/workspace/research/dora-ella-newnam/sources/census/1930-owsley-ed954-sh6a-hh99-barrett-william.jpg
+  sha256: a9fbb2cdcb4f5c6cec958af577875bd4c202b7417720b98483af9cd2da01f16b
+  format: JPEG photo, 231,539 bytes
+  check: 1930 original ED 95-4 sh 6 A dw 99 Barrett William 42 x Daisy DISPROVED as John 85
+/workspace/research/dora-ella-newnam/sources/census/1930-owsley-ed958-sh5a-hdr.jpg
+  sha256: d402d748025162b60e0d7fb7b851fd12284ed2c7fd3659bc42184089900a3805
+  format: JPEG photo, 51,724 bytes
+  check: 1930 original ED 95-8 sh 5 A header Shirley Mainous 21 Apr 1930
+/workspace/research/dora-ella-newnam/sources/census/1930-owsley-ed958-sh5a-hh95-96-barrett-emery-oliphant.jpg
+  sha256: 5ea5612f48702f6b894608aefdb863a0921f4169d9947f9a66e650cd58c12327
+  format: JPEG photo, 220,896 bytes
+  check: 1930 original ED 95-8 sh 5 A dw 95-96 Barrett Emery 58 / Oliphant 22 DISPROVED as John 85

@@ -4912,3 +4912,120 @@ Pass 2: Decedent is William, not John. Age 79 in 1939 is ~70 in 1930, not ~85. W
 ### Facts extracted → claim IDs
 - William Barrett 79 DISPROVED as 1910 John 65; Walker POSSIBLE FAN only → C1007
 - B063 remaining gap → C1008
+
+## DOC205 — Catalog + Pass 94 coverage
+
+- Extract: `pass94-coverage.txt` SHA-256 `7560fd3dd3acf333fbb12e367804dbd7ad4f8fb13ab5e7baafa75a299a3abc89`
+- Provenance: Cursor `list-cloud-agents` includeArchived limit 200, 31 Oct 2026. This run `bc-01a18bb4-e162-785c-9724-86a7c5663bf1`.
+
+### Diplomatic — catalog
+
+> **173** / `hasMore: false` / `totalMatched: 173`. Was **157**. NEW vs 157 (16; **no IDs imported**): Dora FAN acronym meaning IDLE; visual-read 95-2 A/B / 95-3 / 95-4–5 / 95-7–8 IDLE; Pass 95 TN/KY/IL/AR/MO IDLE; Read IN Pass 95 RUNNING; Hunt Dora 1910/1920 lines RUNNING; Project status review **WAITING_FOR_BACKGROUND_WORK**. Status-only: Continue Dora genealogy still RUNNING; Read IL Pass 94 now IDLE; Dora location search now RUNNING. Nested reviewer **not** respawned. Sibling C281 **not imported**.
+
+Pass 2: Process count only. **No** new independently image-backed P001 1900–1926 residence. Skip **C221–C280**. Do **not** promote C509.
+
+### Facts extracted → claim IDs
+- catalog 173 was 157; NEW 16 not imported → C1010
+- B063 remaining gap → C1022
+- B061 remaining gap → C1023
+
+## DOC206 — 1930 ED 95-2 Seale remainder (Pass 94)
+
+- Extract: `owsley-1930-remaining-everyline-pass94.txt` SHA-256 `b2b35021028029cb1092f641dee73acbf15db284c0095af76ea8b65a78ef59a0`
+- JPEGs: `1930-owsley-ed952-sh1a-hdr.jpg` `82f0816c2c62731473df4ba48e2500c593abffa0aaa102fe278e943edc37f1ea`; `…sh1a-hh1-barrett-clay.jpg` `0410d74a36dc630e5cfae8f50c42d80e19775e623889751855758c01ee2ccef6`; `…sh3a-hh48-barrett-andy.jpg` `503579f93d55296b0db7afd079103ff8170464cb4fccee8304896c0be982cf15`; `…sh3a-ln50-barrett-alex.jpg` `0cdece3bcd52005abbe97071ab560e8ffa288b95820a2e2a768a6ad6f919f9b3`; `…sh6b-hh126-barrett-carl.jpg` `ce3dbdd92bb09576ced72fe29848a73fc8f0798df929e1fae5292a80ca5d5223`; `…sh9b-hh189-barrett-george.jpg` `ff3fda0bda4e1a1b3d31a04a4a3fe1e67020d97628391a158aee601e5914a150`; `…sh10a-hh198-barrett-richard.jpg` `40cc08b29e67ef46bda3a9e94f47be014f0b674212c23f77c3d94e2b1b843c08`; `…sh10a-hh198-199-barrett-richard-willie.jpg` `fad71855350884e1cc695c42b1f8fe87a3444ea05b9e7498baea803e95a1a29f`; `…sh10b-ln69-barrett-polly.jpg` `44f6843859c4a5e6fcc1300cfea37ccaaadb724f3cb48bbd05b9b5e37a954419`; `…sh11a-hh221-barrett-sam.jpg` `5ac906e7d58c3f1d171b2984b31e58054e50c424d2376ce764382cf5a90ebfbf`
+- Provenance: NARA T626 reel **773**; IA `kentuckycensus00reel773`. **Images seen** 31 Oct 2026. Enumerator **Charles C. Seale**.
+
+### Diplomatic — cited originals
+
+> Leaf **534**, ED **95-2**, Sheet **1 A**, enum. **Charles C. Seale**, **8 Apr 1930**. Dw **1/1 Barrett, Clay** Head **40** m. **Ollie** Wife **39** m. **Clifton** Son **19**. **Kera** Dau **16**. **May Belle** Dau **12**. **Laura** Dau **9**. **Jack** Son **6**. **Elmer** Son (fractional). Tight-crop two-pass of the daughter aged 9 = **Laura**, not Thelma.
+
+> Leaf **538**, ED **95-2**, Sheet **3 A**, **15 Apr 1930**. Dw **48/48 Barrett, Andy** **26** × Lizzie **25** + son Irvin[?] ~2. Dw **55/55 Barrett, Alex** Head **32** (continues **539**: Edna Wife **25** + Gertrude **6** + Lola **1 4/12**).
+
+> Leaf **545**, ED **95-2**, Sheet **6 B**, **18 Apr 1930**. Dw **126/126 Barrett, Carl** **33** × Nannie **31** + Maxine **7** + Dorothy + Bishop, Lucy Mother **68** Wd.
+
+> Leaf **551**, ED **95-2**, Sheet **9 B**, **23 Apr 1930**. Dw **189/189 Barrett, George** **34** × **Jennie** **33** + Virgil **13** + Bailey **10** + Fanny M. **8**.
+
+> Leaf **552**, ED **95-2**, Sheet **10 A**, **23 Apr 1930**. Dw **198/198 Barrett, Richard** **63** × Francis **60**. Dw **199/199 Barrett, Willie** **36** × Ettie B. **34** + Flossie **17** + Luna **14** + Effie **12** + Dorothy **10** + Conley **8** + Nora E. **7** + Herald **5** + Margaret **2 3/12**.
+
+> Leaf **553**, ED **95-2**, Sheet **10 B**. In Spence, Harlan **24** × Hazel **19** house: **Barrett, Polly** Grandfather **83** Wd.
+
+> Leaf **554**, ED **95-2**, Sheet **11 A**. Dw **221/221 Barrett, Sam** **27** × Fanny **24** + Thelma **7** + Ray **4 7/12** + Dorothy **2 3/12** + Robert **4/12**. Baker, James Head **85** is Baker.
+
+Pass 2: George **34** × Jennie is not George **37** × Rosie. Polly ≠ John. Remaining **95-2** Cole/Williams sheets are DOC207. Do not close B063.
+
+### Facts extracted → claim IDs
+- remaining 1930 every-line closeout (partial) → C1011
+- Clay 40 × Ollie DISPROVED; Laura 9 → C1012
+- Andy 26 / Alex 32 DISPROVED → C1013
+- Carl / George 34 / Richard / Willie / Sam DISPROVED → C1014
+- Polly grandfather 83 not merged → C1015
+
+## DOC207 — 1930 ED 95-2 Cole / Williams remainder (Pass 94)
+
+- Extract: same `owsley-1930-remaining-everyline-pass94.txt` SHA-256 `b2b35021028029cb1092f641dee73acbf15db284c0095af76ea8b65a78ef59a0`
+- JPEGs: `1930-owsley-ed952-sh13a-hdr.jpg` `dfb5aefbe7a104d274dfe556799c5cc69b6de3b26634debbecbd6a3cc43c12f5`; `…sh13a-hh252-253-moore-harrison.jpg` `64bc2a6a0df6f7905db42f31579849a6d953df8baf538d51fd69b3ce82b01d46`; `…sh2b-hh23-barrett-bent.jpg` `eade4f71aa217b5e4cd1826c0b2b8691673dafe913ad9a36723e8bd82f2a5e22`; `…hh44-barrett-henry.jpg` `9d22706ead259af89c513053f8547963cc54414b0c4a96788a43f4082691fc7d`; `…hh59-barrett-james.jpg` `abee829ed5921a2c13cee66ee92ec24b28253be06f21c2a7727a1ab16a8f8105`
+- Provenance: NARA T626 reel **773**. **Images seen** 31 Oct 2026. Enumerators **Charles P. Cole** (25 Apr) and **Mrs. Georgia Williams** (sh **14 A** dated **2 Apr**).
+
+### Diplomatic — cited originals
+
+> Leaf **558**, ED **95-2**, Sheet **13 A**, **25 Apr 1930**, enum. **Charles P. Cole**. Dw **252/252 Moore, Clay** **66** × Ollie **65** + **Barrett, Sam** adpt.son **5**. Dw **253/153 Barrett, Harrison** **27** × Mattie **27** (fam no. **153** as written). Sh **13 B**: Bowman, Jack **75** × Susan **75** — **BOWMAN**. “Here ends the enumeration” (Cole).
+
+> Williams sheet **2 B**: dw **23/23 Barrett, Bent** **37** × Mary **35** + Maude **13** + Stanley **11** + Josie **9** + Henry **7** + Willard **5** + Virginia **2 6/12** + Childers, Martha lodger **73**.
+
+> South Bowman: dw **44/44 Barrett, Henry** **37** × Nannie **33** + Jessie **15** + Oma **14** + Vernon **12** + Edward **10** + Thomas **8** + Stanley **6** + Fred **4 4/12** + Lawrence **2 4/12** + Pearl Son **11/12**.
+
+> Dw **59/59 Barrett, James** **50** × Martha **50** + Albert **12**. Winn, William **79** × Susan **79** — **WINN**. Barrett, Ollie Mother-in-law **25** S in Moore, Grace **26** house (age/relation internally implausible; diplomatic stands).
+
+Pass 2: Bent **37**, Henry **37**, and cluster George **37** are three unmerged houses. James **50** × Martha is not Buffalo James **45** × Ollie. Do not close B063.
+
+### Facts extracted → claim IDs
+- Harrison / Bent / Henry / James 50 DISPROVED; three age-37 unmerged → C1016
+
+## DOC208 — 1930 ED 95-3 remainder + 95-4 / 95-5 / 95-7 / 95-8 (Pass 94)
+
+- Extract: same `owsley-1930-remaining-everyline-pass94.txt` SHA-256 `b2b35021028029cb1092f641dee73acbf15db284c0095af76ea8b65a78ef59a0`
+- JPEGs: `1930-owsley-ed954-sh6a-hdr.jpg` `727a0ea60a2d9609251c269f547198dd71eb0ba3fb7aa04437997614cb7bd7d3`; `…sh6a-hh99-barrett-william.jpg` `a9fbb2cdcb4f5c6cec958af577875bd4c202b7417720b98483af9cd2da01f16b`; `…ed958-sh5a-hdr.jpg` `d402d748025162b60e0d7fb7b851fd12284ed2c7fd3659bc42184089900a3805`; `…sh5a-hh95-96-barrett-emery-oliphant.jpg` `5ea5612f48702f6b894608aefdb863a0921f4169d9947f9a66e650cd58c12327`
+- Provenance: NARA T626 reel **773**. **Images seen** 31 Oct 2026.
+
+### Diplomatic — cited originals
+
+> ED **95-3** remainder (Blaine Wilson): leaves **570–581, 584–590** every-line **NIL** Barrett head. Leaf **570** ln50 first-pass Barrett **withdrawn**: **Conrad, Hiram** **69** S (open-loop C; **571** Maggie sister **56** continues; **573 Conrad, Lizzie** Head-H **46** Wd same hand). Burch, John uncle **80** Wd — **BURCH**. Peters, Susan Wife **91** — **PETERS**.
+
+> Leaf **602**, ED **95-4**, Sheet **6 A**, enum. **Joseph T. Minger**. Dw **99/99 Barrett, William** **42** m × Daisy **38** + Nellie **14** + Blaine **12** + William Jr **9** + Myrtle **7** + Mabel **4 5/12[?]**.
+
+> ED **95-5** leaves **612–635** every-line **NIL** Barrett. Parent two-pass: **612** Wilson John **33** × Rosie; Baker Millard F ≠ Barrett. **620** Moore W.G. **77** × Mary **70**; Baker Andy **76** × Elizabeth **71** — Baker ≠ Barrett.
+
+> ED **95-7** leaves **650–668** every-line **NIL** Barrett head. **669** unused B. Hallett, Susan MIL **75** — **HALLETT**.
+
+> Leaf **678**, ED **95-8**, Sheet **5 A**, **21 Apr 1930**, enum. **Shirley Mainous**. Dw **95/95 Barrett, Emery** **58** × Emily **60** + Walter Son **20** S. Dw **96/96 Barrett, Oliphant** **22** × Nannie **21** + Harold **3 8/12** + Mabel **1 8/12**. **681** unused B. **682–684** Robertson Co. ED **101-1**.
+
+Pass 2: Entire remaining 1930 Owsley is now every-line image-closed. County-wide **NIL** Barrett John ~85 / Susan ~78 as a couple or heads. Do not close B063.
+
+### Facts extracted → claim IDs
+- remaining 1930 every-line closed; county-wide nil → C1011
+- 95-3 Conrad withdrawn; nil Barrett → C1017
+- 95-4 William 42 DISPROVED; 95-5 nil → C1018
+- 95-7 nil; 95-8 Emery / Oliphant DISPROVED → C1019
+
+## DOC209 — Josephine remaining + T288 roll list (Pass 94)
+
+- Extract: `josephine-gilbert-pass94.txt` SHA-256 `c0230cf89d7cbd169491d1ec4e9905488444a4be2d9c932b866bfa922e0dd546`
+- Coverage: `pass94-coverage.txt` `7560fd3dd3acf333fbb12e367804dbd7ad4f8fb13ab5e7baafa75a299a3abc89`
+- Provenance: KYGenWeb / rootsweb Morgan Spurlock compiled marriages; NARA 1861–1934 pension-genealogy roll list; IA advancedsearch. Opened 31 Oct 2026. **HTML-seen / access-fail**, not a ~1902 civil register. License unseen. Original 1916 DC face unseen. T288 unseen.
+
+### Diplomatic — cited extracts
+
+> Morgan KY Connie Spurlock marriages **1900–1903** p4: Josephine Lewis **WITNESS**. **23 Oct 1900** Henry C. Johnston × Josephine Spradlin at G. W. Spradlin’s. **Other** (maiden Spradlin ≠ Newnam). Josie Allington **WITNESS**. Gilbert token count **0**. Newman/Newnam/Newsom token count **0**.
+
+> **1903–1906** p5: **29 Sep 1904** Willis Whiteley × Josephine Holliday — other. **12 Aug 1905** Geo. Mays × Josephine Vest — other. **15 Aug 1904** R.E. Murphy × Josie Patrick — other. **1 Jan 1905** Dane Caskey × Josie Buskak — other. Josie Elam **WITNESS**. Gilbert **0**. Newman/Newnam **0**.
+
+> NARA roll list (archives.gov/research/military/pension-genealogy/1861-1934.html): Roll **347** Nesbitt, Wm. E.--Newman, Lazarus. Roll **348** Newman, Leon--Nichols, Wilber. Newnam sorts after the entire Newman block. Card images not seen.
+
+> IA T288 title **numFound 0** / garbage (Popcornarchive, CIA, NASA), **not** NARA T288. NARA catalog API is SPA HTML. Fold3/Ancestry paywalled.
+
+Pass 2: License still unseen. Do **not** invent T288 contents. Do **not** promote C509. Do not close B063.
+
+### Facts extracted → claim IDs
+- Morgan 1900–1906 Josephine other/nil → C1020
+- T288 rolls 347/348 identified; images unseen → C1021
+- B061 remaining gap → C1023
