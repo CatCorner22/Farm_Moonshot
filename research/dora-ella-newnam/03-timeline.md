@@ -360,8 +360,18 @@ Place as it was *at the date*; modern equivalent in brackets. Flag impossibiliti
 | 1850 | Estill | FAN **PROVEN** as compiled + original: Newman **only** 85B + 91B. Woods **no Tincher**. County negative for the couple | Estill Co., KY | C1341 | S1014 S1015 |
 | 2 Aug 1850 | Richmond Dist 2 | FAN **PROVEN** as image: Madison stamped **250** A-side **nil** Newman | Madison Co., KY | C1342 | S1011 |
 | 2 Aug 1850 | Richmond Dist 2 | FAN **PROVEN** as image + reject: **67/67 T. T. Newman 34 M.D.** Mississippi + Mary C. **Not** William × Rhoda | Madison Co., KY | C1343 C1344 | S1012 S1013 |
-| 1850 | Clark | FAN **PROVEN** as compiled-index: S-K **NEWKIRK 58B** only. **No Newman**. **TINCHER 91A** original unread | Clark Co., KY | C1345 C1363 | S1017 |
-| 1850 | Breathitt | FAN **PROVEN** as every-name compiled: **nil** Newman/Newnam. **TINCHER 20B** original unread | Breathitt Co., KY | C1346 C1364 | S1018 S1019 |
+| 1850 | Clark | FAN **PROVEN** as compiled-index + original: S-K **NEWKIRK 58B** only. **No Newman**. **TINCHER 91A** now image-seen — William Tincher **63 REJECT** | Clark Co., KY | C1345 C1363 C1376 | S1017 S1033 |
+| **15 Sep 1850** | Clark Dist 1 stamped **91** | FAN **PROVEN** as image + reject: hh **615 William Tincher 63** none + Elizabeth Boyer **31** + W.R.E. **27** + Sarah **22** + Samuel **2** + Catharine **10** + William **7** + Mary A **5**. **Not** William × Rhoda. Hidden-under-Tincher **nil** Newman | Clark Co., KY | C1376 C1378 C1380 | S1033 |
+| **27–28 Jul 1850** | Breathitt Dist 1 **20B** | FAN **PROVEN** as image + reject: hh **46 Wm. Tincher 45** farmer $500 Tennessee + Matilda **40** TN; hh **47** James/Elias/Joseph/Thos/Martha. **Not** William Newman × Rhoda | Breathitt Co., KY | C1377 C1379 C1381 | S1034 |
+| 1840 | Montgomery stamped **295** | FAN **PROVEN** as index + image: S-K **TINCHER 295**; N-block **NELSON/NORTHCUT/OLDHAM** only. Original n0128 **image seen**. Given **POSSIBLE** John (T/F slack vs Fletcher) | Montgomery Co., KY | C1385 C1386 | S1035 S1039 |
+| 1840 | Madison / Laurel / Breathitt | FAN **PROVEN** as compiled-index: Madison **NEWBY/NEWLAND** only; Laurel **nil** Newman/Tincher; Breathitt **nil** | KY | C1382 C1383 C1384 | S1036–S1038 |
+| 1840 | — | FAN **PROVEN** as catalog: Owsley **n/a** (created 1843). Clark/Estill/Clay S-K **404**. Reel **108** two leaves sampled **nil** Newman | KY | C1387 C1388 C1389 C1402 | S1040 S1049 |
+| **27 Oct 1840** | Clark | FAN **PROVEN** as image: reel **108** n0083 **Clark County Kentucky** certificate; **10,754** persons; **Francis Jackson** | Clark Co., KY | C1403 | S1054 |
+| 1840 | Clay | FAN **PROVEN** as image (start) + sample nil: n0091 left margin **Clay County**. Three name pages **nil** Newman/Tincher. County not complete | Clay Co., KY | C1404 | S1055 |
+| **4 Nov 1840** | Edmonson | FAN **PROVEN** as image: n0186 **W. Edwards** Edmonson certificate | Edmonson Co., KY | C1405 | S1056 |
+| 1840 | Fayette | FAN **PROVEN** as image: n0202 **Andrew M. McCalla** / Lexington | Fayette Co., KY | C1406 | S1053 |
+| 1840 | Estill | FAN **PROVEN** as county isolation: n0097 header **Estill County**. Window ~n0090–n0155. fishergenes p.68 **nil** Newman/Tincher. County not complete | Estill Co., KY | C1407 C1408 C1409 | S1057 S1058 |
+| 1850 | Breathitt | FAN **PROVEN** as every-name compiled + original: **nil** Newman/Newnam. **TINCHER 20B** now image-seen — Wm. **45** + Matilda **REJECT** | Breathitt Co., KY | C1346 C1364 C1377 | S1018 S1019 S1034 |
 | 1850 | Clay | FAN **PROVEN** as compiled-index + reject: William Newman **42** M Tn. in Hibbard hh **54**. No Rhoda | Clay Co., KY | C1347 | S1020 |
 | 1850 | Garrard / Rockcastle | FAN **PROVEN** as compiled-index: Garrard **NEWTON** only; Rockcastle **NEWCOM / NEWCUM**. **No Newman** | Garrard / Rockcastle, KY | C1349 C1350 | S1021 S1022 |
 | 1850 | Perry | FAN **PROVEN** as compiled-index: S-K N = **NAPIER / NOLAND**. Wilson + annotated **nil** Newman | Perry Co., KY | C1352 | S1023 |

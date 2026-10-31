@@ -704,3 +704,62 @@ Pass 2: ED **177** runs through sheet **8 B** at leaf **1078**. Leaf **1079** is
 > Enumerated 18 February 1920.
 
 Pass 2: Pass 83 “0700 = ED 24” is withdrawn. Precinct **24** is not the district number. ED **34** continues through sheet **17 B** at leaf **0731**. → **C833–C836** / **S532–S535**.
+
+## DOC019 — 1850 Clark Dist 1 stamped 91 hh 615 (William Tincher 63)
+
+**Inventory:** `sources/census/pass116/clark196/n0606-w1600.jpg` · `n0606-w2400.jpg` · `n0606-header-crop.jpg` · `n0606-tincher-hh615-crop.jpg` · `n0606-tincher-hh615-lower-crop.jpg` (images seen).
+
+### Diplomatic (15 Sep 1850, Dist 1 Clark, stamped 91, dw 615 / fam 615)
+> State: **Kentucky**. County: **Clark**. District **No. 1**.  
+> Enumerated **15** September **1850** by **Thos McKinney** Asst Marshal. Stamped **91**.  
+> **615 / 615 William Tincher**, 63, M, none  
+> **Elizabeth Boyer**, 31, F  
+> **W R E Tincher**, 27, M, laborer  
+> **Sarah** [ditto Tincher], 22, F  
+> **Samuel** [ditto Tincher], 2, F {sex as written}  
+> **Catharine Boyer**, 10, F  
+> **William** [ditto], 7, M  
+> **Mary A** [ditto], 5, F
+
+Neighbors: **614** Hiram Brumagen 45 farming; **616** Stephen B Lewis ~57 farmer $400; **617** Eddie Bean 74.
+
+Pass 2: surname **Tincher**. Wife **Elizabeth Boyer** not Rhoda. Age **63**. Children W.R.E. / Sarah / Samuel / Catharine / William / Mary A — not Decatur / Leaner / B.F. Dist 2 stamped 91 is a different page. **Rejected** vs William × Rhoda. Hidden-under-Tincher **nil** Newman. → **C1376 C1378 C1380** / **S1033**.
+
+## DOC020 — 1850 Breathitt Dist 1 stamped 20B hh 46 (Wm. Tincher 45)
+
+**Inventory:** `sources/census/pass116/breathitt193/n0234-w1600.jpg` · `n0235-w1600.jpg` · `n0234-stamped20-header-crop.jpg` · `n0235-header-crop.jpg` · `n0235-tincher-hh46-crop.jpg` (images seen).
+
+### Diplomatic (27–28 Jul 1850, Dist 1 Breathitt, 20A/20B, dw 46–47)
+> State: **Kentucky**. County: **Breathitt**. District **No. 1**.  
+> **20A** (n0234): enumerated **27** July **1850** by **John Hargis**. Stamped **20**.  
+> **20B** (n0235): enumerated **28** July **1850** by **John Hargis**.  
+> **46 / 46 Wm. Tincher**, 45, M, Farmer, $500, **Tennessee**  
+> **Matilda**, 40, F, [ditto Tennessee]  
+> **47 / 47 James Tincher**, 23, M, Farmer  
+> **Elias Tincher**, 21, M  
+> **Joseph**, 16, M  
+> **Thos. Tincher**, 11, M  
+> **Martha**, 8, F  
+> Next: **48 / 48 Nicholas Bowman**, 53, M, Farmer, $2000, Va.
+
+Pass 2: surname **Tincher**. Wife **Matilda** not Rhoda. Birth **Tennessee**. Later Dist 1 stamped 20 (hh 149) is a different page. **Rejected** vs William Newman × Rhoda. Hidden-under-Tincher is a Tincher house. → **C1377 C1379 C1381** / **S1034**.
+
+## DOC021 — 1840 Clark County certificate (reel 108 n0083)
+
+**Inventory:** `sources/census/pass116/ky1840-108/n0083-w1100.jpg` · `n0083-clark-cert-crop.jpg` (images seen).
+
+### Diplomatic
+> Clark County Kentucky  
+> the number of Persons within my division consisting of ten thousand seven hundred and fifty four appears in the foregoing schedule subscribed by me this 27th day of October in the year 1840  
+> Francis Jackson
+
+Pass 2: county end of Clark 1840. Clay begins on n0091. → **C1403** / **S1054**.
+
+## DOC022 — 1840 Estill p.68 (fishergenes)
+
+**Inventory:** `sources/census/pass116/estill1840-fishergenes-p68.jpg` · `estill1840-fishergenes-p68-names-enhance.jpg` (images seen).
+
+### Diplomatic heads (left names column)
+> Rachael Covington; Henry Todd; James Wood[?]; Garland King; Wm. Wiles[?]; Samuel Moore; James Powell; Elizabeth Martin; Harmon Hall; Bryant Hall; Mary Oldham; John Frazier; James Hall; John Wood; Susanna Dilemme[?]; **Valentine R. Ward**; Orea Howards; Wm. Adams; Robt. Adams; John Stivers; Nicholas Ryan; Moses[?] Fox; Sam Benton; Henry Martin; Wm Benton; Bryce Pover[?]; Wm Harris; Wm Skinner; Lucy Peterson; J.H. Fitzpatrick.
+
+Pass 2: **nil** Newman / Newnam / Tincher on this spread. County walk not complete. → **C1408** / **S1058**.

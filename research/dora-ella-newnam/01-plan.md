@@ -953,3 +953,27 @@ Exact strings logged **L1145+**.
 
 Exact strings logged **L1163+**.
 
+### Pass 116 variant storm (31 Oct 2026)
+
+**Dora Stone 1926 (B058)** — Dora/posa/dosa/rosa/dona/dara × Stone/Newman/Newnam. Soundex **S350** / **N550**. Cert **1524** RD **676**. Place Pope **Roll 5** / UArk **F419.D37 D3** / LCCN **sn89051008**. IA Solr title Dardanelle Post / Post-Dispatch year **1926**. One catalog reconfirm only (`digitized: false`). Phone **479-968-4368** already recorded — do not re-ask.
+
+**William × Rhoda / 1850 couple (B071)** — William/Wm/Will × Newnam/Newman/Newnarn/Newan/Newnom. Rhoda/Roda × Tincher/Tinsher/Fincher/Tinker. William Tincher. Decatur / Leaner. Benjamin F./B.F. Soundex **N550** / **T526**. Place 1850 Clark Dist **1** stamped **91** (IA **`populationschedu0196unix`** n0606); Breathitt Dist **1** **20B** (IA **`populationschedu0193unix`** n0235); 1840 Montgomery stamped **295** (IA **`populationsc18400120unit`** n0128); Laurel reel **209**; Montgomery reel **214**. OCR/HTR given William / Rhoda / Tincher / Newman. Hidden-under-Tincher on the two target originals.
+
+**1840 heads** — William/Wm × Newman/Newnam/Tincher in Owsley (n/a 1843) / Estill / Clark / Breathitt / Clay / Madison / Laurel / Montgomery and parent counties. S-K 1840 Clark/Estill/Clay **404**.
+
+**Marriage** — William × Rhoda Tincher; H.H. × Belinda Tincher **27 Feb 1840** kept separate.
+
+**Frank / David G (B055/B080)** — Frank/David F./David G. × Newnam/Newman. Soundex **N550**. Cert **13719** RD **028**. Hutchins rooms **228–229**. Newspapers.com **41271**. Phone **859-985-3364** already recorded.
+
+**WWI (B069/B059)** — Luther/John H./McCoy × Newnam/Newman/newnarn. M1509 **KY45 / KY24 / KY74**. Soundex **N550** / **M200**.
+
+**Samuel probate (B045/B065)** — Samuel/Sam P. × Newnam/Newman. FS **127913 / 156057 / 97277**. Jane Steele / Elizabeth / Mary F. Tincher already the last live wills read.
+
+**John L (B082)** — John L × Newman cert **17762** RD **036**. Do not print 1966 as fact.
+
+**McCoy (B085)** — McCoy/Coy × Newman/Newnam after Apr 1930. Soundex **N550** / **M200**. Deceased-only. Do not print 1962.
+
+Exact strings logged **L1183–L1214**.
+
+**Pass 116g addendum:** 1840 Clark certificate n0083; Clay start n0091; Estill header n0097; Edmonson certificate n0186; fishergenes Estill p.68. Same variant set.
+

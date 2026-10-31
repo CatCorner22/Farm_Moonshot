@@ -1638,6 +1638,27 @@
 | C1335 | David G Newman 1984 still **POSSIBLE** Jr only. Living 1950-line withheld | POSSIBLE | S1006 L1159 | B084 |
 | C1336 | FS Lee tax **156057 / 97277** unread (SPA). Do not re-ask Tyler Phillips | PROVEN as access | S1006 L1158 | B065 |
 | C1337 | Same-person pass 114 (densifies **C1316**): **1860 B.F. 7** (Rhoda widow, Proctor) + **1870 Benjamin F. 17** + **1881 Benjamin F. × Mary Steel** + **1900 Benj. F.** Oct **1853** Proctor + **1920 B.F. 66** St. Helens + **1928 Frank** St. Helens (William × Rhoda Tincher) + **1944 widow Mary Jane** = **one man PROVEN**. Parents William × Rhoda still **PROBABLE** (William himself not on 1860/1870). Not Luther’s William. Not Berea contractor. Not Mary F. Tincher 1932. Not H.H.’s William **20**. Not Wm **19** in Elihu Tincher’s house | PROVEN identity; parents PROBABLE | S1006 L1152 | B071 #22 #28 |
+| C1375 | LOC sn89051008 still `digitized: false` (pass 116 / 116e / 116f / 116g). IA Solr Post-Dispatch 1926 **0**. Film unread. Phone not re-asked | PROVEN as catalog | S1031 S1050 L1183 L1212 | B058 |
+| C1376 | 1850 Clark Dist 1 stamped **91** hh **615** William Tincher **63** + Elizabeth Boyer **REJECT** vs William × Rhoda | PROVEN as image + reject | S1033 L1185 | B071 |
+| C1377 | 1850 Breathitt Dist 1 **20B** hh **46** Wm. Tincher **45** + Matilda TN **REJECT** vs William Newman × Rhoda | PROVEN as image + reject | S1034 L1186 | B071 |
+| C1378 | Hidden-under-Tincher Clark 91A: **nil** Newman in hh 615 | PROVEN as visual nil | S1033 L1185 | B071 |
+| C1379 | Hidden-under-Tincher Breathitt 20B: Tincher house; **nil** Newman | PROVEN as visual nil | S1034 L1186 | B071 |
+| C1386 | 1840 Montgomery stamped **295** original n0128: given **POSSIBLE** John (T/F slack vs Fletcher) | POSSIBLE as given name | S1039 L1188 | B071 |
+| C1394 | Parents William × Rhoda still **PROBABLE**. 1850 couple still unread as a living head. 1860 widow + B.F. **7** already **PROVEN** | PROBABLE parents | S1048 L1193 | B071 |
+| C1403 | 1840 Clark county certificate (reel **108** n0083): **Clark County Kentucky**; **10,754** persons; **27 Oct 1840**; **Francis Jackson**. County end isolated | PROVEN as image | S1054 L1201 | B071 |
+| C1404 | 1840 Clay start (reel **108** n0091) left margin **Clay County**. Sampled n0091/n0095/n0099 **nil** Newman/Tincher. County not complete | PROVEN as start; sample nil only | S1055 L1202 | B071 |
+| C1405 | 1840 Edmonson certificate (reel **109** n0186): **W. Edwards**, 4 Nov 1840. n0182 Total Edmonson | PROVEN as image | S1056 L1203 | B071 |
+| C1406 | 1840 Fayette n0202 **Andrew M. McCalla** / Lexington. n0320 Eastern Division certificate | PROVEN as image | S1053 L1204 | B071 |
+| C1407 | 1840 Estill window isolated: n0097 header **Estill County**. ~n0090–n0155 before Edmonson n0160 | PROVEN as county isolation | S1057 L1205 | B071 |
+| C1408 | fishergenes Estill 1840 p.68 **image seen**: Valentine R. Ward + Todd/Hall/Frazier cluster. **nil** Newman/Tincher on that spread | PROVEN as visual nil for that page | S1058 L1206 | B071 |
+| C1409 | Estill samples n0095 verso **John Witt 52**; n0110 Hamilton/Witt/Parke. **nil** Newman on samples. County not complete | PROVEN as sample nil | S1057 L1207 | B071 |
+| C1410 | IA reel map locked: **108** 246 / **109** 361 / **117** 365 / **209** 593 / **214** 554 | PROVEN as catalog | S1052 S1053 S1059 L1208 | B071 |
+| C1411 | Laurel 1850 remaining namecols every leaf **330–395** cropped; extra samples **nil** Newman/Tincher. N not fully walked | PROVEN as partial walk | S1041 L1209 | B071 |
+| C1412 | Montgomery 1850 remaining namecols every leaf **60–140** cropped; extra samples **nil** Newman/Tincher. N not fully walked | PROVEN as partial walk | S1042 L1210 | B071 |
+| C1413 | Still **no** free William × Rhoda license. Authored 1845 unused. Grooms/brides **404** | PROVEN as negative | S1043 L1211 | B071 |
+| C1414 | LOC digitized **false** ×4. Solr 1926 **0**. IA **602** still **515** | PROVEN as catalog | S1050 S1051 S1060 L1212 | B058 B088 |
+| C1415 | FS **1146342** **404** (R011-**58**). USGenNet wills LIVE no Samuel P. | PROVEN as access / compiled | S1046 S1061 L1213 | B069 B045 |
+| C1416 | Parents William × Rhoda still **PROBABLE**. 1850 couple still unread as a living head | PROBABLE | S1048 L1214 | B071 |
 | C1246 | Same-person write-up pass 108: 1930 Estill **33-5 + 33-7 + 33-8 + 33-9** all visually read — Boyd+Allie **absent**. 33-5 and 33-9 are no longer unpublished on free film. 1958 David G still **POSSIBLE** only vs Frank. #20/#26/#27 open. Do not print 1966, 1976, Floyd-as-Boyd, 1962 as McCoy death, or 1942 Combs charge as fact | PROVEN as analysis | S943 L1083 | B089 B055 B080 |
 
 ## Same-person merges (Hard Rule 3)
@@ -1861,4 +1882,12 @@
 | 1850 Perry Rhoda Allen 30 (Jonathan Allen 214) + Rhoda Tincher | Given Rhoda + Perry 1850 | Surname Allen; m. 25 Mar 1847 Perry | **Rejected (C1352)** |
 | 1850 Whitley NEWBY 399A + Newman | N-surname + Whitley 1850 | NEWBY ≠ Newman | **Rejected (C1353)** |
 | 1850 Garrard NEWTON / Rockcastle NEWCOM + Newman | N-surname + 1850 KY | NEWTON / NEWCOM ≠ Newman | **Rejected (C1349 / C1350)** |
+| 1850 Clark hh 615 William Tincher 63 + Elizabeth Boyer + William × Rhoda | Tincher + Clark 91A + 1850 KY | Age 63; wife Elizabeth Boyer ≠ Rhoda; children W.R.E./Sarah/Samuel ≠ Decatur/Leaner/B.F. | **Rejected (C1376).** Hidden-under-Tincher **nil** Newman (**C1378**) |
+| 1850 Breathitt hh 46 Wm. Tincher 45 + Matilda TN + William Newman × Rhoda | Tincher + Breathitt 20B + 1850 KY | Surname Tincher; wife Matilda ≠ Rhoda; Tennessee; children James/Elias/Joseph ≠ Decatur/Leaner/B.F. | **Rejected (C1377).** Hidden-under-Tincher is a Tincher house (**C1379**) |
+| 1840 Montgomery John Fletcher[?]/Tincher[?] + William Newman | Tincher + Montgomery 295 | Given John (POSSIBLE); T/F slack vs Fletcher; 1840 head ≠ 1850 dead husband identity | **Not merged (C1386).** SK TINCHER 295 stands as index |
+| 1840 Madison NEWBY/NEWLAND + Newman | N-surname + Madison 1840 | NEWBY / NEWLAND ≠ Newman | **Rejected as identity (C1383)** |
+| H.H. Newman × Belinda Tincher 27 Feb 1840 Estill + William × Rhoda | Newman × Tincher + Estill | Different groom (H.H.); different bride (Belinda) | **Rejected (C1391)** |
+| 1840 Estill p.68 Valentine R. Ward cluster + William Newman | Estill 1840 + N/T surnames | No Newman/Tincher on that spread | **Page-level nil (C1408)**. County not complete |
+| 1840 Clay sampled Johnson/Hubbard/Maggard + William Newman | Clay 1840 | No Newman/Tincher on n0091/n0095/n0099 | **Sample nil (C1404)**. County not complete |
+| 1840 n0160 Stephen Nelson + Newman | N-surname + Edmonson | NELSON ≠ Newman | **Rejected as identity (C1405)** |
 
