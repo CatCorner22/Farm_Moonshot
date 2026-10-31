@@ -1,0 +1,62 @@
+Pass 98 — Josephine Newnam × Gilbert ~1902 remaining substitutes
+Opened 31 Oct 2026 (America/New_York). HTML-seen / PDF-OCR / access-fail, not a ~1902 civil register.
+License unseen. Original 1916 DC face unseen. T288 images unseen.
+Madison PDFs opened locally under /tmp/pass98/jos/ (not committed; 42 MB / 38 MB).
+
+Madison KYGenWeb marry/ index OPENED (6,290 bytes).
+  Marriages to 1850 letter pages exist (n/a ~1902).
+  Clerk/library digitized General Index 1786–1952 PDFs OPENED:
+    MCmarriages1786-1952A-L.pdf HTTP 200, 42,709,089 bytes.
+    MCmarriages1786-1952M-Z.pdf HTTP 200, 38,654,828 bytes.
+  pdftotext -layout run on both. Index covers 1902.
+  Newman/Newnam window (M–Z N block): 1901 Newman, Lillie M × Arther B Jones other;
+    1895 Newman, George × Neva Durbin other; 1904 Newland, Daniel × Belle Walters other;
+    1905 Newman, Robert × Elena Phelps other; 1907 Newman, Mattie E / Yadie B other.
+    No 1902 Newman/Newnam/Josephine row in that N block.
+  1902 lines with Newman/Newnam/Gilbert/Josephine: none as a 1902 Newnam×Gilbert couple
+    (one 1902 Embry line shares a row with 1886 Robert Newman — other, 1886).
+  Nil Josephine Newnam × Gilbert ~1902 in the opened 1786–1952 index OCR.
+
+Jackson KYGenWeb /jackson/marry/ directory listing OPENED (3,058 bytes).
+  a-bmarriages.html OPENED (235,380): Neeley, Josephine × William 8-20-1891 DISPROVED
+    (maiden Neeley ≠ Newnam; 1891); Peters, Josie × Jonathan W. 12-3-1904 other
+    (maiden Peters; 1904).
+  g-marriages.html OPENED (72,646): Gilbert, Dace 19 × Sloan, Polly Ann 16 12-5-1900 other;
+    James M. × Morris, Leatha A. 12-3-1888 other; James M. × Fowler, Annise B. 1904 other;
+    John R. × Montgomery, Josephine ? 5-10-1892 DISPROVED (maiden Montgomery ≠ Newnam; 1892);
+    Quiller Peter × Flannery, Nancy M. 8-13-1885 other.
+  i-kmarriages.html OPENED (107,831): Lupew?/Angel, Josephine 7-10-1867 other.
+  n-pmarriages.html OPENED (113,594): Newman, Thomas A. × Jones, Mattie 2-21-1895 other;
+    Smith, Josie 11-14-1896 other (maiden Smith).
+  Nil Josephine Newnam × Gilbert ~1902 in the opened Jackson letter pages.
+
+Rockcastle /rockcastle/marriages/ letter pages OPENED.
+  g.htm (98,649): GILBERT heading Ella × Charles A. Reed 01 June 1877 / Hannah × Elias Floyd
+    13 May 1876 / Mary × William Proctor 07 Feb 1875 / Thomas × Julia Clark 26 Sep 1873 —
+    n/a ~1902.
+  n.htm (46,701) Newman/Newnam/Josephine token 0.
+  j.htm (64,510) Josephine/Josie token 0.
+
+Shelby /shelby/marriages/ OPENED.
+  1900marriages.html OPENED (318,344): Gilbert Ford is a given-name Gilbert, other.
+  1901marriages.html OPENED (315,338): Josephine Bradley × Allen C. Bixler 22 Aug 1901
+    DISPROVED (maiden Bradley ≠ Newnam; groom Bixler ≠ Gilbert; 1901).
+  1902marriages.html HTTP 404 (1,543-byte stub).
+  marriage.html OPENED: Henry Newman × Fanny Pulliam 10/29/1808 other (n/a ~1902).
+
+Franklin /franklin/vital-records/marriages/ OPENED (17,070 bytes).
+  Year buttons 1852–1859 / 1861 / 1874–1878 / 1903. No 1902 file. n/a as a 1902 Newnam license.
+
+Remaining this pass n/a / landing / other:
+  Boone marriage.htm compiled early / Baker 1820–1849 / Various 1876–1882 n/a ~1902.
+  Scott Marriages1793-1831.htm n/a ~1902.
+  Bourbon MarriageRecordsIndex.html 1851–1856 / early bonds n/a ~1902.
+  Mason marrcerts.html JPEG certificates 1797–1809 n/a ~1902.
+  Kenton /kenton/marriage/ OPENED (81,384 bytes) Josephine/Newman/Newnam/Gilbert/1902 token 0.
+  Oldham genheritage vital.html landing: birth indexes, no ~1902 marriage table.
+  Woodford kygenweb redirect to wixsite 395,161 bytes; marriage-like href 0.
+  Fayette landing no county ~1902 marriage table.
+  Spencer /Marriages/ redirected to Vital.Records; Josie Cheatham death listing other
+    (not a ~1902 Newnam license).
+
+License still unseen. Do not close B063.

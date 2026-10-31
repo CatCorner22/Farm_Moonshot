@@ -1,0 +1,35 @@
+Pass 98 — T288 IIIF retry + TFKRHA 1916 C + FAG Wayback
+Opened 31 Oct 2026 (America/New_York). Access-fail / independently re-seen extract / JS shell.
+Card images unseen. Original 1916 DC face unseen. Memorial body unseen.
+Do not invent T288 card contents. Do not promote C509.
+Do not treat Catalog quoted Newnam title-nil as a T288 card-nil.
+Do not file Mary Jane Steele DISPROVED from FAG 403 or from a Wayback JS shell.
+
+T288 IIIF (curl, 15s):
+  https://catalog.archives.gov/iiif/3/lz%2Fdc-metro%2Frg-015%2F563268/T288-0348/T288-0348-01001.tif/info.json
+    timeout 15s, 0 bytes received. Card images unseen.
+
+TFKRHA 1916 C this pass:
+  https://tfkrha.org/owsley/vitals/1916c.htm and
+  https://tfkrha.org/owsley/death_certificates_1916_owsley_c.htm
+    HTTP 429, ~40,681 bytes Vercel Security Checkpoint (not the Rosenbalm extract body).
+  https://www.tfkrha.org/... SSL: no alternative certificate subject name; -k then 429.
+  http://www.tfkrha.org/... HTTP 308 then SSL fail.
+  Wayback CDX for tfkrha.org/owsley/vitals/1916c.htm: empty JSON array [].
+  WebSearch independently opened http://www.tfkrha.org/owsley/death_certificates_1916_owsley_c.htm
+    and returned the same Rosenbalm / Bowman-Chandler extract:
+    Henry H. 8-6-1916 File No. 21663; Martial Status: Widowed; Age 72y; Farmer;
+    Travelers Rest; Cerebral Hemorrage; Arterioscolerosis; S.M. CECIL g.y. 8/7/1916;
+    parents and informant cells blank. Neighbor Willie 21666 parents filled.
+    Same third extract as C709. Not a fourth extract.
+  Original DC face unseen.
+
+FAG memorial 165350371:
+  Live FAG still 403 this VM (prior). Not a DISPROVED from 403.
+  Wayback CDX: 20200116155933 HTTP 200 length 994.
+  Fetched https://web.archive.org/web/20200116155933/https://www.findagrave.com/memorial/165350371/mary-jane-newnam
+    HTTP 200, 10,601 bytes. Page is Wayback chrome plus a JS shell; memorial body unseen.
+  Do not file Mary Jane Steele DISPROVED from this capture.
+
+B061 remains open. Residual: original 1932 DC vol 020 #09525; Estill 1826–1850 bonds;
+M123-3 original; T288 card images (IIIF path known; pixels timeout).

@@ -5219,3 +5219,61 @@ Pass 2: Do **not** invent T288 card contents. Do **not** promote C509. Do not cl
 ### Facts extracted → claim IDs
 - IIIF timeout 40s; images unseen → C1050
 - B061 remaining gap → C1052
+
+## DOC219 — Catalog + Pass 98 coverage
+
+- Extract: `pass98-coverage.txt` SHA-256 `4ce014d4f056dae469a52b14b4be8695e13376f193fd361c15ea118864ac7fc7`
+- Provenance: Cursor `list-cloud-agents` includeArchived limit 200, 31 Oct 2026. This run `bc-01a18bb4-e162-785c-9724-86a7c5663bf1`.
+- Access: process listing. **No** new independently image-backed P001 1900–1926 residence.
+
+### Diplomatic — cited extract
+
+> **184** / `hasMore: false` / `totalMatched: 184`. Was **184**. NEW vs 184 (0; **no IDs imported**). Status-only: Hunt Dora **renamed** B073 Van Buren 1910 remaining still RUNNING (same id). Sibling C281 **not imported**.
+
+Pass 2: Process count only. Skip **C221–C280**. Do **not** promote C509. Do **not** hunt remaining 1930 Owsley sheets.
+
+### Facts extracted → claim IDs
+- catalog 184 unchanged; NEW 0 → C1053
+- B063 remaining gap → C1060
+- B061 remaining gap → C1061
+
+## DOC220 — Josephine remaining substitutes (Pass 98)
+
+- Extract: `josephine-gilbert-pass98.txt` SHA-256 `de857b24f6549b4b5cf1af30036bd83ab3dab50b571ffa19802295246ab07126`
+- Coverage: `pass98-coverage.txt` `4ce014d4f056dae469a52b14b4be8695e13376f193fd361c15ea118864ac7fc7`
+- Provenance: Madison 1786–1952 PDFs; Jackson marry G/N/A-B/I-K; Rockcastle G/N/J; Shelby 1900/1901; Franklin year buttons. Opened 31 Oct 2026. **HTML-seen / PDF-OCR**, not a ~1902 civil register. License unseen. Madison PDFs not committed.
+
+### Diplomatic — cited extracts
+
+> Madison 1786–1952 index PDFs opened covering 1902. Newman N-block 1901 Lillie M × Arther B Jones other. Nil 1902 Josephine Newnam × Gilbert.
+
+> Jackson g-marriages.html: Gilbert, John R. × Montgomery, Josephine 5-10-1892 DISPROVED. Gilbert, Dace × Sloan 12-5-1900 other.
+
+> Shelby 1901: Josephine Bradley × Allen C. Bixler 22 Aug 1901 DISPROVED. 1902marriages.html 404.
+
+> Franklin marriages year buttons 1852–1878 / 1903; no 1902 file n/a.
+
+Pass 2: License still unseen. Do not close B063.
+
+### Facts extracted → claim IDs
+- Madison covering 1902 nil Josephine Newnam × Gilbert → C1054
+- Jackson Montgomery 1892 DISPROVED / Neeley 1891 DISPROVED → C1055
+- Rockcastle Gilbert 1873–1877 n/a → C1056
+- Shelby Bradley 1901 DISPROVED / 1902 404 → C1057
+- Franklin no 1902 / remaining n/a → C1058
+- B063 remaining gap → C1060
+
+## DOC221 — T288 IIIF + TFKRHA 1916 C + FAG Wayback (Pass 98)
+
+- Extract: `t288-1916c-fag-pass98.txt` SHA-256 `0359218b293b4d7e4d05b041aba5a54aaf1e922c07ca54f62948a28997bc5b6b`
+- Provenance: NARA Catalog IIIF T288-0348-01001 info.json; TFKRHA 1916 C URLs; FAG 165350371 Wayback 20200116155933. Opened 31 Oct 2026. **Access-fail / independently re-seen extract / JS shell**.
+
+### Diplomatic — cited access results
+
+> Reel 348 frame 01001 info.json timeout 15s, 0 bytes. TFKRHA https 1916 C HTTP 429. Independently re-seen Rosenbalm extract: Henry H. Widowed / blank parents file 21663 (same as C709; not a fourth extract). FAG Wayback 200, 10,601 bytes, JS shell; memorial body unseen.
+
+Pass 2: Do **not** invent T288 card contents. Do **not** promote C509. Do not file Mary Jane Steele DISPROVED from this capture.
+
+### Facts extracted → claim IDs
+- IIIF timeout 15s; images unseen → C1059
+- B061 remaining gap → C1061

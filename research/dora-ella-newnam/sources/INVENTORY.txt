@@ -2731,3 +2731,16 @@ research/dora-ella-newnam/sources/census/1880-lee-ky-ed59-sheet43-p768-caroline-
   sha256: f4ab372c57ac0a5185777bd0855f348f4c4430ba212d983ecf62c2f76657a1fd
   format: text extract, 1,868 bytes
   check: T288 IIIF reel 348/347 timeout 40s; pixels unseen; TFKRHA 429
+
+/workspace/research/dora-ella-newnam/sources/indexes/pass98-coverage.txt
+  sha256: 4ce014d4f056dae469a52b14b4be8695e13376f193fd361c15ea118864ac7fc7
+  format: text extract, 2,458 bytes
+  check: Pass 98 coverage; catalog 184 unchanged; Josephine remaining; T288 IIIF 15s timeout
+/workspace/research/dora-ella-newnam/sources/indexes/josephine-gilbert-pass98.txt
+  sha256: de857b24f6549b4b5cf1af30036bd83ab3dab50b571ffa19802295246ab07126
+  format: text extract, 3,846 bytes
+  check: Madison 1786-1952 covering 1902 nil; Jackson Montgomery 1892 DISPROVED; Shelby Bradley 1901 DISPROVED
+/workspace/research/dora-ella-newnam/sources/indexes/t288-1916c-fag-pass98.txt
+  sha256: 0359218b293b4d7e4d05b041aba5a54aaf1e922c07ca54f62948a28997bc5b6b
+  format: text extract, 2,107 bytes
+  check: T288 IIIF reel 348 timeout 15s; TFKRHA 429; FAG Wayback JS shell unread

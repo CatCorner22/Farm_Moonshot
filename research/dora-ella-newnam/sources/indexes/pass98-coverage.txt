@@ -1,0 +1,41 @@
+Pass 98 coverage — 31 Oct 2026 (America/New_York)
+This run bc-01a18bb4-e162-785c-9724-86a7c5663bf1
+Catalog list-cloud-agents includeArchived limit 200 → 184 / hasMore false / totalMatched 184.
+Was 184 (Pass 97 filing). NEW vs 184 (0; no IDs imported).
+Status-only (not new IDs):
+  Hunt Dora / B068 / B070 / B071 / B072 renamed B073 Van Buren 1910 remaining
+    same id bc-aa43eaa5-be23-54be-a20a-7a5238fd33f8 still RUNNING.
+  Dora Henry Hart 1850 RUNNING bc-3f9f34c6-136f-53fc-a616-76ef7440c8dd
+  Continue Dora genealogy IDLE
+    bc-7eb25736-d3e3-510a-83d6-9535752f0297
+    bc-d7a3569c-3baa-589d-8f26-02d269c034dd (second chat; process-fold only)
+  Read IN Pass 96 leftover sheets RUNNING bc-f5477cb1
+  Read MO leftover twin RUNNING bc-16d11e46; additional MO leftover RUNNING bc-fe8f8989
+  Scan remaining IN leftover ERROR bc-8ff3ee33
+  Dora Todd Trigg 1850 IDLE bc-d402e9f9
+  Dora location search RUNNING bc-995d22ea
+  Dora's biography research WAITING_FOR_BACKGROUND_WORK PR #33
+    (sibling C281 not imported)
+  Project status review WAITING_FOR_BACKGROUND_WORK bc-03731ef0
+Nested reviewer not respawned. Message queue empty.
+Skip C221–C280 / L245–L342 / S259–S266.
+Do not mint C274–C280. Do not promote C509. Do not hunt D-540.
+Do not close B063. Do not hunt remaining 1930 Owsley sheets (closed Pass 94).
+Do not import C281. Do not invent T288 card contents.
+Do not file Mary Jane Steele DISPROVED from FAG 403 or from a Wayback JS shell.
+Do not treat Catalog quoted Newnam title-nil as a T288 card-nil.
+
+Work this pass:
+- T288 IIIF reel 348 frame 01001 info.json timeout 15s (0 bytes). Card images unseen.
+- TFKRHA https 1916 C / death_certificates_1916_owsley_c.htm HTTP 429 Vercel checkpoint.
+  WebSearch independently re-opened the same Rosenbalm extract (Widowed / blank parents);
+  not a fourth extract. Original DC face unseen.
+- FAG memorial 165350371 Wayback 20200116155933 HTTP 200 (10,601 bytes) is Wayback chrome
+  plus a JS shell; memorial body unseen. Not a DISPROVED of Mary Jane Steele.
+- Josephine remaining: Madison 1786–1952 general index PDFs covering 1902;
+  Jackson marry G/N/A-B/I-K; Rockcastle G/N/J; Shelby 1900/1901 (1902 404);
+  Franklin year buttons no 1902; Boone/Scott/Bourbon/Mason n/a; Kenton token 0.
+- Remaining 1930 Owsley not re-hunted.
+- 1916 DC face / ED 92 hh 1–13 / 1840 bond / M123-3 not opened this pass.
+
+B061 / B063 remain open. Next unused after this pass: C1062+ / L939+ / S720+ / DOC222+.
