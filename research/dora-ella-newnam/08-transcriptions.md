@@ -5760,3 +5760,55 @@ Pass 2: Do **not** invent T288 card contents. Do **not** promote C509.
 ### Facts extracted → claim IDs
 - IIIF timeout 25s; images unseen → C1125
 - B061 remaining gap → C1127
+
+## DOC249 — Catalog + Pass 108 coverage
+
+- Extract: `pass108-coverage.txt` SHA-256 `9cfe594a9af720840315f90cfaed59b6b25b91828396ad9b3577d02107d42c39`
+- Provenance: Cursor `list-cloud-agents` includeArchived limit 200, 31 Oct 2026. This run `bc-01a18bb4-e162-785c-9724-86a7c5663bf1`.
+- Access: process listing. **No** new independently image-backed P001 1900–1926 residence.
+
+### Diplomatic — cited extract
+
+> **206** / `hasMore: false` / `totalMatched: 206`. Was **205**. NEW vs 205 (1; **no IDs imported**). Status-only: Hunt Dora **renamed** B084 still RUNNING (same id). Sibling C281 **not imported**.
+
+Pass 2: Process count only. Skip **C221–C280**. Do **not** promote C509. Do **not** hunt remaining 1930 Owsley sheets.
+
+### Facts extracted → claim IDs
+- catalog 206; NEW 1 process-only → C1128
+- B063 remaining gap → C1133
+- B061 remaining gap → C1134
+
+## DOC250 — Josephine remaining substitutes (Pass 108)
+
+- Extract: `josephine-gilbert-pass108.txt` SHA-256 `60a6a49c7fb77db9176356dba4c5d4d50b0ee884a77f0755671d0a7a0e8ace30`
+- Coverage: `pass108-coverage.txt` `9cfe594a9af720840315f90cfaed59b6b25b91828396ad9b3577d02107d42c39`
+- Provenance: Muhlenberg kygenweb White 1798–1965 Newman pages; Graves/Fulton/Christian landings; Butler GT. Opened 31 Oct 2026. **HTML-seen / compiled**. License unseen.
+
+### Diplomatic — cited extracts
+
+> Muhlenberg White Marriages 1798–1965: groomsNewman 81 dated; bridesNewman 59 dated. 1902 W.B. Newman × Rushia Hudson Book 24/83 DISPROVED. Brides Newman 1902 0. Nil Josephine Newnam × Gilbert.
+
+> Butler GT: 10 rows in 1901 then 13 Dec 1906. 0 in 1902. n/a as covering 1902.
+
+Pass 2: License still unseen. Do not close B063.
+
+### Facts extracted → claim IDs
+- Muhlenberg White 1798–1965 covering 1902 nil this couple → C1129
+- Graves/Fulton/Christian remaining n/a → C1130
+- Butler GT 1902 hole n/a as covering → C1131
+- B063 remaining gap → C1133
+
+## DOC251 — T288 IIIF SPA 5,454 (Pass 108)
+
+- Extract: `t288-timeout-pass108.txt` SHA-256 `64471c983ba82ba06527afd355e3c9a7526960bd83c3799c2375d34a0c9f8744`
+- Provenance: NARA Catalog IIIF T288-0348-01001 and T288-0347-01001 info.json. Opened 31 Oct 2026. **Access-fail**.
+
+### Diplomatic — cited access results
+
+> Reels 348 and 347 frame 01001 info.json HTTP 200, 5,454-byte Catalog SPA HTML, not IIIF JSON. Card images unseen.
+
+Pass 2: Do **not** invent T288 card contents. Do **not** promote C509.
+
+### Facts extracted → claim IDs
+- IIIF SPA 5,454 bytes; images unseen → C1132
+- B061 remaining gap → C1134

@@ -1,0 +1,15 @@
+Pass 108 — NARA T288 IIIF / substitutes, 31 Oct 2026 (America/New_York)
+Card images unseen. Do not invent T288 contents. Do not promote C509.
+
+Reel 348 frame 01001 info.json
+  URL: https://catalog.archives.gov/iiif/3/lz%2Fdc-metro%2Frg-015%2F563268/T288-0348/T288-0348-01001.tif/info.json
+  Result: HTTP 200, 5,454-byte Catalog SPA HTML, not IIIF JSON (same class as Pass 105).
+  Cards unseen.
+
+Reel 347 frame 01001 info.json (same path pattern T288-0347)
+  Result: HTTP 200, 5,454-byte Catalog SPA HTML, not IIIF JSON.
+  Cards unseen.
+
+Do not treat SPA HTML as a card-nil.
+IA title T288 search remains numFound 0 (Pass 107).
+Pixels unseen.

@@ -1,0 +1,60 @@
+Pass 108 — Josephine Newnam x Gilbert ~1902 remaining substitutes
+Opened 31 Oct 2026 (America/New_York). Compiled / HTML-seen clerk-index.
+License unseen. Original 1916 DC face unseen. T288 images unseen.
+
+Muhlenberg kygenweb White Marriages 1798-1965 OPENED
+  Landing: https://kygenweb.net/muhlenberg/marriages/marriages.htm
+  White grooms index / brides index claim 1798-1965 (updated 2024/2025).
+  Dedicated surname pages (not the GT Book 7 1895-1901 table already C1122):
+    groomsNewman.htm OPENED: 81 dated rows, 1819-1964.
+    bridesNewman.htm OPENED: 59 dated rows, 1804-1961.
+  Year 1902 is populated in this index (Book 24 rows exist).
+  Grooms Newman 1895-1905:
+    1895 Jackson C. x Dwyer, Jennie 20/503 other
+    1896 W.B. x Penrod, Jennie 21/17 other
+    1897 N.W. x McBride, Maggie G. 21/489 other
+    1899 Lewis G. x O'Neal, Annie 22/510 other
+    1900 Claudias E. x Posey, Willie 22/589 other
+    1902 W.B. x Hudson, Rushia 24/83 DISPROVED as this couple
+    1905 Robert x Steed, Barbara 26/223 other
+    1901 grooms 0.
+  Brides Newman 1895-1905:
+    1897 Florance S. x Stotz, Jacob 21/235 other
+    1900 Mary E. x Heltsley, Samuel A. 23/145 other
+    1901 Ida x Poiles, Pete 23/351 other
+    1902 0
+    1904 Mary E. x Cornett, Robert B. 24/459 other
+  Josephine/Josie Newman bride any year: nil on bridesNewman.htm.
+  groomsNewnam.htm / bridesNewnam.htm HTTP 404 (no separate Newnam page;
+    Newnam is not a second heading on the Ne slices).
+  Gilbert grooms (groomsGi.htm) 1898-1906: none. Gilbert grooms present
+    1808/1832/1851/1913/1924/1937/1940, none 1902.
+  Gilbert brides (bridesGi.htm) 1898-1906: none named Gilbert
+    (1902 row on that slice is Gibbs, Jeanette x Charles, David 24/123 other).
+  This is a covering 1798-1965 clerk-index for 1902. NIL this couple.
+  Marriage Register Books 1-2 landing is description + Book 1/2 early
+    returns only, n/a as 1902.
+  Pre-1911 vitals landing is A-Z description of KDLA VS (1852-59 / 1874-78
+    scattered); not opened letter-by-letter this pass.
+  IA title "Muhlenberg County, Kentucky marriages, 1798-1902" numFound 0.
+  WorldCat/FS 1798-1902 book still unopened as a scan.
+
+Graves GT marriages_main.html OPENED: Stephens Marriages + Divorces only.
+  n/a as covering 1903-1904. KDLA/Ancestry VS Graves 1903-1904 exists
+  (no 1902 in that VS list). On-site / paywall.
+
+Fulton remaining n/a as covering 1902:
+  GT marriages.html = Stephens FAN + Marriage Bonds 1870-1874 only.
+  kygenweb marriages.html = submitted newspaper couples (1900/1901/1904+);
+    no 1902 row in the submitted list. KDLA VS Fulton 1902-1904 on-site.
+
+Christian GT marriages.html OPENED as index: 1862 + 1797-1820 + Stephens.
+  n/a as 1902. KDLA VS Christian 1902-1904 on-site / Ancestry.
+
+Butler GT butlerco_marriages.html OPENED (Cathy Schultz transcript):
+  10 dated rows in 1901 (11 May-16 Jul) then jump to Lacefield x Bryant
+  13 Dec 1906. 0 in 1902. Nil Newman/Newnam/Gilbert/Josephine.
+  n/a as a covering 1902 table (1902 hole). USGW Butler marr.html is
+  submitted 1901/1880 FAN, not covering.
+
+License still unseen. Do not close B063.

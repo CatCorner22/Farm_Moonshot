@@ -1,0 +1,41 @@
+Pass 108 coverage — 31 Oct 2026 (America/New_York)
+This run bc-01a18bb4-e162-785c-9724-86a7c5663bf1
+Catalog list-cloud-agents includeArchived limit 200 → 206 / hasMore false / totalMatched 206
+(offset 0 returned 200 hasMore true; offset 200 returned 6).
+Was 205 (Pass 107 filing). NEW vs 205 (1; no IDs imported):
+  Summarize IL leftover-M half A
+    bc-4909cd8d-b687-585a-aaa8-8a6b59d772b8 RUNNING
+Status-only (not new IDs):
+  Hunt Dora renamed B084 Bell Jackson Harlan files
+    same id bc-aa43eaa5-be23-54be-a20a-7a5238fd33f8 still RUNNING.
+  B054/B020 renamed B020 residual then next free
+    same id bc-20e39036-9573-5790-87e8-76e84d742488 still RUNNING.
+  1900-death / B007 remains B007 residual Soundex EDs
+    same id bc-6d51c793-cffb-5165-99f1-7d7ac656b317 still RUNNING.
+  B045 renamed B042 UK film residual
+    same id bc-c5415202-619c-5848-aaa6-1ce23094b5fd still RUNNING.
+  Sibling PR #33 C281 not imported.
+Nested reviewer not respawned. Message queue empty.
+Skip C221-C280 / L245-L342 / S259-S266.
+Do not mint C274-C280. Do not promote C509. Do not hunt D-540.
+Do not close B063. Do not hunt remaining 1930 Owsley sheets (closed Pass 94).
+Do not import C281. Do not invent T288 card contents.
+Do not commit leftover 1920 ED 89 / N-550 JPEGs.
+Do not commit full Muhlenberg white HTML pages (extract/summary only).
+
+Work this pass:
+- Muhlenberg kygenweb White Marriages 1798-1965 clerk-index OPENED
+  (white/groomsNewman.htm 81 dated 1819-1964; white/bridesNewman.htm
+  59 dated 1804-1961). Year 1902 populated (Book 24). NIL Josephine
+  Newnam x Gilbert. Newman, W.B. x Hudson, Rushia 1902 Book 24/83
+  DISPROVED as this couple. Newnam dedicated pages 404 (indexed under
+  Newman). Gilbert grooms 1898-1906 none.
+- Remaining n/a: Graves GT Stephens+Divorces; Fulton GT 1870-74 /
+  kygenweb submitted; Christian GT 1797-1820/1862; IA WorldCat-title
+  1798-1902 numFound 0.
+- Butler GT opened: 10 rows in 1901 then jump to 13 Dec 1906; 0 in 1902;
+  n/a as covering 1902; nil Newman/Gilbert.
+- T288 IIIF reel 348/347 info.json HTTP 200, 5,454-byte Catalog SPA HTML,
+  not IIIF JSON. Card images unseen.
+
+B061 / B063 remain open. Next unused after this pass: C1135+ / L1013+ / S750+ / DOC252+.

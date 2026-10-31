@@ -2858,3 +2858,15 @@ research/dora-ella-newnam/sources/census/1880-lee-ky-ed59-sheet43-p768-caroline-
   sha256: d483251f86467a1ca76a2182628d71650f356dd05850bc8b1fcca5e21d31a77c
   format: text extract, 953 bytes
   check: T288 IIIF reels 348/347 timeout 25s 0 bytes; cards unseen
+/workspace/research/dora-ella-newnam/sources/indexes/pass108-coverage.txt
+  sha256: 9cfe594a9af720840315f90cfaed59b6b25b91828396ad9b3577d02107d42c39
+  format: text extract, 2,208 bytes
+  check: Pass 108 coverage; catalog 206 NEW 1 process-only; Muhlenberg White 1798-1965 covering 1902 nil; T288 SPA 5454
+/workspace/research/dora-ella-newnam/sources/indexes/josephine-gilbert-pass108.txt
+  sha256: 60a6a49c7fb77db9176356dba4c5d4d50b0ee884a77f0755671d0a7a0e8ace30
+  format: text extract, 3,102 bytes
+  check: Muhlenberg White 1798-1965 covering 1902 nil this couple; W.B. x Hudson 1902 DISPROVED; Butler 1902 hole
+/workspace/research/dora-ella-newnam/sources/indexes/t288-timeout-pass108.txt
+  sha256: 64471c983ba82ba06527afd355e3c9a7526960bd83c3799c2375d34a0c9f8744
+  format: text extract, 643 bytes
+  check: T288 IIIF reels 348/347 HTTP 200 SPA 5454 bytes not IIIF JSON; cards unseen
