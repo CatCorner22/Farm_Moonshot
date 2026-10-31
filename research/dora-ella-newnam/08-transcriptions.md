@@ -5160,3 +5160,62 @@ Pass 2: Do **not** invent T288 card contents. Do **not** promote C509. Do not cl
 ### Facts extracted → claim IDs
 - IIIF path confirmed; images unseen → C1040
 - B061 remaining gap → C1042
+
+## DOC216 — Catalog + Pass 97 coverage
+
+- Extract: `pass97-coverage.txt` SHA-256 `0253cb80ab62a32e135ae0ec9e8909f5d2a4738e972bfacc2f6ae47eec647368`
+- Provenance: Cursor `list-cloud-agents` includeArchived limit 200, 31 Oct 2026. This run `bc-01a18bb4-e162-785c-9724-86a7c5663bf1`.
+- Access: process listing. **No** new independently image-backed P001 1900–1926 residence.
+
+### Diplomatic — cited extract
+
+> **184** / `hasMore: false` / `totalMatched: 184`. Was **181**. NEW vs 181 (3; **no IDs imported**): Scan remaining IN leftover sheets ERROR; Read MO Pass 96 leftover sheets RUNNING (additional); Dora Henry Hart 1850 RUNNING. Status-only: Hunt Dora **renamed** B073 Van Buren 1910 remaining still RUNNING (same id); Continue Dora genealogy IDLE; Todd Trigg now IDLE. Nested reviewer **not** respawned. Sibling C281 **not imported**.
+
+Pass 2: Process count only. **No** new independently image-backed P001 1900–1926 residence. Skip **C221–C280**. Do **not** promote C509. Do **not** hunt remaining 1930 Owsley sheets.
+
+### Facts extracted → claim IDs
+- catalog 184 was 181; NEW 3 not imported → C1043
+- B063 remaining gap → C1051
+- B061 remaining gap → C1052
+
+## DOC217 — Josephine remaining substitutes (Pass 97)
+
+- Extract: `josephine-gilbert-pass97.txt` SHA-256 `182d15803185c98c1c348909e6444b47434161137f0963f012066dfce411a6d5`
+- Coverage: `pass97-coverage.txt` `0253cb80ab62a32e135ae0ec9e8909f5d2a4738e972bfacc2f6ae47eec647368`
+- Provenance: Carter Gilbert FAN; KY Footsteps Gilbert/N/Newman; Clark hall/various/misc; Anderson/Washington 404; Henry 1892–1911 / 1865–1900; Clay live `/marriages/`; Jefferson 1865 newspapers; Lee Book 8; Bell listing. Opened 31 Oct 2026. **HTML-seen / access-fail**, not a ~1902 civil register. License unseen.
+
+### Diplomatic — cited extracts
+
+> Carter Gilbert FAN (9,030 bytes): 1838–1871. Last 16 Dec 1871 Thomas T. Gilbert × Dulcena Carrol / 27 Dec 1871 Harris T. Gilbert × Acenith Hunt. n/a ~1902. Nil Josephine Newnam.
+
+> Clark hall.html HALL-only; no 1902 Hall row; n/a county-wide. various.html Nancy Newman × Claborn Harlow 14 Jan 1822 other. misc.html Leah School × John Newman 25 Dec 1814 other.
+
+> Henry vtmarr.htm: Josephine Tingle × J.R. Kendall 22 Dec 1892 DISPROVED. Fronie Newman 24 Jun 1896 other. 1902 Adams rows other. lnmarr.htm Josephine Dunaway × Lucian Evans 4 Feb 1869 DISPROVED.
+
+> Clay live /marriages/ (20,653 bytes): G/N/J letters nil Josephine Newnam × Gilbert. Lee Book 8 Kate Newnam × Abshear 12 Feb 1909 other. Martha Newman × Thomas 10 Jan 1907 other (do not merge Henry Newman × Ellen Pardugh).
+
+Pass 2: License still unseen. Do not close B063.
+
+### Facts extracted → claim IDs
+- Carter Gilbert FAN 1838–1871 n/a → C1044
+- Clark Hall-only n/a / Nancy 1822 other → C1045
+- Anderson/Washington 404 / Jefferson 1865 n/a → C1046
+- Henry Tingle 1892 DISPROVED / Dunaway 1869 DISPROVED → C1047
+- Clay live G/N/J nil → C1048
+- Lee Book 8 Kate 1909 other → C1049
+- B063 remaining gap → C1051
+
+## DOC218 — T288 IIIF retry + TFKRHA 1916 C (Pass 97)
+
+- Extract: `t288-iiif-retry-pass97.txt` SHA-256 `f4ab372c57ac0a5185777bd0855f348f4c4430ba212d983ecf62c2f76657a1fd`
+- Provenance: NARA Catalog IIIF path for T288-0348 / T288-0347 frame 01001 info.json and 32px JPEG; TFKRHA https 1916 C. Opened 31 Oct 2026. **Access-fail**. Card images unseen.
+
+### Diplomatic — cited access results
+
+> Reel 348 frame 01001 info.json timeout 40s, 0 bytes. Pixel JPEG /full/32,/0/default.jpg timeout 40s, 0 bytes. Reel 347 frame 01001 info.json timeout 40s, 0 bytes. Catalog /id/ SPA HTML 5,454 bytes. TFKRHA https 1916 C HTTP 429 Vercel Security Checkpoint (40,673 bytes; not a fourth extract).
+
+Pass 2: Do **not** invent T288 card contents. Do **not** promote C509. Do not close B061.
+
+### Facts extracted → claim IDs
+- IIIF timeout 40s; images unseen → C1050
+- B061 remaining gap → C1052

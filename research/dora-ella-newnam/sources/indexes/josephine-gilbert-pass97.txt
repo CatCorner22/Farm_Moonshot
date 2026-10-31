@@ -1,0 +1,110 @@
+Pass 97 — Josephine Newnam × Gilbert ~1902 remaining substitutes
+Opened 31 Oct 2026 (America/New_York). HTML-seen / access-fail, not a ~1902 civil register.
+License unseen. Original 1916 DC face unseen. T288 images unseen.
+
+Carter County KY Gilbert FAN (kygenweb.net/carter/marriage/Gilbert_Marriage_records.htm)
+  Ken Sluys compiled Gilbert marriages OPENED (9,030 bytes). Years 1838–1871.
+  Last rows: 16 Dec 1871 Thomas T. Gilbert × Dulcena Carrol;
+  27 Dec 1871 Harris T. Gilbert × Acenith Hunt.
+  n/a as a ~1902 Newnam license. Nil Josephine Newnam.
+
+KY Footsteps Gilbert dir OPENED (2,578 bytes):
+  https://kygenweb.net/kyfootsteps/files/surnames/G/Gilbert/
+  Only ~1902-era miss is Gilbert-and-Muncy.1931.Clay.MARRIAGE.txt — other
+  (1931; Clay; not Josephine Newnam × Gilbert ~1902).
+  Remaining files are later obituaries / cemetery / military / 1914–1924 Knox deaths.
+  Nil Josephine Newnam × Gilbert ~1902 marriage file.
+
+Clark KYGenWeb /clark/marriages/ OPENED (7,217-byte index).
+  Doyle 1793–1796 / mar-1793 / mar-1794 n/a ~1902.
+  hall.html OPENED (23,937 bytes): HALL-surname compiled list. Years jump
+    1899 (Edward × Ida Evans; Killis × Addie E. Eaton) then 1904
+    (W.M. × Emma R. Parido; W.M. × Ada McQueen; H.H. × Mrs. Ollie G. Shaw).
+    No 1902 Hall row. Josephine/Josie/Newman/Newnam/Gilbert token 0.
+    n/a as a county-wide 1902 Newnam license.
+  various.html OPENED (35,818 bytes): partial Doyle bonds, mostly through ~1850.
+    Harlow, Claborn × Nancy Newman, dau Elijah Newman, 14 Jan 1822 — other
+    (1822; Nancy ≠ Josephine; Harlow ≠ Gilbert).
+  misc.html OPENED: SCHOOL, Leah × NEWMAN, John 25 Dec 1814 — other.
+  marsan.html / rankin.html / scobee.html / duvall.html / Kindred-Wade.html
+    OPENED; Josephine/Josie/Newman/Newnam/Gilbert/1902 token 0 in those
+    surname-specific pages.
+
+Anderson KYGenWeb landing OPENED (href /anderson/marriages/index.html).
+  /anderson/marriages/ and /anderson/marriages.html HTTP 404 (1,543-byte stub).
+  /anderson/africanamerican/marriages.html 404. USGW Marriages2.html timeout 20s.
+  n/a as a ~1902 Newnam license this pass (landing only; marriage index 404).
+
+Washington KYGenWeb landing OPENED; no marriage href on landing.
+  /washington/wedding.html /marriages.htm /vitals.htm HTTP 404.
+  USGW washington.html timeout 25s.
+
+Jefferson KYGenWeb landing OPENED (redirect to usgenwebsites.org/KYJefferson/, 7,781 bytes).
+  /marriages.htm 404 (355 bytes). records-data.php OPENED:
+    Misc newspaper marriages by bride/groom OPENED — 1865 Courier-Journal
+    extracts only (Carlisle/Harcourt/Hegan/Mills; Hockersmith/Netherland/Smith).
+    n/a ~1902. Nil Josephine/Newman/Newnam/Gilbert.
+  kentuckygengirl.angelfire.com/JeffersonMarriages.html DNS fail (host unresolved).
+
+Henry KYGenWeb wedding.html OPENED (22,954 bytes).
+  Burns 1798–1851 N and G letter pages OPENED: Newman/Newnam/Gilbert token 0.
+    n/a ~1902.
+  1852–1859 N OPENED: Newman/Newnam/Josephine token 0. n/a ~1902.
+  1860–1866 N OPENED: LeCompte, Josephine other (1860s; maiden LeCompte ≠ Newnam).
+  lnmarr.htm 1865–1900 PARTIAL OPENED (75,739 bytes):
+    James P. Newman × Siberiah, 2 Jan 1868 other;
+    Lucian Evans × Josephine Dunaway, 4 Feb 1869 — DISPROVED as this ~1902 bride
+      (1869; maiden Dunaway ≠ Newnam; groom Evans ≠ Gilbert);
+    Delbert Newman, 9 Sep 1869 other.
+  vtmarr.htm 1892–1911 PARTIAL OPENED (82,420 bytes) covering 1902:
+    TINGLE, Josephine × J. R. Kendall, 22 Dec 1892 — DISPROVED
+      (maiden Tingle ≠ Newnam; groom Kendall ≠ Gilbert; 1892);
+    KELLY, Alonzo × Fronie Newman, 24 Jun 1896 other (Fronie ≠ Josephine; 1896);
+    1902 rows in the opened partial list are other couples (e.g. Adams, Bettie ×
+      Fornie Willhite 29 Apr 1902 Pleasureville; Adams, Charles × Aetna Crim
+      12 Nov 1902). Nil Josephine Newnam × Gilbert in the opened 1892–1911 table.
+    Partial list, not a county-wide 1902 register.
+
+Clay KYGenWeb /clay/marriages/ OPENED (20,653 bytes). Live path
+  (prior `{county}/marriages.htm` 404 still true). Compiled volunteer index
+  (Petra Gibson submissions + early 1800s), not a complete 1902 register.
+  Grooms G OPENED: Gilbert, Wallace W. × Jones, Susan 22 Oct 1823 n/a;
+    Gilbert, William × Douglas, Martha 21 Feb 1825 n/a.
+    Gibson, Gilbert is a given-name Gilbert, other.
+  Grooms N–Q OPENED: Newman/Newnam token 0.
+  Brides I–L OPENED: Josephine/Josie token 0.
+  Brides M–N OPENED: Newman/Newnam token 0.
+  Brides G OPENED: Gilbert, Harriet 5 Dec 1814 / Marianne 2 Apr 1821 /
+    Sally 15 Jan 1825 / Sylvania 6 Jan 1853 — n/a ~1902.
+  Nil Josephine Newnam × Gilbert in the opened G/N/J letters.
+
+Lee Marriage Book 8 (1906–1909) re-opened (470,563 bytes; already nil for
+  Josephine×Gilbert in Pass 71 C763). This pass specific others:
+  Press ABSHEAR × Kate NEWNAM, 12 Feb 1909 at Frank Newnam’s, Lee;
+    bride 19, father Frank Newnam Lee, mother Manda Burns Owsley;
+    witnesses Malcom Newnam & E. H. Abshear — other (Kate ≠ Josephine;
+    1909; groom Abshear ≠ Gilbert). n/a ~1902.
+  William HORN × Josie BLOUNT other (maiden Blount ≠ Newnam).
+  Albert RADER × Josie ADDISON other (maiden Addison ≠ Newnam).
+  Elisha THOMAS × Martha NEWMAN, 10 Jan 1907; bride’s father Henry Newman
+    Lee, mother Ellen Pardugh — other (Martha ≠ Josephine; 1907; Thomas ≠
+    Gilbert). Do not merge this Henry Newman × Ellen Pardugh with Henry H.
+    Newnam × Mary J. Pardington (Hard Rule 3).
+  Josephine token 0 as a bride heading. Nil Josephine Newnam × Gilbert.
+
+KY Footsteps N surname dir OPENED.
+  Newman/ OPENED: no ~1902 marriage file. Files are 1824 Spencer deeds,
+    later Breckinridge cemetery/military, Newman.Florence.1924.Owsley.DEATH.txt
+    (other; 1924 death, not a ~1902 license), later obituaries.
+  Newnam/ HTTP 404.
+  Newsom/ OPENED: Breckinridge cemetery/military only; no ~1902 marriage.
+
+Bell KYGenWeb license-JPG directory listing OPENED (51,465 bytes).
+  Josephine/Josie/Newnam/Newman/Gilbert/1902 token 0 in the HTML listing
+  (filenames are not those tokens). Not a name-searchable 1902 register.
+
+Chronicling America KY 1901–1903 Josephine Gilbert / Josephine Newman /
+  Josie Gilbert: curl redirected to loc.gov collections search HTTP 403
+  (6,026-byte shells). WebFetch of results page timed out. Pages unseen.
+
+License still unseen. Do not close B063.

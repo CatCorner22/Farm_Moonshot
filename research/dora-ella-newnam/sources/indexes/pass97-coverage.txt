@@ -1,0 +1,56 @@
+Pass 97 coverage — 31 Oct 2026 (America/New_York)
+This run bc-01a18bb4-e162-785c-9724-86a7c5663bf1
+Catalog list-cloud-agents includeArchived limit 200 → 184 / hasMore false / totalMatched 184.
+Was 181 (Pass 96). NEW vs 181 (3; no IDs imported):
+  Scan remaining IN leftover sheets ERROR
+    bc-8ff3ee33-c379-597d-a36f-bbdbb04c1939
+  Read MO Pass 96 leftover sheets RUNNING
+    bc-fe8f8989-5e59-56c7-85ed-890fefb54f09
+    (additional MO reader; twin of bc-16d11e46 still RUNNING)
+  Dora Henry Hart 1850 RUNNING
+    bc-3f9f34c6-136f-53fc-a616-76ef7440c8dd
+Status-only (not new IDs):
+  Hunt Dora / B068 / B070 / B071 / B072 renamed B073 Van Buren 1910 remaining
+    same id bc-aa43eaa5-be23-54be-a20a-7a5238fd33f8 still RUNNING.
+  Continue Dora genealogy IDLE
+    bc-7eb25736-d3e3-510a-83d6-9535752f0297
+    bc-d7a3569c-3baa-589d-8f26-02d269c034dd (second chat; process-fold only)
+  Read IN Pass 96 leftover sheets RUNNING
+    bc-f5477cb1-6147-54c9-8510-3bc7f8d48fbc
+  Read MO leftover twin RUNNING bc-16d11e46-af38-54ea-98b4-48815d804f4c
+  Dora Todd Trigg 1850 IDLE bc-d402e9f9-c292-5a29-a56c-f1cca5336c4b
+  Read remaining Pass 96 KY AR TN IDLE bc-ea843d3b-42d9-5361-a41e-a79495bd0738
+  Read AR IL leftover IDLE bc-504dd9ff-1805-57c1-aad3-88d5adface18
+  Read KY leftover IDLE bc-230cb512-de5d-5557-9c9d-c027ed7a75c0
+  Dora 1840 Clark B059 IDLE bc-c271254f-13fb-5d32-aacf-df94d1c9945e
+  Scan ED5 pages 405-434 RUNNING bc-0039b8bf-7edb-593b-82c3-cb59471d392a
+  Dora location search RUNNING
+    bc-995d22ea-9633-4d0d-a5ef-c36b6ff78d03
+  Dora's biography research WAITING_FOR_BACKGROUND_WORK PR #33
+    (sibling C281 not imported)
+  Project status review WAITING_FOR_BACKGROUND_WORK
+    bc-03731ef0-c166-4815-8e88-715fe0ab2b6a
+Nested reviewer not respawned. Message queue empty.
+Skip C221–C280 / L245–L342 / S259–S266.
+Do not mint C274–C280. Do not promote C509. Do not hunt D-540.
+Do not close B063. Do not hunt remaining 1930 Owsley sheets (closed Pass 94).
+Do not import C281. Do not invent T288 card contents.
+Do not file Mary Jane Steele DISPROVED from FAG 403.
+Do not treat Catalog quoted Newnam title-nil as a T288 card-nil.
+
+Work this pass:
+- T288 IIIF retry: reel 348 frame 01001 info.json timeout 40s (0 bytes).
+  Pixel JPEG /full/32,/0/default.jpg timeout 40s 0 bytes. Reel 347
+  frame 01001 info.json timeout 40s 0 bytes. Catalog /id/ SPA 5454 bytes.
+  Do not invent card contents.
+- Josephine remaining: Carter Gilbert FAN 1838–1871 n/a; KY Footsteps
+  Gilbert dir (1931 Clay other); Clark Hall-only + early bonds; Anderson
+  marriages 404; Henry 1892–1911 partial covering 1902 / 1865–1900;
+  Clay live /marriages/ G/N/J letters; Jefferson 1865 newspapers n/a;
+  Lee Book 8 Kate Newnam 1909 other; KY Footsteps Newman dir no ~1902
+  marriage; Bell license-JPG listing token 0; Washington 404.
+- TFKRHA 1916 C https 429 Vercel checkpoint (not a fourth extract).
+- Remaining 1930 Owsley not re-hunted.
+- 1916 DC face / ED 92 hh 1–13 / 1840 bond / M123-3 not opened this pass.
+
+B061 / B063 remain open. Next unused after this pass: C1053+ / L928+ / S717+ / DOC219+.

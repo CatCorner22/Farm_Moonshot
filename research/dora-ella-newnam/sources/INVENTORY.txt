@@ -2718,3 +2718,16 @@ research/dora-ella-newnam/sources/census/1880-lee-ky-ed59-sheet43-p768-caroline-
   sha256: 7f1636f3f45c3cec260cbea86ca20c5b69a9bed3593e369395f1a7f149d64b87
   format: text extract, 1,423 bytes
   check: T288 IIIF reel 348 info previously 200 then timeout; pixels unseen
+
+/workspace/research/dora-ella-newnam/sources/indexes/pass97-coverage.txt
+  sha256: 0253cb80ab62a32e135ae0ec9e8909f5d2a4738e972bfacc2f6ae47eec647368
+  format: text extract, 3,091 bytes
+  check: Pass 97 coverage; catalog 184 was 181; Josephine remaining; T288 IIIF 40s timeout
+/workspace/research/dora-ella-newnam/sources/indexes/josephine-gilbert-pass97.txt
+  sha256: 182d15803185c98c1c348909e6444b47434161137f0963f012066dfce411a6d5
+  format: text extract, 6,399 bytes
+  check: Carter Gilbert FAN 1838-1871 n/a; Henry Tingle 1892 DISPROVED; Clay live G/N/J nil
+/workspace/research/dora-ella-newnam/sources/indexes/t288-iiif-retry-pass97.txt
+  sha256: f4ab372c57ac0a5185777bd0855f348f4c4430ba212d983ecf62c2f76657a1fd
+  format: text extract, 1,868 bytes
+  check: T288 IIIF reel 348/347 timeout 40s; pixels unseen; TFKRHA 429
