@@ -1,0 +1,941 @@
+Breckinridge, KY 1850 Federal Census     (INDEX - File 6 of 6)
+
+This Census was transcribed by Brenda Wheeler and proofread by John Wheeler 
+for the USGenWeb Census Project®, http://www.usgenweb.org/census.
+
+Copyright 2000 by Brenda Wheeler <jwheeler@bardstown.com>
+
+==========================================================================
+USGENWEB (US-CENSUS) NOTICE: These electronic pages may NOT be reproduced
+in any format for profit or presentation by any other organization.
+Non-commercial organizations desiring to use this material must obtain
+the consent of the transcriber prior to use.  <Transcriber@US-Census.org>
+Individuals desiring to use this material in their own research may do so.
+==========================================================================
+Thanks to S-K Publications for providing the census page photocopies from
+which this transcription was made.  The complete original, handwritten
+census of this county is available in book form (including a typed index)
+from S-K Publications, PO Box 8173, Wichita KS 67208
+(www.skpub.com/genie/census.html).
+============================================================================
+All of the above information must remain when copied or downloaded.
+============================================================================
+
+THIS IS AN INDEX SORTED BY NAME.
+FOR COMPLETE CENSUS INFORMATION, OPEN THE FILE NAME FOR THAT LINE.
+http://ftp.us-census.org/pub/usgenweb/census/ky/breckinridge/1850/
+
+=============================================================================
+Pg#  Ln#  Last Name      First Name       Age   Birth Place       Filename
+=============================================================================
+131a  38  TABOR          Elizabeth        19    Ky.               pg0127b.txt
+125a  1   TABOR          Hariet           18    Ky.               pg0118b.txt
+125a  3   TABOR          James            7     Ky.               pg0118b.txt
+95b   39  TABOR          Marcella         17    Ky.               pg0090b.txt
+124b  42  TABOR          Nancy            45    Ky.               pg0118b.txt
+124b  41  TABOR          Philip W.        50    Ky.               pg0118b.txt
+125a  2   TABOR          Silas M.         17    Ky.               pg0118b.txt
+99a   23  TABOR          Susan            58    Ky.               pg0090b.txt
+131a  37  TABOR          Thomas           21    Ky.               pg0127b.txt
+74a   8   TANNER         Frances          12    Kentucky          pg0072b.txt
+74a   6   TANNER         Henry            59    Kentucky          pg0072b.txt
+74a   13  TANNER         Henry J.         19    Kentucky          pg0072b.txt
+74a   14  TANNER         Paulina          19    Kentucky          pg0072b.txt
+93a   24  TANNER         Samuel           35    Kentucky          pg0090b.txt
+74a   7   TANNER         Sarah            57    Virginia          pg0072b.txt
+57b   40  TATE           Alfred           3/12  Kentucky          pg0054b.txt
+116b  6   TATE           Alfred           27    Ky.               pg0109b.txt
+116b  7   TATE           Ann              24    Ky.               pg0109b.txt
+57b   38  TATE           Archibald        4     Kentucky          pg0054b.txt
+57b   37  TATE           Catharine        9     Kentucky          pg0054b.txt
+57b   33  TATE           Cinderella       30    Kentucky          pg0054b.txt
+60a   39  TATE           Columbus         7     Kentucky          pg0054b.txt
+60a   31  TATE           Craven           43    Kentucky          pg0054b.txt
+60a   40  TATE           Ellis            4     Kentucky          pg0054b.txt
+116b  9   TATE           Emeline          1     Ky.               pg0109b.txt
+60a   37  TATE           Emily            11    Kentucky          pg0054b.txt
+116b  3   TATE           James            60    Tenn.             pg0109b.txt
+60a   41  TATE           James            1     Kentucky          pg0054b.txt
+57b   36  TATE           L???? J.         9     Kentucky          pg0054b.txt
+60a   38  TATE           Laetitia         9     Kentucky          pg0054b.txt
+112a  39  TATE           Latitia          4     Ky.               pg0109b.txt
+57b   39  TATE           Littleberry      2     Kentucky          pg0054b.txt
+60a   33  TATE           Littleberry      19    Kentucky          pg0054b.txt
+112a  40  TATE           Malissa          2     Ky.               pg0109b.txt
+116b  4   TATE           Mary             53    Va.               pg0109b.txt
+60a   35  TATE           Mary E.          16    Kentucky          pg0054b.txt
+112a  38  TATE           Mary J.          20    Ky.               pg0109b.txt
+112a  37  TATE           Milton           28    Ky.               pg0109b.txt
+116b  8   TATE           Nancy            6     Ky.               pg0109b.txt
+57b   34  TATE           Nancy            15    Kentucky          pg0054b.txt
+60a   34  TATE           Nancy E.         18    Kentucky          pg0054b.txt
+116b  5   TATE           Polina J.        17    Ky.               pg0109b.txt
+57b   32  TATE           Samuel W.        36    Kentucky          pg0054b.txt
+60a   32  TATE           Susan            41    Virginia          pg0054b.txt
+142a  23  TATE           William          9     Ky.               pg0136b.txt
+60a   36  TATE           William          13    Kentucky          pg0054b.txt
+57b   35  TATE           William P.       10    Kentucky          pg0054b.txt
+90b   21  TAYLOR         Abraham V.       27    Kentucky          pg0090b.txt
+111a  19  TAYLOR         Charlotte        21    Ky.               pg0109b.txt
+121b  21  TAYLOR         Chas. A.         34    Ohio              pg0118b.txt
+121b  24  TAYLOR         George           3     Ky.               pg0118b.txt
+113b  23  TAYLOR         Godfrey          30    Ky.               pg0109b.txt
+113b  21  TAYLOR         James            60    N.C.              pg0109b.txt
+110a  29  TAYLOR         James            23    Ky.               pg0109b.txt
+121b  23  TAYLOR         James H.         5     Ky.               pg0118b.txt
+111a  17  TAYLOR         James S.         60    Va.               pg0109b.txt
+113b  24  TAYLOR         James W.         21    Ky.               pg0109b.txt
+90b   23  TAYLOR         Jane             5     Kentucky          pg0090b.txt
+90b   24  TAYLOR         John             3     Kentucky          pg0090b.txt
+138a  15  TAYLOR         Jonithan         20    Ky.               pg0136b.txt
+111a  21  TAYLOR         Mark             18    Ky.               pg0109b.txt
+90b   22  TAYLOR         Martha           27    Virginia          pg0090b.txt
+113b  25  TAYLOR         Martha P.        17    Ky.               pg0109b.txt
+121b  25  TAYLOR         Mary             8/12  Ky.               pg0118b.txt
+138a  13  TAYLOR         Mary             52    Ky.               pg0136b.txt
+121b  22  TAYLOR         Mildred J.       28    Ky.               pg0118b.txt
+111a  20  TAYLOR         Rhoda A.         15    Ky.               pg0109b.txt
+113b  22  TAYLOR         Sally            56    Va.               pg0109b.txt
+138a  14  TAYLOR         Sarah            24    Ky.               pg0136b.txt
+90b   25  TAYLOR         Susan            1     Kentucky          pg0090b.txt
+138a  12  TAYLOR         Thompson         50    Ky.               pg0136b.txt
+122b  10  THIRMAR        Lydia            9     Ky.               pg0118b.txt
+118a  18  THOMAS         Alfred           2     Ky.               pg0109b.txt
+93a   37  THOMAS         Alice H.         5     Kentucky          pg0090b.txt
+93a   35  THOMAS         Anne R.          12    Kentucky          pg0090b.txt
+131b  6   THOMAS         Elizabeth        52    Ky.               pg0127b.txt
+131b  7   THOMAS         Goldsbury        30    Ky.               pg0127b.txt
+118a  14  THOMAS         Isaac H.         29    Mo.               pg0109b.txt
+122b  8   THOMAS         John D.          39    Ky.               pg0118b.txt
+131b  5   THOMAS         Joseph           54    Va.               pg0127b.txt
+131b  8   THOMAS         Joseph           17    Ky.               pg0127b.txt
+93a   31  THOMAS         Joshua H.        46    Virginia          pg0090b.txt
+93a   34  THOMAS         Lucy H.          17    Virginia          pg0090b.txt
+93a   32  THOMAS         Lucy L.C.        47    Virginia          pg0090b.txt
+131b  9   THOMAS         Margaret         14    Ky.               pg0127b.txt
+131b  11  THOMAS         Mary             7     Ky.               pg0127b.txt
+118a  15  THOMAS         Mary A.          21    Ky.               pg0109b.txt
+122b  9   THOMAS         Rachael          45    Md.               pg0118b.txt
+118a  16  THOMAS         Susan E.         4     Ky.               pg0109b.txt
+93a   33  THOMAS         Susan M.         20    Virginia          pg0090b.txt
+93a   36  THOMAS         Virginia Y.      9     Kentucky          pg0090b.txt
+131b  10  THOMAS         Wallice          11    Ky.               pg0127b.txt
+118a  17  THOMAS         William H.       3     Ky.               pg0109b.txt
+90b   12  THORNHILL      Benjamin F.      6     Kentucky          pg0090b.txt
+90b   14  THORNHILL      Emeline T.       3     Kentucky          pg0090b.txt
+90b   10  THORNHILL      James W.         16    Kentucky          pg0090b.txt
+90b   13  THORNHILL      Mary F.          5     Kentucky          pg0090b.txt
+90b   15  THORNHILL      Nancy A.         1     Kentucky          pg0090b.txt
+90b   8   THORNHILL      Peyton           39    Virginia          pg0090b.txt
+90b   9   THORNHILL      Sarah            28    Virginia          pg0090b.txt
+90b   11  THORNHILL      Sarah E.         14    Kentucky          pg0090b.txt
+90b   16  THORNHILL      William          98    Maryland          pg0090b.txt
+87a   25  THURMAN        Elizabeth        5     Kentucky          pg0081b.txt
+68b   12  THURMAN        Mary             56    Kentucky          pg0063b.txt
+68b   13  THURMAN        Meritt A.        16    Kentucky          pg0063b.txt
+68b   11  THURMAN        Philip           60    Kentucky          pg0063b.txt
+68b   14  THURMAN        Thomas           20    Kentucky          pg0063b.txt
+69a   29  TILLEY         Alcey            4     Kentucky          pg0063b.txt
+68b   22  TILLEY         Amanda           25    Kentucky          pg0063b.txt
+68b   27  TILLEY         Amanda F.        1     Kentucky          pg0063b.txt
+81a   42  TILLEY         Andrew J.        22    Kentucky          pg0072b.txt
+81b   3   TILLEY         Catharine        11    Kentucky          pg0081b.txt
+69a   17  TILLEY         Catherine A.     5     Kentucky          pg0063b.txt
+69a   28  TILLEY         Charlotte        6     Kentucky          pg0063b.txt
+81b   7   TILLEY         Eliza            21    Kentucky          pg0081b.txt
+81b   2   TILLEY         Eliza            14    Kentucky          pg0081b.txt
+69a   18  TILLEY         George           3     Kentucky          pg0063b.txt
+81b   6   TILLEY         George W.        19    Kentucky          pg0081b.txt
+68b   25  TILLEY         Greenberry       6     Kentucky          pg0063b.txt
+68b   24  TILLEY         James            8     Kentucky          pg0063b.txt
+69a   30  TILLEY         James            2     Kentucky          pg0063b.txt
+69a   13  TILLEY         James R.         39    N. Carolina       pg0063b.txt
+81b   4   TILLEY         Joel Ann         7     Kentucky          pg0081b.txt
+68b   23  TILLEY         Joel S.          10    Kentucky          pg0063b.txt
+69a   26  TILLEY         Joseph R.        30    N. Carolina       pg0063b.txt
+68b   26  TILLEY         Lucy A.          3     Kentucky          pg0063b.txt
+69a   19  TILLEY         Mary             7/12  Kentucky          pg0063b.txt
+81a   41  TILLEY         Mary             50    N. Carolina       pg0072b.txt
+69a   14  TILLEY         Mary             28    Kentucky          pg0063b.txt
+81b   1   TILLEY         Mary             16    Kentucky          pg0081b.txt
+69a   16  TILLEY         Missouri A.      7     Kentucky          pg0063b.txt
+69a   27  TILLEY         Nancy            25    Kentucky          pg0063b.txt
+69a   15  TILLEY         William          10    Kentucky          pg0063b.txt
+68b   21  TILLEY         William B.       30    N. Carolina       pg0063b.txt
+148b  28  TOMES          Ella             33    Ky.               pg0145b.txt
+148b  32  TOMES          Jacob            5/12  Ky.               pg0145b.txt
+148b  27  TOMES          John             35    Europe            pg0145b.txt
+148b  42  TOMES          John H.          3     Ky.               pg0145b.txt
+148b  30  TOMES          Margaret         6     Ky.               pg0145b.txt
+148b  29  TOMES          Mary             9     Ky.               pg0145b.txt
+148b  31  TOMES          Sarah            4     Ky.               pg0145b.txt
+87a   22  TRENT          Daniel           5     Kentucky          pg0081b.txt
+87a   17  TRENT          Eliza            17    Kentucky          pg0081b.txt
+81a   26  TRENT          Elizabeth        36    Virginia          pg0072b.txt
+84b   5   TRENT          Green M.C.       6     Kentucky          pg0081b.txt
+84b   3   TRENT          James A.         16    Kentucky          pg0081b.txt
+81a   28  TRENT          Jarrett          10    Kentucky          pg0072b.txt
+84b   1   TRENT          Joel             42    Virginia          pg0081b.txt
+87a   18  TRENT          Joel             15    Kentucky          pg0081b.txt
+87a   20  TRENT          John             10    Kentucky          pg0081b.txt
+81a   30  TRENT          Marcus           4     Kentucky          pg0072b.txt
+87a   16  TRENT          Martha           28    Kentucky          pg0081b.txt
+87a   21  TRENT          Mary             7     Kentucky          pg0081b.txt
+81a   29  TRENT          Mary             6     Kentucky          pg0072b.txt
+84b   2   TRENT          Matilda          34    Virginia          pg0081b.txt
+87a   19  TRENT          Miranda          13    Kentucky          pg0081b.txt
+84b   6   TRENT          Missouri A.      3     Kentucky          pg0081b.txt
+87a   23  TRENT          Nancy            3     Kentucky          pg0081b.txt
+87a   13  TRENT          Nicholas         65    Virginia          pg0081b.txt
+81a   25  TRENT          Obadiah          37    Kentucky          pg0072b.txt
+87a   15  TRENT          Peyton           44    Virginia          pg0081b.txt
+87a   14  TRENT          Rachael          77    Virginia          pg0081b.txt
+81a   31  TRENT          Rachael a.       2     Kentucky          pg0072b.txt
+84b   4   TRENT          Stanley          13    Kentucky          pg0081b.txt
+81a   27  TRENT          William          12    Kentucky          pg0072b.txt
+132a  11  TRIPLET        Granville        11    Ky.               pg0127b.txt
+132a  8   TRIPLET        Jane             18    Ky.               pg0127b.txt
+132a  10  TRIPLET        Margaret E.      14    Ky.               pg0127b.txt
+132a  7   TRIPLET        Nancy            19    Ky.               pg0127b.txt
+132a  9   TRIPLET        Sabina           16    Ky.               pg0127b.txt
+132a  6   TRIPLET        Susan            37    Ky.               pg0127b.txt
+132a  13  TRIPLET        Susan            2/12  Ky.               pg0127b.txt
+132a  12  TRIPLET        Thomas           2     Ky.               pg0127b.txt
+132a  5   TRIPLET        Thos.            45    Ky.               pg0127b.txt
+59a   30  TUCKER         Adeline          4/12  Kentucky          pg0054b.txt
+93b   6   TUCKER         Allen            17    Kentucky          pg0090b.txt
+132b  1   TUCKER         Amy              16    Ky.               pg0127b.txt
+65a   25  TUCKER         Bannister        22    .                 pg0063b.txt
+149a  15  TUCKER         Bevin            23    Ky.               pg0145b.txt
+132b  6   TUCKER         Caroline         4     Ky.               pg0127b.txt
+65a   39  TUCKER         Catherine F.     6     Kentucky          pg0063b.txt
+59a   33  TUCKER         Charles B.       21    Kentucky          pg0054b.txt
+89a   11  TUCKER         Charlotte M.     25    Virginia          pg0081b.txt
+132b  2   TUCKER         Christianna      15    Ky.               pg0127b.txt
+80a   33  TUCKER         Daniel           2     Kentucky          pg0072b.txt
+59a   34  TUCKER         David            15    Kentucky          pg0054b.txt
+65a   34  TUCKER         Delia            22    Kentucky          pg0063b.txt
+65a   37  TUCKER         Elijah C.        14    Kentucky          pg0063b.txt
+64b   4   TUCKER         Elisha A.        14    Kentucky          pg0063b.txt
+109a  25  TUCKER         Eliza            38    KY.               pg0100b.txt
+70b   1   TUCKER         Elizabeth        21    Kentucky          pg0063b.txt
+58b   31  TUCKER         Elizabeth        2     Kentucky          pg0054b.txt
+64b   3   TUCKER         Elizabeth        16    Kentucky          pg0063b.txt
+63b   2   TUCKER         Ezra             18    Kentucky          pg0063b.txt
+64a   42  TUCKER         Fatima           23    Kentucky          pg0063b.txt
+70b   4   TUCKER         Francis M        10    Kentucky          pg0063b.txt
+65a   24  TUCKER         George           3     Kentucky          pg0063b.txt
+80a   32  TUCKER         George A.        6     Kentucky          pg0072b.txt
+64b   2   TUCKER         Harrison         18    Kentucky          pg0063b.txt
+66a   42  TUCKER         Henry            27    Kentucky          pg0063b.txt
+66b   5   TUCKER         Hester ann       10    Kentucky          pg0063b.txt
+66b   9   TUCKER         Hiram            24    Kentucky          pg0063b.txt
+63a   40  TUCKER         Isaac            3     Kentucky          pg0054b.txt
+70a   41  TUCKER         Jacob            58    Kentucky          pg0063b.txt
+65a   32  TUCKER         James            53    Virginia          pg0063b.txt
+63b   7   TUCKER         James            2     Kentucky          pg0063b.txt
+66a   31  TUCKER         James            15    Kentucky          pg0063b.txt
+59a   35  TUCKER         James            12    Kentucky          pg0054b.txt
+89a   10  TUCKER         James A.         27    Virginia          pg0081b.txt
+65a   27  TUCKER         James F.         27    Kentucky          pg0063b.txt
+80b   25  TUCKER         Jesse            23    Kentucky          pg0072b.txt
+80a   24  TUCKER         John             91    Virginia          pg0072b.txt
+64a   40  TUCKER         John             50    Virginia          pg0063b.txt
+65a   36  TUCKER         John             16    Kentucky          pg0063b.txt
+80a   29  TUCKER         John B.          12    Kentucky          pg0072b.txt
+63a   41  TUCKER         John W.          7/12  Kentucky          pg0054b.txt
+65a   31  TUCKER         Jones W.         1     Kentucky          pg0063b.txt
+63a   39  TUCKER         Josa             22    Kentucky          pg0054b.txt
+66b   2   TUCKER         Joseph           38    Kentucky          pg0063b.txt
+66b   7   TUCKER         Laetitia         3     Kentucky          pg0063b.txt
+109a  26  TUCKER         Latilea          18    KY.               pg0100b.txt
+109a  27  TUCKER         Logan            16    KY.               pg0100b.txt
+66b   6   TUCKER         Louisa J.        6     Kentucky          pg0063b.txt
+80a   27  TUCKER         Lucretia         33    Kentucky          pg0072b.txt
+63b   5   TUCKER         Lucy             10    Kentucky          pg0063b.txt
+70b   3   TUCKER         Lucy J.          13    Kentucky          pg0063b.txt
+66b   4   TUCKER         Margaret         14    Kentucky          pg0063b.txt
+66a   33  TUCKER         Margaret         11    Kentucky          pg0063b.txt
+70b   2   TUCKER         Margaret A.      15    Kentucky          pg0063b.txt
+63b   8   TUCKER         Margaret H.      1     Kentucky          pg0063b.txt
+80a   25  TUCKER         Martha           80    Virginia          pg0072b.txt
+132b  5   TUCKER         Martha           10    Ky.               pg0127b.txt
+149a  16  TUCKER         Martha A.        15    Ky.               pg0145b.txt
+64b   5   TUCKER         Martha A.        12    Kentucky          pg0063b.txt
+66b   3   TUCKER         Martha E.        34    Kentucky          pg0063b.txt
+65a   35  TUCKER         Martha E.        18    Kentucky          pg0063b.txt
+66a   29  TUCKER         Mary             49    Kentucky          pg0063b.txt
+58b   30  TUCKER         Mary             30    Kentucky          pg0054b.txt
+66a   32  TUCKER         Mary             13    Kentucky          pg0063b.txt
+132b  4   TUCKER         Mary             12    Ky.               pg0127b.txt
+59a   29  TUCKER         Mary E.          5     Kentucky          pg0054b.txt
+66b   1   TUCKER         Mary E.          25    Kentucky          pg0063b.txt
+65a   38  TUCKER         Mary M.          11    Kentucky          pg0063b.txt
+66b   8   TUCKER         Mary W.          6/12  Kentucky          pg0063b.txt
+63b   6   TUCKER         Matha            7     Kentucky          pg0063b.txt
+132b  7   TUCKER         Matthis          3     Ky.               pg0127b.txt
+70a   42  TUCKER         Nancy            50    Virginia          pg0063b.txt
+64a   41  TUCKER         Nancy            50    Kentucky          pg0063b.txt
+132b  3   TUCKER         Nancy            13    Ky.               pg0127b.txt
+109a  29  TUCKER         Nancy            11    KY.               pg0100b.txt
+80a   30  TUCKER         Parthenia        10    Kentucky          pg0072b.txt
+63a   42  TUCKER         Pleasant         48    Virginia          pg0054b.txt
+63b   1   TUCKER         Polly            33    Kentucky          pg0063b.txt
+66b   10  TUCKER         Rebecca          21    Kentucky          pg0063b.txt
+109a  24  TUCKER         Rial             43    KY.               pg0100b.txt
+80a   31  TUCKER         Richard A.       8     Kentucky          pg0072b.txt
+80a   26  TUCKER         Robert           32    Kentucky          pg0072b.txt
+66a   34  TUCKER         Sally            9     Kentucky          pg0063b.txt
+63a   38  TUCKER         Samuel           23    Kentucky          pg0054b.txt
+132b  8   TUCKER         Sarah            7/12  Ky.               pg0127b.txt
+59a   28  TUCKER         Sarah            27    Kentucky          pg0054b.txt
+65a   28  TUCKER         Sarah            24    Kentucky          pg0063b.txt
+63b   4   TUCKER         Sarah J.         13    Kentucky          pg0063b.txt
+65a   33  TUCKER         Sarah R.         50    Virginia          pg0063b.txt
+59a   32  TUCKER         Selly            48    Maryland          pg0054b.txt
+132a  42  TUCKER         Simeon B.        17    Ky.               pg0127b.txt
+109a  28  TUCKER         Stephen          14    KY.               pg0100b.txt
+132a  41  TUCKER         Susan            34    Ky.               pg0127b.txt
+65a   30  TUCKER         Susan J.         3     Kentucky          pg0063b.txt
+58b   29  TUCKER         Thomas           24    Kentucky          pg0054b.txt
+64b   6   TUCKER         Thomas D.        6     Kentucky          pg0063b.txt
+65a   29  TUCKER         Thomas W.        5     Kentucky          pg0063b.txt
+63b   3   TUCKER         Valentine        15    Kentucky          pg0063b.txt
+59a   31  TUCKER         Wiley            52    Virginia          pg0054b.txt
+66a   28  TUCKER         William          55    N. Carolina       pg0063b.txt
+132a  40  TUCKER         William          24    Ky.               pg0127b.txt
+66a   30  TUCKER         William          21    Kentucky          pg0063b.txt
+80a   28  TUCKER         William M.       13    Kentucky          pg0072b.txt
+59a   27  TUCKER         William W.       30    Kentucky          pg0054b.txt
+64b   1   TUCKER         William W.       20    Kentucky          pg0063b.txt
+82b   15  TURNER         Alfred           39    Kentucky          pg0081b.txt
+82b   17  TURNER         David F.         16    Kentucky          pg0081b.txt
+82b   22  TURNER         Greenberry F.    4     Kentucky          pg0081b.txt
+120a  37  TURNER         James A.         31    Ky.               pg0118b.txt
+82b   16  TURNER         Mary A.          37    Kentucky          pg0081b.txt
+82b   21  TURNER         Mary C.          6     Kentucky          pg0081b.txt
+82b   19  TURNER         Phebe            10    Kentucky          pg0081b.txt
+82b   18  TURNER         Rhoda A.         13    Kentucky          pg0081b.txt
+82b   20  TURNER         Watson           8     Kentucky          pg0081b.txt
+61b   17  TURPIN         Boen G.          26    Kentucky          pg0054b.txt
+57a   5   TURPIN         Calitha J.       22    Kentucky          pg0054b.txt
+57a   3   TURPIN         Charity          56    Virginia          pg0054b.txt
+61b   19  TURPIN         Courtney         5     Kentucky          pg0054b.txt
+58a   27  TURPIN         Edward           34    Kentucky          pg0054b.txt
+61b   18  TURPIN         Elizabeth        29    Kentucky          pg0054b.txt
+57a   2   TURPIN         Martin           59    Kentucky          pg0054b.txt
+58a   9   TURPIN         Polly            76    Virginia          pg0054b.txt
+57a   4   TURPIN         Polly Ann        36    Kentucky          pg0054b.txt
+57a   6   TURPIN         Rachael A.       20    Kentucky          pg0054b.txt
+61b   20  TURPIN         Saphnonia        2     Kentucky          pg0054b.txt
+58a   8   TURPIN         Solomon          83    Virginia          pg0054b.txt
+57a   7   TURPIN         Solomon          18    Kentucky          pg0054b.txt
+61b   21  TURPIN         Washington       20    Kentucky          pg0054b.txt
+47a   41  TUTTLE         Alexander        8     Kentucky          pg0045b.txt
+47a   42  TUTTLE         Charity A.       5     Kentucky          pg0045b.txt
+47b   1   TUTTLE         Francis          1     Kentucky          pg0045b.txt
+47a   40  TUTTLE         James F.         10    Kentucky          pg0045b.txt
+47a   39  TUTTLE         Mary E.          12    Kentucky          pg0045b.txt
+47a   38  TUTTLE         Nancy            38    Kentucky          pg0045b.txt
+47a   37  TUTTLE         William          45    Kentucky          pg0045b.txt
+97a   26  TYDINGS        Charles B.       18    Ky.               pg0090b.txt
+97a   31  TYDINGS        Charles T.       8     Ky.               pg0090b.txt
+97a   23  TYDINGS        Eliza A.         54    Va.               pg0090b.txt
+97a   30  TYDINGS        Emma L.          11    Ky.               pg0090b.txt
+97a   27  TYDINGS        Joseph M.        13    Ky.               pg0090b.txt
+97a   29  TYDINGS        Mary E.          14    Ky.               pg0090b.txt
+97a   22  TYDINGS        Richard          67    Maryland          pg0090b.txt
+97a   25  TYDINGS        Richard          27    Pennsylvania      pg0090b.txt
+97a   24  TYDINGS        Susan            20    Ky.               pg0090b.txt
+77b   25  UNDERWOOD      Ellen            33    Virginia          pg0072b.txt
+77b   26  UNDERWOOD      John             5     Kentucky          pg0072b.txt
+77b   27  UNDERWOOD      Nancy            2     Kentucky          pg0072b.txt
+77b   24  UNDERWOOD      Simpson          29    Kentucky          pg0072b.txt
+122a  8   VANCAMP        Hanner           20    Pa.               pg0118b.txt
+122a  7   VANCAMP        John             29    Ohio              pg0118b.txt
+122a  9   VANCAMP        Theadore         2     Pa.               pg0118b.txt
+97a   20  VINCENT        Joseph T.        21    Ky.               pg0090b.txt
+113a  6   WADE           Behethlen        63    Ky.               pg0109b.txt
+109a  34  WAGGONER       Benjamin         ??    Va.               pg0100b.txt
+109a  42  WAGGONER       Eliza            3     Ky.               pg0100b.txt
+109a  36  WAGGONER       James            16    Ky.               pg0100b.txt
+109a  40  WAGGONER       John             9     Ky.               pg0100b.txt
+109b  1   WAGGONER       Louisa           1     Ky.               pg0109b.txt
+109a  37  WAGGONER       Lucinda          14    Ky.               pg0100b.txt
+109a  35  WAGGONER       Malinda W.       27    Pa.               pg0100b.txt
+109b  39  WAGGONER       Rebecca          5     Ky.               pg0109b.txt
+109b  35  WAGGONER       Rhoda A.         38    Ky.               pg0109b.txt
+109a  38  WAGGONER       Sarah            12    Ky.               pg0100b.txt
+109a  41  WAGGONER       Smith            5     Ky.               pg0100b.txt
+109b  34  WAGGONER       William          60    Va.               pg0109b.txt
+109a  39  WAGGONER       William          11    Ky.               pg0100b.txt
+124a  21  WAILES         Francis P.       3     Ky.               pg0118b.txt
+124a  16  WAILES         Lucinda F.       30    Ky.               pg0118b.txt
+124a  17  WAILES         Martin           17    Ky.               pg0118b.txt
+124a  19  WAILES         Nancy B.         10    Ky.               pg0118b.txt
+124a  18  WAILES         Rosana           16    Ky.               pg0118b.txt
+124a  20  WAILES         Sally A.         5     Ky.               pg0118b.txt
+124a  15  WAILES         William          46    Va.               pg0118b.txt
+114b  29  WAKEFIELD      Alice            1     Ky.               pg0109b.txt
+114b  26  WAKEFIELD      Anna M.          8     Ky.               pg0109b.txt
+114b  25  WAKEFIELD      Francis F.       10    Ky.               pg0109b.txt
+114b  22  WAKEFIELD      Jno              49    Ky.               pg0109b.txt
+114b  28  WAKEFIELD      Jno              3     Ky.               pg0109b.txt
+114b  24  WAKEFIELD      Martha T.        14    Ky.               pg0109b.txt
+114b  27  WAKEFIELD      Mary B.          5     Ky.               pg0109b.txt
+114b  23  WAKEFIELD      Sitha A.         29    Ky.               pg0109b.txt
+55b   26  WALE           Amanda           19    Kentucky          pg0054b.txt
+55b   29  WALE           Clinton          3     Kentucky          pg0054b.txt
+68b   18  WALE           David            4     Kentucky          pg0063b.txt
+68b   15  WALE           Henry H.         36    Kentucky          pg0063b.txt
+55b   24  WALE           Hopkins O.       42    Kentucky          pg0054b.txt
+55b   30  WALE           infant           11/12 Kentucky          pg0054b.txt
+68b   19  WALE           Junius W.        3     Kentucky          pg0063b.txt
+68b   16  WALE           Mary             30    Kentucky          pg0063b.txt
+55b   27  WALE           Mary Ann         18    Kentucky          pg0054b.txt
+55b   17  WALE           Nancy            77    Virginia          pg0054b.txt
+68b   17  WALE           Nancy B.         8     Kentucky          pg0063b.txt
+55b   25  WALE           Sally            37    Kentucky          pg0054b.txt
+55b   28  WALE           William          16    Kentucky          pg0054b.txt
+110a  37  WALKER         Alsey E.         23    Ky.               pg0109b.txt
+70b   41  WALKER         Benedict J.      35    Kentucky          pg0063b.txt
+115b  16  WALKER         Benjamin         8     Ky.               pg0109b.txt
+70b   42  WALKER         Catherine        34    Maryland          pg0063b.txt
+110a  36  WALKER         Chas. H.         28    Ky.               pg0109b.txt
+110b  28  WALKER         Clinton          2     Ky.               pg0109b.txt
+98a   17  WALKER         Drucilla         20    Pa.               pg0090b.txt
+111b  9   WALKER         Eliz             53    Ky.               pg0109b.txt
+111b  10  WALKER         Eliz             27    Ky.               pg0109b.txt
+111b  12  WALKER         Eliza            17    Ky.               pg0109b.txt
+110b  26  WALKER         Elmina           7     Ky.               pg0109b.txt
+111b  13  WALKER         Felix            14    Ky.               pg0109b.txt
+115b  14  WALKER         Felix            12    Ky.               pg0109b.txt
+98a   16  WALKER         Felix H.         29    Ky.               pg0090b.txt
+111b  11  WALKER         George           19    Ky.               pg0109b.txt
+98a   18  WALKER         Hannibat F.      1     Pa.               pg0090b.txt
+110b  24  WALKER         Harriet          28    Ky.               pg0109b.txt
+111b  8   WALKER         Henry            52    Ky.               pg0109b.txt
+110a  26  WALKER         Irvin            3     Ky.               pg0109b.txt
+71a   7   WALKER         James E.         2     Kentucky          pg0063b.txt
+110a  25  WALKER         Jane             24    Ky.               pg0109b.txt
+115b  18  WALKER         Jno              25    Ky.               pg0109b.txt
+110a  27  WALKER         Jno Tho.         1     Ky.               pg0109b.txt
+110b  23  WALKER         John G.          30    Ky.               pg0109b.txt
+71a   1   WALKER         John W.          14    Kentucky          pg0063b.txt
+115b  13  WALKER         Julia Ann        14    Ky.               pg0109b.txt
+115b  12  WALKER         Leonard          20    Ky.               pg0109b.txt
+110b  27  WALKER         Lucy J.          5     Ky.               pg0109b.txt
+110b  25  WALKER         Margaret J.      9     Ky.               pg0109b.txt
+110a  39  WALKER         Martha M.        1     Ky.               pg0109b.txt
+115b  20  WALKER         Mary A.          1     Ky.               pg0109b.txt
+71a   3   WALKER         Mary E.          10    Kentucky          pg0063b.txt
+115b  11  WALKER         Nancy            44    Ky.               pg0109b.txt
+115b  19  WALKER         Nancy            23    Ky.               pg0109b.txt
+71a   6   WALKER         Polly A.         4     Kentucky          pg0063b.txt
+115b  17  WALKER         Rachel R.        6     Ky.               pg0109b.txt
+71a   5   WALKER         Rebecca A.       6     Kentucky          pg0063b.txt
+110a  24  WALKER         Richard C.       24    Ky.               pg0109b.txt
+111b  14  WALKER         Samuel           11    Ky.               pg0109b.txt
+115b  15  WALKER         Samuel           10    Ky.               pg0109b.txt
+110a  38  WALKER         Sarah E.         2     Ky.               pg0109b.txt
+71a   2   WALKER         Sarah E.         12    Kentucky          pg0063b.txt
+71a   4   WALKER         William L.       8     Kentucky          pg0063b.txt
+66b   24  WALKUP         John             17    Kentucky          pg0063b.txt
+47a   27  WALLACE        Eliza            25    N. Carolina       pg0045b.txt
+47a   31  WALLACE        Martha A.        8/12  Kentucky          pg0045b.txt
+47a   29  WALLACE        Mary E.          4     Kentucky          pg0045b.txt
+47a   26  WALLACE        Nathaniel        47    Maryland          pg0045b.txt
+47a   30  WALLACE        Sarah F.         3     Kentucky          pg0045b.txt
+47a   28  WALLACE        William          5     Kentucky          pg0045b.txt
+56a   33  WALLER         Georgian V.      6/12  Kentucky          pg0054b.txt
+56a   32  WALLER         Martha           22    Maryland          pg0054b.txt
+56a   31  WALLER         Samuel A.        29    South Carolina    pg0054b.txt
+142a  16  WALLS          Christopher C.   13    Ky.               pg0136b.txt
+142a  14  WALLS          Mariah           28    Ky.               pg0136b.txt
+142a  15  WALLS          Mary A.          16    Ky.               pg0136b.txt
+142a  17  WALLS          Masouria         11    Ky.               pg0136b.txt
+142a  20  WALLS          Rachael          1     Ky.               pg0136b.txt
+142a  18  WALLS          Sarah E.         8     Ky.               pg0136b.txt
+142a  13  WALLS          Thomas           46    Ky.               pg0136b.txt
+142a  19  WALLS          Thomas           4     Ky.               pg0136b.txt
+56b   18  WARFIELD       Ann              3     Kentucky          pg0054b.txt
+56b   16  WARFIELD       Elenor           5     Kentucky          pg0054b.txt
+56b   15  WARFIELD       Henrietta        7     Kentucky          pg0054b.txt
+56b   17  WARFIELD       Martha           4     Kentucky          pg0054b.txt
+56b   13  WARFIELD       Martha           31    Kentucky          pg0054b.txt
+56b   14  WARFIELD       Phoebe Ann       8     Kentucky          pg0054b.txt
+56b   12  WARFIELD       Roderick         31    Kentucky          pg0054b.txt
+144b  25  WARLAN         William          22    Ky.               pg0136b.txt
+144b  39  WARREN         Ann M.           31    Ky.               pg0136b.txt
+145a  2   WARREN         George W.        7     Ky.               pg0136b.txt
+144b  41  WARREN         James            17    Ky.               pg0136b.txt
+144b  40  WARREN         Prissila         26    Ky.               pg0136b.txt
+145a  1   WARREN         Sarah            7     Ky.               pg0136b.txt
+144b  37  WARREN         Susan            57    Ky.               pg0136b.txt
+144b  42  WARREN         Thomas           33    Ky.               pg0136b.txt
+144b  38  WARREN         William C.       35    Ky.               pg0136b.txt
+132b  33  WASHINGTON     Bate             15    Ky.               pg0127b.txt
+132b  31  WASHINGTON     Catharine R.     51    Ky.               pg0127b.txt
+132b  35  WASHINGTON     George Anna      9     Ky.               pg0127b.txt
+132b  32  WASHINGTON     Mary W.          21    Ky.               pg0127b.txt
+132b  34  WASHINGTON     Susan            11    Ky.               pg0127b.txt
+133a  30  WATHEN         Bahethlin        67    Md.               pg0127b.txt
+133a  28  WATHEN         Benj             49    Ky.               pg0127b.txt
+133a  35  WATHEN         Benjamin         2     Ky.               pg0127b.txt
+110b  38  WATHEN         Cha. K.          24    Ky.               pg0109b.txt
+133a  32  WATHEN         Chandler         7     Ky.               pg0127b.txt
+110b  39  WATHEN         Elizabeth        29    Ky.               pg0109b.txt
+133a  36  WATHEN         Evaline          2     Ky.               pg0127b.txt
+110b  42  WATHEN         John R.C.        1     Ky.               pg0109b.txt
+133a  34  WATHEN         Margaret         4     Ky.               pg0127b.txt
+110b  40  WATHEN         Mary J.          5     Ky.               pg0109b.txt
+133a  33  WATHEN         Nora             5     Ky.               pg0127b.txt
+110b  41  WATHEN         Parthenia        4     Ky.               pg0109b.txt
+133a  29  WATHEN         Richard M.       45    Ky.               pg0127b.txt
+133a  31  WATHEN         Susan E.         8     Ky.               pg0127b.txt
+112b  38  WATKINS        Haward           2/12  Ky.               pg0109b.txt
+112b  37  WATKINS        Maria C.         3     Ky.               pg0109b.txt
+112b  36  WATKINS        Mary E.          22    Va.               pg0109b.txt
+112b  35  WATKINS        Samuel L.        25    Ky.               pg0109b.txt
+138a  21  WATTINGTON     Charles H.       7/12  Ky.               pg0136b.txt
+138a  18  WATTINGTON     Judith           26    Va.               pg0136b.txt
+138a  20  WATTINGTON     Mariah F.        2     Ky.               pg0136b.txt
+138a  19  WATTINGTON     Mary L.          6     Ky.               pg0136b.txt
+138a  17  WATTINGTON     Nathaniel        35    Va.               pg0136b.txt
+53b   39  WATTS          Frances M.       4     Kentucky          pg0045b.txt
+56b   1   Watts          John W.          48    Virginia          pg0054b.txt
+53b   37  WATTS          Louisa           11    Kentucky          pg0045b.txt
+56b   2   Watts          Martha           45    Virginia          pg0054b.txt
+53b   38  WATTS          Martha A.        7     Kentucky          pg0045b.txt
+56a   41  Watts          Mary             82    Virginia          pg0054b.txt
+53b   36  WATTS          Mary             36    Kentucky          pg0045b.txt
+56a   42  Watts          Sally            55    Virginia          pg0054b.txt
+53b   35  WATTS          William          39    Kentucky          pg0045b.txt
+115b  33  WAYNE          Francis          30    Ky.               pg0109b.txt
+115b  34  WAYNE          Louisa           22    Ky.               pg0109b.txt
+115b  35  WAYNE          Malissa J.       5     Ky.               pg0109b.txt
+115b  36  WAYNE          Robert L.        2     Ky.               pg0109b.txt
+117b  3   WEATHERFORD    Agnus            27    Ky.               pg0109b.txt
+117b  2   WEATHERFORD    Catherine        29    Ky.               pg0109b.txt
+117b  4   WEATHERFORD    Chas.            25    Ky.               pg0109b.txt
+117a  39  WEATHERFORD    David            58    Ky.               pg0109b.txt
+117b  9   WEATHERFORD    Ducy A.          8     Ky.               pg0109b.txt
+117b  5   WEATHERFORD    George           21    Ky.               pg0109b.txt
+117a  41  WEATHERFORD    Margaret         35    Ky.               pg0109b.txt
+117b  7   WEATHERFORD    Martin           16    Ky.               pg0109b.txt
+117a  42  WEATHERFORD    Nancy            34    Ky.               pg0109b.txt
+117b  8   WEATHERFORD    Philip           13    Ky.               pg0109b.txt
+117a  40  WEATHERFORD    Rhoda            51    Ky.               pg0109b.txt
+117b  6   WEATHERFORD    Sarah            18    Ky.               pg0109b.txt
+117b  1   WEATHERFORD    Susan            31    Ky.               pg0109b.txt
+96a   29  WEATHERHOLT    Benjamin         3     Ky.               pg0090b.txt
+96a   26  WEATHERHOLT    Charles          10    Pa.               pg0090b.txt
+96a   24  WEATHERHOLT    Eliza S.         27    Ky.               pg0090b.txt
+96a   31  WEATHERHOLT    Hayden           33    Pa.               pg0090b.txt
+96a   23  WEATHERHOLT    James G.         37    Pa.               pg0090b.txt
+95b   41  WEATHERHOLT    Jno              10    Pa.               pg0090b.txt
+96a   25  WEATHERHOLT    Maria            12    Pa.               pg0090b.txt
+96a   27  WEATHERHOLT    Martha           8     Pa.               pg0090b.txt
+96a   30  WEATHERHOLT    Mary             9/12  Ky.               pg0090b.txt
+96a   32  WEATHERHOLT    Mary             3     Pa.               pg0090b.txt
+96a   28  WEATHERHOLT    Sarah            6     Pa.               pg0090b.txt
+95b   29  WEATHERHOLT    Susan            8     In.               pg0090b.txt
+46a   22  WEBB           Alexes           3/12  Kentucky          pg0045b.txt
+46a   18  WEBB           Elizabeth E.     63    Virginia          pg0045b.txt
+46a   17  WEBB           John             64    N. Carolina       pg0045b.txt
+104b  30  WEBB           John S.          23    Ky.               pg0100b.txt
+46a   19  WEBB           Mary S.          19    Kentucky          pg0045b.txt
+46a   21  WEBB           Sarah A.         24    Kentucky          pg0045b.txt
+46a   20  WEBB           William H.       32    Kentucky          pg0045b.txt
+149b  19  WEISE          Fredrick         28    Ky.               pg0145b.txt
+106a  24  WELLS          Baker            24    Ky.               pg0100b.txt
+106a  28  WELLS          Burton W.        10    Ky.               pg0100b.txt
+97b   20  WELLS          Edwin            31    Va.               pg0090b.txt
+106a  31  WELLS          Elijah E.        3     Ky.               pg0100b.txt
+97b   21  WELLS          Eliz             26    Ky.               pg0090b.txt
+106a  30  WELLS          Henley E.        5     Ky.               pg0100b.txt
+106a  27  WELLS          James R.         14    Ky.               pg0100b.txt
+106a  26  WELLS          John W.          16    Ky.               pg0100b.txt
+106a  25  WELLS          Lavina L.        35    Tenn.             pg0100b.txt
+132b  42  WELLS          Mary             50    Ky.               pg0127b.txt
+106a  29  WELLS          Richard V.       8     Ky.               pg0100b.txt
+97b   22  WELLS          Walter           2     Ky.               pg0090b.txt
+74b   6   WEST           Alexander        25    Kentucky          pg0072b.txt
+127a  2   WEST           Alexander        24    Ky.               pg0118b.txt
+125a  21  WEST           Alsey            45    Ky.               pg0118b.txt
+125a  20  WEST           Branson          47    Ky.               pg0118b.txt
+127a  7   WEST           Caroline         15    Ky.               pg0118b.txt
+74b   8   WEST           Clinton          6/12  Kentucky          pg0072b.txt
+127a  9   WEST           Eli              9     Ky.               pg0118b.txt
+125a  28  WEST           Eliza            5     Ky.               pg0118b.txt
+126b  42  WEST           Eliza            28    Ky.               pg0118b.txt
+125a  22  WEST           Elizabeth        24    Ky.               pg0118b.txt
+127a  4   WEST           Felix            21    Ky.               pg0118b.txt
+70b   33  WEST           Granville        30    Kentucky          pg0063b.txt
+125a  25  WEST           Henry            13    Ky.               pg0118b.txt
+127a  3   WEST           Henry W.         23    Ky.               pg0118b.txt
+121b  3   WEST           Henry W.         22    Ky.               pg0118b.txt
+127a  5   WEST           James R.         17    Ky.               pg0118b.txt
+125a  24  WEST           Jane             17    Ky.               pg0118b.txt
+74b   7   WEST           Lalina           26    Kentucky          pg0072b.txt
+125a  23  WEST           Lucretia         20    Ky.               pg0118b.txt
+70b   34  WEST           Margaret J.      18    Kentucky          pg0063b.txt
+118b  17  WEST           Martha J.        26    Ky.               pg0118b.txt
+121b  5   WEST           Nancy            1     Ky.               pg0118b.txt
+118b  19  WEST           Newton           1     Ky.               pg0118b.txt
+126b  41  WEST           Polly            46    Va.               pg0118b.txt
+125a  27  WEST           Polly A.         9     Ky.               pg0118b.txt
+127a  6   WEST           Sally A.         19    Ky.               pg0118b.txt
+70b   35  WEST           Samuel           8/12  Kentucky          pg0063b.txt
+121b  4   WEST           Sarah E.         21    Ky.               pg0118b.txt
+125a  26  WEST           Thomas           12    Ky.               pg0118b.txt
+127a  1   WEST           Thomas P.        26    Ky.               pg0118b.txt
+118b  16  WEST           Thos.            27    Ky.               pg0118b.txt
+126b  40  WEST           William          50    Ky.               pg0118b.txt
+118b  18  WEST           William A.       4     Ky.               pg0118b.txt
+127a  8   WEST           William L.       13    Ky.               pg0118b.txt
+149b  34  WESTLY         Elvin            21    Ky.               pg0145b.txt
+149b  33  WESTLY         John             35    New Jersey        pg0145b.txt
+149b  35  WESTLY         Samuel B.        1     Ky.               pg0145b.txt
+124a  14  WETHERFORD     Archibal         5     Ky.               pg0118b.txt
+124a  11  WETHERFORD     Charles          52    Ky.               pg0118b.txt
+124a  13  WETHERFORD     John             7     Ky.               pg0118b.txt
+124a  12  WETHERFORD     Margaret         42    Ky.               pg0118b.txt
+69a   38  WEYMOUTH       Christopher      30    unknown           pg0063b.txt
+69a   41  WEYMOUTH       Christopher C.   6     Kentucky          pg0063b.txt
+69a   40  WEYMOUTH       James W.         10    Kentucky          pg0063b.txt
+69a   39  WEYMOUTH       Penelope P.      29    Kentucky          pg0063b.txt
+104b  11  WHEATLEY       Amelia           24    Ky                pg0100b.txt
+103a  39  WHEATLEY       Benjamin T.      6     Ky.               pg0100b.txt
+103a  41  WHEATLEY       Eliz E.          2     Ky.               pg0100b.txt
+104b  10  WHEATLEY       Frances          25    Ky                pg0100b.txt
+103a  40  WHEATLEY       Francis          4     Ky.               pg0100b.txt
+50a   22  WHEATLEY       George           47    Kentucky          pg0045b.txt
+104b  13  WHEATLEY       Hebernia         20    Ky                pg0100b.txt
+50a   9   WHEATLEY       Ignatus          28    Kentucky          pg0045b.txt
+103a  38  WHEATLEY       John             8     Ky.               pg0100b.txt
+103a  35  WHEATLEY       Joseph           35    Ky.               pg0100b.txt
+50a   20  WHEATLEY       Leonard          84    Virginia          pg0045b.txt
+50a   23  WHEATLEY       Leonard E.       25    Kentucky          pg0045b.txt
+104b  9   WHEATLEY       Mariah           35    Ky                pg0100b.txt
+103a  36  WHEATLEY       Mary A.          30    Ky.               pg0100b.txt
+50a   21  WHEATLEY       Nancy            88    Virginia          pg0045b.txt
+104b  12  WHEATLEY       Sarah            23    Ky                pg0100b.txt
+103a  37  WHEATLEY       Sarah A.         9     Ky.               pg0100b.txt
+104b  8   WHEATLEY       Susan            60    Ky                pg0100b.txt
+124b  26  WHEATLY        Catherine        53    Ky.               pg0118b.txt
+110a  4   WHEATLY        Cynthianna       24    Ky.               pg0109b.txt
+110a  3   WHEATLY        Eliz             53    Md.               pg0109b.txt
+124b  30  WHEATLY        Elizabeth A.     14    Ky.               pg0118b.txt
+124b  27  WHEATLY        George W.        22    Ky.               pg0118b.txt
+110a  2   WHEATLY        James            62    Va.               pg0109b.txt
+124b  28  WHEATLY        Jerome           20    Ky.               pg0118b.txt
+124b  25  WHEATLY        John             51    Ky.               pg0118b.txt
+123a  20  WHEATLY        John C.          29    Ky.               pg0118b.txt
+124b  29  WHEATLY        John C.          16    Ky.               pg0118b.txt
+110a  5   WHEATLY        Julina           22    Ky.               pg0109b.txt
+123a  24  WHEATLY        Leonard          2     Ky.               pg0118b.txt
+110a  8   WHEATLY        Lorinda          14    Ky.               pg0109b.txt
+123a  21  WHEATLY        Martha           29    Ky.               pg0118b.txt
+110a  7   WHEATLY        Martha           16    Ky.               pg0109b.txt
+123a  23  WHEATLY        Martha H.        3     Ky.               pg0118b.txt
+123a  22  WHEATLY        Susan E.         4     Ky.               pg0118b.txt
+110a  6   WHEATLY        Thomas           18    Ky.               pg0109b.txt
+136a  30  WHEELER        Adam W.          9     Ky.               pg0127b.txt
+147a  23  WHEELER        Alex             35    Ky.               pg0145b.txt
+144b  19  WHEELER        Catharine        1     Ky.               pg0136b.txt
+143b  25  WHEELER        Catherine        52    Ky.               pg0136b.txt
+143b  30  WHEELER        Catherine        22    Ky.               pg0136b.txt
+143b  29  WHEELER        Charlotte        12    Ky.               pg0136b.txt
+136a  33  WHEELER        Elizabeth        60    Ky.               pg0127b.txt
+143b  31  WHEELER        Gylivers         65    Ky.               pg0136b.txt
+144b  15  WHEELER        Hiram            27    Ky.               pg0136b.txt
+66a   9   WHEELER        James P.         24    Kentucky          pg0063b.txt
+136a  28  WHEELER        John             30    Ky.               pg0127b.txt
+143b  26  WHEELER        John             20    Ky.               pg0136b.txt
+137a  22  WHEELER        John             15    Ky.               pg0136b.txt
+144b  17  WHEELER        John T.          6     Ky.               pg0136b.txt
+136a  31  WHEELER        Josephine E.     2     Ky.               pg0127b.txt
+144b  20  WHEELER        Lewis            34    Ky.               pg0136b.txt
+136a  29  WHEELER        Mary A.          24    Ky.               pg0127b.txt
+144b  16  WHEELER        Nancy            23    Ky.               pg0136b.txt
+143b  27  WHEELER        Olivar           18    Ky.               pg0136b.txt
+147a  24  WHEELER        Rachael          37    Ky.               pg0145b.txt
+144b  18  WHEELER        Richard          4     Ky.               pg0136b.txt
+66a   8   WHEELER        Sally            48    Kentucky          pg0063b.txt
+143b  28  WHEELER        Sarah R.         14    Ky.               pg0136b.txt
+136a  32  WHEELER        William          52    Ky.               pg0127b.txt
+146a  8   WHITE          Ann M.           20    Ky.               pg0145b.txt
+146a  10  WHITE          Charles          14    Ky.               pg0145b.txt
+146a  6   WHITE          Hariet E.        50    Md.               pg0145b.txt
+146a  11  WHITE          Henry J.         11    Ky.               pg0145b.txt
+138b  30  WHITE          Jacob S.         26    Ohio              pg0136b.txt
+146a  12  WHITE          Latitia E.       7     Ky.               pg0145b.txt
+146a  5   WHITE          Noble            59    Ky.               pg0145b.txt
+148b  25  WHITE          Susan            24    Ky.               pg0145b.txt
+146a  9   WHITE          Susan            16    Ky.               pg0145b.txt
+148b  26  WHITE          Thomas           4/12  Ky.               pg0145b.txt
+148b  24  WHITE          Thomas           31    Ky.               pg0145b.txt
+146a  7   WHITE          William A.       26    Ky.               pg0145b.txt
+70a   2   WHITEHEAD      Amanda           5/12  Kentucky          pg0063b.txt
+71a   17  WHITEHEAD      Elizabeth        58    Virginia          pg0063b.txt
+69b   41  WHITEHEAD      Elizabeth        28    Kentucky          pg0063b.txt
+71a   19  WHITEHEAD      Elizabeth A.     17    Kentucky          pg0063b.txt
+71a   18  WHITEHEAD      Harriet J.       24    Ketnucky          pg0063b.txt
+69b   40  WHITEHEAD      John N.          30    Kentucky          pg0063b.txt
+70a   1   WHITEHEAD      Stephen          2     Kentucky          pg0063b.txt
+69b   42  WHITEHEAD      William          3     Kentucky          pg0063b.txt
+71a   16  WHITEHEAD      William J.       58    Virginia          pg0063b.txt
+48a   9   WHITINGHILL    Artemissa        1     Kentucky          pg0045b.txt
+48a   6   WHITINGHILL    Elizabeth        25    Kentucky          pg0045b.txt
+48a   7   WHITINGHILL    Mary F.          5     Kentucky          pg0045b.txt
+48a   5   WHITINGHILL    Rhemus G.        33    Kentucky          pg0045b.txt
+48a   8   WHITINGHILL    William T.       3     Kentucky          pg0045b.txt
+55b   33  WHITWORTH      Abraham          18    Kentucky          pg0054b.txt
+56a   4   WHITWORTH      Abraham          10    Kentucky          pg0054b.txt
+56a   8   WHITWORTH      Allen            23    Kentucky          pg0054b.txt
+74a   22  WHITWORTH      Amanda           8     Kentucky          pg0072b.txt
+74a   20  WHITWORTH      Bathsheba        29    Kentucky          pg0072b.txt
+74a   26  WHITWORTH      Behethtan        55    Virginia          pg0072b.txt
+74a   35  WHITWORTH      Bright           5     Kentucky          pg0072b.txt
+91a   21  WHITWORTH      Burrell          25    Kentucky          pg0090b.txt
+62a   26  WHITWORTH      Catherine        12    Kentucky          pg0054b.txt
+55b   31  WHITWORTH      Claiborn         47    Virginia          pg0054b.txt
+74a   21  WHITWORTH      David            10    Kentucky          pg0072b.txt
+56a   13  WHITWORTH      Elizabeth        20    Kentucky          pg0054b.txt
+56a   1   WHITWORTH      Elizabeth        19    Kentucky          pg0054b.txt
+62a   24  WHITWORTH      Ezekiel          37    Kentucky          pg0054b.txt
+62a   30  WHITWORTH      Ezekiel          2     Kentucky          pg0054b.txt
+91a   24  WHITWORTH      George W.        1     Kentucky          pg0090b.txt
+55b   42  WHITWORTH      Henrietta        46    Virginia          pg0054b.txt
+56a   3   WHITWORTH      Henrietta        12    Kentucky          pg0054b.txt
+56a   9   WHITWORTH      Irene E.         21    Virginia          pg0054b.txt
+55b   41  WHITWORTH      Isaac            50    Virginia          pg0054b.txt
+74a   15  WHITWORTH      Isaac            23    Kentucky          pg0072b.txt
+74a   32  WHITWORTH      Isaac            15    Kentucky          pg0072b.txt
+74a   27  WHITWORTH      Jacob            24    Kentucky          pg0072b.txt
+55b   35  WHITWORTH      James J.         7     Kentucky          pg0054b.txt
+74a   23  WHITWORTH      Jefferson        6     Kentucky          pg0072b.txt
+74a   31  WHITWORTH      Joanna           41    Kentucky          pg0072b.txt
+55b   34  WHITWORTH      John A.          13    Kentucky          pg0054b.txt
+56a   10  WHITWORTH      John M.          3/12  Kentucky          pg0054b.txt
+91a   23  WHITWORTH      Julia A.E.       3     Kentucky          pg0090b.txt
+56a   6   WHITWORTH      Laura A.         4     Kentucky          pg0054b.txt
+62a   25  WHITWORTH      Lucinda          27    Kentucky          pg0054b.txt
+56a   2   WHITWORTH      Lucy J.          16    Kentucky          pg0054b.txt
+74a   16  WHITWORTH      Mary             23    Kentucky          pg0072b.txt
+74a   33  WHITWORTH      Mary E.          10    Kentucky          pg0072b.txt
+74a   24  WHITWORTH      Missouri H.      3     Kentucky          pg0072b.txt
+91a   22  WHITWORTH      Nancy            20    Kentucky          pg0090b.txt
+74a   25  WHITWORTH      Robert R.H.      1     Kentucky          pg0072b.txt
+74a   34  WHITWORTH      Rowland P.       8     Kentucky          pg0072b.txt
+74a   19  WHITWORTH      Samuel           34    Kentucky          pg0072b.txt
+62a   29  WHITWORTH      Sophia J.        6     Kentucky          pg0054b.txt
+62a   28  WHITWORTH      Susan A.         8     Kentucky          pg0054b.txt
+74a   28  WHITWORTH      Thomas           21    Kentucky          pg0072b.txt
+74a   30  WHITWORTH      William          32    Kentucky          pg0072b.txt
+74a   29  WHITWORTH      William          12    Kentucky          pg0072b.txt
+56a   12  WHITWORTH      William A.       24    Kentucky          pg0054b.txt
+62a   27  WHITWORTH      William A.       10    Kentucky          pg0054b.txt
+56a   5   WHITWORTH      Zilpha           8     Kentucky          pg0054b.txt
+55b   32  WHITWORTH      Zilpha           51    N. Carolina       pg0054b.txt
+134b  17  WHORLEY        Cepert           25    Ky.               pg0127b.txt
+97a   28  WIDNEY         James H.         38    Pennsylvania      pg0090b.txt
+137a  10  WILIAMSON      Mahulda          21    Ky.               pg0136b.txt
+46b   11  WILKERSON      Anselm           25    Kentucky          pg0045b.txt
+47b   27  WILKERSON      Edness           50    Virginia          pg0045b.txt
+53b   23  WILKERSON      Elijah           16    Kentucky          pg0045b.txt
+46b   12  WILKERSON      Elizabeth        25    Kentucky          pg0045b.txt
+53b   24  WILKERSON      Elizabeth        14    Kentucky          pg0045b.txt
+50a   8   WILKERSON      Henry D.         8     Kentucky          pg0045b.txt
+47b   35  WILKERSON      John H.          6/12  Kentucky          pg0045b.txt
+97b   3   WILKERSON      John L..         21    Ky.               pg0090b.txt
+53b   22  WILKERSON      Margaret         52    N. Carolina       pg0045b.txt
+46b   2   WILKERSON      Martha           65    Virginia          pg0045b.txt
+47b   32  WILKERSON      Mary E.          6     Kentucky          pg0045b.txt
+47b   31  WILKERSON      Sarah            24    Kentucky          pg0045b.txt
+47b   28  WILKERSON      Stephen          13    Kentucky          pg0045b.txt
+53b   21  WILKERSON      Thomas           51    N. Carolina       pg0045b.txt
+47b   34  WILKERSON      Thomas U.        2     Kentucky          pg0045b.txt
+47b   30  WILKERSON      William M        30    Kentucky          pg0045b.txt
+47b   33  WILKERSON      William P.C.     4     Kentucky          pg0045b.txt
+64a   34  WILLIAMS       Davenport S.     10    Kentucky          pg0063b.txt
+64a   32  WILLIAMS       Elizabeth        52    Kentucky          pg0063b.txt
+64a   33  WILLIAMS       Finis E.         23    Kentucky          pg0063b.txt
+131b  34  WILLIAMS       John             6     Ky.               pg0127b.txt
+131b  33  WILLIAMS       Mary             8     Ky.               pg0127b.txt
+131b  32  WILLIAMS       Racel            22    Ky.               pg0127b.txt
+131b  31  WILLIAMS       William          25    Va.               pg0127b.txt
+53a   11  WILLIAMSON     Alexander        18    Kentucky          pg0045b.txt
+142b  34  WILLIAMSON     David            16    Ky.               pg0136b.txt
+141a  7   WILLIAMSON     Elforda          21    Ky.               pg0136b.txt
+142b  38  WILLIAMSON     George W.        8     Ky.               pg0136b.txt
+142b  39  WILLIAMSON     James            5     Ky.               pg0136b.txt
+141a  8   WILLIAMSON     Jervam           2     Ky.               pg0136b.txt
+142b  32  WILLIAMSON     John             37    Ky.               pg0136b.txt
+53a   9   WILLIAMSON     John             22    Kentucky          pg0045b.txt
+142b  36  WILLIAMSON     John             12    Ky.               pg0136b.txt
+142b  35  WILLIAMSON     Mariduk          13    Ky.               pg0136b.txt
+142b  33  WILLIAMSON     Meldridge        33    Ky.               pg0136b.txt
+142b  41  WILLIAMSON     Nathan C.        1     Ky.               pg0136b.txt
+142b  40  WILLIAMSON     Sally            3     Ky.               pg0136b.txt
+53a   10  WILLIAMSON     Sylvania         19    Kentucky          pg0045b.txt
+141a  5   WILLIAMSON     William          63    Va.               pg0136b.txt
+141a  6   WILLIAMSON     William          26    Ky.               pg0136b.txt
+142b  37  WILLIAMSON     William H.       10    Ky.               pg0136b.txt
+147a  21  WILLSON        Adam             2     Ky.               pg0145b.txt
+147a  16  WILLSON        James            34    Ky.               pg0145b.txt
+147a  19  WILLSON        Louisa           4     Ky.               pg0145b.txt
+147a  18  WILLSON        Lydia            5     Ky.               pg0145b.txt
+147a  20  WILLSON        Mary             3     Ky.               pg0145b.txt
+95a   31  WILLSON        Samuel           17    Ky.               pg0090b.txt
+147a  17  WILLSON        Sarah            7     Ky.               pg0145b.txt
+73b   29  WILSON         Alexander C.     7     Kentucky          pg0072b.txt
+46b   16  WILSON         Allen            29    Kentucky          pg0045b.txt
+73b   28  WILSON         Amanda E.        11    Kentucky          pg0072b.txt
+46b   20  WILSON         Cassius          3     Kentucky          pg0045b.txt
+58a   5   WILSON         Catharine        19    Kentucky          pg0054b.txt
+58b   19  WILSON         David H.         6     Kentucky          pg0054b.txt
+58b   18  WILSON         Elizabeth        9     Kentucky          pg0054b.txt
+46b   17  WILSON         Elizabeth        28    Kentucky          pg0045b.txt
+58a   4   WILSON         Ira              24    Indiana           pg0054b.txt
+92a   1   WILSON         Jane             73    Virginia          pg0090b.txt
+73b   26  WILSON         Margaret         40    Kentucky          pg0072b.txt
+73b   30  WILSON         Mary E.          8     Kentucky          pg0072b.txt
+46b   18  WILSON         Mary J.          7     Kentucky          pg0045b.txt
+58b   13  WILSON         Mellington I.    48    N. Carolina       pg0054b.txt
+73b   27  WILSON         Minerva          12    Kentucky          pg0072b.txt
+58a   6   WILSON         Nancy            8/12  Kentucky          pg0054b.txt
+58b   14  WILSON         Nancy            45    Kentucky          pg0054b.txt
+58b   21  WILSON         Nancy J.         2     Kentucky          pg0054b.txt
+58b   20  WILSON         Richard          4     Kentucky          pg0054b.txt
+58b   16  WILSON         Robert           15    Kentucky          pg0054b.txt
+58b   17  WILSON         Roland           12    Kentucky          pg0054b.txt
+73b   25  WILSON         Samuel H.        38    Kentucky          pg0072b.txt
+46b   19  WILSON         Susan            5     Kentucky          pg0045b.txt
+58b   15  WILSON         William F.       18    Kentucky          pg0054b.txt
+87b   14  WISEHART       Jane             19    Kentucky          pg0081b.txt
+87b   13  WISEHART       Phebe            42    Kentucky          pg0081b.txt
+87b   15  WISEHART       Susan C.         15    Kentucky          pg0081b.txt
+87b   12  WISEHART       William          42    Kentucky          pg0081b.txt
+87b   16  WISEHART       William L.       13    Kentucky          pg0081b.txt
+134b  31  WITHERSTHOFER  Isaac            32    Braravia          pg0127b.txt
+134b  32  WITHERSTHOFER  Nanette          20    Braravia          pg0127b.txt
+121b  15  WITT           Cely             50    Ky.               pg0118b.txt
+121b  19  WITT           East J.          13    Ky.               pg0118b.txt
+121b  18  WITT           Florance         16    Ky.               pg0118b.txt
+121b  16  WITT           Henry            20    Ky.               pg0118b.txt
+121b  17  WITT           Manerva          18    Ky.               pg0118b.txt
+121b  20  WITT           Rachael          10    Ky.               pg0118b.txt
+121b  14  WITT           Zacariah F.      49    Va.               pg0118b.txt
+125b  4   WOOD           Anderson         74    Va.               pg0118b.txt
+125b  31  WOOD           Anderson Jr.     31    Ky.               pg0118b.txt
+125b  32  WOOD           Caroline         30    Ky.               pg0118b.txt
+96a   35  WOOD           Cinthia L.       4     Pa.               pg0090b.txt
+100b  7   WOOD           Eliz C.          41    Ky.               pg0100b.txt
+100b  12  WOOD           Eliz E.          6     Ky.               pg0100b.txt
+96a   33  WOOD           Hardin P.        32    Ky.               pg0090b.txt
+95a   27  WOOD           J. S.            22    Tn.               pg0090b.txt
+100b  11  WOOD           James L.         8     Ky.               pg0100b.txt
+125b  35  WOOD           Juble            33    Ky.               pg0118b.txt
+100b  8   WOOD           Martha R.        15    Ky.               pg0100b.txt
+125b  41  WOOD           Mary             7/12  Ky.               pg0118b.txt
+100b  9   WOOD           Mary E.          13    Ky.               pg0100b.txt
+125b  36  WOOD           Mary J.          33    Ky.               pg0118b.txt
+125b  39  WOOD           Melvina          7     Ky.               pg0118b.txt
+96a   34  WOOD           Mizella W.       24    Ky.               pg0090b.txt
+100b  6   WOOD           Nathan           39    N. York           pg0100b.txt
+125b  5   WOOD           Peggy            67    Va.               pg0118b.txt
+125b  40  WOOD           Pleasant         5     Ky.               pg0118b.txt
+125b  38  WOOD           Rhoda            8     Ky.               pg0118b.txt
+125b  33  WOOD           Robert           4     Ky.               pg0118b.txt
+96a   19  WOOD           Samuel L.S.      20    Pa.               pg0090b.txt
+100b  10  WOOD           Sarah I.         10    Ky.               pg0100b.txt
+125b  37  WOOD           Thomas           9     Ky.               pg0118b.txt
+125b  34  WOOD           Thomas           2     Ky.               pg0118b.txt
+100b  13  WOOD           Wm. N.           3     Ky.               pg0100b.txt
+128a  19  WOODS          Adam             7     Ky.               pg0127b.txt
+74b   16  WOODS          Alberta          2     Kentucky          pg0072b.txt
+128a  16  WOODS          Amanda           25    Ky.               pg0127b.txt
+109b  21  WOODS          Anderson         2     Ky.               pg0109b.txt
+74b   12  WOODS          Bertha           13    Kentucky          pg0072b.txt
+91b   15  WOODS          Elizabeth        70    Virginia          pg0090b.txt
+59a   6   WOODS          Elizaeth         2     Kentucky          pg0054b.txt
+59a   4   WOODS          Emma             6     Kentucky          pg0054b.txt
+59a   5   WOODS          Ermier           .     Kentucky          pg0054b.txt
+74b   9   WOODS          Frances          38    Kentucky          pg0072b.txt
+91b   20  WOODS          John             7     Kentucky          pg0090b.txt
+58b   42  WOODS          Joseph           35    Virginia          pg0054b.txt
+109b  17  WOODS          Joshua           15    Ky.               pg0109b.txt
+74b   10  WOODS          Lewis            20    Kentucky          pg0072b.txt
+96a   18  WOODS          Lillis           88    Ky.               pg0090b.txt
+59a   3   WOODS          Lucinda          9     Kentucky          pg0054b.txt
+91b   21  WOODS          Lucretia         6     Kentucky          pg0090b.txt
+59a   1   WOODS          Malvina          28    Kentucky          pg0054b.txt
+74b   15  WOODS          Margaret         5     Kentucky          pg0072b.txt
+128a  18  WOODS          Margaret         10    Ky.               pg0127b.txt
+128a  17  WOODS          Mary J.          13    Ky.               pg0127b.txt
+109b  18  WOODS          Nancy            9     Ky.               pg0109b.txt
+91b   18  WOODS          Nancy            36    Kentucky          pg0090b.txt
+128a  15  WOODS          Plesant          38    Ky.               pg0127b.txt
+109b  16  WOODS          Rebecca          25    Ky.               pg0109b.txt
+74b   11  WOODS          Richard          16    Kentucky          pg0072b.txt
+91b   19  WOODS          Sarah            12    Kentucky          pg0090b.txt
+74b   14  WOODS          Stephen          9     Kentucky          pg0072b.txt
+91b   23  WOODS          Taylor           2     Kentucky          pg0090b.txt
+109b  20  WOODS          Thomas           4     Ky.               pg0109b.txt
+119a  30  WOODS          Thomas           28    Ky.               pg0118b.txt
+59a   2   WOODS          Thomas           10    Kentucky          pg0054b.txt
+91b   22  WOODS          William          4     Kentucky          pg0090b.txt
+74b   13  WOODS          William          12    Kentucky          pg0072b.txt
+109b  19  WOODS          William B.       7     Ky.               pg0109b.txt
+91b   17  WOODS          William Jr.      40    N. Carolina       pg0090b.txt
+91b   14  WOODS          William Sr.      79    Virginia          pg0090b.txt
+109b  15  WOODS          Woodsen          44    Va.               pg0109b.txt
+133a  18  WORK           Alexander        18    Ky.               pg0127b.txt
+133a  19  WORK           George P.        16    Ky.               pg0127b.txt
+108b  34  WORLEY         Charles          14    Ky.               pg0100b.txt
+109b  5   WORLEY         Eliza            2     Ky.               pg0109b.txt
+108b  33  WORLEY         Flail            16    Ky.               pg0100b.txt
+109b  2   WORLEY         James            30    Ky.               pg0109b.txt
+109b  6   WORLEY         Jeroam           5/12  Ky.               pg0109b.txt
+108b  35  WORLEY         Maria            36    Ky.               pg0100b.txt
+109b  4   WORLEY         Nancy J.         3     Ky.               pg0109b.txt
+108b  30  WORLEY         Sarah            54    Va.               pg0100b.txt
+109b  3   WORLEY         Trucy A.         19    Ky.               pg0109b.txt
+133a  12  Wrather        Amanda           24    Va.               pg0127b.txt
+133a  13  Wrather        Glovina          3     Ky.               pg0127b.txt
+133a  11  Wrather        Samuel M.        26    Va.               pg0127b.txt
+133a  14  Wrather        William J.       1     Ky.               pg0127b.txt
+69b   39  WRIGHT         Elizabeth        18    Kentucky          pg0063b.txt
+81b   23  WRIGHT         Greenberry F.    26    Kentucky          pg0081b.txt
+81b   25  WRIGHT         Isaiah           2     Kentucky          pg0081b.txt
+97a   6   WRIGHT         John J.          25    Ky.               pg0090b.txt
+81b   24  WRIGHT         Margaret         21    Kentucky          pg0081b.txt
+81b   26  WRIGHT         Rhoda A.         1     Kentucky          pg0081b.txt
+69b   38  WRIGHT         Thomas S.        25    Kentucky          pg0063b.txt
+87b   11  YAGER          Catharine        4     Kentucky          pg0081b.txt
+87b   9   YAGER          John             31    Kentucky          pg0081b.txt
+87b   10  YAGER          Louisa           26    Kentucky          pg0081b.txt
+87b   2   YATES          Albert W.        8     Kentucky          pg0081b.txt
+118b  12  YATES          Charlotte        35    Va.               pg0118b.txt
+87a   42  YATES          Edward           31    Kentucky          pg0081b.txt
+88a   30  YATES          Elias            12    Kentucky          pg0081b.txt
+118b  14  YATES          Eliza            4     Ky.               pg0118b.txt
+88a   27  YATES          Elizabeth        19    Kentucky          pg0081b.txt
+88a   32  YATES          James            5     Kentucky          pg0081b.txt
+118b  13  YATES          James G.         11    Ky.               pg0118b.txt
+88a   39  YATES          John             21    Kentucky          pg0081b.txt
+88a   31  YATES          Jonathan         8     Kentucky          pg0081b.txt
+88a   25  YATES          Jonathan         45    Virginia          pg0081b.txt
+88a   40  YATES          Judith           24    Virginia          pg0081b.txt
+88a   26  YATES          Lucy             43    Virginia          pg0081b.txt
+88a   29  YATES          Mahala           15    Kentucky          pg0081b.txt
+87b   1   YATES          Margaret N.      29    Kentucky          pg0081b.txt
+118b  15  YATES          Mary M.          6/12  Ky.               pg0118b.txt
+87b   4   YATES          Oscar T.         2     Kentucky          pg0081b.txt
+118b  11  YATES          Plesant          35    Va.               pg0118b.txt
+87b   3   YATES          Thomas T.        6     Kentucky          pg0081b.txt
+88a   28  YATES          William          18    Kentucky          pg0081b.txt
+87b   5   YATES          William H.       5/12  Kentucky          pg0081b.txt
+95b   5   ZIMMERMAN      Ben.             19    Ky.               pg0090b.txt

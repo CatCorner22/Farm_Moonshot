@@ -1321,3 +1321,37 @@ Same map, county preview — 33-8 in Magisterial District 2 Millers Creek; Stati
 ![Hopkins Francis J 28](sources/census/pass136/keyplates/hopkins-n0238-francis-j-newman-28.jpg)
 
 **Source:** S1441 · C1776
+
+## 1850 — Breckinridge (pass 138)
+
+1850 U.S. census, Breckinridge County, District 1, 108B — William Newman 26, farmer $700, × Angeline 23 + Sarah E. 1. Exact age versus Owsley; rejected (wrong wife, wrong infant, $700 ≠ $325).
+
+![Breckinridge 108B William 26 × Angeline](sources/census/pass138/keyplates/breckinridge-108b-william-26-tight.jpg)
+
+**Source:** S1471 · C1801
+
+1850 U.S. census, Breckinridge County, District 1, 100B — Henry Newman 46, Virginia, $674, × Adeline 48 + William H. 7 son. Rejected versus William × Jane.
+
+![Breckinridge 100B Henry 46](sources/census/pass138/keyplates/breckinridge-100b-henry-46.jpg)
+
+**Source:** S1469 · C1800
+
+1850 U.S. census, Breckinridge County, District 1, 100A — John J. Newman 23 × Cinderella 24; Miss Jane 21 in the Lightfoot house. Rejected versus William × Jane.
+
+![Breckinridge 100A John J 23](sources/census/pass138/keyplates/breckinridge-100a-john-j-23.jpg)
+
+**Source:** S1468 · C1799
+
+## 1850 — Hopkins Dist 2 (pass 139)
+
+1850 U.S. census, Hopkins County, District 2 — household 76/76 **Jno Newman**, 59, farmer, North Carolina, with **Jane**, 53, North Carolina, and **William P.**, 26, farmer, same household (a son, not a living head). Rejected versus William 26 × Jane 22 of Owsley.
+
+![Hopkins n0240 Jno 59](sources/census/pass139/keyplates/hopkins-n0240-john-59-tight.jpg)
+
+**Source:** S1491 · C1823
+
+Same sheet, lines 8–14, with William P. 26 visible.
+
+![Hopkins n0240 William P 26](sources/census/pass139/keyplates/hopkins-n0240-john-59-william-p.jpg)
+
+**Source:** S1492 · C1823

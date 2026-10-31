@@ -2348,3 +2348,33 @@
 | C1812 | IA **602** pass138 metadata **{}**. pass123 still **515**. One line | PROVEN as catalog | S1480 L1635 | B088 |
 | C1813 | Grant 21 **not merged**. B084 POSSIBLE Jr only. Do not print 1966 or 1962. Did not walk **33-12 / 33-13**. Phones / R001/R007/R008 not re-asked | PROVEN as process | S1477 L1636 | B081 B084 B082 |
 | C1814 | IA Solr M1509 KY **0**. Cards unread | PROVEN as catalog | S1481 L1637 | B069 |
+
+| C1815 | Kenton Dist 2 start n0253 **IMAGE SEEN** stamp **226** 1 Aug Reuben McDannold. n0261 stamp **230**. Hypothesis Dist 2 = stamp **126 DISPROVED**. Dist 1 **130B** still a reel-**208** scan gap | PROVEN as image + residual | S1482 L1639 | B071 |
+| C1816 | Mercer Dist 1 n0202–n0415 **56** namecols tesseract **NIL** Newman/Tincher. Densify **NOT** every-line close | PROVEN as OCR-draft + residual | S1483 L1640 | B071 |
+| C1817 | Leftover western USGW 1850 dirs: Butler/Clinton/Grayson/Marshall/Allen **slave-only**; Caldwell/Calloway/Cumberland/Fulton/Graves/Hart/Hickman/Warren/Union/Muhlenberg/Kenton **404**. Compiled **NOT** closed | PROVEN as catalog | S1484 L1641 | B071 |
+| C1818 | Reel **194** mapped: Butler Dist 1; Caldwell Dist 2 n0300; Calloway Dist 2 n0400. Living-head unread | PROVEN as mapping + image | S1485 L1642 | B071 |
+| C1819 | Parents of 1928 Frank still **PROBABLE**. #28 stands. hh **311** **$325**. 130B still gap. Leftover western **NOT** closed | PROBABLE / PROVEN | S1314 S1486 L1643 | B071 |
+
+| C1820 | LOC sn89051008 pass139 `item.digitized: false` (34425 B). IA Solr 1926 **0**. Film unread. Phone not re-asked | PROVEN as catalog | S1487 S1488 L1645 | B058 |
+| C1821 | Hopkins Dist 2 n0238 **IMAGE SEEN** reconfirm: hh **67/67 Francis J. Newman 28** Farmer KY × Mary J **25** + Elizabeth **1**. **REJECT** | PROVEN as image + reject | S1489 L1646 | B071 |
+| C1822 | Hopkins Dist 2 n0239 verso **IMAGE SEEN**: 21 July; hh **74/74 Ash Armstrong 38**. John **59** not on this verso | PROVEN as image | S1490 L1647 | B071 |
+| C1823 | Hopkins Dist 2 n0240 **IMAGE SEEN**: hh **76/76 Jno Newman 59** Farmer **N. Carolina** × Jane **53** NC + Louisa **28** + Martha **20** + Eveline **16** + Elizabeth **13** + **William P 26** Farmer (same household; not a living head). **REJECT** vs William **26** × Jane **22** of Owsley | PROVEN as image + reject | S1491 S1492 L1648 | B071 |
+| C1824 | Hopkins named Newman heads Francis J + John **59** both **image-seen**. County **NOT** every-line closed | PROVEN as residual | S1493 L1649 | B071 |
+| C1825 | SK Graves **LIVE 124164** B: NEWHOUSE **468A/B**; NEWTON **377B/464A/473B/481B**. NIL Newman/Tincher. County **CLOSED** compiled couple hunt | PROVEN as compiled-index + close | S1494 L1650 | B071 |
+| C1826 | Hart Dist 1 n0005 **IMAGE SEEN** header stamp **3** 15 July. n0120 still Hart. County **NOT** walked | PROVEN as mapping + residual | S1495 L1651 | B071 |
+| C1827 | Henry Dist 1 n0440 **IMAGE SEEN** header 2 Aug. County **NOT** walked | PROVEN as mapping + residual | S1496 L1652 | B071 |
+| C1828 | Henderson n0200–n0360 Dist 1/2 **IMAGE SEEN** headers. Already **CLOSED** compiled | PROVEN as reconfirm | S1497 L1653 | B071 |
+| C1829 | Larue Hamilton Dist n0160 stamp **398** **IMAGE SEEN** header. County **NOT** closed | PROVEN as mapping + residual | S1498 L1654 | B071 |
+| C1830 | Campbell reel **195** n0130 **IMAGE SEEN**: City of Newport, Campbell Co., stamp **127**, 28 Aug, Joseph A. Piner. **NOT** Kenton Dist 1 **130B** | PROVEN as image + reject-as-place | S1499 L1655 | B071 |
+| C1831 | Kenton reel **208** end n0643 **IMAGE SEEN** MICROCOPY. Dist 1 **130B** not bound at reel end. `kentuckycensus00reel208` metadata **{}** | PROVEN as image + catalog | S1500 S1501 L1656 | B071 |
+| C1832 | SK Kenton **LIVE**: NEWMAN **130B**/221B/222A/226B/261B/268A/270B. **130B** neighbors GADSON / CLUSTRE / HERNDON / ILIFF. Dist 1 **130B** still a reel-**208** scan gap | PROVEN as compiled-index + residual | S1502 L1657 | B071 |
+| C1833 | Leftover starts mapped **NOT** closed: Hickman n0005; Livingston n0340; Muhlenberg Dist 2 n0360; Franklin Dist 2 n0300 stamp **163**; Grayson n0005 | PROVEN as mapping | S1503 L1658 | B071 |
+| C1834 | Still **no** free William × Rhoda or William × Jane license | PROVEN as negative | S1504 L1659 | B071 |
+| C1835 | Parents of 1928 Frank still **PROBABLE**. 1860 Rhoda widow + B.F. **7** **PROVEN**. Jane **not** Rhoda. #28 stands. 1850 living head **FOUND** remains Owsley hh **311** only | PROBABLE / PROVEN | S1314 S1504 L1660 | B071 |
+| C1836 | GT Lee WWI **LIVE 452540**. Brandenburg, Luther + Underwood, Luther only. Cards unread | PROVEN as compiled-index | S1505 L1661 | B059 |
+| C1837 | FS **1146342** SPA **19655** B `isLoggedIn false` (R011-**77**) | PROVEN as access | S1506 L1662 | B065 B069 |
+| C1838 | Hutchins FAQ **9938** **LIVE** cards **228–229**. No free June **1958** clip | PROVEN as catalog | S1507 L1663 | B055 B080 |
+| C1839 | IA **602** pass139 metadata **{}**. pass123 still **515**. One line | PROVEN as catalog | S1508 L1664 | B088 |
+| C1840 | Grant 21 **not merged**. B084 POSSIBLE Jr only. Do not print 1966 or 1962. Did not walk **33-12 / 33-13**. Phones / R001/R007/R008 not re-asked | PROVEN as process | S1504 L1665 | B081 B084 B082 |
+| C1841 | IA Solr M1509 KY **0**. Cards unread | PROVEN as catalog | S1509 L1666 | B069 |
+| C1842 | USGenNet wills **LIVE** — Jane Steele / Elizabeth / Mary F. — **no** Samuel P. | PROVEN as compiled | S1510 L1667 | B045 B065 |

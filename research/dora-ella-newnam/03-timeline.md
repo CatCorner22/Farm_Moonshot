@@ -465,6 +465,16 @@ Place as it was *at the date*; modern equivalent in brackets. Flag impossibiliti
 | **1850** | Marion / Jefferson / Ballard / Monroe | FAN **PROVEN** as compiled-index: no William **26** × Jane/Rhoda. Counties **CLOSED** compiled couple hunt | KY | C1784–C1787 | S1455–S1458 |
 | **1850** | Boone **218A** | FAN **PROVEN** as image + reject (Pass 132 remainder): Daniel Newman **32** Laborer + Louisiana **18**. County **CLOSED** | Boone Co., KY | C1736 C1738 | S1389 |
 | **1850** | Kenton **221B** hh **150/162** | FAN **PROVEN** as image + reject (Pass 132 remainder): Shepard Newman **32** Blacksmith **$1200** + Elizabeth **28** | Kenton Co., KY | C1739 | S1391 |
+| **23 Jul 1850** | Breckinridge Dist 1 **100A** n0398 | FAN **PROVEN** as image + reject: hh **71/72 John J. Newman 23** Farmer × Cinderella **24**; Miss Jane **21** in Lightfoot house | Breckinridge Co., KY | C1799 | S1468 |
+| **24 Jul 1850** | Breckinridge Dist 1 **100B** n0399 | FAN **PROVEN** as image + reject: hh **78/79 Henry Newman 46** Farmer **$674** Va × Adeline **48** + Wm H **7** son | Breckinridge Co., KY | C1800 | S1469 |
+| **3 Aug 1850** | Breckinridge Dist 1 **108B** n0415 | FAN **PROVEN** as image + reject: hh **192/193 William Newman 26** Farmer **$700** KY × **Angeline 23** + Sarah E **1**; hh **193/194 Obediah 56** next door. County **CLOSED** | Breckinridge Co., KY | C1801 C1802 C1803 | S1470 S1471 S1472 |
+
+| **21 Jul 1850** | Hopkins Dist 2 n0238 hh **67** | FAN **PROVEN** as image + reject (reconfirm): Francis J. Newman **28** × Mary J **25** + Elizabeth **1** | Hopkins Co., KY | C1821 | S1489 |
+| **1850** | Hopkins Dist 2 n0240 hh **76/76** | FAN **PROVEN** as image + reject: **Jno Newman 59** Farmer NC × Jane **53** NC + **William P 26** son (not a living head) | Hopkins Co., KY | C1823 | S1491 S1492 |
+| **1850** | Graves | FAN **PROVEN** as compiled-index: NEWHOUSE/NEWTON only. County **CLOSED** compiled couple hunt | Graves Co., KY | C1825 | S1494 |
+| **15 Jul 1850** | Hart Dist 1 n0005 stamp **3** | FAN **PROVEN** as mapping: header **IMAGE SEEN**. County **NOT** walked | Hart Co., KY | C1826 | S1495 |
+| **2 Aug 1850** | Henry Dist 1 n0440 | FAN **PROVEN** as mapping: header **IMAGE SEEN**. County **NOT** walked | Henry Co., KY | C1827 | S1496 |
+| **28 Aug 1850** | Campbell Newport n0130 stamp **127** | FAN **PROVEN** as image + reject-as-place: City of Newport, **not** Kenton Dist 1 **130B** | Campbell Co., KY | C1830 | S1499 |
 
 
 **Impossibility flags:** None. Mother ~29 at Dora’s 1871 birth (Mary b. 1842). Dora age 14 at marriage is legal/period-possible (KY) though young; 1880 age 8 corroborates. Two children born before Coy in the 1886–1889 window would have Dora aged 15–18 — possible. No event after 23 Aug 1926 is attributed to her.

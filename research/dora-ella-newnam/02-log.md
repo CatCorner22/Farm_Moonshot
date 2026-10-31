@@ -1887,6 +1887,39 @@ One row per search, **including nil results**. Access: free | subscription | on-
 | L1636 | 2026-10-31 | Grant 21 / Jr / process (**B081/B084**) | deceased-only | **not merged**. POSSIBLE Jr only. No 1966/1962. No **33-12/33-13** (**C1813**) | S1477 | B081 B084 B082 |
 | L1637 | 2026-10-31 | IA Solr M1509 KY (**B069**) | cards | **0** (**C1814**) | S1481 | B069 |
 | L1638 | 2026-10-31 | Search-variant-alternatives cats **1–4** | William/Angeline/Obediah/Henry/John J | Soundex **N550** / **T526** / **S350**. Exact strings this extract | S1477 | B071 |
+| L1639 | 2026-10-31 | Kenton n0253 stamp (**B071**) | Dist 2 start | **IMAGE SEEN** stamp **226** 1 Aug Reuben McDannold. n0261 stamp **230**. 126-hypothesis **DISPROVED**. 130B still gap (**C1815**) | S1482 | B071 |
+| L1640 | 2026-10-31 | Mercer Dist 1 n0202–n0415 (**B071**) | 56 namecols | Tesseract **NIL** Newman/Tincher. Densify **NOT** every-line close (**C1816**) | S1483 | B071 |
+| L1641 | 2026-10-31 | Leftover western USGW dirs (**B071**) | Butler…Hickman | Slave-only or **404**. Compiled **NOT** closed (**C1817**) | S1484 | B071 |
+| L1642 | 2026-10-31 | Reel **194** map (**B071**) | Butler / Caldwell / Calloway | Headers **IMAGE SEEN**. N-walk unread (**C1818**) | S1485 | B071 |
+| L1643 | 2026-10-31 | Same-person / #28 (**B071**) | William × Rhoda / Jane | Parents **PROBABLE**. 130B still gap. #28 stands (**C1819**) | S1477 S1486 | B071 |
+| L1644 | 2026-10-31 | Did not walk **33-12/33-13**; phones not re-asked | process | R001/R007/R008 not re-asked. Authored Word SHA **78cdcf44…** not overwritten | S1486 | B058 B082 |
+
+| L1645 | 2026-10-31 | LOC sn89051008 + IA Solr 1926 (**B058**) | Dora/posa × Stone | `digitized: false` 34425 B. Solr **0**. Phone not re-asked (**C1820**) | S1487 S1488 | B058 |
+| L1646 | 2026-10-31 | Hopkins n0238 (**B071**) | Francis J 28 | **IMAGE SEEN** reconfirm hh **67/67** × Mary J **25**. **REJECT** (**C1821**) | S1489 | B071 |
+| L1647 | 2026-10-31 | Hopkins n0239 verso (**B071**) | Ash Armstrong 38 | John **59** not on verso (**C1822**) | S1490 | B071 |
+| L1648 | 2026-10-31 | Hopkins n0240 (**B071**) | Jno Newman 59 / William P 26 | **IMAGE SEEN** hh **76/76** Jane **53** NC + son William P **26**. **REJECT** vs Owsley (**C1823**) | S1491 S1492 | B071 |
+| L1649 | 2026-10-31 | Hopkins named heads (**B071**) | Francis J + John 59 | both image-seen. County **NOT** every-line (**C1824**) | S1493 | B071 |
+| L1650 | 2026-10-31 | SK Graves (**B071**) | Newman/Tincher | NEWHOUSE/NEWTON only. County **CLOSED** compiled (**C1825**) | S1494 | B071 |
+| L1651 | 2026-10-31 | Hart Dist 1 n0005 (**B071**) | header | stamp **3** 15 July. **NOT** walked (**C1826**) | S1495 | B071 |
+| L1652 | 2026-10-31 | Henry Dist 1 n0440 (**B071**) | header | 2 Aug. **NOT** walked (**C1827**) | S1496 | B071 |
+| L1653 | 2026-10-31 | Henderson n0200–n0360 (**B071**) | headers | already **CLOSED** compiled (**C1828**) | S1497 | B071 |
+| L1654 | 2026-10-31 | Larue n0160 (**B071**) | Hamilton Dist | stamp **398**. **NOT** closed (**C1829**) | S1498 | B071 |
+| L1655 | 2026-10-31 | Campbell n0130 (**B071**) | Newport stamp 127 | **IMAGE SEEN**. **NOT** Kenton **130B** (**C1830**) | S1499 | B071 |
+| L1656 | 2026-10-31 | Kenton reel-208 end n0643 (**B071**) | MICROCOPY | **130B** not at reel end. alt item meta **{}** (**C1831**) | S1500 S1501 | B071 |
+| L1657 | 2026-10-31 | SK Kenton 130B neighbors (**B071**) | GADSON/CLUSTRE/HERNDON/ILIFF | NEWMAN **130B** still a scan gap (**C1832**) | S1502 | B071 |
+| L1658 | 2026-10-31 | Leftover starts (**B071**) | Hickman/Livingston/Muhlenberg/Franklin/Grayson | mapped **NOT** closed (**C1833**) | S1503 | B071 |
+| L1659 | 2026-10-31 | Free marriage (**B071**) | William × Rhoda / Jane | Still **no** free license (**C1834**) | S1504 | B071 |
+| L1660 | 2026-10-31 | Same-person / #28 (**B071**) | William × Rhoda / Jane | Parents **PROBABLE**. Jane **not** Rhoda. #28 stands. Living head remains Owsley hh **311** (**C1835**) | S1314 S1504 | B071 |
+| L1661 | 2026-10-31 | GT Lee WWI (**B059**) | Luther / John H. / McCoy | LIVE **452540**. Brandenburg + Underwood only (**C1836**) | S1505 | B059 |
+| L1662 | 2026-10-31 | FS **1146342** (**B065**) | catalog | SPA **19655** B (R011-**77**) (**C1837**) | S1506 | B065 B069 |
+| L1663 | 2026-10-31 | Hutchins FAQ **9938** (**B055/B080**) | *Citizen* cards | **LIVE** rooms **228–229**. No free June **1958** clip (**C1838**) | S1507 | B055 B080 |
+| L1664 | 2026-10-31 | IA **602** metadata (**B088**) | imagecount | pass139 **{}**. pass123 still **515**. One line (**C1839**) | S1508 | B088 |
+| L1665 | 2026-10-31 | Grant 21 / Jr / process (**B081/B084**) | deceased-only | **not merged**. POSSIBLE Jr only. No 1966/1962. No **33-12/33-13** (**C1840**) | S1504 | B081 B084 B082 |
+| L1666 | 2026-10-31 | IA Solr M1509 KY (**B069**) | cards | **0** (**C1841**) | S1509 | B069 |
+| L1667 | 2026-10-31 | USGenNet wills (**B045/B065**) | Samuel P. | Jane Steele / Elizabeth / Mary F. — **no** Samuel P. (**C1842**) | S1510 | B045 B065 |
+| L1668 | 2026-10-31 | Search-variant-alternatives cats **1–4** | Jno/William/Jane/Rhoda | Soundex **N550** / **T526** / **S350**. Exact strings this extract | S1504 | B071 |
+
+**Access honesty (pass 139):** LOC sn89051008 JSON **seen** (`digitized: false`). IA Solr Post-Dispatch 1926 **0**. IA Solr M1509 KY **0**. IA **602** metadata **{}** (pass123 still **515**). Hopkins n0238/n0239/n0240 **image seen**. SK Graves **HTML seen** (NEWHOUSE/NEWTON only). Hart Dist 1 / Henry Dist 1 / Larue Hamilton / Campbell Newport **127** / Kenton reel-end MICROCOPY **image seen**. SK Kenton **HTML seen** (NEWMAN **130B** residual). FS **1146342** SPA **19655** B. USGenNet wills **HTML seen**. GT Lee WWI **LIVE**. FAQ **9938** **LIVE**. fishergenes / kykinfolk **404**. SK leftover handshake except Graves. Kenton **130B** still a reel-**208** scan gap. Henry / Hart / Larue / Hopkins remaining. *Dardanelle Post-Dispatch* film **unread**. M1509 **cards unread**. Certs **unread**. Authored `latest.docx` SHA **78cdcf44…** not overwritten.
 
 **Access honesty (pass 138):** LOC sn89051008 JSON **seen** (`digitized: false`). IA Solr Post-Dispatch 1926 **0**. IA Solr M1509 KY **0**. IA **602** metadata **{}** (pass123 still **515**). Breckinridge **100A/100B/108B** **image seen**. USGW Breckinridge `indx-n-s.txt` + `pg0100b.txt` **HTML/TXT seen**. SK Kenton **HTML seen** (NEWMAN **130B** residual). FS **1146342** SPA **19655** B. USGenNet wills **HTML seen**. GT Lee WWI **LIVE**. FAQ **9938** **LIVE**. fishergenes / kykinfolk **404**. SK Mercer/Hopkins/Franklin/Lincoln **404**. Kenton **130B** still a reel-**208** scan gap. Mercer/Franklin/Lincoln/Hopkins remaining. *Dardanelle Post-Dispatch* film **unread**. M1509 **cards unread**. Certs **unread**. Authored `latest.docx` SHA **78cdcf44…** not overwritten.
 

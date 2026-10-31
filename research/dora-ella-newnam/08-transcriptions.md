@@ -1135,3 +1135,36 @@ Pass 2: boarder; no wife Jane/Rhoda; no Francis/Leanner; age 30 ≠ 26. **REJECT
 > 416/433  Edmund Wroe       40  M  Farmer  $700   Ga
 
 Pass 2: exact age vs Owsley William 26; wife Catherine O ≠ Jane/Rhoda; infant Louisa ≠ Francis 4 / Leanner 2; Hancock ≠ Owsley. **REJECT**. → **C1771** / **S1435**.
+
+## DOC052 — 1850 Breckinridge 108B William Newman 26 × Angeline
+
+**Inventory:** `sources/census/pass138/keyplates/breckinridge-108b-william-26-tight.jpg` SHA **afb3b657…**; wide SHA **3126ce2f…** (image seen). Dist 1 stamp **108**, 3 Aug 1850, n0415.
+
+### Diplomatic
+> 192/193  William Newman    26  M  Farmer  $700   Kentucky
+>          Angeline          23  F                 Kentucky
+>          Sarah E.           1  F                 Kentucky
+> 193/194  Obediah Newman    56  M  Farmer $2500   Va
+>          Sarah             54  F                 Va
+>          Evaline           22  F
+>          Eliza             17  F
+>          Thomas            20  M  Farmer
+>          Oby               14  M
+
+Pass 2: exact age vs Owsley William 26; wife Angeline ≠ Jane 22 ≠ Rhoda; infant Sarah E ≠ Francis 4 / Leanner 2; real estate $700 ≠ $325; next-door father Obediah 56 Va. **REJECT**. → **C1801 C1802** / **S1470 S1471**.
+
+## DOC053 — 1850 Hopkins Dist 2 n0240 Jno Newman 59 × Jane 53 + William P 26
+
+**Inventory:** `sources/census/pass139/keyplates/hopkins-n0240-john-59-tight.jpg` SHA **4c7f1521…**; wide SHA **da4158b0…** (image seen). Dist 2, n0240.
+
+### Diplomatic
+> 76/76  Jno[?] / Jo Newman  59  M  Farmer           N. Carolina
+>         Jane[?] / Nan[?]   53  F                   N. Carolina
+>         Louisa Newman  28  F                   Kentucky
+>         Martha         20  F
+>         Eveline        16  F
+>         Elizabeth      13  F
+>         William P      26  M  Farmer
+> 77/77  Logan Oakley    27  M  Farmer  $257     N. Carolina
+
+Pass 2: compiled Jane; the wife’s first letter lacks the J-descender of Jo on the line above, so **Nan[?]** remains open. Either way she is 53 NC, not 22 KY. William P 26 is a son in the same household, not a living head. Surname letterforms match Francis J **Newman** on n0238. No Francis 4 / Leanner 2. No Rhoda. **REJECT** vs Owsley hh 311. → **C1823** / **S1491 S1492**.

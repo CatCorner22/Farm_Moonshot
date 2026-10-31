@@ -1,0 +1,893 @@
+Breckinridge, KY 1850 Federal Census           (File 7 of 12)
+http://ftp.us-census.org/pub/usgenweb/census/ky/breckinridge/1850/
+
+This Census was transcribed by Brenda Wheeler and proofread by John Wheeler 
+for the USGenWeb Census Project®, http://www.usgenweb.org/census.
+
+Copyright 2000 by Brenda Wheeler <jwheeler@bardstown.com>
+
+==========================================================================
+USGENWEB (US-CENSUS) NOTICE: These electronic pages may NOT be reproduced
+in any format for profit or presentation by any other organization.
+Non-commercial organizations desiring to use this material must obtain
+the consent of the transcriber prior to use.  <Transcriber@US-Census.org>
+Individuals desiring to use this material in their own research may do so.
+==========================================================================
+Thanks to S-K Publications for providing the census page photocopies from
+which this transcription was made.  The complete original, handwritten
+census of this county is available in book form (including a typed index)
+from S-K Publications, PO Box 8173, Wichita KS 67208
+(www.skpub.com/genie/census.html).
+============================================================================
+All of the above information must remain when copied or downloaded.
+============================================================================
+
+Census_Year  1850
+Microfilm #  M432-193
+State        KY
+County       Breckinridge
+
+---------------------Begin Actual Transcription-----------------------------
+
+CENSUS YR:  1850  STATE or TERRITORY:  KY  COUNTY:  Breckinridge  DIVISION:  District No. 1  REEL NO:  M432-193  PAGE NO:  100b
+REFERENCE:  Enumerated by Thomas F.Crittenden on the 24 day of July 1850
+===================================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB   REMARKS
+===================================================================================================================================
+ 1   74   75  PAYNE          Barnay         40   M    .    farmer         800       Tenn.             .     .     .    .    .
+ 2   74   75  PAYNE          Sally          40   F    .    .              .         Ky.               .     .     .    .    .
+ 3   74   75  PAYNE          James          7    M    .    .              .         Ky.               .     X     .    .    .
+ 4   74   75  PAYNE          Mary I.        2    F    .    .              .         Ky.               .     .     .    .    .
+ 5   74   75  STROW          Eliz           16   F    .    .              .         Ky.               .     X     .    .    .
+ 6   75   76  WOOD           Nathan         39   M    .    ba[t           .         N. York           .     .     .    .    .
+ 7   75   76  WOOD           Eliz C.        41   F    .    .              .         Ky.               .     .     .    .    .
+ 8   75   76  WOOD           Martha R.      15   .    .    .              .         Ky.               .     X     .    .    .
+ 9   75   76  WOOD           Mary E.        13   F    .    .              .         Ky.               .     X     .    .    .
+ 10  75   76  WOOD           Sarah I.       10   F    .    .              .         Ky.               .     X     .    .    .
+ 11  75   76  WOOD           James L.       8    M    .    .              .         Ky.               .     X     .    .    .
+ 12  75   76  WOOD           Eliz E.        6    F    .    .              .         Ky.               .     .     .    .    .
+ 13  75   76  WOOD           Wm. N.         3    M    .    .              .         Ky.               .     .     .    .    .
+ 14  75   76  LANDS          Joseph C.      17   M    .    farmer         .         Ky.               .     .     .    .    .
+ 15  76   77  BARBEE         Christopher    44   M    .    farmer         .         Ky.               .     .     .    .    .
+ 16  76   77  BARBEE         Martha         17   F    .    .              .         Ky.               .     X     .    .    .
+ 17  77   78  MONROE         James          45   M    .    farmer         .         Va.               .     .     .    .    .
+ 18  77   78  MONROE         Eliza          44   F    .    .              .         Va.               .     .     .    .    .
+ 19  77   78  HENDRICK       Rebecca        18   F    .    .              .         Ky.               .     .     .    .    .
+ 20  78   79  NEWMAN         Henry          46   M    .    farmer         674       Va.               .     .     .    .    .
+ 21  78   79  NEWMAN         Adeline        48   F    .    .              .         Va.               .     .     .    .    .
+ 22  78   79  NEWMAN         Eliz           19   F    .    .              .         Ky.               .     X     .    .    .
+ 23  78   79  NEWMAN         Richard        18   M    .    farmer         .         Ky.               .     X     .    .    .
+ 24  78   79  NEWMAN         Nathaniel      16   M    .    farmer         .         Ky.               .     X     .    .    .
+ 25  78   79  NEWMAN         George         14   M    .    .              .         Ky.               .     X     .    .    .
+ 26  78   79  NEWMAN         Mary           12   F    .    .              .         Ky.               .     X     .    .    .
+ 27  78   79  NEWMAN         Wm. H.         7    M    .    .              .         Ky.               .     X     .    .    .
+ 28  79   80  COOPER         Jacob M.       37   M    .    merchant       700       South Carolina    .     .     .    .    .
+ 29  79   80  DAVIS          Pamela         39   F    .    .              .         Ky                .     .     .    .    .
+ 30  79   80  COOPER         Martha F.      20   F    .    .              .         Ky                .     .     .    .    .
+ 31  79   80  DAVIS          Minerva        17   F    .    .              .         Ky                .     X     .    .    .
+ 32  79   80  COOPER         Henry          7/12 M    .    .              .         Ky                .     .     .    .    .
+ 33  80   81  MURPHY         Spencer        74   M    .    farmer         .         Va.               .     .     .    .    .
+ 34  80   81  MURPHY         Martha         51   F    .    .              .         Va.               .     .     .    .    .
+ 35  80   81  SMITH          Josephine W.   5    F    .    .              .         Ky.               .     .     .    .    .
+ 36  80   81  SMITH          Comelia F.     2    F    .    .              .         Ky.               .     .     .    .    .
+ 37  81   82  PATE           Samuel C.      36   M    .    farmer         .         Ky.               .     .     .    .    .
+ 38  81   82  PATE           Mary           28   F    .    .              .         Ky.               .     .     .    .    .
+ 39  81   82  PATE           Clinton        4    M    .    .              .         Ky.               .     .     .    .    .
+ 40  81   82  PATE           Tho. C.        3/12 F    .    .              .         Ky.               .     .     .    .    .
+ 41  81   82  DEAN           Miss Jane      20   F    .    .              .         Ky.               .     .     .    .    .
+ 42  82   83  ROBERTS        Luther M.      34   M    .    farmer         1,700     Ky.               .     .     .    .    .
+
+CENSUS YR:  1850  STATE or TERRITORY:  KY  COUNTY:  Breckinridge  DIVISION:  District No. 1  REEL NO:  M432-193  PAGE NO:  101a
+REFERENCE:  Enumerated by Thomas F.Crittenden on the 24 day of July 1850
+===================================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB   REMARKS
+===================================================================================================================================
+ 1   82   83  ROBERTS        Martha         29   F    .    .              .         Ky.               .     .     .    .    .
+ 2   82   83  ROBERTS        Joseph         9    M    .    .              .         Ky.               .     .     .    .    .
+ 3   82   83  ROBERTS        Wm.            7    M    .    .              .         Ky.               .     .     .    .    .
+ 4   82   83  ROBERTS        Luther         5    M    .    .              .         Ky.               .     .     .    .    .
+ 5   82   83  ROBERTS        Ann E.         2    F    .    .              .         Ky.               .     .     .    .    .
+ 6   83   84  BRICKEY        David          36   M    .    farmer         700       Ky.               .     .     .    .    .
+ 7   83   84  BRICKEY        Eliz           32   F    .    .              .         Ky.               .     .     .    .    .
+ 8   83   84  BRICKEY        Laura A.       13   F    .    .              .         Ky.               .     X     .    .    .
+ 9   83   84  BRICKEY        James          8    M    .    .              .         Ky.               .     .     .    .    .
+ 10  83   84  BRICKEY        John           10   M    .    .              .         Ky.               .     .     .    .    .
+ 11  84   85  MINGUS         Peter          82   M    .    farmer         330       Md.               .     .     .    .    .
+ 12  84   85  MINGUS         Nancy          62   F    .    .              .         Va.               .     .     .    .    .
+ 13  84   85  McMANAWAY      Mary           18   F    .    .              .         Ky.               .     .     .    .    .
+ 14  84   85  MINGUS         John           25   M    .    farmer         .         Ky.               .     .     .    .    .
+ 15  85   86  HAYNES         John           48   M    .    farmer         1,000     Va.               .     .     .    .    .
+ 16  85   86  HAYNES         Mary Ann       33   F    .    .              .         Ky.               .     .     .    .    .
+ 17  85   86  HAYNES         Sarah F.       14   F    .    .              .         Ky.               .     X     .    .    .
+ 18  85   86  HAYNES         Martha E.      12   F    .    .              .         Ky.               .     X     .    .    .
+ 19  85   86  HAYNES         Henry N.       10   M    .    .              .         Ky.               .     .     .    .    .
+ 20  85   86  HAYNES         Phebe J.       8    F    .    .              .         Ky.               .     .     .    .    .
+ 21  85   86  HAYNES         Mary I.        6    F    .    .              .         Ky.               .     .     .    .    .
+ 22  85   86  HAYNES         Ann            4    F    .    .              .         Ky.               .     .     .    .    .
+ 23  85   86  HAYNES         John W.        1    M    .    .              .         Ky.               .     .     .    .    .
+ 24  86   87  MASON          Henderson      50   M    .    farmer         800       Va.               .     .     .    .    .
+ 25  86   87  MASON          Wm.            19   M    .    farmer         .         Ky.               .     .     .    .    .
+ 26  86   87  MASON          Frances        16   F    .    .              .         Ky.               .     .     .    .    .
+ 27  87   88  DUNN           Benjamin       25   M    .    farmer         400       Tenn.             .     .     .    .    .
+ 28  87   88  DUNN           Susan          42   F    .    .              .         Va.               .     .     .    .    .
+ 29  87   88  DUNN           Joseph         2    M    .    .              .         Ky.               .     .     .    .    .
+ 30  87   88  FALLS          Thomas         12   M    .    .              .         Ky.               .     .     .    .    .
+ 31  88   89  MASON          Joseph         57   M    .    farmer         .         Ky.               .     .     .    .    .
+ 32  88   89  MASON          Elenor         40   F    .    .              .         Md.               .     .     .    .    .
+ 33  88   89  MASON          George W.      24   M    .    farmer         .         Ky.               .     .     .    .    .
+ 34  88   89  MASON          Wm.            18   M    .    farmer         .         Ky.               .     .     .    .    .
+ 35  88   89  MASON          Rosa A.        17   F    .    .              .         Ky.               .     .     .    .    .
+ 36  88   89  MASON          Harriet        15   F    .    .              .         Ky.               .     X     .    .    .
+ 37  88   89  MASON          James          12   M    .    .              .         Ky.               .     X     .    .    .
+ 38  88   89  MASON          Francis        11   M    .    .              .         Ky.               .     X     .    .    .
+ 39  88   89  MASON          Ellen          9    F    .    .              .         Ky.               .     X     .    .    .
+ 40  88   89  MASON          Catherine      6    F    .    .              .         Ky.               .     .     .    .    .
+ 41  89   90  McMANAWAY      Samuel         26   M    .    farmer         160       Ky.               .     .     X    .    .
+ 42  89   90  McMANAWAY      Charity        28   F    .    .              .         Ky.               .     .     .    .    .
+
+CENSUS YR:  1850  STATE or TERRITORY:  KY  COUNTY:  Breckinridge  DIVISION:  District No. 1  REEL NO:  M432-193  PAGE NO:  101b
+REFERENCE:  Enumerated by Thomas F.Crittenden on the 25 day of July 1850
+===================================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB   REMARKS
+===================================================================================================================================
+ 1   89   90  McMANAWAY      Eliza J.       6    F    .    .              .         Ky.               .     .     .    .    .
+ 2   89   90  McMANAWAY      Angeline       4    F    .    .              .         Ky.               .     .     .    .    .
+ 3   89   90  McMANAWAY      Willis M.      1    M    .    .              .         Ky.               .     .     .    .    .
+ 4   89   90  McMANAWAY      Mary           55   F    .    .              .         Va.               .     .     X    .    .
+ 5   90   91  NEWTON         David          31   M    .    farmer         200       Ky.               .     .     .    .    .
+ 6   90   91  NEWTON         Mary L.        30   F    .    .              .         Ky.               .     .     .    .    .
+ 7   90   91  NEWTON         James A.       4    M    .    .              .         Ky.               .     .     .    .    .
+ 8   90   91  NEWTON         Sarah A.       3    F    .    .              .         Ky.               .     .     .    .    .
+ 9   90   91  NEWTON         David W.       2    M    .    .              .         Ky.               .     .     .    .    .
+ 10  90   91  NEWTON         Nancy          24   F    .    .              .         Ky.               .     .     .    .    .
+ 11  90   91  NEWTON         Eliz           66   F    .    .              .         Ky.               .     .     .    .    .
+ 12  91   92  CANA           Patrick        29   M    .    farmer         200       Ky.               .     .     .    .    .
+ 13  91   92  CANA           Roberty        37   F    .    .              .         N.C.              .     .     .    .    .
+ 14  91   92  SOLOMON        James          2    M    .    .              .         Ky.               .     .     .    .    .
+ 15  92   93  RICE           James          29   M    .    farmer         275       Ky.               .     .     .    .    .
+ 16  92   93  RICE           Nancy          50   F    .    .              .         Va.               .     .     X    .    .
+ 17  92   93  RICE           Humphrey       27   M    .    farmer         .         Ky.               .     .     X    .    .
+ 18  92   93  RICE           Emily          20   F    .    .              .         Ky.               .     .     X    .    .
+ 19  92   93  McMANAWAY      Andrew         16   M    .    farmer         .         Ky.               .     .     .    .    .
+ 20  93   94  FALLS          James          23   M    .    farmer         145       Ky.               .     .     .    .    .
+ 21  93   94  FALLS          Sidney         30   F    .    .              .         Ky.               .     .     .    .    .
+ 22  93   94  FALLS          Mary           2    F    .    .              .         Ky.               .     .     .    .    .
+ 23  93   94  FALLS          Eliz           2    F    .    .              .         Ky.               .     .     .    .    .
+ 24  94   95  RICE           Samuel         26   M    .    farmer         .         Ky.               .     .     .    .    .
+ 25  94   95  RICE           Eliz G.        25   F    .    .              .         Ky.               .     .     .    .    .
+ 26  94   95  RICE           Owen W.        2    M    .    .              .         Ky.               .     .     .    .    .
+ 27  94   95  RICE           Johnson E.     3/12 M    .    .              .         Ky.               .     .     .    .    .
+ 28  95   96  MULLEN         George A.      43   M    .    farmer         600       Va.               .     .     .    .    .
+ 29  95   96  MULLEN         Eliz M.        36   F    .    .              .         Va.               .     .     .    .    .
+ 30  95   96  MULLEN         George W.      15   M    .    farmer         .         Va.               .     .     .    .    .
+ 31  95   96  MULLEN         Letitia A.     13   F    .    .              .         Va.               .     .     .    .    .
+ 32  95   96  MULLEN         Wm. K.         10   M    .    .              .         Va.               .     .     .    .    .
+ 33  95   96  MULLEN         Mary I.        7    F    .    .              .         Va.               .     .     .    .    .
+ 34  95   96  MULLEN         Andrew I.      4    M    .    .              .         Va.               .     .     .    .    .
+ 35  95   96  MULLEN         Sarah E.M.     1    F    .    .              .         Va.               .     .     .    .    .
+ 36  96   97  PATE           Jeremiah       58   M    .    farmer         .         Ky.               .     .     .    .    .
+ 37  96   97  PATE           Mary K.        48   F    .    .              .         Va.               .     .     .    .    .
+ 38  96   97  PATE           Henriatta      22   F    .    .              .         Ky.               .     .     .    .    .
+ 39  96   97  PATE           Richard M.     18   M    .    farmer         .         Ky.               .     .     .    .    .
+ 40  96   97  PATE           Eliz           16   F    .    .              .         Ky.               .     .     .    .    .
+ 41  96   97  PATE           Susan          13   F    .    .              .         Ky.               .     .     .    .    .
+ 42  96   97  PATE           Ja.            12   M    .    .              .         Ky.               .     .     .    .    .
+
+CENSUS YR:  1850  STATE or TERRITORY:  KY  COUNTY:  Breckinridge  DIVISION:  District No. 1  REEL NO:  M432-193  PAGE NO:  102a
+REFERENCE:  Enumerated by Thomas F.Crittenden on the 26 day of July 1850
+===================================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB   REMARKS
+===================================================================================================================================
+ 1   96   97  PATE           Thomas         7    M    .    .              .         Ky.               .     .     .    .    .
+ 2   96   97  PATE           Sarah          4    F    .    .              .         Ky.               .     .     .    .    .
+ 3   96   97  PATE           Thomas         2    M    .    .              .         Ky.               .     .     .    .    .
+ 4   97   98  Pate           Lorinzo D.     25   M    .    farmer         .         Ky.               .     .     X    .    .
+ 5   97   98  Pate           Nancy E.       23   F    .    .              .         Ky.               .     .     X    .    .
+ 6   97   98  Pate           Melissa J.     2/12 F    .    .              .         Ky.               .     .     .    .    .
+ 7   98   99  DOUGHERTY      Jesse          62   M    .    farmer         500       Va.               .     .     .    .    .
+ 8   98   99  DOUGHERTY      Martha         32   F    .    .              .         S. Carolina       .     .     .    .    .
+ 9   98   99  DOUGHERTY      Littleton      12   M    .    .              .         Ky.               .     .     .    .    .
+ 10  98   99  DOUGHERTY      Mary           9    F    .    .              .         Ky.               .     .     .    .    .
+ 11  98   99  DOUGHERTY      Joseph A.      7    M    .    .              .         Ky.               .     .     .    .    .
+ 12  98   99  DOUGHERTY      Angeline       3    F    .    .              .         Ky.               .     .     .    .    .
+ 13  99   100 DUNN           John           65   M    .    farmer         .         Va.               .     .     X    .    .
+ 14  99   100 DUNN           Polly          65   F    .    .              .         S.C.              .     .     X    .    .
+ 15  100  101 DUNN           Eli            25   M    .    farmer         .         Ky.               .     .     X    .    .
+ 16  100  101 DUNN           Patsey         30   F    .    .              .         Tenn              .     .     X    .    .
+ 17  100  101 DUNN           Emily          6    F    .    .              .         Ky.               .     .     .    .    .
+ 18  100  101 DUNN           John W.        4    M    .    .              .         Ky.               .     .     .    .    .
+ 19  100  101 DUNN           Benj           2    M    .    .              .         Ky.               .     .     .    .    .
+ 20  100  101 DUNN           Mary C.        1    F    .    .              .         Ky.               .     .     .    .    .
+ 21  101  102 HOLLAND        Martin         22   M    .    farmer         .         Ky.               .     .     .    .    .
+ 22  101  102 HOLLAND        Catharine I.   16   F    .    .              .         Ky.               .     .     .    .    .
+ 23  101  102 HOLLAND        Emily A.       1    F    .    .              .         Ky.               .     .     .    .    .
+ 24  102  103 BOWMAN         Catherine      35   F    .    farmer         250       Ky.               .     .     .    .    .
+ 25  102  103 BOWMAN         James          8    M    .    .              .         Ky.               .     .     .    .    .
+ 26  102  103 BOWMAN         George         23   M    .    farmer         .         Ky.               .     .     .    .    .
+ 27  102  103 BOWMAN         Benjamin       21   M    .    farmer         .         Ky.               .     .     .    .    .
+ 28  102  103 BOWMAN         Mary J.        12   F    .    .              .         Ky.               .     .     .    .    .
+ 29  102  103 BOWMAN         Samuel         5    M    .    .              .         Ky.               .     .     .    .    .
+ 30  102  103 BOWMAN         Wm.            4    M    .    .              .         Ky.               .     .     .    .    .
+ 31  102  103 BOWMAN         Frances A.     2    F    .    .              .         Ky.               .     .     .    .    .
+ 32  102  103 BOWMAN         Mary           33   F    .    .              .         Ky.               .     .     .    .    .
+ 33  102  103 BOWMAN         Nancy E.       3/12 F    .    .              .         Ky.               .     .     .    .    .
+ 34  103  104 McQUADY        Wm             50   M    .    farmer         300       Ky.               .     .     .    .    .
+ 35  103  104 McQUADY        Mary A.        42   F    .    .              .         Ky.               .     .     .    .    .
+ 36  103  104 McQUADY        Jno            17   M    .    farmer         .         Ky.               .     .     .    .    .
+ 37  103  104 McQUADY        Joseph         13   M    .    .              .         Ky.               .     .     .    .    .
+ 38  103  104 McQUADY        Mary A.        10   F    .    .              .         Ky.               .     X     .    .    .
+ 39  103  104 McQUADY        Obediah        8    M    .    .              .         Ky.               .     .     .    .    .
+ 40  103  104 McQUADY        Nancy          6    F    .    .              .         Ky.               .     .     .    .    .
+ 41  103  104 McQUADY        Sarah E.       4    F    .    .              .         Ky.               .     .     .    .    .
+ 42  104  105 blank          .              .    .    .    .              .         .                 .     .     .    .    blank line
+
+CENSUS YR:  1850  STATE or TERRITORY:  KY  COUNTY:  Breckinridge  DIVISION:  District No. 1  REEL NO:  M432-193  PAGE NO:  102b
+REFERENCE:  Enumerated by Thomas F.Crittenden on the 27 day of July 1850
+===================================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB   REMARKS
+===================================================================================================================================
+ 1   105  106 McQUADY        Thomas         36   M    .    farmer         300       Ky.               .     .     .    .    .
+ 2   105  106 McQUADY        Eliz           21   F    .    .              .         Ky.               .     .     .    .    .
+ 3   105  106 McQUADY        Mary A.        3    F    .    .              .         Ky.               .     .     .    .    .
+ 4   105  106 McQUADY        Wm. H.         1    M    .    .              .         Ky.               .     .     .    .    .
+ 5   105  106 MASON          Jane           12   F    .    .              .         Ky.               .     .     .    .    .
+ 6   106  107 PARSONS        Isaac          35   M    .    farmer         .         Ky.               .     .     .    .    .
+ 7   106  107 PARSONS        Eliza          25   F    .    .              .         Ky.               .     .     .    .    .
+ 8   106  107 PARSONS        George W.      10   M    .    .              .         Ky.               .     .     .    .    .
+ 9   106  107 PARSONS        Jubal          7    M    .    .              .         Ky.               .     .     .    .    .
+ 10  106  107 PARSONS        Wm. R.         5    M    .    .              .         Ky.               .     .     .    .    .
+ 11  106  107 PARSONS        Jno T.         3    M    .    .              .         Ky.               .     .     .    .    .
+ 12  106  107 PARSONS        James L.       1    M    .    .              .         Ky.               .     .     .    .    .
+ 13  107  108 BARBEE         Edward         40   M    .    farmer         200       Ky.               .     .     .    .    .
+ 14  107  108 BARBEE         Eliz           29   F    .    .              .         Ky.               .     .     .    .    .
+ 15  107  108 BARBEE         Mildred        11   M    .    .              .         Ky.               .     .     .    .    sex says male
+ 16  107  108 BARETOW        James P        11   M    .    .              .         Ky.               .     .     .    .    .
+ 17  107  108 BARBEE         Ja.            7    M    .    .              .         Ky.               .     .     .    .    .
+ 18  107  108 BARBEE         Dillus         5    M    .    .              .         Ky.               .     .     .    .    .
+ 19  107  108 BARBEE         Philo          2    M    .    .              .         Ky.               .     .     .    .    .
+ 20  107  108 BARBEE         Mary           1/12 F    .    .              .         Ky.               .     .     .    .    .
+ 21  108  109 DODD           Aaron          66   M    .    farmer         .         Va.               .     .     .    .    .
+ 22  108  109 DODD           Sarah          49   F    .    .              .         Tenn.             .     .     .    .    .
+ 23  109  110 ALLEN          Marcus         52   M    .    farmer         600       Vermont           .     .     .    .    .
+ 24  109  110 ALLEN          Lucia          52   F    .    .              .         Vermont           .     .     .    .    .
+ 25  109  110 ALLEN          Wm. L.         26   M    .    farmer         .         Vermont           .     .     .    .    .
+ 26  109  110 ALLEN          Herman H.      22   M    .    teacher        .         New York          .     .     .    .    .
+ 27  109  110 ALLEN          Samuel L.      12   M    .    .              .         Indiana           .     .     .    .    .
+ 28  109  110 FABRIGUE       Dudley         11   M    .    .              .         Indiana           .     .     .    .    .
+ 29  109  110 FABRIGUE       Andrew         9    M    .    .              .         Indiana           .     .     .    .    .
+ 30  110  111 SMART          Tho. L.        64   M    .    farmer         500       Ky.               .     .     .    .    .
+ 31  110  111 GARDNER        Malinda E.     38   F    .    .              .         Ky.               .     .     .    .    .
+ 32  110  111 GARDNER        Minerva I.     16   F    .    .              .         Ky.               .     .     .    .    .
+ 33  110  111 GARDNER        Tho. W.        13   M    .    .              .         Ky.               .     .     .    .    .
+ 34  110  111 GARDNER        Robt.          9    M    .    .              .         Ky.               .     .     .    .    .
+ 35  110  111 GARDNER        Nancy          8    F    .    .              .         Ky.               .     .     .    .    .
+ 36  110  111 GARDNER        Blackstone     5    M    .    .              .         Ky.               .     .     .    .    .
+ 37  111  112 PEASE          Edward W.      31   M    .    farmer         700       Vermont           .     .     .    .    .
+ 38  111  112 PEASE          Ann L.         21   F    .    .              .         Ky.               .     .     .    .    .
+ 39  111  112 HALL           Mrs. Hannah    61   F    .    .              .         Va.               .     .     .    .    .
+ 40  111  112 COOK           Betsey         73   F    .    .              .         Penn.             .     .     .    .    .
+ 41  111  112 PEASE          Lania          2    F    .    .              .         Ky.               .     .     .    .    .
+ 42  111  112 PEASE          Mary E.        7/12 F    .    .              .         Ky.               .     .     .    .    .
+
+CENSUS YR:  1850  STATE or TERRITORY:  KY  COUNTY:  Breckinridge  DIVISION:  District No. 1  REEL NO:  M432-193  PAGE NO:  103a
+REFERENCE:  Enumerated by Thomas F.Crittenden on the 27 day of July 1850
+===================================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB   REMARKS
+===================================================================================================================================
+ 1   111  112 JENNINGS       Nathaniel      25   M    .    farmer         .         Ky.               .     .     .    .    .
+ 2   112  113 NEWTON         Washington     39   M    .    farmer         .         Ky.               .     .     .    .    .
+ 3   112  113 NEWTON         Rhoda A.       38   F    .    .              .         Ky.               .     .     .    .    .
+ 4   112  113 NEWTON         James          16   M    .    farmer         .         Ky.               .     .     .    .    .
+ 5   113  114 CHAMBLISS      Robt. B.       34   M    .    farmer         300       N.C.              .     .     .    .    .
+ 6   113  114 CHAMBLISS      Mary E.        34   F    .    .              .         Ky.               .     .     .    .    .
+ 7   113  114 CHAMBLISS      Sarah E.       6    F    .    .              .         Ky.               .     .     .    .    .
+ 8   113  114 CHAMBLISS      Rebecca A.     5    F    .    .              .         Ky.               .     .     .    .    .
+ 9   113  114 CHAMBLISS      Josephine      2    F    .    .              .         Ky.               .     .     .    .    .
+ 10  113  114 CHAMBLISS      Cornelia       2    F    .    .              .         Ky.               .     .     .    .    .
+ 11  114  115 RYON           Morris         55   M    .    farmer         2,000     Md.               .     .     .    .    .
+ 12  114  115 RYON           Cynthia        57   F    .    .              .         Va.               .     .     .    .    .
+ 13  114  115 RYON           Ellen          22   F    .    .              .         Ky.               .     .     .    .    .
+ 14  114  115 RYON           Thomas         18   M    .    farmer         .         Ky.               .     .     .    .    .
+ 15  114  115 RYON           Naomi          17   F    .    .              .         Ky.               .     .     .    .    .
+ 16  115  116 BELL           William        41   M    .    farmer         .         Ky.               .     .     .    .    .
+ 17  115  116 BELL           Nancy          40   F    .    .              .         S.C.              .     .     .    .    .
+ 18  115  116 BELL           John           14   M    .    .              .         Ky.               .     .     .    .    .
+ 19  115  116 BELL           Azariah        12   M    .    .              .         Ky.               .     .     .    .    .
+ 20  115  116 BELL           Polly          10   F    .    .              .         Ky.               .     .     .    .    .
+ 21  115  116 BELL           Nelson         7    M    .    .              .         Ky.               .     .     .    .    .
+ 22  115  116 BELL           James          5    M    .    .              .         Ky.               .     .     .    .    .
+ 23  115  116 BELL           Charlie        3    M    .    .              .         Ky.               .     .     .    .    .
+ 24  115  116 BELL           Rachel         6/12 F    .    .              .         Ky.               .     .     .    .    .
+ 25  116  117 SHARER         Morgan         59   M    .    .              .         Tennessee         .     .     .    .    .
+ 26  116  117 SHARER         Polly          50   F    .    .              .         N.C.              .     .     .    .    .
+ 27  116  117 SHARER         Eliza H.       18   F    .    .              .         Tennessee         .     .     .    .    .
+ 28  116  117 SHARER         Thomas         16   M    .    farmer         .         Ky.               .     .     .    .    .
+ 29  116  117 SHARER         Elbridge J.    14   M    .    .              .         Ky.               .     .     .    .    .
+ 30  116  117 SHARER         James          12   M    .    .              .         Ky.               .     .     .    .    .
+ 31  116  117 SHARER         Sarah          9    F    .    .              .         Ky.               .     .     .    .    .
+ 32  116  117 SHARER         Eliza T.       6    F    .    .              .         Ky.               .     .     .    .    .
+ 33  116  117 SHARER         Mary I.        3    F    .    .              .         Ky.               .     .     .    .    .
+ 34  117  118 DEAN           Henry          21   M    .    farmer         1,200     Ky.               .     .     .    .    .
+ 35  118  119 WHEATLEY       Joseph         35   M    .    .              .         Ky.               .     .     .    .    .
+ 36  118  119 WHEATLEY       Mary A.        30   F    .    .              .         Ky.               .     .     .    .    .
+ 37  118  119 WHEATLEY       Sarah A.       9    F    .    .              .         Ky.               .     .     .    .    .
+ 38  118  119 WHEATLEY       John           8    M    .    .              .         Ky.               .     .     .    .    .
+ 39  118  119 WHEATLEY       Benjamin T.    6    M    .    .              .         Ky.               .     .     .    .    .
+ 40  118  119 WHEATLEY       Francis        4    F    .    .              .         Ky.               .     .     .    .    .
+ 41  118  119 WHEATLEY       Eliz E.        2    F    .    .              .         Ky.               .     .     .    .    .
+ 42  118  119 HARRISON       John           18   M    .    laborer        .         Ky.               .     .     .    .    .
+
+CENSUS YR:  1850  STATE or TERRITORY:  KY  COUNTY:  Breckinridge  DIVISION:  District No. 1  REEL NO:  M432-193  PAGE NO:  103b
+REFERENCE:  Enumerated by Thomas F.Crittenden on the 30 day of July 1850
+===================================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB   REMARKS
+===================================================================================================================================
+ 1   119  120 MORTON         Hezekiah       60   M    .    farmer         .         Connecticut       .     .     .    .    .
+ 2   119  120 MORTON         Martha         51   F    .    .              .         Ky.               .     .     .    .    .
+ 3   119  120 JONES          Martha         16   F    .    .              .         Ky.               .     .     .    .    .
+ 4   120  121 Morton         Henry O.       29   M    .    farmer         70        Vermont           .     .     .    .    .
+ 5   120  121 MORTON         Mary A.        29   F    .    .              .         Ky.               .     .     .    .    .
+ 6   120  121 MORTON         William        6    M    .    .              .         Ky.               .     .     .    .    .
+ 7   120  121 MORTON         Henry L.       5    M    .    .              .         Ky.               .     .     .    .    .
+ 8   120  121 MORTON         Joseph S.      2    M    .    .              .         Ky.               .     .     .    .    .
+ 9   120  121 MORTON         Susan E.       5    F    .    .              .         Ky.               .     .     .    .    .
+ 10  120  121 JONES          Francis        14   F    .    .              .         Ky.               .     .     .    .    .
+ 11  121  122 MORTON         Lester A.      26   M    .    farmer         150       VERMONT           .     .     .    .    .
+ 12  121  122 MORTON         Lucy A.        30   F    .    .              .         VERMONT           .     .     .    .    .
+ 13  122  123 JONES          William S.     50   M    .    farmer         500       Ky.               .     .     .    .    .
+ 14  122  123 JONES          Susannah       55   F    .    .              .         Maryland          .     .     .    .    .
+ 15  122  123 JONES          Elizabeth      24   F    .    .              .         Ky.               .     .     .    .    .
+ 16  122  123 JONES          William W.     22   M    .    farmer         .         Ky.               .     .     .    .    .
+ 17  122  123 JONES          James M.       19   M    .    .              .         Ky.               .     .     .    .    .
+ 18  122  123 JONES          Mason L.       16   M    .    .              .         Ky.               .     .     .    .    .
+ 19  123  124 ROBBINSON      William J.     37   M    .    farmer         1,000     Va.               .     .     .    .    .
+ 20  123  124 ROBBINSON      Sarah J.       36   F    .    .              .         Ky.               .     .     .    .    .
+ 21  123  124 ROBBINSON      James R.       14   M    .    .              .         Ky.               .     .     .    .    .
+ 22  123  124 ROBBINSON      Amanda         11   F    .    .              .         Ky.               .     .     .    .    .
+ 23  123  124 ROBBINSON      Thomas V.      9    M    .    .              .         Ky.               .     .     .    .    .
+ 24  123  124 ROBBINSON      Charles        7    M    .    .              .         Ky.               .     .     .    .    .
+ 25  123  124 ROBBINSON      George R.      4    M    .    .              .         Ky.               .     .     .    .    .
+ 26  124  125 MOORMAN        Thomas         35   M    .    farmer         3,000     Ky.               .     .     .    .    .
+ 27  124  125 MOORMAN        Judith         31   F    .    .              .         Ky.               .     .     .    .    .
+ 28  124  125 MOORMAN        Jane           4    F    .    .              .         Ky.               .     .     .    .    .
+ 29  124  125 MOORMAN        Anne E.        2    F    .    .              .         Ky.               .     .     .    .    .
+ 30  125  126 GLASCOCK       Rodman         40   M    .    farmer         .         Ky.               .     .     .    .    .
+ 31  125  126 GLASCOCK       Sally          39   F    .    .              .         N.C.              .     .     .    .    .
+ 32  125  126 GLASCOCK       Nancy J.       18   F    .    .              .         Ky.               .     .     .    .    .
+ 33  125  126 GLASCOCK       James          16   M    .    .              .         Ky.               .     .     .    .    .
+ 34  125  126 GLASCOCK       Mary E.        14   F    .    .              .         Ky.               .     .     .    .    .
+ 35  125  126 GLASCOCK       Eveline        12   F    .    .              .         Ky.               .     .     .    .    .
+ 36  125  126 GLASCOCK       William J.     10   M    .    .              .         Ky.               .     .     .    .    .
+ 37  125  126 GLASCOCK       Susan W.       8    F    .    .              .         Ky.               .     .     .    .    .
+ 38  125  126 GLASCOCK       Eliza F.       6    F    .    .              .         Ky.               .     .     .    .    .
+ 39  125  126 GLASCOCK       Amanda         4    F    .    .              .         Ky.               .     .     .    .    .
+ 40  125  126 GLASCOCK       Redman P.      3    M    .    .              .         Ky.               .     .     .    .    .
+ 41  125  126 GLASCOCK       John           1    M    .    .              .         Ky.               .     .     .    .    .
+ 42  125  126 blank          .              .    .    .    .              .         .                 .     .     .    .    blank line
+
+CENSUS YR:  1850  STATE or TERRITORY:  KY  COUNTY:  Breckinridge  DIVISION:  District No. 1  REEL NO:  M432-193  PAGE NO:  104a
+===================================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB   REMARKS
+===================================================================================================================================
+ 1   126  127 COOPER         Joseph         48   M    .    farmer         1,500     S.C.              .     .     .    .    .
+ 2   126  127 COOPER         Sarah          45   F    .    .              .         Ky.               .     .     .    .    .
+ 3   126  127 COOPER         J. George R.   24   M    .    .              .         Ky.               .     .     .    .    .
+ 4   126  127 COOPER         Jacob C.       21   M    .    .              .         Ky.               .     X     .    .    .
+ 5   126  127 COOPER         Martha C.      19   F    .    .              .         Ky.               .     .     .    .    .
+ 6   126  127 COOPER         Mary           16   F    .    .              .         Ky.               .     .     .    .    .
+ 7   126  127 COOPER         William        14   M    .    .              .         Ky.               .     .     .    .    .
+ 8   126  127 COOPER         Elijah         12   M    .    .              .         Ky.               .     X     .    .    .
+ 9   126  127 COOPER         Westley        8    M    .    .              .         Ky.               .     X     .    .    .
+ 10  126  127 COOPER         Henry          6    M    .    .              .         Ky.               .     .     .    .    .
+ 11  126  127 COOPER         Charles        4    M    .    .              .         Ky.               .     .     .    .    .
+ 12  126  127 COOPER         Lanora         2    F    .    .              .         Ky.               .     .     .    .    .
+ 13  127  128 DeHAVEN        Edward         45   M    .    farmer         1,000     Ky.               .     .     .    .    .
+ 14  127  128 DeHAVEN        Theodelia      42   F    .    .              .         Ky.               .     .     .    .    .
+ 15  127  128 DeHAVEN        William        21   M    .    farmer         .         Ky.               .     .     .    .    .
+ 16  127  128 DeHAVEN        David          18   M    .    farmer         .         Ky.               .     .     .    .    .
+ 17  127  128 DeHAVEN        Edward         16   M    .    farmer         .         Ky.               .     X     .    .    .
+ 18  127  128 DeHAVEN        John           14   M    .    .              .         Ky.               .     X     .    .    .
+ 19  127  128 DeHAVEN        Jesse          12   M    .    .              .         Ky.               .     .     .    .    .
+ 20  127  128 DeHAVEN        Jacob          6    M    .    .              .         Ky.               .     .     .    .    .
+ 21  127  128 DeHAVEN        Isaac          6    M    .    .              .         Ky.               .     .     .    .    .
+ 22  127  128 DeHAVEN        Mary           5    F    .    .              .         Ky.               .     .     .    .    .
+ 23  127  128 DeHAVEN        Rebecca        1    F    .    .              .         Ky.               .     .     .    .    .
+ 24  128  129 CLARKE         Lerelan C.     37   M    .    farmer         600       Ky.               .     .     .    .    .
+ 25  128  129 CLARKE         Eliza          34   F    .    .              .         Ky.               .     .     .    .    .
+ 26  128  129 CLARKE         Mary           17   F    .    .              .         Ky.               .     .     .    .    .
+ 27  128  129 CLARKE         Sarah          15   F    .    .              .         Ky.               .     .     .    .    .
+ 28  128  129 CLARKE         Lucy           12   F    .    .              .         Ky.               .     .     .    .    .
+ 29  128  129 CLARKE         Betty          10   F    .    .              .         Ky.               .     .     .    .    .
+ 30  128  129 CLARKE         William        7    M    .    .              .         Ky.               .     .     .    .    .
+ 31  128  129 CLARKE         George         3    M    .    .              .         Ky.               .     .     .    .    .
+ 32  129  130 HOWARD         James M.       47   M    .    farmer         1,000     Ky.               .     .     .    .    .
+ 33  129  130 HOWARD         Mary           45   F    .    .              .         Ky.               .     .     .    .    .
+ 34  129  130 HOWARD         Sarah          16   F    .    .              .         Ky.               .     X     .    .    .
+ 35  129  130 HOWARD         John           12   M    .    .              .         Ky.               .     X     .    .    .
+ 36  129  130 HOWARD         Peter          10   M    .    .              .         Ky.               .     X     .    .    .
+ 37  129  130 HOWARD         Eiz            7    F    .    .              .         Ky.               .     .     .    .    .
+ 38  129  130 HOWARD         James          6    M    .    .              .         Ky.               .     .     .    .    .
+ 39  129  130 HOWARD         Joseph         4    M    .    .              .         Ky.               .     .     .    .    .
+ 40  129  130 HOWARD         David          1    M    .    .              .         Ky.               .     .     .    .    .
+ 41  130  131 LEWIS          Wm. R.         68   M    .    farmer         475       Maryland          .     .     .    .    .
+ 42  130  131 LEWIS          Tiosee         57   F    .    .              .         Maryland          .     .     .    .    .
+
+CENSUS YR:  1850  STATE or TERRITORY:  KY  COUNTY:  Breckinridge  DIVISION:  District No. 1  REEL NO:  M432-193  PAGE NO:  104b
+REFERENCE:  Enumerated by Thomas F.Crittenden on the 31 day of July 1850
+===================================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB   REMARKS
+===================================================================================================================================
+ 1   130  131 LEWIS          Catherine M    17   F    .    .              .         Ky                .     .     .    .    .
+ 2   130  131 LEWIS          Sarah          11   F    .    .              .         Ky                .     .     .    .    .
+ 3   130  131 LEWIS          Susan          7    F    .    .              .         Ky                .     .     .    .    .
+ 4   131  132 LEWIS          Felix M.       33   M    .    farmer         .         Ky                .     .     .    .    .
+ 5   131  132 LEWIS          Nancy          33   F    .    .              .         Ky                .     .     .    .    .
+ 6   131  132 LEWIS          Susan          2    F    .    .              .         Ky                .     .     .    .    .
+ 7   131  132 LEWIS          Vincent        4/12 M    .    .              .         Ky                .     .     .    .    .
+ 8   132  133 WHEATLEY       Susan          60   F    .    farmer         .         Ky                .     .     .    .    .
+ 9   132  133 WHEATLEY       Mariah         35   F    .    .              .         Ky                .     .     .    .    .
+ 10  132  133 WHEATLEY       Frances        25   F    .    .              .         Ky                .     .     .    .    .
+ 11  132  133 WHEATLEY       Amelia         24   F    .    .              .         Ky                .     .     .    .    .
+ 12  132  133 WHEATLEY       Sarah          23   F    .    .              .         Ky                .     .     .    .    .
+ 13  132  133 WHEATLEY       Hebernia       20   F    .    .              .         Ky                .     .     .    .    .
+ 14  133  134 OWEN           Wm. D.         37   M    .    farmer         3,500     Ky                .     .     .    .    .
+ 15  133  134 OWEN           Marsha         27   F    .    .              .         Ky                .     .     .    .    .
+ 16  133  134 OWEN           James          11   M    .    .              .         Ky                .     X     .    .    .
+ 17  133  134 OWEN           Delia          8    F    .    .              .         Ky                .     X     .    .    .
+ 18  133  134 OWEN           William        5    M    .    .              .         Ky                .     .     .    .    .
+ 19  133  134 OWEN           Lucy           3    F    .    .              .         Ky                .     .     .    .    .
+ 20  133  134 OWEN           John           1    M    .    .              .         Ky                .     .     .    .    .
+ 21  134  135 DEAN           Summers        50   M    .    farmer         9,000     Ky                .     .     .    .    .
+ 22  134  135 DEAN           Elizabeth      39   F    .    .              .         Ky                .     .     .    .    .
+ 23  134  135 DEAN           James          13   M    .    .              .         Ky                .     X     .    .    .
+ 24  134  135 DEAN           Cyrus          12   M    .    .              .         Ky                .     X     .    .    .
+ 25  134  135 DEAN           Thomas         9    M    .    .              .         Ky                .     X     .    .    .
+ 26  134  135 DEAN           Summers        7    M    .    .              .         Ky                .     .     .    .    .
+ 27  134  135 DEAN           Eli            4    M    .    .              .         Ky                .     .     .    .    .
+ 28  134  135 DEAN           Ann            1    F    .    .              .         Ky                .     .     .    .    .
+ 29  134  135 CHRISTIAM      John T.        28   M    .    M.D.           .         Ky                .     .     .    .    .
+ 30  135  136 WEBB           John S.        23   M    .    farmer         1,000     Ky.               .     .     .    .    .
+ 31  136  137 MORMAN         Andrew C.      50   M    .    farmer         2,500     Va.               .     .     .    .    .
+ 32  136  137 MORMAN         Eliza          46   F    .    .              .         N.C.              .     .     .    .    .
+ 33  136  137 MORMAN         James          26   M    .    farmer         .         Ky.               .     .     .    .    .
+ 34  136  137 MORMAN         Lemuel         17   M    .    farmer         .         Ky.               .     .     .    .    .
+ 35  136  137 MORMAN         Ann            19   F    .    .              .         Ky.               .     .     .    .    .
+ 36  136  137 MORMAN         John           15   M    .    .              .         Ky.               .     .     .    .    .
+ 37  136  137 MORMAN         Lewis          13   M    .    .              .         Ky.               .     .     .    .    .
+ 38  137  138 MORMAN         James          74   M    .    .              3,000     Va.               .     .     .    .    .
+ 39  137  138 MORMAN         Nancy          64   F    .    .              .         N.C.              .     .     .    .    .
+ 40  137  138 MORMAN         James          25   M    .    farmer         .         Ky.               .     .     .    .    .
+ 41  137  138 MORMAN         Margaret       18   F    .    .              .         Ky.               .     .     .    .    .
+ 42  137  138 blank          .              .    .    .    .              .         .                 .     .     .    .    blank line
+
+CENSUS YR:  1850  STATE or TERRITORY:  KY  COUNTY:  Breckinridge  DIVISION:  District No. 1  REEL NO:  M432-193  PAGE NO:  105a
+REFERENCE:  Enumerated by Thomas F.Crittenden on the 1 day of Aug. 1850
+===================================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB   REMARKS
+===================================================================================================================================
+ 1   138  139 MOORMAN        John           31   M    .    farmer         2,000     Ky.               .     .     .    .    .
+ 2   138  139 MOORMAN        Jane           21   F    .    .              .         Ky.               .     .     .    .    .
+ 3   139  140 RHODES         Thomas         31   M    .    farmer         700       Ky.               .     .     .    .    .
+ 4   139  140 RHODES         Amelia         27   F    .    .              .         Ky.               .     .     .    .    .
+ 5   139  140 RHODES         Sarah J.       6    F    .    .              .         Ky.               .     .     .    .    .
+ 6   139  140 RHODES         Joseph C.      5    M    .    .              .         Ky.               .     .     .    .    .
+ 7   139  140 RHODES         Docia B.       3    F    .    .              .         Ky.               .     .     .    .    .
+ 8   139  140 RHODES         Ignacious B.   2    M    .    .              .         Ky.               .     .     .    .    .
+ 9   139  140 RHODES         McKay C.       4/12 M    .    .              .         Ky.               .     .     .    .    .
+ 10  140  141 RHODES         John           34   M    .    farmer         1,400     Ky.               .     .     .    .    .
+ 11  140  141 RHODES         Eliz R.        28   F    .    .              .         Ky.               .     .     .    .    .
+ 12  140  141 RHODES         James          9    M    .    .              .         Ky.               .     .     .    .    .
+ 13  140  141 RHODES         Mary J.        7    F    .    .              .         Ky.               .     .     .    .    .
+ 14  140  141 RHODES         John H.        5    M    .    .              .         Ky.               .     .     .    .    .
+ 15  140  141 RHODES         Laura A.       3    F    .    .              .         Ky.               .     .     .    .    .
+ 16  141  142 BURDITT        Richard        34   M    .    blacksmith     500       Ky.               .     .     .    .    .
+ 17  141  142 BURDITT        Cinthy A.      28   F    .    .              .         Ky.               .     .     .    .    .
+ 18  141  142 BURDITT        Cinthy M.      2    F    .    .              .         Ky.               .     .     .    .    .
+ 19  141  142 BURDITT        Samuel J.      1    M    .    .              .         Ky.               .     .     .    .    .
+ 20  141  142 BURDITT        Mary E.        7/12 F    .    .              .         Ky.               .     .     .    .    .
+ 21  141  142 LEWIS          Eiz A.         13   F    .    .              .         Ky.               .     .     .    .    .
+ 22  142  143 BEVIN          Ralph G.       28   M    .    farmer         380       Ky.               .     .     .    .    .
+ 23  142  143 BEVIN          Rebecca A.     27   F    .    .              .         Ky.               .     .     .    .    .
+ 24  142  143 BEVIN          Eliz A.        4    F    .    .              .         Ky.               .     .     .    .    .
+ 25  142  143 BEVIN          Emily          2    F    .    .              .         Ky.               .     .     .    .    .
+ 26  142  143 HOWARD         John           45   M    .    laborer        .         Ky.               .     .     .    .    .
+ 27  143  144 BURKS          John           38   M    .    farmer         .         Ky.               .     .     .    .    .
+ 28  143  144 BURKS          Susan          32   F    .    .              .         Ky.               .     .     .    .    .
+ 29  143  144 BURKS          Rhody B.       6    F    .    .              .         Ky.               .     .     .    .    .
+ 30  143  144 BURKS          James V.       4    M    .    .              .         Ky.               .     .     .    .    .
+ 31  143  144 BURKS          John           1    M    .    .              .         Ky.               .     .     .    .    .
+ 32  144  145 DeHAVEN        John           50   M    .    farmer         3,000     Ky.               .     .     .    .    .
+ 33  144  145 DeHAVEN        Nancy          50   F    .    .              .         Ky.               .     .     .    .    .
+ 34  144  145 DeHAVEN        Huston         21   M    .    farmer         .         Ky.               .     .     .    .    .
+ 35  145  146 MILLER         Charles        24   M    .    farmer         .         Ky.               .     .     .    .    .
+ 36  145  146 MILLER         Eliz           19   F    .    .              .         Ky.               .     .     .    .    .
+ 37  145  146 MILLER         Ann            2    F    .    .              .         Ky.               .     .     .    .    .
+ 38  146  147 MILLER         Daniel         33   M    .    farmer         500       Pa.               .     .     .    .    .
+ 39  146  147 MILLER         Mary           28   F    .    .              .         Ky.               .     .     .    .    .
+ 40  146  147 MILLER         Susan A.       8    F    .    .              .         Ky.               .     X     .    .    .
+ 41  146  147 MILLER         Mary M.        6    F    .    .              .         Ky.               .     .     .    .    .
+ 42  146  147 MILLER         Clarissa       4    F    .    .              .         Ky.               .     .     .    .    .
+
+CENSUS YR:  1850  STATE or TERRITORY:  KY  COUNTY:  Breckinridge  DIVISION:  District No. 1  REEL NO:  M432-193  PAGE NO:  105b
+REFERENCE:  Enumerated by Thomas F.Crittenden on the 1 day of Aug. 1850
+===================================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB   REMARKS
+===================================================================================================================================
+ 1   146  147 MILLER         John D.        1    M    .    .              .         Ky.               .     .     .    .    .
+ 2   146  147 MILLER         Robert         17   M    .    laborer        .         Ky.               .     X     .    .    .
+ 3   146  147 MILLER         Mahulda        18   F    .    .              .         Ky.               .     .     .    .    .
+ 4   147  148 LAURY          Crawford       49   M    .    farmer         3,000     Va.               .     .     .    .    .
+ 5   147  148 LAURY          Mary           48   F    .    .              .         Ky.               .     .     .    .    .
+ 6   147  148 MATTINGLY      Susan          3    F    .    .              .         Ky.               .     .     .    .    .
+ 7   148  149 MATTINGLY      James          39   M    .    farmer         700       Ky.               .     .     .    .    .
+ 8   148  149 MATTINGLY      Martha         41   F    .    .              .         Ky.               .     .     .    .    .
+ 9   148  149 MATTINGLY      John           15   M    .    .              .         Ky.               .     .     .    .    .
+ 10  148  149 MATTINGLY      Creesy A.      13   F    .    .              .         Ky.               .     .     .    .    .
+ 11  148  149 MATTINGLY      Edward M.      10   M    .    .              .         Ky.               .     .     .    .    .
+ 12  148  149 MATTINGLY      Mary H.        8    F    .    .              .         Ky.               .     .     .    .    .
+ 13  148  149 MATTINGLY      Hitton         5    M    .    .              .         Ky.               .     .     .    .    .
+ 14  148  149 MATTINGLY      Oliver B.      4    M    .    .              .         Ky.               .     .     .    .    .
+ 15  148  149 MATTINGLY      Crawford       3    M    .    .              .         Ky.               .     .     .    .    .
+ 16  148  149 MATTINGLY      Charles        5/12 M    .    .              .         Ky.               .     .     .    .    .
+ 17  149  150 McGILL         John           41   M    .    farmer         .         Maryland          .     .     .    .    .
+ 18  149  150 McGILL         Helena A.      42   F    .    .              .         Maryland          .     .     .    .    .
+ 19  149  150 McGILL         Mary E.        13   F    .    .              .         Ky.               .     .     .    .    .
+ 20  149  150 McGILL         Susan E.       11   F    .    .              .         Ky.               .     .     .    .    .
+ 21  149  150 McGILL         Joseph W.      9    M    .    .              .         Ky.               .     .     .    .    .
+ 22  149  150 McGILL         John H.        2    M    .    .              .         Ky.               .     .     .    .    .
+ 23  150  151 McGARY         William F.     45   M    .    farmer         700       Ky.               .     .     .    .    .
+ 24  150  151 McGARY         Mary E.        37   F    .    .              .         Ky.               .     .     .    .    .
+ 25  150  151 McGARY         James W.       15   M    .    farmer         .         Ky.               .     .     .    .    .
+ 26  150  151 McGARY         John S.        13   M    .    .              .         Ky.               .     .     .    .    .
+ 27  150  151 McGARY         Mary A.        12   F    .    .              .         Ky.               .     .     .    .    .
+ 28  150  151 McGARY         Laura J.       10   F    .    .              .         Ky.               .     .     .    .    .
+ 29  150  151 McGARY         Henry M.       8    M    .    .              .         Ky.               .     .     .    .    .
+ 30  150  151 McGARY         Lucy C.        6    F    .    .              .         Ky.               .     .     .    .    .
+ 31  150  151 McGARY         Susan E.       4    F    .    .              .         Ky.               .     .     .    .    .
+ 32  151  152 MATTINGLY      Ignacius       57   M    .    farmer         4,000     Ky.               .     .     .    .    .
+ 33  151  152 MATTINGLY      Eliz H.        44   F    .    .              .         Ky.               .     .     .    .    .
+ 34  151  152 MATTINGLY      Albert M.      17   M    .    farmer         .         Ky.               .     .     .    .    .
+ 35  151  152 MATTINGLY      John C.        16   M    .    .              .         Ky.               .     .     .    .    .
+ 36  151  152 MATTINGLY      Mary J.        14   F    .    .              .         Ky.               .     .     .    .    .
+ 37  151  152 MATTINGLY      Hilda G.       12   F    .    .              .         Ky.               .     .     .    .    .
+ 38  151  152 MATTINGLY      Pancus C.B.    7    M    .    .              .         Ky.               .     .     .    .    .
+ 39  152  153 ASKINS         Lewis          34   M    .    farmer         .         Ky.               .     .     .    .    .
+ 40  152  153 ASKINS         Mary M.        26   F    .    .              .         Ky.               .     .     .    .    .
+ 41  152  153 ASKINS         Joseph A.      5    M    .    .              .         Ky.               .     .     .    .    .
+ 42  152  153 ASKINS         Susan          3    F    .    .              .         Ky.               .     .     .    .    .
+
+CENSUS YR:  1850  STATE or TERRITORY:  KY  COUNTY:  Breckinridge  DIVISION:  District No. 1  REEL NO:  M432-193  PAGE NO:  106a
+REFERENCE:  Enumerated by Thomas F.Crittenden on the 1 day of Aug. 1850
+===================================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB   REMARKS
+===================================================================================================================================
+ 1   152  153 ASKINS         Lucy A.        2    F    .    .              .         Ky.               .     .     .    .    .
+ 2   153  154 SEATON         Henry          43   M    .    farmer         500       Va.               .     .     .    .    .
+ 3   153  154 SEATON         Susan          37   F    .    .              .         Ky.               .     .     .    .    .
+ 4   153  154 SEATON         Courtney L.    15   M    .    farmer         .         Ky.               .     .     .    .    .
+ 5   153  154 SEATON         James W.       13   M    .    .              .         Ky.               .     .     .    .    .
+ 6   153  154 SEATON         John F.        11   M    .    .              .         Ky.               .     .     .    .    .
+ 7   153  154 SEATON         Mary           9    F    .    .              .         Ky.               .     .     .    .    .
+ 8   153  154 SEATON         Judy           7    F    .    .              .         Ky.               .     .     .    .    .
+ 9   153  154 SEATON         Sarah J.       5    F    .    .              .         Ky.               .     .     .    .    .
+ 10  153  154 SEATON         George H.      2    M    .    .              .         Ky.               .     .     .    .    .
+ 11  154  155 ASKINS         John Sr.       57   M    .    farmer         2,000     Va.               .     .     X    .    .
+ 12  154  155 ASKINS         Susan          65   F    .    .              .         Maryland          .     .     .    .    .
+ 13  154  155 ASKINS         Susan          27   F    .    .              .         Ky.               .     .     .    .    .
+ 14  155  156 SULIVAN        Huston         40   M    .    farmer         .         Ky.               .     .     .    .    .
+ 15  155  156 SULIVAN        Mary           40   F    .    .              .         Ky.               .     .     .    .    .
+ 16  155  156 SULIVAN        William        14   M    .    .              .         Ky.               .     .     .    .    .
+ 17  155  156 SULIVAN        Angeline       13   F    .    .              .         Ky.               .     X     .    .    .
+ 18  155  156 SULIVAN        Howard E.      11   M    .    .              .         Ky.               .     X     .    .    .
+ 19  155  156 SULIVAN        Cyrus G.       10   M    .    .              .         Ky.               .     .     .    .    .
+ 20  155  156 SULIVAN        Francis B.     9    F    .    .              .         Ky.               .     .     .    .    .
+ 21  155  156 SULIVAN        Eliza J.       8    F    .    .              .         Ky.               .     .     .    .    .
+ 22  155  156 SULIVAN        John D.        7    M    .    .              .         Ky.               .     .     .    .    .
+ 23  155  156 SULIVAN        Thomas         1    M    .    .              .         Ky.               .     .     .    .    .
+ 24  156  157 WELLS          Baker          24   M    .    farmer         .         Ky.               .     .     X    .    .
+ 25  156  157 WELLS          Lavina L.      35   F    .    .              .         Tenn.             .     .     .    .    .
+ 26  156  157 WELLS          John W.        16   M    .    farmer         .         Ky.               .     .     .    .    .
+ 27  156  157 WELLS          James R.       14   M    .    .              .         Ky.               .     .     .    .    .
+ 28  156  157 WELLS          Burton W.      10   M    .    .              .         Ky.               .     .     .    .    .
+ 29  156  157 WELLS          Richard V.     8    M    .    .              .         Ky.               .     .     .    .    .
+ 30  156  157 WELLS          Henley E.      5    M    .    .              .         Ky.               .     .     .    .    .
+ 31  156  157 WELLS          Elijah E.      3    M    .    .              .         Ky.               .     .     .    .    .
+ 32  157  158 QUISENBERRY    Mildred        65   F    .    farmer         300       Va.               .     .     .    .    .
+ 33  157  158 QUISENBERRY    William        27   M    .    farmer         .         Ky.               .     .     .    .    .
+ 34  157  158 QUISENBERRY    Lewis          22   M    .    farmer         .         Ky.               .     .     .    .    .
+ 35  157  158 QUISENBERRY    Eliz           40   F    .    .              .         Ky.               .     .     X    .    .
+ 36  157  158 QUISENBERRY    Dorothy        20   F    .    .              .         Ky.               .     .     .    .    .
+ 37  157  158 QUISENBERRY    Mildred S.     12   F    .    .              .         Ky.               .     .     .    .    .
+ 38  158  159 BARBEE         John           35   M    .    farmer         160       Ky.               .     .     .    .    .
+ 39  158  159 BARBEE         Avaline        24   F    .    .              .         Ky.               .     .     .    .    .
+ 40  158  159 BARBEE         Mildred        66   F    .    .              .         Va.               .     .     .    .    .
+ 41  158  159 BARBEE         Galand F.      2    M    .    .              .         Ky.               .     .     .    .    .
+ 42  159  160 BALL           Bloomfield     45   M    .    farmer         800       Va.               .     .     .    .    .
+
+CENSUS YR:  1850  STATE or TERRITORY:  KY  COUNTY:  Breckinridge  DIVISION:  District No. 1  REEL NO:  M432-193  PAGE NO:  106b
+REFERENCE:  Enumerated by Thomas F.Crittenden on the 2 day of Aug. 1850
+===================================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB   REMARKS
+===================================================================================================================================
+ 1   159  160 BALL           Susanna        40   F    .    .              .         Ky.               .     .     .    .    .
+ 2   159  160 BALL           John N.        17   M    .    farmer         .         Ky.               .     .     .    .    .
+ 3   159  160 BALL           George L.      15   M    .    .              .         Ky.               .     .     .    .    .
+ 4   159  160 BALL           Sarah          13   F    .    .              .         Ky.               .     .     .    .    .
+ 5   159  160 BALL           Mary           11   F    .    .              .         Ky.               .     .     .    .    .
+ 6   159  160 BALL           Barb??         9    M    .    .              .         Ky.               .     .     .    .    .
+ 7   159  160 BALL           Joseph         6    M    .    .              .         Ky.               .     .     .    .    .
+ 8   160  161 PUMPHREY       James          35   M    .    farmer         .         Md.               .     .     .    .    .
+ 9   160  161 PUMPHREY       Eliza A.       22   F    .    .              .         Ky.               .     .     .    .    .
+ 10  161  162 LYONS          Peter          46   M    .    farmer         3,000     Va.               .     .     .    .    .
+ 11  161  162 LYONS          Dorcas         42   F    .    .              .         Ky.               .     .     .    .    .
+ 12  161  162 LYONS          William        16   M    .    farmer         .         Ky.               .     .     .    .    .
+ 13  161  162 LYONS          Rossanna       14   F    .    .              .         Ky.               .     .     .    .    .
+ 14  161  162 LYONS          Crawford       12   M    .    .              .         Ky.               .     .     .    .    .
+ 15  161  162 LYONS          John           10   M    .    .              .         Ky.               .     .     .    .    .
+ 16  161  162 LYONS          James          8    F    .    .              .         Ky.               .     .     .    .    .
+ 17  161  162 LYONS          Eliz           6    F    .    .              .         Ky.               .     .     .    .    .
+ 18  161  162 LYONS          Peter          4    M    .    .              .         Ky.               .     .     .    .    .
+ 19  161  162 LYONS          Margaret       2    F    .    .              .         Ky.               .     .     .    .    .
+ 20  162  163 BALL           Lewis          41   M    .    farmer         1,000     Ky.               .     .     .    .    .
+ 21  162  163 BALL           Mary           38   F    .    .              .         Ky.               .     .     .    .    .
+ 22  162  163 BALL           Mary           16   F    .    .              .         Ky.               .     .     .    .    .
+ 23  162  163 BALL           Nelson J.      13   M    .    .              .         Ky.               .     X     .    .    .
+ 24  162  163 BALL           Sarah          11   F    .    .              .         Ky.               .     .     .    .    .
+ 25  162  163 BALL           Tho. J.        9    M    .    .              .         Ky.               .     X     .    .    .
+ 26  162  163 BALL           Amanda         6    F    .    .              .         Ky.               .     .     .    .    .
+ 27  162  163 BALL           Betty A.       6    F    .    .              .         Ky.               .     .     .    .    .
+ 28  162  163 BALL           Nancy J.       4    F    .    .              .         Ky.               .     .     .    .    .
+ 29  162  163 BALL           John C.        5/12 M    .    .              .         Ky.               .     .     .    .    .
+ 30  162  163 FRANK          Jesse          22   M    .    laborer        .         Ky.               .     .     .    .    .
+ 31  163  164 DEJERNET       Daniel         33   M    .    farmer         1,600     Ky.               .     .     .    .    .
+ 32  163  164 DEJERNET       Mildred        33   F    .    .              .         Ky.               .     .     .    .    .
+ 33  163  164 DEJERNET       John W.        10   M    .    .              .         Ky.               .     X     .    .    .
+ 34  163  164 DEJERNET       James M        8    M    .    .              .         Ky.               .     X     .    .    .
+ 35  163  164 DEJERNET       Francis M.     5    M    .    .              .         Ky.               .     .     .    .    .
+ 36  163  164 DEJERNET       Mary           3    F    .    .              .         Ky.               .     .     .    .    .
+ 37  163  164 DEJERNET       Judy           5/12 F    .    .              .         Ky.               .     .     .    .    .
+ 38  163  164 CLARKSON       John           21   M    .    farmer         .         Ky.               .     .     .    .    .
+ 39  164  165 DEJERNET       James          36   M    .    farmer         1,200     Ky.               .     .     .    .    .
+ 40  164  165 DEJERNET       Jane           30   F    .    .              .         Ky.               .     .     .    .    .
+ 41  164  165 DEJERNET       George         11   M    .    .              .         Ky.               .     .     .    .    .
+ 42  164  165 DEJERNET       Charles        8    M    .    .              .         Ky.               .     .     .    .    .
+
+CENSUS YR:  1850  STATE or TERRITORY:  KY  COUNTY:  Breckinridge  DIVISION:  District No. 1  REEL NO:  M432-193  PAGE NO:  107a
+REFERENCE:  Enumerated by Thomas F.Crittenden on the 2 day of Aug. 1850
+===================================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB   REMARKS
+===================================================================================================================================
+ 1   164  165 DEJERNET       Judy           5    F    .    .              .         Ky.               .     .     .    .    .
+ 2   164  165 DEJERNET       Zachary        2    M    .    .              .         Ky.               .     .     .    .    .
+ 3   165  166 DEAN           Thomas         23   M    .    farmer         500       Ky.               .     .     .    .    .
+ 4   165  166 DEAN           Mary           19   F    .    .              .         Ky.               .     .     .    .    .
+ 5   165  166 DEAN           John H.        3/12 M    .    .              .         Ky.               .     .     .    .    .
+ 6   166  167 DEJERNET       John           72   M    .    farmer         1,000     Va.               .     .     .    .    .
+ 7   167  168 DEJERNET       Andrew         27   M    .    farmer         500       Ky.               .     .     .    .    .
+ 8   167  168 DEJERNET       Ann E.         22   F    .    .              .         Ky.               .     .     .    .    .
+ 9   167  168 DEJERNET       Alfred         2    M    .    .              .         Ky.               .     .     .    .    .
+ 10  167  168 DEJERNET       John           3/12 M    .    .              .         Ky.               .     .     .    .    .
+ 11  168  169 CLARKSON       Menorah        49   M    .    farmer         .         Va.               .     .     .    .    .
+ 12  168  169 CLARKSON       Lucy           44   F    .    .              .         Va.               .     .     .    .    .
+ 13  168  169 CLARKSON       Mary A.        19   F    .    .              .         Ky.               .     .     .    .    .
+ 14  168  169 CLARKSON       Judy           17   F    .    .              .         Ky.               X     .     .    .    .
+ 15  168  169 CLARKSON       Mildna         13   F    .    .              .         Ky.               .     .     .    .    .
+ 16  168  169 CLARKSON       Killis         10   M    .    .              .         Ky.               .     .     .    .    .
+ 17  168  169 CLARKSON       Andrew         8    M    .    .              .         Ky.               .     .     .    .    .
+ 18  168  169 CLARKSON       Sarah          6    F    .    .              .         Ky.               .     .     .    .    .
+ 19  168  169 CLARKSON       Martha         4    F    .    .              .         Ky.               .     .     .    .    .
+ 20  169  170 BRICKEY        Nathaniel      29   M    .    farmer         1,500     Va.               .     .     .    .    .
+ 21  169  170 BRICKEY        Martha         32   F    .    .              .         Ky.               .     .     .    .    .
+ 22  169  170 BRICKEY        Rhoda          7    F    .    .              .         Ky.               .     X     .    .    .
+ 23  169  170 BRICKEY        Emily          5    F    .    .              .         Ky.               .     .     .    .    .
+ 24  169  170 BRICKEY        Robert         4    M    .    .              .         Ky.               .     .     .    .    .
+ 25  169  170 BRICKEY        John           4    M    .    .              .         Ky.               .     .     .    .    .
+ 26  169  170 BRICKEY        Lucy           1    F    .    .              .         Ky.               .     .     .    .    .
+ 27  170  171 BRICKEY        Gabril         23   M    .    farmer         .         Va.               .     .     .    .    .
+ 28  170  171 BRICKEY        Laletea        20   F    .    .              .         Ky.               .     .     .    .    .
+ 29  170  171 BRICKEY        John           1    M    .    .              .         Ky.               .     .     .    .    .
+ 30  171  172 HENDRICK       Calvin         49   M    .    farmer         3,000     Va.               .     .     .    .    .
+ 31  171  172 HENDRICK       Nancy          46   F    .    .              .         Ky.               .     .     .    .    .
+ 32  171  172 HENDRICK       Robert         25   M    .    farmer         .         Ky.               .     .     .    .    .
+ 33  171  172 HENDRICK       Christopher    18   M    .    farmer         .         Ky.               .     .     .    .    .
+ 34  171  172 HENDRICK       Zeno           15   M    .    farmer         .         Ky.               .     .     .    .    .
+ 35  171  172 HENDRICK       Elmena         13   F    .    .              .         Ky.               .     X     .    .    .
+ 36  171  172 HENDRICK       James          9    M    .    .              .         Ky.               .     X     .    .    .
+ 37  171  172 HENDRICK       Cillistene     6    F    .    .              .         Ky.               .     .     .    .    .
+ 38  171  172 HENDRICK       William        4    M    .    .              .         Ky.               .     .     .    .    .
+ 39  172  173 HENDRICK       Thomas         40   M    .    farmer         1,200     Tenn.             .     .     .    .    .
+ 40  173  174 COMPTON        Jerry D.       49   M    .    farmer         2,000     Va.               .     .     .    .    .
+ 41  173  174 COMPTON        Nancy          47   F    .    .              .         Va.               .     .     .    .    .
+ 42  173  174 COMPTON        George L.      10   M    .    .              .         Ky.               .     .     .    .    .
+
+CENSUS YR:  1850  STATE or TERRITORY:  KY  COUNTY:  Breckinridge  DIVISION:  District No. 1  REEL NO:  M432-193  PAGE NO:  107b
+REFERENCE:  Enumerated by Thomas F.Crittenden on the 3 day of Aug. 1850
+===================================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB   REMARKS
+===================================================================================================================================
+ 1   174  175 COMPTON        Cordelia       22   F    .    .              .         Ky.               .     .     .    .    .
+ 2   174  175 COMPTON        Henry E.       19   M    .    farmer         .         Ky.               .     .     .    .    .
+ 3   174  175 COMPTON        Josephine      17   F    .    .              .         Ky.               .     .     .    .    .
+ 4   174  175 COMPTON        Lucy A.        15   F    .    .              .         Ky.               .     .     .    .    .
+ 5   174  175 COMPTON        Jane           12   F    .    .              .         Ky.               .     .     .    .    .
+ 6   174  175 COMPTON        Malissa        10   F    .    .              .         Ky.               .     .     .    .    .
+ 7   174  175 COMPTON        Nelson         7    M    .    .              .         Ky.               .     .     .    .    .
+ 8   174  175 COMPTON        Josephus       3    M    .    .              .         Ky.               .     .     .    .    .
+ 9   175  176 MATTINGLY      Benedict       34   M    .    farmer         400       Ky.               .     .     .    .    .
+ 10  175  176 MATTINGLY      Eliza          34   F    .    .              .         Ky.               .     .     .    .    .
+ 11  175  176 MATTINGLY      James E.       11   M    .    .              .         Ky.               .     X     .    .    .
+ 12  175  176 MATTINGLY      John           10   M    .    .              .         Ky.               .     X     .    .    .
+ 13  175  176 MATTINGLY      Charles        9    M    .    .              .         Ky.               .     X     .    .    .
+ 14  175  176 MATTINGLY      Richard        7    M    .    .              .         Ky.               .     .     .    .    .
+ 15  175  176 MATTINGLY      Robert         5    M    .    .              .         Ky.               .     .     .    .    .
+ 16  175  176 MATTINGLY      Ellen          3    F    .    .              .         Ky.               .     .     .    .    .
+ 17  175  176 MATTINGLY      Rosanna        1    F    .    .              .         Ky.               .     .     .    .    .
+ 18  176  177 PATE           William        37   M    .    farmer         .         Ky.               .     .     .    .    .
+ 19  176  177 PATE           Mildred J.     32   F    .    .              .         Ky.               .     .     .    .    .
+ 20  176  177 PATE           Rufus          10   M    .    .              .         Ky.               .     X     .    .    .
+ 21  176  177 PATE           Remus          7    M    .    .              .         Ky.               .     .     .    .    .
+ 22  176  177 PATE           Charles B.     5    M    .    .              .         Ky.               .     .     .    .    .
+ 23  176  177 PATE           Laura E.       2    F    .    .              .         Ky.               .     .     .    .    .
+ 24  177  178 PATE           Samuel         55   M    .    farmer         .         Va.               .     .     .    .    .
+ 25  177  178 PATE           William        23   M    .    farmer         .         Ky.               .     .     .    .    .
+ 26  177  178 PATE           Jane           20   F    .    .              .         Ky.               .     .     .    .    .
+ 27  177  178 PATE           Martha F.      2    F    .    .              .         Ky.               .     .     .    .    .
+ 28  178  179 MATTINGLY      James          63   M    .    farmer         .         Ky.               .     .     .    .    .
+ 29  178  179 MATTINGLY      Priscella      59   F    .    .              .         Maryland          .     .     .    .    .
+ 30  178  179 MATTINGLY      Leo            36   M    .    farmer         2,000     Ky.               .     .     .    .    .
+ 31  178  179 MATTINGLY      James W.       18   M    .    farmer         .         Ky.               .     X     .    .    .
+ 32  178  179 MATTINGLY      Harriet A.     24   F    .    .              .         Ky.               .     .     .    .    .
+ 33  178  179 BLAIR          William        8    M    .    .              .         Ky.               .     .     .    .    .
+ 34  179  180 PATE           Edward         40   M    .    farmer         2,000     Ky.               .     .     .    .    .
+ 35  179  180 PATE           Paulina        33   F    .    .              .         Ky.               .     .     .    .    .
+ 36  180  181 BALL           John W.        43   M    .    farmer         1,000     Va.               .     .     .    .    .
+ 37  180  181 BALL           Mary           36   F    .    .              .         Ky.               .     .     .    .    .
+ 38  180  181 BALL           Susan E.       17   F    .    .              .         Ky.               .     .     .    .    .
+ 39  180  181 BALL           Sarah J.       14   F    .    .              .         Ky.               .     .     .    .    .
+ 40  180  181 BALL           Joseph E.      12   M    .    .              .         Ky.               .     .     .    .    .
+ 41  180  181 BALL           William L.     9    M    .    .              .         Ky.               .     .     .    .    .
+ 42  180  181 BALL           Latilda        2    F    .    .              .         Ky.               .     .     .    .    .
+
+CENSUS YR:  1850  STATE or TERRITORY:  KY  COUNTY:  Breckinridge  DIVISION:  District No. 1  REEL NO:  M432-193  PAGE NO:  108a
+REFERENCE:  Enumerated by Thomas F.Crittenden on the 3 day of Aug. 1850
+===================================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB   REMARKS
+===================================================================================================================================
+ 1   180  181 PATE           Charles L.     8    M    .    .              .         Ky.               .     .     .    .    .
+ 2   180  181 PATE           Gabrella       5    F    .    .              .         Ky.               .     .     .    .    .
+ 3   180  181 PATE           Josephine C.   8/12 F    .    .              .         Ky.               .     .     .    .    .
+ 4   180  181 PATE           Mary           80   F    .    .              .         Va.               .     .     .    .    .
+ 5   180  181 FOX            William        29   M    .    laborer        .         Ky.               .     .     .    .    .
+ 6   181  182 STURGEON       Thomas         46   M    .    farmer         .         Ky.               .     .     .    .    .
+ 7   181  182 STURGEON       Catherine      13   F    .    .              .         Ky.               .     .     .    .    .
+ 8   181  182 STURGEON       John F.        8    M    .    .              .         Ky.               .     .     .    .    .
+ 9   182  183 LANGHANIKER    Augustis       31   M    .    farmer         .         Germany           .     .     .    .    .
+ 10  182  183 LANGHANIKER    Carolina       28   F    .    .              .         Germany           .     .     .    .    .
+ 11  182  183 LANGHANIKER    William        3    M    .    .              .         La.               .     .     .    .    .
+ 12  182  183 LANGHANIKER    Clemens        2/12 M    .    .              .         Ky.               .     .     .    .    .
+ 13  183  184 SCHRADER       Clemens        42   M    .    doctor         .         Germany           .     .     .    .    .
+ 14  183  184 SCHRADER       Fredonia       32   F    .    .              .         Germany           .     .     .    .    .
+ 15  183  184 SCHRADER       Custar         17   M    .    farmer         .         Germany           .     .     .    .    .
+ 16  183  184 SCHRADER       Mary           14   F    .    .              .         Germany           .     .     .    .    .
+ 17  183  184 BANNJARDIN     Andrass        36   M    .    carpenter      .         Germany           .     .     .    .    .
+ 18  184  185 COMPTON        Henry          36   M    .    farmer         750       Ky.               .     .     .    .    .
+ 19  184  185 COMPTON        Sarah A.       29   F    .    .              .         Ky.               .     .     .    .    .
+ 20  184  185 COMPTON        George F.      7    M    .    .              .         Ky.               .     .     .    .    .
+ 21  184  185 COMPTON        Elmira F.      5    F    .    .              .         Ky.               .     .     .    .    .
+ 22  184  185 COMPTON        Cinthy A.      1    F    .    .              .         Ky.               .     .     .    .    .
+ 23  185  186 COMPTON        Polly          50   F    .    weaver         .         Ky.               .     .     .    .    .
+ 24  186  187 PATE           William C.     29   M    .    farmer         250       Ky.               .     .     .    .    .
+ 25  186  187 PATE           Eliz           28   F    .    .              .         Ky.               .     .     .    .    .
+ 26  186  187 PATE           Alsy C.        1    F    .    .              .         Ky.               .     .     .    .    .
+ 27  187  188 HENDRICK       Luther         22   F    .    farmer         .         Ky.               .     .     .    .    .
+ 28  187  188 HENDRICK       Mary E.        21   F    .    .              .         Ky.               .     .     .    .    .
+ 29  188  189 PATE           James          44   M    .    farmer         2,000     Ky.               .     .     .    .    .
+ 30  188  189 PATE           Susan R.       39   F    .    .              .         Ky.               .     .     .    .    .
+ 31  188  189 PATE           Vecesimus      20   M    .    farmer         .         Ky.               .     .     .    .    .
+ 32  188  189 PATE           Judith         18   F    .    .              .         Ky.               .     .     .    .    .
+ 33  188  189 PATE           Mary J.        16   F    .    .              .         Ky.               .     .     .    .    .
+ 34  188  189 PATE           Elvina         13   F    .    .              .         Ky.               .     .     .    .    .
+ 35  188  189 PATE           Lucy E.        10   F    .    .              .         Ky.               .     .     .    .    .
+ 36  188  189 PATE           Margaret A.    3    F    .    .              .         Ky.               .     .     .    .    .
+ 37  189  190 DOWELL         Thomas         21   M    .    farmer         840       Ky.               .     .     .    .    .
+ 38  189  190 DOWELL         Latitia        17   F    .    .              .         Ky.               .     .     .    .    .
+ 39  190  191 MUFFITT        Benjamin       24   M    .    farmer         480       Ky.               .     .     .    .    .
+ 40  190  191 MUFFITT        Mary           23   F    .    .              .         Ky.               .     .     .    .    .
+ 41  190  191 MUFFITT        Ann E.         2    F    .    .              .         Ky.               .     .     .    .    .
+ 42  190  191 MUFFITT        Cerilda J.     1    F    .    .              .         Ky.               .     .     .    .    .
+
+CENSUS YR:  1850  STATE or TERRITORY:  KY  COUNTY:  Breckinridge  DIVISION:  District No. 1  REEL NO:  M432-193  PAGE NO:  108b
+REFERENCE:  Enumerated by Thomas F.Crittenden on the 3 day of Aug. 1850
+===================================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB   REMARKS
+===================================================================================================================================
+ 1   191  192 MUFFITT        William Sr.    62   M    .    farmer         .         Va.               .     .     .    .    .
+ 2   191  192 MUFFITT        Eliza          61   F    .    .              .         New Jersey        .     .     .    .    .
+ 3   191  192 MUFFITT        Samuel C.      23   M    .    laborer        .         Ky.               .     .     .    .    .
+ 4   192  193 NEWMAN         William        26   M    .    farmer         700       Ky.               .     .     .    .    .
+ 5   192  193 NEWMAN         Angeline       23   F    .    .              .         Ky.               .     .     .    .    .
+ 6   192  193 NEWMAN         Sarah E.       1    F    .    .              .         Ky.               .     .     .    .    .
+ 7   193  194 NEWMAN         Obediah        56   M    .    farmer         2,500     Va.               .     .     .    .    .
+ 8   193  194 NEWMAN         Sarah          54   F    .    .              .         Va.               .     .     .    .    .
+ 9   193  194 NEWMAN         Evaline        22   F    .    .              .         Ky.               .     .     .    .    .
+ 10  193  194 NEWMAN         Eliza          17   F    .    .              .         Ky.               .     .     .    .    .
+ 11  193  194 NEWMAN         Thomas         20   M    .    farmer         .         Ky.               .     .     .    .    .
+ 12  193  194 NEWMAN         Oby            14   M    .    .              .         Ky.               .     .     .    .    .
+ 13  193  194 COOPER         Dunham         35   M    .    farmer         .         Ky.               .     .     .    .    could be a new dwelling # beginning here
+ 14  193  194 COOPER         Jane           34   F    .    .              .         Ky.               .     .     .    .    .
+ 15  193  194 COOPER         Mary           3    F    .    .              .         Ky.               .     .     .    .    .
+ 16  193  194 COOPER         Eliza          1    F    .    .              .         Ky.               .     .     .    .    .
+ 17  194  195 HARDIN         John           47   M    .    farmer         6,000     Ky.               .     .     .    .    .
+ 18  194  195 HARDIN         Malinda        41   F    .    .              .         Ky.               .     .     .    .    .
+ 19  194  195 HARDIN         Mary A.        19   F    .    .              .         Ky.               .     .     .    .    .
+ 20  194  195 HARDIN         Maria          13   F    .    .              .         Ky.               .     X     .    .    .
+ 21  194  195 HARDIN         Virgil         11   M    .    .              .         Ky.               .     X     .    .    .
+ 22  194  195 HARDIN         Ophelia        7    F    .    .              .         Ky.               .     .     .    .    .
+ 23  194  195 HARDIN         Julius         3    M    .    .              .         Ky.               .     .     .    .    .
+ 24  194  195 HARDIN         Martha         1    F    .    .              .         Ky.               .     .     .    .    .
+ 25  195  196 BURDITT        Thomas         30   M    .    farmer         1,000     Ky.               .     .     .    .    .
+ 26  195  196 BURDITT        Eliza J.       20   F    .    .              .         Ky.               .     .     .    .    .
+ 27  195  196 BURDITT        Owen R.        2    M    .    .              .         Ky.               .     .     .    .    .
+ 28  196  197 CHAPIN         Cephas         19   M    .    farmer         .         Ky.               .     .     .    .    .
+ 29  196  197 CHAPIN         Eliz           20   F    .    .              .         Ky.               .     .     .    .    .
+ 30  197  198 WORLEY         Sarah          54   F    .    farmer         .         Va.               .     .     X    .    .
+ 31  197  198 HARRIS         John           24   M    .    farmer         .         Va.               .     .     .    .    .
+ 32  197  198 HARRIS         Virginia       19   F    .    .              .         Va.               .     .     .    .    .
+ 33  197  198 WORLEY         Flail          16   M    .    farmer         .         Ky.               .     X     .    .    .
+ 34  197  198 WORLEY         Charles        14   M    .    .              .         Ky.               .     .     .    .    .
+ 35  197  198 WORLEY         Maria          36   F    .    .              .         Ky.               .     .     .    .    .
+ 36  198  199 PATE           Perry          37   M    .    farmer         400       Va.               .     .     .    .    .
+ 37  198  199 PATE           Somerville     40   F    .    .              .         Va.               .     .     .    .    .
+ 38  198  199 PATE           Eliz A.        17   F    .    .              .         Pa.               .     .     .    .    .
+ 39  198  199 PATE           Edward P.      13   M    .    .              .         Ky.               .     .     .    .    .
+ 40  198  199 PATE           Nancy J.       8    F    .    .              .         Ky.               .     X     .    .    .
+ 41  198  199 AHL            William        6    M    .    .              .         Ky.               .     .     .    .    .
+ 42  199  200 BURDITT        John           50   M    .    farmer         800       Ky.               .     .     .    .    .
+
+CENSUS YR:  1850  STATE or TERRITORY:  KY  COUNTY:  Breckinridge  DIVISION:  District No. 1  REEL NO:  M432-193  PAGE NO:  109a
+REFERENCE:  Enumerated by Thomas F.Crittenden on the 5 day of Aug. 1850
+===================================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB   REMARKS
+===================================================================================================================================
+ 1   199  200 BURDITT        Amanda         22   F    .    .              .         Ky.               .     .     .    .    .
+ 2   199  200 BURDITT        Horrace L.     3    M    .    .              .         Ky.               .     .     .    .    .
+ 3   199  200 BURDITT        Malinda        2/12 F    .    .              .         Ky.               .     .     .    .    .
+ 4   200  201 AHL            John           35   M    .    farmer         300       Va.               .     .     .    .    .
+ 5   200  201 AHL            Rosa           25   F    .    .              .         Va.               .     .     .    .    .
+ 6   200  201 AHL            Nancy          5    F    .    .              .         Ky.               .     .     .    .    .
+ 7   200  201 AHL            Malinda        8/12 F    .    .              .         Ky.               .     .     .    .    .
+ 8   201  202 CUMMINS        John           19   M    .    farmer         .         Ky.               .     .     .    .    .
+ 9   201  202 CUMMINS        Louisa         19   F    .    .              .         Ky.               .     .     .    .    .
+ 10  201  202 CUMMINS        Sarah A.       1    F    .    .              .         Ky.               .     .     .    .    .
+ 11  202  203 BATES          John D.        50   M    .    farmer         2,000     Ky.               .     .     .    .    .
+ 12  202  203 BATES          Derdocia       45   F    .    .              .         Ky.               .     .     .    .    .
+ 13  202  203 BATES          William        19   M    .    farmer         .         Ky.               .     .     .    .    .
+ 14  202  203 BATES          Benjamin       17   .    .    .              .         Ky.               .     .     .    .    .
+ 15  202  203 BATES          Mary A.        13   F    .    .              .         Ky.               .     .     .    .    .
+ 16  202  203 BATES          Thomas         11   M    .    .              .         Ky.               .     .     .    .    .
+ 17  202  203 BATES          Jeremiah       7    M    .    .              .         Ky.               .     .     .    .    .
+ 18  202  203 BATES          Eliza J.       4    F    .    .              .         Ky.               .     .     .    .    .
+ 19  202  203 BATES          George         4    M    .    .              .         KY.               .     .     .    .    .
+ 20  203  204 BATES          Benjamin       48   M    .    farmer         2,500     KY.               .     .     .    .    .
+ 21  203  204 BATES          Jane           41   F    .    .              .         KY.               .     .     .    .    .
+ 22  203  204 BATES          Samuel L.      18   M    .    farmer         .         KY.               .     X     .    .    .
+ 23  203  204 BATES          John           3    M    .    .              .         KY.               .     .     .    .    .
+ 24  204  205 TUCKER         Rial           43   M    .    farmer         .         KY.               .     .     .    .    .
+ 25  204  205 TUCKER         Eliza          38   F    .    .              .         KY.               .     .     .    .    .
+ 26  204  205 TUCKER         Latilea        18   F    .    .              .         KY.               .     .     .    .    .
+ 27  204  205 TUCKER         Logan          16   M    .    farmer         .         KY.               .     .     .    .    .
+ 28  204  205 TUCKER         Stephen        14   M    .    .              .         KY.               .     .     .    .    .
+ 29  204  205 TUCKER         Nancy          11   F    .    .              .         KY.               .     .     .    .    .
+ 30  205  206 GREGORY        John Sr.       73   M    .    farmer         500       Va.               .     .     .    .    .
+ 31  205  206 GREGORY        Nancy          60   F    .    .              .         Va.               .     .     .    .    .
+ 32  205  206 GREGORY        William        11   M    .    .              .         Ky.               .     .     .    .    .
+ 33  205  206 GREGORY        Harrison       5    M    .    .              .         Ky.               .     .     .    .    .
+ 34  206  207 WAGGONER       Benjamin       ??   M    .    farmer         1,000     Va.               .     .     .    .    .
+ 35  206  207 WAGGONER       Malinda W.     27   F    .    .              .         Pa.               .     .     .    .    .
+ 36  206  207 WAGGONER       James          16   M    .    farmer         .         Ky.               .     .     .    .    .
+ 37  206  207 WAGGONER       Lucinda        14   F    .    .              .         Ky.               .     .     .    .    .
+ 38  206  207 WAGGONER       Sarah          12   F    .    .              .         Ky.               .     X     .    .    .
+ 39  206  207 WAGGONER       William        11   M    .    .              .         Ky.               .     X     .    .    .
+ 40  206  207 WAGGONER       John           9    M    .    .              .         Ky.               .     X     .    .    .
+ 41  206  207 WAGGONER       Smith          5    M    .    .              .         Ky.               .     .     .    .    .
+ 42  206  207 WAGGONER       Eliza          3    F    .    .              .         Ky.               .     .     .    .    .

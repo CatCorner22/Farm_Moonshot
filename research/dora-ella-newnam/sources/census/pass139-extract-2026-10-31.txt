@@ -1,0 +1,70 @@
+Pass 139 extract — 31 Oct 2026
+IDs aligned to 02-log / 04-evidence: L1645–L1668 / C1820–C1842 / S1487–S1510
+
+Search-variant-alternatives cats 1–4:
+  William/Wm/Jno/Jo/John × Newman/Newnam/newnarn/newan/Nureman/Norman
+  Jane/Nan/Rhoda/Louisa/Martha/Eveline
+  Tincher/Tinker/Tinsher
+  Soundex N550 / T526 / S350
+  Place: Hopkins reel 205 Dist 2 n0238–n0240; Graves SK; Hart 204; Henry 204; Larue 209; Campbell 195; leftover 200/202/210/214/220
+
+=== B058 ===
+LOC sn89051008 item.digitized: false (pass139 json 34425 B).
+IA Solr title:(Dardanelle Post-Dispatch) AND year:1926 numFound 0.
+Film unread. Phone 479-968-4368 not re-asked.
+C1820 S1487 S1488 L1645
+
+=== B071 Hopkins Dist 2 ===
+n0238 IMAGE SEEN reconfirm: hh 67/67 Francis J. Newman 28 Farmer KY × Mary J 25 + Elizabeth 1.
+REJECT (already C1776). C1821 S1489 L1646
+n0239 verso Dist 2 21 July: hh 74/74 Ash Armstrong 38. John 59 not on this verso.
+C1822 S1490 L1647
+n0240 IMAGE SEEN (SHA tight 4c7f1521… / wide da4158b0…):
+hh 76/76 Jo / Jno Newman 59 M Farmer N. Carolina
+         Jane[?] / Nan[?] 53 F N. Carolina
+         Louisa Newman 28 F Kentucky
+         Martha 20 F
+         Eveline 16 F
+         Elizabeth 13 F
+         William P 26 M Farmer   (same household; not a living head)
+hh 77/77 Logan Oakley 27 Farmer $257 N. Carolina
+Surname letterforms match Francis J Newman on n0238 — not a separate Norman family.
+Pass 137 “Jo Norman 64” on n0240 was the expectation-capture trap in reverse.
+REJECT vs William 26 × Jane 22 of Owsley.
+C1823 S1491 S1492 L1648
+Named Hopkins Newman heads Francis J + John 59 both image-seen. County NOT every-line closed.
+C1824 L1649
+
+=== B071 leftover ===
+SK Graves LIVE 124164 B: NEW / NEWHOUSE / NEWTON. NIL Newman/Newnam/Tincher.
+County CLOSED compiled couple hunt. C1825 S1494 L1650
+Hart Dist 1 n0005 stamp 3 IMAGE SEEN. NOT walked. C1826 S1495 L1651
+Henry n0440 2 Aug IMAGE SEEN. NOT walked. C1827 S1496 L1652
+Henderson n0200–n0360 already CLOSED compiled. C1828 S1497 L1653
+Larue Hamilton n0160 stamp 398 IMAGE SEEN. NOT closed. C1829 S1498 L1654
+Campbell n0130 Newport stamp 127 IMAGE SEEN. NOT Kenton 130B. C1830 S1499 L1655
+Kenton reel 208 end n0643 MICROCOPY. 130B not at reel end. alt item meta {}.
+C1831 S1500 S1501 L1656
+SK Kenton LIVE NEWMAN 130B + GADSON/CLUSTRE/HERNDON/ILIFF neighbors. Still scan gap.
+C1832 S1502 L1657
+Leftover starts mapped NOT closed: Hickman/Livingston/Muhlenberg/Franklin Dist 2/Grayson.
+C1833 S1503 L1658
+Still no free William × Rhoda or William × Jane license. C1834 S1504 L1659
+Parents of 1928 Frank still PROBABLE. Jane not Rhoda. #28 stands.
+1850 living head FOUND remains Owsley hh 311 only. C1835 L1660
+
+=== OPEN / partials ===
+GT Lee WWI LIVE 452540. Brandenburg + Underwood only. Cards unread. C1836 S1505 L1661
+FS 1146342 SPA 19655 B isLoggedIn false (R011-77). C1837 S1506 L1662
+Hutchins FAQ 9938 LIVE cards 228–229. C1838 S1507 L1663
+IA 602 metadata {}. pass123 still 515. One line. C1839 S1508 L1664
+Grant 21 not merged. B084 POSSIBLE Jr only. Do not print 1966 or 1962. Did not walk 33-12/33-13.
+C1840 L1665
+IA Solr M1509 KY 0. C1841 S1509 L1666
+USGenNet wills LIVE Jane Steele / Elizabeth / Mary F. — no Samuel P. C1842 S1510 L1667
+Search-variant-alternatives cats 1–4 this extract. L1668
+
+Did not repeat closed N-walks including Breckinridge 100A/100B/108B / Edmonson / Hancock.
+Did not walk Estill 1930 33-12/33-13.
+Phones / R001/R007/R008 not re-asked.
+Authored Word SHA 78cdcf44… not overwritten.

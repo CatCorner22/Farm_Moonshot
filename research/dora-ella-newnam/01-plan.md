@@ -1240,3 +1240,27 @@ Exact strings logged **L1559–L1588**.
 **Frank / WWI / probate / 602 / Grant** — same strings as pass 132. FAQ **9938** LIVE. FS SPA R011-**75**.
 
 Exact strings logged **L1589–L1620**.
+
+### Pass 138 variant storm (31 Oct 2026)
+
+**Dora Stone 1926 (B058)** — Dora/posa/dosa/rosa/dona × Stone/Newman/Newnam. Soundex **S350** / **N550**. One catalog reconfirm (`item.digitized: false`). Phone **479-968-4368** not re-asked.
+
+**William × Jane / Breckinridge (B071)** — William/Wm/Will × Newman/Newnam/newnarn/newan/Nureman. Angeline/Angelina/Jane/Rhoda. Obediah/Henry/John J/Cinderella/Catharine O. Tincher/Tinker/Tinsher. Soundex **N550** / **T526** / **S350**. Place Breckinridge reel **193** Dist 1 stamps **100 / 108** (n0398 / n0399 / n0415); Kenton **130B**; Mercer **213**; Franklin **200**; Lincoln **210**; Hopkins **205**.
+
+**Marriage** — William × Rhoda / William × Jane. Still no free license.
+
+**Frank / WWI / probate / 602 / Grant** — same strings as pass 137. FAQ **9938** LIVE. FS SPA R011-**76**.
+
+Exact strings logged **L1621–L1638**.
+
+### Pass 139 variant storm (31 Oct 2026)
+
+**Dora Stone 1926 (B058)** — Dora/posa/dosa/rosa/dona × Stone/Newman/Newnam. Soundex **S350** / **N550**. One catalog reconfirm (`item.digitized: false`). Phone **479-968-4368** not re-asked.
+
+**William × Jane / Hopkins John 59 (B071)** — William/Wm/Jno/John × Newman/Newnam/newnarn/newan/Nureman. Jane/Rhoda/Louisa/Martha/Eveline/Angeline. Tincher/Tinker/Tinsher. Soundex **N550** / **T526** / **S350**. Place Hopkins reel **205** Dist 2 n0238–n0261; Graves SK; Hart/Henry reel **204**; Larue **209**; Campbell **195** stamp **127**; Kenton neighbors GADSON/CLUSTRE/HERNDON/ILIFF **130B**.
+
+**Marriage** — William × Rhoda / William × Jane. Still no free license.
+
+**Frank / WWI / probate / 602 / Grant** — same strings as pass 138. FAQ **9938** LIVE. FS SPA R011-**77**.
+
+Exact strings logged **L1645–L1668**.

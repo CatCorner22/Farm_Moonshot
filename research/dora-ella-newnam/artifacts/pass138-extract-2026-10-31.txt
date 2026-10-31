@@ -1,0 +1,122 @@
+Pass 138 extract — 31 Oct 2026
+B058 one catalog reconfirm + B071 Breckinridge William 26 × Angeline IMAGE SEEN
++ OPEN B059/B065/B081/B084 + partials B055/B080/B069/B045/B088 one line
+
+Search-variant-alternatives cats 1–4:
+  William/Wm/Will × Newman/Newnam/newnarn/newan/Nureman
+  Angeline/Angelina/Jane/Rhoda
+  Obediah/Henry/John J/Cinderella/Catharine O
+  Tincher/Tinker/Tinsher
+  Soundex N550 / T526 / S350
+  Place: Breckinridge reel 193 Dist 1 stamps 100 / 108; Kenton 130B; Mercer 213; Franklin 200; Lincoln 210; Hopkins 205
+
+=== B058 ===
+LOC sn89051008 item.digitized: false (pass138 json 34425 B).
+IA Solr title:(Dardanelle Post-Dispatch) AND year:1926 numFound 0.
+Film unread. Phone 479-968-4368 not re-asked.
+C1797
+
+=== B071 Breckinridge 1850 ===
+Official NARA M432 reel 193 = Bracken / Breathitt / Breckinridge / Bullitt.
+IA populationschedu0193unix imagecount 631.
+Breathitt Dist 1 n0234 stamp 20 already closed (pass 116).
+n0250 still Breathitt Dist 1 stamp 28, 5 Aug, John Hargis.
+n0280 still Breathitt Dist 1, 3 Sept.
+n0300 Breckinridge Dist 2 stamp 53, 30 July, D. Middleton.
+n0320 Dist 2 stamp 63, 9 Aug.
+n0340 Dist 2 stamp 73, 16 Aug.
+n0360 Dist 2 stamp ~82/83, Sept.
+n0400 Breckinridge Dist 1 stamp 101, 25 July, Thos / Robt J Crittenden.
+Formula Dist 1: leaf = 400 + (stamp − 101) × 2.
+n0500 Bullitt stamp 150 — past Breckinridge.
+C1798
+
+n0398 = Dist 1 stamp 100, 23 July 1850, Thomas J. Crittenden = 100A. IMAGE SEEN.
+hh 71/72 John J. Newman 23 Farmer KY × Cinderella 24.
+Then Lightfoot 29 $8000 + Miss Jane Newman 21 / Evaline 19 / Sarah 17 in that house.
+REJECT vs William 26 × Jane 22 (wrong head; Jane is “Miss” 21 in Lightfoot house).
+C1799
+
+n0399 = Dist 1 24 July = 100B. IMAGE SEEN.
+hh 78/79 Henry Newman 46 Farmer $674 Va × Adeline 48 Va + Eliz 19 + Richard 18 + Nathaniel 16 + George 14 + Mary 12 + Wm H 7.
+REJECT (wrong head; Wm H is a son aged 7).
+C1800
+
+n0414 = Dist 1 stamp 108, 3 Aug 1850 = 108A. IMAGE SEEN header.
+n0415 = 108B verso. IMAGE SEEN.
+hh 192/193 William Newman 26 M Farmer $700 KY
+         Angeline          23 F              KY
+         Sarah E.           1 F              KY
+hh 193/194 Obediah Newman 56 M Farmer $2500 Va
+           Sarah           54 F              Va
+           Evaline         22 F              KY
+           Eliza           17 F
+           Thomas          20 M Farmer
+           Oby             14 M
+Exact age match vs Owsley hh 311 William 26. Wife Angeline ≠ Jane 22 ≠ Rhoda. Infant Sarah E ≠ Francis 4 / Leanner 2. Real estate $700 ≠ $325. Next-door father Obediah 56 Va.
+REJECT. County CLOSED compiled (indx-n-s.txt N = NEWMAN/NEWTON/NICHOLS…; indx-t-z.txt NIL Tincher) + named Dist 1 originals.
+USGenWeb Census Project Brenda Wheeler / John Wheeler. Reel cited M432-193.
+https://us-census.org/pub/usgenweb/census/ky/breckinridge/1850/indx-n-s.txt
+https://us-census.org/pub/usgenweb/census/ky/breckinridge/1850/pg0100b.txt
+https://archive.org/details/populationschedu0193unix
+C1801 C1802 C1803
+
+=== B071 residuals ===
+Kenton SK LIVE NEWMAN 130B, 221B, 222A, 226B, 261B, 268A, 270B.
+221B Shepard 32 + Dist 2 SK already CLOSED. Dist 1 130B still a reel-208 scan gap (imagecount 644: Jessamine / Johnson / Dist 2 stamp 226). County NOT closed.
+C1804
+
+Franklin / Mercer / Lincoln Dist 1 / Hopkins remaining densely sampled NOT every-line.
+SK Mercer/Hopkins/Franklin/Lincoln 404 this pass.
+Hopkins compiled John 59 Farmer NC × Jane 52 NC + Louisa 28 + Martha 20 + Eveline 16 (d2-pg003 hh 76/76) REJECT vs William 26 × Jane 22. Francis J 28 already image-seen.
+C1805 C1806
+
+Still no free William × Rhoda or William × Jane license.
+fishergenes / kykinfolk 404.
+C1807
+
+Parents of 1928 Frank still PROBABLE.
+1860 Rhoda widow + B.F. 7 PROVEN.
+Jane not Rhoda. #28 stands.
+hh 311 $325.
+1850 living head FOUND remains Owsley hh 311 only.
+Breckinridge William 26 × Angeline is another man.
+Hancock William 26 × Catharine O is another man.
+Edmonson William 30 labourer is another man.
+C1808
+
+=== OPEN / partials ===
+GT Lee WWI LIVE 452540. Brandenburg, Luther + Underwood, Luther only. Cards unread. C1809
+FS 1146342 SPA 19655 B (R011-76). USGenNet wills LIVE Jane Steele / Elizabeth / Mary F. — no Samuel P. C1810
+Hutchins FAQ 9938 LIVE cards 228–229. No free June 1958 clip. Phone not re-asked. C1811
+IA 602 metadata {}. pass123 still 515. One line. C1812
+Grant 21 not merged. B084 POSSIBLE Jr only. Do not print 1966 or 1962. Did not walk 33-12/33-13. Phones / R001/R007/R008 not re-asked. C1813
+IA Solr M1509 KY 0. C1814
+
+Did not repeat closed N-walks (Laurel 209, Montgomery 214, Estill 1840, Clay, Clark 1840 n0005–n0081, Hancock, Edmonson, Boone, Barren, etc.).
+Did not walk Estill 1930 33-12/33-13.
+Authored Word SHA 78cdcf44… not overwritten.
+
+=== Pass 138b residuals (same day) ===
+Kenton Dist 2 start RECONFIRM IMAGE SEEN: n0253 stamp 226, 1 Aug 1850, Reuben McDannold / Independence.
+n0261 stamp 230 (not 130B). Hypothesis that Dist 2 start is stamp 126 DISPROVED.
+130B remains a reel-208 scan gap. C1815 S1482
+
+Mercer Dist 1 n0202–n0415: 56 namecols fetched; tesseract psm 6 NIL Newman/Newnam/Nureman/Norman/Tincher/Tinker tokens.
+Densify does not close the county (not every-line). C1816 S1483
+
+Leftover western USGenWeb Census Project dirs (pass138b):
+  LIVE slave-only: Butler, Clinton, Grayson, Marshall, Allen (slave.txt / slave-index).
+  404 / empty: Caldwell, Calloway, Cumberland, Fulton, Graves, Hart, Hickman, Warren, Union, Muhlenberg, Kenton.
+Compiled population indexes NOT published. Counties NOT closed compiled. C1817 S1484
+
+Reel 194 (Butler/Caldwell/Calloway) coarse map IMAGE SEEN headers:
+  n0050 County of Butler stamp ~238 14 Aug.
+  n0250 Butler Dist 1.
+  n0300 Caldwell Dist 2 ~26 Sept Samuel Miller.
+  n0400 Calloway Dist 2 21 Aug J.P. Bennett.
+Living-head N-walk unread. C1818 S1485
+
+Still no free William × Rhoda / Jane license. Parents still PROBABLE. #28 stands.
+Did not walk 33-12/33-13. Phones / R001/R007/R008 not re-asked.
+Authored Word SHA 78cdcf44… not overwritten.

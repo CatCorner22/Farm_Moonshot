@@ -1170,6 +1170,54 @@ Captured this session: **30 Oct 2026**. Earlier plates remain in `sources/census
 | S1462 | `sources/catalog/usgennet-lee-wills-pass137.html` | 2026-10-31 | USGenNet Lee wills | https://usgennet.org/usa/ky/county/lee/wills/ | no Samuel P. | **C1792** | transcription only |
 | S1463 | `sources/catalog/hutchins-faq-9938-pass137.html` | 2026-10-31 | Berea Library Answers FAQ 9938 | https://libraryanswers.berea.edu/faq/9938 | Cards 228–229 LIVE | **C1793** | catalog only |
 | S1464 | `sources/census/pass137-extract-2026-10-31.txt` | 2026-10-31 | This session | — | Pass 137 master extract | **C1765–C1796** | extract |
+| S1465 | `sources/catalog/loc-sn89051008-pass138.json` | 2026-10-31 | Library of Congress | https://www.loc.gov/item/sn89051008/ | `item.digitized: false` | **C1797** | catalog only |
+| S1466 | `sources/catalog/ia-solr-postdispatch-1926-pass138.json` | 2026-10-31 | IA Solr | https://archive.org/ | Post-Dispatch 1926 **0** | **C1797** | index only |
+| S1467 | `sources/census/pass138/keyplates/breck108-n0414-header.jpg` | 2026-10-31 | IA reel 193 n0414 | https://archive.org/details/populationschedu0193unix | Dist 1 stamp **108** header | **C1798** | image seen |
+| S1468 | `sources/census/pass138/keyplates/breckinridge-100a-john-j-23.jpg` | 2026-10-31 | IA reel 193 n0398 | https://archive.org/details/populationschedu0193unix | John J **23** × Cinderella **24** SHA 9536c6bf… | **C1799** | image seen |
+| S1469 | `sources/census/pass138/keyplates/breckinridge-100b-henry-46.jpg` | 2026-10-31 | IA reel 193 n0399 | https://archive.org/details/populationschedu0193unix | Henry **46** × Adeline **48** SHA 2ad8bbff… | **C1800** | image seen |
+| S1470 | `sources/census/pass138/keyplates/breckinridge-108b-william-26-angeline.jpg` | 2026-10-31 | IA reel 193 n0415 | https://archive.org/details/populationschedu0193unix | William **26** × Angeline **23** SHA 3126ce2f… | **C1801** | image seen |
+| S1471 | `sources/census/pass138/keyplates/breckinridge-108b-william-26-tight.jpg` | 2026-10-31 | IA reel 193 n0415 | https://archive.org/details/populationschedu0193unix | tight crop SHA afb3b657… | **C1801** | image seen |
+| S1472 | `sources/catalog/us-census-breckinridge-indx-n-s-pass138.txt` | 2026-10-31 | USGenWeb Census Project Breckinridge | https://us-census.org/pub/usgenweb/census/ky/breckinridge/1850/indx-n-s.txt | NEWMAN hits including William **26** | **C1803** | index only |
+| S1473 | `sources/catalog/us-census-breckinridge-indx-t-z-pass138.txt` | 2026-10-31 | USGenWeb Census Project Breckinridge | https://us-census.org/pub/usgenweb/census/ky/breckinridge/1850/indx-t-z.txt | NIL Tincher | **C1803** | index only |
+| S1474 | `sources/catalog/sk-kenton-1850-pass138.html` | 2026-10-31 | S-K Kenton 1850 | https://www.skcensus.com/1850-census-index-kenton-county-kentucky/ | NEWMAN **130B** residual | **C1804** | catalog only |
+| S1475 | `sources/catalog/gt-lee-wwi-pass138.html` | 2026-10-31 | Genealogy Trails Lee WWI | https://www.genealogytrails.com/ken/lee/wwi_draft_cards.html | LIVE **452540**; Brandenburg + Underwood only | **C1809** | transcription only |
+| S1476 | `sources/catalog/fs-1146342-pass138.html` | 2026-10-31 | FamilySearch catalog | https://www.familysearch.org/search/catalog/1146342 | SPA **19655** B `isLoggedIn false` (R011-76) | **C1810** | catalog only |
+| S1477 | `sources/census/pass138-extract-2026-10-31.txt` | 2026-10-31 | This session | — | Pass 138 master extract | **C1797–C1814** | extract |
+| S1478 | `sources/catalog/usgennet-lee-wills-pass138.html` | 2026-10-31 | USGenNet Lee wills | https://usgennet.org/usa/ky/county/lee/wills/ | no Samuel P. | **C1810** | transcription only |
+| S1479 | `sources/catalog/hutchins-faq-9938-pass138.html` | 2026-10-31 | Berea Library Answers FAQ 9938 | https://libraryanswers.berea.edu/faq/9938 | Cards 228–229 LIVE | **C1811** | catalog only |
+| S1480 | `sources/catalog/ia-meta-602-pass138.json` | 2026-10-31 | IA T625-602 | https://archive.org/metadata/14thcensusofpopu0602unit | empty **{}**; pass123 still **515** | **C1812** | catalog only |
+| S1481 | `sources/catalog/ia-solr-m1509-ky-pass138.json` | 2026-10-31 | IA Solr | https://archive.org/ | M1509 KY **0** | **C1814** | index only |
+| S1482 | `sources/census/pass138/keyplates/k130-n0253-stamp.jpg` | 2026-10-31 | IA reel 208 n0253 | https://archive.org/details/populationschedu0208unix | stamp **226** Dist 2 start | **C1815** | image seen |
+| S1483 | `sources/census/pass138/namecols/` Mercer n0202–n0415 | 2026-10-31 | IA reel 213 | https://archive.org/details/populationschedu0213unix | 56 namecols OCR nil | **C1816** | OCR draft |
+| S1484 | `sources/catalog/us-census-*-1850-dir-pass138.html` | 2026-10-31 | USGenWeb Census Project | https://us-census.org/pub/usgenweb/census/ky/ | leftover western slave-only / 404 | **C1817** | catalog only |
+| S1485 | `sources/census/pass138/keyplates/r194map-n0250-header.jpg` | 2026-10-31 | IA reel 194 | https://archive.org/details/populationschedu0194unix | Butler / Caldwell / Calloway map | **C1818** | image seen |
+| S1486 | `sources/census/pass138-extract-2026-10-31.txt` | 2026-10-31 | This session | — | Pass 138 + 138b extract | **C1797–C1819** | extract |
+
+| S1487 | `sources/catalog/loc-sn89051008-pass139.json` | 2026-10-31 | LOC | https://www.loc.gov/item/sn89051008/ | `item.digitized: false` 34425 B | **C1820** | catalog only |
+| S1488 | `sources/catalog/ia-solr-postdispatch-1926-pass139.json` | 2026-10-31 | IA Solr | https://archive.org/ | 1926 **0** | **C1820** | index only |
+| S1489 | `sources/census/pass139/keyplates/hopkins-n0238-francis-band.jpg` | 2026-10-31 | IA reel 205 n0238 | https://archive.org/details/populationschedu0205unix | Francis J 28 reconfirm | **C1821** | image seen |
+| S1490 | `sources/census/pass139/namecols/hopkins-n0239-names.jpg` | 2026-10-31 | IA reel 205 n0239 | https://archive.org/details/populationschedu0205unix | Ash Armstrong 38 verso | **C1822** | image seen |
+| S1491 | `sources/census/pass139/keyplates/hopkins-n0240-john-59-tight.jpg` | 2026-10-31 | IA reel 205 n0240 | https://archive.org/details/populationschedu0205unix | Jno Newman 59 SHA **4c7f1521…** | **C1823** | image seen |
+| S1492 | `sources/census/pass139/keyplates/hopkins-n0240-john-59-william-p.jpg` | 2026-10-31 | IA reel 205 n0240 | https://archive.org/details/populationschedu0205unix | William P 26 same hh SHA **da4158b0…** | **C1823** | image seen |
+| S1493 | `sources/census/pass139-extract-2026-10-31.txt` | 2026-10-31 | This session | — | Pass 139 extract | **C1820–C1842** | extract |
+| S1494 | `sources/catalog/sk-graves-1850-pass139.html` | 2026-10-31 | S-K Publications | https://www.skcensus.com/1850-census-index-graves-county-kentucky/ | NEWHOUSE/NEWTON only | **C1825** | index only |
+| S1495 | `sources/census/pass139/keyplates/r204-n0005-header.jpg` | 2026-10-31 | IA reel 204 n0005 | https://archive.org/details/populationschedu0204unix | Hart Dist 1 stamp **3** | **C1826** | image seen |
+| S1496 | `sources/census/pass139/keyplates/r204-n0440-header.jpg` | 2026-10-31 | IA reel 204 n0440 | https://archive.org/details/populationschedu0204unix | Henry Dist 1 2 Aug | **C1827** | image seen |
+| S1497 | `sources/census/pass139/keyplates/r204-n0200-header.jpg` | 2026-10-31 | IA reel 204 n0200 | https://archive.org/details/populationschedu0204unix | Henderson Dist 1 | **C1828** | image seen |
+| S1498 | `sources/census/pass139/keyplates/larue-n0160-header.jpg` | 2026-10-31 | IA reel 209 n0160 | https://archive.org/details/populationschedu0209unix | Larue Hamilton stamp **398** | **C1829** | image seen |
+| S1499 | `sources/census/pass139/keyplates/campbell-n0130-header.jpg` | 2026-10-31 | IA reel 195 n0130 | https://archive.org/details/populationschedu0195unix | Newport Campbell stamp **127** | **C1830** | image seen |
+| S1500 | `sources/census/pass139/keyplates/kentonend-n0643-header.jpg` | 2026-10-31 | IA reel 208 n0643 | https://archive.org/details/populationschedu0208unix | MICROCOPY reel end | **C1831** | image seen |
+| S1501 | `sources/catalog/ia-meta-kentuckycensus00reel208-pass139.json` | 2026-10-31 | IA | https://archive.org/metadata/kentuckycensus00reel208 | empty **{}** | **C1831** | catalog only |
+| S1502 | `sources/catalog/sk-kenton-1850-pass139.html` | 2026-10-31 | S-K Publications | https://www.skcensus.com/1850-census-index-kenton-county-kentucky/ | NEWMAN **130B** + neighbors | **C1832** | index only |
+| S1503 | `sources/census/pass139/keyplates/` leftover headers | 2026-10-31 | IA reels 200/202/204/210/214 | https://archive.org/ | Hickman/Livingston/Muhlenberg/Franklin/Grayson map | **C1833** | image seen |
+| S1504 | `sources/census/pass139-extract-2026-10-31.txt` | 2026-10-31 | This session | — | no license; process | **C1834 C1835 C1840** | extract |
+| S1505 | `sources/catalog/gt-lee-wwi-pass139.html` | 2026-10-31 | Genealogy Trails | https://www.genealogytrails.com/ken/lee/wwi_draft_cards.html | LIVE **452540** | **C1836** | index only |
+| S1506 | `sources/catalog/fs-1146342-pass139.html` | 2026-10-31 | FamilySearch | https://www.familysearch.org/search/catalog/1146342 | SPA **19655** B | **C1837** | catalog only |
+| S1507 | `sources/catalog/hutchins-faq-9938-pass139.html` | 2026-10-31 | Berea Library Answers | https://libraryanswers.berea.edu/faq/9938 | Cards **228–229** LIVE | **C1838** | catalog only |
+| S1508 | `sources/catalog/ia-meta-602-pass139.json` | 2026-10-31 | IA T625-602 | https://archive.org/metadata/14thcensusofpopu0602unit | empty **{}** | **C1839** | catalog only |
+| S1509 | `sources/catalog/ia-solr-m1509-ky-pass139.json` | 2026-10-31 | IA Solr | https://archive.org/ | M1509 KY **0** | **C1841** | index only |
+| S1510 | `sources/catalog/usgennet-lee-wills-pass139.html` | 2026-10-31 | USGenNet Lee wills | https://usgennet.org/usa/ky/county/lee/wills/ | no Samuel P. | **C1842** | transcription only |
+
 
 ## Word biography provenance
 
@@ -1276,6 +1324,8 @@ Exact strings in `02-log.md` **L343–L352**, **L380–L397**, **L398–L411**, 
 **Pass 118 (B058 film / B071 Clark 1840 names + Owsley remaining):** William/Wm × Newnam/Newman/Newnarn/Newan/Newnom/Nunnem/Numan; Rhoda × Tincher/Tinchir/Fincher/Tinker; Thos. Soundex **N550** / **T526**. Place Clark 1840 n0005–n0081; Owsley 1850 n0394–n0432 / TINCHER **309A**; Knox n0006–n0158; Morgan n0174–n0351. Dora/posa × Stone cert **1524**. Exact strings **L1235–L1256**.
 
 **Pass 137 (B058 film / B071 Edmonson + Hancock close + leftover compiled):** William/Wm × Newman/Newnam/Nureman/Norman; Francis J/Catherine O/Alexander/Benja. Soundex **N550** / **T526** / **S350**. Place Edmonson **198** n0238; Hancock **202** n0596; Hopkins **205** n0238. Exact strings **L1589–L1620**.
+
+**Pass 138 (B058 film / B071 Breckinridge William 26 × Angeline IMAGE SEEN):** William/Wm × Newman/Newnam/Newnarn/Numan/Nureman; Angeline/Jane/Rhoda; Obediah/Henry/John J/Cinderella. Tincher/Tinker/Tinsher. Soundex **N550** / **T526** / **S350**. Place Breckinridge reel **193** Dist 1 stamps **100 / 108**; Kenton **130B**; Mercer **213**; Franklin **200**; Lincoln **210**; Hopkins **205**. Exact strings **L1621–L1638**.
 
 **Pass 132–134 (B058 film / B071 Barren + Boone close + reel 208 map + Mercer/Hopkins/Franklin):** William/Wm × Newman/Newnam/Nureman; Christopher/Billingsly/Thomas C/William B/George W/Shepard/Daniel. Soundex **N550** / **T526** / **N655**. Place Barren **191** n0005=307; reel **208** imagecount **644**; Mercer **213** n0150=243; Hopkins **205** n0140–n0348. Exact strings **L1559–L1588**.
 
