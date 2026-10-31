@@ -1,0 +1,540 @@
+Leslie County Births from 1911-1920
+Each listing includes childs names, date of birth, mothers name,
+volume number, volume year and certificate number.
+
+
+ KEEN               DOAK                            10         6      1911 COUCH              NANNIE                     127       50592               1911
+
+| KEEN               EDNA               M            11        13      1911 WOODS              ORPHA                      139       55525               1911
+
+| KEEN               ODA                             12        26      1911 SIZEMORE           LOUISA                     153       60976               1911
+
+| KEEN               PAUL                             9        30      1913 COUCH              NANNIE                     123       61066               1913
+
+| KEEN               ADDIE              R            10        23      1913 ROBERTS            OPHA                       123       61341               1913
+
+| KEEN               MARA               B            10        29      1913 SISEMON            LUIZA                      108       53575               1913
+
+| KEEN               DON                C            11         4      1913 WOODS              ORPHA                      124       61976               1913
+
+| KEEN               MAY                             10        15      1914 SIZEMORE           OPPA                       121       60134               1914
+
+| KEEN               PAUL                            11        28      1915 COUCH              NANNIE                     118       58736               1915
+
+| KEEN               WILLIAM                          8        17      1916 ROBERTS            OPHA                       83        41384               1916
+
+| KEEN               CHARLIE                          3        24      1917 SIZEMORE           LOUISA                     73        36132               1917
+
+| KEEN               CARL                            12        10      1917 COUCH              NANNIE                     124       61602               1917
+
+| KEEN               CRAFT                            5        17      1918 SIZEMORE           OPHA                       47        23129               1918
+
+| KEEN               QUENTIN                          9        25      1918 BEGLEY             OSHA                       70        34641               1941
+
+| KEEN               JOHN               M             8        27      1919 SIZEMORE           OPHA                       83        41332               1919
+
+| KEEN               KERMIT                           9        16      1919 SIZEMORE           LOUISE                     83        41334               1919
+
+| KEEN               WILEY              J             6         2      1920 WOODS              ORPHA                      116       57953               1920
+
+| KEEN               DANIEL                          11        21      1920 COUCH              NANNIE                     116       57947               1920
+
+| KEITH              NANCY                            8        15      1918 WOODS              ORPHA                      97        48055               1918
+
+| KERN               POLLY                           10        26      1915 WOODS              ORPHA                      112       55748               1915
+
+| KILBERN            SALLIE                          11         5      1913 LISEMAN            ARALIZE                    118       58920               1913
+
+| KILBOUM            MAY                              2        25      1911 CAUSEY             ELIZABETH                  20        7749                1911
+
+| KILBOURN           NAT                1             3         4      1915 CAUSEY             ELIZA                      28        13763               1915
+
+| KILBOURN           MARY               J             5         9      1916 WILLIAMS           LIEUCINDA                  57        28368               1916
+
+| KILBOURN           MARY               J            12         7      1917 WILLIAMS           MARTHA                     124       61586               1917
+
+| KILBOURN           GOLDA                            5        22      1920 CAUSEY             LIZZIE                     52        25754               1920
+
+| KILBOURN           LULY                             7         2      1920 WILLIAMS           LIEUCINDA                  74        36594               1920
+
+| KILBOURNE          COVA                            11        26      1914 WILLIAMS           LOUISA                     115       57480               1914
+
+| KILBURN            ASBERRY                          5        19      1911 CAUDILL            ANN                        203       93879               1951
+
+| KILBURN            BETHEY                           5        20      1912 COVEY              NANCY                      62        24527               1912
+
+| KILBURN            PERLINA                          6         9      1912 CAUSEY             NANCY                      213       95766               1952
+
+| KILBURN            CLAUDE                           6        17      1912 CAUDILL            LUCINDA                    96        47638               1941
+
+| KILBURN            FAY                              6        25      1913 CAUSEY             ELIZA                      64        31948               1913
+
+| KILBURN            MARY               ANN           1        10      1914 CAUDILL            ANNA                       200       92973               1978
+
+| KILBURN            ABNER                           11        13      1914 STANFORD           MARY                       115       57482               1914
+
+| KILBURN            MARCUS                           7        19      1915 BIGLY              LUCY                       126       62607               1943
+
+| KILBURN            HARRIET                         10         7      1915 BEGLEY             LUCY                       112       55722               1915
+
+| KILBURN            LUCY                             1         6      1916 CAUDILL            ANNE                       12        5961                1916
+
+| KILBURN            SARAH                            4         1      1916 PENNINGTON         ELLA                       42        20697               1916
+
+| KILBURN            TINA                             7        25      1916 MITCHELL           ELLA                       88        43834               1916
+
+| KILBURN            VERSA                           12        17      1916 CAUSEY             ELIZABETH                  124       61910               1916
+
+| KILBURN            GEORGE                           3        16      1917 BEGLEY             LUCY                       73        36389               1919
+
+| KILBURN            RHODA                            7        25      1917 MITCHELL           ELLA                       203       93439               1953
+
+| KILBURN            CARTER             1            12        12      1917 CAUDILL            ANNIE                      124       61617               1917
+
+| KILBURN            ULAAH                           12        17      1917 BEGLEY             LUCY                       124       61616               1917
+
+| KILBURN            GLADIS                           1        14      1918 FRANCIS            ELEY                       36        17929               1918
+
+| KILBURN            VALEY                            4        16      1918 PENNINGTON         POLLY                      36        17917               1918
+
+| KILBURN            WILLIE                           5        23      1918 CAUSEY             NANCY                      47        23143               1918
+
+| KILBURN            ALIE                            10        25      1918 SIZEMORE           MARTHA                     119       59204               1918
+
+| KILBURN            ELIZABETH                        5        29      1919 CAUDILL            ANNIE                      56        27904               1919
+
+| KILBURN            HENRY                           10        23      1919 STAINFORD          MARY                       94        46669               1919
+
+| KILBURN            NANNY              B             3         3      1920 FRANCE             ELSIE                      31        15098               1920
+
+| KILBURN            ISOOC                            8        19      1920 SIZEMORE           MARTHA                     94        46846               1920
+
+| KILLBURN           JOHN               D             3        25      1911 CANCY              NANCY                      34        13555               1911
+
+| KILLENMAN          MARY               J            12         7      1917 WILLIAMS           MARTHA                     124       61625               1917
+
+| LAFEVERS           EFFIE                            3         6      1917 BAKER              MAUDE                      29        14009               1917
+
+| LANGDON            ARBERT                           9         3      1911 CAMPBELL           EMMA                       99        49032               1942
+
+| LANGDON            MARTHA                           5         2      1912 STIDHAM            REBECCA                    195       92148               1971
+
+| LANGDON            JOSEPH             B             8         6      1912 BOWLING            NANCY                      192       91732               1974
+
+| LANGDON            CLAY               1             5        11      1913 BEGLEY             MARY                       54        26900               1913
+
+| LANGDON            EDNA               M             6        11      1915 MORRIS             LINDA                      61        30170               1915
+
+| LANGDON            WILLIE             H             8         1      1915 BOWLING            NANCYAN                    83        41439               1915
+
+| LANGDON            LULU                            10        16      1915 CAMPBELL           EMMA                       107       53027               1915
+
+| LANGDON            RUTH                             8        13      1917 MORRIS             LUCINDA                    83        41350               1917
+
+| LANGDON            IDA                             12         3      1917 BOWLING            NANCY                      109       54188               1941
+
+| LANGDON            BURT                             2        20      1918 CANBELL            EMMA                       15        7431                1918
+
+| LANGDON            BESSIE                          11        21      1918 MOSLEY             MARGRETT                   107       53369               1918
+
+| LANGDON            GLADYS                           7        28      1919 MORIS              SINDA                      65        32239               1919
+
+| LANGDON            EMMA                            12        18      1919 MORRIS             LOLA                       117       58162               1919
+
+| LANGDON            EDITH                            4        20      1920 BOWLING            NANCY                      147       73439               1941
+
+| LANGLIN            JASPER             1             5         2      1913 MOSLEY             MARGET                     54        26898               1913
+
+| LAUGDAN            VIN                C             2        16      1914 SINGDOE            SINDA                      11        5470                1914
+
+| LAWSON             SILORE             1             3         1      1912 HOSKINS            RENA                       34        13598               1912
+
+| LAWSON             HAYE                            12        21      1914 DAVIDSON           JOEL                       2         502                 1915
+
+| LAWSON             NANCY              M             8        18      1920 COUSY              CATHERINE                  94        46851               1920
+
+| LEDFORD            EMILY                           10        11      1913 SPURLOCK           LIZZIE                     108       53571               1913
+
+| LEDFORD            CAL                              2        27      1914 ROBERTS            CLARA                      12        5634                1943
+
+| LEDINGTON          DOLIE                           11        20      1911 HOWARD             MATILDA                    1         267                 1912
+
+| LEDINGTON          BIRCHEL                          3        15      1915 BRAY               EMILY                      43        21212               1915
+
+| LEFEVERS           LOTTIE                          12         5      1914 SAYLOR             MAUDE                      182       90197               1977
+
+| LENNIN             NANCY                            3        11      1911 LEWIS              REBECA                     34        13553               1911
+
+| LESINGTON          MOLLIE             1            12        22      1913 LESINGTON          MOLLIE                     131       65070               1913
+
+| LEUIN              MAT                              2        23      1911 WELLS              JANE                       20        7747                1911
+
+| LEWIS              MAE                              1         9      1911 BEGLEY             PEARLIE                    200       92961               1960
+
+| LEWIS              ELLA                             1        16      1911 STIDHAM            MARTHA                     195       92192               1964
+
+| LEWIS              SARAH              J             1        18      1911 WITT               MELVINIA                   118       46991               1911
+
+| LEWIS              BOYD                             1        23      1911 WILLIAMS           SALLY                      7         2761                1911
+
+| LEWIS              WILLIAM            K             1        28      1911 LEWIS              JONAH                      25        9681                1911
+
+| LEWIS              OMA                              4         2      1911 TRUTTE             MANNA                      48        19025               1911
+
+| LEWIS              ROBERT                           4         2      1911 NAPIER             MARY                       48        19020               1911
+
+| LEWIS              JAMES              A             6        26      1911 EVERSOLE           MARTHA                     74        29291               1911
+
+| LEWIS              SUSAN                            7        31      1911 BOGGS              BECKY                      87        34494               1911
+
+| LEWIS              JAMES              2             8        16      1911 MAGGARD            MARTHA                     100       39688               1911
+
+| LEWIS              MOSSIE                          10         7      1911 TURNER             MARY                       145       57611               1911
+
+| LEWIS              MOSSIE                          10         7      1911 TURNER             MARY                       127       50589               1911
+
+| LEWIS              LILLIE                          11        17      1911 JOSEPH             HETY                       139       55511               1911
+
+| LEWIS              ARVILL                          11        26      1911 LEWIS              CATY                       139       55512               1911
+
+| LEWIS              MATILDA                         12        10      1911 WILLIAMS           POLLY                      2         532                 1912
+
+| LEWIS              BRUCE              H            12        24      1911 BOWLING            ANNA                       2         528                 1912
+
+| LEWIS              ETHEL                            2        13      1912 NAPIER             CHLORA                     21        8399                1912
+
+| LEWIS              JAMES                            2        16      1912 CREECH             CYNTHIA                    63        31015               1942
+
+| LEWIS              MILLIE                           3        26      1912 LEWIS              GOMUH                      34        13593               1912
+
+| LEWIS              JOHN               H             4        26      1912 NORTH              MARY                       48        18816               1912
+
+| LEWIS              EDWARD             C             5         1      1912 BEGLEY             PRUDY                      62        24520               1912
+
+| LEWIS              BOYD                             5        13      1912 KILBURN            REBECA                     62        24523               1912
+
+| LEWIS              BECAN                            5        26      1912 SHEPHERD           DICY                       62        24531               1912
+
+| LEWIS              JOHN               2             5        26      1912 NANTZ              MATILDA                    62        24530               1912
+
+| LEWIS              CORBIN                           6        13      1912 LEWIS              ELIZA                      76        30058               1912
+
+| LEWIS              ZARRY                            6        13      1912 JOHNSON            OLEY                       94        37372               1912
+
+| LEWIS              HUBERT                           6        19      1912 ENGLAND            LILLIAN                    94        37373               1912
+
+| LEWIS              JUDAR                            6        22      1912 JONES              POLLYANNA                  76        30062               1912
+
+| LEWIS              LINDSEY            B             8         9      1912 LEWIS              ZANEY                      102       40785               1912
+
+| LEWIS              LARENCE                          9         1      1912 PENNINGTON         REBECCA                    117       46457               1912
+
+| LEWIS              WALTER                           9        20      1912 NAPIER             MARY                       136       54298               1912
+
+| LEWIS              JAMES              H             1         5      1913 CAUDILL            LILLA                      8         3677                1913
+
+| LEWIS              ALICE                            2         7      1913 BLEVINS            EMLY                       18        8981                1913
+
+| LEWIS              HOMER                            2        14      1913 DAY                MANERVA                    197       92644               1953
+
+| LEWIS              WALAS                            3         2      1913 LEWIS              MINNIE                     67        33476               1913
+
+| LEWIS              HOMER                            3        13      1913 TURNER             POLLY                      109       54365               1943
+
+| LEWIS              KERMIT                           3        14      1913 BEGLEY             PEARLIE                    31        15111               1913
+
+| LEWIS              POLLY                            3        25      1913 BEGLEY             ATLANTA                    31        15114               1913
+
+| LEWIS              OWEN                             3        26      1913 LEWIS              NANCY                      31        15100               1913
+
+| LEWIS              MAGGIE                           4         8      1913 JOSEPH             HETTIE                     43        21038               1913
+
+| LEWIS              JOHN               C             5         9      1913 BLEVINS            SINDA                      54        26888               1913
+
+| LEWIS              CLIANT                           5        24      1913 JOSEPH             POLLY                      54        26890               1913
+
+| LEWIS              DELLA                            8        20      1913 JOHNSON            OLLIE                      122       60923               1913
+
+| LEWIS              ALICE                            9         4      1913 KILBURN            REBECCA                    96        47855               1913
+
+| LEWIS              MARY                            10        15      1913 HUFF               ALICE                      108       53582               1913
+
+| LEWIS              MABLE                           10        30      1913 BEGLEY             PRUDIE                     12        5567                1914
+
+| LEWIS              LUCY                            11        12      1913 LINN               REBECIA                    118       58931               1913
+
+| LEWIS              ALPHA                           11        25      1913 WELLS              REBECKY                    118       58934               1913
+
+| LEWIS              WOODROW            W            12        12      1913 LEWIS              MARTHA                     131       65057               1913
+
+| LEWIS              FLOSA                           12        14      1913 ADAMS              MARTHA                     131       65038               1913
+
+| LEWIS              THOMAS             J            12        21      1913 LYTTLE             FLORA                      95        47058               1943
+
+| LEWIS              CLARENCE                        12        24      1913 MANESS             ETHEL                      131       65041               1913
+
+| LEWIS              CHLOIE                           2        14      1914 LEWIS              MARTHA                     18        8997                1914
+
+| LEWIS              JOSEPH             T             4        26      1914 SIZEMORE           ZAREY                      85        42292               1914
+
+| LEWIS              RHODA                            6        11      1914 WILLIAMS           MAGGIE                     109       54298               1914
+
+| LEWIS              RUTH                             6        29      1914 ENGLAND            LILLIAN                    85        42491               1914
+
+| LEWIS              ABNER                            7        12      1914 BOWLING            CARDA                      124       61830               1915
+
+| LEWIS              HAYES                            7        12      1914 KILBURN            LINDA                      134       66685               1942
+
+| LEWIS              HAYES                            7        12      1914 KILBURN            LINDA                      63        31023               1942
+
+| LEWIS              LUANA                            8         9      1914 SHORT              MARY                       87        43253               1914
+
+| LEWIS              MAGIE                            9        15      1914 MASTERS            MALLIE                     109       54316               1914
+
+| LEWIS              BOON                             9        19      1914 BOWLING            ANNA                       92        45953               1914
+
+| LEWIS              ORIE                            10         6      1914 CORNETT            MARY                       201       93100               1976
+
+| LEWIS              JUDY                            12         5      1914 LEWIS              REBECA                     12        5515                1915
+
+| LEWIS              CECIL                            2         8      1915 KILBERM            POLLY                      43        21221               1915
+
+| LEWIS              SHELBY                           2        20      1915 TURNER             POLLY                      17        8435                1915
+
+| LEWIS              RUSSELL            E             2        28      1915 NAPIER             MARY                       43        21189               1915
+
+| LEWIS              DOLLY              J             3         2      1915 LEWIS              DOLLY                      28        13762               1915
+
+| LEWIS              CLARA              E             3         4      1915 TURNER             JONA                       209       95031               1955
+
+| LEWIS              ETHEL                            3         4      1915 LEWIS              JONAH                      28        13758               1915
+
+| LEWIS              CARL                             4        10      1915 JOHNSON            OLLIE                      43        21201               1915
+
+| LEWIS              STELLIE                          4        15      1915 LEWIS              RUTHY                      39        19063               1915
+
+| LEWIS              OSPHA                            5         3      1915 PENINGTON          RHODA                      54        26952               1915
+
+| LEWIS              LUCY               E             5         9      1915 MORGAN             DRUCIS                     43        21194               1915
+
+| LEWIS              RUFUS                            5        18      1915 MITCHELL           EMILY                      54        26954               1915
+
+| LEWIS              OATIA                            6        10      1915 LEWIS              PEARL                      112       55740               1915
+
+| LEWIS              STEVIE                           6        10      1915 COLLINS            OLLIE                      46        22787               1943
+
+| LEWIS              JUNE                             7        28      1915 MAUPIN             NORA                       100       49615               1915
+
+| LEWIS              WILSON                           8         3      1915 JOSEPH             POLLY                      194       92373               1951
+
+| LEWIS              NELLIE                           8        28      1915 BEGLEY             ATTAUTA                    112       55745               1915
+
+| LEWIS              POLLY              J            10        27      1915 BLEVINS            SINDA                      195       92121               1975
+
+| LEWIS              FLORENCE                        11        18      1915 ADAMS              MARTHA                     124       61821               1915
+
+| LEWIS              LOYD                            11        19      1915 TURNER             MAUDE                      118       58732               1915
+
+| LEWIS              SALLIE                          12        27      1915 HOWARD             MAUD                       133       66036               1915
+
+| LEWIS              THOMAS             G             1        22      1916 BROWN              FLORA                      68        33523               1916
+
+| LEWIS              LUCY                             2         3      1916 ENGLE              REBECCA                    19        9038                1916
+
+| LEWIS              LUCY                             2         3      1916 ENGLE              REBECCA                    23        11430               1916
+
+| LEWIS              SHELBY                           2        20      1916 TURNER             POLLY                      182       90224               1954
+
+| LEWIS              CECIL                            4        11      1916 LEWIS              POLLY                      109       54040               1916
+
+| LEWIS              ALPHA                            4        24      1916 MAGGARD            MARTHA                     42        20690               1916
+
+| LEWIS              BESSIE                           5        14      1916 NANTZ              MOLLY                      57        28364               1916
+
+| LEWIS              OTTIS                            5        15      1916 YORK               MARTHA                     53        26037               1916
+
+| LEWIS              LOYD                             5        25      1916 LEWIS              LINDA                      53        26038               1916
+
+| LEWIS              DELPHA                           6        14      1916 BOGGS              OLLIE                      63        31231               1916
+
+| LEWIS              WM                 N             6        18      1916 SIZEMORE           ZANIE                      68        33554               1916
+
+| LEWIS              COWLEY                           6        21      1916 BEGLEY             DAUTY                      63        31232               1916
+
+| LEWIS              NELLIE                           6        24      1916 LEWIS              JANE                       63        31242               1916
+
+| LEWIS              MARTHA                           6        26      1916 HUFF               ALICE                      63        31229               1916
+
+| LEWIS              LILLY                            7        24      1916 SHEPHERD           DISY                       88        43833               1916
+
+| LEWIS              NETTIE             S             9         6      1916 LEWIS              MILLEY                     124       61891               1916
+
+| LEWIS              MARY                             9        19      1916 LYTTLE             FLORA                      94        46877               1916
+
+| LEWIS              FRONIA                          10         5      1916 HOWARD             SALLIE                     124       61890               1916
+
+| LEWIS              WINNIE                          10        27      1916 LEWIS              ELIZABETH                  109       54043               1916
+
+| LEWIS              MAUDY                           12        25      1916 TANSEY             POLLY                      124       61905               1916
+
+| LEWIS              SUSAN              A             1         1      1917 STIDHAN            MARTH                      83        41358               1917
+
+| LEWIS              DOLLY                            2         3      1917 TURNER             MAUDA                      17        8384                1917
+
+| LEWIS              ABIGA                            2        16      1917 BLEVINS            EMILY                      17        8366                1917
+
+| LEWIS              SALLIE                           3         6      1917 MORGAN             LUCY                       52        25578               1917
+
+| LEWIS              SAILOR                           3        12      1917 KILBURN            MALINDA                    29        14007               1917
+
+| LEWIS              A                  B             4        12      1917 LEWIS              SALLY                      52        25574               1917
+
+| LEWIS              COVA                             4        24      1917 LEWIS              ETHEL                      52        25566               1917
+
+| LEWIS              BERTHA             J             5        16      1917 KILBURN            REBECA                     52        25602               1917
+
+| LEWIS              EVA                              6        14      1917 LEWIS              RUTHA                      63        31027               1917
+
+| LEWIS              WILSON                           8         3      1917 JOSEPH             POLLY                      104       51616               1917
+
+| LEWIS              CARL               A             8        14      1917 BEGLEY             PEARL                      104       51601               1917
+
+| LEWIS              AUBRE                            8        17      1917 BEGLEY             PEARL                      134       66955               1941
+
+| LEWIS              MARTHA                           9        11      1917 TURNER             SYLVANIA                   104       51613               1917
+
+| LEWIS              FRED                             9        25      1917 SHORT              MARY                       102       50870               1944
+
+| LEWIS              ROBERT                          10         8      1917 BOWLING            ANNIE                      124       61598               1917
+
+| LEWIS              JAMES              1            11         3      1917 TUTTLE             MAMA                       6         2801                1918
+
+| LEWIS              EMILY                           11        11      1917 STULL              MARY                       114       56684               1917
+
+| LEWIS              WYNNIE                           1         3      1918 BEGLEY             ATLANTA                    36        17902               1918
+
+| LEWIS              BERTHA                           1         7      1918 MAGGARD            MARTHA                     6         2780                1918
+
+| LEWIS              FRANKIE                          1        12      1918 LYTTLE             FLORA                      168       83775               1942
+
+| LEWIS              CECIL                            1        21      1918 CORNETT            MARY                       77        38369               1918
+
+| LEWIS              COVY                             2        17      1918 BLEVINS            SINDA                      77        38391               1918
+
+| LEWIS              CARL                             3        29      1918 LEWIS              ORPHA                      87        43095               1918
+
+| LEWIS              ENOCH              2             4        22      1918 LEWIS              JONAH                      36        17915               1918
+
+| LEWIS              NOLA               M             5        20      1918 JOHNSON            OLLIE                      87        43099               1918
+
+| LEWIS              MARY                             5        28      1918 WILLIAMS           MAGGIE                     47        23135               1918
+
+| LEWIS              ESTLE                            7        22      1918 CLARK              JANEY                      67        33487               1918
+
+| LEWIS              HERBERT                          8        22      1918 FRANCE             VERGIE                     77        38394               1918
+
+| LEWIS              WALTER                           9        15      1918 COLLINS            OLLIE                      189       91298               1973
+
+| LEWIS              PHRONA                          10         5      1918 TURNER             DOLLY                      97        48072               1918
+
+| LEWIS              WILLIAM            A            11        30      1918 TURNER             MARY                       119       59208               1918
+
+| LEWIS              DENVER             B             1         2      1919 BEGLEY             ADDIE                      195       92177               1982
+
+| LEWIS              LOLA                             1         6      1919 FOSTER             BELL                       16        7716                1919
+
+| LEWIS              LEW                              2         7      1919 SIZEMORE           ZANA                       56        27903               1919
+
+| LEWIS              LILLY                            3         2      1919 TURNER             MARSDIE                    27        13235               1919
+
+| LEWIS              NETTIE                           3        13      1919 LEWIS              ORPHA                      56        27895               1919
+
+| LEWIS              TAYLOR             1             3        18      1919 DAY                MINERVA                    94        46646               1919
+
+| LEWIS              ELSIE                            4         3      1919 HUFF               ALICE                      65        32240               1919
+
+| LEWIS              ROENA                            6        20      1919 NAPIER             MAXY                       83        41317               1919
+
+| LEWIS              ROWENA                           6        20      1919 NAPIER             MARY                       197       92650               1953
+
+| LEWIS              BILLIE                           7        10      1919 HOWARD             SALLIE                     83        41325               1919
+
+| LEWIS              WILSON                           7        15      1919 WELLS              JANE                       65        32246               1919
+
+| LEWIS              JUNE                             8        10      1919 MORGAN             GWEN                       83        41321               1919
+
+| LEWIS              RALEIGH                          8        25      1919 STIDDLAW           MARTHA                     83        41345               1919
+
+| LEWIS              ALBERTA                          9        19      1919 BAKER              DELLY                      94        46654               1919
+
+| LEWIS              THADINE                         10         8      1919 MAGGARD            MALLIE                     117       58143               1919
+
+| LEWIS              OTTIS                           11         7      1919 PENNINGTON         REBECCA                    117       58136               1919
+
+| LEWIS              ZILPHA                          11        29      1919 WELLS              REBECCA                    117       58137               1919
+
+| LEWIS              CARBIN             1            12         1      1919 SHEPHERD           MARY                       117       58139               1919
+
+| LEWIS              SNOWDEN                         12        17      1919 LEWIS              ETHEL                      117       58154               1919
+
+| LEWIS              LEONA                           12        28      1919 SHEPARD            DICY                       188       91126               1997
+
+| LEWIS              EARL                             1         1      1920 BOWLING            HANAH                      63        31315               1920
+
+| LEWIS              DELBERT                          1        30      1920 BEGLEY             PEARL                      134       66954               1941
+
+| LEWIS              ALENBY                           2        15      1920 SHEPHERD           SISY                       41        20402               1920
+
+| LEWIS              RACHEL                           3         1      1920 LEWIS              REBECCA                    41        20405               1920
+
+| LEWIS              MAY                              3         3      1920 JOSEPH             POLLY                      41        20406               1920
+
+| LEWIS              ZILPHA                           3         4      1920 KILBURN            MALINDA                    41        20398               1920
+
+| LEWIS              CLAUDE                           3         6      1920 JOHNSON            OLIVE                      129       64123               1920
+
+| LEWIS              HENRY                            3         9      1920 BLEVINS            LUCINDA                    41        20400               1920
+
+| LEWIS              DELLA                            3        31      1920 ADAMS              MARTHA                     41        20387               1920
+
+| LEWIS              ORVLE                            4        19      1920 LEWIS              SALLIE                     129       64119               1920
+
+| LEWIS              JOE                              5        19      1920 BEVERLEY           ANNIE                      129       64116               1920
+
+| LEWIS              JOHN               M             5        25      1920 KILBOURN           REBECCA                    94        46834               1920
+
+| LEWIS              KIMBER                           6        24      1920 BLEVINS            EMILY                      63        31321               1920
+
+| LEWIS              BETTY                            7         4      1920 JOSEPH             HETTY                      74        36608               1920
+
+| LEWIS              MARY                             7         7      1920 FIELDS             SARAH                      129       64105               1920
+
+| LEWIS              UNICE                            7        14      1920 DAY                NERVY                      74        36595               1920
+
+| LEWIS              MARY                             8        25      1920 TURNER             ELIZA                      94        46835               1920
+
+| LEWIS              BERTHA                           9        18      1920 INGLE              REBECCA                    105       52068               1920
+
+| LEWIS              GID                1             9        18      1920 INGLE              REBECCA                    105       52067               1920
+
+| LEWIS              ALLICE                           9        24      1920 TURNER             MARY                       94        46848               1920
+
+| LEWIS              CORBIN                          11        15      1920 LEWIS              MARTHA                     86        42633               1921
+
+| LEWIS              JAMES                           12         4      1920 MAGGARD            MARTHA                     129       64069               1920
+
+| LEWIS              ROSE               N            12        22      1920 LEWIS              ORPHA                      129       64081               1920
+
+| LOWSON             GORDON             1            10        14      1912 LAWSON             UNKNOWN                    22        10970               1913
+
+| LUCAS              JOHN               1             8         1      1913 COUCH              DORA                       85        42369               1913
+
+| LUSTER             ANNIE                            7         1      1912 LEWIS              REBECCA                    89        35338               1912
+
+| LUSTER             MALINDA                          7         1      1912 LEWIS              REBECCA                    89        35337               1912
+
+| LUSTER             ELISHA                          10        20      1914 MORGAN             REBECCA                    104       51554               1914
+
+| LUSTER             BERRY                            2         4      1917 TAYLOR             AMERICA                    17        8382                1917
+
+| LYTTLE             ELLA                             1        31      1911 CALDWELL           PEGGY                      7         2760                1911

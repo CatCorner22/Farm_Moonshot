@@ -1,0 +1,935 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>Wolfe County, Kentucky | KYGenWeb</title>
+  <!-- Inserted from /assets/includes/inc-temp-header.txt  -->
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<link rel="icon" href="/favicon.ico" sizes="any">
+<!-- NO STYLESHEET -->
+  
+<!-- ======================================================= -->
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-QVLCLVXJW9"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-QVLCLVXJW9');
+</script>
+
+  
+ <!-- End Include -->
+  <meta name="viewport"
+    content="width=device-width, initial-scale=1">
+
+  <style>
+    :root {
+      --kyg-navy: #003451;
+      --kyg-green: #146b4d;
+      --kyg-accent: #b68a4a;
+      --bg-page: #f4f5f8;
+      --bg-card: #ffffff;
+      --border-soft: #d7d8de;
+      --text-main: #1d2630;
+      --text-muted: #555c66;
+      --link-color: #004e7a;
+      --link-hover: #0074a8;
+      --radius: 10px;
+      --shadow-soft: 0 1px 3px rgba(15, 23, 42, 0.12);
+      --font-sans: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      --font-serif: "Georgia", "Times New Roman", serif;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: var(--font-sans);
+      color: var(--text-main);
+      background: var(--bg-page);
+      line-height: 1.5;
+    }
+
+    a {
+      color: var(--link-color);
+      text-decoration: none;
+    }
+
+    a:hover,
+    a:focus {
+      color: var(--link-hover);
+      text-decoration: underline;
+    }
+
+    img {
+      max-width: 100%;
+      height: auto;
+    }
+
+    .county-wrapper {
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 1.5rem 1rem 3rem;
+    }
+
+    /* Header / hero */
+    .county-hero {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 1.5rem;
+      align-items: center;
+      background: linear-gradient(135deg, #e4edf4, #f6f4ef);
+      border-radius: var(--radius);
+      padding: 1.25rem 1.5rem;
+      box-shadow: var(--shadow-soft);
+      margin-bottom: 1.25rem;
+    }
+
+    .county-hero-logo {
+      flex: 0 0 260px;
+      text-align: center;
+    }
+
+    .county-hero-logo img {
+      border-radius: 6px;
+    }
+
+    .county-hero-text {
+      flex: 1 1 260px;
+      min-width: 0;
+    }
+
+    .county-hero-title {
+      font-family: var(--font-serif);
+      font-size: clamp(2rem, 3vw, 2.6rem);
+      color: var(--kyg-green);
+      margin: 0 0 0.25rem;
+    }
+
+    .county-hero-subtitle {
+      font-size: 1.1rem;
+      letter-spacing: 0.03em;
+      text-transform: uppercase;
+      color: var(--text-muted);
+      margin: 0 0 0.75rem;
+    }
+
+    .county-hero-summary {
+      font-size: 0.98rem;
+      color: var(--text-main);
+      max-width: 620px;
+    }
+
+    .county-hero-summary a {
+      white-space: nowrap;
+    }
+
+    /* County nav */
+    .county-nav {
+      margin: 1.25rem 0 1.75rem;
+    }
+
+    .county-nav-inner {
+      background: #dde2ea;
+      border-radius: var(--radius);
+      padding: 0.4rem 0.6rem;
+      box-shadow: var(--shadow-soft);
+    }
+
+    .county-nav-list {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 0.4rem;
+    }
+
+    .county-nav-list li {
+      margin: 0;
+    }
+
+    .county-nav-list a {
+      display: block;
+      padding: 0.45rem 0.9rem;
+      font-size: 0.95rem;
+      font-weight: 600;
+      color: var(--text-main);
+      border-radius: 999px;
+      background: rgba(255, 255, 255, 0.9);
+      border: 1px solid rgba(0, 0, 0, 0.05);
+    }
+
+    .county-nav-list a:hover {
+      background: #ffffff;
+      color: var(--link-hover);
+      text-decoration: none;
+    }
+
+    /* Section shells */
+    .county-section {
+      margin: 1.75rem 0;
+    }
+
+    .county-section h2 {
+      font-size: 1.35rem;
+      margin: 0 0 0.75rem;
+      color: var(--kyg-navy);
+      border-bottom: 2px solid var(--border-soft);
+      padding-bottom: 0.2rem;
+    }
+
+    .county-section h3 {
+      font-size: 1.05rem;
+      margin-top: 0;
+      margin-bottom: 0.35rem;
+      color: var(--kyg-navy);
+    }
+
+    .county-section p {
+      margin: 0.25rem 0;
+      font-size: 0.95rem;
+      color: var(--text-main);
+    }
+
+    .county-section p.small {
+      font-size: 0.9rem;
+      color: var(--text-muted);
+    }
+
+    /* Grids used for the big link blocks */
+    .card-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+      gap: 1rem;
+    }
+
+    .card {
+      background: var(--bg-card);
+      border-radius: var(--radius);
+      padding: 0.85rem 1rem 0.95rem;
+      box-shadow: var(--shadow-soft);
+      border: 1px solid rgba(15, 23, 42, 0.06);
+    }
+
+    .card strong {
+      font-weight: 600;
+    }
+
+    /* County seat feature block */
+    .county-seat {
+      background: var(--bg-card);
+      border-radius: var(--radius);
+      padding: 1.1rem 1.25rem;
+      box-shadow: var(--shadow-soft);
+      border: 1px solid rgba(15, 23, 42, 0.06);
+      margin-top: 1.5rem;
+    }
+
+    .county-seat h2 {
+      border: none;
+      padding-bottom: 0;
+      margin-bottom: 0.5rem;
+    }
+
+    .county-seat-layout {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 1.25rem;
+      align-items: flex-start;
+    }
+
+    .county-seat-media {
+      flex: 0 0 215px;
+      max-width: 260px;
+    }
+
+    .county-seat-text {
+      flex: 1 1 260px;
+      min-width: 0;
+      font-size: 0.95rem;
+    }
+
+    .county-seat-text p {
+      margin-top: 0.25rem;
+    }
+
+    /* Midwives block */
+    .midwives-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+      gap: 1rem;
+      align-items: start;
+    }
+
+    .midwife-photo {
+      text-align: center;
+    }
+
+    .midwife-photo img {
+      border-radius: 8px;
+      box-shadow: var(--shadow-soft);
+    }
+
+    /* Footer area */
+    .county-footer {
+      margin-top: 2.5rem;
+      text-align: center;
+      background: #ffffff;
+      border-radius: var(--radius);
+      padding: 1.5rem 1rem 1.25rem;
+      box-shadow: var(--shadow-soft);
+      border: 1px solid rgba(15, 23, 42, 0.06);
+    }
+
+    .county-footer p {
+      margin: 0.4rem 0;
+      font-size: 0.96rem;
+    }
+
+    .county-footer-logos {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      align-items: center;
+      gap: 1.25rem;
+      margin-top: 0.6rem;
+    }
+
+    .copyright {
+      text-align: center;
+      font-size: 0.85rem;
+      color: var(--text-muted);
+      margin-top: 0.75rem;
+    }
+
+    @media (max-width: 640px) {
+      .county-hero {
+        padding: 1rem 1.1rem;
+      }
+
+      .county-nav-inner {
+        padding-inline: 0.5rem;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <div class="county-wrapper">
+
+    <!-- Hero header -->
+    <header class="county-hero">
+      <div class="county-hero-logo">
+        <img src="images/wolfe.gif"
+          alt="Wolfe County, Kentucky graphic">
+      </div>
+      <div class="county-hero-text">
+        <h1 class="county-hero-title">Wolfe County, Kentucky</h1>
+        <p class="county-hero-subtitle">Genealogy and Local History</p>
+        <p class="county-hero-summary">
+          Wolfe County was formed in 1860, the 110th of Kentucky&apos;s 120 counties. It was created from parts of
+          <a href="/breathitt/">Breathitt</a>,
+          <a href="/owsley/">Owsley</a>,
+          <a href="/powell/">Powell</a>,
+          and
+          <a href="/morgan/">Morgan</a>
+          Counties, and later lost land to
+          <a href="/menifee/">Menifee</a> (1869) and
+          <a href="/lee/">Lee</a> (1870) Counties.
+        </p>
+      </div>
+    </header>
+
+    <!-- Local nav for this county -->
+    <nav class="county-nav">
+      <div class="county-nav-inner">
+        <ul class="county-nav-list">
+          <li><a href="index.htm">Home</a></li>
+          <li><a href="/allky/counties/">KYGenWeb Counties</a></li>
+          <li><a href="/allky/collections/">Special Collections</a></li>
+          <li><a href="wlinks.htm">Wolfe County Links</a></li>
+          <li><a href="disclaimer.htm">Disclaimer</a></li>
+        </ul>
+      </div>
+    </nav>
+
+    <!-- County formation links -->
+    <section class="county-section">
+      <h2>County Formation</h2>
+      <p>
+        Wolfe County was formally created in July 1860. These resources document the legal steps that brought the
+        county into being.
+      </p>
+      <ul>
+        <li>
+          <a href="form.htm"><strong>County Formation</strong></a> Documents the birth of the county.
+        </li>
+        <li>
+          <a href="establish.htm"><strong>An Act to Establish the County of Wolfe</strong></a> Laws of Kentucky,
+          Chapter 1326, July 1860.
+        </li>
+      </ul>
+    </section>
+
+    <!-- County seat feature -->
+    <section class="county-seat">
+      <h2>County Seat Campton, Kentucky</h2>
+      <div class="county-seat-layout">
+        <div class="county-seat-media">
+          <img src="images/Swift-marker.JPG"
+            alt="Historical marker on the lawn of the Wolfe County Courthouse, Campton, Kentucky">
+        </div>
+        <div class="county-seat-text">
+          <p>
+            The town of Campton was first settled in the late 1810s. Most historians regard Nim Wills as the founder
+            of Campton. Wills established the new town on the waters of Swift Camp Creek on the site of a camp believed
+            to have been first used by John Swift and his party of silver prospectors 100 years earlier, for whom the
+            creek was named.
+          </p>
+          <p>
+            At first the town was known as Camp Town after the camp site. The first permanent structure was erected by
+            Fielding Hanks in 1818, who chose the area as his new home after moving from nearby Montgomery County.
+            The town was named the county seat of the new county of Wolfe in 1860 and was formally incorporated ten
+            years later.
+          </p>
+          <p>
+            The first courthouse, constructed of logs, burned in 1886. A second building was destroyed by fire in 1913.
+            The third and present courthouse, constructed in 1917, is one of the most interesting courthouses in
+            Kentucky. A traditional colonial building, it features a relief of a wolf on the gable above the columns
+            on the front.
+          </p>
+          <p>
+            <strong>The first post office</strong> was established as Campton on 16 January 1867, with Frances M. Vaughn
+            as
+            postmaster.
+          </p>
+          <p>
+            <strong>Wolfe County is named for Nathaniel Wolfe</strong> (1810&ndash;1865), representative of Jefferson
+            County in the
+            Kentucky legislature.
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <!-- Wolfe County information: vital records etc -->
+    <section class="county-section">
+      <h2>Wolfe County Information</h2>
+      <div class="card-grid">
+
+        <article class="card">
+          <h3><a href="births.htm">Births</a></h3>
+          <p>Transcribed from the vital statistics film, roll number S000130.</p>
+          <p class="small">Selected surnames, 1861&ndash;1910.</p>
+        </article>
+
+        <article class="card">
+          <h3><a href="wolfebooks.htm">Books for Sale</a></h3>
+          <p>
+            Suggested Wolfe County reference books.
+            <a href="mailto:easternkyroots@gmail.com?subject=ADD WOLFE COUNTY BOOK">Click here</a>
+            if you have a book you would like to add to the list.
+          </p>
+        </article>
+
+        <article class="card">
+          <h3><a href="cem.htm">Cemeteries</a></h3>
+          <p>Wolfe County cemetery transcriptions.</p>
+          <p class="small">Not a complete list, but we are working on it.</p>
+        </article>
+
+        <article class="card">
+          <h3><a href="census1.htm">1920 Census</a></h3>
+          <p>Transcribed by Carole Bays.</p>
+        </article>
+
+        <article class="card">
+          <h3><a href="DeathCerts.htm">Death Certificates</a></h3>
+          <p>This is a new section and needs your submissions to help it grow.</p>
+        </article>
+
+        <article class="card">
+          <h3>Deeds</h3>
+          <p class="small">Selected extractions from early deed books.</p>
+          <p class="small"><strong>Deed Book 1</strong><br>
+            7 June 1875 &ndash; A. J. and Sarah Hollon to J. M. Cockerham:
+            <a href="http://ftp.rootsweb.com/pub/usgenweb/ky/wolfe/deeds/h450-001.txt">Page 334</a>,
+            <a href="http://ftp.rootsweb.com/pub/usgenweb/ky/wolfe/deeds/h450-002.txt">Page 335</a>.
+          </p>
+          <p class="small"><strong>Deed Book 3</strong><br>
+            1877 &ndash; A. J. and Sarah Hollon to James Tyler:
+            <a href="http://ftp.rootsweb.com/pub/usgenweb/ky/wolfe/deeds/h450-003.txt">Page 84</a>.
+          </p>
+        </article>
+
+        <article class="card">
+          <h3><a href="Marriage.htm">Marriages</a></h3>
+          <p>Transcribed from the vital statistics film, roll number S000130.</p>
+          <p class="small">Selected surnames, 1861&ndash;1909.</p>
+        </article>
+
+        <article class="card">
+          <h3><a href="news.htm">Newspapers</a></h3>
+          <p>Items from the <em>Hazel Green Herald</em> and the <em>Wolfe County News</em>.</p>
+        </article>
+
+        <article class="card">
+          <h3><a href="obit.htm">Obituaries</a></h3>
+          <p>Over 1,200 Wolfe County obituaries and growing.</p>
+        </article>
+
+        <article class="card">
+          <h3><a href="wpicINDEX.htm">Pictures</a></h3>
+          <p>More than 300 pages of photographs.</p>
+          <p class="small">
+            Click <a href="wpic217.htm">here</a> if you can help identify some of the people in these pictures.
+          </p>
+        </article>
+
+        <article class="card">
+          <h3><a href="records.htm">Records Availability</a></h3>
+          <p>Listing of existing Wolfe County records and where to find them.</p>
+        </article>
+
+        <article class="card">
+          <h3><a href="reunion.htm">Reunions</a></h3>
+          <p>Having a family reunion? Post it here so others can join you.</p>
+        </article>
+
+        <article class="card">
+          <h3><a href="http://usgwarchives.net/ky/wolfe/wolfe.html">Wolfe County Archives</a></h3>
+          <p>Materials in the KYGenWeb Archives for Wolfe County.</p>
+        </article>
+
+        <article class="card">
+          <h3>
+            <a href="http://www.wolfe.k12.ky.us"
+              target="_blank"
+              rel="noopener">
+              Wolfe County Schools
+            </a>
+          </h3>
+        </article>
+
+      </div>
+    </section>
+
+    <!-- Local historical information -->
+    <section class="county-section">
+      <h2>Local Historical Information</h2>
+      <div class="card-grid">
+
+        <article class="card">
+          <h3><a href="settle.htm">Early Families</a></h3>
+          <p>Listing of early Wolfe County families from <em>The Early and Modern History of Wolfe County</em>.</p>
+        </article>
+
+        <article class="card">
+          <h3><a href="industry.htm">Early Industries</a></h3>
+          <p>The attractions that drew the first settlers to this part of Kentucky.</p>
+        </article>
+
+        <article class="card">
+          <h3><a href="civilwar.htm">Civil War</a></h3>
+          <p>The Civil War and Wolfe County.</p>
+        </article>
+
+        <article class="card">
+          <h3><a href="disaster.htm">Courthouse Disasters</a></h3>
+          <p>Fires and other disasters that have affected county records.</p>
+        </article>
+
+        <article class="card">
+          <h3><a href="honor.htm">Gallery of Honor</a></h3>
+          <p>Dedicated to the veterans of Wolfe County.</p>
+        </article>
+
+        <article class="card">
+          <h3>
+            <a href="http://www.hazelgreenhistory.homestead.com">
+              Hazel Green, Kentucky
+            </a>
+          </h3>
+          <p>Website dedicated to the history of Hazel Green.</p>
+        </article>
+
+        <article class="card">
+          <h3><a href="feature.htm">Murder in 1859</a></h3>
+          <p>Murder during the vote for county formation.</p>
+        </article>
+
+        <article class="card">
+          <h3><a href="postcard.html">Postcard</a></h3>
+          <p>
+            The last piece of mail processed prior to the closing of the Gosneyville Post Office,
+            15 August 1941.
+          </p>
+          <p class="small">
+            Courtesy of <a href="mailto:kodoma@directvinternet.com">Pat Cannady</a>.
+          </p>
+        </article>
+
+        <article class="card">
+          <h3><a href="railroad.htm">Railroads</a></h3>
+          <p>Trains that once roared through the hills of Wolfe County.</p>
+        </article>
+
+        <article class="card">
+          <h3><a href="SpencerAssoc.htm">Spencer Association Primitive Baptists</a></h3>
+          <p>Minutes of the 21st annual session.</p>
+        </article>
+
+        <article class="card">
+          <h3><a href="swift.htm">John Swift&apos;s Silver Mines</a></h3>
+          <p>Dedicated to the late Micheal Paul Henson, a native of Breathitt County.</p>
+        </article>
+
+        <article class="card">
+          <h3><a href="swift2.htm">John Swift&apos;s Lost Silver Mine</a></h3>
+          <p>Written by Jerry McDonald.</p>
+        </article>
+
+        <article class="card">
+          <h3><a href="IOOFanniv1905.htm">Odd Fellows 86th Anniversary &ndash; 1905</a></h3>
+        </article>
+
+        <article class="card">
+          <h3><a href="torrent.htm">Torrent</a></h3>
+          <p>Pictures of Torrent Falls.</p>
+        </article>
+
+      </div>
+    </section>
+
+    <!-- Midwives -->
+    <section class="county-section">
+      <h2>Wolfe County Midwives</h2>
+      <div class="midwives-grid">
+        <div>
+          <h3>In Loving Memory of Wolfe County&apos;s Midwife</h3>
+          <p><a href="midwife.htm"><strong><em>Ellen Higgins Lewis</em></strong></a></p>
+          <p><a href="babdel.html"><strong>Aunt Ellen&apos;s Babies</strong></a></p>
+          <p><a href="ladyst.html"><strong>Stories of a Great Lady</strong></a></p>
+        </div>
+        <div class="midwife-photo">
+          <img src="images/midwife.jpg"
+            alt="Photograph of Ellen Higgins Lewis, Wolfe County midwife">
+        </div>
+      </div>
+
+      <div style="margin-top:1.25rem;">
+        <h3>Wolfe County Midwife Number Two</h3>
+        <p>
+          There was more than one Black midwife in Wolfe County in the 1920s and 1930s. One had the surname Perkins and
+          may have been named Lizzie. She delivered Gene Cisco in Stamper Branch in 1936, next to Lee City. Submitted
+          by Lenzy Cisco, West Virginia.
+        </p>
+        <p>
+          Please email
+          <a href="mailto:easternkyroots@gmail.com">here</a>
+          if you can contribute more information on this midwife.
+        </p>
+      </div>
+    </section>
+
+    <!-- Family histories -->
+    <section class="county-section">
+      <h2>Family Histories</h2>
+      <div class="card-grid">
+
+        <article class="card">
+          <h3>
+            <a href="http://members.tripod.com/~nanny_4/WOLFE.html">
+              Jesse and Nancy E. Dotson Adams Family Home
+            </a>
+          </h3>
+        </article>
+
+        <article class="card">
+          <h3>
+            <a href="http://freepages.genealogy.rootsweb.com/~cwbush/">
+              Bush Family
+            </a>
+          </h3>
+          <p class="small">�My Ancestors� by C. W. Bush.</p>
+        </article>
+
+        <article class="card">
+          <h3>
+            <a href="http://geocities.com/Heartland/Acres/1419/">
+              Bush Family of England, Virginia, Kentucky
+            </a>
+          </h3>
+          <p class="small">Family lines from 1568 to 1997 and beyond.</p>
+        </article>
+
+        <article class="card">
+          <h3><a href="ccable.htm">Casper Cable Story</a></h3>
+          <p class="small">Written by Gary Barker.</p>
+        </article>
+
+        <article class="card">
+          <h3><a href="childers.htm">Daniel Boone Childers</a></h3>
+          <p class="small">
+            Born in Wolfe County on Holly Creek on 11 July 1873.
+            <a href="childers.htm">Read his story.</a>
+          </p>
+        </article>
+
+        <article class="card">
+          <h3><a href="ecombsdc.html">Elizabeth Combs</a></h3>
+          <p class="small">
+            Death certificate courtesy of
+            <a href="mailto:drrose@meginc.com">Debbie Rose</a>.
+          </p>
+        </article>
+
+        <article class="card">
+          <h3><a href="hanks.htm">Hanks Family</a></h3>
+          <p class="small">Written by Scott E. Sallee.</p>
+        </article>
+
+        <article class="card">
+          <h3><a href="hollan_holland.htm">Hollon, Holland, Hollan and Faulkner Index</a></h3>
+          <p class="small">Compiled by Sandra Lake (Newton) Lassen.</p>
+        </article>
+
+        <article class="card">
+          <h3><a href="BowenDavidRoseArticle.htm">Bowen David Rose</a></h3>
+          <p class="small">
+            Courtesy of <a href="mailto:onephat1946@yahoo.com">Troy Rose</a>.
+          </p>
+        </article>
+
+        <article class="card">
+          <h3><a href="NelsonRoseArticle.htm">Nelson Rose</a></h3>
+          <p class="small">
+            Courtesy of <a href="mailto:onephat1946@yahoo.com">Troy Rose</a>.
+          </p>
+        </article>
+
+        <article class="card">
+          <h3><a href="bible.htm">Shackelford Family Bible</a></h3>
+          <p class="small">
+            Courtesy of <a href="mailto:pshobson@hotmail.com">Pat Hobson</a>.
+          </p>
+        </article>
+
+        <article class="card">
+          <h3><a href="taulbee.htm">Taulbee Family</a></h3>
+          <p class="small">Includes links to several obituaries.</p>
+        </article>
+
+        <article class="card">
+          <h3><a href="indenture.htm">Indenture &ndash; Tolson to Hanks</a></h3>
+          <p class="small">
+            Indenture from Thomas and Rebecca Tolson to C. C. Hanks, 22 September 1869.<br>
+            Courtesy of <a href="mailto:JRoenicksr@aol.com">Jim and Rita Tolson Roenic</a>.
+          </p>
+        </article>
+
+        <article class="card">
+          <h3><a href="tyler.htm">Tyler Bible Pages</a></h3>
+          <p class="small">
+            Pages from two Bibles: Reverend William T. Tyler and Deborah A. Johnson, and William&apos;s father,
+            James S. Tyler.
+          </p>
+        </article>
+
+        <article class="card">
+          <h3>
+            <a href="http://ftp.rootsweb.com/put/usgenweb/ky/morgan/bios/vancleve.txt">
+              Van Cleve, Van Cleef, Van Cleave
+            </a>
+          </h3>
+          <p class="small">Surname article first written about 1944.</p>
+        </article>
+
+      </div>
+    </section>
+
+    <!-- Kentucky links -->
+    <section class="county-section">
+      <h2>Kentucky Links</h2>
+      <div class="card-grid">
+
+        <article class="card">
+          <h3>
+            <a href="http://www.rootsweb.com/~kyekg/cemetery.html">
+              East Kentucky Cemeteries
+            </a>
+          </h3>
+        </article>
+
+        <article class="card">
+          <h3>
+            <a href="http://www.rootsweb.com/~kyekg/census.htm">
+              Kentucky Census Links
+            </a>
+          </h3>
+        </article>
+
+        <article class="card">
+          <h3>
+            <a href="/kyfootsteps/">
+              Kentucky Footsteps Project
+            </a>
+          </h3>
+        </article>
+
+        <article class="card">
+          <h3><a href="surname.htm">Surname Registry</a></h3>
+          <p class="small">
+            A place for researchers to connect with one another. Register your surnames and browse the surnames that
+            have already been submitted.
+          </p>
+        </article>
+
+        <article class="card">
+          <h3>
+            <a href="http://www.rootsweb.com/~kyekg/swap.htm">
+              Kentucky Swap Shop
+            </a>
+          </h3>
+          <p class="small">Genealogy material for sale, swap, or trade.</p>
+        </article>
+
+        <article class="card">
+          <h3>
+            <a href="http://www.rootsweb.com/~kyekg/tidbits.htm"
+              target="_blank"
+              rel="noopener">
+              Kentucky Tidbits
+            </a>
+          </h3>
+          <p class="small">Short items of Kentucky history.</p>
+        </article>
+
+      </div>
+    </section>
+
+    <!-- Items of interest -->
+    <section class="county-section">
+      <h2>Items of Interest</h2>
+      <div class="card-grid">
+
+        <article class="card">
+          <h3><a href="glinks.htm">Genealogy Links</a></h3>
+        </article>
+
+        <article class="card">
+          <h3><a href="lookups.htm">Lookup Volunteers</a></h3>
+        </article>
+
+        <article class="card">
+          <h3><a href="scodes.htm">Soundex Codes</a></h3>
+          <p class="small">
+            Includes <a href="srule.htm">Soundex Rules</a>.
+          </p>
+        </article>
+
+      </div>
+    </section>
+
+    <!-- Genealogical databases -->
+    <section class="county-section">
+      <h2>Wolfe County Genealogical Databases</h2>
+      <div class="card-grid">
+
+        <article class="card">
+          <h3>
+            <a
+              href="http://www.raynorshyn.com/megenweb/queryvue.asp?City=&County=Wolfe&State=Ky&Country=US&ReturnTo=www%2Erootsweb%2Ecom%2F%7Ekywolfe%2F&Background=sandston%2Egif">
+              Display Wolfe County Queries
+            </a>
+          </h3>
+        </article>
+
+        <article class="card">
+          <h3>
+            <a
+              href="http://www.raynorshyn.com/megenweb/queryent.asp?City=&County=Wolfe&State=Ky&Country=US&ReturnTo=www%2Erootsweb%2Ecom%2F%7Ekywolfe%2F&Background=sandston%2Egif">
+              Enter a Query for Wolfe County
+            </a>
+          </h3>
+        </article>
+
+        <article class="card">
+          <h3>
+            <a
+              href="http://www.raynorshyn.com/megenweb/rsrcvue.asp?City=&County=Wolfe&State=Ky&Country=US&ReturnTo=www%2Erootsweb%2Ecom%2F%7Ekywolfe%2F&Background=sandston%2Egif">
+              Published Resources and Lookup Volunteers
+            </a>
+          </h3>
+        </article>
+
+        <article class="card">
+          <h3>
+            <a
+              href="http://www.raynorshyn.com/megenweb/surnvue.asp?City=&County=Wolfe&State=Ky&Country=US&ReturnTo=www%2Erootsweb%2Ecom%2F%7Ekywolfe%2F&Background=sandston%2Egif">
+              Wolfe Surname Registry Lookups
+            </a>
+          </h3>
+        </article>
+
+        <article class="card">
+          <h3>
+            <a
+              href="http://www.raynorshyn.com/megenweb/volsinup.asp?City=&County=Wolfe&State=Ky&Country=US&ReturnTo=www%2Erootsweb%2Ecom%2F%7Ekywolfe%2F&Background=sandston%2Egif">
+              Volunteer a Resource or Register a Surname
+            </a>
+          </h3>
+        </article>
+
+        <article class="card">
+          <h3>
+            <a href="archive.htm">
+              KYWOLFE-L Newsletter Archives
+            </a>
+          </h3>
+        </article>
+
+      </div>
+    </section>
+
+    <!-- Footer block with adopt text and logos -->
+    <section class="county-footer">
+      <p>County Coordinator: Jes Arnold&nbsp;
+        <a href="mailto:easternkyroots@gmail.com" style="text-decoration: underline;">easternkyroots@gmail.com</a>
+      </p>
+      <p>State Coordinator: Tricia Aanderud&nbsp;
+        <a href="https://kygenweb.net/contact.html" style="text-decoration: underline;">Contact KYGenWeb</a>
+      </p>
+      <br>
+      <div class="county-footer-logos">
+        <a href="https://www.usgenweb.com">
+          <img src="_borders/usgenweb.gif"
+            width="140"
+            height="140"
+            alt="USGenWeb logo">
+        </a>
+        <a href="index.html">
+          <img src="/assets/artwork/kylogos/kylogoAsm.png"
+            width="250"
+            height="110"
+            alt="KYGenWeb logo">
+        </a>
+      </div>
+    </section>
+
+    <p class="copyright">Copyright 2026, KYGenWeb Team</p>
+
+  </div>
+</body>
+</html>

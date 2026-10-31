@@ -1,0 +1,291 @@
+B081 / pass 81 — Woodruff remaining 1910 + Logan map + Pulaski / Clay KY / Rockcastle — 31 Oct 2026
+Access: transcription / index / catalog. No Van Buren original seen.
+No FS/Ancestry credentials. DAS image.jpg not re-hit. po0066/po0067 not re-downloaded.
+
+== Woodruff remaining 1910 ==
+Catalog posts only ED 130 pp 1/2/5/6 (opened B080). Slugs 1910_page_3/4/7/8 all HTTP 404 355 B (stubs not kept).
+
+== Logan image-map pages ==
+Page413 Information / Page414 Genealogy Links / Page436 Photos / Page458 Cemeteries /
+Page621 Obituaries / Page695 War Links / Page775 Wills / Page849 Marriages.
+Marriages page has **no book links**. Wills = one named Hicks Jacob will.
+Obituaries = named Bean/Franks/McCoy (other families; McCoy ≠ P006).
+Cemeteries = USGW file lists (north/south). 1901twp already boundaries (C1622).
+**No 1901–25 name register** on the map pages.
+
+== Clay births N/S priority files ==
+files=23 data_rows~2648
+MOTHER Dora/Ella/Posa + Newnam/Newman/Stone: 0
+child NEWMAN/NEWNAM: 0
+child STONE: 4
+  1911p-s.htm: child STONE WILLAIM / mother CARLTON ELLINE | ['1911', '09', '08']
+  1912r-s.htm: child STONE JAMES / mother HENSEN BETTIE | ['1912', '11', '30']
+  1921s-t.htm: child STONE MANCEL / mother SAMPLES MAGGIE | ['1921', '10', '17']
+  1923s.htm: child STONE CHILSIE / mother DEATON VICIE | ['1923', '09', '29']
+any mother given Dora/Ella/Posa (other surnames): 72
+  1911l-o.htm: child LAUGHRAN WILLIAM / mother ABNER ELLA | ['1911', '07', '26']
+  1911p-s.htm: child PHILPOT OLLIE / mother JONES DORA | ['1911', '04', '16']
+  1911p-s.htm: child SCOTT MARCUS / mother SAMS DORA | ['1911', '11', '07']
+  1911p-s.htm: child SWAFFORD ROBERT / mother LEWIS ISABELLA | ['1911', '07', '21']
+  1912m-p.htm: child POPE RUSSELL / mother MELLOCK ELLA | ['1912', '09', '26']
+  1912r-s.htm: child RAWLINGS LOLA / mother TOOL STELLA | ['1912', '10', '14']
+  1912r-s.htm: child ROBERTS MABELL / mother HACKER ELLA | ['1912', '08', '19']
+  1912r-s.htm: child SMITH JOB / mother HARDWICK ELLA | ['1912', '04', '15']
+  1914n-r.htm: child PENINGTON DAN / mother PENINGTON DORA | ['1914', '04', '02']
+  1914n-r.htm: child PROFIT CHARLES / mother PHILPOT DORA | ['1914', '02', '18']
+  1914n-r.htm: child ROBERTS PEARL / mother YOUNG DELLA | ['1914', '02', '28']
+  1914n-r.htm: child ROBINSON CHESTER / mother RUG DORA | ['1914', '05', '03']
+  1914s.htm: child SAWYERS CARRIE / mother EVANS DORA | ['1914', '03', '12']
+  1915n-r.htm: child PHILPOT ALABAMA / mother JONES DORA | ['1915', '09', '14']
+  1915n-r.htm: child ROOT NELLIE / mother BROCK DORA | ['1915', '09', '19']
+  1915s-y.htm: child SCOTT ELLIS / mother SAMS DORA | ['1915', '04', '29']
+  1915s-y.htm: child SCOTT ROSA / mother LIPPS ELLA | ['1915', '06', '01']
+  1915s-y.htm: child SHEPHERD LUCY / mother SPURLOCK DORA | ['1915', '02', '06']
+  1915s-y.htm: child SIBERT HALEY / mother HOSKINS ELLA | ['1915', '07', '09']
+  1915s-y.htm: child SIBERT MAHALA / mother HOSKINS ELLADEE | ['1915', '07', '11']
+  1915s-y.htm: child TAYLOR DORTHY / mother MILLS ELLA | ['1915', '08', '15']
+  1915s-y.htm: child WILSON MAYME / mother BAKER ELLA | ['1915', '03', '04']
+  1916k-o.htm: child LAUGHRAN SCOT / mother ABNER ELLA | ['1916', '10', '02']
+  1916k-o.htm: child LEWIS LOLA / mother BOWLES DORA | ['1916', '05', '23']
+  1916k-o.htm: child MINTON ALMA / mother STEWART DORA | ['1916', '07', '06']
+
+== Clay deaths 1911-1920 ==
+death data rows~1606
+NEWMAN/NEWNAM decedents: 0
+STONE decedents: 0
+Dora/Ella/Posa given or surname: 14
+  1911.html: DEPEW, ELLA age=U/1 date=1911/03/08
+  1912.html: BURNS, ELLA age=026 date=1912/11/06
+  1912.html: MILLISON, ELLAN age=U/1 date=1912/11/04
+  1913.html: BENGE, DORAH age=017 date=1913/12/27
+  1914.html: BAKER, STELLA age=016 date=1914/10/23
+  1914.html: SMITH, ELLA age=022 date=1914/04/08
+  1916.html: HENSON, STELLA age=U/1 date=1916/03/19
+  1917.html: BOWLING, ZELLA age=U/1 date=1917/06/19
+  1917.html: LEWIS, LELLA age=001 date=1917/09/24
+  1918.html: ALLEN, DORA age=018 date=1918/11/14
+  1918.html: GIPSON, ELLA age=001 date=1918/07/04
+  1918.html: GOINS, STELLA age=014 date=1918/11/11
+  1918.html: KING, ELLA age=010 date=1918/10/10
+  1918.html: SCOTT, DORA age=024 date=1918/11/05
+Mary + N-adjacent: 1
+  1919.html: SMALLWOOD, MARY age=076 date=1919/07/17
+N surnames sample: NANTZ, NAPIER, NEALEY, NEELEY, NEIL, NICHOLSON, NICKOLS, NOE, NOLAN, NUCKOLS
+
+== Clay marriages ==
+brddf.htm tables=48 years_in_page=['1904', '1905', '1921', '1928']
+  Fugat, Tabitha | McIntosh, Henley | 13 Dec 1815 | 
+brdmn.htm tables=54 years_in_page=['1901', '1916']
+  Nicholson, Tabitha | Allison, Archibald | 09 Aug 1820 | 
+brds.htm tables=107 years_in_page=['1902', '1903', '1907', '1908', '1909', '1915', '1919', '1921', '1922', '1926', '1927']
+  Scalf, Zena | White, Taylor | 28, Oct 1922 | 
+  Smith, Rody | Taylor, Isaac | 17 Aug 1817 | 
+  Stacy, Ibby | McCorteney, Abner | 12 Sep 1813 | 
+  Stacy, Sarah | Spencer, John | 03 Feb 1816 | 
+  Summers, Mary | Stacy, George | 25 Nov 1812 | 
+gmnq.htm tables=41 years_in_page=['1901', '1902', '1903', '1907', '1916', '1929']
+gms.htm tables=110 years_in_page=['1901', '1903', '1904', '1905', '1906', '1907', '1908', '1909', '1912', '1919', '1922', '1928']
+  Sandlin, William | Hardegree, Drucella | 09, Feb 1897 | 
+  Sizemore, Taylor | Collins, Martha | 28, Oct 1901 | 
+  Smith, Gillis | Collins, Ella | 30, Aug 1906 | 
+  Smith, John | Taylor, Elizabeth | 08 Sep 1817 | 
+  Spencer, John | Stacy, Sarah | 03 Feb 1816 | 
+  Stacy, George | Summers, Mary | 25 Nov 1812 | 
+  Stallions, Scott | Gibson, Lucy | 22, July 1887 | Petra Gibson
+  Steele, John | Collins, Stella | 23, May 1931 | 
+
+== Pulaski marriages ==
+marriageb-d.htm rows=344 years=['1900', '1901', '1917', '1933', '1934', '1935', '1936', '1937', '1938', '1939']
+  Delano, Zella | Beck, Lewis | Lewis Beck married Zella Delano, 7/5/1896, Washington Co.; wcmr
+  Dixon, Della | Bishop, Pleas | Pleas Bishop married Della Dixon, 12/20/1899, Hempstead Co.; hcmr
+  Downes, Ozella | Baker, Allan | Licensed 5/15/1937, Sevier Co.; ami33-39
+  Dunkin, Dora | McQuary, Rome | Rome McQuary and Miss Dora Dunkin, at Bethlehem.; ag1/14/17
+  Dunlap, Mozella | Ainsworth, Eddie | Licensed 10/5/1939, Pulaski Co.; ami33-39
+  Duprey, Arabella | Reed, Stephen C. | Stephen C. Reed married Arabella Duprey, 3/2/1853, Hempstead Co.; hcmr
+  Dyer, Rosella | Adams, Charles | Married 3/22/1939 Benton Co.; ami33-39
+marriageb-n.htm rows=358 years=['1900', '1901', '1917', '1933', '1934', '1935', '1936', '1937', '1938', '1939']
+  Nanny, Ella | Baker, Will | Will Baker and Miss Ella Nanny, at Yellville; ag6/23/17
+  Nash, Ardella | Arbery, Henry | Licensed 8/14/1937, Pulaski Co.; ami33-39
+  Newman, Eleanor C. | Biggs, A.J. | Licensed 7/30/1936, Crittenden Co.; ami33-39
+  Newman, Jane | Lewis, A. | A. Lewis married Jane Newman, 3/3/1876, Washington Co.; wcmr
+  Newman, Merry | Anderson, William | Licensed 12/19/1938, Garland Co.; ami33-39
+  Newman, Mildred J. | Black, Gillroy | Licensed 12/27/1936, Crittenden Co.; ami33-39
+  Nolley, Ella | Blankenship, Elijah | Licensed 5/6/1938; Pulaski Co.; ami33-39
+  Norfleet, Margret | Newman, G. | G. Newman and Mrs. Margret Norfleet, near Decatur; ag4/20/15
+  Nowles, Anna | McCain, T.H. | T. H. McCain and Miss Anna Nowles, at El Dorado; ag1/21/17
+  Null, Lea | Stockton, Charles A. | Licensed Pulaski Co. Charles A. Stockton, aged 50, of Little Rock and Mrs. Lea Estella Null, aged 43, of Little Rock; ag10/7/1917
+  Nunley, Dora | Jackson, Andrew | Andrew Jackson, aged 32, married Miss Dora Nunley, aged 21, Pulaski Co. 6/29/1890.; pcm
+  Oliver, Luella | Bairfield, Charley | Licensed 12/22/1934, Arkansas Co.; ami33-39
+marriageb-s.htm rows=1225 years=['1900', '1901', '1917', '1933', '1934', '1935', '1936', '1937', '1938', '1939']
+  Sage, Stella | Adcock, Henry | Licensed 2/9/1935, Miller Co.; ami33-39
+  Sanders, Della | Woodward, John | John Woodward and Mrs. Della Sanders, married at Belleville; ag7/8/1917
+  Schweffenste, Dora | Bieker, Ben | Licensed 12/14/1936, Sebastian Co.; ami33-39
+  Scott, Ella | Speight, James | James Spates and Miss Ella Scott, near Hickory Plains; ag4/18/15
+  Sellers, Cordie | Sellers, Isaac | Searcy, Aug 7 - Isaac Sellers and Miss Cordie Sellars were married here Sunday by Justice W.E. Harlan; ag 8/8/17
+  Sellars, Mildred | Adcock, Ralph | Licensed 3/22/1934, Pike Co.; ami33-39
+  Shannon, Estella | Barrett, Sam | Licensed 7/27/1935, Arkansas Co.; ami33-39
+  Shields, Ella | Jackson, W.N. | W.N. Jackson married Ella Shields, 11/22/1882, Washington Co.; wcmr
+  Shoptaw, Dora | Countz, Charley | Charley Countz and Miss Dora Shoptaw, near Russellville; ag 1/7/17
+  Simmons, Ella | Brake, John | John Brake and Miss Ella Simmons, at Rector; ag5/1/17
+  Simmons, Ella E. | Jones, Thomas L. | Thomas L. Jones married Ella E. Simmons, 1/27/1859, Hempstead Co.; hcmr
+  Sims, Dell | Stone, Emmett | Pine Bluff, March 2 - Mrs. Dell Sims and Emmett Stone were married at the courthouse here this afternoon by the Rev. Homer Jordan; ag3/3/17
+  Sims, Ella | Billings, Fletcher | Licensed 8/20/1938, Crittenden Co.; ami33-39
+  Skumager, Della | Arnold, Ezra | Ezra Arnold married Della Skimager, 4/14/1897, Crawford Co.; ccmr
+  Slade, Dorad B. | Purifoy, L.L. | El Dorado, July 25 - Dr. L.L. Purifoy and Mrs. Dorad Bell Slade were married today by the Rev. J.S. Thomas; ag7/26/17
+  Smith, Dora | Ferrell, George | Married 7/16/1879, Washington Co.; wcmr
+  Smith, Eldora | Adams, Garland A. | Married 2/26/1939, Dallas Co.; ami33-39
+  Smith, Ella | Blackwell, Harvey | Licensed 7/3/1934, Desha Co.; ami33-39
+  Smith, Ella M | Blankenship, Robert C. | Licensed 10/20/1935; Saline Co.; ami33-39
+  Smith, Ella | Cole, Anderson | Anderson Cole married Ella Smith, 7/12/1883, Yell Co.; ycmr
+  Smith, Ella | Gullet, H.W. | H.W. Gullet and Miss Ella Smith were married at Walnut Ridge; ag10/9/1917
+  Smith, Ella | Johnson, J.H. | J.H. Johnson, aged 40, married Miss Ella Smith, aged 36, Pulaski Co. 11/27/1900.; c; pcm; 28/360
+  Smith, Ester | Ackerman, Arthur | Licensed 10/30/1935 Stone Co. ami34-39
+  Smith, Johnella | Adkins, Leo | Licensed 6/20/1934, St. Francis Co.; ami33-39
+  Smith, Marcella | Bray, Harry U. | Licensed in Pulaski Co. Harry U. Bray, aged 24, of Camp Pike and Miss Marcella Smith, aged 21 of Coffeyville, Kan.; ag10/6/1917
+  Smith, Mary | Anderson, Arvil | Licensed 2/3/1934, Stone Co.; ami33-39
+  Smith, Stella | Kelley, John | Paragould, Sept. 28 - John Kelley, a Mexican with the Wortham Carnival Company, exhibiting here this week, was married yesterday to Miss Stella Smith by Justice A.B. Hayes; ag9/29/1917
+  Smith, Tedella | Bledsew, Jordon | Licensed 1/23/1933; Monroe Co.; ami33-39
+  Spence, Ovella | Blair, James H. | Married 9/18/1939, Cleburne Co.; ami33-39
+  Spencer, Della | Anderson, Ed | Licensed 12/29/1939, Mississippi Co.; ami33-39
+  Spencer, Tommie | Blackstone, Clarence | Licensed 10/1/1934, Boone Co.; ami33-39
+  Staggs, Ella M. | Blevins, William E. | Licensed 7/13/1939; Pulaski Co.; ami33-39
+  Stevens, Della M. | Blair, Elmore | Licensed 7/25/1936, Crittenden Co.; ami33-39
+  Stevenson, Della | Daniels, Noden | Noden Daniels married Della Stevenson, 12/14/1899, Yell Co.; ycmr
+  Stevli, Ella | Thomas, Jefferson | Jefferson Thomas, aged 23, married Miss Ella Stevli, aged 18, Pulaski Co. 10/26/1886.; pcm; 10/484
+  Stewart, Ella | Harris, T.J. | T.J. Harris married Ella Stewart, 10/18/1986, Pike Co.; pcmr
+  Stewart, Stella | Drake, Andrew | Andrew Foster Drake married Stella Stewart, 10/10/1895, Hempstead Co.; hcmr
+  Stokes, Ella | Holt, Samuel | Samuel Holt married Ella Stokes, 8/25/1889, Washington Co.; wcmr
+  Stone, Agnes | Adair, Thomas | Licensed 1/16/1937, Ashley Co.; ami33-39
+  Stone, Annie | Lewis, R. | R. Lewis married Mrs. Annie Stone, 11/15/1888, Washington Co.; wcmr
+  Stone, Beatrice | Bighons, Jim | Licensed 12/10/1934, Mississippi Co.; ami33-39
+  Stone, Bell | Knight, William | William Knight married Bell Stone, 10/8/1874, Washington Co.; wcmr
+  Stone, Bettie J. | Ainsworth, Thomas C. | Licensed 12/11/1937, Hot Spring Co.; ami33-39
+  Stone, Billie S. | Adams, William | Licensed 2/4/1938, Craighead Co.; ami33-39
+  Stone, D.E. | Curtis, P.E. | P.E. Curtis married D.E. Ston, 2/20/1853, Hempstead Co.; hcmr
+  Stone, Frances | Hamilton, William | William A. Hamilton and Miss Frances Bernice Stone, at Bentonvile; ag4/15/15
+  Stone, H.C. | George, Lucinda M. | Married 11/26/1867, Hempstead Co.; hcmr
+  Stone, Lelia | Berry, Charles | Charles Berry married Lelia Stone, 7/29/1900, Washington Co.; wcmr
+  Stone, Lorene | Blanchard, Ray | Licensed 3/10/1934, Pike Co.; ami33-39
+  Stone, Myrtie B. | Alley, J.P. | Married 9/4/1939, Crittenden Co.; ami33-39
+  Stone, Jeannie | Davis, Marcellus I | Marcellus I. Davis married Jeannie Stone, 6/23/1870, Yell Co.; ycmr
+  Stone, Joy | Bledsoe, Thomas | Licensed 1/20/1933; Lee Co.; ami33-39
+  Stone , May F. | Askew, George H. | Married 11/16/1898, Washington Co.; wcmr
+  Stone, Nora | Adams, Seth | Licensed 12/16/1937, Crawford Co.; ami33-39
+  Stone, Sale | Kelley, Daniel | Texarkana, March 31 - Miss Sale Stone and Daniel Kelley of the Texas side of town crossed the state line this morning and were married at the Miller county courthouse by the Rev. J.E. Westb
+  Story, Manella O. | Adams, J.L. | Licensed 3/8/1934, Crittenden Co.; ami33-39
+  Stout, Stella | Adamson, Raymond E. | Licensed 1/26/1934, Benton Co.; ami33-39
+  Stovall, Isabella | Anderson, John | John Anderson married Isabella Stovall, 1/29/1893, Washington Co.; wcmr
+  Stuart, Dora | Tucker, George | Married 1/7/1892, Hempstead Co.; hcmr
+  Stuart, Ella | Cooper, Toney | Toney Cooper married Ella Stuart, 12/21/1899, Hempstead Co.; hcmr
+  Stuart, Nancy A. | Bellah, Allen T. | Allen T. Bellah married Nancy A. Stuart, 7/30/1851, Hempstead Co.; hcmr
+  Surratt, Ella | Acree, John | Licensed 7/6/1936, White Co.; ami33-39
+  Sykes, Ella B. | Blakley, Jim W. | Licensed 8/28/1937, Saline Co.; ami33-39
+marriageg-n.htm rows=542 years=['1900', '1901', '1917', '1929', '1934', '1939']
+  Nash, Royston | Cross, Isabella A. | Royston Nash married Isabella A. Cross, 9/27/1865, Hempstead Co.; hcmr
+  Neel, Robert | Williams, Dora | Robert Neel married Mrs. Dora Williams, 5/29/1889, Washington Co.; wcmr
+  Newman, A.H. | Davis, Clem | A.H. Newman married Clem Davis, 4/20/1884, Washington Co.; wcmr
+  Newman, G. | Norfleet, Margret | G. Newman and Mrs. Margret Norfleet, near Decatur; ag4/20/15
+  Newman, J.J. | Lewis, Nanie | J.J. Newman married Nanie Lewis, 12/27/1896, Washington Co.; wcmr
+  Newman, Samuel | Harris, Qiltha | Samuel Newman married Qiltha Harris, 4/29/1898, Washington Co.; wcmr
+  Oliver, Otis | Jones, Ella | Otis Oliver, aged 25, married Miss Ella Jones, aged 20, Pulaski Co. 2/7/1884.; pcm; 8/175
+  Paden, D.H. | Lewis, Stella | D.H. Paden married Stella Lewis, 1/23/1896, Washington Co.; wcmr
+  Parish, Ben | Richmond, Stella | Ben Parish and Miss Stella Richmond, at Dumas; ag6/24/1917
+  Pendleton, Guss | Enis, Nell | Guss Pendleton and Miss Nell Enis, at El Dorado.; ag4/8/17
+  Perry, W.H. | Miller, Ozella | W.H. Perry married Ozella Miller, 9/15/1889, Washington Co.; wcmr
+  Pettit, Austin F. | Turner, Della | Austin F. Pettit married Della Turner, 8/24/1889, Washington Co.; wcmr
+  Phelps, Mart | Blakeney, Della | Mart Phelps and Miss Della Blakeney, at Witherspoon; ag3/10/17
+  Pickett, George C. | Roach, Ella N. | Married 9/20/1878, Yell Co.; ycmr
+  Pipkin, E.M. | Jewell, Ella | E.M. Pipkin, aged 26, married Miss Ella Jewell, aged 22, Pulaski Co. 6/5/1884.; pcm; 8/328
+  Purifoy, L.L. | Slade, Dorad B. | El Dorado, July 25 - Dr. L.L. Purifoy and Mrs. Dorad Bell Slade were married today by the Rev. J.S. Thomas; ag7/26/17
+marriageg-s.htm rows=890 years=['1900', '1901', '1917', '1933', '1934', '1935', '1936', '1937', '1938', '1939']
+  Sales, Frank | McCuin, Tresa | Frank Sales and Miss Tresa McCuin, married at El Dorado.; ag6/9/1917
+  Scott, William | Daniels, Issabella | William Scott married Issabella Daniels, 2/6/1887, Hempstead Co.; hcmr
+  Seay, Gulley | Wayland, Stella | Gulley Seay and Miss Stella Wayland, at Pineville; ag 8/8/17
+  Sellers, Isaac | Sellers, Cordie | Searcy, Aug 7 - Isaac Sellers and Miss Cordie Sellars were married here Sunday by Justice W.E. Harlan; ag 8/8/17
+  Seymour, Jack | Reynolds, Ella | Jack Seymour and Mrs. Ella Reynolds, at Mena; ag2/21/17
+  Shanon, Stanley | Whisnant, Dora | Stanley Shanon and Miss Dora Whisnant, at Mountain Home.; ag2/6/17
+  Simmons, J.M. | Jones, Dora | J.M. Simmons married Dora Jones, 4/23/1888, Washington Co.; wcmr
+  Simmons, Maynard H | Matthews, Nettie Lee | Miss Nettie Lee Matthews and Maynard H Simmons were married Wednesday evening. January 25, at the home of the officiating minister, the Rev. Philip Cone Fletcher of the First M
+  Simpson, Marvin | Rowland, Dollie | Marvin Simpson and Miss Dollie Rowland, near El Dorado; ag5/6/17
+  Slocumb, John R. | Johnson, Ella E. | John R. Slocumb, aged 21, married Miss Ella E. Johnson, aged 18, Pulaski Co. 11/1/1883.; pcm; 7/574
+  Smallwood, E.E. | Jones, Ella B. | E.E. Smallwood married Ella B. Jones, 9/16/1891, Washington Co.; wcmr
+  Smith, Ella | Richie, Laura | Ella Smith and Miss Laura Richie, at Story.; ag4/18/17
+  Smith, H.G. | Lewis, Dora | H.G. SMith married Dora Lewis, 2/10/1897, Hempstead Co.; hcmr
+  Smith, J. Rhodes | Logan, Eldora J. | J. Rhodes Smith married Eldora J. Logan, 10/10/1879, Yell Co.; ycmr
+  Smith, Jerry | Jackson, Isabella | Jerry Smith, aged 27, married Miss Isabella Jackson, aged 23, Pulaski Co. 7/3/1878.; pmc; 3/182
+  Smith, Logan | Alexander, Dora | Logan Smith married Dora Alexander 6/22/1893, Hempstead Co.; hcmr
+  Smith, S.L. | Johnson, Della | S.L. Smith married Della Johnson, 12/4/1898, Washington Co.; wcmr
+  Smith, W.J. | Davis, Ella | W.J. Smith married Ella Davis, 2/2/1893, Washington Co. wcmr
+  Somers, J.B. | Jackson, Ella | J.B. Somers, aged 23, married Miss Ella Jackson, aged 20, Pulaski Co. 6/-/1899.; pcm; 26/319
+  Southward, Ben | Moses, Della | Ben Southward and Miss Della Moses, at Hope; ag7/1/1917
+  Spears, J.T. | Green, Stella E. | J.T. Spears married Stella E. Green, 1/7/1898, Hempstead Co.; hcmr
+  Speight, James | Scott, Ella | James Spates and Miss Ella Scott, near Hickory Plains; ag4/18/15
+  Spotts, Tom | Massey, Della | Tom Spotts and Miss Della Massey, at Powhatan.; ag2/6/17
+  Stafford, John | Bella Jackson | John Stafford married Bella Jackson, 10/15/1891, Hempstead Co.; hcmr
+  Stanfill, Joseph | Blevins, Ella | Joseph Stanfill married Ella Blevins, 10/31/1886, Crawford Co.; ccmr
+  Stener, Alexander | Garrett, Ella | Alexander Stener married Ella Garrett, 12/31/1885, Washington Co.; wcmr
+  Stephens, Harry Dowell | Hooker , Franchella | Newport, Feb. 27 - Miss Frances Hooker and Harry D. Stephens were married tonight at the home of the bride's parents, Mr. and Mrs. William Hooker, by the Rev. Mr. Lyman Whea
+  Stevens, James H. | Knox, Hattie Lee | James H. Stevens and Miss Hattie Lee Knox, at El Dorado.; ag2/4/17
+  Stewart, A.F. | Morris, Ella | A.F. Stewart, aged 39, married Mrs. Ella Morris, aged 35, Pulaski Co. 6/14/1899; c; pcm; 26/309
+  Stewart, D.W. | Hughes, Dora | D.W. Stewart, aged 24, married Miss Dora Hughes, aged 16, Pulaski Co. 1/3/1878; c; pcm; 2/514
+  Stewart, Defshea | McClain, Ozella | Licensed 5/29/1937 Clark Co.; ami33-39
+  Stewart, E.D. | Mitchell, Louella | Licensed 5/15/1937 Pulaski Co.; ami33-39
+  Stewart, S.S. | Johnson, Zella | Licensed 3/27/1936, Clark Co.; ami33-39
+  Stewart, Sammie | Johnson, Zella M. | Licensed 3/17/1937, Clark Co.; ami33-39
+  Stirman, W.H. | Berry, Ella | W.H. Stirman married Ella Berry, 11/14/1888, Yell Co.; ycmr
+  Stockton, Charles A. | Null, Lea | Licensed Pulaski Co. Charles A. Stockton, aged 50, of Little Rock and Mrs. Lea Estella Null, aged 43, of Little Rock; ag10/7/1917
+  Stone, Allen | Wilson, Lucy A. | Allen Stone married Lucy A. Wilson, 10/6/1897, Hempstead Co.; hcmr
+  Stone, Emmett | Sims, Dell | Pine Bluff, March 2 - Mrs. Dell Sims and Emmett Stone were married at the courthouse here this afternoon by the Rev. Homer Jordan; ag3/3/17
+  Stone, H.B. | James, Bettie | H.B. Stone, aged 28, married Miss Bettie James, aged 21, Pulaski Co. 12/15/1881.; pcm; 5/552
+  Stone, H.C. | George, Lucinda M. | Married 11/26/1867, Hempstead Co.; hcmr
+  Stone, H.N. | Boyd, Margaret L. | H.N. Stone married Margaret L. Boyd, 8/12/1887, Washington Co.; wcmr
+  Stone, Henry | Boyd, Beulah | Henry Stone married Beulah Boyd, 8/2/1899, Washington Co.; wcmr
+  Stone, Henry | Jackson, Ann | Henry Stone, aged 25, married Miss Ann Jackson, aged 24, Pulaski Co. 6/12/1870.; c; pcm
+  Stone, James A. | Johnson, Mary | James A. Stone married Mary Jane Johnson, 7/13/1851, Hempstead Co.; hcmr
+  Stone, Joseph R | Brewer, Cyntha | Joseph R. Stone and Miss Cyntha Brewer, at Witts Springs; ag4/4/17
+  Stone, Lewis A. | Lewis, Lucinda E. | Lewis A. Stone married Lucinda E. Lewis, 11/15/1877, Washington Co.; wcmr
+  Stone, Lt. Ellis | Zaring, Grace | Lieutenant Ellis Spruce Stone, U.S.N., and Miss Grace Zaring, a niece of Mrs. C.H. Snedeker, were married in St. George's Episcopal Church, Hempstead, L.I., yesterday by the Rev. C.H. S
+  Stone, Stephen A. | Gilbreath, Pheba A. | Stephen Aaron Stone married Pheba Ann Gilbreath, 1/22/1879, Washington Co.; wcmr
+  Stone, Stephen M. | Allen, Mollie | Stephen M. Stone married Mollie Allen, 12/30/1886, Crawford Co.; ccmr
+  Stone, W.C. | Caldwell, Cyntha A. | W.C. Stone married Cyntha A. Caldwell, 12/27/1871, Hempstead Co.; hcmr
+  Stonesifer, M.B. | Brown, R.E. | M.B. Stonesifer married R.E. Brown, 8/22/1887, Washington Co.; hcmr
+  Strong, Martin | Collins, Bella | Martin Strong married Bella Collins, 11/23/1881, Hempstead Co.; hcmr
+  Stuart, Irvin | Coleman, Anna B. | Irvin Stuart married Anna Bellah Coleman, 5/12/1877, Hempstead Co.; hcmr
+  Stuart, Robert | Cooper, Della | Robert Stuart married Della Cooper, 2/28/1889, Hempstead Co.; hcmr
+
+== Rockcastle births K/O 1911-23 ==
+files=26 rows~3411
+rows with Newman/Newnam: 0
+rows with Stone: 0
+Dora/Ella/Posa AND Newman/Stone same row: 0
+any Dora on row: 26
+  1911k.htm: MINK | DORA |  | na | 1911 | 02 | 15 | LAKES | SUSIE | 207 | 94047
+  1911k.htm: MOORE | SALLIE |  | na | 1911 | 07 | 14 | WOODALL | DORA | 090 | 35648
+  1911o.htm: REYNOLDS | JESSIE |  | na | 1911 | 03 | 19 | MARDIS | DORA | 038 | 14946
+  1911o.htm: RICE | RUBY | S | na | 1911 | 10 | 13 | DICKINSON | DORA | 130 | 51836
+  1912k.htm: MCKINNEY | WILLIAM | R | na | 1912 | 07 | 16 | BLACKBURN | DORA | 001 | 00127
+  1912o.htm: PING | SADIE | L | na | 1912 | 07 | 06 | POWDER | DORA | 108 | 42952
+  1913k.htm: LEFFEW | NELLIE | P | na | 1913 | 05 | 12 | SHAFER | DORA | 057 | 28052
+  1913k.htm: MCKENNEY | MYRTLE |  | na | 1913 | 03 | 23 | HENSLEY | DORA | 034 | 16652
+  1913k.htm: MCKINNEY | RAYMON |  | na | 1913 | 09 | 09 | BLACKBURN | DORA | 099 | 49076
+  1913o.htm: SPOONAMORE | DORA |  | na | 1913 | 11 | 14 | GOBBARD | SARAH | 120 | 59968
+  1913o.htm: THOMAS | RICHARD | W | na | 1913 | 07 | 08 | MOORE | DORA | 076 | 37876
+  1915k.htm: MCKINNEY | ELISA | E | na | 1915 | 05 | 02 | BLACKBURN | DORA | 126 | 62807
+  1916k.htm: MCKINNEY | JESS | E | na | 1916 | 12 | 23 | BLACKBURN | DORA | 032 | 15729
+  1916o.htm: RICE | HELLEN | V | na | 1916 | 12 | 30 | DICKERSON | DORA | 128 | 63766
+  1916o.htm: THOMAS | SARAH | B | na | 1916 | 09 | 19 | MOORE | DORA | 096 | 47857
+  1917k.htm: KINDRICK | DORA | J | na | 1917 | 12 | 16 | HAIL | ALICE | 126 | 62989
+  1917o.htm: SPIVEY | EDNA | E | na | 1917 | 11 | 18 | JONES | DORA | 116 | 57953
+  1917o.htm: STJOHN | EASTER | M | na | 1917 | 06 | 12 | EVERSOLE | DORA | 065 | 32459
+  1918k.htm: MCKINNEY | STELLA | V | na | 1918 | 10 | 21 | BLACKBURN | DORA | 173 | 86025
+  1918k.htm: NICLEY | DORA | E | na | 1918 | 11 | 18 | CROMER | PEARL | 191 | 91642
+  1919o.htm: RENNER | JEROME |  | na | 1919 | 06 | 19 | CROMER | DORANNE | 086 | 42644
+  1920o.htm: RENNER | FANNIE | M | na | 1920 | 04 | 28 | CROMER | DORA | 182 | 90230
+  1921o.htm: PIKE | JESSE | T | na | 1921 | 06 | 07 | MULLINS | DORA | 066 | 32818
+  1922o.htm: RENNER | JACOB | H | na | 1922 | 02 | 07 | CROMER | DORA | 021 | 10195
+  1923o.htm: REYNOLDS | SAMUEL | F | na | 1923 | 06 | 07 | MARDIS | DORA | 102 | 50588
+  1923o.htm: RICE | HERSHEL | B | na | 1923 | 09 | 05 | DICKERSON | DORA | 102 | 50573
+
+== Rockcastle more.htm ==
+years: ['1850', '1853', '1855', '1858', '1859', '1860', '1874', '1875', '1876', '1877', '1878', '1879', '1880', '1881', '1883', '1885', '1886', '1890', '1893', '1898', '1899', '1900', '1902', '1903', '1904', '1907', '1908', '1909', '1911', '1913', '1927']
+no newman/stone/dora string

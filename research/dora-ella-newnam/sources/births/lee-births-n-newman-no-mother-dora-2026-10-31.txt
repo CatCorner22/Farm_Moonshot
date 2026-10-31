@@ -1,0 +1,38 @@
+Lee County KY ALHN Birth Index — N
+https://usgennet.org/usa/ky/county/lee/births/birthsn.html
+HTTP 200, 108989 bytes, 31 Oct 2026. Index/transcription only.
+
+Columns: child's last, first, middle, mother's last, mother's first, month, day, year.
+
+NEWMAN / NEWNAM rows on the letter-N page (all mothers). None is Dora / Ella:
+  NEWMAN ARKIE       CONNETT Lucy        4/10/1913
+  NEWMAN BEULAH M    MAYS Nettie         7/5/1919
+  NEWMAN BOYD 1      BRANDENBURG Ollie   2/11/1914
+  NEWMAN CHARLIE 2   ROSS Eva            5/27/1916
+  NEWMAN CLAUD       SPARKS Nancy        9/10/1918
+  NEWMAN CLEVELAND   REECE Pauline       4/22/1918
+  NEWMAN GRACE       BURGY Martha        6/21/1912
+  NEWMAN GRANT 2     BRANDENBURG Martha  5/29/1915
+  NEWMAN LADONNA     BRANDENBURG Grace   11/19/1915   (FAN of C297; not P001)
+  NEWMAN MALCOM 1    BEGLEY Mandy        4/10/1918
+  NEWMAN NELLIE M    ROSS Eva            7/6/1917
+  NEWMAN PROVIE      REECE Paulina       11/13/1916
+  NEWMAN RICHARD 1   NEWTON Juliza       8/20/1916
+  NEWMAN ROBERT      REECE Paulina       8/4/1920
+  NEWMAN ROBERT      MAYS Nettie         10/10/1911
+  NEWMAN ROXIE       BEGLEY Mandy        12/14/1914
+  NEWMAN RUBY        NEWTON Juda         4/18/1919
+  NEWMAN VICTORIA    BRANDENBURG Martha  3/15/1913
+  NEWMAN VIRGIL      COMBS Emma          10/25/1912
+  NEWMAN VIRGINIA B  BRANDENBURG Martha  2/14/1919
+  NEWMAN WALTER      CORNETT Lucie       4/23/1915
+  NEWNAM DONLEY      BRANDENBURG Martha  4/22/1920
+  NEWNAM ELOISE      PLUMMER Cora        2/5/1920
+  NEWNAM OVAN        BRANDENBURG Martha  5/16/1916
+  NEWNAM SARAH E     PLUMMER Cora        2/5/1920
+  NEWNAM VIRGIE B    ROSS Eva            11/17/1920
+
+Also on N: NAPIER ALICE mother JACKSON Zettie 12/9/1916 — not Pearl, not Dora.
+
+No child on this letter with mother Dora / Ella / Dora E. Newnam/Newman/Stone.
+Does not place P001 in 1911–16. Does not prove she had no child elsewhere.

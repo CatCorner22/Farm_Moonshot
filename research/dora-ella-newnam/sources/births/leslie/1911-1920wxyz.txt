@@ -1,0 +1,711 @@
+Leslie County Births from 1911-1920
+Each listing includes childs names, date of birth, mothers name,
+volume number, volume year and certificate number.
+
+
+| WAGERS             SADIA                            3        12      1912 BRAY               ALABAM                     34        13599               1912
+
+| WAGERS             ELIHA                            5        10      1914 BRAY               TAMMY                      50        24962               1914
+
+| WAGES              WILSON                           7         3      1913 COUCH              HALA                       22        10758               1914
+
+| WAGES              ADAM                             7        22      1915 BRAY               ALAHAM                     72        35909               1915
+
+| WALKER             LENA               M             9        17      1912 TURNER             POLLY                      136       54296               1912
+
+| WALKER             JAMES              L            10        13      1912 PENNINGTON         CHARLENA                   126       62576               1943
+
+| WALKER             JESSE                            8        14      1913 WALKER             SISSIE                     122       60922               1913
+
+| WALKER             EMILY                            4        29      1914 PENNINGTON         CHARLENA                   85        42293               1914
+
+| WALKER             MARTHA             W             4        22      1915 TUNEY              SALLIE                     43        21203               1915
+
+| WALKER             JAMES                            7        29      1915 SALYERS            MOLLIE                     100       49619               1915
+
+| WALKER             FAE                             11         7      1915 WALKER             SIS                        124       61819               1915
+
+| WALKER             EVA                              2        16      1916 PENNINGTON         CHARLOTIE                  68        33532               1916
+
+| WALKER             HENRY                            9         5      1916 TURNER             POLLY                      124       61872               1916
+
+| WALKER             LILLIE             W            10        16      1917 GIPSON             SYLVANIA                   124       61610               1917
+
+| WALKER             BILL                             9        12      1918 WALKER             SISSIE                     119       59176               1918
+
+| WALKER             ALICE                            1         9      1919 GIBSON             SYLVANIA                   56        27899               1919
+
+| WALKER             ALFORD                           4        22      1919 PENLTON            CHARLSENER                 56        27910               1919
+
+| WAMBLES            LILLY                            3        21      1914 COUCH              CINDA                      109       54282               1914
+
+| WAMBLO             HENRY                            9        19      1911 CAEROL             LUCINDA                    113       45138               1911
+
+| WARD               EVARY                            1        27      1912 CALDWELL           JANE                       14        5537                1912
+
+| WARD               LEWIS                            7        17      1912 WILSON             JONAH                      203       92872               1948
+
+| WARD               JEFFERY            R             5        28      1914 CALDWELL           JANE                       2         514                 1915
+
+| WARD               HELEN                            5         4      1915 WILSON             JANAH                      49        24445               1915
+
+| WARD               VERLAN             H             5        15      1916 HOWARD             CLERA                      57        28356               1916
+
+| WASHBAN            JOHN                             7        15      1918 HACKER             PLORY                      67        33486               1918
+
+| WATKINS            EVA                R             7         6      1911 HOWARD             REBECCA                    186       90845               1972
+
+| WATSON             SALLIE                           8        25      1912 WATSON             SALLIE                     103       40802               1912
+
+| WEAVER             SILLER                           1        18      1916 LECHINGTON         MALLIE                     8         3597                1916
+
+| WEBB               KIM                              3        25      1912 WILSON             SARA                       34        13591               1912
+
+| WEBB               SARAH              A             3        18      1915 PROFIT             LINA                       43        21223               1915
+
+| WELLS              DANEL                            4         4      1911 FIELS              DORA                       48        19026               1911
+
+| WELLS              ROY                              5        22      1912 WILLIAMS           DENEY                      62        24528               1912
+
+| WELLS              LENARD                           7         1      1912 SPARKMAN           JANE                       89        35333               1912
+
+| WELLS              PATTY                            9         1      1912 WILLIAMS           MARTHA                     117       46458               1912
+
+| WELLS              TROGY                            3        14      1914 WILLIAMS           JINA                       35        17353               1914
+
+| WELLS              SADIE                            6         7      1914 FIELDS             DORA                       109       54295               1914
+
+| WELLS              LILIE                           11        24      1914 LEWIS              SALIE                      124       61842               1915
+
+| WELLS              LAWRENCE                        11        17      1915 GUFFEY             LAURA                      124       61843               1915
+
+| WELLS              CARL                             2        16      1916 LEWIS              MALINDA                    19        9043                1916
+
+| WELLS              PEARLIE                          4        24      1917 GRIFFITS           LAURA                      52        25611               1917
+
+| WELLS              ZILPHA                           9        13      1917 DAY                POLLY                      93        46495               1917
+
+| WELLS              HURSCHEL                         5        15      1918 FIELDS             DORA                       47        23145               1918
+
+| WELLS              POLLY              J             6        11      1918 WILLIAMS           VINA                       57        28335               1918
+
+| WELLS              JENNY                            8        16      1918 VANOVER            ANNA                       87        43122               1918
+
+| WELLS              MELDA              J             8        29      1918 VANOVER            ANNA                       107       53367               1918
+
+| WELLS              MELVIN                          12         9      1918 FIELDS             MARGARETTE                 117       58168               1919
+
+| WELLS              MAY                             10        11      1919 ENGLE              MARTHA                     94        46672               1919
+
+| WELLS              ELIZABETH                       10        15      1919 COLINS             LUIZA                      94        46673               1919
+
+| WELLS              GRACE                           12         8      1919 WILSON             IDA                        117       58165               1919
+
+| WELLS              ETHEL                            1         8      1920 BAILEY             MANDA                      129       64067               1920
+
+| WELLS              JOHNEY                           3        11      1920 DAY                POLLY                      41        20410               1920
+
+| WELLS              GEORGIA                          4        30      1920 VANOVER            ANNIE                      41        20393               1920
+
+| WELLS              VERSA                            6        29      1920 GRIFFITS           LAURA                      74        36596               1920
+
+| WELLS              WILLIAM                          7         5      1920 SPARKMAN           MARY                       74        36593               1920
+
+| WELS               FELIX              2             3        28      1916 JOSEPH             MARTHA                     30        14960               1916
+
+| WEST               HUGH                            10         8      1912 WEST               SERENA                     131       52134               1912
+
+| WEST               EFFIE                            5        13      1915 COUCH              GEORGE                     199       92790               1974
+
+| WEST               EMMA                             2         6      1916 PARKER             SURENA                     23        11437               1916
+
+| WEST               YANCEY                           1         3      1918 PARKER             GUNONA                     6         2793                1918
+
+| WEST               CARL               C             9        28      1918 COUCH              GEORGE                     87        43123               1918
+
+| WHIHEAD            POLLY                            9         1      1920 BROCK              MAHALA                     94        46843               1920
+
+| WHIT               ODELL                           11        27      1911 THOMAS             MARTHA                     146       58083               1911
+
+| WHITEHEAD          FRANKIE                         10        16      1911 GRIFITT            KATHIERNE                  127       50590               1911
+
+| WHITEHEAD          JAMES                           11         1      1911 HALL               LILLIE                     139       55513               1911
+
+| WHITEHEAD          LEVI               2             6        13      1912 WHITEHEAD          MAHALA                     82        32438               1912
+
+| WHITEHEAD          LUCIENA                          1        14      1914 HALL               LILLIE                     8         3688                1914
+
+| WHITEHEAD          FICHA                            6         2      1914 ROARK              ABGILL                     2         516                 1915
+
+| WHITEHEAD          NOAH                             2        15      1915 GRIFFETTO          CATHERINE                  17        8437                1915
+
+| WHITEHEAD          FRED                             3        20      1915 GRIFFETTS          CATHERINE                  43        21213               1915
+
+| WHITEHEAD          NETTIE                           4         9      1915 BROCK              MAHALA                     43        21214               1915
+
+| WHITEHEAD          MARTHA             J             3         9      1916 COLWELL            REBECCA                    30        14970               1916
+
+| WHITEHEAD          NEAH                             4        15      1916 GRIFFITHS          CATHERINE                  185       92198               1943
+
+| WHITEHEAD          JOE                              5        26      1916 DAY                LUCY                       57        28365               1916
+
+| WHITEHEAD          JOHN               1             3         4      1917 ROARK              ABIGAIL                    29        14008               1917
+
+| WHITEHEAD          MAY                              6        21      1917 BROCK              MAHALA                     63        31016               1917
+
+| WHITEHEAD          LUCY                            12         2      1917 GRIFFETTS          CATHERN                    124       61613               1917
+
+| WHITEHEAD          LUTHER                          12         2      1917 GRIFFITH           CATHERINE                  124       61614               1917
+
+| WHITEHEAD          CHESTER                          5        20      1918 GRIFFITH           KATHERINE                  185       92199               1943
+
+| WHITEHEAD          ADDIE                            6        12      1918 CALWELL            REBECCA                    57        28337               1918
+
+| WHITEHEAD          JOHN               R             1        15      1919 TUNNER             CASY                       6         2947                1919
+
+| WHITEHEAD          BASCUM                           5         6      1919 DAY                LULA                       65        32234               1919
+
+| WHITEHEAD          DAY                              4        11      1920 WHITEHEAD          GENITI                     119       59173               1921
+
+| WHITEHEAD          ROXIE                            6        12      1920 SULLIVAN           ORLENA                     63        31347               1920
+
+| WHITEHEAD          FANNIE                           9        17      1920 WHITEHEAD          CATHERINE                  86        42652               1921
+
+| WILBURN            REX                              4        14      1917 STANDFORD          MARY                       52        25617               1917
+
+| WILBURN            VIRGINIA                        10        15      1919 SIZEMORE           ORLISE                     94        46642               1919
+
+| WILDER             CARR                             1        24      1914 COUCH              ANN                        8         3677                1914
+
+| WILDER             LUCY                             2        10      1914 BOWLING            MAGGIE                     192       91912               1953
+
+| WILDER             RUFUS                           10        21      1916 COUCH              ANN                        122       61000               1941
+
+| WILDER             GEORGE                           2        26      1917 WILDER             MAGGIE                     191       91637               1975
+
+| WILLIAMS           MYRTLE                           7        27      1914 HARRIS             SUSAN                      109       54307               1914
+
+| WILLIAMS           MAE                              8         6      1914 DAY                POLLIE                     203       93434               1977
+
+| WILLIAMS           ELA                J             8        18      1914 TURNER             NAN                        109       54312               1914
+
+| WILLIAMS           DENVER                          12        27      1914 HARRIS             BETY                       12        5518                1915
+
+| WILLIAMS           DANIEL                           3        28      1915 MELTON             BARBARA                    88        43814               1915
+
+| WILLIAMS           BETTIE             A             5         8      1915 BROWNING           BARBARY                    49        24454               1915
+
+| WILLIAMS           NOAH                             5        21      1915 NAPIER             FANNY                      99        49023               1942
+
+| WILLIAMS           NANCY                            2        13      1916 BAKER              MANDY                      19        9044                1916
+
+| WILLIAMS           ROBERT                           2        13      1916 LEWIS              ELVIA                      19        9047                1916
+
+| WILLIAMS           NANCY              J             2        22      1916 INGLE              DELILA                     19        9048                1916
+
+| WILLIAMS           ORLIE                            3         2      1916 MORGAN             ELLEN                      30        14975               1916
+
+| WILLIAMS           LESTER                           3        19      1916 CODA               ARTHA                      30        14976               1916
+
+| WILLIAMS           CARR                             6         9      1916 FELTNER            LUCINDA                    63        31240               1916
+
+| WILLIAMS           CLARA                            8        14      1916 LEWIS              RUTHIE                     88        43844               1916
+
+| WILLIAMS           CLAUDE                           8        14      1916 WILLIAMS           DARKES                     29        14137               1943
+
+| WILLIAMS           CLOYD                            8        14      1916 WILLIAMS           DARCAS                     109       54041               1916
+
+| WILLIAMS           MELDIA             J            10        14      1916 BROWNING           BARBRA                     40        19884               1917
+
+| WILLIAMS           CHESTER            A             3        11      1917 STIDHAM            MAGIE                      52        25576               1917
+
+| WILLIAMS           OSCAR                            3        18      1917 MELTON             BARBARA                    40        19861               1917
+
+| WILLIAMS           LOGAN                            3        21      1917 SHORT              LOUISA                     29        14004               1917
+
+| WILLIAMS           SANFORD                          3        30      1917 HOSKINS            LUCY                       52        25607               1917
+
+| WILLIAMS           WILSON                           4        23      1917 WILLIAMS           LUISA                      52        25608               1917
+
+| WILLIAMS           HURSHELL                         7        29      1917 PENNINGTON         MAGGIE                     73        36141               1917
+
+| WILLIAMS           JOANNA                          12        11      1917 HARRIS             SUSAN                      203       93309               1975
+
+| WILLIAMS           IRA                              3        20      1918 BROWNING           BARBARY                    36        17925               1918
+
+| WILLIAMS           MONROE                           3        23      1918 MELTON             BARBARY                    36        17927               1918
+
+| WILLIAMS           ENOCH                            4        19      1918 ENGLE              LILA                       36        17930               1918
+
+| WILLIAMS           NANCY              J             4        22      1918 WILLIAMS           MARTHA                     36        17900               1918
+
+| WILLIAMS           POLLY                            7         2      1918 HUFF               SILLER                     67        33489               1918
+
+| WILLIAMS           DELTA                            6        11      1919 YATES              SALLY                      65        32231               1919
+
+| WILLIAMS           NANCY              J             9        18      1919 WILLIAMS           SISIE                      94        46661               1919
+
+| WILLIAMS           DAVE                            10        25      1919 BROWNING           BARBARY                    94        46666               1919
+
+| WILLIAMS           RACHEL                          11        12      1919 WILLIAMS           DARCUS                     7         3157                1920
+
+| WILLIAMS           WILLIAM                         12        15      1919 JONES              FANNY                      117       58167               1919
+
+| WILLIAMS           GILES                           12        29      1919 PENNINGTON         MAGGIE                     117       58132               1919
+
+| WILLIAMS           MEISHA                           1        17      1920 STIDHAM            MAGGIE                     63        31351               1920
+
+| WILLIAMS           LILLY                            3         9      1920 HARRIS             MAUDIE                     41        20394               1920
+
+| WILLIAMS           RAY                              4         6      1920 ADAMS              MARY                       41        20396               1920
+
+| WILLIAMS           BERTHA                           7         4      1920 LEWIS              LIENINA                    94        46828               1920
+
+| WILLIAMS           ETHEL                           11         1      1920 BLEVINS            MARY                       182       90163               1963
+
+| WILLIAMS           ALFORD                           1        27      1911 WILLIAMS           BARBARA                    13        4842                1911
+
+| WILLIAMS           ARNOLD                           2         4      1911 BAKER              MANDA                      20        7746                1911
+
+| WILLIAMS           EVEY                             6         7      1911 HASKIN             LUCY                       74        29299               1911
+
+| WILLIAMS           POLLY                            2        25      1912 INGLE              LILLIE                     27        10756               1912
+
+| WILLIAMS           CAD                              3         8      1912 LEWIS              GUISA                      34        13596               1912
+
+| WILLIAMS           SAYLOR                           3         8      1912 LEWIS              LOUISE                     185       92209               1943
+
+| WILLIAMS           ARNOLD                           5         7      1912 PENNINGTON         RHODA                      62        24521               1912
+
+| WILLIAMS           GILLAS                           5         7      1912 LEWIS              RUTHY                      62        24522               1912
+
+| WILLIAMS           HUBERT                           5        18      1912 PENNINGTON         SALLY                      62        24525               1912
+
+| WILLIAMS           A                  2            10         1      1912 HOSKINS            LUCY                       131       52126               1912
+
+| WILLIAMS           ALICE                           10        10      1912 MADDEN             SARAH                      131       52128               1912
+
+| WILLIAMS           BUD                1            10        23      1912 SHORT              LOUISA                     131       52129               1912
+
+| WILLIAMS           JOHN               B            12         8      1912 ANTLE              BARBARY                    158       63103               1912
+
+| WILLIAMS           POLLIE                           5        15      1913 BAKER              MANDY                      68        33686               1913
+
+| WILLIAMS           GRACE                            7        29      1913 LEWIS              RUTHA                      190       91429               1959
+
+| WILLIAMS           THEO                            11        13      1913 MADDEN             SALLIE                     191       91540               1971
+
+| WILLIAMS           HALEY                            1        26      1914 BROWNING           BARBERY                    8         3695                1914
+
+| WILLIAMS           JOE                              6        15      1914 ENGLE              DELLIA                     109       54299               1914
+
+| WILLIAMS           DORA                             6        24      1914 SHEPHERD           SARRAH                     109       54303               1914
+
+| WILLIAMS           FRANKIE            M            12         2      1920 SHORT              LOUISA                     129       64112               1920
+
+| WILLIAMSS          ARCHIE                          10        27      1920 ENGLE              LILA                       116       57955               1920
+
+| WILSON             JACOB              2             2         6      1911 DUFF               CHLVE                      20        7745                1911
+
+| WILSON             GEORGE             1             7         6      1911 BRADLEY            MARY                       87        34489               1911
+
+| WILSON             IRA                              7         6      1911 WILSON             MARY                       191       91538               1971
+
+| WILSON             IVA                              7         6      1911 BRADLEY            MARY                       1         94                  1912
+
+| WILSON             NANCY                            2        12      1912 WILSON             DALLY                      21        8389                1912
+
+| WILSON             VIRGIL                           3        12      1912 BROCK              SUSIE                      34        13588               1912
+
+| WILSON             CHESTER                          3        23      1912 WILSON             LIDA                       34        13590               1912
+
+| WILSON             WOODROW                         11         5      1912 GREEN              DONNY                      23        11005               1913
+
+| WILSON             ORA                              2         8      1913 MOSLEY             ROSA                       199       92809               1969
+
+| WILSON             VIOLA                            9         6      1913 BELCHER            MINNIE                     168       83777               1942
+
+| WILSON             MARTHA             J            12        17      1913 SIZEMORE           OLLIE                      131       65048               1913
+
+| WILSON             FRED                             3         8      1914 BROOKS             SUSIE                      2         506                 1915
+
+| WILSON             JOE                              4        21      1914 SLUSHER            POLLIE                     2         510                 1915
+
+| WILSON             THELIMAL                        12        27      1914 GREEN              DANA                       66        32864               1915
+
+| WILSON             BURT                             1        16      1915 SAMUELS            MOSSIE                     66        32865               1915
+
+| WILSON             BERT                             1        25      1915 SAMS               MASSIE                     22        10686               1915
+
+| WILSON             LORA                             1        28      1915 COLLETT            MILLIE                     22        10687               1915
+
+| WILSON             OSCAR                            2         4      1915 DUFF               CHLOE                      22        10688               1915
+
+| WILSON             ASHER                            2         8      1915 DWIFT              AHLOE                      66        32867               1915
+
+| WILSON             THELMA                           2        16      1915 WILDER             DONA                       22        10690               1915
+
+| WILSON             FRED                             3         7      1915 BROCK              SUSIE                      28        13750               1915
+
+| WILSON             MERLIE                           9        10      1915 CALDWELL           ALLIE                      220       96941               1952
+
+| WILSON             ELLEN                           12        17      1915 HOWARD             FLORA                      133       66021               1915
+
+| WILSON             ELMER                            8         8      1916 GREEN              DONA                       83        41378               1916
+
+| WILSON             BETTIE             L             9        27      1916 GROSS              MARY                       29        14103               1943
+
+| WILSON             OLVIE                           12         3      1916 SLUSHER            NANCY                      124       61908               1916
+
+| WILSON             PEARL                           12        18      1916 MOSLEY             ROSA                       124       61893               1916
+
+| WILSON             OLA                L             5        28      1917 HOSKINS            MANERVA                    52        25615               1917
+
+| WILSON             MILLIE             J             6        21      1917 SIZEMORE           OLLIE                      63        31019               1917
+
+| WILSON             CALVERT                          6        29      1917 DUFF               CHLOE                      17        8380                1917
+
+| WILSON             THOMAS             M             7         3      1917 BROCK              SUSIE                      73        36137               1917
+
+| WILSON             FLOYD                            4         1      1918 SLUSHER            POLLY                      36        17923               1918
+
+| WILSON             BESSIE                           7        10      1918 MAGGARD            DELA                       77        38403               1918
+
+| WILSON             ALISIA                           1         1      1919 GREEN              DONA                       6         2954                1919
+
+| WILSON             DOROTHY                          1        22      1919 HOWARD             FLARA                      6         2951                1919
+
+| WILSON             SARAH                            3        21      1919 DUFF               CHLOE                      80        39964               1942
+
+| WILSON             BERTHA                           3        22      1919 DUFF               CHLOE                      27        13244               1919
+
+| WILSON             SUSIE                            5        20      1919 MOSLEY             ROSA                       47        23131               1919
+
+| WILSON             SARAH              E            12        14      1919 COLLETT            MILLIE                     86        42549               1935
+
+| WILSON             ORVILLE                         11        16      1920 HOWARD             FLORA                      129       64099               1920
+
+| WILSON             CLYDE                           11        19      1920 MAGGORD            DELSEY                     116       57941               1920
+
+| WILSON             ELLEN                           12         9      1920 GREEN              DONIE                      17        8308                1921
+
+| WINER              EDWARD             T            10         6      1920 CAUSEY             MARY                       129       64076               1920
+
+| WITT               GOLDIE             P             3        29      1911 PENNINGTON         EMILY                      187       91008               1962
+
+| WITT               GEORGE                           8         3      1911 BROWNING           SARAH                      12        5614                1943
+
+| WITT               WILLIAM            1            11        27      1911 THOMAS             MARTHA                     146       58084               1911
+
+| WITT               JOHN               1             7        16      1912 WATERS             MILDA                      95        37788               1912
+
+| WITT               THOMAS             2             7        29      1912 CORNETT            POLLY                      95        37789               1912
+
+| WITT               DAISY                           11         4      1912 CORNITT            LARRY                      145       57683               1912
+
+| WITT               ROY                              1        14      1913 WITT               DILIA                      8         3680                1913
+
+| WITT               OMA                             11         1      1913 WITHONAS           MARTHA                     118       58921               1913
+
+| WITT               CLAUDE             L             3        27      1914 WOOTON             MILDA                      30        14539               1914
+
+| WITT               ALVA                             9        22      1915 CORNETT            POLLEY                     94        46999               1915
+
+| WITT               THOMAS                           1         2      1916 WOOTON             MILDA                      12        5959                1916
+
+| WITT               LEE                              4        27      1916 PENNINGTON         EMLY                       47        23101               1916
+
+| WITT               THEE                             5        14      1916 THOMAS             MARTHA                     53        26024               1916
+
+| WITT               DENFORT                         10        23      1916 CORNETT            LAURA                      124       61889               1916
+
+| WITT               MELDA                            6         3      1917 DERINGTON          DOLLY                      63        31024               1917
+
+| WITT               MARTHA                           7        29      1917 PENNINGTON         DELLIAH                    186       90867               1978
+
+| WITT               RUTH               HELEN        11         3      1917 CORNETT            POLLY                      192       91692               1978
+
+| WITT               ELMER                            2        23      1918 THOMAS             MARTHA                     26        12538               1918
+
+| WITT               CHARLES            A             1        29      1919 WOOTON             MILDE                      16        7724                1919
+
+| WITT               MAGGIE                           3        22      1919 PENNINGTON         EMLY                       27        13245               1919
+
+| WITT               MAGGIE                           3        22      1919 PENNINGTON         EMILEY                     30        14884               1923
+
+| WITT               ADA                              7        18      1920 BROWNING           SARAH                      205       93704               1976
+
+| WOATON             MURTIE                          12        11      1914 NANCE              LARRY                      12        5521                1915
+
+| WOATON             SOFA                             7        31      1917 COMBS              LAURA                      73        36143               1917
+
+| WOATON             CLEON                            1        18      1920 WOATON             IDA                        7         3158                1920
+
+| WOLF               BETTY              A             7        23      1913 NORTH              DORA                       89        44446               1913
+
+| WOLF               GEORGE                          12        24      1915 NORTH              DORA                       133       66024               1915
+
+| WOMBLES            JAMES                            8        11      1912 SIMMONS            MARTHA                     102       40792               1912
+
+| WOMBLES            MAY                J             1        13      1916 COUCH              EUIDA                      8         3585                1916
+
+| WOOD               JOE                              4         8      1915 NAPIER             LUCITTA                    43        21200               1915
+
+| WOOD               CHARLEY            1             6        21      1915 LEWIS              MARY                       100       49614               1915
+
+| WOOD               GEORGIE                          2        11      1916 GAY                PEGGY                      68        33530               1916
+
+| WOOD               ZITHA                            3        28      1916 WOOD               LUCY                       47        23099               1916
+
+| WOOD               LEENORA                          4        14      1916 ESTRIDGE           MAGEE                      68        33547               1916
+
+| WOOD               MANDA                            5        12      1920 CALDWILL           NANCY                      74        36606               1920
+
+| WOODS              CLYDA              B             8         4      1911 BAKER              POLLY                      100       39693               1911
+
+| WOODS              WILLIE                           9         4      1911 NAPIER             DRUCILLA                   109       54136               1941
+
+| WOODS              VIRGIE                           4        11      1912 BEGLEY             TENNESSEE                  48        18829               1912
+
+| WOODS              SKELTON                          6        14      1912 WOODS              LIZZIE                     76        30060               1912
+
+| WOODS              DANIEL             B             4        13      1913 WOOTON             MARTHA                     78        38582               1913
+
+| WOODS              JOE                L             5         1      1913 BEGLEY             ALICE                      78        38713               1913
+
+| WOODS              FLORA                            6        15      1913 JONES              LUCY                       69        34231               1913
+
+| WOODS              JESSIE             I             6        30      1913 ASHER              STELLA                     122       60771               1913
+
+| WOODS              NANCYLEL                         9        17      1913 BAKER              POLLIE                     123       61061               1913
+
+| WOODS              PEARL                           10        17      1913 NAPIER             BILLIE                     123       61333               1913
+
+| WOODS              SADA                            10        22      1913 JOHNSON            MARTHA                     123       61340               1913
+
+| WOODS              HATTIE                           1        17      1914 HENSLEY            PEGGY                      121       60141               1914
+
+| WOODS              GUSS                             2        16      1914 SANDLIN            ORLEAN                     18        8992                1914
+
+| WOODS              REX                              4        27      1914 ESTRIDGE           MAGGIE                     168       83755               1942
+
+| WOODS              JOHN                             7        15      1914 JONES              LUCY                       76        37727               1914
+
+| WOODS              EDITH                            9        20      1914 BUGERY             TENNESSEI                  92        45967               1914
+
+| WOODS              REID                            11        17      1914 HOWARD             OPHA                       121       60168               1914
+
+| WOODS              BERNICE                          1        30      1915 JOHNSON            MARTHA                     112       55732               1915
+
+| WOODS              GEORGE                           5         2      1915 WOODS              ELIZABETH                  112       55737               1915
+
+| WOODS              JETTA              M             7         2      1915 BEGLEY             ALICE                      112       55743               1915
+
+| WOODS              ROBERT             L             8        18      1915 WOOTON             MARTHA                     95        47002               1915
+
+| WOODS              BESSIE                           9         1      1915 CAMPBELL           SARY                       95        47003               1915
+
+| WOODS              EMMETT                           1         5      1916 BEGLEY             TENNESSEE                  8         3602                1916
+
+| WOODS              ADA                M             8        29      1916 HOWARD             OPHA                       83        41385               1916
+
+| WOODS              HUGHES                          10        23      1916 ASHER              STELLA                     104       51795               1916
+
+| WOODS              MARTHA                           2        23      1917 NAPER              DRUCILLA                   52        25599               1917
+
+| WOODS              STELLA                           4        10      1917 CALDWELL           NANCY                      83        41352               1917
+
+| WOODS              SAMUEL             W            10         9      1917 BEGLEY             ALICE                      104       51606               1917
+
+| WOODS              HAMBLIN                          1        21      1918 NAPIER             DRUCILLA                   140       69595               1944
+
+| WOODS              HAMLIN                           1        21      1918 NAPIER             DRUCILLA                   122       60999               1941
+
+| WOODS              FELIX                            3        15      1918 ROBERTS            PEGGIE                     36        17906               1918
+
+| WOODS              WILLIE                           8        27      1918 WOOTON             MARTHA                     97        48053               1918
+
+| WOODS              MARY                             9         9      1918 COUCH              LUCY                       119       59203               1918
+
+| WOODS              WILLIAM            M             9        28      1918 WOODS              POLLY                      97        48050               1918
+
+| WOODS              AHIJAH                          10        10      1918 COLLETT            BERTHA                     97        48048               1918
+
+| WOODS              GIRTA                           11         8      1918 BEGLEY             TENNESSEE                  107       53355               1918
+
+| WOODS              CECIL                           12         9      1918 CAWELL             NANCY                      119       59200               1918
+
+| WOODS              JAMES                           12         9      1918 HOWARD             OPHA                       119       59190               1918
+
+| WOODS              OPAL                            12         9      1918 WOODS              OPHA                       119       59189               1918
+
+| WOODS              CURT                            12        11      1918 SANDLIN            ORLEAN                     119       59198               1918
+
+| WOODS              MATT                            12        18      1918 ENGLE              SOPHIA                     119       59188               1918
+
+| WOODS              JULIUS             C            11        23      1919 BEGLEY             ALICE                      117       58158               1919
+
+| WOODS              MARCUS                           1        15      1920 ESTERIDGE          MAGGIE                     18        8966                1920
+
+| WOODS              WILLIE             1             1        17      1920 COUCH              MOLLY                      18        8962                1920
+
+| WOODS              HIRAM                            3         6      1920 YOUNG              BERTHA                     31        15087               1920
+
+| WOODS              FANNY                            4        30      1920 WOODS              ELIZEBETH                  63        31327               1920
+
+| WOODS              MABEL                            6        17      1920 GAY                PEGGY                      182       90297               1982
+
+| WOODS              HENRY                            6        20      1920 NAPIER             CILLER                     129       64103               1920
+
+| WOODS              JEWEL                           10         8      1920 CREECH             PEARL                      105       52063               1920
+
+| WOOTAN             WALLACE                          7        11      1913 FELTNER            MAGGIE                     12        5505                1914
+
+| WOOTEN             BESSIE                           8        10      1912 NORTH              MARTHA                     102       40787               1912
+
+| WOOTEN             DENNIS                           1         4      1914 HOWARD             DELLA                      8         3666                1914
+
+| WOOTEN             HANNAH                           6        13      1914 WOOTON             SUSAN                      121       60157               1914
+
+| WOOTEN             JOHNNY             A             4        22      1916 HOWARD             DELLA                      182       90135               1948
+
+| WOOTEN             JAMES              E            12         6      1917 ASHER              MARTHA                     195       92148               1967
+
+| WOOTON             BERTHA                           2        23      1911 BAKER              EMALINE                    91        36225               1911
+
+| WOOTON             MAULLIE                          3        22      1911 NAPIER             MARTHA                     34        13562               1911
+
+| WOOTON             ORPHLA                           3        29      1911 BAKER              REBECCA                    34        13564               1911
+
+| WOOTON             OSHA                             7        11      1911 COLLINS            RISBY                      13        4937                1912
+
+| WOOTON             ALTA               M             8        29      1911 STATZER            JANE                       63        31196               1943
+
+| WOOTON             MARGARET                         1        15      1912 BEGLEY             CORA                       9         3202                1912
+
+| WOOTON             ABIJAH                           4        15      1912 NAPIER             MARTHA                     54        21458               1912
+
+| WOOTON             JOHNIE                           8         1      1912 NAPIER             MARY                       102       40798               1912
+
+| WOOTON             DENNIS                           9        15      1912 STIDHAM            NANCY                      182       90346               1951
+
+| WOOTON             NANNY                            2        11      1913 SIZEMORE           SILLER                     24        11635               1913
+
+| WOOTON             GARIT                            4        10      1913 BAKER              REBECKIE                   78        38581               1913
+
+| WOOTON             GARRETT                          4        10      1913 BAKER              REBECCA                    207       94021               1973
+
+| WOOTON             DORA                             9        28      1913 BEGLEY             CATHERINE                  123       61065               1913
+
+| WOOTON             WILLIAM            C             1        23      1914 BEGLEY             CORA                       121       60143               1914
+
+| WOOTON             SHERMAN                          5        25      1914 STIDHAM            NANCY                      50        24966               1914
+
+| WOOTON             RAY                              8        22      1914 CAMPBELL           SALLIE                     82        40561               1914
+
+| WOOTON             CLEIDE                           8        27      1914 COLLINS            RISBY                      121       60160               1914
+
+| WOOTON             PURL                            10        20      1914 NAPIER             MARY                       121       60164               1914
+
+| WOOTON             OPEL                             2        18      1915 BAILEY             MARY                       124       61829               1915
+
+| WOOTON             MOLLIE                           4        29      1915 WOOTON             JANE                       43        21204               1915
+
+| WOOTON             CORNELIA                         8         1      1915 SIZEMORE           CILLAR                     100       49620               1915
+
+| WOOTON             GEORGE                          10        16      1915 BEGLEY             KATHERINE                  109       54184               1941
+
+| WOOTON             HIDEN                           12         7      1915 BAKER              REBECCA                    133       66038               1915
+
+| WOOTON             UNIS                             1        18      1916 BEGLEY             CORA                       23        11433               1916
+
+| WOOTON             NETTIE                           2         1      1916 FELTNER            NANCY                      188       91140               1954
+
+| WOOTON             HIRANE                           2        15      1916 NAPIER             MAYBELL                    47        23096               1916
+
+| WOOTON             CREOLE                           3        30      1916 BEGLEY             EVA                        30        14968               1916
+
+| WOOTON             BIRTIE             L             4        14      1916 HOWARD             DELLA                      68        33546               1916
+
+| WOOTON             JOHNNIE            A             4        14      1916 HOWARD             DELLIE                     68        33545               1916
+
+| WOOTON             EFFIE              E             4        23      1916 WOOTON             RACHEL                     189       91241               1969
+
+| WOOTON             GLADYS                           7        29      1917 COLLINS            RISBY                      73        36127               1917
+
+| WOOTON             ELLIE                            9        15      1917 STIDHAM            NANCY                      142       70546               1943
+
+| WOOTON             FRANCES                         10        29      1917 BEGLEY             EVA                        104       51605               1917
+
+| WOOTON             TENNY                           12        30      1917 BEGLEY             CORA                       36        17910               1918
+
+| WOOTON             DAN                              1        15      1918 ENGLE              SOPHIA                     36        17907               1918
+
+| WOOTON             REX                              2        16      1918 CAUDILL            ATTIE                      187       90927               1963
+
+| WOOTON             EMMITT                           4         4      1918 FELTNER            NANCY                      197       92478               1967
+
+| WOOTON             OPSIE                            4        20      1918 BAKER              REBECCA                    36        17931               1918
+
+| WOOTON             HANNAH                           7        25      1918 SIZEMORE           DRUCILU                    87        43118               1918
+
+| WOOTON             PARIS              C             8        19      1918 BEGLEY             MIDA                       97        48054               1918
+
+| WOOTON             BRANT                            3        17      1919 WOOTON             JANE                       182       90240               1986
+
+| WOOTON             ABIJAH                           4        15      1919 HOWARD             DELLA                      37        18246               1919
+
+| WOOTON             MURLEY                           8        24      1919 BEGLEY             EVA                        83        41330               1919
+
+| WOOTON             RUFUS                           11        22      1919 CAUDILL            ATTIE                      117       58149               1919
+
+| WOOTON             WILLIAM            R            11        27      1919 ENGLE              SOPHIA                     117       58156               1919
+
+| WOOTON             EDWIN              P             2        22      1920 BEGLEY             CATHRINE                   18        8967                1920
+
+| WOOTON             VERDIA                           5        26      1920 FIELDS             STELLA                     52        25770               1920
+
+| WOOTON             JEWEL                            8        12      1920 BEGLEY             MIDA                       116       57948               1920
+
+| WOOTON             DONALD             E             8        25      1920 HOSKINS            HALLIE                     84        41774               1920
+
+| WOOTON             ODRA                             9        27      1920 MELTON             EMILY                      105       52064               1920
+
+| YORE               LETTY                            3        27      1916 MAGGARD            NANCY                      36        17553               1916
+
+| YORK               LULA                             2        15      1912 MAGGARD            NANCY                      21        8396                1912
+
+| YORK               SILLER                           1         6      1914 MAGGARD            NANCY                      8         3683                1914
+
+| YORK               BERTHA                          10         3      1916 BAKER              MARTHA                     124       61862               1916
+
+| YOUNG              ELISHA                           3         2      1911 WOOTEN             DARCUS                     205       93707               1972
+
+| YOUNG              FANNY              W             3        30      1912 GRANT              ANNIE                      35        13604               1912
+
+| YOUNG              WILSON             1             4        16      1912 SMITH              SIASO                      48        18824               1912
+
+| YOUNG              SYLVANIA                         8         6      1913 HOWARD             MOLLIE                     122       60921               1913
+
+| YOUNG              HARLEY                           4        22      1914 SMITH              SISSY                      45        22393               1914
+
+| YOUNG              ORPHA                            6        21      1914 FELTNER            BERTHA                     85        42488               1914
+
+| YOUNG              JOHN                             7        27      1914 YOUNG              CUTISHY                    121       60159               1914
+
+| YOUNG              MONROE                           3        23      1915 WOOTON             DARKES                     43        21217               1915
+
+| YOUNG              ELIZA              J             9         1      1915 HOWARD             MALLIE                     100       49623               1915
+
+| YOUNG              LUCY                             1        23      1917 BAKER              SARAH                      7         3161                1917
+
+| YOUNG              MARTHA                           4         5      1917 WOOTON             DARCUS                     185       90667               1971
+
+| YOUNG              DAN                M            10        13      1918 HOWARD             MALLIE                     119       59194               1918
+
+| YOUNG              TYLER                            5        27      1920 BOWLING            OLLIE                      63        31336               1920
+
+| YOUNG              DENVER                           7        27      1920 NORTH              MOLLIE                     74        36611               1920
+
+Transcribed and submitted by Vickie Stevens.
+This format copyright 2000,2001.

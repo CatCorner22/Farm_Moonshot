@@ -1,0 +1,68 @@
+B078 / pass 78 year-hole extract — 31 Oct 2026
+Access: transcription / index / catalog / compiled. No Van Buren original schedule seen.
+No FS/Ancestry credentials. DAS image.jpg not re-hit. po0066/po0067 not re-downloaded.
+
+== Saline Q/R grooms (see books-Q-R-groom-dora-stone-2026-10-31.txt) ==
+Nil Dora Newnam x Stone. Nil Stone groom. Nil T.A./Tom Stone 1923–27.
+
+== Grant ARGenWeb (www.argenweb.net/grant/) ==
+Home / records / sitemap seen (prior this pass).
+Federal land records HTML 200 175066 B (Joy Fisher from BLM; homestead/cash patents before 1908):
+  0 STONE / NEWMAN / NEWNAM / DORA.
+  N surnames include NALL, NANTZ, NELEMS, NELSON, NEWEL, NEWELL, NEWTON — not Newman.
+  Saved: sources/land/grant/federal-land-records.html
+GrantCoMarriages.html (sitemap title "Marriages, 1851-1900"): HTTP 404 355 B (root and /files/).
+texts/death1914-1916.txt and deathindex1914-1950.html: HTTP 404 355 B from site root and from death-records/.
+Death-records landing 200 9196 B = catalog pointing at those two broken hrefs.
+Churches.html 200 10493 B = catalog (no membership register).
+Census-records/ 200 9252 B = catalog; only linked body 1870cesus.txt (1870, not a 1901–25 hole).
+USGW files.usgwarchives.net/ar/grant/ and grant.htm: timeout 20s / 0 B (not retried).
+2009 obit path thomas-dora-e.html is modern; not fetched (not P001).
+
+== Pike ARGenWeb ==
+argenweb.net/pike/ 200 164 B = meta-refresh to http://s239292887.onlinehome.us
+That host 403.14 Forbidden (directory listing disabled). No Pike name body this pass.
+
+== Lonoke ARGenWeb ==
+Home 200 16666 B = history + coordinator + archived query pages. No 1910/1920 census, marriage book, or tax body on the landing.
+
+== Menifee KYGenWeb (kygenweb.net/menifee/; kykinfolk.com cert expired, -k redirected here) ==
+marindex.html = submitted certificates only (Denniston x Castle, Robbins, Sargent, Don Dix, Sexton) — not a county book.
+mennews.html = 1950 Menifee County News (Barbara Ingram); 0 Dora/Newman/Stone in parse. Too late for 1901–26.
+Births: births/index.html 403; birthindex.html / births.html 404.
+Deaths year files (Nancy Trice tables; Last/First/MI/M/D/Y/Vol/Cert) — saved under sources/deaths/menifee/:
+  1911-1915 (297 rows): no Newman/Newnam decedent. Stone = NATHAN 02/01/1914 only.
+    AGEE DORA 10/13/1911; LAWSON DORATHA E 09/29/1911; SPENCER ELLA 09/20/1913; BROWN ELLA 09/24/1915; DENISTON DORA E 07/15/1915 — rejected.
+  1916-1920 (338): no Newman/Newnam/Stone. GILLIE DORA 10/05/1916; JONES ELLA N 10/26/1919; LAWSON DORATHA E 09/29/1920 — rejected.
+  1921-1925 (283): no Newman/Newnam. STONE CHARLES (MI 2) 02/17/1921. JONES ELLA N 10/26/1921; NOLAN ELLAR L 03/25/1921 — rejected.
+  1926-1929 (188): no Newman/Newnam/Stone.
+    DORA LILIE 07/09/1926 (surname DORA); GILLIE DORA 10/05/1928; SMALLWOOD DORA E 01/22/1929 — rejected as P001
+    (P001 died 23 Aug 1926 Yell Co. AR; Smallwood is mother's maiden, not this decedent's identity).
+
+== Estill KYGenWeb (kygenweb.net/estill/) — children's records naming mother ==
+Home + site/records/index.htm seen. Births landing lists 1911–1923 letter files with mother last/first.
+Opened 1911–1916 K–N (child Newman/Newnam) and O–T (child Stone) + 1910 single file. Saved sources/births/estill/.
+  NO mother Dora/Ella/Posa Newnam/Newman/Stone on those files.
+  Child NEWMAN, Nancy J, mother NEWMAN, Martha, 10 Apr 1911 — other family.
+  Child NEWNAM, Hiram D, mother CHANEY, Sarah, 26 Apr 1914 — other family (not merged).
+  Stone children (other mothers): Emilene/Olie/Lonnie 1911 (Hudy/Early/Walson); Myrtle 1912 (Winkler);
+    Luther 1913 (Puckette); Luther 1914 (Horn); Dorothy 1915 (Puckett); William T 1915 (Crow).
+  Mother Stone (other given): Alma, Mary, Hattie/Hatty — not Dora.
+  Mother Dora other surnames (Land, Day, Tipton, Dickerson, Daye, Johnson, Charlton) — rejected.
+  1910 births file (8 data rows): nil Newman/Newnam/Stone/Dora-as-mother.
+Remaining unread: A–B / C–F / G–J / U–Z 1911–16 and all 1917–23 letter files; death year pages 1911–24/26.
+Land N.htm: Newman, David 1822–23; Newman, Samuel M. 15 Sep 1837 (Drowning Cr). 19th-c grants — not 1901–09.
+Land S.htm: no Stone.
+
+== Dallas / Clark / Jefferson ARGenWeb (catalogs this pass) ==
+Dallas home + resources_records/ + site_map (155 KB): census posted = 1850/1860 mortality; marriages = offsite USGW
+  (not fetched; USGW Grant already timed out). Modern obits. No 1901–25 tax/directory/1910–20 population body opened.
+Clark marriage.htm = Bragg / Freedmen / Pennington extracts + USGW miscmar1.txt offsite (not fetched).
+Clark census.htm = 1830–1850 only.
+Jefferson home = records--resources/ catalog link; no name body opened.
+
+== Not re-hit / not re-fetched ==
+DAS …/3:1:33S7-9RNR-FP/image.jpg. po0066 / reel 67. Perry 1910. Opened Perry 1920. ED 191/188.
+Van Buren published 1910. White named files. C335/C349/C1484 Solr. Conway Z. Logged phone.
+Saline bride I–R. Powell 1911–18 births. Montgomery death indexes.
+No B057 film reading invented. No Van Buren 1910 household invented.

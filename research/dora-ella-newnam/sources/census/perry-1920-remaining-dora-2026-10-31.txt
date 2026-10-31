@@ -1,0 +1,80 @@
+# Extract — Perry Co. AR 1920 remaining townships (B068)
+# Captured 31 Oct 2026. Transcription only (Sharon Smith / ARGenWeb).
+# Landing: https://www.argenweb.net/perry/census/1920census/
+# Do NOT re-fetch Howell or Perryville (C1311–C1313 / S345).
+# Variants: Dora/Ella/Posa/Dosa/Dona/Dara/Rosa/Nora/Cora; Stone/Newman/Newnam; ~45–52; MIL/boarder.
+
+## Rankin Township (index + census opened)
+Index heads: Newman, John 114b hh 158; Stone, John 113a hh 125; Stone, W. James 114b hh 162.
+hh 125: Stone, John 22 M AR Saw Mill Laborer; Flora wife 16 M AR. No other members.
+hh 158: Newman, John 40 M AR Farmer; Addie wife 32 M AR; Ruby dau 10; Pearl dau 9; Woodrow son 6; Orval son 4. All AR.
+hh 159: Osborn, Irby 28; Cora wife 22 KS. (Cora too young)
+hh 160: Nunn, Elbert 24; Ella wife 23 AR; Gertrude 4; Fred 2; Minor 1/12.
+hh 162: Stone, W. James 45 M MS Farmer; Emma wife 39 M AR; Lucy dau 13 AR; Frances (continues). No MIL/boarder Dora.
+hh 132: Wilhite, William C. 45; Lillie 32; Rosella dau 6 AR.
+Rosa infant dau 1/12 elsewhere (child).
+Verdict: nil P001.
+
+## Rose Creek Township (index + census)
+Index: no Stone/Newman/Dora/Ella heads.
+Rosa E. Archer stepdau 14 S AR Farm Laborer (in house with Elsie D. wife 52 IN). Child. Nil P001.
+
+## Fourche Town (index + census)
+Index: no Stone/Newman/Dora/Ella heads.
+hh 276: Huckaby, Thomas J. 44 M AR House Carpenter; Rosa wife 42 M AR; Lee son 14; Logan son 9. AR-born Rosa. Rejected.
+
+## Rose Township (index only; census not opened — index nil)
+Index names: Allen, Brown, Buck, Davis, Duval, Howard, … no Dora/Ella/Stone/Newman.
+
+## Adona Town (index + census)
+hh 235: Lipe, Ella J. Head 59 Wd TN None. Too old; TN.
+hh 236: Beerman, Rosa C. Head 63 Wd MS. Too old; MS.
+Cora B. wife 32 AR (other house). Nil P001.
+
+## Bigelow Town (index + census) — Stone FAN
+hh 39: Turner, Stone E. 41 M AR (given name Stone, not surname).
+hh 56: Canfield, Gen 63? S GA; Gus son 13; Poul, Ella Boarder 43 S AR. AR-born, single, surname Poul. Rejected.
+hh 81: Davis, Alex 35; Ella wife 38 M AR. Rejected (AR, wrong husband).
+hh 93: Stone, Mark 24 M AR Retail Store Salesman; Julia wife 23 M AR; Rodney M. son 2 4/12 AR. No MIL.
+hh 109: Akridge, Lou 36; Ella M. wife 32 AR.
+hh 117: Stewart, George 42 TN; Ella wife 39 AR.
+hh 140: Stone, William R. 55 M AR Farmer; Alice wife 40 M AR; Johnie 18; Clyde 10; Roy 4; Nathey 2; Sybil 13; Floy 7; Opel? 6. Wife Alice. No Dora.
+Verdict: nil P001 in Stone houses; Ella Poul rejected.
+
+## Gray Town (index + census)
+hh 217: Calb, Ella Head 35 S GA Lumber Mill Laborer. Too young; GA; laborer.
+Dora dau 4 2/12 AR (child).
+Wilson, Ella Boarder 22 M TN (with Ed Wilson 35). Too young.
+Rosa wives 22/30 AR. Nil P001.
+
+## McCool Township (index + census)
+hh 59: Jones, Rosa Head 37 Wd AR None. Age 37 vs ~48; AR; Jones. Rejected.
+No Stone/Newman heads.
+
+## Aplin Township (index nil; census opened for boarder/MIL)
+hh 21: Shelton, Walter Head 27 M GA Farmer; Dora wife age ? M AR; Fay son 3 AR; Carter, Vester BIL 19. Husband 27 + AR nativity + illegible age. Rejected (not KY ~48).
+hh 34: Lovell, Kimsey 37 GA; Dona? wife age ? M GA. Rejected.
+hh 90: Mosby, Hattie A. Head 73 Wd MS Farmer; Dora W. dau 50 S MS; Joe B. son 45 S MS; Leonard A. son 33 Wd AR. MS-born single daughter. Rejected.
+hh 102: Oliver, Ralph W. 39 AR; Cora L. wife 37 M KY; Robert 16 … Bernard 3. KY-born but Cora, 37 vs 48, Oliver children. Rejected.
+hh 112: Fleming, Marshal O. 48; Ella wife 28 AR. Too young.
+Miller, Ella AdoptedDau 1 3/12. Child.
+Verdict: nil P001.
+
+## Houston Township (index nil; census opened)
+hh 244: Talley, E.F. Head 64 M TN Farmer; Elizabeth dau 30 S AR Farm Helper; Ella dau 47 S TN; Agnes gdau 5 AR.
+  Age 47 vs ~48 but TN-born single Talley daughter. Rejected.
+Other Ellas: dau 4; wife 28 AR; wife 23 OK. Nil P001. No Stone/Newman heads.
+
+## Houston Town (index only; nil Dora/Ella/Stone/Newman heads). Census not opened.
+
+## AR State Penitentiary 1920 page
+No Dora/Ella/Posa/Stone/Newman rows.
+
+## Indexes opened, no Dora/Ella/Stone/Newman heads (census unpublished or not opened)
+Casa Town (census unpublished); Casa Township (unpub.); Cherry Hill; Dry Fork; Forest (unpub.);
+Kenney; Lake; Maumelle (Donathan false-positive); Mountain; New Tennessee (unpub.);
+Omega; Perry Township (unpub.); Perry Town (unpub.); Petit Jean (unpub.);
+Rowland; South View; Sweet Home; Tyler; Union (unpub.); Walnut Grove.
+
+Residual: published census bodies with nil head-index (boarder possible) → B069 sibling;
+unpublished 1920 bodies (Casa/Forest/New TN/Perry twp+town/Petit Jean/Union) → same residual.

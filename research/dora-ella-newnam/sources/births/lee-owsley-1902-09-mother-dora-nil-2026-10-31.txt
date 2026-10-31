@@ -1,0 +1,21 @@
+Year-hole births 1902–1909 naming a mother Dora/Ella — 31 Oct 2026
+Transcription only.
+
+1) Lee VS births 1902–1904
+   https://usgennet.org/usa/ky/county/lee/births/vsb2.html  HTTP 200, 22821 B
+   Page title: "Lee County, Kentucky Vital Statistics Births 1902-1904"
+   (Landing labels this file 1903-1904; title on the page is 1902-1904.)
+   Newman/Newnam as parent: **0**
+   Only Dora-as-mother: 14 Feb 1902 Josse JOHNSON, d/o Anderson JOHNSON & Dora GABBARD — rejected
+   Bettie STONE 27 Apr 1903 d/o Rollen STONE & Rosa ROSE — different Stone household
+
+2) Owsley VS births
+   1904a.html  HTTP 200, 28890 B — Louise Dora SHEFFIELD (mother given, not P001)
+   1907.html   HTTP 200, 24698 B — mothers Dora Farler, Dora McQuinn
+   1908.html   HTTP 200, 102464 B — mothers Dora Rhodes, Dora Marshall, Dora Moore (×2), Dora Reynolds
+                                 child Lester Newman 2 June 1908, father Robt Newman, mother Martha Thomas
+                                 (Ohio / Beattyville columns) — FAN of Robert, not P001
+   1909b.html  HTTP 200, 51653 B — Dora Green Price, Dora Moore (mothers)
+   1910 VS births listed on landing but **unlinked**
+
+No child of Dora/Ella Newnam/Newman/Stone in these published VS years.

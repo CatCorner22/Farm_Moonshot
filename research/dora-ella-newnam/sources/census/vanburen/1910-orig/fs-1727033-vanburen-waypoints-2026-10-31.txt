@@ -1,0 +1,48 @@
+# Extract — FamilySearch coll. 1727033 waypoints for Van Buren 1910 (pass 76 / B076)
+# 31 Oct 2026. Catalog / browse-tree JSON seen. Title card NOT confirmed.
+# Households NOT read. Full DAS image 401. Do not invent a Van Buren line.
+
+## Requests this pass (human-paced; stopped on 401)
+1. Collection page (prior session leftover): https://www.familysearch.org/en/search/collection/1727033
+   HTTP 200 SPA shell.
+2. Collection waypoints (prior session leftover):
+   https://www.familysearch.org/platform/records/collections/1727033/waypoints
+   HTTP 200 JSON. Arkansas child:
+   https://www.familysearch.org/platform/records/waypoints/QZZQ-M5Z:133642401?cc=1727033
+3. Arkansas waypoint (this pass): same URL. HTTP 200. 77 counties.
+   Van Buren:
+   https://www.familysearch.org/platform/records/waypoints/QZZQ-H7C:133642401,140557801?cc=1727033
+4. Van Buren county waypoint: same URL. HTTP 200. 24 townships titled:
+   Archey Valley, Barnett, Bloodworth, Bradley, Cadron, Cargile, Choctaw,
+   Cleveland, Craig, Culpepper, Davis, Griggs, Grove, Hartsugg, Holly,
+   Liberty, Linn Creek, Mountain, Red River, Sulphur Springs, Union,
+   Washington, Wheeler, White Oak.
+   These are waypoint titles, not film title cards.
+5. Holly township waypoint:
+   https://www.familysearch.org/platform/records/waypoints/QZZQ-8C1:133642401,140557801,133992001?cc=1727033
+   HTTP 200. One district: ED 118.
+6. Holly ED 118 waypoint:
+   https://www.familysearch.org/platform/records/waypoints/QZZQ-8ZM:133642401,140557801,133992001,1589088908?cc=1727033
+   HTTP 200. 11 DigitalArtifact ARKs (first):
+   https://www.familysearch.org/ark:/61903/3:1:33S7-9RNR-FP?cc=1727033&wc=QZZQ-8ZM:133642401,140557801,133992001,1589088908
+   Thumbnail 200px: HTTP 200 JPEG 200x140 (census form; county/township/names
+   not readable). Saved: ed118-holly-img0-thumb-200px.jpg
+7. Full DAS image (ONE try, then stop):
+   https://sg30p0.familysearch.org/service/records/storage/dascloud/das/v2/3:1:33S7-9RNR-FP/image.jpg
+   HTTP 401 JSON: {"error":"Unauthorized","message":"Unauthorized (anonymous session)"}
+   Exact blocked URL logged. No further FS image paths tried.
+
+## NARA / Ancestry this pass
+- catalog.archives.gov search T624 66 Arkansas 1910: HTTP 200 JS SPA; no digital-object list in static HTML.
+- Ancestry coll. 7884: not already reachable; not fetched.
+
+## Workaround ladder (paywall type A)
+A1 FamilySearch waypoints: Van Buren browse tree reached; full images 401.
+A2 NARA catalog SPA: no free digital object in HTML.
+A3 White Co. ARGenWeb named 1910/1920 township bodies (free substitute).
+
+## What this does NOT prove
+- That a film title card says “Van Buren” (not seen at readable size).
+- Any household line in Holly, Liberty, Wheeler, White Oak, or any other
+  unpublished Van Buren township.
+- FHL film number (still not verified).

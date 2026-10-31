@@ -1,0 +1,13 @@
+# Extract: 1920 Lee Co. KY Sturgeon precinct (USGenNet Kendrick transcription)
+# Source: https://usgennet.org/usa/ky/county/lee/census/1920/sturgeon.html
+# Captured 31 Oct 2026. Transcription only. Full HTML saved locally as /tmp/dora-1900/1920-sturgeon.html (178080 bytes).
+
+## Household 34-38 — Clyde JACKSON (P001 not in house)
+Clyde JACKSON head 26 md w KyKyKy
+Pearl wife 24 md w KyKyKy nee NEWMAN
+Estella dau 2 9/12 s w KyKyKy
+Fannie dau 10/12 s w KyKyKy
+
+## Rejected same-precinct Dora wives (not P001)
+30-31 Hall MAYS head 38 — Dora wife 37 nee JUDD + six children + Margaret MAYS mother 65
+31-33 John MAYS head 49 — Dora wife 44 nee ROSS + two daughters

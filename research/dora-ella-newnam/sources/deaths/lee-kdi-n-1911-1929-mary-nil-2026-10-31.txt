@@ -1,0 +1,16 @@
+# Extract: Lee County Kentucky Death Index 1911–1929, surname N
+# https://usgennet.org/usa/ky/county/lee/deaths/kdi/n.html
+# Captured 31 Oct 2026. HTTP 200, 38999 bytes. Index only (from KY Death Index CD).
+
+Newman/Newnam rows on this page:
+- NEWMAN, Callie (two 1926 rows, vol 028/032 cert 13504/15815)
+- NEWMAN, Dellie (1917)
+- NEWMAN, Frank (1928)
+- NEWMAN, Grant 1 (1915)
+- NEWMAN, Hanley 1 (1924)
+- NEWMAN, Lillian (1912)
+- NEWMAN, Maud L (1913)
+- NEWNAM, Dorothy (1926/27)
+
+No row: NEWNAM/NEWMAN, Mary / Mary A. / Dora / Samuel / Elias / McCoy / John H.
+(Extends prior S047 which already closed Samuel/Dora/John H/Elias; this pass adds Mary A. 1918 as absent from the same N-page.)

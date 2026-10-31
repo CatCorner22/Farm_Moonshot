@@ -1,0 +1,533 @@
+B083 / pass 83 — Laurel remaining + Knox year files + Whitley/Leslie + new hosts — 31 Oct 2026
+Access: transcription / catalog. No Van Buren original seen.
+No FS/Ancestry credentials. DAS image.jpg not re-hit. po0066/po0067 not re-downloaded.
+Did not refetch Laurel K/O, Laurel deaths 1911-21, Clay, Rockcastle, Bradley N/S.
+
+== Laurel remaining A/C/G/U 1911-23 ==
+files=52
+data_rows~5690
+MOTHER Dora/Ella/Posa + Newnam/Newman/Stone: 0
+child NEWMAN/NEWNAM/STONE: 0
+any mother given Dora/Ella/Posa (other surnames): 126
+other Dora/Ella mother surnames: ALLEN, BALL, BLAIR, BOGGS, BOWER, BOWLING, BRITTON, BRUMETT, BRUMNMET, BRUNER, BURNETT, CHESTER, CLARK, COPELAND, DEAN, DEES, FARLEY, FARMER, FRAZIER, FREDERICK, GEORGE, GREEN, HALE, HEDERICK, HOLLIIN, HOLLINGSWORTH, HOLLINGWORTH, HOLLONS, HOUNCHELL, HOUNSHELL, HOWNCHELL, HUSTON, ISAACS, JOHNS, JOHNSON, JONES, KARR, KON, LEE, MARTIN, MCHARGUE, MCKNIGHT, MCVAY, MCVEY, MIRACLE, MITCHELL, MORGAN, NICELEY, PARMAN, PARTER, PETERS, PHILLIPS, PHILPOT, PIGG, PORTER, RAY, SAMS, SAYLOR, SMITH, TANKLEY, TANKUSLEY, TAYLOR, THILPOT, VAUGHN, WATKINS, YOUNG
+  1911a.htm: child BAKER SIMEON / mother PHILLIPS DORA
+  1911a.htm: child BROCK WALTER / mother MCHARGUE DORA
+  1911c.htm: child CRAFT THOMAS / mother PORTER DORA
+  1911c.htm: child DISNEY FANNY / mother SAMS ELLA
+  1911c.htm: child ELKINS DAVE / mother VAUGHN DORA
+  1911g.htm: child GILBERT SAM / mother HOWNCHELL ELLA
+  1911u.htm: child WATKINS SAMUEL / mother FRAZIER DORA
+  1912a.htm: child ALSIP CORA / mother CLARK DORA
+  1912a.htm: child ASHER MARIE / mother COPELAND DORA
+  1912a.htm: child BAKER MYRTLE / mother MITCHELL DORA
+  1912a.htm: child BALL RUSSELL / mother ALLEN DONA
+  1912a.htm: child BECKNER WILLIE / mother BRITTON ELLA
+  1912c.htm: child CAUDILL RACHEL / mother HOLLINGWORTH DORA
+  1912g.htm: child GIVERT JOSEPH / mother HOUNSHELL ELLA
+  1912g.htm: child HALE MAGGIE / mother KARR DORA
+  1912g.htm: child HERON JOHN / mother HUSTON DORA
+  1912g.htm: child JACKSON LANE / mother SAYLOR ELLA
+  1912g.htm: child JOHNSON JAMES / mother PARMAN ELLA
+  1912g.htm: child JOSEPH PEARLIE / mother JONES ELLA
+  1912u.htm: child WATKINS JACK / mother BOGGS DORA
+  1913a.htm: child ALLEN ELIZABETH / mother TANKLEY DONA
+  1913a.htm: child BAIRD GERTRUDE / mother HALE DORA
+  1913a.htm: child BLACK DAISY / mother BOWLING DORA
+  1913c.htm: child FIELDS ANNIE / mother PIGG DORA
+  1913g.htm: child HALE NORA / mother KARR DORA
+  1913g.htm: child HILLARD HILBERT / mother NICELEY DORA
+  1913g.htm: child HUMBLE ELLA / mother BOWER ELLA
+  1914a.htm: child ALSIP SAMANTHA / mother CLARK DORA
+  1914a.htm: child ASHER LUCY / mother COPELAND DORA
+  1914a.htm: child BAKER CARL / mother MITCHELL DORA
+  1914a.htm: child BALL SHELBY / mother ALLEN DORA
+  1914a.htm: child BARRETT EARL / mother PARMAN DORA
+  1914c.htm: child CAUDILL MARTHA / mother HOLLINGSWORTH DORA
+  1914c.htm: child CORNELIUS ADA / mother ISAACS DORA
+  1914c.htm: child DIZNEY VIRGIE / mother SAMS ELLA
+  1914g.htm: child GEORGE MILDRED / mother GEORGE DORA
+  1914g.htm: child GEORGE WILLIAM / mother DEES DORA
+  1914g.htm: child JACKSON MATTIE / mother SAYLOR ELLA
+  1914u.htm: child WARREN CALVIN / mother JONES ELLA
+  1915a.htm: child ALSIP ELSIE / mother CLARK DONA
+
+== Knox-hosted delayed births 1901-1910 (statewide year files; mother field) ==
+files=10 parsed_rows~40620
+MOTHER Dora/Ella/Posa + Newnam/Newman/Stone: 1
+  1909.html: child TURNER, Mable L 1909-10-26 Mlnbg mother Newman, Ella
+child NEWMAN/NEWNAM/STONE: 114
+  1901.html: child STONE, Frances J 1901-05-27 Wayne mother Jones, Cora
+  1901.html: child NEWMAN, Edward R 1901-06-01 Boone mother Marshall, Della
+  1901.html: child STONE, Ollie R 1901-06-18 Jhnsn mother Meade, Susan
+  1901.html: child STONE, Chrlstn 1901-12-08 Crstn mother Davis, Lula
+  1902.html: child STONE, Martha E 1902-02-01 Mrshl mother Whiteside, Millie
+  1902.html: child STONE, Mary A 1902-02-23 Union mother Erwin, Emma
+  1902.html: child STONE, Ruth D 1902-03-31 Spncr mother Holloway, Bernice
+  1902.html: child STONE, Frances E 1902-04-18 Scott mother Lusby, Betty
+  1902.html: child NEWMAN, Flossie E 1902-04-29 Mlnbg mother Oneal, Annie
+  1902.html: child NEWMAN, Flornce J 1902-08-01 Warrn mother James, Bessie
+  1902.html: child STONE, James O 1902-09-21 Crtdn mother Dossett, Della
+  1902.html: child STONE, Ruby 1902-09-26 Mccrk mother Griffith, Cordie
+  1902.html: child STONE, Herbert 1902-11-19 Madsn mother Horn, Cynthia
+  1903.html: child NEWMAN, Lydia Estelle 1903-02-19 Henry mother McGowan, Lillie Mae
+  1903.html: child NEWMAN, Claude 1903-06-10 Hndsn mother Freels, Laura
+  1903.html: child STONE, Frank 1903-09-01 Union mother Cates, Mattie
+  1903.html: child STONE, Floy R 1903-09-05 Hckmn mother Wells, Maybelle
+  1903.html: child NEWMAN, Joseph E 1903-10-10 Mlnbg mother Richey, Lue
+  1903.html: child STONE, Robert R 1903-10-24 Grysn mother Stevenso, Harriet
+  1903.html: child STONE, Erma V 1903-11-04 Wbstr mother Jenkins, Mayoma
+  1904.html: child NEWMAN, Edith E 1904-01-07 Cartr mother Wilcox, Lottie
+  1904.html: child STONE, Herbert 1904-02-10 Hndsn mother Brinkley, Hmattie
+  1904.html: child STONE, Gladys 1904-05-12 Lewis mother Welch, Mary
+  1904.html: child STONE, Josie I 1904-05-17 Spncr mother Garrett, Maggie
+  1904.html: child STONE, Beasley 1904-07-05 Warrn mother Eadens, Sally
+  1904.html: child STONE, Pauline 1904-08-04 Mrshl mother Cole, Cora
+  1904.html: child STONE, Mary J 1904-11-09 Lewis mother McClure, Malinda
+  1904.html: child STONE, Hubbie E 1904-12-13 Union mother Stone, Cordellia
+  1905.html: child NEWMAN, Theodre R 1905-02-02 Mlnbg mother Oneal, Annie
+  1905.html: child STONE, Sarah R 1905-02-25 Spncr mother Nichols, Cathie
+  1905.html: child STONE, Dora E 1905-04-17 Hndsn mother Watkins, Laura
+  1905.html: child STONE, Isaac C 1905-05-06 Wbstr mother Farmer, Almeda
+  1905.html: child STONE, Brainrd 1905-06-11 Shlby mother Martin, Sally
+  1905.html: child STONE, John O 1905-06-26 Plski mother Girdler, Linnie
+  1905.html: child STONE, William L 1905-07-08 Knott mother Stone, Jane
+  1905.html: child STONE, Earl J 1905-07-17 Scott mother Brumback, Dora
+  1905.html: child STONE, Audrey L 1905-08-03 Grant mother Dunn, Mary
+  1905.html: child STONE, Albert E 1905-08-10 Breck mother Sharp, Era
+  1905.html: child NEWMAN, Henry W 1905-09-09 Breck mother Ryan, Ruby
+  1905.html: child STONE, Robert L 1905-10-16 Hckmn mother Williams, Nancy
+other Dora/Ella mothers (sample): 718
+  1901: child HOLMES, Edwin C Fyete / Farris, Ella
+  1901: child TALBOTT, Martha E Whtly / Adkins, Ella
+  1901: child BRADLEY, George Hardn / Seymour, Dora
+  1901: child BLAKEMAN, Carter Madsn / Long, Dora
+  1901: child HARRIS, Alphnso Scott / Bailey, Ella
+  1901: child CARVER, Leroy Allen / Carver, Ella
+  1901: child PHILLIPS, Earl Plski / Hedrick, Dora
+  1901: child COLLINS, Mary W Ohio / Cox, Ella
+  1901: child MASTIN, Rankin R Nchls / Cassity, Ella
+  1901: child SOUTHERLAND, Hazel F Laurl / Jones, Dora
+  1901: child DENNIS, Perry P Wshgn / Nicholson, Ella
+  1901: child THORNTON, Jesse E Rusel / Owens, Dora
+  1901: child CORNETT, Martha L Ltchr / Holcomb, Dora
+  1901: child SPENCER, Mila M Wolfe / Johnson, Dora
+  1902: child CALDWELL, Shelly M Grant / Gibson, Dora
+  1902: child MURPHY, Thomas J Grves / Torian, Ella
+  1902: child DUNCAN, Frances L Meade / Ditto, Dora
+  1902: child PERKINS, Mary G Daves / Ezell, Ella
+  1902: child ARNETT, Hettgrn Magfn / Thompson, Dora
+  1902: child HESS, Emma K Jeffn / Shuck, Dora
+  1902: child COLDIRON, Tennie L Wolfe / Brooks, Ella
+  1902: child ELLIOTT, Herbert Boyd / Elliott, Ella
+  1902: child STURGEON, Henry C Grant / Jump, Ella
+  1902: child BRANSON, John L Cmpbl / Slate, Ella
+  1902: child IRVINE, Volinda P Nelsn / Clark, Ella
+Knox 1911.html: 404 unpublished (not invented)
+
+== Knox-hosted births 1912-1920 letter splits (mother field) ==
+files=26 data_rows~9089
+MOTHER Dora/Ella/Posa + Newnam/Newman/Stone: 2
+  A-H-1915.html: child HIGGINS ANNIE / mother NEWMAN DORA 1915
+  H-Q-1919.html: child HIGGINS MELIA / mother NEWMAN DORA 1919
+child NEWMAN/NEWNAM/STONE: 10
+  H-G-1920.html: child NEWMAN HARRY / mother HUBBARD PEARL 1920
+  H-Q-1918.html: child NEWMAN MAY / mother MCDONAL FANNIE 1918
+  H-Q-1919.html: child NEWMAN ETHEL / mother KINDRED DELORA 1919
+  H-R-1916.html: child NEWMAN MABEL / mother KINDRED LORA 1916
+  I-R-1914.html: child NEWMAN ADA / mother FRY ELIZA 1914
+  I-R-1914.html: child NEWMAN DAVE / mother KINDER LORA 1914
+  I-R-1914.html: child NEWMAN LAURA / mother MCDANOL FANNIE 1914
+  I-R-1915.html: child NEWMAN GRANVILLE / mother PHILPOT EVVIA 1915
+  K-Z-1912.html: child NEWMAN GRANVILLE / mother KINDER DELORA 1912
+  K-Z-1912.html: child NEWMAN WILLIAM / mother FRY ELISA 1912
+other Dora/Ella mothers: 214
+  A-G-1916.html: child BARGO LILLIE / mother BARGO DORA 1916
+  A-G-1916.html: child BARGO ROSA / mother BARGO DORA 1916
+  A-G-1916.html: child BARNETT ESTES / mother HARRIS DORA 1916
+  A-G-1916.html: child BROOKS OREAL / mother MARTIN DORA 1916
+  A-G-1916.html: child CALLIHAM ESTES / mother HARRIS DORA 1916
+  A-G-1916.html: child CAMPBELL ELLEN / mother CAMPBELL DORA 1916
+  A-G-1916.html: child CARNS MARTIN / mother BOLDEN DORA 1916
+  A-G-1916.html: child CROSS GEORGE / mother BRANSTETER ELLA 1916
+  A-G-1917.html: child ANDERKIN RENNIE / mother BROOKS DORA 1917
+  A-G-1917.html: child BLOCK ELIJAH / mother HELTON DORA 1917
+  A-G-1917.html: child BOND BUFORD / mother HOWARD DONA 1917
+  A-G-1917.html: child BROOKS MINNIE / mother FLOYD DORA 1917
+  A-G-1917.html: child CLARK RICHARD / mother COMBS DARA 1917
+  A-G-1917.html: child CLOUSE THELMA / mother SPURLOCK DORA 1917
+  A-G-1917.html: child CROOK EMIL / mother POWDER DORA 1917
+  A-G-1917.html: child EVANS HERMON / mother HALE DONA 1917
+  A-G-1918.html: child ANDERSON WILLIAM / mother SEXTON ELLA 1918
+  A-G-1918.html: child BARGO GREEDLE / mother BARGO DORA 1918
+  A-G-1918.html: child BOWMAN GENE / mother BINGHAM ELLA 1918
+  A-G-1918.html: child BROOKS MAISIE / mother MARTIN DORA 1918
+  A-G-1918.html: child COOK DORA / mother SULFRAGE DORA 1918
+  A-G-1918.html: child DAVIS PEARL / mother MUNCY DORA 1918
+  A-G-1918.html: child GALLAGHER MARGRET / mother SPOTTS ELLA 1918
+  A-G-1918.html: child GAMBEL JAMES / mother GREY DORA 1918
+  A-G-1919.html: child ANDERKIN REVA / mother BROOKS DORA 1919
+  A-G-1919.html: child BOND OKRON / mother HOWARD DONA 1919
+  A-G-1919.html: child BUTLER COIAL / mother JONES DORA 1919
+  A-G-1919.html: child BUTLER DRUCELLA / mother JONES DORA 1919
+  A-G-1919.html: child CARNES MURDLE / mother BOULDER DORA 1919
+  A-G-1919.html: child CLARK CARRIE / mother COMBS DARA 1919
+
+== Leslie births 1911-1920 + 1921-1930 letter files ==
+files=20 data_rows~8579
+rows with Dora/Ella/Posa AND Newnam/Newman/Stone: 0
+child-front NEWMAN/NEWNAM/STONE: 1
+  1921-1930cd.txt: COATS NEWMAN 05 02 1927 MORGAN OCTONIA 071 35120 1927
+any Dora/Ella/Posa rows: 143
+  1911-1920ab.txt: BEGLEY             OSCAR                            1        10      1912 JONES              ELLA                       9         3201                1912
+  1911-1920ab.txt: BEGLEY             GEORGE                           3        20      1913 COMBS              ELLA                       31        15081               1913
+  1911-1920ab.txt: BEGLEY             MASON                            1         3      1914 JONES              ELLA                       63        31026               1942
+  1911-1920ab.txt: BEGLEY             AMANDA                           7        17      1915 MAGGARD            DORA                       124       61835               1915
+  1911-1920ab.txt: BEGLEY             ETHEL                            3        22      1916 BEGLEY             ELLA                       30        14972               1916
+  1911-1920ab.txt: BEGLEY             ELLO                             4         4      1916 COMBS              ELLA                       68        33544               1916
+  1911-1920ab.txt: BEGLEY             MARJORIE                         6         6      1916 JONES              ELLA                       186       92835               1942
+  1911-1920ab.txt: BEGLEY             FRED                             3        25      1918 BEGLEY             ELLA                       26        12542               1918
+  1911-1920ab.txt: BEGLEY             HENRY              1             4         2      1918 JONES              ELLA                       36        17911               1918
+  1911-1920ab.txt: BEGLEY             HARGIS                           6        22      1919 JONES              ELLA                       83        41327               1919
+  1911-1920ab.txt: BEGLEY             NONA                             3         1      1920 BEGLEY             ELLA                       31        15107               1920
+  1911-1920ab.txt: BEGLEY             NOLA                             9         7      1920 MAGGARD            DORA                       105       52061               1920
+  1911-1920ab.txt: BOWLING            HENRY              M             2        18      1911 CRAWFORD           ELLA                       20        7744                1911
+  1911-1920ab.txt: BRAY               LEONARD                          2        23      1913 MOSLEY             DORA                       116       57986               1942
+  1911-1920ab.txt: BRAY               ALEY               B             3         3      1915 MOSLEY             DORA                       57        28354               1916
+  1911-1920ab.txt: BRAY               AMERICA                          3         3      1915 MOSLEY             DORA                       8         3949                1945
+  1911-1920ab.txt: BRAY               FLARY                           11         9      1917 MOSLEY             DORA                       114       56685               1917
+  1911-1920ab.txt: BRAY               LAURA                           11        10      1917 BRAY               DORA                       197       92410               1979
+  1911-1920ab.txt: BRAY               BURLEY                           5        15      1920 MOSLEY             DORA                       52        25763               1920
+  1911-1920ab.txt: BROCK              CLARENCE                         3        25      1915 HOSKINS            DORA                       28        13755               1915
+  1911-1920ab.txt: BROCK              HANNAH                          11        12      1916 NORTH              DORA                       114       56658               1916
+  1911-1920ab.txt: BROCK              LEVI                             3        10      1917 HOSKINS            DORA                       28        13994               1917
+  1911-1920cd.txt: CALDWELL           WALTER                           5        18      1917 CALDWELL           DORA                       168       83752               1942
+  1911-1920cd.txt: CALDWELL           HARDIE                           4        12      1920 GROSS              DORA                       29        14111               1943
+  1911-1920cd.txt: COLLETT            PAUL                            12         3      1917 ROBERTS            DORA                       220       96879               1951
+
+== Leslie deaths 1901 + 1903-1904 ==
+1901-deaths.txt bytes=3635
+  name hits: 7
+  Melton, Mary 72, married	Sept 16	feaver	Clay	unknown
+  Melton, T H 51, married, male	Jan? 23	feaver	Clay	Preston & Mary Melton
+  Caudill, Mary 2dy	Mar 28	unknown	Perry	Wm & Delia Caudill
+  Boggs, Manda 7mn	Mar 1	unknown	Leslie	Henry & Mary J Boggs
+  Cornett, male 0	Apr 2	unknown	Leslie	H C & Ella J Cornett
+  Morris, Becca 5	Sept 4	bone eresipiles	Leslie	W B & Mary Morris
+  Wilson, female 5dy	Feb 9	croup	Leslie	Isom & Mary Wilson
+1903-1904deaths.txt bytes=5671
+  name hits: 8
+  Baker, Ida M 3	Jan 3, 04	croup	Leslie	Henry & Mary Baker
+  Brock, Mary 5mn	Sept 20, 04	unknown	Leslie	James & Sarah Brock
+  Roberts, Mary H 10mn	Sept 10, 04	bowel trouble	Leslie	C B Dixon & Sada Roberts
+  Asher, Mary 13	July 30, 04	bone scrofalus	Clay	John H & Emily Asher
+  Lewis, Olley 1	Mar 29, 04	typhoid fever	Leslie	Isaac & Mary Young [last name different]
+  Coots, Eliza J 18, single	July 7, 04	fever	Harlan	William & Mary Coots
+  Pennington, Bernard C 10mn	Oct 25, 04	burn	Leslie	Jonathan & Mary Pennington
+  Hamilton, J M 25, male, single, school teacher	May 3, 04	liver & kidney trouble	Scott Co VA	D H & Mary Hamilton
+
+== Whitley births (folder labels swapped: 1911-1920/ files hold 1921-30 years; 1921-1930/ files hold 1911-20 years) ==
+  thin/stub 1911-1920-q.html bytes=4634
+  thin/stub 1911-1920-u.html bytes=6345
+  thin/stub 1911-1920-z.html bytes=4728
+  thin/stub 1921-1930-z.html bytes=4482
+parsed_files=45 rows~9126
+MOTHER Dora/Ella/Posa + Newnam/Newman/Stone: 0
+child NEWMAN/NEWNAM/STONE: 26
+  1911-1920-n.html: child NEWMAN CATHELEEN / mother ALLEN MONA 1928
+  1911-1920-n.html: child NEWMAN CHESTER / mother MASTERS LONA 1923
+  1911-1920-n.html: child NEWMAN CHRISTINA / mother ALLEN MONA 1926
+  1911-1920-n.html: child NEWMAN EARNESTINE / mother MASTER LONA 1926
+  1911-1920-n.html: child NEWMAN GEORGIA / mother OLIVER NORA 1928
+  1911-1920-n.html: child NEWMAN MARVIN / mother WATSON IDA 1925
+  1911-1920-n.html: child NEWMAN MARY / mother MASTERS LONA 1929
+  1911-1920-n.html: child NEWMAN OWEN / mother MASTERS LONA 1928
+  1911-1920-n.html: child NEWMAN POLLIE / mother PARKER ZOLA 1930
+  1911-1920-n.html: child NEWMAN ROBERT / mother HUGHES HATTIE 1922
+  1911-1920-n.html: child NEWMAN RUTH / mother MASTERS LONA 1928
+  1911-1920-n.html: child NEWMAN VIOLET / mother STORMS EDITH 1923
+  1911-1920-n.html: child NEWMAN WESLEY / mother CAIN DOLLIE 1925
+  1911-1920-n.html: child NEWMAN WILMA / mother STORMS EDETH 1921
+  1911-1920-s.html: child STONE ALBERT / mother MAYS PEARL 1925
+  1911-1920-s.html: child STONE CLARENCE / mother RODGERS SALLIE 1925
+  1911-1920-s.html: child STONE ESTELLE / mother MAYS PEARL 1923
+  1911-1920-s.html: child STONE GENEVA / mother TOWE TESSIE 1926
+  1911-1920-s.html: child STONE JAMES / mother STONE SARAH 1923
+  1911-1920-s.html: child STONE JOHN / mother MAYS PEARL 1924
+  1911-1920-s.html: child STONE JULIAN / mother TOWE TESSIE 1924
+  1911-1920-s.html: child STONE ROBERT / mother RODGERS SARAH 1928
+  1911-1920-s.html: child STONE ROBERT / mother MAYS PEARL 1929
+  1911-1920-s.html: child STONE ROSE / mother MAYS PEARL 1927
+  1911-1920-s.html: child STONE RUBY / mother MAYS PEARL 1921
+  1911-1920-s.html: child STONE WALTER / mother GRACE MIRTLE 1927
+other Dora/Ella mothers: 151
+  1911-1920-a.html: child ASHEY DORTHY / mother COPELAND DORA 1925
+  1911-1920-b.html: child BAKER HERBERT / mother BAKER ELLA 1928
+  1911-1920-b.html: child BAKER LEDFORD / mother JONSON ELLA 1926
+  1911-1920-b.html: child BARTON CECIL / mother MITCHELL DORA 1924
+  1911-1920-b.html: child BARTON STANLEY / mother MITCHELL DORA 1930
+  1911-1920-b.html: child BENNETT ALTHA / mother PEACE ELLA 1925
+  1911-1920-b.html: child BENNETT BENJAMIN / mother WAGOWS DORA 1922
+  1911-1920-b.html: child BENNETT HENRY / mother PEACE ELLA 1923
+  1911-1920-b.html: child BENNETT LOU / mother PEACE ELLA 1921
+  1911-1920-b.html: child BRAY CARL / mother SILCOX DORA 1926
+  1911-1920-b.html: child BRAY CHRISTINE / mother CHILDRESS ELLA 1925
+  1911-1920-b.html: child BRAY DOROTHY / mother SILCOX DORA 1929
+  1911-1920-b.html: child BRAY HUGH / mother SILCOX DORA 1929
+  1911-1920-b.html: child BRAY LAWRENCE / mother CHILDRESS ELLA 1926
+  1911-1920-b.html: child BRAY ORBIN / mother CHILDERS ELLA 1930
+  1911-1920-b.html: child BRAY PEARL / mother SILCOX DORA 1924
+  1911-1920-b.html: child BROOKS HAZEL / mother MARTIN DORA 1930
+  1911-1920-b.html: child BROOM BARBARA / mother HOUSER DORA 1930
+  1911-1920-b.html: child BROYLES MORRIS / mother CROLEY DORA 1924
+  1911-1920-b.html: child BRYANT ALMA / mother UMFLEET DORA 1925
+  1911-1920-b.html: child BRYANT CECIL / mother SILER DORA 1928
+  1911-1920-b.html: child BRYANT CHARLES / mother UMFLEET DORA 1928
+  1911-1920-b.html: child BRYANT HAZEL / mother HUMPFLEET DORA 1921
+  1911-1920-b.html: child BRYANT HILLIE / mother HUMFLEET DORA 1923
+  1911-1920-b.html: child BRYANT JENEVIEVE / mother SILER DORA 1923
+  1911-1920-b.html: child BRYANT MILTON / mother SILER DARA 1921
+  1911-1920-b.html: child BRYANT RACHEL / mother SILES DORA 1930
+  1911-1920-b.html: child BRYANT RACHEL / mother RICR ELLA 1924
+  1911-1920-b.html: child BRYANT ROBERT / mother UMFLEET DORA 1926
+  1911-1920-b.html: child BUNCH IVA / mother SMITH DORA 1926
+
+== Whitley deaths 1900-1929 letter files ==
+files=25 death name hits (Newman/Stone/Dora/Ella/Mary/Smallwood): 125
+  1900-c.html: CADDELL | MARY |  | 09 | 07 | 22 | 047 | 035 | 17046
+  1900-c.html: CAMPBELL | MARY |  | 15 | 09 | 19 | 082 | 054 | 26623
+  1900-c.html: CAMPBELL | MARY | L | 22 | 01 | 29 | 001 | 010 | 04805
+  1900-c.html: CAPS | MARY |  | 07 | 08 | 12 | 001 | 053 | 21114
+  1900-c.html: CARLSON | MARY |  | 07 | 10 | 12 | 060 | 067 | 26767
+  1900-c.html: CARR | MARY |  | 13 | 01 | 27 | U | 1 | 025
+  1900-c.html: CARR | MARY | M | 20 | 05 | 25 | U | 1 | 027
+  1900-c.html: CARROLL | MARY | A | 19 | 12 | 28 | 073 | 066 | 32640
+  1900-c.html: CHAMBERS | DORA | A | 22 | 06 | 16 | 001 | 034 | 16661
+  1900-c.html: CHANDLER | MARY |  | 21 | 01 | 17 | 059 | 007 | 03006
+  1900-c.html: CHILDRESS | MARY |  | 11 | 04 | 26 | U | 1 | 024
+  1900-c.html: COMSTOCK | MARY | E | 23 | 10 | 08 | 068 | 033 | 16353
+  1900-c.html: COX | MARY |  | 23 | 09 | 23 | 071 | 017 | 08046
+  1900-c.html: COX | MARY | A | 05 | 08 | 11 | 030 | 056 | 22272
+  1900-c.html: COX | MARY | M | 26 | 05 | 14 | 001 | 029 | 14295
+  1900-d.html: DAVENPORT | MARY |  | 19 | 03 | 20 | U/1 | 021 | 10267
+  1900-d.html: DAVIS | MARY |  | 07 | 04 | 18 | 027 | 030 | 14669
+  1900-d.html: DAVIS | MARY |  | 12 | 01 | 25 | 074 | 006 | 02686
+  1900-d.html: DAVIS | MARY | E | 30 | 10 | 18 | U/1 | 063 | 31461
+  1900-d.html: DAVIS | MARY | E | 03 | 02 | 23 | 065 | 014 | 06543
+  1900-d.html: DAVIS | MARY | E | 06 | 11 | 17 | 064 | 064 | 31874
+  1900-d.html: DEAVENPORT | MARY | J | 25 | 06 | 12 | 042 | 053 | 21193
+  1900-d.html: DESERT | MARY | S | 21 | 04 | 24 | 029 | 022 | 10616
+  1900-d.html: DODD | MARY | E | 04 | 04 | 16 | 078 | 024 | 11806
+  1900-d.html: DUPERY | MARY |  | 10 | 09 | 22 | 062 | 043 | 21079
+  1900-e.html: EAGLE | MARY |  | 11 | 05 | 16 | 085 | 029 | 14165
+  1900-e.html: EAGLE | MARY | C | 01 | 09 | 20 | U/1 | 048 | 23579
+  1900-e.html: EARLS | MARY |  | 03 | 07 | 27 | 074 | 035 | 17171
+  1900-e.html: EARLY | MARY |  | 15 | 01 | 23 | 081 | 007 | 03325
+  1900-e.html: EARLY | MARY |  | 12 | 12 | 12 | 002 | 081 | 32295
+  1900-e.html: EATON | MARY |  | 28 | 11 | 26 | 017 | 060 | 29815
+  1900-e.html: EAVONS | DORA |  | 11 | 04 | 19 | 18 | U/1 | 025
+  1900-e.html: EDWARDS | MARY | W | 13 | 01 | 19 | 29 | 021 | 010
+  1900-e.html: ELLISON | MARY | E | 10 | 12 | 19 | 25 | 058 | 062
+  1900-f.html: FEATHER | MARY | C | 04 | 01 | 27 | 055 | 010 | 04889
+  1900-f.html: FOX | ELLA | C | 19 | 01 | 28 | 077 | 006 | 02772
+  1900-f.html: FRALEY | MARY | E | 25 | 09 | 22 | 037 | 059 | 29057
+  1900-f.html: FRISBY | MARY |  | 24 | 05 | 16 | 065 | 029 | 14160
+  1900-f.html: FROST | MARY |  | 17 | 09 | 25 | 061 | 047 | 23017
+  1900-f.html: FULLERTON | MARY | A | 01 | 05 | 27 | 079 | 025 | 12105
+  1900-f.html: FUSON | MARY |  | 18 | 03 | 24 | 074 | 017 | 08052
+  1900-f.html: FUSTON | DORA |  | 22 | 02 | 21 | 021 | 009 | 04485
+  1900-g.html: GANT | MARY | K | 12 | 01 | 25 | 002 | 006 | 02657
+  1900-g.html: GIBBS | ELLA | M | 03 | 01 | 21 | U/1 | 005 | 02405
+  1900-g.html: GILLIAM | MARY |  | 29 | 11 | 23 | 073 | 059 | 29323
+  1900-g.html: GILLON | MARY |  | 26 | 04 | 15 | 022 | 028 | 13876
+  1900-g.html: GOLDEN | MARY |  | 03 | 01 | 17 | 004 | 007 | 03026
+  1900-g.html: GREEN | MARY | E | 02 | 08 | 14 | 041 | 045 | 22384
+  1900-g.html: GREGORY | MARY | E | 31 | 07 | 23 | U/1 | 040 | 19655
+  1900-g.html: GUINN | ELLA |  | 20 | 10 | 18 | 023 | 063 | 31446
+
+== Knox death index 1911-1955 letters D/N/S ==
+hits: 69
+  deathindexd.html: DAVIDSON | ELLA | 1922 | 3 | 22 | U/1 | 7158 yr=1922
+  deathindexd.html: DEAN | DORA | 1945 | 12 | 21 | 78 | 1621 yr=1945
+  deathindexd.html: DUFFMAN | STELLA | 1938 | 10 | 22 | 23 | 25260 yr=1938
+  deathindexn.html: NEWMAN | AMERICA | 1938 | 4 | 4 | 92 | 9814 yr=1938
+  deathindexn.html: NEWMAN | AXIE | 1928 | 2 | 18 | 36 | 4486 yr=1928
+  deathindexn.html: NEWMAN | BETTY | 1952 | 4 | 8 | U/1 | 7988 yr=1952
+  deathindexn.html: NEWMAN | D | 1926 | 7 | 26 | U/1 | 18276 yr=1926
+  deathindexn.html: NEWMAN | DELORA | 1929 | 1 | 16 | 31 | 3137 yr=1929
+  deathindexn.html: NEWMAN | DEWEY | 1928 | 1 | 15 | 26 | 1845 yr=1928
+  deathindexn.html: NEWMAN | EDITH | 1939 | 6 | 21 | 30 | 23106 yr=1939
+  deathindexn.html: NEWMAN | ELIZABETH | 1924 | 1 | 21 | 90 | 1646 yr=1924
+  deathindexn.html: NEWMAN | EUWEL | 1926 | 10 | 1 | 3 | 26007 yr=1926
+  deathindexn.html: NEWMAN | FANNIE | 1952 | 4 | 5 | 74 | 7991 yr=1952
+  deathindexn.html: NEWMAN | GEORGE | 1924 | 2 | 1 | U/1 | 4364 yr=1924
+  deathindexn.html: NEWMAN | GEORGE | 1940 | 11 | 25 | 70 | 26588 yr=1940
+  deathindexn.html: NEWMAN | HENRY | 1938 | 11 | 9 | 85 | 27897 yr=1938
+  deathindexn.html: NEWMAN | JENNY | 1937 | 7 | 15 | 67 | 19130 yr=1937
+  deathindexn.html: NEWMAN | JESSE | 1911 | 11 | 24 | 45 | 29029 yr=1911
+  deathindexn.html: NEWMAN | JOHN | 1918 | 11 | 7 | 50 | 34993 yr=1918
+  deathindexn.html: NEWMAN | JOSEPH | 1913 | 4 | 7 | 70 | 10773 yr=1913
+  deathindexn.html: NEWMAN | MAGGIE | 1928 | 10 | 6 | 72 | 25678 yr=1928
+  deathindexn.html: NEWMAN | MATTIE | 1923 | 12 | 1 | 17 | 31100 yr=1923
+  deathindexn.html: NEWMAN | PETER | 1946 | 1 | 30 | 69 | 1932 yr=1946
+  deathindexn.html: NEWMAN | REVA | 1919 | 2 | 11 | U/1 | 6998 yr=1919
+  deathindexn.html: NEWMAN | SAMUEL | 1915 | 1 | 6 | 83 | 1927 yr=1915
+  deathindexn.html: NEWMAN | SARAH | 1927 | 12 | 11 | 29 | 28584 yr=1927
+  deathindexn.html: NEWMAN | SMITH | 1917 | 7 | 21 | 67 | 20240 yr=1917
+  deathindexn.html: NEWMAN | WILLIAM | 1924 | 4 | 4 | 12 | 9728 yr=1924
+  deathindexn.html: NEWMAN | WILLIAM | 1925 | 4 | 11 | U/1 | 10016 yr=1925
+  deathindexn.html: NEWMAN | WILLIAM | 1932 | 11 | 18 | 78 | 26537 yr=1932
+  deathindexn.html: NORRILL | LOUELLA | 1919 | 5 | 6 | U/1 | 16642 yr=1919
+  deathindexs.html: SHARP | STELLA | 1945 | 10 | 1 | 65 | 21812 yr=1945
+  deathindexs.html: SHELTON | DORA | 1935 | 2 | 3 | U/1 | 4660 yr=1935
+  deathindexs.html: SHORES | DELLA | 1913 | 10 | 6 | U/1 | 27438 yr=1913
+  deathindexs.html: SMALLWOOD | ALEX | 1946 | 12 | 26 | 37 | 26838 yr=1946
+  deathindexs.html: SMALLWOOD | BARBARA | 1946 | 7 | 12 | 1 | 15922 yr=1946
+  deathindexs.html: SMALLWOOD | CHARLES | 1937 | 4 | 24 | U/1 | 19136 yr=1937
+  deathindexs.html: SMALLWOOD | CHARLES | 1937 | 4 | 24 | U/1 | 19137 yr=1937
+  deathindexs.html: SMALLWOOD | ELIZABETH | 1937 | 12 | 21 | U/1 | 9833 yr=1937
+  deathindexs.html: SMALLWOOD | IRENE | 1929 | 10 | 16 | U/1 | 26962 yr=1929
+  deathindexs.html: SMALLWOOD | J | 1940 | 12 | 26 | U/1 | 29284 yr=1940
+  deathindexs.html: SMALLWOOD | JASPER | 1933 | 12 | 19 | 64 | 29692 yr=1933
+  deathindexs.html: SMALLWOOD | JOHN | 1932 | 3 | 27 | 73 | 6832 yr=1932
+  deathindexs.html: SMALLWOOD | JOHN | 1932 | 3 | 25 | 74 | 6829 yr=1932
+  deathindexs.html: SMALLWOOD | JOHN | 1948 | 12 | 7 | 78 | 27412 yr=1948
+  deathindexs.html: SMALLWOOD | JUNIOR | 1932 | 8 | 26 | 4 | 19558 yr=1932
+  deathindexs.html: SMALLWOOD | LIDA | 1926 | 1 | 22 | U/1 | 2062 yr=1926
+  deathindexs.html: SMALLWOOD | MARSHALL | 1911 | 3 | 1 | U/1 | 4233 yr=1911
+  deathindexs.html: SMALLWOOD | MARY | 1937 | 7 | 8 | 33 | 19142 yr=1937
+  deathindexs.html: SMALLWOOD | MARY | 1943 | 11 | 10 | 27 | 25068 yr=1943
+  deathindexs.html: SMALLWOOD | MARY | 1951 | 4 | 7 | U/1 | 10245 yr=1951
+  deathindexs.html: SMALLWOOD | NANCY | 1935 | 4 | 23 | 37 | 10220 yr=1935
+  deathindexs.html: SMALLWOOD | RUTH | 1933 | 8 | 20 | U/1 | 19413 yr=1933
+  deathindexs.html: SMALLWOOD | SARAH | 1942 | 9 | 28 | 74 | 1863 yr=1942
+  deathindexs.html: SMALLWOOD | SIDNEY | 1937 | 12 | 30 | U/1 | 9832 yr=1937
+  deathindexs.html: SMALLWOOD | VIRGINA | 1937 | 12 | 31 | U/1 | 9836 yr=1937
+  deathindexs.html: SMALLWOOD | WALTER | 1939 | 1 | 24 | 44 | 13196 yr=1939
+  deathindexs.html: SMALLWOOD | WILLIAM | 1911 | 4 | 18 | 35 | 10207 yr=1911
+  deathindexs.html: SMALLWOOD | WM | 1927 | 7 | 29 | 75 | 16291 yr=1927
+  deathindexs.html: SMITH | DELLA | 1927 | 1 | 20 | 20 | 1739 yr=1927
+
+== Breathitt births 1911-1920 year files + 1902-1910 list (mother field) ==
+data_rows~11437
+MOTHER Dora/Ella/Posa + Newnam/Newman/Stone: 0
+child NEWMAN/NEWNAM/STONE: 5
+  1912.html: child STONE EFFIE / mother 125 49918
+  1912.html: child STONE RALPH / mother 120 47815
+  1913.html: child STONE ERNIE / mother 121 60008
+  1914.html: child STONE HENRY / mother 21 10233
+  1915.html: child STONE BULEY / mother 52 25683
+other Dora/Ella mothers: 8
+  birth_list: child ANGEL Thomas / mother ROBERTS Dora
+  birth_list: child DEATON Rose / mother DEATON Dora 237 49530
+  birth_list: child JOHNSON Josephn / mother GRIFFITH Dora 207 48350
+  birth_list: child JOHNSON Wilton C / mother GRIFFITH Dora 213 48580
+  birth_list: child NEACE Elvin / mother CAMPBELL Ella 229 49209
+  birth_list: child SANDLIN Jerry / mother HELTON Ella 241 49698
+  birth_list: child SANDLIN Kash / mother HELTON Ella 188 47568
+  birth_list: child TERRY Addie / mother BARRETT Dora 248 49965
+
+== Bell-hosted birth letter files 1911_* + 1921_n/s (mother field; years span beyond filename) ==
+data_rows~13494
+years_in_body=['1911', '1912', '1913', '1914', '1915', '1916', '1917', '1918', '1919', '1920', '1921', '1922', '1923', '1924', '1925', '1926', '1927', '1928', '1929', '1930']
+MOTHER Dora/Ella/Posa + Newnam/Newman/Stone: 0
+child NEWMAN/NEWNAM/STONE: 18
+  1911_n.htm: child NEWMAN MARY / mother EMMS ROXIE 1918
+  1911_n.htm: child NEWMAN WORTHINGTON / mother TERRELL SALLIE 1911
+  1911_s.htm: child STONE CHARLES / mother PARSONS BESSIE 1916
+  1911_s.htm: child STONE DON / mother MINK FLORA 1916
+  1911_s.htm: child STONE DOROTHY / mother PARSONS BESSIE 1914
+  1911_s.htm: child STONE KENNETH / mother PARSONS BESSIE 1920
+  1911_s.htm: child STONE MARSIER / mother PARSONS BESSIE 1912
+  1921_n.htm: child NEWMAN CARL / mother BROWN LILLIE 1924
+  1921_n.htm: child NEWMAN LILLIAN / mother BOWMAN LILLIE 1925
+  1921_n.htm: child NEWMAN ROBERT / mother BREWER LILLIE 1924
+  1921_s.htm: child STONE CLYDE / mother DAYLER STELLA 1924
+  1921_s.htm: child STONE EMMA / mother MINK FLORA 1926
+  1921_s.htm: child STONE HOWARD / mother LEGIONS STELLA 1923
+  1921_s.htm: child STONE JACK / mother MINKE FLORA 1922
+  1921_s.htm: child STONE JOHN / mother GREEN EDITH 1925
+  1921_s.htm: child STONE JOHN / mother MILLER MARRY 1927
+  1921_s.htm: child STONE ROBERT / mother SMYTH NANCY 1927
+  1921_s.htm: child STONE SARAH / mother PARSON BESS 1922
+other Dora/Ella mothers: 291
+  1911_a.htm: child ADAMS DARCIA / mother CALLOWAY DORA 1917
+  1911_a.htm: child AYERS NANCY / mother COX DORA 1914
+  1911_a.htm: child AYLES RUTH / mother MATHIS DORA 1920
+  1911_b.htm: child BAKER FANETTE / mother BAKER ELLA 1919
+  1911_b.htm: child BAKER WILLIAM / mother NELSON DORA 1915
+  1911_b.htm: child BARLOW DESSIE / mother INGRAM DORA 1920
+  1911_b.htm: child BARLOW FREDERIC / mother INGRAM DORA 1917
+  1911_b.htm: child BARLOW JAY / mother INGRAM DORA 1918
+  1911_b.htm: child BARLOW MARY / mother INGRAM DARA 1916
+  1911_b.htm: child BINGHAM RALO / mother WILLER DORA 1918
+  1911_b.htm: child BLACK CHARLES / mother OXINDINE DORA 1914
+  1911_b.htm: child BLACK CLARICE / mother NICHOLSON ELLA 1913
+  1911_b.htm: child BLESSING OSCAR / mother SMITH DORA 1918
+  1911_b.htm: child BRACK CLARA / mother BRACK DONA 1920
+  1911_b.htm: child BROCK EDNA / mother BROCK DONA 1918
+  1911_b.htm: child BROCK LAWRENCE / mother BROCK DONA 1914
+  1911_b.htm: child BROOKS CHARLES / mother BAKER DORA 1919
+  1911_b.htm: child BROOKS CHARLIE / mother BOSTON DORA 1919
+  1911_b.htm: child BROOKS HELENA / mother BAKER DORA 1915
+  1911_b.htm: child BROOKS MARGARITE / mother BAKER DORA 1917
+  1911_b.htm: child BROOKS RAMAN / mother TENSON ELLA 1911
+  1911_b.htm: child BRUNER TENNIS / mother BENNETT ELLA 1914
+  1911_b.htm: child BRYCE MARIE / mother SLUSHER DORA 1914
+  1911_b.htm: child BURCHETT NELLIE / mother GILBERT ELLA 1914
+  1911_b.htm: child BUTLER ALBERTA / mother JONES DORA 1913
+  1911_b.htm: child BUTLER ARGEN / mother JONES DORA 1915
+  1911_c.htm: child CAMPBELL CORA / mother YEARY DORA 1920
+  1911_c.htm: child CAMPBELL CURNIA / mother JENNY DORA 1915
+  1911_c.htm: child CAMPBELL MAGGIE / mother YEARY DORA B12081977 1918
+  1911_c.htm: child CAPPS FRED / mother PHILLIPS DORA 1919
+
+== Bell-hosted death letter files D/N/S ==
+hits: 22
+  deaths_d.htm: DAVIES | STELLA | M | 014 | 06689 | 03 | 15 | 23 | U/1
+  deaths_d.htm: DAVIS | DELLA |  | 077 | 30429 | 12 | 28 | 11 | 036
+  deaths_d.htm: DAVIS | STELLA | C | 019 | 09401 | 04 | 02 | 13 | 002
+  deaths_d.htm: DOZYER | STELLA |  | 022 | 08488 | 03 | 09 | 11 | U/1
+  deaths_n.htm: NEWMAN | H | A | 060 | 29528 | 23 | 11 | 21 | 030 | 23
+  deaths_n.htm: NEWMAN | ROBERT | T | 049 | 24088 | 24 | 11 | 22 | U/1 | 24
+  deaths_n.htm: NEWMAN | TRULA | C | 001 | 00091 | 22 | 01 | 14 | 039 | 22
+  deaths_n.htm: NOE | STELLA |  | 063 | 24887 | 11 | 10 | 09 | U/1 | 11
+  deaths_s.htm: SELLARS | HARRY |  | 019 | 09219 | 18 | 04 | 17 | 013 | 18
+  deaths_s.htm: SMALLWOOD | ARTHUR |  | 054 | 26726 | 17 | 10 | 15 | 018 | 17
+  deaths_s.htm: SMALLWOOD | ELZY |  | 065 | 32048 | 17 | 11 | 30 | 004 | 17
+  deaths_s.htm: SMALLWOOD | EMMY |  | 055 | 27053 | 26 | 04 | 25 | U/1 | 26
+  deaths_s.htm: SMITH | DORA | E | 001 | 00459 | 14 | 01 | 09 | U/1 | 14
+  deaths_s.htm: SPENCER | DELLA |  | 047 | 23444 | 22 | 08 | 20 | U/1 | 22
+  deaths_s.htm: STEEL | ELLA | M | 007 | 03182 | 18 | 02 | 09 | U/1 | 18
+  deaths_s.htm: STONE | DON | E | 054 | 26706 | 17 | 10 | 28 | 001 | 17
+  deaths_s.htm: STONE | EMMA | K | 011 | 05432 | 27 | 12 | 25 | U/1 | 28
+  deaths_s.htm: STONE | JOHN |  | 076 | 37572 | 18 | 10 | 29 | 027 | 18
+  deaths_s.htm: STONER | CHARLES | M | 015 | 07108 | 21 | 04 | 14 | 028 | 21
+  deaths_s.htm: STONER | CHARLES | W | 024 | 11554 | 21 | 06 | 09 | U/1 | 21
+  deaths_s.htm: SUTTON | DORA |  | 049 | 24379 | 27 | 11 | 30 | 031 | 27
+  deaths_s.htm: SWIFT | JELLA | A | 030 | 14631 | 16 | 06 | 13 | 017 | 16
+
+== Jackson KY submitted births (partial) + marr A-B / N-P / S ==
+Jackson birth Newnam/Stone or Dora×those: mothers=0 other=7
+  DORA/ELLA births-jl.htm: Johnson, Etta Mae | April 21, 1907 | Clemmons, Sarah Dora
+  DORA/ELLA births-jl.htm: Johnson, Willie Clifford | October 31, 1909 | Clemmons, Sarah Dora
+  DORA/ELLA births-jl.htm: Johnson, Hattie Ann | September 18, 1912 | Clemmons, Sarah Dora
+  DORA/ELLA births-jl.htm: Johnson, Tommie Amos | November 6, 1914 | Clemmons, Sarah Dora
+  DORA/ELLA births-jl.htm: Johnson, Viola | October 14, 1916 | Clemmons, Sarah Dora
+  DORA/ELLA births-jl.htm: Johnson, Virgie Marie | February 3, 1921 | Clemmons, Sarah Dora
+  DORA/ELLA births-mp.htm: McCollum, Bee | October 2, 1914 | Lakes, Dora JAne
+Jackson marr name hits: 1
+  jackson-marr-ab-2026-10-31.html:  | A Abner Andrew - - - - Willis, Orpha 6-17-1911 Charles - - - - Kirby, Sarah Ann 4-22-1887 David - - - - Lainhart, Sarilda J. 6-12-1885 David - - - - Dickson, Alice aft. 1895 Elijah - - - - Lainhart
+
+== Wolfe births/marr (submitter extract: ROSE / INGRAM / NICKELL only) ==
+wolfe-births-2026-10-31.html bytes=98226 NEWMAN=0 STONE=0 DORA=2
+   Dora Crain<span style="mso-tab-count:
+   Dora Rose,&nbsp; Wolfe 
+wolfe-marr-2026-10-31.html bytes=80462 NEWMAN=0 STONE=0 DORA=0
+wolfe-deaths-2026-10-31.html bytes=25706 NEWMAN=0 STONE=0 DORA=0
+
+== env / DAS ==
+FAMILYSEARCH/ANCESTRY env empty. T624-66 not opened. DAS not re-hit.
+
+== residual ==
+Bell 1921 remaining letters unpublished this pass; Jackson A-B births unpublished; Knox 1911 unpublished; Whitley V 404 on virths-v; Breathitt 1921-25 not posted as year files.
+Next hosts: remaining Bell 1921 letters / Jackson remaining marr letters / Harlan / signed-in T624-66 if credentials appear / B057.

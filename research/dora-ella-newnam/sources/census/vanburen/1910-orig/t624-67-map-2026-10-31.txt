@@ -1,0 +1,47 @@
+# Extract — IA 13thcensus1910po0067unit title cards + sampled headers
+# 31 Oct 2026. Image seen (title cards + header crops). PDF NOT downloaded.
+
+Catalog (IA metadata + NARA T624 pamphlet): "Reel 67. Washington and White Counties."
+Identifier: 13thcensus1910po0067unit
+https://archive.org/details/13thcensus1910po0067unit
+imagecount: 1418. PDF size in metadata: 305,166,846 bytes — not fetched.
+
+## Title cards actually on this scan
+n1:  "Washington Partent / 1-253" (lab card)
+  saved: t624-67-n001-washington-part-card.jpg
+n2:  "13TH CENSUS 1910 ARKANSAS — Vol. 65 — Washington Partent — 1-253"
+  saved: t624-67-n002-vol65-washington-title.jpg
+n3:  handwritten slip "Washington"
+  saved: t624-67-n003-washington-label.jpg
+
+## Sampled population headers (IA page/n{N}.jpg = 0-based leaf)
+n4    Washington Co. — Springfield? Twp — enumerated 15 April 1910
+n400  Washington Co. — Prairie Grove Twp — ED ~141 sheet 17-A — 28 April 1910
+n700  White Co. — West Point? Twp — supervisor 2 / ED ~157
+n1410 White Co. — ED 173 sheet 7-B
+n1416 near reel end (White still)
+
+## Van Buren
+No Van Buren County title card and no Van Buren township header on the
+sampled leaves. Reel 67 is Washington (Vol. 65 part) then White.
+
+Bound-volume sequence seen across IA Arkansas 1910 scans this case:
+  Vol. 31 Jefferson (part) — reel 54 n1 (t624-54-n001-…)
+  Vol. 48 Poinsett / Prairie 1-301 — reel 61 n1 (t624-61-n001-…)
+  Vol. 62 Sevier — reel 66 n1 (prior pass)
+  Vol. 63 Union (part) — reel 66 n370 (prior pass)
+  Vol. 65 Washington (part) — reel 67 n2
+Vol. 64 was not seen on reels 66 or 67. It may be Union remainder and/or
+Van Buren; that is a volume-number inference, not a title-card reading.
+
+## Retrieval for Van Buren 1910 originals (not this IA object)
+NARA pamphlet + US-census.org + IA collection blurb all list Van Buren on
+T624 roll 66 with Sevier and Union. The ACPL/IA scan of roll 66
+(13thcensus1910po0066unit) is Sevier + Union (part) only (C1431 / S369).
+Complete copy: NARA T624 roll 66; FamilySearch coll. 1727033 browse
+Arkansas → Van Buren County (account; VM 403); Ancestry coll. 7884 browse
+Arkansas → Van Buren (VM 403). T1224 roll 28 (1910 AR ED descriptions)
+not found as a free IA item this pass. FHL film number not verified —
+do not invent one.
+
+Do not re-download po0066 or po0067 PDFs.

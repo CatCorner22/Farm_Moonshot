@@ -1,0 +1,23 @@
+# Extract — Van Buren Co. AR 1920 Union after 158b (B073)
+# 31 Oct 2026. ARGenWeb vanburen/Census/1920/. Transcription only.
+# Did not refetch Union.htm / union1–9 (149a–158b) or other 1920 VB townships.
+
+## Files
+1920union10.htm  200  — pages 158b (cont.) / 159a / 159b. Next → union11.
+1920union11.htm  200  — pages 159b (cont.) / 160a / 160b. No next link.
+1920union12.htm  404
+
+Last posted household on union11 p.160b: Griffith, Riley L. 40 Ill + Bessie 35 Ill + children
+(dw 236 / fam 263). No “here ends” line on the extract.
+
+## Hunt (Dora / Ella / Posa / Nora / Cora / Stone / Newman ~48)
+union10 p.159a dw 206/233: Carroll, John 30 Ar + Nora wife 23 Ar/Ar/Ar + Jettie M. 1
+union11 p.160a dw 223: Roberts, Jake + Rosa L. wife 18 Tn
+union11 p.160a dw 226: Lossing,? Fred C. + Dona? F. dau 6 Tx
+No Stone / Newman / Newnam row.
+No Dora / Ella ~45–52.
+
+## Verdict
+Posted Union rural continuation after 158b = 159a–160b. Nil P001.
+union12 unpublished. Combined with Union 149a–158b (B072) the posted Union
+extract now ends at 160b.

@@ -1,0 +1,37 @@
+# Extract — year-hole hosts Cleburne / Searcy / Stone Co. AR (B073)
+# 31 Oct 2026. New hosts (not previously logged). Did not repeat Logan/Faulkner/Yell
+# catalogs, C335/C349 Solr, Conway Z, or logged phone.
+
+## Cleburne (cut from Van Buren 1883; Heber Springs)
+https://www.argenweb.net/cleburne/                 200
+https://www.argenweb.net/cleburne/census.htm       404
+https://www.argenweb.net/cleburne/census.html      200
+  Posted: Big Creek Township **1900**; “Blacks in the 1900 census”; **1930** (not complete).
+  **No** 1910 or 1920 transcript.
+https://www.argenweb.net/cleburne/marriages.html   200
+  1883–1890 USGW archives file (before her widowhood).
+  Miscellaneous marriages **1924–1928** → files.usgwarchives.net/.../miscmar1.txt
+  One try: **timeout 0 bytes**. Not retried.
+
+## Searcy (north of Van Buren)
+https://www.argenweb.net/searcy/                   200
+https://www.argenweb.net/searcy/census.htm         404
+https://www.argenweb.net/searcy/census.html        404
+https://www.argenweb.net/searcy/resources.html     200
+  Census links: 1840 / 1850 / 1860 / 1870 / 1880 / **1900** indexes.
+  **No** 1910 or 1920. A 1910s Layton daily-life article is not a name index.
+
+## Stone County AR
+https://www.argenweb.net/stone/                    200  (Word HTML landing)
+https://www.argenweb.net/stone/census.htm          404
+https://www.argenweb.net/stone/census.html         404
+https://www.argenweb.net/stone/marriages.html      200  submitted list
+  Dora SUTTERFIELD × W.B. MANES 11 Jul 1896 (listed twice, groom/bride order).
+  **Rejected** as P001 (1896; she is Samuel’s wife at Sturgeon 1900).
+  **No** Newnam / Newman party; **no** Stone groom 1920–25 on that submitted list.
+  Not a complete county book.
+
+## Verdict
+Cleburne / Searcy / Stone free catalogs have **no** 1910 or 1920 population
+transcript that could place P001. Stone submitted marriages do not name her.
+Cleburne 1924–28 archive file unread (timeout) → B074 residual.

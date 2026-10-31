@@ -1,0 +1,85 @@
+# Extract — White Co. AR named 1910 / 1920 township bodies (pass 76 / B076)
+# 31 Oct 2026. Transcription only (Wendy Berry / David Dawson / WCHS).
+# Base: https://www.argenweb.net/white/census/
+# Variants: Dora/posa/dosa/rosa/dona/dara/Ella × Newnam/Newman/Stone;
+# Mrs Stone / Mrs Newman; Soundex N550 / S350.
+# Did not treat transcription.htm placeholders as bodies.
+
+## 1910 named files opened (Dist. 150–173 subset that has a real filename)
+Albion Township (full hh) — Dist. 150
+  hh 135 Gray, Ella 39 f w AR/SC/TN + nieces/nephews Angie 21 / Walter 19 / Jewel 17.
+    Rejected (surname Gray; nieces not Pearl/Coy).
+  hh 139 Baker, William 18 farmer + Dora 18 wife AR/IL/AR. Rejected (age 18).
+  hh 154 Reese, David + Rosa 30 wife AL + Annie/Lucille/Gertrude/Arthur. Rejected (Rosa 30 AL).
+  Ella ? dau; Ella 22 wife — other houses, too young / not Newman.
+Marion Township (full hh) — Dist. 150
+  hh 112 Booker, John 33 night watchman AL + Dora 30 wife AR/TN/AR + Myrtle 6 /
+    S???? 4 / Marion 4/12 + Lawrence, Carthel 13 stepson. Rejected.
+  hh 119 Oliver, John W 35 + Dona 20 wife MO. Rejected (age 20).
+  hh 120 Harrison, George 44 + Dora 2/12 dau. Infant. Rejected.
+Antioch (heads-only alpha) — Dist. 151. Nil Newman/Newnam/Stone/Dora.
+Coffey Township (full hh) — Dist. 151. Transcribed by Wendy Barry. Nil those strings.
+Bald Knob file 1910_Bald_Knob.html — Dist. 152. Title tag 1910; H1 says 1920.
+  Heads-only alpha. HUDGNS STELLA / WOODS ROSA only. Nil Newman/Stone/Dora.
+  Compiler year conflict noted; treated as the file the 1910 index linked.
+Big Creek (heads-only) — Dist. 153. Nil Newman/Stone/Dora.
+Clay (heads-only) — Dist. 153. NEWMAN COLUMBUS G 42 M W AR; NEWMAN DANIEL W 44 M W AR.
+  Local male heads. No Dora Newman.
+Coldwell (full hh table) — Dist. 157.
+  hh 48 Taylor, Andrew J. 37 + Dora E. dau 15; Ella A. dau 6. Rejected (children).
+  Lucas, William G. 49 + Dora A. wife 54 AL 0-0. Rejected (age 54; b. AL).
+  hh 82 William A. + Dora B. dau 9. Rejected (child).
+Velvet Ridge (body) — Dist. 157. Nil those strings.
+Union (heads-only) — Dist. 172–173. JOHNSON ELLA / PRICE ELLA / DUGGER JOVELLA /
+  DAVID ROSA / HOWARD ROSA / ROBINSON ROSA / SMITH ROSA. No Newman/Stone/Dora.
+
+1910 nil P001 on every named file. Zero Stone person-rows. Newman = Clay pair only.
+
+1910 still unpublished (transcription.htm or no href): Dist. 154 Cadron & Gravel Hill;
+155 Cane; 156 Cleveland & Royal; 158 Denmark & Jackson (no href); 159 Des Arc;
+160 Dogwood & Walker; 161 El Paso & Jefferson; 162 Gray; 163 Searcy; 164–165
+Higginson / Gum Springs; 166–167 Harrison; 168 Kentucky & Marshall; 169 Liberty;
+170 Negro Hill & Red River; 171 Russell.
+
+## 1920 named files opened (27)
+Albion, Marion, Letona, Antioch, Coffey, Bald Knob Twp, Bald Knob Town,
+Big Creek, Pangburn Town, Clay, Cadron, North Cadron, Gravel Hill, Cane,
+Des Arc, Chrisp, Cleveland, Royal, Coldwell, Velvet Ridge, Crosby, El Paso,
+Gum Springs, Higginson Twp, Higginson Town, Kensett, Marshall.
+
+Newman / Stone rows:
+  Marshall heads: Newman, Calanbus 52; Newman, Danuel W. 53 (same Clay cluster).
+  Bald Knob Town hh 197-209: Newman, Jacob E. salesman 43 AR + Willie L wife 40.
+  Cadron hh 124-128: Newman, G.R. farmer 55 TN + Ina wife 47 IL.
+  Cane hh 1-1: Strayhorn, A.J. 52 + Mary A. 51; given name Newman, son 28 AR
+    (not a Newman surname head).
+  Clay hh 329-337: Stone, Samuel N. farmer 37 MO + Lillie M. wife 39 MO.
+  No T.A. / Tom / Dora Stone. No Newnam.
+
+Close-age Dora rejects (not P001):
+  Letona hh 22 Booker, John S 46 carpenter AL + Dora wife 48 AR + Myrtle 15
+    (same 1910 Marion Booker house; b. AR; husband Booker).
+  Big Creek hh 263-269 Baker, Reansau L. 52 KY + Dora F. wife 47 AR + Clarence 20.
+  Coffey: Yoast, Dora MIL 46 GA; Barnett, Cal 59 + Dora wife 43 AR + Vida 15;
+    Davis, Dora farmer male 76 NC.
+  Bald Knob Town: Joseph C. physician 67 + Dora wife 56 TN 4-4;
+    Willie D 48 IL + Dora F wife 44 IL + Harold 14.
+  Bald Knob Twp: Virdell, Dora E. farmer 61 AL; Henry R 62 NC + Dora A wife 62 NC.
+  Kensett: John H. commercial traveler 39 + Dora wife 43 AR + Delta 15.
+  Royal: Lindsey, Dora head 56 AR + Hugh 20; Rainey Lou 83 + Dora B wife 36.
+  Gum Springs: Floyd, Dora C. mother 60 AR.
+  Chrisp: Dora E. daughter 51 IN.
+  Coldwell hh 31-31 Holden, John 37 IL + Dora wife 37 AR + lester 6.
+  Pangburn: Harvey 44 + Dora C. wife 37.
+  Cane: Hughes James 53 + Dora wife 31 MO; Dora wife 21 Black (Herrel); Dora dau 3.
+  Clay: Dora wife 25.
+  Albion: Dora B wife 28; Dora F dau 11.
+  Velvet Ridge: Dora wife 25.
+  Plus child Doras (Dora Bell 11, Dora Lee 4, Dora 2/12, etc.).
+
+1920 named files: nil P001.
+
+1920 still unpublished: Dist. 162 Cypert (no href); 163 Denmark/Hartsell/Jackson;
+164 Dogwood & Walker; 166 Garner & McRae; 167 Gray; 168 Searcy; 170 Harrison north;
+173 Liberty; 174 Negro Hill & Red River; 175 Russell; 176 Union exc Beebe; 177 Beebe
+(all transcription.htm except Cypert).

@@ -1,0 +1,15 @@
+# Negative: Pearl (Newnam) × Clyde Jackson in Lee Marriage Books 8 and 14
+# Book 8: https://usgennet.org/usa/ky/county/lee/marriage/marrbook8.html
+#         Dec 1906–Sept (1909). Captured 31 Oct 2026, 470563 bytes.
+# Book 14: https://usgennet.org/usa/ky/county/lee/marriage/marrbook14.html
+#          1920–21. Captured 31 Oct 2026, 131672 bytes.
+# Extends Books 9–13 nil (S288 / C308). Book 12 (1916–18) already searched.
+
+## Clyde hits that are not this couple
+Book 8: Clyde MEANS × Nannie Green BARRETT, 24 Dec 1908 (groom 21, Powell Co.).
+Book 14: Clyde ANGEL × Emma THOMAS, 12 Jun 1920 (St. Helens).
+Book 14: Clyde BURGESS × Orpha E. JOHNSON, 7 Aug 1920 (steel roller).
+
+No groom "Clyde JACKSON". No bride "Pearl NEWMAN" / "Pearl NEWNAM" paired with Jackson.
+
+Exact strings: Clyde JACKSON; Pearl NEWMAN; Pearl NEWNAM; JACKSON & Pearl; Clyde Means/Angel/Burgess noted as rejects.

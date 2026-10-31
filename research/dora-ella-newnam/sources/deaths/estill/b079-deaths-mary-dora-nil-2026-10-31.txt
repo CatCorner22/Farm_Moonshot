@@ -1,0 +1,27 @@
+B079 / pass 79 — Estill KY death year pages 1911–16 / 1920–24 / 1926
+Captured 31 Oct 2026. Access: transcription only. Partial submitted tables (Jennifer Fish / KYGenWeb), not complete county registers.
+URL: https://kygenweb.net/estill/site/records/death/pages/{YYYY}.htm
+Did NOT refetch 1917 / 1918 / 1919 (already saved: estill-1917-2026-10-31.html, estill-1918-2026-10-31.html, estill-1919-2026-10-31.html). Re-read from disk only.
+
+== Row counts (this pass) ==
+1911 5; 1912 8; 1913 1; 1914 20; 1915 4; 1916 3;
+1920 2; 1921 2; 1922 1; 1923 1; 1924 4; 1926 1.
+Total 52 submitted rows.
+
+== Hunt ==
+Nil Mary A. Newnam / Newman / Smallwood decedent.
+Nil Dora / Ella / Posa Stone or Newnam decedent.
+Nil Newman / Newnam / Stone surname on these pages.
+
+== Near-hits (rejected) ==
+1911 McIntosh, Lou Ella, 25 Feb 1911, age U/1 — infant, surname McIntosh.
+1913 McIntosh, Mary J, 28 Feb 1913, age 34 — wrong surname/age vs Mary A. ~76.
+1915 McIntosh, Mary Elizabeth, 2 Aug 1915, age 66 — wrong surname/age/date vs 11 Jul 1918.
+1926 McIntosh, Loue R, 20 Jun 1926, age 80 — wrong surname; P001 d. 23 Aug 1926 Yell Co. AR.
+
+1915 page also lists Tuttle, Marie Elizabeth, death year 1912, 9 Jul, age 25 (submitted on the 1915 file as seen).
+
+== 1917–19 re-read (disk only; not refetched) ==
+1917: 12 rows (Arvin Nancy Margaret 50 … Tonis still born). Nil Newman/Stone/Dora/Smallwood.
+1918: 2 rows — Abney Joseph "Joe" S 67; Brandenberg Susanna 55. Nil Newnam (C329 / S309).
+1919: 1 row — Hoover John 84. Nil.

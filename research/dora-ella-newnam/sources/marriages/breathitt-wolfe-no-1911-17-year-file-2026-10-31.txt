@@ -1,0 +1,23 @@
+Breathitt and Wolfe published marriage catalogs, 31 Oct 2026. B061.
+
+Breathitt KYGenWeb home https://kygenweb.net/breathitt/ HTTP 200, 13984 bytes.
+  Nav: Home; Families; Births & Deaths; Photos; Military; Reading Room; Research.
+  Zero "marriage" / "marry" strings on the home HTML. No 1911–17 marriage year file.
+Breathitt research links https://kygenweb.net/breathitt/reading/links.html HTTP 200, 10051 bytes.
+  Vital links: KY Office of Vital Statistics; UK vital-records index. No county marriage transcript.
+Breathitt courthouse page (prior WebSearch of kygenweb.net/breathitt/reading/misc/courthouse.html):
+  County Clerk has marriage records from 1852 — on-site. Not fetched as a year file (none published).
+usgwarchives.net/ky/breathitt/  curl timeout 30s, 0 bytes.
+
+Wolfe records inventory https://kygenweb.net/wolfe/records.htm HTTP 200, 8963 bytes.
+  Courthouse: Marriage Register (unnumbered) 1913–1938;
+  Marriage Books 2–36  September 1914–present (Book 1 not found 11 Oct 1997);
+  Marriage Bond Book 1  June 1913–September 1914.
+  KDLA: Marriage Books (Indexed) 1913–1984.
+  These are on-site / archives holdings, not a free year file.
+
+Wolfe published marriages https://kygenweb.net/wolfe/Marriage.htm HTTP 200, 80462 bytes.
+  Title: Wolfe County Marriages, 1861-1909. Year anchors: 1861, 1874–1878, 1907, 1909 only.
+  No 1911–17 year file exists on this site (instruction: Wolfe only if a real year file exists — n/a).
+  Grep of the 1861–1909 HTML: Clyde 0, Pearl 0, Newnam 0, Newman 0.
+  "Jackson" hits: groom Jackson J. Tutt (1861); place of marriage / residence "Jackson" (town) — not surname Jackson 1911–17.

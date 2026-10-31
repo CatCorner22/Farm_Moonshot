@@ -1,0 +1,84 @@
+# Extract — year-hole / new 1910–1920 hosts after Perry 1920 unpublished 404 (B071)
+# 31 Oct 2026. Did not repeat C335/C349 Solr, Conway Z, logged phone, or exhausted KY
+# marriage compilations. Did not hammer FS/Ancestry.
+
+## Logan County ARGenWeb (west of Yell; plan lists Logan as m2 retrieval)
+https://www.argenweb.net/logan/                    200  83565 B
+  Marriages label on the home page is **not** a linked book table.
+  hrefs: history txt, 1901 township boundaries, neighbor counties. No census/marriage book.
+https://www.argenweb.net/logan/marriages.html      404
+https://www.argenweb.net/logan/marriage.html       404
+https://www.argenweb.net/logan/marriages.htm       404
+https://www.argenweb.net/logan/marr.htm            404
+https://www.argenweb.net/logan/docs/marriages.htm  404
+https://www.argenweb.net/logan/census.html         404
+https://www.argenweb.net/logan/docs/1901twp.htm    200  — political township / road-district
+  boundaries dated 13 Feb / 29 May **1901**. **No personal names.** Year-hole catalog only.
+Logan 1910/1920 census and 1920–25 marriage books: **unpublished** on this host.
+
+## Faulkner County ARGenWeb
+https://www.argenweb.net/faulkner/                 200 (landing)
+https://www.argenweb.net/faulkner/census.html      200  1860 B — Conway 1830–1850 archive
+  links only. **No** Faulkner 1910 or 1920 transcript.
+https://www.argenweb.net/faulkner/marriages.html   404
+
+## Yell County census
+https://www.argenweb.net/yell/census.html          404
+https://www.argenweb.net/yell/census/              404
+(Yell home has no Census nav item. Prior yell-census-landing.html is also 404.)
+
+## Johnson County ARGenWeb
+https://www.argenweb.net/johnson/                  200  170 B — redirect stub. Not followed.
+
+## Van Buren County ARGenWeb (new host — not previously logged)
+https://www.argenweb.net/vanburen/                 200
+https://www.argenweb.net/vanburen/census.htm       200 — **has** 1910 heads + **1920** township
+  transcripts (Bradley/Cleveland/Davis/Griggs/Grove/Hartsuggs/Mountain/Red River/
+  Sulphur Springs/Union/White Oak) and a 1920 index.
+https://www.argenweb.net/vanburen/school.htm       200 — photos / 1930s classes. Dora Smith
+  as a basketball substitute is a **later** school note, not a 1900–26 residence for P001.
+https://www.argenweb.net/vanburen/vital.htm        200
+https://www.argenweb.net/vanburen/marriage/index-65.htm  200 — letter-page landing 1865–1940
+https://www.argenweb.net/vanburen/marriage/indexm-ol.htm 200 — Newman block
+https://www.argenweb.net/vanburen/marriage/indexs-st.htm 200 — Stone block
+https://www.argenweb.net/vanburen/marriage/indexs-to.htm 200 — no additional Stone
+https://www.argenweb.net/vanburen/vital/death-1914-50.htm 200
+https://www.argenweb.net/vanburen/vital/death-1914-23.htm 200
+https://www.argenweb.net/vanburen/Census/1920/1920index.html 200
+https://www.argenweb.net/vanburen/Census/1920/1920union.htm  200
+https://www.argenweb.net/vanburen/Census/1910/1910hh.html    200 (Word HTML; no Stone/Newman
+  string in the file as saved)
+
+### 1920 index (partial — Union / Red River / Bee Branch surnames)
+Stone — Union — page **150**  (only Stone row).
+**No** Newman / Newnam / Dora / Ella heads in the 276-row index.
+
+### 1920 Union extract on disk (`1920union.htm`)
+Lynn Risener Excel HTML. Header: Union — **Shirley Town**; enum. Chas D. Davis; 2 Jan 1920.
+Pages present: **149a–149b** only (23 heads). **No** Stone / Newman / Dora ~48.
+Closest: Lue Ella dau (child); Belle wife 41 AR; Callie wife 43 MO.
+Index Stone Union **150** is **not** in this Shirley Town extract. Body for p.150 **not yet examined**.
+
+### Marriages 1865–1940 (N + S letter pages)
+**No** bride Dora / Ella Newnam or Newman × Stone.
+**No** groom T. A. / Tom / Thomas Stone 1920–25.
+Stone grooms on the S–St page: J.W. × Eades 24 Oct 1901; Jno W. × Chastaine 30 Jan 1881;
+Lonnie × Berdie Murphee 31 Dec 1922. Syntha A. Stone bride 13 Dec 1908.
+Newman parties are a local Van Buren cluster (B.J., Alice, Bertha, Frank 7 May 1926,
+Fred, J.F., J.M., Jackson, James, July, Lillie, Lizzie, Lona, Lucy, Mattie, Minnie, Sallie).
+**None** is Dora Ella; **none** is Coy/McCoy. Frank Newman × Ina Lovell **7 May 1926** is
+after P001’s last free months and is a different man.
+
+### Deaths 1914–1950 (compiled)
+**No** Dora Stone / Posa Stone / Dora Newman 23 Aug 1926.
+Newman, (no given name), death **18 Sep 1926** — **not merged** (no given name; Van Buren
+vs Yell; 26 days after P001’s proven Yell death).
+Newman, Laura Isa, 2 Mar 1938. Stone, Edward E., b. 1858, d. 1 Apr 1944.
+Other Dora decedents (Bennett 1914, Johnston L 1945, Kemp Bel 1924, Odom, Phillips,
+Strand/Stroud) fail surname and/or date.
+
+## Residual year-hole / new ED
+Van Buren 1920 township **bodies** other than Shirley Town 149a–b (especially Union p.150
+Stone house); Van Buren 1910 head pages beyond the Word file; Yell **ED 188** Galla Rock
+originals on T625-86 (header-mapped this pass, not sheet-read for names).
+Logan / Faulkner / Yell census books remain unpublished on ARGenWeb.

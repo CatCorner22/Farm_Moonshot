@@ -1,0 +1,13 @@
+# Negative: Mary A. Newnam on Estill KYGenWeb 1918 year page
+# https://kygenweb.net/estill/site/records/death/pages/1918.htm
+# Captured 31 Oct 2026. HTTP 200, 3887 bytes. Submitted by Jennifer Fish.
+# Local copy: sources/deaths/estill-1918-2026-10-31.html
+
+The published table has TWO rows only:
+  Abney, Joseph "Joe" S, 1918-06-18, age 67, vol 86 file 42766
+  Brandenberg, Susanna, 1918-04-22, age 55, vol 020 file 09771
+
+Strings searched: Newnam, Newman, Newnarn, Newan, Newnom, Smallwood,
+Mary, Mary A, Marie, mayr, mam, marv, Dora, Pearl, Jackson.
+Nil. This is a partial submitted year page, not a complete county register.
+Statewide 1918 index (S306) is the fuller civil list.

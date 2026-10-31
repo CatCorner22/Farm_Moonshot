@@ -1,0 +1,30 @@
+Jackson County, Kentucky compiled marriages (Edie Smith), KYGenWeb /jackson/marry/
+Captured 31 Oct 2026. Transcription only. Directory listing HTTP 200.
+
+I-K file: https://kygenweb.net/jackson/marry/i-kmarriages.html  HTTP 200, 107831 bytes.
+Jackson groom heading (plain-text reconstruction of the Word-HTML block):
+  Jackson
+  Elihu — Jackson, Nancy M. 7-21-1859  bondsman Jackson, James
+  Gabriel or Frank 22 — Price, Icy 26  3-23-1905  d/o WB.
+  Tillery — McQueen, Hetty 1869
+  John W. — VanWinkle, Hester Ann 10-17-1868
+  Marshall 21 — Cornelius, Susan J. 1-13-1900  at J. VanW.'s
+  Pleasant B. — McCollum, Mary Francis 11-6-1860
+  Pleasant — VanWinkle, Sherrod 3-15-1892
+  Sidney — Cornelius, Julia Ann 11-12-1892
+  [next heading: Jenkins]
+Strings tried: Clyde, Pearl, Newnam, Newman, Newnarn, Newan, Newnom, Jacksen.
+  Clyde count in I-K: 0
+  Pearl count in I-K: 0
+  Newnam count in I-K: 0
+The I-K file does contain some 1912–1914 license years (sparse). Latest Jackson *groom* on this compilation is 1905 (Gabriel/Frank).
+
+N-P file: https://kygenweb.net/jackson/marry/n-pmarriages.html  HTTP 200, 113594 bytes.
+  Newman , Thomas A. — Jones, Mattie  2-21-1895  d/o Franklin B.
+  [next heading: Nicely]
+  Newnam count: 0
+  Pearl count: 0
+  Clyde count: 0
+
+A-B file (same compilation; fetched for date-range control): some 1911–1917 licenses exist under other surnames.
+This is a submitted compilation, not a complete courthouse book. Nil is for these published files only.

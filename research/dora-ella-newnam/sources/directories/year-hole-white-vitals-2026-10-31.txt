@@ -1,0 +1,43 @@
+# Extract — White Co. year-hole vitals (pass 76 / B076)
+# 31 Oct 2026. https://www.argenweb.net/white/vitals/
+# Did not refetch Perry 1910, opened Perry 1920, ED 191/188, Van Buren
+# published 1910 bodies, C335/C349 Solr, Conway Z, logged phone,
+# or re-download po0066 / po0067.
+
+## Vitals catalog (n-index_vitals.htm)
+Posted marriage books: Book A 1836–1858; Book B A–B / C–D; N–P marked Missing.
+No 1901–09 / 1911–16 / 1920–25 county marriage book is posted.
+Prairie Co. marriages of White residents = Books B–D 1854–1881 (too early).
+Unclaimed licenses: 1850s–early 1900s (letter files exist).
+Wills Book D 1919–1934 index posted.
+Prisoners 1918–1920 (Pokeypeeps / AR State Pen) posted.
+Loose probate 1835–1920 cataloged, not opened this pass.
+
+## Unclaimed M–N grooms (unclaimed6.htm) / M–N brides (bride6.htm)
+Newman, W B 45 × Johnson, Mrs. Rosa 30, 29 Apr 1915, McDaniel J G.
+  Not Dora; not T.A. Stone.
+Newman, Mary D (LA) × Castleberry, John D 20, 26 Oct 1872.
+Newman, Mrs. Mary Ann 40 × James, L B 60, 19 Sep 1880.
+No Newnam. No Dora Newman bride.
+
+## Unclaimed R–S grooms (unclaimed8.htm) / R–S brides (bride8.htm)
+Stone grooms: Jimmie 20 × Aiken Lucy 18, 31 Aug 1917 (Not Returned);
+  M B 33 × Brown Rachel 1 Sep 1904; R D 23 × Adkison 13 Dec 1874;
+  Robert W 19 × Ramsey 1 Feb 1891.
+Stone as officiant only: Elder E F (1883); K? D (1895).
+Stone brides: Arey 16 × Thompson 2 Jan 1923; Miss E A 15 × O'Quin 1885;
+  Fannie / Julia 1886; Lennie 1900; M J 1898; Onie 17 × Akin 13 Apr 1919;
+  Mrs Nancy G 67 × Houge A Y 69, 28 Feb 1925.
+No T.A. / Tom Stone 1920–25. No Dora Newnam × Stone.
+
+## Other vitals opened
+Marriage_Records.html = miscellaneous 1870s certificates (Benton 1871 etc.).
+prairiemarr.html = 1854–1881 Prairie Co. list. No Newman/Newnam/Stone/Dora.
+pokeypeeps.htm = White Co. men in AR State Pen 1918–1920. McCoy, Harry
+  15406 (released 7-2-18) is a prisoner — not P006. No Newman/Stone/Dora.
+willd.html = Will index Vol. D 1919–1934. No Newman/Newnam/Stone.
+  Whitney, Ella, decd., 74 — other person.
+
+## Residual year-hole on this host
+Unclaimed other letters; Book A/B early marriages (pre-Dora adult years);
+loose probate 1835–1920; remaining White 1910/1920 transcription.htm districts.

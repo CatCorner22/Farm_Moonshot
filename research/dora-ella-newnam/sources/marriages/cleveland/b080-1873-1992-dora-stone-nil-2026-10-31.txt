@@ -1,0 +1,33 @@
+B080 / pass 80 — Cleveland Co. AR marriages 1873–1992 — 31 Oct 2026
+Access: transcription. On-site letter files (landing called them “County Marriages 1873–1992”;
+not an off-site third host). https://www.argenweb.net/cleveland/marriages.htm
+Submitted Dwight Shubert 19 Feb 2003. Listed alphabetically by bride **and** groom.
+
+Fetched:
+  nomarriages.txt   48205 B   N–O
+  smarriages.txt   167977 B   S
+  demarriages.txt  104841 B   D–E
+  earlybrides.txt   29068 B   1873–1880 brides
+  earlygrooms.txt   29056 B   1873–1880 grooms
+
+NEWMAN (N–O only; **no NEWNAM**):
+  NEWMAN, (M) MARY ETHEL  28 × BONEY, JAMES LEONARD 25   27-OCT-1967  15-336
+  NEWMAN, RUBY MAE        18 × BROWN, JOHN E.       23   02-OCT-1948  11-523
+Both after P001’s 1926 death. **Not merged.**
+
+STONE first-party / spouse (no T.A. / Tom × Dora 1920–25):
+  STONE, ELLA        19 × COPE, J.B.           24   21-NOV-1895   3-342  — age 19 in 1895; **rejected**
+  STONE, (Ms) P.     18 × STRAHAN, HARL        20   20-JAN-1920   6-456  — age 18; given P.; **rejected**
+  STONE, DORA LYNN   36 × PENNINGTON, JOSEPH A. 47  06-FEB-1987  17-187  — 1987; living-era; skip
+  STONE, S.          28 × HOPE, ELLA           18   15-SEP-1907   5-28   — Ella is the bride Hope
+  plus other Stone × local spouses 1878–1966 (Elizzie, Lillie, Martha, S.E., A.M., Chas, Henry E.,
+  James, Leona, Minnie, Nancy, S.B., Willie, Carl J., etc.) — none is Dora Newnam ~48–54.
+
+D-E given Dora 1920–25: DISMUTH Ella 24 × Grissom 1921; DANIEL W.T. 53 × Garner (M) Ella 35 1920;
+DORAH Roosevelt/Savannah 1921 (surname Dorah). **No** Dora Newnam × Stone.
+
+Early 1873–80: Stone Elizzie 22 × Merrell 1878; several Dora/Ella other surnames — too early
+(P001 is a child / not yet a widow).
+
+NO Dora Newnam/Newman × Stone 1920–25. NO T.A./Tom Stone groom in that window.
+NO record placed P001.

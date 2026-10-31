@@ -1,0 +1,77 @@
+B079 / pass 79 year-hole extract — 31 Oct 2026
+Access: transcription / index / catalog. No Van Buren original schedule seen.
+No FS/Ancestry credentials. DAS image.jpg not re-hit. po0066/po0067 not re-downloaded.
+
+== Madison KYGenWeb births (kygenweb.net/madison/births/index.htm) ==
+200 33444 B. Title in body: "Various Madison County Births" submitted by Jennifer Fish.
+Two small submitted tables — not a county register.
+  Table 1 (17 children, 1911–1923): Barnett / Coffee / Coffey / Fish / Gadd / Kidwell / McNew / Turner.
+    Mothers Mansfield Gay, Henderson Elixa, Coffee Eliza, Warner Nancy, Townson Julie, Peel Elizabeth,
+    Azbill Ida, Mulligan Nettie, McEnely Nora, Peele Betty, Henderron Shiza, Hampton Elizabeth,
+    Lake Katy, Johnson Myrtle, Dowell Virgie, Lynch Nellie.
+  Table 2 (6 Taylor children 1903–1914): mother Thomas, Bertha.
+NO Newman / Newnam / Stone / Dora as child or mother.
+
+== Madison KYGenWeb deaths (death/index.htm) ==
+200 76253 B. Year × letter catalog:
+  Surnames A–D → years/{YYYY}a.htm
+  Surnames E–J → years/{YYYY}c.htm  (suffix c, as labeled)
+  Surnames K–R → years/{YYYY}b.htm  (suffix b, as labeled)
+  Surnames S–Z → years/{YYYY}d.htm
+Opened the two hrefs that hunt Mary A. Newnam (K–R 1918) and Dora Stone (S–Z 1926).
+
+1918b.htm (K–R) 200 585255 B, 113 data rows, title "1918 Madison County Deaths".
+  N surnames: NALL Iva 27 Oct age 17; NEAL Elija 1 Jan age 62; NEWTON Lizzie 6 Mar age 45;
+    NOLAND Nathan 5 Oct age 27; NUNN Granvill 15 Feb age 53; NUNN MARY C 17 Jun 1918 age 63 vol 033 file 16355;
+    NUTT Lizzie 1 Dec age 43.
+  NO Newman / Newnam / Newnarn.
+  NUNN, Mary C, 17 Jun 1918, age 63, Madison — rejected vs Mary A. Newnam buried 11 Jul 1918 age ~76 Heidelberg (C047).
+  Other Mary: PITTMAN MARY 20 Feb 1918 age 71.
+
+1926d.htm (S–Z) 200 353106 B, 68 data rows, title "1926 Madison County Deaths".
+  S surnames include SCUDDER, SEBASTIAN, SHORT, SIMPSON, SMITH, SPICER, STAFFORD, STEVENS, STIDAM, STONE, STUART.
+  STONE, MARY E, 18 Apr 1926, age 54, Madison, vol 022 file 10986 — rejected vs Dora Stone 23 Aug 1926 Yell Co. AR age 55 (C015).
+  NO Dora / Ella / Posa given name on the page.
+
+Madison marry/index.htm 200 6290 B = marriages to 1850 by letter + 1786–1952 PDFs (large; not fetched).
+
+== Lincoln ARGenWeb ==
+vital.htm: deaths = Mason book notices; marriages 1871–1875. Not a 1901–25 civil set.
+census.htm lists 1880 + 1900 township bodies (1900 not opened — Dora is PROVEN Lee 1900) and partial 1910/1920.
+
+1910 Cane Creek / Owen / Spring: head indexes titled 1910; body text says "Enumerated in the Month of April/June, 1900".
+  Partial. NO Newman/Newnam/Dora/Ella as a head.
+  Cane Creek "Touchstone" (Lum C.) is not Stone.
+  Spring 1910 = 12+ heads only (Cynthia Gold … Wm. Shuman).
+
+1920 Auburn: head index (partial, inc. Douglas / South Bend / penitentiary). Jasper, Ardella (b) — not Ella Newnam. Nil Newman/Stone/Dora.
+
+1920 Owen: head index. Lenzy, Dora A; Newman, Gillie; Stone, Thomas R. Not P001 / not T.A. of Perry.
+
+1920 Spring (partial; file also reprints Owen p.148):
+  Gillie Newman, head, 39, wd, AR AL MS + Retha 6 + Eugene 4 11/12 + Raley Leona sister 24.
+    Slash copy of same house writes age "3" (column slip vs 39 in the narrative block).
+  Newman, Fergus? 47 AR/Canada/AL; Newman J.T. 41 + Mary V. 34; Newman Alice 60.
+  #140 Malore/Walter: Dora sister f w 38 s AR/MS/MS — rejected (b. AR; sister of Walter; age 38 vs ~48).
+  No P001 line.
+
+== Prairie ARGenWeb 1910census/1910cens.htm ==
+200 4159 B. Title "1910 Census, Ulm Township" but body is a township index
+  (Belcher, Hickory Plains, Bullard, Roc Roe/Ulm, Tyler, Center, Union, Des Arc, Upper Hill, Hazen).
+  Those township bodies not opened this pass.
+
+== Cleveland ARGenWeb ==
+marriages.htm: 1873–1880 brides/grooms + 1873–1992 offsite alpha (not fetched).
+tax-lists.htm: 1861 partial.
+death-records.htm: cemetery + Buie funeral-home catalog. No 1914–26 civil year file opened.
+
+== Clark KYGenWeb home ==
+200 catalog. Land / marriages / court / estate waypoints. No 1901–25 name body opened.
+
+== Not re-hit / not re-fetched ==
+DAS …/3:1:33S7-9RNR-FP/image.jpg. po0066 / reel 67. Perry 1910. Opened Perry 1920. ED 191/188.
+Van Buren published 1910. White named + leftover transcription.htm. C335/C349/C1484 Solr. Conway Z.
+Logged phone. Saline I–R + Q/R grooms. Estill 1911–16 kn/ot. Estill death 1917/1918/1919 HTML.
+Powell 1911–18 births. Montgomery death indexes. Grant BLM. Menifee death years.
+No B057 film reading invented. No Van Buren 1910 household invented.
+Saline T.A. 1911/1912 not merged with Tom A. of Perry.

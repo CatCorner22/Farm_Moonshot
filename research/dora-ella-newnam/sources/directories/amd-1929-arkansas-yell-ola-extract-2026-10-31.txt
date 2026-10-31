@@ -1,0 +1,132 @@
+# American Medical Directory 1929 — Arkansas / Yell / Ola extract
+
+Captured: 2026-10-31
+Repository: Internet Archive item `bwb_T3-BRL-424`
+Title: American Medical Directory (year field 1929)
+URL: https://archive.org/details/bwb_T3-BRL-424
+OCR stream fetched: https://archive.org/stream/bwb_T3-BRL-424/bwb_T3-BRL-424_djvu.txt
+Local temp capture: /tmp/dora-fetch/amd1929_djvu.txt (HTML-wrapped full text, 26,201,119 bytes)
+Access: **OCR / transcription only**. Printed page images **not yet examined**.
+Search strings: Ola; Yell; Beal; Beale; Beall; Ballenger; Harkey; Hunt; Miller; Pool; Brewer; Davis.
+
+## Beal / Beall / Beale + Ark/Ola/Yell
+**Nil** for a physician Beal at Ola, Yell, Danville, Dardanelle, or Perry.
+Near-hits in OCR: “Clark, Sidney Beall”; “Beallmont Park Sanatorium”; “Beal St.” address — **not** T. W. Beal of the 1926 certificate.
+
+## OLA YELL geographic listing (OCR lines 94248–94272)
+```
+  94248| HUGHES, FELIX A., b’75; Ark.1,’05 ; 103
+  94250| OLA, 655, YELL
+  94252| Ballenger, Wm. E., b’74; Tenn.5,’99; 103
+  94254| Harkey, Wm. I., b’50; Ark.1,’93; 103; retired
+  94256| Hunt, Elbert C., b’62; 0; 108
+  94258| Miller, James Monroe, b’79; Mo.43
+  94260| POOL, THOS. JEFFERSON,
+  94261| 1713
+  94263| OLIVER, 17, SCOTT
+  94265| Jones, W. A., b’57; 3 1703
+  94267| OLMSTEAD (JACKSONVILLE P.O.), 35,
+  94268| PULASKI
+  94270| Stanley, M. E., b’70; 0; 1°08
+  94272| OLVEY, 50, BOONE
+```
+
+## INDEX Ballenger William E. Ola (OCR lines 905656–905676)
+```
+ 905656| Maxwell Charles, New York
+ 905657| City
+ 905658| BALLENGER, Albert Lee, Bates-
+ 905659| burg, S.C
+ 905662| Bart M., Strong City, Okla
+ 905663| Edgar Garrison, Atlanta, Ga
+ 905664| Howard Charles, Chicago
+ 905665| (Winnetka, Tl)
+ 905666| Irby Baxter, Washington, D.C
+ 905667| Joseph William, Carbon Hill,
+ 905668| Ala
+ 905669| Oscar L., Indianapolis
+ 905670| William Elim, Indianapolis
+ 905671| William E., Ola, Ark
+ 905672| William Lee, Atlanta, Ga
+ 905673| BALLESTEROS y JIMENEZ,
+ 905674| Macario, Bacacay, P.I
+ 905675| BALLEW, James Morgan, Mem-
+ 905676| phis, Tex
+```
+
+## INDEX Harkey William I. Ola (OCR lines 1023174–1023186)
+```
+1023174| Wade C., Chicago
+1023176| HARKEY, Clifford 2E., Fort
+1023179| Snelling, Minn
+1023180| William Cathey, Gardner, Kan
+1023181| William I., Ola, Ark
+1023184| HARKIN, Frederick McDonell,
+1023185| Marquette, Mich
+1023186| George Herbert, Buffalo
+```
+
+## INDEX Hunt Elbert C. Ola (OCR lines 1043400–1043416)
+```
+1043400| ay
+1043401| Edgar, Hampton, N.J
+1043402| Edgar John, Indianapolis
+1043403| Edmund Albertson, Lindsay,
+1043404| Calif
+1043405| si a Livingston, New York
+1043408| WY:
+1043409| Edward M., Weyauwega, Wis
+1043410| Elbert C., Ola, Ark
+1043411| Ella G., Cincinnati
+1043412| a Frances, Keuka Park,
+1043415| Ernest Aikman, Red Deer, Alta
+```
+
+## INDEX James Monroe Ola (Miller) (OCR lines 1108968–1108980)
+```
+1108968| James MacGregor, Moose Jaw,
+1108969| Sask
+1108971| James Martin, San Francisco
+1108973| James McTeer, Wytheville, Va
+1108975| James Monroe, Ola, Ark
+1108977| James M., Decatur, Ind
+1108979| James M., Owensburg, Ind
+```
+
+## INDEX Pool Thomas Jefferson Ola (OCR lines 1142122–1142150)
+```
+1142122| Thomas Ritchie, Chicago
+1142123| PONZER, Emma, Chicago
+1142124| POOCK, Joseph T., Hoboken, N.J
+1142125| POOL: See also POOLE
+1142126| Bennette Baucom, Winston-Sa-
+1142127| lem, N.
+1142128| een Glenn, Winston-Salem,
+1142131| Charles Scudder, Brooklyn
+1142132| Clarence Gilbert, Compton, Ill
+1142133| Eugene Hillhouse, New York
+1142136| Everage Terrell, Lavonia, Ga
+1142137| George Thompson, Rainer,
+1142138| Wash
+1142139| Harry Harbour, Detroit
+1142140| Henry Jacob, Port Clinton, 0
+1142141| Hee McCaughrin, Fairfield,
+1142142| la
+1142143| Samuel, Leakesville, Miss
+1142144| Thomas Jefferson, Ola, Ark
+1142145| William B. H., Bodcaw, Ark
+1142146| William O., Stoutland, Mo
+1142147| William Pohlman, Brooklyn
+1142148| Winston Carl, Cary, Miss
+1142149| POOLE: See also POOL
+1142150| Albert Gower, Toronto, Ont
+```
+
+## Diplomatic reading of OLA, 655, YELL (1929 OCR)
+- Ballenger, Wm. E., b'74; Tenn.5,'99
+- Harkey, Wm. I., b'50; Ark.1,'93; retired
+- Hunt, Elbert C., b'62
+- Miller, James Monroe, b'79; Mo.43
+- POOL, THOS. JEFFERSON  (index: Thomas Jefferson, Ola, Ark. under POOL)
+Compared with 1921 Ola listing: Brewer W. R. and Davis Geo. C. **absent**; Harkey still present (now marked retired); Pool has moved from Danville (1921) to Ola (1929). **No Beal.**
+

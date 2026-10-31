@@ -1,0 +1,105 @@
+# Extract — Perry Co. AR 1920 unpublished slugs + unread published bodies (B071)
+# Captured 31 Oct 2026. Transcription only (Sharon Smith / ARGenWeb) unless noted.
+# Landing: https://www.argenweb.net/perry/census/1920census/
+# Did NOT refetch Howell, Perryville, Rankin, Rose Creek, Fourche Town, Adona,
+#   Bigelow, Gray, McCool, Aplin, Houston Twp, or AR Pen (C1311–C1328 / S345 S349).
+# Did NOT refetch any Perry 1910 census body.
+# Hunt: Dora/Ella/Posa/Dosa/Dona/Dara/Rosa/Nora/Cora; Stone/Newman/Newnam; ~45–52;
+#   MIL/boarder; Mrs T.A. Stone.
+# Parser: 10-column tables (Date/Page/Dwelling/Surname/Name/Relationship/Age/Status/
+#   Birthplace/Occupation). Ditto (") inherits surname. 1920 tables have no Children/Living.
+
+## Unpublished census-body slugs (HTTP 404) — landing lists Index only
+casatown1920census.html              404
+casatownship1920census.html          404
+foresttownship1920census.html        404
+newtennesseetownship1920census.html  404
+perrytownship1920census.html         404
+perrytown1920census.html             404
+petitjeantownship1920census.html     404
+uniontownship1920census.html         404
+eran1920census.html                  404  (not on 1920 landing; probed once)
+howelltownship1920census.html        404  (Howell uses howell1920census.html — already opened; not refetched)
+
+Landing hrefs confirm those eight townships have **index** files only (no *census.html).
+Indexes already on disk (pass 68): **zero** Stone / Newman / Newnam / Dora / Ella / Posa heads
+  Casa Town (69 rows), Casa Twp (85), Forest (22), New TN (68),
+  Perry Twp (37), Perry Town (101), Petit Jean (74), Union (138).
+Bodies remain unpublished. Boarder/MIL Dora cannot be ruled out from the indexes alone.
+
+## Houston Town (Houston Twp) — census opened this pass (403 person-rows)
+Index was head-nil (pass 68). Body:
+hh 11: Griffin, Richard M. 53 AR Doctor; Rosa wife 47 M AR; sons + Eva G. 4.
+       Rosa Griffin 47 AR **rejected** (given Rosa; AR; doctor’s wife; Griffin children).
+hh 21 Holman Rosa 23 MO; hh 48 Steakly Rosa 27 AR; hh 71 Rankin Dona 29 AL farm laborer.
+Smith, Dellar? wife 43 AR (hh 36) — given Dellar, not Dora; **rejected**.
+**No** Dora/Ella/Posa ~48. **No** Stone/Newman/Newnam. Verdict: nil P001.
+
+## Cherry Hill Township — 262 person-rows
+hh 40 Ussery, Ella wife 18 AR (Harvey 21). hh 51 Benson, Ella wife 21 AR (Ernest 19).
+Both **rejected** (age). No Stone/Newman. Verdict: nil P001.
+
+## Dry Fork / page title “Dry Creek Township” — 79 person-rows
+Record township name as written on the page.
+hh 5: Nooner, Joe G. 40 AR Farmer; Dora wife 38 M AR; Gilbert 17, Etta 16, Tennie 14,
+      Herbert 12, Rosco 10, Clarence 8, Alvis 6, Minnie 2, E? 11/12. All AR.
+      Dora Nooner 38 AR **rejected** (husband Nooner; 9 named Nooner children; AR).
+hh 1 Burnett Nora dau 25 D AR; hh 6 Hames Nora 22; hh 10 Reed Dora dau 15.
+No Stone/Newman. Verdict: nil P001.
+
+## Kenney Township — 165 person-rows
+hh 30: Pudinas, Chas 55 Russia Farmer; Ella wife 35 M Russia; Cosmo/Verna/Ginnie/Bertie/Steller.
+       Ella Pudinas 35 Russia **rejected**.
+Cora Doughty 32 TN; Rosa Brown 35 AR; Rosa Penter 38 IL. No Stone/Newman. Verdict: nil P001.
+
+## Lake Township — 255 person-rows
+hh 140: Bryant, William H. 36 AR Sawyer; Dora N. wife 29 M AR; 3 Bryant children;
+        Keeling, William FIL 89 Wd TN; brother Odis + Addie.
+        Dora N. Bryant 29 AR **rejected** (age 29; Bryant children; FIL Keeling).
+Nora B. Taylor 39 TX; Cora Venable 22. No Stone/Newman. Verdict: nil P001.
+
+## Maumelle Township — 297 person-rows
+hh 54: Smith, Benj E. 57 MI Farmer; Nora wife 49 M OH; Emery 25 MI; Carrie ? MI.
+       Same 1910 Maumelle cluster (C1362). Nora Smith 49 OH **rejected**.
+Snider Nora wife age ? AR. Boyett Rosa 35 AR. No Stone/Newman. Verdict: nil P001.
+
+## Mountain Township — 146 person-rows
+Ashcroft Rosa A. dau 20; Parson Ella dau 10. No adult Dora/Ella ~48. No Stone/Newman.
+
+## Omega Township — 37 person-rows
+Zero given/surname hits for the hunt list.
+
+## Rose Township — 159 person-rows
+Hatley, Cora SIL 15 AR only. Index was head-nil (pass 68). No Stone/Newman. Nil P001.
+
+## Rowland Township — 161 person-rows
+Zero hunt-list hits.
+
+## South View Township — 202 person-rows
+Zero hunt-list hits.
+
+## Sweet Home Township — 110 person-rows
+Zero hunt-list hits.
+
+## Tyler Township — 196 person-rows
+hh 70: Teyler, Anderson U. 70 AR Farmer; Ella wife 36 M AR; Silva 10, Selava 9, Vernon 7;
+       Gardner, Ella none 13. Ella Teyler 36 AR **rejected**.
+hh 104: Bell, Newton E. 30 IL; Effie wife 24 VA; McTigret Ophelia 14 CO; Elija son;
+        Carter Harry boarder 18 MO; **Stone, George B. BIL 16 S AR**.
+        Other Stone family (teen BIL of Effie Bell). **Not** Tom A.; **no** Dora in the house.
+Other: Magie Nora 34; Blair Ella J. servant 8; Welch Nora 24; Pearsons Cora 24.
+No Newman/Newnam. Verdict: nil P001.
+
+## Walnut Grove Township — 169 person-rows
+hh 74: Hulsey, Rufus M. 65 Wd AR; Hope, Nora dau 32 Wd OK. Nora Hope 32 OK **rejected**.
+hh 83: Jaco, Mrs. Birdie head 50 Wd MS Farmer. Given Birdie; MS. **Not merged**.
+Cora/Nora daughters ages 10/19. No Stone/Newman. Verdict: nil P001.
+
+## Combined published-body verdict
+Fourteen previously unread Perry 1920 census bodies opened. **Nil P001 ~48** as wife, head,
+mother, MIL, or boarder. **Zero** Newman/Newnam surname rows in those fourteen.
+Only Stone row = George B. 16 BIL in Tyler hh 104.
+Closest given+age rejects: Griffin Rosa 47; Nooner Dora 38; Smith Nora 49 OH;
+Teyler Ella 36; Bryant Dora N. 29.
+Residual unpublished bodies (Casa / Forest / New TN / Perry twp+town / Petit Jean / Union)
+still 404 — boarder possible there only on original T625 / a later transcript.

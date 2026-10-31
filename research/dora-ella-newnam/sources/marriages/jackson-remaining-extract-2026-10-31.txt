@@ -1,0 +1,22 @@
+Jackson remaining marr C-D/E-F/G/H/I-K/L-M/R/T/V-Y
+given+surname same line: 0
+Newman/Stone lines: 0
+Newman/Stone 1920-25: 0
+Dora/Ella/Posa lines: 17
+DORA	('c-dmarriages.html', 'I. J. 27 - - - - Powell, Rosa 16 4-22-1902', ['1902'])
+DORA	('c-dmarriages.html', "Jones, Dora 14 12-27-1900 at Steele's, W. D.", ['1900'])
+DORA	('c-dmarriages.html', '- - - Smith, Rosa 12-7-1894', [])
+DORA	('c-dmarriages.html', '- - - Smith, Susan Ella 6-23-1910 d/o Tom G.', ['1910'])
+DORA	('c-dmarriages.html', 'Dora 18 11-15-1899', [])
+DORA	('c-dmarriages.html', '- - - Smith, Rosa Belle', [])
+DORA	('c-dmarriages.html', '- - - Dees, Rosa Lee 11-19-1894', [])
+DORA	('e-fmarriages.html', '25 - - - - Anderson, Ella', [])
+DORA	('e-fmarriages.html', 'Stephen S. - - - -Anderson, Dora M. 5-17-1895 Cook,', [])
+DORA	('e-fmarriages.html', '- - - - Pigg, Dora M.', [])
+DORA	('g-marriages.html', 'Rosa E. 9-14-1898 d/o??', [])
+DORA	('h-marriages.html', '- - - - Bowling, Rosa 3-21-188?', [])
+DORA	('h-marriages.html', 'Dora 18 9-24-1908', ['1908'])
+DORA	('l-mmarriages.html', 'Hurley, Dora 16', [])
+DORA	('l-mmarriages.html', 'Rice, Dora', [])
+DORA	('r-marriages.html', '����������������� ? Turner, Dora Alice', [])
+DORA	('r-marriages.html', 'Ella M. 16', [])

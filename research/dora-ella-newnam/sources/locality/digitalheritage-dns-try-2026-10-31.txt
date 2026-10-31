@@ -1,0 +1,6 @@
+B065 one try, 31 Oct 2026.
+Host: digitalheritage.arkansas.gov
+getent hosts: fail
+curl -I https://digitalheritage.arkansas.gov/ : (6) Could not resolve host
+In Remembrance letter files not examined.
+Did not repeat the try.

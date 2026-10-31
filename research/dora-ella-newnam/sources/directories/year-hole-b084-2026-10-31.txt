@@ -1,0 +1,54 @@
+B084 / pass 84 — Bell remaining 1921 + Jackson remaining marr + Harlan + new hosts — 31 Oct 2026
+Access: transcription / catalog. No Van Buren original seen.
+No FS/Ancestry credentials. DAS image.jpg not re-hit. po0066/po0067 not re-downloaded.
+Did not refetch Bell 1911_* or 1921 N/S, Bell deaths D/N/S, Jackson A–B/N–P/S, Laurel/Knox/Whitley/Leslie/Breathitt, C335/C349/C1484 Solr.
+Did not start another unbounded fifth-ring KY letter dump after the three named catalogs.
+B057: FHL 178898 / Owsley Clerk, 20 Main St, PO Box 500, Booneville KY 41314, austin.bowling@ky.gov — path only; no film reading invented; phone not re-called.
+
+== Bell remaining 1921 A–M / O–R / T–Z (not N/S) ==
+files=23 (1921_x catalog has no link; kygenweb 404 stub not kept)
+parsed_rows=12503
+years in body=1921–1930
+MOTHER given Dora/Ella/Posa + Newnam/Newman/Stone: 0
+Newman/Stone child or mother (any given): 3 — all Bussell children, mother STONE ELIZA 1922/1924/1927 — rejected
+Dora/Ella/Posa other-surname mothers: 341 (Miracle 12 / Williams 9 / Wilder 8 / Smith 6 / …)
+Zero files contain both NEWMAN-ish and DORA-ish text
+Combined with B083 1921 N/S: Bell-hosted 1921 letters now closed nil for mother Dora Newnam
+
+== Jackson remaining marr C–D / E–F / G / H / I–K / L–M / R / T / V–Y ==
+I–K hunted on already-saved jackson-ik-marriages-2026-10-31.html (not refetched)
+given+surname same line: 0
+Newman/Stone lines: 0
+Newman/Stone with 1920–25 year: 0
+Dora/Ella/Posa lines are other brides (Jones Dora 1900; Anderson Dora M 1895; Dora 18 1899/1908; Hurley Dora; Rice Dora; Turner Dora Alice) — rejected
+Combined with A–B / N–P / S: Jackson posted marriage letters closed nil for Dora Newnam × Stone 1920–25
+
+== Harlan ==
+usgenwebsites.org/KYHarlan/ = 404 (355 b). Live catalog = kygenweb.net/harlan/ (22844 b) saved.
+Births 1911–20 parsed rows=8586; 1921–30 parsed rows=23391
+MOTHER given+Newnam/Stone: 0
+Newman/Stone child or mother: 54 — mothers Edith/Mattie/Roxie/Ada/Nancy/Birdie/Lona (Newman) and Eliza-cluster / Mollie / Monday / Harriet / Annie / Rena / Bertie / Ida / Pebble / Macedonia (Stone); child Newman/Stone have other mothers
+1903–04 births: Howard, Dora 11 Sep 1903 child of J H Howard — rejected
+Compiled Bride/Groom M–O/S + date 1900–02 / 1903–05: year range 1818–1905 only. Nil Dora Newnam × Stone. Jerutha Newman × Skidmore 22 Feb 1872; John Newman × Jane Saylor 20 May 1897 — rejected. Dora brides Orsborne/Saylor/Stewart/Cornett/Witt/Howard 1901–05 — rejected.
+Marriage and Divorce 1924–25 (Harlan Enterprise extract): nil Dora/Newman/Stone party. Rosa White 1924 is a different bride.
+1910 head index: no Newman/Newnam/Stone head. Wolf Dora only — rejected.
+1920 head index: local Newman/Stone heads (Lynch / Pine Mt / Evarts sector) — Dora not a named head. Household pages not downloaded (rootsweb; head-only landing).
+Deaths 1903–04 / miners 1913–29 / obits 1916–90: nil Mary A. Newnam / Dora Stone. Newman, Curtis miner 1944 rejected.
+Press 1922 / 1924 / 1925 Feb 6 / Feb 13: nil Dora Stone / Newnam. “Big Stone Gap VA” and “Stone, H.” are not P001/P003.
+
+== New hosts (after the three catalogs) ==
+Franklin AR: no 1910/1920 census posted (1850–1870 only). Fed land pre-1908: NEWMAN GEORGE W 1875 / HENRY L 1885 / MILES E 1907; STONE MICAJAH 1856–75 — rejected. Zero Dora. Land index = Helms PDF + 1830s grants. Marr index = family image pages, not a 1920–25 name register.
+Franklin Spectator 1911 extract: Simmons/Morgan, McKinney/Johnson, six July 1911 licenses — nil Dora/Newman/Stone.
+Conway censusindex: 1910 and 1920 listed as unlinked text (unpublished). papers1.htm = modern newspaper websites (Atkins Chronicle / Log Cabin Democrat / Russellville Courier / Democrat), not 1901–26 page images.
+Conway land files.usgwarchives.net timeout; files.usgwarchives.org DNS fail.
+Yell/Perry land slugs 404. BLM GLO search URL redirected to JS portal /s/ — no patent list read (file not kept).
+IA Solr NEW titles only (not C335/C349/C1484):
+  collection:newspapers AND title:(Harlan Enterprise OR Russellville Courier OR Courier Democrat OR Courier-Democrat OR Atkins Chronicle OR Perry County News OR Log Cabin Democrat) AND (Dora OR Posa OR Newnam OR Newman) AND year:[1901 TO 1926]  numFound 0
+  title:(Russellville AND directory) AND year:[1900 TO 1926]  numFound 0
+  title:(Dardanelle AND directory) AND year:[1900 TO 1926]  numFound 0
+  title:(Harlan AND directory) AND (Kentucky OR KY) AND year:[1900 TO 1926]  numFound 0
+
+== Placement ==
+No record placed Dora. Still UNKNOWN Apr 1910 and Jan 1920.
+Saline T.A. 1911/1912 not merged with Tom A. of Perry.
+No B057 film reading invented.

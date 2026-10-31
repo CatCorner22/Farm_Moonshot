@@ -1,0 +1,95 @@
+B077 / pass 77 year-hole extract — 31 Oct 2026
+Access: transcription only / index / catalog / compiled. No Van Buren original schedule seen.
+No FS/Ancestry credentials. DAS image.jpg not re-hit.
+
+== White leftover districts ==
+http://www.argenweb.net/white/census/transcription.htm HTTP 200 1534 B
+Title: Transcription
+Body: "THIS CENSUS RECORD HAS NOT YET BEEN TRANSCRIBED. IF YOU WOULD LIKE TO VOLUNTEER..."
+Placeholder — not a household body. Dist. 158 Denmark & Jackson and Dist. 162 Cypert have no href.
+Alternate slugs (one GET each, all HTTP 404 355 B):
+  1910_Cadron.html 1910_Cane.html 1910_Denmark.html 1910_Harrison.html
+  1920_Cypert.html 1920_Cypert_Township.html 1920_Harrison_Township.html 1920_Denmark_Township.html
+USGW White landing/census dir: timeout 20s / 0 B (not retried).
+
+== Montgomery ARGenWeb ==
+census.htm 404. 1910/1920: no local transcript (census_info.htm). 1920 abstract = 1994 print book (Montgomery Co. Historical Society). T624-59 listed as Newton/Montgomery/Nevada/Ouachita — not Van Buren.
+marriageslic.htm = catalog of print books 1843-1899 + clerk path. No 1901-25 name body.
+marriages.htm Pike Co. Books D-E-F 1910-1925 Montgomery-connected extract:
+  LAWLESS, HARVEY C. 31 PIKE x SHIELDS, DORA 28 MONTGOMERY 04-18-20 F 108 W  — rejected (maiden Shields, age 28).
+  No Newnam/Newman/Stone in that extract.
+polk_co_marriages.htm: ~73 dated rows 1884-1910. No Newman/Newnam/Stone party.
+  Dora Miller = surety on Dean x Huffman 10 Nov 1899 (not a bride).
+land.htm: catalog + BLM + USGW montgome.txt (that file timed out 20s / 0 B; not retried).
+surnamesmz.htm: no Newman/Newnam/Stone researchers.
+newspapers.htm: title catalog (Montgomery County News weekly; Fort Smith library). Mrs Annie Stone, Pacific = quilt/charter mention. Stone County in a mineral-report sentence.
+obituraries.htm: modern compiled obituaries. Larry Stone pallbearer; mother Dora Whisenhunt; sister Dora Howard; "stone/marker broken" — not P001.
+Wayback Arkansas Research Montgomery death index 1914-1923:
+  Kelley, Dora 06/22/1915 — rejected.
+  Stoner, Oscar W 02/01/1915 — not Stone.
+  No Newman/Newnam/Stone.
+Wayback Montgomery death index 1924-1933:
+  Jackson, Ella 02/20/1927; Murphy, Ella Gen 06/01/1929; Smith, Rosa May 11/18/1924; Plyler, Luella 04/20/1927.
+  No Dora/Newman/Newnam/Stone.
+
+== Garland ARGenWeb ==
+census.htm catalog only (1930 Interstate Home, CensusFinder, FS frame). No 1910/1920 local body.
+marriages.htm two offsite links — not a 1920-25 book.
+church.htm one offsite First Christian Church link.
+deaths.htm 1850 mortality + Gross Mortuary offsite + funeral homes.
+newspapers.htm / deeds.htm stubs. resources.htm catalog.
+
+== Polk ARGenWeb ==
+taxrec.htm = 1845 & 1846 tax lists only (no Newman/Stone).
+polkrec.htm = courthouse holdings catalog (marriages 1884-present; wills 1901-present on site). No name body.
+
+== Hot Spring ARGenWeb ==
+marriage.html: Book A 1824-1844 / 1844-1849 / USGW 1825-1853 only. No 1901-25 book.
+obitindex.htm: three named obituaries (J.W. Britt; Lachartsie Wilson Brown; Miss Webber). Not P001.
+
+== Powell KYGenWeb (children's records naming mother) ==
+Births 1911-1917 + 1918 H-Z (Nancy Trice tables). Columns: child last/first/middle, mother last/first, m/d/y.
+No mother Dora/Ella/Posa Newnam/Newman/Stone.
+No child Newnam/Newman.
+Stone mothers (other families):
+  CAMPBELL, MILDRED E / mother STONE, PEARL / 12-24-1911
+  MUNCY, SIDNEY 2 / mother STONE, MAUDE / 9-25-1915
+  NIBLACK, CHARLES E / mother STONE, ALTA / 3-10-1918
+  STONE, ELISEBETH C / mother CHISM, LILLIE / 8-22-1918
+Dora/Ella mothers (other surnames; rejected): Todd, Lowe, Walters, Williams, Wilburn, Grigsby, Spencer, Senters, Ledford, Clemmons, McDowell, Lewis, Thomas, Curtis, Mackey, Crawford, Willburn.
+Deaths 1911-1915 / 1916-1920 / 1921-1926:
+  BLYTHE, ELLA 05-05-1911
+  STONE, LILLIE 08-22-1918
+  CURTIS, DORA 06-01-1921
+  No Dora/Ella Newman/Newnam/Stone decedent.
+Census page = Hall family 1860-1920 only. Marriage page = submitted Bishop/Rogers/Hall certificates — not a county book.
+
+== Saline poll tax (Deb Robinson) ==
+1907: Stone, W. C. / White / Dyer. No Newman/Newnam. No Dora.
+1911: Stones, A. L. / White / Fairplay; Stones, T. A. / White / Union; Stones, W. C. / White / Union.
+  Surname STONES. Local cluster. NOT merged with P003 Tom A. Stone.
+1926: no Stone/Newman/Newnam/Dora (Dunnahoo, Rosa only Rosa hit).
+
+== Saline marriage books (George M. Akins) — bride tables I-M, N, O, P + Q/R bride PDFs ==
+No Dora/Ella/Posa Newnam x Stone. No Newnam bride.
+Selected rejects / other families:
+  I (1898-1902): CLARK, DORA 24 x CLAYTON 1902; HOOKER, DORA 28 x GANTZ 1900; STONE, MATTIE x CALDWELL 1901.
+  J (1902-05): NEWMAN, KATIE B. 21 Hot Springs x DEMBY 1904; several Dora/Ella other surnames.
+  K (1905-08): JOBE, GRACE x NEWMAN, ALCUS 32 Malvern 1906; W.C. Stone consents for Alum minors 1907-08 (local).
+  L (1908-12): NEWMAN, FANNIE 20 x DAVIS 1909; STONE, ODESSA 19 x JONES 1911; Westbrook x NEWMAN, J. B. 1910.
+  M (1912-15): STONE, OSSIE PEARL 16 Owensville x COMPTON, R. R. 30 on 12 May 1912; "Consent By Brides Parent, T.A. Stone".
+    Local Owensville T.A. Stone with a ~1896 daughter. NOT merged with P003 (Hard Rule 3: only shared initials; Saline Stones cluster + daughter Ossie contradict the 1920 Perry FIL household).
+  N (1915-19): NEWMAN, MOLLIE D. 24 x RINKER 1917; STONE, ANNIE 18 x THOMPSON 1916; SANDERS, DORA ELLA 17 x FITS 1918 (maiden Sanders).
+  O (1919-21): MALONE, DORA MRS 47 x NICHOLS 1921 (NLR; age 47 vs 48 but maiden/husband Nichols); STONE, R. K. 23 x EVANTS 1921.
+  P (1921-23): no Stone/Newman groom or Newnam bride. Dora/Ella other surnames only.
+  Q bride PDF 1923-25: CROSBY, GERTRUDE 32 x NEWMAN, JOE 47 Hot Springs 31 Dec 1924; GRISSOM, DORA 18 x MAYER 24 Dec 1924; LEWIS, DORA 23 x SPENCER 30 Jul 1925; STONE, HARRIETT 25 x ELMORE 9 Dec 1924.
+  R bride PDF 1925-27: JONES, DORA MRS 11 Oct 1926 / also noted 8 Dec 1926. No Newnam. No Dora x Stone.
+Q/R groom PDFs not opened this pass.
+
+== IA Solr (NEW titles; not C335/C349) ==
+collection:newspapers AND title:(Montgomery County News OR Mount Ida OR Mena Star OR Clay City Times)
+AND (Dora OR Posa OR Newnam OR Newman) year 1901-1926
+numFound: 0
+
+== Van Buren T624-66 ==
+No free title card on a new host this pass. No household invented.

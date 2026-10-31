@@ -1,0 +1,20 @@
+# Negative: Mary A. Newnam / Newman on Owsley 1918 death-certificate extracts
+# Source: https://usgennet.org/usa/ky/county/owsley/deaths/1918dc.html
+# Title: 1918 Owsley County Deaths (Debi Kendrick).
+# Captured 31 Oct 2026. HTTP 200, 44167 bytes. Transcription of photographed DCs.
+
+Exact strings searched: NEWNAM, NEWMAN, Newnam, Newman, SMALLWOOD, Smallwood,
+Dora, DORA, Pearl, JACKSON, Mary A.
+
+## Nil
+No decedent named Mary / Mary A. Newnam or Newman.
+No Smallwood decedent that is P005.
+
+## Same-given collisions (not P005)
+Mary REEDE; Mary REED; BOWMAN, Mary L.; Mary J. SMITH; EVERSOLE, Mary;
+Mary J. BURNS; Mary JOHNSON; Mary Jane HALL; Mary WHITE; Mary Lyze MOORE.
+Dora MOORE; SPENCER, Dora. Pearl BOTNER.
+
+Extends Lee 1918 extracts + Lee KDI N nil (C310). Mary A. still has a Heidelberg stone
+(C047) and no civil row in Lee or Owsley 1918 extracts. Conflict #18 remains open.
+Owsley KDI path deaths/kdi/n.html returned HTTP 404 (no published Owsley KDI letter files).

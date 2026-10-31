@@ -1,0 +1,59 @@
+# Extract — new year-hole / 1910-1920 hosts (pass 75 / B075)
+# 31 Oct 2026. Did not refetch Perry 1910, opened Perry 1920, ED 191/188,
+# Van Buren published 1910 bodies, C335/C349 Solr, Conway Z, logged phone,
+# or re-download po0066.
+
+## NARA / IA T624 map (Van Buren 1910 originals)
+- NARA 1910 pamphlet + Fold3 T624.pdf + archives.gov part-03 + US-census.org
+  Van Buren table: 1910 = T624-66 (Sevier, Union, and Van Buren).
+- IA 13thcensus1910po0066unit: already Sevier + Union (part) only (C1431).
+- IA 13thcensus1910po0067unit title cards: Vol. 65 Washington (part).
+  Headers: Washington (n4, n400) then White (n700, n1410). Not Van Buren.
+- IA 13thcensus1910po0061unit n1: Vol. 48 Poinsett / Prairie 1-301.
+- IA 13thcensus1910po0054unit n1: Vol. 31 Jefferson (part) 1-279;
+  n280 still Jefferson ED 100 (not Johnson).
+- IA 13thcensus1910po0046unit page/n1.jpg = 404 HTML (not a title card).
+- T1224 1910 Arkansas ED descriptions: IA identifier search nil this pass.
+- Access Genealogy Van Buren 1910 "free transcription" lists Bloodworth,
+  Cadron, Davis, Hartsugg, Linn Creek, Red River, Sulphur Springs, Union,
+  Washington — the published set already read. No unpublished township.
+
+## Pope Co. AR 1920 USGW heads + different-surname index
+URL: http://files.usgwarchives.net/ar/pope/census/1920/1920idx.txt
+Saved: sources/census/pope/1920idx.txt
+Compiler: Lina Owens Boyd, 1 Nov 1999. Heads and persons with a different
+surname only. Wives of the same surname as the head are omitted.
+Township for stamped p.145b = Illinois (south of the railroad) 137-152B.
+
+Newman: George W. 249b (Valley 247-256b); Richard 124 (Holla Bend 120-129).
+No Newnam.
+Stone: Aleck 271; Arthur T. 36b; Daniel J. 36b; Emma 134b; Luther M. 36b;
+Mary 262b. No Tom / T.A. / Dora Stone.
+Sullivan, Dora F. 145b — not Stone; rejected as P001.
+Other Dora given names (Crutchfield 238, Treadwell 228, Stanwood Dora F.
+147b, Worsham Dora A. 25) — other surnames; rejected.
+
+## Scott Co. ARGenWeb (new host; west of Yell)
+1910 heads+* (cen1910.htm): Newman Henry / James M. / William R.
+  Stone Christopher C. / Clara* / Thomas W.
+  Dora heads = Barton, Bell, Hoofer, Isom, Jones, Kincannon, Pool — rejected.
+1920 heads+* (cen1920.htm): Newman Edward / Fred W. / James / John M. /
+  William L. / William R. Stone Clara* / Columbus C. / Dr. Jim H. /
+  T.W. / Thomas W. Dora = Janaway / May / Pool — rejected.
+Marriages 1882-1974 Books A-J:
+  Brides N: no Newnam; no Dora/Ella Newman. 1920-25 Newman brides =
+    Lillie × Leeper 12 Aug 1920; Annie × Holmes 20 Jan 1924;
+    Fannie × Helms 1 Aug 1925 — not P001.
+  Grooms S Stone: C.C. 1895; F.M. 1905; J.A. 1886; James H. 1885;
+    L.D. 1914; Louis M. 1952; M.K. 1888; Thomas W. 1883;
+    Tom × Blair 1 Apr 1931; Wallace 1931. No T.A. / Tom 1920-25.
+  No Dora Newnam × Stone.
+
+## Independence Co. ARGenWeb
+Home + census.htm: no local 1910/1920 transcript. Links to Access Genealogy,
+USGW census project, and FamilySearch (sign-in).
+
+## White Co. ARGenWeb
+census/n-index_census.htm lists 1910 Dist. 150-173 and 1920 township
+bodies (Albion through Union, etc.). Township files not opened this pass
+(large county; residual B076).

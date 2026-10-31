@@ -1,0 +1,9 @@
+# Extract — Conway Book Z + nodates (B070 companion)
+# Full parse and rejects: sources/census/perry-1910-unpublished-dora-2026-10-31.txt
+# Book Z bride HTML: sources/marriages/conway/book-z-bride.html
+# Landing: sources/marriages/conway/marriages-htm-2026-10-31.html
+# Nodates: sources/marriages/conway/nodates-2026-10-31.html
+#
+# Book Z (19 Aug 1925–28 Jul 1927): 633 rows. No Newnam/Newman. No Dora×Stone.
+# No T.A./Tom/Thomas Stone groom. Last posted Conway book (no AA+).
+# Nodates (pre-1914 submissions): Ella = Gardenhire only. No Dora/Newnam/Stone.

@@ -1,0 +1,248 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+	<title>Breathitt County, Kentucky on KyGenWeb</title>
+	<!-- <link href="style.css" rel="stylesheet" type="text/css"> -->
+	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+	<script src="//inc.freefind.com/inc/ffse-overlay.min.js" async></script>
+
+	<script>
+	window.onload = function(){
+		//var $newtext = document.getElementById('new').textContent;
+		var $newtext = document.getElementById('new').innerHTML;
+		setInterval(() => {
+			setTimeout(function(){
+				document.getElementById('new').innerHTML= $newtext;
+			}, 1500);
+			document.getElementById('new').innerHTML='<span class="red notice">. . . N E W . . .</span>';
+		}, 8000);
+	}
+	function fixem(id){
+		var $hide = document.getElementById(id).value;
+		var $surname = document.getElementById('surname'+id).innerText;
+		var $req = document.getElementById('req'+id).innerText;
+		//alert(document.getElementById('surname'+id).innerHTML);
+		// replace <br /> with line breaks
+		$req = $req.replace(/<br \/>/g,'\n\r');
+		
+		// format mailto link and encode line breaks with encodeURIComponent()
+		document.location.href = "mailto:"+$hide+"?subject="+$surname+" database offer&body=Re: "+encodeURIComponent($surname)+" database offer.";
+	}
+	</script>
+
+	<meta charset="utf-8">
+	<link rel="shortcut icon" type="image/x-icon" href="//www.kykinfolk.com/breathitt/favicon.ico">
+	<link href="//kygenweb.net/breathitt/style.css" rel="stylesheet" type="text/css">
+	<link href="//kygenweb.net/breathitt/nav.css" rel="stylesheet" type="text/css">
+	<meta content="width=device-width, initial-scale=1" name="viewport" />
+</head>
+<body>
+<div id="header">
+	<div id="logo">
+		<a href="//kygenweb.net/breathitt/">
+			<img src="//kygenweb.net/breathitt/images/Breathitt_Co_map.gif" width="120" style="width:120px;margin:4px 14px 4px 40px;float:left;">
+			Breathitt&nbsp; County&nbsp; Kentucky
+		</a>
+	</div>
+	<div id="subtitle">A KyGenWeb Project</div>
+	<div id="nav-top">
+		
+		<!-- [THE HAMBURGER] -->
+		<!-- <label for="hamburger">&#9776;</label> -->
+		<label for="hamburger"><img src="images/icons/icons8-menu-50.png"></label>
+		<input type="checkbox" id="hamburger" hidden/>
+		
+		<!-- [THE MENU] -->
+		<ul style="padding:0px">
+			<li><a href="//kygenweb.net/breathitt/index.html">Home</a></li>
+			<li class="submenu"><a href="//kygenweb.net/breathitt/families.html">Breathitt Families</a>
+				<ul>
+					<li><a href="//kygenweb.net/breathitt/albums/albums.html">Albums - Early Families</a></li>
+					<li><a href="//kygenweb.net/breathitt/databases/databases.html">Individuals Databases</a></li>
+				</ul>
+			</li>
+			<li class="submenu"><a href="//kygenweb.net/breathitt/births_deaths/index.html">Births &amp; Deaths</a>
+				<ul>
+					<li><a href="//kygenweb.net/breathitt/cards_obits/index.html">Funeral Cards &amp; Obits</a></li>
+					<li><a href="//kygenweb.net/breathitt/cemeteries/index.html">Cemeteries</a></li>
+				</ul>
+			</li>
+			<li><a href="//kygenweb.net/breathitt/buildings/buildings.html">Photos</a></li>
+			<li><a href="//kygenweb.net/breathitt/military/military.html">Military</a></li>
+			
+			<li><a href="//kygenweb.net/breathitt/library.html">Reading Room</a></li>
+			<li class="submenu"><a href="//kygenweb.net/breathitt/reading/research.html">Research</a>
+				<ul>
+					<li><a href="//kygenweb.net/breathitt/reading/links.html">Research Links</a></li>
+					<li><a href="//kygenweb.net/breathitt/queries.html">Research Requests</a></li>
+				</ul>
+			</li>
+			<!-- <li><a href="privacy.php">Privacy Policy</a></li> -->
+			<li class="submenu"><a href="//kygenweb.net/breathitt/about.html">About</a>
+				<ul>
+					<li><a href="//kygenweb.net/breathitt/contact.html">Contact Us</a></li>
+				</ul>
+			</li>
+		</ul>
+	</div>
+</div>
+
+<table class="home">
+<tr>
+	<td rowspan="2" width="24%">
+		<!-- <div class="photo"><img src="a_images/Breathitt_Co_map.gif" width="160"></div> -->
+		<div class="lhmenu">
+		<h6>On This Site</h6>
+		<ul>
+			<li><a href="births_deaths/index.html">Births &amp; Deaths</a></li>
+			<li><a href="cards_obits/index.html">Funeral Cards &amp; Obits</a></li>
+			<li><a href="cemeteries/index.html">Cemeteries</a></li>
+			<li><a href="albums/albums.html">Albums - Early families</a></li>
+			<li><a href="databases/databases.html">Individuals Databases</a></li>
+			<li><a href="buildings/buildings.html">Buildings &amp; School Pics</a></li>
+			<li><a href="library.html">Reading Room</a></li>
+			<li><a href="families.html">Breathitt Families</a></li>
+			<li><a href="military/military.html">Military</a></li>
+			<li><a href="reading/links.html">Research Links</a></li>
+			<li><a href="queries.html"><span id="new">Research Requests</span></a></li>
+			<li><a href="about.html">About</a></li>
+		</ul>
+		</div>
+		<br />
+
+		<!-- start of freefind search box html -->
+		<h6>Search This Site</h6>
+		<div style="font-family:Arial,Helvetica,sans-serif;font-size:7.5pt;">
+			<form action="https://search.freefind.com/find.html" method="get" accept-charset="utf-8" target="_self">
+			<input type="hidden" name="si" value="4729449">
+			<input type="hidden" name="pid" value="r">
+			<input type="hidden" name="n" value="0">
+			<input type="hidden" name="_charset_" value="">
+			<input type="hidden" name="bcd" value="&#247;">
+			<input type="text" name="query" size="15"> 
+			<input type="submit" value="search">
+			</form>
+			<div style="text-align:left;font-family:Arial,Helvetica,sans-serif;font-size:7.5pt;margin-top:-10px !important;"">
+				<a style="text-decoration:none;color:gray;" href="https://www.freefind.com"  rel="nofollow">search engine</a><a style="text-decoration:none;color:gray;" href="https://www.freefind.com"  rel="nofollow" > by
+				<span style="color: #606060;">freefind</span></a></div>
+		</div>
+		<!-- end of freefind search box html -->
+
+		<br /><br />
+		<div class="photo">
+	    <img src="images/famtree.jpg" align="bottom" border="0" width="150" height="100"><br />
+	    <a href="databases/databases.html">Individual Databases for<br />Breathitt County Families</a>
+		</div>
+		<br /><br />
+		<div class="photo">
+		<img src="images/jwsouth.jpg" width="100" height="142"><br />
+		Jeremiah Weldon South<br />"The Father of Breathitt County"
+		</div>
+		<br /><br />
+		<div align="center">
+		<img src="images/ky-flag-small.gif" width="100" align="bottom" border="0">
+		<br /><br /><br />
+		<img src="images/bookmark.gif" width="174" height="48" align="bottom" border="0">
+		</div>
+	</td>
+	<td colspan="2" class="welcome">
+		<h1>Welcome to Breathitt County on KYGenWeb</h1>
+		<noscript><div class="red notice"><p>Please enable javascript in your browser to view this site properly.</p></div></noscript>
+		This KyGenWeb project is dedicated to maintaining genealogical information about our Breathitt County, Kentucky connecting families. 
+		This is an <span class="notice">ongoing effort and needs your help</span>. Any information you can add or correct contributes to the benefit of all Breathitt County family researchers.<br /><br />
+		
+		<h4 style="color:#b00;text-align:center;width:100%;">Our web address (URL) recently changed to<br />https://kygenweb.net/breathitt/<br />Please update your bookmarks.</h4>
+		
+		<div style="border:2px dotted #dd0000; padding:20px;"><!-- 2024-06-25 -->
+		<b>A Special offer for researchers of <span id="surname11">Deaton, Freeman, Vuncannon, Carper</span> from 
+		<a href="javascript:void(0)" onClick="fixem('11')">Mike Deaton</a><input type="reset" disabled="disabled" style="display:none;" id="11" value="mpdeaton@duck.com"></b><br />
+		<span id="req11" style="font-size:0.9rem">I would like to give this to someone who would be willing to take this information and run with it.  Add to it, make corrections, etc.  
+		The Family Tree data file along with support files is 320m+, the picture folder contains 39,000+ pictures/documents (31.4GB). The database is in Legacy Family Tree (free, Windows) software.  
+		To get this database all I ask is you send a 1TB external hard drive to me, pay shipping both ways.  I will copy the entirety of it and return to you.  I have several thousands of dollars invested and over 20 years of work in this project, and it can be yours for just the cost of shipping a 1TB external hard drive both ways.  
+		Contact me for more details.</span>
+		</div><br />
+		
+		Speaking of help, please take a quick look at the <a href="queries.html">Research Requests page</a> and see if you can help someone, or consider having your own request there.<br /><br />
+		
+		If you're interested in contributing information to this site for other researchers, please <a href="http://www.kykinfolk.com/breathitt/contact.html" title="contact me">contact me</a>.<br /><br />
+		
+		Try using the search form for this web site which is under the menu on the left side of this page. There is a lot of information here and that search form is a great tool for digging through it all.<br /><br />
+		Take a look at the USGenWeb Archives <a href="http://usgwarchives.net/ky/breathitt/" target="_blank">Breathitt County Archives</a> site. It offers many great resources such as census data.<br /><br />
+		The KYGenWeb Project maintains a <a href="http://www.kygenweb.net/lookups.html" target="_blank">list of lookup volunteers</a> you should absolutely take a look at.<br /><br />
+		Thank You and Happy Hunting!!<br />
+		Scott Hampton<br />
+		Breathitt County Coordinator
+	</td>
+</tr>
+<tr id="search">
+	<td colspan="2">
+		<!-- start of freefind search box html -->
+		<div>
+			<form action="https://search.freefind.com/find.html" method="get" accept-charset="utf-8" target="_self">
+			<input type="hidden" name="si" value="4729449">
+			<input type="hidden" name="pid" value="r">
+			<input type="hidden" name="n" value="0">
+			<input type="hidden" name="_charset_" value="">
+			<input type="hidden" name="bcd" value="&#247;">
+			<b>Search This Site:</b> &nbsp;<input type="text" name="query" size="25">&nbsp; 
+			<input type="submit" value="search" id="btn">
+			</form>
+			<span id="atrb"><a style="text-decoration:none;color:gray;" href="https://www.freefind.com"  rel="nofollow">search engine by freefind</a></span>
+		</div>
+		<!-- end of freefind search box html -->
+	</td>
+</tr>
+<tr>
+	<td>
+	    <b><u>A Few Words About The Content On This Site</u></b><br />
+	    1. I try to verify other web sites listed here are not scams. If you find one that I missed please let me know.<br />
+	    2. This site is a source of information for Breathitt County researchers. Information presented here and links to other web sites 
+	    have been submitted by many different researchers.  It is posted here in the interests of openly sharing information without censorship.  
+	    If you have an issue regarding validity of information, especially on another web site, please take that up with the owner of the other 
+	    web site.  I am not a researcher of all families and certainly am in no position to be the arbitrator of family disputes and unless another 
+	    web site is clearly a scam I will not remove a link because someone doesn't like it. Thanks for your consideration.<br />
+	    <!-- 
+	    <b><u>Latest Major Site Updates</u></b><br />
+	    Nov. 2021 - Beginning slow conversion to mobile friendly. New menu. Continued clean up.<br />
+	    Jun 23, 2020 - Added <a href="queries.html" target="_blank" title="Research Requests">Research Requests</a> page.<br />
+	    May 19, 2020 - Continued site clean-up and some new and fixed links.<br />
+	    Jun 20, 2019 - The Funeral Cards and Newspaper Obituaries pages have been combined in to one which is easier to use. All obituaries have been separated as well. Please update your bookmarks OR better yet start your research on this home page which will always be updated to reflect any changes in the site. Thanks!<br />
+	    Mar/Apr 2019 - Continued site clean-up<br />
+	    Feb 2019 - Adding new research links.<br />
+	     -->
+	    3. This web site is continually being updated.  <u>PLEASE bookmark ONLY the home page as some links do change</u>.  If you find any broken links please take a quick moment and <a href="http://www.kykinfolk.com/breathitt/contact.html" title="contact me">contact me</a> about it<br />Thanks ~ Scott
+		<br /><br />
+		<div style="font-size:0.84em;"><b><u>NOTE:</u></b> Links to web sites that are not part of the USGenWeb Project [indicated by <span><svg width="16px" height="16px" viewBox="0 0 24 24"><g id="external_link" class="icon_svg-stroke" stroke="#666" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"><polyline points="17 13.5 17 19.5 5 19.5 5 7.5 11 7.5"></polyline><path d="M14,4.5 L20,4.5 L20,10.5 M20,4.5 L11,13.5"></path></g></svg></span>] are provided for your convenience and do not imply any endorsement of the web sites or their contents by The USGenWeb Project.
+	</td>
+	<td width="22%" style="font-size:0.84em;">
+		<div align="center">
+		<br />
+		Breathitt County, KyGenWeb is generously hosted by:<br /><br />
+		<a href="http://www.kygenweb.net/" target="_blank"><img src="images/kylogofsm.png" width="120" align="bottom" border="0"><br />
+		The KYGenWeb Project</a><br /><br />
+	    Visit KYGenWeb and check out other Kentucky County GenWeb sites.
+		<br />
+		<hr style="width:50%;margin-top:20px;">
+		<br />
+		<a href="http://usgwarchives.net/ky/breathitt/">Breathitt County, KYGenWeb Archives</a>
+		<br />
+		<hr style="width:50%;margin-top:20px;">
+		<br />
+		<a href="http://www.usgenweb.com/" target="_blank"><img src="images/logo-25s-w.png" width="100%" align="bottom" border="0"></a>
+		</div>
+		<br /><br />
+	</td>
+</tr>
+</table>
+
+<div id="footer">
+	<div id="copyright">Copyright 1998-<script>document.write(new Date().getFullYear())</script> KyGenWeb</div>
+	<div id="credit">Breathitt County KyGenWeb maintained by Scott Hampton</div>
+<!-- <div id="email">kentuckyroots -at- gmail -dot- com</div> -->
+	<div id="email">
+	<a href="http://www.kykinfolk.com/breathitt/contact.html" title="contact me">contact me</a>
+	</div>
+</div>
+
+</body>
+</html>
