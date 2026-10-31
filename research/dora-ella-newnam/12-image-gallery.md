@@ -207,6 +207,16 @@ Diplomatic transcriptions: [`08-transcriptions.md`](08-transcriptions.md). Citat
 | 232 | 1900 (index) | Context | [Illinois S-415 — Frank, 32, Missouri, Chicago brother-in-law](sources/soundex/il1900-s415-p2200-frank-32-mo-bil.jpg) |
 | 233 | 1900 (index) | Context | [Illinois S-415 — Michael F., 30, Indiana, Chicago roomer](sources/soundex/il1900-s415-p3551-michael-f-30-in-roomer.jpg) |
 | 234 | 1900 (index) | Rejected same-name | [Illinois S-415 — Mike, 34, Indiana, Toluca; Francie, SD 1; not C244](sources/soundex/il1900-s415-p3602-mike-34-in-francie.jpg) |
+| 235 | 1900 (index) | Rejected same-name | [Kentucky S-415 — Daniel A., 42, Indiana, Louisville; Lilly, 10; not C244](sources/soundex/ky1900-s415-n2576-daniela-42-in-lilly-10.jpg) |
+| 236 | 1900 (index) | Rejected same-name | [Kentucky S-415 — Perry; wife Lilitha, 40, Kentucky; not C244](sources/soundex/ky1900-s415-n3097-perry-lilitha-40.jpg) |
+| 237 | 1900 (index) | Rejected same-name | [Kentucky S-415 — Slavin, Peter L.; Docia, 8/12; not C244](sources/soundex/ky1900-s415-n3100-slavin-peterl-docia.jpg) |
+| 238 | 1900 (index) | Rejected same-name | [Arkansas S-415 — Joseph L.; Viola E., 7; not C244](sources/soundex/ar1900-s415-n2656-joseph-l-viola-e-7.jpg) |
+| 239 | 1900 (index) | Rejected same-name | [Tennessee S-415 — Paul, Henry; Lettie, 5; not C244](sources/soundex/tn1900-s415-n0306-paul-lettie-5.jpg) |
+| 240 | 1900 (index) | Rejected same-name | [Tennessee S-415 — Peter, 48, West Virginia, Knox; Lena, 4; not C244](sources/soundex/tn1900-s415-n0310-peter-lena-4.jpg) |
+| 241 | 1900 (index) | Rejected same-name | [Illinois S-415 — Joseph, 36, Indiana, Geneva; Marry B., 1; not C244](sources/soundex/il1900-s415-n3050-joseph-36-in-marryb-1.jpg) |
+| 242 | 1900 (index) | Context | [Illinois S-415 — Charles, 27, Indiana, Chicago Heights boarder](sources/soundex/il1900-s415-n1660-charles-27-in-boarder.jpg) |
+| 243 | 1900 (index) | Rejected same-name | [Tennessee S-415 — Charles, 47, Virginia, Nashville; Eddie, 14, Indiana; not C244](sources/soundex/tn1900-s415-n3783-charles-va-mo-in.jpg) |
+| 244 | 1900 (index) | Rejected same-name | [Illinois S-415 — Josephine, 3, Chicago cousin; not C244](sources/soundex/il1900-s415-n3074-josephine-3-cousin.jpg) |
 | 123 | 1900 (index) | Context | [Texas C-563 — J-tab divider](sources/soundex/tx1900-c563-p1-j-divider.jpg) |
 | 17 | Apr 1910 | Negative search | [Kentucky N-550 — Millie / Missouri; no McCoy](sources/soundex/ky1910-n550-p329-millie-missouri.jpg) |
 | 18 | Apr 1910 | Negative search | [Kentucky N-550 — Monroe; still no McCoy](sources/soundex/ky1910-n550-p330-monroe-no-mccoy.jpg) |
@@ -2145,6 +2155,106 @@ White individual, May 1870, age 30, born Indiana, Cook County, Chicago, Washingt
 White head, September 1865, age 34, born Indiana, Marshall County, Toluca, Atchison Place. Wife Catherine, May 1871, 29, Illinois. Stepchildren Daniel Mirtley, 6, Colorado; Emeline, 4, Illinois; Francie, stepdaughter, February 1899, 1, Illinois. Diplomatic Francie. Rejected as C244.
 
 ![Illinois S-415 — Mike, 34, Indiana, Toluca; Francie, SD 1; not C244](sources/soundex/il1900-s415-p3602-mike-34-in-francie.jpg)
+
+### 235 · 1900 (index) · Kentucky S-415 — Daniel A., 42, Indiana, Louisville; Lilly, 10; not C244
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/ky1900-s415-n2576-daniela-42-in-lilly-10.jpg`](sources/soundex/ky1900-s415-n2576-daniela-42-in-lilly-10.jpg)  
+**Source:** S379 · C610
+
+White head, June 1857, age 42, born Indiana, Jefferson County, Mag Dist 8, Louisville, Clarke Avenue 1073, volume 40, ED 137, sheet 15, line 36. Wife Emma, July 1856, 43, Indiana. Daughters Cora, August 1877, 22, and Lilly, April 1889, 10, Indiana. Diplomatic Lilly. Only Kentucky Indiana-born father with children in the Pass 94 walk. Rejected as C244.
+
+![Kentucky S-415 — Daniel A., 42, Indiana, Louisville; Lilly, 10; not C244](sources/soundex/ky1900-s415-n2576-daniela-42-in-lilly-10.jpg)
+
+### 236 · 1900 (index) · Kentucky S-415 — Perry; wife Lilitha, 40, Kentucky; not C244
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/ky1900-s415-n3097-perry-lilitha-40.jpg`](sources/soundex/ky1900-s415-n3097-perry-lilitha-40.jpg)  
+**Source:** S379 · C611
+
+White head, December 1857, age 42, born Kentucky, Whitley County, Mag Dist 4, volume 75, ED 139, sheet 22, line 22. Wife Lilitha, July 1859, 40, Kentucky. Sons Doctor F., 17; John R., 10; and a third son, 8. Diplomatic Lilitha (L-i-l-i-t-h-a). Adult wife, Litha-family string only. Rejected as C244.
+
+![Kentucky S-415 — Perry; wife Lilitha, 40, Kentucky; not C244](sources/soundex/ky1900-s415-n3097-perry-lilitha-40.jpg)
+
+### 237 · 1900 (index) · Kentucky S-415 — Slavin, Peter L.; Docia, 8/12; not C244
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/ky1900-s415-n3100-slavin-peterl-docia.jpg`](sources/soundex/ky1900-s415-n3100-slavin-peterl-docia.jpg)  
+**Source:** S379 · C612
+
+White head, March 1877, age 23, born Kentucky, Pulaski County, Mag Dist 7, volume 65, ED 120, sheet 10, line 88. Wife Jane, May 1883, 17, Kentucky. Daughter Docia, October 1899, 8/12, Kentucky. Only Peter star card. Surname Slavin. Diplomatic Docia. Rejected as C244.
+
+![Kentucky S-415 — Slavin, Peter L.; Docia, 8/12; not C244](sources/soundex/ky1900-s415-n3100-slavin-peterl-docia.jpg)
+
+### 238 · 1900 (index) · Arkansas S-415 — Joseph L.; Viola E., 7; not C244
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/ar1900-s415-n2656-joseph-l-viola-e-7.jpg`](sources/soundex/ar1900-s415-n2656-joseph-l-viola-e-7.jpg)  
+**Source:** S380 · C613
+
+White head, March 1862, age 38, born Arkansas, Hempstead County, Ozan, volume 15, ED 47, sheet 17, line 86. Wife Anna, February 1873, 27, Arkansas. Son Nolan O., 9; daughter Viola E., June 1893, 7, Arkansas; youngest daughter December 1897, 3 (Ivory or Ivey). Father Arkansas. Diplomatic Viola E. Rejected as C244.
+
+![Arkansas S-415 — Joseph L.; Viola E., 7; not C244](sources/soundex/ar1900-s415-n2656-joseph-l-viola-e-7.jpg)
+
+### 239 · 1900 (index) · Tennessee S-415 — Paul, Henry; Lettie, 5; not C244
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/tn1900-s415-n0306-paul-lettie-5.jpg`](sources/soundex/tn1900-s415-n0306-paul-lettie-5.jpg)  
+**Source:** S381 · C618
+
+White head, February 1865, age 35, born Tennessee, Henry County, 5 Civil District. Wife Mattie, January 1878, 22. Sons Jessie, 11, and Earl, 8; daughter Lettie, January 1895, 5, Tennessee; Dallas, male, June 1839, 61. Diplomatic Lettie. Deep crop. Father Tennessee. Rejected as C244.
+
+![Tennessee S-415 — Paul, Henry; Lettie, 5; not C244](sources/soundex/tn1900-s415-n0306-paul-lettie-5.jpg)
+
+### 240 · 1900 (index) · Tennessee S-415 — Peter, 48, West Virginia, Knox; Lena, 4; not C244
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/tn1900-s415-n0310-peter-lena-4.jpg`](sources/soundex/tn1900-s415-n0310-peter-lena-4.jpg)  
+**Source:** S381 · C617
+
+White head, November 1852, age 48, born West Virginia, Knox County, 14th Civil District. Wife Margaret, 30, France, not naturalized. Daughters Mamie, 7, and Lena, March 1896, 4, Tennessee. Only Tennessee Peter star card. Diplomatic Lena. Rejected as C244.
+
+![Tennessee S-415 — Peter, 48, West Virginia, Knox; Lena, 4; not C244](sources/soundex/tn1900-s415-n0310-peter-lena-4.jpg)
+
+### 241 · 1900 (index) · Illinois S-415 — Joseph, 36, Indiana, Geneva; Marry B., 1; not C244
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/il1900-s415-n3050-joseph-36-in-marryb-1.jpg`](sources/soundex/il1900-s415-n3050-joseph-36-in-marryb-1.jpg)  
+**Source:** S382 · C625
+
+White head, July 1863, age 36, born Indiana, Kane County, Geneva Township, Geneva Third, volume 102, ED 108, sheet 4, line 73. Wife Julia, March 1863, 37, Illinois. Son Harry A., April 1888, 12; daughters Margaret, July 1894, 5, and Marry B., July 1898, 1, Illinois. Diplomatic Marry B. Closest Illinois Indiana-father plus girl about age 1. Kane County, not Bollinger. Rejected as C244.
+
+![Illinois S-415 — Joseph, 36, Indiana, Geneva; Marry B., 1; not C244](sources/soundex/il1900-s415-n3050-joseph-36-in-marryb-1.jpg)
+
+### 242 · 1900 (index) · Illinois S-415 — Charles, 27, Indiana, Chicago Heights boarder
+
+**Role:** Context  
+**File:** [`sources/soundex/il1900-s415-n1660-charles-27-in-boarder.jpg`](sources/soundex/il1900-s415-n1660-charles-27-in-boarder.jpg)  
+**Source:** S382 · C623
+
+White individual, July 1872, age 27, born Indiana, Ford County, Bloom Township, Chicago Heights, volume 18, ED 1139, sheet 6, line 72. Enumerated with Hogins, C.W., as boarder. Family grid unused. Indiana nativity near-hit; no child. Keep separate from C244.
+
+![Illinois S-415 — Charles, 27, Indiana, Chicago Heights boarder](sources/soundex/il1900-s415-n1660-charles-27-in-boarder.jpg)
+
+### 243 · 1900 (index) · Tennessee S-415 — Charles, 47, Virginia, Nashville; Eddie, 14, Indiana; not C244
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/tn1900-s415-n3783-charles-va-mo-in.jpg`](sources/soundex/tn1900-s415-n3783-charles-va-mo-in.jpg)  
+**Source:** S381 · C620
+
+White head, September 1852, age 47, born Virginia, Davidson County, Nashville, North 1st 615. Wife Cora, 46, Kentucky. Daughter Josephine, 19, Illinois; sons Lewis, 17, Missouri, Eddie, September 1886, 14, Indiana, and Freddie, 11, Illinois. Indiana is a son, not the father. Deep crop. Rejected as C244.
+
+![Tennessee S-415 — Charles, 47, Virginia, Nashville; Eddie, 14, Indiana; not C244](sources/soundex/tn1900-s415-n3783-charles-va-mo-in.jpg)
+
+### 244 · 1900 (index) · Illinois S-415 — Josephine, 3, Chicago cousin; not C244
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/il1900-s415-n3074-josephine-3-cousin.jpg`](sources/soundex/il1900-s415-n3074-josephine-3-cousin.jpg)  
+**Source:** S382 · C627
+
+White individual, June 1896, age 3, born Illinois, Cook County, Chicago, 43rd 731. Enumerated with McCarthy, Edward J., as cousin. Diplomatic Josephine. Not a Letha-string child on a Sullivan head card. Rejected as C244.
+
+![Illinois S-415 — Josephine, 3, Chicago cousin; not C244](sources/soundex/il1900-s415-n3074-josephine-3-cousin.jpg)
 
 ### 123 · 1900 (index) · Texas C-563 — J-tab divider
 

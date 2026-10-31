@@ -883,3 +883,83 @@ research/dora-ella-newnam/sources/soundex/il1900-s415-p3602-mike-34-in-francie.j
   format: JPEG Soundex card, IA soundex1900il401 n3602 rotate -90
 research/dora-ella-newnam/sources/soundex/b007-pass93-1900-ky-ar-il-tn-s415-other-fathers-2026-10-31.txt
   format: Pass 93 KY/AR/IL/TN S-415 other-father search log
+research/dora-ella-newnam/sources/soundex/ky1900-s415-n2576-daniela-42-in-lilly-10.jpg
+  sha256: e44d9b36864829346ec408e27c9bde30020c9407058791477391c2ee77d8d329
+  format: JPEG Soundex card, IA soundex1900ky161 n2576
+research/dora-ella-newnam/sources/soundex/ky1900-s415-n3097-perry-lilitha-40.jpg
+  sha256: 7b6adb169586982ea9f22c75b690f2acddf734edd0f99ca7ee4be81e5a5f7d9f
+  format: JPEG Soundex card, IA soundex1900ky161 n3097
+research/dora-ella-newnam/sources/soundex/ky1900-s415-n3100-slavin-peterl-docia.jpg
+  sha256: 90dbea58dacfd1c8a6975ccd109b8052c0f03103e1fd3b542a88e79945c8fac0
+  format: JPEG Soundex card, IA soundex1900ky161 n3100
+research/dora-ella-newnam/sources/soundex/ky1900-s415-n2545-charlie-lillie-1.jpg
+  sha256: 9b167db7ca5e1105c547953e87777f908eb9322b899e1788c4305dc99dc80146
+  format: JPEG Soundex card, IA soundex1900ky161 n2545
+research/dora-ella-newnam/sources/soundex/ar1900-s415-n2456-daniel-23-mo.jpg
+  sha256: 9a0dae6b1dd59d260551918d4f39a43bc5e6b8a07d64167cb5952b7fc5ffd902
+  format: JPEG Soundex card, IA soundex1900ar107 n2456
+research/dora-ella-newnam/sources/soundex/ar1900-s415-n2457-danielf-alphra-in.jpg
+  sha256: f02e3aca0829894886b095674068bc933c680e0497a7e57cf4b2123e108bc770
+  format: JPEG Soundex card, IA soundex1900ar107 n2457
+research/dora-ella-newnam/sources/soundex/ar1900-s415-n2656-joseph-l-viola-e-7.jpg
+  sha256: efbcc30b957af366fd88c2eba974be2a658aea09348abb9a38b3fda034fc54d6
+  format: JPEG Soundex card, IA soundex1900ar107 n2656
+research/dora-ella-newnam/sources/soundex/ar1900-s415-n2753-peters-susie-1.jpg
+  sha256: 477912785711398cb67c72d63df5a5fefacd92d517988f09349500cf02fa3e47
+  format: JPEG Soundex card, IA soundex1900ar107 n2753
+research/dora-ella-newnam/sources/soundex/tn1900-s415-n0305-paul-lea-1-12.jpg
+  sha256: b487b027b65301e37e87796e8172c03aff7d9a4002c79ff7cd8cdb6ea4b208a7
+  format: JPEG Soundex card, IA soundex1900tn154 n305
+research/dora-ella-newnam/sources/soundex/tn1900-s415-n0306-paul-lettie-5.jpg
+  sha256: 43b77ef262295a6a4d913d0e166a34327a8b749ff599ce6a6e48b748a66e3124
+  format: JPEG Soundex card, IA soundex1900tn154 n306
+research/dora-ella-newnam/sources/soundex/tn1900-s415-n0310-peter-lena-4.jpg
+  sha256: 06f3b5881685be412d95d20cb315fd25c344b3826619db17b9d20aaf921b29bd
+  format: JPEG Soundex card, IA soundex1900tn154 n310
+research/dora-ella-newnam/sources/soundex/tn1900-s415-n0329-robtb-ida-mo.jpg
+  sha256: a2518abe2307a5361f306c37a43bb776b81763ff3611da215802ba501ffcc268
+  format: JPEG Soundex card, IA soundex1900tn154 n329
+research/dora-ella-newnam/sources/soundex/tn1900-s415-n3783-charles-va-mo-in.jpg
+  sha256: 52e8de6fd3f609ea9b3c1ec25fc8ef6eacc2a364244bd344cb5034c5590931ca
+  format: JPEG Soundex card, IA soundex1900tn153 n3783
+research/dora-ella-newnam/sources/soundex/tn1900-s415-n3784-charles-hattie-roy.jpg
+  sha256: a35b6dc22b35ecd50d911780205b8ab02107111e92d71d80b0dd3884626b8626
+  format: JPEG Soundex card, IA soundex1900tn153 n3784
+research/dora-ella-newnam/sources/soundex/tn1900-s415-n3814-daniel-flora-2.jpg
+  sha256: 7af62fb24cbfb4ff7c5339e71c1f524ebe0c5f86e5b73a7463543d07b687bb4f
+  format: JPEG Soundex card, IA soundex1900tn153 n3814
+research/dora-ella-newnam/sources/soundex/tn1900-s415-n3820-danielf-francis-2.jpg
+  sha256: ba85ab43b82dc79cc76636deffba88004bdff2417b76593762f1a44cbd3f861a
+  format: JPEG Soundex card, IA soundex1900tn153 n3820
+research/dora-ella-newnam/sources/soundex/il1900-s415-n1660-charles-27-in-boarder.jpg
+  sha256: 03564819696309137b9f68a55c3de02801b699bb332ed7e8fc63bb70007bf6da
+  format: JPEG Soundex card, IA soundex1900il401 n1660 rotate -90
+research/dora-ella-newnam/sources/soundex/il1900-s415-n1691-charlest-52-in-adults.jpg
+  sha256: e4d1187861783cfa7c4d93a6767ce302d6f00b175dff4ad86480d10a534b1e6f
+  format: JPEG Soundex card, IA soundex1900il401 n1691 rotate -90
+research/dora-ella-newnam/sources/soundex/il1900-s415-n1667-charles-30-mo-joe8.jpg
+  sha256: 6410d85440683361db8ad9cf5281a80501ef668677ab56fab7c4faa8d8b86829
+  format: JPEG Soundex card, IA soundex1900il401 n1667 rotate -90
+research/dora-ella-newnam/sources/soundex/il1900-s415-n1861-danl-33-mo.jpg
+  sha256: 5dde7b0b515ca6ea26b2884f81f2545335caf45d2b23738451030ef44f5c6e01
+  format: JPEG Soundex card, IA soundex1900il401 n1861 rotate -90
+research/dora-ella-newnam/sources/soundex/il1900-s415-n3050-joseph-36-in-marryb-1.jpg
+  sha256: f82915a464a688e6341f5d8184042c4d34cb053f60f5850edfb3ebc88bf2f179
+  format: JPEG Soundex card, IA soundex1900il401 n3050 rotate -90
+research/dora-ella-newnam/sources/soundex/il1900-s415-n3062-josephb-72-in-alone.jpg
+  sha256: 6304290c9c5cf75386c168650f931991e48d86146660f77a175d1fd9e1073281
+  format: JPEG Soundex card, IA soundex1900il401 n3062 rotate -90
+research/dora-ella-newnam/sources/soundex/il1900-s415-n3074-josephine-3-cousin.jpg
+  sha256: 1455f5b885e6e4b5ee0dd7efe02cbd2c68d527143c27043668e69df1c0d254fc
+  format: JPEG Soundex card, IA soundex1900il401 n3074 rotate -90
+research/dora-ella-newnam/sources/soundex/il1900-s415-n3955-robert-20-in-lodger.jpg
+  sha256: 24811356fa1d28a4aabc3fc13adb8d1e566a62d84a9be5e281f4bc8e97f795b9
+  format: JPEG Soundex card, IA soundex1900il401 n3955 rotate -90
+research/dora-ella-newnam/sources/soundex/il1900-s415-n3913-peter-leodora-13.jpg
+  sha256: b208ae8f4e1aa3db08c9b4dc44cdde01ad65021ddcace20b0ed4ca0e6fdfa5e9
+  format: JPEG Soundex card, IA soundex1900il401 n3913 rotate -90
+research/dora-ella-newnam/sources/soundex/il1900-s415-n3907-peter-lillie-8.jpg
+  sha256: cbc918301f4f1760b14f062f94e096e200e3e58fb23385958b45a2eff37a66dc
+  format: JPEG Soundex card, IA soundex1900il401 n3907 rotate -90
+research/dora-ella-newnam/sources/soundex/b007-pass94-1900-ky-ar-il-tn-s415-charles-robert-2026-10-31.txt
+  format: Pass 94 KY/AR/IL/TN S-415 Charles–Robert search log

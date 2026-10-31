@@ -2138,5 +2138,85 @@ IN nativity near-hit; **no child**. Keep separate from **C244**. → **C586**.
 
 Diplomatic **Francie**; stepdaughter. Township cramped (**Bennington** POSSIBLE). → **C587**.
 
+## DOC168 — 1900 KY Soundex S-415, Daniel A 42 Indiana; Lilly 10
+- Image: `sources/soundex/ky1900-s415-n2576-daniela-42-in-lilly-10.jpg` SHA-256 `e44d9b36864829346ec408e27c9bde30020c9407058791477391c2ee77d8d329`
+- Reel: IA `soundex1900ky161` n**2576**
+
+### Diplomatic
+> **S415 Sullivan, Daniel A** — Head · vol **40** ED **137** sh **15** ln **36** · W June **1857** **42** Indiana · Jefferson Mag Dist **8** / Louisville / Clarke Ave **1073**
+> **Emma** W July **1856** **43** Indiana; **Cora** D Aug **1877** **22** Indiana; **Lilly** D Apr **1889** **10** Indiana
+
+Only KY IN-father with children in the Pass 94 walk. Diplomatic **Lilly**. → **C610**.
+
+## DOC169 — 1900 KY Soundex S-415, Perry; Lilitha 40
+- Image: `sources/soundex/ky1900-s415-n3097-perry-lilitha-40.jpg` SHA-256 `7b6adb169586982ea9f22c75b690f2acddf734edd0f99ca7ee4be81e5a5f7d9f`
+- Reel: IA `soundex1900ky161` n**3097**
+
+### Diplomatic
+> **S415 Sullivan, Perry** — Head · vol **75** ED **139** sh **22** ln **22** · W Dec **1857** **42** Kentucky · Whitley Mag Dist **4**
+> **Lilitha** W July **1859** **40** Kentucky; **Doctor F** S May **1883** **17** Kentucky; **John R** S May **1890** **10** Kentucky; **W[?]t[?]** S Mar **1891** **8** Kentucky
+
+Diplomatic **Lilitha** (L-i-l-i-t-h-a). Adult wife. → **C611**.
+
+## DOC170 — 1900 KY Soundex S-415, Slavin, Peter L; Docia 8/12
+- Image: `sources/soundex/ky1900-s415-n3100-slavin-peterl-docia.jpg` SHA-256 `90dbea58dacfd1c8a6975ccd109b8052c0f03103e1fd3b542a88e79945c8fac0`
+- Reel: IA `soundex1900ky161` n**3100**
+
+### Diplomatic
+> **S415 Slavin, Peter L** — Head · vol **65** ED **120** sh **10** ln **88** · W Mar **1877** **23** Kentucky · Pulaski Mag Dist **7**
+> **Jane** W May **1883** **17** Kentucky; **Docia** D Oct **1899** **8/12** Kentucky
+
+Only Peter* card. Surname **Slavin**. Diplomatic **Docia**. → **C612**.
+
+## DOC171 — 1900 AR Soundex S-415, Joseph L; Viola E 7
+- Image: `sources/soundex/ar1900-s415-n2656-joseph-l-viola-e-7.jpg` SHA-256 `efbcc30b957af366fd88c2eba974be2a658aea09348abb9a38b3fda034fc54d6`
+- Reel: IA `soundex1900ar107` n**2656**
+
+### Diplomatic
+> **S415 Sullivan, Joseph L** — Head · vol **15** ED **47** sh **17** ln **86** · W Mar **1862** **38** Arkansas · Hempstead / Ozan
+> **Anna** W Feb **1873** **27** Arkansas; **Nolan O** S July **1892** **9**; **Viola E** D June **1893** **7** Arkansas; **Ivory[/Ivey?]** D Dec **1897** **3**
+
+Diplomatic **Viola E**. Father Arkansas. → **C613**.
+
+## DOC172 — 1900 TN Soundex S-415, Paul; Lettie 5
+- Image: `sources/soundex/tn1900-s415-n0306-paul-lettie-5.jpg` SHA-256 `43b77ef262295a6a4d913d0e166a34327a8b749ff599ce6a6e48b748a66e3124`
+- Reel: IA `soundex1900tn154` n**0306** (deep crop)
+
+### Diplomatic
+> **S415 Sullivan, Paul** — Head · W Feb **1865** **35** Tennessee · Henry 5 Civil Dist
+> **Mattie** W Jan **1878** **22**; **Jessie** S **11**; **Earl** S **8**; **Lettie** D Jan **1895** **5** Tennessee; **Dallas** M June **1839** **61**
+
+Diplomatic **Lettie**. Deep crop required (0.72 cut the last lines). → **C618**.
+
+## DOC173 — 1900 TN Soundex S-415, Peter; Lena 4
+- Image: `sources/soundex/tn1900-s415-n0310-peter-lena-4.jpg` SHA-256 `06f3b5881685be412d95d20cb315fd25c344b3826619db17b9d20aaf921b29bd`
+- Reel: IA `soundex1900tn154` n**0310**
+
+### Diplomatic
+> **S415 Sullivan, Peter** — Head · W Nov **1852** **48** West Virginia · Knox 14th CD
+> **Margaret** W **30** France NR; **Mamie** D **7** Tennessee; **Lena** D Mar **1896** **4** Tennessee
+
+Diplomatic **Lena**. Only TN Peter*. → **C617**.
+
+## DOC174 — 1900 IL Soundex S-415, Charles 27 Indiana boarder
+- Image: `sources/soundex/il1900-s415-n1660-charles-27-in-boarder.jpg` SHA-256 `03564819696309137b9f68a55c3de02801b699bb332ed7e8fc63bb70007bf6da`
+- Reel: IA `soundex1900il401` n**1660** rotate **-90**
+
+### Diplomatic
+> **S415 Sullivan, Charles** — Individual · vol **18** ED **1139** sh **6** ln **72** · W July **1872** **27** Indiana · Ford / Bloom Twp / Chicago Heights
+> Enumerated with **Hogins, C.W.** · Relationship **Boarder**
+
+Family grid unused. → **C623**.
+
+## DOC175 — 1900 IL Soundex S-415, Joseph 36 Indiana; Marry B 1
+- Image: `sources/soundex/il1900-s415-n3050-joseph-36-in-marryb-1.jpg` SHA-256 `f82915a464a688e6341f5d8184042c4d34cb053f60f5850edfb3ebc88bf2f179`
+- Reel: IA `soundex1900il401` n**3050** rotate **-90** (deep crop)
+
+### Diplomatic
+> **S415 Sullivan, Joseph** — Head · vol **102** ED **108** sh **4** ln **73** · W July **1863** **36** Indiana · Kane / Geneva Twp / Geneva Third
+> **Julia** W Mar **1863** **37** Illinois; **Harry A** S Apr **1888** **12** Illinois; **Margaret** D July **1894** **5** Illinois; **Marry B** D July **1898** **1** Illinois
+
+Diplomatic **Marry B**. Closest IL IN-father + girl ~1. → **C625**.
+
 ## DOC009 — 1910 TN Soundex N-550 McCoy window (nil)
 Handwritten family/individual cards n2461–n2469. Sequence after Mary C (n2460): Mary D 49 Jefferson (son Layton 11); Mary M 70 Hamilton; Mek. G 50 Cheatham (Florence 19, John 17, General 16, Frances 13, William 10, Doria 6, Luther 1½); Melvin 3½ Giles (gs of Deacon George W); Melvin 54 Giles (SIL of same); Minerva 80 Robertson (gds Lona Neely, Nellie Erwin); Minnie 21 Roane (with Sam P. Sparks); Mitchell 27 Hardin (Ollie P 25, Gladys 4, Burl W 3, Royal E 1 9/12). **No McCoy.** SHA-256 n2463 `23610f8aa4c159b1b554ed1786d11f57d2f56f8a2e8994f7289ae7bd02dfca53`; n2469 `340489566090880388fa6b81ca5751c5944dcaf56a7b44f70fe560788f308586`.
