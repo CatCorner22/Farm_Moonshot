@@ -1091,3 +1091,91 @@ Same map, county preview — 33-8 in Magisterial District 2 Millers Creek; Stati
 ![Fleming John 78](sources/census/pass124/keyplates/r199-n0443-john-78-331b.jpg)
 
 **Source:** S1190 · C1550
+
+## 1850 — Greenup / Fleming 395A (pass 125)
+
+1850 U.S. census, Greenup County, District 2, 20 August — Lemuel Newman 38 MD × Matilda 24.
+
+![Greenup Lemuel 38 MD](sources/census/pass125/keyplates/r202-n0373-lemuel-38-md.jpg)
+
+**Source:** S1216 · C1565
+
+1850 U.S. census, Greenup County, stamped 191 — Thomas Newman 28 SC merchant × Tabitha 25 VA.
+
+![Greenup Thomas 28 SC](sources/census/pass125/keyplates/r202-n0384-thomas-28-sc-191.jpg)
+
+**Source:** S1217 · C1566
+
+1850 U.S. census, Greenup County, first district stamped 261 — Henry Newman 30 GER × Eliza 28 OH.
+
+![Greenup Henry 30 GER](sources/census/pass125/keyplates/r202-n0526-henry-30-ger-261.jpg)
+
+**Source:** S1218 · C1567
+
+1850 U.S. census, Fleming County, stamped 386B — Samuel Newman 37 × Sarah 36.
+
+![Fleming Samuel 37](sources/census/pass125/keyplates/r199-n0553-samuel-37-386b.jpg)
+
+**Source:** S1220 · C1570
+
+1850 U.S. census, Fleming County, stamped 389A — James Newman 37 × Mary Jane 33.
+
+![Fleming James 37](sources/census/pass125/keyplates/r199-n0558-james-37-389a.jpg)
+
+**Source:** S1221 · C1571
+
+1850 U.S. census, Fleming County, stamped 395A — Madison or Andrew Newman 31 + six children.
+
+![Fleming 395A](sources/census/pass125/keyplates/r199-n0570-madison-31-395a.jpg)
+
+**Source:** S1222 · C1572
+
+## 1840 — Lincoln pages 123 / 132 (pass 126)
+
+1840 U.S. census, Lincoln County, Kentucky, printed page 123 — Newman J. and Newman H.A. Rejected versus William.
+
+![Lincoln 1840 page 123](sources/census/pass126/keyplates/r117-n0249-page123.jpg)
+
+**Source:** S1252 · C1596
+
+1840 U.S. census, Lincoln County, Kentucky, printed page 132 — Holeman or Newman Dasey. Rejected versus William.
+
+![Lincoln 1840 page 132](sources/census/pass126/keyplates/r117-n0267-page132.jpg)
+
+**Source:** S1253 · C1597
+
+## 1850 — Owsley 299B household 311 (pass 127)
+
+1850 U.S. census, Owsley County, stamped 299B — William Newman 26 × Jane 22 + Francis 4 F + Leanner 2 F. Next door Rebecca Tincher 51.
+
+![Owsley 299B hh 311](sources/census/pass125/keyplates/owsley-1850-299b-hh311-william-jane.jpg)
+
+**Source:** S1263 · C1608
+
+## 1850 — Jessamine 10B Edmund (pass 128)
+
+1850 U.S. census, Jessamine County, 10B — Edmund Newman 27 × Sophia 27. Rejected versus William.
+
+![Jessamine 10B Edmund](sources/census/pass127/keyplates/r208-n0022-jessamine-10b-newman.jpg)
+
+**Source:** S1285 · C1636
+
+## 1850 — Woodford 462A Christopher / Scott Newham (pass 129)
+
+1850 U.S. census, Woodford County, stamped 462 — Christopher Newman 51, Maryland. Rejected versus William.
+
+![Woodford 462A Christopher](sources/census/pass128/keyplates/woodford-462a-christopher-newman.jpg)
+
+**Source:** S1297 · C1654
+
+1850 U.S. census, Scott County, 399B — John Newman 45, Ireland, in Wolfe household 56. Rejected versus William.
+
+![Scott 399B John](sources/census/pass128/keyplates/scott-399b-john-newman-45.jpg)
+
+**Source:** S1299 · C1659
+
+1850 U.S. census, Scott County, 480B — William Newham 38 × Sarah 40. Rejected versus William.
+
+![Scott 480B William Newham](sources/census/pass128/keyplates/scott-480b-william-newham-38.jpg)
+
+**Source:** S1302 · C1662

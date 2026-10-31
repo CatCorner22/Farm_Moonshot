@@ -412,6 +412,29 @@ Place as it was *at the date*; modern equivalent in brackets. Flag impossibiliti
 | **4 Sep 1850** | Fleming Dist 1 stamped **309** | FAN **PROVEN** as image + reject: n0396 John Newman **55** × Elizabeth; Alexander **42** | Fleming Co., KY | C1549 | S1189 |
 | **27 Sep 1850** | Fleming Dist 1 | FAN **PROVEN** as image + reject: n0443 John Newman **78** VA auctioneer × Elizabeth **63** MD. SK **331B** | Fleming Co., KY | C1550 | S1190 |
 | **27 Aug 1850** | Fleming 2nd Div | FAN **PROVEN** as image + reject: n0539 Thomas Newman **40** × Margarett | Fleming Co., KY | C1551 | S1191 |
+| 1850 | Carter | FAN **PROVEN** as compiled-index: KYGenWeb 1850ndex N = Nethercult…Newhart; Tinsley Sally. **No** Newman/Tincher. County **CLOSED** compiled | Carter Co., KY | C1562 C1563 | S1213 S1214 |
+| **20 Aug 1850** | Greenup Dist 2 | FAN **PROVEN** as image + reject: n0373 hh **407 Lemuel Newman 38** MD × Matilda **24** | Greenup Co., KY | C1565 | S1216 |
+| **23 Aug 1850** | Greenup Dist 2 stamp **191** | FAN **PROVEN** as image + reject: n0384 Thomas Newman **28** SC merchant × Tabitha **25** VA + Jalander **5** AL | Greenup Co., KY | C1566 | S1217 |
+| **3 Oct 1850** | Greenup first dist stamp **261** | FAN **PROVEN** as image + reject: n0526 Henry Newman **30** GER laborer × Eliza **28** OH + Wm **5** OH | Greenup Co., KY | C1567 | S1218 |
+| 1850 | Greenup | FAN **PROVEN** as compiled + originals: 3 Newman households all **REJECT**. County **CLOSED** | Greenup Co., KY | C1564 C1568 | S1215–S1218 |
+| 1850 | Lewis | FAN **PROVEN** as compiled every-name: Wayback index04–06 **nil** Newman/Tincher. County **CLOSED** compiled | Lewis Co., KY | C1569 | S1219 |
+| 1850 | Fleming 2nd Div **386B / 389A / 395A** | FAN **PROVEN** as image + reject: Samuel **37** × Sarah; James **37** × Mary Jane; Madison/Andrew **31** + six children. 2nd Div Newman **CLOSED** | Fleming Co., KY | C1570–C1573 | S1220–S1222 |
+| **8 Aug 1850** | Lincoln Dist 1 stamp **245** | FAN **PROVEN** as header isolate: n0180 John W. Craig. Namecol OCR residual | Lincoln Co., KY | C1574 C1575 | S1223 |
+| 1840 | Lincoln | FAN **PROVEN** as index: S-K NEWMAN **123** / **132**. Reel **117** mapped (n0320 Lincoln Dist); pages unread | Lincoln Co., KY | C1576 C1577 | S1224 S1225 |
+| 1850 | Casey / Russell / Bracken / Harrison | FAN **PROVEN** as compiled-index: no Newman/Tincher. Counties **CLOSED** compiled | KY | C1578–C1581 | S1226–S1229 |
+| 1850 | Adair | FAN **PROVEN** as compiled-index: Flowers/Watson heads. Newcomb William H p.**25**. No Newman/Tincher. County **CLOSED** compiled | Adair Co., KY | C1593 | S1248 |
+| 1850 | Mason | FAN **PROVEN** as compiled-index: Newall/Newcomb/Newdigate; Finch **65A/108B**. No Newman/Tincher. County **CLOSED** compiled | Mason Co., KY | C1594 | S1249 |
+| 1840 | Lincoln page **123** | FAN **PROVEN** as image + reject: n0249 Newman **J** + Newman **H.A.** Neither is William | Lincoln Co., KY | C1596 | S1252 |
+| 1840 | Lincoln page **132** | FAN **PROVEN** as image + reject: n0267 Holeman/Newman Dasey [?]. Given name ≠ William | Lincoln Co., KY | C1597 | S1253 |
+| **17 Sep 1850** | Owsley stamped **299B** hh **311** | FAN **PROVEN** as image: **William Newman 26** farmer + Jane **22** + Francis **4 F** + Leanner **2 F**. Next door Rebecca Tincher **51** | Owsley Co., KY | C1608 C1609 | S1263 S1264 |
+| **15–16 Aug 1850** | Jessamine **10A/10B** | FAN **PROVEN** as image + reject: n0022 Edmund Newman **27** × Sophia **27** + three sons. n0021 no Newman | Jessamine Co., KY | C1635–C1637 | S1284 S1285 |
+| **16 Aug 1850** | Jessamine stamp **13** | FAN **PROVEN** as image + reject: William Newman **67** × Nancy **45** | Jessamine Co., KY | C1614 | S1265 |
+| 1850 | Pendleton / Grant / Owen / Washington / Oldham / Taylor / Bourbon | FAN **PROVEN** as compiled-index: no Newman/Tincher living-head. Counties **CLOSED** compiled | KY | C1615–C1621 | S1266–S1272 |
+| **30 Aug 1850** | Woodford Dist 2 stamp **462** | FAN **PROVEN** as image + reject: hh **31 Christopher Newman 51** MD boot/shoemaker + Catherine **17** + John **15** + Thomas **15** | Woodford Co., KY | C1654 | S1297 S1298 |
+| **2 Aug 1850** | Scott Dist 1 East stamp **399** | FAN **PROVEN** as image + reject: John Newman **45** Ireland stonemason in Wolfe hh **56** | Scott Co., KY | C1659 | S1299 |
+| **24 Aug 1850** | Scott Dist 2 stamp **475B** | FAN **PROVEN** as image + reject: hh **411 John B. Newham 47** × Mahala **47** + James **25** | Scott Co., KY | C1661 | S1301 |
+| **27 Aug 1850** | Scott Dist 2 stamp **480B** | FAN **PROVEN** as image + reject: hh **478 William Newham 38** × Sarah **40** | Scott Co., KY | C1662 | S1302 |
+| 1850 | Spencer | FAN **PROVEN** as compiled-index: Simeon **42** / Geo. W. **41** / Thomas **53** + William H **21** son. County **CLOSED** compiled | Spencer Co., KY | C1665 | S1303 |
 
 
 **Impossibility flags:** None. Mother ~29 at Dora’s 1871 birth (Mary b. 1842). Dora age 14 at marriage is legal/period-possible (KY) though young; 1880 age 8 corroborates. Two children born before Coy in the 1886–1889 window would have Dora aged 15–18 — possible. No event after 23 Aug 1926 is attributed to her.

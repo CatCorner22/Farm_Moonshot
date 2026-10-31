@@ -1,0 +1,1592 @@
+Spencer, KY 1850 Federal Census            (INDEX File 2 of 3)
+
+This Census was transcribed by Vicki Mitchell <Ardahl@aol.com> 
+and proofread by Ted Hardman and Katie Alder
+for the USGenWeb Census Project, http://www.usgenweb.org/census.
+
+Copyright 1999 by Vicki Mitchell <Ardahl@aol.com>
+
+************************************************************************
+USGENWEB NOTICE:  These electronic pages may NOT be reproduced in
+any format for profit or presentation by any other organization or
+persons.  Persons or organizations desiring to use this material,
+must obtain the written consent of the contributor, or the legal
+representative of the submitter, and contact the listed USGenWeb
+archivist with proof of this consent.
+************************************************************************
+Thanks to S-K Publications for providing the census page photocopies from
+which this transcription was made.  The complete original, handwritten
+census of this county is available in book form (including a typed index)
+from S-K Publications, PO Box 8173, Wichita KS 67208
+(www.skpub.com/genie/census.html).
+************************************************************************
+
+THIS IS AN INDEX SORTED BY LAST NAME.
+FOR THE COMPLETE CENSUS INFORMATION, OPEN THE FILE IN THE FILE NAME COLUMN.
+===========================================================================
+PG#  LN# LAST NAME      FIRST NAME      AGE    BIRTH PLACE   FILE NAME
+===========================================================================
+94b  24  Haddox         Nancy           13     Ky            pg0093a.txt
+110a 15  Haddux         Daniel          25     Ky            pg0105a.txt
+110a 14  Haddux         Eliz'th         50     Ky            pg0105a.txt
+110a 20  Haddux         George          9      Ky            pg0105a.txt
+100a 23  Haddux         Haydon          19     Ky            pg0093a.txt
+110a 16  Haddux         John            23     Ky            pg0105a.txt
+100a 22  Haddux         John D.         50     Ky            pg0093a.txt
+110a 17  Haddux         Margaret        17     Ky            pg0105a.txt
+100a 25  Haddux         Mary            3      Ky            pg0093a.txt
+100a 24  Haddux         Nancy           13     Ky            pg0093a.txt
+110a 18  Haddux         Nancy           13     Ky            pg0105a.txt
+110a 13  Haddux         William         50     Ky            pg0105a.txt
+110a 19  Haddux         William         12     Ky            pg0105a.txt
+101a 30  Haegan         Mary            21     Ky            pg0093a.txt
+101a 29  Haegan         Mrs.            52     Virg.         pg0093a.txt
+86b  20  Hagerman       Mary            25     Ky            pg0082a.txt
+96b  42  Hagerman       Sarah           74     Virginia      pg0093a.txt
+86b  21  Hagerman       Sarah E.        3      Ky            pg0082a.txt
+86b  19  Hagerman       Tunis           30     Ky            pg0082a.txt
+119a 13  Hall           Casiar          76     Virg          pg0116b.txt
+101b 12  Hall           John            40     Ky            pg0093a.txt
+124b 2   Haman          Sanford         16     Ky            pg0116b.txt
+91a  9   Hamilton       Andrew A.       24     Indiana       pg0082a.txt
+102b 18  Hancock        Laura           1      Ky            pg0093a.txt
+102b 16  Hancock        Rebecca         21     Ky            pg0093a.txt
+102b 15  Hancock        Robert          30     Ky            pg0093a.txt
+102b 17  Hancock        William         3      Ky            pg0093a.txt
+83a  25  Hand           Uriah           91     Maryland      pg0082a.txt
+119a 23  Handson        Ellener         19     Ky            pg0116b.txt
+81b  16  Hans           Elizabeth       24     Ky            pg0071a.txt
+81b  14  Hans           Jacob           59     Maryland      pg0071a.txt
+81b  19  Hans           Jacob           14     Ky            pg0071a.txt
+81b  23  Hans           James           10     Ky            pg0071a.txt
+81b  18  Hans           John            19     Ky            pg0071a.txt
+81b  22  Hans           Joseph          10     Ky            pg0071a.txt
+81b  20  Hans           Mary            13     Ky            pg0071a.txt
+81b  21  Hans           Melinda         12     Ky            pg0071a.txt
+81b  15  Hans           Nancy           49     Virginia      pg0071a.txt
+81b  17  Hans           Nancy A.        20     Ky            pg0071a.txt
+115a 18  Hansbron       Permelia        30     Ky            pg0105a.txt
+79a  1   Harcourt       Alex            55     Kentucky      pg0071a.txt
+79a  2   Harcourt       Amanda S.       47     Virginia      pg0071a.txt
+79a  4   Harcourt       Amelia C.       15     Ky            pg0071a.txt
+79a  3   Harcourt       Ashton P.       17     Ky            pg0071a.txt
+78a  25  Harcourt       D. E.           36     Ky            pg0071a.txt
+79a  6   Harcourt       Daniel W.       11     Ky            pg0071a.txt
+78a  27  Harcourt       Emily M.        7      Ky            pg0071a.txt
+78a  26  Harcourt       Mary E.         24     Ky            pg0071a.txt
+79a  7   Harcourt       Sarah E.        7      Ky            pg0071a.txt
+78a  28  Harcourt       Susan           1/12   Ky            pg0071a.txt
+79a  5   Harcourt       Susan M.        13     Ky            pg0071a.txt
+88a  31  Hardesty       Amelia F.       5      Ky            pg0082a.txt
+88a  27  Hardesty       Caleb           14     Ky            pg0082a.txt
+99a  13  Hardesty       Caleb           22     Ky            pg0093a.txt
+88a  24  Hardesty       Eliza           36     Ky            pg0082a.txt
+88a  22  Hardesty       Henry           56     Ky            pg0082a.txt
+88a  26  Hardesty       Joshua          16     Ky            pg0082a.txt
+99a  15  Hardesty       Louisa A.       25     Ky            pg0093a.txt
+88a  25  Hardesty       Mariah          18     Ky            pg0082a.txt
+99a  16  Hardesty       Mary A.         19     Ky            pg0093a.txt
+88a  32  Hardesty       Melinda         2      Ky            pg0082a.txt
+88a  28  Hardesty       Shelburne       12     Ky            pg0082a.txt
+88a  29  Hardesty       Susan           11     Ky            pg0082a.txt
+99a  14  Hardesty       Susan E.        27     Ky            pg0093a.txt
+88a  21  Hardesty       Susannah        83     Penn.         pg0082a.txt
+88a  23  Hardesty       W. R.           37     Ky            pg0082a.txt
+88a  30  Hardesty       William M.      7      Ky            pg0082a.txt
+102b 30  Hardisty       Henry C.        1/12   Ky            pg0093a.txt
+102b 28  Hardisty       Joshua          20     Ky            pg0093a.txt
+102b 29  Hardisty       Margaret        18     Ky            pg0093a.txt
+108b 35  Hardman        David           15     Ky            pg0105a.txt
+108b 38  Hardman        Eliz'th         8      Ky            pg0105a.txt
+108b 32  Hardman        Joseph          52     Ky            pg0105a.txt
+108b 39  Hardman        Joseph          5      Ky            pg0105a.txt
+108b 37  Hardman        Louis           10     Ky            pg0105a.txt
+108b 36  Hardman        Nancy           12     Ky            pg0105a.txt
+108b 33  Hardman        Sarah           47     Tennessee     pg0105a.txt
+108b 34  Hardman        William         17     Ky            pg0105a.txt
+127a 32  Hardy          Eliz'th         23     Ky            pg0116b.txt
+127a 36  Hardy          Eliz'th         1      Ky            pg0116b.txt
+127a 34  Hardy          John            6      Ky            pg0116b.txt
+127a 31  Hardy          Joseph          35     Ky            pg0116b.txt
+127a 35  Hardy          Richard         4      Ky            pg0116b.txt
+127a 33  Hardy          Sarah           8      Ky            pg0116b.txt
+104b 38  Harrel         Amanda          2      Ky            pg0093a.txt
+104b 35  Harrel         Eliza           29     Ky            pg0093a.txt
+104b 34  Harrel         John            29     Ky            pg0093a.txt
+104b 37  Harrel         Mary            3      Ky            pg0093a.txt
+104b 36  Harrel         Sarah E.        4      Ky            pg0093a.txt
+89a  17  Harrell        Leo             26     Ky            pg0082a.txt
+89a  19  Harrell        Lydia A.        30     Ky            pg0082a.txt
+89a  20  Harrell        Mary S.         19     Ky            pg0082a.txt
+89a  18  Harrell        Rachael         59     N. Carolina   pg0082a.txt
+77b  34  Harrison       Elisha          20     Ky            pg0071a.txt
+97b  28  Harrison       Eliza           1      Ky            pg0093a.txt
+77b  35  Harrison       Elizabeth       24     Ky            pg0071a.txt
+97b  26  Harrison       Frances         25     Ky            pg0093a.txt
+77b  41  Harrison       James           48     Ky            pg0071a.txt
+97b  25  Harrison       James C.        26     Ky            pg0093a.txt
+77b  39  Harrison       James H.        9      Ky            pg0071a.txt
+97b  34  Harrison       Jas. H.         17     Ky            pg0093a.txt
+77b  33  Harrison       John            22     Ky            pg0071a.txt
+78a  6   Harrison       John G.         7      Ky            pg0071a.txt
+77b  32  Harrison       Martha          40     Maryland      pg0071a.txt
+78a  2   Harrison       Mary A.         17     Ky            pg0071a.txt
+77b  37  Harrison       Minerva A.      15     Ky            pg0071a.txt
+78a  3   Harrison       Miranda         15     Ky            pg0071a.txt
+78a  1   Harrison       Nancy           19     Kentucky      pg0071a.txt
+77b  36  Harrison       Nudigate        17     Ky            pg0071a.txt
+77b  38  Harrison       Sarah           12     Ky            pg0071a.txt
+77b  42  Harrison       Sarah           41     Ky            pg0071a.txt
+78a  7   Harrison       Sarah           6      Ky            pg0071a.txt
+97b  27  Harrison       Sarah E.        3      Ky            pg0093a.txt
+78a  5   Harrison       Thomas          10     Ky            pg0071a.txt
+77b  31  Harrison       William         48     Ky            pg0071a.txt
+77b  40  Harrison       William A.      7      Ky            pg0071a.txt
+78a  4   Harrison       William H.      12     Ky            pg0071a.txt
+83b  24  Harriss        Elizabeth       12     Ky            pg0082a.txt
+98a  4   Harriss        Jackson         28     Ky            pg0093a.txt
+83b  23  Harriss        Jemima          14     Ky            pg0082a.txt
+83b  28  Harriss        Joseph D.       1      Ky            pg0082a.txt
+83b  22  Harriss        Mahala          39     Ky            pg0082a.txt
+83b  27  Harriss        Nancy D.        3      Ky            pg0082a.txt
+83b  25  Harriss        Sarah A.        10     Ky            pg0082a.txt
+83b  26  Harriss        Thomas E.       6      Ky            pg0082a.txt
+83b  21  Harriss        Thomas S.       37     Ky            pg0082a.txt
+81a  16  Hawkins        Elizabeth       28     Ky            pg0071a.txt
+81a  15  Hawkins        John            31     Ky            pg0071a.txt
+81a  18  Hawkins        John            3/12   Ky            pg0071a.txt
+81a  17  Hawkins        Thomas          1      Ky            pg0071a.txt
+116a 10  Haydon         Francis         17     Ky            pg0105a.txt
+116a 13  Haydon         Isibell         11     Ky            pg0105a.txt
+116a 14  Haydon         Mary E.         9      Ky            pg0105a.txt
+116a 9   Haydon         Mrs.            37     Ky            pg0105a.txt
+116a 12  Haydon         Napolean        13     Ky            pg0105a.txt
+116a 11  Haydon         William         15     Ky            pg0105a.txt
+109a 31  Head           Eliza           30     Md            pg0105a.txt
+109a 35  Head           Eliz'th         10     Ky            pg0105a.txt
+109a 37  Head           George Ann      4      Ky            pg0105a.txt
+109a 36  Head           Martha          8      Ky            pg0105a.txt
+109a 33  Head           Mary            14     Ky            pg0105a.txt
+109a 30  Head           Robert          48     Ky            pg0105a.txt
+109a 32  Head           Sarah           19     Ky            pg0105a.txt
+109a 34  Head           William         11     Ky            pg0105a.txt
+121b 9   Heady          Allice          5      Ky            pg0116b.txt
+121b 28  Heady          America         6      Ky            pg0116b.txt
+106a 40  Heady          Benjamin        1      Ky            pg0105a.txt
+115a 23  Heady          Burr            5      Ky            pg0105a.txt
+89b  35  Heady          Charles         5      Ky            pg0082a.txt
+115a 22  Heady          Darthulia       12     Ky            pg0105a.txt
+105b 7   Heady          Debie           16     Ky            pg0105a.txt
+89b  36  Heady          Elisa           5      Ky            pg0082a.txt
+91a  11  Heady          Eliz. A.        22     Ky            pg0082a.txt
+121b 26  Heady          Eliza A.        9      Ky            pg0116b.txt
+86b  10  Heady          Eliza F.        1      Ky            pg0082a.txt
+105b 10  Heady          Elizabeth       11     Ky            pg0105a.txt
+86b  33  Heady          Elizabeth       29     Ky            pg0082a.txt
+86b  34  Heady          Elizabeth       13     Ky            pg0082a.txt
+89b  32  Heady          Elizabeth M.    13     Ky            pg0082a.txt
+121b 22  Heady          Eliz'th         60     Virg          pg0116b.txt
+121b 29  Heady          Ellen           3      Ky            pg0116b.txt
+105b 4   Heady          Enoch           23     Ky            pg0105a.txt
+86b  9   Heady          Frances         4      Ky            pg0082a.txt
+105b 11  Heady          Francis M.      8      Ky            pg0105a.txt
+86b  7   Heady          George          10     Ky            pg0082a.txt
+89b  34  Heady          George S.       9      Ky            pg0082a.txt
+86b  2   Heady          Hannah          46     Ky            pg0082a.txt
+86b  8   Heady          Hannah          8      Ky            pg0082a.txt
+105b 2   Heady          Jacob           63     Penn          pg0105a.txt
+105b 5   Heady          Jacob           18     Ky            pg0105a.txt
+121b 24  Heady          James           36     Ky            pg0116b.txt
+86b  32  Heady          James F.        37     Ky            pg0082a.txt
+113a 22  Heady          James J.        51     Ky            pg0105a.txt
+115a 20  Heady          Jestis          16     Ky            pg0105a.txt
+121b 27  Heady          John            8      Ky            pg0116b.txt
+86b  5   Heady          John            15     Ky            pg0082a.txt
+106a 41  Heady          John S.         3/12   Ky            pg0105a.txt
+89b  33  Heady          Joseph          11     Ky            pg0082a.txt
+113a 23  Heady          Lois            47     Ky            pg0105a.txt
+105b 9   Heady          Loucinda        12     Ky            pg0105a.txt
+121b 8   Heady          Louisa          28     Ky            pg0116b.txt
+89b  28  Heady          Lynne           43     Ky            pg0082a.txt
+115a 21  Heady          Madrid          14     Ky            pg0105a.txt
+89b  37  Heady          Mary            4/12   Ky            pg0082a.txt
+106a 38  Heady          Mary C.         30     Ky            pg0105a.txt
+89b  29  Heady          Mary E.         35     Ky            pg0082a.txt
+89b  31  Heady          Michael H.      13     Ky            pg0082a.txt
+113a 24  Heady          Morrison        20     Ky            pg0105a.txt
+121b 7   Heady          Morrison        30     Ky            pg0116b.txt
+115a 19  Heady          Mrs.            35     Ky            pg0105a.txt
+105b 3   Heady          Nancy           49     Virg Ky       pg0105a.txt
+105b 6   Heady          Nancy           20     Ky            pg0105a.txt
+106a 39  Heady          Nancy           3      Ky            pg0105a.txt
+86b  4   Heady          Nancy           18     Ky            pg0082a.txt
+86b  35  Heady          Nathan L.       10     Ky            pg0082a.txt
+115a 24  Heady          Newton          4      Ky            pg0105a.txt
+105b 8   Heady          Rebecca         14     Ky            pg0105a.txt
+121b 25  Heady          Rosanna         30     Ky            pg0116b.txt
+106a 37  Heady          Squire          25     Ky            pg0105a.txt
+106a 42  Heady          Stephen         28     Ky            pg0105a.txt
+121b 10  Heady          Stilwell        8/12   Ky            pg0116b.txt
+121b 21  Heady          Stilwell        67     Penn          pg0116b.txt
+86b  6   Heady          Susan           13     Ky            pg0082a.txt
+86b  36  Heady          Susan C.        6      Ky            pg0082a.txt
+86b  3   Heady          Thomas          22     Ky            pg0082a.txt
+86b  37  Heady          Thomas          4      Ky            pg0082a.txt
+91b  11  Heady          Thomas          23     Ky            pg0082a.txt
+89b  30  Heady          Thos. M.        15     Ky            pg0082a.txt
+91a  12  Heady          Thos. M.        2      Ky            pg0082a.txt
+86b  1   Heady          Vincent         48     Kentucky      pg0082a.txt
+121b 23  Heady          William         30     Ky            pg0116b.txt
+91a  10  Heady          Zachary T.      27     Ky            pg0082a.txt
+77b  25  Hedder         Abraham         56     Ky            pg0071a.txt
+77b  30  Hedder         Elisha W.       21     Ky            pg0071a.txt
+77b  26  Hedder         Jane            32     Ky            pg0071a.txt
+77b  27  Hedder         John S.         25     Ky            pg0071a.txt
+77b  28  Hedder         Stillwell H.    20     Ky            pg0071a.txt
+77b  29  Hedder         Thomas M.       17     Ky            pg0071a.txt
+116a 23  Hedges         Alfred          28     Ky            pg0105a.txt
+109b 17  Hedges         Amos            46     Virg          pg0105a.txt
+107b 11  Hedges         Ann             18     Ky            pg0105a.txt
+116a 26  Hedges         Benjamin        1      Ky            pg0105a.txt
+107a 40  Hedges         Darthulia       5      Ky            pg0105a.txt
+107b 10  Hedges         Eliz'th         23     Ky            pg0105a.txt
+107b 7   Hedges         Enry            47     Virg          pg0105a.txt
+109b 22  Hedges         George          11     Ky            pg0105a.txt
+116a 25  Hedges         Hortenby        4      Ky            pg0105a.txt
+107b 9   Hedges         Huston          25     Ky            pg0105a.txt
+109b 18  Hedges         Jane            30     Ky            pg0105a.txt
+109b 20  Hedges         John            15     Ky            pg0105a.txt
+107b 12  Hedges         Lilford         15     Ky            pg0105a.txt
+107a 39  Hedges         Marshal         8      Ky            pg0105a.txt
+109b 19  Hedges         Martha          17     Ky            pg0105a.txt
+107a 38  Hedges         Mary            25     Ky            pg0105a.txt
+107b 13  Hedges         Mary E.         12     Ky            pg0105a.txt
+107a 41  Hedges         Missouria       3      Ky            pg0105a.txt
+107b 14  Hedges         Robert          10     Ky            pg0105a.txt
+109b 23  Hedges         Robert          7      Ky            pg0105a.txt
+107b 8   Hedges         Stephen         29     Ky            pg0105a.txt
+116a 24  Hedges         Susan           25     Ky            pg0105a.txt
+107a 42  Hedges         Thomas          1/12   Ky            pg0105a.txt
+109b 21  Hedges         Thomas          13     Ky            pg0105a.txt
+107a 37  Hedges         Wilfred         34     Ky            pg0105a.txt
+83b  41  Helm           Emile A.        17     Ky            pg0082a.txt
+83b  40  Helm           Thomas          25     Ky            pg0082a.txt
+105a 7   Henry          Ann M.          2      Ky            pg0105a.txt
+105a 8   Henry          David           10     Ky            pg0105a.txt
+105a 5   Henry          Eliz'th         25     Ky            pg0105a.txt
+105a 1   Henry          Fielden         11     Ky            pg0105a.txt
+104b 41  Henry          James           25     Ky            pg0093a.txt
+105a 6   Henry          John A.         4      Ky            pg0105a.txt
+105a 4   Henry          John Jr.        35     Ky            pg0105a.txt
+104b 40  Henry          John Sr.        70     Virg          pg0093a.txt
+104b 42  Henry          Nancy           20     Ky            pg0093a.txt
+105a 2   Henry          Susan           3      Ky            pg0105a.txt
+105a 3   Henry          Tabithy         1      Ky            pg0105a.txt
+90b  18  Herndon        Abraham         4      Ky            pg0082a.txt
+92a  33  Herndon        Amanda          18     Ky            pg0082a.txt
+90b  19  Herndon        Daniel          2      Ky            pg0082a.txt
+92a  32  Herndon        Innis           30     Ky            pg0082a.txt
+86a  32  Herndon        James           36     Ky            pg0082a.txt
+90b  15  Herndon        John            40     Ky            pg0082a.txt
+90b  20  Herndon        Rebecca         68     Maryland      pg0082a.txt
+92a  34  Herndon        Rebecca C.      1      Ky            pg0082a.txt
+90b  17  Herndon        Sally           8      Ky            pg0082a.txt
+90b  16  Herndon        Sarah           25     Ky            pg0082a.txt
+90b  21  Herndon        Sarah           31     Ky            pg0082a.txt
+101b 37  Herriott       Asher           48     Ky            pg0093a.txt
+102a 2   Herriott       Daniel          7      Ky            pg0093a.txt
+101b 38  Herriott       Harriett        37     Ky            pg0093a.txt
+102a 4   Herriott       Henry           3/12   Ky            pg0093a.txt
+102a 3   Herriott       John            3      Ky            pg0093a.txt
+101b 42  Herriott       Maria           11     Ky            pg0093a.txt
+102a 1   Herriott       Mary            9      Ky            pg0093a.txt
+101b 41  Herriott       Samuel          13     Ky            pg0093a.txt
+101b 40  Herriott       Susan           16     Ky            pg0093a.txt
+101b 39  Herriott       Thomas          19     Ky            pg0093a.txt
+78a  31  Hickman        Ayres           18     Ky            pg0071a.txt
+78a  33  Hickman        Bagwell         7      Ky            pg0071a.txt
+78a  30  Hickman        Elizabeth       50     Virginia      pg0071a.txt
+78a  32  Hickman        Emily           10     Ky            pg0071a.txt
+78a  29  Hickman        George T.       50     Virginia      pg0071a.txt
+125a 27  Hicknor        Loucinda        1/12   Ky            pg0116b.txt
+125a 26  Hicknor        Mary            8      Ky            pg0116b.txt
+125a 24  Hicknor        Orris           45     Virg          pg0116b.txt
+125a 25  Hicknor        Susan           40     Ky            pg0116b.txt
+118a 40  Hickwood       Josep           43     England       pg0116b.txt
+115b 40  Hill           Mary            22     Ky            pg0105a.txt
+115b 41  Hill           Mary            3/12   Ky            pg0105a.txt
+115b 39  Hill           Wallice         22     Ky            pg0105a.txt
+108b 27  Hilton         Franklin        10     Ky            pg0105a.txt
+110a 37  Hilton         Hesther         27     Ky            pg0105a.txt
+108b 26  Hilton         James           13     Ky            pg0105a.txt
+110a 38  Hilton         John            8/12   Ky            pg0105a.txt
+108b 29  Hilton         Julia           4      Ky            pg0105a.txt
+108b 24  Hilton         Louisa          17     Ky            pg0105a.txt
+108b 25  Hilton         Mary            15     Ky            pg0105a.txt
+108b 23  Hilton         Nancy           39     Ky            pg0105a.txt
+108b 30  Hilton         Sarah           1      Ky            pg0105a.txt
+108b 28  Hilton         Susan           9      Ky            pg0105a.txt
+108b 22  Hilton         Thomas          52     Ky            pg0105a.txt
+110a 36  Hilton         Thomas          21     Ky            pg0105a.txt
+110a 9   Hite           Darky           38     Ky            pg0105a.txt
+110a 8   Hite           Elias           38     Ky            pg0105a.txt
+110a 11  Hite           James           8      Ky            pg0105a.txt
+110a 12  Hite           Joseph          4      Ky            pg0105a.txt
+110a 10  Hite           Mary            10     Ky            pg0105a.txt
+123a 8   Hobbs          Eliz'th         27     Ky            pg0116b.txt
+123a 9   Hobbs          James           5      Ky            pg0116b.txt
+123a 7   Hobbs          Noah            31     Ky            pg0116b.txt
+123a 10  Hobbs          Oratia          3      Ky            pg0116b.txt
+115b 12  Holliway       Albert          9      Ky            pg0105a.txt
+115b 5   Holliway       Ann M.          49     Virg          pg0105a.txt
+115b 11  Holliway       Benjamin        11     Ky            pg0105a.txt
+115b 8   Holliway       David           16     Ky            pg0105a.txt
+115b 10  Holliway       Edmon           12     Ky            pg0105a.txt
+115b 19  Holliway       Jane            13     Ky            pg0105a.txt
+115b 20  Holliway       John            10     Ky            pg0105a.txt
+115b 13  Holliway       Johnson         7      Ky            pg0105a.txt
+115b 6   Holliway       Judith          20     Ky            pg0105a.txt
+115b 15  Holliway       Maj             50     Virg          pg0105a.txt
+115b 22  Holliway       Martha          5      Ky            pg0105a.txt
+115b 21  Holliway       Mary            5      Ky            pg0105a.txt
+115b 23  Holliway       Nancy           3      Ky            pg0105a.txt
+115b 7   Holliway       Robert          17     Ky            pg0105a.txt
+115b 16  Holliway       Sarah           46     Ky            pg0105a.txt
+115b 18  Holliway       Sarah           16     Ky            pg0105a.txt
+115b 4   Holliway       William         51     Virg          pg0105a.txt
+115b 9   Holliway       William         14     Ky            pg0105a.txt
+115b 17  Holliway       William         18     Ky            pg0105a.txt
+116b 10  Holman         Julia           1      Ky            pg0116b.txt
+116b 9   Holman         Mary            18     Ky            pg0116b.txt
+101b 33  Holsclaw       Benj.           72     Virg          pg0093a.txt
+94b  23  Holsclaw       Charles W.      4      Ky            pg0093a.txt
+94b  21  Holsclaw       Chas. K.        39     Ky            pg0093a.txt
+95b  23  Holsclaw       E. K.           46     Ky            pg0093a.txt
+95b  28  Holsclaw       John K.         15     Ky            pg0093a.txt
+95b  29  Holsclaw       Josephine       10     Ky            pg0093a.txt
+95b  26  Holsclaw       Mary E.         19     Ky            pg0093a.txt
+94b  22  Holsclaw       Matilda         37     Ky            pg0093a.txt
+95b  27  Holsclaw       Narcissus       17     Ky            pg0093a.txt
+95b  24  Holsclaw       Priscilla       41     Ky            pg0093a.txt
+101b 34  Holsclaw       Sarah           39     Ky            pg0093a.txt
+95b  25  Holsclaw       Sarah A.        21     Ky            pg0093a.txt
+95b  38  Holsclaw       Stephen         30     Ky            pg0093a.txt
+95b  30  Holsclaw       William K.      1      Ky            pg0093a.txt
+71a  28  Holt           Fleming         8      Ky            pg0071a.txt
+71a  24  Holt           Kinnon          65     Virg          pg0071a.txt
+76a  38  Holt           Martha          21     Ky            pg0071a.txt
+71a  27  Holt           Mary Jane       19     Ky            pg0071a.txt
+71a  26  Holt           Peter C.        23     Ky            pg0071a.txt
+76a  37  Holt           Pleasant        26     Ky            pg0071a.txt
+71a  29  Holt           Samuel          6      Ky            pg0071a.txt
+71a  25  Holt           Sarah           57     Virg          pg0071a.txt
+76a  39  Holt           Sarah           1      Ky            pg0071a.txt
+127a 10  Hooper         Alythan         6      Ky            pg0116b.txt
+127a 12  Hooper         Hannibal        1      Ky            pg0116b.txt
+127a 11  Hooper         Josephus        3      Ky            pg0116b.txt
+127a 13  Hooper         Leurgus         1      Ky            pg0116b.txt
+127a 9   Hooper         Mary A.         26     Ky            pg0116b.txt
+127a 8   Hooper         Simon           31     Ky            pg0116b.txt
+103a 23  Hopewell       Allen G.        6      Ky            pg0093a.txt
+111b 19  Hopewell       Bemis           17     Ky            pg0105a.txt
+103b 27  Hopewell       Caroline        7      Ky            pg0093a.txt
+103b 21  Hopewell       Cath            42     Ky            pg0093a.txt
+101a 11  Hopewell       Daniel          25     Ky            pg0093a.txt
+103a 22  Hopewell       Eliz'th         33     Ky            pg0093a.txt
+103b 26  Hopewell       Eliz'th         10     Ky            pg0093a.txt
+103b 23  Hopewell       Francis         18     Ky            pg0093a.txt
+103b 28  Hopewell       Hannah          3      Ky            pg0093a.txt
+103a 21  Hopewell       John            33     Ky            pg0093a.txt
+103b 24  Hopewell       John C.         14     Ky            pg0093a.txt
+103a 35  Hopewell       Marion          13     Ky            pg0093a.txt
+101a 10  Hopewell       Nancy           49     Md.           pg0093a.txt
+103a 24  Hopewell       Sarah           5      Ky            pg0093a.txt
+103b 22  Hopewell       Washington      20     Ky            pg0093a.txt
+103b 20  Hopewell       William         53     Virg          pg0093a.txt
+103b 25  Hopewell       William         12     Ky            pg0093a.txt
+92a  10  Horton         Elizabeth       52     Virginia      pg0082a.txt
+92a  9   Horton         Nathaniel       68     Virginia      pg0082a.txt
+90a  3   Hougland       Abraham         58     Ky            pg0082a.txt
+90a  11  Hougland       Abraham         14     Ky            pg0082a.txt
+90a  5   Hougland       Amos            26     Ky            pg0082a.txt
+90a  4   Hougland       Elizabeth       32     Ky            pg0082a.txt
+90a  8   Hougland       Elizabeth       20     Ky            pg0082a.txt
+90a  13  Hougland       Jacob           10     Ky            pg0082a.txt
+90a  7   Hougland       James           22     Ky            pg0082a.txt
+90a  10  Hougland       John            16     Ky            pg0082a.txt
+90a  14  Hougland       Johnathan       8      Ky            pg0082a.txt
+90a  6   Hougland       Joseph          24     Ky            pg0082a.txt
+90a  9   Hougland       Martha A.       18     Ky            pg0082a.txt
+90a  12  Hougland       Westley         12     Ky            pg0082a.txt
+77b  3   Houser         Benjamin H.     16     Ky            pg0071a.txt
+81b  39  Houser         Bradford        35     Ky            pg0071a.txt
+81b  33  Houser         Braxton         35     Ky            pg0071a.txt
+81b  38  Houser         Caroline        11/12  Ky            pg0071a.txt
+79a  31  Houser         Elizabeth       42     Virginia      pg0071a.txt
+77b  1   Houser         John            46     Kentucky      pg0071a.txt
+79a  35  Houser         John L.         6      Ky            pg0071a.txt
+81b  35  Houser         John L.         7      Ky            pg0071a.txt
+79a  34  Houser         Margaret        9      Ky            pg0071a.txt
+81b  40  Houser         Mary            76     Pennsylvania  pg0071a.txt
+81b  36  Houser         Mary E.         5      Ky            pg0071a.txt
+77b  2   Houser         Sarah           36     Ky            pg0071a.txt
+79a  33  Houser         Sarah           12     Ky            pg0071a.txt
+81b  34  Houser         Sarah           36     Ky            pg0071a.txt
+77b  4   Houser         Sarah E.        8      Ky            pg0071a.txt
+81b  37  Houser         Susan E.        3      Ky            pg0071a.txt
+79a  32  Houser         William J.      17     Ky            pg0071a.txt
+92b  19  Howard         Delphia         45     Ky            pg0082a.txt
+92b  24  Howard         Doct. S.        9      Ky            pg0082a.txt
+92b  11  Howard         James C.        26     Ky            pg0082a.txt
+92b  12  Howard         Jane            26     Ky            pg0082a.txt
+92b  18  Howard         John            46     N. Carolina   pg0082a.txt
+92b  21  Howard         John P.         22     Ky            pg0082a.txt
+77b  22  Howard         John S.         25     Ky            pg0071a.txt
+92b  26  Howard         Josephine       7/12   Ky            pg0082a.txt
+77b  23  Howard         Julia           24     Ky            pg0071a.txt
+92b  22  Howard         LeGrand         12     Ky            pg0082a.txt
+77b  24  Howard         Martha          63     Virginia      pg0071a.txt
+92b  25  Howard         Mildred         6      Ky            pg0082a.txt
+92b  13  Howard         Sarah L.        7/12   Ky            pg0082a.txt
+83a  4   Howard         Soloman         14     Ky            pg0082a.txt
+92b  23  Howard         Susan M.        10     Ky            pg0082a.txt
+90b  22  Howard         Thomas          62     Ky            pg0082a.txt
+92b  20  Howard         Thomas W.       28     Ky            pg0082a.txt
+78a  24  Hudson         Bettie M.       4/12   Ky            pg0071a.txt
+76b  37  Hudson         Jane            55     Virginia      pg0071a.txt
+78a  22  Hudson         John F.         7      Ky            pg0071a.txt
+78a  21  Hudson         Lezcurgers H.   9      Ky            pg0071a.txt
+78a  18  Hudson         Musker          33     Ky            pg0071a.txt
+78a  19  Hudson         Rebecca E.      37     Ky            pg0071a.txt
+78a  23  Hudson         Thomas H.       5      Ky            pg0071a.txt
+101a 4   Hudson         William         13     Ky            pg0093a.txt
+78a  20  Hudson         William H.      11     Ky            pg0071a.txt
+126a 13  Huff           Isaac           16     Ky            pg0116b.txt
+82a  4   Huffman        Catharine       25     Ky            pg0082a.txt
+90b  26  Hughes         James           28     Ky            pg0082a.txt
+90b  23  Hughes         John            70     Penn.         pg0082a.txt
+91a  13  Hughes         John            31     Ky            pg0082a.txt
+91a  16  Hughes         John            8      Ky            pg0082a.txt
+87b  5   Hughes         Joseph          24     Ky            pg0082a.txt
+90b  29  Hughes         Joseph          30     Ky            pg0082a.txt
+91a  19  Hughes         Joseph          3      Ky            pg0082a.txt
+87b  6   Hughes         Lucinda         19     Ky            pg0082a.txt
+91a  14  Hughes         Mahala          30     Ky            pg0082a.txt
+91a  15  Hughes         Margaret E.     11     Ky            pg0082a.txt
+90b  27  Hughes         Mary            27     Ky            pg0082a.txt
+90b  24  Hughes         Nancy           65     Virginia      pg0082a.txt
+90b  32  Hughes         Nancy           3      Ky            pg0082a.txt
+90b  28  Hughes         Rebecca J.      1      Ky            pg0082a.txt
+90b  31  Hughes         Salomon         5      Ky            pg0082a.txt
+91a  18  Hughes         Samuel          5      Ky            pg0082a.txt
+90b  30  Hughes         Susan M.        25     Ky            pg0082a.txt
+91a  17  Hughes         Thomas          6      Ky            pg0082a.txt
+90b  25  Hughes         William         38     Ky            pg0082a.txt
+91a  20  Hughes         William         7/12   Ky            pg0082a.txt
+103a 34  Hughs          Ann E.          1      Ky            pg0093a.txt
+102a 18  Hughs          Christiana      5      Ky            pg0093a.txt
+102a 9   Hughs          Eligah          47     Ky            pg0093a.txt
+106a 25  Hughs          Eligah          18     Ky            pg0105a.txt
+106a 23  Hughs          Elis'th         58     Ky            pg0105a.txt
+101a 15  Hughs          Francis         13     Ky            pg0093a.txt
+102a 12  Hughs          Francis         19     Ky            pg0093a.txt
+102a 13  Hughs          George          15     Ky            pg0093a.txt
+101a 12  Hughs          Hannah          27     Ky            pg0093a.txt
+103a 33  Hughs          Haydon          3      Ky            pg0093a.txt
+110a 31  Hughs          Heskiah         7/12   Ky            pg0105a.txt
+101a 14  Hughs          James           16     Ky            pg0093a.txt
+101a 18  Hughs          James           1      Ky            pg0093a.txt
+102a 14  Hughs          James           14     Ky            pg0093a.txt
+102a 15  Hughs          John            13     Ky            pg0093a.txt
+121a 3   Hughs          John            37     England       pg0116b.txt
+101a 16  Hughs          John T.         10     Ky            pg0093a.txt
+110a 30  Hughs          John W.         3      Ky            pg0105a.txt
+102a 16  Hughs          Kiah            12     Ky            pg0093a.txt
+106a 22  Hughs          Kiah            60     Ky            pg0105a.txt
+103a 32  Hughs          Margaret        20     Ky            pg0093a.txt
+121a 4   Hughs          Margaret        18     Ky            pg0116b.txt
+101a 17  Hughs          Mary E.         4      Ky            pg0093a.txt
+102a 17  Hughs          Mildred         10     Ky            pg0093a.txt
+101a 13  Hughs          Nancy           18     Ky            pg0093a.txt
+102a 10  Hughs          Permelia        35     Ky            pg0093a.txt
+106a 24  Hughs          Permelia        24     Ky            pg0105a.txt
+110a 29  Hughs          Sarah           19     Ky            pg0105a.txt
+102a 19  Hughs          Sarah C.        5      Ky            pg0093a.txt
+110a 28  Hughs          Thomas          31     Ky            pg0105a.txt
+102a 11  Hughs          William         20     Ky            pg0093a.txt
+103a 31  Hughs          William         30     Ky            pg0093a.txt
+124a 19  Humble         Francis         13     Ky            pg0116b.txt
+127b 1   Humble         Uriah           22     Ky            pg0116b.txt
+95a  31  Humble         Uriah M.        20     Ky            pg0093a.txt
+127a 23  Hume           Edgar           5      Ky            pg0116b.txt
+82b  29  Hume           John            23     Kentucky      pg0082a.txt
+82b  27  Hume           Julia A.        5      Ky            pg0082a.txt
+127a 22  Hume           Lamira          24     Ky            pg0116b.txt
+127a 21  Hume           Louis           35     Ky            pg0116b.txt
+82b  30  Hume           Mary E.         20     Ky            pg0082a.txt
+127a 24  Hume           Minerva         4      Ky            pg0116b.txt
+82b  28  Hume           Ruth            2      Ky            pg0082a.txt
+74b  23  Humphries      Rebecca         22     Ky            pg0071a.txt
+120a 11  Hunter         Cath.           22     Ky            pg0116b.txt
+120a 12  Hunter         Emily           20     Ky            pg0116b.txt
+120a 14  Hunter         George          14     Ky            pg0116b.txt
+120a 13  Hunter         Martha          18     Ky            pg0116b.txt
+120a 10  Hunter         Thomas          54     Virg          pg0116b.txt
+121a 23  Hupman         Cath.           43     Ky            pg0116b.txt
+121a 24  Hupman         Henry           24     Ky            pg0116b.txt
+121a 28  Hupman         James           6      Ky            pg0116b.txt
+121a 26  Hupman         John            18     Ky            pg0116b.txt
+121a 22  Hupman         Joseph          52     Ky            pg0116b.txt
+121a 27  Hupman         Joseph          14     Ky            pg0116b.txt
+121a 29  Hupman         Mary            16     Ky            pg0116b.txt
+121a 25  Hupman         Michael         22     Ky            pg0116b.txt
+122b 29  Huston         M.E.            49     Ky            pg0116b.txt
+122b 32  Huston         William         5      Ky            pg0116b.txt
+95b  2   Hutchinson     Mary            34     Ky            pg0093a.txt
+95b  5   Hutchinson     Richard         5      Ky            pg0093a.txt
+81a  6   Inghram        Margaret        33     Ky            pg0071a.txt
+81a  5   Inghram        Wiliam          37     Ky            pg0071a.txt
+81a  9   Ingram         Arthur          18     Ky            pg0071a.txt
+81a  10  Ingram         Elizabeth       13     Ky            pg0071a.txt
+81a  7   Ingram         George          24     Ky            pg0071a.txt
+81a  14  Ingram         George H.       3/12   Ky            pg0071a.txt
+81b  30  Ingram         Henry           32     Ky            pg0071a.txt
+81a  8   Ingram         James           20     Ky            pg0071a.txt
+81a  13  Ingram         Melinda         24     Ky            pg0071a.txt
+81a  11  Ingram         Samuel          9      Ky            pg0071a.txt
+81b  31  Ingram         Sarah           21     Ky            pg0071a.txt
+81a  12  Ingram         Thomas          26     Ky            pg0071a.txt
+81b  32  Ingram         William F.      4      Ky            pg0071a.txt
+127a 42  Jackson        Polly           50     Ky            pg0116b.txt
+100b 32  Jacobs         Mrs.            86     Virg.         pg0093a.txt
+123a 13  James          Eliz'th         39     Ky            pg0116b.txt
+123a 15  James          John            11     Ky            pg0116b.txt
+123a 17  James          John            72     Virg          pg0116b.txt
+123a 16  James          Rhoda           1      Ky            pg0116b.txt
+123a 18  James          Sarah           71     Virg          pg0116b.txt
+123a 14  James          Sarah C.        17     Ky            pg0116b.txt
+123a 12  James          William         45     Ky            pg0116b.txt
+117b 16  Jasper         Martha          6      Ky            pg0116b.txt
+117b 14  Jasper         Mary            29     Ky            pg0116b.txt
+117b 18  Jasper         Minerva         4      Ky            pg0116b.txt
+117b 19  Jasper         Nancy           2      Ky            pg0116b.txt
+117b 17  Jasper         Susan           5      Ky            pg0116b.txt
+117b 13  Jasper         Thomas          44     Virg          pg0116b.txt
+117b 15  Jasper         William         11     Ky            pg0116b.txt
+89b  19  Jennings       Caleb           30     Ky            pg0082a.txt
+80b  12  Jennings       Geo. W.         22     Ky            pg0071a.txt
+89b  15  Jennings       Lewis           70     Virginia      pg0082a.txt
+89b  16  Jennings       Mary            65     Ky            pg0082a.txt
+89b  17  Jennings       Nancy           42     Ky            pg0082a.txt
+89b  20  Jennings       Sarah A.        26     Ky            pg0082a.txt
+89b  18  Jennings       Susan           33     Ky            pg0082a.txt
+75b  6   Jewell         Aaron           38     Ky            pg0071a.txt
+114b 11  Jewell         Abary           34     Ky            pg0105a.txt
+82b  14  Jewell         Amisetta        20     Ky            pg0082a.txt
+109b 26  Jewell         Andrew          14     Indiana       pg0105a.txt
+124b 20  Jewell         Ann R.          3      Ky            pg0116b.txt
+109b 29  Jewell         Ayden           11     Ky            pg0105a.txt
+106a 20  Jewell         Barnett         32     Ky            pg0105a.txt
+75b  11  Jewell         Barnett         7      Ky            pg0071a.txt
+82b  37  Jewell         Barnett         6      Ky            pg0082a.txt
+75b  14  Jewell         Benjamin        3      Ky            pg0071a.txt
+114b 15  Jewell         David           2      Ky            pg0105a.txt
+82b  33  Jewell         Elijah          18     Ky            pg0082a.txt
+114a 12  Jewell         Eliza J.        6      Ky            pg0105a.txt
+82b  32  Jewell         Elizabeth       46     Ky            pg0082a.txt
+82b  35  Jewell         Elizabeth       13     Ky            pg0082a.txt
+124b 16  Jewell         Emily           14     Ky            pg0116b.txt
+109b 24  Jewell         Enoch           39     Ky            pg0105a.txt
+109b 32  Jewell         Ethelbert       4      Ky            pg0105a.txt
+114b 17  Jewell         Fanny           24     Ky            pg0105a.txt
+124b 14  Jewell         Felix           18     Ky            pg0116b.txt
+97a  40  Jewell         Frances         1      Ky            pg0093a.txt
+114a 11  Jewell         Francis         35     Virg          pg0105a.txt
+97a  38  Jewell         George          6      Ky            pg0093a.txt
+114b 16  Jewell         Gideon          26     Ky            pg0105a.txt
+114a 15  Jewell         Isaac           9      Ky            pg0105a.txt
+113a 30  Jewell         Jackson         34     Ky            pg0105a.txt
+109b 31  Jewell         James           7      Ky            pg0105a.txt
+113a 32  Jewell         James           10     Ky            pg0105a.txt
+114b 14  Jewell         James           5      Ky            pg0105a.txt
+75b  13  Jewell         James           5      Ky            pg0071a.txt
+97a  37  Jewell         James           8      Ky            pg0093a.txt
+97a  36  Jewell         Jefferson       11     Ky            pg0093a.txt
+75b  15  Jewell         Jerrome         1      Ky            pg0071a.txt
+114b 18  Jewell         Joseph          7/12   Ky            pg0105a.txt
+114b 10  Jewell         Levi            35     Ky            pg0105a.txt
+82b  15  Jewell         Levi            7/12   Ky            pg0082a.txt
+82b  31  Jewell         Levi            46     Virginia      pg0082a.txt
+114a 17  Jewell         Louisa          1/12   Ky            pg0105a.txt
+109b 30  Jewell         Marcellus       9      Ky            pg0105a.txt
+109b 25  Jewell         Margaret        39     Ky            pg0105a.txt
+75b  7   Jewell         Marg't          36     Ky            pg0071a.txt
+114a 16  Jewell         Marion          2      Ky            pg0105a.txt
+113a 33  Jewell         Martha          5      Ky            pg0105a.txt
+109b 28  Jewell         Mary            28     Ky            pg0105a.txt
+109b 33  Jewell         Mary            2      Ky            pg0105a.txt
+97a  39  Jewell         Mary            4      Ky            pg0093a.txt
+124b 15  Jewell         Moses           16     Ky            pg0116b.txt
+114b 13  Jewell         Nancy           6      Ky            pg0105a.txt
+124b 17  Jewell         Nancy           12     Ky            pg0116b.txt
+124b 12  Jewell         Presley         50     Virg          pg0116b.txt
+124b 19  Jewell         Presley         7      Ky            pg0116b.txt
+97a  34  Jewell         Richard         34     Ky            pg0093a.txt
+113a 34  Jewell         Robert          1      Ky            pg0105a.txt
+114a 13  Jewell         Robert          15     Ky            pg0105a.txt
+114b 12  Jewell         Robert          8      Ky            pg0105a.txt
+115a 15  Jewell         Robert          47     Ky            pg0105a.txt
+76a  2   Jewell         Sanford         6      Ky            pg0071a.txt
+113a 31  Jewell         Sarah           33     Ky            pg0105a.txt
+75b  9   Jewell         Sarah           11     Ky            pg0071a.txt
+97a  35  Jewell         Sarah           33     Ky            pg0093a.txt
+82b  36  Jewell         Sarah F.        8      Ky            pg0082a.txt
+124b 13  Jewell         Sarah J.        20     Ky            pg0116b.txt
+75b  12  Jewell         Stephen         5      Ky            pg0071a.txt
+106a 21  Jewell         Susan           72     Virg          pg0105a.txt
+75b  10  Jewell         Susan           8      Ky            pg0071a.txt
+82b  34  Jewell         Susannah        16     Ky            pg0082a.txt
+109b 27  Jewell         William         36     Ky            pg0105a.txt
+114a 10  Jewell         William         38     Ky            pg0105a.txt
+114a 14  Jewell         William         11     Ky            pg0105a.txt
+124b 18  Jewell         William         9      Ky            pg0116b.txt
+75b  8   Jewell         William         13     Ky            pg0071a.txt
+82b  13  Jewell         William         21     Ky            pg0082a.txt
+113b 22  Johnson        Charles         15     Ky            pg0105a.txt
+113b 20  Johnson        Indiana         37     Ky            pg0105a.txt
+113b 24  Johnson        Indiana         3      Ky            pg0105a.txt
+113b 25  Johnson        James           1      Ky            pg0105a.txt
+113b 23  Johnson        Martha          12     Ky            pg0105a.txt
+113b 21  Johnson        Mary A.         17     Ky            pg0105a.txt
+113b 19  Johnson        William         43     Ky            pg0105a.txt
+123a 21  Jones          Agness          65     Virg          pg0116b.txt
+123a 36  Jones          Ann             3      Ky            pg0116b.txt
+123a 33  Jones          Ann M.          38     Ky            pg0116b.txt
+85b  22  Jones          Augustus        9      Ky            pg0082a.txt
+123a 34  Jones          Carolinsby      9      Ky            pg0116b.txt
+85b  20  Jones          Catharine       31     Ky            pg0082a.txt
+126a 14  Jones          Church          48     Virg          pg0116b.txt
+85b  21  Jones          Cleopatra       11     Ky            pg0082a.txt
+105b 22  Jones          Eligah          10     Ky            pg0105a.txt
+96a  6   Jones          Elizabeth       33     Ky            pg0093a.txt
+123a 23  Jones          Emerine         20     Ky            pg0116b.txt
+96a  5   Jones          Franklin G.     29     Ky            pg0093a.txt
+123a 22  Jones          George          23     Ky            pg0116b.txt
+105b 19  Jones          George C.       20     Ky            pg0105a.txt
+103a 18  Jones          George E.       6      Ky            pg0093a.txt
+97a  22  Jones          Harriet         15     Ky            pg0093a.txt
+105b 18  Jones          Henrietta       38     Ky            pg0105a.txt
+103a 16  Jones          Jessee          28     Ky            pg0093a.txt
+123a 20  Jones          Jessee          59     Virg          pg0116b.txt
+102a 21  Jones          John            39     Ky            pg0093a.txt
+103a 20  Jones          John T.         2      Ky            pg0093a.txt
+85b  23  Jones          Josephine       6      Ky            pg0082a.txt
+126a 15  Jones          Louisa          39     Ky            pg0116b.txt
+123a 25  Jones          Maranda         1      Ky            pg0116b.txt
+105b 23  Jones          Margaret        7      Ky            pg0105a.txt
+103a 17  Jones          Mary E.         23     Ky            pg0093a.txt
+123a 24  Jones          Sarah           2      Ky            pg0116b.txt
+123a 35  Jones          Sarah           7      Ky            pg0116b.txt
+123a 32  Jones          Simion          37     Ky            pg0116b.txt
+105b 21  Jones          Stephen         14     Ky            pg0105a.txt
+103a 19  Jones          William         3      Ky            pg0093a.txt
+105b 17  Jones          William         48     Virg          pg0105a.txt
+105b 20  Jones          William         19     Ky            pg0105a.txt
+78a  36  Joseph         Abraham         10     Ohio          pg0071a.txt
+78a  39  Joseph         Arabella        3      Ky            pg0071a.txt
+78a  35  Joseph         Caroline        27     Germany       pg0071a.txt
+78a  38  Joseph         Charles         6      Ky            pg0071a.txt
+78a  34  Joseph         Isaac           36     Germany       pg0071a.txt
+78a  37  Joseph         Lafayette       8      Ky            pg0071a.txt
+78a  40  Joseph         Malvina         7/12   Ky            pg0071a.txt
+104b 25  Kelsie         Eliz'th         39     Virg          pg0093a.txt
+104b 27  Kelsie         Harriet         15     Ky            pg0093a.txt
+104b 26  Kelsie         Jane            17     Ky            pg0093a.txt
+104b 24  Kelsie         John            43     Virg          pg0093a.txt
+104b 28  Kelsie         Joseph          13     Ky            pg0093a.txt
+104b 30  Kelsie         Mesick          6      Ky            pg0093a.txt
+104b 29  Kelsie         Samuel          9      Ky            pg0093a.txt
+80b  41  Kendall        Catharine       28     Ky            pg0071a.txt
+81b  10  Kendall        Frances         9      Ky            pg0071a.txt
+81b  11  Kendall        Hardin          7      Ky            pg0071a.txt
+81a  3   Kendall        James A.        2      Ky            pg0071a.txt
+81b  8   Kendall        James A.        31     Ky            pg0071a.txt
+81a  4   Kendall        John T.         8/12   Ky            pg0071a.txt
+81b  9   Kendall        Martha E.       26     Ky            pg0071a.txt
+81a  2   Kendall        Nancey          4      Ky            pg0071a.txt
+81b  13  Kendall        Preston B.      2      Ky            pg0071a.txt
+81b  12  Kendall        Sarah           5      Ky            pg0071a.txt
+81a  1   Kendall        Sarah Jane      7      Kentucky      pg0071a.txt
+80b  40  Kendall        Stephen H.      31     Ky            pg0071a.txt
+80b  42  Kendall        Susan           7      Ky            pg0071a.txt
+97a  20  Kenick         Mary T.         15     Ky            pg0093a.txt
+97a  19  Kenick         Rosa A.         41     Ky            pg0093a.txt
+97a  18  Kenick         Sebert B.       46     Ky            pg0093a.txt
+113b 3   Kennida        Nancy           13     Ky            pg0105a.txt
+95b  8   Kerrick        Henna           60     Virginia      pg0093a.txt
+95b  7   Kerrick        Otho N.         62     Maryland      pg0093a.txt
+95b  6   Kerrick        Theresa         64     Maryland      pg0093a.txt
+113b 29  Kester         Isaac           17     Ky            pg0105a.txt
+113b 15  Kester         James           17     Indiana       pg0105a.txt
+113b 33  Kester         James D.        8      Ky            pg0105a.txt
+113b 36  Kester         Joel H.         1      Ky            pg0105a.txt
+113b 32  Kester         John H.         10     Ky            pg0105a.txt
+113b 27  Kester         John P.         44     Ky            pg0105a.txt
+113b 12  Kester         Johnathan       44     Ky            pg0105a.txt
+111a 17  Kester         Louis           5      Ky            pg0105a.txt
+111a 13  Kester         Martha          39     Ky            pg0105a.txt
+111a 15  Kester         Martha          9      Ky            pg0105a.txt
+113b 14  Kester         Martha          18     Indiana       pg0105a.txt
+111a 16  Kester         Mary            9      Ky            pg0105a.txt
+113b 13  Kester         Mary            4      Ky            pg0105a.txt
+113b 31  Kester         Mary E.         12     Ky            pg0105a.txt
+113b 35  Kester         Nathan          4      Ky            pg0105a.txt
+113b 34  Kester         Peter           6      Ky            pg0105a.txt
+111a 14  Kester         Sarah           14     Ky            pg0105a.txt
+113b 28  Kester         Sarah           38     Ky            pg0105a.txt
+111a 18  Kester         Uriah           5      Ky            pg0105a.txt
+111a 12  Kester         William         39     Ky            pg0105a.txt
+111a 20  Kester         William         2      Ky            pg0105a.txt
+113b 30  Kester         William         15     Ky            pg0105a.txt
+111a 19  Kester         Willith         2      Ky            pg0105a.txt
+107b 15  Kincheloe      Alm'z           34     Ky            pg0105a.txt
+107b 16  Kincheloe      Alvira          39     Ky            pg0105a.txt
+107b 19  Kincheloe      Alvira          1      Ky            pg0105a.txt
+110b 36  Kincheloe      Anna            4      Ky            pg0105a.txt
+111a 11  Kincheloe      Anna            62     Virg          pg0105a.txt
+110b 38  Kincheloe      Eliz'th         8/12   Ky            pg0105a.txt
+110b 35  Kincheloe      Ellen           32     Ky            pg0105a.txt
+107b 17  Kincheloe      Jessee          7      Ky            pg0105a.txt
+107b 18  Kincheloe      Moses           5      Ky            pg0105a.txt
+110b 37  Kincheloe      Susan           2      Ky            pg0105a.txt
+110b 34  Kincheloe      William         32     Ky            pg0105a.txt
+107a 30  Kindall        Emily           13     Ky            pg0105a.txt
+107a 27  Kindall        James           58     Ky            pg0105a.txt
+109b 16  Kindall        Jessee          18     Ky            pg0105a.txt
+107a 29  Kindall        Mary            20     Ky            pg0105a.txt
+107a 28  Kindall        Nancy           53     Ky            pg0105a.txt
+107b 6   Kindall        Weaver          26     Ky            pg0105a.txt
+118a 36  King           Abner           14     Ky            pg0116b.txt
+111b 3   King           James           17     Ky            pg0105a.txt
+118a 34  King           Mary            18     Ky            pg0116b.txt
+122a 42  Kinnett        Agness          24     Ky            pg0116b.txt
+122b 4   Kinnett        Fletcher        6      Ky            pg0116b.txt
+122b 1   Kinnett        John            12     Ky            pg0116b.txt
+122a 39  Kinnett        Joseph          60     Virg          pg0116b.txt
+122b 2   Kinnett        Napolean        10     Ky            pg0116b.txt
+122b 3   Kinnett        Newton          9      Ky            pg0116b.txt
+122a 40  Kinnett        Rhoda           42     Ky            pg0116b.txt
+122a 41  Kinnett        Thomas          27     Ky            pg0116b.txt
+122a 38  Kinnett        William         13     Ky            pg0116b.txt
+110a 22  Kinnida        Daniel          23     Ky            pg0105a.txt
+110a 23  Kinnida        Eliz'th         22     Ky            pg0105a.txt
+110a 25  Kinnida        Hesther         16     Ky            pg0105a.txt
+110a 26  Kinnida        Mary            14     Ky            pg0105a.txt
+110a 21  Kinnida        Mrs.            46     Virg          pg0105a.txt
+110a 27  Kinnida        Susan           10     Ky            pg0105a.txt
+110a 24  Kinnida        Thomas          19     Ky            pg0105a.txt
+72a  22  Kirk           Allen J.        5      Ky            pg0071a.txt
+72a  23  Kirk           Alphonso        2      Ky            pg0071a.txt
+72a  21  Kirk           Louisa          35     Ky            pg0071a.txt
+72a  20  Kirk           Thos.           38     Ky            pg0071a.txt
+112b 31  Kister         Harriett        38     Ky            pg0105a.txt
+112b 30  Kister         John            60     Unknown       pg0105a.txt
+119a 2   Knapp          Anjaline        13     Indiana       pg0116b.txt
+119a 4   Knapp          Eliza           3      Ky            pg0116b.txt
+119a 1   Knapp          Emerine         14     Indiana       pg0116b.txt
+119a 3   Knapp          Liman           4      Ky            pg0116b.txt
+118b 42  Knapp          Lucy            39     Ky            pg0116b.txt
+118b 41  Knapp          Miller          42     Ky            pg0116b.txt
+93b  41  Kurtz          Ann L.          6      Ky            pg0093a.txt
+93b  42  Kurtz          Catharine       3      Ky            pg0093a.txt
+93b  39  Kurtz          Eliza           27     Ky            pg0093a.txt
+93b  38  Kurtz          George          39     Ky            pg0093a.txt
+96a  2   Kurtz          George          19     Ky            pg0093a.txt
+94a  1   Kurtz          James W.        1      Kentucky      pg0093a.txt
+93b  40  Kurtz          Laura M.        8      Ky            pg0093a.txt
+72a  18  Lancaster      Cartine M.      58     Virg          pg0071a.txt
+72a  17  Lancaster      Raphael         58     Knty          pg0071a.txt
+87a  16  Lankford       A. J.           27     Ky            pg0082a.txt
+94b  20  Lankford       Ann M.          8      Ky            pg0093a.txt
+85b  11  Lankford       Benj. T.        5      Ky            pg0082a.txt
+85b  4   Lankford       Elizabeth       45     Ky            pg0082a.txt
+87a  17  Lankford       Emily           26     Ky            pg0082a.txt
+85b  3   Lankford       Isaac           37     Ky            pg0082a.txt
+85b  7   Lankford       Isaac           16     Ky            pg0082a.txt
+94b  19  Lankford       James H.        10     Ky            pg0093a.txt
+85b  9   Lankford       Jane            12     Ky            pg0082a.txt
+85b  8   Lankford       John            14     Ky            pg0082a.txt
+87a  18  Lankford       John G.         6      Ky            pg0082a.txt
+85b  5   Lankford       Larkin          22     Ky            pg0082a.txt
+87a  19  Lankford       Louisa          4      Ky            pg0082a.txt
+94b  17  Lankford       Lydia A.        31     Ky            pg0093a.txt
+87a  20  Lankford       Richard         7/12   Ky            pg0082a.txt
+85b  10  Lankford       Sarah           10     Ky            pg0082a.txt
+94b  18  Lankford       Sarah E.        12     Ky            pg0093a.txt
+86a  3   Lankford       Stephen         35     Ky            pg0082a.txt
+85b  6   Lankford       William         21     Ky            pg0082a.txt
+126a 18  Lee            Arrinda         27     Ky            pg0116b.txt
+95a  27  Lee            Elizabeth N.    5      Ky            pg0093a.txt
+95a  24  Lee            Harriet         38     Ky            pg0093a.txt
+126a 17  Lee            James           26     Ky            pg0116b.txt
+126a 20  Lee            John            5      Ky            pg0116b.txt
+95a  26  Lee            John B.         7      Ky            pg0093a.txt
+73b  9   Lee            Madison         24     Kentucky      pg0071a.txt
+95a  28  Lee            Mortimer        1      Ky            pg0093a.txt
+126a 21  Lee            Nancy           1      Ky            pg0116b.txt
+126a 19  Lee            Tabitha         6      Ky            pg0116b.txt
+95a  23  Lee            Uri W.          38     Ky            pg0093a.txt
+73b  10  Lee            William         19     Kentucky      pg0071a.txt
+95a  25  Lee            William P.      11     Ky            pg0093a.txt
+95b  18  Lepage         George          44     New York      pg0093a.txt
+95b  19  Lepage         Sarah           44     Ky            pg0093a.txt
+86a  12  Lewis          A. G.           4      Ky            pg0082a.txt
+86a  4   Lewis          A. L.           50     Virginia      pg0082a.txt
+86a  10  Lewis          C. D.           10     Ky            pg0082a.txt
+86a  6   Lewis          C. S.           21     Ky            pg0082a.txt
+86a  5   Lewis          Caroline        45     Maryland      pg0082a.txt
+86a  9   Lewis          Henry H.        12     Ky            pg0082a.txt
+86a  11  Lewis          Mary C.         9      Ky            pg0082a.txt
+86a  8   Lewis          Susan M.        16     Ky            pg0082a.txt
+86a  7   Lewis          U. C.           19     Ky            pg0082a.txt
+105b 26  Lilly          John            21     Ky            pg0105a.txt
+105b 28  Lilly          Josephine       15     Ky            pg0105a.txt
+105b 25  Lilly          Nancy S.        45     Ky            pg0105a.txt
+105b 24  Lilly          Thomas          54     Ky            pg0105a.txt
+105b 27  Lilly          Thomas          19     Ky            pg0105a.txt
+105b 30  Lilly          Thomas          20     Ky            pg0105a.txt
+73b  38  Lindell        Fannie A.       28     Kenty         pg0071a.txt
+73b  37  Lindell        James           27     Kenty         pg0071a.txt
+73b  39  Lindell        William T.      2      Kenty         pg0071a.txt
+88a  11  Linderman      Abraham         15     Ky            pg0082a.txt
+88a  10  Linderman      Deborah         17     Ky            pg0082a.txt
+88a  12  Linderman      Emmerine        14     Ky            pg0082a.txt
+88a  14  Linderman      Henry R.        11     Ky            pg0082a.txt
+88a  13  Linderman      John S.         13     Ky            pg0082a.txt
+88a  9   Linderman      Margery         47     Ky            pg0082a.txt
+88a  16  Linderman      Mary S.         5      Ky            pg0082a.txt
+88a  8   Linderman      Sam'l           47     Ky            pg0082a.txt
+88a  15  Linderman      Virginia        10     Ky            pg0082a.txt
+88a  17  Linderman      Zachary T.      2      Ky            pg0082a.txt
+91b  41  Lindle         Alfred          18     Ky            pg0082a.txt
+91b  42  Lindle         Edward M.       16     Ky            pg0082a.txt
+91b  39  Lindle         Elizabeth       48     Ky            pg0082a.txt
+92a  6   Lindle         George M.       3      Ky            pg0082a.txt
+91b  38  Lindle         Jacob           51     Ky            pg0082a.txt
+92a  2   Lindle         John C.         11     Ky            pg0082a.txt
+92a  3   Lindle         Joseph F.       9      Ky            pg0082a.txt
+91b  40  Lindle         Letitia         19     Ky            pg0082a.txt
+92a  4   Lindle         Mary E.         7      Ky            pg0082a.txt
+92a  1   Lindle         Sarah L.        14     Kentucky      pg0082a.txt
+92a  5   Lindle         Susan C.        5      Ky            pg0082a.txt
+114b 9   Little         Hannah          25     Ireland       pg0105a.txt
+114b 8   Little         James           39     Ireland       pg0105a.txt
+76a  28  Littlepage     John            62     Virg          pg0071a.txt
+76a  29  Littlepage     Mary            53     Virg          pg0071a.txt
+100a 7   Lloyd          Edmon E.        31     Ky            pg0093a.txt
+100a 9   Lloyd          James E.        17     Ky            pg0093a.txt
+102b 24  Lloyd          Joseph          8      Ky            pg0093a.txt
+109b 10  Lloyd          Joseph          66     Virg          pg0105a.txt
+102b 25  Lloyd          Loucinda        7      Ky            pg0093a.txt
+109b 15  Lloyd          Margaret        30     Ky            pg0105a.txt
+109b 11  Lloyd          Martha          63     Virg          pg0105a.txt
+102b 23  Lloyd          Mary            33     Virg          pg0093a.txt
+100a 8   Lloyd          Matilda         24     Ky            pg0093a.txt
+102b 26  Lloyd          Missouria       5      Ky            pg0093a.txt
+109b 12  Lloyd          Pacience        41     Virg          pg0105a.txt
+109b 13  Lloyd          Stephen         21     Ky            pg0105a.txt
+109b 14  Lloyd          Waller          28     Ky            pg0105a.txt
+102b 22  Lloyd          Willis          38     Ky            pg0093a.txt
+78a  15  Long           Alice           4      Ky            pg0071a.txt
+112a 34  Long           Eliza           20     Ky            pg0105a.txt
+78a  12  Long           Josiah          35     Ky            pg0071a.txt
+112a 33  Long           Louis           25     Ky            pg0105a.txt
+78a  13  Long           Mary J.         23     Ky            pg0071a.txt
+112a 32  Long           Nancy           58     Ky            pg0105a.txt
+78a  16  Long           Sarah A.        2      Ky            pg0071a.txt
+112a 31  Long           Thomas          61     Ky            pg0105a.txt
+78a  14  Long           William H.      7      Ky            pg0071a.txt
+86b  23  Love           Elizabeth       25     Ky            pg0082a.txt
+86b  22  Love           Inmius A.       33     Ky            pg0082a.txt
+86b  25  Love           John H.         4      Ky            pg0082a.txt
+86b  26  Love           Sarah M.        8/12   Ky            pg0082a.txt
+86b  24  Love           Susan M.        5      Ky            pg0082a.txt
+120b 24  Lovel          Francis         75     Virg          pg0116b.txt
+120b 19  Lovel          George A.       9      Ky            pg0116b.txt
+120b 21  Lovel          John            5      Ky            pg0116b.txt
+120b 23  Lovel          Ludwell         2      Ky            pg0116b.txt
+120b 20  Lovel          Mary            7      Ky            pg0116b.txt
+120b 17  Lovel          Robert          34     Virg          pg0116b.txt
+120b 22  Lovel          Sarah           4      Ky            pg0116b.txt
+120b 18  Lovel          Susan           28     Ky            pg0116b.txt
+96b  15  Lovell         A. P.           21     Vermont       pg0093a.txt
+119b 34  Lukey          John            85     Penn          pg0116b.txt
+75b  23  Mackey         Abram           17     Ky            pg0071a.txt
+75b  24  Mackey         Ann             15     Ky            pg0071a.txt
+75b  25  Mackey         Eliz'th         15     Ky            pg0071a.txt
+75b  30  Mackey         Isaac           3      Ky            pg0071a.txt
+75b  29  Mackey         James K.        5      Ky            pg0071a.txt
+75b  21  Mackey         Jemima          42     Ky            pg0071a.txt
+75b  22  Mackey         John            21     Ky            pg0071a.txt
+75b  26  Mackey         Sarah           8      Ky            pg0071a.txt
+75b  27  Mackey         Thomas          6      Ky            pg0071a.txt
+75b  20  Mackey         William         42     Ohio          pg0071a.txt
+75b  28  Mackey         William         6      Ky            pg0071a.txt
+74b  25  Maddux         Ann C.          37     Virg.         pg0071a.txt
+74b  29  Maddux         Isaac           10     Ky            pg0071a.txt
+74b  31  Maddux         Julian          3      Ky            pg0071a.txt
+74b  30  Maddux         Thos.           7      Ky            pg0071a.txt
+74b  24  Maddux         William         34     Ky            pg0071a.txt
+85a  13  MaHorney       Mary            32     Ky            pg0082a.txt
+123b 42  Markwell       Emily           27     Ky            pg0116b.txt
+123b 41  Markwell       George          30     Ky            pg0116b.txt
+124a 1   Markwell       Hooper          22     Ky            pg0116b.txt
+124a 2   Markwell       John            20     Ky            pg0116b.txt
+123b 40  Markwell       Mrs.            63     Md            pg0116b.txt
+75a  19  Marshall       Ann E.          8      Ky            pg0071a.txt
+112a 5   Marshall       Druzilla        65     Virg          pg0105a.txt
+112a 6   Marshall       James           25     Ky            pg0105a.txt
+75a  20  Marshall       James           4      Ky            pg0071a.txt
+75a  18  Marshall       Margaret        37     Ky            pg0071a.txt
+75a  21  Marshall       Mary E.         1/12   Ky            pg0071a.txt
+75a  17  Marshall       Richard         35     Md            pg0071a.txt
+112a 4   Marshall       Samuel          66     Md            pg0105a.txt
+112a 7   Marshall       Samuel          19     Ky            pg0105a.txt
+81b  24  Martin         Alex            64     Virginia      pg0071a.txt
+81b  27  Martin         Alexander       18     Ky            pg0071a.txt
+75a  29  Martin         Amanda          10     Ky            pg0071a.txt
+72b  8   Martin         Ann E.          10     Ky            pg0071a.txt
+72b  11  Martin         Caroline M.     4      Ky            pg0071a.txt
+72b  9   Martin         Christopher C.  8      Ky            pg0071a.txt
+92b  34  Martin         Docius          62     Virginia      pg0082a.txt
+72a  33  Martin         Elis'th         4      Ky            pg0071a.txt
+75a  24  Martin         Eliza           25     Ky            pg0071a.txt
+75a  23  Martin         Eliz'th         46     Ky            pg0071a.txt
+72b  7   Martin         Emarine         28     Ky            pg0071a.txt
+81b  25  Martin         Frances         53     Ky            pg0071a.txt
+87b  29  Martin         Frances         28     Ky            pg0082a.txt
+90a  38  Martin         Frances         7      Ky            pg0082a.txt
+81b  29  Martin         Henry           14     Ky            pg0071a.txt
+87b  28  Martin         James           37     Ky            pg0082a.txt
+75a  25  Martin         James A.        22     Ky            pg0071a.txt
+87b  30  Martin         James C.        2      Ky            pg0082a.txt
+72b  6   Martin         John            33     Ky            pg0071a.txt
+90a  39  Martin         John G.         5      Ky            pg0082a.txt
+72b  13  Martin         John L.         1      Ky            pg0071a.txt
+72a  34  Martin         John T.         1      Ky            pg0071a.txt
+75a  26  Martin         John T.         20     Ky            pg0071a.txt
+75a  28  Martin         Maria           14     Ky            pg0071a.txt
+72a  32  Martin         Mary A.         26     Ky            pg0071a.txt
+72b  10  Martin         Mary A.         7      Ky            pg0071a.txt
+81b  28  Martin         McGruder        16     Ky            pg0071a.txt
+72a  31  Martin         Newton          29     Ky            pg0071a.txt
+72b  12  Martin         Sarah           2      Ky            pg0071a.txt
+81b  26  Martin         Sarah A.        20     Ky            pg0071a.txt
+90a  35  Martin         Spear           38     Ky            pg0082a.txt
+90a  40  Martin         Spear           1      Ky            pg0082a.txt
+75a  27  Martin         Stephen         18     Ky            pg0071a.txt
+75a  22  Martin         Thos. J.        53     Ky            pg0071a.txt
+90a  36  Martin         Virginia        33     Ky            pg0082a.txt
+90a  37  Martin         William         15     Ky            pg0082a.txt
+95b  42  Mason          Francs          39     Ky            pg0093a.txt
+96a  1   Mason          Franklin        6      Kentucky      pg0093a.txt
+95b  41  Mason          George          39     Ky            pg0093a.txt
+99a  25  Mason          John            4      Ky            pg0093a.txt
+99a  26  Mason          Johnson         2      Ky            pg0093a.txt
+99a  23  Mason          Margaret        7      Ky            pg0093a.txt
+99a  20  Mason          Martha J.       13     Ky            pg0093a.txt
+99a  24  Mason          Mary B.         5      Ky            pg0093a.txt
+99a  18  Mason          Nancy           37     Ky            pg0093a.txt
+99a  21  Mason          Nancy E.        11     Ky            pg0093a.txt
+99a  17  Mason          Richard         38     Ky            pg0093a.txt
+99a  22  Mason          Richard         8      Ky            pg0093a.txt
+99a  19  Mason          Robert H.       15     Ky            pg0093a.txt
+99a  27  Mason          Susan           4/12   Ky            pg0093a.txt
+77a  11  Massey         Allen J.        5      Ky            pg0071a.txt
+77a  6   Massey         Edward D.       30     Ky            pg0071a.txt
+77a  10  Massey         Israel T.       6      Ky            pg0071a.txt
+108b 20  Massey         James           48     Ky            pg0105a.txt
+77a  8   Massey         John W.         9      Ky            pg0071a.txt
+77a  13  Massey         Lenoy V.        2      Ky            pg0071a.txt
+77a  7   Massey         Martha          27     Ky            pg0071a.txt
+77a  14  Massey         Mary C.         3/12   Ky            pg0071a.txt
+77a  9   Massey         Sarah E.        8      Ky            pg0071a.txt
+77a  12  Massey         Zachariah A.    4      Ky            pg0071a.txt
+93b  32  Mathis         Ann E.          1      Ky            pg0093a.txt
+93b  26  Mathis         Catharine       34     Ky            pg0093a.txt
+93b  31  Mathis         Charles H.      4      Ky            pg0093a.txt
+93b  25  Mathis         F. B.           40     Ky            pg0093a.txt
+117a 10  Mathis         Francis         8      Ky            pg0116b.txt
+93b  28  Mathis         George W.       11     Ky            pg0093a.txt
+93b  27  Mathis         Henry C.        14     Ky            pg0093a.txt
+117a 14  Mathis         Isibell         3/12   Ky            pg0116b.txt
+93b  33  Mathis         James E.        24     Ky            pg0093a.txt
+117a 12  Mathis         Julia           5      Ky            pg0116b.txt
+117a 13  Mathis         Mary            3      Ky            pg0116b.txt
+93b  30  Mathis         Mary C.         6      Ky            pg0093a.txt
+117a 9   Mathis         Monroe          13     Ky            pg0116b.txt
+117a 8   Mathis         Nancy           32     Ky            pg0116b.txt
+117a 7   Mathis         William         33     Ky            pg0116b.txt
+117a 11  Mathis         William         7      Ky            pg0116b.txt
+93b  29  Mathis         William H.      9      Ky            pg0093a.txt
+95a  8   Matthews       Harlson         43     Ky            pg0093a.txt
+96b  37  Mattingly      John C.         22     Ky            pg0093a.txt
+88b  29  May            Aaron H.        7      Ky            pg0082a.txt
+87b  24  May            Berkley         28     Ky            pg0082a.txt
+100b 4   May            Charles         7      Ky            pg0093a.txt
+101a 41  May            Charles         39     Ky            pg0093a.txt
+84a  37  May            Charles H.      7      Ky            pg0082a.txt
+84a  36  May            Elizabeth       24     Ky            pg0082a.txt
+87b  23  May            Elizabeth       53     Virginia      pg0082a.txt
+101b 2   May            Eliz'th         12     Ky            pg0093a.txt
+88b  25  May            Henry           39     Ky            pg0082a.txt
+100b 2   May            Humphrey        68     Virg.         pg0093a.txt
+88b  30  May            Jemima E.       5      Ky            pg0082a.txt
+101b 1   May            John            1      Ky            pg0093a.txt
+87b  25  May            Johnathan       21     Ky            pg0082a.txt
+100b 3   May            Margaret        56     Virg.         pg0093a.txt
+101a 42  May            Mary            29     Ky            pg0093a.txt
+88b  28  May            Mary A.         10     Ky            pg0082a.txt
+88b  31  May            Mitchell B.     1      Ky            pg0082a.txt
+88b  27  May            Salina          15     Ky            pg0082a.txt
+84a  38  May            Sarah B.        4/12   Ky            pg0082a.txt
+88b  26  May            Sarah J.        34     Ky            pg0082a.txt
+87b  22  May            Stephen         58     Ky            pg0082a.txt
+87b  26  May            Susan           17     Ky            pg0082a.txt
+88b  37  May            Weir S.         25     Ky            pg0082a.txt
+84a  35  May            William H.      36     Ky            pg0082a.txt
+84b  18  McAllister     Alex            35     Ky            pg0082a.txt
+86b  40  McAllister     Amanda F.       19     Ky            pg0082a.txt
+78a  10  McAllister     Andrew J.       29     Ky            pg0071a.txt
+87a  24  McAllister     Charity         20     Ky            pg0082a.txt
+78a  11  McAllister     Elizabeth       20     Ky            pg0071a.txt
+84b  19  McAllister     Elizabeth       76     Virginia      pg0082a.txt
+84b  11  McAllister     Gabriel         38     Ky            pg0082a.txt
+87a  2   McAllister     Gabriel         10     Ky            pg0082a.txt
+86b  42  McAllister     Hannah          16     Ky            pg0082a.txt
+84b  14  McAllister     Horace W.       10     Ky            pg0082a.txt
+78a  8   McAllister     James           25     Ky            pg0071a.txt
+84b  16  McAllister     James D.        2      Ky            pg0082a.txt
+86b  38  McAllister     John            59     Ky            pg0082a.txt
+87a  1   McAllister     John H.         13     Ky            pg0082a.txt
+87a  5   McAllister     Lucinda         20     Ky            pg0082a.txt
+84b  15  McAllister     Lucretia        6      Ky            pg0082a.txt
+87a  3   McAllister     Martha          8      Ky            pg0082a.txt
+87a  23  McAllister     Martha          22     Ky            pg0082a.txt
+87a  26  McAllister     Mary I.         13     Ky            pg0082a.txt
+78a  9   McAllister     Mary J.         18     Ky            pg0071a.txt
+86b  41  McAllister     Moses H.        21     Ky            pg0082a.txt
+84b  13  McAllister     Nancy           12     Ky            pg0082a.txt
+87a  4   McAllister     R. P.           30     Ky            pg0082a.txt
+87a  25  McAllister     Robert          14     Ky            pg0082a.txt
+84b  12  McAllister     Sarah           37     Ky            pg0082a.txt
+87a  22  McAllister     Sarah           49     Ky            pg0082a.txt
+86b  39  McAllister     Thursday        49     Ky            pg0082a.txt
+87a  6   McAllister     William J.      1      Ky            pg0082a.txt
+124b 3   McCarty        John            53     Virg          pg0116b.txt
+87a  38  McCarty        Mary B.         1      Ky            pg0082a.txt
+124b 4   McCarty        Polly           40     Ky            pg0116b.txt
+87a  37  McCarty        Rebecca         26     Ky            pg0082a.txt
+87a  36  McCarty        William T.      34     Ky            pg0082a.txt
+88b  21  McClaskey      John            40     Ky            pg0082a.txt
+88b  23  McClaskey      Joseph W.       3      Ky            pg0082a.txt
+88b  24  McClaskey      Mary J.         2/12   Ky            pg0082a.txt
+88b  22  McClaskey      Rebecca         21     Ky            pg0082a.txt
+100b 40  McCollins      John            56     Ky            pg0093a.txt
+113b 38  McCrocklin     Adaline         26     Ky            pg0105a.txt
+123b 25  McCrocklin     Alex'd          40     Ky            pg0116b.txt
+99a  38  McCrocklin     Alfred          29     Ky            pg0093a.txt
+118a 10  McCrocklin     Ann M.          6/12   Ky            pg0116b.txt
+114a 21  McCrocklin     Benjamin        13     Ky            pg0105a.txt
+114a 1   McCrocklin     Blan'd          5      Ky            pg0105a.txt
+99a  41  McCrocklin     Charles         3      Ky            pg0093a.txt
+114a 23  McCrocklin     Com'd P.        6      Ky            pg0105a.txt
+118a 12  McCrocklin     Elina           65     Penn          pg0116b.txt
+105a 33  McCrocklin     Eliz'th         6      Ky            pg0105a.txt
+113b 42  McCrocklin     Eliz'th         6      Ky            pg0105a.txt
+114a 20  McCrocklin     Eliz'th         30     Ky            pg0105a.txt
+118a 5   McCrocklin     Eliz'th         31     Indiana       pg0116b.txt
+105b 1   McCrocklin     Ellen           13     Kentucky      pg0105a.txt
+118a 14  McCrocklin     Felix           8      Ky            pg0116b.txt
+105a 29  McCrocklin     Hamilton        35     Ky            pg0105a.txt
+123b 27  McCrocklin     Henry           6      Ky            pg0116b.txt
+114a 22  McCrocklin     Hettie A.       8      Ky            pg0105a.txt
+113b 39  McCrocklin     Isaac T.        10     Ky            pg0105a.txt
+114a 19  McCrocklin     James           35     Ky            pg0105a.txt
+116a 4   McCrocklin     James           30     Ky            pg0105a.txt
+118a 6   McCrocklin     James           10     Ky            pg0116b.txt
+105a 31  McCrocklin     Jessee          8      Ky            pg0105a.txt
+118a 8   McCrocklin     Jessee          6      Ky            pg0116b.txt
+105a 32  McCrocklin     John            7      Ky            pg0105a.txt
+118a 4   McCrocklin     John            34     Ky            pg0116b.txt
+99a  42  McCrocklin     John C.         11/12  Ky            pg0093a.txt
+118a 7   McCrocklin     Louisa          8      Ky            pg0116b.txt
+113b 40  McCrocklin     Malden          9      Ky            pg0105a.txt
+99a  39  McCrocklin     Maria           26     Ky            pg0093a.txt
+116a 1   McCrocklin     Mary            23     Ky            pg0105a.txt
+113b 41  McCrocklin     Mary E.         7      Ky            pg0105a.txt
+114a 24  McCrocklin     Mary E.         4      Ky            pg0105a.txt
+116a 3   McCrocklin     Newman          1      Ky            pg0105a.txt
+113b 37  McCrocklin     Preston         30     Ky            pg0105a.txt
+114a 25  McCrocklin     Sarah           2      Ky            pg0105a.txt
+105a 30  McCrocklin     Susan           30     Ky            pg0105a.txt
+118a 9   McCrocklin     Victoria        4      Ky            pg0116b.txt
+116a 2   McCrocklin     Washington      3      Ky            pg0105a.txt
+99a  40  McCrocklin     Washington      5      Ky            pg0093a.txt
+115b 42  McCrocklin     William         24     Ky            pg0105a.txt
+118a 11  McCrocklin     William         66     Virg          pg0116b.txt
+123b 26  McCrocklin     William         7      Ky            pg0116b.txt
+99b  1   McCrocklin J.  Mary            27     Kentucky      pg0093a.txt
+101a 40  McCullin       Elis'th         57     Ky            pg0093a.txt
+78b  26  McDonald       Alex            38     Scotland      pg0071a.txt
+78b  31  McDonald       Ann Lauria      4      Ky            pg0071a.txt
+115b 25  McDonald       Harriett        23     Ky            pg0105a.txt
+78b  32  McDonald       Henry C.        4/12   Ky            pg0071a.txt
+115b 26  McDonald       James           9/12   Ky            pg0105a.txt
+125a 23  McDonald       John            17     Ky            pg0116b.txt
+85b  17  McDonald       John            75     Ireland       pg0082a.txt
+78b  29  McDonald       John W.         10     Ky            pg0071a.txt
+85b  19  McDonald       Margaret        24     Ky            pg0082a.txt
+78b  28  McDonald       Mary C.         14     Ky            pg0071a.txt
+120a 15  McDonald       Mrs.            58     Virg          pg0116b.txt
+85b  18  McDonald       Nancy           60     Scotland      pg0082a.txt
+78b  27  McDonald       Susannah        34     Ky            pg0071a.txt
+115b 24  McDonald       Thomas          22     Ky            pg0105a.txt
+78b  30  McDonald       William H. H.   7      Ky            pg0071a.txt
+81a  19  McDonnall      Alex            84     Maryland      pg0071a.txt
+81a  20  McDonnall      Melinda         52     Virginia      pg0071a.txt
+126b 40  McGee          A. G.           22     Ky            pg0116b.txt
+83b  11  McGee          Arabella        40     Ky            pg0082a.txt
+126b 41  McGee          Cath.           19     Ky            pg0116b.txt
+83b  13  McGee          Elizabeth       12     Ky            pg0082a.txt
+108a 29  McGee          Enoch K.        53     Ky            pg0105a.txt
+83b  15  McGee          George W.       7      Ky            pg0082a.txt
+83b  17  McGee          Hall            2      Ky            pg0082a.txt
+127a 7   McGee          James           22     Ky            pg0116b.txt
+83b  12  McGee          John A.         13     Ky            pg0082a.txt
+83b  10  McGee          John B.         59     Ky            pg0082a.txt
+108a 33  McGee          Josephina       14     Ky            pg0105a.txt
+108a 32  McGee          Patric          19     Ky            pg0105a.txt
+83b  14  McGee          Rachael         9      Ky            pg0082a.txt
+108a 30  McGee          Rebecca         46     Ky            pg0105a.txt
+108a 31  McGee          Sarah           21     Ky            pg0105a.txt
+83b  16  McGee          Vincent A.      5      Ky            pg0082a.txt
+125b 32  McGloflin      Benj.           24     Ky            pg0116b.txt
+125b 33  McGloflin      Easter          20     Ky            pg0116b.txt
+125b 34  McGloflin      James           28     Ky            pg0116b.txt
+125b 30  McGloflin      Mrs.            55     Ky            pg0116b.txt
+125b 37  McGloflin      Nancy E.        5      Ky            pg0116b.txt
+125b 35  McGloflin      Permelia M.     24     Ky            pg0116b.txt
+125b 36  McGloflin      Safronia        7      Ky            pg0116b.txt
+125b 31  McGloflin      Sally           25     Ky            pg0116b.txt
+125b 38  McGloflin      Susan           6/12   Ky            pg0116b.txt
+126b 35  McGrue         Armilda         8      Ky            pg0116b.txt
+126b 33  McGrue         Eliz'th         35     Ky            pg0116b.txt
+126b 30  McGrue         Felix           21     Ky            pg0116b.txt
+126b 36  McGrue         Felix           7      Ky            pg0116b.txt
+126b 34  McGrue         Georege         10     Ky            pg0116b.txt
+126b 37  McGrue         James           3      Ky            pg0116b.txt
+124a 29  McGrue         Joseph          5      Ky            pg0116b.txt
+126b 32  McGrue         Milton          30     Ky            pg0116b.txt
+124a 27  McGrue         Minerva         32     Ky            pg0116b.txt
+126b 38  McGrue         Permelia        1      Ky            pg0116b.txt
+124a 26  McGrue         Robert          30     Ky            pg0116b.txt
+124a 28  McGrue         Susan           7      Ky            pg0116b.txt
+126b 31  McGrue         Susan           21     Ky            pg0116b.txt
+105a 42  McHaffee       Edward          25     Penn          pg0105a.txt
+120b 25  McIntire       Eligah          27     Ky            pg0116b.txt
+121a 32  McIntire       Henry           60     Virg          pg0116b.txt
+107a 12  McIntire       Joseph          9      Ky            pg0105a.txt
+120b 27  McIntire       Joseph          2      Ky            pg0116b.txt
+120b 26  McIntire       Susan           20     Ky            pg0116b.txt
+124b 1   McKalihan      James           28     Virg          pg0116b.txt
+94a  25  McKay          A. H.           34     Indiana       pg0093a.txt
+94a  27  McKay          Elizabeth       63     Ky            pg0093a.txt
+94a  26  McKay          Martha A.       33     Ky            pg0093a.txt
+85a  31  McKenna        James           13     Penn.         pg0082a.txt
+85a  29  McKenna        John            52     Ireland       pg0082a.txt
+85a  32  McKenna        Mary J.         12     Penn.         pg0082a.txt
+85a  33  McKenna        Richard         4      Ky            pg0082a.txt
+85a  30  McKenna        Sarah           38     Ireland       pg0082a.txt
+111b 14  McKinley       Amanda          27     Ky            pg0105a.txt
+118b 32  McKinley       Daniel          6      Ky            pg0116b.txt
+118b 27  McKinley       David           38     Ky            pg0116b.txt
+111b 23  McKinley       Edmon           8      Ky            pg0105a.txt
+118b 33  McKinley       Eliz'th         3      Ky            pg0116b.txt
+111b 17  McKinley       Emily J.        2      Ky            pg0105a.txt
+118b 34  McKinley       Hannah          1      Ky            pg0116b.txt
+111b 13  McKinley       James           30     Ky            pg0105a.txt
+118b 29  McKinley       James           13     Ky            pg0116b.txt
+111b 15  McKinley       Jerrome         6      Ky            pg0105a.txt
+111b 18  McKinley       John            1      Ky            pg0105a.txt
+119b 13  McKinley       John            40     Ky            pg0116b.txt
+119b 17  McKinley       John            2      Ky            pg0116b.txt
+111b 21  McKinley       Liddia          24     Ky            pg0105a.txt
+118b 28  McKinley       Margaret        36     Ky            pg0116b.txt
+111b 22  McKinley       Mary            22     Ky            pg0105a.txt
+118b 31  McKinley       Mary            8      Ky            pg0116b.txt
+111b 20  McKinley       Mrs.            68     Md            pg0105a.txt
+119b 14  McKinley       Sophia          35     Ky            pg0116b.txt
+118b 35  McKinley       Squire          29     Ky            pg0116b.txt
+111b 16  McKinley       Thomas          4      Ky            pg0105a.txt
+118b 30  McKinley       William         12     Ky            pg0116b.txt
+94b  11  McKinly        George          24     Ky            pg0093a.txt
+96a  7   McKinly        Lydia           45     Ky            pg0093a.txt
+96a  8   McKinly        Margaret        25     Ky            pg0093a.txt
+97a  33  McKinly        Mary            57     Ky            pg0093a.txt
+83b  37  McLain         Andrew          60     Ky            pg0082a.txt
+84a  2   McLain         Andrew J.       10     Ky            pg0082a.txt
+83b  20  McLain         Elizabeth       1      Ky            pg0082a.txt
+83b  42  McLain         Geo. W.         31     Ky            pg0082a.txt
+83b  39  McLain         John            29     Ky            pg0082a.txt
+84a  3   McLain         John            5      Ky            pg0082a.txt
+83b  19  McLain         Mary            19     Ky            pg0082a.txt
+84a  1   McLain         Mary            27     Kentucky      pg0082a.txt
+84a  4   McLain         Mary A.         4      Ky            pg0082a.txt
+83b  38  McLain         Sarah           60     Virginia      pg0082a.txt
+83b  18  McLain         Thomas J.       24     Ky            pg0082a.txt
+102a 40  McMillin       John            23     Ky            pg0093a.txt
+89a  27  McMullin       Daniel          26     Ky            pg0082a.txt
+79a  23  McQuaid        William A.      25     Ky            pg0071a.txt
+106b 31  Medcalf        Eligah          65     Md            pg0105a.txt
+115a 31  Merser         Cath.           25     Ky            pg0105a.txt
+115a 26  Merser         Eliza           27     Ky            pg0105a.txt
+115a 27  Merser         George          23     Ky            pg0105a.txt
+115a 29  Merser         James           18     Ky            pg0105a.txt
+115a 28  Merser         John            21     Ky            pg0105a.txt
+115a 25  Merser         Mrs.            49     Ky            pg0105a.txt
+115a 30  Merser         Nancy           15     Ky            pg0105a.txt
+89b  21  Middleton      Adam            45     Ky            pg0082a.txt
+89b  26  Middleton      Adam            1      Ky            pg0082a.txt
+89b  24  Middleton      David           7      Ky            pg0082a.txt
+89b  23  Middleton      James           10     Ky            pg0082a.txt
+89b  22  Middleton      Martha          33     Ky            pg0082a.txt
+89b  25  Middleton      Robert          5      Ky            pg0082a.txt
+109b 38  Miles          George          29     Penn          pg0105a.txt
+109b 39  Miles          Martha          9      Ky            pg0105a.txt
+109b 37  Miles          Minerva         29     Ky            pg0105a.txt
+109b 40  Miles          William         6      Ky            pg0105a.txt
+121a 5   Miller         Adam            45     Penn          pg0116b.txt
+121a 10  Miller         Aioma           2      Ky            pg0116b.txt
+117b 37  Miller         Anjaline        31     Ky            pg0116b.txt
+106a 31  Miller         Ann             45     Ky            pg0105a.txt
+117b 38  Miller         Barnett         13     Ky            pg0116b.txt
+106a 33  Miller         Benjamin        12     Ky            pg0105a.txt
+117b 42  Miller         Benjamin        4      Ky            pg0116b.txt
+80a  16  Miller         Christopher C.  3      Ky            pg0071a.txt
+90b  11  Miller         Deborah         13     Ky            pg0082a.txt
+117b 36  Miller         Edwin           32     Ky            pg0116b.txt
+118b 17  Miller         Eliz'th         20     Ky            pg0116b.txt
+118a 2   Miller         Emeline         1/12   Ky            pg0116b.txt
+118a 3   Miller         Emeline         16     Ky            pg0116b.txt
+90b  8   Miller         Harriet         35     Ky            pg0082a.txt
+84a  22  Miller         Henry           28     Ky            pg0082a.txt
+106a 30  Miller         Isaac           56     Virg          pg0105a.txt
+84a  12  Miller         Jacob           53     Ky            pg0082a.txt
+90b  7   Miller         Jacob           45     Ky            pg0082a.txt
+90b  12  Miller         James           11     Ky            pg0082a.txt
+84a  24  Miller         James C.        8      Ky            pg0082a.txt
+104a 38  Miller         Jane            55     Ky            pg0093a.txt
+106a 32  Miller         John            13     Ky            pg0105a.txt
+77a  20  Miller         John            17     Ky            pg0071a.txt
+84a  15  Miller         John            18     Ky            pg0082a.txt
+90b  10  Miller         John            15     Ky            pg0082a.txt
+121a 7   Miller         John B.         17     Ky            pg0116b.txt
+84a  14  Miller         Joshua          20     Ky            pg0082a.txt
+121a 8   Miller         Juriah          13     Ky            pg0116b.txt
+77a  28  Miller         Lenoy           20     Ky            pg0071a.txt
+84a  16  Miller         Louisa          15     Ky            pg0082a.txt
+80a  15  Miller         Lucy            25     Ky            pg0071a.txt
+90b  9   Miller         Marshall        17     Ky            pg0082a.txt
+117b 39  Miller         Mary            10     Ky            pg0116b.txt
+84a  13  Miller         Mary            56     Ky            pg0082a.txt
+84a  23  Miller         Mary            33     Ky            pg0082a.txt
+84a  25  Miller         Mary F.         6      Ky            pg0082a.txt
+121a 9   Miller         Mildred         8      Ky            pg0116b.txt
+118a 1   Miller         Noah S.         2      Ky            pg0116b.txt
+117b 40  Miller         Robert          8      Ky            pg0116b.txt
+90b  14  Miller         Ruth            2      Ky            pg0082a.txt
+117b 41  Miller         Sarah           6      Ky            pg0116b.txt
+121a 6   Miller         Sarah           40     Ky            pg0116b.txt
+94b  8   Miller         Sarah           20     Ky            pg0093a.txt
+90b  13  Miller         Sarah E.        9      Ky            pg0082a.txt
+104a 37  Miller         Thomas          30     Ky            pg0093a.txt
+80a  17  Miller         Virginia T.     1      Ky            pg0071a.txt
+80a  14  Miller         Wilson          29     Ky            pg0071a.txt
+100b 1   Milligan       Albert          22     Kenty         pg0093a.txt
+76b  30  Mills          Catharine       14     Ky            pg0071a.txt
+76b  26  Mills          Catherine       43     Ky            pg0071a.txt
+76b  29  Mills          Eliza           16     Ky            pg0071a.txt
+76b  27  Mills          Elizabeth       21     Ky            pg0071a.txt
+76b  33  Mills          Emma A.         6      Ky            pg0071a.txt
+76b  25  Mills          Harvey          45     Ky            pg0071a.txt
+115a 16  Mills          James           83     Virg          pg0105a.txt
+76b  32  Mills          James           11     Ky            pg0071a.txt
+76b  31  Mills          Mariah          12     Ky            pg0071a.txt
+115a 17  Mills          Nancy           62     Virg          pg0105a.txt
+76b  28  Mills          Pamela          19     Ky            pg0071a.txt
+95b  39  Mills          T. S.           35     Ky            pg0093a.txt
+101b 23  Mills          William         18     Ky            pg0093a.txt
+76b  34  Mills          William E.      2      Ky            pg0071a.txt
+86a  21  Milton         Mildred         35     Ky            pg0082a.txt
+86a  20  Milton         Thomas          39     Ky            pg0082a.txt
+86a  23  Milton         William M.      11     Ky            pg0082a.txt
+86a  22  Milton         Zach'a G.       19     Ky            pg0082a.txt
+94a  32  Minor          Jane            26     Ky            pg0093a.txt
+94a  33  Minor          Jequeline       21     Ky            pg0093a.txt
+113b 2   Minor          Maria           10     Mo            pg0105a.txt
+121a 21  Minter         Harriett        50     Ky            pg0116b.txt
+124a 32  Mires          Mary            7      Ky            pg0116b.txt
+124a 35  Mires          Mary            8      Ky            pg0116b.txt
+124a 33  Mires          Mathias         4      Ky            pg0116b.txt
+124a 30  Mires          Mrs.            35     Ky            pg0116b.txt
+124a 34  Mires          Purlina         35     Ky            pg0116b.txt
+124a 31  Mires          William         8      Ky            pg0116b.txt
+87a  28  Moffitt        Henry           48     Ky            pg0082a.txt
+87a  27  Moffitt        William         58     Ky            pg0082a.txt
+73a  42  Montgomery     Charles         24     Kentucky      pg0071a.txt
+73b  1   Montgomery     Elis'th M.      22     Kentucky      pg0071a.txt
+96a  13  Montgomery     James           17     Ky            pg0093a.txt
+73b  3   Montgomery     Marth A.        18     Kentucky      pg0071a.txt
+73a  40  Montgomery     Sarah           50     Kentucky      pg0071a.txt
+73b  2   Montgomery     Sarah J.        20     Kentucky      pg0071a.txt
+73a  41  Montgomery     William L.      28     Kentucky      pg0071a.txt
+120b 34  Moore          Ruth C.         12     Ky            pg0116b.txt
+91a  30  Moratto        Isabella        29     Ky            pg0082a.txt
+91a  28  Moratto        Mary            60     Ky            pg0082a.txt
+91a  29  Moratto        Susan           39     Ky            pg0082a.txt
+91a  27  Moratto        Sylvester       61     Penn.         pg0082a.txt
+84b  34  More           Ann             3      Ky            pg0082a.txt
+84b  35  More           Margaret        2      Ky            pg0082a.txt
+84b  32  More           Martin          25     Ky            pg0082a.txt
+84b  36  More           Nancy           3/12   Ky            pg0082a.txt
+84b  33  More           Rebecca         23     Ky            pg0082a.txt
+102a 5   Morehead       Herender        45     Ky            pg0093a.txt
+102a 7   Morehead       Ludwel          18     Ky            pg0093a.txt
+102a 6   Morehead       Lurutha         30     Ky            pg0093a.txt
+102a 8   Morehead       Rachael         15     Ky            pg0093a.txt
+86b  30  Morgan         Cassa A.        4      Ky            pg0082a.txt
+86b  31  Morgan         Eliza J.        1      Ky            pg0082a.txt
+92a  37  Morgan         Elizabeth       14     Ky            pg0082a.txt
+86b  29  Morgan         Parthena        25     Ky            pg0082a.txt
+86b  28  Morgan         Reuben          32     Ky            pg0082a.txt
+81b  4   Morris         Benj. T.        8      Ky            pg0071a.txt
+81b  7   Morris         Henry           10/12  Ky            pg0071a.txt
+81b  6   Morris         Jemima          2      Ky            pg0071a.txt
+81a  40  Morris         Jesse J.        17     Ky            pg0071a.txt
+81b  5   Morris         John C.         4      Ky            pg0071a.txt
+81a  42  Morris         Louisa J.       12     Ky            pg0071a.txt
+81a  38  Morris         Lucretia        43     Ky            pg0071a.txt
+81b  1   Morris         Lydia           14     Kentucky      pg0071a.txt
+81b  3   Morris         Malvina         9      Ky            pg0071a.txt
+81a  41  Morris         Mary A.         16     Ky            pg0071a.txt
+81b  2   Morris         Sarah E.        11     Ky            pg0071a.txt
+81a  37  Morris         Thomas          44     Ky            pg0071a.txt
+81a  39  Morris         William         20     Ky            pg0071a.txt
+96a  21  Moxley         Rebecca         101    Virginia      pg0093a.txt
+102b 14  Muir           Susan           27     Ky            pg0093a.txt
+71a  2   Muratta        Agnes           38     Ky            pg0071a.txt
+71a  5   Muratta        Annie E.        10     Ky            pg0071a.txt
+71a  1   Muratta        Caleb           39     Knty          pg0071a.txt
+71a  6   Muratta        James           8      Ky            pg0071a.txt
+71a  8   Muratta        Joseph          2      Ky            pg0071a.txt
+71a  9   Muratta        Martha          2      Ky            pg0071a.txt
+71a  3   Muratta        Mary F.         15     Ky            pg0071a.txt
+71a  4   Muratta        Susan M.        12     Ky            pg0071a.txt
+71a  7   Muratta        Thomas          6      Ky            pg0071a.txt
+123b 17  Murphey        James           23     Ky            pg0116b.txt
+126b 39  Murphey        Robert          21     Ky            pg0116b.txt
+94b  36  Murphy         Jerome B.       31     Ky            pg0093a.txt
+94b  37  Murphy         Mary Ann        13     Ky            pg0093a.txt
+90b  5   Murphy         Sarah           1      Ky            pg0082a.txt
+94b  35  Murphy         William B.      50     Ky            pg0093a.txt
+106b 27  Murray         Emily           4      Ky            pg0105a.txt
+107a 24  Murray         Enoch           6      Ky            pg0105a.txt
+107a 26  Murray         James           3/12   Ky            pg0105a.txt
+106b 22  Murray         Jefferson       12     Ky            pg0105a.txt
+106b 25  Murray         Jessee          7      Ky            pg0105a.txt
+107a 20  Murray         Jessee          19     Ky            pg0105a.txt
+106b 26  Murray         john            5      Ky            pg0105a.txt
+107a 21  Murray         John            17     Ky            pg0105a.txt
+106b 19  Murray         John R.         47     Ky            pg0105a.txt
+106b 21  Murray         Joseph          17     Ky            pg0105a.txt
+107a 23  Murray         Julia           10     Ky            pg0105a.txt
+107a 18  Murray         M. N.           43     Ky            pg0105a.txt
+106b 24  Murray         Mary E.         9      Ky            pg0105a.txt
+106b 23  Murray         McKelvey        11     Ky            pg0105a.txt
+106b 28  Murray         Nancy           3/12   Ky            pg0105a.txt
+107a 19  Murray         Sarah           44     Ky            pg0105a.txt
+107a 22  Murray         Susanna         15     Ky            pg0105a.txt
+106b 20  Murray         Theresa         39     Ky            pg0105a.txt
+107a 25  Murray         Thomas          3      Ky            pg0105a.txt
+116a 38  Mutt           James           19     Ky            pg0105a.txt
+82a  34  Nation         Elizabeth       37     Ky            pg0082a.txt
+83b  31  Nation         Elizabeth F.    3      Ky            pg0082a.txt
+82a  38  Nation         Emeline         9      Ky            pg0082a.txt
+83b  33  Nation         Frances         30     Ky            pg0082a.txt
+83b  29  Nation         James           26     Ky            pg0082a.txt
+82a  35  Nation         John            17     Ky            pg0082a.txt
+76b  36  Nation         John H.         22     Ky            pg0071a.txt
+82a  33  Nation         Joseph          53     Ky            pg0082a.txt
+82a  36  Nation         Joseph          15     Ky            pg0082a.txt
+82a  39  Nation         Lydia           7      Ky            pg0082a.txt
+83b  32  Nation         Mary A.         1      Ky            pg0082a.txt
+82a  41  Nation         Nancy           2      Ky            pg0082a.txt
+83b  30  Nation         Saibra          24     Ky            pg0082a.txt
+76b  35  Nation         Sarah           53     Virginia      pg0071a.txt
+82a  40  Nation         Susan F.        4      Ky            pg0082a.txt
+82a  37  Nation         William         11     Ky            pg0082a.txt
+82a  25  Naylor         Ann M.          7      Ky            pg0082a.txt
+82a  28  Naylor         Barbara         1      Ky            pg0082a.txt
+82a  30  Naylor         Ben. G.         20     Ky            pg0082a.txt
+82a  31  Naylor         Elisa J.        19     Ky            pg0082a.txt
+82a  32  Naylor         George          2      Ky            pg0082a.txt
+82a  29  Naylor         James H.        22     Ky            pg0082a.txt
+82a  23  Naylor         John C.         27     Ky            pg0082a.txt
+82a  24  Naylor         Mary            31     Ky            pg0082a.txt
+82a  26  Naylor         Mary E.         5      Ky            pg0082a.txt
+82a  27  Naylor         Musker L.       3      Ky            pg0082a.txt
+73a  25  Neil           Courtney R.     18     Kentucky      pg0071a.txt
+73a  24  Neil           Geo. W.         21     Kentucky      pg0071a.txt
+87b  14  Nevitt         Joseph          32     Ky            pg0082a.txt
+76a  36  Newgeant       David           1      Ky            pg0071a.txt
+76a  32  Newgeant       Eliz'th         33     Ky            pg0071a.txt
+76a  34  Newgeant       George W.       7      Ky            pg0071a.txt
+76a  35  Newgeant       James           5      Ky            pg0071a.txt
+76a  33  Newgeant       Mary J.         8      Ky            pg0071a.txt
+76a  31  Newgeant       William         35     Ky            pg0071a.txt
+89b  3   Newman         Albert T.       1      Ky            pg0082a.txt
+72a  39  Newman         Alex T.         7      Ky            pg0071a.txt
+89a  42  Newman         Benjamin        9      Ky            pg0082a.txt
+72a  42  Newman         Catharine M.    1      Ky            pg0071a.txt
+72b  2   Newman         Elis'th         17     Ky            pg0071a.txt
+89a  40  Newman         Eliza E.        13     Ky            pg0082a.txt
+73a  27  Newman         Eliza'th A.     25     Kentucky      pg0071a.txt
+98a  28  Newman         Frances         69     Virginia      pg0093a.txt
+89b  2   Newman         Frances L.      3      Ky            pg0082a.txt
+72b  5   Newman         Geo. T. Thos.   5      M.O.          pg0071a.txt
+72a  37  Newman         Geo. W.         14     Ky            pg0071a.txt
+89a  37  Newman         Geo. W.         41     Ky            pg0082a.txt
+89b  1   Newman         George M.       6      Kentucky      pg0082a.txt
+72a  40  Newman         Hariet F.       5      Ky            pg0071a.txt
+96a  14  Newman         James           15     Ky            pg0093a.txt
+73a  26  Newman         James H.        30     Kentucky      pg0071a.txt
+72b  4   Newman         James W.        10     Ky            pg0071a.txt
+72a  38  Newman         John H.         11     Ky            pg0071a.txt
+89a  41  Newman         John H.         11     Ky            pg0082a.txt
+98a  27  Newman         Josephine       10     Ky            pg0093a.txt
+72a  41  Newman         Mary E.         3      Ky            pg0071a.txt
+72b  3   Newman         Mary F.         12     Ky            pg0071a.txt
+89a  38  Newman         Mary M.         39     Ky            pg0082a.txt
+72a  36  Newman         Pauline P.      35     Ky            pg0071a.txt
+73a  28  Newman         Ruth Francis    3      Kentucky      pg0071a.txt
+72a  35  Newman         Simeon          42     Ky            pg0071a.txt
+98a  25  Newman         Susan           48     Ky            pg0093a.txt
+98a  24  Newman         Thomas          53     Ky            pg0093a.txt
+98a  26  Newman         William H.      21     Ky            pg0093a.txt
+89a  39  Newman         William J.      12     Ky            pg0082a.txt
+85a  25  Newton         Elizabeth       46     Virginia      pg0082a.txt
+85a  26  Newton         Elizabeth       14     Ky            pg0082a.txt
+85a  24  Newton         John            50     Ky            pg0082a.txt
+85a  27  Newton         Joseph T.       12     Ky            pg0082a.txt
+76a  40  Nicholdson     Alex'd          58     S. Carolina   pg0071a.txt
+76b  1   Nicholdson     Bowlen          20     Ky            pg0071a.txt
+82b  8   Nicholdson     Elizabeth       5      Ky            pg0082a.txt
+76b  2   Nicholdson     Eliz'th         18     Ky            pg0071a.txt
+76b  4   Nicholdson     Ellen           16     Ky            pg0071a.txt
+76b  6   Nicholdson     George          10     Ky            pg0071a.txt
+82b  6   Nicholdson     Henry           28     Ky            pg0082a.txt
+76b  3   Nicholdson     James           18     Ky            pg0071a.txt
+82b  10  Nicholdson     James R.        1      Ky            pg0082a.txt
+76a  41  Nicholdson     Jane            52     Ky            pg0071a.txt
+76a  42  Nicholdson     Linda           22     Ky            pg0071a.txt
+82b  7   Nicholdson     Martha          21     Ky            pg0082a.txt
+76b  5   Nicholdson     Purlina         13     Ky            pg0071a.txt
+82b  9   Nicholdson     Thomas W.       4      Ky            pg0082a.txt
+79b  3   Nickolds       Arch.           55     Virginia      pg0071a.txt
+79b  5   Nickolds       Catharine       21     Ky            pg0071a.txt
+79b  6   Nickolds       Ellen E.        19     Ky            pg0071a.txt
+79b  7   Nickolds       John H.         17     Ky            pg0071a.txt
+79b  4   Nickolds       Susan           54     Virginia      pg0071a.txt
+118a 15  Norman         Abner           60     N Carolina    pg0116b.txt
+118a 21  Norman         Abner           3/12   Ky            pg0116b.txt
+118a 16  Norman         Francis         62     Virg          pg0116b.txt
+118a 19  Norman         Loucinda        22     Ky            pg0116b.txt
+118a 20  Norman         Richard         3      Ky            pg0116b.txt
+118a 17  Norman         Sarah           23     Ky            pg0116b.txt
+118a 18  Norman         Solomon         27     Ky            pg0116b.txt
+94a  14  Norrell        Caroline W.     15     Virginia      pg0093a.txt
+94a  11  Norrell        Fayette H.      40     Virginia      pg0093a.txt
+94a  13  Norrell        Fayette W.      18     Virginia      pg0093a.txt
+94a  16  Norrell        Lucy D.         9      Tenn.         pg0093a.txt
+94a  17  Norrell        Mary C.         7      Virginia      pg0093a.txt
+94a  12  Norrell        May C.          35     Virginia      pg0093a.txt
+94a  18  Norrell        Sallie          2      Virginia      pg0093a.txt
+94a  15  Norrell        Virginia        12     Tenn.         pg0093a.txt
+98a  14  Nowlin         Daniel          43     Ky            pg0093a.txt
+98a  20  Nowlin         James N.        8/12   Ky            pg0093a.txt
+98a  15  Nowlin         Jane            36     Ky            pg0093a.txt
+98a  17  Nowlin         John M.         8      Ky            pg0093a.txt
+98a  18  Nowlin         Martha J.       6      Ky            pg0093a.txt
+98a  16  Nowlin         Mary E.         10     Ky            pg0093a.txt
+98a  19  Nowlin         Sarah S.        3      Ky            pg0093a.txt
+84a  26  Nutgrass       Sarah           12     Ky            pg0082a.txt
+83a  39  Nutgrass       Thornton        35     Ky            pg0082a.txt
+126a 1   Nutt           Amanda          13     Ky            pg0116b.txt
+125b 28  Nutt           Henry           25     Ky            pg0116b.txt
+126a 2   Nutt           Isibell         11     Ky            pg0116b.txt
+125b 39  Nutt           James           56     Virg          pg0116b.txt
+127a 20  Nutt           John            21     Ky            pg0116b.txt
+125b 41  Nutt           Joseph          27     Ky            pg0116b.txt
+125b 29  Nutt           Mary            22     Ky            pg0116b.txt
+125b 40  Nutt           Nancy           52     Ky            pg0116b.txt
+125b 42  Nutt           Robert          15     Ky            pg0116b.txt
+73a  38  Offutt         A. J.           43     Kentucky      pg0071a.txt
+73a  35  Offutt         Andrew J.       6      Knty          pg0071a.txt
+73a  30  Offutt         Elisa A.        47     Maryland      pg0071a.txt
+73a  37  Offutt         Elis'th C.      72     Maryland      pg0071a.txt
+73a  29  Offutt         James T.        45     Kentucky      pg0071a.txt
+73a  36  Offutt         John G.         5      Knty          pg0071a.txt
+73a  33  Offutt         Margarett       10     Knty          pg0071a.txt
+73a  23  Offutt         Mary            56     Kentucky      pg0071a.txt
+73a  34  Offutt         Mary            8      Knty          pg0071a.txt
+73a  39  Offutt         Matilda         38     Kentucky      pg0071a.txt
+73a  31  Offutt         Teresa A.       14     Knty          pg0071a.txt
+73a  32  Offutt         William B.      12     Knty          pg0071a.txt
+111a 33  Onane          Jane            13     Ky            pg0105a.txt
+78b  13  Osborne        Ann E.          4      Ky            pg0071a.txt
+78b  12  Osborne        Drusilla        6      Ky            pg0071a.txt
+78b  10  Osborne        George          30     Ky            pg0071a.txt
+78b  14  Osborne        Laura A.        6/12   Ky            pg0071a.txt
+78b  11  Osborne        Sarah           25     Ky            pg0071a.txt
+75b  33  Osburn         Eliz'th         5      Ky            pg0071a.txt
+75b  34  Osburn         George W.       3      Ky            pg0071a.txt
+75b  35  Osburn         Mary A.         2      Ky            pg0071a.txt
+75b  31  Osburn         Morrison        34     Ky            pg0071a.txt
+75b  32  Osburn         Nancy           22     Ky            pg0071a.txt
+115b 31  Osburne        Margaret        76     Penn          pg0105a.txt
+85a  16  O'Sullivan     Catharine       12     Ky            pg0082a.txt
+85a  18  O'Sullivan     Elizabeth       8      Ky            pg0082a.txt
+85b  25  O'Sullivan     Elizabeth       25     Ky            pg0082a.txt
+78b  5   O'Sullivan     Elya            22     Ky            pg0071a.txt
+85b  24  O'Sullivan     Jeremiah        30     Ireland       pg0082a.txt
+85a  19  O'Sullivan     Johanna         6      Ky            pg0082a.txt
+85a  17  O'Sullivan     John            10     Ky            pg0082a.txt
+85a  22  O'Sullivan     John            6      Ky            pg0082a.txt
+78b  4   O'Sullivan     John O.         34     Ireland       pg0071a.txt
+85b  26  O'Sullivan     John W.         5/12   Ky            pg0082a.txt
+85a  15  O'Sullivan     Mary            33     Ireland       pg0082a.txt
+85a  21  O'Sullivan     Mary            5/12   Ky            pg0082a.txt
+85a  14  O'Sullivan     Timothy         34     Ireland       pg0082a.txt
+85a  20  O'Sullivan     Timothy         3      Ky            pg0082a.txt
+85a  23  O'Sullivan     William         4      Ky            pg0082a.txt
+78b  6   O'Sullivan     William A.      1/12   Ky            pg0071a.txt
+115a 3   Overstreet     Ann             11     Ky            pg0105a.txt
+114b 41  Overstreet     Chest           46     Ky            pg0105a.txt
+115a 6   Overstreet     George          6      Ky            pg0105a.txt
+115a 2   Overstreet     James           15     Ky            pg0105a.txt
+115a 1   Overstreet     John            18     Ky            pg0105a.txt
+115a 7   Overstreet     Johnithan       3      Ky            pg0105a.txt
+114b 42  Overstreet     Loucinda        43     Ky            pg0105a.txt
+115a 4   Overstreet     Loucinda        10     Ky            pg0105a.txt
+115a 5   Overstreet     Maria           7      Ky            pg0105a.txt

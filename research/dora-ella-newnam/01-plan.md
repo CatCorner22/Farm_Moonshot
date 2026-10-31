@@ -1115,3 +1115,55 @@ Exact strings logged **L1331–L1360**.
 **Frank / WWI / probate / 602 / Grant** — same strings as pass 123. FAQ **9938** LIVE. FS SPA R011-**65**.
 
 Exact strings logged **L1361–L1383**.
+
+### Pass 125 variant storm (31 Oct 2026)
+
+**Dora Stone 1926 (B058)** — Dora/posa/dosa/rosa/dona × Stone/Newman/Newnam. Soundex **S350** / **N550**. Cert **1524** RD **676**. One catalog reconfirm (`item.digitized: false`). Phone **479-968-4368** not re-asked.
+
+**William × Rhoda / Carter + Greenup + Lincoln + Fleming 395A (B071)** — William/Wm/Will × Newnam/Newman/Newnarn/Newan/Newnom/Numan. Rhoda/Roda × Tincher/Tinchir/Fincher/Tinker. Greenup Lemuel / Thomas / Henry. Fleming Samuel / James / Madison. Casey NAPIER/NOLAND. Russell NELSON/NICHOLS. Bracken NEWCOMB/NEWELL. Harrison NEW/NEWELL/TINKEY. Soundex **N550** / **T526**. Place Carter 1850ndex; Greenup reel **202** n0373 / n0384 / n0526; Fleming reel **199** n0553 / n0558 / n0570; Lincoln reel **210** n0168–n0335; 1840 reel **117**. OCR/HTR Newman/Newnam/Tincher/Tinker/Fincher.
+
+**Marriage** — William × Rhoda Tincher; H.H. × Belinda **27 Feb 1840** kept separate. Authored mytrees 1845 unused. kykinfolk Mod_Security.
+
+**Frank / WWI / probate / 602 / Grant** — same strings as pass 124. FAQ **9938** LIVE. FS Incapsula R011-**66**.
+
+Exact strings logged **L1384–L1415**.
+
+### Pass 126 variant storm (31 Oct 2026)
+
+**Dora Stone 1926 (B058)** — Dora/posa/dosa/rosa/dona × Stone/Newman/Newnam. Soundex **S350** / **N550**. Cert **1524** RD **676**. One catalog reconfirm (`item.digitized: false`). Phone **479-968-4368** not re-asked.
+
+**William × Rhoda / Adair + Mason + 1840 Lincoln 123/132 (B071)** — William/Wm/Will × Newnam/Newman/Newnarn/Newan/Newnom/Numan. Rhoda/Roda × Tincher/Tinchir/Fincher/Tinker. Adair Newcomb William H. Mason Newall/Newcomb/Newdigate/Finch. Lincoln 1840 Newman **J** / Newman **H.A.** / Holeman-or-Newman Dasey. Soundex **N550** / **T526**. Place Adair 1850censusindex; Mason 1850index.txt; 1840 reel **117** n0249 / n0267. OCR/HTR Newman/Newnam/Holeman/Dasey.
+
+**Marriage** — William × Rhoda Tincher; H.H. × Belinda **27 Feb 1840** kept separate. kykinfolk Mod_Security.
+
+**Frank / WWI / probate / 602 / Grant** — same strings as pass 125. FAQ **9938** LIVE. FS SPA R011-**67**.
+
+Exact strings logged **L1416–L1431**.
+
+### Pass 127 variant storm (31 Oct 2026)
+
+**Dora Stone 1926 (B058)** — Dora/posa/dosa/rosa/dona × Stone/Newman/Newnam. Soundex **S350** / **N550**. Cert **1524** RD **676**. One catalog reconfirm (`item.digitized: false`). Phone **479-968-4368** not re-asked.
+
+**William × Jane / Rhoda / Owsley 299B + compiled closes (B071)** — William/Wm/Will × Newnam/Newman/Newnarn/Newan/Newnom/Numan. Jane/Rhoda/Roda. Francis/Decatur/Leanner/Leaner. Tincher/Tinchir/Fincher/Tinker. Soundex **N550** / **T526**. Place Owsley reel **216** leaf **391**; Jessamine reel **208** n0015; Grant/Owen/Washington/Oldham/Taylor/Bourbon SK. OCR Newman/newnam/newnarn.
+
+**Marriage** — William × Rhoda / William × Jane. H.H. × Belinda **27 Feb 1840** kept separate.
+
+**Frank / WWI / probate / 602 / Grant** — same strings as pass 126. FAQ **9938** LIVE. FS SPA R011-**68**.
+
+Exact strings logged **L1432–L1451**.
+
+### Pass 128 variant storm (31 Oct 2026)
+
+**Dora Stone 1926 (B058)** — Dora/posa/dosa/rosa/dona × Stone/Newman/Newnam. Soundex **S350** / **N550**. One catalog reconfirm.
+
+**Edmund / Sophia / Jessamine 10B (B071)** — Edmund/Edmond × Newman/Newnam. Sophia. George S / James W / J. S. William **67** / Nancy. Francis J / John **59**. Soundex **N550**. Place Jessamine reel **208** n0021/n0022; Madison indx; Lincoln Dist 2; Hopkins Dist 2 pg003. OCR Newman/newnam.
+
+Exact strings logged **L1452–L1467**.
+
+### Pass 129 variant storm (31 Oct 2026)
+
+**Dora Stone 1926 (B058)** — Dora/posa/dosa/rosa/dona × Stone/Newman/Newnam. Soundex **S350** / **N550**. One catalog reconfirm.
+
+**Christopher / Newham / Newnan (B071)** — Christopher/Catherine/John/Thomas × Newman. John Newnan/Newman **45**. John B. / Robert / William Newham. Simeon / Geo. W. / Thomas / William H. Spencer. S. Newman Shelby. Soundex **N550**. Place Woodford reel **222** n0254; Scott reel **218** n0263 / n0415 / n0424. OCR Newman/Newham/Newnan.
+
+Exact strings logged **L1476–L1496**.

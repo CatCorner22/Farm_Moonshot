@@ -1,0 +1,41 @@
+PASS 125 EXTRACT 2026-10-31
+Variants cats 1-4: William Newnam/Newman/Newnarn/Numan/Newnom; Rhoda Tincher/Tinchir/Fincher/Tinker; OCR Newman/newnam/newnarn/newan; Soundex N550 T526 S350.
+
+B058 LOC sn89051008 item.digitized: false (pass125). IA Solr title:(Dardanelle Post-Dispatch) AND year:1926 numFound:0. Phone 479-968-4368 not re-asked. C1561
+
+B071 Carter 1850: SK 404. KYGenWeb 1850ndex.htm LIVE. N = Nethercult/Nethercull, Newell, Noland, Nickell, Nolcina, Nobley, Nunley, Nipp, North, Norton, Norris, Nifferell, Newhart. T-near = Tinsley Sally only. No Newman/Newnam/Tincher. County CLOSED compiled heads-index. C1562
+Carter Wayback kenn-mul + scag-whi: no Newman/Tincher. mul-sca CDX empty (gap unread). C1563
+
+B071 Greenup 1850: SK 404. Wayback morr-put.txt LIVE. 3 Newman households: Lemuel 38 MD x Matilda 24 VA + George W 9 / John 6 / James S 3 (186A Dist 2); Thomas 28 SC x Tabitha J 25 VA + Jalander 5 AL (191B Dist 2); Henry 30 GER x Eliza 28 OH + Wm 5 OH + Mary 3 OH + J.W. 1 KY (261B first dist). All REJECT vs William x Rhoda. smit-ule.txt no Tincher. C1564
+n0373 Dist 2 20 Aug IMAGE SEEN hh 407 Lemuel Newman 38 MD + Matilda 24 + George W 9 + John 6 + James S 3. REJECT. C1565
+n0384 Dist 2 stamp 191 IMAGE SEEN last lines: Thomas Newman 28 merchant SC + Tabitha 25 VA + Jalander 5 AL. Compiled 191B. REJECT. C1566
+n0526 first district 3 Oct stamp 261 IMAGE SEEN: Henry Newman 30 laborer Germany + Eliza 28 OH + Wm 5 OH + Mary 3 OH + infant 1 KY. Compiled 261B. REJECT. C1567
+Greenup 1850 CLOSED compiled + all 3 Newman originals. C1568
+
+B071 Lewis 1850: every-name Wayback index04/05/06. Grep nil Newman/Newnam/Tincher. County CLOSED compiled. Same reel 210 as Lincoln. C1569
+
+B071 Fleming 2nd Div residual 395A:
+n0553 stamp 386B IMAGE SEEN Samuel 37 x Sarah 36 + Eliza A 17 / Joel F 14 / Matthew 11 / Mary Ann 9 / Francis 6 / Hanson 2. REJECT. C1570
+n0558 stamp 389A IMAGE SEEN James Newman 37 farmer $2000 x Mary Jane 33 + Leah 14 / Nancy Jane 8 / Sanford 4 / Maria 2. REJECT. C1571
+n0570 stamp 395A IMAGE SEEN head ~31 (Madison/Andrew reading) farmer $1650 + wife 30 + John H 12 / William F 10 / James H 8 / Mary Ellen 6 / Madison F 4 / Alvin L 2 / Elizabeth Malee 16. REJECT vs William x Rhoda. C1572
+Fleming 2nd Div Newman including 395A CLOSED. Dist 1 already closed pass 124. C1573
+
+B071 Lincoln 1850: SK 404. Reel 210 mapped: n0160 Lewis Dist 1 stamp 235; n0180 Lincoln Dist 1 stamp 245 (8 Aug, John W. Craig) IMAGE SEEN — Middleton/Clark/Harris/Wheeler/Carter; no Newman. n0200 IMAGE SEEN — Montgomery/Padgett/Hockens; no Newman. n0260 Lincoln Dist 2. n0340 Livingston stamp 16. Window n0168-n0335 (168 fulls downloaded). Namecol OCR in progress (tesseract draft only). County NOT closed. C1574 C1575
+SK Lincoln 1840 LIVE: NEWMAN pages 123 and 132 (heads only). C1576
+1840 reel 117 (Laurel/Lawrence/Lewis/Lincoln/Livingston) mapped: n0005 Laurel recap; n0240 Lawrence County; n0320 Lincoln Dist. Pages 123/132 originals unread. C1577
+
+B071 Casey 1850 SK LIVE: N = NAIL/NAPIER/NAPIR/NIFLY/NIGHT/NOLAND/NOLINN/NORTHCUT/NOWLAND. T = TINSLEY 350B. No Newman/Tincher. CLOSED compiled. C1578
+Russell 1850 SK LIVE: N = NELSON/NICHOLS/NORFLEET/NORFLET/NORTHRIP. No Tincher. CLOSED compiled. C1579
+Bracken 1850 SK LIVE: N = NEEVE/NEEVES/NELSON/NESBIT/NEWCOMB/NEWELL/NEY/NICHERSON/NICHOLS/NICHOLSON/NOBLE/NORRIS/NORTHCUTT/NORTON. No Newman/Tincher. CLOSED compiled. C1580
+Harrison 1850 SK LIVE: N = NALLY/NAYLOR/NEFF/NESBIT/NESBITT/NEVIL/NEW/NEWELL/NEYS/NICHOLS/NORTH/NORTHCUT/NORTON. T = TINKEY 60B. No Newman/Tincher. CLOSED compiled. C1581
+Adair SK 404; search page no KY Adair 1850 HTML; us-census.org/ky/adair/ has 1810 only; Wayback CDX empty. Residual. C1582
+Mason SK product-only (mason-county-ky book); no free HTML index. Residual. C1583
+
+No free William x Rhoda license. kykinfolk Estill/Owsley marr Mod_Security / expired SSL. mytrees 1845 unused. C1584
+Parents still PROBABLE. 1860 Rhoda widow + B.F. 7 PROVEN. #28 stands. Abner n0092 POSSIBLE only. C1585
+
+B059 GT Lee WWI LIVE 452540. Brandenburg, Luther + Underwood, Luther only. Cards unread. C1586
+B065/B045/B069 FS 1146342 Incapsula 855B (R011-66). 127913/156057 unread. USGenNet wills LIVE — Jane Steele NEWMAN + Mary F. TINCHER; no Samuel P. IA Solr M1509 numFound:0. C1587 C1588
+B055/B080 FAQ 9938 LIVE cards 228-229. No free June 1958 clip. Phone not re-asked. C1589
+B088 IA 602 pass125 metadata {}. Use pass123 still 515. One line. C1590
+B081 Grant 21 not merged. B084 POSSIBLE Jr only. No new McCoy. Do not print 1966 or 1962. No 33-12/33-13. Phones/R001/R007/R008 not re-asked. C1591

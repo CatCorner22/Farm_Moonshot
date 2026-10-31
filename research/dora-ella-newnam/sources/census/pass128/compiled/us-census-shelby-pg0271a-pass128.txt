@@ -1,0 +1,1067 @@
+Shelby, KY 1850 Federal Census
+
+This Census was transcribed by Shirley Drake <sdrake@goldrush.com> 
+and proofread by Charles Drake for the USGenWeb Census Project, 
+http://www.usgenweb.org/census.
+
+Copyright 1999 by Shirley Drake <sdrake@goldrush.com>
+
+************************************************************************
+USGENWEB NOTICE:  These electronic pages may NOT be reproduced in
+any format for profit or presentation by any other organization or
+persons.  Persons or organizations desiring to use this material,
+must obtain the written consent of the contributor, or the legal
+representative of the submitter, and contact the listed USGenWeb
+archivist with proof of this consent.
+************************************************************************
+Thanks to S-K Publications for providing the census page photocopies from
+which this transcription was made.  The complete original, handwritten
+census of this county is available in book form (including a typed index)
+from S-K Publications, PO Box 8173, Wichita KS 67208
+(www.skpub.com/genie/census.html).
+************************************************************************
+
+Census_Year  1850
+Microfilm #  M432-218
+State        KY
+County       Shelby
+---------------------Begin Actual Transcription----------------------------------
+
+CENSUS YR:  1850  STATE or TERRITORY:  KY  COUNTY:  Shelby  DIVISION:  District #1  PAGE NO:  271a
+=========================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB
+=========================================================================================================================
+ 1   1    1   Hornsby        C.             62   F                        11,000    Virginia
+ 2   1    1   Hornsby        C. H.          42   M         none           3,500     Kentucky
+ 3   1    1   Hornsby        D.C.           19   M         none           3,500     Kentuckly
+ 4   2    2   Ringer         Wm             34   M         Musician                 Germany                 X
+ 5   2    2   Scheidler      M              35   F                                  Germany
+ 6   2    2   Scheidler      B              14   F                                  Germany                 X
+ 7   2    2   Scheidler      F.             16   M         None                     Germany                 X
+ 8   3    3   Standeford     W              53   M         Merchant       5,500     Kentucky
+ 9   3    3   Standeford     W.H.           21   M                                  Kentucky
+ 10  3    3   Standeford     D.P.           18   M         None                     Kentucky                X
+ 11  3    3   Standeford     H.             58   F                                  Virginia
+ 12  3    3   Wallace        A.C.           72   F                                  Kentucky
+ 13  3    3   Vandyke        H.             12   M                                  Kentucky
+ 14  4    4   Rogers         W.             43   M         Merchant       800       Maryland
+ 15  4    4   Rogers         H.             38   F                                  Kentucky
+ 16  4    4   Rogers         F.             21   F                                  Kentucky
+ 17  4    4   Rogers         M.             18   F                                  Kentucky
+ 18  4    4   Rogers         B.             16   M         None                     Kentucky
+ 19  4    4   Rogers         M.             14   M                                  Kentucky                X
+ 20  4    4   Rogers         H.             10   F                                  Kentucky                X
+ 21  4    4   Rogers         G              8    M                                  Kentucky                X
+ 22  4    4   Rogers         G              6    F                                  Kentucky
+ 23  4    4   Rogers         E.             1    F                                  Kentucky
+ 24  4    4   Ray            M.             21   F                                  Kentucky                X
+ 25  4    4   Gore           G              65   M                                  Maryland
+ 26  4    4   Appleton       L.             50   M    M                             Kentucky                      X
+ 27  5    5   Graham         H.             27   M         Merchant                 Kentucky
+ 28  5    5   Graham         S.L.           22   F                                  Kentucky
+ 29  5    5   Graham         T              1    F                                  Kentucky
+ 30  5    5   Graham         I              2/12 F                                  Kentucky
+ 31  6    6   Thompson       T.             31   M         Merchant       40,000    Dis of Columbia
+ 32  6    6   Thompson       M.C.           27   F                                  Missouri
+ 33  6    6   Thompson       T.S.           1    M                                  Kentucky
+ 34  6    6   Thompson       T.             1/12 M                                  Kentucky
+ 35  6    6   Fallon         W.             11   M                                  Missouri                X
+ 36  6    6   Southern       M.             15   F                                  Kentucky                X
+ 37  7    7   Winlock        Robt           41   M         Physician      3,300     Kentucky
+ 38  7    7   Winlock        L.             38   F                                  Virginia
+ 39  7    7   Adams          A.             50   F                                  Virginia
+ 40  7    7   Winlock        G.             11   F                                  Kentucky                X
+ 41  7    7   Winlock        T.             9    M                                  Kentucky                X
+ 42  7    7   Winlock        E.             7    F                                  Kentucky                X
+
+CENSUS YR:  1850  STATE or TERRITORY:  KY  COUNTY:  Shelby  DIVISION:  District #1  PAGE NO:  271b
+=========================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB
+=========================================================================================================================
+ 1   8    8   McGrath        G.             31   M         Tailor         1,200     Kentucky
+ 2   8    8   McGrath        E.             21   F                                  Kentucky
+ 3   8    8   McGrath        M.             3    F                                  Kentucky
+ 4   8    8   McGrath        R.M.           2/12 M                                  Kentucky
+ 5   8    8   Allen          A.M.           38   M         Physician                Virginia
+ 6   9    9   Moore          S.M.           50   M         Physician      1,500     Kentucky
+ 7   9    9   Moore          I.             58   F                                  Virginia
+ 8   9    9   Moore          I.T.           22   M         None                     Kentucky
+ 9   9    9   Moore          I              17   M         Merchant                 Kentucky
+ 10  9    9   Moore          M.             14   F                                  Kentucky
+ 11  9    9   Moore          J.J.           45   F                                  Kentucky
+ 12  9    9   Magruder       R.             16   F    B                             Kentucky
+ 13  10   10  Brown          Robt           55   M         None           1,600     Ireland
+ 14  10   10  Brown          M.             45   F                                  Ireland
+ 15  10   10  Brown          T. M.          22   M         Lawyer                   Kentucky
+ 16  10   10  Brown          T.A.           20   F                                  Kentucky
+ 17  11   11  Bonney         C.D.           48   M         Physician      15,000    Virginia
+ 18  11   11  Bonney         J.E.           33   F                                  Tennessee
+ 19  11   11  Bonney         V.             13   F                                  Mississippi             X
+ 20  11   11  Bonney         M.             12   F                                  Mississippi
+ 21  11   11  Bonney         E.             10   F                                  Mississippi             X
+ 22  11   11  Bonney         F.             9    M                                  Mississippi             X
+ 23  11   11  Bonney         E.             6    F                                  Mississippi             X
+ 24  11   11  Bonney         I.             1    F                                  Kentucky
+ 25  12   12  Price          J.             27   M         Farmer         4,000     Kentucky
+ 26  12   12  Price          M.             3    F                                  Kentucky
+ 27  12   12  Price          Tho            1/12 M                                  Kentucky
+ 28  13   13  Harris         J.             71   M         None           400       Virginia
+ 29  13   13  Harris         E.             73   F                                  Virginia
+ 30  13   13  Harris         M.             42   F                                  Virginia
+ 31  13   13  Harris         V.             36   M         None                     Kentucky
+ 32  14   14  Offut          J.A.           29   M         Farmer         15,200    Kentucky
+ 33  14   14  Offut          A.             22   F                                  Kentucky
+ 34  14   14  Offut          M.             3    F                                  Kentucky
+ 35  14   14  Offut          M.             1    F                                  Kentucky
+ 36  15   15  Price          H.             30   M         Farmer         3,300     Kentucky
+ 37  15   15  Price          A.             29   F                                  Kentucky
+ 38  15   15  Price          E.             9    F                                  Kentucky                X
+ 39  15   15  Price          M.             6    F                                  Kentucky                X
+ 40  15   15  Price          M.             4    F                                  Kentucky
+ 41  15   15  Price          F.             2    F                                  Kentucky
+ 42  15   15  Price          M.             22   F                                  Kentucky
+
+CENSUS YR:  1850  STATE or TERRITORY:  KY  COUNTY:  Shelby  DIVISION:  District #1  PAGE NO:  272a
+=========================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB
+=========================================================================================================================
+ 1   15   15  Newman         S.             20   M         School Teacher           Kentucky
+ 2   16   16  Noland         P.             37   M         Farmer         1,500     Kentucky
+ 3   16   16  Porter         J.             4    M                                  Kentucky
+ 4   16   16  Porter         Jno            27   M         Farmer                   Kentucky
+ 5   17   17  Glass          S.             49   M         Farmer         7,740     Kentucky
+ 6   17   17  Glass          S.             37   F                                  Kentucky
+ 7   17   17  Glass          Thos           15   M                                  Kentucky                X
+ 8   17   17  Glass          S.             10   M                                  Kentucky                X
+ 9   17   17  Glass          S.             7    F                                  Kentucky                X
+ 10  17   17  Glass          S.             7    F                                  Kentucky                X
+ 11  17   17  Glass          J.             2    M                                  Kentucky
+ 12  17   17  White          Robt           10   M                                  Illinois                X
+ 13  17   17  White          Thos           8    M                                  Illinois                X
+ 14  17   17  White          W.             6    M                                  Illinois                X
+ 15  17   17  Brown          M.             25   M         School Teacher           Ohio
+ 16  18   18  Hansbrough     W.             25   M         Farmer         9,200     Kentucky
+ 17  18   18  Hansbrough     L.             60   F                                  Virginia
+ 18  19   19  Bailey         H.             35   M         Farmer         8,000     Kentucky
+ 19  19   19  Bailey         J.             27   F                                  Kentucky
+ 20  19   19  Bailey         M.             7    F                                  Kentucky
+ 21  19   19  Bailey         A.             3    F                                  Kentucky
+ 22  19   19  Bailey         W.             1    M                                  Kentucky
+ 23  19   19  Childs         Thos           61   M         Farmer         14,000    Kentucky
+ 24  19   19  Childs         E.C.           19   F                                  Kentucky
+ 25  20   20  Smith          L.W.           32   M         Farmer         15,880    Kentucky
+ 26  20   20  Smith          E.             23   F                                  Kentucky
+ 27  20   20  Smith          D.             4    M                                  Kentucky
+ 28  21   21  Moxley         S.             62   M                        32,000    Virginia
+ 29  21   21  Moxley         M.             66   F                                  Virginia
+ 30  21   21  Foster         G.             53   M         None                     Ohio
+ 31  22   22  Tucker         A.             72   M         Farmer         7,300     Maryland
+ 32  22   22  Tucker         A.             45   F                                  Kentucky
+ 33  22   22  Tucker         T.             1    M                                  Kentucky                X
+ 34  22   22  Tucker         J.             9    M                                  Kentucky                X
+ 35  22   22  Tucker         N.             7    M                                  Kentucky                X
+ 36  22   22  Tucker         C              7    F                                  Kentucky                X
+ 37  22   22  Webb           E.             17   F                                  Kentucky
+ 38  23   23  McKinsey       M.             52   M         Farmer         12,000    Kentucky
+ 39  23   23  McKinsey       G              45   F                                  Kentucky
+ 40  23   23  McKinsey       Robt           20   M         None                     Kentucky                X
+ 41  23   23  McKinsey       W.             18   M         None                     Kentucky                X
+ 42  23   23  McKinsey       Robt           7    M                                  Kentucky
+
+CENSUS YR:  1850  STATE or TERRITORY:  KY  COUNTY:  Shelby  DIVISION:  District #1  PAGE NO:  272b
+=========================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB
+=========================================================================================================================
+ 1   24   24  Hanna          W.             42   M         Farmer         18,665    Kentucky
+ 2   24   24  Hanna          A.             31   F                                  Kentucky
+ 3   24   24  Hanna          E.             12   F                                  Kentucky                X
+ 4   24   24  Hanna          W.             9    M                                  Kentucky                X
+ 5   24   24  Hanna          J.             7    M                                  Kentucky                X
+ 6   24   24  Hanna          M.             5    F                                  Kentucky                X
+ 7   24   24  Hanna          J.             3    M                                  Kentucky
+ 8   24   24  Hanna          C,             1    M                                  Kentucky
+ 9   25   25  Benton         W.             42   M         Farmer         8,400     Kentucky
+ 10  25   25  Benton         M.             39   F                                  Kentucky
+ 11  25   25  Benton         J.             18   M         None                     Kentucky                X
+ 12  25   25  Benton         M.             14   M                                  Kentucky                X
+ 13  25   25  Benton         W.             11   M                                  Kentucky                X
+ 14  25   25  Benton         L              8    F                                  Kentucky                X
+ 15  25   25  Benton         M.             5    F                                  Kentucky                X
+ 16  25   25  Benton         G.             1    M                                  Kentucky
+ 17  26   26  Hewlett        W              63   M         Farmer                   Virginia
+ 18  26   26  Hewlett        J.             55   F                                  Pennsylvania
+ 19  26   26  Hewlett        J.             21   F                                  Kentucky
+ 20  26   26  Fore           J.             21   M         Farmer         17,500    Kentucky
+ 21  26   26  Shackelford    E.             70   F                                  Virginia
+ 22  26   26  Roseberry      E.             70   F                                  Pennsylvania
+ 23  27   27  Woods          M.             48   M         Farmer         2,800     Kentucky
+ 24  27   27  Woods          C.             46   F                                  Kentucky
+ 25  27   27  Woods          C.             25   F                                  Kentucky
+ 26  27   27  Woods          J.             17   F                                  Kentucky                X
+ 27  27   27  Woods          E.             15   F                                  Kentucky                X
+ 28  27   27  Woods          P              14   M                                  Kentucky                X
+ 29  27   27  Woods          C.             12   F                                  Kentucky                X
+ 30  27   27  Woods          E.             10   F                                  Kentucky                X
+ 31  27   27  Woods          C.             8    F                                  Kentucky                X
+ 32  27   27  Woods          M.             7    F                                  Kentucky
+ 33  27   27  Woods          F.             5    F                                  Kentucky
+ 34  27   27  Zannard        J.             21   M         Farmer                   Kentucky
+ 35  28   28  Collier        W.             43   M         Farmer         33,225    Kentucky
+ 36  28   28  Collier        G.             68   F                                  Virginia
+ 37  28   28  Collier        J.F.           35   M                                  Kentucky
+ 38  28   28  Collier        A.             32   F                                  Kentucky
+ 39  29   29  Collier        J.             37   M         Farmer                   Kentucky
+ 40  29   29  Collier        C.             8    M                                  Kentucky                X
+ 41  29   29  Collier        J.             6    M                                  Kentucky
+ 42  29   29  Barton         J.             17   M         None                     Kentucky                X
+
+CENSUS YR:  1850  STATE or TERRITORY:  KY  COUNTY:  Shelby  DIVISION:  District #1  PAGE NO:  273a
+=========================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB
+=========================================================================================================================
+ 1   29   29  Collier        M.             4    F                                  Kentucky
+ 2   29   29  Collier        A              2    F                                  Kentucky
+ 3   29   29  Marmaduke      N.             60   F                        4,600     Kentucky
+ 4   29   29  Marmaduke      V.             21   F                                  Kentucky
+ 5   30   30  Thomas         W.             44   M         Farmer         1,800     Kentucky
+ 6   30   30  Thomas         N.             43   F                                  Virginia
+ 7   30   30  Thomas         S.             17   M                                  Kentucky                X
+ 8   30   30  Thomas         J.             13   M                                  Kentucky                X
+ 9   30   30  Thomas         S.             11   F                                  Kentucky                X
+ 10  30   30  Thomas         B.             8    M                                  Kentucky                X
+ 11  30   30  Donaldson      B              18   M         None                     Kentucky                X
+ 12  31   31  Hanna          J              38   M         Farmer         1,200     Kentucky
+ 13  32   32  Venable        S.             44   M         Farmer                   Kentucky
+ 14  32   32  Venable        L.A.           27   F                                  Kentucky
+ 15  32   32  Venable        J.             14   M                                  Kentucky
+ 16  32   32  Venable        D.             12   F                                  Kentucky                X
+ 17  32   32  Venable        M.             9    F                                  Kentucky                X
+ 18  32   32  Venable        e.             6    F                                  Kentucky                X
+ 19  32   32  Venable        S.             4    M                                  Kentucky
+ 20  32   32  Venable        M.             1    F                                  Kentucky
+ 21  32   32  Venable        J.             72   M                                  Virginia
+                   REMARKS:  Insane
+ 22  32   32  Venable        L.             68   F                                  Kentucky
+ 23  33   33  Williams       D.A.           25   M         Farmer                   Kentucky
+ 24  33   33  Basey          A.             28   M         Farmer                   Kentucky
+ 25  33   33  Basey          M              22   F                                  Kentucky
+ 26  34   34  McCamel        R.M.           39   M         Farmer                   Kentucky
+ 27  34   34  McCamel        M.M.           30   F                                  Virginia
+ 28  34   34  McCamel        N.M.           3    F                                  Kentucky
+ 29  34   34  McCamel        W.M.           60   M         Farmer                   Virginia
+ 30  35   35  Harris         J.             49   M         Farmer         12,000    Kentucky
+ 31  35   35  Harris         C.             38   F                                  Kentucky
+ 32  35   35  Harris         M.             19   F                                  Kentucky
+ 33  35   35  Harris         S.             18   F                                  Kentucky                X
+ 34  35   35  Harris         W.             14   M                                  Kentucky                X
+ 35  35   35  Harris         T.D.           12   M                                  Kentucky
+ 36  35   35  Harris         V.             9    F                                  Kentucky
+ 37  35   35  Jones          J.             56   F                                  Kentucky
+ 38  36   36  Hanna          J.             47   F         Farmer         7,500     Kentucky
+ 39  36   36  Long           V.             11   F                                  Kentucky                X
+ 40  36   36  Long           H.             9    F                                  Kentucky                X
+ 41  36   36  Harris         G.H.           13   F                                  Kentucky                X
+ 42  36   36  Hanna          G.             47   F                                  Kentucky
+
+CENSUS YR:  1850  STATE or TERRITORY:  KY  COUNTY:  Shelby  DIVISION:  District #1  PAGE NO:  273b
+=========================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB
+=========================================================================================================================
+ 1   37   37  Scott          A.             49   M         Farmer         12,000    Kentucky
+ 2   37   37  Scott          A.             44   F                                  Kentucky
+ 3   37   37  Scott          J.             18   M         None                     Kentucky                X
+ 4   37   37  Scott          H.             14   M                                  Kentucky                X
+ 5   37   37  Scott          H.             11   M                                  Kentucky                X
+ 6   37   37  Scott          F.             9    F                                  Kentucky                X
+ 7   37   37  Scott          M.             7    M                                  Kentucky
+ 8   37   37  Smith          H.             22   M         School Teacher           Pennsylvania
+ 9   38   38  Scott          T.             61   F                        500       virginia
+ 10  39   39  Jennings       A.             31   M         Miller                   Kentucky
+ 11  39   39  Jennings       E.             18   F                                  Kentucky
+ 12  39   39  Jennings       S.             9/12 F                                  Kentucky
+ 13  39   39  Daniel         W.             20   M         Farmer         12,330    Kentucky
+ 14  40   40  Allen          T.             50   M    B    None           300       Kentucky
+ 15  40   40  Allen          J.             32   F    M                             Kentucky
+ 16  40   40  Allen          M.             26   M    B    None                     Kentucky
+ 17  40   40  Allen          E.             30   F    B                             Kentucky
+ 18  40   40  Clay           H.             26   M    M    None                     Kentucky
+ 19  40   40  Ashby          A.             7    M    M                             Kentucky
+ 20  40   40  Clay           H.             5    M    M                             Kentucky
+ 21  40   40  Clay           J.             4    F    M                             Kentucky
+ 22  40   40  Clay           M.             2    F    M                             Kentucky
+ 23  41   41  Dickerson      J.             36   M    M    StoneMason               Kentucky
+ 24  41   41  Dickerson      E.             28   F    B                             Kentucky
+ 25  42   42  Graham         S.             56   M    B    None                     Virginia
+ 26  42   42  Graham         S.             35   F    M                             Kentucky
+ 27  42   42  Finley         H.             16   M    M                             Kentucky
+ 28  43   43  Sales          J.             45   M         Shoemaker      600       New York
+ 29  43   43  Sales          M.             16   F                                  Kentucky
+ 30  43   43  Sales          M              40   F                                  New Jersey
+ 31  43   43  Sales          C.             14   F                                  Kentucky                X
+ 32  43   43  Sales          W.             12                                      Kentucky                X
+ 32  43   43  Sales          W.             12   M                                  Kentucky                X
+ 33  43   43  Sales          H.             9    F                                  Kentucky
+ 34  43   43  Sales          J.             7    F                                  Kentucky                X
+ 35  43   43  Sales          J.             2    M                                  Kentucky
+ 36  44   44  Sales          J.             36   F                                  New Jersey
+ 37  44   44  Sales          M.             17   F                                  Ohio
+ 38  44   44  Sales          L.             10   F                                  Kentucky                X
+ 39  44   44  Sales          C.             7    F                                  Kentucky                X
+ 40  45   45  Staples        W.             67   M         None           1,275     Virginia
+ 41  45   45  Staples        J.             45   F                                  Kentucky
+ 42  45   45  Staples        C.             13   F                                  Kentucky
+
+CENSUS YR:  1850  STATE or TERRITORY:  KY  COUNTY:  Shelby  DIVISION:  District #1  PAGE NO:  274a
+=========================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB
+=========================================================================================================================
+ 1   45   45  Staples        R.             11   F                                  Kentucky                X
+ 2   45   45  Staples        J.             8    M                                  Kentucky
+ 3   45   45  Staples        J.             7    M                                  Kentucky
+ 4   45   45  Tedkins        W.             22   M         None                     Kentucky
+ 5   46   46  Home           B              37   F                        400       Kentucky
+ 6   46   46  Staples        B.             15   M                                  Kentucky                X
+ 7   46   46  While          A.             77   F                                  Virginia
+ 8   47   47  Redding        J.             27   M         Sadler         918       Kentucky
+ 9   47   47  Redding        S.             27   F                                  Kentucky
+ 10  47   47  Bell           P.             23   M         Carpenter      475       Kentucky
+ 11  48   48  Wayne          A.             36   M         Coach Maker    800       Pennsylvania
+ 12  48   48  Wayne          E.             30   F                                  Pennsylvania
+ 13  48   48  Wayne          E.             7    F                                  Pennsylvania
+ 14  48   48  Wayne          G.             6    M                                  Pennsylvania
+ 15  48   48  Wayne          B.             5    M                                  Pennsylvania
+ 16  48   48  Wayne          S.             3    F                                  Pennsylvania
+ 17  48   48  Wayne          J.             6/12 M                                  Pennsylvania
+ 18  49   49  Dunn           J.             23   M         CoachMaker     600       Pennsylvania      X
+ 19  49   49  Dunn           J.             21   F                                  Pennsylvania      X
+ 20  50   50  Randolph       R.F.           35   M         Coach Maker    1,700     New Jersey
+ 21  50   50  Randolph       J.             34   F                                  Kentucky
+ 22  50   50  Randolph       J.             7    M                                  Kentucky                X
+ 23  50   50  Randolph       A.             4    M                                  Kentucky
+ 24  50   50  Randolph       W.             1    M                                  Kentucky
+ 25  50   50  Miller         W.             18   M         Coach Maker              Kentucky
+ 26  50   50  Settle         J.             16   M         CoachMaker               Kentucky
+ 27  51   51  Leawell        H.             65   M         Plasterer                Penn
+ 28  51   51  Leawell        M.             32   F                                  Kentucky
+ 29  51   51  Leawell        C.             14   F                                  Kentucky                X
+ 30  51   51  Leawell        H.             13   M                                  Kentucky
+ 31  51   51  Leawell        C.             12   F                                  Kentucky
+ 32  51   51  Leawell        C.             10   F                                  Kentucky
+ 33  51   51  Leawell        A.             6    M                                  Kentucky
+ 34  51   51  Leawell        M.             6    F                                  Kentucky
+ 35  52   52  McAchron       R.M.           73   F                        1,000     Maryland
+ 36  52   52  McAchron       M.             45   F                                  Kentucky
+ 37  52   52  McAchron       M.             40   F                                  Kentucky
+ 38  53   53  Tevis          J.             54   F                        5,000     Kentucky
+ 39  53   53  Tevis          R.             30   M         Sawyer                   Kentucky
+ 40  53   53  Tevis          E.             21   F                                  Kentucky
+ 41  53   53  Tevis          M.             18   F                                  Kentucky
+ 42  53   53  Shanks         H.             20   M         None                     Kentucky
+
+CENSUS YR:  1850  STATE or TERRITORY:  KY  COUNTY:  Shelby  DIVISION:  District #1  PAGE NO:  274b
+=========================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB
+=========================================================================================================================
+ 1   53   53  White          J.             18   M         Student                  Kentucky                X
+ 2   53   53  McAfee         13             f                                       Kentucky                X
+ 3   54   54  Rucker         F.             30   M         Rope Maker               England
+ 4   54   54  Rucker         A.             22   F                                  Ireland
+ 5   54   54  Power          W.             22   M         Rope Maker               Ireland
+ 6   55   55  Hickman        Jas            35   M         Blacksmith     1,750     Kentucky
+ 7   55   55  Hickman        L.             27   F                                  Kentucky
+ 8   55   55  Hickman        H.             6    F                                  Kentucky
+ 9   55   55  Hickman        M.             2    F                                  Kentucky
+ 10  55   55  Hardin         C.             40   F                        500       Kentucky
+ 11  55   55  Eubanks        E.             22   F                                  Kentucky
+ 12  56   56  Burnett        H.             58   M         Cabinet Maker  1,800     Virginia
+ 13  56   56  Burnett        S.             42   F                                  Kentucky
+ 14  56   56  Burnett        A.             25   F                                  Kentucky
+ 15  56   56  Burnett        M.             23   F                                  Kentucky
+ 16  56   56  Burnett        W.             18   M                                  Kentucky                X
+ 17  56   56  McGaughey      13             f                                       Kentucky                X
+ 18  56   56  McGaughey      M.             11   F                                  Kentucky                X
+ 19  56   56  Burnett        B.             13   F                                  Kentucky                X
+ 20  57   57  Gill           H.             36   M         Cooper                   Kentucky
+ 21  57   57  Gill           J.             36   F                                  Kentucky
+ 22  57   57  Gill           J.             6    F                                  Kentucky
+ 23  57   57  Gill           J.             5    F                                  Kentucky
+ 24  57   57  Gill           F.             4    F                                  Kentucky
+ 25  57   57  Gill           W.             2    M                                  Kentucky
+ 26  57   57  Gill           J.             3/12 M                                  Kentucky
+ 27  58   58  Bowland        W.             56   M         City Marshall  1,200     Kentucky
+ 28  58   58  Bowland        J.             40   F                                  Kentucky
+ 29  58   58  Bowland        T.             3    M                                  Kentucky
+ 30  58   58  Bowland        H.             6    M                                  Kentucky
+ 31  59   59  Owen           J.             42   M         Merchant       1,500     Kentucky
+ 32  59   59  Owen           E. F.          29   F                                  Kentucky
+ 33  59   59  Owen           J.H.           10   F                                  Kentucky                X
+ 34  59   59  Owen           M.E.           7    F                                  Kentucky                X
+ 35  59   59  Owen           E.M.           5    F                                  Kentucky
+ 36  59   59  Owen           J.T.           3    F                                  Kentucky
+ 37  59   59  Owen           W.M.           4/12 M                                  Kentucky
+ 38  59   59  Martin         R.             20   M                                  Kentucky
+ 39  59   59  Martin         H.             58   F                        1,400     Kentucky
+ 40  60   60  Pullen         J.             51   M    M    None           550       Kentucky                      X
+ 41  60   60  Pullen         S.             52   F    M                             Kentucky                      X
+ 42  61   61  Myers          San            40   M         Carpenter                Dis of Columbia
+
+CENSUS YR:  1850  STATE or TERRITORY:  KY  COUNTY:  Shelby  DIVISION:  District #1  PAGE NO:  275a
+=========================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB
+=========================================================================================================================
+ 1   62   62  Read           J.             42   M         Farmer                   Virginia
+ 2   62   62  Read           E.             30   F                                  Kentucky
+ 3   62   62  Read           J.             11   M                                  Kentucky                X
+ 4   62   62  George         M.             67   F                                  Virginia
+ 5   63   63  Ball           J.             37   M         None                     Virginia
+ 6   63   63  Ball           M              26   F                                  Kentucky
+ 7   63   63  Ball           R.             4    F                                  Kentucky
+ 8   63   63  Ball           R.             4/12 M                                  Kentucky
+ 9   63   63  Ball           H.             18   M         Saddler                  Kentucky
+ 10  63   63  Dayley         J.             23   M         Farmer                   Kentucky
+ 11  63   63  Wilson         D.             26   M         Tailor                   Kentucky
+ 12  64   64  King           W.             42   M         Farmer         9,750     Kentucky
+ 13  64   64  King           W.             15   M                                  Kentucky                X
+ 14  64   64  King           E.             11   F                                  Kentucky
+ 15  64   64  King           J.             15   M                                  Kentucky
+ 16  65   65  Maddox         J.             34   M         Farmer         1,000     Kentucky
+ 17  65   65  Maddox         M.             34   F                                  Kentucky
+ 18  65   65  Maddox         S.             10   F                                  Kentucky
+ 19  65   65  Maddox         W.             8    M                                  Kentucky
+ 20  65   65  Maddox         J.             7    M                                  Kentucky
+ 21  65   65  Maddox         D.             6    M                                  Kentucky
+ 22  65   65  Maddox         A.             2    M                                  Kentucky
+ 23  65   65  Maddox         T.             1    M                                  Kentucky
+ 24  65   65  Maddox         G.             25   M         Farmer         450       Kentucky
+ 25  66   66  Hale           J.             37   M                        15,750    Kentucky
+ 26  66   66  Hale           E.             23   F                                  Kentucky
+ 27  66   66  Hale           W.             12   M                                  Kentucky                X
+ 28  66   66  Hale           W.             11   M                                  Kentucky                X
+ 29  66   66  Hale           P.             6    F                                  Kentucky                X
+ 30  66   66  Hale           J.             4    M                                  Kentucky
+ 31  66   66  Ward           E.B.           43   M         Farmer                   Maryland
+ 32  66   66  Ward           J.             33   F                                  Kentucky
+ 33  66   66  Ward           M.             8    F                                  Kentucky                X
+ 34  66   66  Ward           R.             6    M                                  Kentucky
+ 35  66   66  Ward           W.             3    M                                  Kentucky
+ 36  66   66  Ward           P.             1    F                                  Kentucky
+ 37  67   67  Coots          W.             34   M         Farmer                   Kentucky
+ 38  67   67  Coots          M.             24   F                                  Kentucky
+ 39  67   67  Coots          s.             4    F                                  Kentucky
+ 40  67   67  Coots          A.             2    F                                  Kentucky
+ 41  67   67  Coots          S.             4/12 F                                  Kentucky
+ 42  68   68  Trible         W.             36   M         Farmer                   Kentuckty
+
+CENSUS YR:  1850  STATE or TERRITORY:  KY  COUNTY:  Shelby  DIVISION:  District #1  PAGE NO:  275b
+=========================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB
+=========================================================================================================================
+ 1   69   69  Harbison       C.             36   M         Farmer         7,600     Kentucky
+ 2   70   70  Harbison       J.             42   M         Farmer         19,800    Kentucky
+ 3   70   70  Harbison       T.             19   M         None                     Kentucky                X
+ 4   70   70  Harbison       H.             14   M                                  Kentucky                X
+ 5   70   70  Harbison       M.A.           11   F                                  Kentucky                X
+ 6   70   70  Harbison       C.C.           6    M                                  Kentucky                X
+ 7   71   71  Brown          J.             37   M         Trader                   Kentucky
+ 8   71   71  Brown          L.             31   F                                  Kentucky
+ 9   71   71  Brown          M.             14   M                                  Kentucky                X
+ 10  71   71  Brown          H.             10   F                                  Kentucky                X
+ 11  71   71  Brown          N.             8    F                                  Kentucky                X
+ 12  71   71  Brown          C.             6    F                                  Kentucky                X
+ 13  71   71  Brown          E.             3    F                                  Kentucky
+ 14  71   71  Brown          W.             1/12 M                                  Kentucky
+ 15  71   71  Brown          M.             74   F                        800       Virginia
+ 16  71   71  Mayfield       P.             10   M                                  Kentucky                X
+ 17  72   72  Tevis          J.             58   M         Preacher MES   30,000    Maryland
+ 18  72   72  Tevis          J.             50   F                                  Kentucky
+ 19  72   72  Tevis          B.             25   M         Physician                Kentucky
+ 20  72   72  Tevis          R.             21   M         Student                  Kentucky                X
+ 21  72   72  Tevis          J.             16   M         Student                  Kentucky                X
+ 22  72   72  Tevis          a.             14   F                                  Kentucky                X
+ 23  72   72  Hyeronymus     B.G.           48   M                                  Dist of Columbia
+ 24  72   72  Hyeronymus     E.             45   F                                  Kentucky
+ 25  72   72  Hyeronymus     L.             35   F                                  Virginia
+ 26  72   72  Martin         H.             35   M         None                     Kentucky
+ 27  72   72  Martin         A.             36   F                                  Virginia
+ 28  72   72  Martin         C.A.           4    F                                  Kentucky
+ 29  72   72  Martin         A.             2    F                                  Kentucky
+ 30  72   72  Bridgeford     A.             15   F                                  Kentucky                X
+ 31  72   72  Blood          A.             14   F                                  N.C.                    X
+ 32  72   72  Byers          M.             15   F                                  Kentucky                X
+ 33  72   72  Barber         M.             17   F                                  Kentucky                X
+ 34  72   72  Barber         E.             14   F                                  Kentucky                X
+ 35  72   72  Candy          M.             14   F                                  Kentucky                X
+ 36  72   72  Cock           14             f                                       Kentucky                X
+ 37  72   72  Baker          J.             12   F                                  Kentucky                X
+ 38  72   72  Bush           B.             17   F                                  Kentucky                X
+ 39  72   72  Buchanan       C.             10   F                                  Kentucky                X
+ 40  72   72  Carnaan        C.             14   F                                  Indiana                 X
+ 41  72   72  Candy          S.             10   F                                  Kentucky                X
+ 42  72   72  Connelly       M.             12   F                                  Kentucky                X
+
+CENSUS YR:  1850  STATE or TERRITORY:  KY  COUNTY:  Shelby  DIVISION:  District #1  PAGE NO:  276a
+=========================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB
+=========================================================================================================================
+ 1   72   72  Davis          A.             13   F                                  Kentucky                X
+ 2   72   72  Daugherty      A.             12   F                                  Kentucky                X
+ 3   72   72  Cunningham     J.             15   F                                  Mo                      X
+ 4   72   72  Ellert         M.             16   F                                  Kentucky                X
+ 5   72   72  Ellert         M.             16   F                                  Kentucky                X
+ 6   72   72  Feland         E.             14   F                                  Kentucky                X
+ 7   72   72  Hornsby        A.             14   F                                  Louisianna              X
+ 8   72   72  Hutchinson     M.             14   F                                  Kentucky                X
+ 9   72   72  Jones          E.             17   F                                  Kentucky                X
+ 10  72   72  Johnson        F.             17   F                                  Kentucky                X
+ 11  72   72  Johnson        J.             15   F                                  Tenn                    X
+ 12  72   72  Johns          F.             12   F                                  Louisianna              X
+ 13  72   72  Jenkins        J.             12   F                                  Kentucky                X
+ 14  72   72  Jenkins        A.             12   F                                  Kentucky                X
+ 15  72   72  Lambert        M.             17   F                                  Mississippi             X
+ 16  72   72  Lambert        M.C.           15   F                                  Mississippi             X
+ 17  72   72  Lacewell       M.             13   F                                  Kentucky                X
+ 18  72   72  Lindsay        J.             17   F                                  Kentucky                X
+ 19  72   72  Lindsay        M.             14   F                                  Kentucky                X
+ 20  72   72  Lampton        16             f                                       Kentucky                X
+ 21  72   72  Lambert        A.             15   F                                  Kentucky                X
+ 22  72   72  Morgan         E.             17   F                                  Kentucky                X
+ 23  72   72  Morgan         M.             15   F                                  Kentucky                X
+ 24  72   72  Miller         E.             17   F                                  Mo                      X
+ 25  72   72  Middleton      E.             14   F                                  Kentucky                X
+ 26  72   72  Moore          M.             16   F                                  Kentucky                X
+ 27  72   72  Moore          E.             16   F                                  Kentucky                X
+ 28  72   72  Moore          L.             14   F                                  Kentucky                X
+ 29  72   72  Miller         S.             15   F                                  Kentucky                X
+ 30  72   72  Miller         M.             13   F                                  Kentucky                X
+ 31  72   72  Miller         E.             16   F                                  Kentucky                X
+ 32  72   72  McKay          A.             17   F                                  Mo                      X
+ 33  72   72  Putnam         E.             13   F                                  Kentucky                X
+ 34  72   72  Payton         M.             16   F                                  Kentucky                X
+ 35  72   72  Payne          E.             15   F                                  Kentucky                X
+ 36  72   72  Perry          E.             14   F                                  Kentucky                X
+ 37  72   72  Street         E.             14   F                                  Iowa                    X
+ 38  72   72  Staples        M.             15   F                                  Kentucky                X
+ 39  72   72  Smith          M.             16   F                                  Kentucky                X
+ 40  72   72  Siddle         A.             15   F                                  Louisianna              X
+ 41  72   72  Swigert        H.             14   F                                  Kentucky                X
+ 42  72   72  McKee          M.             17   F                                  Mo                      X
+
+CENSUS YR:  1850  STATE or TERRITORY:  KY  COUNTY:  Shelby  DIVISION:  District #1  PAGE NO:  276b
+=========================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB
+=========================================================================================================================
+ 1   72   72  Thompson       M.             17   F                                  Mo                      X
+ 2   72   72  Williams       V.             16   F                                  Kentucky                X
+ 3   72   72  Wheeler        L.             15   F                                  Mo                      X
+ 4   72   72  White          D.             16   F                                  Kentucky                X
+ 5   72   72  White          J.             19   F                                  Kentucky                X
+ 6   72   72  Whitaker       T.             17   F                                  Miss                    X
+ 7   72   72  Wilson         F.             16   F                                  Louisianna              X
+ 8   72   72  Wilson         C.             14   F                                  Kentucky                X
+ 9   72   72  Widney         M.             14   F                                  Kentucky                X
+ 10  72   72  Widney         E.             13   F                                  Kentucky                X
+ 11  72   72  Weakley        S.             16   F                                  Kentucky                X
+ 12  72   72  Wright         M.             14   F                                  Kentucky                X
+ 13  72   72  White          E.             16   F                                  Kentucky                X
+ 14  72   72  Adams          E.             12   F                                  Louisianna              X
+ 15  72   72  Carr           M.             12   F                                  Kentucky                X
+ 16  72   72  Wickliffe      J.             15   F                                  Kentucky                X
+ 17  72   72  Carr           B.             20   F                                  Kentucky                X
+ 18  72   72  Cammack        E.             15   F                                  Kentucky                X
+ 19  72   72  Merriweather   W.             15   F                                  Kentucky                X
+ 20  72   72  Crow           M.             84   F                                  Maryland
+ 21  72   72  Thorpe         M.             27   F                                  Kentucky
+ 22  73   73  Hickman        R.             58   M         Blacksmith     1,500     Virginia
+ 23  73   73  Hickman        J.             48   F                                  Kentucky
+ 24  73   73  Hickman        L.             11   F                                  Kentucky                X
+ 25  73   73  Hickman        J.             9    M                                  Kentucky                X
+ 26  73   73  Campbell       A.             42   F                                  Kentucky
+ 27  74   74  Parrish        T.             40   F                        5,000     Kentucky
+ 28  74   74  Shouse         S.             16   F                                  Kentucky
+ 29  74   74  Fox            A.             14   M                                  Kentucky                X
+ 30  74   74  Middleton      J.             40   M         Farmer         5,950     Kentucky
+ 31  74   74  Middleton      G.             32   M                                  Kentucky
+ 32  74   74  Sanders        J.             30   M         None                     Kentucky
+ 33  75   75  Demaree        J.             50   M         Farmer                   Kentucky
+ 34  75   75  Demaree        M.             48   F                                  North Carolina
+ 35  75   75  Demaree        J.             27   M         None                     Kentucky
+ 36  75   75  Demaree        R.             11   M                                  Kentucky
+ 37  75   75  Demaree        W.             1    M                                  Kentucky
+ 38  76   76  Martin         D.             29   M         Stone Mason              Kentucky
+ 39  76   76  Martin         E.             30   F                                  Kentucky
+ 40  76   76  Martin         S.             14   F                                  Kentucky
+ 41  76   76  Martin         A.             12   F                                  Kentucky
+ 42  76   76  Martin         L.             10   F                                  Kentucky
+
+CENSUS YR:  1850  STATE or TERRITORY:  KY  COUNTY:  Shelby  DIVISION:  District #1  PAGE NO:  277a
+=========================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB
+=========================================================================================================================
+ 1   76   76  Martin         J.             8    M                                  Kentucky
+ 2   76   76  Martin         R.             6    M                                  Kentucky
+ 3   76   76  Martin         W.             4    M                                  Kentucky
+ 4   76   76  Martin         M.             1    M                                  Kentucky
+ 5   76   76  Logan          B.             30   F    B                             Kentucky
+ 6   76   76  Logan          J.             5    M    B                             Kentucky
+ 7   76   76  Logan          J.             3    M    B                             Kentucky
+ 8   76   76  Logan          M.             1    M    B                             Kentucky
+ 9   76   76  Logan          E.             9    F    B                             Kentucky
+ 10  77   77  Murray         J.             54   M         Farmer         200       Virginia
+ 11  77   77  Dear           M.             52   M         None                     Virginia
+ 12  77   77  Beard          J.             50   F                                  Tenn
+ 13  77   77  Beard          M.             21   F                                  Kentucky
+ 14  77   77  Beard          J.             15   M                                  Kentucky
+ 15  77   77  Beard          W.             6    M                                  Kentucky
+ 16  77   77  Dear           M.             49   F                                  Kentucky
+ 17  77   77  Dear           T.M.           16   M                                  Kentucky                X
+ 18  77   77  Dear           L.             12   F                                  Kentucky                X
+ 19  77   77  Dear           H.             9    F                                  Kentucky                X
+ 20  78   78  Jamison        J.             20   M         Farmer         4,710     Kentucky
+ 21  78   78  Jamison        E.             17   F                                  Kentucky
+ 22  78   78  Jamison        H.             19   M         Farmer                   Kentucky                X
+ 23  78   78  Jamison        M.C.           16   M                                  Kentucky
+ 24  78   78  Jamison        A.E.           10   F                                  Kentucky                X
+ 25  79   79  Shipman        H.             56   M         Farmer         4,650     Virginia
+ 26  79   79  Hern           J.             40   F                                  Kentucky
+ 27  79   79  Hern           J.             6    M                                  Kentucky                X
+ 28  80   80  Threlkeld      J.             25   M         Farmer         12,000    Kentucky
+ 29  80   80  Threlkeld      A.             60   F                                  Kentucky
+ 30  80   80  Penniston      A.             40   M         Farmer                   Kentucky
+ 31  80   80  Penniston      J.             27   F                                  Kentucky
+ 32  80   80  Threlkeld      M.             14   F                                  Kentucky                X
+ 33  80   80  Penniston      R.             10   F                                  Kentucky                X
+ 34  80   80  Penniston      F.             8    M                        950       Kentucky
+ 35  80   80  Wilson         W.W.           34   M         Farmer         4,000     Kentucky
+ 36  80   80  Wilson         S.             56   F                                  Kentucky
+ 37  80   80  Wilson         C.             19   M         Farmer         12,000    Kentucky
+ 38  81   81  Staples        J.             38   M         Farmer         2,000     Virginia
+ 39  81   81  Staples        E.             30   F                                  Kentucky
+ 40  81   81  Staples        J.             14   F                                  Kentucky                X
+ 41  81   81  Staples        J.             13   F                                  Kentucky                X
+ 42  81   81  Staples        L.             10   M                                  Kentucky                X
+
+CENSUS YR:  1850  STATE or TERRITORY:  KY  COUNTY:  Shelby  DIVISION:  District #1  PAGE NO:  277b
+=========================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB
+=========================================================================================================================
+ 1   82   82  Harris         H.             36   M         Farmer         2,200     Kentucky
+ 2   82   82  Harris         M.A.           21   F                                  Kentucky
+ 3   82   82  Harris         L.J.           5    F                                  Kentucky                X
+ 4   82   82  Harris         W.             3    M                                  Kentucky
+ 5   83   83  Harris         J.             38   M         Farmer         1,690     Kentucky
+ 6   83   83  Harris         H.             62   F                                  Virginia
+ 7   84   84  Shelbedy       S.             15   F    B                             Kentucky
+ 8   84   84  Shelbedy       P.             60   F    B                             Virginia
+ 9   85   85  Doss           J.T.           41   M         Farmer         5,500     Kentucky
+ 10  85   85  Doss           J.             38   F                                  Kentucky
+ 11  85   85  Doss           C.             16   F                                  Kentucky                X
+ 12  85   85  Doss           W.M.           10   M                                  Kentucky                X
+ 13  85   85  Doss           J.             7    F                                  Kentucky                X
+ 14  85   85  Doss           J.J.           5    M                                  Kentucky
+ 15  85   85  Canada         J.H.           16   M                                  Kentucky
+ 16  86   86  Graham         F.             41   F                                  Kentucky
+ 17  87   87  Graham         S. R.          47   F         Farmer         10,500    Kentucky
+ 18  87   87  Graham         W.             22   M                                  Kentucky
+ 19  87   87  Graham         M.             19   M         Farmer                   Kentucky
+ 20  87   87  Graham         B.             16   F                                  Kentucky                X
+ 21  87   87  Graham         F.J.           22   F                                  Kentucky                X
+ 22  88   88  Clines         H.             29   M         Farmer         6,000     Kentucky
+ 23  88   88  Clines         J.             19   F                                  Kentucky
+ 24  88   88  Clines         M.             1/12 F                                  Kentucky
+ 25  88   88  Clines         F.             60   F                                  Kentucky
+ 26  89   89  Clines         E.             62   F                                  Kentucky
+ 27  89   89  Pruett         N.             42   F                                  Kentucky
+ 28  89   89  Pruett         J.H.           19   M                                  Kentucky
+ 29  89   89  Lee            L.             49   M         Farmer         5,100     Kentucky
+ 30  89   89  Lee            L.             37   F                                  Kentucky
+ 31  89   89  Lee            J.             13   M                                  Kentucky                X
+ 32  89   89  Lee            H.             11   M                                  Kentucky                X
+ 33  90   90  Underwood      R.             79   F                        750       Virginia
+ 34  91   91  Clines         J.             34   M         Farmer         1,000     Kentucky
+ 35  91   91  Clines         J.T.           5    M                                  Kentucky
+ 36  92   92  Clines         F.             24   F                                  Kentucky
+ 37  92   92  Clines         J.H.           3    M                                  Kentucky
+ 38  92   92  Clines         J.A.           2    M                                  Kentucky
+ 39  92   92  Clines         D.A.           6/12 M                                  Kentucky
+ 40  93   93  Barnet         A.             49   M         Farmer         5,080     Virginia
+ 41  93   93  Barnet         E.             46   F                                  Kentucky
+ 42  93   93  Barnet         G.             21   F                                  Kentucky
+
+CENSUS YR:  1850  STATE or TERRITORY:  KY  COUNTY:  Shelby  DIVISION:  District #1  PAGE NO:  278a
+=========================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB
+=========================================================================================================================
+ 1   93   93  Staples        Robt           8    M                                  Kentucky                X
+ 2   93   93  Staples        E.             7    F                                  Kentcuky                X
+ 3   93   93  Staples        A.             5    F                                  Kentucky                X
+ 4   93   93  Staples        W.             4    F                                  Kentucky                X
+ 5   93   93  Staples        M.             6/12 F                                  Kentucky                X
+ 6   93   93  Bailey         J.             50   F                                  Kentucky
+ 7   93   93  Stogdon        J.             26   M                                  Virginia
+ 8   94   94  Tanner         A.             31   M         Rope Spinner             Penn
+ 9   94   94  Tanner         c.             26   F                                  Virginia
+ 10  94   94  Staples        D.             23   M         Rope Spinner   200       Virginia                      X
+ 11  94   94  Staples        L.             19   F                                  Kentucky
+ 12  95   95  Hope           J.             37   M         Farmer         4,600     Maryland
+ 13  95   95  Hope           G.             29   F                                  Kentucky
+ 14  95   95  Hope           W.             8/12 M                                  Kentucky
+ 15  95   95  Hope           A.             24   F                                  Kentucky
+ 16  96   96  Parrish        W.             40   M         Farmer         6,000     Virginia
+ 17  96   96  Parrish        M.             40   M                                  Virginia
+ 18  96   96  Parrish        M.             19   F                                  Kentucky
+ 19  96   96  Parrish        J.             17   M         Farmer                   Kentucky                X
+ 20  96   96  Parrish        W.             14   M                                  Kentucky                X
+ 21  96   96  Parrish        F.             10   F                                  Kentucky                X
+ 22  96   96  Parrish        K.             9    F                                  Kentucky                X
+ 23  96   96  Parrish        J.             6    M                                  Kentucky
+ 24  96   96  Parrish        J.             4    M                                  Kentucky
+ 25  96   96  Parrish        N.             2    F                                  Kentucky
+ 26  97   97  Martin         J.             40   M         Farmer         5,000     Kentucky
+ 27  97   97  Martin         J.             31   F                                  Kentucky
+ 28  97   97  Martin         J.             2    M                                  Kentucky
+ 29  97   97  Thompson       T.             23   M         Farmer                   Kentucky
+ 30  98   98  Minor          P.             48   M         Farmer                   Kentucky
+ 31  98   98  Minor          L.             45   F                                  Kentucky
+ 32  98   98  Minor          O.             20   F                                  Kentucky
+ 33  98   98  Minor          J.             18   F                                  Kentucky
+ 34  98   98  Minor          W.             17   M         Farmer                   Kentucky
+ 35  98   98  Minor          T.             15   M         Farmer                   Kentucky
+ 36  98   98  Minor          P.             13   M                                  Kentucky                X
+ 37  98   98  Minor          M.             10   M                                  Kentucky                X
+ 38  98   98  Minor          G.             8    F                                  Kentucky                X
+ 39  98   98  Minor          J.             6    M                                  Kentucky                X
+ 40  98   98  Minor          C.             4    F                                  Kentucky
+ 41  99   99  Scarce         S.R.           38   M         Farmer         8,960     Kentucky
+ 42  99   99  Scarce         M.             25   F                                  Kentucky
+
+CENSUS YR:  1850  STATE or TERRITORY:  KY  COUNTY:  Shelby  DIVISION:  District #1  PAGE NO:  278b
+=========================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB
+=========================================================================================================================
+ 1   99   99  Scarce         M.             6    F                                  Kentucky
+ 2   99   99  Scarce         M.L.           5    F                                  Kentucky
+ 3   99   99  Scarce         M.T.           4    F                                  Kentucky
+ 4   99   99  Scarce         H.E.           1    F                                  Kentucky
+ 5   99   99  Newton         L.J.           19   F                                  Kentucky
+ 6   99   99  Newton         Thos. S.       24   M         Farmer                   Kentucky
+ 7   100  100 Ward           G.W.           32   M         Farmer                   Kentucky
+ 8   100  100 Ward           e.             50   F                                  Kentucky
+ 9   100  100 Marshall       L.             35   M         Farmer                   Kentucky
+ 10  100  100 Marshall       U.             25   M         Shoemaker                Kentucky
+ 11  100  100 Marshall       E.             20   F                                  Kentucky
+ 12  100  100 Marshall       J.             9    M                                  Kentucky                X
+ 13  100  100 Marshall       J.E.           7    F                                  Kentucky
+ 14  101  101 Marshall       J.             72   M         Farmer         5,000     Virginia
+ 15  102  102 Rhinor         H.             30   M         Farmer                   Virginia
+ 16  102  102 Rhinor         M.             32   F                                  Kentucky
+ 17  102  102 Rhinor         C.             8    F                                  Kentucky
+ 18  102  102 Rhinor         P.             6    F                                  Kentucky
+ 19  102  102 Rhinor         M.             4    F                                  Kentucky
+ 20  102  102 Rhinor         A.             2    M                                  Kentucky
+ 21  103  103 Duncan         J.             57   M         Farmer         3,000     Kentucky
+ 22  103  103 Duncan         M.             50   F                                  Virginia
+ 23  103  103 Kent           E.             30   F                        2,000     Kentucky
+ 24  103  103 Duncan         W.             27   M         Farmer                   Kentucky
+ 25  103  103 Kent           W.             8    M                                  Kentucky                X
+ 26  103  103 Kent           M.N.           4    F                                  Kentucky
+ 27  103  103 Board          J.             25   M         Farmer                   Kentucky
+ 28  104  104 Perry          H.             32   M         Farmer                   Kentucky
+ 29  104  104 Perry          C.A.           22   F                                  Kentucky
+ 30  104  104 Perry          J.A.           9/12 F                                  Kentucky
+ 31  105  105 Graham         B.             44   M         Farmer         4,000     Kentucky
+ 32  105  105 Graham         M.             40   F                                  Kentucky
+ 33  105  105 Graham         J.             6    F                                  Kentucky                X
+ 34  106  106 Scarce         W.J.           35   M         Farmer         4,000     Kentucky
+ 35  106  106 Scarce         J.T.           12   M                                  Kentucky                X
+ 36  106  106 Scarce         N.             10   M                                  Kentucky                X
+ 37  106  106 Scarce         J.W.           8    M                                  Kentucky                X
+ 38  106  106 Scarce         M.S.           6    F                                  Kentucky                X
+ 39  106  106 Scarce         W.             5    M                                  Kentucky
+ 40  106  106 Scarce         W.             5    M                                  Kentucky
+ 41  106  106 Scarce         A.J.           1    F                                  Kentucky
+ 42  106  106 Scarce         J.             2/12 F                                  Kentucky
+
+CENSUS YR:  1850  STATE or TERRITORY:  KY  COUNTY:  Shelby  DIVISION:  District #1  PAGE NO:  279a
+=========================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB
+=========================================================================================================================
+ 1   107  107 Barnet         M.E.           21   F                                  Kentucky
+ 2   107  107 Barnet         T.             21   M         Farmer                   Kentucky
+ 3   107  107 Barnet         A.             18   F                                  Kentucky
+ 4   107  107 Barnet         L.             15   F                                  Kentucky
+ 5   107  107 Barnet         J.             14   M                                  Kentucky
+ 6   107  107 Barnet         W.             11   M                                  Kentucky
+ 7   107  107 Barnet         M.J.           8    F                                  Kentucky
+ 8   107  107 Barnet         T.             7    F                                  Kentucky
+ 9   108  108 Bell           W.J.           39   M         Farmer         3,300     Kentucky
+ 10  108  108 Bell           M.             60   F                                  Kentucky
+ 11  108  108 Bell           L.             23   M         Farmer         1,500     Kentucky
+ 12  108  108 Mitchell       J.             58   M         Farmer         4,880     Virginia
+ 13  108  108 Wilson         P.             51   F                                  North Carolina
+ 14  108  108 MItchell       M.A.           25   F                                  Kentucky
+ 15  108  108 MItchell       C.             22   M         Farmer                   Kentucky
+ 16  108  108 MItchell       T.             20   F                                  Kentucky
+ 17  108  108 MItchell       G.             16   F                                  Kentucky                X
+ 18  108  108 MItchell       G.             14   F                                  Kentucky                X
+ 19  108  108 MItchell       D.A.           11   F                                  Kentucky                X
+ 20  109  109 Barnet         J.             40   M         Farmer         6,000     Virginia
+ 21  109  109 Riddle         W.             20   M                                  Kentucky
+ 22  109  109 Gill           W.             32   M         Cooper         300       Indiana
+ 23  109  109 Gill           E.             32   F                                  Kentucky
+ 24  109  109 Gill           M.             6    M                                  Kentucky                X
+ 25  110  110 Long           L.T.           30   M         Farmer         420       Kentucky
+ 26  110  110 Long           E.             30   F                                  North Carolina
+ 27  110  110 Long           M.T.           10   F                                  Kentucky
+ 28  110  110 Long           F.E.           7    F                                  Kentucky
+ 29  110  110 Long           C.             7/12 M                                  Kentucky
+ 30  111  111 Rice           R.             77   M         None                     Virginia
+ 31  111  111 Rice           E.             75   F                                  Virginia
+ 32  111  111 Lee            J.             50   M         Farmer         1,290     Kentucky
+ 33  111  111 Lee            M.             42   F                                  Kentucky
+ 34  111  111 Lee            J.             7    F                                  Kentucky                X
+ 35  111  111 Lee            R.             6    M                                  Kentucky
+ 36  111  111 Lee            A.             4    F                                  Kentucky
+ 37  111  111 Gill           G.             18   M         Farmer         3,570     Kentucky
+ 38  111  111 Gill           J.             16   M         Farmer         3,570     Kentucky                X
+ 39  112  112 Smith          N.             68   M         Farmer         6,600     Germany
+ 40  112  112 Smith          E.             60   F                                  Kentucky
+ 41  112  112 Smith          A.             35   M         Farmer                   Kentucky
+ 42  112  112 Smith          W.             24   M         Farmer                   Kentucky
+
+CENSUS YR:  1850  STATE or TERRITORY:  KY  COUNTY:  Shelby  DIVISION:  District #1  PAGE NO:  279b
+=========================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB
+=========================================================================================================================
+ 1   112  112 Smith          N.             30   F                                  Kentucky
+ 2   112  112 Smith          E.C.           21   F                                  Kentucky
+ 3   112  112 Spalding       W.             28   M         None                     Kentucky
+ 4   113  113 Sanders        J.B.           45   M         Farmer         5,750     Kentucky
+ 5   113  113 Sanders        E.             45   F                                  Kentucky
+ 6   113  113 Sanders        g.W.           23   M         Farmer                   Kentucky
+ 7   113  113 Sanders        M.             17   F                                  Kentucky                X
+ 8   113  113 Sanders        J.             14   F                                  Kentucky                X
+ 9   113  113 Sanders        J.L.           12   M                                  Kentucky                X
+ 10  113  113 Sanders        W.P.           8    M                                  Kentucky                X
+ 11  113  113 Sanders        L.             4    F                                  Kentucky
+ 12  113  113 Smallwood      J.             21   M         Wagon Maker              Kentucky
+ 13  114  114 Scarce         E.W.           41   M         Farmer         5,600     Kentucky
+ 14  114  114 Scarce         M.             30   F                                  Kentucky
+ 15  114  114 Scarce         J.             15   M                                  Kentucky                X
+ 16  114  114 Scarce         J.             13   F                                  Kentucky                X
+ 17  114  114 Scarce         W.             10   M                                  Kentucky                X
+ 18  114  114 Scarce         G.W.           7    M                                  Kentucky                X
+ 19  115  115 Hankins        A.C.           40   M         Carpenter      600       Kentucky
+ 20  116  116 Hankins        L.E.           25   F                                  Kentucky
+ 21  116  116 Hankins        W.H.           3    M                                  Kentucky
+ 22  116  116 Hankins        M.F.           2    F                                  Kentucky
+ 23  117  117 Elliot         T.             37   M         Man Hemp                 Kentucky
+ 24  117  117 Elliot         M.             37   F                                  Kentucky
+ 25  117  117 Elliot         R.             7/12 M                                  Kentucky
+ 26  117  117 Mount          W.             38   M         Merchant                 Kentucky
+ 27  117  117 Mount          E.G.           37   F                                  Kentucky
+ 28  117  117 Lacfield       E.             18   M         Rope Spinner             Kentucky
+                   REMARKS:  probably should be Lacefield
+ 29  118  118 Stringfellow   J.A.           29   M         Saddler                  Kentucky
+ 30  118  118 Stringfellow   L.A.           23   F                                  Kentucky
+ 31  118  118 Stringfellow   E.             6    F                                  Kentucky
+ 32  118  118 Stringfellow   J.W.           3    M                                  Kentucky
+ 33  119  119 Weakley        T.R.           32   M         Merchant       3,985     Kentucky
+ 34  119  119 Weakley        L.             27   F                                  Kentucky
+ 35  119  119 Weakley        W.T.           8    M                                  Kentucky                X
+ 36  119  119 Weakley        G.S.           6    M                                  Kentucky                X
+ 37  119  119 Weakley        A.             3/12 F                                  Kentucky
+ 38  119  119 Weakley        M.             64   F                        1,850     Kentucky
+ 39  119  119 Threlkeld      C.K.           28   M                                  Kentucky
+ 40  120  120 Constantine    J.G.           27   M         Blacksmith               Kentucky
+ 41  120  120 Constantine    A.             24   F                                  Kentucky
+ 42  121  121 Weakely        G.             29   M         None                     Kentucky
+
+CENSUS YR:  1850  STATE or TERRITORY:  KY  COUNTY:  Shelby  DIVISION:  District #1  PAGE NO:  280a
+=========================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB
+=========================================================================================================================
+ 1   121  121 Weakely        E.             25   F                                  Kentucky
+ 2   121  121 Weakely        E.             5    F                                  Kentucky                X
+ 3   121  121 Weakely        E.             4    F                                  Kentucky
+ 4   121  121 Weakely        L.             1    F                                  Kentucky
+ 5   121  121 Weakely        J.             19   M         None                     Kentucky
+ 6   122  122 Lighter        J.             34   M                        607       Kentucky
+ 7   122  122 Lighter        E.C.           33   F                                  Kentucky
+ 8   122  122 Lighter        A.             2    F                                  Kentucky
+ 9   123  123 Stratton       C.M.           39   M         Tanner         351       Kentucky
+ 10  123  123 Stratton       K.             38   F                                  Kentucky
+ 11  123  123 Stratton       A.             17   F                                  Kentucky
+ 12  123  123 Stratton       H.             14   M                                  Kentucky                X
+ 13  123  123 Stratton       J.C.           9    M                                  Kentucky                X
+ 14  123  123 Stratton       E.             7    F                                  Kentucky                X
+ 15  123  123 Stratton       C.             5    F                                  Kentucky
+ 16  123  123 Stratton       W.L.           2    M                                  Kentucky
+ 17  124  124 Langley        J.             32   F                                  Tennessee
+ 18  124  124 Langley        M.E.           16   F                                  Tennessee
+ 19  124  124 Langley        E.             6    F                                  Tennessee
+ 20  125  125 Baird          J.             32   M         None                     Kentucky
+ 21  125  125 Baird          P.A.           21   F                                  Kentucky
+ 22  125  125 Baird          M.B.           3    F                                  Kentucky
+ 23  125  125 Baird          T.D.           1    M                                  Kentucky
+ 24  125  125 Langley        U.             14   M                                  Kentucky                X
+ 25  126  126 Strand         J.M.           25   M         Merchant                 Tenn
+ 26  126  126 Strand         K.T.           22   F                                  Kentucky
+ 27  126  126 Strand         L.C.           3    F                                  Kentucky
+ 28  126  126 Strand         M.H.           1    F                                  Kentucky
+ 29  126  126 Sanders        J.B.           24   M         Merchant                 Kentucky
+ 30  127  127 Connell        J.M.           40   M         Tailor         1,300     Scotland
+ 31  127  127 Connell        J.M.           6    M                                  Kentucky                X
+ 32  128  128 Frederic       A.J.           27   M         Physician      865       Kentucky
+ 33  128  128 Frederic       A.G.           26   F                                  Kentucky
+ 34  128  128 Frederic       J.L.           7    F                                  Kentucky
+ 35  128  128 Frederic       M.E.           5    F                                  Kentucky
+ 36  129  129 Peters         J.             40   M         Tailor         600       Kentucky
+ 37  129  129 Peters         M.A.           36   F                                  Kentucky
+ 38  129  129 Peters         D.A.           13   M                                  Kentucky                X
+ 39  129  129 Peters         M.A.           11   F                                  Kentucky                X
+ 40  129  129 Peters         F.J.           9    F                                  Kentucky                X
+ 41  129  129 Peters         J.S.           1    M                                  Kentucky
+ 42  129  129 Peters         P.S.           11   F                                  Kentucky
+
+CENSUS YR:  1850  STATE or TERRITORY:  KY  COUNTY:  Shelby  DIVISION:  District #1  PAGE NO:  280b
+=========================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB
+=========================================================================================================================
+ 1   130  130 Jamison        A.             32   M         Blacksmith     1,000     Kentucky
+ 2   130  130 Jamison        J.             28   F                                  Kentucky
+ 3   130  130 Jamison        E.T.           7    M                                  Kentucky                X
+ 4   130  130 Jamison        J.A.           5    M                                  Kentucky                X
+ 5   130  130 Jamison        J.             3    M                                  Kentucky
+ 6   130  130 Jamison        M. E.          4/12 F                                  Kentucky
+ 7   130  130 Roberts        J.             19   M         Blacksmith               Kentucky
+ 8   130  130 Higgins        J.             64   M    B                                                           X
+ 9   131  131 Shepard        W.J.           23   M         Farmer         8,100     Virginia
+ 10  131  131 Shepard        S.             49   F                                  Virginia
+ 11  131  131 Shepard        T.             50   M         Farmer                   Virginia
+                   REMARKS:  Insane
+ 12  131  131 Banks          M.             22   F                                  Virginia
+ 13  131  131 Shepard        R.C.           20   M                                  Virginia
+ 14  131  131 Shepard        M.             19   F                                  Virginia
+ 15  131  131 Shepard        A.             15   F                                  Virginia
+ 16  131  131 Shepard        G.             13   M                                  Kentucky                X
+ 17  131  131 Shepard        J.             11   M                                  Kentucky                X
+ 18  131  131 Shepard        J.             8    M                                  Kentucky
+ 19  131  131 Banks          J.             4    M                                  Kentucky
+ 20  131  131 Banks          W.             28   M                                  Kentucky
+ 21  131  131 Banks          C.             1    M                                  Kentucky
+ 22  132  132 Middleton      A.             40   M         Farmer         9,300     Kentucky
+ 23  132  132 Middleton      A.             32   F                                  Kentucky
+ 24  132  132 Middleton      A.M.           12   M                                  Kentucky
+ 25  132  132 Middleton      G.A.           11   F                                  Kentucky
+ 26  132  132 Middleton      W.E.           2    F                                  Kentucky
+ 27  133  133 Travis         J.             57   M         None                     Kentucky
+ 28  133  133 Travis         M.D.           44   F                                  Kentucky
+ 29  133  133 Travis         J.             18   M         None                     Kentucky
+ 30  133  133 Travis         P.             16   F                                  Kentucky
+ 31  133  133 Travis         J.             14   M                                  Kentucky
+ 32  133  133 Travis         J.             12   M                                  Kentucky
+ 33  133  133 Travis         B.             10   F                                  Kentucky
+ 34  133  133 Travis         G.             7    M                                  Kentucky
+ 35  133  133 Travis         E.             5    M                                  Kentucky
+ 36  133  133 Travis         J.             2    M                                  Kentucky
+ 37  134  134 Wallace        S.             26   M         Saddler        175       Kentucky
+ 38  134  134 Wallace        M.             26   F                                  Kentucky
+ 39  134  134 Wallace        J.             1    M                                  Kentucky
+ 40  134  134 Fox            R.             21   M         Carpenter      550       Virginia
+ 41  134  134 Edwards        W.L.           23   M         Merchant       780       Kentucky
+ 42  135  135 Guthrie        T.C.           35   M         Merchant                 Kentucky
+
+CENSUS YR:  1850  STATE or TERRITORY:  KY  COUNTY:  Shelby  DIVISION:  District #1  PAGE NO:  281a
+=========================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB
+=========================================================================================================================
+ 1   135  135 Guthrie        E.             28   F                                  Kentucky
+ 2   135  135 Guthrie        M.N.           10   F                                  Kentucky
+ 3   135  135 Guthrie        A.E.           8    F                                  Kentucky
+ 4   135  135 Guthrie        E.G.           6    F                                  Kentucky                X
+ 5   135  135 Guthrie        E.T.           4    M                                  Kentucky
+ 6   135  135 Sloan          B.             24   M                                  Kentucky
+ 7   135  135 Sloan          E.             22   F                                  Kentucky
+ 8   136  136 Clarke         J.M.           27   M         Shoemaker                Kentucky
+ 9   136  136 Clarke         e.             21   M                                  Kentucky
+ 10  137  137 Tindall        C.M.           32   M         Farmer                   Kentucky
+ 11  137  137 Tindall        J.             31   F                                  Kentucky
+ 12  137  137 Tindall        E.T.           12   F                                  Kentucky                X
+ 13  137  137 Tindall        J.E.           9    F                                  Kentucky                X
+ 14  137  137 Tindall        M.M.           7    F                                  Kentucky
+ 15  137  137 Tindall        M.J.           5    F                                  Kentucky
+ 16  137  137 Catherine      M.C.           2    F                                  Kentucky
+                   REMARKS:  I think this surname is incorrect
+ 17  137  137 Mitcherson     W.G.           36   M         None           216       Kentucky
+ 18  138  138 Hicks          B.             32   M         None                     Kentucky
+ 19  138  138 Hicks          M.             28   F                                  Kentucky
+ 20  138  138 Hicks          J.A.           5    F                                  Kentucky                X
+ 21  139  139 Lober          B.             27   M         Carpenter      900       Kentucky
+ 22  139  139 Lober          M.J.           24   F                                  Kentucky
+ 23  139  139 Lober          M.M.           33   F                                  Kentucky
+ 24  139  139 Lober          S.             2    F                                  Kentucky
+ 25  139  139 Roberts        J.             21   M         Carpenter                Kentucky
+ 26  140  140 Middleton      J.T.           47   M         Farmer         6,750     Kentucky
+ 27  140  140 Middleton      S.             44   F                                  Kentucky
+ 28  140  140 Middleton      J.A.           20   M         Merchant                 Kentucky
+ 29  140  140 Middleton      S.J.           17   M         Farmer                   Kentucky
+ 30  140  140 Middleton      W.D.           9    M                                  Kentucky                X
+ 31  140  140 Taylor         J.D.           11   M                                  Kentucky                X
+ 32  141  141 Shackleford    J.             57   M         Farmer                   Kentucky
+ 33  141  141 Shackleford    T.             40   F                                  Kentucky
+ 34  141  141 Shackleford    J.C.           23   F                                  Kentucky
+ 35  141  141 Shackleford    J.A.           18   M         Farmer                   Kentucky
+ 36  141  141 Shackleford    T.             16   M         Farmer                   Kentucky                X
+ 37  141  141 Shackleford    L.S.           14   F                                  Kentucky
+ 38  141  141 Shackleford    E.J.           10   F                                  Kentucky
+ 39  141  141 Shackleford    C.W.           9    M                                  Kentucky
+ 40  141  141 Shackleford    N.C.           6    M                                  Kentucky
+ 41  141  141 Shackleford    M.E.           4    F                                  Kentucky
+ 42  141  141 Shackleford    M.M.           1    F                                  Kentucky
+
+CENSUS YR:  1850  STATE or TERRITORY:  KY  COUNTY:  Shelby  DIVISION:  District #1  PAGE NO:  281b
+=========================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB
+=========================================================================================================================
+ 1   141  141 Nevil          C.             60   F                                  Kentucky
+ 2   141  141 Luckett        S.C.           2    F                                  Kentucky
+ 3   142  142 Middleton      A.             36   M         Farmer         21,000    Kentucky
+ 4   142  142 Middleton      M.             13   M                                  Kentucky                X
+ 5   142  142 Middleton      J.T.           27   F                                  Kentucky
+ 6   142  142 Middleton      M.E.           11   F                                  Kentucky                X
+ 7   142  142 Middleton      a.R.           9    F                                  Kentucky                X
+ 8   142  142 Middleton      S.L.           6    F                                  Kentucky
+ 9   142  142 Middleton      J.D.           2    F                                  Kentucky
+ 10  142  142 Middleton      R.             34   M                                  Kentucky
+ 11  142  142 Middleton      L.             31   F                                  Kentucky
+ 12  142  142 Middleton      E.F.           9    F                                  Kentucky                X
+ 13  142  142 Middleton      M.E.           7    F                                  Kentucky                X
+ 14  142  142 Middleton      J.             6    F                                  Kentucky
+ 15  142  142 Middleton      H.W.           4    F                                  Kentucky
+ 16  142  142 Middleton      M.R.           2    F                                  Kentucky
+ 17  142  142 Middleton      J.             30   M                                  Kentucky
+ 18  143  143 Martin         P.             69   M         Farmer         5,610     Virginia
+ 19  143  143 Martin         S.             65   M                                  Kentucky
+ 20  143  143 Martin         L.             25   F                                  Kentucky
+ 21  143  143 Martin         P.             22   M         Farmer                   Kentucky
+ 22  144  144 Sanders        C.             51   M                        14,000    Virginia
+ 23  144  144 Sanders        M.             44   F                                  Kentucky
+ 24  144  144 Sanders        M.             20   F                                  Kentucky
+ 25  144  144 Sanders        J.A.           18   M         None                     Kentucky
+ 26  144  144 Sanders        J.             14   M                                  Kentucky                X
+ 27  144  144 Sanders        S.L.           12   M                                  Kentucky                X
+ 28  144  144 Sanders        C.             10   M                                  Kentucky                X
+ 29  144  144 Sanders        W.M.           1    M                                  Kentucky
+ 30  144  144 Gannon         P.             40   M         Laborer                  Ireland
+ 31  144  144 Duffy          H.             40   M         Laborer                  Ireland
+ 32  145  145 Thomas         M.             52   M         Farmer         41,120    Kentucky
+ 33  145  145 Thomas         H.A.           41   F                                  Kentucky
+ 34  145  145 Thomas         M.A.           13   F                                  Kentucky                X
+ 35  145  145 Thomas         M>R.           10   F                                  Kentucky                X
+ 36  145  145 Thomas         J.             8    M                                  Kentucky                X
+ 37  145  145 Thomas         J.             6    M                                  Kentucky                X
+ 38  145  145 Thomas         M.             3    F                                  Kentucky
+ 39  145  145 Thomas         M.D.           9/12 M                                  Kentucky
+ 40  145  145 O'Brien        R.             16   M                                  Kentucky                X
+ 41  146  146 Buchannan      L.             50   M         Farmer         7,000     Kentucky
+ 42  146  146 Jones          W.             28   M         Farmer         2,000     Kentucky

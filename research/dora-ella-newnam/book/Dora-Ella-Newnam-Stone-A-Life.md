@@ -73,6 +73,11 @@
 67. [Pass 122. Letcher’s every-name list has no Newman](#pass-122-letchers-every-name-list-has-no-newman)
 68. [Pass 123. Pulaski’s three Newman heads are other men](#pass-123-pulaskis-three-newman-heads-are-other-men)
 69. [Pass 124. Bath Tincher and Fleming Newman are other households](#pass-124-bath-tincher-and-fleming-newman-are-other-households)
+70. [Pass 125. Greenup’s three Newman heads and Fleming 395A are other men](#pass-125-greenups-three-newman-heads-and-fleming-395a-are-other-men)
+71. [Pass 126. Adair and Mason close; Lincoln 1840 Newman is not William](#pass-126-adair-and-mason-close-lincoln-1840-newman-is-not-william)
+72. [Pass 127. William and Jane sit next door to Rebecca Tincher](#pass-127-william-and-jane-sit-next-door-to-rebecca-tincher)
+73. [Pass 128. Jessamine 10B is Edmund, not William](#pass-128-jessamine-10b-is-edmund-not-william)
+74. [Pass 129. Woodford 462A is Christopher; Scott Newham is not William](#pass-129-woodford-462a-is-christopher-scott-newham-is-not-william)
 
 ---
 
@@ -1189,7 +1194,83 @@ No free license appeared. Parents remain **probable**. The 1860 widow Rhoda with
 
 Genealogy Trails Lee WWI tables are live and still name Luther Brandenburg and Underwood only. FamilySearch 1146342, 127913, and 156057 returned SPA shells — roadblock step 65. USGenNet Lee wills still omit Samuel P. Hutchins FAQ 9938 is live. Reel 602 is still 515 images. Do not print 1966. Do not print 1962. Grant, twenty-one, is still not merged with David F. David G. of 1984 is still **possible** as a junior only. Living 1950-line descendants are withheld. Districts 33-12 and 33-13 were not walked. Do not re-ask Tyler Phillips, Pope 479-968-4368, or Hutchins 859-985-3364. [C1556–C1560] [S1195–S1210]
 
+### Pass 125. Greenup’s three Newman heads and Fleming 395A are other men
 
+August 1926 is still on film. The Library of Congress item still reads `item.digitized: false`. Internet Archive Solr for 1926 returned zero items. The phone is already recorded. [C1561] [S1211] [S1212]
+
+Carter 1850 closes on the KYGenWeb heads index. The N-window is Nethercult, Newell, Noland, Nickell, Nolcina, Nobley, Nunley, Nipp, North, Norton, Norris, Nifferell, and Newhart. The only nearby T is Tinsley, Sally. No Newman. No Tincher. [C1562] [C1563] [S1213] [S1214]
+
+Greenup’s compiled list named three Newman households. All three originals are now seen. On 20 August, District 2, household 407 is Lemuel Newman, thirty-eight, of Maryland, with Matilda, twenty-four, of Virginia, and three sons — **rejected**. On stamped 191, Thomas Newman, twenty-eight, a South Carolina merchant, sits with Tabitha, twenty-five, of Virginia, and Jalander, five, of Alabama — **rejected**. On 3 October in the first district, stamped 261, Henry Newman, thirty, a German laborer, sits with Eliza, twenty-eight, of Ohio, and William, five, of Ohio — **rejected**. Greenup 1850 is closed. [C1564] [C1565] [C1566] [C1567] [C1568] [S1215] [S1216] [S1217] [S1218]
+
+Lewis closes on the every-name Wayback indexes. No Newman. No Tincher. [C1569] [S1219]
+
+Fleming’s leftover 395A page is now seen. Leaf n0553, stamped 386B, is Samuel Newman, thirty-seven, with Sarah — **rejected**. Leaf n0558, stamped 389A, is James Newman, thirty-seven, farmer, $2,000, with Mary Jane — **rejected**. Leaf n0570, stamped 395A, is a man about thirty-one (Madison or Andrew on a hard reading), farmer, $1,650, with a wife of thirty and six children including William F., ten — **rejected**. Those children are not Decatur and Leaner. Fleming’s 2nd Division Newman pages are closed. [C1570] [C1571] [C1572] [C1573] [S1220] [S1221] [S1222]
+
+Lincoln 1850 is mapped on reel 210. District 1 begins about leaf n0180, stamped 245, 8 August, John W. Craig. Sampled name columns on n0180 and n0200 have no Newman. One hundred sixty-eight fulls from n0168 to n0335 are on disk. Name-column OCR is still a draft. The county is not closed. S-K’s 1840 Lincoln index lists Newman on pages 123 and 132. Reel 117 of 1840 places Lincoln near leaf n0320; those two pages are unread. [C1574] [C1575] [C1576] [C1577] [S1223] [S1224] [S1225]
+
+Casey, Russell, Bracken, and Harrison close on S-K compiled N-windows. Casey has Napier and Noland. Russell has Nelson and Nichols. Bracken has Newcomb and Newell. Harrison has New, Newell, and Tinkey. None is Newman. None is Tincher. [C1578] [C1579] [C1580] [C1581] [S1226] [S1227] [S1228] [S1229]
+
+Adair’s S-K page 404s; us-census.org holds 1810 only. Mason’s S-K page is a product sale, not a free index. No free license for William Newman and Rhoda Tincher appeared. Parents remain **probable**. The 1860 widow Rhoda with B. F., seven, is still **proven**. Conflict #28 stands. Abner Newman on Estill 1840 n0092 stays **possible** only. [C1582] [C1583] [C1584] [C1585] [S1230] [S1231] [S1232] [S1245]
+
+Genealogy Trails Lee WWI tables are live and still name Luther Brandenburg and Underwood only. FamilySearch 1146342 returned Incapsula — roadblock step 66. USGenNet Lee wills still omit Samuel P. Hutchins FAQ 9938 is live. Reel 602 is still 515 images. Do not print 1966. Do not print 1962. Grant, twenty-one, is still not merged with David F. David G. of 1984 is still **possible** as a junior only. Living 1950-line descendants are withheld. Districts 33-12 and 33-13 were not walked. Do not re-ask Tyler Phillips, Pope 479-968-4368, or Hutchins 859-985-3364. [C1586–C1591] [S1233–S1245]
+
+### Pass 126. Adair and Mason close; Lincoln 1840 Newman is not William
+
+August 1926 is still on film. The Library of Congress item still reads `item.digitized: false`. Internet Archive Solr for 1926 returned zero items. The phone is already recorded. [C1592] [S1246] [S1247]
+
+Adair 1850 closes on the KYGenWeb heads index compiled by Randy Flowers and Michael Watson. The N-window is Nalley, Naylor, Neel, Neet, Nell, Nelson, Newcomb (William H., page 25), Nip, Noel, Northup, Nowel, and Nunn. The nearest T is Timberlic. No Newman. No Tincher. [C1593] [S1248]
+
+Mason 1850 closes on the KYGenWeb surname index. The N-near window is Neal, Needow, Neel, Nelson, Newall, Newcomb, Newdigate, Nichols, and Nicholson. Finch appears at District 2 page 65A and Maysville 108B and is not Tincher. No Newman. No Newnam. No Tincher. [C1594] [S1249]
+
+The 1840 Lincoln Newman pages are now seen. Reel 117 has 365 images. Leaf n0240 is Lincoln County, Stanford — not Lawrence. Leaf n0295 is printed page 145. Two leaves per page puts printed page 123 at leaf n0249 and page 132 at leaf n0267. [C1595] [S1250] [S1251] [S1254]
+
+Page 123, allotted to James H. Prince on a hard reading, names two Newman heads: Newman J., with male ticks in the 15-to-30 band, and Newman H.A., with female ticks in the 15-to-40 band and no clear adult-male tick — a possible widow. Neighbors match the S-K page (Cumberland, Bryan, Finks, Olive, Smith, Winders, Bledsoe, Jenkins, Twiddle). Neither given name is William. Both are **rejected**. [C1596] [S1252]
+
+Page 132 names McDaniel, Manning, Bosley, McIntire, Harrison, Berry, and Williamson. One hard line reads Holeman or Newman Dasey (or Davey). S-K lists both surnames on that page. The given name is not William. The line is **rejected** as William. The Newman reading of that one surname stays **possible**. [C1597] [S1253]
+
+Those two 1840 pages are closed for the William living-head hunt. A young William in 1840 could still sit in another man’s house. 1840 names heads only. [C1598]
+
+Lincoln 1850 name columns sampled every tenth leaf from n0190 through n0330 have no Newman and no Tincher. District 1 and District 2 are both in the sample. Tesseract on the remaining columns is still a draft. The county is not closed. [C1599] [S1255]
+
+No free license for William Newman and Rhoda Tincher appeared. Parents remain **probable**. The 1860 widow Rhoda with B. F., seven, is still **proven**. Conflict #28 stands. Abner Newman on Estill 1840 n0092 stays **possible** only. [C1600] [C1601] [S1256] [S1260]
+
+Genealogy Trails Lee WWI tables are live and still name Luther Brandenburg and Underwood only. FamilySearch 1146342 returned a sign-in shell — roadblock step 67. USGenNet Lee wills still omit Samuel P. Hutchins FAQ 9938 is live. Reel 602 is still 515 images. Do not print 1966. Do not print 1962. Grant, twenty-one, is still not merged with David F. David G. of 1984 is still **possible** as a junior only. Living 1950-line descendants are withheld. Districts 33-12 and 33-13 were not walked. Do not re-ask Tyler Phillips, Pope 479-968-4368, or Hutchins 859-985-3364. [C1602–C1606] [S1257–S1260]
+
+### Pass 127. William and Jane sit next door to Rebecca Tincher
+
+August 1926 is still on film. `item.digitized` is still false. [C1607] [S1261] [S1262]
+
+Owsley stamped 299B, household 311, enumerated 17 September 1850, is now read as a living head. **William Newman**, twenty-six, farmer, Kentucky, sits with **Jane**, twenty-two, **Francis**, four, female, and **Leanner**, two, female. Next door, household 312, is **Rebecca Tincher**, fifty-one, widow. William Tincher, twenty-one, is line 26, not line 22. The earlier claim that Francis-on-299B was disproved is **withdrawn**. WikiTree’s line-22 cite is correct as a line number. [C1608] [C1609] [S1263] [S1264]
+
+Same-person against the 1860 widow Rhoda: the given name William, the county, the Tincher FAN next door, Leanner becoming Leaner at plus ten, and Francis aging toward Decatur all align. The wife’s name does not. Jane, twenty-two, is **not merged** with Rhoda, thirty-seven. Francis equals Decatur stays **possible** only — the sex conflicts. A serial-wives hypothesis (Jane, then Rhoda) remains open. Do not print Jane as Rhoda. Parents of 1928 Frank remain William × Rhoda **probable**. The 1850 living head of the hunt is **found**. [C1610–C1613] [S1263]
+
+Jessamine stamp 13 is William Newman, sixty-seven, and Nancy, forty-five, with adult sons. **Rejected**. The later pass corrects the page map: that leaf is not S-K 10A/10B. [C1614] [S1265]
+
+Pendleton, Grant, Owen, Washington, Oldham, Taylor, Bourbon, and Johnson close on compiled N-windows. Woodford 462A and Scott 399B/475 were mapped and left unread this pass. Lincoln OCR stayed a draft. No free license. Parents remain **probable**. Conflict #28 stands. [C1615–C1627] [S1266–S1280]
+
+Genealogy Trails Lee WWI tables are live and still name Luther Brandenburg and Underwood only. FamilySearch returned a sign-in shell — roadblock step 68. FAQ 9938 is live. Reel 602 is still 515 images. Do not print 1966. Do not print 1962. Grant, twenty-one, is still not merged. David G. of 1984 is still **possible** as a junior only. Districts 33-12 and 33-13 were not walked. [C1628–C1632] [S1277–S1280]
+
+### Pass 128. Jessamine 10B is Edmund, not William
+
+August 1926 is still on film. [C1633] [S1281] [S1282]
+
+S-K Jessamine Newman 10A–10B is not reel 208 n0015. Leaf n0021 is stamp 10, 15 August — Gray, Norman, Stafford; no Newman. Leaf n0022 is 10B, 16 August: **Edmund Newman**, twenty-seven, farmer, $500, Kentucky, with **Sophia**, twenty-seven, **George S.**, five, **James W.**, four, and **J. S.**, two. Mary E. Newman, twelve, sits next door in Abraham Jackson’s house. Edmund is **rejected** against William × Jane and against William × Rhoda. The “only Jessamine Newman household” claim is **withdrawn**. Stamp 13 William, sixty-seven, still stands as a reject. Jessamine Newman pages close. Madison closes on 250B, already rejected. [C1634–C1640] [S1283–S1286]
+
+Lincoln District 2 name columns n0286–n0335 are seen and empty of Newman and Tincher. District 1 OCR is still a draft. Hopkins District 2 compiled page 3 has Francis J., twenty-eight, and John, fifty-nine — both **rejected**. The county is not closed. No free license. Parents remain **probable**. Jane is not Rhoda. Conflict #28 stands. [C1641–C1647] [S1287] [S1288] [S1293]
+
+Genealogy Trails Lee WWI tables are live. FamilySearch 1146342 is a sign-in shell — roadblock step 69. FAQ 9938 is live. Reel 602 is still 515 images. Do not print 1966. Do not print 1962. Grant, twenty-one, is still not merged. [C1648–C1652] [S1289–S1293]
+
+### Pass 129. Woodford 462A is Christopher; Scott Newham is not William
+
+August 1926 is still on film. [C1653] [S1296]
+
+Woodford S-K Newman 462A is isolated on reel 222 n0254, District 2, 30 August 1850. **Christopher Newman**, fifty-one, boot- or shoemaker, $1,700, Maryland, sits with Catherine, seventeen, John, fifteen, painter, and Thomas, fifteen, carpenter. **Rejected** against William, twenty-six. The next leaf is empty of Newman. The S-K Newman page closes. [C1654–C1657] [S1297] [S1298]
+
+Scott reel 218 is remapped: n0263 is 399B, n0415 is 475B, n0424 is 480. District 1 East, 2 August, line 29 is **John Newman**, forty-five, stonemason, Ireland, a boarder in John H. Wolfe’s confectioner’s house. The compiled index spelled Newnan. **Rejected**. District 2, 24 August, household 411 is **John B. Newham**, forty-seven, farmer, $2,500, with Mahala, forty-seven, and James, twenty-five. **Rejected**. 480B household 478 is **William Newham**, thirty-eight, farmer, $2,300, with Sarah, forty. **Rejected**. 480A and 476B have no Newham. Scott’s S-K Newman / Newnan / Newham pages close. [C1658–C1664] [S1299–S1302] [S1312] [S1313]
+
+Spencer 1850 closes compiled: Simeon, forty-two; James H., thirty; George W., forty-one; Thomas, fifty-three, with son William H., twenty-one; James, fifteen. The enumerator is Thomas Newman. All **rejected**. Shelby has S. Newman, twenty, school teacher — **rejected**; that county is not closed. No free license. Parents remain **probable**. Jane is not Rhoda. Conflict #28 stands. A second visual of Owsley 299B real estate reads closer to $325; the diplomatic $375 on C1608 is kept. [C1665–C1668] [S1303] [S1304] [S1311]
+
+Genealogy Trails Lee WWI tables are live. FamilySearch 1146342 is a sign-in shell — roadblock step 70. FAQ 9938 is live. Reel 602 is still 515 images. Do not print 1966. Do not print 1962. Grant, twenty-one, is still not merged. David G. of 1984 is still **possible** as a junior only. Districts 33-12 and 33-13 were not walked. [C1669–C1673] [S1307–S1311]
 
 ## The children, in brief
 
@@ -1241,7 +1322,7 @@ Charts of pedigree, descendants, and lifespan follow the plates. Dashed lines me
 - **FAN residual:** Frank of Berea (B055) — 1900 David F. **possible**; 1958 David G. Madison **possible** only (**C473**); 1950 Dewey 26 **rejected** (**C522**); 1950 Madison Newnam API **0** / Newman **13** no Frank (**C965**); 1920 Berea Town ED **103 COMPLETE** **0317–0348** and **PROBABLE** entire-ED name-negative (**C957–C964**); college **0349–0350** sampled **nil**; 1930 Madison T626-769 **mapped** (**C969**); Berea Town **76-16 COMPLETE** **0340–0376** **PROBABLE** entire-ED name-negative (**C972–C980**); Glade North **76-17 COMPLETE** **0378–0392** (**C985**); Glade SW **76-18 COMPLETE** **0394–0429** (**C990 C993**); Glade SE **76-19 COMPLETE** **0430–0465** (**C997 C999**); residual Madison DC / *Citizen*; not merged with Grant (#20) or 1928 St. Helens Frank (#22); John of Owsley is **PROVEN** through 1930/1940/1950 (**C557**) and **absent** from **entire 1920 Owsley** (**C611**), published Lee 1920 (**C612**), **absent as a couple** from 1920 Estill (**C643**; Station Camp **nil withdrawn** — Boyd+Allie **C634 C635**), and **absent** Powell/Wolfe contact sheets (**C658 C673**) and Breathitt **0840–1176** contact sheets (**C690 C691**); Bell **25–34 ALL COMPLETE** on IA T625-559 (**C942 C943 C949–C952**; **C932 withdrawn**); **PROBABLE** entire-Bell name negative; Wolfe Torrent **238** **0443–0471** closed; Holly **239** start **0472** / end **0486** (**C870** start withdrawn); Stillwater **240** start **0488**; Clifty **241** sh **1** only; Antioch **242** not on the IA 515-image scan (`1602` = PA Mercer, **C947**); 1930 Station Camp North **33-7 COMPLETE** — Boyd+Allie **absent** (**C919–C921**); **33-8 isolated** on IA ACPL **`kentuckycensus00reel742`** leaves **777–792** and **visually read** — Boyd+Allie **absent** (**C1230–C1232**; prior **C935 C940** was the incomplete 515-image scan); **33-9** leaves **793–819** **visually read** — Boyd+Allie **absent** (**C1242 C1243**); **33-5** Irvine South leaves **707–717** **visually read** — Boyd+Allie **absent** (**C1244 C1245**); **33-6** leaves **719–746** **visually read** — Boyd+Allie **absent** (**C1256**); **33-14** leaves **747–753** **visually read** — Boyd+Allie **absent** (**C1257**); **33-10** leaves **821–845** **visually read** — Boyd+Allie **absent**; Hendrix **45** **rejected** (**C1270 C1271**); **33-11** leaves **847–895** **visually read** — Boyd+Allie **absent**; **Nennian, Ray** **38** **rejected** (**C1277 C1278**); **0650–0749 ≠ 33-8** (**C936**); **1920 Breathitt ED 52 George's Branch sh 19A ln 17 Newman John 38 + Jennie 21 ISOLATED and rejected vs John L (C772–C775)**; **leaf 1116 = ED 55 sh 1A (C791)**; **1910 Heidelberg Boyd 38 + Allie 28 + four children = 1920 Station Camp — PROVEN (C700)**; 1900 Boyd boarder **Mar 1878** **PROVEN (C702)**; 1902 Floyd×Allie license **proven** as compiled, **still not merged** with Boyd (**#27**, **C711**); 1940 compiled / 1950 Hendrix line **rejected** vs Boyd+Allie (**C941 C945**); 1966 Woodford death **probable**, not proven (**#26**); McCoy 40 on Buck Creek 1930 **PROBABLE** P010 (**C562**); 1920 Owsley / 1940/1950 Owsley McCoy head **nil** (**C611 C574 C575**); **447-20-2466** not merged (**C576**); Barney McCoy Newman of AR **rejected** (**C618**); 1918 Robert / Cora Brandenburg **probable** their son (**C614**); 1942 Combs charge **possible** authored only (**C619**); Daniel × Sarah M./Minerva are **probable** Everett’s parents (**C456/C485**, **#24**); 1930 Everett **KYVAKY** (**C530**); 1910 ED **98** Rissie servant 15 **possible** P013, **not merged** (**C713** / B016); Daniel’s license still unread after TFKRHA 1843–80 **nil** (B079); Melissa ~1876 unread (B078); Grant 21 vs David F. unread (B081); William × Katherine license (B064); two William lines (B071); Herman Estes of Brasstown (B067); Frankie Jones / Mary Peters (B068); Carter Cove stone photographs (B054). **Done this increment:** Laurel **209** / Montgomery **214** remaining N-walks **CLOSED**; Estill 1840 window **CLOSED**; Clay 1840 after n0099 **CLOSED**. **POSSIBLE** Abner Newman n0092. Parents still **PROBABLE**. **Done earlier:** 1860 Owsley stamped **353** isolated — **Rhoda 37 widow** + **B.F. 7**; 1870 Decatur **24** original; 1900 Proctor Benj. F.; 1928 Frank = Benjamin F. **PROVEN** (**C1337**). **B071** **open→partial**. **Done earlier:** Estill **1930 33-11** Riddell & Thomas leaves **847–895** isolated and visually read — Boyd+Allie **absent**. **Nennian, Ray** **38** **rejected**. Lee 1930 EDs **1–11** re-grep **nil** Boyd Newman head. **Done earlier:** Estill **1930 33-10** Red Lick East leaves **821–845** isolated and visually read — Boyd+Allie **absent**. **Newnam, Hendrix** **45** **rejected** vs Boyd; **probable** 1950 Harding. **Done earlier:** **33-6** and **33-14** name columns visually read — Boyd+Allie **absent**. **Done earlier:** true Estill **1930 33-7** Station Camp North leaves **755–775** isolated and visually read — Boyd+Allie **absent**. **C919–C921 WITHDRAWN** as 33-7 identity. **Done earlier:** Estill **1930 33-9** leaves **793–819** and **33-5** Irvine South leaves **707–717** isolated and visually read — Boyd+Allie **absent** both. **33-5 + true 33-7 + 33-8 + 33-9** now closed. **Done earlier:** Estill **1930 33-8** isolated and visually read — both Station Camp EDs closed. **Done earlier:** Bell **25–34** official closes; 1920 Berea Town ED **103** official close. **Done earlier:** 1910 Heidelberg Boyd+Allie original; 1900 Boyd boarder original; Floyd 1910 Soundex nil; Powell 1051–1201 contact-sheet; Wolfe start mapped; Breathitt ED 52 / 0840–1176; 1918 Boyd informant; Estill 1920 couple-close; Boyd+Allie Station Camp; Jackson contact-sheet; 1920 Owsley county (**B086**). **Closed earlier:** 1880 Daniel house; Lillie **12 Jan 1915**; Sarah M. Evans **15 Sep 1936**; Grant **9 Dec 1970**; 1920 Heidelberg; Fred L. 1961; Callie Spicer **5 Nov 1961**; Kate = Katherine Sternberg. Luther, Shelby × Grace, and Melissa Estes Miller **11 Apr 1957** remain **closed**.
 - Greene 37–43 Stone sweep is **closed**. Do not reopen Peebles as a third marriage without a license. Do not print 1868 or 24 February 1906 as facts. Do not print Grant as dead in 1951–1955. Do not print “Sarah Minerva” as a proven dual given. Do not print 1966 as John’s death. Do not print 1962 as McCoy’s death. Do not print the 1942 Combs charge as fact.
 
-The next session starts with **B058** *Dardanelle Post-Dispatch* **Aug–Sep 1926** on Pope **Roll 5** (phone **479-968-4368**) / UArk **F419.D37 D3** / AR Hist Comn / Dardanelle (**C1417** — do not chase Democrat 1926 film, Journal August, Rural record 17 Jun 1926, Madison library modern PDFs, Newspapers.com Post-Dispatch, or ADNP guides), **B071** residual 1850 couple as a living head / 1840 Clark names n0005–n0081 / marriage William × Rhoda (Laurel **209** / Montgomery **214** / Estill 1840 window / Clay 1840 **closed** this pass), **B055/B080** Hutchins cards **228–229** (FAQ **9938** now **404**) then June **1958** *Citizen* film (phone **859-985-3364**) or Newspapers.com **41271** (UK **S-150** starts **3 Jul 1958** — too late for 19 Jun), **B069/B047/B059** M1509 **KY45** cards, **B045/B061/B065** FS sign-in (clerk already recorded — do not re-ask), **B082** Duell-Clark / cert **17762**. **B088** Antioch **242** catalog already **proven** — one line max. Do **not** start Estill **1930 33-12 / 33-13**.
+The next session starts with **B058** *Dardanelle Post-Dispatch* **Aug–Sep 1926** on Pope **Roll 5** (phone **479-968-4368**) / UArk **F419.D37 D3** — one catalog reconfirm only; **B071** residual Lincoln Dist 1 namecol finish + Hopkins remaining + Mercer N + Kenton/Nelson/Franklin compiled (do **not** repeat closed walks including Owsley 299B hh **311**, Jessamine 10A/10B + stamp 13, Woodford 462A, Scott 399B/475B/480B, Spencer compiled); **B055/B080** Hutchins cards **228–229** (FAQ **9938** **LIVE**); **B069/B047/B059** FS **1146342** + M1509 **KY45**; **B045/B061/B065** FS sign-in (do not re-ask); **B082** Duell-Clark / cert **17762**. **B088** one line max. Do **not** start Estill **1930 33-12 / 33-13**.
 
 ---
 
@@ -1569,6 +1650,42 @@ Numbered notes expand the claim/source tags in the narrative. Access labels: *im
 315. Fleming compiled Samuel **37** / James **37** / John D **48**. *Compiled + reject.* **C1552** **S1192**.
 316. No free William × Rhoda license. Parents still **PROBABLE**. 1860 Rhoda widow + B.F. **7** **PROVEN**. #28 stands. *Negative / analysis.* **C1554 C1555** **S1210**.
 317. GT [Lee WWI](https://www.genealogytrails.com/ken/lee/wwi_draft_cards.html) **LIVE** **452540** nil Newnam. FS SPA (R011-65). IA **602** still **515**. USGenNet wills no Samuel P. Hutchins [FAQ 9938](https://libraryanswers.berea.edu/faq/9938) **LIVE**. Do not print 1966 or 1962. *Catalog.* **C1556–C1560** **S1195–S1210**.
+318. LOC [sn89051008](https://www.loc.gov/item/sn89051008/) `item.digitized: false` (pass125). IA Solr 1926 **0**. *Catalog.* **C1561** **S1211 S1212**.
+319. KYGenWeb [Carter 1850ndex](https://kykinfolk.com/carter/1850ndex.htm) Nethercult…Newhart; Tinsley Sally. County **CLOSED** compiled. *Index.* **C1562 C1563** **S1213 S1214**.
+320. Greenup Lemuel **38** MD / Thomas **28** SC / Henry **30** GER originals **IMAGE SEEN REJECT**. County **CLOSED**. IA [reel 202](https://archive.org/details/populationschedu0202unix). *Image seen.* **C1564–C1568** **S1215–S1218**.
+321. Lewis 1850 Wayback every-name **nil**. Fleming 395A + Samuel **37** + James **37** **IMAGE SEEN REJECT**. *Image / index.* **C1569–C1573** **S1219–S1222**.
+322. Lincoln 1850 reel [210](https://archive.org/details/populationschedu0210unix) mapped n0180 stamp **245**; 168 fulls; OCR residual. S-K [Lincoln 1840](https://www.skcensus.com/1840-census-index-lincoln-county-kentucky/) NEWMAN **123/132**. *Image / index.* **C1574–C1577** **S1223–S1225**.
+323. S-K [Casey](https://www.skcensus.com/1850-census-index-casey-county-kentucky/) / [Russell](https://www.skcensus.com/1850-census-index-russell-county-kentucky/) / [Bracken](https://www.skcensus.com/1850-census-index-bracken-county-kentucky/) / [Harrison](https://www.skcensus.com/1850-census-index-harrison-county-kentucky/) 1850 **CLOSED** compiled. Adair **404**; Mason product-only. *Index.* **C1578–C1583** **S1226–S1231**.
+324. No free William × Rhoda license. Parents still **PROBABLE**. 1860 Rhoda widow + B.F. **7** **PROVEN**. #28 stands. *Negative / analysis.* **C1584 C1585** **S1245**.
+325. GT [Lee WWI](https://www.genealogytrails.com/ken/lee/wwi_draft_cards.html) **LIVE** **452540** nil Newnam. FS Incapsula (R011-66). IA **602** still **515**. USGenNet wills no Samuel P. Hutchins [FAQ 9938](https://libraryanswers.berea.edu/faq/9938) **LIVE**. Do not print 1966 or 1962. *Catalog.* **C1586–C1591** **S1233–S1245**.
+326. LOC [sn89051008](https://www.loc.gov/item/sn89051008/) `item.digitized: false` (pass126). IA Solr 1926 **0**. *Catalog.* **C1592** **S1246 S1247**.
+327. KYGenWeb [Adair 1850 index](https://kygenweb.net/adair/Census/1850/1850censusindex.htm) Nalley…Nunn; Newcomb William H **25**. County **CLOSED** compiled. *Index.* **C1593** **S1248**.
+328. KYGenWeb [Mason 1850index](https://kygenweb.net/mason/1850index.txt) Newall/Newcomb/Newdigate; Finch. County **CLOSED** compiled. *Index.* **C1594** **S1249**.
+329. 1840 Lincoln n0249 page **123** Newman **J** + Newman **H.A.** [IA reel 117](https://archive.org/details/populationsc18400117unit). *Image seen + reject.* **C1595 C1596** **S1252**.
+330. 1840 Lincoln n0267 page **132** Holeman/Newman Dasey [?]. *Image seen + reject.* **C1597 C1598** **S1253**.
+331. Lincoln 1850 namecol samples n0190–n0330 **nil**. OCR residual. County not closed. IA [reel 210](https://archive.org/details/populationschedu0210unix). *Image / residual.* **C1599** **S1255**.
+332. No free William × Rhoda license. Parents still **PROBABLE**. #28 stands. *Negative / analysis.* **C1600 C1601** **S1260**.
+333. GT [Lee WWI](https://www.genealogytrails.com/ken/lee/wwi_draft_cards.html) **LIVE** **452540** nil Newnam. FS SPA (R011-67). IA **602** still **515**. USGenNet wills no Samuel P. Hutchins [FAQ 9938](https://libraryanswers.berea.edu/faq/9938) **LIVE**. Do not print 1966 or 1962. *Catalog.* **C1602–C1606** **S1257–S1260**.
+334. LOC [sn89051008](https://www.loc.gov/item/sn89051008/) `item.digitized: false` (pass127). IA Solr 1926 **0**. *Catalog.* **C1607** **S1261 S1262**.
+335. 1850 U.S. census, Owsley stamped **299B** hh **311**. IA [`0216unix`](https://archive.org/details/populationschedu0216unix) leaf **391**. William Newman **26** × Jane **22** + Francis **4 F** + Leanner **2 F**. Next door Rebecca Tincher **51**. *Image seen.* **C1608 C1609** **S1263 S1264**.
+336. Same-person hh **311** vs 1860 Rhoda widow. William **PROBABLE**. Jane **not merged**. Francis=Decatur **POSSIBLE** only. *Analysis.* **C1610–C1613** **S1263**.
+337. Jessamine n0015 stamp **13** William Newman **67** × Nancy **45**. [IA reel 208](https://archive.org/details/populationschedu0208unix). *Image seen + reject.* **C1614** **S1265**.
+338. Pendleton / Grant / Owen / Washington / Oldham / Taylor / Bourbon compiled closes. *Index.* **C1615–C1621** **S1266–S1272**.
+339. No free William × Rhoda / × Jane license. Parents still **PROBABLE**. #28 stands. *Negative / analysis.* **C1626 C1627** **S1280**.
+340. GT [Lee WWI](https://www.genealogytrails.com/ken/lee/wwi_draft_cards.html) **LIVE** **452540**. FS SPA (R011-68). FAQ [9938](https://libraryanswers.berea.edu/faq/9938) **LIVE**. Do not print 1966 or 1962. *Catalog.* **C1628–C1632** **S1277–S1280**.
+341. LOC [sn89051008](https://www.loc.gov/item/sn89051008/) `item.digitized: false` (pass128). IA Solr 1926 **0**. *Catalog.* **C1633** **S1281 S1282**.
+342. Jessamine n0021 **10A** no Newman; n0022 **10B** Edmund Newman **27** × Sophia **27**. [IA reel 208](https://archive.org/details/populationschedu0208unix). *Image seen + reject.* **C1635–C1638** **S1284 S1285**.
+343. Madison 1850 compiled **250B** only (already **REJECT**). County **CLOSED**. *Index.* **C1640** **S1286**.
+344. Lincoln Dist 2 n0286–n0335 namecols nil. Hopkins Francis J **28** / John **59** **REJECT**. *Image / compiled.* **C1641–C1645** **S1287 S1288**.
+345. No free license. Parents still **PROBABLE**. Jane **not** Rhoda. #28 stands. *Negative / analysis.* **C1646 C1647** **S1293**.
+346. GT [Lee WWI](https://www.genealogytrails.com/ken/lee/wwi_draft_cards.html) **LIVE**. FS SPA (R011-69). FAQ [9938](https://libraryanswers.berea.edu/faq/9938) **LIVE**. Do not print 1966 or 1962. *Catalog.* **C1648–C1652** **S1289–S1293**.
+347. LOC [sn89051008](https://www.loc.gov/item/sn89051008/) `item.digitized: false` (pass129). IA Solr 1926 **0**. *Catalog.* **C1653** **S1296**.
+348. Woodford n0254 stamp **462** Christopher Newman **51** MD boot/shoemaker + Catherine **17** + John **15** + Thomas **15**. [IA reel 222](https://archive.org/details/populationschedu0222unix). *Image seen + reject.* **C1654–C1657** **S1297 S1298**.
+349. Scott n0263 **399B** John Newman **45** Ireland in Wolfe hh. [IA reel 218](https://archive.org/details/populationschedu0218unix). *Image seen + reject.* **C1659 C1660** **S1299 S1300**.
+350. Scott **475B** John B. Newham **47** × Mahala; **480B** William Newham **38** × Sarah. *Image seen + reject.* **C1661–C1664** **S1301 S1302**.
+351. Spencer compiled Simeon / Geo. W. / Thomas + William H **21** **REJECT**. Shelby S. Newman **20** **REJECT**. *Index.* **C1665 C1666** **S1303 S1304**.
+352. No free license. Parents still **PROBABLE**. Jane **not** Rhoda. #28 stands. *Negative / analysis.* **C1667 C1668** **S1311**.
+353. GT [Lee WWI](https://www.genealogytrails.com/ken/lee/wwi_draft_cards.html) **LIVE**. FS SPA (R011-70). FAQ [9938](https://libraryanswers.berea.edu/faq/9938) **LIVE**. Do not print 1966 or 1962. *Catalog.* **C1669–C1673** **S1307–S1311**.
 
 
 
@@ -2010,6 +2127,34 @@ Working table of **saved local copies**. Full file list: [`../SOURCE-INDEX.md`](
 | S1195 | `../sources/catalog/gt-lee-wwi-pass124.html` | [GT Lee WWI](https://www.genealogytrails.com/ken/lee/wwi_draft_cards.html) | Luther Brandenburg + Underwood | transcription only |
 | S1198 | `../sources/catalog/hutchins-faq-9938-answers-pass124.html` | [FAQ 9938](https://libraryanswers.berea.edu/faq/9938) | cards 228–229 | catalog |
 | S1210 | `../sources/census/pass124-extract-2026-10-31.txt` | This session | Pass 124 extract | extract |
+| S1211 | `../sources/catalog/loc-sn89051008-pass125.json` | [LOC sn89051008](https://www.loc.gov/item/sn89051008/) | item.digitized false | catalog |
+| S1213 | `../sources/catalog/kygenweb-carter-1850ndex-pass125.html` | [Carter 1850ndex](https://kykinfolk.com/carter/1850ndex.htm) | no Newman/Tincher | index only |
+| S1216 | `../sources/census/pass125/keyplates/r202-n0373-lemuel-38-md.jpg` | [IA reel 202](https://archive.org/details/populationschedu0202unix) | Lemuel 38 MD | image seen |
+| S1217 | `../sources/census/pass125/keyplates/r202-n0384-thomas-28-sc-191.jpg` | [IA reel 202](https://archive.org/details/populationschedu0202unix) | Thomas 28 SC | image seen |
+| S1218 | `../sources/census/pass125/keyplates/r202-n0526-henry-30-ger-261.jpg` | [IA reel 202](https://archive.org/details/populationschedu0202unix) | Henry 30 GER | image seen |
+| S1220 | `../sources/census/pass125/keyplates/r199-n0553-samuel-37-386b.jpg` | [IA reel 199](https://archive.org/details/populationschedu0199unix) | Samuel 37 | image seen |
+| S1221 | `../sources/census/pass125/keyplates/r199-n0558-james-37-389a.jpg` | [IA reel 199](https://archive.org/details/populationschedu0199unix) | James 37 | image seen |
+| S1222 | `../sources/census/pass125/keyplates/r199-n0570-madison-31-395a.jpg` | [IA reel 199](https://archive.org/details/populationschedu0199unix) | Madison/Andrew 31 | image seen |
+| S1226 | `../sources/catalog/sk-casey-1850-pass125.html` | [S-K Casey](https://www.skcensus.com/1850-census-index-casey-county-kentucky/) | no Newman/Tincher | index only |
+| S1233 | `../sources/catalog/gt-lee-wwi-pass125.html` | [GT Lee WWI](https://www.genealogytrails.com/ken/lee/wwi_draft_cards.html) | Luther Brandenburg + Underwood | transcription only |
+| S1237 | `../sources/catalog/hutchins-faq-9938-answers-pass125.html` | [FAQ 9938](https://libraryanswers.berea.edu/faq/9938) | cards 228–229 | catalog |
+| S1245 | `../sources/census/pass125-extract-2026-10-31.txt` | This session | Pass 125 extract | extract |
+| S1246 | LOC sn89051008 pass126 | Library of Congress | `item.digitized: false` | catalog |
+| S1248 | KYGenWeb Adair 1850 index | https://kygenweb.net/adair/Census/1850/1850censusindex.htm | Newcomb; no Newman | index |
+| S1249 | KYGenWeb Mason 1850index | https://kygenweb.net/mason/1850index.txt | Newall/Newcomb; no Newman | index |
+| S1252 | 1840 Lincoln page 123 | IA reel 117 n0249 | Newman J + Newman H.A. | image seen |
+| S1253 | 1840 Lincoln page 132 | IA reel 117 n0267 | Holeman/Newman Dasey | image seen |
+| S1260 | `../sources/census/pass126-extract-2026-10-31.txt` | This session | Pass 126 extract | extract |
+| S1261 | `../sources/catalog/loc-sn89051008-pass127.json` | [LOC sn89051008](https://www.loc.gov/item/sn89051008/) | `digitized: false` | catalog |
+| S1263 | `../sources/census/pass125/keyplates/owsley-1850-299b-hh311-william-jane.jpg` | [IA 0216unix](https://archive.org/details/populationschedu0216unix) | Owsley 299B hh 311 | image seen |
+| S1280 | `../sources/census/pass127-extract-2026-10-31.txt` | This session | Pass 127 extract | extract |
+| S1285 | `../sources/census/pass127/keyplates/r208-n0022-jessamine-10b-newman.jpg` | [IA 0208unix](https://archive.org/details/populationschedu0208unix) | Edmund 27 × Sophia 27 | image seen |
+| S1293 | `../sources/census/pass128-extract-2026-10-31.txt` | This session | Pass 128 extract | extract |
+| S1297 | `../sources/census/pass128/keyplates/woodford-462a-christopher-newman.jpg` | [IA 0222unix](https://archive.org/details/populationschedu0222unix) | Christopher 51 MD | image seen |
+| S1299 | `../sources/census/pass128/keyplates/scott-399b-john-newman-45.jpg` | [IA 0218unix](https://archive.org/details/populationschedu0218unix) | John Newman 45 Ireland | image seen |
+| S1301 | `../sources/census/pass128/keyplates/scott-475b-robert-newham-47.jpg` | [IA 0218unix](https://archive.org/details/populationschedu0218unix) | John B. Newham 47 | image seen |
+| S1302 | `../sources/census/pass128/keyplates/scott-480b-william-newham-38.jpg` | [IA 0218unix](https://archive.org/details/populationschedu0218unix) | William Newham 38 × Sarah | image seen |
+| S1311 | `../sources/census/pass129-extract-2026-10-31.txt` | This session | Pass 129 extract | extract |
 
 
 Embedded plates live in `plates/` and `../sources/census/`. Charts: [`../visuals/pedigree-dora.svg`](../visuals/pedigree-dora.svg), [`../visuals/timeline-dora.svg`](../visuals/timeline-dora.svg).

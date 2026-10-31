@@ -1,0 +1,1110 @@
+Spencer, KY 1850 Federal Census          (FILE 2 of 5)
+
+This Census was transcribed by Vicki Mitchell <Ardahl@aol.com> 
+and proofread by Ted Hardman and Katie Alder
+for the USGenWeb Census Project, http://www.usgenweb.org/census.
+
+Copyright 1999 by Vicki Mitchell <Ardahl@aol.com>
+
+************************************************************************
+USGENWEB NOTICE:  These electronic pages may NOT be reproduced in
+any format for profit or presentation by any other organization or
+persons.  Persons or organizations desiring to use this material,
+must obtain the written consent of the contributor, or the legal
+representative of the submitter, and contact the listed USGenWeb
+archivist with proof of this consent.
+************************************************************************
+Thanks to S-K Publications for providing the census page photocopies from
+which this transcription was made.  The complete original, handwritten
+census of this county is available in book form (including a typed index)
+from S-K Publications, PO Box 8173, Wichita KS 67208
+(www.skpub.com/genie/census.html).
+************************************************************************
+
+Census_Year  1850
+Microfilm #  M432-219
+State        KY
+County       Spencer
+---------------------Begin Actual Transcription----------------------------------
+
+CENSUS YR:  1850  STATE or TERRITORY:  KY  COUNTY:  Spencer  DIVISION:  District No. 1  REEL NO:  M704-124  PAGE NO:  82a
+REFERENCE:  Enumerated on the 16th day of Aug 1850 by Thos. Newman
+=========================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB
+=========================================================================================================================
+ 1   159  159 Searcy         Sarah          54   F                                  Kentucky
+ 2   159  159 Searcy         Elijah         22   M         Farmer                   Ky
+ 3   159  159 Searcy         William B.     15   M         Farmer                   Ky
+ 4   159  159 Huffman        Catharine      25   F                                  Ky                            X
+ 5   159  159 Walden         Nancy          87   F                                  Virginia                      X    X
+                   REMARKS:  "Blind"
+ 6   160  160 Searcy         Fielding       30   M         Farmer                   Ky
+ 7   160  160 Searcy         Sarah          32   F                                  Ky
+ 8   160  160 Searcy         Joshua         6    M                                  Ky
+ 9   160  160 Searcy         Susan M.       5    F                                  Ky
+ 10  160  160 Searcy         Sarah A.       3    F                                  Ky
+ 11  160  160 Searcy         Eliza M.       4/12 F                                  Ky
+ 12  161  161 Reynolds       Lewis          30   M         Farmer         500       Ky                            X
+ 13  161  161 Reynolds       Nancy          23   F                                  Ky                            X
+ 14  161  161 Reynolds       John T.        1    M                                  Ky
+ 15  162  162 Reynolds       Susan          51   F                        1,500     Ky                            X
+ 16  162  162 Reynolds       James          19   M         Farmer                   Ky
+ 17  162  162 Reynolds       Caroline       17   F                                  Ky
+ 18  162  162 Reynolds       Emily I.       16   F                                  Ky
+ 19  162  162 Reynolds       Robert         14   M                                  Ky
+ 20  163  163 Reynolds       Enoch          25   M         Farmer                   Ky                            X
+ 21  163  163 Reynolds       Mary           29   F                                  Ky                            X
+ 22  163  163 Reynolds       William A.     4    M                                  Ky
+ 23  164  164 Naylor         John C.        27   M         Farmer         1,300     Ky
+ 24  164  164 Naylor         Mary           31   F                                  Ky
+ 25  164  164 Naylor         Ann M.         7    F                                  Ky
+ 26  164  164 Naylor         Mary E.        5    F                                  Ky
+ 27  164  164 Naylor         Musker L.      3    M                                  Ky
+ 28  164  164 Naylor         Barbara        1    F                                  Ky
+ 29  164  164 Naylor         James H.       22   M         Laborer                  Ky
+ 30  165  165 Naylor         Ben. G.        20   M         Farmer         135       Ky
+ 31  165  165 Naylor         Elisa J.       19   F                                  Ky                            X
+ 32  165  165 Naylor         George         2    M                                  Ky
+ 33  166  166 Nation         Joseph         53   M         Farmer         2,000     Ky                            X
+ 34  166  166 Nation         Elizabeth      37   F                                  Ky                            X
+ 35  166  166 Nation         John           17   M         Farmer                   Ky                      X
+ 36  166  166 Nation         Joseph         15   M         Farmer                   Ky                      X
+ 37  166  166 Nation         William        11   M                                  Ky                      X
+ 38  166  166 Nation         Emeline        9    F                                  Ky                      X
+ 39  166  166 Nation         Lydia          7    F                                  Ky
+ 40  166  166 Nation         Susan F.       4    F                                  Ky
+ 41  166  166 Nation         Nancy          2    F                                  Ky
+ 42  167  167 Stewart        Charles        54   M         Farmer                   Virginia                      X
+
+CENSUS YR:  1850  STATE or TERRITORY:  KY  COUNTY:  Spencer  DIVISION:  District No. 1  REEL NO:  M432-219  PAGE NO:  82b
+=========================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB
+=========================================================================================================================
+ 1   167  167 Stewart        Martha         50   F                                  Ky                            X
+ 2   167  167 Stewart        Uriah          26   M         Laborer                  Ky                            X
+ 3   167  167 Stewart        Alexander      16   M         Laborer                  Ky
+ 4   167  167 Stewart        James P.       13   M                                  Ky
+ 5   167  167 Stewart        Tabitha        10   F                                  Ky
+ 6   168  168 Nicholdson     Henry          28   M         Laborer                  Ky                            X
+ 7   168  168 Nicholdson     Martha         21   F                                  Ky                            X
+ 8   168  168 Nicholdson     Elizabeth      5    F                                  Ky
+ 9   168  168 Nicholdson     Thomas W.      4    M                                  Ky
+ 10  168  168 Nicholdson     James R.       1    M                                  Ky
+ 11  169  19  Eaton          James          43   M         Farmer                   N. Carolina
+ 12  169  19  Eaton          Martha         50   F                                  Ky
+ 13  170  170 Jewell         William        21   M         Laborer                  Ky
+ 14  170  170 Jewell         Amisetta       20   F                                  Ky
+ 15  170  170 Jewell         Levi           7/12 M                                  Ky
+ 16  171  171 Snider         Cornelius      46   M         Farmer         1,100     Ky
+ 17  171  171 Snider         Martha A.      22   F                                  Ky
+ 18  171  171 Snider         Noname
+                   REMARKS:  RECORD 18 MISSING ON SHEET
+ 19  171  171 Snider         Martha A.      22   F                                  Ky
+ 20  171  171 Snider         John M.        21   M         Farmer                   Ky
+ 21  171  171 Snider         Amanda         16   F                                  Ky                      X
+ 22  171  171 Snider         Cornelius      12   M                                  Ky                      X
+ 23  171  171 Snider         James W.       11   M                                  Ky                      X
+ 24  171  171 Snider         Henry M.       9    M                                  Ky                      X
+ 25  171  171 Snider         Nimrod B.      7    M                                  Ky
+ 26  171  171 Snider         Sarah          6    F                                  Ky
+ 27  171  171 Hume           Julia A.       5    F                                  Ky
+ 28  171  171 Hume           Ruth           2    F                                  Ky
+ 29  171  171 Hume           John           23   M         Laborer                  Kentucky
+ 30  171  171 Hume           Mary E.        20   F                                  Ky
+ 31  172  172 Jewell         Levi           46   M         Farmer         1,800     Virginia
+ 32  172  172 Jewell         Elizabeth      46   F                                  Ky
+ 33  172  172 Jewell         Elijah         18   M         Laborer                  Ky                      X
+ 34  172  172 Jewell         Susannah       16   F                                  Ky                      X
+ 35  172  172 Jewell         Elizabeth      13   F                                  Ky                      X
+ 36  172  172 Jewell         Sarah F.       8    F                                  Ky                      X
+ 37  172  172 Jewell         Barnett        6    M                                  Ky
+ 38  173  173 Goodwin        Thomas Jr.     40   M         Farmer         750       Ky
+ 39  173  173 Goodwin        Margaret       41   F                                  Ky
+ 40  173  173 Goodwin        Thomas J.      19   M         Farmer                   Ky
+ 41  173  173 Goodwin        Mary E.        15   F                                  Ky
+ 42  173  173 Goodwin        Margaret       11   F                                  Ky
+
+CENSUS YR:  1850  STATE or TERRITORY:  KY  COUNTY:  Spencer  DIVISION:  District No. 1  REEL NO:  M432-219  PAGE NO:  83a
+REFERENCE:  Enumerated the 17th day of Aug. 1850 by Thos. Newman
+=========================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB
+=========================================================================================================================
+ 1   173  173 Goodwin        William        5    M                                  Kentucky
+                   REMARKS:  Handwritten page #165
+ 2   173  173 Goodwin        John E.        3    M                                  Ky
+ 3   173  173 Goodwin        James A.       1    M                                  Ky
+ 4   173  173 Howard         Soloman        14   M                                  Ky
+ 5   173  173 Snider         Amos           5    M                                  Ky
+ 6   174  174 Summers        Elliot         27   M         Farmer         700       Ky
+ 7   174  174 Summers        Louisa         24   F                                  Ky
+ 8   174  174 Summers        Jefferson      1    M                                  Ky
+ 9   175  175 Stewart        Tho's          38   M         Farmer         800       Ky                            X
+ 10  175  175 Stewart        Charlotte      34   F                                  Ky                            X
+ 11  175  175 Stewart        Louisa         15   F                                  Ky
+ 12  175  175 Stewart        Anna           13   F                                  Ky
+ 13  175  175 Stewart        James W.       11   M                                  Ky
+ 14  175  175 Stewart        Eliza          8    F                                  Ky
+ 15  175  175 Stewart        Cornelius      3    M                                  Ky
+ 16  175  175 Stewart        Tho's J.       1    M                                  Ky
+ 17  176  176 Snider         C. N.          32   M         Farmer         430       Ky
+ 18  176  176 Snider         Susannah       32   F                                  Ireland
+ 19  176  176 Darley         John           13   M                                  New Jersey              X
+ 20  176  176 Darley         William        11   M                                  Ohio                    X
+ 21  176  176 Darley         Susannah       8    F                                  Ohio                    X
+ 22  177  177 Snider         Geo. W.        33   M         Farmer                   Ky
+ 23  177  177 Snider         Harriet        22   F                                  Ky
+ 24  177  177 Snider         Margaret       69   F                                  Penn.                         X
+ 25  178  178 Hand           Uriah          91   M         Farmer         1,800     Maryland
+ 26  178  178 Bar            Martha         60   F                                  N. Carolina                   X
+ 27  178  178 Bar            Catharine      28   F                                  Ky                            X
+ 28  178  178 Bar            Mary Ann       11   F                                  Ky
+ 29  178  178 Bar            Eliza J.       9    F                                  Ky
+ 30  178  178 Bar            Emily          3    F                                  Ky
+ 31  179  179 Pugh           Lewis          37   M         Farmer                   Ky
+ 32  179  179 Pugh           Mary F.        30   F                                  Ky
+ 33  179  179 Pugh           Jane N.        13   F                                  Ky                      X
+ 34  179  179 Pugh           Sarah E.       10   F                                  Ky                      X
+ 35  179  179 Pugh           George R.      7    M                                  Ky
+ 36  179  179 Pugh           Margaret F.    4    F                                  Ky
+ 37  179  179 Pugh           Lucy E.        1    F                                  Ky
+ 38  179  179 Pugh           Nancy          45   F                                  Ky                                 X
+                   REMARKS:  "Insane"
+ 39  179  179 Nutgrass       Thornton       35   M         Laborer                  Ky
+ 40  180  180 Blantford      William        28   M         Farmer         160       Ky
+ 41  180  180 Blantford      Mary M.        23   F                                  Ky
+ 42  180  180 Blantford      John           7    M                                  Ky
+
+CENSUS YR:  1850  STATE or TERRITORY:  KY  COUNTY:  Spencer  DIVISION:  District No. 1  REEL NO:  M432-219  PAGE NO:  83b
+REFERENCE:  Enumerated on the 17th day of Aug. 1850 by Thos. Newman
+=========================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB
+=========================================================================================================================
+ 1   180  180 Blantford      George F.      *    M                                  Kentucky
+                   REMARKS:  Age unreadable
+ 2   180  180 Blantford      James N.       9/12 M                                  Ky
+                   REMARKS:  Age could be 7/12
+ 3   181  181 Reardon        William        19   M         Laborer                  Ky                            X
+ 4   181  181 Reardon        Sarah E.       18   F                                  Ky
+ 5   181  181 Ritter         Esther         35   F                                  Ky                            X
+ 6   181  181 Ritter         Henry          15   M         Laborer                  Ky
+ 7   181  181 Ritter         Samuel         12   M                                  Ky
+ 8   181  181 Ritter         Amanda         7    F                                  Ky
+ 9   181  181 Ritter         Margaret       5    F                                  Ky
+ 10  182  182 McGee          John B.        59   M         Farmer                   Ky
+ 11  182  182 McGee          Arabella       40   F                                  Ky
+ 12  182  182 McGee          John A.        13   M                                  Ky                      X
+ 13  182  182 McGee          Elizabeth      12   F                                  Ky                      X
+ 14  182  182 McGee          Rachael        9    F                                  Ky                      X
+ 15  182  182 McGee          George W.      7    M                                  Ky                      X
+ 16  182  182 McGee          Vincent A.     5    M                                  Ky
+ 17  182  182 McGee          Hall           2    M                                  Ky
+ 18  183  183 McLain         Thomas J.      24   M         Farmer                   Ky
+ 19  183  183 McLain         Mary           19   F                                  Ky
+ 20  183  183 McLain         Elizabeth      1    F                                  Ky
+ 21  184  184 Harriss        Thomas S.      37   M         Farmer         300       Ky
+ 22  184  184 Harriss        Mahala         39   F                                  Ky                            X
+ 23  184  184 Harriss        Jemima         14   F                                  Ky
+ 24  184  184 Harriss        Elizabeth      12   F                                  Ky
+ 25  184  184 Harriss        Sarah A.       10   F                                  Ky
+ 26  184  184 Harriss        Thomas E.      6    M                                  Ky
+ 27  184  184 Harriss        Nancy D.       3    F                                  Ky
+ 28  184  184 Harriss        Joseph D.      1    M                                  Ky
+ 29  185  185 Nation         James          26   M         Farmer         300       Ky                            X
+ 30  185  185 Nation         Saibra         24   F                                  Ky                            X
+ 31  185  185 Nation         Elizabeth F.   3    F                                  Ky
+ 32  185  185 Nation         Mary A.        1    F                                  Ky
+ 33  185  185 Nation         Frances        30   M         None                     Ky                                 X
+                   REMARKS:  "Maimed"
+ 34  186  186 Redman         Sarah D.       60   F                        1,000     Virginia                      X
+ 35  186  186 Redman         Dawson N.      24   M         Farmer                   Ky
+ 36  186  186 Redman         Margaret C.    20   F                                  Ky                            X
+ 37  187  187 McLain         Andrew         60   M         Farmer         1,300     Ky
+ 38  187  187 McLain         Sarah          60   F                                  Virginia                      X
+ 39  187  187 McLain         John           29   M         Farmer                   Ky
+ 40  188  188 Helm           Thomas         25   M         Farmer                   Ky
+ 41  188  188 Helm           Emile A.       17   F                                  Ky
+                   REMARKS:  Interpretation of first name questionable
+ 42  189  189 McLain         Geo. W.        31   M         Cooper                   Ky
+
+CENSUS YR:  1850  STATE or TERRITORY:  KY  COUNTY:  Spencer  DIVISION:  District No. 1  REEL NO:  M432-219  PAGE NO:  84a
+REFERENCE:  Enumerated on the 21st day of Aug. 1850 by Thos. Newman
+=========================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB
+=========================================================================================================================
+ 1   188  188 McLain         Mary           27   F                                  Kentucky
+                   REMARKS:  Hand numbered page #167
+ 2   188  188 McLain         Andrew J.      10   M                                  Ky                      X
+ 3   188  188 McLain         John           5    M                                  Ky
+ 4   188  188 McLain         Mary A.        4    F                                  Ky
+ 5   190  190 Sutton         Sarah          65   F                        150       Virginia                      X
+ 6   190  190 Sutton         Susan          36   F                                  Ky                            X
+ 7   190  190 Sutton         Lydia          27   F                                  Ky
+ 8   190  190 Sutton         Jane           24   F                                  Ky
+ 9   190  190 Sutton         Daniel         24   F         Farmer                   Ky
+                   REMARKS:  Recorded as female, but name is clearly Daniel
+ 10  190  190 Reynolds       John           9    F                                  Ky
+                   REMARKS:  Recorded as female, but name is clearly John
+ 11  190  190 Reynolds       Sophia A.      7    F                                  Ky
+ 12  191  191 Miller         Jacob          53   M         Farmer                   Ky                            X
+ 13  191  191 Miller         Mary           56   F                                  Ky
+ 14  191  191 Miller         Joshua         20   M         Farmer                   Ky                      X
+ 15  191  191 Miller         John           18   M         Farmer                   Ky                      X
+ 16  191  191 Miller         Louisa         15   F                                  Ky                      X
+ 17  191  191 Callahan       Nancy          25   F                                  Ky
+ 18  191  191 Callahan       Andrew J.      7    M                                  Ky
+ 19  191  191 Callahan       John H.        5    M                                  Ky
+ 20  191  191 Shelburne      Jacob          12   M                                  Ky                      X
+ 21  191  191 Shelburne      Augustine      10   M                                  Ky                      X
+ 22  192  192 Miller         Henry          28   M         Farmer                   Ky
+ 23  192  192 Miller         Mary           33   F                                  Ky
+ 24  192  192 Miller         James C.       8    M                                  Ky                      X
+ 25  192  192 Miller         Mary F.        6    F                                  Ky
+ 26  192  192 Nutgrass       Sarah          12   F                                  Ky
+ 27  193  193 Froman         Soloman F.     41   M         Farmer                   Ky
+ 28  193  193 Froman         Mary N.        27   F                                  Ky
+ 29  193  193 Froman         Sarah E.       9    F                                  Ky                      X
+ 30  193  193 Froman         Susan          7    F                                  Ky                      X
+ 31  193  193 Froman         John           5    M                                  Ky                      X
+ 32  193  193 Froman         Charles W.     3    M                                  Ky
+ 33  193  193 Froman         Stephen        7/12 M                                  Ky
+ 34  193  193 Cain           James          28   M         Laborer                  Ky
+ 35  194  194 May            William H.     36   M         Farmer                   Ky
+ 36  194  194 May            Elizabeth      24   F                                  Ky
+ 37  194  194 May            Charles H.     7    M                                  Ky                      X
+ 38  194  194 May            Sarah B.       4/12 F                                  Ky
+ 39  195  195 Cooke          Mary           72   F                                  Penn.                         X
+ 40  195  195 Cooke          Elizabeth      42   F                                  Penn.                         X
+ 41  195  195 Cooke          Mary           30   F                                  Ky                            X
+ 42  196  196 Cooke          Jessee         27   M         Farmer                   Ky
+
+CENSUS YR:  1850  STATE or TERRITORY:  KY  COUNTY:  Spencer  DIVISION:  District No. 1  REEL NO:  M432-219  PAGE NO:  84b
+REFERENCE:  Enumerated on the 21st day of Aug. 1850 by Thos. Newman
+=========================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB
+=========================================================================================================================
+ 1   196  196 Cooke          Elizabeth      19   F                                  Kentucky
+ 2   196  196 Cooke          Mary A.        1    F                                  Ky
+ 3   196  196 Cooke          John           1/12 M                                  Ky
+ 4   197  197 Cooke          John           23   M         Laborer                  Ky                            X
+ 5   197  197 Cooke          Pauline        20   F                                  Ky                            X
+ 6   197  197 Cooke          Levina         7/12 F                                  Ky
+ 7   198  198 Cooke          Rebecca        30   F                                  Ky                            X
+ 8   198  198 Cooke          Andrew         12   M                                  Ky
+ 9   198  198 Cooke          William        10   M                                  Ky
+ 10  198  198 Cooke          George         6    M                                  Ky
+ 11  199  199 McAllister     Gabriel        38   M         Farmer                   Ky
+ 12  199  199 McAllister     Sarah          37   F                                  Ky
+ 13  199  199 McAllister     Nancy          12   F                                  Ky                      X
+ 14  199  199 McAllister     Horace W.      10   M                                  Ky                      X
+ 15  199  199 McAllister     Lucretia       6    F                                  Ky                      X
+ 16  199  199 McAllister     James D.       2    M                                  Ky
+ 17  199  199 Richardson     Mary           65   F                                  Virginia
+ 18  200  200 McAllister     Alex           35   M         Farmer         1,225     Ky
+ 19  200  200 McAllister     Elizabeth      76   F                                  Virginia
+ 20  201  201 Redman         Thos. L.       60   M         Farmer         1,700     Ky
+ 21  201  201 Redman         Nancy          47   F                                  Ky                            X
+ 22  201  201 Redman         Dorothy I.     25   F                                  Ky                            X
+ 23  201  201 Redman         Margaret       20   F                                  Ky                            X
+ 24  201  201 Redman         Peter          15   M         Farmer                   Ky
+ 25  201  201 Redman         John           13   M                                  Ky
+ 26  201  201 Redman         Nicholas       13   M                                  Ky
+ 27  201  201 Redman         Nancy          9    F                                  Ky
+ 28  201  201 Redman         Thomas         8    M                                  Ky
+ 29  201  201 Redman         James          7    M                                  Ky
+ 30  201  201 Redman         Mary           5    F                                  Ky
+ 31  201  201 Redman         Catharine      3    F                                  Ky
+ 32  202  202 More           Martin         25   M         Farmer                   Ky                            X
+ 33  202  202 More           Rebecca        23   F                                  Ky                            X
+ 34  202  202 More           Ann            3    F                                  Ky
+ 35  202  202 More           Margaret       2    F                                  Ky
+ 36  202  202 More           Nancy          3/12 F                                  Ky
+ 37  203  203 Redman         George W.      27   M         Farmer                   Ky                            X
+ 38  203  203 Redman         Phoebe         26   F                                  Ky                            X
+ 39  203  203 Redman         James          3    M                                  Ky
+ 40  203  203 Redman         Thomas         2    M                                  Ky
+ 41  203  203 Redman         Nancy          2/12 F                                  Ky
+ 42  204  204 Brown          Jeptha D.      25   M         Farmer                   Ky
+
+CENSUS YR:  1850  STATE or TERRITORY:  KY  COUNTY:  Spencer  DIVISION:  District No. 1  REEL NO:  M432-219  PAGE NO:  85a
+REFERENCE:  Enumerated on the 21st day of Aug. 1850 by Thomas Newman
+=========================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB
+=========================================================================================================================
+ 1   204  204 Brown          Anna           18   F                                  Kentucky
+                   REMARKS:  Handwritten page #169
+ 2   205  205 Greer          Milton         29   M         Farmer                   Ky
+ 3   205  205 Greer          Adeline        19   F                                  Ky
+ 4   205  205 Greer          Harriet E.     1    F                                  Ky
+ 5   206  206 Snider         John           60   M         Farmer                   Penn.
+ 6   206  206 Snider         Rhodia         42   F                                  Unknown                       X
+ 7   207  207 Crafton        Bennett        60   M         Farmer                   Ky                            X
+ 8   207  207 Crafton        Martha         41   F                                  N. Carolina                   X
+ 9   207  207 Crafton        Sarah A.       16   F                                  Ky
+ 10  207  207 Crafton        Aloe E.        8    F                                  Ky
+                   REMARKS:  First name could be Alse or Alce
+ 11  207  207 Crafton        Tabitha        3    F                                  Ky
+ 12  207  207 Reynolds       William        64   M                                  N. Carolina                   X    X
+                   REMARKS:  Idiotic
+ 13  208  208 MaHorney       Mary           32   F                                  Ky                            X
+ 14  209  209 O'Sullivan     Timothy        34   M         Farmer                   Ireland
+ 15  209  209 O'Sullivan     Mary           33   F                                  Ireland
+ 16  209  209 O'Sullivan     Catharine      12   F                                  Ky
+ 17  209  209 O'Sullivan     John           10   M                                  Ky
+ 18  209  209 O'Sullivan     Elizabeth      8    F                                  Ky
+ 19  209  209 O'Sullivan     Johanna        6    F                                  Ky
+ 20  209  209 O'Sullivan     Timothy        3    M                                  Ky
+ 21  209  209 O'Sullivan     Mary           5/12 F                                  Ky
+ 22  209  209 O'Sullivan     John           6    M                                  Ky
+ 23  209  209 O'Sullivan     William        4    M                                  Ky
+ 24  210  210 Newton         John           50   M         Farmer                   Ky
+ 25  210  210 Newton         Elizabeth      46   F                                  Virginia
+ 26  210  210 Newton         Elizabeth      14   F                                  Ky
+ 27  210  210 Newton         Joseph T.      12   M                                  Ky
+ 28  210  210 Browning       Maria D.       4    F                                  Ky
+ 29  211  211 McKenna        John           52   M         Farmer         730       Ireland
+ 30  211  211 McKenna        Sarah          38   F                                  Ireland
+ 31  211  211 McKenna        James          13   M                                  Penn.
+ 32  211  211 McKenna        Mary J.        12   F                                  Penn.
+ 33  211  211 McKenna        Richard        4    M                                  Ky
+ 34  212  212 Cook           William        45   M         Farmer         1,000     Ky
+                   REMARKS:  Variant surname spelling from spouse
+ 35  212  212 Cooke          Sarah          49   F                                  Ky
+                   REMARKS:  Variant surname spelling from head of household
+ 36  212  212 Cooke          Richard        21   M         Farmer                   Ky                            X
+ 37  212  212 Cooke          Mary           18   F                                  Ky
+ 38  212  212 Cooke          William        16   M         Laborer                  Ky
+ 39  212  212 Cooke          Jordan         14   M                                  Ky
+ 40  212  212 Cooke          George         11   M                                  Ky
+ 41  212  212 Cooke          Elizabeth      9    F                                  Ky
+ 42  212  212 Cooke          Matilda        7    F                                  Ky
+
+CENSUS YR:  1850  STATE or TERRITORY:  KY  COUNTY:  Spencer  DIVISION:  District No. 1  REEL NO:  M432-219  PAGE NO:  85b
+REFERENCE:  Enumerated on the 22nd day of Aug. 1850 by Thos. Newman
+=========================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB
+=========================================================================================================================
+ 1   212  212 Cooke          Hardin         24   M         Laborer                  Kentucky
+ 2   212  212 Cooke          Elisabeth      18   F                                  Ky
+ 3   213  213 Lankford       Isaac          37   M         Farmer         400       Ky
+                   REMARKS:  Age could be 30 or 36
+ 4   213  213 Lankford       Elizabeth      45   F                                  Ky                            X
+ 5   213  213 Lankford       Larkin         22   M         Farmer                   Ky                            X
+ 6   213  213 Lankford       William        21   M         Farmer                   Ky                            X
+ 7   213  213 Lankford       Isaac          16   M         Farmer                   Ky
+ 8   213  213 Lankford       John           14   M                                  Ky
+ 9   213  213 Lankford       Jane           12   F                                  Ky                      X
+ 10  213  213 Lankford       Sarah          10   F                                  Ky
+ 11  213  213 Lankford       Benj. T.       5    M                                  Ky
+ 12  214  214 Cotton         William        28   M         Farmer                   Ky                            X
+ 13  214  214 Cotton         Melinda        25   F                                  Ky                            X
+ 14  214  214 Cotton         Mary E.        8    F                                  Ky                      X
+ 15  214  214 Cotton         Eliza I.       5    F                                  Ky
+ 16  214  214 Cotton         Isaac L.       2    M                                  Ky
+ 17  215  215 McDonald       John           75   M         Farmer                   Ireland
+ 18  215  215 McDonald       Nancy          60   F                                  Scotland
+ 19  215  215 McDonald       Margaret       24   F                                  Ky
+ 20  215  215 Jones          Catharine      31   F                                  Ky
+ 21  215  215 Jones          Cleopatra      11   M                                  Ky
+ 22  215  215 Jones          Augustus       9    M                                  Ky
+ 23  215  215 Jones          Josephine      6    F                                  Ky
+ 24  216  216 O'Sullivan     Jeremiah       30   M         Farmer                   Ireland
+ 25  216  216 O'Sullivan     Elizabeth      25   F                                  Ky
+ 26  216  216 O'Sullivan     John W.        5/12                                    Ky
+ 27  217  217 Williams       H. D.          26   M         Laborer                  Ky                            X
+ 28  217  217 Williams       Almeda F.      25   F                                  Ky                            X
+ 29  217  217 Williams       Marion         4    M                                  Ky
+ 30  217  217 Williams       Eliza F.       2    F                                  Ky
+ 31  218  218 Cooke          Joseph         35   M         Farmer         1,200     Ky                            X
+ 32  218  218 Cooke          Margaret       38   F                                  Ky
+ 33  218  218 Cooke          Matilda        8    F                                  Ky
+ 34  218  218 Cooke          Margaret       7    F                                  Ky
+ 35  218  218 Cooke          Jonah T.       4    M                                  Ky
+ 36  218  218 Cooke          Mary J.        2    F                                  Ky
+ 37  219  219 Coon           John           32   M         Farmer         400       Ky
+ 38  219  219 Coon           Mary           21   F                                  Ky                            X
+ 39  219  219 Coon           George W.      1    M                                  Ky
+ 40  220  220 Davis          Eliza          42   F                                  Ky
+ 41  220  220 Davis          Lemuel         27   M         Farmer                   Ky
+                   REMARKS:  Age could be 37
+ 42  220  220 Davis          James H.       25   M         Farmer                   Ky
+
+CENSUS YR:  1850  STATE or TERRITORY:  KY  COUNTY:  Spencer  DIVISION:  District No. 1  REEL NO:  M432-219  PAGE NO:  86a
+REFERENCE:  Enumerated the 23rd day of Aug. 1850 by Thos. Newman
+=========================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB
+=========================================================================================================================
+ 1   220  220 Davis          Melissa        18   F                                  Kentucky
+ 2   220  220 Davis          Harriet M.     16   F                                  Ky
+ 3   220  220 Lankford       Stephen        35   M         Farmer                   Ky                            X
+ 4   221  221 Lewis          A. L.          50   M         Inn Keeper               Virginia
+ 5   221  221 Lewis          Caroline       45   F                                  Maryland
+ 6   221  221 Lewis          C. S.          21   F                                  Ky
+ 7   221  221 Lewis          U. C.          19   F                                  Ky
+ 8   221  221 Lewis          Susan M.       16   F                                  Ky
+ 9   221  221 Lewis          Henry H.       12   M                                  Ky
+ 10  221  221 Lewis          C. D.          10   M                                  Ky
+ 11  221  221 Lewis          Mary C.        9    F                                  Ky
+ 12  221  221 Lewis          A. G.          4    M                                  Ky
+ 13  222  222 Watson         John           38   M         Farmer         700       Ky
+ 14  222  222 Watson         Elizabeth      30   F                                  Ky
+ 15  222  222 Watson         Sarah E.       13   F                                  Ky
+ 16  222  222 Watson         Basil          10   M                                  Ky
+ 17  222  222 Watson         Alexander      7    M                                  Ky
+ 18  222  222 Watson         Mary Jane      4    F                                  Ky
+ 19  222  222 Watson         Letitia        1    F                                  Ky
+ 20  223  223 Milton         Thomas         39   M         Farmer                   Ky
+ 21  223  223 Milton         Mildred        35   F                                  Ky
+ 22  223  223 Milton         Zach'a G.      19   M         Farmer                   Ky                      X
+ 23  223  223 Milton         William M.     11   M                                  Ky                      X
+ 24  224  224 Terrell        Oliver         35   M         Farmer                   Ky
+ 25  224  224 Terrell        Louisa         32   F                                  Ky
+ 26  224  224 Terrell        Ann            13   F                                  Ky                      X
+ 27  224  224 Terrell        Elizabeth      6    F                                  Ky
+ 28  224  224 Terrell        Mildred        5    F                                  Ky
+ 29  224  224 Terrell        Micajah        3    M                                  Ky
+ 30  224  224 Terrell        Nancy          1    F                                  Ky
+ 31  224  224 Terrell        Lidonia        1/12 F                                  Ky
+ 32  224  224 Herndon        James          36   M         Laborer                  Ky                            X
+ 33  225  225 Reynolds       Greenbury      45   M         Farmer                   N. Carolina                   X
+ 34  225  225 Reynolds       Nancy          44   F                                  Ky
+ 35  225  225 Reynolds       William C.     22   M         Farmer                   Ky
+ 36  225  225 Reynolds       Mitchell P.    20   M         Farmer                   Ky
+ 37  225  225 Reynolds       Harriet        17   F                                  Ky
+ 38  225  225 Reynolds       Dainsel        15   F                                  Ky
+ 39  225  225 Reynolds       Leaven G.      13   M                                  Ky
+ 40  225  225 Reynolds       Nancy          7    F                                  Ky
+ 41  225  225 Reynolds       Henry L.       3    M                                  Ky
+ 42  225  225 Reynolds       Margaret       2/12 F                                  Ky
+
+CENSUS YR:  1850  STATE or TERRITORY:  KY  COUNTY:  Spencer  DIVISION:  District No. 1  REEL NO:  M432-219  PAGE NO:  86b
+REFERENCE:  Enumerated the 23rd day of Aug. 1850 by Thos. Newman
+=========================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB
+=========================================================================================================================
+ 1   226  226 Heady          Vincent        48   M         Farmer         700       Kentucky
+ 2   226  226 Heady          Hannah         46   F                                  Ky
+ 3   226  226 Heady          Thomas         22   M         Farmer                   Ky                            X
+ 4   226  226 Heady          Nancy          18   F                                  Ky
+ 5   226  226 Heady          John           15   M         Farmer                   Ky
+ 6   226  226 Heady          Susan          13   F                                  Ky
+ 7   226  226 Heady          George         10   M                                  Ky
+ 8   226  226 Heady          Hannah         8    F                                  Ky
+ 9   226  226 Heady          Frances        4    F                                  Ky
+ 10  226  226 Heady          Eliza F.       1    F                                  Ky
+ 11  227  227 Smiley         William        27   M         Farmer                   Ky
+ 12  227  227 Smiley         Sarah A.       25   F                                  Ky                            X
+ 13  227  227 Smiley         James          6    M                                  Ky
+ 14  227  227 Smiley         Emeline        5    F                                  Ky
+ 15  227  227 Smiley         Stillwell H.   4    M                                  Ky
+ 16  227  227 Smiley         Susan          1    F                                  Ky
+ 17  227  227 Smiley         John W.        2/12 M                                  Ky
+ 18  227  227 Smiley         Mark E.        2/12 M                                  Ky
+                   REMARKS:  "Twin" not indicated by enumerator as earlier in census
+ 19  228  228 Hagerman       Tunis          30   M         Farmer         250       Ky                            X
+ 20  228  228 Hagerman       Mary           25   F                                  Ky                            X
+ 21  228  228 Hagerman       Sarah E.       3    F                                  Ky
+ 22  229  229 Love           Inmius A.      33   M         Farmer                   Ky
+                   REMARKS:  First name difficult; above interpretation suspicious
+ 23  229  229 Love           Elizabeth      25   F                                  Ky
+ 24  229  229 Love           Susan M.       5    F                                  Ky
+ 25  229  229 Love           John H.        4    M                                  Ky
+ 26  229  229 Love           Sarah M.       8/12 F                                  Ky
+ 27  229  229 Suttler        Sarah          51   F                                  Ky
+ 28  230  230 Morgan         Reuben         32   M         Cabinet Maker            Ky
+ 29  230  230 Morgan         Parthena       25   F                                  Ky                            X
+ 30  230  230 Morgan         Cassa A.       4    F                                  Ky
+ 31  230  230 Morgan         Eliza J.       1    F                                  Ky
+ 32  231  231 Heady          James F.       37   M         Farmer                   Ky                            X
+ 33  231  231 Heady          Elizabeth      29   F                                  Ky                            X
+ 34  231  231 Heady          Elizabeth      13   F                                  Ky
+ 35  231  231 Heady          Nathan L.      10   M                                  Ky
+ 36  231  231 Heady          Susan C.       6    F                                  Ky
+ 37  231  231 Heady          Thomas         4    M                                  Ky
+ 38  232  232 McAllister     John           59   M         Farmer                   Ky
+ 39  232  232 McAllister     Thursday       49   F                                  Ky
+ 40  232  232 McAllister     Amanda F.      19   F                                  Ky
+ 41  232  232 McAllister     Moses H.       21   M         Farmer                   Ky
+ 42  232  232 McAllister     Hannah         16   F                                  Ky
+
+CENSUS YR:  1850  STATE or TERRITORY:  KY  COUNTY:  Spencer  DIVISION:  District No. 1  REEL NO:  M432-219  PAGE NO:  87a
+REFERENCE:  Enumerated on the 24th day of Aug. 1850
+=========================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB
+=========================================================================================================================
+ 1   232  232 McAllister     John H.        13   M                                  Ky
+ 2   232  232 McAllister     Gabriel        10   M                                  Ky
+ 3   232  232 McAllister     Martha         8    F                                  Ky
+ 4   233  233 McAllister     R. P.          30   M         Blacksmith               Ky
+ 5   233  233 McAllister     Lucinda        20   F                                  Ky                            X
+ 6   233  233 McAllister     William J.     1    F                                  Ky
+                   REMARKS:  Probably gender error
+ 7   233  233 Whitaker       John Y.        28   M         Laborer                  Ky                            X
+ 8   234  234 Cotton         Henry          31   M         Farmer                   Ky                            X
+ 9   234  234 Cotton         Elizabeth      28   F                                  Ky
+ 10  234  234 Cotton         Mary E.        10   F                                  Ky
+ 11  234  234 Cotton         Adeline        8    F                                  Ky
+ 12  234  234 Cotton         Nancy          6    F                                  Ky
+ 13  234  234 Cotton         Squire         5    M                                  Ky
+ 14  234  234 Cotton         Letitia        2    F                                  Ky
+ 15  234  234 Cotton         Margaret A.    1    F                                  Ky
+ 16  235  235 Lankford       A. J.          27   M         Farmer         500       Ky
+ 17  235  235 Lankford       Emily          26   F                                  Ky                            X
+ 18  235  235 Lankford       John G.        6    M                                  Ky
+ 19  235  235 Lankford       Louisa         4    F                                  Ky
+ 20  235  235 Lankford       Richard        7/12 M                                  Ky
+ 21  235  235 Cotton         Robert         73   M         Farmer                   Unknown
+ 22  236  236 McAllister     Sarah          49   F                        2,300     Ky                            X
+ 23  236  236 McAllister     Martha         22   F                                  Ky                            X
+ 24  236  236 McAllister     Charity        20   F                                  Ky
+ 25  236  236 McAllister     Robert         14   M                                  Ky
+ 26  236  236 McAllister     Mary I.        13   F                                  Ky
+ 27  237  237 Moffitt        William        58   M         Farmer         1,000     Ky
+ 28  237  237 Moffitt        Henry          48   M         Farmer                   Ky
+ 29  238  238 Davis          Sarah          44   F                                  Ky                            X
+ 30  238  238 Davis          John           23   M         Laborer                  Ky
+ 31  239  239 Davis          William        26   M         Laborer                  Ky                            X
+ 32  239  239 Davis          Elizabeth      27   F                                  Ky
+ 33  239  239 Davis          John R.        2    M                                  Ky
+ 34  239  239 Davis          Sarah          1    F                                  Ky
+ 35  239  239 Davis          James S.       1/12 M                                  Ky
+ 36  240  240 McCarty        William T.     34   M         Laborer                  Ky                            X
+ 37  240  240 McCarty        Rebecca        26   F                                  Ky                            X
+ 38  240  240 McCarty        Mary B.        1    F                                  Ky
+ 39  241  241 Taylor         Zachariah      46   M         Farmer         800       Ky
+ 40  241  241 Taylor         Susan          41   F                                  Virginia
+ 41  241  241 Taylor         John           18   M         Farmer                   Ky
+ 42  241  241 Taylor         Levina         15   F                                  Ky                      X
+
+CENSUS YR:  1850  STATE or TERRITORY:  KY  COUNTY:  Spencer  DIVISION:  District No. 1  REEL NO:  M432-219  PAGE NO:  87b
+REFERENCE:  Enumerated on the 24th day of Aug. 1850 by Thos. Newman
+=========================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB
+=========================================================================================================================
+ 1   241  241 Taylor         Charles        10   M                                  Kentucky                X     X
+ 2   241  241 Taylor         Joseph         8    M                                  Ky                      X
+ 3   241  241 Taylor         Robert         5    M                                  Ky
+ 4   241  241 Taylor         Zachariah      1    M                                  Ky
+ 5   241  241 Hughes         Joseph         24   M         Laborer                  Ky
+ 6   241  241 Hughes         Lucinda        19   F                                  Ky
+ 7   242  242 Stewart        James          62   M         Farmer         1,300     Virginia
+ 8   242  242 Stewart        Mildred        58   F                                  Virginia                      X
+ 9   242  242 Stewart        Harriet        17   F                                  Ky
+ 10  242  242 Stewart        Alexander      12   M                                  Ky
+ 11  243  243 Stewart        Anderson       32   M         Laborer                  Ky
+ 12  243  243 Stewart        Nancy          26   F                                  Ky                            X
+ 13  243  243 Stewart        Lucy Ann       1    F                                  Ky
+ 14  244  244 Nevitt         Joseph         32   M         Farmer         600       Ky                            X
+ 15  244  244 Greenwell      William        16   M         Farmer                   Ky
+ 16  245  245 Eggen          Calzer         33   M         Farmer                   Penn.
+ 17  245  245 Eggen          Sarah          30   F                                  Ky
+ 18  245  245 Eggen          William L.     8    M                                  Ky
+ 19  245  245 Eggen          Mary C.        5    F                                  Ky
+ 20  245  245 Eggen          Matthias       3    M                                  Ky
+ 21  245  245 Gough          Geo. W.        29   M         Laborer                  Ky                            X
+ 22  246  246 May            Stephen        58   M         None           5,190     Ky
+ 23  246  246 May            Elizabeth      53   F                                  Virginia
+ 24  246  246 May            Berkley        28   M         Farmer                   Ky
+ 25  246  246 May            Johnathan      21   M         Farmer                   Ky
+ 26  246  246 May            Susan          17   F                                  Ky
+ 27  246  246 Churchill      Catharine      75   F                                  Virginia
+ 28  247  247 Martin         James          37   M         Nurseryman     1,000     Ky
+ 29  247  247 Martin         Frances        28   F                                  Ky
+ 30  247  247 Martin         James C.       2    M                                  Ky
+ 31  247  247 Turnham        Sarah          57   F                                  Virginia
+ 32  247  247 Turnham        Sarah A.       20   F                                  Ky
+ 33  247  247 Turnham        Rufus P.       17   M         Farmer                   Ky
+ 34  248  248 Russell        Samuel         26   M         Farmer         2,600     Ky
+ 35  248  248 Russell        Frances        25   F                                  Ky
+ 36  248  248 Russell        William H.     1    M                                  Ky
+ 37  249  249 Drake          Benj.          31   M         Farmer         500       Ky
+ 38  249  249 Drake          Emily          30   F                                  Ky
+ 39  250  250 Bennett        Samuel         60   M         Farmer         1,500     Virginia
+ 40  250  250 Bennett        Isabel         52   F                                  Ky
+ 41  250  250 Bennett        William        20   M         Farmer                   Ky
+ 42  250  250 Bennett        Susan          16   F                                  Ky                      X
+
+CENSUS YR:  1850  STATE or TERRITORY:  KY  COUNTY:  Spencer  DIVISION:  District No. 1  REEL NO:  M432-219  PAGE NO:  88a
+REFERENCE:  Enumerated on the 26th day of Aug. 1850 by Thos. Newman
+=========================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB
+=========================================================================================================================
+ 1   250  250 Bennett        James          13   M                                  Kentucky
+ 2   251  251 Eaton          Johnathan      49   M         Farmer         1,500     N. Carolina
+ 3   251  251 Eaton          Elizabeth      47   F                                  Ky
+ 4   251  251 Eaton          James          11   M                                  Ky                      X
+ 5   251  251 Eaton          Ruth A.        9    F                                  Ky                      X
+ 6   251  251 Eaton          John W.        6    M                                  Ky                      X
+ 7   251  251 Smallwood      Emeline        19   F                                  Ky                      X
+ 8   252  252 Linderman      Sam'l          47   M         Farmer         3,744     Ky
+ 9   252  252 Linderman      Margery        47   F                                  Ky
+ 10  252  252 Linderman      Deborah        17   F                                  Ky                      X
+ 11  252  252 Linderman      Abraham        15   M         Farmer                   Ky                      X
+ 12  252  252 Linderman      Emmerine       14   F                                  Ky                      X
+ 13  252  252 Linderman      John S.        13   M                                  Ky                      X
+ 14  252  252 Linderman      Henry R.       11   M                                  Ky                      X
+ 15  252  252 Linderman      Virginia       10   F                                  Ky                      X
+ 16  252  252 Linderman      Mary S.        5    F                                  Ky                      X
+ 17  252  252 Linderman      Zachary T.     2    M                                  Ky
+ 18  253  253 Watson         Joseph F.      29   M         Farmer         1,500     Ky
+ 19  253  253 Watson         Martha A.      23   F                                  Ky
+ 20  253  253 Watson         Sarah O.       1    F                                  Ky
+ 21  254  254 Hardesty       Susannah       83   F                        1,800     Penn.                         X
+ 22  254  254 Hardesty       Henry          56   M         None                     Ky
+ 23  255  255 Hardesty       W. R.          37   M         Farmer         1,000     Ky
+ 24  255  255 Hardesty       Eliza          36   F                                  Ky
+ 25  255  255 Hardesty       Mariah         18   F                                  Ky
+ 26  255  255 Hardesty       Joshua         16   M         Farmer                   Ky
+ 27  255  255 Hardesty       Caleb          14   M                                  Ky
+ 28  255  255 Hardesty       Shelburne      12   M                                  Ky
+ 29  255  255 Hardesty       Susan          11   F                                  Ky
+ 30  255  255 Hardesty       William M.     7    M                                  Ky
+ 31  255  255 Hardesty       Amelia F.      5    F                                  Ky
+ 32  255  255 Hardesty       Melinda        2    F                                  Ky
+ 33  256  256 Green          Thos. D.       28   M         Farmer         5,325     Ky
+ 34  256  256 Green          Eliz. A.       22   F                                  Ky
+ 35  256  256 Green          Margaret E.    6    F                                  Ky                      X
+ 36  256  256 Green          Henry A.       4    M                                  Ky                      X
+ 37  256  256 Green          Susan M.       7/12 F                                  Ky
+ 38  256  256 Birkley        Melinda        19   F                                  Ky
+ 39  256  256 Birkley        Pressley M.    9    M                                  Ky                      X
+ 40  257  257 Wells          Newman         54   M         Farmer         930       Virginia
+ 41  257  257 Wells          Elizabeth      46   F                                  Ky
+ 42  257  257 Wells          Elizabeth      18   F                                  Ky
+
+CENSUS YR:  1850  STATE or TERRITORY:  KY  COUNTY:  Spencer  DIVISION:  District No. 1  REEL NO:  M432-219  PAGE NO:  88b
+REFERENCE:  Enumerated on the 27th day of Aug. 1850 by Thos. Newman
+=========================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB
+=========================================================================================================================
+ 1   257  257 Wells          Isabel         16   F                                  Kentucky                X
+ 2   257  257 Wells          Alex           14   M                                  Ky                      X
+ 3   257  257 Wells          Emily          11   F                                  Ky                      X
+ 4   257  257 Wells          Benj.          4    M                                  Ky
+ 5   258  258 Beam           Thomas         46   M         Farmer         4,000     Ky                            X
+ 6   258  258 Beam           Mary           36   F                                  Ky
+ 7   258  258 Beam           Isaac          14   M                                  Ky                      X
+ 8   258  258 Beam           John           12   M                                  Ky                      X
+ 9   258  258 Trainer        James          23   M         Laborer                  Ireland
+ 10  259  259 Truaxe         Obadiah        43   M         Farmer         3,300     Ky                            X
+ 11  259  259 Truaxe         Rachael        42   F                                  Ky                            X
+ 12  259  259 Truaxe         William J.     22   M         Farmer                   Ky
+ 13  259  259 Truaxe         Zebulon        21   M         Farmer                   Ky
+ 14  259  259 Truaxe         Elizabeth      17   F                                  Ky
+ 15  259  259 Truaxe         John L.        15   M         Farmer                   Ky                      X
+ 16  259  259 Truaxe         Sarah A.       13   F                                  Ky                      X
+ 17  259  259 Truaxe         Margaret       10   F                                  Ky
+ 18  259  259 Truaxe         Obadiah        8    M                                  Ky
+ 19  259  259 Truaxe         Rebecca        6    F                                  Ky
+ 20  259  259 Truaxe         Stillwell H.   4    M                                  Ky
+ 21  260  260 McClaskey      John           40   M         Farmer         4,000     Ky
+ 22  260  260 McClaskey      Rebecca        21   F                                  Ky
+ 23  260  260 McClaskey      Joseph W.      3    M                                  Ky
+ 24  260  260 McClaskey      Mary J.        2/12 F                                  Ky
+ 25  261  261 May            Henry          39   M         Farmer         2,000     Ky
+ 26  261  261 May            Sarah J.       34   F                                  Ky
+ 27  261  261 May            Salina         15   F                                  Ky                      X
+ 28  261  261 May            Mary A.        10   F                                  Ky
+ 29  261  261 May            Aaron H.       7    M                                  Ky                      X
+ 30  261  261 May            Jemima E.      5    F                                  Ky
+ 31  261  261 May            Mitchell B.    1    M                                  Ky
+ 32  262  262 Tichenor       Albert         27   M         Miller         2,000     Ky
+ 33  262  262 Tichenor       Elizabeth      19   F                                  Ky
+ 34  262  262 Tichenor       William T.     7/12 M                                  Ky
+ 35  263  263 Stone          Eli            38   M         Farmer         3,864     Ky
+ 36  263  263 Stone          Melinda        32   F                                  Ky
+ 37  263  263 May            Weir S.        25   M         Laborer                  Ky
+ 38  263  263 Ward           William        12   M                                  Ky
+ 39  264  264 Dews           Thomas         64   M         Farmer         600       Virginia
+ 40  264  264 Dews           Elizabeth      52   F                                  Virginia
+ 41  264  264 Dews           Jane E.        25   F                                  Ky
+ 42  264  264 Dews           Cynthia A.     23   F                                  Ky
+
+CENSUS YR:  1850  STATE or TERRITORY:  KY  COUNTY:  Spencer  DIVISION:  District No. 1  REEL NO:  M432-219  PAGE NO:  89a
+REFERENCE:  Enumerated the 30th day of Aug. 1850 by Thos. Newman
+=========================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB
+=========================================================================================================================
+ 1   264  264 Dews           Mary E.        19   F                                  Kentucky                X
+                   REMARKS:  Handwritten page #171
+ 2   264  264 Dews           Phoebe         16   F                                  Ky                      X
+ 3   264  264 Dews           John           13   M                                  Ky
+ 4   264  264 Dews           George         13   M                                  Ky
+ 5   265  265 Dews           Samuel         30   M         Saddler        500       Ky
+ 6   265  265 Dews           Thos. J.       28   M         Saddler                  Ky
+ 7   265  265 Dews           William J.     22   M         Farmer         2,000     Ky
+ 8   266  266 Edelen         Lewis          57   M         Farmer         3,000     Maryland
+ 9   266  266 Edelen         Dorothy        58   F                                  Maryland
+ 10  266  266 Edelen         John T.        20   M         Farmer                   Ky
+ 11  266  266 Edelen         Eveline        11   F                                  Ky
+ 12  266  266 Brown          Mary A.        27   F                                  Ky
+ 13  266  266 Brown          Bartholomew    5    M                                  Ky
+ 14  266  266 Brown          Mary O.        3    F                                  Ky
+ 15  266  266 Edelen         George A.      23   M         Farmer                   Ky
+ 16  266  266 Edelen         Rosella        18   F                                  Ky
+ 17  267  267 Harrell        Leo            26   M         Farmer         1,710     Ky
+ 18  267  267 Harrell        Rachael        59   F                                  N. Carolina
+ 19  267  267 Harrell        Lydia A.       30   F                                  Ky
+ 20  267  267 Harrell        Mary S.        19   F                                  Ky
+ 21  267  267 Richie         Sally          56   F                                  Ky                                 X
+                   REMARKS:  "Pauper"
+ 22  268  268 Porter         Samuel         30   M         Miller         4,000     Ky
+ 23  268  268 Porter         Ethilinda      21   F                                  Ky
+ 24  268  268 Porter         Mary E.        5    F                                  Ky
+ 25  268  268 Porter         Joseph D.      3    M                                  Ky
+ 26  268  268 Porter         Arabella       6/12 F                                  Ky
+ 27  268  268 McMullin       Daniel         26   M         Miller                   Ky
+ 28  268  268 Sutt           Christopher    30   M         Laborer                  Ky
+ 29  268  268 Alsop          Anderson       19   M         Laborer                  Ky
+ 30  268  268 Wells          Benj.          20   M         Laborer                  Ky
+ 31  269  269 Dennis         Henry          41   M         Farmer         10,400    Ky
+ 32  269  269 Dennis         Frances        35   F                                  Ky
+ 33  269  269 Dennis         James          17   M         Student                  Ky                      X
+ 34  269  269 Dennis         Annie E.       8    F                                  Ky
+ 35  269  269 Dennis         Mary E.        6    F                                  Ky
+ 36  269  269 Dennis         Lydia A.       3    F                                  Ky
+ 37  270  270 Newman         Geo. W.        41   M         Cooper         1,150     Ky
+ 38  270  270 Newman         Mary M.        39   F                                  Ky
+ 39  270  270 Newman         William J.     12   M         Laborer                  Ky
+                   REMARKS:  Age difficult to read; could be 13
+ 40  270  270 Newman         Eliza E.       13   F                                  Ky                      X
+ 41  270  270 Newman         John H.        11   M                                  Ky                      X
+ 42  270  270 Newman         Benjamin       9    M                                  Ky
+
+CENSUS YR:  1850  STATE or TERRITORY:  KY  COUNTY:  Spencer  DIVISION:  District No. 1  REEL NO:  M432-219  PAGE NO:  89b
+REFERENCE:  Enumerated on the 2nd day of Sept. 1850 by Thos. Newman
+=========================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB
+=========================================================================================================================
+ 1   270  270 Newman         George M.      6    M                                  Kentucky
+ 2   270  270 Newman         Frances L.     3    M                                  Ky
+ 3   270  270 Newman         Albert T.      1    M                                  Ky
+ 4   271  271 Watson         Thos. S.       59   M         Farmer         2,100     Virginia
+ 5   271  271 Watson         Sarah          63   F                                  Virginia
+ 6   271  271 Watson         Samuel         26   M         Farmer                   Ky
+ 7   271  271 Watson         William        24   M                                  Ky
+ 8   271  271 Watson         Benjamin       23   M                                  Ky
+ 9   272  272 Webster        William B.     57   M         Farmer         400       Virginia
+ 10  272  272 Webster        Jeanette       49   F                                  Virginia
+ 11  272  272 Webster        Caroline       19   F                                  Virginia
+ 12  272  272 Webster        Jackson        15   M         Farmer                   Ky
+ 13  272  272 Webster        Richard        10   M                                  Ky
+ 14  272  272 Webster        Mary F.        12   F                                  Ky
+ 15  273  273 Jennings       Lewis          70   M         Farmer         800       Virginia
+ 16  273  273 Jennings       Mary           65   F                                  Ky
+ 17  273  273 Jennings       Nancy          42   F                                  Ky
+ 18  273  273 Jennings       Susan          33   F                                  Ky
+ 19  273  273 Jennings       Caleb          30   M         Laborer                  Ky
+ 20  273  273 Jennings       Sarah A.       26   F                                  Ky
+ 21  274  274 Middleton      Adam           45   M         Farmer         2,460     Ky
+ 22  274  274 Middleton      Martha         33   F                                  Ky
+ 23  274  274 Middleton      James          10   M                                  Ky                      X
+ 24  274  274 Middleton      David          7    M                                  Ky                      X
+ 25  274  274 Middleton      Robert         5    M                                  Ky
+ 26  274  274 Middleton      Adam           1    M                                  Ky
+ 27  274  274 Sweasey        Wiley          24   M         Laborer                  Ky
+ 28  275  275 Heady          Lynne          43   M         Farmer         4,000     Ky
+ 29  275  275 Heady          Mary E.        35   F                                  Ky
+ 30  275  275 Heady          Thos. M.       15   M         Farmer                   Ky
+ 31  275  275 Heady          Michael H.     13   M                                  Ky
+ 32  275  275 Heady          Elizabeth M.   13   F                                  Ky
+ 33  275  275 Heady          Joseph         11   M                                  Ky
+ 34  275  275 Heady          George S.      9    M                                  Ky
+ 35  275  275 Heady          Charles        5    M                                  Ky
+ 36  275  275 Heady          Elisa          5    F                                  Ky
+ 37  275  275 Heady          Mary           4/12 F                                  Ky
+ 38  276  276 Snider         John           36   M         Farmer                   Ky
+ 39  276  276 Snider         Mary A.        35   F                                  Ky
+ 40  276  276 Snider         Jacob          11   M                                  Ky
+ 41  276  276 Snider         Richard        10   M                                  Ky
+ 42  276  276 Snider         Jefferson      8    M                                  Ky
+
+CENSUS YR:  1850  STATE or TERRITORY:  KY  COUNTY:  Spencer  DIVISION:  District No. 1  REEL NO:  M432-219  PAGE NO:  90a
+REFERENCE:  Enumerated on the 2nd day of Sept. 1850 by Thos. Newman
+=========================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB
+=========================================================================================================================
+ 1   276  276 Snider         Jane           4    F                                  Kentucky
+ 2   276  276 Snider         Mary A.        2    F                                  Ky
+ 3   277  277 Hougland       Abraham        58   M         Farmer         5,440     Ky
+ 4   277  277 Hougland       Elizabeth      32   F                                  Ky
+ 5   277  277 Hougland       Amos           26   M         Farmer                   Ky
+ 6   277  277 Hougland       Joseph         24   M         Farmer                   Ky
+ 7   277  277 Hougland       James          22   M         Farmer                   Ky
+ 8   277  277 Hougland       Elizabeth      20   F                                  Ky
+ 9   277  277 Hougland       Martha A.      18   F                                  Ky
+ 10  277  277 Hougland       John           16   M         Farmer                   Ky
+ 11  277  277 Hougland       Abraham        14   M                                  Ky
+ 12  277  277 Hougland       Westley        12   M                                  Ky                      X
+ 13  277  277 Hougland       Jacob          10   M                                  Ky                      X
+ 14  277  277 Hougland       Johnathan      8    M                                  Ky
+ 15  278  278 Ramsey         Joseph         42   M         Farmer                   Ky
+ 16  278  278 Ramsey         Melinda        38   F                                  Ky
+ 17  278  278 Ramsey         Elizabeth      14   F                                  Ky                      X
+ 18  278  278 Ramsey         William        8    M                                  Ky                      X
+ 19  278  278 Ramsey         Susan L.       4    F                                  Ky
+ 20  278  278 Ramsey         Colman         1    M                                  Ky
+ 21  279  279 Snider         George W.      44   M         Farmer         5,096     Ky
+ 22  279  279 Snider         Ruth           39   F                                  Ky
+ 23  279  279 Snider         James          18   M         Farmer                   Ky
+ 24  279  279 Snider         Jacob          16   M         Farmer                   Ky                      X
+ 25  279  279 Snider         John           15   M         Farmer                   Ky
+ 26  279  279 Snider         Malvina        14   F                                  Ky                      X
+ 27  279  279 Snider         George W.      13   M                                  Ky                      X
+ 28  279  279 Snider         Eli            11   M                                  Ky                      X
+ 29  279  279 Snider         Elizabeth      9    F                                  Ky                      X
+ 30  279  279 Snider         Henry Clay     5    M                                  Ky
+ 31  279  279 Snider         Winfield Scott 3    M                                  Ky
+ 32  279  279 Snider         Adelaide       6/12 F                                  Ky
+ 33  279  279 Snider         Elizabeth      92   F                                  Unknown
+ 34  279  279 White          Emeline        22   F                                  Ky
+ 35  280  280 Martin         Spear          38   M         Farmer         2,000     Ky
+ 36  280  280 Martin         Virginia       33   F                                  Ky
+ 37  280  280 Martin         William        15   M         Farmer                   Ky
+ 38  280  280 Martin         Frances        7    F                                  Ky
+ 39  280  280 Martin         John G.        5    M                                  Ky
+ 40  280  280 Martin         Spear          1    M                                  Ky
+ 41  281  281 Clarke         Sarah          71   F                        14,328    Virginia
+ 42  281  281 Clarke         John S.        45   M                                  Ky
+
+CENSUS YR:  1850  STATE or TERRITORY:  KY  COUNTY:  Spencer  DIVISION:  District No. 1  REEL NO:  M432-219  PAGE NO:  90b
+REFERENCE:  Enumerated on the 2nd day of Sept. by Thos. Newman
+=========================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB
+=========================================================================================================================
+ 1   281  281 Clarke         Virginia       36   F                                  Kentucky
+ 2   281  281 Clarke         Susan M.       28   F                                  Ky
+ 3   281  281 Clarke         Sarah E.       30   F                                  Ky
+ 4   281  281 Clarke         Edwin          34   M         None                     Ky                                 X
+                   REMARKS:  "Idiotic"
+ 5   281  281 Murphy         Sarah          1    F                                  Ky
+ 6   281  281 Shields        Elizabeth      86   F                                  Virginia
+ 7   282  282 Miller         Jacob          45   M         Farmer         1,500     Ky
+ 8   282  282 Miller         Harriet        35   F                                  Ky
+ 9   282  282 Miller         Marshall       17   M         Farmer                   Ky
+ 10  282  282 Miller         John           15   M         Farmer                   Ky
+ 11  282  282 Miller         Deborah        13   F                                  Ky
+ 12  282  282 Miller         James          11   M                                  Ky
+ 13  282  282 Miller         Sarah E.       9    F                                  Ky
+ 14  282  282 Miller         Ruth           2    F                                  Ky
+ 15  283  283 Herndon        John           40   M         Farmer         1,000     Ky                            X
+ 16  283  283 Herndon        Sarah          25   F                                  Ky
+ 17  283  283 Herndon        Sally          8    F                                  Ky                      X
+ 18  283  283 Herndon        Abraham        4    M                                  Ky
+ 19  283  283 Herndon        Daniel         2    M                                  Ky
+ 20  284  284 Herndon        Rebecca        68   F                                  Maryland
+ 21  284  284 Herndon        Sarah          31   F                                  Ky
+ 22  285  285 Howard         Thomas         62   M         Farmer         2,088     Ky
+ 23  286  286 Hughes         John           70   M         Farmer         3,600     Penn.
+ 24  286  286 Hughes         Nancy          65   F                                  Virginia
+ 25  286  286 Hughes         William        38   M         Farmer                   Ky
+ 26  287  287 Hughes         James          28   M         Blacksmith     350       Ky
+ 27  287  287 Hughes         Mary           27   F                                  Ky
+ 28  287  287 Hughes         Rebecca J.     1    F                                  Ky
+ 29  288  288 Hughes         Joseph         30   M         Farmer         300       Ky
+ 30  288  288 Hughes         Susan M.       25   F                                  Ky
+ 31  288  288 Hughes         Salomon        5    M                                  Ky
+ 32  288  288 Hughes         Nancy          3    F                                  Ky
+ 33  289  289 Rogers         Abraham        33   M         Farmer         600       Ky                            X
+ 34  289  289 Rogers         Albertina      40   F                                  Penn.                         X
+ 35  289  289 Rogers         John E.        14   M                                  Ky                      X
+ 36  289  289 Rogers         Eunice         12   F                                  Ky                      X
+ 37  289  289 Rogers         Andrew J.      10   M                                  Ky                      X
+ 38  289  289 Rogers         Samuel M.      7    M                                  Ky                      X
+ 39  289  289 Rogers         Thomas C.      5    M                                  Ky                      X
+ 40  289  289 Rogers         Matthias E.    2    M                                  Ky
+ 41  290  290 Rogers         Andrew         72   M         Farmer         5,000     Penn.
+ 42  290  290 Rogers         Sarah          59   F                                  Ky
+
+CENSUS YR:  1850  STATE or TERRITORY:  KY  COUNTY:  Spencer  DIVISION:  District No. 1  REEL NO:  M432-219  PAGE NO:  91a
+REFERENCE:  Enumerated the 3rd day of Sept. 1850 by Thos. Newman
+=========================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB
+=========================================================================================================================
+ 1   290  290 Rogers         Margaretta     28   F                                  Kentucky
+                   REMARKS:  Handwritten page #181
+ 2   290  290 Rogers         Sarah          16   F                                  Ky
+ 3   290  290 Rogers         John           7    M                                  Ky                      X
+ 4   291  291 Rogers         Elizabeth      67   F                        1,440     Ky                            X
+ 5   291  291 Rogers         Jane           76   F                                  Penn.                         X
+ 6   291  291 Rogers         William        31   M         Farmer                   Ky
+ 7   291  291 Rogers         Nancy          22   F                                  Unknown
+ 8   291  291 Rogers         Henry A.       1    M                                  Ky
+ 9   291  291 Hamilton       Andrew A.      24   M         Laborer                  Indiana
+ 10  292  292 Heady          Zachary T.     27   M         Farmer         2,160     Ky
+ 11  292  292 Heady          Eliz. A.       22   F                                  Ky
+ 12  292  292 Heady          Thos. M.       2    M                                  Ky
+ 13  293  293 Hughes         John           31   M         Brick Mason    870       Ky
+ 14  293  293 Hughes         Mahala         30   F                                  Ky
+ 15  293  293 Hughes         Margaret E.    11   F                                  Ky                      X
+ 16  293  293 Hughes         John           8    M                                  Ky                      X
+ 17  293  293 Hughes         Thomas         6    M                                  Ky                      X
+ 18  293  293 Hughes         Samuel         5    M                                  Ky                      X
+ 19  293  293 Hughes         Joseph         3    M                                  Ky
+ 20  293  293 Hughes         William        7/12 M                                  Ky
+ 21  294  294 Wakefield      James H.       39   M         Farmer         4,500     Ky
+ 22  294  294 Wakefield      Mary E.        39   F                                  Ireland
+ 23  294  294 Wakefield      Matthew        12   M                                  Ky                      X
+ 24  294  294 Wakefield      Marcus         7    M                                  Ky                      X
+ 25  294  294 Wakefield      John D.        4    M                                  Ky
+ 26  294  294 Wakefield      James M.       1    M                                  Ky
+ 27  295  295 Moratto        Sylvester      61   M         Farmer                   Penn.
+ 28  295  295 Moratto        Mary           60   F                                  Ky                            X
+ 29  295  295 Moratto        Susan          39   F                                  Ky
+ 30  295  295 Moratto        Isabella       29   F                                  Ky
+ 31  296  296 Deneal         John E.        45   M         Farmer         800       Virginia
+ 32  296  296 Deneal         Merial         42   F                                  Virginia
+ 33  296  296 Deneal         Eudora S.      8    F                                  Ky                      X
+ 34  296  296 Deneal         Matilda R.     7    F                                  Ky                      X
+ 35  296  296 Deneal         Virginia       5    F                                  Ky
+ 36  296  296 Deneal         Caroline L.    4    F                                  Ky
+ 37  296  296 Deneal         George Ann     2    F                                  Ky
+ 38  296  296 Davis          Harriet        20   F                                  Ky
+ 39  297  297 Wakefield      Matthew        61   M         Farmer         2,100     Ky
+ 40  297  297 Wakefield      Mary           55   F                                  Ky
+ 41  297  297 Wakefield      John           15   M         Farmer                   Ky
+ 42  298  298 Taggart        James          69   M         Farmer         2,000     Ireland
+
+CENSUS YR:  1850  STATE or TERRITORY:  KY  COUNTY:  Spencer  DIVISION:  District No. 1  REEL NO:  M432-219  PAGE NO:  91b
+REFERENCE:  Enumerated on the 4th day of Sept. 1850 by Thos. Newman
+=========================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB
+=========================================================================================================================
+ 1   298  298 Taggart        Mary           66   F                                  Ireland
+ 2   298  298 Taggart        Jane           44   F                                  Ireland
+ 3   298  298 Taggart        John           26   M         Farmer                   Ireland
+ 4   298  298 Taggart        James          10   M                                  Ky                      X
+ 5   298  298 Taggart        John           7    M                                  Ky                      X
+ 6   299  299 Russell        J. B.          29   M         Farmer         2,810     Ky
+ 7   299  299 Russell        Fanny          29   F                                  Ky
+ 8   299  299 Russell        Elizabeth      6    F                                  Ky
+ 9   299  299 Russell        George         4    M                                  Ky
+ 10  299  299 Russell        Henry          2    M                                  Ky
+ 11  299  299 Heady          Thomas         23   M         Laborer                  Ky                            X
+ 12  300  300 Brown          Samuel         54   M         Farmer         768       Ky
+ 13  300  300 Brown          Jane           69   F                                  Penn.
+ 14  300  300 Brown          Margaret       58   F                                  Ky
+ 15  300  300 Brown          Amanda         37   F                                  Ky
+ 16  300  300 Gist           Joseph         12   M                                  Ky
+ 17  301  301 Thomas         George         43   M         Farmer         200       Virginia
+ 18  301  301 Thomas         Margaret       39   F                                  Ky
+ 19  301  301 Thomas         John H.        15   M         Farmer                   Ky                      X
+ 20  301  301 Thomas         James H.       13   M                                  Ky                      X
+ 21  301  301 Thomas         Westley        11   M                                  Ky                      X
+ 22  301  301 Thomas         Benjamin       10   M                                  Ky                      X
+ 23  301  301 Thomas         Elizabeth      8    F                                  Ky                      X
+ 24  301  301 Thomas         William        6    M                                  Ky
+ 25  301  301 Thomas         George         3    M                                  Ky
+ 26  302  302 Glass          Culbertson     52   M         Farmer         3,440     Penn.
+ 27  302  302 Glass          Bridget        53   F                                  Ky
+ 28  302  302 Glass          Elizabeth      24   F                                  Ky
+ 29  302  302 Glass          James          21   M         Blacksmith               Ky
+ 30  302  302 Glass          John W.        19   M         School teacher           Ky
+ 31  302  302 Glass          Culbertson     16   M         Farmer                   Ky                      X
+ 32  302  302 Glass          Robert G.      13   M                                  Ky                      X
+ 33  302  302 Wakefield      Margaret       19   F                                  Ky
+ 34  302  302 Wakefield      Elizabeth      16   F                                  Ky
+ 35  302  302 Wakefield      Bridget I.     13   F                                  Ky                      X
+ 36  302  302 Wakefield      James G.       11   M                                  Ky
+ 37  302  302 Cutsinger      John           21   M         Blacksmith               Ky
+ 38  303  303 Lindle         Jacob          51   M         Merchant       500       Ky
+ 39  303  303 Lindle         Elizabeth      48   F                                  Ky
+ 40  303  303 Lindle         Letitia        19   F                                  Ky
+ 41  303  303 Lindle         Alfred         18   M         Farmer                   Ky                      X
+ 42  303  303 Lindle         Edward M.      16   M         Farmer                   Ky                      X
+
+CENSUS YR:  1850  STATE or TERRITORY:  KY  COUNTY:  Spencer  DIVISION:  District No. 1  REEL NO:  M432-219  PAGE NO:  92a
+REFERENCE:  Enumerated on the 4th day of Sept. 1850 by Thos. Newman
+=========================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB
+=========================================================================================================================
+ 1   303  303 Lindle         Sarah L.       14   F                                  Kentucky                X
+                   REMARKS:  Handwritten page #183
+ 2   303  303 Lindle         John C.        11   M                                  Ky                      X
+ 3   303  303 Lindle         Joseph F.      9    M                                  Ky                      X
+ 4   303  303 Lindle         Mary E.        7    F                                  Ky
+ 5   303  303 Lindle         Susan C.       5    F                                  Ky
+ 6   303  303 Lindle         George M.      3    M                                  Ky
+ 7   304  304 Skinner        Isaac          40   M         Farmer         10,000    Ky
+ 8   304  304 Skinner        Mary           72   F                                  Virginia
+ 9   305  305 Horton         Nathaniel      68   M         Farmer         750       Virginia
+ 10  305  305 Horton         Elizabeth      52   F                                  Virginia
+ 11  305  305 Carter         Zacha'h        43   M         Carpenter                Virginia
+ 12  306  306 Thomas         John           26   M         Farmer         1,500     Ky
+ 13  306  306 Thomas         Margaret       22   F                                  Ky
+ 14  306  306 Thomas         Elsie C.       2    F                                  Ky
+ 15  306  306 Thomas         Francis        8/12 M                                  Ky
+ 16  307  307 Wakefield      Stilwell H.    21   M                        1,000     Ky
+ 17  307  307 Wakefield      Ann            19   F                                  Irelad
+ 18  307  307 Wakefield      Mary F.        1    F                                  Ky
+ 19  307  307 Wakefield      James M.       1/12                                    Ky
+ 20  308  308 Snider         Jacob          66   M         Farmer         4,000     Penn.                         X
+ 21  308  308 Snider         Jane           65   F                                  Ky
+ 22  309  309 Snider         William        42   M         Farmer                   Ky                            X
+ 23  309  309 Wakefield      Ellen          40   F                                  Ky                            X
+ 24  309  309 Wakefield      Eliza J.       16   F                                  Ky
+ 25  309  309 Wakefield      Mary E.        13   F                                  Ky
+ 26  309  309 Wakefield      Jacob M.       11   M                                  Indiana
+ 27  309  309 Wakefield      George M.      8    M                                  Indiana
+ 28  309  309 Wakefield      James W.       5    M                                  Ky
+ 29  310  310 Wakefield      Matthew        27   M         Farmer                   Ky
+ 30  310  310 Wakefield      Jane E.        18   F                                  Ky
+ 31  310  310 Wakefield      Rebecc I.      1    F                                  Ky
+ 32  311  311 Herndon        Innis          30   M                        900       Ky
+ 33  311  311 Herndon        Amanda         18   F                                  Ky
+ 34  311  311 Herndon        Rebecca C.     1    F                                  Ky
+ 35  312  312 Crafton        Anthony        68   M         Farmer         120       Virginia
+ 36  312  312 Crafton        Chistena       65   F                                  Penn.
+ 37  312  312 Morgan         Elizabeth      14   F                                  Ky
+ 38  313  313 Reynolds       Albert         35   M         Laborer                  Ky                            X
+ 39  313  313 Reynolds       Mary           32   F                                  Ky                            X
+ 40  313  313 Reynolds       John           18   M         Laborer                  Ky
+ 41  313  313 Reynolds       George W.      15   M         Laborer                  Ky
+ 42  313  313 Reynolds       Christopher N. 10   M                                  Ky
+
+CENSUS YR:  1850  STATE or TERRITORY:  KY  COUNTY:  Spencer  DIVISION:  District No. 1  REEL NO:  M432-219  PAGE NO:  92b
+REFERENCE:  Enumerated on the 5th day of Sept. 1850 by Thos. Newman
+=========================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB
+=========================================================================================================================
+ 1   313  313 Reynolds       Louisa         6    F                                  Kentucky
+ 2   313  313 Carrico        James L.       33   M         Farmer         400       Ky
+ 3   313  313 Carrico        Mary           22   F                                  Ky
+ 4   313  313 Carrico        Ann            6/12 F                                  Ky
+ 5   315  315 Smiley         Cassa          56   F                        300       Penn.
+ 6   315  315 Smiley         Isabell        26   F                                  Ky
+ 7   315  315 Smiley         Martha         20   F                                  Ky                            X
+ 8   316  316 Smiley         John           19   M         Farmer         225       Ky
+ 9   316  316 Smiley         Eliza J.       28   F                                  Ky                            X
+ 10  316  316 Barr           James W.       12   M                                  Ky
+ 11  317  317 Howard         James C.       26   M         Farmer                   Ky                            X
+ 12  317  317 Howard         Jane           26   F                                  Ky
+ 13  317  317 Howard         Sarah L.       7/12 F                                  Ky
+ 14  317  317 Fishback       James          21   M         Laborer                  Ky                            X
+ 15  317  317 Fishback       William        18   M         Laborer                  Ky
+ 16  317  317 Fishback       Eliza          17   F                                  Ky
+ 17  317  317 Fishback       Jonah          14   M                                  Ky
+ 18  318  318 Howard         John           46   M         Farmer         800       N. Carolina                   X
+ 19  318  318 Howard         Delphia        45   F                                  Ky                            X
+ 20  318  318 Howard         Thomas W.      28   M         Laborer                  Ky
+ 21  318  318 Howard         John P.        22   M         Laborer                  Ky
+ 22  318  318 Howard         LeGrand        12   M                                  Ky
+ 23  318  318 Howard         Susan M.       10   F                                  Ky
+ 24  318  318 Howard         Doct. S.       9    M                                  Ky
+ 25  318  318 Howard         Mildred        6    F                                  Ky
+ 26  318  318 Howard         Josephine      7/12 F                                  Ky
+ 27  319  319 White          Nathan         35   M         Laborer                  Ky                            X
+ 28  319  319 White          Eliza          32   F                                  Ky
+ 29  319  319 White          Sarah          10   F                                  Ky
+ 30  319  319 White          Jacob          8    M                                  Ky
+ 31  319  319 White          Delilah        6    F                                  Ky
+ 32  319  319 White          Mary           4    F                                  Ky
+ 33  319  319 White          Elizabeth      8/12 F                                  Ky
+ 34  320  320 Martin         Docius         62   F                        500       Virginia
+ 35  321  321 Swope          Christopher    45   M         Farmer         500       Ky
+ 36  321  321 Swope          Eliza          36   F                                  Ky
+ 37  321  321 Swope          John S.        20   M         Laborer                  Ky
+ 38  321  321 Swope          Thomas W.      18   M         Laborer                  Ky
+ 39  321  321 Swope          James W.       16   M         Laborer                  Ky
+ 40  321  321 Swope          Elizabeth R.   13   F                                  Ky                      X
+ 41  321  321 Swope          Eliza C.       11   F                                  Ky                      X
+ 42  321  321 Swope          Christopher    9    M                                  Ky

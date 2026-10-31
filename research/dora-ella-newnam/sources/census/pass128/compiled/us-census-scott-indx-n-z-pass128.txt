@@ -1,0 +1,812 @@
+Scott, KY 1850 Federal Census                      (INDEX - File 2 of 2)
+PARTIAL: includes District 1 East Part
+Additional transcription in progress for this county
+************************************************************************
+
+This Census was transcribed by Jack R. Sublette <sublette@discoverynet.com> 
+and proofread by Kathy Gaines <wfgaine@solve.net
+for the USGenWeb Census Project, http://www.usgenweb.org/census.
+
+Copyright 1999 by Jack R. Sublette <sublette@discoverynet.com>
+
+************************************************************************
+USGENWEB NOTICE:  These electronic pages may NOT be reproduced in
+any format for profit or presentation by any other organization or
+persons.  Persons or organizations desiring to use this material,
+must obtain the written consent of the contributor, or the legal
+representative of the submitter, and contact the listed USGenWeb
+archivist with proof of this consent.
+************************************************************************
+
+THIS IS AN INDEX SORTED BY LAST NAME.
+FOR THE COMPLETE CENSUS INFORMATION, OPEN THE FILE IN THE FILE NAME COLUMN.
+============================================================================
+PG#  LN#  LAST NAME      FIRST NAME     AGE    BIRTH PLACE       FILE NAME
+============================================================================
+408B 32   Nailor         M.             17     KY.               pg0407a.txt
+402B 39   Neal           E. E.          23     KY.               pg0396a.txt
+402B 41   Neal           R. B.          3      KY.               pg0396a.txt
+402B 42   Neal           Wm. R.         1      KY.               pg0396a.txt
+409A 40   Nevil          R.             52     Ireland           pg0407a.txt
+409A 39   Nevill         Michael        40     Ireland           pg0407a.txt
+399A 8    Nevins         H. V. D.       35     District Colunbia pg0396a.txt
+399A 9    Nevins         M.             35     Maryland          pg0396a.txt
+399A 10   Nevins         Margaret       1      KY.               pg0396a.txt
+400B 15   Newbold        D. A.          35     KY.               pg0396a.txt
+400B 16   Newbold        Julia          28     KY.               pg0396a.txt
+396A 14   Newbold        Mary           12     Kentucky          pg0396a.txt
+400B 17   Newbold        Nanny          7      KY.               pg0396a.txt
+400B 18   Newbold        Thos. C.       2      KY.               pg0396a.txt
+399B 29   Newnan         John           45     Ireland           pg0396a.txt
+402A 41   Nichols        Robt.          66     Virginia          pg0396a.txt
+402A 42   Nichols        S.             55     Kentucky          pg0396a.txt
+402A 28   Norris         S.             66     VA.               pg0396a.txt
+408B 34   Norton         S.             14     KY.               pg0407a.txt
+407A 14   Nutter         Benjn.         30     Kent'y            pg0407a.txt
+418A 15   Nutter         Clement J.     9      Kent'y            pg0418a.txt
+418A 41   Nutter         David          60     Delaware          pg0418a.txt
+398A 13   Nutter         Irene          11     KY.               pg0396a.txt
+405B 15   Nutter         Jake           55     Kent'y            pg0396a.txt
+407A 18   Nutter         John R.        1      Kent'y            pg0407a.txt
+418A 14   Nutter         John R.        35     Kent'y            pg0418a.txt
+398A 12   Nutter         M. A.          16     KY.               pg0396a.txt
+407A 16   Nutter         M. F.          4      Kent'y            pg0407a.txt
+418A 16   Nutter         Marion         4      Kent'y            pg0418a.txt
+418A 42   Nutter         Mary           64     Virga.            pg0418a.txt
+418B 3    Nutter         Mary           7      Kent'y            pg0418a.txt
+398A 10   Nutter         R.             33     KY.               pg0396a.txt
+418B 1    Nutter         Robert         23     Kent'y            pg0418a.txt
+407A 15   Nutter         S. J.          23     Kent'y            pg0407a.txt
+418B 2    Nutter         Sarah          19     Kent'y            pg0418a.txt
+407A 17   Nutter         Wm. J.         3      Kent'y            pg0407a.txt
+399A 31   Oates          Joseph         26     KY.               pg0396a.txt
+399A 33   Oates          S.             1      KY.               pg0396a.txt
+399A 32   Oates          V. A.          26     KY.               pg0396a.txt
+406A 27   O'Brien        J.             23     Ireland           pg0396a.txt
+399A 38   O'connel       M.             32     Ireland           pg0396a.txt
+418B 4    Offutt         Alfred H.      33     Kent'y            pg0418a.txt
+411A 42   Offutt         Ann            7      KY.               pg0407a.txt
+418B 7    Offutt         Ann E.         3      Kent'y            pg0418a.txt
+416A 15   Offutt         Ann M.         12     KY.               pg0407a.txt
+400A 38   Offutt         B. H.          29     KY.               pg0396a.txt
+406B 24   Offutt         E. A.          32     Kent'y            pg0396a.txt
+406B 23   Offutt         E. N.          42     Maryland          pg0396a.txt
+406B 27   Offutt         Edmonia        5      Kent'y            pg0396a.txt
+418B 5    Offutt         Eliza          28     Kent'y            pg0418a.txt
+416B 12   Offutt         Isaiah         42     Maryland          pg0407a.txt
+416A 17   Offutt         James W.       6      KY.               pg0407a.txt
+406B 26   Offutt         Laura          7      Kent'y            pg0396a.txt
+411A 38   Offutt         Lucretia       33     Maryland          pg0407a.txt
+406B 25   Offutt         M. A.          13     Kent'y            pg0396a.txt
+411A 37   Offutt         M. B.          46     Maryland          pg0407a.txt
+411A 39   Offutt         Manlius        13     KY.               pg0407a.txt
+418B 6    Offutt         Marcus S.      6      Kent'y            pg0418a.txt
+411A 41   Offutt         Mary           9      KY.               pg0407a.txt
+416A 11   Offutt         Mary           80     Maryland          pg0407a.txt
+416B 14   Offutt         Mary A.        12     Kent'y            pg0407a.txt
+400A 39   Offutt         Mary E.        22     KY.               pg0396a.txt
+416A 16   Offutt         Mary E.        11     KY.               pg0407a.txt
+416B 13   Offutt         Rebecca        30     Kent'y            pg0407a.txt
+411A 40   Offutt         Remus          11     KY.               pg0407a.txt
+416A 14   Offutt         Urias M.       38     KY.               pg0407a.txt
+414B 10   Olwell         Emily          17     Kent'y            pg0407a.txt
+414B 9    Olwell         Martha         19     Kent'y            pg0407a.txt
+414B 11   Olwell         Mary Ann       14     Kent'y            pg0407a.txt
+414B 8    Olwell         Quintilda      50     Kent'y            pg0407a.txt
+414B 12   Olwell         Sarah  J.      11     Kent'y            pg0407a.txt
+414B 7    Olwell         William        53     Kent'y            pg0407a.txt
+404A 22   Osburn         C.             23     KY.               pg0396a.txt
+397A 25   Oturll         Parker         45     KY.               pg0396a.txt
+409A 5    Otwell         E.             17     Kent'y            pg0407a.txt
+410B 38   Outten         Sarah          75     Maryland          pg0407a.txt
+408B 41   Owsley         E.             15     KY.               pg0407a.txt
+414B 41   Oxley          Asher          25     KY.               pg0407a.txt
+415A 1    Oxley          John P.        19     Kent'y            pg0407a.txt
+414B 42   Oxley          Mary Ann       21     KY.               pg0407a.txt
+415A 2    Oxley          Nancy J.       16     Kent'y            pg0407a.txt
+413A 32   Paget          Harrison       37     Kent'y            pg0407a.txt
+413A 34   Paget          Jeremiah       8      Kent'y            pg0407a.txt
+413A 33   Paget          Kezia          33     Kent'y            pg0407a.txt
+413A 35   Paget          Kezia          6      Kent'y            pg0407a.txt
+413A 36   Paget          William        5      Kent'y            pg0407a.txt
+408B 27   Park           S. R.          25     Mass.             pg0407a.txt
+403B 8    Parker         A. W.          5      KY.               pg0396a.txt
+403B 4    Parker         Daniel         64     KY.               pg0396a.txt
+403B 6    Parker         N.             15     KY.               pg0396a.txt
+403B 5    Parker         R.             51     KY.               pg0396a.txt
+403B 7    Parker         R.             13     KY.               pg0396a.txt
+414B 40   Parks          John           55     Virga.            pg0407a.txt
+418A 32   Patterson      Margaret       5      Kent'y            pg0418a.txt
+418A 33   Patterson      Margaret       80     Penna.            pg0418a.txt
+418A 30   Patterson      Margot         33     Kent'y            pg0418a.txt
+418A 29   Patterson      Matthew I.     46     Kent'y            pg0418a.txt
+418A 31   Patterson      Susan J.       8      Kent'y            pg0418a.txt
+420B 3    Paxton         Elizabeth F.   21     Kent'y            pg0418a.txt
+420B 2    Paxton         William B.     30     Virga.            pg0418a.txt
+416A 36   Payne          Charlotte      16     Kent'y            pg0407a.txt
+420B 16   Payne          Hannah         21     Kent'y            pg0418a.txt
+416A 39   Payne          Henry          11     Kent'y            pg0407a.txt
+403A 25   Payne          J. B.          18     KY.               pg0396a.txt
+416A 38   Payne          John           13     Kent'y            pg0407a.txt
+416A 37   Payne          Kitty          14     Kent'y            pg0407a.txt
+416A 40   Payne          Lewis          10     Kent'y            pg0407a.txt
+416A 35   Payne          Remus          38     Kent'y            pg0407a.txt
+416A 41   Payne          Robert         8      Kent'y            pg0407a.txt
+420B 15   Payne          William B.     26     Kent'y            pg0418a.txt
+420B 5    Peacher        Nancy          23     Kent'y            pg0418a.txt
+420B 4    Peacher        Thomas C.      25     Virga.            pg0418a.txt
+412B 36   Peak           John           19     Kent'y            pg0407a.txt
+419B 39   Peak           John           24     KY.               pg0418a.txt
+408B 37   Peak           M. L.          16     KY.               pg0407a.txt
+403A 32   Peak           M. M.          20     KY.               pg0396a.txt
+412B 35   Peak           Robert         22     Kent'y            pg0407a.txt
+408B 36   Peak           S. A.          17     KY.               pg0407a.txt
+412B 17   Pemberton      Eliza A.       13     Kent'y            pg0407a.txt
+412B 20   Pemberton      James R.       6      Kent'y            pg0407a.txt
+412B 15   Pemberton      Richard        39     Kent'y            pg0407a.txt
+412B 16   Pemberton      Sarah          35     Kent'y            pg0407a.txt
+412B 19   Pemberton      Sarah J.       9      Kent'y            pg0407a.txt
+412B 18   Pemberton      Thomas H.      12     Kent'y            pg0407a.txt
+403A 26   Pendleton      S. N.          21     KY.               pg0396a.txt
+401A 1    Perkins        Aga*ss         3      KY.               pg0396a.txt
+401A 2    Perkins        Leander        9/12   KY.               pg0396a.txt
+400B 41   Perkins        M. E.          23     KY.               pg0396a.txt
+400B 40   Perkins        T. W.          26     KY.               pg0396a.txt
+400B 42   Perkins        V. A.          5      KY.               pg0396a.txt
+413A 2    Place          Jacob          32     Gernamy           pg0407a.txt
+410A 19   Polk           Danl.          45     KY.               pg0407a.txt
+410A 21   Polk           David T.       19     KY.               pg0407a.txt
+413B 41   Polk           Harriet J.     47     Delaware          pg0407a.txt
+410A 28   Polk           Inez*          4      KY.               pg0407a.txt
+410A 29   Polk           James K.       5/12   KY.               pg0407a.txt
+410A 25   Polk           Lardias        10     KY.               pg0407a.txt
+410A 27   Polk           Margaret       6      KY.               pg0407a.txt
+410A 26   Polk           Mary           8      KY.               pg0407a.txt
+410A 23   Polk           Rhoda N.       17     KY.               pg0407a.txt
+410A 20   Polk           S. A.          39     KY.               pg0407a.txt
+410A 30   Polk           Sarah J.       15     KY.               pg0407a.txt
+410A 22   Polk           Thomas         16     KY.               pg0407a.txt
+410A 24   Polk           Willis W.      12     KY.               pg0407a.txt
+406B 17   Porter         A. F.          13     Kent'y            pg0396a.txt
+408A 4    Powell         Frank          30     Kentucky          pg0407a.txt
+398A 17   Powers         John           17     KY.               pg0396a.txt
+414B 16   Poyntz         Caroline J.    18     Kent'y            pg0407a.txt
+414B 19   Poyntz         Cyrus A.       8      Kent'y            pg0407a.txt
+414B 14   Poyntz         H.             51     Kent'y            pg0407a.txt
+414B 6    Poyntz         James          20     Kent'y            pg0407a.txt
+414B 18   Poyntz         James M.       12     Kent'y            pg0407a.txt
+414B 13   Poyntz         John           53     Kent'y            pg0407a.txt
+414B 17   Poyntz         John A.        14     Kent'y            pg0407a.txt
+414B 4    Poyntz         Rebecca        45     Kent'y            pg0407a.txt
+414B 5    Poyntz         William        23     Kent'y            pg0407a.txt
+403B 37   Prather        F.             19     Louisiana         pg0396a.txt
+407B 38   Pratt          Eliza          52     New York          pg0407a.txt
+407B 37   Pratt          John T.        52     Kent'y            pg0407a.txt
+408A 21   Prewitt        D. B.          16     KY.               pg0407a.txt
+408A 26   Prewitt        E. V.          1      KY.               pg0407a.txt
+405B 2    Prewitt        H. A.          17     Kent'y            pg0396a.txt
+408A 25   Prewitt        H. C.          5      KY.               pg0407a.txt
+405A 39   Prewitt        H. H.          60     Virginia          pg0396a.txt
+408A 22   Prewitt        H. P.          14     KY.               pg0407a.txt
+408A 20   Prewitt        J. V.          19     KY.               pg0407a.txt
+405A 41   Prewitt        John           30     Kent'y            pg0396a.txt
+408A 17   Prewitt        Levi           50     KY.               pg0407a.txt
+408A 24   Prewitt        Levi           7      KY.               pg0407a.txt
+408A 18   Prewitt        M.             43     Virga.            pg0407a.txt
+408A 23   Prewitt        R. E.          11     KY.               pg0407a.txt
+405B 1    Prewitt        S. E.          18     Kent'y            pg0396a.txt
+408A 19   Prewitt        Wm  B.         23     KY.               pg0407a.txt
+405A 42   Prewitt        Wm.            27     Kent'y            pg0396a.txt
+418A 19   Price          Calista        17     Kent'y            pg0418a.txt
+417B 12   Price          John           13     Kent'y            pg0407a.txt
+418A 20   Price          Keziah         14     Kent'y            pg0418a.txt
+418A 17   Price          Newton         40     Kent'y            pg0418a.txt
+418A 18   Price          Sarah          37     Kent'y            pg0418a.txt
+419B 3    Price          Wm. H.         16     KY.               pg0418a.txt
+411A 4    Proctor        Charles H.     22     Kent'y            pg0407a.txt
+410B 33   Proctor        Eliza J.       23     KY.               pg0407a.txt
+410B 32   Proctor        James          34     KY.               pg0407a.txt
+410B 39   Proctor        John           41     KY.               pg0407a.txt
+411A 1    Proctor        John           13     Kent'y            pg0407a.txt
+405A 33   Proctor        M. E.          7      Kent'y            pg0396a.txt
+411A 3    Proctor        Manluis        8      Kent'y            pg0407a.txt
+410B 40   Proctor        Margaret E.    20     KY.               pg0407a.txt
+411A 2    Proctor        Samuel         10     Kent'y            pg0407a.txt
+410B 41   Proctor        Sarah E.       14     KY.               pg0407a.txt
+410B 42   Proctor        William        16     KY.               pg0407a.txt
+410B 34   Proctor        Willis         1      KY.               pg0407a.txt
+405A 32   Proctor        Wm.            9      Kent'y            pg0396a.txt
+405A 30   Pullen         A.             16     Kent'y            pg0396a.txt
+405A 28   Pullen         E.             42     Kent'y            pg0396a.txt
+405A 35   Pullen         J.             24     Kent'y            pg0396a.txt
+405A 37   Pullen         J. W.          3      Kent'y            pg0396a.txt
+405A 36   Pullen         L.             22     Kent'y            pg0396a.txt
+405A 38   Pullen         M. E.          5/12   Kent'y            pg0396a.txt
+397B 40   Pullen         Maria          53     KY.               pg0396a.txt
+397B 39   Pullen         Thos.          60     VA.               pg0396a.txt
+397B 41   Pullen         Williams       25     KY.               pg0396a.txt
+405A 31   Pullen         Wm.            15     Kent'y            pg0396a.txt
+409B 41   Raine          H. M.          2      KY.               pg0407a.txt
+402A 29   Rainey         A.             74     Penna.            pg0396a.txt
+401B 8    Rank           E.             28     KY.               pg0396a.txt
+401B 10   Rank           J.             4/12   KY.               pg0396a.txt
+401B 7    Rank           J. E.          30     Penna.            pg0396a.txt
+401B 9    Rank           M. E.          5      KY.               pg0396a.txt
+396A 6    Rankins        Bradford       9      Kentucky          pg0396a.txt
+396A 5    Rankins        Francis        18     Kentucky          pg0396a.txt
+399A 24   Rankins        Malvina        21     KY.               pg0396a.txt
+399A 23   Rankins        Paul           27     KY.               pg0396a.txt
+399A 26   Rankins        R. B.          2      KY.               pg0396a.txt
+399A 27   Rankins        W. H.          1/12   KY.               pg0396a.txt
+396A 4    Rankins        Wm             22     Kentucky          pg0396a.txt
+418B 26   Redd           Clarence       4      Kent'y            pg0418a.txt
+418B 24   Redd           Martha         26     Kent'y            pg0418a.txt
+418B 25   Redd           Sidney J.      6      Kent'y            pg0418a.txt
+418B 23   Redd           Thomas B.      38     Virga.            pg0418a.txt
+418B 27   Redd           William        2      Kent'y            pg0418a.txt
+397B 37   Reed           Eliza          56     KY.               pg0396a.txt
+397B 38   Reed           Mary           15     KY.               pg0396a.txt
+398B 17   Reyburn        Wm             13     Louisiana         pg0396a.txt
+402B 34   Reynolds       J. L.          36     South Carolina    pg0396a.txt
+400A 9    Richardson     Aaron          35     Penna.            pg0396a.txt
+400A 11   Richardson     C.             27     Penna.            pg0396a.txt
+400A 14   Richardson     E.             3      KY.               pg0396a.txt
+400A 13   Richardson     E. E.          7      KY.               pg0396a.txt
+400A 10   Richardson     M. L.          29     KY.               pg0396a.txt
+400A 12   Richardson     S. L.          9      KY.               pg0396a.txt
+420A 5    Rickerson      Hannah R.      28     KY.               pg0418a.txt
+420A 4    Rickerson      Henry N.       23     KY.               pg0418a.txt
+420A 6    Rickerson      Mary J.        2/12   KY.               pg0418a.txt
+415B 35   Riley          Jane           35     KY.               pg0407a.txt
+415B 36   Riley          Lucy A.        3      Tennessee         pg0407a.txt
+420A 32   Risk           Alfred         9      Kent'y            pg0418a.txt
+417B 10   Risk           Catherine      7      Kent'y            pg0407a.txt
+404B 30   Risk           D. S.          6      KY.               pg0396a.txt
+420A 25   Risk           Dorcas         49     Kent'y            pg0418a.txt
+417B 6    Risk           Dulvina        36     Kent'y            pg0407a.txt
+420A 34   Risk           Eliza          8      Kent'y            pg0418a.txt
+417B 11   Risk           George         4      Kent'y            pg0407a.txt
+420A 30   Risk           Harvey         12     Kent'y            pg0418a.txt
+420A 27   Risk           Isabella       20     Kent'y            pg0418a.txt
+404B 31   Risk           J. W.          4      KY.               pg0396a.txt
+404B 28   Risk           J.A.           10     KY.               pg0396a.txt
+404B 27   Risk           J.E.           30     KY.               pg0396a.txt
+417B 5    Risk           Jabiz V.       64     Kent'y            pg0407a.txt
+417B 7    Risk           James          13     Kent'y            pg0407a.txt
+420A 26   Risk           James          23     Kent'y            pg0418a.txt
+420A 28   Risk           John           17     Kent'y            pg0418a.txt
+420A 24   Risk           Jones          47     Kent'y            pg0418a.txt
+404B 32   Risk           L. E.          7      KY.               pg0396a.txt
+404B 29   Risk           M. A.          8      KY.               pg0396a.txt
+420A 31   Risk           Martha         11     Kent'y            pg0418a.txt
+417B 13   Risk           Mary O.        2      Kent'y            pg0407a.txt
+417B 8    Risk           Melinda        11     Kent'y            pg0407a.txt
+420A 29   Risk           Nancy          14     Kent'y            pg0418a.txt
+417B 9    Risk           Theodore       9      Kent'y            pg0407a.txt
+420A 33   Risk           William        8      Kent'y            pg0418a.txt
+404B 26   Risk           Wm B.          35     KY.               pg0396a.txt
+413A 16   Roche          John S.        23     Kent'y            pg0407a.txt
+413A 17   Roche          Redmond        26     Kent'y            pg0407a.txt
+413A 15   Roche          Sarah E.       44     Kent'y            pg0407a.txt
+400A 22   Roland         J. V.          23     KY.               pg0396a.txt
+414B 33   Rossell        Joseph N.      2      KY.               pg0407a.txt
+414B 28   Rossell        Maria          30     KY.               pg0407a.txt
+414B 32   Rossell        Maria          11     KY.               pg0407a.txt
+414B 29   Rossell        Marion         10     KY.               pg0407a.txt
+414B 30   Rossell        Newton*        8      KY.               pg0407a.txt
+414B 27   Rossell        Wesley         31     KY.               pg0407a.txt
+414B 38   Rossell        William        62     Virginia          pg0407a.txt
+414B 31   Rossell        William  A.    6      KY.               pg0407a.txt
+414B 34   Rossell*       Whitney        1      KY.               pg0407a.txt
+400B 27   Roy            C.             1      KY.               pg0396a.txt
+400B 19   Roy            Charles        40     VA.               pg0396a.txt
+400B 24   Roy            G. A.          11     KY.               pg0396a.txt
+400B 23   Roy            Martha         13     KY.               pg0396a.txt
+400B 21   Roy            Mary           18     KY.               pg0396a.txt
+396B 24   Roy            Mary Thos.     57     Penn              pg0396a.txt
+400B 20   Roy            S.             35     KY.               pg0396a.txt
+400B 25   Roy            S. B.          8      KY.               pg0396a.txt
+400B 26   Roy            V.             4      KY.               pg0396a.txt
+400B 22   Roy            Wm.            16     KY.               pg0396a.txt
+397B 20   Rucker         Fanny          23     KY.               pg0396a.txt
+397B 19   Rucker         Henry          30     KY.               pg0396a.txt
+397B 18   Rucker         Hester C.      50     KY.               pg0396a.txt
+397B 23   Rucker         John A.        12     KY.               pg0396a.txt
+397B 24   Rucker         Joseph V.      8      KY.               pg0396a.txt
+397B 17   Rucker         Louis D.       56     KY.               pg0396a.txt
+397B 21   Rucker         Margaret       20     KY.               pg0396a.txt
+397B 22   Rucker         Martha C.      18     KY.               pg0396a.txt
+396A 7    Runyon         D. M.          32     Kentucky          pg0396a.txt
+396A 9    Runyon         Daniel         25     Kentucky          pg0396a.txt
+396A 8    Runyon         Mary E.        30     Kentucky          pg0396a.txt
+408A 27   Russy          E.             19     Louisiana         pg0407a.txt
+415A 38   Ryles          Alexander      55     Viga.             pg0407a.txt
+415A 40   Ryles          Eliza          26     KY.               pg0407a.txt
+415A 42   Ryles          Elizabeth      20     KY.               pg0407a.txt
+415A 39   Ryles          Susan          30     KY.               pg0407a.txt
+415A 41   Ryles          William        25     KY.               pg0407a.txt
+417A 11   Salyers        Charlotte      28     Kent'y            pg0407a.txt
+410A 2    Salyers        E.             25     Kent'y            pg0407a.txt
+417A 14   Salyers        Elizabeth      2      Kent'y            pg0407a.txt
+417A 12   Salyers        Emily*         5      Kent'y            pg0407a.txt
+410A 5    Salyers        H.             3      Kent'y            pg0407a.txt
+410A 1    Salyers        Isaac          30     Kent'y            pg0407a.txt
+406B 30   Salyers        James          59     Virginia          pg0396a.txt
+410A 3    Salyers        M. A.          9      Kent'y            pg0407a.txt
+410A 4    Salyers        Mary A.        6      Kent'y            pg0407a.txt
+406B 31   Salyers        R.             58     Virginia          pg0396a.txt
+417A 13   Salyers        Robert C.      4      Kent'y            pg0407a.txt
+413A 31   Saunders       Bettie         18     Kent'y            pg0407a.txt
+417A 15   Saunders       Elizabeth      55     Virga.            pg0407a.txt
+413A 29   Saunders       Louisa E.      49     Kent'y            pg0407a.txt
+413A 30   Saunders       Matthews F.    21     Kent'y            pg0407a.txt
+406B 16   Scally         J.             21     Ireland           pg0396a.txt
+409A 14   Scandland      N.             50     Kent'y            pg0407a.txt
+414B 2    Scott          Esther M.      24     Kent'y            pg0407a.txt
+414B 1    Scott          James M.       34     Kent'y            pg0407a.txt
+408A 35   Scott*         P.             18     Kent'y            pg0407a.txt
+405A 8    Scruggs        E.             85     Virginia          pg0396a.txt
+405A 5    Scruggs        M. D.          14     KY.               pg0396a.txt
+405A 4    Scruggs        N.             41     KY.               pg0396a.txt
+405A 3    Scruggs        Thos. M.       47     KY.               pg0396a.txt
+405A 6    Scruggs        Thos. M. Jr.   13     KY.               pg0396a.txt
+405A 7    Scruggs        Z. T.          3      KY.               pg0396a.txt
+418B 16   Sharon         Almira         5      Kent'y            pg0418a.txt
+418B 17   Sharon         Bemjamin       2      Kent'y            pg0418a.txt
+411B 3    Sharon         Hulda          24     Kent'y            pg0407a.txt
+418B 9    Sharon         James F.       55     Kent'y            pg0418a.txt
+418B 11   Sharon         James S.       31     Kent'y            pg0418a.txt
+418B 15   Sharon         Miranda        8      Kent'y            pg0418a.txt
+418B 10   Sharon         Nancy          42     Kent'y            pg0418a.txt
+418B 13   Sharon         Nathaniel      13     Kent'y            pg0418a.txt
+418B 12   Sharon         Patsey         16     Kent'y            pg0418a.txt
+418B 14   Sharon         Robert         10     Kent'y            pg0418a.txt
+411B 1    Sharon         Samuel         58     Kent'y            pg0407a.txt
+411B 2    Sharon         Sarah          51     Kent'y            pg0407a.txt
+409B 1    Sharp          Adeline        7      Kent'y            pg0407a.txt
+420A 18   Sharp          David          7      Kent'y            pg0418a.txt
+409B 4    Sharp          Jas.           2      Kent'y            pg0407a.txt
+420A 19   Sharp          John           1      Kent'y            pg0418a.txt
+409B 3    Sharp          John F. M.     3      Kent'y            pg0407a.txt
+409A 41   Sharp          Lynchfield     32     Kent'y            pg0407a.txt
+409A 42   Sharp          Mary           33     Kent'y            pg0407a.txt
+420A 15   Sharp          Mary           34     Kent'y            pg0418a.txt
+409B 2    Sharp          Paulline       5      Kent'y            pg0407a.txt
+420A 17   Sharp          Susan          10     Kent'y            pg0418a.txt
+420A 16   Sharp          William        13     Kent'y            pg0418a.txt
+420A 14   Sharp          William P.     32     Kent'y            pg0418a.txt
+420A 10   Sheley         John           35     Kent'y            pg0418a.txt
+403A 7    Shemith        John           16     KY.               pg0396a.txt
+409B 33   Shemitt        Martha         10     KY.               pg0407a.txt
+409B 34   Shemitt        Sarah          8      KY.               pg0407a.txt
+409B 32   Shemitt        Thomas         17     KY.               pg0407a.txt
+409B 31   Shemitt        W. W.          48     Virga.            pg0407a.txt
+396A 37   Shepard        Cliffton R.    18     Kentucky          pg0396a.txt
+396A 38   Shepard        James M.       48     Kentucky          pg0396a.txt
+396A 35   Shepard        Tho. J.        50     Kentucky          pg0396a.txt
+396A 36   Shepard        Wm T.          55     Kentucky          pg0396a.txt
+396B 32   Shephard       Wm T. Jr.      23     KY.               pg0396a.txt
+408A 5    Sherritt       F.             28     Kentucky          pg0407a.txt
+414A 1    Sherritt       James          20     Kent'y            pg0407a.txt
+413B 42   Sherritt       Rebecca        46     Delaware          pg0407a.txt
+414A 2    Sherritt       Rebecca        17     Kent'y            pg0407a.txt
+414A 3    Sherritt       Robert         14     Kent'y            pg0407a.txt
+407B 19   Sherritt       W. W.          23     Kent'y            pg0407a.txt
+408B 35   Shrophire      Susan          13     KY.               pg0407a.txt
+416B 41   Shropshire     Ann E.         5      Kent'y            pg0407a.txt
+419A 38   Shropshire     Catherine      50     Virga.            pg0418a.txt
+419A 39   Shropshire     Elizabeth J.   18     KY.               pg0418a.txt
+416B 39   Shropshire     Ellen          25     Kent'y            pg0407a.txt
+416B 40   Shropshire     John H.        8      Kent'y            pg0407a.txt
+419A 42   Shropshire     Micajah S.     14     KY.               pg0418a.txt
+419A 37   Shropshire     Moses P.       49     Kent'y            pg0418a.txt
+419B 1    Shropshire     Moses T. J.    10     KY.               pg0418a.txt
+416B 38   Shropshire     O. H. P.       37     Kent'y            pg0407a.txt
+416B 42   Shropshire     Susan M.       3      Kent'y            pg0407a.txt
+402A 30   Shroyer        E.             26     KY.               pg0396a.txt
+402A 31   Shroyer        J. M.          2      KY.               pg0396a.txt
+415A 27   Shuff          Amanda C.      14     Kent'y            pg0407a.txt
+415A 26   Shuff          Isaac          63     Maryland          pg0407a.txt
+415A 28   Shuff          Isaac T.       9      Kent'y            pg0407a.txt
+415B 13   Simpson        Sarah          55     KY.               pg0407a.txt
+398B 30   Sinclair       L.             21     KY.               pg0396a.txt
+398B 29   Sinclair       M.             54     KY.               pg0396a.txt
+409A 3    Singleton      A.             15     Kent'y            pg0407a.txt
+399B 14   Singleton      C.             18     KY.               pg0396a.txt
+417A 10   Slayers        Wm. H.         28     Kent'y            pg0407a.txt
+404A 36   Smarr          Ann T.         9      KY.               pg0396a.txt
+404A 31   Smarr          C.             21     KY.               pg0396a.txt
+404A 30   Smarr          E.             39     KY.               pg0396a.txt
+404A 32   Smarr          E.             18     KY.               pg0396a.txt
+404A 37   Smarr          Emma           6      KY.               pg0396a.txt
+404A 34   Smarr          Jno. T.        13     KY.               pg0396a.txt
+404A 33   Smarr          M.             15     KY.               pg0396a.txt
+404A 35   Smarr          S.             11     KY.               pg0396a.txt
+404A 29   Smarr          Thos.          56     Virginia          pg0396a.txt
+404A 38   Smarr          Wm.            6/12   KY.               pg0396a.txt
+407A 40   Smith          A.             32     Kent'y            pg0407a.txt
+406A 38   Smith          A. A.          5      Kent'y            pg0396a.txt
+407A 34   Smith          C. L.          5      Kent'y            pg0407a.txt
+407B 1    Smith          C. M.          4      Kent'y            pg0407a.txt
+405B 16   Smith          D. H.          28     Kent'y            pg0396a.txt
+405B 19   Smith          D. H. JR.      4      Kent'y            pg0396a.txt
+406A 39   Smith          E. H.          3      Kent'y            pg0396a.txt
+405B 18   Smith          G.             7      Kent'y            pg0396a.txt
+415B 15   Smith          Garland K.     47     KY.               pg0407a.txt
+408A 3    Smith          Geo.           34     Kentucky          pg0407a.txt
+415B 18   Smith          George A.      15     KY.               pg0407a.txt
+407A 39   Smith          Henry          35     Kent'y            pg0407a.txt
+405B 17   Smith          J.             24     Kent'y            pg0396a.txt
+408B 39   Smith          J.             14     KY.               pg0407a.txt
+406A 34   Smith          J. A.          32     Kent'y            pg0396a.txt
+406A 37   Smith          J. C.          9      Kent'y            pg0396a.txt
+406A 35   Smith          J. D.          12     Kent'y            pg0396a.txt
+401B 27   Smith          John           71     England           pg0396a.txt
+401B 29   Smith          John           29     KY.               pg0396a.txt
+402B 40   Smith          K.             25     Germany           pg0396a.txt
+401B 28   Smith          M.             56     Maryland          pg0396a.txt
+407A 33   Smith          M. A.          25     Kent'y            pg0407a.txt
+415B 17   Smith          Martha         18     KY.               pg0407a.txt
+400A 17   Smith          N.             30     Germany           pg0396a.txt
+406A 40   Smith          N. K.          1      Kent'y            pg0396a.txt
+407A 41   Smith          P.             11     Kent'y            pg0407a.txt
+415B 16   Smith          Penelope       43     KY.               pg0407a.txt
+407B 4    Smith          Philip         29     Kent'y            pg0407a.txt
+407A 42   Smith          R. W.          5      Kent'y            pg0407a.txt
+406A 36   Smith          S. E.          11     Kent'y            pg0396a.txt
+407A 36   Smith          S. E.          1      Kent'y            pg0407a.txt
+407A 35   Smith          S. J.          2      Kent'y            pg0407a.txt
+405B 21   Smith          S. K.          5/12   Kent'y            pg0396a.txt
+407A 32   Smith          Saml.          33     Kent'y            pg0407a.txt
+415B 12   Smith          Sarah          64     Virga.            pg0407a.txt
+401B 30   Smith          Sidney         10     KY.               pg0396a.txt
+405B 20   Smith          V. M.          2      Kent'y            pg0396a.txt
+407B 2    Smith          W.             3      Kent'y            pg0407a.txt
+406A 33   Smith          Wm. A.         35     Kent'y            pg0396a.txt
+403B 20   Snell          E.             44     Virginia          pg0396a.txt
+417B 39   Snell          Eliza          40     Kent'y            pg0407a.txt
+417B 41   Snell          John M.        14     Kent'y            pg0407a.txt
+408B 1    Snell          L.             25     Kent'y            pg0407a.txt
+417B 40   Snell          Lucy J.        16     Kent'y            pg0407a.txt
+408B 3    Snell          M. E.          1      Kent'y            pg0407a.txt
+408A 42   Snell          Rowan          45     Kent'y            pg0407a.txt
+417B 38   Snell          Tobert P.      42     Kent'y            pg0407a.txt
+408B 2    Snell          Victor         5      Kent'y            pg0407a.txt
+399B 36   Soward         A.             28     KY.               pg0396a.txt
+399B 39   Soward         A.             1/12   KY.               pg0396a.txt
+404A 24   Soward         A.             42     KY.               pg0396a.txt
+404A 27   Soward         A.             4      KY.               pg0396a.txt
+404A 25   Soward         B.             15     KY.               pg0396a.txt
+399B 38   Soward         E.             9      KY.               pg0396a.txt
+404A 28   Soward         H. T.          2      KY.               pg0396a.txt
+404A 26   Soward         M. A.          10     KY.               pg0396a.txt
+404A 23   Soward         R. V.          48     KY.               pg0396a.txt
+399B 37   Soward         W.             11     KY.               pg0396a.txt
+399B 35   Soward         Wm.            32     KY.               pg0396a.txt
+405B 4    Sparrow        James          36     North Carolina    pg0396a.txt
+405B 5    Sparrow        L.             26     Kent'y            pg0396a.txt
+405B 6    Sparrow        R.             6      Kent'y            pg0396a.txt
+409A 7    Stamps         C.             15     Kent'y            pg0407a.txt
+402A 1    Standers       John           16     Ireland           pg0396a.txt
+408A 7    Standford      D. W.          27     KY.               pg0407a.txt
+412A 33   Stanley        Harrison       25     Kent'y            pg0407a.txt
+412A 34   Stanley        Martha         23     Kent'y            pg0407a.txt
+412A 29   Stanton        Thomas         36     KY.               pg0407a.txt
+398A 2    Stapp          C.             48     KY.               pg0396a.txt
+398A 4    Stapp          E.             3      KY.               pg0396a.txt
+398A 1    Stapp          Simon          56     VA.               pg0396a.txt
+398A 3    Stapp          Wash.          32     KY.               pg0396a.txt
+416B 11   Stephens       Tamar          50     Kent'y            pg0407a.txt
+399A 34   Stevens        J. R.          40     VA.               pg0396a.txt
+399A 36   Stevens        Jno. W.        16     KY.               pg0396a.txt
+399A 37   Stevens        Mary A.        13     KY.               pg0396a.txt
+399A 35   Stevens        S.             41     VA.               pg0396a.txt
+408B 12   Stevenson      A. M.          14     Ohio              pg0407a.txt
+403A 41   Stevenson      C.B.           39     KY.               pg0396a.txt
+400B 33   Stevenson      Cassandra      58     KY.               pg0396a.txt
+403B 1    Stevenson      Ellen          12     KY.               pg0396a.txt
+408B 9    Stevenson      Evan           42     Kent'y            pg0407a.txt
+408B 17   Stevenson      H. S.          4      Kent'y            pg0407a.txt
+408B 19   Stevenson      H. T.          10/12  Kent'y            pg0407a.txt
+408B 11   Stevenson      J. E.          18     Ohio              pg0407a.txt
+408B 10   Stevenson      L.             38     Ohio              pg0407a.txt
+408B 13   Stevenson      L. B.          12     Ohio              pg0407a.txt
+403A 42   Stevenson      M. J.          15     KY.               pg0396a.txt
+408B 14   Stevenson      M. O.          10     Kent'y            pg0407a.txt
+408B 15   Stevenson      S. F.          8      Kent'y            pg0407a.txt
+408B 18   Stevenson      S. M.          3-6/12 Kent'y            pg0407a.txt
+403B 2    Stevenson      V.             9      KY.               pg0396a.txt
+408B 16   Stevenson      Wm F.          6      Kent'y            pg0407a.txt
+403A 40   Stevenson      Wm L.          52     Maryland          pg0396a.txt
+403B 17   Steveson       Edward         39     KY.               pg0396a.txt
+398B 22   Sthrehley      BenJ. F.       8      VA.               pg0396a.txt
+398B 15   Sthrehley      E.             43     VA.               pg0396a.txt
+398B 21   Sthrehley      E. W.          11     VA.               pg0396a.txt
+398B 20   Sthrehley      J. M.          15     VA.               pg0396a.txt
+398B 25   Sthrehley      L. B.          13     VA.               pg0396a.txt
+398B 24   Sthrehley      R. T.          5      VA.               pg0396a.txt
+398B 23   Sthrehley      R.* T.         5      VA.               pg0396a.txt
+398B 19   Sthrehley      W. H.          20     Va.               pg0396a.txt
+401B 31   Stiffer        Geo. G.        48     Maryland          pg0396a.txt
+401B 35   Stiffer        J.             5      KY.               pg0396a.txt
+401B 36   Stiffer        M. C.          3      KY.               pg0396a.txt
+401B 32   Stiffer        S.             38     KY.               pg0396a.txt
+410A 7    Stone          Fanny          65     Virga.            pg0407a.txt
+410A 6    Stone          Jesse          60     Virga.            pg0407a.txt
+406B 29   Strand         F. G.          35     Kent'y            pg0396a.txt
+403B 3    Striby         W.             30     Germany           pg0396a.txt
+415B 3    Stubbs         Elizabeth      2      Kent'y            pg0407a.txt
+415B 2    Stubbs         Eveline        26     Kent'y            pg0407a.txt
+415B 1    Stubbs         Hartwell       24     Kent'y            pg0407a.txt
+417A 16   Stubbs         Henry          17     Kent'y            pg0407a.txt
+415B 4    Stubbs         Mary A.        1      Kent'y            pg0407a.txt
+415B 5    Stubbs         William        65     Maryland          pg0407a.txt
+416A 8    Sudduth        James          34     Kent'y            pg0407a.txt
+416A 10   Sudduth        Livy* G.       30     Kent'y            pg0407a.txt
+416A 9    Sudduth        William R.     3*     Kent'y            pg0407a.txt
+397B 27   Sullavan       David          28     KY.               pg0396a.txt
+396B 37   Sullavan       Eliz           12     KY.               pg0396a.txt
+408A 16   Sullavan       John           23     KY.               pg0407a.txt
+397B 29   Sullavan       Margaret       17     KY.               pg0396a.txt
+397B 15   Sutphin        Charles        20     KY.               pg0396a.txt
+397B 16   Sutphin        Jos. Evans     3      KY.               pg0396a.txt
+407B 11   Sutphin        Wm.            16     Kent'y            pg0407a.txt
+418A 40   Sutton         Aguiss         16     Kent'y            pg0418a.txt
+397A 27   Sutton         Anne           44     VA.               pg0396a.txt
+397A 30   Sutton         Anne           6      KY.               pg0396a.txt
+397A 31   Sutton         Caroline       4      KY.               pg0396a.txt
+418A 37   Sutton         Elizabeth      25     Kent'y            pg0418a.txt
+397A 32   Sutton         Henry          2      KY.               pg0396a.txt
+418A 38   Sutton         Henry          23     Kent'y            pg0418a.txt
+416A 22   Sutton         James          12     Kent'y            pg0407a.txt
+404B 14   Sutton         Jas. W.        35     KY.               pg0396a.txt
+397A 28   Sutton         John           25     KY.               pg0396a.txt
+416A 24   Sutton         John           19     Kent'y            pg0407a.txt
+418A 36   Sutton         John           30     Kent'y            pg0418a.txt
+418A 34   Sutton         Joseph         65     Virga.            pg0418a.txt
+416A 21   Sutton         Lucy           70     Kent'y            pg0407a.txt
+416A 23   Sutton         Mary           10     Kent'y            pg0407a.txt
+418A 35   Sutton         Milly          60     Kent'y            pg0418a.txt
+416A 20   Sutton         Minerva        37     Kent'y            pg0407a.txt
+418A 39   Sutton         Nancy          21     Kent'y            pg0418a.txt
+404B 15   Sutton         S. A.          21     KY.               pg0396a.txt
+397A 26   Sutton         W. L.          53     KY.               pg0396a.txt
+416A 19   Sutton         William        37     Virga.            pg0407a.txt
+397A 29   Sutton         Wm H.          9      KY.               pg0396a.txt
+404B 16   Sutton         Wm H.          1      KY.               pg0396a.txt
+415B 10   Switzer        Ann R.         5      Kent'y            pg0407a.txt
+415B 7    Switzer        Elizabeth      34     Kent'y            pg0407a.txt
+415B 11   Switzer        Howard         5/12   Kent'y            pg0407a.txt
+415B 6    Switzer        Nathaniel      37     Ireland           pg0407a.txt
+415B 9    Switzer        Susan A.       8      Kent'y            pg0407a.txt
+415B 8    Switzer        William A.     10     Kent'y            pg0407a.txt
+413A 28   Talbot         Jacob          55     Kent'y            pg0407a.txt
+406A 1    Tanner         E.             24     Kentucky          pg0396a.txt
+406A 4    Tanner         J. M.          4      Kentucky          pg0396a.txt
+415B 33   Tanner         John           70     Penna.            pg0407a.txt
+406A 2    Tanner         L. J.          7      Kentucky          pg0396a.txt
+415B 34   Tanner         Lucy           67     Virga.            pg0407a.txt
+406A 3    Tanner         M. F.          6      Kentucky          pg0396a.txt
+405B 42   Tanner         O. H. P.       30     Kent'y            pg0396a.txt
+397B 36   Tarry          Henry          5      KY.               pg0396a.txt
+397B 33   Tarry          Mary           12     KY.               pg0396a.txt
+397B 35   Tarry          Peter          6      KY.               pg0396a.txt
+397B 32   Tarry          Susan          40     KY.               pg0396a.txt
+397B 34   Tarry          William        8      KY.               pg0396a.txt
+405B 11   Taul           F. A.          46     Kent'y            pg0396a.txt
+405B 10   Taul           S. H.          47     Kent'y            pg0396a.txt
+405A 19   Taylor         A. E.          9/12   Kent'y            pg0396a.txt
+409B 40   Taylor         Brooking       25     KY.               pg0407a.txt
+402B 1    Taylor         Fanny          7      KY.               pg0396a.txt
+407A 13   Taylor         J. D.          16     Kent'y            pg0407a.txt
+405A 16   Taylor         J. F.          42     Kent'y            pg0396a.txt
+405A 18   Taylor         J. L.          5      Kent'y            pg0396a.txt
+405A 17   Taylor         L.             33     Kent'y            pg0396a.txt
+402B 16   Taylor         R. H.          48     KY.               pg0396a.txt
+405A 13   Thomas         A. E.          10     Kent'y            pg0396a.txt
+405A 10   Thomas         F. J.          33     Kent'y            pg0396a.txt
+410A 8    Thomas         H.             5      KY.               pg0407a.txt
+405A 11   Thomas         John W.        17     Kent'y            pg0396a.txt
+405A 12   Thomas         Jos.           15     Kent'y            pg0396a.txt
+405A 14   Thomas         Les. T.        7      Kent'y            pg0396a.txt
+405A 15   Thomas         Mary           7      Kent'y            pg0396a.txt
+405A 9    Thomas         Presley        42     Kent'y            pg0396a.txt
+412A 11   Thomason       Edgar          2      Kentucky          pg0407a.txt
+412A 6    Thomason       Elias          13     Kentucky          pg0407a.txt
+412A 10   Thomason       Fernando       5      Kentucky          pg0407a.txt
+417B 24   Thomason       Frances        8      Kent'y            pg0407a.txt
+417B 26   Thomason       James          5      Kent'y            pg0407a.txt
+417B 22   Thomason       Jephtha        29     Kent'y            pg0407a.txt
+417B 28   Thomason       Joseph         23     Kent'y            pg0407a.txt
+417B 27   Thomason       Joseph H.      2      Kent'y            pg0407a.txt
+399A 21   Thomason       L.             13     KY.               pg0396a.txt
+412A 5    Thomason       Lucy           14     Kentucky          pg0407a.txt
+412A 9    Thomason       Martha         7      Kentucky          pg0407a.txt
+412A 12   Thomason       Mason          1/12   Kentucky          pg0407a.txt
+417B 25   Thomason       Minor          7      Kent'y            pg0407a.txt
+417B 23   Thomason       Nancy          30     Kent'y            pg0407a.txt
+412A 8    Thomason       Newton         9      Kentucky          pg0407a.txt
+399A 22   Thomason       S. E.          10     KY.               pg0396a.txt
+412A 3    Thomason       Sandford       38     Kentucky          pg0407a.txt
+412A 4    Thomason       Thomson  Ann   35     Kentucky          pg0407a.txt
+412A 7    Thomason       Zackariah      11     Kentucky          pg0407a.txt
+396A 12   Thompson       B. T.          48     Kentucky          pg0396a.txt
+396A 13   Thompson       Mary Anne      42     kentucky          pg0396a.txt
+400A 34   Thomsom        David C.       20     KY.               pg0396a.txt
+400A 35   Thomsom        H. Clay        18     KY.               pg0396a.txt
+400A 37   Thomsom        Manluis Ann    4      KY.               pg0396a.txt
+400A 32   Thomsom        Manluis V.     48     KY                pg0396a.txt
+400A 33   Thomsom        Mary Ann       45     KY.               pg0396a.txt
+400A 36   Thomsom        Sally          12     KY.               pg0396a.txt
+404A 4    Thomson        A.             19     Missouri          pg0396a.txt
+404A 3    Thomson        J.             21     Missouri          pg0396a.txt
+407A 27   Threlkeld      David          52     Kent'y            pg0407a.txt
+407A 28   Threlkeld      O.E.           23     Kent'y            pg0407a.txt
+408A 37   Todhunter*     E.             18     Kent'y            pg0407a.txt
+407B 12   Tomlinson      Wm.            25     Kent'y            pg0407a.txt
+397A 1    Toppass        America        34     KY.               pg0396a.txt
+397A 2    Toppass        Catherine      5      KY.               pg0396a.txt
+402A 12   Toppass        E.             18     KY.               pg0396a.txt
+396B 42   Toppass        George         32     KY.               pg0396a.txt
+402A 10   Toppass        James          66     Maryland          pg0396a.txt
+402A 11   Toppass        M.             20     KY.               pg0396a.txt
+413B 39   Trowbridge     Benjamin E.    28     Kent'y            pg0407a.txt
+413B 38   Trowbridge     Joseph F. R.   21     Kent'y            pg0407a.txt
+408A 38   Truman         G. R.          20     Kent'y            pg0407a.txt
+405B 12   Tucker         G.             38     Kent'y            pg0396a.txt
+398B 42   Tyler          Wm             19     KY.               pg0396a.txt
+396B 18   Vallandingham  Amanda         34     Kent'y            pg0396a.txt
+396B 19   Vallandingham  Anna B.        6      Kent'y            pg0396a.txt
+396B 17   Vallandingham  Gro. L.        35     Kent'y            pg0396a.txt
+396B 20   Vallandingham  Henry C.       9      Kent'y            pg0396a.txt
+396B 21   Vallandingham  Susan V.       2      Kent'y            pg0396a.txt
+399B 12   Wagley         E.             43     KY.               pg0396a.txt
+399B 15   Wagley         M.             15     KY.               pg0396a.txt
+413B 18   Wallace        Amanda         8      Kent'y            pg0407a.txt
+413B 19   Wallace        Elizabeth      6      Kent'y            pg0407a.txt
+407B 18   Wallace        Jacob          12     Kent'y            pg0407a.txt
+413B 16   Wallace        John           29     Kent'y            pg0407a.txt
+413B 17   Wallace        Sarah E.       11     Kent'y            pg0407a.txt
+404B 41   Wallecir       F.             40     Germany           pg0396a.txt
+409A 8    Waller         M.             13     Kent'y            pg0407a.txt
+396A 11   War*en         A****s F.      25     Kentucky          pg0396a.txt
+401A 10   Warford        A. E.          5      KY.               pg0396a.txt
+401A 6    Warford        E. F.          29     KY.               pg0396a.txt
+401A 9    Warford        E. F.          11     KY.               pg0396a.txt
+396A 10   Warren         Jno F          32     Kentucky          pg0396a.txt
+403B 21   Weeks          B. M.          8      KY.               pg0396a.txt
+403B 23   Weeks          H. C.          3      KY.               pg0396a.txt
+403B 18   Weeks          John H.        39     Virginia          pg0396a.txt
+403B 19   Weeks          M.             25     KY.               pg0396a.txt
+403B 22   Weeks          R. M.          6      KY.               pg0396a.txt
+404A 13   West           A.             37     KY.               pg0396a.txt
+404A 16   West           A. T.          14     KY.               pg0396a.txt
+412A 37   West           Ann E.         3      Kent'y            pg0407a.txt
+412A 38   West           B. K.          2      Kent'y            pg0407a.txt
+401A 38   West           C.             16     KY.               pg0396a.txt
+404A 12   West           Clinton        45     KY.               pg0396a.txt
+401A 40   West           G.             11     KY.               pg0396a.txt
+401A 37   West           H.             18     KY.               pg0396a.txt
+404A 15   West           H. C.          18     KY.               pg0396a.txt
+407A 6    West           Henry          46     Kent'y            pg0407a.txt
+401A 39   West           J.             13     KY.               pg0396a.txt
+401A 41   West           J. E.          8      KY.               pg0396a.txt
+404A 14   West           J. W.          21     KY.               pg0396a.txt
+412A 35   West           James L.       25     Kent'y            pg0407a.txt
+407A 10   West           John           13     Kent'y            pg0407a.txt
+404A 18   West           K. C.          2      KY.               pg0396a.txt
+401A 35   West           Lewis          50     KY.               pg0396a.txt
+407A 8    West           Louisa         18     Kent'y            pg0407a.txt
+401A 42   West           Lynn           6      KY.               pg0396a.txt
+407A 9    West           Martha         15     Kent'y            pg0407a.txt
+412A 36   West           Mary           23     Kent'y            pg0407a.txt
+404A 21   West           Orville        24     KY.               pg0396a.txt
+404A 17   West           Preston C.     5      KY.               pg0396a.txt
+401A 36   West           S.             42     KY.               pg0396a.txt
+407A 7    West           Semion         23     Kent'y            pg0407a.txt
+402A 24   Whit           E.             9      KY.               pg0396a.txt
+402A 23   Whit           F.             12     KY.               pg0396a.txt
+402A 25   Whit           J. A.          5      KY.               pg0396a.txt
+402A 22   Whit           S.             38     KY.               pg0396a.txt
+401B 21   White          A.             13     KY.               pg0396a.txt
+401B 20   White          A. M.          32     KY.               pg0396a.txt
+410B 35   White          Abner          63     Penna.            pg0407a.txt
+396B 31   White          Ann B.         5/12   KY.               pg0396a.txt
+410B 36   White          Catherine      45     Kent'y            pg0407a.txt
+401B 25   White          Danl.          3      KY.               pg0396a.txt
+401B 23   White          E.             6      KY.               pg0396a.txt
+401B 22   White          H. C.          8      KY.               pg0396a.txt
+411B 6    White          James K.       14     Kent'y            pg0407a.txt
+396B 33   White          John E.        35     KY.               pg0396a.txt
+411B 8    White          Lewellyn E.    2      Kent'y            pg0407a.txt
+396B 36   White          Margaret B.    9      KY.               pg0396a.txt
+411B 5    White          Marietta       24     Kent'y            pg0407a.txt
+411B 7    White          Mary T.        4      Kent'y            pg0407a.txt
+396B 28   White          Naomi          26     KY.               pg0396a.txt
+396B 34   White          Priscilla      30     KY.               pg0396a.txt
+410B 37   White          Sarah A.       17     Kent'y            pg0407a.txt
+401B 26   White          Susan          3/12   KY.               pg0396a.txt
+401B 19   White          T. B.          41     KY.               pg0396a.txt
+401B 24   White          Thomas B.      3      KY.               pg0396a.txt
+411B 4    White          Thos. C.       34     Kent'y            pg0407a.txt
+396B 29   White          Wallace        4      KY.               pg0396a.txt
+396B 30   White          William E.     3      KY.               pg0396a.txt
+396B 35   White          Wm A.          11     KY.               pg0396a.txt
+396B 27   White          Wm C.          37     KY.               pg0396a.txt
+408B 4    Whitford       A. S.          32     Kent'y            pg0407a.txt
+408B 7    Whitford       C.             3      Kent'y            pg0407a.txt
+408B 6    Whitford       E.             4      Kent'y            pg0407a.txt
+408B 5    Whitford       L.             27     Kent'y            pg0407a.txt
+408B 8    Whitford       Thos.          1      Kent'y            pg0407a.txt
+399A 40   Wibb           Anne D.        40     KY.               pg0396a.txt
+399B 2    Wibb           Annice         9      KY.               pg0396a.txt
+399A 42   Wibb           John V.        16     KY.               pg0396a.txt
+399B 1    Wibb           Justice        11     KY.               pg0396a.txt
+399B 3    Wibb           Roberta        3      KY.               pg0396a.txt
+399A 41   Wibb           Wm R.          18     KY.               pg0396a.txt
+399A 39   Wibb           Wyatt C.       50     KY                pg0396a.txt
+409B 29   Wiggins        E.             12     KY.               pg0407a.txt
+409B 28   Wiggins        H.             14     KY.               pg0407a.txt
+409B 30   Wiggins        J. JR.         8      KY.               pg0407a.txt
+409B 26   Wiggins        Joel           42     KY.               pg0407a.txt
+420B 20   Wiggins        John           23     Kent'y            pg0418a.txt
+409B 27   Wiggins        Nancy M.       38     KY.               pg0407a.txt
+399B 8    Willging       M.             24     KY.               pg0396a.txt
+399B 7    Willging       Philip         30     Germany           pg0396a.txt
+414A 33   Williams       Alexander      1/12   Kent'y            pg0407a.txt
+401B 18   Williams       Ann            12     KY.               pg0396a.txt
+414A 31   Williams       Barthw S.      33     Kent'y            pg0407a.txt
+405B 41   Williams       C.             50     Kent'y            pg0396a.txt
+414A 29   Williams       Charles N.     4      Kent'y            pg0407a.txt
+399B 4    Williams       Chs. C.        16     Louisiana         pg0396a.txt
+414A 28   Williams       George H.      6      Kent'y            pg0407a.txt
+414A 26   Williams       H. G.          33     Kent'y            pg0407a.txt
+409A 2    Williams       J.             12     Missi.            pg0407a.txt
+414A 30   Williams       John H.        10/12  Kent'y            pg0407a.txt
+414A 27   Williams       Julian         24     Kent'y            pg0407a.txt
+408B 42   Williams       M.             14     KY.               pg0407a.txt
+401B 17   Williams       M. J.          18     KY.               pg0396a.txt
+409A 1    Williams       M. L.          14     Missi.            pg0407a.txt
+414A 32   Williams       Nancy J.       22     Kent'y            pg0407a.txt
+401B 15   Williams       Rosa           34     KY.               pg0396a.txt
+406A 28   Williams       Wm.            31     Ireland           pg0396a.txt
+407A 38   Wilson         Dewitt         22     Kent'y            pg0407a.txt
+399A 13   Wilson         H.             20     KY                pg0396a.txt
+407B 3    Wilson         Joseph         15     Kent'y            pg0407a.txt
+409A 15   Wilson         M. J.          12     Kent'y            pg0407a.txt
+407B 5    Wilson         N.             24     Kent'y            pg0407a.txt
+403B 34   Wilson         R.             16     KY.               pg0396a.txt
+399B 17   Winston        A. M.          13     KY.               pg0396a.txt
+399B 21   Winston        Alfred         7      KY.               pg0396a.txt
+399B 23   Winston        Augusta        3      KY.               pg0396a.txt
+399B 24   Winston        Eliza          2      KY.               pg0396a.txt
+399B 19   Winston        John           10     KY.               pg0396a.txt
+399B 10   Winston        John D.        45     VA.               pg0396a.txt
+404A 6    Winston        Jos.           17     Texas             pg0396a.txt
+399B 20   Winston        Julia          8      KY.               pg0396a.txt
+399B 16   Winston        M.             14     KY.               pg0396a.txt
+399B 22   Winston        Mary           5      KY.               pg0396a.txt
+399B 11   Winston        N. J.          37     KY.               pg0396a.txt
+399B 18   Winston        Wm             11     KY.               pg0396a.txt
+410B 14   Winter         Geo. W.        50     KY.               pg0407a.txt
+410B 16   Winter         Henry H.       10     KY.               pg0407a.txt
+410B 15   Winter         Wm. G.         21     KY.               pg0407a.txt
+400A 26   Wise           A. M.          26     KY.               pg0396a.txt
+400A 29   Wise           C.             2      KY.               pg0396a.txt
+400A 27   Wise           G. W.          11     KY.               pg0396a.txt
+400A 28   Wise           M. E.          6      KY.               pg0396a.txt
+400A 25   Wise           W. W.          33     Dist. Columbia    pg0396a.txt
+405B 14   Withers        J. R.          32     Kent'y            pg0396a.txt
+405B 13   Withers        Mary           50     Kent'y            pg0396a.txt
+399B 26   Wolf           E.             19     KY.               pg0396a.txt
+399B 28   Wolf           E. P.          1      KY.               pg0396a.txt
+399B 27   Wolf           J. A.          2      KY.               pg0396a.txt
+399B 25   Wolf           John H.        25     Germany           pg0396a.txt
+415A 17   Woodgate       Delilah        35     KY.               pg0407a.txt
+413B 33   Woodgate       James          31     Kent'y            pg0407a.txt
+413B 37   Woodgate       James          1 6/12 Kent'y            pg0407a.txt
+413B 36   Woodgate       Joseph         4      Kent'y            pg0407a.txt
+413B 34   Woodgate       Martha         28     Kent'y            pg0407a.txt
+413B 35   Woodgate       William        6      Kent'y            pg0407a.txt
+408B 33   Wortham        M.             14     KY.               pg0407a.txt
+411A 10   Worthing       M. E.          23     Kent'y            pg0407a.txt
