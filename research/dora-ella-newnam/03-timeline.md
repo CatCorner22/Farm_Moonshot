@@ -19,8 +19,10 @@ Place as it was *at the date*; modern equivalent in brackets. Flag impossibiliti
 | 29 Dec 1881 | 10 | Sister Malissa D. m. Moses Estes at Elias Newnam’s | Lee Co., KY | C045 | S004 book |
 | 28 Feb 1884 | 12 | Sister Francis E. m. Millard F. Jones at Elias E. Newnam’s | Lee Co., KY | C046 | S004 book |
 | **Thu 10 Dec 1885** | **14** | **m1 Samuel P. Newnam, 16, at Doll Newnam’s, Rev. J. E. Dunagin; wit. Doll Newnam & Link Mays** | Lee Co., KY | C010 | S004 |
+| **Wed 16 Dec 1885** | **14** | Published *Three Forks Enterprise* gleaning names only Bowman × Day at Zachariah — **nil** Dora wedding extract. Page “Under construction” — not proof the paper never printed it | Lee Co., KY | C489 | S424 |
 | after mid-1880 × before ~Sep 1881/82 | — | FAN: Larkin Mays × Louisa Pendergrass (license unread; both single in 1880 Booneville; before Vestie — **C483**). Published VS gap **1879–1902** | Owsley or Lee Co., KY | C138 C483 C148 | S126 S128 S132 S412 |
 | 10 Feb 1886 | 14 | Sister **Mary L.** (PROBABLE) m. James Hoover, age 17; **not** Dora | Lee Co., KY | C100 | S075 |
+| **18 Nov 1887** | **16** | FAN: published licenses include **William N. TINCHER** × **Mary NEWNAM** — same woman as Lee wills **Mary F. Newnam TINCHER**; **not** P001 | Lee Co., KY | C490 C232 | S424 |
 | Jun 1886 | — | Niece **Provy/Provie Hoover** born (Elias’s granddaughter) | Lee Co., KY | C096 | S076 |
 | 19 Jul 1889 | — | Brother W. D. Newnam m. Judaliza Durbin; wit. include **Doll Newnam** | Lee Co., KY | C099 | S084 |
 | 8 May 1890 | — | James Hoover **2nd** m. Lutitia Miller (Mary L. no longer his wife) | Lee Co., KY | C100 | S084 |
@@ -39,11 +41,13 @@ Place as it was *at the date*; modern equivalent in brackets. Flag impossibiliti
 | Jun 1900 (enum. 6–28 Jun) | — | Greene Co. MO ED **42–43** name-column swept: **no** Thomas A. Stone head. ED **37** sh **18 A** Thomas A. (C117) unchanged | Campbell Twp / Springfield, Greene Co., MO | C264 C259 C117 | S256 |
 | 1 Jun 1900 | — | Elias & Mary at Proctor hh 25/25, 6-6 children living; **Provy Hoover gdau** 13 in the house. George Burke hh 36/36 includes **Charles B. son** Nov 1879 | Proctor precinct, Lee Co., KY | C096 C097 | S076 |
 | 5 Mar 1900 | 28 | BIL John Newnam d. consumption (context) — **only** Newnam in Lee VS 1900–1904; not Samuel | Lee Co. | C098 | S077 |
+| **20 Dec 1901** | **30** | FAN: *Beattyville News* — “**Will NEWNAM** and family left Thursday to spend the holidays in Indiana.” **POSSIBLE** William D. (**C099**); **not merged** with P001/P002 or 1902 Richmond Will (**C292**) | Beattyville, Lee Co., KY | C491 | S424 |
 | 24 Feb 1906 (WikiTree lore) | ~34 | Alleged death of Samuel. Pass **72** free will/probate indexes still **nil**; FS/KDLA/KHS film **unread** (**C424**) | Lee Co.? | C012 C417–C424 | S030 S355–S363 | unproved; required before 1910 by Pearl’s boarding |
 | **29 Aug 1903** | — | FAN: S. P. Farmer × **Martha Mays**, 17, at **her mother’s, Eliza Brandenburg’s** | Lee Co., KY | C165 C161 | S145 |
 | 15 Jul 1903 | — | FAN: Burtie Brandenburg born, d/o John Brandenburg & Louisa Pendergrass (Louisa’s m2 by this date) | Lee Co., KY | C143 | S133 |
 | 4 Oct 1897 | — | FAN: Hardin Gray × **Vesta MAYES**, 16, **at Liza Mays**; father b. VA, mother b. Owsley — **PROVEN** fourth Larkin/Louisa child (C192) | Sturgeon / Lee Co., KY | C166 C167 C192 | S144 S164 |
 | 29 Aug 1904 | ~33 | Loose license: **S. P. Newnam**, 30, b. Lee, farmer, **2nd m.** × **Rosa L. Banks**, 16, at **Henry Banks’**, Lee Co., by J. E. Dunigan — **not merged** with P002 (age 30 vs b. Jun 1869 ≈35; Dora still wife in 1900). If same man: last **documented Lee Co. event** for those initials before 1910 gap | Lee Co., KY | C013 C203 | S014 S218 |
+| **25 Jun 1905** | — | FAN reject: *Indianapolis Star* — Lee Circuit Court murder of young **Lewis Mays**, sole support of a widowed mother. **Not** Larkin T. Mays (dead **1895**) | Lee Co., KY (case) / Indianapolis (paper) | C492 C140 | S425 |
 
 | 28 Sep 1904 | — | Chas. B. Burke × Provie Hoover at Proctor; **“E. T. Newnam Granfather appeared”** | Proctor, Lee Co., KY | C096 | S074 |
 | 22 Dec 1904 | — | FAN: Whitley Mays × Lillie Farmer (groom 20) — PROBABLE 1900 Whitly | Lee Co., KY | C168 | S146 |

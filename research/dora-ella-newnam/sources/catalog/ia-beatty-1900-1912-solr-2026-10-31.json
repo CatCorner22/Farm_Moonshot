@@ -1,0 +1,1 @@
+{"responseHeader":{"status":0,"QTime":20,"params":{"query":"title:(beattyville enterprise) AND year:[1900 TO 1912]","qin":"title:(beattyville enterprise) AND year:[1900 TO 1912]","fields":"identifier,title,year","wt":"json","rows":5,"start":0}},"response":{"numFound":0,"start":0,"docs":[]}}

@@ -291,6 +291,17 @@ Regenerated **before** B030 Yell/AR marriage residual queries (`bc-20e39036`). *
 
 Exact strings logged **L514–L525**.
 
+## Name-variant storm (pass 81, `search_variants.py`, 31 Oct 2026)
+
+Regenerated **before** B042 KDNP / Lee papers residual queries (`bc-c5415202`). **Did not take B030** (`bc-20e39036` Pass **80**, **C464–C470 / L514–L525 / S398–S405**). **Did not take B007** (`bc-6d51c793` Pass **76**). **Did not take B014 / B047 / B049 / B055 / B056.** **Did not retake B015 / B016 / B039 / B045 / B051 / B054 / B057 / B092.** This pass uses **C484+ / L576+ / S418+**. Categories **1–4**:
+
+1. **Canonical:** Dora Ella Newnam (P001); Charles / T. A. Stone (P003); Robert Newnam + Sallie (Lester’s parents); Larkin Mays × Louisa Pendergrass; Samuel P. Newnam (P002).
+2. **User / family:** Newman / Newnam / Newnarn / Newan / Newnom; Dora / Ella / Posa / Doll; Stone; Mays / Mayse / Mayes; Louisa / Eliza; Sallie / Sally.
+3. **Machine / OCR given:** Dora → posa / dosa / rosa / dona / dara / dore / dori / dola / pora / rora. Surname: Newnam, newman, newnarn, newan, newnom. Soundex **N550** / **S350** / **M200** / Dora **D600**.
+4. **Repository quirks:** KDNP CONTENTdm JS search (no unauthenticated dump); Chronicling America LCCN **sn86069167** directory vs full-text API; kykinfolk / USGenNet Lee `newspapers.html` holdings table; IA Solr `title:(beattyville enterprise)` / `collection:kentuckynewspapers`; Newspapers.com paper **39744** paywall; UK film **S 90-033**.
+
+Exact strings logged **L576–L585**.
+
 ## Agent SDK / GitHub channel
 
 Inspected 30 Oct 2026 (**L351**): this repository has **no** `package.json`, **no** `@grok/agent-sdk`, **no** `bot/` directory. GitHub channel `bot/channels/github.ts` is **n/a** and was **not** authored. Project subagent: `.cursor/agents/dora-genealogy-detective.md`.
