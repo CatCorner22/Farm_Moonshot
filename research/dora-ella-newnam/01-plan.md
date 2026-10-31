@@ -313,6 +313,17 @@ Regenerated **before** B020 FAG memorial-biography queries (`bc-20e39036`). **Di
 
 Exact strings logged **L586–L596**.
 
+## Name-variant storm (pass 83, `search_variants.py`, 31 Oct 2026)
+
+Regenerated **before** B007 residual queries (`bc-6d51c793`). **Did not take B014 / B015 / B016 / B039 / B047 / B049 / B055 / B056.** **Did not retake Liberty ED 4 or B092.** This pass uses **C504–C513 / L597–L606 / S436–S445**. Categories **1–4**:
+
+1. **Canonical:** John Sullivan; Ida M Sullivan; Sarah Newman/Newnam MIL; Oscar S. Newman/Newnam BIL; C245 household (1910 Liberty ED **4** sh **7 B** dw/fam **158/160**).
+2. **User / family:** John / Jon / Jno / J. A. / J. H.; Sullivan / Sulivan / Sullivant; Ida / Ida M / Ida B; Newman / Newnam; Sarah / Sallie; Liberty / Bollinger / Crooked Creek / Fillmore / German / Lorance.
+3. **Machine / OCR given:** John (ocr-given: John only); Ida (ocr-given: Ida only). Surname Sullivan (no OCR_SURNAME_SUBS hit); also Sulivan / Sullivant. Soundex **S415** / **N550** / **I300**.
+4. **Repository quirks:** T623-839 BookReader jp2 (IA `12thcensusofpopu839unit`); Soundex cards filed by given name on `soundex1900mo248` (T1055 roll **248**); US-Census.org ED map **839** vs **840**; Soundex line-number vs original line (p. **3396** vs sh **11 B** ln **97**).
+
+Exact strings logged **L597–L606**.
+
 ## Name-variant storm (pass 84, `search_variants.py`, 31 Oct 2026)
 
 Regenerated **before** B039 Hayes/Smith book residual queries (`bc-c5415202`). **Did not take B020** (`bc-20e39036` Pass **82**, **C494–C503 / L586–L596 / S428–S435**). **Did not take B007** (`bc-6d51c793` Pass **83**, reserved **C504+ / L597+ / S436+**). **Did not take B014 / B030 / B042 digital table / B047 / B049 / B055 / B056.** **Did not retake B015 / B016 / B045 / B051 / B054 / B057 / B092.** This pass uses **C514–C523 / L607–L616 / S446–S455**. Categories **1–4**:
