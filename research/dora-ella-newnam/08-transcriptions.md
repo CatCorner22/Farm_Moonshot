@@ -3530,3 +3530,154 @@ Pass 2: Sampled James window **2760–2920** **nil** Carmack, James ~50 Owsley v
 ### Facts extracted → claim IDs
 - C-652 sampled James nil Carmack James Owsley; those Jameses DISPROVED → C827
 
+## DOC143 — 1910 Owsley ED 168 sheet 2 A/2 B dwellings 23–27 (original)
+
+- Jacob crop: `sources/census/1910-owsley-ed168-sh2a-hh23-carmack-jacob.jpg` SHA-256 `843044a57e2bcb50cc79c665db4fc28485a1f77fcd303ccb020c7951c4140406`
+- Daniel crop: `…hh24-mcintosh-daniel.jpg` `9e7d6b858549042f6d9846c01d9114e379a9114ece84b456892dcfc64c18cca0`
+- James crop: `…sh2b-hh25-carmack-james.jpg` `9b637847a9fbde946fdb876f7778e04a9e238ecaf151d00cc799dfadfeb03115`
+- Reece crop: `…sh2b-hh27-gaine-reece.jpg` `432cfc45d757017b5b55a5055723d736e714bd0400711c375e098f1db223b3e9`
+- Extract: `owsley-1910-ed168-sh2-fan-pass78.txt` `67916fffd63dd00398b134d7464bc09bb4b907f3f5322a90bd7bb2b8f8c12a27`
+- Provenance: NARA T624-**498** / IA `13thcensus1910po498unit` leaves **950–951**, opened 30 Oct 2026. **Image-seen.** Enumerator **George M. Hogg[?]**. Sheet 2 B **19 Apr 1910**.
+
+### Diplomatic — cited lines
+
+> Dw **23/23 Carmack, Jacob** Head m W **82** m1 **50** · **Lyda** Wife f W **77** m **50** **7-6**. Pass 74 Martha 70 **CORRECTED**.
+
+> Dw **24/24 McIntosh, Daniel** Head m W **42** m1 **13** · **Fannie[?] Harris** Wife f W **31** m **13** **4-4** · Laura 19 · Arthur 17 · Hugh 15 · Cecil[?] 13 · Susan 10 · Ellen 8 · Ople 6.
+
+> Dw **25/25 Carmack, James** Head m W **40** m1 **19** · **Maribe** Wife f W **33** m1 **19** **7-6** · Maud 13 · Dewey 10 (crop).
+
+> Dw **27/27** Head diplomatically **Gaine[?], Reece** m W **26** m1 **2** · wife line written in full **Daniel, Linda** Wife f W **19** m1 **2** **1-1** · **Bessie** Dau **4/12** S. Wife surname is Daniel, not ditto.
+
+Pass 2: Uncertain given names marked [?]. 4-4 on Fannie[?] Harris fits Cecil through Ople born during the 13-year marriage.
+
+### Facts extracted → claim IDs
+- Jacob × Lyda 77 CORRECTED → C837
+- McIntosh Daniel 42 × Fannie[?] Harris 31 4-4 → C835
+- Carmack James 40 × Maribe 33 → C838
+- Gaine[?] Reece 26 × Daniel Linda 19 + Bessie 4/12 → C832
+
+## DOC144 — 1910 Owsley ED 168 sheet 2 B dwellings 28–33 (original)
+
+- Dean crop: `sources/census/1910-owsley-ed168-sh2b-hh28-30-dean.jpg` SHA-256 `9526f3bfc6a36ef5d4acee0914d814319873689c94fccf0f22908a3bb695a73c`
+- Gabbard crop: `…hh32-33-gabbard.jpg` `f83e8dfb3a68160b49223221348c117d720f4f8eeabdcabdffe50818a9013d6c`
+- Extract: same `owsley-1910-ed168-sh2-fan-pass78.txt`
+- Provenance: NARA T624-**498** / IA `13thcensus1910po498unit` leaf **951**, opened 30 Oct 2026. **Image-seen.**
+
+### Diplomatic — cited lines
+
+> Dw **28/28 Dean, Daniel B.** Head m W **28** m1 **4/12** · Ida Wife **27** m1 **4/12**.
+
+> Dw **29/29 Dean, George** Head m W **32** m1 **9** · Martha Wife **30** **5-5** · Nellie 7 · Stella 6 · Clay 5 · Ethel[?]/Idol[?] 3 · Lennie[?] 4/12.
+
+> Dw **30/30 Dean, Maggie** Head f W **65 Wd** **7-6** · Brice[?]/Bruce GS **16**. Pass 74 Lizzie 63 **CORRECTED**.
+
+> Dw **32/32 Gabbard, Michael** Head m W **25** m **3** · Addie Wife **20** **3-2** · Mabel 13/12.
+
+> Dw **33/33 Gabbard, Willis** Head m W **30** m **8** · Jane Wife **25** **2-1** · Sudie Dau **7**. Pass 74 Lewis[?] **CORRECTED**.
+
+Pass 2: Uncertain child given names marked [?].
+
+### Facts extracted → claim IDs
+- Dean Maggie 65 CORRECTED; George × Martha stands as the 1910 house → C843
+- Gabbard Michael 25 × Addie; Willis 30 × Jane + Sudie → C840
+
+## DOC145 — 1920 Owsley ED 92 sheet 6 A dwelling 106, Daniel Reece (original)
+
+- Household crop: `sources/census/1920-owsley-ed92-sh6a-hh106-daniel-reece.jpg` SHA-256 `e79e56b660c80a5cf33158129de6928c4f2abf7a1de4440728681c5562a07cbe`
+- Extract: `owsley-1920-ed92-sh6a-daniel-reece-pass78.txt` `8bf15117ebb4f95e2515d8461df44f67925d89679bd3a95b249f9769729c159b`
+- Provenance: NARA T625-**594** / IA `14thcensusofpopu594unit` leaf **1166**, opened 30 Oct 2026. **Image-seen.** Enumerator **Fred Hubbard**, **14 Jan 1920**. Same name column as Gay Henry dw **105** (S591).
+
+### Diplomatic — cited lines
+
+> Ln **86** fam **106/106 Daniel, Reece** Head m W **38** m.
+
+> Ln **87** **Lula** Wife f W **28**[?] m.
+
+> Ln **88** **Bessie** Daughter f W **10** S.
+
+Pass 2: Age 28 on Lula marked [?]. Same sheet as Gay, Henry dw **105**. **Not** missing sheet 1.
+
+### Facts extracted → claim IDs
+- 1920 Daniel Reece 38 × Lula + Bessie 10 PROBABLE 1910 dw 27 → C833
+
+## DOC146 — 1920 Kentucky Soundex G-500, Gaine Reece window (derivative)
+
+- Card 2360: `sources/soundex/ky1920-g500-p2360-guyn-raymond-34-woodford.jpg` SHA-256 `67868e4793b648c4abbf8872129b491b1584ab5dfba0fd883708ddf0c3b95b76`
+- Card 2365: `…p2365-guinn-richard-47-louisville.jpg` `bd8105cfd569709178d1392cd6b020e7f89332fcf532e3eca839cb5a32681e65`
+- Card 2380: `…p2380-gwinn-robert-27-whitley.jpg` `a927408d69ad98b1d20778a84e9a14d598d99bf1db22202445a39a2b82da03e2`
+- Extract: `ky1920-g500-gaine-reece-pass78.txt` `5b8b547cc0dcf24bec64fb9c4956bb39bb21d29bc8a664be39345e3cf1462de5`
+- Provenance: NARA M1563 reel **60** / IA `soundex1920ky060`, opened 30 Oct 2026. **Image-seen.** Given-name sort. Code isolated on ky060.
+
+### Diplomatic — cited cards
+
+> G-500 **Guyn, Raymond** W **34** Kentucky Woodford × Mabel 30 · **DISPROVED** as 1910 Reece.
+
+> G-500 **Guinn, Richard** W **47** Kentucky Jefferson Louisville + Mary sister 52 · **DISPROVED**.
+
+> G-500 **Gwinn, Robert** W **27** Tennessee Whitley Corbin SIL of Stanfill Asa · **DISPROVED**.
+
+Pass 2: Denser R-window **2350–2380** **nil** Gaine/Gaines/Guyn Reece ~36 Owsley vol **76** ED **92**. Residual **2361–2364**. Hard Rule 6: original leaf **1166** ln **86** stands.
+
+### Facts extracted → claim IDs
+- G-500 denser nil Reece Gaine Owsley; those Reeces DISPROVED → C834
+
+## DOC147 — 1920 Kentucky Soundex M-253, McIntosh Daniel window (derivative)
+
+- Card 3730: `sources/soundex/ky1920-m253-p3730-mcintosh-daniel-cont.jpg` SHA-256 `e7980b888bc6086da1a3f83b1e3c4fad99c9d8d3c0129a5ff2faf4aa014b8f78`
+- Card 3735: `…p3735-mackintosh-daniel-23-knox.jpg` `5d4e1ec1cbdc615fa6d50613067171c4062149a92110a01edca1cea294aad4c6`
+- Extract: `ky1920-m253-mcintosh-daniel-pass78.txt` `16c3832a93da59bb958ef46de4039ec2a863e8ab1b65bec768e13c6c6e8d4561`
+- Provenance: NARA M1563 reel **103** / IA `soundex1920ky103`, opened 30 Oct 2026. **Image-seen.** Given-name sort. Code isolated on ky103.
+
+### Diplomatic — cited cards
+
+> M-253 **McIntosh, Daniel** CONTINUATION A-1b See 1: **Lecy** D **11**, **Donie** D **7** Kentucky. Head residual ~**3729**. Children do not match 1910 Buffalo Laura/Arthur/Hugh/Cecil/Susan/Ellen/Ople.
+
+> M-253 **Mackintosh, Daniel** W **23** Kentucky Knox × Jennie 31 · **DISPROVED** (age 23 vs ~52; Knox vs Owsley).
+
+Pass 2: Denser D-window **3728–3755** **nil** McIntosh, Daniel ~52 Owsley vol **76** ED **92**. Do **not** treat Soundex head-nil as proof of death.
+
+### Facts extracted → claim IDs
+- M-253 denser nil McIntosh Daniel ~52 Owsley; Knox Daniel 23 DISPROVED → C836
+
+## DOC148 — 1920 Kentucky Soundex G-163, Gabbard Willis / Michael (derivative)
+
+- Card 3530: `sources/soundex/ky1920-g163-p3530-gabbard-mellie-15-owsley.jpg` SHA-256 `e2503510b2ef1aa30c1d8495e129318ffec06ddc65314dc57a0a5afd5164af7c`
+- Card 3710: `…p3710-gabbard-william-42-jackson.jpg` `0fdd880a3fbe415a1b150de0f88b8f81bf24304fea7af462f7591a91a8a0f3bc`
+- Card 3735: `…p3735-gabbart-willie-58-taylor.jpg` `e3531e08d33d094882aa890bba63b631eefad8bb534c252af6a5623529047699`
+- Extract: `ky1920-g163-gabbard-willis-michael-pass78.txt` `3ce8fc2a3bec24216242da33486d4b78ed7b0fe4b0889b12dfdc763ad92349cd`
+- Provenance: NARA M1563 reel **57** / IA `soundex1920ky057`, opened 30 Oct 2026. **Image-seen.** Given-name sort. G-164 by ~**3742**.
+
+### Diplomatic — cited cards
+
+> G-163 **Gabbard, Mellie** W **15** Kentucky Owsley vol **76** ED **94** sh **3** ln **66** step-daughter of Maddin, Melvine. Owsley FAN; **not** Michael. ED **94** is not filmed Buffalo.
+
+> G-163 **Gabbard, William** W **42** Kentucky Jackson × Sarah 35 · **DISPROVED** as 1910 Willis 30 × Jane + Sudie.
+
+> G-163 **Gabbart, Willie** W **58** Kentucky Taylor × Martha 58 · **DISPROVED**.
+
+Pass 2: Michael window **3510–3535** **nil** Gabbard, Michael ~35 Owsley × Addie. Willis window **3700–3742** **nil** Gabbard, Willis ~40 Owsley × Jane + Sudie. Do **not** treat Soundex head-nil as proof of death.
+
+### Facts extracted → claim IDs
+- G-163 Willis nil; those Williams DISPROVED → C841
+- G-163 Michael nil; Mellie 15 ED 94 FAN → C842
+
+## DOC149 — 1920 Kentucky Soundex C-652, Carmack James remaining leaves (derivative)
+
+- Card 2765: `sources/soundex/ky1920-c652-p2765-crank-james-14-jackson.jpg` SHA-256 `448316d0d2c7a9416e26332048304d0fcf1723aa72cd1c8e597685e8c7e516b7`
+- Card 2768: `…p2768-crenshaw-james-26-louisville.jpg` `2e422003cf8f8b8c8c3845429d9e54133a6fabc7ceed9701d174d8e6b6f0488a`
+- Extract: `ky1920-c652-carmack-james-pass78.txt` `9c06983b77bb4a55f6f64232b55ac1f58ca1f09ac21d3d4e28843033bafd9b9d`
+- Provenance: NARA M1563 reel **38** / IA `soundex1920ky038`, opened 30 Oct 2026. **Image-seen.** Given-name sort. Extends Pass 77 sampled **2760–2920**.
+
+### Diplomatic — cited cards
+
+> C-652 **Crank, James** W **14** Kentucky Jackson nephew of Crank Samuel · **DISPROVED** (age 14 vs ~50).
+
+> C-652 **Crenshaw, James** Mulatto **26** Kentucky Jefferson Louisville × Pearl 24 · **DISPROVED** (age 26 vs ~50; Louisville vs Owsley).
+
+Pass 2: Denser remaining J-window **2752–2768** plus Pass 77 **2760–2920** **nil** Carmack, James ~50 Owsley vol **76** ED **92**. Residual not every leaf **2751–2769**. Do **not** treat Soundex head-nil as proof of death.
+
+### Facts extracted → claim IDs
+- C-652 remaining James nil Carmack James Owsley; those Jameses DISPROVED → C839
+
+

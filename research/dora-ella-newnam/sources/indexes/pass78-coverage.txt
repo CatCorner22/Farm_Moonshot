@@ -1,0 +1,16 @@
+Pass 78 coverage — 30 Oct 2026 America/New_York
+Catalog 117 / hasMore false / totalMatched 117. Was 116.
+NEW vs 116: Dora B088 Wolfe sheets (bc-729f9487) RUNNING; no IDs imported.
+Dora B088 Bell Wolfe now IDLE; Dora B088 John Jennie IDLE.
+No IDs imported from those chats or from sibling PR #33 (C281 not imported).
+Nested reviewer not respawned. Message queue empty.
+This run bc-01a18bb4-e162-785c-9724-86a7c5663bf1.
+
+1910 originals T624-498 leaves 950–951 diplomatic re-read of dw 23–33.
+1920 original T625-594 leaf 1166 dw 106 Daniel Reece.
+Soundex: G-500 ky060 Reece window; M-253 ky103 Daniel window;
+G-163 ky057 Willis/Michael denser; C-652 ky038 remaining James leaves.
+
+B063 still open. B061 still open. Do not promote C509.
+Skip C221–C280 / L245–L342 / S259–S266. Did not mint C274–C280.
+Next unused after this pass: C847+ / L727+ / S615+ / DOC150+.

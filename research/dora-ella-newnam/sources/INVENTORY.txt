@@ -1756,3 +1756,100 @@ research/dora-ella-newnam/sources/census/1880-lee-ky-ed59-sheet43-p768-caroline-
   sha256: db89273e6f0695cb2e61f23c6ba1270f478cd2a6ca1bbca7199bc246a1bd7e28
   format: text extract, 1,260 bytes
   check: Pass 77 coverage; catalog 116; Evans nil entire filmed ED 92
+/workspace/research/dora-ella-newnam/sources/census/1910-owsley-ed168-sh2a-hh23-carmack-jacob.jpg
+  sha256: 843044a57e2bcb50cc79c665db4fc28485a1f77fcd303ccb020c7951c4140406
+  format: JPEG photo, 225,730 bytes
+  check: 1910 original Carmack Jacob 82 x Lyda 77
+/workspace/research/dora-ella-newnam/sources/census/1910-owsley-ed168-sh2a-hh24-mcintosh-daniel.jpg
+  sha256: 9e7d6b858549042f6d9846c01d9114e379a9114ece84b456892dcfc64c18cca0
+  format: JPEG photo, 270,399 bytes
+  check: 1910 original McIntosh Daniel 42 x Fannie Harris 31
+/workspace/research/dora-ella-newnam/sources/census/1910-owsley-ed168-sh2b-hh25-carmack-james.jpg
+  sha256: 9b637847a9fbde946fdb876f7778e04a9e238ecaf151d00cc799dfadfeb03115
+  format: JPEG photo, 245,687 bytes
+  check: 1910 original Carmack James 40 x Maribe 33
+/workspace/research/dora-ella-newnam/sources/census/1910-owsley-ed168-sh2b-hh27-gaine-reece.jpg
+  sha256: 432cfc45d757017b5b55a5055723d736e714bd0400711c375e098f1db223b3e9
+  format: JPEG photo, 108,475 bytes
+  check: 1910 original Gaine Reece 26 x Daniel Linda 19 + Bessie
+/workspace/research/dora-ella-newnam/sources/census/1910-owsley-ed168-sh2b-hh28-30-dean.jpg
+  sha256: 9526f3bfc6a36ef5d4acee0914d814319873689c94fccf0f22908a3bb695a73c
+  format: JPEG photo, 273,271 bytes
+  check: 1910 original Dean Maggie 65 Wd CORRECTED
+/workspace/research/dora-ella-newnam/sources/census/1910-owsley-ed168-sh2b-hh32-33-gabbard.jpg
+  sha256: f83e8dfb3a68160b49223221348c117d720f4f8eeabdcabdffe50818a9013d6c
+  format: JPEG photo, 315,569 bytes
+  check: 1910 original Gabbard Michael 25 and Willis 30
+/workspace/research/dora-ella-newnam/sources/census/1920-owsley-ed92-sh6a-hh106-daniel-reece.jpg
+  sha256: e79e56b660c80a5cf33158129de6928c4f2abf7a1de4440728681c5562a07cbe
+  format: JPEG photo, 131,264 bytes
+  check: 1920 original Daniel Reece 38 x Lula + Bessie 10
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-g500-p2360-guyn-raymond-34-woodford.jpg
+  sha256: 67868e4793b648c4abbf8872129b491b1584ab5dfba0fd883708ddf0c3b95b76
+  format: JPEG photo, 145,676 bytes
+  check: 1920 Soundex G-500 Guyn Raymond 34 Woodford DISPROVED
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-g500-p2365-guinn-richard-47-louisville.jpg
+  sha256: bd8105cfd569709178d1392cd6b020e7f89332fcf532e3eca839cb5a32681e65
+  format: JPEG photo, 169,822 bytes
+  check: 1920 Soundex G-500 Guinn Richard 47 Louisville DISPROVED
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-g500-p2380-gwinn-robert-27-whitley.jpg
+  sha256: a927408d69ad98b1d20778a84e9a14d598d99bf1db22202445a39a2b82da03e2
+  format: JPEG photo, 149,238 bytes
+  check: 1920 Soundex G-500 Gwinn Robert 27 Whitley DISPROVED
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-m253-p3730-mcintosh-daniel-cont.jpg
+  sha256: e7980b888bc6086da1a3f83b1e3c4fad99c9d8d3c0129a5ff2faf4aa014b8f78
+  format: JPEG photo, 175,781 bytes
+  check: 1920 Soundex M-253 McIntosh Daniel continuation Lecy Donie
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-m253-p3735-mackintosh-daniel-23-knox.jpg
+  sha256: 5d4e1ec1cbdc615fa6d50613067171c4062149a92110a01edca1cea294aad4c6
+  format: JPEG photo, 173,484 bytes
+  check: 1920 Soundex M-253 Mackintosh Daniel 23 Knox DISPROVED
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-g163-p3710-gabbard-william-42-jackson.jpg
+  sha256: 0fdd880a3fbe415a1b150de0f88b8f81bf24304fea7af462f7591a91a8a0f3bc
+  format: JPEG photo, 157,423 bytes
+  check: 1920 Soundex G-163 Gabbard William 42 Jackson DISPROVED
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-g163-p3735-gabbart-willie-58-taylor.jpg
+  sha256: e3531e08d33d094882aa890bba63b631eefad8bb534c252af6a5623529047699
+  format: JPEG photo, 157,605 bytes
+  check: 1920 Soundex G-163 Gabbart Willie 58 Taylor DISPROVED
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-g163-p3530-gabbard-mellie-15-owsley.jpg
+  sha256: e2503510b2ef1aa30c1d8495e129318ffec06ddc65314dc57a0a5afd5164af7c
+  format: JPEG photo, 159,556 bytes
+  check: 1920 Soundex G-163 Gabbard Mellie 15 Owsley ED 94 FAN
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-c652-p2765-crank-james-14-jackson.jpg
+  sha256: 448316d0d2c7a9416e26332048304d0fcf1723aa72cd1c8e597685e8c7e516b7
+  format: JPEG photo, 195,036 bytes
+  check: 1920 Soundex C-652 Crank James 14 Jackson DISPROVED
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-c652-p2768-crenshaw-james-26-louisville.jpg
+  sha256: 2e422003cf8f8b8c8c3845429d9e54133a6fabc7ceed9701d174d8e6b6f0488a
+  format: JPEG photo, 202,815 bytes
+  check: 1920 Soundex C-652 Crenshaw James 26 Louisville DISPROVED
+/workspace/research/dora-ella-newnam/sources/indexes/owsley-1910-ed168-sh2-fan-pass78.txt
+  sha256: 67916fffd63dd00398b134d7464bc09bb4b907f3f5322a90bd7bb2b8f8c12a27
+  format: text extract, 1,696 bytes
+  check: 1910 sh 2 FAN diplomatic re-read dw 23-33
+/workspace/research/dora-ella-newnam/sources/indexes/owsley-1920-ed92-sh6a-daniel-reece-pass78.txt
+  sha256: 8bf15117ebb4f95e2515d8461df44f67925d89679bd3a95b249f9769729c159b
+  format: text extract, 826 bytes
+  check: 1920 original Daniel Reece dw 106 PROBABLE 1910 dw 27
+/workspace/research/dora-ella-newnam/sources/indexes/ky1920-g500-gaine-reece-pass78.txt
+  sha256: 5b8b547cc0dcf24bec64fb9c4956bb39bb21d29bc8a664be39345e3cf1462de5
+  format: text extract, 1,379 bytes
+  check: 1920 G-500 denser nil Reece Gaine Owsley
+/workspace/research/dora-ella-newnam/sources/indexes/ky1920-m253-mcintosh-daniel-pass78.txt
+  sha256: 16c3832a93da59bb958ef46de4039ec2a863e8ab1b65bec768e13c6c6e8d4561
+  format: text extract, 1,416 bytes
+  check: 1920 M-253 denser nil McIntosh Daniel ~52 Owsley
+/workspace/research/dora-ella-newnam/sources/indexes/ky1920-g163-gabbard-willis-michael-pass78.txt
+  sha256: 3ce8fc2a3bec24216242da33486d4b78ed7b0fe4b0889b12dfdc763ad92349cd
+  format: text extract, 1,775 bytes
+  check: 1920 G-163 nil Willis and Michael; Mellie 15 FAN
+/workspace/research/dora-ella-newnam/sources/indexes/ky1920-c652-carmack-james-pass78.txt
+  sha256: 9c06983b77bb4a55f6f64232b55ac1f58ca1f09ac21d3d4e28843033bafd9b9d
+  format: text extract, 1,326 bytes
+  check: 1920 C-652 remaining James nil Carmack James Owsley
+/workspace/research/dora-ella-newnam/sources/indexes/pass78-coverage.txt
+  sha256: 075e233c554ce45225babc2f10a9b5e4da64dfb0efb84dac93bd4cd8f43b4288
+  format: text extract, 873 bytes
+  check: Pass 78 coverage; catalog 117; Daniel Reece PROBABLE
+
