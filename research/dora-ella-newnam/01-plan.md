@@ -731,6 +731,20 @@ Exact strings logged **L936–L964**.
 
 Exact strings logged **L965–L990**.
 
+### Pass 102 variant storm (31 Oct 2026)
+
+**Boyd / Allie (B089)** — Boyd/Boyde/Floyd × Newman/Newnam/newnarn/newan/Noonan. Combined: "Boyd Newman" | "Newman, Boyd". Soundex **N550** / **B300**. Place 1930 **33-8** Station Camp South; M1930 roll **15** Estill county + Irvine city maps; A3378 roll **22**.
+
+**Samuel P. (B045/B061)** — Samuel/Sam × Newnam/Newman/newnarn/newan/newnom + will/estate/administration. Combined: "Samuel Newnam" | "Newnam, Samuel".
+
+**Dora Stone 1926 (B049/B058)** — Dora/posa/dosa/rosa/dona/dara/dore/dori/dola/pora/rora × Stone/storie/stona/stome/Newman/Newnam. Soundex **S350** / **N550**. Place Ola / Yell / Danville / Dardanelle. LCCN **SN89051010** (Democrat 1899–1927) / **SN90050035** (Journal) / **SN89051008** (Post-Dispatch). Cert **1524** RD **676**.
+
+**Frank of Berea (B055/B080)** — Frank/David F./David G. × Newnam/Newman. Soundex **N550**. Place Madison / Berea. *Citizen* 1899–1958 microfilm / digitized 1899–1922.
+
+**WWI (B069/B047)** — John H. b. 1899; McCoy b. 1890; Luther b. 1891 × M1509 **KY45 / KY24 / KY74**.
+
+Exact strings logged **L991–L1008**.
+
 ## Agent SDK / GitHub channel
 
 Inspected 30 Oct 2026 (**L351**): this repository has **no** `package.json`, **no** `@grok/agent-sdk`, **no** `bot/` directory. GitHub channel `bot/channels/github.ts` is **n/a** and was **not** authored. Project subagent: `.cursor/agents/dora-genealogy-detective.md`.

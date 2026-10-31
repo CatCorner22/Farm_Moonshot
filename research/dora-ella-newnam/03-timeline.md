@@ -299,5 +299,10 @@ Place as it was *at the date*; modern equivalent in brackets. Flag impossibiliti
 | 12 Apr 1950 | — | FAN **PROVEN** as image: Estill **33-12** sh **13** Boyd **19** farmer in McKamey hh **rejected** vs Boyd ~75. sh **24** OCR Boyd **rejected** | Estill Co., KY | C1156 C1157 | S844 S845 |
 | 1917–1918 | — | FAN **PROVEN** as compiled reget: GT Lee WWI published tables nil Newnam/Newman/McCoy; N unpublished. Kenton holds Owsley M1509 on-site. IA M1509 **0** | Kentucky | C1158 C1159 | S846 S847 |
 | 1926 | — | FAN **PROVEN** as catalog: CA “Dora Stone” 1926 **33** pages, no Yell/Ola/Danville. GT Yell lists Democrat/Journal/Post-Dispatch, not digitized; obits nil | Yell Co., AR | C1161 C1162 | S849 S850 |
+| 1930 | — | FAN **PROVEN** as pamphlet: M1930 List of Maps — Estill + Irvine city; Lee no city sheet; Madison + Richmond (no Berea); Owsley; Wolfe; Woodford + Versailles. Station Camp not a named MCD map | Kentucky | C1169 | S859 |
+| 1899–1927 | — | FAN **PROVEN** as catalog: *Danville Democrat* LCCN **SN89051010** digitized false; recorded holdings **1908:4:2** and **1915:7:15** only — **no 1926** | Danville, Yell Co., AR | C1173 | S864 |
+| Jun 1926 | — | FAN **PROVEN** as catalog: *Yell County Journal* SN90050035 holdings **1926:6:10-17** only. August 1926 Journal **not** held | Ola, Yell Co., AR | C1174 | S865 |
+| 1911–1955 | — | FAN **PROVEN** as catalog: *Dardanelle Post-Dispatch* SN89051008 film **includes Aug 1926** at AR Hist Comn / Dardanelle / Pope / UArk. Surviving 1926 weekly | Dardanelle, Yell Co., AR | C1175 | S866 |
+| 1899–1958 | — | FAN **PROVEN** as catalog: *Citizen* (Berea) digitized **1899–1922**; Hutchins microfilm **1899–1958**; *Berea Citizen* microfilm **1958–2008** | Berea, Madison Co., KY | C1176 C1177 | S868 S869 |
 
 **Impossibility flags:** None. Mother ~29 at Dora’s 1871 birth (Mary b. 1842). Dora age 14 at marriage is legal/period-possible (KY) though young; 1880 age 8 corroborates. Two children born before Coy in the 1886–1889 window would have Dora aged 15–18 — possible. No event after 23 Aug 1926 is attributed to her.
