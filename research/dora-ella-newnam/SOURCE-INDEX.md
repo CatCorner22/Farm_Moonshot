@@ -1,5 +1,7 @@
 # Source index — Dora Ella Newnam Stone
 
+The complete Word index (table of contents, every S-number citation, every DOC transcription, every local file) is [`book/Dora-Ella-Newnam-Stone-Source-Index.docx`](book/Dora-Ella-Newnam-Stone-Source-Index.docx). Rebuild with `python3 scripts/build_dora_source_index_docx.py`.
+
 Working inventory of **saved local copies** in `sources/` plus the authored Word biography.  
 Full file list (331 files): [`sources/SOURCE-INVENTORY.tsv`](sources/SOURCE-INVENTORY.tsv) (path, bytes, SHA-256 prefix).
 

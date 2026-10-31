@@ -33,4 +33,18 @@ Master Word document (regenerate after editing the markdown):
 
 - [`Dora-Ella-Newnam-Stone-A-Life.docx`](Dora-Ella-Newnam-Stone-A-Life.docx)
 
-The builder also rewrites [`../12-image-gallery.md`](../12-image-gallery.md) from `scripts/dora_plates.py`. Chat inventory: [`../13-chat-review.md`](../13-chat-review.md).
+The biography builder also rewrites [`../12-image-gallery.md`](../12-image-gallery.md) from `scripts/dora_plates.py`. Chat inventory: [`../13-chat-review.md`](../13-chat-review.md).
+
+## Source and document index (Word)
+
+Complete index of every document used in the investigation — table of contents, class finding aid, full citation for every S-number, every DOC transcription, every plate, every file under `sources/`, and a claim-to-source crosswalk:
+
+- [`Dora-Ella-Newnam-Stone-Source-Index.docx`](Dora-Ella-Newnam-Stone-Source-Index.docx)
+
+Rebuild from the repository root:
+
+```bash
+python3 scripts/build_dora_source_index_docx.py
+```
+
+Open the file in Microsoft Word and update the table-of-contents field if asked. A reader’s outline with every chapter title is included so the file is usable without Word.
