@@ -1040,5 +1040,49 @@ Age 72 confirms year 1828 (third digit can be misread as 0). Jeremiah B precedes
 
 Age matches 1910 Jesse; given name James; nativity NC; no Letha. → **C405**.
 
+## DOC066 — 1900 WV Soundex C-563, Jesse 68 Grant Dist
+- Image: `sources/soundex/wv1900-c563-p40-jesse-68-grant.jpg` SHA-256 `f3e0a5179070e5cf37b5451416cd0dc6deebe541e73844858da52f98ce23e6bb`
+- Reel: IA `soundex1900wv0018` n**40**
+
+### Diplomatic
+> **C-563 Conrad, Jesse** — Head · vol **7** ED **20** sh **18** ln **13** · W Aug **1831** **68** West Virginia · Grant Dist  
+> **Elens** — W, Aug **1878**, **21**, West Virginia  
+> **Bertha J** — D, Dec **1899**, **1**, Virginia
+
+Age 68. Not 1910 Jesse. → **C407 / C408**.
+
+## DOC067 — 1900 WV Soundex C-563, Jessie M 34 Gilmer
+- Image: `sources/soundex/wv1900-c563-p60-jessie-m-34-gilmer.jpg` SHA-256 `f65dd5d7c99b7f43f420c998e630c489c1b263ed62c9432ce0be3610ad465504`
+- Reel: IA `soundex1900wv0018` n**60**
+
+### Diplomatic
+> **C-563 Conrad, Jessie M.** — Head · vol **7** ED **33** sh **12** ln **82** · W June **1866** **34** West Virginia · Gilmer · Glenville Dist  
+> **Rosa** — W, Apr **1874**, **26**, West Virginia  
+> **Alta Opal** — D, May **1897**, **3**, West Virginia  
+> **[infant]** — S, Dec **1899**, **5/12**, West Virginia  
+> **Fay L** — [Se?], June **1886**, **14**, West Virginia
+
+Jeremiah precedes; John 75 follows. → **C407 / C409**.
+
+## DOC068 — 1900 WI Soundex C-563, John tab after James H
+- Image: `sources/soundex/wi1900-c563-p1244-john-tab-after-james.jpg` SHA-256 `30088e0c66e6d60e79a530add72f129adb23e57dbcf59abe6e491b4f0622f6c2`
+- Reel: IA `soundex1900wi030` n**1244**
+
+### Diplomatic
+> Soundex **J** / **John** divider tab (Wisconsin C-563)
+
+James H 38 PA is n1240; Jane 70 Ireland n1242; Johns begin n1245. No Jesse card. → **C410**.
+
+## DOC069 — 1900 MN Soundex C-563, Jerome H before John
+- Image: `sources/soundex/mn1900-c563-p2580-jerome-before-john.jpg` SHA-256 `3dd6833f87b242d1656bd1052989769e33512feb56e63db7641e46d94e387d78`
+- Reel: IA `soundex1900mn028` n**2580**
+
+### Diplomatic
+> **C-563 Conrad, Jerome H** — Head · vol **12** ED **7** sh **4** ln **29** · W Oct **1856** **43** Wisconsin · Fairbault / Warsaw Twp  
+> **Martha** — W, Oct **1857**, **42**, [illegible]  
+> **[child]** — D, Nov **1887**, **12**, Dakota
+
+n2581 is already John. No Jesse card. → **C411**.
+
 ## DOC009 — 1910 TN Soundex N-550 McCoy window (nil)
 Handwritten family/individual cards n2461–n2469. Sequence after Mary C (n2460): Mary D 49 Jefferson (son Layton 11); Mary M 70 Hamilton; Mek. G 50 Cheatham (Florence 19, John 17, General 16, Frances 13, William 10, Doria 6, Luther 1½); Melvin 3½ Giles (gs of Deacon George W); Melvin 54 Giles (SIL of same); Minerva 80 Robertson (gds Lona Neely, Nellie Erwin); Minnie 21 Roane (with Sam P. Sparks); Mitchell 27 Hardin (Ollie P 25, Gladys 4, Burl W 3, Royal E 1 9/12). **No McCoy.** SHA-256 n2463 `23610f8aa4c159b1b554ed1786d11f57d2f56f8a2e8994f7289ae7bd02dfca53`; n2469 `340489566090880388fa6b81ca5751c5944dcaf56a7b44f70fe560788f308586`.

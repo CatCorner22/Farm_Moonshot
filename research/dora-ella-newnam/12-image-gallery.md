@@ -107,6 +107,10 @@ Diplomatic transcriptions: [`08-transcriptions.md`](08-transcriptions.md). Citat
 | 132 | 1900 (index) | Rejected same-name | [Michigan C-563 — John Conrad, 35, New York; first John after Jessie](sources/soundex/mi1900-c563-p1613-john-35-ny.jpg) |
 | 133 | 1900 (index) | Rejected same-name | [North Carolina C-563 — Jesse Conrad, 72, Forsyth County](sources/soundex/nc1900-c563-p36-jesse-72-forsyth.jpg) |
 | 134 | 1900 (index) | Rejected same-name | [North Carolina C-563 — James Conrad, 27, Haywood County boarder](sources/soundex/nc1900-c563-p33-james-27-boarder.jpg) |
+| 135 | 1900 (index) | Rejected same-name | [West Virginia C-563 — Jesse Conrad, 68, Grant District](sources/soundex/wv1900-c563-p40-jesse-68-grant.jpg) |
+| 136 | 1900 (index) | Rejected same-name | [West Virginia C-563 — Jessie M Conrad, 34, Gilmer County](sources/soundex/wv1900-c563-p60-jessie-m-34-gilmer.jpg) |
+| 137 | 1900 (index) | Negative search | [Wisconsin C-563 — John-tab divider after James H](sources/soundex/wi1900-c563-p1244-john-tab-after-james.jpg) |
+| 138 | 1900 (index) | Negative search | [Minnesota C-563 — Jerome H Conrad, immediately before John](sources/soundex/mn1900-c563-p2580-jerome-before-john.jpg) |
 | 123 | 1900 (index) | Context | [Texas C-563 — J-tab divider](sources/soundex/tx1900-c563-p1-j-divider.jpg) |
 | 17 | Apr 1910 | Negative search | [Kentucky N-550 — Millie / Missouri; no McCoy](sources/soundex/ky1910-n550-p329-millie-missouri.jpg) |
 | 18 | Apr 1910 | Negative search | [Kentucky N-550 — Monroe; still no McCoy](sources/soundex/ky1910-n550-p330-monroe-no-mccoy.jpg) |
@@ -1045,6 +1049,46 @@ White head, January 1828, age 72, born North Carolina, Old Jamestown Township, v
 White individual, June 1872, age 27, born North Carolina, Waynesville. Boarder with Elighett S. [Brice?]. Age matches 1910 Jesse, but the given name is James, the nativity is North Carolina, and the card is individual — no Letha. Jesse, 72 (Plate 133), is the next named Jesse leaf.
 
 ![North Carolina C-563 — James Conrad, 27, Haywood County boarder](sources/soundex/nc1900-c563-p33-james-27-boarder.jpg)
+
+### 135 · 1900 (index) · West Virginia C-563 — Jesse Conrad, 68, Grant District
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/wv1900-c563-p40-jesse-68-grant.jpg`](sources/soundex/wv1900-c563-p40-jesse-68-grant.jpg)  
+**Source:** S325 · C407 · C408
+
+White head, August 1831, age 68, born West Virginia, volume 7, ED 20, sheet 18, line 13. Wife Elens, 21, West Virginia; daughter Bertha J, 1, Virginia. Age and nativity fail vs 1910 Jesse Conrad.
+
+![West Virginia C-563 — Jesse Conrad, 68, Grant District](sources/soundex/wv1900-c563-p40-jesse-68-grant.jpg)
+
+### 136 · 1900 (index) · West Virginia C-563 — Jessie M Conrad, 34, Gilmer County
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/wv1900-c563-p60-jessie-m-34-gilmer.jpg`](sources/soundex/wv1900-c563-p60-jessie-m-34-gilmer.jpg)  
+**Source:** S325 · C407 · C409
+
+White head, June 1866, age 34, born West Virginia, Glenville District, volume 7, ED 33, sheet 12, line 82. Wife Rosa, 26; Alta Opal, 3; infant, 5 months; Fay L, 14 — all West Virginia. Jeremiah precedes; John, 75, follows. No White Jesse about 27 born Missouri.
+
+![West Virginia C-563 — Jessie M Conrad, 34, Gilmer County](sources/soundex/wv1900-c563-p60-jessie-m-34-gilmer.jpg)
+
+### 137 · 1900 (index) · Wisconsin C-563 — John-tab divider after James H
+
+**Role:** Negative search  
+**File:** [`sources/soundex/wi1900-c563-p1244-john-tab-after-james.jpg`](sources/soundex/wi1900-c563-p1244-john-tab-after-james.jpg)  
+**Source:** S326 · C410
+
+Handwritten divider after James H, 38, Pennsylvania, and Jane, 70, Ireland. Johns begin on the next leaves. Combined with the n1238–1265 every-card walk, Wisconsin 1900 C-563 has no Jesse Conrad head.
+
+![Wisconsin C-563 — John-tab divider after James H](sources/soundex/wi1900-c563-p1244-john-tab-after-james.jpg)
+
+### 138 · 1900 (index) · Minnesota C-563 — Jerome H Conrad, immediately before John
+
+**Role:** Negative search  
+**File:** [`sources/soundex/mn1900-c563-p2580-jerome-before-john.jpg`](sources/soundex/mn1900-c563-p2580-jerome-before-john.jpg)  
+**Source:** S327 · C411
+
+White head, October 1856, age 43, born Wisconsin, Faribault County. Wife Martha, 42; daughter, 12, Dakota. John is the next leaf. Combined with the n2574–2611 every-card walk, Minnesota 1900 C-563 has no Jesse Conrad head.
+
+![Minnesota C-563 — Jerome H Conrad, immediately before John](sources/soundex/mn1900-c563-p2580-jerome-before-john.jpg)
 
 ### 123 · 1900 (index) · Texas C-563 — J-tab divider
 
