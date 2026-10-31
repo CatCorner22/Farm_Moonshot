@@ -898,3 +898,40 @@ Exact strings logged **L1105+**.
 **McCoy (B085)** — McCoy/Coy × Newman/Newnam after Apr 1930. Soundex **N550** / **M200**. Deceased-only.
 
 Exact strings logged **L1112+**.
+
+### Pass 113 variant storm (31 Oct 2026)
+
+**William × Rhoda / 1928 Frank (B071)** — William/Wm/Will × Newnam/Newman/Newnarn/Newan. Rhoda/Roda × Tincher/Tinsher/Fincher. Decatur/Francis Decatur. Benjamin F./B.F./Benj. F./Frank × Newnam/Newman. Soundex **N550** / **T526**. Place 1850 Owsley stamped **299A–300A**; 1870 Travellers Rest; 1860 reel **391** catalog. OCR given William / Rhoda / Decatur / Benjamin.
+
+**Dora Stone 1926 (B058)** — Dora/posa/dosa/rosa/dona × Stone/Newman/Newnam. Soundex **S350** / **N550**. Cert **1524** RD **676**. Pope **Roll 5** catalog only.
+
+**Frank / David G (B055/B080)** — Frank/David F./David G. × Newnam/Newman. Soundex **N550**. Cert **13719** RD **028**.
+
+**WWI (B069/B059)** — Luther/John H./McCoy × Newnam/Newman/newnarn. M1509 **KY45 / KY24 / KY74**.
+
+**Samuel probate (B045/B061)** — Samuel/Sam P. × Newnam/Newman. FS SPA log only.
+
+**John L (B082)** — John L × Newman cert **17762** RD **036**. Do not print 1966 as fact.
+
+Exact strings logged **L1125+**.
+
+### Pass 114 variant storm (31 Oct 2026)
+
+**William × Rhoda / 1860 p.353 (B071)** — William/Wm/Will × Newnam/Newman. Rhoda/Roda × Tincher. Decatur. Benjamin F./B.F./Benj. F./Frank. Leaner / Leannah / Emily Leannah. Soundex **N550** / **T526**. Place IA **`populationschedu391unit`** stamped **353** (leaf **n0355**); Booneville p. **54** (**n0352**); 1870 **`populationschedu0494unit`** p. **20** (**n0090**); 1900 Proctor. Do **not** walk Estill **33-12 / 33-13**.
+
+**Three Williams kept separate** — (1) dead husband of Rhoda; (2) H.H.’s son William **20** Booneville p.54; (3) Wm Newman **19** in Elihu Tincher’s house on p.57.
+
+**Dora Stone 1926 (B058)** — Dora/posa/dosa/rosa/dona × Stone. Soundex **S350**. Cert **1524** RD **676**. Pope **Roll 5** / UArk **F419.D37 D3** catalog only.
+
+**Frank / David G (B055/B080)** — Frank/David F./David G. × Newnam/Newman. Soundex **N550**. Newspapers.com **41271**. Hutchins rooms **228–229**.
+
+**WWI (B069/B059)** — Luther/John H./McCoy × Newnam/Newman. M1509 **KY45 / KY24 / KY74**.
+
+**Samuel probate (B045)** — Samuel/Sam P. × Newnam/Newman / Jane Steele NEWMAN. USGenNet wills already Elizabeth / Mary F / Jane Steele.
+
+**John L (B082)** — John L × Newman cert **17762** RD **036**. Do not print 1966 as fact.
+
+**McCoy (B085)** — McCoy/Coy × Newman/Newnam after Apr 1930. Soundex **N550** / **M200**. Deceased-only.
+
+Exact strings logged **L1145+**.
+

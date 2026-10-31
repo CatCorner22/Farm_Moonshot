@@ -1,0 +1,150 @@
+Pass 113 extract — 31 Oct 2026. Deceased-only. Do not print 1966, 1976,
+Floyd-as-Boyd, Hendrix-as-Boyd, Nennian-as-Boyd, 1962 as McCoy death, or
+1942 Combs charge as fact. Living 1932 descendants withheld.
+Estill 1930 33-12 / 33-13 names not walked.
+
+=== B071 — William Newnam × Rhoda Tincher / 1928 Frank ===
+
+1850 U.S. census, Owsley Co., KY. IA populationschedu0216unix (M432 roll 216).
+Image seen. Stamped pages isolated:
+  leaf 0389 = 298B — Wood/Gabbard/Isaacs/Mayse. No Newman.
+  leaf 0390 = 299A stamped 299 — Gabbard/Phillips/Baker/Afford/Cole/Moore.
+    No Newman.
+  leaf 0391 = 299B — continuation Moore; hh 310 Isaacs; 311 Bowman;
+    hh 312 Rebecca Tincher 51 + Eli 30, William 21, Elias 17, Hosea 16,
+    Henry 13, Price 7 (Rhoda’s natal FAN, not her marriage).
+    Line 22 = William Tincher 21 in that Tincher house — NOT Francis Newman.
+    hh 313 Harrison Newman 33 farmer $50 + Susan 21 + William 10 + Elias 8
+    + Henry 6 + Solomon 3.
+    hh 314 John Newman 23 + Susan 23 + Daniel 3 + Mary 1.
+  leaf 0392 = 300A stamped 300 — Mays/Gabbard/Goosey/Cole/Bowman +
+    hh 321 John Newman 60 b. Delaware + Lear 53 KY + adult daughter ~23.
+    No William ~26 + Rhoda + Francis ~5.
+  leaf 0393 = 300B — Bowman/Moore/Thomas/Cole. No Newman.
+
+S-K / USGW 1850 Owsley surname index (search-snippet seen; live file 0-byte
+this pass): NEWMAN 299B–300A only. TINCHER 299B–309A.
+
+WikiTree Newnam-172 (authored, 20 Nov 2024 Ancestry cites) claims 1850
+Owsley p. 299b line 22 = Francis Newman (Ancestry 8054::17453178).
+The original line 22 is William Tincher 21. Francis-on-299b is
+UNCONFIRMED / that line DISPROVED as Francis. William × Rhoda household
+is not on the cited Newman pages.
+
+1870 U.S. census, Owsley Co., KY, Travellers Rest Precinct, enum. 17 Jun 1870
+(A. J. Herd). NARA M593-494; IA populationschedu0494unit PDF p. 90;
+already saved as sources/census/1870-owsley-travrest-elias-hh131-pdfp090.jpg
+(S231). Image re-seen this pass. Stamped 348 / precinct page 19.
+  dw 128 / fam 125: Newman, Rhoda 45 F keeping house KY;
+    Elihu 20 M farm labor; Benjamin F. 17 M farm labor; Rebecca J. 15 F.
+  dw 131 / fam 128: Elias Newman 26 + Mary + children (already C067) —
+    SAME PAGE.
+Kendrick transcript https://usgennet.org/usa/ky/county/owsley/census/1870/travrest.html
+agrees (hh 128/125 Rhoda; 136/133 Decatur 24 + Sarah A. + William 5 +
+Deane A. 3 + Sarah A. 9/12 b Aug). Decatur original (next PDF page)
+not isolated this pass — transcription only.
+
+Lee Marriage Book 2 (Kendrick):
+  Benjamin F. NEWNAM & Mary STEEL
+  Husband: age 26, born Owsley, residence Lee, miner, 1st marriage;
+    Birthplace of Groom's Mother: Estill Co KY
+  Wife: age 25, born Owsley, residence Lee, 1st marriage;
+    Birthplace of Bride's Father: NC; Mother: Estill Co KY
+  md: 15 Sept 1881 at Wm Steel's, Lee Co, by Robert Cole, M.G. of C.C.
+  witnesses: Wm H. Cole & Jeremiah Maloney
+  https://usgennet.org/usa/ky/county/lee/marriage/marrbook2.html
+
+Same Book 2 FAN: 3 Sept 1880 Abner GUM × Sarah BENNET witnesses
+  Elihu Newnam & Frank Newnam.
+
+1920 Lee St. Helens Pct. 1 (Kendrick; already on disk lee-1920-sth.html):
+  19 Jan 1920  37-37  B.F. NEWNAM head 66 md KyKyKy [Benjamin F. NEWNAM]
+                      Mary J. wife 64 md KyKyKy
+  https://usgennet.org/usa/ky/county/lee/census/1920/sth.html
+
+1928 Lee deaths (already S330): Frank Newnam d. 16 Mar 1928 St. Helens,
+  b. 4 Oct 1853 KY; parents William Newnam × Rhoda Tincher.
+
+1944 Lee deaths (Kendrick; HTML seen this pass):
+  Mary Jane Newnam, 89 yrs, b. 1855 Beattyville, d. 7 Feb 1944,
+  buried Newnam, St. Helens; spouse Frank Newnam;
+  father Wm Steele; mother Patsey Jameson.
+  https://usgennet.org/usa/ky/county/lee/deaths/1944.html
+
+Will of Mary Jane NEWNAM of St. Helens, 18 Nov 1943; proved 14 Feb 1944;
+recorded Will Book 1 p. 472. Residue to brother Sam P. STEELE
+(NOT Samuel P. Newnam). Witnesses Brownlow STEELE, Mary STACEY.
+https://usgennet.org/usa/ky/county/lee/wills/mjsnewnam.html
+Transcription only. This is the published “Jane Steele NEWMAN” on the
+wills landing.
+
+Same-person (Hard Rule 3) — 1928 Frank:
+  1. Name Benjamin F. / B.F. / Frank
+  2. St. Helens residence + death + burial
+  3. Age: 17 in Jun 1870; 26 in Sept 1881; 66 in Jan 1920; b. 4 Oct 1853 on DC
+  4. 1944 widow names spouse Frank Newnam + father Wm Steele (1881 bride)
+  5. 1870 mother Rhoda heading house (William absent) + 1928 DC mother Rhoda Tincher
+Verdict: Benjamin F. of 1870/1881/1920 = Frank d. 16 Mar 1928 St. Helens
+  PROVEN. Parents William × Rhoda Tincher PROBABLE (DC + 1870 widow Rhoda;
+  1850 couple not on original). Do NOT merge William × Rhoda with Luther’s
+  William × Katherine Sternberg. Do NOT merge 1928 Frank with Berea contractor
+  (#22). Do NOT merge Mary F. Tincher 1932 (father John Newnam × Elizabeth Goe)
+  with WikiTree Mary Frances d/o William × Rhoda.
+
+WikiTree Newnam-172 authored: Francis Decatur 1845–1882/84, son of
+William Newnam (1824–aft 10 Jun 1855 Schollsville, Clark) × Rhoda Jane
+Tincher (1825–1905 Clay); siblings Emily Leannah Howell, Elihu,
+Benjamin Franklin, Rebecca Jane Seale. 1860 Decatur 14 Owsley p.353
+(M653-391) and Co. C 14th KY Cav. are Ancestry/NPS cites — cards/images
+not seen this pass. Authored lead only.
+
+1860 IA populationschedu391unit = Reel 0391 Owen + Owsley Counties,
+432 images. Catalog only. Page 353 Decatur not isolated.
+
+=== Mary F. Tincher (B045 FAN; not William × Rhoda) ===
+
+Lee 1932 deaths: Mary F. Tincher, 84y 8m 27d, b. 25 Dec 1847 Owsley,
+d. 22 Jul 1932 Pebworth, burial Rogers, spouse William N. Tincher,
+father John Newnam, mother Elizabeth Goe.
+https://usgennet.org/usa/ky/county/lee/deaths/1932.html
+
+Will of Mary F. TINCHER, 1 Jan 1930, mark; niece Fannie HUNDLY and
+Walter HUNDLEY; attested Geo. F./T. SMITH; witness Logan BRANDENBURG;
+proved 10 Oct 1932; recorded 14 Nov 1932 Will Book 1 p. 293
+(Thomas C. PRYSE / Elizabeth MATTOCKS).
+https://usgennet.org/usa/ky/county/lee/wills/mftincher.html
+No Samuel P. Do not merge with WikiTree Newnam-171.
+
+USGenNet Lee wills landing re-seen: Jane Steele NEWMAN + Elizabeth NEWNAM
++ Mary F. Newnam TINCHER. No Samuel P. Newnam will.
+
+=== Other open items (this pass) ===
+
+B058 / B049: No newly digitized Aug 1926 Dardanelle Post-Dispatch page.
+  CA hits were other-state Dispatch titles. Pope Roll 5 / UArk F419.D37 D3
+  / LOC sn89051008 still film-only. Phone not re-asked.
+
+B055 / B080: No free June 1958 *Citizen* clip. CA digital still ends 1922.
+  Newspapers.com 41271 unread. FAQ 9938 / phone not re-asked.
+
+B069 / B047 / B059: GT Lee wwi_draft_cards.html live 200, 452 KB.
+  Published tables: Luther Brandenburg + Luther Underwood only.
+  Newnam / Newman / McCoy = 0. N table unpublished. FS 1146342 HTTP 403
+  (857 B) R011-56. IA M1509 not re-opened (prior 0).
+
+B065: FS 156057 / 97277 not re-fetched as useful images (SPA). Tax unread.
+
+B082: No new Woodford burial/obit for John L + Cora. Do not print 1966.
+
+B085 / B016: No new deceased McCoy/Rissie death row. Skip living Pelfrey.
+
+B081: No new same-person evidence Grant 21 vs David F. Feb 1889. Not merged.
+
+B084: POSSIBLE Jr only. Living 1950-line withheld.
+
+B088: IA 14thcensusofpopu602unit imagecount still 515. One line.
+
+Did not walk Estill 1930 33-12 / 33-13.
+Did not re-ask R001/R007/R008, Tyler Phillips, Pope 479-968-4368,
+Hutchins 859-985-3364.
+Authored latest.docx SHA 78cdcf44… not overwritten.

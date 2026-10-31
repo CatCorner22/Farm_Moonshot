@@ -344,6 +344,17 @@ Place as it was *at the date*; modern equivalent in brackets. Flag impossibiliti
 | Apr 1930 | Riddell & Thomas | FAN **PROVEN** as reject: **Nennian, Ray** **38** + Malinda **38** + six children — **not** Boyd+Allie | Estill Co., KY | C1278 | S972 |
 | Apr 1930 | — | FAN **PROVEN** as header: leaf **897** = **33-12** Forks **1A** stamped **155**. Names not walked | Estill Co., KY | C1280 | S971 |
 | Apr 1930 | — | FAN **PROVEN** as compiled-index: Lee 1930 EDs **1–11** **nil** Boyd Newman/Newnam head | Lee Co., KY | C1287 | S405 |
+| 1 Jun 1850 | — | FAN **PROVEN** as image: 1850 Owsley **299A–300B** visually read. Harrison Newman **33** + John Newman **23** + John Newman **60**. **No** William × Rhoda couple. WikiTree 299b ln **22** = **William Tincher 21** — Francis-on-that-line **DISPROVED** | Owsley Co., KY | C1288–C1293 | S978 S979 S980 |
+| 14 Jul 1860 | Proctor | FAN **PROVEN** as image: 1860 Owsley stamped **353** (IA reel **391** leaf **n0355**). **389/389 Rhoda Newman 37 widow** + Decatur **14** + Leaner **12** + Elihu **8** + **B.F. 7** + Rebecca J **5**. William husband **absent** | Owsley Co., KY | C1319 C1320 C1321 | S998 S999 |
+| 9 Jul 1860 | Booneville | FAN **PROVEN** as image: 1860 Owsley p. **54**. **364/364 H.H. Newman 44** + Susan **36** + William **20** + **Elias 18**. Elias **PROBABLE** P004. William **20** **not** Rhoda’s husband | Owsley Co., KY | C1318 | S997 S1002 |
+| 17 Jun 1870 | Travellers Rest | FAN **PROVEN** as image (re-seen): dw **128** **Rhoda 45** + Elihu **20** + **Benjamin F. 17** + Rebecca J **15**. Elias dw **131** same page | Owsley Co., KY | C1294 | S981 S231 S1003 |
+| 17 Jun 1870 | Travellers Rest | FAN **PROVEN** as image: page **20**. **136/133 Decatur 24** + Sarah A **26** + William **5** + Deane A **3** + Sarah A **9/12** | Owsley Co., KY | C1322 | S1000 |
+| 15 Sept 1881 | Wm Steel’s | FAN **PROVEN** as compiled license: **Benjamin F. NEWNAM** × **Mary STEEL**; groom **26** miner b. Owsley | Lee Co., KY | C1296 | S983 |
+| 1 Jun 1900 | Proctor | FAN **PROVEN** as compiled census: **213/213 Benj. F. NEWNAM** Oct **1853** **46** m **18** + Mary J July **1855** **44** **1-1** + Asburt Aug **1882** **17** | Lee Co., KY | C1324 | S1004 |
+| 19 Jan 1920 | St. Helens | FAN **PROVEN** as compiled census: **37-37 B.F. NEWNAM 66** + Mary J **64** | Lee Co., KY | C1298 | S994 |
+| 16 Mar 1928 | St. Helens | FAN **PROVEN** as extract + identity: Frank Newnam d. **16 Mar 1928**, b. **4 Oct 1853**, parents William × Rhoda Tincher = Benjamin F. of 1860/1870/1881/1900/1920 | Lee Co., KY | C1299 C1316 C1337 | S330 S1006 |
+| 7 Feb 1944 | St. Helens | FAN **PROVEN** as extract: Mary Jane Newnam, **89**, spouse **Frank Newnam**, father **Wm Steele** | Lee Co., KY | C1300 | S984 |
+| 22 Jul 1932 | Pebworth | FAN **PROVEN** as extract + not-merge: Mary F. Tincher, father **John Newnam** × **Elizabeth Goe** — **not** d/o William × Rhoda | Lee Co., KY | C1302 | S986 S987 |
 
 
 **Impossibility flags:** None. Mother ~29 at Dora’s 1871 birth (Mary b. 1842). Dora age 14 at marriage is legal/period-possible (KY) though young; 1880 age 8 corroborates. Two children born before Coy in the 1886–1889 window would have Dora aged 15–18 — possible. No event after 23 Aug 1926 is attributed to her.
