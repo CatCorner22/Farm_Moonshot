@@ -1639,5 +1639,60 @@ Age is close; given name John; nativity Maryland. Wife Jessie P, 28, District of
 
 Immediate C-563 leaf after John W. Given name Joseph; age 55. → **C476 / C480**.
 
+## DOC119 — 1900 AK Soundex C-563, Edw. Conrad, 38, Wisconsin
+- Image: `sources/soundex/ak1900-c563-p3003-edw-38-wi.jpg` SHA-256 `bf0ba71864a1d33e1fc7e4c70a15c3b903a13c416851ae8da583ad2fb9a94cb6`
+- Reel: IA `soundex1900ak003` n**3003**
+
+### Diplomatic
+> **C-563 Conrad, Edw.** — Individual · vol **3** ED **10** sh **5** ln **1** · W Feb **1862** **38** Wisconsin · Northern Dist / Ft. Independence  
+> Enumerated with **no head shown** · Relationship **NR**
+
+Only fully aged White C-563 Conrad leaf in Alaska. Age 38; Wisconsin. → **C482 / C484**.
+
+## DOC120 — 1900 AK Soundex C-563, H. R. Conrad, Nome passenger
+- Image: `sources/soundex/ak1900-c563-p3016-hr-passenger.jpg` SHA-256 `ff1bfe8c4865d285de072e3e59b734671665c50cfaf4c3b705589f74e5d9e378`
+- Reel: IA `soundex1900ak003` n**3016**
+
+### Diplomatic
+> **C-563 Conrad, H. R.** — Individual · vol **7** sh **3** ln **25** · color/age/nativity **NR** · Southern Dist / Nome  
+> Enumerated with **S.S. San Jose** · Relationship **Passenger**
+
+Immediate C-563 leaf before the J-window (other-code James/John fill n3017–3032). → **C482 / C485**.
+
+## DOC121 — 1900 AK Soundex C-563, W. J. Conrad, Nome passenger
+- Image: `sources/soundex/ak1900-c563-p3035-wj-passenger.jpg` SHA-256 `b3237d83d81ed331242a7e654501489f1a81d1f6d7b38b396c8d21957b2c487b`
+- Reel: IA `soundex1900ak003` n**3035**
+
+### Diplomatic
+> **C-563 Conrad, W. J.** — Individual · vol **7** sh **1** ln **1** · color/age/nativity **NR** · Southern Dist / Nome  
+> Enumerated with **S.S. Roanoke** · Relationship **Passenger**
+
+Immediate C-563 leaf after the J-window (O.L. n3029 precedes). No Jesse card. → **C482 / C486**.
+
+## DOC122 — 1900 HI Soundex C-563, Wm. Conradt, Hawaiian Islands
+- Image: `sources/soundex/hi1900-c563-p1957-wm-conradt.jpg` SHA-256 `47bffad91a209b5823f6463d4a43e73107f93191ba8038605720e1d1cf2557c7`
+- Reel: IA `soundex1900hi005` n**1957**
+
+### Diplomatic
+> **C-563 Conradt, Wm.** — Head of family · vol **4** ED **65** sh **9** ln **15** · H May **NR** **NR** Germany · Pulo Dist / Hawaiian Is  
+> **Conradt, Emily** — W, March **1863**, **37**, Hawaiian Is  
+> **William** — S, Sept **1896**, **3**, Hawaiian Is  
+> **Dora** — D, March **1898**, **2**, Hawaiian Is  
+> **Akiona, Amelia** — S.D., Aug **1884**, **15**, Hawaiian Is  
+> **Styplebean, Emily** — S.D., Sept **1888**, **11**, Hawaiian Is  
+> Remark: **Card #1 see also card #2**
+
+Daughter Dora, 2, Hawaiian Islands, is not Letha Sullivan. → **C483 / C487**.
+
+## DOC123 — 1900 HI Soundex C-563, Wm. Conradt, 18, Hawaiian Islands
+- Image: `sources/soundex/hi1900-c563-p1959-wm-18.jpg` SHA-256 `3013527ffbc720949cb531a601930427a995fed3a5e0c524b6d89487c297746b`
+- Reel: IA `soundex1900hi005` n**1959**
+
+### Diplomatic
+> **Conradt, Wm.** — Head of family · vol **2** ED **56** sh **2** ln **20** · Ca Dec **1881** **18** Hawaiian Ids · Puna / Hawaii  
+> Remark: **living alone**
+
+C-600 divider follows at n1961. No Jesse card. → **C483 / C488**.
+
 ## DOC009 — 1910 TN Soundex N-550 McCoy window (nil)
 Handwritten family/individual cards n2461–n2469. Sequence after Mary C (n2460): Mary D 49 Jefferson (son Layton 11); Mary M 70 Hamilton; Mek. G 50 Cheatham (Florence 19, John 17, General 16, Frances 13, William 10, Doria 6, Luther 1½); Melvin 3½ Giles (gs of Deacon George W); Melvin 54 Giles (SIL of same); Minerva 80 Robertson (gds Lona Neely, Nellie Erwin); Minnie 21 Roane (with Sam P. Sparks); Mitchell 27 Hardin (Ollie P 25, Gladys 4, Burl W 3, Royal E 1 9/12). **No McCoy.** SHA-256 n2463 `23610f8aa4c159b1b554ed1786d11f57d2f56f8a2e8994f7289ae7bd02dfca53`; n2469 `340489566090880388fa6b81ca5751c5944dcaf56a7b44f70fe560788f308586`.

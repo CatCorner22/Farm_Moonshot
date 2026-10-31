@@ -161,6 +161,11 @@ Diplomatic transcriptions: [`08-transcriptions.md`](08-transcriptions.md). Citat
 | 186 | 1900 (index) | Rejected same-name | [District of Columbia C-563 — Conrad, J. H., 48, Pennsylvania](sources/soundex/dc1900-c563-p1233-jh-48-pa.jpg) |
 | 187 | 1900 (index) | Rejected same-name | [District of Columbia C-563 — Conrad, John W., 26, Maryland; wife Jessie P](sources/soundex/dc1900-c563-p1242-john-w-26-md.jpg) |
 | 188 | 1900 (index) | Rejected same-name | [District of Columbia C-563 — Conard, Joseph W., 55, Pennsylvania](sources/soundex/dc1900-c563-p1243-joseph-w-55-pa.jpg) |
+| 189 | 1900 (index) | Rejected same-name | [Alaska C-563 — Conrad, Edw., 38, Wisconsin, Ft. Independence](sources/soundex/ak1900-c563-p3003-edw-38-wi.jpg) |
+| 190 | 1900 (index) | Rejected same-name | [Alaska C-563 — Conrad, H. R., Nome passenger; before the J-gap](sources/soundex/ak1900-c563-p3016-hr-passenger.jpg) |
+| 191 | 1900 (index) | Rejected same-name | [Alaska C-563 — Conrad, W. J., Nome passenger; no Jesse leaf](sources/soundex/ak1900-c563-p3035-wj-passenger.jpg) |
+| 192 | 1900 (index) | Rejected same-name | [Hawaii C-563 — Conradt, Wm., Hawaiian Islands; daughter Dora, 2](sources/soundex/hi1900-c563-p1957-wm-conradt.jpg) |
+| 193 | 1900 (index) | Rejected same-name | [Hawaii C-563 — Conradt, Wm., 18, Hawaiian Islands, Puna; no Jesse leaf](sources/soundex/hi1900-c563-p1959-wm-18.jpg) |
 | 123 | 1900 (index) | Context | [Texas C-563 — J-tab divider](sources/soundex/tx1900-c563-p1-j-divider.jpg) |
 | 17 | Apr 1910 | Negative search | [Kentucky N-550 — Millie / Missouri; no McCoy](sources/soundex/ky1910-n550-p329-millie-missouri.jpg) |
 | 18 | Apr 1910 | Negative search | [Kentucky N-550 — Monroe; still no McCoy](sources/soundex/ky1910-n550-p330-monroe-no-mccoy.jpg) |
@@ -1639,6 +1644,56 @@ White head, June 1873, age 26, born Maryland, Jefferson Street. Wife Jessie P, 2
 White head, October 1844, age 55, born Pennsylvania, 10th Street N.W. Two lodgers. Immediate C-563 leaf after John W. Combined with the n1200–1340 every-card walk, the District of Columbia 1900 C-563 has no Jesse Conrad head.
 
 ![District of Columbia C-563 — Conard, Joseph W., 55, Pennsylvania](sources/soundex/dc1900-c563-p1243-joseph-w-55-pa.jpg)
+
+### 189 · 1900 (index) · Alaska C-563 — Conrad, Edw., 38, Wisconsin, Ft. Independence
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/ak1900-c563-p3003-edw-38-wi.jpg`](sources/soundex/ak1900-c563-p3003-edw-38-wi.jpg)  
+**Source:** S357 · C482 · C484
+
+White individual, February 1862, age 38, born Wisconsin, Fort Independence. Enumerated with no head shown. Only fully aged White C-563 Conrad leaf in Alaska. Combined with Plates 190–191 this closes the Alaska 1900 C-563 J-window.
+
+![Alaska C-563 — Conrad, Edw., 38, Wisconsin, Ft. Independence](sources/soundex/ak1900-c563-p3003-edw-38-wi.jpg)
+
+### 190 · 1900 (index) · Alaska C-563 — Conrad, H. R., Nome passenger; before the J-gap
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/ak1900-c563-p3016-hr-passenger.jpg`](sources/soundex/ak1900-c563-p3016-hr-passenger.jpg)  
+**Source:** S357 · C482 · C485
+
+Individual, age and nativity not reported, Nome. Passenger on S.S. San Jose. Immediate C-563 leaf before the J-window, which is filled by other codes. Combined with Plate 191, Alaska 1900 C-563 has no Jesse Conrad head.
+
+![Alaska C-563 — Conrad, H. R., Nome passenger; before the J-gap](sources/soundex/ak1900-c563-p3016-hr-passenger.jpg)
+
+### 191 · 1900 (index) · Alaska C-563 — Conrad, W. J., Nome passenger; no Jesse leaf
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/ak1900-c563-p3035-wj-passenger.jpg`](sources/soundex/ak1900-c563-p3035-wj-passenger.jpg)  
+**Source:** S357 · C482 · C486
+
+Individual, age and nativity not reported, Nome. Passenger on S.S. Roanoke. Immediate C-563 leaf after the J-window. Combined with the n2980–3160 every-card walk, Alaska 1900 C-563 has no Jesse Conrad head.
+
+![Alaska C-563 — Conrad, W. J., Nome passenger; no Jesse leaf](sources/soundex/ak1900-c563-p3035-wj-passenger.jpg)
+
+### 192 · 1900 (index) · Hawaii C-563 — Conradt, Wm., Hawaiian Islands; daughter Dora, 2
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/hi1900-c563-p1957-wm-conradt.jpg`](sources/soundex/hi1900-c563-p1957-wm-conradt.jpg)  
+**Source:** S358 · C483 · C487
+
+Hawaiian head, born Germany, Pulo District. Wife Emily, 37, Hawaiian Islands; son William, 3; daughter Dora, 2, Hawaiian Islands; two stepdaughters. Dora is not Letha Sullivan. Combined with Plate 193 this closes the Hawaii 1900 C-563 slot.
+
+![Hawaii C-563 — Conradt, Wm., Hawaiian Islands; daughter Dora, 2](sources/soundex/hi1900-c563-p1957-wm-conradt.jpg)
+
+### 193 · 1900 (index) · Hawaii C-563 — Conradt, Wm., 18, Hawaiian Islands, Puna; no Jesse leaf
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/hi1900-c563-p1959-wm-18.jpg`](sources/soundex/hi1900-c563-p1959-wm-18.jpg)  
+**Source:** S358 · C483 · C488
+
+Caucasian head, December 1881, age 18, born Hawaiian Islands, Puna. Living alone. C-600 divider follows at n1961. Combined with the n1930–2120 every-card walk, Hawaii 1900 C-563 has no Jesse Conrad head.
+
+![Hawaii C-563 — Conradt, Wm., 18, Hawaiian Islands, Puna; no Jesse leaf](sources/soundex/hi1900-c563-p1959-wm-18.jpg)
 
 ### 123 · 1900 (index) · Texas C-563 — J-tab divider
 
