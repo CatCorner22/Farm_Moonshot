@@ -1,0 +1,32 @@
+# Extract: Lee County Kentucky Death Certificates 1945
+# https://usgennet.org/usa/ky/county/lee/deaths/1945.html
+# Captured 31 Oct 2026. HTTP 200, 37096 bytes. Transcription only
+# (Kendrick HTML table; original certificate image not seen).
+# Local HTML: sources/wrapup/lee-deaths-1945.html
+
+## Target row (columns as on the opened page)
+
+Rev. Luther Newnam
+Age: 54 yrs 7 ds
+Birth: 21 Feb 1891 Beattyville
+Death: 28 Feb 1945
+Burial: Beattyville
+Spouse: Cora P. Newnam
+Father: William Newnam
+Mother: Katherine Sternberg
+
+Compiler FAG links on the same row (not opened this pass; Cloudflare/login often 403):
+- Luther memorial 108528203
+- Cora P. 108529042
+- William 106866395
+- Katherine Sternberg 106866130
+
+## Same-page Newman collision (not merged)
+
+Jewell Newman, 59y 7m 11d, b. 7 Apr 1886 Lee Co., d. 18 Oct 1945, Caryton Cem.;
+spouse Martha Newman; father Johnnie Newman; mother Serilda Angel.
+Different given name, different parents, later death day — not Luther.
+
+## Search strings used on this page
+
+Luther, Newnam, Newman, Newmam, Rev.

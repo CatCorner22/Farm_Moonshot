@@ -1,0 +1,40 @@
+# Extract: Lee County Marriage Book 10 (USGenNet / Debi Kendrick)
+# https://usgennet.org/usa/ky/county/lee/marriage/marrbook10.html
+# Captured 31 Oct 2026. HTTP 200, 181765 bytes. Transcription only.
+# Local HTML: sources/wrapup/lee-marrbook10.html
+# Original book image not seen.
+
+## Target license
+
+Shelby NEWNAM & Gracie BRANDENBURG
+Groom: age 21, born Lee Co KY, residence Lee Co KY, farming, 1st marriage
+  Father: Richard Newnam
+  Mother: Sarah Damrell
+Bride: age 15, born Lee Co KY, residence Lee Co KY, 1st marriage
+  Father: Major Brandenburg
+  Mother: Emily Howelton
+Married: 4 Sept 1913 at bride's home, Lee Co, by J. H. Cecil, J.P.L.C.
+Witnesses: W. M. Burke & Dema Newnam
+
+## Same-book Newnam collision (not merged with Shelby or with P002)
+
+Huram NEWNAM & Sallie VENABLE
+Groom: age 43, born Lee Co KY, residence Heidleburg KY, mecanic, 2nd marriage
+  Father: [given name blank] Owsley Co KY
+  Mother: [given name blank] Owsley Co KY
+Bride: age 39, born Owsley Co KY, residence Heidleburg KY, 1st marriage
+  Father: VA
+  Mother: Owsley Co KY
+Married: 6 Mar 1913 at Beattyville, Lee Co, by Wm Goosey, Co. Judge
+Witnesses: Walker Jamison & W. H. McGuire
+
+## Same-book Luther witness (identity lead for B051)
+
+J. A. LUTES × Daisy HALL, md 14 Jan 1914 at Lou Hall's, Lee, by J. I. Wills.
+Witnesses: R. L. Johnson, **Luther Newnam** & Richard Lyon.
+A man named Luther Newnam was in Lee County by January 1914 (age ~22 if b. 21 Feb 1891).
+Not by itself enough to merge with the 1932 officiant or the 1945 decedent.
+
+## Search strings used on this page
+
+Shelby, Gracie, Grace, Brandenburg, Newnam, Newman, Ladona, Ladonna, Luther

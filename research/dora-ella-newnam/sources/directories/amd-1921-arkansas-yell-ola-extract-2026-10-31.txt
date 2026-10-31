@@ -1,0 +1,279 @@
+# American Medical Directory 1921 — Arkansas / Yell extract
+
+Captured: 2026-10-31
+Repository: Internet Archive item `americanmedicald1921ameruoft`
+URL: https://archive.org/details/americanmedicald1921ameruoft
+OCR stream: https://archive.org/stream/americanmedicald1921ameruoft/americanmedicald1921ameruoft_djvu.txt
+Local temp OCR (HTML-wrapped full text): /tmp/dora-fetch/amd1921_djvu.txt
+SHA-256 of captured OCR file: 9b34aec0c2eb57e6555b5cc782a985632202b721cbe99801dd937082f6524acf
+Size: 27249272 bytes
+Access: **OCR / transcription only** (directory images not downloaded; OCR line numbers below are of the captured text file, not printed page numbers).
+Title on IA wrapper: “Full text of American medical directory”; canonical https://archive.org/details/americanmedicald1921ameruoft
+Printed edition year on the item identifier: 1921. Exact title-page edition number **not yet examined** on a page image.
+
+Search strings: Ola; Yell; Danville; Dardanelle; Plainview; Belleville; Nimrod; Mammoth; Beal; Beale; Beall; Brewer; Davis; Harkey; Pool; T. W.; Thos.
+
+## YELL COUNTY medical society (OCR lines 74948–75000)
+```
+  74948| L.  E.  Biles,   Secretary Augusta
+  74950| YELL     COUNTY
+  74951| C.   B.    Linzy,    Secretary Plainvlew
+  74954| STATE     INSTITUTIONS
+  74955| Booneville
+  74957| Arkansas       Tuberculosis       Sanatorium,
+  74958| Booneville,  Ark.     Established   1910 ;   pub-
+  74959| lic; tuberculosis;  166  beds;  John  Stewart,
+  74960| medical  superintendent.
+  74961| Cummins
+  74963| Arkansas  State  Penal  Hospital,  Cummins,
+  74964| Ark.  Established  1905  ;  public ;  general ;
+  74965| for  prisoners  held  at  the  State  Farm ;"  30
+  74966| beds;  R.  B.  Comey.  superintendent.
+  74968| Little  Roc!
+  74970| Arkan-;i3  Deaf-Mute  Institute,  Little
+  74971| Rock,  Ark.  Established  1868;  299  beds;
+  74972| S.  P.  Vaughter.  physician  in  charge;  Mr.
+  74973| I.  B.  Gardner,  superintendent.
+  74975| Arkansas  School  for  the  Blind.  Little
+  74976| Rock,  Ark.  Established  1868;  capacity
+  74977| 175  pupils;  A.  Watkins  and  S.  P.  Bond,
+  74978| physicians  in  charge ;  Mr.  John  H.  Hine-
+  74979| mon,  superintendent.
+  74982| Arkansas  State  Hospital  for  Nervous
+  74983| Diseases  (Arkansas  Hospital  for  the  In-
+  74984| sane) ,  Little  Rock,  Ark.  Established  1882  ;
+  74985| public ;  nervous  and  mental ;  2,000  beds ;
+  74986| C.  C.  Kirk,  superintendent.
+  74988| State  Penitentiary  Hospital,  Little  Rock,
+  74989| Ark.     Established  1876;  100  beds.
+  74991| Sweet  Home
+  74993| Arkansas  Confederate  Home,  Sweet
+  74994| Home,  Ark.  Established  1891;  75  beds;
+  74995| G.  K.  Mason,  medical  superintendent.
+  74998| HOSPITALS,    SANATORIUMS    AND
+  74999| CHARITABLE    INSTITUTIONS
+```
+
+## BELLEVILLE (OCR lines 75662–75670)
+```
+  75662| in   practice
+  75663| Keele,  Wm.  B.    (b'60)— 0:    (1'03)
+  75664| BELLEVILLE,  410,  YELL
+  75665| Dooly,    J.    A.    (b'75)— 0;    (1'03)
+  75666| Grace,    John    (b'68)— Tenn.5,'93 ;    (1'03)
+  75667| Harkness,  John  H.   (b'48)— Ark.l,'81 ;    (I'OS)
+  75668| Parker,  Geo.  C.   (b'58)— 0;   (r03)
+  75669| BELTON,  —  HEMPSTEAD
+  75670| Gentry,  James  Ely   (b'81)— Ark.2,'ll ;   (I'll)
+```
+
+## CENTERVILLE / CHICKALAH (OCR lines 76204–76246)
+```
+  76204| d'OS)
+  76206| CENTERVILLE,  250.  YELL
+  76208| McCarty.    L.    R.     (b'66)— Tenn.5,'88 ;     (I'OS)
+  76210| Worsham.  Mordicai  A.  (b'57) — Tenn.8,
+  76211| '83;    d'OS)
+  76213| CENTRAL  (BARLING  P.O.),  50,  SEBAS-
+  76214| TIAN
+  76216| Bachelor,  J.  H.    (b'54)— 0;   (1'03)
+  76218| CERROGORDO,   250,   LITTLE   RIVER
+  76220| Harvey,  H.    (b'58)— 0;    d'03)
+  76222| Morris.    J.    F.     (b'66)— 0;    d'OS)
+  76224| CHARLESTON.  734.   FRANKLIN
+  76225| BOLLINGER,    WALLACE    H.    (b'82)— Ark.l,
+  76227| '07;    d'OS)
+  76228| Crandall.  John  M.   (b'5S)E— 0;  (1'03)
+  76229| Northum.    Alex.    C.     (b'62)— 0;    d'03)
+  76231| CHERRY    VALLEY.    300,    CROSS
+  76233| Griffin,      Walter      L.       (b'77)— Tenn.l5,'07 ;
+  76235| (1'06)
+  76236| Jones.   Charles  P.    (b'51)— Tenn.8.'83 ;   d'03)
+  76237| Longest.       James      T.       (b'72) — Tenn.6.'03 ;
+  76239| d'OS)
+  76241| CHICKALAH,   200,   YELL
+  76243| Ray,  James  Anthony — 0;   (1'07)
+  76245| Rollins.  D.  L.— 0;   d'OS)  ;  R.D.I
+```
+
+## DANVILLE / DARDANELLE (OCR lines 76550–76575)
+```
+  76550| DAMASCUS,   300,    FAULKNER
+  76551| Hutto,   Anderson   L    (b'64)E— 0;    (I'OS)
+  76552| DANVILLE,    833,    YELL
+  76553| Cowger.  Robt.    (b'78)— Tenn.8,'02 ;    (I'OS)
+  76554| George,   John   N.    (b'70)— Tenn.8,'99 ;    (I'OS)
+  76555| Pool,     Thos.     Jefferson     (b'80)  —  Ark.l.'lS ;
+  76557| (I'lS)
+  76558| DARDANELLE,    1,835,   YELL
+  76559| Cunningham,     Benj.     Lee     (b'78) — La.l,'07 ;
+  76561| (r06)  ;  not  in  practice
+  76562| Gannaway,     Chas.     B.      (b'58)— Tenn.1,'96 ;
+  76564| (1'15)
+  76565| Hart,  James  Dogan  (b'63)— N.Y.10,'84  ;  (I'OS)
+  76566| Kirksey,  M.  C.  L.   (b'69)— Tenn.8,'97 ;  (I'OS)
+  76567| Love,  L.  E.    (b'52)— Mo.1,'77 ;   (I'OS)
+  76568| McClure,   W.   Y.    (b'62)— Ga.10,'85 ;    (I'OS)
+  76569| Miller,  Saml.  E.  (b'67)— Ark.l,'91 ;  (I'OS)
+  76570| Sweet,    Frank   R.    (b'77)— 0;    (I'OS)
+  76571| Webb,  Grover  Cleveland   (b'9S)— Tenn.6,'17 ;
+  76573| (1'17)
+  76574| DATTO,  242,  CLAY
+  76575| RICHARDSON,  MELVIN  C.    (b'85)®— Ark.2,
+```
+
+## GRAVELLY (OCR lines 77652–77660)
+```
+  77652| Carter,  John  D.— Tex.8,'06 ;  (1*03)
+  77654| GRAVELLY,  130,  YELL
+  77656| MONTGOMERY,   HENRY   L.   (b'68)^—
+  77658| Ark.1,'94;  (1'03)
+  77659| GRAVETTE,  754,  BENTON  .
+  77660| BUFFINGTON,  GEO.  H.  (b'69)— Ia.l0,'00  ;
+```
+
+## HAVANA (OCR lines 77862–77872)
+```
+  77862| Mason,  Walter   Lee    (b'82)— 0;    (1'03)
+  77864| HAVANA.    449,    YELL
+  77866| Brltt.   Henry   A.    (b'78)— Ark.2,'ll ;    (1'03)
+  77868| Hefflngton,  Calvin  F.    (b'52)— 0.2.'91 ;   (I'OS)
+  77870| Mitchell.   Jahn   E.    (b'61)— 0:    (1'03)
+  77872| HAYNES.  350,   LEE
+```
+
+## MAMMOTH SPRINGS FULTON (OCR lines 80086–80096)
+```
+  80086| '95;    (1'03)
+  80087| Worthington,   Saml.   M.,   b'68;   0:   1'03
+  80088| MAMMOTH   SPRINGS,   817,    FULTON
+  80089| Chapman,  Arch  Sylvester  (b'S6) — Tenn.l,'09;
+  80091| (1'13)
+  80092| Gulp.  Chas.  W.    (b'58)— Tenn.8,'85;    (1'03)
+  80093| Garner,    B.    L.    (b'79)— 0;    (1'03)
+  80094| HULL,  HENRY  B.,  b'73;  Tenn.5,'07  ;  r03
+  80095| Morris,   Henry    S.    (b'73)— 0;    (1'03)
+  80096| MANDEVILLE.    200,    MILLER
+```
+
+## NIMROD PERRY (OCR lines 80649–80655)
+```
+  80649| NIMMONS,  297,  CLAY
+  80650| Custer,  W.  P.    (b'68)— 0;   (1*03)
+  80651| NIMROD,  60,   PERRY
+  80653| Wallace,  Charles  T.   (b'69)— Ark.1,'97;  (I'OS)
+  80654| NORFOLK,  224,  BAXTER
+  80655| Sheid,  Zachariah  T.  (b'74)— 0;  (I'OS)
+```
+
+## OLA YELL (OCR lines 80749–80756)
+```
+  80749| (1'03)
+  80750| ROSS,  JAMES  S.  (b'54)— La.1,'78;  (I'OS)
+  80751| OLA.  655,  YELL
+  80753| Brewer,  W.  R.   (b'78)— Tenn.8,'02;   (I'OS)
+  80754| Davis,  Geo.  C.  (b'84)— 0;  (1'09)
+  80755| Harkey,  Wm.  L    (b'50)— Ark.l,'9S ;   (I'OS^
+  80756| OLMSTEAD     (R.D.,    JACKSONVILLE),     15,
+```
+
+## PLAINVIEW (OCR lines 81269–81275)
+```
+  81270| Bank  Bldg.;  9-12,  2-5;  Anes
+  81271| PLAINVIEW,  990,  YELL
+  81272| Albright,  James  L.  (b'66)— Tenn.8,'91 ;  (1'03)
+  81273| Green,  John   Wesley    (b'71)— ^;    (1'03)
+  81274| LINZY,  C.  B.    (b'77)— Ark.l,'06;   (1'03)
+  81275| PLEASANT  PLAINS,  116,  INDEPENDENCE
+```
+
+## INDEX Brewer W.R. Ola (OCR lines 791030–791092)
+```
+ 791031| BRIGG8
+ 791034| BREWER,  Guy  B.,  Garber,  Okla.
+ 791035| Henry  John,  Brooklyn.
+ 791036| Howell    William,    Hot    Springs,
+ 791038| Ark.
+ 791039| Isaac      Williams,      Watertown,
+ 791041| N.Y.
+ 791042| James  Ardis,  Troy,  Ala.
+ 791043| James  C,  Kemp,  Tex.
+ 791044| James  P.,  Ashevllle,  N.C.
+ 791045| James  Street,  Roseboro,  N.C.
+ 791046| James    Warren,    Hot    Spfines,
+ 791048| S.D.
+ 791049| Jay  B.,  Jefferson,  Wis.
+ 791050| Jay  Claude,  Jefferson,  Wis.
+ 791051| Jeremiah  Johnston,  Clarlngton,
+ 791053| Pa.
+ 791054| Joel  Runnels,  Doyle,  Okla.
+ 791055| John  Dee,  Dyersburg,  Tenn.
+ 791056| John  P.,  Kerrs,  Ark.
+ 791057| Joseph     Francis,     Minneapolis,
+ 791059| Kan.
+ 791060| Joseph      McDowell,      Eldorado,
+ 791062| Ark.
+ 791063| Lake,  Rldgeway,  Mo.
+ 791064| Lambert  C,  Atlanta,  Ga.
+ 791065| Lewis  Stanhope,  Quimby,  la.
+ 791066| Lyman  Augustus,  Toledo,  0.
+ 791067| Malcolm  Irvln,  Meeker,  Colo.
+ 791068| Martin  T.,  Des  Moines,  la.
+ 791069| Oslas  C,  Hernando,  Miss.
+ 791070| Robert  Kemp,    Syracuse,    N.Y.
+ 791071| Scott,  William  D.,  Singer  Glen,
+ 791073| Va.
+ 791074| Thomas  Cleveland,  Dallas,  Tex.
+ 791075| Thomas  E.,  Beebe,  Ark
+ 791076| Thomas  G.,  Osceola,  Ark.
+ 791077| Thomas     William,     Oklahoma,
+ 791078| ;  Okla.
+ 791080| Walpole  C,  Atlanta,  Ga.
+ 791081| Walter  C,  Columbus,  Miss.
+ 791082| William,  Woodbury,  N.J.
+ 791083| William      Ausbom,      Memphis,
+ 791085| Tenn.
+ 791086| William  P.,  Pair  Play,  Mo.
+ 791087| W.  J.,  Perry  ton,  Tex.
+ 791088| W.  R.,  Ola,  Ark.
+ 791089| BREWIN,  John  Andrew,  Everett,
+ 791091| BREWINGTON,  George  P.,  Keota,
+```
+
+## INDEX Davis George C. Ola (OCR lines 823845–823856)
+```
+ 823846| Wash.
+ 823847| George       Augustus,       Summit
+ 823849| Point,  W.Va.
+ 823850| George  A.,   De  Land,   Fla.
+ 823851| George  B.,  Curtis  Bay,  Md.
+ 823852| Geofge  Cresswell,  Milton,  Pa.
+ 823853| George  C,  Ola,  Ark.
+ 823854| George  Edwin,  New  York  City.
+ 823855| George      E.,      San      Francisco
+```
+
+## INDEX Harkey William I./L Ola (OCR lines 873198–873216)
+```
+ 873200| HARKEY
+ 873203| AMERICAN    MEDICAL    DIRECTORY
+ 873206| HARRELL
+ 873209| HAEKEY,    Clifford  E.,   Paducah,
+ 873211| Ky.
+ 873212| William  Cathey,  Lenexa,  Kan.
+ 873213| William    I.,    Ola,    Ark.
+ 873214| HARKIN,     Frederick     McDonnel,
+ 873216| Marquette,   Mich.
+```
+
+## Beal / Beall / Beale in Arkansas geographic register (OCR lines 74000–85000)
+**Nil.** No line containing Beal/Beall/Beale in that window.
+Only Thomas+Beal hit in the entire OCR: “Beall, Thos. Boyd Ellis, b'57” (line 514650) — **not** Arkansas / not T. W. Beal.
+
+## Diplomatic reading of OLA listing (OCR)
+Header: `OLA.  655,  YELL`
+- Brewer, W. R. (b'78)— Tenn.8,'02; (I'OS)   [index: W. R., Ola, Ark. under BREWER]
+- Davis, Geo. C. (b'84)— 0; (1'09)            [index: George C., Ola, Ark. under DAVIS]
+- Harkey, Wm. L (b'50)— Ark.l,'9S ; (I'OS^   [index: William I., Ola, Ark. under HARKEY — L/I OCR uncertainty]
+Town population 655 matches the 1920 federal count later cited by Encyclopedia of Arkansas (locality page, separate source).
+
