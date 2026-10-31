@@ -313,6 +313,17 @@ Regenerated **before** B020 FAG memorial-biography queries (`bc-20e39036`). **Di
 
 Exact strings logged **L586–L596**.
 
+## Name-variant storm (pass 84, `search_variants.py`, 31 Oct 2026)
+
+Regenerated **before** B039 Hayes/Smith book residual queries (`bc-c5415202`). **Did not take B020** (`bc-20e39036` Pass **82**, **C494–C503 / L586–L596 / S428–S435**). **Did not take B007** (`bc-6d51c793` Pass **83**, reserved **C504+ / L597+ / S436+**). **Did not take B014 / B030 / B042 digital table / B047 / B049 / B055 / B056.** **Did not retake B015 / B016 / B045 / B051 / B054 / B057 / B092.** This pass uses **C514–C523 / L607–L616 / S446–S455**. Categories **1–4**:
+
+1. **Canonical:** Larkin T. Mays / Mayse; Louisa / Eliza Pendergrass; Robert Newnam of Pebworth (kept **separate** from Farley-stepson Robert **C116**); Sallie / Sally Newnam.
+2. **User / family:** Link (POSSIBLE = Larkin); Mayse / Mayes; Louiza; Pendergras / Pendergass; Newman / Newnarn / Newan / Newnom; Sarah for Sallie.
+3. **Machine / OCR given:** Larkin; Louisa → eliza / luisa / loisa / louiza; Robert; Sallie. Surname: Newnam / newman / newnarn / newan / newnom; Mays; Pendergrass. Soundex **M200** / **N550** / **P536**.
+4. **Repository quirks:** ISBN **9780788410581** / **078841058X** / LCCN **99201827**; FS catalog **818120** then **733757**; Heritage **101-H1058**; KYGenWeb / RootsWeb `~kyowsley/marry`; Wayback `sites.rootsweb.com/~kyowsley/marry/*`; IA Solr `isbn:` / `title:` / `creator:`; Open Library / WorldCat / Hathi / Google Books.
+
+Exact strings logged **L607–L616**.
+
 ## Agent SDK / GitHub channel
 
 Inspected 30 Oct 2026 (**L351**): this repository has **no** `package.json`, **no** `@grok/agent-sdk`, **no** `bot/` directory. GitHub channel `bot/channels/github.ts` is **n/a** and was **not** authored. Project subagent: `.cursor/agents/dora-genealogy-detective.md`.

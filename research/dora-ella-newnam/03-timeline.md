@@ -20,7 +20,10 @@ Place as it was *at the date*; modern equivalent in brackets. Flag impossibiliti
 | 28 Feb 1884 | 12 | Sister Francis E. m. Millard F. Jones at Elias E. Newnam’s | Lee Co., KY | C046 | S004 book |
 | **Thu 10 Dec 1885** | **14** | **m1 Samuel P. Newnam, 16, at Doll Newnam’s, Rev. J. E. Dunagin; wit. Doll Newnam & Link Mays** | Lee Co., KY | C010 | S004 |
 | **Wed 16 Dec 1885** | **14** | Published *Three Forks Enterprise* gleaning names only Bowman × Day at Zachariah — **nil** Dora wedding extract. Page “Under construction” — not proof the paper never printed it | Lee Co., KY | C489 | S424 |
-| after mid-1880 × before ~Sep 1881/82 | — | FAN: Larkin Mays × Louisa Pendergrass (license unread; both single in 1880 Booneville; before Vestie — **C483**). Published VS gap **1879–1902** | Owsley or Lee Co., KY | C138 C483 C148 | S126 S128 S132 S412 |
+| **22 Jan 1874** | — | FAN reject: archived Owsley bride table — **Louisa Flanary** 19 × **William Mays** 20. **Not** Larkin × Louisa Pendergrass | Owsley Co., KY | C520 | S453 |
+| **6 Feb 1874** | — | FAN: Martha Newman 19 × Mason Estes 21 — **not** Sallie | Owsley Co., KY | C520 | S453 |
+| **Aug 1878** | — | FAN reject: **Patrick Mays** 18 × Rachel Moore 17 — **not** Larkin | Owsley Co., KY | C519 | S452 |
+| after mid-1880 × before ~Sep 1881/82 | — | FAN: Larkin Mays × Louisa Pendergrass (license unread; both single in 1880 Booneville; before Vestie — **C483**). Published VS gap **1879–1902**. Archived 1850–1879 tables **nil** party; 1880–1920 compiled pages never published (**C518 C521**) | Owsley or Lee Co., KY | C138 C483 C148 C518 C521 | S126 S128 S132 S412 S451 S455 |
 | 10 Feb 1886 | 14 | Sister **Mary L.** (PROBABLE) m. James Hoover, age 17; **not** Dora | Lee Co., KY | C100 | S075 |
 | **18 Nov 1887** | **16** | FAN: published licenses include **William N. TINCHER** × **Mary NEWNAM** — same woman as Lee wills **Mary F. Newnam TINCHER**; **not** P001 | Lee Co., KY | C490 C232 | S424 |
 | Jun 1886 | — | Niece **Provy/Provie Hoover** born (Elias’s granddaughter) | Lee Co., KY | C096 | S076 |

@@ -1,0 +1,98 @@
+B039 residual Pass 84 extract — Hayes 818120 / Smith 733757
+Captured 31 Oct 2026. Worker bc-c5415202. IDs C514–C523 / L607–L616 / S446–S455.
+Did not invent Hayes or Smith book rows. Dates in Hayes are estimates (oldest child + 1 year), not licenses.
+Did not take B020 / B007 / B014 / B030 / B042 digital table / B047 / B049 / B055 / B056.
+Did not retake B015 / B016 / B045 / B051 / B054 / B057 / B092.
+Left C504–C513 / L597–L606 / S436–S445 for sibling B007 Pass 83.
+
+=== Variants 1–4 (search_variants.py + kinship.py soundex) ===
+Canonical: Larkin T. Mays/Mayse; Louisa/Eliza Pendergrass; Robert Newnam; Sallie/Sally Newnam.
+Family: Link (POSSIBLE=Larkin); Mayse/Mayes; Louiza; Pendergras/Pendergass; Newman/Newnarn/Newan/Newnom; Sarah for Sallie.
+OCR given: Larkin; Louisa→eliza/luisa/loisa/louiza; Robert; Sallie.
+Soundex: Mays M200; Newnam N550; Pendergrass P536.
+Repo quirks: ISBN 9780788410581 / 078841058X / LCCN 99201827; FS 818120 then 733757; Heritage 101-H1058; KYGenWeb/RootsWeb ~kyowsley/marry; Wayback sites.rootsweb.com/~kyowsley/marry/*; IA Solr isbn:/title:/creator:; Open Library / WorldCat / Hathi / Google Books.
+
+=== Exact IA Solr (all numFound=0) ===
+isbn:9780788410581
+isbn:078841058X
+lccn:99201827
+creator:(margaret millar hayes) AND owsley
+title:(reconstructed marriage records of owsley)
+title:(owsley county kentucky marriages 1843-1929)
+creator:("robert l. smith") AND owsley AND marriage
+"9780788410581"
+owsley reconstructed marriage hayes
+owsley marriages 1843-1929 smith
+
+=== Shop / catalog (books still unread) ===
+Heritage https://heritagebooks.com/products/101-H1058 — $37 paperback, 462 pp, SKU 101-H1058, ISBN 9780788410581 / 078841058X, (1998) 2008. Blurb: 1929 fire destroyed all records up to that time; most dates are estimates based on the age of the oldest child plus one year. No PDF. Unit price / Unavailable on this fetch.
+LibroWorld / Readings / Biblio listings: same blurb; paperback only; Biblio HTTP 403 this pass.
+LDS Genealogy https://ldsgenealogy.com/KY/Owsley-County-Marriage-Records.htm — 7 sources. Hayes and Smith listed FamilySearch Library only. Ancestry 1852–1914 note: Owsley 1852-1859, 1874, 1876-1879, 1903-1904, 1908-1910 (same published VS gaps as C475).
+FS catalog 818120 and 733757 — HTTP 403 from this VM.
+Open Library /isbn/9780788410581 — human-verification wall.
+WorldCat title search — HTTP 429.
+HathiTrust catalog ISBN — HTTP 403.
+Google Books tbm=bks q=9780788410581 — 200 JS shell, no Hayes A–L page text.
+WebSearch: no free Hayes PDF; no Smith 733757 page for Larkin×Louisa or Robert×Sallie. oocities Godfrey Isaacs page cites Smith as reconstructed (lookup/error note for Isaacs, not our party). Prism News 2 Aug 2026 recites the Heritage blurb + Owensboro Messenger 30 Jan 1929 fire notice — not a book page.
+
+=== KYGenWeb / RootsWeb live ===
+https://kygenweb.net/owsley/marry/ — HTTP 406 (226 B).
+https://sites.rootsweb.com/~kyowsley/marry/ — HTTP 403 (2 B).
+files.usgwarchives.net/ky/owsley/vitals/marriages/ — timeout.
+
+=== Wayback index (20240813211322) ===
+https://web.archive.org/web/20240813211322/https://sites.rootsweb.com/~kyowsley/marry/index.htm
+SHA-256 70637f6ba0383ab5ba4f128623bfac552a2e460432d56a19be4b8ae24505643d (14,467 B).
+Linked pages ONLY:
+  1850's-1870's Marriages by Bride's Name
+  1850's-1880's Marriages by Groom's Name
+  Kentucky Marriage Records 1973-2000 (offsite)
+TEXT LABELS WITH NO HREF:
+  Owsley County Marriages 1843 to 1850
+  Owsley County Marriages 1880 to 1900
+  Owsley County Marriages 1900 to 1920
+  Owsley County Marriages 1920 to 1940
+  Owsley County Marriages 1940 to 1960
+  Owsley County Marriages 1960 to 1973
+Broken nested href Marriages1850-1880.html (unsplit) — Wayback available API archived_snapshots {}.
+
+=== Wayback availability API (archived_snapshots {}) ===
+Marriages1880-1900.html
+Marriages1880-1900 by Groom Name.html
+1880's-1900's Marriages by Bride Name.html
+Marriages1900-1920.html
+Marriages1900-1920 by Groom Name.html
+Marriages1850-1880.html
+Marriages1843-1850.html
+ONLY snapshot: Marriages1973-2000.html (20240906143536, 10,700 B after -L). Modern 1973–2000 KY records. No 1880 / 1908 / Larkin / Newnam / Sallie strings. N/A for the target windows.
+CDX prefix later returned IA “Temporarily Offline” HTML (11,832 B) — not a snapshot list.
+
+=== Groom table 1850–1880 (Nate Elliott; Wayback 20240906143536) ===
+168 data rows. Dated years 1852–1879 (no 1880 row). SHA-256 d19ffc230e51024273d2bb325bfd99dd37554de0fa5d96c1062b39a777d09043 (215,418 B).
+NO Larkin / Link Mays groom. NO Robert Newnam / Newman groom.
+Party-surname hits only:
+  8/1878  Patrick Mays 18 × Rachel Moore 17
+  3/15/1859  Lenidas? Shanks 22 × Jane Mays 18
+  5/5/1859  Lafalt? Burk 23 × Elizabeth Pendergrass? 18
+  4/5/1877  Bosing Pendergrass 22 × Phoebe Flannery? 16
+None is Larkin×Louisa or Robert×Sallie.
+
+=== Bride table 1850s–1870s (Deanna Housley Word HTML; Wayback 20240906143537) ===
+260 data rows. Dated years 1853–1879. SHA-256 68e08dcabb6c1a917e0516133597dee52224f884d10cb5aa8acf2596056b97a8 (1,067,311 B).
+NO Louisa / Eliza / Louiza Pendergrass bride. NO Sallie / Sally Newnam / Newman bride.
+Hits:
+  1/22/1874  Louisa Flanary 19 × William Mays 20  — REJECT vs Larkin×Louisa (bride surname Flanary; groom William; both Larkin and Louisa Pendergrass still single in 1880 Booneville C136 C137).
+  2/6/1874  Martha Newman 19 × Mason Estes 21 — not Sallie.
+  Same Patrick / Jane / Bosing rows as the groom page.
+
+=== Coverage bound ===
+Last dated row on both archived tables is 1879. Larkin×Louisa window after mid-1880 and before Vestie ~Sep 1881/82 (C483) sits AFTER this table. Robert×Sallie before Mar 1908 sits in the unpublished 1880–1920 labels. That is why no reconstructed license has been read from free pages — not proof Hayes/Smith never printed one.
+
+=== Retrieval (do not invent rows) ===
+1. FamilySearch Library / FHL Catalog 818120 / ISBN 9780788410581 — Margaret Millar Hayes, Reconstructed Marriage Records of Owsley County, Kentucky, 1843–1910: Part 1 A–L (Heritage 101-H1058). Both Mays and Newnam are A–L. Treat any date as an estimate (oldest child + 1 year), not a license date.
+2. FamilySearch Library / FHL Catalog 733757 — Robert L. Smith, Owsley County, Kentucky marriages, 1843–1929. LDS wrapper: Salt Lake; not digitised.
+3. Heritage Books mail order 101-H1058, $37 paperback (this fetch).
+4. Owsley County Clerk, Booneville, KY — surviving or reconstructed marriage books 1879–1902 and 1905–1907.
+5. KDLA if a post-1929 reconstruction volume is inventoried.
+
+Same-person holds: C108 / C116 / C119 unmerged. Link↔Larkin still POSSIBLE (C131). William Mays 1874 ≠ Larkin. Patrick Mays 1878 ≠ Larkin.
