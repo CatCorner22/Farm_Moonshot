@@ -1,0 +1,28 @@
+Pass 74 — 1910 Owsley ED 168 sheet 1 B dwellings 14–15 (original)
+NARA T624-498 / IA 13thcensus1910po498unit leaf 949. Image-seen 30 Oct 2026.
+Mag Dist 5 Buffalo Precinct No. 5. Enumerator George M. Hogg[?].
+JPEG: 1910-owsley-ed168-sh1b-hh14-15-baker-evans.jpg
+SHA-256 46311cc690867fa74062c1ea2879d81c26847ce1a68fe2f22ac81a8d57a99eb9
+(337,673 bytes, 2685×1966). Bottom of sheet 1 B (lines 79–93; 94–100 blank).
+
+Diplomatic (Pass 1 + Pass 2):
+ln 79  14/14  Baker, Jesse     Head  m W 42 m1 19
+ln 80         Emily            Wife  f W 40 m1 19  10-9
+ln 81         Chester          Son   m W 17 S
+ln 82         Delbert          Son   m W 15 S
+ln 83         Walter           Son   m W 13 S
+ln 84         William          Son   m W 11 S
+ln 85         Lucy             Daughter f W 9 S
+ln 86         Sarah            Daughter f W 7 S
+ln 87         Martha           Daughter f W 5 S
+ln 88         Abner            Son   m W 3 S
+ln 89         Pearl            Daughter f W 1 6/12[?] S
+ln 90  15/15  Evans, John      Head  m W 45 m1 17
+ln 91         Susan            Wife  f W 29 m1 17  4-2
+ln 92         Lula             Daughter f W 4 S
+ln 93         Robert           Son   m W 1 6/12[?] S
+
+Sheet 1 B therefore ends at dwelling 15. Sheet 2 A line 1 is dwelling 16
+(not a continuation of 14–15). These FAN surnames (Baker Jesse / Evans John)
+remain 1920 ED 92 hh 1–13 Soundex targets (B-260 / E-152).
+Pearl here is Baker, not P001 / not 1910 Rice Dora 2 2/12 (C776).

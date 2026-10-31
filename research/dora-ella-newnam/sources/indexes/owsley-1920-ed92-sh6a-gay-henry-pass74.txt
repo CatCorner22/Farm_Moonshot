@@ -1,0 +1,37 @@
+Pass 74 — 1920 Owsley ED 92 sheet 6 A (B-form) dwelling 105 Gay, Henry (original)
+NARA T625-594 / IA 14thcensusofpopu594unit leaf 1166. Image-seen 30 Oct 2026.
+Buffalo Precinct No. 5. Enumerator Fred Hubbard. Enumerated 14 Jan 1920.
+Stamped Sheet 6 A; printed B-form lines 51–100. SD 10, ED 92.
+JPEGs:
+  1920-owsley-ed92-sh6a-hdr.jpg
+    SHA-256 d1a1778e4ba1681122fa7d5d24e378c26acd19e11b967d409b6fac66130f4a91
+    (571,231 bytes, 7584×829)
+  1920-owsley-ed92-sh6a-hh105-gay-henry.jpg
+    SHA-256 68112e256cb325410e1e72b9a1232706d0beaa5f2688dedb1961341aefaadaef
+    (347,838 bytes, 2806×892)
+
+Diplomatic (Pass 1 + Pass 2; Hard Rule 6 — original over Soundex):
+ln 77–79  fam 104/104  McIntosh[?], Lloyd Head ~32 + Amanda Wife 17 + Edward Son 5
+ln 80     fam 105/105  Gay, Henry   Head  m W 55[?] m  farmer
+ln 81                  Nancy        Wife  f W 53     m
+ln 82                  Roda         Daughter f W 17  S
+ln 83                  Elzie        Daughter f W 15  S
+ln 84                  Luther       Son      m W 11  S
+ln 85                  Estill       Son      m W  8  S
+ln 86     fam 106/106  Daniel, Reece Head 38 m + Lula Wife ~28 + Bessie Dau 10
+
+Henry's age column is faint; reading 55[?] (Soundex card 3995 writes 55 clearly;
+original wins the given name Henry and the household; age cited as 55[?]).
+Roda / Elzie are the original spellings (Soundex has Rodah / Elza).
+
+Not missing sheet 1. This is filmed ED 92 sheet 6, the same filming that holds
+C768 Douglas (sh 2) and C756 Gilbert John (sh 5). Proves Soundex indexed
+filmed Buffalo sheets, including later sheets than the opener.
+
+PROBABLE same household as 1910 Buffalo dw 26/26 Gay, Henry 46 × Nancy 40
+(name Henry+Nancy; Owsley Buffalo; children Eliza/Elzie + Luther; age 46→55
+is 9 years in 10, 1 year light, not averaged). Nancy 40→53 is +13 in 10 and
+is not averaged — the contradiction keeps the merge at PROBABLE, not PROVEN.
+Older 1910 children (Morris through Charley) are out of the 1920 house.
+Estill 8 was born after 15 Apr 1910. Hard Rule 3 identifiers align; Nancy
+age is disclosed, not averaged.

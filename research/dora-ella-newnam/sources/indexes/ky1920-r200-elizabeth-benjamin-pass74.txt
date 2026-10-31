@@ -1,0 +1,73 @@
+Pass 74 — 1920 KY Soundex R-200 Elizabeth E-window and Benjamin B-window
+NARA M1563 reels 131–132 / IA soundex1920ky131 then soundex1920ky132.
+Image-seen 30 Oct 2026. Given-name sort (Rice/Rose/Ross together).
+Geography: ky132 starts at L (leaf 1 reel leader #132; leaf 5 Ross, Levisa).
+E and B given-names are on ky131. ky131 leaves 0100/0500 are still R-163
+Robertson, not R-200. R-200 A at ~1000 (Rose Almond); C at 1500 (Riggs C.A.);
+E at ~2500; B window ~1250–1440; Benjamin between Ben (~1300) and Bennett (1320).
+
+Retained JPEGs:
+  ky1920-r200-p2470-rice-elizabeth-17-greenup.jpg
+    SHA-256 a2333834c8d7ff0a8d40fd3151d5ffdcd41fe73f317ae7f447bb455efccbb481
+    (156,648 bytes, 1600×980) dark card
+  ky1920-r200-p2490-rice-elizabeth-82-lawrence.jpg
+    SHA-256 688fa085a0c38a9f2d94c4cec5f0d0bef51aacca695b22a88109b20a29d5aa82
+    (146,604 bytes, 1600×1060)
+  ky1920-r200-p1304-rice-ben-a-52-pendleton.jpg
+    SHA-256 ff8b37be1351d957e57920e83f706b51ee79a3791a776ce5ad4dbc5d4017b56f
+    (149,598 bytes, 1600×1060)
+  ky1920-r200-p1312-rice-ben-h-32-mason.jpg
+    SHA-256 f6880784343555a3ef3372558ab225915a3325620a6d4b93516eb5aedc2ef03f
+    (153,035 bytes, 1600×1047)
+  ky1920-r200-p1318-rice-ben-w-50-hancock.jpg
+    SHA-256 39125546d63f43a77ce320f5859513dd5bdabfdd8f115f1025daf301f030c059
+    (148,503 bytes, 1600×1047)
+  ky1920-r200-p1250-ross-ballard-g-owsley-ed93.jpg
+    SHA-256 959c6f6eb680cb9046a1ff03f65049d80acb21b00802a00e17be73f8e40d3cca
+    (159,839 bytes, 1600×1047)
+
+Diplomatic — card 2470 (dark; Pass 2):
+  R-200 Rice, Elizabeth  W 17  Kentucky  Greenup  Russell  Ferry
+  Vol 33 · E.D. [88?] · Sheet 6 · Line 20
+  Enumerated with Leep[?], J.W. · Relationship Sister-in-law. Form A-3.
+  DISPROVED as 1910 Buffalo Rice, Elizabeth 46 Wd (age 17 vs ~56; Greenup; SIL not Wd head).
+
+Diplomatic — card 2490:
+  R-200 Rice, Elizabeth  W 82  Kentucky  Lawrence
+  Vol 38 · E.D. 142 · Sheet 4 · Line 37
+  Other members: Rice, Bell  GD 49 Kentucky. Form A-1a.
+  DISPROVED as 1910 Elizabeth 46 Wd (age 82 vs ~56; Lawrence; GD Bell 49; not Jerry/Mary/Lulu).
+
+E-window then reaches Ella at ~2510. NIL Owsley Rice, Elizabeth ~56 Wd with
+Jerry / Mary / Lulu as a R-200 given-name card in this window.
+
+Diplomatic — card 1304:
+  R-200 Rice, Ben A  W 52  Kentucky  Pendleton  Cynthiana Pike
+  Vol 77 · E.D. 147 · Sheet 11 · Line 28
+  Other members: Rice, Addie W 45 Kentucky. Form A-1a.
+  DISPROVED as 1910 Rice, Benjamin 25 × Cynthia (age 52 vs ~35; Pendleton; Addie not Cynthia).
+
+Diplomatic — card 1312:
+  R-200 Rice, Ben H  W 32  Kentucky  Mason  Dover
+  Vol 69 · E.D. 165 · Sheet 8 · Line 41
+  Other members: Rice, Rosamond W 29; Ronald L S 8; Ben H Jr. S 3 6/12. Form A-1a.
+  DISPROVED as 1910 Benjamin 25 × Cynthia (Mason; Rosamond not Cynthia; children Ronald/Ben Jr.
+  not Lilly/Burchill). Age 32 vs ~35 is nearby and is not used as a match.
+
+Diplomatic — card 1318:
+  R-200 Rice, Ben W  W 50  Kentucky  Hancock
+  Vol 33 · E.D. 65 · Sheet 7 · Line 13
+  Other members: Rice, Mary W 53; Lula D 16; Josephine D 13. Form A-1a.
+  DISPROVED as 1910 Benjamin 25 × Cynthia (age 50 vs ~35; Hancock; Mary not Cynthia).
+
+Card-by-card 1301–1319: NIL Rice, Benjamin ~35 × Cynthia Owsley.
+Bennett starts at 1320.
+
+Diplomatic — card 1250 (Owsley R-200 geography, not Rice):
+  R-200 Ross, Ballard G  W 46  Kentucky  Owsley
+  Vol 76 · E.D. 93 · Sheet 3 · Line 67
+  Other members: Ross, Nora W 42 Tennessee; Emma D 11; Bethel D 9; Udell D 5; Velma[?] D 2 6/12.
+  ED 93 is Buck Creek (already filmed entire, C746). Not Rice. Not ED 92 sh 1.
+
+NIL vol 76 ED 92 sh 1 in these E and B windows.
+Residual: A-2 member cards; Soundex miss; filming gap; other 1910 sh 2 surnames.

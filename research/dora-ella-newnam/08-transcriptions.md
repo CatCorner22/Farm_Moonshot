@@ -3153,5 +3153,124 @@ Pass 2: Age 16, Howard, Leslie, DIL. **DISPROVED** as 1910 Buffalo Hardy, Drucil
 ### Facts extracted → claim IDs
 - H-630 isolated; Howard Drucilla 16 DISPROVED; nil Hardy Drucilla ~50 → C797
 
+## DOC128 — 1910 Owsley ED 168 sheet 1 B, dwellings 14–15 Baker Jesse / Evans John (original)
+
+- Crop: `sources/census/1910-owsley-ed168-sh1b-hh14-15-baker-evans.jpg` SHA-256 `46311cc690867fa74062c1ea2879d81c26847ce1a68fe2f22ac81a8d57a99eb9`
+- Extract: `owsley-1910-ed168-sh1b-hh14-15-pass74.txt` `f2bea9b07d01f0b2ed994888ebad0bfc46d1d8177c54411b5666dce1c5f77557`
+- Provenance: NARA T624-**498** / IA `13thcensus1910po498unit` `_0949.jp2` leaf **949**, opened 30 Oct 2026. **Image-seen.** Enumerator **George M. Hogg[?]**. Mag Dist **5** Buffalo Precinct No. **5**. Bottom of sheet 1 B (lines 79–93; 94–100 blank).
+
+### Diplomatic — dwellings 14–15
+
+> **14/14 Baker, Jesse** Head m W **42** m1 **19**  
+> Emily Wife f W **40** m1 19 **10-9**  
+> Chester 17 S; Delbert 15 S; Walter 13 S; William 11 S; Lucy 9 S; Sarah 7 S; Martha 5 S; Abner 3 S; Pearl 1½ S.
+
+> **15/15 Evans, John** Head m W **45** m1 **17**  
+> Susan Wife f W **29** m1 17 **4-2**  
+> Lula Dau **4** S; Robert Son **1½** S.
+
+Pass 2: Sheet 1 B ends at dwelling **15**. Sheet 2 A line 1 is dwelling **16**. Baker Pearl is not P001.
+
+### Facts extracted → claim IDs
+- Baker Jesse 42 × Emily; Evans John 45 × Susan → C801
+
+## DOC129 — 1910 Owsley ED 168 sheets 2 A / 2 B, dwelling 26 Gay Henry (original)
+
+- Header 2 A: `sources/census/1910-owsley-ed168-sh2a-hdr.jpg` SHA-256 `e30bb11afcb67a4a39aaaefe3fcaa1aa9d1dd46ae6200331658eeeb4ea27868c`
+- Header 2 B: `…sh2b-hdr.jpg` `7fa805fe246b401b792ee37cbf231f8ad512e6c1a9970b59f01cdf0ba5d1df24`
+- Household: `…sh2b-hh26-gay-henry.jpg` `fcba6d4eec3657e4f8466eba9b2cf0a72574b9c0d250c1b2cbd3d056196c9a8d`
+- Extract: `owsley-1910-ed168-sh2-fan-pass74.txt` `1ce381238ec17acc1eceb4bea5991074bb41aa3480bbf5ee07b0ef632189be2f`
+- Provenance: NARA T624-**498** / IA `13thcensus1910po498unit` `_0950.jp2` / `_0951.jp2` leaves **950–951**, opened 30 Oct 2026. **Image-seen.** Sh 2 B enumerated **19 Apr 1910**.
+
+### Diplomatic — dwelling 26/26
+
+> **26/26 Gay, Henry** Head m W **46** m1 **23**  
+> Nancy Wife f W **40** m1 23 **10-9**  
+> Morris Son **24** S; Lottie Dau **22** S; Mary B. Dau **17** S; Addison[?] Son **15** S; Susan Dau **13** S; Charley Son **10** S; Christ[?] Dau **8** S; **Eliza** Dau **6** S; **Luther** Son **2** S.
+
+Pass 2: Nine children listed against Nancy 10-9. Kentucky nativity. Sh 2 A line 1 is dw **16**. Surrounding FAN heads (Abner, Baker James, Gabbard Elisha/Willis, Barrett, Carmack, McIntosh, Dean, Bowman[?], Gaine[?]) are listed in the extract.
+
+### Facts extracted → claim IDs
+- 1910 FAN dw 16–33; Gay Henry 46 × Nancy 10-9 → C802
+
+## DOC130 — 1920 Owsley ED 92 sheet 6 A (B-form), dwelling 105 Gay Henry (original)
+
+- Header: `sources/census/1920-owsley-ed92-sh6a-hdr.jpg` SHA-256 `d1a1778e4ba1681122fa7d5d24e378c26acd19e11b967d409b6fac66130f4a91`
+- Household: `…hh105-gay-henry.jpg` `68112e256cb325410e1e72b9a1232706d0beaa5f2688dedb1961341aefaadaef`
+- Extract: `owsley-1920-ed92-sh6a-gay-henry-pass74.txt` `f127b7208f8ac81f76ab045a143af9d61d3288f9785cc0ae038004aea280b8f5`
+- Provenance: NARA T625-**594** / IA `14thcensusofpopu594unit` `_1166.jp2` leaf **1166**, opened 30 Oct 2026. **Image-seen.** Enumerator **Fred Hubbard**, **14 Jan 1920**. Buffalo Precinct No. **5**, ED **92**, stamped **6 A**, printed B-form lines **51–100**.
+
+### Diplomatic — dwelling 105/105
+
+> Ln **80** fam **105/105 Gay, Henry** Head farmer m W **55**[?] m  
+> Nancy Wife f W **53** m  
+> Roda Daughter f W **17** S  
+> Elzie Daughter f W **15** S  
+> Luther Son m W **11** S  
+> Estill Son m W **8** S  
+> Ln **86** fam **106/106 Daniel, Reece** Head **38** m.
+
+Pass 2: Age column faint on Henry; **55**[?]. Original spellings **Roda** / **Elzie**. **Not** missing sheet 1.
+
+### Facts extracted → claim IDs
+- 1920 original Gay Henry 55[?] ED 92 sh 6 dw 105 → C803
+
+## DOC131 — 1920 Kentucky Soundex G-000, Gay Henry Owsley ED 92 sh 6 (derivative)
+
+- Card 3995: `sources/soundex/ky1920-g000-p3995-gay-henry-owsley-ed92.jpg` SHA-256 `f0000731cfe31e576e001a9af557b801ea5d36bf90b00df93f6bb7623d01df88`
+- Extract: `ky1920-g000-gay-henry-pass74.txt` `edc28c7aee3c67aa3d0d7155571153d47215a49fbc893a259a68e395172489b9`
+- Provenance: NARA M1563 reel **56** / IA `soundex1920ky056` leaf **3995**, opened 30 Oct 2026. **Image-seen.** Given-name sort. Henry slot **3992–4005** image-seen; Pass 73 isolate at **4000** missed this card.
+
+### Diplomatic — card 3995
+
+> G-000 **Gay, Henry**  
+> Color **W** · Age **55** · Birthplace **Kentucky** · County **Owsley**  
+> Vol **76** · E.D. **92** · Sheet **6** · Line **80**  
+> Other members: **Gay, Nancy** W **53** Kentucky; **Rodah** D **17**; **Elza** D **15**; **Luther** S **11**; **Estill** S **8**. Form **A-1a**.
+
+Pass 2: Matches original leaf **1166** (DOC130). Hard Rule 6: original given name **Henry**; original spellings Roda/Elzie. Neighboring Gay/Gee Henrys **DISPROVED** as 1910 dw 26.
+
+### Facts extracted → claim IDs
+- Soundex Gay Henry 55 ED 92 sh 6 = original dw 105; PROBABLE 1910 dw 26 → C803
+
+## DOC132 — 1920 Kentucky Soundex R-200, Rice Elizabeth E + Rice Benjamin B (derivative)
+
+- Card 2470: `sources/soundex/ky1920-r200-p2470-rice-elizabeth-17-greenup.jpg` SHA-256 `a2333834c8d7ff0a8d40fd3151d5ffdcd41fe73f317ae7f447bb455efccbb481`
+- Card 2490: `…p2490-rice-elizabeth-82-lawrence.jpg` `688fa085a0c38a9f2d94c4cec5f0d0bef51aacca695b22a88109b20a29d5aa82`
+- Card 1304: `…p1304-rice-ben-a-52-pendleton.jpg` `ff8b37be1351d957e57920e83f706b51ee79a3791a776ce5ad4dbc5d4017b56f`
+- Card 1312: `…p1312-rice-ben-h-32-mason.jpg` `f6880784343555a3ef3372558ab225915a3325620a6d4b93516eb5aedc2ef03f`
+- Card 1318: `…p1318-rice-ben-w-50-hancock.jpg` `39125546d63f43a77ce320f5859513dd5bdabfdd8f115f1025daf301f030c059`
+- Card 1250: `…p1250-ross-ballard-g-owsley-ed93.jpg` `959c6f6eb680cb9046a1ff03f65049d80acb21b00802a00e17be73f8e40d3cca`
+- Extract: `ky1920-r200-elizabeth-benjamin-pass74.txt` `e924d1811e4f8cb09b1ff4ca46594bce5de241552007ae1f3d485f5dbb2840cc`
+- Provenance: NARA M1563 reel **131** / IA `soundex1920ky131`, opened 30 Oct 2026. **Image-seen.** ky132 starts at L; E and B are on ky131.
+
+### Diplomatic — cards 2470 / 2490 (Elizabeth)
+
+> R-200 **Rice, Elizabeth** · W **17** · Kentucky · Greenup · Russell · Ferry · Vol **33** · Sheet **6** · Line **20** · Enumerated with **Leep[?], J.W.** · Relationship **Sister-in-law**. Form **A-3**. Dark card.
+
+> R-200 **Rice, Elizabeth** · W **82** · Kentucky · Lawrence · Vol **38** · E.D. **142** · Sheet **4** · Line **37** · Other members: **Rice, Bell** GD **49** Kentucky. Form **A-1a**.
+
+Pass 2: Both **DISPROVED** as 1910 Rice Elizabeth 46 Wd. **Nil** Owsley ~56 Wd with Jerry/Mary/Lulu.
+
+### Diplomatic — cards 1304 / 1312 / 1318 (Benjamin)
+
+> R-200 **Rice, Ben A** · W **52** · Kentucky · Pendleton · Cynthiana Pike · Vol **77** ED **147** sh **11** ln **28** · **Rice, Addie** W **45**. Form **A-1a**.
+
+> R-200 **Rice, Ben H** · W **32** · Kentucky · Mason · Dover · Vol **69** ED **165** sh **8** ln **41** · **Rice, Rosamond** W **29**; Ronald L S **8**; Ben H Jr. S **3½**. Form **A-1a**.
+
+> R-200 **Rice, Ben W** · W **50** · Kentucky · Hancock · Vol **33** ED **65** sh **7** ln **13** · **Rice, Mary** W **53**; Lula D **16**; Josephine D **13**. Form **A-1a**.
+
+Pass 2: All three **DISPROVED** as 1910 Rice Benjamin 25 × Cynthia. Card-by-card **1301–1319** **nil** matching Owsley card. Bennett starts **1320**.
+
+### Diplomatic — card 1250 (Owsley geography, not Rice)
+
+> R-200 **Ross, Ballard G** · W **46** · Kentucky · Owsley · Vol **76** · E.D. **93** · Sheet **3** · Line **67** · Nora W **42** Tennessee; Emma D **11**; Bethel D **9**; Udell D **5**; Velma[?] D **2½**.
+
+Pass 2: ED **93** Buck Creek, already filmed (**C746**). Not Rice. Not sh 1.
+
+### Facts extracted → claim IDs
+- R-200 Elizabeth E / Benjamin B slots closed; DISPROVED hits → C804
+
+
 
 

@@ -1,0 +1,40 @@
+Pass 74 — 1920 KY Soundex G-000 Henry given-name slot (derivative)
+NARA M1563 reel 56 / IA soundex1920ky056. Image-seen 30 Oct 2026.
+Given-name sort (Gay/Gee/Guy interleaved). Henry sits just before Gee, Henry C
+at leaf 4000 — Pass 73's G-000 isolate started at 4000 and therefore missed
+this card. Isolation at 4000 is not proof that A–G given names are absent.
+
+Retained JPEG:
+  ky1920-g000-p3995-gay-henry-owsley-ed92.jpg
+  SHA-256 f0000731cfe31e576e001a9af557b801ea5d36bf90b00df93f6bb7623d01df88
+  (166,703 bytes, 1600×960)
+
+Diplomatic — card 3995 (Pass 1 + Pass 2):
+  G-000  Gay, Henry
+  Color W · Age 55 · Birthplace Kentucky · County Owsley
+  Vol 76 · E.D. 92 · Sheet 6 · Line 80
+  Other members:
+    Gay, Nancy   W 53 Kentucky
+    Rodah        D 17 Kentucky
+    Elza         D 15 Kentucky
+    Luther       S 11 Kentucky
+    Estill       S  8 Kentucky
+  Form A-1a.
+
+Matches original leaf 1166 dw 105 (DOC130). Hard Rule 6: original given name
+Henry, original spellings Roda/Elzie; Soundex is the derivative copy.
+
+Henry given-name slot card-by-card image-seen 3992–4005 (JPEGs not retained
+except 3995):
+  3993 Gee, Henry 45 B Pike × Sallie — DISPROVED as 1910 Gay Henry (race/county)
+  3994 Gay, Henry 13 Jackson nephew — DISPROVED (age 13 vs ~55; nephew)
+  3995 HIT (this card)
+  3996 Gay, Henry 70 B Harrison — DISPROVED (race/age/county)
+  3997 Gee, Henry 65 B Christian — DISPROVED
+  3998 Gee, Henry 46 W Lee × Flossy — DISPROVED as 1910 Gay Henry 46
+        (Lee not Owsley; Flossy not Nancy; Gee)
+  3999 Guy, Henry 40 B Fayette — DISPROVED
+  4000 Gee, Henry C 37 Carlisle — G-000 isolate start of Pass 73
+  4002 Gay, Henry J 24 grandson of Judy Fanny — DISPROVED (age/relationship)
+Henry given-name slot closed. Owsley Gay Henry is on filmed sh 6, not missing sh 1.
+NIL Gay, Henry ~55 Owsley other than this card in the slot.

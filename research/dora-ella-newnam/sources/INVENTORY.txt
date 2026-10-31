@@ -1484,3 +1484,79 @@ research/dora-ella-newnam/sources/census/1880-lee-ky-ed59-sheet43-p768-caroline-
   sha256: ca24f285de8ee8a7017f3fb05b7d5cf5c01aef77e40d86aae435b6212d85f1df
   format: text extract, 1,849 bytes
   check: Pass 73 coverage; catalog 114; opener Soundex given-name heads closed; ED 92 hh 1-13 residual
+/workspace/research/dora-ella-newnam/sources/census/1910-owsley-ed168-sh1b-hh14-15-baker-evans.jpg
+  sha256: 46311cc690867fa74062c1ea2879d81c26847ce1a68fe2f22ac81a8d57a99eb9
+  format: JPEG photo, 2685x1966px
+  check: 1910 Buffalo sh 1 B dw 14-15 Baker Jesse / Evans John
+/workspace/research/dora-ella-newnam/sources/census/1910-owsley-ed168-sh2a-hdr.jpg
+  sha256: e30bb11afcb67a4a39aaaefe3fcaa1aa9d1dd46ae6200331658eeeb4ea27868c
+  format: JPEG photo, 7528x734px
+  check: 1910 Buffalo ED 168 sh 2 A header stamp 3142
+/workspace/research/dora-ella-newnam/sources/census/1910-owsley-ed168-sh2b-hdr.jpg
+  sha256: 7fa805fe246b401b792ee37cbf231f8ad512e6c1a9970b59f01cdf0ba5d1df24
+  format: JPEG photo, 7544x728px
+  check: 1910 Buffalo ED 168 sh 2 B header 19 Apr 1910 stamp 3992
+/workspace/research/dora-ella-newnam/sources/census/1910-owsley-ed168-sh2b-hh26-gay-henry.jpg
+  sha256: fcba6d4eec3657e4f8466eba9b2cf0a72574b9c0d250c1b2cbd3d056196c9a8d
+  format: JPEG photo, 2791x1489px
+  check: 1910 Buffalo dw 26 Gay Henry 46 x Nancy 40 10-9
+/workspace/research/dora-ella-newnam/sources/census/1920-owsley-ed92-sh6a-hdr.jpg
+  sha256: d1a1778e4ba1681122fa7d5d24e378c26acd19e11b967d409b6fac66130f4a91
+  format: JPEG photo, 7584x829px
+  check: 1920 Buffalo ED 92 stamped 6 A B-form header 14 Jan 1920
+/workspace/research/dora-ella-newnam/sources/census/1920-owsley-ed92-sh6a-hh105-gay-henry.jpg
+  sha256: 68112e256cb325410e1e72b9a1232706d0beaa5f2688dedb1961341aefaadaef
+  format: JPEG photo, 2806x892px
+  check: 1920 Buffalo dw 105 Gay Henry 55 Nancy Roda Elzie Luther Estill
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-g000-p3995-gay-henry-owsley-ed92.jpg
+  sha256: f0000731cfe31e576e001a9af557b801ea5d36bf90b00df93f6bb7623d01df88
+  format: JPEG photo, 1600x960px
+  check: 1920 Soundex G-000 Gay Henry 55 Owsley ED 92 sh 6 ln 80
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-r200-p2490-rice-elizabeth-82-lawrence.jpg
+  sha256: 688fa085a0c38a9f2d94c4cec5f0d0bef51aacca695b22a88109b20a29d5aa82
+  format: JPEG photo, 1600x1060px
+  check: 1920 Soundex R-200 Rice Elizabeth 82 Lawrence DISPROVED
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-r200-p2470-rice-elizabeth-17-greenup.jpg
+  sha256: a2333834c8d7ff0a8d40fd3151d5ffdcd41fe73f317ae7f447bb455efccbb481
+  format: JPEG photo, 1600x980px
+  check: 1920 Soundex R-200 Rice Elizabeth 17 Greenup SIL DISPROVED
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-r200-p1304-rice-ben-a-52-pendleton.jpg
+  sha256: ff8b37be1351d957e57920e83f706b51ee79a3791a776ce5ad4dbc5d4017b56f
+  format: JPEG photo, 1600x1060px
+  check: 1920 Soundex R-200 Rice Ben A 52 Pendleton DISPROVED
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-r200-p1312-rice-ben-h-32-mason.jpg
+  sha256: f6880784343555a3ef3372558ab225915a3325620a6d4b93516eb5aedc2ef03f
+  format: JPEG photo, 1600x1047px
+  check: 1920 Soundex R-200 Rice Ben H 32 Mason DISPROVED
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-r200-p1318-rice-ben-w-50-hancock.jpg
+  sha256: 39125546d63f43a77ce320f5859513dd5bdabfdd8f115f1025daf301f030c059
+  format: JPEG photo, 1600x1047px
+  check: 1920 Soundex R-200 Rice Ben W 50 Hancock DISPROVED
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-r200-p1250-ross-ballard-g-owsley-ed93.jpg
+  sha256: 959c6f6eb680cb9046a1ff03f65049d80acb21b00802a00e17be73f8e40d3cca
+  format: JPEG photo, 1600x1047px
+  check: 1920 Soundex R-200 Ross Ballard G 46 Owsley ED 93 not sh 1
+/workspace/research/dora-ella-newnam/sources/indexes/owsley-1910-ed168-sh1b-hh14-15-pass74.txt
+  sha256: f2bea9b07d01f0b2ed994888ebad0bfc46d1d8177c54411b5666dce1c5f77557
+  format: text extract, 1,472 bytes
+  check: 1910 Buffalo sh 1 B dw 14-15 Baker Jesse / Evans John
+/workspace/research/dora-ella-newnam/sources/indexes/owsley-1910-ed168-sh2-fan-pass74.txt
+  sha256: 1ce381238ec17acc1eceb4bea5991074bb41aa3480bbf5ee07b0ef632189be2f
+  format: text extract, 2,931 bytes
+  check: 1910 Buffalo sh 2 A/2 B FAN dw 16-33 Gay Henry 46
+/workspace/research/dora-ella-newnam/sources/indexes/owsley-1920-ed92-sh6a-gay-henry-pass74.txt
+  sha256: f127b7208f8ac81f76ab045a143af9d61d3288f9785cc0ae038004aea280b8f5
+  format: text extract, 2,099 bytes
+  check: 1920 original ED 92 sh 6 dw 105 Gay Henry
+/workspace/research/dora-ella-newnam/sources/indexes/ky1920-g000-gay-henry-pass74.txt
+  sha256: edc28c7aee3c67aa3d0d7155571153d47215a49fbc893a259a68e395172489b9
+  format: text extract, 1,875 bytes
+  check: 1920 G-000 Gay Henry 55 ED 92 sh 6 matches original
+/workspace/research/dora-ella-newnam/sources/indexes/ky1920-r200-elizabeth-benjamin-pass74.txt
+  sha256: e924d1811e4f8cb09b1ff4ca46594bce5de241552007ae1f3d485f5dbb2840cc
+  format: text extract, 3,710 bytes
+  check: 1920 R-200 Elizabeth E / Benjamin B nil matching 1910 heads
+/workspace/research/dora-ella-newnam/sources/indexes/pass74-coverage.txt
+  sha256: e9a9a25d6de97f5deda6d11712f3b682d70bded4346343299243d1aed771e9cb
+  format: text extract, 1,970 bytes
+  check: Pass 74 coverage; catalog 115; Gay Henry on sh 6; ED 92 hh 1-13 residual other surnames

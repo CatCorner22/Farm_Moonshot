@@ -1,0 +1,51 @@
+Pass 74 — 1910 Owsley ED 168 sheets 2 A and 2 B, dwellings 16–33 (original)
+NARA T624-498 / IA 13thcensus1910po498unit leaves 950–951. Image-seen 30 Oct 2026.
+Mag Dist 5 Buffalo Precinct No. 5. Enumerator George M. Hogg[?].
+JPEGs:
+  1910-owsley-ed168-sh2a-hdr.jpg
+    SHA-256 e30bb11afcb67a4a39aaaefe3fcaa1aa9d1dd46ae6200331658eeeb4ea27868c
+    (244,739 bytes, 7528×734) Sheet 2 A, stamp ~3142
+  1910-owsley-ed168-sh2b-hdr.jpg
+    SHA-256 7fa805fe246b401b792ee37cbf231f8ad512e6c1a9970b59f01cdf0ba5d1df24
+    (274,870 bytes, 7544×728) Sheet 2 B, enum. 19 Apr 1910, stamp ~3992
+  1910-owsley-ed168-sh2b-hh26-gay-henry.jpg
+    SHA-256 fcba6d4eec3657e4f8466eba9b2cf0a72574b9c0d250c1b2cbd3d056196c9a8d
+    (355,612 bytes, 2791×1489) dw 25–26 crop (Carmack James + Gay Henry)
+
+Sheet 2 A line 1 IS dwelling 16/16. Dwellings 14–15 are on sheet 1 B.
+
+Diplomatic heads (Pass 1 + Pass 2; uncertain given names marked):
+16/16 Abner, Lewis Head 40 m1 18 + Susan 35 7-7 + Oscar 18, Sallie 11, Nannie 9,
+      Jessie 7, Lurina[?] 5, Hazel 2 2/12, Charlie 8/12
+17/17 Baker, James 35 m1 + Caroline 35 m2 20 1-1 + Pattie[?] 12
+18/18 Gabbard, Elisha 61 m1 40 + Mary 58 8-5 + Riley GS 17, Amos GS 10, Eva GD 5
+19/19 Gabbard, Willis B. 32 m1 8 + Laura[?] 26 2-2 + Herman 4, Melvin 1 6/12
+20/20 Abner, Samuel 43 m1 21 + Mariah 40 6-3 + Arch 19, Mary E 17, Ada 15
+21/21 Barrett, Ben 32 m1 16 + Anna[?]/Banna[?] 41 8-7 + William 13, Ida 11,
+      Louis 9, Levi 7, Henry 6, Susan 3, Maggie M. 6/12
+22/22 Barrett, John 65 + Susan 62 4-3 + Lee 39, James 23
+23/23 Carmack, Jacob 82 m1 50 + Martha 70
+24/24 McIntosh, Daniel 42 m1 13 + wife [uncertain reading] + Laura 19, Anton 17,
+      Hugh 15, Green 13, Irwin 10, Ellen 8, Ople[?] 6
+25/25 Carmack, James 40 m1 19 + Maribe[?] 33 7-6 + Maud 13, Dewey 10, Julia 9,
+      John 5, Fannie 3 6/12
+26/26 Gay, Henry Head m W 46 m1 23
+      Nancy Wife f W 40 m1 23 10-9
+      Morris Son 24 S; Lottie Dau 22 S; Mary B. Dau 17 S; Addison[?] Son 15 S;
+      Susan Dau 13 S; Charley Son 10 S; Christ[?] Dau 8 S; Eliza Dau 6 S;
+      Luther Son 2 S
+      Nine children listed; Nancy 10 born 9 living. Kentucky nativity.
+27/27 Gaine[?]/Gillie[?], Reece Head 26 m1 2 + Linda 19 1-1 + Bessie 4/12
+28/28 Dean, Daniel B. 28 m1 4/12 + Ida 27 m1 4/12
+29/29 Dean, George 32 m1 9 + Martha 30 5-5 + Nellie 7, Stella 6, Clay 5,
+      Ethel 3, Lenna[?] 4/12
+30/30 Dean, Lizzie[?] 63 Wd 7-6 + Bruce GS 16
+31/31 Bowman[?] Head 40 m1 21 + Annie 45 9-9 + Cora 23, Rosa 17, Willis 15,
+      Rachel 11, May 8, John 6, William 4, Emma GD 4/12
+32/32 Gabbard, Michael[?] 22 m 3 + Addie 20 3-2 + Mabel 13/12
+33/33 Gabbard, Lewis[?] 30[?] m 8 + Jane[?]/Sudie[?] 25 2-1 + Sudie Dau 7
+
+Headline identity: dw 26/26 Gay, Henry 46 × Nancy 40 10-9 (C802).
+1920 original of this couple is ED 92 sh 6 ln 80 dw 105 (C803 / DOC130).
+Remaining sh 2 surnames are 1920 ED 92 hh 1–13 Soundex targets after Gay Henry
+closed (not missing sh 1).
