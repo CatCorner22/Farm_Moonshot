@@ -987,5 +987,58 @@ n1989 is Israel/Iserel, 20, Tate. Henry precedes J.M. No Jesse head. → **C391 
 
 Consecutive leaves. No Jesse card. → **C394 / C395**.
 
+## DOC061 — 1900 IN Soundex S-415, William H continuation Nora 2
+- Image: `sources/soundex/in1900-s415-p1830-william-h-nora-2.jpg` SHA-256 `76bd90363dc36461a5b3da433aaa7871c418f765263838e75b5a581fb41e2917`
+- Reel: IA `soundex1900in208` n**1830**
+
+### Diplomatic
+> **S-415 Sullivan, William H** — Head of family, continued  
+> **Margaret** — D, Feb **1895**, **5**, Indiana  
+> **Nora** — D, Feb **1898**, **2**, Indiana  
+> Footer: #2 see #1
+
+Nora age 2 is not Letha. Combined with 91 William cards: no Letha ~2. → **C399**.
+
+## DOC062 — 1900 MI Soundex C-563, Jessie 33 Ford daughter
+- Image: `sources/soundex/mi1900-c563-p1606-jessie-33-ford-daughter.jpg` SHA-256 `ee8bf10c3c825ccb06fa0bd9bdc471ebd534944a7f7c597106151f190354fdac`
+- Reel: IA `soundex1900mi046` n**1606**
+
+### Diplomatic
+> **C-563 Conrod, Jessie** — Individual · vol **41** ED **93** sh **2** ln **26** · W Oct **1866** **33** Michigan · Kent · Grattan Twp  
+> Enumerated with **Ford, Horace** · Relationship to above **Daughter**
+
+Female daughter, Michigan-born. Jerome precedes; John follows. No male Jesse ~27 MO. → **C400 / C401**.
+
+## DOC063 — 1900 MI Soundex C-563, John 35 New York after Jessie
+- Image: `sources/soundex/mi1900-c563-p1613-john-35-ny.jpg` SHA-256 `6f2b5c3739b46e59fd5b755556b10733f2efff997ab154572d085f840e0cfc09`
+- Reel: IA `soundex1900mi046` n**1613**
+
+### Diplomatic
+> **C-563 Conrad, John** — Head · vol **51** ED **44** sh **6** ln **54** · W Oct **1865** **35** New York · Macomb · Armada Twp  
+> **Mary** — W, Nov **1867**, **32**, Michigan  
+> **Raymond** — S, Nov **1899**, **1/2**, Michigan
+
+Contact-sheet reading “Missouri” was a misread of **Newyork**. → **C402**.
+
+## DOC064 — 1900 NC Soundex C-563, Jesse 72 Forsyth
+- Image: `sources/soundex/nc1900-c563-p36-jesse-72-forsyth.jpg` SHA-256 `9b2c9b3bd2d52b9437256d5da05a9e2ed862514882cd47249ccbb5f2f2ee8a7a`
+- Reel: IA `soundex1900nc033x` n**36**
+
+### Diplomatic
+> **C-563 Conrad, Jesse** — Head · vol **25** ED **29** sh **17** ln **89** · W Jan **1828** **72** North Carolina · Forsyth · Old Jamestown Twp  
+> **Mary A** — D, Oct **1840**, **59**, North Carolina
+
+Age 72 confirms year 1828 (third digit can be misread as 0). Jeremiah B precedes; John follows. → **C403 / C404**.
+
+## DOC065 — 1900 NC Soundex C-563, James 27 Haywood boarder
+- Image: `sources/soundex/nc1900-c563-p33-james-27-boarder.jpg` SHA-256 `78fd80774391a6f7090540b292e936be7b60bf980466e4b9b62ed9b2a9177fda`
+- Reel: IA `soundex1900nc033x` n**33**
+
+### Diplomatic
+> **C-563 Conrad, James** — Individual · vol **33** ED **32** sh **1** ln **81** · W June **1872** **27** North Carolina · Haywood · Waynesville Twp · Waynesville  
+> Enumerated with **[Brice?], Elighett S** · Relationship to above **Boarder**
+
+Age matches 1910 Jesse; given name James; nativity NC; no Letha. → **C405**.
+
 ## DOC009 — 1910 TN Soundex N-550 McCoy window (nil)
 Handwritten family/individual cards n2461–n2469. Sequence after Mary C (n2460): Mary D 49 Jefferson (son Layton 11); Mary M 70 Hamilton; Mek. G 50 Cheatham (Florence 19, John 17, General 16, Frances 13, William 10, Doria 6, Luther 1½); Melvin 3½ Giles (gs of Deacon George W); Melvin 54 Giles (SIL of same); Minerva 80 Robertson (gds Lona Neely, Nellie Erwin); Minnie 21 Roane (with Sam P. Sparks); Mitchell 27 Hardin (Ollie P 25, Gladys 4, Burl W 3, Royal E 1 9/12). **No McCoy.** SHA-256 n2463 `23610f8aa4c159b1b554ed1786d11f57d2f56f8a2e8994f7289ae7bd02dfca53`; n2469 `340489566090880388fa6b81ca5751c5944dcaf56a7b44f70fe560788f308586`.

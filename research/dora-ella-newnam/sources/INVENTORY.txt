@@ -479,3 +479,20 @@ research/dora-ella-newnam/sources/soundex/ne1900-c563-p2703-johanna-after-james.
   format: JPEG Soundex card, IA soundex1900ne018 n2703
 research/dora-ella-newnam/sources/soundex/b007-pass73-1900-al-ms-la-ne-c563-in-john-2026-10-30.txt
   format: Pass 73 AL/MS/LA/NE C-563 + IN S-415 John family-section search log
+research/dora-ella-newnam/sources/soundex/in1900-s415-p1830-william-h-nora-2.jpg
+  sha256: 76bd90363dc36461a5b3da433aaa7871c418f765263838e75b5a581fb41e2917
+  format: JPEG Soundex card, IA soundex1900in208 n1830
+research/dora-ella-newnam/sources/soundex/mi1900-c563-p1606-jessie-33-ford-daughter.jpg
+  sha256: ee8bf10c3c825ccb06fa0bd9bdc471ebd534944a7f7c597106151f190354fdac
+  format: JPEG Soundex card, IA soundex1900mi046 n1606
+research/dora-ella-newnam/sources/soundex/mi1900-c563-p1613-john-35-ny.jpg
+  sha256: 6f2b5c3739b46e59fd5b755556b10733f2efff997ab154572d085f840e0cfc09
+  format: JPEG Soundex card, IA soundex1900mi046 n1613
+research/dora-ella-newnam/sources/soundex/nc1900-c563-p36-jesse-72-forsyth.jpg
+  sha256: 9b2c9b3bd2d52b9437256d5da05a9e2ed862514882cd47249ccbb5f2f2ee8a7a
+  format: JPEG Soundex card, IA soundex1900nc033x n36
+research/dora-ella-newnam/sources/soundex/nc1900-c563-p33-james-27-boarder.jpg
+  sha256: 78fd80774391a6f7090540b292e936be7b60bf980466e4b9b62ed9b2a9177fda
+  format: JPEG Soundex card, IA soundex1900nc033x n33
+research/dora-ella-newnam/sources/soundex/b007-pass74-1900-mi-nc-c563-in-james-wm-2026-10-30.txt
+  format: Pass 74 MI/NC C-563 + IN S-415 James/William family-section search log

@@ -102,6 +102,11 @@ Diplomatic transcriptions: [`08-transcriptions.md`](08-transcriptions.md). Citat
 | 127 | 1900 (index) | Context | [Mississippi C-563 — Joe, immediately after J.M.](sources/soundex/ms1900-c563-p1990-joe-45-warren.jpg) |
 | 128 | 1900 (index) | Rejected same-name | [Nebraska C-563 — James Conrad, 27, South Omaha](sources/soundex/ne1900-c563-p2702-james-27-omaha.jpg) |
 | 129 | 1900 (index) | Negative search | [Nebraska C-563 — Johanna Conradson, immediately after James](sources/soundex/ne1900-c563-p2703-johanna-after-james.jpg) |
+| 130 | 1900 (index) | Rejected same-name | [Indiana S-415 — William H continuation; Nora, 2, Indiana](sources/soundex/in1900-s415-p1830-william-h-nora-2.jpg) |
+| 131 | 1900 (index) | Rejected same-name | [Michigan C-563 — Jessie Conrod, 33, daughter of Horace Ford](sources/soundex/mi1900-c563-p1606-jessie-33-ford-daughter.jpg) |
+| 132 | 1900 (index) | Rejected same-name | [Michigan C-563 — John Conrad, 35, New York; first John after Jessie](sources/soundex/mi1900-c563-p1613-john-35-ny.jpg) |
+| 133 | 1900 (index) | Rejected same-name | [North Carolina C-563 — Jesse Conrad, 72, Forsyth County](sources/soundex/nc1900-c563-p36-jesse-72-forsyth.jpg) |
+| 134 | 1900 (index) | Rejected same-name | [North Carolina C-563 — James Conrad, 27, Haywood County boarder](sources/soundex/nc1900-c563-p33-james-27-boarder.jpg) |
 | 123 | 1900 (index) | Context | [Texas C-563 — J-tab divider](sources/soundex/tx1900-c563-p1-j-divider.jpg) |
 | 17 | Apr 1910 | Negative search | [Kentucky N-550 — Millie / Missouri; no McCoy](sources/soundex/ky1910-n550-p329-millie-missouri.jpg) |
 | 18 | Apr 1910 | Negative search | [Kentucky N-550 — Monroe; still no McCoy](sources/soundex/ky1910-n550-p330-monroe-no-mccoy.jpg) |
@@ -990,6 +995,56 @@ White individual, August 1872, age 27, born Kansas, Douglas County, South Omaha.
 Conradson, Johanna, November 1854, age 45, born Norway, Knox County, Raymond Township. Combined with Plate 128 this closes the Nebraska 1900 C-563 Jesse slot. John, 64, Germany, follows.
 
 ![Nebraska C-563 — Johanna Conradson, immediately after James](sources/soundex/ne1900-c563-p2703-johanna-after-james.jpg)
+
+### 130 · 1900 (index) · Indiana S-415 — William H continuation; Nora, 2, Indiana
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/in1900-s415-p1830-william-h-nora-2.jpg`](sources/soundex/in1900-s415-p1830-william-h-nora-2.jpg)  
+**Source:** S321 · C399
+
+Margaret, daughter, February 1895, age 5, Indiana; Nora, daughter, February 1898, age 2, Indiana. Footer “#2 see #1”. Combined with 91 William family-section cards, no Letha about 2 sits on an Indiana 1900 S-415 William card. Nora is not Letha.
+
+![Indiana S-415 — William H continuation; Nora, 2, Indiana](sources/soundex/in1900-s415-p1830-william-h-nora-2.jpg)
+
+### 131 · 1900 (index) · Michigan C-563 — Jessie Conrod, 33, daughter of Horace Ford
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/mi1900-c563-p1606-jessie-33-ford-daughter.jpg`](sources/soundex/mi1900-c563-p1606-jessie-33-ford-daughter.jpg)  
+**Source:** S322 · C400 · C401
+
+White individual, October 1866, age 33, born Michigan, Kent County, Grattan Township, volume 41, ED 93, sheet 2, line 26. Enumerated with Ford, Horace, as daughter. Jerome precedes; John follows. No male Jesse about 27 born Missouri sits in the Michigan 1900 C-563 J-window.
+
+![Michigan C-563 — Jessie Conrod, 33, daughter of Horace Ford](sources/soundex/mi1900-c563-p1606-jessie-33-ford-daughter.jpg)
+
+### 132 · 1900 (index) · Michigan C-563 — John Conrad, 35, New York; first John after Jessie
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/mi1900-c563-p1613-john-35-ny.jpg`](sources/soundex/mi1900-c563-p1613-john-35-ny.jpg)  
+**Source:** S322 · C402
+
+White head, October 1865, age 35, born New York, Macomb County, Armada Township. Wife Mary, 32, Michigan; son Raymond, 6 months, Michigan. A contact-sheet reading of “Missouri” was a misread of Newyork. Combined with Plate 131 this closes the Michigan 1900 C-563 Jesse slot.
+
+![Michigan C-563 — John Conrad, 35, New York; first John after Jessie](sources/soundex/mi1900-c563-p1613-john-35-ny.jpg)
+
+### 133 · 1900 (index) · North Carolina C-563 — Jesse Conrad, 72, Forsyth County
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/nc1900-c563-p36-jesse-72-forsyth.jpg`](sources/soundex/nc1900-c563-p36-jesse-72-forsyth.jpg)  
+**Source:** S323 · C403 · C404
+
+White head, January 1828, age 72, born North Carolina, Old Jamestown Township, volume 25, ED 29, sheet 17, line 89. Mary A, daughter, October 1840, age 59, North Carolina. Jeremiah B precedes; John follows. Age and nativity fail vs 1910 Jesse Conrad.
+
+![North Carolina C-563 — Jesse Conrad, 72, Forsyth County](sources/soundex/nc1900-c563-p36-jesse-72-forsyth.jpg)
+
+### 134 · 1900 (index) · North Carolina C-563 — James Conrad, 27, Haywood County boarder
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/nc1900-c563-p33-james-27-boarder.jpg`](sources/soundex/nc1900-c563-p33-james-27-boarder.jpg)  
+**Source:** S323 · C405
+
+White individual, June 1872, age 27, born North Carolina, Waynesville. Boarder with Elighett S. [Brice?]. Age matches 1910 Jesse, but the given name is James, the nativity is North Carolina, and the card is individual — no Letha. Jesse, 72 (Plate 133), is the next named Jesse leaf.
+
+![North Carolina C-563 — James Conrad, 27, Haywood County boarder](sources/soundex/nc1900-c563-p33-james-27-boarder.jpg)
 
 ### 123 · 1900 (index) · Texas C-563 — J-tab divider
 
