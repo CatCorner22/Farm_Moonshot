@@ -4,7 +4,7 @@ Year-by-year / event-by-event pinpoints from **1 June 1900** through **24 August
 Only cited claims. Confidence: **PROVEN** · **PROBABLE** · **POSSIBLE** · **SPECULATIVE** · **DISPROVED**.  
 Unverified items stay **open**. Living descendants are redacted.
 
-**Session:** 31 Oct 2026 · branch `cursor/dora-1900-death-reconstruction-2b6a` · logs **L361–L596** · claims **C305–C369, C1300–C1487** · sources **S283–S290, S299–S384**.  
+**Session:** 31 Oct 2026 · branch `cursor/dora-1900-death-reconstruction-2b6a` · logs **L361–L614** · claims **C305–C369, C1300–C1499** · sources **S283–S290, S299–S389**.  
 **Ages** computed from birth **11 Aug 1871** (year **PROVEN**; day 11 **POSSIBLE**): 28 on 1 Jun 1900; 38 on 15 Apr 1910; 45 on 18 Feb 1917; 48 on 1 Jan 1920; 55 on 23 Aug 1926.
 
 ---
@@ -15,13 +15,13 @@ Unverified items stay **open**. Living descendants are redacted.
 |---|---|---|---|
 | 1 Jun 1900 | Sturgeon precinct, Lee Co., KY, dwelling **67/67**, wife of Samuel P. Newnam; five living children of seven born | **PROVEN** (transcription) | C011 |
 | 1901–Mar 1910 | No record read names her place. Kentucky **PROBABLE** only by later children’s KY events and the absence of an out-of-state Newnam head card | **PROBABLE** KY, place **open** | C012 C205 |
-| Apr 1910 | **Not** Newman/Newnam/Stone/Peebles ~39 in KY/AR/MO/OK/TX indexes; **not** Sturgeon ED 99 as Newnam; **not** with Pearl (hh 141) or with Rufus Jackson (hh 161) in Owsley; **not** on any linked Perry 1910 ARGenWeb census page; **not** in Van Buren 1910 Union 25a–36a / Red River (Newman p.35 = William S.); **not** on remaining published Van Buren 1910 township bodies (Phillips Dora A. 44 / Sims Dora F. 31 **rejected**); unpublished VB 1910 bodies **never posted**; IA po0066 = Sevier+Union not Van Buren; IA po0067 = Washington+White not Van Buren; FS 1727033 lists Van Buren (24 townships) but full images **401** (title card **not** confirmed); **not** a Scott 1910 Newman/Stone head; **not** on White named 1910 township bodies; leftover White `transcription.htm` is a placeholder (not a body) | **UNKNOWN** (honest gap) | C030 C033 C088 C070 C317 C1330 C1339–C1350 C1359–C1368 C1406–C1410 C1413–C1422 C1428–C1431 C1437–C1454 C1462 C1485 |
-| 1911–Jan 1917 | No record read places her. Powell KY births **1911–16** name **no** mother Dora/Ella Newnam. Saline poll **1911** has **Stones, T. A.** (not merged). Saline Books L–N **no** Dora Newnam bride | **open** | C205 C1473 C1478 C1480 |
+| Apr 1910 | **Not** Newman/Newnam/Stone/Peebles ~39 in KY/AR/MO/OK/TX indexes; **not** Sturgeon ED 99 as Newnam; **not** with Pearl (hh 141) or with Rufus Jackson (hh 161) in Owsley; **not** on any linked Perry 1910 ARGenWeb census page; **not** in Van Buren 1910 Union 25a–36a / Red River (Newman p.35 = William S.); **not** on remaining published Van Buren 1910 township bodies (Phillips Dora A. 44 / Sims Dora F. 31 **rejected**); unpublished VB 1910 bodies **never posted**; IA po0066 = Sevier+Union not Van Buren; IA po0067 = Washington+White not Van Buren; FS 1727033 lists Van Buren (24 townships) but full images **401** (title card **not** confirmed); **not** a Scott 1910 Newman/Stone head; **not** on White named 1910 township bodies; leftover White `transcription.htm` is a placeholder (not a body); Estill 1911–16 K–N/O–T **no** mother Dora Newnam; Grant BLM pre-1908 **nil** Newman/Stone | **UNKNOWN** (honest gap) | C030 C033 C088 C070 C317 C1330 C1339–C1350 C1359–C1368 C1406–C1410 C1413–C1422 C1428–C1431 C1437–C1454 C1462 C1485 C1491 C1498 |
+| 1911–Jan 1917 | No record read places her. Powell KY births **1911–16** name **no** mother Dora/Ella Newnam. Estill KY births **1911–16** K–N/O–T name **no** mother Dora Newnam (Hiram D Newnam 1914 mother Chaney **rejected**). Menifee deaths **1911–16** **nil** Dora Newman/Stone. Saline poll **1911** has **Stones, T. A.** (not merged). Saline Books L–N **no** Dora Newnam bride | **open** | C205 C1473 C1478 C1480 C1495 C1498 |
 | 18 Feb 1917 | Son Coy marries at **Ola**, Yell Co., AR — first documented **Arkansas** event for this *family*; does **not** place Dora at the courthouse | Event **PROVEN**; her presence **POSSIBLE** | C027 C312 |
 | 29 Jun 1917 / 11 Mar 1919 | Daughter Pearl registers two births in **Lee Co., KY** as Pearl Newman | Children **PROVEN** in Lee; Dora **not** on those index rows | C306 C307 |
 | 11 Jul 1918 | Mother **Mary A. Newnam** buried Brandenburg-Quillen, Heidelberg | Burial **PROVEN** (2001 reading); **statewide KY death index 1917–19 nil**; Dora **not named** | C309 C310 C326 C047 |
 | Jan 1920 | **Not** in Pearl’s Sturgeon house; **not** in Coy’s Danville house; **not** in Elias’s Beattyville house; **not** Mrs. Stone on Yell ED 200; **not** on true Yell ED 191 (351–379); **not** on Yell ED 188 (303–319); **not** in Beattyville Pct 1–2; Tom A. Stone is a **widower** in Perry Howell hh 122 (Dora absent); **not** in remaining opened Perry 1920 townships; **not** in opened Van Buren 1920 bodies (Union p.150 = Abbie? Stone 37; Union 159a–160b **nil**); **not** a Pope or Scott 1920 Newman/Stone head; **not** on White named 1920 township bodies (Booker Dora 48 / Baker Dora F 47 **rejected**); leftover White 1920 `transcription.htm` is a placeholder | Her line **UNKNOWN**; those households **PROVEN** negatives | C305 C207 C209 C213 C050 C1304 C1311 C1318–C1329 C1373–C1387 C1393–C1405 C1423 C1424 C1442 C1444 C1455–C1457 C1462 |
-| Feb 1920–1925 | **Probable** m2 T. A. Stone *after* 24 Feb 1920 (he is widowed that day). Perry D–G and Conway W–Z posted books **nil** Dora Newnam × Stone. Montgomery Pike 1910–25 / Saline I–R brides **nil** Dora Newnam × Stone. Saline **Stones, T. A.** and Book M T.A. consent **not merged** with P003 | m2 **PROBABLE**; date/place **open** | C014 C316 C1334 C1352 C1355 C1369 C1464 C1478 C1480 C1481 |
+| Feb 1920–1925 | **Probable** m2 T. A. Stone *after* 24 Feb 1920 (he is widowed that day). Perry D–G and Conway W–Z posted books **nil** Dora Newnam × Stone. Montgomery Pike 1910–25 / Saline I–R brides **and** Q/R *grooms* **nil** Dora Newnam × Stone. **No** T.A./Tom Stone groom in Q/R. Saline **Stones, T. A.** and Book M T.A. consent **not merged** with P003 | m2 **PROBABLE**; date/place **open** | C014 C316 C1334 C1352 C1355 C1369 C1464 C1478 C1480 C1481 C1488 C1489 |
 | noon 23 Aug 1926 | Death, Ola, Yell Co., AR; spouse T. A. Stone; informant Coy Newnam of Ola; apoplexy 1 day | **PROVEN** | C015 |
 | 24 Aug 1926 | Burial Carters Chapel / Carter Cove | **PROVEN** | C016 C206 |
 
@@ -262,6 +262,10 @@ Statewide / ED negatives already on file:
 
 **This pass — new year-hole hosts (B077):** Montgomery, Garland, Polk, Hot Spring, Powell KY, and Saline were opened. Montgomery Pike Books D–E–F (1910–25) have **Shields, Dora**, 28, × Lawless — **rejected**. [C1464] Montgomery death indexes 1914–33 have **no** Dora Stone/Newman. [C1469] [C1470] Garland has **no** 1910/1920 local census and **no** 1920–25 marriage book. [C1471] Powell births 1911–18 name **no** mother Dora/Ella Newnam; Stone mothers are Pearl, Maude, and Alta. [C1473] Saline poll tax 1911 lists **Stones, T. A.** in Union Township — **not merged** with Tom A. Stone of Perry. [C1478] Saline marriage Books I–R have **no** Dora Newnam × Stone. Book M (12 May 1912) names a **T.A. Stone** of Owensville consenting for daughter Ossie Pearl, 16 — **not merged** with P003. [C1480] [C1481] IA Solr on *new* titles only (Montgomery County News / Mount Ida / Mena Star / Clay City Times) returned **0**. [C1484] **No free T624-66 Van Buren title card appeared.** [C1485] **No record placed Dora.**
 
+**This pass — Saline Q/R grooms (B078):** Books Q (Nov 1923–Sep 1925) and R (Sep 1925–Apr 1927), arranged by groom, have **no** Stone *groom* and **no** T.A. or Tom Stone. [C1488] [C1489] Storey, Floyd, 24, Benton, is **not** Stone. [C1490] Combined with the bride tables, Saline I–R now close both sides of the posted books for a Dora Newnam × Stone license. The 1911 **Stones, T. A.** poll and the 1912 Ossie Pearl consent stay **unmerged** with P003.
+
+**This pass — new year-hole hosts (B078):** Grant County, Arkansas, BLM patents before 1908 have **zero** Newman, Newnam, Stone, or Dora. [C1491] Grant’s posted marriage and 1914–1950 death-index files are **404**. [C1492] Pike’s host returns **403.14**; Lonoke, Dallas, Clark, and Jefferson landings are catalogs. [C1493] Menifee County, Kentucky, deaths 1911–1929 have **no** Dora Newman/Stone decedent; Nathan Stone 1914, Charles Stone 1921, and Smallwood, Dora E., 1929, fail the same-person test. [C1495] [C1496] [C1497] Estill births 1911–16 K–N and O–T (mother field) name **no** mother Dora Newnam; Hiram D. Newnam, 26 April 1914, is Sarah Chaney’s child. [C1498] Estill land N is David Newman 1822–23 and Samuel M. 1837. **No record placed Dora.** No Van Buren original was seen. FS credentials were **empty**; the 401 DAS URL was **not** re-hit.
+
 **This pass — White County named 1910/1920 bodies:** ten named 1910 township files and twenty-seven named 1920 files were opened. **Nil** P001. [C1452] [C1455] Close-age Doras (Booker 48, Baker F. 47, Yoast 46, and others) fail the same-person test. [C1453] [C1457] White’s posted marriage books stop at Book B; unclaimed M–N/R–S letters have **no** Dora Newnam × Stone. [C1459]
 
 **This pass — Scott / Pope / Independence / White (year-hole):** Pope 1920 heads+different-surname index has Newman George W. and Richard, six Stones, and **Sullivan, Dora F.** at p.145b — **rejected**. [C1442] [C1443] Scott 1910/1920 heads have local Newman and Stone clusters and **no** Dora Newman/Stone. [C1444] Scott marriages 1882–1974 have **no** Dora Newnam × Stone and **no** T.A. Stone groom 1920–25. [C1445] Independence has **no** local 1910/1920 transcript. [C1446] White County lists 1910 Dist. 150–173 and 1920 township bodies — **not opened**. [C1447]
@@ -276,7 +280,7 @@ Statewide / ED negatives already on file:
 
 **New constraint this reconstruction states explicitly (C316):** if the husband is the 1920 Tom A. Stone, the marriage is **after 24 February 1920** (he is enumerated widowed) and **before** her 23 August 1926 death (certificate names spouse T. A. Stone). The 1925 Carter Cove marker for Thomas Stone, if it is his, tightens the window to **24 Feb 1920 × 1925**.
 
-**Still unread:** Yell County marriage book 1920–1925; Arkansas statewide bride index; 1925 Arkansas death certificate for Thomas/T.A. Stone (conflict #4, birth 1845 vs ~1858). Perry Books **D–G** letter pages now **nil** Dora × Stone (D/E N+S; F/G N+S+D). [C085] [C1334] [C1335] [C1352] [C1353] Conway **W–Z** **nil**. [C1355] [C1369] Van Buren 1865–1940 N+S **nil**. [C1390] Logan marriage slugs **404**. [C1388]
+**Still unread:** Yell County marriage book 1920–1925; Arkansas statewide bride index; 1925 Arkansas death certificate for Thomas/T.A. Stone (conflict #4, birth 1845 vs ~1858). Perry Books **D–G** letter pages now **nil** Dora × Stone (D/E N+S; F/G N+S+D). [C085] [C1334] [C1335] [C1352] [C1353] Conway **W–Z** **nil**. [C1355] [C1369] Van Buren 1865–1940 N+S **nil**. [C1390] Logan marriage slugs **404**. [C1388] Saline Q/R *grooms* now **nil**. [C1488] [C1489]
 
 **Residence 1920–Aug 1926 — PROBABLE** Lamar / Carter Cove / Ola sector as Mrs. Stone, **without** a census line after the ED 200 read. [C211] Grounds: 1926 death at Ola, informant Coy of Ola, burial Carters Chapel, husband’s **probable** 1925 marker there. That is geography by death and burial, not a 1922 city directory.
 
@@ -346,21 +350,21 @@ WWI: Lee County draft transcript (1,126 cards) has **no** Newnam / Newman / McCo
 | 1908 | — | **open** |
 | 1909 | — | **open** |
 | 1910 | Not on any searched Newman/Stone/Peebles line; not Sturgeon ED 99; not with Pearl; not Posa/Nora/Cora ~39 on Proctor/Fincastle/NewVA, Owsley Booneville/Sturgeon/Wild Dog, **or Island/Cow/Buffalo**; **not** on any linked Perry 1910 ARGenWeb census page (derivative set now complete); **not** on remaining published Van Buren 1910 township bodies. Unpublished VB bodies **never posted**; IA po0066 = Sevier+Union; IA po0067 = Washington+White; FS 1727033 lists Van Buren but full images **401** (title card **not** confirmed). **Not** a Scott 1910 Newman/Stone head. **Not** on White named 1910 township bodies. Heidelberg/Ivy/St Helens still unpublished | **UNKNOWN** for her; children/FAN **PROVEN** |
-| 1911 | — (Lee births N/D/E/S/B/A/G/H/M: no mother Dora) | **open** |
+| 1911 | — (Lee births N/D/E/S/B/A/G/H/M: no mother Dora; Estill K–N/O–T no mother Dora Newnam; Menifee deaths nil Dora Newman/Stone) | **open** |
 | 1912 | — | **open** |
 | 1913 | — | **open** |
-| 1914 | — | **open** |
+| 1914 | — (Estill Newnam, Hiram D, mother Chaney **rejected**; Grant death-index slugs **404**) | **open** |
 | 1915 | — (Ladonna Newman = Grace Brandenburg FAN, not P001) | **open** |
-| 1916 | — (Perry Book F opens Dec 1916; no Dora×Stone on N/S/D) | **open** |
+| 1916 | — (Perry Book F opens Dec 1916; no Dora×Stone on N/S/D; Estill 1916 K–N/O–T no mother Dora) | **open** |
 | 1917 | Children in **two** states (Coy Ola; Pearl Lee). Her own place **not stated** | **POSSIBLE** AR or KY |
 | 1918 | Mother buried Heidelberg; Dora not named; Lee **and statewide 1917–19** civil index **nil** | **open** for her |
 | 1919 | Pearl still Lee (Fannie B.). Dora not on the row | **open** |
 | 1920 | Not with Pearl, Coy, or Elias; not Mrs. Stone yet if Tom A. is the husband; not in Ivy / St Helens / Fincastle / New VA / Willow / Beattyville Pct 1–2; not in Perry Howell hh 122 or Perryville; **not** on true Yell ED 191 (351–379); **not** in fourteen newly opened Perry 1920 bodies; **not** in Van Buren Union 149a–160b (Abbie? Stone 37; 159–160 nil); **not** on White named 1920 township bodies | **UNKNOWN** |
 | 1921 | — (Perry Book F through Feb 1922 **nil** Dora×Stone; Conway W/X **nil**) | **open** |
 | 1922 | — (Elizabeth will names Pearl, not Dora; Book G starts; W A Newman × Tedder **not** Coy) | **open** |
-| 1923 | — | **open** |
-| 1924 | — (Conway Hill Dora 48 / Scoggins Dora E. 49 **rejected**) | **open** |
-| 1925 | **Probable** widowhood of T. A. Stone (marker 1845–1925) | **PROBABLE** for his death, not her address |
+| 1923 | — (Saline Q grooms from Nov: no Stone / T.A. Stone) | **open** |
+| 1924 | — (Conway Hill Dora 48 / Scoggins Dora E. 49 **rejected**; Saline Q **nil** Stone groom) | **open** |
+| 1925 | **Probable** widowhood of T. A. Stone (marker 1845–1925). Saline R grooms from Sep: **no** T.A./Tom Stone | **PROBABLE** for his death, not her address |
 | 1926 | Death Ola 23 Aug; burial Carter Cove 24 Aug | **PROVEN** |
 
 ---
@@ -400,13 +404,14 @@ WWI: Lee County draft transcript (1,126 cards) has **no** Newnam / Newman / McCo
 | Conway Marriage Book **Z** bride (19 Aug 1925–28 Jul 1927) | **Done** (**C1369–C1371**). No later letter posted |
 | White Co. named 1910/1920 township bodies | **Done** named files (**C1452 C1455**). Leftover `transcription.htm` is a placeholder; alternate slugs **404** (**C1462** / **B077**) |
 | NARA T624-66 complete images (Van Buren 1910) | FS 1727033 waypoints list Van Buren; Holly ED 118 full DAS **401**. No free title card on a new host. Signed-in ARKs **not yet examined** (**C1449 C1450 C1485** / **B078**) |
-| Saline Q/R *groom* PDFs (Nov 1923–Apr 1927) | Bride tables **done** (**C1480–C1483**). Groom PDFs unread (**C1486** / **B078**) |
+| Saline Q/R *groom* PDFs (Nov 1923–Apr 1927) | **Done** (**C1488–C1490** / **B078**). Bride tables **done** (**C1480–C1483**) |
+| Estill KY births remaining letters + death years | K–N/O–T **1911–16 done** (**C1498**). Residual A–B/C–F/G–J/U–Z + 1917–23 + death years (**B079**) |
 
 ---
 
 ## Files this reconstruction rests on
 
-- Case: `03-timeline.md`, `04-evidence.md` (C305–C369, C1300–C1487, S283–S290, S299–S384), `06-dossier.md`, `07-conflicts.md` #18–#19, `02-log.md` L361–L596, `SOURCE-INDEX.md`
+- Case: `03-timeline.md`, `04-evidence.md` (C305–C369, C1300–C1499, S283–S290, S299–S389), `06-dossier.md`, `07-conflicts.md` #18–#19, `02-log.md` L361–L614, `SOURCE-INDEX.md`
 - Pass 66 extracts: `sources/marriages/owsley-vs-1903-10-dora-bride-nil-2026-10-31.txt`, `lee-book10-vsm2-ella-smith-nil-2026-10-31.txt`, `sources/births/lee-owsley-1902-09-mother-dora-nil-2026-10-31.txt`, `lee-owsley-desb-mother-dora-1911-20-2026-10-31.txt`, `sources/census/1910-1920-ocr-unread-precincts-2026-10-31.txt`, `sources/catalog/ldsgenealogy-owsley-marriages-extract-2026-10-31.txt`, `sources/directories/year-hole-directories-voters-2026-10-31.txt`
 - Pass 67 extracts: `sources/census/1910-owsley-island-cow-buff-ocr-2026-10-31.txt`, `1920-lee-beat-precincts-dora-2026-10-31.txt`, `perry-1920-howell-perryville-dora-2026-10-31.txt`, `sources/births/lee-owsley-magh-1921-mother-dora-2026-10-31.txt`, `sources/directories/year-hole-new-hosts-2026-10-31.txt`
 - Pass 68 extracts: `sources/census/perry-1920-remaining-dora-2026-10-31.txt`, `perry-1910-howell-rankin-dora-2026-10-31.txt`, `sources/marriages/perry-de-yell-marr-dora-2026-10-31.txt`
@@ -419,6 +424,7 @@ WWI: Lee County draft transcript (1,126 cards) has **no** Newnam / Newman / McCo
 - Pass 75 extracts: `sources/census/vanburen/1910-orig/t624-67-map-2026-10-31.txt`, `sources/census/pope/1920idx.txt`, `sources/census/scott/`, `sources/marriages/scott/`, `sources/directories/year-hole-scott-pope-white-2026-10-31.txt`
 - Pass 76 extracts: `sources/census/vanburen/1910-orig/fs-1727033-vanburen-waypoints-2026-10-31.txt`, `ed118-holly-img0-thumb-200px.jpg`, `sources/census/white/white-1910-1920-dora-2026-10-31.txt`, `sources/marriages/white/`, `sources/directories/year-hole-white-vitals-2026-10-31.txt`
 - Pass 77 extracts: `sources/census/white/transcription.htm`, `sources/marriages/montgomery/`, `sources/deaths/montgomery/`, `sources/births/powell/`, `sources/deaths/powell/`, `sources/taxes/saline/`, `sources/marriages/saline/`, `sources/directories/year-hole-b077-2026-10-31.txt`, `ia-solr-newtitles-b077-2026-10-31.json`
+- Pass 78 extracts: `sources/marriages/saline/Marriage.Records.Book.Q.by.groom.pdf`, `Marriage.Records.Book.R.by.groom.pdf`, `books-Q-R-groom-dora-stone-2026-10-31.txt`, `sources/land/grant/federal-land-records.html`, `sources/deaths/menifee/`, `sources/births/estill/`, `sources/directories/year-hole-b078-2026-10-31.txt`
 - Narrative: `book/Dora-Ella-Newnam-Stone-A-Life.md` § Places: 1900 to death
 
 This reconstruction is **not complete**. Dora’s 1900–death life is **not** filled in.

@@ -120,6 +120,11 @@ Captured this session: **31 Oct 2026** (S283–S290, S299–S357). Earlier plate
 | S382 | `sources/births/powell/` + `sources/deaths/powell/` | 2026-10-31 | Powell KYGenWeb vitals | kygenweb.net/powell/pcbirths1911.html etc. | Births 1911–18; deaths 1911–26 | **No** mother Dora Newnam (**C1473–C1475**) | transcription only |
 | S383 | `sources/taxes/saline/` + `sources/marriages/saline/` | 2026-10-31 | Saline ARGenWeb poll + marr I–R | argenweb.net/saline/ | Poll 1907/11/26; brides I–R | **No** Dora×Stone; T.A. **not merged** (**C1477–C1483**) | index / transcription / PDF text |
 | S384 | `sources/directories/ia-solr-newtitles-b077-2026-10-31.json` | 2026-10-31 | IA Solr new titles | archive.org/advancedsearch.php | Montgomery News / Mount Ida / Mena Star / Clay City Times | **numFound 0** (**C1484**) | index |
+| S385 | `sources/marriages/saline/Marriage.Records.Book.Q.by.groom.pdf` + `.txt` + `books-Q-R-groom-dora-stone-2026-10-31.txt` | 2026-10-31 | Saline Book Q by groom | argenweb.net/saline/ | Nov 1923–Sep 1925 grooms | **No** Stone groom; **no** Dora×Stone (**C1488**) | PDF text |
+| S386 | `sources/marriages/saline/Marriage.Records.Book.R.by.groom.pdf` + `.txt` | 2026-10-31 | Saline Book R by groom | argenweb.net/saline/ | Sep 1925–Apr 1927 grooms | **No** Stone/T.A. Stone groom (**C1489**) | PDF text |
+| S387 | `sources/land/grant/federal-land-records.html` + `sources/directories/year-hole-b078-2026-10-31.txt` | 2026-10-31 | Grant BLM land + Grant/Pike/Lonoke/Dallas/Clark/Jefferson catalogs | argenweb.net/grant/ … | Patents before 1908; broken death/marr slugs | **0** Newman/Stone patentees (**C1491–C1493**) | transcription / catalog / 404 |
+| S388 | `sources/deaths/menifee/` 1911–1929 year files | 2026-10-31 | Menifee KYGenWeb deaths | kygenweb.net/menifee/deaths/ | 1911–29 decedents | **No** Dora Newman/Stone (**C1495–C1497**) | transcription |
+| S389 | `sources/births/estill/` 1911–16 kn/ot + 1910 + land N/S | 2026-10-31 | Estill KYGenWeb births + land | kygenweb.net/estill/site/records/ | Mother field 1911–16 K–N/O–T | **No** mother Dora Newnam (**C1498**) | transcription |
 
 ## Word biography provenance
 
@@ -149,6 +154,8 @@ See [`sources/authored/PROVENANCE.md`](sources/authored/PROVENANCE.md). Drive se
 | NARA T624 roll 66 complete copy (Van Buren 1910 originals) | FS signed-in Holly ED 118 ARKs (first `33S7-9RNR-FP`); confirm Van Buren header **before** households. Ancestry **7884** if already reachable. Do **not** re-hit DAS `image.jpg`. Do **not** re-download IA po0066 | Waypoints seen; DAS **401**; no new-host title card (**C1450 C1485** / **B078**) |
 | White Co. remaining 1910/1920 `transcription.htm` districts | Dist. 154–156, 158–171 (1910); Dist. 162–164, 166–168, 170, 173–177 (1920) | Named files **done** (**C1452 C1455** / **B076**). Leftover file is a placeholder; slugs **404** (**C1462** / **B077**) |
 | Van Buren 1920 Union after 158b | Pages after 158b if posted | **Done** 159a–160b (**C1423–C1424**) |
+| Saline Q/R *groom* PDFs (Nov 1923–Apr 1927) | Dora Newnam × Stone; T.A./Tom Stone groom | **Done** (**C1488–C1490** / **B078**) |
+| Estill KY births remaining letters 1911–16 + 1917–23 K–N/O–T | Mother Dora/Ella Newnam/Stone | K–N/O–T **1911–16 done** (**C1498**). Residual A–B/C–F/G–J/U–Z + later years (**B079**) |
 
 ## Variant strings used this session (categories 1–4)
 
@@ -158,7 +165,7 @@ See [`sources/authored/PROVENANCE.md`](sources/authored/PROVENANCE.md). Drive se
 
 **Thomas / T. A. Stone:** Thomas, Tom, T. A., T A × Stone, Store, Stowe (rejects already logged).
 
-Exact strings in `02-log.md` **L343–L352** (pass 60–61), **L361–L372** (pass 62), **L373–L379** (pass 63), **L396–L405** (pass 64), **L406–L418** (pass 65), **L419–L429** (pass 66), **L430–L441** (pass 67), **L442–L455** (pass 68), **L456–L470** (pass 69), **L471–L484** (pass 70), **L485–L498** (pass 71), **L499–L512** (pass 72), **L513–L528** (pass 73), **L529–L544** (pass 74), **L545–L560** (pass 75), **L561–L576** (pass 76), and **L577–L596** (pass 77).
+Exact strings in `02-log.md` **L343–L352** (pass 60–61), **L361–L372** (pass 62), **L373–L379** (pass 63), **L396–L405** (pass 64), **L406–L418** (pass 65), **L419–L429** (pass 66), **L430–L441** (pass 67), **L442–L455** (pass 68), **L456–L470** (pass 69), **L471–L484** (pass 70), **L485–L498** (pass 71), **L499–L512** (pass 72), **L513–L528** (pass 73), **L529–L544** (pass 74), **L545–L560** (pass 75), **L561–L576** (pass 76), **L577–L596** (pass 77), and **L597–L614** (pass 78).
 
 **Pearl / Clyde (pass 63):** Pearl × Newnam/Newman/Jackson; Clyde × Jackson/jacksen. Soundex **N550** / **J250**.
 
@@ -175,3 +182,5 @@ Exact strings in `02-log.md` **L343–L352** (pass 60–61), **L361–L372** (pa
 **Dora placement (pass 74, B074):** Dora / posa / dosa / rosa / dona / dara / Nora / Cora / Ella × Newnam / Newman / Stone; Mrs. Stone; Mrs. Newman. Soundex **N550** / **S350**. Used on unpublished Van Buren 1910 alternate catalogs, T624-66 headers, Cleburne 1924–28, and Newton marriages.
 
 **Dora placement (pass 73, B073):** Dora / posa / dosa / rosa / dona / dara / Nora / Cora / Ella × Newnam / Newman / Stone; Mrs. Stone; Mrs. Newman. Soundex **N550** / **S350**. Used on Van Buren 1910 remaining township bodies and 1920 Union 159a–160b.
+
+**Dora placement (pass 78, B078):** Dora / posa / dosa / rosa / dona / dara / Nora / Cora / Ella × Newnam / Newman / Stone; Mrs. Stone; Mrs. Newman; T.A. / Tom Stone. Soundex **N550** / **S350**. Used on Saline Q/R *groom* PDFs and new year-hole hosts (Grant BLM land; Menifee death year files; Estill births K–N / O–T mother field). Bride 1920–26: Dora / Ella / Posa × Newnam / Newman / Stone. Storey kept separate from Stone.
