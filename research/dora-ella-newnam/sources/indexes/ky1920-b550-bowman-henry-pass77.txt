@@ -1,0 +1,20 @@
+Pass 77 — 1920 Kentucky Soundex B-550 Bowman/Bauman/Bohannon/Bynum
+NARA M1563 reel 15 / IA soundex1920ky015. Images seen 30 Oct 2026. Given-name sort.
+Code isolated on ky015 (ky013_4500 still B-460 Blair; ky014 starts B-500 Bean/Boone then B-560 by leaf 20; ky016_0020 already B-600 Berry).
+
+Henry given-name window bounded by Harry 2300 and Howard/Hester ~2355–2360.
+Denser card-by-card ky015 2321–2358: nil Bowman, Henry 67 Owsley vol 76 ED 92 sh 3 ln 7.
+
+Cited cards:
+2300 B550 Bawman, Harry B 42 KY Jefferson Louisville W Broadway 1309 vol 49 ED 120 sh 3 ln 22 × Mary B 25, Lonnie 2 2/12. DISPROVED as Henry 67 Owsley.
+2320 B550 Bauman, Henry W 74 Bavaria Germany Campbell Bellevue Foote ave 313 × Mary 68 Canada. DISPROVED.
+2321 Bowman, Henry W 27 IN Campbell vol 13 ED 53 sh 1 ln 25 boarder of Burgkhart Joseph (A-2). DISPROVED.
+2322 Bowman, Henry Mu 50 KY Bullitt vol 11 ED 18 sh 21 ln 40 × Mattie 53, Luke 27. DISPROVED.
+2335 Bowman, Henry W 20 KY Owsley vol 76 ED 89 sh 4 ln 63 brother of Bowman, Frank (A-2). Owsley but Sturgeon ED 89, age 20. DISPROVED as ED 92 Henry 67.
+2336 Bowman, Henry W 43 KY Owsley vol 76 ED 89 sh 3 ln 48 × Martha 43, Lucy 18, Chester 16, Claude 14, Clay 12. Owsley but Sturgeon ED 89. DISPROVED as ED 92 Henry 67.
+2340 B550 Biehman, Henry W 65 KY Campbell Newport Monmouth 633 × Clara 62, Samuel E 29, Eleanor 23. DISPROVED.
+2348 Bowman, Henry W. W 69 Bavaria Jefferson Louisville Garden 441 living alone vol 44 ED 46 sh 3 ln 7. Age-nearest Bowman Henry; Louisville not Owsley. DISPROVED.
+2360 Bolenor, Howard 21 Marion (Howard given-name bound; not Bowman Henry).
+2400 Bowman, Jack B 33 VA Pike Connor Camp 168A × Anna 23 VA. DISPROVED as 1920 original Jack f 57 Owsley ED 92.
+
+Hard Rule 6: original leaf 1161 ln 7 is Bowman, Henry 67 Head. Soundex did not copy that original in this denser window. Soundex head-nil is not a death.

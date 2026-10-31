@@ -1640,3 +1640,119 @@ research/dora-ella-newnam/sources/census/1880-lee-ky-ed59-sheet43-p768-caroline-
   sha256: 0b9f03f4558823031e16ff1e3f4312c1077ff781702884ae8eae18e57c09a153
   format: text extract, 1,910 bytes
   check: Pass 76 coverage; catalog 115; Abner Lewis/Samuel and Baker Jesse on sh 6B-7A
+/workspace/research/dora-ella-newnam/sources/census/1920-owsley-ed92-sh3b-hdr.jpg
+  sha256: 0e5e9fb5d17553dd6ef4dcccf0b0f35b196fbfdf45f1c75a22e530ab8a914447
+  format: JPEG photo, 7600x829px, 610,680 bytes
+  check: 1920 Owsley ED 92 sh 3 B header 11 Jan 1920 Fred Hubbard
+/workspace/research/dora-ella-newnam/sources/census/1920-owsley-ed92-sh3b-hh59-bowman-henry.jpg
+  sha256: a770a8f64ede6b0e95e119300b360aec8d31a06395b1a74d3b7739ef1f794c03
+  format: JPEG photo, 2584x609px, 193,854 bytes
+  check: 1920 original Bowman Henry 67 Wd dw 59
+/workspace/research/dora-ella-newnam/sources/census/1920-owsley-ed92-sh3b-hh60-bowman-sile.jpg
+  sha256: 6d39b9f49f871907f316273a367ac7f9915746fc7a5ac41ab24676744fe9a720
+  format: JPEG photo, 2584x515px, 163,174 bytes
+  check: 1920 original Bowman Sile 60 x Liddie
+/workspace/research/dora-ella-newnam/sources/census/1920-owsley-ed92-sh3b-hh61-bowman-andy.jpg
+  sha256: fabe175b5f248ada446f74816e61f02f3ff4d32d2a611ddcc4df9788fbf2d3cd
+  format: JPEG photo, 2584x442px, 140,244 bytes
+  check: 1920 original Bowman Andy 37 x Allice
+/workspace/research/dora-ella-newnam/sources/census/1920-owsley-ed92-sh3b-names.jpg
+  sha256: 4add6878f0e65f4b068f03cae07cdd161fe24c3fa39643b1bc62a4127fb35e1d
+  format: JPEG photo, 2584x4355px, 1,119,074 bytes
+  check: 1920 ED 92 sh 3 B names; nil Evans John
+/workspace/research/dora-ella-newnam/sources/census/1920-owsley-ed92-sh5b-hdr.jpg
+  sha256: b45c0e9f91ca2f9c02eeab6775733ecd8e59707950fd3a8e7d503a79e368f74a
+  format: JPEG photo, 7600x826px, 565,661 bytes
+  check: 1920 Owsley ED 92 sh 5 B header 13 Jan 1920 Fred Hubbard
+/workspace/research/dora-ella-newnam/sources/census/1920-owsley-ed92-sh5b-hh98-100-bowman-jack-dean.jpg
+  sha256: 2f0011c7388ed315828107449b60310de0b308e193af191b8cf758b0f0300528
+  format: JPEG photo, 2584x1488px, 389,072 bytes
+  check: 1920 original Bowman Jack f 57 Wd and Dean George 44 x Jane
+/workspace/research/dora-ella-newnam/sources/census/1920-owsley-ed92-sh5b-names.jpg
+  sha256: c7f6319d57480cd074b97f959876cad973ac2e510b1a1c181e94aba6b112a9dd
+  format: JPEG photo, 2584x4342px, 1,092,001 bytes
+  check: 1920 ED 92 sh 5 B names; nil Evans John
+/workspace/research/dora-ella-newnam/sources/census/1910-owsley-ed168-sh2b-hh31-bales-john.jpg
+  sha256: 6b53dd3ca2d69cca2075601ca9ad11d0f1a7017cad5d50e4b428d79c37dbea73
+  format: JPEG photo, 2791x1248px, 281,389 bytes
+  check: 1910 original Bales John B 40 x Annie; Pass 74 Bowman[?] corrected
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-b550-p2300-bawman-harry-louisville.jpg
+  sha256: 9d59edbeaa5630b4995f962be1ed35f4a4059bf8105a3e46c57ac248ded9248b
+  format: JPEG photo, 1600x1072px, 184,092 bytes
+  check: 1920 Soundex B-550 Bawman Harry 42 Louisville DISPROVED
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-b550-p2320-bauman-henry-74-campbell.jpg
+  sha256: e16d7c4a5c649e3a8bccf1a3747a2530feb37619d198acf5fb801c42ddb3910c
+  format: JPEG photo, 1600x1085px, 189,478 bytes
+  check: 1920 Soundex B-550 Bauman Henry 74 Campbell DISPROVED
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-b550-p2322-bowman-henry-50-bullitt.jpg
+  sha256: 86fb995752be371c1c2ea5ba2cc0368b64af322ca31162c139785ed6ae82b811
+  format: JPEG photo, 1600x1072px, 189,355 bytes
+  check: 1920 Soundex B-550 Bowman Henry 50 Bullitt DISPROVED
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-b550-p2335-bowman-henry-20-owsley-ed89.jpg
+  sha256: 29979252f4841ddceb37551e8207f3a1a466331fb8473bf2d2fd8f1e132d3e88
+  format: JPEG photo, 1600x1059px, 186,533 bytes
+  check: 1920 Soundex B-550 Bowman Henry 20 Owsley ED 89 DISPROVED
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-b550-p2336-bowman-henry-43-owsley-ed89.jpg
+  sha256: 592d07b32a50558266082e6f1617b7066f1f6cf06f9178c16ae32a06b1991c17
+  format: JPEG photo, 196,610 bytes
+  check: 1920 Soundex B-550 Bowman Henry 43 Owsley ED 89 DISPROVED
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-b550-p2340-biehman-henry-65-newport.jpg
+  sha256: 4d3e449d603aa8b9480aa0f18475dcfc59b07ab5073d462ef80254af6ab232ec
+  format: JPEG photo, 190,620 bytes
+  check: 1920 Soundex B-550 Biehman Henry 65 Newport DISPROVED
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-b550-p2348-bowman-henry-w-69-louisville.jpg
+  sha256: f0d5958debaee9a222501e0d2f8db25646468c5a2fd407ab4ff6e5c3a9dba08a
+  format: JPEG photo, 186,875 bytes
+  check: 1920 Soundex B-550 Bowman Henry W 69 Louisville DISPROVED
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-b550-p2400-bowman-jack-33-pike.jpg
+  sha256: 49722ee2b7a19c863c01356f2c13ba1d5d1083616018fa2a588621f20658a998
+  format: JPEG photo, 196,552 bytes
+  check: 1920 Soundex B-550 Bowman Jack 33 Pike DISPROVED
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-c652-p2650-carmack-george-casey.jpg
+  sha256: af3d720827fef6326e09b7b8bd50dfc2c69d1a6cbdebeb5b6a6e064bd3238041
+  format: JPEG photo, 189,320 bytes
+  check: 1920 Soundex C-652 Carmack George 46 Casey not Owsley James
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-c652-p2750-crenshaw-ja-edmondson.jpg
+  sha256: 9fde5c7431332112eec0ea6476e0bf46679e68ae65a949ee704d9586401c5a11
+  format: JPEG photo, 202,470 bytes
+  check: 1920 Soundex C-652 Crenshaw JA 50 Edmondson DISPROVED
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-c652-p2760-carmicle-jw-51-mercer.jpg
+  sha256: 490e8d51bc01394cda3485ce7725044fb5294f7de36f41377a69cd3bb0093e82
+  format: JPEG photo, 202,296 bytes
+  check: 1920 Soundex C-652 Carmicle JW 51 Mercer DISPROVED
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-c652-p2780-carnaghy-james-50-clay.jpg
+  sha256: 6dbd8b62befbe11e0e6cff119c5f06e56f40f7f9f79e3d1698df627b4ef0bae4
+  format: JPEG photo, 200,905 bytes
+  check: 1920 Soundex C-652 Carnaghy James 50 Clay DISPROVED
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-c652-p2850-cornish-john-63-mercer.jpg
+  sha256: 213510fa93e1ef220c31d848295da2e6b72e86c5616b27aa0336d8fda1782967
+  format: JPEG photo, 212,840 bytes
+  check: 1920 Soundex C-652 Cornish John 63 Mercer DISPROVED
+/workspace/research/dora-ella-newnam/sources/indexes/owsley-1920-ed92-sh1-5-evans-fan-pass77.txt
+  sha256: ca3ceed08eef90d0f48353ae1737d43694f062ae36ec42f0b748ec66d0595782
+  format: text extract, 2,687 bytes
+  check: 1920 ED 92 sh 1-5 nil Evans John as head
+/workspace/research/dora-ella-newnam/sources/indexes/owsley-1920-ed92-sh3b-bowman-henry-pass77.txt
+  sha256: d5dd2287433d49447e91fab9fb84550e864d6aaec7b11197b413bc1f7a4d4021
+  format: text extract, 892 bytes
+  check: 1920 original Bowman Henry 67 Wd
+/workspace/research/dora-ella-newnam/sources/indexes/owsley-1920-ed92-sh5b-jack-dean-pass77.txt
+  sha256: 9ee26cb91fb8680c3b0f804ef741ff8e6a733ed203371e2203f77383c8943238
+  format: text extract, 1,018 bytes
+  check: 1920 original Bowman Jack f 57 and Dean George 44
+/workspace/research/dora-ella-newnam/sources/indexes/owsley-1910-ed168-sh2b-bales-john-pass77.txt
+  sha256: 282e4a8cb12a08fee6e74974cede2ea129060cd1daed6ec62f13b76ec4d18e8c
+  format: text extract, 937 bytes
+  check: 1910 original Bales John B 40 x Annie
+/workspace/research/dora-ella-newnam/sources/indexes/ky1920-b550-bowman-henry-pass77.txt
+  sha256: e32cb77742f5e57b864a100d2d32d3e08e53df7bbafc83226cffd413d82fb4fb
+  format: text extract, 1,882 bytes
+  check: 1920 B-550 denser Henry nil ED 92 Henry 67
+/workspace/research/dora-ella-newnam/sources/indexes/ky1920-c652-carmack-james-pass77.txt
+  sha256: d187203d273d12692a3d5eeee30de92518df02f72b5a68572401ed932044a6c8
+  format: text extract, 1,473 bytes
+  check: 1920 C-652 sampled James nil Carmack James Owsley
+/workspace/research/dora-ella-newnam/sources/indexes/pass77-coverage.txt
+  sha256: db89273e6f0695cb2e61f23c6ba1270f478cd2a6ca1bbca7199bc246a1bd7e28
+  format: text extract, 1,260 bytes
+  check: Pass 77 coverage; catalog 116; Evans nil entire filmed ED 92

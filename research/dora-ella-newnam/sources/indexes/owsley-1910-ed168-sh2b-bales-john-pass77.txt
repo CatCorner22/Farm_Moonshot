@@ -1,0 +1,23 @@
+Pass 77 — 1910 original ED 168 sh 2 B dw 31 (leaf 951)
+NARA T624-498. Original image seen 30 Oct 2026. Enumerator George M. Hogg[?], 19 Apr 1910, Mag Dist 5 Buffalo Precinct No. 5.
+
+Ln 83 dw 31/31 Bales, John B. Head m W 40 m1 21
+Ln 84 Annie Wife f W 45 m1 21 9-9
+Ln 85 Cora Daughter 23 S
+Ln 86 Rosa Daughter 17 S
+Ln 87 Willis Son 15 S
+Ln 88 Rachel Daughter 11 S
+Ln 89 May Daughter 8 S
+Ln 90 John Son 6 S
+Ln 91 William Son 4 S
+Ln 92 Emma Granddaughter 4/12 S
+Ln 93 dw 32/32 Gabbard, Michael Head m W 25[?] m 3
+Ln 94 Addie Wife 20 m 3 2-1
+Ln 95 Mildred Daughter ~1 S
+Ln 96 dw 33/33 Gabbard, Willis Head m W 30 m 8
+Ln 97 Jane Wife 25 m 8 2-1
+Ln 98 Sudie Daughter 7 S
+
+Pass 74 C802 “Bowman[?] 40” is CORRECTED. Surname is Bales, given John B.
+A tight surname crop that started at Annie (ln 84) missed the head; this household crop includes ln 83.
+1920 Bowman Henry 67 / Sile 60 / Andy 37 / Jack f 57 are other people, not this house.

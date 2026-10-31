@@ -3188,7 +3188,7 @@ Pass 2: Sheet 1 B ends at dwelling **15**. Sheet 2 A line 1 is dwelling **16**. 
 > Nancy Wife f W **40** m1 23 **10-9**  
 > Morris Son **24** S; Lottie Dau **22** S; Mary B. Dau **17** S; Addison[?] Son **15** S; Susan Dau **13** S; Charley Son **10** S; Christ[?] Dau **8** S; **Eliza** Dau **6** S; **Luther** Son **2** S.
 
-Pass 2: Nine children listed against Nancy 10-9. Kentucky nativity. Sh 2 A line 1 is dw **16**. Surrounding FAN heads (Abner, Baker James, Gabbard Elisha/Willis, Barrett, Carmack, McIntosh, Dean, Bowman[?], Gaine[?]) are listed in the extract.
+Pass 2: Nine children listed against Nancy 10-9. Kentucky nativity. Sh 2 A line 1 is dw **16**. Surrounding FAN heads (Abner, Baker James, Gabbard Elisha/Willis, Barrett, Carmack, McIntosh, Dean, **Bales, John B.** — Pass 74 “Bowman[?]” corrected as **C825** / **DOC140** — Gaine[?]) are listed in the extract.
 
 ### Facts extracted → claim IDs
 - 1910 FAN dw 16–33; Gay Henry 46 × Nancy 10-9 → C802
@@ -3391,6 +3391,142 @@ Pass 2: Both **DISPROVED** as 1910 Evans John 45 × Susan. Other sampled Johns (
 ### Facts extracted → claim IDs
 - E-152 sampled Johns DISPROVED; nil Owsley × Susan → C812
 
+## DOC137 — 1920 Owsley ED 92 filmed sheets 1 A–5 B, Evans/FAN nil (original)
 
+- Names 3 B: `sources/census/1920-owsley-ed92-sh3b-names.jpg` SHA-256 `4add6878f0e65f4b068f03cae07cdd161fe24c3fa39643b1bc62a4127fb35e1d`
+- Names 5 B: `…sh5b-names.jpg` `c7f6319d57480cd074b97f959876cad973ac2e510b1a1c181e94aba6b112a9dd`
+- Extract: `owsley-1920-ed92-sh1-5-evans-fan-pass77.txt` `ca3ceed08eef90d0f48353ae1737d43694f062ae36ec42f0b748ec66d0595782`
+- Provenance: NARA T625-**594** / IA `14thcensusofpopu594unit` leaves **1156–1165**, opened 30 Oct 2026. **Image-seen.** Enumerator **Fred Hubbard**. Leaf **1156** stamped 1 A is a **B-form** opening at hh **14**.
 
+### Diplomatic — filmed heads of interest (not a complete every-name dump)
+
+> Sh **1 A** (B-form): dw **14** Gilbert Lewis 67; **18** McIntosh Mary 77 Wd; **19** McIntosh Richard 47; **20** McIntosh Lee 27; **23** McIntosh Charley 32.  
+> Sh **1 B**: dw **24** McIntosh Ben 37 Wd; **27** McIntosh Millard 39 × Dora 37; **28** Baker Rebecca 54 Wd.  
+> Sh **2 A**: dw **34** McIntosh Lewis 46.  
+> Sh **2 B**: dw **49** Gabbard Michael 67 × Jane 34 + Michael Jr GS 1.  
+> Sh **3 B**: dw **59** Bowman Henry 67 Wd; **60** Bowman Sile 60; **61** Bowman Andy 37.  
+> Sh **5 A**: dw **90** Baker Robert (C756 FIL Gilbert John 84).  
+> Sh **5 B**: dw **95** Baker John × Minervey 50; **97** McIntosh John 41; **98** Bowman Jack f 57 Wd; **100** Dean George 44 × Jane 37.
+
+Pass 2: **Nil Evans, John as head** on sh **1 A–5 B**. Combined with sh **6–7** this is the entire filmed ED. **Nil Carmack** as 1910 Jacob 82 / James 40. **Nil McIntosh, Daniel ~52**. **Nil Gaine/Gillie Reece**. True hh **1–13** still not on the filmed 1 A/1 B pair.
+
+### Facts extracted → claim IDs
+- Filmed ED 92 sh 1–5 nil Evans John as head → C820
+- McIntosh Daniel nil; Gabbard Michael 67 DISPROVED as 1910 Michael → C828
+
+## DOC138 — 1920 Owsley ED 92 sheet 3 B, dwellings 59–61 Bowman (original)
+
+- Header: `sources/census/1920-owsley-ed92-sh3b-hdr.jpg` SHA-256 `0e5e9fb5d17553dd6ef4dcccf0b0f35b196fbfdf45f1c75a22e530ab8a914447`
+- Households: `…hh59-bowman-henry.jpg` `a770a8f64ede6b0e95e119300b360aec8d31a06395b1a74d3b7739ef1f794c03`; `…hh60-bowman-sile.jpg` `6d39b9f49f871907f316273a367ac7f9915746fc7a5ac41ab24676744fe9a720`; `…hh61-bowman-andy.jpg` `fabe175b5f248ada446f74816e61f02f3ff4d32d2a611ddcc4df9788fbf2d3cd`
+- Extract: `owsley-1920-ed92-sh3b-bowman-henry-pass77.txt` `d5dd2287433d49447e91fab9fb84550e864d6aaec7b11197b413bc1f7a4d4021`
+- Provenance: NARA T625-**594** / IA `14thcensusofpopu594unit` `_1161.jp2` leaf **1161**, opened 30 Oct 2026. **Image-seen.** Enumerator **Fred Hubbard**, **11 Jan 1920**. Buffalo Precinct No. **5**, ED **92**, stamped **3 B**.
+
+### Diplomatic — dwellings 59–61
+
+> Ln **7** fam **59/59 Bowman, Henry** Head OM m W **67** Wd  
+> Iva Son **16** S; Rachel Daughter-in-law **21** m; Molly Bell Granddaughter **1** S; Henry Jr Grandson **1** S.
+
+> Ln **12** fam **60/60 Bowman, Sile** Head OM m W **60** m  
+> Liddie Wife **53** m; June Grandson **6** S; Eddie[?] Grandson **1** S.
+
+> Ln **16** fam **61/61 Bowman, Andy** Head OF m W **37** m  
+> Allice Wife **31**[?] m; Virgil Son **4**[?] S.
+
+Pass 2: Dwelling on a first crop looking like “64” is **59**. Sile is **Bowman**, not Combs. Henry 67 Wd is **not** 1910 dw 31.
+
+### Facts extracted → claim IDs
+- 1920 original Bowman Henry 67 Wd dw 59 → C821
+- Bowman Sile 60 / Andy 37 unmerged → C822
+
+## DOC139 — 1920 Owsley ED 92 sheet 5 B, dwellings 98 and 100 (original)
+
+- Header: `sources/census/1920-owsley-ed92-sh5b-hdr.jpg` SHA-256 `b45c0e9f91ca2f9c02eeab6775733ecd8e59707950fd3a8e7d503a79e368f74a`
+- Household: `…hh98-100-bowman-jack-dean.jpg` `2f0011c7388ed315828107449b60310de0b308e193af191b8cf758b0f0300528`
+- Extract: `owsley-1920-ed92-sh5b-jack-dean-pass77.txt` `9ee26cb91fb8680c3b0f804ef741ff8e6a733ed203371e2203f77383c8943238`
+- Provenance: NARA T625-**594** / IA `14thcensusofpopu594unit` `_1165.jp2` leaf **1165**, opened 30 Oct 2026. **Image-seen.** Enumerator **Fred Hubbard**, **13 Jan 1920**. Buffalo Precinct No. **5**, ED **92**, stamped **5 B**.
+
+### Diplomatic — dwellings 98 and 100
+
+> Ln **39** fam **98/98 Bowman, Jack** Head OF **f W 57** Wd  
+> Alex Son **30** S.
+
+> Ln **45** fam **100/100 Dean, George** Head OF m W **44** m  
+> Jane Wife **37** m  
+> John Son **21** S; George Son **11** S; Ellen Daughter **10** S; Albert Son **10** S.
+
+Pass 2: Jack is diplomatically **female**. A first tight crop of ln 45 landed on children 47–50; this plate includes the Dean head. Dw **99** Burns, Frank 32 × Cecely sits between them.
+
+### Facts extracted → claim IDs
+- 1920 original Bowman Jack f 57 Wd → C823
+- 1920 original Dean George 44 × Jane DISPROVED as 1910 George × Martha → C824
+
+## DOC140 — 1910 Owsley ED 168 sheet 2 B, dwelling 31 Bales John B. (original)
+
+- Household: `sources/census/1910-owsley-ed168-sh2b-hh31-bales-john.jpg` SHA-256 `6b53dd3ca2d69cca2075601ca9ad11d0f1a7017cad5d50e4b428d79c37dbea73`
+- Extract: `owsley-1910-ed168-sh2b-bales-john-pass77.txt` `282e4a8cb12a08fee6e74974cede2ea129060cd1daed6ec62f13b76ec4d18e8c`
+- Provenance: NARA T624-**498** / IA `13thcensus1910po498unit` `_0951.jp2` leaf **951**, opened 30 Oct 2026. **Image-seen.** Enumerator **George M. Hogg[?]**, **19 Apr 1910**. Mag Dist **5** Buffalo Precinct No. **5**.
+
+### Diplomatic — dwelling 31/31
+
+> Ln **83** fam **31/31 Bales, John B.** Head m W **40** m1 **21**  
+> Annie Wife f W **45** m1 21 **9-9**  
+> Cora Daughter **23** S; Rosa Daughter **17** S; Willis Son **15** S; Rachel Daughter **11** S; May Daughter **8** S; John Son **6** S; William Son **4** S; Emma Granddaughter **4/12** S.
+
+Pass 2: Surname is **Bales**, given **John B.** A tight crop that started at Annie (ln 84) missed the head. Next dw **32/32 Gabbard, Michael** 25[?] × Addie; dw **33/33 Gabbard, Willis** 30 × Jane + Sudie 7.
+
+### Facts extracted → claim IDs
+- 1910 dw 31 is Bales, John B. 40 × Annie — Pass 74 Bowman[?] corrected → C825
+
+## DOC141 — 1920 Kentucky Soundex B-550, Bowman Henry denser window (derivative)
+
+- Card 2300: `sources/soundex/ky1920-b550-p2300-bawman-harry-louisville.jpg` SHA-256 `9d59edbeaa5630b4995f962be1ed35f4a4059bf8105a3e46c57ac248ded9248b`
+- Card 2320: `…p2320-bauman-henry-74-campbell.jpg` `e16d7c4a5c649e3a8bccf1a3747a2530feb37619d198acf5fb801c42ddb3910c`
+- Card 2336: `…p2336-bowman-henry-43-owsley-ed89.jpg` `592d07b32a50558266082e6f1617b7066f1f6cf06f9178c16ae32a06b1991c17`
+- Card 2340: `…p2340-biehman-henry-65-newport.jpg` `4d3e449d603aa8b9480aa0f18475dcfc59b07ab5073d462ef80254af6ab232ec`
+- Card 2348: `…p2348-bowman-henry-w-69-louisville.jpg` `f0d5958debaee9a222501e0d2f8db25646468c5a2fd407ab4ff6e5c3a9dba08a`
+- Card 2400: `…p2400-bowman-jack-33-pike.jpg` `49722ee2b7a19c863c01356f2c13ba1d5d1083616018fa2a588621f20658a998`
+- Extract: `ky1920-b550-bowman-henry-pass77.txt` `e32cb77742f5e57b864a100d2d32d3e08e53df7bbafc83226cffd413d82fb4fb`
+- Provenance: NARA M1563 reel **15** / IA `soundex1920ky015`, opened 30 Oct 2026. **Image-seen.** Given-name sort. Code isolated on ky015. Henry window **2320–2358**.
+
+### Diplomatic — cited cards
+
+> B-550 **Bawman, Harry** B **42** Kentucky Jefferson Louisville · **DISPROVED**.
+
+> B-550 **Bauman, Henry** W **74** Bavaria Campbell Bellevue · **DISPROVED**.
+
+> B-550 **Bowman, Henry** W **20** Kentucky Owsley vol **76** ED **89** sh **4** ln **63** brother of Bowman, Frank · **DISPROVED** as ED 92 Henry 67.
+
+> B-550 **Bowman, Henry** W **43** Kentucky Owsley vol **76** ED **89** sh **3** ln **48** × Martha 43 · **DISPROVED** as ED 92 Henry 67.
+
+> B-550 **Bowman, Jack** B **33** Virginia Pike × Anna 23 VA · **DISPROVED** as original Jack f 57.
+
+Pass 2: Denser **2321–2358** **nil** Bowman, Henry **67** Owsley ED **92** sh **3** ln **7**. Hard Rule 6: original leaf **1161** ln **7** stands.
+
+### Facts extracted → claim IDs
+- B-550 denser Henry nil ED 92 Henry 67; ED 89 20/43 DISPROVED → C826
+- Soundex Jack 33 Pike DISPROVED as original Jack f 57 → C823
+
+## DOC142 — 1920 Kentucky Soundex C-652, Carmack James sampled window (derivative)
+
+- Card 2650: `sources/soundex/ky1920-c652-p2650-carmack-george-casey.jpg` SHA-256 `af3d720827fef6326e09b7b8bd50dfc2c69d1a6cbdebeb5b6a6e064bd3238041`
+- Card 2750: `…p2750-crenshaw-ja-edmondson.jpg` `9fde5c7431332112eec0ea6476e0bf46679e68ae65a949ee704d9586401c5a11`
+- Card 2780: `…p2780-carnaghy-james-50-clay.jpg` `6dbd8b62befbe11e0e6cff119c5f06e56f40f7f9f79e3d1698df627b4ef0bae4`
+- Card 2850: `…p2850-cornish-john-63-mercer.jpg` `213510fa93e1ef220c31d848295da2e6b72e86c5616b27aa0336d8fda1782967`
+- Extract: `ky1920-c652-carmack-james-pass77.txt` `d187203d273d12692a3d5eeee30de92518df02f72b5a68572401ed932044a6c8`
+- Provenance: NARA M1563 reel **38** / IA `soundex1920ky038`, opened 30 Oct 2026. **Image-seen.** Given-name sort. Code isolated on ky038.
+
+### Diplomatic — cited cards
+
+> C-652 **Carmack/Carmicle, George** W **46** Kentucky Casey × Janie 51 · Casey Co., not Owsley James.
+
+> C-652 **Crenshaw, J.A.** W **50** Missouri Edmondson × Rhoda 40 · **DISPROVED**.
+
+> C-652 **Carnaghy, James** W **50** Kentucky Clay × Bertha 45 · **DISPROVED** as 1910 Buffalo Carmack James.
+
+> C-652 **Cornish, John** W **63** Kentucky Mercer × Carlie 66 · **DISPROVED** as Carmack James.
+
+Pass 2: Sampled James window **2760–2920** **nil** Carmack, James ~50 Owsley vol **76** ED **92**. Sampled, not every leaf **2751–2949**. Do **not** treat Soundex head-nil as proof of death.
+
+### Facts extracted → claim IDs
+- C-652 sampled James nil Carmack James Owsley; those Jameses DISPROVED → C827
 

@@ -1,0 +1,19 @@
+Pass 77 — 1920 original ED 92 stamped 5 B (leaf 1165)
+NARA T625-594 / IA 14thcensusofpopu594unit _1165.jp2. Original image seen 30 Oct 2026.
+Enumerator Fred Hubbard, 13 Jan 1920, Buffalo Precinct No. 5, ED 92, sheet 5 B.
+
+Ln 39 dw 98/98 Bowman, Jack Head OF f W 57 Wd
+Ln 40 Alex Son 30 S
+Ln 41 dw 99/99 Burns, Frank Head 32 m × Cecely 43 + Stella 18 + Amanda 5
+Ln 45 dw 100/100 Dean, George Head OF m W 44 m
+Ln 46 Jane Wife 37 m
+Ln 47 John Son 21 S
+Ln 48 George Son 11 S
+Ln 49 Ellen Daughter 10 S
+Ln 50 Albert Son 10 S
+
+Jack is diplomatically female, given name Jack, age 57 Wd. NOT merged with 1910 Annie 45 (sex + given name + age).
+Soundex B-550 leaf 2400 Bowman, Jack 33 Pike × Anna 23 VA is a different person.
+
+Dean George 44 × Jane 37 + John 21 is NOT merged with 1910 Dean George 32 × Martha (wife name + children contradict; John 21 absent from the 1910 house).
+A first JP2 tight crop of ln 45 landed on children 47–50; the retained plate is the ln 39–50 household crop that includes the Dean head.

@@ -1,6 +1,6 @@
 # Source-image gallery: Dora Ella Newnam Stone
 
-Two hundred thirty-three numbered plates (JPEG/PNG captures from NARA microfilm via Internet Archive, plus header and household crops). Plates **7g–7j** are the 1860 Owsley and 1880 Lee Gray originals added in passes 39–40. Plates **7k–7z** and **8a–8f** are the later 1850–1860 Owsley/Breathitt/Madison isolations, including Harrison Newman with Elias aged eight, H.H. Newman with Elias aged eighteen, and Giles Mays at one month and eleven. Plates **8j–8l** are the 1840 Estill originals (John and Christian Tincher, the county recap, and William Newton not Tincher) added in pass 55; plates **8m–8n** are the 1840 Clay originals added in pass 56; plates **8o–8q** are the 1840 Breathitt originals (first name page, last name page ending Total, and the county Abstract) added in pass 57; plates **8r–8u** are the 1840 Estill McIlvain originals and the Edmonson divider added in pass 58; plates **8v–8ac** are the M850 pension-payment cards added in pass 63 (Elias T. Newnam, Henry H. Newnam, Manerva Newnam, and the Newman-spelling collisions); plates **8ad–8ai** are the 1900 Sturgeon and 1910 Wild Dog Henry H. originals added in pass 64; plates **8aj–8ao** are the 1910 Sturgeon Arthur original and the 1920 Wild Dog nil (including the rejected Evans+Minerva house) added in pass 65; plates **8ap–8au** are the 1920 Island Creek Arthur original, the Soundex Arthur card, the leftover Sturgeon ED 89 closer, and the Minerva-slot Soundex card (Minnie, not Minerva) added in pass 66; plates **8av–8bb** are the 1920 Island Creek remainder headers, the rejected Barker Malvera and Wilson×Minerva houses, the Cow Creek opener, and the Soundex Walter Logan / Walter A. Louisville cards added in pass 67; plates **8bc–8bh** are the remainder of Cow Creek (sheet 4 A and 7 A headers, the rejected Allen Ella and Cale Minerva houses, the last populated sheet 14 A, and the ED 92 opener) added in pass 68; plates **8bi–8bu** are the 1920 Booneville ED 88, Buffalo ED 92, and Buck Creek ED 93 originals added in pass 69; plates **8bv–8bz** are the 1910 Sturgeon Gilbert×Josie and Lynch×Laura originals, the 1920 G-416 Soundex card that misnamed Gilbert John as Robert, and the Buffalo Baker household that holds that father-in-law, added in pass 70; plates **8ca–8cc** are the 1910 Buffalo Gilbert, John original and the 1920 G-416 Douglas card that proves Soundex indexed filmed ED 92, added in pass 71; plates **8cd–8cl** are the 1910 Buffalo opener sheet (Combs Samuel, Gabbard Elijah and Lee, Rice Dora aged two) and the 1920 C-512/G-163 cards (Samuel B. of Island Creek, Elijah of Lee, Lee of Breathitt, Louise and Loya bounding the empty Lowe slot), added in pass 72; plates **8cm–8cx** are the 1920 opener-Soundex remaining codes (Gay Walker of Island Creek, the empty Matilda/Robb/William/Drucilla slots, and the rejected Rice, Helton, Reed, and Howard Drucilla cards), added in pass 73; plates **8cy–8dk** are the 1910 Buffalo sheets 1 B–2 B (Baker Jesse, Evans John, Gay Henry) and the 1920 original plus Soundex of that Gay Henry house, with the rejected R-200 Elizabeth and Benjamin cards, added in pass 74; plates **8dl–8dx** are the 1920 Buffalo sheets 6 B–7 A originals (Abner Lewis, Barrett Bruce, Abner Samuel, Gabbard W.B., Baker Jesse) and the B-260 Jesse plus E-152 Evans John Soundex cards, added in pass 76. They sit after the 1880 Buck Creek plate because those numbers were already assigned. They are ordered by **the date of the census they record or index**, not by the date the film was scanned. Plates **1a–2c**, **7a–7c**, **55b–55c**, and the 1880 G-600 cards were added in passes 34–37.
+Two hundred fifty-two numbered plates (JPEG/PNG captures from NARA microfilm via Internet Archive, plus header and household crops). Plates **7g–7j** are the 1860 Owsley and 1880 Lee Gray originals added in passes 39–40. Plates **7k–7z** and **8a–8f** are the later 1850–1860 Owsley/Breathitt/Madison isolations, including Harrison Newman with Elias aged eight, H.H. Newman with Elias aged eighteen, and Giles Mays at one month and eleven. Plates **8j–8l** are the 1840 Estill originals (John and Christian Tincher, the county recap, and William Newton not Tincher) added in pass 55; plates **8m–8n** are the 1840 Clay originals added in pass 56; plates **8o–8q** are the 1840 Breathitt originals (first name page, last name page ending Total, and the county Abstract) added in pass 57; plates **8r–8u** are the 1840 Estill McIlvain originals and the Edmonson divider added in pass 58; plates **8v–8ac** are the M850 pension-payment cards added in pass 63 (Elias T. Newnam, Henry H. Newnam, Manerva Newnam, and the Newman-spelling collisions); plates **8ad–8ai** are the 1900 Sturgeon and 1910 Wild Dog Henry H. originals added in pass 64; plates **8aj–8ao** are the 1910 Sturgeon Arthur original and the 1920 Wild Dog nil (including the rejected Evans+Minerva house) added in pass 65; plates **8ap–8au** are the 1920 Island Creek Arthur original, the Soundex Arthur card, the leftover Sturgeon ED 89 closer, and the Minerva-slot Soundex card (Minnie, not Minerva) added in pass 66; plates **8av–8bb** are the 1920 Island Creek remainder headers, the rejected Barker Malvera and Wilson×Minerva houses, the Cow Creek opener, and the Soundex Walter Logan / Walter A. Louisville cards added in pass 67; plates **8bc–8bh** are the remainder of Cow Creek (sheet 4 A and 7 A headers, the rejected Allen Ella and Cale Minerva houses, the last populated sheet 14 A, and the ED 92 opener) added in pass 68; plates **8bi–8bu** are the 1920 Booneville ED 88, Buffalo ED 92, and Buck Creek ED 93 originals added in pass 69; plates **8bv–8bz** are the 1910 Sturgeon Gilbert×Josie and Lynch×Laura originals, the 1920 G-416 Soundex card that misnamed Gilbert John as Robert, and the Buffalo Baker household that holds that father-in-law, added in pass 70; plates **8ca–8cc** are the 1910 Buffalo Gilbert, John original and the 1920 G-416 Douglas card that proves Soundex indexed filmed ED 92, added in pass 71; plates **8cd–8cl** are the 1910 Buffalo opener sheet (Combs Samuel, Gabbard Elijah and Lee, Rice Dora aged two) and the 1920 C-512/G-163 cards (Samuel B. of Island Creek, Elijah of Lee, Lee of Breathitt, Louise and Loya bounding the empty Lowe slot), added in pass 72; plates **8cm–8cx** are the 1920 opener-Soundex remaining codes (Gay Walker of Island Creek, the empty Matilda/Robb/William/Drucilla slots, and the rejected Rice, Helton, Reed, and Howard Drucilla cards), added in pass 73; plates **8cy–8dk** are the 1910 Buffalo sheets 1 B–2 B (Baker Jesse, Evans John, Gay Henry) and the 1920 original plus Soundex of that Gay Henry house, with the rejected R-200 Elizabeth and Benjamin cards, added in pass 74; plates **8dl–8dx** are the 1920 Buffalo sheets 6 B–7 A originals (Abner Lewis, Barrett Bruce, Abner Samuel, Gabbard W.B., Baker Jesse) and the B-260 Jesse plus E-152 Evans John Soundex cards, added in pass 76; plates **8dy–8eq** are the 1920 Buffalo sheets 3 B and 5 B originals (Bowman Henry, Sile, Andy, Jack, and Dean George), the 1910 Bales correction, and the B-550 Henry plus C-652 James Soundex cards, added in pass 77. They sit after the 1880 Buck Creek plate because those numbers were already assigned. They are ordered by **the date of the census they record or index**, not by the date the film was scanned. Plates **1a–2c**, **7a–7c**, **55b–55c**, and the 1880 G-600 cards were added in passes 34–37.
 
 Soundex and Miracode cards sit with the census year they index, immediately after any original population schedules for that year.
 
@@ -185,6 +185,25 @@ Diplomatic transcriptions: [`08-transcriptions.md`](08-transcriptions.md). Citat
 | 8dv | 1920 (index) | Rejected same-name | [Kentucky E-152 — Evans, John 38, Estill × Lula](sources/soundex/ky1920-e152-p1430-evans-john-38-estill.jpg) |
 | 8dw | 1920 (index) | Rejected same-name | [Kentucky E-152 — Evans, John B 45, Daviess × Mary](sources/soundex/ky1920-e152-p1450-evans-john-45-daviess.jpg) |
 | 8dx | 1920 (index) | Context | [Kentucky E-152 — Joseph given-name divider, leaf 1515](sources/soundex/ky1920-e152-p1515-joseph-divider.jpg) |
+| 8dy | 11 Jan 1920 | Context | [Owsley ED 92 sheet 3 B header — Buffalo Precinct No. 5, Fred Hubbard](sources/census/1920-owsley-ed92-sh3b-hdr.jpg) |
+| 8dz | 11 Jan 1920 | FAN | [Owsley ED 92 sheet 3 B names — Bowman Henry, Sile, Andy](sources/census/1920-owsley-ed92-sh3b-names.jpg) |
+| 8ea | 11 Jan 1920 | FAN | [Dwelling 59/59 — Bowman, Henry 67 Wd](sources/census/1920-owsley-ed92-sh3b-hh59-bowman-henry.jpg) |
+| 8eb | 11 Jan 1920 | FAN | [Dwelling 60/60 — Bowman, Sile 60; Liddie 53](sources/census/1920-owsley-ed92-sh3b-hh60-bowman-sile.jpg) |
+| 8ec | 11 Jan 1920 | FAN | [Dwelling 61/61 — Bowman, Andy 37; Allice](sources/census/1920-owsley-ed92-sh3b-hh61-bowman-andy.jpg) |
+| 8ed | 13 Jan 1920 | Context | [Owsley ED 92 sheet 5 B header — Buffalo Precinct No. 5, Fred Hubbard](sources/census/1920-owsley-ed92-sh5b-hdr.jpg) |
+| 8ee | 13 Jan 1920 | FAN | [Owsley ED 92 sheet 5 B names — Bowman Jack, Dean George](sources/census/1920-owsley-ed92-sh5b-names.jpg) |
+| 8ef | 13 Jan 1920 | FAN | [Dwellings 98 and 100 — Bowman, Jack f 57 Wd; Dean, George 44 × Jane](sources/census/1920-owsley-ed92-sh5b-hh98-100-bowman-jack-dean.jpg) |
+| 8eg | 19 Apr 1910 | FAN | [Dwelling 31/31 — Bales, John B. 40; Annie 45](sources/census/1910-owsley-ed168-sh2b-hh31-bales-john.jpg) |
+| 8eh | 1920 (index) | Rejected same-name | [Kentucky B-550 — Bawman, Harry 42, Louisville](sources/soundex/ky1920-b550-p2300-bawman-harry-louisville.jpg) |
+| 8ei | 1920 (index) | Rejected same-name | [Kentucky B-550 — Bauman, Henry 74, Campbell](sources/soundex/ky1920-b550-p2320-bauman-henry-74-campbell.jpg) |
+| 8ej | 1920 (index) | Rejected same-name | [Kentucky B-550 — Bowman, Henry 43, Owsley ED 89](sources/soundex/ky1920-b550-p2336-bowman-henry-43-owsley-ed89.jpg) |
+| 8ek | 1920 (index) | Rejected same-name | [Kentucky B-550 — Biehman, Henry 65, Newport](sources/soundex/ky1920-b550-p2340-biehman-henry-65-newport.jpg) |
+| 8el | 1920 (index) | Rejected same-name | [Kentucky B-550 — Bowman, Henry W. 69, Louisville](sources/soundex/ky1920-b550-p2348-bowman-henry-w-69-louisville.jpg) |
+| 8em | 1920 (index) | Rejected same-name | [Kentucky B-550 — Bowman, Jack 33, Pike × Anna](sources/soundex/ky1920-b550-p2400-bowman-jack-33-pike.jpg) |
+| 8en | 1920 (index) | Rejected same-name | [Kentucky C-652 — Carmack/Carmicle, George 46, Casey](sources/soundex/ky1920-c652-p2650-carmack-george-casey.jpg) |
+| 8eo | 1920 (index) | Rejected same-name | [Kentucky C-652 — Crenshaw, J.A. 50, Edmondson](sources/soundex/ky1920-c652-p2750-crenshaw-ja-edmondson.jpg) |
+| 8ep | 1920 (index) | Rejected same-name | [Kentucky C-652 — Carnaghy, James 50, Clay × Bertha](sources/soundex/ky1920-c652-p2780-carnaghy-james-50-clay.jpg) |
+| 8eq | 1920 (index) | Rejected same-name | [Kentucky C-652 — Cornish, John 63, Mercer](sources/soundex/ky1920-c652-p2850-cornish-john-63-mercer.jpg) |
 | 8 | 13 Jun 1900 | Rejected same-name | [Douglas County, Missouri — Thomas and Nancy E. Stone](sources/census/1900-douglas-mo-ed159-stone-sheet.jpg) |
 | 9 | 13 Jun 1900 | Rejected same-name | [Douglas County Stone household (crop)](sources/census/1900-douglas-mo-ed159-stone-hh-crop.jpg) |
 | 10 | 1900 (index) | Rejected same-name | [Missouri S-350 — Thomas Stone, 44, Douglas County](sources/soundex/mo1900-s350-p1678-stone-thomas-44-douglas.jpg) |
@@ -2559,4 +2578,175 @@ Black; Tennessee; Daviess; Mary not Susan. **DISPROVED**.
 Leaf **1515** closes the E-152 John slot. **Nil** Evans, John ~55 × Susan Owsley as a head before it.
 
 ![1920 Soundex E-152 Joseph divider](sources/soundex/ky1920-e152-p1515-joseph-divider.jpg)
+
+### 8dy · 11 Jan 1920 · Owsley ED 92 sheet 3 B header
+
+**File:** [`sources/census/1920-owsley-ed92-sh3b-hdr.jpg`](sources/census/1920-owsley-ed92-sh3b-hdr.jpg)  
+**Source:** S601 · C821 · DOC138
+
+Buffalo Precinct No. **5**, enumerator **Fred Hubbard**, **11 Jan 1920**, stamped **3 B**.
+
+![1920 ED 92 sh 3 B header](sources/census/1920-owsley-ed92-sh3b-hdr.jpg)
+
+### 8dz · 11 Jan 1920 · Owsley ED 92 sheet 3 B names
+
+**File:** [`sources/census/1920-owsley-ed92-sh3b-names.jpg`](sources/census/1920-owsley-ed92-sh3b-names.jpg)  
+**Source:** S600 · S601 · C821 · C822 · DOC137 · DOC138
+
+Name column: Bowman Henry dw **59**, Bowman Sile dw **60**, Bowman Andy dw **61**. **Nil Evans, John**.
+
+![1920 ED 92 sh 3 B names](sources/census/1920-owsley-ed92-sh3b-names.jpg)
+
+### 8ea · 11 Jan 1920 · Dwelling 59/59 — Bowman, Henry 67 Wd
+
+**File:** [`sources/census/1920-owsley-ed92-sh3b-hh59-bowman-henry.jpg`](sources/census/1920-owsley-ed92-sh3b-hh59-bowman-henry.jpg)  
+**Source:** S601 · C821 · DOC138
+
+Not the 1910 Bales house. Not missing sheet 1.
+
+![1920 ED 92 sh 3 B Bowman Henry](sources/census/1920-owsley-ed92-sh3b-hh59-bowman-henry.jpg)
+
+### 8eb · 11 Jan 1920 · Dwelling 60/60 — Bowman, Sile 60 × Liddie 53
+
+**File:** [`sources/census/1920-owsley-ed92-sh3b-hh60-bowman-sile.jpg`](sources/census/1920-owsley-ed92-sh3b-hh60-bowman-sile.jpg)  
+**Source:** S601 · C822 · DOC138
+
+Other Bowman house. Not merged with 1910 dw **31**.
+
+![1920 ED 92 sh 3 B Bowman Sile](sources/census/1920-owsley-ed92-sh3b-hh60-bowman-sile.jpg)
+
+### 8ec · 11 Jan 1920 · Dwelling 61/61 — Bowman, Andy 37 × Allice
+
+**File:** [`sources/census/1920-owsley-ed92-sh3b-hh61-bowman-andy.jpg`](sources/census/1920-owsley-ed92-sh3b-hh61-bowman-andy.jpg)  
+**Source:** S601 · C822 · DOC138
+
+Other Bowman house. Not merged with 1910 dw **31**.
+
+![1920 ED 92 sh 3 B Bowman Andy](sources/census/1920-owsley-ed92-sh3b-hh61-bowman-andy.jpg)
+
+### 8ed · 13 Jan 1920 · Owsley ED 92 sheet 5 B header
+
+**File:** [`sources/census/1920-owsley-ed92-sh5b-hdr.jpg`](sources/census/1920-owsley-ed92-sh5b-hdr.jpg)  
+**Source:** S602 · C823 · C824 · DOC139
+
+Buffalo Precinct No. **5**, enumerator **Fred Hubbard**, **13 Jan 1920**, stamped **5 B**.
+
+![1920 ED 92 sh 5 B header](sources/census/1920-owsley-ed92-sh5b-hdr.jpg)
+
+### 8ee · 13 Jan 1920 · Owsley ED 92 sheet 5 B names
+
+**File:** [`sources/census/1920-owsley-ed92-sh5b-names.jpg`](sources/census/1920-owsley-ed92-sh5b-names.jpg)  
+**Source:** S600 · S602 · C823 · C824 · DOC137 · DOC139
+
+Name column includes Bowman Jack dw **98** and Dean George dw **100**. **Nil Evans, John**.
+
+![1920 ED 92 sh 5 B names](sources/census/1920-owsley-ed92-sh5b-names.jpg)
+
+### 8ef · 13 Jan 1920 · Dwellings 98 and 100 — Bowman, Jack f 57 Wd; Dean, George 44 × Jane
+
+**File:** [`sources/census/1920-owsley-ed92-sh5b-hh98-100-bowman-jack-dean.jpg`](sources/census/1920-owsley-ed92-sh5b-hh98-100-bowman-jack-dean.jpg)  
+**Source:** S602 · C823 · C824 · DOC139
+
+Jack is diplomatically female. Dean George × Jane is **not** 1910 George × Martha.
+
+![1920 ED 92 sh 5 B Bowman Jack and Dean George](sources/census/1920-owsley-ed92-sh5b-hh98-100-bowman-jack-dean.jpg)
+
+### 8eg · 19 Apr 1910 · Dwelling 31/31 — Bales, John B. 40 × Annie 45
+
+**File:** [`sources/census/1910-owsley-ed168-sh2b-hh31-bales-john.jpg`](sources/census/1910-owsley-ed168-sh2b-hh31-bales-john.jpg)  
+**Source:** S603 · C825 · DOC140
+
+Pass 74 “Bowman[?]” **corrected**. Surname is **Bales**.
+
+![1910 ED 168 sh 2 B Bales John B](sources/census/1910-owsley-ed168-sh2b-hh31-bales-john.jpg)
+
+### 8eh · 1920 (index) · Soundex B-550 — Bawman, Harry 42, Louisville
+
+**File:** [`sources/soundex/ky1920-b550-p2300-bawman-harry-louisville.jpg`](sources/soundex/ky1920-b550-p2300-bawman-harry-louisville.jpg)  
+**Source:** S604 · C826 · DOC141
+
+Harry given-name bound of the Henry window. **DISPROVED** as Bowman Henry 67 Owsley.
+
+![1920 Soundex B-550 Bawman Harry](sources/soundex/ky1920-b550-p2300-bawman-harry-louisville.jpg)
+
+### 8ei · 1920 (index) · Soundex B-550 — Bauman, Henry 74, Campbell
+
+**File:** [`sources/soundex/ky1920-b550-p2320-bauman-henry-74-campbell.jpg`](sources/soundex/ky1920-b550-p2320-bauman-henry-74-campbell.jpg)  
+**Source:** S604 · C826 · DOC141
+
+Bavaria; Bellevue; Mary 68 Canada. **DISPROVED**.
+
+![1920 Soundex B-550 Bauman Henry 74](sources/soundex/ky1920-b550-p2320-bauman-henry-74-campbell.jpg)
+
+### 8ej · 1920 (index) · Soundex B-550 — Bowman, Henry 43, Owsley ED 89
+
+**File:** [`sources/soundex/ky1920-b550-p2336-bowman-henry-43-owsley-ed89.jpg`](sources/soundex/ky1920-b550-p2336-bowman-henry-43-owsley-ed89.jpg)  
+**Source:** S604 · C826 · DOC141
+
+Owsley but Sturgeon ED **89** × Martha. **DISPROVED** as ED **92** Henry 67.
+
+![1920 Soundex B-550 Bowman Henry 43 ED 89](sources/soundex/ky1920-b550-p2336-bowman-henry-43-owsley-ed89.jpg)
+
+### 8ek · 1920 (index) · Soundex B-550 — Biehman, Henry 65, Newport
+
+**File:** [`sources/soundex/ky1920-b550-p2340-biehman-henry-65-newport.jpg`](sources/soundex/ky1920-b550-p2340-biehman-henry-65-newport.jpg)  
+**Source:** S604 · C826 · DOC141
+
+Campbell; Clara 62. **DISPROVED**.
+
+![1920 Soundex B-550 Biehman Henry 65](sources/soundex/ky1920-b550-p2340-biehman-henry-65-newport.jpg)
+
+### 8el · 1920 (index) · Soundex B-550 — Bowman, Henry W. 69, Louisville
+
+**File:** [`sources/soundex/ky1920-b550-p2348-bowman-henry-w-69-louisville.jpg`](sources/soundex/ky1920-b550-p2348-bowman-henry-w-69-louisville.jpg)  
+**Source:** S604 · C826 · DOC141
+
+Age-nearest Bowman Henry; Bavaria; lives alone. **DISPROVED**.
+
+![1920 Soundex B-550 Bowman Henry W 69](sources/soundex/ky1920-b550-p2348-bowman-henry-w-69-louisville.jpg)
+
+### 8em · 1920 (index) · Soundex B-550 — Bowman, Jack 33, Pike × Anna
+
+**File:** [`sources/soundex/ky1920-b550-p2400-bowman-jack-33-pike.jpg`](sources/soundex/ky1920-b550-p2400-bowman-jack-33-pike.jpg)  
+**Source:** S604 · C823 · DOC141
+
+Virginia-born; Pike; Anna 23. **DISPROVED** as original Jack f 57 Owsley.
+
+![1920 Soundex B-550 Bowman Jack 33 Pike](sources/soundex/ky1920-b550-p2400-bowman-jack-33-pike.jpg)
+
+### 8en · 1920 (index) · Soundex C-652 — Carmack/Carmicle, George 46, Casey
+
+**File:** [`sources/soundex/ky1920-c652-p2650-carmack-george-casey.jpg`](sources/soundex/ky1920-c652-p2650-carmack-george-casey.jpg)  
+**Source:** S605 · C827 · DOC142
+
+Casey Co. × Janie. **Not** 1910 Buffalo Carmack James 40.
+
+![1920 Soundex C-652 Carmack George Casey](sources/soundex/ky1920-c652-p2650-carmack-george-casey.jpg)
+
+### 8eo · 1920 (index) · Soundex C-652 — Crenshaw, J.A. 50, Edmondson
+
+**File:** [`sources/soundex/ky1920-c652-p2750-crenshaw-ja-edmondson.jpg`](sources/soundex/ky1920-c652-p2750-crenshaw-ja-edmondson.jpg)  
+**Source:** S605 · C827 · DOC142
+
+Missouri-born × Rhoda. **DISPROVED** as Carmack James.
+
+![1920 Soundex C-652 Crenshaw JA Edmondson](sources/soundex/ky1920-c652-p2750-crenshaw-ja-edmondson.jpg)
+
+### 8ep · 1920 (index) · Soundex C-652 — Carnaghy, James 50, Clay × Bertha
+
+**File:** [`sources/soundex/ky1920-c652-p2780-carnaghy-james-50-clay.jpg`](sources/soundex/ky1920-c652-p2780-carnaghy-james-50-clay.jpg)  
+**Source:** S605 · C827 · DOC142
+
+Clay not Owsley; Bertha not the 1910 Buffalo house. **DISPROVED**.
+
+![1920 Soundex C-652 Carnaghy James Clay](sources/soundex/ky1920-c652-p2780-carnaghy-james-50-clay.jpg)
+
+### 8eq · 1920 (index) · Soundex C-652 — Cornish, John 63, Mercer
+
+**File:** [`sources/soundex/ky1920-c652-p2850-cornish-john-63-mercer.jpg`](sources/soundex/ky1920-c652-p2850-cornish-john-63-mercer.jpg)  
+**Source:** S605 · C827 · DOC142
+
+John given-name. **DISPROVED** as Carmack James.
+
+![1920 Soundex C-652 Cornish John Mercer](sources/soundex/ky1920-c652-p2850-cornish-john-63-mercer.jpg)
 

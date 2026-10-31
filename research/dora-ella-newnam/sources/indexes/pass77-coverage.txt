@@ -1,0 +1,15 @@
+Pass 77 coverage — 30 Oct 2026 America/New_York
+Catalog list-cloud-agents includeArchived limit 200: 116 / hasMore false / totalMatched 116.
+Was 115. NEW vs 115: Dora B088 Bell Wolfe (bc-f2d926d6) RUNNING, 0 events, no IDs imported.
+Dora B088 John Jennie (bc-864394d5) now IDLE; events are Gmail MCP auth warnings only; no IDs imported.
+Nested reviewer not respawned. Message queue empty.
+Still RUNNING: Dora location search bc-995d22ea PR #31; Scan ED5 bc-0039b8bf.
+Dora's biography research bc-aea168dd WAITING_FOR_BACKGROUND_WORK PR #33 (sibling C281 not imported).
+This run bc-01a18bb4-e162-785c-9724-86a7c5663bf1.
+
+Work: entire filmed ED 92 sh 1–5 original nil Evans, John as head; 1910 dw 31 is Bales, John B. 40 × Annie, not Bowman; 1920 Bowman Henry 67 / Sile 60 / Andy 37 / Jack f 57 originals not merged; Dean George 44 × Jane not merged with 1910 George × Martha; B-550 isolated ky015, denser Henry 2321–2358 nil ED 92 Henry 67 (Owsley hits are ED 89 ages 20 and 43); C-652 isolated ky038, sampled James nil Carmack James Owsley.
+
+Original 1932 DC, 1916 DC face, 1840 bond, M123-3, T288 still unseen.
+Do not promote C509.
+Skip C221–C280 / L245–L342 / S259–S266. Do not mint C274–C280.
+Next unused after this filing: see case files.
