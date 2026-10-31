@@ -1560,3 +1560,83 @@ research/dora-ella-newnam/sources/census/1880-lee-ky-ed59-sheet43-p768-caroline-
   sha256: e9a9a25d6de97f5deda6d11712f3b682d70bded4346343299243d1aed771e9cb
   format: text extract, 1,970 bytes
   check: Pass 74 coverage; catalog 115; Gay Henry on sh 6; ED 92 hh 1-13 residual other surnames
+/workspace/research/dora-ella-newnam/sources/census/1920-owsley-ed92-sh6b-hdr.jpg
+  sha256: e5500f4c43678a8c871cadb059155a51eebf19f56eff7e1bb7b08cda744a410e
+  format: JPEG photo, 2400x293px
+  check: 1920 Owsley ED 92 sh 6 B header Fred Hubbard 14 Jan
+/workspace/research/dora-ella-newnam/sources/census/1920-owsley-ed92-sh6b-names.jpg
+  sha256: 431d8c03abca9c2ecf0df6ba516a9d9ff459c636c73e681af32290b70c3d030a
+  format: JPEG photo, 1800x3017px
+  check: 1920 Owsley ED 92 sh 6 B names Abner Lewis / Casey / Barrett Bruce
+/workspace/research/dora-ella-newnam/sources/census/1920-owsley-ed92-sh6b-hh113-abner-lewis.jpg
+  sha256: 222c89128e107570cabb086750b9bf440f37b9e4fbc5800719e9e7faba4acbb5
+  format: JPEG photo, 1800x528px
+  check: 1920 original dw 113 Abner Lewis 50 x Susan 42
+/workspace/research/dora-ella-newnam/sources/census/1920-owsley-ed92-sh6b-hh115-barrett-bruce.jpg
+  sha256: 2a710629d4c846b2db9650fff2d821a77b3d1eab6d6307cc300842cb60d65395
+  format: JPEG photo, 1800x678px
+  check: 1920 original dw 115 Barrett Bruce 42 x Anna
+/workspace/research/dora-ella-newnam/sources/census/1920-owsley-ed92-sh7a-hdr.jpg
+  sha256: 9c48514e3dace289f98be57be428d9a0f3e9388ed258816db466bf75606d6e7b
+  format: JPEG photo, 2400x261px
+  check: 1920 Owsley ED 92 sh 7 A header Fred Hubbard 16 Jan
+/workspace/research/dora-ella-newnam/sources/census/1920-owsley-ed92-sh7a-names.jpg
+  sha256: 9258a9a5c39a8161fb0c2885f65c049aa4a41c285db8a6aeca55cecd23587276
+  format: JPEG photo, 1800x3031px
+  check: 1920 Owsley ED 92 sh 7 A names Abner Samuel / Gabbard WB / Baker Jesse
+/workspace/research/dora-ella-newnam/sources/census/1920-owsley-ed92-sh7a-hh117-abner-samuel.jpg
+  sha256: f6e1470e7e9c88a1b64b3990b4398c7b7df0cbabab911d837a9f6caebd60d4bc
+  format: JPEG photo, 1800x363px
+  check: 1920 original dw 117 Abner Samuel 53 x Maria 51
+/workspace/research/dora-ella-newnam/sources/census/1920-owsley-ed92-sh7a-hh119-gabbard-wb.jpg
+  sha256: 78eaed208b2fb55812f87ba68cba12d33eb418b9f2a0aa5316cc3b1ff995b673
+  format: JPEG photo, 1800x545px
+  check: 1920 original dw 119 Gabbard W.B. 42 x Rosa 32
+/workspace/research/dora-ella-newnam/sources/census/1920-owsley-ed92-sh7a-hh123-baker-jesse.jpg
+  sha256: b21a551acf4dfaf72087be8e283294d0d20a87a22702ae28da84938538c8ce71
+  format: JPEG photo, 1800x666px
+  check: 1920 original dw 124 ln 34 Baker Jesse 54 x Emily 51 (filename hh123 leftover)
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-b260-p5030-baker-jesse-owsley-ed92.jpg
+  sha256: 9e1d913b5ce9b6cb389c98d3cee976aa004e4858c28ff249c84dc2d057a616d0
+  format: JPEG photo, 1600x955px
+  check: 1920 Soundex B-260 Baker Jesse 54 Owsley ED 92 sh 7 ln 34
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-b260-p5031-baker-jesse-cont.jpg
+  sha256: 31cc758de0700fb7578c88d1ada127d0127554c43a1321569e5a036dc20037cb
+  format: JPEG photo, 1600x919px
+  check: 1920 Soundex B-260 Baker Jesse continuation Pearl Lacy
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-b260-p5029-baker-jesse-72-owen.jpg
+  sha256: f52a1cf90e129143254e271ecef59e4038c01c517055ed01396776915f2fb79a
+  format: JPEG photo, 1600x955px
+  check: 1920 Soundex B-260 Baker Jesse 72 Owen living alone DISPROVED
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-e152-p1430-evans-john-38-estill.jpg
+  sha256: 20de143f1204ce1e7424e9ed6bf9340d0f6e710487233efe85298c9fdcff6f90
+  format: JPEG photo, 1600x960px
+  check: 1920 Soundex E-152 Evans John 38 Estill x Lula DISPROVED
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-e152-p1450-evans-john-45-daviess.jpg
+  sha256: 79c2d881387b788bb5a6b5814e0d0c388ac32f32e087e427caefe8cd16c0d8ae
+  format: JPEG photo, 1600x960px
+  check: 1920 Soundex E-152 Evans John B 45 Daviess x Mary DISPROVED
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-e152-p1515-joseph-divider.jpg
+  sha256: f3a0f82e3742ddd7de3bf4a3b6a35bd69fe5d1024ecb1e4271f7e85375463409
+  format: JPEG photo, 1600x996px
+  check: 1920 Soundex E-152 Joseph divider closes John window
+/workspace/research/dora-ella-newnam/sources/indexes/owsley-1920-ed92-sh6b-abner-lewis-pass76.txt
+  sha256: fe663882d55c27c53a3020afa4dd97fdcf3e91229706f8615dda72231cb44ac1
+  format: text extract, 2,345 bytes
+  check: 1920 original ED 92 sh 6 B Abner Lewis 50
+/workspace/research/dora-ella-newnam/sources/indexes/owsley-1920-ed92-sh7a-baker-jesse-pass76.txt
+  sha256: 814f93cf38a3b467b2c8f729c47fdecb0c7f10d37d4cda5959336df539334480
+  format: text extract, 3,024 bytes
+  check: 1920 original ED 92 sh 7 A Baker Jesse 54
+/workspace/research/dora-ella-newnam/sources/indexes/ky1920-b260-baker-jesse-pass76.txt
+  sha256: 1d11a00b7dbb65dc5b62064828cab035a8fdc81695e69fcae66d1a01e609ce4a
+  format: text extract, 1,969 bytes
+  check: 1920 B-260 Baker Jesse 54 matches original
+/workspace/research/dora-ella-newnam/sources/indexes/ky1920-e152-evans-john-pass76.txt
+  sha256: c5dc3cd4c5463e88e57a9c4954dff13b724756a00e5a589fbd2d8dfacc9dfb32
+  format: text extract, 2,197 bytes
+  check: 1920 E-152 sampled Johns DISPROVED; nil Owsley x Susan
+/workspace/research/dora-ella-newnam/sources/indexes/pass76-coverage.txt
+  sha256: 0b9f03f4558823031e16ff1e3f4312c1077ff781702884ae8eae18e57c09a153
+  format: text extract, 1,910 bytes
+  check: Pass 76 coverage; catalog 115; Abner Lewis/Samuel and Baker Jesse on sh 6B-7A

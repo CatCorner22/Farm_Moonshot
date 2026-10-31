@@ -1,0 +1,46 @@
+Pass 76 — 1920 Kentucky Soundex B-260 Baker Jesse (derivative of the original)
+NARA M1563 reel 8 / IA soundex1920ky008. Image-seen 30 Oct 2026.
+Given-name sort. Jesse slot is after Jennie (5020 Booker Jennie) and Jason (5028),
+not in the H-window at 4550–4650 (Hallie / Helen / Henry).
+JPEGs:
+  ky1920-b260-p5030-baker-jesse-owsley-ed92.jpg
+    SHA-256 9e1d913b5ce9b6cb389c98d3cee976aa004e4858c28ff249c84dc2d057a616d0
+    (228,410 bytes, 1600×955)
+  ky1920-b260-p5031-baker-jesse-cont.jpg
+    SHA-256 31cc758de0700fb7578c88d1ada127d0127554c43a1321569e5a036dc20037cb
+    (208,090 bytes, 1600×919)
+  ky1920-b260-p5029-baker-jesse-72-owen.jpg
+    SHA-256 f52a1cf90e129143254e271ecef59e4038c01c517055ed01396776915f2fb79a
+    (210,291 bytes, 1600×955)
+
+Diplomatic — card 5030 (A-1a)
+  B-260 Baker, Jesse
+  Color W · Age 54 · Birthplace Kentucky · County Owsley
+  Vol 76 · E.D. 92 · Sheet 7 · Line 34
+  Other members:
+    Baker, Emley W 51 Kentucky
+    Charley S 26 Kentucky
+    Sarah D 18 Kentucky
+    Martha D 16 Kentucky
+    Albert S 14 Kentucky
+  Foot: #1 sister (continuation)
+
+Diplomatic — card 5031 (A-1b continuation)
+  Baker, Jesse (HEAD OF FAMILY — CONTINUED)
+    Baker, Pearl S 12 Kentucky
+    Lacy D L 18 Kentucky
+
+Diplomatic — card 5029 (bound, DISPROVED)
+  B-260 Baker, Jesse
+  Color W · Age 72 · Birthplace Kentucky · County Owen
+  Vol 76 · E.D. 133 · Sheet 3 · Line 93
+  Living alone.
+  DISPROVED as 1910 Buffalo Jesse 42 × Emily (Owen; 72; alone).
+
+Pass 2 vs original sh 7 A ln 34 (Hard Rule 6): original given name Jesse,
+original wife Emily (Soundex Emley), original son Chester (Soundex Charley),
+original line 34, original age 54. Soundex copies vol 76 ED 92 sh 7 ln 34.
+Original dwelling 124/124. Do not prefer the derivative spellings.
+Neighbor 5027 Baker, Jess W 39 B Trigg × Della DISPROVED (race/county/age).
+5028 Baker, Jason 31 Union AR-born DISPROVED.
+5050 Baker, Jesse M 23 Frankfort reformatory prisoner DISPROVED.

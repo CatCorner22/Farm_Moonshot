@@ -1,0 +1,62 @@
+Pass 76 — 1920 Owsley ED 92 sheet 7 A, dwellings 117 / 119 / 124 (original)
+NARA T625-594 / IA 14thcensusofpopu594unit leaf 1168. Image-seen 30 Oct 2026.
+Buffalo Precinct No. 5. Enumerator Fred Hubbard. Enumerated 16 Jan 1920.
+SD 10, ED 92, stamped Sheet 7 A, stamp ~2378.
+JPEGs:
+  1920-owsley-ed92-sh7a-hdr.jpg
+    SHA-256 9c48514e3dace289f98be57be428d9a0f3e9388ed258816db466bf75606d6e7b
+    (119,118 bytes, 2400×261)
+  1920-owsley-ed92-sh7a-hh117-abner-samuel.jpg
+    SHA-256 f6e1470e7e9c88a1b64b3990b4398c7b7df0cbabab911d837a9f6caebd60d4bc
+    (141,797 bytes, 1800×363)
+  1920-owsley-ed92-sh7a-hh119-gabbard-wb.jpg
+    SHA-256 78eaed208b2fb55812f87ba68cba12d33eb418b9f2a0aa5316cc3b1ff995b673
+    (203,595 bytes, 1800×545)
+  1920-owsley-ed92-sh7a-hh123-baker-jesse.jpg
+    SHA-256 b21a551acf4dfaf72087be8e283294d0d20a87a22702ae28da84938538c8ce71
+    (231,005 bytes, 1800×666)
+  1920-owsley-ed92-sh7a-names.jpg
+    SHA-256 9258a9a5c39a8161fb0c2885f65c049aa4a41c285db8a6aeca55cecd23587276
+    (909,624 bytes, 1800×3031)
+
+Diplomatic — header
+  State Kentucky · County Owsley · Township Buffalo Creek No. 5
+  Supervisor’s District No. 10 · Enumeration District No. 92 · Sheet No. 7 A
+  Enumerator Fred Hubbard, 16 January 1920.
+
+Diplomatic — selected households (Pass 1 + Pass 2)
+  Ln 1  dw 117/117 Abner, Samuel Head OM m W 53 m
+        Maria Wife m W 51 m
+        Daniel Chester Grandson m W 8 S
+  Ln 4  dw 118/118 Baker, James Head 29 m × Dorothy 17
+        DISPROVED as 1910 dw 17 Baker James 35 × Caroline 35.
+  Ln 6  dw 119/119 Gabbard, W.B. Head OM m W 42 m
+        Rosa Wife f W 32 m
+        Thomas Son 14 S; Melvin Son 11 S; Birty Dau 9 S;
+        Woodroe Son 6 S; Stanley Son 4 S; Lillie May Dau 4/12 S
+        Wife Rosa vs 1910 Laura[?] — not silently merged.
+  Ln 14 dw 121/121 Day[?], Henry Head 25 m
+  Ln 17 dw 122/122 Bishop, Alex Head 43 m × Mary J. 42
+  Ln 24 dw 123/123 Helton, Dan Head 40 m × Catherine 39
+  Ln 34 dw 124/124 Baker, Jesse Head OF m W 54 m
+        Emily Wife f W 51 m
+        Chester Son 26 S
+        Sarah Daughter 18 S
+        Martha Daughter 16 S
+        Albert Son 14 S
+        Pearl Son 12 S
+        Lacy Daughter-in-law 18 m
+  Ln 42 dw 125/125 Baker, John Head 38 m × Ollie 23 + Fred 3, Ford 3½
+  Ln 46 dw 126/126 Burton, Johnie Head 40 m
+
+Headline: Baker, Jesse 54 × Emily 51 is on filmed sh 7 A line 34, not missing sh 1.
+PROBABLE 1910 dw 14 (Jesse+Emily, Owsley Buffalo, Chester 17→26, Sarah 7→18,
+Martha 5→16, Pearl 1½→12). Head 42→54 is +12 in 10, disclosed, not averaged.
+Emily 40→51 is +11, disclosed, not averaged. Albert 14 vs 1910 Abner 3 not used
+as an identifier. Baker Pearl 12 is not P001.
+
+Abner, Samuel 53 × Maria 51: PROBABLE 1910 dw 20 (Samuel+Mariah/Maria, Buffalo,
+43→53 exact; wife 40→51 is +11, disclosed, not averaged). Adult children out.
+Gabbard W.B. 42 × Rosa: POSSIBLE 1910 Willis B. 32 × Laura[?] (W.B./Willis B.,
++10, Melvin 1½→11). Wife-name conflict keeps it below PROBABLE.
+Nil Evans, John on this sheet.

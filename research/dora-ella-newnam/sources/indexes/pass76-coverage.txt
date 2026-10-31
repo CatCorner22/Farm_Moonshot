@@ -1,0 +1,35 @@
+Pass 76 coverage — 30 Oct 2026 (America/New_York)
+Catalog list-cloud-agents includeArchived offset 0+50+100:
+  115 / hasMore false / totalMatched 115. Unchanged vs Pass 74.
+  NEW vs 114 still only bc-864394d5 Dora B088 John Jennie RUNNING, 0 events,
+  no IDs imported. Nested reviewer not respawned. Message queue empty.
+  Still RUNNING: bc-995d22ea Dora location search PR #31;
+  bc-0039b8bf Scan ED5. Sibling bc-aea168dd WAITING_FOR_BACKGROUND_WORK PR #33
+  (C281 not imported). This run bc-01a18bb4-e162-785c-9724-86a7c5663bf1.
+
+Originals (Hard Rule 6):
+  T625-594 leaf 1167 ED 92 sh 6 B 14 Jan 1920 Fred Hubbard
+    dw 113/113 Abner, Lewis 50 × Susan 42  PROBABLE 1910 dw 16
+  T625-594 leaf 1168 ED 92 sh 7 A 16 Jan 1920 Fred Hubbard
+    dw 117/117 Abner, Samuel 53 × Maria 51  PROBABLE 1910 dw 20
+    dw 119/119 Gabbard, W.B. 42 × Rosa 32  POSSIBLE 1910 Willis B × Laura
+    dw 124/124 Baker, Jesse 54 × Emily 51  PROBABLE 1910 dw 14
+    dw 118/118 Baker, James 29 × Dorothy  DISPROVED as 1910 James 35 × Caroline
+  Leaf 1169 sh 7 B last of ED 92: Morris Levi / Gabbard Daniel / Roberts /
+    Bishop David / Buckhannon Will / Bishop Isaac / Williams John — nil Evans,
+    nil Newman head.
+
+Soundex:
+  B-260 ky008 leaf 5030 Baker, Jesse 54 Owsley vol 76 ED 92 sh 7 ln 34
+    matches the original (Emley/Charley are derivative spellings).
+  E-152 ky047 sampled John window through Joseph divider 1515:
+    off-county Johns DISPROVED; nil Owsley × Susan.
+
+Not done this pass:
+  A-156 Abner Lewis/Samuel Soundex cards (originals already prove the houses)
+  Carmack / McIntosh / Dean / Bowman / remaining Gabbard as 1920 heads
+  Evans on filmed ED 92 sh 1–5
+  Original 1916 DC vol 044 #21663; 1932 DC; 1840 bond; M123-3; T288
+
+Do not promote C509. Do not mint C274–C280. Skip C221–C280 / L245–L342 / S259–S266.
+Next unused after this pass: C820+ / L696+ / S600+ / DOC137+ / gallery 8dy+.

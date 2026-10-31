@@ -3271,6 +3271,126 @@ Pass 2: ED **93** Buck Creek, already filmed (**C746**). Not Rice. Not sh 1.
 ### Facts extracted → claim IDs
 - R-200 Elizabeth E / Benjamin B slots closed; DISPROVED hits → C804
 
+## DOC133 — 1920 Owsley ED 92 sheet 6 B, dwelling 113 Abner Lewis (original)
+
+- Header: `sources/census/1920-owsley-ed92-sh6b-hdr.jpg` SHA-256 `e5500f4c43678a8c871cadb059155a51eebf19f56eff7e1bb7b08cda744a410e`
+- Names: `…sh6b-names.jpg` `431d8c03abca9c2ecf0df6ba516a9d9ff459c636c73e681af32290b70c3d030a`
+- Household: `…hh113-abner-lewis.jpg` `222c89128e107570cabb086750b9bf440f37b9e4fbc5800719e9e7faba4acbb5`
+- Barrett: `…hh115-barrett-bruce.jpg` `2a710629d4c846b2db9650fff2d821a77b3d1eab6d6307cc300842cb60d65395`
+- Extract: `owsley-1920-ed92-sh6b-abner-lewis-pass76.txt` `fe663882d55c27c53a3020afa4dd97fdcf3e91229706f8615dda72231cb44ac1`
+- Provenance: NARA T625-**594** / IA `14thcensusofpopu594unit` `_1167.jp2` leaf **1167**, opened 30 Oct 2026. **Image-seen.** Enumerator **Fred Hubbard**, **14 Jan 1920**. Buffalo Precinct No. **5**, ED **92**, stamped **6 B**, stamp ~**2377**.
+
+### Diplomatic — dwellings 111 / 113 / 115
+
+> Ln **25** fam **111/111 Abner, Casey** Head **32** m  
+> Sarah Wife **33** m.
+
+> Ln **30** fam **113/113 Abner, Lewis** Head OM m W **50** m  
+> Susan Wife f W **42** m  
+> Jesse Son ~**17** S  
+> Laura Daughter ~**16** S  
+> Hazel Daughter ~**11** S  
+> Sidney Son [age faint]  
+> Grant[?] Son [age faint].
+
+> Ln **40** fam **115/115 Barrett, Bruce** Head **42** m  
+> Anna Wife ~**52**  
+> Lewis Son **12**; Levi Son **10**; Henry Son **14**; Sarah Dau; Sallie Dau.
+
+Pass 2: Lewis age **50** is from the household JPEG (a tight age-crop accidentally hit Susan’s **42**). **Not** missing sheet 1. **Nil Evans, John**. Casey is a third Abner house.
+
+### Facts extracted → claim IDs
+- 1920 original Abner Lewis 50 × Susan → C808
+- Abner Casey 32 not merged → C818
+- Barrett Bruce 42 × Anna POSSIBLE → C819
+
+## DOC134 — 1920 Owsley ED 92 sheet 7 A, dwellings 117 / 119 / 124 (original)
+
+- Header: `sources/census/1920-owsley-ed92-sh7a-hdr.jpg` SHA-256 `9c48514e3dace289f98be57be428d9a0f3e9388ed258816db466bf75606d6e7b`
+- Names: `…sh7a-names.jpg` `9258a9a5c39a8161fb0c2885f65c049aa4a41c285db8a6aeca55cecd23587276`
+- Samuel: `…hh117-abner-samuel.jpg` `f6e1470e7e9c88a1b64b3990b4398c7b7df0cbabab911d837a9f6caebd60d4bc`
+- Gabbard: `…hh119-gabbard-wb.jpg` `78eaed208b2fb55812f87ba68cba12d33eb418b9f2a0aa5316cc3b1ff995b673`
+- Jesse: `…hh123-baker-jesse.jpg` `b21a551acf4dfaf72087be8e283294d0d20a87a22702ae28da84938538c8ce71`
+- Extract: `owsley-1920-ed92-sh7a-baker-jesse-pass76.txt` `814f93cf38a3b467b2c8f729c47fdecb0c7f10d37d4cda5959336df539334480`
+- Provenance: NARA T625-**594** / IA `14thcensusofpopu594unit` `_1168.jp2` leaf **1168**, opened 30 Oct 2026. **Image-seen.** Enumerator **Fred Hubbard**, **16 Jan 1920**. Buffalo Creek No. **5**, ED **92**, stamped **7 A**, stamp ~**2378**.
+
+### Diplomatic — dwellings 117 / 118 / 119 / 124
+
+> Ln **1** fam **117/117 Abner, Samuel** Head OM m W **53** m  
+> Maria Wife m W **51** m  
+> Daniel Chester Grandson m W **8** S.
+
+> Ln **4** fam **118/118 Baker, James** Head **29** m × Dorothy **17**.
+
+> Ln **6** fam **119/119 Gabbard, W.B.** Head OM m W **42** m  
+> Rosa Wife f W **32** m  
+> Thomas Son **14** S; Melvin Son **11** S; Birty Dau **9** S; Woodroe Son **6** S; Stanley Son **4** S; Lillie May Dau **4/12** S.
+
+> Ln **34** fam **124/124 Baker, Jesse** Head OF m W **54** m  
+> Emily Wife f W **51** m  
+> Chester Son **26** S  
+> Sarah Daughter **18** S  
+> Martha Daughter **16** S  
+> Albert Son **14** S  
+> Pearl Son **12** S  
+> Lacy Daughter-in-law **18** m.
+
+Pass 2: Filename `hh123` is a leftover; Helton Dan is dw **123/123**; Jesse is dw **124/124** line **34**. Gabbard wife is **Rosa**, not Kate. **Nil Evans, John**. Baker Pearl 12 is not P001.
+
+### Facts extracted → claim IDs
+- 1920 original Abner Samuel 53 × Maria → C809
+- Gabbard W.B. × Rosa POSSIBLE → C813
+- Baker James 29 × Dorothy DISPROVED as 1910 James 35 × Caroline → C814
+- 1920 original Baker Jesse 54 × Emily → C810
+
+## DOC135 — 1920 Kentucky Soundex B-260, Baker Jesse Owsley ED 92 sh 7 (derivative)
+
+- Card 5030: `sources/soundex/ky1920-b260-p5030-baker-jesse-owsley-ed92.jpg` SHA-256 `9e1d913b5ce9b6cb389c98d3cee976aa004e4858c28ff249c84dc2d057a616d0`
+- Card 5031: `…p5031-baker-jesse-cont.jpg` `31cc758de0700fb7578c88d1ada127d0127554c43a1321569e5a036dc20037cb`
+- Card 5029: `…p5029-baker-jesse-72-owen.jpg` `f52a1cf90e129143254e271ecef59e4038c01c517055ed01396776915f2fb79a`
+- Extract: `ky1920-b260-baker-jesse-pass76.txt` `1d11a00b7dbb65dc5b62064828cab035a8fdc81695e69fcae66d1a01e609ce4a`
+- Provenance: NARA M1563 reel **8** / IA `soundex1920ky008` leaves **5027–5031**, opened 30 Oct 2026. **Image-seen.** Given-name sort. Jesse slot is after Jennie/Jason, **not** the H-window **4550–4650**.
+
+### Diplomatic — card 5030 (A-1a)
+
+> B-260 **Baker, Jesse**  
+> Color **W** · Age **54** · Birthplace **Kentucky** · County **Owsley**  
+> Vol **76** · E.D. **92** · Sheet **7** · Line **34**  
+> Other members: **Baker, Emley** W **51** Kentucky; **Charley** S **26**; **Sarah** D **18**; **Martha** D **16**; **Albert** S **14**. Foot: #1 sister (continuation).
+
+### Diplomatic — card 5031 (A-1b continuation)
+
+> **Baker, Jesse** (HEAD OF FAMILY — CONTINUED)  
+> **Baker, Pearl** S **12** Kentucky; **Lacy** D L **18** Kentucky.
+
+### Diplomatic — card 5029 (bound, DISPROVED)
+
+> B-260 **Baker, Jesse** · W **72** · Kentucky · Owen · Vol **76** · E.D. **133** · Sheet **3** · Line **93** · Living alone.
+
+Pass 2: Matches original leaf **1168** ln **34** (DOC134). Hard Rule 6: original given name **Jesse**; original wife **Emily**; original son **Chester**. Neighbors **5027** Jess W Trigg, **5028** Jason Union, **5050** Jesse M Frankfort **DISPROVED**.
+
+### Facts extracted → claim IDs
+- Soundex Baker Jesse 54 ED 92 sh 7 = original dw 124; PROBABLE 1910 dw 14 → C811 / C810
+
+## DOC136 — 1920 Kentucky Soundex E-152, Evans John sampled window (derivative)
+
+- Card 1430: `sources/soundex/ky1920-e152-p1430-evans-john-38-estill.jpg` SHA-256 `20de143f1204ce1e7424e9ed6bf9340d0f6e710487233efe85298c9fdcff6f90`
+- Card 1450: `…p1450-evans-john-45-daviess.jpg` `79c2d881387b788bb5a6b5814e0d0c388ac32f32e087e427caefe8cd16c0d8ae`
+- Divider 1515: `…p1515-joseph-divider.jpg` `f3a0f82e3742ddd7de3bf4a3b6a35bd69fe5d1024ecb1e4271f7e85375463409`
+- Extract: `ky1920-e152-evans-john-pass76.txt` `c5dc3cd4c5463e88e57a9c4954dff13b724756a00e5a589fbd2d8dfacc9dfb32`
+- Provenance: NARA M1563 reel **47** / IA `soundex1920ky047`, opened 30 Oct 2026. **Image-seen.** John window ends at the Joseph divider. Leaf **2500** is E-**162**.
+
+### Diplomatic — cards 1430 / 1450
+
+> E-152 **Evans, John** · W **38** · Kentucky · Estill · Vol **20** ED **44** sh **15** ln **86** · **Lula** 35; Helen D 16; Leonard S 13; Lily D 9; Jody S 8.
+
+> E-152 **Evans, John** · B **45** · Tennessee · Daviess · Owensboro East 9th **1314** · Vol **21** ED **33** sh **10** ln **52** · **Mary** 35 Tennessee.
+
+Pass 2: Both **DISPROVED** as 1910 Evans John 45 × Susan. Other sampled Johns (Clay 21; Kenton 44 × Olga; Bell 68 × Martha; Ohio 71 × Lusda; Fleming 76 × Sarah A.; Mason 56 brother) likewise **DISPROVED**. **Nil** Owsley ~55 × Susan as a head in this sampled window. Original sh **6 B / 7 A / 7 B** also nil Evans.
+
+### Facts extracted → claim IDs
+- E-152 sampled Johns DISPROVED; nil Owsley × Susan → C812
+
 
 
 

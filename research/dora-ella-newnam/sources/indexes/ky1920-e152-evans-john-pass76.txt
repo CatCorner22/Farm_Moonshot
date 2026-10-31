@@ -1,0 +1,41 @@
+Pass 76 — 1920 Kentucky Soundex E-152 Evans John sampled window (derivative)
+NARA M1563 reel 47 / IA soundex1920ky047. Image-seen 30 Oct 2026.
+Given-name sort. John window bounded below by earlier Johns and above by the
+Joseph divider at leaf 1515. Leaf 2500 is already E-162 Eversole — wrong code.
+JPEGs:
+  ky1920-e152-p1430-evans-john-38-estill.jpg
+    SHA-256 20de143f1204ce1e7424e9ed6bf9340d0f6e710487233efe85298c9fdcff6f90
+    (177,454 bytes, 1600×960)
+  ky1920-e152-p1450-evans-john-45-daviess.jpg
+    SHA-256 79c2d881387b788bb5a6b5814e0d0c388ac32f32e087e427caefe8cd16c0d8ae
+    (171,724 bytes, 1600×960)
+  ky1920-e152-p1515-joseph-divider.jpg
+    SHA-256 f3a0f82e3742ddd7de3bf4a3b6a35bd69fe5d1024ecb1e4271f7e85375463409
+    (189,971 bytes, 1600×996)
+
+Diplomatic — card 1430
+  E-152 Evans, John  W 38 Kentucky  Estill  Vol 20 ED 44 sh 15 ln 86
+  × Lula 35; Helen D 16; Leonard S 13; Lily D 9; Jody S 8.
+  DISPROVED as 1910 Evans John 45 × Susan (Estill; Lula not Susan; 38 vs ~55).
+
+Diplomatic — card 1450
+  E-152 Evans, John  B 45 Tennessee  Daviess Owensboro East 9th 1314
+  Vol 21 ED 33 sh 10 ln 52  × Mary 35 Tennessee.
+  DISPROVED (Black; Tennessee; Daviess; Mary not Susan).
+
+Other Johns image-seen, JPEGs not retained except 1430/1450:
+  1420 Evans, John W 21 Clay × Drucilla 23 + Dorothy 2  DISPROVED (21; Clay)
+  1440 Evans, John W 44 Kenton Ludlow × Olga 39 Indiana  DISPROVED (Kenton; Olga)
+  1460 Eubank, John B 37 Kenton — not Evans
+  1470 Evans, John F W 68 Tennessee  Bell  × Martha 58  DISPROVED (68; Bell; Martha)
+  1480 Evans, John Henry W 71 Ohio Co × Lusda 69  DISPROVED (71; Ohio; Lusda)
+  1490 Evans, John R. W 76 Fleming × Sarah A. 50  DISPROVED (76; Fleming)
+  1500 Eubank, John T 30 Pulaski — not Evans
+  1510 Evans, John W. 56 Mason Maysville, brother of Lincoln Evans  DISPROVED
+        (56; Mason; not a head with Susan)
+
+1515 is the Soundex given-name tab Joseph. E-152 John cards end before it.
+
+Nil in this sampled window: Evans, John ~55 W × Susan, Owsley vol 76 ED 92.
+Original sh 6 B / 7 A / 7 B also nil Evans. Residual: filmed sh 1–5 member/head
+not yet re-read for Evans; A-2; death; moved. Sampled, not every leaf 1421–1514.

@@ -1,0 +1,48 @@
+Pass 76 — 1920 Owsley ED 92 sheet 6 B, dwelling 113 Abner Lewis (original)
+NARA T625-594 / IA 14thcensusofpopu594unit leaf 1167. Image-seen 30 Oct 2026.
+Buffalo Precinct No. 5. Enumerator Fred Hubbard. Enumerated 14 Jan 1920.
+SD 10, ED 92, stamped Sheet 6 B, stamp ~2377.
+JPEGs:
+  1920-owsley-ed92-sh6b-hdr.jpg
+    SHA-256 e5500f4c43678a8c871cadb059155a51eebf19f56eff7e1bb7b08cda744a410e
+    (132,977 bytes, 2400×293)
+  1920-owsley-ed92-sh6b-hh113-abner-lewis.jpg
+    SHA-256 222c89128e107570cabb086750b9bf440f37b9e4fbc5800719e9e7faba4acbb5
+    (159,543 bytes, 1800×528)
+  1920-owsley-ed92-sh6b-hh115-barrett-bruce.jpg
+    SHA-256 2a710629d4c846b2db9650fff2d821a77b3d1eab6d6307cc300842cb60d65395
+    (204,843 bytes, 1800×678)
+  1920-owsley-ed92-sh6b-names.jpg
+    SHA-256 431d8c03abca9c2ecf0df6ba516a9d9ff459c636c73e681af32290b70c3d030a
+    (803,232 bytes, 1800×3017)
+
+Diplomatic — header
+  State Kentucky · County Owsley · Township Buffalo Precinct No. 5
+  Supervisor’s District No. 10 · Enumeration District No. 92 · Sheet No. 6 B
+  Enumerator Fred Hubbard, 14 January 1920.
+
+Diplomatic — selected heads (Pass 1 + Pass 2)
+  Ln 4  dw 108/108 Dean, Casey Head 30 m
+  Ln 11 dw 109/109 Reed, Robert Head 61 m × Linda
+  Ln 21 dw 110/110 Adams, Samuel Head 52 m × Eda[?] 37  (not Abner)
+  Ln 25 dw 111/111 Abner, Casey Head 32 m × Sarah 33
+        Not merged with Lewis or Samuel.
+  Ln 27 dw 112/112 Cornett, Robert Head 25 m
+  Ln 30 dw 113/113 Abner, Lewis Head OM m W 50 m
+        Susan Wife f W 42 m
+        Jesse Son ~17 S
+        Laura Daughter ~16 S
+        Hazel Daughter ~11 S
+        Sidney Son [age faint]
+        Grant[?] Son [age faint]   (1910 Charlie 8/12 not used as an identifier)
+  Ln 37 dw 114/114 Bishop, Gabriel Head 20 m × Nora 19
+  Ln 40 dw 115/115 Barrett, Bruce Head 42 m × Anna ~52
+        Lewis Son 12; Levi Son 10; Henry Son 14; Sarah Dau; Sallie Dau
+  Ln 47 dw 116/116 Barrett, Levi Head 22 m × Darcie[?] 22 + Mae 4, Fred 3½
+
+Headline: Abner, Lewis 50 × Susan 42 is on filmed sh 6 B, not missing sh 1.
+PROBABLE 1910 dw 16 (Lewis+Susan, Owsley Buffalo, Jesse 7→17; head 40→50 exact;
+Susan 35→42 is +7 in 10, disclosed, not averaged).
+Barrett, Bruce 42 × Anna POSSIBLE 1910 Barrett Ben 32 × Anna (Ben/Bruce; +10;
+Anna; Lewis/Levi/Henry). Not merged as proved.
+Nil Evans, John on this sheet.
