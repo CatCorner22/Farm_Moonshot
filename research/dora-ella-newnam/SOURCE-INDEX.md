@@ -79,7 +79,13 @@ Captured this session: **30 Oct 2026**. Earlier plates remain in `sources/census
 | S305 | `sources/gazetteer/genealogytrails-yell-postoffices-2026-10-31.html` · `genealogytrails-perry-postoffices-2026-10-31.html` · extract | 2026-10-31 | Genealogy Trails | http://genealogytrails.com/ark/yell/postoffices.html | Yell/Perry PO lists | **C335–C339** (sibling B091) | transcription only |
 | S306 | `sources/census/ed191-1920/1920-yell-ed191-full-read-extract-2026-10-31.txt` | 2026-10-31 | NARA T625-86 / IA | https://archive.org/details/14thcensusofpopu086unit | ED 191 full visual nil P001 | **C340** | image seen |
 | S307 | `sources/directories/yell-polk-tax-catalog-2026-10-31.txt` | 2026-10-31 | IA / SLCL / ASA / UALR | — | Gazetteer / poll-tax catalog | **C344–C346** | catalog only |
-| S308 | `sources/census/t625-86-ed-map/1920-yell-t625-86-header-remap-2026-10-31.txt` | 2026-10-31 | NARA T625-86 | https://archive.org/details/14thcensusofpopu086unit | ED 200 true pages ~518–544 | **C347 C348** | image seen |
+| S308 | `sources/census/t625-86-ed-map/1920-yell-t625-86-header-remap-2026-10-31.txt` | 2026-10-31 | NARA T625-86 | https://archive.org/details/14thcensusofpopu086unit | ED 200 true pages ~518–544 (tightened by **S317**) | **C347 C348** | image seen |
+| S317 | `sources/census/ed200-1920/1920-yell-ed200-full-read-extract-2026-10-31.txt` | 2026-10-31 | NARA T625-86 / IA | https://archive.org/details/14thcensusofpopu086unit | ED 200 full visual 518–541 nil P001 | **C367 C368** | image seen |
+| S318 | `sources/census/ed200-1920/1920-yell-p0528-ed200-ola-6a-*.png` · `…-p0540-ed200-ola-12a-sheet.png` · `…-p0542-ed201-waveland-1-*.png` | 2026-10-31 | NARA T625-86 | same | Ola start 528; 540 = 12 A; 542 = ED 201 | **C367** | image seen |
+| S319 | `sources/census/ed200-1920/1920-yell-p0533-dora-m-eddington-reject.png` | 2026-10-31 | NARA T625-86 | same | Dora M 26 AL + John L 31 AL | **C370** | image seen |
+| S320 | `sources/census/ed200-1920/1920-yell-p0532-fannie-arnett-ky-reject.png` · `…-p0532-ed200-ola-8a-sheet.png` | 2026-10-31 | NARA T625-86 | same | Fannie E 47 KY; true Ola 8 A | **C369 C373** | image seen |
+| S321 | `sources/census/ed200-1920/1920-yell-p0523-dorey-davis-reject.png` | 2026-10-31 | NARA T625-86 | same | Dorey 33 AR + Davis[?] Lip L | **C371** | image seen |
+| S322 | same extract as **S317** (header table + variants + rejects) | 2026-10-31 | this case | — | Bound + named rejects | **C367–C374** | image seen |
 | S309 | `sources/census/1900-owsley-buckcreek-2026-10-31.html` · `1900-owsley-buckcreek-hh324-minerva-evert-extract-2026-10-31.txt` | 2026-10-31 | USGenNet 1900 Buck Creek | https://usgennet.org/usa/ky/county/owsley/census/1900/buckcreek.html | Minerva + Evert hh **324/326** | **C349** | transcription only |
 | S310 | `sources/census/1910-owsley-buckcreek-2026-10-31.html` · `1910-owsley-buckcreek-hh134-158-159-extract-2026-10-31.txt` | 2026-10-31 | USGenNet 1910 Buck Creek | https://usgennet.org/usa/ky/county/owsley/census/1910/buck1910.html | Everet / Grant / John / Elizabeth | **C350–C353** | transcription only |
 | S311 | `sources/marriages/lee-marrbook20-2026-10-31.html` · `lee-book20-george-mitchel-nellie-spicer-1926-extract-2026-10-31.txt` | 2026-10-31 | USGenNet Lee Book 20 | https://usgennet.org/usa/ky/county/lee/marriage/marrbook20.html | Nellie Spicer; mother Callie Newman | **C355** | transcription only |
@@ -117,7 +123,7 @@ See [`sources/authored/PROVENANCE.md`](sources/authored/PROVENANCE.md). **Author
 
 **Thomas / T. A. Stone:** Thomas, Tom, T. A., T A × Stone, Store, Stowe (rejects already logged).
 
-Exact strings in `02-log.md` **L343–L352**, pass **64** **L391–L400**, pass **65** **L401–L416**, pass **68** **L430–L441** (B051), pass **69** **L442–L453** (B057), pass **70** **L454–L459** (B057 stones), and pass **71** **L469–L476** (B054 Carter Cove stones). **L418–L429 / C367–C374 / S317–S322** reserved for location **B092**. **C399–C409 / L460–L468 / S340–S351** left unused.
+Exact strings in `02-log.md` **L343–L352**, pass **64** **L391–L400**, pass **65** **L401–L416**, pass **68** **L430–L441** (B051), pass **69** **L442–L453** (B057), pass **70** **L454–L459** (B057 stones), pass **71** **L469–L476** (B054), pass **72** **L477–L485** (B045), and pass **73** **L418–L427** (B092). **C367–C374 / S317–S322** used by B092. **C399–C409 / L460–L468 / S340–S351** left unused.
 
 **Everett / Callie / Spicer (pass 65):** Everett, Everet, Evert, Everette × Newnam/Newman; Callie × Moore/Newnam/Newman; Robert Spicer. Soundex **N550** / **S126** / **M600**.
 

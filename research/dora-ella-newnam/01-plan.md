@@ -142,7 +142,7 @@ Regenerated before **B092** true-ED-200 name-column queries (`bc-6d51c793`). Cat
 3. **Machine / OCR given:** Dora, posa, dosa, rosa, dona, dara, dore, dori, dola, pora, rora. Surname: Stone, storie, stona, stome; Newnam, newman, newnarn, newan, newnom. Soundex **D600** / **S350** / **N550** / **P200** / **S540**.
 4. **Repository quirks:** IA `14thcensusofpopu086unit` PDF page vs ED stamp; visual name-column (OCR n/a — item “language not currently OCRable”); `Last, First` on schedule; sheet **8 A** hunt for unreplicated **C214**.
 
-Exact strings logged **L418+**.
+Exact strings logged **L418–L427**. Pass **73** re-ran the generator before the remaining ED 200 name columns.
 
 ## Name-variant storm (pass 66, Word filing — no new person query)
 
