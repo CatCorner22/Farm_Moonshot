@@ -170,6 +170,28 @@ Regenerated before **B057** queries (`bc-20e39036`). **Did not take B051** (sibl
 
 Exact strings logged **L442–L452**.
 
+## Name-variant storm (pass 70, `search_variants.py`, 31 Oct 2026)
+
+Regenerated **before** B054 queries (`bc-20e39036`). **Did not replay B057 L442–L452.** Sibling `bc-c5415202` owns further B057 at **C395 / L454 / S337**. **Left L418–L429 / C367–C374 / S317–S322 for B092.** Categories **1–4**:
+
+1. **Canonical:** Dora Newman (Carter Cove listing); Thomas Stone (1845–1925 listing); Carter Cemetery / Carter Cove / Carters Chapel / Plainview Cemetery, cemetery ids **53354** and **53325**.
+2. **User / family:** Dora / Dora Ella / Posa (index alias); Newman / Newnam; Dora Stone; Thomas / Tom / T. A. / Thos Stone.
+3. **Machine / OCR given:** Dora, posa, dosa, rosa, dona, dara, dore, dori, dola, pora, rora. Thomas, thos, tom, t a, t. a. Surname: Newman, newnam, newnarn, newan; Stone, storie, stona, stome. Soundex **N550** / **S350** / **D600** / **T520** / **C636**.
+4. **Repository quirks:** FAG memorial IDs **97907837** / **97907931** (individual pages historically CF-blocked); cemetery search `cemetery/53354` vs `53325`; `Last, First` on compiled indexes; yellcountyobits cemeterylist **64** / **83**; Daniels/Cossey 1993 copy; BillionGraves / Interment / GT / ARGenWeb / Wayback as photo substitutes.
+
+Exact strings logged **L469+**.
+
+## Name-variant storm (pass 70-B057, `search_variants.py`, 31 Oct 2026)
+
+Regenerated before B057 residual queries (`bc-c5415202`). **Did not retake C383–C394 / L442–L453.** **Did not take B049 / B054 / B055 / B056 / B092 / B051.** Categories **1–4**:
+
+1. **Canonical:** Callie (Moore) Newnam / Newman; Dorothy Newnam; Everett / Everet / Evert Newnam of Idamay; Edward Newman of Vincent; Clifton Newman of Berea.
+2. **User / family:** Newman / Newnam / Newnan / Newmam; Callie / Calie; Everette; Joan vs Lois; Grant / Frank / Francis / Franklin; John of Owsley.
+3. **Machine / OCR given:** Callie (ocr-given: Callie only); Dorothy / porothy / rorothy; Everett (ocr-given: Everett only). Surname: Newnam, newman, newnarn, newan, newnom. Soundex **N550** / **M600** / **C400** / **D630** / **E163** / **E363** (Edward) / **C413** (Clifton) / **G653** / **F652** / **J500** / **V525** (Vincent) / **I350** (Idamay).
+4. **Repository quirks:** Find A Grave cemetery **2651502** memorial-search `lastName=Newman` (listing HTML; individual memorials **403**); Madison KYGenWeb `1936b.htm` (N-block); Lee Books `Last, First`; Proctor `cemeteries/proctor.html` (not `cemetery/`); Owsley deaths year files.
+
+Exact strings logged **L454–L459**.
+
 ## Agent SDK / GitHub channel
 
 Inspected 30 Oct 2026 (**L351**): this repository has **no** `package.json`, **no** `@grok/agent-sdk`, **no** `bot/` directory. GitHub channel `bot/channels/github.ts` is **n/a** and was **not** authored. Project subagent: `.cursor/agents/dora-genealogy-detective.md`.

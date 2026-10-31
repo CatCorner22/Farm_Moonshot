@@ -1,0 +1,25 @@
+# Extract — Find A Grave cemetery 2651502 memorial-search lastName=Newman
+# URL: https://www.findagrave.com/cemetery/2651502/memorial-search?lastName=Newman
+# Cemetery page: https://www.findagrave.com/cemetery/2651502/newman-family-cemetery
+# Captured: 2026-10-31  Access: listing HTML seen (individual memorial pages 403)
+
+Newman Family Cemetery, Vincent, Owsley County, Kentucky. Cemetery ID 2651502. 9 memorials on the Newman search.
+
+Listing dates (compiled memorial data — not stone photographs except Edward):
+
+- Callie Moore Newman, 19 Mar 1896 – 27 Apr 1926, memorial 198314867, no grave photo
+- Clarence Edward Newman, 15 Sep 1902 – 2 Sep 2007, memorial 276856341, no grave photo  [1910 nephew Clarence age 6 is POSSIBLE; not merged as Everett’s son]
+- Dorothy Newman, 8 Nov 1924 – 6 Oct 1926, memorial 245273827, no grave photo
+- Edward Newman, 24 Sep 1919 – 28 Sep 1936, memorial 245273705, grave photo present
+- Elvoyde Newman, 21 Jun 1939 – 17 Sep 1960, memorial 183619327, no grave photo  [not merged; 1939 obit named no surviving son]
+- Everett Newman, 14 Sep 1886 – 13 Dec 1939, memorial 245273572, no grave photo
+- James Harold Newman, 26 Aug 1923 – 23 Mar 1998, memorial 183590119, no grave photo  [not merged; 1939 obit named no surviving son]
+- Mae Coomer Newman, 1903 – 15 Dec 1958, memorial 276856363, no grave photo  [not merged]
+- Ollie Doris White Newman, 28 Jun 1937 – 17 Oct 2022, memorial 244993024, no grave photo  [later generation; not the 1936 Mrs Everett]
+
+Edward stone photograph (thumbnail image seen):
+  top emblem (N)
+  EDWARD NEWMAN
+  SEPT 24 - SEPT 28
+  1919 - 1936
+Image: sources/cemetery/edward-newman-vincent-stone-fag245273705-2026-10-31.jpg

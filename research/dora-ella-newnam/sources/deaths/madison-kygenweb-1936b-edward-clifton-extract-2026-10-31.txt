@@ -1,0 +1,9 @@
+# Extract — Madison KYGenWeb 1936 deaths file B (N-block)
+# URL: https://kygenweb.net/madison/Rootsweb_files/research/death/years/1936b.htm
+# Captured: 2026-10-31  Access: index only (HTML seen)
+# Columns on page: Last, First, Middle, Year, Month, Day, Age, Death county, Residence, Volume, File
+
+NEWMAN, CLIFTON, (no MI), 1936, 09, 29, 017, MADSN, (blank residence), vol 057, file 28033
+NEWMAN, EDWARD, (no MI), 1936, 09, 28, 017, MADSN, residence OWSLEY, vol 057, file 28062
+
+Certificate images not examined.
