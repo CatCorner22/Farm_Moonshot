@@ -1,0 +1,71 @@
+Pass 96 extract — 31 Oct 2026
+B088 / B089 / B045 / B061 / B069 / B047 / B082 / B016 / B049 / B055 / B080
+Transcription / catalog / pamphlet / index only except where noted. No paleography invented.
+
+WOLFE 1920 COMPILED (Carole Bays; KYGenWeb letter files)
+Landing https://kygenweb.net/wolfe/census1.htm lists 1920a, 1920c, 1920d, 1920e, 1920f, 1920g, 1920h, 1920i, 1920k.
+No 1920b or 1920j link. GET kygenweb.net/wolfe/txt/1920b.txt and 1920j.txt = HTTP 404.
+files.usgwarchives.net 1920pt* still HTTP 000 / timeout. Wayback CDX 503.
+
+1920c Lee City ED 234 (Wm. Tester, Jan 1920) — 70122 bytes. Grep Newman/Newnam/Noonan/Nunan = 0.
+  One McCOY household: hh 79 John B. McCoy 84 + Nina 55 — REJECTED vs McCoy Newman.
+1920d Hazel Green ED 235 (Stanley M. Ward, Jan 1920) — 52847 bytes. Newman tokens = 0.
+1920f Torrent ED 238 (Joel Cox, Jan 1920) — 79402 bytes. Newman tokens = 0.
+1920e Campton Precinct 3 reget — 37667 bytes. Newman tokens = 0. File prints PRECINCT NUMBER 3, no ED number.
+  Landing gap: 236 (1920a) then 238 (1920f). 1920e is the only compiled file without an ED number between those.
+  PROBABLE identification: Campton Precinct 3 = missing ED 237. Not proven from the file header.
+
+T1224 / 33-8
+Official pamphlet https://www.archives.gov/files/research/microfilm/t1224.pdf (32475 bytes, 17 pp, pypdf extract).
+  1930 descriptions = rolls 61–90. Roll 69 = Kansas / Kentucky.
+NARA HTML https://www.archives.gov/research/census/1930/enumeration-districts-descriptions.html same table.
+us-census.org Estill 1930 team page: 33-8 = Magisterial Dist. 3, Station Camp (South Part).
+IA censusdescripti1930unit (403 img, CA Los Angeles–Yuba) and censusdescriptio1930unit (424 img, CA Alameda–Los Angeles).
+  No Kentucky T1224 item on IA (title search numFound 2, both California).
+NARA catalog API = SPA HTML (not used as a source).
+
+1940 ESTILL COMPILED (LDSGenealogy name indexes)
+Irvine: Newnam Fred ~1895, Era ~1898, plus children (Dorothy J ~1931, Fred W ~1929, Helen ~1920, Lucille ~1925, Virginia ~1922, William ~1919).
+  Younger children possibly living — names withheld in biography. Fred+Era = PROBABLE C387 Fred L. of Irvine.
+  Not Boyd+Allie. Not Frank of Berea. Not John L+Cora.
+Red Lick: Newman Hendrix ~1885, Sarah E ~1886, John Beverly ~1917, Hairm D ~1915, Melvina Rose ~1922.
+  James Beverly ~1940 possibly living — withheld. Not Boyd+Allie.
+Forks / Riddleland Thomas / Miller Creek / Ravenna: Newman/Newnam tokens = 0.
+Station Camp / Station-Camp-Creek / Stationcamp URLs = HTTP 404 (unpublished).
+IA 16th-census Kentucky title search numFound 0 (no free T627 KY).
+
+B055 / B080 CITIZEN
+LOC item JSON https://www.loc.gov/item/sn85052076/?fo=json
+  The Citizen (Berea) 1899–1958. digitized=True. number_issue_count=1228.
+  number_first_issue=1899-06-21. number_last_issue=1922-12-28.
+  Paper notes: v.59 no.52 (26 Jun 1958). CA digital run ends 28 Dec 1922 — not June 1958.
+LOC item JSON https://www.loc.gov/item/sn85052075/?fo=json
+  The Berea Citizen 1958-current. digitized=False. Starts 3 Jul 1958.
+Hutchins RG 12/12.12 remains the June 1958 retrieval path.
+
+B082
+LDS FHL2 https://ldsgenealogy.com/cgi-bin/FHL2-KY.cgi?176022_Duell-Clark_Funeral_Home_records
+  points to FS catalog 1006308. Vol II 1958–1978 is the 1966 window. Images unread.
+  Do not print 1966 as fact.
+
+B069 / B047
+GT Estill military landing: 1818/1840/1883 pensions, 1890 vets, WWII, Vietnam — no WWI draft page.
+GT Owsley military landing: 1883 pensions, WWII, Vietnam — no WWI draft page.
+
+B045 / B061
+FS 127913 / 127869 / 1146342 = search-react SPA (R011 step 46). Do not re-ask Tyler Phillips.
+IA Solr Samuel+will+Lee = unrelated audio/CIA hits. No Lee will item.
+
+ESTILL PLACE NAMES (search-tool extract only; direct PDF GET 403)
+https://scholarworks.moreheadstate.edu/context/kentucky_county_histories/article/1185/viewcontent/Estill_PlaceNames.pdf
+  Sarah J. Newman, Deerwood postmaster 23 Jan 1906–resigned by 18 Aug 1914 move to Cantrill.
+  Winston first known as Newman Stand, probably Samuel Newman of 1850.
+  Newmans among Deerwood/Cantrill families. Not merged with Boyd or Samuel P. of Lee.
+
+FS / CA / SSDI
+FS catalog SPA. CA search API 403/404 this session. SSDI RootsWeb Rissie Pelfrey 403.
+
+Same-person
+John 38+Jennie still rejected. Floyd still not merged with Boyd. Hendrix 1885 Red Lick not merged with Boyd ~1875.
+Fred+Era 1940 Irvine PROBABLE = 1961 Fred L. #20/#26/#27 still open. Do not print 1966/1976/Floyd-as-Boyd/1962-as-McCoy/1942-Combs as fact.
+Living 1932 descendants withheld.

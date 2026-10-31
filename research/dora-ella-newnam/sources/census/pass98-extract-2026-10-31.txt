@@ -1,0 +1,34 @@
+Pass 98 extract — 31 Oct 2026
+Deceased-only. Living 1932-line descendants withheld.
+
+B088 catalogs
+- IA metadata 14thcensusofpopu602unit reconfirmed 515 images. Solr identifier 14thcensusofpopu*602* and title Fourteenth/14th + Wolfe/Antioch/Clifty returned other KY T625 rolls already walked (561/577/594/559/566…) — no new remainder item. Antioch 242 + remaining Clifty still not on a free IA item.
+- AHGP KY census-images listing (search-tool): Reel 602 = Wayne 258–275, Wolfe 234–242, Whitley 276–302. Confirms the missing precincts belong on this reel.
+- LDS 1940 Stillwater, Wolfe: Newman, Mae ~1905 only. No John, Cora, Boyd, Allie, McCoy. *Index only.*
+- NARA 1950 Wolfe Newman total 0 / Newnam total 0.
+
+B089 / B082 / B055 — other-pass evidence
+- LDS 1940 Midway, Woodford: Newman/Newnam tokens 0. *Index only.*
+- LDS 1940 Market House, Woodford: Newman, Hubert ~1878 + Orie ~1888 + Alice ~1926. REJECTED vs John L + Cora (PROVEN Owsley 1940). *Index only.*
+- LDS Woodford census landing: only Midway + Market House free 1940 compiled. Versailles unpublished.
+- LDS 1940 Paint Lick, Garrard (adjacent, not Madison): Newman/Newnam 0. *Index only.*
+- LDS 1940 Foxtown, Jackson (page title; not Madison): Newman, Shelby ~1893 + Grace ~1898 + children (younger names withheld). PROBABLE 1913 Lee / 1950 Richmond couple (C309 C523). Not Frank contractor. Allie Brandenburg ~1875 in same precinct REJECTED vs Allie ~1885.
+- LDS 1940 guessed precincts (Campton/Hazel Green/Lee City/Torrent/Holly/Antioch/Clifty/Versailles/Proctor/Sturgeon/Idamay/Station Camp 1930 etc.) = 404.
+- NARA 1950 Estill Newman 0 / Newnam 3 — reconfirms C955 (Fred Irvine; Hendrix-line 33-13; Vertie 33-6). No Boyd/Allie.
+- NARA 1950 Woodford Newman 5: ED 120-13 sheet 0012 newman Juhn + cocan = John 70 + Cora 56 (C525). Clinton / Kenneth / Herbert not merged.
+- Statewide Boyd Newman / Allie Newman APIs are given-name fuzzy (Harlan first page). Not used as a county negative beyond Wolfe 0 and Estill 0/3.
+
+B069 / B047 — 1950 Lee visual
+- NARA 1950 Lee ED 65-1 Beattyville sheet 0020 (image seen): hh 198 Newman, Luther D., 28, KY, head; Cora P., 28, wife; one younger child withheld. REJECTED vs Rev. Luther b. 1891 d. 1945 (C305).
+- Same ED sheet 0021 (image seen): hh 196 Newman, Cora P., 56, head + adult kin. PROBABLE Cora Plummer widow (C541). Already known from S408.
+
+B045 / B061 / B089 catalogs
+- FS 127913 / 127869 / 1146342 / 1006308 search-react SPA (~19 KB). R011 step 48. Do not re-ask Tyler Phillips.
+- LDS FHL2 Estill newspaper abstracts 1913–Feb 1946 (Irvine Sun / Estill Herald / Irvine Times) points to FS catalog 520482. Images unread.
+- FS wiki Wolfe/Estill/Woodford = Imperva interstitial (not a genealogy page).
+- NARA catalog API = SPA shell.
+- ExploreUK Newnam search = Anubis bot wall.
+- IA Solr Irvine Times / Estill Herald / Irvine Sun numFound 0.
+
+Same-person
+- John 38+Jennie still rejected. Floyd still not merged. Hubert+Orie Market House rejected vs John L. Luther D. 28 rejected vs C305. Shelby+Grace Foxtown Jackson PROBABLE C309. Mae Stillwater not a target. #20 #26 #27 open.

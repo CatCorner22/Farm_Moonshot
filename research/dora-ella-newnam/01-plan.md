@@ -563,6 +563,156 @@ Exact strings logged **L806–L820**.
 
 Exact strings logged **L821–L840**.
 
+### Pass 95 variant storm (31 Oct 2026)
+
+**John / Cora / McCoy Newman (B088)** — John/Jno/Johnnie × Newman/Newnam/newnarn/newan/Noonan/Nunan. Combined: "John Newman" | "Newman, John" | Newman + filter John*. Cora × Newman/Newnam/Brandenburg. McCoy/Coy / Mc Coy. Soundex **N550** / **M200**.
+
+**Boyd / Allie / Floyd (B089)** — Boyd/Boyde/Floyd × Newman/Newnam. Allie/Ollie × Brandenburg/Brandburg. Soundex **N550** / **B653** / **B300**.
+
+**Frank of Berea (B055/B080)** — Frank/David F./David G. × Newnam/Newman/newnarn/newan/newnom/Noonan. Combined: "Frank Newnam" | "Newnam, Frank" | newman + filter Frank*. OCR given: Frank → frank / frenk / frnuk. Soundex **N550**.
+
+**Rissie (B016, deceased-only)** — Rissie/Rissa × Newnam/Newman/newnarn/Stamper/Pelfrey. Skip living Pelfrey survivors.
+
+**Dora Stone 1926 (B049/B058)** — Dora/posa/dosa/rosa/dona/dara/dore/dori/dola/pora/rora × Stone/storie/stona/stome/Newman/Newnam. Soundex **S350** / **N550**.
+
+**OCR given** — Dora → posa / dosa / rosa / dona / dara / dore / dori / dola / pora / rora.
+
+**OCR surname** — Newman → newnam / newnarn / newan.
+
+**Place** — Antioch **242** Precinct 8 / Clifty **241** Precinct 7 / Devil's Creek / Lower Flat / Station Camp South **33-8** / Station Camp North **33-7** / T625-**603** remainder / T626-**743** remainder / Woodford / Berea / Madison / Yell / Ola.
+
+**ED / precinct misreads** — 242/241/240; 33-8/33-7/33-9; 602/603; 742/743.
+
+**Certs** — 17762 RD **036**; 28501; 31780; 1524 RD **676**; Madison **13719** vol **028** (David G. 1958). Cross-id Clarence delayed **49261**; Arthur **49665**.
+
+**Samuel P. Newnam** — films **127913 / 127869 / 1146342** (SPA expected, R011 step **45**).
+
+Exact strings logged **L841–L860**.
+
+### Pass 96 variant storm (31 Oct 2026)
+
+**John / Cora / McCoy Newman (B088)** — John/Jno/Johnnie × Newman/Newnam/newnarn/newan/Noonan/Nunan. Combined: "John Newman" | "Newman, John" | Newman + filter John*. Cora × Newman/Newnam/Brandenburg. McCoy/Coy / Mc Coy. Soundex **N550** / **M200**.
+
+**Boyd / Allie / Floyd (B089)** — Boyd/Boyde/Floyd × Newman/Newnam. Allie/Ollie × Brandenburg/Brandburg. Soundex **N550** / **B653** / **B300**.
+
+**Frank of Berea (B055/B080)** — Frank/David F./David G. × Newnam/Newman/newnarn/newan/newnom/Noonan. Combined: "Frank Newnam" | "Newnam, Frank" | newman + filter Frank*. OCR given: Frank → frank / frenk / frnuk. Soundex **N550**.
+
+**Rissie (B016, deceased-only)** — Rissie/Rissa × Newnam/Newman/newnarn/Stamper/Pelfrey. Skip living Pelfrey survivors.
+
+**Dora Stone 1926 (B049/B058)** — Dora/posa/dosa/rosa/dona/dara/dore/dori/dola/pora/rora × Stone/storie/stona/stome/Newman/Newnam. Soundex **S350** / **N550**.
+
+**Samuel P. Newnam (B045/B061)** — Samuel/Sam/Saml × Newnam/Newman/newnarn + will/estate/administrator/intestate/Lee. Films **127913 / 127869 / 1146342** (SPA expected, R011 step **46**).
+
+**WWI (B069/B047)** — John H / McCoy / Coy / Luther × Newnam/Newman + draft/M1509/KY45/KY24/KY74.
+
+**OCR given** — Dora → posa / dosa / rosa / dona / dara / dore / dori / dola / pora / rora.
+
+**OCR surname** — Newman → newnam / newnarn / newan.
+
+**Place** — Antioch **242** Precinct 8 / Clifty **241** Precinct 7 / Devil's Creek / Lower Flat / Station Camp South **33-8** / Station Camp North **33-7** / T1224 ED descriptions / T625-**602** remainder / Woodford / Berea / Madison / Yell / Ola / 1940 Estill.
+
+**ED / precinct misreads** — 242/241/240; 33-8/33-7/33-9; 095A/102B; 1920b/1920j.
+
+**Certs** — 17762 RD **036**; 28501; 31780; 1524 RD **676**; Madison **13719** vol **028**. Cross-id Clarence delayed **49261**; Arthur **49665**.
+
+Exact strings logged **L861–L876**.
+
+### Pass 97 variant storm (31 Oct 2026)
+
+**John / Cora / McCoy Newman (B088)** — John/Jno/Johnnie × Newman/Newnam/newnarn/newan/Noonan/Nunan. Combined: "John Newman" | "Newman, John" | Newman + filter John*. Cora × Newman/Newnam/Brandenburg. McCoy/Coy / Mc Coy. Soundex **N550** / **M200**.
+
+**Boyd / Allie / Floyd (B089)** — Boyd/Boyde/Floyd × Newman/Newnam. Allie/Ollie × Brandenburg/Brandburg. Soundex **N550** / **B653** / **B300**.
+
+**Frank of Berea (B055/B080)** — Frank/David F./David G. × Newnam/Newman/newnarn/newan/newnom/Noonan. Combined: "Frank Newnam" | "Newnam, Frank" | newman + filter Frank*. OCR given: Frank → frank / frenk / frnuk. Soundex **N550**.
+
+**Grant / Luther (FAN, deceased-only)** — Grant/Grand × Newman/Newnam. Luther × Newman/Newnam + Cora Plummer. Soundex **N550**.
+
+**Rissie (B016, deceased-only)** — Rissie/Rissa × Newnam/Newman/newnarn/Stamper/Pelfrey. Skip living Pelfrey survivors.
+
+**Dora Stone 1926 (B049/B058)** — Dora/posa/dosa/rosa/dona/dara/dore/dori/dola/pora/rora × Stone/storie/stona/stome/Newman/Newnam. Soundex **S350** / **N550**.
+
+**OCR given** — Dora → posa / dosa / rosa / dona / dara / dore / dori / dola / pora / rora.
+
+**OCR surname** — Newman → newnam / newnarn / newan.
+
+**Place** — Antioch **242** / Clifty **241** / Station Camp South **33-8** / M1930 roll **22** Estill / M1930 roll **23** Lee–Woodford / 1940 Berea / Richmond / Kirksville / Million / Union / Beattyville / Heidelberg / Saint Helens / New Virginia / Fayette 1950 / Yell County Journal.
+
+**ED / precinct misreads** — 33-8/33-7; roll 22/23; Berea/Glade; Grand/Grant.
+
+**Certs** — 17762 RD **036**; 28501; 31780; 1524 RD **676**; Madison **13719** vol **028**.
+
+**Samuel P. Newnam** — films **127913 / 127869 / 1146342 / 1006308** (SPA expected, R011 step **47**).
+
+Exact strings logged **L877–L895**.
+
+### Pass 98 variant storm (31 Oct 2026)
+
+**John / Cora / McCoy Newman (B088)** — John/Jno/Johnnie × Newman/Newnam/newnarn/newan/Noonan/Nunan. Combined: "John Newman" | "Newman, John" | Newman + filter John*. Cora × Newman/Newnam/Brandenburg. McCoy/Coy / Mc Coy. Soundex **N550** / **M200**.
+
+**Boyd / Allie / Floyd (B089)** — Boyd/Boyde/Floyd × Newman/Newnam. Allie/Ollie × Brandenburg/Brandburg. Soundex **N550** / **B653** / **B300**.
+
+**Frank of Berea (B055/B080)** — Frank/David F./David G. × Newnam/Newman/newnarn/newan/newnom/Noonan. Combined: "Frank Newnam" | "Newnam, Frank" | newman + filter Frank*. OCR given: Frank → frank / frenk / frnuk. Soundex **N550**.
+
+**Luther / Cora P. (B069)** — Luther/Luther D. × Newman/Newnam + Cora P. / Plummer. Soundex **N550**.
+
+**Rissie (B016, deceased-only)** — Rissie/Rissa × Newnam/Newman/newnarn/Stamper/Pelfrey. Skip living Pelfrey survivors.
+
+**Dora Stone 1926 (B049/B058)** — Dora/posa/dosa/rosa/dona/dara/dore/dori/dola/pora/rora × Stone/storie/stona/stome/Newman/Newnam. Soundex **S350** / **N550**.
+
+**Place** — Antioch **242** / Clifty **241** / Station Camp South **33-8** / Stillwater / Midway / Market House / Foxtown (Jackson) / Paint Lick (Garrard) / Beattyville 65-1.
+
+**Certs** — 17762 RD **036**; 28501; 31780; 1524 RD **676**; Madison **13719** vol **028**.
+
+**Samuel P. Newnam** — films **127913 / 127869 / 1146342 / 1006308 / 520482** (SPA expected, R011 step **48**).
+
+Exact strings logged **L896–L915**.
+
+### Pass 99 variant storm (31 Oct 2026)
+
+**John / Cora / McCoy Newman (B088)** — John/Jno/Johnnie/Johnia × Newman/Newnam/newnarn/newan/Noonan/Nunan. Combined: "John Newman" | "Newman, John" | Newman + filter John*. Cora × Newman/Newnam/Brandenburg. McCoy/Coy / Mc Coy. Soundex **N550** / **M200**.
+
+**Boyd / Allie / Floyd (B089)** — Boyd/Boyde/Floyd × Newman/Newnam. Allie/Ollie × Brandenburg/Brandburg. Soundex **N550** / **B653** / **B300**.
+
+**Frank of Berea (B055/B080)** — Frank/David F./David G. × Newnam/Newman/newnarn/newan/newnom/Noonan. Soundex **N550**.
+
+**Martha / Johnia / Dillard / Thomas Ray (FAN rejects)** — Martha × Newnam (age 51 vs ~68). Johnia/Johnnie ~1896. Dillard ~1903. Thomas Ray ~1923. Soundex **N550**.
+
+**Shelby / Grace (B055)** — Shelby/Shelly × Grace/Brandenburg. Place Foxtown Jackson / Richmond Madison / Jackson 55-6.
+
+**Rissie (B016, deceased-only)** — Rissie/Rissa × Newnam/Newman/newnarn/Stamper/Pelfrey.
+
+**Dora Stone 1926 (B049/B058)** — Dora/posa/dosa/rosa/dona × Stone/Newman/Newnam. Soundex **S350** / **N550**.
+
+**Place** — Antioch **242** / Clifty **241** / **33-8** / Lee **65-1 / 65-12 / 65-13** / Owsley **95-3** / Jackson **55-6** / McKee / Clover Bottom / Stanton / Wolfe **1920g/h/i/k**.
+
+**ED / precinct misreads** — Alcorn=Greenup not Jackson; Lost Creek=Perry not Breathitt; Foxtown=Jackson not Madison; Paint Lick=Garrard not Madison.
+
+**Certs** — 17762 RD **036**; 28501; 31780; 1524 RD **676**.
+
+**Samuel P. Newnam** — films **127913 / 127869 / 1146342 / 1006308 / 520482** (403 expected, R011 step **49**).
+
+Exact strings logged **L916–L935**.
+
+### Pass 100 variant storm (31 Oct 2026)
+
+**John / Cora / McCoy Newman (B088)** — John/Jno/Johnnie/Johnia × Newman/Newnam/newnarn/newan/Noonan/Nunan. Combined: "John Newman" | "Newman, John" | Newman + filter John*. Cora × Newman/Newnam/Brandenburg. McCoy/Coy / Mc Coy. Soundex **N550** / **M200**.
+
+**Boyd / Allie / Floyd / Fred / Harding (B089)** — Boyd/Boyde/Floyd × Newman/Newnam. Allie/Ollie × Brandenburg. Fred/Era × Newman/Newnam. Harding/Vertie. Soundex **N550** / **B653**.
+
+**Frank of Berea (B055/B080)** — Frank/David F./David G./William/Hiram/Zelma/Lee × Newnam/Newman/newnarn/newan. Soundex **N550**.
+
+**Rissie (B016, deceased-only)** — Rissie/Rissa × Newnam/Newman/newnarn/Stamper/Pelfrey.
+
+**Dora Stone 1926 (B049/B058)** — Dora/posa/dosa/rosa/dona/dara/dore/dori/dola × Stone/storie/stona/stome/Newman/Newnam. Soundex **S350** / **N550**.
+
+**Place** — Antioch **242** / Clifty **241** / **33-8** / Estill **33-1 / 33-6 / 33-13** / Lee **65-2 / 65-12** / Madison **76-3 / 76-9 / 76-22 / 76-28 / 76-33**.
+
+**Certs** — 17762 RD **036**; 28501; 31780; 1524 RD **676**.
+
+**Samuel P. Newnam** — films **127913 / 127869 / 1146342 / 1006308 / 520482** (403 expected, R011 step **50**).
+
+Exact strings logged **L936–L964**.
+
 ## Agent SDK / GitHub channel
 
 Inspected 30 Oct 2026 (**L351**): this repository has **no** `package.json`, **no** `@grok/agent-sdk`, **no** `bot/` directory. GitHub channel `bot/channels/github.ts` is **n/a** and was **not** authored. Project subagent: `.cursor/agents/dora-genealogy-detective.md`.

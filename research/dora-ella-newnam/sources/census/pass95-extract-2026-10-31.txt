@@ -1,0 +1,32 @@
+Pass 95 extract — 31 Oct 2026
+B088 Antioch 242 / remaining Clifty after sh 1 — catalog + compiled remaining Wolfe
+B089 Estill 33-8 — reel 743 proven Fayette, not missing Estill
+B045/B061 probate substitutes; B069/B047 M1509 official roll map; B082 Woodford; B016 Rissie; B049/B058 1926; B055/B080 Hutchins Citizen
+
+IA 14thcensusofpopu603unit = Louisiana 14th census (by parishes), 1122 images. NOT KY Wolfe remainder (C1008).
+IA 14thcensusofpopu602unit imagecount 515 reconfirmed. Ends Clifty 241 sh 1. Antioch 242 + remaining Clifty not on this scan (C1009).
+Compiled Wolfe 1920a Campton ED 236 (Carole Bays; hh 1–205) NIL Newman/Newnam/Noonan/Nunan/McCoy (C1010).
+Compiled Wolfe 1920e Campton Precinct 3 (hh ~1–154) NIL same (C1011).
+LDS Wolfe 1920 compiled parts: Pt 1 9th Dist / Pt 2 Lee City / Pt 3 Hazel Green / Pt 4 Campton 3 / Pt 5 Torrent / Pt 7 Stillwater. No Antioch/Clifty compiled part on that landing (C1012).
+
+T626-743 leaf 0002 title: KY Vol 25 Fayette EDs 34-1–11 & 34-24–26 (part); Vol 26 Fayette 34-12–23 & 34-41–42 (part). NOT Estill (C1014).
+T626-743 leaf 0003 card: FAYETTE CO. EDs 34-1–11 & 34-24–26 (part) (C1015).
+T626-743 leaf 0004: Lexington City ED 34-1 sh 1A, 2 Apr 1930. First population sheet is Fayette (C1016).
+IA metadata reel 742 = Daviess 30-34–50, Edmonson, Estill, Grant; reel 743 = Fayette; 987 images (C1017).
+us-census Estill 1930: 33-8 Station Camp South stamped 095A–102B unpublished; 33-9 Red Lick West 103A–116A unpublished (C1018).
+
+FS 127913 / 127869 / 1146342 SPA ~855 B (R011-45). Do not re-ask Tyler Phillips (C1013).
+IA Solr Lee will/probate numFound 0 (C1019).
+USGenNet wills.html 404; wills/index.html: Jane Steele NEWMAN + Elizabeth Newnam + F. Newnam TINCHER — no Samuel P. (C1020).
+Official NARA M1509 pamphlet: KY45 Lee A–Z (with Lawrence K–Z + Leslie A–Z); KY74 Owsley A–Z (with Oldham + Owen); KY24 Estill A–Z (with Edmonson T–Z + Elliott + Fayette A–E); KY64 Madison N–Z; KY90 Wolfe C–Z + Woodford A–Z. Cards unread (C1021).
+IA Solr M1509 0. GT Lee WWI N table still unpublished (C1022).
+IA Solr Duell-Clark 6 unrelated (Donne / 1668 poem / 1690 sermon) (C1023).
+KYGenWeb Woodford obits = Wix SPA. CourtListener anonymous denied (C1024).
+CA 1926 / Citizen 1958 + SortedByName Rissie = Cloudflare challenge (C1025).
+Berea archives RG 12/12.12: The Citizen through June 1958 on Hutchins microfilm; renamed Berea Citizen after June 1958; print 1899–1983 incomplete (missing 1963); CA note LCCN sn85052075 (C1026).
+LDS Estill 1930 = Ancestry/MyHeritage paywalled; no free 33-8 transcript (C1027).
+AHGP ky census images Cloudflare this session — not used as a 742 source (C1029).
+
+Do not print 1966, 1976, Floyd-as-Boyd, 1962 as McCoy death, or 1942 Combs charge as fact.
+Living 1932 descendants withheld.
+Authored latest.docx SHA 78cdcf44… not overwritten.

@@ -949,3 +949,45 @@ Same district, sheet 1A, leaf 698 — start of Bell district 34.
 Same district, sheet 14A, leaf 819 — official-looking end.
 
 ![Estill 1930 33-7 Station Camp North end](sources/census/estill-1930-ed337-0819-stationcamp-end-pass90.jpg)
+
+**Source:** S706 · C1014
+
+1930 U.S. census, Kentucky reel 743 title card — Fayette County volumes 25 and 26, not Estill.
+
+![Fayette 1930 T626-743 title](sources/census/fayette-1930-t626-743-title-pass95.jpg)
+
+**Source:** S707 · C1015
+
+Same reel, Fayette County card, EDs 34-1 to 34-11 and 34-24 to 34-26.
+
+![Fayette 1930 T626-743 card](sources/census/fayette-1930-t626-743-card-pass95.jpg)
+
+**Source:** S708 · C1016
+
+1930 U.S. census, Fayette County, Kentucky, Lexington City, ED 34-1, sheet 1A, 2 April 1930.
+
+![Fayette 1930 Lexington ED 34-1 sheet 1A](sources/census/fayette-1930-ed341-lexington-1a-pass95.jpg)
+
+**Source:** S779 · C1090
+
+1950 U.S. census, Lee County, Kentucky, Beattyville ED 65-1, sheet 21, household 196 — Cora P. Newnam, 56, widow, with Charlie Plummer, brother.
+
+![Lee 1950 Cora P + Charlie Plummer](sources/census/pass98/lee-1950-65-1-0021-corap.jpg)
+
+**Source:** S811 · C1122
+
+1950 U.S. census, Estill County, Kentucky, Irvine ED 33-1, form sheet 2, household 14 — Newnam, Fred 55 + Era R 52 + Dorothy J 19. Proven 1940 Irvine couple.
+
+![Estill 1950 Fred + Era](sources/census/pass100/estill-1950-33-1-0003-fred.jpg)
+
+**Source:** S811 · C1122
+
+Same household, original-tone crop.
+
+![Estill 1950 Fred tight crop](sources/census/pass100/crops/fred-tight.jpg)
+
+**Source:** S812 · C1124
+
+1950 U.S. census, Estill County, Kentucky, ED 33-13 sheet 21 household 155 — Harding 65 + Sarah 64, rejected versus Boyd and Allie.
+
+![Estill 1950 Harding reject](sources/census/pass100/estill-1950-33-13-0021-planding.jpg)

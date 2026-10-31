@@ -1,0 +1,130 @@
+[
+  {
+    "url": "https://1950census.archives.gov/iiif/2/1950census%2F43290879-Kentucky%2F43290879-Kentucky-138762%2F43290879-Kentucky-138762-0024.jpg/full/1600,/0/default.jpg",
+    "dest": "/workspace/research/dora-ella-newnam/sources/census/pass99/jackson-1950-55-6-0024-newman.jpg",
+    "ok": true,
+    "code": 200,
+    "bytes": 720689,
+    "ctype": "image/jpeg"
+  },
+  {
+    "url": "https://1950census.archives.gov/iiif/2/1950census%2F43290879-Kentucky%2F43290879-Kentucky-162262%2F43290879-Kentucky-162262-0002.jpg/full/1600,/0/default.jpg",
+    "dest": "/workspace/research/dora-ella-newnam/sources/census/pass99/lee-1950-65-13-0002-martha.jpg",
+    "ok": true,
+    "code": 200,
+    "bytes": 813309,
+    "ctype": "image/jpeg"
+  },
+  {
+    "url": "https://1950census.archives.gov/iiif/2/1950census%2F43290879-Kentucky%2F43290879-Kentucky-162262%2F43290879-Kentucky-162262-0011.jpg/full/1600,/0/default.jpg",
+    "dest": "/workspace/research/dora-ella-newnam/sources/census/pass99/lee-1950-65-13-0011-johnia.jpg",
+    "ok": true,
+    "code": 200,
+    "bytes": 811582,
+    "ctype": "image/jpeg"
+  },
+  {
+    "url": "https://1950census.archives.gov/iiif/2/1950census%2F43290879-Kentucky%2F43290879-Kentucky-162261%2F43290879-Kentucky-162261-0021.jpg/full/1600,/0/default.jpg",
+    "dest": "/workspace/research/dora-ella-newnam/sources/census/pass99/lee-1950-65-12-0021-dillard.jpg",
+    "ok": true,
+    "code": 200,
+    "bytes": 762151,
+    "ctype": "image/jpeg"
+  },
+  {
+    "url": "https://1950census.archives.gov/iiif/2/1950census%2F43290879-Kentucky%2F43290879-Kentucky-162250%2F43290879-Kentucky-162250-0010.jpg/full/1600,/0/default.jpg",
+    "dest": "/workspace/research/dora-ella-newnam/sources/census/pass99/lee-1950-65-1-0010-full.jpg",
+    "ok": true,
+    "code": 200,
+    "bytes": 729067,
+    "ctype": "image/jpeg"
+  },
+  {
+    "url": "https://1950census.archives.gov/iiif/2/1950census%2F43290879-Kentucky%2F43290879-Kentucky-132516%2F43290879-Kentucky-132516-0023.jpg/full/1200,/0/default.jpg",
+    "dest": "/workspace/research/dora-ella-newnam/sources/census/pass99/owsley-1950-95-3-0023-newman.jpg",
+    "ok": true,
+    "code": 200,
+    "bytes": 487422,
+    "ctype": "image/jpeg"
+  },
+  {
+    "url": "https://ldsgenealogy.com/KY/1940-Census-McKee-KY.htm",
+    "dest": "/workspace/research/dora-ella-newnam/sources/census/pass99/lds-1940-mckee.html",
+    "ok": true,
+    "code": 200,
+    "bytes": 154507,
+    "ctype": "text/html"
+  },
+  {
+    "url": "https://ldsgenealogy.com/KY/1940-Census-Alcorn-KY.htm",
+    "dest": "/workspace/research/dora-ella-newnam/sources/census/pass99/lds-1940-alcorn.html",
+    "ok": true,
+    "code": 200,
+    "bytes": 118990,
+    "ctype": "text/html"
+  },
+  {
+    "url": "https://ldsgenealogy.com/KY/1940-Census-Clover-Bottom-KY.htm",
+    "dest": "/workspace/research/dora-ella-newnam/sources/census/pass99/lds-1940-clover-bottom.html",
+    "ok": true,
+    "code": 200,
+    "bytes": 96058,
+    "ctype": "text/html"
+  },
+  {
+    "url": "https://ldsgenealogy.com/KY/1940-Census-Cavanaugh-KY.htm",
+    "dest": "/workspace/research/dora-ella-newnam/sources/census/pass99/lds-1940-cavanaugh.html",
+    "ok": true,
+    "code": 200,
+    "bytes": 133805,
+    "ctype": "text/html"
+  },
+  {
+    "url": "https://ldsgenealogy.com/KY/1940-Census-Horse-Lick-KY.htm",
+    "dest": "/workspace/research/dora-ella-newnam/sources/census/pass99/lds-1940-horse-lick.html",
+    "ok": true,
+    "code": 200,
+    "bytes": 200921,
+    "ctype": "text/html"
+  },
+  {
+    "url": "https://ldsgenealogy.com/KY/1940-Census-Pondcreek-KY.htm",
+    "dest": "/workspace/research/dora-ella-newnam/sources/census/pass99/lds-1940-pondcreek.html",
+    "ok": true,
+    "code": 200,
+    "bytes": 209296,
+    "ctype": "text/html"
+  },
+  {
+    "url": "https://ldsgenealogy.com/KY/1940-Census-Sturgeen-KY.htm",
+    "dest": "/workspace/research/dora-ella-newnam/sources/census/pass99/lds-1940-sturgeen.html",
+    "ok": true,
+    "code": 200,
+    "bytes": 115917,
+    "ctype": "text/html"
+  },
+  {
+    "url": "https://ldsgenealogy.com/KY/1940-Census-Stanton-KY.htm",
+    "dest": "/workspace/research/dora-ella-newnam/sources/census/pass99/lds-1940-stanton.html",
+    "ok": true,
+    "code": 200,
+    "bytes": 55722,
+    "ctype": "text/html"
+  },
+  {
+    "url": "https://ldsgenealogy.com/KY/1940-Census-Lost-Creek-KY.htm",
+    "dest": "/workspace/research/dora-ella-newnam/sources/census/pass99/lds-1940-lost-creek.html",
+    "ok": true,
+    "code": 200,
+    "bytes": 106496,
+    "ctype": "text/html"
+  },
+  {
+    "url": "https://ldsgenealogy.com/KY/Owsley-County-Census-Records.htm",
+    "dest": "/workspace/research/dora-ella-newnam/sources/catalog/lds-owsley-census-pass99.html",
+    "ok": true,
+    "code": 200,
+    "bytes": 13152,
+    "ctype": "text/html"
+  }
+]

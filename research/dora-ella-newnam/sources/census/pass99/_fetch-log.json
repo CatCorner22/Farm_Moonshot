@@ -1,0 +1,392 @@
+[
+  {
+    "url": "https://1950census.archives.gov/api/search?name=Newman&state=KY&county=Lee",
+    "dest": "/workspace/research/dora-ella-newnam/sources/census/pass99/nara-1950-newman-lee.json",
+    "ok": true,
+    "code": 200,
+    "bytes": 9175,
+    "ctype": "application/json",
+    "final": "https://1950census.archives.gov/api/search?name=Newman&state=KY&county=Lee"
+  },
+  {
+    "url": "https://1950census.archives.gov/api/search?name=Newnam&state=KY&county=Lee",
+    "dest": "/workspace/research/dora-ella-newnam/sources/census/pass99/nara-1950-newnam-lee.json",
+    "ok": true,
+    "code": 200,
+    "bytes": 4789,
+    "ctype": "application/json",
+    "final": "https://1950census.archives.gov/api/search?name=Newnam&state=KY&county=Lee"
+  },
+  {
+    "url": "https://1950census.archives.gov/api/search?name=Newman&state=KY&county=Owsley",
+    "dest": "/workspace/research/dora-ella-newnam/sources/census/pass99/nara-1950-newman-owsley.json",
+    "ok": true,
+    "code": 200,
+    "bytes": 3477,
+    "ctype": "application/json",
+    "final": "https://1950census.archives.gov/api/search?name=Newman&state=KY&county=Owsley"
+  },
+  {
+    "url": "https://1950census.archives.gov/api/search?name=Newnam&state=KY&county=Owsley",
+    "dest": "/workspace/research/dora-ella-newnam/sources/census/pass99/nara-1950-newnam-owsley.json",
+    "ok": true,
+    "code": 200,
+    "bytes": 43,
+    "ctype": "application/json",
+    "final": "https://1950census.archives.gov/api/search?name=Newnam&state=KY&county=Owsley"
+  },
+  {
+    "url": "https://1950census.archives.gov/api/search?name=McCoy&state=KY&county=Owsley",
+    "dest": "/workspace/research/dora-ella-newnam/sources/census/pass99/nara-1950-mccoy-owsley.json",
+    "ok": true,
+    "code": 200,
+    "bytes": 43,
+    "ctype": "application/json",
+    "final": "https://1950census.archives.gov/api/search?name=McCoy&state=KY&county=Owsley"
+  },
+  {
+    "url": "https://1950census.archives.gov/api/search?name=McCoy&state=KY&county=Lee",
+    "dest": "/workspace/research/dora-ella-newnam/sources/census/pass99/nara-1950-mccoy-lee.json",
+    "ok": true,
+    "code": 200,
+    "bytes": 43,
+    "ctype": "application/json",
+    "final": "https://1950census.archives.gov/api/search?name=McCoy&state=KY&county=Lee"
+  },
+  {
+    "url": "https://1950census.archives.gov/api/search?name=Newman&state=KY&county=Jackson",
+    "dest": "/workspace/research/dora-ella-newnam/sources/census/pass99/nara-1950-newman-jackson.json",
+    "ok": true,
+    "code": 200,
+    "bytes": 1016,
+    "ctype": "application/json",
+    "final": "https://1950census.archives.gov/api/search?name=Newman&state=KY&county=Jackson"
+  },
+  {
+    "url": "https://1950census.archives.gov/api/search?name=Newnam&state=KY&county=Jackson",
+    "dest": "/workspace/research/dora-ella-newnam/sources/census/pass99/nara-1950-newnam-jackson.json",
+    "ok": true,
+    "code": 200,
+    "bytes": 43,
+    "ctype": "application/json",
+    "final": "https://1950census.archives.gov/api/search?name=Newnam&state=KY&county=Jackson"
+  },
+  {
+    "url": "https://1950census.archives.gov/api/search?name=Newman&state=KY&county=Powell",
+    "dest": "/workspace/research/dora-ella-newnam/sources/census/pass99/nara-1950-newman-powell.json",
+    "ok": true,
+    "code": 200,
+    "bytes": 43,
+    "ctype": "application/json",
+    "final": "https://1950census.archives.gov/api/search?name=Newman&state=KY&county=Powell"
+  },
+  {
+    "url": "https://1950census.archives.gov/api/search?name=Frank%20Newman&state=KY&county=Madison",
+    "dest": "/workspace/research/dora-ella-newnam/sources/census/pass99/nara-1950-frank-newman-madison.json",
+    "ok": true,
+    "code": 200,
+    "bytes": 32690,
+    "ctype": "application/json",
+    "final": "https://1950census.archives.gov/api/search?name=Frank%20Newman&state=KY&county=Madison"
+  },
+  {
+    "url": "https://1950census.archives.gov/api/search?name=David%20G%20Newman&state=KY&county=Madison",
+    "dest": "/workspace/research/dora-ella-newnam/sources/census/pass99/nara-1950-davidg-newman-madison.json",
+    "ok": true,
+    "code": 200,
+    "bytes": 31306,
+    "ctype": "application/json",
+    "final": "https://1950census.archives.gov/api/search?name=David%20G%20Newman&state=KY&county=Madison"
+  },
+  {
+    "url": "https://1950census.archives.gov/api/search?name=Boyd%20Newman&state=KY&county=Estill",
+    "dest": "/workspace/research/dora-ella-newnam/sources/census/pass99/nara-1950-boyd-newman-estill.json",
+    "ok": true,
+    "code": 200,
+    "bytes": 21943,
+    "ctype": "application/json",
+    "final": "https://1950census.archives.gov/api/search?name=Boyd%20Newman&state=KY&county=Estill"
+  },
+  {
+    "url": "https://1950census.archives.gov/api/search?name=Allie%20Newman&state=KY&county=Estill",
+    "dest": "/workspace/research/dora-ella-newnam/sources/census/pass99/nara-1950-allie-newman-estill.json",
+    "ok": true,
+    "code": 200,
+    "bytes": 24681,
+    "ctype": "application/json",
+    "final": "https://1950census.archives.gov/api/search?name=Allie%20Newman&state=KY&county=Estill"
+  },
+  {
+    "url": "https://1950census.archives.gov/api/search?name=Boyd%20Newman&state=KY&county=Fayette",
+    "dest": "/workspace/research/dora-ella-newnam/sources/census/pass99/nara-1950-boyd-newman-fayette.json",
+    "ok": true,
+    "code": 200,
+    "bytes": 30954,
+    "ctype": "application/json",
+    "final": "https://1950census.archives.gov/api/search?name=Boyd%20Newman&state=KY&county=Fayette"
+  },
+  {
+    "url": "https://ldsgenealogy.com/KY/Owsley-County-Census-Records.htm",
+    "dest": "/workspace/research/dora-ella-newnam/sources/catalog/lds-owsley-census-pass99.html",
+    "ok": true,
+    "code": 200,
+    "bytes": 13152,
+    "ctype": "text/html",
+    "final": "https://ldsgenealogy.com/KY/Owsley-County-Census-Records.htm"
+  },
+  {
+    "url": "https://ldsgenealogy.com/KY/Jackson-County-Census-Records.htm",
+    "dest": "/workspace/research/dora-ella-newnam/sources/catalog/lds-jackson-census-pass99.html",
+    "ok": true,
+    "code": 200,
+    "bytes": 15052,
+    "ctype": "text/html",
+    "final": "https://ldsgenealogy.com/KY/Jackson-County-Census-Records.htm"
+  },
+  {
+    "url": "https://ldsgenealogy.com/KY/Powell-County-Census-Records.htm",
+    "dest": "/workspace/research/dora-ella-newnam/sources/catalog/lds-powell-census-pass99.html",
+    "ok": true,
+    "code": 200,
+    "bytes": 12591,
+    "ctype": "text/html",
+    "final": "https://ldsgenealogy.com/KY/Powell-County-Census-Records.htm"
+  },
+  {
+    "url": "https://ldsgenealogy.com/KY/Breathitt-County-Census-Records.htm",
+    "dest": "/workspace/research/dora-ella-newnam/sources/catalog/lds-breathitt-census-pass99.html",
+    "ok": true,
+    "code": 200,
+    "bytes": 17594,
+    "ctype": "text/html",
+    "final": "https://ldsgenealogy.com/KY/Breathitt-County-Census-Records.htm"
+  },
+  {
+    "url": "https://ldsgenealogy.com/KY/Lee-County-Death-Records.htm",
+    "dest": "/workspace/research/dora-ella-newnam/sources/catalog/lds-lee-deaths-pass99.html",
+    "ok": true,
+    "code": 200,
+    "bytes": 10148,
+    "ctype": "text/html",
+    "final": "https://ldsgenealogy.com/KY/Lee-County-Death-Records.htm"
+  },
+  {
+    "url": "https://ldsgenealogy.com/KY/Madison-County-Death-Records.htm",
+    "dest": "/workspace/research/dora-ella-newnam/sources/catalog/lds-madison-deaths-pass99.html",
+    "ok": true,
+    "code": 200,
+    "bytes": 11683,
+    "ctype": "text/html",
+    "final": "https://ldsgenealogy.com/KY/Madison-County-Death-Records.htm"
+  },
+  {
+    "url": "https://ldsgenealogy.com/KY/Owsley-County-Death-Records.htm",
+    "dest": "/workspace/research/dora-ella-newnam/sources/catalog/lds-owsley-deaths-pass99.html",
+    "ok": true,
+    "code": 200,
+    "bytes": 10742,
+    "ctype": "text/html",
+    "final": "https://ldsgenealogy.com/KY/Owsley-County-Death-Records.htm"
+  },
+  {
+    "url": "https://kygenweb.net/wolfe/txt/1920g.txt",
+    "dest": "/workspace/research/dora-ella-newnam/sources/census/pass99/kygenweb-1920g.txt",
+    "ok": true,
+    "code": 200,
+    "bytes": 35767,
+    "ctype": "text/plain",
+    "final": "https://kygenweb.net/wolfe/txt/1920g.txt"
+  },
+  {
+    "url": "https://kygenweb.net/wolfe/txt/1920h.txt",
+    "dest": "/workspace/research/dora-ella-newnam/sources/census/pass99/kygenweb-1920h.txt",
+    "ok": true,
+    "code": 200,
+    "bytes": 55236,
+    "ctype": "text/plain",
+    "final": "https://kygenweb.net/wolfe/txt/1920h.txt"
+  },
+  {
+    "url": "https://kygenweb.net/wolfe/txt/1920i.txt",
+    "dest": "/workspace/research/dora-ella-newnam/sources/census/pass99/kygenweb-1920i.txt",
+    "ok": true,
+    "code": 200,
+    "bytes": 24882,
+    "ctype": "text/plain",
+    "final": "https://kygenweb.net/wolfe/txt/1920i.txt"
+  },
+  {
+    "url": "https://kygenweb.net/wolfe/txt/1920k.txt",
+    "dest": "/workspace/research/dora-ella-newnam/sources/census/pass99/kygenweb-1920k.txt",
+    "ok": true,
+    "code": 200,
+    "bytes": 23349,
+    "ctype": "text/plain",
+    "final": "https://kygenweb.net/wolfe/txt/1920k.txt"
+  },
+  {
+    "url": "https://archive.org/advancedsearch.php?q=identifier%3A%2814thcensusofpopu0602%2A%20OR%2014thcensusofpopu602%2Aremainder%2A%20OR%20wolfe1920%2A%29&fl[]=identifier&fl[]=title&fl[]=imagecount&rows=20&output=json",
+    "dest": "/workspace/research/dora-ella-newnam/sources/catalog/ia-solr-t625-602-alts-pass99.json",
+    "ok": true,
+    "code": 200,
+    "bytes": 355,
+    "ctype": "application/json",
+    "final": "https://archive.org/advancedsearch.php?q=identifier%3A%2814thcensusofpopu0602%2A%20OR%2014thcensusofpopu602%2Aremainder%2A%20OR%20wolfe1920%2A%29&fl[]=identifier&fl[]=title&fl[]=imagecount&rows=20&output=json"
+  },
+  {
+    "url": "https://archive.org/advancedsearch.php?q=title%3A%28%22Station%20Camp%22%20OR%20%2233-8%22%29%20AND%201930%20AND%20Kentucky&fl[]=identifier&fl[]=title&fl[]=imagecount&rows=20&output=json",
+    "dest": "/workspace/research/dora-ella-newnam/sources/catalog/ia-solr-33-8-pass99.json",
+    "ok": true,
+    "code": 200,
+    "bytes": 430,
+    "ctype": "application/json",
+    "final": "https://archive.org/advancedsearch.php?q=title%3A%28%22Station%20Camp%22%20OR%20%2233-8%22%29%20AND%201930%20AND%20Kentucky&fl[]=identifier&fl[]=title&fl[]=imagecount&rows=20&output=json"
+  },
+  {
+    "url": "https://archive.org/advancedsearch.php?q=title%3A%28%22Irvine%20Times%22%20OR%20%22Estill%20Herald%22%20OR%20%22Irvine%20Sun%22%29&fl[]=identifier&fl[]=title&fl[]=year&rows=20&output=json",
+    "dest": "/workspace/research/dora-ella-newnam/sources/catalog/ia-solr-irvine-papers-pass99.json",
+    "ok": true,
+    "code": 200,
+    "bytes": 359,
+    "ctype": "application/json",
+    "final": "https://archive.org/advancedsearch.php?q=title%3A%28%22Irvine%20Times%22%20OR%20%22Estill%20Herald%22%20OR%20%22Irvine%20Sun%22%29&fl[]=identifier&fl[]=title&fl[]=year&rows=20&output=json"
+  },
+  {
+    "url": "https://archive.org/advancedsearch.php?q=title%3A%28%22Yell%20County%20Journal%22%20OR%20%22Dora%20Stone%22%29%20AND%201926&fl[]=identifier&fl[]=title&rows=10&output=json",
+    "dest": "/workspace/research/dora-ella-newnam/sources/catalog/ia-solr-yell-1926-pass99.json",
+    "ok": true,
+    "code": 200,
+    "bytes": 370,
+    "ctype": "application/json",
+    "final": "https://archive.org/advancedsearch.php?q=title%3A%28%22Yell%20County%20Journal%22%20OR%20%22Dora%20Stone%22%29%20AND%201926&fl[]=identifier&fl[]=title&rows=10&output=json"
+  },
+  {
+    "url": "https://archive.org/advancedsearch.php?q=collection%3AwwIIdraftcards%20OR%20title%3A%28%22World%20War%20I%20Selective%20Service%22%20Kentucky%20Lee%29&fl[]=identifier&fl[]=title&rows=10&output=json",
+    "dest": "/workspace/research/dora-ella-newnam/sources/catalog/ia-solr-wwi-lee-pass99.json",
+    "ok": true,
+    "code": 200,
+    "bytes": 361,
+    "ctype": "application/json",
+    "final": "https://archive.org/advancedsearch.php?q=collection%3AwwIIdraftcards%20OR%20title%3A%28%22World%20War%20I%20Selective%20Service%22%20Kentucky%20Lee%29&fl[]=identifier&fl[]=title&rows=10&output=json"
+  },
+  {
+    "url": "https://www.familysearch.org/search/catalog/127913",
+    "dest": "/workspace/research/dora-ella-newnam/sources/catalog/fs-127913-pass99.html",
+    "ok": false,
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://www.familysearch.org/search/catalog/127869",
+    "dest": "/workspace/research/dora-ella-newnam/sources/catalog/fs-127869-pass99.html",
+    "ok": false,
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://www.familysearch.org/search/catalog/1146342",
+    "dest": "/workspace/research/dora-ella-newnam/sources/catalog/fs-1146342-pass99.html",
+    "ok": false,
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://www.familysearch.org/search/catalog/520482",
+    "dest": "/workspace/research/dora-ella-newnam/sources/catalog/fs-520482-pass99.html",
+    "ok": false,
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://www.familysearch.org/search/catalog/1006308",
+    "dest": "/workspace/research/dora-ella-newnam/sources/catalog/fs-1006308-pass99.html",
+    "ok": false,
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://ldsgenealogy.com/cgi-bin/FHL2-KY.cgi?176143_Estill_County_newspaper_abstracts_1913-Feb_1946",
+    "dest": "/workspace/research/dora-ella-newnam/sources/catalog/lds-estill-abstracts-176143-pass99.html",
+    "ok": true,
+    "code": 200,
+    "bytes": 8439,
+    "ctype": "text/html; charset=ISO-8859-1",
+    "final": "https://ldsgenealogy.com/cgi-bin/FHL2-KY.cgi?176143_Estill_County_newspaper_abstracts_1913-Feb_1946"
+  },
+  {
+    "url": "https://usgennet.org/usa/ky/county/lee/court.html",
+    "dest": "/workspace/research/dora-ella-newnam/sources/catalog/usgennet-lee-court-pass99.html",
+    "ok": false,
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://usgennet.org/usa/ky/county/lee/wills.html",
+    "dest": "/workspace/research/dora-ella-newnam/sources/catalog/usgennet-lee-wills-pass99.html",
+    "ok": false,
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://genealogytrails.com/ken/estill/military.html",
+    "dest": "/workspace/research/dora-ella-newnam/sources/catalog/gt-estill-military-pass99.html",
+    "ok": true,
+    "code": 200,
+    "bytes": 2763,
+    "ctype": "text/html",
+    "final": "https://genealogytrails.com/ken/estill/military.html"
+  },
+  {
+    "url": "https://genealogytrails.com/ken/owsley/military.html",
+    "dest": "/workspace/research/dora-ella-newnam/sources/catalog/gt-owsley-military-pass99.html",
+    "ok": true,
+    "code": 200,
+    "bytes": 2360,
+    "ctype": "text/html",
+    "final": "https://genealogytrails.com/ken/owsley/military.html"
+  },
+  {
+    "url": "https://genealogytrails.com/ken/lee/military.html",
+    "dest": "/workspace/research/dora-ella-newnam/sources/catalog/gt-lee-military-pass99.html",
+    "ok": true,
+    "code": 200,
+    "bytes": 2931,
+    "ctype": "text/html",
+    "final": "https://genealogytrails.com/ken/lee/military.html"
+  },
+  {
+    "url": "https://kygenweb.net/estill/obits.htm",
+    "dest": "/workspace/research/dora-ella-newnam/sources/catalog/kygenweb-estill-obits-pass99.html",
+    "ok": false,
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://kygenweb.net/madison/obits/index.htm",
+    "dest": "/workspace/research/dora-ella-newnam/sources/catalog/kygenweb-madison-obits-pass99.html",
+    "ok": true,
+    "code": 200,
+    "bytes": 151994,
+    "ctype": "text/html",
+    "final": "https://kygenweb.net/madison/obits/"
+  },
+  {
+    "url": "https://www.us-census.org/states/kentucky/teams/Estill1930-T626-742.htm",
+    "dest": "/workspace/research/dora-ella-newnam/sources/catalog/uscensus-estill-1930-pass99.html",
+    "ok": true,
+    "code": 200,
+    "bytes": 9737,
+    "ctype": "text/html",
+    "final": "https://www.us-census.org/states/kentucky/teams/Estill1930-T626-742.htm"
+  },
+  {
+    "url": "https://www.archives.gov/research/census/1930/enumeration-districts-maps.html",
+    "dest": "/workspace/research/dora-ella-newnam/sources/catalog/nara-1930-ed-maps-pass99.html",
+    "ok": true,
+    "code": 200,
+    "bytes": 52335,
+    "ctype": "text/html; charset=utf-8",
+    "final": "https://www.archives.gov/research/census/1930/enumeration-districts-maps.html"
+  },
+  {
+    "url": "https://www.woodfordcountykyhistoricalsociety.com/booksandpublications",
+    "dest": "/workspace/research/dora-ella-newnam/sources/catalog/wchs-books-pass99.html",
+    "ok": true,
+    "code": 200,
+    "bytes": 410794,
+    "ctype": "text/html; charset=UTF-8",
+    "final": "https://www.woodfordcountykyhistoricalsociety.com/booksandpublications"
+  }
+]
