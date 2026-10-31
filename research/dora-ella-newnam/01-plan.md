@@ -91,7 +91,7 @@ Exact strings logged **L343** (this branch) and remapped **L379–L395** (`main`
 
 ## Name-variant storm (pass 93, AR S-415 Edward–Patrick visual)
 
-**Letha Sullivan** (C244 child-on-parent-card hunt) — canonical Letha; family Letta / Lethia / Lettie / Litha / Viola / Lottie / Leta; phonetic Lethy / Ellathy/-thy; repository quirk = child on Edward/Ed/E.J., Francis/Frank/Franklin, George, Michael/Mike, Patrick/Pat cards (not her own L-tab). Visual walk **L525**; diplomatic `sources/soundex/b007-pass93-1900-ar-s415-edward-patrick-2026-10-31.md`.
+**Letha Sullivan** (C244 child-on-parent-card hunt) — canonical Letha; family Letta / Lethia / Lettie / Litha / Viola / Lottie / Leta; phonetic Lethy / Ellathy/-thy; repository quirk = child on Edward/Ed/E.J., Francis/Frank/Franklin, George, Michael/Mike, Patrick/Pat cards (not her own L-tab). Visual walks **L530** AR + **L525–L529** TN + KY same five names. Diplomatic: `sources/soundex/b007-pass93-1900-ar-s415-edward-patrick-2026-10-31.md`; `…-tn-edward-patrick-read.md`; `…-ky-s415-efgmp-2026-10-31.md` / `/tmp/p93/ky-read.md`.
 
 ## Agent SDK / GitHub channel
 
