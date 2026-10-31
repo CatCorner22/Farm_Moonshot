@@ -2390,3 +2390,20 @@ research/dora-ella-newnam/sources/census/1880-lee-ky-ed59-sheet43-p768-caroline-
   sha256: e22131a33213a1f9f635694bc439def45c4cbcd17ff3e2aaa42e020f30b5e5a7
   format: text extract, 1,478 bytes
   check: Pass 88 coverage; catalog 149; Barrett James original dw 102; Lee slot closed
+
+/workspace/research/dora-ella-newnam/sources/indexes/pass89-coverage.txt
+  sha256: 1987d05b97849d9550f1357e169f04163cbd0cb129d3b32c52e3b9f3f9718c91
+  format: text extract, 1,532 bytes
+  check: Pass 89 coverage; catalog 152; KYDI Barrett John nil neighboring counties; Lee 1913 DISPROVED
+/workspace/research/dora-ella-newnam/sources/indexes/kydi-1911-1920-barrett-john-pass89.txt
+  sha256: f04df1a9bb87de7d33a9c91f1de745be055c24cfef9e30a844e56b530e861e27
+  format: text extract, 3,455 bytes
+  check: KYDI 1911-1920 nil Barrett John ~70 LEE/OWSLY/CLAY/JCKSN/ESTIL/BRTHT
+/workspace/research/dora-ella-newnam/sources/indexes/lee-clay-barrett-john-dc-pass89.txt
+  sha256: f6b15c108f6fc84cdd5e9f0ed0581a13c20ba93448f0966139eaab71d5e37feb
+  format: text extract, 2,358 bytes
+  check: Lee 1913 John Barrett 28 Wm x M Roberts DISPROVED; Clay HTML nil Barrett John
+/workspace/research/dora-ella-newnam/sources/indexes/josephine-gilbert-pass89.txt
+  sha256: b041e379af4bbba10d02dc15b66fcf7c1d82a8452dc145af2cbbebe6ba0e5c80
+  format: text extract, 2,847 bytes
+  check: Josephine remaining Pendleton/Boyle n/a other; T288 unseen

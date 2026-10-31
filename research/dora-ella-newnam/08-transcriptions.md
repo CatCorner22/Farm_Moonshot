@@ -4486,3 +4486,67 @@ Pass 2: License still unseen. Do **not** treat extract-nil as a marriage. Do **n
 - Josephine remaining nil/other/n/a; T288 0 → C945
 - B061 remaining gap → C947
 
+
+## DOC185 — KYDI 1911–1920 Barrett John statewide (Pass 89)
+
+- Extract: `kydi-1911-1920-barrett-john-pass89.txt` SHA-256 `f04df1a9bb87de7d33a9c91f1de745be055c24cfef9e30a844e56b530e861e27`
+- Coverage: `pass89-coverage.txt` `1987d05b97849d9550f1357e169f04163cbd0cb129d3b32c52e3b9f3f9718c91`
+- Provenance: Reclaim the Records, *Kentucky Death Index 1911–1989*, IA item `reclaim-the-records-kentucky-death-index-01911-1989`. Year files **1911–1920** opened 31 Oct 2026. **Index only.** Does **not** name parents. Full year files **not committed**.
+
+### Diplomatic — cited index rows
+
+> **Nil** Barrett/Barett/Barret, John ~65–80 decedent in **LEE / OWSLY / CLAY / JCKSN / ESTIL / BRTHT** 1911–1920.
+
+> Lee **1913** BARRETT JOHN **28** 10/11/1913 vol **062** #**30954** — **DISPROVED** as 1910 Barrett John 65 (age 28 vs ~68).
+
+> Other statewide Johns **DISPROVED**: **1911** JOHN A **27** Jefferson; **1912** JOHN L **1** / JOHN J **U/1** Jefferson; **1914** BARRET JOHN R **34** Jefferson; **1914** BAIRD JOHN S **2** Kenton; **1914** BEARD JOHN H **80** Adair; **1915** BEARD JOHN A **72** Jefferson; **1920** JOHN S **57** / JOHN M **16** Jefferson; **1920** BEARD JOHN **34** Larue.
+
+> Neighbor-county Barrett-ish not John ~70: 1911 Jesse BARETT 64 Owsley; 1917 Andy 82 Breathitt (**DISPROVED** as John); 1919 James 31 Owsley (died Feb 1919, cannot be 1920 dw 102 James); 1920 Annie 55 Owsley.
+
+Pass 2: Index-nil is **not** proof of death. Unregistered / out of KY / delayed filing remain open. Do **not** treat KYDI as a civil death row for 1910 Barrett John 65. Do not close B063.
+
+### Facts extracted → claim IDs
+- KYDI 1911–1920 nil Barrett John ~70 neighboring counties → C949
+- other statewide Johns DISPROVED → C951
+- Estill/Breathitt/Jackson KYDI no John ~70; Andy 82 DISPROVED → C953
+
+## DOC186 — Lee / Clay Barrett John DC extracts 1911–1920 (Pass 89)
+
+- Extract: `lee-clay-barrett-john-dc-pass89.txt` SHA-256 `f6b15c108f6fc84cdd5e9f0ed0581a13c20ba93448f0966139eaab71d5e37feb`
+- Provenance: Lee USGenNet `1911.html`–`1920.html` + `kdi/b.html`; Clay KYGenWeb `1911.html`–`1920.html` table-parsed. **HTML-seen** 31 Oct 2026. Original DC faces unread. Estill/Breathitt/Jackson 1911–1920 DC HTML **n/a**.
+
+### Diplomatic — cited extracts
+
+> Lee **1913**: **John BARRETT**, **28** yrs, KY, 11 Oct 1913, home cem., married, father **Wm. BARRETT**, mother **M. ROBERTS**. Matches KYDI vol **062** #**30954**. **DISPROVED** as 1910 Barrett John 65 × Susan (age 28 vs ~68; father William; mother Roberts).
+
+> Lee KDI B (1911–1929): Barrett Johns are **1913** age **28** and **1925** age **70** vol **025** #**12470**. The 1925 row is **outside** the 1911–1920 window. Age 70 vs ~80; Lee ≠ Owsley. **Not merged**.
+
+> Clay 1911–1920: **nil** Barrett, John decedent. Other Barretts Mary 5 / Sally 65 / Martha infant / Nancy A 48 / Steler 1 / Notie infant / Jesse 16 / Jesse 85 / William 78 — **DISPROVED** as John. Matches KYDI Clay rows.
+
+Pass 2: HTML extracts, not original faces. Do not treat extract-nil as proved death. Do not hunt the 1925 Lee John 70 this pass.
+
+### Facts extracted → claim IDs
+- Lee 1913 John 28 Wm. × M. Roberts DISPROVED → C950
+- Clay HTML nil Barrett John → C952
+- Lee 1925 John 70 not merged → C954
+
+## DOC187 — Josephine remaining + T288 (Pass 89)
+
+- Extract: `josephine-gilbert-pass89.txt` SHA-256 `b041e379af4bbba10d02dc15b66fcf7c1d82a8452dc145af2cbbebe6ba0e5c80`
+- Coverage: `pass89-coverage.txt` `1987d05b97849d9550f1357e169f04163cbd0cb129d3b32c52e3b9f3f9718c91`
+- Provenance: KYGenWeb HTML (Pendleton letter indexes; Boyle/Harrison/Bourbon/Scott; Woodford Wix; many `/marriages.htm` **404**), IA advancedsearch, NARA catalog JS SPA, FS coll. **1919699**. Opened 31 Oct 2026. **HTML-seen / access-fail**, not a ~1902 civil register. License unseen. Original 1916 DC face unseen. T288 unseen.
+
+### Diplomatic — cited extracts
+
+> Pendleton bride I–K **nil** Josephine/Josie; N–P **nil** Newnam; G–H **nil** Gilbert bride; groom N–P Andrew Newman **other**; 1852 Josephine Shumate/Wheatley **other**; 1874 Josephine Wall **other**.
+
+> Boyle J/N/G/I mostly 1842–1875 **n/a** ~1902 (Josephine Wood 1858 **other**). Harrison 1804–59 / Bourbon to 1830s / Scott 1793–1831 **n/a**. Woodford Wix redirect. Many `/marriages.htm` **404**. Bracken 1902 **n/a**. Adair 1900–04 year files **404**.
+
+> IA T288 title **numFound 0**. Identifier `t288*` is audio **The Purge**, **not** NARA T288. NARA catalog **563914** JS SPA — T288 text **not seen**. FS **1919699** **403**.
+
+Pass 2: License still unseen. Do **not** invent T288 contents. Do **not** promote C509. Do not close B063.
+
+### Facts extracted → claim IDs
+- Josephine remaining nil/other/n/a → C955
+- T288 still unseen → C956
+- B061 remaining gap → C958

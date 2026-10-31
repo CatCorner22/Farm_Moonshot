@@ -1,0 +1,28 @@
+Pass 89 coverage — 31 Oct 2026 America/New_York
+This run bc-01a18bb4-e162-785c-9724-86a7c5663bf1
+Catalog 152 / hasMore false / totalMatched 152. Was 149.
+NEW vs 149 (3; no IDs imported):
+  IL Patrick band visual read bc-e2c8e6fe RUNNING
+  IL Edward Francis George read bc-93bb8ff3 RUNNING
+  IL Michael band visual read bc-d5764b0e RUNNING
+Status-only vs Pass 88: KY S-415 now IDLE (was RUNNING).
+TN/AR S-415 still IDLE. Dora 1840 Clark B059 still RUNNING.
+Read IN Charles/Daniel/Joseph/Peter/Robert still IDLE.
+Dora's biography research PR #33 WAITING_FOR_BACKGROUND_WORK
+(sibling C281 not imported). Nested reviewer not respawned.
+Message queue empty.
+
+Work this pass:
+- KYDI 1911–1920 statewide: nil Barrett/Barett/Barret John ~65–80 in
+  LEE/OWSLY/CLAY/JCKSN/ESTIL/BRTHT. Lee 1913 John 28 DISPROVED
+  (father Wm. × M. Roberts). Other Johns Jefferson/Beard/Baird DISPROVED.
+- Clay HTML 1911–1920 nil Barrett John (matches KYDI). Estill/Breathitt/
+  Jackson 1911–1920 DC HTML n/a; KYDI covers those counties.
+- Lee KDI B: only Johns are 1913 age 28 and 1925 age 70 (outside window;
+  not merged).
+- Josephine remaining: Pendleton letter indexes nil/other; Boyle/Harrison/
+  Bourbon/Scott n/a ~1902; Woodford Wix; many /marriages.htm 404.
+- T288: IA numFound 0 (t288* identifier is audio garbage); NARA JS; FS 403.
+- Do not hunt D-540. Do not close B063. Do not promote C509. Do not import C281.
+- No new gallery plates (index/HTML pass). Gallery stays 326.
+- Next unused after this pass C959+ / L837+ / S682+ / DOC188+.

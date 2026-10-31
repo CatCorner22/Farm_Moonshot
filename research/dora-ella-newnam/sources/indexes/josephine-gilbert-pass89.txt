@@ -1,0 +1,49 @@
+Pass 89 — Josephine Newnam × Gilbert ~1902 remaining substitutes + T288
+Opened 31 Oct 2026 America/New_York. License unseen. Original 1916 DC face unseen.
+T288 unseen.
+
+KYGenWeb /marriages.htm vs indexes:
+  Woodford 200 but redirected to Wix woodfoodcounty-ky — n/a as a marriage index.
+  Fayette / Bourbon / Scott / Harrison / Mason / Lewis / Greenup / Anderson /
+  Mercer / Owen / Grant / Robertson / Henry / Nelson / Russell 404
+  (indexes themselves 200 where present).
+  Pendleton marriages.htm 200 (31,401 bytes) — letter indexes opened.
+  Adair marriages.htm 200 redirected to 404.html; /adair/marriage.htm 200
+  (family/newspaper compiled; 1900–1904 year files 404).
+  Bracken bcmarriage.html / bcmarriageregs.html 200 (1901 and 1903; 1902 n/a).
+
+Pendleton bride/groom letter files (HTML-seen):
+  bride G–H nil Gilbert / Josephine as this ~1902 bride.
+  bride I–K nil Josephine / Josie.
+  bride N–P nil Newnam / Newman.
+  groom G–H nil Gilbert as this ~1902 groom.
+  groom N–P Newman, Andrew — other (not Josephine Newnam × Gilbert ~1902).
+  1852–59 compiled: Josephine Shumate / Josephine B. Wheatley — other; n/a ~1902.
+  1874 compiled: Josephine Wall — other; n/a ~1902.
+
+Boyle letter J / N / G / I: years mostly 1842–1875 (N has 1899); n/a ~1902.
+  GENTRY, Overton H. × Josephine Wood 7 Jul 1858 — other.
+Harrison Marriages.htm years 1804–1859 n/a ~1902.
+Bourbon MarriageRecordsIndex years through 1830s n/a ~1902.
+Scott Marriages1793-1831: Barrett × Elizabeth Perry 16 May 1796 — other; n/a ~1902.
+Owen marriage.htm: 1819–42 / 1844 xls / 1874 xls / family files; n/a ~1902 register.
+Robertson marriage-index years 1867–1880 n/a ~1902.
+Bracken registers: Barrett 1852 / Newman 1861 other years; 1902 n/a.
+Jackson a–b marriages compiled: Josephine Neeley / Josie Peters — other brides.
+Clay marriages landing: Barrett, James photograph only; not a ~1902 Josephine row.
+Greenup pulpgen marriages redirected to grabalia.com — not a county register.
+
+IA advancedsearch 31 Oct 2026:
+  title T288 OR "General Index to Pension Files" Newman — numFound 0
+  identifier t288* OR generalindextopen* — numFound 1 =
+    t288hwu6jq24nnnrailpdmfxinwk0ffsdc7lul6x (audio "The Purge"; NOT NARA T288)
+  "pension files" T288 collection usnationalarchives — numFound 0
+  collection microfilm T288 pension — numFound 0
+  title M123 OR 1890 veterans Kentucky — 285 hits, local Veterans Day video, not M123-3
+  title Kentucky death certificate 1916 Owsley — numFound 0
+  title estill burns marriage 1840 — numFound 0
+NARA catalog.archives.gov/id/563914 and /api/v1?naId=563914 — JS SPA shell; T288 text not seen.
+FS catalog/collection 1919699 — 403.
+Do not invent T288 / Burns / 1916 DC contents.
+
+Do not promote C509. Do not hunt D-540. License unseen. Original 1916 DC unseen. T288 unseen.

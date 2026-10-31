@@ -1,0 +1,46 @@
+Pass 89 — neighboring-county Barrett John death extracts 1911–1920
+Opened 31 Oct 2026 America/New_York. HTML-seen. Original DC faces unread.
+
+LEE — Debi Houser Kendrick, USGenNet lee/deaths/1911.html–1920.html and kdi/b.html
+  1911–1912 / 1914 / 1916–1918 / 1920: nil Barrett, John as decedent.
+  1913: John BARRETT, 28 yrs, KY, 11 Oct 1913, home cem., married,
+        father Wm. BARRETT, mother M. ROBERTS.
+        Matches KYDI vol 062 #30954. DISPROVED as 1910 Barrett John 65 × Susan
+        (age 28 vs ~68; father William; mother Roberts).
+  1915: Frances BARRETT infant; Barrett as parent cells of Cole/Freeman — not John.
+  1919: Lillie Barret 20; Lean Barret as mother cell — not John.
+  KDI B (1911–1929 B surnames):
+    BARRET, Lillie   vol 034 #16674  1919-02-27  age 20
+    BARRETT, Albert  vol 025 #12315  1924-05-17  age 22
+    BARRETT, Frances vol 016 #07621  1915-03-09  U/1
+    BARRETT, John    vol 025 #12470  1925-04-12  age 70
+    BARRETT, John    vol 062 #30954  1913-10-11  age 28
+    BARRETT, Walter  vol 049 #24113  1923-09-09  (age blank in this table)
+  1925 John 70 Lee is OUTSIDE the 1911–1920 window. Age 70 vs ~80; Lee ≠ Owsley.
+  Not merged with 1910 Barrett John 65. Residual for a later 1920–1930 hunt only.
+
+CLAY — kygenweb.net/clay/deaths/1911.html–1920.html table-parsed (HTML-seen):
+  1911 BARRETT MARY 5
+  1912 nil Barrett
+  1913 nil Barrett
+  1914 nil Barrett
+  1915 BARRETT SALLY 65
+  1916 BARRETT MARTHA U/1
+  1917 BARRETT NANCY A 48; STELER 1
+  1918 BARRETT NOTIE U/1
+  1919 BARRETT JESSE 16
+  1920 BARRETT JESSE 85; WILLIAM 78
+  Nil Barrett, John as decedent 1911–1920. Matches KYDI Clay rows.
+
+ESTILL / BREATHITT / JACKSON 1911–1920 DC HTML:
+  Estill /deaths /deaths.htm /vitals 404. site/records 200, no year files.
+  Breathitt births_deaths landing 200: 1911–1920 listed are BIRTH certificates;
+    deaths listed 1852–59 / 1860 mortality only. USGW death.txt timeout.
+  Jackson /deaths/index.html 404.
+  Substitute is statewide KYDI (see kydi-1911-1920-barrett-john-pass89.txt):
+    JCKSN Barrett Rachel infant 1913 only.
+    ESTIL Barrett Ardel 17 1918 only.
+    BRTHT Andy 82 / Evaline 67 / Paul infant / Mary 1918 — no John ~70.
+
+Do not treat extract-nil as proof of death. Original 1916 vol 044 #21663 unseen.
+Do not hunt D-540. Do not close B063. Do not promote C509.
