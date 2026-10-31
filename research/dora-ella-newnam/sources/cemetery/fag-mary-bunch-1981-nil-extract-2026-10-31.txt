@@ -1,0 +1,12 @@
+Find A Grave memorial-search 31 Oct 2026
+URL: https://www.findagrave.com/memorial/search?firstname=Mary&lastname=Bunch&deathyear=1981&deathyearfilter=exact
+HTTP 200. Page title: Grave Memorial Records - Find a Grave
+Result banner: 000 memorial / No matches
+No 1893 / Knoxville / Mary M Bunch 1981 memorial on that query.
+Greenwood Cemetery 12650 memorial-search Mary Bunch: HTTP 403 this pass (same pattern as B016).
+Individual memorials not opened (none listed).
+WebSearch same-name rejects (not merged): Mary M Holder Magee 1890–1966 Perry TN;
+Mary M Gaylor 1913–1968 New Gray Knoxville; Mary M Sayre Fox 1893–1966 OH;
+Hazel Bunch Cox 1914–2014; Hazel Bunch 1909–2005; Hazel Elizabeth Bunch 1938–2018 Sulphur;
+Hazel Belle Bunch FS L4PM-HDW not used as a merge.
+SortedByName newnam/index_11.html, index_14.html, bunch/mary_bunch_1.html, pages/hazel_bunch.html: HTTP 403.

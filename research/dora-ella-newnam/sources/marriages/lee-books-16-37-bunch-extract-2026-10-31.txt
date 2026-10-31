@@ -1,0 +1,24 @@
+Lee Marriage Books 16-37 Bunch grep 31 Oct 2026
+URL base https://usgennet.org/usa/ky/county/lee/marriage/marrbook{N}.html
+Book 16 nil Bunch
+Book 17 nil Bunch
+Book 18 nil Bunch
+Book 19 nil Bunch
+Book 20 nil Bunch
+Book 21 nil Bunch
+Book 22 nil Bunch
+Book 23 nil Bunch
+Book 24 nil Bunch
+Book 25 nil Bunch
+Book 26 nil Bunch
+Book 27 nil Bunch
+Book 28 nil Bunch
+Book 29 nil Bunch
+Book 30 nil Bunch
+Book 31 nil Bunch
+Book 32 nil Bunch
+Book 33 nil Bunch
+Book 34 nil Bunch
+Book 35 nil Bunch
+Book 36 nil Bunch
+Book 37 nil Bunch

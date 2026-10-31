@@ -1,0 +1,52 @@
+Shelby County Register of Deeds — Tennessee Deaths 1949–2014
+Query URL pattern:
+https://search.register.shelby.tn.us/deathSearchResultsvital.php?param1=LAST&param2=FIRST&bdate=MM/DD/YYYY&edate=MM/DD/YYYY&county=ALL|KNOX&gender=F
+Captured 31 Oct 2026. Index only. Certificates not examined.
+
+ALL + BUNCH + MARY + F + 01/01/1949–12/31/2014
+  Banner: Number of Hits 38
+  Named rows extracted: 37 well-formed + 1 malformed residence cell
+  Unique MATCH vs P007 (Mary M + 1893 birth window):
+    BUNCH MARY M | 03-11-1981 / 87 | KNOX | KNOX / TN | WIDOW | F | WHITE | 09021
+    Age 87 on 11 Mar 1981 ⇒ born 12 Mar 1893–11 Mar 1894
+    NUMIDENT 12 Jun 1893 is inside that window
+  Already-rejected C158 collision present:
+    BUNCH MARY E | 01-10-1963 / 68 | CAMPBELL | [NOT GIVEN] (broken <td>) | WIDOW | F | WHITE | 00134
+    Age 68 on 10 Jan 1963 ⇒ born 11 Jan 1894–10 Jan 1895 (excludes 12 Jun 1893)
+  Other Mary / Mary + MI rows fail middle initial and/or age vs 1893
+
+ALL + BUNCH + MARY M + F + 01/01/1949–12/31/2014
+  Number of Hits: 2
+    BUNCH MARY M | 03-11-1981 / 87 | KNOX | KNOX / TN | WIDOW | F | WHITE | 09021
+    BUNCH MARY M | 06-02-2010 / 76 | WAYNE | WAYNE / TN | DIVORCED | F | WHITE | 24488
+      Age 76 on 2 Jun 2010 ⇒ born ~1933–1934 — DISPROVED vs P007
+
+KNOX + BUNCH + MARY + F + 03/11/1981–03/11/1981
+  Number of Hits: 1 (the 09021 row only)
+
+KNOX + BUNCH + MARY + F + 01/01/1949–12/31/2014
+  Number of Hits: 7 (Mary; Mary E 1992; Mary J 1957; Mary J 1958; Mary K 2010; Mary M 1981; Mary S 1982)
+  Only Mary M 1981 matches the 1893 window
+
+ALL + BUNCH + MAGDALENE + F + 1949–2014 — NO HITS FOUND
+ALL + NEWNAM + MARY + F + 1949–2014 — NO HITS FOUND
+ALL + BUNCH + MAYR + F + 1949–2014 — NO HITS FOUND (OCR given-name)
+
+KNOX + BUNCH + (blank first) + F + 1949–2014
+  Number of Hits: 104 (100 named rows parsed)
+  Includes BUNCH MARY M 03-11-1981 / 87 file 09021
+  Includes BUNCH HAZEL 05-01-1999 / 79 file 20106
+  Reject vs P001: BUNCH DORA 06-17-1988 / 70 KNOX / ANDERSON — age 70 ⇒ b. ~1917–1918
+
+ALL + BUNCH + HAZEL + F + 01/01/1999–12/31/1999
+  Number of Hits: 1
+    BUNCH HAZEL | 05-01-1999 / 79 | KNOX | KNOX / TN | NEVER MARRIED, SINGLE | F | WHITE | 20106
+    Age 79 on 1 May 1999 ⇒ born 2 May 1919–1 May 1920
+    NUMIDENT Hazel E. / Hazel Elizabeth Bunch b. 14 Jun 1919 Knoxville is inside
+    Deceased — may be named. Living descendants withheld.
+
+Certificate 09021 not examined (TN 50-year confidentiality: 1981 → 2031).
+Retrieval: requestform.php?type=death&year=1981 file 09021;
+TN Office of Vital Records, next-of-kin until 2031.
+Newspapers.com Knoxville News-Sentinel 12–13 Mar 1981 catalogued, issues not examined.
+Knox County Library obituary index starts 1991 — too late for 1981.

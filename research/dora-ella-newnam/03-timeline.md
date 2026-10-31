@@ -26,7 +26,8 @@ Place as it was *at the date*; modern equivalent in brackets. Flag impossibiliti
 | 8 May 1890 | — | James Hoover **2nd** m. Lutitia Miller (Mary L. no longer his wife) | Lee Co., KY | C100 | S084 |
 | 1886–1889 | 14–18 | Room for ≥1 of the two children dead by 1900 | Sturgeon, Lee Co. | C020 | S005 (gap) |
 | Apr 1890 | 18 | Son McCoy (Coy) born | KY | C021 | S005 |
-| 12 Jun 1893 (NUMIDENT) / Jun 1892 (1900) | ~21 | Dau. Mary Magdalene born | Beattyville / Lee Co. | C022 | S006 prior; S005 |
+| 12 Jun 1893 (NUMIDENT) / Jun 1892 (1900) | ~21 | Dau. Mary Magdalene born. Pass **78** index age **87** on 11 Mar 1981 favors **1893** (conflict **#5**) | Beattyville / Lee Co. | C022 C447 | S006 prior; S005 S383 |
+| **14 Jun 1919** (NUMIDENT) | — | FAN (deceased): **Hazel E. / Hazel Elizabeth Bunch** born Knoxville; mother **Mary M. Newnam**. Living descendants withheld | Knoxville, Knox Co., TN | C453 | S006 L331 |
 | 15 Mar 1895 | 23 | Dau. Pearl P. born | Banford (postal name later) / Lee | C023 | S007 prior; S005 |
 | **8 Jun 1895 (court) / 8 Jul 1895 (stone)** | — | FAN: Larkin Mays d. intestate; four infant children; Lee Co. homestead (conflict #14) | Lee Co., KY | C139 C140 C141 | S131 S119 |
 | May 1897 | 25 | Dau. Rissa born | KY | C024 | S005 |
@@ -52,7 +53,7 @@ Place as it was *at the date*; modern equivalent in brackets. Flag impossibiliti
 | ~11 May 1910 | — | FAN: **Samuel Farmer** 33 + **Martha** 23 + Flora 5 + Everett 3, ED 99 fam **251** sh **13 B** = S. P. × Martha Mays. **Louisa not in the house** | Sturgeon, Lee Co., KY | C182 C183 | S155 S156 |
 | Apr 1910 | — | FAN: **Hardin Gray** 34 + **Vesta** 27 + four children, Lee ED 99 fam **248** sh **13 B** (original **S236**). **Louisa not in that house.** sh **14 B** blank | Sturgeon, Lee Co., KY | C184 C166 C225 | S160 S236 S165 |
 | **21 Oct 1958** | — | FAN: **Vestie Bell Gray** d. Lee Co.; parents **Larkin Mays** + **Eliza Pendergrass**; b. 9 Sep 1882 (conflict #15) | Lee Co., KY | C192 | S164 S245 S166 |
-| **7 Sep 1967** | 91 | FAN: **Hardin K. Gray** d., Lee Co., cert. **042/20591** (statewide index) | Lee Co., KY | C235 | S244 S166 |
+| **7 Sep 1967** | 91 | FAN: **Hardin K. Gray** d.; statewide index vol. **042** #**20591**; **PLACE OF DEATH = FYETE (Fayette)**; **residence LEE**; buried Gray Cemetery, Lee (conflict **#27**) | Fayette Co. (death, index) / Lee Co. (residence + burial) | C235 C435 C436 | S371 S244 S166 |
 | Apr 1910 | — | FAN: 1910 KY M-200 **no** Lee Louisa/Eliza/Ida/Whitley Mays as indexed heads; Clark Whitley 24 rejected | Kentucky (Miracode) | C185 C186 C187 C188 | S158 S159 |
 | Jun 1900 | — | Greene ED **40** extra sheets (2 B, 9 A, 14 A/B) **nil Stone** (extends C170) | Springfield, Greene Co., MO | C181 | S157 |
 | Apr 1910 | — | Parents Elias (“Elisa”) & Mary (Smallwood) Newnam, couple alone, Proctor ED 100 dw 19/20 | Lee Co., KY | C075 | S057 |
@@ -104,6 +105,9 @@ Place as it was *at the date*; modern equivalent in brackets. Flag impossibiliti
 | **16 Jun 1927** | — | FAN: **Martha Farmer** d., b. 1 Nov 1886; parents Larkin Mays & Louisa Pendergrass | Lee Co., KY | C164 | S143 |
 | after 1900 | — | **No record read** placing **P009 Rissa/Rissie** after Sturgeon hh **67** (1910 child Soundex **nil**; not with Pearl at Elizabeth’s **1910**). A **different** (or the same — **POSSIBLE** only) **Rissie Lewis** appears in 1980 Knoxville | unknown | C077 C026 C429 | S058 S041 |
 | **13 May 1980** | age **82** on the index (⇒ b. **14 May 1897–13 May 1898**) | **LEWIS, RISSIE N** d. Knox Co., TN, widow, file **15370** (**index only**). Stone at Greenwood Cemetery, Knoxville: **RISSIE P. LEWIS / 1897–1980** (**image seen**). WikiTree Newnam-46 used this date under **Pelfrey**. Same-person vs P009 **POSSIBLE** only — parents unread. Conflict **#26** (N vs P) | Knoxville, Knox Co., TN | C425 C426 C427 C428 C429 | S364 S365 S366 | Do not print as proved death of Dora’s daughter |
+| **11 Mar 1981** | age **87** on the index (⇒ b. **12 Mar 1893–11 Mar 1894**) | **BUNCH, MARY M** d. Knox Co., TN, widow, file **09021** (**index only**). vs P007 **PROBABLE** — Mary M. Bunch + 1893 window + Knox. Parents unread. Certificate **not examined** (TN 50-year rule to **2031**) | Knoxville, Knox Co., TN | C446 C447 C448 C455 | S383 S384 S392 |
+| **1 May 1999** | age **79** on the index (⇒ b. **2 May 1919–1 May 1920**) | FAN (deceased): **BUNCH, HAZEL** d. Knox Co., TN, never married, file **20106** (**index only**). **PROBABLE** NUMIDENT Hazel E. Bunch, mother Mary M. Newnam. Living descendants withheld | Knoxville, Knox Co., TN | C452 C453 | S389 |
+| **1 May 1999** | age **79** on the index (⇒ b. **2 May 1919–1 May 1920**) | FAN (deceased): **BUNCH, HAZEL** d. Knox Co., TN, never married, file **20106** (**index only**). **PROBABLE** NUMIDENT Hazel E. Bunch, mother Mary M. Newnam. Living descendants withheld | Knoxville, Knox Co., TN | C452 C453 | S389 |
 
 | **30 Nov 1928** | — | *Beattyville Enterprise*: “Uncle **Doll Newman** has been very sick… not able to be out” (**PROBABLE** P004) | Beattyville, Lee Co., KY | C284 | S270 |
 | **15 Mar 1932** | — | FAN: **Clay Dunigan**, 23, of Idamay × **Ladona Newman**, 16, of Delvinta; parents Shelby Newman & Grace Brandenburg — **not** P001’s child. Parents now identified (**C321–C324**) | Delvinta, Lee Co., KY | C297 C298 C321 C324 | S277 S294 |

@@ -203,7 +203,7 @@ Two children born to Dora and Samuel died before 1 June 1900. They have no names
 
 **McCoy “Coy” Newnam**, born April 1890, married Letha Viola Sullivan at Ola on 18 February 1917. In 1920 they were at Danville, Yell County. In 1930 they were back in Buck Creek, Owsley County. He is the 1926 informant. Living descendants are not named here.
 
-**Mary Magdalene Newnam**, June 1892 on the census, 12 June 1893 Beattyville on her Social Security account, later Mary M. Bunch. Marriage and death are not closed in free sources: Lee marriage books have no Bunch row; NUMIDENT lists her **deceased** but gives **no death date**; the public Social Security Death Index API returned no match for SSN **410-19-2658**; Tennessee archives and Knox marriage indexes were not reachable from the research VM (**R007**, **L257**). [C158]
+**Mary Magdalene Newnam**, June 1892 on the census, 12 June 1893 Beattyville on her Social Security account, later Mary M. Bunch. The Tennessee statewide death index lists **BUNCH, MARY M**, died **11 March 1981**, age **87**, Knox County, file **09021**. [C446] Age 87 on that day implies birth **12 March 1893–11 March 1894**, which contains the NUMIDENT date and excludes the 1900 census year (conflict **#5**). [C447] Identification with Dora’s daughter is **probable** — Mary M. Bunch, the 1893 window, and Knox (her deceased daughter Hazel E. Bunch was born in Knoxville in 1919). [C448] [C453] Parents are not on the index. The certificate is unread (Tennessee fifty-year rule until 2031). [C455] Lee Marriage Books 1–37 have no Bunch row. [C158] [C450] NUMIDENT still lists her deceased without a date; the public SSDI API did not match SSN **410-19-2658**. [C158]
 
 **Pearl P. Newnam**, 15 March 1895, Banford, later Pearl P. Jackson, died 19 September 1980, Shelby County, Tennessee. The 1910 grandmother household, the 1922 Elizabeth Newnam will, and the NUMIDENT file make her identification the strongest of the five.
 
@@ -237,7 +237,7 @@ Charts of pedigree, descendants, and lifespan follow the plates. Dashed lines me
 - Louisa P. Mays Brandenburg: not in 1910 Proctor; no 1951 Lee/Owsley death on SortedByName; Lee 1911–1929 B-index has no Louisa. [C154] [C157] [C159]
 - Conflict #13: the 1910 Sturgeon enumerator’s given name (surname **Treadway** on the JPEG).
 - Conflict #14: Larkin Mays, 8 June 1895 (court) versus 8 July 1895 (stone).
-- John H.; Mary Bunch’s death (Lee books and recent “Mary M. Bunch” obituaries do not match); Rissie’s Tennessee identification (index + stone **PROBABLE** one Lewis woman; vs P009 still **POSSIBLE**; parents unread); the two unnamed children.
+- John H.; Mary Bunch’s death certificate (index **09021** is **PROBABLE** P007; parents unread); Rissie’s Tennessee identification (index + stone **PROBABLE** one Lewis woman; vs P009 still **POSSIBLE**; parents unread); the two unnamed children.
 - Whether witness **Link Mays** is Larkin T. Mays — still possible, not merged.
 
 
@@ -247,6 +247,7 @@ Charts of pedigree, descendants, and lifespan follow the plates. Dashed lines me
 - **B045 blocked:** Samuel P. probate film still unread. Catalog + **R012** retrieval path filed (**C417–C424**).
 - **B047 partial:** M1509 pamphlet **image seen** (**C399**). Free Lee/Estill/Owsley/Yell substitutes still **nil**. Card images on **KY45/KY24/KY74 / AR69** unread (**C407**).
 - **B016 partial:** TN index **LEWIS RISSIE N** 13 May 1980 Knox file **15370** + Greenwood stone **image seen**. vs P009 still **POSSIBLE**. Certificate / parents unread (**C425–C434**).
+- **B015 partial:** TN index **BUNCH MARY M** 11 Mar 1981 Knox file **09021**. vs P007 **PROBABLE**. Certificate / parents unread (**C446–C456**). Hazel E. Bunch 1 May 1999 Knox file **20106** (**C452 C453**). Living descendants withheld.
 - **FAN residual:** B057 **done** for the remote stone/index pass (**C383–C398**). Vincent Newman Family Cemetery located; Edward stone **image seen**; Madison 1936 ages **017**. Still unread: Madison/Lee DC **images**, Owsley 1920 book, Smith 1843–1929 marriages; Callie/Dorothy/Everett FAG **no photos**. Grant=Frank and John of Owsley still **POSSIBLE**. **B054 done** — Carter Cove stones **image seen** (**C410–C416**). Luther Riverview stones / DC images unread. **B051** Luther death **done** (**C375–C382**). **B052** Shelby × Grace **done**. **B053** Everett FAN **done** (**C349–C365**).
 - Greene 37–43 Stone sweep is **closed**. Do not reopen Peebles as a third marriage without a license. Do not print 1868 or 24 February 1906 as facts.
 - **Master Word document:** `research/dora-ella-newnam/book/Dora-Ella-Newnam-Stone-A-Life.docx` (working copy `sources/authored/Dora-Ella-Newnam-Stone-A-Life-latest.docx`). Rebuilt this pass. Pope Roll 5 is still unread.
@@ -315,6 +316,7 @@ Numbered notes expand the claim/source tags in the narrative. Access labels: *im
 54. Pass 73 B092. Same reel, full name-column visual of true **ED 200**, IA [`14thcensusofpopu086unit`](https://archive.org/details/14thcensusofpopu086unit) PDF **518–541** (Ward sh 1–5 B, then Ola Town sh 6 A–12 A). *Image seen.* **Nil P001.** **C214** not on true Ola 8 A (PDF **532**). Rejects **C370–C374**. **C367 C368 C369** **S317–S322**.
 55. Pass 74 B016. [Shelby TN Deaths](https://search.register.shelby.tn.us/index.php?go=TNdeathRecords): **LEWIS RISSIE N** 13 May 1980 age 82 Knox file **15370**. Stone **image seen**: **RISSIE P. LEWIS / 1897–1980**, Greenwood Cemetery, Knoxville, FAG **223821265**. vs P009 **POSSIBLE**. Conflict **#26**. *Index only / image seen. Certificate not examined.* **C425–C434** **S364–S370**.
 56. Pass 75 B047. NARA [M1509 pamphlet](https://www.archives.gov/files/research/microfilm/m1509.pdf) **image seen**: **KY45** Lee; **KY24** Estill; **KY74** Owsley; **AR69** Yell. [GT Lee WWI](https://genealogytrails.com/ken/lee/wwi_draft_cards.html) still nil. Estill/Owsley/Yell free WWI lists absent. Van Buren / Joseph C. Newman Russell rejected. Cards **not examined**. **C399–C409** **S340–S351**.
+57. Pass 78 B015. [Shelby TN Deaths](https://search.register.shelby.tn.us/index.php?go=TNdeathRecords): **BUNCH MARY M** 11 Mar 1981 age 87 Knox file **09021**. vs P007 **PROBABLE**. Hazel 1 May 1999 Knox file **20106**. Lee Books 16–37 nil Bunch. *Index only. Certificate not examined.* **C446–C456** **S383–S392**.
 
 ---
 
@@ -398,5 +400,11 @@ Working table of **saved local copies**. Full file list: [`../SOURCE-INDEX.md`](
 | S368 | `../sources/marriages/lee-books-16-37-rissie-pelfrey-extract-2026-10-31.txt` | [Lee marriages](https://usgennet.org/usa/ky/county/lee/marriage/) | Books 16–37 nil Rissie bride | transcription only |
 | S369 | `../sources/deaths/ia-rissie-lewis-knoxville-1980-2026-10-31.json` | IA Solr | Four tight queries numFound=0 | index only |
 | S370 | `../sources/deaths/b016-pass74-rissie-lewis-extract-2026-10-31.txt` | Combined B016 notes | Rejects + retrieval path | combined notes |
+| S383 | `../sources/deaths/shelby-tn-mary-m-bunch-extract-2026-10-31.txt` | [Shelby TN Deaths](https://search.register.shelby.tn.us/index.php?go=TNdeathRecords) | BUNCH MARY M 11 Mar 1981 Knox 09021 | index only |
+| S384 | `../sources/deaths/shelby-tn-all-bunch-mary-m-1949-2014-2026-10-31.html` | same | Two Mary M rows; 2010 Wayne rejected | index only |
+| S389 | `../sources/deaths/shelby-tn-all-bunch-hazel-1999-2026-10-31.html` | same | HAZEL 1 May 1999 Knox 20106 | index only |
+| S390 | `../sources/marriages/lee-books-16-37-bunch-extract-2026-10-31.txt` | [Lee marriages](https://usgennet.org/usa/ky/county/lee/marriage/) | Books 16–37 nil Bunch | transcription only |
+| S391 | `../sources/cemetery/fag-mary-bunch-1981-nil-extract-2026-10-31.txt` | FAG + IA Solr | 0 memorials; tight Solr 0 | index only |
+| S392 | `../sources/deaths/b015-pass78-mary-bunch-extract-2026-10-31.txt` | Combined B015 notes | Retrieval path | combined notes |
 
 Embedded plates live in `plates/` and `../sources/census/`. Charts: [`../visuals/pedigree-dora.svg`](../visuals/pedigree-dora.svg), [`../visuals/timeline-dora.svg`](../visuals/timeline-dora.svg).

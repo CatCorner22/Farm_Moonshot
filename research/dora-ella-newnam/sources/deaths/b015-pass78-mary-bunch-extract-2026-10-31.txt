@@ -1,0 +1,39 @@
+B015 Pass 78 combined extract — 31 Oct 2026 — bc-c5415202
+Did not take B014 / B007 / B047 / B049 / B055 / B056.
+Did not retake B016 / B045 / B051 / B054 / B057 / B092.
+IDs C446–C456 / L540–L549 / S383–S392.
+
+FIND (index only)
+  Shelby TN Deaths: BUNCH MARY M d. 11 Mar 1981 age 87 Knox/Knox widow white file 09021
+  Unique ALL BUNCH+MARY M 1893-window hit. Knox exact-date uniqueness = 1.
+  vs P007 (NUMIDENT Mary Magdalene / Mary M. Bunch b. 12 Jun 1893 Beattyville,
+  parents Sam P. & Dora, SSN 410-19-2658, deceased no DOD): PROBABLE
+  Identifiers: Mary M. Bunch + 1893 age window + Knox (Hazel born Knoxville 1919).
+  Parents not on the index. Certificate not examined. Do not print as PROVEN.
+
+FAN (deceased)
+  NUMIDENT Hazel E. / Hazel Elizabeth Bunch b. 14 Jun 1919 Knoxville, mother Mary M. Newnam,
+  SSN 410-19-4198, d. 1 May 1999 zip 37950-9040 (prior L331 snippet).
+  Shelby: BUNCH HAZEL 01 May 1999 age 79 Knox/Knox never married file 20106 (unique 1999).
+  Age window contains 14 Jun 1919. PROBABLE same deceased daughter. Living kin withheld.
+
+NIL / REJECT
+  Lee Books 16–37: nil Bunch (extends Books 1–15 C158).
+  ALL MAGDALENE / ALL NEWNAM MARY / ALL MAYR: nil.
+  BUNCH MARY M 02 Jun 2010 Wayne age 76 DISPROVED.
+  BUNCH MARY E 10 Jan 1963 Campbell age 68 already C158 (age window excludes 12 Jun 1893).
+  Other ALL MARY rows fail MI and/or age.
+  BUNCH DORA 17 Jun 1988 age 70 Knox/Anderson — reject vs P001.
+  FAG Mary+Bunch+1981 exact: 0 memorials.
+  IA Solr tight: Mary Magdalene Bunch Knoxville 1981 = 0;
+    Hazel Elizabeth Bunch Knoxville 1999 = 0;
+    Mary Newnam Bunch Beattyville = 0.
+  IA Solr quoted "Mary M. Bunch" OR "MARY M BUNCH" Knox 1981 = 739 (too broad; not a find).
+  SortedByName 403. TSLA still JS/403 (S140).
+  Newspapers.com News-Sentinel 1981 catalog exists; issues not examined.
+
+RETRIEVAL (do not invent the sealed certificate)
+  Shelby requestform.php?type=death&year=1981 file 09021
+  TN Office of Vital Records — next-of-kin until 2031
+  Newspapers.com Knoxville News-Sentinel 12–13 Mar 1981
+  Knox County Library obituary index starts 1991 (too late)

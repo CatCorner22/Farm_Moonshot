@@ -236,6 +236,28 @@ Regenerated **before** B047 M1509 queries (`bc-20e39036`). **Did not take B016**
 
 Exact strings logged **L460–L468**.
 
+## Name-variant storm (pass 77, `search_variants.py`, 31 Oct 2026)
+
+Regenerated **before** B014 Hardin K. Gray DC queries (`bc-20e39036`). **Did not take B007** (`bc-6d51c793` Pass **76**, L500+). **Did not take B016** (`bc-c5415202` Pass **74**). **Did not retake B047 / B045 / B049 / B055 / B056 / B092.** Used reserved unused **C435–C445 / L496–L499 L510+ / S371–S382**. Categories **1–4**:
+
+1. **Canonical:** Hardin K. Gray (FAN of witness Link Mays / Vestie Mayes Gray); statewide index **GRAY, HARDIN K**, d. **09/07/1967**, Lee, vol **042** #**20591**.
+2. **User / family:** Harden / Harding / Hardin; Gray / Grey; Vestie / Vesta / Vista Mayes/Mays.
+3. **Machine / OCR given:** Hardin (ocr-given: Hardin). Surname: Gray, Grey. Soundex **G600** / Hardin **H635** / Harden **H635** / Vestie **V230**.
+4. **Repository quirks:** Reclaim The Records `GRAY, HARDIN K`; USGenNet Lee `deaths/1967.html` + `cemeteries/gray.html`; SortedByName `/letter_g/gray/`; FAG `firstName=Hardin&lastName=Gray`; KY OVS / CHFS vol **042** cert **20591**; FS *Kentucky Death Records, 1911–1967* coll. **1417491**; Ancestry **1222**; cert-only `20591` / RD `042`.
+
+Exact strings logged **L496–L499 L510+**.
+
+## Name-variant storm (pass 78, `search_variants.py`, 31 Oct 2026)
+
+Regenerated **before** B015 Mary Bunch queries (`bc-c5415202`). **Did not take B014** (`bc-20e39036` Pass **77**, C435–C445 / L496–L499 L510+ / S371–S382). **Did not take B007** (`bc-6d51c793` Pass **76**, L500+). **Did not take B047 / B049 / B055 / B056.** **Did not retake B016 / B045 / B051 / B054 / B057 / B092.** This pass uses **C446+ / L540+ / S383+**. Categories **1–4**:
+
+1. **Canonical:** Mary Magdalene (Newnam) Bunch (P007); NUMIDENT b. **12 Jun 1893** Beattyville, parents Sam P. & Dora, SSN **410-19-2658**, deceased, no DOD.
+2. **User / family:** Mary / Mary M. / Mary Magdalene; Bunch; Newnam / Newman; FAN **Hazel E. Bunch** (deceased 1999 snippet, mother Mary M. Newnam).
+3. **Machine / OCR given:** Mary, mayr, mam, marv; Magdalene (ocr-given: Magdalene only). Surname: Bunch (ocr-surname: Bunch). Soundex **B520** / **N550** / Magdalene **M234** / Hazel **H240**.
+4. **Repository quirks:** Shelby TN Deaths `param1=BUNCH&param2=MARY` Last/First + county ALL/KNOX + 1949–2014; FAG `firstName=Mary&lastName=Bunch`; USGenNet Lee Books `Bunch`; SortedByName `/letter_b/bunch/`; IA Solr quoted phrases; KY death index Mary Bunch ~1893.
+
+Exact strings logged **L540+**.
+
 ## Agent SDK / GitHub channel
 
 Inspected 30 Oct 2026 (**L351**): this repository has **no** `package.json`, **no** `@grok/agent-sdk`, **no** `bot/` directory. GitHub channel `bot/channels/github.ts` is **n/a** and was **not** authored. Project subagent: `.cursor/agents/dora-genealogy-detective.md`.
