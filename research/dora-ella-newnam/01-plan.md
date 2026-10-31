@@ -79,6 +79,16 @@ Wildcard strings to use: `New*m`, `Dor* New*`, `"Doll Newnam"`, `McCoy OR Coy Ne
 | 30 | Lee VS deaths 1874–1878 and 1900–1904 | USGenNet vsd / vsd1 / vsd2 | Samuel P death | **nil** Samuel P; John 37 d. 5 Mar 1900 is BIL context |
 | 31 | 1900 Proctor + Book 7 Burke×Hoover | RootsWeb / USGenNet | Whose grandchild is E.T.? | Provie Hoover gdau of Elias; C.B. son of George Burke |
 
+## Name-variant storm (pass 65, 31 Oct 2026, `search_variants.py`)
+
+**Pearl Newnam / Clyde Jackson (B061)** — Pearl × Newnam, newman, newnarn, newan, newnom. Clyde × Jackson, jacksen. Soundex **N550** / **J250**. Combined: `"Pearl Newnam"`, `"Newnam, Pearl"`, `"Clyde Jackson"`, `"Jackson, Clyde"`.
+
+**Dora 1926 press (B049 new terms)** — `"Carter Cove"` / `"Carters Chapel"` / `"Coy Newnam"` / title *Yell County Record* + year 1926. Did **not** repeat C335 strings.
+
+**Dora as mother (year hole)** — Dora / Ella × Newnam / Newman / Stone on Lee births N.
+
+Exact strings logged **L406–L418**.
+
 ## Name-variant storm (pass 64, 31 Oct 2026, `search_variants.py`)
 
 **Mary A. Newnam 1918** — given: Mary, mayr, mam, marv. Surname: Newnam, newman, newnarn, newan, newnom, Smallwood. Soundex **N550** / **S543**. Combined: `"Mary Newnam"`, `"Newnam, Mary"`, `"Mary newman"`, `"Mary Smallwood"`. Date+place: `07/11/1918` + LEE / OWSLY / ESTIL / BRTHT.

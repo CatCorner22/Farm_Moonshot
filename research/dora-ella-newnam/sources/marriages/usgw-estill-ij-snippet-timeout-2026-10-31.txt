@@ -1,0 +1,22 @@
+USGenWeb Archives Estill marriages I/J and N/O — access note, 31 Oct 2026.
+
+Attempted:
+  http://files.usgwarchives.net/ky/estill/vitals/marriages/          curl 60s timeout, 0 bytes
+  http://files.usgwarchives.net/ky/estill/vitals/marriages/marr-ij.txt  curl 90s timeout, 0 bytes
+  same URL underscore marr_ij.txt  timeout
+  WebFetch of marr-ij.txt and usgwarchives.net/marriages/kentucky/estill.htm  timeout
+
+WebSearch returned substantial snippets of the 1999 submitted files
+(groom-sorted; "not complete"; contributors Ed/Jen/Lisa/Ralph/Wanda/Brenda/Mollie/Aleita;
+last updated 06/01/1999).
+
+I/J snippet: after Isaacs, William Coffey, Mary E. 02 Mar 1904 Jen
+the next surname shown is James, William Lane, Ann 19 Jan 1811.
+No "Jackson," line in the I/J snippet. Targeted WebSearch
+  "Jackson," site:files.usgwarchives.net/ky/estill/vitals/marriages/marr-ij.txt
+returned no Jackson grooms.
+
+N/O snippet Newman grooms only 1904/1907 (see estill-published extract).
+
+These snippets are not a substitute for the unread full files.
+Label: snippet seen / full file unread (host timeout).

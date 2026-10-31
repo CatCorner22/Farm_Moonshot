@@ -1,0 +1,41 @@
+Estill County published marriage paths, 31 Oct 2026. B061.
+
+1) https://kygenweb.net/estill/site/records/marriage/  landing HTTP 200, 2732 bytes.
+   Links: pages/grooms.htm; marriage_1.htm (James Jones & Mary E. Profitt — specific couple);
+   marriage_2.htm (Jesse Woosley & Sarah Crutchfield — specific couple);
+   Estill 1850 page; minister returns 1901/1902 images; pages/certificates.htm.
+   No 1911–17 year file.
+
+2) pages/grooms.htm HTTP 200, 112050 bytes. Early bonds (1810s–1820s).
+   Only Newman row: Newman, Nancy × Sparks, James  9 Dec 1825.
+   No Clyde / Pearl / Newnam / Jackson grooms of 1911–17.
+
+3) pages/certificates.htm HTTP 200, 51696 bytes. Years seen on page 1835–1902 (no 1911–17 counts).
+   Clyde: 0. Newnam/Newman: 0.
+   Rejects: Abney, Jackson & Drucilla F. Brinegar (Jackson as given name);
+   Hull, John & Pearlie Witt; McIntosh, Pearl & Loula Sons; Randy Jackson (credit).
+
+4) https://kygenweb.net/estill/marry/marry.htm  HTTP 404 (1543 bytes error page).
+   https://kygenweb.net/estill/marry/  HTTP 404. Cached WebSearch snippets of marry.htm are not the live file.
+
+5) files.usgwarchives.net/ky/estill/vitals/marriages/marr-ij.txt
+   This VM: curl 60–90s timeout, 0 bytes (same host timeout as pass 63).
+   WebFetch timeout. WebSearch snippet of the 1999 submitted I/J file
+   (groom-sorted, labeled not complete) jumps
+     Isaacs, William Coffey, Mary E. 02 Mar 1904 Jen
+     James, William Lane, Ann 19 Jan 1811 Jen/Aleita
+   with no intervening Jackson grooms in the snippet. Full file not downloaded.
+   Access: snippet seen / full file unread (timeout).
+
+6) files.usgwarchives.net/ky/estill/vitals/marriages/marr-no.txt
+   Same host not fetched here. WebSearch snippet (groom-sorted):
+     Newman, Hendrix Chaney, Sarah Elma 13 Jun 1907 Jen
+     Newman, Julius Burgy, Martha 23 Dec 1907 Jen
+     Newman, S.P. Banks, Rose 27 Aug 1904 Jen
+   No Pearl Newman groom. S.P. × Rose Banks is the known Lee Book 7 collision (C013), not Pearl.
+   Access: snippet seen / full file unread.
+
+7) Estill County Clerk https://estill.countyclerk.us/records/ HTTP 200.
+   "Marriages and Wills are indexed and scanned in our CCLIX back to 1797."
+   "An account and password must be assigned… Access fees are charged."
+   Not examined (credentials/fee). On-site viewing stated free at the clerk's office.

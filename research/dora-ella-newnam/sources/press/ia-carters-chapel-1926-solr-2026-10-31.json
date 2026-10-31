@@ -1,0 +1,1 @@
+{"responseHeader":{"status":0,"QTime":29,"params":{"query":"(text:&quot;Carters Chapel&quot; OR text:&quot;Carters Chapel&quot; OR text__reviews:&quot;Carters Chapel&quot;) AND year:1926","qin":"&quot;Carters Chapel&quot; AND year:1926","fields":"identifier,title,year,mediatype","wt":"json","rows":20,"start":0}},"response":{"numFound":0,"start":0,"docs":[]}}

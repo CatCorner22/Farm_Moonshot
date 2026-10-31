@@ -5,7 +5,7 @@ Full file list (331 files): [`sources/SOURCE-INVENTORY.tsv`](sources/SOURCE-INVE
 
 **Access labels:** `image seen` · `index only` · `transcription only` · `catalog only` · `OCR text` · `not yet examined`.
 
-Captured this session: **31 Oct 2026** (S283–S290). Earlier plates remain in `sources/census/`, `sources/soundex/`, and `book/plates/` (see `12-image-gallery.md` and `04-evidence.md`). Pass 60–61 sources S267–S282 remain.
+Captured this session: **31 Oct 2026** (S283–S290, S299–S326). Earlier plates remain in `sources/census/`, `sources/soundex/`, and `book/plates/` (see `12-image-gallery.md` and `04-evidence.md`). Pass 60–61 sources S267–S282 remain.
 
 | ID | Filename | Date captured | Repository | URL | Citation (what / where created / where accessed) | What it proves | Access |
 |---|---|---|---|---|---|---|---|
@@ -51,6 +51,17 @@ Captured this session: **31 Oct 2026** (S283–S290). Earlier plates remain in `
 | S313 | `sources/marriages/kygenweb-owsley-marry-index-2026-10-31.html` + `wayback-owsley-marry-cdx-2026-10-31.txt` + extract | 2026-10-31 | KYGenWeb / Wayback CDX | https://kygenweb.net/owsley/marry/ | Marriage index | 1900–1920 heading **unlinked**; no archived file (**C332**) | catalog / negative |
 | S314 | `sources/press/ia-dardanelle-1926-solr-2026-10-31.json` · `ia-posa-stone-1926-solr-2026-10-31.json` + extract | 2026-10-31 | Internet Archive Solr | https://archive.org/ | 1926 title / name search | **numFound 0** (**C335**) | index only (negative) |
 | S315 | `sources/military/owsley-military-2026-10-31.html` + `sources/locality/owsley-courthouse-fire-1967-2026-10-31.html` + extract | 2026-10-31 | USGenNet Owsley | military.html + photos/chfire67.html | Military landing + 1967 fire | **No** WWI list (**C336**); fire page locality (**C337**) | catalog / negative |
+| S316 | `sources/marriages/jackson-ik-marriages-2026-10-31.html` + `jackson-np-marriages-2026-10-31.html` + extract | 2026-10-31 | KYGenWeb Jackson | i-kmarriages.html + n-pmarriages.html | Edie Smith compiled marriages | **Nil** Clyde × Pearl; Jackson grooms to 1905; Newman 1895 only (**C338 C339**) | transcription only (negative) |
+| S317 | `sources/marriages/jackson-marry-dir-2026-10-31.html` + `jackson-ab-marriages-2026-10-31.html` | 2026-10-31 | KYGenWeb Jackson | /jackson/marry/ | Directory + A–B control | Compilation includes some 1911–17 dates | catalog / transcription |
+| S318 | `sources/marriages/estill-marr-landing-2026-10-31.html` + grooms + certificates + 404 + extract | 2026-10-31 | KYGenWeb Estill | site/records/marriage/ | Published marriage pages | **Nil** 1911–17 Clyde × Pearl (**C340**) | catalog / transcription (negative) |
+| S319 | `sources/marriages/breathitt-kygenweb-home-2026-10-31.html` + links + Wolfe records + 1861–1909 + extract | 2026-10-31 | KYGenWeb Breathitt / Wolfe | breathitt/ ; wolfe/Marriage.htm | County catalogs | **No** 1911–17 year file (**C341 C342**) | catalog / negative |
+| S320 | `sources/locality/estill-clerk-records-cclix-2026-10-31.html` | 2026-10-31 | Estill County Clerk | https://estill.countyclerk.us/records/ | CCLIX catalog | Marriages to 1797; account + fee (**C345**) | catalog only |
+| S321 | `sources/locality/owsley-clerk-online-records-2026-10-31.html` + `owsley-eclix-catalog-2026-10-31.txt` | 2026-10-31 | Owsley County Clerk | https://owsley.countyclerk.us/online-records/ | eCCLIX landing | No anonymous 1911–17 book (**C346**) | catalog only |
+| S322 | `sources/authored/combs-owsley-1911-2026-10-31.html` + extract | 2026-10-31 | Combs-families.org | /combs/records/ky/owsley/1911.htm | Combs FAN 1911 page | **Nil** Clyde × Pearl (**C347**) | authored / negative |
+| S323 | `sources/press/ia-carter-cove-1926-solr-2026-10-31.json` + 3 sibling JSON + extract | 2026-10-31 | Internet Archive Solr | archive.org advancedsearch | New 1926 terms | All **numFound 0** (**C349**); ADH DNS (**C350**) | index only (negative) |
+| S324 | `sources/births/lee-births-n-2026-10-31.html` + `lee-births-n-newman-no-mother-dora-2026-10-31.txt` | 2026-10-31 | USGenNet Lee births N | birthsn.html | County birth index | **Nil** mother Dora (**C351**) | index / transcription |
+| S325 | `sources/marriages/usgw-estill-ij-snippet-timeout-2026-10-31.txt` | 2026-10-31 | USGenWeb Archives Estill | files.usgwarchives.net …/marr-ij.txt | Submitted I/J + N/O | Full files timeout; snippets no Clyde/Pearl (**C343 C344**) | snippet / timeout |
+| S326 | `sources/military/hollingsworth-2002-worldcat-catalog-2026-10-31.txt` | 2026-10-31 | WorldCat | OCLC 54019565 | Hollingsworth 2002 print | Not digitized; not examined (**C348**) | catalog only |
 
 ## Word biography provenance
 
@@ -66,8 +77,11 @@ See [`sources/authored/PROVENANCE.md`](sources/authored/PROVENANCE.md). Drive se
 | *Yell County Journal* (Ola, 1925–1934) | AR State Archives / Danville or Plainview library | Not digitised free |
 | NARA M1509 rolls **KY45** (Lee), **KY24** (Estill), **KY74** (Owsley), **AR69** (Yell) | FS sign-in or NARA: **Clyde Jackson** b. **May 1892** on **KY74**; also John H. / McCoy | Cards unread (**B047** / **B058**) |
 | KDLA / KHS Lee probate 1873–2004 | Film browse Samuel P. Newnam admin. | **B045** |
-| Owsley Co. marriage books **1911–1917** (not on USGenNet; 1900–1920 heading never linked) | FS catalog / Owsley Clerk, Booneville: **Clyde Jackson** × **Pearl Newnam/Newman**; parents **Rufus × Margaret** if C318 holds | Published gap (**C321 C332** / **B057**) |
-| Hollingsworth 2002 Owsley WWI draft cards (WorldCat **54019565**) | On-site / ILL: **Clyde Jackson** b. **May 1892** | Free military page has no WWI list (**C336** / **B062**) |
+| Owsley Co. marriage books **1911–1917** (not on USGenNet; 1900–1920 heading never linked; eCCLIX resident/fee only) | FS catalog / Owsley Clerk, Booneville (or eCCLIX if resident): **Clyde Jackson** × **Pearl Newnam/Newman**; parents **Rufus × Margaret** if C318 holds | Published gap (**C321 C332 C346** / **B057**) |
+| Hollingsworth 2002 Owsley WWI draft cards (WorldCat **54019565**) | On-site / ILL: **Clyde Jackson** b. **May 1892** | Print only; no WWI list on USGenNet (**C336 C348** / **B062**) |
+| Estill CCLIX marriages to 1797 | Clerk account/fee or Campton/Irvine office: Clyde Jackson × Pearl 1911–17 | **C345** / **B063** |
+| R.L. Smith, *Owsley Co. Marriages 1843–1929* (print, cited on Combs-families) | ILL / KHS: Clyde × Pearl | **B064** |
+| AR Digital Archives In Remembrance death index S–T / M–O | When host resolves: Stone / Newman 1926 | DNS this pass (**C350** / **B065**) |
 
 ## Variant strings used this session (categories 1–4)
 
@@ -77,8 +91,10 @@ See [`sources/authored/PROVENANCE.md`](sources/authored/PROVENANCE.md). Drive se
 
 **Thomas / T. A. Stone:** Thomas, Tom, T. A., T A × Stone, Store, Stowe (rejects already logged).
 
-Exact strings in `02-log.md` **L343–L352** (pass 60–61), **L361–L372** (pass 62), **L373–L379** (pass 63), and **L396–L405** (pass 64).
+Exact strings in `02-log.md` **L343–L352** (pass 60–61), **L361–L372** (pass 62), **L373–L379** (pass 63), **L396–L405** (pass 64), and **L406–L418** (pass 65).
 
 **Pearl / Clyde (pass 63):** Pearl × Newnam/Newman/Jackson; Clyde × Jackson/jacksen. Soundex **N550** / **J250**.
 
 **Mary A. Newnam 1918 (pass 64):** Mary / mayr / mam / marv × Newnam / newman / newnarn / newan / newnom / Smallwood. Soundex **N550** / **S543**.
+
+**Pearl / Clyde (pass 65, B061):** Pearl × Newnam/newman/newnarn/newan/newnom; Clyde × Jackson/jacksen. Soundex **N550** / **J250**. B049 new terms: Carter Cove / Carters Chapel / Coy Newnam / Yell County Record + 1926.
