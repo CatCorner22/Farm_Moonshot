@@ -1350,5 +1350,64 @@ Closest OR leaf on nativity. Given name James C; son Theodore 24 is not Letha ~2
 
 Only Jesse card on the Oregon C-563 run. Age 60, New York-born. John 54 Norway follows. → **C442 / C445**.
 
+## DOC094 — 1900 ME Soundex C-563, James E Conrad, 32
+- Image: `sources/soundex/me1900-c563-p400-james-e.jpg` SHA-256 `f198dbf452c46f5ea830c655f1d813dddd616ebd84c279b71d9fc4932ee855cf`
+- Reel: IA `soundex1900me015` n**400**
+- Enhancement: invert of IA BookReader JPEG (copy); original not committed
+
+### Diplomatic
+> **C-563 Conrad, James E.** — Head of family · vol **20** ED **197** sh **16** ln **20** · W Apr **1868** **32** Maine · Washington / Calais / Garfield  
+> **Conrad, Ida M** — W, May **1866**, **34**, Massachusetts
+
+Chouinard Jean Baptiste is the next leaf; Conrad John M follows. No Jesse card. → **C447 / C452**.
+
+## DOC095 — 1900 RI Soundex C-563 divider (empty) + first C-565
+- Images: `sources/soundex/ri1900-c563-p187-divider.jpg` SHA-256 `bea98e9012ff37980f91fcc4450814dba0eb980a6ac853bc8b2617c572b91f47`; `sources/soundex/ri1900-c565-p188-cameron-after-divider.jpg` `321b21919a3a53b97c22fb5e4c0c81f5726807a6fb0c7587650459dedf5a1617`
+- Reel: IA `soundex1900ri010` n**187–188**
+
+### Diplomatic
+> n**187** — Soundex **C-563** code divider (printed “Soundex / A SERVICE”; stamped **mrd 563**). **No name card.**  
+> n**188** **C-565 Cameron, Albert D.** — Head of family · vol **6** ED **47** sh **24** ln **19** · W June **1855** **44** Florida · Providence / Providence / Academy **50**  
+> **Cameron, Lucy A** — W, Oct **1865**, **34**, Massachusetts  
+> **Day, Floyd E** — Bo, Aug **1882**, **17**, Massachusetts
+
+Last C-562 leaf is Connors, William J n186. No Conrad card sits between that William and this first Cameron. → **C448**.
+
+## DOC096 — 1900 ID Soundex C-563, James H Conrad, 34, Missouri
+- Image: `sources/soundex/id1900-c563-p174-james-h-34-mo.jpg` SHA-256 `a7288ee2d6b4831a4c90bdc9d68c02555222b1fab3683109b38a1acaaf147657`
+- Reel: IA `soundex1900id004` n**174**
+
+### Diplomatic
+> **C-563 Conrad, James H.** — Head of family · vol **6** ED **104** sh **1** ln **61** · W May **1866** **34** Missouri · Shoshone / Mullan Pct  
+> **Conrad, Leo** — W, Oct **1870**, **29**, Missouri  
+> **Nina** — D, Apr **1888**, **12**, Missouri  
+> **Albert L.** — S, Dec **1890**, **9**, Oklahoma
+
+Closest ID leaf on nativity and age. Given name James H; Nina 12 is not Letha ~2. → **C450**.
+
+## DOC097 — 1900 ID Soundex C-563, Isaac Conrad, 34, Indiana
+- Image: `sources/soundex/id1900-c563-p160-isaac-34-in.jpg` SHA-256 `2fbf107fe384424017c535a797ad9935bd97861254499e9f5658c2165e0c826b`
+- Reel: IA `soundex1900id004` n**160**
+
+### Diplomatic
+> **C-563 Conrad, Isaac** — Individual · vol **4** ED **57** sh **10** ln **51** · W Oct **1865** **34** Indiana · Kootenai / Rathdrum Precinct  
+> Enumerated with **Koch, John G.** · Relationship **Brother in law**
+
+J-tab is the next leaf (n161). → **C451**.
+
+## DOC098 — 1900 ID Soundex C-563, John H Coonrod, 60, Illinois
+- Image: `sources/soundex/id1900-c563-p186-john-h-coonrod.jpg` SHA-256 `6fbde78eb651fd2d28f7bfb3504af2bba7c13d5bf3d0c3be580cbf44c572b012`
+- Reel: IA `soundex1900id004` n**186**
+
+### Diplomatic
+> **C-563 Coonrod, John H.** — Head of family · vol **2** ED **33** sh **5** ln **1** · W Jan **1840** **60** Illinois · Boise / Van Wyck Precinct  
+> **Coonrod, Mandy J** — W, Jan **1847**, **53**, Illinois  
+> **C. D.** — S, July **1874**, **25**, Kansas  
+> **Mary E.** — D, Nov **1876**, **23**, Kansas  
+> **Robert I.** — S, Jan **1879**, **21**, Kansas  
+> **[Ida?]** — D, Mar **1882**, **18**, Kansas
+
+First John-band C-563 leaf after James H. No Jesse card. → **C449**.
+
 ## DOC009 — 1910 TN Soundex N-550 McCoy window (nil)
 Handwritten family/individual cards n2461–n2469. Sequence after Mary C (n2460): Mary D 49 Jefferson (son Layton 11); Mary M 70 Hamilton; Mek. G 50 Cheatham (Florence 19, John 17, General 16, Frances 13, William 10, Doria 6, Luther 1½); Melvin 3½ Giles (gs of Deacon George W); Melvin 54 Giles (SIL of same); Minerva 80 Robertson (gds Lona Neely, Nellie Erwin); Minnie 21 Roane (with Sam P. Sparks); Mitchell 27 Hardin (Ollie P 25, Gladys 4, Burl W 3, Royal E 1 9/12). **No McCoy.** SHA-256 n2463 `23610f8aa4c159b1b554ed1786d11f57d2f56f8a2e8994f7289ae7bd02dfca53`; n2469 `340489566090880388fa6b81ca5751c5944dcaf56a7b44f70fe560788f308586`.

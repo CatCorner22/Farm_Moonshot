@@ -135,6 +135,12 @@ Diplomatic transcriptions: [`08-transcriptions.md`](08-transcriptions.md). Citat
 | 160 | 1900 (index) | Rejected same-name | [Connecticut C-563 — Jennie Conrad, 36, Illinois; no Jesse leaf](sources/soundex/ct1900-c563-p3528-jennie-before-john.jpg) |
 | 161 | 1900 (index) | Rejected same-name | [Oregon C-563 — James C Conrad, 59, Missouri, Wallowa](sources/soundex/or1900-c563-p953-james-c-59-mo.jpg) |
 | 162 | 1900 (index) | Rejected same-name | [Oregon C-563 — Jesse H Conrad, 60, New York, Albany](sources/soundex/or1900-c563-p955-jesse-h-60-ny.jpg) |
+| 163 | 1900 (index) | Rejected same-name | [Maine C-563 — James E Conrad, 32, Calais](sources/soundex/me1900-c563-p400-james-e.jpg) |
+| 164 | 1900 (index) | Negative search | [Rhode Island C-563 — code divider; no Conrad leaf](sources/soundex/ri1900-c563-p187-divider.jpg) |
+| 165 | 1900 (index) | Rejected same-name | [Rhode Island C-565 — Cameron, Albert D, after the empty C-563 slot](sources/soundex/ri1900-c565-p188-cameron-after-divider.jpg) |
+| 166 | 1900 (index) | Rejected same-name | [Idaho C-563 — James H Conrad, 34, Missouri, Mullan](sources/soundex/id1900-c563-p174-james-h-34-mo.jpg) |
+| 167 | 1900 (index) | Rejected same-name | [Idaho C-563 — Isaac Conrad, 34, Indiana, Rathdrum](sources/soundex/id1900-c563-p160-isaac-34-in.jpg) |
+| 168 | 1900 (index) | Rejected same-name | [Idaho C-563 — John H Coonrod, 60, Illinois; no Jesse leaf](sources/soundex/id1900-c563-p186-john-h-coonrod.jpg) |
 | 123 | 1900 (index) | Context | [Texas C-563 — J-tab divider](sources/soundex/tx1900-c563-p1-j-divider.jpg) |
 | 17 | Apr 1910 | Negative search | [Kentucky N-550 — Millie / Missouri; no McCoy](sources/soundex/ky1910-n550-p329-millie-missouri.jpg) |
 | 18 | Apr 1910 | Negative search | [Kentucky N-550 — Monroe; still no McCoy](sources/soundex/ky1910-n550-p330-monroe-no-mccoy.jpg) |
@@ -1353,6 +1359,66 @@ White head, April 1841, age 59, born Missouri, Paradise precinct. Wife Amanda, 5
 White head, June 1839, age 60, born New York, West Albany. Wife Mary, September 1843, age 56, New York; two lodgers and three boarders. The only Jesse card on the Oregon C-563 run. Age 60 and New York nativity fail versus 1910 Jesse Conrad about 27 born Missouri.
 
 ![Oregon C-563 — Jesse H Conrad, 60, New York, Albany](sources/soundex/or1900-c563-p955-jesse-h-60-ny.jpg)
+
+### 163 · 1900 (index) · Maine C-563 — James E Conrad, 32, Calais
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/me1900-c563-p400-james-e.jpg`](sources/soundex/me1900-c563-p400-james-e.jpg)  
+**Source:** S342 · C447 · C452
+
+White head, April 1868, age 32, born Maine, Calais. Wife Ida M, 34, Massachusetts. Jean Baptiste Chouinard is the next leaf; Conrad John M follows. Combined with the n280–470 every-card walk, Maine 1900 C-563 has no White Jesse Conrad head about 27 born Missouri.
+
+![Maine C-563 — James E Conrad, 32, Calais](sources/soundex/me1900-c563-p400-james-e.jpg)
+
+### 164 · 1900 (index) · Rhode Island C-563 — code divider; no Conrad leaf
+
+**Role:** Negative search  
+**File:** [`sources/soundex/ri1900-c563-p187-divider.jpg`](sources/soundex/ri1900-c563-p187-divider.jpg)  
+**Source:** S343 · C448
+
+Printed Soundex service card stamped mrd 563. The last C-562 leaf is Connors, William J. The next leaf is C-565 Cameron, Albert D. Rhode Island 1900 has no C-563 Conrad card.
+
+![Rhode Island C-563 — code divider; no Conrad leaf](sources/soundex/ri1900-c563-p187-divider.jpg)
+
+### 165 · 1900 (index) · Rhode Island C-565 — Cameron, Albert D, after the empty C-563 slot
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/ri1900-c565-p188-cameron-after-divider.jpg`](sources/soundex/ri1900-c565-p188-cameron-after-divider.jpg)  
+**Source:** S343 · C448
+
+White head, June 1855, age 44, born Florida, Providence. Wife Lucy A, 34, Massachusetts. This is the first card after the C-563 divider. Combined with Plate 164 this closes the Rhode Island 1900 C-563 Jesse slot.
+
+![Rhode Island C-565 — Cameron, Albert D, after the empty C-563 slot](sources/soundex/ri1900-c565-p188-cameron-after-divider.jpg)
+
+### 166 · 1900 (index) · Idaho C-563 — James H Conrad, 34, Missouri, Mullan
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/id1900-c563-p174-james-h-34-mo.jpg`](sources/soundex/id1900-c563-p174-james-h-34-mo.jpg)  
+**Source:** S344 · C449 · C450
+
+White head, May 1866, age 34, born Missouri, Shoshone County. Wife Leo, 29, Missouri; daughter Nina, 12, Missouri; son Albert L, 9, Oklahoma. Closest Idaho leaf on nativity and age. Given name is James H, and Nina, 12, is not Letha, about 2.
+
+![Idaho C-563 — James H Conrad, 34, Missouri, Mullan](sources/soundex/id1900-c563-p174-james-h-34-mo.jpg)
+
+### 167 · 1900 (index) · Idaho C-563 — Isaac Conrad, 34, Indiana, Rathdrum
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/id1900-c563-p160-isaac-34-in.jpg`](sources/soundex/id1900-c563-p160-isaac-34-in.jpg)  
+**Source:** S344 · C449 · C451
+
+White individual, October 1865, age 34, born Indiana, Rathdrum. Brother-in-law of John G. Koch. The next leaf is the J-tab. Combined with Plate 166 this closes the Idaho 1900 C-563 Jesse slot before James H.
+
+![Idaho C-563 — Isaac Conrad, 34, Indiana, Rathdrum](sources/soundex/id1900-c563-p160-isaac-34-in.jpg)
+
+### 168 · 1900 (index) · Idaho C-563 — John H Coonrod, 60, Illinois; no Jesse leaf
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/id1900-c563-p186-john-h-coonrod.jpg`](sources/soundex/id1900-c563-p186-john-h-coonrod.jpg)  
+**Source:** S344 · C449
+
+White head, January 1840, age 60, born Illinois, Van Wyck. Wife Mandy J, 53, Illinois; four Kansas-born children. First John-band C-563 leaf after James H. Combined with the n130–320 every-card walk, Idaho 1900 C-563 has no White Jesse Conrad head about 27 born Missouri.
+
+![Idaho C-563 — John H Coonrod, 60, Illinois; no Jesse leaf](sources/soundex/id1900-c563-p186-john-h-coonrod.jpg)
 
 ### 123 · 1900 (index) · Texas C-563 — J-tab divider
 
