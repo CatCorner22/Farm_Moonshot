@@ -5,7 +5,7 @@ Full file list (331 files): [`sources/SOURCE-INVENTORY.tsv`](sources/SOURCE-INVE
 
 **Access labels:** `image seen` · `index only` · `transcription only` · `catalog only` · `OCR text` · `not yet examined`.
 
-Captured this session: **30 Oct 2026**. Earlier plates remain in `sources/census/`, `sources/soundex/`, and `book/plates/` (see `12-image-gallery.md` and `04-evidence.md`).
+Captured this session: **31 Oct 2026** (S283–S290). Earlier plates remain in `sources/census/`, `sources/soundex/`, and `book/plates/` (see `12-image-gallery.md` and `04-evidence.md`). Pass 60–61 sources S267–S282 remain.
 
 | ID | Filename | Date captured | Repository | URL | Citation (what / where created / where accessed) | What it proves | Access |
 |---|---|---|---|---|---|---|---|
@@ -26,6 +26,14 @@ Captured this session: **30 Oct 2026**. Earlier plates remain in `sources/census
 | S280 | `sources/press/ia-yell-journal-1926-search-2026-10-30.json` · `ia-beattyville-enterprise-1926-search-2026-10-30.json` | 2026-10-30 | Internet Archive Solr | https://archive.org/ | 0 items for those 1926 titles | **C301** | index only |
 | S281 | `sources/press/genealogytrails-yell-obits-landing-2026-10-30.html` | 2026-10-30 | Genealogy Trails Yell obits | https://genealogytrails.com/ark/yell/obits.html | Landing page nil Stone/Newnam/Dora/1926 | **C302** | transcription only |
 | S282 | *(same HTML as S277)* | 2026-10-30 | Lee Books 20–24 officiant rows | https://usgennet.org/usa/ky/county/lee/marriage/marrbook23.html | Luther Newnam, minister, 1926–1933 including 6 Apr 1932 | **C300** | transcription only |
+| S283 | `sources/cemetery/brandenburg-quillen-mary-a-newnam-2026-10-31.txt` | 2026-10-31 | USGenNet Brandenburg-Quillen | https://usgennet.org/usa/ky/county/lee/cemeteries/b-q.html | Kendrick 2001 cemetery reading | Mary A. NEWNAM 22 Apr 1842 – 11 Jul 1918; Elias T. 1842–18 Apr 1932 (**C047 C309**) | transcription only |
+| S284 | `sources/births/lee-births-j-pearl-jackson-2026-10-31.txt` | 2026-10-31 | USGenNet Lee births J | https://usgennet.org/usa/ky/county/lee/births/birthsj.html | County birth index | Margaret E. 29 Jun 1917 and Fannie B. 11 Mar 1919, mother Pearl Newman (**C306 C307**) | index / transcription |
+| S285 | `sources/deaths/lee-1918-dc-extracts-no-mary-newnam-2026-10-31.txt` | 2026-10-31 | USGenNet Lee 1918 DCs | https://usgennet.org/usa/ky/county/lee/deaths/1918.html | Photographed-certificate extracts | **Nil** Mary A. Newnam (**C310**) | transcription only (negative) |
+| S286 | `sources/deaths/lee-kdi-n-1911-1929-mary-nil-2026-10-31.txt` | 2026-10-31 | USGenNet Lee KDI N | https://usgennet.org/usa/ky/county/lee/deaths/kdi/n.html | KY Death Index CD extract | **Nil** Mary / Mary A. Newnam (**C310**) | index only (negative) |
+| S287 | `sources/census/1920-lee-beattyville-dora-rejects-2026-10-31.txt` | 2026-10-31 | USGenNet 1920 Beattyville | https://usgennet.org/usa/ky/county/lee/census/1920/bt.html | Kendrick 1920 transcript | Dora 28 nee HALL rejected (**C311**); E.T. Newman 75 no P001 | transcription only |
+| S288 | `sources/marriages/lee-books-9-13-pearl-clyde-nil-2026-10-31.txt` | 2026-10-31 | USGenNet Lee Books 9–13 | https://usgennet.org/usa/ky/county/lee/marriage/ | Kendrick marriage books | **Nil** Clyde × Pearl (**C308**) | transcription only (negative) |
+| S289 | `sources/census/1920-lee-proctor-heidelberg-dora-nil-2026-10-31.txt` | 2026-10-31 | USGenNet 1920 Proctor/Heidelberg | https://usgennet.org/usa/ky/county/lee/census/1920/proctor1.html | Kendrick 1920 transcripts | **Nil** P001 ~48 (**C313**) | transcription only (negative) |
+| S290 | `sources/census/1920-lee-sturgeon-clyde-pearl-extract-2026-10-31.txt` | 2026-10-31 | USGenNet 1920 Sturgeon | https://usgennet.org/usa/ky/county/lee/census/1920/sturgeon.html | Kendrick 1920 transcript | Clyde/Pearl hh **34–38** nil P001 (**C305**) | transcription only |
 
 ## Word biography provenance
 
@@ -50,4 +58,4 @@ See [`sources/authored/PROVENANCE.md`](sources/authored/PROVENANCE.md). Drive se
 
 **Thomas / T. A. Stone:** Thomas, Tom, T. A., T A × Stone, Store, Stowe (rejects already logged).
 
-Exact strings in `02-log.md` **L343–L352**.
+Exact strings in `02-log.md` **L343–L352** (pass 60–61) and **L361–L372** (pass 62).

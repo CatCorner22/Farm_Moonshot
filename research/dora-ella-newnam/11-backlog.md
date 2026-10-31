@@ -60,10 +60,12 @@ Prioritised queue — work top to bottom. **Do not declare research complete whi
 | B052 | open | L | Lee census / Book 23 parents (deceased-only) | **Shelby Newman** × **Grace Brandenburg** — parents of Ladona | C298 | L353 | Do not merge Shelby with P002. Living descendants of 1932 couple **withheld** |
 | B053 | open | L | Everett Newnam Idamay FAN (deceased-only) | Frank of Berea; John of Owsley; Mrs Robert Spicer | C299 | L354 | Brothers named in 1939 obit; skip any living daughters |
 | B054 | open | L | Carter Cove stone photographs | Newman, Dora; Stone, Thomas | C282 C283 | L344 | FAG memorials **97907837** / **97907931** — photo request / on-site |
+| B055 | open | H | Owsley / other-county marriage (deceased-only) | Clyde Jackson × Pearl Newnam/Newman ~1914–1917 | C308 C314 | L363 | **Not** in Lee Books **9–13**. First documented married name is 29 Jun 1917 birth index. May name Dora as mother/consent |
+| B056 | open | H | KY death certificate Mary A. Newnam **11 Jul 1918** (statewide, not only Lee) | Mary A. / Mary / Newman / Newnam / Smallwood 1918 | C047 C310 | L365 L366 | Lee 1918 extracts + KDI N **nil**. Informant might locate Dora. Conflict #18 |
 
 ## Session handoff
-- **Last closed:** 30 Oct 2026 (America/New_York) · **Stopped after:** Pass **61** (**L343–L360**, **C281–C304**) — Greene **37–43** Stone sweep **done**; yellcountyobits Carter Cove rows; IA `beatty` Doll press; Lee Book **23** Clay × Ladona **15 Mar 1932**; Everett 1939 obit.
-- **Next session starts with:** **B049** (1926 *Enterprise* / *Yell County Journal* obituary); then **B045** FS/KDLA/KHS Samuel probate film; **B047** M1509 **KY45/24/74**; user handoffs **R001/R007/R008**. |
+- **Last closed:** 31 Oct 2026 · **Stopped after:** Pass **62** (**L361–L372**, **C305–C316**) — 1900–death year-by-year write-up (`14-1900-death-reconstruction.md`); Pearl 1920 Sturgeon **nil** P001; 1917 children’s two-state split; Mary A. 1918 stone vs missing Lee civil row; m2 window after 24 Feb 1920.
+- **Next session starts with:** **B055** (Pearl × Clyde license — may name Dora); then **B056** Mary 1918 statewide DC; **B049** 1926 *Enterprise* / *Yell County Journal*; user handoffs **R001/R007/R008**. |
 
 
 ## Escalation log (brick walls — step number from exhaustive-research.md)

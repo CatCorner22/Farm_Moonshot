@@ -57,11 +57,15 @@ Place as it was *at the date*; modern equivalent in brackets. Flag impossibiliti
 | Jun 1900 | — | Greene ED **40** extra sheets (2 B, 9 A, 14 A/B) **nil Stone** (extends C170) | Springfield, Greene Co., MO | C181 | S157 |
 | Apr 1910 | — | Parents Elias (“Elisa”) & Mary (Smallwood) Newnam, couple alone, Proctor ED 100 dw 19/20 | Lee Co., KY | C075 | S057 |
 | 1910 | — | Pearl, 15, gdau. of Elizabeth Newmann, Buck Creek, Owsley | Owsley Co., KY ED 169 hh 141 | C026 | S041 prior |
-| 11 Jul 1918 | ~46 | Mother Mary A. Newnam d. | Lee Co. (Brandenburg-Quillen) | C047 | S032 prior |
+| 11 Jul 1918 | ~46 | Mother **Mary A. Newnam** buried Brandenburg-Quillen, Heidelberg (**22 Apr 1842 – 11 Jul 1918** on 2001 reading). **Not** in Lee 1918 DC extracts or Lee KDI N 1911–1929 as Mary Newnam. Dora **not named**. Civil death *place* **open** (conflict #18) | Heidelberg, Lee Co., KY (burial **PROVEN**; death-in-Lee **PROBABLE**) | C047 C309 C310 | S283 S285 S286 |
 | **1913–1916** | ~42–45 | **No record read places P001** (Lee N-index 1913 has unrelated **Maud L. Newman** only; Owsley VS **Clara Newnam** infant 1913 — not P001) | **unknown** | C205 | S047 S060 L153 |
 | Apr 1910 | ~38 | **Not on Yell Co., AR** originals (**T624-68**, IA **`13thcensus1910po0068unit`**) as **Newnam/Newman/Stone** + **Dora/Ella** ~**35–42** b. **KY** on targeted sheets (**Ola Rd**, Rose Creek sample, **ED 166–174** sector); **AR N-550** Dora ~39 **nil** (**C032**) | Yell Co. searched on free reel | C032 C219 | S137 L190 L191 |
 | 18 Feb 1917 | 45 | Son McCoy m. Letha Viola Sullivan | Ola, Yell Co., AR | C027 | S024 prior |
+| **29 Jun 1917** | 45 | FAN: **JACKSON, Margaret E.**, mother **NEWMAN, Pearl** — Pearl in **Lee Co.** four months after Coy’s Ola wedding. **P001 not** on the index row. Family geographically **split** | Lee Co., KY | C306 C312 | S284 |
+| **11 Mar 1919** | 47 | FAN: **JACKSON, Fannie B.**, mother **NEWMAN, Pearl** — Pearl still Lee. **P001 not** on the row | Lee Co., KY | C307 | S284 |
 | Jan 1920 | ~48 | **Not in AR as Dora Stone or Dora Newnam; not in Coy’s Danville house; not in transcribed 1920 Lee** (Paducah 29 / Cumberland 10 / Logan 28 **Dora** cards rejected) | unknown | C032 C207 C208 | S102–S109 prior; S045 |
+| Jan 1920 | ~48 | **Sturgeon hh 34–38:** Clyde JACKSON 26, **Pearl** 24 nee NEWMAN, Estella 2 9/12, Fannie 10/12 — **P001 not** in that house (no mother / MIL / boarder) | Sturgeon precinct, Lee Co., KY | C305 | S290 |
+| Jan 1920 | ~48 | Beattyville hh **100–106:** Dora wife **28** of W.H. Stidham, **nee HALL** — **rejected**. Proctor/Heidelberg transcript Doras ages **17–24** **rejected** | Lee Co., KY (not P001) | C311 C313 | S287 S289 |
 | Jan 1920 | ~48 | **KY N-550 E-tab** (**L188**): **Ella** Newman **48** b. **KY** in **Shelby** only — **rejected** (**C152**) | E-wife index searched | C218 | S229 |
 | Jan 1920 | ~48 | **Not on Yell Co. ED 200 originals** (Ola town + Ward Twp on T625-86): no **Dora Stone** / **Dora E. Newnam** ~48 b. KY with P001 children; homonym **Stone, Dora** 45 wife of **Samuel** rejected (**C148**) | Ola sector searched; P001 line still absent | C213 C214 | S225 L184 |
 | Jan 1920 | ~48 | **Not on Yell Co. ED 191** (Lamar / Plainview) sample originals (**S135**): no **Mrs. T. A. Stone** ~48 b. KY + **McCoy**; homonyms **Stone/Dora** rejected (**C149**) | Carter Cove sector partially searched | C215 | S226 L185 |
@@ -76,7 +80,7 @@ Place as it was *at the date*; modern equivalent in brackets. Flag impossibiliti
 
 | 1896–1926 | — | **No Lee Co. license** for Dora Newnam/Newman × Peebles/Stone (Books 5–19); **no Peebles surname** in those books | Lee Co., KY | C084 | S064 |
 | 1916–1930 | — | **No Perry Co. license** for Dora × Peebles/Stone; Peoples present, Peebles absent | Perry Co., AR | C085 | S065 |
-| **1920 × 1925** | 48–54 | **m2 T. A. Stone (PROBABLE = Tom A. Stone)** — **not** a third (Peebles) marriage in the searched licenses | Yell or Perry Co., AR (license unread) | C014 C087 | S003 S104 S064 S065 |
+| **24 Feb 1920 × 1925** | 48–54 | **m2 T. A. Stone (PROBABLE = Tom A. Stone)** — **after** he is enumerated **widowed** 24 Feb 1920, **before** 1926 DC (and before his **1925** marker if that stone is his). **Not** a third (Peebles) marriage in the searched licenses | Yell or Perry Co., AR (license unread) | C014 C087 C316 | S003 S104 S064 S065 |
 | 1925 | — | “Stone, Thomas, 1845–1925” at Carter Cove (index) | Yell Co., AR | C051 | S079 prior |
 | **noon 23 Aug 1926** | **55** (if b. Aug 1871) | **Death, apoplexy 1 day, Dr. Thos. W. Beal; informant Coy Newnam, Ola; spouse T. A. Stone; parents Elias Newnam & Mary Smallwood** | Ola, Yell Co., AR (res. written “Mammoth” — **C204b** open) | C015 | S003 |
 | 24 Aug 1926 | — | Burial Carters Chapel | Carter Cove / Carter Cemetery, Lamar Twp, Yell Co., AR (**C206**) | C016 C206 | S003 S078 S219 S220 |

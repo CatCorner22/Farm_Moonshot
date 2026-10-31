@@ -1,0 +1,16 @@
+# Extract: 1920 Lee Co. KY Beattyville Precinct 1
+# https://usgennet.org/usa/ky/county/lee/census/1920/bt.html
+# Captured 31 Oct 2026. HTTP 200, 92327 bytes. Transcription only.
+
+## Household 100-106 — rejected Dora
+W.H. STIDHAM head 29 md w KyVaKy
+Dora wife 28 md w KyKyKy nee HALL
+Mamie dau 6; J.W. MARKEL boarder 28
+(Age 28 vs P001 ~48; maiden HALL.)
+
+## Household 106-114 — Elias; P001 not in house
+C.B. BURKE head 40 md w KyKyKy
+Provie wife 30 md w KyKyKy nee HOOVER
+Vivie M. dau 14; Vedia G. dau 10; George P. son 3 ?/12 (b 5/21/1917)
+E.T. NEWMAN gfather 75 wd w KyKyKy
+Bertie COMBS boarder 32; WARREN MISSER? boarder 23 Pa

@@ -79,6 +79,18 @@ Wildcard strings to use: `New*m`, `Dor* New*`, `"Doll Newnam"`, `McCoy OR Coy Ne
 | 30 | Lee VS deaths 1874–1878 and 1900–1904 | USGenNet vsd / vsd1 / vsd2 | Samuel P death | **nil** Samuel P; John 37 d. 5 Mar 1900 is BIL context |
 | 31 | 1900 Proctor + Book 7 Burke×Hoover | RootsWeb / USGenNet | Whose grandchild is E.T.? | Provie Hoover gdau of Elias; C.B. son of George Burke |
 
+## Name-variant storm (pass 62, 31 Oct 2026, `search_variants.py`)
+
+**Dora Newnam / Stone** — given: Dora, posa, dosa, rosa, dona, dara, dore, dori, dola, pora, rora. Surname: Newnam, newman, newnarn, newan, newnom, Stone, Posa. Soundex **N550** / **S350**. Combined samples: `"Dora Newnam"`, `"Newnam, Dora"`, `"posa Stone"`, `"Dora newman"`.
+
+**McCoy / Coy Newnam** — McCoy × Newnam/newman/newnarn/newan/newnom/Coy. Used for 1917 Ola vs Lee WWI residual.
+
+**Pearl Newman / Jackson** — Pearl × Newman/Newnam + Clyde Jackson. OCR Pearl → Pcarl/Peral not needed on typed indexes.
+
+**Mary A. Newnam 1918** — Mary / Mary A. / Marie × Newnam/Newman/Smallwood.
+
+Exact strings logged **L361–L372**. Ages from `kinship.py`: 28 (1 Jun 1900), 38 (15 Apr 1910), 45 (18 Feb 1917), 48 (1 Jan 1920), 55 (23 Aug 1926).
+
 ## Name-variant storm (pass 60–61, `search_variants.py`)
 
 **Dora Newnam / Stone** — given: Dora, posa, dosa, rosa, dona, dara, dore, dori, dola, pora, rora. Surname: Newnam, newman, newnarn, newan, newnom, Stone. Soundex **N550** / **S350**. Combined samples: `"Dora Newnam"`, `"Newnam, Dora"`, `"posa Stone"`, `"Dora newman"`.
