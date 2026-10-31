@@ -1426,4 +1426,16 @@ Same sheet, lines 8–14, with William P. 26 visible.
 
 ![Franklin n0164 Jeremiah Newman 27](sources/census/pass145/keyplates/franklin-n0164-newman-tight.jpg)
 
+## 1850 — Franklin Dist 2 William New 36 (pass 146)
+
+1850 U.S. census, Franklin County, District 2, n0267 — household 218/213 **William New**, 36, Schoolmaster, Ohio, with Ellen, 23, Mary E, 2, and Sarah E, 1/12. Rejected versus William × Jane and versus William × Rhoda.
+
+![Franklin n0267 William New 36](sources/census/pass146/keyplates/franklin-n0267-new-tight.jpg)
+
+## 1850 — Franklin Dist 2 William Critcher 48 (pass 146)
+
+1850 U.S. census, Franklin County, District 2, n0280 — household 313/315 **William Critcher**, 48, Farmer, with Elizabeth, 43. Rejected versus Tincher.
+
+![Franklin n0280 William Critcher 48](sources/census/pass146/keyplates/franklin-n0280-critcher-tight.jpg)
+
 **Source:** S1584 · C1940

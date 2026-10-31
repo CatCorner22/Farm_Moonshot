@@ -493,6 +493,10 @@ Place as it was *at the date*; modern equivalent in brackets. Flag impossibiliti
 | **11 Aug 1850** | Franklin Dist 1 n0164 hh **187/187** | FAN **PROVEN** as image + reject: **Jeremiah[?] Newman 27** Laborer × Mary **28** + John **4/12** | Franklin Co., KY | C1940 | S1584 S1585 |
 | **1850** | Franklin Dist 1 n0149–n0202 + n0254–n0255 | FAN **PROVEN** as image: name columns **IMAGE SEEN**. Dist 1 remaining n0203–n0253 **NOT** closed | Franklin Co., KY | C1939 C1941 | S1583 S1592 |
 | **1850** | Franklin Dist 2 n0256–n0355 | FAN **PROVEN** as mapping: Dist 2 start n0256; last names n0354; n0355 blank; n0356 Gallatin. Dist 2 **NOT** every-line closed | Franklin Co., KY | C1937 C1938 C1942 | S1582 S1592 |
+| **1850** | Franklin Dist 1 n0203–n0253 | FAN **PROVEN** as image + close: remaining Dist 1 name columns **IMAGE SEEN**. Dist 1 **CLOSED** | Franklin Co., KY | C1954 C1955 | S1595 S1608 |
+| **15 Aug 1850** | Franklin Dist 2 n0267 hh **218/213** | FAN **PROVEN** as image + reject: **William New 36** Schoolmaster Ohio × Ellen **23** + Mary E **2** + Sarah E **1/12** | Franklin Co., KY | C1957 | S1597 S1598 S1599 |
+| **1850** | Franklin Dist 2 n0280 hh **313/315** | FAN **PROVEN** as image + reject: **William Critcher 48** Farmer × Elizabeth **43**. Not Tincher | Franklin Co., KY | C1959 | S1600 S1601 |
+| **1850** | Franklin Dist 2 n0256–n0354 | FAN **PROVEN** as image + close: Dist 2 every name leaf **IMAGE SEEN**. County **CLOSED** | Franklin Co., KY | C1956 C1958 C1960 | S1595 S1608 |
 
 
 **Impossibility flags:** None. Mother ~29 at Dora’s 1871 birth (Mary b. 1842). Dora age 14 at marriage is legal/period-possible (KY) though young; 1880 age 8 corroborates. Two children born before Coy in the 1886–1889 window would have Dora aged 15–18 — possible. No event after 23 Aug 1926 is attributed to her.

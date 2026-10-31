@@ -2488,3 +2488,21 @@
 | C1950 | Grant 21 **not merged**. B084 POSSIBLE Jr only. Do not print 1966 or 1962. Did not walk **33-12 / 33-13**. Phones / R001/R007/R008 not re-asked | PROVEN as process | S1592 L1771 | B081 B084 B082 |
 | C1951 | Parents of 1928 Frank still **PROBABLE**. Jane **not** Rhoda. #28 stands. Living head remains Owsley hh **311**. No free license | PROVEN as process | S1592 L1772 | B071 |
 | C1952 | Variants cats **1–4**: William/Wm/Jno/Jeremiah × Newman/Newnam/Newmon/Numan/Newland/Nance/Boman/Amos; Tinker/Tincher/Kirkpatrick. Soundex **N550** / **T526** / **S350** / Newland **N453** | PROVEN as process | S1592 L1773 | B071 |
+| C1953 | LOC sn89051008 `item.digitized: false` 34425 B. IA Solr Post-Dispatch 1926 **0**. Film unread. Phone not re-asked | PROVEN as catalog | S1593 S1594 L1774 | B058 |
+| C1954 | Franklin Dist 1 remaining n0203–n0253 every name leaf **IMAGE SEEN**. Nil Newman/Tincher living head. Combined with n0149–n0202 + n0254–n0255: Dist 1 **CLOSED** | PROVEN as image + close | S1595 S1608 L1775 | B071 |
+| C1955 | Dist 1 N-lookalikes **IMAGE SEEN REJECT**: Noel; Nethery; Nelson; William Howard n0237 | PROVEN as image + reject | S1596 S1608 L1776 | B071 |
+| C1956 | Franklin Dist 2 n0256–n0354 every name leaf **IMAGE SEEN**. Did not repeat NEWLAND n0340. Dist 2 **CLOSED**. County **CLOSED** | PROVEN as image + close | S1595 S1608 L1777 | B071 |
+| C1957 | Franklin Dist 2 n0267 hh **218/213 William New 36** M Schoolmaster Ohio × **Ellen New 23** + **Mary E 2** + **Sarah E 1/12**. 15 Aug 1850, John A. Monroe. SHA **f209b0cf…**. **IMAGE SEEN REJECT** vs Owsley hh **311** William **26** × Jane **22** and vs William × Rhoda | PROVEN as image + reject | S1597 S1598 S1599 L1778 | B071 |
+| C1958 | Dist 2 N-lookalikes **IMAGE SEEN REJECT**: James B **Noe 35** n0261; William **Dawson** n0266 | PROVEN as image + reject | S1608 L1779 | B071 |
+| C1959 | Franklin Dist 2 n0280 hh **313/315 William Critcher 48** Farmer × Elizabeth **43** + children. Hiram L Critcher **44** n0286. Surname C-r-i-t-ch-er, not Tincher. **IMAGE SEEN REJECT** | PROVEN as image + reject | S1600 S1601 L1780 | B071 |
+| C1960 | Franklin Dist 2 n0333 hh **658/661 Ignatius Redman 57** Farmer × Amy **45** + William **25**. **IMAGE SEEN REJECT** vs Newman | PROVEN as image + reject | S1602 S1608 L1781 | B071 |
+| C1961 | SK Mercer/Lincoln/Hopkins/Larue **404**. KYGenWeb / us-census / USGW fail. GT no 1850 table. IA Solr 1850indx hits are other KY reels | PROVEN as catalog | S1603 S1608 L1782 | B071 |
+| C1962 | GT Lee WWI **LIVE** 452540. Cards unread | PROVEN as catalog | S1604 L1783 | B059 B069 |
+| C1963 | FS **1146342** SPA **19655** B `isLoggedIn false`. R011-**83**. Cards unread | PROVEN as catalog | S1605 L1784 | B069 |
+| C1964 | FAQ **9938** **LIVE** rooms **228–229**. No free June 1958 clip. Phone not re-asked | PROVEN as catalog | S1606 L1785 | B055 B080 |
+| C1965 | IA **602** metadata **{}**. pass123 still **515**. One line | PROVEN as catalog | S1608 L1786 | B088 |
+| C1966 | IA Solr M1509 KY **0**. Cards unread | PROVEN as catalog | S1608 L1787 | B069 |
+| C1967 | USGenNet wills **LIVE** — Jane Steele / Elizabeth / Mary F. — **no** Samuel P. | PROVEN as compiled | S1607 L1788 | B045 B065 |
+| C1968 | Grant 21 **not merged**. B084 POSSIBLE Jr only. Do not print 1966 or 1962. Did not walk **33-12 / 33-13**. Phones / R001/R007/R008 not re-asked | PROVEN as process | S1608 L1789 | B081 B084 B082 |
+| C1969 | Parents of 1928 Frank still **PROBABLE**. Jane **not** Rhoda. #28 stands. Living head remains Owsley hh **311**. No free license | PROVEN as process | S1608 L1790 | B071 |
+| C1970 | Variants cats **1–4**: William/Wm/Jno × Newman/Newnam/Newmon/Numan/Newland/New/Noe/Nethery/Nelson/Dawson/Critcher/Redman/Howard; Tinker/Tincher/Kirkpatrick. Soundex **N550** / **T526** / **S350** / Newland **N453** | PROVEN as process | S1608 L1791 | B071 |

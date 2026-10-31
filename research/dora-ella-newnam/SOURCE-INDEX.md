@@ -1303,6 +1303,22 @@ Captured this session: **30 Oct 2026**. Earlier plates remain in `sources/census
 | S1590 | `sources/catalog/hutchins-faq-9938-pass145.html` | 2026-10-31 | Berea FAQ | https://libraryanswers.berea.edu/faq/9938 | LIVE rooms **228–229** | **C1946** | catalog only |
 | S1591 | `sources/catalog/usgennet-lee-wills-pass145.html` | 2026-10-31 | USGenNet Lee wills | https://usgennet.org/usa/ky/county/lee/wills/ | no Samuel P. | **C1949** | transcription only |
 | S1592 | `sources/census/pass145-extract-2026-10-31.txt` | 2026-10-31 | This session | — | Pass 145 extract | **C1935–C1952** | extract |
+| S1593 | `sources/catalog/loc-sn89051008-pass146.json` | 2026-10-31 | LOC | https://www.loc.gov/item/sn89051008/?fo=json | `digitized: false` 34425 B | **C1953** | catalog only |
+| S1594 | `sources/catalog/ia-solr-postdispatch-1926-pass146.json` | 2026-10-31 | IA Solr | https://archive.org/ | Post-Dispatch 1926 **0** | **C1953** | catalog only |
+| S1595 | `sources/census/pass146/surnames/franklin-n0203-sur.jpg` … n0253 + n0256–n0354 | 2026-10-31 | IA reel 200 | https://archive.org/details/populationschedu0200unix | Dist 1 remaining + Dist 2 visual close | **C1954 C1956** | image seen |
+| S1596 | `sources/census/pass146/keyplates/franklin-n0237-howard-tight.jpg` | 2026-10-31 | IA reel 200 n0237 | https://archive.org/details/populationschedu0200unix | William Howard SHA **51624e82…** | **C1955** | image seen |
+| S1597 | `sources/census/pass146/keyplates/franklin-n0267-new-tight.jpg` | 2026-10-31 | IA reel 200 n0267 | https://archive.org/details/populationschedu0200unix | William New **36** SHA **f209b0cf…** | **C1957** | image seen |
+| S1598 | `sources/census/pass146/keyplates/franklin-n0267-new-band.jpg` | 2026-10-31 | IA reel 200 n0267 | https://archive.org/details/populationschedu0200unix | New band SHA **dc95eff4…** | **C1957** | image seen |
+| S1599 | `sources/census/pass146/keyplates/franklin-n0267-new-occ3.jpg` + header/stamp | 2026-10-31 | IA reel 200 n0267 | https://archive.org/details/populationschedu0200unix | Schoolmaster Ohio; Dist 2 15 Aug | **C1957** | image seen |
+| S1600 | `sources/census/pass146/keyplates/franklin-n0280-critcher-tight.jpg` | 2026-10-31 | IA reel 200 n0280 | https://archive.org/details/populationschedu0200unix | William Critcher **48** SHA **09c9bb25…** | **C1959** | image seen |
+| S1601 | `sources/census/pass146/keyplates/franklin-n0280-critcher-sur.jpg` | 2026-10-31 | IA reel 200 n0280 | https://archive.org/details/populationschedu0200unix | Critcher surname SHA **b498aaad…** | **C1959** | image seen |
+| S1602 | `sources/census/pass146/keyplates/franklin-n0333-redman-tight.jpg` | 2026-10-31 | IA reel 200 n0333 | https://archive.org/details/populationschedu0200unix | Ignatius Redman **57** SHA **76dd09d9…** | **C1960** | image seen |
+| S1603 | `sources/catalog/gt-mercer-census-pass146.html` + Lincoln/Hopkins/Larue GT + SK **404** | 2026-10-31 | GT / SK | https://www.genealogytrails.com/ken/mercer/census.html | no 1850 table; SK **404** | **C1961** | catalog only |
+| S1604 | `sources/catalog/gt-lee-wwi-pass146.html` | 2026-10-31 | Genealogy Trails | https://www.genealogytrails.com/ken/lee/wwi_draft_cards.html | LIVE **452540** | **C1962** | transcription only |
+| S1605 | `sources/catalog/fs-1146342-pass146.html` | 2026-10-31 | FamilySearch | https://www.familysearch.org/search/catalog/1146342 | SPA **19655** B | **C1963** | catalog only |
+| S1606 | `sources/catalog/hutchins-faq-9938-pass146.html` | 2026-10-31 | Berea FAQ | https://libraryanswers.berea.edu/faq/9938 | LIVE rooms **228–229** | **C1964** | catalog only |
+| S1607 | `sources/catalog/usgennet-lee-wills-pass146.html` | 2026-10-31 | USGenNet Lee wills | https://usgennet.org/usa/ky/county/lee/wills/ | no Samuel P. | **C1967** | transcription only |
+| S1608 | `sources/census/pass146-extract-2026-10-31.txt` | 2026-10-31 | This session | — | Pass 146 extract | **C1953–C1970** | extract |
 
 
 ## Word biography provenance
@@ -1422,6 +1438,8 @@ Exact strings in `02-log.md` **L343–L352**, **L380–L397**, **L398–L411**, 
 **Pass 144 (B058 film / B071 Hart Dist 1 remaining-evens visual close + KIRKPATRICK IMAGE SEEN / county CLOSED):** William/Wm/Jno × Newman/Newnam/Newmon/Numan/Newland/Nance/Boman/Amos/Kirkpatrick; Foreman/Herman/Norman already isolated; Tinker/Tincher/Kirkpatrick. Soundex **N550** / **T526** / **S350**. Place Hart Dist 1 n0006–n0190 / n0120; Lincoln n0170 Lewis / n0173 Dist 1 start; Larue Hamilton n0167–n0280. Exact strings **L1739–L1756**.
 
 **Pass 145 (B058 film / B071 Franklin Dist 1+2 remap + Jeremiah[?] Newman 27 IMAGE SEEN REJECT):** William/Wm/Jno/Jeremiah × Newman/Newnam/Newmon/Numan/Newland/Nance/Boman/Amos; Tinker/Tincher/Kirkpatrick. Soundex **N550** / **T526** / **S350** / Newland **N453**. Place Franklin Dist 1 n0149–n0202 / n0164 / Dist 2 n0256 / n0354–n0356. Exact strings **L1757–L1773**.
+
+**Pass 146 (B058 film / B071 Franklin Dist 1 remaining + Dist 2 remaining CLOSED; William New 36 IMAGE SEEN REJECT):** William/Wm/Jno × Newman/Newnam/Newmon/Numan/Newland/New/Noe/Nethery/Nelson/Dawson/Critcher/Redman/Howard; Tinker/Tincher/Kirkpatrick. Soundex **N550** / **T526** / **S350** / Newland **N453**. Place Franklin Dist 1 n0203–n0253 / Dist 2 n0256–n0354 / n0267 / n0280. Exact strings **L1774–L1791**.
 
 **Pass 132–134 (B058 film / B071 Barren + Boone close + reel 208 map + Mercer/Hopkins/Franklin):** William/Wm × Newman/Newnam/Nureman; Christopher/Billingsly/Thomas C/William B/George W/Shepard/Daniel. Soundex **N550** / **T526** / **N655**. Place Barren **191** n0005=307; reel **208** imagecount **644**; Mercer **213** n0150=243; Hopkins **205** n0140–n0348. Exact strings **L1559–L1588**.
 

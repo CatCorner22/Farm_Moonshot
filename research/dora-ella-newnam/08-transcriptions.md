@@ -1312,3 +1312,31 @@ Pass 2: surname **Kirkpatrick** (not Tinker/Tincher). Head 60 female, not Willia
 > 188/188  John Haynes          32  M  Blacksmith  Kentucky
 
 Pass 2: surname **Newman**. Head given name **Jeremiah[?]** (first letter J/L loop). Head 27 Laborer, not William 26 farmer **$325**. Wife **Mary 28**, not Jane 22 / not Rhoda. Infant **John 4/12**, not Francis 4 F / Leanner 2. **REJECT**. → **C1940** / **S1584 S1585**.
+
+## DOC063 — 1850 Franklin Dist 2 n0267 William New 36
+
+**Inventory:** `sources/census/pass146/keyplates/franklin-n0267-new-tight.jpg` SHA **f209b0cf0ace55ce…** (image seen). Dist 2, 15 Aug 1850, John A. Monroe, n0267.
+
+### Diplomatic
+> 218/213  William New   36  M  Schoolmaster  Ohio
+>           Ellen New     23  F               Kentucky
+>           Mary E New     2  F               Kentucky
+>           Sarah E New   1/12 F              Kentucky
+> 214/214  Samuel W Evans 37  M  Farmer  1000 Kentucky
+>           Lucretia Evans 35  F               Kentucky
+
+Pass 2: surname **New** (three letters; not Newman / Newnam / Newland). Head 36 Ohio schoolmaster, not William 26 KY farmer **$325**. Wife **Ellen 23**, not Jane 22 / not Rhoda. Children **Mary E 2** + **Sarah E 1/12**, not Francis 4 F / Leanner 2. **REJECT**. → **C1957** / **S1597 S1598 S1599**.
+
+## DOC064 — 1850 Franklin Dist 2 n0280 William Critcher 48
+
+**Inventory:** `sources/census/pass146/keyplates/franklin-n0280-critcher-tight.jpg` SHA **09c9bb25f69481d0…** (image seen). Dist 2, n0280.
+
+### Diplomatic
+> 313/315  William Critcher    48  M  Farmer
+>           Elizabeth Critcher  43  F
+>           John Critcher       20  M  Farmer
+>           Mary Critcher       17  F
+>           Walter Critcher     13  M  Farmer
+>           Thomas Critcher     13  M
+
+Pass 2: surname **Critcher** (C-r-i-t-ch-er; not Tincher). Head 48, not William 26. **REJECT**. → **C1959** / **S1600 S1601**.
