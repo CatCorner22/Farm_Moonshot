@@ -5332,3 +5332,59 @@ Pass 2: Do **not** invent T288 card contents. Do **not** promote C509. Do not fi
 ### Facts extracted → claim IDs
 - IIIF HTTP 502; images unseen → C1067
 - B061 remaining gap → C1069
+
+## DOC225 — Catalog + Pass 100 coverage
+
+- Extract: `pass100-coverage.txt` SHA-256 `ab2115c149ac9692f800d2d2c1a50506f8c740c00b50de4dc52335ca73df89e9`
+- Provenance: Cursor `list-cloud-agents` includeArchived limit 200, 31 Oct 2026. This run `bc-01a18bb4-e162-785c-9724-86a7c5663bf1`.
+- Access: process listing. **No** new independently image-backed P001 1900–1926 residence.
+
+### Diplomatic — cited extract
+
+> **188** / `hasMore: false` / `totalMatched: 188`. Was **184**. NEW vs 184 (4; **no IDs imported**). Status-only: Hunt Dora **renamed** B074 Van Buren 1910 404s still RUNNING (same id). Sibling C281 **not imported**.
+
+Pass 2: Process count only. Skip **C221–C280**. Do **not** promote C509. Do **not** hunt remaining 1930 Owsley sheets.
+
+### Facts extracted → claim IDs
+- catalog 188; NEW 4 process-only → C1070
+- B063 remaining gap → C1077
+- B061 remaining gap → C1078
+
+## DOC226 — Josephine remaining substitutes (Pass 100)
+
+- Extract: `josephine-gilbert-pass100.txt` SHA-256 `9330032d5b814a76b6ed82b76e1a0aa31e53b84e16f237ea7d1f2334327a172e`
+- Coverage: `pass100-coverage.txt` `ab2115c149ac9692f800d2d2c1a50506f8c740c00b50de4dc52335ca73df89e9`
+- Provenance: Lewis IA OCR; Knott Wayback Books 2/3/4A/6; Letcher USGW raw; Casey GT Additional. Opened 31 Oct 2026. **HTML-seen / compiled index / OCR**, not a ~1902 civil register. License unseen.
+
+### Diplomatic — cited extracts
+
+> Lewis OCR covering through 1900. Nil Newnam. Bercan × Gonn Josephine 7-30-1872 other. Grimes Josie 1899 other.
+
+> Knott Book 2 covering 1902–1903: Slone, Josephin × Milton Slone 1903/08/26 DISPROVED (same couple as C1038).
+
+> Casey Additional compiled table covering 1805–1959 including 1902. Baldock Josephine 1878 DISPROVED; Bradshaw Josie 1898 DISPROVED. Nil Josephine Newnam × Gilbert.
+
+Pass 2: License still unseen. Do not close B063.
+
+### Facts extracted → claim IDs
+- Lewis OCR through 1900 n/a as 1902 → C1071
+- Knott Book 2 Josephin Slone 1903 DISPROVED → C1072
+- Letcher 1884–97 slices n/a as 1902 → C1073
+- Casey Additional covering 1902 nil Josephine Newnam × Gilbert → C1074
+- remaining n/a/404 → C1075
+- B063 remaining gap → C1077
+
+## DOC227 — T288 IIIF timeout 20s + TFKRHA 1916 C + FAG id_ (Pass 100)
+
+- Extract: `t288-timeout-fag-pass100.txt` SHA-256 `35f7fad0ea6ea8f8dc38ca17bd29b8e8bbac8b6c7535f9b3bb921f6ec5dd2fdb`
+- Provenance: NARA Catalog IIIF T288-0348-01001 and T288-0347-01001 info.json; TFKRHA 1916 C; FAG 165350371 Wayback id_. Opened 31 Oct 2026. **Access-fail**.
+
+### Diplomatic — cited access results
+
+> Reel 348 and 347 frame 01001 info.json timeout 20s, 0 bytes. TFKRHA https 1916 C HTTP 429. FAG Wayback id_ HTTP 404; prior JS shell unread.
+
+Pass 2: Do **not** invent T288 card contents. Do **not** promote C509. Do not file Mary Jane Steele DISPROVED from this capture.
+
+### Facts extracted → claim IDs
+- IIIF timeout 20s, 0 bytes; images unseen → C1076
+- B061 remaining gap → C1078

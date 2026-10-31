@@ -2757,3 +2757,16 @@ research/dora-ella-newnam/sources/census/1880-lee-ky-ed59-sheet43-p768-caroline-
   sha256: 9f8d9a3d8ec9e39c2636987665bc38e3ee23be5d5728033093cee6013afe7ca8
   format: text extract, 1,681 bytes
   check: T288 IIIF reel 348/347 HTTP 502; TFKRHA 429; FAG CDX empty this query
+
+/workspace/research/dora-ella-newnam/sources/indexes/pass100-coverage.txt
+  sha256: ab2115c149ac9692f800d2d2c1a50506f8c740c00b50de4dc52335ca73df89e9
+  format: text extract, 2,471 bytes
+  check: Pass 100 coverage; catalog 188 NEW 4 process-only; Josephine remaining; T288 timeout 20s
+/workspace/research/dora-ella-newnam/sources/indexes/josephine-gilbert-pass100.txt
+  sha256: 9330032d5b814a76b6ed82b76e1a0aa31e53b84e16f237ea7d1f2334327a172e
+  format: text extract, 5,260 bytes
+  check: Lewis through 1900 n/a; Knott Book 2 Josephin Slone 1903 DISPROVED; Casey Additional covering 1902 nil
+/workspace/research/dora-ella-newnam/sources/indexes/t288-timeout-fag-pass100.txt
+  sha256: 35f7fad0ea6ea8f8dc38ca17bd29b8e8bbac8b6c7535f9b3bb921f6ec5dd2fdb
+  format: text extract, 1,579 bytes
+  check: T288 IIIF reel 348/347 timeout 20s 0 bytes; TFKRHA 429; FAG Wayback id_ 404

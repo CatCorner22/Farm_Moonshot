@@ -1,0 +1,45 @@
+Pass 100 coverage — 31 Oct 2026 (America/New_York)
+This run bc-01a18bb4-e162-785c-9724-86a7c5663bf1
+Catalog list-cloud-agents includeArchived limit 200 → 188 / hasMore false / totalMatched 188.
+Was 184 (Pass 99 filing). NEW vs 184 (4; no IDs imported):
+  Continue Dora life details RUNNING
+    bc-c5415202-619c-5848-aaa6-1ce23094b5fd
+  Agent coordination dora details WAITING_FOR_BACKGROUND_WORK
+    bc-71069845-bfc4-4472-b484-99aeebcade1c
+  Read IL leftover-E sheets 2102-2166 RUNNING
+    bc-5fc40f5f-84e4-5069-b102-d4d1bef8152d
+  Read IL leftover-E sheets 2038-2101 RUNNING
+    bc-ffac2122-f96e-53ad-b0de-6bd3cf3af44d
+Status-only (not new IDs):
+  Hunt Dora / B068 / B070 / B071 / B072 / B073 renamed B074 Van Buren 1910 404s
+    same id bc-aa43eaa5-be23-54be-a20a-7a5238fd33f8 still RUNNING.
+  Dora Henry Hart 1850 RUNNING bc-3f9f34c6-136f-53fc-a616-76ef7440c8dd
+  Continue Dora genealogy IDLE
+    bc-7eb25736-d3e3-510a-83d6-9535752f0297
+  Sibling PR #33 C281 not imported.
+Nested reviewer not respawned. Message queue empty.
+Skip C221–C280 / L245–L342 / S259–S266.
+Do not mint C274–C280. Do not promote C509. Do not hunt D-540.
+Do not close B063. Do not hunt remaining 1930 Owsley sheets (closed Pass 94).
+Do not import C281. Do not invent T288 card contents.
+Do not file Mary Jane Steele DISPROVED from FAG 403, Wayback JS shell, or archive.today 429.
+Do not treat Catalog quoted Newnam title-nil as a T288 card-nil.
+
+Work this pass:
+- T288 IIIF reel 347 and 348 frame 01001 info.json timeout 20s, 0 bytes
+  (curl 28). Card images unseen. Worse than Pass 99 HTTP 502.
+- TFKRHA https 1916 C HTTP 429 Vercel checkpoint. Wayback 2018 capture 404
+  chrome. Not a fourth extract.
+- FAG 165350371 Wayback id_ 404 (4,621 bytes). Prior JS shell unread.
+  archive.today 429 earlier this pass. Not a DISPROVED of Mary Jane Steele.
+- Josephine remaining: Lewis Co. KY IA OCR through 1900 (n/a as 1902);
+  Knott Wayback Books 2/3/4A/6 + 1903.htm + 1907_1908.htm;
+  Letcher USGW raw 1884-91 / 1892-95 / 1896-97 (n/a as 1902);
+  Casey GT Additional compiled marriages covering 1805–1959 including 1902;
+  remaining KYGenWeb 404/n/a (Martin 1870s/1909-10; Laurel 1835-1881;
+  Rowan landing 1880-1920 table unseen; Lee volunteer empty; Allen holdings
+  list only).
+- Remaining 1930 Owsley not re-hunted.
+- 1916 DC face / ED 92 hh 1–13 / 1840 bond / M123-3 not opened this pass.
+
+B061 / B063 remain open. Next unused after this pass: C1079+ / L957+ / S726+ / DOC228+.

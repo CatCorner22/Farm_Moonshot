@@ -1,0 +1,87 @@
+Pass 100 — Josephine Newnam × Gilbert ~1902 remaining substitutes
+Opened 31 Oct 2026 (America/New_York). HTML-seen / compiled index / OCR / landing / 404.
+License unseen. Original 1916 DC face unseen. T288 images unseen.
+Lewis IA OCR opened locally under /tmp/pass100/ (not committed; 275,142 bytes).
+
+Internet Archive identifier marriagerecord1800slsn (Lewis County KY compiled
+marriages). Title 1852–1880; OCR includes Moore, Pennelia Boyle 2-21-1900 so
+the opened text covers through 1900, not 1902. n/a as a 1902 Newnam license.
+  Nil Newnam token.
+  Newman grooms: Anna E. (bride index); A. M. / H. Q. / George W. (groom index)
+    — other (no Josephine; not a 1902 Newnam×Gilbert couple).
+  Bercan, Oliver × Gonn, Josephine 7-30-1872 other (maiden Gonn; 1872;
+    groom Bercan ≠ Gilbert).
+  Grimes, Josie OCR 1-31-1399 = 1899 other (maiden Grimes; 1899).
+  Josephine given-name hits Dale / Hendrickson / Ireland / McClain / Dickson /
+    Upton / Ishmael / Kegley / Fearin / Gooley — other maidens.
+  Gilbert given/surname hits without Josephine Newnam.
+  IA advancedsearch KY marriage 1898–1906 numFound 0 except this Lewis item.
+
+Knott Kentucky Kinfolk Wayback 20141018111941 marr_bks.htm OPENED.
+  Book 2 OPENED (140,486 bytes; years 1902–1903): Josephine token 0.
+    Josephin 2: Slone, Josephin × Slone, Milton 1903/08/26 — DISPROVED
+    (same couple already C1038 from Book 2A; maiden Slone ≠ Newnam; 1903;
+    groom Slone ≠ Gilbert). Newman/Newnam/Gilbert token 0.
+  Book 3 OPENED (135,889; 1895–1896): Josephine/Newman/Gilbert token 0. n/a ~1902.
+  Book 4A OPENED (249,441; 1903–1907): Josephine/Newman/Gilbert token 0.
+  Book 5 Wayback chrome (142,590; title Wayback Machine; years token 1911 only).
+    Body unread. Book 10 Wayback HTTP 404 chrome.
+  Book 6 OPENED (490,662; 1909–1912) n/a ~1902:
+    Hall, Josephine × Martin, Perry 6-Nov 1909 other (maiden Hall; 1909).
+    Newman, William J. × Casebolt 10-Mar 1910 other (groom Newman; 1910).
+    Josephine Mosley witness 26-Nov 1910 other (witness; maiden Mosley).
+  1903.htm OPENED (85,310): Josephine/Newman/Gilbert token 0.
+  1907_1908.htm OPENED (116,425; years 1907–1908): Josephine/Newman/Gilbert
+    token 0. n/a ~1902.
+  Nil Josephine Newnam × Gilbert ~1902 in opened Knott books covering 1902
+    (Book 2) and adjacent years.
+
+Letcher USGW Gloria Rose 1884–1903 series (Wayback id_ raw txts) OPENED.
+  1884-91.txt (35,476): Josephine Collins × Ira Hall other (maiden Collins;
+    1884–91 window). Gilbert Collier × Diana Shepard / Henry Gilbert × Viney
+    Cornett other. n/a as a 1902 license (this slice years 1884–1891).
+  1892-95.txt (20,252): 31 Jul Joseph A. Dugger × Josephine Hughes other
+    (maiden Hughes ≠ Newnam). Newman/Gilbert token 0. n/a as 1902.
+  1896-97.txt (8,409): Josephine/Newman/Gilbert token 0. n/a as 1902.
+  Series title 1884–1903; opened slices stop at 1897. 1898–1903 txt not in
+    this USGW set. Live files.usgwarchives.net timeout earlier this pass.
+
+Casey KYGenWeb GT-Marriages.htm OPENED (1,593,966 bytes). Laurel Durham
+  "Additional Casey County Marriages" compiled table; marriage-date years
+  1805–1959 (includes 1902; 3 rows in 1902). Not claimed as the complete
+  civil register.
+  Baldock, Josephine × Lee, Robert H 01/06/1878 DISPROVED (maiden Baldock;
+    1878; groom Lee ≠ Gilbert).
+  Bradshaw, Josie × Wilson, M C 05/07/1898 DISPROVED (maiden Bradshaw; 1898;
+    groom Wilson ≠ Gilbert).
+  Powell, Betsey × Newman, George 09/01/1821 other (1821).
+  Durham, Quintilla × Elder, Gilbert W 08/24/1880 other (Gilbert given-name).
+  1902 rows: Powell Lillie M × Durham William L 12/22/1902; Ruberts Mary Ella
+    × Bradshaw Joshua L 12/10/1902; Stroud Effie × Durham Everet 01/01/1902
+    — other (none Newnam/Gilbert).
+  Nil Josephine Newnam × Gilbert ~1902 in this opened Additional table.
+
+Remaining this pass n/a / 404 / landing-only:
+  Martin marriages.htm 200 (59,892): year files 1870–1878 / 1909–1910. n/a ~1902.
+  Laurel /marriages/ 200: 1835 / 1852 / 1861 / 1878–1881. n/a ~1902.
+    marriage2.html 404.
+  Rowan landing 200 lists Marriage Records (1856–1858, 1880–1920); linked
+    rowan-mg.html is the same landing (5,781 bytes). Table unseen.
+  Lee /lee/marriages/ volunteer page: "Currently, there is nothing on this
+    subject." Books 4–9 already searched earlier. n/a as a new 1902 dump.
+  Pike potterflats /marriages.htm 404. Letcher KYGenWeb landing 200;
+    1842–1851 n/a.
+  Allen marriages.htm 200 is a historical-society holdings list (books
+    1900–1925 / Oct 23 1902–1975 on site, not opened). n/a as an opened 1902
+    Newnam index.
+  Hickman marriages.htm submitted couples; M. S. Gilbert witness 1884 other.
+    n/a as county-wide 1902.
+  Todd /marriage/ landing only. Livingston/Graves/Calloway empty stubs.
+  Remaining kygenweb {county}/marriages.htm 404 (1,543-byte stub) or 403
+    (680 bytes): Johnson, Magoffin, Lawrence, Boyd, Elliott, Menifee,
+    Whitley, Pulaski, Wayne, Clinton, Cumberland, Monroe, Metcalfe, Barren,
+    Warren, Logan, Butler, Grayson, Ohio, Daviess, McLean, Washington,
+    Nelson, Anderson, Lincoln, Marshall, Fulton, Ballard, Caldwell, Lyon,
+    Crittenden.
+
+License still unseen. Do not close B063.

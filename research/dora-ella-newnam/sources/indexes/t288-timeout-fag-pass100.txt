@@ -1,0 +1,29 @@
+Pass 100 — T288 IIIF timeout 20s + TFKRHA 1916 C + FAG id_
+Opened 31 Oct 2026 (America/New_York). Access-fail / independently re-seen extract.
+Card images unseen. Original 1916 DC face unseen. Memorial body unseen.
+Do not invent T288 card contents. Do not promote C509.
+Do not treat Catalog quoted Newnam title-nil as a T288 card-nil.
+Do not file Mary Jane Steele DISPROVED from FAG 403, a Wayback JS shell,
+archive.today 429, or this id_ 404.
+
+T288 IIIF (curl, 20s):
+  https://catalog.archives.gov/iiif/3/lz%2Fdc-metro%2Frg-015%2F563268/T288-0348/T288-0348-01001.tif/info.json
+    curl 28 timeout after 20002 ms, 0 bytes. Card images unseen.
+  https://catalog.archives.gov/iiif/3/lz%2Fdc-metro%2Frg-015%2F563268/T288-0347/T288-0347-01001.tif/info.json
+    curl 28 timeout after 20002 ms, 0 bytes. Card images unseen.
+  Prior Pass 99 HTTP 502 (122-byte gateway HTML, ~58s). This pass received
+    no HTML. Path still known. Pixels unseen.
+
+TFKRHA 1916 C this pass:
+  https://tfkrha.org/owsley/vitals/1916c.htm HTTP 429, 40,676 bytes Vercel checkpoint.
+  Wayback 2018 capture HTTP 404 chrome (142,550 bytes). Not a fourth extract.
+  Third Widowed/blank-parents extract still C709.
+
+FAG memorial 165350371:
+  Wayback id_ of 20200116155933 HTTP 404 (4,621 bytes). Memorial body unseen.
+  Prior capture remains a JS shell. archive.today 429 earlier this pass.
+  Not a DISPROVED of Mary Jane Steele.
+
+B061 remains open. Residual: original 1932 DC vol 020 #09525; Estill 1826–1850 bonds;
+M123-3 original; T288 card images (IIIF path known; pixels timeout 20s / 0 bytes
+this pass).
