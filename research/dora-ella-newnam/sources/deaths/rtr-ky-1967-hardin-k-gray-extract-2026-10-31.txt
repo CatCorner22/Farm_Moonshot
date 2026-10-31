@@ -1,0 +1,27 @@
+B014 pass 77 extract — Reclaim The Records KY Death Index 1967
+IA item reclaim-the-records-kentucky-death-index-01911-1989
+file Reclaim_The_Records_-_Kentucky_Death_Index_-_01967.TXT
+captured 2026-10-31 from ia801506.us.archive.org
+
+                                         DEATH INDEX FOR YEAR 1967                    PAGE NO    1
+
+
+                                              PLACE OF      CO OF         DATE OF        CERTIFICATE
+    SURNAME        GIVEN NAME        AGE       DEATH      RESIDENCE        DEATH   VOL     NUMBER
+
+   AARON           HENRY               82       ADAIR     RUSSELL       05/06/1967 025  12327 /1967
+   AARON           NORMAN     L        37       ADAIR     ADAIR         12/22/1967 056  27809 /1967
+
+--- target row ---
+   GRAY            HARDIN     K        91       FYETE     LEE           09/07/1967 042  20591 /1967
+
+Column header: PLACE OF DEATH | CO OF RESIDENCE | DATE OF DEATH | VOL | CERTIFICATE NUMBER
+Parsed: GRAY, HARDIN K, age 91, place of death FYETE (Fayette), residence LEE, 09/07/1967, vol 042, cert 20591
+
+--- uniqueness: all 1967 GRAY + HARDIN* given names ---
+   GRAY            HARDIN     K        91       FYETE     LEE           09/07/1967 042  20591 /1967
+
+--- GREY HARDIN / GRAY HARDEN ---
+
+--- nearby Lee-resident deaths that week (context; Charlie B. Abner is on USGenNet 1967 extract) ---
+   ABNER           CHARLIE    B        60       LEE       LEE           09/09/1967 044  21887 /1967

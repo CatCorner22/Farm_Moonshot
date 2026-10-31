@@ -1,0 +1,1 @@
+{"responseHeader":{"status":0,"QTime":52,"params":{"query":"(text:&quot;Hardin K. Gray&quot; OR text:&quot;Hardin K. Gray&quot; OR text__reviews:&quot;Hardin K. Gray&quot;) AND (text:1967 OR text:1967 OR text__reviews:1967)","qin":"&quot;Hardin K. Gray&quot; AND 1967","fields":"identifier,title","wt":"json","rows":5,"start":0}},"response":{"numFound":0,"start":0,"docs":[]}}

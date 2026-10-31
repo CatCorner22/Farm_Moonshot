@@ -245,7 +245,7 @@ Regenerated **before** B014 Hardin K. Gray DC queries (`bc-20e39036`). **Did not
 3. **Machine / OCR given:** Hardin (ocr-given: Hardin). Surname: Gray, Grey. Soundex **G600** / Hardin **H635** / Harden **H635** / Vestie **V230**.
 4. **Repository quirks:** Reclaim The Records `GRAY, HARDIN K`; USGenNet Lee `deaths/1967.html` + `cemeteries/gray.html`; SortedByName `/letter_g/gray/`; FAG `firstName=Hardin&lastName=Gray`; KY OVS / CHFS vol **042** cert **20591**; FS *Kentucky Death Records, 1911–1967* coll. **1417491**; Ancestry **1222**; cert-only `20591` / RD `042`.
 
-Exact strings logged **L496–L499 L510+**.
+Exact strings logged **L496–L499 L510–L513**.
 
 ## Name-variant storm (pass 78, `search_variants.py`, 31 Oct 2026)
 
@@ -257,6 +257,17 @@ Regenerated **before** B015 Mary Bunch queries (`bc-c5415202`). **Did not take B
 4. **Repository quirks:** Shelby TN Deaths `param1=BUNCH&param2=MARY` Last/First + county ALL/KNOX + 1949–2014; FAG `firstName=Mary&lastName=Bunch`; USGenNet Lee Books `Bunch`; SortedByName `/letter_b/bunch/`; IA Solr quoted phrases; KY death index Mary Bunch ~1893.
 
 Exact strings logged **L540+**.
+
+## Name-variant storm (pass 76, `search_variants.py`, 31 Oct 2026)
+
+Regenerated **before** B007 1900 Liberty / N-550 queries (`bc-6d51c793`). **Did not take B047** (`bc-20e39036`). **Did not take B016 / B015** (`bc-c5415202`). **Did not take B014** (`bc-20e39036` Pass **77**). **Did not take B049 / B055 / B056.** **Did not retake B092.** This pass uses **C457–C463 / L500–L509 / S393–S397**. Categories **1–4**:
+
+1. **Canonical:** John Sullivan (1910 Liberty ED 4 sh 7 B, **C245**); Sarah Newman/Newnam MIL ~60; Oscar S. Newman/Newnam BIL ~21; wife **Ida M** (pass-76 re-read).
+2. **User / family:** John / Jon / Jno; Sullivan / Sulivan / Sullivant; Sarah / Sara / Sallie / Sally / Sadie / Fannie; Oscar / Oskar; Newman / Newnam; Ida / Ida M; Letha / Letta / Litha / Viola; Liberty / Bollinger.
+3. **Machine / OCR given:** John, Sarah, Oscar (ocr-given: those strings only). Surname: Sullivan; Newman, newnam, newnarn, newan. Soundex **S415** / **N550**.
+4. **Repository quirks:** 1900 population T623-839 BookReader jp2 (jp2 N = PDF page N+1 vs pass 52); N-550 cards filed by **head given name** on `soundex1900mo200`; S-415 continuation on `soundex1900mo248` (not re-opened this slice); USGW `Last, First` marriage books (timeout).
+
+Exact strings logged **L500–L509**.
 
 ## Agent SDK / GitHub channel
 
