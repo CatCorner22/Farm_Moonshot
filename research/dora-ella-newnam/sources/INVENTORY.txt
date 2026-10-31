@@ -1206,3 +1206,5 @@ research/dora-ella-newnam/sources/soundex/il1900-s415-n3367-mary-47-in-adults.jp
 research/dora-ella-newnam/sources/soundex/il1900-s415-n3473-unnamed-1-2-iowa.jpg
   sha256: 75e37b470a7a4479c307424716748edec02f17a4525d04195f3e750717becda3
   format: JPEG Soundex card, IA soundex1900il401 n3473 rotate -90
+research/dora-ella-newnam/sources/newspapers/b049-pass100-1926-obit-storm-2026-10-31.txt
+  format: Pass 100 B049 NWAGS 1926 / GT Yell news list / Stone block re-read
