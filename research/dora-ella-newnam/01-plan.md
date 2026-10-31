@@ -539,6 +539,30 @@ Exact strings logged **L791–L805**.
 
 Exact strings logged **L806–L820**.
 
+### Pass 94 variant storm (31 Oct 2026)
+
+**Frank of Berea** — Frank/David F./David G. × Newnam/Newman/newnarn/newan/newnom/Noonan/Nunan. Combined: "Frank Newnam" | "Newnam, Frank" | newman + filter Frank*. OCR given: Frank → frank / frenk / frnuk. Soundex **N550**.
+
+**Grant of Berea** — Grant × Newnam/Newman (Berea collision; not merged with Frank, #20).
+
+**Rissie (B016, deceased-only)** — Rissie/Rissa × Newnam/Newman/newnarn/Stamper/Pelfrey. Skip living Pelfrey survivors.
+
+**John / Cora / McCoy Newman** — John/Jno/Johnnie × Newman/Newnam/Noonan. Cora × Brandenburg. McCoy/Coy. Soundex **N550** / **M200**.
+
+**Boyd / Allie / Floyd** — Boyd/Boyde/Floyd × Newman/Newnam. Allie/Ollie × Brandenburg. Soundex **N550** / **B653** / **B300**.
+
+**OCR given** — Dora → posa / dosa / rosa / dona / dara / dore / dori / dola / pora / rora.
+
+**Place** — Glade **76-18** SW excl. Berea / Glade **76-19** SE / Kirksville **76-20** / Berea Town **76-16** / Antioch **242** / Station Camp South **33-8**.
+
+**ED / precinct misreads** — 76-18/76-19/76-20; 18A/18B end vs next-ED 1A.
+
+**Certs** — 17762 RD **036**; 28501; 31780; 1524 RD **676**.
+
+**Samuel P. Newnam** — films **127913 / 127869 / 1146342** (SPA, R011 step **44**).
+
+Exact strings logged **L821–L840**.
+
 ## Agent SDK / GitHub channel
 
 Inspected 30 Oct 2026 (**L351**): this repository has **no** `package.json`, **no** `@grok/agent-sdk`, **no** `bot/` directory. GitHub channel `bot/channels/github.ts` is **n/a** and was **not** authored. Project subagent: `.cursor/agents/dora-genealogy-detective.md`.

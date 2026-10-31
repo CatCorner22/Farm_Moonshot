@@ -259,5 +259,9 @@ Place as it was *at the date*; modern equivalent in brackets. Flag impossibiliti
 | 24 Apr 1930 | — | FAN **PROVEN** as close: ED **76-16 COMPLETE** **0340–0376**. **0376** Institution Berea College sh **19 A**. **PROBABLE** entire-ED name-negative for Frank / David F. / Grant Newnam | Berea, Madison Co., KY | C975 C977 C980 | S671 S675 |
 | 14 Apr 1930 | — | FAN **PROVEN** as header: leaf **0378** = Glade ED **76-17** sh **1 A**, Leon Lewis | Madison Co., KY | C978 | S673 |
 | 3 May 1930 | — | FAN **PROVEN** as close: ED **76-17 COMPLETE** **0378–0392**. **0392** sh **8 A** short. **0393** unused. **0394** = Glade **76-18** sh **1 A** official start | Madison Co., KY | C984 C985 C986 | S679 S680 |
+| 2 Apr 1930 | — | FAN **PROVEN** as header: Madison ED **76-18** Glade SW excl. Berea starts leaf **0394** sh **1 A**, W. D. Daniel | Madison Co., KY | C986 | S680 |
+| 26 Apr 1930 | — | FAN **PROVEN** as close: ED **76-18 COMPLETE** **0394–0429**. **0429** sh **18 B** short official end. **PROBABLE** entire-ED name-negative for Frank / David F. / Grant Newnam | Madison Co., KY | C989 C990 C993 | S683 S688 |
+| 5 Apr 1930 | — | FAN **PROVEN** as header: leaf **0430** = Glade ED **76-19** sh **1 A**, W. G. Blanton | Madison Co., KY | C994 | S685 |
+| 23 Apr 1930 | — | FAN **PROVEN** as close: ED **76-19 COMPLETE** **0430–0465**. **0465** sh **18 B** short. **0466** = Kirksville **76-20** sh **1 A**. **PROBABLE** entire-ED name-negative for Frank / David F. / Grant Newnam | Madison Co., KY | C995 C996 C997 C999 | S686 S687 S689 |
 
 **Impossibility flags:** None. Mother ~29 at Dora’s 1871 birth (Mary b. 1842). Dora age 14 at marriage is legal/period-possible (KY) though young; 1880 age 8 corroborates. Two children born before Coy in the 1886–1889 window would have Dora aged 15–18 — possible. No event after 23 Aug 1926 is attributed to her.

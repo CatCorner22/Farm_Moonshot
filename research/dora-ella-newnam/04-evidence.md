@@ -1288,6 +1288,26 @@
 | C985 | ED **76-17** Glade North **COMPLETE** **0378–0392**. **0393** unused. Tesseract **0378–0392** **nil** newman/frank/grant tokens (assist) | PROVEN as close; PROBABLE sampled/OCR negative | S673 S679 S681 L817 | B055 |
 | C986 | Leaf **0394** w1200 = Mag. Dist. **6** Glade (excluding Berea Town), ED **76-18**, sh **1 A**, 2 Apr, **W. D. Daniel**. Official **76-18** start. Blanton cluster. Residual: remaining **76-18 / 76-19** | PROVEN as header | S680 L818 | B055 |
 | C987 | Same-person write-up pass 93: John 38+Jennie still **rejected** vs John L. Floyd still **not merged** vs Boyd. French Eugene **rejected** vs Frank. 76-17 Coy/Cox **not merged** vs McCoy. #20 #26 #27 open. Do not print 1966, 1976, Floyd-as-Boyd, 1962 as McCoy death, or 1942 Combs charge as fact | PROVEN as analysis | S682 L819 | B055 B088 B089 |
+| C988 | Leaf **0428** w1200 = Mag. Dist. **6** Glade (excluding Berea Town), ED **76-18**, sh **18 A**, 26 Apr, **W. D. Daniel**. Full sheet. Visual farm households. **Nil** Newman isolated | PROVEN as header | S684 L822 | B055 |
+| C989 | Leaf **0429** w1200 = ED **76-18** sh **18 B**, 26 Apr, W. D. Daniel. Short sheet (~8 name lines). Official **76-18 END** | PROVEN as close | S683 L823 | B055 |
+| C990 | ED **76-18** Glade SW excl. Berea Town **COMPLETE** **0394–0429** (sh **1 A–18 B**). Published list matches | PROVEN as close | S680 S683 S690 L824 | B055 |
+| C991 | Tesseract name-column sweep, T626-769 leaves **0394–0429** (**36** sheets): two OCR “coy” tokens = form-line garbage (visual **0412 / 0427** **nil** McCoy). **Nil** newman/newnam/noonan/frank/david/grant tokens after visual reject | PROBABLE (OCR draft) | S688 L825 | B055 |
+| C992 | Leaf **0412** w1200 = ED **76-18** sh **10 A**, 15 Apr. One given-name **Frank** in a non-Newman farm household. Surname ≠ Newnam; no contractor line. **Rejected** vs Frank of Berea | PROVEN as header; DISPROVED as Frank of Berea | S694 L826 | B055 |
+| C993 | Combined official start+end + OCR + visual start/mid (**0400** sh **4 A**; **0415** sh **11 B**)/end: **PROBABLE** entire ED **76-18** name-negative for Frank / David F. / Grant Newnam | PROBABLE as ED-level negative | S680 S683 S688 S695 S696 L827 | B055 |
+| C994 | Leaf **0430** w1200 = Mag. Dist. **6** Glade, ED **76-19**, sh **1 A**, 5 Apr, **W. G. Blanton**. Official **76-19** start. Farmers. **Nil** Newman | PROVEN as header | S685 L828 | B055 |
+| C995 | Leaf **0465** w1200 = ED **76-19** sh **18 B**, 23 Apr, W. G. Blanton. Short sheet. Official **76-19 END** | PROVEN as close | S686 L829 | B055 |
+| C996 | Leaf **0466** w1200 = Mag. Dist. **7** Kirksville, ED **76-20**, sh **1 A**, 2 Apr, **Miss Martha Henderson**. Official next-ED start after Glade SE | PROVEN as header | S687 L830 | B055 |
+| C997 | ED **76-19** Glade SE **COMPLETE** **0430–0465** (sh **1 A–18 B**). Published list matches | PROVEN as close | S685 S686 S690 L831 | B055 |
+| C998 | Tesseract name-column sweep, T626-769 leaves **0430–0465** (**36** sheets): **nil** newman/newnam/noonan/nunan/frank/david/mccoy/grant/boyd tokens | PROBABLE (OCR draft) | S689 L832 | B055 |
+| C999 | Combined official start+end + OCR + visual start/mid (**0450** sh **11 A**; **0460** sh **16 A**)/end: **PROBABLE** entire ED **76-19** name-negative for Frank / David F. / Grant Newnam | PROBABLE as ED-level negative | S685 S686 S689 S697 S698 L833 | B055 |
+| C1000 | Mid samples **0400** (76-18 **4 A**), **0415** (76-18 **11 B**), **0450** (76-19 **11 A**), **0460** (76-19 **16 A**) visual name columns **nil** Newman / Frank contractor | PROVEN as sampled negatives | S695 S696 S697 S698 L827 L833 | B055 |
+| C1001 | FS catalog **127913 / 127869 / 1146342** this session = SPA shells. R011 step **44**. Images unread. Do **not** re-ask clerk Tyler Phillips | PROVEN as access | S691 L835 | B045 B061 B069 |
+| C1002 | IA Solr Antioch/Clifty Wolfe 1920 **numFound 0**. Antioch **242** still not on a free IA item | PROVEN as access | S692 L836 | B088 |
+| C1003 | IA Solr Estill 1930 T626 query returned other KY reels already inventoried — **not** a Station Camp South **33-8** supplement. **33-8 / 33-9** still **absent** from IA T626-742 | PROVEN as access | S692 L836 | B089 |
+| C1004 | IA Solr `"Dora Stone"` 1926 + yell/ola/arkansas/beattyville **numFound 0**. No 1926 page image | PROVEN as access | S693 L837 | B049 |
+| C1005 | IA Solr `"Frank Newnam"` / `"Frank Newman"` + Berea/Madison + Kentucky **numFound 0** | PROVEN as access | S693 L837 | B055 |
+| C1006 | LOC *Citizen* **sn85052076** **403**; Duell-Clark host **DNS**; SortedByName Newnam **403**. No new Rissie / John L / Frank row | PROVEN as access | S700 L838 | B016 B055 B082 |
+| C1007 | Same-person write-up pass 94: John 38+Jennie still **rejected** vs John L. Floyd still **not merged** vs Boyd. 0412 given-name Frank **rejected**. 76-16 through **76-19** now **PROBABLE** name-negative for Frank of Berea. #20 #26 #27 open. Do not print 1966, 1976, Floyd-as-Boyd, 1962 as McCoy death, or 1942 Combs charge as fact | PROVEN as analysis | S699 L839 | B055 B088 B089 |
 
 ## Same-person merges (Hard Rule 3)
 | Records merged | Identifier 1 | Identifier 2 | Contradictions? | Verdict |
@@ -1297,6 +1317,7 @@
 | 1930 Estill **33-2** Herbert Newman 29 VA + Edith + 1930 John L 51 + Cora | Newman + Estill/Owsley cluster | Age 29 vs 51; nativity VA vs KY; wife Edith ≠ Cora | **Rejected (C918)** |
 | 1930 Madison **76-16** sh **11 A** French, Eugene + Frank of Berea | Given-name fragment Frank/French + Berea | Surname **French** ≠ Newnam; no contractor line | **Rejected (C980)** |
 | 1930 Madison **76-17** sh **8 A** Coy/Cox farm household + McCoy Newnam 40 Buck Creek | Surname/given fragment Coy | Madison Glade ≠ Owsley Buck Creek; no wife Edith / AR children | **Not merged (C984)** |
+| 1930 Madison **76-18** sh **10 A** given-name Frank (non-Newman farm hh) + Frank of Berea | Given name Frank + Madison | Surname ≠ Newnam; farm household ≠ contractor | **Rejected (C992)** |
 | 1920 Bell **0642** Woods? + Cora 41 + 1930 John L + Cora Brandenburg | Given Cora + age ~41 | No John L; Excelcia precinct ≠ Buck Creek | **Rejected (C930)** |
 | Rissie Dishman Beaty 1887–1926 Overton TN + 1900 Rissa May 1897 | Given-name fragment Rissie | Surname Dishman/Beaty; no Newnam/Stamper/Pelfrey; birth 1887 ≠ 1897 | **Rejected (C927)** |
 | 1910 Heidelberg Boyd+Allie+4 children + 1920 Station Camp Boyd+Allie+same 4 | Wife Allie + Sarah/Arthur/Carlos-Corlue/Clarence + Lee→Estill | Miracode age 28 vs schedule 38 (prefer schedule) | **Same household. PROVEN (C700).** |

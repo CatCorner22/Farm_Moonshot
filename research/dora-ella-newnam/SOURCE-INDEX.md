@@ -420,6 +420,24 @@ Captured this session: **30 Oct 2026**. Earlier plates remain in `sources/census
 | S680 | `sources/census/madison-1930-ed7618-0394-glade-1a-pass93.jpg` · `madison-1930-ed7617-0393-unused-pass93.jpg` | 2026-10-31 | IA T626-769 | https://archive.org/details/kentuckycensus00reel769 | **76-18** official start; **0393** unused | **C985 C986** | image seen |
 | S681 | `sources/census/pass93/glade17-ocr.txt` | 2026-10-31 | IA T626-769 | https://archive.org/details/kentuckycensus00reel769 | 21-sheet Glade OCR nil newman/frank/grant | **C985** | OCR draft |
 | S682 | `sources/census/pass93-extract-2026-10-31.txt` | 2026-10-31 | This session | — | Pass 93 extract | **C972–C987** | extract |
+| S683 | `sources/census/madison-1930-ed7618-0429-18b-end-pass94.jpg` | 2026-10-31 | IA T626-769 | https://archive.org/details/kentuckycensus00reel769 | ED **76-18** sh **18 B** official end | **C989** | image seen |
+| S684 | `sources/census/madison-1930-ed7618-0428-18a-pass94.jpg` | 2026-10-31 | IA T626-769 | https://archive.org/details/kentuckycensus00reel769 | ED **76-18** sh **18 A** | **C988** | image seen |
+| S685 | `sources/census/madison-1930-ed7619-0430-1a-pass94.jpg` | 2026-10-31 | IA T626-769 | https://archive.org/details/kentuckycensus00reel769 | ED **76-19** sh **1 A** official start | **C994** | image seen |
+| S686 | `sources/census/madison-1930-ed7619-0465-18b-end-pass94.jpg` | 2026-10-31 | IA T626-769 | https://archive.org/details/kentuckycensus00reel769 | ED **76-19** sh **18 B** official end | **C995** | image seen |
+| S687 | `sources/census/madison-1930-ed7620-0466-kirksville-1a-pass94.jpg` | 2026-10-31 | IA T626-769 | https://archive.org/details/kentuckycensus00reel769 | ED **76-20** Kirksville sh **1 A** next ED | **C996** | image seen |
+| S688 | `sources/census/pass94/glade18-ocr.txt` | 2026-10-31 | IA T626-769 | https://archive.org/details/kentuckycensus00reel769 | 36-sheet OCR; 2 false coy tokens | **C991** | OCR draft |
+| S689 | `sources/census/pass94/glade19-ocr.txt` | 2026-10-31 | IA T626-769 | https://archive.org/details/kentuckycensus00reel769 | 36-sheet OCR nil newman/frank/grant | **C998** | OCR draft |
+| S690 | `sources/catalog/uscensus-madison-1930-pass94.html` | 2026-10-31 | US-Census.org | https://www.us-census.org/states/kentucky/teams/Madison1930-T626-769.htm | **76-18** SW excl. Berea; **76-19** SE | **C990 C997** | catalog |
+| S691 | `sources/catalog/fs-127913-pass94.html` · `fs-127869-pass94.html` · `fs-1146342-pass94.html` | 2026-10-31 | FamilySearch | https://www.familysearch.org/search/catalog/127913 | R011 step **44**; images unread | **C1001** | catalog |
+| S692 | `sources/catalog/ia-solr-antioch-242-pass94.json` · `ia-solr-t626-742-33-8-pass94.json` | 2026-10-31 | Internet Archive | https://archive.org/advancedsearch.php | Antioch **0**; no 33-8 supplement | **C1002 C1003** | catalog |
+| S693 | `sources/catalog/ia-solr-dora-stone-1926-pass94.json` · `ia-solr-frank-berea-pass94.json` | 2026-10-31 | Internet Archive | https://archive.org/advancedsearch.php | 1926 Dora Stone **0**; Frank Berea **0** | **C1004 C1005** | catalog |
+| S694 | `sources/census/madison-1930-ed7618-0412-10a-frank-reject-pass94.jpg` | 2026-10-31 | IA T626-769 | https://archive.org/details/kentuckycensus00reel769 | Given-name Frank **rejected** vs contractor | **C992** | image seen |
+| S695 | `sources/census/madison-1930-ed7618-0415-11b-mid-pass94.jpg` | 2026-10-31 | IA T626-769 | https://archive.org/details/kentuckycensus00reel769 | ED **76-18** sh **11 B** mid sample | **C1000** | image seen |
+| S696 | `sources/census/madison-1930-ed7618-0400-4a-mid-pass94.jpg` | 2026-10-31 | IA T626-769 | https://archive.org/details/kentuckycensus00reel769 | ED **76-18** sh **4 A** mid sample | **C1000** | image seen |
+| S697 | `sources/census/madison-1930-ed7619-0450-11a-mid-pass94.jpg` | 2026-10-31 | IA T626-769 | https://archive.org/details/kentuckycensus00reel769 | ED **76-19** sh **11 A** mid sample | **C1000** | image seen |
+| S698 | `sources/census/madison-1930-ed7619-0460-16a-mid-pass94.jpg` | 2026-10-31 | IA T626-769 | https://archive.org/details/kentuckycensus00reel769 | ED **76-19** sh **16 A** mid sample | **C1000** | image seen |
+| S699 | `sources/census/pass94-extract-2026-10-31.txt` | 2026-10-31 | This session | — | Pass 94 extract | **C988–C1007** | extract |
+| S700 | `sources/catalog/access-fail-pass94.txt` | 2026-10-31 | LOC / Duell-Clark / SortedByName | https://www.loc.gov/item/sn85052076/ | *Citizen* **403**; Duell-Clark **DNS**; SortedByName **403** | **C1006** | catalog |
 
 ## Word biography provenance
 
@@ -469,3 +487,5 @@ Exact strings in `02-log.md` **L343–L352**, **L380–L397**, **L398–L411**, 
 **Pass 92 (ED 103 close / college 102 / T626-769):** Frank/David F./David G. × Newnam/Newman/Noonan. Place Berea Town **16** / College Academy / Glade Creek / Richmond **76-1**. Soundex **N550**. Exact strings **L791–L805**.
 
 **Pass 93 (76-16 / 76-17 close):** Frank/David F./David G./Grant × Newnam/Newman/Noonan. Place Berea Town **76-16** / Berea College / Glade **76-17 / 76-18**. Soundex **N550**. Exact strings **L806–L820**.
+
+**Pass 94 (76-18 / 76-19 close):** Frank/David F./David G./Grant × Newnam/Newman/Noonan. Place Glade **76-18 / 76-19** / Kirksville **76-20**. Rissie × Stamper/Pelfrey. Soundex **N550**. Exact strings **L821–L840**.
