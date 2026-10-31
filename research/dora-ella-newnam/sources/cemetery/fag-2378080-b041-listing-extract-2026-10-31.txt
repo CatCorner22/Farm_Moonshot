@@ -1,0 +1,49 @@
+Find A Grave cemetery 2378080 — Newnam Cemetery, Pebworth, Owsley Co. KY
+Also known as: Newman Cemetery, Newman-Combs Cemetery
+Location on listing: Crossroads Tom Cornett Farm N37.30.337 W83.44.123
+Coordinates: 37.50542, -83.73561
+101 Memorials; 67% photographed; 54% with GPS
+Kentucky Landmark quote on listing (Newman sic).
+Added: 17 Nov 2010
+Fetched 31 Oct 2026 HTTP 200 (listing HTML; individual memorials unread / typically 403)
+
+Memorial-search lastName=Newnam (20 sr- IDs; i18n "No matches" ignored):
+  67326744 Amanda Burns Newnam 22 Jun 1858 – 17 Aug 1913
+  67327089 Arco Newnam dates unknown
+  221683899 Frank Newnam dates unknown
+  67326680 Franklin W “Frank” Newnam 29 Apr 1864 – 3 Aug 1933
+  166373825 Henry Harrison “Harry” Newnam 13 Dec 1815 – 1897
+  168344997 Jesse Newnam Mar 1860 – 1860
+  67327120 John Newnam 1852 – 17 Oct 1878
+  67326845 Pvt John Newnam Jr. 15 Sep 1823 – 14 Sep 1898
+  61763398 PVT John Newman Newnam Sr. 3 May 1790 – 3 May 1869
+  194879929 John W “Demp” Newnam 1838 – 17 Feb 1900   [other person]
+  67327058 Lucinda Steele Newnam 1839 – 1906           [other person]
+  67326932 Martha Newnam 5 Apr 1866 – 1867
+  197491558 Mary Jane Pardington Newnam 1845 – 19 Dec 1893
+  67326993 Mattie Newnam 25 Jul 1878 – unknown
+  67326966 Richard Morris Newnam 1824 – 25 Mar 1877
+  67326892 Susan Goe Newnam 1824 – 3 Sep 1857
+  168344766 Susannah Newnam 28 Sep 1853 – 28 Sep 1853
+  166374695 Susannah Mays Newnam 1824 – 1899
+  197334790 William “Crit” Newnam 1840 – unknown
+  61763342 Leah Scholl Newnam Newman 1795 – 4 Aug 1877 Plot Row 3
+
+Memorial-search lastName=Newman (3):
+  168592170 Belinda Armilda “Millie” Tincher Newman 1823 – Jul 1848
+  170545846 Joseph Newman 24 Dec 1856 – 1885
+  61763342 Leah Scholl Newnam Newman (repeat)
+
+Nil at this cemetery (0 sr- IDs; trust IDs not i18n):
+  firstName=Samuel lastName=Newnam
+  firstName=Samuel lastName=Newman
+  firstName=Sam lastName=Newnam
+  firstName=Parriott lastName=Newnam
+  firstName=Samuel lastName=Newnarn
+  firstName=S lastName=Newnam → only Susan/Susannah (S-prefix), not S. P.
+
+Statewide FAG memorial-search firstName=Samuel lastName=Newnam deathyear=1906 ±10 location=Kentucky: 0 sr- IDs
+Statewide firstName=Samuel lastName=Newman same filter: 0 sr- IDs
+(nav memorial links evelyn-king / holmes-mcfatridge are not results)
+
+Listing HTML seen. Individual biography panes not examined.

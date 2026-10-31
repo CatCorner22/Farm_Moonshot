@@ -324,6 +324,28 @@ Regenerated **before** B039 Hayes/Smith book residual queries (`bc-c5415202`). *
 
 Exact strings logged **L607–L616**.
 
+## Name-variant storm (pass 85, `search_variants.py`, 31 Oct 2026)
+
+Regenerated **before** B041 Samuel burial remote queries (`bc-20e39036`). **Did not take B039** (`bc-c5415202` Pass **84**, **C514–C523 / L607–L616 / S446–S455**). **Did not take B007** (`bc-6d51c793` Pass **83**, reserved **C504–C513 / L597–L606 / S436–S445**). **Did not take B014 / B042 / B047 / B049 / B055 / B056.** **Did not retake B020 / B030 / B015 / B016 / B045 / B051 / B054 / B057 / B092.** This pass uses **C524–C534 / L617–L627 / S456–S464**. Categories **1–4**:
+
+1. **Canonical:** Samuel P. Newnam (P002); Newnam Cemetery / Newman / Newman-Combs, Pebworth, FAG **2378080**, Crossroads Tom Cornett Farm.
+2. **User / family:** Newman / Newnarn / Newan / Newnom; Samuel / Sam / S. P. / S P; Parriott (WikiTree lore only).
+3. **Machine / OCR given:** Samuel (ocr-given: Samuel only). Surname: Newnam, newman, newnarn, newan, newnom. Soundex **N550** / Samuel **S540** / Parriott **P630**.
+4. **Repository quirks:** FAG cemetery **2378080** `firstName`+`lastName`; statewide `deathyear=1906` ±10 Kentucky; USGW Archives directory vs `files.usgwarchives`; owsleycokyhist `newnam.html` vs `newnam_cemetery.html`; USGenNet/GT name lists; IA Solr `title:(…)`.
+
+Exact strings logged **L617–L627**.
+
+## Name-variant storm (pass 86, `search_variants.py`, 31 Oct 2026)
+
+Regenerated **before** B042 UK-film residual queries (`bc-c5415202`). **Did not take B020** (`bc-20e39036` Pass **82/85**, **C494–C503 / C524**). **Did not take B007** (`bc-6d51c793` reserved **C504+ / L597+ / S436+**). **Did not take B014 / B030 / B039 digital ladder / B041 / B047 / B049 / B055 / B056.** **Did not retake B015 / B016 / B042 digital table / B045 / B051 / B054 / B057 / B092.** Left sibling Pass **85** **C524–C534 / L617–L627 / S456–S464**. This pass uses **C535–C544 / L628–L637 / S465–S474**. Categories **1–4**:
+
+1. **Canonical:** Dora Ella Newnam; Samuel P. Newnam; *Beattyville Enterprise*; UK film **S 90-033** / KUK **18568**; Newspapers.com paper **39744**; CA LCCN **sn86069167**.
+2. **User / family:** Newman / Newnarn / Newan / Newnom; Dora / Ella / Posa / Doll; Samuel / Sam / S. P.; Three Forks Enterprise (predecessor).
+3. **Machine / OCR given:** Dora → posa / dosa / rosa / dona / dara / dore / dori / dola / pora / rora. Surname: Newnam / newman / newnarn / newan / newnom. Soundex **N550** / **S350** / **D600** / Beattyville **B314**.
+4. **Repository quirks:** UK omeka item **65438**; Newspapers.com `/paper/…_39744/39744` vs `/title_39744/`; CA `/lccn/sn86069167/` vs `.json` vs loc.gov collections; IA Solr `title:(beattyville enterprise) AND year:[1909 TO 1911]`; WorldCat / ExploreUK / KDLA film.
+
+Exact strings logged **L628–L637**.
+
 ## Agent SDK / GitHub channel
 
 Inspected 30 Oct 2026 (**L351**): this repository has **no** `package.json`, **no** `@grok/agent-sdk`, **no** `bot/` directory. GitHub channel `bot/channels/github.ts` is **n/a** and was **not** authored. Project subagent: `.cursor/agents/dora-genealogy-detective.md`.

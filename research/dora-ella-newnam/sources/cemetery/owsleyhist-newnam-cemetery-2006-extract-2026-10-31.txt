@@ -1,0 +1,38 @@
+Newnam Cemetery (aka Newman / Newman-Combs), Crossroads Tom Cornett Farm, Pebworth, Owsley Co. KY
+Source: http://www.owsleycokyhist.org/newnam_cemetery.html
+Fetched 31 Oct 2026 HTTP 200 (118,487 B Word-exported HTML; extract only saved)
+Title: Simple Web Page
+Header (as read):
+  Location: Crossroads / Tom Cornett Farm / Pebworth, KY
+  Transcribed by: J. E. Combs; James Cornett; Thomas Cornett; Mark Edwards
+  Date: 02/22/2006
+  Word metadata last-save: 2006-07-30T19:49:00Z
+
+Access: transcription only. Stones not re-photographed this pass. Individual FAG memorials 403.
+
+Raw-string counts on the saved HTML:
+  Samuel: 0
+  Sam (word): 0
+  Parriott: 0
+  Newman (M-an spelling): 0
+  Newnam: 35 (includes parent notes)
+  Dora: 2 — Dora B. Combs 1882–1957; infant child of Dora Combs (other people)
+
+Newnam-named rows actually printed (dates only when adjacent on this page):
+  Infant Newnam — infant child of Frank Newnam (three rows; no dates)
+  Amanda Burns Newnam — 06/22/1858 – 08/17/1913
+  Frank Newnam — 04/29/1864 (death not printed on this reading); S/O Richard Morris Newnam and Lucinda Steele
+  Susan Goe Newnam — D/O Nathan Goe and Elizabeth Frame, W/O John Newnam Jr. (dates not printed here)
+  John Newnam, Jr. — 09/15/1823 – 09/14/1898; S/O John Newnam and Leah Scholl
+  Leah Scholl Newnam — 1795 – 1877; D/O Joseph Scholl and Levina Boone
+  John Newnam — 1789 – 1869
+  Martha Newnam — 04/05/1866 (death not printed here)
+  Richard Morris Newnam — 1824 – 1877; S/O John Newnam and Leah Scholl
+  Mattie Newnam — 07/24/1878; D/O Richard Morris Newnam and Lucinda Steele
+  Lucinda Steel Newnam — 1839 – 1906; W/O Richard Morris Newnam  [other person; not Samuel P.]
+  Arco Newnam — S/O Kate Newnam (no dates)
+  J. Newnam — 10/17/1878
+  Mary Jane Newnam Evans — 1855 – 1901; D/O Henry Harrison Newnam and Susan Mays (buried as Evans)
+
+No Samuel P. / Sam / S. P. / Parriott Newnam/Newman decedent row.
+Do not invent unread stone photographs or unmarked graves.
