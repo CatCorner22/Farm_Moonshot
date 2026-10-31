@@ -5388,3 +5388,55 @@ Pass 2: Do **not** invent T288 card contents. Do **not** promote C509. Do not fi
 ### Facts extracted → claim IDs
 - IIIF timeout 20s, 0 bytes; images unseen → C1076
 - B061 remaining gap → C1078
+
+## DOC228 — Catalog + Pass 101 coverage
+
+- Extract: `pass101-coverage.txt` SHA-256 `e7fa511e8663d93ad75a280b02dad95c80bf0cd783afe033efedc39a183d8eab`
+- Provenance: Cursor `list-cloud-agents` includeArchived limit 200, 31 Oct 2026. This run `bc-01a18bb4-e162-785c-9724-86a7c5663bf1`.
+- Access: process listing. **No** new independently image-backed P001 1900–1926 residence.
+
+### Diplomatic — cited extract
+
+> **190** / `hasMore: false` / `totalMatched: 190`. Was **188**. NEW vs 188 (2; **no IDs imported**). Status-only: Hunt Dora **renamed** B075 Van Buren 1910 correct reel still RUNNING (same id). Sibling C281 **not imported**.
+
+Pass 2: Process count only. Skip **C221–C280**. Do **not** promote C509. Do **not** hunt remaining 1930 Owsley sheets.
+
+### Facts extracted → claim IDs
+- catalog 190; NEW 2 process-only → C1079
+- B063 remaining gap → C1084
+- B061 remaining gap → C1085
+
+## DOC229 — Josephine remaining substitutes (Pass 101)
+
+- Extract: `josephine-gilbert-pass101.txt` SHA-256 `3694744284faabc1000ad00c9d0dc27337b329b74ee848ce7bda3fdf66eb2720`
+- Coverage: `pass101-coverage.txt` `e7fa511e8663d93ad75a280b02dad95c80bf0cd783afe033efedc39a183d8eab`
+- Provenance: Casey 1800–1900 PDFs; IA Johnson 1900–1920; GT Pulaski. Opened 31 Oct 2026. **PDF-OCR / access-fail / landing**. License unseen.
+
+### Diplomatic — cited extracts
+
+> Casey 1800–1900 PDFs covering 1851–1900 (110 rows in 1900; 0 in 1901/1902). Nil Newnam. Josephine/Josie other maidens 1871–1899.
+
+> IA Johnson 1900–1920 identifier marriagerecordso0002jane. DjVuTXT 401/403 Item not available. OCR unseen.
+
+Pass 2: License still unseen. Do not close B063. Do not invent Johnson page contents.
+
+### Facts extracted → claim IDs
+- Casey PDFs through 1900 n/a as 1902 → C1080
+- Johnson IA 1900–1920 403 unseen → C1081
+- remaining n/a/404/timeout → C1082
+- B063 remaining gap → C1084
+
+## DOC230 — T288 IIIF timeout 25s (Pass 101)
+
+- Extract: `t288-timeout-pass101.txt` SHA-256 `bbefde8f9403bb99070050b1a5b706ebf6faecd175a6d9df335d6670422edee7`
+- Provenance: NARA Catalog IIIF T288-0348-01001 info.json. Opened 31 Oct 2026. **Access-fail**.
+
+### Diplomatic — cited access results
+
+> Reel 348 frame 01001 info.json timeout 25s, 0 bytes. Johnson IA 1900–1920 403 unseen.
+
+Pass 2: Do **not** invent T288 card contents. Do **not** promote C509.
+
+### Facts extracted → claim IDs
+- IIIF timeout 25s, 0 bytes; images unseen → C1083
+- B061 remaining gap → C1085

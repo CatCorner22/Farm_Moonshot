@@ -1,0 +1,46 @@
+Pass 101 — Josephine Newnam × Gilbert ~1902 remaining substitutes
+Opened 31 Oct 2026 (America/New_York). PDF-OCR / landing / access-fail / 404.
+License unseen. Original 1916 DC face unseen. T288 images unseen.
+Casey PDFs opened locally under /tmp/pass101/ (not committed; 346,974 / 344,406 bytes).
+
+Casey KYGenWeb Marriages/1800_1900_Marriages_Bride.pdf and _Groom.pdf OPENED.
+  pdftotext -layout. Title Casey County, Kentucky Marriage Records Sorted by Bride/Groom.
+  Year span on dated rows 1851–1900 (110 rows in 1900; token 1901=0; token 1902=0).
+  n/a as a 1902 Newnam license in this compiled set.
+  Nil Newnam token.
+  Newman: Patton Newman (groom given-name) × Lizzie Wilkinson 25 Dec 1887 other.
+  Josephine/Josie given-name hits (bride maiden ≠ Newnam; grooms ≠ Gilbert):
+    Baldock Josephine × Robert H Lee 6 Jan 1878 DISPROVED (already C1074);
+    Bradshaw Josie × Mc. Wilson 7 May 1898 DISPROVED (already C1074);
+    Bell Josie 29 May 1893 / Bland Josephine 23 Apr 1881 / Copley Josephine 1 Dec 1890 /
+    Coulter Josie A 13 Mar 1898 / Cox Josephine 29 Jan 1878 / Earls Josie P 21 Apr 1885 /
+    Ellis Josephine 9 Mar 1871 / Goforth Josephine 11 Oct 1898 / Hafley Josie E 21 Apr 1889 /
+    Hawkins Josie E 7 Jul 1889 / Helm Josie 29 Sep 1895 / King Josephine 9 May 1891 /
+    Lane Josephine 13 Oct 1888 / 18 Aug 1883 / 19 Aug 1883 / Martin Josie G 6 May 1894 /
+    Mason Josephine 6 Jul 1896 / Morris Josephine 13 Apr 1883 / Perkins Josephine 19 Apr 1875 /
+    Pitman Josie 23 Dec 1894 / Rich Josephine 3 Dec 1899 / Simpson Josephine 10 Mar 1892 /
+    Southerland Josephine 19 Dec 1872 / Stearns Josie E 30 Aug 1899 / Thomas Josephine 30 May 1877 /
+    Wethington Josephine 27 Nov 1883 / Williams Josie 6 Nov 1895 / Wilson Josie 23 Jul 1899 /
+    Wood Josephine B 7 Dec 1897 / Young Josie 14 Dec 1887 — other.
+  Gilbert given-name grooms: Elder Gilbert W 1880 / Osborn Gilbert W 1865 / King Gilbert 1876 /
+    Minor Gilbert 1868 / Kindred Gilbert F 1894 — other (not a surname Gilbert).
+  Nil Josephine Newnam × Gilbert in this 1851–1900 compiled index.
+
+Internet Archive identifier marriagerecordso0002jane
+  Title: Marriage Records of Johnson County Kentucky 1900–1920 (1998).
+  Covers 1902 by title. Metadata lists DjVuTXT 1,113,388 bytes and Text PDF 31,520,043 bytes.
+  archive.org/download/..._djvu.txt HTTP 401 then 403 “Item not available.”
+  hOCR gzip same 401. Fulltext API 404 HTML. OCR/PDF unseen.
+  Do not invent Johnson 1900–1920 card or page contents.
+  Prior KYGenWeb Johnson 1900–03 (C896) is a different opened set.
+
+Genealogy Trails ken/pulaski/marriages.html OPENED (2,427 bytes):
+  1852 Marriage Index; Killis Brown × Bertie Garland; Robert Garland × Azadie Meece.
+  n/a as a county-wide 1902 Newnam license. Josephine/Newman/Gilbert/1902 token 0.
+  GT laurel/rowan/johnson/magoffin/whitley/marriages.html HTTP 404 (1,150–1,153 bytes).
+
+Rowan: usgwarchives.net/ky/rowan/rowan.html timeout 0 bytes; files.usgwarchives.net/ky/rowan/
+  timeout 0 bytes; rootsweb.com/~kyrowan/ HTTP 403 (2 bytes); kygenweb.net/rowan/rowan-mg.html
+  still the same 5,781-byte landing (table unseen). 1880–1920 compilation listed, not opened.
+
+License still unseen. Do not close B063.

@@ -1,0 +1,19 @@
+Pass 101 — T288 IIIF timeout 25s + Johnson IA 403
+Opened 31 Oct 2026 (America/New_York). Access-fail.
+Card images unseen. Johnson 1900–1920 OCR unseen. Original 1916 DC face unseen.
+Do not invent T288 card contents. Do not promote C509.
+Do not treat Catalog quoted Newnam title-nil as a T288 card-nil.
+Do not invent Johnson 1900–1920 page contents from a title.
+
+T288 IIIF (curl, 25s):
+  https://catalog.archives.gov/iiif/3/lz%2Fdc-metro%2Frg-015%2F563268/T288-0348/T288-0348-01001.tif/info.json
+    curl 28 timeout, 0 bytes. Card images unseen.
+  Reel 347 not retried this pass after reel 348 0-byte timeout.
+  Prior Pass 100 timeout 20s 0 bytes; Pass 99 HTTP 502. Path still known. Pixels unseen.
+
+Johnson IA 1900–1920 (covers 1902 by title) borrow-restricted 401/403.
+  Identifier marriagerecordso0002jane. Item not available. Unseen.
+
+B061 remains open. Residual: original 1932 DC vol 020 #09525; Estill 1826–1850 bonds;
+M123-3 original; T288 card images (IIIF path known; pixels timeout 25s / 0 bytes
+this pass).
