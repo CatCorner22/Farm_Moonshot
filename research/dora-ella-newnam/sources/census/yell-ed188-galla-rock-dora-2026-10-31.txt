@@ -1,0 +1,59 @@
+# Extract — Yell Co. AR 1920 ED 188 Galla Rock originals (B072)
+# IA `14thcensusofpopu086unit` (NARA T625-86). PDF still at /tmp/t625-86-yell.pdf
+# (not committed). Name-column crops: pypdfium2 + Pillow autocontrast,
+# /tmp/ed188-names/p0303–p0320-names.jpg. Key pages copied to sources/census/ed188/.
+# Access: image seen (visual read). No tesseract. Do not invent surnames.
+# Did not re-render ED 191 pp 351–379.
+
+## Header map (this pass)
+303   Galla Rock Twp   ED 188  sheet 1A   20 January 1920   Zona Morehouse
+304   Galla Rock       ED 188  sheet 1B   20–? January
+305   Galla Rock       ED 188  sheet 2A   20 January
+306   Galla Rock       ED 188  sheet 2B   31 January
+307–311  Galla Rock    ED 188  (continuation)
+312   blank / “Error”  (not a population sheet)
+313   Galla Rock       ED 188  sheet 6A   February
+314–316  Galla Rock    ED 188
+317   Galla            ED 188  sheet 8A
+318   Galla Rock       ED 188  sheet 8B   6 February
+319   Galla Rock       ED 188  sheet 9A   February
+      last written line: “Here ends the enumeration of Galla”
+320   unused blank schedule (no township / ED / enumerator)
+321–323  Gilkey        ED 187  (Daniel S. Goble) — not 188; not re-read for names
+
+True ED 188 = PDF **303–319** (skip 312). Prior B071 note “318 = Galla Rock ED 188”
+was a single-page header, not the full range.
+
+## Hunt (Dora / Ella / Posa / Mrs Stone / Newman ~48; FAN Tom A. / McCoy)
+Visual read of name + relationship + age on 303–311, 313–319.
+Handwriting hard. Uncertain surnames marked [illegible] — not invented.
+
+p303 sheet 1A hh 1+: McCollum / Ridger / Ringo / Millero? / Sterious / Medley
+     (Corra wife 17) / Bowsdele Mary A wife 54 / Bezzeo / Malburr Lillie 50 S.
+     No Stone / Newman / Dora ~48.
+p304 hh 20: Caffler, Mackla + Nora wife 36 AR. Age 36. Rejected.
+p305: Barrees, Robert + Flora wife 50 MS. Mississippi. Rejected as P001.
+p306: Sturgeon George 50; Alvey Howell 24 KY (too young; not Tom A.).
+p307: Sheppard / Chary / McNulty / Bolin / Jones / Brown / Evans. No Stone.
+p308: Thomas, Ed 50 + Lizzie 39 (given Ed, not Stone). Crocket / Lozoung / Pouky.
+p309 hh 63: Stoner, [Israel?] 42 TN + wife 27 + stepchildren. STONER not Stone.
+     Age 42 male vs Tom A. 62. Rejected as FAN merge.
+p310 hh 77: Humphrey, John 45 + Rossa wife 37 + Pearl dau 17 + other children.
+     Rossa 37 vs Dora ~48; Pearl 17 vs P001’s Pearl ~24 m. Clyde. Rejected.
+     Lipe, William 49 KY — not Stone.
+p311: Martin, Jim P. 41 KY + wife 39 MO. Too young for Tom A. No Dora ~48.
+p312: Error / blank. No names.
+p313 hh 93: [Perrx?], wife Dora age 25 AR + Floyd / another child. Age 25. Rejected.
+p314–316: Davis (father b. KY) / Forner / Watkins / Milleo Mary 50 TX head /
+     Scotty / Cainn / Lowery / Apple. Mary 50 TX rejected.
+p317: Clark Otis 55 MO; Motley Louis 32 KY + wife. No Stone / Dora ~48.
+p318: Legey James 52 MO + Magie 43 MS; Wells; Ellis; Thompson; Sloan.
+p319: Dickson / Wilson Andrew 79 MO / Dickens Ablet 65 MO + Rosie 41 /
+     Teathle Ike 73 wd TN / Sheppard George 40 S.
+     Then enumerator: “Here ends the enumeration of Galla.”
+
+## Verdict
+ED 188 Galla Rock (303–319): no Mrs T. A. Stone ~48 b. KY with son McCoy;
+no Tom A. as head; no Newman/Newnam household matching P001.
+PROBABLE negative (handwriting; some surnames [illegible]).
+Originals remain the source.

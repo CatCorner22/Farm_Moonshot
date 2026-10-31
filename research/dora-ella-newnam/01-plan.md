@@ -155,7 +155,13 @@ Exact strings logged **L343–L360**.
 
 **Dora Stone --also Newman** — given: Dora, posa, dosa, rosa, dona, dara, dore, dori, dola, pora, rora. Surname: Stone, storie, stona, stome, Newman. Soundex **S350** / **N550**. Combined samples: `"Dora Stone"`, `"Stone, Dora"`, `"posa Stone"`, `"Dora Newman"`. Also Ella / Mrs Stone / Mrs Newman / Posa / Nora / Cora on Perry 1920 unpublished/unread bodies (Casa / Forest / New TN / Perry twp+town / Petit Jean / Union + published index-nil townships) and Yell ED 191 remainder.
 
-Exact strings logged **L485+**.
+Exact strings logged **L485–L498**.
+
+## Name-variant storm (pass 72, 31 Oct 2026, `search_variants.py`)
+
+**Dora Stone --also Newman** — given: Dora, posa, dosa, rosa, dona, dara, dore, dori, dola, pora, rora. Surname: Stone, storie, stona, stome, Newman. Soundex **S350** / **N550**. Combined samples: `"Dora Stone"`, `"Stone, Dora"`, `"posa Stone"`, `"Dora Newman"`. Also Ella / Mrs Stone / Mrs Newman / Posa / Nora / Cora as boarder/MIL/wife ~48 on Van Buren 1920 remaining township bodies (especially Union p.150 Stone house) and Yell ED **188** Galla Rock originals.
+
+Exact strings logged **L499+**.
 
 ## Name-variant storm (pass 70, 31 Oct 2026, `search_variants.py`)
 

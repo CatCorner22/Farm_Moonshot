@@ -1,0 +1,76 @@
+# Extract — Van Buren Co. AR 1920 remaining township bodies (B072)
+# 31 Oct 2026. ARGenWeb vanburen/Census/1920/. Transcription only (Lynn Risener /
+# Sandra Nichols / volunteer Excel HTML). Did not refetch Perry 1910, opened Perry
+# 1920 bodies, ED 191 pp 351–379, C335/C349 Solr, Conway Z, or logged phone.
+# Saved under sources/census/vanburen/1920/.
+
+## Files opened this pass (HTTP 200 unless noted)
+1920bradleybb.htm  Bradley / Bee Branch  (ED 123; Amos M. Pledger; 22 Jun 1920)
+1920cleveland.htm  Cleveland / Archey Borough  (ED 129; Charles A. Patton)
+1920davis1.htm     Davis  (Robert Thomas; 15 Jan 1920)
+1920griggs1.htm    Griggs  (James Thompson; 2 Jan 1920)
+1920grove.htm      Grove  (ED 128; Mrs. Cora A. Lawless; 15 Jan 1920)
+1920grove.html     Grove alpha  (heads only)
+1920hartsuggs1.htm Hartsuggs / Copeland  (ED 129; Charles A. Patton)
+1920mountain1.htm  Mountain  (Orlando B. Halbrook; 21 Jan 1920)
+1920mtnorig13b.html stub pointing at 1920mtnorig13b.jpg (Harris family only; image not fetched)
+1920rr.htm         Red River  (Oliver M. Jennings; 2–3 Jan 1920)
+1920redriver.html  Red River alpha
+1920sulpspgs1.htm  Sulphur Springs  (ED 131; Oliver M. Jennings; 16–24 Jan 1920)
+1920whiteoak1.htm  White Oak  (ED 128; Mrs. Cora A. Lawless; 5 Jan 1920)
+1920union.htm      Union Shirley Town 149a–b  (already saved B071)
+1920union1.htm     Union Shirley Town 149b–150b
+1920union2.htm     Union Shirley Town 150b–152a
+1920union3.htm     Union Shirley Town 152a–b
+1920union4.htm     Union rural 152b–153b
+1920union5.htm     Union rural 154a–155a
+1920union6.htm     Union rural 155a–156a
+1920union7.htm     Union rural 156a–157a
+1920union8.htm     Union rural 157a–158a
+1920union9.htm     Union rural 158a–b
+1920union150.htm / unionb.htm / unionshirley.htm  404
+
+Union after 158b: not fetched. Index Stone was only p.150 (now read).
+
+## Union p.150 Stone house (1920union1.htm; Shirley Town; Chas D. Davis)
+Page stamp 150a. Dw 32 / fam 36:
+  Stone, Abbie?  head  r  f w 37 wd  Ky/Ky/Ky  Manager-Boarding House
+  Charles        son      m w  3     Ar/Ill/Ky
+Fam 37 in the same dwelling: Knight, Rufus T. 24 + Lilly J. 20 + Leo 2
+  (boarders in Abbie’s house). No Dora / Ella / Newman in that dwelling.
+Index “Stone, Union, 150” = this house.
+
+Same-person vs P001: age 37 vs ~48; given Abbie? (transcriber mark);
+son Charles 3 (father b. Ill) vs Dora’s adult children Coy/Pearl/etc.;
+Tom A. Stone is a 62-year-old widower FIL in Perry Howell hh 122 the
+same month. DISPROVED as P001. Dora is not in the house.
+
+## Other Union hunt hits (not P001)
+union1: West, Oscar L. 48 + Dora wife 27 Ar/Ar/Ar + Eugene 15 / Wilma / Marjorie / FIL Leander. Age 27.
+union2: Brown, John + Ella M. wife 21 Ar/Ky/Ky.
+union3: Caldwell, Thomas + Ella wife 29 Ar/NC/Ar + MIL Graham, Mary 65.
+union5: Dora dau 4y5m.
+union6: Shadow, Albert F. 49 Ill + Dora wife 36 Mo/Germany/Mo.
+union8: Dona dau 20.
+union9: Blackburn, James W. 43 + Dora wife 44 Ar/Tn/Ar + Linn 18 / Addie? 11 / Plumer 8
+  (same couple as 1910 Union Blackburn + Dora 35).
+
+No Newman/Newnam row in Union 149a–158b.
+
+## Other 1920 township hunt hits (not P001)
+Grove hh 3: Skinner, John 59 England + Dora wife 43 IL/IL/IL + Elsie 17 IL + Ramon 5.
+Red River hh 5: Shirley, John C. 48 + Dora wife 44 Ar/Tn/Ar + Dora B. 18 / Dona E. 11 / Charles F. / Grant + neph Willie Fay.
+White Oak: Dora dau 11; Dora E wife 23 Ar/Ar/Tn.
+Cleveland: ROTEN, Dora E wife 26 NC + Cay C. 33 + three Roten sons.
+Bradley: LANKFORD, Nora wife 38 MISS (husband Brack listed on next line).
+Mountain hh 202: Gober, Howard 34 S MISS + Ella mother 55 wd MISS/MISS/ALA.
+Hartsuggs hh 8: NEWMAN, Harvey 66 + Mary 43 AR + Frank 18 / Fred 16 / Mittie 10 / Hellen 8
+  (local cluster already seen on Van Buren marriage N page; not Dora or Coy).
+Griggs: Newman, Mary A mother 80 wd ALA in Pistole hh 5.
+Davis / Sulphur Springs / Bradley: no Dora ~48 / Stone / Newman matching P001.
+
+## Verdict
+Van Buren 1920 published township bodies opened this pass: nil P001 ~48 as
+boarder, MIL, wife, or head. The Union p.150 Stone house is Abbie? 37 wd.
+Residual: Union after 158b if a later extract exists; T625 originals for
+boarders on unpublished pages.

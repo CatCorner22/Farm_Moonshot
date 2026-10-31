@@ -96,7 +96,10 @@ Captured this session: **31 Oct 2026** (S283–S290, S299–S357). Earlier plate
 | S358 | `sources/census/perry1920/cen-houston-town.html` + cherryhill/dryfork/kenney/lake/maumelle/mountain/omega/rose/rowland/southview/sweethome/tyler/walnutgrove + extract | 2026-10-31 | ARGenWeb Perry 1920 | perry/census/1920census/ | Fourteen previously unread bodies | **Nil** P001; zero Newman; George B. Stone 16 rejected (**C1374–C1383**) | transcription only (negative) |
 | S359 | `sources/census/perry1920/landing-2026-10-31.html` + eight 404 slugs | 2026-10-31 | ARGenWeb Perry 1920 | perry/census/1920census/ | Casa/Forest/New TN/Perry twp+town/Petit Jean/Union bodies | **404**; indexes head-nil (**C1373**) | catalog / 404 |
 | S360 | `sources/census/ed191/1920-yell-ed191-p351-names.jpg` … `p379-names.jpg` + `yell-ed191-remainder-dora-2026-10-31.txt` | 2026-10-31 | IA `14thcensusofpopu086unit` T625-86 | archive.org/details/14thcensusofpopu086unit | ED 191 remainder 351–379 | Header map + **nil** Mrs T.A. Stone (**C1384–C1387**) | image seen (crops) |
-| S361 | `sources/census/vanburen/` + `sources/marriages/vanburen/` + `sources/deaths/vanburen/` + `sources/census/logan/` + `year-hole-vanburen-logan-2026-10-31.txt` | 2026-10-31 | ARGenWeb Van Buren / Logan / Faulkner / Yell | vanburen/ ; logan/ | 1920 index + Shirley Town + N/S marr + deaths; Logan/Faulkner catalogs | **No** Dora×Stone; Union p.150 unread; Logan/Yell census **404** (**C1388–C1391**) | index / catalog |
+| S361 | `sources/census/vanburen/` + `sources/marriages/vanburen/` + `sources/deaths/vanburen/` + `sources/census/logan/` + `year-hole-vanburen-logan-2026-10-31.txt` | 2026-10-31 | ARGenWeb Van Buren / Logan / Faulkner / Yell | vanburen/ ; logan/ | 1920 index + Shirley Town + N/S marr + deaths; Logan/Faulkner catalogs | **No** Dora×Stone; Union p.150 unread at capture; Logan/Yell census **404** (**C1388–C1391**) | index / catalog |
+| S362 | `sources/census/vanburen/1920/` township bodies + `vanburen-1920-bodies-dora-2026-10-31.txt` | 2026-10-31 | ARGenWeb Van Buren 1920 | vanburen/Census/1920/ | Remaining township bodies incl. Union 149a–158b | Abbie? Stone 37 **rejected**; **nil** P001 (**C1393–C1402**) | transcription only |
+| S363 | `sources/census/ed188/p0303-names.jpg` … `p0319-names.jpg` + `yell-ed188-galla-rock-dora-2026-10-31.txt` | 2026-10-31 | IA `14thcensusofpopu086unit` T625-86 | archive.org/details/14thcensusofpopu086unit | ED 188 Galla Rock 303–319 | Header map + **nil** Mrs T.A. Stone (**C1403–C1405**) | image seen (crops) |
+| S364 | `sources/census/vanburen/1910/` union1–11 + index + rr + `vanburen-1910-union-dora-2026-10-31.txt` | 2026-10-31 | ARGenWeb Van Buren 1910 | vanburen/Census/1910/ | Union 25a–36a + Red River | Newman p.35 = William S.; **nil** P001 (**C1406–C1410**) | transcription only |
 
 ## Word biography provenance
 
@@ -120,6 +123,9 @@ See [`sources/authored/PROVENANCE.md`](sources/authored/PROVENANCE.md). Drive se
 | ARGenWeb Perry 1920 remaining *unpublished* / index-nil census bodies | Casa / Forest / New TN / Perry twp+town / Petit Jean / Union unpublished; other index-nil published bodies | Hit townships done (**C1318–C1329** / **B068**); fourteen index-nil bodies done (**C1374–C1383** / **B071**); eight slugs still **404** (**C1373**) |
 | ARGenWeb Perry 1910 remaining *unpublished* census bodies | Eran / Forest / Lake / Maumelle / McCool / New TN / Union / Walnut Grove / Houston Town | **Done** (**C1359–C1368** / **B070**) |
 | Conway Marriage Book **Z** bride | 19 Aug 1925–28 Jul 1927 Dora Newnam × Stone | **Done** (**C1369–C1371**) |
+| Yell 1920 ED **188** Galla Rock originals | IA T625-86 PDF **303–319** | **Done** (**C1403–C1405** / **B072**) |
+| Van Buren 1920 Union p.150 Stone house | Identify whether Dora is in the house | **Done** — Abbie? 37 wd (**C1394**) |
+| Van Buren 1910 remaining township bodies | Bloodworth / Cadron / Davis / Griggs / Hartsugg / Linn Creek / Mountain / Sulphur / Washington / Choctaw / Grove | Union 25a–36a + RR **done** (**C1406–C1410**); rest **B073** |
 
 ## Variant strings used this session (categories 1–4)
 
