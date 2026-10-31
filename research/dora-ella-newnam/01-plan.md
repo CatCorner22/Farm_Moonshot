@@ -148,6 +148,17 @@ Exact strings logged **L418+**.
 
 **n/a.** This worker (`bc-20e39036`) took **no** new B### and ran **no** new repository person-search. Categories 1–4 are therefore not required. Work was standing-order budget correction + master Word rebuild from already-filed Pass 62–65 claims. Exact strings: none beyond the rebuild command `python3 scripts/build_dora_word.py`.
 
+## Name-variant storm (pass 68, `search_variants.py`, 31 Oct 2026)
+
+Regenerated before B051 queries (`bc-c5415202`). **Left L418–L429 / C367–C374 / S317–S322 for location B092.** Categories **1–4**:
+
+1. **Canonical:** Rev. Luther Newnam of Beattyville (minister, Christian Church).
+2. **User / family:** Newman / Newnam / Newmam; Rev. / Reverend; Mrs Luther Newnam; Cora Plummer Newnam.
+3. **Machine / OCR given:** Luther (ocr-given: Luther only). Surname: Newnam, newman, newnarn, newan, newnom, Newmam. Soundex **N550** / Luther **L360**.
+4. **Repository quirks:** USGenNet `Last, First` and year-file tables; Lee KDI is **surname** letter (`kdi/n.html` not `kdi/l.html` for Newnam); SortedByName `/letter_n/newman/index_759.html` and `/letter_n/newnam/index_3.html`; obituaries **N** (Newnam) not **L** (Luther as given).
+
+Exact strings logged **L430–L441**.
+
 ## Agent SDK / GitHub channel
 
 Inspected 30 Oct 2026 (**L351**): this repository has **no** `package.json`, **no** `@grok/agent-sdk`, **no** `bot/` directory. GitHub channel `bot/channels/github.ts` is **n/a** and was **not** authored. Project subagent: `.cursor/agents/dora-genealogy-detective.md`.
