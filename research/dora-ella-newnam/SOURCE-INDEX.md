@@ -332,8 +332,34 @@ Captured this session: **30 Oct 2026**. Earlier plates remain in `sources/census
 | S590 | `sources/press/woodford-gt-obits-pass89.html` | 2026-10-31 | Genealogy Trails Woodford | https://genealogytrails.com/ken/woodford/obits.html | Only Alice Ashmore Newman; **nil** John L 1966 | **C904** | index only |
 | S591 | `sources/census/pass89-extract-2026-10-31.txt` | 2026-10-31 | This session | — | Pass 89 extract | **C886–C905** | extract |
 | S592 | `sources/census/pass89/ed29-ocr.txt` · leaves **0620–0642** | 2026-10-31 | IA T625-559 | https://archive.org/details/14thcensusofpopu559unit | Tesseract **nil**; **0621** = ED **28** sh **7 A** | **C906 C909** | OCR draft / image seen |
-| S593 | `sources/census/pass89/t625-559-leaf0642.jpg` | 2026-10-31 | IA T625-559 | https://archive.org/details/14thcensusofpopu559unit | Ingram Precinct **2** ED **29** sh **2 B** end line | **C907** | image seen |
+| S593 | `sources/census/pass89/t625-559-leaf0642.jpg` | 2026-10-31 | IA T625-559 | https://archive.org/details/14thcensusofpopu559unit | Pass-89 label withdrawn; see **S598** Excelcia **23** sh **7 B** | **C907** withdrawn | image seen |
 | S594 | `sources/catalog/ia-14thcensusofpopu0602unit-pass89.json` | 2026-10-31 | Internet Archive | https://archive.org/metadata/14thcensusofpopu0602unit | Empty identifier; no second T625-602 scan | **C908** | catalog |
+| S595 | `sources/census/bell-1920-ed28-0628-ingram-end-pass90.jpg` | 2026-10-31 | IA T625-559 | https://archive.org/details/14thcensusofpopu559unit | ED **28** sh **10 B** official end Precinct 22 Ingramtown | **C910** | image seen |
+| S596 | `sources/census/bell-1920-ed28-0620-ingram-6b-pass90.jpg` | 2026-10-31 | IA T625-559 | https://archive.org/details/14thcensusofpopu559unit | ED **28** sh **6 B**; **C863** withdrawn | **C911** | image seen |
+| S597 | `sources/census/bell-1920-ed29-0629-excelcia-1a-pass90.jpg` | 2026-10-31 | IA T625-559 | https://archive.org/details/14thcensusofpopu559unit | ED **29** Excelcia Precinct **23** sh **1 A** official start | **C912** | image seen |
+| S598 | `sources/census/bell-1920-ed29-0642-excelcia-end-pass90.jpg` | 2026-10-31 | IA T625-559 | https://archive.org/details/14thcensusofpopu559unit | ED **29** sh **7 B** official end; Cora 41 reject | **C912 C930** | image seen |
+| S599 | `sources/census/bell-1920-ed25-0471-middlesboro-1a-pass90.jpg` | 2026-10-31 | IA T625-559 | https://archive.org/details/14thcensusofpopu559unit | ED **25** Middlesboro Precinct **19** sh **1 A** official start | **C913** | image seen |
+| S600 | `sources/census/bell-1920-ed25-0515-end-pass90.jpg` | 2026-10-31 | IA T625-559 | https://archive.org/details/14thcensusofpopu559unit | ED **25** sh **23 A** official end Precinct 19 | **C913** | image seen |
+| S601 | `sources/census/pass89/t625-559-leaf0518.jpg` | 2026-10-31 | IA T625-559 | https://archive.org/details/14thcensusofpopu559unit | ED **26** South Side Precinct **20** sh **1 B** | **C914** | image seen |
+| S602 | `sources/census/pass90/bell-ocr.txt` | 2026-10-31 | IA T625-559 tesseract | https://archive.org/details/14thcensusofpopu559unit | 282 sheets **0450–0731** nil Newman tokens | **C915** | OCR draft |
+| S603 | `sources/catalog/fs-127913-pass90.html` · `fs-127869-pass90.html` · `fs-1146342-pass90.html` | 2026-10-31 | FamilySearch | https://www.familysearch.org/search/catalog/127913 | R011 step **40**; images unread | **C916** | catalog |
+| S604 | `sources/census/pass90/1920i-clifty-pass90.txt` | 2026-10-31 | KYGenWeb Wolfe | https://kygenweb.net/wolfe/txt/1920i.txt | Clifty ~92 HH compiled **nil** Newman | **C917** | transcription only |
+| S605 | `sources/census/pass90/1920k-antioch-pass90.txt` | 2026-10-31 | KYGenWeb Wolfe | https://kygenweb.net/wolfe/txt/1920k.txt | Antioch compiled **nil** Newman | **C917** | transcription only |
+| S606 | `sources/census/pass90/estill1930/_indx-m-q.txt` | 2026-10-31 | US-Census.org Estill 1930 | https://www.us-census.org/pub/usgenweb/census/ky/estill/1930/_indx-m-q.txt | Fred/Herbert Newman Irvine **33-2**; nil Boyd/Allie/John L | **C918** | transcription only |
+| S607 | `sources/census/pass90/estill1930/_partial.txt` | 2026-10-31 | US-Census.org Estill 1930 | https://www.us-census.org/pub/usgenweb/census/ky/estill/1930/_partial.txt | **33-7 / 33-8** Station Camp unpublished | **C918** | catalog |
+| S608 | `sources/census/estill-1930-ed337-0793-stationcamp-1a-pass90.jpg` | 2026-10-31 | IA T626-742 | https://archive.org/details/kentuckycensus00reel742 | ED **33-7** sh **1 A** official start | **C919** | image seen |
+| S609 | `sources/census/estill-1930-ed337-0819-stationcamp-end-pass90.jpg` | 2026-10-31 | IA T626-742 | https://archive.org/details/kentuckycensus00reel742 | ED **33-7** sh **14 A** short end | **C920** | image seen |
+| S610 | `sources/census/pass90/estill1930/ocr/` | 2026-10-31 | IA T626-742 tesseract | https://archive.org/details/kentuckycensus00reel742 | **0788–0858** nil Boyd/Allie/Newman tokens | **C921** | OCR draft |
+| S611 | `sources/census/pass90/estill1930/reel742-leaf0750.jpg` · **0822 / 0848 / 0900** | 2026-10-31 | IA T626-742 | https://archive.org/details/kentuckycensus00reel742 | **33-14 / 33-10 / 33-11 / 33-12**; **33-8** not in band | **C922 C931** | image seen |
+| S612 | `sources/military/gt-lee-wwi-draft-cards-pass90.html` | 2026-10-31 | Genealogy Trails Lee | https://genealogytrails.com/ken/lee/wwi_draft_cards.html | **N** table unpublished; published letters nil Newman | **C923** | transcription only |
+| S613 | `sources/catalog/usgennet-lee-wills-dir-pass90.html` | 2026-10-31 | USGenNet Lee | http://www.usgennet.org/usa/ky/county/lee/wills/ | Elizabeth + Mary F. only; no Samuel P. | **C924** | transcription only |
+| S614 | `sources/catalog/kycourts-lee-pass90.html` | 2026-10-31 | KY Courts | https://kycourts.gov/Courts/County-Information/Pages/Lee.aspx | Clerk Tyler Phillips **606-464-8400** | **C925** | catalog |
+| S615 | `sources/catalog/ia-solr-samuel-estate-pass90.json` | 2026-10-31 | Internet Archive Solr | https://archive.org/advancedsearch.php | 4 junk hits; no Samuel will | **C928** | catalog |
+| S616 | `sources/catalog/ia-14thcensusofpopu590unit-pass90.json` | 2026-10-31 | Internet Archive | https://archive.org/details/14thcensusofpopu590unit | Madison 1920 T625-590 live; **1170** images | **C926** | catalog |
+| S617 | `sources/census/pass90-extract-2026-10-31.txt` (B016 note) | 2026-10-31 | WebSearch / FAG snippet | — | Rissie Dishman Beaty Overton TN rejected | **C927** | index only |
+| S618 | `sources/press/ca-dora-stone-ola-1926-pass90.json` · `ca-posa-stone-1926-pass90.json` | 2026-10-31 | Chronicling America | https://chroniclingamerica.loc.gov/ | 403/404; no 1926 page image | **C** — | catalog |
+| S619 | `sources/census/pass90-extract-2026-10-31.txt` | 2026-10-31 | This session | — | Pass 90 extract | **C910–C932** | extract |
+| S620 | `sources/catalog/ia-solr-t625-602-pass90.json` · `nara-t625-602-pass90.json` | 2026-10-31 | IA / NARA | https://archive.org/advancedsearch.php | No second T625-602 remainder; NARA SPA | **C908 C916** | catalog |
 
 ## Word biography provenance
 
@@ -351,6 +377,7 @@ See [`sources/authored/PROVENANCE.md`](sources/authored/PROVENANCE.md). Drive se
 | NARA M1509 rolls **KY45** (Lee), **KY24** (Estill), **KY74** (Owsley), **AR69** (Yell) | FS sign-in or NARA | Cards unread (**B047**) |
 | KDLA / KHS Lee probate 1873–2004 | Film browse Samuel P. Newnam admin. | **B045** |
 | FS Lee Court Orders 1870–1919 / Order Books 1894–1922 | Sign-in browse for Samuel P. administration | **B061** |
+| Lee Circuit Court Clerk **Tyler Phillips**, **606-464-8400**, 2nd floor | Decedent **Newnam / Newman / Samuel P.** if FS images stay walled | **C925** |
 | FS Lee tax books **156057** (1870–75) / **97277** (1879–92) | Browse taxpayer **Newnam / Newman / Samuel P. / Elias / Grant** | **B065** |
 | FS **1146342** Lee WWI draft cards | John H. b. 1899; McCoy b. 1890; Luther b. 1891 | **B069** |
 | KHS Lee probate microform 1873–1945 / KDLA other probate 1873–2004 + order books 1870–1981 | On-site / interlibrary film for Samuel P. | **C374 C375** |
@@ -374,3 +401,5 @@ Exact strings in `02-log.md` **L343–L352**, **L380–L397**, **L398–L411**, 
 **Pass 71–72 (John L / McCoy / 1920 Owsley):** John, Jno, John L × Newman/Newnam/Newnarn/Newan/Noonan. McCoy, Mc Coy, Coy × Newman/Newnam. Soundex **N550** / **M200**. T625-594 EDs **88–94**. Inverted **MCCOY, NEWMAN** / SSN **447-20-2466**. Exact strings **L515–L530**.
 
 **Pass 76–77 (Boyd / Allie / Estill close / Powell):** John, Boyd, Andy/Andrew/Andridge, Allie × Newman/Newnam/Noonan/Nunan/Brandenburg. McCoy/Coy. Soundex **N550** / **M200**. T625-566 / 577 / 559 / 596 / 602. Exact strings **L561–L572**.
+
+**Pass 90 (Bell 25/28/29 / Estill 33-7 / Rissie / clerk):** John/Jno/Johnnie × Newman/Newnam/newnarn/newan/newnom/Noonan/Nunan. Boyd/Boyde/Floyd × Newman. Rissie/Rissa × Newnam/Stamper/Pelfrey. Dora OCR posa/dosa/rosa/dona. Certs **17762** RD **036**; **28501**; **31780**. Soundex **N550** / **M200**. Exact strings **L748–L770**.

@@ -918,3 +918,34 @@ Same district, sheet 1A, leaf 698 — start of Bell district 34.
 
 ![Wolfe 1920 ED 235 Hazel Green](sources/census/wolfe-1920-ed235-0380-hazelgreen.jpg)
 
+
+
+**Source:** S595 · C910
+
+1920 U.S. census, Bell County, Kentucky, Precinct 22 Ingramtown, ED 28, sheet 10B, leaf 628 — official end.
+
+![Bell 1920 ED 28 Ingramtown official end](sources/census/bell-1920-ed28-0628-ingram-end-pass90.jpg)
+
+**Source:** S598 · C912
+
+1920 U.S. census, Bell County, Kentucky, Excelcia Precinct 23, ED 29, sheet 7B, leaf 642 — official end.
+
+![Bell 1920 ED 29 Excelcia official end](sources/census/bell-1920-ed29-0642-excelcia-end-pass90.jpg)
+
+**Source:** S600 · C913
+
+1920 U.S. census, Bell County, Kentucky, Middlesboro Precinct 19, ED 25, sheet 23A, leaf 515 — official end.
+
+![Bell 1920 ED 25 Middlesboro official end](sources/census/bell-1920-ed25-0515-end-pass90.jpg)
+
+**Source:** S608 · C919
+
+1930 U.S. census, Estill County, Kentucky, Station Camp North, ED 33-7, sheet 1A, leaf 793.
+
+![Estill 1930 33-7 Station Camp North start](sources/census/estill-1930-ed337-0793-stationcamp-1a-pass90.jpg)
+
+**Source:** S609 · C920
+
+Same district, sheet 14A, leaf 819 — official-looking end.
+
+![Estill 1930 33-7 Station Camp North end](sources/census/estill-1930-ed337-0819-stationcamp-end-pass90.jpg)

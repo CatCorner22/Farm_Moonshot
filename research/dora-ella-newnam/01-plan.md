@@ -457,6 +457,26 @@ Exact strings logged **L712–L728**.
 
 Exact strings logged from **L729**.
 
+### Pass 90 variant storm (31 Oct 2026)
+
+**John / Cora / McCoy Newman** — John/Jno/Johnnie × Newman/Newnam/newnarn/newan/newnom/Noonan/Nunan. Cora × Newman/Newnam/Brandenburg. McCoy/Coy / Mc Coy. Soundex **N550** / **M200**.
+
+**Boyd / Allie / Floyd** — Boyd/Boyde/Floyd × Newman/Newnam. Allie/Ollie × Brandenburg/Brandburg.
+
+**Rissie** — Rissie/Rissa × Newnam/Newman/Stamper/Pelfrey.
+
+**OCR given** — Dora → posa / dosa / rosa / dona / dara / dore / dori / dola / pora / rora.
+
+**Place** — Ingramtown Precinct 22 / Excelcia Precinct 23 / Middlesboro Precinct 19 / South Side Precinct 20 / Dorothy Precinct 26 / Clear Creek Precinct 24 / Station Camp North 33-7 / Station Camp South 33-8 / Antioch 242 / Clifty 241.
+
+**ED / precinct misreads** — 28/20/27; 29/2/23; 25/19; 33-7/33-8/33-6/33-14.
+
+**Certs** — 17762 RD **036**; 28501; 31780; 1524 RD **676**. Cross-id Clarence delayed **49261**; Arthur **49665**.
+
+**Samuel P. Newnam** — films **127913 / 127869 / 1146342 / 546788** (SPA, R011 step **40**).
+
+Exact strings logged **L748–L770**.
+
 ## Agent SDK / GitHub channel
 
 Inspected 30 Oct 2026 (**L351**): this repository has **no** `package.json`, **no** `@grok/agent-sdk`, **no** `bot/` directory. GitHub channel `bot/channels/github.ts` is **n/a** and was **not** authored. Project subagent: `.cursor/agents/dora-genealogy-detective.md`.

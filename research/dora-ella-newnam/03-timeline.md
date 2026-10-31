@@ -216,7 +216,7 @@ Place as it was *at the date*; modern equivalent in brackets. Flag impossibiliti
 | Jan 1920 | — | FAN compiled **PROBABLE** negative: Wolfe Clifty ED **241** and Antioch ED **242** **nil** Newman. John L. HENRY / Dora Childers rejected | Wolfe Co., KY | C851 C852 | S548 S549 |
 | 8 Jan 1920 | — | FAN **PROVEN** as header: Bell ED **28** starts leaf **0609** sh **1 A**, Precinct **22 Ingram**, W. E. Turner. **0610** = sh **2 A**. Names **PROBABLE** nil Newman | Bell Co., KY | C858 C859 C860 | S553 S570 |
 | 2 Feb 1920 | — | FAN **PROVEN** as header: Bell ED **30** starts leaf **0643** sh **1 A**, Williams Branch Precinct **24**, P. W. Woolum. Cora Hurst 26 / Dora T. Denny 4 **rejected** | Bell Co., KY | C861 C862 | S554 |
-| 14 Jan 1920 | — | FAN **PROVEN** as header: leaf **0620** = Bell ED **29** Precinct **2 Ingram**, Wm G. Innes (after ED 28) | Bell Co., KY | C863 | S540 |
+| 14 Jan 1920 | — | FAN **WITHDRAWN**: leaf **0620** is **not** ED **29** Precinct **2 Ingram**. Re-read: Precinct **22 Ingramtown**, ED **28**, sh **6 B**, W. E. Turner (**C911**) | Bell Co., KY | C863 withdrawn C911 | S540 S596 |
 | Jan 1920 | — | FAN **PROVEN** as film map: T625-602 IA scan **515** images. Wolfe **234** Lee City starts **0373** sh **1 A**. Whitley **277** **0419–0442**. Torrent **238** from **0443**; Holly **239** from **0476**; Stillwater **240** **0500/0512**; Clifty **241** from **0514**. Antioch **242** originals **not** on this scan | Wayne / Wolfe / Whitley, KY | C864–C875 C878 | S555–S561 |
 | 8 Jan 1920 | — | FAN **PROVEN** as header: Wolfe Torrent leaf **0450**, Joel Cox, ED **238**. Compiled 222 HH **nil** Newman | Wolfe Co., KY | C869 C876 | S557 S562 |
 | 27 Jan 1920 | — | FAN **PROVEN** as header: Wolfe Holly ED **239** starts leaf **0476** sh **1 A**, Ola H. Miller | Wolfe Co., KY | C870 | S558 |
@@ -227,8 +227,18 @@ Place as it was *at the date*; modern equivalent in brackets. Flag impossibiliti
 | 19 Jan 1920 | — | FAN **PROVEN** as close: leaf **0486** “Here ends … Magisterial District No 5 Holly.” **0487** unused | Wolfe Co., KY | C888 C889 | S576 S577 |
 | 2 Jan 1920 | — | FAN **PROVEN**: Wolfe Stillwater ED **240** official start leaf **0488**. **0513** unused | Wolfe Co., KY | C890 C891 | S578 S579 |
 | 13–14 Jan 1920 | — | FAN **PROVEN** as gap: Clifty sh **1** last populated Wolfe image; remaining Clifty + Antioch **242** originals **not** on IA 515-image scan | Wolfe Co., KY | C892 C896 | S580 S561 |
-| 12 Jan 1920 | — | FAN **PROBABLE** negative: Bell ED **28** complete **0609–0619**. **0619** sh **6 A**, W. E. Turner. **Nil** Newman | Bell Co., KY | C897 | S582 |
+| 12 Jan 1920 | — | FAN **PROBABLE** negative on those sheets: Bell ED **28** Turner **0609–0619**. **0619** sh **6 A**. Full-ED close at 0619 **withdrawn** — closed later at **0628** (**C910**) | Bell Co., KY | C897 C909 | S582 |
 | 23 Feb 1920 | — | FAN **PROVEN** as close: Bell ED **30** **0659** sh **7 A** “Here ends … Williams Branch Precinct 24.” Entire ED **PROBABLE** nil Newman | Bell Co., KY | C898 | S583 |
 | 2 Feb 1920 | — | FAN **PROVEN**: leaf **0661** = Bell Precinct **26 Dorothy**, ED **31** sh **1 A**, John H. Lee. **0660** unused | Bell Co., KY | C899 | S584 S585 |
+| 23 Jan 1920 | — | FAN **PROVEN** as close: Bell ED **28** Precinct **22 Ingramtown** **COMPLETE** **0609–0628**. **0628** sh **10 B**, W. E. Turner: “Here ends … Precinct 22 Ingramtown.” Entire ED **PROBABLE** nil Newman | Bell Co., KY | C910 C911 | S595 S596 |
+| 2 Jan 1920 | — | FAN **PROVEN** as header: Bell ED **29** Excelcia Precinct **23** starts leaf **0629** sh **1 A**, Robert W. Barnett | Bell Co., KY | C912 | S597 |
+| 22 Jan 1920 | — | FAN **PROVEN** as close: **0642** sh **7 B** “Here ends … Excelcia Precinct 23.” ED **29 COMPLETE**. Cora 41 **rejected** vs Cora Brandenburg | Bell Co., KY | C912 C930 | S598 |
+| 7 Jan 1920 | — | FAN **PROVEN** as header: Bell ED **25** Middlesboro Precinct **19** starts leaf **0471** sh **1 A**, Robert C. Maddox | Bell Co., KY | C913 | S599 |
+| 2 Feb 1920 | — | FAN **PROVEN** as close: **0515** sh **23 A** “Here ends … Precinct 19 of Middlesboro City.” ED **25 COMPLETE** | Bell Co., KY | C913 | S600 |
+| 3 Feb 1920 | — | FAN **PROVEN** as header: leaf **0518** = South Side Precinct **20**, ED **26**, sh **1 B**, Ralph Goins. Start is **0517** | Bell Co., KY | C914 | S601 |
+| Apr 1930 | — | FAN **PROVEN** as published-index negative: Estill 1930 **33-1–33-4** Fred/Herbert only; **nil** Boyd/Allie/John L. Station Camp **33-7/33-8** unpublished | Estill Co., KY | C918 | S606 S607 |
+| 2 Apr 1930 | — | FAN **PROVEN** as header: Estill ED **33-7** Station Camp North starts leaf **0793** sh **1 A**, Matilda N. Cole | Station Camp, Estill Co., KY | C919 | S608 |
+| 26 Apr 1930 | — | FAN **PROVEN** as close: **0819** sh **14 A** official-looking **33-7 END**. Boyd+Allie **absent** from Station Camp North | Station Camp, Estill Co., KY | C920 C921 | S609 S610 |
+| Apr 1930 | — | FAN **PROVEN** as gap: Estill **33-8** Station Camp South **not isolated** on reel 742 **0750–0900** (**33-14 / 33-6 / 33-10–12** occupy that band) | Estill Co., KY | C922 C931 | S611 |
 
 **Impossibility flags:** None. Mother ~29 at Dora’s 1871 birth (Mary b. 1842). Dora age 14 at marriage is legal/period-possible (KY) though young; 1880 age 8 corroborates. Two children born before Coy in the 1886–1889 window would have Dora aged 15–18 — possible. No event after 23 Aug 1926 is attributed to her.
