@@ -1730,5 +1730,59 @@ Immediate L-leaf before Levi P. No Letha / Letta / Lethia / Lettie card between 
 
 First Levi leaf after Lester. Empty Letha slot. Lewis tab follows at n2679. → **C490**.
 
+## DOC128 — 1900 IL Soundex S-415, Leslie Sullivan, 18, Peoria
+- Image: `sources/soundex/il1900-s415-p3174-leslie.jpg` SHA-256 `c4aad1a5b7a39cdc1dac9ac8cc41cc9ff9d5dc5f78895b0374dc73eae59280d0`
+- Reel: IA `soundex1900il401` n**3174** (rotate **-90**)
+
+### Diplomatic
+> **S-415 Sullivan, Leslie** — Individual · vol **32** ED **96** sh **1** ln **24** · W May **1882** **18** Iowa · Peoria / Penn[ia?] Twp
+
+Immediate L-leaf before Leslie W / Lewis. No Letha / Letta / Lethia / Lettie card between them. → **C495**.
+
+## DOC129 — 1900 IL Soundex S-415, Lewis (after Leslie)
+- Image: `sources/soundex/il1900-s415-p3176-lewis-after-leslie.jpg` SHA-256 `f01ffd9ea4ccc80d67460bfecfeb8e2f850e773d14d3892f3b01d75b823555c4`
+- Reel: IA `soundex1900il401` n**3176** (rotate **-90**)
+
+### Diplomatic
+> **S-415 Sullivan, Lewis** — Individual · vol **5** ED **9** sh **2** ln **43** · W Aug **1880** **19** Illinois · Brown / Pea Ridge Twp
+
+First Lewis leaf after Leslie W n3175. Empty Letha slot. → **C495**.
+
+## DOC130 — 1900 TN Soundex S-415, Leon Sullivan, 6, Shelby County
+- Image: `sources/soundex/tn1900-s415-p195-leon.jpg` SHA-256 `026a88ddc556723e27874a9e2ac67669643a6e6c42d1b3b957895800d602ede0`
+- Reel: IA `soundex1900tn154` n**195**
+
+### Diplomatic
+> **S-415 Sullivan, Leon** — Individual · vol **63** ED **71** sh **20** ln **60** · W Jan **1894** **6** Tennessee · Shelby / 14th Dist
+
+Immediate L-leaf before Levi J. Age 6, not Letha. → **C496**.
+
+## DOC131 — 1900 TN Soundex S-415, Levi J. Sullivan, 58, Davidson County
+- Image: `sources/soundex/tn1900-s415-p196-levi-j.jpg` SHA-256 `65cec904145e9dec4dc09350c4fb21f31d94fa625916d7dbd0ea90eb3b4e5f86`
+- Reel: IA `soundex1900tn154` n**196**
+
+### Diplomatic
+> **S-415 Sullivan, Levi J.** — Head of family · vol **14** ED **124** sh **23** ln **71** · W Jan **1842** **58** Tennessee · Davidson / 9th Civil Dist
+
+First Levi leaf after Leon. Empty Letha slot. → **C496**.
+
+## DOC132 — 1900 TN Soundex S-415, Sulevine, Lothier, 26, Carroll County
+- Image: `sources/soundex/tn1900-s415-p204-lothier-sulevine.jpg` SHA-256 `75644032e3661e8e35baf453fcc89972dc9bd01f170d14c8d71bb1733e6a4421`
+- Reel: IA `soundex1900tn154` n**204**
+
+### Diplomatic
+> **S-415 Sulevine, Lothier** — Head of family · vol **6** ED **137** sh **2** ln **17** · W July **1873** **26** Tennessee · Carroll / 2nd Civil Dist
+
+Given name Lothier; age 26. Not Letha. → **C498**.
+
+## DOC133 — 1900 TN Soundex S-415, Lottie Sullivan, 22, Henry County
+- Image: `sources/soundex/tn1900-s415-p205-lottie-22-henry.jpg` SHA-256 `0e49699fccab05e96bcf38934917efada877a09f212a016bdba5b00c3daa4820`
+- Reel: IA `soundex1900tn154` n**205**
+
+### Diplomatic
+> **S-415 Sullivan, Lottie** — Individual · vol **33** ED **37** sh **5** ln **35** · W Sept **1877** **22** Tennessee · Henry / First District
+
+Age 22 vs ~2. Rejected as the 1910 Liberty Nurse. → **C497**.
+
 ## DOC009 — 1910 TN Soundex N-550 McCoy window (nil)
 Handwritten family/individual cards n2461–n2469. Sequence after Mary C (n2460): Mary D 49 Jefferson (son Layton 11); Mary M 70 Hamilton; Mek. G 50 Cheatham (Florence 19, John 17, General 16, Frances 13, William 10, Doria 6, Luther 1½); Melvin 3½ Giles (gs of Deacon George W); Melvin 54 Giles (SIL of same); Minerva 80 Robertson (gds Lona Neely, Nellie Erwin); Minnie 21 Roane (with Sam P. Sparks); Mitchell 27 Hardin (Ollie P 25, Gladys 4, Burl W 3, Royal E 1 9/12). **No McCoy.** SHA-256 n2463 `23610f8aa4c159b1b554ed1786d11f57d2f56f8a2e8994f7289ae7bd02dfca53`; n2469 `340489566090880388fa6b81ca5751c5944dcaf56a7b44f70fe560788f308586`.

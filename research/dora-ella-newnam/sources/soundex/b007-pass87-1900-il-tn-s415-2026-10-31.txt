@@ -1,0 +1,76 @@
+Pass 87 — 1900 IL / TN S-415 Letha given-name windows
+Date: 31 Oct 2026 (America/New_York)
+Backlog: B007 residual Letha unplaced
+
+=== Variants (categories 1–4 before nil) ===
+Canonical: Letha Sullivan (S-415).
+User/family: Letha Viola Sullivan (m. Coy 1917); 1910 Nurse Letha 12 (C244).
+Machine / prior dossier: Letta, Lethia, Lettie, Litha, Viola, Lottie (Lettie near-hit).
+OCR/HTR given: Letha / Letta / Lethia / Lettie / Litha / Lottie / Lothie / Leffie / Lena / Leon.
+Repository quirk: 1900 Soundex cards a ~0–2 child as a head only if living alone;
+  otherwise the child sits on a parent card (same limit as C255/C374/C489/C490).
+  IL T1043 BookReader JPEGs are rotated 90° CW — rotate(-90) before crop.
+Soundex: Sullivan S-415. Exact given-name strings walked on every card:
+  Letha, Letta, Lethia, Lettie, Litha, Viola, Lottie.
+
+=== Access ===
+Image seen via IA BookReader page JPEGs (not the full 100–350 MB PDFs).
+  IL S-415 = soundex1900il401 (T1043 S-400 Wm.F.–S-415 Thomas; imagecount 4115).
+    Locator n2900–4100 step 40 (rotate -90). L-window pinned:
+    Katie n3140 → Lewis N n3180 → Margaret n3220.
+    Every card n3135–3220, rotate -90.
+  IL il402 (S-415 Thomas–S-423 Gerhard) starts at Thomas; L-names are on il401.
+  TN S-415 = soundex1900tn154 (T1072 S-415 James–S-436; imagecount 3816).
+    Locator + dense n1–400 step 20. L-slot after John (~n160) / Katie
+    and before Slaven Marion n220 / M-divider n212.
+    Every card n160–230.
+  TN tn153 (S-363 Luke–S-415 Jake) ends at Jake; L-names are on tn154.
+Local /tmp/p87/ working crops not committed except the evidence JPEGs
+listed in S362–S363.
+
+=== IL S-415 L-window (il401 n3135–3220 every card, rotate -90) ===
+K-tail n3135–3154: Katie / Katy / Kittie / Kitty (Cook / Ireland / IL).
+n3155: L-tab divider (letter L only).
+L-heads: L.H. n3156; L.J. n3157; L.B. n3158; Laura n3159;
+Lawrence band n3160–3166 (incl. Lawrence J);
+Slomater, Leffie n3167 (individual Aug 1882 17 MO, Lawrence / Lukin Twp) — not Sullivan;
+Leona/Lessa n3168 (head Apr 1873 27 IL, Cook/Chicago);
+Lena / Leno n3169–3171; Leon H n3172; Leonard n3173 (May 1867 33 Germany, Chicago);
+Leslie n3174 (individual May 1882 18 IA, Peoria / Penn Twp, vol 32 ED 96 sh 1 ln 24);
+Leslie W n3175 (individual May 1872 27 IA, Peoria Twp, vol 131 ED 90 sh 10 ln 28);
+Lewis n3176 (individual Aug 1880 19 IL, Brown / Pea Ridge Twp, vol 5 ED 9 sh 2 ln 43);
+Slavene, Lewis n3177 (head Feb 1867 33 IL, Pike / Montezuma);
+Lewis H n3178–3179; Lewis N n3180 (head Dec 1859 40 IL, Johnson/Goreville).
+Then Lillie n3181; Lizzie n3182–3192; Lloyd n3193 (head Nov 1845 54 IL, Mercer);
+Lorenz E n3194 (individual Feb 1879 21 WI, Cook);
+Lott n3195 (individual Jan 1835 65 Ireland, Cook) — not Lottie / not ~2;
+Louie / Louise n3196–3202; M-tab then M. initials / Mabel / Madeline / Margaret n3220.
+No Letha / Letta / Lethia / Lettie / Litha / Viola card between
+Leslie W n3175 and Lewis n3176 (C495). Empty Litha slot between Lillie and Lizzie.
+
+=== TN S-415 L-window (tn154 n160–230 every card) ===
+John / Jonas / Joseph / Josephine / Julia n160–179.
+Katie / King O / Kittie / Kitty n180–185.
+L.B. n186; L.C. n187; Lake V n188 (head Aug 1848 51 VA, McMinn);
+Lawrence n189; Lee band n190–194 (Lee individual May 1877 23 TN, Davidson);
+Leon n195 (individual Jan 1894 6 TN, Shelby 14th Dist, vol 63 ED 71 sh 20 ln 60);
+Levi J n196 (head Jan 1842 58 TN, Davidson 9th Civil Dist, vol 14 ED 124 sh 23 ln 71)
+  + continuation n197 (Norfleet? Apr 1877 22 TN);
+Lewis n198 (Colored head age 33 TN, Macon 4th Civil Dist);
+Sulevine, Lillie M n199 (individual Oct 1881 18 TN, Marshall Dist 1);
+Lizzie n200–203;
+Sulevine, Lothier n204 (head July 1873 26 TN, Carroll 2nd Civil Dist, vol 6 ED 137 sh 2 ln 17)
+  — male 26, not Letha (C498);
+Sullivan, Lottie n205 (individual Sept 1877 22 TN, Henry 1st Dist, vol 33 ED 37 sh 5 ln 35)
+  — age 22 vs ~2; rejected as C244 (C497);
+Lovie / Lucia / Lucee / Lucile / Luthie / Luther n206–211;
+M-divider n212; Madie / Maggie / Margaret / Marion / Mark / Mary n213–230.
+No Letha / Letta / Lethia / Lettie / Litha / Viola card between
+Leon n195 and Levi J n196 (C496).
+
+=== Residual ===
+IN/MO/KY/AR/IL/TN S-415 L-windows are now closed for those L-strings as heads.
+Letha ~0–2 would sit on a parent card, not her own (same limit as C255/C374/C489/C490).
+Next S-415: parent-card walks (John / James / William / Thomas family-sections)
+on KY/AR/IL/TN for a MO-born wife + daughter Letha ~0–2.
+B049 1926 paper still unread (Newspapers.com / Pope Library Roll 5 / ASA film).

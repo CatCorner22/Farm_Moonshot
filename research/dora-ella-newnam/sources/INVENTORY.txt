@@ -711,3 +711,23 @@ research/dora-ella-newnam/sources/soundex/b007-pass86-1900-ky-ar-s415-2026-10-31
   format: Pass 86 KY/AR S-415 Letha search log
 research/dora-ella-newnam/sources/newspapers/b049-pass86-1926-obit-storm-2026-10-31.txt
   format: Pass 86 B049 1926 obituary free-source storm log
+research/dora-ella-newnam/sources/soundex/il1900-s415-p3174-leslie.jpg
+  sha256: c4aad1a5b7a39cdc1dac9ac8cc41cc9ff9d5dc5f78895b0374dc73eae59280d0
+  format: JPEG Soundex card, IA soundex1900il401 n3174 rotate -90
+research/dora-ella-newnam/sources/soundex/il1900-s415-p3176-lewis-after-leslie.jpg
+  sha256: f01ffd9ea4ccc80d67460bfecfeb8e2f850e773d14d3892f3b01d75b823555c4
+  format: JPEG Soundex card, IA soundex1900il401 n3176 rotate -90
+research/dora-ella-newnam/sources/soundex/tn1900-s415-p195-leon.jpg
+  sha256: 026a88ddc556723e27874a9e2ac67669643a6e6c42d1b3b957895800d602ede0
+  format: JPEG Soundex card, IA soundex1900tn154 n195
+research/dora-ella-newnam/sources/soundex/tn1900-s415-p196-levi-j.jpg
+  sha256: 65cec904145e9dec4dc09350c4fb21f31d94fa625916d7dbd0ea90eb3b4e5f86
+  format: JPEG Soundex card, IA soundex1900tn154 n196
+research/dora-ella-newnam/sources/soundex/tn1900-s415-p204-lothier-sulevine.jpg
+  sha256: 75644032e3661e8e35baf453fcc89972dc9bd01f170d14c8d71bb1733e6a4421
+  format: JPEG Soundex card, IA soundex1900tn154 n204
+research/dora-ella-newnam/sources/soundex/tn1900-s415-p205-lottie-22-henry.jpg
+  sha256: 0e49699fccab05e96bcf38934917efada877a09f212a016bdba5b00c3daa4820
+  format: JPEG Soundex card, IA soundex1900tn154 n205
+research/dora-ella-newnam/sources/soundex/b007-pass87-1900-il-tn-s415-2026-10-31.txt
+  format: Pass 87 IL/TN S-415 Letha search log

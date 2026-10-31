@@ -170,6 +170,12 @@ Diplomatic transcriptions: [`08-transcriptions.md`](08-transcriptions.md). Citat
 | 195 | 1900 (index) | Negative search | [Kentucky S-415 — Lewis, after Leslie; Letha slot empty](sources/soundex/ky1900-s415-p2957-lewis-after-leslie.jpg) |
 | 196 | 1900 (index) | Negative search | [Arkansas S-415 — Sullivan, Lester L., 29, Scott; last leaf before Letha](sources/soundex/ar1900-s415-p2676-lester.jpg) |
 | 197 | 1900 (index) | Negative search | [Arkansas S-415 — Levi P., after Lester; Letha slot empty](sources/soundex/ar1900-s415-p2677-levi-after-lester.jpg) |
+| 198 | 1900 (index) | Negative search | [Illinois S-415 — Sullivan, Leslie, 18, Peoria; last leaf before Letha](sources/soundex/il1900-s415-p3174-leslie.jpg) |
+| 199 | 1900 (index) | Negative search | [Illinois S-415 — Lewis, after Leslie; Letha slot empty](sources/soundex/il1900-s415-p3176-lewis-after-leslie.jpg) |
+| 200 | 1900 (index) | Negative search | [Tennessee S-415 — Sullivan, Leon, 6, Shelby; last leaf before Letha](sources/soundex/tn1900-s415-p195-leon.jpg) |
+| 201 | 1900 (index) | Negative search | [Tennessee S-415 — Levi J., after Leon; Letha slot empty](sources/soundex/tn1900-s415-p196-levi-j.jpg) |
+| 202 | 1900 (index) | Rejected same-name | [Tennessee S-415 — Sullivan, Lottie, 22, Henry County; not Letha](sources/soundex/tn1900-s415-p205-lottie-22-henry.jpg) |
+| 203 | 1900 (index) | Rejected same-name | [Tennessee S-415 — Sulevine, Lothier, 26, Carroll County; not Letha](sources/soundex/tn1900-s415-p204-lothier-sulevine.jpg) |
 | 123 | 1900 (index) | Context | [Texas C-563 — J-tab divider](sources/soundex/tx1900-c563-p1-j-divider.jpg) |
 | 17 | Apr 1910 | Negative search | [Kentucky N-550 — Millie / Missouri; no McCoy](sources/soundex/ky1910-n550-p329-millie-missouri.jpg) |
 | 18 | Apr 1910 | Negative search | [Kentucky N-550 — Monroe; still no McCoy](sources/soundex/ky1910-n550-p330-monroe-no-mccoy.jpg) |
@@ -1738,6 +1744,66 @@ White head, February 1871, age 29, born Tennessee, Scott County, Hickman Townshi
 White head, October 1864, age 35, born Arkansas, Crawford County, Dyer Township. First Levi leaf after Lester. No Letha, Letta, Lethia, or Lettie card sits between them. The Lewis tab follows at n2679.
 
 ![Arkansas S-415 — Levi P., after Lester; Letha slot empty](sources/soundex/ar1900-s415-p2677-levi-after-lester.jpg)
+
+### 198 · 1900 (index) · Illinois S-415 — Sullivan, Leslie, 18, Peoria; last leaf before Letha
+
+**Role:** Negative search  
+**File:** [`sources/soundex/il1900-s415-p3174-leslie.jpg`](sources/soundex/il1900-s415-p3174-leslie.jpg)  
+**Source:** S362 · C495
+
+White individual, May 1882, age 18, born Iowa, Peoria County. Immediate L-leaf before Leslie W and Lewis. Combined with Plate 199, Illinois 1900 S-415 has no Letha, Letta, Lethia, or Lettie head. BookReader JPEG rotated 90 degrees clockwise; card read after rotate(-90).
+
+![Illinois S-415 — Sullivan, Leslie, 18, Peoria; last leaf before Letha](sources/soundex/il1900-s415-p3174-leslie.jpg)
+
+### 199 · 1900 (index) · Illinois S-415 — Lewis, after Leslie; Letha slot empty
+
+**Role:** Negative search  
+**File:** [`sources/soundex/il1900-s415-p3176-lewis-after-leslie.jpg`](sources/soundex/il1900-s415-p3176-lewis-after-leslie.jpg)  
+**Source:** S362 · C495
+
+White individual, August 1880, age 19, born Illinois, Brown County, Pea Ridge Township. First Lewis leaf after Leslie W n3175. No Letha, Letta, Lethia, or Lettie card sits between them. A child of about two would appear only on a parent card.
+
+![Illinois S-415 — Lewis, after Leslie; Letha slot empty](sources/soundex/il1900-s415-p3176-lewis-after-leslie.jpg)
+
+### 200 · 1900 (index) · Tennessee S-415 — Sullivan, Leon, 6, Shelby; last leaf before Letha
+
+**Role:** Negative search  
+**File:** [`sources/soundex/tn1900-s415-p195-leon.jpg`](sources/soundex/tn1900-s415-p195-leon.jpg)  
+**Source:** S363 · C496
+
+White individual, January 1894, age 6, born Tennessee, Shelby County, 14th District. Immediate L-leaf before Levi J. Combined with Plate 201, Tennessee 1900 S-415 has no Letha, Letta, Lethia, or Lettie head.
+
+![Tennessee S-415 — Sullivan, Leon, 6, Shelby; last leaf before Letha](sources/soundex/tn1900-s415-p195-leon.jpg)
+
+### 201 · 1900 (index) · Tennessee S-415 — Levi J., after Leon; Letha slot empty
+
+**Role:** Negative search  
+**File:** [`sources/soundex/tn1900-s415-p196-levi-j.jpg`](sources/soundex/tn1900-s415-p196-levi-j.jpg)  
+**Source:** S363 · C496
+
+White head, January 1842, age 58, born Tennessee, Davidson County, 9th Civil District. First Levi leaf after Leon. No Letha, Letta, Lethia, or Lettie card sits between them. A child of about two would appear only on a parent card.
+
+![Tennessee S-415 — Levi J., after Leon; Letha slot empty](sources/soundex/tn1900-s415-p196-levi-j.jpg)
+
+### 202 · 1900 (index) · Tennessee S-415 — Sullivan, Lottie, 22, Henry County; not Letha
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/tn1900-s415-p205-lottie-22-henry.jpg`](sources/soundex/tn1900-s415-p205-lottie-22-henry.jpg)  
+**Source:** S363 · C497
+
+White individual, September 1877, age 22, born Tennessee, Henry County, First District. Age 22 versus about 2. Rejected as the 1910 Liberty Township nurse.
+
+![Tennessee S-415 — Sullivan, Lottie, 22, Henry County; not Letha](sources/soundex/tn1900-s415-p205-lottie-22-henry.jpg)
+
+### 203 · 1900 (index) · Tennessee S-415 — Sulevine, Lothier, 26, Carroll County; not Letha
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/tn1900-s415-p204-lothier-sulevine.jpg`](sources/soundex/tn1900-s415-p204-lothier-sulevine.jpg)  
+**Source:** S363 · C498
+
+White head, July 1873, age 26, born Tennessee, Carroll County, 2nd Civil District. Given name Lothier; surname diplomatic Sulevine. Not Letha Sullivan.
+
+![Tennessee S-415 — Sulevine, Lothier, 26, Carroll County; not Letha](sources/soundex/tn1900-s415-p204-lothier-sulevine.jpg)
 
 ### 123 · 1900 (index) · Texas C-563 — J-tab divider
 
