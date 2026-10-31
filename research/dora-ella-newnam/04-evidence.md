@@ -334,6 +334,10 @@
 | S405 | Clay KY births N/S-priority letters 1911–23 (24 files incl. 1913r-s) + same extract. **Transcription only.** | D (no mother Dora Newnam; zero child Newman/Newnam; Stone children other mothers) | Clay KYGenWeb transcriber |
 | S406 | Clay marriages gmnq/gms/brdmn/brds/brddf + Pulaski vital N/S/D bride + N/S groom. Files `sources/marriages/clay/` + `sources/marriages/pulaski/`. **Transcription only.** | D (nil Dora Newnam × Stone 1920–25; Pulaski letters = pcm to Jan 1901 + 1917 Gazette + 1934–39) | Clay KYGenWeb; Gina Heffernan / Pulaski ARGenWeb |
 | S407 | Rockcastle births K–N/O–T 1911–23 (26 files) + marriages more.htm + Clay/Pulaski/Rockcastle/Logan catalogs. **Transcription / catalog.** | D (no mother Dora Newnam; no child Newman/Stone on K/O; more.htm nil Newman/Stone/Dora) | Rockcastle KyGenWeb |
+| S408 | Clay remaining births A–J / T–Z 1911–23 (57 files) + extract `sources/directories/year-hole-b082-2026-10-31.txt`. **Transcription only.** | D (no mother Dora Newnam; zero child Newman/Stone) | Clay KYGenWeb transcriber |
+| S409 | Rockcastle remaining births A–B / C–F / G–J / U–Z 1911–23 (52 files) + same extract. **Transcription only.** | D (no mother Dora Newnam; zero child Newman/Stone) | Rockcastle KyGenWeb |
+| S410 | Laurel KY births K–N / O–T 1911–23 (26 files) + deaths 1911–21 (12 files). Files `sources/births/laurel/` + `sources/deaths/laurel/`. **Transcription only.** | D (no mother Dora Newnam; nil Mary A. Newnam / Dora Stone) | Laurel KYGenWeb |
+| S411 | Bradley AR marr N/S brides+grooms + new-host catalogs (Laurel/Knox/Whitley/Leslie/Magoffin/Ashley/Drew/Bradley/Sebastian). Extract same. **Transcription / catalog.** | D (nil Dora×Stone 1920–25; Magoffin vitals **404**; Bradley 1920idx **404**) | Bradley ARGenWeb; county coordinators |
 
 
 ## Claims
@@ -907,6 +911,18 @@
 | C1633 | Rockcastle deaths landing posts **1850 / transcribed / certificates / 1930+** — **no 1911–26 year file**. Marriages posted **1851–1900**. `more.htm` (1850–1927 compiled extras) **nil** Newman/Newnam/Stone/Dora. Census 1830–40 xls only. Tax = offsite | PROVEN as to those catalogs | S407 L664 | year hole |
 | C1634 | T624-66 / DAS: env **empty**. DAS URL **not** re-hit. No Van Buren household seen | PROVEN as to this session’s access | — L665 | B081 |
 | C1635 | Residual after B081: Clay remaining birth letters (A–J / T–Z; 1913 N unpublished) for mother field; Rockcastle remaining A–B/C–F/G–J/U–Z; new year-hole hosts not already walked; signed-in T624-66 if credentials appear. **No** Van Buren household seen. Dora still **UNKNOWN** Apr 1910 and Jan 1920. **No record placed Dora** | SPECULATIVE as to next host; placement **open** | S402–S407 L668 | B082 |
+| C1636 | Clay remaining births A–J / T–Z 1911–23 (57 files, ~6570 rows; 1913 N still unpublished): **no** mother Dora/Ella/Posa Newnam/Newman/Stone. **Zero** child Newman/Newnam/Stone | PROVEN as to those files | S408 L670 | B082 |
+| C1637 | Clay remaining Dora/Ella/Posa mothers (112 rows) have other surnames (Felty / Burns / Porter / Crank / Combs / Reed / Smallwood / Smith / …). **Rejected** vs P001 | **DISPROVED** as P001 | S408 L671 | B082 |
+| C1638 | Rockcastle remaining births A–B / C–F / G–J / U–Z 1911–23 (52 files, ~3890 rows): **no** mother Dora/Ella/Posa Newnam/Newman/Stone. **Zero** child Newman/Newnam/Stone | PROVEN as to those files | S409 L672 | B082 |
+| C1639 | Rockcastle remaining Dora/Ella/Posa mothers (61 rows) have other surnames (Dees / Gross / Linsey / Owens / Turner / Jordan / Sutton / Donelson / …). **Rejected** vs P001 | **DISPROVED** as P001 | S409 L673 | B082 |
+| C1640 | Laurel KY births K–N / O–T 1911–23 (26 files, ~3620 rows): **no** mother Dora Newnam. Newman children William/Charles/Hazel/Gladys/Carl/Reva/Edna/Selda/Eugene have mothers Jones/Hargis/Hughes/Byrley/Stoven. Stone Mabel G / William S have mothers Hodge Cora / Bryant Hattie. **Not merged** | PROVEN as to those files; named Newmans **not merged** | S410 L674 L675 | B082 |
+| C1641 | Laurel deaths **1911–1921** (12 files, ~2251 rows): **nil** Mary A. Newnam; **nil** Dora/Ella/Posa Stone. McCarque Dora B 22 (1913) / Milburn Dora A 6 (1913) / Phillips Ella O 23 (1920) / Garland Ella M 2 (1921) **rejected**. Smallwood David E 75 (1917) / Earnest infant (1918) **rejected**. Years **1922–26** listed as text, **no file** | PROVEN as to those files; named Doras **DISPROVED** as P001/P005 | S410 L676 | #18 |
+| C1642 | Bradley AR marr N/S brides + grooms (partial pre-1940 index): **nil** Dora Newnam × Stone 1920–25; **nil** T.A./Tom Stone groom. Newman, Mary Alice 20 × Oliver 1936; Stone, Ellen S. 19 × Hamilton 12 Jan **1871**; Stone, E. E. 24 × Brandon 20 Apr **1903** **rejected** | PROVEN as to those letters | S411 L677 | year hole / m2 |
+| C1643 | Knox / Whitley / Leslie KY vital landings **seen** (year files not opened this pass). Magoffin births/deaths/marr slugs **404** | PROVEN as to those catalogs | S411 L678 | year hole |
+| C1644 | Ashley AR marriage index = **1850s books** + 1923–24 divorces (no 1920–25 marriage book). Drew deaths/marr landings + dc1920 = catalogs / 1918–20 inmate extract, **not** a 1920–25 county book | PROVEN as to those pages | S411 L679 | year hole |
+| C1645 | Sebastian AR births/deaths/marr landings **catalog only** this pass. Bradley 1920 census index slug **404** | PROVEN as to those catalogs | S411 L680 | year hole |
+| C1646 | T624-66 / DAS: env **empty**. DAS URL **not** re-hit. No Van Buren household seen | PROVEN as to this session’s access | — L681 | B082 |
+| C1647 | Residual after B082: Laurel remaining A–B/C–F/G–J/U–Z births; Knox 1901–20 year files (mother field); Whitley/Leslie posted year files; Sebastian/Drew remaining name bodies if posted; signed-in T624-66 if credentials appear. **No** Van Buren household seen. Dora still **UNKNOWN** Apr 1910 and Jan 1920. **No record placed Dora** | SPECULATIVE as to next host; placement **open** | S408–S411 L686 | B083 |
 | C224 | **1 Jun 1880** population schedule dw **102/102** (ED **59**, **S235**) is **Flanary** + **Brashears**, **not** a **Mays** head; **Mary MAYS** 83 d. **Jan 1880** in mortality hh **102** (**S120**) — **same dwelling number**, decedent absent from June snapshot | PROVEN (original pop. line + mortality transcript) | S235 S120 L248 | Does not identify Pollie Mays stone (**C147**) |
 
 ## Same-person merges (Hard Rule 3)
@@ -1076,6 +1092,15 @@
 | Pulaski Newman Eleanor/Merry/Mildred 1936–38 + P001 | Surname Newman | Years after 1926; other given names | **Rejected (C1631)** |
 | Pulaski Stone grooms Allen/Emmett/H.B./Henry/James/Joseph + P003 | Surname Stone | Other given names; pcm/1917/1930s; no Dora Newnam bride | **Rejected (C1631)** |
 | Rockcastle Dora mothers Blackburn/Moore/Mardis/Dickerson/Cromer/Jones + P001 | Given Dora | Other maiden surnames; local Rockcastle cluster | **Rejected (C1632)** |
+| Clay remaining Dora mothers Felty/Burns/Porter/Crank/Combs/Reed/Smallwood/Smith + P001 | Given Dora | Other maiden surnames | **Rejected (C1637)** |
+| Rockcastle remaining Dora mothers Dees/Gross/Linsey/Owens/Turner/Jordan/Sutton + P001 | Given Dora | Other maiden surnames | **Rejected (C1639)** |
+| Laurel Newman children Jones/Hargis/Hughes/Byrley/Stoven + child of P001 | Surname Newman | Mothers ≠ Dora Newnam | **Rejected (C1640)** |
+| Laurel Stone Mabel G / William S + child of P001 | Surname Stone | Mothers Hodge Cora / Bryant Hattie | **Rejected (C1640)** |
+| 1913 Laurel McCarque Dora B 22 / Milburn Dora A 6 + P001 | Given Dora | Other surnames; ages 22 / 6 vs ~42 | **Rejected (C1641)** |
+| 1920 Laurel Phillips Ella O 23 / 1921 Garland Ella M 2 + P001 | Given Ella | Other surnames; ages 23 / 2 | **Rejected (C1641)** |
+| 1936 Bradley Newman Mary Alice 20 × Oliver + P001 | Surname Newman | Year 1936; given Mary Alice; age 20 | **Rejected (C1642)** |
+| 1871 Bradley Stone Ellen S 19 × Hamilton + P001 | Surname Stone | Year 1871; age 19; groom Hamilton | **Rejected (C1642)** |
+| 1903 Bradley Stone E. E. 24 × Brandon + P003 | Surname Stone | Year 1903; initials E.E. ≠ T.A.; bride Nettie | **Rejected (C1642)** |
 | 1929 Menifee Smallwood, Dora E. + P001 | Given Dora E.; maiden Smallwood as *her* surname | Died 22 Jan 1929 Menifee vs 23 Aug 1926 Yell; wrong surname | **Rejected (C1497)** |
 | Saline Q Grissom Dora 18 / Lewis Dora 23 / R Jones Dora Mrs 1926 + P001 | Given Dora; 1924–26 | Ages 18/23; maiden Jones; grooms Mayer/Spencer ≠ T.A. | **Rejected (C1482 C1483)** |
 | Saline Q Newman, Joe 47 × Crosby 1924 + P001/P002 | Surname Newman | Groom Joe; bride Gertrude | **Rejected (C1482)** |

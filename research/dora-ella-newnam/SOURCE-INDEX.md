@@ -1,11 +1,11 @@
 # Source index — Dora Ella Newnam Stone
 
 Working inventory of **saved local copies** in `sources/` plus the authored Word biography.  
-Full file list (1186 files): [`sources/SOURCE-INVENTORY.tsv`](sources/SOURCE-INVENTORY.tsv) (path, bytes, SHA-256 prefix).
+Full file list (1369 files): [`sources/SOURCE-INVENTORY.tsv`](sources/SOURCE-INVENTORY.tsv) (path, bytes, SHA-256 prefix).
 
 **Access labels:** `image seen` · `index only` · `transcription only` · `catalog only` · `OCR text` · `not yet examined`.
 
-Captured this session: **31 Oct 2026** (S283–S290, S299–S407). Earlier plates remain in `sources/census/`, `sources/soundex/`, and `book/plates/` (see `12-image-gallery.md` and `04-evidence.md`). Pass 60–61 sources S267–S282 remain.
+Captured this session: **31 Oct 2026** (S283–S290, S299–S411). Earlier plates remain in `sources/census/`, `sources/soundex/`, and `book/plates/` (see `12-image-gallery.md` and `04-evidence.md`). Pass 60–61 sources S267–S282 remain.
 
 | ID | Filename | Date captured | Repository | URL | Citation (what / where created / where accessed) | What it proves | Access |
 |---|---|---|---|---|---|---|---|
@@ -143,6 +143,10 @@ Captured this session: **31 Oct 2026** (S283–S290, S299–S407). Earlier plate
 | S405 | `sources/births/clay/` N/S-priority 1911–23 + 1913r-s | 2026-10-31 | Clay KYGenWeb births | kygenweb.net/clay/birth/ | Mother field N/S letters | **No** mother Dora Newnam (**C1627**) | transcription |
 | S406 | `sources/marriages/clay/` + `sources/marriages/pulaski/` N/S/D | 2026-10-31 | Clay KYGenWeb + Pulaski ARGenWeb | kygenweb.net/clay/ ; argenweb.net/pulaski/ | Clay compiled + Pulaski pcm/1917/ami | **Nil** Dora×Stone 1920–25 (**C1628 C1630**) | transcription |
 | S407 | `sources/births/rockcastle/` K/O 1911–23 + `sources/marriages/rockcastle/more.htm` + Clay/Pulaski/Rockcastle catalogs | 2026-10-31 | Rockcastle KyGenWeb | kygenweb.net/rockcastle/ | Mother field K/O; more.htm extras | **No** mother Dora Newnam (**C1632 C1633**) | transcription / catalog |
+| S408 | `sources/births/clay/` remaining A–J/T–Z 1911–23 (57 files) + `year-hole-b082-2026-10-31.txt` | 2026-10-31 | Clay KYGenWeb births | kygenweb.net/clay/birth/ | Mother field remaining letters | **No** mother Dora Newnam (**C1636 C1637**) | transcription |
+| S409 | `sources/births/rockcastle/` remaining A/C/G/U 1911–23 (52 files) + same extract | 2026-10-31 | Rockcastle KyGenWeb | kygenweb.net/rockcastle/births/ | Mother field remaining letters | **No** mother Dora Newnam (**C1638 C1639**) | transcription |
+| S410 | `sources/births/laurel/` K/O 1911–23 + `sources/deaths/laurel/` 1911–21 | 2026-10-31 | Laurel KYGenWeb | kygenweb.net/laurel/ | Mother field K/O; deaths 1911–21 | **No** mother Dora Newnam; **nil** Mary A. / Dora Stone (**C1640 C1641**) | transcription |
+| S411 | `sources/marriages/bradley/` N/S + new-host catalogs | 2026-10-31 | Bradley ARGenWeb + KY/AR new hosts | argenweb.net/bradley/ ; kygenweb.net/ | Partial pre-1940 N/S; catalogs | **Nil** Dora×Stone 1920–25 (**C1642–C1645**) | transcription / catalog |
 
 ## Word biography provenance
 
@@ -183,9 +187,12 @@ See [`sources/authored/PROVENANCE.md`](sources/authored/PROVENANCE.md). Drive se
 | Garrard KY deaths 1911–26 + marr 1851–1926 | Mary A. Newnam; Dora Stone | **Done** (**C1622**) |
 | Woodruff remaining 1910 sheets | Dora ~38 | Remaining slugs **404** (**C1624**). Catalog still only ED 130 pp 1/2/5/6 |
 | Logan image-map record pages | 1901–25 name bodies | **Done** — catalogs only (**C1625**) |
-| Clay KY deaths 1911–20 + births N/S 1911–23 + marr N/S/D | Mary A. Newnam; mother Dora Newnam; Dora×Stone | **Done** (**C1626–C1628**). Residual remaining birth letters (**B082**) |
+| Clay KY deaths 1911–20 + births N/S 1911–23 + marr N/S/D | Mary A. Newnam; mother Dora Newnam; Dora×Stone | **Done** (**C1626–C1628**). Remaining A–J/T–Z **done** (**C1636**) |
 | Pulaski AR 1910/1920 + marr N/S/D | Dora ~38/~48; Dora×Stone 1920–25 | Census unpublished (**C1629**). Letters pcm/1917/1934–39 **nil** (**C1630**) |
-| Rockcastle births K/O 1911–23 + deaths/marr catalogs | Mother Dora Newnam | K/O **done** (**C1632**). Residual remaining letters (**B082**) |
+| Rockcastle births K/O 1911–23 + deaths/marr catalogs | Mother Dora Newnam | K/O **done** (**C1632**). Remaining A/C/G/U **done** (**C1638**) |
+| Laurel KY births K/O 1911–23 + deaths 1911–21 | Mother Dora Newnam; Mary A. Newnam | **Done** (**C1640 C1641**). Residual remaining letters (**B083**) |
+| Bradley AR marr N/S | Dora Newnam × Stone 1920–25 | **Done** (**C1642**) |
+| Knox / Whitley / Leslie / Magoffin / Ashley / Drew / Sebastian | 1901–25 name bodies | Catalogs opened (**C1643–C1645**). Residual year files (**B083**) |
 
 ## Variant strings used this session (categories 1–4)
 
@@ -195,7 +202,7 @@ See [`sources/authored/PROVENANCE.md`](sources/authored/PROVENANCE.md). Drive se
 
 **Thomas / T. A. Stone:** Thomas, Tom, T. A., T A × Stone, Store, Stowe (rejects already logged).
 
-Exact strings in `02-log.md` **L343–L352** (pass 60–61), **L361–L372** (pass 62), **L373–L379** (pass 63), **L396–L405** (pass 64), **L406–L418** (pass 65), **L419–L429** (pass 66), **L430–L441** (pass 67), **L442–L455** (pass 68), **L456–L470** (pass 69), **L471–L484** (pass 70), **L485–L498** (pass 71), **L499–L512** (pass 72), **L513–L528** (pass 73), **L529–L544** (pass 74), **L545–L560** (pass 75), **L561–L576** (pass 76), **L577–L596** (pass 77), **L597–L614** (pass 78), **L615–L632** (pass 79), **L633–L650** (pass 80), and **L651–L668** (pass 81).
+Exact strings in `02-log.md` **L343–L352** (pass 60–61), **L361–L372** (pass 62), **L373–L379** (pass 63), **L396–L405** (pass 64), **L406–L418** (pass 65), **L419–L429** (pass 66), **L430–L441** (pass 67), **L442–L455** (pass 68), **L456–L470** (pass 69), **L471–L484** (pass 70), **L485–L498** (pass 71), **L499–L512** (pass 72), **L513–L528** (pass 73), **L529–L544** (pass 74), **L545–L560** (pass 75), **L561–L576** (pass 76), **L577–L596** (pass 77), **L597–L614** (pass 78), **L615–L632** (pass 79), **L633–L650** (pass 80), **L651–L668** (pass 81), and **L669–L686** (pass 82).
 
 **Pearl / Clyde (pass 63):** Pearl × Newnam/Newman/Jackson; Clyde × Jackson/jacksen. Soundex **N550** / **J250**.
 
@@ -220,3 +227,5 @@ Exact strings in `02-log.md` **L343–L352** (pass 60–61), **L361–L372** (pa
 **Dora placement (pass 80, B080):** Dora / posa / dosa / rosa / dona / dara / Nora / Cora / Ella × Newnam / Newman / Stone; Mary / mayr × Newnam / Smallwood; T.A. / Tom Stone. Soundex **N550** / **S350**. Used on Madison remaining death year×letter files, Prairie 1910 name indexes, Cleveland 1873–1992 N/S/D–E, Faulkner N/S/D, Garrard 1911–26 deaths, Garrard marriages 1851–1926, and Woodruff 1910 sample sheets.
 
 **Dora placement (pass 81, B081):** Dora / posa / dosa / rosa / dona / dara / Nora / Cora / Ella × Newnam / Newman / Stone; Mary / mayr × Newnam / Smallwood; T.A. / Tom Stone. Soundex **N550** / **S350**. Used on Woodruff remaining 1910 slugs, Logan map pages, Clay deaths 1911–20, Clay births N/S 1911–23, Clay marr N/S/D, Pulaski vital N/S/D, and Rockcastle births K/O 1911–23.
+
+**Dora placement (pass 82, B082):** Dora / posa / dosa / rosa / dona / dara / Nora / Cora / Ella × Newnam / Newman / Stone; Mary / mayr × Newnam / Smallwood; T.A. / Tom Stone. Soundex **N550** / **S350**. Used on Clay remaining A–J/T–Z, Rockcastle remaining A/C/G/U, Laurel K/O births + deaths 1911–21, and Bradley N/S.
