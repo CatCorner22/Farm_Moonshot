@@ -1,0 +1,58 @@
+Pass 88 extract — 31 Oct 2026 — B088 / B045 / B061 / B089 / B087 / B082 / B016
+Claims C858–C885 · Logs L712–L728 · Sources S553–S570
+Images: research/dora-ella-newnam/sources/census/pass88/ and labeled copies in sources/census/
+
+BELL T625-559 (IA 14thcensusofpopu559unit)
+- 0609 w1600 = Bell Precinct 22 Ingram, ED 28, sheet 1 A, 8 Jan 1920, enumerator W. E. Turner. Official ED 28 start. C858 PROVEN. S553.
+- 0610 w1600 = ED 28, sheet 2 A, 8 Jan, W. E. Turner. C859 PROVEN. S570.
+- 0609 names (visual): Wilson Elisha G.; Smith James I.; Bentley Samuel; Miracle Oliver / Ballard; Hobbs John; Lester Theo; Janes/Jones Charley; May Eli. No Newman/Newnam/McCoy head. C860 PROBABLE.
+- 0643 w1600 = Bell Williams Branch Precinct 24, ED 30, sheet 1 A, 2 Feb 1920, enumerator P. W. Woolum. Official ED 30 start. C861 PROVEN. S554.
+- 0643 names (visual): Hurst James / Gardner / Nathaniel / Blaney; Hatton Isbel; Denny; Robbins Ruford / James; Jones. Cora wife of Gardner Hurst age 26 REJECTED vs Cora Newman. Dora T. Denny age 4 REJECTED vs P001. Cora Robbins daughter 18 rejected. No Newman head. C862 PROBABLE.
+- 0620 = Bell Precinct 2 Ingram, ED 29, 14 Jan, Wm G. Innes (after ED 28). C863 PROVEN.
+- 90 name-crop Tesseract sweep (pass88/crops/*-names.png): nil newman/newnam/newnarn/noonan/nunan/mccoy tokens. Assist only. C877.
+
+WOLFE T625-602 (IA 14thcensusofpopu602unit) — imagecount 515
+- IA metadata: jp2.zip filecount 515; Reel 602 = Wayne 258–275, Wolfe 234–242, Whitley 276–302. Scan ends ~leaf 0515. C864 PROVEN. S561.
+- 0370 w1600 = Wayne Precinct 1, ED 270, 3 Jan, William Foster. C866 PROVEN.
+- 0373 w1600 = Wolfe, Lee City Town, ED 234, sheet 1 A. Official Wolfe 234 start (earlier 0374 was not 1A). C865 PROVEN. S555.
+- Film map C867 PROVEN:
+  Wayne through ~0372
+  Wolfe 234–236 = 0373–0418 (Lee City / Hazel Green / Campton)
+  Whitley 277 Williamsburg, William A. Tyler = 0419–0442 (C878)
+  Wolfe 238 Torrent, Joel Cox, from 0443 (C868) through ~0475 (0450 = 8 Jan, C869)
+  Wolfe 239 Holly Mag. Dist. 5, Ola H. Miller, 0476 sheet 1 A 27 Jan (C870); 0480 sheet 3 (C871)
+  Wolfe 240 Stillwater Mag. Dist. 6, J. F. Dunn: 0500 sheet 7 A 14 Jan (C872); 0512 sheet 13 A 17 Jan (C873)
+  Wolfe 241 Clifty Precinct 7, Roy Kash, 0514 sheet 1, 13/14 Jan (C874) — official start, last readable ED on this scan
+  Wolfe 242 Antioch originals NOT on the 515-image IA scan (C875)
+- ED 237 not isolated (0418 Campton → 0419 Whitley). Compiled landing had no 237. C879 POSSIBLE absent.
+- Compiled Torrent USGW 1920pt05 / KYGenWeb 1920f: 222 HH, Joel Cox, ED 238; grep nil Newman/Newnam/McCoy/Noonan/Nunan. Only Cora = William S. 45 + Cora 44 wife (not Cora Newman). C876 PROBABLE. S562.
+- Compiled Antioch 1920k re-seen: Austin Crawford ED 242; nil Newman; John L. Hollon 48 / Dora Childers 26 / Cora King 6 already rejected. C852 stands.
+- Sampled Torrent/Holly/Stillwater/Clifty + Bell 28/30 names: PROBABLE nil John L+Cora / McCoy Newman. C877.
+
+B045 / B061 / B069
+- FS catalog 127913, 127869, 1146342 = SPA/empty shells. R011 step 38. Images unread. C880 PROVEN.
+
+B089
+- Lee Book 6 compiled re-seen: Floyd NEWNAM × Allie A. BRANDENBURG 31 Jul 1902 only Floyd×Allie row; Boyde Newnam witness Harlan Marcum × Sarah Smyth 13 Oct 1900; no Boyd groom. Register unread. Floyd still not merged (#27). C881 PROVEN compiled.
+- Certs 28501 / 31780 still nil on SCGS Lee delayed PDF and KY delayed index. Known Newman rows: Clarnce / Allie Brandburg 49261; Martha / Nannie Mays 50011; Mary / Nannie Mays 49329; Nancy J / Martha Brandenbu 49545; Ottie / Nettie Mays 48242; Arthur / Allie Brandenbur 49665 (prior). Images unread. C882 PROVEN index.
+
+B087
+- Owsley County Courier Fri 8 May 1942 (USGenNet gcombs.htm) re-seen: George COMBS killed from ambush near Vincent 7 May 1942; eleven shots; widow Ocre; does NOT name a shooter. TFKRHA homicides table: Combs, George | — | 5-8-1942 | Shot 11 times from ambush. Houser annotation (“John NEWNAM was charged”) remains authored only. COMBS v. COMMONWEALTH 292 Ky. 1 (1942) is a different homicide. Do not print the 1942 charge as fact. C883 PROVEN as re-read.
+
+B082
+- Duell-Clark 1958–1978 / vol. II still on-site (Woodford County Historical Society $10). GT and USGW Woodford obit indexes this pass: no John L. Newman 1966 row. Cert 17762 unread. Do not print 1966 as fact (#26). C884 PROVEN as access.
+
+B016
+- No free SSDI / TN death-index row for Rissie Pelfrey / Stamper / Newnam this pass. LocateAncestors TN Stamper list has no Rissie. Skip living 2009/2016/2024 Pelfrey survivors. 1910 Rissie servant 15 still not merged vs Dora’s Rissa. C885 PROVEN as nil search.
+
+Same-person
+- John 38 + Jennie still rejected vs John L.
+- Floyd still not merged vs Boyd (#27).
+- #20 #26 still open.
+- Do not print 1966, 1976, Floyd-as-Boyd, 1962 as McCoy death, or 1942 Combs charge as fact.
+
+Access honesty
+- IA T625-559 0609/0610/0643 w1600 + densify 0490–0726 image seen.
+- IA T625-602 hunt 0003–0514 image seen (reel 515 images).
+- USGW 1920pt05, KYGenWeb 1920i/k, Book 6, SCGS Lee delayed, Courier gcombs HTML seen.
+- FS 127913/127869/1146342 SPA. Book 6 register unread. Certs 28501/31780/17762 unread. M1509 unread. Duell-Clark unread. Antioch 242 originals not on this IA scan. Authored latest.docx SHA 78cdcf44… not overwritten.

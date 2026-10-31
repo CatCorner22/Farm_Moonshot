@@ -1157,6 +1157,34 @@
 | C855 | FS catalog **127913** and **127869** this session = SPA shells. R011 step **37**. Images unread | PROVEN as access | S550 L708 | B045 B061 |
 | C856 | Lee Book **6** compiled re-seen: Floyd NEWNAM × Allie A. BRANDENBURG **31 Jul 1902** still the only Floyd×Allie row; **no** Boyd groom. Register unread | PROVEN as compiled re-read | S449 L709 | B089 |
 | C857 | Certs **28501 / 31780** still absent from SCGS Lee delayed index and RootsWeb 1906 delayed year file. Arthur Newman / Allie Brandenbur is cert **49665** | PROVEN as index; certs unread | S530 S551 L710 | B089 |
+| C858 | T625-559 leaf **0609** w1600 = Bell Precinct **22 Ingram**, ED **28**, sheet **1 A**, 8 Jan 1920, W. E. Turner. Official ED **28** start | PROVEN as header | S553 L713 | B088 |
+| C859 | Leaf **0610** w1600 = Bell ED **28**, sheet **2 A**, 8 Jan, W. E. Turner | PROVEN as header | S570 L713 | B088 |
+| C860 | ED **28** sh **1 A** names: Wilson / Smith / Bentley / Miracle / Hobbs / Lester / Janes / May. **No** Newman / Newnam / McCoy head | PROBABLE (negative; one sheet) | S553 L714 | B088 |
+| C861 | Leaf **0643** w1600 = Bell **Williams Branch Precinct 24**, ED **30**, sheet **1 A**, 2 Feb 1920, P. W. Woolum. Official ED **30** start | PROVEN as header | S554 L715 | B088 |
+| C862 | ED **30** sh **1 A** names: Hurst / Hatton / Denny / Robbins / Jones. **Cora** wife of Gardner Hurst 26 **rejected** vs Cora Newman. **Dora T.** Denny 4 **rejected** vs P001. Cora Robbins dau 18 rejected. **No** Newman head | PROBABLE (negative; one sheet) | S554 L716 | B088 |
+| C863 | Leaf **0620** = Bell Precinct **2 Ingram**, ED **29**, 14 Jan, Wm G. Innes — immediately after ED **28** | PROVEN as header | S540 L715 | B088 |
+| C864 | IA item `14thcensusofpopu602unit` = **515** images (jp2 filecount **515**). NARA T625-602 = Wayne 258–275, Wolfe 234–242, Whitley 276–302 | PROVEN as metadata | S561 L717 | B088 |
+| C865 | T625-602 leaf **0373** w1600 = Wolfe **Lee City Town**, ED **234**, sheet **1 A**. Official Wolfe 234 start | PROVEN as header | S555 L717 | B088 |
+| C866 | Leaf **0370** w1600 = Wayne Precinct **1**, ED **270**, 3 Jan, William Foster | PROVEN as header | S561 L717 | B088 |
+| C867 | Film map on this IA scan: Wayne ~**0372**; Wolfe **234–236** **0373–0418**; Whitley **277** **0419–0442**; Wolfe **238** Torrent from **0443**; **239** Holly from **0476**; **240** Stillwater ~**0490–0512**; **241** Clifty from **0514**; **242** Antioch **not** on the 515-image scan | PROVEN as header map | S555–S560 L718 | B088 |
+| C868 | Leaf **0443** = **Torrent Precinct**, enumerator Joel Cox (Wolfe ED **238** start on this scan) | PROVEN as place/enumerator | S556 L718 | B088 |
+| C869 | Leaf **0450** w1600 = Torrent Precinct, Joel Cox, 8 Jan, ED **238** | PROVEN as header | S557 L718 | B088 |
+| C870 | Leaf **0476** w1600 = Wolfe Mag. Dist. **5 Holly**, ED **239**, sheet **1 A**, 27 Jan, Ola H. Miller. Official Holly start | PROVEN as header | S558 L718 | B088 |
+| C871 | Leaf **0480** = Holly ED **239**, sheet **3**, Ola H. Miller | PROVEN as header | S558 L718 | B088 |
+| C872 | Leaf **0500** w1600 = Wolfe Mag. Dist. **6 Stillwater**, ED **240**, sheet **7 A**, 14 Jan, J. F. Dunn | PROVEN as header | S559 L718 | B088 |
+| C873 | Leaf **0512** w1600 = Stillwater ED **240**, sheet **13 A**, 17 Jan, J. F. Dunn | PROVEN as header | S559 L718 | B088 |
+| C874 | Leaf **0514** w1600 = **Precinct 7 Clifty**, ED **241**, sheet **1**, 13/14 Jan, Roy Kash. Official Clifty start; last isolated Wolfe ED on this scan | PROVEN as header | S560 L718 | B088 |
+| C875 | Wolfe ED **242** Antioch originals are **not** on the IA 515-image scan (scan ends as Clifty **241** begins) | PROVEN as access/gap | S561 S563 L721 | B088 |
+| C876 | Compiled Torrent (USGW 1920pt05 / KYGenWeb 1920f): **222** HH, Joel Cox, ED **238**; **nil** Newman/Newnam/McCoy/Noonan/Nunan. William S. + Cora 44 is not Cora Newman | PROBABLE as compiled negative | S562 L719 | B088 |
+| C877 | Sampled Torrent/Holly/Stillwater/Clifty + Bell **28/30** name columns + 90-crop Tesseract: **no** Newman / John L+Cora / McCoy Newman head isolated | PROBABLE (negative; not every line) | S569 L720 | B088 |
+| C878 | Leaves **0440–0442** = Whitley **Williamsburg**, ED **277**, William A. Tyler — not Wolfe 237–242 | PROVEN as headers | S556 L718 | B088 |
+| C879 | ED **237** not isolated (0418 Campton → 0419 Whitley). Compiled landing listed no 237 | POSSIBLE absent | S561 L718 | B088 |
+| C880 | FS catalog **127913 / 127869 / 1146342** this session = SPA shells. R011 step **38**. Images unread | PROVEN as access | S564 L722 | B045 B061 B069 |
+| C881 | Lee Book **6** compiled re-seen: Floyd NEWNAM × Allie A. BRANDENBURG **31 Jul 1902** only Floyd×Allie row; **Boyde Newnam** witness 13 Oct 1900; **no** Boyd groom. Register unread | PROVEN as compiled re-read | S565 L723 | B089 |
+| C882 | Certs **28501 / 31780** still absent from SCGS Lee delayed PDF. Clarence Newman / Allie Brandburg = **49261**. Images unread | PROVEN as index; certs unread | S566 L724 | B089 |
+| C883 | Owsley *Courier* 8 May 1942 re-seen: George Combs ambush **does not name** a shooter. TFKRHA accused blank. Houser annotation only. Do **not** print as fact | PROVEN as re-read | S567 L725 | B087 |
+| C884 | Duell-Clark 1958–1978 still on-site. GT/USGW Woodford obit indexes **nil** John L. Newman 1966. Cert **17762** unread. Do **not** print 1966 as fact | PROVEN as access | S568 L726 | B082 |
+| C885 | No free SSDI / TN death-index row for Rissie Pelfrey / Stamper / Newnam this pass. 1910 servant still **not merged**. Skip living survivors | PROVEN as nil search | S572 L727 | B016 |
 
 ## Same-person merges (Hard Rule 3)
 | Records merged | Identifier 1 | Identifier 2 | Contradictions? | Verdict |

@@ -292,6 +292,26 @@ Captured this session: **30 Oct 2026**. Earlier plates remain in `sources/census
 | S550 | FS catalog **127913** / **127869** SPA this session | 2026-10-30 | FamilySearch | https://www.familysearch.org/search/catalog/127913 | R011 step **37**; images unread | **C855** | catalog |
 | S551 | RootsWeb KY delayed births 1906 year file | 2026-10-30 | RootsWeb Knox | https://sites.rootsweb.com/~kyknox/Births/1906.html | Arthur Newman / Allie Brandenbur cert **49665**; **nil** 28501/31780 | **C857** | index only |
 | S552 | `sources/census/pass87-extract-2026-10-30.txt` | 2026-10-30 | This session | — | Pass 87 extract | **C833–C857** | extract |
+| S553 | `sources/census/bell-1920-ed28-0609-ingram-1a.jpg` · `bell-1920-ed28-0609-edbox.png` | 2026-10-31 | IA T625-559 | https://archive.org/details/14thcensusofpopu559unit | Bell ED **28** Ingram Precinct 22 sh **1 A** | **C858 C860** | image seen |
+| S554 | `sources/census/bell-1920-ed30-0643-williamsbranch-1a.jpg` · `bell-1920-ed30-0643-edbox.png` | 2026-10-31 | IA T625-559 | https://archive.org/details/14thcensusofpopu559unit | Bell ED **30** Williams Branch Precinct 24 sh **1 A** | **C861 C862** | image seen |
+| S555 | `sources/census/wolfe-1920-ed234-0373-leecity-1a.jpg` | 2026-10-31 | IA T625-602 | https://archive.org/details/14thcensusofpopu602unit | Wolfe ED **234** Lee City Town sh **1 A** | **C865** | image seen |
+| S556 | `sources/census/wolfe-1920-ed238-0443-torrent-start.jpg` | 2026-10-31 | IA T625-602 | https://archive.org/details/14thcensusofpopu602unit | Torrent Precinct Joel Cox start | **C868** | image seen |
+| S557 | `sources/census/wolfe-1920-ed238-0450-torrent.jpg` | 2026-10-31 | IA T625-602 | https://archive.org/details/14thcensusofpopu602unit | Torrent ED **238** 8 Jan | **C869** | image seen |
+| S558 | `sources/census/wolfe-1920-ed239-0476-holly-1a.jpg` · `wolfe-1920-ed239-0476-edbox.png` | 2026-10-31 | IA T625-602 | https://archive.org/details/14thcensusofpopu602unit | Holly ED **239** sh **1 A** | **C870 C871** | image seen |
+| S559 | `sources/census/wolfe-1920-ed240-0500-stillwater-7a.jpg` | 2026-10-31 | IA T625-602 | https://archive.org/details/14thcensusofpopu602unit | Stillwater ED **240** sh **7 A** | **C872 C873** | image seen |
+| S560 | `sources/census/wolfe-1920-ed241-0514-clifty-1a.jpg` · `wolfe-1920-ed241-0514-edbox.png` | 2026-10-31 | IA T625-602 | https://archive.org/details/14thcensusofpopu602unit | Clifty ED **241** sh **1** start | **C874** | image seen |
+| S561 | IA metadata `14thcensusofpopu602unit` (515 images) | 2026-10-31 | Internet Archive | https://archive.org/metadata/14thcensusofpopu602unit | Reel 602 page count; Wayne/Wolfe/Whitley | **C864 C867 C875** | catalog |
+| S562 | `sources/census/pass88/wolfe-tx/1920pt05-torrent-usgw.txt` · `1920f-torrent-extract.txt` | 2026-10-31 | USGW / KYGenWeb | http://files.usgwarchives.net/ky/wolfe/census/1920/1920pt05.txt | Torrent **222** HH compiled **nil** Newman | **C876** | transcription only |
+| S563 | KYGenWeb 1920k Antioch re-read | 2026-10-31 | KYGenWeb Wolfe | https://kygenweb.net/wolfe/txt/1920k.txt | Antioch **242** compiled **nil**; originals not on IA scan | **C875** | transcription only |
+| S564 | FS catalog **127913 / 127869 / 1146342** SPA this session | 2026-10-31 | FamilySearch | https://www.familysearch.org/search/catalog/127913 | R011 step **38**; images unread | **C880** | catalog |
+| S565 | USGenNet Lee Book **6** compiled | 2026-10-31 | USGenNet Lee | https://usgennet.org/usa/ky/county/lee/marriage/marrbook6.html | Floyd×Allie only; Boyde witness; no Boyd groom | **C881** | transcription only |
+| S566 | `sources/vital/scgs-lee-delayed-newman-2026-10-31.txt` | 2026-10-31 | SCGS Lee delayed | http://www.scgs-ky.org/delbrth/lee-ok.pdf | **Nil** certs **28501 / 31780**; Clarence **49261** | **C882** | index only |
+| S567 | `sources/press/owsley-courier-1942-gcombs-2026-10-31.txt` | 2026-10-31 | USGenNet Owsley | https://usgennet.org/usa/ky/county/owsley/obit/gcombs.htm | Courier names victim, not shooter | **C883** | transcription only |
+| S568 | Woodford HS Duell-Clark catalog + GT/USGW Woodford obit indexes | 2026-10-31 | WCHS / GT / USGW | https://www.woodfordcountykyhistoricalsociety.com/booksandpublications | 1958–1978 on-site; **nil** free 1966 John L. obit | **C884** | catalog |
+| S569 | `sources/census/pass88/crops/` name invert PNGs (90) | 2026-10-31 | IA T625-559 / 602 | https://archive.org/details/14thcensusofpopu559unit | OCR + visual **nil** Newman head | **C877** | image seen / OCR draft |
+| S570 | `sources/census/bell-1920-ed28-0610-ingram-2a.jpg` | 2026-10-31 | IA T625-559 | https://archive.org/details/14thcensusofpopu559unit | Bell ED **28** sh **2 A** | **C859** | image seen |
+| S571 | `sources/census/pass88-extract-2026-10-31.txt` | 2026-10-31 | This session | — | Pass 88 extract | **C858–C885** | extract |
+| S572 | `sources/vital/b016-rissie-ssdi-nil-2026-10-31.txt` | 2026-10-31 | This session | — | B016 free SSDI/TN Stamper **nil**; skip living | **C885** | extract |
 
 ## Word biography provenance
 

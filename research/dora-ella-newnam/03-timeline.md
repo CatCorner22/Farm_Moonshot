@@ -214,5 +214,13 @@ Place as it was *at the date*; modern equivalent in brackets. Flag impossibiliti
 | 5 Jan 1920 | — | FAN **PROVEN** as header: Wolfe ED **235** Hazel Green leaf **0380**, Stanley M. Ward. Compiled 1920d **nil** Newman | Wolfe Co., KY | C849 C853 | S546 S528 |
 | 13 Jan 1920 | — | FAN **PROVEN** as header: Wolfe ED **236** Campton Precinct 3 leaf **0410** | Wolfe Co., KY | C850 | S547 |
 | Jan 1920 | — | FAN compiled **PROBABLE** negative: Wolfe Clifty ED **241** and Antioch ED **242** **nil** Newman. John L. HENRY / Dora Childers rejected | Wolfe Co., KY | C851 C852 | S548 S549 |
+| 8 Jan 1920 | — | FAN **PROVEN** as header: Bell ED **28** starts leaf **0609** sh **1 A**, Precinct **22 Ingram**, W. E. Turner. **0610** = sh **2 A**. Names **PROBABLE** nil Newman | Bell Co., KY | C858 C859 C860 | S553 S570 |
+| 2 Feb 1920 | — | FAN **PROVEN** as header: Bell ED **30** starts leaf **0643** sh **1 A**, Williams Branch Precinct **24**, P. W. Woolum. Cora Hurst 26 / Dora T. Denny 4 **rejected** | Bell Co., KY | C861 C862 | S554 |
+| 14 Jan 1920 | — | FAN **PROVEN** as header: leaf **0620** = Bell ED **29** Precinct **2 Ingram**, Wm G. Innes (after ED 28) | Bell Co., KY | C863 | S540 |
+| Jan 1920 | — | FAN **PROVEN** as film map: T625-602 IA scan **515** images. Wolfe **234** Lee City starts **0373** sh **1 A**. Whitley **277** **0419–0442**. Torrent **238** from **0443**; Holly **239** from **0476**; Stillwater **240** **0500/0512**; Clifty **241** from **0514**. Antioch **242** originals **not** on this scan | Wayne / Wolfe / Whitley, KY | C864–C875 C878 | S555–S561 |
+| 8 Jan 1920 | — | FAN **PROVEN** as header: Wolfe Torrent leaf **0450**, Joel Cox, ED **238**. Compiled 222 HH **nil** Newman | Wolfe Co., KY | C869 C876 | S557 S562 |
+| 27 Jan 1920 | — | FAN **PROVEN** as header: Wolfe Holly ED **239** starts leaf **0476** sh **1 A**, Ola H. Miller | Wolfe Co., KY | C870 | S558 |
+| 14 Jan 1920 | — | FAN **PROVEN** as header: Wolfe Stillwater ED **240** leaf **0500** sh **7 A**, J. F. Dunn | Wolfe Co., KY | C872 | S559 |
+| 13–14 Jan 1920 | — | FAN **PROVEN** as header: Wolfe Clifty ED **241** starts leaf **0514** sh **1**, Roy Kash | Wolfe Co., KY | C874 | S560 |
 
 **Impossibility flags:** None. Mother ~29 at Dora’s 1871 birth (Mary b. 1842). Dora age 14 at marriage is legal/period-possible (KY) though young; 1880 age 8 corroborates. Two children born before Coy in the 1886–1889 window would have Dora aged 15–18 — possible. No event after 23 Aug 1926 is attributed to her.
