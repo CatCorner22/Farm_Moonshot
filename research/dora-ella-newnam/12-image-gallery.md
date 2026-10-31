@@ -991,3 +991,35 @@ Same household, original-tone crop.
 1950 U.S. census, Estill County, Kentucky, ED 33-13 sheet 21 household 155 — Harding 65 + Sarah 64, rejected versus Boyd and Allie.
 
 ![Estill 1950 Harding reject](sources/census/pass100/estill-1950-33-13-0021-planding.jpg)
+
+**Source:** S812 · C1124
+
+1950 Estill County enumeration-district map (NARA S3), title block — 1950 E.D.’s 33-1 to 33-22 on a 1937 highway sheet.
+
+![Estill 1950 ED map title](sources/census/pass101/crops/estill-1950-map-title.jpg)
+
+**Source:** S841 · C1152
+
+Same map, county preview — 33-8 in Magisterial District 2 Millers Creek; Station Camp is 33-11 / 33-12.
+
+![Estill 1950 ED map preview](sources/census/pass101/crops/estill-1950-ed-map-preview.jpg)
+
+**Source:** S841 · C1152
+
+1950 ED descriptions, Kentucky-0033 page 2 — 33-5 Ravenna city; 33-8 Millers Creek.
+
+![Estill 1950 ED descriptions 33-5 and 33-8](sources/census/pass101/crops/estill-1950-ed-desc-0002-33-5-33-8.jpg)
+
+**Source:** S842 · C1153
+
+1950 ED descriptions, Kentucky-0033 page 3 — 33-11 / 33-12 Station Camp split on South Irvine–Leighton Road via Ola.
+
+![Estill 1950 ED descriptions 33-11 and 33-12](sources/census/pass101/crops/estill-1950-ed-desc-0003-33-11-33-12.jpg)
+
+**Source:** S842 · C1154
+
+1950 U.S. census, Estill County, ED 33-12 sheet 13, 12 April 1950 — given-name Boyd, 19, farmer, McKamey household, rejected versus Boyd Newman ~75.
+
+![Estill 1950 33-12 Boyd 19 reject](sources/census/pass101/43290879-Kentucky-154364-0016.jpg)
+
+**Source:** S844 · C1156

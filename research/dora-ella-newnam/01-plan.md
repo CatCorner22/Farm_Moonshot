@@ -713,6 +713,24 @@ Exact strings logged **L916–L935**.
 
 Exact strings logged **L936–L964**.
 
+### Pass 101 variant storm (31 Oct 2026)
+
+**John / Cora / McCoy (B088, deceased-only)** — John/Jno/Johnnie × Newman/Newnam/newnarn/newan/Noonan. Combined: "John Newman" | "Newman, John". Cora × Newman/Newnam/Brandenburg. McCoy/Coy / Mc Coy. Soundex **N550** / **M200**. Place Antioch **242** / Clifty **241** / T625-**602**.
+
+**Boyd / Allie / Floyd (B089)** — Boyd/Boyde/Floyd × Newman/Newnam. Allie/Ollie × Brandenburg. Soundex **N550** / **B300** (Boyd) / **B653** (Brandenburg). Place 1930 **33-5 / 33-8**; 1950 **33-8** Millers Creek vs **33-11 / 33-12** Station Camp.
+
+**Frank of Berea (B055/B080, deceased-only)** — Frank/David F./David G. × Newnam/Newman. Soundex **N550**. Place Madison / Berea / Jefferson (C393 reject). Cert **13719** RD **028**.
+
+**Rissie (B016, deceased-only)** — Rissie/Rissa × Newnam/Newman/Stamper/Pelfrey. Skip living Pelfrey survivors.
+
+**Dora Stone 1926 (B049/B058)** — Dora/posa/dosa/rosa/dona × Stone/Newman/Newnam. Soundex **S350** / **N550**. Place Ola / Yell / Danville / Dardanelle. Cert **1524** RD **676**.
+
+**Samuel P. Newnam (B045/B061)** — Samuel/Sam × Newnam/Newman + will/estate/administration. Films **127913 / 127869 / 1146342 / 520482** (SPA expected, R011 step **51**).
+
+**WWI (B069/B047)** — John H. b. 1899; McCoy b. 1890; Luther b. 1891 × M1509 **KY45 / KY24 / KY74**.
+
+Exact strings logged **L965–L990**.
+
 ## Agent SDK / GitHub channel
 
 Inspected 30 Oct 2026 (**L351**): this repository has **no** `package.json`, **no** `@grok/agent-sdk`, **no** `bot/` directory. GitHub channel `bot/channels/github.ts` is **n/a** and was **not** authored. Project subagent: `.cursor/agents/dora-genealogy-detective.md`.
