@@ -1674,6 +1674,20 @@ PLATES: list[dict] = [
         source="S403 · C736",
     ),
     dict(
+        n=283, date="1900 (index)", year=1900, role="rejected",
+        path="soundex/in1900-s415-n1584-noah-46-in.jpg",
+        title="Indiana S-415 — Noah, 46, Indiana, Miami Jefferson; not C244 father",
+        caption="White head, February 1854, age 46, born Indiana, Miami County, Jefferson Township. Wife Lizzie, 40, Indiana. Children Milan, 16, Michigan; Grover C, 14; Mary, 9; Ruth C, 7. Continuation n1585 has Nellie R, 2. Intact Indiana household. Rejected as C244.",
+        source="S404 · C738",
+    ),
+    dict(
+        n=284, date="1900 (index)", year=1900, role="rejected",
+        path="soundex/in1900-s415-n1585-nellie-r-2.jpg",
+        title="Indiana S-415 — Noah continuation; Nellie R, 2; not C244",
+        caption="Continuation of Noah (plate 283). Daughter Nellie R, October 1897, age 2, Indiana. Brother-in-law Josiah Brower, 65, Ohio. Diplomatic Nellie R, not Letha. Rejected as C244.",
+        source="S404 · C738",
+    ),
+    dict(
         n=123, date="1900 (index)", year=1900, role="context",
         path="soundex/tx1900-c563-p1-j-divider.jpg",
         title="Texas C-563 — J-tab divider",

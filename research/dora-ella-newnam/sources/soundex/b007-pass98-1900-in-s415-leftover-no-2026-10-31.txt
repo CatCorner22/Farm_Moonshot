@@ -1,0 +1,37 @@
+Pass 98 add — 1900 IN S-415 leftover N–O (Missouri→Patrick)
+Date: 31 Oct 2026 (America/New_York)
+Target C244: 1910 Letha Sullivan 12 nurse, Jesse Conrad, Liberty Twp,
+  Bollinger Co. MO; father reported Indiana-born.
+Hunt: Letha / Letta / Lethia / Lettie / Litha / Viola / Lottie / Leta ~0–2
+  on leftover N–O parent / female-head cards. Do not merge. Hard Rule 3.
+
+IN walk (card images seen; full reel PDF not downloaded):
+  soundex1900in208 rot 0
+  leftover N–O n1561–1609 (Missouri given-name after Michael n1560;
+  Patrick starts n1610). 49/49 after n1599 502 retry.
+  Working crops /tmp/p98/in-no-walk/ not committed except plated n1584–1585.
+
+Parent-verified given-name run:
+  Missouri / Monroe / Monroe B / Moritz / Moses / Mortimer / Mountainville /
+  Myrtle / N-tab / Nancy / Nancy J / Nannie / Nathan / Natty / Neal /
+  Nellie / Nettie / Nimrod (Slavin leftover) / Noah / Noah H / Noah W /
+  Nora / O.H. / Obe / Olea (Slavin) / Oliver / Ollie / Opal / Orlando /
+  Osbery (Slavin) / Otto / Queen E / P. Joseph.
+
+Hunt-adjacent (all REJECT vs C244):
+  n1584–1585 Noah Feb 1854 46 IN, Miami / Jefferson:
+    Lizzie W 40 IN; Milan 16 MI; Grover C 14; Mary 9; Ruth C 7;
+    Nellie R D Oct 1897 2 IN; Brower Josiah B 65 OH. → C738
+  n1563 Monroe B 32 MI + Irene D Sept 1897 2 IN. Father MI.
+  n1596 Slavins, Olea 26 IN + unnamed D May 1900 4/12 IN (surname Slavin).
+  n1603 Opal 2 IN stepdaughter of Tipton Nancy.
+
+Leftover-M agent reconcile (same date; do not rewrite L624):
+  [Read IN leftover-M sheets 1427-1474](bc-9ae46525-ee39-5a8c-93b1-e269d026dd31)
+    and [Read IN leftover-M sheets 1475-1523](bc-a986f8d0-2468-55aa-987b-85890ea57da0)
+    both NIL vs C244. No new hunt-string. L624 “Helen C” is Helen G
+    (n1520 parent re-read). n1460 4-up “Lettie” is Edith GD 2 (Agent A).
+
+Verdict: IN leftover N–O closed for C244 merge.
+Residual: MO leftover M after n3752 (119/119 downloaded; visual-read
+  agents running); B049 film.

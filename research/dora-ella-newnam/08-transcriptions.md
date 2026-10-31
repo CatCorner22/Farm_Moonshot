@@ -2587,5 +2587,17 @@ Printed “Saturday, February 18” on a Thursday-dated paper. Day not averaged.
 
 Diplomatic **Lillie** / **Laura M**. → **C736**.
 
+## DOC211 — 1900 IN Soundex S-415, Noah; Nellie R 2
+- Image: `sources/soundex/in1900-s415-n1584-noah-46-in.jpg` SHA-256 `ae8d3f4306df5d2aa9e503a35e900dcb807ba93122abe2f1eb40e681f92b8128`
+- Continuation: `sources/soundex/in1900-s415-n1585-nellie-r-2.jpg` SHA-256 `aa34362646a40c1abea3838151b5a2eee6ecd6cc3ba2e0a3fb4959f6ad6ca5da`
+- Reel: IA `soundex1900in208` n**1584–1585** rotate **0**
+
+### Diplomatic
+> **S415 Sullivan, Noah** — Head · vol **52** ED **101** sh **13** ln **51** · W Feb **1854** **46** Indiana · Miami / Jefferson Twp · footer `#1 see #2`
+> **Lizzie** W Nov **1859** **40** Indiana; **Milan** S Sept **1883** **16** Michigan; **Grover C** S Aug **1885** **14** Indiana; **Mary** D Aug **1890** **9** Indiana; **Ruth C** D Aug **1892** **7** Indiana
+> n**1585** continuation: **Nellie R** D Oct **1897** **2** Indiana; **Brower, Josiah** B Apr **1834** **65** Ohio
+
+Diplomatic **Nellie R**. → **C738**.
+
 ## DOC009 — 1910 TN Soundex N-550 McCoy window (nil)
 Handwritten family/individual cards n2461–n2469. Sequence after Mary C (n2460): Mary D 49 Jefferson (son Layton 11); Mary M 70 Hamilton; Mek. G 50 Cheatham (Florence 19, John 17, General 16, Frances 13, William 10, Doria 6, Luther 1½); Melvin 3½ Giles (gs of Deacon George W); Melvin 54 Giles (SIL of same); Minerva 80 Robertson (gds Lona Neely, Nellie Erwin); Minnie 21 Roane (with Sam P. Sparks); Mitchell 27 Hardin (Ollie P 25, Gladys 4, Burl W 3, Royal E 1 9/12). **No McCoy.** SHA-256 n2463 `23610f8aa4c159b1b554ed1786d11f57d2f56f8a2e8994f7289ae7bd02dfca53`; n2469 `340489566090880388fa6b81ca5751c5944dcaf56a7b44f70fe560788f308586`.

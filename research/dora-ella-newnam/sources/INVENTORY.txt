@@ -1138,3 +1138,11 @@ research/dora-ella-newnam/sources/soundex/in1900-s415-n1448-marion-45-in.jpg
 research/dora-ella-newnam/sources/soundex/in1900-s415-n1449-lillie-3-lauram-4-12.jpg
   sha256: 2fa3b297985842b97f7b174c11cdbdae8ec74a8b25a60223d0c66b9ae7f7179f
   format: JPEG Soundex card, IA soundex1900in208 n1449
+research/dora-ella-newnam/sources/soundex/b007-pass98-1900-in-s415-leftover-no-2026-10-31.txt
+  format: Pass 98 IN S-415 leftover N-O (Missouri→Patrick) search log
+research/dora-ella-newnam/sources/soundex/in1900-s415-n1584-noah-46-in.jpg
+  sha256: ae8d3f4306df5d2aa9e503a35e900dcb807ba93122abe2f1eb40e681f92b8128
+  format: JPEG Soundex card, IA soundex1900in208 n1584
+research/dora-ella-newnam/sources/soundex/in1900-s415-n1585-nellie-r-2.jpg
+  sha256: aa34362646a40c1abea3838151b5a2eee6ecd6cc3ba2e0a3fb4959f6ad6ca5da
+  format: JPEG Soundex card, IA soundex1900in208 n1585
