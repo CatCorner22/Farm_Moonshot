@@ -73,6 +73,8 @@ Place as it was *at the date*; modern equivalent in brackets. Flag impossibiliti
 | Jun 1900 | — | Greene ED **38** every A-side **and** every B-side **nil Stone / Newnam / Dora** (**C280** + **C281**). Greene **37–43** Stone sweep **closed**; only Stone head remains Thomas A. ED **37** sh **18 A** (**C117**) | Springfield, Greene Co., MO | C271 C276 C280 C281 | S264 S266 S267 |
 | 24 Feb 1920 | — | Tom A. Stone, 62 wd, b. MO, FIL of Tom M. Randall, tie maker | Howell Twp, Perry Co., AR ED 75 sh 8B | C050 C145 | S104 S105 prior |
 | **1920–Aug 1926** | 48–55 | **Probable** residence Lamar / Carter Cove sector after m2 **T. A. Stone** — **no census line for P001 as Mrs. Stone** after **ED 200** read (**C213**); Coy at Danville (1920) then informant **Ola** (1926) | Yell Co., AR (Lamar Twp / Ola / Carter Cove) | C211 C213 | S003 S078 S117 S225 C014 |
+| **1921** (directory year) | ~50 | Licensed MDs at **Ola**: W. R. Brewer, Geo. C. Davis, Wm. Harkey. **No T. W. Beal.** Thos. J. Pool at **Danville**. Mammoth Spring = Fulton Co. (not the DC “Mammoth”) | Ola / Danville, Yell Co., AR | C370 C371 C372 C374 | S291 |
+| **1929** (directory year) | — (after death) | Licensed MDs at **Ola**: Ballenger, Harkey (retired), Hunt, Miller, **Thos. J. Pool** (now at Ola). **Still no Beal.** Brewer and Davis gone | Ola, Yell Co., AR | C373 C372 | S296 |
 
 | 1896–1926 | — | **No Lee Co. license** for Dora Newnam/Newman × Peebles/Stone (Books 5–19); **no Peebles surname** in those books | Lee Co., KY | C084 | S064 |
 | 1916–1930 | — | **No Perry Co. license** for Dora × Peebles/Stone; Peoples present, Peebles absent | Perry Co., AR | C085 | S065 |

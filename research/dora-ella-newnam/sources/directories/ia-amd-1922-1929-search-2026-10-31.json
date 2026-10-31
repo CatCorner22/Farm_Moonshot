@@ -1,0 +1,1 @@
+{"responseHeader":{"status":0,"QTime":117,"params":{"query":"title:(american medical directory) AND year:[1922 TO 1929]","qin":"title:(american medical directory) AND year:[1922 TO 1929]","fields":"identifier,title,year","wt":"json","rows":15,"start":0}},"response":{"numFound":1,"start":0,"docs":[{"identifier":"bwb_T3-BRL-424","title":"American Medical Directory","year":1929}]}}
