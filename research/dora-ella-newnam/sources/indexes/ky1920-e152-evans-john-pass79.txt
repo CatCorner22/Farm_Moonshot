@@ -1,0 +1,59 @@
+Pass 79 — 1920 KY Soundex E-152 denser leftover John leaves (ky047)
+NARA M1563 reel 47 / IA soundex1920ky047. Image-seen 30 Oct 2026 America/New_York.
+Extends Pass 76 sampled every-10 (1420-1515). This pass: leftover evens 1422-1514
+plus 1511-1514. Sequential JP2 zip. Tesseract is a flagger only (missed 1511).
+
+1511 Evans, John W. W 54 KY Owsley vol 76 ED 88 sh 1 ln 72 x Cassel W 19 + Molly M 18
+  ORIGINAL (leaf 1039) is Edmonds, John W. 54 S + nephew Carielee 19 + niece Molly 18.
+  DISPROVED as Evans; DISPROVED as 1910 Buffalo John x Susan.
+1432 Evans, John W 59 KY county written Owsley vol 93 ED 300 sh 3 ln 80 x Alice 54
+  + Ed S 32, Wolf S 17, Malry S 13, Arthur S 12; 1434 cont George D S 1 9/12.
+  Owsley 1920 EDs are 88-94 (T625-594). ED 300 is not an Owsley ED (AHGP: Whitley
+  EDs 276-302 on T625-602). Wife Alice + adult children DISPROVE 1910 Buffalo couple
+  regardless. Original of vol 93 ED 300 not fetched this pass.
+
+Other leftover evens DISPROVED as 1910 Buffalo John 45 x Susan 29 + Lula/Robert:
+1422 John 34 Ballard x Pearl 30
+1424 John 59 Rockcastle x Ellen 53 + Clinton 13 + Taylor George N 18
+1426 John 56 Livingston x Ada 43 + Viola 32 Etta 24 Marvin 17 Harry 10
+1428 John 52 Lawrence x Nancy 50
+1436 Eubank John 30 Fleming x Nora
+1438 Evington John 76 Greenup FIL of Starks (A-2)
+1442 continuation Elgie S 2 11/12
+1444 Eubanks John 41 Taylor x Elizabeth
+1446 John 33 Marion x Nannie 31
+1448 continuation McKinley S 9/12 + Leach Samuel FIL 50 + Leach John BL 20
+1452 John 27 Daviess Owensboro x Laura 25 + Curtis 8 Douglas 6 Homer 2 (TN birth)
+1454 John B 40 Jefferson Louisville living alone
+1456 John 66 Martin WV living alone
+1458 John A 42 Carroll x Mildred 45
+1462 John D 66 Bell x Betsy 45 + Leonard 25 Sarah 23 Walter 21 Sudie 13
+1464 John D 65 McLean x Sarah 54 + Carrie 16
+1466 John D continuation Ruth/Vermice/James
+1468 John F 49 Clark Winchester x Sallie (OCR vol 76 was wrong — vol 16 ED 35)
+1472 Epping John G 42 Jefferson Louisville x Annabelle 37 + Nickel Martin L 35
+1474 John H 44 Martin x Nancy 37 + Timothy 20 Margarette 11 Velma 9 Millard 8
+1476 John H 40 Whitley x Flora 35
+1478 Eubanks John H 59 Fleming x Martha 57 Ohio
+1482 John L Mul 48 Jefferson Louisville x Lular L W 38 + Queen John S 22 Elmore L 24 TN
+1484 John L 45 Scott Sadieville x Mary B 34
+1486 John M 51 Mason x Sallie 30 TX
+1488 Evenson John O A-2 21 MN Jefferson, son of Camp Zachary Taylor (Private)
+1492 John R 48 Hickman Clinton x Ruby B 42 + Irene AdD 9
+1494 John R 45 Ohio Marion x Mary C 44 + Tarleton S 8
+1496 John S 66 Madison Infirmary inmate (A-2)
+1498 John Shelton B 60 Bourbon x Mary 46
+1502 John W 42 Fleming Gillespie IN x Eliza E 34
+1504 John W 50 Pendleton x Pessa 39
+1506 John W B 37 Logan brother of Zelma (A-2)
+1508 John W 73 Fleming x Manda 60
+1512 Johnny 7 Estill GS of Skaggs Jane (A-2)
+1513 Evins Jones S 68 Muhlenberg father of K. Pearson (A-2; leaving John)
+1514 Evans Jordan L 67 Daviess
+
+Given-name map after Joseph 1515: 1600 Lee; 1700 Mack; 1800 Mary S; 1900 Oscar;
+2000 Rodney; 2100 Samuel H; 2200 Thomas F.
+Nil Evans, John ~55 x Susan vol 76 ED 92 as head in this denser leftover-even window.
+Residual: not every odd leaf 1421-1514; A-2 in another surname household; death;
+moved out of KY; true ED 92 hh 1-13 filming gap.
+Do not treat Soundex head-nil as proof of death.

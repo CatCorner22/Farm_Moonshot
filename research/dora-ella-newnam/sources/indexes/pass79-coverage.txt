@@ -1,0 +1,13 @@
+Pass 79 coverage — 30 Oct 2026 America/New_York
+Catalog 118 / hasMore false / totalMatched 118. Was 117.
+NEW vs 117: Dora pass 90 backlog (bc-bb0d46cb-78de-55bf-ac6d-1b18beb4b660) RUNNING;
+no IDs imported. Dora B088 Wolfe sheets now IDLE; Bell Wolfe IDLE; John Jennie IDLE.
+Nested reviewer not respawned. Message queue empty.
+This run bc-01a18bb4-e162-785c-9724-86a7c5663bf1.
+Sibling PR #33 C281 not imported. Do not mint C274-C280. Skip C221-C280 / L245-L342 / S259-S266.
+Do not hunt D-540 to prove C833. Do not promote C509.
+Headline: Soundex 1511 Evans John W 54 Owsley ED 88 is original Edmonds John W
+(Hard Rule 6). Denser E-152 John leftover evens and densified Susan window
+nil matching 1910 Buffalo John x Susan. Josephine neighboring-county substitutes
+this pass nil/n/a. B063 and B061 remain open.
+Next unused after this file: C857+ / L739+ / S622+ / DOC154+.

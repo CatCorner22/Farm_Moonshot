@@ -3680,4 +3680,94 @@ Pass 2: Denser remaining J-window **2752–2768** plus Pass 77 **2760–2920** *
 ### Facts extracted → claim IDs
 - C-652 remaining James nil Carmack James Owsley; those Jameses DISPROVED → C839
 
+## DOC150 — 1920 Owsley ED 88 sh 1 B ln 72, Edmonds, John W. (original)
+
+- Header: `sources/census/1920-owsley-ed88-sh1b-hdr.jpg` SHA-256 `3c008a897cea03bce36d66640fa5b1a31ff6d43572b89beecb1f6f7c7e69c2f6`
+- Line-72 band: `sources/census/1920-owsley-ed88-sh1b-ln72-edmonds-john-w.jpg` `c93f7984b60005198302e81520cd6f2561896e88240e2670583e09011e017e1c`
+- Extract: `1920-owsley-ed88-sh1b-edmonds-pass79.txt` `0f2800ffe638a6becccce72059f8de88bcaa6b268210f635598c9f8a8745b42a`
+- Provenance: NARA T625 reel **594** / IA `14thcensusofpopu594unit` leaf **1039**, opened 30 Oct 2026. **Original image-seen.**
+
+### Diplomatic — cited lines
+
+> Sheet **1 B**, ED **88**, Booneville, **12 Jan 1920**, enumerator **W.M. Dooley[?]**. Supervisor's Dist **10**.
+
+> Ln **72** FM **12 13 Edmonds, John W.** Head · O · M · M W **54 S** · Kentucky.
+
+> Ln **73** **Carielee** Nephew · M W **19 S** · Kentucky.
+
+> Ln **74** **Molly** Niece · F W **18 S** · Kentucky.
+
+Pass 2: Surname is **Edmonds**, not Evans. Head is **Single**. Carielee is a nephew; Molly a niece. Not 1910 Buffalo Evans John × Susan.
+
+### Facts extracted → claim IDs
+- Original Edmonds John W 54 S Booneville ED 88 → C847
+
+## DOC151 — 1920 Kentucky Soundex E-152, denser leftover John leaves (derivative)
+
+- Card 1511: `sources/soundex/ky1920-e152-p1511-evans-john-w-54-owsley.jpg` SHA-256 `87b053dde762c7d1151bd41364837c2b9e34622997ef153d2a14f4ce27f4e0de`
+- Card 1432: `…p1432-evans-john-59-owsley-ed300.jpg` `0b87808deac418f1d34acdc91a5492e4099ee5bc2a4d417aaa2ecb7006c0c29c`
+- Extract: `ky1920-e152-evans-john-pass79.txt` `5f1a00b2c2c6ee3ec826004420b15e90deebb50c397b78957147b36bce3719a7`
+- Provenance: NARA M1563 reel **47** / IA `soundex1920ky047`, opened 30 Oct 2026. **Image-seen.** Given-name sort. Extends Pass 76 sampled **1420–1515**.
+
+### Diplomatic — cited cards
+
+> E-152 **Evans, John W.** W **54** Kentucky Owsley vol **76** ED **88** sh **1** ln **72** × Cassel W **19** + Molly M **18**. **DISPROVED** by original **DOC150** (Edmonds; niece; Single).
+
+> E-152 **Evans, John** W **59** Kentucky county written Owsley vol **93** ED **300** sh **3** ln **80** × Alice **54** + Ed 32 / Wolf 17 / Malry 13 / Arthur 12. Continuation George D **1 9/12**. ED **300** is not an Owsley ED (those are **88–94**). **DISPROVED** as 1910 Buffalo John × Susan.
+
+Pass 2: Leftover evens **1422–1514** plus **1511–1514** **nil** Evans, John ~55 × Susan vol **76** ED **92** as head. Residual not every odd leaf **1421–1514**. Tesseract missed 1511; visual-read only.
+
+### Facts extracted → claim IDs
+- Soundex 1511 DISPROVED as Evans by original Edmonds → C848
+- Denser leftover-even Johns DISPROVED / nil Owsley × Susan ED 92 → C849
+- 1432 Alice house DISPROVED; ED 300 not Owsley → C850
+
+## DOC152 — 1920 Kentucky Soundex E-152, densified Susan window (derivative)
+
+- Card 2157: `sources/soundex/ky1920-e152-p2157-eubanks-susan-83-pulaski.jpg` SHA-256 `bc4618d0a51764c54000c44fbf1bf9e02858edd74fc779f81adefcb0f693cde3`
+- Card 2159: `…p2159-effinger-susan-c-81-fulton.jpg` `4a8f6d84d316f8a98e34a7a103bb8fd799935792f6498200788d2d121e4fa4f6`
+- Card 2160: `…p2160-evans-susie-49-louisville.jpg` `f855e5a111cdd46306446b43b322df9e5c2297e2d7aca747252a50913eaad7d8`
+- Card 2163: `…p2163-t-divider.jpg` `00d44dfd4290487e61d977b9aeb015faeb4005db18926e3eb4bdcf2779efad57`
+- Extract: `ky1920-e152-evans-susan-pass79.txt` `c23be77c000e80711fbfd0ab731405db6cf43cafb3a32fd67a17bd15fabcf4d2`
+- Provenance: NARA M1563 reel **47** / IA `soundex1920ky047`, opened 30 Oct 2026. **Image-seen.** Given-name sort. Samuel H at **2100**; T at **2163**.
+
+### Diplomatic — cited cards
+
+> E-152 **Eubanks, Susan** W **83** Kentucky Pulaski mother of Eubanks, William L. · **DISPROVED** (Eubanks; 83 vs ~39; Pulaski vs Owsley).
+
+> E-152 **Effinger, Susan C.** W **81** Kentucky Fulton Hickman + Frances D 58, Harvey S 56, Amice D 53, Jack W S 50 · **DISPROVED**.
+
+> E-152 **Evans, Susie** B **49** Kentucky Jefferson Louisville Walnut 2328 sister-in-law of Bassett A.Z. · **DISPROVED** (Susie; Black 49 vs White ~39; Louisville vs Owsley).
+
+> T given-name divider at leaf **2163**.
+
+Pass 2: Denser **2151–2169** **nil** Evans, Susan ~39 Owsley as head or A-2. Consecutive **2159** then **2160**. Do **not** treat given-name nil as proof of death.
+
+### Facts extracted → claim IDs
+- Densified Susan window nil Evans Susan ~39 Owsley; those Susans DISPROVED → C851
+
+## DOC153 — Josephine×Gilbert ~1902 substitutes and Owsley 1911–1920 Evans DC extracts
+
+- Extract: `josephine-gilbert-pass79.txt` SHA-256 `d506be9dae6c0aeba1d474bc8dcba262e314440b8ff9ca3d53d854e4fc921638`
+- Extract: `owsley-dc-1911-1920-evans-pass79.txt` `a36aab2c2526250b861fb8a97c967c651fdbfd856577e5470e13854bcabecd5e`
+- Provenance: USGenNet/KYGenWeb HTML opened 30 Oct 2026. **HTML-seen**, not civil-register images.
+
+### Diplomatic — cited extracts
+
+> Owsley 1911–1920 DC HTML **nil** decedent Evans, John ~45–55 × Susan. 1914 C drowning is **John NEELEY** (father Harrison NEELEY), not Evans.
+
+> Harlan 1900–02: Com Gilbert × Rebecca Middleton 3 Mar 1901 (other); A.J. Powell × Mary E. Gilbert 17 Apr 1902 (bride Gilbert). **Nil** Josephine Newnam × Gilbert.
+
+> Knott Book 2A (includes 1902–03) **nil** Gilbert/Newman/Newnam/Josephine.
+
+> Madison M–Z OCR: Lillie M Newman × Arthur B Jones 1901 (other). **Nil** Josephine/Josie Newman × Gilbert.
+
+> Rockcastle GILBERT heading (compiled 1851–1900, **n/a** ~1902): Ella 1877 / Hannah 1876 / Mary 1875 / Thomas 1873 — other people.
+
+Pass 2: License still unseen. Breathitt still 403/timeout. Do **not** treat extract-nil as a marriage or a death.
+
+### Facts extracted → claim IDs
+- Owsley 1911–1920 DC nil matching John Evans decedent → C852
+- Josephine neighboring-county substitutes this pass nil/n/a → C853
+
 

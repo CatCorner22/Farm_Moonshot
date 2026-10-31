@@ -1,0 +1,14 @@
+Pass 79 — 1920 Owsley ED 88 Booneville sh 1 B original (Hard Rule 6)
+IA 14thcensusofpopu594unit leaf 1039. Image-seen 30 Oct 2026 America/New_York.
+Header: State Kentucky County Owsley Township Booneville Precinct? / Booneville vis.
+FOURTEENTH CENSUS 1920. Supervisor's District 10. Enumeration District 88. Sheet 1 B.
+Enumerated 12 day of Jan 1920. Enumerator W.M. Dooley[?]. Stamp ~2298 / 819.
+
+Ln 72: FM 12 13 Edmonds, John W. Head  O M  M W 54 S  ... Kentucky
+Ln 73:              Carielee        Nephew     M W 19 S  ... Kentucky
+Ln 74:              Molly          Niece      F W 18 S  ... Kentucky
+
+Soundex ky047 leaf 1511 wrote Evans, John W. 54 Owsley vol 76 ED 88 sh 1 ln 72
+x Cassel W 19 + Molly M 18. Original surname is Edmonds. Relationship niece not
+wife. Head is Single. Not 1910 Buffalo Evans John 45 x Susan 29 + Lula 4 + Robert 1 1/2.
+ED 88 Booneville is not ED 92 Buffalo.

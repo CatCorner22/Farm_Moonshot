@@ -1,0 +1,33 @@
+Pass 79 — Josephine Newnam x Gilbert ~1902 neighboring-county substitutes
+Opened 30 Oct 2026 America/New_York. License still unseen.
+
+Harlan chronological 1900-02 (date1900_02.html) HTTP 200:
+  Com Gilbert x Rebecca Middleton 3 Mar 1901 (other)
+  A.J. Powell x Mary E. Gilbert 17 Apr 1902 (bride Gilbert, not Josephine Newnam)
+  Josephine Hensley is a witness (other Josephine)
+  Nil Josephine/Josie Newnam/Newman x Gilbert.
+
+Leslie 1900-01 and 1903-04 year files HTTP 200: nil. 1902 year itself is a gap
+between those files.
+
+Powell volunteer Misc.Records.Powell.MARR.txt nil Newman/Newnam/Josephine x Gilbert.
+marindex is selected Bishop/Rogers/Hall certificates, not county-wide 1902.
+
+Magoffin N (n_marr.html) 200: Nickels/Nickell only through 1883; nil Newman.
+G pages 404 at records/marriages/g_marr.html and doubled-path g_marr.html.
+
+Knott Book 1 (1880s-1898) Josephine = Parks/Combs/Jones other women; nil Gilbert/
+Newman/Newnam. n/a ~1902. Book 2A includes 1902-03: nil Gilbert/Newman/Newnam/Josephine.
+
+Rockcastle compiled G/N 1851-1900 (n/a ~1902). GILBERT heading: Ella x Charles A. Reed
+01 June 1877; Hannah x Elias Floyd 13 May 1876; Mary x William Proctor 07 Feb 1875;
+Thomas x Julia Clark 26 Sep 1873 — all other people, all before 1900.
+N file nil Newman/Newnam.
+
+Madison KYGenWeb 1786-1952 M-Z OCR: Newman 1901-03 is Lillie M x Arthur B Jones 1901
+(other). Nil Josephine/Josie Newman x Gilbert. Nil Newnam. A-L Gilbert hits are
+almost entirely "Bradley & Gilbert Company" publisher, not grooms.
+
+Estill still only the two already-filed 1901/1902 minister-return plates.
+Breathitt landing has no marriage link; usgwarchives Breathitt timed out (~40s, 0 bytes)
+as in Pass 72/C785. TFKRHA still 429. Owsley published VS gap 1879-1902; books burned.

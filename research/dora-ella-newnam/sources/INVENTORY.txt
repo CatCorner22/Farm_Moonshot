@@ -1852,4 +1852,60 @@ research/dora-ella-newnam/sources/census/1880-lee-ky-ed59-sheet43-p768-caroline-
   sha256: 075e233c554ce45225babc2f10a9b5e4da64dfb0efb84dac93bd4cd8f43b4288
   format: text extract, 873 bytes
   check: Pass 78 coverage; catalog 117; Daniel Reece PROBABLE
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-e152-p1511-evans-john-w-54-owsley.jpg
+  sha256: 87b053dde762c7d1151bd41364837c2b9e34622997ef153d2a14f4ce27f4e0de
+  format: JPEG photo, 164,608 bytes
+  check: 1920 Soundex E-152 1511 Evans John W 54 Owsley DISPROVED as Edmonds
+/workspace/research/dora-ella-newnam/sources/census/1920-owsley-ed88-sh1b-ln72-edmonds-john-w.jpg
+  sha256: c93f7984b60005198302e81520cd6f2561896e88240e2670583e09011e017e1c
+  format: JPEG photo, 351,426 bytes
+  check: 1920 original ED 88 sh 1 B ln 72 Edmonds John W 54 S
+/workspace/research/dora-ella-newnam/sources/census/1920-owsley-ed88-sh1b-hdr.jpg
+  sha256: 3c008a897cea03bce36d66640fa5b1a31ff6d43572b89beecb1f6f7c7e69c2f6
+  format: JPEG photo, 98,385 bytes
+  check: 1920 ED 88 sh 1 B header Booneville 12 Jan 1920
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-e152-p1432-evans-john-59-owsley-ed300.jpg
+  sha256: 0b87808deac418f1d34acdc91a5492e4099ee5bc2a4d417aaa2ecb7006c0c29c
+  format: JPEG photo, 175,442 bytes
+  check: 1920 Soundex E-152 1432 Evans John 59 ED 300 x Alice DISPROVED
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-e152-p2157-eubanks-susan-83-pulaski.jpg
+  sha256: bc4618d0a51764c54000c44fbf1bf9e02858edd74fc779f81adefcb0f693cde3
+  format: JPEG photo, 165,396 bytes
+  check: 1920 Soundex E-152 Eubanks Susan 83 Pulaski DISPROVED
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-e152-p2159-effinger-susan-c-81-fulton.jpg
+  sha256: 4a8f6d84d316f8a98e34a7a103bb8fd799935792f6498200788d2d121e4fa4f6
+  format: JPEG photo, 161,036 bytes
+  check: 1920 Soundex E-152 Effinger Susan C 81 Fulton DISPROVED
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-e152-p2160-evans-susie-49-louisville.jpg
+  sha256: f855e5a111cdd46306446b43b322df9e5c2297e2d7aca747252a50913eaad7d8
+  format: JPEG photo, 166,338 bytes
+  check: 1920 Soundex E-152 Evans Susie 49 Louisville DISPROVED
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-e152-p2163-t-divider.jpg
+  sha256: 00d44dfd4290487e61d977b9aeb015faeb4005db18926e3eb4bdcf2779efad57
+  format: JPEG photo, 158,821 bytes
+  check: 1920 Soundex E-152 T given-name divider after Susan
+/workspace/research/dora-ella-newnam/sources/indexes/1920-owsley-ed88-sh1b-edmonds-pass79.txt
+  sha256: 0f2800ffe638a6becccce72059f8de88bcaa6b268210f635598c9f8a8745b42a
+  format: text extract, 893 bytes
+  check: 1920 original Edmonds John W Hard Rule 6
+/workspace/research/dora-ella-newnam/sources/indexes/ky1920-e152-evans-john-pass79.txt
+  sha256: 5f1a00b2c2c6ee3ec826004420b15e90deebb50c397b78957147b36bce3719a7
+  format: text extract, 3,326 bytes
+  check: 1920 E-152 leftover-even Johns nil Owsley x Susan ED 92
+/workspace/research/dora-ella-newnam/sources/indexes/ky1920-e152-evans-susan-pass79.txt
+  sha256: c23be77c000e80711fbfd0ab731405db6cf43cafb3a32fd67a17bd15fabcf4d2
+  format: text extract, 2,393 bytes
+  check: 1920 E-152 densified Susan nil Evans Susan ~39 Owsley
+/workspace/research/dora-ella-newnam/sources/indexes/owsley-dc-1911-1920-evans-pass79.txt
+  sha256: a36aab2c2526250b861fb8a97c967c651fdbfd856577e5470e13854bcabecd5e
+  format: text extract, 1,127 bytes
+  check: Owsley 1911-1920 DC nil matching John Evans decedent
+/workspace/research/dora-ella-newnam/sources/indexes/josephine-gilbert-pass79.txt
+  sha256: d506be9dae6c0aeba1d474bc8dcba262e314440b8ff9ca3d53d854e4fc921638
+  format: text extract, 1,769 bytes
+  check: Josephine x Gilbert ~1902 neighboring-county nil/n/a
+/workspace/research/dora-ella-newnam/sources/indexes/pass79-coverage.txt
+  sha256: 2e73d8cbdda20ec74787abcc55b5e4656256c90b8aede61b0ff57e0b664dd4e6
+  format: text extract, 872 bytes
+  check: Pass 79 coverage; catalog 118; Edmonds Hard Rule 6
 
