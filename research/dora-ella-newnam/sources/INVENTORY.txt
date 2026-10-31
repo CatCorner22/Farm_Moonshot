@@ -2834,3 +2834,15 @@ research/dora-ella-newnam/sources/census/1880-lee-ky-ed59-sheet43-p768-caroline-
   sha256: 47b3dd86e0c144acac1b17811534859c88d7162eb800e94e326262d942d8fc61
   format: text extract, 1,078 bytes
   check: T288 IIIF reel 348 HTTP 200 SPA 5454 bytes not IIIF JSON; cards unseen
+/workspace/research/dora-ella-newnam/sources/indexes/pass106-coverage.txt
+  sha256: 243fb40723eabcf5cd0e1f972df8613b96f65fe278ca5fc42d6757a0d87b8d05
+  format: text extract, 2,064 bytes
+  check: Pass 106 coverage; catalog 197 NEW 0; Boyd 1860-1920 covering 1902 nil; T288 timeout 25s
+/workspace/research/dora-ella-newnam/sources/indexes/josephine-gilbert-pass106.txt
+  sha256: 3b3727eeb939fdcb94e4e368aac19390dec319a22eb743ae5e3e62be116dc8bf
+  format: text extract, 4,605 bytes
+  check: Boyd library 1860-1920 covering 1902 nil this couple; Webster 1902 covering nil; Elliott 1957 fire n/a
+/workspace/research/dora-ella-newnam/sources/indexes/t288-timeout-pass106.txt
+  sha256: 8cb368b14c52ceeefe35c5fa52056aeb64bec83b0a0348af2873fe8ff7ee49fc
+  format: text extract, 913 bytes
+  check: T288 IIIF reels 348/347 timeout 25s 0 bytes; cards unseen

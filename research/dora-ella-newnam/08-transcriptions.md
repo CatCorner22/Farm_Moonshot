@@ -5652,3 +5652,57 @@ Pass 2: Do **not** invent T288 card contents. Do **not** promote C509.
 ### Facts extracted → claim IDs
 - IIIF SPA 5,454 bytes; images unseen → C1111
 - B061 remaining gap → C1113
+
+## DOC243 — Catalog + Pass 106 coverage
+
+- Extract: `pass106-coverage.txt` SHA-256 `243fb40723eabcf5cd0e1f972df8613b96f65fe278ca5fc42d6757a0d87b8d05`
+- Provenance: Cursor `list-cloud-agents` includeArchived limit 200, 31 Oct 2026. This run `bc-01a18bb4-e162-785c-9724-86a7c5663bf1`.
+- Access: process listing. **No** new independently image-backed P001 1900–1926 residence.
+
+### Diplomatic — cited extract
+
+> **197** / `hasMore: false` / `totalMatched: 197`. Unchanged vs Pass 105. NEW vs 197 (0; **no IDs imported**). Status-only: Hunt Dora **renamed** B079 still RUNNING (same id). Sibling C281 **not imported**.
+
+Pass 2: Process count only. Skip **C221–C280**. Do **not** promote C509. Do **not** hunt remaining 1930 Owsley sheets.
+
+### Facts extracted → claim IDs
+- catalog 197; NEW 0 process-only → C1114
+- B063 remaining gap → C1119
+- B061 remaining gap → C1120
+
+## DOC244 — Josephine remaining substitutes (Pass 106)
+
+- Extract: `josephine-gilbert-pass106.txt` SHA-256 `3b3727eeb939fdcb94e4e368aac19390dec319a22eb743ae5e3e62be116dc8bf`
+- Coverage: `pass106-coverage.txt` `243fb40723eabcf5cd0e1f972df8613b96f65fe278ca5fc42d6757a0d87b8d05`
+- Provenance: Boyd library 1860–1920 DB (Selenium); Boyd USGW marr.html / Books 1–2; Elliott fire / 1934+ indexes; Webster 1902amar/1902bmar. Opened 31 Oct 2026. **Database-seen / HTML-seen / compiled**. License unseen.
+
+### Diplomatic — cited extracts
+
+> Boyd library 1860–1920 clerk-microfilm database: year 1902 Newman/Newnam/Josephine/Gilbert No results found. Nil Josephine Newnam × Gilbert.
+
+> Webster 1902amar 1 Jan–30 Apr and 1902bmar 4 May–31 Dec covering calendar 1902. Nil this couple. Josie Nance 19 Jan 1902 DISPROVED.
+
+> Elliott December 1957 courthouse fire destroyed prior marriage books; surviving indexes start 1934. n/a as 1902.
+
+Pass 2: License still unseen. Do not close B063.
+
+### Facts extracted → claim IDs
+- Boyd 1860–1920 covering 1902 nil this couple → C1115
+- Elliott fire / Boyd USGW remaining n/a → C1116
+- Webster 1902 covering nil this couple → C1117
+- B063 remaining gap → C1119
+
+## DOC245 — T288 IIIF timeout 25s (Pass 106)
+
+- Extract: `t288-timeout-pass106.txt` SHA-256 `8cb368b14c52ceeefe35c5fa52056aeb64bec83b0a0348af2873fe8ff7ee49fc`
+- Provenance: NARA Catalog IIIF T288-0348-01001 and T288-0347-01001 info.json. Opened 31 Oct 2026. **Access-fail**.
+
+### Diplomatic — cited access results
+
+> Reels 348 and 347 frame 01001 info.json timeout 25s, 0 bytes. Card images unseen.
+
+Pass 2: Do **not** invent T288 card contents. Do **not** promote C509.
+
+### Facts extracted → claim IDs
+- IIIF timeout 25s; images unseen → C1118
+- B061 remaining gap → C1120

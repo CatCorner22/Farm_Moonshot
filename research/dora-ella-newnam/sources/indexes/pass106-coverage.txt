@@ -1,0 +1,35 @@
+Pass 106 coverage — 31 Oct 2026 (America/New_York)
+This run bc-01a18bb4-e162-785c-9724-86a7c5663bf1
+Catalog list-cloud-agents includeArchived limit 200 → 197 / hasMore false / totalMatched 197.
+Was 197 (Pass 105 filing). NEW vs 197 (0; no IDs imported).
+Status-only (not new IDs):
+  Hunt Dora / B078 renamed B079 Estill births and deaths
+    same id bc-aa43eaa5-be23-54be-a20a-7a5238fd33f8 still RUNNING.
+  B054 Carter Cove stones renamed B047 M1509 draft cards
+    same id bc-20e39036-9573-5790-87e8-76e84d742488 still RUNNING.
+  1900–death locations / B092 renamed B007 1910 John in 1900
+    same id bc-6d51c793-cffb-5165-99f1-7d7ac656b317 still RUNNING.
+  B045 Samuel probate / B057 renamed Next free life-detail
+    same id bc-c5415202-619c-5848-aaa6-1ce23094b5fd still RUNNING.
+  MO leftover-M 3752/3812 now IDLE (process-folded Pass 105 NEW).
+  Sibling PR #33 C281 not imported.
+Nested reviewer not respawned. Message queue empty.
+Skip C221–C280 / L245–L342 / S259–S266.
+Do not mint C274–C280. Do not promote C509. Do not hunt D-540.
+Do not close B063. Do not hunt remaining 1930 Owsley sheets (closed Pass 94).
+Do not import C281. Do not invent T288 card contents.
+Do not commit leftover 1920 ED 89 / N-550 JPEGs.
+
+Work this pass:
+- Boyd County Public Library marriages DB OPENED (Selenium GET;
+  covering 1860–1920 transcribed from clerk microfilm, Teresa Martin Klaiber).
+  Year 1902 Newman/Newnam/Josephine/Gilbert/Soundex/Newmon/Neuman/Numan NIL
+  this couple. Year=1902 first page populated (50 couples Abbott–Clark).
+- Boyd USGW marr.html / Books 1–2 / Alley index OPENED as submitted /
+  1860–1865, n/a as the covering 1860–1920 table (that table is the library DB).
+- Elliott 1957 courthouse fire / surviving books 1934+ n/a as 1902.
+- Webster USGW 1902amar + 1902bmar OPENED covering 1 Jan–31 Dec 1902 NIL
+  this couple. Josie Nance 19 Jan 1902 DISPROVED.
+- T288 IIIF reel 348/347 info.json timeout 25s, 0 bytes. Card images unseen.
+
+B061 / B063 remain open. Next unused after this pass: C1121+ / L999+ / S744+ / DOC246+.

@@ -1,0 +1,78 @@
+Pass 106 — Josephine Newnam × Gilbert ~1902 remaining substitutes
+Opened 31 Oct 2026 (America/New_York). Compiled / submitted / database-seen.
+License unseen. Original 1916 DC face unseen. T288 images unseen.
+
+Boyd County Public Library marriages DB OPENED (Selenium against
+https://db.thebookplace.org/search/boyd-marriages.php). About-the-databases:
+covers 1860–1920, transcribed from microfilm copies of the marriages
+(Teresa Martin Klaiber). Form fields gln/bln/bfn/yr (GET). Curl Cloudflare
+403 / dump-dom hung on the form; live Chrome/Selenium submitted.
+
+  Covering 1902 targeted searches — explicit "No results found for search":
+    gln=Newman yr=1902; gln=Newnam yr=1902;
+    bln=Newman yr=1902; bln=Newnam yr=1902;
+    bfn=Josephine yr=1902; gln=Gilbert yr=1902;
+    gln=Newman gln_st=Soundex yr=1902;
+    gln=Newmon / Neuman / Numan yr=1902;
+    gln=Newnam (all years); bln=Newnam (all years);
+    bfn=Josephine + gln=Gilbert (all years).
+  Year=1902 unfiltered first page OPENED (50 couples, Abbott–Clark, books
+  19A/20A Jan–Dec 1902). Year is populated; not a full A–Z line-read
+  (results cap 50). Other 1902 Josie/Dora hits DISPROVED as this couple:
+    Artrip, James × Shelton, Josie 19A 305 21 Apr 1902 (maiden Shelton);
+    Stevens, William × Carter, Josie 19A 503 13 Aug 1902 (maiden Carter);
+    Adkins, V. O. × Moore, Dora 19A 409 27 Jun 1902 (maiden Moore).
+  Newman grooms all years: 34 hits, none 1902. Adjacent other:
+    Newman, Zieton × Abrams, Maud 18A 81 10 Oct 1900 other;
+    Newman, Charles L. × Moore, Blanche 18A 409 5 Jun 1901 other;
+    Newman, Bascom × Beckner, Gertrude 21A 423 29 Jun 1904 other;
+    Newman, Payton × Steed, Josie 37A 487 2 Jun 1913 other (maiden Steed);
+    Newman, Allen × Kendrick, Caroline 1A 141 28 Jan 1862 other (Book 1).
+  Newman brides all years: 26 hits, none 1902. 1903 other:
+    Combs, John × Newman, Mary Belle 20A 259 8 Apr 1903;
+    Shryock, Frank W. × Newman, Nona B. 20A 255 6 Apr 1903.
+  Josephine given-name all years: 50 hits (possible page cap), 0 Newman/
+  Newnam maiden, 0 in 1901–1903. Combined with yr=1902 bfn=Josephine NIL.
+  Gilbert grooms all years: 11 hits, none 1902.
+    Gilbert, Daniel × Grubb, Polly 19A 93 7 Dec 1901 other.
+  Gilbert brides all years: 12 hits, none 1902.
+    Eidson, J. C. × Gilbert, Mariah 19A 31 30 Oct 1901 other;
+    Lucas, Harrison × Gilbert, Bertha 5 47 24 Dec 1915 other
+    (same couple as USGW gilbert724gmr.txt).
+  This is a covering 1860–1920 clerk-microfilm table for 1902. NIL this couple.
+
+Boyd USGW marr.html Wayback 20250905094029id_ OPENED (117,437 bytes).
+  Submitted-couple index (~83 titled couples), not the covering 1860–1920 DB.
+  Nil Newman/Newnam/Josephine. Gilbert, Bertha × Lucas 24 Dec 1915 other.
+  1902 submitted: Kelley×Collins 15 May / Ross×Leicht 10 Sep / Branham×Sexton
+  9 Apr — other. n/a as the covering table.
+  bmarbk1.txt OPENED (Book 1, years 1860–1865; 1902 count 0). n/a as 1902.
+    Allen Newman × Caroline N. Kendrick Jan 1862 other; James H. Davis ×
+    Mary E. Newman 6 Feb 1863 other; Josephine SURNAMER 24 Nov 1862 other;
+    Gilbert Gibbs is the minister, not a groom.
+  bmarbk2.txt OPENED (1862–1865). n/a as 1902. Allen Newman bondsman other.
+  allemarr.txt OPENED (Alley surname, years include 1902). Della + Newman
+    C. L. 1917 other; Charles T. × Quillen, Josephine 1885 other;
+    Malinda × Perdue, Audley V. 1902 other Alley.
+
+Elliott County n/a as a 1902 clerk table:
+  December 1957 courthouse fire destroyed prior marriage books.
+  Surviving kykinfolk ellmar4g.htm / ellmar4b.htm start 1934 (opened;
+  Newman/Newnam/Gilbert 0; Josie Roberts 26 Mar 1937 DISPROVED as this,
+  maiden Roberts / year 1937).
+  USGW Marriages.html submitted 1874–1878 plus 1896/1909/1912; no 1902.
+  KDLA VS Elliott 1874–1878 / 1909–1910 (no 1902) already classified.
+
+Webster USGW covering 1902 OPENED (HTML-seen compiled from KDLA roll 7006226):
+  1902amar.txt 1 Jan–30 Apr 1902 Book 19. Nil Newman/Newnam/Gilbert.
+    Josie Nance × G.W. Hall 19 Jan 1902 p.550 DISPROVED (maiden Nance).
+    A.P. Newton × Lela May Galloway 7 May 1902 other (Newton ≠ Newman).
+  1902bmar.txt 4 May–31 Dec 1902 Book 20. Nil Newman/Newnam/Gilbert/Josephine.
+    Newcome, H.S. p.168 other.
+  Together these two files cover calendar 1902. NIL this couple.
+
+Magoffin 1860–1910 Gardner & Wireman 1981 still purchase-only; not opened.
+Allen KY 1902–1909 KHS microfilm / historical-society on-site; not digital.
+Johnson IA marriagerecordso0002jane still 403 unseen (C1081).
+
+License still unseen. Do not close B063.
