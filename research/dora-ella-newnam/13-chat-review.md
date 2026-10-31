@@ -92,3 +92,19 @@ T623-856 PDF retained (865 pages). Greene ED **39** mapped and visually read for
 ## Instruction for the next chat
 
 Treat `book/Dora-Ella-Newnam-Stone-A-Life.md` and `06-dossier.md` as the combined master. Rebuild the PDF with `python3 scripts/build_dora_book.py` after narrative edits. Do not reopen Peebles as a third marriage without a license. Do not print 1868 or 24 February 1906 as facts. Redact living people. Ancestry remains 403 from this VM — ask the user for a local pull of the 1925 Stone certificate and the 1885 marriage image.
+
+## Supplement 31 Oct 2026 (wrap-up inventory)
+
+`cursor-cloud-list-cloud-agents` (`includeArchived: true`, page size 200): **163** agents, `hasMore: false`. Full coordinator write-up: [`15-wrapup-2026-10-31.md`](15-wrapup-2026-10-31.md).
+
+**`main` is stale relative to three open PRs.** Do not treat pass-61 `main` as the advanced case.
+
+| PR | Branch | Agent | What it added (do not re-do) |
+|---|---|---|---|
+| [#33](https://github.com/CatCorner22/Farm_Moonshot/pull/33) | `cursor/dora-biography-passes-5b6a` | bc-aea168dd (WAITING) + idle B058/B071/1840 workers | Passes **63–117**. 1840/1850 N-walks closed for Laurel/Mont/Estill/Clay. B058 still film-only. |
+| [#31](https://github.com/CatCorner22/Farm_Moonshot/pull/31) | `cursor/dora-locations-1900-death-8d03` | bc-995d22ea (RUNNING) | Pass **94** S-415 Charles–Robert KY/AR/IL/TN. Letha still unplaced. |
+| [#30](https://github.com/CatCorner22/Farm_Moonshot/pull/30) | `cursor/dora-continue-chat-review-3bf1` | bc-01a18bb4 (RUNNING) | Pass **91** 1930 Barrett James × Ollie original. |
+
+**Live leads not duplicated this wrap-up:** 1840 Clark B059 (bc-c271254f); visual-read 95-3 (bc-9d960082); Continue Dora genealogy (bc-7eb25736, empty at fetch); sibling reconstruction `cursor/dora-1900-death-reconstruction-2b6a` (**C305–C316**).
+
+This wrap-up independently verified **B051** (Luther 1945 extract) and **B052** (Shelby × Gracie 1913) from USGenNet pages and filed them as **C1500+** on `main` so those two FAN items are stoppable without merging PR #33.
