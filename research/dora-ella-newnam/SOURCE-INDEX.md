@@ -100,6 +100,9 @@ Captured this session: **31 Oct 2026** (S283–S290, S299–S357). Earlier plate
 | S362 | `sources/census/vanburen/1920/` township bodies + `vanburen-1920-bodies-dora-2026-10-31.txt` | 2026-10-31 | ARGenWeb Van Buren 1920 | vanburen/Census/1920/ | Remaining township bodies incl. Union 149a–158b | Abbie? Stone 37 **rejected**; **nil** P001 (**C1393–C1402**) | transcription only |
 | S363 | `sources/census/ed188/p0303-names.jpg` … `p0319-names.jpg` + `yell-ed188-galla-rock-dora-2026-10-31.txt` | 2026-10-31 | IA `14thcensusofpopu086unit` T625-86 | archive.org/details/14thcensusofpopu086unit | ED 188 Galla Rock 303–319 | Header map + **nil** Mrs T.A. Stone (**C1403–C1405**) | image seen (crops) |
 | S364 | `sources/census/vanburen/1910/` union1–11 + index + rr + `vanburen-1910-union-dora-2026-10-31.txt` | 2026-10-31 | ARGenWeb Van Buren 1910 | vanburen/Census/1910/ | Union 25a–36a + Red River | Newman p.35 = William S.; **nil** P001 (**C1406–C1410**) | transcription only |
+| S365 | `sources/census/vanburen/1910/` remaining bodies + `vanburen-1910-remaining-dora-2026-10-31.txt` | 2026-10-31 | ARGenWeb Van Buren 1910 | vanburen/Census/1910/ | Bloodworth–Washington + Union 12 + heads | **Nil** P001; Griggs Newman local (**C1413–C1422**) | transcription only |
+| S366 | `sources/census/vanburen/1920/` union10–11 + `vanburen-1920-union-after-158b-dora-2026-10-31.txt` | 2026-10-31 | ARGenWeb Van Buren 1920 | vanburen/Census/1920/ | Union 158b–160b | **Nil** P001 (**C1423–C1424**) | transcription only |
+| S367 | `sources/directories/` cleburne/searcy/stone + `year-hole-cleburne-searcy-stone-2026-10-31.txt` | 2026-10-31 | ARGenWeb Cleburne / Searcy / Stone | argenweb.net/cleburne/ etc. | 1910/1920 catalogs + submitted marr | No 1910/1920 transcript; Dora Sutterfield 1896 **rejected** (**C1425–C1426**) | catalog / submitted list |
 
 ## Word biography provenance
 
@@ -125,7 +128,8 @@ See [`sources/authored/PROVENANCE.md`](sources/authored/PROVENANCE.md). Drive se
 | Conway Marriage Book **Z** bride | 19 Aug 1925–28 Jul 1927 Dora Newnam × Stone | **Done** (**C1369–C1371**) |
 | Yell 1920 ED **188** Galla Rock originals | IA T625-86 PDF **303–319** | **Done** (**C1403–C1405** / **B072**) |
 | Van Buren 1920 Union p.150 Stone house | Identify whether Dora is in the house | **Done** — Abbie? 37 wd (**C1394**) |
-| Van Buren 1910 remaining township bodies | Bloodworth / Cadron / Davis / Griggs / Hartsugg / Linn Creek / Mountain / Sulphur / Washington / Choctaw / Grove | Union 25a–36a + RR **done** (**C1406–C1410**); rest **B073** |
+| Van Buren 1910 remaining township bodies | Bloodworth / Cadron / Davis / Griggs / Hartsugg / Linn Creek / Mountain / Sulphur / Washington / Choctaw / Grove | **Done** published bodies (**C1413–C1422** / **B073**); unpublished slugs **404** (**B074**) |
+| Van Buren 1920 Union after 158b | Pages after 158b if posted | **Done** 159a–160b (**C1423–C1424**) |
 
 ## Variant strings used this session (categories 1–4)
 
@@ -135,7 +139,7 @@ See [`sources/authored/PROVENANCE.md`](sources/authored/PROVENANCE.md). Drive se
 
 **Thomas / T. A. Stone:** Thomas, Tom, T. A., T A × Stone, Store, Stowe (rejects already logged).
 
-Exact strings in `02-log.md` **L343–L352** (pass 60–61), **L361–L372** (pass 62), **L373–L379** (pass 63), **L396–L405** (pass 64), **L406–L418** (pass 65), **L419–L429** (pass 66), **L430–L441** (pass 67), **L442–L455** (pass 68), **L456–L470** (pass 69), and **L471–L484** (pass 70).
+Exact strings in `02-log.md` **L343–L352** (pass 60–61), **L361–L372** (pass 62), **L373–L379** (pass 63), **L396–L405** (pass 64), **L406–L418** (pass 65), **L419–L429** (pass 66), **L430–L441** (pass 67), **L442–L455** (pass 68), **L456–L470** (pass 69), **L471–L484** (pass 70), **L485–L498** (pass 71), **L499–L512** (pass 72), and **L513–L528** (pass 73).
 
 **Pearl / Clyde (pass 63):** Pearl × Newnam/Newman/Jackson; Clyde × Jackson/jacksen. Soundex **N550** / **J250**.
 
@@ -144,3 +148,5 @@ Exact strings in `02-log.md` **L343–L352** (pass 60–61), **L361–L372** (pa
 **Pearl / Clyde (pass 65, B061):** Pearl × Newnam/newman/newnarn/newan/newnom; Clyde × Jackson/jacksen. Soundex **N550** / **J250**. B049 new terms: Carter Cove / Carters Chapel / Coy Newnam / Yell County Record + 1926.
 
 **Dora placement (pass 66, B066):** Dora / posa / dosa / rosa / dona / dara / Nora / Cora / Ella × Newnam / Newman / Stone; Mrs. Stone; Mrs. Newman. Soundex **N550** / **S350**. Bride + mother strings on Owsley/Lee VS and births D/E/S/B.
+
+**Dora placement (pass 73, B073):** Dora / posa / dosa / rosa / dona / dara / Nora / Cora / Ella × Newnam / Newman / Stone; Mrs. Stone; Mrs. Newman. Soundex **N550** / **S350**. Used on Van Buren 1910 remaining township bodies and 1920 Union 159a–160b.

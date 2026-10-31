@@ -1,0 +1,65 @@
+# Extract — Van Buren Co. AR 1910 remaining township bodies (B073)
+# 31 Oct 2026. ARGenWeb vanburen/Census/1910/. Transcription only.
+# Did not refetch Union 25a–36a (union1–11) or Red River (1910rr.htm / 1910index).
+# Did not refetch Perry 1910, opened Perry 1920, ED 191 351–379, ED 188 303–319.
+
+## Files opened this pass (HTTP 200)
+Bloodworth     1910bloodworth.htm + bloodworth1.htm
+Cadron         cadron1–4.htm  (cadron4 has no next)
+Davis          davis1–5.htm   (davis5 has no next)
+Griggs         griggs1–23.htm (griggs23 has no next; last head hh 199 McNeely)
+Hartsugg       hartsugg.htm + hartsugg1.htm
+Linn Creek     linncrk.htm + linncrk2–6.htm
+Mountain       mountain1–5.htm
+Sulphur Spr.   sulpherspgs1–4.htm
+Washington     washington1–8.htm  (washington9 404)
+Choctaw alpha  1910choctaw.html
+Grove alpha    1910grove.html
+Union after 36a  1910union12.htm  (continues 36a; last posted head hh 203 Burgess)
+               union13.htm 404
+
+Head-of-household pages:
+1910hhchoctaw_clevel.html   Choctaw–Cleveland
+1910HHcraig_culpepper.html  Craig–Culpepper
+1910hhdavis_grove.html      Davis–Grove
+1910hh.html (already on disk) Archie Valley–Cargile — re-grepped; no Stone/Newman/Dora head
+
+## Unpublished body slugs (one try each; all HTTP 404)
+1910barnett.htm, 1910bradley.htm, 1910holly.htm, 1910liberty.htm,
+1910wheeler.htm, 1910whiteoak.htm, 1910archey.htm, 1910cargile.htm,
+1910cleveland.htm, 1910craig.htm, 1910culpepper.htm
+
+Households.html listed those townships; landing has heads only (or nothing).
+
+## Stone / Newman surname
+Zero Stone person-rows in the opened bodies (Washington “Stone Mill” is an occupation).
+Newman only in Griggs:
+  hh 23  Newman, James T 22 AR + Sopronia 21 + Nancy 6 / Janie 4
+  hh 115 Pistole, Sam W 36 — Newman, Sammie A Mother 70 GA
+  hh 171 Moore, William C 23 — Newman, Sarah A SIL 14 AR
+Local cluster (same three names on 1910hhdavis_grove.html heads). Not P001 / Coy.
+
+## Age-adjacent Dora / Ella / Dona / Nora rejects (not P001)
+Cadron hh 133: Phillips, James ? 49 + Dora A. wife 44 AR/AR/AR M1 27 12/10
+               + William E / Herbert / Ida / Otis / Ellen / Minnie / Laura / Mitchel + DIL Risener
+Cadron hh 144: Sims, John E. 27 + Sarah C. mother 52 TN + Dora F. sister 31 S AR/AR/TN
+Griggs 101A hh 1: Lankford, Robert C 61 + Dora dau 25 S ARK
+Griggs hh 80: Thomas, James A + Dora wife 22 ARK
+Griggs hh 41: Kemp, Sam + Dora wife 23 ARK
+Davis hh 103: Loftis, James A + Dora wife 22 Mo
+Hartsugg hh 251: Dora E. wife 23 AR
+Linn Creek hh 26: Dora J. wife 18 AR
+Washington hh 111: Dona J. wife 35 AR M1 13 6/4
+Linn Creek hh 78: Nora M. wife 39 Iowa/PA/Ohio M1 20 8/8
+Union12 hh 176: Wilson, Danuel H. + Ella wife 29 Mo/Ill/Mo
+Culpepper heads: Dora Bell b. 1899 AR (~11)
+Choctaw alpha: Ella Rhoades b. 1883 AR (~27)
+Culpepper heads: Newman Wilks b. 1875 MS (given name Newman)
+
+Younger Doras (dau 13–14, wives 17–23) listed in the machine parse; none KY-born ~38 widow of Samuel.
+
+## Verdict
+Opened remaining published 1910 Van Buren township *bodies*: nil P001 ~38 b. KY.
+No Stone house. Newman = Griggs local cluster only.
+Residual unpublished townships (bodies 404) + Griggs after hh 199 + Union after hh 203
+→ originals / B074.

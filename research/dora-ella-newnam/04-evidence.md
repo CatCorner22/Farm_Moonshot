@@ -291,6 +291,9 @@
 | S362 | ARGenWeb Van Buren 1920 township bodies (Bradley / Cleveland / Davis / Griggs / Grove / Hartsuggs / Mountain / Red River / Sulphur Springs / White Oak / Union.htm + union1–9), 31 Oct 2026. Extract `sources/census/vanburen-1920-bodies-dora-2026-10-31.txt`. **Transcription only.** | D (Abbie? Stone 37 other woman; nil P001) | Lynn Risener / Sandra Nichols / volunteer Excel HTML |
 | S363 | 1920 U.S. census, Yell Co. AR, **ED 188** Galla Rock. NARA T625-86; IA `14thcensusofpopu086unit`. Header map + name-column crops PDF pp **303–319** (visual read 31 Oct 2026). Files `sources/census/ed188/p0303-names.jpg` … `p0319-names.jpg` + extract `sources/census/yell-ed188-galla-rock-dora-2026-10-31.txt`. **Image seen** (crops). | O (original crops) | Zona Morehouse, enumerator Jan–Feb 1920 |
 | S364 | ARGenWeb Van Buren 1910 index + Red River + Union 1–11, 31 Oct 2026. Extract `sources/census/vanburen-1910-union-dora-2026-10-31.txt`. **Transcription only.** | D (Newman p.35 = William S.; nil P001) | Riley W. Quattlebaum transcript / 1910 enumerator |
+| S365 | ARGenWeb Van Buren 1910 remaining township bodies (Bloodworth / Cadron 1–4 / Davis 1–5 / Griggs 1–23 / Hartsugg / Linn Creek 1–6 / Mountain 1–5 / Sulphur 1–4 / Washington 1–8 / Choctaw / Grove / Union 12 / three head pages), 31 Oct 2026. Extract `sources/census/vanburen-1910-remaining-dora-2026-10-31.txt`. **Transcription only.** | D (nil P001; Griggs Newman local) | Zora Hicks / Sandra Nichols / Vicky Dennis / Lynn Risener Excel-HTML |
+| S366 | ARGenWeb Van Buren 1920 Union 10–11 (pages 158b–160b), 31 Oct 2026. Extract `sources/census/vanburen-1920-union-after-158b-dora-2026-10-31.txt`. **Transcription only.** union12 **404**. | D (nil P001) | Lynn Risener Excel HTML |
+| S367 | ARGenWeb Cleburne / Searcy / Stone Co. landings + Cleburne census/marriages + Searcy resources + Stone marriages, 31 Oct 2026. Extract `sources/directories/year-hole-cleburne-searcy-stone-2026-10-31.txt`. **Catalog / submitted list.** Cleburne 1924–28 archive **timeout**. | D/A (no 1910/1920 transcript; Dora Sutterfield 1896 rejected) | County coordinators / submitted marriages |
 
 
 ## Claims
@@ -740,7 +743,22 @@
 | C1409 | 1910 Union hh **121**: Blackburn, James W. 33 + **Dora** wife **35** Ar/Tn/Ar m1 14 = 1920 Union Blackburn + Dora 44. Bradbury, Dora 34 S VA also **rejected** | DISPROVED as P001 | S364 L507 | |
 | C1410 | 1910 Union p.**35** hh **168/173**: Newman, **Wiliam S.** 38 Ar + **Laura? E.** 33 Ar + Mary M / Roseana? / Thomas K / John W + BIL Swafford. **No Dora**. Local cluster — **not merged** with P001 or Coy | PROVEN as to that transcript; DISPROVED as P001 | S364 L508 | |
 | C1411 | B057 retrieval path (no new reading): FHL **178898** *Owsley marriages 1843–1929* and **179175** (to 1910) remain **catalog only**. Clerk mail: Austin Bowling, 20 Main St, PO Box 500, Booneville KY 41314; austin.bowling@ky.gov. Phone **not** re-called. Images **not examined** | PROVEN as catalog / address; license **unread** | S337 L509 | B057 |
-| C1412 | Residual after B072: Van Buren 1910 remaining township bodies (not Union 25a–36a / Red River) and 1920 Union after 158b if posted. Dora still **UNKNOWN** Apr 1910 and Jan 1920 | SPECULATIVE as to next host; placement **open** | S362 S363 S364 L512 | B073 |
+| C1412 | Residual after B072: Van Buren 1910 remaining township bodies (not Union 25a–36a / Red River) and 1920 Union after 158b if posted. Dora still **UNKNOWN** Apr 1910 and Jan 1920 | SPECULATIVE as to next host; placement **open** | S362 S363 S364 L512 | B073 — executed this pass |
+| C1413 | Van Buren 1910 remaining published bodies opened: Bloodworth, Cadron 1–4, Davis 1–5, Griggs 1–23, Hartsugg +1, Linn Creek 1–6, Mountain 1–5, Sulphur 1–4, Washington 1–8, Choctaw/Grove alpha, Union **12** (after 36a), three head pages | PROVEN as to those URLs | S365 L513 L519 | B073 |
+| C1414 | Combined those bodies: **nil P001 ~38** b. KY as wife/boarder/MIL. **Zero** Stone person-rows (Washington “Stone Mill” = occupation) | PROVEN as to those transcripts; not an original T624 negative | S365 L519 | |
+| C1415 | 1910 Cadron hh **133**: Phillips, James ? 49 + **Dora A.** wife **44** AR/AR/AR M1 27 12/10 + eight named Phillips children | DISPROVED as P001 | S365 L514 | |
+| C1416 | 1910 Cadron hh **144**: Sims, John E. 27 + Sarah C. mother 52 TN + **Dora F.** sister **31** S AR/AR/TN | DISPROVED as P001 | S365 L514 | |
+| C1417 | 1910 Griggs Dora hits: Lankford dau **25** S; Thomas wife **22**; Kemp wife **23**. Davis Loftis Dora wife **22** Mo. Hartsugg Dora E. wife **23**. Linn Dora J. wife **18** | DISPROVED as P001 | S365 L515 L516 | |
+| C1418 | 1910 Washington hh **111**: Dona J. wife **35** AR M1 13 6/4. Linn Creek hh **78**: Nora M. wife **39** Iowa/PA/Ohio M1 20 8/8 | DISPROVED as P001 | S365 L516 | |
+| C1419 | 1910 Griggs Newman cluster: James T **22** + Sopronia 21 + Nancy/Janie; Sammie A mother **70** GA in Pistole hh **115**; Sarah A SIL **14** in Moore hh **171**. Same three names on Davis–Grove head list | PROVEN as to those households; DISPROVED as P001 / Coy | S365 L515 | FAN only |
+| C1420 | 1910 Union **12** (after 36a): Wilson, Danuel H. + **Ella** wife **29** Mo. Last posted head hh **203** Burgess. union13 **404** | DISPROVED as P001; Union after 203 **unpublished** | S365 L517 | B074 |
+| C1421 | 1910 head pages: Culpepper **Dora Bell** b. **1899** AR; **Newman Wilks** 1875 MS (given name). Choctaw **Ella Rhoades** 1883 AR. Archie Valley–Cargile heads **nil** Stone/Newman/Dora | DISPROVED as P001 | S365 L518 L527 | |
+| C1422 | Unpublished 1910 body slugs (Barnett / Bradley / Holly / Liberty / Wheeler / White Oak / Archey / Cargile / Cleveland / Craig / Culpepper): **HTTP 404** | PROVEN as to those URLs; bodies **unpublished** | S365 L518 | B074 |
+| C1423 | Van Buren 1920 Union **10–11** posted: pages **158b–160b**. Last hh Griffith, Riley L. 40 Ill (dw **236**). union12 **404** | PROVEN as to those URLs | S366 L520 | |
+| C1424 | 1920 Union 159a–160b: **nil P001 ~48**. Carroll Nora wife **23** Ar; Roberts Rosa L. wife **18** Tn; Lossing Dona? F. dau **6**. **No** Stone/Newman row | PROVEN negatives for those transcripts | S366 L520 | |
+| C1425 | Year-hole catalogs: Cleburne census = 1900 + 1930 only (**no** 1910/1920). Searcy resources census through **1900**. Stone census slugs **404**. Cleburne 1924–28 archive **timeout** | PROVEN as to those pages | S367 L521 L522 | year hole |
+| C1426 | Stone Co. submitted marriages: **Dora SUTTERFIELD** × W.B. MANES **11 Jul 1896** (listed twice). **No** Newnam/Newman party; **no** Stone groom 1920–25 on that list | DISPROVED as P001; list is **not** a complete book | S367 L523 | |
+| C1427 | Residual after B073: unpublished VB 1910 township originals (404 slugs); Griggs after hh **199**; Union after hh **203**; Cleburne 1924–28 archive. Dora still **UNKNOWN** Apr 1910 and Jan 1920 | SPECULATIVE as to next host; placement **open** | S365 S366 S367 L526 | B074 |
 | C224 | **1 Jun 1880** population schedule dw **102/102** (ED **59**, **S235**) is **Flanary** + **Brashears**, **not** a **Mays** head; **Mary MAYS** 83 d. **Jan 1880** in mortality hh **102** (**S120**) — **same dwelling number**, decedent absent from June snapshot | PROVEN (original pop. line + mortality transcript) | S235 S120 L248 | Does not identify Pollie Mays stone (**C147**) |
 
 ## Same-person merges (Hard Rule 3)
@@ -781,6 +799,14 @@
 | 1910 New Tennessee Ella Johnson 43 + P001 | Ella; age 43 | b. MS; 2/1; m. 23y to George; son Arthur | **Rejected (C1364)** |
 | 1910 Houston Town Ella L. Steakley 36 + P001 | Ella; age 36 | b. MS; 6/6; six Steakley children; MIL Herndon | **Rejected (C1367)** |
 | 1920 Union Stone, Abbie? 37 wd + P001 | Surname Stone; KY; Union p.150 | Age 37 vs 48; given Abbie?; son Charles 3 (fath. Ill) | **Rejected (C1394)** |
+| 1910 Cadron Phillips Dora A. 44 + P001 | Given Dora; age 44 | b. AR; husband James Phillips 49; M1 27y; 12/10 Phillips children | **Rejected (C1415)** |
+| 1910 Cadron Sims Dora F. 31 sister + P001 | Given Dora | Age 31 vs ~38; single sister; b. AR; mother Sarah C. TN | **Rejected (C1416)** |
+| 1910 Washington Dona J. 35 + P001 | OCR Dona≈Dora; age 35 | b. AR; M1 13y; 6/4; not KY widow | **Rejected (C1418)** |
+| 1910 Linn Creek Nora M. 39 Iowa + P001 | Age 39; OCR Nora | b. Iowa; parents PA/Ohio; M1 20 8/8 | **Rejected (C1418)** |
+| 1910 Griggs Newman James T 22 / Sammie A 70 / Sarah A 14 + P001 / Coy | Surname Newman | Ages 22/70/14; local Sopronia/Pistole/Moore houses; AR/GA | **Rejected (C1419)** |
+| 1910 Culpepper Dora Bell 1899 + P001 | Given Dora | Birth 1899 vs 1871; AR; head age ~11 | **Rejected (C1421)** |
+| 1920 Union 159a Carroll Nora 23 + P001 | Given Nora | Age 23 vs ~48; b. AR; husband John 30; infant Jettie | **Rejected (C1424)** |
+| 1896 Stone Co. Dora Sutterfield × Manes + P001 | Given Dora | Maiden Sutterfield; 1896 while P001 is Samuel’s wife at Sturgeon | **Rejected (C1426)** |
 | 1920 Union Dora West 27 + P001 | Given Dora | Age 27; husband Oscar L. West; sons Eugene etc. | **Rejected (C1395)** |
 | 1920 Grove Dora Skinner 43 + P001 | Given Dora; age 43 | b. IL; husband John Skinner England; Elsie/Ramon | **Rejected (C1397)** |
 | 1920 Red River Dora Shirley 44 + P001 | Given Dora; age 44 | b. AR; husband John C. Shirley; Dora B./Dona E. | **Rejected (C1398)** |

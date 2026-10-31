@@ -161,7 +161,15 @@ Exact strings logged **L485–L498**.
 
 **Dora Stone --also Newman** — given: Dora, posa, dosa, rosa, dona, dara, dore, dori, dola, pora, rora. Surname: Stone, storie, stona, stome, Newman. Soundex **S350** / **N550**. Combined samples: `"Dora Stone"`, `"Stone, Dora"`, `"posa Stone"`, `"Dora Newman"`. Also Ella / Mrs Stone / Mrs Newman / Posa / Nora / Cora as boarder/MIL/wife ~48 on Van Buren 1920 remaining township bodies (especially Union p.150 Stone house) and Yell ED **188** Galla Rock originals.
 
-Exact strings logged **L499+**.
+Exact strings logged **L499–L512**.
+
+## Name-variant storm (pass 73, 31 Oct 2026, `search_variants.py`)
+
+**Dora Newnam --also Newman** — given: Dora, posa, dosa, rosa, dona, dara, dore, dori, dola, pora, rora. Surname: Newnam, newman, newnarn, newan, newnom. Soundex **N550**. Combined samples: `"Dora Newnam"`, `"Newnam, Dora"`, `"posa Newman"`, `"Dora newman"`.
+
+**Dora Stone --also Newman** — given: Dora, posa, dosa, rosa, dona, dara, dore, dori, dola, pora, rora. Surname: Stone, storie, stona, stome, Newman. Soundex **S350** / **N550**. Combined samples: `"Dora Stone"`, `"Stone, Dora"`, `"posa Stone"`, `"Dora Newman"`. Also Ella / Mrs Stone / Mrs Newman / Posa / Nora / Cora as boarder/MIL/wife ~38 on Van Buren 1910 remaining township bodies (Bloodworth / Cadron / Davis / Griggs / Hartsugg / Linn Creek / Mountain / Sulphur Springs / Washington / Choctaw / Grove + head-of-household pages) and 1920 Union after 158b if posted.
+
+Exact strings logged **L513+**.
 
 ## Name-variant storm (pass 70, 31 Oct 2026, `search_variants.py`)
 
