@@ -1,0 +1,42 @@
+Bride_MO.html	rows=361	NS=1	DORA=2	both=0	y20=0	years=1818-1905
+NS	Bride_MO.html	Jerutha | Newman | Jerome | Skidmore | N.H. Hall J.P. | 22 Feb 1872 | S.E. Skidmore | Benjamin Noe | 112/113 | 46 |  | 
+DORA	Bride_MO.html	Dora | Orsborne | Nathaniel | Hensley | E. S. Howard J.P. | 14 Dec 1902 | William Gibbons | William Gibbons, Crockett Hensley | 160/161 | 39 |  | 
+DORA	Bride_MO.html	Ella | Osborn | J. B. | Howard | Rev. J. S. Saylor | 24 May 1901 | Residence of J. H. Saylors | John C. Saylor, Berry Howard | 152/153 | 4 |  | 
+Bride_S.html	rows=323	NS=1	DORA=3	both=0	y20=0	years=1823-1905
+NS	Bride_S.html	Jane | Saylor | John | Newman | J. H. Saylor M. G. | 20 May 1897 | their Residence | D. R. Belcher, Lovy Jane Saylor | 146/147 | 39
+DORA	Bride_S.html	Dora | Saylor | JessM. | Saylor | S. W. Saylor M.G. | 8 Jan 1903 | James Saylor, Sr. | James Saylor, Sr.,Elizabeth Hopkins | 160/161 | 2
+DORA	Bride_S.html	Ella | Saylor | Euell | Hopkins | S. A. Saylor M. G. | 11 Dec 1902 | Home of Bride | Elihu Saylor, J. B. Muncy | 158/159 | 35
+DORA	Bride_S.html	Dora | Stewart | Calvin | Jones | T. G. Harris M.G. | 7 Jun 1902 | Harlan | Perry Farmer, Rebecca Browning | 156/157 | 17
+Groom_MO.html	rows=358	NS=1	DORA=2	both=0	y20=0	years=1818-1905
+NS	Groom_MO.html	John | Newman | Jane | Saylor | J. H. Saylor M. G. | 20 May 1897 | their Residence | D. R. Belcher, Lovy Jane Saylor | 146/147 | 39 |  | 
+DORA	Groom_MO.html	Joseph B. | McKnight | Dora | Cornett | H. S. Rice Min. | 21 Jun 1902 | H. S. Rices house | S. F. Howard, John J. Rice | 156/157 | 36 |  | 
+DORA	Groom_MO.html	James J. | Moore | Dora B. | Witt | Wm N. Rice M. G. | 5 Aug 1903 | Clover Fork | Enoch C. Blair, S. F. Marcum | 162/163 | 42 |  | 
+Groom_S.html	rows=363	NS=1	DORA=3	both=0	y20=0	years=1820-1905
+NS	Groom_S.html	Jerome | Skidmore | Jerutha | Newman | N.H. Hall J.P. | 22 Feb 1872 | S.E. Skidmore | Benjamin Noe | 112/113 | 46 |  | 
+DORA	Groom_S.html	JessM. | Saylor | Dora | Saylor | S. W. Saylor M.G. | 8 Jan 1903 | James Saylor, Sr. | James Saylor, Sr.,Elizabeth Hopkins | 160/161 | 2 |  | 
+DORA	Groom_S.html	Albert | Smith | Dora | Howard | R. Browning | 10 Dec 1903 | Harlan | E. M. Smith, Addie Kelly | 164/165 | 42 |  | 
+DORA	Groom_S.html	Loyd | Smith | Ella | Boggs | John Creech M.B.C. | 6 Mar 1902 | Poor Fork | Hiram Huff, Rebecca McKnight | 156/157 | 19 |  | 
+date1900_02.html	rows=258	NS=0	DORA=11	both=0	y20=0	years=1818-1905
+DORA	date1900_02.html	J. B. | Howard | Ella | Osborn | Rev. J. S. Saylor | 24 May 1901 | Residence of J. H. Saylors | John C. Saylor, Berry Howard | 152/153 | 4 |  | 24
+DORA	date1900_02.html	Loyd | Donnie | Ella | Day | Wm. A. Lee M.G. | 25 May 1901 | Wm. A. Lee | Dempsey Bradford, Finly Hensley | 152/153 | 43 |  | 25
+DORA	date1900_02.html	Samuel | Hensley | Dora | Taylor | Wm. A. Lee M.G. | 17 Oct 1901 | Josh. Taylor | J. F. Skidmore, T. S. Ward | 152/153 | 38 |  | 17
+DORA	date1900_02.html	Hiram | Hensley | Sallie | Kelly | R. Browning | 3 Dec 1902 | Harlan | Dora Smith, Ida Bell Howard | 158/159 | 31 |  | 3
+DORA	date1900_02.html	Euell | Hopkins | Ella | Saylor | S. A. Saylor M. G. | 11 Dec 1902 | Home of Bride | Elihu Saylor, J. B. Muncy | 158/159 | 35 |  | 11
+DORA	date1900_02.html	Nathaniel | Hensley | Dora | Orsborne | E. S. Howard J.P. | 14 Dec 1902 | William Gibbons | William Gibbons, Crockett Hensley | 160/161 | 39 |  | 14
+DORA	date1900_02.html	Simpson | Lyttle | Rebecca | Chandler | R. Browning | 12 Jan 1902 | Harlan | Elizabeth Howard, Dora Howard | 154/155 | 31 |  | 12
+DORA	date1900_02.html	Calvin | Jones | Dora | Stewart | T. G. Harris M.G. | 7 Jun 1902 | Harlan | Perry Farmer, Rebecca Browning | 156/157 | 17 |  | 7
+DORA	date1900_02.html	Joseph B. | McKnight | Dora | Cornett | H. S. Rice Min. | 21 Jun 1902 | H. S. Rices house | S. F. Howard, John J. Rice | 156/157 | 36 |  | 21
+DORA	date1900_02.html	Loyd | Smith | Ella | Boggs | John Creech M.B.C. | 6 Mar 1902 | Poor Fork | Hiram Huff, Rebecca McKnight | 156/157 | 19 |  | 6
+DORA	date1900_02.html	Nathaniel L. | Blanton | Ella | Helton | S. W. Saylor M. G. | 1 Oct 1902 | Salts | E. L. Skidmore, John Blanton, Catherine Colwell | 158/159 | 11 |  | 1
+date1903_05.html	rows=367	NS=0	DORA=11	both=0	y20=0	years=1818-1905
+DORA	date1903_05.html	James J. | Moore | Dora B. | Witt | Wm N. Rice M. G. | 5 Aug 1903 | Clover Fork | Enoch C. Blair, S. F. Marcum | 162/163 | 42 |  | 5
+DORA	date1903_05.html	Albert | Smith | Dora | Howard | R. Browning | 10 Dec 1903 | Harlan | E. M. Smith, Addie Kelly | 164/165 | 42 |  | 10
+DORA	date1903_05.html	JessM. | Saylor | Dora | Saylor | S. W. Saylor M.G. | 8 Jan 1903 | James Saylor, Sr. | James Saylor, Sr.,Elizabeth Hopkins | 160/161 | 2 |  | 8
+DORA	date1903_05.html	C. H. | Rogers | Sallie | Ledford | R. Browning M. G. | 4 May 1903 | Harlan | Rebecca Browning, Dora Howard | 162/163 | 9 |  | 4
+DORA	date1903_05.html	William | Farmer | Ella | Lewis | Enoch Forester M. G. | 8 May 1903 | Enoch Forester | Henry Johnson, Tip Farmer | 162/163 | 17 |  | 8
+DORA	date1903_05.html	Andrew | Flannary | Dora | Edens | Wm. Rice | 19 Feb 1904 | Clover Fork | Harvy L. Flanery, C.F. Bush | 166/167 | 7 |  | 19
+DORA	date1903_05.html	Richard | Wilson | Dora | Hoskins | G. W. Lee M.G. | 3 Jan 1904 | L. B. Saylors | W. P. Saylor, L. B. Saylor | 164/165 | 26 |  | 3
+DORA	date1903_05.html	Critty | Hall | Ella | Hensley | T. G. Harris | 1 Jul 1904 | Brides House | H. F. Fee, Sallie Pope | 168/169 | 24 |  | 1
+DORA	date1903_05.html	David P. | Boggs | Sarah | Boggs | C. Blair | 25 Mar 1904 | Sarah Boggs | Boyd Boggs, Ella Smith | 166/167 | 14 |  | 25
+DORA	date1903_05.html	Larkin J. | Howard | Dora | Howard | E. L. Orsborn M.G. | 31 May 1904 | E. L. Orsborn | Elisha Howard, Elijah Howard | 168/169 | 19 |  | 31
+DORA	date1903_05.html	James R. | Gilliam | Ella | Blair | Charles Blair, M. G. | 28 Apr 1905 | W. J. Blair | A. B. Creech and J. M. Gilliam | 172/173 | 42 |  | 28

@@ -1,11 +1,11 @@
 # Source index — Dora Ella Newnam Stone
 
 Working inventory of **saved local copies** in `sources/` plus the authored Word biography.  
-Full file list (1621 files): [`sources/SOURCE-INVENTORY.tsv`](sources/SOURCE-INVENTORY.tsv) (path, bytes, SHA-256 prefix).
+Full file list (1691 files): [`sources/SOURCE-INVENTORY.tsv`](sources/SOURCE-INVENTORY.tsv) (path, bytes, SHA-256 prefix).
 
 **Access labels:** `image seen` · `index only` · `transcription only` · `catalog only` · `OCR text` · `not yet examined`.
 
-Captured this session: **31 Oct 2026** (S283–S290, S299–S415). Earlier plates remain in `sources/census/`, `sources/soundex/`, and `book/plates/` (see `12-image-gallery.md` and `04-evidence.md`). Pass 60–61 sources S267–S282 remain.
+Captured this session: **31 Oct 2026** (S283–S290, S299–S419). Earlier plates remain in `sources/census/`, `sources/soundex/`, and `book/plates/` (see `12-image-gallery.md` and `04-evidence.md`). Pass 60–61 sources S267–S282 remain.
 
 | ID | Filename | Date captured | Repository | URL | Citation (what / where created / where accessed) | What it proves | Access |
 |---|---|---|---|---|---|---|---|
@@ -151,6 +151,10 @@ Captured this session: **31 Oct 2026** (S283–S290, S299–S415). Earlier plate
 | S413 | `sources/births/knox/` 1901–10 + 1912–20 + `sources/deaths/knox/` D/N/S | 2026-10-31 | Knox KYGenWeb / delayed KY index | kygenweb.net/knox/Births/ | Mother field; deaths 1911–55 D/N/S | **No** mother Dora Newnam; **nil** Dora Stone (**C1651 C1652 C1656**) | transcription |
 | S414 | Leslie births+deaths + Whitley births both folders + deaths 1900–1929 | 2026-10-31 | Leslie / Whitley KYGenWeb | kygenweb.net/leslie/ ; kygenweb.net/whitley/ | Mother field; 1901–29 deaths | **No** mother Dora Newnam; **nil** Mary A. / Dora Stone (**C1653–C1655**) | transcription |
 | S415 | Breathitt 1902–20 + Bell 1911_* / 1921 N/S + deaths D/N/S + Jackson births/marr + Wolfe extract | 2026-10-31 | Breathitt / Bell / Jackson / Wolfe KYGenWeb | kygenweb.net/ | Mother field; 1920–25 marr | **No** mother Dora Newnam; **nil** Dora×Stone (**C1657 C1658**) | transcription / catalog |
+| S416 | `sources/births/bell/` remaining 1921 A–M/O–R/T–Z (23 files) + `bell-1921-remaining-extract-2026-10-31.txt` | 2026-10-31 | Bell KYGenWeb | kygenweb.net/bell/births/ | Mother field remaining 1921 | **No** mother Dora Newnam (**C1660 C1661**) | transcription |
+| S417 | `sources/marriages/jackson/` remaining C–D/E–F/G/H/L–M/R/T/V–Y + I–K local hunt + extract | 2026-10-31 | Jackson KYGenWeb | kygenweb.net/jackson/marry/ | Dora × Stone 1920–25 | **Nil** (**C1662**) | transcription |
+| S418 | Harlan home + births 1911–30 + marr M–O/S + 1900–05 + 1924–25 + 1910/1920 heads + deaths/press | 2026-10-31 | Harlan KYGenWeb | kygenweb.net/harlan/ | Mother/bride/head | **No** mother Dora Newnam; marr stop 1905 (**C1663–C1666**) | transcription / catalog |
+| S419 | Franklin fedland + Spectator 1911 + Conway censusindex/papers1 + IA Solr new-title JSON + `year-hole-b084-2026-10-31.txt` | 2026-10-31 | ARGenWeb Franklin/Conway / IA Solr | argenweb.net/franklin/ ; archive.org | Land / 1910–20 / press | Franklin Newman/Stone **rejected**; Solr **0** (**C1667–C1669**) | transcription / catalog / index |
 
 ## Word biography provenance
 
@@ -197,7 +201,8 @@ See [`sources/authored/PROVENANCE.md`](sources/authored/PROVENANCE.md). Drive se
 | Laurel KY births K/O 1911–23 + deaths 1911–21 | Mother Dora Newnam; Mary A. Newnam | **Done** (**C1640 C1641**). Remaining A/C/G/U **done** (**C1648 C1650**) |
 | Bradley AR marr N/S | Dora Newnam × Stone 1920–25 | **Done** (**C1642**) |
 | Knox / Whitley / Leslie year files | Mother Dora Newnam; Mary A. Newnam | **Done** (**C1651–C1656**). Knox 1911 **404** |
-| Breathitt / Bell / Jackson / Wolfe | 1901–25 name bodies | Breathitt 1902–20 + Bell 1911_* / 1921 N/S **done** (**C1657 C1658**). Residual Bell 1921 remaining + Jackson remaining marr + Harlan (**B084**) |
+| Breathitt / Bell / Jackson / Wolfe | 1901–25 name bodies | Breathitt 1902–20 + Bell 1911_* / 1921 N/S **done** (**C1657 C1658**). Bell remaining 1921 + Jackson remaining marr + Harlan **done** (**C1660–C1666**) |
+| Franklin / Conway / Solr new titles | 1910/1920; land; 1901–26 papers | Franklin **no** 1910/1920; fedland rejected (**C1667**). Conway unpublished (**C1668**). Solr **0** (**C1669**) |
 
 ## Variant strings used this session (categories 1–4)
 
@@ -207,7 +212,7 @@ See [`sources/authored/PROVENANCE.md`](sources/authored/PROVENANCE.md). Drive se
 
 **Thomas / T. A. Stone:** Thomas, Tom, T. A., T A × Stone, Store, Stowe (rejects already logged).
 
-Exact strings in `02-log.md` **L343–L352** (pass 60–61), **L361–L372** (pass 62), **L373–L379** (pass 63), **L396–L405** (pass 64), **L406–L418** (pass 65), **L419–L429** (pass 66), **L430–L441** (pass 67), **L442–L455** (pass 68), **L456–L470** (pass 69), **L471–L484** (pass 70), **L485–L498** (pass 71), **L499–L512** (pass 72), **L513–L528** (pass 73), **L529–L544** (pass 74), **L545–L560** (pass 75), **L561–L576** (pass 76), **L577–L596** (pass 77), **L597–L614** (pass 78), **L615–L632** (pass 79), **L633–L650** (pass 80), **L651–L668** (pass 81), **L669–L686** (pass 82), and **L687–L704** (pass 83).
+Exact strings in `02-log.md` **L343–L352** (pass 60–61), **L361–L372** (pass 62), **L373–L379** (pass 63), **L396–L405** (pass 64), **L406–L418** (pass 65), **L419–L429** (pass 66), **L430–L441** (pass 67), **L442–L455** (pass 68), **L456–L470** (pass 69), **L471–L484** (pass 70), **L485–L498** (pass 71), **L499–L512** (pass 72), **L513–L528** (pass 73), **L529–L544** (pass 74), **L545–L560** (pass 75), **L561–L576** (pass 76), **L577–L596** (pass 77), **L597–L614** (pass 78), **L615–L632** (pass 79), **L633–L650** (pass 80), **L651–L668** (pass 81), **L669–L686** (pass 82), **L687–L704** (pass 83), and **L705–L722** (pass 84).
 
 **Pearl / Clyde (pass 63):** Pearl × Newnam/Newman/Jackson; Clyde × Jackson/jacksen. Soundex **N550** / **J250**.
 

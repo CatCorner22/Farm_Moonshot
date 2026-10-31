@@ -1,0 +1,596 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Harlan County Kentucky, KYGenWeb Project</title>
+
+  <style>
+    :root{
+      --ky-blue: #000066;
+      --ky-maroon: #660000;
+      --ky-gold: #ffcc00;
+      --text: #000;
+      --link: #000;
+      --vlink: #666;
+      --page-w: 960px;
+      --gap: 18px;
+      --font: Calibri, "Segoe UI", Arial, sans-serif;
+    }
+
+    html, body { height: 100%; }
+    body{
+      margin: 0;
+      color: var(--text);
+      background: #fff;
+      font-family: var(--font);
+      line-height: 1.15;
+    }
+
+    /* page container */
+    .wrap{
+      max-width: var(--page-w);
+      margin: 0 auto;
+      padding: 10px 12px 28px;
+    }
+
+    a{ color: var(--link); }
+    a:visited{ color: var(--vlink); }
+    a:hover{ text-decoration: underline; }
+
+    /* top bar (keeps the same 4 color blocks look) */
+    .topbar{
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr 1fr;
+      height: 22px;
+      margin-bottom: 10px;
+    }
+    .topbar > div:nth-child(1){ background: var(--ky-blue); }
+    .topbar > div:nth-child(2){ background: var(--ky-maroon); }
+    .topbar > div:nth-child(3){ background: var(--ky-gold); }
+    .topbar > div:nth-child(4){ background: var(--ky-maroon); }
+
+    /* main two-column header area */
+    .header-grid{
+      display: grid;
+      grid-template-columns: 22% 1fr;
+      gap: var(--gap);
+      align-items: start;
+    }
+    .sidebar{
+      text-align: center;
+    }
+    .sidebar h1{
+      font-size: 28px;
+      margin: 0 0 10px;
+      font-weight: 700;
+    }
+    .sidebar .logo{
+      width: 250px;
+      height: auto;
+      border: 0;
+    }
+    .sidebar .adopt{
+      margin: 14px 0 10px;
+    }
+    .sidebar .label{
+      font-family: Arial, sans-serif;
+      font-size: 14px;
+      margin-top: 10px;
+    }
+    .sidebar .coordinator a{
+      font-family: Arial, sans-serif;
+      font-size: 14px;
+      font-weight: 700;
+      text-decoration: none;
+    }
+    .sidebar .member{
+      margin-top: 18px;
+      font-size: 18px;
+    }
+    .sidebar .usgw{
+      margin-top: 8px;
+    }
+    .sidebar .usgw img{
+      width: 100px;
+      height: auto;
+      border: 0;
+    }
+
+    .maincopy{
+      text-align: center;
+      padding-top: 8px;
+    }
+    .maincopy .notice{
+      max-width: 720px;
+      margin: 0 auto 18px;
+      font-size: 18px;
+    }
+
+    /* link blocks under the notice */
+    .quick-links{
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 26px;
+      justify-items: center;
+      margin: 18px auto 10px;
+      max-width: 720px;
+    }
+    .quick-links h2{
+      font-size: 20px;
+      margin: 0 0 8px;
+      font-weight: 700;
+    }
+    .quick-links .block{
+      text-align: center;
+    }
+    .quick-links .block a{
+      display: inline-block;
+      margin: 6px 0;
+      text-decoration: none;
+    }
+
+    .vitals{
+      text-align: center;
+      margin-top: 10px;
+    }
+
+    /* bottom bar that mirrors the old “blue + maroon spanning” */
+    .bottombar{
+      display: grid;
+      grid-template-columns: 22% 1fr;
+      height: 22px;
+      margin: 12px 0 16px;
+    }
+    .bottombar .left{ background: var(--ky-blue); }
+    .bottombar .right{ background: var(--ky-maroon); }
+
+    /* photo strip */
+    .photos{
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr;
+      gap: 10px;
+      align-items: center;
+      margin: 10px 0 12px;
+    }
+    .photos img{
+      width: 100%;
+      height: auto;
+      display: block;
+    }
+
+    /* origins */
+    .origins h2{
+      font-size: 28px;
+      margin: 6px 0 10px;
+      font-weight: 800;
+    }
+    .origins p{
+      margin: 6px 0;
+      font-size: 18px;
+    }
+    .origins .indent{
+      margin-left: 40px;
+    }
+
+    /* section separators (the repeating blue/gold stripes) */
+    .stripe{
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+      height: 18px;
+      margin: 18px 0 12px;
+    }
+    .stripe > div:nth-child(odd){ background: var(--ky-blue); }
+    .stripe > div:nth-child(even){ background: var(--ky-gold); }
+
+    .stripe.maroon{
+      grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    }
+    .stripe.maroon > div:nth-child(odd){ background: var(--ky-maroon); }
+    .stripe.maroon > div:nth-child(even){ background: var(--ky-gold); }
+
+    /* big multi-column content areas */
+    .section-grid{
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr;
+      gap: 22px;
+      align-items: start;
+    }
+    .section-grid.five{
+      grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    }
+    .panel h3{
+      font-size: 24px;
+      margin: 0 0 10px;
+      font-weight: 800;
+    }
+    .panel a{
+      display: inline-block;
+      margin: 4px 0;
+      text-decoration: none;
+    }
+    .panel .subtle{
+      font-size: 14px;
+    }
+
+    /* small helper for the “two lists” area later on */
+    .two-col{
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 22px;
+    }
+
+    /* footer */
+    .footer{
+      text-align: center;
+      margin-top: 22px;
+      font-size: 16px;
+    }
+
+    /* keep it usable on smaller screens */
+    @media (max-width: 900px){
+      .header-grid{ grid-template-columns: 1fr; }
+      .bottombar{ grid-template-columns: 1fr; }
+      .bottombar .right{ display:none; }
+      .photos{ grid-template-columns: 1fr; }
+      .section-grid{ grid-template-columns: 1fr; }
+      .two-col{ grid-template-columns: 1fr; }
+      .quick-links{ grid-template-columns: 1fr; }
+      .sidebar h1{ font-size: 26px; }
+    }
+  </style>
+</head>
+
+<body>
+  <div class="wrap">
+
+    <div class="topbar" aria-hidden="true">
+      <div></div><div></div><div></div><div></div>
+    </div>
+
+    <section class="header-grid" aria-label="Header">
+
+      <aside class="sidebar">
+        <h1>Harlan County<br/>Kentucky</h1>
+
+        <div class="usgw">
+
+        <p>
+          <a href="http://www.kygenweb.net/"> 
+            <img class="logo" src="kylogoAsm.png" alt="KYGenWeb logo" >
+          </a>
+        </p>
+</div>
+        <p class="adopt">Available for Adoption</p>
+
+        <div class="label">State Coordinator:</div>
+        <div class="coordinator">
+          <a target="_blank" href="https://kygenweb.net/contact.html">Tricia Aanderud</a>
+        </div>
+	<div class="label">County Coordinator</div>
+	<div class="coordinator">
+          <a target="_blank" href="mailto:lckygenweb@gmail.com?subject=Harlan County Query">LC Jones</a>
+        </div>
+
+        <div class="member">a member of</div>
+        <div class="usgw">
+          <a href="http://www.usgenweb.org/">
+            <img src="USGenWebA1WL.gif" alt="USGenWeb Project logo" >
+          </a>
+        </div>
+      </aside>
+
+      <div class="maincopy">
+        <div class="notice">
+          <p>
+            If you have transcribed files pertaining to Harlan County that you would like to donate to
+            this site, contact <a href="mailto:lckygenweb@gmail.com?subject=Harlan County Query">LC Jones</a>. Please do not submit
+            material that you do not own the copy rights to. No files on this site are for sale, they are
+            free for your personal genealogical use only and may not be used for any other purpose.
+          </p>
+          <p>
+            Use transcribed files as a reference and/or starting point as the interpretation is that of
+            the transcriber and the handwriting is often times hard to read.
+          </p>
+          <p>
+            All files on this site are copyrighted by their creator. They may not be reproduced on another
+            site or in any other form without specific permission from the creator. Public information is
+            not in and of itself copyrightable; the format in which they are presented, the notes and
+            comments, etc., are.
+          </p>
+        </div>
+
+        <div class="quick-links">
+          <div class="block">
+            <a href="http://usgwarchives.net/ky/kyfiles.html">USGenWeb Archives for the<br>State of Kentucky</a><br>
+            <!-- <a href="http://boards.ancestry.com/localities.northam.usa.states.kentucky.harlan%20county%20ky/mb.ashx">Harlan Co Message Board</a> -->
+          </div>
+
+          <div class="block">
+            <h2>Neighboring Counties</h2>
+            <a href="/leslie/">Leslie County</a><br>
+            <a href="/knox/">Knox County</a><br>
+            <a href="http://www.usgenwebsites.org/vagenweb/wise/">Wise Co. Va</a><br>
+            <a href="/letcher/">Letcher County</a><br>
+            <a href="/clay/">Clay County</a>
+          </div>
+        </div>
+
+        <div class="vitals">
+          Kentucky Department for Public Health &nbsp;Office of Vital Statistics<br>
+          275 East Main Street &nbsp; Frankfort, KY&nbsp; 40621<br>
+          (502) 564-4212
+        </div>
+      </div>
+    </section>
+
+    <div class="bottombar" aria-hidden="true">
+      <div class="left"></div>
+      <div class="right"></div>
+    </div>
+
+    <section class="photos" aria-label="Photos">
+      <img src="post_harlancocthouse.jpg" alt="Harlan County courthouse">
+      <img src="post_harlancohospital.jpg" alt="Harlan County hospital">
+      <img src="post_harlancoschool1.jpg" alt="Harlan County school">
+    </section>
+
+    <section class="origins" aria-label="Harlan County Origins">
+      <h2>Harlan County Origins</h2>
+      <div class="indent">
+        <p>Harlan County was formed in 1819 from a portion of Knox County.</p>
+        <p>In 1842 it lost a small portion at the northeast end to the formation of Letcher County.</p>
+        <p>It remained the same size until 1867, shortly after the Civil War, when a western portion of the county was taken off to become the eastern half of Bell County.</p>
+        <p>In 1878, part of the northern section of the county was joined to parts of Clay and Perry Counties to become Leslie County.</p>
+      </div>
+    </section>
+
+    <div class="stripe" aria-hidden="true">
+      <div></div><div></div><div></div><div></div><div></div>
+    </div>
+
+    <!-- ROW: Marriages / Births / Deaths -->
+    <section class="section-grid" aria-label="Vital Records">
+      <div class="panel">
+        <h3>Marriages</h3>
+        <div class="two-col">
+          <div>
+            <a href="Bride_AB.html">Bride A-B</a><br>
+            <a href="Bride_CD.html">Bride C-D</a><br>
+            <a href="Bride_EG.html">Bride E-G</a><br>
+            <a href="Bride_H.html">Bride H</a><br>
+            <a href="Bride_IL.html">Bride I-L</a><br>
+            <a href="Bride_MO.html">Bride M-O</a><br>
+            <a href="Bride_PR.html">Bride P-R</a><br>
+            <a href="Bride_S.html">Bride S</a><br>
+            <a href="Bride_TZ.html">Bride T-Z</a><br><br>
+            <span>Misc.</span><br>
+            <a href="Misc_Marr_Cert.html">Certificates</a><br>
+            <a href="mar_1854_1868.html">1854-1868</a><br>
+            <a href="Misc_Marr_1857.html">1857-1862</a><br>
+            <a href="Misc_Marr_1875.html">1875-1891</a><br>
+            <a href="Misc_Marr_1892.html">1892-1894</a><br>
+          </div>
+          <div>
+            <a href="Groom_AB.html">Groom A-B</a><br>
+            <a href="Groom_CD.html">Groom C-D</a><br>
+            <a href="Groom_EG.html">Groom E-G</a><br>
+            <a href="Groom_H.html">Groom H</a><br>
+            <a href="Groom_IL.html">Groom I-L</a><br>
+            <a href="Groom_MO.html">Groom M-O</a><br>
+            <a href="Groom_PR.html">Groom P-R</a><br>
+            <a href="Groom_S.html">Groom S</a><br>
+            <a href="Groom_TZ.html">Groom T-Z</a><br><br>
+            <a href="date1818_29.html">1818-1829</a><br>
+            <a href="date1830_39.html">1830-1839</a><br>
+            <a href="date1840_49.html">1840-1849</a><br>
+            <a href="date1850_59.html">1850-1859</a><br>
+            <a href="date1860_64.html">1860-1864</a><br>
+            <a href="date1865_69.html">1865-1869</a><br>
+            <a href="date1870_79.html">1870-1879</a><br>
+            <a href="date1880_89.html">1880-1889</a><br>
+            <a href="date1890_94.html">1890-1894</a><br>
+            <a href="date1895_99.html">1895-1899</a><br>
+            <a href="date1900_02.html">1900-1902</a><br>
+            <a href="date1903_05.html">1903-1905</a><br>
+            <a href="Marriage%20and%20Divorce%201924-25.html">Misc. 1924-25</a><br>
+            <a href="http://www.angelfire.com/ky2/southeastconnections/marrknox.html">Knox Co</a>
+          </div>
+        </div>
+      </div>
+
+      <div class="panel">
+        <h3>Births</h3>
+        <a href="1852births.html">1852</a><br>
+        <a href="1853births.html">1853</a><br>
+        <a href="1854births.html">1854</a><br>
+        <a href="1855births.html">1855</a><br>
+        <a href="1856_57births.html">1856-1857</a><br>
+        <a href="1857_58births.html">1857-1858</a><br>
+        <a href="1858births.html">1858</a><br>
+        <a href="1859births.html">1859</a><br>
+        <a href="1861births.html">1861</a><br>
+        <a href="1875births.html">1875</a><br>
+        <a href="1903_04births.html">1903-1904</a><br>
+        <a href="1911_20births.txt">1911-1920</a><br>
+        <a href="1921_30births.htm">1921-1930</a><br>
+        <a href="1931_40birth.html">1931-1940</a><br><br>
+        <a href="birth_certificates.html">Misc Birth Certificates</a>
+      </div>
+
+      <div class="panel">
+        <h3>Deaths</h3>
+        <a href="1852deaths.html">1852</a><br>
+        <a href="1853deaths.html">1853</a><br>
+        <a href="1854_55deaths.html">1854-1855</a><br>
+        <a href="1856_57deaths.html">1856-1857</a><br>
+        <a href="1858deaths.html">1858</a><br>
+        <a href="1859deaths.html">1859</a><br>
+        <a href="1875_77deaths.html">1875-1877</a><br>
+        <a href="1878deaths.html">1878</a><br>
+        <a href="1903_04deaths.html">1903-1904</a><br><br>
+
+        <a href="obits.html">Misc Obits</a><br>
+        <a href="death_certificates.html">Misc Death Certificates</a><br><br>
+
+        <a href="1940_49_miners_deaths.html">1913-29 Miners Deaths</a><br>
+        <a href="1930_39_miners_deaths.html">1930-39 Miners Deaths</a><br>
+        <a href="1940_49_miners_deaths.html">1940-49 Miners Deaths</a><br>
+        <a href="1950_59_miners_deaths.html">1950-59 Miners Deaths</a><br><br>
+
+        <a href="death_pace_family.html">Pace Family Deaths</a>
+      </div>
+    </section>
+
+    <div class="stripe maroon" aria-hidden="true">
+      <div></div><div></div><div></div><div></div><div></div>
+    </div>
+
+    <!-- ROW: Census / Court-Deeds-Tax / Military -->
+    <section class="section-grid" aria-label="Research Links">
+      <div class="panel">
+        <h3>Census</h3>
+        <div class="subtle">ARCHIVE FILES</div>
+        <a href="http://files.usgwarchives.net/ky/harlan/census/1820/index.txt">1820 index</a><br>
+        <a href="http://files.usgwarchives.net/ky/harlan/census/1820/pg0102.txt">1820 transcr.</a><br>
+        <a href="http://files.usgwarchives.net/ky/harlan/census/1830/1830indx.txt">1830 index</a><br>
+        <a href="http://files.usgwarchives.net/ky/harlan/census/1830/1830harl.txt">1830 transcr.</a><br>
+        <a href="http://files.usgwarchives.net/ky/harlan/census/1840/1840indx.txt">1840 index</a><br>
+        <a href="http://files.usgwarchives.net/ky/harlan/census/1840/1840harl.txt">1840 transcr.</a><br>
+        <a href="http://files.usgwarchives.net/ky/harlan/census/1850/1850indx.txt">1850 index</a><br>
+        <a href="http://freepages.genealogy.rootsweb.ancestry.com/%7Ekykinfolk/census/1860hc.htm">1860 (off site)</a><br>
+        <a href="1870_surname_district.html">1870 transcr.</a><br>
+        <a href="https://www.familysearch.org/search/catalog/673556?availability=Family%20History%20Library">1880 link</a><br><br>
+
+        <a href="1900census.html">1900</a><br>
+        <a href="1910/Harlan_Ky1910census.html">1910</a><br>
+        <a href="1920/1920censuslist.html">1920</a><br>
+        <a href="https://www.familysearch.org/search/catalog/results?count=20&amp;query=%2Bsubject_id%3A890558">1930 link</a><br>
+        <a href="https://www.familysearch.org/search/catalog/2057757?availability=Family%20History%20Library">1940 link</a><br>
+        <a href="https://www.familysearch.org/1950census/?icid=lihp-an5-8221">1950 link</a>
+      </div>
+
+      <div class="panel">
+        <h3>Court, Deeds, Tax Lists</h3>
+        <a href="http://www.rootsweb.ancestry.com/%7Eseky/datafile/coct/wills/index.html">Will Book Index</a><br>
+        <a href="harlanlandgrants.txt">Harlan Land Grants</a><br>
+
+        <a href="1888HarlanTaxListA_F.html">1888 Tax List A-F</a><br>
+        <a href="1888HarlanTaxListG_L.html">1888 Tax List G-L</a><br>
+        <a href="1888HarlanTaxListM_Z.html">1888 Tax List M-Z</a><br>
+
+        <a href="1891HarlanTaxListA_F.html">1891 Tax list A-F</a><br>
+        <a href="1891HarlanTaxListG_L.html">1891 Tax List G-L</a><br>
+        <a href="1891HarlanTaxListM_Z.html">1891 Tax List M-Z</a><br><br>
+
+        <a href="cox_bingham_green.html">Cox, Bingham, Green</a><br>
+        <a href="court_orders_1917.html">Court Orders 1917</a><br><br>
+
+        <div>John Turner Deposition</div>
+        <a href="turner_john_depo_1_24.html">pgs 1-24</a><br>
+        <a href="turner_john_depo_25_46.html">pgs 25-46</a><br><br>
+
+        <a href="http://www.angelfire.com/ky2/southeastconnections/knoxcourt.html">Early Knox Co Court</a>
+      </div>
+
+      <div class="panel">
+        <h3>Military</h3>
+        <a href="revolutionsol.html">Rev. War Soliders</a><br>
+        <a href="koreanwar.html">Korean War Dead</a><br>
+        <a href="ww2.html">World War II Dead</a><br><br>
+
+        <a href="brock_jesse_pension.html">Jesse Brock Pension</a><br>
+        <a href="howard_sam_rev_pen.html">Sam Howard Pension</a><br>
+        <a href="nolan_john_pension.html">John Nolan Pen Denial</a><br>
+        <a href="smith_henry_rev_patriot.html">Henry Smith - Patriot</a>
+      </div>
+    </section>
+
+    <div class="stripe" aria-hidden="true">
+      <div></div><div></div><div></div><div></div><div></div>
+    </div>
+
+    <!-- ROW: Cemeteries + the “Bios/Articles” columns (kept as two panels) -->
+    <section class="section-grid" aria-label="More">
+      <div class="panel">
+        <h3>Cemeteries, Burials</h3>
+        <a href="http://www.interment.net/data/us/ky/harlan/alva.htm">Alva Mem. off site</a><br>
+        <a href="ceme_ball.html">Ball Cemetery</a><br>
+        <a href="ceme_boggs.html">Boggs Cemetery</a><br>
+        <a href="http://www.interment.net/data/us/ky/harlan/britton.htm">Britton off site</a><br>
+        <a href="ceme_brookside.html">Brookside Cemetery</a><br>
+        <a href="ceme_burkhart.html">Burkhart Cemetery</a><br>
+        <a href="http://www.interment.net/data/us/ky/harlan/dizney.htm">Dizney off site</a><br>
+        <a href="ceme_evarts_mem.html">Evarts Memorial</a><br>
+        <a href="ceme_farmers_mill.html">Farmers Mill Ceme</a><br>
+        <a href="ceme_huff.html">Huff Cemetery</a><br>
+        <a href="ceme_hiram_lewis.html">Hiram Lewis Ceme</a><br>
+        <a href="ceme_metcalf.html">Metcalf Cemetery</a><br>
+        <a href="http://www.angelfire.com/ky2/southeastconnections/harcem.html">Noe off site</a><br>
+        <a href="ceme_sergent.html">Sergent Cemetery</a><br>
+        <a href="ceme_smith_images.html">Smith Cemetery 1</a><br>
+        <a href="ceme_smith.html">Smith Cemetery 2</a><br>
+        <a href="ceme_witt.html">Witt Short Cemetery</a><br>
+        <a href="http://www.interment.net/data/us/ky/harlan/wilson.htm">Wilson off site</a><br><br>
+
+        <a href="http://www.findagrave.com/cgi-bin/fg.cgi?page=csr&amp;CScn=&amp;CScntry=4&amp;CSst=19&amp;CScnty=1036">Find A Grave</a><br>
+        <a href="obit_harlan_connections.html">Misc Obits 1916-90</a>
+      </div>
+
+      <div class="panel">
+        <h3>Bios, Articles, Family Files, Etc.</h3>
+        <a href="Black_Diamond_Festival.html">Harlans First Black Diamond Festival</a><br>
+        <a href="l_n_railroad.html">L &amp; Railroad Comes to Harlan</a><br>
+        <a href="shell_john_testimonial.html">John Shell Testimonials 1920</a><br>
+        <a href="kentucky_fight.html">Kentucky Fight 1886 New York Times</a><br>
+        <a href="ball_pope_ball.html">Jim Pope, Llyod and Sidney Ball Death</a><br>
+        <a href="orphan_girls.html">5 Orphaned Girls</a><br>
+        <a href="cox_pace.html">Jasper Pace and Lon Cox</a><br>
+        <a href="harlan_citizens.html">1925 and 1928; Men Become Citizens</a><br>
+        <a href="hensley_berry_killed.html">Berry Hensley Killed</a><br>
+        <a href="osborne_hiram.html">Hiram Osborne Killed</a><br><br>
+
+        <a href="news_ball_riley.html">Pitsol Battle, Riley Ball Dead</a><br>
+        <a href="1922_news.html">1922 Harlan Co News Artilcles</a><br>
+        <a href="1924articles.html">1924 Articles, Harlan Enterprise</a><br>
+        <a href="1925articles1.html">1925 Articles, Feb 6 Harlan Enterprise</a><br>
+        <a href="1925articles.html">1925 Articles, Feb 13 Harlan Enterprise</a><br>
+        <a href="beal_garland_murder.html">Garland Beal Kills Taylor Brock</a><br>
+        <a href="turner_howard_feud.html">Turner Howard Feud</a><br>
+        <a href="rev_ed_banks.html">Rev. Ed Banks</a><br>
+        <a href="burkhart_gross.html">John Burkhart and John Gross</a><br>
+        <a href="kentucky_tragedy.html">Kentucky Tragedy</a><br>
+        <a href="chester_howard_death.html">Chester Howard Death</a><br>
+        <a href="edward_pace_death.html">Edward Pace Death</a><br>
+        <a href="teachers_1924.html">Teachers in Harlan, 1924</a><br>
+        <a href="eager_george.html">George Eager</a><br>
+        <a href="nolin_turner_death.html">Will Nolin Kills the Turners</a><br>
+        <a href="noe_hiram.html">Hiram Noe</a><br>
+        <a href="johnson_howard_neal.html">Dillard Johnson Kills Howard and Neal</a><br>
+        <a href="KKk.html">KKK at Brookside 1927</a><br>
+        <a href="blanton_john_murder.html">Murder of John Blanton</a><br>
+        <a href="Farley_Bible_Record.html">Farley Family Bible</a><br><br>
+
+        <a href="http://www.carlestes.com/Sunshine1.html">Sunshine, Ky</a><br>
+        <a href="http://www.harlandaily.com/">Harlan Daily Enterprise</a><br><br>
+
+        <a href="photos/photo_list.html"><strong>Photo List</strong></a>
+      </div>
+
+      <div class="panel">
+        <h3>Coal Mines</h3>
+        <a href="Mine%20Deaths%20From%20The%20Harlan%20Miners%20Memorial%20%20Monument.pdf">Harlan Miners Memorial Monument</a><br>
+        <span class="subtle">by Steve Dunn</span><br><br>
+        <a href="coal_mines.html">Coal Mines in Harlan</a><br>
+        <a href="bardo_coal_miners.html">Bardo Coal Miners, 1940</a>
+      </div>
+    </section>
+
+    <div class="footer">
+      Official Harlan County Kentucky KYGenWeb site, a member of the USGenWeb Project<br>
+      ©2020-2026 KyGenWeb Project.
+    </div>
+
+  </div>
+</body>
+</html>
