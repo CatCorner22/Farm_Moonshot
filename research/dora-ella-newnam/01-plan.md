@@ -111,6 +111,28 @@ Regenerated before B056 / B052 queries. Categories **1–4**:
 
 Exact strings logged **L376–L390**.
 
+## Name-variant storm (pass 64, `search_variants.py`, 31 Oct 2026)
+
+Regenerated before B091 / ED 191 / Mammoth / directory queries. Categories **1–4**:
+
+1. **Canonical:** Dora Ella Newnam / Dora Stone; Mammoth / Nimrod / Ola / Plainview / Lamar / Ward; Yell **ED 191** / **ED 200**; Polk Arkansas State Gazetteer.
+2. **User / family:** **Posa Stone** index alias; Newman/Newnam; Mrs. T. A. Stone; Coy / McCoy.
+3. **Machine / OCR given:** Dora, posa, dosa, rosa, dona, dara, dore, dori, dola, pora, rora. Surname: Newnam, newman, newnarn, newan, newnom, Stone, storie, stona, stome. Place OCR: Mammoth / Nimrod. Soundex **N550** / **S350** / **M530**.
+4. **Repository quirks:** IA PDF page vs ED stamp (film order non-sequential); `title:("arkansas state gazetteer")`; GT `postoffices.html` M-block browse; SLCL microfilm table; `Last, First`.
+
+Exact strings logged **L391–L400**.
+
+## Name-variant storm (pass 65, `search_variants.py`, 31 Oct 2026)
+
+Regenerated before B053 queries. Categories **1–4**:
+
+1. **Canonical:** Everett Newnam of Idamay; Frank of Berea; John of Owsley; Mrs Robert Spicer; Callie Moore / Callie Newman / Callie Spicer nee Newnam.
+2. **User / family:** Newman/Newnam; Everet / Evert / Everette; Francis / Franklin; Callie / Calie.
+3. **Machine / OCR given:** Everett (ocr-given: Everett only). Surname: Newnam, newman, newnarn, newan, newnom. Soundex **N550** / **S126** (Spicer) / **M600** (Moore) / **B653** (Brandenburg).
+4. **Repository quirks:** USGenNet `Last, First` (NEWMAN, EVERETT); Buck Creek 1900 `Evert` / 1910 `Everet`; Lee KDI `deaths/kdi/n.html` (not `kdi-n.html`); SortedByName `/letter_n/newman/index_383.html`; Books **20 / 24** heading `Callie Newman` / `Callie Spicer nee Newnam`.
+
+Exact strings logged **L401–L416**.
+
 ## Agent SDK / GitHub channel
 
 Inspected 30 Oct 2026 (**L351**): this repository has **no** `package.json`, **no** `@grok/agent-sdk`, **no** `bot/` directory. GitHub channel `bot/channels/github.ts` is **n/a** and was **not** authored. Project subagent: `.cursor/agents/dora-genealogy-detective.md`.

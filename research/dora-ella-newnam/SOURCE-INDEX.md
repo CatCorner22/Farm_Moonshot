@@ -46,6 +46,17 @@ Captured this session: **30 Oct 2026**. Earlier plates remain in `sources/census
 | S300 | `sources/press/roadsidethoughts-danville-democrat-lccn-2026-10-31.txt` · `ldsgenealogy-yell-newspapers-2026-10-31.txt` | 2026-10-31 | RoadsideThoughts / LDS Genealogy | https://roadsidethoughts.com/ar/millan-xx-yell-localpapers.htm | 1899–1927 *Danville Democrat* LCCN **SN89051010** | **C332** | catalog only |
 | S301 | `sources/press/arheritage-ca-digitized-yell-negative-2026-10-31.txt` | 2026-10-31 | Arkansas Heritage / ADNP | https://www.arkansasheritage.com/chronicling-america-digitized-newspapers | Digitized-title page | **No** Yell 1926 title named (**C333**) | catalog only |
 | S302 | `sources/marriages/lee-book11-charlie-newnam-eva-ross-1914-extract-2026-10-31.txt` | 2026-10-31 | USGenNet Lee Book 11 | https://usgennet.org/usa/ky/county/lee/marriage/marrbook11.html | Charlie Newnam × Eva Ross **11 Jul 1914** | **C326** | transcription only |
+| S305 | `sources/gazetteer/genealogytrails-yell-postoffices-2026-10-31.html` · `genealogytrails-perry-postoffices-2026-10-31.html` · extract | 2026-10-31 | Genealogy Trails | http://genealogytrails.com/ark/yell/postoffices.html | Yell/Perry PO lists | **C335–C339** (sibling B091) | transcription only |
+| S306 | `sources/census/ed191-1920/1920-yell-ed191-full-read-extract-2026-10-31.txt` | 2026-10-31 | NARA T625-86 / IA | https://archive.org/details/14thcensusofpopu086unit | ED 191 full visual nil P001 | **C340** | image seen |
+| S307 | `sources/directories/yell-polk-tax-catalog-2026-10-31.txt` | 2026-10-31 | IA / SLCL / ASA / UALR | — | Gazetteer / poll-tax catalog | **C344–C346** | catalog only |
+| S308 | `sources/census/t625-86-ed-map/1920-yell-t625-86-header-remap-2026-10-31.txt` | 2026-10-31 | NARA T625-86 | https://archive.org/details/14thcensusofpopu086unit | ED 200 true pages ~518–544 | **C347 C348** | image seen |
+| S309 | `sources/census/1900-owsley-buckcreek-2026-10-31.html` · `1900-owsley-buckcreek-hh324-minerva-evert-extract-2026-10-31.txt` | 2026-10-31 | USGenNet 1900 Buck Creek | https://usgennet.org/usa/ky/county/owsley/census/1900/buckcreek.html | Minerva + Evert hh **324/326** | **C349** | transcription only |
+| S310 | `sources/census/1910-owsley-buckcreek-2026-10-31.html` · `1910-owsley-buckcreek-hh134-158-159-extract-2026-10-31.txt` | 2026-10-31 | USGenNet 1910 Buck Creek | https://usgennet.org/usa/ky/county/owsley/census/1910/buck1910.html | Everet / Grant / John / Elizabeth | **C350–C353** | transcription only |
+| S311 | `sources/marriages/lee-marrbook20-2026-10-31.html` · `lee-book20-george-mitchel-nellie-spicer-1926-extract-2026-10-31.txt` | 2026-10-31 | USGenNet Lee Book 20 | https://usgennet.org/usa/ky/county/lee/marriage/marrbook20.html | Nellie Spicer; mother Callie Newman | **C355** | transcription only |
+| S312 | `sources/marriages/lee-marrbook24-2026-10-31.html` · `lee-book24-shelby-arnold-corelia-spicer-1932-extract-2026-10-31.txt` | 2026-10-31 | USGenNet Lee Book 24 | https://usgennet.org/usa/ky/county/lee/marriage/marrbook24.html | Corelia Spicer; mother Callie nee Newnam | **C355** | transcription only |
+| S313 | `sources/deaths/lee-kdi-n-2026-10-31.html` · `lee-kdi-n-newman-extract-2026-10-31.txt` | 2026-10-31 | USGenNet Lee KDI N | https://usgennet.org/usa/ky/county/lee/deaths/kdi/n.html | Nil Everett; Frank 1928 | **C364** | index only |
+| S314 | `sources/obituaries/lee-obits-n-edward-clifton-1936-extract-2026-10-31.txt` | 2026-10-31 | USGenNet Lee obits N | https://usgennet.org/usa/ky/county/lee/obituaries/n.html | Edward + Clifton 1936 | **C357 C358** | transcription only |
+| S315 | `sources/deaths/sortedbyname-newman-index383-2026-10-31.txt` · `sortedbyname-newman-everett-1939-extract-2026-10-31.txt` | 2026-10-31 | SortedByName | https://sortedbyname.com/letter_n/newman/index_383.html | Everett d. 13 Dec 1939 age 53; Lois; Gladys | **C359–C362** | index only |
 
 ## Word biography provenance
 
@@ -63,13 +74,19 @@ See [`sources/authored/PROVENANCE.md`](sources/authored/PROVENANCE.md). Drive se
 | *Danville Democrat* 1899–1927 (LCCN **SN89051010** / OCLC **19026460**) | Arkansas State Archives / county library film — **not** the 1930–45 revival | IA **0**; 1926 issues unread (**B056**) |
 | NARA M1509 rolls **KY45** (Lee), **KY24** (Estill), **KY74** (Owsley), **AR69** (Yell) | FS sign-in or NARA | Cards unread (**B047**) |
 | KDLA / KHS Lee probate 1873–2004 | Film browse Samuel P. Newnam admin. | **B045** |
+| SLCL AR State Gazetteer 1906-07 / 1912-13 microfilm | Ola / Danville / Dardanelle / Stone / Newnam | **R011** |
+| ASA Staples 1924 Ola 8-page map | Street/lot geography, not a resident directory | **R011** |
+| UALR poll-tax 1912–1962 (Yell lists) | Dora / T. A. / Coy Newnam 1917–26 | **R011** |
+| KY Office of Vital Statistics / Madison Co. DC | **Everett Newman/Newnam**, d. **13 Dec 1939**, Lee resident, Madison death, index age **53** | Certificate image unread (**C359**) |
 
 ## Variant strings used this session (categories 1–4)
 
-**Dora / Newnam / Stone / Posa / Shelby / Grace** — generator output pasted in `01-plan.md` (pass 63): Dora, Posa, Dosa, Rosa × Newnam/Newman/Stone; Shelby × Newman/Newnam; Grace × Brandenburg/Brandenburgh. Soundex **N550** / **S350** / **B653** / **S410**.
+**Dora / Newnam / Stone / Posa / Mammoth** — generator output pasted in `01-plan.md` (pass **64**): Dora, posa, dosa, rosa, dona × Stone/storie/stona/stome / Newnam/newman; Mammoth / Nimrod. Soundex **N550** / **S350** / **M530**. Pass 63 Shelby/Grace strings still apply.
 
 **Doll Newnam** (press pass): Doll, Poll, Roll × Newnam/Newman.
 
 **Thomas / T. A. Stone:** Thomas, Tom, T. A., T A × Stone, Store, Stowe (rejects already logged).
 
-Exact strings in `02-log.md` **L343–L352**.
+Exact strings in `02-log.md` **L343–L352**, pass **64** **L391–L400**, and pass **65** **L401–L416**.
+
+**Everett / Callie / Spicer (pass 65):** Everett, Everet, Evert, Everette × Newnam/Newman; Callie × Moore/Newnam/Newman; Robert Spicer. Soundex **N550** / **S126** / **M600**.

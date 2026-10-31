@@ -1,0 +1,15 @@
+# Extract — 1900 Owsley Co. KY, Buck Creek precinct (Kendrick transcript)
+# URL: https://usgennet.org/usa/ky/county/owsley/census/1900/buckcreek.html
+# Captured: 2026-10-31  Access: transcription only (HTML seen)
+# Full local copy: sources/census/1900-owsley-buckcreek-2026-10-31.html
+
+324/326
+Minerva NEWNAM head m w 1/1850 50 wd 9-6 VAVATN
+Callie dau f w 1/1885 15 s KYKYVA
+Evert son m w 11/1886 13 s KYKYVA
+David F. son m w 2/1889 11 s KYKYVA
+
+Notes (this extract):
+- Head is listed sex "m" and marital "wd" (widow). Treat as a sex-code error; children call her mother.
+- Children's nativity KY / KY / VA (father KY, mother VA). Minerva's own nativity VA / VA / TN.
+- Adjacent dwellings 323/325 Harrison TURNER and 325/327 Abner LANGDON — not merged.

@@ -1,0 +1,32 @@
+Extract: Mammoth / Nimrod / Ola post-office test (C204b)
+Captured: 31 Oct 2026
+Access: transcription / compiled lists (Genealogy Trails); WebSearch GNIS/Encyclopedia snippets
+
+1) Genealogy Trails, "Postoffices of Yell County, Arkansas"
+   URL: http://genealogytrails.com/ark/yell/postoffices.html
+   Local: sources/gazetteer/genealogytrails-yell-postoffices-2026-10-31.html (8,572 bytes, HTTP 200)
+   Exact strings grepped on the page: Mammoth, Nimrod, Ola, Plainview, Lamar, Shark, Walnut
+   Result: **Mammoth nil.** **Nimrod nil.** **Lamar nil** (township name, not a PO on this list).
+   Present (among 82 named offices): **Ola (1880-Date)**; **Plainview (1907-Date)**; **Shark (1885-1926)**; **Walnut Tree (1857/1925)**; **Petite Jean (1848/1880)** (Ola's earlier name).
+   M-block offices: Manning, Marvinville, Merritt, Milan, Monrovia, Mosely, Mosley, Mount Nebo, Mounthomer — **no Mammoth**.
+
+2) Genealogy Trails, "Post Offices of Perry County, Arkansas"
+   URL: https://genealogytrails.com/ark/perry/postoffices.html
+   Local: sources/gazetteer/genealogytrails-perry-postoffices-2026-10-31.html (4,042 bytes, HTTP 200)
+   Exact strings: Mammoth, Nimrod, Ola
+   Result: **Mammoth nil.** **Nimrod (1874/1960)** present. Ola not a Perry office.
+
+3) Free web / GNIS snippets (31 Oct 2026) — **index / authored only, not a full GNIS dump**
+   - Mammoth Spring, Fulton Co., AR, populated place GNIS 77585 (~36.49562 N, 91.54070 W); PO opened 1879 (Bluepages / RoadsideThoughts).
+   - No free hit for a Yell or Perry populated place or post office named only "Mammoth."
+   - Mammoth Orange Cafe (Redfield, Jefferson Co., 1966) and Hazen mammoth fossil (Prairie Co.) **rejected** as 1926 residence.
+
+4) Encyclopedia of Arkansas, "Ola (Yell County)"
+   URL: https://encyclopediaofarkansas.net/entries/ola-yell-county-1021/
+   WebSearch snippet 31 Oct 2026 (page not saved — 404 on a wrong slug /1021 is the live path).
+   Incorporated 20 Mar 1900; renamed from Petit Jean 10 Dec 1880; 1920 census population **655**.
+
+Conclusion for the file (claims in 04-evidence.md):
+- Mammoth as a Yell or Perry **post office** is **DISPROVED** on these compiled lists (**C335 C336**).
+- Mammoth Spring, Fulton Co., is a real Arkansas place but is **PROBABLE-rejected** as Dora's 1926 home (death/burial/informant all Ola–Carter Cove) (**C338**).
+- Nimrod (Perry) remains a **POSSIBLE** misread of the unread certificate image (**C204b / C339**).

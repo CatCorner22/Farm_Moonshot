@@ -1,0 +1,52 @@
+Extract: NARA T625 roll 86 / IA item 14thcensusofpopu086unit (597 pp) — header remap
+Captured: 31 Oct 2026
+Access: original images seen (PyMuPDF header crops @1.5–1.6×). Paleography capped with [?].
+
+Purpose: test the pass-29 claim that **ED 200** (Ola / Ward) occupies IA PDF pp **379–519**.
+
+Sampled PDF pages (1-indexed) and header reads (this pass):
+
+| PDF p. | County | Township / place | ED | Sheet (if read) | Notes |
+|---|---|---|---|---|---|
+| 210 | Yell | Dardanelle Twp / Dardanelle | 184[?] | — | not ED 200 |
+| 270 | Yell | Ferguson[?] / Belleville[?] | 187[?] | — | faint |
+| 310 | Yell | Dutch Creek Twp | 188 | — | 3 Feb 1920 |
+| 335 | Yell | Gravelly Hill Twp / Gravelly | 190 | — | confirms prior ED 190 start |
+| 350 | Yell | Gravelly Hill / Gravelly Village | 190 | 8 B[?] | last sampled ED 190 |
+| 351 | Yell | Lamar Twp / Plainview town | **191** | 1 A | **ED 191 start** |
+| 370 | Yell | Lamar / Plainview town | 191 | 10 B | still Plainview |
+| 371 | Yell | Lamar Twp (inc. place blank) | 191 | 11 A | rural Lamar; 19 Jan |
+| 375 | Yell | Lamar Twp | 191 | 13 A | 2 Jan; enhanced page saved under ed191-1920/ |
+| 378 | Yell | Lamar Twp | 191 | 14 B | still ED 191 |
+| 379 | Yell | Lamar[?] | 191[?] / 192[?] | faint | do not invent; last ED 191 page **possible** |
+| 380 | — | blank header | — | B | unused sheet |
+| 381 | Yell[?] | Magazine Twp | 176[?] | — | **not** ED 200 |
+| 385 | Yell | Magazine Twp | 176[?] | 2 A[?] | not ED 200 |
+| 400 | Yell | Mountain Twp | **193** | — | not ED 200 |
+| 420 | Yell | Magazine Twp | 194[?] | — | not ED 200 |
+| 450 | Yell | Mason[?] / other | 196[?] | — | faint; not Ola |
+| 480 | Yell | Richland Twp | **198** | 3 | not ED 200 |
+| 500 | Yell | Riley Twp / Havana town | **199** | — | not ED 200 |
+| 510 | Yell | Riley Twp / Havana town | 199 | — | 17 Jan |
+| 515 | Yell | Riley Twp / Havana town | 199 | — | 23 Jan |
+| 518 | Yell | **Ward Twp** | **200** | 1[?] | **true ED 200 start** |
+| 519 | — | blank header | — | — | unused |
+| 520 | Yell | Ward Twp | 200 | 2[?] | 3 Jan |
+| 525 | Yell | Ward Twp | 200 | 13[?] | still Ward |
+| 530 | Yell | **Ola Town** | 200 | 7[?] | 20 Jan |
+| 540 | Yell | **Ola Town** | 200 | 17 A | last dense Ola sheet sampled |
+| 545 | Yell | **Waveland** Twp | **201** | 2 B | ED 200 ended **before** this page |
+| 546 | Yell | Waveland Twp | 201 | 3 A | 9 Jan |
+| 550 | Yell | Waveland | 201 | 3 A | continues |
+| 560 | Yell | Wilson Twp / Cotton town | 202 | — | |
+| 570 | Yell | Wilson Twp | 202 | — | |
+| 590 | Yell | Wilson Twp / Delta | 202 | 12[?] | |
+
+Conclusion (claims in 04-evidence.md):
+- Pass-29 **S225** page bracket **379–519 = ED 200** is **DISPROVED** as a continuous map (**C347**). Those pages are ED **191** tail, Magazine, Mountain **193**, Richland **198**, Riley/Havana **199**.
+- **True ED 200** on this item is approximately PDF **518–544** (Ward Township then Ola Town). **C213** “full ED 200 read” on the 379–519 bracket is **unsafe** and is recapped.
+- Name-column sample this pass (PDF **518, 520–522, 530, 532, 536, 538, 540**): **no** Dora/Ella/Posa ~48 b. KY as Mrs T.A./Tom A. Stone; **no** Newnam/Newman/McCoy seen on those pages. Prior **C214** “Stone, Dora 45 wife of Samuel, Ola sh 8A” was **not re-found** on the sampled true-ED-200 pages — do not re-assert until relocated (**C348**).
+- Residual: remaining ED 200 sheets (roughly 523–529, 531, 533–534, 537, 539, 541–544) still need a name-column pass (**B092**).
+
+Local header proofs: sources/census/t625-86-ed-map/1920-yell-p0*.png
+IA OCR: item metadata ocr="language not currently OCRable"; negatives are visual.

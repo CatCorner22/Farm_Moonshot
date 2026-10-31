@@ -1,0 +1,29 @@
+# Extract — SortedByName Newman index page 383 (EVERETT block)
+# URL: https://sortedbyname.com/letter_n/newman/index_383.html
+# Captured: 2026-10-31  Access: index only (page text seen)
+# Full local copy: sources/deaths/sortedbyname-newman-index383-2026-10-31.txt
+
+Rows used (verbatim sense of the derivative index):
+
+NEWMAN, EVERETT (father) and CALLIE MOORE had a daughter, LOIS NEWMAN, born
+13 April 1915 in VINCENT, Kentucky, who had Social Security number 405-10-1576,
+and died in September 1989, while residing in Zip Code 40601-0000.
+
+NEWMAN, EVERETT (father) and CALLIE MOORE had a daughter, known by these 4 names:
+GLADYS PARKER, GLADYS M LEGNER, GLADYS M PARKER and GLADYS M NEWMAN, born
+22 March 1922, birthplaces IDAMAY LEE, Kentucky; JDAMAY, Kentucky, SSN 296-38-4552,
+died 9 April 2000, residing Zip Code 45324-5012.
+
+NEWMAN, EVERETT of Lee County, Kentucky died 13 December 1939 at age 53 in
+Madison County, Kentucky, U.S.A.
+
+Reject (not merged with Idamay Everett):
+NEWMAN, EVERETT was born 1 October 1888 in VINCENT OWSL, Kentucky, son of
+DANIEL NEWMAN (father) and SARAH VENABLE, SSN 405-05-5151 (NUMIDENT deceased).
+Different parents; do not merge.
+
+Reject: NEWMAN, EVERETT (father) and EVIE N GREGORY — Longview TX daughter
+(different Everett).
+
+Reject: NEWMAN, EVERETT of Estill County died 26 July 1949 age 31 (too young;
+different county).

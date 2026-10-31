@@ -1,0 +1,18 @@
+# Extract — Lee Marriage Book 24 (Kendrick)
+# URL: https://usgennet.org/usa/ky/county/lee/marriage/marrbook24.html
+# Captured: 2026-10-31  Access: transcription only (HTML seen)
+# Full local copy: sources/marriages/lee-marrbook24-2026-10-31.html
+
+Shelby Grant ARNOLD & Corelia SPICER
+Race: White
+Groom: age 38, born Lee County KY, residence R.R.#5 Brookville OH, single
+  Father: George W. Arnold
+  Mother: Mary Arnold nee Thomas
+Bride: age 21, born Lee County KY, residence Lower Buffalo KY, single
+  Father: Robert Spicer
+  Mother: Callie Spicer nee Newnam
+md: 4 November 1932 Beattyville, KY by Luther Newnam, Minister
+witnesses: Mrs. Luther Newnam & Miss Eloise Newnam
+
+No Everett Newnam/Newman × Callie Moore groom row on this Book 24 HTML (grep).
+Everett given-name hits on this page are other grooms (Brandenburg, etc.).
