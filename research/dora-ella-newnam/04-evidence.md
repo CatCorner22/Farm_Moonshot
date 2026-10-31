@@ -279,6 +279,15 @@
 | S350 | ARGenWeb Perry 1910 landing + Howell (entire census) + Rankin census + Aplin/Houston/Houston Town/Perryville/Casa indexes captured 31 Oct 2026. Extract `sources/census/perry-1910-howell-rankin-dora-2026-10-31.txt`. Files under `sources/census/perry1910/`. **Transcription only.** | D (Howell excludes Tom A. and Dora; Laura B. Butler FAN; Rankin Dora? Goin rejected) | Volunteer transcript / 1910 enumerator |
 | S351 | ARGenWeb Perry marriage Books D (N+S) and E (N+S) + births/deaths/marriages landings captured 31 Oct 2026. Extract `sources/marriages/perry-de-yell-marr-dora-2026-10-31.txt`. **Index / transcription only.** | D (no Dora×Stone 1905–16; McCoy Newman × Ada Bench 1912 not merged) | Shubert compiled index |
 | S352 | ARGenWeb Yell marriage landing + D–F / M–O / S bride pages + `census.htm` **404** + county home, 31 Oct 2026. Same extract as S351. **Index / catalog.** | D (those bride pages are 1842–1878 only; no 1911–25 Dora Stone) | Triller compiled list |
+| S353 | ARGenWeb Perry 1910 remaining township indexes + priority census bodies, 31 Oct 2026. Extract `sources/census/perry-1910-remaining-dora-2026-10-31.txt`. **Transcription only.** | D | Volunteer transcript / 1910 enumerator |
+| S354 | ARGenWeb Perry Books F/G N+S+D, 31 Oct 2026. Extract `sources/marriages/perry-fg-conway-wxy-dora-2026-10-31.txt`. **Index / transcription.** | D | Shubert compiled index |
+| S355 | ARGenWeb Conway / Pope / Perry wills catalog + Conway W/X/Y, 31 Oct 2026. **Index / catalog.** | D | Volunteer compilers |
+| S356 | ARGenWeb Perry 1910 last nine census bodies, 31 Oct 2026. Extract `sources/census/perry-1910-unpublished-dora-2026-10-31.txt`. **Transcription only.** | D (nil P001; zero Stone/Newman) | Volunteer transcript / 1910 enumerator |
+| S357 | ARGenWeb Conway Book Z bride + marriages.htm + nodates.htm, 31 Oct 2026. Extract `sources/marriages/conway-z-nodates-dora-2026-10-31.txt`. **Index / transcription.** | D (no Dora Newnam×Stone) | Euna Beavers compiled table |
+| S358 | ARGenWeb Perry 1920 newly opened census bodies (Houston Town, Cherry Hill, Dry Fork/Dry Creek, Kenney, Lake, Maumelle, Mountain, Omega, Rose, Rowland, South View, Sweet Home, Tyler, Walnut Grove), 31 Oct 2026. Files under `sources/census/perry1920/cen-*.html`. Extract `sources/census/perry-1920-unpublished-and-bodies-dora-2026-10-31.txt`. **Transcription only.** | D (nil P001; George B. Stone 16 other family) | Sharon Smith transcript / 1920 enumerator |
+| S359 | ARGenWeb Perry 1920 landing + eight unpublished census-body slugs **404** + those township indexes, 31 Oct 2026. File `sources/census/perry1920/landing-2026-10-31.html`. **Catalog / 404.** | D (bodies unpublished; indexes head-nil) | Site structure |
+| S360 | 1920 U.S. census, Yell Co. AR, **ED 191** remainder. NARA T625-86; IA `14thcensusofpopu086unit`. Header map + name-column crops PDF pp **351–379** (visual read 31 Oct 2026). Files `sources/census/ed191/1920-yell-ed191-p351-names.jpg` … `p379-names.jpg` + extract `sources/census/yell-ed191-remainder-dora-2026-10-31.txt`. **Image seen** (crops). | O (partial original; remainder now read) | Enumerator Jan 1920 |
+| S361 | Van Buren ARGenWeb 1920 index + Union Shirley Town extract + marriage N+S + deaths 1914–50; Logan home/1901 twp + marriage slugs 404; Faulkner census.html; Yell census 404. Extract `sources/directories/year-hole-vanburen-logan-2026-10-31.txt`. **Index / transcription / catalog.** | D | Gina Heffernan / Karen L. Stevens / county pages |
 
 
 ## Claims
@@ -689,6 +698,26 @@
 | C1370 | Book Z rejects: Greer, Dora 18 × Maxwell 1927; Stone brides Ola/Sybil/Olie 18–19; Stone, Dock 37 × Barnes, Naomi 20 on **3 Oct 1926** (after P001 death); Goforth, Ella Mrs 39 × Smith; Curtis, Dona Mrs 36 | DISPROVED as P001 | S357 L482 | |
 | C1371 | Conway `marriages.htm`: last posted book is **Z**. **No** Book AA+. Z-groom URL **404** (landing mislinks to Y-groom). `nodates.htm` (pre-1914 submissions): only Ella = Gardenhire; **no** Dora/Newnam/Stone | PROVEN as to those pages | S357 L483 | year hole |
 | C1372 | Residual after B070: Perry **1920** unpublished census bodies (Casa / Forest / New TN / Perry twp+town / Petit Jean / Union) and Yell **ED 191** remainder. Dora still **UNKNOWN** Apr 1910 and Jan 1920 | SPECULATIVE as to next host; placement **open** | S356 S357 L484 | B071 |
+| C1373 | Perry 1920 census-body slugs for Casa Town/Twp, Forest, New Tennessee, Perry Twp, Perry Town, Petit Jean, Union: **HTTP 404**. Landing lists **index** only. Those eight indexes: **zero** Stone/Newman/Newnam/Dora/Ella/Posa heads | PROVEN as to those URLs and indexes; bodies **unpublished** | S359 L485 | B071 |
+| C1374 | 1920 Perry **Houston Town** (403 rows): **nil P001 ~48**. **No** Stone/Newman. Griffin, Rosa wife 47 AR of Richard M. (doctor) **rejected**. Rankin Dona 29 AL **rejected**. Smith Dellar? 43 AR **rejected** | PROVEN negatives for that town; DISPROVED as P001 | S358 L486 | |
+| C1375 | 1920 **Cherry Hill**: **nil P001**. Ussery Ella 18 / Benson Ella 21 **rejected**. **No** Stone/Newman | DISPROVED as P001 | S358 L487 | |
+| C1376 | 1920 **Dry Fork** page title **Dry Creek Township** hh **5**: Nooner, Dora wife 38 AR + Joe G. + 9 named Nooner children — **rejected**. **No** Stone/Newman | DISPROVED as P001 | S358 L487 | |
+| C1377 | 1920 **Kenney** hh **30**: Pudinas, Ella wife 35 Russia — **rejected**. **No** Stone/Newman | DISPROVED as P001 | S358 L487 | |
+| C1378 | 1920 **Lake** hh **140**: Bryant, Dora N. wife 29 AR + FIL Keeling — **rejected**. **No** Stone/Newman | DISPROVED as P001 | S358 L487 | |
+| C1379 | 1920 **Maumelle** hh **54**: Smith, Nora wife 49 OH (same 1910 cluster **C1362**) — **rejected**. **No** Stone/Newman | DISPROVED as P001 | S358 L488 | |
+| C1380 | 1920 Mountain / Omega / Rose / Rowland / South View / Sweet Home: **nil P001 ~48**. Omega/Rowland/South View/Sweet Home **zero** hunt-list hits. Rose only Cora Hatley SIL 15. **No** Stone/Newman | PROVEN negatives for those transcripts | S358 L488 | |
+| C1381 | 1920 **Tyler** hh **70**: Teyler, Ella wife 36 AR — **rejected**. hh **104**: Stone, George B. BIL 16 S AR in Newton E. Bell house (Effie 24 VA) — **other family**; **no** Dora in that house | DISPROVED as P001 | S358 L489 | |
+| C1382 | 1920 **Walnut Grove**: **nil P001**. Hope Nora 32 Wd OK / Jaco Mrs Birdie 50 Wd MS **rejected**. **No** Stone/Newman | DISPROVED as P001 | S358 L489 | |
+| C1383 | Combined fourteen newly opened Perry 1920 census bodies: **nil P001**. **Zero** Newman/Newnam rows. Only Stone surname = George B. 16. Residual unpublished bodies remain 404 | PROVEN as to those transcripts; not an original T625 negative for the 404 townships | S358 S359 L490 | |
+| C1384 | Yell 1920 T625-86 header map: true **ED 191** = IA PDF **351–379** (Lamar + Plainview). PDF 318 = ED 188 Galla Rock; 325–331 = ED 187 Gilkey; 335–350 = ED 192 Gravelly Hill. Prior C215 “330–378 = ED 191” is **wrong at the start** | PROVEN as to those headers | S360 L491 | corrects C215 range |
+| C1385 | ED **191** remainder (name-column visual read p351–379): **no** Mrs T. A. Stone ~48 b. KY + McCoy; **no** Tom A. as head; **no** Newman/Newnam house matching P001 | PROBABLE negative (handwriting; some surnames [illegible]) | S360 L492 | |
+| C1386 | ED 191 remainder rejects: p352 wife Dora[?] 28; p363 Cole wife Dora[?]/Nora ~27; p366 Ella wife 36 (surname [illegible]); p376 Johnston, Dora wife 34. C149 Stone/Dora pairs **not** re-isolated — **not relocated** | DISPROVED as P001 | S360 L492 | |
+| C1387 | ED 191 p379: last household [Long?], S.P. 32 + Emma; enumerator **“no more to enumerate.”** ED 191 ends there | PROVEN as to that page | S360 L491 | |
+| C1388 | Year-hole catalogs: Logan marriages/census slugs **404** (`1901twp.htm` = boundaries only). Faulkner census page = Conway 1830–50 only; Faulkner marriages **404**. Yell census.html **404** | PROVEN as to those pages | S361 L493 L494 | year hole |
+| C1389 | Van Buren 1920 index (276 rows): **Stone, Union p.150** only Stone; **no** Newman/Newnam/Dora/Ella heads. Published Union extract is Shirley Town pp **149a–b** only — **nil P001**. Union p.150 body **not yet examined** | PROVEN as to index + Shirley extract; Stone house **unread** | S361 L495 | B072 |
+| C1390 | Van Buren marriage index 1865–1940 letters N+S: **no** Dora/Ella Newnam × Stone; **no** T.A./Tom/Thomas Stone groom 1920–25. Stone grooms J.W. 1901 / Jno W. 1881 / Lonnie 1922. Local Newman cluster **not** Dora or Coy | PROVEN as to those letter pages | S361 L496 | year hole |
+| C1391 | Van Buren compiled deaths 1914–50: **no** Dora/Posa Stone 23 Aug 1926. Newman (blank given) 18 Sep 1926 **not merged**. Stone, Edward E. 1858–1944 **rejected** | PROVEN as to that compilation; DISPROVED as P001 for named rejects | S361 L497 | |
+| C1392 | Residual after B071: Van Buren 1920 remaining township bodies (Union p.150 Stone) and Yell **ED 188** Galla Rock originals. Dora still **UNKNOWN** Apr 1910 and Jan 1920 | SPECULATIVE as to next host; placement **open** | S358 S360 S361 L498 | B072 |
 | C224 | **1 Jun 1880** population schedule dw **102/102** (ED **59**, **S235**) is **Flanary** + **Brashears**, **not** a **Mays** head; **Mary MAYS** 83 d. **Jan 1880** in mortality hh **102** (**S120**) — **same dwelling number**, decedent absent from June snapshot | PROVEN (original pop. line + mortality transcript) | S235 S120 L248 | Does not identify Pollie Mays stone (**C147**) |
 
 ## Same-person merges (Hard Rule 3)
@@ -734,6 +763,18 @@
 | 1910 Lake Dora McGhee 6 + P001 | Given Dora | Age 6; parents Robert W. + Mary McGhee | **Rejected (C1361)** |
 | 1925–27 Conway Greer, Dora 18 + P001 | Given Dora | Age 18 vs ~54; groom Maxwell; 1927 | **Rejected (C1370)** |
 | 1926 Conway Stone, Dock 37 × Barnes Naomi + P001 | Groom surname Stone | Bride Naomi 20; 3 Oct 1926 after P001 death | **Rejected (C1370)** |
+| 1920 Houston Town Griffin Rosa 47 + P001 | Age 47 | Given Rosa; b. AR; husband Richard M. Griffin, doctor | **Rejected (C1374)** |
+| 1920 Dry Creek Nooner Dora 38 + P001 | Given Dora; age 38 | Husband Joe G. Nooner; 9 named Nooner children; b. AR | **Rejected (C1376)** |
+| 1920 Lake Bryant Dora N. 29 + P001 | Given Dora | Age 29 vs ~48; b. AR; FIL Keeling; Bryant children | **Rejected (C1378)** |
+| 1920 Maumelle Smith Nora 49 OH + P001 | Age 49 | Given Nora; b. OH; same 1910 Benjamin Smith cluster | **Rejected (C1379)** |
+| 1920 Tyler Teyler Ella 36 + P001 | Ella | Age 36; b. AR; Teyler children Silva/Selava/Vernon | **Rejected (C1381)** |
+| 1920 Tyler Stone George B. 16 + Tom A. / P001 | Surname Stone; Perry | Age 16; BIL of Newton Bell; Effie b. VA | **Rejected (C1381)** |
+| 1920 Kenney Pudinas Ella 35 + P001 | Ella | b. Russia; husband Chas Pudinas 55 Russia | **Rejected (C1377)** |
+| 1920 ED 191 Johnston Dora 34 + P001 | Given Dora | Age 34; Johnston children | **Rejected (C1386)** |
+| 1920 ED 191 Cole wife Dora[?] ~27 + P001 | Given Dora? | Age ~27; two young Cole daughters | **Rejected (C1386)** |
+| 1920 ED 191 Ella wife 36 + P001 | Ella | Age 36 vs ~48; surname [illegible] | **Rejected (C1386)** |
+| 1926 Van Buren Newman (no given) 18 Sep + P001 | Surname Newman; 1926 | No given name; Van Buren vs Yell; 26 days after proven Ola death | **Not merged (C1391)** |
+| 1922 Van Buren Lonnie Stone × Murphee + T.A. Stone | Surname Stone | Groom Lonnie; bride Berdie; 31 Dec 1922 | **Rejected (C1390)** |
 | 1920 Perryville Amanda S. Stone 56 + P001 | Surname Stone | Born AR; dau Nora J. 32; not Tom A.’s house | **Rejected (C1313)** |
 | 1920 Sturgeon Dora 37 nee JUDD (Hall Mays) + P001 | Given name Dora | Age 37; maiden Judd; living children in that house | **Rejected (C126 cluster / this pass)** |
 | 1920 Sturgeon Pearl 24 nee NEWMAN in Clyde Jackson hh + P001 | Daughter’s married household | P001 would be mother ~48; she is not listed | **Not the same line — child located, mother absent (C305)** |

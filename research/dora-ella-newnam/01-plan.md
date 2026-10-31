@@ -151,6 +151,12 @@ Exact strings logged **L361–L372**. Ages from `kinship.py`: 28 (1 Jun 1900), 3
 
 Exact strings logged **L343–L360**.
 
+## Name-variant storm (pass 71, 31 Oct 2026, `search_variants.py`)
+
+**Dora Stone --also Newman** — given: Dora, posa, dosa, rosa, dona, dara, dore, dori, dola, pora, rora. Surname: Stone, storie, stona, stome, Newman. Soundex **S350** / **N550**. Combined samples: `"Dora Stone"`, `"Stone, Dora"`, `"posa Stone"`, `"Dora Newman"`. Also Ella / Mrs Stone / Mrs Newman / Posa / Nora / Cora on Perry 1920 unpublished/unread bodies (Casa / Forest / New TN / Perry twp+town / Petit Jean / Union + published index-nil townships) and Yell ED 191 remainder.
+
+Exact strings logged **L485+**.
+
 ## Name-variant storm (pass 70, 31 Oct 2026, `search_variants.py`)
 
 **Dora Newnam --also Newman** — given: Dora, posa, dosa, rosa, dona, dara, dore, dori, dola, pora, rora. Surname: Newnam, newman, newnarn, newan, newnom. Soundex **N550**. Also Ella / Mrs Stone / Mrs Newman / Posa / Nora / Cora on remaining Perry 1910 census bodies (Eran, Forest, Lake, Maumelle, McCool, New Tennessee, Union, Walnut Grove, Houston Town). Stone Soundex **S350**. Conway Book Z bride: Dora / Ella / Posa × Newnam / Newman / Stone.
