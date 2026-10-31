@@ -1660,6 +1660,20 @@ PLATES: list[dict] = [
         source="S400 · C729",
     ),
     dict(
+        n=281, date="1900 (index)", year=1900, role="rejected",
+        path="soundex/in1900-s415-n1448-marion-45-in.jpg",
+        title="Indiana S-415 — Marion, 45, Indiana, Madison Lafayette; not C244 father",
+        caption="White head, December 1854, age 45, born Indiana, Madison County, Lafayette Township. Wife Ida, 38, Indiana. Children Arthur, 19; Della, 16; W.L., 10. Continuation n1449 has Lillie, 3, and Laura M, 4/12. Intact Indiana household. Rejected as C244.",
+        source="S403 · C736",
+    ),
+    dict(
+        n=282, date="1900 (index)", year=1900, role="rejected",
+        path="soundex/in1900-s415-n1449-lillie-3-lauram-4-12.jpg",
+        title="Indiana S-415 — Marion continuation; Lillie, 3, and Laura M, 4/12; not C244",
+        caption="Continuation of Marion (plate 281). Daughters Lillie, October 1896, age 3, Indiana, and Laura M, January 1900, age 4/12, Indiana. Diplomatic Lillie and Laura M, not Letha. Rejected as C244.",
+        source="S403 · C736",
+    ),
+    dict(
         n=123, date="1900 (index)", year=1900, role="context",
         path="soundex/tx1900-c563-p1-j-divider.jpg",
         title="Texas C-563 — J-tab divider",

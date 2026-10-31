@@ -1,0 +1,51 @@
+Pass 98 — B049 1926 Dora/Posa Stone obituary free-source storm (add)
+Date: 31 Oct 2026 (America/New_York)
+Backlog: B049 remains open
+Extends L610 / S395 / C710–C714 and L609 / S361.
+
+Exact strings / identifiers this pass:
+  Dora Stone; Posa Stone; Dora Newman; Dora Newnam; Posa Newman;
+  Mrs. T.A. Stone; Dardanelle Post-Dispatch 1926; Yell County Journal;
+  Arkansas Unit 1926; Conway; Morrilton; Index Arkansas; AHQ;
+  SN90050035; Pope Library Roll 5; UCA Archives newspaper-collection.
+
+=== Repositories actually opened ===
+1. UCA Archives Rare Newspaper Collection (page seen):
+   https://uca.edu/archives/newspaper-collection/
+   *Dardanelle Post-Dispatch* listed only as **101 #1, 22 Jan 1953**
+   (100th-anniversary number). No 1926 reel or issue on that HTML
+   inventory. → C733 / L619.
+
+2. ASA ArchivesSpace Yell newspaper microfilm finding aid:
+   https://findingaids.digitalheritage.arkansas.gov/repositories/3/resources/5388
+   **Access blocked** (JS / “verify you are not a robot”). Title exists;
+   inventory unread. → L620.
+
+3. USGW Conway *Arkansas Unit* 1926 A–G surname index (page seen):
+   https://files.usgwarchives.net/ar/conway/history/pub/news1926a.txt
+   Exact strings: Stone / Newnam / Newman / Dora Stone.
+   **Nil those surnames.** Closest: Dora Mae Addington; Dora Mae Dunaway;
+   person Close, Ola. Morrilton / Conway neighbour paper, not Yell.
+   → C734 / L621.
+
+4. Index Arkansas landing (page seen):
+   https://arkindex.uark.edu
+   Full-text search UI is JS. AHQ cumulative letter-index PDFs opened;
+   S/N greps found **no** 1926 Dora Stone / Posa obituary citation.
+   `https://arkindex.uark.edu/ahq/s.pdf` timed out on one fetch.
+   → L622.
+
+=== B051 same-day find (not B049) ===
+USGenNet Lee obituaries N re-read (same page already S239):
+  https://usgennet.org/usa/ky/county/lee/obituaries/n.html
+  *Beattyville Enterprise* Thu 1 Mar 1945: Rev. Luther Newnam d. 28 Feb 1945.
+  Lexington *Herald-Leader* Fri 27 Feb 1981: Cora P. Newnam.
+  *Enterprise* Thu 18 Feb 1937: infant Larry Gene Newnam.
+  → S402 / C730 / C731 / L623. Not merged with P002 or P004.
+
+=== Verdict ===
+No free 1926 Dora/Posa/Thomas Stone obituary. Next retrieval unchanged:
+  Newspapers.com Beattyville Enterprise Aug 1926;
+  Pope Library Roll 5 (page-confirmed C714);
+  ASA Yell County Journal film (SN90050035 / OCLC 21025741);
+  ASA In Remembrance S–T / M–O drawers on-site.

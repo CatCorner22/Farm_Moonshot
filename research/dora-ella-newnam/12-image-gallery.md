@@ -253,6 +253,8 @@ Diplomatic transcriptions: [`08-transcriptions.md`](08-transcriptions.md). Citat
 | 278 | 1900 (index) | Rejected same-name | [Illinois S-415 — Eugene L, Whiteside Clyde; Eugenie, 5/12; not C244](sources/soundex/il1900-s415-n2137-eugenel-eugenie-5-12.jpg) |
 | 279 | 1900 (index) | Rejected same-name | [Illinois S-415 — Florence, 50, Indiana, Carroll Savanna; sons only; not C244 father](sources/soundex/il1900-s415-n2154-florence-50-in-sons.jpg) |
 | 280 | 1900 (index) | Rejected same-name | [Illinois S-415 — Elizabeth, 53, Massachusetts, Cook Lyons; Viola, 23; not C244](sources/soundex/il1900-s415-n2050-elizabeth-viola-23.jpg) |
+| 281 | 1900 (index) | Rejected same-name | [Indiana S-415 — Marion, 45, Indiana, Madison Lafayette; not C244 father](sources/soundex/in1900-s415-n1448-marion-45-in.jpg) |
+| 282 | 1900 (index) | Rejected same-name | [Indiana S-415 — Marion continuation; Lillie, 3, and Laura M, 4/12; not C244](sources/soundex/in1900-s415-n1449-lillie-3-lauram-4-12.jpg) |
 | 123 | 1900 (index) | Context | [Texas C-563 — J-tab divider](sources/soundex/tx1900-c563-p1-j-divider.jpg) |
 | 17 | Apr 1910 | Negative search | [Kentucky N-550 — Millie / Missouri; no McCoy](sources/soundex/ky1910-n550-p329-millie-missouri.jpg) |
 | 18 | Apr 1910 | Negative search | [Kentucky N-550 — Monroe; still no McCoy](sources/soundex/ky1910-n550-p330-monroe-no-mccoy.jpg) |
@@ -2651,6 +2653,26 @@ White head, August 1849, age 50, born Indiana, Carroll County, Savanna Township.
 White head, May 1847, age 53, born Massachusetts, Cook County, Lyons Township, Riverside. Daughters Anna Denigan, 39, Ohio; Viola, March 1877, age 23, Illinois; Lorella, 17. Sons Daniel and William. Continuation n2051 has Herbert, 16, and granddaughters Florence, 9, and May, 6. Adult Viola. Rejected as C244.
 
 ![Illinois S-415 — Elizabeth, 53, Massachusetts, Cook Lyons; Viola, 23; not C244](sources/soundex/il1900-s415-n2050-elizabeth-viola-23.jpg)
+
+### 281 · 1900 (index) · Indiana S-415 — Marion, 45, Indiana, Madison Lafayette; not C244 father
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/in1900-s415-n1448-marion-45-in.jpg`](sources/soundex/in1900-s415-n1448-marion-45-in.jpg)  
+**Source:** S403 · C736
+
+White head, December 1854, age 45, born Indiana, Madison County, Lafayette Township. Wife Ida, 38, Indiana. Children Arthur, 19; Della, 16; W.L., 10. Continuation n1449 has Lillie, 3, and Laura M, 4/12. Intact Indiana household. Rejected as C244.
+
+![Indiana S-415 — Marion, 45, Indiana, Madison Lafayette; not C244 father](sources/soundex/in1900-s415-n1448-marion-45-in.jpg)
+
+### 282 · 1900 (index) · Indiana S-415 — Marion continuation; Lillie, 3, and Laura M, 4/12; not C244
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/in1900-s415-n1449-lillie-3-lauram-4-12.jpg`](sources/soundex/in1900-s415-n1449-lillie-3-lauram-4-12.jpg)  
+**Source:** S403 · C736
+
+Continuation of Marion (plate 281). Daughters Lillie, October 1896, age 3, Indiana, and Laura M, January 1900, age 4/12, Indiana. Diplomatic Lillie and Laura M, not Letha. Rejected as C244.
+
+![Indiana S-415 — Marion continuation; Lillie, 3, and Laura M, 4/12; not C244](sources/soundex/in1900-s415-n1449-lillie-3-lauram-4-12.jpg)
 
 ### 123 · 1900 (index) · Texas C-563 — J-tab divider
 

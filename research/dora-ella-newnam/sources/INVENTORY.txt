@@ -1128,3 +1128,13 @@ research/dora-ella-newnam/sources/soundex/b007-pass97-1900-il-s415-leftover-e-20
 research/dora-ella-newnam/sources/soundex/il1900-s415-n2050-elizabeth-viola-23.jpg
   sha256: aa416a011994ab69e4829def7c060c4800d519e52be350f7087954018827c60c
   format: JPEG Soundex card, IA soundex1900il401 n2050 rotate -90
+research/dora-ella-newnam/sources/newspapers/b049-pass98-1926-obit-storm-2026-10-31.txt
+  format: Pass 98 B049 1926 obituary free-source storm add (UCA / Conway Unit / Index Arkansas)
+research/dora-ella-newnam/sources/soundex/b007-pass98-1900-in-s415-leftover-m-2026-10-31.txt
+  format: Pass 98 IN S-415 leftover-M (Maggie→Maurice) search log
+research/dora-ella-newnam/sources/soundex/in1900-s415-n1448-marion-45-in.jpg
+  sha256: 3432a378e5eed1fce591d9dc6c8568f52cd7b5007e16a4a96cbd6c2286a1d73f
+  format: JPEG Soundex card, IA soundex1900in208 n1448
+research/dora-ella-newnam/sources/soundex/in1900-s415-n1449-lillie-3-lauram-4-12.jpg
+  sha256: 2fa3b297985842b97f7b174c11cdbdae8ec74a8b25a60223d0c66b9ae7f7179f
+  format: JPEG Soundex card, IA soundex1900in208 n1449

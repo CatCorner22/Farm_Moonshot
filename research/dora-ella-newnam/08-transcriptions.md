@@ -2551,5 +2551,41 @@ Diplomatic **Eugenie**. → **C727**.
 
 Diplomatic **Viola**. Adult. → **C729**.
 
+## DOC209 — Lee obituaries N: Rev. Luther Newnam / Cora / Larry Gene
+- Page: https://usgennet.org/usa/ky/county/lee/obituaries/n.html re-read 31 Oct 2026
+- Class: memorial copy of newspaper notices (same page already **S239**)
+
+### Diplomatic (*Beattyville Enterprise* Thursday, 1 March 1945)
+> Rev. Luther Newnam, 54, died at his home in Beattyville at 4:50 o'clock yesterday afternoon (Wednesday) following an illness of a few hours. He suffered a stroke at his hoome early yesterday morning.
+> A descendant of Daniel Boone, Rev. Newnam was born in Beattyville February 21, 1891, the son of William and Katherine Sternberg Newnam.
+> A member of the Beattyville Christian Church and a former pastor, Rev. Newnam had been pastor of Wades Mill Christian Church, Clark county, for the past 18 years and pastor of Bethlehem Christian Church, Clark county, for the past nine years.
+> […] At the time of his death he had been associated with Congleton Bros. in Beattyville as bookkeeper for approximately 15 years.
+> Survivors include his wief, Mrs. Cora Plummer Newnam, Beattyville; [two daughters and one son — `Living — details withheld`]; one brother, Fred Newnam of Irvine, and one grandson.
+
+### Diplomatic (Lexington *Herald-Leader* Friday, 27 February 1981)
+> Cora P. Newnam, 87, of Beattyville, widow of Rev. Luther Newnam, died Wednesday, Central Baptist Hospital, Lexington of a short illness.
+> She was a native of Lee County, a member of Beattyville Christian Church […]
+> Survived by [two daughters and one son — `Living — details withheld`]; one foster son [name withheld]; […]
+> Funeral services 1 p.m. Saturday at the Newnam Funeral Home by Rev. Jerry Ginnan. Burial in Riverview Cemetery in Beattyville.
+
+### Diplomatic (*Beattyville Enterprise* Thursday, 18 February 1937)
+> Larry Gene Newnam, three months, infant son of Rev. Luther and Cora Plummer Newnam, died Saturday, February 18.
+> Funeral services were conducted in the Christian church by the pastors of the churches in Beattyville: Rev. A. T. Tipton, Rev. F. J. Drew, and Rev. E. R. Sams.
+> […] Burial was in the Riverview Cemetery.
+
+Printed “Saturday, February 18” on a Thursday-dated paper. Day not averaged. → **C730 C731**.
+
+## DOC210 — 1900 IN Soundex S-415, Marion; Lillie 3 / Laura M 4/12
+- Image: `sources/soundex/in1900-s415-n1448-marion-45-in.jpg` SHA-256 `3432a378e5eed1fce591d9dc6c8568f52cd7b5007e16a4a96cbd6c2286a1d73f`
+- Continuation: `sources/soundex/in1900-s415-n1449-lillie-3-lauram-4-12.jpg` SHA-256 `2fa3b297985842b97f7b174c11cdbdae8ec74a8b25a60223d0c66b9ae7f7179f`
+- Reel: IA `soundex1900in208` n**1448–1449** rotate **0**
+
+### Diplomatic
+> **S415 Sullivan, Marion** — Head · vol **43** ED **94** sh **5** ln **91** · W Dec **1854** **45** Indiana · Madison / Lafayette Twp
+> **Ida** W Feb **1862** **38** Indiana; **Arthur** S Jan **1881** **19** Indiana; **Della** D Feb **1884** **16** Indiana; **W.L.** S May **1890** **10** Indiana
+> n**1449** continuation: **Lillie** D Oct **1896** **3** Indiana; **Laura M** D Jan **1900** **4/12** Indiana
+
+Diplomatic **Lillie** / **Laura M**. → **C736**.
+
 ## DOC009 — 1910 TN Soundex N-550 McCoy window (nil)
 Handwritten family/individual cards n2461–n2469. Sequence after Mary C (n2460): Mary D 49 Jefferson (son Layton 11); Mary M 70 Hamilton; Mek. G 50 Cheatham (Florence 19, John 17, General 16, Frances 13, William 10, Doria 6, Luther 1½); Melvin 3½ Giles (gs of Deacon George W); Melvin 54 Giles (SIL of same); Minerva 80 Robertson (gds Lona Neely, Nellie Erwin); Minnie 21 Roane (with Sam P. Sparks); Mitchell 27 Hardin (Ollie P 25, Gladys 4, Burl W 3, Royal E 1 9/12). **No McCoy.** SHA-256 n2463 `23610f8aa4c159b1b554ed1786d11f57d2f56f8a2e8994f7289ae7bd02dfca53`; n2469 `340489566090880388fa6b81ca5751c5944dcaf56a7b44f70fe560788f308586`.
