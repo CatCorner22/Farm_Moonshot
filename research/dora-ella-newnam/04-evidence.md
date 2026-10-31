@@ -1576,6 +1576,18 @@
 | C1273 | Leaf **847** = Estill **33-11** Dist. **5** Riddell & Thomas sheet **1A** stamped **130**, enumerator **George McQueen**. Names unread. Compiled **130A–154A** | PROVEN as header | S966 L1109 | B089 |
 | C1274 | Same-person write-up pass 111: **33-10** visually closed for Boyd+Allie. Combined true **33-7 + 33-8 + 33-9 + 33-5 + 33-6 + 33-14 + 33-10**. Residual **33-11–33-13**. Hendrix **not** Boyd. #20/#26/#27 open | PROVEN as analysis | S969 L1111 | B089 |
 | C1275 | Hendrix 45 + Sarah E + John B + Melvina (1930) **PROBABLE** same line as 1950 Harding 65 + Sarah 64 + John B 33 / Melvina 28 (**C1124 C1125**). Ages +20. **Not** Boyd | PROBABLE as Hendrix=Harding | S967 L1107 | B089 |
+| C1276 | Estill **1930 33-11** Riddell & Thomas **image seen** leaves **847–895**: Mag. Dist. **5**; enumerator **George McQueen**; sheet **1A** stamped **130** through **25A** stamped **154**. **49** sheets. Leaf **896** unused. Supersedes **C1273** “names unread” | PROVEN as image | S971 L1112 | B089 |
+| C1277 | Estill **1930 33-11** name columns **visually read** (49 sheets). Boyd+Allie Newman/Newnam **absent**. Surname Newman/Newnam/Newmon/Newnarn **0** | PROVEN as visual nil | S970 L1113 | B089 |
+| C1278 | 1930 Estill **33-11** leaf **863** hh **167/167**: **Nennian, Ray** **38** + **Malinda** **38** + Imogene / Terra[?] / Ila / Henry V / Jerald W / Betty. High-res: N-e-n-n-i-a-n. **Rejected** vs Boyd ~52 + Allie ~45 | DISPROVED as Boyd+Allie | S972 L1114 | B089 |
+| C1279 | 33-11 lookalikes **rejected**: Floyd given-names (Smithers / Edge Floyd R / Floyd John W / Fraley Floyd D / Walton dau Floyd); Raisin wife Allie; Powell son Boyd; Hendrix *surname* (William H / Tom / Amelia); Brandenburg FAN; Stone Joseph / Robert H / Logan; Kindred John B; Chapman | PROVEN as rejects | S970 L1115 | B089 |
+| C1280 | Leaf **897** = Estill **33-12** Mag. Dist. **3** Forks sheet **1A** stamped **155**. Names **not** walked. No later Forks residence hypothesized | PROVEN as header | S971 L1116 | B089 |
+| C1281 | Same-person write-up pass 112: **33-11** visually closed for Boyd+Allie. Combined true **33-7 + 33-8 + 33-9 + 33-5 + 33-6 + 33-14 + 33-10 + 33-11**. Residual **33-12 / 33-13** only if hypothesized. Nennian **not** Boyd. Hendrix **not** Boyd. 1958 David G still **POSSIBLE** only vs Frank. #20/#26/#27 open | PROVEN as analysis | S973 L1124 | B089 |
+| C1282 | IA Solr **0**: M1930 KY maps; T1224 descriptions. Pamphlets already seen (**C1259 C1268**). Map/description **images unread** | PROVEN as catalog negative | S974 L1119 | B089 |
+| C1283 | FS catalog **301200 / 1146342 / 127913 / 127869** SPA ~19 KB (R011-**55**). Images unread. Do not re-ask Tyler Phillips | PROVEN as access | S974 L1118 | B045 B061 B069 |
+| C1284 | Hutchins FAQ **9938** **HTML seen**: *Citizen* cards **1899–1983** rooms **228–229**. Densifies **C1215 / C1263**. Phone not re-asked | PROVEN as catalog | S975 L1120 | B055 B080 |
+| C1285 | ARGenWeb Pope yellnews **HTML seen**: Post-Dispatch **Roll 5** = **21 Jun 1923–26 Apr 1928**. Densifies **C1185 / C1264**. Film unread. Phone not re-asked | PROVEN as catalog | S976 L1121 | B058 |
+| C1286 | IA **14thcensusofpopu602unit** imagecount still **515**. Antioch **242** not on this scan. IA Solr M1509 KY **0**. Catalog already **PROVEN** | PROVEN as catalog | S977 L1122 | B088 B069 |
+| C1287 | USGenNet Lee 1930 EDs **1–11** **compiled re-grep**: **no** Boyd Newman/Newnam head. Allie/Boyd given names sit under other surnames. Densifies **C539** for this couple | PROVEN as compiled-index | S405 L1123 | B089 |
 | C1246 | Same-person write-up pass 108: 1930 Estill **33-5 + 33-7 + 33-8 + 33-9** all visually read — Boyd+Allie **absent**. 33-5 and 33-9 are no longer unpublished on free film. 1958 David G still **POSSIBLE** only vs Frank. #20/#26/#27 open. Do not print 1966, 1976, Floyd-as-Boyd, 1962 as McCoy death, or 1942 Combs charge as fact | PROVEN as analysis | S943 L1083 | B089 B055 B080 |
 
 ## Same-person merges (Hard Rule 3)
@@ -1763,6 +1775,12 @@
 | 1950 Harding 65 + Sarah 64 + Boyd ~75 + Allie ~65 | Newman + Estill | Given Harding/Sarah ≠ Boyd/Allie; age 65 vs ~75 | **Rejected (C1124)** |
 | 1930 Hendrix Newnam 45 + Sarah E 44 + 1950 Harding 65 + Sarah 64 | Wife Sarah + John B + Melvina + age +20 | Given Hendrix vs Harding (variant) | **PROBABLE same line (C1275). Still rejected vs Boyd.** |
 | 1930 Hendrix 45 + Sarah E + Boyd ~52 + Allie ~45 | Newnam + Estill Red Lick | Hendrix ≠ Boyd; Sarah ≠ Allie; children Hiram/John B/Melvina ≠ Arthur line | **Rejected (C1271)** |
+| 1930 Nennian Ray 38 + Malinda 38 + Boyd ~52 + Allie ~45 | N-surname + Estill 33-11 | Nennian ≠ Newman; Ray ≠ Boyd; Malinda ≠ Allie; age 38 ≠ ~52 | **Rejected (C1278)** |
+| 1930 Raisin wife Allie + Allie Newman ~45 | Given Allie + Estill 33-11 | Surname Raisin | **Rejected (C1279)** |
+| 1930 Powell son Boyd + Boyd Newman ~52 | Given Boyd + Estill 33-11 | Child; surname Powell | **Rejected (C1279)** |
+| 1930 33-11 Floyd given-names + 1902 Floyd Newnam groom | Given Floyd + Estill | Other families (Smithers / Edge / Floyd John W / Fraley / Walton) | **Rejected (C1279)** |
+| 1930 33-11 Hendrix *surname* (William H / Tom / Amelia) + Hendrix Newnam 45 | Hendrix token + Estill | Surname vs given; not the Red Lick household | **Rejected (C1279)** |
+| Lee 1930 published Allie/Boyd under other surnames + Boyd+Allie Newman | Given Boyd/Allie + Lee | Wrong surname (Brewer / Johnson / Vires / Cornett / Gabbard / Combs) | **Rejected (C1287)** |
 | 1950 Vertie 41 + Boyd/Allie/John L/Frank | Newnam + Estill | Age 41; given Vertie | **Rejected (C1126)** |
 | 1950 Madison William 48 / Zelma 48 / Hiram 36 / W M 20 / Lee 19 + Frank ~61 | Newman + Madison | Ages | **Rejected (C1132–C1137)** |
 | 1950 Lee Elen 66 / Charles 34 / Been 46 / Charles 24 + John L 70 / Frank ~61 | Newman + Lee | Sex/age | **Rejected (C1128–C1131)** |

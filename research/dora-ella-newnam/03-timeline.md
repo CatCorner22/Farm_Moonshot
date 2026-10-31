@@ -338,7 +338,12 @@ Place as it was *at the date*; modern equivalent in brackets. Flag impossibiliti
 | Apr 1930 | — | FAN **PROVEN** as image: Estill **33-10** Red Lick East isolated leaves **821–845** (Robert E. Tye; **1A** stamped **117**–**13A** stamped **129**) | Estill Co., KY | C1269 | S966 |
 | Apr 1930 | — | FAN **PROVEN** as visual nil: Boyd + Allie Newman/Newnam **absent** from all **25** sheets of 1930 Estill **33-10** | Estill Co., KY | C1270 | S965 |
 | Apr 1930 | Red Lick East | FAN **PROVEN** as reject: **Newnam, Hendrix** **45** + Sarah E **44** + Hiram D **15** + John B **13** + Melvina R **8** — **not** Boyd+Allie | Estill Co., KY | C1271 | S967 |
-| Apr 1930 | — | FAN **PROVEN** as header: leaf **847** = **33-11** Riddell & Thomas **1A** stamped **130** (names unread) | Estill Co., KY | C1273 | S966 |
+| Apr 1930 | — | FAN **PROVEN** as header: leaf **847** = **33-11** Riddell & Thomas **1A** stamped **130** (names later read **C1276**) | Estill Co., KY | C1273 | S966 |
+| 7 Apr 1930 | — | FAN **PROVEN** as image: Estill **33-11** Riddell & Thomas isolated leaves **847–895** (George McQueen; **1A** stamped **130**–**25A** stamped **154**) | Estill Co., KY | C1276 | S971 |
+| Apr 1930 | — | FAN **PROVEN** as visual nil: Boyd + Allie Newman/Newnam **absent** from all **49** sheets of 1930 Estill **33-11** | Estill Co., KY | C1277 | S970 |
+| Apr 1930 | Riddell & Thomas | FAN **PROVEN** as reject: **Nennian, Ray** **38** + Malinda **38** + six children — **not** Boyd+Allie | Estill Co., KY | C1278 | S972 |
+| Apr 1930 | — | FAN **PROVEN** as header: leaf **897** = **33-12** Forks **1A** stamped **155**. Names not walked | Estill Co., KY | C1280 | S971 |
+| Apr 1930 | — | FAN **PROVEN** as compiled-index: Lee 1930 EDs **1–11** **nil** Boyd Newman/Newnam head | Lee Co., KY | C1287 | S405 |
 
 
 **Impossibility flags:** None. Mother ~29 at Dora’s 1871 birth (Mary b. 1842). Dora age 14 at marriage is legal/period-possible (KY) though young; 1880 age 8 corroborates. Two children born before Coy in the 1886–1889 window would have Dora aged 15–18 — possible. No event after 23 Aug 1926 is attributed to her.

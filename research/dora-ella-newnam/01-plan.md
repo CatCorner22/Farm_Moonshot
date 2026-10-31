@@ -878,3 +878,23 @@ Exact strings logged **L1093+**.
 **John L (B082)** — John L × Newman cert **17762** RD **036**. Do not print 1966 as fact.
 
 Exact strings logged **L1105+**.
+
+### Pass 112 variant storm (31 Oct 2026)
+
+**Boyd / Allie (B089)** — Boyd/Boyde/Floyd × Newman/Newnam/newnarn/newan/Newmon. Soundex **N550** / **B300**. Place IA **`kentuckycensus00reel742`** Estill **33-11** Riddell & Thomas from leaf **847** stamped **130A**. OCR given Boyd / Allie / Floyd. Do **not** re-fetch true **33-7 / 33-5 / 33-6 / 33-8 / 33-9 / 33-14 / 33-10**.
+
+**Lookalikes on the same film** — Wiseman / Plowman / Newkirk / Neal vs Newman; Hendrix/Harding Newnam already rejected (C1271).
+
+**Dora Stone 1926 (B058)** — Dora/posa/dosa/rosa/dona × Stone/Newman/Newnam. Soundex **S350** / **N550**. Cert **1524** RD **676**. Pope **Roll 5** catalog only unless a free image appears.
+
+**Frank / David G (B055/B080)** — Frank/David F./David G. × Newnam/Newman. Soundex **N550**. Cert **13719** RD **028**. Hutchins rooms **228–229** / June **1958** *Citizen*. Newspapers.com **41271**.
+
+**WWI (B069)** — Luther/John H./McCoy × Newnam/Newman/newnarn. M1509 **KY45 / KY24 / KY74**.
+
+**Samuel probate (B045/B061)** — Samuel/Sam P. × Newnam/Newman. FS SPA log only.
+
+**John L (B082)** — John L × Newman cert **17762** RD **036**. Do not print 1966 as fact.
+
+**McCoy (B085)** — McCoy/Coy × Newman/Newnam after Apr 1930. Soundex **N550** / **M200**. Deceased-only.
+
+Exact strings logged **L1112+**.

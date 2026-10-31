@@ -1,4 +1,14 @@
 
+## Access honesty pass 112
+- IA ACPL **`kentuckycensus00reel742`** IIIF **image seen**: Estill **33-11** leaves **847–895** headers + name columns **visually read** (49 sheets); boundary **896** unused; **897** = **33-12** start header only.
+- **Nennian, Ray** household **image seen** (high-res IIIF crop).
+- Tesseract drafts on 49 sheets — **draft only**, not a source.
+- Did **not** re-fetch true **33-7 / 33-5 / 33-8 / 33-9 / 33-6 / 33-14 / 33-10**.
+- Did **not** walk **33-12 / 33-13** name columns (no later Forks residence hypothesized).
+- Did **not** re-ask R001/R007/R008, Tyler Phillips, Pope **479-968-4368**, or Hutchins **859-985-3364**.
+- IA Solr M1930 / T1224 / M1509 KY / Post-Dispatch 1926 **0**. FS four IDs SPA (R011-**55**). Hutchins FAQ **9938** **HTML seen**. Pope yellnews **HTML seen**. IA **602** imagecount **515**.
+- Book 6 register **unread**. Certs **28501 / 31780 / 17762 / 13719 / 09547** **unread**. M1509 **cards unread**. M1930 roll **15** / T1224 roll **69** / A3378 **22/23** **map/description images unread**. Remaining Estill 1930 **33-12–33-13** **not** fully read. *Dardanelle Post-Dispatch* Pope **Roll 5** and UArk **F419.D37 D3** **film unread**. Newspapers.com **41271** June **1958** pages **unread**. Hutchins June **1958** page **unread**. Authored `latest.docx` SHA **78cdcf44…** not overwritten.
+
 ## Access honesty pass 111
 - IA ACPL **`kentuckycensus00reel742`** IIIF **image seen**: Estill **33-10** leaves **821–845** headers + name columns **visually read** (25 sheets); boundary **846** unused; **847–848** = **33-11** start headers.
 - Hendrix Newnam household **image seen** (tight crop + ages).
@@ -1206,6 +1216,19 @@ One row per search, **including nil results**. Access: free | subscription | on-
 | L1109 | 2026-10-31 | IA ACPL leaf **847** header (**B089**) | 33-11 start | Dist. **5** Riddell & Thomas **33-11** **1A** stamped **130**, George McQueen. Names unread (**C1273**) | S966 | B089 |
 | L1110 | 2026-10-31 | search-variant-alternatives pass 111 | Boyd/Allie × Newman/Newnam; Soundex N550/B300 | Variants in **01-plan.md**. Place **33-10** leaves **821–845** | S969 | B089 |
 | L1111 | 2026-10-31 | Same-person write-up pass 111 | 33-10 visual nil + Hendrix reject | **33-10** closed for Boyd+Allie. Combined true **33-7 + 33-8 + 33-9 + 33-5 + 33-6 + 33-14 + 33-10**. Residual **33-11–33-13**. #20/#26/#27 open (**C1274**) | S969 | B089 |
+| L1112 | 2026-10-31 | IA ACPL reel 742 headers (**B089**) | isolate Estill **33-11** | **847–895** = **33-11** Dist. **5** Riddell & Thomas, George McQueen, **1A** stamped **130**–**25A** stamped **154**. **49** sheets. **896** unused. **897** = **33-12** start (**C1276 C1280**) | S971 | B089 |
+| L1113 | 2026-10-31 | IA ACPL reel 742 name columns (**B089**) | Newman/Newnam/Newmon/Newnarn; Boyd/Floyd/Allie | **49** sheets **847–895 visually read**. Boyd+Allie **absent**. Surname Newman/Newnam **0** (**C1277**) | S970 | B089 |
+| L1114 | 2026-10-31 | IA ACPL leaf **863** tight crop (**B089**) | Nennian Ray household | **Image seen.** **Nennian, Ray** **38** + Malinda **38** + six children. High-res: N-e-n-n-i-a-n. **Rejected** vs Boyd+Allie (**C1278**) | S972 | B089 |
+| L1115 | 2026-10-31 | IA ACPL 33-11 lookalikes (**B089**) | Floyd / Allie / Boyd / Hendrix / Brandenburg / Stone | Floyd given-names; Raisin wife Allie; Powell son Boyd; Hendrix *surname*; Brandenburg FAN; Stone Joseph/Robert H/Logan. All **rejected** (**C1279**) | S970 | B089 |
+| L1116 | 2026-10-31 | IA ACPL leaf **897** header (**B089**) | 33-12 start | Dist. **3** Forks **33-12** **1A** stamped **155**. Names **not** walked — no later Forks residence hypothesized (**C1280**) | S971 | B089 |
+| L1117 | 2026-10-31 | search-variant-alternatives pass 112 | Boyd/Allie × Newman/Newnam; Soundex N550/B300 | Variants in **01-plan.md**. Place **33-11** leaves **847–895** | S973 | B089 |
+| L1118 | 2026-10-31 | FS catalog four IDs (**B045/B061/B069**) | 301200 / 1146342 / 127913 / 127869 | SPA ~19 KB (R011-**55**). Images unread. Do not re-ask Tyler Phillips (**C1283**) | S974 | B045 B061 B069 |
+| L1119 | 2026-10-31 | IA Solr M1930 / T1224 / M1509 / Post-Dispatch (**B089 B058 B069**) | KY maps / descriptions / cards / 1926 | **numFound 0**. Pamphlets already seen. Images unread (**C1282 C1286**) | S974 | B089 B058 B069 |
+| L1120 | 2026-10-31 | Hutchins FAQ **9938** (**B055/B080**) | Citizen index location | **HTML seen.** Cards **1899–1983** rooms **228–229**. Phone not re-asked (**C1284**) | S975 | B055 B080 |
+| L1121 | 2026-10-31 | ARGenWeb Pope yellnews (**B058**) | Post-Dispatch Roll 5 | **HTML seen.** **21 Jun 1923–26 Apr 1928**. Film unread. Phone not re-asked (**C1285**) | S976 | B058 |
+| L1122 | 2026-10-31 | IA **14thcensusofpopu602unit** (**B088**) | Antioch **242** remainder | imagecount still **515**. Catalog already **PROVEN**. One line (**C1286**) | S977 | B088 |
+| L1123 | 2026-10-31 | USGenNet Lee 1930 EDs **1–11** re-grep (**B089**) | Boyd/Allie × Newman/Newnam | **Compiled re-grep** of saved pages. **No** Boyd Newman/Newnam head. Allie/Boyd given names in other surnames **rejected**. Densifies **C539** for this couple (**C1287**) | S405 | B089 |
+| L1124 | 2026-10-31 | Same-person write-up pass 112 | 33-11 visual nil + Nennian reject | **33-11** closed for Boyd+Allie. Combined true **33-7 + 33-8 + 33-9 + 33-5 + 33-6 + 33-14 + 33-10 + 33-11**. Residual **33-12 / 33-13** only if hypothesized. #20/#26/#27 open (**C1281**) | S973 | B089 |
 
 **Access honesty (pass 108):** IA **`kentuckycensus00reel742`** IIIF **image seen**: Estill **33-9** leaves **793–819** headers + name columns **visually read** (27 sheets); **33-5** leaves **707–717** headers + name columns **visually read** (11 sheets); boundary headers **706 / 718 / 719 / 820 / 821** **seen**. Book 6 register **unread**. Certs **28501 / 31780 / 17762 / 13719 / 09547** **unread**. M1509 **cards unread**. M1930 roll **15** / T1224 roll **69** / A3378 **22/23** **maps/descriptions unread**. Remaining Estill 1930 EDs (**33-6 / 33-10+**) **not** fully read. *Dardanelle Post-Dispatch* Pope **Roll 5** and UArk **F419.D37 D3** **film unread**. Newspapers.com **41271** June **1958** pages **unread**. Hutchins June **1958** page **unread**. Authored `latest.docx` SHA **78cdcf44…** not overwritten.
 

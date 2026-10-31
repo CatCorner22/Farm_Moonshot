@@ -1041,3 +1041,15 @@ Same map, county preview — 33-8 in Magisterial District 2 Millers Creek; Stati
 ![Estill 1930 Hendrix Newnam reject](sources/census/pass111-acpl742/crop0829-hendrix-ages.jpg)
 
 **Source:** S967 · C1271
+
+1930 U.S. census, Estill County, ED 33-11 sheet 1A stamped 130 — Riddell & Thomas header, George McQueen.
+
+![Estill 1930 33-11 header](sources/census/pass112-acpl742/hdr0847.jpg)
+
+**Source:** S971 · C1276
+
+1930 U.S. census, Estill County, ED 33-11 sheet ~9A dwelling 167 — Nennian, Ray 38 + Malinda 38 + six children. Rejected versus Boyd and Allie.
+
+![Estill 1930 Nennian Ray reject](sources/census/pass112-acpl742/crop0863-nennian-ray.jpg)
+
+**Source:** S972 · C1278
