@@ -1523,5 +1523,60 @@ Immediate C-563 leaf after the J-gap. No Jesse card. → **C461 / C464**.
 
 James/John of other codes precede this leaf. Female, age 2; not Jesse and not Letha Sullivan. → **C459 / C465**.
 
+## DOC109 — 1900 MT Soundex C-563, Jessie Conrad, 23, Missouri
+- Image: `sources/soundex/mt1900-c563-p1683-jessie-23-mo.jpg` SHA-256 `fd6f8143d302c33f2d4fa73534633422a713486fb3ac388e060bc82709e9ff37`
+- Reel: IA `soundex1900mt007` n**1683**
+
+### Diplomatic
+> **C-563 Conrad, Jessie** — Individual · vol **5** ED **182** sh **13** ln **55** · W Oct **1877** **23** Missouri · Gallatin / Spring Hill Precinct  
+> Enumerated with **Stimson, George E.** · Relationship **Boarder**
+
+Closest MT leaf on name and nativity. Age 23 vs ~27 (Oct 1877 vs ~1873); Jessie spelling; boarder with no Letha. James S precedes; John J follows. → **C467 / C469**.
+
+## DOC110 — 1900 MT Soundex C-563, James S Conrad, 54, Pennsylvania
+- Image: `sources/soundex/mt1900-c563-p1682-james-s-54-pa.jpg` SHA-256 `911891ec19a9706aa43a5a77dd9647d3e6f2ab85df42e6fea12d8129969972c0`
+- Reel: IA `soundex1900mt007` n**1682**
+
+### Diplomatic
+> **C-563 Conrad, James S.** — Head of family · vol **7** ED **60** sh **2** ln **98** · W Nov **1845** **54** Pennsylvania · Meagher / Belt Township  
+> Remark: **Living alone**
+
+Immediate C-563 leaf before Jessie. → **C471**.
+
+## DOC111 — 1900 WY Soundex C-563, James Conrad, 26, Nebraska
+- Image: `sources/soundex/wy1900-c563-p1588-james-26-ne.jpg` SHA-256 `c6d44c74645c22141cc38e567b4a788e931f90f39ea388f8e37c4b538037344d`
+- Reel: IA `soundex1900wy003` n**1588**
+
+### Diplomatic
+> **C-563 Conrad, James** — Individual · vol **1** ED **8** sh **18** ln **24** · W May **1874** **26** Nebraska · Albany / Laramie / south city limits  
+> Enumerated with **Morrie, Albert** · Relationship **Hired man**  
+> Remark: **Supplied from desk**
+
+Immediate C-563 leaf before James M. Age is close; given name James; nativity Nebraska. → **C468 / C470**.
+
+## DOC112 — 1900 WY Soundex C-563, James M Conrad, 58, New York
+- Image: `sources/soundex/wy1900-c563-p1589-james-m-58-ny.jpg` SHA-256 `32d6727023d9f7451f25ac9c30e4a0f9948d02d81e6f18e7ef448688aa644252`
+- Reel: IA `soundex1900wy003` n**1589**
+
+### Diplomatic
+> **C-563 Conrad, James M.** — Head of family · vol **4** ED **65** sh **8** ln **17** · W Sept **1841** **58** New York · Uinta / Election District **13**  
+> **Conrad, Ernest M.** — S, Jan **1885**, **15**, Utah
+
+John tab follows n1591. No Jesse card. → **C468 / C473**.
+
+## DOC113 — 1900 UT Soundex C-563, Jasper Conrad, 54, Pennsylvania
+- Image: `sources/soundex/ut1900-c563-p1915-jasper-54-pa.jpg` SHA-256 `1be9a243603232f9525b5bc7838aac66f10716557a7b42a8523f4cc0b0d3dc9e`
+- Reel: IA `soundex1900ut005` n**1915**
+
+### Diplomatic
+> **C-563 Conrad, Jasper** — Head of family · vol **6** ED **60** sh **7** ln **33** · W Nov **1845** **54** Pennsylvania · Salt Lake / Draper Precinct  
+> **Conrad, Wilhelmina** — W, Sept **1862**, **37**, Utah  
+> **Jasper C.** — S, June **1885**, **14**, Utah  
+> **David F.** — S, Apr **1886**, **13**, Utah  
+> **Martha E.** — D, Feb **1889**, **11**, Utah  
+> **Bayard A.** — S, June **1891**, **8**, Utah
+
+C-563 J-window close: Jasper then C-565 Johns. No Jesse card. → **C466 / C472**.
+
 ## DOC009 — 1910 TN Soundex N-550 McCoy window (nil)
 Handwritten family/individual cards n2461–n2469. Sequence after Mary C (n2460): Mary D 49 Jefferson (son Layton 11); Mary M 70 Hamilton; Mek. G 50 Cheatham (Florence 19, John 17, General 16, Frances 13, William 10, Doria 6, Luther 1½); Melvin 3½ Giles (gs of Deacon George W); Melvin 54 Giles (SIL of same); Minerva 80 Robertson (gds Lona Neely, Nellie Erwin); Minnie 21 Roane (with Sam P. Sparks); Mitchell 27 Hardin (Ollie P 25, Gladys 4, Burl W 3, Royal E 1 9/12). **No McCoy.** SHA-256 n2463 `23610f8aa4c159b1b554ed1786d11f57d2f56f8a2e8994f7289ae7bd02dfca53`; n2469 `340489566090880388fa6b81ca5751c5944dcaf56a7b44f70fe560788f308586`.

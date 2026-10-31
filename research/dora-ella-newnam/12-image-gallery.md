@@ -151,6 +151,11 @@ Diplomatic transcriptions: [`08-transcriptions.md`](08-transcriptions.md). Citat
 | 176 | 1900 (index) | Rejected same-name | [Nevada C-563 — Conrad, Jacob, 51, Prussia, Lamoille Valley](sources/soundex/nv1900-c563-p463-jacob-51-prussia.jpg) |
 | 177 | 1900 (index) | Rejected same-name | [Nevada C-563 — Conrad, Louis, 20, Germany, Virginia City; no Jesse leaf](sources/soundex/nv1900-c563-p475-louis-20-germany.jpg) |
 | 178 | 1900 (index) | Rejected same-name | [New Mexico C-563 — Conrad, Katie, 2, Missouri, Las Vegas](sources/soundex/nm1900-c563-p759-katie-2-mo.jpg) |
+| 179 | 1900 (index) | Rejected same-name | [Montana C-563 — Conrad, Jessie, 23, Missouri, Spring Hill](sources/soundex/mt1900-c563-p1683-jessie-23-mo.jpg) |
+| 180 | 1900 (index) | Rejected same-name | [Montana C-563 — Conrad, James S, 54, Pennsylvania, Belt](sources/soundex/mt1900-c563-p1682-james-s-54-pa.jpg) |
+| 181 | 1900 (index) | Rejected same-name | [Wyoming C-563 — Conrad, James, 26, Nebraska, Laramie hired man](sources/soundex/wy1900-c563-p1588-james-26-ne.jpg) |
+| 182 | 1900 (index) | Rejected same-name | [Wyoming C-563 — Conrad, James M, 58, New York; no Jesse leaf](sources/soundex/wy1900-c563-p1589-james-m-58-ny.jpg) |
+| 183 | 1900 (index) | Rejected same-name | [Utah C-563 — Conrad, Jasper, 54, Pennsylvania, Draper](sources/soundex/ut1900-c563-p1915-jasper-54-pa.jpg) |
 | 123 | 1900 (index) | Context | [Texas C-563 — J-tab divider](sources/soundex/tx1900-c563-p1-j-divider.jpg) |
 | 17 | Apr 1910 | Negative search | [Kentucky N-550 — Millie / Missouri; no McCoy](sources/soundex/ky1910-n550-p329-millie-missouri.jpg) |
 | 18 | Apr 1910 | Negative search | [Kentucky N-550 — Monroe; still no McCoy](sources/soundex/ky1910-n550-p330-monroe-no-mccoy.jpg) |
@@ -1529,6 +1534,56 @@ White head, June 1879, age 20, born Germany, Virginia City. Three lodgers. Immed
 White individual, July 1897, age 2, born Missouri, Las Vegas. Roomer of Byron Hubbard. Female Katie is not Jesse and is not Letha Sullivan. Combined with the n700–860 every-card walk, New Mexico 1900 C-563 has no White Jesse Conrad head about 27 born Missouri.
 
 ![New Mexico C-563 — Conrad, Katie, 2, Missouri, Las Vegas](sources/soundex/nm1900-c563-p759-katie-2-mo.jpg)
+
+### 179 · 1900 (index) · Montana C-563 — Conrad, Jessie, 23, Missouri, Spring Hill
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/mt1900-c563-p1683-jessie-23-mo.jpg`](sources/soundex/mt1900-c563-p1683-jessie-23-mo.jpg)  
+**Source:** S352 · C467 · C469
+
+White individual, October 1877, age 23, born Missouri, Spring Hill Precinct. Boarder of George E. Stimson. Closest Montana leaf on name and nativity. Age 23 versus about 27 (October 1877 versus about 1873), Jessie spelling, and no Letha. Combined with the n1540–1760 every-card walk, Montana 1900 C-563 has no White Jesse Conrad head about 27 born Missouri.
+
+![Montana C-563 — Conrad, Jessie, 23, Missouri, Spring Hill](sources/soundex/mt1900-c563-p1683-jessie-23-mo.jpg)
+
+### 180 · 1900 (index) · Montana C-563 — Conrad, James S, 54, Pennsylvania, Belt
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/mt1900-c563-p1682-james-s-54-pa.jpg`](sources/soundex/mt1900-c563-p1682-james-s-54-pa.jpg)  
+**Source:** S352 · C467 · C471
+
+White head, November 1845, age 54, born Pennsylvania, Belt Township. Living alone. Immediate C-563 leaf before Jessie. Combined with Plate 179 this closes the Montana 1900 C-563 J-window.
+
+![Montana C-563 — Conrad, James S, 54, Pennsylvania, Belt](sources/soundex/mt1900-c563-p1682-james-s-54-pa.jpg)
+
+### 181 · 1900 (index) · Wyoming C-563 — Conrad, James, 26, Nebraska, Laramie hired man
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/wy1900-c563-p1588-james-26-ne.jpg`](sources/soundex/wy1900-c563-p1588-james-26-ne.jpg)  
+**Source:** S353 · C468 · C470
+
+White individual, May 1874, age 26, born Nebraska, Laramie. Hired man of Albert Morrie; supplied from desk. Age is close; given name is James and nativity is Nebraska. Combined with Plate 182 this closes the Wyoming 1900 C-563 J-window.
+
+![Wyoming C-563 — Conrad, James, 26, Nebraska, Laramie hired man](sources/soundex/wy1900-c563-p1588-james-26-ne.jpg)
+
+### 182 · 1900 (index) · Wyoming C-563 — Conrad, James M, 58, New York; no Jesse leaf
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/wy1900-c563-p1589-james-m-58-ny.jpg`](sources/soundex/wy1900-c563-p1589-james-m-58-ny.jpg)  
+**Source:** S353 · C468 · C473
+
+White head, September 1841, age 58, born New York, Uinta Election District 13. Son Ernest M, 15, Utah. The next leaf is the John tab. Combined with the n1540–1700 every-card walk, Wyoming 1900 C-563 has no Jesse Conrad head.
+
+![Wyoming C-563 — Conrad, James M, 58, New York; no Jesse leaf](sources/soundex/wy1900-c563-p1589-james-m-58-ny.jpg)
+
+### 183 · 1900 (index) · Utah C-563 — Conrad, Jasper, 54, Pennsylvania, Draper
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/ut1900-c563-p1915-jasper-54-pa.jpg`](sources/soundex/ut1900-c563-p1915-jasper-54-pa.jpg)  
+**Source:** S351 · C466 · C472
+
+White head, November 1845, age 54, born Pennsylvania, Draper Precinct. Wife Wilhelmina, 37, Utah; four Utah-born children. C-563 J-window close: Jasper, then C-565 Johns. Combined with the n1780–1970 every-card walk, Utah 1900 C-563 has no Jesse Conrad head.
+
+![Utah C-563 — Conrad, Jasper, 54, Pennsylvania, Draper](sources/soundex/ut1900-c563-p1915-jasper-54-pa.jpg)
 
 ### 123 · 1900 (index) · Texas C-563 — J-tab divider
 

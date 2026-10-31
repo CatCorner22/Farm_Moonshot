@@ -1,0 +1,38 @@
+Pass 83 — 1900 UT/MT/WY C-563 Jesse
+Date: 30 Oct 2026 (America/New_York)
+Backlog: B007 residual other-state 1900
+
+=== Access ===
+Image seen via IA BookReader page JPEGs (not the full 100–350 MB PDFs).
+  UT C-563 = soundex1900ut005 (T1074 C-450–C-642 Isaac V; imagecount 4455)
+    C-552 n1801; C-560/562 Connors James n1858–60 then Johns;
+    C-563 Charles/Edward n1907–13 → Jasper n1915 → Johns of C-565;
+    C-600 n1951.
+  MT C-563 = soundex1900mt007 (T1056 C-510–C-626; imagecount 3330)
+    C-552 n1441; C-560 n1561; C-563 divider n1648; Albert→…→
+    James S 54 PA n1682 → Jessie 23 MO n1683 → John J n1684.
+  WY C-563 = soundex1900wy003 (T1080 C-300–D-256; imagecount 3643)
+    C-552 n1441; C-560 n1561; C-563 James 26 NE n1588 →
+    James M 58 NY n1589 → C-560 Comer n1590 → John tab n1591;
+    C-600 n1681.
+Local /tmp/p83/ working crops not committed except the evidence JPEGs listed in S351–S353.
+
+=== UT C-563 (ut005 n1780–1970 every card) ===
+C-560/562 James run n1858–60 then Johns. C-563 Charles/Edward →
+Jasper 54 PA Draper n1915 (C472) → C-565 Johns. No Jesse (C466).
+
+=== MT C-563 (mt007 n1540–1760 every card) ===
+C-563 James S 54 PA Belt living alone n1682 (C471) →
+Jessie 23 MO Spring Hill boarder of Stimson n1683 (C469) →
+John J n1684. Age 23 vs ~27; Jessie spelling; no Letha. No White
+Jesse ~27 MO head (C467).
+
+=== WY C-563 (wy003 n1540–1700 every card) ===
+C-563 James 26 NE Laramie hired man n1588 (C470) →
+James M 58 NY + Ernest 15 UT n1589 (C473) → Comer James S n1590 →
+John tab n1591. No Jesse card (C468).
+
+=== Residual ===
+Other-state 1900 beyond the forty-six C-563 jurisdictions now closed
+(prior forty-three + UT/MT/WY). Pinned unread: ND/SD/DC/AK/HI.
+B049 1926 obituary; R001/R007/R008; B045 probate; B047 M1509.
