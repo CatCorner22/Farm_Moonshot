@@ -472,14 +472,27 @@ Place as it was *at the date*; modern equivalent in brackets. Flag impossibiliti
 | **21 Jul 1850** | Hopkins Dist 2 n0238 hh **67** | FAN **PROVEN** as image + reject (reconfirm): Francis J. Newman **28** × Mary J **25** + Elizabeth **1** | Hopkins Co., KY | C1821 | S1489 |
 | **1850** | Hopkins Dist 2 n0240 hh **76/76** | FAN **PROVEN** as image + reject: **Jno Newman 59** Farmer NC × Jane **53** NC + **William P 26** son (not a living head) | Hopkins Co., KY | C1823 | S1491 S1492 |
 | **1850** | Graves | FAN **PROVEN** as compiled-index: NEWHOUSE/NEWTON only. County **CLOSED** compiled couple hunt | Graves Co., KY | C1825 | S1494 |
-| **15 Jul 1850** | Hart Dist 1 n0005 stamp **3** | FAN **PROVEN** as mapping: header **IMAGE SEEN**. Remaining odds n0007–n0187 downloaded; OCR draft token-nil. County **NOT** closed | Hart Co., KY | C1826 C1858 | S1495 S1528 |
-| **2 Aug 1850** | Henry Dist 1 n0440 | FAN **PROVEN** as mapping: Dist 1 header **IMAGE SEEN**. Remaining n0440–n0589 evens+odds downloaded; OCR draft token-nil. County **NOT** closed | Henry Co., KY | C1827 C1857 | S1496 S1528 S1529 |
+| **15 Jul 1850** | Hart Dist 1 n0005 stamp **3** | FAN **PROVEN** as mapping + Dist 1 close: n0007–n0187 every-odd + n0006–n0190 every-even **IMAGE SEEN** nil Newman/Tincher. GT hh **1–20** Nutt only. Dist 1 **CLOSED**. County **CLOSED** | Hart Co., KY | C1826 C1858 C1876 C1892 C1898 C1917 C1919 | S1495 S1528 S1543 S1554 S1569 |
+| **2 Aug 1850** | Henry Dist 1 n0440–n0519 | FAN **PROVEN** as image + close: every-leaf name columns **IMAGE SEEN**. Nil Newman/Tincher living head. Jesse NORMAN **56** n0498 **REJECT**. Dist 1 **CLOSED** | Henry Co., KY | C1827 C1857 C1870 C1873 C1875 | S1496 S1529 S1539 S1540 |
 | **28 Aug 1850** | Campbell Newport n0130 stamp **127** | FAN **PROVEN** as image + reject-as-place: City of Newport, **not** Kenton Dist 1 **130B** | Campbell Co., KY | C1830 | S1499 |
 | **17 Aug 1850** | McCracken Dist 1 **174B** n0353 | FAN **PROVEN** as image + reject: hh **188/189 Malinda Newman 38** + six children. No William | McCracken Co., KY | C1847 | S1515 |
 | **24 Jun 1850** | Todd Dist 2 **247A** n0360 | FAN **PROVEN** as image + reject: hh **27/27 Mary Newman 35** f **$800** Va + John **20** Tenn. Israel Tinker **40** same page | Todd Co., KY | C1850 C1851 | S1520 S1521 |
 | **15 Aug 1850** | Trigg 1st Dist **303A** n0472 | FAN **PROVEN** as image + reject: hh **12/203 Wm Tinker 60** Farmer VA × Licy **33** KY | Trigg Co., KY | C1852 | S1522 S1523 |
 | **2 Sep 1850** | Trigg 1st Dist **314A** n0494 | FAN **PROVEN** as image + reject: hh **31/31 John Newman 51** NC × Elizabeth **46** + **Wm 17** son; Jane **3** | Trigg Co., KY | C1853 C1854 | S1524 S1525 |
 | **1850** | Kenton Dist 1 **130B** | FAN **PROVEN** as compiled-index + reject: **Daniel Newman 19** Laborer KY p.**130**. No William 26 in county Newman set | Kenton Co., KY | C1855 C1856 | S1526 S1527 |
+| **1850** | Henry n0498 hh **827/831** | FAN **PROVEN** as image + reject: **Jesse NORMAN 56** farmer + Elizabeth + children. Not Newman | Henry Co., KY | C1873 | S1539 S1540 |
+| **1850** | Hart Dist 1 n0035 hh **205/205** | FAN **PROVEN** as image + reject: **Robert BOMAN 37** + Cecilia **47**. Not Newman | Hart Co., KY | C1893 | S1553 |
+| **1850** | Hart Dist 1 n0119 hh **724** | FAN **PROVEN** as image + reject: **Frederick NANCE 26**. Not Newman | Hart Co., KY | C1894 | S1555 |
+| **14 Sep 1850** | Hart Dist 1 n0197–n0198 | FAN **PROVEN** as mapping: last Hart name leaf n0197 stamp **268**; n0198 Dist 1 certificate. Henderson starts n0199 | Hart Co., KY | C1896 C1897 | S1556 |
+| **28 Sep 1850** | Franklin Dist 2 n0340 hh **202** | FAN **PROVEN** as image + reject: **Thomas NEWLAND 30**. Not Newman | Franklin Co., KY | C1900 | S1557 |
+| **14 Aug 1850** | Hart Dist 1 n0120 hh **714/726** | FAN **PROVEN** as image + reject: **Rebecca KIRKPATRICK 60**. Not Tinker | Hart Co., KY | C1918 | S1570 |
+| **31 Aug 1850** | Lewis Dist 1 n0170 stamp **240** | FAN **PROVEN** as mapping: reel **210** n0170 is **Lewis**, not Lincoln | Lewis Co., KY | C1920 | S1571 |
+| **5 Sep 1850** | Lincoln Dist 1 n0173 | FAN **PROVEN** as mapping: Dist 1 start. Samples n0173–n0239 nil Newman. Dist 1 **NOT** every-line closed | Lincoln Co., KY | C1920 C1921 | S1572 |
+| **3–13 Sep 1850** | Larue Hamilton n0167–n0280 | FAN **PROVEN** as mapping: still Hamilton at n0280 stamp **458**. County **NOT** closed | Larue Co., KY | C1922 | S1573 |
+| **11 Aug 1850** | Franklin Dist 1 n0149 start | FAN **PROVEN** as mapping: Dist 1 starts n0149 (Charles Noe). n0148 is Floyd | Franklin Co., KY | C1936 | S1581 |
+| **11 Aug 1850** | Franklin Dist 1 n0164 hh **187/187** | FAN **PROVEN** as image + reject: **Jeremiah[?] Newman 27** Laborer × Mary **28** + John **4/12** | Franklin Co., KY | C1940 | S1584 S1585 |
+| **1850** | Franklin Dist 1 n0149–n0202 + n0254–n0255 | FAN **PROVEN** as image: name columns **IMAGE SEEN**. Dist 1 remaining n0203–n0253 **NOT** closed | Franklin Co., KY | C1939 C1941 | S1583 S1592 |
+| **1850** | Franklin Dist 2 n0256–n0355 | FAN **PROVEN** as mapping: Dist 2 start n0256; last names n0354; n0355 blank; n0356 Gallatin. Dist 2 **NOT** every-line closed | Franklin Co., KY | C1937 C1938 C1942 | S1582 S1592 |
 
 
 **Impossibility flags:** None. Mother ~29 at Dora’s 1871 birth (Mary b. 1842). Dora age 14 at marriage is legal/period-possible (KY) though young; 1880 age 8 corroborates. Two children born before Coy in the 1886–1889 window would have Dora aged 15–18 — possible. No event after 23 Aug 1926 is attributed to her.

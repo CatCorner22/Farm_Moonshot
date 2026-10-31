@@ -1,0 +1,64 @@
+Pass 145 extract — 31 Oct 2026
+B058: LOC sn89051008 item.digitized: false (34425 B). IA Solr Post-Dispatch 1926 0.
+Film unread. Phone not re-asked. C1935
+
+=== Franklin Dist 1+2 remap (reel 200) ===
+n0148 = Floyd Dist 1 30 July (do not walk Floyd).
+n0149 header IMAGE SEEN: District No 1, County of FRANKLIN, Charles Noe.
+  Dist 1 start remapped one leaf earlier than n0150. C1936
+n0150 Dist 1 Franklin 2 Aug stamp 15 (already mapped).
+n0255 Dist 1 Franklin 31 July, John A. Monroe — last Dist 1 name leaf.
+n0256 Dist 2 Franklin start, John A. Monroe. C1937
+n0354 Dist 2 last names (Gale / Monroe / Bacon + marshal signature).
+n0355 Dist 2 header 30 Sept but NAME COLUMN BLANK. C1938
+n0356 Town of Warsaw, GALLATIN (already CLOSED compiled — do not walk).
+Do not walk n0148 Floyd or n0356+ Gallatin.
+
+=== Dist 1 visual (n0149–n0202 + n0254–n0255 IMAGE SEEN) ===
+Nil Newman/Tincher living head except the isolate below.
+N-lookalikes IMAGE SEEN REJECT: Newton (n0175/n0176); Romain (n0180);
+Steadman (n0186/n0193); Samuel (n0200).
+Remaining Dist 1 n0203–n0253 not every-line visually closed. C1939 C1941
+
+=== n0164 hh 187/187 Jeremiah[?] Newman 27 IMAGE SEEN REJECT ===
+Dist 1, 11 Aug 1850, Charles Noe, stamp 27.
+  187/187  Jeremiah[?] Newman  27  M  Laborer
+            Mary Newman         28  F
+            John Newman         4/12 M
+Neighbors: Frances Sullivan 36 Laborer Ireland; John Haynes 32 Blacksmith KY.
+Head 27 not William 26. Wife Mary 28 not Jane 22 / not Rhoda.
+Infant John 4/12 not Francis 4 F / Leanner 2. Laborer, no $325 farm.
+IMAGE SEEN REJECT vs Owsley 299B hh 311 and vs William × Rhoda.
+SHA tight b4619717df1be186…  C1940
+
+=== Dist 2 visual (samples) ===
+n0256–n0257 IMAGE SEEN nil Newman.
+n0340 Thomas NEWLAND 30 already REJECT — not repeated.
+n0341 after NEWLAND: Mayhall / Jackson / Moore / Nott — nil Newman.
+n0354 last names IMAGE SEEN nil Newman.
+Dist 2 remaining n0258–n0339 / n0342–n0353 NOT every-line closed. C1942
+
+=== Leftover compiled ===
+SK Franklin/Mercer ~108–110 B = 404.
+KYGenWeb / us-census / kykinfolk / Wayback SK fail.
+USGW Franklin 1850 dir timeout.
+GT Franklin census LIVE 2217 B — 1810 link only; no 1850 table.
+IA Solr franklin 1850indx hits are other KY reels, not a name index. C1943
+
+=== OPEN catalogs ===
+GT Lee WWI LIVE 452540. Luther = Brandenburg + Underwood only. Cards unread.
+FS 1146342 SPA 19651 B isLoggedIn present (R011-82).
+FAQ 9938 LIVE rooms 228–229. No free June 1958 clip. Phone not re-asked.
+IA 602 metadata {}. pass123 still 515. One line.
+IA Solr M1509 KY 0.
+USGenNet wills LIVE: Jane Steele / Elizabeth / Mary F. — no Samuel P.
+Grant 21 not merged. B084 POSSIBLE Jr only. No 1966/1962. No 33-12/33-13.
+C1944–C1950
+
+=== Same-person / process ===
+Parents of 1928 Frank still PROBABLE. Jane not Rhoda. #28 stands.
+Living head remains Owsley 299B hh 311 William 26 × Jane 22 $325.
+No free license. Variants cats 1–4: William/Wm/Jno × Newman/Newnam/Newmon/
+Numan/Newland/Nance/Boman/Amos/Jeremiah; Tinker/Tincher/Kirkpatrick.
+Soundex N550 / T526 / S350 / Newland N453.
+C1951 C1952

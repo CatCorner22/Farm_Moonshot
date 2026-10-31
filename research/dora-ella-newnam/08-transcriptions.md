@@ -1235,3 +1235,80 @@ Pass 2: Tinker not Tincher; head 60 not 26; wife Licy 33 not Jane/Rhoda. 1st Dis
 > … last line: Joseph Newman 9 M Mississippi (other house)
 
 Pass 2: William is 17, a son. Jane is 3. Head is John 51 NC, not William 26. **REJECT**. → **C1853 C1854** / **S1524**.
+
+## DOC058 — 1850 Henry Dist 1 n0498 Jesse Norman 56
+
+**Inventory:** `sources/census/pass142/keyplates/henry-n0498-jesse-norman-tight.jpg` SHA **7dd6f5f30e85…** (image seen). Compiled KYGenWeb page **420-b**. n0497 stamp **420**.
+
+### Diplomatic
+> 826/830  Rutherford Levi     38  M  Farmer
+>           Rutherford Ellen     25  F
+>           Rutherford John       2  M
+>           Rutherford Fanny   7/12  F
+> 827/831  Norman Jesse        56  M  Farmer
+>           Norman Elizabeth     52  F
+>           Norman Stephen       28  M
+>           Norman Sally         24  F
+>           Norman Emily         21  F
+>           Norman E             18  F
+>           Norman A             15  F
+>           Norman M C           14  F
+>           Norman J L           12  M
+>           Norman Delia          8  ?
+>           Norman J W            6  M
+
+Pass 2: first letter **N-o-r-m-a-n** (not Newman). Head 56 Va (compiled), not William 26. Wife Elizabeth, not Jane/Rhoda. **REJECT**. → **C1873** / **S1539**.
+
+## DOC059 — 1850 Hart Dist 1 n0035 Robert Boman 37
+
+**Inventory:** `sources/census/pass143/keyplates/hart-n0035-robert-boman-tight.jpg` SHA **c56e460354e9…** (image seen). n0035, hh **205/205**.
+
+### Diplomatic
+> 204/204  Green B Bush       26  M
+>           Elizabeth           23  F
+>           James P              1  M
+> 205/205  Robert Boman       37  M
+>           Cecilia             47  F
+>           Catharine           16  F
+
+Pass 2: first letter **B** (Boman/Bowman), not N. Head 37, not William 26. Wife Cecilia, not Jane/Rhoda. **REJECT**. → **C1893** / **S1553**.
+
+## DOC060 — 1850 Franklin Dist 2 n0340 Thomas Newland 30
+
+**Inventory:** `sources/census/pass143/keyplates/franklin-n0340-newland1.jpg` SHA **ce01ba5050fa…** (image seen). Dist 2, 28 Sept 1850, stamp **203**, n0340.
+
+### Diplomatic
+> 201  Daniel Pellman[?]   35  M
+>       Losa Pellman        27  F
+> 202  Thomas Newland      30  M
+
+Pass 2: surname **Newland** (extra *l*; not Newman). Head 30, not William 26. **REJECT**. → **C1900** / **S1557**.
+
+## DOC061 — 1850 Hart Dist 1 n0120 Rebecca Kirkpatrick 60
+
+**Inventory:** `sources/census/pass144/keyplates/hart-n0120-kirkpatrick.jpg` SHA **fffc1410e968…** (image seen). n0120, 14 Aug 1850, J.W. Barrett.
+
+### Diplomatic
+> 713/725  Pleasant Catherland  35  M  Farmer
+>           Letho                 36  F
+>           Melissa A              6  F
+> 714/726  Rebecca Kirkpatrick  60  F
+>           Thomas Timmons        35  M  Farmer
+>           C T Trotter           27  M  Physician
+> 715/727  Eli Murray           71  M  Farmer
+
+Pass 2: surname **Kirkpatrick** (not Tinker/Tincher). Head 60 female, not William 26. **REJECT**. → **C1918** / **S1570**.
+
+## DOC062 — 1850 Franklin Dist 1 n0164 Jeremiah[?] Newman 27
+
+**Inventory:** `sources/census/pass145/keyplates/franklin-n0164-newman-tight.jpg` SHA **b4619717df1be186…** (image seen). Dist 1, 11 Aug 1850, Charles Noe, stamp **27**, n0164.
+
+### Diplomatic
+> 186/186  Frances Sullivan     36  M  Laborer  Ireland
+>           Honor[?] A. Gilligan  21  F           Ireland
+> 187/187  Jeremiah[?] Newman   27  M  Laborer
+>           Mary Newman          28  F
+>           John Newman           4/12 M
+> 188/188  John Haynes          32  M  Blacksmith  Kentucky
+
+Pass 2: surname **Newman**. Head given name **Jeremiah[?]** (first letter J/L loop). Head 27 Laborer, not William 26 farmer **$325**. Wife **Mary 28**, not Jane 22 / not Rhoda. Infant **John 4/12**, not Francis 4 F / Leanner 2. **REJECT**. → **C1940** / **S1584 S1585**.

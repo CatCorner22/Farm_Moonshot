@@ -1,0 +1,79 @@
+Pass 142 extract — 31 Oct 2026
+B058: LOC sn89051008 item.digitized: false (34425 B). IA Solr Post-Dispatch 1926 0.
+Film unread. Phone not re-asked. C1869
+
+=== Henry Dist 1 visual close n0440–n0519 ===
+Reel 204. Dist 1 header n0440 IMAGE SEEN (2 Aug 1850, J. Brannin).
+n0519 stamp 431 IMAGE SEEN. n0520 Dist 2 header 2 Sept IMAGE SEEN.
+Every Dist 1 leaf n0440–n0519 name column IMAGE SEEN.
+Nil Newman / Newnam / Tincher / Tinker as a living head.
+N-lookalikes isolated:
+  n0447 hh 167/471 Foreman Martha 32 F + Foreman Elizh 16 — NOT Newman. REJECT.
+  n0463 hh 170/584 Herman J. C. 23 M farmer + Elizabeth 21 — NOT Newman. REJECT.
+  n0498 hh 827/831 Jesse NORMAN 56 M farmer + Elizabeth + Stephen/Sally/Emily/E/A/M C/J L/Delia/J W
+        hh 826/830 Rutherford Levi 38 before. Compiled KYGenWeb 420-b agrees.
+        IMAGE SEEN REJECT vs William 26 × Jane 22. SHA 7dd6f5f30e85a657…
+KYGenWeb Dist 1+2 transcription (pg364–466) compiled nil Newman/Newnam/Tincher/Tinker.
+Only N-lookalike in the compiled set is Jesse NORMAN 56 VA $2800 on 420-b.
+Henry Dist 1 CLOSED for the living-head hunt.
+Dist 2 residual n0520–n0586 not the Dist 1 close. Compiled Dist 2 also nil Newman.
+C1870–C1875
+
+=== Hart Dist 1 remaining odds — visual sample, NOT closed ===
+n0005 stamp 3 already mapped. Remaining odds downloaded (pass140/141).
+Visual IMAGE SEEN (household-head surnames): n0007 Massey/Long/Ellett;
+n0011 Jaggers/Henry/Watts; n0015 Jaggers/Bruner/Hackett/Harper;
+n0019 Logsdon/Camel/Jaggers/McDonell/Lander/Goodman;
+n0023 Robertson/Broderick/Allen/Ahlbaugh;
+n0027 Smith/Marr/Oldham/Blaylock/Jones;
+n0031 Ward/Lee/Hensley/Farlinghaine/Holder;
+n0051 Watkins/Heeler/Atkinson/Reynolds/Gardner;
+n0071 Todd/Bruner/Logsdon/Holder;
+n0091 Wright/Chapton/Mays/Goldsmith/Borden;
+n0111 Young/Brown/Lee/Cunningham/Jaggers;
+n0131 Moss/Dunagan/Boster/Baylor/Clymer/Vaughton/Payton;
+n0151 Miller/Lively/Vance/Kati/Maggome/Divers/Sidney/Cates.
+Nil Newman/Tincher on those leaves.
+GT 1850Census.html is hh 1–20 of Division 1 only (18 July). Nutt Robert 66 PA —
+not Newman. No Newman/Tincher in that slice. Further GT numbered pages 404.
+County NOT closed (remaining odds not every-line visual).
+C1876
+
+=== Remaining-county densify (samples IMAGE SEEN; not closed) ===
+Franklin reel 200: n0148–n0448 densify. Visual n0154 Poe/Parker/Long;
+n0320 Bays/Sweeney/Hulett/Frazier/Harris/Ellis/Morris. Nil Newman.
+Mercer reel 213: n0154–n0374 densify. Visual n0204 Daniel/Landry/McClure/
+Bradshaw/Rutherford; n0284 Magruder/Moss/Ritchey/Sutton/Whitehead/Royal.
+Nil Newman. Do not repeat closed Mercer SK 404.
+Lincoln reel 210 Dist 1 remaining densify. n0253 header is Dist 2 29th day
+(already-closed Dist 2 — do not reopen). Visual n0217 Floyd/William/Vaughn.
+Nil Newman on Dist 1 samples.
+Hopkins reel 205 remaining (skip n0238 Francis J / n0240 John 59).
+Visual n0190 Jackson/Fox/Melody/Suthard/Foy/Reid/Tilley/Rubner. Nil Newman.
+Larue reel 209 Hamilton remaining. Visual n0169 Thomas/Powell/Kinnison/
+Crander/Wallace/Merton/Duckworth. Nil Newman.
+Counties NOT closed.
+C1877–C1881
+
+=== Leftover western compiled ===
+SK Hart/Henry/Allen/Warren/Meade/Union/Grayson 404 this pass (CDX Henry/Hart empty).
+USGW Henry/Hart dirs timeout. kykinfolk-owsley SSL/0. fishergenes 404.
+C1882
+
+=== OPEN catalogs (one-liners) ===
+GT Lee WWI LIVE 452540. Luther = Brandenburg + Underwood only. Cards unread.
+FS 1146342 SPA 19654 B isLoggedIn false (R011-79).
+FAQ 9938 LIVE rooms 228–229. No free June 1958 clip. Phone not re-asked.
+IA 602 metadata HTTP 502. pass123 still 515. One line.
+IA Solr M1509 KY 0.
+USGenNet wills LIVE: Jane Steele / Elizabeth / Mary F. — no Samuel P.
+Grant 21 not merged. B084 POSSIBLE Jr only. No 1966/1962. No 33-12/33-13.
+C1883–C1888
+
+=== Same-person / process ===
+Parents of 1928 Frank still PROBABLE. Jane not Rhoda. #28 stands.
+Living head remains Owsley 299B hh 311 William 26 × Jane 22 $325.
+No free license. Variants cats 1–4: William/Wm/Jno × Newman/Newnam/Newmon/Numan;
+Foreman/Herman/Norman isolated as N-lookalikes; Tinker/Tincher; Mary/mayr.
+Soundex N550 / T526 / S350.
+C1889 C1890

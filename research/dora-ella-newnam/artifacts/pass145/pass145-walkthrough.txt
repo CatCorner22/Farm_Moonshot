@@ -1,0 +1,11 @@
+Pass 145 walkthrough — 31 Oct 2026
+Franklin Dist 1 start remapped to n0149 (n0148 = Floyd).
+Dist 2 starts n0256; last names n0354; n0355 blank; n0356 Gallatin Warsaw.
+Dist 1 n0149–n0202 + n0254–n0255 IMAGE SEEN.
+hh 187/187 Jeremiah[?] Newman 27 Laborer × Mary 28 + John 4/12
+  IMAGE SEEN REJECT (SHA b4619717…).
+Dist 1 remaining n0203–n0253 NOT every-line closed.
+Dist 2 remaining NOT every-line closed. County NOT closed.
+Do not repeat Jeremiah Newman 27 / n0149 start / n0355 blank / Gallatin n0356 / NEWLAND n0340.
+Living head remains Owsley 299B hh 311 William 26 × Jane 22 $325.
+Jane not Rhoda. #28 stands. Parents of 1928 Frank still PROBABLE.

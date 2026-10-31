@@ -2404,3 +2404,87 @@
 | C1866 | Grant 21 **not merged**. B084 POSSIBLE Jr only. Do not print 1966 or 1962. Did not walk **33-12 / 33-13**. Phones / R001/R007/R008 not re-asked | PROVEN as process | S1536 L1689 | B081 B084 B082 |
 | C1867 | Parents of 1928 Frank still **PROBABLE**. Jane **not** Rhoda. #28 stands. Living head remains Owsley hh **311**. No free license | PROVEN as process | S1536 L1690 | B071 |
 | C1868 | Variants cats **1–4**: William/Wm/Jno × Newman/Newnam/Newmon/Numan; Mary/mayr; Tinker/Tincher. Soundex **N550** / **T526** / **S350** | PROVEN as process | S1536 L1691 | B071 |
+| C1869 | LOC sn89051008 `item.digitized: false` (34425 B). IA Solr Post-Dispatch 1926 **0**. Film unread. Phone not re-asked | PROVEN as catalog | S1537 S1538 L1692 | B058 |
+| C1870 | Henry Dist 1 n0440–n0519 every-leaf name columns **IMAGE SEEN**. Nil Newman/Newnam/Tincher/Tinker living head. n0440 Dist 1 2 Aug; n0519 stamp **431**; n0520 Dist 2 2 Sept | PROVEN as image + mapping | S1529 S1542 L1693 | B071 |
+| C1871 | Henry n0447 hh **167/471 Foreman Martha 32** F + Elizh **16**. **REJECT** as Newman | PROVEN as image + reject | S1542 L1694 | B071 |
+| C1872 | Henry n0463 hh **170/584 Herman J. C. 23** farmer + Elizabeth **21**. **REJECT** as Newman | PROVEN as image + reject | S1542 L1695 | B071 |
+| C1873 | Henry n0498 hh **827/831 Jesse NORMAN 56** farmer + Elizabeth + Stephen/Sally/Emily/E/A/M C/J L/Delia/J W. hh **826/830 Rutherford Levi 38**. **IMAGE SEEN REJECT** vs William **26** × Jane **22**. SHA **7dd6f5f3…** | PROVEN as image + reject | S1539 S1540 L1696 | B071 |
+| C1874 | KYGenWeb Henry 1850 Dist 1+2 (pg **364–466**) compiled **nil** Newman/Newnam/Tincher/Tinker. Only N-lookalike Jesse NORMAN **56** VA **$2800** on **420-b** | PROVEN as compiled-index | S1540 S1541 L1697 | B071 |
+| C1875 | Henry Dist 1 **CLOSED** for the living-head hunt (every-leaf visual + compiled). Dist 2 residual n0520–n0586 is not the Dist 1 close | PROVEN as close | S1539 S1540 S1541 L1697 | B071 |
+| C1876 | Hart Dist 1 remaining odds visual sample (n0007/11/15/19/23/27/31/51/71/91/111/131/151) **IMAGE SEEN** nil Newman/Tincher. GT 1850Census hh **1–20** Nutt **66** only. County **NOT** closed | PROVEN as image + residual | S1543 L1698 | B071 |
+| C1877 | Franklin remaining densify n0154 / n0320 **IMAGE SEEN** nil Newman. County **NOT** closed | PROVEN as image + residual | S1550 L1699 | B071 |
+| C1878 | Mercer remaining densify n0204 / n0284 **IMAGE SEEN** nil Newman. County **NOT** closed | PROVEN as image + residual | S1550 L1700 | B071 |
+| C1879 | Lincoln Dist 1 remaining sample n0217 **IMAGE SEEN** nil. n0253 header Dist 2 (already closed). Dist 1 **NOT** closed | PROVEN as image + residual | S1550 L1701 | B071 |
+| C1880 | Hopkins remaining n0190 **IMAGE SEEN** nil. Did not repeat Francis J n0238 / John **59** n0240. County **NOT** closed | PROVEN as image + residual | S1550 L1702 | B071 |
+| C1881 | Larue Hamilton remaining n0169 **IMAGE SEEN** nil. County **NOT** closed | PROVEN as image + residual | S1550 L1703 | B071 |
+| C1882 | SK leftover Hart/Henry/Allen/Grayson/Meade/Union/Warren **404**. USGW Henry/Hart timeout. CDX empty | PROVEN as catalog | S1550 L1704 | B071 |
+| C1883 | GT Lee WWI **LIVE 452540**. Luther = Brandenburg + Underwood only. Cards unread | PROVEN as compiled | S1544 L1705 | B059 |
+| C1884 | FS **1146342** SPA **19654** B `isLoggedIn false` (R011-**79**) | PROVEN as catalog | S1545 L1706 | B065 B069 |
+| C1885 | Hutchins FAQ **9938** **LIVE** cards rooms **228–229**. No free June **1958** clip. Phone not re-asked | PROVEN as catalog | S1546 L1707 | B055 B080 |
+| C1886 | IA **602** metadata HTTP **502**. pass123 still **515**. One line | PROVEN as catalog | S1547 L1708 | B088 |
+| C1887 | IA Solr M1509 KY **0**. Cards unread | PROVEN as catalog | S1548 L1709 | B069 |
+| C1888 | USGenNet wills **LIVE** — Jane Steele / Elizabeth / Mary F. — **no** Samuel P. Grant 21 **not merged**. B084 POSSIBLE Jr only. Do not print 1966 or 1962. Did not walk **33-12 / 33-13** | PROVEN as compiled + process | S1549 S1550 L1710 L1711 | B045 B065 B081 B084 B082 |
+| C1889 | Parents of 1928 Frank still **PROBABLE**. Jane **not** Rhoda. #28 stands. Living head remains Owsley hh **311**. No free license | PROVEN as process | S1550 L1712 | B071 |
+| C1890 | Variants cats **1–4**: William/Wm/Jno × Newman/Newnam/Newmon/Numan; Foreman/Herman/Norman isolated; Mary/mayr; Tinker/Tincher. Soundex **N550** / **T526** / **S350** | PROVEN as process | S1550 L1713 | B071 |
+| C1891 | LOC sn89051008 `item.digitized: false` (34425 B). IA Solr Post-Dispatch 1926 **0**. Film unread. Phone not re-asked | PROVEN as catalog | S1551 S1552 L1714 | B058 |
+| C1892 | Hart Dist 1 remaining odds n0007–n0187 every-odd name columns **IMAGE SEEN** (91 leaves). Nil Newman/Newnam/Tincher/Tinker living head. Remaining-odds set **CLOSED** | PROVEN as image + close | S1553 S1554 L1715 | B071 |
+| C1893 | Hart n0035 hh **205/205 Robert BOMAN 37** M + Cecilia **47**. **IMAGE SEEN REJECT** vs William **26** × Jane **22**. SHA **c56e4603…** | PROVEN as image + reject | S1553 L1716 | B071 |
+| C1894 | Hart n0119 hh **724 Frederick NANCE 26** M. **IMAGE SEEN REJECT** | PROVEN as image + reject | S1555 L1717 | B071 |
+| C1895 | Hart n0135 hh **834 George AMOS 70**. **IMAGE SEEN REJECT** | PROVEN as image + reject | S1554 L1718 | B071 |
+| C1896 | Hart Dist 1 tail n0191–n0197 **IMAGE SEEN** nil Newman/Tincher. n0197 stamp **268** 14 Sept. n0198 Dist 1 certificate (no names). Last Hart name leaf **n0197** | PROVEN as image + mapping | S1556 L1719 | B071 |
+| C1897 | Reel 204 n0199 = Henderson Dist 1 hh **1** start **IMAGE SEEN** as county change only. Henderson already **CLOSED** compiled — not walked | PROVEN as mapping | S1556 L1720 | B071 |
+| C1898 | Hart Dist 1 evens n0006–n0190 still OCR-draft residual. Dist 1 **NOT** every-even closed | PROVEN as residual | S1554 L1721 | B071 |
+| C1899 | Franklin Dist 1 n0150 2 Aug stamp **15** / Dist 2 n0270–n0340 **IMAGE SEEN** samples nil Newman. Gallatin by n0380 (already closed compiled) | PROVEN as image + mapping | S1557 S1566 L1722 | B071 |
+| C1900 | Franklin Dist 2 n0340 hh **202 Thomas NEWLAND 30** M. **IMAGE SEEN REJECT**. 28 Sept stamp **203**. SHA **ce01ba50…** | PROVEN as image + reject | S1557 L1723 | B071 |
+| C1901 | Franklin remaining 50 namecols densified. County **NOT** every-line closed | PROVEN as residual | S1566 L1724 | B071 |
+| C1902 | Mercer remaining densify n0200 **IMAGE SEEN** nil Newman. County **NOT** closed | PROVEN as image + residual | S1566 L1725 | B071 |
+| C1903 | Lincoln Dist 1 remaining n0186 **IMAGE SEEN** nil. Dist 2 already closed. Dist 1 **NOT** closed | PROVEN as image + residual | S1566 L1726 | B071 |
+| C1904 | Hopkins remaining n0170 **IMAGE SEEN** nil. Did not repeat Francis J n0238 / John **59** n0240. County **NOT** closed | PROVEN as image + residual | S1566 L1727 | B071 |
+| C1905 | Larue Hamilton remaining n0175 **IMAGE SEEN** nil. County **NOT** closed | PROVEN as image + residual | S1566 L1728 | B071 |
+| C1906 | SK leftover Hart/Franklin/Mercer/Lincoln/Hopkins/Larue/Allen/Warren/Meade/Union/Grayson **404**. Reeves Hart 1850 Reeves-only. USGW Hart CDX **404** | PROVEN as catalog | S1558 S1566 L1729 | B071 |
+| C1907 | GT Lee WWI **LIVE 452540**. Luther = Brandenburg + Underwood only. Cards unread | PROVEN as compiled | S1559 L1730 | B059 |
+| C1908 | FS **1146342** SPA **19655** B `isLoggedIn false` (R011-**80**) | PROVEN as catalog | S1560 L1731 | B065 B069 |
+| C1909 | Hutchins FAQ **9938** **LIVE** cards rooms **228–229**. No free June **1958** clip. Phone not re-asked | PROVEN as catalog | S1561 L1732 | B055 B080 |
+| C1910 | IA **602** metadata **{}**. pass123 still **515**. One line | PROVEN as catalog | S1562 L1733 | B088 |
+| C1911 | IA Solr M1509 KY **0**. Cards unread | PROVEN as catalog | S1563 L1734 | B069 |
+| C1912 | USGenNet wills **LIVE** — Jane Steele / Elizabeth / Mary F. — **no** Samuel P. | PROVEN as compiled | S1564 L1735 | B045 B065 |
+| C1913 | Grant 21 **not merged**. B084 POSSIBLE Jr only. Do not print 1966 or 1962. Did not walk **33-12 / 33-13**. Phones / R001/R007/R008 not re-asked | PROVEN as process | S1566 L1736 | B081 B084 B082 |
+| C1914 | Parents of 1928 Frank still **PROBABLE**. Jane **not** Rhoda. #28 stands. Living head remains Owsley hh **311**. No free license | PROVEN as process | S1566 L1737 | B071 |
+| C1915 | Variants cats **1–4**: William/Wm/Jno × Newman/Newnam/Newmon/Numan/Newland/Nance/Boman/Amos; Foreman/Herman/Norman already isolated; Tinker/Tincher. Soundex **N550** / **T526** / **S350** | PROVEN as process | S1566 L1738 | B071 |
+| C1916 | LOC sn89051008 `item.digitized: false` 34425 B. IA Solr Post-Dispatch 1926 **0**. Film unread. Phone not re-asked | PROVEN as catalog | S1567 S1568 L1739 | B058 |
+| C1917 | Hart Dist 1 remaining evens n0006–n0190 every-even name columns **IMAGE SEEN** (93 leaves). Nil Newman/Newnam/Tincher/Tinker living head. Remaining-evens set **CLOSED** | PROVEN as image + close | S1569 S1578 L1740 | B071 |
+| C1918 | Hart Dist 1 n0120 hh **714/726 Rebecca KIRKPATRICK 60** F **IMAGE SEEN REJECT**. Not Tinker/Tincher. SHA **fffc1410…** | PROVEN as image + reject | S1570 L1741 | B071 |
+| C1919 | Hart Dist 1 every name leaf **IMAGE SEEN** (n0005 start + odds n0007–n0187 + evens n0006–n0190 + tail n0191–n0197). n0198 Dist 1 certificate. n0199 Henderson. No Dist 2 on reel **204**. Dist 1 **CLOSED**. County **CLOSED** | PROVEN as image + close | S1569 S1578 L1742 | B071 |
+| C1920 | Lincoln reel **210** n0170 = **Lewis** Dist 1 stamp **240**. n0173 = **Lincoln** Dist 1 start 5 Sept | PROVEN as image + mapping | S1571 S1572 L1743 | B071 |
+| C1921 | Lincoln Dist 1 remaining n0173–n0239 samples **IMAGE SEEN** nil Newman. Dist 2 already closed. Dist 1 **NOT** every-line closed | PROVEN as image + residual | S1578 L1744 | B071 |
+| C1922 | Larue Hamilton n0167 3 Sept / n0280 still Hamilton 13 Sept stamp **458**. Remaining densified. County **NOT** closed | PROVEN as image + residual | S1573 S1578 L1745 | B071 |
+| C1923 | Franklin / Mercer remaining OCR-draft sample 86 surname crops **0** N/T flags. Counties **NOT** visually closed. Did not repeat NEWLAND n0340 | PROVEN as OCR-draft + residual | S1578 L1746 | B071 |
+| C1924 | Hopkins remaining OCR-draft residual. Did not repeat Francis J n0238 / John **59** n0240. County **NOT** closed | PROVEN as residual | S1578 L1746 | B071 |
+| C1925 | SK leftover Hart/Franklin/Mercer/Lincoln/Hopkins/Larue **404**. USGW TOC fail. Reeves Hart Reeves-only. IA Solr 1850indx **0** | PROVEN as catalog | S1574 S1578 L1747 | B071 |
+| C1926 | GT Lee WWI **LIVE** **452540**. Luther Brandenburg + Underwood only. Cards unread | PROVEN as compiled | S1575 L1748 | B059 B069 |
+| C1927 | FS **1146342** SPA **19655** B `isLoggedIn` present. R011-**81**. Cards unread | PROVEN as catalog | S1576 L1749 | B069 |
+| C1928 | FAQ **9938** **LIVE** rooms **228–229**. No free June **1958** clip. Phone not re-asked | PROVEN as catalog | S1577 L1750 | B055 B080 |
+| C1929 | IA **602** metadata **{}**. pass123 still **515**. One line | PROVEN as catalog | S1578 L1751 | B088 |
+| C1930 | IA Solr M1509 KY **0**. Cards unread | PROVEN as catalog | S1578 L1752 | B069 |
+| C1931 | USGenNet wills **LIVE** — Jane Steele / Elizabeth / Mary F. — **no** Samuel P. | PROVEN as compiled | S1578 L1753 | B045 B065 |
+| C1932 | Grant 21 **not merged**. B084 POSSIBLE Jr only. Do not print 1966 or 1962. Did not walk **33-12 / 33-13**. Phones / R001/R007/R008 not re-asked | PROVEN as process | S1578 L1754 | B081 B084 B082 |
+| C1933 | Parents of 1928 Frank still **PROBABLE**. Jane **not** Rhoda. #28 stands. Living head remains Owsley hh **311**. No free license | PROVEN as process | S1578 L1755 | B071 |
+| C1934 | Variants cats **1–4**: William/Wm/Jno × Newman/Newnam/Newmon/Numan/Newland/Nance/Boman/Amos/Kirkpatrick; Foreman/Herman/Norman already isolated; Tinker/Tincher/Kirkpatrick. Soundex **N550** / **T526** / **S350** | PROVEN as process | S1578 L1756 | B071 |
+| C1935 | LOC sn89051008 `item.digitized: false` 34425 B. IA Solr Post-Dispatch 1926 **0**. Film unread. Phone not re-asked | PROVEN as catalog | S1579 S1580 L1757 | B058 |
+| C1936 | Franklin Dist 1 starts reel **200** n0149 (District No 1, County of Franklin, Charles Noe). n0148 is Floyd. Remaps Dist 1 start one leaf earlier than n0150 | PROVEN as image + mapping | S1581 S1592 L1758 | B071 |
+| C1937 | Franklin Dist 2 starts n0256 (John A. Monroe). n0255 last Dist 1 name leaf | PROVEN as image + mapping | S1582 S1592 L1759 | B071 |
+| C1938 | Franklin Dist 2 last names n0354. n0355 Dist 2 header 30 Sept but name column **blank**. n0356 Town of Warsaw, Gallatin (already CLOSED compiled — not walked) | PROVEN as image + mapping | S1582 S1592 L1759 | B071 |
+| C1939 | Franklin Dist 1 n0149–n0202 + n0254–n0255 name columns **IMAGE SEEN**. Nil Newman/Tincher living head except n0164 isolate. Newton / Romain / Steadman / Samuel **REJECT** | PROVEN as image | S1583 S1592 L1760 | B071 |
+| C1940 | Franklin Dist 1 n0164 hh **187/187 Jeremiah[?] Newman 27** M Laborer × **Mary Newman 28** + **John Newman 4/12**. 11 Aug 1850 stamp **27**. SHA **b4619717…**. **IMAGE SEEN REJECT** vs Owsley hh **311** William **26** × Jane **22** and vs William × Rhoda | PROVEN as image + reject | S1584 S1585 L1761 | B071 |
+| C1941 | Franklin Dist 1 remaining n0203–n0253 densified on disk. **NOT** every-line visually closed | PROVEN as residual | S1592 L1762 | B071 |
+| C1942 | Franklin Dist 2 samples n0256–n0257 / n0341 / n0354 **IMAGE SEEN** nil Newman. Did not repeat NEWLAND n0340. Dist 2 **NOT** every-line closed. County **NOT** closed | PROVEN as image + residual | S1592 L1763 | B071 |
+| C1943 | SK Franklin/Mercer **404**. USGW Franklin 1850 dir timeout. GT Franklin census **LIVE** 1810 only. IA Solr 1850indx hits are other KY reels | PROVEN as catalog | S1586 S1587 S1592 L1764 | B071 |
+| C1944 | GT Lee WWI **LIVE** 452540. Luther Brandenburg + Underwood only. Cards unread | PROVEN as catalog | S1588 L1765 | B059 B069 |
+| C1945 | FS **1146342** SPA **19651** B `isLoggedIn` present. R011-**82**. Cards unread | PROVEN as catalog | S1589 L1766 | B069 |
+| C1946 | FAQ **9938** **LIVE** rooms **228–229**. No free June 1958 clip. Phone not re-asked | PROVEN as catalog | S1590 L1767 | B055 B080 |
+| C1947 | IA **602** metadata **{}**. pass123 still **515**. One line | PROVEN as catalog | S1592 L1768 | B088 |
+| C1948 | IA Solr M1509 KY **0**. Cards unread | PROVEN as catalog | S1592 L1769 | B069 |
+| C1949 | USGenNet wills **LIVE** — Jane Steele / Elizabeth / Mary F. — **no** Samuel P. | PROVEN as compiled | S1592 L1770 | B045 B065 |
+| C1950 | Grant 21 **not merged**. B084 POSSIBLE Jr only. Do not print 1966 or 1962. Did not walk **33-12 / 33-13**. Phones / R001/R007/R008 not re-asked | PROVEN as process | S1592 L1771 | B081 B084 B082 |
+| C1951 | Parents of 1928 Frank still **PROBABLE**. Jane **not** Rhoda. #28 stands. Living head remains Owsley hh **311**. No free license | PROVEN as process | S1592 L1772 | B071 |
+| C1952 | Variants cats **1–4**: William/Wm/Jno/Jeremiah × Newman/Newnam/Newmon/Numan/Newland/Nance/Boman/Amos; Tinker/Tincher/Kirkpatrick. Soundex **N550** / **T526** / **S350** / Newland **N453** | PROVEN as process | S1592 L1773 | B071 |

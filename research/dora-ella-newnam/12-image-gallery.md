@@ -1387,3 +1387,43 @@ Same sheet, lines 8–14, with William P. 26 visible.
 ![Trigg 314A John Newman 51](sources/census/pass141/keyplates/trigg-314a-john-newman-tight.jpg)
 
 **Source:** S1524 · C1853
+
+## 1850 — Henry Dist 1 Jesse Norman 56 (pass 142)
+
+1850 U.S. census, Henry County, District 1, n0498 (compiled 420-b) — household 827/831 **Jesse Norman**, 56, farmer, with Elizabeth and children. Rejected versus William × Jane. Not Newman.
+
+![Henry n0498 Jesse Norman 56](sources/census/pass142/keyplates/henry-n0498-jesse-norman-tight.jpg)
+
+**Source:** S1539 · C1873
+
+## 1850 — Hart Dist 1 Robert Boman 37 (pass 143)
+
+1850 U.S. census, Hart County, District 1, n0035 — household 205/205 **Robert Boman**, 37, with Cecilia, 47. Rejected versus William × Jane. Not Newman.
+
+![Hart n0035 Robert Boman 37](sources/census/pass143/keyplates/hart-n0035-robert-boman-tight.jpg)
+
+**Source:** S1553 · C1893
+
+## 1850 — Franklin Dist 2 Thomas Newland 30 (pass 143)
+
+1850 U.S. census, Franklin County, District 2, n0340 — household 202 **Thomas Newland**, 30. Rejected versus William × Jane. Not Newman.
+
+![Franklin n0340 Thomas Newland 30](sources/census/pass143/keyplates/franklin-n0340-newland1.jpg)
+
+**Source:** S1557 · C1900
+
+## 1850 — Hart Dist 1 Rebecca Kirkpatrick 60 (pass 144)
+
+1850 U.S. census, Hart County, District 1, n0120 — household 714/726 **Rebecca Kirkpatrick**, 60. Rejected versus Tinker/Tincher. Not Newman.
+
+![Hart n0120 Rebecca Kirkpatrick 60](sources/census/pass144/keyplates/hart-n0120-kirkpatrick.jpg)
+
+**Source:** S1570 · C1918
+
+## 1850 — Franklin Dist 1 Jeremiah[?] Newman 27 (pass 145)
+
+1850 U.S. census, Franklin County, District 1, n0164 — household 187/187 **Jeremiah[?] Newman**, 27, Laborer, with Mary, 28, and John, 4/12. Rejected versus William × Jane and versus William × Rhoda.
+
+![Franklin n0164 Jeremiah Newman 27](sources/census/pass145/keyplates/franklin-n0164-newman-tight.jpg)
+
+**Source:** S1584 · C1940

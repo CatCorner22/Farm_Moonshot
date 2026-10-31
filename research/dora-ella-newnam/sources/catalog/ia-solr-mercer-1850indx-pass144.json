@@ -1,0 +1,2 @@
+ERR HTTPError: HTTP Error 502: Bad Gateway
+https://archive.org/advancedsearch.php?q=%28mercer%20AND%20kentucky%20AND%201850indx%29&fl[]=identifier&fl[]=title&output=json&rows=8
