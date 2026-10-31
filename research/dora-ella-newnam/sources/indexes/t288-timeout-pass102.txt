@@ -1,0 +1,21 @@
+Pass 102 — T288 IIIF timeout 22s then 30s
+Opened 31 Oct 2026 (America/New_York). Access-fail.
+Card images unseen. Original 1916 DC face unseen.
+Do not invent T288 card contents. Do not promote C509.
+Do not treat Catalog quoted Newnam title-nil as a T288 card-nil.
+
+T288 IIIF (curl):
+  https://catalog.archives.gov/iiif/3/lz%2Fdc-metro%2Frg-015%2F563268/T288-0348/T288-0348-01001.tif/info.json
+  https://catalog.archives.gov/iiif/3/lz%2Fdc-metro%2Frg-015%2F563268/T288-0347/T288-0347-01001.tif/info.json
+    First try this pass: both reels timeout 22s, 0 bytes (curl 28).
+    Retry: both reels timeout 30s, 0 bytes (curl 28).
+  Card images unseen.
+  Prior Pass 101 timeout 25s reel 348; Pass 100 timeout 20s both reels;
+  Pass 99 HTTP 502. Path still known. Pixels unseen.
+
+NARA catalog records/search?q=Newnam&naId=563268 HTTP 200 5,454 bytes:
+  SPA HTML, not the microfilm. Not a T288 card-nil.
+
+B061 remains open. Residual: original 1932 DC vol 020 #09525; Estill 1826–1850 bonds;
+M123-3 original; T288 card images (IIIF path known; pixels timeout 22s / 30s
+this pass, 0 bytes).

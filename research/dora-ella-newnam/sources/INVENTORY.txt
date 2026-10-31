@@ -2783,3 +2783,16 @@ research/dora-ella-newnam/sources/census/1880-lee-ky-ed59-sheet43-p768-caroline-
   sha256: bbefde8f9403bb99070050b1a5b706ebf6faecd175a6d9df335d6670422edee7
   format: text extract, 1,028 bytes
   check: T288 IIIF reel 348 timeout 25s 0 bytes; Johnson IA 403
+
+/workspace/research/dora-ella-newnam/sources/indexes/pass102-coverage.txt
+  sha256: e1fe01c6148700ef80cc6e8d1dd7842f9a2e9637e2407b4d9869d8185c81a785
+  format: text extract, 2,099 bytes
+  check: Pass 102 coverage; catalog 190 NEW 0; GT Lincoln/Wayne; Rowan unseen; T288 timeout 22s/30s
+/workspace/research/dora-ella-newnam/sources/indexes/josephine-gilbert-pass102.txt
+  sha256: 702916ef8ba7129485b73f930ee77387d3c3c0fd6501935a43077968d9c52f4c
+  format: text extract, 4,327 bytes
+  check: GT Lincoln extract through 1901 n/a as 1902; Wayne 1801-1813 n/a; Rowan table unseen
+/workspace/research/dora-ella-newnam/sources/indexes/t288-timeout-pass102.txt
+  sha256: 795ffd3857ab05012ea47af204006fabcf7618654a51c8bf688498bebc199147
+  format: text extract, 1,085 bytes
+  check: T288 IIIF reel 348/347 timeout 22s then 30s 0 bytes

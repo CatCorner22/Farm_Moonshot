@@ -1,0 +1,37 @@
+Pass 102 coverage — 31 Oct 2026 (America/New_York)
+This run bc-01a18bb4-e162-785c-9724-86a7c5663bf1
+Catalog list-cloud-agents includeArchived limit 200 → 190 / hasMore false / totalMatched 190.
+Was 190 (Pass 101 filing). NEW vs 190 = 0 (no IDs imported).
+Status-only (not new IDs):
+  Hunt Dora / B068 / B070 / B071 / B072 / B073 / B074 / B075 renamed
+    B076 T624-66 Van Buren images
+    same id bc-aa43eaa5-be23-54be-a20a-7a5238fd33f8 still RUNNING.
+  Continue Dora life details remains B053 Everett Newnam FAN
+    same id bc-c5415202-619c-5848-aaa6-1ce23094b5fd still RUNNING.
+  Dora Henry Hart 1850 RUNNING bc-3f9f34c6
+  1900–death locations RUNNING bc-6d51c793
+  Sibling PR #33 C281 not imported.
+Nested reviewer not respawned. Message queue empty.
+Skip C221–C280 / L245–L342 / S259–S266.
+Do not mint C274–C280. Do not promote C509. Do not hunt D-540.
+Do not close B063. Do not hunt remaining 1930 Owsley sheets (closed Pass 94).
+Do not import C281. Do not invent T288 card contents.
+Do not file Mary Jane Steele DISPROVED from FAG 403 / Wayback JS / id_ 404.
+Do not treat Catalog quoted Newnam title-nil as a T288 card-nil.
+Do not commit leftover 1920 ED 89 / N-550 JPEGs.
+
+Work this pass:
+- Genealogy Trails Lincoln marriages.html OPENED (68,724-byte Wayne was this pass's
+  other table; Lincoln is 147,950 bytes). Title 1852–1910 KY BMD microfilm.
+  Opened dated rows 746 spanning 1786–1901 (2 in 1901; 0 in 1902). n/a as an
+  opened 1902 Newnam license in this extract.
+- GT Wayne marriages.html OPENED (68,724 bytes): First Marriage Book 1801–1813
+  (423 rows, years 1801–1813) plus early-marriage notes through 1848. n/a ~1902.
+- Rowan 1880–1920 compilation still listed; table unseen (Wayback JS chrome
+  141,867 bytes; id_ HTTP 404; kygenweb CDX landing/index/gif only).
+- T288 IIIF reel 348 and 347 info.json timeout 22s then 30s, 0 bytes both.
+  Card images unseen.
+- Remaining 1930 Owsley not re-hunted.
+- 1916 DC face / ED 92 hh 1–13 / 1840 bond / M123-3 not opened.
+
+B061 / B063 remain open. Next unused after this pass: C1094+ / L972+ / S732+ / DOC234+.

@@ -1,0 +1,74 @@
+Pass 102 — Josephine Newnam × Gilbert ~1902 remaining substitutes
+Opened 31 Oct 2026 (America/New_York). HTML-seen compiled index / landing / CDX / 404.
+License unseen. Original 1916 DC face unseen. T288 images unseen.
+
+Genealogy Trails ken/lincoln/marriages.html OPENED (147,950 bytes).
+  Title: 1852–1910 Marriages Lincoln County, KY.
+  Source line: Kentucky Birth, Marriage and Death Records – 1852-1910.
+  Microfilm rolls #994027-994058. Submitted by K. T.
+  Opened table: 746 dated rows. Year span on dated cells 1786–1901
+  (token 1900=0; 1901=2; 1902=0; 1910=0).
+  n/a as an opened 1902 Newnam license in this extract.
+  Nil Newnam / Newman / Gilbert tokens.
+  Josephine given-name hits (bride maiden ≠ Newnam; grooms ≠ Gilbert):
+    Josephine F Dollins × Adams, Gott H 20 May 1857 DISPROVED;
+    Josephine Scott × Elmore, Menifee Sep 1857 DISPROVED;
+    Josephine Graham × Evans, Wm F 16 Jul 1852 DISPROVED;
+    Josephine Wood × Gentry, Overton H 8 Jul 1858 DISPROVED;
+    Josephine McCormack × Dawson, Wm M 16 Dec 1875 DISPROVED;
+    Josephine Padgett × Leach, Thomas 23 Aug 1877 DISPROVED;
+    Josephine Killion × Pierson, George 19 Aug 1878 DISPROVED.
+  1901 rows (other; not Newnam/Gilbert): Smith, Edward D × Bettie Hafley
+    11-Mar-1901; Sttom, Geo W × Margaret A Basten 21-Aug-1901.
+  Maggie P Newland 21 Nov 1878 other (Newland ≠ Newnam).
+  Nil Josephine Newnam × Gilbert in this opened extract.
+
+Genealogy Trails ken/wayne/marriages.html OPENED (68,724 bytes).
+  Title: Early Marriages Wayne County, KY. First Marriage Book 1801–1813
+  (423 three-column rows; dated years 1801–1813) plus early-marriage notes
+  through 1848. n/a as a 1902 Newnam license.
+  Nil Josephine / Newman / Newnam.
+  Gilbert: Anthony Cox × Mary Gilbert 6 Jul 1809 other;
+    John Gilbert × Elizabeth Gilbert 22 Aug 1810 other.
+
+Rowan 1880–1920 compilation still listed on kygenweb landing /
+  rowan-mg.html (both 5,781 bytes, no table). Wayback capture
+  20200131223810 of rootsweb usgenweb/ky/rowan/rowan.html is a JS chrome
+  shell (141,867 bytes), not the table. Wayback id_ HTTP 404 (9,509 /
+  318 bytes). kygenweb CDX 200-status captures are landing/index/gif only
+  (~2.5–2.8 KB). usgwarchives Rowan CDX shows bibles/bios/cemeteries, not
+  a marriage table in the opened slice. Table unseen.
+
+Remaining this pass n/a / 404 / landing-only / access-fail:
+  GT Perry marriages.html landing: Marriage Book K 1914 (partial) n/a ~1902.
+  GT Lee marriages.html landing: certificates/bonds + announcements; no 1902 table.
+  GT Clay/Knox/Harlan/Bell/Owsley/Breathitt/Magoffin/Wolfe/Floyd/Pike/Bath/
+    Fleming/Powell/Jackson/Knott/Letcher/Leslie/Montgomery 404 (~1,150 bytes).
+  GT Garrard 1797–1843 + Stephens family n/a ~1902.
+  GT Boyle 1842–1845 bonds n/a ~1902.
+  GT Estill 1808–1820 / William Rogers 1851–1868 n/a ~1902.
+  GT Morgan 1823–1835 n/a ~1902.
+  GT Martin: one 1922 Short×Roach announcement n/a ~1902.
+  Allen kygenweb marriages.htm 200 (12,110 bytes): historical-society holdings
+    list (books 1900–1925 / Oct 23 1902–1975 on site, not opened). n/a as an
+    opened 1902 Newnam index. /allen/marriages/ 404. GT Allen 404.
+  Johnson kygenweb /marriages/ and marriages.htm 404 (1,543). usgenwebsites
+    KYJohnson 404.
+  Magoffin/Wolfe/Lawrence/Elliott/Menifee/Boyd /marriages/ 404 (1,543).
+  Letcher kygenweb /marriages/ 200 is the county landing (89,319 bytes), not
+    a 1902 register. Year files listed 1852–59, 1874–78, 1901, 1906–1910;
+    1902 n/a. USGW CDX unique files remain 1884-91 / 1892-95 / 1896-97 only
+    (no 1898–1903 txt). Rootsweb ~kyperry3 surname indexes HTTP 403 (2 bytes).
+    1901/1906 Wayback id_ HTTP 404.
+  IA advancedsearch this pass numFound 15: Johnson 1900–1920 already 403
+    (C1081); Breathitt reconstructed 1839–1877 identified
+    (reconstructedmar0000haye, access-restricted, n/a as 1902; OCR unseen);
+    Spencer 1824–1851 n/a; Lewis already filed through 1900; remainder 2015
+    Kim Davis audio n/a.
+  TFKRHA CDX this query empty array (3 bytes).
+  FamilySearch wiki Kentucky Marriages HTTP 200 is an Imperva interstitial
+    (6,421 bytes), unread as a wiki.
+  Chronicling America search JSON 404 (84,978-byte LOC page).
+  usgwarchives.net/ky/kyfiles.htm timeout 0 bytes.
+
+License still unseen. Do not close B063.

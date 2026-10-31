@@ -5440,3 +5440,56 @@ Pass 2: Do **not** invent T288 card contents. Do **not** promote C509.
 ### Facts extracted → claim IDs
 - IIIF timeout 25s, 0 bytes; images unseen → C1083
 - B061 remaining gap → C1085
+
+## DOC231 — Catalog + Pass 102 coverage
+
+- Extract: `pass102-coverage.txt` SHA-256 `e1fe01c6148700ef80cc6e8d1dd7842f9a2e9637e2407b4d9869d8185c81a785`
+- Provenance: Cursor `list-cloud-agents` includeArchived limit 200, 31 Oct 2026. This run `bc-01a18bb4-e162-785c-9724-86a7c5663bf1`.
+- Access: process listing. **No** new independently image-backed P001 1900–1926 residence.
+
+### Diplomatic — cited extract
+
+> **190** / `hasMore: false` / `totalMatched: 190`. Unchanged vs Pass 101. NEW vs 190 (0; **no IDs imported**). Status-only: Hunt Dora **renamed** B076 T624-66 Van Buren images still RUNNING (same id). Sibling C281 **not imported**.
+
+Pass 2: Process count only. Skip **C221–C280**. Do **not** promote C509. Do **not** hunt remaining 1930 Owsley sheets.
+
+### Facts extracted → claim IDs
+- catalog 190; NEW 0 process-only → C1086
+- B063 remaining gap → C1092
+- B061 remaining gap → C1093
+
+## DOC232 — Josephine remaining substitutes (Pass 102)
+
+- Extract: `josephine-gilbert-pass102.txt` SHA-256 `702916ef8ba7129485b73f930ee77387d3c3c0fd6501935a43077968d9c52f4c`
+- Coverage: `pass102-coverage.txt` `e1fe01c6148700ef80cc6e8d1dd7842f9a2e9637e2407b4d9869d8185c81a785`
+- Provenance: GT Lincoln 1852–1910; GT Wayne 1801–1813; Rowan Wayback/CDX. Opened 31 Oct 2026. **HTML-seen / landing / CDX**. License unseen.
+
+### Diplomatic — cited extracts
+
+> GT Lincoln 1852–1910 compiled table 746 dated rows spanning 1786–1901 (2 in 1901; 0 in 1902). Nil Newnam/Newman/Gilbert. Josephine other maidens 1852–1878.
+
+> Rowan 1880–1920 compilation listed; Wayback JS chrome; id_ 404; CDX landing-only. Table unseen.
+
+Pass 2: License still unseen. Do not close B063. Do not invent unread IA items.
+
+### Facts extracted → claim IDs
+- GT Lincoln extract through 1901 n/a as 1902 → C1087
+- GT Wayne 1801–1813 n/a → C1088
+- Rowan table unseen → C1089
+- remaining n/a/404/landing → C1090
+- B063 remaining gap → C1092
+
+## DOC233 — T288 IIIF timeout 22s/30s (Pass 102)
+
+- Extract: `t288-timeout-pass102.txt` SHA-256 `795ffd3857ab05012ea47af204006fabcf7618654a51c8bf688498bebc199147`
+- Provenance: NARA Catalog IIIF T288-0348-01001 and T288-0347-01001 info.json. Opened 31 Oct 2026. **Access-fail**.
+
+### Diplomatic — cited access results
+
+> Reels 348 and 347 frame 01001 info.json timeout 22s, 0 bytes then timeout 30s, 0 bytes. Card images unseen.
+
+Pass 2: Do **not** invent T288 card contents. Do **not** promote C509.
+
+### Facts extracted → claim IDs
+- IIIF timeout 22s/30s, 0 bytes; images unseen → C1091
+- B061 remaining gap → C1093
