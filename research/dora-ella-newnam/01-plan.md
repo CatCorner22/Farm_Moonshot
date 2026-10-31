@@ -43,6 +43,9 @@ Wildcard strings to use: `New*m`, `Dor* New*`, `"Doll Newnam"`, `McCoy OR Coy Ne
 | Letha Viola Sullivan | Coy’s wife | Missouri origin may explain 1910 gap |
 | Rev. J. E. Dunagin; Link Mays | 1885 officiant / witness | FAN for 1880s Sturgeon |
 | Etta (Stone) Randall; Laura Bell (Stone) Butler | Probable stepdaughters | Tom A. Stone identity |
+| Dr. Thos. W. Beal | 1926 attending (C015) | Not in 1921/1929 AMD at Ola (C371 C373). Identity still open (B090) |
+| Thos. J. Pool, M.D. | Danville 1921 / Ola 1929 | Not Beal; Yell health-officer lead (B093) |
+| W. R. Brewer; Geo. C. Davis; Wm. Harkey; Wm. E. Ballenger; Elbert C. Hunt; J. M. Miller | 1921/1929 Ola licensees | Medical FAN around the death year |
 
 ## Ordered searches (from source-matrix.md)
 | Priority | Record set | Repository/collection | Coverage to verify | Status |
@@ -88,6 +91,16 @@ Wildcard strings to use: `New*m`, `Dor* New*`, `"Doll Newnam"`, `McCoy OR Coy Ne
 **Ladonna Newnam** — Ladonna / Ladona × Newnam/Newman. **Clay Dunigan** — Clay × Dunigan / Dunagin / Dunnigan. Soundex **D525**.
 
 Exact strings logged **L343–L360**.
+
+## Name-variant storm (31 Oct 2026 archive pass)
+
+**Thomas Beal** — given: Thomas, thos, tom, t a, t. a., t. w., t w. Surname: Beal, Beale, Beall. Soundex **B400**. Combined: `"Thomas Beal"`, `"Beal, Thomas"`, `"thos Beal"`, `"T. W. Beal"`, `"Thos. W. Beal"`.
+
+**W. R. Brewer** — Soundex **B660**. Combined: `"W. R. Brewer"`, `"Brewer, W. R."`.
+
+**Harkey** — Soundex **H620**. **Pool** — Thomas / Thos / Jefferson. **Ballenger** — William E.
+
+Exact strings logged **L380–L394**.
 
 ## Agent SDK / GitHub channel
 

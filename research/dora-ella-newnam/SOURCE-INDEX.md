@@ -26,10 +26,17 @@ Captured this session: **30 Oct 2026**. Earlier plates remain in `sources/census
 | S280 | `sources/press/ia-yell-journal-1926-search-2026-10-30.json` · `ia-beattyville-enterprise-1926-search-2026-10-30.json` | 2026-10-30 | Internet Archive Solr | https://archive.org/ | 0 items for those 1926 titles | **C301** | index only |
 | S281 | `sources/press/genealogytrails-yell-obits-landing-2026-10-30.html` | 2026-10-30 | Genealogy Trails Yell obits | https://genealogytrails.com/ark/yell/obits.html | Landing page nil Stone/Newnam/Dora/1926 | **C302** | transcription only |
 | S282 | *(same HTML as S277)* | 2026-10-30 | Lee Books 20–24 officiant rows | https://usgennet.org/usa/ky/county/lee/marriage/marrbook23.html | Luther Newnam, minister, 1926–1933 including 6 Apr 1932 | **C300** | transcription only |
+| S291 | `sources/directories/amd-1921-arkansas-yell-ola-extract-2026-10-31.txt` | 2026-10-31 | AMA *American Medical Directory* 1921 (IA `americanmedicald1921ameruoft`) | https://archive.org/details/americanmedicald1921ameruoft | Ola 655 Yell: Brewer, Davis, Harkey; Pool at Danville; no Beal; Mammoth Spring = Fulton | **C370 C371 C372 C374 C375 C380** | OCR / transcription only |
+| S292 | `sources/locality/encyclopedia-arkansas-ola-yell-2026-10-31.html` + `…-extract-2026-10-31.md` | 2026-10-31 | Encyclopedia of Arkansas, Gleason, “Ola (Yell County)” | https://encyclopediaofarkansas.net/entries/ola-yell-county-1021/ | Incorporated 20 Mar 1900; pop 516/655/648; Harkey naming; railroad/timber | **C376 C377** | page seen |
+| S294 | `sources/authored/genealogytrails-yell-bios-b-2026-10-31.html` + extract | 2026-10-31 | Genealogy Trails Yell B-biographies | https://genealogytrails.com/ark/yell/bios_b.html | Nil Beal/Brewer/Ballenger/Harkey/Pool on that page | **C378** | transcription only |
+| S295 | `sources/directories/ia-amd-1922-1929-search-2026-10-31.json` | 2026-10-31 | IA Solr AMD 1922–1929 | https://archive.org/ | 1 hit: `bwb_T3-BRL-424` (1929) | **L387** | index only |
+| S296 | `sources/directories/amd-1929-arkansas-yell-ola-extract-2026-10-31.txt` | 2026-10-31 | AMA *American Medical Directory* 1929 (IA `bwb_T3-BRL-424`) | https://archive.org/details/bwb_T3-BRL-424 | Ola: Ballenger, Harkey retired, Hunt, Miller, Pool; still no Beal | **C372 C373** | OCR / transcription only |
+| S297 | `sources/authored/Dora-Ella-Newnam-Stone-A-Life-original-main-2026-10-31.docx` (working copy alongside) | 2026-10-31 | Local `book/` Word | — | SHA-256 `781ed972…` (58,496 bytes). Drive search 0 | **L392 L393** | original bytes preserved |
+| S298 | `15-shared-stopping-point.md` · `16-agent-catalog-2026-10-31.md` | 2026-10-31 | cursor-cloud catalog | — | 165 agents; sibling next-B map | project admin | not a genealogical source |
 
 ## Word biography provenance
 
-See [`sources/authored/PROVENANCE.md`](sources/authored/PROVENANCE.md). Drive search this session (title “Dora Ella Newnam Stone A Life”, exact filename, “Newnam Stone biography”) returned **0** files. Recent Drive files were unrelated (job drafts, living-tester DNA/health — **not used**). Gmail MCP was not re-authenticated.
+See [`sources/authored/PROVENANCE.md`](sources/authored/PROVENANCE.md). **Original located in-repo:** `book/Dora-Ella-Newnam-Stone-A-Life.docx` (not Google Drive). Drive title search 31 Oct 2026 again returned **0** Dora Word files (L392). Frozen start-of-session copy: `sources/authored/Dora-Ella-Newnam-Stone-A-Life-original-main-2026-10-31.docx` SHA-256 `781ed972b5f5f6cd5d45a72cef06ff0de1dca208bccc47dd210e33b11f74ddef` (58,496 bytes). Working copy updated after this pass. Older 10-30 snapshot `78cdcf44…` (53,235 bytes) retained. Gmail MCP was not re-authenticated.
 
 ## Paywalled / on-site retrieval (not opened)
 
@@ -50,4 +57,6 @@ See [`sources/authored/PROVENANCE.md`](sources/authored/PROVENANCE.md). Drive se
 
 **Thomas / T. A. Stone:** Thomas, Tom, T. A., T A × Stone, Store, Stowe (rejects already logged).
 
-Exact strings in `02-log.md` **L343–L352**.
+**Thomas Beal (31 Oct 2026):** Thomas, thos, tom, t. w. × Beal, Beale, Beall (B400). **W. R. Brewer** B660. **Harkey** H620.
+
+Exact strings in `02-log.md` **L343–L352** and **L380–L394**.

@@ -107,7 +107,7 @@ This section states only what records pin Dora’s **physical location**. Confid
 
 **18 February 1917 — PROVEN event, PROBABLE inference for mother.** McCoy Newnam married Letha Viola Sullivan at **Ola**, Yell County. [C027] [S024] That is the first **documented Arkansas event** for this family. It does not state that Dora stood at the courthouse; it makes **western Arkansas** plausible from 1917 onward.
 
-**1920–August 1926 — PROBABLE Lamar / Carter Cove sector, Yell County.** No census line names her as Mrs. Stone. Burial geography, death registration at **Ola**, informant Coy of **Ola**, and husband Thomas Stone’s **1925** marker at Carter Cove support residence in that neighborhood after **probable** remarriage to T. A. Stone. [C014] [C016] [C211] [C129] The death certificate residence field reads **“Mammoth, Ark.”** — printed as written; no Mammoth post office is known in Yell or Perry, and a **Nimrod** misread remains **untested** against the certificate image. [C204b]
+**1920–August 1926 — PROBABLE Lamar / Carter Cove sector, Yell County.** No census line names her as Mrs. Stone. Burial geography, death registration at **Ola**, informant Coy of **Ola**, and husband Thomas Stone’s **1925** marker at Carter Cove support residence in that neighborhood after **probable** remarriage to T. A. Stone. [C014] [C016] [C211] [C129] The death certificate residence field reads **“Mammoth, Ark.”** — printed as written; no Mammoth post office is known in Yell or Perry, and a **Nimrod** misread remains **untested** against the certificate image. [C204b] The 1921 medical directory’s **Mammoth Spring** is in **Fulton** County — a different place. [C374] Ola’s licensed physicians in 1921 and 1929 are listed; **Dr. T. W. Beal is in neither book**. [C370] [C373]
 
 **23 August 1926 — PROVEN.** Death at **Ola**, Yell County, Arkansas; burial **Carters Chapel / Carter Cemetery**, Lamar Township (Carter Cove). [C015] [C206] [S003]
 
@@ -157,13 +157,15 @@ Missouri’s 1900 S-350 Thomas/Tom window does not settle it. The Thomas A. card
 
 Sometime after that census and before 1926 she became Mrs. T. A. Stone. No license has been read. The 1925 Arkansas death certificate of Thomas/Tom/T. A. Stone is the document that will settle his identity. It has not been pulled from this workspace. Ancestry blocks the virtual machine.
 
-Ola in those years was a cotton and timber town on the Rock Island line. Coy’s 1917 marriage is the first proved Arkansas date for this family. Dora’s death eight years later is the last.
+Ola in those years was a cotton and timber town on the Rock Island line. The Encyclopedia of Arkansas (Gleason) says the town was incorporated 20 March 1900, had 516 people in 1910, **655** in 1920, and 648 in 1930, and that the early-twentieth-century street had a weekly newspaper and doctors. [C376] [S292] That 655 figure is the same number the 1921 and 1929 medical directories print beside Ola. [C370] [C373] Coy’s 1917 marriage is the first proved Arkansas date for this family. Dora’s death eight years later is the last.
 
 ---
 
 ## Chapter 6. Noon, Monday, 23 August 1926
 
-Dora Stone died at Ola of apoplexy after one day, attended by Dr. Thomas W. Beal. The certificate, Arkansas Board of Health file about 1524, registration district 676, calls her white, widowed, a housewife, resident of “Mammoth, Ark.” There is no Mammoth post office in Yell or Perry County. A later reading has suggested Nimrod. That hypothesis has not been tested against the image in this file, and this book does not correct the place. [C015] [S003]
+Dora Stone died at Ola of apoplexy after one day, attended by Dr. Thomas W. Beal. The certificate, Arkansas Board of Health file about 1524, registration district 676, calls her white, widowed, a housewife, resident of “Mammoth, Ark.” There is no Mammoth post office in Yell or Perry County. The 1921 medical directory’s **Mammoth Spring** is in **Fulton** County — a different town. Nimrod, Perry County, had one listed physician that year (Charles T. Wallace). Neither fact proves her address. A later reading has suggested Nimrod. That hypothesis has not been tested against the image in this file, and this book does not correct the place. [C015] [C374] [C375] [S003] [S291]
+
+The licensed doctors at Ola in the 1921 *American Medical Directory* were W. R. Brewer, George C. Davis, and William Harkey. Thomas J. Pool was then at Danville. [C370] [C372] By the 1929 directory the Ola list was William E. Ballenger, Harkey (retired), Elbert C. Hunt, James Monroe Miller, and Pool — who had moved into town. [C373] **Neither edition lists a Beal.** Free web and the Genealogy Trails Yell B-biographies page also failed to produce Dr. T. W. Beal. [C371] [C378] This book does not replace the certificate’s attending name with Pool or Ballenger. [conflict #19]
 
 The statewide Arkansas death index and its Ancestry mirror are notorious for misreading given names. You reported that this death was indexed as **Posa Stone** — a common misfile for **Dora** — while the certificate face still reads Dora Stone, certificate **1524**. Treat **Newman** and **Newnam** as the same family on every index pass; Carter Cove and Coy’s informant line already spell the maiden name both ways. This pass found no free index row under Posa Stone to screenshot; confirming the misfile on FamilySearch collection **1940760** or Ancestry **8771** remains the cleanest proof. [C198] [S168]
 
@@ -242,7 +244,9 @@ Charts of pedigree, descendants, and lifespan follow the plates. Dashed lines me
 - **FAN residual:** Luther Newnam’s own death (B051); Shelby × Grace identity (B052); Everett’s deceased brothers (B053); Carter Cove stone photographs (B054).
 - Greene 37–43 Stone sweep is **closed**. Do not reopen Peebles as a third marriage without a license. Do not print 1868 or 24 February 1906 as facts.
 
-The next session starts with **B049**.
+The next session starts with **B055** after merging the 1900–death year-grid branch (PR #34). Agents remaining on `main` start **B049**. See [`../15-shared-stopping-point.md`](../15-shared-stopping-point.md).
+
+- **B090:** Dr. Thos. W. Beal is still unidentified. He is not in the 1921 or 1929 Ola medical directories. [C371] [C373]
 
 ---
 
@@ -280,6 +284,10 @@ Numbered notes expand the claim/source tags in the narrative. Access labels: *im
 28. Coy × Letha Sullivan, 18 Feb 1917, Ola. **C027** **S024**. Prior session.
 29. NUMIDENT Pearl P. Jackson / Mary Magdalene Bunch naming Sam and Dora. **S006** **S007**. Prior.
 30. Lee Books 5–19: no Peebles; no Dora Newnam remarriage. [USGenNet marriages](https://usgennet.org/usa/ky/county/lee/marriage/). **C084** **S064**.
+31. *American Medical Directory* 1921, IA [`americanmedicald1921ameruoft`](https://archive.org/details/americanmedicald1921ameruoft). Ola 655 Yell: Brewer, Davis, Harkey; no Beal. *OCR only.* **C370** **C371** **S291**.
+32. *American Medical Directory* 1929, IA [`bwb_T3-BRL-424`](https://archive.org/details/bwb_T3-BRL-424). Ola: Ballenger, Harkey retired, Hunt, Miller, Pool; still no Beal. *OCR only.* **C373** **S296**.
+33. Mildred Diane Gleason, “Ola (Yell County),” [Encyclopedia of Arkansas](https://encyclopediaofarkansas.net/entries/ola-yell-county-1021/). *Page seen* 31 Oct 2026. **C376** **S292**.
+34. Frozen Word original 31 Oct 2026: SHA-256 `781ed972…` (58,496 bytes). Drive search 0. **S297**.
 
 ---
 
@@ -303,5 +311,9 @@ Working table of **saved local copies**. Full file list: [`../SOURCE-INDEX.md`](
 | S278 | `../sources/obituaries/lee-obits-n-everett-newnam-1939-extract-2026-10-30.txt` | [Obits N](https://usgennet.org/usa/ky/county/lee/obituaries/n.html#everettnewman) | Everett d. 13 Dec 1939 | transcription only |
 | S280 | `../sources/press/ia-yell-journal-1926-search-2026-10-30.json` | IA Solr | 0 hits for 1926 titles | index only |
 | S281 | `../sources/press/genealogytrails-yell-obits-landing-2026-10-30.html` | [GT Yell obits](https://genealogytrails.com/ark/yell/obits.html) | Nil on landing | transcription only |
+| S291 | `../sources/directories/amd-1921-arkansas-yell-ola-extract-2026-10-31.txt` | [IA 1921 AMD](https://archive.org/details/americanmedicald1921ameruoft) | Ola physicians 1921; no Beal | OCR only |
+| S292 | `../sources/locality/encyclopedia-arkansas-ola-yell-2026-10-31.html` | [Enc. of Arkansas Ola](https://encyclopediaofarkansas.net/entries/ola-yell-county-1021/) | Town incorporated 1900; pop 655 in 1920 | page seen |
+| S296 | `../sources/directories/amd-1929-arkansas-yell-ola-extract-2026-10-31.txt` | [IA 1929 AMD](https://archive.org/details/bwb_T3-BRL-424) | Ola physicians 1929; no Beal; Pool now in town | OCR only |
+| S297 | `../sources/authored/Dora-Ella-Newnam-Stone-A-Life-original-main-2026-10-31.docx` | Local `book/` | Frozen Word bytes | original bytes |
 
 Embedded plates live in `plates/` and `../sources/census/`. Charts: [`../visuals/pedigree-dora.svg`](../visuals/pedigree-dora.svg), [`../visuals/timeline-dora.svg`](../visuals/timeline-dora.svg).
