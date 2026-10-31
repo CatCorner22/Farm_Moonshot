@@ -688,6 +688,23 @@ Captured this session: **30 Oct 2026**. Earlier plates remain in `sources/census
 | S950 | `sources/catalog/usgennet-lee-wills-pass109.html` | 2026-10-31 | USGenNet Lee | https://usgennet.org/usa/ky/county/lee/wills/ | No Samuel P.; Elizabeth / Mary Jane / Mary F. only | **C1253** | compiled landing |
 | S951 | `sources/press/argenweb-yellnews-pass109.html` | 2026-10-31 | ARGenWeb Pope | https://www.argenweb.net/pope/yellnews.htm | Roll 5 21 Jun 1923–26 Apr 1928 | **C1254** | catalog |
 | S952 | `sources/census/pass109-extract-2026-10-31.txt` | 2026-10-31 | This session | — | Pass 109 extract | **C1247–C1255** | extract |
+| S953 | `sources/census/pass110-acpl742/nm0719.jpg` … `nm0746.jpg` | 2026-10-31 | Internet Archive / ACPL | https://archive.org/details/kentuckycensus00reel742 | 33-6 28 name columns visually read; Newman 0 | **C1256 C1267** | image seen |
+| S954 | `sources/census/pass110-acpl742/nm0747.jpg` … `nm0753.jpg` | 2026-10-31 | Internet Archive / ACPL | https://archive.org/details/kentuckycensus00reel742 | 33-14 7 name columns visually read; Newman 0 | **C1257** | image seen |
+| S955 | `sources/census/uscensus-estill-1930-partial-pass110.txt` | 2026-10-31 | US-Census.org | https://www.us-census.org/pub/usgenweb/census/ky/estill/1930/_partial.txt | Compiled ED table; 33-6 066A–079B; 33-14 080A–083A | **C1258** | compiled table |
+| S956 | `sources/catalog/nara-m1930-pamphlet-pass110.pdf` | 2026-10-31 | NARA | https://www.archives.gov/files/research/microfilm/m1930.pdf | Roll 15 = KY; Estill + Irvine on List of Maps | **C1259** | pamphlet |
+| S957 | `sources/catalog/ia-solr-m1930-ky-pass110.json` · `ia-solr-t1224-pass110.json` · `ia-solr-m1509-ky-pass110.json` · `ia-solr-postdispatch-pass110.json` | 2026-10-31 | Internet Archive Solr | https://archive.org/advancedsearch.php | numFound 0 four queries | **C1260** | catalog negative |
+| S958 | `sources/catalog/fs-301200-pass110.html` | 2026-10-31 | FamilySearch | https://www.familysearch.org/search/catalog/301200 | SPA login shell; images unread | **C1261** | access |
+| S959 | `sources/census/pass110-uscensus-newman-boyd-extract.txt` | 2026-10-31 | US-Census.org | https://www.us-census.org/pub/usgenweb/census/ky/estill/1930/_indx-m-q.txt | Published 33-1–33-4 Newman = Fred/Herbert | **C1262** | compiled index |
+| S960 | `sources/press/berea-faq-9938-pass110.html` | 2026-10-31 | Hutchins Library | https://libraryanswers.berea.edu/faq/9938 | Cards 1899–1983 rooms 228–229 | **C1263** | catalog |
+| S961 | `sources/catalog/argenweb-pope-yellnews-pass110.html` | 2026-10-31 | ARGenWeb Pope | https://www.argenweb.net/pope/yellnews.htm | Roll 5 21 Jun 1923–26 Apr 1928 | **C1264** | catalog |
+| S962 | `sources/census/pass110-extract-2026-10-31.txt` | 2026-10-31 | SNAC / LDSGenealogy | https://snaccooperative.org/view/30028243 | Duell-Clark 1957–1969 KHS; cert unread | **C1265** | catalog |
+| S963 | `sources/catalog/nara-t1224-pamphlet-pass110.pdf` | 2026-10-31 | NARA | https://www.archives.gov/files/research/microfilm/t1224.pdf | 1930 descriptions roll 69 = KS+KY | **C1268** | pamphlet |
+| S964 | `sources/census/pass110-extract-2026-10-31.txt` | 2026-10-31 | This session | — | Pass 110 extract | **C1256–C1268** | extract |
+| S965 | `sources/census/pass111-acpl742/nm0821.jpg` … `nm0845.jpg` | 2026-10-31 | Internet Archive / ACPL | https://archive.org/details/kentuckycensus00reel742 | 33-10 25 name columns visually read; Boyd+Allie absent | **C1270** | image seen |
+| S966 | `sources/census/pass111-acpl742/hdr0821.jpg` · `hdr0845.jpg` · `hdr0846.jpg` · `hdr0847.jpg` · `hdr0848.jpg` | 2026-10-31 | Internet Archive / ACPL | https://archive.org/details/kentuckycensus00reel742 | 33-10 1A–13A; 846 unused; 33-11 start | **C1269 C1273** | image seen |
+| S967 | `sources/census/pass111-acpl742/crop0829-hendrix.jpg` · `crop0829-hendrix-ages.jpg` | 2026-10-31 | Internet Archive / ACPL | https://archive.org/details/kentuckycensus00reel742 | Hendrix 45 + Sarah E 44 + three children | **C1271 C1275** | image seen |
+| S968 | `sources/census/pass111-acpl742/crop0824-henry.jpg` · `crop0828-caleb.jpg` · `crop0839-allie-collins.jpg` | 2026-10-31 | Internet Archive / ACPL | https://archive.org/details/kentuckycensus00reel742 | Wiseman / Plowman / Collins Allie rejects | **C1272** | image seen |
+| S969 | `sources/census/pass111-extract-2026-10-31.txt` | 2026-10-31 | This session | — | Pass 111 extract | **C1269–C1275** | extract |
 
 ## Word biography provenance
 
@@ -774,3 +791,7 @@ Exact strings in `02-log.md` **L343–L352**, **L380–L397**, **L398–L411**, 
 **Pass 108 (ACPL reel 742 isolates 33-9 + 33-5):** Boyd/Floyd × Newman/Newnam. Soundex **N550** / **B300**. Place IA **`kentuckycensus00reel742`** **33-9** leaves **793–819**; **33-5** leaves **707–717**. Exact strings **L1079–L1083**.
 
 **Pass 109 (true 33-7 Station Camp North / 33-6 isolate):** Boyd/Floyd × Newman/Newnam. Soundex **N550** / **B300**. Place IA **`kentuckycensus00reel742`** **33-7** leaves **755–775**; **33-6** **719–746**; **33-14** **747–753**. Exact strings **L1084–L1092**.
+
+**Pass 110 (33-6 + 33-14 name columns):** Boyd/Boyde/Floyd × Newman/Newnam/newnarn/newan/Newmon. Soundex **N550** / **B300**. Place IA **`kentuckycensus00reel742`** **33-6** leaves **719–746**; **33-14** **747–753**. Exact strings **L1093–L1104**.
+
+**Pass 111 (33-10 Red Lick East):** Boyd/Boyde/Floyd × Newman/Newnam/newnarn/newan/Newmon; Hendrix/Harding. Soundex **N550** / **B300**. Place IA **`kentuckycensus00reel742`** **33-10** leaves **821–845**. Exact strings **L1105–L1111**.

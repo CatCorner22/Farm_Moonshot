@@ -1,0 +1,60 @@
+uscensus-estill-1930-indx-ad-pass110.txt:323:15B   67    33-1   15B   BARNES            FLOYD             21        KENTUCKY          ed001-pg0008b.txt
+uscensus-estill-1930-indx-ad-pass110.txt:694:22B   98    33-2   7B    BROWN             BOYD              31        KENTUCKY          ed002-pg0016a.txt
+uscensus-estill-1930-indx-ad-pass110.txt:705:43B   53    33-3   6B    BROWNING          ALLIE W           2 5/12    KENTUCKY          ed003-pg0038a.txt
+uscensus-estill-1930-indx-ad-pass110.txt:896:1B    52    33-1   1B    CHRISTOPHER       SALLIE A          37        KENTUCKY          ed001-pg0001a.txt
+uscensus-estill-1930-indx-ad-pass110.txt:1106:31B   61    33-2   16B   CROCKER           CALLIE            67        TENNESSEE         ed002-pg0030a.txt
+uscensus-estill-1930-indx-ad-pass110.txt:1289:35B   57    33-2   20B   DAWES             FLOYD             5         KENTUCKY          ed002-pg0030a.txt
+uscensus-estill-1930-indx-el-pass110.txt:48:36A   41    33-2   21A   EDWARDS           ALLIE             40        KENTUCKY          ed002-pg0030a.txt
+uscensus-estill-1930-indx-el-pass110.txt:171:46A   19    33-3   9A    FARWELL           SALLIE L          50        KENTUCKY          ed003-pg0044a.txt
+uscensus-estill-1930-indx-el-pass110.txt:221:13B   61    33-1   13B   FLOYD             EMMA              26        KENTUCKY          ed001-pg0008b.txt
+uscensus-estill-1930-indx-el-pass110.txt:222:13B   60    33-1   13B   FLOYD             WM                31        KENTUCKY          ed001-pg0008b.txt
+uscensus-estill-1930-indx-el-pass110.txt:533:46B   95    33-3   9B    HALL              FLOYD             46        KENTUCKY          ed003-pg0044a.txt
+uscensus-estill-1930-indx-el-pass110.txt:573:6A    24    33-1   6A    HAMILTON          SALLIE            58        KENTUCKY          ed001-pg0001a.txt
+uscensus-estill-1930-indx-el-pass110.txt:610:31A   18    33-2   16A   HARRIS            ALLIE             29        KENTUCKY          ed002-pg0030a.txt
+uscensus-estill-1930-indx-el-pass110.txt:643:45B   75    33-3   8B    HARWOOD           FLOYD J           7/12      KANSAS            ed003-pg0044a.txt
+uscensus-estill-1930-indx-el-pass110.txt:644:45B   69    33-3   8B    HARWOOD           FLOYD R           27        ILLINOIS          ed003-pg0044a.txt
+uscensus-estill-1930-indx-el-pass110.txt:759:33A   39    33-2   18A   HESTER            ALLIE             26        KENTUCKY          ed002-pg0030a.txt
+uscensus-estill-1930-indx-el-pass110.txt:1017:41B   57    33-3   4B    JACKSON           FLOYD M           32        KENTUCKY          ed003-pg0038a.txt
+uscensus-estill-1930-indx-el-pass110.txt:1097:12B   73    33-1   12B   JOHNSTON          HALLIE            37        KENTUCKY          ed001-pg0008b.txt
+uscensus-estill-1930-indx-el-pass110.txt:1255:18A   5     33-2   3A    LAUTER            HALLIE            26        KENTUCKY          ed002-pg0016a.txt
+uscensus-estill-1930-indx-mq-pass110.txt:44:55A   22    33-4   6A    MACINTOSH         FLOYD             26        KENTUCKY          ed004-pg0050a.txt
+uscensus-estill-1930-indx-mq-pass110.txt:172:49A   36    33-3   12A   MARTIN            SALLIE E          60        KENTUCKY          ed003-pg0044a.txt
+uscensus-estill-1930-indx-mq-pass110.txt:302:36A   23    33-2   21A   MCGINN            HALLIE            42        KENTUCKY          ed002-pg0030a.txt
+uscensus-estill-1930-indx-mq-pass110.txt:412:19A   35    33-2   4A    MILLER            FLOYD             33        KENTUCKY          ed002-pg0016a.txt
+uscensus-estill-1930-indx-mq-pass110.txt:502:55A   7     33-4   6A    MORELAND          FLOYD             27        KENTUCKY          ed004-pg0050a.txt
+uscensus-estill-1930-indx-mq-pass110.txt:595:51B   70    33-4   2B    NEAL              BOYD B            4         KENTUCKY          ed004-pg0050a.txt
+uscensus-estill-1930-indx-mq-pass110.txt:613:44B   90    33-3   7B    NEAL              FLOYD H           31        KENTUCKY          ed003-pg0044a.txt
+uscensus-estill-1930-indx-mq-pass110.txt:677:24A   20    33-2   9A    NEIKERK           SALLIE            56        KENTUCKY          ed002-pg0023a.txt
+uscensus-estill-1930-indx-mq-pass110.txt:678:9B    95    33-1   9B    NEIKIRK           BOYD              2 6/12    KENTUCKY          ed001-pg0008b.txt
+uscensus-estill-1930-indx-mq-pass110.txt:681:16A   10    33-2   1A    NEIKIRK           FLOYD O           35        KENTUCKY          ed002-pg0016a.txt
+uscensus-estill-1930-indx-mq-pass110.txt:682:16A   14    33-2   1A    NEIKIRK           FLOYD S           4         KENTUCKY          ed002-pg0016a.txt
+uscensus-estill-1930-indx-mq-pass110.txt:694:31B   95    33-2   16B   NEWMAN            EARCA             32        KENTUCKY          ed002-pg0030a.txt
+uscensus-estill-1930-indx-mq-pass110.txt:695:20B   58    33-2   5B    NEWMAN            EDITH             29        KENTUCKY          ed002-pg0016a.txt
+uscensus-estill-1930-indx-mq-pass110.txt:696:20B   59    33-2   5B    NEWMAN            EDNA              10        KENTUCKY          ed002-pg0016a.txt
+uscensus-estill-1930-indx-mq-pass110.txt:697:31B   94    33-2   16B   NEWMAN            FRED              35        KENTUCKY          ed002-pg0030a.txt
+uscensus-estill-1930-indx-mq-pass110.txt:698:31B   100   33-2   16B   NEWMAN            FRED JR           2 0/12    KENTUCKY          ed002-pg0030a.txt
+uscensus-estill-1930-indx-mq-pass110.txt:699:31B   97    33-2   16B   NEWMAN            HELEN             10        KENTUCKY          ed002-pg0030a.txt
+uscensus-estill-1930-indx-mq-pass110.txt:700:20B   57    33-2   5B    NEWMAN            HERBERT           29        VIRGINIA          ed002-pg0016a.txt
+uscensus-estill-1930-indx-mq-pass110.txt:701:31B   99    33-2   16B   NEWMAN            LUCILLE           6         KENTUCKY          ed002-pg0030a.txt
+uscensus-estill-1930-indx-mq-pass110.txt:702:20B   63    33-2   5B    NEWMAN            MARCIA            2 10/12   KENTUCKY          ed002-pg0016a.txt
+uscensus-estill-1930-indx-mq-pass110.txt:703:20B   60    33-2   5B    NEWMAN            PEARL             8         KENTUCKY          ed002-pg0016a.txt
+uscensus-estill-1930-indx-mq-pass110.txt:704:20B   62    33-2   5B    NEWMAN            VICTOR D          5         KENTUCKY          ed002-pg0016a.txt
+uscensus-estill-1930-indx-mq-pass110.txt:705:20B   61    33-2   5B    NEWMAN            VIOLET            7         KENTUCKY          ed002-pg0016a.txt
+uscensus-estill-1930-indx-mq-pass110.txt:706:31B   98    33-2   16B   NEWMAN            VIRGINIA          8         KENTUCKY          ed002-pg0030a.txt
+uscensus-estill-1930-indx-mq-pass110.txt:707:31B   96    33-2   16B   NEWMAN            WILLIAM           12        KENTUCKY          ed002-pg0030a.txt
+uscensus-estill-1930-indx-mq-pass110.txt:738:26A   38    33-2   11A   OBANION           FLOYD             9         KENTUCKY          ed002-pg0023a.txt
+uscensus-estill-1930-indx-mq-pass110.txt:957:8B    77    33-1   8B    PORNELL           SALLIE            19        KENTUCKY          ed001-pg0008b.txt
+uscensus-estill-1930-indx-mq-pass110.txt:983:10A   45    33-1   10A   POWELL            CALLIE            26        KENTUCKY          ed001-pg0008b.txt
+uscensus-estill-1930-indx-mq-pass110.txt:1056:54A   4     33-4   5A    PUCKET            FLOYD             22        KENTUCKY          ed004-pg0050a.txt
+uscensus-estill-1930-indx-mq-pass110.txt:1089:29A   12    33-2   14A   PULLEN            HALLIE            27        KENTUCKY          ed002-pg0023a.txt
+uscensus-estill-1930-indx-mq-pass110.txt:1311:2A    19    33-1   2A    ROGERS            J FLOYD           42        KENTUCKY          ed001-pg0001a.txt
+uscensus-estill-1930-indx-rt-pass110.txt:235:2A    19    33-1   2A    ROGERS            J FLOYD           42        KENTUCKY          ed001-pg0001a.txt
+uscensus-estill-1930-indx-rt-pass110.txt:499:47B   59    33-3   10B   SMITH             BOYD              38        TENNESSEE         ed003-pg0044a.txt
+uscensus-estill-1930-indx-rt-pass110.txt:687:32B   64    33-2   17B   SPICER            SALLIE            73        KENTUCKY          ed002-pg0030a.txt
+uscensus-estill-1930-indx-rt-pass110.txt:770:22A   42    33-2   7A    STEVENS           HALLIE            27        KENTUCKY          ed002-pg0016a.txt
+uscensus-estill-1930-indx-rt-pass110.txt:889:35B   87    33-2   20B   TAULBEE           SALLIE            55        KENTUCKY          ed002-pg0030a.txt
+uscensus-estill-1930-indx-rt-pass110.txt:913:51B   86    33-4   2B    THACKER           FLOYD             45        KENTUCKY          ed004-pg0050a.txt
+uscensus-estill-1930-indx-rt-pass110.txt:979:41A   23    33-3   4A    TIPTON            ALLIE A           47        KENTUCKY          ed003-pg0038a.txt
+uscensus-estill-1930-indx-rt-pass110.txt:1006:52B   60    33-4   3B    TIPTON            CALLIE            4         KENTUCKY          ed004-pg0050a.txt
+uscensus-estill-1930-indx-rt-pass110.txt:1189:59A   11    33-4   10A   TIPTON            SALLIE B          22        KENTUCKY          ed004-pg0058a.txt
+uscensus-estill-1930-indx-rt-pass110.txt:1265:10A   10    33-1   10A   TUTTLE            ALLIE             37        KENTUCKY          ed001-pg0008b.txt

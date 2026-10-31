@@ -1550,12 +1550,32 @@
 | C1247 | Estill **1930 33-7** Station Camp North **image seen** on IA ACPL reel 742 leaves **755–775**: Kentucky / Estill / Station Camp / Mag. Dist. **3**; ED **33-7**; enumerator **Clay Mcneal** (header spelling); sheet **1A** through sheet **11A** stamped **094**. Leaf **754** unused after 33-14; **776** unused; **777** = **33-8** **1A** stamped **095** | PROVEN as image | S944 L1084 | B089 |
 | C1248 | True 33-7 name columns **visually read** (21 sheets, leaves **755–775**): **no** Newman / Newnam / Newmon / Newnarn surname. Rejected Johnson **Floyd** head (758); Allie McKinney (766). Brandenburg households FAN only | PROVEN as visual nil | S945 L1085 | B089 |
 | C1249 | **C919–C921 WITHDRAWN** as to ED identity: leaves **793–819** are **33-9** (Hattie M. Cole) not **33-7** (Matilda N. Cole). Visual nil on those leaves stands as **C1243**. True 33-7 is **755–775** | WITHDRAWN / PROVEN as correction | S946 L1086 | B089 |
-| C1250 | Estill **1930 33-6** **image seen** leaves **719–746**: enumerator **Jesse Thorp**; sheet **1A** Ravenna precinct through sheet **14B** Millers Creek. **28** sheets. Name columns **not fully read** | PROVEN as image | S947 L1087 | B089 |
-| C1251 | Estill **1930 33-14** headers **image seen** leaves **747–753**: Mag. Dist. **2** / Millers Creek; enumerator Wiley J. Tackett (header reading uncertain); **1A–4A**. Leaf **754** unused. Names unread | PROVEN as header | S948 L1088 | B089 |
+| C1250 | Estill **1930 33-6** **image seen** leaves **719–746**: enumerator **Jesse Thorp**; sheet **1A** Ravenna precinct through sheet **14B** Millers Creek. **28** sheets. Name columns later **visually read** (**C1256**) | PROVEN as image | S947 L1087 | B089 |
+| C1251 | Estill **1930 33-14** headers **image seen** leaves **747–753**: Mag. Dist. **2** / Millers Creek; enumerator Wiley J. Tackett (header reading uncertain); **1A–4A**. Leaf **754** unused. Name columns later **visually read** (**C1257**) | PROVEN as header | S948 L1088 | B089 |
 | C1252 | Genealogy Trails Lee WWI live GET **406** (Mod Security, 300 bytes). WebSearch full-page text: Newman/Newnam/McCoy **0**. Densifies **C1237** as search-text | PROVEN as access / compiled-index | S949 L1089 | B069 |
 | C1253 | USGenNet Lee wills landing **HTML seen**: Mary Jane Steele NEWMAN; Elizabeth NEWNAM; Mary F. Newnam TINCHER. **No** Samuel P. Densifies **C361** | PROVEN as compiled landing | S950 L1090 | B045 |
 | C1254 | ARGenWeb Pope `yellnews.htm` **HTML seen**: Post-Dispatch **Roll 5** = **21 Jun 1923–26 Apr 1928**. Reconfirm **C1185** | PROVEN as catalog | S951 L1091 | B058 |
 | C1255 | Same-person write-up pass 109: **true** 1930 Station Camp North **33-7** visually closed — Boyd+Allie **absent**. Combined true **33-7 + 33-8 + 33-9 + 33-5**. **C919–C921** ED identity withdrawn. 33-6 isolated, names unread. 1958 David G still **POSSIBLE** only vs Frank. #20/#26/#27 open. Do not print 1966, 1976, Floyd-as-Boyd, 1962 as McCoy death, or 1942 Combs charge as fact | PROVEN as analysis | S952 L1092 | B089 B055 B080 B058 |
+| C1256 | Estill **1930 33-6** name columns **visually read** leaves **719–746** (28 sheets). Newman/Newnam **0**. Boyd+Allie **absent** | PROVEN as visual nil | S953 L1093 | B089 |
+| C1257 | Estill **1930 33-14** name columns **visually read** leaves **747–753** (7 sheets). Newman/Newnam **0**. Boyd+Allie **absent** | PROVEN as visual nil | S954 L1094 | B089 |
+| C1258 | us-census Estill 1930 `_partial.txt` compiled ED table: **33-6** Millers Creek West **066A–079B**; **33-14** East **080A–083A**; published On-Line still **33-1–33-4** | PROVEN as compiled table | S955 L1095 | B089 |
+| C1259 | NARA M1930 pamphlet List of Maps: roll **15** = Kentucky; Estill County + **Irvine**. No Station Camp / Millers Creek named MCD. Maps unread | PROVEN as pamphlet | S956 L1096 | B089 |
+| C1260 | IA Solr **0**: M1930 KY maps; T1224 descriptions; M1509 KY; *Dardanelle Post-Dispatch* 1926 | PROVEN as catalog negative | S957 L1097 | B089 B058 B069 |
+| C1261 | FS catalog **301200 / 1146342 / 127913 / 127869** SPA ~19 KB (R011-**54**). Images unread | PROVEN as access | S958 L1098 | B045 B061 B069 |
+| C1262 | Published Estill 1930 **33-1–33-4** name index: Newman = Fred/Herbert only; Newnam **0**; no Boyd/Allie Newman. Other Boyd/Allie surnames **rejected** | PROVEN as compiled index | S959 L1099 | B089 |
+| C1263 | Hutchins FAQ **9938**: *Citizen* index **1899–1983** paper cards between rooms **228 and 229**. Densifies **C1215**. June 1958 page unread | PROVEN as catalog | S960 L1100 | B055 B080 |
+| C1264 | ARGenWeb Pope yellnews **HTML seen**: Post-Dispatch **Roll 5** = **21 Jun 1923–26 Apr 1928**. Film unread. Phone not re-asked | PROVEN as catalog | S961 L1101 | B058 |
+| C1265 | Duell-Clark **1957–1969** KHS / WCHS vol **II** $10. Cert **17762** unread. Do not print 1966 as fact | PROVEN as catalog | S962 L1102 | B082 |
+| C1266 | Same-person write-up pass 110: **33-6 + 33-14** visually closed — Boyd+Allie **absent**. Combined true **33-7 + 33-8 + 33-9 + 33-5 + 33-6 + 33-14**. Residual **33-10–33-13**. 1958 David G still **POSSIBLE** only vs Frank. #20/#26/#27 open | PROVEN as analysis | S964 L1104 | B089 |
+| C1267 | 33-6 rejects: **Howell, Allie** head; **Bamford, Floyd** head; Brandenburg son Floyd; Newkirk Robert/Claude. Not Boyd+Allie | PROVEN as rejects | S953 L1093 | B089 |
+| C1268 | NARA T1224 pamphlet: 1930 descriptions roll **69** = Kansas + Kentucky. Description **images unread** | PROVEN as pamphlet | S963 L1103 | B089 |
+| C1269 | Estill **1930 33-10** Red Lick East **image seen** leaves **821–845**: Mag. Dist. **4**; enumerator **Robert E. Tye**; sheet **1A** stamped **117** through **13A** stamped **129**. **25** sheets. Leaf **846** unused. Leaf **847** = **33-11** start | PROVEN as image | S966 L1105 | B089 |
+| C1270 | Estill **1930 33-10** name columns **visually read** (25 sheets). Boyd+Allie Newman/Newnam **absent**. One Newnam household = Hendrix (**C1271**) | PROVEN as visual nil vs Boyd+Allie | S965 L1106 | B089 |
+| C1271 | 1930 Estill **33-10** sh **5A** dw **80** fam **83**: **Newnam, Hendrix** **45** + **Sarah E.** **44** + Hiram D **15** + John B **13** + Melvina R **8**. *Image seen.* **Rejected** vs Boyd ~52 + Allie ~45 | DISPROVED as Boyd+Allie | S967 L1107 | B089 |
+| C1272 | 33-10 lookalikes **rejected**: **Wiseman, Henry** (not Newman); **Plowman, Caleb** (not Newman); **Collins, Allie** 45 female head; Rice wife Allie ~23; Embry son Boyd (child); given-name Floyd in other houses | PROVEN as rejects | S968 L1108 | B089 |
+| C1273 | Leaf **847** = Estill **33-11** Dist. **5** Riddell & Thomas sheet **1A** stamped **130**, enumerator **George McQueen**. Names unread. Compiled **130A–154A** | PROVEN as header | S966 L1109 | B089 |
+| C1274 | Same-person write-up pass 111: **33-10** visually closed for Boyd+Allie. Combined true **33-7 + 33-8 + 33-9 + 33-5 + 33-6 + 33-14 + 33-10**. Residual **33-11–33-13**. Hendrix **not** Boyd. #20/#26/#27 open | PROVEN as analysis | S969 L1111 | B089 |
+| C1275 | Hendrix 45 + Sarah E + John B + Melvina (1930) **PROBABLE** same line as 1950 Harding 65 + Sarah 64 + John B 33 / Melvina 28 (**C1124 C1125**). Ages +20. **Not** Boyd | PROBABLE as Hendrix=Harding | S967 L1107 | B089 |
 | C1246 | Same-person write-up pass 108: 1930 Estill **33-5 + 33-7 + 33-8 + 33-9** all visually read — Boyd+Allie **absent**. 33-5 and 33-9 are no longer unpublished on free film. 1958 David G still **POSSIBLE** only vs Frank. #20/#26/#27 open. Do not print 1966, 1976, Floyd-as-Boyd, 1962 as McCoy death, or 1942 Combs charge as fact | PROVEN as analysis | S943 L1083 | B089 B055 B080 |
 
 ## Same-person merges (Hard Rule 3)
@@ -1741,6 +1761,8 @@
 | 1950 Estill Fred 55 + Era R 52 + Dorothy J 19 + 1940 Irvine Fred ~1895 + Era ~1898 + Dorothy J ~1931 | Pair of names + Irvine + ages 55/52/19 | — | **Same couple. PROVEN (C1122 / C1041)** |
 | 1950 Fred+Era + FRED L. 1961 age 66 Irvine | Pair + Estill + ages 55→66 | Certificate unread | **PROBABLE (C1123 / C387).** Not printed as 1961 fact beyond prior extract |
 | 1950 Harding 65 + Sarah 64 + Boyd ~75 + Allie ~65 | Newman + Estill | Given Harding/Sarah ≠ Boyd/Allie; age 65 vs ~75 | **Rejected (C1124)** |
+| 1930 Hendrix Newnam 45 + Sarah E 44 + 1950 Harding 65 + Sarah 64 | Wife Sarah + John B + Melvina + age +20 | Given Hendrix vs Harding (variant) | **PROBABLE same line (C1275). Still rejected vs Boyd.** |
+| 1930 Hendrix 45 + Sarah E + Boyd ~52 + Allie ~45 | Newnam + Estill Red Lick | Hendrix ≠ Boyd; Sarah ≠ Allie; children Hiram/John B/Melvina ≠ Arthur line | **Rejected (C1271)** |
 | 1950 Vertie 41 + Boyd/Allie/John L/Frank | Newnam + Estill | Age 41; given Vertie | **Rejected (C1126)** |
 | 1950 Madison William 48 / Zelma 48 / Hiram 36 / W M 20 / Lee 19 + Frank ~61 | Newman + Madison | Ages | **Rejected (C1132–C1137)** |
 | 1950 Lee Elen 66 / Charles 34 / Been 46 / Charles 24 + John L 70 / Frank ~61 | Newman + Lee | Sex/age | **Rejected (C1128–C1131)** |
@@ -1749,4 +1771,8 @@
 | 1950 Estill 33-12 sh 24 OCR Boyd + Boyd Newman | OCR token Boyd | Marcum/Fox household; no Newman surname | **Rejected (C1157)** |
 | 1950 Estill 33-8 Millers Creek + 1930 Estill 33-8 Station Camp South | Same ED number | Different magisterial district (Millers Creek vs Station Camp) | **Not the same place (C1152 / C1153)** |
 | KDI FRANK NEWMAN 60 Jefferson 12 Dec 1949 + Frank of Berea ~1889 | Given Frank + Newman + age ~1889 | Jefferson ≠ Madison/Berea; no contractor line | **Not merged (C393 / C1164)** |
+| 1930 33-6 Howell Allie head ~47 + Allie Newman wife ~45 | Given Allie + Estill | Sex/head vs wife; Howell ≠ Newman | **Rejected (C1267)** |
+| 1930 33-6 Bamford Floyd head ~33 + 1902 Floyd Newnam groom | Given Floyd + Estill | Surname Bamford; age ~33 vs ~51 | **Rejected (C1267)** |
+| 1930 33-6/33-14 Newkirk Robert/Claude + Newman | N-initial + Estill | Newkirk ≠ Newman | **Rejected (C1267)** |
+| Published 33-1–33-4 Neal Boyd B 4 / Neikirk Boyd 2 / Brown Boyd 31 / Smith Boyd 38 TN + Boyd Newman ~52 | Given Boyd + Estill 1930 | Age/surname | **Rejected (C1262)** |
 

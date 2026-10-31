@@ -1023,3 +1023,21 @@ Same map, county preview — 33-8 in Magisterial District 2 Millers Creek; Stati
 ![Estill 1950 33-12 Boyd 19 reject](sources/census/pass101/43290879-Kentucky-154364-0016.jpg)
 
 **Source:** S844 · C1156
+
+1930 U.S. census, Estill County, Kentucky, ED 33-6 sheet 1A — Ravenna/Millers Creek West name column. No Newman or Newnam.
+
+![Estill 1930 33-6 name column](sources/census/pass110-acpl742/nm0719.jpg)
+
+**Source:** S953 · C1256
+
+1930 U.S. census, Estill County, ED 33-10 sheet 1A stamped 117 — Red Lick East header, Robert E. Tye.
+
+![Estill 1930 33-10 header](sources/census/pass111-acpl742/hdr0821.jpg)
+
+**Source:** S966 · C1269
+
+1930 U.S. census, Estill County, ED 33-10 sheet 5A dwelling 80 — Newnam, Hendrix 45 + Sarah E. 44 + Hiram D., John B., Melvina R. Rejected versus Boyd and Allie.
+
+![Estill 1930 Hendrix Newnam reject](sources/census/pass111-acpl742/crop0829-hendrix-ages.jpg)
+
+**Source:** S967 · C1271

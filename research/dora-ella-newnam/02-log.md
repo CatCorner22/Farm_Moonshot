@@ -1,4 +1,22 @@
 
+## Access honesty pass 111
+- IA ACPL **`kentuckycensus00reel742`** IIIF **image seen**: Estill **33-10** leaves **821–845** headers + name columns **visually read** (25 sheets); boundary **846** unused; **847–848** = **33-11** start headers.
+- Hendrix Newnam household **image seen** (tight crop + ages).
+- Tesseract drafts on 25 sheets — **draft only**, not a source.
+- Did **not** re-fetch true **33-7 / 33-5 / 33-8 / 33-9 / 33-6 / 33-14**.
+- Did **not** re-ask R001/R007/R008, Tyler Phillips, Pope **479-968-4368**, or Hutchins **859-985-3364**.
+- Book 6 register **unread**. Certs **28501 / 31780 / 17762 / 13719 / 09547** **unread**. M1509 **cards unread**. M1930 roll **15** / T1224 roll **69** / A3378 **22/23** **map/description images unread**. Remaining Estill 1930 **33-11–33-13** **not** fully read. *Dardanelle Post-Dispatch* Pope **Roll 5** and UArk **F419.D37 D3** **film unread**. Newspapers.com **41271** June **1958** pages **unread**. Hutchins June **1958** page **unread**. Authored `latest.docx` SHA **78cdcf44…** not overwritten.
+
+## Access honesty pass 110
+- IA ACPL **`kentuckycensus00reel742`** IIIF **image seen**: Estill **33-6** leaves **719–746** name columns **visually read** (28 sheets); **33-14** leaves **747–753** name columns **visually read** (7 sheets).
+- us-census `_partial.txt` + `_indx-a-d/e-l/m-q/r-t` **text seen** (published **33-1–33-4** only).
+- NARA M1930 pamphlet PDF + T1224 pamphlet PDF **seen**. Map/description **images unread**.
+- IA Solr M1930 / T1224 / M1509 KY / Post-Dispatch 1926 **0**.
+- FS **301200 / 1146342 / 127913 / 127869** SPA ~19 KB (R011-**54**).
+- Hutchins FAQ **9938** **HTML seen**. Pope yellnews **HTML seen**.
+- NARA catalog API SPA. WCHS shop **timeout**.
+- Book 6 register **unread**. Certs **28501 / 31780 / 17762 / 13719 / 09547** **unread**. M1509 **cards unread**. M1930 roll **15** / T1224 roll **69** / A3378 **22/23** **map/description images unread**. Remaining Estill 1930 **33-10–33-13** **not** fully read. *Dardanelle Post-Dispatch* Pope **Roll 5** and UArk **F419.D37 D3** **film unread**. Newspapers.com **41271** June **1958** pages **unread**. Hutchins June **1958** page **unread**. Authored `latest.docx` SHA **78cdcf44…** not overwritten.
+
 ## Access honesty pass 109
 - IA ACPL **`kentuckycensus00reel742`** IIIF **image seen** (headers + 21 name columns 33-7; 33-6/33-14 headers).
 - Genealogy Trails Lee WWI live **406**.
@@ -1169,6 +1187,25 @@ One row per search, **including nil results**. Access: free | subscription | on-
 | L1090 | 2026-10-31 | USGenNet Lee wills (**B045**) | Samuel P. Newnam / Newman | Landing **HTML seen**. No Samuel P. (**C1253**) | S950 | B045 |
 | L1091 | 2026-10-31 | ARGenWeb Pope yellnews (**B058**) | Post-Dispatch Roll 5 | **21 Jun 1923–26 Apr 1928** reconfirm (**C1254**) | S951 | B058 |
 | L1092 | 2026-10-31 | Same-person write-up pass 109 | true 33-7 visual nil | True **33-7 + 33-8 + 33-9 + 33-5** closed. #20/#26/#27 open (**C1255**) | S952 | B089 |
+| L1093 | 2026-10-31 | IA ACPL reel 742 name columns (**B089**) | Newman/Newnam/Newmon/Newnarn; Boyd/Floyd/Allie | **28** sheets **719–746 visually read**. Newman **0**. Howell Allie / Bamford Floyd / Newkirk **rejected**. Boyd+Allie **absent** (**C1256 C1267**) | S953 | B089 |
+| L1094 | 2026-10-31 | IA ACPL reel 742 name columns (**B089**) | Newman/Newnam; Boyd/Floyd/Allie | **7** sheets **747–753 visually read**. Newman **0**. Neal / child Allie **rejected**. Boyd+Allie **absent** (**C1257**) | S954 | B089 |
+| L1095 | 2026-10-31 | us-census Estill 1930 `_partial.txt` (**B089**) | official ED table + stamped ranges | **Text seen.** **33-6** Millers Creek West **066A–079B**; **33-14** East **080A–083A**; published files still **33-1–33-4** (**C1258**) | S955 | B089 |
+| L1096 | 2026-10-31 | NARA M1930 pamphlet PDF (**B089**) | List of Maps KY roll **15** | **Image/text seen.** Estill County + **Irvine**. No Station Camp / Millers Creek named MCD. Maps unread (**C1259**) | S956 | B089 |
+| L1097 | 2026-10-31 | IA Solr americana (**B089/B058/B069**) | M1930 KY; T1224; M1509 KY; Post-Dispatch 1926 | **numFound 0** all four (**C1260**) | S957 | B089 B058 B069 |
+| L1098 | 2026-10-31 | FS catalog **301200 / 1146342 / 127913 / 127869** (**B045/B061/B069**) | SPA log only | **~19 KB** login shells. Images unread. R011-**54** (**C1261**) | S958 | B045 B061 B069 |
+| L1099 | 2026-10-31 | us-census Estill 1930 `_indx-a-d/e-l/m-q/r-t` (**B089**) | Newman/Newnam; Boyd; Allie | Published **33-1–33-4** only. Newman = Fred/Herbert. Newnam **0**. Boyd/Allie other surnames **rejected** (**C1262**) | S959 | B089 |
+| L1100 | 2026-10-31 | Hutchins FAQ **9938** (**B055/B080**) | Citizen index location | **HTML seen.** Cards **1899–1983** rooms **228–229**. Densifies **C1215**. Phone not re-asked (**C1263**) | S960 | B055 B080 |
+| L1101 | 2026-10-31 | ARGenWeb Pope yellnews (**B058**) | Post-Dispatch Roll 5 | **HTML seen.** **21 Jun 1923–26 Apr 1928**. Reconfirm **C1185**. Film unread. Phone not re-asked (**C1264**) | S961 | B058 |
+| L1102 | 2026-10-31 | SNAC / LDSGenealogy Duell-Clark (**B082**) | cert **17762** / 1957–1969 | KHS Schmidt **1957–1969**; WCHS vol **II** $10. WCHS shop **timeout**. Cert unread. Do not print 1966 (**C1265**) | S962 | B082 |
+| L1103 | 2026-10-31 | NARA T1224 pamphlet PDF (**B089**) | 1930 descriptions roll **69** | **PDF seen.** Roll **69** = Kansas + Kentucky. Description **images unread** (**C1268**) | S963 | B089 |
+| L1104 | 2026-10-31 | Same-person write-up pass 110 | 33-6 + 33-14 visual nil | **33-6 + 33-14** closed. Combined true **33-7 + 33-8 + 33-9 + 33-5 + 33-6 + 33-14**. Residual **33-10–33-13**. #20/#26/#27 open (**C1266**) | S964 | B089 |
+| L1105 | 2026-10-31 | IA ACPL reel 742 headers (**B089**) | isolate Estill **33-10** | **821–845** = **33-10** Dist. **4** Red Lick East, Robert E. Tye, **1A** **117**–**13A** **129**. **846** unused. **847** = **33-11** **1A** **130** (**C1269 C1273**) | S966 | B089 |
+| L1106 | 2026-10-31 | IA ACPL reel 742 name columns (**B089**) | Newman/Newnam/Newmon/Newnarn; Boyd/Floyd/Allie | **25** sheets **821–845 visually read**. Boyd+Allie **absent**. Hendrix Newnam present — rejected (**C1270 C1271**) | S965 | B089 |
+| L1107 | 2026-10-31 | IA ACPL leaf **829** tight crop (**B089**) | Newnam Hendrix household | **Image seen.** Hendrix **45** + Sarah E **44** + Hiram D **15** + John B **13** + Melvina R **8**. **Rejected** vs Boyd+Allie. **PROBABLE** 1950 Harding (**C1271 C1275**) | S967 | B089 |
+| L1108 | 2026-10-31 | IA ACPL 33-10 lookalikes (**B089**) | Wiseman / Plowman / Allie / Boyd / Floyd | **Wiseman, Henry**; **Plowman, Caleb**; **Collins, Allie** 45; Rice Allie ~23; Embry son Boyd; Floyd given-names. All **rejected** (**C1272**) | S968 | B089 |
+| L1109 | 2026-10-31 | IA ACPL leaf **847** header (**B089**) | 33-11 start | Dist. **5** Riddell & Thomas **33-11** **1A** stamped **130**, George McQueen. Names unread (**C1273**) | S966 | B089 |
+| L1110 | 2026-10-31 | search-variant-alternatives pass 111 | Boyd/Allie × Newman/Newnam; Soundex N550/B300 | Variants in **01-plan.md**. Place **33-10** leaves **821–845** | S969 | B089 |
+| L1111 | 2026-10-31 | Same-person write-up pass 111 | 33-10 visual nil + Hendrix reject | **33-10** closed for Boyd+Allie. Combined true **33-7 + 33-8 + 33-9 + 33-5 + 33-6 + 33-14 + 33-10**. Residual **33-11–33-13**. #20/#26/#27 open (**C1274**) | S969 | B089 |
 
 **Access honesty (pass 108):** IA **`kentuckycensus00reel742`** IIIF **image seen**: Estill **33-9** leaves **793–819** headers + name columns **visually read** (27 sheets); **33-5** leaves **707–717** headers + name columns **visually read** (11 sheets); boundary headers **706 / 718 / 719 / 820 / 821** **seen**. Book 6 register **unread**. Certs **28501 / 31780 / 17762 / 13719 / 09547** **unread**. M1509 **cards unread**. M1930 roll **15** / T1224 roll **69** / A3378 **22/23** **maps/descriptions unread**. Remaining Estill 1930 EDs (**33-6 / 33-10+**) **not** fully read. *Dardanelle Post-Dispatch* Pope **Roll 5** and UArk **F419.D37 D3** **film unread**. Newspapers.com **41271** June **1958** pages **unread**. Hutchins June **1958** page **unread**. Authored `latest.docx` SHA **78cdcf44…** not overwritten.
 

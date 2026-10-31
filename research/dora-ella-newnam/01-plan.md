@@ -844,3 +844,37 @@ Inspected 30 Oct 2026 (**L351**): this repository has **no** `package.json`, **n
 **Samuel probate (B045)** — Samuel/Sam P. × Newnam/Newman will/estate. USGenNet Lee wills landing.
 
 Exact strings logged **L1084–L1092**.
+
+### Pass 110 variant storm (31 Oct 2026)
+
+**Boyd / Allie (B089)** — Boyd/Boyde/Floyd × Newman/Newnam/newnarn/newan/Newmon. Soundex **N550** / **B300**. Place IA **`kentuckycensus00reel742`** Estill **33-6** Ravenna/Millers Creek leaves **719–746** (Jesse Thorp); **33-14** Dist. 2 Millers Creek leaves **747–753**. OCR given Boyd. Do **not** re-fetch true **33-7 / 33-5 / 33-8 / 33-9**.
+
+**Dora Stone 1926 (B058)** — Dora/posa/dosa/rosa/dona × Stone/Newman/Newnam. Soundex **S350** / **N550**. Cert **1524** RD **676**. Pope **Roll 5** / UArk **F419.D37 D3** catalog only unless a free image appears.
+
+**Frank / David G (B055/B080)** — Frank/David F./David G. × Newnam/Newman. Soundex **N550**. Cert **13719** RD **028**. Hutchins rooms **228–229** / June **1958** *Citizen*.
+
+**WWI (B069)** — Luther/John H./McCoy × Newnam/Newman/newnarn. M1509 **KY45 / KY24 / KY74**.
+
+**Samuel probate (B045/B061)** — Samuel/Sam P. × Newnam/Newman will/estate. FS SPA log only.
+
+**John L (B082)** — John L × Newman cert **17762** RD **036**. Do not print 1966 as fact.
+
+Exact strings logged **L1093+**.
+
+### Pass 111 variant storm (31 Oct 2026)
+
+**Boyd / Allie (B089)** — Boyd/Boyde/Floyd × Newman/Newnam/newnarn/newan/Newmon. Soundex **N550** / **B300**. Place IA **`kentuckycensus00reel742`** Estill **33-10** Red Lick East leaves **821–845**. OCR given Boyd / Allie / Floyd. Do **not** re-fetch true **33-7 / 33-5 / 33-8 / 33-9 / 33-6 / 33-14**.
+
+**Lookalikes on the same film** — Wiseman / Plowman / Newkirk / Neal vs Newman; Hendrix/Harding Newnam already known from 1940/1950.
+
+**Dora Stone 1926 (B058)** — Dora/posa/dosa/rosa/dona × Stone/Newman/Newnam. Soundex **S350** / **N550**. Cert **1524** RD **676**. Pope **Roll 5** catalog only.
+
+**Frank / David G (B055/B080)** — Frank/David F./David G. × Newnam/Newman. Soundex **N550**. Cert **13719** RD **028**.
+
+**WWI (B069)** — Luther/John H./McCoy × Newnam/Newman/newnarn. M1509 **KY45 / KY24 / KY74**.
+
+**Samuel probate (B045/B061)** — Samuel/Sam P. × Newnam/Newman. FS SPA log only.
+
+**John L (B082)** — John L × Newman cert **17762** RD **036**. Do not print 1966 as fact.
+
+Exact strings logged **L1105+**.
