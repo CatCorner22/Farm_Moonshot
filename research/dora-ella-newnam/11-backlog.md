@@ -60,12 +60,14 @@ Prioritised queue — work top to bottom. **Do not declare research complete whi
 | B052 | open | L | Lee census / Book 23 parents (deceased-only) | **Shelby Newman** × **Grace Brandenburg** — parents of Ladona | C298 | L353 | Do not merge Shelby with P002. Living descendants of 1932 couple **withheld** |
 | B053 | open | L | Everett Newnam Idamay FAN (deceased-only) | Frank of Berea; John of Owsley; Mrs Robert Spicer | C299 | L354 | Brothers named in 1939 obit; skip any living daughters |
 | B054 | open | L | Carter Cove stone photographs | Newman, Dora; Stone, Thomas | C282 C283 | L344 | FAG memorials **97907837** / **97907931** — photo request / on-site |
-| B055 | open | H | Owsley / other-county marriage (deceased-only) | Clyde Jackson × Pearl Newnam/Newman ~1914–1917 | C308 C314 | L363 | **Not** in Lee Books **9–13**. First documented married name is 29 Jun 1917 birth index. May name Dora as mother/consent |
-| B056 | open | H | KY death certificate Mary A. Newnam **11 Jul 1918** (statewide, not only Lee) | Mary A. / Mary / Newman / Newnam / Smallwood 1918 | C047 C310 | L365 L366 | Lee 1918 extracts + KDI N **nil**. Informant might locate Dora. Conflict #18 |
+| B055 | partial | H | Owsley / other-county marriage (deceased-only) | Clyde Jackson × Pearl Newnam/Newman ~1914–1917 | C308 C314 C317–C323 | L363 L374–L378 | License still **unread**. Lee Books **8–14 nil**. Owsley published gap **1911–1972**. Clyde of Rufus×Margaret (b. May 1892, Buck Creek) is **PROBABLE** the 1920 husband. Residual: courthouse/FS film (**B057**) |
+| B056 | open | H | KY death certificate Mary A. Newnam **11 Jul 1918** (statewide, not only Lee) | Mary A. / Mary / Newman / Newnam / Smallwood 1918 | C047 C310 C324 | L365 L366 L379 | Lee **and Owsley** 1918 extracts **nil**. Informant might locate Dora. Conflict #18. Next: Estill / Breathitt / statewide index |
+| B057 | open | H | Owsley marriage books **1911–1917** (courthouse / FS film; not online) | Clyde Jackson (parents Rufus × Margaret) × Pearl Newnam/Newman | C318 C321 | L374 | Published site has **no** 1911–72 books. May name Dora as mother/consent |
+| B058 | open | M | WWI draft M1509 **KY74** (Owsley) then **KY45** (Lee) | Clyde Jackson b. **May 1892**; nearest relative Pearl / parents | C318 C323 | L348 | Not on GT Lee transcript. Card would give 1917–18 address |
 
 ## Session handoff
-- **Last closed:** 31 Oct 2026 · **Stopped after:** Pass **62** (**L361–L372**, **C305–C316**) — 1900–death year-by-year write-up (`14-1900-death-reconstruction.md`); Pearl 1920 Sturgeon **nil** P001; 1917 children’s two-state split; Mary A. 1918 stone vs missing Lee civil row; m2 window after 24 Feb 1920.
-- **Next session starts with:** **B055** (Pearl × Clyde license — may name Dora); then **B056** Mary 1918 statewide DC; **B049** 1926 *Enterprise* / *Yell County Journal*; user handoffs **R001/R007/R008**. |
+- **Last closed:** 31 Oct 2026 · **Stopped after:** Pass **63** (**L373–L379**, **C317–C325**, **S299–S305**) — Pearl × Clyde identity **PROBABLE** as Rufus×Margaret’s son of Buck Creek; license still unread (Owsley **1911–1972** gap); Owsley 1918 DC **nil** Mary A. Year grid in `14-1900-death-reconstruction.md` updated. **Did not** declare the 1900–death life filled in.
+- **Next session starts with:** **B056** Mary A. 1918 statewide / Estill / Breathitt DC (informant may name Dora); then **B057** Owsley 1911–17 marriage film; **B049** 1926 *Enterprise* / *Yell County Journal*; user handoffs **R001/R007/R008**. |
 
 
 ## Escalation log (brick walls — step number from exhaustive-research.md)

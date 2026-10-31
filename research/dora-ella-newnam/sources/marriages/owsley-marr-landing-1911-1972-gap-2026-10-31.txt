@@ -1,0 +1,25 @@
+# Catalog: Owsley County KY Marriages index (USGenNet / Debi Houser Kendrick)
+# Source: https://usgennet.org/usa/ky/county/owsley/marriages/
+# Also: https://usgennet.org/usa/ky/county/owsley/marriages/sub.html
+# Captured 31 Oct 2026. Landing HTTP 200, 7840 bytes. Submitted page HTTP 200, 5195 bytes.
+
+## Published links on the landing (complete list as opened)
+Submitted Marriages
+1853, 1854, 1858, 1859 VS
+1874, 1876, 1877, 1878 VS
+1903 & 1904 VS
+1908 a/b, 1909 a/b, 1910 a/b VS
+1973 Grooms / 1973 Brides
+
+## Gap
+No marriage book or VS page is published for 1911–1972.
+That interval contains the expected Pearl × Clyde window (after Pearl age 15 in Apr 1910; before 29 Jun 1917 birth index).
+
+## Submitted marriages page
+One researcher submission only: Franklin B. Ledford × Nancy Jane Coomer 21 Nov 1866.
+Nil Clyde Jackson / Pearl Newnam / Pearl Newman / Dora.
+
+KYGenWeb Owsley "Marriages" menu href is index.htm (home), not a separate book set.
+KYGenWeb /owsley/marriage/ returned HTTP 404 this pass.
+
+Exact strings: Clyde, Jackson, Pearl, Newnam, Newman, JACKSON, NEWNAM.

@@ -4,7 +4,7 @@ Year-by-year / event-by-event pinpoints from **1 June 1900** through **24 August
 Only cited claims. Confidence: **PROVEN** · **PROBABLE** · **POSSIBLE** · **SPECULATIVE** · **DISPROVED**.  
 Unverified items stay **open**. Living descendants are redacted.
 
-**Session:** 31 Oct 2026 · branch `cursor/dora-1900-death-reconstruction-2b6a` · logs **L361–L372** · claims **C305–C316** · sources **S283–S290**.  
+**Session:** 31 Oct 2026 · branch `cursor/dora-1900-death-reconstruction-2b6a` · logs **L361–L379** · claims **C305–C325** · sources **S283–S290, S299–S305**.  
 **Ages** computed from birth **11 Aug 1871** (year **PROVEN**; day 11 **POSSIBLE**): 28 on 1 Jun 1900; 38 on 15 Apr 1910; 45 on 18 Feb 1917; 48 on 1 Jan 1920; 55 on 23 Aug 1926.
 
 ---
@@ -15,7 +15,7 @@ Unverified items stay **open**. Living descendants are redacted.
 |---|---|---|---|
 | 1 Jun 1900 | Sturgeon precinct, Lee Co., KY, dwelling **67/67**, wife of Samuel P. Newnam; five living children of seven born | **PROVEN** (transcription) | C011 |
 | 1901–Mar 1910 | No record read names her place. Kentucky **PROBABLE** only by later children’s KY events and the absence of an out-of-state Newnam head card | **PROBABLE** KY, place **open** | C012 C205 |
-| Apr 1910 | **Not** Newman/Newnam/Stone/Peebles ~39 in KY/AR/MO/OK/TX indexes; **not** Sturgeon ED 99 as Newnam; **not** with Pearl in Owsley | **UNKNOWN** (honest gap) | C030 C033 C088 C070 |
+| Apr 1910 | **Not** Newman/Newnam/Stone/Peebles ~39 in KY/AR/MO/OK/TX indexes; **not** Sturgeon ED 99 as Newnam; **not** with Pearl (hh 141) or with Rufus Jackson (hh 161) in Owsley | **UNKNOWN** (honest gap) | C030 C033 C088 C070 C317 |
 | 1911–Jan 1917 | No record read places her | **open** | C205 |
 | 18 Feb 1917 | Son Coy marries at **Ola**, Yell Co., AR — first documented **Arkansas** event for this *family*; does **not** place Dora at the courthouse | Event **PROVEN**; her presence **POSSIBLE** | C027 C312 |
 | 29 Jun 1917 / 11 Mar 1919 | Daughter Pearl registers two births in **Lee Co., KY** as Pearl Newman | Children **PROVEN** in Lee; Dora **not** on those index rows | C306 C307 |
@@ -110,6 +110,12 @@ She is **not**:
 
 **Household that does locate a child:** Pearl, 15, is in Owsley with paternal grandmother Elizabeth. That is Pearl’s address, not Dora’s. [C026]
 
+**Same district, twenty households later — Pearl’s future husband (PROBABLE):** Buck Creek hh **161–161** is **Rufus JACKSON** 44, wife **Margaret** 43 (11 children born, 10 living), and son **Clyde** 16, single, KY/KY/KY, with siblings Sudie, Otto, Dewey, Alice, Florence, Lucy, Brewton. [C317] [S299] The 1900 Buck Creek house **317/319** is the same family: Rufus b. Aug 1865, Margaret b. Dec 1865, **Clyde son b. May 1892**, age 8. [C319] [S300]
+
+Same-person test vs the 1920 Sturgeon head Clyde Jackson 26, husband of Pearl: name + age trajectory (8 in 1900 / 16 in 1910 / 26 in 1920, one year slack vs a May 1892 birthday) + KY/KY/KY + the 1910 district he shared with Pearl. **No contradiction.** Merge is **PROBABLE**, not PROVEN, until a license or draft card names parents or wife. [C318] Two other Buck Creek Clydes (Wilson Judd’s son; John W. Rowland’s son) are **not** Jackson and are rejected.
+
+Dora is in **neither** hh 141 nor hh 161. The cluster locates the daughter and the man she later married. It does **not** close the 1910 hole for P001.
+
 ---
 
 ## 1911–1916 — still silent
@@ -132,7 +138,11 @@ Lee County birth index: **JACKSON, Margaret E.**, mother **NEWMAN, Pearl**, 29 J
 
 Pearl is therefore in **Lee County, Kentucky**, as a married woman using Newman, four months after Coy’s Ola wedding. **The siblings are not in one place.** That **splits** the 1917 geography: Arkansas (Coy) and Kentucky (Pearl). It does **not** place Dora in either county. [C312]
 
-**Pearl × Clyde Jackson license:** **not** in Lee Marriage Books **9–13** (this pass). [C308] [S288] Aggregator pages list 1915 Newnam / 1918 Newman in Kentucky — **authored/index noise, SPECULATIVE**, not a substitute for a book row. First *documented* married name is the June 1917 birth index. Marriage by that date is **PROBABLE**. County of license **open** (Owsley is the next search; Pearl was there in 1910).
+**Pearl × Clyde Jackson license:** **not** in Lee Marriage Books **8–14** (Books **9–13** prior; **8** and **14** this pass). [C308] [C320] [S288] [S302] Aggregator pages list 1915 Newnam / 1918 Newman in Kentucky — **authored/index noise, SPECULATIVE**, not a substitute for a book row. First *documented* married name is the June 1917 birth index. Marriage by that date is **PROBABLE**.
+
+Owsley’s published marriage index has **no book or VS page for 1911–1972**. The submitted-marriages page has one 1866 couple only. [C321] [S301] That unpublished courthouse interval is the remaining first-choice retrieval: both parties were in Buck Creek in 1910. [C317] [C026]
+
+Owsley 1911–1920 birth index **J** has one Jackson child (Agnes G., mother Margaret Isaacs, 28 Apr 1911) and **no** Pearl as a Jackson mother. [C322] [S303] Pearl’s 1917 and 1919 births stay Lee. Lee WWI draft transcript has **no** registrant Clyde Jackson. [C323]
 
 ---
 
@@ -144,6 +154,7 @@ That is a **cemetery transcription**, not a death certificate. This pass opened:
 
 - Lee 1918 death-certificate extracts: **no** Mary / Mary A. Newnam or Newman. [C310] [S285]
 - Lee death index 1911–1929, N: **no** Mary / Mary A. Newnam or Newman (extends S047). [C310] [S286]
+- Owsley 1918 death-certificate extracts: **no** Mary / Mary A. Newnam or Newman. [C324] [S304]
 
 **Conflict #18 (new):** stone date and yard vs missing Lee civil index row. **Not averaged.** Burial at Heidelberg is **PROVEN** as a 2001 reading. Death *in Lee County* is only **PROBABLE** (people are sometimes buried in the home yard after dying elsewhere). Informant — the field that might have named Dora — is **unread**. Do not print “Dora was at her mother’s funeral.”
 
@@ -259,7 +270,7 @@ WWI: Lee County draft transcript (1,126 cards) has **no** Newnam / Newman / McCo
 | 1907 | — | **open** |
 | 1908 | — | **open** |
 | 1909 | — | **open** |
-| 1910 | Not on any searched Newman/Stone/Peebles line; not Sturgeon ED 99; not with Pearl | **UNKNOWN** |
+| 1910 | Not on any searched Newman/Stone/Peebles line; not Sturgeon ED 99; not with Pearl. Pearl and (probable) Clyde are both in Buck Creek | **UNKNOWN** for her; children/FAN **PROVEN** |
 | 1911 | — | **open** |
 | 1912 | — | **open** |
 | 1913 | — | **open** |
@@ -299,7 +310,8 @@ WWI: Lee County draft transcript (1,126 cards) has **no** Newnam / Newman / McCo
 | *Yell County Journal* / *Enterprise* Aug–Sep 1926 | Obit, kin list (**B049**) |
 | M1509 **AR69** (Yell) / **AR49** (Perry) / **KY45** | Coy or John H. nearest-relative line |
 | Mary A. Newnam 1918 KY death certificate (statewide, not only Lee) | Informant; death place vs Heidelberg burial |
-| Pearl × Clyde license (Owsley first) | Whether Dora consented / residence of the bride |
+| Pearl × Clyde license — **Owsley courthouse / FS film 1911–1917** (published gap) | Whether Dora consented / residence of the bride; groom’s parents should be Rufus × Margaret if C318 holds |
+| Clyde Jackson WWI card — M1509 **KY74** (Owsley) then **KY45** | Nearest relative; 1917–18 address (not on Lee GT transcript) |
 | 1900 Sturgeon **original** T623 schedule for hh 67 | Occupation/nativity image (now transcription only) |
 | Yell 1920 **ED 191** remainder | Last unread Carter Cove sector for Mrs. Stone |
 
@@ -307,6 +319,6 @@ WWI: Lee County draft transcript (1,126 cards) has **no** Newnam / Newman / McCo
 
 ## Files this reconstruction rests on
 
-- Case: `03-timeline.md`, `04-evidence.md` (C305–C316, S283–S290), `06-dossier.md`, `07-conflicts.md` #18, `02-log.md` L361–L372, `SOURCE-INDEX.md`
-- New extracts: `sources/census/1920-lee-sturgeon-clyde-pearl-extract-2026-10-31.txt`, `sources/births/lee-births-j-pearl-jackson-2026-10-31.txt`, `sources/cemetery/brandenburg-quillen-mary-a-newnam-2026-10-31.txt`, `sources/deaths/lee-1918-dc-extracts-no-mary-newnam-2026-10-31.txt`, `sources/deaths/lee-kdi-n-1911-1929-mary-nil-2026-10-31.txt`, `sources/census/1920-lee-beattyville-dora-rejects-2026-10-31.txt`, `sources/census/1920-lee-proctor-heidelberg-dora-nil-2026-10-31.txt`, `sources/marriages/lee-books-9-13-pearl-clyde-nil-2026-10-31.txt`
+- Case: `03-timeline.md`, `04-evidence.md` (C305–C325, S283–S290, S299–S305), `06-dossier.md`, `07-conflicts.md` #18, `02-log.md` L361–L379, `SOURCE-INDEX.md`
+- New extracts: `sources/census/1920-lee-sturgeon-clyde-pearl-extract-2026-10-31.txt`, `sources/births/lee-births-j-pearl-jackson-2026-10-31.txt`, `sources/cemetery/brandenburg-quillen-mary-a-newnam-2026-10-31.txt`, `sources/deaths/lee-1918-dc-extracts-no-mary-newnam-2026-10-31.txt`, `sources/deaths/lee-kdi-n-1911-1929-mary-nil-2026-10-31.txt`, `sources/census/1920-lee-beattyville-dora-rejects-2026-10-31.txt`, `sources/census/1920-lee-proctor-heidelberg-dora-nil-2026-10-31.txt`, `sources/marriages/lee-books-9-13-pearl-clyde-nil-2026-10-31.txt`, `sources/census/1910-owsley-buck-rufus-clyde-extract-2026-10-31.txt`, `sources/census/1900-owsley-buck-rufus-clyde-extract-2026-10-31.txt`, `sources/marriages/owsley-marr-landing-1911-1972-gap-2026-10-31.txt`, `sources/marriages/lee-books-8-14-pearl-clyde-nil-2026-10-31.txt`, `sources/births/owsley-1911-1920-j-jackson-pearl-nil-2026-10-31.txt`, `sources/deaths/owsley-1918dc-mary-newnam-nil-2026-10-31.txt`
 - Narrative: `book/Dora-Ella-Newnam-Stone-A-Life.md` § Places: 1900 to death

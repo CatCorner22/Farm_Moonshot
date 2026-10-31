@@ -1,0 +1,23 @@
+# Extract: Owsley Co. KY Birth Index 1911–1920, surnames J
+# Source: https://usgennet.org/usa/ky/county/owsley/births/j.html
+# Captured 31 Oct 2026. HTTP 200, 58629 bytes. Index / transcription only.
+# Path is j.html (j.htm is 404).
+
+Columns: child last / first / middle / mother last / mother first / month / day / year
+
+## Only JACKSON child on this letter page
+JACKSON | AGNES | G | ISACCS | MARGARET | 4 | 28 | 1911
+
+Mother maiden on the index is ISACCS (Isaacs). That may be Rufus Jackson's wife Margaret
+(C317 household: Margaret 43, 11-10 in 1910) — POSSIBLE only; not required for the Pearl merge.
+
+## Pearl as mother
+Nil. No row with mother first name PEARL and child surname JACKSON.
+The PEARL hit on the page is child JETT, PEARL, mother GODFREY / KATE, 4 Nov 1917 — rejected.
+
+Pearl's documented 1917 and 1919 births remain Lee County (S284), not Owsley.
+
+N-letter page (n.htm, 58425 bytes) Newman children 1911–1920 are Clara/Cole, Grace/Isaacs,
+Joan/Moore, Robert/Brandenburg, Willie/Bradburry — none with mother Pearl.
+
+Exact strings: JACKSON, Pearl, PEARL, NEWMAN, NEWNAM, Clyde.
