@@ -1,0 +1,69 @@
+Pass 105 — Josephine Newnam × Gilbert ~1902 remaining substitutes
+Opened 31 Oct 2026 (America/New_York). HTML-seen compiled / submitted indexes.
+License unseen. Original 1916 DC face unseen. T288 images unseen.
+
+Letcher USGW marriages.html Wayback id_/20250904071627 OPENED (raw HTML).
+  Dec 2023 listing “Letcher County, Kentucky Marriages 1884 To 1903 Books
+  Vii --xii - Complete Marriage Book” 7K Deanna Meeks href:
+  http://files.usgwarchives.net/ky/letcher/vitals/marriages/letcherc7nmb.txt
+  Live curl timeout 25s, 0 bytes. Wayback id_ OPENED 6,906 bytes
+  (CDX 20250905094621 length 2410). Submitted 18 Dec 2023; abstracted by
+  Gloria Rose. Header: LETCHER COUNTY, KENTUCKY MARRIAGES 1884 TO 1903
+  BOOKS VII --XII - Complete Marriage Book.
+  Body is 1884 only (Marriage Record 7), 56 dated couples 31 Jan–30 Dec 1884.
+  This is NOT the 63-page LCHGS Vol. 2 covering January 1884–August 1903.
+  Nil Josephine / Newman / Newnam / Gilbert.
+  Other: Belcher, George H. × Bentley, Dora E. 4 Dec 1884 DISPROVED as this
+  Dora (maiden Bentley ≠ Newnam; year 1884).
+  USGW year files already opened Pass 100: 1884-91 / 1892-95 / 1896-97.
+  CDX nil for 1884-1903.txt / 1898-1903.txt / 1898-03.txt / 1900-03.txt.
+  1898–1903 still unseen as a digital covering table.
+  Letcher CC 1881–1907 “search” href is FamilySearch collection 1674849
+  place query, not the clerk books. Ancestry/KDLA VS Letcher years are
+  1852–1856, 1859, 1874–1878, 1906–1907 (no 1898–1905). KDLA clerk
+  marriages 1842–2009 are on-site. LCHGS sample page is a cover GIF only.
+
+Magoffin USGW marriages/kentucky/magoffin.htm Wayback 20220518034442id_
+  OPENED. “Various Marriage Records, 1860–1910” href is
+  files.usgwarchives.net/ky/magoffin/misc/m6801.txt (not a covering table).
+  Wayback 20190826034421id_ OPENED (2,003 bytes). Five Hackworth FAN
+  extracts from Magoffin County Historical Society First Fifty Years
+  Volume 1 (1981), pp. 19/27/85 cited:
+    George Hackworth × Maudie Prater 18 Feb 1909 Chestnut Grove other;
+    John W. Adams × Sarah Hackworth 28 Feb 1867 other;
+    M. G. Stamper × Nancy Jane Hackworth 19 Jan 1882 other;
+    Morton Salyer × Emma Hackworth 16 Jan 1908 other;
+    Thomas Hackworth × Cate Stone 21 Dec 1896 other Stone;
+    Charlie Hackworth × Lulia Dotson 22 May 1906 other.
+  Nil Josephine / Newman / Newnam / Gilbert. Not the covering 1860–1910 book.
+  Society book still listed purchase-only, not opened.
+  Magoffin kygenweb marriages-1860-1900 already n/a as 1902 (C1102).
+  rootsweb kymagoff/kymarriage.htm mixed-county dump OPENED (76,245 bytes;
+  0 Newman/Newnam). Two 1902 tokens are Harlan Nora Lefever × William Lloyd
+  Brock (other county). Magoffin-only Josephine remains Bailey × Willis
+  15 Sep 1897 DISPROVED (C1102).
+
+Pike USGW ky/pike/marriage.htm OPENED (submitted couples, not a covering
+  1902 compilation). Nil Newman / Newnam / Josephine.
+  1902: Gibson, Lila × Rowe, Lilburn 25 Apr 1902 other.
+  Gilbert, Parthena × Slone, Paayton H 18 Mar 1867 DISPROVED as this bride
+  (maiden Gilbert; year 1867). Thacker, Gilbert 9 Aug 1881 is a given-name
+  Gilbert, other.
+
+Lawrence USGW vitals/marriages/m1902.txt CDX empty (no 1902 year file).
+  m1901.txt / m1900.txt CDX empty. m1903.txt Wayback 20220404180933id_
+  OPENED (6,451 bytes; unpublished manuscript by David May). Twenty 1903
+  couples. Nil Newman / Newnam / Gilbert / Josephine. n/a as a 1902 license.
+
+WikiTree Newman-3942 Mary Alberta B. Newman × Walter Samuel Gilbert
+  21 Dec 1902 Patrick County, Virginia DISPROVED as this Josephine
+  (given name Mary Alberta; place Virginia; not KY Newnam). Same-year
+  Newman×Gilbert trap only.
+
+KDLA county-records inventory (opened as HTML extract of the PDF):
+  Allen clerk marriages 1815–1995 on-site; statewide VS no 1902 row
+  (1899–1901 then 1903–1904). Oct 1902 fire already logged (C1103).
+  Letcher clerk 1842–2009 on-site; VS gap 1879–1905.
+  Magoffin clerk 1860–2016 on-site; VS years 1859, 1861–1862, 1874–1875, 1907.
+
+License still unseen. Do not close B063.

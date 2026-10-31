@@ -1,0 +1,22 @@
+Pass 105 — NARA T288 IIIF / substitutes, 31 Oct 2026 (America/New_York)
+Card images unseen. Do not invent T288 contents. Do not promote C509.
+
+Reel 348 frame 01001 info.json
+  URL: https://catalog.archives.gov/iiif/3/lz%2Fdc-metro%2Frg-015%2F563268/T288-0348/T288-0348-01001.tif/info.json
+  Result: HTTP 200 in 0.17s, 5,454 bytes. Content-Type text/html.
+  Body is NARA Catalog SPA (isLoggedIn shell), not IIIF info.json.
+  CloudFront header: x-cache Error from cloudfront.
+  Not the microfilm; cards unseen.
+
+Reel 347 frame 01001 info.json (same path pattern T288-0347)
+  HTTP 200, 5,454-byte SPA HTML. Same Catalog shell. Cards unseen.
+
+NARA Catalog file unit 382335916 (reel 348 unit 1) remains SPA, not cards.
+
+FamilySearch collection 1919699 unread this pass (prior SPA isLoggedIn false
+  still stands). IA T288 title search numFound 0 still stands (Pass 104).
+
+Prior access-fails remain true: timeout 40s, 15s, HTTP 502, 20s, 25s,
+  22s/30s, 20s, 15s. This pass is SPA HTML, not a card-nil.
+Catalog quoted Newnam remains a T288 title-nil, not a card-nil.
+Pixels unseen.

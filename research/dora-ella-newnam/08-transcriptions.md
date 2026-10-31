@@ -5598,3 +5598,57 @@ Pass 2: Do **not** invent T288 card contents. Do **not** promote C509.
 ### Facts extracted → claim IDs
 - IIIF timeout 15s, 0 bytes; images unseen → C1104
 - B061 remaining gap → C1106
+
+## DOC240 — Catalog + Pass 105 coverage
+
+- Extract: `pass105-coverage.txt` SHA-256 `a6eac5b5a71f40448019d31ca1826cf329977cf78fc6f1b129b1d879c72549cd`
+- Provenance: Cursor `list-cloud-agents` includeArchived limit 200, 31 Oct 2026. This run `bc-01a18bb4-e162-785c-9724-86a7c5663bf1`.
+- Access: process listing. **No** new independently image-backed P001 1900–1926 residence.
+
+### Diplomatic — cited extract
+
+> **197** / `hasMore: false` / `totalMatched: 197`. Was **195**. NEW vs 195 (2; **no IDs imported**). Status-only: Hunt Dora **renamed** B078 still RUNNING (same id). Sibling C281 **not imported**.
+
+Pass 2: Process count only. Skip **C221–C280**. Do **not** promote C509. Do **not** hunt remaining 1930 Owsley sheets.
+
+### Facts extracted → claim IDs
+- catalog 197; NEW 2 process-only → C1107
+- B063 remaining gap → C1112
+- B061 remaining gap → C1113
+
+## DOC241 — Josephine remaining substitutes (Pass 105)
+
+- Extract: `josephine-gilbert-pass105.txt` SHA-256 `91cf7535b0af248ff33fb9798ee4fbf7462827bc2ec496daa2ffff413916730e`
+- Coverage: `pass105-coverage.txt` `a6eac5b5a71f40448019d31ca1826cf329977cf78fc6f1b129b1d879c72549cd`
+- Provenance: Letcher letcherc7nmb.txt; Magoffin m6801.txt; Pike marriage.htm; Lawrence m1903.txt; WikiTree Newman-3942. Opened 31 Oct 2026. **HTML-seen / compiled**. License unseen.
+
+### Diplomatic — cited extracts
+
+> Letcher letcherc7nmb.txt title 1884–1903 Complete Marriage Book; body 1884 only, 56 couples. Nil Josephine Newnam × Gilbert.
+
+> Magoffin m6801.txt is five Hackworth FAN extracts from the 1981 First Fifty Years book, not the covering 1860–1910 compilation.
+
+> Lawrence m1903 opened 20 couples, nil this couple; m1902 CDX empty. WikiTree Mary Alberta Newman × Gilbert 21 Dec 1902 Patrick VA DISPROVED.
+
+Pass 2: License still unseen. Do not close B063.
+
+### Facts extracted → claim IDs
+- Letcher c7 1884 only nil this couple → C1108
+- Magoffin m6801 n/a as covering 1860–1910 → C1109
+- Pike/Lawrence remaining n/a/other/DISPROVED → C1110
+- B063 remaining gap → C1112
+
+## DOC242 — T288 IIIF SPA HTML (Pass 105)
+
+- Extract: `t288-timeout-pass105.txt` SHA-256 `47b3dd86e0c144acac1b17811534859c88d7162eb800e94e326262d942d8fc61`
+- Provenance: NARA Catalog IIIF T288-0348-01001 info.json. Opened 31 Oct 2026. **Access-fail**.
+
+### Diplomatic — cited access results
+
+> Reel 348 frame 01001 info.json HTTP 200, 5,454-byte Catalog SPA HTML, not IIIF JSON. Card images unseen.
+
+Pass 2: Do **not** invent T288 card contents. Do **not** promote C509.
+
+### Facts extracted → claim IDs
+- IIIF SPA 5,454 bytes; images unseen → C1111
+- B061 remaining gap → C1113

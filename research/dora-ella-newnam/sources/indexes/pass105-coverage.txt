@@ -1,0 +1,47 @@
+Pass 105 coverage — 31 Oct 2026 (America/New_York)
+This run bc-01a18bb4-e162-785c-9724-86a7c5663bf1
+Catalog list-cloud-agents includeArchived limit 200 → 197 / hasMore false / totalMatched 197.
+Was 195 (Pass 104 filing). NEW vs 195 (2; no IDs imported):
+  Read MO leftover-M 3752-3810 RUNNING
+    bc-1ab7c747-19ca-577a-918c-b9167d128b99
+  Read MO leftover-M 3812-3870 RUNNING
+    bc-8bdbc1fa-e92e-58bc-bbac-262010da4e0d
+Status-only (not new IDs):
+  Hunt Dora / B077 renamed B078 Saline QR grooms, year holes
+    same id bc-aa43eaa5-be23-54be-a20a-7a5238fd33f8 still RUNNING.
+  B054 Carter Cove stones still RUNNING
+    same id bc-20e39036-9573-5790-87e8-76e84d742488.
+  B057 Everett residuals renamed B045 Samuel probate film
+    same id bc-c5415202-619c-5848-aaa6-1ce23094b5fd still RUNNING.
+  1900–death locations remains B092 ED 200 name columns
+    same id bc-6d51c793-cffb-5165-99f1-7d7ac656b317 still RUNNING.
+  Sibling PR #33 C281 not imported.
+Nested reviewer not respawned. Message queue empty.
+Skip C221–C280 / L245–L342 / S259–S266.
+Do not mint C274–C280. Do not promote C509. Do not hunt D-540.
+Do not close B063. Do not hunt remaining 1930 Owsley sheets (closed Pass 94).
+Do not import C281. Do not invent T288 card contents.
+Do not commit leftover 1920 ED 89 / N-550 JPEGs.
+
+Work this pass:
+- Letcher USGW marriages.html Wayback id_ 20250904071627 OPENED (raw HTML).
+  The Dec 2023 7K “Complete Marriage Book” href is
+  files.usgwarchives.net/ky/letcher/vitals/marriages/letcherc7nmb.txt.
+  Live files.usgwarchives.net timed out 25s. Wayback id_ OPENED (6,906 bytes).
+  Title claims 1884–1903 Books VII–XII; body is 1884 only (56 couples).
+  Nil Josephine / Newman / Newnam / Gilbert. Dora E. Bentley × George H.
+  Belcher 4 Dec 1884 DISPROVED as this Dora. 1898–1903 still unseen on USGW.
+- Magoffin USGW “Various Marriage Records, 1860–1910” OPENED as
+  files.usgwarchives.net/ky/magoffin/misc/m6801.txt (Wayback 20190826,
+  2,003 bytes): five Hackworth FAN extracts from the 1981 First Fifty Years
+  book, not the covering compilation. Society book still unopened.
+- Pike USGW marriage.htm submitted index OPENED: one 1902 couple other;
+  Gilbert Parthena 1867 DISPROVED; nil Newman/Josephine.
+- Lawrence USGW m1902.txt CDX empty; m1903.txt Wayback OPENED (20 couples,
+  nil Newman/Gilbert/Josephine), n/a as 1902.
+- WikiTree Mary Alberta Newman × Walter Samuel Gilbert 21 Dec 1902
+  Patrick County, Virginia DISPROVED as this Josephine.
+- T288 IIIF reel 348 frame 01001 info.json HTTP 200, 5,454-byte SPA HTML
+  (CloudFront Error), not IIIF JSON. Card images unseen.
+
+B061 / B063 remain open. Next unused after this pass: C1114+ / L992+ / S741+ / DOC243+.

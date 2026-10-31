@@ -2822,3 +2822,15 @@ research/dora-ella-newnam/sources/census/1880-lee-ky-ed59-sheet43-p768-caroline-
   sha256: 9e7bc28943da1f04650cf66642de0e0022d727e4974446cd4584d5f00578ecde
   format: text extract, 1,072 bytes
   check: T288 IIIF reel 348 timeout 15s 0 bytes; FS SPA unread; IA numFound 0
+/workspace/research/dora-ella-newnam/sources/indexes/pass105-coverage.txt
+  sha256: a6eac5b5a71f40448019d31ca1826cf329977cf78fc6f1b129b1d879c72549cd
+  format: text extract, 2,706 bytes
+  check: Pass 105 coverage; catalog 197 NEW 2 process-only; Letcher c7 1884 only; T288 SPA 5454
+/workspace/research/dora-ella-newnam/sources/indexes/josephine-gilbert-pass105.txt
+  sha256: 91cf7535b0af248ff33fb9798ee4fbf7462827bc2ec496daa2ffff413916730e
+  format: text extract, 4,072 bytes
+  check: Letcher letcherc7nmb 1884 only nil this couple; Magoffin m6801 not covering book; Lawrence m1903 n/a as 1902
+/workspace/research/dora-ella-newnam/sources/indexes/t288-timeout-pass105.txt
+  sha256: 47b3dd86e0c144acac1b17811534859c88d7162eb800e94e326262d942d8fc61
+  format: text extract, 1,078 bytes
+  check: T288 IIIF reel 348 HTTP 200 SPA 5454 bytes not IIIF JSON; cards unseen
