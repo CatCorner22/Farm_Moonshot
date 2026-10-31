@@ -595,6 +595,24 @@ One row per search, **including nil results**. Access: free | subscription | on-
 | L542 | 2026-10-31 | Workaround after unpublished 404 / po0066 miss | Place P001 Apr 1910 | (1) Wayback + new slugs; (2) T624-66 title/header map; (3) Cleburne Wayback + Newton/Johnson. ≥3 steps; not blocked | S368 S369 S370 | B075 |
 | L543 | 2026-10-31 | B057 retrieval path (no film opened) | Clyde Jackson × Pearl Newnam 1911–17 | Not re-opened. Catalog / clerk mail already **C1411**. Phone **not** re-called. Images **not examined** | S337 | C1411 |
 | L544 | 2026-10-31 | Access honesty pass 74 | See note below | Opened only alt catalogs + T624-66 sampled headers + Cleburne Wayback + Newton/Johnson | S368–S370 | |
+| L545 | 2026-10-31 | Variant storm (search_variants.py) before B075 | Dora/posa/dosa/rosa + Newnam/Newman/Stone; Ella/Mrs Stone | Strings used on T624 title cards, Pope 1920 index, Scott 1910/1920/marr | S371 S372 S373 | C1437+ |
+| L546 | 2026-10-31 | NARA T624 pamphlet + US-census.org + IA sister metadata | Which reel has Van Buren 1910 | Catalogs agree **T624-66**. po0066 already Sevier+Union only | S371 | C1437 |
+| L547 | 2026-10-31 | IA po0067unit title cards n1–n3 (no PDF) | Confirm county before download | **Vol. 65 Washington (part) 1–253** | S371 | C1438 |
+| L548 | 2026-10-31 | po0067 headers n4 / n400 / n700 / n1410 | Van Buren township | Washington then White ED 173. **Nil** Van Buren | S371 | C1438 |
+| L549 | 2026-10-31 | Bound-volume sequence on IA AR 1910 scans | Vol. 64 / Van Buren card | Vol. 62 Sevier; 63 Union (part); 65 Washington (part). **64 unseen** | S371 | C1439 |
+| L550 | 2026-10-31 | Retrieval path after IA miss | Complete T624-66 | FS **1727033** / Ancestry **7884** / NARA. T1224-28 IA search **nil**. FHL # **not verified** | S371 | C1440 |
+| L551 | 2026-10-31 | Access Genealogy Van Buren 1910 list | Unpublished township trans. | Same published set already read. **No** new body | S371 | C1441 |
+| L552 | 2026-10-31 | Pope 1920 USGW 1920idx.txt (new host) | Dora/Newman/Stone ~48 | Newman George W. / Richard only. Stone six names, **no** Dora/Tom | S372 | C1442 |
+| L553 | 2026-10-31 | Pope 1920 Dora given-name rows | Same-person | Sullivan Dora F. 145b **rejected**. Other Doras other surnames | S372 | C1443 |
+| L554 | 2026-10-31 | Scott 1910 heads+* (new host) | Dora/Newman/Stone ~38 | Newman 3 / Stone 3 local. Dora heads other surnames. **Nil** P001 | S373 | C1444 |
+| L555 | 2026-10-31 | Scott 1920 heads+* | Dora/Newman/Stone ~48 | Newman 6 / Stone 5 local. Dora = Janaway/May/Pool. **Nil** P001 | S373 | C1444 |
+| L556 | 2026-10-31 | Scott marr N/S letters 1882–1974 | Dora×Stone 1920–25 | **No** Newnam; **no** Dora Newman bride; **no** T.A. Stone 1920–25 | S373 | C1445 |
+| L557 | 2026-10-31 | Independence ARGenWeb census (new host) | 1910/1920 transcript | **No** local book. Links only | S374 | C1446 |
+| L558 | 2026-10-31 | White ARGenWeb census index (new host) | 1910/1920 bodies | Dist. 150–173 + 1920 townships listed. **Not opened** | S374 | C1447 |
+| L559 | 2026-10-31 | Residual after B075 | Next hosts | Complete T624-66 Van Buren images (not po0066); White bodies; then B057 path already written | S371 | C1448 |
+| L560 | 2026-10-31 | Access honesty pass 75 | See note below | Title cards + Scott/Pope/Independence/White catalogs only. No 277 MB PDF | S371–S374 | |
+
+**Access honesty (pass 75):** IA po0067 title cards n1–n3 + header samples n4/n400/n700/n1410 **seen** (PDF **not** downloaded). Reel 61/54 opening title cards **seen**. Reel 46 n1 **404**. NARA/US-census catalogs **seen**. Access Genealogy Van Buren 1910 list **seen**. Pope 1920idx **seen**. Scott 1910/1920 heads + N/S marriage letters **seen**. Independence census landing + White township catalog **seen**. T1224 IA search **nil**. Did **not** re-download po0066. Did **not** refetch opened 1910 VB bodies, 1920 Union 149a–160b, Perry 1910, ED 191/188, C335/C349 Solr, Conway Z. FS/Ancestry **B011** unread. M1509 unread. Newspapers.com unread. **Did not** re-call logged phones. **Did not** invent a B057 film reading. FHL film number for T624-66 **not verified**.
 
 **Access honesty (pass 74):** Wayback CDX + What’s New + GT census **seen**. New slugs holley/whiteoak1/griggs.html/union.html **404**. Cleburne live archive **timeout** (the one retry); Wayback miscmar1 **seen**. IA po0066 PDF downloaded to `/tmp` (not committed); title cards n1/n370 + sampled headers **seen**. Johnson redirect + Newton home/marriages **seen**. USGW landings **timeout**. Did **not** refetch opened 1910 VB bodies, 1920 Union 149a–160b, Perry 1910, ED 191 351–379, ED 188 303–319. FS/Ancestry **B011** unread. M1509 unread. Newspapers.com unread. **Did not** re-call logged phones. **Did not** repeat C335/C349 Solr. **Did not** invent a B057 film reading.
 
