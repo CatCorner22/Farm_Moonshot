@@ -1,0 +1,237 @@
+Pass — 1900 MO S-415 Sullivan JOHN family-section 4-card sheets
+Date: 31 Oct 2026
+Images seen: /tmp/p90/mo-john/sheets/mjn-000.jpg–mjn-034.jpg (IA soundex1900mo248 n3535–n3674)
+             Individual card crops /tmp/p90/mo-john/fam/n3535.jpg–n3674.jpg (used to
+             correct n-map and re-read family tables).
+Source: IA BookReader JPEGs, 1900 Missouri Soundex S-415 (T1055 roll 248).
+Method: visual read of EVERY sheet; head name AND OTHER MEMBERS OF FAMILY table.
+Diplomatic quotes. Uncertain letters marked [?]. Names not invented.
+
+Convention: n#### = IA BookReader locator = fam/ filename.
+Sheet map: mjn-000 = n3535–n3538 … mjn-034 = n3671–n3674
+  (printed left-margin n labels on 4-up sheets can sit 1 off the fam/ names;
+   fam/ n#### is the working identifier below.)
+
+Hunt strings (any age): Letha / Letta / Lethia / Lettie / Litha / Viola / Lottie / Leta
+Also: every girl aged 0, 1, or 2; IN-born head or wife; Bollinger County.
+
+================================================================
+1. EXACT JOHN* n RANGE
+================================================================
+
+Jessie: NOT on n3535–n3674. This slice opens already in John.
+  Prior pass 56 placed Jessie/Jerry ~n3501–n3519 and Joe ~n3530 (not re-seen here).
+
+John* START (this slice): n3535
+  n3535 "Slovensky, John" — first card is already a John given-name card.
+  First Sullivan John: n3539 "Sullivan, John" (indiv., Buchanan / St Joseph boarder).
+
+John* END: n3667
+  n3666 "Sullivan, Jonathan C" (Ripley / Jordan Twp)
+  n3667 "Sullivan, Jordan" (Shannon) — last John* card
+  n3668 Soundex divider tab "Joseph"
+  n3669 first Joseph: "Sullivan, Joseph" (Jasper / Mineral Twp, boarder Noel, George B)
+  n3670 "Slavin, Joseph" (Vernon / Hickory Grove Twp)
+
+Exact John* band on these sheets: n3535–n3667 inclusive.
+Joseph after: divider n3668; first Joseph card n3669.
+
+Internal divider: n3598 Soundex tab "A" (plain John ends n3597; John A begins n3599).
+
+Misfiles inside the John run (not Jessie/Joseph edges):
+  n3566 "Sullivan, Jno" St Louis City Hospital (Jno = John)
+  n3579 "Sullivan, Jas[?]" St Louis / Selby Place, foreman with Fay, James D
+    (looks like Jas = James, sitting in the John band)
+
+================================================================
+2. TODDLER GIRLS aged 0, 1, or 2  (full fields)
+================================================================
+
+None of the names below is a hunt-string.
+
+1) n3538 (cont. of n3537)  "Minervie"  G.D.  Apr 1900  1/12  Missouri
+   Head n3537: "Slavens, John"  W Feb 1857 43 Illinois
+   vol 53 ED 65 sh 7 ln 38  ·  Laclede / Eldridge Twp
+   Other on n3537–38: Mary J W Nov 1858 41 MO; Nancy D Apr 1879 21 MO;
+     Miller S Feb 1885 15 MO; William S Apr 1889 11 MO;
+     Owen S Apr 1893 7 MO; Iuly[?] D Jan 1895 5 MO; George S Aug 1896 3 MO
+
+2) n3563  "Ellen"  D  Oct 1898  1  Missouri
+   Head: "Sullivan, John"  W Feb 1864 36 Kansas
+   vol 46 ED 111 sh 15 ln 16  ·  Jackson / Kaw Twp / Kansas City / E 24
+   Other: Margaret W Feb 1870 30 Kansas; Elizabeth D Apr 1896 3 MO;
+     McPhee[?], Elizabeth ML Dec 1830 69 Ohio
+
+3) n3564  "Jean"  D  May 1899  1  Missouri
+   Head: "Slavens, John"  W May 1870 30 Kentucky
+   vol 43 ED 63 sh 10 ln 91  ·  Jackson / Kaw Twp / Kansas City / Maple Street
+   Other: Minerva W April 1873 27 MO
+
+4) n3575  "Ivy[?]"  D  Dec 1899  6/12  Missouri
+     (short 3-letter name; first letter I/G; alt. Gay[?] / Giv[?] — not Letha-string)
+   Head: "Sullivan, John"  W Mar 1868 32 Missouri
+   vol 63 ED 81 sh 2 ln 47  ·  Ripley / Doniphan Twp / Armstrong[?]
+   Other: Lena W Jany 1879 21 MO; Harry S Oct 1898 1 MO;
+     Powell, Hilda[?]  [rel] Feb 1878 21 MO
+
+5) n3590 (cont. of n3589)  "Ella"  D  June 1898  1  Missouri
+   Head n3589: "Sullivan, John"  W Jan 1858 42 Ohio
+   vol 100 ED 264 sh 1 ln 100  ·  St Louis / Hereford
+   Other: Mary E W April 1865 35 MO; Homer S Jan 1884 15 MO;
+     Clarence S Jan 1886 13 MO; Della D June 1889 10 MO;
+     Clarence S Sept 1896 3 MO
+
+6) n3621 (cont. of n3620)  "Nellie"  D  Aug 1899  10/12  Missouri
+   Head n3620: "Sullivan, John H."  W Dec 1863 36 Iowa
+   vol 70 ED 93 sh 4 ln 34  ·  Pemiscot / Little Prairie Twp
+   Other: Alice W January 1870 30 MO; Winfield S June 1889 11 MO;
+     Bessie B D Sept 1891 8 MO; Ruth D Feb[?] 1894 6 MO
+
+7) n3628  "Josephine"  D  Oct 1897  2  Missouri
+   Head: "Sullivan, John L"  W Aug 1865 35 Iowa
+   vol 61 ED 19 sh 4 ln 10  ·  Mercer / Morgan Twp / Princeton
+   Other: Jane W Jany 18?? 30 Iowa; Earl S May 18?? [?4/?14] Iowa
+
+8) n3630  "Helen Marie"  D  Oct 1899  7/12  Missouri
+   Head: "Sullivan, John L."  W May 1878 22 Missouri
+   vol 95 ED 257 sh 3 ln 17  ·  St Louis / Cass Ave
+   Other: Annie W Aug 1880 19 MO
+
+9) n3632 (cont. of n3631)  "Infant"  D  May 1900  0/12  Missouri
+   Head n3631: "Sullivan, John L."  W May 1858 42 Missouri
+   vol 47 ED 46 sh 20 ln 67  ·  Jasper / Joplin Twp
+   Other: Susan W Jan 1860 40 MO; Walter S Jan 1881 19 MO;
+     Early S Dec 1889 10 MO; Ella[?]/Eller[?] S Nov 1891 8 MO  (relationship S)
+
+10) n3640 (cont. of n3639)  "Delia C."  D  Feb 1898  2  Missouri
+    Head n3639: "Sullivan, John N."  W Dec 1863 36 Illinois
+    vol 13 ED 10 sh 12 ln 35  ·  Camden / Russell Twp
+    Other: Mary E W Jany 1870 30 MO; Minnie D Mch 1888 11[?] MO;
+      William C S June 1890 9 MO; [son] S Oct 1893 7 MO;
+      Joseph M S Mch 1900 2/12 MO
+
+11) n3641  "Mary I."  D  Feb 1900  4/12[?]  Missouri
+    Head: "Sullivan, John P."  W Oct 1856 43 Connecticut
+    vol 4 ED 11 sh 13 ln 91  ·  Barry / Monett Twp / Monett
+    Other: Mary A W Mch 1864 36 Illinois; John J S Dec 1896 3 MO;
+      [?] Mary ML June 1825 75 Germany Na
+
+Age 3 girls seen (NOT in 0–2 list; named so a hunt-string was not missed):
+  n3563 Elizabeth D Apr 1896 3 MO (with Ellen 1)
+  n3573 "Essie" D Apr 1897 3 · Sullivant, John · Wayne / Cowan Twp
+  n3606 "[Hattie[?] / Lottie[?] / Lettie[?]] M" D May 1897 3 · John C · St Louis S 13th
+        (first letter H/L; NOT confirmed as Lottie/Lettie)
+  n3619 "[Susie[?] / Lula[?]] M" D June 1896 3 · John H · Audrain / Salt River
+  n3654 Margaret D Apr 1897 3 · John T · St Louis / Madison
+  n3663 "Minnie I" D Aug 1897 3 · Slavens, John W continuation
+
+Boys 0–2 (not requested; noted so they were not counted as girls):
+  n3536 Harry[?]  2/12; n3597 Byron S May 1898 2; n3616 Ottie S July 1898 1;
+  n3622 Joseph L S Oct 1899 7/12; n3635 Franklin S Jan 1900 4/12;
+  n3637 Robert S July 1898 2; n3640 Joseph M S Mch 1900 2/12;
+  n3644 Harry J S Nov[?] 1898 1; n3652 Victor S Aug 1899 10/12;
+  n3654 Robert S Jan 1899 1.
+
+================================================================
+3. LETHA-STRING HITS (any age)
+================================================================
+
+NONE confirmed.
+
+Hunt strings searched on every family table: Letha, Letta, Lethia, Lettie,
+Litha, Viola, Lottie, Leta.
+
+Near / not-claimed (so they are not silently dropped):
+  n3568 "Dora" D Aug 1887 12 · John / Barry / Washburn  (Dora ≠ Letha)
+  n3581 "Sallie" D Jan 1894 6 · John / Vernon / Center / Nevada
+  n3590 "Ella" D June 1898 1  (listed under toddlers; Ella ≠ Letha)
+  n3606 4th dau May 1897 age 3 — possible Hattie / Lottie / Lettie; first letter
+        not secure; capped as [?] — not counted as a hit
+  n3607 "Ela M." D Nov 1884 15 · John C / Gentry / Cooper Twp / Stanberry
+  n3631 "Ella[?]" relationship S Nov 1891 8 · John L / Jasper / Joplin
+  n3649 "Lula" D Aug 1890 9 · John S / Johnson / Warrensburg
+  n3659 "Dora T" W Apr 1861 39 · John W / Livingston / Blue Mound  (wife)
+
+No Viola. No Leta / Letta / Letha / Lethia / Litha as written.
+
+================================================================
+4. INDIANA-BORN HEADS / WIVES; BOLLINGER
+================================================================
+
+IN-born HEAD:
+  n3542 "Sullivan, John" (INDIVIDUAL)  W Oct 1863 36 Indiana
+        vol 13 ED 16 sh 7 ln 95  ·  Butler / Poplar Bluff Twp / Poplar Bluff
+        Enumerated with Harling[?], Mary J · Lodger  ·  no family table
+
+  n3648 "Sullivan, John S."  W Nov 1839 61 Indiana
+        vol 27 ED 35 sh 4 ln 72  ·  Cole / Jefferson Twp / Jefferson City / East Main
+        Isabella W July 1852 47 Pennsylvania;
+        Anna C D May 1877 23 MO; John H S Jany 1879 21[?] MO;
+        Foster[?], M  [rel] Dec 1861 38 MO
+        No child 0–2.
+
+  n3651 "Sullivan, John T."  W July 1853 46 Indiana
+        vol 58 ED 104 sh 11 ln 16  ·  Livingston / Mooresville Twp
+        Ida R W Jan 1862 38 Indiana
+        Ethel D Feb 1884 16 MO; Mabel D Apr 1885 15 MO; [dau] D Feb 1887 13 MO
+        n3652 cont.: Binkie B D Dec 1889 10 MO; John A S June 1890 9 MO;
+          Roy T S Mar 1892 8 MO; Otto E S Sept 1894 5 MO;
+          Paul S Jan 1896 4 MO; Victor S Aug 1899 10/12 MO  (SON)
+        No daughter 0–2. No hunt-string.
+
+IN-born WIFE:
+  n3569 "Sullivan, John"  W July 1860 39 Missouri
+        vol 49 ED 46 sh 14 ln 99  ·  Jasper / Joplin Twp / Carterville / Pine
+        "Josie" W Dec 1870 29 Indiana
+        Leroy S Jan 1893 7 MO; Ollie S Jan 1895 5 MO; Ottie[?] S Sept 1897 2 MO
+        n3570 cont.: Walter S Jan 1881 19 MO
+        No daughter 0–2.
+
+  n3651 Ida R  (see above)  W Jan 1862 38 Indiana
+
+IN-born other (not head/wife; logged only):
+  n3666 Pauline C D Mar 1879 21 "Ind." · Jonathan C / Ripley / Jordan Twp
+
+BOLLINGER: no card in n3535–n3674 names Bollinger County.
+  Counties seen on John* cards include: Adair, Audrain, Barry, Benton, Buchanan,
+  Butler, Camden, Cass, Clark, Cole, Crawford, Franklin, Gentry, Harrison,
+  Jackson, Jasper, Jefferson, Johnson, Laclede, Lawrence, Linn, Livingston,
+  Mercer, New Madrid, Nodaway, Pemiscot, Pike, Ralls, Ripley, St Louis,
+  Saline, Shannon, Vernon, Wayne, Webster, Wright — not Bollinger.
+
+================================================================
+5. LETHA-STRING CHILD ~0–2 ?
+================================================================
+
+NO.
+
+No card in this John band names a child Letha / Letta / Lethia / Lettie /
+Litha / Viola / Lottie / Leta at any age, and none of the eleven toddler
+girls (0–2) carries those strings.
+
+Closest 0–2 named girls: Minervie, Ellen, Jean, Ivy[?], Ella, Nellie,
+Josephine, Helen Marie, Infant (unnamed), Delia C., Mary I.
+
+The unnamed Jasper Joplin Infant D May 1900 0/12 (n3632) is a girl aged 0
+with no given name on the Soundex card — cannot be called Letha.
+
+================================================================
+6. DARK / UNREADABLE CARDS
+================================================================
+
+No card was so dark that the head given name could not be read.
+
+Partial / clerk-blank / uncertain:
+  n3555 Sullivan, John  St Louis N 7th — family table empty; diagonal "very old"
+  n3588 Sullivan, John  Benton / Hardin Twp — table says only "and 7 Boarders"
+        (no boarder names)
+  n3575 6/12 daughter given name 3 letters, first letter I/G — Ivy[?]
+  n3606 4th daughter May 1897 age 3 — Hattie[?] / Lottie[?] / Lettie[?]
+  n3619 4th daughter June 1896 age 3 — Susie[?] / Lula[?]
+  n3628 Jane year and Earl year/age tight
+  n3538 "Iuly[?]" D Jan 1895 5 (age 5; name not secure)
+  n3641 Mary I age fraction 4/12[?] (year Feb 1900)
+  Film is inverted white-on-black throughout (normal Soundex); enhanced
+  copies used only on n3575 / n3606 / n3619 name lines.
+
+n3598 and n3668 are Soundex divider tabs (A / Joseph), not family cards.
