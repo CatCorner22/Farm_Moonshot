@@ -1,11 +1,11 @@
 # Source index — Dora Ella Newnam Stone
 
 Working inventory of **saved local copies** in `sources/` plus the authored Word biography.  
-Full file list (1691 files): [`sources/SOURCE-INVENTORY.tsv`](sources/SOURCE-INVENTORY.tsv) (path, bytes, SHA-256 prefix).
+Full file list (1706 files): [`sources/SOURCE-INVENTORY.tsv`](sources/SOURCE-INVENTORY.tsv) (path, bytes, SHA-256 prefix).
 
 **Access labels:** `image seen` · `index only` · `transcription only` · `catalog only` · `OCR text` · `not yet examined`.
 
-Captured this session: **31 Oct 2026** (S283–S290, S299–S419). Earlier plates remain in `sources/census/`, `sources/soundex/`, and `book/plates/` (see `12-image-gallery.md` and `04-evidence.md`). Pass 60–61 sources S267–S282 remain.
+Captured this session: **31 Oct 2026** (S283–S290, S299–S423). Earlier plates remain in `sources/census/`, `sources/soundex/`, and `book/plates/` (see `12-image-gallery.md` and `04-evidence.md`). Pass 60–61 sources S267–S282 remain.
 
 | ID | Filename | Date captured | Repository | URL | Citation (what / where created / where accessed) | What it proves | Access |
 |---|---|---|---|---|---|---|---|
@@ -155,6 +155,10 @@ Captured this session: **31 Oct 2026** (S283–S290, S299–S419). Earlier plate
 | S417 | `sources/marriages/jackson/` remaining C–D/E–F/G/H/L–M/R/T/V–Y + I–K local hunt + extract | 2026-10-31 | Jackson KYGenWeb | kygenweb.net/jackson/marry/ | Dora × Stone 1920–25 | **Nil** (**C1662**) | transcription |
 | S418 | Harlan home + births 1911–30 + marr M–O/S + 1900–05 + 1924–25 + 1910/1920 heads + deaths/press | 2026-10-31 | Harlan KYGenWeb | kygenweb.net/harlan/ | Mother/bride/head | **No** mother Dora Newnam; marr stop 1905 (**C1663–C1666**) | transcription / catalog |
 | S419 | Franklin fedland + Spectator 1911 + Conway censusindex/papers1 + IA Solr new-title JSON + `year-hole-b084-2026-10-31.txt` | 2026-10-31 | ARGenWeb Franklin/Conway / IA Solr | argenweb.net/franklin/ ; archive.org | Land / 1910–20 / press | Franklin Newman/Stone **rejected**; Solr **0** (**C1667–C1669**) | transcription / catalog / index |
+| S420 | `sources/census/boone/1910-bellefonte-2026-10-31.htm` + Boone/Garland/Clark AR/Carroll catalogs + Sebastian Census.html | 2026-10-31 | Boone / Garland / Sebastian / Clark / Carroll ARGenWeb | argenweb.net/boone/ ; argenweb.net/garland/ | 1910 heads / catalogs | Bellefonte **heads only**; no 1910/1920 body on those catalogs (**C1672 C1674 C1681**) | index / catalog |
+| S421 | `sources/census/johnson/john1910-index-2026-10-31.txt` | 2026-10-31 | USGW Archives / Wayback `20240804174954` | files.usgwarchives.net/ar/johnson/history/pub/john1910.txt | Dewberry 1910 surname index | Newman 69, 267; Stone six pages; **no** household (**C1673**) | index only |
+| S422 | `sources/census/soundex/ar1910-s350-*.jpg` + `year-hole-b085-2026-10-31.txt` | 2026-10-31 | NARA T1260 roll 108 / IA `soundex1910ar108` | ia800601.us.archive.org/18/items/soundex1910ar108/soundex1910ar108.pdf | AR 1910 Miracode S-350 | **No** Dora Stone ~38 KY; named Doras/Ellas **rejected** (**C1675–C1677**) | image seen |
+| S423 | `sources/land/yell/yell-fedland-pre1908-2026-10-31.txt` + `sources/land/perry/perry-fedland-pre1908-2026-10-31.txt` + `ia-solr-newtitles-b085-2026-10-31.json` | 2026-10-31 | USGW Archives (search-cache) / IA Solr | files.usgwarchives.net (live timeout) ; archive.org | Yell/Perry land pre-1908; new press titles | Yell Stones **not merged**; Perry **nil** Newman/Stone/Dora; Solr **0** (**C1678–C1680**) | transcription / index |
 
 ## Word biography provenance
 
@@ -203,6 +207,10 @@ See [`sources/authored/PROVENANCE.md`](sources/authored/PROVENANCE.md). Drive se
 | Knox / Whitley / Leslie year files | Mother Dora Newnam; Mary A. Newnam | **Done** (**C1651–C1656**). Knox 1911 **404** |
 | Breathitt / Bell / Jackson / Wolfe | 1901–25 name bodies | Breathitt 1902–20 + Bell 1911_* / 1921 N/S **done** (**C1657 C1658**). Bell remaining 1921 + Jackson remaining marr + Harlan **done** (**C1660–C1666**) |
 | Franklin / Conway / Solr new titles | 1910/1920; land; 1901–26 papers | Franklin **no** 1910/1920; fedland rejected (**C1667**). Conway unpublished (**C1668**). Solr **0** (**C1669**) |
+| Boone 1910 Bellefonte + Johnson 1910 Dewberry | Dora ~38 Newman/Stone head or boarder | Bellefonte **heads only** (**C1672**). Dewberry **surname index** (**C1673**). T624-54 **not downloaded** |
+| AR 1910 Miracode S-350 (T1260 roll 108) | Dora Stone ~38 KY | **Done** D-window **image seen** (**C1675–C1677**). 24 MB PDF kept in `/tmp` — **not committed** |
+| Yell / Perry fedland pre-1908 | Newman / Stone / Dora patentee | **Done** from search-cache (**C1678 C1679**). Live usgw **timeout** |
+| IA `13thcensus1910po0054unit` (T624-54) | Johnson Newman/Stone pages named in Dewberry | **Not downloaded** (**C1682** / **B086**). Confirm county header before any household |
 
 ## Variant strings used this session (categories 1–4)
 
@@ -212,7 +220,7 @@ See [`sources/authored/PROVENANCE.md`](sources/authored/PROVENANCE.md). Drive se
 
 **Thomas / T. A. Stone:** Thomas, Tom, T. A., T A × Stone, Store, Stowe (rejects already logged).
 
-Exact strings in `02-log.md` **L343–L352** (pass 60–61), **L361–L372** (pass 62), **L373–L379** (pass 63), **L396–L405** (pass 64), **L406–L418** (pass 65), **L419–L429** (pass 66), **L430–L441** (pass 67), **L442–L455** (pass 68), **L456–L470** (pass 69), **L471–L484** (pass 70), **L485–L498** (pass 71), **L499–L512** (pass 72), **L513–L528** (pass 73), **L529–L544** (pass 74), **L545–L560** (pass 75), **L561–L576** (pass 76), **L577–L596** (pass 77), **L597–L614** (pass 78), **L615–L632** (pass 79), **L633–L650** (pass 80), **L651–L668** (pass 81), **L669–L686** (pass 82), **L687–L704** (pass 83), and **L705–L722** (pass 84).
+Exact strings in `02-log.md` **L343–L352** (pass 60–61), **L361–L372** (pass 62), **L373–L379** (pass 63), **L396–L405** (pass 64), **L406–L418** (pass 65), **L419–L429** (pass 66), **L430–L441** (pass 67), **L442–L455** (pass 68), **L456–L470** (pass 69), **L471–L484** (pass 70), **L485–L498** (pass 71), **L499–L512** (pass 72), **L513–L528** (pass 73), **L529–L544** (pass 74), **L545–L560** (pass 75), **L561–L576** (pass 76), **L577–L596** (pass 77), **L597–L614** (pass 78), **L615–L632** (pass 79), **L633–L650** (pass 80), **L651–L668** (pass 81), **L669–L686** (pass 82), **L687–L704** (pass 83), **L705–L722** (pass 84), and **L723–L740** (pass 85).
 
 **Pearl / Clyde (pass 63):** Pearl × Newnam/Newman/Jackson; Clyde × Jackson/jacksen. Soundex **N550** / **J250**.
 
@@ -241,3 +249,7 @@ Exact strings in `02-log.md` **L343–L352** (pass 60–61), **L361–L372** (pa
 **Dora placement (pass 82, B082):** Dora / posa / dosa / rosa / dona / dara / Nora / Cora / Ella × Newnam / Newman / Stone; Mary / mayr × Newnam / Smallwood; T.A. / Tom Stone. Soundex **N550** / **S350**. Used on Clay remaining A–J/T–Z, Rockcastle remaining A/C/G/U, Laurel K/O births + deaths 1911–21, and Bradley N/S.
 
 **Dora placement (pass 83, B083):** Dora / posa / dosa / rosa / dona / dara / Nora / Cora / Ella × Newnam / Newman / Stone; Mary / mayr × Newnam / Smallwood; T.A. / Tom Stone. Soundex **N550** / **S350**. Used on Laurel remaining A/C/G/U, Knox 1901–20 births + deaths D/N/S, Whitley births (both folders) + deaths 1900–1929, Leslie births/deaths, Breathitt 1902–20, Bell 1911_* / 1921 N/S + deaths D/N/S, and Jackson births/marr.
+
+**Dora placement (pass 84, B084):** Dora / posa / dosa / rosa / dona / dara / Nora / Cora / Ella × Newnam / Newman / Stone; Mary / mayr × Newnam / Smallwood; T.A. / Tom Stone. Soundex **N550** / **S350**. Used on Bell remaining 1921 A–M/O–R/T–Z, Jackson remaining marr letters, and Harlan posted year files.
+
+**Dora placement (pass 85, B085):** Dora / posa / dosa / rosa / dona / dara / Nora / Cora / Ella × Newnam / Newman / Stone; Mrs. Stone; Mrs. Newman. Soundex **N550** / **S350**. Used on Boone 1910 Bellefonte heads, Johnson 1910 Dewberry surname index, AR Miracode S-350, Yell/Perry fedland pre-1908, and IA Solr new titles (Fort Smith Times / Southwest American / Clarksville Herald / Booneville Democrat). **No** fifth-ring KY letter dump.

@@ -205,6 +205,12 @@ Exact strings logged **L687+**.
 
 Exact strings logged **L705+**.
 
+## Name-variant storm (pass 85, 31 Oct 2026, `search_variants.py`)
+
+**Dora Newnam --also Newman --also Stone** — given: Dora, posa, dosa, rosa, dona, dara, dore, dori, dola, pora, rora. Surname: Newnam, newman, newnarn, newan, newnom, Stone. Soundex **N550** / **S350**. Combined samples: `"Dora Newnam"`, `"Newnam, Dora"`, `"posa Newman"`, `"Dora Stone"`, `"Stone, Dora"`. Also Ella / alla / elia / Mrs Stone / Mrs Newman. Dora / Ella / Posa / Nora / Cora as boarder/MIL/wife ~38/~48 on unread 1910/1920 jurisdictions that actually post household bodies (not Franklin/Conway unpublished stubs). Land: Dora / Newman / Newnam / Stone patentee on Yell/Perry when usgw resolves. Tax/directory 1901–25: Dora / Ella / Posa × Newnam / Newman / Stone. **Do not** start another unbounded fifth-ring KY letter dump unless a file names mother Dora/Ella Newnam **and** a second identifier aligns.
+
+Exact strings logged **L723+**.
+
 ## Name-variant storm (pass 77, 31 Oct 2026, `search_variants.py`)
 
 **Dora Newnam --also Newman --also Stone** — given: Dora, posa, dosa, rosa, dona, dara, dore, dori, dola, pora, rora. Surname: Newnam, newman, newnarn, newan, newnom, Stone. Soundex **N550** / **S350**. Combined samples: `"Dora Newnam"`, `"Newnam, Dora"`, `"posa Newman"`, `"Dora Stone"`, `"Stone, Dora"`. Also Ella / Mrs Stone / Mrs Newman / Posa as leftover White `transcription.htm` (open only if a real body) and as bride/mother/taxpayer on new year-hole hosts 1901–09 / 1911–16 / 1921–25 (Montgomery Pike D–E–F; Montgomery death 1914–33; Powell births mother field; Saline poll + marr I–R). Bride 1920–25: Dora / Ella / Posa × Newnam / Newman / Stone.

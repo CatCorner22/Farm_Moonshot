@@ -1,0 +1,23 @@
+[
+  {
+    "label": "Fort Smith Times OR Southwest American",
+    "q": "collection:(newspapers) AND (title:(\"Fort Smith Times\" OR \"Southwest American\" OR \"Fort Smith Elevator\") AND (dora OR posa OR newnam OR newman) AND year:[1901 TO 1926])",
+    "url": "https://archive.org/advancedsearch.php?q=collection%3A%28newspapers%29+AND+%28title%3A%28%22Fort+Smith+Times%22+OR+%22Southwest+American%22+OR+%22Fort+Smith+Elevator%22%29+AND+%28dora+OR+posa+OR+newnam+OR+newman%29+AND+year%3A%5B1901+TO+1926%5D%29&fl%5B%5D=identifier%2Ctitle%2Cyear&rows=5&output=json",
+    "numFound": 0,
+    "docs": []
+  },
+  {
+    "label": "Clarksville Herald",
+    "q": "collection:(newspapers) AND (title:(\"Clarksville Herald\" OR \"Herald Democrat\" OR \"Johnson County Herald\") AND (dora OR posa OR newnam OR newman) AND year:[1901 TO 1926])",
+    "url": "https://archive.org/advancedsearch.php?q=collection%3A%28newspapers%29+AND+%28title%3A%28%22Clarksville+Herald%22+OR+%22Herald+Democrat%22+OR+%22Johnson+County+Herald%22%29+AND+%28dora+OR+posa+OR+newnam+OR+newman%29+AND+year%3A%5B1901+TO+1926%5D%29&fl%5B%5D=identifier%2Ctitle%2Cyear&rows=5&output=json",
+    "numFound": 0,
+    "docs": []
+  },
+  {
+    "label": "Booneville Democrat",
+    "q": "collection:(newspapers) AND (title:(\"Booneville Democrat\" OR \"Logan County Democrat\") AND (dora OR posa OR newnam OR newman) AND year:[1901 TO 1926])",
+    "url": "https://archive.org/advancedsearch.php?q=collection%3A%28newspapers%29+AND+%28title%3A%28%22Booneville+Democrat%22+OR+%22Logan+County+Democrat%22%29+AND+%28dora+OR+posa+OR+newnam+OR+newman%29+AND+year%3A%5B1901+TO+1926%5D%29&fl%5B%5D=identifier%2Ctitle%2Cyear&rows=5&output=json",
+    "numFound": 0,
+    "docs": []
+  }
+]
