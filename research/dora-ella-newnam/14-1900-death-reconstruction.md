@@ -4,7 +4,7 @@ Year-by-year / event-by-event pinpoints from **1 June 1900** through **24 August
 Only cited claims. Confidence: **PROVEN** · **PROBABLE** · **POSSIBLE** · **SPECULATIVE** · **DISPROVED**.  
 Unverified items stay **open**. Living descendants are redacted.
 
-**Session:** 31 Oct 2026 · branch `cursor/dora-1900-death-reconstruction-2b6a` · logs **L361–L418** · claims **C305–C352** · sources **S283–S290, S299–S326**.  
+**Session:** 31 Oct 2026 · branch `cursor/dora-1900-death-reconstruction-2b6a` · logs **L361–L429** · claims **C305–C369** · sources **S283–S290, S299–S338**.  
 **Ages** computed from birth **11 Aug 1871** (year **PROVEN**; day 11 **POSSIBLE**): 28 on 1 Jun 1900; 38 on 15 Apr 1910; 45 on 18 Feb 1917; 48 on 1 Jan 1920; 55 on 23 Aug 1926.
 
 ---
@@ -57,6 +57,10 @@ The two children dead by this date remain **unnamed** (**C020b SPECULATIVE**). N
 
 **Open.** No city directory, tax list, deed, or newspaper yet read names her in these years. Banford post office on Sturgeon Creek opened **26 May 1902** (gazetteer; used later on Pearl’s NUMIDENT). That is a postal name for the valley, not a 1902 residence proof for Dora.
 
+**This pass — children’s records 1902–09 that would have named her as mother:** Lee VS births **1902–1904** (`vsb2.html`) and Owsley VS births **1904 / 1907 / 1908 / 1909** have **no** child of Dora/Ella Newnam/Newman/Stone. [C356] [C357] [S328] [S329] The only Lee Dora mother is **Dora GABBARD** (Josse Johnson, 14 Feb 1902). Owsley Dora mothers are Farler, McQuinn, Rhodes, Marshall, Moore, Reynolds. Lester Newman, 2 Jun 1908, is Robert × Martha Thomas — FAN, not hers.
+
+**This pass — widow remarriage in Owsley VS 1903–10:** **no** bride Dora/Ella Newnam/Newman/Stone. [C353] [S327] **Dova COLE**, 21, × Grant NEWNAM, 19, on 10 Feb 1909 is an OCR-adjacent given name — age and first-marriage status **reject** a merge. [C354] Manerva NEWMAN, 51, × William Evans, 1904, is a different woman. [C355] Lee VS marriages **1907–10** add only Dora Palmer 18 and Dora Combs 30, both rejected. [C364]
+
 FAN only: 15 Jul 1903 Burtie Brandenburg born (Louisa’s m2) [C143]; 29 Aug 1903 S. P. Farmer × Martha Mays at Eliza Brandenburg’s [C165]. These locate the 1885 witness cluster, not P001.
 
 ---
@@ -105,8 +109,12 @@ She is **not**:
 - in Pearl’s Owsley Buck Creek hh **141** (Elizabeth 61 wd, Susan Angle 44 wd, Pearl 15 gdau only) [C070]
 - in Beattyville ED **91–98** originals; **Stone, Dora** 32 wife of Jas P. **rejected** [C216] [C217]
 - on targeted 1910 Yell Co. AR originals [C219]
+- a Posa / Dara / Nora / Cora / Dora / Ella ~35–48 wife, boarder, or servant on the 1910 **Proctor, Fincastle, or New Virginia** transcripts [C361]
+- on 1910 Owsley **Booneville, Sturgeon, or Wild Dog** transcripts under those OCR forms [C362]
 
-**H3** (another married surname, or wife listed only on a husband’s card) remains **open** except Peebles, which is **not supported**. [C087]
+**Still unpublished (404):** 1910 Lee **Heidelberg, Ivy Patch, St Helens**. [C360]
+
+**H3** (another married surname, or wife listed only on a husband’s card) remains **open** except Peebles, which is **not supported**. [C087] A **Smith** remarriage by 1914 (Frances Smith / mother Ella Newman, 29 May 1914) is **not merged** — one identifier only; Lee Book 10 and the 1920 precincts just read do not corroborate. [C358] [C364]
 
 **Household that does locate a child:** Pearl, 15, is in Owsley with paternal grandmother Elizabeth. That is Pearl’s address, not Dora’s. [C026]
 
@@ -125,6 +133,8 @@ Dora is in **neither** hh 141 nor hh 161. The cluster locates the daughter and t
 Lee Marriage Books **5–19** (1896–1926): **no** Dora Newnam remarriage; **no** Peebles surname. [C084]
 
 **This pass — children’s records that would have located *her* as a mother:** Lee births **N** (1911–1920 index) lists many Newman/Newnam children. **None** has mother Dora / Ella / Dora E. Mothers are Brandenburg, Mays, Ross, Begley, Reece, and others. [C351] [S324] Ladonna Newman, 19 Nov 1915, mother Grace Brandenburg, is the 1932 FAN bride — not P001’s child.
+
+Letters **D, E, S, B** (child would carry a father’s surname other than N) likewise have **no** mother Dora Newnam/Stone. [C358] [C365] Owsley **D/E/S** the same. [C359] Near-hit **SMITH, Frances / NEWMAN, Ella / 29 May 1914** stays unmerged. [C358]
 
 **Pearl × Clyde still unread.** Neighbor-county *published* files are now closed negatives: Jackson compiled I–K/N–P **nil**; Estill grooms/certificates **nil**; Breathitt has **no** marriage year file; Wolfe’s only free year file ends **1909**. [C338] [C339] [C340] [C341] [C342] That does **not** prove they did not marry in those courthouses. Owsley eCCLIX is fee or resident-only; no account was created. [C346]
 
@@ -207,6 +217,8 @@ Statewide / ED negatives already on file:
 - Proctor 1: Dora d-i-l **21**; Dora dau **17**; Dora wife **24** [C313] [S289]
 - Heidelberg: **Grant NEWNAM** 42 + Martha Brandenburg — FAN, not P001 [C313]
 
+**This pass — unread 1920 Lee precincts now opened:** Ivy Patch, St Helens 1–2, Fincastle, New Virginia 1–2, Willow. **No** Dora/Ella/Posa Newnam/Newman/Stone ~48 as wife, head, mother, mother-in-law, or boarder. [C363] [S334] Closest rejects: **Ella** wife **46** of Robert Heath (Fincastle) — children Abama, Elizabeth, Nella, Sella, Lilian contradict Pearl and Coy; **Dora** wife **41** of J.S. Bradley — sons and age fail; Dora Lovelace / Maloney 44; Dora 50 Michigan; Dora 40 Ohio; Ella Palmer 45; Cora Spencer 43. FAN Newnams in those precincts (Ethel 14 stepdau; Lucy 17 and Calie 35 nee Newnam; B.F. 66) are **not** her. [C369]
+
 **Occupation Jan 1920:** no occupation line for P001, because no schedule line for P001.
 
 ---
@@ -220,6 +232,8 @@ Statewide / ED negatives already on file:
 **Still unread:** Yell County marriage book 1920–1925; Arkansas statewide bride index; 1925 Arkansas death certificate for Thomas/T.A. Stone (conflict #4, birth 1845 vs ~1858). Perry Books F–G already **nil** Dora × Stone. [C085]
 
 **Residence 1920–Aug 1926 — PROBABLE** Lamar / Carter Cove / Ola sector as Mrs. Stone, **without** a census line after the ED 200 read. [C211] Grounds: 1926 death at Ola, informant Coy of Ola, burial Carters Chapel, husband’s **probable** 1925 marker there. That is geography by death and burial, not a 1922 city directory.
+
+**This pass — 1921–25 directories / voters on a new host:** ARGenWeb Yell has **no** city-directory page; voter files stop at **1868**. IA Solr for a Beattyville or Ola city directory in this window is **0**. [C368] Arkansas Digital Archives still **does not resolve**. [C367]
 
 **Residence field on the 1926 certificate:** “Mammoth, Ark.” No such Yell/Perry post office. Nimrod (Perry-side) misread remains **SPECULATIVE** (conflict #7). [C204b]
 
@@ -280,8 +294,8 @@ WWI: Lee County draft transcript (1,126 cards) has **no** Newnam / Newman / McCo
 | 1907 | — | **open** |
 | 1908 | — | **open** |
 | 1909 | — | **open** |
-| 1910 | Not on any searched Newman/Stone/Peebles line; not Sturgeon ED 99; not with Pearl. Pearl and (probable) Clyde are both in Buck Creek | **UNKNOWN** for her; children/FAN **PROVEN** |
-| 1911 | — (Lee births N: no mother Dora) | **open** |
+| 1910 | Not on any searched Newman/Stone/Peebles line; not Sturgeon ED 99; not with Pearl; not Posa/Nora/Cora ~39 on Proctor/Fincastle/NewVA or Owsley Booneville/Sturgeon/Wild Dog. Heidelberg/Ivy/St Helens still unpublished | **UNKNOWN** for her; children/FAN **PROVEN** |
+| 1911 | — (Lee births N/D/E/S/B: no mother Dora) | **open** |
 | 1912 | — | **open** |
 | 1913 | — | **open** |
 | 1914 | — | **open** |
@@ -290,7 +304,7 @@ WWI: Lee County draft transcript (1,126 cards) has **no** Newnam / Newman / McCo
 | 1917 | Children in **two** states (Coy Ola; Pearl Lee). Her own place **not stated** | **POSSIBLE** AR or KY |
 | 1918 | Mother buried Heidelberg; Dora not named; Lee **and statewide 1917–19** civil index **nil** | **open** for her |
 | 1919 | Pearl still Lee (Fannie B.). Dora not on the row | **open** |
-| 1920 | Not with Pearl, Coy, or Elias; not Mrs. Stone yet if Tom A. is the husband | **UNKNOWN** |
+| 1920 | Not with Pearl, Coy, or Elias; not Mrs. Stone yet if Tom A. is the husband; not in newly read Ivy / St Helens / Fincastle / New VA / Willow | **UNKNOWN** |
 | 1921 | — | **open** |
 | 1922 | — (Elizabeth will names Pearl, not Dora) | **open** |
 | 1923 | — | **open** |
@@ -302,7 +316,7 @@ WWI: Lee County draft transcript (1,126 cards) has **no** Newnam / Newman / McCo
 
 ## Hypotheses still live (do not promote)
 
-- **H3** other 1910 surname: **open** except Peebles (**not supported**).
+- **H3** other 1910 surname: **open** except Peebles (**not supported**). A 1914 **Smith** child with mother Ella Newman is **not merged**.
 - **H4** 1910 as Newman in MO/OK/TX/TN: **closed nil** for indexed heads; wife-of-head residual remains.
 - Dora travelled with Coy to Ola before Feb 1917: **POSSIBLE**.
 - Dora stayed in Kentucky with Pearl through 1919: **POSSIBLE**. The 1917–19 split means **both** can be true for different months; neither is proven for *her*.
@@ -320,18 +334,20 @@ WWI: Lee County draft transcript (1,126 cards) has **no** Newnam / Newman / McCo
 | *Yell County Journal* / *Enterprise* Aug–Sep 1926 | Obit, kin list (**B049**) |
 | M1509 **AR69** (Yell) / **AR49** (Perry) / **KY45** | Coy or John H. nearest-relative line |
 | Mary A. Newnam 1918 KY death certificate | **No 1917–19 statewide index row.** Do not order a KY cert without volume/file. Unregistered / burial-only remains leading |
-| Pearl × Clyde license — **Owsley courthouse / FS film / eCCLIX 1911–1917** (published neighbor files now **nil**) | Whether Dora consented / residence of the bride; groom’s parents should be Rufus × Margaret if C318 holds |
+| Pearl × Clyde license — **Owsley courthouse / FHL 178898 / eCCLIX 1911–1917** (published neighbor files now **nil**) | Whether Dora consented / residence of the bride; groom’s parents should be Rufus × Margaret if C318 holds. Catalog: FHL **178898** (Smith 1843–1929); clerk mail: 20 Main St, PO Box 500, Booneville KY 41314 |
 | Estill CCLIX (fee) or Breathitt/Jackson/Wolfe courthouse books | Same license if issued next door (**B063**) |
 | Clyde Jackson WWI card — M1509 **KY74** (Owsley) then **KY45**; or Hollingsworth 2002 print | Nearest relative; 1917–18 address (not on Lee GT transcript; Owsley military page has no WWI list; Hollingsworth still print) |
 | 1900 Sturgeon **original** T623 schedule for hh 67 | Occupation/nativity image (now transcription only) |
 | Yell 1920 **ED 191** remainder | Last unread Carter Cove sector for Mrs. Stone |
+| 1910 Owsley Island Creek / Cow Creek / Buffalo OCR | Last published 1910 Owsley districts not re-grepped for Posa/Nora/Cora ~39 |
+| 1920 Owsley published transcripts | Same OCR + FAN houses for Jan 1920 |
 
 ---
 
 ## Files this reconstruction rests on
 
-- Case: `03-timeline.md`, `04-evidence.md` (C305–C352, S283–S290, S299–S326), `06-dossier.md`, `07-conflicts.md` #18, `02-log.md` L361–L418, `SOURCE-INDEX.md`
-- Pass 65 extracts: `sources/marriages/jackson-ik-np-clyde-pearl-nil-2026-10-31.txt`, `estill-published-1911-17-nil-2026-10-31.txt`, `breathitt-wolfe-no-1911-17-year-file-2026-10-31.txt`, `sources/locality/owsley-eclix-catalog-2026-10-31.txt`, `sources/press/b049-1926-new-terms-solr-nil-2026-10-31.txt`, `sources/births/lee-births-n-newman-no-mother-dora-2026-10-31.txt`
+- Case: `03-timeline.md`, `04-evidence.md` (C305–C369, S283–S290, S299–S338), `06-dossier.md`, `07-conflicts.md` #18, `02-log.md` L361–L429, `SOURCE-INDEX.md`
+- Pass 66 extracts: `sources/marriages/owsley-vs-1903-10-dora-bride-nil-2026-10-31.txt`, `lee-book10-vsm2-ella-smith-nil-2026-10-31.txt`, `sources/births/lee-owsley-1902-09-mother-dora-nil-2026-10-31.txt`, `lee-owsley-desb-mother-dora-1911-20-2026-10-31.txt`, `sources/census/1910-1920-ocr-unread-precincts-2026-10-31.txt`, `sources/catalog/ldsgenealogy-owsley-marriages-extract-2026-10-31.txt`, `sources/directories/year-hole-directories-voters-2026-10-31.txt`
 - Narrative: `book/Dora-Ella-Newnam-Stone-A-Life.md` § Places: 1900 to death
 
 This reconstruction is **not complete**. Dora’s 1900–death life is **not** filled in.

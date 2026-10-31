@@ -5,7 +5,7 @@ Full file list (331 files): [`sources/SOURCE-INVENTORY.tsv`](sources/SOURCE-INVE
 
 **Access labels:** `image seen` · `index only` · `transcription only` · `catalog only` · `OCR text` · `not yet examined`.
 
-Captured this session: **31 Oct 2026** (S283–S290, S299–S326). Earlier plates remain in `sources/census/`, `sources/soundex/`, and `book/plates/` (see `12-image-gallery.md` and `04-evidence.md`). Pass 60–61 sources S267–S282 remain.
+Captured this session: **31 Oct 2026** (S283–S290, S299–S338). Earlier plates remain in `sources/census/`, `sources/soundex/`, and `book/plates/` (see `12-image-gallery.md` and `04-evidence.md`). Pass 60–61 sources S267–S282 remain.
 
 | ID | Filename | Date captured | Repository | URL | Citation (what / where created / where accessed) | What it proves | Access |
 |---|---|---|---|---|---|---|---|
@@ -62,6 +62,18 @@ Captured this session: **31 Oct 2026** (S283–S290, S299–S326). Earlier plate
 | S324 | `sources/births/lee-births-n-2026-10-31.html` + `lee-births-n-newman-no-mother-dora-2026-10-31.txt` | 2026-10-31 | USGenNet Lee births N | birthsn.html | County birth index | **Nil** mother Dora (**C351**) | index / transcription |
 | S325 | `sources/marriages/usgw-estill-ij-snippet-timeout-2026-10-31.txt` | 2026-10-31 | USGenWeb Archives Estill | files.usgwarchives.net …/marr-ij.txt | Submitted I/J + N/O | Full files timeout; snippets no Clyde/Pearl (**C343 C344**) | snippet / timeout |
 | S326 | `sources/military/hollingsworth-2002-worldcat-catalog-2026-10-31.txt` | 2026-10-31 | WorldCat | OCLC 54019565 | Hollingsworth 2002 print | Not digitized; not examined (**C348**) | catalog only |
+| S327 | `sources/marriages/owsley-vs-1903-10-dora-bride-nil-2026-10-31.txt` + 7 HTML | 2026-10-31 | USGenNet Owsley VS marriages | 1903-4.html … 1910b.html | VS brides 1903–10 | **Nil** Dora Newnam bride (**C353**); Dova Cole / Manerva rejected | transcription only (negative) |
+| S328 | `sources/births/lee-vsb2-1903-04-2026-10-31.html` + extract | 2026-10-31 | USGenNet Lee VS births | vsb2.html | Births 1902–1904 | **Nil** mother Dora Newnam (**C356**) | transcription only (negative) |
+| S329 | `sources/births/owsley-vs-births-1904a-2026-10-31.html` + 1907/08/09b + extract | 2026-10-31 | USGenNet Owsley VS births | 1904a.html etc. | Births 1904–09 | **Nil** mother Dora Newnam (**C357**) | transcription only (negative) |
+| S330 | `sources/births/lee-births-d-2026-10-31.html` + e + s + extract | 2026-10-31 | USGenNet Lee births D/E/S | birthsd/e/s.html | 1911–20 index | **Nil** mother Dora; Frances/Ella 1914 **not merged** (**C358**) | index / transcription |
+| S331 | `sources/births/owsley-births-d-2026-10-31.html` + e + s | 2026-10-31 | USGenNet Owsley births D/E/S | d.html e.html s.html | 1911–20 index | **Nil** mother Dora Newman (**C359**) | index / transcription |
+| S332 | `sources/census/1910-lee-proctor-2026-10-31.html` + fincastle + newva + 404 stubs + extract | 2026-10-31 | USGenNet 1910 Lee | census/1910/ | OCR re-grep | **Nil** P001; Heidelberg/Ivy/St Helens **404** (**C360 C361**) | transcription / 404 |
+| S333 | `sources/census/1910-owsley-boone-2026-10-31.html` + sturg + wdog | 2026-10-31 | USGenNet 1910 Owsley | boone/sturg/wdog | OCR | **Nil** P001 ~39 (**C362**) | transcription only (negative) |
+| S334 | `sources/census/1920-lee-ivy-2026-10-31.html` + sth/sth2/fin/nv1/nv2/willow | 2026-10-31 | USGenNet 1920 Lee | ivy/sth/fin/nv/willow | Unread precincts | **Nil** P001 ~48; Heath/Bradley rejected (**C363**) | transcription only (negative) |
+| S335 | `sources/marriages/lee-book10-2026-10-31.html` + `lee-vsm2-1907-10-2026-10-31.html` + extract | 2026-10-31 | USGenNet Lee Book 10 + VS 1907–10 | marrbook10.html vsm2.html | Ella × Smith test | **Nil** Dora/Ella Newnam remarriage (**C364**) | transcription only (negative) |
+| S336 | `sources/births/lee-births-b-2026-10-31.html` | 2026-10-31 | USGenNet Lee births B | birthsb.html | 1911–20 index | **Nil** mother Dora Newman (**C365**) | index / transcription |
+| S337 | `sources/catalog/ldsgenealogy-owsley-marriages-2026-10-31.html` + extract | 2026-10-31 | LDSGenealogy | Owsley-County-Marriage-Records.htm | FHL catalog | **178898** / **179175**; no 1911–17 VS (**C366**) | catalog only |
+| S338 | `sources/directories/year-hole-directories-voters-2026-10-31.txt` + Yell HTML + IA JSON + DNS note | 2026-10-31 | ARGenWeb Yell / IA Solr / DNS | argenweb.net/yell/ | Directories / voters / B065 | No directory; voters 1868 only; Solr 0; DNS fail (**C367 C368**) | catalog / negative |
 
 ## Word biography provenance
 
@@ -77,7 +89,7 @@ See [`sources/authored/PROVENANCE.md`](sources/authored/PROVENANCE.md). Drive se
 | *Yell County Journal* (Ola, 1925–1934) | AR State Archives / Danville or Plainview library | Not digitised free |
 | NARA M1509 rolls **KY45** (Lee), **KY24** (Estill), **KY74** (Owsley), **AR69** (Yell) | FS sign-in or NARA: **Clyde Jackson** b. **May 1892** on **KY74**; also John H. / McCoy | Cards unread (**B047** / **B058**) |
 | KDLA / KHS Lee probate 1873–2004 | Film browse Samuel P. Newnam admin. | **B045** |
-| Owsley Co. marriage books **1911–1917** (not on USGenNet; 1900–1920 heading never linked; eCCLIX resident/fee only) | FS catalog / Owsley Clerk, Booneville (or eCCLIX if resident): **Clyde Jackson** × **Pearl Newnam/Newman**; parents **Rufus × Margaret** if C318 holds | Published gap (**C321 C332 C346** / **B057**) |
+| Owsley Co. marriage books **1911–1917** (not on USGenNet; 1900–1920 heading never linked; eCCLIX resident/fee only) | FHL **178898** (Smith 1843–1929) / Owsley Clerk, 20 Main St, PO Box 500, Booneville KY 41314, austin.bowling@ky.gov: **Clyde Jackson** × **Pearl Newnam/Newman**; parents **Rufus × Margaret** if C318 holds | Published gap (**C321 C332 C346 C366** / **B057**) |
 | Hollingsworth 2002 Owsley WWI draft cards (WorldCat **54019565**) | On-site / ILL: **Clyde Jackson** b. **May 1892** | Print only; no WWI list on USGenNet (**C336 C348** / **B062**) |
 | Estill CCLIX marriages to 1797 | Clerk account/fee or Campton/Irvine office: Clyde Jackson × Pearl 1911–17 | **C345** / **B063** |
 | R.L. Smith, *Owsley Co. Marriages 1843–1929* (print, cited on Combs-families) | ILL / KHS: Clyde × Pearl | **B064** |
@@ -91,10 +103,12 @@ See [`sources/authored/PROVENANCE.md`](sources/authored/PROVENANCE.md). Drive se
 
 **Thomas / T. A. Stone:** Thomas, Tom, T. A., T A × Stone, Store, Stowe (rejects already logged).
 
-Exact strings in `02-log.md` **L343–L352** (pass 60–61), **L361–L372** (pass 62), **L373–L379** (pass 63), **L396–L405** (pass 64), and **L406–L418** (pass 65).
+Exact strings in `02-log.md` **L343–L352** (pass 60–61), **L361–L372** (pass 62), **L373–L379** (pass 63), **L396–L405** (pass 64), **L406–L418** (pass 65), and **L419–L429** (pass 66).
 
 **Pearl / Clyde (pass 63):** Pearl × Newnam/Newman/Jackson; Clyde × Jackson/jacksen. Soundex **N550** / **J250**.
 
 **Mary A. Newnam 1918 (pass 64):** Mary / mayr / mam / marv × Newnam / newman / newnarn / newan / newnom / Smallwood. Soundex **N550** / **S543**.
 
 **Pearl / Clyde (pass 65, B061):** Pearl × Newnam/newman/newnarn/newan/newnom; Clyde × Jackson/jacksen. Soundex **N550** / **J250**. B049 new terms: Carter Cove / Carters Chapel / Coy Newnam / Yell County Record + 1926.
+
+**Dora placement (pass 66, B066):** Dora / posa / dosa / rosa / dona / dara / Nora / Cora / Ella × Newnam / Newman / Stone; Mrs. Stone; Mrs. Newman. Soundex **N550** / **S350**. Bride + mother strings on Owsley/Lee VS and births D/E/S/B.

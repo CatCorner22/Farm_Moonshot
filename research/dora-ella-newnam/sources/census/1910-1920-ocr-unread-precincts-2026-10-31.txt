@@ -1,0 +1,51 @@
+1910 / 1920 Lee + Owsley transcripts — new OCR given names + unread precincts
+31 Oct 2026. Transcription only (Kendrick).
+
+OCR/given strings: Posa, Dosa, Dara, Nora, Cora, Dora, Ella, E., Mrs. Stone, Mrs. Newman.
+Age window ~35–52 as wife / head / mother / MIL / boarder / servant.
+
+1910 Lee published (re-grep; C204 had Dora/Ella/Newnam only):
+  proctor.html    200  39928 B
+  fincastle.html  200  27735 B
+  newva.html      200  33493 B
+  **Nil P001 ~39.**
+  Reject: Proctor hh 96/97 Millard THOMAS 50 + Cora wife 40 m1 8-7 nee CORNELIUS.
+
+1910 Lee unpublished (landing still unlinked; tried):
+  heidelberg.html / ivypatch.html / sthelens.html  all HTTP **404** (548 B stubs)
+
+1910 Owsley (OCR; Buck Creek already C204/C317):
+  boone1910.html  200  455302 B — no Dora/Ella/Posa/Nora/Cora ~39 wife/head/boarder
+  sturg1910.html  200  285394 B — NEWMAN Arthur 27 + Laura 34 only
+  wdog1910.html   200  183475 B — NEWMAN Henry H. 68 only
+  Residual unread for OCR: islandck1910 / cowck1910 / buff1910
+
+1920 Lee unread precincts (correct slugs from landing):
+  ivy.html    200  150752 B  Ivy Patch
+  sth.html    200   79004 B  St Helens 1
+  sth2.html   200  109137 B  St Helens 2
+  fin.html    200  133861 B  Fincastle
+  nv1.html    200  100236 B  New Virginia 1
+  nv2.html    200   86442 B  New Virginia 2
+  willow.html 200   84719 B  Willow
+  Wrong slugs sthelens/fincastle/newva.html = 404
+
+  **Nil P001 ~48** as Dora/Ella/Posa Newnam/Newman/Stone wife/head/mother/MIL/boarder.
+
+  Rejects (Hard Rule 3 — children / maiden / nativity / age):
+    Ivy 7-7  Dora dau 35 (Barrett/Caudill) — daughter, too young
+    Ivy 63-64 Ella wife 45 nee PALMER (R.H. Taylor)
+    Ivy 30-30 Ethel NEWNAM stepdau 14 (Albert TYE + Ollie GABBARD) — FAN child
+    Sth Dora wife 44 nee LOVELACE
+    Sth B.F. NEWNAM head 66 — FAN
+    Sth2 Dora wife 44 nee MALONEY
+    Sth2 158/166 J.S. BRADLEY 53 + Dora wife 41 + sons Joseph/Edgar/Arthur/Dillard/Luther
+      — age 41 vs ~48; sons contradict 1900 Newnam children
+    Sth2 167/175 J.G. SPENCER + Cora wife 43 — OCR Cora; children Erby/Neoma/Ray
+    Sth2 Malissa wife 57 nee NEWMAN; R. STONE 58 (Rolin)
+    Fin 111-113 Robert HEATH 49 + Ella wife 46 + Abama 18, Elizabeth 16, Nella 11, Sella 11, Lilian 7
+      — Ella+age close; children **contradict** Pearl/Coy/Mary/Rissa/John H.
+    Fin Dora wife 50 nativity Michigan ×3
+    NV2 Dora wife 40 OhOhOh
+    Willow Lucy 17 nee NEWNAM (Stanley Kelley); Calie 35 nee NEWNAM (Robert Spicer) — FAN, too young
+    Willow Sim NEWMAN 26 + Mae — not P001

@@ -253,6 +253,18 @@
 | S324 | Lee births **N** https://usgennet.org/usa/ky/county/lee/births/birthsn.html (HTTP 200, 108989), 31 Oct 2026. Extract `sources/births/lee-births-n-newman-no-mother-dora-2026-10-31.txt`. **Index/transcription only.** | D (index / negative vs P001 as mother) | County birth register / Kendrick |
 | S325 | USGW Estill `marr-ij.txt` / `marr-no.txt` access note, 31 Oct 2026. `sources/marriages/usgw-estill-ij-snippet-timeout-2026-10-31.txt`. Full files **unread** (timeout). WebSearch snippets only. | D (snippet / timeout) | USGenWeb Archives / WebSearch snippet |
 | S326 | Hollingsworth 2002 WorldCat **54019565** catalog note, 31 Oct 2026. `sources/military/hollingsworth-2002-worldcat-catalog-2026-10-31.txt`. Print; **not digitized** in the searches run; **not examined.** | D (catalog only) | WorldCat / DAR Three Trails West |
+| S327 | Owsley VS marriages 1903–4 / 1908a–b / 1909a–b / 1910a–b, USGenNet, captured 31 Oct 2026. Extract `sources/marriages/owsley-vs-1903-10-dora-bride-nil-2026-10-31.txt` + HTML copies. **Transcription only.** | D (negative vs P001 as bride) | Tax-assessor VS / Kendrick |
+| S328 | Lee VS births 1902–1904 `vsb2.html`, https://usgennet.org/usa/ky/county/lee/births/vsb2.html (HTTP 200, 22821), 31 Oct 2026. Extract `sources/births/lee-owsley-1902-09-mother-dora-nil-2026-10-31.txt`. **Transcription only.** | D (negative vs P001 as mother) | Tax-assessor VS / Kendrick |
+| S329 | Owsley VS births 1904a / 1907 / 1908 / 1909b, USGenNet, captured 31 Oct 2026. Same extract as S328. **Transcription only.** | D (negative vs P001 as mother) | Tax-assessor VS / Kendrick |
+| S330 | Lee births D/E/S HTML (birthsd/e/s.html) captured 31 Oct 2026. Extract `sources/births/lee-owsley-desb-mother-dora-1911-20-2026-10-31.txt`. **Index/transcription only.** | D (negative + unmerged Ella Newman 1914) | KY birth index / Kendrick |
+| S331 | Owsley births D/E/S 1911–1920 (d.html / e.html / s.html) captured 31 Oct 2026. Same extract as S330. | D (negative vs P001 as mother) | KY birth index / Kendrick |
+| S332 | 1910 Lee Proctor / Fincastle / New Virginia transcripts + Heidelberg/Ivy/St Helens 404 stubs, 31 Oct 2026. Extract `sources/census/1910-1920-ocr-unread-precincts-2026-10-31.txt`. **Transcription only.** | D (negative + catalog 404) | Enumerator 1910 / Kendrick |
+| S333 | 1910 Owsley Booneville / Sturgeon / Wild Dog transcripts captured 31 Oct 2026. Same extract as S332. **Transcription only.** | D (negative) | Enumerator 1910 / Kendrick |
+| S334 | 1920 Lee Ivy / St Helens 1–2 / Fincastle / New Virginia 1–2 / Willow transcripts captured 31 Oct 2026. Same extract as S332. **Transcription only.** | D (negative + rejected near-hits) | Enumerator 1920 / Kendrick |
+| S335 | Lee Marriage Book 10 (`marrbook10.html`, 181765) + VS marriages 1907–10 (`vsm2.html`, 69812), 31 Oct 2026. Extract `sources/marriages/lee-book10-vsm2-ella-smith-nil-2026-10-31.txt`. **Transcription only.** | D (negative) | County clerk / Kendrick |
+| S336 | Lee births B `birthsb.html` (HTTP 200, 158253), 31 Oct 2026. Same extract as S330. | D (negative vs P001 as mother) | KY birth index / Kendrick |
+| S337 | LDSGenealogy “Owsley County KY Marriage Records,” https://www.ldsgenealogy.com/KY/Owsley-County-Marriage-Records.htm (HTTP 200, 9386), 31 Oct 2026. Extract `sources/catalog/ldsgenealogy-owsley-marriages-extract-2026-10-31.txt`. **Catalog only; no FS images.** | D (catalog) | LDSGenealogy / FHL 178898 · 179175 |
+| S338 | B065 DNS note + ARGenWeb Yell landing/resources/voters + IA directory Solr JSON, 31 Oct 2026. Extract `sources/directories/year-hole-directories-voters-2026-10-31.txt` + `sources/locality/digitalheritage-dns-try-2026-10-31.txt`. | D (catalog / negative / access fail) | ARGenWeb Yell / IA Solr / DNS |
 
 
 ## Claims
@@ -573,6 +585,23 @@
 | C350 | Arkansas Digital Archives death-records-index host **did not resolve** (DNS) from this VM. In Remembrance letter files **not examined** | PROVEN as access failure | S323 L416 | B065 |
 | C351 | Lee births **N** (1911–1920 index): Newman/Newnam children exist; **no** mother Dora / Ella / Dora E. Ladonna 19 Nov 1915 mother Grace Brandenburg is FAN of C297 | PROVEN (negative for P001 as mother on that letter) | S324 L417 | year hole |
 | C352 | No Lee County **tax list** for 1901–09 is published on USGenNet or KYGenWeb Lee land pages searched this pass. 1901–09 residence still **open** | PROVEN as to those catalogs | L418 | year hole |
+| C353 | Owsley published VS marriages **1903–04, 1908, 1909, 1910**: **no** bride Dora/Ella Newnam/Newman/Stone. Other Dora/Ella brides rejected on age, maiden, nativity, or marriage-order | PROVEN (negative in those transcripts) | S327 L420 | B066 |
+| C354 | 10 Feb 1909 Owsley VS: **Grant NEWNAM** 19 (1st) × **Dova COLE** 21 (1st). Dova is OCR-adjacent to Dora; age 21 vs P001 ~38 and 1st vs would-be 2nd+ — **not merged** | PROVEN as to the row; DISPROVED as P001 | S327 L420 | FAN |
+| C355 | 2 Jan 1904 Owsley VS: **Manerva NEWMAN** 51 (3rd) × William EVANS 52 — **not** P001 (age 51 vs ~33) | DISPROVED as P001 | S327 L420 | |
+| C356 | Lee VS births **1902–1904** (`vsb2.html`): **no** child of Dora/Ella Newnam/Newman/Stone. Only Dora mother = Dora GABBARD | PROVEN (negative in that extract) | S328 L421 | year hole |
+| C357 | Owsley VS births **1904, 1907, 1908, 1909**: **no** mother Dora Newnam/Newman/Stone. Lester Newman 2 Jun 1908 = Robt Newman × Martha Thomas | PROVEN (negative vs P001 as mother) | S329 L421 | year hole |
+| C358 | Lee births **D/E/S** 1911–20: **no** mother Dora Newnam/Stone. **SMITH, Frances / mother NEWMAN, Ella / 29 May 1914** is **not merged** (one identifier; Book 10 and 1920 precincts fail to corroborate) | PROVEN negative for Dora-as-mother; Frances row POSSIBLE other woman | S330 S335 L422 L426 | B066 |
+| C359 | Owsley births **D/E/S** 1911–20: **no** mother Dora/Ella Newman/Newnam/Stone | PROVEN (negative for those letters) | S331 L422 | year hole |
+| C360 | 1910 Lee **Heidelberg / Ivy Patch / St Helens** transcripts remain **unpublished** (HTTP 404 on tried slugs). Landing still unlinked | PROVEN as to those URLs | S332 L423 | B066 |
+| C361 | 1910 Lee Proctor / Fincastle / New Virginia OCR (Posa/Dara/Nora/Cora/Dora/Ella ~35–48 wife/boarder): **nil P001**. Cora 40 nee Cornelius (Millard Thomas) **rejected** | PROBABLE (negative in those transcripts) | S332 L423 | extends C204 |
+| C362 | 1910 Owsley Booneville / Sturgeon / Wild Dog OCR: **nil P001 ~39** as Dora/Ella/Posa/Nora/Cora wife/head/boarder. Newman heads Arthur and Henry H. only | PROBABLE (negative in those three districts) | S333 L424 | Island/Cow/Buffalo residual |
+| C363 | 1920 Lee Ivy / St Helens 1–2 / Fincastle / New Virginia 1–2 / Willow: **nil P001 ~48**. Ella Heath 46, Dora Bradley 41, Dora Lovelace/Maloney 44, Dora 50 MI, Dora 40 OH, Ella Palmer 45, Cora Spencer 43 **rejected** | PROVEN negatives for those precincts | S334 L425 | B066 |
+| C364 | Lee Book **10** (1912–14) and VS marriages **1907–10**: **no** Dora/Ella Newnam remarriage; **no** Smith × Ella Newman. Dora Palmer 18 (1907) and Dora Combs 30 (1910) **rejected** | PROVEN (negative in those books) | S335 L426 | extends C084 |
+| C365 | Lee births **B** 1911–20: **no** mother Dora Newman/Newnam/Stone (Bunch/Brandenburg/Burke children have other mothers) | PROVEN (negative for that letter) | S336 L422 | H3 FAN surnames |
+| C366 | LDSGenealogy catalog: FHL **178898** *Owsley County, Kentucky marriages, 1843–1929*; FHL **179175** reconstructed 1843–1910; Ancestry 1852–1914 VS years match published (no 1911–17). Images **not examined** | PROVEN as catalog | S337 L427 | B057 B064 |
+| C367 | digitalheritage.arkansas.gov **did not resolve** (DNS) on a second one-try pass. In Remembrance unread | PROVEN as access failure | S338 L428 | B065 |
+| C368 | ARGenWeb Yell publishes **no** city directory and **no** voter list after **1868**. IA Solr Beattyville directory **0**; Ola directory 1900–26 **0** | PROVEN as to those catalogs/queries | S338 L429 | year hole |
+| C369 | 1920 FAN Newnams in newly read precincts are **not** P001: Ethel NEWNAM 14 stepdau (Tye/Gabbard, Ivy); Lucy 17 and Calie 35 nee NEWNAM (Willow); B.F. NEWNAM 66 (St Helens) | PROVEN as to those rows; DISPROVED as P001 | S334 L425 | FAN |
 | C224 | **1 Jun 1880** population schedule dw **102/102** (ED **59**, **S235**) is **Flanary** + **Brashears**, **not** a **Mays** head; **Mary MAYS** 83 d. **Jan 1880** in mortality hh **102** (**S120**) — **same dwelling number**, decedent absent from June snapshot | PROVEN (original pop. line + mortality transcript) | S235 S120 L248 | Does not identify Pollie Mays stone (**C147**) |
 
 ## Same-person merges (Hard Rule 3)
@@ -580,6 +609,11 @@
 |---|---|---|---|---|
 | 1880 Dora 8 in Elias hh + 1885 bride Dora Ella 14 + 1900 Dora E. wife Aug 1871 + 1926 Dora Stone dau. of Elias & Mary Smallwood | Name + parents/“Doll’s house” + age trajectory 8→14→28→55 | Children Coy as informant; Pearl/Mary NUMIDENT parents Sam & Dora | Birth *year* on DC only | **Same woman. PROVEN identity chain.** |
 | 1920 Beattyville Dora 28 nee HALL (Stidham) + P001 | Given name Dora | Age 28 vs ~48; maiden Hall | **Rejected (C311)** |
+| 1920 Fincastle Ella wife 46 of Robert Heath + P001 | Ella + age ~46–48 | Children Abama/Elizabeth/Nella/Sella/Lilian contradict Pearl/Coy household | **Rejected (C363)** |
+| 1920 St Helens Dora wife 41 of J.S. Bradley + P001 | Given Dora | Age 41 vs 48; sons Joseph–Luther contradict 1900 children | **Rejected (C363)** |
+| 1910 Proctor Cora wife 40 nee Cornelius + P001 | Age ~40; OCR Cora | Maiden Cornelius; m1 8-7 children | **Rejected (C361)** |
+| 1909 Dova Cole 21 × Grant Newnam + P001 | OCR Dova≈Dora | Age 21 vs 38; 1st marriage | **Rejected (C354)** |
+| 1914 Frances Smith / mother Ella Newman + P001 | Ella + Newman | No 2nd identifier; Book 10 nil; no 1920 hh | **Not merged (C358)** |
 | 1920 Sturgeon Dora 37 nee JUDD (Hall Mays) + P001 | Given name Dora | Age 37; maiden Judd; living children in that house | **Rejected (C126 cluster / this pass)** |
 | 1920 Sturgeon Pearl 24 nee NEWMAN in Clyde Jackson hh + P001 | Daughter’s married household | P001 would be mother ~48; she is not listed | **Not the same line — child located, mother absent (C305)** |
 | 1900/1910 Rufus Jackson’s son Clyde (May 1892 / age 16, Buck Creek) + 1920 Pearl’s husband Clyde 26 | Name Clyde Jackson + age 8→16→26 + KY/KY/KY + 1910 district shared with Pearl | 1900 May 1892 vs 1920 age 26 (would be 27) — one-year census slack, not averaged | **Same man PROBABLE (C318).** License / draft still required for PROVEN |

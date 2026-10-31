@@ -1,0 +1,24 @@
+Year-hole directories / voters / B065 — 31 Oct 2026
+
+B065 digitalheritage.arkansas.gov
+  getent hosts → fail
+  curl -I https://digitalheritage.arkansas.gov/ → (6) Could not resolve host
+  One try this pass. In Remembrance S–T / M–O **not examined**. Extends C350.
+
+ARGenWeb Yell https://www.argenweb.net/yell/  HTTP 200, 21801 B
+  Nav: bios, cemeteries, resources, marriages, military, obits, voter registration.
+  **No** city-directory page.
+
+resources.htm  HTTP 200, 5001 B
+  Addresses only: Yell County Public Library (Danville), AR Genealogical Society,
+  Arkansas History Commission, ADH Vital Records. **No** digitized directory.
+
+Voter Registrtion/voterregistration.html  HTTP 200, 3784 B
+  Published year file: **1868 only**. No 1901–09 / 1911–16 / 1921–25 list.
+
+IA Solr NEW strings (not C335/C349):
+  title:(Beattyville) AND (directory OR "city directory")  numFound **0**
+  title:(Ola) AND Arkansas AND (directory OR "city directory") AND year:[1900 TO 1926]
+      numFound **0**
+  JSON: ia-beattyville-directory-solr-2026-10-31.json
+        ia-ola-directory-solr-2026-10-31.json
