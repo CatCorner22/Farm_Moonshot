@@ -1854,4 +1854,11 @@
 | H.H.’s William 20 (Booneville p.54) + William × Rhoda (dead by 14 Jul 1860) | Given William + Newman + Owsley 1860 | Living son vs already-dead husband; different houses | **Rejected (C1318 / C1321)** |
 | Wm Newman 19 in Elihu Tincher’s house + William × Rhoda | Given Wm + Newman + same page as widow Rhoda | Living farm labourer vs already-dead husband | **Rejected (C1326)** |
 | Wm Newman 19 (Tincher house) + H.H.’s William 20 (p.54) | Given William + Newman + Owsley July 1860 | Different houses; ages 19 vs 20; one identifier | **Not merged (C1326)** |
+| 1850 Estill David J 24 + Nancy J + Mary F 2 + Robert 1 + William × Rhoda | Newman + Estill 1850 | Wife Nancy J ≠ Rhoda; children Mary F/Robert ≠ Decatur/Leaner; age 24 | **Rejected (C1339)** |
+| 1850 Estill Samuel W ~50 + William 4 + William × Rhoda | Given William + Newman + Estill 1850 | Age 4 vs adult husband; father Samuel W; mother Sally | **Rejected (C1340 / C1371)** |
+| 1850 Madison T. T. Newman 34 M.D. Miss. + William × Rhoda | Newman + Madison 1850 | Occupation M.D.; birth Mississippi; wife Mary C; children Mary/Lafayette/Andrew/Elizabeth | **Rejected (C1343)** |
+| 1850 Clay William 42 M Tn. Hibbard boarder + William × Rhoda | Given William + Newman + 1850 KY | Tennessee birth; no wife/children in house; Clay ≠ Owsley/Estill cluster | **Rejected (C1347)** |
+| 1850 Perry Rhoda Allen 30 (Jonathan Allen 214) + Rhoda Tincher | Given Rhoda + Perry 1850 | Surname Allen; m. 25 Mar 1847 Perry | **Rejected (C1352)** |
+| 1850 Whitley NEWBY 399A + Newman | N-surname + Whitley 1850 | NEWBY ≠ Newman | **Rejected (C1353)** |
+| 1850 Garrard NEWTON / Rockcastle NEWCOM + Newman | N-surname + 1850 KY | NEWTON / NEWCOM ≠ Newman | **Rejected (C1349 / C1350)** |
 

@@ -1,0 +1,186 @@
+Pass 115 extract — 31 Oct 2026. Deceased-only. Do not print 1966, 1976,
+Floyd-as-Boyd, Hendrix-as-Boyd, Nennian-as-Boyd, 1962 as McCoy death, or
+1942 Combs charge as fact. Living 1932 descendants withheld.
+Estill 1930 33-12 / 33-13 names not walked.
+B088 Antioch 242 — one line.
+Phones already recorded: Pope 479-968-4368; Hutchins 859-985-3364;
+Lee clerk Tyler Phillips 606-464-8400. Do not re-ask.
+R001 / R007 / R008 — do not re-ask.
+
+=== B058 — Aug–Sep 1926 Dardanelle / Yell press ===
+
+LOC item JSON sn89051008 (saved pass115 + pass115b): digitized = false.
+Holdings unchanged: AR Hist Comn film includes 1911:1:5–1955:12:29
+(Aug 1926 in range); Pope Cnty Libr service copy; UArk Fayetteville
+<1910:7:7–1955:3:31>; Dardanelle ARVRL s=<1923:6:21–1928:4:26>.
+https://www.loc.gov/item/sn89051008/
+
+IA Solr collection:americana title Dardanelle Post / Post-Dispatch
+year 1926 — numFound 0 (pass115, pass115b, pass115c).
+
+ADNP host www.arkansasdigitalnewspapers.com DNS fail this fetch.
+ar-digital.contentdm.oclc.org/digital/collection/adnp is the NDNP
+partner landing — topic guides, not a Post-Dispatch 1926 page image.
+
+Genealogy Trails Yell news.html 404 this fetch. Prior GT news_list
+is titles only. No newly digitized Aug 1926 page.
+
+Pope Roll 5 catalog unchanged: 21 Jun 1923–26 Apr 1928 at
+116 E Third, Russellville AR. Phone not re-asked.
+
+Film unread. C1338 C1370 C1373.
+
+=== B071 residual — 1850 William × Rhoda couple ===
+
+Expected 1850 house if living: William + Rhoda (~27) + Decatur ~4
++ Leaner ~2. William is already dead by 14 Jul 1860 (C1320).
+Parents still PROBABLE (C1351). William himself unread as a living
+1850 head.
+
+IA reel map (NARA M432 descriptions on 0196unix metadata):
+  0193 = Bracken / Breathitt / Breckinridge / Bullitt
+  0196 = Casey / Christian / Clark (617 images)
+  0198 = Daviess / Edmonson / Estill (462 images)
+  0211 = Logan / McCracken / Madison (656 images)
+  0216 = Oldham / Owen / Owsley / Pendleton / Perry (pass 113)
+  0209 = Knox / Larue / Laurel / Lawrence / Letcher (unread)
+  0214 = Montgomery / Morgan / Muhlenberg (unread)
+Lee County not formed until 1870 — no 1850 Lee schedule (C1366).
+Jackson 1858 / Powell 1852 / Wolfe 1860 — no 1850 county (C1365).
+C1369.
+
+--- Estill 1850 (image seen) ---
+
+IA populationschedu0198unix. Estill starts ~n0328.
+https://archive.org/details/populationschedu0198unix
+
+n0404 = stamped 85B, 20 Sep 1850. Image seen.
+  Visual dwelling 520/520 David J Newman 24 M Farmer KY
+  Nancy J 25 F
+  Mary F 2 F
+  Robert 1 M
+Woods compiled hh 540 (dwelling slack — do not overclaim 540).
+REJECT vs William × Rhoda (age, wife Nancy J, children Mary F /
+Robert — not Decatur / Leaner). C1339 C1367.
+S-K Publications: NEWMAN 85B, 91B only.
+Woods 1850.txt: those 11 Newman lines only. No Tincher in Woods.
+C1341.
+
+n0416 = stamped 91B, 27 Sep 1850. Image seen.
+  629/629 Samuel W Newman ~50 M Farmer (Woods 50; visual age 50
+  or 57 — do not overclaim)
+  Sally 36 F
+  Josephine 7 F
+  Martha A 5 F
+  William 4 M
+  John 2 M
+  Jonathan 17 M
+William here is age 4 — Samuel’s son, not Rhoda’s husband.
+REJECT. C1340 C1371.
+
+Estill 1850 compiled + originals: county-level negative for the
+couple. C1341 C1368.
+
+--- Madison 1850 (image seen) ---
+
+IA populationschedu0211unix.
+https://archive.org/details/populationschedu0211unix
+S-K: NEWMAN 250B only; NEWTON 227A.
+
+n0501-w2400 = stamped 250, Richmond Dist 2, 2 Aug 1850,
+Jeremiah G. Embry. 250A name column: Doyle / Green / Kelly /
+Broadfoot / Letts / Broyles / Moderig / Boyce — no Newman.
+C1342.
+
+n0502-w2400 = 250B. Household 67/67 image-seen + crop:
+  T. T. [or J. J.] Newman 34 M M.D. Mississippi
+  Mary C 34 F Maryland
+  Mary T/S 9 F Louisiana
+  Lafayette 7 M
+  Andrew 4 M
+  Elizabeth 1 F
+  (next: 68/68 George W. Boyd 46 hunter Virginia — not merged)
+REJECT vs William × Rhoda (physician, Mississippi-born, wife Mary,
+children Mary/Lafayette/Andrew/Elizabeth). C1343 C1344.
+
+--- Compiled county negatives (index / transcription only) ---
+
+Owsley 1850 already image-seen pass 113: Newman only 299B–300A
+Harrison / Johns. No William × Rhoda. C1348.
+
+Clark 1850 S-K: NEWKIRK 58B only in the N-block; no Newman / Newnam.
+TINCHER 91A catalogued — original unread (FAN residual). C1345 C1363.
+
+Breathitt 1850 Judy S. Gabbard every-name (USGenWeb Archives):
+no Newman / Newnam. N-block has NEWTON, NIECE, NIX, NOBLE, NOE.
+TINCHER: Elias, James, Joseph, Martha, Matilda, Thomas, William
+(S-K page 20B) — natal FAN possible; original unread. C1346 C1364.
+
+Clay 1850 Cursaware / USGenWeb 50index.pdf: only Newman is
+William 1808 age 42 M Tennessee, boarder in John Hibbard hh 54.
+No Rhoda, no Decatur, no Leaner. REJECT. C1347 C1372.
+
+Garrard 1850 S-K: NEWTON 206A, 229B. No Newman. C1349.
+Rockcastle 1850 S-K: NEWCOM 210A / NEWCUM 158B–189A. No Newman. C1350.
+
+Perry 1850 S-K N-block: NAPIER + NOLAND only. No Newman. No Tincher
+in T (TERREY / THOMAS / TOLER). John F. Wilson alpha index + KYGenWeb
+Floyd annotated Perry 1850: no Newman / Newnam / Tincher household.
+Rhoda Allen 30 in Jonathan Allen 214 is another woman (m. 25 Mar 1847
+Perry) — not merged. C1352.
+
+Whitley 1850 S-K N-block: NEAL / NEEL / NELSON / NEWBY 399A /
+NICHOLS / NICHOLSON / NIGHT / NIX / NOE / NORMAN / NUNN.
+NEWBY ≠ Newman. No Newman. C1353.
+
+Laurel 1850 S-K slug 404. USGW laurel/census has no 1850indx.txt
+(1850-not_Laurel/ + McHargue extracts only). Reel 209 unread. C1354.
+
+Montgomery 1850 S-K slug 404. Reel 214 unread. C1355.
+
+1910 B.F. residual: Proctor published — Elisa + Kate + Sarah only
+(pass 114 C1325). St. Helens ED 94/95 still unpublished.
+
+=== B055 / B080 — Hutchins / 41271 ===
+
+No free June 1958 Citizen page. CA digital still ends 1922.
+Newspapers.com 41271 unread. FAQ 9938 cards 228–229 unchanged.
+Phone 859-985-3364 not re-asked. C1356.
+
+=== B069 / B059 — M1509 / WWI ===
+
+IA Solr M1509 / WWI Selective Service + Kentucky — numFound 0
+(pass115 + pass115b + pass115c).
+FS catalog 1146342 / 127913 SPA / Incapsula (R011-56).
+GT Lee wwi_draft_cards.html re-saved; published tables still
+Luther Brandenburg + Luther Underwood only (pass 113/114 live).
+Cards unread. C1357 C1374.
+
+=== B045 / B065 / B088 / B082 / B081 / B084 / B085 ===
+
+FS 1146342 / 127913 SPA. Tax 156057 / 97277 unread.
+USGenNet Lee wills landing 146 B fail this fetch. Prior live read
+still Jane Steele NEWMAN + Elizabeth NEWNAM + Mary F. Tincher —
+no Samuel P. Clerk not re-asked. C1358.
+
+IA 14thcensusofpopu602unit imagecount still 515. Antioch 242 one
+line. C1359.
+
+No new Woodford burial / cert 17762. Do not print 1966. C1360.
+Grant 21 vs David F. still not merged. David G 1984 still POSSIBLE
+Jr only. Living 1950-line withheld. C1362.
+No new deceased McCoy / Rissie row. Do not print 1962. C1361.
+
+=== Residual for next session ===
+
+B058 film: Pope Roll 5 / UArk F419.D37 D3 / AR Hist Comn.
+B071: William’s own 1850 schedule still unread. Next: 1840;
+Clark TINCHER 91A original; Breathitt TINCHER 20B original;
+Montgomery reel 214; Laurel/Knox reel 209; hidden under Tincher
+surname; marriage William × Rhoda.
+B055/B080 Hutchins cards then June 1958 Citizen / 41271.
+B069 M1509 KY45 cards.
+B045/B065 FS sign-in.
+B082 cert 17762. Do not print 1966.
+Do not walk Estill 33-12 / 33-13.
+Do not re-ask phones or Tyler Phillips.

@@ -935,3 +935,21 @@ Exact strings logged **L1125+**.
 
 Exact strings logged **L1145+**.
 
+### Pass 115 variant storm (31 Oct 2026)
+
+**Dora Stone 1926 (B058)** — Dora/posa/dosa/rosa/dona/dara × Stone/Newman/Newnam. Soundex **S350** / **N550**. Cert **1524** RD **676**. Place Pope **Roll 5** / UArk **F419.D37 D3** / LCCN **sn89051008**. IA Solr title Dardanelle Post / Post-Dispatch year **1926**. ADNP / Genealogy Trails / Chronicling America / WorldCat holdings. Phone **479-968-4368** already recorded — do not re-ask.
+
+**William × Rhoda / 1850 couple (B071)** — William/Wm/Will × Newnam/Newman/Newnarn/Newan/Newnom. Rhoda/Roda × Tincher/Tinsher/Fincher. Decatur / Francis Decatur. Leaner / Leannah. Benjamin F./B.F. Soundex **N550** / **T526**. Place 1850 Estill **85B / 91B**; Madison **250A / 250B**; Clark **NEWKIRK 58B** / **TINCHER 91A**; Breathitt every-name; Clay Hibbard **54**; Garrard **NEWTON**; Rockcastle **NEWCOM**; Perry **NAPIER/NOLAND**; Whitley **NEWBY**. IA reels **0198unix** / **0211unix** / **0196unix** / **0193unix**. OCR given William / Rhoda / Newman / Tincher.
+
+**Frank / David G (B055/B080)** — Frank/David F./David G. × Newnam/Newman. Soundex **N550**. Cert **13719** RD **028**. Hutchins rooms **228–229**. Newspapers.com **41271**. Phone **859-985-3364** already recorded.
+
+**WWI (B069/B059)** — Luther/John H./McCoy × Newnam/Newman/newnarn. M1509 **KY45 / KY24 / KY74**. Soundex **N550** / **M200**.
+
+**Samuel probate (B045/B065)** — Samuel/Sam P. × Newnam/Newman. FS **127913 / 156057 / 97277**. Jane Steele / Elizabeth / Mary F. Tincher already the last live wills read.
+
+**John L (B082)** — John L × Newman cert **17762** RD **036**. Do not print 1966 as fact.
+
+**McCoy (B085)** — McCoy/Coy × Newman/Newnam after Apr 1930. Soundex **N550** / **M200**. Deceased-only. Do not print 1962.
+
+Exact strings logged **L1163+**.
+

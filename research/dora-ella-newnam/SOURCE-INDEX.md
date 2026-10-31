@@ -742,6 +742,30 @@ Captured this session: **30 Oct 2026**. Earlier plates remain in `sources/census
 | S1004 | `sources/census/pass114/lee-1900-proctor-benj-f-extract-2026-10-31.txt` | 2026-10-31 | USGenNet 1900 Proctor | https://usgennet.org/usa/ky/county/lee/census/1900/1900proctor.html | Benj. F. Oct 1853 + Mary J + Asburt | **C1324** | transcription only |
 | S1005 | `sources/census/pass114/lee-1910-proctor-pass114.html` | 2026-10-31 | USGenNet 1910 Proctor ED 100 | https://usgennet.org/usa/ky/county/lee/census/1910/ | Elisa/Kate/Sarah; no B.F. head | **C1325** | transcription only |
 | S1006 | `sources/census/pass114-extract-2026-10-31.txt` | 2026-10-31 | This session | — | Pass 114 master extract | **C1317–C1337** | extract |
+| S1007 | `sources/press/loc-item-sn89051008-pass115.json` | 2026-10-31 | LOC Chronicling America item | https://www.loc.gov/item/sn89051008/ | `digitized: false`; holdings include Aug 1926 film | **C1338** | catalog only |
+| S1008 | `sources/catalog/ia-solr-postdispatch-1926-pass115.json` · `…-pass115b.json` · `…-pass115c.json` | 2026-10-31 | Internet Archive Solr | https://archive.org/ | Post-Dispatch 1926 **numFound 0** | **C1338** | index only |
+| S1009 | `sources/census/pass115/estill-1850-85b-david-j-newman.jpg` | 2026-10-31 | IA `populationschedu0198unix` n0404 | https://archive.org/details/populationschedu0198unix | Estill 85B David J Newman 24 + Nancy J + Mary F + Robert | **C1339 C1367** | image seen |
+| S1010 | `sources/census/pass115/estill-1850-91b-samuel-w-newman.jpg` | 2026-10-31 | IA `0198unix` n0416 | https://archive.org/details/populationschedu0198unix | Estill 91B Samuel W + William 4 | **C1340 C1371** | image seen |
+| S1011 | `sources/census/pass115/madison-1850-250a-richmond.jpg` | 2026-10-31 | IA `populationschedu0211unix` n0501 | https://archive.org/details/populationschedu0211unix | Madison 250A Richmond Dist 2; no Newman | **C1342** | image seen |
+| S1012 | `sources/census/pass115/madison-1850-250b-tt-newman.jpg` | 2026-10-31 | IA `0211unix` n0502 | https://archive.org/details/populationschedu0211unix | Madison 250B T. T. Newman 34 M.D. | **C1343** | image seen |
+| S1013 | `sources/census/pass115/madison-1850-250b-hh67-newman-crop.jpg` | 2026-10-31 | IA `0211unix` n0502 crop | https://archive.org/details/populationschedu0211unix | hh 67/67 name/age crop | **C1343 C1344** | image seen |
+| S1014 | `sources/census/pass115/estill-1850-newman-extract.txt` · `estill-1850-woods.txt` | 2026-10-31 | USGW Archives Woods 1850.txt | http://files.usgwarchives.net/ky/estill/census/1850/1850.txt | 11 Newman lines only; no Tincher | **C1341** | transcription only |
+| S1015 | `sources/census/pass115/sk-estill-1850.html` | 2026-10-31 | S-K Publications | https://www.skcensus.com/1850-census-index-estill-county-kentucky/ | NEWMAN 85B, 91B only | **C1341** | index only |
+| S1016 | `sources/census/pass115/sk-madison-1850.html` | 2026-10-31 | S-K Publications | https://www.skcensus.com/1850-census-index-madison-county-kentucky/ | NEWMAN 250B only | **C1344** | index only |
+| S1017 | `sources/census/pass115/sk-clark-1850.html` | 2026-10-31 | S-K Publications | https://www.skcensus.com/1850-census-index-clark-county-kentucky/ | NEWKIRK 58B; TINCHER 91A | **C1345 C1363** | index only |
+| S1018 | `sources/census/pass115/sk-breathitt-1850.html` | 2026-10-31 | S-K Publications | https://www.skcensus.com/1850-census-index-breathitt-county-kentucky/ | NEWTON 6A; TINCHER 20B | **C1346 C1364** | index only |
+| S1019 | `sources/census/pass115/breathitt-1850all.txt` | 2026-10-31 | USGenWeb Archives Gabbard | http://www.rootsweb.com/~usgenweb/census | Every-name Breathitt 1850; no Newman | **C1346** | transcription only |
+| S1020 | `sources/census/pass115/clay-1850-william-newman-extract.txt` | 2026-10-31 | USGW Clay 50index.pdf | http://www.usgwarchives.net/ky/clay/census/50index.pdf | William 42 M Tn. Hibbard 54 | **C1347** | index only |
+| S1021 | `sources/census/pass115/sk-garrard-1850.html` | 2026-10-31 | S-K Publications | https://www.skcensus.com/1850-census-index-garrard-county-kentucky/ | NEWTON 206A, 229B | **C1349** | index only |
+| S1022 | `sources/census/pass115/sk-rockcastle-1850.html` | 2026-10-31 | S-K Publications | https://www.skcensus.com/1850-census-index-rockcastle-county-kentucky/ | NEWCOM / NEWCUM; no Newman | **C1350** | index only |
+| S1023 | `sources/census/pass115/sk-perry-1850.html` | 2026-10-31 | S-K Publications | https://www.skcensus.com/1850-census-index-perry-county-kentucky/ | NAPIER / NOLAND only | **C1352** | index only |
+| S1024 | `sources/census/pass115/sk-whitley-1850.html` | 2026-10-31 | S-K Publications | https://www.skcensus.com/1850-census-index-whitley-county-kentucky/ | NEWBY 399A ≠ Newman | **C1353** | index only |
+| S1025 | `sources/catalog/ia-meta-populationschedu0198unix-pass115.json` | 2026-10-31 | IA metadata | https://archive.org/metadata/populationschedu0198unix | Reel 198 Estill; 462 images | **C1369** | catalog only |
+| S1026 | `sources/catalog/ia-meta-populationschedu0211unix-pass115.json` | 2026-10-31 | IA metadata | https://archive.org/metadata/populationschedu0211unix | Reel 211 Madison | **C1369** | catalog only |
+| S1027 | `sources/catalog/ia-solr-m1509-ky-pass115.json` · `…-pass115b.json` · `…-pass115c.json` | 2026-10-31 | IA Solr | https://archive.org/ | M1509 KY **numFound 0** | **C1357** | index only |
+| S1028 | `sources/catalog/ia-602-meta-pass115.json` | 2026-10-31 | IA metadata | https://archive.org/details/14thcensusofpopu602unit | imagecount still **515** | **C1359** | catalog only |
+| S1029 | `sources/catalog/fs-1146342-pass115.html` | 2026-10-31 | FamilySearch catalog | https://www.familysearch.org/search/catalog/1146342 | SPA / Incapsula (R011-56) | **C1374** | catalog only |
+| S1030 | `sources/census/pass115-extract-2026-10-31.txt` · `pass115/sk-n-surnames-extract-2026-10-31.txt` | 2026-10-31 | This session | — | Pass 115 master extract | **C1338–C1374** | extract |
 
 ## Word biography provenance
 
@@ -838,3 +862,5 @@ Exact strings in `02-log.md` **L343–L352**, **L380–L397**, **L398–L411**, 
 **Pass 113 (William × Rhoda / 1850 Owsley / 1870 Rhoda):** William/Rhoda/Decatur/Benjamin F/Frank × Newnam/Newman/Tincher. Soundex **N550** / **T526**. Place 1850 Owsley **299A–300A**; 1870 Travellers Rest; 1860 reel **391**. Exact strings **L1125–L1144**.
 
 **Pass 114 (1860 p.353 / 1870 Decatur / 1900 Proctor):** William/Rhoda/Decatur/Benjamin F/Frank × Newnam/Newman/Tincher; Leaner/Leannah; Dora/posa × Stone; Luther/McCoy; cert **1524**. Soundex **N550** / **T526** / **S350**. Place 1860 stamped **353** / Booneville p. **54**; 1870 p. **20**; 1900 Proctor. Exact strings **L1145–L1162**.
+
+**Pass 115 (B058 film / 1850 Estill+Madison):** Dora/posa/dosa/rosa × Stone; William/Rhoda × Newnam/Newman/Tincher; Frank/David G; Luther/McCoy; cert **1524** RD **676**. Soundex **N550** / **T526** / **S350**. Place Estill **85B / 91B**; Madison **250A / 250B**; Clark **TINCHER 91A**; Breathitt **TINCHER 20B**; Perry / Whitley / Garrard / Rockcastle / Clay. Exact strings **L1163–L1182**.

@@ -355,6 +355,18 @@ Place as it was *at the date*; modern equivalent in brackets. Flag impossibiliti
 | 16 Mar 1928 | St. Helens | FAN **PROVEN** as extract + identity: Frank Newnam d. **16 Mar 1928**, b. **4 Oct 1853**, parents William × Rhoda Tincher = Benjamin F. of 1860/1870/1881/1900/1920 | Lee Co., KY | C1299 C1316 C1337 | S330 S1006 |
 | 7 Feb 1944 | St. Helens | FAN **PROVEN** as extract: Mary Jane Newnam, **89**, spouse **Frank Newnam**, father **Wm Steele** | Lee Co., KY | C1300 | S984 |
 | 22 Jul 1932 | Pebworth | FAN **PROVEN** as extract + not-merge: Mary F. Tincher, father **John Newnam** × **Elizabeth Goe** — **not** d/o William × Rhoda | Lee Co., KY | C1302 | S986 S987 |
+| 20 Sep 1850 | Estill | FAN **PROVEN** as image + reject: **85B** David J Newman **24** + Nancy J + Mary F **2** + Robert **1**. **Not** William × Rhoda | Estill Co., KY | C1339 C1367 | S1009 S1014 |
+| 27 Sep 1850 | Estill | FAN **PROVEN** as image + reject: **91B** Samuel W Newman ~**50** + Sally + **William 4**. William **4** is Samuel’s son | Estill Co., KY | C1340 C1371 | S1010 S1014 |
+| 1850 | Estill | FAN **PROVEN** as compiled + original: Newman **only** 85B + 91B. Woods **no Tincher**. County negative for the couple | Estill Co., KY | C1341 | S1014 S1015 |
+| 2 Aug 1850 | Richmond Dist 2 | FAN **PROVEN** as image: Madison stamped **250** A-side **nil** Newman | Madison Co., KY | C1342 | S1011 |
+| 2 Aug 1850 | Richmond Dist 2 | FAN **PROVEN** as image + reject: **67/67 T. T. Newman 34 M.D.** Mississippi + Mary C. **Not** William × Rhoda | Madison Co., KY | C1343 C1344 | S1012 S1013 |
+| 1850 | Clark | FAN **PROVEN** as compiled-index: S-K **NEWKIRK 58B** only. **No Newman**. **TINCHER 91A** original unread | Clark Co., KY | C1345 C1363 | S1017 |
+| 1850 | Breathitt | FAN **PROVEN** as every-name compiled: **nil** Newman/Newnam. **TINCHER 20B** original unread | Breathitt Co., KY | C1346 C1364 | S1018 S1019 |
+| 1850 | Clay | FAN **PROVEN** as compiled-index + reject: William Newman **42** M Tn. in Hibbard hh **54**. No Rhoda | Clay Co., KY | C1347 | S1020 |
+| 1850 | Garrard / Rockcastle | FAN **PROVEN** as compiled-index: Garrard **NEWTON** only; Rockcastle **NEWCOM / NEWCUM**. **No Newman** | Garrard / Rockcastle, KY | C1349 C1350 | S1021 S1022 |
+| 1850 | Perry | FAN **PROVEN** as compiled-index: S-K N = **NAPIER / NOLAND**. Wilson + annotated **nil** Newman | Perry Co., KY | C1352 | S1023 |
+| 1850 | Whitley | FAN **PROVEN** as compiled-index: **NEWBY 399A** ≠ Newman. **No Newman** | Whitley Co., KY | C1353 | S1024 |
+| 1850 | — | FAN **PROVEN** as catalog: Lee / Jackson / Powell **n/a** (not yet counties). Parents William × Rhoda still **PROBABLE** | KY | C1351 C1365 C1366 | S1030 |
 
 
 **Impossibility flags:** None. Mother ~29 at Dora’s 1871 birth (Mary b. 1842). Dora age 14 at marriage is legal/period-possible (KY) though young; 1880 age 8 corroborates. Two children born before Coy in the 1886–1889 window would have Dora aged 15–18 — possible. No event after 23 Aug 1926 is attributed to her.
