@@ -1,0 +1,1 @@
+{"responseHeader":{"status":0,"QTime":180,"params":{"query":"title:&quot;three forks enterprise&quot; AND year:[1900 TO 1912]","qin":"title:(&quot;three forks enterprise&quot;) AND year:[1900 TO 1912]","fields":"identifier,title,year,creator","wt":"json","rows":20,"start":0}},"response":{"numFound":0,"start":0,"docs":[]}}

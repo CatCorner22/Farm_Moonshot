@@ -1,0 +1,185 @@
+Pass 76 — B007: 1910 John Sullivan (C245) in 1900
+================================================
+Date: 31 Oct 2026
+Worker: bc-6d51c793 (B007 1910 John in 1900)
+IDs: L500–L509 / C457–C463 / S393–S397
+Did not take B047 / B016 / B015 / B014 / B049 / B055 / B056. Did not retake B092.
+Pope Roll 5 not examined. Lee probate film not examined.
+
+Target (already on file)
+------------------------
+1910 Bollinger Co. MO, Liberty Twp, ED 4 sh 7 B (S251, original PNG
+1910-bollinger-ed4-sullivan-newnam-mil.png, 3,572,660 B):
+  John Sullivan household with Newman/Newnam Sarah 60 MIL (widow) and
+  Oscar S. 21 BIL (C245). Letha Sullivan 12 servant in Jesse Conrad hh (C244).
+Expected 1900 if same cluster stayed in Liberty: John ~28, wife, young
+children, Sarah ~50 widow, Oscar ~11.
+
+Pass-76 re-read of the same 1910 sheet (invert crop S397)
+---------------------------------------------------------
+Invert crop of the committed S251 PNG, name + age + marriage columns:
+  dw/fam 158/160 (prior S251 extract said dw 159 — same sheet, re-read).
+  Head: Sullivan, John.
+  Wife: Ida M, F W, age ~34, married 18 years, children 4 / 2 living.
+  Son ~14; dau Ethel A ~8.
+  Then MIL Sarah ~60 and BIL Oscar S. ~21 (unchanged from C245).
+  Next household 159/161.
+Ages and the 4/2 child count are invert-crop readings of a faint original
+— marked [?] where the digit is not sharp. Wife given name Ida M is the
+clearest new reading. C245 updated; not a new conflict.
+
+1900 population — IA T623-839
+-----------------------------
+Item: archive.org/details/12thcensusofpopu839unit
+Access this pass: BookReaderImages.php JPEGs (scale=2) on ia800701.
+Direct jp2 zip 302; EU/CA PDF mirrors HTTP 500. jp2 N = PDF page N+1
+versus the pass-52 PDF numbers (pass 52 p.1099 = this pass jp2 1098).
+Working JPEGs in /tmp/b007/ (not committed). Name columns: invert +
+autocontrast crops.
+
+ED 4 (Liberty; enumerator J. B. / J. A. Hughey)
+  jp2 1098 = sh 5 A  header stamp ED 4 / sheet 5 / stamped 223  (S393 hdr)
+  jp2 1099 = sh 5 B
+  jp2 1100 = sh 6 A
+  jp2 1101 = sh 6 B
+  jp2 1102 = sh 7 A
+  jp2 1103 = sh 7 B  last ED 4 sheet (no sh 8)
+  jp2 1104 = ED 5 sh 1 A (already C265)
+
+  sh 5 A name column (S393 names), dwellings ~66–77, surnames seen:
+  Snell/Shell (William), Hull/Fulks, Davis/Daviss (child Dora — reject
+  vs P001; too young), Holler (Harry), Lewis/Ludwisky[?], May (Charles),
+  Ramsey (George). No Sullivan / Newman / Newnam / Letha / Oscar / Ida
+  as Sullivan head or wife on this sheet.
+
+  sh 5 B–7 B (working invert crops; sh 7 B names committed as S393):
+  surnames sampled include Crites, Virgin, Moser/Mouser (child Dora —
+  reject), Meyers, Abernathy, Coker (child Dora — reject), Draper,
+  Galloway, Moore, Baker, Cavaness, Roberts, Easley, Walker, James,
+  Fowler, Gladish, Loder, Huffstetter, Bader, Drummer, Beard. Last Baker
+  household has dau Dora E age 1 (Sep 1898) — child reject vs P001.
+  Nil Sullivan / Newman / Newnam / Letha / Oscar / Ida-as-Sullivan.
+
+  Combined with C260 (sh 1 A–4 B): ED 4 entire is nil (C457).
+
+ED 5 (Liberty; enumerator E. Holt Westenhaver)
+  Already read: sh 1 A–14 B (C265). Residual was “past 14 B.”
+  jp2 1131 = sh 14 B (already C265)
+  jp2 1132 = sh 15 A  header stamp ED 5 / sheet 15 / stamped 2400 / A39
+                  (S394 hdr)
+  jp2 1133 = sh 15 B
+  jp2 1134 = sh 16 A
+  jp2 1135 = sh 16 B  last ED 5 sheet (S394 names)
+  jp2 1136 = ED 6 sh 1 A (Lorance / Marble Hill) — stop. Not searched
+             as Liberty.
+
+  sh 15 A–16 B surnames sampled: Boland/Bollinger[?], Rose, Angel,
+  Corman, Virgin, Humphrey, Hinkle, Grindstaff, Hughley, Lefler,
+  Romine, Shell John H (not Sullivan), Knight, Worley, Baker, Corder,
+  Bechtel, Nelson, Creson, McGowan, Moore, Masters.
+  Nil Sullivan / Newman / Newnam / Letha.
+
+  Combined with C265: ED 5 entire is nil (C458).
+  Therefore 1900 Liberty Township (ED 4 + ED 5) has no C245 household
+  (C459). John + Ida + Sarah + Oscar were elsewhere in 1900.
+
+1900 MO Soundex N-550 (Newman/Newnam heads)
+-------------------------------------------
+Item: archive.org/details/soundex1900mo200
+PDF soundex1900mo200.pdf, 163,202,350 bytes, 3446 pp, no text layer.
+Cards filed by HEAD GIVEN NAME, not surname.
+Access: ia800506 PDF. Working file /tmp/b007/sndx/ (not committed).
+
+Given-name map (every ~40 pp, then tight windows):
+  ~360 Andrew; ~400 Augusta; ~440 Charles; ~520 Eddie Noonan;
+  ~600 Frank E; ~680 Hartwell; ~720 Herman; ~760 James; ~800 Jesse;
+  ~840 John; ~920 Josie; ~1000 Margaret Noonan; ~1040 Matilda;
+  ~1080 Molly; ~1102–1105 Oscar; ~1108 Otto; ~1120 Patrick;
+  ~1160 Robert; ~1183–1184 Sarah; ~1188 Simon; ~1200 Steve Noonan;
+  ~1240 Victor; ~1280–1320 William; ~1360 N-560+.
+
+Oscar heads, every card pp 1097–1107 (L503):
+  p1102 Newman, Oscar/Omar Aug 1878 age 21 + Bertha (New Madrid?) —
+        visually read from PDF; crop not committed.
+  p1104 Newman, Oscar R, June 1860 age 39, Clark Co. Union twp,
+        wife Mary Apr 1859  (S395 crop)
+  p1105 Newman, Oscar D, Mar 1874 age 26, Howard Co., + Sallie
+        (S395 crop)
+  No Oscar ~11. No Bollinger. (C460)
+
+Sarah heads, every card pp 1173–1187 (L504):
+  p1183 Newman, Sarah, St Louis poorhouse, ~53, b. IL  (S395 crop)
+  p1184 Newman, Sarah L, Feb 1842 age 58, Lewis Co. Canton / Clark,
+        child Arthur Nov 1873 age 26, child Jan 1877 age 23  (S395 crop)
+  Then Scott / Silas. No Sarah ~50 widow Bollinger. (C461)
+
+John Newman sample every 8 pp 824–896 + 876/878/882 (L506):
+  Shannon, St Louis, Buchanan, Morgan, Camden, Saline, St Louis,
+  Hickory Wheatland John H age 70 b. 1829 IN.
+  No Bollinger on cards read. Not every John card.
+
+Ida Newman head window 736–752 is I.B. / Jacob / James — not Ida
+Newman head (expected if she was already Mrs Sullivan).
+
+S-415 Sullivan continuation cards on soundex1900mo248 were NOT
+re-downloaded this slice (prior C256/C267 sample still stands).
+Residual for next B007 pass.
+
+Variants 1–4 (before first query and before nil)
+-----------------------------------------------
+search_variants.py person John Sullivan --also Sulivan
+search_variants.py person Sarah Newman --also Newnam
+search_variants.py person Oscar Newman --also Newnam
+ocr-given John / Sarah / Oscar
+ocr-surname Sullivan / Newman
+kinship.py soundex: Sullivan/Sulivan = S415; Newman/Newnam = N550
+
+Exact strings used on the sheets and cards:
+  John / Jon / Jno × Sullivan / Sulivan / Sullivant
+  Sarah / Sara / Sallie / Sally / Sadie / Fannie × Newman / Newnam /
+    newnarn / newan
+  Oscar / Oskar × Newman / Newnam
+  Ida / Ida M × Sullivan
+  Letha / Letta / Litha / Viola
+  Liberty / Bollinger
+  Soundex S415 / N550
+
+Other repositories this wrap
+----------------------------
+USGenWeb Archives Bollinger marriage books bollinge.txt / marr2bol.txt:
+  curl timeout 40s (twice) — NOT EXAMINED (not a content nil).
+MoGenWeb / us-census.org 1900 Bollinger transcripts: not used as a
+  substitute for the originals now read.
+
+SHA-256 of committed images
+---------------------------
+91dd18628fec69bf43bec3911f60556a60ced6a5fa2f7dca54238d430e556368
+  1900-bollinger-ed4-sh5a-hdr-2026-10-31.png  (373,561 B)
+1a6fc07ea369c91739828851b7df88da29d47ea59189b9c96c7ce9cad237c613
+  1900-bollinger-ed4-sh5a-names-2026-10-31.png  (2,154,569 B)
+901d8e7124183fc777bc198a6488a7b26c4ca8e91837caddf8860dc156cf5a7c
+  1900-bollinger-ed4-sh7b-names-2026-10-31.png  (2,170,156 B)
+8d497f5bba16a9a67913f2dc71521df13253e5d4f1684371dee3b4b7eb769657
+  1900-bollinger-ed5-sh15a-hdr-2026-10-31.png  (493,911 B)
+125fad80771a04d9ede67b000be6470610fa89db2e4f7673db95ebf3c33bb571
+  1900-bollinger-ed5-sh16b-names-2026-10-31.png  (2,116,447 B)
+2c7d8fc97bb583932903a8fa7ca74f1fe87a7a9a1c8ff9db362e41cda0ed6a79
+  1900-mo-n550-oscar-r-clark-p1104-2026-10-31.png  (31,125 B)
+d72b5bcf3989c01ef9e387c5c4b82ff9bcc03007804246a537aca4a6a243df09
+  1900-mo-n550-oscar-d-howard-p1105-2026-10-31.png  (31,549 B)
+757618ec7bce58d447e595eb346ad49e44e65d5e1e0791900c427c8b485af341
+  1900-mo-n550-sarah-stlouis-p1183-2026-10-31.png  (28,217 B)
+a586ffa192841b4b5e28eb1d07060a4bc81d92bccd37dca94ea0c154a6028011
+  1900-mo-n550-sarah-l-lewis-p1184-2026-10-31.png  (37,210 B)
+9b38e87174f12fc3029ac4af0fa1cd5b82923f4b7679dab3d8b7c4732c648748
+  1910-bollinger-ed4-john-sullivan-ida-crop-2026-10-31.png  (112,119 B)
+
+Conclusion
+----------
+B007 = PARTIAL.
+  Closed: 1900 Liberty Township (ED 4 entire + ED 5 entire) — no C245.
+  Added: 1910 wife Ida M (C462).
+  Still open: C245 unplaced in 1900 (C463). Next: S-415 continuation
+  cards on soundex1900mo248; 1900 Bollinger ED 1 (Crooked Creek) /
+  ED 2 (Fillmore) / ED 3 (German) / ED 6 (Lorance) originals.
+  Do not invent a new B###.

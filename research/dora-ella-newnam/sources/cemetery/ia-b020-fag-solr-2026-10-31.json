@@ -1,0 +1,52 @@
+[
+  {
+    "url": "https://archive.org/advancedsearch.php?q=title%3A%28%22dora+newman%22%29+AND+%28carter+OR+yell+OR+plainview%29&fl=identifier%2Ctitle&rows=5&output=json",
+    "code": 200,
+    "n": 447,
+    "ctype": "application/json",
+    "sha": "df60b608b4422dba44d89019e40c7f5922022325a974a86ea8c3992f3cfafef2",
+    "head": "{\"responseHeader\":{\"status\":0,\"QTime\":263,\"params\":{\"query\":\"title:&quot;dora newman&quot; AND ((text:carter OR text:carter OR text__reviews:carter) OR (text:yell OR text:yell OR text__reviews:yell) OR (text:plainview OR text:plainview OR text__reviews:plainview))\",\"qin\":\"title:(&quot;dora newman&quot;) AND (carter OR yell OR plainview)\",\"fields\":\"identifier,title\",\"wt\":\"json\",\"rows\":5,\"start\":0}}",
+    "q": "title:(\"dora newman\") AND (carter OR yell OR plainview)",
+    "name": "solr"
+  },
+  {
+    "url": "https://archive.org/advancedsearch.php?q=title%3A%28%22thomas+stone%22%29+AND+%28carter+OR+yell+OR+1845%29&fl=identifier%2Ctitle&rows=5&output=json",
+    "code": 200,
+    "n": 428,
+    "ctype": "application/json",
+    "sha": "c756d6aec53f1a8dfe63a211c1dba40dfeab72725c191ba8043458ff631c5574",
+    "head": "{\"responseHeader\":{\"status\":0,\"QTime\":63,\"params\":{\"query\":\"title:&quot;thomas stone&quot; AND ((text:carter OR text:carter OR text__reviews:carter) OR (text:yell OR text:yell OR text__reviews:yell) OR (text:1845 OR text:1845 OR text__reviews:1845))\",\"qin\":\"title:(&quot;thomas stone&quot;) AND (carter OR yell OR 1845)\",\"fields\":\"identifier,title\",\"wt\":\"json\",\"rows\":5,\"start\":0}},\"response\":{\"numFo",
+    "q": "title:(\"thomas stone\") AND (carter OR yell OR 1845)",
+    "name": "solr"
+  },
+  {
+    "url": "https://archive.org/advancedsearch.php?q=%2297907837%22&fl=identifier%2Ctitle&rows=5&output=json",
+    "code": 200,
+    "n": 254,
+    "ctype": "application/json",
+    "sha": "e1fdb49dd7350f6b4c6e34ec4eb6b5a900237976983186767a2d4e26b16933b7",
+    "head": "{\"responseHeader\":{\"status\":0,\"QTime\":31,\"params\":{\"query\":\"text:97907837 OR text:97907837 OR text__reviews:97907837\",\"qin\":\"&quot;97907837&quot;\",\"fields\":\"identifier,title\",\"wt\":\"json\",\"rows\":5,\"start\":0}},\"response\":{\"numFound\":0,\"start\":0,\"docs\":[]}}",
+    "q": "\"97907837\"",
+    "name": "solr"
+  },
+  {
+    "url": "https://archive.org/advancedsearch.php?q=%2297907931%22&fl=identifier%2Ctitle&rows=5&output=json",
+    "code": 200,
+    "n": 254,
+    "ctype": "application/json",
+    "sha": "5fdcadc3b5cb4c50b60efa283f4e4e1893eade26e68c28a52f736aa06624f8bb",
+    "head": "{\"responseHeader\":{\"status\":0,\"QTime\":23,\"params\":{\"query\":\"text:97907931 OR text:97907931 OR text__reviews:97907931\",\"qin\":\"&quot;97907931&quot;\",\"fields\":\"identifier,title\",\"wt\":\"json\",\"rows\":5,\"start\":0}},\"response\":{\"numFound\":0,\"start\":0,\"docs\":[]}}",
+    "q": "\"97907931\"",
+    "name": "solr"
+  },
+  {
+    "url": "https://archive.org/advancedsearch.php?q=title%3A%28dorra+newnam%29&fl=identifier%2Ctitle&rows=5&output=json",
+    "code": 200,
+    "n": 218,
+    "ctype": "application/json",
+    "sha": "21efce589180aa41933e8a4f7930aca1df64b5c9126ad6cedc0e44215ecedda0",
+    "head": "{\"responseHeader\":{\"status\":0,\"QTime\":13,\"params\":{\"query\":\"title:(dorra newnam)\",\"qin\":\"title:(dorra newnam)\",\"fields\":\"identifier,title\",\"wt\":\"json\",\"rows\":5,\"start\":0}},\"response\":{\"numFound\":0,\"start\":0,\"docs\":[]}}",
+    "q": "title:(dorra newnam)",
+    "name": "solr"
+  }
+]

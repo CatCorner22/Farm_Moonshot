@@ -1,0 +1,7 @@
+Captured 2026-10-31. Direct fetch of
+https://www.newspapers.com/paper/the-beattyville-enterprise_39744/39744
+returned HTTP 403 from this VM.
+
+WebSearch snippet (index/catalog only, page image not seen):
+The Beattyville Enterprise Archive — Beattyville, Kentucky — 1896–1999.
+"26,889 searchable pages from 1896-1999."

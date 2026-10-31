@@ -1,0 +1,181 @@
+Pass 83 — B007 residual: S-415 I-window / J-initial + 1900 Bollinger ED 1/2/3/6
+==============================================================================
+Date: 31 Oct 2026
+Worker: bc-6d51c793 (B007 residual Soundex EDs)
+IDs: L597–L606 / C504–C513 / S436–S445
+Did not take B014 / B015 / B016 / B039 / B047 / B049 / B055 / B056.
+Did not retake Liberty ED 4 or B092.
+Pope Roll 5 not examined. Lee probate film not examined.
+
+Target (already on file)
+------------------------
+1910 Bollinger Co. MO, Liberty Twp, ED 4 sh 7 B dw/fam 158/160 (C245 / C462):
+  John Sullivan + wife Ida M. ~34 m. 18 4/2 + son ~14 + dau Ethel A ~8
+  + Newman/Newnam Sarah 60 MIL widow + Oscar S. 21 BIL.
+Expected 1900 if same cluster: John ~28, Ida M ~24, young children,
+Sarah ~50 widow, Oscar ~11. Liberty Twp 1900 already closed nil (C459).
+
+Variants 1–4 (before queries; pasted 01-plan.md pass 83)
+-------------------------------------------------------
+1. Canonical: John Sullivan; Ida M Sullivan; Sarah Newman/Newnam MIL;
+   Oscar S. Newman/Newnam BIL; C245 household.
+2. User / family: John / Jon / Jno / J. A. / J. H.; Sullivan / Sulivan /
+   Sullivant; Ida / Ida M / Ida B; Newman / Newnam; Sarah / Sallie;
+   Liberty / Bollinger / Crooked Creek / Fillmore / German / Lorance.
+3. Machine: ocr-given John / Ida = those strings only (no extra OCR_GIVEN
+   bucket). Surname Sullivan (no OCR_SURNAME_SUBS hit). Soundex S415 /
+   N550 / I300.
+4. Repository: T623-839 BookReader jp2 (IA 12thcensusofpopu839unit);
+   Soundex cards filed by given name on soundex1900mo248 (T1055 roll 248);
+   US-Census.org ED map 839 vs 840; Soundex line-number vs original line.
+
+Population — NARA T623-839 / IA 12thcensusofpopu839unit
+-------------------------------------------------------
+Access: BookReader JPEGs already on disk in /tmp/b007r/names/n{jp2}.jpg
+(92 full sheets) + header crops. Name columns image seen (contact sheets
+from 14–36% width crops + full reads of key sheets).
+
+US-Census.org team pages (untranscribed; catalog only):
+  T623-839: ED 1 Crooked Creek; ED 2 Fillmore; ED 3 German;
+            ED 4 Liberty north of twp line 29/30; ED 5 Liberty south;
+            ED 6 (part) Lorance north of Greenville & Jackson Road
+            including Marble Hill village.
+  T623-840: ED 6 remainder (Lorance north excluding Marble Hill);
+            ED 7 Lorance south including Lutesville; ED 8 Union;
+            ED 9 Wayne; ED 10 Whitewater.
+
+ED 1 Crooked Creek (jp2 1004–1033 = sh 1 A–15 B)
+  jp2 1004 = sh 1 A  stamped 176 A. Missouri / Bollinger /
+             Crooked Creek Township / ED 1 / sheet 1.
+             Enumerator Francis L. Meyers (hdr paleography).
+  jp2 1025 = sh 11 B. Same township / ED 1 / sheet 11 B /
+             enum. 2 June 1900, Francis L. Meyers.
+  jp2 1026 = sh 12 A  stamped 187 A. Same ED / sheet 12.
+  jp2 1033 = sh 15 B (last ED 1 sheet).
+
+  sh 1 A surnames (full name column): Jenkins Robert W; Rhodes George;
+  Hinkins[?] George; Smithson William; Herrin[?]; Billy Valentine[?].
+  Nil Sullivan / Newman / Newnam / Ida-as-Sullivan.
+
+  sh 11 B lines 85–100 (full + last-8 crop):
+    85–87  prior household (Charity wife; sons; Emma dau)
+    88–94  Hale, Isaac Head + wife + William / Cleveland / Oscar /
+           Doshia / Halla
+    95–98  Huffman, C.[?] Head + wife Amanda[?] + Allie / Mary daus
+    99     Caldwell, J. A. Head, Dec 1857, 42, m 13, MO / KY / MO
+    100    Susan wife, Dec 1870, 29, m 13, 6/3, MO / Germany / MO
+  Line 97 is Huffman’s wife — not a Sullivan.
+
+  sh 12 A lines 1–3 (continuation of Caldwell):
+    1  James  son  Sept 1888  11  MO
+    2  John   son  Dec 1890    9  MO
+    3  Harvey son  1897        3  MO
+  Then a new head (Bagehly[?] / similar) — not Sullivan.
+
+  Remainder of ED 1 name columns scanned on contact sheets: no C245
+  household (John + Ida M + Sarah MIL + Oscar BIL).
+
+ED 2 Fillmore (jp2 1034–1058 = sh 1 A–13 A)
+  jp2 1034 = sh 1 A start (header crop saved).
+  jp2 1058 = sh 13 A stamped 203 A. Fillmore / ED 2 / sheet 13 /
+             enum. 26 June 1900, Anderson Mitchell. Last ED 2 sheet
+             (no 13 B on this reel).
+  jp2 1046 N-head (dw/fam 124/124): Newell, John + Polly A + Rosie +
+             Charles. NOT Newman. Child given-name “Ida Bell” on the
+             same sheet is not Ida M Sullivan.
+  Remainder scanned on contact sheets: no C245 household.
+
+ED 3 German (jp2 1060–1088 = sh 1 A–15 A)
+  jp2 1060 = sh 1 A stamped 204 A. German Township / ED 3 / sheet 1.
+             Enumerator William P. Henson[?].
+  jp2 1088 = sh 15 A stamped 218 A. German Township / ED 3 / sheet 15 /
+             enum. 23 June 1900, same enumerator. Last ED 3 sheet
+             (no 15 B).
+  Name columns scanned on contact sheets: no C245 household.
+
+ED 6 Lorance / Marble Hill on reel 839 only (jp2 1136–1141 = sh 1 A–3 B)
+  jp2 1136 = sh 1 A stamped 242 A. Lorance Township / Marble Hill
+             Village / ED 6 / sheet 1. Enum. 1 June 1900,
+             Thomas H. Stevens.
+  jp2 1141 = sh 3 B. Lorance / Marble Hill Village / ED 6 / sheet 3 B /
+             enum. 2 June 1900, same. Institution line:
+             County Jail (line 82 to [unreadable]).
+  Six name columns scanned: no C245 household.
+  Remainder of ED 6 is on T623-840 (not examined).
+
+Soundex — NARA T1055 roll 248 / IA soundex1900mo248 (4030 pp)
+------------------------------------------------------------
+Local PDF /tmp/b007r/soundex1900mo248.pdf (IA metadata title wrongly
+“The metaphysics of Sir William Hamilton”; film is genuine 1900 MO
+S-400–S-415). Cards image seen as inverted BookReader crops.
+
+I-window (every card pp 3385–3395):
+  3385  continuation Sullivan, Hulda J (children Dexter / George /
+        Elza / Ellen / Elliott / John H / …) — not Ida.
+  3386  Sullivan, Humphrey. Morgan Co. Newkirk[?] Twp. Ireland.
+        Children Katie 16, John 19, Patrick 13.
+  3387  Sullivan, Ida. Vol 87 ED 58 sh 9 ln 73. W F Nov 1864 age 35
+        Indiana. St Louis, Forest. Enum. with Darsey, Thomas J,
+        Employee. NOT wife of John. NOT Bollinger.
+  3388  Sullivan, Ida B. Vol 45 ED 93 sh 8 ln 33. W F Mar 1861 age 39
+        Illinois. Jackson, Kansas City. Enum. with Reeder, Charles,
+        wife.
+  3389  Sullivan, Ida B. Vol 15 ED 37 sh 10 ln 97. W F 1891 age 9
+        Missouri. Carter Co., Johnson Twp. Enum. with Stanley,
+        Robert P, stepdaughter.
+  3390  Sullivan, Ira W[?]. Vol 29 ED 163 sh 8 ln 53. W M Aug 1868
+        age 31 Missouri. Douglas Co., Findley Twp. Wife Ettie V;
+        son Emil E. Male head.
+  3391  Sullivan, Irene. Vol 89 ED 109 sh 10 ln 90. W F Jan 1893
+        age 7. St Louis, Marion. Home of the Guardian Angel, inmate.
+  3392  Sullivan, Irvin[?] G. Vol 67 ED 117 sh 1 ln 58. W M Nov 1875
+        age 24 Arkansas. Benton Co. Enum. with Graves, Alexander,
+        nephew.
+  3393  Slavens, Isaac (S-415 misfile). St Charles, Portage des Sioux.
+  3394  Sullivan, Isabel. Vol 95 ED 257 sh 7 ln 78. W F 1895 age 5.
+        St Louis. Enum. with Foley, James A, niece.
+  3395  Sullivan, J. (initial only). Vol 87 ED 72 sh 10 ln 42.
+        St Louis[?]. Lodger; “No head shown.”
+  Nil Ida M ~24 wife of John in Bollinger.
+
+J-initial (start of J-band; prior John window 3500–3690 already C267):
+  3396  Card reads: S-415 Sullivan, J. A. Vol 7 ED 1 sh 11 ln 97.
+        W M Dec 1858[?] age 42 Missouri. Bollinger, Crooked Creek Twp.
+        Wife Susan Dec 1870 age 30; James Sept 1888 12; John Dec 1890
+        10; Harvey 1897 3.
+        ORIGINAL (jp2 1025–1026) is Caldwell, J. A. + Susan + those
+        three sons. Soundex surname and line number are wrong.
+        Not C245 (Susan ≠ Ida M; ages 42/30 ≠ ~28/24; no Sarah MIL;
+        no Oscar BIL).
+  3397  Sullivan, J. C. Vol 76 ED 125 sh 12 ln 44. Age 55 Ohio.
+        Clinton[?] / Knoxville[?]. Wife M. E. Jan age 51 Indiana.
+        Not Bollinger.
+  3398  Sullivan, J. H. Vol 78 ED 107 sh 7 ln 12. W M Apr 1867 age 33
+        Missouri. Pettis Co., Sedalia Twp. Wife Sallie May 1870 30;
+        children May / Willie / Elsie / John. Not Bollinger.
+        Not C245 (Sallie ≠ Ida M; Pettis ≠ Bollinger).
+  Sample later J cards (3405 Salvaniski Jacob Buchanan — S-415 misfile;
+  jwin-m1 James/Jacob cluster): no second Bollinger card on cards read.
+  Residual unread J-initial cards between 3399 and the prior John
+  window ~3500 sit under C512 (not a C245 hit unless a Bollinger
+  John+Ida card appears).
+
+Workarounds (≥3)
+----------------
+1. Soundex I-window + J-initial cards vs population originals.
+2. US-Census.org 839/840 ED map (Marble Hill on 839; ED 6 remainder
+   + ED 7–10 on 840).
+3. Full name-column visual of ED 1/2/3/6 (839 portion).
+4. p.3396 card vs original sh 11 B / 12 A (index error proven).
+
+Residual (still B007 — do not invent a new B###)
+------------------------------------------------
+- T623-840: ED 6 remainder + ED 7 Lorance south / Lutesville +
+  ED 8 Union + ED 9 Wayne + ED 10 Whitewater.
+- Other 1920 Yell EDs on T625-86 besides 182 / 191 / 200
+  (remap S308: 184 Dardanelle ~p210; 188 Dutch Creek ~p310;
+  193 Mountain ~p400; 198 Richland ~p480; 199 Havana ~p500;
+  201 Waveland from p542; 202 Wilson ~p560).
+- Unread J-initial cards 3399–~3499 if a second Bollinger cite appears.
+
+Did not read Pope Roll 5. Did not retake Liberty ED 4.

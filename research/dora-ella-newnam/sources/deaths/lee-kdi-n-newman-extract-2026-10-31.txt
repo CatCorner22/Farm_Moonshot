@@ -1,0 +1,19 @@
+# Extract — USGenNet Lee Kentucky Death Index, letter N
+# URL: https://usgennet.org/usa/ky/county/lee/deaths/kdi/n.html
+# Captured: 2026-10-31  Access: index only (HTML seen)
+# Full local copy: sources/deaths/lee-kdi-n-2026-10-31.html
+# Columns as printed: Name | Vol | Cert | Year | Mo | Day | Age | Year
+
+NEWMAN, Callie     028  13504  26  04  27  030  26
+NEWMAN, Callie     032  15815  26  04  27  030  26
+NEWMAN, Dellie     024  11741  17  01  08  021  17
+NEWMAN, Frank      015  07401  28  03  16       28
+NEWMAN, Grant 1    026  12938  15  05  29  U/1  15
+NEWMAN, Hanley 1   057  28233  24  03  18  U/1  24
+NEWMAN, Lillian    036  14143  12  05  08  033  12
+NEWMAN, Maud L     041  20437  13  04  12  001  13
+NEWNAM, Dorothy    048  23505  27  10  06  001  27
+
+Nil on this N-page: Everett / Everet / Evert / Edward as a decedent.
+Everett of Idamay died in Madison County (see SortedByName extract) so he would not appear as a Lee-resident-death-in-Lee row.
+Frank 16 Mar 1928 is on this Lee index; the 1939 obituary's brother Frank of Berea was then still living — not the same man.

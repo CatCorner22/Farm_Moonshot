@@ -1,0 +1,17 @@
+Pass 79 B039 — USGenNet Owsley death-certificate extracts 1911-1945 (available year files), grepped 31 Oct 2026.
+Years opened (HTTP 200): 1911-1932, 1934-1937, 1940-1945 (no 1933/1938/1939 on the deaths index).
+Exact strings: Newnam, Newman, NEWNAM, NEWMAN.
+
+NIL decedent: Robert Newnam/Newman; Sallie/Sally Newnam/Newman.
+
+FAN-only hits (not Lester's parents; not merged):
+  1913: NEWNAM, Clara d. 28 Oct 1913; parents Grant NEWNAM & ?Dena B. COLE (infant of C387 couple)
+  1916: Josephine GILBERT, father Henry H. NEWNAM, mother Mary J. PARDINGTON
+  1916: other Henry H. / John / Gracy / Willie NEWNAM parent rows — Henry H. cluster
+  1924: NEWMAN, Florence (decedent — different given name)
+  1930: Tom/Tommy ESTES, mother Millie NEWMAN/NEWNAM
+  1931: Cris NEWMAN (parent row)
+  1940: burial "Newnam GY" (Mary Catherine COMBS cluster; already in Combs notes)
+  1943: Everett MCGUIRE of Pebworth, mother Celia NEWNAM/NEWMAN (already C156)
+
+Certificates themselves not examined (extracts only).

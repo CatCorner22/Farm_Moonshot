@@ -1,0 +1,1 @@
+{"responseHeader":{"status":0,"QTime":18,"params":{"query":"identifier:beatty","qin":"identifier:beatty","fields":"identifier,title,year,creator","wt":"json","rows":20,"start":0}},"response":{"numFound":1,"start":0,"docs":[{"creator":"Beattyville Enterprise","identifier":"beatty","title":"Beattyville Enterprise (1924-1932)","year":1932}]}}

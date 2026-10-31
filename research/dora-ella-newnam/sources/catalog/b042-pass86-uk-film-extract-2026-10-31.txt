@@ -1,0 +1,49 @@
+# B042 Pass 86 — UK S 90-033 / Newspapers.com 39744 / CA LCCN residual
+# 31 Oct 2026 · bc-c5415202 · catalog / transcription / index only
+# Do not invent Beattyville 1909–11 OCR. Do not take B049 (1926 week).
+# IDs: C535–C544 / L628–L637 / S465–S474
+# Left sibling Pass 85 B041: C524–C534 / L617–L627 / S456–S464
+# Left B007 reserved: C504–C513 / L597–L606 / S436–S445
+
+## Live agents at claim
+THIS RUNNING bc-c5415202 “B042 UK film residual”. Sibling bc-20e39036 B020 residual then next free (Pass 85 B041 C524–C534 — do not steal). Sibling bc-6d51c793 B007 residual Soundex EDs (reserved C504+). Parent bc-71069845 WAITING PR #37. Location bc-995d22ea. Reconstruction bc-03731ef0. leftover-M/S readers. Did not take B020/B007/B014/B030/B039 digital/B041/B047/B049/B055/B056. Did not retake B015/B016/B042 digital table/B045/B051/B054/B057/B092.
+
+## Variants 1–4 (01-plan.md pass 86)
+Canonical: Dora Ella Newnam; Samuel P.; Beattyville Enterprise; S 90-033 / KUK 18568; paper 39744; LCCN sn86069167 (queried as instructed).
+Family: Newman/Newnarn; Dora/Ella/Posa; Samuel/Sam/S. P.; Three Forks predecessor.
+OCR: posa/dosa/rosa/dona/dara. Soundex N550 / S350 / D600 / B314.
+Repo: omeka 65438; N.com /paper/…/39744 vs /title_39744/; CA lccn vs loc.gov/item; IA year:[1909 TO 1911]; WorldCat 14444713.
+
+## Exact searches
+1. https://ukmfilms.omeka.net/items/show/65438 HTTP 200. Re-open of S271. Title Beattyville Enterprise (1909-1911; 1915; 1924-1925; 1928; 1932). Film S 90-033. KUK 18568. 22 ft. Availability: Digitized: External hard drive + Microfilm. Filmed UK PRC 1990. Scattered issues. Polyester master negative. Description based on Vol. 4 no. 39 (Apr. 24, 1896). Preceding: Three forks enterprise 1883-189?. Film not examined.
+2. omeka search S 90-033 HTTP 200 — only item 65438.
+3. omeka search Beattyville Enterprise HTTP 200 — page 1 of 9. Other hits 1973–2006 modern reels. Only 65438 covers 1909–1911.
+4. https://www.newspapers.com/paper/the-beattyville-enterprise/39744/ HTTP 200 (was 403). meta description: 26,889 searchable pages 1896–1999. JSON-LD Newspaper Beattyville KY. Page has 0 strings 1909/1910/1911/Newnam. Issues unread (JS + paywall).
+5. newspapers.com/results/?keyword=Newnam&publication-ids=39744 HTTP 200 JS search shell. Not a proven result set. 1909/1910/1911 absent from HTML.
+6. Live CA/LOC sn86069167 and loc.gov/item/sn86069167 HTTP 403 Cloudflare. Search pages 404/403.
+7. Wayback 20250620074033 CA lccn/sn86069167 — The Kentucky register (Richmond, Ky.) 190?–1917. Browse Issues present. NOT Beattyville. Corrects C487 assumption.
+8. Wayback 20250501144112 CA lccn/sn86069653 — The Beattyville enterprise 189?–current. No Browse Issues link (About / Holdings / MARC only). Predecessor sn86069652 Three forks. Related sn88061156 (1960s).
+9. Wayback 20250504105254 loc.gov/item/sn86069653 JSON "digitized": false. LCCN sn86069653. OCLC 14444713.
+10. Wayback 20260301070842 loc.gov/item/sn86069167 — The Kentucky Register Richmond. "digitized": true.
+11. IA Solr (advancedsearch.php output=json):
+    title:(beattyville enterprise) AND year:[1909 TO 1911] → 0
+    "S 90-033" OR "S90-033" OR "KUK 18568" → 0
+    (newnam OR "dora newman" OR "samuel newnam") AND year:[1909 TO 1911] AND (beattyville OR "lee county" OR owsley) → 0
+    title:("three forks enterprise") AND year:[1900 TO 1912] → 0
+    title:("hazel green herald") AND (newnam OR newman) AND year:[1909 TO 1911] → 0
+    title:("breathitt county news") AND (newnam OR newman) AND year:[1903 TO 1909] → 0
+    identifier:beatty → 1 (1924–1932 six issues, prior S270)
+    sn86069653 OR "14444713" → 94 modern KDL 2012–2015 issues (not 1909–11)
+12. Gleanings already on disk: 20 May 1910 fourteen Lee marriages — nil Newnam. 27 May 1910 Noe/Crank. 8 July 1910 Kincaid/Phillips. NEWNAM hits remain 18 Nov 1887 Tincher and 20 Dec 1901 Will (C490 C491).
+13. usgennet news oil (1907/1917/1920) / shooting (1920) / barrett (1936) nil Newnam 1909–11. jury 8 Mar 1940 Dewey NEWNAM — outside window.
+14. ExploreUK Anubis. WorldCat 14444713 403. KDLA newspapers.aspx 404. omeka ?output=json 403.
+
+## What this pass does not prove
+Catalog identity of sn86069167 ≠ Beattyville does not open the 1909–11 Enterprise. UK film and Newspapers.com issues remain unread. Do not invent OCR.
+
+## Retrieval (do not pretend read)
+1. UK Margaret I. King Library microfilm S 90-033 / KUK 18568 (omeka 65438): 1909–1911 first (Samuel window); then 1915. Staff: digitized copy is on an external hard drive, not the public IA `beatty` set.
+2. Newspapers.com The Beattyville Enterprise paper 39744, authenticated search 1909–1911: Newnam/Newman/Dora/Posa/Samuel. Do not take Aug–Sep 1926 (B049).
+3. CA/LOC title to use for Beattyville is sn86069653 (not digitized). sn86069167 is Richmond Kentucky Register (digitized) — Madison FAN only; issues not searched this pass (403).
+4. ExploreUK / KDNP on-site after Anubis.
+5. Do not invent Hayes/Smith, Pope Roll 5, Lee probate, KY 20591, TN 09021/15370, unread FAG bios.

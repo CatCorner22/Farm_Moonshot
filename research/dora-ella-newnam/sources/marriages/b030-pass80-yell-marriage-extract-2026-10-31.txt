@@ -1,0 +1,62 @@
+B030 pass 80 extract — Dora Ella Newnam Stone m2 / Peebles residual
+Worker: bc-20e39036  Date: 2026-10-31  IDs C464–C470 / L514–L525 / S398–S405
+Did not take B039 / B007 / B047 / B049 / B055 / B056.
+Did not retake B014 / B015 / B016 / B045 / B051 / B054 / B057 / B092.
+Variants 1–4 before queries: Dora/posa/dosa/rosa/dona/dara; Newnam/newman/newnarn/newan/newnom; Stone; Peebles/Peeples/Peoples; Soundex N550 / S350 / P142 / D600.
+
+FREE PAGES OPENED
+1. Genealogy Trails Yell marriage.html landing (200) links: news_marriages.html, marriage_various.html, marr_lic.html.
+2. GT news_marriages.html (200, 16,144 B) — newspaper announcements. Couples on page (not a county book):
+   Avery-Reeves 1930 Danville; Beuch-Williams 1888 Dardanelle; Biggs-Hays 1916 Dardanelle;
+   Clark-Stevenson 6 Jun 1921 Dardanelle; Cobb-Bunting Oct 1920 Danville; Cochran-Page 1922 Danville;
+   Cottrell-Croome 1900 Dardanelle; plus remaining notices on the same page.
+   Grep nil: Newnam, Newman, Stone, Dora, Peebles, Peeples, Peoples, Coy, McCoy.
+   Incomplete press extract — not a substitute for Yell marriage books.
+3. GT marr_lic.html (200) — ONE license only:
+   Joe Crites of Ola-R-a, 26 × Mary Hamilton of Ola-R-1, 20; license 7 Mar 1925;
+   Chester O. Hill, County Clerk, by C. M. Neely D.C.; solemnized 7 Mar 1925 by P. C. Moss J.P.;
+   recorded page 527 of Book L of Marriage Records (certificate of record ~30 Mar / Apr 1925).
+   No Dora / Newnam / Newman / Stone / Peebles. Proves Book L was the live Yell book in March 1925.
+4. GT marriage_various.html (200) — re-opened; still chiefly 1841–1878 + Crites 1925 + Whitfield 1935. Nil target (extends C135 / L144).
+5. ARGenWeb yell/marriages/marr.htm + letter pages (marrn/marrs/marrd/marrm/marrp) — HTTP 406 from this VM (WAF). Prior L167: header + 1841–1878 bride list only.
+6. Scott Co. ARGenWeb marrindex.htm (200) Books A–J 1882–1974. Letter pages opened (200):
+   marrgrn.htm (N grooms), marrgrs.htm (S grooms), marrbrd.htm (D brides),
+   marrbrn.htm (N brides), marrbrs.htm (S brides), marrgrp.htm (P grooms), marrbrp.htm (P brides).
+   Nil Newnam. Nil Dora Newnam/Newman bride. Nil T.A. / Tom A. / Thomas A. Stone × Dora.
+   Newman cluster present (Scott family; not merged with P001/P002).
+   Stone grooms include Thomas W. 14 Oct 1883 × Hettie L. Hough A/97 (too early; wrong wife);
+   Tom, no age, 1 Apr 1931 × Norma May Blair F/270 (after P001 death 23 Aug 1926 — rejected).
+   Peebles: none. Peoples: D.W. 25 Feb 1894 × Mary Hampton B/201; Joe 27 Mar 1910 × Ollie Williams D/110 — not Dora.
+7. IA Solr (encoded) numFound=0:
+   title:("yell county") AND title:(marriage)
+   title:(yell) AND title:(marriage) AND arkansas
+   title:("arkansas county marriages")
+   title:("reclaim the records") AND marriage AND arkansas
+   collection:(reclaimtherecords) AND arkansas AND marriage
+8. Reclaim The Records marriage list (WebSearch): no Arkansas marriage index published.
+9. Ancestor Hunt free AR marriage page (200): Yell rows are
+   ARGenWeb yell/marriages/marr.htm (406 here);
+   FS catalog 674356 Yell Marriage Records 1887–1961;
+   FS catalog 401207 Yell Marriages 1841–1849, 1865–1959; index 1841–1849, 1863–1942;
+   GT marriage.html.
+   Also FS collection 1417439 Arkansas County Marriages 1837–1957.
+10. LDS Genealogy Yell marriage-records page (200): 14 sources; USGenWeb 1841–1878; FS books; Ancestry 61775 certificates 1917–1969; ADH 1917–present.
+11. FamilySearch catalog 674356 / 401207 / collection 1417439 — HTTP 404 JS shell from this VM. Images not examined.
+12. CIS marriage.cisarkansas.com — Cloudflare 403. Published county list in search snippet does not include Yell or Perry (Benton, Carroll, Clark, Columbia, Conway, Craighead, Drew, Faulkner, Franklin, Howard, Logan N/S, Madison, Montgomery, Ouachita, Randolph, Saline, Sevier, Washington).
+13. ADH order-marriage-records page 403. VR-10 PDF downloaded (91,054 B): statewide marriages from 1917; $10; mail ADH Vital Records Section-Slot 44, 4815 West Markham Street, Little Rock AR 72205; phone (866) 209-9482. SOAP SearchMarriageCertificate already modern-only (L334) — not re-called as a new find.
+14. USGW Archives yell + files.usgwarchives.net/ar/yell/vitals/marriages/ — timeout 25s. Not examined.
+15. Wayback CDX argenweb.net/yell/marriages/* — 503 offline. wayback 2020 marrn.htm 404 wrapper.
+
+NOT EXAMINED (do not invent)
+- Yell Marriage Books (esp. K–L around 1920–26; Book L p.527 is Crites 1925 only)
+- FS catalog 674356 / 401207 images
+- FS collection 1417439
+- Ancestry 61775 / 2548
+- ADH 1917–1926 certificate image
+- Yell County Clerk, P.O. Box 219, Danville AR 72833-0219, phone 501-495-2630 (FS wiki snippet)
+
+RETRIEVAL (R015)
+User FS sign-in: catalog 674356 (1887–1961) then 401207 (index through 1942) for groom Stone / bride Newnam, Newman, Dora, Posa, Ella, 1920–1926; also Peebles/Peeples.
+Or Ancestry 61775: T. A. / Tom / Thomas Stone × Dora / Ella Newnam/Newman, Yell/Perry/Logan, 1920–1926.
+Or ADH VR-10 $10: bride Dora Newnam / Dora Newman / Dora Stone; groom T. A. / Tom Stone; marriage 1920–1926 Arkansas.
+Or Yell Clerk Danville: Marriage Book L (and preceding book) for 1920–26 Stone × Newnam.

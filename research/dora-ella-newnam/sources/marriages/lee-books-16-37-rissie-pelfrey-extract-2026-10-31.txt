@@ -1,0 +1,13 @@
+Pass 74 B016 — USGenNet Lee Marriage Books 16–37 grep 31 Oct 2026
+URLs: https://usgennet.org/usa/ky/county/lee/marriage/marrbook{16-37}.html
+All HTTP 200. Strings: Rissie / Rissa / Recie / Pelfrey as bride or groom party.
+
+NIL Rissie/Rissa/Recie Newnam or Newman as bride or groom.
+Rissie as a *mother* only (rejected as P009):
+  Book 32: groom's mother Rissie Creech (FAG 163061551)
+  Book 35: groom's mother Rissie Stewart (FAG 144465194)
+  Book 36: bride's mother Rissie Isaacs (FAG 120223158)
+
+Pelfrey parties are other families (W. D. × Callie Hampton; Wiley × Ida Gross; Victor × Susie; Morgan × Dora May Spencer; Elmo × Emma). Not merged.
+
+Book 22 NEWNAM × Lucy STAMPER is a different couple (bride Lucy d/o Pete Stamper). Not Rissie.

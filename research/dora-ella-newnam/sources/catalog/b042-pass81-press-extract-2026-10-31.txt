@@ -1,0 +1,58 @@
+# B042 Pass 81 — KDNP / Lee papers residual
+# 31 Oct 2026 · bc-c5415202 · catalog / transcription / index only
+# Do not invent Beattyville OCR, unread film pages, or a 1926 Dora obit (B049 reserved).
+
+## Live agents at claim
+THIS RUNNING bc-c5415202 B042. Sibling bc-20e39036 B030 Pass 80 (C464–C470). Sibling bc-6d51c793 B007 residual Soundex EDs. Parent bc-71069845 WAITING PR #37. Location bc-995d22ea. Reconstruction bc-03731ef0. bc-aa43eaa5 B079. bc-01a18bb4 other tree. Did not take B030/B007/B014/B047/B049/B055/B056. Did not retake B015/B016/B039/B045/B051/B054/B057/B092.
+
+## Variants 1–4 (01-plan.md pass 81)
+Canonical: Dora Ella Newnam; T. A. Stone; Robert+Sallie; Larkin Mays × Louisa; Samuel P.
+Family: Newman/Newnam/Newnarn; Dora/Ella/Posa/Doll; Mays/Mayse/Mayes; Louisa/Eliza; Sallie/Sally.
+OCR given: posa/dosa/rosa/dona/dara/dore/dori/dola/pora/rora. Soundex N550 / S350 / M200 / D600.
+Repo quirks: KDNP CONTENTdm JS; CA LCCN sn86069167; kykinfolk 406; IA Solr title:/collection:; Newspapers.com 39744; UK S 90-033.
+
+## Exact searches
+1. https://www.uky.edu/Projects/NDNP/listtitles.html HTTP 200. Complete KY NDNP digitized-title table. Strings Beattyville / Three Fork / Lee County / Owsley / Booneville / Enterprise: 0 rows. Nearest digitized neighbours: Breathitt County News (Jackson, Breathitt 1903–1909); Hazel Green Herald (Wolfe 1885–1917); Spout Spring Times (Estill 1896–1901).
+2. https://www.kyhistory.com/digital/custom/newspapers HTTP 200. KHS CONTENTdm shell. Javascript required. No unauthenticated article dump.
+3. https://kentuckynewspapers.org/kdnp/ HTTP 200 → Primo vid=01SAA_UKY:KDNP. JS discovery. No title dump.
+4. https://chroniclingamerica.loc.gov/lccn/sn86069167/ and /lccn/sn86069167.json and titles?terms=beattyville&format=json : HTTP 403 this VM. Directory unread. Do not invent LCCN dates from memory.
+5. https://kykinfolk.com/lee/newspapers.html and www. and http:// : SSL expired or HTTP 406. Wayback CDX [] .
+6. https://usgennet.org/usa/ky/county/lee/newspapers.html 404. Landing https://usgennet.org/usa/ky/county/lee/ 200 links news/ and obituaries/.
+7. IA Solr (advancedsearch.php output=json):
+   - title:(beattyville enterprise) AND (newnam OR newman OR mays) → 0
+   - "dora ella" AND beattyville → 0
+   - title:(beattyville enterprise) AND (larkin AND louisa) → 0
+   - collection:kentuckynewspapers AND (newnam OR "dora newman" OR "dora newnam") → 0
+   - title:("three forks enterprise") → 0
+   - title:(beattyville enterprise) AND year:[1900 TO 1912] → 0
+   - collection:kentuckynewspapers AND year:[1900 TO 1912] AND (newnam OR newman) → 0
+   - title:(jackson reporter) AND (beattyville OR owsley OR lee) → 0
+   - collection:kentuckynewspapers AND (title:(breathitt county news) OR title:(hazel green herald) OR title:(spout spring)) AND (newnam OR newman OR "larkin mays") → 0
+   Control: identifier:beatty → 1 (prior S270 six issues 1924–1932). Control: beattyville enterprise → 106 (includes modern/unrelated; not 1900–1912 FT of the Lee paper).
+8. https://usgennet.org/usa/ky/county/lee/news/ HTTP 200. Pages opened 200: gleanings, lewismays, tpendergrass, 1894, estes, small, blount, ejohnson.
+9. ExploreUK newspapers q=Beattyville+Enterprise : Anubis bot wall. Newspapers.com paper 39744 still 403 (S293).
+
+## Hits (transcription only — not invented OCR)
+A. Three Forks Enterprise gleaning, 18 Nov 1887 Fri.: marriage licenses this month include William N. TINCHER and Mary NEWNAM. FAN only. Same woman already on Lee wills index as Mary F. Newnam TINCHER (C232). Not P001 (married Samuel 10 Dec 1885).
+B. The Beattyville News gleaning, 20 Dec 1901 Fri.: "Will NEWNAM and family left Thursday to spend the holidays in Indiana." POSSIBLE FAN of William D. Newnam (1880 son of Elias, C099). One identifier (given-name Will + Beattyville + family). Not merged with P001 or P002. Not the 1902 Richmond Will Newnam (C292).
+C. Three Forks Enterprise gleaning, 16 Dec 1885 Wed. (six days after Dora × Samuel): only John T. BOWMAN × Bell DAY at Zachariah. Published extract does not name Dora Ella / Samuel P. Gleanings page is marked "Under construction" — incomplete, not a proof the paper never printed the wedding.
+
+## Nils in those extracts
+- No Dora Ella / Dora Stone / Posa Stone notice.
+- No Samuel P. Newnam death 1900–1912.
+- No Larkin/Link Mays × Louisa/Eliza Pendergrass marriage notice.
+- No Robert Newnam × Sallie/Sally wedding or Lester birth notice.
+- Lewis Mays death (Indianapolis Star, Sunday 25 Jun 1905): Lee Circuit Court murder of young Lewis Mays, sole support of a widowed mother. Different man from Larkin T. Mays (d. 1895). Rejected.
+- Tom M. Pendergrass / Estes / Smallwood / 1894 / Elisha Johnson pages: no target party strings.
+- Blount circus page names Rev. Luther NEWNAM as officiant (later FAN already C300) — not 1900–1912 P001 cluster.
+- Lee obituaries N/G already on disk: funeral-home and post-1926 FAN only; no 1900–1912 Dora/Samuel/Larkin×Louisa/Robert×Sallie party obit.
+
+## What this pass does not prove
+Absence of a digitized Lee/Owsley title on the KY NDNP list does not prove no paper was printed. UK film S 90-033 still lists 1909–1911 (and 1915/1924–25/1928/1932). Newspapers.com catalog still claims 1896–1999. Those issues are unread.
+
+## Retrieval (do not pretend read)
+1. University of Kentucky Margaret I. King Library microfilm S 90-033 / KUK 18568 (item 65438): Beattyville Enterprise 1909–1911 first for the Samuel window; then 1915.
+2. Newspapers.com The Beattyville Enterprise paper 39744, 1896–1999 (paywall). Strings: Newnam, Newman, Dora, Posa, Samuel, Larkin Mays, Robert Newnam, Sallie, 1900–1912.
+3. Chronicling America LCCN sn86069167 directory + page API when unblocked.
+4. KDNP / ExploreUK on-site or authenticated session (CONTENTdm / Primo / Anubis).
+5. Do not take B049 (1926 week). Do not invent Hayes/Smith, Pope Roll 5, Lee probate, KY 20591, TN 09021/15370.

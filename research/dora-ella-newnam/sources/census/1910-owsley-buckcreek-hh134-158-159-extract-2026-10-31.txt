@@ -1,0 +1,24 @@
+# Extract — 1910 Owsley Co. KY, Buck Creek (Kendrick transcript)
+# URL: https://usgennet.org/usa/ky/county/owsley/census/1910/buck1910.html
+# Captured: 2026-10-31  Access: transcription only (HTML seen)
+# Full local copy: sources/census/1910-owsley-buckcreek-2026-10-31.html
+
+Index block (NEWMAN): Elizabeth 141; Everet 159; Grant 158; John 134; Pearl 141
+
+134-134  NEWMAN John     H  M W  31  m1  9y      KKK
+          Lillie         W  F W  24  m1  9y  2-2  KKK
+          Florence       D  F W   8  s            KKK
+          Pency          D  F W   4  s            KKK
+
+141-141  NEWMAN Elizabeth H F W  61  wd      7-2  KKK
+          ANGLE Susan     D F W  44  wd            KKK
+          NEWMAN Pearl   GD F W  15  s            KKK
+  [Pearl's grandmother household — Dora's MIL cluster; NOT Everett's natal house]
+
+158-158  NEWMAN Grant    H  M W  21  m1  1y      KKK
+          Dona           W  F W  22  m1  1y      KKK
+
+159-159  NEWMAN Everet   H  M W  23  s           KKK
+          Susan         Sis F W  26  wd      2-2  KKK
+          Darsie       Nep  M W  10  s           KKK
+          Clarence     Nep  M W   6  s           KKK

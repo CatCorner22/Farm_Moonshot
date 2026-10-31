@@ -1,0 +1,16 @@
+# Extract — Lee Marriage Book 20 (Kendrick)
+# URL: https://usgennet.org/usa/ky/county/lee/marriage/marrbook20.html
+# Captured: 2026-10-31  Access: transcription only (HTML seen)
+# Full local copy: sources/marriages/lee-marrbook20-2026-10-31.html
+
+George H. MITCHEL & Nellie SPICER
+Groom: age 21, born Franklin Co KY, residence Frankfort KY, single
+  Father: J. B. Mitchel
+  Mother: Annie Comley
+Bride: age 18, born Lee Co KY, residence Willow KY, single
+  Father: Robert Spicer
+  Mother: Callie Newman
+md: 18 August 1926 at Clerk's office by J. F. Sutton, Judge
+witnesses: S. M. Estes & Robert Brandenburg
+
+No Everett Newnam/Newman × Callie Moore groom row on this Book 20 HTML (grep).

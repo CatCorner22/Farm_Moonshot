@@ -1,0 +1,1 @@
+{"responseHeader":{"status":0,"QTime":55,"params":{"query":"creator:(margaret millar hayes) AND (text:owsley OR text:owsley OR text__reviews:owsley)","qin":"creator:(margaret millar hayes) AND owsley","fields":"identifier,title,creator,year","wt":"json","rows":5,"start":0}},"response":{"numFound":0,"start":0,"docs":[]}}

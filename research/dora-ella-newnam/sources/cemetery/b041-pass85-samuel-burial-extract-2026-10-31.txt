@@ -1,0 +1,39 @@
+Pass 85 B041 + B020 last 403 — 31 Oct 2026 — bc-20e39036
+IDs this wrap: C524–C534 / L617–L627 / S456–S464
+Left reserved B007 bands unused: C504–C513 / L597–L606 / S436–S445
+Left B039 Pass 84: C514–C523 / L607–L616 / S446–S455
+
+=== B020 last attempt (stop replay) ===
+Exact URLs, Chrome 121 UA:
+  https://www.findagrave.com/memorial/97907837/dora-newman
+  https://www.findagrave.com/memorial/97907931/thomas-stone
+  same + #flowers
+  https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=97907837
+Results: WebFetch 403; curl Cloudflare “Just a moment…” 403 (~5.7 KB); jina.ai 401 (IP reputation).
+Do not replay B020. Biography pane / flower notes / Added by / Managed by still not examined (R017).
+
+=== Variants 1–4 (B041) ===
+1 Canonical: Samuel P. Newnam (P002); cemetery Newnam / Newman / Newman-Combs, Pebworth, FAG 2378080, Crossroads Tom Cornett Farm.
+2 Family: Newman / Newnarn / Newan / Newnom; Samuel / Sam / S. P. / S P; Parriott (lore only).
+3 Machine/OCR: Newnam→newman/newnarn/newan/newnom; Soundex N550 / Samuel S540 / Parriott P630.
+4 Quirks: FAG cemetery memorial-search firstName+lastName; FAG statewide deathyear=1906 ±10 KY; USGW Archives directory vs files; owsleycokyhist newnam.html vs newnam_cemetery.html; USGenNet/GT name lists; IA Solr quoted titles.
+
+=== Exact searches ===
+FAG cemetery/2378080 (200): head; memorial-search lastName Newnam / Newman; firstName Samuel+Newnam / Samuel+Newman / Sam+Newnam / S+Newnam / Parriott+Newnam / Samuel+Newnarn.
+FAG statewide: firstName=Samuel lastName=Newnam|Newman deathyear=1906 deathyearfilter=10 location=Kentucky.
+http://www.owsleycokyhist.org/newnam_cemetery.html (200) — 2006 Combs/Cornett/Edwards reading.
+http://www.owsleycokyhist.org/newnam.html (200, nearly empty); Historical_Locations.html (200); Cemeteries.html (200) links Newnam Family → newnam_cemetery.html.
+Wayback USGW cemetery.html 20221201201932 / 20240804015538 / 20250904071419 (200). Live usgwarchives.net/ky/owsley/cemetery.html timeout.
+USGenNet Owsley cemeteries landing (200) — no Newnam yard.
+GT genealogytrails.com/ken/owsley/cemetery.html (200) — named list, no Newnam.
+https://www.combs-families.org/combs/records/ky/owsley/cemeteries.htm (200) — Combs Family Cemetery, Sam P. Combs 1869–1957.
+https://www.combs-families.org/combs/records/ky/owsley/1911.htm (200) — Artimecia Combs buried Newman Graveyard 30 May 1911.
+IA Solr title:("samuel p newnam" OR "samuel p newman") AND (owsley OR lee OR pebworth OR kentucky) numFound=0
+IA Solr "newnam cemetery" OR "newman-combs" OR "tom cornett farm" numFound=1 = 1960s Hollywood / Julie Newmar — rejected.
+kykinfolk.org/owsley/obits and /cemetery/ 406 (Mod_Security).
+RootsWeb Knott Newman Cemetery (Quicksand) — different yard, rejected.
+
+=== Retrieval (do not invent) ===
+On-site walk / minutes: Newnam Cemetery, Crossroads Tom Cornett Farm, Pebworth, Owsley Co. KY (KY Landmark).
+Lee County Clerk, Beattyville — burial/church minutes 1900–1910 (no VS 1905–1910).
+Do not invent unread stones, licenses, films, or certificates.

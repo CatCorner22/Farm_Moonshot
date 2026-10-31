@@ -1,0 +1,50 @@
+Pass 75 B047 catalog extract — 31 Oct 2026 — bc-20e39036
+Did not take B016 (sibling L486+). Did not take B092. Did not read Pope Roll 5 or Lee probate film.
+
+ROLL MAP (NARA M1509 pamphlet, PDF image-seen this pass; SHA-256 20c1bc55f902173f3e8940d47ae586914b09aa91b06d7968cfd0000d4c30015d, 598,389 B):
+- KY24: Edmonson T–Z; Elliott A–Z; Estill A–Z
+- KY45: Lawrence K–Z; Lee A–Z; Leslie A–Z
+- KY74: Oldham A–Z; Owen A–Z; Owsley A–Z
+- AR49: Perry A–Z
+- AR69: Yell A–Z
+
+REGISTRATION RULES (same pamphlet):
+- 5 Jun 1917: men 21–31 (McCoy b. Apr 1890 = 27 — must register if in the US)
+- 5 Jun 1918 + 24 Aug 1918 supplement: men turning 21
+- 12 Sep 1918: men 18–45 (John H b. Aug 1899 = 19 — must register if in the US)
+
+SEARCHES THIS PASS (exact):
+1. NARA pamphlet https://www.archives.gov/files/research/microfilm/m1509.pdf 200
+2. GT Lee https://genealogytrails.com/ken/lee/wwi_draft_cards.html re-opened 200; Newnam/Newman/McCoy/Pelfrey 0 (C294 stands)
+3. GT Estill https://genealogytrails.com/ken/estill/ww1draft.html 404
+4. GT Owsley https://genealogytrails.com/ken/owsley/ww1draft.html 404
+5. GT Estill military.html 200 — WWII casualties only; no WWI draft list
+6. GT Owsley military.html 200 — WWII casualties only
+7. GT Yell military.html 200 — 1812/Civil/WWII; no WWI draft
+8. GT Yell landing 200 — no draft transcript
+9. ARGenWeb Yell Military.html 200 — WWII 1942 draft only
+10. ARGenWeb Van Buren WWI draft index — Newman: Berry J 1875, Harvey Franklin 1900, James F 1885, Wiley 1893; no John H 1899; no Newnam; no McCoy
+11. GT AR Soldiers of the Great War — NEWMAN, Joseph C., Russell only
+12. IA Solr title:(m1509) AND (kentucky OR arkansas) numFound=0
+13. IA Solr title:("world war i draft") AND (lee OR estill OR owsley OR yell) numFound=0
+14. IA Solr collection:(worldwaridraftregistrationcards) AND kentucky numFound=0
+15. IA Solr "John Newnam" draft 1917 numFound=0
+16. KYGenWeb Estill / Owsley / Lee landings 200 — no WWI draft index
+17. KYGenWeb Estill military/ and wwi.htm 404
+18. KYGenWeb Casey WWIregcards.htm 200 — Casey families only; Newnam/Newman 0 (wrong county)
+19. KYGenWeb Carter ww_i.htm — Edward/James/Thornton/William/Willie Newman (prior reject)
+20. USGenNet Lee military/ 200 — Civil War / Rev; no WWI
+21. USGenNet Owsley military.html 200 — Civil War; no WWI
+22. USGenNet Estill 404
+23. FS collection 1968530 and catalog 550558 — JS shell only; cards not examined
+24. Ancestry 6482 John_Newnam birth 1899 — 403
+25. Fold3 publication 773 — 403
+26. digitalheritage.arkansas.gov/ww1-discharge — DNS
+27. files.usgwarchives.net ky/lee|estill|owsley and ar/yell military — timeout
+28. Wayback CDX digitalheritage — IA temporarily offline / timeout
+29. WikiTree Newnam-49 — 202 empty
+30. LOC CA Newnam 1917/1918 KY — timeout / truncated JSON
+31. Hollingsworth Owsley WWI draft book (WorldCat 54019565) — print 2002; not examined
+32. ASA finding aid Draft Registration Cards AR by county — catalog only (page 202 empty this VM)
+
+Cards on KY45 / KY24 / KY74 / AR69 / AR49: not yet examined.

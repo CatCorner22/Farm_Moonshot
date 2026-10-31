@@ -1,0 +1,30 @@
+Extract: 1920 U.S. census, Yell Co., AR, ED 191 (Lamar Twp + Plainview town + rural Lamar)
+NARA T625 roll 86; IA item 14thcensusofpopu086unit (PDF 597 pp, 176,260,130 bytes)
+Captured: 31 Oct 2026
+Access: original images seen (PyMuPDF render, invert+contrast name-column crops)
+
+Page map (1-indexed IA PDF pages) — **corrects** the pass-29 "330–378" bracket:
+- PDF 330–334: Gilkey / Riley sector (ED 182 etc.) — **not** ED 191
+- PDF 335–350: Gravelly Hill Twp / Gravelly Village, **ED 190** — **not** ED 191
+- PDF **351–379**: **ED 191** complete
+  - 351–370: Lamar Twp, **Plainview Town** (sheets 1A–~9B; enumerator J. Delain / Joseph Ray Lee on early sheets)
+  - 371–379: Lamar Twp, incorporated place **blank** (rural Lamar, sheets 10A–end; last page 379 nearly empty)
+- PDF 380: blank header
+- PDF 381+: Magazine Twp, **ED 176** — not Lamar
+
+Search strings (variants 1–4): Dora / Posa / Dosa / Rosa / Dona / Ella; Stone / Stome / Stona / Storie; Newnam / Newman; Coy / McCoy; Tom / Thomas / T. A. / T.A.; Mrs. Stone.
+
+Result: **Nil P001.** No woman ~48 b. KY named Dora/Ella/Posa as Mrs. T. A. / Tom A. Stone, and no McCoy/Coy Newnam in the ED.
+
+Homonyms / near-hits (kept separate; paleography capped where faint):
+- PDF 353 (Plainview sh 2A) fam **30**: head read **Storm / Stone, T. H.[?]**, ~66, wife **Willie** ~57. **Not** T. A. Stone (wife living; he is FIL widower in Perry Howell the same month). **Rejected** vs P001.
+- PDF 360 (Plainview sh 5B) fam **114**: **Stone, E.[?]**, ~56, wife **Ollie** ~50, granddaughter. **Rejected** vs P001 (wrong given names / ages).
+- PDF 360 fam **115**: prior pass L185 "Stone, P. E. 42 / Dora 40 KY, sh 6B dw 115" was **not confirmed** on this re-read of sh 5B fam 115 (looks like **Scott / Sart, James**, ~39). That earlier reject is **not re-asserted**.
+- PDF 363 fam **141**: wife **Dora**, ~21, head ~29 (surname read Lodi / Dolly / Cole — uncertain). Age 21 **rejected** vs P001 ~48.
+- No Newnam/Newman surname seen on the 29 ED 191 pages.
+
+Local files: sources/census/ed191-1920/1920-yell-ed191-p0353-fam30-storm-or-stone.jpg;
+  1920-yell-ed191-p0360-fam114-stone-e.jpg; 1920-yell-ed191-p0363-fam141-dora-21.jpg
+  plus enhanced full pages 351/355/360/365/370/375/378/379.
+
+IA OCR: item metadata ocr="tesseract 5.0.0-beta-20210815: language not currently OCRable"; _djvu.txt **404**. Negatives are visual, not OCR.

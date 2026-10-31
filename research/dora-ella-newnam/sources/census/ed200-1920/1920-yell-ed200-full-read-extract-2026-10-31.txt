@@ -1,0 +1,68 @@
+Extract: NARA T625 roll 86 / IA item 14thcensusofpopu086unit (597 pp) — ED 200 name columns
+Captured: 31 Oct 2026 (pass 73, B092, bc-6d51c793)
+Access: original images seen (PyMuPDF name-column + header crops). Item metadata ocr="language not currently OCRable". Paleography capped with [?].
+IA: https://archive.org/details/14thcensusofpopu086unit
+Local PDF (not committed): /tmp/b091/t625-86.pdf (176,260,130 bytes)
+
+Purpose: finish true 1920 Yell ED 200 (Ward Township then Ola Town). Pass 64 (C347) moved ED 200 off the old 379–519 bracket. This pass reads every populated name column and tightens the page bound.
+
+Header map (PDF 1-indexed; supervisor district 5 unless noted):
+
+| PDF p. | Place | ED | Sheet | Notes |
+|---|---|---|---|---|
+| 517 | (prior ED; short scan) | not 200 | — | last page before Ward; not re-claimed as ED 200 |
+| 518 | Ward Township | 200 | 1 | populated start |
+| 519 | unused blank | — | B printed, no ED | no names |
+| 520 | Ward | 200 | 2 A | 3 January |
+| 521 | Ward | 200 | 2 B | |
+| 522 | Ward | 200 | 3 A | |
+| 523 | Ward | 200 | 3 B | |
+| 524 | Ward | 200 | 4 A | |
+| 525 | Ward | 200 | 4 B | |
+| 526 | Ward | 200 | 5 A | |
+| 527 | Ward | 200 | 5 B | last Ward |
+| 528 | Ola Town | 200 | 6 A | Ola starts here (not 530) |
+| 529 | Ola Town | 200 | 6 B | |
+| 530 | Ola Town | 200 | 7 A | |
+| 531 | Ola Town | 200 | 7 B | |
+| 532 | Ola Town | 200 | 8 A | C214 target; dw ~135–147 |
+| 533 | Ola Town | 200 | 8 B | Dora M reject |
+| 534 | Ola Town | 200 | 9 A | |
+| 535 | Ola Town | 200 | 9 B | short scan; lines 51–100 |
+| 536 | Ola Town | 200 | 10 A | |
+| 537 | Ola Town | 200 | 10 B | |
+| 538 | Ola Town | 200 | 11 A | |
+| 539 | Ola Town | 200 | 11 B | |
+| 540 | Ola Town | 200 | 12 A | last populated ED 200. Pass 64 “17 A” was a faint misread of 12 A |
+| 541 | unused blank | — | no ED | no names |
+| 542 | Waveland Township | 201 | 1 | enumerator A. A. Scott; ED 200 ended before this page |
+| 543 | unused blank | — | B printed | |
+| 544 | Waveland | 201 | 2 | |
+| 545 | Waveland | 201 | 2 B | already in t625-86-ed-map/ |
+
+Exact pages name-column searched this pass (visual, invert + wide crops):
+518, 519 (blank), 520, 521, 522, 523, 524, 525, 526, 527, 528, 529, 530, 531, 532, 533, 534, 535, 536, 537, 538, 539, 540, 541 (blank).
+Headers only on 542–545 to close the bound. 542–544 are ED 201 — not searched as ED 200 population.
+
+Variants on every name column (categories 1–4):
+1 Canonical: Dora / Dora E. / Ella × Stone / Newnam; Mrs T. A. / Tom A. Stone; Samuel; Coy / McCoy.
+2 User: Posa Stone; Newman; Dore / Dori.
+3 Machine/OCR given: posa, dosa, rosa, dona, dara, dore, dori, dola, pora, rora. Surname: storie, stona, stome, newman, newnarn, newan, newnom.
+4 Repo: Last, First on schedule; sheet 8 A hunt for unreplicated C214; Soundex N550 / S350 / D600 (not used — no text layer).
+
+Result: nil P001. No Dora/Ella/Posa ~48 b. KY as Mrs T. A. / Tom A. Stone. No Newnam/Newman household matching Samuel + McCoy / Pearl / John H. C214 “Stone, Dora 45 wife of Samuel 42, Ola sh 8A dw 78” is not on true Ola sheet 8 A (PDF 532; dwellings ~135–147). Do not claim C214 relocated.
+
+Named rejects (image seen; not merged):
+- PDF 523 Ward 3 B: Davis[?] Lip L Head ~30 b. AR + wife Dorey ~33 b. AR + Odell 7 + Jeff 3. Wrong age, birthplace, husband.
+- PDF 525 Ward 4 B: Holder Geo E Head ~45 b. MS + wife Doda S ~46 b. AL. Wrong surname, birthplace, husband.
+- PDF 526 Ward 5 A: Burton John Head ~63 b. AR + wife Ina[?] (not confidently Dora) ~42 b. AR. Wrong age, birthplace, husband.
+- PDF 532 Ola 8 A dw/fam 141/144: Arnett[?] Moses[?] A Head ~50 b. TN + wife Fannie E ~47 b. KY + Minnie / Maud / Rosco / Artie L / Eula R. Closest KY-born wife ~48; given name Fannie; children fail Hard Rule 3.
+- PDF 533 Ola 8 B: Eddington[?] John L Head ~31 b. AL + wife Dora M ~26 b. AL + Cora[?] J 5, Robert L 4, Velma 2, Mary 1, Iola 1/12. Same given name only.
+- PDF 537 Ola 10 B: Wadley James A Head ~66 b. TN + wife Ella D ~42 b. AR. Middle Ella; wrong age/BP/husband.
+- PDF 539 Ola 11 B: Johnson Aubrey Head + wife Ella ~25 with young children Rosa/Alice/Zelie/Jessie/Rollen/Evlyn/Doby — rejected. Gentry Will C + wife Ella — rejected (children Mark etc.; not P001 set).
+
+No Stone head matching T. A. / Tom A. / Samuel. No Coy / McCoy Newnam on these pages (Coy is already at Danville ED 182).
+
+Conclusion: Yell ED 200 (Ward + Ola Town) is a PROVEN negative for P001 in January 1920. Combined with ED 191 full nil (C340), she is not on the Lamar / Plainview / Ward / Ola Town schedules. C211 (later Lamar/Carter Cove/Ola residence) is not a January 1920 census line.
+
+Local proofs in this folder + t625-86-ed-map/ (pass 64 headers).

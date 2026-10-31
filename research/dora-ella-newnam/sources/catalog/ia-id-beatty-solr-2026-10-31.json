@@ -1,0 +1,1 @@
+{"responseHeader":{"status":0,"QTime":229,"params":{"query":"identifier:beatty","qin":"identifier:beatty","fields":"year","wt":"json","rows":5,"start":0}},"response":{"numFound":1,"start":0,"docs":[{"year":1932}]}}

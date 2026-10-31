@@ -1,0 +1,53 @@
+B014 pass 77 catalog + retrieval path — Hardin K. Gray vol 042 #20591
+2026-10-31  bc-20e39036
+
+OBJECTIVE: death-certificate IMAGE. Not invented.
+
+INDEX (image/text seen this pass)
+  Reclaim The Records 1967 TXT (IA reclaim-the-records-kentucky-death-index-01911-1989)
+  Header: PLACE OF DEATH | CO OF RESIDENCE | DATE | VOL | NUMBER
+  GRAY HARDIN K  age 91  FYETE  LEE  09/07/1967  042  20591
+  Unique HARDIN K / HARDEN / HARDING Gray row in that year file.
+
+FREE SUBSTITUTES
+  USGenNet Lee deaths/1967.html — nil Hardin/Gray (FS-derived extract incomplete; death registered Fayette)
+  USGenNet cemeteries/gray.html — Vestie GRAY 9 Sep 1882–21 Oct 1958 nee Mays; Hardin K. GRAY 3 Jan 1876–7 Sep 1967; FAG links 73721802 / 73721728
+  USGenNet obituaries/g.html — no Hardin decedent obit; Vestie 23 Oct 1958 Enterprise names surviving husband H. K. Grey, Arvel; Sidney 1960 names Harden / H. K. Gray, Arvel; Robert 1946 names Mardin Gray, Arvel
+  Lee KDI g.html (1911–1929) — nil Hardin (expected; he died 1967)
+  IA Solr four queries numFound=0
+  SortedByName Gray/Hardin 403
+  FAG memorials 73721728 / 73721802 403; Wayback CDX []
+  FS collection 1417491 Kentucky Death Records 1911–1967 403
+  Ancestry collection 1222 403
+  KYGenWeb lee/death/ landing 200 (letter files for 1960–1980 G not found at guessed slugs)
+  Genealogy Trails lee/obits.html 404
+  LOC CA Hardin Gray 1967 404/HTML
+  LDS Genealogy Lee County Death Records catalog 200 (11 sources listed; no 1967 image)
+
+KDLA
+  Genealogy page: uncertified photocopies of KY death certificates 1911–1957 ONLY.
+  1967 is outside that window. KDLA cannot fill this order.
+
+OVS RETRIEVAL (pay / mail / VitalChek) — exact path
+  Application: VS-31 (Rev. 12.20.2023)
+    https://www.chfs.ky.gov/agencies/dph/dehp/vsb/Forms/VS31DeathApp.pdf
+  Death certificates page:
+    https://www.chfs.ky.gov/agencies/dph/dehp/vsb/Pages/death-certificates.aspx
+  Purchase options:
+    https://www.chfs.ky.gov/agencies/dph/dehp/vsb/Pages/purchase.aspx
+  Genealogy (indices + KDLA 1911–1957 note):
+    https://www.chfs.ky.gov/agencies/dph/dehp/vsb/Pages/genealogy.aspx
+  Mail: Office of Vital Statistics, 275 East Main Street 1E-A, Frankfort, KY 40621
+  Fee: $6.00 per certified copy, check/MO to Kentucky State Treasurer (non-refundable search fee)
+  Phone: (502) 564-4212; credit-card (800) 241-8322 option 1
+  Internet: https://www.vitalchek.com (VitalChek service fee extra)
+  Walk-in: 275 East Main Street, Frankfort; lobby 8 a.m.–4:30 p.m. EST Mon–Fri
+  Fill: Full name HARDIN K. GRAY (also Harden/Harding/Grey); Date of death 7 Sep 1967;
+        Place of death Fayette County, Kentucky (index PLACE OF DEATH = FYETE);
+        County of residence Lee; Age 91; Volume 042 Certificate 20591
+  OVS will not confirm a record without the form + fee. No photocopies / fax / electronic copies.
+  FS sign-in browse: Kentucky Death Records, 1911–1967, collection 1417491, Fayette, Sep 1967, Gray.
+
+CERTIFICATE IMAGE: not examined.
+Pope Roll 5: not examined.
+Lee probate film: not examined.

@@ -1,0 +1,113 @@
+B020 / Pass 82 — Find A Grave memorial biographies
+Captured 31 Oct 2026 · bc-20e39036 · branch cursor/dora-b049-1926-obit-de1c
+Did not take B042 (bc-c5415202 Pass 81, C484–C493). Did not take B007.
+Did not take B014 / B039 / B047 / B049 / B055 / B056.
+Did not retake B030 / B015 / B016 / B045 / B051 / B054 / B057 / B092.
+Did not invent biography text, flower notes, or a maintainer name.
+Did not read Pope Roll 5, Lee probate film, Yell Book L, KY 20591, TN 09021/15370, Hayes/Smith.
+
+IDs this pass: C494–C503 / L586–L596 / S428–S435 / R017
+
+VARIANTS 1–4 (before first query)
+  1 Canonical: Dora Ella Newnam (P001); listing Dora Newman 97907837; Thomas Stone 97907931.
+  2 Family: Newman / Newnam / Dorra (stone) / Posa (1926 index) / Tom / T. A. Stone.
+  3 Machine: Dora → posa/dosa/rosa/dona/dara; Dorra → porra/rorra; Newnam/newman/newnarn/newan/newnom.
+     Soundex N550 / S350 / D600.
+  4 Repo: FAG firstName+lastName+cemeteryId=53354; bio= keyword; old cgi GRid=; Wayback url / www / prefix;
+     IA quoted memorial IDs; Wikidata P535; WikiTree Newnam-49 API.
+
+LISTING RECONFIRM (FAG memorial-search cemetery 53354 — HTTP 200; individual pages 403)
+  firstName=Dora lastName=Newman
+    sr-97907837 Dora Newman — "Birth and death dates unknown."
+    Flowers-have-been-left icon present (virtual flower exists; note text unread).
+    Thumb: images.findagrave.com/photoThumbnails/photos/2014/279/97907837_1412682277.jpg
+  firstName=Thomas lastName=Stone
+    sr-97907931 Thomas Stone — 1845–1925
+    Flowers-have-been-left icon present (note text unread).
+    Thumb: images.findagrave.com/photoThumbnails/photos/2014/278/97907931_1412626902.jpg
+  Control (no bio filter) still returns 97907837. Extends C411. Bio pane still not examined.
+
+BIO-KEYWORD SEARCH (cemetery/53354/memorial-search?bio=… ) — filter WORKS
+  Exact URLs opened 31 Oct 2026 (HTTP 200). Target IDs counted in saved HTML.
+  bio=Newnam     → 0 memorials; 97907837/97907931 absent
+  bio=Dorra      → 0; targets absent
+  bio=Posa       → 0; targets absent
+  firstName=Dora lastName=Newman&bio=Stone → 0; 97907837 absent
+  firstName=Dora lastName=Newman&bio=Ella  → 0; 97907837 absent
+  firstName=Thomas lastName=Stone&bio=Dora → 0; 97907931 absent
+  firstName=Thomas lastName=Stone&bio=Missouri → 0; 97907931 absent
+  firstName=Thomas lastName=Stone&bio=1845 → 0; 97907931 absent
+  bio=Ola        → other Carter Cemetery memorials (Jessie; Wayne Anderson; Arthur Dennison Bittle;
+                    Beulah E; Walter C Carter; John Henry / June Evelyn / Luther Melvin Flewellen …)
+                    97907837/97907931 absent
+  bio=Samuel     → Hubert Wayne Westlake 196193049; Jeanette Lucille 97907993 — targets absent
+  bio=1871       → Mary Jane 97907432 — targets absent
+  bio=Coy        → Jessie; Arthur Dennison Bittle; Beulah E; Evelyn Marie 97907790 — targets absent
+  Conclusion: the bio= field is live (other bios in this yard match Ola/Samuel/1871/Coy).
+  These two memorials are not indexed under those life-detail strings.
+  Do NOT print “biography is empty” as PROVEN — a pane with “RIP” or no keywords could still exist.
+  Biography pane remains unread (403).
+
+WAYBACK CDX (HTTP 200, body [] — 3 bytes)
+  findagrave.com/memorial/97907837
+  findagrave.com/memorial/97907931
+  www.findagrave.com/memorial/97907837
+  findagrave.com/cemetery/53354
+  Prefix * queries 503 (IA temporarily offline).
+  cgi-bin/fg.cgi?page=gr CDX returns the generic 2002–2007 landing, NOT GRid=97907837/97907931.
+
+IA SOLR (exact q; numFound)
+  "97907837"                                              → 0   (in ia-b020-fag-solr-2026-10-31.json)
+  "97907931"                                              → 0
+  title:(dorra newnam)                                    → 0
+  title:("dora newman") AND (carter OR yell OR plainview) → header only; no docs in saved head
+  dorra newnam                                            → 0   ia-b020-dorra-solr
+  "dora newman" carter cemetery                           → 0   ia-b020-dora-newman-carter-solr
+  title:(dorra newnam)                                    → 0   ia-b020-dorra-title-solr
+  title:("dora newman") AND title:(carter)                → 0   ia-b020-newman-carter-title-solr
+
+WIKIDATA P535
+  wbsearchentities search=97907837 → {"search":[],"success":1}
+  wbsearchentities search=97907931 → {"search":[],"success":1}
+
+WIKITREE API getProfile Newnam-49
+  DeathDate 1930-00-00 Arkansas; bio {{Unsourced}} "passed away about 1930"
+  Already C012 / conflict #6 (1930 DISPROVED by 1926 certificate). NOT a FAG biography.
+
+BLOCKED / NIL MIRRORS (do not invent contents)
+  findagrave.com/memorial/97907837/dora-newman          403
+  findagrave.com/memorial/97907931/thomas-stone         403
+  findagrave.com/memorial/97907837                      403
+  cgi-bin/fg.cgi?page=gr&GRid=97907837                  403
+  cgi-bin/fg.cgi?page=gr&GRid=97907931                  403
+  …/dora-newman#flowers  and  …/dora-newman/photo       403
+  r.jina.ai / textise.net                               403
+  archive.ph                                            429
+  webcache.googleusercontent.com                        200 Google Search shell (not a cached memorial)
+  ghostarchive.org/search?term=97907837                 200 title only; no snapshot list dumped
+  ancestry.com/discoveryui-content/view/97907837:60525  403
+  familysearch.org guessed ark                         200 FamilySearch.org shell
+  arkansasgravestones.org                               403
+  yellcountyobits cemeterylist64 / 83                   403 (prior S268–S269 stand)
+  sites.rootsweb.com/~arcemete/yell/                    403
+  billiongraves.com/cemetery/Carter-Cemetery/157161     403
+  files.usgwarchives.net/ar/yell/cemeteries/            timeout
+  mapcarta.com                                          403
+  Genealogy Trails ark/yell/cem.htm                     200: Carter Cemetery + Carter Family Cemetery listed; no interment dump
+  genealogytrails.com/ark/yell/cartercem.htm            404
+
+WEBSEARCH / DDG REJECTS (not merged)
+  Della Wilson (Newnam) Carter 1883–1964 Rockingham NC
+  Mary Dora (Carter) Newman 1863–1911 IN FAG 127317105
+  Dora Dawson Newman d. 5 Aug 2017 Kinston NC
+  Dora Carter 26 Aug 1866–24 Sep 1895 Carter Family Cemetery (other yard; already C416)
+  James A. “Jimmy” Stone 1945–2004 Dardanelle (other person)
+  Dorra Salazar 1954–2020 Plainview TX (other place)
+  No third-party copy of memorial 97907837 or 97907931 biography text.
+
+RETRIEVAL (R017)
+  Open in a browser (Cloudflare):
+    https://www.findagrave.com/memorial/97907837/dora-newman
+    https://www.findagrave.com/memorial/97907931/thomas-stone
+  Read: biography pane; flower notes; Added by / Managed by; any linked family.
+  Do not invent those fields from the listing card.

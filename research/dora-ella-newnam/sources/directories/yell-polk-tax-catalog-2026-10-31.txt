@@ -1,0 +1,28 @@
+Extract: Yell / Ola directories, gazetteers, tax, voter (1917–1926) — catalog + nil
+Captured: 31 Oct 2026
+
+Exact IA Solr (31 Oct 2026):
+- title:("arkansas state gazetteer") → numFound 0
+- title:(polk arkansas gazetteer) → numFound 0
+- title:(arkansas gazetteer OR "polk") AND (yell OR ola OR danville) → 161 hits, **all census microfilm / WPA / 1850 Yell schedules**, not a Polk directory
+
+St. Louis County Library city-directory table (WebSearch snippet):
+- Arkansas State Gazetteer & Business Directories **1906-07** and **1912-13** — **microfilm only**
+  https://www.slcl.org/research-learn/genealogy/city-directories/arkansas
+- No Ola / Danville / Dardanelle city directory listed for 1917–1926
+
+ASA Staples map collection (blog inventory, WebSearch):
+- Ola, Yell County, **8 pages, 1924**
+- Danville, Yell County, 10 pages, 1924
+- Dardanelle, Yell County, 10 pages, 1928
+  http://arkansasstatearchives.blogspot.com/2017/04/wednesdays-wonderful-collection-staples.html
+  **Maps, not resident directories. Not examined.**
+
+Poll / tax:
+- UALR Center for Arkansas History and Culture, "Arkansas Poll Tax records, 1912-1962" (lists ca. 1912–1935, various counties). Finding aid: http://cdm15728.contentdm.oclc.org/cdm/ref/collection/findingaids/id/5851
+  **Yell lists not confirmed digitized; not examined.**
+- LDS Genealogy AR tax page lists "Yell County Tax Records" as a county heading; no free 1917–1926 personal-property scan opened.
+- Yell County Tax Collector modern parcel search (arcountydata.com) is **current** collector data, not 1920s.
+- Prior USGenWeb federal-land yell.txt / perry.txt **nil Stone** (L172) stands.
+
+Workaround (≥3): IA title search 0; SLCL catalog (microfilm); ASA 1924 Ola map catalog; UALR poll-tax collection catalog. Next: SLCL/ASA film or clerk tax books.

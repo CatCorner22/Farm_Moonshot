@@ -66,7 +66,7 @@ Wildcard strings to use: `New*m`, `Dor* New*`, `"Doll Newnam"`, `McCoy OR Coy Ne
 | 15 | Samuel death 1900–1911 | Lee Co. (pre-1911, likely none statewide); cemetery; newspapers | Close widowhood | Open; not a 1910 KY N-550 head |
 | 16 | John H.; Mary Bunch; Rissie TN DC | KY/TN vitals, NUMIDENT, licenses | Children after 1900 | Partial (Pearl/Mary NUMIDENT prior); John H. VA namesake rejected |
 | 17 | Yell County Journal obit Aug 1926 | AR State Archives / Plainview or Danville library | Names surviving kin | **on-site** |
-| 18 | Carter Cove photograph | Find A Grave 403 from VM; in-person | Confirm undated “Newman, Dora” | **user / photo request** |
+| 18 | Carter Cove photograph | Find A Grave cemetery search + `images.findagrave.com` | Confirm undated “Newman, Dora” | **Pass 71: stones image seen.** Diplomatic **DORRA / NEWNAM** (no dates); **THOMAS STONE 1845 — 1925**. Memorial bios still 403. |
 | 19 | DNA | — | Excluded (living-tester files) | n/a |
 | 22 | 1910 KY Miracode P-142 Peebles/Peeples/Peoples | IA `soundex1910ky128` printed pp. ~233–247 | H3-Peebles as KY 1910 wife or head | **nil for P001** (Edora Peoples 65 Graves rejected; no wife Dora on any P-142 card) |
 | 23 | 1910 AR Miracode P-142 D-window | IA `soundex1910ar091` printed pp. ~178–193 | H3-Peebles as AR 1910 Dora ~39 | **nil for P001** (Dora Sykes 19 and Dora Bell 16 rejected) |
@@ -88,6 +88,274 @@ Wildcard strings to use: `New*m`, `Dor* New*`, `"Doll Newnam"`, `McCoy OR Coy Ne
 **Ladonna Newnam** — Ladonna / Ladona × Newnam/Newman. **Clay Dunigan** — Clay × Dunigan / Dunagin / Dunnigan. Soundex **D525**.
 
 Exact strings logged **L343–L360**.
+
+## Name-variant storm (pass 62, `search_variants.py`, 31 Oct 2026)
+
+Regenerated before B049 queries. Categories **1–4**:
+
+1. **Canonical:** Dora Ella Newnam / Dora Stone; cert. **1524**; Ola / Yell / Carters Chapel; *Yell County Journal*; *Beattyville Enterprise*.
+2. **User / family:** **Posa Stone** index alias; Newman/Newnam; Mrs. T. A. Stone.
+3. **Machine / OCR given:** Dora, posa, dosa, rosa, dona, dara, dore, dori, dola, pora, rora. Surname: Newnam, newman, newnarn, newan, newnom, Stone, storie, stona, stome. Soundex **N550** / **S350** / **P200** (Posa).
+4. **Repository quirks:** `Last, First`; year-file `1926.html`; Lee obits **S**/**D**/**N**; IA `title:(…) AND year:1926`; CA `format=json` page search (this VM: **404** HTML).
+
+Exact strings logged **L361–L375**.
+
+## Name-variant storm (pass 63, `search_variants.py`, 31 Oct 2026)
+
+Regenerated before B056 / B052 queries. Categories **1–4**:
+
+1. **Canonical:** Dora Stone / Dora Ella Newnam; *Danville Democrat*; *Dardanelle Post-Dispatch*; *Rural Record*; Shelby Newnam × Grace Brandenburg; Ladona Newman.
+2. **User / family:** **Posa Stone**; Newman/Newnam; Mrs. T. A. Stone; Gracie / Grace; Shelby / Selby.
+3. **Machine / OCR given:** Dora, posa, dosa, rosa, dona, dara, dore, dori, dola, pora, rora. Shelby (ocr-given: Shelby only). Grace (ocr-given: Grace only). Surname: Newnam, newman, newnarn, newan, Newmann, Stone, Brandenburg, brandenburgh, brandenburi, branenburg. Soundex **N550** / **S350** / **P200** / **B653** / **S410** / **G620**.
+4. **Repository quirks:** IA `title:(…) AND year:1926`; LCCN **SN89051010** vs revival **SN89051002**; Lee Books **8–18** heading `Shelby NEWNAM`; 1900/1920 Sturgeon transcripts; `Last, First`.
+
+Exact strings logged **L376–L390**.
+
+## Name-variant storm (pass 64, `search_variants.py`, 31 Oct 2026)
+
+Regenerated before B091 / ED 191 / Mammoth / directory queries. Categories **1–4**:
+
+1. **Canonical:** Dora Ella Newnam / Dora Stone; Mammoth / Nimrod / Ola / Plainview / Lamar / Ward; Yell **ED 191** / **ED 200**; Polk Arkansas State Gazetteer.
+2. **User / family:** **Posa Stone** index alias; Newman/Newnam; Mrs. T. A. Stone; Coy / McCoy.
+3. **Machine / OCR given:** Dora, posa, dosa, rosa, dona, dara, dore, dori, dola, pora, rora. Surname: Newnam, newman, newnarn, newan, newnom, Stone, storie, stona, stome. Place OCR: Mammoth / Nimrod. Soundex **N550** / **S350** / **M530**.
+4. **Repository quirks:** IA PDF page vs ED stamp (film order non-sequential); `title:("arkansas state gazetteer")`; GT `postoffices.html` M-block browse; SLCL microfilm table; `Last, First`.
+
+Exact strings logged **L391–L400**.
+
+## Name-variant storm (pass 65, `search_variants.py`, 31 Oct 2026)
+
+Regenerated before B053 queries. Categories **1–4**:
+
+1. **Canonical:** Everett Newnam of Idamay; Frank of Berea; John of Owsley; Mrs Robert Spicer; Callie Moore / Callie Newman / Callie Spicer nee Newnam.
+2. **User / family:** Newman/Newnam; Everet / Evert / Everette; Francis / Franklin; Callie / Calie.
+3. **Machine / OCR given:** Everett (ocr-given: Everett only). Surname: Newnam, newman, newnarn, newan, newnom. Soundex **N550** / **S126** (Spicer) / **M600** (Moore) / **B653** (Brandenburg).
+4. **Repository quirks:** USGenNet `Last, First` (NEWMAN, EVERETT); Buck Creek 1900 `Evert` / 1910 `Everet`; Lee KDI `deaths/kdi/n.html` (not `kdi-n.html`); SortedByName `/letter_n/newman/index_383.html`; Books **20 / 24** heading `Callie Newman` / `Callie Spicer nee Newnam`.
+
+Exact strings logged **L401–L416**.
+
+## Name-variant storm (pass 67, `search_variants.py`, 31 Oct 2026)
+
+Regenerated before **B092** true-ED-200 name-column queries (`bc-6d51c793`). Categories **1–4**:
+
+1. **Canonical:** Dora Ella Newnam / Dora Stone; Samuel; T. A. / Tom A. Stone; Coy / McCoy; Ola Town / Ward Twp; Yell **ED 200**.
+2. **User / family:** **Posa Stone** index alias; Newman/Newnam; Mrs. T. A. Stone; Ella.
+3. **Machine / OCR given:** Dora, posa, dosa, rosa, dona, dara, dore, dori, dola, pora, rora. Surname: Stone, storie, stona, stome; Newnam, newman, newnarn, newan, newnom. Soundex **D600** / **S350** / **N550** / **P200** / **S540**.
+4. **Repository quirks:** IA `14thcensusofpopu086unit` PDF page vs ED stamp; visual name-column (OCR n/a — item “language not currently OCRable”); `Last, First` on schedule; sheet **8 A** hunt for unreplicated **C214**.
+
+Exact strings logged **L418–L427**. Pass **73** re-ran the generator before the remaining ED 200 name columns.
+
+## Name-variant storm (pass 66, Word filing — no new person query)
+
+**n/a.** This worker (`bc-20e39036`) took **no** new B### and ran **no** new repository person-search. Categories 1–4 are therefore not required. Work was standing-order budget correction + master Word rebuild from already-filed Pass 62–65 claims. Exact strings: none beyond the rebuild command `python3 scripts/build_dora_word.py`.
+
+## Name-variant storm (pass 68, `search_variants.py`, 31 Oct 2026)
+
+Regenerated before B051 queries (`bc-c5415202`). **Left L418–L429 / C367–C374 / S317–S322 for location B092.** Categories **1–4**:
+
+1. **Canonical:** Rev. Luther Newnam of Beattyville (minister, Christian Church).
+2. **User / family:** Newman / Newnam / Newmam; Rev. / Reverend; Mrs Luther Newnam; Cora Plummer Newnam.
+3. **Machine / OCR given:** Luther (ocr-given: Luther only). Surname: Newnam, newman, newnarn, newan, newnom, Newmam. Soundex **N550** / Luther **L360**.
+4. **Repository quirks:** USGenNet `Last, First` and year-file tables; Lee KDI is **surname** letter (`kdi/n.html` not `kdi/l.html` for Newnam); SortedByName `/letter_n/newman/index_759.html` and `/letter_n/newnam/index_3.html`; obituaries **N** (Newnam) not **L** (Luther as given).
+
+Exact strings logged **L430–L441**.
+
+## Name-variant storm (pass 69, `search_variants.py`, 31 Oct 2026)
+
+Regenerated before **B057** queries (`bc-20e39036`). **Did not take B051** (sibling `bc-c5415202` L441 Done). **Left L418–L429 / C367–C374 / S317–S322 for B092.** Categories **1–4**:
+
+1. **Canonical:** Callie (Moore) Newnam of Idamay/Proctor/Vincent; Dorothy Newnam infant; Everett/Everet/Evert Newnam of Idamay; Grant Newnam × Dova/Dona Cole; Frank of Berea; John of Owsley.
+2. **User / family:** Newman / Newnam / Newnan / Newmam; Callie / Calie; Everette; Francis / Franklin; Joan (Owsley 1915 given) vs Lois (NUMIDENT).
+3. **Machine / OCR given:** Callie (ocr-given: Callie only); Dorothy / porothy / rorothy; Everett (ocr-given: Everett only). Surname: Newnam, newman, newnarn, newan, newnom; Moore. Soundex **N550** / **M600** / **C400** / **D630** / **E163** / **G653** / **F652** / **J500** / **C400** (Cole) / **D100** (Dova) / **D500** (Dona).
+4. **Repository quirks:** USGenNet `Last, First` and year-file tables; Lee Books **8–19** party rows; Owsley VS `1909a.html` / `1910a.html` (not 1911–14 — unpublished; 1929 fire); Madison KYGenWeb `1939b.htm` (N-block; `1939a.htm` is A–D; `1939n.htm` 404); Owsley births `births/n.htm` 1911–1920 (child + mother maiden, **no father column**); Lee 1920 precinct filenames `bt` / `beat1` / `willow` / `proctor1` (no `idamay.html`); Proctor cemetery + Berea Cemetery inventory PDF.
+
+Exact strings logged **L442–L452**.
+
+## Name-variant storm (pass 70, `search_variants.py`, 31 Oct 2026)
+
+Regenerated **before** B054 queries (`bc-20e39036`). **Did not replay B057 L442–L452.** Sibling `bc-c5415202` owns further B057 at **C395 / L454 / S337**. **Left L418–L429 / C367–C374 / S317–S322 for B092.** Categories **1–4**:
+
+1. **Canonical:** Dora Newman (Carter Cove listing); Thomas Stone (1845–1925 listing); Carter Cemetery / Carter Cove / Carters Chapel / Plainview Cemetery, cemetery ids **53354** and **53325**.
+2. **User / family:** Dora / Dora Ella / Posa (index alias); Newman / Newnam; Dora Stone; Thomas / Tom / T. A. / Thos Stone.
+3. **Machine / OCR given:** Dora, posa, dosa, rosa, dona, dara, dore, dori, dola, pora, rora. Thomas, thos, tom, t a, t. a. Surname: Newman, newnam, newnarn, newan; Stone, storie, stona, stome. Soundex **N550** / **S350** / **D600** / **T520** / **C636**.
+4. **Repository quirks:** FAG memorial IDs **97907837** / **97907931** (individual pages historically CF-blocked); cemetery search `cemetery/53354` vs `53325`; `Last, First` on compiled indexes; yellcountyobits cemeterylist **64** / **83**; Daniels/Cossey 1993 copy; BillionGraves / Interment / GT / ARGenWeb / Wayback as photo substitutes.
+
+Exact strings logged **L469–L476**.
+
+## Name-variant storm (pass 71, `search_variants.py`, 31 Oct 2026)
+
+Regenerated **before** B054 repository queries (`bc-20e39036`). **Did not replay B057 L442–L452.** Sibling owns C395+ / L454+ / S337+. **Left L418–L429 / C367–C374 / S317–S322 for B092.** This agent used **C410–C416 / L469–L476 / S352–S354**. Categories **1–4**:
+
+1. **Canonical:** Dora Newman (FAG listing title); Thomas Stone 1845–1925; Carter Cemetery / Carter Cove / Carters Chapel / Plainview Cemetery; cemetery id **53354**.
+2. **User / family:** Dora / Dora Ella / Posa; Newman / Newnam; Dora Stone; Thomas / Tom / T. A. / Thos Stone. **Stone inscription (new):** DORRA / NEWNAM.
+3. **Machine / OCR given:** Dora, posa, dosa, rosa, dona, dara, dore, dori, dola, pora, rora, Dorra. Thomas, thos, tom, t a. Surname: Newnam, newman, newnarn, newan, newnom; Stone, storie, stona, stome. Soundex **N550** / **S350** / **D600**.
+4. **Repository quirks:** FAG memorial IDs **97907837** / **97907931** (individual pages **403**; cemetery search + `images.findagrave.com` **200**); cemetery **53354** vs wrong id **53325** (Campground, Hector); `Last, First`; yellcountyobits 64/83; Daniels/Cossey 1993; Wayback CDX; Interment; GT `cem.htm`; ARGenWeb cartercove/carter/carterfam; BillionGraves.
+
+Exact strings logged **L469–L476**.
+
+## Name-variant storm (pass 70-B057, `search_variants.py`, 31 Oct 2026)
+
+Regenerated before B057 residual queries (`bc-c5415202`). **Did not retake C383–C394 / L442–L453.** **Did not take B049 / B054 / B055 / B056 / B092 / B051.** Categories **1–4**:
+
+1. **Canonical:** Callie (Moore) Newnam / Newman; Dorothy Newnam; Everett / Everet / Evert Newnam of Idamay; Edward Newman of Vincent; Clifton Newman of Berea.
+2. **User / family:** Newman / Newnam / Newnan / Newmam; Callie / Calie; Everette; Joan vs Lois; Grant / Frank / Francis / Franklin; John of Owsley.
+3. **Machine / OCR given:** Callie (ocr-given: Callie only); Dorothy / porothy / rorothy; Everett (ocr-given: Everett only). Surname: Newnam, newman, newnarn, newan, newnom. Soundex **N550** / **M600** / **C400** / **D630** / **E163** / **E363** (Edward) / **C413** (Clifton) / **G653** / **F652** / **J500** / **V525** (Vincent) / **I350** (Idamay).
+4. **Repository quirks:** Find A Grave cemetery **2651502** memorial-search `lastName=Newman` (listing HTML; individual memorials **403**); Madison KYGenWeb `1936b.htm` (N-block); Lee Books `Last, First`; Proctor `cemeteries/proctor.html` (not `cemetery/`); Owsley deaths year files.
+
+Exact strings logged **L454–L459**.
+
+## Name-variant storm (pass 72, `search_variants.py`, 31 Oct 2026)
+
+Regenerated **before** B045 queries (`bc-c5415202`). **Did not take B049 / B055 / B056 / B092.** **Did not retake B051 / B054 / B057.** Sibling `bc-20e39036` closed B054 as **C410–C416 / L469–L476 / S352–S354**. **Left L418–L429 / C367–C374 / S317–S322 for B092.** This pass uses **C417+ / L477+ / S355+**. Categories **1–4**:
+
+1. **Canonical:** Samuel P. Newnam (P002); middle Parriott is WikiTree lore only.
+2. **User / family:** Newman / Newnam / Newnarn / Newan / Newnom; Samuel / Sam / S. P. / S P; Samuel Parriott Newnam.
+3. **Machine / OCR given:** Samuel (ocr-given: Samuel only). Surname: Newnam, newman, newnarn, newan, newnom. Soundex **N550** / Samuel **S540** / Parriott **P630**.
+4. **Repository quirks:** USGenNet / KYGenWeb `Last, First` on will indexes; FS Catalog place **United States, Kentucky, Lee** + keywords probate/wills; Ancestry collection **9066** paywall; KDLA inventory columns “Will Books” / “other Probate”; SNAC creator **Lee County (Ky.) County Clerk**; IA Solr `title:(…)` vs full-text.
+
+Exact strings logged **L477–L485**.
+
+## Name-variant storm (pass 74, `search_variants.py`, 31 Oct 2026)
+
+Regenerated **before** B016 queries (`bc-c5415202`). **Did not** take B047 / B092 / B049 / B054 / B055 / B056. **Did not** retake B045 / B051 / B057. Sibling `bc-20e39036` owns B047 as pass **75** (**C399–C409 / L460–L468 / S340–S351**). This pass uses **C425+ / L486+ / S364+**. Categories **1–4**:
+
+1. **Canonical:** Rissa / Rissie Newnam (P009, 1900 May 1897); WikiTree **Newnam-46** Rissie (Newnam) Pelfrey d. 13 May 1980 Knoxville.
+2. **User / family:** Newman / Newnam / Newnarn / Newan / Newnom; Recie; Stamper; Pelfrey / Pelfry / Pelphrey; later **Lewis** (index hit).
+3. **Machine / OCR given:** Rissie (ocr-given: Rissie); Rissa (ocr-given: Rissa). Surname: Newnam, newman, newnarn, newan, newnom; Pelfrey, Pelfry, Pelphrey; Stamper; Lewis. Soundex **N550** / **P416** / **S351** / **L200** / Rissie **R200**.
+4. **Repository quirks:** Shelby TN death index `Last First` + county ALL/KNOX + date range; FAG `firstName=Rissie&lastName=Lewis`; WikiTree Newnam-46 / Stamper-572; USGenNet Books `Last, First`; IA Solr quoted phrases; SortedByName `/letter_l/lewis/rissie*.html` (404).
+
+Exact strings logged **L486–L495**.
+
+## Name-variant storm (pass 75, `search_variants.py`, 31 Oct 2026)
+
+Regenerated **before** B047 M1509 queries (`bc-20e39036`). **Did not take B016** (sibling `bc-c5415202` Pass **74**, L486+). **Did not take B092 / B049 / B055 / B056.** **Did not retake B045 / B054.** Used reserved unused **C399–C409 / L460–L468 / S340–S351**. Categories **1–4**:
+
+1. **Canonical:** John H. Newnam (P010) b. Aug 1899; McCoy “Coy” Newnam (P006) b. Apr 1890.
+2. **User / family:** John / John H / J H / J. H.; McCoy / Coy / Mack; Newnam / Newman.
+3. **Machine / OCR given:** John (ocr-given: John only); McCoy (ocr-given: McCoy only). Surname: Newnam, newman, newnarn, newan, newnom. Soundex **N550** / John **J500** / McCoy **M200** / Coy **C000**.
+4. **Repository quirks:** NARA M1509 rolls **KY45** (Lee A–Z), **KY24** (Estill A–Z), **KY74** (Owsley A–Z), **AR69** (Yell A–Z), **AR49** (Perry A–Z); FS collection **1968530**; Ancestry **6482**; Fold3 pub **773**; GT `ww1draft.html` / `wwi_draft_cards.html`; `Last, First` on county transcripts; third registration 12 Sep 1918 for John H; first registration 5 Jun 1917 for McCoy.
+
+Exact strings logged **L460–L468**.
+
+## Name-variant storm (pass 77, `search_variants.py`, 31 Oct 2026)
+
+Regenerated **before** B014 Hardin K. Gray DC queries (`bc-20e39036`). **Did not take B007** (`bc-6d51c793` Pass **76**, L500+). **Did not take B016** (`bc-c5415202` Pass **74**). **Did not retake B047 / B045 / B049 / B055 / B056 / B092.** Used reserved unused **C435–C445 / L496–L499 L510+ / S371–S382**. Categories **1–4**:
+
+1. **Canonical:** Hardin K. Gray (FAN of witness Link Mays / Vestie Mayes Gray); statewide index **GRAY, HARDIN K**, d. **09/07/1967**, Lee, vol **042** #**20591**.
+2. **User / family:** Harden / Harding / Hardin; Gray / Grey; Vestie / Vesta / Vista Mayes/Mays.
+3. **Machine / OCR given:** Hardin (ocr-given: Hardin). Surname: Gray, Grey. Soundex **G600** / Hardin **H635** / Harden **H635** / Vestie **V230**.
+4. **Repository quirks:** Reclaim The Records `GRAY, HARDIN K`; USGenNet Lee `deaths/1967.html` + `cemeteries/gray.html`; SortedByName `/letter_g/gray/`; FAG `firstName=Hardin&lastName=Gray`; KY OVS / CHFS vol **042** cert **20591**; FS *Kentucky Death Records, 1911–1967* coll. **1417491**; Ancestry **1222**; cert-only `20591` / RD `042`.
+
+Exact strings logged **L496–L499 L510–L513**.
+
+## Name-variant storm (pass 78, `search_variants.py`, 31 Oct 2026)
+
+Regenerated **before** B015 Mary Bunch queries (`bc-c5415202`). **Did not take B014** (`bc-20e39036` Pass **77**, C435–C445 / L496–L499 L510+ / S371–S382). **Did not take B007** (`bc-6d51c793` Pass **76**, L500+). **Did not take B047 / B049 / B055 / B056.** **Did not retake B016 / B045 / B051 / B054 / B057 / B092.** This pass uses **C446+ / L540+ / S383+**. Categories **1–4**:
+
+1. **Canonical:** Mary Magdalene (Newnam) Bunch (P007); NUMIDENT b. **12 Jun 1893** Beattyville, parents Sam P. & Dora, SSN **410-19-2658**, deceased, no DOD.
+2. **User / family:** Mary / Mary M. / Mary Magdalene; Bunch; Newnam / Newman; FAN **Hazel E. Bunch** (deceased 1999 snippet, mother Mary M. Newnam).
+3. **Machine / OCR given:** Mary, mayr, mam, marv; Magdalene (ocr-given: Magdalene only). Surname: Bunch (ocr-surname: Bunch). Soundex **B520** / **N550** / Magdalene **M234** / Hazel **H240**.
+4. **Repository quirks:** Shelby TN Deaths `param1=BUNCH&param2=MARY` Last/First + county ALL/KNOX + 1949–2014; FAG `firstName=Mary&lastName=Bunch`; USGenNet Lee Books `Bunch`; SortedByName `/letter_b/bunch/`; IA Solr quoted phrases; KY death index Mary Bunch ~1893.
+
+Exact strings logged **L540+**.
+
+## Name-variant storm (pass 76, `search_variants.py`, 31 Oct 2026)
+
+Regenerated **before** B007 1900 Liberty / N-550 queries (`bc-6d51c793`). **Did not take B047** (`bc-20e39036`). **Did not take B016 / B015** (`bc-c5415202`). **Did not take B014** (`bc-20e39036` Pass **77**). **Did not take B049 / B055 / B056.** **Did not retake B092.** This pass uses **C457–C463 / L500–L509 / S393–S397**. Categories **1–4**:
+
+1. **Canonical:** John Sullivan (1910 Liberty ED 4 sh 7 B, **C245**); Sarah Newman/Newnam MIL ~60; Oscar S. Newman/Newnam BIL ~21; wife **Ida M** (pass-76 re-read).
+2. **User / family:** John / Jon / Jno; Sullivan / Sulivan / Sullivant; Sarah / Sara / Sallie / Sally / Sadie / Fannie; Oscar / Oskar; Newman / Newnam; Ida / Ida M; Letha / Letta / Litha / Viola; Liberty / Bollinger.
+3. **Machine / OCR given:** John, Sarah, Oscar (ocr-given: those strings only). Surname: Sullivan; Newman, newnam, newnarn, newan. Soundex **S415** / **N550**.
+4. **Repository quirks:** 1900 population T623-839 BookReader jp2 (jp2 N = PDF page N+1 vs pass 52); N-550 cards filed by **head given name** on `soundex1900mo200`; S-415 continuation on `soundex1900mo248` (not re-opened this slice); USGW `Last, First` marriage books (timeout).
+
+Exact strings logged **L500–L509**.
+
+## Name-variant storm (pass 79, `search_variants.py`, 31 Oct 2026)
+
+Regenerated **before** B039 Owsley FAN queries (`bc-c5415202`). **Did not take B014** (`bc-20e39036`). **Did not take B007** (`bc-6d51c793` Pass **76**, **C457–C463 / L500–L509 / S393–S397**). **Did not take B047 / B049 / B055 / B056.** **Did not retake B015 / B016 / B045 / B051 / B054 / B057 / B092.** This pass uses **C471+ / L566+ / S406+**. Categories **1–4**:
+
+1. **Canonical:** Larkin T. Mays / Mayse (d. 8 Jun or 8 Jul 1895); Louisa / Eliza Pendergrass (later Mays, then Brandenburg); Robert Newnam of Pebworth (Lester’s father, VS 1909) kept **separate** from Farley-stepson Robert (**C116**) until ≥2 identifiers; Sallie / Sally Newnam (Lester’s mother).
+2. **User / family:** Link (nickname POSSIBLE = Larkin); Mayse / Mayes / Mays; Eliza / Louisa / Louiza; Pendergras / Pendergass; Newman / Newnam / Newnarn / Newan / Newnom; Sally / Sarah for Sallie.
+3. **Machine / OCR given:** Larkin (ocr-given: Larkin only); Louisa → eliza / luisa / loisa / louiza; Robert (ocr-given: Robert only); Sallie (ocr-given: Sallie only). Surname: Newnam / newman / newnarn / newan / newnom; Mays. Soundex **M200** / **P536** / **N550**.
+4. **Repository quirks:** USGenNet Owsley VS year files + `lookups.html` (1929 fire); Hayes *Reconstructed Marriage Records … 1843–1910* Part 1 A–L (ISBN **9780788410581**); Smith **1843–1929** book; Lee Books `Last, First` 16–37; Owsley census district HTML (no 1920 online); KY death extracts; FAG cemetery **2378080**; IA Solr; KDLA disasters table; FS catalog **United States, Kentucky, Owsley**.
+
+Exact strings logged **L566+**.
+
+## Name-variant storm (pass 80, `search_variants.py`, 31 Oct 2026)
+
+Regenerated **before** B030 Yell/AR marriage residual queries (`bc-20e39036`). **Did not take B039** (`bc-c5415202` Pass **79**, **C471–C483 / L566–L575 / S406–S417**). **Did not take B007** (`bc-6d51c793` Pass **76**). **Did not take B047 / B049 / B055 / B056.** **Did not retake B014 / B015 / B016 / B045 / B051 / B054 / B057 / B092.** This pass uses **C464–C470 / L514–L525 / S398–S405**. Categories **1–4**:
+
+1. **Canonical:** Dora Ella Newnam (P001); m2 T. A. / Tom A. Stone (P003) 1920–26; hypothesized Peebles intervening.
+2. **User / family:** Newman / Newnam / Newnarn / Newan / Newnom; Dora / Ella / Posa (1926 index misread); Stone; Peebles / Peeples / Peoples / Pebbles.
+3. **Machine / OCR given:** Dora → posa / dosa / rosa / dona / dara / dore / dori / dola / pora / rora. Surname: Newnam, newman, newnarn, newan, newnom. Soundex **N550** / **S350** / **P142** / Dora **D600**.
+4. **Repository quirks:** GT `Last-First` announcement heads; Scott grooms `marrgr{n,s,p}.htm` / brides `marrbr{d,n,s,p}.htm`; ARGenWeb yell `marr*.htm` (406); FS catalog **674356 / 401207**; FS coll. **1417439**; Ancestry **61775**; ADH VR-10 / SOAP; CIS county dropdown (Yell absent); IA Solr `title:(…)`.
+
+Exact strings logged **L514–L525**.
+
+## Name-variant storm (pass 81, `search_variants.py`, 31 Oct 2026)
+
+Regenerated **before** B042 KDNP / Lee papers residual queries (`bc-c5415202`). **Did not take B030** (`bc-20e39036` Pass **80**, **C464–C470 / L514–L525 / S398–S405**). **Did not take B007** (`bc-6d51c793` Pass **76**). **Did not take B014 / B047 / B049 / B055 / B056.** **Did not retake B015 / B016 / B039 / B045 / B051 / B054 / B057 / B092.** This pass uses **C484+ / L576+ / S418+**. Categories **1–4**:
+
+1. **Canonical:** Dora Ella Newnam (P001); Charles / T. A. Stone (P003); Robert Newnam + Sallie (Lester’s parents); Larkin Mays × Louisa Pendergrass; Samuel P. Newnam (P002).
+2. **User / family:** Newman / Newnam / Newnarn / Newan / Newnom; Dora / Ella / Posa / Doll; Stone; Mays / Mayse / Mayes; Louisa / Eliza; Sallie / Sally.
+3. **Machine / OCR given:** Dora → posa / dosa / rosa / dona / dara / dore / dori / dola / pora / rora. Surname: Newnam, newman, newnarn, newan, newnom. Soundex **N550** / **S350** / **M200** / Dora **D600**.
+4. **Repository quirks:** KDNP CONTENTdm JS search (no unauthenticated dump); Chronicling America LCCN **sn86069167** directory vs full-text API; kykinfolk / USGenNet Lee `newspapers.html` holdings table; IA Solr `title:(beattyville enterprise)` / `collection:kentuckynewspapers`; Newspapers.com paper **39744** paywall; UK film **S 90-033**.
+
+Exact strings logged **L576–L585**.
+
+## Name-variant storm (pass 82, `search_variants.py`, 31 Oct 2026)
+
+Regenerated **before** B020 FAG memorial-biography queries (`bc-20e39036`). **Did not take B042** (`bc-c5415202` Pass **81**, **C484–C493 / L576–L585 / S418–S427**). **Did not take B007** (`bc-6d51c793` Pass **76**). **Did not take B014 / B039 / B047 / B049 / B055 / B056.** **Did not retake B030 / B015 / B016 / B045 / B051 / B054 / B057 / B092.** This pass uses **C494–C503 / L586–L596 / S428–S435**. Categories **1–4**:
+
+1. **Canonical:** Dora Ella Newnam (P001); FAG listing **Dora Newman** **97907837**; **Thomas Stone** **97907931**; cemetery **53354**.
+2. **User / family:** Newman / Newnam / Dorra (stone) / Posa (1926 index) / Tom / T. A. Stone.
+3. **Machine / OCR given:** Dora → posa / dosa / rosa / dona / dara; Dorra → porra / rorra. Surname: Newnam / newman / newnarn / newan / newnom; Stone / storie / stona / stome. Soundex **N550** / **S350** / **D600**.
+4. **Repository quirks:** FAG `firstName`+`lastName`+`cemeteryId=53354`; `bio=` keyword; old `cgi-bin/fg.cgi?page=gr&GRid=`; Wayback `url=` / `www.` / prefix; IA quoted memorial IDs; Wikidata P535; WikiTree Newnam-49 API.
+
+Exact strings logged **L586–L596**.
+
+## Name-variant storm (pass 83, `search_variants.py`, 31 Oct 2026)
+
+Regenerated **before** B007 residual queries (`bc-6d51c793`). **Did not take B014 / B015 / B016 / B039 / B047 / B049 / B055 / B056.** **Did not retake Liberty ED 4 or B092.** This pass uses **C504–C513 / L597–L606 / S436–S445**. Categories **1–4**:
+
+1. **Canonical:** John Sullivan; Ida M Sullivan; Sarah Newman/Newnam MIL; Oscar S. Newman/Newnam BIL; C245 household (1910 Liberty ED **4** sh **7 B** dw/fam **158/160**).
+2. **User / family:** John / Jon / Jno / J. A. / J. H.; Sullivan / Sulivan / Sullivant; Ida / Ida M / Ida B; Newman / Newnam; Sarah / Sallie; Liberty / Bollinger / Crooked Creek / Fillmore / German / Lorance.
+3. **Machine / OCR given:** John (ocr-given: John only); Ida (ocr-given: Ida only). Surname Sullivan (no OCR_SURNAME_SUBS hit); also Sulivan / Sullivant. Soundex **S415** / **N550** / **I300**.
+4. **Repository quirks:** T623-839 BookReader jp2 (IA `12thcensusofpopu839unit`); Soundex cards filed by given name on `soundex1900mo248` (T1055 roll **248**); US-Census.org ED map **839** vs **840**; Soundex line-number vs original line (p. **3396** vs sh **11 B** ln **97**).
+
+Exact strings logged **L597–L606**.
+
+## Name-variant storm (pass 84, `search_variants.py`, 31 Oct 2026)
+
+Regenerated **before** B039 Hayes/Smith book residual queries (`bc-c5415202`). **Did not take B020** (`bc-20e39036` Pass **82**, **C494–C503 / L586–L596 / S428–S435**). **Did not take B007** (`bc-6d51c793` Pass **83**, reserved **C504+ / L597+ / S436+**). **Did not take B014 / B030 / B042 digital table / B047 / B049 / B055 / B056.** **Did not retake B015 / B016 / B045 / B051 / B054 / B057 / B092.** This pass uses **C514–C523 / L607–L616 / S446–S455**. Categories **1–4**:
+
+1. **Canonical:** Larkin T. Mays / Mayse; Louisa / Eliza Pendergrass; Robert Newnam of Pebworth (kept **separate** from Farley-stepson Robert **C116**); Sallie / Sally Newnam.
+2. **User / family:** Link (POSSIBLE = Larkin); Mayse / Mayes; Louiza; Pendergras / Pendergass; Newman / Newnarn / Newan / Newnom; Sarah for Sallie.
+3. **Machine / OCR given:** Larkin; Louisa → eliza / luisa / loisa / louiza; Robert; Sallie. Surname: Newnam / newman / newnarn / newan / newnom; Mays; Pendergrass. Soundex **M200** / **N550** / **P536**.
+4. **Repository quirks:** ISBN **9780788410581** / **078841058X** / LCCN **99201827**; FS catalog **818120** then **733757**; Heritage **101-H1058**; KYGenWeb / RootsWeb `~kyowsley/marry`; Wayback `sites.rootsweb.com/~kyowsley/marry/*`; IA Solr `isbn:` / `title:` / `creator:`; Open Library / WorldCat / Hathi / Google Books.
+
+Exact strings logged **L607–L616**.
+
+## Name-variant storm (pass 85, `search_variants.py`, 31 Oct 2026)
+
+Regenerated **before** B041 Samuel burial remote queries (`bc-20e39036`). **Did not take B039** (`bc-c5415202` Pass **84**, **C514–C523 / L607–L616 / S446–S455**). **Did not take B007** (`bc-6d51c793` Pass **83**, reserved **C504–C513 / L597–L606 / S436–S445**). **Did not take B014 / B042 / B047 / B049 / B055 / B056.** **Did not retake B020 / B030 / B015 / B016 / B045 / B051 / B054 / B057 / B092.** This pass uses **C524–C534 / L617–L627 / S456–S464**. Categories **1–4**:
+
+1. **Canonical:** Samuel P. Newnam (P002); Newnam Cemetery / Newman / Newman-Combs, Pebworth, FAG **2378080**, Crossroads Tom Cornett Farm.
+2. **User / family:** Newman / Newnarn / Newan / Newnom; Samuel / Sam / S. P. / S P; Parriott (WikiTree lore only).
+3. **Machine / OCR given:** Samuel (ocr-given: Samuel only). Surname: Newnam, newman, newnarn, newan, newnom. Soundex **N550** / Samuel **S540** / Parriott **P630**.
+4. **Repository quirks:** FAG cemetery **2378080** `firstName`+`lastName`; statewide `deathyear=1906` ±10 Kentucky; USGW Archives directory vs `files.usgwarchives`; owsleycokyhist `newnam.html` vs `newnam_cemetery.html`; USGenNet/GT name lists; IA Solr `title:(…)`.
+
+Exact strings logged **L617–L627**.
+
+## Name-variant storm (pass 86, `search_variants.py`, 31 Oct 2026)
+
+Regenerated **before** B042 UK-film residual queries (`bc-c5415202`). **Did not take B020** (`bc-20e39036` Pass **82/85**, **C494–C503 / C524**). **Did not take B007** (`bc-6d51c793` reserved **C504+ / L597+ / S436+**). **Did not take B014 / B030 / B039 digital ladder / B041 / B047 / B049 / B055 / B056.** **Did not retake B015 / B016 / B042 digital table / B045 / B051 / B054 / B057 / B092.** Left sibling Pass **85** **C524–C534 / L617–L627 / S456–S464**. This pass uses **C535–C544 / L628–L637 / S465–S474**. Categories **1–4**:
+
+1. **Canonical:** Dora Ella Newnam; Samuel P. Newnam; *Beattyville Enterprise*; UK film **S 90-033** / KUK **18568**; Newspapers.com paper **39744**; CA LCCN **sn86069167**.
+2. **User / family:** Newman / Newnarn / Newan / Newnom; Dora / Ella / Posa / Doll; Samuel / Sam / S. P.; Three Forks Enterprise (predecessor).
+3. **Machine / OCR given:** Dora → posa / dosa / rosa / dona / dara / dore / dori / dola / pora / rora. Surname: Newnam / newman / newnarn / newan / newnom. Soundex **N550** / **S350** / **D600** / Beattyville **B314**.
+4. **Repository quirks:** UK omeka item **65438**; Newspapers.com `/paper/…_39744/39744` vs `/title_39744/`; CA `/lccn/sn86069167/` vs `.json` vs loc.gov collections; IA Solr `title:(beattyville enterprise) AND year:[1909 TO 1911]`; WorldCat / ExploreUK / KDLA film.
+
+Exact strings logged **L628–L637**.
 
 ## Agent SDK / GitHub channel
 
