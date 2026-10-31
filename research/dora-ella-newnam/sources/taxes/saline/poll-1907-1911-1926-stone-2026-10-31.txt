@@ -1,0 +1,9 @@
+Saline Co. AR poll tax indexes (Deb Robinson / ARGenWeb)
+polltx07.html / polltx11.html / polltx26.html
+Index only. Captured 31 Oct 2026. Fields: Name / Race / Township / Poll Tax / Year
+
+1907: Stone, W. C. / White / Dyer
+1911: Stones, A. L. / White / Fairplay
+      Stones, T. A. / White / Union
+      Stones, W. C. / White / Union
+1926: no Stone / Stones / Newman / Newnam / Dora

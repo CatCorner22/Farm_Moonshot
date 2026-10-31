@@ -114,6 +114,12 @@ Captured this session: **31 Oct 2026** (S283–S290, S299–S357). Earlier plate
 | S376 | `sources/census/white/1910_*` + `white-1910-1920-dora-2026-10-31.txt` | 2026-10-31 | White Co. ARGenWeb 1910 named bodies | argenweb.net/white/census/ | Dist. 150–173 named files | **Nil** P001 (**C1452–C1453**) | transcription only |
 | S377 | `sources/census/white/1920_*` + `1920Marshall.htm` + same extract | 2026-10-31 | White Co. ARGenWeb 1920 named bodies | argenweb.net/white/census/ | 27 named township files | **Nil** P001 (**C1455–C1457**) | transcription only |
 | S378 | `sources/marriages/white/` + `year-hole-white-vitals-2026-10-31.txt` | 2026-10-31 | White Co. ARGenWeb vitals | argenweb.net/white/vitals/ | Unclaimed M–N/R–S; wills D; prisoners | **No** Dora×Stone (**C1459–C1460**) | index / compiled |
+| S379 | `sources/census/white/transcription.htm` | 2026-10-31 | White leftover placeholder | argenweb.net/white/census/transcription.htm | Dist. leftover 1910/1920 | Placeholder; slugs **404** (**C1462**) | catalog |
+| S380 | `sources/marriages/montgomery/` + `sources/deaths/montgomery/` + year-hole extract | 2026-10-31 | Montgomery / Pike / Polk + Wayback death indexes | argenweb.net/montgomery/ ; arkansasresearch Wayback | Pike 1910–25; Polk 1884–1910; deaths 1914–33 | **No** Dora×Stone (**C1464–C1470**) | transcription / index / catalog |
+| S381 | Garland landings (catalog only; extract in year-hole file) | 2026-10-31 | Garland ARGenWeb | argenweb.net/garland/ | Census/marr/church/deaths | **No** 1910/1920 body (**C1471**) | catalog |
+| S382 | `sources/births/powell/` + `sources/deaths/powell/` | 2026-10-31 | Powell KYGenWeb vitals | kygenweb.net/powell/pcbirths1911.html etc. | Births 1911–18; deaths 1911–26 | **No** mother Dora Newnam (**C1473–C1475**) | transcription only |
+| S383 | `sources/taxes/saline/` + `sources/marriages/saline/` | 2026-10-31 | Saline ARGenWeb poll + marr I–R | argenweb.net/saline/ | Poll 1907/11/26; brides I–R | **No** Dora×Stone; T.A. **not merged** (**C1477–C1483**) | index / transcription / PDF text |
+| S384 | `sources/directories/ia-solr-newtitles-b077-2026-10-31.json` | 2026-10-31 | IA Solr new titles | archive.org/advancedsearch.php | Montgomery News / Mount Ida / Mena Star / Clay City Times | **numFound 0** (**C1484**) | index |
 
 ## Word biography provenance
 
@@ -139,9 +145,9 @@ See [`sources/authored/PROVENANCE.md`](sources/authored/PROVENANCE.md). Drive se
 | Conway Marriage Book **Z** bride | 19 Aug 1925–28 Jul 1927 Dora Newnam × Stone | **Done** (**C1369–C1371**) |
 | Yell 1920 ED **188** Galla Rock originals | IA T625-86 PDF **303–319** | **Done** (**C1403–C1405** / **B072**) |
 | Van Buren 1920 Union p.150 Stone house | Identify whether Dora is in the house | **Done** — Abbie? 37 wd (**C1394**) |
-| Van Buren 1910 remaining township bodies | Bloodworth / Cadron / Davis / Griggs / Hartsugg / Linn Creek / Mountain / Sulphur / Washington / Choctaw / Grove | **Done** published bodies (**C1413–C1422** / **B073**); unpublished **never posted** (**C1428** / **B074**); po0066 ≠ Van Buren (**C1431**); po0067 = Washington+White (**C1438** / **B075**); FS 1727033 lists Van Buren; full images **401** (**C1449 C1450** / **B077**) |
-| NARA T624 roll 66 complete copy (Van Buren 1910 originals) | FS signed-in Holly ED 118 ARKs (first `33S7-9RNR-FP`); confirm Van Buren header **before** households. Ancestry **7884** if already reachable. Do **not** re-download IA po0066 | Waypoints seen; DAS **401** (**C1450** / **B077**) |
-| White Co. remaining 1910/1920 `transcription.htm` districts | Dist. 154–156, 158–171 (1910); Dist. 162–164, 166–168, 170, 173–177 (1920) | Named files **done** (**C1452 C1455** / **B076**) |
+| Van Buren 1910 remaining township bodies | Bloodworth / Cadron / Davis / Griggs / Hartsugg / Linn Creek / Mountain / Sulphur / Washington / Choctaw / Grove | **Done** published bodies (**C1413–C1422** / **B073**); unpublished **never posted** (**C1428** / **B074**); po0066 ≠ Van Buren (**C1431**); po0067 = Washington+White (**C1438** / **B075**); FS 1727033 lists Van Buren; full images **401** (**C1449 C1450 C1485** / **B078**) |
+| NARA T624 roll 66 complete copy (Van Buren 1910 originals) | FS signed-in Holly ED 118 ARKs (first `33S7-9RNR-FP`); confirm Van Buren header **before** households. Ancestry **7884** if already reachable. Do **not** re-hit DAS `image.jpg`. Do **not** re-download IA po0066 | Waypoints seen; DAS **401**; no new-host title card (**C1450 C1485** / **B078**) |
+| White Co. remaining 1910/1920 `transcription.htm` districts | Dist. 154–156, 158–171 (1910); Dist. 162–164, 166–168, 170, 173–177 (1920) | Named files **done** (**C1452 C1455** / **B076**). Leftover file is a placeholder; slugs **404** (**C1462** / **B077**) |
 | Van Buren 1920 Union after 158b | Pages after 158b if posted | **Done** 159a–160b (**C1423–C1424**) |
 
 ## Variant strings used this session (categories 1–4)
@@ -152,7 +158,7 @@ See [`sources/authored/PROVENANCE.md`](sources/authored/PROVENANCE.md). Drive se
 
 **Thomas / T. A. Stone:** Thomas, Tom, T. A., T A × Stone, Store, Stowe (rejects already logged).
 
-Exact strings in `02-log.md` **L343–L352** (pass 60–61), **L361–L372** (pass 62), **L373–L379** (pass 63), **L396–L405** (pass 64), **L406–L418** (pass 65), **L419–L429** (pass 66), **L430–L441** (pass 67), **L442–L455** (pass 68), **L456–L470** (pass 69), **L471–L484** (pass 70), **L485–L498** (pass 71), **L499–L512** (pass 72), **L513–L528** (pass 73), **L529–L544** (pass 74), **L545–L560** (pass 75), and **L561–L576** (pass 76).
+Exact strings in `02-log.md` **L343–L352** (pass 60–61), **L361–L372** (pass 62), **L373–L379** (pass 63), **L396–L405** (pass 64), **L406–L418** (pass 65), **L419–L429** (pass 66), **L430–L441** (pass 67), **L442–L455** (pass 68), **L456–L470** (pass 69), **L471–L484** (pass 70), **L485–L498** (pass 71), **L499–L512** (pass 72), **L513–L528** (pass 73), **L529–L544** (pass 74), **L545–L560** (pass 75), **L561–L576** (pass 76), and **L577–L596** (pass 77).
 
 **Pearl / Clyde (pass 63):** Pearl × Newnam/Newman/Jackson; Clyde × Jackson/jacksen. Soundex **N550** / **J250**.
 
