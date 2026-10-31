@@ -833,3 +833,305 @@ Pass 2: Laurel 1850 on this reel ends at n0381. → **C1418** / **S1064**.
 > n0173: County of **Morgan**. 21st day of July 1850. **L. P. Turner** Ass't Marshal.
 
 Pass 2: Montgomery 1850 on this reel ends at n0171. → **C1419** / **S1065**.
+
+## DOC029 — 1850 Shelby 361B Izza[?]/Izzy[?] Newman 27
+
+**Inventory:** `sources/census/pass130/keyplates/shelby-361b-newman-27.jpg` (image seen).
+
+### Diplomatic
+> 310 / 324  Izza[?]/Izzy[?]/Izra[?] Newman  27  M  keeps-groom[?]
+>            [female]                         26  F
+>            Maranda[?]                        4  F
+>            Mary                              2  F
+>            Elizabeth                        30  F
+>            [infant]                          —  M
+
+Pass 2: given name uncertain. **REJECT** vs William 26 × Jane 22. → **C1679** / **S1323**.
+
+## DOC030 — 1850 Shelby 380B John A. Newman 38
+
+**Inventory:** `sources/census/pass130/keyplates/shelby-380b-john-a-newman.jpg` (image seen).
+
+### Diplomatic
+> 557  John A. Newman  38  M
+>      Mary            45  F
+>      James           23  M
+>      John            17  M
+>      (crop ends)
+
+Pass 2: **REJECT**. → **C1680** / **S1324**.
+
+## DOC031 — 1850 Shelby 385A Isaac Newman 50 PA
+
+**Inventory:** `sources/census/pass130/keyplates/shelby-385a-isaac-newman.jpg` (image seen).
+
+### Diplomatic
+> 676  Isaac Newman  50  M  Farmer  $1213  Pen[nsylvania]
+>      John          14  M
+>      Isaac         12  M
+>      Pat Irish     50  M  Laborer  Ireland
+
+Pass 2: nativity Pennsylvania. **REJECT**. → **C1681** / **S1325**.
+
+## DOC032 — 1850 Nelson 278B/279A Henry Newman 39
+
+**Inventory:** `sources/census/pass130/keyplates/nelson-true-278b-footer.jpg` · `nelson-true-279a-elizabeth.jpg` (images seen). Header stamp **279**.
+
+### Diplomatic
+> 78  Henry Newman       39  M  Cabinet Maker
+>     Elizabeth Newman   29  F                 Ky
+>     Sarah Hutchings    13  F
+
+Pass 2: wife Elizabeth ≠ Jane/Rhoda. **REJECT**. → **C1690** / **S1333 S1334**.
+
+## DOC033 — 1850 Nelson 315A/B John Newman 60
+
+**Inventory:** `sources/census/pass130/keyplates/nelson-true-315a-john60.jpg` · `nelson-true-315b-family.jpg` (images seen). Header stamp **315**.
+
+### Diplomatic
+> 569  John Newman  60  M  Farmer  $3000  Ky
+>      E. Newman    60  F                 Ky
+>      I. Newman    33  M  Carpenter
+>      John Newman  25  M  Farmer
+>      G. Newman    23  M  Farmer
+>      W. Newman    21  M  Farmer
+>      H. Newman    19  M  Farmer
+>      M. Newman    18  F
+
+Pass 2: W. is a son, not a head with Jane. **REJECT**. → **C1691** / **S1335 S1336**.
+
+## DOC034 — 1850 Nelson 325A Wm Newman 31
+
+**Inventory:** `sources/census/pass130/keyplates/nelson-true-325a-w31.jpg` (image seen). Header stamp **325**.
+
+### Diplomatic
+> 711  Wm Newman  31  M  Farmer
+>      S. Newman  23  F
+>      M. Newman   4  F
+>      (crop ends)
+
+Pass 2: wife S ≠ Jane. **REJECT**. → **C1692** / **S1337**.
+
+## DOC035 — 1850 Owsley 299B hh 311 $325 (re-read)
+
+**Inventory:** `sources/census/pass125/keyplates/owsley-1850-299b-hh311-william-jane.jpg` SHA **ffa2a4d5…** (image re-read).
+
+### Diplomatic
+> 311/311  William Newman  26  M  Farmer  $325  Ditto [=Kentucky]
+>          Jane            22  F
+>          Francis          4  F
+>          Leanner          2  F
+> 312/312  Rebecca Tincher 51  F  Widow   $200
+
+Pass 2: real-estate **$325**, not $375. → **C1674** / **S1314**.
+
+## DOC036 — 1850 Hardin 366A John A. Newman 11
+
+**Inventory:** `sources/census/pass131/keyplates/hardin-366a-john-a-newman-11.jpg` (image seen). Header Dist 3 stamp **366**.
+
+### Diplomatic
+> 178/178  Isaac Rodgers          56  M  Farmer  $2000  Ky
+>          Frances M. Rodgers     38  F                 Ky
+>          John A. Newman         11  M                 Ky
+>          Calvin[?]/Colvin[?] Newman  10  M            Ky
+>          Francis Newman          7  F                 Ky
+> 179/179  Zadock Rogers          35  M  Farmer   $500  Ky
+
+Pass 2: children in a Rodgers house, not William × Jane. **REJECT**. → **C1709** / **S1367**.
+
+## DOC037 — 1850 Logan 47B Harriet Newman 13
+
+**Inventory:** `sources/census/pass131/keyplates/logan-47b-harriet-newman-13.jpg` (image seen). Dist 1 12 Oct.
+
+### Diplomatic
+> 695/706  Elis E. Temple   47  F           $1200  Va
+>          Sarah Lee        24  F                  Ky
+>          Harriet Newman   13  F
+>          Lucy             10  F
+>          Camilla Temple    6  F
+
+Pass 2: not a living head. **REJECT**. → **C1713** / **S1372**.
+
+## DOC038 — 1850 Logan 96B Henry Newman 51
+
+**Inventory:** `sources/census/pass131/keyplates/logan-96b-henry-newman-51.jpg` (image seen). Dist 2 6 Sep.
+
+### Diplomatic
+> 362/362  Henry Newman     51  M  Farmer  $434  Va
+>          Charles Newman   24  M
+>          Reuben Newman    17  M
+>          Frances A. Newman 13 F
+>          Mary Herring     77  F
+
+Pass 2: Henry ≠ William. **REJECT**. → **C1714** / **S1373**.
+
+## DOC039 — 1850 Logan 114A Thomas Newman 26
+
+**Inventory:** `sources/census/pass131/keyplates/logan-114a-thomas-newman-26.jpg` (image seen). Dist 2 stamp **114**.
+
+### Diplomatic
+> 617/617  Thomas Newman    26  M  Farmer  $400  Va
+>          Sophia Newman    23  F                Ky
+>          Charles H. Newman 4  M
+>          Mary E. Newman    3  F
+>          Martha F. Newman  1  F
+
+Pass 2: Thomas × Sophia ≠ William × Jane. **REJECT**. → **C1715** / **S1374**.
+
+## DOC040 — 1850 Logan 124B Wesley C. Newman 29
+
+**Inventory:** `sources/census/pass131/keyplates/logan-124b-wesley-c-newman-29.jpg` (image seen). Dist 2 printed **1244**.
+
+### Diplomatic
+> 774/776  Wesley C. Newman  29  M  Farmer  $400
+>          Winifred Newman   29  F
+>          Thomas Newman      8  M
+>          Michael Newman     7  M
+>          John H. Newman     5  M
+>          Mary E. Newman     4  F
+>          Walter Newman      2  M
+
+Pass 2: Wesley C. × Winifred ≠ William × Jane. **REJECT**. → **C1716** / **S1375**.
+
+## DOC041 — 1850 Christian 423A John A. Newman 24
+
+**Inventory:** `sources/census/pass131/keyplates/christian-423a-john-a-newman-24.jpg` (image seen). Dist 2 17 Oct.
+
+### Diplomatic
+> 911/971  John A. Newman   24  M  Clerk         Tenn
+>          Ann W. Newman    22  F                Ky
+
+Pass 2: clerk, Tennessee, wife Ann. **REJECT**. → **C1719** / **S1377**.
+
+## DOC042 — 1850 Christian 441A Ed L. Newman 30
+
+**Inventory:** `sources/census/pass131/keyplates/christian-441a-edward-l-newman-30.jpg` (image seen). Dist 1 stamp **441**.
+
+### Diplomatic
+> 166/170  Ed L. Newman     30  M  Grocer        S.C.
+>          Rosella Newman   24  F                Ky
+>          Wm C. Newman      2  M
+
+Pass 2: grocer, South Carolina, wife Rosella. **REJECT**. → **C1720** / **S1378**.
+
+## DOC043 — 1850 Boone 218A Daniel Newman 32
+
+**Inventory:** `sources/census/pass135/keyplates/boone-218a-daniel-newman-32.jpg` SHA **245d4915…** (image seen).
+
+### Diplomatic
+> 116/116  [James?] Ferguson  35  M  Blacksmith
+>          Mary               24  F
+>          [children 3]
+>          Daniel Newman      32  M  Laborer
+>          Louisiana Newman   18  F
+> 117/117  Samuel Brown       55  M  Blacksmith
+
+Pass 2: boarders in a Ferguson house, not William × Jane. **REJECT**. → **C1736** / **S1389**.
+
+## DOC044 — 1850 Kenton 221B Shepard Newman 32
+
+**Inventory:** `sources/census/pass131/keyplates/kenton-221b-shepard-head.jpg` SHA **6ddf72d1…** (image seen). Covington 1st Ward.
+
+### Diplomatic
+> 150/162  Shepard Newman     32  M  Blacksmith  $1200
+>          Elizabeth Newman   28  F
+>          Ealey Ann           9  F
+>          Mary                8  F
+>          Robert              7  M
+>          Theodore            4  M
+
+Pass 2: Shepard × Elizabeth ≠ William × Jane. **REJECT**. → **C1739** / **S1391**.
+
+## DOC045 — 1850 Barren 344A Benja Newman 17 (correction)
+
+**Inventory:** `sources/census/pass133/keyplates/barren-344a-george-newman-17.jpg` SHA **aed0c3f2…** (image seen). Filename says george; given name on the sheet is **Benja**.
+
+### Diplomatic
+> 360/575  William Edmunds    73  M  Farmer  $3000
+>          Edmund A.          22  M
+>          Benja Newman       17  M
+> 361/576  Isaac Davidson     64  M  Farmer  $1900
+
+Pass 2: boarder, not a living head. Corrects C1743 slack. **REJECT**. → **C1775** / **S1440**.
+
+## DOC046 — 1850 Barren 345B Christopher Newman 50
+
+**Inventory:** `sources/census/pass135/keyplates/barren-345b-christopher-newman-37.jpg` (image seen). Filename age 37 is wrong; sheet says **50**.
+
+### Diplomatic
+> 587/603  Christopher Newman 50  M  Farmer  $40  Tenn
+>          Patey              42  F
+>          Ann Arabella       13  F
+>          Polly               8  F
+>          Henry Jas[?]        6  M
+>          Martha              5  F
+>          Nancy               3  F
+>          Betsy Lewis        50
+
+Pass 2: Christopher × Patey ≠ William × Jane. **REJECT**. → **C1744** / **S1396**.
+
+## DOC047 — 1850 Barren 428A William B. Newman 30
+
+**Inventory:** `sources/census/pass135/keyplates/barren-428a-william-b-newman-30.jpg` (image seen). 2nd Div 5 Aug.
+
+### Diplomatic
+>          Elmira Stockton     5  F
+>          William B. Newman  30  M  Merchant  $1730
+> 355/359  Buford Woodall     42  M  Farmer    $6500
+
+Pass 2: merchant, no wife Jane. **REJECT**. → **C1746** / **S1398**.
+
+## DOC048 — 1850 Hopkins Dist 2 Francis J. Newman 28
+
+**Inventory:** `sources/census/pass136/keyplates/hopkins-n0238-francis-j-newman-28.jpg` SHA **1f1aca29…** (image seen).
+
+### Diplomatic
+> 67/67  Francis J. Newman  28  M  Farmer  Kentucky
+>        Mary J. Newman     25  F
+>        Elizabeth Newman    1  F
+> 68/68  L. Gardiner        30  M  Farmer  $150
+
+Pass 2: Francis J × Mary J ≠ William × Jane. **REJECT**. → **C1776** / **S1441**.
+
+## DOC049 — 1850 Edmonson 4A Alexander Newman 73
+
+**Inventory:** `sources/census/pass137/keyplates/edmonson-4a-alexander-newman-73.jpg` SHA **effbf50d…** (image seen). Stamp **4**, 27 July, W C Lucas.
+
+### Diplomatic
+> 36/36  Henry Conner       37  M  Physician  $500
+>        Sarah              31  F                  Virginia
+>        James A             8  M
+>        Sandy T             6
+>        W L                 4
+>        John T              2
+>        E A               3/12
+>        Alexander Newman   73  M  None            Virginia
+
+Pass 2: boarder, not a living head. **REJECT**. → **C1767** / **S1431**.
+
+## DOC050 — 1850 Edmonson 11B William Newman 30
+
+**Inventory:** `sources/census/pass137/keyplates/edmonson-11b-william-newman-30.jpg` SHA **f7b97269…**; line-41 tight `…-line41.jpg` SHA **a6d2bc32…** (image seen). Stamp **11**, 8 Aug.
+
+### Diplomatic
+> 148/148  Isaac A. Cooke    35  M  Farmer  $2475  Virginia
+>          Nancy             30  F                 Kentucky
+>          John H            11  M
+>          Peyton A           9
+>          William H          1
+>          William Newman    30  M  Labourer       Kentucky
+> 149/149  William Lewis     21  M
+
+Pass 2: boarder; no wife Jane/Rhoda; no Francis/Leanner; age 30 ≠ 26. **REJECT**. → **C1768** / **S1432**.
+
+## DOC051 — 1850 Hancock 295A William Newman 26
+
+**Inventory:** `sources/census/pass137/keyplates/hancock-295a-william-newman-26.jpg` SHA **8a69df6c…**; tight SHA **30d90c57…** (image seen). Stamp **295**, 28 Aug, W P D Bush.
+
+### Diplomatic
+> 415/432  William Newman    26  M  Farmer         Kentucky
+>          Catharine O       17  F
+>          Louisa           4/12 F
+> 416/433  Edmund Wroe       40  M  Farmer  $700   Ga
+
+Pass 2: exact age vs Owsley William 26; wife Catherine O ≠ Jane/Rhoda; infant Louisa ≠ Francis 4 / Leanner 2; Hancock ≠ Owsley. **REJECT**. → **C1771** / **S1435**.

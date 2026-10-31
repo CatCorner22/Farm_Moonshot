@@ -1,0 +1,974 @@
+Henderson County, KY 1850 Federal Census          (INDEX - File 1 of 1)
+
+This Census is being transcribed by Linda Talbott and proofread by J. Talbott
+for the USGenWeb Census Project®, http://www.us-census.org/
+
+Copyright (c) 2011 by Linda Talbott
+<Transcriber@US-Census.org>
+
+==========================================================================
+USGENWEB (US-CENSUS) NOTICE: These electronic pages may NOT be reproduced
+in any format for profit or presentation by any other organization.
+Non-commercial organizations desiring to use this material must obtain
+the consent of the transcriber prior to use.  <Transcriber@US-Census.org>
+Individuals desiring to use this material in their own research may do so.
+==========================================================================
+Formatted by USGenWeb Census Project® File Manager, Linda Talbott
+All of the above information must remain when copied or downloaded.
+==========================================================================
+
+THIS IS AN INDEX SORTED BY NAME. FOR THE COMPLETE CENSUS INFORMATION IN
+PAGE NUMBER SEQUENCE, OPEN THE FILE IN THE FILE-NAME COLUMN FOR THAT LINE.
+http://us-census.org/pub/usgenweb/census/ky/henderson/1850/
+
+============================================================================
+Pg#  Ln#  Last Name      First Name       Age   Birth Place       Filename
+============================================================================
+273b  17  Abbott         William H        20    Ky                pg0270a.txt
+280b  14  Adair          Stephen C        19    Ky                pg0270a.txt
+271b  17  Adams          Ellen S.         22    Ky                pg0270a.txt
+271b  16  Adams          Joseph           33    Mass              pg0270a.txt
+271b  19  Adams          Joseph           10/12 Ky                pg0270a.txt
+271b  18  Adams          Sophoresba       3     Ky                pg0270a.txt
+273b  9   Agin           Mordecia         21    Ky                pg0270a.txt
+272b  39  Allen          Ann              24    Ky                pg0270a.txt
+272b  40  Allen          John N           5     Ky                pg0270a.txt
+272b  41  Allen          Mary S           9/12  Ky                pg0270a.txt
+277b  31  Allen          Richard          17    Ky                pg0270a.txt
+279a  26  Allen          Susan            8     Ky                pg0270a.txt
+272b  38  Allen          William G        36    Ky                pg0270a.txt
+277b  40  Allison        Eliza W          8     Ky                pg0270a.txt
+277b  42  Allison        John D           12    Ky                pg0270a.txt
+275b  37  Allison        Lucy H           18    Ky                pg0270a.txt
+277b  39  Allison        Susan S          32    Ky                pg0270a.txt
+277b  41  Allison        Susan W          1     Ky                pg0270a.txt
+275b  36  Allison        William D        52    Ky                pg0270a.txt
+277b  38  Allison        Young E          48    Ky                pg0270a.txt
+280b  29  Alves          James            58    NC                pg0270a.txt
+280b  31  Alves          John W           19    Ky                pg0270a.txt
+280b  30  Alves          Maria            54    NC                pg0270a.txt
+278b  34  Anderson       Eliza            43    Ky                pg0270a.txt
+279b  20  Anderson       John D           64    Va                pg0270a.txt
+279a  2   Anthony        Alice            13    Ky                pg0270a.txt
+273a  41  Ashlock        Martha J.        19    Ia                pg0270a.txt
+277b  25  Atkinson       Edward           3     Ky                pg0270a.txt
+274a  15  Atkinson       Eliza F          21    Ky                pg0270a.txt
+274a  16  Atkinson       Francis F. W.    1     Ky                pg0270a.txt
+277b  22  Atkinson       George           57    Ireland           pg0270a.txt
+280a  38  Atkinson       James            42    Ireland           pg0270a.txt
+274a  14  Atkinson       John C           30    Ky                pg0270a.txt
+277b  23  Atkinson       Lucy A           46    Ky                pg0270a.txt
+277b  24  Atkinson       Mary T           22    Ky                pg0270a.txt
+
+278a  38  Backer         Joseph           26    Prussia           pg0270a.txt
+278a  17  Bacon          Charles          9     Ia                pg0270a.txt
+278a  13  Bacon          James            49    NJ                pg0270a.txt
+278a  15  Bacon          James            16    Penn              pg0270a.txt
+278a  18  Bacon          Joseph           7     Ia                pg0270a.txt
+278a  14  Bacon          Mary             40    Penn              pg0270a.txt
+278a  16  Bacon          Mary J           14    Ohio              pg0270a.txt
+278a  19  Bacon          Thomas J         3     Ky                pg0270a.txt
+277a  4   Bailey         Robert           12    Ky                pg0270a.txt
+277a  3   Bailey         Sarah            64    Va                pg0270a.txt
+275b  5   Baker          Louis            37    Bavaria           pg0270a.txt
+270a  22  Banks          Caroline         5     Ky                pg0270a.txt
+270a  16  Banks          David            40    Penn              pg0270a.txt
+270a  24  Banks          David            1     Ky                pg0270a.txt
+270a  19  Banks          Ella             11    Ky                pg0270a.txt
+270a  21  Banks          James            7     Ky                pg0270a.txt
+270a  23  Banks          John             3     Ky                pg0270a.txt
+270a  18  Banks          Martha L         14    Ky                pg0270a.txt
+270a  17  Banks          Myra A           30    Ky                pg0270a.txt
+270a  20  Banks          Strother         9     Ky                pg0270a.txt
+273a  8   Barbour        Martha J         24    Ky                pg0270a.txt
+280a  24  Barnard        Ann E            16    Ky                pg0270a.txt
+279a  9   Barnard        Daniel           15    Ia                pg0270a.txt
+277a  5   Barnard        Elias            37    NY                pg0270a.txt
+278b  41  Barnard        George           9     Ky                pg0270a.txt
+277a  8   Barnard        George           5     Ky                pg0270a.txt
+277a  9   Barnard        James            2     Ky                pg0270a.txt
+277a  6   Barnard        Mary E           32    SC                pg0270a.txt
+277a  7   Barnard        Norbourn         10    Ky                pg0270a.txt
+280b  32  Barret         Alex'r B         36    Va                pg0270a.txt
+280b  34  Barret         Alexander        11    Ky                pg0270a.txt
+271b  23  Barret         James R          7     Ky                pg0270a.txt
+271b  22  Barret         John H           9     Ky                pg0270a.txt
+271b  20  Barret         John H           32    Va                pg0270a.txt
+280b  33  Barret         Juliana          28    Va                pg0270a.txt
+271b  24  Barret         Lucy             8/12  Ky                pg0270a.txt
+271b  21  Barret         Susan D          33    Ky                pg0270a.txt
+280b  35  Barret         Virginia         6     Ky                pg0270a.txt
+276a  36  Beall          Sarah            61    NJ                pg0270a.txt
+276a  35  Beall          Thomas H         63    Md                pg0270a.txt
+276b  18  Beck           Jerome           40    Unknown           pg0270a.txt
+275a  12  Beeth          William          40    Ky                pg0270a.txt
+274a  13  Bell           James            83    Va                pg0270a.txt
+277b  12  Bentley        John A J         21    Ky                pg0270a.txt
+273a  4   Beverley       Bettie           9     Ky                pg0270a.txt
+273a  5   Beverley       George           7     Ky                pg0270a.txt
+273a  3   Beverley       John P           11    Ky                pg0270a.txt
+273a  6   Beverley       Phillip N.B      5     Ky                pg0270a.txt
+273a  1   Beverley       Rob't G.         33    Va                pg0270a.txt
+273a  7   Beverley       Robert G         3     Ky                pg0270a.txt
+272b  29  Beverley       Sarah A          49    Va                pg0270a.txt
+273a  2   Beverley       Sarah P          30    Ky                pg0270a.txt
+272b  35  Beverly        Alexander        15    Ky                pg0270a.txt
+272b  34  Beverly        Henry            22    Va                pg0270a.txt
+276a  20  Bissinger      Benjamin         2/12  Ky                pg0270a.txt
+276a  23  Bissinger      Benjamin         2     Penn              pg0270a.txt
+276a  21  Bissinger      Henry            30    Bavaria           pg0270a.txt
+276a  18  Bissinger      Sampson          25    Bavaria           pg0270a.txt
+276a  19  Bissinger      Sarah            23    Ky                pg0270a.txt
+276a  22  Bissinger      Terret           28    Wittenburg        pg0270a.txt
+272a  22  Blackwell      Andrew J         10/12 Ky                pg0270a.txt
+272a  18  Blackwell      Ann B            12    Va                pg0270a.txt
+277a  30  Blackwell      Emily            25    England           pg0270a.txt
+272a  19  Blackwell      Emily F          10    Ky                pg0270a.txt
+272a  16  Blackwell      James J          38    Va                pg0270a.txt
+272a  21  Blackwell      James S.         6     Ky                pg0270a.txt
+272a  17  Blackwell      Mary B           32    Va                pg0270a.txt
+272a  20  Blackwell      Richard C        8     Ky                pg0270a.txt
+272a  3   Blassengame    Mahuldah         53    SC                pg0270a.txt
+276a  24  Blasser        John             21    France            pg0270a.txt
+274a  23  Boardman       Charles G.       32    NY                pg0270a.txt
+274a  28  Boardman       Jerome           4     Ky                pg0270a.txt
+274a  24  Boardman       Mary             38    Ky                pg0270a.txt
+274a  27  Boardman       Mary J           1     Ky                pg0270a.txt
+274a  26  Boardman       Rachael A        7     Ia                pg0270a.txt
+274a  25  Boardman       Samuel W         10    Ia                pg0270a.txt
+274b  15  Bonville       Angelina         18    Penn              pg0270a.txt
+277b  32  Brand          Peter            55    Unknown           pg0270a.txt
+272b  15  Brashear       Barak            31    Ky                pg0270a.txt
+272b  18  Brashear       Ella             6/12  Ky                pg0270a.txt
+272b  17  Brashear       Robert           2     Ky                pg0270a.txt
+272b  16  Brashear       Sarah E          20    Ky                pg0270a.txt
+275a  13  Brazier        C S              23    Ky                pg0270a.txt
+278a  41  Brehub         Frederick        23    Prussia           pg0270a.txt
+276b  21  Brenning       James W          23    Ireland           pg0270a.txt
+271a  31  Brewster       Catherine        28    Ky                pg0270a.txt
+271a  32  Brewster       Laura            7     Ky                pg0270a.txt
+271a  33  Brewster       Walter           2     Ky                pg0270a.txt
+271a  30  Brewster       William          39    Penn              pg0270a.txt
+279a  14  Browder        Martha           31    Ky                pg0270a.txt
+279a  15  Browder        Minette          2     Ky                pg0270a.txt
+280a  29  Brown          Levi W           38    Md                pg0270a.txt
+278b  38  Brummet        John             13    In                pg0270a.txt
+278b  39  Brummet        Margaret A       5     Ky                pg0270a.txt
+278b  36  Brummet        William          41    Tenn              pg0270a.txt
+278b  40  Brummet        William          2     Ky                pg0270a.txt
+278b  37  Brummet        Zerilda          32    Ky                pg0270a.txt
+280a  32  Burbank        Ambrose          32    Maine             pg0270a.txt
+280a  10  Burbank        David R          39    Maine             pg0270a.txt
+280a  15  Burbank        Robert T         10    Ky                pg0270a.txt
+279b  9   Burch          Alexander        29    Penn              pg0270a.txt
+279b  10  Burch          Elizabeth        24    Ky                pg0270a.txt
+279b  12  Burch          Elizabeth        1     Ky                pg0270a.txt
+279b  11  Burch          Ellen            7     Ky                pg0270a.txt
+275a  23  Burke          Amanda M         38    NY                pg0270a.txt
+275a  22  Burke          John B           41    Conn't            pg0270a.txt
+274a  41  Burnett        Augustus G.      11    Ky                pg0270a.txt
+274a  37  Burnett        Cornelius        52    Va                pg0270a.txt
+274a  39  Burnett        Garland H        18    Ky                pg0270a.txt
+274a  38  Burnett        Jane             49    Ky                pg0270a.txt
+274a  40  Burnett        Rachael          15    Ky                pg0270a.txt
+271a  10  Butler         Francis          16    Ky                pg0270a.txt
+
+278b  7   Callis         Jane C           50    Va                pg0270a.txt
+271a  9   Carroll        James            44    Ky                pg0270a.txt
+271b  39  Cheaney        James M          14    Ky                pg0270a.txt
+271b  37  Cheaney        John O           36    Ky                pg0270a.txt
+271b  40  Cheaney        Josephus         9     Ky                pg0270a.txt
+271b  38  Cheaney        Lucinda          32    Ky                pg0270a.txt
+271b  41  Cheaney        Virginia A.      2     Ky                pg0270a.txt
+271a  41  Christopher    Matthew          18    Ky                pg0270a.txt
+275a  33  Church         Nathaniel        14    Ky                pg0270a.txt
+280a  36  Clark          ***              20    Scotland          pg0270a.txt
+271a  13  Clark          Alexander        32    Va                pg0270a.txt
+275b  16  Clark          Andrew           18    Scotland          pg0270a.txt
+275b  15  Clark          David            24    Scotland          pg0270a.txt
+271a  14  Clark          Epetha           18    Va                pg0270a.txt
+275b  14  Clark          Robert           30    Scotland          pg0270a.txt
+273b  40  Clay           Caroline F       14    Ky                pg0270a.txt
+273b  38  Clay           Clarissa M       53    Va                pg0270a.txt
+273b  39  Clay           Hellen           15    Ky                pg0270a.txt
+273b  41  Clay           James F          10    Ky                pg0270a.txt
+273b  37  Clay           James W          54    Ky                pg0270a.txt
+271a  28  Cole           Jacob            22    Prussia           pg0270a.txt
+271a  29  Cole           Margaret         22    Ky                pg0270a.txt
+274b  2   Coleman        Isaac J.         15    Ky                pg0270a.txt
+278a  5   Collins        E W              28    La                pg0270a.txt
+280a  28  Collins        George W         21    Ohio              pg0270a.txt
+276b  30  Cowan          Allithena J      25    Ky                pg0270a.txt
+276b  29  Cowan          David H          35    Ky                pg0270a.txt
+276b  31  Cowan          Jane P           4     Ky                pg0270a.txt
+276b  32  Cowan          Susan A          2     Ky                pg0270a.txt
+276b  28  Craig          Frances M        31    Ky                pg0270a.txt
+280b  2   Cross          Columbus         25    Ky                pg0270a.txt
+273b  4   Cunningham     Ann E            14    Ky                pg0270a.txt
+273b  2   Cunningham     Mary J           36    Ky                pg0270a.txt
+273b  3   Cunningham     Sarah H          16    Ky                pg0270a.txt
+273b  5   Cunningham     Virginia         3     Ky                pg0270a.txt
+273b  1   Cunningham     William H        38    Ky                pg0270a.txt
+271a  8   Currie         Sarah L          3     Ohio              pg0270a.txt
+
+274b  10  Dechunp        Annah            38    Penn              pg0270a.txt
+274b  12  Dechunp        Francis          9     Ky                pg0270a.txt
+274b  9   Dechunp        Joseph           58    France            pg0270a.txt
+274b  11  Dechunp        Joseph           14    Ky                pg0270a.txt
+274b  13  Dechunp        William          4     Ky                pg0270a.txt
+275b  22  Delano         Ira              29    Ohio              pg0270a.txt
+271b  35  Delano         Lucy M           6     Ky                pg0270a.txt
+271b  34  Delano         Martha J         9     Ky                pg0270a.txt
+271b  33  Delano         Rosina E.        32    Ky                pg0270a.txt
+271b  36  Delano         William P        4     Ky                pg0270a.txt
+275b  23  Delano         Wm H             27    Ohio              pg0270a.txt
+273b  29  Delker         Dorothy          30    Bavaria           pg0270a.txt
+273b  30  Delker         George W.        10    Ky                pg0270a.txt
+273b  31  Delker         John             8     Ky                pg0270a.txt
+273b  28  Delker         John             38    Wittemberg        pg0270a.txt
+273b  32  Delker         Mary A. M.       6     Ky                pg0270a.txt
+273a  18  Disney         George P         24    Md                pg0270a.txt
+273a  19  Disney         Rosann           18    England           pg0270a.txt
+273a  20  Disney         Victoria         1     Ia                pg0270a.txt
+275b  30  Dixon          Archibald        7     Ky                pg0270a.txt
+275b  26  Dixon          Archibold        48    Ky                pg0270a.txt
+275b  27  Dixon          Elizabeth R.     41    Va                pg0270a.txt
+275b  31  Dixon          Henry            4     Ky                pg0270a.txt
+275b  32  Dixon          Joseph C         2     Ky                pg0270a.txt
+275b  28  Dixon          Rebecca          11    Ky                pg0270a.txt
+275b  29  Dixon          Susan B          9     Ky                pg0270a.txt
+279a  12  Douglass       Frances W        22    Ky                pg0270a.txt
+279a  11  Douglass       James J          33    Va                pg0270a.txt
+279a  13  Douglass       James R          1     Ky                pg0270a.txt
+
+279a  41  Eastin         Aechillas        26    Ky                pg0270a.txt
+279a  42  Eastin         Ann E            25    Ky                pg0270a.txt
+279a  39  Eastin         Anna D           70    Md                pg0270a.txt
+279b  5   Eastin         Augusta          12    Ky                pg0270a.txt
+279b  7   Eastin         Churchill        4     Ky                pg0270a.txt
+279b  2   Eastin         Henrietta T      21    Ky                pg0270a.txt
+279b  6   Eastin         Laura M          9     Mo                pg0270a.txt
+279a  40  Eastin         Mary F           50    Ky                pg0270a.txt
+279b  1   Eastin         Mary L           23    Ky                pg0270a.txt
+279a  38  Eastin         Zecheriah        73    Va                pg0270a.txt
+271a  11  Epperson       James            20    Ia                pg0270a.txt
+270a  27  Evans          Alice            4     Ky                pg0270a.txt
+270a  29  Evans          Frances L        8/12  Ky                pg0270a.txt
+270a  26  Evans          Henrietta        22    Ky                pg0270a.txt
+271b  2   Evans          Jane             54    Scotland          pg0270a.txt
+271b  3   Evans          Margaret         20    Ky                pg0270a.txt
+271b  4   Evans          Mary             17    Ky                pg0270a.txt
+278a  11  Evans          Robert           45    England           pg0270a.txt
+270a  28  Evans          Samuel S.        2     Ky                pg0270a.txt
+270a  25  Evans          Thomas           29    La                pg0270a.txt
+
+275b  19  Ferguson       Mr               21    Va                pg0270a.txt
+277b  13  Finney         David            25    Unknown           pg0270a.txt
+278b  35  Fisher         Mary J           8     Ky                pg0270a.txt
+272a  33  Foard          Amy W            49    Va                pg0270a.txt
+272a  32  Foard          Devereux H.      54    Va                pg0270a.txt
+272a  37  Foard          Joseph           16    Ky                pg0270a.txt
+272a  38  Foard          Julia F.         14    Ky                pg0270a.txt
+272a  36  Foard          Mary S           18    Va                pg0270a.txt
+272a  35  Foard          Moses D          21    Va                pg0270a.txt
+272a  34  Foard          Sally            73    Va                pg0270a.txt
+274a  36  Fongen         Edmund           24    France            pg0270a.txt
+276b  20  Foster         William          24    Va                pg0270a.txt
+276b  33  Fowke          Mary A           33    Ky                pg0270a.txt
+276b  34  Fowke          Susan            13    Ky                pg0270a.txt
+274b  35  Fowler         Annah J          1     Ky                pg0270a.txt
+274b  33  Fowler         George W.        28    Unknown           pg0270a.txt
+274b  34  Fowler         Margaret         29    Ia                pg0270a.txt
+278a  24  Franceway      Harriet          20    Ky                pg0270a.txt
+278a  25  Franceway      Marcus           12    Ky                pg0270a.txt
+278a  8   Fricke         Frederick        24    Germany           pg0270a.txt
+272a  10  Fuller         Frances          48    Mass              pg0270a.txt
+276b  17  Fulwiler       Andrew           28    Va                pg0270a.txt
+279b  40  Fulwiler       Elizabeth        24    Ky                pg0270a.txt
+279b  39  Fulwiler       Jacob            32    Va                pg0270a.txt
+279b  41  Fulwiler       Sarah A          7     Ky                pg0270a.txt
+280a  1   Fulwiler       Susan            2     Ky                pg0270a.txt
+279b  42  Fulwiler       Virginia         5     Ky                pg0270a.txt
+
+275a  35  Gardner        Eliza G          24    Ky                pg0270a.txt
+275a  37  Gardner        Samuel           1     Ky                pg0270a.txt
+275a  34  Gardner        Samuel B.        35    Penn              pg0270a.txt
+275a  36  Gardner        William G        3     Ky                pg0270a.txt
+278b  2   Garland        Eliza M          9     Va                pg0270a.txt
+278b  5   Garland        Laura            6/12  Ky                pg0270a.txt
+278b  1   Garland        Laura            34    Va                pg0270a.txt
+278b  3   Garland        Martha           7     Va                pg0270a.txt
+278a  42  Garland        Richard          43    Va                pg0270a.txt
+278b  4   Garland        Richard          3     Ky                pg0270a.txt
+277b  26  Gayle          George           9     Ky                pg0270a.txt
+278a  33  Geibel         Ann M            32    Bavaria           pg0270a.txt
+278a  32  Geibel         Conrad           33    Bavaria           pg0270a.txt
+278a  34  Geibel         Conrad           11    Bavaria           pg0270a.txt
+278a  35  Geibel         George A         6     Ky                pg0270a.txt
+278a  37  Geibel         Mary M           1     Ky                pg0270a.txt
+278a  36  Geibel         Philip P         3     Ky                pg0270a.txt
+274b  29  Gibbs          Annah            16    Connecticut       pg0270a.txt
+274b  30  Gibbs          David            11    NY                pg0270a.txt
+274b  27  Gibbs          Emily            45    Connecticut       pg0270a.txt
+274b  28  Gibbs          Emma             18    Connecticut       pg0270a.txt
+274b  31  Gibbs          Hellen           9     Ky                pg0270a.txt
+274b  32  Gibbs          Josephine        7     Ky                pg0270a.txt
+275a  38  Gill           William          32    SC                pg0270a.txt
+273b  34  Glashman       Michael          19    Saxony            pg0270a.txt
+277a  32  Glass          Elizabeth H      46    NC                pg0270a.txt
+279a  1   Glass          Martha E         25    Tenn              pg0270a.txt
+277a  35  Glass          Owen             9     Ky                pg0270a.txt
+277a  31  Glass          Owen             57    Ky                pg0270a.txt
+277a  34  Glass          Robert T         16    Ky                pg0270a.txt
+277a  33  Glass          Sarah H          19    Ky                pg0270a.txt
+277a  36  Glass          Wynn D           4     Ky                pg0270a.txt
+279a  20  Glazebrook     Louisa           14    Ia                pg0270a.txt
+279a  19  Glazebrook     Martha           15    Ia                pg0270a.txt
+279a  18  Glazebrook     Mary             19    Ky                pg0270a.txt
+275a  25  Gleickman      John M           19    Saxony            pg0270a.txt
+273b  14  Goben          Adam R           2     Ky                pg0270a.txt
+273b  10  Goben          Frances          37    Ia                pg0270a.txt
+273b  15  Goben          Frances          3/12  Ky                pg0270a.txt
+273b  11  Goben          Henry W          14    Ia                pg0270a.txt
+273b  12  Goben          James W          10    Ky                pg0270a.txt
+273b  13  Goben          John D           5     Ky                pg0270a.txt
+273b  16  Goben          Joseph           3/12  Ky                pg0270a.txt
+278a  3   Gobin          Bell O           2     Ky                pg0270a.txt
+278a  2   Gobin          Louisa           22    Baden             pg0270a.txt
+278a  4   Gobin          Marg't J         4/12  Ky                pg0270a.txt
+278a  1   Gobin          William F        25    Ky                pg0270a.txt
+279a  27  Goode          Andrew J         32    Va                pg0270a.txt
+280a  9   Goode          Charlotte A      2     Ky                pg0270a.txt
+280a  7   Goode          Eli W            28    Va                pg0270a.txt
+280a  8   Goode          Harriet          21    Ky                pg0270a.txt
+279a  29  Goode          Lavinia          6     Ky                pg0270a.txt
+279a  28  Goode          Mary             33    Ky                pg0270a.txt
+275a  24  Gordon         Thomas M         66    NJ                pg0270a.txt
+280a  11  Gough          Thomas           29    Ky                pg0270a.txt
+277b  6   Grady          Ophelia          18    Ky                pg0270a.txt
+277b  5   Grady          William          28    Ky                pg0270a.txt
+274b  1   Graham         Andrew J.        15    Ark               pg0270a.txt
+274a  4   Grant          Alabama          15    Ill               pg0270a.txt
+274a  2   Grant          Joseph           34    Tenn              pg0270a.txt
+274a  5   Grant          Martha A         6     Ky                pg0270a.txt
+274a  3   Grant          Matilda          33    Tenn              pg0270a.txt
+274a  6   Grant          Missouri         4     Ky                pg0270a.txt
+274a  7   Grant          William Lee      1     Ohio              pg0270a.txt
+272b  12  Graves         America C        7     Ky                pg0270a.txt
+272b  13  Graves         Columbia A.      5     Ia                pg0270a.txt
+272b  11  Graves         Elba             32    Ia                pg0270a.txt
+272b  10  Graves         James            34    Md                pg0270a.txt
+272b  14  Graves         Victoria         1/12  Ky                pg0270a.txt
+280b  12  Gray           Annie C          52    SC                pg0270a.txt
+280b  6   Gray           Catherine A      32    Ky                pg0270a.txt
+280b  5   Gray           Daniel L         47    SC                pg0270a.txt
+280b  10  Gray           Daniel L         3     Ky                pg0270a.txt
+280b  8   Gray           Emily J          8     Miss              pg0270a.txt
+280b  7   Gray           John H           11    Miss              pg0270a.txt
+280b  11  Gray           Mary A           1     Ky                pg0270a.txt
+280b  9   Gray           Sarah B          6     Miss              pg0270a.txt
+272b  36  Grayson        Sophonesba       66    Va                pg0270a.txt
+280a  42  Green          Grant            25    Ky                pg0270a.txt
+279b  22  Green          Mary C           29    Ky                pg0270a.txt
+279b  21  Green          Nathaniel P      35    Va                pg0270a.txt
+279b  24  Green          Simeon           6     Ky                pg0270a.txt
+279b  23  Green          Winnefred        9     Ky                pg0270a.txt
+279a  22  Griffin        David W          30    Ky                pg0270a.txt
+279a  24  Griffin        John D           1     Ky                pg0270a.txt
+279a  23  Griffin        Nancy            28    Ky                pg0270a.txt
+279a  25  Griffin        Penelope         4     Ky                pg0270a.txt
+
+278a  10  Hackel         George           27    Unknown           pg0270a.txt
+280a  39  Haggin         John             28    Ky                pg0270a.txt
+270a  15  Hamilton       Mary             64    Va                pg0270a.txt
+280a  26  Hancock        Letitia A        24    Ky                pg0270a.txt
+272b  19  Hancock        Lucy F           17    Ky                pg0270a.txt
+280a  25  Hancock        Martin S         36    Va                pg0270a.txt
+280a  27  Hancock        Virginia R       3     Ky                pg0270a.txt
+273b  7   Hardwick       William          17    Ky                pg0270a.txt
+272a  7   Harrison       Sarah            13    Ky                pg0270a.txt
+276b  16  Hart           Charles F        24    Ky                pg0270a.txt
+280a  30  Hart           John B           30    Ky                pg0270a.txt
+272a  8   Haskins        Mary             15    Ky                pg0270a.txt
+275b  25  Hawkins        Joseph           20    Ky                pg0270a.txt
+275b  4   Held           Francis          10/12 Ky                pg0270a.txt
+275b  1   Held           Frederick        6     Ky                pg0270a.txt
+275a  42  Held           Jacob            8     Ky                pg0270a.txt
+275a  40  Held           Jacob            35    Wittenburg        pg0270a.txt
+275b  2   Held           Louisa           5     Ky                pg0270a.txt
+275a  41  Held           Louisa           28    Prussia           pg0270a.txt
+275b  3   Held           Mary A           3     Ky                pg0270a.txt
+275b  21  Helfrich       Francis          26    Bavaria           pg0270a.txt
+272a  6   Henderson      Mary A           39    NC                pg0270a.txt
+279a  35  Hendrick       Burney H         5     Ky                pg0270a.txt
+279a  32  Hendrick       Edward H         32    Ireland           pg0270a.txt
+279a  34  Hendrick       Elizabeth S      6     Ky                pg0270a.txt
+279a  33  Hendrick       Gemima           25    Ky                pg0270a.txt
+279a  37  Hendrick       Henrietta        2/12  Ky                pg0270a.txt
+279a  36  Hendrick       Jessie E         2     Ky                pg0270a.txt
+280a  6   Hewston        Commodore        2     Ky                pg0270a.txt
+280a  3   Hewston        David            6     Ky                pg0270a.txt
+280b  25  Hewston        James            10    Ia                pg0270a.txt
+280a  2   Hewston        Mary A           35    Ia                pg0270a.txt
+280a  5   Hewston        Paris            4     Ky                pg0270a.txt
+280a  4   Hewston        Solomon          6     Ky                pg0270a.txt
+272a  30  Hicks          Alexander G.     11    Ky                pg0270a.txt
+272a  29  Hicks          Child (not named) 2/12 Ky                pg0270a.txt
+272a  25  Hicks          Elizabeth V.     9     Ky                pg0270a.txt
+272a  23  Hicks          James L          31    Ky                pg0270a.txt
+272a  27  Hicks          Laura J          5     Ky                pg0270a.txt
+272a  24  Hicks          Sarah A          27    Va                pg0270a.txt
+272a  31  Hicks          Sarah A.         13    Ky                pg0270a.txt
+272a  26  Hicks          Thomas J         7     Ky                pg0270a.txt
+272a  28  Hicks          William D        2     Ky                pg0270a.txt
+271a  1   Hillyer        Eliza R          37    Ky                pg0270a.txt
+270b  40  Hillyer        George C         2     Ky                pg0270a.txt
+270b  41  Hillyer        James P          3/12  Ky                pg0270a.txt
+270b  39  Hillyer        Minerva F        28    Ky                pg0270a.txt
+270b  38  Hillyer        Philo H          39    Ky                pg0270a.txt
+275a  26  Holeman        Amanda           15    Ia                pg0270a.txt
+272b  4   Holloway       Ann S.           12    Ky                pg0270a.txt
+272b  8   Holloway       Eliza H          3     Ky                pg0270a.txt
+272b  3   Holloway       James H          14    Ky                pg0270a.txt
+272b  7   Holloway       Juliet T         11    Ky                pg0270a.txt
+272b  6   Holloway       Lucy G           7     Ky                pg0270a.txt
+272b  2   Holloway       Mary S.          32    Ky                pg0270a.txt
+272b  5   Holloway       Rebecca          9     Ky                pg0270a.txt
+272b  9   Holloway       William R        1     Ky                pg0270a.txt
+272b  1   Holloway       William S.       37    Ky                pg0270a.txt
+276a  37  Holmes         Joanna           62    NJ                pg0270a.txt
+270a  11  Hopkins        Edmund H.        50    Ky                pg0270a.txt
+270a  12  Hopkins        Mary A           39    Ky                pg0270a.txt
+280b  26  Hopkins        Mary B           54    Va                pg0270a.txt
+270a  13  Hopkins        Mary E.          6     Ky                pg0270a.txt
+270a  14  Hopkins        William R        3     Ky                pg0270a.txt
+279a  30  Horsley        Benjamin         54    Georgia           pg0270a.txt
+279a  31  Horsley        Clara            23    Ky                pg0270a.txt
+272a  2   Howke          Emily            2     Ky                pg0270a.txt
+272a  1   Howke          Sarah J.         20    Ia                pg0270a.txt
+270a  3   Hughes         Margaret A       76    Ky                pg0270a.txt
+273a  21  Hunter         Jane             20    Ia                pg0270a.txt
+
+277a  26  Ingram         James            14    Ky                pg0270a.txt
+277a  22  Ingram         Jane             58    NC                pg0270a.txt
+277a  27  Ingram         Jane             13    Ky                pg0270a.txt
+277a  24  Ingram         Louisa           18    Ky                pg0270a.txt
+277a  23  Ingram         William          22    Ky                pg0270a.txt
+277a  25  Ingram         Wyatt H          17    Ky                pg0270a.txt
+277a  21  Ingram         Wyatt H.         68    Va                pg0270a.txt
+
+278a  31  Jackson        Andrew           17    Ia                pg0270a.txt
+273b  33  Jenner         Jacob            24    Wittemberg        pg0270a.txt
+278b  8   Jerdone        Barbara A        34    Va                pg0270a.txt
+278b  10  Jerdone        Leonora          13    Va                pg0270a.txt
+278b  9   Jerdone        William O        18    Va                pg0270a.txt
+275b  10  Johnson        Adam R           16    Ky                pg0270a.txt
+278b  33  Johnson        Albert C         2     Ky                pg0270a.txt
+275b  8   Johnson        Ben              22    Ky                pg0270a.txt
+275b  13  Johnson        Campbell H       6     Ky                pg0270a.txt
+270b  18  Johnson        Eliza            29    Ky                pg0270a.txt
+274b  20  Johnson        Eliza            18    Ia                pg0270a.txt
+275b  9   Johnson        Elizabeth S.     20    Ky                pg0270a.txt
+270b  19  Johnson        Eugene L         9     Penn              pg0270a.txt
+278b  32  Johnson        George W         5     Ky                pg0270a.txt
+278b  28  Johnson        George W         38    Va                pg0270a.txt
+278b  29  Johnson        Harriet E        35    NY                pg0270a.txt
+270b  20  Johnson        Joseph B         5     Ill               pg0270a.txt
+270b  21  Johnson        Josephine M.     1     Ky                pg0270a.txt
+275b  7   Johnson        Juliet S.        49    Ky                pg0270a.txt
+270b  22  Johnson        Philip L         1/12  Ky                pg0270a.txt
+275b  6   Johnson        Thomas J         49    Ky                pg0270a.txt
+275b  11  Johnson        Thomas J         13    Ky                pg0270a.txt
+278b  31  Johnson        Thomas L         7     Ky                pg0270a.txt
+271b  42  Johnson        William          15    Ky                pg0270a.txt
+278b  30  Johnson        William L        10    Ky                pg0270a.txt
+275b  12  Johnson        William S.       10    Ky                pg0270a.txt
+276b  37  Jones          Alvin L          32    Ky                pg0270a.txt
+279b  4   Jones          Ann E            30    Ky                pg0270a.txt
+279b  3   Jones          Fred'k A         34    Ky                pg0270a.txt
+278a  20  Jones          Sarah            5     Ky                pg0270a.txt
+
+274a  29  Kennerly       And'w J          18    Ia                pg0270a.txt
+275b  17  Kerr           Hugh             40    Scotland          pg0270a.txt
+275a  39  King           William          12    Ky                pg0270a.txt
+276b  14  Knapp          Adam             18    Penn              pg0270a.txt
+276b  13  Knapp          George           23    Penn              pg0270a.txt
+
+277b  10  Lambert        Clarissa         1     Ky                pg0270a.txt
+280b  42  Lambert        D**** J          8     Ky                pg0270a.txt
+270b  23  Lambert        Eliza            46    Ky                pg0270a.txt
+280b  39  Lambert        Fanny B          16    Ky                pg0270a.txt
+277b  11  Lambert        James L          3     Ky                pg0270a.txt
+280b  36  Lambert        Joel             53    Va                pg0270a.txt
+277b  7   Lambert        John H           36    Ky                pg0270a.txt
+277b  9   Lambert        Mary F           6     Ky                pg0270a.txt
+280b  38  Lambert        Philina F        18    Ky                pg0270a.txt
+280b  37  Lambert        Polly            47    Ky                pg0270a.txt
+280b  41  Lambert        Rebecca          11    Ky                pg0270a.txt
+281a  1   Lambert        Sabella          4     Ky                pg0270a.txt
+280b  40  Lambert        Samuel H         13    Ky                pg0270a.txt
+277b  8   Lambert        Sarah W          29    Ky                pg0270a.txt
+280a  33  Lambert        Wm E             31    Ky                pg0270a.txt
+276b  39  Lancaster      John E           20    Ky                pg0270a.txt
+278a  6   Lancaster      William          23    La                pg0270a.txt
+275a  20  Layson         Margaret C       19    Ky                pg0270a.txt
+275a  19  Layson         Robert M         29    Miss              pg0270a.txt
+275a  21  Layson         William B        8/12  Ky                pg0270a.txt
+280a  34  Leight         James S          32    Ky                pg0270a.txt
+273b  42  Leslie         A T              35    Ireland           pg0270a.txt
+274a  1   Leslie         Susan R.         20    Ky                pg0270a.txt
+272a  39  Lester         Allen            20    Ky                pg0270a.txt
+277a  29  Letcher        Emily            24    Ky                pg0270a.txt
+277a  28  Letcher        Robert P.        30    Ky                pg0270a.txt
+276b  40  Lewis          James            37    NC                pg0270a.txt
+276b  41  Lewis          Louranna         36    Ky                pg0270a.txt
+276b  42  Lewis          Mary O           8     Ky                pg0270a.txt
+277a  1   Lewis          Sarah            6     Ky                pg0270a.txt
+277a  2   Lewis          Zelmore          4     Ky                pg0270a.txt
+279b  8   Linham         Rosa             47    Mo                pg0270a.txt
+278a  39  Long           Charles F        35    Wittenburg        pg0270a.txt
+273a  15  Lowrey         Andrew           1     Ky                pg0270a.txt
+273a  9   Lowrey         David            36    Va                pg0270a.txt
+273a  14  Lowrey         David            2     Ky                pg0270a.txt
+273a  10  Lowrey         Harriet          32    Ky                pg0270a.txt
+273a  12  Lowrey         John W           7     Ia                pg0270a.txt
+273a  11  Lowrey         Robert F         11    Ia                pg0270a.txt
+273a  13  Lowrey         Samuel G         4     Ia                pg0270a.txt
+280b  19  Lyne           George           8/12  Ky                pg0270a.txt
+270b  1   Lyne           George           23    Ky                pg0270a.txt
+280b  17  Lyne           Henry            30    Ky                pg0270a.txt
+270b  2   Lyne           James B.         18    Tenn              pg0270a.txt
+280a  31  Lyne           Leonard H        26    Ky                pg0270a.txt
+270a  42  Lyne           Leonard H.       25    Ky                pg0270a.txt
+270a  41  Lyne           Mary C           49    Ky                pg0270a.txt
+280b  18  Lyne           Sally C          27    Ky                pg0270a.txt
+
+278a  12  Mace           James            26    England           pg0270a.txt
+270b  9   Macey          Alexander R.     29    Ky                pg0270a.txt
+270b  11  Macey          Ann M            2     Ky                pg0270a.txt
+270b  10  Macey          Ellen E          26    Ky                pg0270a.txt
+270b  12  Macey          Lizzie R         5/12  Ky                pg0270a.txt
+271b  13  Mackey         Andrew           4     Ky                pg0270a.txt
+271b  11  Mackey         Andrew           30    Ireland           pg0270a.txt
+271b  12  Mackey         Jane             26    Ky                pg0270a.txt
+271b  14  Mackey         Jane             1     Ky                pg0270a.txt
+271b  10  Marshall       Wm J             21    Ky                pg0270a.txt
+279b  14  Martin         Cinthia A.       38    Ky                pg0270a.txt
+279b  15  Martin         Hansford M.      7/12  Ky                pg0270a.txt
+279b  13  Martin         Nathan J         35    Ky                pg0270a.txt
+277a  37  Matthews       Philip B         45    Va                pg0270a.txt
+276a  26  Mayer          George A         58    Baden             pg0270a.txt
+276a  28  Mayer          Jacob F          19    Baden             pg0270a.txt
+276a  27  Mayer          Margaretta       51    Baden             pg0270a.txt
+276a  29  Mayer          Virginius M      17    Md                pg0270a.txt
+280b  24  McBride        Daniel H         13    Ky                pg0270a.txt
+280b  23  McBride        Edward           7/12  Ky                pg0270a.txt
+280b  4   McBride        Edward D         36    Ky                pg0270a.txt
+280b  20  McBride        John             33    Ky                pg0270a.txt
+280b  21  McBride        Lucy J           23    Ky                pg0270a.txt
+280b  22  McBride        William E        6     Ky                pg0270a.txt
+272a  9   McClain        Anne             8     Ky                pg0270a.txt
+271b  1   McClain        Josiah           16    Ky                pg0270a.txt
+271a  42  McClain        Shadrack         16    Ky                pg0270a.txt
+270b  8   McCullagh      James H          1     Ky                pg0270a.txt
+270b  6   McCullagh      Jane H.          5     Ky                pg0270a.txt
+270b  3   McCullagh      John             35    Scotland          pg0270a.txt
+270b  7   McCullagh      John             3     Ky                pg0270a.txt
+270b  4   McCullagh      Lucy M.          27    Ky                pg0270a.txt
+270b  5   McCullagh      Mary L.          7     Ky                pg0270a.txt
+273a  34  McKallister    John             4     Ky                pg0270a.txt
+273a  30  McKallister    Phidelia         35    NY                pg0270a.txt
+273a  31  McKallister    Susan            13    Ky                pg0270a.txt
+273a  32  McKallister    Thomas           8     Ky                pg0270a.txt
+273a  29  McKallister    Thomas           41    Va                pg0270a.txt
+273a  33  McKallister    William          6     Ky                pg0270a.txt
+274b  3   Mcmullin       Robert J.        29    Tenn              pg0270a.txt
+279a  10  McVay          James            24    Ky                pg0270a.txt
+274b  41  Melton         Eli J            29    Ky                pg0270a.txt
+274b  42  Melton         Elizabeth        30    Ky                pg0270a.txt
+275a  3   Melton         Joseph A         2     Ky                pg0270a.txt
+275a  1   Melton         Mary C           5     Ky                pg0270a.txt
+275a  2   Melton         Samuel N         4     Ky                pg0270a.txt
+275a  4   Melton         Victoria         4/12  Ky                pg0270a.txt
+275b  20  Melvin         John             29    Ky                pg0270a.txt
+278b  15  Miller         Jacob N          31    Penn              pg0270a.txt
+278b  18  Miller         James            1     Ky                pg0270a.txt
+278b  16  Miller         Jane             23    Ia                pg0270a.txt
+278b  42  Miller         Mary             42    Ky                pg0270a.txt
+278b  17  Miller         Mary O           4     Ky                pg0270a.txt
+275a  14  Millet         Eugene           12    Ky                pg0270a.txt
+275a  5   Millet         Francis          35    France            pg0270a.txt
+275a  10  Millet         Francis          3     Ky                pg0270a.txt
+275a  9   Millet         Joseph           5     Ky                pg0270a.txt
+275a  7   Millet         Josephine        7     Ia                pg0270a.txt
+275a  8   Millet         Margaret         6     Ky                pg0270a.txt
+275a  6   Millet         Mary             33    France            pg0270a.txt
+275b  42  Minton         Amelia           24    Ia                pg0270a.txt
+276a  3   Minton         Bina M           2     Ia                pg0270a.txt
+275b  41  Minton         Levi D           36    SC                pg0270a.txt
+276a  2   Minton         Martha A         3     Ia                pg0270a.txt
+276a  1   Minton         Martin V         10    Ia                pg0270a.txt
+278a  40  Moffatt        Barak            50    Penn              pg0270a.txt
+277a  39  Monday         Henry            50    Va                pg0270a.txt
+270a  38  Moore          Angeline         7     Ia                pg0270a.txt
+270a  39  Moore          Charles          4     Ia                pg0270a.txt
+270a  36  Moore          Edwin R          19    Ia                pg0270a.txt
+270a  34  Moore          Henry B          41    Va                pg0270a.txt
+270a  35  Moore          Huldah           41    Ia                pg0270a.txt
+270a  37  Moore          Mary J           17    Ia                pg0270a.txt
+272a  40  Morrison       Andrew J.        31    Ky                pg0270a.txt
+272a  41  Morrison       Martha J         21    NY                pg0270a.txt
+273b  6   Moss           Emily            18    Ky                pg0270a.txt
+273a  17  Moss           John             17    Ky                pg0270a.txt
+277b  14  Mullin         Henry            20    Ky                pg0270a.txt
+278b  12  Mullin         Jane P           30    Ky                pg0270a.txt
+277b  17  Mullin         Joshua           14    Ky                pg0270a.txt
+278b  13  Mullin         Juliet E         4     Ky                pg0270a.txt
+277b  15  Mullin         Martha J         17    Ky                pg0270a.txt
+278b  11  Mullin         Peter            36    Penn              pg0270a.txt
+278b  14  Mullin         Samuel           1     Ky                pg0270a.txt
+277b  16  Mullin         William          26    Ky                pg0270a.txt
+278a  9   Myre           Fred'k W         19    Germany           pg0270a.txt
+
+276b  2   Neagley        Catherine        60    Bavaria           pg0270a.txt
+270b  36  Nesler         Isabella         3     Ky                pg0270a.txt
+270b  32  Nesler         John R           16    Ia                pg0270a.txt
+270b  33  Nesler         Mary F           12    Ia                pg0270a.txt
+270b  31  Nesler         Matilda J.       18    Ia                pg0270a.txt
+270b  34  Nesler         Parthena         10    Ia                pg0270a.txt
+270b  30  Nesler         Sarah            39    Ky                pg0270a.txt
+270b  35  Nesler         Sarah E          5     Ky                pg0270a.txt
+270b  37  Nesler         Solomon          4/12  Ky                pg0270a.txt
+270b  29  Nesler         Solomon          39    Ia                pg0270a.txt
+280a  12  Newcomb        Eleazer          26    Maine             pg0270a.txt
+278b  27  Nunn           Annah            2     Ky                pg0270a.txt
+278b  26  Nunn           Henry            4     Ky                pg0270a.txt
+278b  20  Nunn           Jane             34    Ky                pg0270a.txt
+278b  25  Nunn           Maria            6     Miss              pg0270a.txt
+278b  23  Nunn           Mary             13    Ky                pg0270a.txt
+278b  22  Nunn           Sarah            16    Ky                pg0270a.txt
+278b  21  Nunn           Shelby           17    Ky                pg0270a.txt
+278b  24  Nunn           William D        8     Ky                pg0270a.txt
+278b  19  Nunn           William D        42    NC                pg0270a.txt
+
+275a  15  Oliver         Alfred           32    NJ                pg0270a.txt
+275a  17  Oliver         Frances          6/12  Ky                pg0270a.txt
+275a  16  Oliver         Mary A           26    Ky                pg0270a.txt
+275a  18  Oliver         Mary J           2     Ky                pg0270a.txt
+
+278a  28  Pennell        Chauncey M       32    NY                pg0270a.txt
+278a  29  Pennell        Elizabeth E      25    Ky                pg0270a.txt
+277b  35  Phelps         Ann M            7     Ia                pg0270a.txt
+277b  34  Phelps         Elizabeth A      26    SC                pg0270a.txt
+277b  33  Phelps         Joseph H         34    Md                pg0270a.txt
+277b  37  Phelps         Josephine        1     Ky                pg0270a.txt
+277b  36  Phelps         Lucy A           3     Ia                pg0270a.txt
+277b  4   Pirtle         John             13    Ky                pg0270a.txt
+274a  9   Pitts          Elizabeth        24    Tenn              pg0270a.txt
+271b  15  Pitts          Mary J           7     Ky                pg0270a.txt
+275b  33  Pollett        Anna B           22    Ky                pg0270a.txt
+271a  17  Powell         Charles          5     Ky                pg0270a.txt
+271a  16  Powell         James H          11    Ky                pg0270a.txt
+271a  15  Powell         Lazarus W        38    Ky                pg0270a.txt
+271a  18  Powell         Richard          4     Ky                pg0270a.txt
+272b  37  Preston        Hebe C           35    Ky                pg0270a.txt
+280b  1   Pryor          William          25    Ky                pg0270a.txt
+273a  42  Pulter         John             23    Baden             pg0270a.txt
+
+273b  19  Quinn          Elitha           39    Ky                pg0270a.txt
+273b  23  Quinn          Henry S.         14    Ky                pg0270a.txt
+273b  26  Quinn          Holsey E         5     Ky                pg0270a.txt
+273b  22  Quinn          Irena W          16    Ky                pg0270a.txt
+273b  25  Quinn          James C          6     Ky                pg0270a.txt
+273b  21  Quinn          John A J         18    Ky                pg0270a.txt
+273b  24  Quinn          Mary I.          10    Ky                pg0270a.txt
+273b  27  Quinn          Rebecca S.       2     Ky                pg0270a.txt
+273b  20  Quinn          William A        20    Ky                pg0270a.txt
+273b  18  Quinn          William F        43    Ky                pg0270a.txt
+
+279b  16  Rachdein       John T.          24    Germany           pg0270a.txt
+270b  26  Rankin         Adam             15    Ky                pg0270a.txt
+271b  29  Rankin         Alexander        11    Ky                pg0270a.txt
+271b  30  Rankin         Ann E            9     Ky                pg0270a.txt
+271b  26  Rankin         Ann E            35    Ky                pg0270a.txt
+271b  32  Rankin         Coalter W        3     Ky                pg0270a.txt
+270b  25  Rankin         Frances          54    Va                pg0270a.txt
+270b  27  Rankin         Gevatkin         13    Ky                pg0270a.txt
+271b  25  Rankin         James E          39    Ky                pg0270a.txt
+271b  28  Rankin         James E          13    Ky                pg0270a.txt
+270b  28  Rankin         Juliet S.        9     Ky                pg0270a.txt
+271b  27  Rankin         Samuel W         14    Ky                pg0270a.txt
+271b  31  Rankin         Sarah A          5     Ky                pg0270a.txt
+270b  24  Rankin         William          55    Ky                pg0270a.txt
+270a  32  Read           Nannie W         7     Ky                pg0270a.txt
+270a  31  Read           Susan H          32    Ky                pg0270a.txt
+270a  30  Read           William S.       37    Va                pg0270a.txt
+274b  6   Reigler        Althea           6     Ky                pg0270a.txt
+274b  5   Reigler        Elizabeth        23    Hesse             pg0270a.txt
+274b  7   Reigler        Henry            2     Ky                pg0270a.txt
+274b  8   Reigler        James            1/12  Ky                pg0270a.txt
+274b  4   Reigler        Louis            36    Baden             pg0270a.txt
+275a  11  Reutlinger     William          23    Frankfort on the Maine pg0270a.txt
+273a  40  Rhodes         Elna             1     Ky                pg0270a.txt
+273a  35  Rhodes         Joseph           33    Ohio              pg0270a.txt
+273a  36  Rhodes         Louisa           37    Va                pg0270a.txt
+273a  37  Rhodes         Mary E.          10    Ohio              pg0270a.txt
+273a  39  Rhodes         Moses            3     Ky                pg0270a.txt
+273a  38  Rhodes         Susanna          7     Ia                pg0270a.txt
+274a  42  Ricketts       James E          22    Md                pg0270a.txt
+278a  26  Robertson      Jesse            26    Md                pg0270a.txt
+278a  27  Robertson      Martha S         23    Ohio              pg0270a.txt
+274b  14  Roemer         Adolph           27    Bavaria           pg0270a.txt
+271a  7   Ross           Ann M            1     Ky                pg0270a.txt
+271a  6   Ross           Francis L        6     Ky                pg0270a.txt
+271a  4   Ross           James C          9     Ky                pg0270a.txt
+271a  3   Ross           Mary E           27    Ky                pg0270a.txt
+271a  5   Ross           William H        8     Ky                pg0270a.txt
+271a  2   Ross           William J.       34    Ohio              pg0270a.txt
+279a  6   Rouse          Ann E            31    Va                pg0270a.txt
+279a  3   Rouse          Elizabeth        86    Va                pg0270a.txt
+276b  24  Rouse          Emma             3/12  Ia                pg0270a.txt
+279a  8   Rouse          George           9/12  Va                pg0270a.txt
+280a  22  Rouse          Georgeanna       1     Ky                pg0270a.txt
+280a  17  Rouse          Hansford E       40    Ky                pg0270a.txt
+276b  9   Rouse          Isabella A       17    Ky                pg0270a.txt
+276b  8   Rouse          Jacob S          20    Ky                pg0270a.txt
+276b  3   Rouse          James            54    Va                pg0270a.txt
+276b  10  Rouse          James S          15    Ky                pg0270a.txt
+280a  20  Rouse          John W           5     Ky                pg0270a.txt
+276b  23  Rouse          Leonard J.       2     Ky                pg0270a.txt
+280a  23  Rouse          Lucy             64    Va                pg0270a.txt
+280a  18  Rouse          Martha H         27    Ky                pg0270a.txt
+279a  7   Rouse          Mary A           4     Va                pg0270a.txt
+280a  19  Rouse          Mary F           7     Ky                pg0270a.txt
+279a  5   Rouse          Robert G         45    Ky                pg0270a.txt
+276b  5   Rouse          Robert G         23    Ky                pg0270a.txt
+280a  21  Rouse          Samuel W         3     Ky                pg0270a.txt
+276b  11  Rouse          Sarah G          13    Ky                pg0270a.txt
+276b  4   Rouse          Sarah K.         45    Ky                pg0270a.txt
+276b  6   Rouse          Susan G          21    Ky                pg0270a.txt
+275b  24  Rudy           Daniel           30    Ky                pg0270a.txt
+270a  2   Ruggles        Franklin C.      17    Ky                pg0270a.txt
+270a  1   Ruggles        Rebecca          51    Ky                pg0270a.txt
+
+276a  6   Sandefur       Algenon          12    Ky                pg0270a.txt
+276a  10  Sandefur       Archebald D.     4     Ky                pg0270a.txt
+276a  7   Sandefur       Charles H        10    Ky                pg0270a.txt
+276a  8   Sandefur       Eliza J          8     Ky                pg0270a.txt
+276a  9   Sandefur       John T.          6     Ky                pg0270a.txt
+276a  11  Sandefur       Martha C         2     Ky                pg0270a.txt
+276a  5   Sandefur       Permelia         29    Ohio              pg0270a.txt
+276a  12  Sandefur       William          1/12  Ky                pg0270a.txt
+276a  4   Sandefur       William H        36    Ky                pg0270a.txt
+275b  18  Saunders       Robert A.        33    Va                pg0270a.txt
+276b  15  Schaeffer      Theobold         24    France            pg0270a.txt
+274b  26  Schimmel       Caroline         1     Ky                pg0270a.txt
+274b  22  Schimmel       Catharine        30    France            pg0270a.txt
+274b  24  Schimmel       Catherine        11    Ia                pg0270a.txt
+274b  25  Schimmel       Charles          5     Ky                pg0270a.txt
+274b  21  Schimmel       Charles          41    France            pg0270a.txt
+274b  23  Schimmel       Louis            9     Ia                pg0270a.txt
+276a  40  Schott         Barbara          24    Bavaria           pg0270a.txt
+276b  1   Schott         Caroline         1/12  Ky                pg0270a.txt
+276a  42  Schott         Francis J.       2     Ky                pg0270a.txt
+276a  41  Schott         Mary             3     Ky                pg0270a.txt
+276a  39  Schott         Philip M         28    France            pg0270a.txt
+274a  8   Seeds          Alexander        23    Ohio              pg0270a.txt
+279a  4   Selby          Samuel           70    Va                pg0270a.txt
+274a  33  Semonin        Catherine        13    NY                pg0270a.txt
+274a  31  Semonin        Frances          54    France            pg0270a.txt
+274a  30  Semonin        John B           64    France            pg0270a.txt
+274a  34  Semonin        Joseph           8     Ia                pg0270a.txt
+273b  36  Semonin        Martha A         20    Va                pg0270a.txt
+274a  32  Semonin        Paul F           19    France            pg0270a.txt
+273b  35  Semonin        Peter            25    France            pg0270a.txt
+274a  35  Semonin        Seraphim         6     Ia                pg0270a.txt
+277b  19  Shaw           Emily            25    Miss              pg0270a.txt
+277b  21  Shaw           James A          1     Ky                pg0270a.txt
+277b  18  Shaw           John M           32    Penn              pg0270a.txt
+277b  20  Shaw           John N           3     Ky                pg0270a.txt
+270a  33  Shelby         Alfred           18    Ky                pg0270a.txt
+270a  40  Simmons        William          25    Ky                pg0270a.txt
+273a  27  Skeen          Ann E            4     Ky                pg0270a.txt
+273a  26  Skeen          Hellen           6     Ky                pg0270a.txt
+273a  22  Skeen          Isaiah           35    Penn              pg0270a.txt
+273a  23  Skeen          Julia A          35    Ohio              pg0270a.txt
+273a  24  Skeen          Leander T.       11    Ohio              pg0270a.txt
+273a  28  Skeen          Samuel T         1     Ky                pg0270a.txt
+273a  25  Skeen          William A        9     Ky                pg0270a.txt
+271a  12  Slattery       George           31    Ireland           pg0270a.txt
+278a  7   Slattery       George           30    Ireland           pg0270a.txt
+272a  12  Smith          Adelle T         10    Ky                pg0270a.txt
+272a  15  Smith          Edward P.        8/12  Ark               pg0270a.txt
+279b  38  Smith          Judith           54    Va                pg0270a.txt
+278b  6   Smith          Lavinia          60    Va                pg0270a.txt
+272a  13  Smith          Mary J           8     Ky                pg0270a.txt
+272a  11  Smith          Mary T           33    Ky                pg0270a.txt
+277a  38  Smith          Stephen P        24    Va                pg0270a.txt
+275b  34  Smith          Susan A          24    Ky                pg0270a.txt
+275b  35  Smith          Susan B          4     Ky                pg0270a.txt
+272a  14  Smith          Virginia         3     Ky                pg0270a.txt
+279b  37  Smith          William F        62    Ky                pg0270a.txt
+272b  42  Snyder         Sarah            12    Ia                pg0270a.txt
+276b  36  Spalding       Margaret         22    Ky                pg0270a.txt
+276b  35  Spalding       Samuel P         24    Ky                pg0270a.txt
+279a  16  Speidel        John             11    Ky                pg0270a.txt
+279a  21  Stapp          Alexander        19    Ky                pg0270a.txt
+279b  34  Stapp          Ann M            2     Ky                pg0270a.txt
+279b  33  Stapp          Arthusa A        24    Ky                pg0270a.txt
+279b  35  Stapp          John A           1     Ky                pg0270a.txt
+279b  32  Stapp          John C           27    Ky                pg0270a.txt
+279a  17  Stapp          Martha           65    England           pg0270a.txt
+279b  36  Stapp          Shelton          22    Ky                pg0270a.txt
+275b  40  Starling       Ann M            1     Ky                pg0270a.txt
+275b  38  Starling       Lyne             30    Ky                pg0270a.txt
+275b  39  Starling       Mary H           23    Ky                pg0270a.txt
+271a  21  Steel          Cyrus            12    Ia                pg0270a.txt
+271a  22  Steel          Elizabeth        8     Ia                pg0270a.txt
+271a  24  Steel          George H.        4     Ky                pg0270a.txt
+271a  25  Steel          Laura J          3     Ky                pg0270a.txt
+271a  20  Steel          Mary             36    England           pg0270a.txt
+271a  23  Steel          Oliver B         6     Ia                pg0270a.txt
+271a  19  Steel          William          43    Ky                pg0270a.txt
+276a  34  Stewart        Charles T        4/12  Ia                pg0270a.txt
+276a  32  Stewart        Elizabeth        14    Scotland          pg0270a.txt
+276a  31  Stewart        Sarah E.         23    Ia                pg0270a.txt
+276a  30  Stewart        William          37    Scotland          pg0270a.txt
+276a  33  Stewart        William          10    Scotland          pg0270a.txt
+271b  9   Stiles         Lucy F           8     Ky                pg0270a.txt
+271b  6   Stiles         Rebecca          49    Va                pg0270a.txt
+271b  8   Stiles         Rebecca          14    Ky                pg0270a.txt
+271b  7   Stiles         Richard          18    Ky                pg0270a.txt
+271b  5   Stiles         Samuel           58    Penn              pg0270a.txt
+276b  19  Stone          William L        40    Va                pg0270a.txt
+278a  30  Straat         John N           23    NY                pg0270a.txt
+274a  20  Swan           Agnes M          12    Ohio              pg0270a.txt
+274a  18  Swan           Helen W          40    Scotland          pg0270a.txt
+274a  21  Swan           Helena E         4     Ohio              pg0270a.txt
+274a  17  Swan           John             50    Ireland           pg0270a.txt
+274a  19  Swan           John             15    Md                pg0270a.txt
+274a  22  Swan           William S        3     Ky                pg0270a.txt
+
+280a  40  Tarrar         George W         28    Va                pg0270a.txt
+280a  41  Tarrar         Maria J          19    Ky                pg0270a.txt
+273a  16  Taylor         James            29    Va                pg0270a.txt
+276b  38  Taylor         William G        20    Ohio              pg0270a.txt
+276a  38  Temple         Fanny            60    Va                pg0270a.txt
+279b  18  Thompson       Isabella V       11    Ky                pg0270a.txt
+279b  19  Thompson       Sarah E          10    Ky                pg0270a.txt
+279b  17  Thompson       William F        54    Va                pg0270a.txt
+280b  3   Thompson       William N        26    Ky                pg0270a.txt
+280a  35  Thornsberry    Wm F             25    Ky                pg0270a.txt
+272b  32  Thornton       Beverly C        7     Ky                pg0270a.txt
+272b  33  Thornton       Churchill        4     Ky                pg0270a.txt
+280b  28  Thornton       Jenny            42    Va                pg0270a.txt
+272b  30  Thornton       Lucy M           45    Va                pg0270a.txt
+272b  31  Thornton       Reubina          8     Ky                pg0270a.txt
+280b  27  Thornton       Robert           53    Va                pg0270a.txt
+272a  5   Toliver        James C          19    Ky                pg0270a.txt
+272a  4   Toliver        John N.          25    Ky                pg0270a.txt
+279b  26  Toliver        Lattiece         45    SC                pg0270a.txt
+279b  25  Toliver        Lawrence W       49    Ky                pg0270a.txt
+279b  30  Toliver        Mariam M         13    Ky                pg0270a.txt
+279b  29  Toliver        Marshall H       21    Ky                pg0270a.txt
+279b  31  Toliver        Messaniah        23    Ky                pg0270a.txt
+279b  27  Toliver        Thomas C         28    Ky                pg0270a.txt
+279b  28  Toliver        William T        24    Ky                pg0270a.txt
+280a  16  Tollman        Caleb            18    Maine             pg0270a.txt
+270a  7   Towles         Ann              10    Ky                pg0270a.txt
+270a  10  Towles         Betty            2     Ky                pg0270a.txt
+270a  9   Towles         Henry            3     Ky                pg0270a.txt
+270a  5   Towles         Judith           30    Ky                pg0270a.txt
+270a  8   Towles         Martha           5     Ky                pg0270a.txt
+270a  6   Towles         Mary             11    Ky                pg0270a.txt
+270a  4   Towles         Thomas Jr        39    Md                pg0270a.txt
+278a  23  Tribble        DeWitt C         2     Ia                pg0270a.txt
+278a  22  Tribble        Lucinda          29    Ky                pg0270a.txt
+278a  21  Tribble        Milton H         30    Ky                pg0270a.txt
+
+280a  37  Uncett         David H          27    Ky                pg0270a.txt
+
+272b  27  Van Bussam     Alexander        11    Ky                pg0270a.txt
+272b  28  Van Bussam     Alice            4     Ky                pg0270a.txt
+272b  22  Van Bussam     Amanda           22    Ky                pg0270a.txt
+272b  25  Van Bussam     Amelia           15    Ky                pg0270a.txt
+272b  23  Van Bussam     Matthew          20    Ky                pg0270a.txt
+272b  21  Van Bussam     Nancy            44    Va                pg0270a.txt
+272b  24  Van Bussam     Nancy            17    Ky                pg0270a.txt
+272b  20  Van Bussam     Philip           53    NJ                pg0270a.txt
+272b  26  Van Bussam     Philip           13    Ky                pg0270a.txt
+271a  36  VanSant        Anne E           14    Ky                pg0270a.txt
+271a  37  VanSant        Genet R          12    Ky                pg0270a.txt
+271a  38  VanSant        Hannah M.        8     Ky                pg0270a.txt
+271a  35  VanSant        Maria            37    Ky                pg0270a.txt
+271a  39  VanSant        Mary E           6     Ky                pg0270a.txt
+271a  40  VanSant        William          9/12  Ky                pg0270a.txt
+271a  34  VanSant        William B.       39    Md                pg0270a.txt
+280a  14  Vize           Jerome S         28    Ky                pg0270a.txt
+
+274a  10  Walker         Eliza F.         52    Va                pg0270a.txt
+274a  11  Walker         Francis E.       26    Ky                pg0270a.txt
+274b  19  Walker         James            1     Ia                pg0270a.txt
+274a  12  Walker         James B          14    Ky                pg0270a.txt
+274b  16  Walker         James H          26    Ohio              pg0270a.txt
+274b  18  Walker         Jane             3     Ky                pg0270a.txt
+274b  17  Walker         Rachael          21    Ia                pg0270a.txt
+280b  13  Warner         Henry M          28    Mass              pg0270a.txt
+274b  40  Watkins        Charles G.       13    Ky                pg0270a.txt
+276a  15  Weaver         Albert B         20    Ky                pg0270a.txt
+276a  14  Weaver         Eliza            44    Ky                pg0270a.txt
+276a  13  Weaver         Littleberry      53    Va                pg0270a.txt
+276a  17  Weaver         Mary R           11    Ky                pg0270a.txt
+276a  16  Weaver         Matilda D        17    Ky                pg0270a.txt
+275a  30  Weller         Ann E            10    Ky                pg0270a.txt
+275a  27  Weller         Benjamin         46    Ky                pg0270a.txt
+275a  31  Weller         Benjamin O       6     Ky                pg0270a.txt
+275a  32  Weller         John T.          3     Ky                pg0270a.txt
+275a  28  Weller         Juliet           37    Ky                pg0270a.txt
+275a  29  Weller         William H        12    Ky                pg0270a.txt
+273b  8   Wetzell        James            21    Ky                pg0270a.txt
+276b  7   Wheatley       Martha A         21    Ky                pg0270a.txt
+280a  13  White          James            33    Va                pg0270a.txt
+280b  15  White          Larkin, Jr       29    Ky                pg0270a.txt
+280b  16  White          Robert           22    Ky                pg0270a.txt
+277a  13  Whiting        Ann E            9     Ia                pg0270a.txt
+277a  10  Whiting        Loring           4*    Mass              pg0270a.txt
+277a  14  Whiting        Mary J           1     Ky                pg0270a.txt
+277a  11  Whiting        Sarah B          39    NC                pg0270a.txt
+277a  12  Whiting        William L        11    Ia                pg0270a.txt
+274b  36  Williams       Anthony          66    NC                pg0270a.txt
+274b  37  Williams       Ellen J          62    Penn              pg0270a.txt
+274b  39  Williams       Ellen M          17    Ky                pg0270a.txt
+274b  38  Williams       James W          21    Ky                pg0270a.txt
+276b  27  Wilson         Ann M            19    Ky                pg0270a.txt
+277a  19  Wilson         Annah            3     Ky                pg0270a.txt
+277b  3   Wilson         Charity R        2     Ky                pg0270a.txt
+277b  27  Wilson         Daniel L         26    Ky                pg0270a.txt
+277b  1   Wilson         Eliza            6     Ky                pg0270a.txt
+277b  29  Wilson         George M         3     Ky                pg0270a.txt
+277a  15  Wilson         James            36    Va                pg0270a.txt
+277a  17  Wilson         John P           9     Ky                pg0270a.txt
+276b  25  Wilson         John P           45    Va                pg0270a.txt
+277a  42  Wilson         Juliet A         8     Ky                pg0270a.txt
+277b  28  Wilson         Lydia            22    Mass              pg0270a.txt
+276b  26  Wilson         Maria L          48    Ky                pg0270a.txt
+277a  41  Wilson         Martha E         26    Ill               pg0270a.txt
+277a  20  Wilson         Mary             1     Ky                pg0270a.txt
+277b  2   Wilson         Mary E           4     Ky                pg0270a.txt
+277a  16  Wilson         Mary F           27    Ky                pg0270a.txt
+277a  40  Wilson         Stephen R        39    NC                pg0270a.txt
+277b  30  Wilson         Susan            1     Ky                pg0270a.txt
+277a  18  Wilson         Wyatt I          7     Ky                pg0270a.txt
+276a  25  Wineng         William          25    Bavaria           pg0270a.txt
+270b  42  Winter         Leonard W        12    Ky                pg0270a.txt
+276b  22  Woods          Joseph D         28    Ky                pg0270a.txt
+270b  16  Worsham        America T.       14    Ky                pg0270a.txt
+270b  13  Worsham        Margaret         48    Ky                pg0270a.txt
+270b  15  Worsham        Mary L           16    Ky                pg0270a.txt
+270b  14  Worsham        Nancy J.         23    Ky                pg0270a.txt
+270b  17  Worsham        Rebecca E        9     Ky                pg0270a.txt
+271a  26  Yeargain       Chesley M.       34    NC                pg0270a.txt
+271a  27  Yeargain       Maria L.         26    Ky                pg0270a.txt
+
+276b  12  Young          J A              37    Ky                pg0270a.txt
+272a  42  Young          Margaret M       39    Ireland           pg0270a.txt

@@ -1179,3 +1179,145 @@ Same map, county preview — 33-8 in Magisterial District 2 Millers Creek; Stati
 ![Scott 480B William Newham](sources/census/pass128/keyplates/scott-480b-william-newham-38.jpg)
 
 **Source:** S1302 · C1662
+
+## 1850 — Shelby Newman rejects (pass 130)
+
+1850 U.S. census, Shelby County, 361B — Izza[?]/Izzy[?] Newman 27. Rejected versus William.
+
+![Shelby 361B Newman 27](sources/census/pass130/keyplates/shelby-361b-newman-27.jpg)
+
+**Source:** S1323 · C1679
+
+1850 U.S. census, Shelby County, 380B — John A. Newman 38 × Mary 45. Rejected versus William.
+
+![Shelby 380B John A](sources/census/pass130/keyplates/shelby-380b-john-a-newman.jpg)
+
+**Source:** S1324 · C1680
+
+1850 U.S. census, Shelby County, 385A — Isaac Newman 50, Pennsylvania. Rejected versus William.
+
+![Shelby 385A Isaac](sources/census/pass130/keyplates/shelby-385a-isaac-newman.jpg)
+
+**Source:** S1325 · C1681
+
+## 1850 — Nelson Newman rejects (pass 130)
+
+1850 U.S. census, Nelson County, 278B/279A — Henry Newman 39, cabinet maker, × Elizabeth 29. Rejected versus William.
+
+![Nelson 278B Henry](sources/census/pass130/keyplates/nelson-true-278b-footer.jpg)
+
+**Source:** S1333 · C1690
+
+1850 U.S. census, Nelson County, 315A — John Newman 60, farmer $3,000. Rejected versus William.
+
+![Nelson 315A John 60](sources/census/pass130/keyplates/nelson-true-315a-john60.jpg)
+
+**Source:** S1335 · C1691
+
+1850 U.S. census, Nelson County, 325A — Wm Newman 31 × S. 23. Rejected versus William.
+
+![Nelson 325A Wm 31](sources/census/pass130/keyplates/nelson-true-325a-w31.jpg)
+
+**Source:** S1337 · C1692
+
+## 1850 — Hardin / Logan / Christian Newman rejects (pass 131)
+
+1850 U.S. census, Hardin County, 366A — John A. Newman 11 in Isaac Rodgers house. Rejected versus William.
+
+![Hardin 366A John A 11](sources/census/pass131/keyplates/hardin-366a-john-a-newman-11.jpg)
+
+**Source:** S1367 · C1709
+
+1850 U.S. census, Logan County, 47B — Harriet Newman 13 in Elis E. Temple house. Rejected versus a living head.
+
+![Logan 47B Harriet](sources/census/pass131/keyplates/logan-47b-harriet-newman-13.jpg)
+
+**Source:** S1372 · C1713
+
+1850 U.S. census, Logan County, 96B — Henry Newman 51, Virginia. Rejected versus William.
+
+![Logan 96B Henry](sources/census/pass131/keyplates/logan-96b-henry-newman-51.jpg)
+
+**Source:** S1373 · C1714
+
+1850 U.S. census, Logan County, 114A — Thomas Newman 26 × Sophia 23. Rejected versus William.
+
+![Logan 114A Thomas](sources/census/pass131/keyplates/logan-114a-thomas-newman-26.jpg)
+
+**Source:** S1374 · C1715
+
+1850 U.S. census, Logan County, 124B — Wesley C. Newman 29 × Winifred 29. Rejected versus William.
+
+![Logan 124B Wesley](sources/census/pass131/keyplates/logan-124b-wesley-c-newman-29.jpg)
+
+**Source:** S1375 · C1716
+
+1850 U.S. census, Christian County, 423A — John A. Newman 24, clerk. Rejected versus William.
+
+![Christian 423A John A 24](sources/census/pass131/keyplates/christian-423a-john-a-newman-24.jpg)
+
+**Source:** S1377 · C1719
+
+1850 U.S. census, Christian County, 441A — Ed L. Newman 30, grocer. Rejected versus William.
+
+![Christian 441A Ed L](sources/census/pass131/keyplates/christian-441a-edward-l-newman-30.jpg)
+
+**Source:** S1378 · C1720
+
+## 1850 — Boone / Kenton Shepard / Barren (pass 132 remainder)
+
+1850 U.S. census, Boone County, 218A — Daniel Newman 32, laborer, + Louisiana 18 in a Ferguson house. Rejected versus William.
+
+![Boone 218A Daniel 32](sources/census/pass135/keyplates/boone-218a-daniel-newman-32.jpg)
+
+**Source:** S1389 · C1736
+
+1850 U.S. census, Kenton County, 221B — Shepard Newman 32, blacksmith $1,200. Rejected versus William.
+
+![Kenton 221B Shepard](sources/census/pass131/keyplates/kenton-221b-shepard-head.jpg)
+
+**Source:** S1391 · C1739
+
+1850 U.S. census, Barren County, 344A — Benja Newman 17 in William Edmunds house (filename says george). Rejected versus a living head.
+
+![Barren 344A Benja 17](sources/census/pass133/keyplates/barren-344a-george-newman-17.jpg)
+
+**Source:** S1440 · C1775
+
+1850 U.S. census, Barren County, 345B — Christopher Newman 50, farmer $40. Rejected versus William.
+
+![Barren 345B Christopher](sources/census/pass135/keyplates/barren-345b-christopher-newman-37.jpg)
+
+**Source:** S1396 · C1744
+
+1850 U.S. census, Barren County, 428A — William B. Newman 30, merchant $1,730. Rejected versus William × Jane.
+
+![Barren 428A William B](sources/census/pass135/keyplates/barren-428a-william-b-newman-30.jpg)
+
+**Source:** S1398 · C1746
+
+## 1850 — Edmonson / Hancock / Hopkins (pass 137)
+
+1850 U.S. census, Edmonson County, 4A — Alexander Newman 73 in Henry Conner house. Rejected versus a living head.
+
+![Edmonson 4A Alexander 73](sources/census/pass137/keyplates/edmonson-4a-alexander-newman-73.jpg)
+
+**Source:** S1431 · C1767
+
+1850 U.S. census, Edmonson County, 11B — William Newman 30, labourer, in Isaac A. Cooke house. Rejected versus William × Jane.
+
+![Edmonson 11B William 30](sources/census/pass137/keyplates/edmonson-11b-william-newman-30.jpg)
+
+**Source:** S1432 · C1768
+
+1850 U.S. census, Hancock County, 295A — William Newman 26 × Catharine O. 17 + Louisa 4/12. Exact age match; rejected versus Owsley household 311.
+
+![Hancock 295A William 26](sources/census/pass137/keyplates/hancock-295a-william-newman-26.jpg)
+
+**Source:** S1435 · C1771
+
+1850 U.S. census, Hopkins County, District 2 — Francis J. Newman 28 × Mary J. 25 + Elizabeth 1. Rejected versus William × Jane.
+
+![Hopkins Francis J 28](sources/census/pass136/keyplates/hopkins-n0238-francis-j-newman-28.jpg)
+
+**Source:** S1441 · C1776

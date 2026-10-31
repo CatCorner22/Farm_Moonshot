@@ -344,7 +344,7 @@ Place as it was *at the date*; modern equivalent in brackets. Flag impossibiliti
 | Apr 1930 | Riddell & Thomas | FAN **PROVEN** as reject: **Nennian, Ray** **38** + Malinda **38** + six children — **not** Boyd+Allie | Estill Co., KY | C1278 | S972 |
 | Apr 1930 | — | FAN **PROVEN** as header: leaf **897** = **33-12** Forks **1A** stamped **155**. Names not walked | Estill Co., KY | C1280 | S971 |
 | Apr 1930 | — | FAN **PROVEN** as compiled-index: Lee 1930 EDs **1–11** **nil** Boyd Newman/Newnam head | Lee Co., KY | C1287 | S405 |
-| 1 Jun 1850 | — | FAN **PROVEN** as image: 1850 Owsley **299A–300B** visually read. Harrison Newman **33** + John Newman **23** + John Newman **60**. **No** William × Rhoda couple. WikiTree 299b ln **22** = **William Tincher 21** — Francis-on-that-line **DISPROVED** | Owsley Co., KY | C1288–C1293 | S978 S979 S980 |
+| 1 Jun 1850 | — | FAN **PROVEN** as image: 1850 Owsley **299A–300B** visually read. Harrison Newman **33** + John Newman **23** + John Newman **60**. **No** William × Rhoda couple. Prior “ln 22 = William Tincher 21” **WITHDRAWN** — ln **22** is Francis **4 F** in hh **311** (**C1608**); William Tincher **21** is ln **26** | Owsley Co., KY | C1288–C1293 C1608 C1609 | S978 S979 S980 S1263 |
 | 14 Jul 1860 | Proctor | FAN **PROVEN** as image: 1860 Owsley stamped **353** (IA reel **391** leaf **n0355**). **389/389 Rhoda Newman 37 widow** + Decatur **14** + Leaner **12** + Elihu **8** + **B.F. 7** + Rebecca J **5**. William husband **absent** | Owsley Co., KY | C1319 C1320 C1321 | S998 S999 |
 | 9 Jul 1860 | Booneville | FAN **PROVEN** as image: 1860 Owsley p. **54**. **364/364 H.H. Newman 44** + Susan **36** + William **20** + **Elias 18**. Elias **PROBABLE** P004. William **20** **not** Rhoda’s husband | Owsley Co., KY | C1318 | S997 S1002 |
 | 17 Jun 1870 | Travellers Rest | FAN **PROVEN** as image (re-seen): dw **128** **Rhoda 45** + Elihu **20** + **Benjamin F. 17** + Rebecca J **15**. Elias dw **131** same page | Owsley Co., KY | C1294 | S981 S231 S1003 |
@@ -435,6 +435,36 @@ Place as it was *at the date*; modern equivalent in brackets. Flag impossibiliti
 | **24 Aug 1850** | Scott Dist 2 stamp **475B** | FAN **PROVEN** as image + reject: hh **411 John B. Newham 47** × Mahala **47** + James **25** | Scott Co., KY | C1661 | S1301 |
 | **27 Aug 1850** | Scott Dist 2 stamp **480B** | FAN **PROVEN** as image + reject: hh **478 William Newham 38** × Sarah **40** | Scott Co., KY | C1662 | S1302 |
 | 1850 | Spencer | FAN **PROVEN** as compiled-index: Simeon **42** / Geo. W. **41** / Thomas **53** + William H **21** son. County **CLOSED** compiled | Spencer Co., KY | C1665 | S1303 |
+| **1850** | Shelby **361B** hh **310/324** | FAN **PROVEN** as image + reject: Izza[?]/Izzy[?]/Izra[?] Newman **27** keeps-groom[?] + female **26** + Maranda[?] **4** + Mary **2** + Elizabeth **30** + infant | Shelby Co., KY | C1679 | S1323 |
+| **1850** | Shelby **380B** hh **557** | FAN **PROVEN** as image + reject: John A. Newman **38** × Mary **45** + James **23** + John **17** | Shelby Co., KY | C1680 | S1324 |
+| **1850** | Shelby **385A** hh **676** | FAN **PROVEN** as image + reject: Isaac Newman **50** PA farmer **$1213** + John **14** + Isaac **12** | Shelby Co., KY | C1681 | S1325 |
+| 1850 | Shelby | FAN **PROVEN** as compiled + originals: SK Newman pages **CLOSED**. County **CLOSED** for the living-head hunt | Shelby Co., KY | C1682 | S1322–S1325 |
+| **1 Aug 1850** | Kenton Dist 2 stamp **226** | FAN **PROVEN** as image: reel **208** n0253 Dist 2 start. **226B/261B/268A/270B** IMAGE SEEN nil Newman. Dist 2 SK **CLOSED** slack | Kenton Co., KY | C1683–C1688 | S1326–S1331 |
+| **2 Aug 1850** | Nelson Dist 1 **278B/279A** | FAN **PROVEN** as image + reject: hh **78 Henry Newman 39** cabinet maker × Elizabeth **29** + Sarah Hutchings **13** | Nelson Co., KY | C1690 | S1333 S1334 |
+| **28 Aug 1850** | Nelson Dist 1 **315A/B** | FAN **PROVEN** as image + reject: hh **569 John Newman 60** farmer **$3000** + E **60** + W **21** (son) | Nelson Co., KY | C1691 | S1335 S1336 |
+| **4 Sep 1850** | Nelson Dist 1 **325A** | FAN **PROVEN** as image + reject: hh **711 Wm Newman 31** × S **23** + M **4 F** | Nelson Co., KY | C1692 | S1337 |
+| **27 Aug 1850** | Nelson Dist 2 **386A/B** | FAN **PROVEN** as image + negative: nil Newman. SK Newman pages **CLOSED**. County **CLOSED** | Nelson Co., KY | C1693 C1694 | S1338 |
+| 1850 | Fayette / Daviess / Bullitt | FAN **PROVEN** as compiled-index: no Newman/Tincher living-head. Counties **CLOSED** compiled | KY | C1695 | S1339–S1341 |
+| **7 Sep 1850** | Hardin Dist 3 **366A** hh **178** | FAN **PROVEN** as image + reject: John A. Newman **11** + Calvin[?] **10** + Francis **7 F** in Isaac Rodgers **56** house. County **CLOSED** | Hardin Co., KY | C1709 | S1367 |
+| **12 Oct 1850** | Logan Dist 1 **47B** | FAN **PROVEN** as image + reject: Harriet Newman **13 F** in Elis E. Temple house | Logan Co., KY | C1713 | S1372 |
+| **6 Sep 1850** | Logan Dist 2 **96B** | FAN **PROVEN** as image + reject: Henry Newman **51** Va farmer **$434** + Charles **24** + Reuben **17** | Logan Co., KY | C1714 | S1373 |
+| **4 Oct 1850** | Logan Dist 2 **114A** | FAN **PROVEN** as image + reject: Thomas Newman **26** Va × Sophia **23** Ky + three children | Logan Co., KY | C1715 | S1374 |
+| **23 Oct 1850** | Logan Dist 2 **124B** | FAN **PROVEN** as image + reject: Wesley C. Newman **29** × Winifred **29**. County **CLOSED** | Logan Co., KY | C1716 C1717 | S1375 |
+| **17 Oct 1850** | Christian Dist 2 **423A** | FAN **PROVEN** as image + reject: John A. Newman **24** clerk Tenn + Ann W **22** | Christian Co., KY | C1719 | S1377 |
+| **17 Aug 1850** | Christian Dist 1 **441A** | FAN **PROVEN** as image + reject: Ed L. Newman **30** grocer S.C. + Rosella **24** + Wm C **2**. County **CLOSED** | Christian Co., KY | C1720 C1721 | S1378 |
+| 1850 | Ohio | FAN **PROVEN** as compiled-index: NEWCOM / NEWTON only. County **CLOSED** compiled | Ohio Co., KY | C1711 | S1370 |
+
+| **27 Jul 1850** | Edmonson **4A** hh **36** | FAN **PROVEN** as image + reject: Alexander Newman **73** None Virginia in Henry Conner **37** Physician house | Edmonson Co., KY | C1767 | S1431 |
+| **8 Aug 1850** | Edmonson **11B** hh **148** | FAN **PROVEN** as image + reject: William Newman **30** Labourer in Isaac A. Cooke **35** Farmer **$2475** VA house. County **CLOSED** | Edmonson Co., KY | C1768 C1769 | S1432 S1433 |
+| **22 Aug 1850** | Hancock **289B** | FAN **PROVEN** as image + reject: Thomas Manley Newman **45** × Nancy **47**; Edmund **88** × Mary **87** | Hancock Co., KY | C1772 | S1437 |
+| **1850** | Hancock **291B** | FAN **PROVEN** as image + reject: Thomas Newman **29**; Ed. St. John Newman **50** × Sarah **46** | Hancock Co., KY | C1773 | S1438 |
+| **28 Aug 1850** | Hancock **295A** hh **415/432** | FAN **PROVEN** as image + reject: William Newman **26** Farmer × Catharine O **17** + Louisa **4/12**. County **CLOSED** | Hancock Co., KY | C1771 C1774 | S1435 S1436 |
+| **27 Aug 1850** | Barren **344A** | FAN **PROVEN** as image + reject + correction: Benja Newman **17** in William Edmunds **73** house (was logged slack) | Barren Co., KY | C1775 | S1440 |
+| **1850** | Hopkins Dist 2 n0238 hh **67** | FAN **PROVEN** as image + reject: Francis J. Newman **28** Farmer × Mary J **25** + Elizabeth **1** | Hopkins Co., KY | C1776 | S1441 |
+| **1850** | Crittenden / Gallatin / Green / Simpson / Trimble / Henderson | FAN **PROVEN** as compiled-index: NIL Newman/Tincher. Counties **CLOSED** compiled | KY | C1783 | S1449–S1454 |
+| **1850** | Marion / Jefferson / Ballard / Monroe | FAN **PROVEN** as compiled-index: no William **26** × Jane/Rhoda. Counties **CLOSED** compiled couple hunt | KY | C1784–C1787 | S1455–S1458 |
+| **1850** | Boone **218A** | FAN **PROVEN** as image + reject (Pass 132 remainder): Daniel Newman **32** Laborer + Louisiana **18**. County **CLOSED** | Boone Co., KY | C1736 C1738 | S1389 |
+| **1850** | Kenton **221B** hh **150/162** | FAN **PROVEN** as image + reject (Pass 132 remainder): Shepard Newman **32** Blacksmith **$1200** + Elizabeth **28** | Kenton Co., KY | C1739 | S1391 |
 
 
 **Impossibility flags:** None. Mother ~29 at Dora’s 1871 birth (Mary b. 1842). Dora age 14 at marriage is legal/period-possible (KY) though young; 1880 age 8 corroborates. Two children born before Coy in the 1886–1889 window would have Dora aged 15–18 — possible. No event after 23 Aug 1926 is attributed to her.

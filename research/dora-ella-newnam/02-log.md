@@ -1,3 +1,32 @@
+## Access honesty pass 131
+- LOC sn89051008 JSON **seen** (`item.digitized: false`). IA Solr Post-Dispatch 1926 **0**.
+- Hardin **366A** n0125 **image seen** (John A. Newman **11** in Isaac Rodgers house).
+- Logan **47B / 96B / 114A / 124B** Newman originals **image seen**.
+- Christian **422B / 423A / 424A / 427B / 441A / 486A** **image seen**.
+- Boone **163A / 163B / 217A–218B** **image seen** (slack / uncertain Nureman).
+- Kenton Covington 1st Ward stamps **219/223/225** + wards **1–6** headers **image seen**. Johnson n0223–n0250 **image seen**. Dist 1 **130B** unread.
+- Ohio SK **HTML seen** (NEWCOM / NEWTON only). Franklin / Mercer / Hopkins SK **404**.
+- Hopkins reel **205** n0005 Hickman / n0150 Dist 1 **image seen**. Franklin reel **200** n0150/n0200 Dist 1 **image seen**.
+- FS **1146342** SPA `isLoggedIn false` (R011-**72**). USGenNet `/wills/` **HTML seen**. GT Lee WWI **452540 LIVE**. Hutchins FAQ **9938** **LIVE**.
+- IA **602** pass131c metadata **{}**; pass123 still **515**.
+- Did **not** walk Estill **1930 33-12 / 33-13**.
+- Did **not** re-ask R001/R007/R008, Tyler Phillips, Pope **479-968-4368**, or Hutchins **859-985-3364**.
+- Book 6 register **unread**. Certs unread. M1509 **cards unread**. *Dardanelle Post-Dispatch* film **unread**. Newspapers.com **41271** June **1958** **unread**. Authored `latest.docx` SHA **78cdcf44…** not overwritten.
+
+## Access honesty pass 130
+- LOC sn89051008 JSON **seen** (`item.digitized: false`). IA Solr Post-Dispatch 1926 **0**.
+- Shelby **361B / 380B / 385A** Newman originals **image seen**.
+- Kenton Dist 2 **226A/226B/261B/268A/270B** **image seen** (nil Newman on named SK pages).
+- Nelson true leaves n0013/n0014/n0086/n0087/n0106/n0228 **image seen**. Mapping n0006=**275A**.
+- Fayette / Daviess / Bullitt SK **HTML seen**. Franklin SK **404**.
+- Boone reel **192** n0005 Dist 1 stamp **118** / n0080 Dist 2 stamp **154** **image seen**. Pages **163A/217B/218A** unread.
+- Reel **204** n0005/n0080 **Hart** **image seen** (not Hardin 366A).
+- FS **1146342 / 127913 / 156057** SPA `isLoggedIn false` (R011-**71**). USGenNet `/wills/` **HTML seen**. GT Lee WWI **452540 LIVE**. Hutchins FAQ **9938** **LIVE**.
+- IA **602** pass130c metadata **{}**; pass123 still **515**.
+- Did **not** walk Estill **1930 33-12 / 33-13**.
+- Did **not** re-ask R001/R007/R008, Tyler Phillips, Pope **479-968-4368**, or Hutchins **859-985-3364**.
+- Book 6 register **unread**. Certs unread. M1509 **cards unread**. *Dardanelle Post-Dispatch* film **unread**. Newspapers.com **41271** June **1958** **unread**. Authored `latest.docx` SHA **78cdcf44…** not overwritten.
+
 
 ## Access honesty pass 126
 - LOC sn89051008 JSON **seen** (`item.digitized: false`). IA Solr Post-Dispatch 1926 **0**.
@@ -1687,8 +1716,186 @@ One row per search, **including nil results**. Access: free | subscription | on-
 | L1500 | 2026-10-31 | Same-person / #28 after Scott/Woodford (**B071**) | William × Rhoda | Parents still **PROBABLE**. Jane **not** Rhoda. #28 stands (**C1677**) | S1314 | B071 |
 | L1501 | 2026-10-31 | GT / FS / FAQ / 602 / Grant 21 (**B059/B065/B055/B088/B081**) | open items | LIVE tables / SPA / cards **228–229** / **515** / not merged. Phones not re-asked (**C1669–C1673**) | S1307–S1311 | B059 B065 B055 B088 B081 |
 | L1502 | 2026-10-31 | Search-variant-alternatives cats **1–4** | William/Jane/Edmund/John B/Christopher | Soundex **N550** / **T526** / **S350**. Exact strings this extract | S1314 | B071 |
+| L1503 | 2026-10-31 | LOC sn89051008 + IA Solr 1926 (**B058**) | Dora Stone / Post-Dispatch | `item.digitized: false` (pass130c). Solr **0**. Phone not re-asked (**C1678**) | S1317 S1318 | B058 |
+| L1504 | 2026-10-31 | IA **`0218unix`** n0187 (**B071**) | Shelby **361B** | Izza[?]/Izzy[?]/Izra[?] Newman **27** M keeps-groom[?] + female **26** + Maranda[?] **4** + Mary **2** + Elizabeth **30** + infant. **IMAGE SEEN REJECT** (**C1679**) | S1323 | B071 |
+| L1505 | 2026-10-31 | IA **`0218unix`** n0225 (**B071**) | Shelby **380B** | John A. Newman **38** × Mary **45** + James **23** + John **17**. **IMAGE SEEN REJECT** (**C1680**) | S1324 | B071 |
+| L1506 | 2026-10-31 | IA **`0218unix`** n0232 (**B071**) | Shelby **385A** | Isaac Newman **50** Farmer **$1213** PA + John **14** + Isaac **12** + Pat Irish **50** Ireland. **IMAGE SEEN REJECT** (**C1681**) | S1325 | B071 |
+| L1507 | 2026-10-31 | Shelby SK Newman close (**B071**) | 272A / 361A / 380A / 385A | Pages **CLOSED**. County **CLOSED** for the living-head hunt (**C1682**) | S1322–S1325 | B071 |
+| L1508 | 2026-10-31 | IA **`0208unix`** n0253 (**B071**) | Kenton Dist 2 **226A** | Dist 2 start. 1 Aug. Reuben McDannold. Stamp **226**. n0130/n0221 = Jessamine/Johnson (**C1683**) | S1327 | B071 |
+| L1509 | 2026-10-31 | Kenton **226B** n0254 (**B071**) | Newman | **IMAGE SEEN** nil (Tillman/Heckley/Foley) (**C1684**) | S1328 | B071 |
+| L1510 | 2026-10-31 | Kenton **261B** n0324 (**B071**) | Newman | **IMAGE SEEN** nil (Dollahid/Cole/Finney) (**C1685**) | S1329 | B071 |
+| L1511 | 2026-10-31 | Kenton **268A** n0337 (**B071**) | Newman | **IMAGE SEEN** nil (Giller/Stephenson/Morris) (**C1686**) | S1330 | B071 |
+| L1512 | 2026-10-31 | Kenton **270B** n0342 (**B071**) | Newman | **IMAGE SEEN** nil (Warner/Drier/Simmons/Flatt) (**C1687**) | S1331 | B071 |
+| L1513 | 2026-10-31 | Kenton Dist 2 SK close (**B071**) | 226B/261B/268A/270B | Dist 2 pages **CLOSED** slack. Dist 1 **130B/221B/222A** residual (**C1688**) | S1326–S1331 | B071 |
+| L1514 | 2026-10-31 | Nelson mapping (**B071**) | reel **215** | n0006 = stamp **275A**. leaf = 6+(stamp−275)×2. Stamps **278/279/315/325** confirmed (**C1689**) | S1332 | B071 |
+| L1515 | 2026-10-31 | IA **`0215unix`** n0013/n0014 (**B071**) | Nelson **278B/279A** | hh **78 Henry Newman 39** cabinet maker × Elizabeth **29** + Sarah Hutchings **13**. **IMAGE SEEN REJECT** (**C1690**) | S1333 S1334 | B071 |
+| L1516 | 2026-10-31 | IA **`0215unix`** n0086/n0087 (**B071**) | Nelson **315A/B** | hh **569 John Newman 60** farmer **$3000** + E **60** + I **33** carpenter + John **25** + G **23** + W **21** + H **19** + M **18**. **IMAGE SEEN REJECT** (**C1691**) | S1335 S1336 | B071 |
+| L1517 | 2026-10-31 | IA **`0215unix`** n0106 (**B071**) | Nelson **325A** | hh **711 Wm Newman 31** farmer × S **23** + M **4 F**. **IMAGE SEEN REJECT** (**C1692**) | S1337 | B071 |
+| L1518 | 2026-10-31 | Nelson **386A/B** n0228/n0229 (**B071**) | Dist 2 27 Aug | **IMAGE SEEN** nil Newman (**C1693**) | S1338 | B071 |
+| L1519 | 2026-10-31 | Nelson SK Newman close (**B071**) | 278B–325A / 386A | Pages **CLOSED**. County **CLOSED** for the living-head hunt (**C1694**) | S1321 S1333–S1338 | B071 |
+| L1520 | 2026-10-31 | Fayette / Daviess / Bullitt SK (**B071**) | Newman/Tincher | Fayette NEWBERRY/NEWCURT only. Daviess NELSON/NUNN. Bullitt O'NEAL. All **CLOSED** compiled (**C1695**) | S1339 S1340 S1341 | B071 |
+| L1521 | 2026-10-31 | Boone reel **192** + residuals (**B071**) | mapping | n0005 Dist 1 stamp **118** 27 Aug; n0080 Dist 2 stamp **154**. SK **163A/217B/218A** unread. Hardin **366A** / Christian / Logan residual (**C1696**) | S1342 S1343 S1348 S1349 | B071 |
+| L1522 | 2026-10-31 | Franklin / Mercer / unix map (**B071**) | catalogs | Franklin SK **404**. **200unix**=Floyd. **205unix**=Hickman. Mercer Dist 1 on **213** n0200. County **not** closed (**C1697**) | S1344 S1345 | B071 |
+| L1523 | 2026-10-31 | Lincoln Dist 1 namecols (**B071**) | n0168–n0270 | Samples **IMAGE SEEN** nil Newman. n0270 Enoch **Tinker 14** ≠ Tincher. Densely sampled **NOT** every-line (**C1698**) | S1346 | B071 |
+| L1524 | 2026-10-31 | Free marriage (**B071**) | William × Rhoda / Jane | Still **no** free license (**C1699**) | S1350 | B071 |
+| L1525 | 2026-10-31 | Same-person / #28 after Shelby/Nelson (**B071**) | William × Rhoda / Jane | Parents **PROBABLE**. Jane **not** Rhoda. #28 stands. **$325** (**C1700**) | S1314 S1350 | B071 |
+| L1526 | 2026-10-31 | GT Lee WWI (**B059**) | Luther / John H. / McCoy | LIVE **452540**. Brandenburg + Underwood only (**C1701**) | S1351 | B059 |
+| L1527 | 2026-10-31 | FS **1146342** (**B065**) | catalog | SPA **19655** B `isLoggedIn false` (R011-**71**). Wills no Samuel P. (**C1702**) | S1352 S1353 | B065 B045 B069 |
+| L1528 | 2026-10-31 | Hutchins FAQ **9938** (**B055/B080**) | *Citizen* cards | **LIVE** rooms **228–229**. No free June **1958** clip (**C1703**) | S1354 | B055 B080 |
+| L1529 | 2026-10-31 | IA **602** metadata (**B088**) | imagecount | pass130c **{}**. pass123 still **515**. One line (**C1704**) | S1355 | B088 |
+| L1530 | 2026-10-31 | Grant 21 / Jr / process (**B081/B084**) | deceased-only | **not merged**. POSSIBLE Jr only. No 1966/1962. No **33-12/33-13** (**C1705**) | S1350 | B081 B084 B082 |
+| L1531 | 2026-10-31 | Search-variant-alternatives cats **1–4** | William/Jane/Izzy/Isaac/Henry/John 60 | Soundex **N550** / **T526** / **S350**. Exact strings this extract | S1350 | B071 |
+
+| L1532 | 2026-10-31 | LOC sn89051008 + IA Solr 1926 (**B058**) | Dora Stone / Post-Dispatch | `item.digitized: false` (pass131c). Solr **0**. Phone not re-asked (**C1706**) | S1356 S1357 | B058 |
+| L1533 | 2026-10-31 | Boone **163A** n0098 (**B071**) | Dist 2 stamp **163** | Joseph Nureman[?]/Newman[?] **28** × Lucretia **25**. Surname uncertain. **REJECT** as living-head if Newman (**C1707**) | S1363 | B071 |
+| L1534 | 2026-10-31 | Boone **217B/218A** (**B071**) | Newman | **217B** slack. **218A** Daniel[?] **7** / Louis[?] **18** POSSIBLE only. County **NOT** closed (**C1707**) | S1364 | B071 |
+| L1535 | 2026-10-31 | Hardin reel **203** mapping (**B071**) | n0005 / n0125 | Northern ≈**306A**. n0125 Dist 3 stamp **366** / printed **3666** = **366A** (**C1708**) | S1365 S1366 | B071 |
+| L1536 | 2026-10-31 | Hardin **366A** n0125 (**B071**) | hh **178** | Isaac Rodgers **56** + Frances M **38** + John A. Newman **11** + Calvin[?]/Colvin[?] **10** + Francis **7 F**. **IMAGE SEEN REJECT**. County **CLOSED** (**C1709**) | S1367 | B071 |
+| L1537 | 2026-10-31 | Kenton Covington 1st Ward (**B071**) | n0428–n0446 | Stamps **219/223/225**. **221B/222A CLOSED** slack. n0223–n0250 = Johnson. Dist 1 **130B** residual (**C1710**) | S1368 S1369 | B071 |
+| L1538 | 2026-10-31 | Ohio SK (**B071**) | Newman/Tincher | NEWCOM **59A**; NEWTON **61B/72A/87B**. County **CLOSED** compiled (**C1711**) | S1370 | B071 |
+| L1539 | 2026-10-31 | Franklin reel **200** (**B071**) | Dist 1 | n0150 Dist 1 2 Aug; n0200 stamp **32**. SK **404**. County **not** closed (**C1712**) | S1371 | B071 |
+| L1540 | 2026-10-31 | Logan **47B** n0098 (**B071**) | Harriet Newman | hh **695/706** Elis E. Temple **47** + Harriet Newman **13 F**. **IMAGE SEEN REJECT** (**C1713**) | S1372 | B071 |
+| L1541 | 2026-10-31 | Logan **96B** n0197 (**B071**) | Henry Newman | hh **362** Henry Newman **51** Va farmer **$434** + Charles **24** + Reuben **17** + Frances A **13**. **IMAGE SEEN REJECT** (**C1714**) | S1373 | B071 |
+| L1542 | 2026-10-31 | Logan **114A** n0232 (**B071**) | Thomas Newman | hh **617** Thomas Newman **26** Va farmer **$400** × Sophia **23** Ky + Charles H **4** + Mary E **3** + Martha F **1**. **IMAGE SEEN REJECT** (**C1715**) | S1374 | B071 |
+| L1543 | 2026-10-31 | Logan **124B** n0253 (**B071**) | Wesley C. Newman | hh **774/776** Wesley C. **29** farmer **$400** × Winifred **29** + Thomas **8** + Michael **7** + John H **5** + Mary E **4** + Walter **2**. **IMAGE SEEN REJECT** (**C1716**) | S1375 | B071 |
+| L1544 | 2026-10-31 | Logan SK Newman close (**B071**) | 47B/96B/114A/124B | Pages **CLOSED**. County **CLOSED** for the living-head hunt (**C1717**) | S1349 S1372–S1375 | B071 |
+| L1545 | 2026-10-31 | Christian mapping (**B071**) | reel **196** | Dist 2 n0160 stamp **365**. Dist 1 n0312 stamp **441**. leaf = 160+(stamp−365)×2 (**C1718**) | S1376 | B071 |
+| L1546 | 2026-10-31 | Christian **423A** n0276 (**B071**) | John A. Newman | hh **911/971** John A. Newman **24** clerk Tenn + Ann W **22** Ky. **IMAGE SEEN REJECT** (**C1719**) | S1377 | B071 |
+| L1547 | 2026-10-31 | Christian **441A** n0312 (**B071**) | Ed L. Newman | hh **166/170** Ed L. Newman **30** grocer S.C. + Rosella **24** + Wm C **2**. **IMAGE SEEN REJECT** (**C1720**) | S1378 | B071 |
+| L1548 | 2026-10-31 | Christian SK slack + close (**B071**) | 422B/424A/427B/486A | Four pages **IMAGE SEEN** nil. SK pages **CLOSED**. County **CLOSED** (**C1721**) | S1348 S1376–S1378 | B071 |
+| L1549 | 2026-10-31 | Hopkins / Mercer (**B071**) | catalogs + headers | Reel **205** n0005 Hickman; n0150 Hopkins Dist 1. SK/wb Mercer/Hopkins **404**. Counties **not** closed (**C1722**) | S1379 S1380 | B071 |
+| L1550 | 2026-10-31 | Free marriage (**B071**) | William × Rhoda / Jane | Still **no** free license. fishergenes / kykinfolk fail (**C1723**) | S1381 | B071 |
+| L1551 | 2026-10-31 | Same-person / #28 after Hardin/Logan/Christian (**B071**) | William × Rhoda / Jane | Parents **PROBABLE**. Jane **not** Rhoda. #28 stands. **$325** (**C1724**) | S1314 S1381 | B071 |
+| L1552 | 2026-10-31 | GT Lee WWI (**B059**) | Luther / John H. / McCoy | LIVE **452540**. Brandenburg + Underwood only (**C1725**) | S1382 | B059 |
+| L1553 | 2026-10-31 | FS **1146342** (**B065**) | catalog | SPA **19655** B `isLoggedIn false` (R011-**72**). Wills no Samuel P. (**C1725**) | S1383 S1384 | B065 B045 B069 |
+| L1554 | 2026-10-31 | Hutchins FAQ **9938** (**B055/B080**) | *Citizen* cards | **LIVE** rooms **228–229**. No free June **1958** clip (**C1726**) | S1385 | B055 B080 |
+| L1555 | 2026-10-31 | IA **602** metadata (**B088**) | imagecount | pass131c **{}**. pass123 still **515**. One line (**C1727**) | S1386 | B088 |
+| L1556 | 2026-10-31 | Grant 21 / Jr / process (**B081/B084**) | deceased-only | **not merged**. POSSIBLE Jr only. No 1966/1962. No **33-12/33-13** (**C1728**) | S1381 | B081 B084 B082 |
+| L1557 | 2026-10-31 | Search-variant-alternatives cats **1–4** | William/Jane/John A/Henry/Thomas/Wesley/Edward | Soundex **N550** / **T526** / **S350**. Exact strings this extract | S1381 | B071 |
+| L1558 | 2026-10-31 | Kenton Dist 1 residual probes (**B071**) | n0585–n0620 | Still Covington wards **5–6**. Dist 1 **130B** unread (**C1710**) | S1369 | B071 |
+
+| L1559 | 2026-10-31 | Boone close upgrade (**B071**) | 163A / 218A | Joseph Nureman[?] **28** + Daniel Newman **32** + Louisiana **18**. Pages **CLOSED**. County **CLOSED** (**C1729**) | S1387 S1388 | B071 |
+| L1560 | 2026-10-31 | Kenton **221B** named isolate (**B071**) | Shepard Newman | **32** Blacksmith **$1200** + Elizabeth **28**. **IMAGE SEEN REJECT** (**C1730**) | S1389 | B071 |
+| L1561 | 2026-10-31 | LOC sn89051008 + IA Solr 1926 (**B058**) | Dora Stone / Post-Dispatch | pass133 `digitized: false`. Solr **0**. Phone not re-asked (**C1731**) | S1390 S1391 | B058 |
+| L1562 | 2026-10-31 | Barren reel **191** mapping (**B071**) | n0005 | 1st Div 19 Jul H. Eubanks stamp **307**. leaf=5+(stamp−307)×2 (**C1732**) | S1392 | B071 |
+| L1563 | 2026-10-31 | Barren **344A** n0079 (**B071**) | George Newman | **17** in William Edmunds **73** house. **IMAGE SEEN REJECT** (**C1733**) | S1393 | B071 |
+| L1564 | 2026-10-31 | Barren **345B** n0082 (**B071**) | Christopher Newman | **37** Farmer × Paldy **42** + five children. **IMAGE SEEN REJECT** (**C1734**) | S1394 | B071 |
+| L1565 | 2026-10-31 | Barren **385A/B** n0161–n0162 (**B071**) | Newman | Stamp **385**. **IMAGE SEEN** nil. SK slack (**C1735**) | S1395 | B071 |
+| L1566 | 2026-10-31 | Barren **428A** n0247 (**B071**) | William B. Newman | **30** Merchant in Stockton house. **IMAGE SEEN REJECT** (**C1736**) | S1396 | B071 |
+| L1567 | 2026-10-31 | Barren **433A** n0257 (**B071**) | Billingsly Newman | **31** Physician in Woody house. **IMAGE SEEN REJECT** (**C1737**) | S1397 | B071 |
+| L1568 | 2026-10-31 | Barren **437B** n0266 (**B071**) | Thomas C. Newman | **41** × Mary E **24** + Eugene **5** + Howard **1**. **IMAGE SEEN REJECT** (**C1738**) | S1398 | B071 |
+| L1569 | 2026-10-31 | Barren SK Newman close (**B071**) | 344A/345B/385B/428A/433A/437B | Pages **CLOSED**. County **CLOSED** living-head hunt (**C1739**) | S1377 S1393–S1398 | B071 |
+| L1570 | 2026-10-31 | Christian **424B** n0279 (**B071**) | George W. Newman | **57** Painter **$1600** PA × Amanda M **31** NC. **IMAGE SEEN REJECT** (**C1740**) | S1399 | B071 |
+| L1571 | 2026-10-31 | Christian **428A** n0286 (**B071**) | Harriet Newman | **13** in George Beckett house. **IMAGE SEEN REJECT** (**C1741**) | S1400 | B071 |
+| L1572 | 2026-10-31 | Christian slack + close (**B071**) | 422B/424B/428A extras | **IMAGE SEEN** nil slack. SK pages **CLOSED**. County **CLOSED** (**C1742**) | S1376 S1399 S1400 | B071 |
+| L1573 | 2026-10-31 | Kenton **130B** hunt start (**B071**) | n0248 / n0260–n0420 | n0248 **Johnson**. n0260–n0420 Dist 2. Formula n0263≠130 (**C1743**) | S1401 S1402 | B071 |
+| L1574 | 2026-10-31 | Franklin Dist 1 samples (**B071**) | reel **200** n0150+ | Dist 1 from n0150 stamp **15**. n0210 **IMAGE SEEN** nil. SK **404** (**C1744**) | S1403 | B071 |
+| L1575 | 2026-10-31 | Reel **208** full map (**B071**) | imagecount **644** | Jessamine n0005–n0157; Johnson n0180–n0252; Dist 2 n0253+; Covington n0430–n0640; MICROCOPY n0643. Dist 1 **130B** not on this reel (**C1752**) | S1410 S1411 | B071 |
+| L1576 | 2026-10-31 | Mercer reel **213** (**B071**) | Dist 1 | n0150 stamp **243**. n0200 **IMAGE SEEN** nil (Mosley). n0400 Harrodsburg. SK **404**. County **not** closed (**C1753**) | S1412 S1413 | B071 |
+| L1577 | 2026-10-31 | Hopkins Dist 1+2 (**B071**) | reel **205** | Dist 1 n0140–n0180; Dist 2 through n0348; Jefferson n0355. Samples nil. Francis J / John **59** already **REJECT**. **Not** every-line closed (**C1754**) | S1414 S1415 | B071 |
+| L1578 | 2026-10-31 | Lincoln Dist 1 extra (**B071**) | n0168–n0275 | n0170 stamp **240** **IMAGE SEEN** nil. Densely sampled **NOT** every-line (**C1755**) | S1416 | B071 |
+| L1579 | 2026-10-31 | Compiled workarounds (**B071**) | SK / USGW | SK Kenton **LIVE** 130B residual. Mercer/Hopkins/Franklin SK **404**. Franklin 1850 dir = images.txt only. Hopkins dir = 1920 + slave only (**C1756**) | S1417–S1420 | B071 |
+| L1580 | 2026-10-31 | Free marriage (**B071**) | William × Rhoda / Jane | Still **no** free license (**C1757**) | S1421 | B071 |
+| L1581 | 2026-10-31 | Same-person / #28 (**B071**) | William × Rhoda / Jane | Parents **PROBABLE**. Jane **not** Rhoda. #28 stands. **$325** (**C1758**) | S1314 S1421 | B071 |
+| L1582 | 2026-10-31 | GT Lee WWI (**B059**) | Luther | LIVE **452540**. Brandenburg + Underwood only (**C1759**) | S1422 | B059 |
+| L1583 | 2026-10-31 | FS **1146342** (**B065**) | catalog | SPA `isLoggedIn false` (R011-**74**). Wills no Samuel P. (**C1760**) | S1423 S1424 | B065 B045 B069 |
+| L1584 | 2026-10-31 | Hutchins FAQ **9938** (**B055/B080**) | *Citizen* cards | **LIVE**. No free June **1958** clip (**C1761**) | S1425 | B055 B080 |
+| L1585 | 2026-10-31 | IA **602** metadata (**B088**) | imagecount | pass134 **{}**. pass123 still **515**. One line (**C1762**) | S1426 | B088 |
+| L1586 | 2026-10-31 | Grant 21 / Jr / process (**B081/B084**) | deceased-only | **not merged**. POSSIBLE Jr only. No 1966/1962. No **33-12/33-13** (**C1763**) | S1421 | B081 B084 B082 |
+| L1587 | 2026-10-31 | Search-variant-alternatives cats **1–4** | William/Christopher/Billingsly/Shepard/Daniel | Soundex **N550** / **T526** / **N655**. Exact strings this extract | S1421 | B071 |
+| L1588 | 2026-10-31 | LOC sn89051008 + IA Solr 1926 (**B058**) | Dora Stone / Post-Dispatch | pass134 `digitized: false`. Solr **0**. Phone not re-asked (**C1764**) | S1427 S1428 | B058 |
 
 
+
+
+
+| L1560 | 2026-10-31 | LOC sn89051008 + IA Solr 1926 (**B058**) | Dora Stone / Post-Dispatch | `item.digitized: false` (pass135). Solr **0**. Phone not re-asked (**C1735**) | S1387 S1388 | B058 |
+| L1561 | 2026-10-31 | IA **`0192unix`** n0208 (**B071**) | Boone **218A** | Daniel Newman **32** Laborer + Louisiana **18** in Ferguson house. **IMAGE SEEN REJECT**. SK page **FOUND** (**C1736**) | S1389 | B071 |
+| L1562 | 2026-10-31 | Boone **163A** n0098 (**B071**) | Joseph Nureman[?] | **28** Farmer × Lucelia **25**. SK NUREMAN **163A**. **REJECT**. **217B** slack (**C1737 C1738**) | S1363 S1390 | B071 |
+| L1563 | 2026-10-31 | Boone SK Newman close (**B071**) | 163A/217B/218A | Pages **CLOSED**. County **CLOSED** living-head hunt (**C1738**) | S1362 S1389 S1390 | B071 |
+| L1564 | 2026-10-31 | IA **`0208unix`** n0446 (**B071**) | Kenton **221B** | hh **150/162 Shepard Newman 32** Blacksmith **$1200** + Elizabeth **28** + five children. **IMAGE SEEN REJECT**. Corrects Pass 131 slack (**C1739**) | S1391 | B071 |
+| L1565 | 2026-10-31 | Kenton **222A** + Dist 1 hunt (**B071**) | reel **208** | **222A** slack. n0340/n0348 Dist 2 McDannold 2–3 Sept. n0600 5th Ward. Dist 1 **130B** residual (**C1740 C1741**) | S1392 S1393 | B071 |
+| L1566 | 2026-10-31 | Barren reel **191** mapping (**B071**) | n0005 / n0079 | First Division ≈**307A**. n0079 stamp **344** = **344A** (**C1742**) | S1394 | B071 |
+| L1567 | 2026-10-31 | Barren **344A/B** n0079/n0080 (**B071**) | Newman | **IMAGE SEEN** nil. Slack vs **345B** (**C1743**) | S1395 | B071 |
+| L1568 | 2026-10-31 | Barren **345B** n0082 (**B071**) | Christopher Newman | hh **587/603** Christopher **50** Farmer **$40** Tenn × Patey **42** + five children. **IMAGE SEEN REJECT** (**C1744**) | S1396 | B071 |
+| L1569 | 2026-10-31 | Barren **385A/B** n0161/n0162 (**B071**) | Newman | **IMAGE SEEN** nil. Slack (**C1745**) | S1397 | B071 |
+| L1570 | 2026-10-31 | Barren **428A** n0247 (**B071**) | William B. Newman | **30** Merchant **$1730** Va. **IMAGE SEEN REJECT** (**C1746**) | S1398 | B071 |
+| L1571 | 2026-10-31 | Barren **433A** n0257 (**B071**) | Billingsly Newman | hh **425/435** **31** Physician **$800** Va. **IMAGE SEEN REJECT** (**C1747**) | S1399 | B071 |
+| L1572 | 2026-10-31 | Barren **437B** n0266 (**B071**) | Thomas E. Newman | hh **488/499** **41** × Mary C **24** + Eugene **5** + Howard **1**. **IMAGE SEEN REJECT** (**C1748**) | S1400 | B071 |
+| L1573 | 2026-10-31 | Barren SK Newman close (**B071**) | 344A–437B | Pages **CLOSED**. County **CLOSED** living-head hunt (**C1749**) | S1377 S1394–S1400 | B071 |
+| L1574 | 2026-10-31 | Mercer reel **213** (**B071**) | mapping | n0005–n0150 Meade. n0200 Dist 1 Mercer stamp **263**. SK **404**. Not closed (**C1750**) | S1401 S1402 | B071 |
+| L1575 | 2026-10-31 | Hopkins reel **205** (**B071**) | Dist 1/2 | n0180 Dist 1 27 Aug namecol nil. n0300 Dist 2. SK **404**. Not closed (**C1751**) | S1403 | B071 |
+| L1576 | 2026-10-31 | Franklin reel **200** (**B071**) | Dist 1 | n0180 Franklin Dist 1. Wayback 1850 dir = images.txt/readme only. SK **404**. Not closed (**C1752**) | S1404 S1405 | B071 |
+| L1577 | 2026-10-31 | Lincoln reel **210** (**B071**) | Dist 1 | n0170 = **Lewis** stamp **240**. n0230 Lincoln Dist 1 stamp **270** namecol nil. Not every-line (**C1753**) | S1406 | B071 |
+| L1578 | 2026-10-31 | Free marriage (**B071**) | William × Rhoda / Jane | Still **no** free license (**C1754**) | S1407 | B071 |
+| L1579 | 2026-10-31 | Same-person / #28 (**B071**) | William × Rhoda / Jane | Parents **PROBABLE**. Jane **not** Rhoda. #28 stands. **$325** (**C1755**) | S1314 S1407 | B071 |
+| L1580 | 2026-10-31 | GT Lee WWI (**B059**) | Luther / John H. / McCoy | LIVE **452540**. Brandenburg + Underwood only (**C1756**) | S1408 | B059 |
+| L1581 | 2026-10-31 | FS **1146342** (**B065**) | catalog | SPA **19655** B `isLoggedIn false` (R011-**73**). Wills no Samuel P. (**C1757**) | S1409 S1410 | B065 B045 B069 |
+| L1582 | 2026-10-31 | Hutchins FAQ **9938** (**B055/B080**) | *Citizen* cards | **LIVE** rooms **228–229**. No free June **1958** clip (**C1758**) | S1411 | B055 B080 |
+| L1583 | 2026-10-31 | IA **602** metadata (**B088**) | imagecount | pass135 **{}**. pass123 still **515**. One line (**C1759**) | S1412 | B088 |
+| L1584 | 2026-10-31 | Grant 21 / Jr / process (**B081/B084**) | deceased-only | **not merged**. POSSIBLE Jr only. No 1966/1962. No **33-12/33-13** (**C1760**) | S1407 | B081 B084 B082 |
+| L1585 | 2026-10-31 | Search-variant-alternatives cats **1–4** | William/Daniel/Shepard/Christopher/William B | Soundex **N550** / **T526** / **S350**. Exact strings this extract | S1407 | B071 |
+
+| L1589 | 2026-10-31 | LOC sn89051008 + IA Solr 1926 (**B058**) | Dora Stone / Post-Dispatch | pass137 `digitized: false`. Solr **0**. Phone not re-asked (**C1765**) | S1429 S1430 | B058 |
+| L1590 | 2026-10-31 | Edmonson reel **198** map (**B071**) | n0238 start stamp **2** | Daviess through n0235; Edmonson n0238+ W C Lucas. Official NARA Daviess/Edmonson/Estill (**C1766**) | S1431 S1464 | B071 |
+| L1591 | 2026-10-31 | Edmonson **4A** n0242 (**B071**) | Alexander Newman **73** | hh **36** Henry Conner house. **IMAGE SEEN REJECT** (**C1767**) | S1431 | B071 |
+| L1592 | 2026-10-31 | Edmonson **11B** n0257 (**B071**) | William Newman **30** Labourer | Cooke hh **148** line **41**. **IMAGE SEEN REJECT** (**C1768**) | S1432 S1433 S1434 | B071 |
+| L1593 | 2026-10-31 | Edmonson 1850 close (**B071**) | living-head hunt | Two Newman lines both rejects. County **CLOSED** (**C1769**) | S1434 S1464 | B071 |
+| L1594 | 2026-10-31 | Hancock reel **202** map (**B071**) | 266A=n0536; **295A=n0596** | Greenup ends n0534; divider n0535 (**C1770**) | S1435 S1464 | B071 |
+| L1595 | 2026-10-31 | Hancock **295A** n0596 (**B071**) | William Newman **26** × Catharine O **17** + Louisa **4/12** | Exact age vs Owsley. **IMAGE SEEN REJECT** (**C1771**) | S1435 S1436 S1439 | B071 |
+| L1596 | 2026-10-31 | Hancock **289B** n0585 (**B071**) | Thomas Manley **45** / Edmund **88** | **IMAGE SEEN REJECT** (**C1772**) | S1437 | B071 |
+| L1597 | 2026-10-31 | Hancock **291B** n0589 (**B071**) | Thomas **29** / Ed. St. John **50** | **IMAGE SEEN REJECT** (**C1773**) | S1438 | B071 |
+| L1598 | 2026-10-31 | Hancock 1850 close (**B071**) | living-head hunt | William **26** × Catherine O + Manley/Edmund/Ed St John rejects. County **CLOSED** (**C1774**) | S1439 S1464 | B071 |
+| L1599 | 2026-10-31 | Barren **344A** correction (**B071**) | Benja Newman **17** | Boarder in Edmunds hh. Corrects C1743 slack. **REJECT** (**C1775**) | S1440 | B071 |
+| L1600 | 2026-10-31 | Hopkins n0238 (**B071**) | Francis J. Newman **28** × Mary J **25** + Elizabeth **1** | **IMAGE SEEN REJECT**. n0240 is Jo **Norman** **64** (**C1776 C1777**) | S1441 | B071 |
+| L1601 | 2026-10-31 | Kenton Dist 1 **130B** (**B071**) | reel **208** imagecount **644** | n0252 last Johnson; n0253 Dist 2. Dist 1 **scan gap**. County **not** closed (**C1778**) | S1442 | B071 |
+| L1602 | 2026-10-31 | Franklin / Mercer / Lincoln samples (**B071**) | namecols | Densely sampled **nil**. SK **404**. **NOT** every-line closed (**C1779–C1781**) | S1464 | B071 |
+| L1603 | 2026-10-31 | Hopkins remaining (**B071**) | Dist 1/2 | Francis J image-seen; John **59** not on n0239; n0310 nil. County **not** closed (**C1782**) | S1441 | B071 |
+| L1604 | 2026-10-31 | Crittenden/Gallatin/Green/Simpson/Trimble/Henderson (**B071**) | compiled N-range | Real USGW indexes **NIL** Newman/Tincher. **CLOSED** compiled (**C1783**) | S1449–S1454 | B071 |
+| L1605 | 2026-10-31 | Marion / Jefferson / Ballard / Monroe (**B071**) | compiled | Robert **21** / Catharine **53** PA / Andrew-Thomas-Hiram / John **31** George **37** Josiah **44**. **CLOSED** compiled couple hunt (**C1784–C1787**) | S1455–S1458 | B071 |
+| L1606 | 2026-10-31 | Leftover western SK (**B071**) | Butler…Hickman | SK handshake / **140** B ERR; Wayback calendar HTML. **NOT** closed (**C1788**) | S1459 | B071 |
+| L1607 | 2026-10-31 | Free marriage (**B071**) | William × Rhoda / Jane | Still **no** free license (**C1789**) | S1464 | B071 |
+| L1608 | 2026-10-31 | Same-person / #28 (**B071**) | William × Rhoda / Jane | Parents **PROBABLE**. Jane **not** Rhoda. #28 stands. **$325**. Living head remains Owsley hh **311** (**C1790**) | S1314 S1464 | B071 |
+| L1609 | 2026-10-31 | GT Lee WWI (**B059**) | Luther / John H. / McCoy | LIVE **452540**. Brandenburg + Underwood only (**C1791**) | S1460 | B059 |
+| L1610 | 2026-10-31 | FS **1146342** (**B065**) | catalog | SPA `isLoggedIn false` (R011-**75**). Wills no Samuel P. (**C1792**) | S1461 S1462 | B065 B045 B069 |
+| L1611 | 2026-10-31 | Hutchins FAQ **9938** (**B055/B080**) | *Citizen* cards | **LIVE** rooms **228–229**. No free June **1958** clip (**C1793**) | S1463 | B055 B080 |
+| L1612 | 2026-10-31 | IA **602** metadata (**B088**) | imagecount | pass137 **{}**. pass123 still **515**. One line (**C1794**) | S1446 | B088 |
+| L1613 | 2026-10-31 | Grant 21 / Jr / process (**B081/B084**) | deceased-only | **not merged**. POSSIBLE Jr only. No 1966/1962. No **33-12/33-13** (**C1795**) | S1464 | B081 B084 B082 |
+| L1614 | 2026-10-31 | IA Solr M1509 KY (**B069**) | cards | **0** (**C1796**) | S1447 | B069 |
+| L1615 | 2026-10-31 | Search-variant-alternatives cats **1–4** | William/Francis J/Catherine O/Alexander/Benja | Soundex **N550** / **T526** / **S350**. Exact strings this extract | S1464 | B071 |
+| L1616 | 2026-10-31 | Boone **218A** (Pass 132 remainder) | Daniel Newman **32** + Louisiana **18** | **IMAGE SEEN REJECT**. County **CLOSED** | S1389 | B071 |
+| L1617 | 2026-10-31 | Kenton **221B** (Pass 132 remainder) | Shepard Newman **32** blacksmith **$1200** | **IMAGE SEEN REJECT** | S1391 | B071 |
+| L1618 | 2026-10-31 | Barren SK remainder (Pass 132) | Christopher **50** / William B **30** / Billingsly **31** / Thomas E **41** | **IMAGE SEEN REJECT**. County **CLOSED** | S1396–S1400 | B071 |
+| L1619 | 2026-10-31 | Did not re-walk closed N-walks | Laurel **209** / Montgomery **214** / Estill 1840 / Clay / Clark 1840 | Per handoff. Clark **n0005–n0081** already **CLOSED** Pass **118** | S1464 | B071 |
+| L1620 | 2026-10-31 | Did not walk Estill **33-12/33-13**; phones not re-asked | process | R001/R007/R008 not re-asked. Authored Word SHA **78cdcf44…** not overwritten | S1464 | B058 B082 |
+
+| L1621 | 2026-10-31 | LOC sn89051008 + IA Solr 1926 (**B058**) | Dora Stone / Post-Dispatch | pass138 `digitized: false`. Solr **0**. Phone not re-asked (**C1797**) | S1465 S1466 | B058 |
+| L1622 | 2026-10-31 | IA **`0193unix`** map (**B071**) | Breckinridge | Dist **2** n0300 stamp **53**; Dist **1** n0400 stamp **101**. leaf=400+(stamp−101)×2 (**C1798**) | S1467 | B071 |
+| L1623 | 2026-10-31 | Breckinridge **100A** n0398 (**B071**) | John J. Newman **23** × Cinderella **24** | Miss Jane **21** in Lightfoot house. **IMAGE SEEN REJECT** (**C1799**) | S1468 | B071 |
+| L1624 | 2026-10-31 | Breckinridge **100B** n0399 (**B071**) | Henry Newman **46** × Adeline **48** + Wm H **7** | **IMAGE SEEN REJECT** (**C1800**) | S1469 | B071 |
+| L1625 | 2026-10-31 | Breckinridge **108B** n0415 (**B071**) | William Newman **26** × Angeline **23** + Sarah E **1**; Obediah **56** next door | Exact age vs Owsley. **IMAGE SEEN REJECT** (**C1801 C1802**) | S1470 S1471 | B071 |
+| L1626 | 2026-10-31 | Breckinridge 1850 close (**B071**) | living-head hunt | Compiled N-index + Dist 1 originals. No Tincher. County **CLOSED** (**C1803**) | S1472 S1473 | B071 |
+| L1627 | 2026-10-31 | Kenton SK (**B071**) | NEWMAN **130B** | LIVE pages include **130B**. Reel **208** Dist 1 still a scan gap (**C1804**) | S1474 | B071 |
+| L1628 | 2026-10-31 | Franklin / Mercer / Lincoln / Hopkins (**B071**) | remaining | Densely sampled **NOT** every-line. SK **404** (**C1805**) | S1477 | B071 |
+| L1629 | 2026-10-31 | Hopkins compiled John **59** (**B071**) | Jane **52** NC | **REJECT** vs William **26** × Jane **22**. Francis J already **C1776** (**C1806**) | S1288 | B071 |
+| L1630 | 2026-10-31 | Free marriage (**B071**) | William × Rhoda / Jane | Still **no** free license (**C1807**) | S1477 | B071 |
+| L1631 | 2026-10-31 | Same-person / #28 (**B071**) | William × Rhoda / Jane | Parents **PROBABLE**. Jane **not** Rhoda. #28 stands. Living head remains Owsley hh **311** (**C1808**) | S1314 S1477 | B071 |
+| L1632 | 2026-10-31 | GT Lee WWI (**B059**) | Luther / John H. / McCoy | LIVE **452540**. Brandenburg + Underwood only (**C1809**) | S1475 | B059 |
+| L1633 | 2026-10-31 | FS **1146342** (**B065**) | catalog | SPA **19655** B `isLoggedIn false` (R011-**76**). Wills no Samuel P. (**C1810**) | S1476 S1478 | B065 B045 B069 |
+| L1634 | 2026-10-31 | Hutchins FAQ **9938** (**B055/B080**) | *Citizen* cards | **LIVE** rooms **228–229**. No free June **1958** clip (**C1811**) | S1479 | B055 B080 |
+| L1635 | 2026-10-31 | IA **602** metadata (**B088**) | imagecount | pass138 **{}**. pass123 still **515**. One line (**C1812**) | S1480 | B088 |
+| L1636 | 2026-10-31 | Grant 21 / Jr / process (**B081/B084**) | deceased-only | **not merged**. POSSIBLE Jr only. No 1966/1962. No **33-12/33-13** (**C1813**) | S1477 | B081 B084 B082 |
+| L1637 | 2026-10-31 | IA Solr M1509 KY (**B069**) | cards | **0** (**C1814**) | S1481 | B069 |
+| L1638 | 2026-10-31 | Search-variant-alternatives cats **1–4** | William/Angeline/Obediah/Henry/John J | Soundex **N550** / **T526** / **S350**. Exact strings this extract | S1477 | B071 |
+
+**Access honesty (pass 138):** LOC sn89051008 JSON **seen** (`digitized: false`). IA Solr Post-Dispatch 1926 **0**. IA Solr M1509 KY **0**. IA **602** metadata **{}** (pass123 still **515**). Breckinridge **100A/100B/108B** **image seen**. USGW Breckinridge `indx-n-s.txt` + `pg0100b.txt` **HTML/TXT seen**. SK Kenton **HTML seen** (NEWMAN **130B** residual). FS **1146342** SPA **19655** B. USGenNet wills **HTML seen**. GT Lee WWI **LIVE**. FAQ **9938** **LIVE**. fishergenes / kykinfolk **404**. SK Mercer/Hopkins/Franklin/Lincoln **404**. Kenton **130B** still a reel-**208** scan gap. Mercer/Franklin/Lincoln/Hopkins remaining. *Dardanelle Post-Dispatch* film **unread**. M1509 **cards unread**. Certs **unread**. Authored `latest.docx` SHA **78cdcf44…** not overwritten.
+
+**Access honesty (pass 137):** LOC sn89051008 JSON **seen** (`digitized: false`). IA Solr Post-Dispatch 1926 **0**. IA Solr M1509 KY **0**. IA **602** metadata **{}** (pass123 still **515**). Edmonson **4A/11B** **image seen**. Hancock **289B/291B/295A** **image seen**. Barren **344A** Benja **17** **image seen** (corrects slack). Hopkins n0238 Francis J **image seen**. Boone **218A** / Kenton **221B** / Barren Christopher–Thomas E **image seen** (Pass 132 remainder). Franklin/Mercer/Lincoln namecol samples **image seen**. USGW Crittenden/Gallatin/Green/Simpson/Trimble/Henderson/Marion/Jefferson/Ballard/Monroe indexes **HTML/TXT seen**. SK leftover western handshake / **140** B. FS **1146342** SPA `isLoggedIn false`. USGenNet wills **HTML seen**. GT Lee WWI **LIVE**. FAQ **9938** **LIVE**. Kenton **130B** still a reel-**208** scan gap. Mercer/Franklin/Lincoln/Hopkins remaining. *Dardanelle Post-Dispatch* film **unread**. M1509 **cards unread**. Certs **unread**. Authored `latest.docx` SHA **78cdcf44…** not overwritten.
+
+
+**Access honesty (pass 132–134):** LOC sn89051008 JSON **seen** (`digitized: false` pass134). IA Solr Post-Dispatch 1926 **0**. IA **602** metadata **{}** (pass123 still **515**). Barren reel **191** Newman pages **image seen**. Christian **424B/428A** **image seen**. Boone **163A/218A** **image seen**. Reel **208** n0005–n0157 Jessamine / n0180–n0252 Johnson / n0430–n0640 Covington / n0643 MICROCOPY **image seen**. Franklin n0140–n0340 samples **image seen**. Mercer n0150–n0400 samples **image seen**. Hopkins n0140–n0348 **image seen**; n0355 Jefferson. Lincoln n0168–n0275 samples **image seen**. SK Kenton **HTML seen**. SK Mercer/Hopkins/Franklin **404**. FS **1146342** SPA `isLoggedIn false`. USGenNet wills **HTML seen**. GT Lee WWI **LIVE**. FAQ **9938** **LIVE**. Kenton **130B** still unmapped on reel **208**. Mercer/Franklin/Lincoln remaining. *Dardanelle Post-Dispatch* film **unread**. M1509 **cards unread**. Certs **unread**. Authored `latest.docx` SHA **78cdcf44…** not overwritten.
+
+**Access honesty (pass 131–132):** LOC sn89051008 JSON **seen** (`digitized: false`). IA Solr Post-Dispatch 1926 **0**. IA Solr M1509 KY **0**. IA **602** metadata **{}** (pass123 still **515**). Boone reel **192** n0098/n0099/n0206–n0208 **image seen**. Kenton n0445–n0447 **image seen**. Hardin n0005/n0125/n0126 **image seen**. Logan n0005/n0098/n0196/n0197/n0232/n0252/n0253 **image seen**. Ohio SK N extract **HTML seen**. Barren SK **HTML seen**. FS **1146342** SPA `isLoggedIn false`. USGenNet wills **HTML seen**. GT Lee WWI **LIVE**. FAQ **9938** **LIVE**. Franklin/Mercer/Hopkins SK **404**. Christian **422B+** headers probed, Newman pages **unread**. Kenton **130B** unmapped. Lincoln Dist 1 remaining. *Dardanelle Post-Dispatch* film **unread**. M1509 **cards unread**. Certs **unread**. Authored `latest.docx` SHA **78cdcf44…** not overwritten.
 
 **Access honesty (pass 120):** LOC sn89051008 JSON **seen** (`item.digitized: false`). IA Solr Post-Dispatch 1926 **0**. IA Solr M1509 KY **0**. IA **602** metadata **515**. Knox 77 two-ups **image seen**; OCR **token-nil**. Floyd family-name index **HTML seen**; n0003 start **image seen**. Clay n0005 / n0054 headers **image seen**. Pike + Harlan S-K **HTML seen**. FS three IDs Incapsula **403**. USGenNet `/wills/` **HTML seen**. GT Lee WWI **LIVE**. Hutchins FAQ **9938** **LIVE**. WCHS **DNS**. *Dardanelle Post-Dispatch* film **unread**. M1509 **cards unread**. Certs **unread**. Authored `latest.docx` SHA **78cdcf44…** not overwritten.
 

@@ -1167,3 +1167,76 @@ Exact strings logged **L1452–L1467**.
 **Christopher / Newham / Newnan (B071)** — Christopher/Catherine/John/Thomas × Newman. John Newnan/Newman **45**. John B. / Robert / William Newham. Simeon / Geo. W. / Thomas / William H. Spencer. S. Newman Shelby. Soundex **N550**. Place Woodford reel **222** n0254; Scott reel **218** n0263 / n0415 / n0424. OCR Newman/Newham/Newnan.
 
 Exact strings logged **L1476–L1496**.
+
+### Pass 130 variant storm (31 Oct 2026)
+
+**Dora Stone 1926 (B058)** — Dora/posa/dosa/rosa/dona × Stone/Newman/Newnam. Soundex **S350** / **N550**. One catalog reconfirm (`item.digitized: false`). Phone **479-968-4368** not re-asked.
+
+**William × Jane / Shelby / Nelson / Kenton (B071)** — William/Wm/Will × Newman/Newnam/Newnarn/Newan/Numan. Jane/Rhoda. Izza/Izzy/Izra/Isaac/John A/Henry/Elizabeth/Hutchings. Tincher/Tinker. Soundex **N550** / **T526**. Place Shelby reel **218** n0187/n0225/n0232; Nelson reel **215** n0013/n0086/n0106; Kenton reel **208** n0253. OCR Newman/newnam/newnarn.
+
+**Marriage** — William × Rhoda / William × Jane. Still no free license.
+
+**Frank / WWI / probate / 602 / Grant** — same strings as pass 129. FAQ **9938** LIVE. FS SPA R011-**71**.
+
+Exact strings logged **L1503–L1531**.
+
+### Pass 131 variant storm (31 Oct 2026)
+
+**Dora Stone 1926 (B058)** — Dora/posa/dosa/rosa/dona × Stone/Newman/Newnam. Soundex **S350** / **N550**. One catalog reconfirm (`item.digitized: false`). Phone **479-968-4368** not re-asked.
+
+**William × Jane / Hardin / Logan / Christian / Kenton (B071)** — William/Wm/Will × Newman/Newnam/newnarn/newan/Numan. Jane/Rhoda. John A/Calvin/Colvin/Francis/Henry/Thomas/Wesley/Edward L/Harriet/Isaac Rodgers. Tincher/Tinker. Soundex **N550** / **T526**. Place Hardin reel **203** n0125; Logan reel **211** n0098/n0197/n0232/n0253; Christian reel **196** n0276/n0312; Kenton reel **208** n0428+. OCR Newman/newnam/newnarn.
+
+**Marriage** — William × Rhoda / William × Jane. Still no free license.
+
+**Frank / WWI / probate / 602 / Grant** — same strings as pass 130. FAQ **9938** LIVE. FS SPA R011-**72**.
+
+Exact strings logged **L1532–L1558**.
+
+
+### Pass 131–132 variant storm (31 Oct 2026)
+
+**Dora Stone 1926 (B058)** — Dora/posa/dosa/rosa/dona × Stone/Newman/Newnam. Soundex **S350** / **N550**. One catalog reconfirm (`item.digitized: false`). Phone **479-968-4368** not re-asked.
+
+**William × Jane / Boone / Kenton / Hardin / Logan (B071)** — William/Wm/Will × Newman/Newnam/Newnarn/Newan/Numan/Nureman. Jane/Rhoda. Daniel/Shepard/Joseph/Henry/Thomas/Worthy/John A/Colvin/Harriet/Sophia/Lucelia. Tincher/Tinker. Soundex **N550** / **T526** / **N655**. Place Boone reel **192** n0098/n0206–n0208; Kenton reel **208** n0445–n0447; Hardin reel **203** n0125; Logan reel **211** n0098/n0197/n0232/n0253.
+
+**Marriage** — William × Rhoda / William × Jane. Still no free license.
+
+**Frank / WWI / probate / 602 / Grant** — same strings as pass 130. FAQ **9938** LIVE. FS SPA R011-**72**.
+
+Exact strings logged **L1532–L1565**.
+
+
+### Pass 132 variant storm (31 Oct 2026)
+
+**Dora Stone 1926 (B058)** — Dora/posa/dosa/rosa/dona × Stone/Newman/Newnam. Soundex **S350** / **N550**. One catalog reconfirm (`item.digitized: false`). Phone **479-968-4368** not re-asked.
+
+**William × Jane / Boone / Barren / Kenton (B071)** — William/Wm/Will × Newman/Newnam/newnarn/newan/Nureman. Jane/Rhoda. Daniel/Shepard/Christopher/William B/Billingsly/Thomas E/Joseph/Louisiana/Patey. Tincher/Tinker. Soundex **N550** / **T526** / **S350**. Place Boone reel **192** n0208; Barren reel **191** n0079–n0266; Kenton reel **208** n0340/n0446/n0600.
+
+**Marriage** — William × Rhoda / William × Jane. Still no free license.
+
+**Frank / WWI / probate / 602 / Grant** — same strings as pass 131. FAQ **9938** LIVE. FS SPA R011-**73**.
+
+Exact strings logged **L1560–L1585**.
+
+
+### Pass 132–134 variant storm (31 Oct 2026)
+
+**Dora Stone 1926 (B058)** — Dora/posa/dosa/rosa/dona × Stone/Newman/Newnam. Soundex **S350** / **N550**. One catalog reconfirm (`item.digitized: false`). Phone not re-asked.
+
+**Barren / Boone / Kenton 130B / Mercer / Hopkins / Franklin (B071)** — William/Wm × Newman/Newnam/Newnarn/Numan/Nureman. Christopher/Billingsly/Thomas C/William B/George/Shepard/Daniel/Joseph. Jane/Rhoda. Tincher/Tinker. Soundex **N550** / **T526** / **N655**. Place Barren reel **191** stamp **307**; reel **208** Jessamine/Johnson/Kenton; Mercer **213**; Hopkins **205**; Franklin **200**.
+
+**Marriage** — William × Rhoda / William × Jane. Still no free license.
+
+Exact strings logged **L1559–L1588**.
+
+### Pass 137 variant storm (31 Oct 2026)
+
+**Dora Stone 1926 (B058)** — Dora/posa/dosa/rosa/dona × Stone/Newman/Newnam. Soundex **S350** / **N550**. One catalog reconfirm (`item.digitized: false`). Phone **479-968-4368** not re-asked.
+
+**William × Jane / Edmonson / Hancock / Hopkins (B071)** — William/Wm/Will × Newman/Newnam/newnarn/newan/Nureman/Norman. Jane/Rhoda/Catharine O. Francis J/Shepard/Daniel/Benja/Christopher/Alexander/Catherine. Tincher/Tinker. Soundex **N550** / **T526** / **S350**. Place Edmonson reel **198** n0238–n0257; Hancock reel **202** n0536–n0596; Hopkins reel **205** n0238; Barren **344A** n0079.
+
+**Marriage** — William × Rhoda / William × Jane. Still no free license.
+
+**Frank / WWI / probate / 602 / Grant** — same strings as pass 132. FAQ **9938** LIVE. FS SPA R011-**75**.
+
+Exact strings logged **L1589–L1620**.
