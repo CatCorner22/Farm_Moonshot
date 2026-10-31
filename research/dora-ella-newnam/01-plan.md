@@ -280,6 +280,17 @@ Regenerated **before** B039 Owsley FAN queries (`bc-c5415202`). **Did not take B
 
 Exact strings logged **L566+**.
 
+## Name-variant storm (pass 80, `search_variants.py`, 31 Oct 2026)
+
+Regenerated **before** B030 Yell/AR marriage residual queries (`bc-20e39036`). **Did not take B039** (`bc-c5415202` Pass **79**, **C471–C483 / L566–L575 / S406–S417**). **Did not take B007** (`bc-6d51c793` Pass **76**). **Did not take B047 / B049 / B055 / B056.** **Did not retake B014 / B015 / B016 / B045 / B051 / B054 / B057 / B092.** This pass uses **C464–C470 / L514–L525 / S398–S405**. Categories **1–4**:
+
+1. **Canonical:** Dora Ella Newnam (P001); m2 T. A. / Tom A. Stone (P003) 1920–26; hypothesized Peebles intervening.
+2. **User / family:** Newman / Newnam / Newnarn / Newan / Newnom; Dora / Ella / Posa (1926 index misread); Stone; Peebles / Peeples / Peoples / Pebbles.
+3. **Machine / OCR given:** Dora → posa / dosa / rosa / dona / dara / dore / dori / dola / pora / rora. Surname: Newnam, newman, newnarn, newan, newnom. Soundex **N550** / **S350** / **P142** / Dora **D600**.
+4. **Repository quirks:** GT `Last-First` announcement heads; Scott grooms `marrgr{n,s,p}.htm` / brides `marrbr{d,n,s,p}.htm`; ARGenWeb yell `marr*.htm` (406); FS catalog **674356 / 401207**; FS coll. **1417439**; Ancestry **61775**; ADH VR-10 / SOAP; CIS county dropdown (Yell absent); IA Solr `title:(…)`.
+
+Exact strings logged **L514–L525**.
+
 ## Agent SDK / GitHub channel
 
 Inspected 30 Oct 2026 (**L351**): this repository has **no** `package.json`, **no** `@grok/agent-sdk`, **no** `bot/` directory. GitHub channel `bot/channels/github.ts` is **n/a** and was **not** authored. Project subagent: `.cursor/agents/dora-genealogy-detective.md`.

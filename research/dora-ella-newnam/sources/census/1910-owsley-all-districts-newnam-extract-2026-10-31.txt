@@ -1,0 +1,20 @@
+Pass 79 B039 — 1910 Owsley Kendrick transcripts, 31 Oct 2026.
+Districts opened (all HTTP 200):
+  Booneville  boone1910.html
+  Sturgeon    sturg1910.html
+  Island Creek islandck1910.html
+  Cow Creek   cowck1910.html
+  Buffalo     buff1910.html
+  Wild Dog    wdog1910.html
+  Buck Creek  already on file (C119/C123 UNUM Robert + Martha — not Sallie)
+
+NEWMAN/NEWNAM heads found:
+  Wild Dog hh 20-20: NEWMAN Henry H.
+  Sturgeon hh 119-119: NEWMAN Arthur
+  Sturgeon: Laura (Newman) wife, 34, m1 18y — different household
+
+NIL: Robert Newnam/Newman head with wife Sallie/Sally.
+NIL: Sallie/Sally Newnam/Newman as wife of Robert.
+Island Creek (Pebworth sector) has no Newnam/Newman surname block.
+Booneville 1910 has no Newnam/Newman surname (Farley-stepson Robert of 1900 not found as a Newnam head).
+Transcription only. Original schedules not re-imaged this pass.

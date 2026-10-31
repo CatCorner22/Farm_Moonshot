@@ -19,7 +19,7 @@ Place as it was *at the date*; modern equivalent in brackets. Flag impossibiliti
 | 29 Dec 1881 | 10 | Sister Malissa D. m. Moses Estes at Elias Newnam’s | Lee Co., KY | C045 | S004 book |
 | 28 Feb 1884 | 12 | Sister Francis E. m. Millard F. Jones at Elias E. Newnam’s | Lee Co., KY | C046 | S004 book |
 | **Thu 10 Dec 1885** | **14** | **m1 Samuel P. Newnam, 16, at Doll Newnam’s, Rev. J. E. Dunagin; wit. Doll Newnam & Link Mays** | Lee Co., KY | C010 | S004 |
-| after mid-1880 × before ~1894 | — | FAN: Larkin Mays × Louisa Pendergrass (license unread; both single in 1880 Booneville) | Owsley or Lee Co., KY | C138 | S126 S128 S132 |
+| after mid-1880 × before ~Sep 1881/82 | — | FAN: Larkin Mays × Louisa Pendergrass (license unread; both single in 1880 Booneville; before Vestie — **C483**). Published VS gap **1879–1902** | Owsley or Lee Co., KY | C138 C483 C148 | S126 S128 S132 S412 |
 | 10 Feb 1886 | 14 | Sister **Mary L.** (PROBABLE) m. James Hoover, age 17; **not** Dora | Lee Co., KY | C100 | S075 |
 | Jun 1886 | — | Niece **Provy/Provie Hoover** born (Elias’s granddaughter) | Lee Co., KY | C096 | S076 |
 | 19 Jul 1889 | — | Brother W. D. Newnam m. Judaliza Durbin; wit. include **Doll Newnam** | Lee Co., KY | C099 | S084 |
@@ -48,6 +48,11 @@ Place as it was *at the date*; modern equivalent in brackets. Flag impossibiliti
 | 28 Sep 1904 | — | Chas. B. Burke × Provie Hoover at Proctor; **“E. T. Newnam Granfather appeared”** | Proctor, Lee Co., KY | C096 | S074 |
 | 22 Dec 1904 | — | FAN: Whitley Mays × Lillie Farmer (groom 20) — PROBABLE 1900 Whitly | Lee Co., KY | C168 | S146 |
 | 10 Feb 1909 | — | FAN: Grant Newnam × Dova Cole (groom 19) — not Samuel | Owsley Co., KY | C149 | S126 |
+| **1905–1907** | — | Published Owsley marriage VS **gap** (second window after **1879–1902**). Can hold unread Robert × Sallie license (Lester ~Mar 1908; **1903–04** and **1908** already nil) | Owsley Co., KY | C475 C148 | S412 S126 |
+| Jun 1900 | — | FAN: remaining 1900 Owsley districts (Island Creek / Buffalo / Cow Creek / Sturgeon Dist 2) **nil** Robert Newnam married head with Sallie. Farley-stepson Robert (**C116**) still unmerged | Owsley Co., KY | C478 C116 | S415 |
+| Apr 1910 | — | FAN: 1910 Owsley **all** published districts **nil** Robert Newnam head with wife Sallie. Henry H. / Arthur / Laura Newman present; UNUM Robert+Martha **not** Sallie | Owsley Co., KY | C477 C119 C123 | S414 |
+| **30 Apr 1923** | — | FAN: James L. CHRISTMAN × Sarah BOWMAN, White Ash; wife 45 widow; parents Corda Pendergrass & Manerva Thompson — **POSSIBLE** sister of Louisa (**C480**) | White Ash, Lee Co., KY | C480 | S413 |
+| **29 Jan 1929** | — | Owsley courthouse fire (published deed recitation OC-DB6:302; KDLA disasters **1929** + **1967**). ~5,000 marriage records destroyed (**S334**) | Booneville, Owsley Co., KY | C471 C472 C390 | S406 S417 S334 |
 | **23 Mar 1911** | — | FAN: Geo. Pliman × **Ida Mays**, 17, at Elizabeth Brandenburg’s, Idamay; parents **Larkin Mays** & **Louisa Pendergrass**; wit. Sshelia Newnam | Idamay, Lee Co., KY | C142 C152 | S132 |
 | 15 Apr 1910 | ~38 | **Not in KY/AR/MO N-550 as Dora ~39; not in TN N-550 D-block or McCoy M-window; Coy nil KY/AR/MO/TN-C; Samuel P not a KY N-550 head; two KY Dora Stones rejected; KY child Soundex OCR nil; not KY P-142 Peebles head or wife; not AR P-142 indexed Dora ~39; not in Sturgeon ED 99 as Newnam (original).** 1900 dw **67** reoccupied (Hamilton 4A / Garrett 6B). **1910 Proctor ED 100:** Louisa Mays/Brandenburg **nil**; three Dora daughters rejected (Taylor 16 / Hall 18 / Evans 9) | unknown (not Sturgeon as Newnam; not Proctor as Newnam/Stone) | C030 C031 C031b C034–C039 C077 C081–C083 C088 C106 C154 C155 | S020–S023 S025–S028 S058 S062 S063 S067 S089 S137 |
 | Apr–May 1910 | — | FAN: **John Sullivan** + wife **Ida M** ~34 m. **18** + son ~14 + **Ethel A** ~8 + MIL **Sarah** Newman 60 + BIL **Oscar S.** 21, Liberty ED **4** sh **7 B** dw/fam **158/160** (prior extract said dw **159**). **Not** P001 | Liberty Twp, Bollinger Co., MO | C245 C462 | S251 S397 |

@@ -1,0 +1,19 @@
+Pass 79 B039 — Lee Marriage Books 16-37 (USGenNet Kendrick), grepped 31 Oct 2026.
+URLs: https://usgennet.org/usa/ky/county/lee/marriage/marrbook{16-37}.html  (all HTTP 200)
+Exact strings: Larkin, Louisa, Pendergrass/Pendergras, Robert+Sallie, Link Mays, Mays+Louisa.
+
+NIL as marriage PARTY:
+- Larkin Mays / Larkin Mayse / Larkin Mayes × Louisa / Eliza Pendergrass
+- Robert Newnam/Newman × Sallie/Sally
+- Link Mays as groom/bride
+
+Near-hits REJECTED vs those party rows:
+- Book 17: James L. CHRISTMAN × Sarah BOWMAN, 30 Apr 1923, White Ash; wife 45 widow, parents Corda Pendergrass & Manerva Thompson. FAN of Cordy household — POSSIBLE sister of Louisa (C480). Not a Larkin license.
+- Book 22: Robert LARKIN × Leaster COOMER (surname Larkin, not given name).
+- Multiple Larkin Stamper parent/witness rows.
+- Multiple Louisa [other surnames] parent rows.
+- G. W. Pendergrass as Lee County Judge officiant (1930s).
+- Book 27: "Louisa Mayse & James Kendrick" witness line (not a party pair for Larkin).
+- Book 29: Scott Mays & Louisa Hamilton witnesses.
+
+Extends Books 1-15 nil (C228).

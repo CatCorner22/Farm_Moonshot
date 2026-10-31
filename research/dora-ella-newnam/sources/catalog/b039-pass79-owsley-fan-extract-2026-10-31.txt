@@ -1,0 +1,34 @@
+Pass 79 B039 combined notes — 31 Oct 2026 — bc-c5415202
+Live: this run B039; bc-20e39036 B014; bc-6d51c793 B007 (C457-C463 used); parent bc-71069845 PR #37; location bc-995d22ea; reconstruction bc-03731ef0.
+Did not take B014/B007/B047/B049/B055/B056. Did not retake B015/B016/B045/B051/B054/B057/B092.
+
+FIRE:
+  KDLA Courthouse Disasters table: Owsley County founded 1843; disasters 1929, 1967.
+    https://kdla.ky.gov/Archives-and-Reference/Pages/Courthouse-Disasters.aspx
+  Combs-families 1920 page, deed 11 Jan 1930 (OC-DB6:302): "This deed made in lieu of a deed which was burned when the court house did on 29 Jan 1929."
+    https://combs-families.org/combs/records/ky/owsley/1920.htm
+  USGenNet lookups (already S334): ~5,000 marriage records destroyed.
+
+UNREAD RECONSTRUCTED BOOKS (not examined):
+  Robert L. Smith, Owsley County, Kentucky marriages, 1843-1929.
+    FamilySearch Catalog 733757
+    https://www.familysearch.org/en/search/catalog/733757
+    LDSGenealogy wrapper: Owsley County, Kentucky marriages, 1843-1929 — FHL Salt Lake (not digitised on that page)
+  Margaret Millar Hayes, Reconstructed Marriage Records of Owsley County, Kentucky, 1843-1910: Part 1 A-L.
+    ISBN 9780788410581; Heritage Books 101-H1058; LCCN 99201827
+    FamilySearch Catalog 818120
+    https://www.familysearch.org/en/search/catalog/818120
+    Dates are ESTIMATES (oldest child + one year) per publisher blurb. Mays and Newnam are both in A-L.
+    Part 2 M-Z not found as a published volume this pass.
+  IA Solr six queries numFound=0 (titles + quoted author + person phrases).
+
+PUBLISHED VS COVERAGE (reconfirmed):
+  Online year files: 1853, 1854, 1858, 1859, 1874, 1876, 1877, 1878, 1903-4, 1908a/b, 1909a/b, 1910a/b, then 1973 grooms/brides.
+  Gaps: 1860-1873; 1875; 1879-1902; 1905-1907; 1911-1972.
+  LDSGenealogy Ancestry 1852-1914 note: Owsley 1852-1859, 1874, 1876-1879, 1903-1904, 1908-1910 (same gaps).
+  Submitted marriages page: only Franklin B. Ledford × Nancy Jane Coomer 21 Nov 1866 — nil FAN.
+
+Larkin×Louisa window: after 1880 Booneville (both single) and before Vestie ~1881/82 — sits in 1879-1902 gap; Lee Books 1-37 nil party.
+Robert×Sallie window: before Lester ~Mar 1908; 1903-04 and 1908 published VS already nil (C148); 1905-1907 is a second published-VS gap.
+
+Do not invent contents of unread Smith/Hayes books or unread certificates.
