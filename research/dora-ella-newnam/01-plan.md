@@ -100,6 +100,17 @@ Regenerated before B049 queries. Categories **1–4**:
 
 Exact strings logged **L361–L375**.
 
+## Name-variant storm (pass 63, `search_variants.py`, 31 Oct 2026)
+
+Regenerated before B056 / B052 queries. Categories **1–4**:
+
+1. **Canonical:** Dora Stone / Dora Ella Newnam; *Danville Democrat*; *Dardanelle Post-Dispatch*; *Rural Record*; Shelby Newnam × Grace Brandenburg; Ladona Newman.
+2. **User / family:** **Posa Stone**; Newman/Newnam; Mrs. T. A. Stone; Gracie / Grace; Shelby / Selby.
+3. **Machine / OCR given:** Dora, posa, dosa, rosa, dona, dara, dore, dori, dola, pora, rora. Shelby (ocr-given: Shelby only). Grace (ocr-given: Grace only). Surname: Newnam, newman, newnarn, newan, Newmann, Stone, Brandenburg, brandenburgh, brandenburi, branenburg. Soundex **N550** / **S350** / **P200** / **B653** / **S410** / **G620**.
+4. **Repository quirks:** IA `title:(…) AND year:1926`; LCCN **SN89051010** vs revival **SN89051002**; Lee Books **8–18** heading `Shelby NEWNAM`; 1900/1920 Sturgeon transcripts; `Last, First`.
+
+Exact strings logged **L376–L390**.
+
 ## Agent SDK / GitHub channel
 
 Inspected 30 Oct 2026 (**L351**): this repository has **no** `package.json`, **no** `@grok/agent-sdk`, **no** `bot/` directory. GitHub channel `bot/channels/github.ts` is **n/a** and was **not** authored. Project subagent: `.cursor/agents/dora-genealogy-detective.md`.

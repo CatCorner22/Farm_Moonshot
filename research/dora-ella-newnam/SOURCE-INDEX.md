@@ -37,6 +37,15 @@ Captured this session: **30 Oct 2026**. Earlier plates remain in `sources/census
 | S291 | `sources/deaths/lee-deaths-1939-luther-deaton-extract-2026-10-31.txt` | 2026-10-31 | USGenNet Lee deaths 1932/33/39 | https://usgennet.org/usa/ky/county/lee/deaths/1939.html | Luther Deaton Jan 1939 | **Rejected** vs Rev. Luther (**C319**) | transcription only |
 | S292 | `sources/obituaries/lee-obits-l-jane-longworth-1938-luther-extract-2026-10-31.txt` | 2026-10-31 | USGenNet Lee obits **L** | https://usgennet.org/usa/ky/county/lee/obituaries/l.html | Jane Longworth; officiant Rev. Luther Newnam, Jan 1938 | **C318** | transcription only |
 | S293 | `sources/press/newspapers-com-beattyville-enterprise-catalog-2026-10-31.txt` | 2026-10-31 | Newspapers.com title 39744 | https://www.newspapers.com/paper/the-beattyville-enterprise_39744/39744 | *Enterprise* 1896–1999, 26,889 pages (snippet) | Direct fetch **403**; issues **not examined** | catalog snippet |
+| S294 | `sources/marriages/lee-book10-shelby-newnam-gracie-brandenburg-1913-extract-2026-10-31.txt` | 2026-10-31 | USGenNet Lee Book 10 | https://usgennet.org/usa/ky/county/lee/marriage/marrbook10.html | Kendrick transcription: Shelby Newnam × Gracie Brandenburg **4 Sep 1913** | **C321** | transcription only |
+| S295 | `sources/census/1900-lee-sturgeon-hh18-richard-shelby-extract-2026-10-31.txt` | 2026-10-31 | USGenNet 1900 Sturgeon | https://usgennet.org/usa/ky/county/lee/census/1900/1900sturgeon.html | Richard Newnam hh **18/18**; Shelby son **Jul 1892** | **C322** | transcription only |
+| S296 | `sources/census/1920-lee-sturgeon-hh65-shelby-grace-ladona-extract-2026-10-31.txt` | 2026-10-31 | USGenNet 1920 Sturgeon | https://usgennet.org/usa/ky/county/lee/census/1920/sturgeon.html | Shelby 28 + Grace 21 + Ladona 3 2/12 | **C323** | transcription only |
+| S297 | `sources/marriages/lee-book18-delbert-newman-ola-brandenburg-1924-extract-2026-10-31.txt` | 2026-10-31 | USGenNet Lee Book 18 | https://usgennet.org/usa/ky/county/lee/marriage/marrbook18.html | Delbert Newman × Ola Brandenburg **23 Jul 1924**; wit. Shelby | **C327** | transcription only |
+| S298 | `sources/press/enterprise-1932-04-01-delvinta-shelby-extract-2026-10-31.txt` | 2026-10-31 | IA `beatty` OCR (S270) | https://archive.org/details/beatty | 1 Apr 1932 Delvinta notes | **C325** | OCR text |
+| S299 | `sources/press/ia-extra-1926-titles-pass63-2026-10-31.txt` + five JSON | 2026-10-31 | Internet Archive Solr | https://archive.org/ | Extra 1926 / any-year title queries | **0** items (**C331**) | index only |
+| S300 | `sources/press/roadsidethoughts-danville-democrat-lccn-2026-10-31.txt` · `ldsgenealogy-yell-newspapers-2026-10-31.txt` | 2026-10-31 | RoadsideThoughts / LDS Genealogy | https://roadsidethoughts.com/ar/millan-xx-yell-localpapers.htm | 1899–1927 *Danville Democrat* LCCN **SN89051010** | **C332** | catalog only |
+| S301 | `sources/press/arheritage-ca-digitized-yell-negative-2026-10-31.txt` | 2026-10-31 | Arkansas Heritage / ADNP | https://www.arkansasheritage.com/chronicling-america-digitized-newspapers | Digitized-title page | **No** Yell 1926 title named (**C333**) | catalog only |
+| S302 | `sources/marriages/lee-book11-charlie-newnam-eva-ross-1914-extract-2026-10-31.txt` | 2026-10-31 | USGenNet Lee Book 11 | https://usgennet.org/usa/ky/county/lee/marriage/marrbook11.html | Charlie Newnam × Eva Ross **11 Jul 1914** | **C326** | transcription only |
 
 ## Word biography provenance
 
@@ -51,12 +60,13 @@ See [`sources/authored/PROVENANCE.md`](sources/authored/PROVENANCE.md). Drive se
 | Pope County Library, Russellville | *Dardanelle Post-Dispatch* **Roll 5** (21 Jun 1923–26 Apr 1928), issues ~26 Aug–16 Sep 1926 | Neighbouring weekly; catalog **S283** |
 | UK Margaret I. King Library microfilm **S 90-033** / KUK **18568** | Request *Beattyville Enterprise* reels for 1909–11 / 1915 (Samuel-death window) | Catalog only (**S271**) |
 | *Yell County Journal* (Ola, 1925–1934) | AR State Archives / Danville or Plainview library | Not digitised free |
+| *Danville Democrat* 1899–1927 (LCCN **SN89051010** / OCLC **19026460**) | Arkansas State Archives / county library film — **not** the 1930–45 revival | IA **0**; 1926 issues unread (**B056**) |
 | NARA M1509 rolls **KY45** (Lee), **KY24** (Estill), **KY74** (Owsley), **AR69** (Yell) | FS sign-in or NARA | Cards unread (**B047**) |
 | KDLA / KHS Lee probate 1873–2004 | Film browse Samuel P. Newnam admin. | **B045** |
 
 ## Variant strings used this session (categories 1–4)
 
-**Dora / Newnam / Stone / Posa** — generator output pasted in `01-plan.md`: Dora, Posa, Dosa, Rosa, Dona, Dara, Dore, Dori, Dola, Pora, Rora × Newnam, Newman, Newnarn, Newan, Newnom, Stone, Posa. Soundex **N550** / **S350**.
+**Dora / Newnam / Stone / Posa / Shelby / Grace** — generator output pasted in `01-plan.md` (pass 63): Dora, Posa, Dosa, Rosa × Newnam/Newman/Stone; Shelby × Newman/Newnam; Grace × Brandenburg/Brandenburgh. Soundex **N550** / **S350** / **B653** / **S410**.
 
 **Doll Newnam** (press pass): Doll, Poll, Roll × Newnam/Newman.
 

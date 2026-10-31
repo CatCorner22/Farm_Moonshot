@@ -1,0 +1,12 @@
+Internet Archive Solr, 31 Oct 2026 (Pass 63 / B056 digital workaround).
+Queries and numFound (JSON saved alongside this note):
+
+title:(Rural Record) AND year:1926 AND (yell OR havana OR danville OR arkansas)  → 0
+title:(Yell County News) AND year:1926                                           → 0
+title:(Dardanelle Post) AND year:1926                                            → 0
+title:(Danville Democrat)   [any year]                                           → 0
+title:(Yell County Journal) [any year]                                           → 0
+
+Raw JSON: ia-rural-record-1926.json, ia-yell-county-news-1926.json,
+ia-dardanelle-1926.json, ia-danville-democrat-any.json, ia-yell-journal-any.json
+in this directory.
