@@ -2641,5 +2641,66 @@ Diplomatic **Jane**; **Otto** is a **son**. → **C742**.
 
 Relationship **S** is the same glyph as Fred L. Infant is a **son**. → **C743**.
 
+## DOC216 — 1900 TN Soundex S-415, Slavin Henson; daughter 2
+- Image: `sources/soundex/tn1900-s415-n3924-slavin-henson-dau-2.jpg` SHA-256 `2199f9d182401db7788d1886479fdbb8de6a469f82fdcb19f5c733443e470c23`
+- Reel: IA `soundex1900tn153` n**3924** rotate **0**
+
+### Diplomatic
+> **S415 Slavin, Henson** — Head · vol **59** ED **131** sh **13** ln **1** · W July **1870** **29** Tennessee · Scott CD #8
+> **Rebecca E** W June **1877** **27** Kentucky; **Ettie J** D June **1891** **8** Tennessee; **Robert L** S Aug **1894** **6** Tennessee; **Isabel**[?] / **Mabel**[?] D ~**1899** **2** Tennessee
+
+Diplomatic not Letha. → **C745**.
+
+## DOC217 — 1900 TN Soundex S-415, Lottie 22 SIL
+- Image: `sources/soundex/tn1900-s415-n0205-lottie-22-sil.jpg` SHA-256 `f6171a0e958202ccf9cab89d4f776532be702dc10756be2c74f10be0ff4e1473`
+- Reel: IA `soundex1900tn154` n**0205** rotate **0**
+
+### Diplomatic
+> **S415 Sullivan, Lottie** — Individual · vol **33** ED **61** sh **5** ln **35** · W Sept **1877** **22** Tennessee · Henry 1st Dist, Paris
+> Enumerated with **Roberts, W.A.** · relationship **Sister-in-Law**
+
+Adult hunt-variant HEAD. → **C756**.
+
+## DOC218 — 1900 AR Soundex S-415, Martin C; Lora A 2
+- Image: `sources/soundex/ar1900-s415-n2707-martinc-lora-2.jpg` SHA-256 `8880daa45113065fa9c4557922db17871bd6b40e4a2ab6c95bd30dda8de4664e`
+- Head card: `sources/soundex/ar1900-s415-n2706-martinc-42-ms.jpg` SHA-256 `d354a8b7ac170c1e8be5f423c72d514b39a290607902e8a7c12303c6bf75ab6c`
+- Reel: IA `soundex1900ar107` n**2706–2707** rotate **0**
+
+### Diplomatic
+> **S415 Sullivan, Martin C** — Head · vol **35** ED **115** sh **4** ln **6** · W July **1858** **42** Mississippi · Scott / Parks Twp
+> **Minta A** W Mar **1868** **32** Georgia; **Fredric T** S Apr **1886** **14**; **Grothan W** S Dec **1887** **12**; **Tomie B** S Apr **1890** **10**; n**2707** **Earl C** S Mar **1894** **6**; **Minnie E** D Jan **1896** **4**; **Lora A** D Apr **1898** **2** Arkansas
+
+Diplomatic **Lora A**. → **C752**.
+
+## DOC219 — 1900 MO Soundex S-415, Seth E; Bessie 2
+- Image: `sources/soundex/mo1900-s415-n0058-sethe-dunklin-liberty-bessie-2.jpg` SHA-256 `51113286135dbef4940dab825df3391ef2d9a776b796e0c8fba6c31e9f0f4e75`
+- Reel: IA `soundex1900mo249` n**0058** rotate **0**
+
+### Diplomatic
+> **S415 Sullivan, Seth E** — Head · vol **21** ED **17** sh **2** ln **5** · W May **1873** **27** Missouri · Dunklin / Liberty Twp
+> **Jennie M** W Apr **1865** **35** Missouri; **Frank P** S Apr **1893** **7** Missouri; [son] S Jan **1895** **5** Missouri; **Bessie** D Aug **1897** **2** Missouri
+
+Diplomatic **Bessie**. Dunklin Liberty ≠ Bollinger Liberty. → **C748**.
+
+## DOC220 — 1900 TN Soundex S-415, Mary 38 Indiana, Memphis
+- Image: `sources/soundex/tn1900-s415-n0226-mary-38-in-memphis.jpg` SHA-256 `cca8809466c160ad75659c8501471c0e7c276cd5e4742666baac36e5f3569278`
+- Reel: IA `soundex1900tn154` n**0226** rotate **0**
+
+### Diplomatic
+> **S415 Sullivan, Mary** — Head · vol **63** ED **41** sh **11** ln **7** · W May **1862** **38** Indiana · Shelby 14th Dist, Memphis, Poplar
+> **Michael** S Apr **1879** **21** Indiana; **Jennie** D Nov **1882** **18** Indiana; **Delia** D Nov **1882** **18** Tennessee
+
+IN leftover-M head; no girl ~0–2. → **C755**.
+
+## DOC221 — 1900 TN Soundex S-415, Mark; Ethel P 2
+- Image: `sources/soundex/tn1900-s415-n0224-mark-ethelp-2.jpg` SHA-256 `80bb407c6c7185cfcea0dd851491c1991adeb32d837139e535652a2ec7aebc52`
+- Reel: IA `soundex1900tn154` n**0224** rotate **0**
+
+### Diplomatic
+> **S415 Sullivan, Mark** — Head · vol **69** ED **129** sh **12** ln **62** · W Dec **1858** **41** Tennessee · Tipton CD 6
+> **Belldona** W June **1876** **24** Tennessee; **Lucille** D June **1896** **3** Tennessee; **Ethel P** D May **1898** **2** Tennessee
+
+Diplomatic **Ethel P**. → **C754**.
+
 ## DOC009 — 1910 TN Soundex N-550 McCoy window (nil)
 Handwritten family/individual cards n2461–n2469. Sequence after Mary C (n2460): Mary D 49 Jefferson (son Layton 11); Mary M 70 Hamilton; Mek. G 50 Cheatham (Florence 19, John 17, General 16, Frances 13, William 10, Doria 6, Luther 1½); Melvin 3½ Giles (gs of Deacon George W); Melvin 54 Giles (SIL of same); Minerva 80 Robertson (gds Lona Neely, Nellie Erwin); Minnie 21 Roane (with Sam P. Sparks); Mitchell 27 Hardin (Ollie P 25, Gladys 4, Burl W 3, Royal E 1 9/12). **No McCoy.** SHA-256 n2463 `23610f8aa4c159b1b554ed1786d11f57d2f56f8a2e8994f7289ae7bd02dfca53`; n2469 `340489566090880388fa6b81ca5751c5944dcaf56a7b44f70fe560788f308586`.

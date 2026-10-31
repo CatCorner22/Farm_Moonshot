@@ -1,0 +1,62 @@
+Pass 99 — 1900 S-415 leftover G/S uncommon + leftover M on KY/AR/TN + MO leftover S
+Date: 31 Oct 2026 (America/New_York)
+Target C244: 1910 Letha Sullivan 12 nurse, Jesse Conrad, Liberty Twp, Bollinger Co. MO; father reported Indiana-born.
+Hunt: Letha / Letta / Lethia / Lettie / Litha / Viola / Lottie / Leta ~0–2 on PARENT cards.
+Variants (ocr-given Letha + S415 Sullivan): Letha, Letta, Lethia, Lettie, Litha, Leta, Lella, Lelia, Lottie, Viola.
+Do not merge. Hard Rule 3.
+
+Reels (card images seen; full reel PDFs not downloaded):
+  soundex1900tn153 rot 0   leftover G/H n3909–3933
+  soundex1900tn154 rot 0   leftover M n0213–0248; Lottie n0205 leftover-L peek
+  soundex1900ar107 rot 0   leftover S n2777–2787; leftover M n2695–2717
+  soundex1900mo249 rot 0   leftover S n0058–0081
+  soundex1900ky161 rot 0   leftover M n2977–3035 (M-tab n2977; leftover L Lucinda/Lucy/Luther n2971–2976 skimmed)
+  Edge probes (headers): IN/MO/KY/AR/IL leftover G after George; KY/TN/IN leftover S after Samuel.
+
+Leftover G after George / before Henry — unused only on TN:
+  IN n1046–1050 Georgia / Gilbert / Grace — absorbed into Pass 95 Henry n1048–1139
+  MO n3318–3326 Jerome / Gracy / Green — absorbed into Pass 95 Henry n3321–3405
+  KY n2686–2692 Gid / Gradwell / Guy — absorbed into Pass 95 Henry n2689–2739
+  AR n2520–2526 Gifford / Giney / Glass — absorbed into Pass 95 Henry n2523–2563
+  IL n2256–2264 Gerald / Gerry / Gertrude / Gilbert — absorbed into Pass 95 Henry n2260–2390
+  TN n3909–3933 leftover G (Georgia/Gilford/Grant/Gray/Green) + leftover H (Hannah/Harris/Harry/Helsey/Hillie/Hattin) before Henry n3934 — UNUSED; parent-walked.
+
+Leftover S after Samuel / before Thomas — unused on AR + MO:
+  KY/TN/IN Thomas follows Samuel immediately (Theodore/Thaddeus/Terry are T-start)
+  IL Sarah–Thomas already walked in Pass 95 Samuel n3997–4067
+  AR n2777–2787 Sarah / Syrena / Stacy / Steve / Stevie / Susan — UNUSED; parent-walked
+  MO n0058–0081 Seth / Sid / Silas / Simon / Solomon / Stella / Stephen / Sterling / Stony / Susan / Sylvester (T-tab ~n0082) — UNUSED; parent-walked. Sarah n0053/n0055 already in Pass 95.
+
+Leftover M (Maggie→Maurice / M-tab→before Michael):
+  KY n2977–3035 (Michael n3036) — parent-walked
+  AR n2695–2717 (M.J. / Mack → Mattie; Michael n2718) — parent-walked
+  TN n0213–0248 (Madie → Mell; Michael n0249) — parent-walked
+  IL n3202–3475 (Louise n3201 → M.P./Maggie n3213 → Maurice n3465; Michael n3476) — 274/274 downloaded (17 IA 502s retried). Visual-read agents in flight at write. Residual.
+
+Parent-verified hunt-adjacent (all REJECT vs C244):
+  TN n3913 Gilford P + Olivia W Apr 1897 3 MO (already Pass 93)
+  TN n3924 Slavin Henson 29 TN Scott + Isabel[?]/Mabel[?] D ~1899 2 TN
+  TN n0205 Lottie Sept 1877 22 TN Henry 1st Dist, SIL of Roberts W.A. — adult hunt-variant HEAD
+  AR n2706–2707 Martin C 42 MS Scott Parks + Lora A D Apr 1898 2 AR
+  AR n2696–2697 Mack 42 MS Woodruff Cache + Hattie D Mar 1897 3
+  MO n0058 Seth E 27 MO Dunklin Liberty Twp + Bessie D Aug 1897 2 MO — Liberty false-friend (Dunklin ≠ Bollinger)
+  MO n0061 Simon 32 Austria St Louis + Ida D Apr 1899 1 / Annie 3
+  MO n0072–0073 Stephen E 41 MO St Louis + Elizabeth D Dec 1897 2
+  MO n0075 Stephen L 69 MO Barry Liberty Twp — Liberty false-friend; no toddler
+  MO n0078 Susan 50 MO Clay Liberty Twp — Liberty false-friend; son 21 only
+  KY n2986 Manuel H 32 KY Whitley + Lula D Feb 1897 3 KY
+  KY n3033 Matt L 28 KY Larue Magnolia + Elsie M D June 1897 3 (twin of Alvin)
+  KY n2979 M.L. 33 KY Hart + Addon W S Mar 1898 2 (son)
+  TN n0224 Mark 41 TN Tipton + Ethel P D May 1898 2 TN
+  TN n0226 Mary May 1862 38 Indiana, Shelby Memphis — IN leftover-M head; adult children only
+  TN n0213 Madie May 1900 0/12 own card, dau of Loggins Jesse M
+  TN n0241 Mary I Sept 1899 8/12 own card, dau of Lensing Archable B
+
+Verdict: leftover G/S uncommon closed on the six-state edge set; leftover M closed on KY/AR/TN; MO leftover S closed. C244 still unplaced. Residual: IL leftover M n3202–3475 (downloaded); B049 film.
+
+Agents (visual paleography; parent walk authoritative where both exist):
+  [Read KY leftover-M 2977-3035](bc-983529e8-ae74-50c5-9534-98f590137f71)
+  [Read TN leftover-M 213-248](bc-d54033bf-ea23-5e65-9cb9-1552da1b8145)
+  [Read IL leftover-M 3202-3338](bc-55170d5c-2f2d-55ce-a532-2c63b3ced800)
+  [Read IL leftover-M 3339-3475](bc-2644ed91-148a-5f03-9e5a-46700eb2bfe8)
+  [Read MO leftover-S 58-81](bc-0471a87d-c3ca-5ae6-829b-622ddc71a555)

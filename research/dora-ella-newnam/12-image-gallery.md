@@ -262,6 +262,12 @@ Diplomatic transcriptions: [`08-transcriptions.md`](08-transcriptions.md). Citat
 | 287 | 1900 (index) | Rejected same-name | [Missouri S-415 — M. John continuation; Ina M, 2/12; not C244](sources/soundex/mo1900-s415-n3757-inam-2-12.jpg) |
 | 288 | 1900 (index) | Rejected same-name | [Missouri S-415 — Martha, 29, Illinois, Stoddard Duck Creek; Jane, 1; not C244](sources/soundex/mo1900-s415-n3787-martha-jane-1.jpg) |
 | 289 | 1900 (index) | Rejected same-name | [Missouri S-415 — Mary, 28, Missouri, Wayne Williams; infant son, 10/12; not C244](sources/soundex/mo1900-s415-n3832-mary-lucy-9-12.jpg) |
+| 290 | 1900 (index) | Rejected same-name | [Tennessee S-415 — Slavin, Henson, 29, Tennessee, Scott; daughter, 2; not C244](sources/soundex/tn1900-s415-n3924-slavin-henson-dau-2.jpg) |
+| 291 | 1900 (index) | Rejected same-name | [Tennessee S-415 — Lottie, 22, Tennessee, Henry; adult hunt-variant head; not C244](sources/soundex/tn1900-s415-n0205-lottie-22-sil.jpg) |
+| 292 | 1900 (index) | Rejected same-name | [Arkansas S-415 — Martin C continuation; Lora A, 2; not C244](sources/soundex/ar1900-s415-n2707-martinc-lora-2.jpg) |
+| 293 | 1900 (index) | Rejected same-name | [Missouri S-415 — Seth E, 27, Missouri, Dunklin Liberty; Bessie, 2; not C244](sources/soundex/mo1900-s415-n0058-sethe-dunklin-liberty-bessie-2.jpg) |
+| 294 | 1900 (index) | Context | [Tennessee S-415 — Mary, 38, Indiana, Shelby Memphis; adults only](sources/soundex/tn1900-s415-n0226-mary-38-in-memphis.jpg) |
+| 295 | 1900 (index) | Rejected same-name | [Tennessee S-415 — Mark, 41, Tennessee, Tipton; Ethel P, 2; not C244](sources/soundex/tn1900-s415-n0224-mark-ethelp-2.jpg) |
 | 123 | 1900 (index) | Context | [Texas C-563 — J-tab divider](sources/soundex/tx1900-c563-p1-j-divider.jpg) |
 | 17 | Apr 1910 | Negative search | [Kentucky N-550 — Millie / Missouri; no McCoy](sources/soundex/ky1910-n550-p329-millie-missouri.jpg) |
 | 18 | Apr 1910 | Negative search | [Kentucky N-550 — Monroe; still no McCoy](sources/soundex/ky1910-n550-p330-monroe-no-mccoy.jpg) |
@@ -2750,6 +2756,66 @@ White female head, September 1870, age 29, born Illinois, Stoddard County, Duck 
 White female head, April 1872, age 28, born Missouri, Wayne County, Williams Township. Children Chas E, 10; Minnie, 6; Fred L, 3; last child Lucy[?] / Ivy[?], August 1899, age 10/12, relationship S (same glyph as Fred L — a son). Boarder Bently Couchy, 16. Not a daughter. Rejected as C244.
 
 ![Missouri S-415 — Mary, 28, Missouri, Wayne Williams; infant son, 10/12; not C244](sources/soundex/mo1900-s415-n3832-mary-lucy-9-12.jpg)
+
+### 290 · 1900 (index) · Tennessee S-415 — Slavin, Henson, 29, Tennessee, Scott; daughter, 2; not C244
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/tn1900-s415-n3924-slavin-henson-dau-2.jpg`](sources/soundex/tn1900-s415-n3924-slavin-henson-dau-2.jpg)  
+**Source:** S406 · C745
+
+White head, July 1870, age 29, born Tennessee, Scott County, Civil District 8. Wife Rebecca E, 27, Kentucky. Children Ettie J, 8; Robert L, 6; last daughter Isabel[?] / Mabel[?], about 1899, age 2, Tennessee. Diplomatic not Letha. Slavin, not Sullivan. Rejected as C244.
+
+![Tennessee S-415 — Slavin, Henson, 29, Tennessee, Scott; daughter, 2; not C244](sources/soundex/tn1900-s415-n3924-slavin-henson-dau-2.jpg)
+
+### 291 · 1900 (index) · Tennessee S-415 — Lottie, 22, Tennessee, Henry; adult hunt-variant head; not C244
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/tn1900-s415-n0205-lottie-22-sil.jpg`](sources/soundex/tn1900-s415-n0205-lottie-22-sil.jpg)  
+**Source:** S411 · C756
+
+White individual, September 1877, age 22, born Tennessee, Henry County, 1st District, Paris. Sister-in-law of Roberts, W.A. Hunt-variant Lottie as an adult HEAD, not a ~0–2 parent-card daughter. Rejected as C244.
+
+![Tennessee S-415 — Lottie, 22, Tennessee, Henry; adult hunt-variant head; not C244](sources/soundex/tn1900-s415-n0205-lottie-22-sil.jpg)
+
+### 292 · 1900 (index) · Arkansas S-415 — Martin C continuation; Lora A, 2; not C244
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/ar1900-s415-n2707-martinc-lora-2.jpg`](sources/soundex/ar1900-s415-n2707-martinc-lora-2.jpg)  
+**Source:** S410 · C752
+
+Continuation of Martin C, July 1858, age 42, born Mississippi, Scott County, Parks Township (head on n2706). Children Earl C, 6; Minnie E, 4; Lora A, April 1898, age 2, Arkansas. Diplomatic Lora A. Father Mississippi. Rejected as C244.
+
+![Arkansas S-415 — Martin C continuation; Lora A, 2; not C244](sources/soundex/ar1900-s415-n2707-martinc-lora-2.jpg)
+
+### 293 · 1900 (index) · Missouri S-415 — Seth E, 27, Missouri, Dunklin Liberty; Bessie, 2; not C244
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/mo1900-s415-n0058-sethe-dunklin-liberty-bessie-2.jpg`](sources/soundex/mo1900-s415-n0058-sethe-dunklin-liberty-bessie-2.jpg)  
+**Source:** S408 · C748
+
+White head, May 1873, age 27, born Missouri, Dunklin County, Liberty Township. Wife Jennie M, 35, Missouri. Children Frank P, 7; a son, 5; Bessie, August 1897, age 2, Missouri. Diplomatic Bessie. Dunklin Liberty is not Bollinger Liberty. Rejected as C244.
+
+![Missouri S-415 — Seth E, 27, Missouri, Dunklin Liberty; Bessie, 2; not C244](sources/soundex/mo1900-s415-n0058-sethe-dunklin-liberty-bessie-2.jpg)
+
+### 294 · 1900 (index) · Tennessee S-415 — Mary, 38, Indiana, Shelby Memphis; adults only
+
+**Role:** Context  
+**File:** [`sources/soundex/tn1900-s415-n0226-mary-38-in-memphis.jpg`](sources/soundex/tn1900-s415-n0226-mary-38-in-memphis.jpg)  
+**Source:** S411 · C755
+
+White female head, May 1862, age 38, born Indiana, Shelby County, 14th District, Memphis, Poplar. Children Michael, 21, Indiana; Jennie, 18, Indiana; Delia, 18, Tennessee. Indiana-born leftover-M head with no girl ~0–2. Not merged with C244.
+
+![Tennessee S-415 — Mary, 38, Indiana, Shelby Memphis; adults only](sources/soundex/tn1900-s415-n0226-mary-38-in-memphis.jpg)
+
+### 295 · 1900 (index) · Tennessee S-415 — Mark, 41, Tennessee, Tipton; Ethel P, 2; not C244
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/tn1900-s415-n0224-mark-ethelp-2.jpg`](sources/soundex/tn1900-s415-n0224-mark-ethelp-2.jpg)  
+**Source:** S411 · C754
+
+White head, December 1858, age 41, born Tennessee, Tipton County, Civil District 6. Wife Belldona, 24, Tennessee. Daughters Lucille, 3, and Ethel P, May 1898, age 2, Tennessee. Diplomatic Ethel P. Father Tennessee. Rejected as C244.
+
+![Tennessee S-415 — Mark, 41, Tennessee, Tipton; Ethel P, 2; not C244](sources/soundex/tn1900-s415-n0224-mark-ethelp-2.jpg)
 
 ### 123 · 1900 (index) · Texas C-563 — J-tab divider
 

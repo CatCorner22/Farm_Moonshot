@@ -1163,3 +1163,26 @@ research/dora-ella-newnam/sources/soundex/mo1900-s415-n3787-martha-jane-1.jpg
 research/dora-ella-newnam/sources/soundex/mo1900-s415-n3832-mary-lucy-9-12.jpg
   sha256: bcd8601332acc71fd5fd61516c80d31cb71f53c12170cfe519899dd8302db49a
   format: JPEG Soundex card, IA soundex1900mo248 n3832
+research/dora-ella-newnam/sources/soundex/b007-pass99-1900-leftover-gs-m-2026-10-31.txt
+  format: Pass 99 leftover G/S + leftover M KY/AR/TN + MO leftover S search log
+research/dora-ella-newnam/sources/soundex/tn1900-s415-n3924-slavin-henson-dau-2.jpg
+  sha256: 2199f9d182401db7788d1886479fdbb8de6a469f82fdcb19f5c733443e470c23
+  format: JPEG Soundex card, IA soundex1900tn153 n3924
+research/dora-ella-newnam/sources/soundex/tn1900-s415-n0205-lottie-22-sil.jpg
+  sha256: f6171a0e958202ccf9cab89d4f776532be702dc10756be2c74f10be0ff4e1473
+  format: JPEG Soundex card, IA soundex1900tn154 n0205
+research/dora-ella-newnam/sources/soundex/ar1900-s415-n2706-martinc-42-ms.jpg
+  sha256: d354a8b7ac170c1e8be5f423c72d514b39a290607902e8a7c12303c6bf75ab6c
+  format: JPEG Soundex card, IA soundex1900ar107 n2706
+research/dora-ella-newnam/sources/soundex/ar1900-s415-n2707-martinc-lora-2.jpg
+  sha256: 8880daa45113065fa9c4557922db17871bd6b40e4a2ab6c95bd30dda8de4664e
+  format: JPEG Soundex card, IA soundex1900ar107 n2707
+research/dora-ella-newnam/sources/soundex/mo1900-s415-n0058-sethe-dunklin-liberty-bessie-2.jpg
+  sha256: 51113286135dbef4940dab825df3391ef2d9a776b796e0c8fba6c31e9f0f4e75
+  format: JPEG Soundex card, IA soundex1900mo249 n0058
+research/dora-ella-newnam/sources/soundex/tn1900-s415-n0226-mary-38-in-memphis.jpg
+  sha256: cca8809466c160ad75659c8501471c0e7c276cd5e4742666baac36e5f3569278
+  format: JPEG Soundex card, IA soundex1900tn154 n0226
+research/dora-ella-newnam/sources/soundex/tn1900-s415-n0224-mark-ethelp-2.jpg
+  sha256: 80bb407c6c7185cfcea0dd851491c1991adeb32d837139e535652a2ec7aebc52
+  format: JPEG Soundex card, IA soundex1900tn154 n0224
