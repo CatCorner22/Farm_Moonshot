@@ -2894,3 +2894,15 @@ research/dora-ella-newnam/sources/census/1880-lee-ky-ed59-sheet43-p768-caroline-
   sha256: d987b7a7f22cedb1576f5e8ef7430df7a191002e4f17cb88b70047432f9d1077
   format: text extract, 599 bytes
   check: T288 IIIF reels 348/347 HTTP 200 SPA 5454 bytes not IIIF JSON; cards unseen
+/workspace/research/dora-ella-newnam/sources/indexes/pass111-coverage.txt
+  sha256: 7ba5a7d4a9473e56a7c30c60b3e210173f64c995861a46a988d24638d82f3027
+  format: text extract, 3,166 bytes
+  check: Pass 111 coverage; catalog 219 NEW 4 process-only; Carroll 1838-1938 N/O/G/J covering 1902 nil; Knox N/G/J covering 1902 nil; Magoffin 1860-1900 n/a as 1902; T288 347 SPA 5454 / 348 timeout 22s
+/workspace/research/dora-ella-newnam/sources/indexes/josephine-gilbert-pass111.txt
+  sha256: cad6e2d220fdf20909bfc90e143bcda568a483828a5e32a8644e30d8080bf605
+  format: text extract, 6,017 bytes
+  check: Carroll 1838-1938 covering 1902 nil this couple; Knox N/G/J covering 1902 nil; Magoffin 1860-1900 n/a; Madison A-L Josephine 0
+/workspace/research/dora-ella-newnam/sources/indexes/t288-timeout-pass111.txt
+  sha256: ef4146bc04df3ec105154cfd5d1c2030c263400bfde0e74ccfc15d70229fc84a
+  format: text extract, 633 bytes
+  check: T288 IIIF reel 347 HTTP 200 SPA 5454 bytes not IIIF JSON; reel 348 timeout 22s 0 bytes; cards unseen

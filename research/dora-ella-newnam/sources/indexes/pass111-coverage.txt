@@ -1,0 +1,55 @@
+Pass 111 coverage — 31 Oct 2026 (America/New_York)
+This run bc-01a18bb4-e162-785c-9724-86a7c5663bf1
+Catalog list-cloud-agents includeArchived limit 200 → 219 / hasMore false / totalMatched 219
+(offset 0 returned 200 hasMore true; offset 200 returned 19).
+Was 215 (Pass 110 filing). NEW vs 215 (4; no IDs imported):
+  Build Dora Word biography bc-b9d94485-5c46-58ad-beff-f5b41419d353 IDLE
+  Final updated Dora Word doc bc-fc58d039-3743-5b37-9a56-f3dccc892bc9 IDLE
+  Dora Mercer Lincoln resume bc-d3bba242-edb9-5b57-a461-15c2ee094059 IDLE
+  Finish Word, save, wrap bc-75737cc7-efbc-5f33-a0a5-e31ef1f798c7 IDLE
+Status-only (not new IDs):
+  Hunt Dora same id renamed B086 Johnson 1910 T624-54
+    same id bc-aa43eaa5-be23-54be-a20a-7a5238fd33f8 now ERROR
+    (was B084 Bell Jackson Harlan files RUNNING at Pass 110 filing).
+  B054 still Next remote after B041
+    same id bc-20e39036-9573-5790-87e8-76e84d742488 still IDLE.
+  1900-death remains B007 T623-840 remaining EDs
+    same id bc-6d51c793-cffb-5165-99f1-7d7ac656b317 now ERROR (was RUNNING).
+  B045 remains B042 UK film residual
+    same id bc-c5415202-619c-5848-aaa6-1ce23094b5fd still IDLE.
+  Sibling PR #33 C281 not imported.
+Nested reviewer not respawned. Message queue empty.
+Skip C221-C280 / L245-L342 / S259-S266.
+Do not mint C274-C280. Do not promote C509. Do not hunt D-540.
+Do not close B063. Do not hunt remaining 1930 Owsley sheets (closed Pass 94).
+Do not import C281. Do not invent T288 card contents.
+Do not commit leftover 1920 ED 89 / N-550 JPEGs.
+Do not commit Carroll 1838-1938 XLS (73,216 / 136,192 / 138,240 bytes; extract only).
+Do not commit Knox Marriage-Certificates HTML.
+Do not commit Magoffin 1860-1900 HTML (45,340 bytes).
+Do not commit Madison A-L clerk-index PDF (42,709,089 bytes) or pdftotext dump
+  (1,869,763 bytes).
+
+Work this pass:
+- Carroll kygenweb 1838-1938 combined bride/groom Excel OPENED for letters
+  N/O, G, and J (covering 1902). NIL Josephine Newnam x Gilbert.
+  Gilbert J.M. Dr x Guinn Dora 1902 6-103 DISPROVED.
+  Newman Stanley E x Gordon June 1937 other.
+- Knox kygenweb Marriage-Certificates grooms/brides N/G/J OPENED covering 1902.
+  NIL Josephine Newnam x Gilbert on opened covering 1902 letters.
+  Newman, Lillie x Centers, Thomas 1/2/1902 J/71 DISPROVED.
+  Gilbert George x Newman Nancy 11/18/1886 DISPROVED.
+  Josephine C Johnson x Bain 10/2/1900 DISPROVED.
+- Magoffin kygenweb marriages-1861-1900.html OPENED through 1900
+  (n1900=10; n1901=0; n1902=0). n/a as covering 1902.
+  Magoffin 1860-1910 society book still purchase-only.
+- Madison 1786-1952 A-L clerk-index PDF OPENED via pdftotext only:
+  Josephine/Josie 0; Gilbert hits are Bradley & Gilbert Company printer
+  footers. Do not commit the 42 MB PDF.
+- Carroll marriages landing OPENED (11,162 bytes): 1838-1938 Excel index
+  plus 1837-1891 HTML remaining n/a as covering 1902 (through 1891).
+- T288 IIIF reel 347 frame 01001 info.json HTTP 200, 5,454-byte Catalog SPA
+  HTML, not IIIF JSON. Reel 348 timeout 22s, 0 bytes (file not saved).
+  Card images unseen. Do not treat SPA HTML as a card-nil.
+
+B061 / B063 remain open. Next unused after this pass: C1156+ / L1034+ / S759+ / DOC261+.

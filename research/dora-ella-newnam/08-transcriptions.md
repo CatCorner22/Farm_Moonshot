@@ -5916,3 +5916,57 @@ Pass 2: Do **not** invent T288 card contents. Do **not** promote C509.
 ### Facts extracted → claim IDs
 - IIIF SPA 5,454 bytes; images unseen → C1146
 - B061 remaining gap → C1148
+
+## DOC258 — Catalog + Pass 111 coverage
+
+- Extract: `pass111-coverage.txt` SHA-256 `7ba5a7d4a9473e56a7c30c60b3e210173f64c995861a46a988d24638d82f3027`
+- Provenance: Cursor `list-cloud-agents` includeArchived limit 200, 31 Oct 2026. This run `bc-01a18bb4-e162-785c-9724-86a7c5663bf1`.
+- Access: process listing. **No** new independently image-backed P001 1900–1926 residence.
+
+### Diplomatic — cited extract
+
+> **219** / `hasMore: false` / `totalMatched: 219`. Was **215**. NEW vs 215 (4; **no IDs imported**). Status-only: Hunt Dora same id renamed B086 ERROR; B054 still Next remote after B041 IDLE; B007 now ERROR. Sibling C281 **not imported**.
+
+Pass 2: Process count only. Skip **C221–C280**. Do **not** promote C509. Do **not** hunt remaining 1930 Owsley sheets.
+
+### Facts extracted → claim IDs
+- catalog 219; NEW 4 → C1149
+- B063 remaining gap → C1154
+- B061 remaining gap → C1155
+
+## DOC259 — Josephine remaining substitutes (Pass 111)
+
+- Extract: `josephine-gilbert-pass111.txt` SHA-256 `cad6e2d220fdf20909bfc90e143bcda568a483828a5e32a8644e30d8080bf605`
+- Coverage: `pass111-coverage.txt` `7ba5a7d4a9473e56a7c30c60b3e210173f64c995861a46a988d24638d82f3027`
+- Provenance: Carroll 1838–1938 XLS N/O/G/J; Knox Marriage-Certificates N/G/J; Magoffin 1860–1900 HTML; Madison A–L pdftotext. Opened 31 Oct 2026. **HTML-seen / XLS-seen / compiled / pdftotext**. License unseen. Carroll XLS, Knox HTML, Magoffin HTML, and Madison 42 MB PDF **not committed**.
+
+### Diplomatic — cited extracts
+
+> Carroll 1838–1938 Excel N/O year-col 1902: 4; G year-col 1902: 13 including Gilbert J.M. Dr × Guinn Dora 6-103 DISPROVED; J year-col 1902: 8. Nil Josephine Newnam × Gilbert.
+
+> Knox N/G/J covering 1902: grooms N 3 other; brides N Newman Lillie × Centers Thomas 1/2/1902 DISPROVED; grooms G 7 none Gilbert; brides J 0 Josephine in 1902. Nil this couple.
+
+> Magoffin 1860–1900 n1900=10 n1902=0; n/a as covering 1902. Madison A–L Josephine/Josie 0; Gilbert printer footers.
+
+Pass 2: License still unseen. Do not close B063.
+
+### Facts extracted → claim IDs
+- Carroll 1838–1938 N/O/G/J covering 1902 nil this couple → C1150
+- Knox N/G/J covering 1902 nil this couple → C1151
+- Magoffin n/a as 1902; Madison A–L Josephine 0; Carroll 1837–1891 n/a → C1152
+- B063 remaining gap → C1154
+
+## DOC260 — T288 IIIF SPA 5,454 / timeout 22s (Pass 111)
+
+- Extract: `t288-timeout-pass111.txt` SHA-256 `ef4146bc04df3ec105154cfd5d1c2030c263400bfde0e74ccfc15d70229fc84a`
+- Provenance: NARA Catalog IIIF T288-0347-01001 and T288-0348-01001 info.json. Opened 31 Oct 2026. **Access-fail**.
+
+### Diplomatic — cited access results
+
+> Reel 347 frame 01001 info.json HTTP 200, 5,454-byte Catalog SPA HTML, not IIIF JSON. Reel 348 timeout 22s, 0 bytes. Card images unseen.
+
+Pass 2: Do **not** invent T288 card contents. Do **not** promote C509.
+
+### Facts extracted → claim IDs
+- IIIF SPA 5,454 bytes (347) / timeout 22s (348); images unseen → C1153
+- B061 remaining gap → C1155

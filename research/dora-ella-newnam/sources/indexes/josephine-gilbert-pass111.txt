@@ -1,0 +1,99 @@
+Pass 111 — Josephine Newnam x Gilbert ~1902 remaining substitutes
+Opened 31 Oct 2026 (America/New_York). Compiled / HTML-seen / XLS-seen / pdftotext.
+License unseen. Original 1916 DC face unseen. T288 images unseen.
+Do not commit Carroll XLS, Knox HTML, Magoffin HTML, Madison 42 MB PDF, or
+madison-al.txt (1,869,763 bytes).
+
+Carroll kygenweb 1838-1938 combined bride/groom Excel OPENED (covering 1902)
+  Landing: https://kygenweb.net/carroll/carroll-marr.htm (11,162 bytes).
+  Banner: Index to Marriage Records 1838-1938; combined bride and groom indices;
+  contributed Marie Winburn / Peggy Samland. Clerk copies via Carroll County
+  Clerk, 440 Main Street, Carrollton, KY 41008-1099.
+  Letters opened (xlrd 1.2.0; held /tmp/pass111/; not committed):
+    samlandN_O.xls 73,216 bytes; Sheet1 451x5 (header + 450 data).
+      Columns: Bride & Groom, Names Combined / (blank) / Marriage Yr. /
+      Marriage Book & Page # / Race.
+      Year-col 1902: 4. NIL Josephine Newnam x Gilbert.
+      1902 rows (all other): Noelker Fred x West Mary L 6-146;
+        O'Neal Virgie C x Knox Edward C 6-095;
+        Oak Jessie E x Sutherland Mary E 6-142;
+        Ogburn Harry x Croxton Lulie 6-157.
+      Newman Stanley E x Gordon June 1937 13-313 other.
+      Josephine/Josie hits other years only (Nevill Josie J 1933 / Neville
+        George x Dunn Josephine 1924 / Neyman Josephine 1920 / North Theo. x
+        Brown Josie 1900 / O'Neal / Ogburn / Osbourne / Owsley other).
+      Gilbert 0 on N/O. Newnam 0.
+    samland_G.xls 136,192 bytes; Sheet1 918x5 (header + 917 data).
+      Year-col 1902: 13. NIL Josephine Newnam x Gilbert.
+      Gilbert J.M. Dr x Guinn Dora 1902 6-103 DISPROVED (also reverse row
+        Guinn Dora x Gilbert J.M. Dr 1902 6-103).
+      Other 1902 G-letter rows other (Galinghouse, George, Gill, Gorden,
+        Grant, Grasmick, Gross, Gullion, Hall, Hambrick).
+      Josephine/Josie hits other years only. Newman Gordon June reverse 1937.
+    samland_J.xls 138,240 bytes; Sheet1 797x5 (header + 796 data).
+      Year-col 1902: 8. NIL Josephine Newnam x Gilbert.
+      Newman/Newnam 0. Gilbert given-name other years only (Jones/Kahn/
+        Kaiser/Keesing; none 1902).
+      Josephine/Josie hits other years only (Jacobs 1905 / Jenkins 1922 /
+        Jett 1884 / Justice 1930 / Kendall 1931 / Kendoll 1912 / Kennedy 1888).
+      1902 J rows: Jackson George T / Jackson Sarah / Jenkins Wm. /
+        Jett Davis H / Jones Susie / Kelley Jas. M / Kendall James S /
+        Kindle Charlie — all other.
+  Covering 1902 for opened N/O, G, and J letters. NIL this couple.
+  Remaining Excel letters (A–F, H–I, L, M, P–Z) not opened this pass.
+  1837-1891 HTML remaining n/a as covering 1902 (title through 1891).
+
+Knox kygenweb Marriage-Certificates grooms/brides N/G/J OPENED (covering 1902)
+  HTML-seen. License unseen (compiled clerk index).
+  Grooms N (knox-gn.html 48,948 bytes; 139 rows): 1902 rows 3 —
+    Nelson Aburn x Elliott Eliza 01/30/1902 J/109 other;
+    Norvill James x Harp R L 08/16/1902 J/293 other;
+    Nowlin B H x White Alice 09/02/1902 P/247 other.
+    Newman grooms other years only. Josephine/Josie 0. Gilbert surname 0 in 1902.
+  Brides N (knox-bn.html 29,486 bytes; 138 rows): 1902 rows 3 —
+    Neal Mollie C x Parks J.B. 4/18/1902 J/187 other;
+    Newman, Lillie x Centers, Thomas 1/2/1902 J/71 DISPROVED as this couple
+      (already backlog "Newman Lillie 1902 other"; now opened as covering slice);
+    Nuckles Luronda x Hubbard Jeff 7/31/1902 J/331 other.
+    Newman, Nancy (Mary) x Gilbert, George 11/18/1886 H/19 DISPROVED (same couple
+      as grooms G Gilbert George x Newman Nancy).
+    Josephine Neal 1928 other.
+  Grooms G (knox-gg.html 279,341 bytes; 809 rows): 1902 rows 7 none Gilbert
+    (Gambrel, Gibson, Golden, Goodin, Goodman, Grove, Gray — all other).
+    Gilbert George x Newman Nancy 11/18/1886 H/19 DISPROVED.
+    Gilbert grooms exist other years; none 1902.
+  Brides G (knox-bg.html 163,404 bytes; 807 rows): 1902 rows 17 none this couple
+    (Gambrel, Garmon, Gibbins, Gibson, Goins, Golden, Gray, Green, Gregory).
+    Josephine/Josie G-brides other years only.
+  Grooms J (knox-gj.html 220,716 bytes; 651 rows): 1902 rows 9 none this couple
+    (Jackson, Johnson, Jones). Josephine/Josie 0 in 1902 (Josie Wilson 1905 other).
+  Brides J (knox-bj.html 127,869 bytes; 613 rows): 1902 rows 9 none Josephine/Josie.
+    Josephine C Johnson x Bain Dant 10/02/1900 K/3 DISPROVED (already known).
+    Josie Jones x Killion 08/19/1881 other.
+  NIL Josephine Newnam x Gilbert on opened covering 1902 N/G/J letters.
+
+Magoffin kygenweb marriages-1861-1900.html OPENED (n/a as covering 1902)
+  URL: https://kygenweb.net/magoffin/marriages-1861-1900.html
+  File mag-1860.html 45,340 bytes. Title "Marriages 1860-1900" /
+  nav "Marriages 1861-1900". Random Marriage Records (1860-1900);
+  arranged by last name of the groom.
+  Year tokens n1900=10 / n1901=0 / n1902=0. Through 1900.
+  Newman/Newnam/Josephine/Josie/Gilbert 0 on this page.
+  n/a as covering 1902. Magoffin 1860-1910 society book still purchase-only.
+
+Madison 1786-1952 clerk-index A-L PDF OPENED (extract only; not committed)
+  PDF 42,709,089 bytes; pdftotext madison-al.txt 1,869,763 bytes.
+  Josephine 0. Josie 0.
+  Newman OCR hits exist (spaced letters: Margarett / Pauline / Nell / Henry /
+    Roy M / George / Bell / Samuel W / Elizabeth / Lou / Robert / Malcolm /
+    George W / Mattie E / R Maxwell / Dovie C / Lillie M / Newman Slusher).
+  No Newman line with a year token on the same OCR line; no 1902 Newman.
+  Gilbert count 387 — unique contexts are Bradley & Gilbert Company Inc.,
+    Louisville, Ky. printer footers, not grooms.
+  Do not commit the 42 MB PDF or 1.8 MB dump (same class as "Madison 40MB PDFs").
+  M-Z already OCR'd prior pass: Newman years exist, no 1902 Newman.
+
+Carroll 1837-1891 HTML remaining n/a as covering 1902 (through 1891).
+  Landing lists 1837marriages*.htm letter slices; not opened as 1902 coverage.
+
+License still unseen. Do not close B063.
