@@ -320,5 +320,9 @@ Place as it was *at the date*; modern equivalent in brackets. Flag impossibiliti
 | 1930 | — | FAN **PROVEN** as catalog: us-census Estill 1930 still **33-1–33-4** published; **33-8** stamped **095A–102B** unpublished. AHGP Reel **742** filming order includes **33-8** | Estill Co., KY | C1219 C1220 | S916 S917 |
 | 2026 | — | FAN **PROVEN** as catalog: Pope HQ phone **479-968-4368**; fax **479-968-3222**; hours Mon–Wed/Fri 8:30–5:30, Thu 12–7, Sat 9–1 | Russellville, Pope Co., AR | C1222 | S919 |
 | 1917–1918 | — | FAN **PROVEN** as compiled landing: KYGenWeb Owsley / Lee / Breathitt military have **no** WWI draft page. Estill `military.html` **404** | Lee / Owsley / Breathitt / Estill, KY | C1223–C1225 C1228 | S920–S922 S925 |
+| Apr 1930 | — | FAN **PROVEN** as image: Estill **33-8** Station Camp South isolated on IA ACPL **`kentuckycensus00reel742`** leaves **777–792** (stamped **095A–102B**). Enumerator Thomas H. Brison | Estill Co., KY | C1230 C1231 | S927 S928 |
+| Apr 1930 | — | FAN **PROVEN** as visual nil: Boyd + Allie Newman/Newnam **absent** from all **16** sheets of 1930 Station Camp South **33-8**. Combined with **33-7** absent = both Station Camp EDs | Estill Co., KY | C1232 C919–C921 | S929 |
+| 1899–2008 | — | FAN **PROVEN** as catalog: Hutchins FAQ **9806** — *Citizen* microfilm **1899–2008**; phone **859-985-3364**; email **reference@berea.edu** | Berea, Madison Co., KY | C1235 | S932 |
+| 3 Jul 1958–Dec 2008 | — | FAN **PROVEN** as catalog: UK Young Library **Microfilm S-150** *Berea Citizen* **1958: Jul. 3 – 2008 : Dec.** June 1958 still *The Citizen* | Lexington, Fayette Co., KY | C1236 | S933 |
 
 **Impossibility flags:** None. Mother ~29 at Dora’s 1871 birth (Mary b. 1842). Dora age 14 at marriage is legal/period-possible (KY) though young; 1880 age 8 corroborates. Two children born before Coy in the 1886–1889 window would have Dora aged 15–18 — possible. No event after 23 Aug 1926 is attributed to her.

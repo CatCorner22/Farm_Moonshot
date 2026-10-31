@@ -801,6 +801,20 @@ Exact strings logged **L1036–L1048**.
 
 Exact strings logged **L1049–L1063**.
 
+### Pass 107 variant storm (31 Oct 2026)
+
+**Boyd / Allie (B089)** — Boyd/Boyde/Floyd × Newman/Newnam/newnarn/newan. Soundex **N550** / **B300**. Place 1930 **33-8** Station Camp South stamped **095A–102B**; IA **`kentuckycensus00reel742`**; us-census `_indx-m-q`. OCR given Boyd.
+
+**Dora Stone 1926 (B049/B058)** — Dora/posa/dosa/rosa/dona × Stone/Newman/Newnam. Soundex **S350** / **N550**. Place Ola / Yell / Dardanelle. Advantage Preservation. NewspaperArchive. HeritageTracer Yell 1899–2008. Cert **1524** RD **676**.
+
+**Frank / David G (B055/B080)** — Frank/David F./David G. × Newnam/Newman. Soundex **N550**. Place Madison / Berea. Cert **13719** RD **028**. Hutchins FAQ **9806** phone **859-985-3364**. UK **S-150**.
+
+**WWI (B069/B047)** — Luther/John H./McCoy × Newnam/Newman/newnarn. GT Lee draft tables. M1509 **KY45 / KY24 / KY74**. SortedByName Boyd Newman.
+
+**Samuel P. (B045/B061)** — Samuel/Sam × Newnam/Newman + will/estate. USGenNet wills reconfirm (search-text). OnGenealogy residual.
+
+Exact strings logged **L1064–L1078**.
+
 ## Agent SDK / GitHub channel
 
 Inspected 30 Oct 2026 (**L351**): this repository has **no** `package.json`, **no** `@grok/agent-sdk`, **no** `bot/` directory. GitHub channel `bot/channels/github.ts` is **n/a** and was **not** authored. Project subagent: `.cursor/agents/dora-genealogy-detective.md`.

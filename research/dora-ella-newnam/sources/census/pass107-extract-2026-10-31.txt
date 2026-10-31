@@ -1,0 +1,110 @@
+Pass 107 extract — 31 Oct 2026
+B089 Estill 1930 33-8 isolated on IA ACPL reel 742; Boyd+Allie absent
+B055/B080 Hutchins FAQ 9806 + UK Young Library S-150
+B069 GT Lee WWI live reget nil Newman
+
+=== C1230 IA ACPL T626-742 ===
+identifier: kentuckycensus00reel742
+title: 15th census, population, 1930. [microform]
+volume: Reel 742
+imagecount: 1165
+collection: 1930_census
+description includes: reel 742. Daviess (E.D's 30-34 to 30-50), Edmonson, Estill, Grant
+PDF: kentuckycensus00reel742.pdf 495745489 bytes (not downloaded)
+JP2 zip: 1417756318 bytes (not downloaded)
+IIIF canvases: 1162
+URL: https://archive.org/details/kentuckycensus00reel742
+Distinct from incomplete 15thcensusofpopu742unit (515 images; 33-8/33-9 absent).
+
+=== C1231 33-8 isolated (image seen) ===
+Leaves 777–792 (IIIF jp2 kentuckycensus00reel742_0777.jp2 … _0792.jp2)
+State Kentucky / County Estill / Magisterial District 3 (part)
+Enumeration District 33-8
+Enumerator Thomas H. Brison (header spelling)
+Sheet 1A stamped 095 (leaf 777) through sheet 8B (leaf 792)
+Matches us-census _partial: 33-8 District 3 Station Camp (South) 095A–102B
+Blank leaf 776 between 33-7 end and 33-8 start
+Leaf 774 = 33-7 Station Camp Dist 3 sheet ~11–12B (end of North)
+Leaf 794 = 33-9 sheet 1B (Hattie M. Cole) — 33-9 also on this reel, not fully read
+
+=== C1232 33-8 name-column visual nil Boyd/Allie Newman ===
+All 16 sheets name columns visually read (nm0777–nm0792).
+No head or member surname Newman / Newnam / Newmon / Newnarn.
+Rejected same-name given names (not the FAN):
+  Flynn, James H hh, son Boyd ~4 (sheet 1A)
+  Witt, William P hh, son Floyd (sheet 2B)
+  Fowler, Floyd head (sheet 3A)
+Head surnames seen (diplomatic; some given-name readings uncertain):
+  1A Estes, Flynn, Alcorn, Miller, Parks, Gilbert, Murphy, Cole, Fox
+  1B Norris, Ringer, Gose, Fowler, Alderson, Ramsey, Marcum, Lynch
+  2A Lynch, Reynolds, Fields, Isaacs, Cox, Fox, Richardson
+  2B Reed, Richardson, Marcum, Witt, Parks
+  3A Cox, Winkle, Fox, Smith, Gabbard, Arvine, Fowler, Tackett, Tipton, King
+  3B Ingram, Gray, Mays, King, Witt, Fowler, Richardson, Cox, Flynn
+  4A Gabbard, Winkle, Flynn, Durbin, Fowler, Daugherty, McKinney
+  4B Winkle, Frank, Hoover, Witt, Smith, Flynn, Estes, Lancaster, Roth, Alumbaugh
+  5A Flynn, Richardson, Horn, May, Rowland, Hamilton, Parks, Roberts
+  5B Ringer, Turner, Gander, Tackett, Plowman, Reed, Rice
+  6A Norris, Gose, Estes, Johnson, Fields, Mays, Todd, Moore, Estes
+  6B Arvine, Reed, Plowman, Parks, Horn, Powell, Robertson, Morry
+  7A Tackett, Parks, Isaacs, McKinney, Horn, Bowling, Ingram
+  7B Cox, McIntosh, Ramer, Mays, Parks, Durbin, Sparks, Estes
+  8A Parks, Horn, Hoover, Arvine, Ingram, Chanelon, Richardson
+  8B Powell, McKinney — remainder blank (ED ends)
+Combined with 33-7 COMPLETE absent (C919–C921): Boyd+Allie absent from both 1930 Station Camp EDs.
+
+=== C1233 33-9 on same reel (catalog / header seen) ===
+Leaf 805 = 33-9 sheet 1A (Hattie M. Cole)
+Leaf 815 = 33-9 sheet 12A stamped ~114
+Not fully read this pass.
+
+=== C1234 us-census published M–Q index ===
+_indx-m-q.txt (published 33-1–33-4 only): Newman / Newnam / Newmon 0.
+Irvine/Ravenna published files have no Newman.
+
+=== C1235 Hutchins FAQ 9806 ===
+URL: https://libraryanswers.berea.edu/faq/9806
+Q. Can I get articles from the Berea Citizen at the library?
+A. Yes. Hutchins Library does provide access to the Berea Citizen in many formats.
+We retain the most recent four issues of the Berea Citizen in print hardcopy.
+We maintain a subscription to a microfilm collection of the Berea Citizen from 1899 to 2008; more recent years are added as they become available. The Berea Citizen for the years1900-1922 is also available electronically: http://chroniclingamerica.loc.gov/lccn/sn85052076/issues/
+Footer: Hutchins Library; Call: 859-985-3364; Email: reference@berea.edu
+
+=== C1236 NKAA Berea citizen ===
+URL: https://nkaa.uky.edu/nkaa/items/show/300001007
+University of Kentucky Libraries : Young Library, Periodicals Desk, 2nd floor, Microfilm S-150 ; 1958: Jul. 3 - 2008 : Dec.
+Access / Prior title: The Citizen
+June 1958 death still *The Citizen* (C1192) — S-150 starts 3 Jul 1958.
+
+=== C1237 GT Lee WWI live ===
+https://genealogytrails.com/ken/lee/wwi_draft_cards.html HTTP 200 452540
+Newman / Newnam / Newmon / McCoy: 0
+Luther hits: Brandenburg, Luther; Underwood, Luther only.
+Densifies C1210 / C1158.
+
+=== C1238 M1509 pamphlet KY rolls (reconfirm) ===
+KY24: Edmonson T–Z + Elliott A–Z + Estill A–Z + Fayette A–E
+KY45: Lawrence K–Z + Lee A–Z + Leslie A–Z
+KY64: Madison N–Z
+KY74: Oldham A–Z + Owen A–Z + Owsley A–Z
+KY90: Wolfe C–Z + Woodford A–Z
+Reconfirm C1021.
+
+=== C1239–C1240 access ===
+ExploreUK Anubis bot wall. NewspaperArchive Dardanelle 403.
+SortedByName boyd_newman.html 403. yellcountyobits.com DNS.
+HeritageTracer live 403 (search-text: Yell County Record and Dardanelle Post Dispatch 1899–2008 listed; no free URL opened).
+NARA catalog API SPA. KDL JS shell (no issue list extracted).
+Advantage Preservation home HTML seen — no Dardanelle / Yell / Berea title on the landing.
+
+=== C1241 analysis ===
+1930 Station Camp 33-7 + 33-8 both visually read — Boyd+Allie absent.
+33-8 is no longer “unpublished on free film.” us-census published files still 33-1–33-4 only.
+Residual B089: 33-9 Red Lick unread; 33-5 Irvine South unread; Book 6 register; certs 28501 / 31780; M1930 roll 15 maps; Floyd still not merged #27.
+1926 still Pope Roll 5 / UArk F419.D37 D3.
+1958 still Hutchins cards 228–229 + June 1958 *Citizen* film / Newspapers.com 41271; UK S-150 is Jul 3 1958–Dec 2008 only.
+David G 1958 still POSSIBLE only vs Frank (G≠F).
+1984 David G still POSSIBLE Jr. only.
+#20 #26 #27 open.
+Do not print 1966, 1976, Floyd-as-Boyd, 1962 as McCoy death, or 1942 Combs charge as fact.
+Living 1932 descendants withheld.
