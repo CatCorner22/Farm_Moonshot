@@ -1,0 +1,33 @@
+Pass 86 — 1920 original ED 92 sh 6 B dw 115 Barrett Bruce / dw 116 Barrett Billy
+NARA T625 reel 594; IA 14thcensusofpopu594unit _1167.jp2 leaf 1167.
+Original image already in the case: sources/census/1920-owsley-ed92-sh6b-hh115-barrett-bruce.jpg
+  SHA-256 2a710629d4c846b2db9650fff2d821a77b3d1eab6d6307cc300842cb60d65395
+  (204,843 bytes, 1800×678). Image re-read 31 Oct 2026 America/New_York.
+Hard Rule 6 of Soundex B-630 2451 / 2452 / 2438.
+
+Diplomatic — cited lines (two-pass of the household JPEG + names column):
+
+Ln 40 fam 115/115 Barrett, Bruce Head 42 m
+Ln 41 Anna Wife ~52 m
+Ln 42 Lewis Son 12 S
+Ln 43 Levi Son 10 S
+Ln 44 Henry Son 14 S
+Ln 45 Sarah Daughter [age faint] S
+Ln 46 Lottie (Soundex Lotty) Daughter [age faint; Soundex continuation 2452 says 9] S
+Ln 47 fam 116/116 Barrett, Billy Head 22 m
+Ln 48 Darcie[?] Wife 22 m
+Ln 49 May Daughter 4 S
+Ln 50 Fred Son 3 2/12 S
+
+Pass 2: Pass 76 DOC133 “Sallie Dau” is a misread of ln 46 Lottie/Lotty.
+Soundex 2451 Barrett, Bruce W 42 Owsley vol 76 ED 92 sh 6 ln 40 copies this original (Hard Rule 6).
+Soundex 2452 Barrett, Lotty D 9 copies ln 46.
+Soundex 2438 Barrett, Billy W 22 Owsley vol 76 ED 92 sh 6 ln 47 copies dw 116.
+Billy is a separate head with his own wife and children. Not silently merged with Bruce
+(age 22 vs 42; own wife Darcie[?] vs Anna; own children May/Fred vs Lewis/Levi/Henry/Sarah/Lottie).
+C819 vs 1910 Barrett, Ben 32 × Anna remains POSSIBLE only (Ben vs Bruce). Do not promote.
+
+Facts:
+- Soundex 2451/2452 = original dw 115 (C925)
+- Soundex 2438 = original dw 116; not merged with Bruce (C926)
+- Sallie → Lottie correction (C925 / DOC133 restated)

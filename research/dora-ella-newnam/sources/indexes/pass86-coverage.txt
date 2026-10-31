@@ -1,0 +1,22 @@
+Pass 86 coverage — 31 Oct 2026 America/New_York
+This run bc-01a18bb4-e162-785c-9724-86a7c5663bf1
+Catalog 146 / hasMore false / totalMatched 146. Was 145.
+NEW vs 145 (1; no IDs imported): Dora 1840 Clark B059 RUNNING
+(bc-c271254f-13fb-5d32-aacf-df94d1c9945e).
+Status-only: Dora 1840 N-walks now IDLE (was RUNNING);
+Read IN Charles/Daniel/Joseph/Peter/Robert still RUNNING;
+Dora's biography research PR #33 WAITING_FOR_BACKGROUND_WORK
+(sibling C281 not imported).
+Nested reviewer not respawned. Message queue empty.
+
+Work this pass:
+- B-630 Barrett Bruce given-name slot every-leaf ky018 2425–2480 (56 leaves, 0 fails).
+- 2451 Barrett, Bruce 42 Owsley ED 92 sh 6 ln 40 FOUND; Hard Rule 6 of original dw 115.
+- 2452 continuation Lotty D 9; DOC133 Sallie CORRECTED to Lottie/Lotty.
+- 2438 Barrett, Billy 22 Owsley ED 92 sh 6 ln 47 = original dw 116; not merged with Bruce.
+- 2456 Board, Bruce 40 Muhlenberg DISPROVED as C819.
+- Bruce slot image-closed; C starts 2467 Baird, C. 57 Kenton; 2466 blank leader.
+- C819 remains POSSIBLE vs 1910 Ben (Ben vs Bruce). Do not promote.
+- Josephine remaining / IA T288 / Rogers not re-opened this pass (Bruce densify).
+- Do not hunt D-540. Do not close B063. Do not promote C509. Do not import C281.
+- Gallery 8gz–8hc (312→316). Next unused after this pass C931+ / L813+ / S666+ / DOC179+.

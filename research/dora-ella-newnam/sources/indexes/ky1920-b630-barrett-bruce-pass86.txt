@@ -1,0 +1,88 @@
+Pass 86 — 1920 Kentucky Soundex B-630 Barrett Bruce given-name slot 2425–2480
+NARA M1563 reel ky018 (B-625 Obe–B-631 Wylie)
+IA soundex1920ky018 zip-member JP2. Image-seen 31 Oct 2026 America/New_York.
+Native JP2; keeper = upper-card JPEG crop (top 42%, 1600-wide). Given-name sort.
+56 leaves, 0 fetch fails. Every-leaf visual Read (tesseract on 42% bands garbage).
+
+Bessie (already C908) through Bruce, then C:
+2425 Barrett, Bessie B 28 Henderson vol 37 ED 85 sh 13 ln 94 (C908).
+2426 Byrd, Bessie 19 Ohio (birthplace Ohio) vol 56 ED 61 sh 8 ln 97. Byrd ≠ Barrett.
+2427 Baird, Bessie W 33 Crittenden vol 12 ED 63 sh 4 ln 87.
+2428 Bird, Bessie W 36 Jefferson vol 49 ED 172 sh 1 ln 65.
+2429 Brady, Bessie H W 20 Franklin vol 27 ED 88 sh 11 ln 45.
+2430 Baird, Betsy W 32 McCracken vol 92 ED 290 sh 6 ln 64.
+2431 Barrett, Bettie W 79 Jefferson vol 48 ED 136 sh 7 ln 30.
+  DISPROVED as Bruce 42 (female Bettie; 79 vs 42; Jefferson ≠ Owsley).
+2432 Bird, Bettie W 50 Allen vol 3 ED 27 sh 7 ln 22.
+2433 Board, Bettie B 55 Shelby vol 84 ED 146 sh 4 ln 25.
+2434 Beard, Bettie W 84 Jefferson vol 44 ED 50 sh 6 ln 24.
+2435 Barrett, Bettie W 23 Henderson vol 37 ED 72 sh 5 ln 82.
+  DISPROVED as Bruce 42 (female Bettie; 23 vs 42; Henderson ≠ Owsley).
+2436 Baird, Beulah M W 27 Marion vol 62 ED 96 sh 1 ln 40.
+2437 Brady, Bill B 60 Washington vol 90 ED 152 sh 11 ln 56.
+2438 Barrett, Billy W 22 Kentucky Owsley vol 76 ED 92 sh 6 ln 47.
+  = original T625-594 leaf 1167 stamped 6 B ln 47 dw 116/116 Barrett, Billy 22 × Darcie[?] 22
+    + May dau 4 + Fred son 3 2/12. Hard Rule 6. Next house after Bruce dw 115. Not merged with Bruce.
+2439 Board, Birdie B 25 Jefferson vol 45 ED 155 sh 2 ln 94.
+2440 Barrett, Birdie W 45 Campbell vol 15 ED 50 sh 3 ln 82.
+  DISPROVED as Bruce 42 (female Birdie; Campbell ≠ Owsley).
+2441 Barrett, Bertie W 33 Logan vol 63 ED 63 sh 10 ln 65 Russellville 3rd ward.
+  DISPROVED as Bruce 42 (female Bertie; Logan ≠ Owsley).
+2442 Britt, Bishop F. W 31 Allen vol 2 ED 12 sh 12 ln 28.
+2443 continuation Britt, William A B 20 KY; another child.
+2444 Byrd, Blu (Blue) W 25 Hart vol 36 ED 76 sh 10 ln 6.
+2445 Board, Bob 51 McLean vol 65 ED 119 sh 10 ln 83. Board ≠ Barrett.
+2446 Barrett, Bob W 39 Ohio Co. vol 75 ED 129 sh 19 ln 71.
+  DISPROVED as Bruce 42 (Bob ≠ Bruce; Ohio Co. ≠ Owsley; 39 vs 42).
+2447 Byrd, Robert W 29 Henderson vol 37 ED 85 sh 8 ln 31.
+2448 Barrett, Bonnie R W 3 Adair vol 1 ED 4 sh 1 ln 81.
+  DISPROVED as Bruce 42 (child Bonnie 3; Adair ≠ Owsley).
+2449 Bird, Boyd B 33 Logan vol 63 ED 60 sh 11 ln 29.
+2450 Beard, Branche B 34 Jefferson vol 43 ED 24 sh 4 (Pass 84 sample).
+2451 Barrett, Bruce W 42 Kentucky Owsley vol 76 ED 92 sh 6 ln 40.
+  THE HIT. = original T625-594 leaf 1167 stamped 6 B ln 40 dw 115/115 Barrett, Bruce 42 × Anna
+    + Lewis / Levi / Henry / Sarah / Lottie. Hard Rule 6. Soundex miss of C819 WITHDRAWN.
+2452 continuation of 2451: Barrett, Lotty D 9 Kentucky.
+  Copies original ln 46 Lottie. Pass 76 DOC133 “Sallie Dau” CORRECTED to Lottie/Lotty.
+2453 Barrett, Brice W 25 Clay vol 19 ED 41 sh 2 ln 15.
+  DISPROVED as Bruce 42 (Brice 25; Clay ≠ Owsley).
+2454 Barrett, Bridget W 75 Ireland Scott vol 83 ED 153 sh 9 ln 96 NR.
+  DISPROVED as Bruce 42 (female Bridget 75 Ireland; Scott ≠ Owsley).
+2455 Brody, Brod W 35 Union vol 89 ED 125 sh 6 ln 49. Brody ≠ Barrett.
+2456 Board, Bruce W 40 Kentucky Muhlenberg vol 73 ED 81 sh 10 ln 60.
+  Bruce given-name collision. Surname Board ≠ Barrett; Muhlenberg ≠ Owsley; 40 vs 42.
+  DISPROVED as C819 Barrett Bruce 42 × Anna.
+2457 continuation of 2456: Board, Hugh S 2 3/12 KY; Arthur S 3/12 KY.
+2458 Baird, Bud W 20 Caldwell vol 12 ED 24 sh 5 ln 23.
+2459 Beard, Bud W 38 Adair vol 1 ED 9 sh 3 ln 27.
+2460 Beard, Beulah M Mu ~5 8/12 Muhlenberg vol 72 ED 84 sh 11 ln 7.
+2461 Beard, Beulah W 48 Kenton vol 38 ED 22 sh 15 ln 92.
+2462 Bradley, Burnett W 24 vol 50 ED 97 sh 1 ln 11.
+2463 Brady, Burnice W 25 Estill vol 20 ED 37 sh 10 ln 99. Estill FAN only; not Barrett Bruce.
+2464 Byrd, Burton W 30 Marion vol 62 ED 94 sh 17 ln 12.
+2465 Byrd, Brother W 45 Graves vol 30 ED 94 sh 3 ln 9.
+2466 dark/blank/illegible film leader. No card. Bruce slot closed before C.
+2467 Baird, C. W 57 Kenton Independence vol 56 ED 146 sh 4 ln 90. C given-names start.
+2468 Baird, C continuation Hubert S 9 KY.
+2469 Britt, C.D. 30 Graves vol 30 ED 77 sh 1 ln 1.
+2470 Baird, C.F. 53 Jefferson vol 46 ED 53 sh 8 ln 59.
+2471 Brady, C.L. W 56 Mercer vol 70 ED 11 sh 5 ln 80.
+2472 Brady, C. Thomas W 15 Jefferson vol 51 ED 216 sh 15 ln 26.
+2473 Beard, Cassie Mu 20 Muhlenberg vol 72 ED 84 sh 11 ln 6.
+2474 Barth, Calvin W 45 Jefferson vol 43 ED 25 sh 5 ln 24.
+2475 Barth, Calvin continuation Charles S 4 KY.
+2476 Beard, Calvin B 60 Spencer vol 84 ED 151 sh 4 ln 84.
+2477 Baird, Calvin G W 31 Muhlenberg Central City vol 72 ED 86 sh 23 ln 18.
+2478 Barrett, Calvin L. W 28 Henderson vol 37 ED 79 sh 8 ln 82 Henderson Helms 1204.
+  DISPROVED as Bruce 42 (given Calvin; 28 vs 42; Henderson ≠ Owsley). C-slot Barrett, not Bruce.
+2479 Byrd, Cam[?] W 32 Clay vol 19 ED 49 sh 2 ln 4.
+2480 Baird, Candie W 52 Daviess Owensboro Walnut 709 vol 21 ED 39 sh 5 ln 12.
+
+Bruce given-name slot image-closed.
+One Barrett, Bruce ~42 Owsley ED 92 head exists: 2451, the derivative of original dw 115.
+Board, Bruce 40 Muhlenberg is a different man.
+Barrett, Billy 22 is the next Buffalo house (dw 116), not Bruce.
+C819 remains POSSIBLE vs 1910 Ben 32 (Ben vs Bruce still contradicts). Do not promote.
+Nil Barrett, Bruce as a second unmatched Owsley ED 92 head.
+Residual: 1910 Ben is a Soundex miss if he stayed “Ben”; Bruce is now indexed.
+Do not hunt D-540. Do not close B063.

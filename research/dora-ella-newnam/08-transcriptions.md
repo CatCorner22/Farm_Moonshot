@@ -3295,7 +3295,7 @@ Pass 2: ED **93** Buck Creek, already filmed (**C746**). Not Rice. Not sh 1.
 
 > Ln **40** fam **115/115 Barrett, Bruce** Head **42** m  
 > Anna Wife ~**52**  
-> Lewis Son **12**; Levi Son **10**; Henry Son **14**; Sarah Dau; Sallie Dau.
+> Lewis Son **12**; Levi Son **10**; Henry Son **14**; Sarah Dau; **Lottie/Lotty** Dau (Pass 76 “Sallie” **CORRECTED** Pass 86).
 
 Pass 2: Lewis age **50** is from the household JPEG (a tight age-crop accidentally hit Susan’s **42**). **Not** missing sheet 1. **Nil Evans, John**. Casey is a third Abner house.
 
@@ -3303,6 +3303,7 @@ Pass 2: Lewis age **50** is from the household JPEG (a tight age-crop accidental
 - 1920 original Abner Lewis 50 × Susan → C808
 - Abner Casey 32 not merged → C818
 - Barrett Bruce 42 × Anna POSSIBLE → C819
+- Lottie/Lotty (not Sallie) → C925
 
 ## DOC134 — 1920 Owsley ED 92 sheet 7 A, dwellings 117 / 119 / 124 (original)
 
@@ -4274,6 +4275,58 @@ Pass 2: License still unseen. Do **not** treat extract-nil as a marriage. Do **n
 ### Facts extracted → claim IDs
 - Josephine remaining nil/n/a; Nicholas JPEG n/a ~1902 → C920
 - IA / Rogers negatives → C921
+
+## DOC177 — 1920 Soundex B-630 Barrett Bruce every-leaf 2425–2480 (Pass 86)
+
+- Extract: `ky1920-b630-barrett-bruce-pass86.txt` SHA-256 `f935afc97ea11bb7a35d63e2261970498e98d1013ddc41ff8a9c283cafec213d`
+- Coverage: `pass86-coverage.txt` `f494e652856e16298b31a7b9bfbd1f66d98e7bef97905e40d01176fb26f0fc31`
+- Provenance: IA `soundex1920ky018` zip-member JP2. **Image-seen** 31 Oct 2026. 56 leaves, 0 fails. Tesseract on 42% bands was garbage; two-pass visual Read of keepers. Keeper = upper-card JPEG crop (1600-wide).
+
+### Diplomatic — cited cards
+
+> **2438** B-630 **Barrett, Billy** Head W **22** Kentucky **Owsley** vol **76** ED **92** sheet **6** line **47**. Derivative of original dw **116** (DOC178).
+
+> **2451** B-630 **Barrett, Bruce** Head W **42** Kentucky **Owsley** vol **76** ED **92** sheet **6** line **40**. The Barrett Bruce head. Derivative of original dw **115** (DOC178).
+
+> **2452** continuation of **2451**: **Barrett, Lotty** D **9** Kentucky. Copies original ln **46** Lottie.
+
+> **2456** B-630 **Board, Bruce** Head W **40** Kentucky **Muhlenberg** vol **73** ED **81** sheet **10** line **60**. **DISPROVED** as C819 (Board ≠ Barrett; Muhlenberg ≠ Owsley).
+
+> **2457** continuation of **2456**: **Board, Hugh** S **2 3/12** Kentucky; **Arthur** S **3/12** Kentucky.
+
+> **2466** dark/blank film leader. No card.
+
+> **2467** B-630 **Baird, C.** Head W **57** Kentucky **Kenton** Independence vol **56** ED **146** sheet **4** line **90**. C given-names start.
+
+Pass 2: Bruce given-name slot **image-closed**. One Barrett, Bruce ~42 Owsley ED **92** head exists and is the original dw **115**. Board Bruce 40 is another man. C819 vs 1910 Ben remains **POSSIBLE**.
+
+### Facts extracted → claim IDs
+- Bruce slot closed; 2451 FOUND → C924
+- 2451/2452 Hard Rule 6 of original dw 115; Sallie→Lottie → C925
+- 2438 Billy 22 = original dw 116; not merged → C926
+- 2456 Board Bruce 40 Muhlenberg DISPROVED → C927
+- other Barrett given-names DISPROVED as Bruce 42 → C928
+
+## DOC178 — 1920 original ED 92 sh 6 B dw 115 Bruce / dw 116 Billy re-read (Pass 86)
+
+- Extract: `owsley-1920-ed92-sh6b-barrett-bruce-billy-pass86.txt` SHA-256 `51e5c04a701f59224353cf51ab6b533cb34982eb2ec6616731776f140ca02a11`
+- Provenance: same original JPEG as DOC133 (`1920-owsley-ed92-sh6b-hh115-barrett-bruce.jpg`). **Image re-read** 31 Oct 2026. Hard Rule 6 of Soundex **2451 / 2452 / 2438**.
+
+### Diplomatic — cited lines
+
+> Ln **40** fam **115/115 Barrett, Bruce** Head **42** m  
+> Anna Wife ~**52**  
+> Lewis Son **12**; Levi Son **10**; Henry Son **14**; Sarah Dau; **Lottie/Lotty** Dau.
+
+> Ln **47** fam **116/116 Barrett, Billy** Head **22** m  
+> **Darcie[?]** Wife **22** m  
+> May Dau **4**; Fred Son **3 2/12**.
+
+Pass 2: “Sallie Dau” in DOC133 is a misread of ln **46** Lottie. Billy is a separate head. **Not merged** with Bruce.
+
+### Facts extracted → claim IDs
+- Original dw 115 = Soundex 2451; Lottie not Sallie → C925
+- Original dw 116 = Soundex 2438; not merged with Bruce → C926
 
 
 

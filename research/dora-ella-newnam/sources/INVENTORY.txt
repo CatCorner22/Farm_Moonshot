@@ -2211,3 +2211,36 @@ research/dora-ella-newnam/sources/census/1880-lee-ky-ed59-sheet43-p768-caroline-
   sha256: 62668bdae8d7a94e379356910ce41d47edc7f82885636c2d23a65167526eaf22
   format: text extract, 1,495 bytes
   check: Pass 85 coverage; catalog 145; Barrett Ben every-leaf closed
+
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-b630-p2451-barrett-bruce-42-owsley-ed92.jpg
+  sha256: c557f6400af29922ee27bddc3244070385c4a3725d83aa593636af94c2781519
+  format: JPEG photo, 79,113 bytes
+  check: 1920 Soundex B-630 Barrett Bruce 42 Owsley ED 92 Hard Rule 6 of dw 115
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-b630-p2452-barrett-bruce-cont-lotty.jpg
+  sha256: bbf1314683bd902baffbe53fca5cc75e5dbe399e57be294541f724a1ba542cae
+  format: JPEG photo, 81,504 bytes
+  check: 1920 Soundex B-630 2452 continuation Lotty D 9 of Bruce 42
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-b630-p2438-barrett-billy-22-owsley-ed92.jpg
+  sha256: 6eb2d2b2b1a49b348a0d1ad59dadd4273c9993957c0b642c121a9f540d0928a3
+  format: JPEG photo, 71,647 bytes
+  check: 1920 Soundex B-630 Barrett Billy 22 Owsley ED 92 Hard Rule 6 of dw 116
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-b630-p2456-board-bruce-40-muhlenberg.jpg
+  sha256: f25aceda0e8a7a9fb96d135f7799e83f9f8d6d9eab83784118c5c42283f339f9
+  format: JPEG photo, 84,318 bytes
+  check: 1920 Soundex B-630 Board Bruce 40 Muhlenberg DISPROVED as C819
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-b630-p2457-board-bruce-cont.jpg
+  sha256: 51d5cd41fcab27337faa5b2f5399310f5021d613c174bcaffd980c0017ac8046
+  format: JPEG photo, 88,998 bytes
+  check: 1920 Soundex B-630 2457 continuation Hugh/Arthur of Board Bruce
+/workspace/research/dora-ella-newnam/sources/indexes/ky1920-b630-barrett-bruce-pass86.txt
+  sha256: f935afc97ea11bb7a35d63e2261970498e98d1013ddc41ff8a9c283cafec213d
+  format: text extract, 5,662 bytes
+  check: 1920 B-630 Barrett Bruce every-leaf 2425-2480 closed
+/workspace/research/dora-ella-newnam/sources/indexes/owsley-1920-ed92-sh6b-barrett-bruce-billy-pass86.txt
+  sha256: 51e5c04a701f59224353cf51ab6b533cb34982eb2ec6616731776f140ca02a11
+  format: text extract, 1,641 bytes
+  check: 1920 original ED 92 sh 6 B dw 115 Bruce / dw 116 Billy; Lottie correction
+/workspace/research/dora-ella-newnam/sources/indexes/pass86-coverage.txt
+  sha256: f024d51887369afe19beb9ce91d06b47d39067e1e0a40357f63de9250ebf9c0c
+  format: text extract, 1,332 bytes
+  check: Pass 86 coverage; catalog 146; Barrett Bruce every-leaf closed
