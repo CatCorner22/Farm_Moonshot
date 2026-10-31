@@ -1,6 +1,6 @@
 # Dora Ella Newnam Stone
 
-*A documented life, 1871–1926. Compiled from every research chat in this project, 27–30 October 2026. Living descendants are not named. Facts below the line of proof are labelled in the text. Nothing here is family lore presented as fact.*
+*A documented life, 1871–1926. Compiled from every research chat in this project, 27–31 October 2026. Living descendants are not named. Facts below the line of proof are labelled in the text. Nothing here is family lore presented as fact. Master Word path: `research/dora-ella-newnam/book/Dora-Ella-Newnam-Stone-A-Life.docx`.*
 
 ## Table of contents
 
@@ -184,7 +184,7 @@ She was fifty-five if she was the eight-year-old of District 59. The certificate
 
 Dora had been in the ground two years when the *Beattyville Enterprise* of 30 November 1928 printed a sick-list note: “Uncle Doll Newman has been very sick… not able to be out.” On 1 April 1932 the same paper said E. T. Sparks of Hazard was visiting Uncle Doll Newnam in town. Seventeen days later Elias T. Newnam died on his ninetieth birthday. Nickname, town, and lifespan are two independent identifiers and no contradiction: the man in those notes is **probable** her father. [C284] [C048] [S270]
 
-The six free issues do not name Dora Stone, Dora Newnam, or Samuel P. They do name a living Beattyville Newnam cluster that is **not** silently merged with her household. Rev. Luther Newnam appears as Christian Church pastor in March–April 1932; Lee marriage books 20–24 show him officiating at Beattyville from at least 24 November 1926 through 1933, including 6 April 1932 — **probable** the same minister, **not** Samuel (dead by 1910). [C285] [C300] [S282] He was still burying the dead in January 1938 (Jane Pitman Longworth). [C318] Lee death extracts for 1932, 1933, and 1939 do not list him as a decedent; the 1939 Luther rows are Luther Deaton. [C319] Everett Newnam of Idamay planned two acres of cane in March 1932; the *Enterprise* of 14 December 1939 reported Everett Newnam, fifty, of Idamay, dead of an accidental pistol discharge on the Heidelberg road. The Kentucky death index says age **fifty-three**, Lee resident, Madison County — the same date — and that age matches a November 1886 birth on the 1900 Owsley Buck Creek schedule (Minerva Newnam’s son Evert). [C349] [C359] [C299] He is **probable** one man from that 1900 house through the 1910 Everet (still single, sister Susan in the house), the 1926 father of Dorothy, the 1932 cane-planter, the 1936 father of Edward, and the 1939 decedent. [C354] He is **not** McCoy, and **not** the Vincent Everett born 1 October 1888 to Daniel Newman and Sarah Venable. [C362]
+The six free issues do not name Dora Stone, Dora Newnam, or Samuel P. They do name a living Beattyville Newnam cluster that is **not** silently merged with her household. Rev. Luther Newnam appears as Christian Church pastor in March–April 1932; Lee marriage books 20–24 show him officiating at Beattyville from at least 24 November 1926 through 1933, including 6 April 1932 — **probable** the same minister, **not** Samuel (dead by 1910). [C285] [C300] [S282] He buried Edward Newnam in September 1936 and was still burying the dead in January 1938 (Jane Pitman Longworth). [C318] [C357] Lee death extracts for 1932, 1933, and 1939 do not list him as a decedent; the 1939 Luther rows are Luther Deaton. [C319] His own death and stone remain open (**B051**). Everett Newnam of Idamay planned two acres of cane in March 1932; the *Enterprise* of 14 December 1939 reported Everett Newnam, fifty, of Idamay, dead of an accidental pistol discharge on the Heidelberg road. The Kentucky death index says age **fifty-three**, Lee resident, Madison County — the same date — and that age matches a November 1886 birth on the 1900 Owsley Buck Creek schedule (Minerva Newnam’s son Evert). [C349] [C359] [C299] He is **probable** one man from that 1900 house through the 1910 Everet (still single, sister Susan in the house), the 1926 father of Dorothy, the 1932 cane-planter, the 1936 father of Edward, and the 1939 decedent. [C354] He is **not** McCoy, and **not** the Vincent Everett born 1 October 1888 to Daniel Newman and Sarah Venable. [C362]
 
 In 1926 that Idamay household **probably** lost wife **Callie (Moore) Newnam** (27 April, age 30, parents Sam Moore and Mary Brandenburg) and infant Dorothy (6 October). [C308] [C309] [C310] The 1939 sister **Mrs Robert Spicer** of Lower Buffalo is a **different Callie**: maiden Newnam on the 1926 Nellie and 1932 Corelia licenses, **probable** the January 1885 daughter in Minerva’s house. [C355] [C356] Edward, sixteen in the *Enterprise* and twenty in the *Berea Citizen* (conflict #19), was killed on the Big Hill pike on 28 September 1936 while visiting uncle Grant of Berea; Clifton, Grant’s son, died the next day. [C357] [C358] Two later daughters are deceased and may be named: Lois Newman (13 April 1915, Vincent – September 1989) and Gladys M. Newman Parker Legner (22 March 1922, Idamay – 9 April 2000). [C360] [C361] Any 1939 daughter without a proved death, and the later 1936 “Mrs Everett,” are withheld. [C365] [C286] [S278]
 
@@ -245,10 +245,11 @@ Charts of pedigree, descendants, and lifespan follow the plates. Dashed lines me
 - **B055:** Pope County Library *Dardanelle Post-Dispatch* **Roll 5** (21 Jun 1923–26 Apr 1928) — first exact neighbouring film. [C311]
 - **B056:** *Danville Democrat* Aug–Sep 1926 (1899–1927 title LCCN SN89051010; IA 0 any year; 1930 revival is a different paper). [C312] [C331] [C332]
 - **B045 / B047:** Samuel P. probate film and M1509 draft cards unread.
-- **FAN residual:** Luther Newnam’s own death (B051 — he was alive Jan 1938); Everett stones / Madison DC / 1910–15 license (B057); Grant=Frank and John of Owsley still **POSSIBLE** only; Carter Cove stone photographs (B054). **B052** Shelby × Grace and **B053** Everett FAN are **done**.
+- **FAN residual:** Luther Newnam’s own death (B051 — he was alive Jan 1938 and officiating in 1936); Everett stones / Madison DC / 1910–15 license (B057); Grant=Frank and John of Owsley still **POSSIBLE** only; Carter Cove stone photographs (B054). **B052** Shelby × Grace is **done**. **B053** findings (**C349–C365**) are filed here; the backlog row stays with owner `bc-c5415202` until that owner changes status.
 - Greene 37–43 Stone sweep is **closed**. Do not reopen Peebles as a third marriage without a license. Do not print 1868 or 24 February 1906 as facts.
+- **Master Word document:** `research/dora-ella-newnam/book/Dora-Ella-Newnam-Stone-A-Life.docx` (working copy `sources/authored/Dora-Ella-Newnam-Stone-A-Life-latest.docx`). Rebuilt this pass. Pope Roll 5 is still unread.
 
-The next session starts with **B051** (Luther’s own death / stone). Pope Roll 5 (**B055**) is on-site only.
+The next session starts with **B051** (Luther’s own death / stone — free on this tree). Pope Roll 5 (**B055**) is on-site only. Do not open a fourth 1900–death location campaign.
 
 ---
 
@@ -282,7 +283,7 @@ Numbered notes expand the claim/source tags in the narrative. Access labels: *im
 24. Lee obituaries N: Everett Newnam, *Enterprise* 14 Dec 1939. [USGenNet n.html](https://usgennet.org/usa/ky/county/lee/obituaries/n.html#everettnewman). *Transcription only.* **C299** **S278**.
 25. IA Solr 30 Oct 2026: 0 items *Yell County Journal* 1926; 0 items title *Beattyville Enterprise* year 1926. **C301** **S280**.
 26. Genealogy Trails [Yell obituaries](https://genealogytrails.com/ark/yell/obits.html) landing, 30 Oct 2026: nil Stone/Newnam/Dora/1926. **C302** **S281**.
-27. Word biography bytes: SHA-256 `78cdcf44ad1700ee4a0b696215879e2e8485c2dfe794e1d918e64acc1d3d9280` (53,235 bytes). Copies in `book/` and `sources/authored/`. Drive search 0. **C296** **S276**.
+27. Prior Word biography bytes (30 Oct 2026): SHA-256 `78cdcf44ad1700ee4a0b696215879e2e8485c2dfe794e1d918e64acc1d3d9280` (53,235 bytes). Drive search 0. **C296** **S276**. This pass rebuilt the master `.docx` from this markdown (Pass 62–65 filed). New SHA is recorded as **S316** / **C366**.
 28. Coy × Letha Sullivan, 18 Feb 1917, Ola. **C027** **S024**. Prior session.
 29. NUMIDENT Pearl P. Jackson / Mary Magdalene Bunch naming Sam and Dora. **S006** **S007**. Prior.
 30. Lee Books 5–19: no Peebles; no Dora Newnam remarriage. [USGenNet marriages](https://usgennet.org/usa/ky/county/lee/marriage/). **C084** **S064**.
@@ -296,14 +297,14 @@ Numbered notes expand the claim/source tags in the narrative. Access labels: *im
 38. 1900 Sturgeon hh 18/18 Richard Newnam + Shelby son Jul 1892; 1920 Sturgeon hh 65–70 Shelby + Grace + Ladona. [1900](https://usgennet.org/usa/ky/county/lee/census/1900/1900sturgeon.html) · [1920](https://usgennet.org/usa/ky/county/lee/census/1920/sturgeon.html). *Transcription only.* **C322 C323 C324** **S295 S296**.
 39. IA Solr 31 Oct 2026 (pass 63): 0 items *Rural Record* / *Dardanelle Post* / *Yell County News* 1926; 0 *Danville Democrat* or *Yell County Journal* any year. **C331** **S299**.
 40. RoadsideThoughts / LDS Genealogy catalogs: *Danville Democrat* 1899–1927 LCCN SN89051010 / OCLC 19026460. 1930 revival is SN89051002. *Catalog only.* **C332** **S300**.
-41. 1900 Owsley Buck Creek 324/326: Minerva NEWNAM + Evert Nov 1886. [buckcreek.html](https://usgennet.org/usa/ky/county/owsley/census/1900/buckcreek.html). *Transcription only.* **C349** **S309**.
-42. 1910 Owsley Buck Creek 159 Everet / 158 Grant / 134 John. [buck1910.html](https://usgennet.org/usa/ky/county/owsley/census/1910/buck1910.html). *Transcription only.* **C350–C353** **S310**.
-43. Lee Books 20 and 24: Nellie and Corelia Spicer, mother Callie Newman / Callie Spicer nee Newnam. [Book 20](https://usgennet.org/usa/ky/county/lee/marriage/marrbook20.html) · [Book 24](https://usgennet.org/usa/ky/county/lee/marriage/marrbook24.html). *Transcription only.* **C355** **S311 S312**.
-44. SortedByName Newman 383: Everett of Lee d. 13 Dec 1939 age 53 Madison; Lois 1915–1989; Gladys 1922–2000. [index_383](https://sortedbyname.com/letter_n/newman/index_383.html). *Index only.* **C359–C361** **S315**.
-45. Lee obituaries N: Edward + Clifton, *Enterprise* / *Berea Citizen* 1 Oct 1936. [n.html](https://usgennet.org/usa/ky/county/lee/obituaries/n.html). *Transcription only.* **C357 C358** **S314**.
 41. Genealogy Trails [Yell post offices](http://genealogytrails.com/ark/yell/postoffices.html) and [Perry post offices](https://genealogytrails.com/ark/perry/postoffices.html), 31 Oct 2026. *Transcription only.* **No Mammoth** in either county; **Nimrod (1874/1960)** Perry only. **C335–C339** **S305**.
 42. 1920 Yell **ED 191** full visual, IA [`14thcensusofpopu086unit`](https://archive.org/details/14thcensusofpopu086unit) PDF **351–378**. *Image seen.* **Nil P001.** **C340** **S306**.
 43. Same reel, header remap 31 Oct 2026: **ED 200** is PDF **~518–544** (Ward + Ola), **not** 379–519. **C347 C348** **S308**.
+44. Pass 65 Everett FAN (sibling `bc-c5415202`; filed into this book 31 Oct 2026). 1900 Buck Creek **324/326** Minerva + **Evert** Nov 1886; 1910 **Everet** 23 single. [1900](https://usgennet.org/usa/ky/county/owsley/census/1900/buckcreek.html) · [1910](https://usgennet.org/usa/ky/county/owsley/census/1910/buck1910.html). *Transcription only.* **C349–C354** **S309 S310**.
+45. Lee Books 20 / 24: Mrs Robert Spicer maiden **Newman/Newnam** (Nellie 18 Aug 1926; Corelia 4 Nov 1932). Sister Callie ≠ wife Callie Moore. **C355 C356** **S311 S312**.
+46. *Enterprise* / *Berea Citizen* 1 Oct 1936: Edward + Clifton crash. Ages 16 vs 20 **not averaged** (conflict #19). Luther officiated Edward. **C357 C358** **S314**.
+47. SortedByName Newman index 383: Everett of Lee d. **13 Dec 1939** age **53** Madison (conflict #18). Deceased daughters **Lois** (1915–1989) and **Gladys M.** (1922–2000). Daniel×Venable Everett **rejected**. Third 1939 daughter **Living — details withheld**. *Index only.* **C359–C362** **S315**.
+48. Master Word document rebuilt 31 Oct 2026 from this markdown into `book/Dora-Ella-Newnam-Stone-A-Life.docx`. **C366** **S316**.
 
 ---
 
@@ -333,5 +334,12 @@ Working table of **saved local copies**. Full file list: [`../SOURCE-INDEX.md`](
 | S305 | `../sources/gazetteer/yell-perry-mammoth-extract-2026-10-31.txt` | [GT Yell POs](http://genealogytrails.com/ark/yell/postoffices.html) | No Mammoth; Nimrod is Perry | transcription only |
 | S306 | `../sources/census/ed191-1920/` | [IA T625-86](https://archive.org/details/14thcensusofpopu086unit) | ED 191 full nil P001 | image seen |
 | S308 | `../sources/census/t625-86-ed-map/` | same item | ED 200 = PDF 518–544 | image seen |
+| S309 | `../sources/census/1900-owsley-buckcreek-hh324-minerva-evert-extract-2026-10-31.txt` | [1900 Buck Creek](https://usgennet.org/usa/ky/county/owsley/census/1900/buckcreek.html) | Minerva + Evert Nov 1886 | transcription only |
+| S310 | `../sources/census/1910-owsley-buckcreek-hh134-158-159-extract-2026-10-31.txt` | [1910 Buck Creek](https://usgennet.org/usa/ky/county/owsley/census/1910/buck1910.html) | Everet / Grant / John | transcription only |
+| S311 | `../sources/marriages/lee-book20-george-mitchel-nellie-spicer-1926-extract-2026-10-31.txt` | [Book 20](https://usgennet.org/usa/ky/county/lee/marriage/marrbook20.html) | Nellie; mother Callie Newman | transcription only |
+| S312 | `../sources/marriages/lee-book24-shelby-arnold-corelia-spicer-1932-extract-2026-10-31.txt` | [Book 24](https://usgennet.org/usa/ky/county/lee/marriage/marrbook24.html) | Corelia; mother Callie nee Newnam | transcription only |
+| S314 | `../sources/obituaries/lee-obits-n-edward-clifton-1936-extract-2026-10-31.txt` | [Obits N](https://usgennet.org/usa/ky/county/lee/obituaries/n.html) | Edward + Clifton 1936 | transcription only |
+| S315 | `../sources/deaths/sortedbyname-newman-everett-1939-extract-2026-10-31.txt` | [SortedByName 383](https://sortedbyname.com/letter_n/newman/index_383.html) | Age 53; Lois; Gladys | index only |
+| S316 | `../book/Dora-Ella-Newnam-Stone-A-Life.docx` + `../sources/authored/Dora-Ella-Newnam-Stone-A-Life-latest.docx` | Local Word export 31 Oct 2026 | Master biography after Pass 62–65 | original bytes (SHA in SOURCE-INDEX) |
 
 Embedded plates live in `plates/` and `../sources/census/`. Charts: [`../visuals/pedigree-dora.svg`](../visuals/pedigree-dora.svg), [`../visuals/timeline-dora.svg`](../visuals/timeline-dora.svg).

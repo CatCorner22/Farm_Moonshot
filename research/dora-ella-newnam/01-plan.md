@@ -133,6 +133,21 @@ Regenerated before B053 queries. Categories **1–4**:
 
 Exact strings logged **L401–L416**.
 
+## Name-variant storm (pass 67, `search_variants.py`, 31 Oct 2026)
+
+Regenerated before **B092** true-ED-200 name-column queries (`bc-6d51c793`). Categories **1–4**:
+
+1. **Canonical:** Dora Ella Newnam / Dora Stone; Samuel; T. A. / Tom A. Stone; Coy / McCoy; Ola Town / Ward Twp; Yell **ED 200**.
+2. **User / family:** **Posa Stone** index alias; Newman/Newnam; Mrs. T. A. Stone; Ella.
+3. **Machine / OCR given:** Dora, posa, dosa, rosa, dona, dara, dore, dori, dola, pora, rora. Surname: Stone, storie, stona, stome; Newnam, newman, newnarn, newan, newnom. Soundex **D600** / **S350** / **N550** / **P200** / **S540**.
+4. **Repository quirks:** IA `14thcensusofpopu086unit` PDF page vs ED stamp; visual name-column (OCR n/a — item “language not currently OCRable”); `Last, First` on schedule; sheet **8 A** hunt for unreplicated **C214**.
+
+Exact strings logged **L418+**.
+
+## Name-variant storm (pass 66, Word filing — no new person query)
+
+**n/a.** This worker (`bc-20e39036`) took **no** new B### and ran **no** new repository person-search. Categories 1–4 are therefore not required. Work was standing-order budget correction + master Word rebuild from already-filed Pass 62–65 claims. Exact strings: none beyond the rebuild command `python3 scripts/build_dora_word.py`.
+
 ## Agent SDK / GitHub channel
 
 Inspected 30 Oct 2026 (**L351**): this repository has **no** `package.json`, **no** `@grok/agent-sdk`, **no** `bot/` directory. GitHub channel `bot/channels/github.ts` is **n/a** and was **not** authored. Project subagent: `.cursor/agents/dora-genealogy-detective.md`.
