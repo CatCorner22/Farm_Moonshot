@@ -2796,3 +2796,16 @@ research/dora-ella-newnam/sources/census/1880-lee-ky-ed59-sheet43-p768-caroline-
   sha256: 795ffd3857ab05012ea47af204006fabcf7618654a51c8bf688498bebc199147
   format: text extract, 1,085 bytes
   check: T288 IIIF reel 348/347 timeout 22s then 30s 0 bytes
+
+/workspace/research/dora-ella-newnam/sources/indexes/pass103-coverage.txt
+  sha256: c76cb562bbd15d8f83ed83dcb290e87d895ccc5822800cc8e5639b6ebffee8ec
+  format: text extract, 1,843 bytes
+  check: Pass 103 coverage; catalog 193 NEW 3 process-only; Rowan USGW vitals; T288 timeout 20s
+/workspace/research/dora-ella-newnam/sources/indexes/josephine-gilbert-pass103.txt
+  sha256: 22de1c3ddccbfc25c7632d7225dac7868588ad017f8ae338fdf4531c59d89b3a
+  format: text extract, 2,330 bytes
+  check: Rowan USGW vitals 11 submitted couples n/a as 1880-1920 compilation; GT Adair/Nelson n/a
+/workspace/research/dora-ella-newnam/sources/indexes/t288-timeout-pass103.txt
+  sha256: 7619cdfdbbc7edb199f93281a522d8125431d965d309975e31e6d1f34fd6f285
+  format: text extract, 770 bytes
+  check: T288 IIIF reel 348 timeout 20s 0 bytes

@@ -5493,3 +5493,54 @@ Pass 2: Do **not** invent T288 card contents. Do **not** promote C509.
 ### Facts extracted → claim IDs
 - IIIF timeout 22s/30s, 0 bytes; images unseen → C1091
 - B061 remaining gap → C1093
+
+## DOC234 — Catalog + Pass 103 coverage
+
+- Extract: `pass103-coverage.txt` SHA-256 `c76cb562bbd15d8f83ed83dcb290e87d895ccc5822800cc8e5639b6ebffee8ec`
+- Provenance: Cursor `list-cloud-agents` includeArchived limit 200, 31 Oct 2026. This run `bc-01a18bb4-e162-785c-9724-86a7c5663bf1`.
+- Access: process listing. **No** new independently image-backed P001 1900–1926 residence.
+
+### Diplomatic — cited extract
+
+> **193** / `hasMore: false` / `totalMatched: 193`. Was **190**. NEW vs 190 (3; **no IDs imported**). Status-only: Hunt Dora **renamed** B077 still RUNNING (same id). Sibling C281 **not imported**.
+
+Pass 2: Process count only. Skip **C221–C280**. Do **not** promote C509. Do **not** hunt remaining 1930 Owsley sheets.
+
+### Facts extracted → claim IDs
+- catalog 193; NEW 3 process-only → C1094
+- B063 remaining gap → C1098
+- B061 remaining gap → C1099
+
+## DOC235 — Josephine remaining substitutes (Pass 103)
+
+- Extract: `josephine-gilbert-pass103.txt` SHA-256 `22de1c3ddccbfc25c7632d7225dac7868588ad017f8ae338fdf4531c59d89b3a`
+- Coverage: `pass103-coverage.txt` `c76cb562bbd15d8f83ed83dcb290e87d895ccc5822800cc8e5639b6ebffee8ec`
+- Provenance: Rowan USGW vitals.htm Wayback; GT Adair/Nelson/Rockcastle. Opened 31 Oct 2026. **HTML-seen / landing**. License unseen.
+
+### Diplomatic — cited extracts
+
+> Rowan USGW vitals 11 submitted couples 1856–1930. Nil 1902. Nil Josephine/Newman/Gilbert. Not the 1880–1920 compilation.
+
+> GT Adair 1802–1810 / Nelson 1785–1815 / Rockcastle Martin Owen n/a as 1902.
+
+Pass 2: License still unseen. Do not close B063.
+
+### Facts extracted → claim IDs
+- Rowan USGW vitals 11 couples n/a as 1880–1920 compilation → C1095
+- remaining n/a/404 → C1096
+- B063 remaining gap → C1098
+
+## DOC236 — T288 IIIF timeout 20s (Pass 103)
+
+- Extract: `t288-timeout-pass103.txt` SHA-256 `7619cdfdbbc7edb199f93281a522d8125431d965d309975e31e6d1f34fd6f285`
+- Provenance: NARA Catalog IIIF T288-0348-01001 info.json. Opened 31 Oct 2026. **Access-fail**.
+
+### Diplomatic — cited access results
+
+> Reel 348 frame 01001 info.json timeout 20s, 0 bytes. Card images unseen.
+
+Pass 2: Do **not** invent T288 card contents. Do **not** promote C509.
+
+### Facts extracted → claim IDs
+- IIIF timeout 20s, 0 bytes; images unseen → C1097
+- B061 remaining gap → C1099

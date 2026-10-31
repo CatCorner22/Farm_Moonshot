@@ -1,0 +1,15 @@
+Pass 103 — T288 IIIF timeout 20s
+Opened 31 Oct 2026 (America/New_York). Access-fail.
+Card images unseen. Original 1916 DC face unseen.
+Do not invent T288 card contents. Do not promote C509.
+Do not treat Catalog quoted Newnam title-nil as a T288 card-nil.
+
+T288 IIIF (curl, 20s):
+  https://catalog.archives.gov/iiif/3/lz%2Fdc-metro%2Frg-015%2F563268/T288-0348/T288-0348-01001.tif/info.json
+    curl 28 timeout, 0 bytes. Card images unseen.
+  Reel 347 not retried this pass after reel 348 0-byte timeout.
+  Prior Pass 102 timeout 22s then 30s both reels. Path still known. Pixels unseen.
+
+B061 remains open. Residual: original 1932 DC vol 020 #09525; Estill 1826–1850 bonds;
+M123-3 original; T288 card images (IIIF path known; pixels timeout 20s / 0 bytes
+this pass).

@@ -1,0 +1,41 @@
+Pass 103 — Josephine Newnam × Gilbert ~1902 remaining substitutes
+Opened 31 Oct 2026 (America/New_York). HTML-seen submitted index / landing / 404.
+License unseen. Original 1916 DC face unseen. T288 images unseen.
+
+Rowan USGW Archives vitals.htm OPENED via Wayback id_:
+  20101127145700 / 20120525062130 copies HTTP 200 (16,092 bytes, identical).
+  Later vitals.html capture HTTP 200 (36,172 bytes) same marriage block plus
+  later submitted rows. Live usgwarchives.net/files.usgwarchives.net timeout.
+  Marriage section is submitted individual licenses, not the kygenweb-listed
+  1880–1920 county compilation (that table remains unseen).
+  Eleven opened couples (nil Josephine / Newman / Newnam / Gilbert; none 1902):
+    Ball, Corrilda × McGlone, James A 4 Sep 1911 other;
+    Caudill, Lydia M × Mabry, James Anderson 20 Oct 1865 other;
+    Gulley, Mary W. × Jackson, W. R. 1890 other;
+    Hamilton, Julia × Straley, Joseph 9 Oct 1899 other;
+    McMillon, Sarah × Clark, Leonard D. 1856 other;
+    Nickell, Clarisa × Harris, Pleasant H. 1856 other;
+    Harris, Lillie × Hollan, O. Perry 24 Sep 1891 other;
+    Hawkins, Ida × Curtis, William 7 Oct 1899 other;
+    Straley, Sarah Mae × Buckner, William 13 Sep 1908 other;
+    Whisman, Mayme Dee × Bradley, Luther 1930 other;
+    White, Manirva T. × Colbert, Harrison 1856 other.
+  Adjacent years present (1899 / 1908); 1902 row absent.
+  n/a as the listed 1880–1920 compilation. License unseen.
+
+Genealogy Trails remaining landings this pass n/a as 1902:
+  Adair marriages.html (4,404 bytes): 1802–1810 records; newspaper license
+    applications; notices; Stephens family. No 1902 county-wide table.
+  Nelson marriages.html (2,997 bytes): 1785–1815; 1796 Taylor; Stephens. n/a.
+  Rockcastle marriages.html (1,919 bytes): Martin Owen (Boone URL) + Stephens.
+    n/a ~1902 (prior Gilbert 1873–1877 already C1056).
+  Pulaski landing already C1082.
+  GT Taylor/Green/Washington/Spencer/Hart/Simpson/Barren/Russell/Whitley/
+    Laurel/Madison/Clark 404 (~1,150 bytes).
+
+Rowan kygenweb alternate paths (mg-1880.html / marriages1880.html / vitals.html)
+  still the 5,781-byte county landing, no table.
+  20070808145849id_ kygenweb/rowan/ is an old gateway (6,312 bytes) pointing
+    to rootsweb/~kyrowan/; table unseen.
+
+License still unseen. Do not close B063.
