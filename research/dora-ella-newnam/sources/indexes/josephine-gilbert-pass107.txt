@@ -1,0 +1,70 @@
+Pass 107 — Josephine Newnam x Gilbert ~1902 remaining substitutes
+Opened 31 Oct 2026 (America/New_York). Compiled / HTML-seen.
+License unseen. Original 1916 DC face unseen. T288 images unseen.
+
+Muhlenberg Genealogy Trails Book 7 OPENED
+  URL: https://genealogytrails.com/ken/muhlenberg/marriages_book7.html
+  Source line: Muhlenberg County, KY Marriages by Mrs. Evelyn M. Cox and
+  Mrs. Lalla F. McCullen; transcribed by Genealogy Trails Transcription Team.
+  Compiled from clerk books; GT alpha-sorted. Heading: Marriages 1895-1901.
+  1,176 table rows (groom / bride / date); 1,174 with a year token in the
+  date cell; 2 undated. Year counts: 1895 156 / 1896 157 / 1897 158 /
+  1898 164 / 1899 162 / 1900 213 / 1901 164 / 1902 0.
+  n/a as a covering 1902 table (same class as GT Lincoln through 1901, C1087).
+  Nil Newnam (any spelling in this table).
+  Nil Gilbert surname.
+  Newman other (10): grooms Clausis x Posey 1 Mar 1900 / Jackson x Dwyer
+  25 Dec 1895 / Lewis x O'Neal 24 Dec 1899 / W.B. x Penrod 9 Jul 1896 /
+  W.M. x McBride 23 Dec 1897; brides Mary x Heltsley 24 Oct 1900 /
+  Nannie x Love 16 Nov 1898 / Isadora x McCellan 17 Feb 1897 /
+  Ida x Poiles 18 Feb 1901 / Florence x Statz 17 Feb 1897.
+  Josephine Phillips x Ford 15 Dec 1901 DISPROVED (maiden Phillips).
+  Josephine Wilkins x Sallee 7 Jun 1900 DISPROVED (maiden Wilkins).
+  Josie Miller x Short 13 Oct 1901 DISPROVED (maiden Miller).
+  Josie Steel x Smith 21 Oct 1900 DISPROVED (maiden Steel).
+  GT Muhlenberg index lists books through 1895-1901 only (no Book 8 / 1902 page).
+  OnGenealogy "Muhlenberg 1798-1902" is WorldCat/FS, not opened.
+  Nil Josephine Newnam x Gilbert on this opened 1895-1901 table.
+  Do not commit the 60,488-byte full table dump.
+
+Magoffin remaining n/a as covering 1901-1910:
+  kygenweb.net Magoffin A-Z grooms opened as sparse stubs
+    (N = six Nickels 1869-1883 only, same class as C1102; G 404;
+    J three couples 1866-1898 nil Newman/Gilbert; A handful through 1900).
+  "KY MARRIAGE RECORDS SEARCH" form is dead chrome (stripped input, no action).
+  Nested marriages/marriages/ path 404.
+  GT Magoffin index opened: 1861 FHL 216833 nil Newman/Gilbert/Josephine;
+    1862 18 couples nil; announcements Prater x Mills 8 Jul 1921 n/a.
+  IA Magoffin marriages numFound 0; Gardner "First Fifty Years" numFound 0.
+  USGW Magoffin CDX unique paths are bios + directory only
+    (Hackworth vitals extracts remain C1109; not the covering book).
+  Society book Gardner & Wireman 1981 still purchase-only / lookup volunteer.
+  kykinfolk magoffin 301 to kygenweb.net/magoffin/.
+  Combs-families.org remains COMBS FAN extracts, not covering.
+  Do not treat A-Z stubs or m6801 as the covering 1860-1910 book.
+
+Allen remaining n/a as covering 1902:
+  GT marriage_index only 1815-1820 and 1909-1914 (already C1103);
+    guessed 1903/1904 year URLs 404.
+  GT miscmar1.html opened 11 contributed couples (Swindle/Spillman FAN)
+    n/a as covering; Spillman x Whitney 25 Sep 1903 Allen Book 1 p 132-3 other.
+  GT news_marriages.html opened 3 announcements;
+    Parrish x Mulligan 10 Dec 1902 Scottsville Morning Herald DISPROVED
+    as this couple.
+  kygenweb.net/allen/marriages.html and missing.html 404.
+  allencountykky.com DNS fail.
+  Allen 1902-1909 KHS microfilm still on-site.
+  IA Allen KY marriage search returned other-county volumes, not Allen KY
+    1902-1909. Do not treat IA indextomarriager01unit (Allen County, Indiana
+    WPA) as Allen KY.
+  Neighboring remaining n/a this pass: Nicholas GT 1907/1910 announcements;
+    Warren GT Grider/Stephens FAN + 1840-1847 G-grooms; Logan GT 1862 only;
+    Mason GT 1700s/1800s; Martin GT 1922 newspaper.
+  Letcher CDX unique marriage files: 1884-91 / 1892-95 / 1896-97 /
+    letcherc7nmb (1884 only, C1108) + submitted FAN; no 1898-1903 year files;
+    c8nmb and 1902mar Wayback 404.
+  Union/Henderson/Ohio/Daviess/Hancock/McLean 1902amar.txt Wayback 404.
+  Bath/Fleming kykinfolk 301 to kygenweb.net marriages.htm 404.
+  Johnson IA still 403 (C1081).
+
+License still unseen. Do not close B063.

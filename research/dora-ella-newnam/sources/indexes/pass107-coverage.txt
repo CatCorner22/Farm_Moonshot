@@ -1,0 +1,50 @@
+Pass 107 coverage — 31 Oct 2026 (America/New_York)
+This run bc-01a18bb4-e162-785c-9724-86a7c5663bf1
+Catalog list-cloud-agents includeArchived limit 200 → 205 / hasMore false / totalMatched 205
+(offset 0 returned 200 hasMore true; offset 200 returned 5).
+Was 197 (Pass 106 filing). NEW vs 197 (8; no IDs imported):
+  Read IL leftover-M 3339-3475
+    bc-2644ed91-148a-5f03-9e5a-46700eb2bfe8 IDLE
+  Read IL leftover-M 3202-3338
+    bc-55170d5c-2f2d-55ce-a532-2c63b3ced800 RUNNING
+  Read MO leftover-S 58-81
+    bc-0471a87d-c3ca-5ae6-829b-622ddc71a555 IDLE
+  Read KY leftover-M 2977-3035
+    bc-983529e8-ae74-50c5-9534-98f590137f71 IDLE
+  Read TN leftover-M 213-248
+    bc-d54033bf-ea23-5e65-9cb9-1552da1b8145 IDLE
+  Query Boyd marriage DB ERROR x3 (Pass 106 Selenium/computerUse):
+    bc-ccaf2d8b-520f-5c20-bc4a-f6bb062cf81c
+    bc-a539b6e6-f26d-5b36-84aa-7ebed42fe378
+    bc-e1a6a560-fbb5-527d-96be-3c483540d381
+Status-only (not new IDs):
+  Hunt Dora still B079 Estill births and deaths
+    same id bc-aa43eaa5-be23-54be-a20a-7a5238fd33f8 still RUNNING.
+  B054/B047 renamed B020 FAG memorial bios
+    same id bc-20e39036-9573-5790-87e8-76e84d742488 still RUNNING.
+  1900-death / B092 / B007 renamed B007 residual Soundex EDs
+    same id bc-6d51c793-cffb-5165-99f1-7d7ac656b317 still RUNNING.
+  B045 renamed B039 Hayes Smith books
+    same id bc-c5415202-619c-5848-aaa6-1ce23094b5fd still RUNNING.
+  MO leftover-M 3752/3812 still IDLE (process-folded Pass 105 NEW).
+  Sibling PR #33 C281 not imported.
+Nested reviewer not respawned. Message queue empty.
+Skip C221-C280 / L245-L342 / S259-S266.
+Do not mint C274-C280. Do not promote C509. Do not hunt D-540.
+Do not close B063. Do not hunt remaining 1930 Owsley sheets (closed Pass 94).
+Do not import C281. Do not invent T288 card contents.
+Do not commit leftover 1920 ED 89 / N-550 JPEGs.
+Do not commit Muhlenberg Book 7 60KB table dump (extract/summary only).
+
+Work this pass:
+- Muhlenberg GT Book 7 1895-1901 OPENED (Cox & McCullen compiled from
+  clerk books; GT alpha-sorted). 1,176 table rows; 1,174 dated;
+  164 in 1901; 213 in 1900; 0 in 1902. n/a as a covering 1902 table.
+  Nil Newnam. Nil Gilbert surname. Nil Josephine Newnam x Gilbert.
+- Magoffin remaining n/a as covering 1901-1910 (A-Z stubs / GT 1861-62
+  / IA 0 / Gardner 1981 still unopened).
+- Allen remaining n/a as covering 1902 (GT 1815-1820 and 1909-1914 only;
+  KHS 1902-1909 microfilm on-site).
+- T288 IIIF reel 348/347 info.json timeout 25s, 0 bytes. Card images unseen.
+
+B061 / B063 remain open. Next unused after this pass: C1128+ / L1006+ / S747+ / DOC249+.

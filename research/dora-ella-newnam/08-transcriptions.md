@@ -5706,3 +5706,57 @@ Pass 2: Do **not** invent T288 card contents. Do **not** promote C509.
 ### Facts extracted → claim IDs
 - IIIF timeout 25s; images unseen → C1118
 - B061 remaining gap → C1120
+
+## DOC246 — Catalog + Pass 107 coverage
+
+- Extract: `pass107-coverage.txt` SHA-256 `ccce09767c02ce4577802bd0beb38190938808c22fcc7c3280e3074c5b52d3b8`
+- Provenance: Cursor `list-cloud-agents` includeArchived limit 200, 31 Oct 2026. This run `bc-01a18bb4-e162-785c-9724-86a7c5663bf1`.
+- Access: process listing. **No** new independently image-backed P001 1900–1926 residence.
+
+### Diplomatic — cited extract
+
+> **205** / `hasMore: false` / `totalMatched: 205`. Was **197**. NEW vs 197 (8; **no IDs imported**). Status-only: Hunt Dora still B079 still RUNNING (same id). Sibling C281 **not imported**.
+
+Pass 2: Process count only. Skip **C221–C280**. Do **not** promote C509. Do **not** hunt remaining 1930 Owsley sheets.
+
+### Facts extracted → claim IDs
+- catalog 205; NEW 8 process-only → C1121
+- B063 remaining gap → C1126
+- B061 remaining gap → C1127
+
+## DOC247 — Josephine remaining substitutes (Pass 107)
+
+- Extract: `josephine-gilbert-pass107.txt` SHA-256 `21f5dee6c9acb6f1d10345be6380c0f3c334c0135dcdf698756c73e61e1b12ca`
+- Coverage: `pass107-coverage.txt` `ccce09767c02ce4577802bd0beb38190938808c22fcc7c3280e3074c5b52d3b8`
+- Provenance: Muhlenberg GT Book 7; Magoffin A–Z / GT index / IA; Allen GT misc/news. Opened 31 Oct 2026. **HTML-seen / compiled**. License unseen.
+
+### Diplomatic — cited extracts
+
+> Muhlenberg Book 7 1895–1901: 1,176 table rows; 1,174 dated; 164 in 1901; 213 in 1900; 0 in 1902. Nil Newnam. Nil Gilbert. Nil Josephine Newnam × Gilbert.
+
+> Magoffin A–Z grooms are sparse stubs (N = six Nickels 1869–1883). Gardner & Wireman 1981 still unopened. n/a as covering 1901–1910.
+
+> Allen GT index only 1815–1820 and 1909–1914. Parrish × Mulligan 10 Dec 1902 DISPROVED. n/a as covering 1902.
+
+Pass 2: License still unseen. Do not close B063.
+
+### Facts extracted → claim IDs
+- Muhlenberg Book 7 n/a as 1902; nil this couple → C1122
+- Magoffin remaining n/a as covering 1901–1910 → C1123
+- Allen remaining n/a as covering 1902 → C1124
+- B063 remaining gap → C1126
+
+## DOC248 — T288 IIIF timeout 25s (Pass 107)
+
+- Extract: `t288-timeout-pass107.txt` SHA-256 `d483251f86467a1ca76a2182628d71650f356dd05850bc8b1fcca5e21d31a77c`
+- Provenance: NARA Catalog IIIF T288-0348-01001 and T288-0347-01001 info.json. Opened 31 Oct 2026. **Access-fail**.
+
+### Diplomatic — cited access results
+
+> Reels 348 and 347 frame 01001 info.json timeout 25s, 0 bytes. Card images unseen.
+
+Pass 2: Do **not** invent T288 card contents. Do **not** promote C509.
+
+### Facts extracted → claim IDs
+- IIIF timeout 25s; images unseen → C1125
+- B061 remaining gap → C1127

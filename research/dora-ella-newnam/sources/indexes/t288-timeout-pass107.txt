@@ -1,0 +1,21 @@
+Pass 107 — NARA T288 IIIF / substitutes, 31 Oct 2026 (America/New_York)
+Card images unseen. Do not invent T288 contents. Do not promote C509.
+
+Reel 348 frame 01001 info.json
+  URL: https://catalog.archives.gov/iiif/3/lz%2Fdc-metro%2Frg-015%2F563268/T288-0348/T288-0348-01001.tif/info.json
+  Result: timeout 25s, 0 bytes (curl 28). Cards unseen.
+
+Reel 347 frame 01001 info.json (same path pattern T288-0347)
+  Result: timeout 25s, 0 bytes (curl 28). Cards unseen.
+
+NARA Catalog file unit 382335916 (reel 348 unit 1)
+  HTTP 200, 5,454-byte Catalog SPA HTML, not cards.
+
+IA advancedsearch title:T288 AND collection:usnationalarchives
+  HTTP 200, numFound 0.
+
+Prior access-fails remain true: timeout 40s, 15s, HTTP 502, 20s, 25s,
+  22s/30s, 20s, 15s, Pass 105 SPA HTML 5,454 bytes, Pass 106 timeout
+  25s / 0 bytes. This pass is another timeout 25s / 0 bytes, not a card-nil.
+Catalog quoted Newnam remains a T288 title-nil, not a card-nil.
+Pixels unseen.
