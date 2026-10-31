@@ -51,6 +51,9 @@ Place as it was *at the date*; modern equivalent in brackets. Flag impossibiliti
 | 4 Oct 1897 | — | FAN: Hardin Gray × **Vesta MAYES**, 16, **at Liza Mays**; father b. VA, mother b. Owsley — **PROVEN** fourth Larkin/Louisa child (C192) | Sturgeon / Lee Co., KY | C166 C167 C192 | S144 S164 |
 | 29 Aug 1904 | ~33 | Loose license: **S. P. Newnam**, 30, b. Lee, farmer, **2nd m.** × **Rosa L. Banks**, 16, at **Henry Banks’**, Lee Co., by J. E. Dunigan — **not merged** with P002 (age 30 vs b. Jun 1869 ≈35; Dora still wife in 1900). If same man: last **documented Lee Co. event** for those initials before 1910 gap | Lee Co., KY | C013 C203 | S014 S218 |
 | **25 Jun 1905** | — | FAN reject: *Indianapolis Star* — Lee Circuit Court murder of young **Lewis Mays**, sole support of a widowed mother. **Not** Larkin T. Mays (dead **1895**) | Lee Co., KY (case) / Indianapolis (paper) | C492 C140 | S425 |
+| **20 May 1910** | ~38 | Published Lee gleanings: **14** marriages since last report — **nil** Newnam/Newman/Dora/Samuel. Silence is **not** proof the *Enterprise* never printed a Newnam notice (page under construction) | Lee Co., KY (paper extract) | C542 | S424 S471 |
+| **27 May 1910** | ~38 | Gleanings: Noe / Crank — **nil** Newnam party | Lee Co., KY | C542 | S424 S471 |
+| **8 Jul 1910** | ~38 | Gleanings: Kincaid / Phillips — **nil** Newnam party | Lee Co., KY | C542 | S424 S471 |
 
 | 28 Sep 1904 | — | Chas. B. Burke × Provie Hoover at Proctor; **“E. T. Newnam Granfather appeared”** | Proctor, Lee Co., KY | C096 | S074 |
 | 22 Dec 1904 | — | FAN: Whitley Mays × Lillie Farmer (groom 20) — PROBABLE 1900 Whitly | Lee Co., KY | C168 | S146 |
