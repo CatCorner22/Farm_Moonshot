@@ -1,0 +1,65 @@
+Pass 90 — 31 Oct 2026 (America/New_York)
+B007 residual: 1900 MO Soundex S-415 parent-card family-sections
+(every card) for child Letha / Letta / Lethia / Lettie / Litha / Viola /
+Lottie / Leta ~0-2. Prior MO John/William walks were name-line samples
+for Bollinger only (C256/C261/C267), not family-section Letha hunts.
+
+Reels (card images seen; full PDFs not re-downloaded this pass):
+  IA soundex1900mo248  T1055 S-400 — S-415 Press R.
+  IA soundex1900mo249  T1055 S-415 R.D. —
+
+Method: BookReader JPEG every card; invert + ~0.72 family-section;
+visual read of 4-card sheets; 0.95 crops for near-hits. Variants:
+Letha / Letta / Lethia / Lettie / Litha / Viola / Lottie / Leta.
+
+MO James  n3406 tab; n3407–3492 James*; Jane/Jeremiah/Jessie after.
+  Family-sections: no Letha/Letta/Lethia/Lettie/Litha/Viola/Lottie/Leta.
+  Toddler girls: Cora 1 (St Louis); Elenore[?] 2/12 (Nodaway);
+  R.L.[?] 2 (Christian); Minnie G 6/12 (Texas Co.).
+  IN: n3410 wife Martha 56 IN (James ~61); n3463 James C 68 IN
+  Douglas Finley living alone. No Bollinger. Liberty Twp cards are
+  Adair / Madison / Johnson, not Bollinger.
+
+MO John  n3535–3667 John* (Joseph tab n3668).
+  Family-sections: no Letha/Letta/Lethia/Lettie/Litha/Viola/Lottie/Leta.
+  n3606 John C 42 MS, St Louis: wife Louisa 38 TN; Jennie 9; May 6;
+  Effie M D May 1897 3 MO — Effie, not Lettie.
+  IN heads: n3542 John 36 IN Butler lodger; n3648 John S 61 IN Cole;
+  n3651 John T 46 IN Livingston (son Victor 10/12).
+  IN wife: n3569 Josie 29 IN (Jasper Carterville; sons only).
+  No Bollinger.
+
+MO Thomas  n0092–0126 Thomas/Thos (Timothy n0089–0091 before and
+  n0133–0160 after; Tim n0128–0132; no Tom/Tomas).
+  Family-sections: no Letha/Letta/Lethia/Lettie/Litha/Lottie/Leta.
+  n0126 Thomas L 56 IN Worth + Martha A 39 MO — no toddler Letha.
+  n0163 Sylvinus, Vicee, individual, Sept 1899 9/12 MO, Bollinger
+  Lorance Twp vol 7 ED 6 sh 18 ln 8; step-dau of Nations, James P.
+  Surname diplomatic Sylvinus; given Vicee. Not Letha / not Sullivan.
+
+MO William  n0188–0274 William*/Willie/Wm; Wilson n0275; S-416 n0276.
+  Family-sections: no Letha/Letta/Lethia/Lettie/Litha/Lottie/Leta ~0-2.
+  n0236 William C 40 MO Lewis Reddish; wife Viola C Oct 1869 30 IL
+  — adult wife, not a child.
+  n0263 William P Jan 1861 39 Indiana, Holt / Clay Twp / Maitland,
+  vol 38 ED 24 sh 7 ln 35. Wife Nellie Jan 1875 25 MO.
+  Lela D Aug 1894 5 MO. Age 5 vs ~2; diplomatic Lela. REJECT vs C244.
+  n0211 William Central Twp: last dau July 1898 age 2, name faint,
+  not a Letha-string.
+  IN heads: n0198 William 50 IN Ripley; n0238 William B 42 IN St Louis;
+  n0249 William I 46 IN Douglas (Bertha C 1); n0263 William P (above);
+  n0264 William R 42 IN. IN wives: Jenette 36 Adair; Martha 31 Lawrence;
+  Nellie 20 Jasper. No Bollinger.
+
+Evidence committed:
+  mo1900-s415-p0263-william-p-lela-5.jpg
+  mo1900-s415-p0163-vicee-bollinger.jpg
+  mo1900-s415-p0236-william-c-viola-wife.jpg
+
+Local /tmp/p90/ working crops not committed except those three JPEGs.
+
+Residual after Pass 90: IN/MO/KY/AR/IL/TN L-windows + John/James/
+William/Thomas parent cards (MO now every-card family-sections) closed.
+Letha ~0-2 still unplaced. Next B007: other father given-names
+(Edward / Michael / Patrick / Francis / George) on IN/MO. Michael and
+Patrick sit on mo248 ~n3880–4000; Edward ~n3200. B049 1926 paper unread.

@@ -772,3 +772,15 @@ research/dora-ella-newnam/sources/soundex/tn1900-s415-p0063-jerry-hettie-1.jpg
   format: JPEG Soundex card, IA soundex1900tn154 n63
 research/dora-ella-newnam/sources/soundex/b007-pass89-1900-il-tn-s415-parents-2026-10-31.txt
   format: Pass 89 IL/TN S-415 parent-card search log
+
+research/dora-ella-newnam/sources/soundex/mo1900-s415-p0263-william-p-lela-5.jpg
+  sha256: 822efcdf36718f7238523ad0e39e682d2fcce2dda0a7aea156381a3014471d4a
+  format: JPEG Soundex card, IA soundex1900mo249 n263
+research/dora-ella-newnam/sources/soundex/mo1900-s415-p0163-vicee-bollinger.jpg
+  sha256: 35df9ca6c4543923c592eca5e19ecbfe3f8a4ef62203a491401365d9f79f5d6d
+  format: JPEG Soundex card, IA soundex1900mo249 n163
+research/dora-ella-newnam/sources/soundex/mo1900-s415-p0236-william-c-viola-wife.jpg
+  sha256: bd2602c4ffc0752d3636417c87af3463c4d605f915a4413e7f135cbbd0fd6f4b
+  format: JPEG Soundex card, IA soundex1900mo249 n236
+research/dora-ella-newnam/sources/soundex/b007-pass90-1900-mo-s415-parents-2026-10-31.txt
+  format: Pass 90 MO S-415 parent-card search log

@@ -1205,6 +1205,27 @@ PLATES: list[dict] = [
         source="S367 · C514",
     ),
     dict(
+        n=216, date="1900 (index)", year=1900, role="rejected",
+        path="soundex/mo1900-s415-p0263-william-p-lela-5.jpg",
+        title="Missouri S-415 — William P., 39, Indiana, Holt; Lela, 5; not C244",
+        caption="White head, January 1861, age 39, born Indiana, Holt County, Clay Township, Maitland, volume 38, ED 24, sheet 7, line 35. Wife Nellie, January 1875, 25, Missouri. Daughter Lela, August 1894, 5, Missouri; Herellan, January 1897, 3; Frederic, January 1898, 2. Father Indiana aligns with the 1910 Liberty nurse’s father, but diplomatic Lela and age 5 versus about 2 contradict. Rejected as C244.",
+        source="S369 · C527",
+    ),
+    dict(
+        n=217, date="1900 (index)", year=1900, role="rejected",
+        path="soundex/mo1900-s415-p0163-vicee-bollinger.jpg",
+        title="Missouri S-415 — Sylvinus, Vicee, 9/12, Bollinger Lorance; not C244",
+        caption="White individual, September 1899, age 9/12, born Missouri, Bollinger County, Lorance Township, volume 7, ED 6, sheet 18, line 8. Enumerated with Nations, James P., as stepdaughter. Surname Sylvinus, given Vicee. The only Bollinger S-415 card in the Pass 90 parent-band walk. Rejected as C244.",
+        source="S369 · C528",
+    ),
+    dict(
+        n=218, date="1900 (index)", year=1900, role="rejected",
+        path="soundex/mo1900-s415-p0236-william-c-viola-wife.jpg",
+        title="Missouri S-415 — William C., Lewis Reddish; wife Viola C., 30; not C244",
+        caption="White head, March 1860, age 40, born Missouri, Lewis County, Reddish Township, volume 46, ED 53, sheet 12, line 29. Wife Viola C., October 1869, 30, Illinois. Children Albert A. 18, Maudie M. 15, Orval L. 13, Ray 12, all Missouri. Adult wife, not a child. Rejected as C244.",
+        source="S369 · C529",
+    ),
+    dict(
         n=123, date="1900 (index)", year=1900, role="context",
         path="soundex/tx1900-c563-p1-j-divider.jpg",
         title="Texas C-563 — J-tab divider",

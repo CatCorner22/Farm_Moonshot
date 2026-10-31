@@ -188,6 +188,9 @@ Diplomatic transcriptions: [`08-transcriptions.md`](08-transcriptions.md). Citat
 | 213 | 1900 (index) | Rejected same-name | [Tennessee S-415 — William J., Macon; Lea, 2; not C244](sources/soundex/tn1900-s415-p0448-william-j-lea-2.jpg) |
 | 214 | 1900 (index) | Rejected same-name | [Illinois S-415 — Leta, 13, on Zachariah F.; not C244](sources/soundex/il1900-s415-p0250-zachariah-leta-13.jpg) |
 | 215 | 1900 (index) | Context | [Tennessee S-415 — Jerry continuation; Hettie L., 1](sources/soundex/tn1900-s415-p0063-jerry-hettie-1.jpg) |
+| 216 | 1900 (index) | Rejected same-name | [Missouri S-415 — William P., 39, Indiana, Holt; Lela, 5; not C244](sources/soundex/mo1900-s415-p0263-william-p-lela-5.jpg) |
+| 217 | 1900 (index) | Rejected same-name | [Missouri S-415 — Sylvinus, Vicee, 9/12, Bollinger Lorance; not C244](sources/soundex/mo1900-s415-p0163-vicee-bollinger.jpg) |
+| 218 | 1900 (index) | Rejected same-name | [Missouri S-415 — William C., Lewis Reddish; wife Viola C., 30; not C244](sources/soundex/mo1900-s415-p0236-william-c-viola-wife.jpg) |
 | 123 | 1900 (index) | Context | [Texas C-563 — J-tab divider](sources/soundex/tx1900-c563-p1-j-divider.jpg) |
 | 17 | Apr 1910 | Negative search | [Kentucky N-550 — Millie / Missouri; no McCoy](sources/soundex/ky1910-n550-p329-millie-missouri.jpg) |
 | 18 | Apr 1910 | Negative search | [Kentucky N-550 — Monroe; still no McCoy](sources/soundex/ky1910-n550-p330-monroe-no-mccoy.jpg) |
@@ -1936,6 +1939,36 @@ Continuation of Sullivan, Zachariah F. Leta, daughter, January 1887, 13, Illinoi
 Continuation of Sullivan, Jerry, Williamson District 1. Jessie M., daughter, March 1895, 5; Hettie L. (initial H versus L uncertain), daughter, March 1899, 1, Tennessee; Williams, Johnie L., March 1892, 8. Father is Jerry, not a target parent name. Not a confirmed Letha-string child.
 
 ![Tennessee S-415 — Jerry continuation; Hettie L., 1](sources/soundex/tn1900-s415-p0063-jerry-hettie-1.jpg)
+
+### 216 · 1900 (index) · Missouri S-415 — William P., 39, Indiana, Holt; Lela, 5; not C244
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/mo1900-s415-p0263-william-p-lela-5.jpg`](sources/soundex/mo1900-s415-p0263-william-p-lela-5.jpg)  
+**Source:** S369 · C527
+
+White head, January 1861, age 39, born Indiana, Holt County, Clay Township, Maitland, volume 38, ED 24, sheet 7, line 35. Wife Nellie, January 1875, 25, Missouri. Daughter Lela, August 1894, 5, Missouri; Herellan, January 1897, 3; Frederic, January 1898, 2. Father Indiana aligns with the 1910 Liberty nurse’s father, but diplomatic Lela and age 5 versus about 2 contradict. Rejected as C244.
+
+![Missouri S-415 — William P., 39, Indiana, Holt; Lela, 5; not C244](sources/soundex/mo1900-s415-p0263-william-p-lela-5.jpg)
+
+### 217 · 1900 (index) · Missouri S-415 — Sylvinus, Vicee, 9/12, Bollinger Lorance; not C244
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/mo1900-s415-p0163-vicee-bollinger.jpg`](sources/soundex/mo1900-s415-p0163-vicee-bollinger.jpg)  
+**Source:** S369 · C528
+
+White individual, September 1899, age 9/12, born Missouri, Bollinger County, Lorance Township, volume 7, ED 6, sheet 18, line 8. Enumerated with Nations, James P., as stepdaughter. Surname Sylvinus, given Vicee. The only Bollinger S-415 card in the Pass 90 parent-band walk. Rejected as C244.
+
+![Missouri S-415 — Sylvinus, Vicee, 9/12, Bollinger Lorance; not C244](sources/soundex/mo1900-s415-p0163-vicee-bollinger.jpg)
+
+### 218 · 1900 (index) · Missouri S-415 — William C., Lewis Reddish; wife Viola C., 30; not C244
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/mo1900-s415-p0236-william-c-viola-wife.jpg`](sources/soundex/mo1900-s415-p0236-william-c-viola-wife.jpg)  
+**Source:** S369 · C529
+
+White head, March 1860, age 40, born Missouri, Lewis County, Reddish Township, volume 46, ED 53, sheet 12, line 29. Wife Viola C., October 1869, 30, Illinois. Children Albert A. 18, Maudie M. 15, Orval L. 13, Ray 12, all Missouri. Adult wife, not a child. Rejected as C244.
+
+![Missouri S-415 — William C., Lewis Reddish; wife Viola C., 30; not C244](sources/soundex/mo1900-s415-p0236-william-c-viola-wife.jpg)
 
 ### 123 · 1900 (index) · Texas C-563 — J-tab divider
 

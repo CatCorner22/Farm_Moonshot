@@ -1910,5 +1910,37 @@ Age **13** vs ~**2**. Rejected as **C244**. → **C522**.
 
 Initial **H** vs **L** uncertain. Father **Jerry**, not a target parent name. → **C514**.
 
+## DOC146 — 1900 MO Soundex S-415, Sullivan, William P., 39, Indiana, Holt; Lela 5
+- Image: `sources/soundex/mo1900-s415-p0263-william-p-lela-5.jpg` SHA-256 `822efcdf36718f7238523ad0e39e682d2fcce2dda0a7aea156381a3014471d4a`
+- Reel: IA `soundex1900mo249` n**0263**
+
+### Diplomatic
+> **S-415 Sullivan, William P.** — Head of family · vol **38** ED **24** sh **7** ln **35** · W Jan **1861** **39** Indiana · Holt / Clay Twp / Maitland
+> Wife **Sullivan, Nellie** — Jan **1875** **25** Missouri
+> **Lela** D Aug **1894** **5** Missouri; **Herellan[?]** D Jan **1897** **3** Missouri; **Frederic** S Jan **1898** **2** Missouri
+
+Diplomatic given name **Lela**, age **5**. Father Indiana aligns with **C244** but name and age contradict. Rejected as **C244**. → **C527**.
+
+## DOC147 — 1900 MO Soundex S-415, Sylvinus, Vicee, 9/12, Bollinger Lorance
+- Image: `sources/soundex/mo1900-s415-p0163-vicee-bollinger.jpg` SHA-256 `35df9ca6c4543923c592eca5e19ecbfe3f8a4ef62203a491401365d9f79f5d6d`
+- Reel: IA `soundex1900mo249` n**0163**
+
+### Diplomatic
+> **S-415 Sylvinus, Vicee** — Individual · vol **7** ED **6** sh **18** ln **8** · W Sept **1899** **9/12** Missouri · Bollinger / Lorance Twp
+> Enumerated with **Nations, James P** · Relationship: Step Daughter
+
+Surname **Sylvinus**, given **Vicee**, not Sullivan / Letha. Rejected as **C244**. → **C528**.
+
+## DOC148 — 1900 MO Soundex S-415, Sullivan, William C., 40, Missouri, Lewis; wife Viola C 30
+- Image: `sources/soundex/mo1900-s415-p0236-william-c-viola-wife.jpg` SHA-256 `bd2602c4ffc0752d3636417c87af3463c4d605f915a4413e7f135cbbd0fd6f4b`
+- Reel: IA `soundex1900mo249` n**0236**
+
+### Diplomatic
+> **S-415 Sullivan, William C.** — Head of family · vol **46** ED **53** sh **12** ln **29** · W Mar[?] **1860** **40** Missouri · Lewis / Reddish Twp
+> Wife **Sullivan, Viola C** — Oct **1869** **30** Illinois
+> **Albert A** S Jan **1882** **18** Missouri; **Maudie M** D Nov **1884** **15** Missouri; **Orval L** S Sept **1886** **13** Missouri; **Ray** S Dec **1887** **12** Missouri
+
+Adult wife, not a child. Rejected as **C244**. → **C529**.
+
 ## DOC009 — 1910 TN Soundex N-550 McCoy window (nil)
 Handwritten family/individual cards n2461–n2469. Sequence after Mary C (n2460): Mary D 49 Jefferson (son Layton 11); Mary M 70 Hamilton; Mek. G 50 Cheatham (Florence 19, John 17, General 16, Frances 13, William 10, Doria 6, Luther 1½); Melvin 3½ Giles (gs of Deacon George W); Melvin 54 Giles (SIL of same); Minerva 80 Robertson (gds Lona Neely, Nellie Erwin); Minnie 21 Roane (with Sam P. Sparks); Mitchell 27 Hardin (Ollie P 25, Gladys 4, Burl W 3, Royal E 1 9/12). **No McCoy.** SHA-256 n2463 `23610f8aa4c159b1b554ed1786d11f57d2f56f8a2e8994f7289ae7bd02dfca53`; n2469 `340489566090880388fa6b81ca5751c5944dcaf56a7b44f70fe560788f308586`.
