@@ -2631,15 +2631,15 @@ Diplomatic **Ina M**[?] (raw also readable Iva). → **C741**.
 
 Diplomatic **Jane**; **Otto** is a **son**. → **C742**.
 
-## DOC215 — 1900 MO Soundex S-415, Mary; Lucy 9/12
+## DOC215 — 1900 MO Soundex S-415, Mary; infant son 10/12
 - Image: `sources/soundex/mo1900-s415-n3832-mary-lucy-9-12.jpg` SHA-256 `bcd8601332acc71fd5fd61516c80d31cb71f53c12170cfe519899dd8302db49a`
-- Reel: IA `soundex1900mo248` n**3832** rotate **0**
+- Reel: IA `soundex1900mo248` n**3832** rotate **0**. Filename keeps the first-pass “lucy-9-12” stem; reading corrected **L627**.
 
 ### Diplomatic
 > **S415 Sullivan, Mary** — Head · vol **113** ED **158** sh **2** ln **12** · W Apr **1872** **28** Missouri · Wayne / Williams Twp
-> **Chas E** S Apr **1890** **10** Missouri; **Minnie** D Jan **1894** **6** Missouri; **Fred L** S Mar **1897** **3** Missouri; **Lucy** D Aug **1899** **9/12** Missouri; **Couchy, Benj** Bo Sept **1884** **16** Missouri
+> **Chas E** S Apr **1890** **10** Missouri; **Minnie** D Jan **1894** **6** Missouri; **Fred L** S Mar **1897** **3** Missouri; **Lucy**[?] / **Ivy**[?] **S** Aug **1899** **10/12** Missouri; **Couchy, Bently**[?] Bo Sept **1884** **16** Missouri
 
-Diplomatic **Lucy**. → **C743**.
+Relationship **S** is the same glyph as Fred L. Infant is a **son**. → **C743**.
 
 ## DOC009 — 1910 TN Soundex N-550 McCoy window (nil)
 Handwritten family/individual cards n2461–n2469. Sequence after Mary C (n2460): Mary D 49 Jefferson (son Layton 11); Mary M 70 Hamilton; Mek. G 50 Cheatham (Florence 19, John 17, General 16, Frances 13, William 10, Doria 6, Luther 1½); Melvin 3½ Giles (gs of Deacon George W); Melvin 54 Giles (SIL of same); Minerva 80 Robertson (gds Lona Neely, Nellie Erwin); Minnie 21 Roane (with Sam P. Sparks); Mitchell 27 Hardin (Ollie P 25, Gladys 4, Burl W 3, Royal E 1 9/12). **No McCoy.** SHA-256 n2463 `23610f8aa4c159b1b554ed1786d11f57d2f56f8a2e8994f7289ae7bd02dfca53`; n2469 `340489566090880388fa6b81ca5751c5944dcaf56a7b44f70fe560788f308586`.

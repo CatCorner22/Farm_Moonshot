@@ -63,3 +63,10 @@ MO leftover-M Agent B (n3812–3870) not yet filed at write; parent last-line
 Verdict: MO leftover M closed for C244 merge.
 Residual: leftover M on KY/AR/IL/TN if unused; leftover G/S uncommon
   bands; B049 film.
+
+Addendum L627 (same date; do not rewrite L626):
+  [Read MO leftover-M 3812-3870](bc-8bdbc1fa-e92e-58bc-bbac-262010da4e0d) NIL.
+  n3832 last child is S (son), Aug 1899 10/12, name Lucy[?] / Ivy[?].
+  L626 “Lucy dau 9/12” withdrawn. C743 corrected.
+  n3850 Mary L 1 Newkirk on Slavens Mary O 47 Indiana (not Slawson / Ireland).
+  n3844 W Liberty is Mexico, Audrain — not Bollinger Liberty.

@@ -1718,8 +1718,8 @@ PLATES: list[dict] = [
     dict(
         n=289, date="1900 (index)", year=1900, role="rejected",
         path="soundex/mo1900-s415-n3832-mary-lucy-9-12.jpg",
-        title="Missouri S-415 — Mary, 28, Missouri, Wayne Williams; Lucy, 9/12; not C244",
-        caption="White female head, April 1872, age 28, born Missouri, Wayne County, Williams Township. Children Chas E, 10; Minnie, 6; Fred L, 3; Lucy, August 1899, age 9/12. Boarder Benj Couchy, 16. Diplomatic Lucy, not Letha. Wayne is adjacent to Bollinger. Rejected as C244.",
+        title="Missouri S-415 — Mary, 28, Missouri, Wayne Williams; infant son, 10/12; not C244",
+        caption="White female head, April 1872, age 28, born Missouri, Wayne County, Williams Township. Children Chas E, 10; Minnie, 6; Fred L, 3; last child Lucy[?] / Ivy[?], August 1899, age 10/12, relationship S (same glyph as Fred L — a son). Boarder Bently Couchy, 16. Not a daughter. Rejected as C244.",
         source="S405 · C743",
     ),
     dict(

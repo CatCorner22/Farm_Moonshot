@@ -261,7 +261,7 @@ Diplomatic transcriptions: [`08-transcriptions.md`](08-transcriptions.md). Citat
 | 286 | 1900 (index) | Rejected same-name | [Missouri S-415 — M. John, 33, Missouri, Pettis Sedalia; M.E., 1; not C244 father](sources/soundex/mo1900-s415-n3756-mjohn-me-1.jpg) |
 | 287 | 1900 (index) | Rejected same-name | [Missouri S-415 — M. John continuation; Ina M, 2/12; not C244](sources/soundex/mo1900-s415-n3757-inam-2-12.jpg) |
 | 288 | 1900 (index) | Rejected same-name | [Missouri S-415 — Martha, 29, Illinois, Stoddard Duck Creek; Jane, 1; not C244](sources/soundex/mo1900-s415-n3787-martha-jane-1.jpg) |
-| 289 | 1900 (index) | Rejected same-name | [Missouri S-415 — Mary, 28, Missouri, Wayne Williams; Lucy, 9/12; not C244](sources/soundex/mo1900-s415-n3832-mary-lucy-9-12.jpg) |
+| 289 | 1900 (index) | Rejected same-name | [Missouri S-415 — Mary, 28, Missouri, Wayne Williams; infant son, 10/12; not C244](sources/soundex/mo1900-s415-n3832-mary-lucy-9-12.jpg) |
 | 123 | 1900 (index) | Context | [Texas C-563 — J-tab divider](sources/soundex/tx1900-c563-p1-j-divider.jpg) |
 | 17 | Apr 1910 | Negative search | [Kentucky N-550 — Millie / Missouri; no McCoy](sources/soundex/ky1910-n550-p329-millie-missouri.jpg) |
 | 18 | Apr 1910 | Negative search | [Kentucky N-550 — Monroe; still no McCoy](sources/soundex/ky1910-n550-p330-monroe-no-mccoy.jpg) |
@@ -2741,15 +2741,15 @@ White female head, September 1870, age 29, born Illinois, Stoddard County, Duck 
 
 ![Missouri S-415 — Martha, 29, Illinois, Stoddard Duck Creek; Jane, 1; not C244](sources/soundex/mo1900-s415-n3787-martha-jane-1.jpg)
 
-### 289 · 1900 (index) · Missouri S-415 — Mary, 28, Missouri, Wayne Williams; Lucy, 9/12; not C244
+### 289 · 1900 (index) · Missouri S-415 — Mary, 28, Missouri, Wayne Williams; infant son, 10/12; not C244
 
 **Role:** Rejected same-name  
 **File:** [`sources/soundex/mo1900-s415-n3832-mary-lucy-9-12.jpg`](sources/soundex/mo1900-s415-n3832-mary-lucy-9-12.jpg)  
 **Source:** S405 · C743
 
-White female head, April 1872, age 28, born Missouri, Wayne County, Williams Township. Children Chas E, 10; Minnie, 6; Fred L, 3; Lucy, August 1899, age 9/12. Boarder Benj Couchy, 16. Diplomatic Lucy, not Letha. Wayne is adjacent to Bollinger. Rejected as C244.
+White female head, April 1872, age 28, born Missouri, Wayne County, Williams Township. Children Chas E, 10; Minnie, 6; Fred L, 3; last child Lucy[?] / Ivy[?], August 1899, age 10/12, relationship S (same glyph as Fred L — a son). Boarder Bently Couchy, 16. Not a daughter. Rejected as C244.
 
-![Missouri S-415 — Mary, 28, Missouri, Wayne Williams; Lucy, 9/12; not C244](sources/soundex/mo1900-s415-n3832-mary-lucy-9-12.jpg)
+![Missouri S-415 — Mary, 28, Missouri, Wayne Williams; infant son, 10/12; not C244](sources/soundex/mo1900-s415-n3832-mary-lucy-9-12.jpg)
 
 ### 123 · 1900 (index) · Texas C-563 — J-tab divider
 
