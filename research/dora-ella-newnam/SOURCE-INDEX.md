@@ -5,7 +5,7 @@ Full file list (331 files): [`sources/SOURCE-INVENTORY.tsv`](sources/SOURCE-INVE
 
 **Access labels:** `image seen` · `index only` · `transcription only` · `catalog only` · `OCR text` · `not yet examined`.
 
-Captured this session: **31 Oct 2026** (S283–S290, S299–S348). Earlier plates remain in `sources/census/`, `sources/soundex/`, and `book/plates/` (see `12-image-gallery.md` and `04-evidence.md`). Pass 60–61 sources S267–S282 remain.
+Captured this session: **31 Oct 2026** (S283–S290, S299–S352). Earlier plates remain in `sources/census/`, `sources/soundex/`, and `book/plates/` (see `12-image-gallery.md` and `04-evidence.md`). Pass 60–61 sources S267–S282 remain.
 
 | ID | Filename | Date captured | Repository | URL | Citation (what / where created / where accessed) | What it proves | Access |
 |---|---|---|---|---|---|---|---|
@@ -84,6 +84,10 @@ Captured this session: **31 Oct 2026** (S283–S290, S299–S348). Earlier plate
 | S346 | `sources/directories/year-hole-new-hosts-2026-10-31.txt` + IA Solr JSON + church/schools | 2026-10-31 | IA Solr / KYGenWeb / ARGenWeb | new titles only | Directory / school / church | Solr 0; schools 404; church stub (**C1315 C1316**) | catalog / negative |
 | S347 | `sources/births/lee-kbi-2026-10-31.html` + `owsley-kbi-2026-10-31.html` | 2026-10-31 | USGenNet KBI landings | kbi.html | Letter index catalog | A/G/H/M and 1921–30 paths | catalog only |
 | S348 | `sources/census/argenweb-perry-census-2026-10-31.html` | 2026-10-31 | ARGenWeb Perry census | perry/census/index.html | County census catalog | 1920 landing exists; tax/school stubs | catalog only |
+| S349 | `sources/census/perry1920/` + `perry-1920-remaining-dora-2026-10-31.txt` | 2026-10-31 | ARGenWeb Perry 1920 | perry/census/1920census/ | Remaining townships (not Howell/Perryville) | **Nil** P001; Newman/Stone FAN houses exclude her (**C1318–C1329**) | transcription only (negative) |
+| S350 | `sources/census/perry1910/` + `perry-1910-howell-rankin-dora-2026-10-31.txt` | 2026-10-31 | ARGenWeb Perry 1910 | perry/census/1910census/ | Howell entire + Rankin + 5 indexes | Howell excludes Tom A./Dora; Laura B. Butler FAN (**C1330–C1333**) | transcription only |
+| S351 | `sources/marriages/perry-book-d-*.html` + `perry-book-e-*.html` + vitals landings + extract | 2026-10-31 | ARGenWeb Perry marriages | perry/marriages/ | Books D/E N+S 1905–16 | **No** Dora×Stone; McCoy Newman × Ada Bench 1912 **not merged** (**C1334 C1335 C1337**) | index / transcription |
+| S352 | `sources/marriages/yell-marr-*.html` + `sources/census/yell-home.html` + census.htm 404 | 2026-10-31 | ARGenWeb Yell | yell/marriages/ | Bride D–F / M–O / S | **1842–1878 only**; no 1911–25 Dora Stone (**C1336 C1338**) | index / 404 |
 
 ## Word biography provenance
 
@@ -104,7 +108,8 @@ See [`sources/authored/PROVENANCE.md`](sources/authored/PROVENANCE.md). Drive se
 | Estill CCLIX marriages to 1797 | Clerk account/fee or Campton/Irvine office: Clyde Jackson × Pearl 1911–17 | **C345** / **B063** |
 | R.L. Smith, *Owsley Co. Marriages 1843–1929* (print, cited on Combs-families) | ILL / KHS: Clyde × Pearl | **B064** |
 | AR Digital Archives In Remembrance death index S–T / M–O | When host resolves: Stone / Newman 1926 | DNS this pass (**C350** / **B065**) |
-| ARGenWeb Perry 1920 remaining townships | Rankin / Rose Creek / Fourche / Aplin / Houston / etc. — Dora/Ella/Posa ~48 | Howell + Perryville done (**C1311 C1313** / **B068**) |
+| ARGenWeb Perry 1920 remaining *unpublished* / index-nil census bodies | Casa / Forest / New TN / Perry twp+town / Petit Jean / Union unpublished; other index-nil published bodies | Hit townships done (**C1318–C1329** / **B068**) |
+| ARGenWeb Perry 1910 remaining townships | Not Howell / Rankin — Dora/Ella/Posa ~38 | Howell + Rankin done (**C1330–C1333** / **B069**) |
 
 ## Variant strings used this session (categories 1–4)
 
@@ -114,7 +119,7 @@ See [`sources/authored/PROVENANCE.md`](sources/authored/PROVENANCE.md). Drive se
 
 **Thomas / T. A. Stone:** Thomas, Tom, T. A., T A × Stone, Store, Stowe (rejects already logged).
 
-Exact strings in `02-log.md` **L343–L352** (pass 60–61), **L361–L372** (pass 62), **L373–L379** (pass 63), **L396–L405** (pass 64), **L406–L418** (pass 65), **L419–L429** (pass 66), and **L430–L441** (pass 67).
+Exact strings in `02-log.md` **L343–L352** (pass 60–61), **L361–L372** (pass 62), **L373–L379** (pass 63), **L396–L405** (pass 64), **L406–L418** (pass 65), **L419–L429** (pass 66), **L430–L441** (pass 67), and **L442–L455** (pass 68).
 
 **Pearl / Clyde (pass 63):** Pearl × Newnam/Newman/Jackson; Clyde × Jackson/jacksen. Soundex **N550** / **J250**.
 

@@ -275,6 +275,10 @@
 | S346 | IA Solr Booneville/Perryville directory + Owsley 1920 title JSON; Lee schools **404**; KYGenWeb Owsley church stub; Perry tax/school `#` stubs, 31 Oct 2026. Same extract as S344. | D (catalog / negative) | IA Solr / KYGenWeb / ARGenWeb Perry |
 | S347 | Lee `kbi.html` + Owsley `kbi.html` (letter landings) captured 31 Oct 2026. | D (catalog) | Kendrick |
 | S348 | ARGenWeb Perry census index `census/index.html` captured 31 Oct 2026. | D (catalog) | ARGenWeb Perry |
+| S349 | ARGenWeb Perry 1920 remaining township indexes + hit/priority census bodies (Rankin, Rose Creek, Fourche, Adona, Bigelow, Gray, McCool, Aplin, Houston Twp, AR Pen) captured 31 Oct 2026. Extract `sources/census/perry-1920-remaining-dora-2026-10-31.txt`. Files under `sources/census/perry1920/`. **Transcription only.** | D (negative + rejected near-hits; Stone FAN houses exclude Dora) | Volunteer transcript / 1920 enumerator |
+| S350 | ARGenWeb Perry 1910 landing + Howell (entire census) + Rankin census + Aplin/Houston/Houston Town/Perryville/Casa indexes captured 31 Oct 2026. Extract `sources/census/perry-1910-howell-rankin-dora-2026-10-31.txt`. Files under `sources/census/perry1910/`. **Transcription only.** | D (Howell excludes Tom A. and Dora; Laura B. Butler FAN; Rankin Dora? Goin rejected) | Volunteer transcript / 1910 enumerator |
+| S351 | ARGenWeb Perry marriage Books D (N+S) and E (N+S) + births/deaths/marriages landings captured 31 Oct 2026. Extract `sources/marriages/perry-de-yell-marr-dora-2026-10-31.txt`. **Index / transcription only.** | D (no Dora×Stone 1905–16; McCoy Newman × Ada Bench 1912 not merged) | Shubert compiled index |
+| S352 | ARGenWeb Yell marriage landing + D–F / M–O / S bride pages + `census.htm` **404** + county home, 31 Oct 2026. Same extract as S351. **Index / catalog.** | D (those bride pages are 1842–1878 only; no 1911–25 Dora Stone) | Triller compiled list |
 
 
 ## Claims
@@ -630,6 +634,27 @@
 | C1315 | IA Solr **new** titles all **numFound 0**: Booneville directory 1900–26; Perryville directory 1900–26; “Owsley County” + 1920/fourteenth census. Did **not** repeat C335/C349 | PROVEN (negative for those queries) | S346 L432 L437 | |
 | C1316 | Lee `/schools/` **404**. ARGenWeb Perry Taxes / Schools / Churches are `href="#"` stubs. No published tax/school list naming Dora on those hosts | PROVEN as to those catalogs | S346 L437 | year hole |
 | C1317 | 1910 Owsley Island / Cow / Buffalo transcripts contain **no** Newman/Newnam/Stone household heads | PROVEN as to those transcripts | S339 L431 | extends C204 |
+| C1318 | 1920 Perry **Rankin**: **nil P001 ~48**. hh **158** John Newman 40 AR + Addie 32 AR + Ruby/Pearl/Woodrow/Orval; hh **125** John Stone 22 AR + Flora 16; hh **162** W. James Stone 45 MS + Emma 39 AR. Ella Nunn 23 AR **rejected** | PROVEN as to those rows; DISPROVED as P001 | S349 L443 | B068 |
+| C1319 | 1920 Perry **Rose Creek** / **Fourche Town** / **Rose** index: **nil P001**. Rosa E. Archer stepdau 14; Rosa Huckaby 42 AR wife of Thomas J. **rejected** | PROVEN negatives for those pages | S349 L443 | B068 |
+| C1320 | 1920 **Adona** hh **235–236**: Ella J. Lipe 59 Wd TN; Rosa C. Beerman 63 Wd MS — **not** P001 | DISPROVED as P001 | S349 L444 | |
+| C1321 | 1920 **Bigelow** Stone FAN houses: Mark 24 + Julia 23 + Rodney (hh **93**); William R. 55 + Alice 40 + seven children (hh **140**). **No** MIL/boarder Dora | PROVEN as to those households | S349 L444 | FAN |
+| C1322 | 1920 Bigelow hh **56**: Poul, Ella boarder 43 S AR — **not** P001 (AR; single; Poul) | DISPROVED as P001 | S349 L444 | |
+| C1323 | 1920 **Gray**: **nil P001 ~48**. Calb Ella 35 S GA lumber laborer; Dora dau 4; Ella Wilson boarder 22 TN **rejected** | PROVEN negatives for that town | S349 L445 | |
+| C1324 | 1920 **McCool** hh **59**: Jones, Rosa 37 Wd AR — **not** P001 (age 37; AR; Jones) | DISPROVED as P001 | S349 L445 | |
+| C1325 | 1920 **Aplin** hh **21**: Dora wife of Walter Shelton 27 GA; age **?**; b. AR; son Fay 3 — **not** P001 (husband 27; AR) | DISPROVED as P001 | S349 L446 | |
+| C1326 | 1920 Aplin hh **90** Dora W. Mosby 50 S MS (dau of Hattie 73); hh **102** Cora L. Oliver 37 KY — **not** P001 | DISPROVED as P001 | S349 L446 | |
+| C1327 | 1920 **Houston Twp** hh **244**: Ella Talley 47 S TN, dau of E.F. Talley 64 TN — **not** P001 (TN; Talley parents; single dau) | DISPROVED as P001 | S349 L446 | |
+| C1328 | 1920 **AR State Penitentiary** page: **no** Dora/Ella/Stone/Newman | PROVEN as to that page | S349 L447 | |
+| C1329 | Remaining Perry 1920 **indexes** (Casa town/twp, Cherry Hill, Dry Fork, Forest, Kenney, Lake, Maumelle, Mountain, New Tennessee, Omega, Perry twp/town, Petit Jean, Rowland, South View, Sweet Home, Tyler, Union, Walnut Grove, Houston Town): **no** Dora/Ella/Stone/Newman heads | PROVEN as to those indexes | S349 L447 | unpublished / index-nil residual |
+| C1330 | 1910 Perry **Howell** (entire township): **no** Tom A. Stone; **no** Dora ~38. hh **17** James R. Butler 27 MO + **Laura B.** 25 MO m. 10y + Fred/Clarence — **PROBABLE** FAN stepdaughter; Dora **not** in the house | PROVEN negatives for the township; PROBABLE as Laura Bell (Stone) Butler | S350 L448 | FAN of P003 |
+| C1331 | 1910 Howell hh **27**: Ella B. Hale 35 AR, wife of Zachary T. Hale 61 TN, m. 15y — **not** P001 | DISPROVED as P001 | S350 L448 | |
+| C1332 | 1910 Perry **Rankin** hh **321**: Dora? Goin 28 TN, wife of Bert Goin 33 KY, 2/2 — **not** P001. Dora dau 6 SC **rejected**. hh **343** William J. Stone 34 MS + Lottie E. 28 AR — no Dora | DISPROVED as P001; Stone FAN only | S350 L449 | |
+| C1333 | 1910 Perry indexes **Aplin / Houston / Houston Town / Perryville / Casa**: **no** Dora/Ella/Stone/Newman heads | PROVEN as to those indexes | S350 L449 | B069 residual |
+| C1334 | Perry Marriage Book **D** (15 Jan 1905–26 Sep 1912) N+S: **no** Dora/Ella Newnam bride; **no** T.A./Tom Stone groom. Local NEWMAN John 26 × Addie Gateley 16 Dec 1906 = 1920 Rankin couple | PROVEN as to those letter pages | S351 L450 | year hole |
+| C1335 | Perry Book **E** N+S: **NEWMAN, McCoy 23** × **BENCH, Ada 14**, 1 Aug 1912, E-126 — **POSSIBLE** P006; **not merged**. **No** Dora/Ella Newnam bride; **no** T.A./Tom Stone groom | POSSIBLE as P006; PROVEN negative for Dora as a party | S351 L451 | #19 |
+| C1336 | Yell ARGenWeb bride pages **D–F / M–O / S** are a **1842–1878** compilation. **No** Dora Stone / Newman 1911–25 on those pages (they do not reach those years) | PROVEN as to those pages | S352 L452 | year hole |
+| C1337 | ARGenWeb Perry births: **no records posted after 1900**. Deaths submitted files skip 1900–1926 (1860–99 / 1950+) | PROVEN as to those landings | S351 L453 | year hole |
+| C1338 | ARGenWeb Yell `census.htm` is **HTTP 404**. County home has no 1910/1920 census link | PROVEN as to those URLs | S352 L454 | |
 | C224 | **1 Jun 1880** population schedule dw **102/102** (ED **59**, **S235**) is **Flanary** + **Brashears**, **not** a **Mays** head; **Mary MAYS** 83 d. **Jan 1880** in mortality hh **102** (**S120**) — **same dwelling number**, decedent absent from June snapshot | PROVEN (original pop. line + mortality transcript) | S235 S120 L248 | Does not identify Pollie Mays stone (**C147**) |
 
 ## Same-person merges (Hard Rule 3)
@@ -646,6 +671,16 @@
 | 1910 Cow Creek Dora Bolin 36 + P001 | Age 36; given Dora | m1 10y; children Zack/Elizabeth/John | **Rejected (C1301)** |
 | 1920 Beattyville Dora Fraley 47 nee Maloney + P001 | Dora + age 47 | Maiden Maloney; eleven Fraley children | **Rejected (C1304)** |
 | 1920 Howell Ella? Hale 45 + P001 | Ella? + age 45 | Born AR; husband Taylor Z. Hale 71 | **Rejected (C1312)** |
+| 1920 Rankin John Newman 40 + Addie + P001 | Newman surname; Perry | Age 40 male; wife Addie 32 AR; AR-born children | **Rejected (C1318)** |
+| 1920 Aplin Dora Shelton (age ?) + P001 | Given Dora | Husband Walter 27; b. AR; son Fay 3 | **Rejected (C1325)** |
+| 1920 Aplin Dora W. Mosby 50 + P001 | Given Dora; age 50 | Single; b. MS; mother Hattie Mosby 73 | **Rejected (C1326)** |
+| 1920 Houston Ella Talley 47 + P001 | Ella + age 47 | Single dau; b. TN; father E.F. Talley | **Rejected (C1327)** |
+| 1920 Adona Ella J. Lipe 59 + P001 | Ella | Age 59; Wd TN | **Rejected (C1320)** |
+| 1920 Bigelow Ella Poul 43 + P001 | Ella + age 43 | Single boarder; b. AR; surname Poul | **Rejected (C1322)** |
+| 1910 Howell Ella B. Hale 35 + P001 | Ella | Age 35; b. AR; m. 15y to Zachary Hale | **Rejected (C1331)** |
+| 1910 Rankin Dora? Goin 28 + P001 | Given Dora? | Age 28; b. TN; m. 8y; 2/2; husband Bert Goin | **Rejected (C1332)** |
+| 1910 Howell Laura B. Butler 25 + Laura Bell (Stone) Butler | Laura B. + Butler + Howell + b. MO | No maiden Stone on this transcript | **PROBABLE FAN (C1330); not P001** |
+| 1912 Perry McCoy Newman 23 × Ada Bench + P006 Coy | Rare given McCoy; age ~23 vs b. Apr 1890; Perry/Yell | No parents/prior residence; 1917 Letha is documented | **Not merged (C1335 POSSIBLE; #19)** |
 | 1920 Perryville Amanda S. Stone 56 + P001 | Surname Stone | Born AR; dau Nora J. 32; not Tom A.’s house | **Rejected (C1313)** |
 | 1920 Sturgeon Dora 37 nee JUDD (Hall Mays) + P001 | Given name Dora | Age 37; maiden Judd; living children in that house | **Rejected (C126 cluster / this pass)** |
 | 1920 Sturgeon Pearl 24 nee NEWMAN in Clyde Jackson hh + P001 | Daughter’s married household | P001 would be mother ~48; she is not listed | **Not the same line — child located, mother absent (C305)** |

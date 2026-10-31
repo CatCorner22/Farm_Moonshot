@@ -4,7 +4,7 @@ Year-by-year / event-by-event pinpoints from **1 June 1900** through **24 August
 Only cited claims. Confidence: **PROVEN** · **PROBABLE** · **POSSIBLE** · **SPECULATIVE** · **DISPROVED**.  
 Unverified items stay **open**. Living descendants are redacted.
 
-**Session:** 31 Oct 2026 · branch `cursor/dora-1900-death-reconstruction-2b6a` · logs **L361–L441** · claims **C305–C369, C1300–C1317** · sources **S283–S290, S299–S348**.  
+**Session:** 31 Oct 2026 · branch `cursor/dora-1900-death-reconstruction-2b6a` · logs **L361–L455** · claims **C305–C369, C1300–C1338** · sources **S283–S290, S299–S352**.  
 **Ages** computed from birth **11 Aug 1871** (year **PROVEN**; day 11 **POSSIBLE**): 28 on 1 Jun 1900; 38 on 15 Apr 1910; 45 on 18 Feb 1917; 48 on 1 Jan 1920; 55 on 23 Aug 1926.
 
 ---
@@ -20,7 +20,7 @@ Unverified items stay **open**. Living descendants are redacted.
 | 18 Feb 1917 | Son Coy marries at **Ola**, Yell Co., AR — first documented **Arkansas** event for this *family*; does **not** place Dora at the courthouse | Event **PROVEN**; her presence **POSSIBLE** | C027 C312 |
 | 29 Jun 1917 / 11 Mar 1919 | Daughter Pearl registers two births in **Lee Co., KY** as Pearl Newman | Children **PROVEN** in Lee; Dora **not** on those index rows | C306 C307 |
 | 11 Jul 1918 | Mother **Mary A. Newnam** buried Brandenburg-Quillen, Heidelberg | Burial **PROVEN** (2001 reading); **statewide KY death index 1917–19 nil**; Dora **not named** | C309 C310 C326 C047 |
-| Jan 1920 | **Not** in Pearl’s Sturgeon house; **not** in Coy’s Danville house; **not** in Elias’s Beattyville house; **not** Mrs. Stone on Yell ED 200; **not** in Beattyville Pct 1–2; Tom A. Stone is a **widower** in Perry Howell hh 122 (Dora absent) | Her line **UNKNOWN**; those households **PROVEN** negatives | C305 C207 C209 C213 C050 C1304 C1311 |
+| Jan 1920 | **Not** in Pearl’s Sturgeon house; **not** in Coy’s Danville house; **not** in Elias’s Beattyville house; **not** Mrs. Stone on Yell ED 200; **not** in Beattyville Pct 1–2; Tom A. Stone is a **widower** in Perry Howell hh 122 (Dora absent); **not** in remaining opened Perry 1920 townships | Her line **UNKNOWN**; those households **PROVEN** negatives | C305 C207 C209 C213 C050 C1304 C1311 C1318–C1329 |
 | Feb 1920–1925 | **Probable** m2 T. A. Stone *after* 24 Feb 1920 (he is widowed that day) | m2 **PROBABLE**; date/place **open** | C014 C316 |
 | noon 23 Aug 1926 | Death, Ola, Yell Co., AR; spouse T. A. Stone; informant Coy Newnam of Ola; apoplexy 1 day | **PROVEN** | C015 |
 | 24 Aug 1926 | Burial Carters Chapel / Carter Cove | **PROVEN** | C016 C206 |
@@ -112,8 +112,9 @@ She is **not**:
 - a Posa / Dara / Nora / Cora / Dora / Ella ~35–48 wife, boarder, or servant on the 1910 **Proctor, Fincastle, or New Virginia** transcripts [C361]
 - on 1910 Owsley **Booneville, Sturgeon, or Wild Dog** transcripts under those OCR forms [C362]
 - on 1910 Owsley **Island Creek, Cow Creek, or Buffalo** under those OCR forms. Two age-adjacent wives on Cow Creek — **Dora Belle Moore, 36** (Jeff Moore, m1 24y) and **Dora Bolin, 36** (Isaac Bolin; Zack, Elizabeth, John) — fail the same-person test. No Newman/Stone heads in those three districts. [C1300] [C1301] [C1302] [C1317]
+- in Perry County, Arkansas, **Howell** 1910 (entire township opened): **no** Tom A. Stone and **no** Dora ~38. James R. Butler and **Laura B.**, 25, Missouri, are in hh **17** without a father-in-law — **PROBABLE** FAN (Laura Bell Stone Butler) that still **excludes** P001. [C1330] [C1331] [S350] Rankin 1910 **Dora?** Goin, 28, Tennessee, and **Dora** daughter, 6, fail the same-person test; William J. Stone’s house has Lottie, not Dora. [C1332] Selected 1910 indexes (Aplin, Houston, Houston Town, Perryville, Casa) have **no** Dora/Ella/Stone/Newman heads. [C1333]
 
-**Still unpublished (404):** 1910 Lee **Heidelberg, Ivy Patch, St Helens**. [C360]
+**Still unpublished (404):** 1910 Lee **Heidelberg, Ivy Patch, St Helens**. [C360] Remaining Perry 1910 townships are **B069**.
 
 **H3** (another married surname, or wife listed only on a husband’s card) remains **open** except Peebles, which is **not supported**. [C087] A **Smith** remarriage by 1914 (Frances Smith / mother Ella Newman, 29 May 1914) is **not merged** — one identifier only; Lee Book 10 and the 1920 precincts just read do not corroborate. [C358] [C364]
 
@@ -142,6 +143,8 @@ Letters **D, E, S, B** (child would carry a father’s surname other than N) lik
 **Pearl × Clyde still unread.** Neighbor-county *published* files are now closed negatives: Jackson compiled I–K/N–P **nil**; Estill grooms/certificates **nil**; Breathitt has **no** marriage year file; Wolfe’s only free year file ends **1909**. [C338] [C339] [C340] [C341] [C342] That does **not** prove they did not marry in those courthouses. Owsley eCCLIX is fee or resident-only; no account was created. [C346]
 
 No Lee tax list for 1901–09 is published on the USGenNet/KYGenWeb pages opened this pass. [C352]
+
+**This pass — Perry marriage Books D (1905–12) and E (N+S, years on page 1912–16):** **no** bride Dora/Ella Newnam and **no** T. A. / Tom Stone groom. Local Newmans (John × Addie 1906; Homer; Bertha) are the Rankin cluster, not hers. [C1334] [C1335] [S351] Book E **NEWMAN, McCoy, 23**, × **BENCH, Ada, 14**, 1 August 1912, is a **POSSIBLE** same-name hit for son Coy — **not merged** (conflict #19). It does **not** name Dora and does **not** place her. [C1335] Yell ARGenWeb bride pages D–F / M–O / S are a **1842–1878** compilation only; they do not cover 1911–25. [C1336] Perry posted **no** births after 1900 and **no** submitted death file for 1900–1926. [C1337]
 
 ---
 
@@ -226,7 +229,9 @@ Statewide / ED negatives already on file:
 
 **This pass — 1920 Owsley published transcripts:** they **do not exist** on USGenNet (landing jumps 1910 → 1940), KYGenWeb (no 1920 file), or census-online (eight links, none 1920). [C1303] [C1314]
 
-**This pass — Perry County, Arkansas, 1920 Howell (new host, Tom A.’s township):** household **122** is Tom M. Randall, Etta, two sons, and **Tom A. Stone, 62, widowed, father-in-law, tie maker**. That **confirms** the prior original [C050] from a new derivative. **Dora is not in the house.** [C1311] [S345] An Ella? Hale, 45, born Arkansas, is **rejected**. [C1312] Perryville / Fourche LaFave: **no** Dora ~48; Amanda S. Stone, 56, Arkansas-born, is a different woman. [C1313] Remaining Perry townships are **B068**.
+**This pass — Perry County, Arkansas, 1920 Howell (new host, Tom A.’s township):** household **122** is Tom M. Randall, Etta, two sons, and **Tom A. Stone, 62, widowed, father-in-law, tie maker**. That **confirms** the prior original [C050] from a new derivative. **Dora is not in the house.** [C1311] [S345] An Ella? Hale, 45, born Arkansas, is **rejected**. [C1312] Perryville / Fourche LaFave: **no** Dora ~48; Amanda S. Stone, 56, Arkansas-born, is a different woman. [C1313]
+
+**This pass — remaining Perry 1920 townships (B068):** Rankin, Rose Creek, Fourche Town, Adona, Bigelow, Gray, McCool, Aplin, Houston Township, and the state penitentiary page are **nil** for P001 ~48. [C1318–C1328] [S349] Rankin Newman/Stone houses are other Arkansas-born families (John Newman 40 + Addie; John Stone 22 + Flora; W. James Stone 45 MS + Emma). Bigelow Stone houses (Mark 24 + Julia; William R. 55 + Alice) have **no** mother-in-law Dora. Closest rejects: Aplin **Dora** wife of Walter Shelton, 27 (age illegible, born Arkansas); **Dora W.** Mosby, 50, single, Mississippi; Houston **Ella** Talley, 47, single, Tennessee, daughter of E. F. Talley; Ella J. Lipe, 59, Tennessee; Rosa C. Beerman, 63; Ella Poul, 43, Arkansas boarder; Jones Rosa, 37. Remaining 1920 *indexes* without those surnames or given names as heads are listed in the extract; several census bodies are still unpublished. [C1329]
 
 **Occupation Jan 1920:** no occupation line for P001, because no schedule line for P001.
 
@@ -238,7 +243,7 @@ Statewide / ED negatives already on file:
 
 **New constraint this reconstruction states explicitly (C316):** if the husband is the 1920 Tom A. Stone, the marriage is **after 24 February 1920** (he is enumerated widowed) and **before** her 23 August 1926 death (certificate names spouse T. A. Stone). The 1925 Carter Cove marker for Thomas Stone, if it is his, tightens the window to **24 Feb 1920 × 1925**.
 
-**Still unread:** Yell County marriage book 1920–1925; Arkansas statewide bride index; 1925 Arkansas death certificate for Thomas/T.A. Stone (conflict #4, birth 1845 vs ~1858). Perry Books F–G already **nil** Dora × Stone. [C085]
+**Still unread:** Yell County marriage book 1920–1925; Arkansas statewide bride index; 1925 Arkansas death certificate for Thomas/T.A. Stone (conflict #4, birth 1845 vs ~1858). Perry Books **D–G** now **nil** Dora × Stone. [C085] [C1334] [C1335]
 
 **Residence 1920–Aug 1926 — PROBABLE** Lamar / Carter Cove / Ola sector as Mrs. Stone, **without** a census line after the ED 200 read. [C211] Grounds: 1926 death at Ola, informant Coy of Ola, burial Carters Chapel, husband’s **probable** 1925 marker there. That is geography by death and burial, not a 1922 city directory.
 
@@ -351,15 +356,17 @@ WWI: Lee County draft transcript (1,126 cards) has **no** Newnam / Newman / McCo
 | 1900 Sturgeon **original** T623 schedule for hh 67 | Occupation/nativity image (now transcription only) |
 | Yell 1920 **ED 191** remainder | Last unread Carter Cove sector for Mrs. Stone |
 | 1920 Owsley published transcripts | **None found** on USGenNet / KYGenWeb / census-online (**C1303**). Residual = originals / FS |
-| Perry 1920 remaining townships | Rankin / Rose Creek / Fourche / others (**B068**). Howell + Perryville **done** |
+| Perry 1920 remaining *unpublished* census bodies + index-nil published bodies | Casa / Forest / New TN / Perry twp+town / Petit Jean / Union unpublished; Cherry Hill / Dry Fork / Houston Town / Kenney / Lake / Maumelle / Mountain / Omega / Rose / Rowland / South View / Sweet Home / Tyler / Walnut Grove index-nil (**B068** opened the hit townships) |
+| Perry 1910 remaining townships | Not Howell / Rankin (**B069**). Those two **done** |
 
 ---
 
 ## Files this reconstruction rests on
 
-- Case: `03-timeline.md`, `04-evidence.md` (C305–C369, C1300–C1317, S283–S290, S299–S348), `06-dossier.md`, `07-conflicts.md` #18, `02-log.md` L361–L441, `SOURCE-INDEX.md`
+- Case: `03-timeline.md`, `04-evidence.md` (C305–C369, C1300–C1338, S283–S290, S299–S352), `06-dossier.md`, `07-conflicts.md` #18–#19, `02-log.md` L361–L455, `SOURCE-INDEX.md`
 - Pass 66 extracts: `sources/marriages/owsley-vs-1903-10-dora-bride-nil-2026-10-31.txt`, `lee-book10-vsm2-ella-smith-nil-2026-10-31.txt`, `sources/births/lee-owsley-1902-09-mother-dora-nil-2026-10-31.txt`, `lee-owsley-desb-mother-dora-1911-20-2026-10-31.txt`, `sources/census/1910-1920-ocr-unread-precincts-2026-10-31.txt`, `sources/catalog/ldsgenealogy-owsley-marriages-extract-2026-10-31.txt`, `sources/directories/year-hole-directories-voters-2026-10-31.txt`
 - Pass 67 extracts: `sources/census/1910-owsley-island-cow-buff-ocr-2026-10-31.txt`, `1920-lee-beat-precincts-dora-2026-10-31.txt`, `perry-1920-howell-perryville-dora-2026-10-31.txt`, `sources/births/lee-owsley-magh-1921-mother-dora-2026-10-31.txt`, `sources/directories/year-hole-new-hosts-2026-10-31.txt`
+- Pass 68 extracts: `sources/census/perry-1920-remaining-dora-2026-10-31.txt`, `perry-1910-howell-rankin-dora-2026-10-31.txt`, `sources/marriages/perry-de-yell-marr-dora-2026-10-31.txt`
 - Narrative: `book/Dora-Ella-Newnam-Stone-A-Life.md` § Places: 1900 to death
 
 This reconstruction is **not complete**. Dora’s 1900–death life is **not** filled in.

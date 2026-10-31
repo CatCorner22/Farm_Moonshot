@@ -151,6 +151,12 @@ Exact strings logged **L361–L372**. Ages from `kinship.py`: 28 (1 Jun 1900), 3
 
 Exact strings logged **L343–L360**.
 
+## Name-variant storm (pass 68, `search_variants.py`)
+
+**Dora Stone --also Newman** — given: Dora, posa, dosa, rosa, dona, dara, dore, dori, dola, pora, rora. Surname: Stone, storie, stona, stome, Newman. Soundex **S350** / **N550**. Combined samples: `"Dora Stone"`, `"Stone, Dora"`, `"posa Stone"`, `"Dora Newman"`. Also Ella / Mrs Stone / Mrs Newman / Posa / Dona as given-name variants on Perry 1920/1910 transcripts.
+
+Exact strings logged **L442–L455**.
+
 ## Agent SDK / GitHub channel
 
 Inspected 30 Oct 2026 (**L351**): this repository has **no** `package.json`, **no** `@grok/agent-sdk`, **no** `bot/` directory. GitHub channel `bot/channels/github.ts` is **n/a** and was **not** authored. Project subagent: `.cursor/agents/dora-genealogy-detective.md`.
