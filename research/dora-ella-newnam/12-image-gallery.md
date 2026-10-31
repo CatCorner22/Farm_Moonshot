@@ -123,6 +123,13 @@ Diplomatic transcriptions: [`08-transcriptions.md`](08-transcriptions.md). Citat
 | 148 | 1900 (index) | Rejected same-name | [California C-563 — Cornelius Conrad, 27, Sacramento; Kansas-born](sources/soundex/ca1900-c563-p3800-cornelius-27-ks.jpg) |
 | 149 | 1900 (index) | Rejected same-name | [California C-563 — John Conrad, 30; wife Mary, 27, Missouri](sources/soundex/ca1900-c563-p3889-john-after-jessie.jpg) |
 | 150 | 1900 (index) | Rejected same-name | [Maryland C-563 — J.A. Conrad, 19, Washington County](sources/soundex/md1900-c563-p3400-j-a-19-pa.jpg) |
+| 151 | 1900 (index) | Rejected same-name | [New York C-563 — Jerome B Conrad, 51, Albany County](sources/soundex/ny1900-c563-p3886-jerome-b.jpg) |
+| 152 | 1900 (index) | Rejected same-name | [New York C-563 — John Conrad after Jerome; no Jesse leaf](sources/soundex/ny1900-c563-p3888-john-after-jerome.jpg) |
+| 153 | 1900 (index) | Rejected same-name | [Washington C-563 — James E Conrad, 24, Missouri-born boarder](sources/soundex/wa1900-c563-p1426-james-e-24-mo.jpg) |
+| 154 | 1900 (index) | Rejected same-name | [Washington C-563 — James J Conrad, 33; wife Jessie, 32, Wisconsin](sources/soundex/wa1900-c563-p1429-james-j-jessie-wife.jpg) |
+| 155 | 1900 (index) | Rejected same-name | [Washington C-563 — John Conrad, 20, Seattle; no Jesse leaf](sources/soundex/wa1900-c563-p1430-john-after-james.jpg) |
+| 156 | 1900 (index) | Rejected same-name | [New Jersey C-563 — Jasper Conyard, 69, Elizabeth](sources/soundex/nj1900-c563-p2799-jasper.jpg) |
+| 157 | 1900 (index) | Rejected same-name | [New Jersey C-563 — Joe Conrady, 37, Germany](sources/soundex/nj1900-c563-p2800-joe.jpg) |
 | 123 | 1900 (index) | Context | [Texas C-563 — J-tab divider](sources/soundex/tx1900-c563-p1-j-divider.jpg) |
 | 17 | Apr 1910 | Negative search | [Kentucky N-550 — Millie / Missouri; no McCoy](sources/soundex/ky1910-n550-p329-millie-missouri.jpg) |
 | 18 | Apr 1910 | Negative search | [Kentucky N-550 — Monroe; still no McCoy](sources/soundex/ky1910-n550-p330-monroe-no-mccoy.jpg) |
@@ -1221,6 +1228,76 @@ White head, July 1869, age 30, born California, Livermore. Wife Mary, December 1
 White individual, October 1880, age 19, born Pennsylvania, Williamsport. Stepson of G.P. George. James follows; Jennie then John. Combined with the n3375–3435 every-card walk, Maryland 1900 C-563 has no Jesse Conrad head.
 
 ![Maryland C-563 — J.A. Conrad, 19, Washington County](sources/soundex/md1900-c563-p3400-j-a-19-pa.jpg)
+
+### 151 · 1900 (index) · New York C-563 — Jerome B Conrad, 51, Albany County
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/ny1900-c563-p3886-jerome-b.jpg`](sources/soundex/ny1900-c563-p3886-jerome-b.jpg)  
+**Source:** S336 · C433
+
+White head, age 51, born New York, Rensselaerville. Wife Ida E, 39, New York. The next leaf is the John tab. Combined with the n3780–4020 every-card walk, New York 1900 C-563 has no Jesse Conrad head.
+
+![New York C-563 — Jerome B Conrad, 51, Albany County](sources/soundex/ny1900-c563-p3886-jerome-b.jpg)
+
+### 152 · 1900 (index) · New York C-563 — John Conrad after Jerome; no Jesse leaf
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/ny1900-c563-p3888-john-after-jerome.jpg`](sources/soundex/ny1900-c563-p3888-john-after-jerome.jpg)  
+**Source:** S336 · C433
+
+White head, August 1868, age 31, New York City. Wife Anna, 28. This is the first John leaf after Jerome B. No Jesse or Jessie card sits between them.
+
+![New York C-563 — John Conrad after Jerome; no Jesse leaf](sources/soundex/ny1900-c563-p3888-john-after-jerome.jpg)
+
+### 153 · 1900 (index) · Washington C-563 — James E Conrad, 24, Missouri-born boarder
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/wa1900-c563-p1426-james-e-24-mo.jpg`](sources/soundex/wa1900-c563-p1426-james-e-24-mo.jpg)  
+**Source:** S338 · C434 · C436
+
+White individual, April 1876, age 24, born Missouri, Pullman. Boarder of Hillis Freeman. Closest Washington leaf on nativity and age; given name is James E, and there is no Letha.
+
+![Washington C-563 — James E Conrad, 24, Missouri-born boarder](sources/soundex/wa1900-c563-p1426-james-e-24-mo.jpg)
+
+### 154 · 1900 (index) · Washington C-563 — James J Conrad, 33; wife Jessie, 32, Wisconsin
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/wa1900-c563-p1429-james-j-jessie-wife.jpg`](sources/soundex/wa1900-c563-p1429-james-j-jessie-wife.jpg)  
+**Source:** S338 · C437
+
+White head, April 1867, age 33, born Illinois, Tacoma. Wife Jessie, November 1866, age 32, Wisconsin; children Cleon, 6, and Gladys, 3, Washington. The Jessie here is the wife, not Letha, about 2.
+
+![Washington C-563 — James J Conrad, 33; wife Jessie, 32, Wisconsin](sources/soundex/wa1900-c563-p1429-james-j-jessie-wife.jpg)
+
+### 155 · 1900 (index) · Washington C-563 — John Conrad, 20, Seattle; no Jesse leaf
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/wa1900-c563-p1430-john-after-james.jpg`](sources/soundex/wa1900-c563-p1430-john-after-james.jpg)  
+**Source:** S338 · C434
+
+White head, January 1880, age 20, birthplace unknown, Seattle. Living alone. First John leaf after the James run. Combined with the n1375–1510 every-card walk, Washington 1900 C-563 has no Jesse Conrad head.
+
+![Washington C-563 — John Conrad, 20, Seattle; no Jesse leaf](sources/soundex/wa1900-c563-p1430-john-after-james.jpg)
+
+### 156 · 1900 (index) · New Jersey C-563 — Jasper Conyard, 69, Elizabeth
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/nj1900-c563-p2799-jasper.jpg`](sources/soundex/nj1900-c563-p2799-jasper.jpg)  
+**Source:** S337 · C435 · C438
+
+Black head, July 1831, age 69, born North Carolina, Mulberry Street. Living alone. Name-trap: Jasper is not Jesse. The New Jersey C-563 block is on soundex1900nj035; the nj034 tail is still C-550 Cannon.
+
+![New Jersey C-563 — Jasper Conyard, 69, Elizabeth](sources/soundex/nj1900-c563-p2799-jasper.jpg)
+
+### 157 · 1900 (index) · New Jersey C-563 — Joe Conrady, 37, Germany
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/nj1900-c563-p2800-joe.jpg`](sources/soundex/nj1900-c563-p2800-joe.jpg)  
+**Source:** S337 · C435 · C439
+
+White individual, May 1863, age 37, born Germany, Union Township. Servant of Harry Holek. Johns begin on the next leaf. Combined with the n2760–2860 every-card walk, New Jersey 1900 C-563 has no Jesse Conrad head.
+
+![New Jersey C-563 — Joe Conrady, 37, Germany](sources/soundex/nj1900-c563-p2800-joe.jpg)
 
 ### 123 · 1900 (index) · Texas C-563 — J-tab divider
 

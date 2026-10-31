@@ -1,0 +1,67 @@
+Pass 78 — 1900 NY/NJ/WA C-563 Jesse
+Date: 30 Oct 2026 (America/New_York)
+Backlog: B007 residual other-state 1900
+
+=== Access ===
+Image seen via IA BookReader page JPEGs (not the full 100–350 MB PDFs).
+  NY C-563 = soundex1900ny131 (T1062 C-560 Marguerit–C-565 Duncan; imagecount 4595)
+  NJ C-563 is NOT on soundex1900nj034 (T1060 C-521–C-600 George W.; imagecount 3630).
+    nj034 tail n3600–3629 is still C-550 Cannon (Annie → Arthur → Bernard → Bridget).
+    Adjacent reel soundex1900nj035 (T1060 C-550 Caroline–C-600 George W.; imagecount 3661)
+    holds C-563 from ~n2730 (Cammarata) through William ~n2940; C-565 Cameron by n2955.
+  WA C-563 = soundex1900wa013 (T1077 C-525–C-623 Haney J.; imagecount 3873)
+    C-563 starts ~n1377 (Albert); John by n1430; Ludwig / Peter / Victor / William through n1482;
+    C-565 Cameron by the n1500 locator.
+Local /tmp/p78/ working crops not committed except the evidence JPEGs listed in S336–S338.
+
+=== NY C-563 (ny131 n3780–4020 every card) ===
+Henry run n3780–3823 (Cameratta / Conrad / Conrady Henry).
+Herbert / Herman / Hiram / Howard / Hugh K n3824–3843.
+Isaac then I-tab; Jack / Jacob; James run n3870–3883
+  (Leonrad James 62 Cortland n3876; Conrady James; Camerata James).
+Jennie / Coonradt Jennie 13 servant n3884.
+n3886 Conrad, Jerome B 51 NY Albany / Rensselaerville + Ida E 39 NY.
+n3887 John tab divider.
+n3888 Conrad, John 31 Cin[?] New York City + Anna 28 — first John leaf.
+Kate / Katie / Katherine n3996–4005; Kruger; L-tab n4012.
+No Jesse / Jessie card between Jerome and John (C433).
+
+=== NJ C-550 tail (nj034 n3600–3629 every card) ===
+Still C-550 Cannon: Annie n3600; Arthur; August; Barney; Bartomili;
+Bernard; Bertham / Bertholmew; Bridget n3628–3629.
+Reel ends at imagecount 3630. C-563 is not on this reel.
+
+=== NJ C-563 (nj035 n2760–2860 every card) ===
+Henry run n2760–2787 (Conrad Henry / Henry C / Henry D / Henry H).
+n2788 Cunard, Isaac J 28 NJ Gloucester / Deptford + C. Laura 28.
+n2789 Coonrod, Jabez 62 NJ Morris / Rockaway + Morse kin.
+n2790 Conrad, Jacob 31 Germany Essex / Newark.
+James: Cammarde James 54 Italy n2796; Conrad James H 51 PA Bergen n2797;
+  Conrady Jane 29 NJ servant n2798.
+n2799 Conyard, Jasper 69 NC Black Union / Elizabeth living alone (C438).
+n2800 Conrady, Joe 37 Germany Union Twp servant of Holek (C439).
+n2801 Conards, John (Perth Amboy) — first John leaf.
+Then Johns / Cunard Jonathan D n2821 / Josephs.
+No Jesse / Jessie card (C435).
+
+=== WA C-563 (wa013 n1375–1510 every card) ===
+Albert / Berman / Charles / Chester T (continued family) / Clara / Emma
+through n1414; Henry F / Henry I n1423–1424; I-tab n1425.
+n1426 Conrad, James E individual W Apr 1876 24 Missouri,
+  Whitman / North Pullman / Pullman, boarder of Hillis Freeman (C436).
+n1427 Conrad, James N 62 NY Yakima.
+n1428 Conaty, James J 40 Canada Chelan / Wenatchee living alone.
+n1429 Conrad, James J 33 Illinois Pierce / Tacoma; wife Jessie 32 Wisconsin
+  + Cleon 6 / Gladys 3 WA (C437).
+n1430 Conrad, John 20 Unknown King / Seattle living alone — first John leaf.
+Then Johns / Ludwig / Mike / Parker / Peter / Victor / William.
+No Jesse / Jessie Conrad head (C434).
+
+=== Residual ===
+Other-state 1900 beyond the thirty-one C-563 jurisdictions now closed
+(MO + IN/KY/AR/IL/TN/OH/IA/KS/OK/TX/AL/MS/LA/NE/MI/NC/WV/WI/MN/FL/GA/VA/SC/PA/MD/CO/CA/NY/NJ/WA).
+Pinned unread (volume field only, not walked):
+  MA soundex1900ma060 T1051 C-560 Laua B.–C-600 Francisco S. (imagecount 4495)
+  CT soundex1900ct021 T1036 C-524 James–C-565 (imagecount 3658)
+  OR soundex1900or010 T1067 C-531–C-636 Glen (imagecount 3682)
+B049 1926 obituary; R001/R007/R008; B045 probate; B047 M1509.

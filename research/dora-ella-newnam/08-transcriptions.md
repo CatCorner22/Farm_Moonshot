@@ -1219,5 +1219,83 @@ Jessie R 17 precedes; wife Mary 27 MO is not Letha ~2. → **C432**.
 
 James follows; Jennie then John. No Jesse card. → **C426 / C427**.
 
+## DOC082 — 1900 NY Soundex C-563, Jerome B Conrad, 51
+- Image: `sources/soundex/ny1900-c563-p3886-jerome-b.jpg` SHA-256 `c4eec0646344a898a5779d68af93b8349439017a90446e212d79b5849c7204e8`
+- Reel: IA `soundex1900ny131` n**3886**
+- Enhancement: invert of IA BookReader JPEG (copy); original not committed
+
+### Diplomatic
+> **C-563 Conrad, Jerome B.** — Head of family · vol **6** ED **101** sh **12** ln **21** · W Feb [illegible] **51** New York · Albany / Rensselaerville Town  
+> **Ida E** — W, Oct **1860**, **39**, New York
+
+John tab is the next leaf (n3887). → **C433**.
+
+## DOC083 — 1900 NY Soundex C-563, John Conrad after Jerome
+- Image: `sources/soundex/ny1900-c563-p3888-john-after-jerome.jpg` SHA-256 `88c02a9d028fdef1473d196bee46bb93df59d637f33575289f210342dcb3772a`
+- Reel: IA `soundex1900ny131` n**3888**
+
+### Diplomatic
+> **C-563 Conrad, John** — Head of family · vol **182** ED **217** sh **6** ln **96** · W Aug **1868** **31** Cin[?] · New York / [Deer?] / New York / Brookline **1006**  
+> **Anna** — W, Dec **1871**, **28**, Cin[?]  
+> **Gertrude** — D, Apr **1893**, **7**, New York  
+> **John** — S, Feb **1899**, [1?], New York  
+> **Voegeli, George** — B, July **1878**, **21**, Cin[?]
+
+No Jesse card sits between Jerome B and this first John. → **C433**.
+
+## DOC084 — 1900 WA Soundex C-563, James E Conrad, 24, Missouri
+- Image: `sources/soundex/wa1900-c563-p1426-james-e-24-mo.jpg` SHA-256 `02febc8f3c78d8202aed9d6ff5ede81d2571b66bafc0d3ebefce5033ee206e95`
+- Reel: IA `soundex1900wa013` n**1426**
+
+### Diplomatic
+> **C-563 Conrad, James E.** — Individual · vol **21** ED **104** sh **5** ln **11** · W Apr **1876** **24** Missouri · Whitman / North Pullman Pct / Pullman  
+> Enumerated with **Hillis Freeman** · Relationship **Boarder**
+
+Closest WA leaf: Missouri-born, age 24. Given name James E; no Letha. → **C436**.
+
+## DOC085 — 1900 WA Soundex C-563, James J Conrad + Jessie 32 Wisconsin
+- Image: `sources/soundex/wa1900-c563-p1429-james-j-jessie-wife.jpg` SHA-256 `2e6edc7bb3ac20eb03c3780268c01c9eaa540557a2e9e19d0a405f6b721a6f67`
+- Reel: IA `soundex1900wa013` n**1429**
+
+### Diplomatic
+> **C-563 Conrad, James J.** — Head of family · vol **13** ED **176** sh **9** ln **86** · W Apr **1867** **33** Illinois · Pierce / Tacoma Pct / Tacoma / So Yak **1010**  
+> **Jessie** — W, Nov **1866**, **32**, Wisconsin  
+> **Cleon** — S, Sept **1893**, **6**, Washington  
+> **Gladys** — D, Nov **1896**, **3**, Washington  
+> **Rhymes, Sarah** — D, Apr **1848**, **52**, Indiana  
+> **Jones, Edward L** — Br, Nov **1876**, **23**, Indiana
+
+Wife Jessie is 32, Wisconsin — not Letha ~2. → **C437**.
+
+## DOC086 — 1900 WA Soundex C-563, John Conrad after James
+- Image: `sources/soundex/wa1900-c563-p1430-john-after-james.jpg` SHA-256 `367f7dee29cc136b71341f44fc332f072a6dc527e404ed22cc15aec088dbb271`
+- Reel: IA `soundex1900wa013` n**1430**
+
+### Diplomatic
+> **C-563 Conrad, John** — Head of family · vol **6** ED **33** sh **19** ln **33** · W Jan **1880** **20** Unknown · King / Seattle Pct / Seattle / Main **419**  
+> **Living alone**
+
+First John leaf after the James run. No Jesse card. → **C434**.
+
+## DOC087 — 1900 NJ Soundex C-563, Jasper Conyard, 69
+- Image: `sources/soundex/nj1900-c563-p2799-jasper.jpg` SHA-256 `89a7dbc8915e35237c15206106c79b06f5f17bb334c7e048b0f29c88e5a91be5`
+- Reel: IA `soundex1900nj035` n**2799**
+
+### Diplomatic
+> **C-563 Conyard, Jasper** — Head of family · vol **64** ED **114** sh **6** ln **27** · B July **1831** **69** No Carolina · Union / Elizabeth / Mulberry **38**  
+> **living alone**
+
+Name-trap (Jasper ≠ Jesse). → **C438**.
+
+## DOC088 — 1900 NJ Soundex C-563, Joe Conrady, 37, Germany
+- Image: `sources/soundex/nj1900-c563-p2800-joe.jpg` SHA-256 `daa54c112e5efe69684c512be629b8c312248c3ad15cbea4db281f0b05319018`
+- Reel: IA `soundex1900nj035` n**2800**
+
+### Diplomatic
+> **C-563 Conrady, Joe** — Individual · vol **6** ED **141** sh **12** ln **83** · W May **1863** **37** Germany · Union / Union Twp  
+> Enumerated with **Holek, Harry** · Relationship **Servant**
+
+Johns begin on the next leaf. No Jesse card. → **C435 / C439**.
+
 ## DOC009 — 1910 TN Soundex N-550 McCoy window (nil)
 Handwritten family/individual cards n2461–n2469. Sequence after Mary C (n2460): Mary D 49 Jefferson (son Layton 11); Mary M 70 Hamilton; Mek. G 50 Cheatham (Florence 19, John 17, General 16, Frances 13, William 10, Doria 6, Luther 1½); Melvin 3½ Giles (gs of Deacon George W); Melvin 54 Giles (SIL of same); Minerva 80 Robertson (gds Lona Neely, Nellie Erwin); Minnie 21 Roane (with Sam P. Sparks); Mitchell 27 Hardin (Ollie P 25, Gladys 4, Burl W 3, Royal E 1 9/12). **No McCoy.** SHA-256 n2463 `23610f8aa4c159b1b554ed1786d11f57d2f56f8a2e8994f7289ae7bd02dfca53`; n2469 `340489566090880388fa6b81ca5751c5944dcaf56a7b44f70fe560788f308586`.
