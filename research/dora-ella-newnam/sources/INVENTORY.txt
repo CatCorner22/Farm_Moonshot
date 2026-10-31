@@ -2882,3 +2882,15 @@ research/dora-ella-newnam/sources/census/1880-lee-ky-ed59-sheet43-p768-caroline-
   sha256: afbd2d0bd964a0f31b2a3edd6f3675724b06ee2dfeac2c8e3c80a3711840c932
   format: text extract, 595 bytes
   check: T288 IIIF reels 348/347 HTTP 200 SPA 5454 bytes not IIIF JSON; cards unseen
+/workspace/research/dora-ella-newnam/sources/indexes/pass110-coverage.txt
+  sha256: abb2ea938082ebc93e91e32d71be3d3d13b42c6ef47255d96ba822ccc5e78440
+  format: text extract, 3,128 bytes
+  check: Pass 110 coverage; catalog 215 NEW 9 process-only; Jessamine 1881-1920 n/a as 1902; Owen partial XLS 1902 overflow nil; T288 SPA 5454
+/workspace/research/dora-ella-newnam/sources/indexes/josephine-gilbert-pass110.txt
+  sha256: 3f979f3de1d31e22c72e9fef49130f9aa163dd0782f28007e171ab8dd3f42c4f
+  format: text extract, 5,219 bytes
+  check: Jessamine 1881-1920 n/a as covering 1902; Owen 1844-1900 partial XLS 1902 overflow nil this couple
+/workspace/research/dora-ella-newnam/sources/indexes/t288-timeout-pass110.txt
+  sha256: d987b7a7f22cedb1576f5e8ef7430df7a191002e4f17cb88b70047432f9d1077
+  format: text extract, 599 bytes
+  check: T288 IIIF reels 348/347 HTTP 200 SPA 5454 bytes not IIIF JSON; cards unseen

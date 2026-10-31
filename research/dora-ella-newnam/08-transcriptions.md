@@ -5864,3 +5864,55 @@ Pass 2: Do **not** invent T288 card contents. Do **not** promote C509.
 ### Facts extracted → claim IDs
 - IIIF SPA 5,454 bytes; images unseen → C1139
 - B061 remaining gap → C1141
+
+## DOC255 — Catalog + Pass 110 coverage
+
+- Extract: `pass110-coverage.txt` SHA-256 `abb2ea938082ebc93e91e32d71be3d3d13b42c6ef47255d96ba822ccc5e78440`
+- Provenance: Cursor `list-cloud-agents` includeArchived limit 200, 31 Oct 2026. This run `bc-01a18bb4-e162-785c-9724-86a7c5663bf1`.
+- Access: process listing. **No** new independently image-backed P001 1900–1926 residence.
+
+### Diplomatic — cited extract
+
+> **215** / `hasMore: false` / `totalMatched: 215`. Was **206**. NEW vs 206 (9; **no IDs imported**). Status-only: Hunt Dora still B084; B054 still Next remote after B041 now IDLE. Sibling C281 **not imported**.
+
+Pass 2: Process count only. Skip **C221–C280**. Do **not** promote C509. Do **not** hunt remaining 1930 Owsley sheets.
+
+### Facts extracted → claim IDs
+- catalog 215; NEW 9 → C1142
+- B063 remaining gap → C1147
+- B061 remaining gap → C1148
+
+## DOC256 — Josephine remaining substitutes (Pass 110)
+
+- Extract: `josephine-gilbert-pass110.txt` SHA-256 `3f979f3de1d31e22c72e9fef49130f9aa163dd0782f28007e171ab8dd3f42c4f`
+- Coverage: `pass110-coverage.txt` `abb2ea938082ebc93e91e32d71be3d3d13b42c6ef47255d96ba822ccc5e78440`
+- Provenance: Jessamine 1881–1920 HTML; Owen 1844–1900 XLS; Mason/Scott/Boyle/Garrard/Franklin landings. Opened 31 Oct 2026. **HTML-seen / XLS-seen / compiled**. License unseen. Owen XLS **not committed**.
+
+### Diplomatic — cited extracts
+
+> Jessamine 1881–1920: title 1881–1920; body dense through 1899 (1898:77 / 1899:76) then 2 rows in 1902. Underwood × Gullet / Welch × Ross DISPROVED. n/a as covering 1902.
+
+> Owen 1844–1900 (partial): 550 data rows; year-col 1902: 7. Nil Josephine Newnam × Gilbert. Jackson × O'Banion, Josie / Morgan × Clifton, Josie DISPROVED.
+
+Pass 2: License still unseen. Do not close B063.
+
+### Facts extracted → claim IDs
+- Jessamine 1881–1920 n/a as covering 1902 → C1143
+- Owen partial XLS 1902 overflow nil this couple → C1144
+- Mason/Garrard/remaining n/a → C1145
+- B063 remaining gap → C1147
+
+## DOC257 — T288 IIIF SPA 5,454 (Pass 110)
+
+- Extract: `t288-timeout-pass110.txt` SHA-256 `d987b7a7f22cedb1576f5e8ef7430df7a191002e4f17cb88b70047432f9d1077`
+- Provenance: NARA Catalog IIIF T288-0348-01001 and T288-0347-01001 info.json. Opened 31 Oct 2026. **Access-fail**.
+
+### Diplomatic — cited access results
+
+> Reels 348 and 347 frame 01001 info.json HTTP 200, 5,454-byte Catalog SPA HTML, not IIIF JSON. Card images unseen.
+
+Pass 2: Do **not** invent T288 card contents. Do **not** promote C509.
+
+### Facts extracted → claim IDs
+- IIIF SPA 5,454 bytes; images unseen → C1146
+- B061 remaining gap → C1148

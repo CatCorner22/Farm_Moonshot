@@ -1,0 +1,87 @@
+Pass 110 — Josephine Newnam x Gilbert ~1902 remaining substitutes
+Opened 31 Oct 2026 (America/New_York). Compiled / HTML-seen / XLS-seen.
+License unseen. Original 1916 DC face unseen. T288 images unseen.
+Do not commit Owen XLS (extract only). Do not commit full Jessamine/Garrard HTML.
+
+Jessamine kygenweb 1881-1920 OPENED (n/a as covering 1902)
+  URL: https://kygenweb.net/jessamine/marriages/1881to1920.htm
+  195,096 bytes. Banner: "Contributions are needed!"
+  Title 1881-1920. Year tokens: 1881-1899 dense (45-77/year; 1898:77 1899:76)
+    then 1900:1 1901:2 1902:2 1903:5 and sparse contributed 1904-1920.
+  1902 rows (both DISPROVED as this couple):
+    Underwood, William R. x Gullet, Mary 29 Mar 1902 (son of John Underwood
+      and Rebecca Rutherford; contributed by Carol Decker).
+    Welch, David x Ross, Susie 29 Oct 1902 (St. Luke's, Nicholasville;
+      witnesses Joseph Ross and Martin Welch).
+  Newman (other years, not 1902): Lizzie 1893 / Ella 1884 / Katie E. 1895 /
+    Patrick 1889. Newnam 0. Gilbert 0.
+  Josephine (other years): Combs 1881 / Reynolds F. 1895 / Goforth 1887 /
+    Rainey 1897 / Perkins 1895 DISPROVED as this couple.
+  Josie (other years): McCarthy 1898 / Hunter 1887 / Aldridge 1890 DISPROVED.
+  Do not treat the 1881-1920 title as covering 1902 (Letcher-class title/body).
+
+Owen kygenweb 1844-1900 (partial) XLS OPENED
+  Landing: https://kygenweb.net/owen/marriage.htm
+  File: marriages/Owen1844_Index.xls 133,632 bytes (held /tmp; not committed).
+  Title cell: "OWEN COUNTY MARRIAGES (Partial) 1844 - 1900"
+  Sheet "By Groom" 555x9; header row 4; 550 data rows.
+  Columns: Name / Page / (blank) / Year / Lic. date/or marriage / (blank) /
+    Bride - FHL# 272,768 / Notes.
+  Year-col 1900:7 / 1901:15 / 1902:7 / 1903:5. Year-col min 1819 max 1947.
+  1902 year-col rows (nil this couple):
+    Jackson, Jno D. 22 x O'Banion, Josie 17 DISPROVED (bride O'Banion).
+    Jackson, Ora Jr. 20 x O'Banion, Kate 18 other.
+    Morgan, Jasper 50 x Clifton, Josie 33 19 Aug 1902 DISPROVED (bride Clifton).
+    Poe, Charles 21 x O'Banion, Mary Jane 20 8 Oct 1902 other.
+    Sheets, James 22 x Ellis, Etta 17 10 Jul 1902 other.
+    Tingle, Chas B. 19 x Cook, Rosa Belle 18 20 Nov 1902 other.
+    Tool, John Jr. 22 x O'Banion, Hallie 15 other.
+  Newman/Newnam 0. Gilbert as groom 0 in 1902 (witness B. Gilbert 1904;
+    Tingle, Gilbert 1936; minister J.W. Gilbert 1936/1937 other).
+  1874marriage.xls OPENED 20,992 bytes: 19 rows all year 1874; n/a as 1902.
+  n/a as a covering complete 1902 register (title partial through 1900;
+    7 overflow 1902 rows only). NIL Josephine Newnam x Gilbert on the opened rows.
+
+Jessamine African American 1866-1922 OPENED (n/a as covering 1902)
+  URL: https://kygenweb.net/jessamine/marriages/african_american_marriages.html
+  169,782 bytes. Title 1866-1922. Year tokens 1866-1895 then 1922:2.
+  0 in 1898-1905. Newman/Newnam/Josephine/Josie 0.
+  Gilbert given-name: Bess, Gilbert x Burnsides, Margaret 22 Oct 1868 DISPROVED;
+    Mason, Gilbert x Travis, Maggie 29 Mar 1883 DISPROVED.
+  Taylor, James x Gilbert, Mary 28 Apr 1887 DISPROVED.
+  n/a as covering 1902 (1902 hole). Bonds directory 748-byte chrome; no image list.
+
+Garrard kygenweb Marriages1851-1926 OPENED (n/a as covering 1902)
+  URL: https://kygenweb.net/garrard/marriages/Marriages1851-1926.html
+  314,270 bytes. Banner: "Contributions are needed!" Title 1851-1926.
+  Body dense 1851-1890 then 1891:1 1897:1 1912:1 1917:2 1926:1. 0 in 1898-1906.
+  Newman/Newnam/Gilbert 0. Josephine Layton 1859 / Overstreet 1884 DISPROVED.
+  Josie Bassett 1882 / Kemper 1870 / Upton 1883 DISPROVED.
+  Do not treat the 1851-1926 title as covering 1902.
+
+Remaining n/a this pass:
+  Mason Books 1/5/6 grooms OPENED ~1796-1852 (0 in 1902). Josephine Bryam x
+    Isaac Warner 19 Oct 1850 DISPROVED. Gilbert Mason is a minister, not this groom.
+  Scott ScottCountyNews1902-1913.htm OPENED 34,593 bytes: 17 Aug 1902 is death of
+    W.R. Marrs, not a covering 1902 marriage table. Sarah E. Newman widow of
+    William Newman d. 17 Mar 1908 other.
+  Boyle A-Z OPENED: N through 1899, G through 1875/1929, J through 1875; 0 in 1902.
+    GENTRY, Overton H. x Josephine Wood 7 Jul 1858 DISPROVED.
+  Kenton /kenton/marriage/ OPENED 81,384 bytes: selected 1857 JPEG/HTML; 0 in 1902.
+  Bourbon/Bracken/Harrison/Pendleton/Boone/Union remaining n/a as 1902.
+  Franklin vital-records/marriages/ year pages 1852-1859 / 1861 / 1874-1878 / 1903;
+    no 1902 page.
+  Anderson marriages/ and African American marriages HTTP 404.
+  Mercer vitals.html / bonds.html HTTP 404 (redirect to search.shtml 404).
+  Scott marriage.htm / marriages/ HTTP 404.
+  Spencer Marriages/marriages.html HTTP 200 redirects to Vital.Records births
+    1900-1929; not a marriage table.
+  Grant gcmarriages.htm landing only; files.usgwarchives.net live timeout 18s;
+    Wayback CDX directory + dunlap15mr.txt only (surname extract, not covering 1902).
+  Clark marriages/ chrome 7,217 bytes; no 1902 table.
+  Recarta Lexington viewer timeout 20s (JS). WorldCat/FS 1798-1902 book still
+    unopened as a scan.
+  IA title searches numFound 0: Owen County Kentucky marriages;
+    Jessamine County Kentucky marriages.
+
+License still unseen. Do not close B063.
