@@ -1578,5 +1578,66 @@ John tab follows n1591. No Jesse card. → **C468 / C473**.
 
 C-563 J-window close: Jasper then C-565 Johns. No Jesse card. → **C466 / C472**.
 
+## DOC114 — 1900 ND Soundex C-563, Jos. E. Conrad, 31, Iowa
+- Image: `sources/soundex/nd1900-c563-p3646-jos-e-31-ia.jpg` SHA-256 `a41d648d2377891848abb372424da786b399b8b27083bfa2d3f0aca70af9ff66`
+- Reel: IA `soundex1900nd006` n**3646**
+
+### Diplomatic
+> **C-563 Conrad, Jos. E.** — Head of family · vol **2** ED **234** sh **25** ln **94** · W Nov **1868** **31** Iowa · Bottineau / Twp **162–161** Range **80**  
+> **Conrad, Emma** — W, Feb **1867**, **33**, Iowa  
+> **Jerold** — S, Aug **1893**, **6**, Iowa  
+> **Dewail[?]** — S, Feb **1896**, **4**, Iowa  
+> **Oras[?]** — S, Augt **1897**, **2**, Iowa  
+> **(Child)** — D, March **1900**, **3/12**, North Dak
+
+Only C-563 J-given between Harold and Conrad John. Jos. = Joseph, not Jesse. → **C474 / C477**.
+
+## DOC115 — 1900 SD Soundex C-563, Inez Conrad, 58, Ohio
+- Image: `sources/soundex/sd1900-c563-p3204-inez.jpg` SHA-256 `5b9e01b68ddd0e003acdcdbdb777e30827336d0990e862b7dac8511627b504c9`
+- Reel: IA `soundex1900sd007` n**3204**
+
+### Diplomatic
+> **C-563 Conrad, Inez.** — Head of family · vol **10** ED **363** sh **7** ln **29** · W June **1841** **58** Ohio · McCook / Montrose Twp  
+> **[?], Lucy** — N, Jan **1886**, **17**, Ohio  
+> **Foster, Frank H.** — B, June **1869**, **31**, Ohio  
+> **[Siddlem?], Harry** — L, Jan **1871**, **29**, Sweden na
+
+Last C-563 leaf before the James-band of other codes. Female, age 58. Conrad John follows at n3213. → **C475 / C478**.
+
+## DOC116 — 1900 DC Soundex C-563, J. H. Conrad, 48, Pennsylvania
+- Image: `sources/soundex/dc1900-c563-p1233-jh-48-pa.jpg` SHA-256 `8b4844c171dc9789de9c33c01704db9654247a22af74700a4cf24c6679999cab`
+- Reel: IA `soundex1900dc008` n**1233**
+
+### Diplomatic
+> **C-563 Conrad, J. H.** — Head of family · vol **12** ED **139** sh **4** ln **25** · W April **1858** **48** Penn. · Washington / Kentucky Ave., S.E. **535**  
+> **Conrad, Ida B.** — D, Apr **1883**, **16**, Penn.  
+> Remark: **supplied from death**
+
+Files before James of C-562. Initials J.H.; age 48; Pennsylvania. → **C476 / C479**.
+
+## DOC117 — 1900 DC Soundex C-563, John W. Conrad, 26, Maryland
+- Image: `sources/soundex/dc1900-c563-p1242-john-w-26-md.jpg` SHA-256 `5bc06ff274569e8a4488aef00e31c1c7e660782f80e50608dc2f94856921fd59`
+- Reel: IA `soundex1900dc008` n**1242**
+
+### Diplomatic
+> **C-563 Conrad, John W.** — Head of family · vol **1** ED **9** sh **11** ln **88** · W June **1873** **26** Maryland · Washington / Jefferson Street **322**  
+> **Conrad, Jessie P.** — W, Oct **1871**, **28**, Dist of Col  
+> **William F.** — S, Jan **1897**, **3**, Dist of Col  
+> **Bertha H.** — D, June **1899**, **1/12**, Dist of Col  
+> **Brown, Racheal B.** — Si.L, Sept **1864**, **35**, Dist of Col
+
+Age is close; given name John; nativity Maryland. Wife Jessie P, 28, District of Columbia, is not Letha ~2. → **C476 / C481**.
+
+## DOC118 — 1900 DC Soundex C-563, Joseph W. Conard, 55, Pennsylvania
+- Image: `sources/soundex/dc1900-c563-p1243-joseph-w-55-pa.jpg` SHA-256 `b1c8af4e36c36ffdc32d2258715aa7ebafe9e60cb3e67954bd41dfdc735e8b7f`
+- Reel: IA `soundex1900dc008` n**1243**
+
+### Diplomatic
+> **C-563 Conard, Joseph W.** — Head of family · vol **7** ED **79** sh **16** ln **45** · W Oct **1844** **55** Penna · Washington / **10th** N.W. **714**  
+> **Brown, Charles E.** — L, Sept **1874**, **25**, Ohio  
+> **McGuinett, Frank** — L, May **1872**, **28**, Maryland
+
+Immediate C-563 leaf after John W. Given name Joseph; age 55. → **C476 / C480**.
+
 ## DOC009 — 1910 TN Soundex N-550 McCoy window (nil)
 Handwritten family/individual cards n2461–n2469. Sequence after Mary C (n2460): Mary D 49 Jefferson (son Layton 11); Mary M 70 Hamilton; Mek. G 50 Cheatham (Florence 19, John 17, General 16, Frances 13, William 10, Doria 6, Luther 1½); Melvin 3½ Giles (gs of Deacon George W); Melvin 54 Giles (SIL of same); Minerva 80 Robertson (gds Lona Neely, Nellie Erwin); Minnie 21 Roane (with Sam P. Sparks); Mitchell 27 Hardin (Ollie P 25, Gladys 4, Burl W 3, Royal E 1 9/12). **No McCoy.** SHA-256 n2463 `23610f8aa4c159b1b554ed1786d11f57d2f56f8a2e8994f7289ae7bd02dfca53`; n2469 `340489566090880388fa6b81ca5751c5944dcaf56a7b44f70fe560788f308586`.

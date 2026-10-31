@@ -1,0 +1,44 @@
+Pass 84 — 1900 ND/SD/DC C-563 Jesse
+Date: 30 Oct 2026 (America/New_York)
+Backlog: B007 residual other-state 1900
+
+=== Access ===
+Image seen via IA BookReader page JPEGs (not the full 100–350 MB PDFs).
+  ND C-563 = soundex1900nd006 (T1064 C-160–C-610; imagecount 4090)
+    C-552 n3601; C-563 Axel E / Edmond / Francis / George G /
+    Harold then Jos. E. 31 IA n3646 → Johns (C-563 Conrad John n3652);
+    C-565 Cameron James n3751; C-600 n3901.
+    Every card n3580–3780.
+  SD C-563 = soundex1900sd007 (T1071 C-415–C-600; imagecount 3440)
+    C-550 n3081; C-563 Elmer/Fred/George/Herman → Inez 58 OH n3204 →
+    James-band of other codes (Cameron/Connors/Corrick) n3205–3212 →
+    C-563 Conrad John n3213–3214; C-600 n3361.
+    Every card n3080–3360.
+  DC C-563 = soundex1900dc008 (T1038 C-514–C-630; imagecount 2728)
+    C-560/562 through n1240; C-563 Ella / George W / Grace M / Harry /
+    Helen / Conradis Henry → J.H. 48 PA n1233 → James/Jeremiah of
+    C-562 → C-563 John W 26 MD n1242 + Joseph W 55 PA n1243 →
+    Mabel / Mary / Maurice / Thomas; C-565 Cameron n1272+; C-600 n1320.
+    Every card n1200–1340.
+Local /tmp/p84/ working crops not committed except the evidence JPEGs
+listed in S354–S356.
+
+=== ND C-563 (nd006 n3580–3780 every card) ===
+C-563 J-window: Jos. E. 31 IA Bottineau n3646 (C477) is the only
+C-563 J-given between Harold and Conrad John n3652. James cards in
+the slot are C-562 Conners / C-560 Conner. No Jesse card (C474).
+
+=== SD C-563 (sd007 n3080–3360 every card) ===
+C-563 Inez 58 OH Montrose n3204 (C478) → other-code James band
+n3205–3212 → C-563 Conrad John n3213. No Jesse card (C475).
+
+=== DC C-563 (dc008 n1200–1340 every card) ===
+C-563 J.H. 48 PA n1233 (C479) files before James. Jeremiah/John of
+C-562 fill the Jesse slot. C-563 John W 26 MD + wife Jessie P 28 DC
+n1242 (C481) → Joseph W 55 PA n1243 (C480). No Jesse / Jessie Conrad
+head (C476).
+
+=== Residual ===
+Other-state 1900 beyond the forty-nine C-563 jurisdictions now closed
+(prior forty-six + ND/SD/DC). Pinned unread: AK/HI.
+B049 1926 obituary; R001/R007/R008; B045 probate; B047 M1509.

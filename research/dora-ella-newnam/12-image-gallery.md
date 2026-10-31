@@ -156,6 +156,11 @@ Diplomatic transcriptions: [`08-transcriptions.md`](08-transcriptions.md). Citat
 | 181 | 1900 (index) | Rejected same-name | [Wyoming C-563 — Conrad, James, 26, Nebraska, Laramie hired man](sources/soundex/wy1900-c563-p1588-james-26-ne.jpg) |
 | 182 | 1900 (index) | Rejected same-name | [Wyoming C-563 — Conrad, James M, 58, New York; no Jesse leaf](sources/soundex/wy1900-c563-p1589-james-m-58-ny.jpg) |
 | 183 | 1900 (index) | Rejected same-name | [Utah C-563 — Conrad, Jasper, 54, Pennsylvania, Draper](sources/soundex/ut1900-c563-p1915-jasper-54-pa.jpg) |
+| 184 | 1900 (index) | Rejected same-name | [North Dakota C-563 — Conrad, Jos. E., 31, Iowa, Bottineau](sources/soundex/nd1900-c563-p3646-jos-e-31-ia.jpg) |
+| 185 | 1900 (index) | Rejected same-name | [South Dakota C-563 — Conrad, Inez, 58, Ohio, Montrose; no Jesse leaf](sources/soundex/sd1900-c563-p3204-inez.jpg) |
+| 186 | 1900 (index) | Rejected same-name | [District of Columbia C-563 — Conrad, J. H., 48, Pennsylvania](sources/soundex/dc1900-c563-p1233-jh-48-pa.jpg) |
+| 187 | 1900 (index) | Rejected same-name | [District of Columbia C-563 — Conrad, John W., 26, Maryland; wife Jessie P](sources/soundex/dc1900-c563-p1242-john-w-26-md.jpg) |
+| 188 | 1900 (index) | Rejected same-name | [District of Columbia C-563 — Conard, Joseph W., 55, Pennsylvania](sources/soundex/dc1900-c563-p1243-joseph-w-55-pa.jpg) |
 | 123 | 1900 (index) | Context | [Texas C-563 — J-tab divider](sources/soundex/tx1900-c563-p1-j-divider.jpg) |
 | 17 | Apr 1910 | Negative search | [Kentucky N-550 — Millie / Missouri; no McCoy](sources/soundex/ky1910-n550-p329-millie-missouri.jpg) |
 | 18 | Apr 1910 | Negative search | [Kentucky N-550 — Monroe; still no McCoy](sources/soundex/ky1910-n550-p330-monroe-no-mccoy.jpg) |
@@ -1584,6 +1589,56 @@ White head, September 1841, age 58, born New York, Uinta Election District 13. S
 White head, November 1845, age 54, born Pennsylvania, Draper Precinct. Wife Wilhelmina, 37, Utah; four Utah-born children. C-563 J-window close: Jasper, then C-565 Johns. Combined with the n1780–1970 every-card walk, Utah 1900 C-563 has no Jesse Conrad head.
 
 ![Utah C-563 — Conrad, Jasper, 54, Pennsylvania, Draper](sources/soundex/ut1900-c563-p1915-jasper-54-pa.jpg)
+
+### 184 · 1900 (index) · North Dakota C-563 — Conrad, Jos. E., 31, Iowa, Bottineau
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/nd1900-c563-p3646-jos-e-31-ia.jpg`](sources/soundex/nd1900-c563-p3646-jos-e-31-ia.jpg)  
+**Source:** S354 · C474 · C477
+
+White head, November 1868, age 31, born Iowa, Bottineau Township. Wife Emma, 33, Iowa; four Iowa- and North Dakota-born children. Only C-563 J-given between Harold and Conrad John. Combined with the n3580–3780 every-card walk, North Dakota 1900 C-563 has no Jesse Conrad head.
+
+![North Dakota C-563 — Conrad, Jos. E., 31, Iowa, Bottineau](sources/soundex/nd1900-c563-p3646-jos-e-31-ia.jpg)
+
+### 185 · 1900 (index) · South Dakota C-563 — Conrad, Inez, 58, Ohio, Montrose; no Jesse leaf
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/sd1900-c563-p3204-inez.jpg`](sources/soundex/sd1900-c563-p3204-inez.jpg)  
+**Source:** S355 · C475 · C478
+
+White head, June 1841, age 58, born Ohio, Montrose Township. Last C-563 leaf before the James-band of other codes; Conrad John follows at n3213. Combined with the n3080–3360 every-card walk, South Dakota 1900 C-563 has no Jesse Conrad head.
+
+![South Dakota C-563 — Conrad, Inez, 58, Ohio, Montrose; no Jesse leaf](sources/soundex/sd1900-c563-p3204-inez.jpg)
+
+### 186 · 1900 (index) · District of Columbia C-563 — Conrad, J. H., 48, Pennsylvania
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/dc1900-c563-p1233-jh-48-pa.jpg`](sources/soundex/dc1900-c563-p1233-jh-48-pa.jpg)  
+**Source:** S356 · C476 · C479
+
+White head, April 1858, age 48, born Pennsylvania, Kentucky Avenue S.E. Daughter Ida B, 16, Pennsylvania; card note supplied from death. Files before James of C-562. Combined with Plates 187–188 this closes the District of Columbia 1900 C-563 J-window.
+
+![District of Columbia C-563 — Conrad, J. H., 48, Pennsylvania](sources/soundex/dc1900-c563-p1233-jh-48-pa.jpg)
+
+### 187 · 1900 (index) · District of Columbia C-563 — Conrad, John W., 26, Maryland; wife Jessie P
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/dc1900-c563-p1242-john-w-26-md.jpg`](sources/soundex/dc1900-c563-p1242-john-w-26-md.jpg)  
+**Source:** S356 · C476 · C481
+
+White head, June 1873, age 26, born Maryland, Jefferson Street. Wife Jessie P, 28, District of Columbia; two District-born children; sister-in-law Racheal B. Brown, 35. Age is close; given name is John and nativity is Maryland. Jessie P is not Letha about 2.
+
+![District of Columbia C-563 — Conrad, John W., 26, Maryland; wife Jessie P](sources/soundex/dc1900-c563-p1242-john-w-26-md.jpg)
+
+### 188 · 1900 (index) · District of Columbia C-563 — Conard, Joseph W., 55, Pennsylvania
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/dc1900-c563-p1243-joseph-w-55-pa.jpg`](sources/soundex/dc1900-c563-p1243-joseph-w-55-pa.jpg)  
+**Source:** S356 · C476 · C480
+
+White head, October 1844, age 55, born Pennsylvania, 10th Street N.W. Two lodgers. Immediate C-563 leaf after John W. Combined with the n1200–1340 every-card walk, the District of Columbia 1900 C-563 has no Jesse Conrad head.
+
+![District of Columbia C-563 — Conard, Joseph W., 55, Pennsylvania](sources/soundex/dc1900-c563-p1243-joseph-w-55-pa.jpg)
 
 ### 123 · 1900 (index) · Texas C-563 — J-tab divider
 
