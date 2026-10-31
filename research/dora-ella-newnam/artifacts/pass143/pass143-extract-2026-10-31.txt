@@ -1,0 +1,73 @@
+Pass 143 extract — 31 Oct 2026
+B058: LOC sn89051008 item.digitized: false (34425 B). IA Solr Post-Dispatch 1926 0.
+Film unread. Phone not re-asked. C1891
+
+=== Hart Dist 1 remaining odds n0007–n0187 visual close ===
+Reel 204. Every remaining-odd name column IMAGE SEEN (91 leaves).
+Nil Newman / Newnam / Tincher / Tinker as a living head.
+N-lookalikes isolated:
+  n0035 hh 205/205 Robert BOMAN 37 M + Cecilia 47 — NOT Newman/Norman. REJECT.
+        SHA c56e460354e95e15…
+  n0119 hh 724 Frederick NANCE 26 M — NOT Newman. REJECT.
+        SHA ba69c0c8d18bdd29…
+  n0135 hh 834 George AMOS 70 — NOT Newman. REJECT.
+GT 1850Census.html still hh 1–20 only (Nutt 66). Reeves Hart 1850 is Reeves-only
+(Thomas C. Reeves p.401 stamp 206) — not an every-name index.
+Remaining-odds set CLOSED. C1892–C1895
+
+=== Hart Dist 1 tail n0191–n0198 + Henderson start ===
+n0191–n0197 name columns IMAGE SEEN. Hart Dist 1 continues (10–14 Sept,
+John W. Barrett). Households ~1174–1212. Nil Newman/Tincher.
+n0197 header IMAGE SEEN: County of Hart, 14 Sept, stamp 268.
+n0198 IMAGE SEEN: Dist 1 certificate / recap (14 Sept 1850) — no name schedule.
+n0199 IMAGE SEEN as county change only: Town of Henderson, Dist 1, hh 1.
+Henderson already CLOSED compiled — not walked.
+Hart Dist 1 last name leaf = n0197. Evens n0006–n0190 still OCR-draft residual.
+Dist 1 NOT every-even closed. County NOT closed.
+C1896–C1898
+
+=== Franklin remaining densify (reel 200) ===
+n0150 Dist 1 2 Aug stamp 15 IMAGE SEEN (Bramblett/Abbott/Petty/Yancey).
+n0270 Dist 2 26 Aug IMAGE SEEN (Wilson/Mayhall/Finnell).
+n0340 Dist 2 28 Sept stamp 203 John A. Monroe IMAGE SEEN.
+  hh 202 Thomas NEWLAND 30 M + wife — NOT Newman. REJECT.
+  SHA ce01ba5050fa2445…
+n0380 / n0420 / n0450 = Gallatin (already CLOSED compiled) — not walked.
+50 namecols on disk. County NOT every-line closed.
+C1899–C1901
+
+=== Mercer / Lincoln Dist 1 / Hopkins / Larue remaining ===
+Mercer reel 213 densify (118 namecols on disk). Visual n0200 Maddox/Maxey/Barrett
+nil Newman. County NOT closed.
+Lincoln Dist 1 remaining densify. Visual n0186 Vaught/Ogden/Lyden/Caldwell
+nil Newman. Dist 2 already closed. Dist 1 NOT closed.
+Hopkins remaining (skip n0238 Francis J / n0240 John 59). Visual n0170
+Hoy/Ethridge/Bohanon/Chapel/Malone nil Newman. County NOT closed.
+Larue Hamilton remaining. Visual n0175 Kemper/Daniel/Mitchell/McDonald/Smith/
+Bradshaw nil Newman. County NOT closed.
+C1902–C1905
+
+=== Leftover western compiled ===
+SK Hart/Franklin/Mercer/Lincoln/Hopkins/Larue/Allen/Warren/Meade/Union/Grayson
+404 this pass. USGW Hart CDX snapshots 404. us-census Hart 1850indx 404.
+Reeves 1850_Census_-_Hart_Co._KY page-not-found; US_Federal_Census_1850_KY_Hart
+LIVE Reeves-only. Linkpendium 403. kygenweb/kykinfolk Hart/Franklin 404.
+C1906
+
+=== OPEN catalogs (one-liners) ===
+GT Lee WWI LIVE 452540. Luther = Brandenburg + Underwood only. Cards unread.
+FS 1146342 SPA 19655 B isLoggedIn false (R011-80).
+FAQ 9938 LIVE rooms 228–229. No free June 1958 clip. Phone not re-asked.
+IA 602 metadata {}. pass123 still 515. One line.
+IA Solr M1509 KY 0.
+USGenNet wills LIVE: Jane Steele / Elizabeth / Mary F. — no Samuel P.
+Grant 21 not merged. B084 POSSIBLE Jr only. No 1966/1962. No 33-12/33-13.
+C1907–C1913
+
+=== Same-person / process ===
+Parents of 1928 Frank still PROBABLE. Jane not Rhoda. #28 stands.
+Living head remains Owsley 299B hh 311 William 26 × Jane 22 $325.
+No free license. Variants cats 1–4: William/Wm/Jno × Newman/Newnam/Newmon/
+Numan/Newland/Nance/Boman/Amos; Foreman/Herman/Norman already isolated;
+Tinker/Tincher; Mary/mayr. Soundex N550 / T526 / S350.
+C1914 C1915

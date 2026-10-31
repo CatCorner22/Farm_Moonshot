@@ -1,0 +1,17 @@
+R011 pass-65 free workarounds (B045/B061) — 30 Oct 2026
+Exact strings: Samuel Newnam / Newman / Newmann / Newnarn; Grant; court orders; probate; 127913; 127891; 127869; 964964.
+
+1. FamilySearch wiki Lee County (desktop + mobile toggle) HTTP 403.
+2. FamilySearch catalog 127913/127891/127869/964964/1146342 and collection 1875188 = SPA shells (19655 bytes), images not examined.
+3. USGenWeb Archives Lee wills.html and court.html: HTTP timeout (http and https). WebSearch directory text: "None available, please share yours!"
+4. KDLA microfilm.ky.gov/films = Blazor SPA; no reel list without JS. Catalog only.
+5. ArchiveGrid Lee probate HTTP 403.
+6. IA Solr "Samuel Newnam/Newman" + probate/will/administration + Lee/Beattyville: 4 junk hits (Sheena), no probate item.
+7. IA Solr title Yell County Journal 1926 = 0; "Dora Stone" 1926 = 0; M1509 Kentucky draft = 0.
+8. NARA catalog API naId 572850 returned SPA HTML, not used as a source.
+9. leecounty.kentuckycourt.us/probate-records.html is a modern clerk-path page (Circuit Clerk Tyler Phillips, 256 Main St, Beattyville). No 1900–1910 images.
+10. CourtListener / Justia: only a 2010 living-person Estill child-support case — not used (deceased-only).
+11. Wayback Beattyville cemetery b314-001.txt (partial Beach/Hill list) — nil Newnam.
+12. Google/WebSearch: no published Samuel P. Newnam will or administration abstract.
+
+Images of FS 127913 / 127891 / 127869 / 964964 remain unread.

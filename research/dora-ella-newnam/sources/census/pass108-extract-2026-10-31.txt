@@ -1,0 +1,47 @@
+Pass 108 extract — 31 Oct 2026
+B089 Estill 1930 33-9 and 33-5 isolated on IA ACPL reel 742; Boyd+Allie absent
+
+=== C1242 33-9 isolated (image seen) ===
+IA kentuckycensus00reel742 leaves 793–819
+Kentucky / Estill / Magisterial District 3 / ED 33-9
+Enumerator Hattie M. Cole
+Sheet 1A (leaf 793) through sheet 14A stamped 116 (leaf 819)
+Leaf 820 blank. Leaf 821 = ED 33-10 Red Lick sheet 1A stamped 117, Robert E. Tye.
+Matches us-census unpublished 103A–116A.
+
+=== C1243 33-9 name-column visual nil ===
+27 sheets visually read (nm793–nm819).
+No head or member surname Newman / Newnam / Newmon / Newnarn.
+Rejected same-name given / other-surname Floyd:
+  Floyd as surname head (1A)
+  Worley, Floyd head (3B)
+  Newton, Floyd head (10A)
+  Tackett, Floyd head (10B)
+  Cecil son Floyd (11A)
+  Floyd given-name head (12A)
+  Henderson son Floyd (13A)
+Combined with 33-7 COMPLETE absent (C919–C921) and 33-8 visual nil (C1232).
+
+=== C1244 33-5 isolated (image seen) ===
+Leaves 707–717
+Kentucky / Estill / Magisterial District 1 / ED 33-5
+Enumerator Mrs Daisy Wiggins (header spelling)
+Sheet 1A stamped 060 (leaf 707) through sheet 6A stamped 065 (leaf 717)
+Leaf 706 = 33-4 sheet 12B (Mrs Daisy Wiggins)
+Leaf 718 blank
+Leaf 719 = 33-6 Ravenna precinct sheet 1A, Jesse Thorp
+us-census team: 33-5 = Irvine South excl. Irvine City and Ravenna Town.
+
+=== C1245 33-5 name-column visual nil ===
+11 populated sheets visually read (nm707–nm717).
+No Newman / Newnam / Newmon / Newnarn surname.
+Rejected: Witt, Floyd head (2A). Brandenburg household is FAN surname only, not Allie.
+
+=== C1246 analysis ===
+1930 Estill 33-5 + 33-7 + 33-8 + 33-9 now visually read — Boyd+Allie absent from Irvine South and both Station Camp EDs and Dist. 3 33-9.
+33-8 is no longer unpublished on free film (Pass 107).
+33-9 and 33-5 are no longer unpublished on free film (this pass).
+Residual B089: remaining Estill 1930 EDs if a later residence is hypothesized; M1930 roll 15 maps; T1224 roll 69; Book 6 register; certs 28501 / 31780; Floyd still not merged #27.
+1958 David G still POSSIBLE only vs Frank (G≠F).
+Do not print 1966, 1976, Floyd-as-Boyd, 1962 as McCoy death, or 1942 Combs charge as fact.
+Living 1932 descendants withheld.

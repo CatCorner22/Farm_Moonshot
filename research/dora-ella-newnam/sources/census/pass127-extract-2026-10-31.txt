@@ -1,0 +1,52 @@
+PASS 127 EXTRACT 2026-10-31
+Variants cats 1-4: William Newnam/Newman/Newnarn/Numan/Newnom; Jane/Rhoda/Roda; Francis/Decatur/Leanner/Leaner; Tincher/Tinchir/Fincher; OCR Newman/newnam/newnarn; Soundex N550 T526 S350.
+
+B058 LOC sn89051008 item.digitized: false (pass127 reconfirm of pass126 JSON + live refetch). IA Solr title:(Dardanelle Post-Dispatch) AND year:1926 numFound:0. Phone 479-968-4368 not re-asked. C1607
+
+B071 HEADLINE — 1850 Owsley stamped 299B leaf 391 RE-READ. Prior C1289/C1293 missed household 311.
+
+Diplomatic (two-pass, image seen; SHA d8e5e871… leaf; SHA ffa2a4d5… names crop):
+  17 Sep 1850, County of Owsley, Kentucky.
+  ln 20  311/311  William Newman  26  M  Farmer  $325  Ditto [=Kentucky]  [pass129 image re-read; $375 was a misread]
+  ln 21           Jane            22  F                 Ditto
+  ln 22           Francis          4  F                 Ditto
+  ln 23           Leanner          2  F                 Ditto
+  ln 24  312/312  Rebecca Tincher 51  F  Widow    $200  Ditto
+  ln 25           Eli Tincher     30  M  Laborer        Ditto
+  ln 26           William         21  M  Ditto          Ditto
+William Tincher 21 is line 26, not line 22. C1608 C1609
+
+C1293 WITHDRAWN as “Francis-on-299b DISPROVED.” WikiTree’s line-22 = Francis Newman is CORRECT as a line number. The prior session misread ln 22 as William Tincher 21. Francis-on-299b is PROVEN as a 4-year-old female in hh 311. C1609
+
+Same-person vs 1860 stamped 353 hh 389 Rhoda Newman 37 Widow + Decatur 14 M + Leaner 12 F + Elihu 8 + B.F. 7 + Rebecca J 5:
+  ALIGN: William Newman; Owsley; next door to Rebecca Tincher (Rhoda natal FAN); child Leanner 2 F → Leaner 12 F (name + exact +10); Francis 4 → Decatur 14 (age +10; authored Francis Decatur); William absent 1860 as widow.
+  CONTRADICT: wife Jane ≠ Rhoda; Jane 22 vs Rhoda 37 (+15 not +10); Francis sex F vs Decatur M.
+Hard Rule 3: Jane is NOT merged with Rhoda (name + age). William 1850 vs absent 1860 husband is PROBABLE (FAN + Leanner + geography + children’s ages). Francis=Decatur POSSIBLE only (sex conflict). Serial-wives hypothesis (Jane then Rhoda) remains open. C1610 C1611 C1612
+
+1850 living head FOUND = hh 311 William × Jane. Not unread. Parents of 1928 Frank still William × Rhoda PROBABLE (DC + 1860 widow). Do not print Jane as Rhoda. C1613
+
+B071 Jessamine 1850: SK NEWMAN 10A/10B. Reel 208 n0015 stamp 13 IMAGE SEEN: hh 81 William Newman 67 farmer $1600 + Nancy 45 + Robert 25 + Benjamin 21 + Charles 21 + Sarah 23 + Mary 14. REJECT vs William 26. SK pagination slack (10 vs stamp 13); this is the only Jessamine Newman household. C1614
+
+B071 Pendleton 1850: SK NEWMAN 332B. us-census pg0331a + indx-n-r LIVE: hh 154 Thomas Dance 76 VA + Nancy Dance 70 VA + Newman, Nancy 30 KY. REJECT. County CLOSED compiled (only Newman). C1615
+
+B071 compiled CLOSES (SK LIVE, no Newman/Tincher):
+  Grant: NEAL/NEELY/NELSON/NEW/NICHOLS/NICHOLSON/NIXON/NORMAN/NORTHCUT/NORTON. C1616
+  Owen: NEWBY only in N-near. C1617
+  Washington: NEWBERRY only. C1618
+  Oldham: NEWELL 160B only. C1619
+  Taylor: NEWCOMB/NEWTON/McNEWTON. C1620
+  Bourbon: NASH/NEAL/NELSON/NICHOLS/NOLAND/NORRIS/NORTH/NORTHCUT/NORTON/NUNAMAKER/NUNN. C1621
+  Johnson reconfirm: NELSON/NIBERT (already CLOSED compiled). C1622
+
+B071 Woodford 462A: SK HAS NEWMAN 462A. Reel 222 mapped (n0005 ~stamp 377; n0120 Dist 2 16 Apr; n0320 stamp 495). n0360+ 404 (reel shorter than 462 leaves). Page 462 original not isolated. Residual. C1623
+B071 Scott: SK NEWHAM 475B/476B/480A/480B; NEWNAN 399B. Reel 218 n0005 = Shelby; n0400 stamp 368 Dist 2; n0440 stamp 388. 399B/475 originals not isolated. Residual. C1624
+B071 Lincoln 1850: namecol OCR still draft (tesseract running). County NOT closed. Do not repeat 1840 Lincoln 123/132 (Pass 126 CLOSED). C1625
+
+No free William × Rhoda / William × Jane license. kykinfolk Mod_Security. mytrees 1845 unused. C1626
+Parents of 1928 Frank still PROBABLE. 1860 Rhoda widow + B.F. 7 PROVEN. #28 stands. Jane not merged with Rhoda. Abner n0092 POSSIBLE only. C1627
+
+B059 GT Lee WWI LIVE 452540. Brandenburg, Luther + Underwood, Luther only. Cards unread. C1628
+B065/B045/B069 FS 1146342/127913/156057 SPA isLoggedIn false ~19 KB (R011-68). USGenNet wills LIVE — Jane Steele NEWMAN + Mary F. TINCHER; no Samuel P. IA Solr M1509 0. C1629
+B055/B080 FAQ 9938 LIVE cards 228-229. No free June 1958 clip. Phone not re-asked. C1630
+B088 IA 602 pass126/pass127 metadata empty. Use pass123 still 515. One line. C1631
+B081 Grant 21 not merged. B084 POSSIBLE Jr only. No 1966/1962. No 33-12/33-13. Phones/R001/R007/R008 not re-asked. C1632

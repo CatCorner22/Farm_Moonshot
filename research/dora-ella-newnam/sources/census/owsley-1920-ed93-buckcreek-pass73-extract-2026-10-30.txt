@@ -1,0 +1,86 @@
+1920 U.S. census, Owsley County, Kentucky — Pass 73 extract.
+NARA T625 roll 594. Internet Archive 14thcensusofpopu594unit.
+BookReader restored this session as:
+  https://ia601607.us.archive.org/BookReader/BookReaderImages.php
+    ?id=14thcensusofpopu594unit
+    &itemPath=/24/items/14thcensusofpopu594unit
+    &server=ia601607.us.archive.org
+    &page=leafNNNN&scale=4
+IIIF fallback:
+  https://iiif.archive.org/iiif/14thcensusofpopu594unit$NNNN/full/1600,/0/default.jpg
+The zip=/24/items/… BookReaderImages.php form used in pass 72 now returns HTTP 404.
+78 previously missing leaves 1039–1069 / 1102–1169 / 1192–1205 downloaded 30 Oct 2026.
+Access: image seen. Original jp2.zip not downloaded.
+
+Header corrections (visual, township line + ED box):
+  leaf 1170  Owsley, ED 93, sheet 1A, township **Buckcreek Precinct No. 6**,
+             enumerator W. L. Coley (reading of given initials uncertain; surname Coley).
+             Supervisor's district 11. Date ~2? January 1920.
+  leaf 1174  same precinct, abbreviated “buckcreek No 6”
+  leaf 1180  same (pass 72 “Lucky Fork” reading WITHDRAWN)
+  leaf 1192  Owsley, ED 94, sheet 1A, township **Wild Dog Precinct No. 7**
+             (pass 72 “Wilder Precinct No. 1” reading WITHDRAWN)
+  leaf 1198  Wild Dog Precinct No. 7 (same)
+
+Complete 1920 Owsley precinct map (seven EDs, 88–94):
+  88  Booneville No. 1          leaves 1038–~1065
+  89  Sturgeon Precinct No. 2   ~1066–1101
+  90  Island Creek Precinct No. 3  1102–~1127
+  91  Cow Creek                 ~1128–~1157
+  92  Buffalo Precinct          ~1158–1169
+  93  Buck Creek Precinct No. 6 1170–1191 (1191 blank)
+  94  Wild Dog Precinct No. 7   1192–1205
+
+ED 93 Buck Creek — name-column visual, households 1–183:
+  1170 sh 1A  hh 1–10   Ross / Hughes / McPherson / McIntire — nil Newman
+  1171 sh 1B            unused / blank name grid
+  1172        hh 11–18  Hughes, **Combs Ace 16** (Combs extract match)
+  1173        hh 19–24  Judd, Mainous, Hall, Ross
+  1174        hh 25–32  Rowland, Hall, Bond, Peters, Martin, Garrett
+  1175        hh 33–44  Becknell, Creech, Isaacs, Rose, Maggard, Hoskins
+  1176        hh 45–52  Judd, Mainous, Bowman, Hall, Goforth
+  1177        hh 53–60  Addison, Price, Botner, Brown, Wilson, Guff, Smith
+  1178        hh 61–71  Smith, Boyd, McGuire, Price, **Combs David 71**
+  1179        hh 72–80  **Combs Walter 72**, Price, Mainous, Venerable
+  1180        hh 81–90  Lynch, Isaacs, Marcum, Ross
+  1181        hh 91–99  Hall, Venerable, Marcum, Bowman, Combs, Lynch, Barrett
+  1182        hh 100–109 Bowman, Isaacs, Jackson, Botner, Brandenburg, Galigar, Hall, Combs
+  1183        hh 110–120 Treadway, Rowland, Porter, Holcomb, McCallie
+  1184        hh 121–130 Holcomb, Treadway, Mainous, Isaacs, Price
+  1185        hh 131–139 Ross, Addison, **Isaacs hh 134** (NOT John Newman),
+                        Combs Sarah 136, Venerable, Roark
+  1186        hh 140–149 Quillens, Combs Logan 146 + Dora B, Combs Nathan 149
+  1187        hh 149–157 Combs Nathan / James S 150, Shoemaker, Burns, Anderson,
+                        Wood, Jackson, Judd, Brandenburg
+  1188        hh 158–166 Burke Lafayette 158, Evans, **Combs Andy J 160**,
+                        Combs James 161, Grant (given, not Newman), Spencer
+  1189        hh 167–177 Mainous, Flanery, Jackson, Marcum, Wilson, McFall, Deaton, Tyree
+  1190        hh 178–183 McPherson, Cosby, Toomey, Ward, Hall — last populated sheet
+  1191                  blank
+**Nil** Newman / Newnam / McCoy / Coy as a surname on ED 93 hh 1–183.
+1910 Buck Creek John 31 × Lillie was hh **134**; that 1920 slot is Isaacs.
+
+ED 94 Wild Dog — sampled name cols nil Newman/McCoy:
+  1192 hh 1+  Brandenburg Clay, Creech, Gabbard, Bowman, Moore, Simpson, Eversole
+  1194        Gabbard, Brandenburg Johnny, Waters, Tackett
+  1196        Botner, Marcum, Cecil, Waters, Gabbard, Flanery
+  1200        Age, Creech, Bowles, Gabbard, Smith
+  1202        Lynch, Isaacs, Combs Andy
+Residual unread ED 94 sheets: 1193, 1195, 1197, 1199, 1201, 1203–1205.
+
+Other-ED samples this pass (nil Newman/McCoy on those sheets):
+  ED 88 Booneville 1044, 1050, 1060 (Barrett, Steele, Moore, Jett, Wilson, Campbell)
+  ED 90 Island Creek 1110 (Blake, Callihan, Campbell, Little, Flannery)
+  ED 91 Cow Creek 1136, 1148 (Harris, Combs, Moore, Baker, Chandler)
+  ED 92 Buffalo 1164 (Gay, Gabbard, Baker)
+Residual B086: remaining unread name columns of 88 / 90 / 91 / 92 and unread 94 sheets.
+
+Combs &c. 1920 excerpt (Robert L. Smith / Debi Houser),
+https://combs-families.org/combs/records/ky/owsley/1920.htm
+  Index names Buck Creek District and Wild Dog District (matches original headers).
+  Buck Creek Combs households 16, 71, 72, 146, 149, 150, 160 match the original
+  (derivative corroboration of precinct identity only — Combs-only extract).
+
+USGenNet Owsley census landing still has no 1920 year (1860–1910 + 1940).
+
+Claims C583–C599. Sources S417–S423.

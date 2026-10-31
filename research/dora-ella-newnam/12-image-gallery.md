@@ -19,6 +19,7 @@ Diplomatic transcriptions: [`08-transcriptions.md`](08-transcriptions.md). Citat
 
 | # | Record date | Role | Image |
 |---|---|---|---|
+| 62 | Apr 1950 | Family hit (FAN) | [Woodford ED 120-13 — John 70 + Cora 56](sources/census/woodford-1950-120-13-john-cora-ages.jpg) |
 | 1 | 29 Jun 1870 | Context | [Sturgeon Precinct, page 3 (stamped 337)](sources/census/1870-lee-ky-sturgeon-p337a-context.jpg) |
 | 2 | 29 Jun 1870 | Family hit | [John, Elizabeth, and infant Samuel Newman](sources/census/1870-lee-ky-sturgeon-p337b-john-elizabeth-samuel.jpg) |
 | 3 | 1 Jun 1880 | Family hit | [John and Mary Newnam; Samuel, aged 11](sources/census/1880-lee-ky-ed59-sheet1-p725-john-samuel.jpg) |
@@ -703,3 +704,750 @@ Crop of lines 17–24. Dora is not in this house. Her father is. She is not in C
 
 ![Burke household crop — E. T. Newman, grandfather](sources/census/1920-lee-ky-ed111-sh6a-burke-hh-crop.jpg)
 
+### 62 · Apr 1950 · Woodford ED 120-13 sheet 0012 — John 70 + Cora 56
+
+**Role:** Family hit (FAN of Everett — brother John of Owsley)  
+**File:** [`sources/census/woodford-1950-120-13-john-cora-ages.jpg`](sources/census/woodford-1950-120-13-john-cora-ages.jpg)  
+**Source:** S404 · C525 · C526
+
+1950 U.S. census, Woodford County, Kentucky, ED 120-13, sheet 0012. NARA name-index OCR: “newman Juhn” / “cocan.” Visual: Newman, John, head, w, m, 70, married, Ky; Cora, wife, w, f, 56, married, Ky. **PROBABLE** the 1940 Owsley John 63 + Cora 47. Conflict #26. Do not print the 1966 Woodford index row as a proven death.
+
+![Woodford 1950 — John 70 + Cora 56](sources/census/woodford-1950-120-13-john-cora-ages.jpg)
+
+### 63 · Apr 1930 · Owsley ED 95-7 sheet 7B — John L. 51 + Cora 36
+
+**Role:** Family hit (FAN of Everett — brother John of Owsley; identity now proven)  
+**File:** [`sources/census/owsley-1930-95-7-0663-john-cora.jpg`](sources/census/owsley-1930-95-7-0663-john-cora.jpg)  
+**Source:** S409 · C556 · C557
+
+1930 U.S. census, Owsley County, Kentucky, ED 95-7 (Buck Creek), sheet 7B, household 131. NARA T626-773; Internet Archive `kentuckycensus00reel773` leaf 663. Visual: Newman, John L, 51, married first at 25, KYKY**VA**, farmer; Cora, 36, m. 19; Pencie M 23; Robert L 12; Combs, Florence M, daughter, 26; Velma I, granddaughter, 3. **PROVEN** the 1880 John L / 1910 John × Lillie / 1915 John × Cora / 1940 John 63 + Cora 47 / 1950 Woodford John 70 + Cora 56. Conflict #26 remains open on the 1966 death date only.
+
+![Owsley 1930 ED 95-7 — John L 51 + Cora 36](sources/census/owsley-1930-95-7-0663-john-cora.jpg)
+
+Sheet 8A household 133 is **Newman, McCoy**, 40, + Edith 29 MO — **PROBABLE** Dora’s son P010 (`owsley-1930-95-7-0664-mccoy.jpg`). 1920s children withheld.
+
+### 64 · Jan 1920 · Owsley ED 88 Booneville header — T625-594
+
+**Role:** Context (reel map; 1920 hole residual)  
+**File:** [`sources/census/owsley-1920-ed88-1040-header.png`](sources/census/owsley-1920-ed88-1040-header.png)  
+**Source:** S411 · C571 · C572
+
+1920 U.S. census, Owsley County, Kentucky, ED 88, Booneville No. 1. NARA T625-594; Internet Archive `14thcensusofpopu594unit`. Header crop: county Owsley, precinct Booneville, enumerator W. M. Dooley. Owsley occupies EDs 88–94 on this reel. Pass 73 names ED 93 as Buck Creek.
+
+![Owsley 1920 ED 88 Booneville header](sources/census/owsley-1920-ed88-1040-header.png)
+
+### 65 · Jan 1920 · Owsley ED 93 Buck Creek Precinct No. 6 header
+
+**Role:** Context (1920 hole; John L. absent)  
+**File:** [`sources/census/owsley-1920-ed93-1170-buckcreek-township.png`](sources/census/owsley-1920-ed93-1170-buckcreek-township.png)  
+**Source:** S418 · C584 · C586 · C588
+
+1920 U.S. census, Owsley County, Kentucky, ED 93, sheet 1A, leaf 1170. Township line: **Buckcreek Precinct No. 6**. Households 1–183 have no Newman, Newnam, McCoy, or Coy. John L. and Cora are not there.
+
+### 66 · 26 Jan 1920 · Estill ED 44 sheet 14B — Boyd Newman + Allie
+
+**Role:** FAN hit (Station Camp; C628 withdrawn)  
+**File:** [`sources/census/estill-1920-ed44-1126-boyd-newman-zoom.jpg`](sources/census/estill-1920-ed44-1126-boyd-newman-zoom.jpg)  
+**Source:** S434 · C634 · C635 · C636
+
+1920 U.S. census, Estill County, Kentucky, Station Camp, ED 44, sheet 14B, household 120/135. NARA T625-566; Internet Archive `14thcensusofpopu566unit` leaf 1126. Visual: Newman, Boyd, 45; Allie, 35; Sarah A 15; Arthur 13; Corlue 12; Clarence 10. Soundex N-550 p4130 agrees. **Not** John L + Cora. Pass 75 Station Camp nil **withdrawn**.
+
+![Estill 1920 ED 44 — Boyd + Allie](sources/census/estill-1920-ed44-1126-boyd-newman-zoom.jpg)
+
+### 67 · 16 Jan 1920 · Estill ED 43 sheet 8B — Newman 34 + wife 34
+
+**Role:** FAN reject vs John L  
+**File:** [`sources/census/estill-1920-ed43-1094-newman-andy-zoom.jpg`](sources/census/estill-1920-ed43-1094-newman-andy-zoom.jpg)  
+**Source:** S433 · C633 · C654
+
+1920 U.S. census, Estill County, Kentucky, Irvine Precinct, ED 43, sheet 8B, household 175/170. Visual: Newman, [Andridge?/Andy?], 34, farm laborer; [Sarah?], 34; three children 10/5/2. Given names capped `[?]`. **Not** John L + Cora.
+
+![Estill 1920 ED 43 — Newman 34](sources/census/estill-1920-ed43-1094-newman-andy-zoom.jpg)
+
+### 68 · Jan 1920 · Powell County card — T625-596 leaf 1050
+
+**Role:** Context (reel map; 1920 hole residual)  
+**File:** [`sources/census/powell-1920-1050-county-card.jpg`](sources/census/powell-1920-1050-county-card.jpg)  
+**Source:** S439 · C655
+
+1920 U.S. census, Powell County, Kentucky. NARA T625-596; Internet Archive `14thcensusofpopu596unit` leaf 1050. Card: POWELL CO. EDs 142 and 177 / 143 to 146 / 178. Population starts leaf 1051.
+
+![Powell 1920 county card](sources/census/powell-1920-1050-county-card.jpg)
+
+**Source:** S441 · C658
+
+1920 U.S. census, Powell County, Kentucky, ED 142 sheet 1A, Stanton Precinct, 13 January 1920. Leaf 1051. First Dora-wife already rejected vs P001. Name-column walk 1051–1201: no Newman/McCoy head at contact-sheet resolution.
+
+![Powell 1920 ED 142 Stanton sheet 1A](sources/census/powell-1920-1051-ed142-stanton-sh1a.jpg)
+
+**Source:** S444 · C664
+
+Kentucky death certificate, Estill County, registered 9771, 22 April 1918. Decedent [Susananna?] Brandenburg, Station Camp. Informant Boyd Newman, Leighton. Image seen.
+
+![1918 Estill DC 9771](sources/vital/estill-1918-susanna-brandenburg-cert9771.jpg)
+
+**Source:** S443 · C661
+
+1920 U.S. census, Breathitt County, Kentucky, ED 52 sheet 19A, Quicksand Precinct, 17 January 1920. Leaf 1128. Soundex sheet 19 line 17 slack vs this line 17.
+
+![Breathitt 1920 ED 52 sheet 19A](sources/census/breathitt-1920-ed52-1128-sh19a.jpg)
+
+**Source:** S449 · C677
+
+Lee County, Kentucky, Marriage Book 6 compiled transcript. Floyd Newnam, 23, × Allie A. Brandenburg, 18, 31 July 1902. Derivative; register image unread.
+
+**Source:** S452 · C683
+
+1910 U.S. census, Estill County, Kentucky, ED 48 sheet 1A, Station Camp Precinct. IA `13thcensus1910po472unit` leaf 0481.
+
+![1910 Estill Station Camp ED 48 sheet 1A](sources/census/estill-1910-ed48-0481-stationcamp-sh1a.jpg)
+
+**Source:** S453 · C685
+
+Same reel, ED 48 sheet 4B leaf 0488 line 71. Diplomatic: Pennington, John, 27. Rejected vs Newman.
+
+![1910 Pennington reject zoom](sources/census/estill-1910-ed48-0488-ln71-pennington-zoom.jpg)
+
+**Source:** S454 · C688
+
+1920 U.S. census, Breathitt County, Kentucky, ED 41 sheet 1A. Leaf 0896. District 41 starts here; 0901 is sheet 2B.
+
+![Breathitt 1920 ED 41 sheet 1A](sources/census/breathitt-1920-ed41-0896-sh1a.jpg)
+
+**Source:** S457 · C697
+
+1910 Kentucky Miracode N-550, IA `soundex1910ky124` leaf 0251. Newman, Boyd, Lee, ED 98, visitation 158, with Allie, Sarah, Arthur, Carlos, Clarence.
+
+![1910 Miracode Boyd Allie Lee ED 98](sources/soundex/ky1910-n550-p0251-boyd-allie-lee-ed98.jpg)
+
+**Source:** S458 · C698 · C700
+
+1910 U.S. census, Lee County, Kentucky, Heidelberg precinct, ED 98 sheet 8A, dwelling 157 / family 158. Newman, Boyd, 38; Allie, 28; four children. Same household as 1920 Station Camp.
+
+![1910 Lee ED 98 Boyd Allie names](sources/census/lee-1910-ed98-0536-boyd-allie-names-zoom.jpg)
+
+**Source:** S460 · C702
+
+1900 U.S. census, Lee County, Kentucky, Sturgeon precinct, ED 52 sheet 2B line 54. Newman, Boyd, boarder, March 1878, age 22, day laborer, Allen Sams household 27.
+
+![1900 Sturgeon Boyd boarder](sources/census/lee-1900-ed52-0936-hh27-continued.jpg)
+
+**Source:** S467 · C722
+
+1900 U.S. census, Lee County, Kentucky, Sturgeon precinct, ED 52 sheet 3A, household 41. Brandenburgh, Oliver, and Allie A., daughter, November 1885, age 14.
+
+![1900 Sturgeon Oliver Allie A hh 41](sources/census/lee-1900-ed52-0937-oliver-allie-hh41.jpg)
+
+**Source:** S466 · C717 · C730
+
+1920 Kentucky Soundex N-550, IA `soundex1920ky117` leaf 4474. Newman, John, 38, Breathitt, wife Jennie 21. Rejected vs John L.
+
+![1920 Soundex John Jennie Breathitt](sources/soundex/ky1920-n550-p4474-john-jennie-card.jpg)
+
+**Source:** S468 · C719 · C794
+
+1920 U.S. census, Breathitt County, Kentucky, leaf 1116. Pass 81 read this as the start of district 52. Pass 85 reads the box as district **55**, sheet 1A.
+
+![Breathitt 1920 leaf 1116 (later identified as ED 55)](sources/census/breathitt-1920-ed52-1116-sh1a.jpg)
+
+**Source:** S477 · S489 · C738 · C760
+
+1910 U.S. census, Lee County, Kentucky, Heidelberg ED 98 sheet 6A. Newman, Rissie, servant, 15, in Edney, Sam, 32, and Emma, 31. Possible Dora’s daughter; not merged.
+
+![1910 Heidelberg Rissie servant](sources/census/lee-1910-ed98-0532-rissie-servant-zoom.jpg)
+
+**Source:** S491 · S492 · C772 · C773
+
+1920 U.S. census, Breathitt County, Kentucky, ED 52, George's Branch Precinct 3, sheet 19A. Enumeration-district box: District 52, sheet 19 A. This is the Soundex original.
+
+![Breathitt 1920 ED 52 sheet 19A ED box](sources/census/breathitt-1920-ed52-1060-edbox.png)
+
+**Source:** S493 · C773 · C774
+
+Same sheet, name column, lines 17–22. Newman, John, 38; Jennie, 21; Virgil, 3; Fred[i?], 1; Henry, father, 52; Julie, mother, 42. Rejected vs John L.
+
+![Breathitt 1920 ED 52 sh 19A ln 17 Newman John Jennie](sources/census/breathitt-1920-ed52-1060-names-ln17.png)
+
+![Owsley 1920 ED 93 Buck Creek township line](sources/census/owsley-1920-ed93-1170-buckcreek-township.png)
+
+**Source:** S505 · S506 · C791 · C794
+
+1920 U.S. census, Breathitt County, Kentucky, leaf 1116 w1600. Enumeration-district box: District **55**, sheet **1 A**. This is not George's Branch district 52.
+
+![Breathitt 1920 ED 55 sheet 1A ED box](sources/census/breathitt-1920-ed55-1116-edbox.png)
+
+**Source:** S508 · C797
+
+1920 U.S. census, Breathitt County, Kentucky, ED 51, Frozen Creek precinct 4, sheet 1A, leaf 1010. Start of Frozen Creek.
+
+![Breathitt 1920 ED 51 Frozen Creek sheet 1A](sources/census/breathitt-1920-ed51-1010-frozen-sh1a.jpg)
+
+**Source:** S519 · C815
+
+1920 U.S. census, T625-559 leaf 734. White card: Breathitt EDs 39 to 57 (part).
+
+![Breathitt 1920 county card EDs 39–57](sources/census/breathitt-1920-ed39-0734-county-card.jpg)
+
+**Source:** S520 · C816
+
+1920 U.S. census, Breathitt County, Kentucky, ED 39, Precinct 1, Jackson, sheet 1A, leaf 732.
+
+![Breathitt 1920 ED 39 Jackson sheet 1A](sources/census/breathitt-1920-ed39-0732-jackson-sh1a.jpg)
+
+**Source:** S525 · C822
+
+1920 U.S. census, Powell County, Kentucky, ED 177, Natural Bridge Precinct 2, sheet 1A, leaf 1063.
+
+![Powell 1920 ED 177 Natural Bridge sheet 1A](sources/census/powell-1920-ed177-1063-naturalbridge-sh1a.jpg)
+
+**Source:** S533 · C834
+
+1920 U.S. census, Bell County, Kentucky, ED 34, Clear Creek Precinct 24, sheet 12A, leaf 720. Precinct 24 is not the district number.
+
+![Bell 1920 ED 34 sheet 12A ED box](sources/census/bell-1920-ed34-0720-edbox.png)
+
+**Source:** S534 · C835
+
+Same district, sheet 1A, leaf 698 — start of Bell district 34.
+
+![Bell 1920 ED 34 Clear Creek sheet 1A](sources/census/bell-1920-ed34-0698-clearcreek-sh1a.jpg)
+
+**Source:** S546 · C849
+
+1920 U.S. census, Wolfe County, Kentucky, ED 235, Hazel Green precinct, leaf 380.
+
+![Wolfe 1920 ED 235 Hazel Green](sources/census/wolfe-1920-ed235-0380-hazelgreen.jpg)
+
+
+
+**Source:** S595 · C910
+
+1920 U.S. census, Bell County, Kentucky, Precinct 22 Ingramtown, ED 28, sheet 10B, leaf 628 — official end.
+
+![Bell 1920 ED 28 Ingramtown official end](sources/census/bell-1920-ed28-0628-ingram-end-pass90.jpg)
+
+**Source:** S598 · C912
+
+1920 U.S. census, Bell County, Kentucky, Excelcia Precinct 23, ED 29, sheet 7B, leaf 642 — official end.
+
+![Bell 1920 ED 29 Excelcia official end](sources/census/bell-1920-ed29-0642-excelcia-end-pass90.jpg)
+
+**Source:** S600 · C913
+
+1920 U.S. census, Bell County, Kentucky, Middlesboro Precinct 19, ED 25, sheet 23A, leaf 515 — official end.
+
+![Bell 1920 ED 25 Middlesboro official end](sources/census/bell-1920-ed25-0515-end-pass90.jpg)
+
+**Source:** S608 · C919
+
+1930 U.S. census, Estill County, Kentucky, Station Camp North, ED 33-7, sheet 1A, leaf 793.
+
+![Estill 1930 33-7 Station Camp North start](sources/census/estill-1930-ed337-0793-stationcamp-1a-pass90.jpg)
+
+**Source:** S609 · C920
+
+Same district, sheet 14A, leaf 819 — official-looking end.
+
+![Estill 1930 33-7 Station Camp North end](sources/census/estill-1930-ed337-0819-stationcamp-end-pass90.jpg)
+
+**Source:** S706 · C1014
+
+1930 U.S. census, Kentucky reel 743 title card — Fayette County volumes 25 and 26, not Estill.
+
+![Fayette 1930 T626-743 title](sources/census/fayette-1930-t626-743-title-pass95.jpg)
+
+**Source:** S707 · C1015
+
+Same reel, Fayette County card, EDs 34-1 to 34-11 and 34-24 to 34-26.
+
+![Fayette 1930 T626-743 card](sources/census/fayette-1930-t626-743-card-pass95.jpg)
+
+**Source:** S708 · C1016
+
+1930 U.S. census, Fayette County, Kentucky, Lexington City, ED 34-1, sheet 1A, 2 April 1930.
+
+![Fayette 1930 Lexington ED 34-1 sheet 1A](sources/census/fayette-1930-ed341-lexington-1a-pass95.jpg)
+
+**Source:** S779 · C1090
+
+1950 U.S. census, Lee County, Kentucky, Beattyville ED 65-1, sheet 21, household 196 — Cora P. Newnam, 56, widow, with Charlie Plummer, brother.
+
+![Lee 1950 Cora P + Charlie Plummer](sources/census/pass98/lee-1950-65-1-0021-corap.jpg)
+
+**Source:** S811 · C1122
+
+1950 U.S. census, Estill County, Kentucky, Irvine ED 33-1, form sheet 2, household 14 — Newnam, Fred 55 + Era R 52 + Dorothy J 19. Proven 1940 Irvine couple.
+
+![Estill 1950 Fred + Era](sources/census/pass100/estill-1950-33-1-0003-fred.jpg)
+
+**Source:** S811 · C1122
+
+Same household, original-tone crop.
+
+![Estill 1950 Fred tight crop](sources/census/pass100/crops/fred-tight.jpg)
+
+**Source:** S812 · C1124
+
+1950 U.S. census, Estill County, Kentucky, ED 33-13 sheet 21 household 155 — Harding 65 + Sarah 64, rejected versus Boyd and Allie.
+
+![Estill 1950 Harding reject](sources/census/pass100/estill-1950-33-13-0021-planding.jpg)
+
+**Source:** S812 · C1124
+
+1950 Estill County enumeration-district map (NARA S3), title block — 1950 E.D.’s 33-1 to 33-22 on a 1937 highway sheet.
+
+![Estill 1950 ED map title](sources/census/pass101/crops/estill-1950-map-title.jpg)
+
+**Source:** S841 · C1152
+
+Same map, county preview — 33-8 in Magisterial District 2 Millers Creek; Station Camp is 33-11 / 33-12.
+
+![Estill 1950 ED map preview](sources/census/pass101/crops/estill-1950-ed-map-preview.jpg)
+
+**Source:** S841 · C1152
+
+1950 ED descriptions, Kentucky-0033 page 2 — 33-5 Ravenna city; 33-8 Millers Creek.
+
+![Estill 1950 ED descriptions 33-5 and 33-8](sources/census/pass101/crops/estill-1950-ed-desc-0002-33-5-33-8.jpg)
+
+**Source:** S842 · C1153
+
+1950 ED descriptions, Kentucky-0033 page 3 — 33-11 / 33-12 Station Camp split on South Irvine–Leighton Road via Ola.
+
+![Estill 1950 ED descriptions 33-11 and 33-12](sources/census/pass101/crops/estill-1950-ed-desc-0003-33-11-33-12.jpg)
+
+**Source:** S842 · C1154
+
+1950 U.S. census, Estill County, ED 33-12 sheet 13, 12 April 1950 — given-name Boyd, 19, farmer, McKamey household, rejected versus Boyd Newman ~75.
+
+![Estill 1950 33-12 Boyd 19 reject](sources/census/pass101/43290879-Kentucky-154364-0016.jpg)
+
+**Source:** S844 · C1156
+
+1930 U.S. census, Estill County, Kentucky, ED 33-6 sheet 1A — Ravenna/Millers Creek West name column. No Newman or Newnam.
+
+![Estill 1930 33-6 name column](sources/census/pass110-acpl742/nm0719.jpg)
+
+**Source:** S953 · C1256
+
+1930 U.S. census, Estill County, ED 33-10 sheet 1A stamped 117 — Red Lick East header, Robert E. Tye.
+
+![Estill 1930 33-10 header](sources/census/pass111-acpl742/hdr0821.jpg)
+
+**Source:** S966 · C1269
+
+1930 U.S. census, Estill County, ED 33-10 sheet 5A dwelling 80 — Newnam, Hendrix 45 + Sarah E. 44 + Hiram D., John B., Melvina R. Rejected versus Boyd and Allie.
+
+![Estill 1930 Hendrix Newnam reject](sources/census/pass111-acpl742/crop0829-hendrix-ages.jpg)
+
+**Source:** S967 · C1271
+
+1930 U.S. census, Estill County, ED 33-11 sheet 1A stamped 130 — Riddell & Thomas header, George McQueen.
+
+![Estill 1930 33-11 header](sources/census/pass112-acpl742/hdr0847.jpg)
+
+**Source:** S971 · C1276
+
+1930 U.S. census, Estill County, ED 33-11 sheet ~9A dwelling 167 — Nennian, Ray 38 + Malinda 38 + six children. Rejected versus Boyd and Allie.
+
+![Estill 1930 Nennian Ray reject](sources/census/pass112-acpl742/crop0863-nennian-ray.jpg)
+
+**Source:** S972 · C1278
+
+## 1850 — Pulaski / Bath / Fleming (passes 123–124)
+
+1850 U.S. census, Pulaski County, Division 1, 7 September — Will I. Newman 31 VA × Rachel. S-K 42A. Rejected versus William × Rhoda.
+
+![Pulaski Will I 42A](sources/census/pass123/keyplates/r217-n0212-will-i-42a.jpg)
+
+**Source:** S1167 · C1527
+
+1850 U.S. census, Bath County, 2d Division, 23 July, stamped 6 — John Tincher 26 + Ann 17.
+
+![Bath Tincher 6A](sources/census/pass124/keyplates/r191-n0390-setters-6a.jpg)
+
+**Source:** S1185 · C1544
+
+1850 U.S. census, Bath County, 2d Division, 23 July — Francis Tincher 36 VA laborer.
+
+![Bath Francis Tincher 6B](sources/census/pass124/keyplates/r191-n0391-francis-tincher-6b.jpg)
+
+**Source:** S1186 · C1545
+
+1850 U.S. census, Bath County, 2d Division, 28 July — John S. Tincher 47 VA + Betsy; son William 20.
+
+![Bath John S Tincher 7A](sources/census/pass124/keyplates/r191-n0392-john-s-tincher-7a.jpg)
+
+**Source:** S1187 · C1546
+
+1850 U.S. census, Fleming County, District 1, 4 September, stamped 309 — John Newman 55 × Elizabeth; Alexander 42.
+
+![Fleming John 55](sources/census/pass124/keyplates/r199-n0396-john-newman-55-309.jpg)
+
+**Source:** S1189 · C1549
+
+1850 U.S. census, Fleming County, District 1, 27 September — John Newman 78 VA auctioneer.
+
+![Fleming John 78](sources/census/pass124/keyplates/r199-n0443-john-78-331b.jpg)
+
+**Source:** S1190 · C1550
+
+## 1850 — Greenup / Fleming 395A (pass 125)
+
+1850 U.S. census, Greenup County, District 2, 20 August — Lemuel Newman 38 MD × Matilda 24.
+
+![Greenup Lemuel 38 MD](sources/census/pass125/keyplates/r202-n0373-lemuel-38-md.jpg)
+
+**Source:** S1216 · C1565
+
+1850 U.S. census, Greenup County, stamped 191 — Thomas Newman 28 SC merchant × Tabitha 25 VA.
+
+![Greenup Thomas 28 SC](sources/census/pass125/keyplates/r202-n0384-thomas-28-sc-191.jpg)
+
+**Source:** S1217 · C1566
+
+1850 U.S. census, Greenup County, first district stamped 261 — Henry Newman 30 GER × Eliza 28 OH.
+
+![Greenup Henry 30 GER](sources/census/pass125/keyplates/r202-n0526-henry-30-ger-261.jpg)
+
+**Source:** S1218 · C1567
+
+1850 U.S. census, Fleming County, stamped 386B — Samuel Newman 37 × Sarah 36.
+
+![Fleming Samuel 37](sources/census/pass125/keyplates/r199-n0553-samuel-37-386b.jpg)
+
+**Source:** S1220 · C1570
+
+1850 U.S. census, Fleming County, stamped 389A — James Newman 37 × Mary Jane 33.
+
+![Fleming James 37](sources/census/pass125/keyplates/r199-n0558-james-37-389a.jpg)
+
+**Source:** S1221 · C1571
+
+1850 U.S. census, Fleming County, stamped 395A — Madison or Andrew Newman 31 + six children.
+
+![Fleming 395A](sources/census/pass125/keyplates/r199-n0570-madison-31-395a.jpg)
+
+**Source:** S1222 · C1572
+
+## 1840 — Lincoln pages 123 / 132 (pass 126)
+
+1840 U.S. census, Lincoln County, Kentucky, printed page 123 — Newman J. and Newman H.A. Rejected versus William.
+
+![Lincoln 1840 page 123](sources/census/pass126/keyplates/r117-n0249-page123.jpg)
+
+**Source:** S1252 · C1596
+
+1840 U.S. census, Lincoln County, Kentucky, printed page 132 — Holeman or Newman Dasey. Rejected versus William.
+
+![Lincoln 1840 page 132](sources/census/pass126/keyplates/r117-n0267-page132.jpg)
+
+**Source:** S1253 · C1597
+
+## 1850 — Owsley 299B household 311 (pass 127)
+
+1850 U.S. census, Owsley County, stamped 299B — William Newman 26 × Jane 22 + Francis 4 F + Leanner 2 F. Next door Rebecca Tincher 51.
+
+![Owsley 299B hh 311](sources/census/pass125/keyplates/owsley-1850-299b-hh311-william-jane.jpg)
+
+**Source:** S1263 · C1608
+
+## 1850 — Jessamine 10B Edmund (pass 128)
+
+1850 U.S. census, Jessamine County, 10B — Edmund Newman 27 × Sophia 27. Rejected versus William.
+
+![Jessamine 10B Edmund](sources/census/pass127/keyplates/r208-n0022-jessamine-10b-newman.jpg)
+
+**Source:** S1285 · C1636
+
+## 1850 — Woodford 462A Christopher / Scott Newham (pass 129)
+
+1850 U.S. census, Woodford County, stamped 462 — Christopher Newman 51, Maryland. Rejected versus William.
+
+![Woodford 462A Christopher](sources/census/pass128/keyplates/woodford-462a-christopher-newman.jpg)
+
+**Source:** S1297 · C1654
+
+1850 U.S. census, Scott County, 399B — John Newman 45, Ireland, in Wolfe household 56. Rejected versus William.
+
+![Scott 399B John](sources/census/pass128/keyplates/scott-399b-john-newman-45.jpg)
+
+**Source:** S1299 · C1659
+
+1850 U.S. census, Scott County, 480B — William Newham 38 × Sarah 40. Rejected versus William.
+
+![Scott 480B William Newham](sources/census/pass128/keyplates/scott-480b-william-newham-38.jpg)
+
+**Source:** S1302 · C1662
+
+## 1850 — Shelby Newman rejects (pass 130)
+
+1850 U.S. census, Shelby County, 361B — Izza[?]/Izzy[?] Newman 27. Rejected versus William.
+
+![Shelby 361B Newman 27](sources/census/pass130/keyplates/shelby-361b-newman-27.jpg)
+
+**Source:** S1323 · C1679
+
+1850 U.S. census, Shelby County, 380B — John A. Newman 38 × Mary 45. Rejected versus William.
+
+![Shelby 380B John A](sources/census/pass130/keyplates/shelby-380b-john-a-newman.jpg)
+
+**Source:** S1324 · C1680
+
+1850 U.S. census, Shelby County, 385A — Isaac Newman 50, Pennsylvania. Rejected versus William.
+
+![Shelby 385A Isaac](sources/census/pass130/keyplates/shelby-385a-isaac-newman.jpg)
+
+**Source:** S1325 · C1681
+
+## 1850 — Nelson Newman rejects (pass 130)
+
+1850 U.S. census, Nelson County, 278B/279A — Henry Newman 39, cabinet maker, × Elizabeth 29. Rejected versus William.
+
+![Nelson 278B Henry](sources/census/pass130/keyplates/nelson-true-278b-footer.jpg)
+
+**Source:** S1333 · C1690
+
+1850 U.S. census, Nelson County, 315A — John Newman 60, farmer $3,000. Rejected versus William.
+
+![Nelson 315A John 60](sources/census/pass130/keyplates/nelson-true-315a-john60.jpg)
+
+**Source:** S1335 · C1691
+
+1850 U.S. census, Nelson County, 325A — Wm Newman 31 × S. 23. Rejected versus William.
+
+![Nelson 325A Wm 31](sources/census/pass130/keyplates/nelson-true-325a-w31.jpg)
+
+**Source:** S1337 · C1692
+
+## 1850 — Hardin / Logan / Christian Newman rejects (pass 131)
+
+1850 U.S. census, Hardin County, 366A — John A. Newman 11 in Isaac Rodgers house. Rejected versus William.
+
+![Hardin 366A John A 11](sources/census/pass131/keyplates/hardin-366a-john-a-newman-11.jpg)
+
+**Source:** S1367 · C1709
+
+1850 U.S. census, Logan County, 47B — Harriet Newman 13 in Elis E. Temple house. Rejected versus a living head.
+
+![Logan 47B Harriet](sources/census/pass131/keyplates/logan-47b-harriet-newman-13.jpg)
+
+**Source:** S1372 · C1713
+
+1850 U.S. census, Logan County, 96B — Henry Newman 51, Virginia. Rejected versus William.
+
+![Logan 96B Henry](sources/census/pass131/keyplates/logan-96b-henry-newman-51.jpg)
+
+**Source:** S1373 · C1714
+
+1850 U.S. census, Logan County, 114A — Thomas Newman 26 × Sophia 23. Rejected versus William.
+
+![Logan 114A Thomas](sources/census/pass131/keyplates/logan-114a-thomas-newman-26.jpg)
+
+**Source:** S1374 · C1715
+
+1850 U.S. census, Logan County, 124B — Wesley C. Newman 29 × Winifred 29. Rejected versus William.
+
+![Logan 124B Wesley](sources/census/pass131/keyplates/logan-124b-wesley-c-newman-29.jpg)
+
+**Source:** S1375 · C1716
+
+1850 U.S. census, Christian County, 423A — John A. Newman 24, clerk. Rejected versus William.
+
+![Christian 423A John A 24](sources/census/pass131/keyplates/christian-423a-john-a-newman-24.jpg)
+
+**Source:** S1377 · C1719
+
+1850 U.S. census, Christian County, 441A — Ed L. Newman 30, grocer. Rejected versus William.
+
+![Christian 441A Ed L](sources/census/pass131/keyplates/christian-441a-edward-l-newman-30.jpg)
+
+**Source:** S1378 · C1720
+
+## 1850 — Boone / Kenton Shepard / Barren (pass 132 remainder)
+
+1850 U.S. census, Boone County, 218A — Daniel Newman 32, laborer, + Louisiana 18 in a Ferguson house. Rejected versus William.
+
+![Boone 218A Daniel 32](sources/census/pass135/keyplates/boone-218a-daniel-newman-32.jpg)
+
+**Source:** S1389 · C1736
+
+1850 U.S. census, Kenton County, 221B — Shepard Newman 32, blacksmith $1,200. Rejected versus William.
+
+![Kenton 221B Shepard](sources/census/pass131/keyplates/kenton-221b-shepard-head.jpg)
+
+**Source:** S1391 · C1739
+
+1850 U.S. census, Barren County, 344A — Benja Newman 17 in William Edmunds house (filename says george). Rejected versus a living head.
+
+![Barren 344A Benja 17](sources/census/pass133/keyplates/barren-344a-george-newman-17.jpg)
+
+**Source:** S1440 · C1775
+
+1850 U.S. census, Barren County, 345B — Christopher Newman 50, farmer $40. Rejected versus William.
+
+![Barren 345B Christopher](sources/census/pass135/keyplates/barren-345b-christopher-newman-37.jpg)
+
+**Source:** S1396 · C1744
+
+1850 U.S. census, Barren County, 428A — William B. Newman 30, merchant $1,730. Rejected versus William × Jane.
+
+![Barren 428A William B](sources/census/pass135/keyplates/barren-428a-william-b-newman-30.jpg)
+
+**Source:** S1398 · C1746
+
+## 1850 — Edmonson / Hancock / Hopkins (pass 137)
+
+1850 U.S. census, Edmonson County, 4A — Alexander Newman 73 in Henry Conner house. Rejected versus a living head.
+
+![Edmonson 4A Alexander 73](sources/census/pass137/keyplates/edmonson-4a-alexander-newman-73.jpg)
+
+**Source:** S1431 · C1767
+
+1850 U.S. census, Edmonson County, 11B — William Newman 30, labourer, in Isaac A. Cooke house. Rejected versus William × Jane.
+
+![Edmonson 11B William 30](sources/census/pass137/keyplates/edmonson-11b-william-newman-30.jpg)
+
+**Source:** S1432 · C1768
+
+1850 U.S. census, Hancock County, 295A — William Newman 26 × Catharine O. 17 + Louisa 4/12. Exact age match; rejected versus Owsley household 311.
+
+![Hancock 295A William 26](sources/census/pass137/keyplates/hancock-295a-william-newman-26.jpg)
+
+**Source:** S1435 · C1771
+
+1850 U.S. census, Hopkins County, District 2 — Francis J. Newman 28 × Mary J. 25 + Elizabeth 1. Rejected versus William × Jane.
+
+![Hopkins Francis J 28](sources/census/pass136/keyplates/hopkins-n0238-francis-j-newman-28.jpg)
+
+**Source:** S1441 · C1776
+
+## 1850 — Breckinridge (pass 138)
+
+1850 U.S. census, Breckinridge County, District 1, 108B — William Newman 26, farmer $700, × Angeline 23 + Sarah E. 1. Exact age versus Owsley; rejected (wrong wife, wrong infant, $700 ≠ $325).
+
+![Breckinridge 108B William 26 × Angeline](sources/census/pass138/keyplates/breckinridge-108b-william-26-tight.jpg)
+
+**Source:** S1471 · C1801
+
+1850 U.S. census, Breckinridge County, District 1, 100B — Henry Newman 46, Virginia, $674, × Adeline 48 + William H. 7 son. Rejected versus William × Jane.
+
+![Breckinridge 100B Henry 46](sources/census/pass138/keyplates/breckinridge-100b-henry-46.jpg)
+
+**Source:** S1469 · C1800
+
+1850 U.S. census, Breckinridge County, District 1, 100A — John J. Newman 23 × Cinderella 24; Miss Jane 21 in the Lightfoot house. Rejected versus William × Jane.
+
+![Breckinridge 100A John J 23](sources/census/pass138/keyplates/breckinridge-100a-john-j-23.jpg)
+
+**Source:** S1468 · C1799
+
+## 1850 — Hopkins Dist 2 (pass 139)
+
+1850 U.S. census, Hopkins County, District 2 — household 76/76 **Jno Newman**, 59, farmer, North Carolina, with **Jane**, 53, North Carolina, and **William P.**, 26, farmer, same household (a son, not a living head). Rejected versus William 26 × Jane 22 of Owsley.
+
+![Hopkins n0240 Jno 59](sources/census/pass139/keyplates/hopkins-n0240-john-59-tight.jpg)
+
+**Source:** S1491 · C1823
+
+Same sheet, lines 8–14, with William P. 26 visible.
+
+![Hopkins n0240 William P 26](sources/census/pass139/keyplates/hopkins-n0240-john-59-william-p.jpg)
+
+**Source:** S1492 · C1823
+
+## 1850 — McCracken (pass 140 start)
+
+1850 U.S. census, McCracken County, District 1, 174B — household 188/189 **Malinda Newman**, 38, with six children (Jacob P. 12 through Amity Mc 4/12). Rejected versus William × Jane.
+
+![McCracken 174B Malinda 38](sources/census/pass140/keyplates/mccracken-174b-malinda-tight.jpg)
+
+**Source:** S1515 · C1847
+
+## 1850 — Todd 247A (pass 141)
+
+1850 U.S. census, Todd County, District 2, 247A — household 27/27 **Mary Newman**, 35, Virginia, $800, with John, 20, Tennessee. Rejected versus William × Jane. Israel Tinker, 40, is the next-door household, not Trigg 303A.
+
+![Todd 247A Mary Newman 35](sources/census/pass141/keyplates/todd-247a-mary-newman-tight.jpg)
+
+**Source:** S1520 · C1850
+
+## 1850 — Trigg 303A (pass 141)
+
+1850 U.S. census, Trigg County, 1st District, 303A — household 12/203 **Wm Tinker**, 60, Virginia, with Licy, 33. Rejected versus William × Rhoda.
+
+![Trigg 303A Wm Tinker 60](sources/census/pass141/keyplates/trigg-303a-tinker-tight.jpg)
+
+**Source:** S1522 · C1852
+
+## 1850 — Trigg 314A (pass 141)
+
+1850 U.S. census, Trigg County, 1st District, 314A — household 31/31 **John Newman**, 51, North Carolina, with Elizabeth, 46, and **Wm**, 17, a son. Rejected versus William × Jane.
+
+![Trigg 314A John Newman 51](sources/census/pass141/keyplates/trigg-314a-john-newman-tight.jpg)
+
+**Source:** S1524 · C1853
+
+## 1850 — Henry Dist 1 Jesse Norman 56 (pass 142)
+
+1850 U.S. census, Henry County, District 1, n0498 (compiled 420-b) — household 827/831 **Jesse Norman**, 56, farmer, with Elizabeth and children. Rejected versus William × Jane. Not Newman.
+
+![Henry n0498 Jesse Norman 56](sources/census/pass142/keyplates/henry-n0498-jesse-norman-tight.jpg)
+
+**Source:** S1539 · C1873
+
+## 1850 — Hart Dist 1 Robert Boman 37 (pass 143)
+
+1850 U.S. census, Hart County, District 1, n0035 — household 205/205 **Robert Boman**, 37, with Cecilia, 47. Rejected versus William × Jane. Not Newman.
+
+![Hart n0035 Robert Boman 37](sources/census/pass143/keyplates/hart-n0035-robert-boman-tight.jpg)
+
+**Source:** S1553 · C1893
+
+## 1850 — Franklin Dist 2 Thomas Newland 30 (pass 143)
+
+1850 U.S. census, Franklin County, District 2, n0340 — household 202 **Thomas Newland**, 30. Rejected versus William × Jane. Not Newman.
+
+![Franklin n0340 Thomas Newland 30](sources/census/pass143/keyplates/franklin-n0340-newland1.jpg)
+
+**Source:** S1557 · C1900
+
+## 1850 — Hart Dist 1 Rebecca Kirkpatrick 60 (pass 144)
+
+1850 U.S. census, Hart County, District 1, n0120 — household 714/726 **Rebecca Kirkpatrick**, 60. Rejected versus Tinker/Tincher. Not Newman.
+
+![Hart n0120 Rebecca Kirkpatrick 60](sources/census/pass144/keyplates/hart-n0120-kirkpatrick.jpg)
+
+**Source:** S1570 · C1918
+
+## 1850 — Franklin Dist 1 Jeremiah[?] Newman 27 (pass 145)
+
+1850 U.S. census, Franklin County, District 1, n0164 — household 187/187 **Jeremiah[?] Newman**, 27, Laborer, with Mary, 28, and John, 4/12. Rejected versus William × Jane and versus William × Rhoda.
+
+![Franklin n0164 Jeremiah Newman 27](sources/census/pass145/keyplates/franklin-n0164-newman-tight.jpg)
+
+## 1850 — Franklin Dist 2 William New 36 (pass 146)
+
+1850 U.S. census, Franklin County, District 2, n0267 — household 218/213 **William New**, 36, Schoolmaster, Ohio, with Ellen, 23, Mary E, 2, and Sarah E, 1/12. Rejected versus William × Jane and versus William × Rhoda.
+
+![Franklin n0267 William New 36](sources/census/pass146/keyplates/franklin-n0267-new-tight.jpg)
+
+## 1850 — Franklin Dist 2 William Critcher 48 (pass 146)
+
+1850 U.S. census, Franklin County, District 2, n0280 — household 313/315 **William Critcher**, 48, Farmer, with Elizabeth, 43. Rejected versus Tincher.
+
+![Franklin n0280 William Critcher 48](sources/census/pass146/keyplates/franklin-n0280-critcher-tight.jpg)
+
+## 1850 — Lincoln Dist 1 Willis Newnam 41 (pass 147)
+
+1850 U.S. census, Lincoln County, District 1, n0178 — household **39** **Willis Newnam**, 41, Farmer, with Louisa, 40, and children. Rejected versus Owsley William 26 × Jane 22.
+
+![Lincoln n0178 Willis Newnam 41](artifacts/pass147/lincoln-n0178-william-band.jpg)
+
+## 1850 — Hopkins Milton Newman 19 (pass 147)
+
+1850 U.S. census, Hopkins County, n0249 — **Milton Newman**, 19, Farmer, in Mary Ann Mooney household **138**. Rejected versus William 26 head.
+
+![Hopkins n0249 Milton Newman 19](artifacts/pass147/hopkins-n0249-niman-tight.jpg)
+
+**Source:** S1612 · C1973

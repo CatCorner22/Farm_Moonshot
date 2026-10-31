@@ -1,0 +1,705 @@
+Estill County, KY          1930 Federal Census          INDEX (File 5 of 5)
+
+This Census was transcribed by Norma Helton and proofread by Sally Toles
+for the USGenWeb Census Project®, http://www.us-census.org/
+
+Copyright (c) 2014 by Norma Helton
+<Transcriber@US-Census.org>
+
+==========================================================================
+USGENWEB (US-CENSUS) NOTICE: These electronic pages may NOT be reproduced
+in any format for profit or presentation by any other organization.
+Non-commercial organizations desiring to use this material must obtain
+the consent of the transcriber prior to use.  <Transcriber@US-Census.org>
+Individuals desiring to use this material in their own research may do so.
+==========================================================================
+Formatted by USGenWeb Census Project® File Manager, Robert E. Lane
+All of the above information must remain when copied or downloaded.
+==========================================================================
+
+THIS IS AN INDEX SORTED BY NAME. FOR THE COMPLETE CENSUS INFORMATION IN
+PAGE NUMBER SEQUENCE, OPEN THE FILE IN THE FILE-NAME COLUMN FOR THAT LINE.
+http://us-census.org/pub/usgenweb/census/ky/estill/1930/
+
+==========================================================================================================
+PG#   LN#   ED#    SH#   LAST NAME         FIRST NAME        AGE       BIRTHPLACE        FILE NAME
+==========================================================================================================
+47A   6     33-3   10A   UNDERWOOD         HARVY             63        KENTUCKY          ed003-pg0044a.txt
+19B   82    33-2   4B    UNDERWOOD         TRACY             16        KENTUCKY          ed002-pg0016a.txt
+47A   7     33-3   10A   UNDERWOOD         WILLIAM J         33        KENTUCKY          ed003-pg0044a.txt
+                         
+15A   12    33-1   15A   VAN HORNE         ROBERT            26        OHIO              ed001-pg0008b.txt
+15A   27    33-1   15A   VANCE             CHARLES           11        KENTUCKY          ed001-pg0008b.txt
+15A   26    33-1   15A   VANCE             DORETTA           15        KENTUCKY          ed001-pg0008b.txt
+15A   24    33-1   15A   VANCE             FRANK             43        OHIO              ed001-pg0008b.txt
+15A   25    33-1   15A   VANCE             MINNIE            41        KENTUCKY          ed001-pg0008b.txt
+47A   10    33-3   10A   VANHUSS           CHARLES E         6         KENTUCKY          ed003-pg0044a.txt
+47A   8     33-3   10A   VANHUSS           ELIJAH I          45        VIRGINIA          ed003-pg0044a.txt
+47A   9     33-3   10A   VANHUSS           VIRGINIA F        44        VIRGINIA          ed003-pg0044a.txt
+3A    50    33-1   3A    VAUGHN            HATTIE T          48        KENTUCKY          ed001-pg0001a.txt
+3B    51    33-1   3B    VAUGHN            JOHN L            29        KENTUCKY          ed001-pg0001a.txt
+28B   69    33-2   13B   VICE              FAYE              49        KENTUCKY          ed002-pg0023a.txt
+35A   23    33-2   20A   VICH              RUFUS E           47        KENTUCKY          ed002-pg0030a.txt
+35A   25    33-2   20A   VICH              THELMA            17        KENTUCKY          ed002-pg0030a.txt
+35A   24    33-2   20A   VICH              VIRGINIA          45        KENTUCKY          ed002-pg0030a.txt
+48B   52    33-3   11B   VICK              FANNIE            71        MISSOURI          ed003-pg0044a.txt
+48B   54    33-3   11B   VICK              SAMUEL C          27        KENTUCKY          ed003-pg0044a.txt
+48B   53    33-3   11B   VICK              WILLIAM B         31        KENTUCKY          ed003-pg0044a.txt
+13A   42    33-1   13A   VINSON            FRANCES           14        TEXAS             ed001-pg0008b.txt
+13A   43    33-1   13A   VINSON            JAMES G           11        KENTUCKY          ed001-pg0008b.txt
+13A   41    33-1   13A   VINSON            NINA              55        INDIANA           ed001-pg0008b.txt
+13A   40    33-1   13A   VINSON            VICTOR V          60        INDIANA           ed001-pg0008b.txt
+47B   90    33-3   10B   VITTITOW          CLARENCE          35        KENTUCKY          ed003-pg0044a.txt
+41A   33    33-3   4A    VITTITOW          ELLA M            45        KENTUCKY          ed003-pg0038a.txt
+41A   34    33-3   4A    VITTITOW          MARSHALL G        19        KENTUCKY          ed003-pg0038a.txt
+47B   91    33-3   10B   VITTITOW          NANCY E           27        KENTUCKY          ed003-pg0044a.txt
+41A   32    33-3   4A    VITTITOW          THOMAS D          45        KENTUCKY          ed003-pg0038a.txt
+                         
+15A   40    33-1   15A   WAGERS            CATHERINE         11        KENTUCKY          ed001-pg0008b.txt
+15A   38    33-1   15A   WAGERS            JOE Q             37        KENTUCKY          ed001-pg0008b.txt
+15A   36    33-1   15A   WAGERS            MARTHA            78        KENTUCKY          ed001-pg0008b.txt
+3B    93    33-1   3B    WAGERS            ROSE              86        KENTUCKY          ed001-pg0001a.txt
+15A   37    33-1   15A   WAGERS            T B               54        KENTUCKY          ed001-pg0008b.txt
+15A   39    33-1   15A   WAGERS            VIRGINIA          13        KENTUCKY          ed001-pg0008b.txt
+46B   62    33-3   9B    WAGUS             ANDREW H          60        KENTUCKY          ed003-pg0044a.txt
+46B   63    33-3   9B    WAGUS             ANNA A            27        KENTUCKY          ed003-pg0044a.txt
+46B   64    33-3   9B    WAGUS             LOUISE            12        KENTUCKY          ed003-pg0044a.txt
+15B   60    33-1   15B   WAKTINS           SAM               54        KENTUCKY          ed001-pg0008b.txt
+53A   39    33-4   4A    WALDAN            CALLIE            35        KENTUCKY          ed004-pg0050a.txt
+53A   41    33-4   4A    WALDAN            CONSTANCE         7         KENTUCKY          ed004-pg0050a.txt
+53A   40    33-4   4A    WALDAN            EARL              9         KENTUCKY          ed004-pg0050a.txt
+53A   38    33-4   4A    WALDAN            EVERETT           36        KENTUCKY          ed004-pg0050a.txt
+10A   20    33-1   10A   WALDEN            ELIZABETH         34        KENTUCKY          ed001-pg0008b.txt
+10A   23    33-1   10A   WALDEN            EVA               11        KENTUCKY          ed001-pg0008b.txt
+10A   19    33-1   10A   WALDEN            GEORGE            35        KENTUCKY          ed001-pg0008b.txt
+11B   57    33-1   11B   WALDEN            H C               40        INDIANA           ed001-pg0008b.txt
+43B   67    33-3   6B    WALDEN            JIMMY             8         KENTUCKY          ed003-pg0038a.txt
+11B   59    33-1   11B   WALDEN            LILLIAN           15        KENTUCKY          ed001-pg0008b.txt
+10A   22    33-1   10A   WALDEN            LUCY A            3 4/12    KENTUCKY          ed001-pg0008b.txt
+11B   58    33-1   11B   WALDEN            OLA               36        KENTUCKY          ed001-pg0008b.txt
+10A   21    33-1   10A   WALDEN            RUSSELL           6         KENTUCKY          ed001-pg0008b.txt
+11B   60    33-1   11B   WALDEN            TOBIAS            11        KENTUCKY          ed001-pg0008b.txt
+51B   53    33-4   2B    WALDON            ANDREW            10        KENTUCKY          ed004-pg0050a.txt
+51A   18    33-4   2A    WALDON            ANNA              10        KENTUCKY          ed004-pg0050a.txt
+51A   20    33-4   2A    WALDON            ARTHER            4         KENTUCKY          ed004-pg0050a.txt
+50A   34    33-4   1A    WALDON            BARBARA           8         KENTUCKY          ed004-pg0050a.txt
+50A   44    33-4   1A    WALDON            BERNARD           4         KENTUCKY          ed004-pg0050a.txt
+50B   95    33-4   1B    WALDON            BERTHA            6         KENTUCKY          ed004-pg0050a.txt
+50A   28    33-4   1A    WALDON            BESSIE            5         KENTUCKY          ed004-pg0050a.txt
+50B   88    33-4   1B    WALDON            BILL              20        KENTUCKY          ed004-pg0050a.txt
+50B   91    33-4   1B    WALDON            BOBBIE            15        KENTUCKY          ed004-pg0050a.txt
+50A   27    33-4   1A    WALDON            CAROLL            8         KENTUCKY          ed004-pg0050a.txt
+51A   15    33-4   2A    WALDON            CAS               38        KENTUCKY          ed004-pg0050a.txt
+50A   45    33-4   1A    WALDON            CHARLES           4         KENTUCKY          ed004-pg0050a.txt
+50A   43    33-4   1A    WALDON            CHESTER           6         KENTUCKY          ed004-pg0050a.txt
+50A   36    33-4   1A    WALDON            CHRISTINE         4         KENTUCKY          ed004-pg0050a.txt
+51A   49    33-4   2A    WALDON            CLIFF             61        KENTUCKY          ed004-pg0050a.txt
+50B   94    33-4   1B    WALDON            CLUEFARD          8         KENTUCKY          ed004-pg0050a.txt
+51A   19    33-4   2A    WALDON            CLYDE             6         KENTUCKY          ed004-pg0050a.txt
+50A   29    33-4   1A    WALDON            COLUMBUS          4         KENTUCKY          ed004-pg0050a.txt
+51B   56    33-4   2B    WALDON            CORA              1         KENTUCKY          ed004-pg0050a.txt
+51B   51    33-4   2B    WALDON            DACK              17        KENTUCKY          ed004-pg0050a.txt
+50A   38    33-4   1A    WALDON            DELBERT           0         KENTUCKY          ed004-pg0050a.txt
+50B   93    33-4   1B    WALDON            DEORTHY           10        KENTUCKY          ed004-pg0050a.txt
+51A   16    33-4   2A    WALDON            DIXIE             40        KENTUCKY          ed004-pg0050a.txt
+50A   33    33-4   1A    WALDON            ELMO              10        KENTUCKY          ed004-pg0050a.txt
+51B   52    33-4   2B    WALDON            ESTER             14        KENTUCKY          ed004-pg0050a.txt
+50A   25    33-4   1A    WALDON            FRED              31        KENTUCKY          ed004-pg0050a.txt
+50B   89    33-4   1B    WALDON            HALL              18        KENTUCKY          ed004-pg0050a.txt
+50A   31    33-4   1A    WALDON            JAMES             30        KENTUCKY          ed004-pg0050a.txt
+50A   35    33-4   1A    WALDON            JAMES             6         KENTUCKY          ed004-pg0050a.txt
+50A   41    33-4   1A    WALDON            JEFF              27        KENTUCKY          ed004-pg0050a.txt
+51A   21    33-4   2A    WALDON            LORENE            1         KENTUCKY          ed004-pg0050a.txt
+50B   87    33-4   1B    WALDON            MAGGIE            60        KENTUCKY          ed004-pg0050a.txt
+51A   17    33-4   2A    WALDON            MARY              12        KENTUCKY          ed004-pg0050a.txt
+51B   55    33-4   2B    WALDON            MILDRED           5         KENTUCKY          ed004-pg0050a.txt
+50A   30    33-4   1A    WALDON            MOLLIE            2         KENTUCKY          ed004-pg0050a.txt
+51B   54    33-4   2B    WALDON            MORGAN            8         KENTUCKY          ed004-pg0050a.txt
+51A   50    33-4   2A    WALDON            NANNIE            39        KENTUCKY          ed004-pg0050a.txt
+50A   42    33-4   1A    WALDON            NINA              25        KENTUCKY          ed004-pg0050a.txt
+50B   90    33-4   1B    WALDON            OWEN              18        KENTUCKY          ed004-pg0050a.txt
+50B   86    33-4   1B    WALDON            SAM               63        KENTUCKY          ed004-pg0050a.txt
+50A   37    33-4   1A    WALDON            SAM E             2         KENTUCKY          ed004-pg0050a.txt
+50A   32    33-4   1A    WALDON            STELLA            30        KENTUCKY          ed004-pg0050a.txt
+50A   26    33-4   1A    WALDON            SUSIE             29        KENTUCKY          ed004-pg0050a.txt
+50B   92    33-4   1B    WALDON            TRACY             12        KENTUCKY          ed004-pg0050a.txt
+23A   20    33-2   8A    WALG              ELEONORE          4 10/12   KENTUCKY          ed002-pg0023a.txt
+23A   21    33-2   8A    WALG              ELIZABETH A       3 10/12   KENTUCKY          ed002-pg0023a.txt
+23A   19    33-2   8A    WALG              LETTIE            40        KENTUCKY          ed002-pg0023a.txt
+23A   18    33-2   8A    WALG              LEWIS E           41        KENTUCKY          ed002-pg0023a.txt
+48B   99    33-3   11B   WALKER            ALICE M           24        KENTUCKY          ed003-pg0044a.txt
+14B   61    33-1   14B   WALKER            ANNA M            34        KENTUCKY          ed001-pg0008b.txt
+14B   60    33-1   14B   WALKER            JOHN W            42        KENTUCKY          ed001-pg0008b.txt
+14B   62    33-1   14B   WALKER            JOHN W            10        KENTUCKY          ed001-pg0008b.txt
+48B   100   33-3   11B   WALKER            LEON              5         KENTUCKY          ed003-pg0044a.txt
+48B   98    33-3   11B   WALKER            RUSSELL           25        KENTUCKY          ed003-pg0044a.txt
+32A   47    33-2   17A   WALLACE           ALICE             47        KENTUCKY          ed002-pg0030a.txt
+32A   48    33-2   17A   WALLACE           ANNA L            13        KENTUCKY          ed002-pg0030a.txt
+13A   14    33-1   13A   WALLACE           BERTHA            44        WEST VIRGINIA     ed001-pg0008b.txt
+3B    95    33-1   3B    WALLACE           BETTY             47        KENTUCKY          ed001-pg0001a.txt
+3B    98    33-1   3B    WALLACE           DAVID E           15        KENTUCKY          ed001-pg0001a.txt
+3B    94    33-1   3B    WALLACE           JOHN A            58        KENTUCKY          ed001-pg0001a.txt
+3B    97    33-1   3B    WALLACE           JOHN A JR         17        KENTUCKY          ed001-pg0001a.txt
+3B    83    33-1   3B    WALLACE           LENA              48        KENTUCKY          ed001-pg0001a.txt
+3B    96    33-1   3B    WALLACE           LORENA - AB       19        KENTUCKY          ed001-pg0001a.txt
+4A    3     33-1   4A    WALLACE           LOU A             60        KENTUCKY          ed001-pg0001a.txt
+13A   16    33-1   13A   WALLACE           LOUISE            13        KENTUCKY          ed001-pg0008b.txt
+3B    99    33-1   3B    WALLACE           LUCY E            12        KENTUCKY          ed001-pg0001a.txt
+32A   46    33-2   17A   WALLACE           SILAS E           70        KENTUCKY          ed002-pg0030a.txt
+13A   13    33-1   13A   WALLACE           TRACY             49        KENTUCKY          ed001-pg0008b.txt
+13A   17    33-1   13A   WALLACE           TRACY             5         KENTUCKY          ed001-pg0008b.txt
+13A   15    33-1   13A   WALLACE           VIRGINIA - AB     18        KENTUCKY          ed001-pg0008b.txt
+12A   22    33-1   12A   WALLACE           CHARLES           15        KENTUCKY          ed001-pg0008b.txt
+11B   85    33-1   11B   WALLACE           ETTA              36        KENTUCKY          ed001-pg0008b.txt
+11B   86    33-1   11B   WALLACE           HERSCHEL M        15        KENTUCKY          ed001-pg0008b.txt
+11B   84    33-1   11B   WALLACE           HOMER             37        KENTUCKY          ed001-pg0008b.txt
+11B   79    33-1   11B   WALLACE           MARY              19        KENTUCKY          ed001-pg0008b.txt
+12A   23    33-1   12A   WALLACE           ROOSEVELT         11        KENTUCKY          ed001-pg0008b.txt
+11B   87    33-1   11B   WALLACE           VARDY             12        KENTUCKY          ed001-pg0008b.txt
+53B   66    33-4   4B    WALTER            CAMELA            19        KENTUCKY          ed004-pg0050a.txt
+53A   18    33-4   4A    WALTER            CARLE             11        KENTUCKY          ed004-pg0050a.txt
+53A   21    33-4   4A    WALTER            ELDORA            5         KENTUCKY          ed004-pg0050a.txt
+53A   16    33-4   4A    WALTER            MAC               31        KENTUCKY          ed004-pg0050a.txt
+53A   20    33-4   4A    WALTER            RAY               6         KENTUCKY          ed004-pg0050a.txt
+53A   17    33-4   4A    WALTER            SUDIE             27        KENTUCKY          ed004-pg0050a.txt
+53A   19    33-4   4A    WALTER            THELMA            9         KENTUCKY          ed004-pg0050a.txt
+17A   39    33-2   2A    WALTERS           ALVERTA           20        KENTUCKY          ed002-pg0016a.txt
+48B   90    33-3   11B   WALTERS           ANNA G            53        KENTUCKY          ed003-pg0044a.txt
+48B   89    33-3   11B   WALTERS           BARTON J          59        KENTUCKY          ed003-pg0044a.txt
+58A   9     33-4   9A    WALTERS           BETHEL            12        KENTUCKY          ed004-pg0058a.txt
+17A   40    33-2   2A    WALTERS           BILLIE H          10/12     KENTUCKY          ed002-pg0016a.txt
+58A   6     33-4   9A    WALTERS           BILVELY           20        KENTUCKY          ed004-pg0058a.txt
+58A   32    33-4   9A    WALTERS           CHARLES           2         KENTUCKY          ed004-pg0058a.txt
+46B   93    33-3   9B    WALTERS           CHARLES A         6         KENTUCKY          ed003-pg0044a.txt
+46B   90    33-3   9B    WALTERS           CHARLES D         36        KENTUCKY          ed003-pg0044a.txt
+58A   5     33-4   9A    WALTERS           DELLA MAY         18        KENTUCKY          ed004-pg0058a.txt
+15A   31    33-1   15A   WALTERS           DOROTHY           18        KENTUCKY          ed001-pg0008b.txt
+46B   92    33-3   9B    WALTERS           EARNEST E         9         KENTUCKY          ed003-pg0044a.txt
+54A   3     33-4   5A    WALTERS           EDWARD            2         KENTUCKY          ed004-pg0050a.txt
+58A   29    33-4   9A    WALTERS           ELBERT            26        KENTUCKY          ed004-pg0058a.txt
+54A   2     33-4   5A    WALTERS           ESTINE            2         KENTUCKY          ed004-pg0050a.txt
+58A   30    33-4   9A    WALTERS           ETHEL             23        KENTUCKY          ed004-pg0058a.txt
+53B   98    33-4   4B    WALTERS           GEORGE            40        KENTUCKY          ed004-pg0050a.txt
+54A   1     33-4   5A    WALTERS           GERLAN            3         KENTUCKY          ed004-pg0050a.txt
+24B   76    33-2   9B    WALTERS           GLADYS            5         KENTUCKY          ed002-pg0023a.txt
+58A   10    33-4   9A    WALTERS           HAZEL             10        KENTUCKY          ed004-pg0058a.txt
+57B   53    33-4   8B    WALTERS           HENRY             25        KENTUCKY          ed004-pg0050a.txt
+24B   75    33-2   9B    WALTERS           HIRCHELL          9         KENTUCKY          ed002-pg0023a.txt
+24B   72    33-2   9B    WALTERS           IDA               42        KENTUCKY          ed002-pg0023a.txt
+58A   7     33-4   9A    WALTERS           IDA               16        KENTUCKY          ed004-pg0058a.txt
+17A   38    33-2   2A    WALTERS           JOHN              23        KENTUCKY          ed002-pg0016a.txt
+57B   55    33-4   8B    WALTERS           JOHN              4         KENTUCKY          ed004-pg0050a.txt
+58A   33    33-4   9A    WALTERS           KATHELENE         9/12      KENTUCKY          ed004-pg0058a.txt
+58A   2     33-4   9A    WALTERS           LEROY             62        KENTUCKY          ed004-pg0058a.txt
+17A   41    33-2   2A    WALTERS           LILLIAN           15        KENTUCKY          ed002-pg0016a.txt
+24B   73    33-2   9B    WALTERS           LILLIAN           15        KENTUCKY          ed002-pg0023a.txt
+58A   31    33-4   9A    WALTERS           LONNIE            3         KENTUCKY          ed004-pg0058a.txt
+15A   30    33-1   15A   WALTERS           MARVIN            25        KENTUCKY          ed001-pg0008b.txt
+58A   3     33-4   9A    WALTERS           MARY E            54        KENTUCKY          ed004-pg0058a.txt
+46B   91    33-3   9B    WALTERS           MAUDE G           25        KENTUCKY          ed003-pg0044a.txt
+57B   54    33-4   8B    WALTERS           MINNIE            25        KENTUCKY          ed004-pg0050a.txt
+53B   99    33-4   4B    WALTERS           NANNIE            21        KENTUCKY          ed004-pg0050a.txt
+46B   94    33-3   9B    WALTERS           OTIS J            1 5/12    KENTUCKY          ed003-pg0044a.txt
+15A   32    33-1   15A   WALTERS           RICHARD W         1 2/12    KENTUCKY          ed001-pg0008b.txt
+42A   11    33-3   5A    WALTERS           ROBERT            24        KENTUCKY          ed003-pg0038a.txt
+48B   91    33-3   11B   WALTERS           RUTH F            9         KENTUCKY          ed003-pg0044a.txt
+24B   71    33-2   9B    WALTERS           THOMAS            53        KENTUCKY          ed002-pg0023a.txt
+24B   74    33-2   9B    WALTERS           TRACY             11        KENTUCKY          ed002-pg0023a.txt
+58A   4     33-4   9A    WALTERS           VAIDE             21        KENTUCKY          ed004-pg0058a.txt
+53B   100   33-4   4B    WALTERS           VERNON            5         KENTUCKY          ed004-pg0050a.txt
+57B   56    33-4   8B    WALTERS           WANJA             2         KENTUCKY          ed004-pg0050a.txt
+58A   8     33-4   9A    WALTERS           WESLEY            14        KENTUCKY          ed004-pg0058a.txt
+33A   30    33-2   18A   WARD              .                 38        KENTUCKY          ed002-pg0030a.txt
+33A   29    33-2   18A   WARD              JOHN              40        KENTUCKY          ed002-pg0030a.txt
+33A   31    33-2   18A   WARD              MOLLIE C          16        KENTUCKY          ed002-pg0030a.txt
+40A   41    33-3   3A    WARFIELD          SHERMAN           65        KENTUCKY          ed003-pg0038a.txt
+26B   96    33-2   11B   WARFORD           BABARA L          14        KENTUCKY          ed002-pg0023a.txt
+26A   13    33-2   11A   WARFORD           DELLA             24        KENTUCKY          ed002-pg0023a.txt
+26B   74    33-2   11B   WARFORD           EDGAR             66        KENTUCKY          ed002-pg0023a.txt
+49A   45    33-3   12A   WARFORD           EFFIE             48        KENTUCKY          ed003-pg0044a.txt
+26A   11    33-2   11A   WARFORD           EMMA              51        KENTUCKY          ed002-pg0023a.txt
+49A   44    33-3   12A   WARFORD           EVERETT B         51        KENTUCKY          ed003-pg0044a.txt
+26A   14    33-2   11A   WARFORD           FANNIE            22        KENTUCKY          ed002-pg0023a.txt
+26B   75    33-2   11B   WARFORD           GEOYVA            62        KENTUCKY          ed002-pg0023a.txt
+26A   12    33-2   11A   WARFORD           HARRY             26        KENTUCKY          ed002-pg0023a.txt
+26B   94    33-2   11B   WARFORD           HARRY R           41        KENTUCKY          ed002-pg0023a.txt
+26A   15    33-2   11A   WARFORD           HUBERT            14        KENTUCKY          ed002-pg0023a.txt
+26B   97    33-2   11B   WARFORD           MALCUM            11        KENTUCKY          ed002-pg0023a.txt
+26B   76    33-2   11B   WARFORD           ONA L             24        KENTUCKY          ed002-pg0023a.txt
+26B   95    33-2   11B   WARFORD           ROSE              39        KENTUCKY          ed002-pg0023a.txt
+49A   46    33-3   12A   WARFORD           VIOLA W           20        KENTUCKY          ed003-pg0044a.txt
+39A   23    33-3   2A    WARMOUTH          ROGER B           24        KENTUCKY          ed003-pg0038a.txt
+10A   15    33-1   10A   WARNER            DAVID             4 10/12   KENTUCKY          ed001-pg0008b.txt
+9A    41    33-1   9A    WARNER            ED                24        KENTUCKY          ed001-pg0008b.txt
+10A   14    33-1   10A   WARNER            ELMER             35        KENTUCKY          ed001-pg0008b.txt
+9A    42    33-1   9A    WARNER            RACHEL            35        KENTUCKY          ed001-pg0008b.txt
+24A   11    33-2   9A    WATERFILL         ANNA B            26        KENTUCKY          ed002-pg0023a.txt
+24A   10    33-2   9A    WATERFILL         GEORGE J          35        KENTUCKY          ed002-pg0023a.txt
+24A   12    33-2   9A    WATERFILL         LORAIN            1 0/12    KENTUCKY          ed002-pg0023a.txt
+36A   6     33-2   21A   WATKINS           EDWIN D           79        NEW YORK          ed002-pg0030a.txt
+15B   61    33-1   15B   WATKINS           LEE               37        KENTUCKY          ed001-pg0008b.txt
+36A   7     33-2   21A   WATKINS           MALINTHA          73        NEW YORK          ed002-pg0030a.txt
+16B   96    33-2   1B    WATSON            HERMAN C          30        KENTUCKY          ed002-pg0016a.txt
+16B   98    33-2   1B    WATSON            LUTHER            9         KENTUCKY          ed002-pg0016a.txt
+12A   13    33-1   12A   WATSON            MATTIE            17        KENTUCKY          ed001-pg0008b.txt
+16B   97    33-2   1B    WATSON            OCIE A            26        KENTUCKY          ed002-pg0016a.txt
+17A   1     33-2   2A    WATSON            ROY               4         OHIO              ed002-pg0016a.txt
+16B   100   33-2   1B    WATSON            RUTH              4 0/12    OHIO              ed002-pg0016a.txt
+16B   99    33-2   1B    WATSON            VIOLET            7         KENTUCKY          ed002-pg0016a.txt
+29A   18    33-2   14A   WAY               JEANNETTE         72        KENTUCKY          ed002-pg0023a.txt
+29B   53    33-2   14B   WEAVER            ALMA F            10        KENTUCKY          ed002-pg0023a.txt
+12B   70    33-1   12B   WEAVER            BEN               23        KENTUCKY          ed001-pg0008b.txt
+29B   51    33-2   14B   WEAVER            ELMER G           30        KENTUCKY          ed002-pg0023a.txt
+29B   54    33-2   14B   WEAVER            ELMER JR          7         KENTUCKY          ed002-pg0023a.txt
+29B   52    33-2   14B   WEAVER            MAUDE             29        KENTUCKY          ed002-pg0023a.txt
+33B   75    33-2   18B   WEBB              ARCHIE            27        KENTUCKY          ed002-pg0030a.txt
+33B   79    33-2   18B   WEBB              CHARLES D         4 1/12    KENTUCKY          ed002-pg0030a.txt
+41B   92    33-3   4B    WEBB              CLARA P           27        KENTUCKY          ed003-pg0038a.txt
+31A   35    33-2   16A   WEBB              ESSIE             29        KENTUCKY          ed002-pg0030a.txt
+33B   78    33-2   18B   WEBB              EUNICE            5         KENTUCKY          ed002-pg0030a.txt
+41B   91    33-3   4B    WEBB              FRANK             25        KENTUCKY          ed003-pg0038a.txt
+34B   56    33-2   19B   WEBB              GRACE             29        KENTUCKY          ed002-pg0030a.txt
+41B   88    33-3   4B    WEBB              GRADIE            30        KENTUCKY          ed003-pg0038a.txt
+33B   76    33-2   18B   WEBB              HANNAH M          25        KENTUCKY          ed002-pg0030a.txt
+34B   55    33-2   19B   WEBB              HOOD              33        KENTUCKY          ed002-pg0030a.txt
+34B   57    33-2   19B   WEBB              JOANN             1 8/12    KENTUCKY          ed002-pg0030a.txt
+31A   36    33-2   16A   WEBB              JOHN D            7         KENTUCKY          ed002-pg0030a.txt
+32A   1     33-2   17A   WEBB              JOHN M            58        KENTUCKY          ed002-pg0030a.txt
+41B   87    33-3   4B    WEBB              LILLARD           28        KENTUCKY          ed003-pg0038a.txt
+32A   2     33-2   17A   WEBB              MACAFEE           53        KENTUCKY          ed002-pg0030a.txt
+41B   89    33-3   4B    WEBB              RAY               9         KENTUCKY          ed003-pg0038a.txt
+41B   90    33-3   4B    WEBB              VIRGIE L          7         KENTUCKY          ed003-pg0038a.txt
+33B   77    33-2   18B   WEBB              VIRGINIA L        7         KENTUCKY          ed002-pg0030a.txt
+31A   34    33-2   16A   WEBB              WHEELER           31        KENTUCKY          ed002-pg0030a.txt
+28B   67    33-2   13B   WEBBER            EDWARD A          32        OHIO              ed002-pg0023a.txt
+28B   68    33-2   13B   WEBBER            GERTRUDE          35        KENTUCKY          ed002-pg0023a.txt
+12B   93    33-1   12B   WEIR              LILLIAN           23        KENTUCKY          ed001-pg0008b.txt
+26B   82    33-2   11B   WELBORN           BRYAN O           29        KENTUCKY          ed002-pg0023a.txt
+26B   85    33-2   11B   WELBORN           ELLA L            7         KENTUCKY          ed002-pg0023a.txt
+26B   86    33-2   11B   WELBORN           GUY               5         KENTUCKY          ed002-pg0023a.txt
+26B   84    33-2   11B   WELBORN           MARY S            9         KENTUCKY          ed002-pg0023a.txt
+26B   83    33-2   11B   WELBORN           ZULA K            27        KENTUCKY          ed002-pg0023a.txt
+20A   48    33-2   5A    WELCH             DONALD            14        KENTUCKY          ed002-pg0016a.txt
+20A   46    33-2   5A    WELCH             FANNIE L          41        KENTUCKY          ed002-pg0016a.txt
+20A   49    33-2   5A    WELCH             GLENN             7         KENTUCKY          ed002-pg0016a.txt
+20A   50    33-2   5A    WELCH             ROBERT            1 10/12   KENTUCKY          ed002-pg0016a.txt
+20A   47    33-2   5A    WELCH             SAMUEL L          20        KENTUCKY          ed002-pg0016a.txt
+20A   45    33-2   5A    WELCH             SAMUEL N          45        KENTUCKY          ed002-pg0016a.txt
+43B   56    33-3   6B    WELLS             ALMA R            13        KENTUCKY          ed003-pg0038a.txt
+29B   87    33-2   14B   WELLS             CHARLES           64        KENTUCKY          ed002-pg0023a.txt
+3A    43    33-1   3A    WELLS             EDGAR F           31        KENTUCKY          ed001-pg0001a.txt
+3A    45    33-1   3A    WELLS             EDGAR J           4/12      KENTUCKY          ed001-pg0001a.txt
+29B   88    33-2   14B   WELLS             ELIZABETH         63        KENTUCKY          ed002-pg0023a.txt
+3A    44    33-1   3A    WELLS             HELEN             21        VIRGINIA          ed001-pg0001a.txt
+48B   58    33-3   11B   WELLS             HILYARD           27        KENTUCKY          ed003-pg0044a.txt
+48B   59    33-3   11B   WELLS             LUCILLE           26        KENTUCKY          ed003-pg0044a.txt
+43B   55    33-3   6B    WELLS             LULA M            36        KENTUCKY          ed003-pg0038a.txt
+43B   54    33-3   6B    WELLS             WILLIAM A         38        KENTUCKY          ed003-pg0038a.txt
+27A   34    33-2   12A   WELZ              ALFRED            45        KENTUCKY          ed002-pg0023a.txt
+27A   35    33-2   12A   WELZ              ELIZABETH         41        KENTUCKY          ed002-pg0023a.txt
+16B   93    33-2   1B    WEST              A F               51        KENTUCKY          ed002-pg0016a.txt
+16B   95    33-2   1B    WEST              BYRON             11        KENTUCKY          ed002-pg0016a.txt
+53B   75    33-4   4B    WEST              CAROL             9         KENTUCKY          ed004-pg0050a.txt
+18B   76    33-2   3B    WEST              CHARLES           7         KENTUCKY          ed002-pg0016a.txt
+34B   98    33-2   19B   WEST              EDWARD            27        KENTUCKY          ed002-pg0030a.txt
+34B   99    33-2   19B   WEST              GEORGE            21        KENTUCKY          ed002-pg0030a.txt
+53B   76    33-4   4B    WEST              HAROLD            7         KENTUCKY          ed004-pg0050a.txt
+53B   74    33-4   4B    WEST              HELLEN            14        KENTUCKY          ed004-pg0050a.txt
+34B   97    33-2   19B   WEST              HOPPE             29        KENTUCKY          ed002-pg0030a.txt
+53B   77    33-4   4B    WEST              HUBERT            3         KENTUCKY          ed004-pg0050a.txt
+53B   72    33-4   4B    WEST              LEANDER           43        KENTUCKY          ed004-pg0050a.txt
+34B   96    33-2   19B   WEST              LUCY              53        KENTUCKY          ed002-pg0030a.txt
+18B   78    33-2   3B    WEST              MARIE             4/12      KENTUCKY          ed002-pg0016a.txt
+16B   94    33-2   1B    WEST              MARY              45        KENTUCKY          ed002-pg0016a.txt
+18B   73    33-2   3B    WEST              MARY              33        KENTUCKY          ed002-pg0016a.txt
+53B   73    33-4   4B    WEST              MOLLIE            42        KENTUCKY          ed004-pg0050a.txt
+18B   75    33-2   3B    WEST              PATSY             10        KENTUCKY          ed002-pg0016a.txt
+53B   78    33-4   4B    WEST              RALPH             0/12      KENTUCKY          ed004-pg0050a.txt
+18B   77    33-2   3B    WEST              SALLIE            2 7/12    KENTUCKY          ed002-pg0016a.txt
+18B   72    33-2   3B    WEST              TAUBBERT          39        KENTUCKY          ed002-pg0016a.txt
+18B   74    33-2   3B    WEST              TRACY             13        KENTUCKY          ed002-pg0016a.txt
+48A   40    33-3   11A   WHEELER           ELIZABETH T       24        KENTUCKY          ed003-pg0044a.txt
+49A   27    33-3   12A   WHEELER           MYRTLE            45        KENTUCKY          ed003-pg0044a.txt
+34B   65    33-2   19B   WHITAKER          DEWY              31        KENTUCKY          ed002-pg0030a.txt
+34B   67    33-2   19B   WHITAKER          JACK C            3  5/12   KENTUCKY          ed002-pg0030a.txt
+47B   80    33-3   10B   WHITAKER          JOHN D            10        KENTUCKY          ed003-pg0044a.txt
+34B   66    33-2   19B   WHITAKER          LOTTIE            22        KENTUCKY          ed002-pg0030a.txt
+47B   81    33-3   10B   WHITAKER          LOUISE I          9         KENTUCKY          ed003-pg0044a.txt
+40A   2     33-3   3A    WHITE             ALICE             45        VIRGINIA          ed003-pg0038a.txt
+5A    39    33-1   5A    WHITE             BANFORD           87        KENTUCKY          ed001-pg0001a.txt
+5B    97    33-1   5B    WHITE             BERNICE           43        KENTUCKY          ed001-pg0001a.txt
+3B    84    33-1   3B    WHITE             BETTY             44        KENTUCKY          ed001-pg0001a.txt
+5A    41    33-1   5A    WHITE             CARL              35        KENTUCKY          ed001-pg0001a.txt
+1B    95    33-1   1B    WHITE             CARL F            23        KENTUCKY          ed001-pg0001a.txt
+5B    100   33-1   5B    WHITE             CLARK             19        KENTUCKY          ed001-pg0001a.txt
+30B   52    33-2   15B   WHITE             DONALD            3 1/2     KENTUCKY          ed002-pg0030a.txt
+41A   8     33-3   4A    WHITE             EMMA              73        KENTUCKY          ed003-pg0038a.txt
+1B    98    33-1   1B    WHITE             GEORGE B          3/12      KENTUCKY          ed001-pg0001a.txt
+40A   1     33-3   3A    WHITE             GEORGE P          50        ALABAMA           ed003-pg0038a.txt
+36A   45    33-2   21A   WHITE             GILBERT           32        KENTUCKY          ed002-pg0030a.txt
+1B    97    33-1   1B    WHITE             HAROLD F          1 8/12    KENTUCKY          ed001-pg0001a.txt
+30A   4     33-2   15A   WHITE             HARVEY            28        LOUISIANA         ed002-pg0030a.txt
+5A    40    33-1   5A    WHITE             IDA               47        KENTUCKY          ed001-pg0001a.txt
+5B    96    33-1   5B    WHITE             J R               53        KENTUCKY          ed001-pg0001a.txt
+1B    96    33-1   1B    WHITE             KATHLEEN K        18        KENTUCKY          ed001-pg0001a.txt
+3B    85    33-1   3B    WHITE             MARGARET          33        KENTUCKY          ed001-pg0001a.txt
+5A    42    33-1   5A    WHITE             MINNIE            20        KENTUCKY          ed001-pg0001a.txt
+41A   7     33-3   4A    WHITE             RICHARD J         72        KENTUCKY          ed003-pg0038a.txt
+30A   20    33-2   15A   WHITEHEAD         ADDIE             33        KENTUCKY          ed002-pg0030a.txt
+30A   19    33-2   15A   WHITEHEAD         JAMES             37        KENTUCKY          ed002-pg0030a.txt
+30A   21    33-2   15A   WHITEHEAD         JOY MARIE         1 0/12    KENTUCKY          ed002-pg0030a.txt
+43B   76    33-3   6B    WHITENER          ANNA L            1 8/12    KENTUCKY          ed003-pg0038a.txt
+43B   73    33-3   6B    WHITENER          BEN               26        NORTH CAROLINA    ed003-pg0038a.txt
+43B   75    33-3   6B    WHITENER          BETTY R           3 0/12    KENTUCKY          ed003-pg0038a.txt
+41B   65    33-3   4B    WHITENER          EVELYN S          5         TENNESSEE         ed003-pg0038a.txt
+43B   74    33-3   6B    WHITENER          FLORENCE          19        KENTUCKY          ed003-pg0038a.txt
+41B   66    33-3   4B    WHITENER          HAROLD G          2 4/12    KENTUCKY          ed003-pg0038a.txt
+41B   61    33-3   4B    WHITENER          HARVEY H          33        NORTH CAROLINA    ed003-pg0038a.txt
+41B   64    33-3   4B    WHITENER          LOA R             7         TENNESSEE         ed003-pg0038a.txt
+49A   1     33-3   12A   WHITENER          LOGAN J           34        NORTH CAROLINA    ed003-pg0044a.txt
+41B   62    33-3   4B    WHITENER          MOLLIE E          29        TENNESSEE         ed003-pg0038a.txt
+41B   63    33-3   4B    WHITENER          RALPH C           9         TENNESSEE         ed003-pg0038a.txt
+47A   15    33-3   10A   WICKERSHAM        AILEEN S          33        KENTUCKY          ed003-pg0044a.txt
+47A   17    33-3   10A   WICKERSHAM        ALLEN S           12        KENTUCKY          ed003-pg0044a.txt
+47A   16    33-3   10A   WICKERSHAM        ARTHUR L          14        KENTUCKY          ed003-pg0044a.txt
+47A   25    33-3   10A   WIFIE             MARGARET L        39        KENTUCKY          ed003-pg0044a.txt
+47A   24    33-3   10A   WIFIE             WALDO             35        KENTUCKY          ed003-pg0044a.txt
+47A   26    33-3   10A   WIFIE             WILLIAM A         3 10/12   KENTUCKY          ed003-pg0044a.txt
+39A   17    33-3   2A    WILBURN           FAIRY             42        KENTUCKY          ed003-pg0038a.txt
+39A   16    33-3   2A    WILBURN           WALTER            53        KENTUCKY          ed003-pg0038a.txt
+4A    43    33-1   4A    WILCOX            JOHN JR           34        MONTANA           ed001-pg0001a.txt
+13B   87    33-1   13B   WILCOX            JOHN W            68        KENTUCKY          ed001-pg0008b.txt
+13B   88    33-1   13B   WILCOX            LIZZIE            62        KENTUCKY          ed001-pg0008b.txt
+4A    46    33-1   4A    WILCOX            ROBERT            36        KENTUCKY          ed001-pg0001a.txt
+56B   68    33-4   7B    WILLIAM           BASCAN            41        KENTUCKY          ed004-pg0050a.txt
+56B   69    33-4   7B    WILLIAM           MAY               26        KENTUCKY          ed004-pg0050a.txt
+56B   70    33-4   7B    WILLIAM           MUNCIE            6         KENTUCKY          ed004-pg0050a.txt
+56B   71    33-4   7B    WILLIAM           NORMAN            4         KENTUCKY          ed004-pg0050a.txt
+26B   55    33-2   11B   WILLIAMS          ALICE G           13        KENTUCKY          ed002-pg0023a.txt
+26B   54    33-2   11B   WILLIAMS          AMANDA            38        KENTUCKY          ed002-pg0023a.txt
+27B   76    33-2   12B   WILLIAMS          AMOS              28        KENTUCKY          ed002-pg0023a.txt
+18A   19    33-2   3A    WILLIAMS          ANNA E            39        KENTUCKY          ed002-pg0016a.txt
+46A   46    33-3   9A    WILLIAMS          BELLE             33        KENTUCKY          ed003-pg0044a.txt
+24A   8     33-2   9A    WILLIAMS          BESSIE            28        KENTUCKY          ed002-pg0023a.txt
+23A   8     33-2   8A    WILLIAMS          BILLY             5         KENTUCKY          ed002-pg0023a.txt
+19B   65    33-2   4B    WILLIAMS          CHARLES           27        KENTUCKY          ed002-pg0016a.txt
+3B    63    33-1   3B    WILLIAMS          CLARENCE          24        KENTUCKY          ed001-pg0001a.txt
+46A   49    33-3   9A    WILLIAMS          CLARENCE          10        KENTUCKY          ed003-pg0044a.txt
+23A   5     33-2   8A    WILLIAMS          COLUMBUS          34        KENTUCKY          ed002-pg0023a.txt
+18A   20    33-2   3A    WILLIAMS          DONALD L          6         KENTUCKY          ed002-pg0016a.txt
+27B   78    33-2   12B   WILLIAMS          DORTHY F          3 11/12   KENTUCKY          ed002-pg0023a.txt
+46B   52    33-3   9B    WILLIAMS          FERN B            3 0/12    KENTUCKY          ed003-pg0044a.txt
+24A   9     33-2   9A    WILLIAMS          HAROLD            10        KENTUCKY          ed002-pg0023a.txt
+46A   47    33-3   9A    WILLIAMS          HAZEL             15        KENTUCKY          ed003-pg0044a.txt
+46A   48    33-3   9A    WILLIAMS          IRENE             13        KENTUCKY          ed003-pg0044a.txt
+46A   45    33-3   9A    WILLIAMS          ISAAC C           38        KENTUCKY          ed003-pg0044a.txt
+46B   51    33-3   9B    WILLIAMS          ISAAC J           6         KENTUCKY          ed003-pg0044a.txt
+19B   67    33-2   4B    WILLIAMS          JACK              6         KENTUCKY          ed002-pg0016a.txt
+18A   21    33-2   3A    WILLIAMS          JAMES R           1 7/12    KENTUCKY          ed002-pg0016a.txt
+23A   7     33-2   8A    WILLIAMS          KATHALEEN         8         KENTUCKY          ed002-pg0023a.txt
+19B   68    33-2   4B    WILLIAMS          KATHERINE         5 1/12    KENTUCKY          ed002-pg0016a.txt
+18A   18    33-2   3A    WILLIAMS          LEE               66        KENTUCKY          ed002-pg0016a.txt
+26B   57    33-2   11B   WILLIAMS          MARY J            1 3/12    KENTUCKY          ed002-pg0023a.txt
+46A   50    33-3   9A    WILLIAMS          MURVIN            8         KENTUCKY          ed003-pg0044a.txt
+19B   66    33-2   4B    WILLIAMS          NELLIE            21        KENTUCKY          ed002-pg0016a.txt
+26B   56    33-2   11B   WILLIAMS          ROBERT            8         KENTUCKY          ed002-pg0023a.txt
+19B   69    33-2   4B    WILLIAMS          ROY L             1 11/12   KENTUCKY          ed002-pg0016a.txt
+24A   7     33-2   9A    WILLIAMS          SHERIDAN          32        KENTUCKY          ed002-pg0023a.txt
+30A   5     33-2   15A   WILLIAMS          THOMAS S          20        KENTUCKY          ed002-pg0030a.txt
+27B   79    33-2   12B   WILLIAMS          VICTOR            1 4/12    KENTUCKY          ed002-pg0023a.txt
+27B   77    33-2   12B   WILLIAMS          VINA              24        KENTUCKY          ed002-pg0023a.txt
+23A   6     33-2   8A    WILLIAMS          VIRGIL            27        KENTUCKY          ed002-pg0023a.txt
+4A    18    33-1   4A    WILLIAMSON        C W               62        OHIO              ed001-pg0001a.txt
+4A    19    33-1   4A    WILLIAMSON        HANNAH            62        OHIO              ed001-pg0001a.txt
+12A   21    33-1   12A   WILLIAMSON        MALISSA           65        NORTH CAROLINA    ed001-pg0008b.txt
+8A    45    33-1   8A    WILLIS            ESTILL            34        KENTUCKY          ed001-pg0001a.txt
+8A    46    33-1   8A    WILLIS            VIOLA             30        KENTUCKY          ed001-pg0001a.txt
+35A   4     33-2   20A   WILLS             ELEANOR J         6/12      KENTUCKY          ed002-pg0030a.txt
+34B   100   33-2   19B   WILLS             EVERETT S         30        KENTUCKY          ed002-pg0030a.txt
+35A   3     33-2   20A   WILLS             JACK G            2 2/12    KENTUCKY          ed002-pg0030a.txt
+35A   2     33-2   20A   WILLS             SHIRLEY M         6         KENTUCKY          ed002-pg0030a.txt
+35A   1     33-2   20A   WILLS             TILLIE            34        KENTUCKY          ed002-pg0030a.txt
+33A   36    33-2   18A   WILSON            ALFRED            14        GEORGIA           ed002-pg0030a.txt
+52A   7     33-4   3A    WILSON            ANDIRA            7         KENTUCKY          ed004-pg0050a.txt
+5B    79    33-1   5B    WILSON            ANNA              29        KENTUCKY          ed001-pg0001a.txt
+20B   83    33-2   5B    WILSON            BEN               32        KENTUCKY          ed002-pg0016a.txt
+14A   48    33-1   14A   WILSON            BEN F             63        KENTUCKY          ed001-pg0008b.txt
+13B   66    33-1   13B   WILSON            BETTY             69        KENTUCKY          ed001-pg0008b.txt
+52A   4     33-4   3A    WILSON            CAROL             15        KENTUCKY          ed004-pg0050a.txt
+17A   14    33-2   2A    WILSON            CHARLES           39        TENNESSEE         ed002-pg0016a.txt
+33A   35    33-2   18A   WILSON            CLARA             30        KENTUCKY          ed002-pg0030a.txt
+8B    68    33-1   8B    WILSON            DOUGLAS           16        KENTUCKY          ed001-pg0008b.txt
+20B   87    33-2   5B    WILSON            DOUGLASS          6         KENTUCKY          ed002-pg0016a.txt
+1A    30    33-1   1A    WILSON            DRUCILLA          9         KENTUCKY          ed001-pg0001a.txt
+19B   90    33-2   4B    WILSON            EDCAR             11        KENTUCKY          ed002-pg0016a.txt
+5B    80    33-1   5B    WILSON            EDWARD            7         KENTUCKY          ed001-pg0001a.txt
+33A   34    33-2   18A   WILSON            ELMER             37        KENTUCKY          ed002-pg0030a.txt
+19B   95    33-2   4B    WILSON            ELSIE             24        KENTUCKY          ed002-pg0016a.txt
+14B   72    33-1   14B   WILSON            ETHALEEN          36        KENTUCKY          ed001-pg0008b.txt
+8B    66    33-1   8B    WILSON            EVA M             20        KENTUCKY          ed001-pg0008b.txt
+14A   49    33-1   14A   WILSON            FLORENCE          62        KENTUCKY          ed001-pg0008b.txt
+20B   88    33-2   5B    WILSON            GENEVA            4 10/12   KENTUCKY          ed002-pg0016a.txt
+19B   88    33-2   4B    WILSON            GILLIE            16        KENTUCKY          ed002-pg0016a.txt
+52A   5     33-4   3A    WILSON            GLADIS            12        KENTUCKY          ed004-pg0050a.txt
+5B    81    33-1   5B    WILSON            GORDON            5         KENTUCKY          ed001-pg0001a.txt
+20B   86    33-2   5B    WILSON            HARRY             7         KENTUCKY          ed002-pg0016a.txt
+1A    26    33-1   1A    WILSON            HARRY B           41        KENTUCKY          ed001-pg0001a.txt
+1A    28    33-1   1A    WILSON            HARRY B JR        11        KENTUCKY          ed001-pg0001a.txt
+8B    65    33-1   8B    WILSON            HATTIE            52        KENTUCKY          ed001-pg0008b.txt
+39B   84    33-3   2B    WILSON            HOWARD            33        KENTUCKY          ed003-pg0038a.txt
+8A    36    33-1   8A    WILSON            HUGH              33        KENTUCKY          ed001-pg0001a.txt
+8A    38    33-1   8A    WILSON            HUGH H            3 1/12    KENTUCKY          ed001-pg0001a.txt
+19B   87    33-2   4B    WILSON            IRMA              19        KENTUCKY          ed002-pg0016a.txt
+5B    78    33-1   5B    WILSON            J C               34        KENTUCKY          ed001-pg0001a.txt
+9B    98    33-1   9B    WILSON            JESSIE            37        KENTUCKY          ed001-pg0008b.txt
+9B    97    33-1   9B    WILSON            JOHN              41        KENTUCKY          ed001-pg0008b.txt
+42A   19    33-3   5A    WILSON            JOSIE             31        KENTUCKY          ed003-pg0038a.txt
+1A    27    33-1   1A    WILSON            JULIA W           41        KENTUCKY          ed001-pg0001a.txt
+52A   2     33-4   3A    WILSON            KATHERINE         38        KENTUCKY          ed004-pg0050a.txt
+1A    29    33-1   1A    WILSON            KATHERINE         9         KENTUCKY          ed001-pg0001a.txt
+39B   86    33-3   2B    WILSON            KOLEDA M          11        KENTUCKY          ed003-pg0038a.txt
+7A    43    33-1   7A    WILSON            LEE               49        KENTUCKY          ed001-pg0001a.txt
+7A    44    33-1   7A    WILSON            LEONA             44        INDIANA           ed001-pg0001a.txt
+20B   82    33-2   5B    WILSON            LEWIS             77        KENTUCKY          ed002-pg0016a.txt
+9B    99    33-1   9B    WILSON            LILLIAN B         14        KENTUCKY          ed001-pg0008b.txt
+19B   93    33-2   4B    WILSON            MARGUERITO        23        KENTUCKY          ed002-pg0016a.txt
+20B   84    33-2   5B    WILSON            MARVIN            38        KENTUCKY          ed002-pg0016a.txt
+20B   89    33-2   5B    WILSON            MARVIN JR         2 6/12    KENTUCKY          ed002-pg0016a.txt
+52A   8     33-4   3A    WILSON            MARY              4         KENTUCKY          ed004-pg0050a.txt
+9B    100   33-1   9B    WILSON            MARY E            10        KENTUCKY          ed001-pg0008b.txt
+39B   87    33-3   2B    WILSON            MARY E            2 4/12    KENTUCKY          ed003-pg0038a.txt
+20B   85    33-2   5B    WILSON            MARY L            29        KENTUCKY          ed002-pg0016a.txt
+19B   86    33-2   4B    WILSON            MAY               22        KENTUCKY          ed002-pg0016a.txt
+7A    48    33-1   7A    WILSON            MILDRED           8         KENTUCKY          ed001-pg0001a.txt
+19A   22    33-2   4A    WILSON            MINNIE            61        KENTUCKY          ed002-pg0016a.txt
+33A   37    33-2   18A   WILSON            NATHAN            13        GEORGIA           ed002-pg0030a.txt
+52A   1     33-4   3A    WILSON            NEAL              42        KENTUCKY          ed004-pg0050a.txt
+19B   91    33-2   4B    WILSON            NEVA              8         KENTUCKY          ed002-pg0016a.txt
+7A    47    33-1   7A    WILSON            NORMA             12        KENTUCKY          ed001-pg0001a.txt
+19B   92    33-2   4B    WILSON            ODEY              26        KENTUCKY          ed002-pg0016a.txt
+39B   85    33-3   2B    WILSON            PEARL             32        KENTUCKY          ed003-pg0038a.txt
+42A   18    33-3   5A    WILSON            RAY               48        KENTUCKY          ed003-pg0038a.txt
+42A   20    33-3   5A    WILSON            RAY               6         KENTUCKY          ed003-pg0038a.txt
+7A    46    33-1   7A    WILSON            ROBERT L          14        INDIANA           ed001-pg0001a.txt
+8A    37    33-1   8A    WILSON            RUBY              26        KENTUCKY          ed001-pg0001a.txt
+52A   6     33-4   3A    WILSON            RUSSEL            10        KENTUCKY          ed004-pg0050a.txt
+52A   3     33-4   3A    WILSON            RUTH E            17        KENTUCKY          ed004-pg0050a.txt
+7A    45    33-1   7A    WILSON            SOPHA             77        KENTUCKY          ed001-pg0001a.txt
+17A   15    33-2   2A    WILSON            SUDIE M           20        KENTUCKY          ed002-pg0016a.txt
+52A   9     33-4   3A    WILSON            VIRGIL            1 11/12   KENTUCKY          ed004-pg0050a.txt
+8B    67    33-1   8B    WILSON            WAYNE             18        KENTUCKY          ed001-pg0008b.txt
+19B   89    33-2   4B    WILSON            WB                14        KENTUCKY          ed002-pg0016a.txt
+19B   94    33-2   4B    WILSON            WILMA G           8/12      KENTUCKY          ed002-pg0016a.txt
+21B   59    33-2   6B    WINBURN           AJ                3 4/12    KENTUCKY          ed002-pg0016a.txt
+14A   43    33-1   14A   WINBURN           DORIS J           7/12      KENTUCKY          ed001-pg0008b.txt
+14A   39    33-1   14A   WINBURN           EARL              17        KENTUCKY          ed001-pg0008b.txt
+14A   42    33-1   14A   WINBURN           ELEANOR           2 6/12    KENTUCKY          ed001-pg0008b.txt
+14A   41    33-1   14A   WINBURN           GLADYS            12        KENTUCKY          ed001-pg0008b.txt
+21B   55    33-2   6B    WINBURN           HERBERT           30        KENTUCKY          ed002-pg0016a.txt
+21B   58    33-2   6B    WINBURN           HERBERT JR        5         KENTUCKY          ed002-pg0016a.txt
+14A   40    33-1   14A   WINBURN           MARIE             15        KENTUCKY          ed001-pg0008b.txt
+21B   56    33-2   6B    WINBURN           MYRTLE            26        KENTUCKY          ed002-pg0016a.txt
+14A   37    33-1   14A   WINBURN           SIDNEY            46        KENTUCKY          ed001-pg0008b.txt
+21B   57    33-2   6B    WINBURN           SOPHA J           8         KENTUCKY          ed002-pg0016a.txt
+14A   38    33-1   14A   WINBURN           WINNIE            30        KENTUCKY          ed001-pg0008b.txt
+53B   70    33-4   4B    WINCHESTER        AUDREY            12        KENTUCKY          ed004-pg0050a.txt
+53B   69    33-4   4B    WINCHESTER        BERNICE           14        INDIANA           ed004-pg0050a.txt
+53B   68    33-4   4B    WINCHESTER        MARY              49        KENTUCKY          ed004-pg0050a.txt
+53B   67    33-4   4B    WINCHESTER        WILLIAM R         53        KENTUCKY          ed004-pg0050a.txt
+24A   13    33-2   9A    WINKLER           BERT              39        KENTUCKY          ed002-pg0023a.txt
+13A   1     33-1   13A   WINKLER           BERTHA            18        KENTUCKY          ed001-pg0008b.txt
+24A   17    33-2   9A    WINKLER           CECIL             11        KENTUCKY          ed002-pg0023a.txt
+24A   16    33-2   9A    WINKLER           CLEORA            13        KENTUCKY          ed002-pg0023a.txt
+23A   32    33-2   8A    WINKLER           DELMA             19        KENTUCKY          ed002-pg0023a.txt
+23A   31    33-2   8A    WINKLER           DULIE             45        KENTUCKY          ed002-pg0023a.txt
+39B   91    33-3   2B    WINKLER           ELSIE             11        KENTUCKY          ed003-pg0038a.txt
+24A   14    33-2   9A    WINKLER           EMMA              40        KENTUCKY          ed002-pg0023a.txt
+39B   90    33-3   2B    WINKLER           ESTILL H          13        KENTUCKY          ed003-pg0038a.txt
+23A   33    33-2   8A    WINKLER           FAYE              15        KENTUCKY          ed002-pg0023a.txt
+23A   30    33-2   8A    WINKLER           FREEN             47        KENTUCKY          ed002-pg0023a.txt
+24A   18    33-2   9A    WINKLER           HELEN             6         KENTUCKY          ed002-pg0023a.txt
+23A   34    33-2   8A    WINKLER           MAUREEN           13        KENTUCKY          ed002-pg0023a.txt
+24A   15    33-2   9A    WINKLER           STANLEY           15        KENTUCKY          ed002-pg0023a.txt
+2A    2     33-1   2A    WINN              JAMES             57        KENTUCKY          ed001-pg0001a.txt
+5A    21    33-1   5A    WINN              JOHN D            24        KENTUCKY          ed001-pg0001a.txt
+5A    22    33-1   5A    WINN              MARCIA E          21        KENTUCKY          ed001-pg0001a.txt
+2A    3     33-1   2A    WINN              RHODA             58        KENTUCKY          ed001-pg0001a.txt
+50A   6     33-4   1A    WISE              CHARLIE           35        KENTUCKY          ed004-pg0050a.txt
+57B   94    33-4   8B    WISE              CLARENCE          29        KENTUCKY          ed004-pg0050a.txt
+57B   96    33-4   8B    WISE              DOROTHY           4         KENTUCKY          ed004-pg0050a.txt
+38A   19    33-3   1A    WISE              EDGAR W           48        KENTUCKY          ed003-pg0038a.txt
+50B   53    33-4   1B    WISE              ELVA              30        KENTUCKY          ed004-pg0050a.txt
+57B   97    33-4   8B    WISE              FLOYD             1 2/12    KENTUCKY          ed004-pg0050a.txt
+50A   17    33-4   1A    WISE              FRANCIS           58        KENTUCKY          ed004-pg0050a.txt
+38A   22    33-3   1A    WISE              HUBERT M          18        KENTUCKY          ed003-pg0038a.txt
+50B   59    33-4   1B    WISE              JAMES             2/12      KENTUCKY          ed004-pg0050a.txt
+50A   7     33-4   1A    WISE              JULIA             35        KENTUCKY          ed004-pg0050a.txt
+57B   93    33-4   8B    WISE              L                 64        KENTUCKY          ed004-pg0050a.txt
+50B   57    33-4   1B    WISE              LONZO             3         KENTUCKY          ed004-pg0050a.txt
+38A   21    33-3   1A    WISE              MARSHALL O        20        KENTUCKY          ed003-pg0038a.txt
+50B   54    33-4   1B    WISE              MARY              30        KENTUCKY          ed004-pg0050a.txt
+21A   27    33-2   6A    WISE              MARY BELL         62        KENTUCKY          ed002-pg0016a.txt
+38A   20    33-3   1A    WISE              MATILDA M         45        KENTUCKY          ed003-pg0038a.txt
+50A   8     33-4   1A    WISE              MELVIN            13        KENTUCKY          ed004-pg0050a.txt
+50A   9     33-4   1A    WISE              MILDRED           11        KENTUCKY          ed004-pg0050a.txt
+58B   53    33-4   9B    WISE              MILDRED           12        KENTUCKY          ed004-pg0058a.txt
+50B   56    33-4   1B    WISE              OPEL              5         KENTUCKY          ed004-pg0050a.txt
+50A   11    33-4   1A    WISE              RAYMOND           8         KENTUCKY          ed004-pg0050a.txt
+39A   9     33-3   2A    WISE              SAFFIE            66        KENTUCKY          ed003-pg0038a.txt
+50B   58    33-4   1B    WISE              THELMA            2         KENTUCKY          ed004-pg0050a.txt
+57B   95    33-4   8B    WISE              VIOLA             22        KENTUCKY          ed004-pg0050a.txt
+50A   10    33-4   1A    WISE              VIVIAN            9         KENTUCKY          ed004-pg0050a.txt
+50B   55    33-4   1B    WISE              WILFIRT           6         KENTUCKY          ed004-pg0050a.txt
+38A   23    33-3   1A    WISE              WILLIAM E         12        KENTUCKY          ed003-pg0038a.txt
+21A   26    33-2   6A    WISE              GEORGE W          22        KENTUCKY          ed002-pg0016a.txt
+20B   69    33-2   5B    WISEMAN           CHARLES R         5         KENTUCKY          ed002-pg0016a.txt
+16B   75    33-2   1B    WISEMAN           DELLA             36        KENTUCKY          ed002-pg0016a.txt
+16B   74    33-2   1B    WISEMAN           DILLARD           50        OHIO              ed002-pg0016a.txt
+20B   68    33-2   5B    WISEMAN           GRACIE            23        KENTUCKY          ed002-pg0016a.txt
+20B   70    33-2   5B    WISEMAN           JUANITA           3 9/12    KENTUCKY          ed002-pg0016a.txt
+20B   67    33-2   5B    WISEMAN           MILLARD           33        KENTUCKY          ed002-pg0016a.txt
+3A    8     33-1   3A    WISEMAN           BERTIE            36        KENTUCKY          ed001-pg0001a.txt
+3A    11    33-1   3A    WISEMAN           CHRISTINE         9         KENTUCKY          ed001-pg0001a.txt
+3A    7     33-1   3A    WISEMAN           JOE               36        KENTUCKY          ed001-pg0001a.txt
+3A    9     33-1   3A    WISEMAN           RAYMOND           15        KENTUCKY          ed001-pg0001a.txt
+3A    14    33-1   3A    WISEMAN           ROBERT            2 3/12    KENTUCKY          ed001-pg0001a.txt
+3A    10    33-1   3A    WISEMAN           ROY               11        KENTUCKY          ed001-pg0001a.txt
+3A    12    33-1   3A    WISEMAN           VIRGINIA          7         KENTUCKY          ed001-pg0001a.txt
+3A    13    33-1   3A    WISEMAN           WALLACE E         5         KENTUCKY          ed001-pg0001a.txt
+13B   78    33-1   13B   WISSMAN           ANNA L            16        KENTUCKY          ed001-pg0008b.txt
+13B   75    33-1   13B   WISSMAN           ANNIE             49        KENTUCKY          ed001-pg0008b.txt
+13B   79    33-1   13B   WISSMAN           ARCH              18        KENTUCKY          ed001-pg0008b.txt
+13B   82    33-1   13B   WISSMAN           CLYDE             10        KENTUCKY          ed001-pg0008b.txt
+13B   81    33-1   13B   WISSMAN           CORA              13        KENTUCKY          ed001-pg0008b.txt
+13B   77    33-1   13B   WISSMAN           GROVER            21        KENTUCKY          ed001-pg0008b.txt
+13B   83    33-1   13B   WISSMAN           HUBERT            6         KENTUCKY          ed001-pg0008b.txt
+13B   76    33-1   13B   WISSMAN           LEWIS             23        KENTUCKY          ed001-pg0008b.txt
+13B   80    33-1   13B   WISSMAN           LIZZIE            15        KENTUCKY          ed001-pg0008b.txt
+32A   25    33-2   17A   WITHERS           CHARLIE           4 3/12    KENTUCKY          ed002-pg0030a.txt
+32A   26    33-2   17A   WITHERS           EUGENE            1/12      KENTUCKY          ed002-pg0030a.txt
+32A   20    33-2   17A   WITHERS           LESTER C          30        KENTUCKY          ed002-pg0030a.txt
+32A   21    33-2   17A   WITHERS           LIDA              28        KENTUCKY          ed002-pg0030a.txt
+32A   22    33-2   17A   WITHERS           LORENE            9         KENTUCKY          ed002-pg0030a.txt
+32A   23    33-2   17A   WITHERS           MARY              7         KENTUCKY          ed002-pg0030a.txt
+32A   24    33-2   17A   WITHERS           WILLARD           5         KENTUCKY          ed002-pg0030a.txt
+4B    95    33-1   4B    WITHERSPOON       ALICE             29        KENTUCKY          ed001-pg0001a.txt
+4B    96    33-1   4B    WITHERSPOON       ALICE             4 2/12    WEST VIRGINIA     ed001-pg0001a.txt
+4B    92    33-1   4B    WITHERSPOON       E E               54        INDIANA           ed001-pg0001a.txt
+4B    97    33-1   4B    WITHERSPOON       ELMER             1 7/12    KENTUCKY          ed001-pg0001a.txt
+4B    94    33-1   4B    WITHERSPOON       EUGENE            27        KENTUCKY          ed001-pg0001a.txt
+4B    93    33-1   4B    WITHERSPOON       INEZ              51        KENTUCKY          ed001-pg0001a.txt
+17A   28    33-2   2A    WITT              ALICE             55        KENTUCKY          ed002-pg0016a.txt
+8A    50    33-1   8A    WITT              ALLIE C           16        KENTUCKY          ed001-pg0001a.txt
+24B   86    33-2   9B    WITT              BILLY H           3 6/12    KENTUCKY          ed002-pg0023a.txt
+15A   29    33-1   15A   WITT              CALLIE E          50        KENTUCKY          ed001-pg0008b.txt
+15A   28    33-1   15A   WITT              D N               73        KENTUCKY          ed001-pg0008b.txt
+28A   37    33-2   13A   WITT              DEWEY             31        KENTUCKY          ed002-pg0023a.txt
+19B   56    33-2   4B    WITT              DOROTHY           8         KENTUCKY          ed002-pg0016a.txt
+6B    76    33-1   6B    WITT              DOROTHY L         13        KENTUCKY          ed001-pg0001a.txt
+36A   50    33-2   21A   WITT              EARL              39        KENTUCKY          ed002-pg0030a.txt
+2B    60    33-1   2B    WITT              ELIZABETH V       29        KENTUCKY          ed001-pg0001a.txt
+28B   71    33-2   13B   WITT              ELLA              31        KENTUCKY          ed002-pg0023a.txt
+19B   55    33-2   4B    WITT              EMMA              33        KENTUCKY          ed002-pg0016a.txt
+42B   64    33-3   5B    WITT              EMMA C            24        KENTUCKY          ed003-pg0038a.txt
+28B   72    33-2   13B   WITT              ENNA L            10        KENTUCKY          ed002-pg0023a.txt
+24B   84    33-2   9B    WITT              EVA               28        KENTUCKY          ed002-pg0023a.txt
+36B   71    33-2   21B   WITT              FANNIE            35        KENTUCKY          ed002-pg0030a.txt
+24B   83    33-2   9B    WITT              GARRETT           32        KENTUCKY          ed002-pg0023a.txt
+5B    70    33-1   5B    WITT              GEORGE W          22        KENTUCKY          ed001-pg0001a.txt
+36B   74    33-2   21B   WITT              GLENDON           9         KENTUCKY          ed002-pg0030a.txt
+36B   77    33-2   21B   WITT              HAROLD  G         1 3/12    KENTUCKY          ed002-pg0030a.txt
+51B   84    33-4   2B    WITT              HEDDIE            40        KENTUCKY          ed004-pg0050a.txt
+6B    75    33-1   6B    WITT              HELEN             15        KENTUCKY          ed001-pg0001a.txt
+51B   82    33-4   2B    WITT              HENRY             13        KENTUCKY          ed004-pg0050a.txt
+6B    73    33-1   6B    WITT              HUGH              35        KENTUCKY          ed001-pg0001a.txt
+24B   85    33-2   9B    WITT              JUNE M            5         KENTUCKY          ed002-pg0023a.txt
+2B    53    33-1   2B    WITT              KATE              63        KENTUCKY          ed001-pg0001a.txt
+6B    74    33-1   6B    WITT              LEE               32        KENTUCKY          ed001-pg0001a.txt
+51B   80    33-4   2B    WITT              LYDA              38        KENTUCKY          ed004-pg0050a.txt
+42A   29    33-3   5A    WITT              MARTHA            18        KENTUCKY          ed003-pg0038a.txt
+36B   76    33-2   21B   WITT              MARY G            5         KENTUCKY          ed002-pg0030a.txt
+36B   51    33-2   21B   WITT              MILDRED           28        KENTUCKY          ed002-pg0030a.txt
+17A   27    33-2   2A    WITT              MILLARD           65        KENTUCKY          ed002-pg0016a.txt
+5B    72    33-1   5B    WITT              NORMA G           3 2/12    OHIO              ed001-pg0001a.txt
+2B    52    33-1   2B    WITT              O W               66        KENTUCKY          ed001-pg0001a.txt
+36B   73    33-2   21B   WITT              OLIVE R           11        KENTUCKY          ed002-pg0030a.txt
+51B   81    33-4   2B    WITT              OLLIE             15        KENTUCKY          ed004-pg0050a.txt
+19B   54    33-2   4B    WITT              OWEN              41        KENTUCKY          ed002-pg0016a.txt
+36B   52    33-2   21B   WITT              POLLY G           8         KENTUCKY          ed002-pg0030a.txt
+28A   39    33-2   13A   WITT              ROBERT F          10        KENTUCKY          ed002-pg0023a.txt
+51B   83    33-4   2B    WITT              ROLLAN            67        KENTUCKY          ed004-pg0050a.txt
+28B   70    33-2   13B   WITT              SAM L             34        KENTUCKY          ed002-pg0023a.txt
+5B    71    33-1   5B    WITT              SARAH             22        NEW YORK          ed001-pg0001a.txt
+28A   38    33-2   13A   WITT              STELLA            32        KENTUCKY          ed002-pg0023a.txt
+36B   70    33-2   21B   WITT              THOMAS            33        KENTUCKY          ed002-pg0030a.txt
+36B   75    33-2   21B   WITT              THOMAS JR         7         KENTUCKY          ed002-pg0030a.txt
+17A   29    33-2   2A    WITT              VERNON            21        KENTUCKY          ed002-pg0016a.txt
+36B   72    33-2   21B   WITT              VIRGINIA          13        KENTUCKY          ed002-pg0030a.txt
+51B   79    33-4   2B    WITT              WALTER            36        KENTUCKY          ed004-pg0050a.txt
+43A   43    33-3   6A    WITT              WILLIE P          26        KENTUCKY          ed003-pg0038a.txt
+28A   40    33-2   13A   WITT              WILMA D           8         KENTUCKY          ed002-pg0023a.txt
+2B    59    33-1   2B    WITT              HARRY R           32        KENTUCKY          ed001-pg0001a.txt
+29A   39    33-2   14A   WOLFENBARGER      ALMA J            2 11/12   KENTUCKY          ed002-pg0023a.txt
+27B   68    33-2   12B   WOLFENBARGER      EMMA              33        KENTUCKY          ed002-pg0023a.txt
+27B   71    33-2   12B   WOLFENBARGER      GENE              4 9/12    KENTUCKY          ed002-pg0023a.txt
+27B   67    33-2   12B   WOLFENBARGER      JAMES             38        KENTUCKY          ed002-pg0023a.txt
+27B   69    33-2   12B   WOLFENBARGER      JAMES M           11        KENTUCKY          ed002-pg0023a.txt
+29A   37    33-2   14A   WOLFENBARGER      JOE               31        KENTUCKY          ed002-pg0023a.txt
+29A   38    33-2   14A   WOLFENBARGER      MOLLIE            23        KENTUCKY          ed002-pg0023a.txt
+27B   70    33-2   12B   WOLFENBARGER      VICTOR G          8         KENTUCKY          ed002-pg0023a.txt
+46A   28    33-3   9A    WOOD              CHARLES D         5         KENTUCKY          ed003-pg0044a.txt
+35A   33    33-2   20A   WOOD              EDNA              34        KENTUCKY          ed002-pg0030a.txt
+46A   29    33-3   9A    WOOD              GENE A            4/12      KENTUCKY          ed003-pg0044a.txt
+35A   32    33-2   20A   WOOD              JOHN              36        KENTUCKY          ed002-pg0030a.txt
+46A   27    33-3   9A    WOOD              JUNE              20        KENTUCKY          ed003-pg0044a.txt
+46A   26    33-3   9A    WOOD              MARTIN O          35        KENTUCKY          ed003-pg0044a.txt
+13A   30    33-1   13A   WOOLERY           HANNAH            39        ILLINOIS          ed001-pg0008b.txt
+8B    91    33-1   8B    WOOLERY           MABEL             14        KENTUCKY          ed001-pg0008b.txt
+13A   29    33-1   13A   WOOLERY           ROBERT            37        KENTUCKY          ed001-pg0008b.txt
+4B    83    33-1   4B    WORLDS            CECEL             22        KENTUCKY          ed001-pg0001a.txt
+4B    85    33-1   4B    WORLDS            GLADYS            12        KENTUCKY          ed001-pg0001a.txt
+4B    81    33-1   4B    WORLDS            JOHN              52        KENTUCKY          ed001-pg0001a.txt
+4B    82    33-1   4B    WORLDS            ORAH              46        KENTUCKY          ed001-pg0001a.txt
+4B    84    33-1   4B    WORLDS            WALLACE           14        KENTUCKY          ed001-pg0001a.txt
+11B   75    33-1   11B   WRIGHT            ALVIN             27        GEORGIA           ed001-pg0008b.txt
+7A    7     33-1   7A    WRIGHT            CHARLES W         11        KENTUCKY          ed001-pg0001a.txt
+7A    4     33-1   7A    WRIGHT            DOVE              43        KENTUCKY          ed001-pg0001a.txt
+11A   4     33-1   11A   WRIGHT            FANNIE            53        TENNESSEE         ed001-pg0008b.txt
+7A    3     33-1   7A    WRIGHT            J B               46        KENTUCKY          ed001-pg0001a.txt
+11B   76    33-1   11B   WRIGHT            LAURA             20        KENTUCKY          ed001-pg0008b.txt
+7A    6     33-1   7A    WRIGHT            LOUISE H          13        KENTUCKY          ed001-pg0001a.txt
+7A    8     33-1   7A    WRIGHT            MARGIE M          8         KENTUCKY          ed001-pg0001a.txt
+7A    5     33-1   7A    WRIGHT            WILLIAM B         19        KENTUCKY          ed001-pg0001a.txt
+                         
+24A   2     33-2   9A    YADEN             CALLIE            32        KENTUCKY          ed002-pg0023a.txt
+24A   3     33-2   9A    YADEN             DANIEL            11        KENTUCKY          ed002-pg0023a.txt
+24A   6     33-2   9A    YADEN             EDNA M            2 1/12    KENTUCKY          ed002-pg0023a.txt
+24A   5     33-2   9A    YADEN             FRANCIS           4 7/12    KENTUCKY          ed002-pg0023a.txt
+24A   1     33-2   9A    YADEN             LESLEY H          35        KENTUCKY          ed002-pg0023a.txt
+24A   4     33-2   9A    YADEN             MARY E            9         KENTUCKY          ed002-pg0023a.txt
+29A   44    33-2   14A   YADER             LUCINDA           69        KENTUCKY          ed002-pg0023a.txt
+29A   43    33-2   14A   YADER             WILLIAM           46        KENTUCKY          ed002-pg0023a.txt
+38B   78    33-3   1B    YANCEY            JANIE M           7         TENNESSEE         ed003-pg0038a.txt
+38B   76    33-3   1B    YANCEY            THOMAS T          29        TENNESSEE         ed003-pg0038a.txt
+38B   77    33-3   1B    YANCEY            VELMA A           28        TENNESSEE         ed003-pg0038a.txt
+14B   81    33-1   14B   YEAGER            ANNIE             49        KENTUCKY          ed001-pg0008b.txt
+54A   47    33-4   5A    YEAGER            AUGUST            57        OHIO              ed004-pg0050a.txt
+42B   99    33-3   5B    YEAGER            CARL G            6         KENTUCKY          ed003-pg0038a.txt
+39B   64    33-3   2B    YEAGER            CHARLES E         40        KENTUCKY          ed003-pg0038a.txt
+42B   97    33-3   5B    YEAGER            HOWARD C          30        KENTUCKY          ed003-pg0038a.txt
+14B   83    33-1   14B   YEAGER            JOE               25        KENTUCKY          ed001-pg0008b.txt
+39B   65    33-3   2B    YEAGER            MABEL C           34        KENTUCKY          ed003-pg0038a.txt
+54A   48    33-4   5A    YEAGER            MARY              36        KENTUCKY          ed004-pg0050a.txt
+42B   98    33-3   5B    YEAGER            NETTYE K          32        KENTUCKY          ed003-pg0038a.txt
+14B   82    33-1   14B   YEAGER            TOM               30        KENTUCKY          ed001-pg0008b.txt
+39A   44    33-3   2A    YEARY             ALPHA             29        KENTUCKY          ed003-pg0038a.txt
+39A   43    33-3   2A    YEARY             CLAUDE E          48        KENTUCKY          ed003-pg0038a.txt
+39A   45    33-3   2A    YEARY             HENRY D           8         KENTUCKY          ed003-pg0038a.txt
+48B   74    33-3   11B   YOUNG             CECILIA M         38        MINNESOTA         ed003-pg0044a.txt
+39B   76    33-3   2B    YOUNG             CHARLES F         41        KENTUCKY          ed003-pg0038a.txt
+39B   77    33-3   2B    YOUNG             ELIZABETH B       37        KENTUCKY          ed003-pg0038a.txt
+48B   75    33-3   11B   YOUNG             GEORGE W          20        GEORGIA           ed003-pg0044a.txt
+42A   27    33-3   5A    YOUNG             JAMES W           55        KENTUCKY          ed003-pg0038a.txt
+42A   28    33-3   5A    YOUNG             LIZZIE G          49        KENTUCKY          ed003-pg0038a.txt
+48B   73    33-3   11B   YOUNG             WILLIAM B         42        VIRGINIA          ed003-pg0044a.txt
+ 

@@ -1,0 +1,20 @@
+PASS 124 EXTRACT 2026-10-31
+B058 LOC sn89051008 item.digitized: false (pass124). IA Solr 1926 0. Phone not re-asked. C1541
+CORRECTION: n0470 is 2d Division Bath, 6 Sep 1850, stamped 89, enumerator p.45 — not 1st Div. C1542
+Bath 2nd Div page remap by SK surnames: n0386=4A Stewart; n0387=4B Shrout/Traylor; n0388=5A Spence; n0390=6A Setters/Stanfield/Tincher; n0391=6B Francis; n0392=7A John S. C1543
+n0390 stamped 6, 23 Jul 1850, W.W. Apperson. hh 73 John Tincher 26 farmer + Ann 17. TINCHER 6A. REJECT vs William x Rhoda (Ann != Rhoda; no Decatur/Leaner). C1544
+n0391 handwritten p.12, 23 Jul 1850. hh 78 Francis Tincher 36 laborer VA + Nancy 36 + Louisa 18 + Alsey A 16 + Aley A 14 + Kitty 12. SMOOT at foot = 6B. REJECT. C1545
+n0392 stamped 13, 28 Jul 1850. hh 85 John S Tincher 47 farmer VA + Betsy 42 + Andrew 26 laborer + Abigail 16 + William 20 (SON) + George 13 + Mary 5 + Andrew 2. TINCHER 7A. REJECT. C1546
+Bath TINCHER 6A/6B/7A CLOSED originals. SK N = NELSON/NEWLAND/NICHOL/NICHOLAS only. County CLOSED. C1547 C1548
+Fleming n0396 Dist 1 4 Sep 1850 W.P. Boyd stamped 309. Alexander Newman 42 farmer $2000 + Michael 21 in Sapp hh 697; hh 703 John Newman 55 farmer KY + Elizabeth 48 + Jane 22 + Michael 21 + John 14 + Alexander 10 + Mathias 8 + Francis 5. IMAGE SEEN REJECT. C1549
+Fleming n0443 Dist 1 27 Sep. hh 1022 John Newman 78 auctioneer $600 VA + Elizabeth 63 MD. SK 331B. IMAGE SEEN REJECT. C1550
+Fleming n0539 2nd Div 27 Aug. hh 270 Thomas Newman 40 farmer KY + Margarett 36 + James M 14 IN + Elisha 10 + John F 7 + Sarah N 5 + Thomas 2. IMAGE SEEN REJECT. C1551
+Compiled (Debra Rigdon USGW): Samuel 37 x Sarah (386B/387A); James 37 x Mary Ann (389A); John D 48 x Manerva Jane (380B). All REJECT. C1552
+Fleming 395A original residual (n0550 is stamped 385). Dist 1 Newman originals closed. C1553
+No free William x Rhoda license. mytrees 1845 unused. Parents still PROBABLE. 1860 Rhoda widow + B.F. 7 PROVEN. #28 stands. Abner n0092 POSSIBLE only. C1554 C1555
+GT Lee WWI LIVE 452540 Luther Brandenburg + Underwood only. C1556
+FS 1146342/127913/156057 SPA ~19KB isLoggedIn (R011-65). Images unread. USGenNet wills LIVE no Samuel P. IA Solr M1509 0. C1557
+FAQ 9938 LIVE cards 228-229. No free June 1958 clip. C1558
+IA 602 still 515 (pass123 metadata). One line. C1559
+Grant 21 not merged. B084 POSSIBLE Jr only. No new McCoy. Do not print 1966 or 1962. No 33-12/33-13. Phones not re-asked. C1560
+Variants cats 1-4: William Newnam/Newman/Newnarn/Numan/Newnom; Rhoda Tincher/Tinchir/Fincher/Tinker; OCR Newman/newnam/newnarn/newan; Soundex N550 T526 S350.

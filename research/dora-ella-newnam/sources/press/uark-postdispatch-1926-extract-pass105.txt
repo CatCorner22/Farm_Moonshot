@@ -1,0 +1,30 @@
+University of Arkansas Libraries — Arkansas Newspapers on Microfilm
+Google Sheet https://docs.google.com/spreadsheets/d/1xrclpjr4KNZW57JrlmGrYbrDDeZrWy86v7Gw-CjUY3c/export?format=csv
+Local: uark-newspapers-microfilm-sheet-pass105.csv (1,024 rows)
+Captured 31 Oct 2026. Columns: Title, Uniform Title, County, City, Primary Call Number, Additional Call Number(s), OCLC #, Lib Has, Alma MMS ID
+
+HIT — Aug 1926 weekly:
+  Title: Dardanelle post=dispatch.
+  County: Yell
+  City: Dardanelle
+  Primary Call Number: Microfilm F419.D37 D3
+  OCLC #: 19026544
+  Lib Has: PER: Scattered issues wanting. Microfilm=<1904:9:8-1905:2:23> <1907:8:8-1910:3:24> <1910:7:7-1955:3:31> <1955:6:23-12:29> <1956:5:3-1960:12:29>
+  August 1926 falls inside <1910:7:7-1955:3:31>. Film unread.
+
+CONFIRM — no 1926 Democrat at UArk:
+  Title: The Danville Democrat. (Danville, Ark. : 1899)
+  County: Yell  City: Danville
+  Call: Film 370 Reel 5  OCLC 19026460
+  Lib Has: PER: Filmed with the Atkins Chronicle. Microfilm=<1915:7:15>
+  Matches USNP SN89051010 (C1173). No 1926 Democrat.
+
+REJECT as Aug 1926 Dora-death path:
+  Title: The Rural record.  City: Magazine Mountain  County: Yell
+  Call: Film 1260 Reel 9  OCLC 21025519
+  Lib Has: PER: Microfilm=<1926:6:17>
+  One June 1926 issue only — not 23 Aug 1926.
+
+Libguide https://libguides.uark.edu/newspapers/arkansas :
+  Mullins Renovation Phase 2 — all microforms moved to remote locations.
+  Working spreadsheet is the holdings list.

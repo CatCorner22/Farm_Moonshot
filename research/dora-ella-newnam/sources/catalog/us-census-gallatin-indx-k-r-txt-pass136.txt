@@ -1,0 +1,1186 @@
+Gallatin, KY 1850 Federal Census     (INDEX - File 3 of 4)
+
+This Census was transcribed by Sandra E. Ward and proofread by Virginia E. Dezell
+for the USGenWeb Census Project, http://www.us-census.org/
+
+Copyright 2002 by Sandra E. Ward
+<Transcriber@US-Census.org>
+
+==========================================================================
+USGENWEB (US-CENSUS) NOTICE: These electronic pages may NOT be reproduced 
+in any format for profit or presentation by any other organization. 
+Non-commercial organizations desiring to use this material must obtain
+the consent of the transcriber prior to use.  <Transcriber@US-Census.org>
+Individuals desiring to use this material in their own research may do so. 
+==========================================================================
+Formatted by USGenWeb Census Project File Manager, Connie Burkett
+All of the above information must remain when copied or downloaded.
+==========================================================================
+
+THIS IS AN INDEX SORTED BY NAME.
+FOR COMPLETE CENSUS INFORMATION, OPEN THE FILE NAME FOR THAT LINE.
+ftp://ftp.us-census.org/pub/usgenweb/census/ky/gallatin/1850/
+
+=============================================================================
+Pg#  Ln#  Last Name      First Name       Age   Birth Place       Filename
+=============================================================================
+177b  33  Kaydue/Caydue/Hayden Admitta    7     .                 pg0169b.txt
+177b  31  Kaydue/Caydue/Hayden Henrietta  42    .                 pg0169b.txt
+177b  32  Kaydue/Caydue/Hayden William T  20    .                 pg0169b.txt
+159a  38  Kayhill        Thomas           24    Ireland           pg0152a.txt
+166b  29  Keene          Harriet A        6     .                 pg0160b.txt
+166b  25  Keene          John P           43    .                 pg0160b.txt
+166b  30  Keene          John W           4     .                 pg0160b.txt
+166a  35  Keene          Margaret         31    Kentucky          pg0160b.txt
+166a  34  Keene          Margary          64    Maryland          pg0160b.txt
+166b  28  Keene          Martha *         8     .                 pg0160b.txt
+166b  26  Keene          Martha A         36    .                 pg0160b.txt
+171a  33  Keene          Martha E         3     .                 pg0169b.txt
+166b  27  Keene          Mary S           10    .                 pg0160b.txt
+166b  31  Keene          Wallace W        2     .                 pg0160b.txt
+166a  33  Keene          William H.       27    .                 pg0160b.txt
+199b  3   Keep           Elizabeth        16    .                 pg0195b.txt
+199a  37  Keep           Frances          33    Kentucky          pg0195b.txt
+199a  42  Keep           George           23    .                 pg0195b.txt
+199b  4   Keep           Heulda           14    .                 pg0195b.txt
+199b  1   Keep           John             19    Indiana           pg0195b.txt
+199a  39  Keep           Louiza           6/12  Kentucky          pg0195b.txt
+199a  41  Keep           Lydia            50    .                 pg0195b.txt
+199a  38  Keep           Mary *           18    Indiana           pg0195b.txt
+199b  2   Keep           Sarah            18    .                 pg0195b.txt
+199b  5   Keep           Victoria         9     .                 pg0195b.txt
+199a  40  Keep           William          55    .                 pg0195b.txt
+192a  24  Kelly          Caroline         22    .                 pg0186b.txt
+173b  26  Kelly          Michael          40    Kentucky          pg0169b.txt
+174b  8   Kelly          Michael          22    .                 pg0169b.txt
+177a  18  Kelly          Sally            58    Virginia          pg0169b.txt
+158a  39  Kemper         Alfred           28    .                 pg0152a.txt
+160a  31  Kemper         Catherina        14    .                 pg0152a.txt
+160a  33  Kemper         David C          10    .                 pg0152a.txt
+160a  32  Kemper         Dewitt C         12    .                 pg0152a.txt
+160a  29  Kemper         Frances          35    .                 pg0152a.txt
+158a  42  Kemper         John Bruce       12    .                 pg0152a.txt
+160a  36  Kemper         Lucy J           1     .                 pg0152a.txt
+160a  34  Kemper         Narcissa S       7     .                 pg0152a.txt
+160a  28  Kemper         Nathan M         40    .                 pg0152a.txt
+160a  35  Kemper         Pamilia C        5     .                 pg0152a.txt
+160a  30  Kemper         Polly A          16    .                 pg0152a.txt
+158a  41  Kemper         Sarah F          1     .                 pg0152a.txt
+158a  40  Kemper         Zerilda          22    .                 pg0152a.txt
+162b  31  Ken**          Catherine        60    New York          pg0160b.txt
+195a  5   Kennedy        Ann              51    .                 pg0186b.txt
+195a  7   Kennedy        John A           21    .                 pg0186b.txt
+195a  8   Kennedy        Joseph A         20    .                 pg0186b.txt
+195a  6   Kennedy        Margarett        23    .                 pg0186b.txt
+195a  10  Kennedy        Robert           15    .                 pg0186b.txt
+195a  4   Kennedy        William          51    .                 pg0186b.txt
+201b  6   Kennedy        William          20    .                 pg0195b.txt
+195a  9   Kennedy        William          18    .                 pg0186b.txt
+195a  15  Kennedy Jr     James W          10    .                 pg0186b.txt
+195a  16  Kennedy Jr     John G           8     .                 pg0186b.txt
+195a  14  Kennedy Jr     Mary H           11    .                 pg0186b.txt
+195a  18  Kennedy Jr     Matilda *        22    .                 pg0186b.txt
+195a  17  Kennedy Jr     Sarah            5     .                 pg0186b.txt
+195a  13  Kennedy Jr     William          37    .                 pg0186b.txt
+203a  34  Keppenberger   Catherine        7     .                 pg0195b.txt
+203a  41  Keppenberger   Elizabeth        6     Germany           pg0195b.txt
+203a  36  Keppenberger   Elizabeth        1     .                 pg0195b.txt
+203a  37  Keppenberger   Jacob            40    Germany           pg0195b.txt
+203a  40  Keppenberger   Kathulen         7     Germany           pg0195b.txt
+203a  33  Keppenberger   Lainey           8     Illinois          pg0195b.txt
+203a  38  Keppenberger   Louna            40    Germany           pg0195b.txt
+203a  39  Keppenberger   Marion           8     Germany           pg0195b.txt
+203a  35  Keppenberger   Mary             3     Kentucky          pg0195b.txt
+203a  32  Keppenberger   Mary             29    .                 pg0195b.txt
+203a  31  Keppenberger   Philip           34    Germany           pg0195b.txt
+176a  27  Kidwell        Eliza A          18    .                 pg0169b.txt
+193a  11  Kidwell        Elizabeth        20    .                 pg0186b.txt
+176a  28  Kidwell        James G          16    .                 pg0169b.txt
+193a  13  Kidwell        John T           6/12  .                 pg0186b.txt
+176a  29  Kidwell        Mary W           10    .                 pg0169b.txt
+176a  26  Kidwell        Sarah            51    .                 pg0169b.txt
+176a  25  Kidwell        Truman           60    .                 pg0169b.txt
+193a  10  Kidwell        William          20    .                 pg0186b.txt
+193a  12  Kidwell        William S        2     .                 pg0186b.txt
+156a  24  King           Sarah M          42    .                 pg0152a.txt
+177a  6   Kinkord/Kinhood William         34    .                 pg0169b.txt
+178a  20  Kirby          Ann W            3     .                 pg0178a.txt
+176b  36  Kirby          Catherine        20    .                 pg0169b.txt
+176b  33  Kirby          Delilah          50    .                 pg0169b.txt
+178a  17  Kirby          Eliza            35    Virginia          pg0178a.txt
+176b  37  Kirby          Elizabeth        18    .                 pg0169b.txt
+176b  32  Kirby          Enoch            50    .                 pg0169b.txt
+178a  21  Kirby          Enoch H          1     .                 pg0178a.txt
+178a  18  Kirby          John R           10    Kentucky          pg0178a.txt
+176b  35  Kirby          John W           28    .                 pg0169b.txt
+176b  38  Kirby          Joseph           18    .                 pg0169b.txt
+178a  19  Kirby          Nathaniel        7     .                 pg0178a.txt
+178a  16  Kirby          William          49    .                 pg0178a.txt
+176b  34  Kirby          Wm               25    .                 pg0169b.txt
+198a  21  Kirk           Catherine F      2     .                 pg0195b.txt
+198a  19  Kirk           Columbus         16    .                 pg0195b.txt
+198a  18  Kirk           Elizabeth        43    Kentucky          pg0195b.txt
+198a  17  Kirk           James            43    .                 pg0195b.txt
+198a  20  Kirk           James H          9     .                 pg0195b.txt
+160a  21  Kix            Alfred           35    .                 pg0152a.txt
+160a  22  Kix            Frances          35    .                 pg0152a.txt
+160a  26  Kix            Pleasant         4     .                 pg0152a.txt
+160a  24  Kix            Sarah E          10    .                 pg0152a.txt
+160a  25  Kix            Simeon           4     .                 pg0152a.txt
+160a  23  Kix            William M.       15    .                 pg0152a.txt
+154b  27  Knight         Ann E *          21    New York          pg0152a.txt
+154b  29  Knight         George H         1     Kentucky          pg0152a.txt
+154b  28  Knight         James A.         4     Ohio              pg0152a.txt
+154b  26  Knight         John             26    Indiana           pg0152a.txt
+177a  12  Knox           Cyrus            14    .                 pg0169b.txt
+177a  7   Knox           Drury            34    .                 pg0169b.txt
+177a  14  Knox           John W           6     .                 pg0169b.txt
+177a  10  Knox           Lavina           43    Pennsylvania      pg0169b.txt
+177a  11  Knox           Martha           16    Kentucky          pg0169b.txt
+177a  8   Knox           Mary             31    .                 pg0169b.txt
+177a  13  Knox           Mary E           11    .                 pg0169b.txt
+169a  25  Knox           Milly A          60    .                 pg0160b.txt
+174a  30  Koafa          Daniel           22    .                 pg0169b.txt
+173b  24  Kolpin         Michael          27    .                 pg0169b.txt
+174a  39  Kolpin/Holpin  William          35    .                 pg0169b.txt
+195a  38  Lacker         Catherine        17    .                 pg0186b.txt
+195a  36  Lacker         Lewis            55    .                 pg0186b.txt
+195a  37  Lacker         Sarah            44    .                 pg0186b.txt
+197a  21  Lacy           Franklin         8     Kentucky          pg0195b.txt
+197a  22  Lacy           George A         6     .                 pg0195b.txt
+169a  16  Lade           Mary             50    .                 pg0160b.txt
+203a  21  Laird          Agnes            1     Ohio              pg0195b.txt
+203a  24  Laird          John             25    Kentucky          pg0195b.txt
+203a  22  Laird          Maria            20    Kentucky          pg0195b.txt
+203a  23  Laird          Nancy            52    North Carolina    pg0195b.txt
+203a  20  Laird          Richard          28    .                 pg0195b.txt
+156a  30  Lancy          Robert M         32    .                 pg0152a.txt
+188a  37  Landr****      Abner            19    .                 pg0186b.txt
+188a  38  Landr****      Alfred           13    .                 pg0186b.txt
+188a  35  Landr****      James P          47    .                 pg0186b.txt
+188a  41  Landr****      Lucy B           2     .                 pg0186b.txt
+188a  36  Landr****      Mariah           45    .                 pg0186b.txt
+188a  40  Landr****      Mary F           5     .                 pg0186b.txt
+188a  39  Landr****      William H        11    .                 pg0186b.txt
+191a  25  Landrum        John *           23    .                 pg0186b.txt
+191a  26  Landrum        Susan            19    .                 pg0186b.txt
+152a  25  Landy          C Scott          46    .                 pg0152a.txt
+173b  22  Langin         Patrick          47    Ireland           pg0169b.txt
+188a  11  Langsdale      James            19    .                 pg0186b.txt
+188a  9   Langsdale      Rhoda            52    Kentucky          pg0186b.txt
+188a  8   Langsdale      Robert           60    Maryland          pg0186b.txt
+188a  10  Langsdale      Sarah A          23    .                 pg0186b.txt
+188a  12  Langsdale      Thomas           14    .                 pg0186b.txt
+188a  13  Langsdale      William H. L.    10    .                 pg0186b.txt
+192a  26  Lantz          Nancy            28    .                 pg0186b.txt
+192a  28  Lantz          Philetus         6/12  .                 pg0186b.txt
+192a  27  Lantz          Sarah *          10    .                 pg0186b.txt
+192a  25  Lantz          William          50    Kentucky          pg0186b.txt
+175a  26  Larkin         John             41    .                 pg0169b.txt
+158b  37  Larrison       George           75    New Jersey        pg0152a.txt
+174a  7   Laster/Foster  Martha           12    .                 pg0169b.txt
+157b  41  Lawrence       Agnes            71    Pennsylvania      pg0152a.txt
+157b  40  Lawrence       David            1     .                 pg0152a.txt
+157b  35  Lawrence       John B           .     .                 pg0152a.txt
+157b  39  Lawrence       John Lawrence    3     .                 pg0152a.txt
+157b  37  Lawrence       Maisson          7     .                 pg0152a.txt
+157b  38  Lawrence       Mary             5     .                 pg0152a.txt
+157b  36  Lawrence       Zerilda          26    .                 pg0152a.txt
+197a  17  Leach          Franklin         26    .                 pg0195b.txt
+188a  21  Leachman       Harriet          18    .                 pg0186b.txt
+188a  22  Leachman       Matilda          16    .                 pg0186b.txt
+189b  25  Leary          Amanda J         8     .                 pg0186b.txt
+189b  20  Leary          Henry            35    .                 pg0186b.txt
+189b  24  Leary          John J           10    .                 pg0186b.txt
+189b  23  Leary          Louisiana        12    .                 pg0186b.txt
+189b  22  Leary          Malissa          14    .                 pg0186b.txt
+189a  42  Leary          Mary             16    .                 pg0186b.txt
+189b  21  Leary          Matilda          34    .                 pg0186b.txt
+189a  41  Leary          Susannah         58    .                 pg0186b.txt
+189b  26  Leary          Thomas           4     .                 pg0186b.txt
+189a  40  Leary          Thomas           25    .                 pg0186b.txt
+162a  8   Leathaburg     Abner            25    Indiana           pg0160b.txt
+170b  40  Leathers       Angeline         2     .                 pg0169b.txt
+185b  3   Leathers       Ann              17    .                 pg0178a.txt
+185b  2   Leathers       Eliana           37    .                 pg0178a.txt
+170b  39  Leathers       Franklin         5     .                 pg0169b.txt
+185b  6   Leathers       Harriet          6     .                 pg0178a.txt
+185b  1   Leathers       Joshua           42    Kentucky          pg0178a.txt
+170b  38  Leathers       Matilda          39    .                 pg0169b.txt
+185b  4   Leathers       Nancy            15    .                 pg0178a.txt
+185b  5   Leathers       Stewart          12    .                 pg0178a.txt
+170b  37  Leathers       Thomas W         38    .                 pg0169b.txt
+198b  25  Lee            Amy              17    .                 pg0195b.txt
+198b  21  Lee            Charles          60    New York          pg0195b.txt
+198b  26  Lee            Charles          14    .                 pg0195b.txt
+166a  23  Lee            Charles          12    Indiana           pg0160b.txt
+166a  21  Lee            Elmira           16    Ohio              pg0160b.txt
+198b  27  Lee            Frances          12    .                 pg0195b.txt
+166a  22  Lee            George           14    Ohio              pg0160b.txt
+190a  28  Lee            John W/N         34    .                 pg0186b.txt
+198b  22  Lee            Mary             54    New York          pg0195b.txt
+190a  30  Lee            Mary E           5/12  .                 pg0186b.txt
+198b  28  Lee            Nelson           10    .                 pg0195b.txt
+198b  24  Lee            Rebecca          21    .                 pg0195b.txt
+198b  23  Lee            Sarah            24    Ohio              pg0195b.txt
+190a  29  Lee            Susannah         26    .                 pg0186b.txt
+175a  7   Leil/Till/Tiel William          26    .                 pg0169b.txt
+172b  1   Lemaster       Anderson         37    Kentucky          pg0169b.txt
+172b  3   Lemaster       George W         20    .                 pg0169b.txt
+172b  5   Lemaster       James W          3     .                 pg0169b.txt
+172b  2   Lemaster       Jane             32    .                 pg0169b.txt
+172b  4   Lemaster       Margarett        16    .                 pg0169b.txt
+159a  19  Lemaster       Robert           21    .                 pg0152a.txt
+159a  20  Lemaster       Sarah E          18    .                 pg0152a.txt
+166a  5   Levile         John             21    .                 pg0160b.txt
+154b  16  Levill/Levile  Agnes            41    .                 pg0152a.txt
+154b  19  Levill/Levile  Anderson         9     .                 pg0152a.txt
+154b  21  Levill/Levile  Emily J          3     .                 pg0152a.txt
+154b  15  Levill/Levile  James            43    .                 pg0152a.txt
+154b  20  Levill/Levile  Mary J           7     .                 pg0152a.txt
+154b  18  Levill/Levile  Robert           11    .                 pg0152a.txt
+154b  17  Levill/Levile  Thomas           13    .                 pg0152a.txt
+186a  42  Lewis          Alexander        10    .                 pg0178a.txt
+190a  15  Lewis          Amanda           11    .                 pg0186b.txt
+190a  14  Lewis          Elija            18    Kentucky          pg0186b.txt
+190a  16  Lewis          Margarett        9     .                 pg0186b.txt
+186b  15  Lilley         Abram P          16    .                 pg0186b.txt
+186b  13  Lilley         George L         40    .                 pg0186b.txt
+186b  20  Lilley         George L         1     .                 pg0186b.txt
+186b  17  Lilley         Hannah J         11    .                 pg0186b.txt
+186b  19  Lilley         John A           8     .                 pg0186b.txt
+186b  14  Lilley         Rebecca          38    .                 pg0186b.txt
+186b  16  Lilley         Sarah A          13    .                 pg0186b.txt
+186b  18  Lilley         William O        9     .                 pg0186b.txt
+188b  37  Lilliard       David            67    Virginia          pg0186b.txt
+163b  9   Lilliard       David E          2     .                 pg0160b.txt
+163b  2   Lilliard       George Ann       33    .                 pg0160b.txt
+163b  8   Lilliard       George H         4     .                 pg0160b.txt
+163b  4   Lilliard       Jeramiah D       16    .                 pg0160b.txt
+163b  3   Lilliard       John             18    Indiana           pg0160b.txt
+163b  7   Lilliard       Joseph           10    .                 pg0160b.txt
+163b  1   Lilliard       Joseph S         46    Kentucky          pg0160b.txt
+188b  38  Lilliard       Nancy            68    Virginia          pg0186b.txt
+163b  6   Lilliard       Pemelius C       12    Kentucky          pg0160b.txt
+163b  5   Lilliard       Thomas           14    .                 pg0160b.txt
+184a  7   Lilly          Amanda           4     .                 pg0178a.txt
+184a  4   Lilly          Cornelia         12    Kentucky          pg0178a.txt
+172a  23  Lilly          David            28    .                 pg0169b.txt
+184a  3   Lilly          Elie             14    .                 pg0178a.txt
+164a  34  Lilly          Elizabeth        63    Virginia          pg0160b.txt
+184a  2   Lilly          Elizabeth        27    .                 pg0178a.txt
+172b  17  Lilly          Frances B        2     .                 pg0169b.txt
+184a  1   Lilly          Gustavus         35    Maryland          pg0178a.txt
+172a  27  Lilly          Henry F          6/12  Ireland           pg0169b.txt
+172b  13  Lilly          Hyram P          12    .                 pg0169b.txt
+184a  6   Lilly          James E          6     .                 pg0178a.txt
+172b  16  Lilly          James G          6     .                 pg0169b.txt
+172a  26  Lilly          James N          2     .                 pg0169b.txt
+172b  14  Lilly          Lucinda          10    .                 pg0169b.txt
+172a  24  Lilly          Lucy A           24    .                 pg0169b.txt
+172a  25  Lilly          Martha P/J       4     .                 pg0169b.txt
+172b  12  Lilly          Mary             40    .                 pg0169b.txt
+184a  8   Lilly          Minerva          2     .                 pg0178a.txt
+164a  33  Lilly          Thomas           74    Virginia          pg0160b.txt
+184a  5   Lilly          Wesleyannah      10    .                 pg0178a.txt
+172b  11  Lilly          William          38    .                 pg0169b.txt
+172b  15  Lilly          Wm F             8     .                 pg0169b.txt
+192b  7   Lindsey        Almeda           12    .                 pg0186b.txt
+192b  8   Lindsey        Almira           10    .                 pg0186b.txt
+173a  16  Lindsey        Amos             1     Kentucky          pg0169b.txt
+193a  27  Lindsey        Ann E            9     .                 pg0186b.txt
+193a  30  Lindsey        Annita           2     .                 pg0186b.txt
+193a  24  Lindsey        Charles          43    .                 pg0186b.txt
+192b  3   Lindsey        Edwin C          24    .                 pg0186b.txt
+192b  4   Lindsey        George N         17    .                 pg0186b.txt
+181a  23  Lindsey        Henry            5     .                 pg0178a.txt
+192b  5   Lindsey        John V           16    .                 pg0186b.txt
+192b  1   Lindsey        John W           47    Kentucky          pg0186b.txt
+188b  5   Lindsey        Johnson C        4     .                 pg0186b.txt
+193a  28  Lindsey        Leander          7     .                 pg0186b.txt
+173a  15  Lindsey        Maria            4     .                 pg0169b.txt
+192b  2   Lindsey        Mariah           45    .                 pg0186b.txt
+192b  9   Lindsey        Marshall         4     .                 pg0186b.txt
+188b  3   Lindsey        Martha A         24    .                 pg0186b.txt
+190b  42  Lindsey        Mary             3/12  .                 pg0186b.txt
+193a  29  Lindsey        Mary E           4     .                 pg0186b.txt
+173a  14  Lindsey        Matilda P        8     Indiana           pg0169b.txt
+193a  25  Lindsey        Minerva          39    .                 pg0186b.txt
+173a  13  Lindsey        Nancy A          27    Kentucky          pg0169b.txt
+188b  2   Lindsey        Nicholas         45    .                 pg0186b.txt
+188b  6   Lindsey        Nicholas T       1     .                 pg0186b.txt
+181a  22  Lindsey        Rachel           29    .                 pg0178a.txt
+190b  41  Lindsey        Sarah            18    .                 pg0186b.txt
+192b  6   Lindsey        Thomas *         7     .                 pg0186b.txt
+188b  7   Lindsey        Vacheal          83    Maryland          pg0186b.txt
+188b  4   Lindsey        Vacheal T        6     .                 pg0186b.txt
+193a  26  Lindsey        William          11    .                 pg0186b.txt
+173a  12  Lindsey        William C        35    Indiana           pg0169b.txt
+190b  40  Lindsey        William T/J      23    .                 pg0186b.txt
+172a  16  Literal        Cornelius P      7     .                 pg0169b.txt
+166a  9   Literal        Elizabeth        32    .                 pg0160b.txt
+172b  18  Literal        George           70    Virginia          pg0169b.txt
+154b  11  Literal        George           26    .                 pg0152a.txt
+172a  13  Literal        Harriet          40    .                 pg0169b.txt
+166a  10  Literal        John             11    .                 pg0160b.txt
+172a  17  Literal        Martha J/P       5     .                 pg0169b.txt
+172a  15  Literal        Mary S           9     .                 pg0169b.txt
+172b  19  Literal        Nancy            64    .                 pg0169b.txt
+154b  12  Literal        Nancy            27    .                 pg0152a.txt
+154b  14  Literal        Nancy R          2     .                 pg0152a.txt
+154b  13  Literal        Sarah E          7     .                 pg0152a.txt
+172a  14  Literal        Sarah E          11    .                 pg0169b.txt
+166a  11  Literal        Sarah E.         1     .                 pg0160b.txt
+172a  12  Literal        William          40    .                 pg0169b.txt
+202b  11  Littlejohn     Elizabeth        20    Virginia          pg0195b.txt
+202b  12  Littlejohn     James M          1     Kentucky          pg0195b.txt
+202b  10  Littlejohn     John             24    Indiana           pg0195b.txt
+154b  35  Long           Edward           20    .                 pg0152a.txt
+154b  34  Long           Edward           2     .                 pg0152a.txt
+154b  33  Long           Elizabeth        4     .                 pg0152a.txt
+154b  36  Long           Felicia          22    .                 pg0152a.txt
+154b  30  Long           John             30    .                 pg0152a.txt
+154b  31  Long           Judith           27    .                 pg0152a.txt
+154b  32  Long           William          5     .                 pg0152a.txt
+175a  10  Luby           Patrick          25    .                 pg0169b.txt
+191a  39  Lucas          Elizabeth        13    .                 pg0186b.txt
+200b  20  Lucas          Eveline          20    .                 pg0195b.txt
+200b  19  Lucas          George           23    Indiana           pg0195b.txt
+191a  37  Lucas          Jane             16    .                 pg0186b.txt
+200b  21  Lucas          Louiza           6/12  Kentucky          pg0195b.txt
+191a  38  Lucas          Mariah           15    .                 pg0186b.txt
+191a  35  Lucas          Nanoah           21    .                 pg0186b.txt
+191a  36  Lucas          Richard          19    .                 pg0186b.txt
+191a  33  Lucas          Sarah            45    .                 pg0186b.txt
+191a  40  Lucas          Squire L         7     .                 pg0186b.txt
+191a  34  Lucas          Stephen          25    Indiana           pg0186b.txt
+159b  28  Lusby          Artimesia        5     .                 pg0152a.txt
+159b  26  Lusby          Artimesia        33    .                 pg0152a.txt
+159b  29  Lusby          Thomas *         2     .                 pg0152a.txt
+159b  25  Lusby          Thomas Jeff      34    Kentucky          pg0152a.txt
+159b  27  Lusby          William *        8     .                 pg0152a.txt
+163a  36  Lusf***        Thomas J         26    .                 pg0160b.txt
+170a  29  Luskin         Frances M        11    .                 pg0169b.txt
+170a  27  Luskin         Jh O             42    Virginia          pg0169b.txt
+170a  28  Luskin         Mary E           30    Kentucky          pg0169b.txt
+170a  30  Luskin         Percival B       9     .                 pg0169b.txt
+170a  34  Luskin         Philip           6/12  .                 pg0169b.txt
+170a  32  Luskin         Sarah H          5     .                 pg0169b.txt
+170a  33  Luskin         Thomas *         3     .                 pg0169b.txt
+170a  31  Luskin         Virannah A       7     .                 pg0169b.txt
+171a  39  Luskin/Lumpkin Horatio H        35    Virginia          pg0169b.txt
+171a  40  Luskin/Lumpkin Mildred J        29    """"              pg0169b.txt
+175a  2   Lynch          Eliza W          35    .                 pg0169b.txt
+174b  34  Lynch          Frances          27    England           pg0169b.txt
+175a  3   Lynch          Mary             13    .                 pg0169b.txt
+174b  33  Lynch          Patrick          37    Indiana           pg0169b.txt
+175a  1   Lynch          Timothy          55    .                 pg0169b.txt
+154a  25  MacKay         William H.       20    .                 pg0152a.txt
+174b  35  Mahan          Timothy          13    England           pg0169b.txt
+178b  7   Mall           Agnes            13    .                 pg0178a.txt
+178b  6   Mall           Ann B            15    .                 pg0178a.txt
+178b  11  Mall           Elijah L         5     .                 pg0178a.txt
+178b  9   Mall           Martha A         7     .                 pg0178a.txt
+178b  10  Mall           Mary A           7     .                 pg0178a.txt
+178b  5   Mall           Pritchard        19    .                 pg0178a.txt
+178b  8   Mall           Sarah E          9     .                 pg0178a.txt
+178b  12  Mall           Wm O             2     .                 pg0178a.txt
+177b  22  Markham        Elizabeth        20    .                 pg0169b.txt
+176a  4   Markham        John             80    Ohio              pg0169b.txt
+176a  5   Markham        Sarah            41    Virginia          pg0169b.txt
+177b  21  Markham        William M        25    .                 pg0169b.txt
+163b  30  Marsh          Amanda A         1     .                 pg0160b.txt
+163b  31  Marsh          Feilding         32    Indiana           pg0160b.txt
+163b  27  Marsh          Mariah           23    .                 pg0160b.txt
+166a  14  Marsh          Mary L           63    Virginia          pg0160b.txt
+163b  28  Marsh          Mary S           5     .                 pg0160b.txt
+163b  29  Marsh          Theodore         3     .                 pg0160b.txt
+186b  12  Marsh          William          64    .                 pg0186b.txt
+163b  26  Marsh          William B        29    .                 pg0160b.txt
+166a  13  Marsh          William Sr.      74    Virginia          pg0160b.txt
+168b  4   Martin         David E          5/12  .                 pg0160b.txt
+168b  2   Martin         Delilah          21    .                 pg0160b.txt
+168b  1   Martin         Edmund           27    Kentucky          pg0160b.txt
+171b  10  Martin         Elizabeth A      5     .                 pg0169b.txt
+171b  7   Martin         George           11    Indiana           pg0169b.txt
+171b  8   Martin         John             9     Kentucky          pg0169b.txt
+168b  3   Martin         John             2     .                 pg0160b.txt
+171b  3   Martin         Joseph F         23    .                 pg0169b.txt
+171b  5   Martin         Marshall         16    .                 pg0169b.txt
+171b  6   Martin         Nancy            14    .                 pg0169b.txt
+171b  2   Martin         Polly A          46    .                 pg0169b.txt
+171b  4   Martin         Rachel A         22    .                 pg0169b.txt
+171b  9   Martin         William          7     .                 pg0169b.txt
+171b  1   Martin         William N/William W 51 Tennessee         pg0169b.txt
+195a  25  Matthews       America          11    .                 pg0186b.txt
+200a  6   Matthews       Arabella         3     .                 pg0195b.txt
+195a  27  Matthews       Benjamin         5     .                 pg0186b.txt
+200a  2   Matthews       Eliza            37    .                 pg0195b.txt
+200a  1   Matthews       George           47    Kentucky          pg0195b.txt
+200a  4   Matthews       Harriet          8     .                 pg0195b.txt
+200a  5   Matthews       James            7     .                 pg0195b.txt
+195a  24  Matthews       James            13    .                 pg0186b.txt
+195a  19  Matthews       John G           44    .                 pg0186b.txt
+195a  26  Matthews       Joseph           9     .                 pg0186b.txt
+195a  23  Matthews       Malvina          17    .                 pg0186b.txt
+200a  3   Matthews       Malvina          12    .                 pg0195b.txt
+195a  22  Matthews       Margarett        20    .                 pg0186b.txt
+195a  21  Matthews       Martha           21    .                 pg0186b.txt
+195a  20  Matthews       Mary             43    .                 pg0186b.txt
+174a  38  Mayhew/Mayhan  Patrick          24    .                 pg0169b.txt
+168a  13  McCann         James            24    .                 pg0160b.txt
+168a  17  McCann         John Davis       12    .                 pg0160b.txt
+168a  15  McCann         Joseph W         3     .                 pg0160b.txt
+168a  14  McCann         Mary A           22    .                 pg0160b.txt
+168a  16  McCann         Mary E           1     .                 pg0160b.txt
+175a  8   McCarty        Jeremy           22    .                 pg0169b.txt
+197b  17  McCaudless     Cordelia F       1     .                 pg0195b.txt
+197b  12  McCaudless     David N          13    .                 pg0195b.txt
+197b  15  McCaudless     Elizabeth *      8     .                 pg0195b.txt
+197b  9   McCaudless     George           47    .                 pg0195b.txt
+197b  14  McCaudless     George *         10    .                 pg0195b.txt
+197b  11  McCaudless     James A          15    .                 pg0195b.txt
+197b  10  McCaudless     Margarett A      37    .                 pg0195b.txt
+197b  13  McCaudless     Robert *         12    .                 pg0195b.txt
+197b  16  McCaudless     Thomas M         3     .                 pg0195b.txt
+153b  10  McClure        Allice           13    .                 pg0152a.txt
+195a  11  McClure        Elizabeth M      13    .                 pg0186b.txt
+153b  9   McClure        Rachel A         32    .                 pg0152a.txt
+153b  8   McClure        Virgil           42    .                 pg0152a.txt
+175a  13  McCook         Andrew           36    .                 pg0169b.txt
+157a  18  McCoy          James *.         3     .                 pg0152a.txt
+157a  16  McCoy          James H          31    .                 pg0152a.txt
+157a  17  McCoy          Mahala           23    .                 pg0152a.txt
+155a  12  McCracken      Sarah            20    .                 pg0152a.txt
+175a  9   McCune         Patrick          21    .                 pg0169b.txt
+154b  23  McDanell       Arena            26    .                 pg0152a.txt
+154b  22  McDanell       James H          27    .                 pg0152a.txt
+154b  24  McDanell       John             1     .                 pg0152a.txt
+154b  25  McDanell       John M           19    .                 pg0152a.txt
+178a  1   McDanell/McDaniel John          55    Kentucky          pg0178a.txt
+178a  7   McDanell/McDaniel John W        19    .                 pg0178a.txt
+178a  5   McDanell/McDaniel Margarett A   14    .                 pg0178a.txt
+178a  2   McDanell/McDaniel Sarah         48    .                 pg0178a.txt
+178a  6   McDanell/McDaniel Sarah K       4     .                 pg0178a.txt
+178a  3   McDanell/McDaniel Solomon       24    .                 pg0178a.txt
+178a  4   McDanell/McDaniel William       17    .                 pg0178a.txt
+192b  39  McDaniel       Amanda           20    Indiana           pg0186b.txt
+163a  24  McGinnis       Ellen E          18    .                 pg0160b.txt
+196a  32  McGinnis       Jane             38    .                 pg0195b.txt
+174b  39  McGinnis       John T           5     .                 pg0169b.txt
+174b  37  McGinnis       Lucinda          24    Kentucky          pg0169b.txt
+174b  36  McGinnis       Samuel           32    .                 pg0169b.txt
+174b  38  McGinnis       Sarah P          7     .                 pg0169b.txt
+196a  31  McGinnis       Uriah M          38    .                 pg0195b.txt
+174b  40  McGinnis       Uriah W          2     .                 pg0169b.txt
+200a  19  McGlasson      Benjamin         32    .                 pg0195b.txt
+200a  21  McGlasson      Frank B          3     Kentucky          pg0195b.txt
+200a  20  McGlasson      Sarah            28    Pennsylvania      pg0195b.txt
+153a  39  McHattan       Francis Ellen    3/12  .                 pg0152a.txt
+153a  37  McHattan       James S.         26    .                 pg0152a.txt
+153a  38  McHattan       Tammy            21    .                 pg0152a.txt
+193a  18  McKitrick      Elizabeth        13    .                 pg0186b.txt
+193a  17  McKitrick      Frances M        15    .                 pg0186b.txt
+193a  19  McKitrick      James            11    .                 pg0186b.txt
+193a  23  McKitrick      Mary F           2     Kentucky          pg0186b.txt
+193a  21  McKitrick      Nancy *          7     .                 pg0186b.txt
+193a  20  McKitrick      Oliver           9     .                 pg0186b.txt
+193a  22  McKitrick      Samuel           4     .                 pg0186b.txt
+193a  14  McKitrick      William          39    .                 pg0186b.txt
+193a  16  McKitrick      William C        17    .                 pg0186b.txt
+193a  15  McKitrick      Zerilda          37    Indiana           pg0186b.txt
+204a  40  McMann         Henry            26    Ireland           pg0195b.txt
+188a  42  McMillan       Joseph           30    .                 pg0186b.txt
+171b  20  McPherson      Janet            61    Kentucky          pg0169b.txt
+171b  23  McPherson      Margarett        21    .                 pg0169b.txt
+171b  22  McPherson      Martha           24    .                 pg0169b.txt
+171b  19  McPherson      Robert           61    Pennsylvania      pg0169b.txt
+171b  24  McPherson      Robert N         22    .                 pg0169b.txt
+171b  25  McPherson      Sarah A          19    .                 pg0169b.txt
+171b  26  McPherson      Thomas           9     .                 pg0169b.txt
+171b  21  McPherson      Thomas           34    .                 pg0169b.txt
+167b  30  McR**ry        David            7     Kentucky          pg0160b.txt
+167b  31  McR**ry        Malinda          5     Missouri          pg0160b.txt
+167b  28  McR**ry        Nancy            28    .                 pg0160b.txt
+167b  29  McR**ry        Sarah            9     Indiana           pg0160b.txt
+167b  32  McR**ry        Thomas           2     Kentucky          pg0160b.txt
+167b  27  McR**ry        William          29    .                 pg0160b.txt
+156b  42  Menin          James            12    .                 pg0152a.txt
+200a  42  Meredith       Charles          10    .                 pg0195b.txt
+200a  41  Meredith       James            16    Indiana           pg0195b.txt
+193b  5   Merrill        Edward S         18    .                 pg0186b.txt
+193b  3   Merrill        John             16    Kentucky          pg0186b.txt
+193b  1   Merrill        John M           60    South Carolina    pg0186b.txt
+193b  2   Merrill        Mildred          60    Virginia          pg0186b.txt
+193b  4   Merrill        Sophia           13    .                 pg0186b.txt
+152b  26  Messick        Caroline         28    .                 pg0152a.txt
+177a  3   Messick        George           64    Virginia          pg0169b.txt
+152b  27  Messick        Louisian         9     .                 pg0152a.txt
+152b  29  Messick        Lutz             1     .                 pg0152a.txt
+152b  28  Messick        Maryann          8     .                 pg0152a.txt
+177a  4   Messick        N.N.             70    Delaware          pg0169b.txt
+177a  5   Messick        Robert           29    Kentucky          pg0169b.txt
+152b  25  Messick        William R        37    .                 pg0152a.txt
+184a  9   Michael        John             36    .                 pg0178a.txt
+190b  31  Michael        Mary A           27    .                 pg0186b.txt
+190b  32  Michael        Sarah B          5     .                 pg0186b.txt
+199b  23  Miles          Jane             26    .                 pg0195b.txt
+199b  25  Miles          John             3     Kentucky          pg0195b.txt
+199b  22  Miles          John             29    Virginia          pg0195b.txt
+199b  27  Miles          Malinda          16    Virginia          pg0195b.txt
+199b  26  Miles          Martha E         1     .                 pg0195b.txt
+199b  24  Miles          William          8     .                 pg0195b.txt
+200b  26  Miles          William          18    Virginia          pg0195b.txt
+200a  31  Miles          William          18    Kentucky          pg0195b.txt
+204b  14  Miller         Arabella         4     Pennsylvania      pg0195b.txt
+184b  37  Miller         Bird E           12    .                 pg0178a.txt
+204b  13  Miller         David            20    Pennsylvania      pg0195b.txt
+184b  41  Miller         Emily            4     .                 pg0178a.txt
+194a  32  Miller         Hannah           18    Indiana           pg0186b.txt
+194a  31  Miller         Harrison         30    .                 pg0186b.txt
+201a  22  Miller         Jackson          19    .                 pg0195b.txt
+184b  38  Miller         Jacob            10    .                 pg0178a.txt
+201a  21  Miller         James            43    Indiana           pg0195b.txt
+184b  36  Miller         Jane             14    .                 pg0178a.txt
+204b  11  Miller         John             47    Pennsylvania      pg0195b.txt
+184b  42  Miller         John W           2     .                 pg0178a.txt
+184b  40  Miller         Joseph           6     .                 pg0178a.txt
+184b  32  Miller         Joseph           46    """"              pg0178a.txt
+184b  35  Miller         Martha           16    .                 pg0178a.txt
+204b  12  Miller         Mary             46    Pennsylvania      pg0195b.txt
+184b  33  Miller         Sarah            44    """"              pg0178a.txt
+184b  39  Miller         Susannah         8     .                 pg0178a.txt
+184b  34  Miller         William          18    Kentucky          pg0178a.txt
+191b  17  Millihan       John B           10    .                 pg0186b.txt
+191b  14  Millihan       John D           35    Delaware          pg0186b.txt
+191b  15  Millihan       Mary A           23    Kentucky          pg0186b.txt
+191b  18  Millihan       Samuel           8     Ohio              pg0186b.txt
+191b  16  Millihan       William H        12    .                 pg0186b.txt
+203a  42  Ming           Jacob            25    Germany           pg0195b.txt
+173b  25  Monks          Nicholas         44    .                 pg0169b.txt
+173b  20  Monteith       Jane             30    Kentucky          pg0169b.txt
+173b  19  Monteith       John             34    Virginia          pg0169b.txt
+173b  21  Monteith       Martha           7/12  .                 pg0169b.txt
+165b  13  Montgomery     Alethia          3     .                 pg0160b.txt
+165b  12  Montgomery     Amanda           6     .                 pg0160b.txt
+168a  8   Montgomery     Andrew           8     .                 pg0160b.txt
+162a  22  Montgomery     Eliza J          2     .                 pg0160b.txt
+165b  9   Montgomery     Elizabeth        28    .                 pg0160b.txt
+168a  6   Montgomery     Elizabeth        13    .                 pg0160b.txt
+165b  10  Montgomery     Ellen            9     .                 pg0160b.txt
+168a  5   Montgomery     Emeline          18    .                 pg0160b.txt
+168a  12  Montgomery     George           16    Kentucky          pg0160b.txt
+168a  7   Montgomery     Henry            11    .                 pg0160b.txt
+162a  19  Montgomery     Hugh             30    .                 pg0160b.txt
+168a  10  Montgomery     James            8/12  .                 pg0160b.txt
+168a  1   Montgomery     John             48    Kentucky          pg0160b.txt
+165b  14  Montgomery     John W           6/12  .                 pg0160b.txt
+168a  3   Montgomery     Lee              23    .                 pg0160b.txt
+165b  11  Montgomery     Mary *           8     .                 pg0160b.txt
+162a  20  Montgomery     Mary A           27    .                 pg0160b.txt
+162a  23  Montgomery     Nancy            1     .                 pg0160b.txt
+168a  2   Montgomery     Ruilla           23    .                 pg0160b.txt
+165b  7   Montgomery     Sally            63    .                 pg0160b.txt
+168a  9   Montgomery     Samuel           2     .                 pg0160b.txt
+162a  21  Montgomery     Sarah E          5     .                 pg0160b.txt
+168a  4   Montgomery     Thomas *         21    .                 pg0160b.txt
+165b  8   Montgomery     William          32    .                 pg0160b.txt
+154a  10  Moone          John W.          18    .                 pg0152a.txt
+203a  8   Moore          America          9     .                 pg0195b.txt
+196a  10  Moore          Ann              65    .                 pg0195b.txt
+197b  29  Moore          Ann              60    Virginia          pg0195b.txt
+164a  26  Moore          Benjamin F       23    .                 pg0160b.txt
+203a  10  Moore          Catherine        3     .                 pg0195b.txt
+203a  1   Moore          Edwin P          55    Virginia          pg0195b.txt
+202b  3   Moore          Elizabeth        47    .                 pg0195b.txt
+203a  5   Moore          Elizabeth        16    .                 pg0195b.txt
+203a  9   Moore          George           6     .                 pg0195b.txt
+202b  6   Moore          George W         15    .                 pg0195b.txt
+202b  2   Moore          James            51    .                 pg0195b.txt
+203a  3   Moore          James            23    .                 pg0195b.txt
+202b  7   Moore          James M          13    .                 pg0195b.txt
+164a  28  Moore          John T           17    .                 pg0160b.txt
+164a  27  Moore          Joseph           19    .                 pg0160b.txt
+196a  13  Moore          Joshua D         18    .                 pg0195b.txt
+203a  7   Moore          Louiza           11    .                 pg0195b.txt
+202b  4   Moore          Lucetta          26/20 .                 pg0195b.txt
+203a  2   Moore          Nancy            42    Kentucky          pg0195b.txt
+203a  6   Moore          Nancy            14    .                 pg0195b.txt
+196a  9   Moore          Robert           22    .                 pg0195b.txt
+197b  28  Moore          Robert           22    .                 pg0195b.txt
+202b  5   Moore          Sarah            18    .                 pg0195b.txt
+196a  12  Moore          Sarah A          18    .                 pg0195b.txt
+196a  11  Moore          Thomas           26    .                 pg0195b.txt
+202b  8   Moore          Truman C         9     .                 pg0195b.txt
+203a  4   Moore          William          19    .                 pg0195b.txt
+202b  9   Moore          Zach T           3     .                 pg0195b.txt
+152a  36  Morris         A. H.            28    .                 pg0152a.txt
+190b  38  Morris         Benedict         10    .                 pg0186b.txt
+199a  22  Morris         Celia            12    .                 pg0195b.txt
+199a  25  Morris         Elizabeth        9     .                 pg0195b.txt
+190b  34  Morris         Elizabeth        40    Indiana           pg0186b.txt
+190b  37  Morris         Henry            12    .                 pg0186b.txt
+190b  36  Morris         John             14    .                 pg0186b.txt
+199a  21  Morris         Jonathon         15    .                 pg0195b.txt
+152a  37  Morris         Ma*ana           18    .                 pg0152a.txt
+199a  23  Morris         Martha *         11    .                 pg0195b.txt
+199a  24  Morris         Rachel           11    .                 pg0195b.txt
+199a  20  Morris         Rebecca          44    .                 pg0195b.txt
+190b  35  Morris         Sarah            17    Kentucky          pg0186b.txt
+190b  33  Morris         William          56    .                 pg0186b.txt
+160b  9   Morrow         Curtis           43    .                 pg0160b.txt
+160b  12  Morrow         John J           12    .                 pg0160b.txt
+160b  15  Morrow         Martha A         4     .                 pg0160b.txt
+160b  11  Morrow         Mary A           19    .                 pg0160b.txt
+160b  14  Morrow         Richard K        7     .                 pg0160b.txt
+160b  13  Morrow         William F        9     .                 pg0160b.txt
+160b  10  Morrow         Zerilda          53    .                 pg0160b.txt
+170b  15  Morton         George W         2     .                 pg0169b.txt
+170b  14  Morton         Margarett        21    .                 pg0169b.txt
+199a  32  Moulton        Elizabeth        9     .                 pg0195b.txt
+199a  29  Moulton        Elza             16    Indiana           pg0195b.txt
+199a  30  Moulton        Indiana          13    .                 pg0195b.txt
+199a  27  Moulton        Levi             39    Indiana           pg0195b.txt
+199a  31  Moulton        Pamelia          11    .                 pg0195b.txt
+199a  28  Moulton        Rebecca          41    Ohio              pg0195b.txt
+199a  33  Moulton        William A        7     .                 pg0195b.txt
+173b  2   Mullen         Elizabeth        38    New Jersey        pg0169b.txt
+173b  4   Mullen         Elizabeth T/P    13    Indiana           pg0169b.txt
+173b  8   Mullen         Henrietta A      5     .                 pg0169b.txt
+173b  1   Mullen         John             36    Pennsylvania      pg0169b.txt
+173b  5   Mullen         John A           11    Indiana           pg0169b.txt
+173b  6   Mullen         Leander M        9     Kentucky          pg0169b.txt
+173b  9   Mullen         Margaret A       2     .                 pg0169b.txt
+173b  7   Mullen         Mary E           7     .                 pg0169b.txt
+173b  3   Mullen         Thomas G         15    Ohio              pg0169b.txt
+171b  37  Murdock        Alma J           6     .                 pg0169b.txt
+171b  38  Murdock        Alpha            3     .                 pg0169b.txt
+171b  35  Murdock        C C              29    .                 pg0169b.txt
+171b  39  Murdock        George           9/12  .                 pg0169b.txt
+171b  36  Murdock        Mary J           25    .                 pg0169b.txt
+174a  36  Murphy         Patrick          50    .                 pg0169b.txt
+170a  43  N.S.           N.N.             .     .                 pg0169b.txt
+175a  14  Nelson         Dennis           30    .                 pg0169b.txt
+175a  15  Nelson         Mary A           25    .                 pg0169b.txt
+165b  42  Newell         Charles          36    Massachusetts     pg0160b.txt
+196a  30  Noel           Benjamin G       6/12  .                 pg0195b.txt
+196a  25  Noel           Benjamin S       29    .                 pg0195b.txt
+187b  18  Noel           Catherine        14    .                 pg0186b.txt
+187b  15  Noel           Durius           24    .                 pg0186b.txt
+187b  16  Noel           George           20    .                 pg0186b.txt
+184b  30  Noel           George W         12    .                 pg0178a.txt
+196a  27  Noel           John B           8     .                 pg0195b.txt
+196a  29  Noel           Marion           2     .                 pg0195b.txt
+187b  14  Noel           Nancy            60    .                 pg0186b.txt
+185a  4   Noel           Nancy            33    .                 pg0178a.txt
+196a  26  Noel           Susan            26    .                 pg0195b.txt
+196a  28  Noel           William          5     .                 pg0195b.txt
+187b  17  Noel           William          17    .                 pg0186b.txt
+159b  23  North          Abejah           91    Connecticut       pg0152a.txt
+169b  39  North          Benjamin H       4     Kentucky          pg0169b.txt
+164a  4   North          Constantine      16    .                 pg0160b.txt
+164a  1   North          Henry            64    Kentucky          pg0160b.txt
+169b  40  North          Joseph B         2     .                 pg0169b.txt
+169b  37  North          Joseph T         31    Louisiana         pg0169b.txt
+164a  2   North          Mariah           57    Virginia          pg0160b.txt
+164a  5   North          Mary             13    .                 pg0160b.txt
+159b  24  North          Sarah            84    Virginia          pg0152a.txt
+169b  38  North          Sarah            27    Indiana           pg0169b.txt
+164a  6   North          Susan            7     .                 pg0160b.txt
+164a  3   North          Theodore         21    Kentucky          pg0160b.txt
+153a  27  Norton         James            13    .                 pg0152a.txt
+204a  36  Norton         John             50    Kentucky          pg0195b.txt
+159b  22  Norton         Mary F           10    .                 pg0152a.txt
+159b  21  Norton         Thomas           14    .                 pg0152a.txt
+152a  8   NS             Chester          40    .                 pg0152a.txt
+174a  29  O'Donell       John             25    .                 pg0169b.txt
+174a  35  O'Harra        Michael          30    .                 pg0169b.txt
+183a  42  O'Rourke       Thomas           27    .                 pg0178a.txt
+163a  42  OConner        Micheal          6     .                 pg0160b.txt
+166a  3   Odell          Isabella         13    .                 pg0160b.txt
+166a  1   Odell          John             39    Kentucky          pg0160b.txt
+166a  2   Odell          Malinda          31    .                 pg0160b.txt
+166a  4   Odell          William H        4     .                 pg0160b.txt
+178b  30  Olds           Ann              33    .                 pg0178a.txt
+172b  31  Oliver         Angeline P       9     .                 pg0169b.txt
+185a  39  Oliver         Ann              20    .                 pg0178a.txt
+172b  30  Oliver         Elizabeth        43    .                 pg0169b.txt
+185a  38  Oliver         John *           31    .                 pg0178a.txt
+155a  1   Oliver         John E.          62    Virginia          pg0152a.txt
+155a  2   Oliver         Kitty            57    Virginia          pg0152a.txt
+185a  40  Oliver         Mary E           4     .                 pg0178a.txt
+155a  3   Oliver         Mary J           16    Kentucky          pg0152a.txt
+173a  18  Oliver         Pamelia          22    .                 pg0169b.txt
+173a  17  Oliver         Rice W           23    .                 pg0169b.txt
+185a  41  Oliver         Sarah E          2     .                 pg0178a.txt
+172b  29  Oliver         William G        35    .                 pg0169b.txt
+164b  10  Oneal          Angeline         21    .                 pg0160b.txt
+164b  12  Oneal          Frank            2     .                 pg0160b.txt
+164b  13  Oneal          James T          6/12  .                 pg0160b.txt
+164b  9   Oneal          Thos G           27    .                 pg0160b.txt
+164b  11  Oneal          William          4     .                 pg0160b.txt
+162a  18  Orr            Greenup B        25    .                 pg0160b.txt
+166a  29  Orr            James P          13    .                 pg0160b.txt
+166a  28  Orr            Liticia J        17    .                 pg0160b.txt
+166a  26  Orr            Richard H        56    Virginia          pg0160b.txt
+166a  27  Orr            Susan E          35    Kentucky          pg0160b.txt
+171a  5   Owens          Charity R        5     Kentucky          pg0169b.txt
+171a  1   Owens          E L              38    Ohio              pg0169b.txt
+171a  2   Owens          Jenretta         28    Kentucky          pg0169b.txt
+171a  3   Owens          Mary E           11    Kentucky          pg0169b.txt
+171a  4   Owens          Rhoda E          9     Ohio              pg0169b.txt
+171a  6   Owens          Richard *        2     .                 pg0169b.txt
+197b  40  Ozel/Ozie      Penelope         56    North Carolina    pg0195b.txt
+197b  39  Ozel/Ozie      Peter            45    France            pg0195b.txt
+156a  1   Park           Samuel           38    Pennsylvania      pg0152a.txt
+203b  23  Parsons        William T        23    Pennsylvania      pg0195b.txt
+171b  16  Patterson      John D           30    .                 pg0169b.txt
+171b  17  Patterson      Susan            26    .                 pg0169b.txt
+153a  12  Payne          Elizabeth        8     .                 pg0152a.txt
+154a  30  Payne          Elizabeth        24    .                 pg0152a.txt
+153a  11  Payne          Emilria          10    .                 pg0152a.txt
+154a  28  Payne          John             55    Kentucky          pg0152a.txt
+154a  29  Payne          Mary             57    .                 pg0152a.txt
+153a  13  Payne          Newton           6     .                 pg0152a.txt
+154a  32  Payne          Robert           19    .                 pg0152a.txt
+156a  29  Payne          Sarah            12    .                 pg0152a.txt
+153a  10  Payne          Susannah *.      33    Kentucky          pg0152a.txt
+152a  41  Payne          William          25    .                 pg0152a.txt
+154a  31  Payne          William          23    .                 pg0152a.txt
+196b  39  Payton         Amanda           11    .                 pg0195b.txt
+196b  38  Payton         Elija            13    .                 pg0195b.txt
+196b  36  Payton         Elizabeth        46    .                 pg0195b.txt
+196b  42  Payton         John W           3     .                 pg0195b.txt
+196b  41  Payton         Josephus         7     .                 pg0195b.txt
+196b  40  Payton         Narcissa         9     .                 pg0195b.txt
+196b  37  Payton         William          18    .                 pg0195b.txt
+182b  39  Peak           Carisada         20    .                 pg0178a.txt
+182b  36  Peak           David            10    .                 pg0178a.txt
+159a  1   Peak           Elijah G.        14    Kentucky          pg0152a.txt
+182b  34  Peak           Elizabeth        16    .                 pg0178a.txt
+158b  40  Peak           Emeline          21    .                 pg0152a.txt
+153b  15  Peak           Ervin            20    .                 pg0152a.txt
+153b  12  Peak           Frances          51    Virginia          pg0152a.txt
+153b  13  Peak           Harrison         25    Kentucky          pg0152a.txt
+153b  16  Peak           Henry C.         18    .                 pg0152a.txt
+158a  25  Peak           James            22    .                 pg0152a.txt
+182b  35  Peak           James            12    .                 pg0178a.txt
+158b  39  Peak           Jesse J          27    Kentucky          pg0152a.txt
+182b  38  Peak           John             18    .                 pg0178a.txt
+158b  42  Peak           John W           6/12  .                 pg0152a.txt
+182b  40  Peak           Nancy E          1     .                 pg0178a.txt
+158b  41  Peak           Nancy F          2     .                 pg0152a.txt
+182b  37  Peak           Polly A          9     .                 pg0178a.txt
+182b  32  Peak           Rachel           38    .                 pg0178a.txt
+153b  14  Peak           William          21    .                 pg0152a.txt
+182b  33  Peak           William          20    Kentucky          pg0178a.txt
+153b  11  Peak           Willis           54    .                 pg0152a.txt
+153b  17  Peak           Willis           11    .                 pg0152a.txt
+186b  25  Pearce         Andrew           39    .                 pg0186b.txt
+190b  8   Pearce         Charles          38    .                 pg0186b.txt
+186b  27  Pearce         Clanuda          13    .                 pg0186b.txt
+186b  28  Pearce         Eliza            11    .                 pg0186b.txt
+190b  3   Pearce         Eliza P          9     .                 pg0186b.txt
+186b  32  Pearce         Eveline          1     .                 pg0186b.txt
+190b  16  Pearce         Frances          14    .                 pg0186b.txt
+190b  17  Pearce         Hester I         10    .                 pg0186b.txt
+186b  31  Pearce         James            4     .                 pg0186b.txt
+186b  29  Pearce         John             9     .                 pg0186b.txt
+190b  5   Pearce         Lucy             4     .                 pg0186b.txt
+190b  9   Pearce         Lucy             33    .                 pg0186b.txt
+186b  30  Pearce         Mary             5     .                 pg0186b.txt
+190b  6   Pearce         Mary *           3     .                 pg0186b.txt
+190b  2   Pearce         Mary J           25    .                 pg0186b.txt
+186b  26  Pearce         Nancy            30    .                 pg0186b.txt
+190b  7   Pearce         Polemius         1     .                 pg0186b.txt
+190b  1   Pearce         Robert           30    Kentucky          pg0186b.txt
+190b  4   Pearce         Susan            5     .                 pg0186b.txt
+179b  21  Penn           Warren           49    .                 pg0178a.txt
+162b  24  Perry          Catherine E      13    .                 pg0160b.txt
+162b  30  Perry          Edwin K          3     .                 pg0160b.txt
+162b  21  Perry          Fountain         50    .                 pg0160b.txt
+162b  25  Perry          Fountain         11    .                 pg0160b.txt
+162b  28  Perry          Jane E           5     .                 pg0160b.txt
+162b  22  Perry          Julia Ann        39    New York          pg0160b.txt
+162b  27  Perry          Mary C           7     .                 pg0160b.txt
+162b  26  Perry          Rhoderick        9     .                 pg0160b.txt
+162b  23  Perry          Robert H         16    Kentucky          pg0160b.txt
+162b  29  Perry          Sarah            6/12  .                 pg0160b.txt
+201b  35  Peters         Andrew           9     .                 pg0195b.txt
+201b  30  Peters         Christy          19    Kentucky          pg0195b.txt
+201b  32  Peters         Eliza            15    .                 pg0195b.txt
+201b  34  Peters         Franklin         11    .                 pg0195b.txt
+201b  26  Peters         George           44    Indiana           pg0195b.txt
+201b  27  Peters         Isa              35    .                 pg0195b.txt
+201b  28  Peters         John             24    .                 pg0195b.txt
+201b  29  Peters         June             21    .                 pg0195b.txt
+201b  36  Peters         Lear             5     .                 pg0195b.txt
+201b  31  Peters         Mary A           17    .                 pg0195b.txt
+201b  33  Peters         Matilda          13    .                 pg0195b.txt
+202a  20  Petit          Elizabeth        14    .                 pg0195b.txt
+202a  18  Petit          Joshua           60    .                 pg0195b.txt
+202a  19  Petit          Mariah           55    .                 pg0195b.txt
+197a  l   Peyton         John             26    Kentucky          pg0195b.txt
+156a  26  Pierce         U E              40    Maine             pg0152a.txt
+177b  29  Pinkerton      Harriet          21    .                 pg0169b.txt
+177b  30  Pinkerton      Margaret A       1     .                 pg0169b.txt
+177b  28  Pinkerton      Willis           24    .                 pg0169b.txt
+162b  33  Pleux          China            30    .                 pg0160b.txt
+162b  32  Pleux          John             34    Kentucky          pg0160b.txt
+162b  36  Pleux          John A           4     .                 pg0160b.txt
+162b  34  Pleux          Nancy *          14    .                 pg0160b.txt
+162b  35  Pleux          Polly            12    .                 pg0160b.txt
+162b  37  Pleux          Verlinda         1     .                 pg0160b.txt
+194b  9   Plunket        Amelia           9     .                 pg0186b.txt
+194b  2   Plunket        Barbary          41    .                 pg0186b.txt
+194b  11  Plunket        Celia            3     .                 pg0186b.txt
+194b  12  Plunket        Dorcas           24    .                 pg0186b.txt
+194b  10  Plunket        Elizabeth        6     .                 pg0186b.txt
+194b  22  Plunket        Ellen            38    .                 pg0186b.txt
+194b  21  Plunket        George           41    .                 pg0186b.txt
+194b  4   Plunket        George           17    .                 pg0186b.txt
+194b  29  Plunket        Henry            3     .                 pg0186b.txt
+194b  24  Plunket        Jesse            14    .                 pg0186b.txt
+194b  15  Plunket        Jonathon         22    .                 pg0186b.txt
+194b  13  Plunket        Joseph           25    .                 pg0186b.txt
+194b  25  Plunket        Larkin           12    .                 pg0186b.txt
+194b  3   Plunket        Lavina           20    .                 pg0186b.txt
+194b  5   Plunket        Mary             15    .                 pg0186b.txt
+194b  28  Plunket        Mary A           4     .                 pg0186b.txt
+194b  14  Plunket        Nancy *          28    .                 pg0186b.txt
+194b  6   Plunket        Ransom           14    .                 pg0186b.txt
+194b  30  Plunket        Rebecca          1     .                 pg0186b.txt
+194b  26  Plunket        Robert           10    .                 pg0186b.txt
+194b  8   Plunket        Robert *         11    .                 pg0186b.txt
+194b  20  Plunket        Sarah            11    .                 pg0186b.txt
+194b  7   Plunket        Thomas *         12    .                 pg0186b.txt
+194b  23  Plunket        Thomas W         16    .                 pg0186b.txt
+194b  27  Plunket        Vincent          7     .                 pg0186b.txt
+194b  1   Plunket        William          52    Kentucky          pg0186b.txt
+189a  39  Plunkett       Preston          14    .                 pg0186b.txt
+153b  26  Poak           Carroll M.       21    .                 pg0152a.txt
+153b  30  Poak           J. A.            12    .                 pg0152a.txt
+153b  24  Poak           Jefferson        48    .                 pg0152a.txt
+153b  29  Poak           Jefferson        14    .                 pg0152a.txt
+153b  32  Poak           Junius           7     .                 pg0152a.txt
+153b  31  Poak           M. M.            10    .                 pg0152a.txt
+153b  25  Poak           Martha M.        37    .                 pg0152a.txt
+153b  33  Poak           North            3     .                 pg0152a.txt
+153b  28  Poak           Sarah A.         16    .                 pg0152a.txt
+153b  27  Poak           William Wallace  18    .                 pg0152a.txt
+185a  24  Poland         Ann A            3     .                 pg0178a.txt
+185a  22  Poland         Isaac            18    Kentucky          pg0178a.txt
+185a  18  Poland         Jacob            61    Tennessee         pg0178a.txt
+185a  23  Poland         John L           4     .                 pg0178a.txt
+185a  20  Poland         Polly            40    .                 pg0178a.txt
+185a  19  Poland         Sarah            61    .                 pg0178a.txt
+185a  21  Poland         Seraphina        20    .                 pg0178a.txt
+195a  39  Porter         Granville        18    .                 pg0186b.txt
+195a  41  Porter         James            19    .                 pg0186b.txt
+195a  42  Porter         Thomas           21    .                 pg0186b.txt
+174a  2   Powell         Elizabeth        28    .                 pg0169b.txt
+174a  4   Powell         James W          5     .                 pg0169b.txt
+174a  1   Powell         John B           33    Kentucky          pg0169b.txt
+174a  3   Powell         John F M         7     .                 pg0169b.txt
+174a  6   Powell         Mary A           1     .                 pg0169b.txt
+174a  5   Powell         Sarah T          3     .                 pg0169b.txt
+174a  31  Quinlan        David            25    .                 pg0169b.txt
+174a  32  Ragin          David            21    .                 pg0169b.txt
+192b  26  Railes         Catherine        37    .                 pg0186b.txt
+192b  27  Railes         Christian        23    Indiana           pg0186b.txt
+192b  25  Railes         Elijah           47    .                 pg0186b.txt
+192b  31  Railes         Elizabeth        13    .                 pg0186b.txt
+192b  29  Railes         John             17    .                 pg0186b.txt
+192b  30  Railes         Thomas           15    .                 pg0186b.txt
+192b  28  Railes         William          21    .                 pg0186b.txt
+164a  22  Raleston       Andrew           17    .                 pg0160b.txt
+164a  20  Raleston       Jane             23    .                 pg0160b.txt
+164a  19  Raleston       John             23    .                 pg0160b.txt
+164a  21  Raleston       William          2     .                 pg0160b.txt
+190a  13  Ramey          Caroline         6/12  .                 pg0186b.txt
+165b  39  Ramey          George           16    Indiana           pg0160b.txt
+165b  35  Ramey          Isaac            56    Virginia          pg0160b.txt
+165b  37  Ramey          Isaac            20    Indiana           pg0160b.txt
+190a  9   Ramey          Jackson          33    .                 pg0186b.txt
+165b  40  Ramey          John             13    Indiana           pg0160b.txt
+167a  34  Ramey          Jonathon H       25    .                 pg0160b.txt
+190a  10  Ramey          Margarett        45    .                 pg0186b.txt
+165b  36  Ramey          Mary             56    Virginia          pg0160b.txt
+165b  38  Ramey          Pleasant         18    Indiana           pg0160b.txt
+190a  12  Ramey          Rachel           4     .                 pg0186b.txt
+165b  41  Ramey          Ruby             11    Indiana           pg0160b.txt
+167a  35  Ramey          Sarah            26    Indiana           pg0160b.txt
+190a  11  Ramey          Solomon          5     Indiana           pg0186b.txt
+177b  25  Ray            Ara/Asa          42    .                 pg0169b.txt
+177b  26  Ray            James M          17    .                 pg0169b.txt
+165a  36  Ray            Jane             29    Indiana           pg0160b.txt
+165a  35  Ray            John             35    Virginia          pg0160b.txt
+165a  37  Ray            Lydia            4     Kentucky          pg0160b.txt
+177b  27  Ray            Mary             14    .                 pg0169b.txt
+165a  38  Ray            Minor            1     .                 pg0160b.txt
+165a  42  Ray            Samuel           10    .                 pg0160b.txt
+165a  41  Ray            Thomas           6     Kentucky          pg0160b.txt
+171b  15  Ray/Roy        Joanna           9/12  Kentucky          pg0169b.txt
+171b  14  Ray/Roy        Louiza           26    Tennessee         pg0169b.txt
+176b  1   Rea            Ambrose          34    North Carolina    pg0169b.txt
+176b  4   Rea            Chris            3     Kentucky          pg0169b.txt
+176b  5   Rea            George A         1     .                 pg0169b.txt
+176b  2   Rea            Ludicia          30    Indiana           pg0169b.txt
+176b  3   Rea            William C        6     """"              pg0169b.txt
+179a  17  Redman         America          34    Kentucky          pg0178a.txt
+154b  39  Redman         Francis          7/12  .                 pg0152a.txt
+179a  16  Redman         James            43    North Carolina    pg0178a.txt
+179a  19  Redman         James W          10    .                 pg0178a.txt
+179a  18  Redman         Kalista          13    .                 pg0178a.txt
+154b  38  Redman         Lucy             21    .                 pg0152a.txt
+154b  37  Redman         Wm               27    .                 pg0152a.txt
+156a  27  Reece          Ann              18    Kentucky          pg0152a.txt
+156a  23  Reed           Alfred           29    Kentucky          pg0152a.txt
+155a  38  Reed           Caroline         31    .                 pg0152a.txt
+186b  34  Reed           Elizabeth        23    Indiana           pg0186b.txt
+188b  28  Reed           Gabriel          50    Ireland           pg0186b.txt
+188b  31  Reed           George           15    .                 pg0186b.txt
+186b  33  Reed           George N         26    .                 pg0186b.txt
+155a  42  Reed           Harriett         4     .                 pg0152a.txt
+156a  18  Reed           Harriett         29    .                 pg0152a.txt
+156a  19  Reed           James            7     .                 pg0152a.txt
+188b  30  Reed           Jane             9     Kentucky          pg0186b.txt
+155a  37  Reed           Johnson          35    .                 pg0152a.txt
+155a  41  Reed           Lydia M.         7     .                 pg0152a.txt
+156a  17  Reed           Martin           39    .                 pg0152a.txt
+155a  39  Reed           Mary             15    .                 pg0152a.txt
+156a  20  Reed           Mary E           6     .                 pg0152a.txt
+186b  35  Reed           Nancy E          7     Kentucky          pg0186b.txt
+186b  37  Reed           Peter H/K        2     .                 pg0186b.txt
+155a  40  Reed           Phoebe           12    .                 pg0152a.txt
+156a  22  Reed           Robert           55    New Jersey        pg0152a.txt
+188b  29  Reed           Sarah            47    """"              pg0186b.txt
+156a  21  Reed           William M        4     .                 pg0152a.txt
+186b  36  Reed           William W        5     .                 pg0186b.txt
+184a  15  Remington      Alexander        15    .                 pg0178a.txt
+184a  19  Remington      Benjamin F       1     .                 pg0178a.txt
+184a  16  Remington      Carolin          13    .                 pg0178a.txt
+184a  12  Remington      Elizabeth        19    Kentucky          pg0178a.txt
+184a  13  Remington      James            18    .                 pg0178a.txt
+184a  10  Remington      John             50    .                 pg0178a.txt
+184a  18  Remington      Martha J         3     .                 pg0178a.txt
+184a  11  Remington      Matilda          37    Ohio              pg0178a.txt
+184a  17  Remington      Samuel M         11    .                 pg0178a.txt
+184a  14  Remington      Susannah         16    .                 pg0178a.txt
+203b  39  Rennisk        Matilda          23    .                 pg0195b.txt
+203b  38  Rennisk        Noah             24    .                 pg0195b.txt
+167b  3   Rice           Alvin            25    .                 pg0160b.txt
+167b  7   Rice           Amilda           20    .                 pg0160b.txt
+167b  1   Rice           David            60    Kentucky          pg0160b.txt
+167a  2   Rice           Delilah          30    .                 pg0160b.txt
+167a  3   Rice           George           8     .                 pg0160b.txt
+167b  6   Rice           George           7     .                 pg0160b.txt
+167b  5   Rice           Gilian           16    .                 pg0160b.txt
+167a  1   Rice           John             31    Kentucky          pg0160b.txt
+167a  5   Rice           Lewis            8/12  .                 pg0160b.txt
+167b  2   Rice           Mary             58    .                 pg0160b.txt
+167b  4   Rice           Susan            21    .                 pg0160b.txt
+167a  4   Rice           William          4     .                 pg0160b.txt
+189b  13  Richards       Charles          15    .                 pg0186b.txt
+164b  27  Richards       Judith           13    .                 pg0160b.txt
+152a  20  Richards       Sally O          5     .                 pg0152a.txt
+190a  25  Ringo          Ann              7     .                 pg0186b.txt
+190a  19  Ringo          Daniel           21    .                 pg0186b.txt
+190a  23  Ringo          David            13    .                 pg0186b.txt
+190a  18  Ringo          Elizabeth        45    .                 pg0186b.txt
+190a  22  Ringo          George           15    .                 pg0186b.txt
+190a  17  Ringo          John             48    .                 pg0186b.txt
+190a  20  Ringo          Louiza           19    .                 pg0186b.txt
+190a  21  Ringo          Luoretia         17    .                 pg0186b.txt
+190a  26  Ringo          Mary             4     .                 pg0186b.txt
+190a  24  Ringo          Milton           10    .                 pg0186b.txt
+190a  27  Ringo          no name          5/12  .                 pg0186b.txt
+155a  11  Rison          William          57    .                 pg0152a.txt
+156a  6   Risor          Dallas           5     Kentucky          pg0152a.txt
+152b  1   Ritchey        Alexander        33    Pennsylvania      pg0152a.txt
+152b  2   Ritchey        Catherine        36    Kentucky          pg0152a.txt
+152b  5   Ritchey        Catherine W      3     .                 pg0152a.txt
+152b  6   Ritchey        Elizabeth E      1     .                 pg0152a.txt
+152b  3   Ritchey        Henry P          7     .                 pg0152a.txt
+204b  19  Ritchey        James T          10    .                 pg0195b.txt
+204b  15  Ritchey        John A           42    Kentucky          pg0195b.txt
+204b  20  Ritchey        Mary B           8     .                 pg0195b.txt
+152b  4   Ritchey        Mary S           5     .                 pg0152a.txt
+204b  22  Ritchey        Phillip K        2     .                 pg0195b.txt
+204b  21  Ritchey        Preston A        4     .                 pg0195b.txt
+204b  18  Ritchey        Ruth R           12    .                 pg0195b.txt
+204b  16  Ritchey        Sarah C          34    .                 pg0195b.txt
+204b  17  Ritchey        Susan K          14    .                 pg0195b.txt
+152a  35  Robb           David            12    Kentucky          pg0152a.txt
+152a  34  Robb           Fanny            40    Indiana           pg0152a.txt
+152a  33  Robb           James            44    Virginia          pg0152a.txt
+177a  32  Roberts        Elizabeth        22    .                 pg0169b.txt
+177a  33  Roberts        Richard          20    .                 pg0169b.txt
+169a  22  Robertson      Amanda L         4     .                 pg0160b.txt
+169a  30  Robertson      Amelia           2     .                 pg0160b.txt
+169a  34  Robertson      Elizabeth        30    .                 pg0160b.txt
+169a  21  Robertson      Emiline *        5     .                 pg0160b.txt
+169a  27  Robertson      Harriet          28    .                 pg0160b.txt
+169a  33  Robertson      James G          36    Kentucky          pg0160b.txt
+169a  37  Robertson      James P.         9/12  .                 pg0160b.txt
+169a  28  Robertson      John L           5     .                 pg0160b.txt
+169a  19  Robertson      John L           10    .                 pg0160b.txt
+169a  31  Robertson      John S M         60    .                 pg0160b.txt
+169a  23  Robertson      Mary A H         2     .                 pg0160b.txt
+169a  32  Robertson      Milly            65    Pennsylvania      pg0160b.txt
+169a  18  Robertson      Milly A          30    .                 pg0160b.txt
+169a  36  Robertson      Rebecca          23    .                 pg0160b.txt
+169a  24  Robertson      Robert B         6/12  .                 pg0160b.txt
+169a  17  Robertson      Rodger           35    .                 pg0160b.txt
+169a  29  Robertson      Sarah E          4     .                 pg0160b.txt
+169a  26  Robertson      Theophilus C.    30    .                 pg0160b.txt
+169a  35  Robertson      William          30    .                 pg0160b.txt
+169a  20  Robertson      Willis P         8     .                 pg0160b.txt
+152a  40  Robinson       Ann              24    Kentucky          pg0152a.txt
+194a  37  Robinson       David            48    .                 pg0186b.txt
+194a  39  Robinson       Francis M        5     .                 pg0186b.txt
+152a  3   Robinson       Franklin S       18    .                 pg0152a.txt
+158a  26  Robinson       Garland          24    .                 pg0152a.txt
+194a  8   Robinson       John             4     .                 pg0186b.txt
+152a  7   Robinson       John T           6     .                 pg0152a.txt
+152a  1   Robinson       John T           42    Kentucky          pg0152a.txt
+152a  39  Robinson       John T.          24    Indiana           pg0152a.txt
+194a  9   Robinson       Louis S          2     .                 pg0186b.txt
+194a  5   Robinson       Luanetta         11    .                 pg0186b.txt
+152a  5   Robinson       Margaret         13    .                 pg0152a.txt
+194a  7   Robinson       Martha           6     .                 pg0186b.txt
+194a  2   Robinson       Martha           35    .                 pg0186b.txt
+152a  4   Robinson       Mary P           16    .                 pg0152a.txt
+194a  41  Robinson       Nancy *          1     .                 pg0186b.txt
+194a  1   Robinson       Noel             43    Kentucky          pg0186b.txt
+152a  6   Robinson       Rose R           9     .                 pg0152a.txt
+152a  2   Robinson       Ruth W           36    .                 pg0152a.txt
+194a  3   Robinson       Sarah            13    .                 pg0186b.txt
+194a  38  Robinson       Sarah A          24    .                 pg0186b.txt
+194a  4   Robinson       Tabitha          13    .                 pg0186b.txt
+194a  6   Robinson       William          8     .                 pg0186b.txt
+194a  40  Robinson       William          3     .                 pg0186b.txt
+194a  42  Robinson       William          14    .                 pg0186b.txt
+171b  34  Rodgers        Allen A          2     .                 pg0169b.txt
+171b  31  Rodgers        Elizabeth        7     .                 pg0169b.txt
+171b  32  Rodgers        John             5     .                 pg0169b.txt
+178b  40  Rodgers        Martha *         4     .                 pg0178a.txt
+178b  39  Rodgers        Mildred          26    .                 pg0178a.txt
+171b  29  Rodgers        Nancy            30    .                 pg0169b.txt
+171b  30  Rodgers        Walton           10    .                 pg0169b.txt
+171b  33  Rodgers        William          4     .                 pg0169b.txt
+171b  28  Rodgers        William          35    .                 pg0169b.txt
+178b  38  Rodgers        Wm S             34    .                 pg0178a.txt
+165b  17  Rollins        Ansella          16    Indiana           pg0160b.txt
+165b  15  Rollins        George           47    Pennsylvania      pg0160b.txt
+165b  16  Rollins        Isabella         40    Indiana           pg0160b.txt
+165b  18  Rollins        Martha           14    Indiana           pg0160b.txt
+165b  20  Rollins        Mary             5     Kentucky          pg0160b.txt
+165b  21  Rollins        Nancy            2     .                 pg0160b.txt
+165b  19  Rollins        William          12    Indiana           pg0160b.txt
+180a  18  Rose           Amanda           12    .                 pg0178a.txt
+180a  17  Rose           Eliza A          16    .                 pg0178a.txt
+170b  23  Rose           Elizabeth R      16    .                 pg0169b.txt
+180a  16  Rose           Emily J          19    .                 pg0178a.txt
+170b  21  Rose           Frances M        1     .                 pg0169b.txt
+176b  22  Rose           George W         27    .                 pg0169b.txt
+180a  15  Rose           Hannah           50    .                 pg0178a.txt
+174b  42  Rose           John             13    .                 pg0169b.txt
+180a  19  Rose           John E           21    .                 pg0178a.txt
+180a  21  Rose           Mary H           5/12  .                 pg0178a.txt
+170b  17  Rose           Mary J           35    .                 pg0169b.txt
+170b  19  Rose           Montraville      5     .                 pg0169b.txt
+170b  18  Rose           Nancy E          7     .                 pg0169b.txt
+176b  23  Rose           Sarah            28    .                 pg0169b.txt
+170b  22  Rose           Thomas P         23    .                 pg0169b.txt
+170b  20  Rose           William A        3     .                 pg0169b.txt
+176b  24  Rose           William S        2     .                 pg0169b.txt
+170b  16  Rose           Wm H             35    .                 pg0169b.txt
+180a  20  Rose           Zerilda          22    .                 pg0178a.txt
+177a  15  Rosell         Alfred           30    .                 pg0169b.txt
+162a  10  Rosell         Amelia           27    .                 pg0160b.txt
+162a  12  Rosell         Delilah K        4     .                 pg0160b.txt
+168b  15  Rosell         Elijah           60    Virginia          pg0160b.txt
+177a  16  Rosell         Emily            21    .                 pg0169b.txt
+168b  18  Rosell         George W         12    .                 pg0160b.txt
+162a  13  Rosell         James F          1     .                 pg0160b.txt
+177a  17  Rosell         Mary E           1     .                 pg0169b.txt
+168b  17  Rosell         Narcissa         20    .                 pg0160b.txt
+168b  16  Rosell         Sally            56    .                 pg0160b.txt
+162a  11  Rosell         Sarah E          6     .                 pg0160b.txt
+162a  9   Rosell         Thomas           33    Kentucky          pg0160b.txt
+192b  11  Roselle        Eliza            18    .                 pg0186b.txt
+192b  12  Roselle        Elizabeth        2     .                 pg0186b.txt
+192b  10  Roselle        Joseph F         22    .                 pg0186b.txt
+162b  19  Ross           Andrew  *        6     .                 pg0160b.txt
+162b  20  Ross           Clay             6/12  .                 pg0160b.txt
+157b  25  Ross           Daniel Webster   6     .                 pg0152a.txt
+157b  24  Ross           Eliza A.         8     .                 pg0152a.txt
+157b  27  Ross           Fielding G       9/12  .                 pg0152a.txt
+157b  18  Ross           George           44    Virginia          pg0152a.txt
+167b  25  Ross           George           19    .                 pg0160b.txt
+157a  14  Ross           George N         1     .                 pg0152a.txt
+157a  12  Ross           Helen M          6     .                 pg0152a.txt
+157b  26  Ross           Helen M          4     .                 pg0152a.txt
+157b  23  Ross           Henry Clay       10    .                 pg0152a.txt
+157a  6   Ross           James            41    Virginia          pg0152a.txt
+157a  15  Ross           James E          8     .                 pg0152a.txt
+157a  9   Ross           Jenetta          14    .                 pg0152a.txt
+157b  22  Ross           Latina           11    .                 pg0152a.txt
+157a  7   Ross           Malinda          34    Kentucky          pg0152a.txt
+157b  19  Ross           Malvina          35    Kentucky          pg0152a.txt
+157b  20  Ross           Mary E           15    .                 pg0152a.txt
+157a  10  Ross           Mary J           12    .                 pg0152a.txt
+162b  16  Ross           Milton C         27    .                 pg0160b.txt
+162b  17  Ross           Nancy            28    .                 pg0160b.txt
+157b  21  Ross           Richard A        13    .                 pg0152a.txt
+164b  36  Ross           Sally            56    .                 pg0160b.txt
+163b  32  Ross           Sarah            75    Virginia          pg0160b.txt
+167b  26  Ross           Sarah A.         17    .                 pg0160b.txt
+157a  13  Ross           Sarah B          6     .                 pg0152a.txt
+162b  18  Ross           Tabitha          8     .                 pg0160b.txt
+157a  11  Ross           Thomas H         10    .                 pg0152a.txt
+157a  8   Ross           William H        16    .                 pg0152a.txt
+202a  36  Rowan          Catherine        28    .                 pg0195b.txt
+202a  35  Rowan          Daniel           33    .                 pg0195b.txt
+202a  39  Rowan          Joseph           2     .                 pg0195b.txt
+202a  37  Rowan          Mary K           7     .                 pg0195b.txt
+202a  38  Rowan          Samuel           4     .                 pg0195b.txt
+202b  1   Rowder         Jackson          .     .                 pg0195b.txt
+203a  26  Runnolds       Isabella         18    Indiana           pg0195b.txt
+193a  2   Runyon         Absolom          72    New Jersey        pg0186b.txt
+184b  13  Runyon         Agnes            24    .                 pg0178a.txt
+193a  3   Runyon         James            18    Indiana           pg0186b.txt
+184b  14  Runyon         James            1     .                 pg0178a.txt
+192b  40  Runyon         Martha           50    Kentucky          pg0186b.txt
+192b  41  Runyon         Martha I/J       8     Kentucky          pg0186b.txt
+193a  4   Runyon         Mary             16    Kentucky          pg0186b.txt
+179b  38  Runyon         Sussanah         9     .                 pg0178a.txt
+193a  1   Runyon         William H        38    Ohio              pg0186b.txt
+184b  12  Runyon         Wm L             25    .                 pg0178a.txt
+202b  41  Russell        Ann              35    .                 pg0195b.txt
+202b  40  Russell        Callahan         40    .                 pg0195b.txt
+163b  16  Russell        Catherine        25    Indiana           pg0160b.txt
+198a  32  Russell        George           1     Kentucky          pg0195b.txt
+198a  30  Russell        John             30    Virginia          pg0195b.txt
+163b  18  Russell        Mary             3     Kentucky          pg0160b.txt
+202b  42  Russell        Mary             18    .                 pg0195b.txt
+198a  31  Russell        Nancy            30    .                 pg0195b.txt
+163b  17  Russell        Robert           5     New York          pg0160b.txt
+163b  15  Russell        Robert           37    Indiana           pg0160b.txt
+163b  19  Russell        Rosanna          7/12  .                 pg0160b.txt
+199b  6   Rust           Arcaness         28    Kentucky          pg0195b.txt
+199b  8   Rust           Catherine E      9     Kentucky          pg0195b.txt
+199b  7   Rust           Martha           25    Indiana           pg0195b.txt
+199b  10  Rust           Martha A         2     .                 pg0195b.txt
+199b  9   Rust           Mary *           5     .                 pg0195b.txt
+199b  11  Rust           Thomas           7     .                 pg0195b.txt
+201b  19  Ryder          Charles          11    .                 pg0195b.txt
+201b  24  Ryder          Emily            1     .                 pg0195b.txt
+201b  17  Ryder          Jacob            48    New York          pg0195b.txt
+201b  20  Ryder          John             8     .                 pg0195b.txt
+201b  23  Ryder          Martha J         3     .                 pg0195b.txt
+201b  21  Ryder          Mary E           6     .                 pg0195b.txt
+201b  22  Ryder          Mildred A        5     .                 pg0195b.txt
+201b  18  Ryder          Rhoda            22    Kentucky          pg0195b.txt
+202a  42  Ryley          Frederick        28    .                 pg0195b.txt

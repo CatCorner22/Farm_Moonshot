@@ -1,0 +1,97 @@
+Pass 87 extract — 30 Oct 2026 (America/New_York)
+B088: Bell 25–34 isolation + ED 40 remaining name lines + Wolfe residuals
+B045/B061 FS (R011-37)
+B089 Book 6 + certs 28501 / 31780
+
+VARIANTS (search_variants.py --also + kinship N550) before query:
+  John / Jno / Johnnie × Newman/Newnam/newnarn/newan/Noonan/Nunan  N550
+  Cora × Newman/Newnam/Brandenburg
+  McCoy / Coy × Newman/Newnam
+  Place: Clear Creek / Middlesboro / Ingram / Suttly / Hazel Green /
+         Campton / Torrent / Clifty / Antioch / Stillwater / Precinct 24
+  ED misreads: 34/24 (precinct 24 vs ED 34); 25/23/35; 33/23
+  Cross-id: cert 28501 / 31780 / 17762 (still unread)
+  Compiled Wolfe: 1920i Clifty ED 241; 1920k Antioch ED 242;
+                  1920d Hazel Green; 1920f Torrent; 1920h Stillwater
+
+=== BELL ED 34 (image seen, w1600) ===
+Pass 83 “0700 = Bell ED 24 sh 2A” is WITHDRAWN.
+0700 w1600 = Bell, Clear Creek Precinct No. 24, ED **34**, sheet **2 A**,
+  8 Feb 1920, John Hays.
+0720 w1600 = same ED **34**, sheet **12 A**, 18 Feb, John Hays.
+  Place line: Clear Creek Precinct **No. 24**. Precinct ≠ ED.
+0698 = ED **34** sheet **1 A**, 9 Feb, John Hays (district start).
+0721 = ED 34 sheet **12 B**.
+0731 = ED 34 sheet **17 B**, 27 Feb, John Hays.
+  Next leaf 0732 is already Breathitt ED 39 Jackson (pass 86).
+0734 remains the Breathitt county card.
+
+=== BELL 25–33 MAP (image seen, w800) ===
+0450 = ED **24**, Precinct 18 City Hall, sheet 7 B (already past ED 24 start).
+0480 = ED **25**, Middlesboro City, ~21–22 Jan, Robert Gooding? / Precinct 19.
+0500 = ED **25** sheet **12 B**, 28 Jan, Robert C. Maddox.
+0520 = ED **26** sheet **2 B**, 4 Feb, Ralph Goins, Middlesboro City.
+0550 = ED **26** sheet **17 B**, South Side Precinct, Ralph Goins.
+0580 = ED **27** sheet **10 B**, Middlesboro West End, Ralph Goins, 17 Mar.
+0600 = ED **27** sheet **20 B**, 25 Mar, Ralph Goins.
+0620 = ED **29**, Precinct 2 Ingram, 14 Jan, Wm G. Innes.
+0640 = ED **29** sheet **6 B**, 5 Jan, Robert Bennett.
+0660 = unused blank population sheet (X mark).
+0670 = ED **31** sheet B, 9 Feb, John A. Lee.
+0685 = ED **32** sheet **5 B**, 13 Feb, Wilburn T. Offeine/Abner.
+0690 = ED **33** sheet **3 A**, Suttly Precinct, 13 Feb, John W. Foulkner.
+ED **28** not isolated (between 0600 ED 27 and 0620 ED 29).
+ED **30** not isolated (between 0640 ED 29 and 0670 ED 31).
+C828 (“25–34 not between 0720 and 0732”) WITHDRAWN — they sit
+  after ED 24 (~0450) through ED 34 end (0731).
+
+=== NAME COLUMNS ===
+Tesseract on invert crops: 0771–0787 (ED 40 unread sides),
+  0690 / 0698 / 0700 / 0720–0731 (ED 33–34), 0480–0698 Bell samples:
+  **nil** Newman / Newnam / Noonan / Nunan / McCoy tokens.
+Visual ED 40 0772 / 0774: Combs / Barnett / Hall / Henley clusters —
+  no Newman head isolated.
+PROBABLE negative on sampled sheets. Residual: ED 28/30 starts;
+  unread full-sheet lines of 25–27 / 29 / 31–34.
+
+=== WOLFE ===
+0380 w1600 = Hazel Green Precinct, ED **235**, ~sheet 3 B, 5 Jan,
+  Stanley M. Ward (matches compiled 1920d). Dark names.
+0410 w1600 = Campton Precinct No. 3, ED **236**, ~sheet 4 B, 13 Jan.
+0420 w1600 still dark (Torrent/Holly band not isolated at header).
+0435 place reads Williamsburg — Whitley, not Wolfe (prior C659).
+Compiled (HTML seen):
+  1920i Clifty ED **241** — nil Newman/Newnam/McCoy.
+    Near-hit REJECTED: John L. HENRY 21 HH (hh 72).
+    Cora BANKS 32 wife of Monroe — not Cora Newman.
+  1920k Antioch ED **242** — nil Newman/Newnam/McCoy.
+    Near-hits REJECTED: John L. HOLLON 48; Dora CHILDERS 26 wife;
+      Dora ROBERTS 20 dau; Cora KING 6 dau; STONE Lou Cinda / Alfred
+      (no Newman).
+  1920d Hazel Green + 1920f Torrent + 1920h Stillwater ED 240
+    re-grep **nil** Newman/Newnam/McCoy.
+  1920c Lee City hh 79 **McCOY, John B.** 84 + Nina 55 — surname McCoy,
+    REJECTED vs McCoy Newman.
+
+=== B045 / B061 ===
+FS catalog 127913 and 127869 this session = SPA shells (R011 step 37).
+Images unread.
+
+=== B089 ===
+Book 6 compiled re-seen: Floyd NEWNAM × Allie A. BRANDENBURG
+  31 Jul 1902 still the only Floyd×Allie row. No Boyd groom.
+  Register image unread. Floyd still not merged vs Boyd (#27).
+Certs 28501 / 31780: SCGS Lee delayed PDF still **nil** those numbers.
+  Same file: NEWMAN Clarnce / Allie Brandburg **49261** only.
+  RootsWeb 1906 delayed year file: NEWMAN, Arthur, 24 Jan 1906,
+  Estill, Brandenbur Allie, vol 240 cert **49665** — not 28501/31780.
+  KYGenWeb delayed-birth JS search table empty from this VM.
+
+=== ACCESS HONESTY ===
+T625-559 0690 / 0698 / 0700-w1600 / 0720-w1600 / 0721–0731 /
+  0480–0685 / 0050–0660 samples image seen.
+T625-559 0771–0787 (ED 40 unread sides) image seen.
+T625-602 0380/0410/0420 w1600 + 0380–0435 w800 image seen (dark).
+Wolfe compiled 1920i/k HTML seen; 1920d/f/h re-grep.
+FS 127913/127869 SPA. Book 6 register unread. Certs unread.
+T1224 roll 46 unread. Authored latest.docx SHA 78cdcf44… not overwritten.

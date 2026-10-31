@@ -1,0 +1,10 @@
+Pass 143 walkthrough — 31 Oct 2026
+B058 one catalog reconfirm: LOC sn89051008 digitized false; IA Solr 1926 0.
+B071 Hart Dist 1 remaining odds n0007–n0187 every-odd IMAGE SEEN CLOSED.
+N-lookalikes: Robert BOMAN 37 n0035; Frederick NANCE 26 n0119; George AMOS 70 n0135.
+Hart Dist 1 tail n0191–n0197 IMAGE SEEN nil; n0198 certificate; Henderson n0199 (not walked).
+Franklin Dist 2 n0340 Thomas NEWLAND 30 IMAGE SEEN REJECT.
+Mercer / Lincoln Dist 1 / Hopkins / Larue remaining densified; samples nil; NOT closed.
+Do not repeat remaining-odds / Boman / Nance / Amos / Newland / Henry Dist 1 / Jesse NORMAN.
+Do not print 1966, 1976, Floyd-as-Boyd, Hendrix-as-Boyd, Nennian-as-Boyd, 1962 McCoy, 1942 Combs.
+Living 1932 descendants withheld. Authored latest.docx SHA 78cdcf44… not overwritten.

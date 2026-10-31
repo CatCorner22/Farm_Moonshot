@@ -1,0 +1,38 @@
+1920 Kentucky Soundex N-550 John window — Pass 72.
+Internet Archive identifier soundex1920ky117
+https://archive.org/details/soundex1920ky117
+NARA M1563 reel 117 (N-400 H – N-620 Lyona). 4-digit BookReader leaves.
+Scale 2 JPEGs in /tmp/dora72/sdx2_NNNN.jpg. Selected rejects copied to sources/census/.
+Accessed 30 Oct 2026. Image seen.
+
+Window 4460–4499 (John Newman / Newnam / Noonan cards) visually read.
+No card for Owsley or Lee naming John L ~41 + Cora.
+
+Rejects (county ≠ Owsley/Lee, or age/wife fail):
+  4462  Newman, John 22 Boone, lodger with Robert — reject
+  4463  Newman, John 37 Letcher, Shelbyville, wife Jenny 39 — reject
+  4464  Newman, John 29 Henderson, wife Bessie 26 — reject
+  4466–67  Newman, John 46 Floyd, wife Bessie 38 + children — reject
+  4469  continuation (Murphy William 21) — not a new head
+  4471  continuation Newman John — Margaret 9, Earl 1/12 — reject
+  4474  Newman, John 38 Breathitt, wife Jennie 21 — reject
+  4477  Noonan, John A 56 Franklin/Frankfort, brother of Silas — reject
+  4479  Newman, John B 39 Muhlenberg, Greenville, wife Burcha 34 — reject
+  4481–82  Newman, John D 52 Jefferson, Louisville + Anna 42 — reject
+  4483  Newman, John E 56 Nelson, Bardstown, wife Sallie B 40 — reject
+  4488  Noonan, John F 54 Kenton, Covington, son-in-law of Kate Kline — reject
+  4489  Newman, John H 58 Boone, wife Mary E 60 — reject
+  4491  Newman, John J 36 Kenton, Ludlow, wife Margaret 43 — reject
+  4492  Newman, John L 28 Harlan + Roxie — reject vs John L ~41 / Cora
+        (saved ky1920-n550-p4492-john-l-harlan-reject.jpg)
+  4494  Newman, John M 79 Logan, wife Sarah 71 — reject
+  4495  Newman, John P 22 Union, One Eyed Ridge, wife Verna 17 — reject
+  4496  Newman, John R 27 Lawrence, Louisa, b. Iowa, brother of J.L. Maloney — reject
+  4498  Newman, John V 34 Ohio Co. (Narrows), wife Mary C 32 — reject
+        (Ohio County, not Owsley)
+  4499  Newman, John W 26 Logan, Lewisburg, wife Daisy 32 — reject
+
+Prior E-tab / Dora window on this reel already nil P001 (B004 / B023).
+This John window does not place John L of Buck Creek in 1920.
+Claims: C577 C580
+S415

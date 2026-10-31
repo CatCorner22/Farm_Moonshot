@@ -1,0 +1,81 @@
+Pass 82 extract — 30 Oct 2026
+B088 Breathitt residuals + John 38+Jennie original hunt
+B016 Rissie 15 servant original
+B089 Lee births N + Boyd/Ollie 1914
+B087 1942 Combs charge (still authored)
+B045/B061 FS walls (R011-32)
+
+VARIANTS (search_variants.py + kinship Soundex N550) before query:
+  John / Jno / Johnnie × Newman/Newnam/newnarn/newan/Noonan/Nunan  N550
+  Jennie / Jenny × Newman/Newnam
+  Virgil / Freda / Henry / Julie as cross-identifiers
+  Rissie / Rissa × Newnam/Newman
+  Allie / Ollie / Alice × Brandenburg
+  Place: Breathitt / Quicksand / Jackson / Heidelberg / Lee / ED 42 / 44 / 45 / 52
+  Cross-id: Soundex Vol 4 ED 52 sh 19 ln 17; cert 28501 / 31780
+  Sheet-number misreads: 19 / 9 / 10 / 17 / 1; ED 52 / 42 / 32 / 56 / 23
+
+=== WAYBACK USGW BREATHITT 1920 EDs 45–50 (transcription only) ===
+Live files.usgwarchives.net timed out again (0 bytes).
+Wayback 2008-06-16 snapshot recovered:
+  ed45 p01–p04; ed46 p01–p05; ed47 p01–p06; ed48 p01–p07; ed49 p01–p03; ed50 p01–p05
+  (25 files). No ed39–44 or ed51–57 folders on that snapshot.
+Grep Newman/Newnam/Noonan/Nunan/McCoy/John L: NIL as a head.
+Near-hits rejected: Virgil Jones/Griffith/Hall/Little/Pelfrey; John L Combs;
+Jenny Ledford/Riley/Miller; Jennie B Stamper.
+URL: https://web.archive.org/web/20080616082000/http://files.usgwarchives.net/ky/breathitt/census/1920/
+
+=== BREATHITT T625-559 HEADER REMAP (image seen, w800) ===
+Pass 79 map is WRONG on several leaves (same class of error as pass 78 ED 52).
+  Leaf 0840 = Breathitt ED 42 sh 17A, enumerator Everett [Bach?/Back?] — NOT ED 38.
+  Leaf 0844 = Breathitt ED 42 sh 19A (17A + 4 leaves).
+  Leaf 0844 line-17 band: Bach/William-type household, NOT Newman John + Jennie.
+  Leaf 0870 = Breathitt ED 44 sh 3A — NOT ED 39 sh 15A.
+  Leaf 0878 = ED 44 sh 7A; leaf 0880 = ED 44 sh 8A.
+  Leaf 0896 = Breathitt ED 45 sh 1A — NOT ED 41 sh 1A.
+  Leaf 1116 = Breathitt ED 52 sh 1A Quicksand Mag. Dist. (reconfirmed).
+  Leaf 1144 = Breathitt ED 56 sh 4A, Elliott Croft (reconfirmed).
+ED 42 sh 19 is a plausible Soundex “ED 52” 4/5 misread. The original of John 38+Jennie
+is still not isolated. ED 52 still has no sheet 19.
+
+=== 1910 LEE ED 98 sh 6A leaf 0532 (image seen) ===
+IA 13thcensus1910po478unit. Heidelberg Precinct, 27 April 1910.
+Diplomatic: Newman, Rissie, servant, F W 15 S, KY/KY, in household of
+[Giddings?/Biddings?], [Sam?], 52, + Emma 31 + Della 20 (head surname uncertain).
+Upgrades C713 from pass-80 note to an original. Identity vs Dora’s Rissa (May 1897)
+still POSSIBLE only (age 15 vs ~12–13). Not merged.
+
+=== LEE BIRTHS N (compiled) ===
+NEWMAN, VIRGIL / mother COMBS EMMA / 25 / 1912 — rejected vs Soundex Virgil.
+NEWMAN, BOYD / mother BRANDENBURG OLLIE / 11 / 1914 — POSSIBLE Allie/Ollie child;
+not a ~5-year-old in 1920 Station Camp. Register unread.
+
+=== BREATHITT BIRTHS 1916–1919 ===
+KYGenWeb year tables: NEWMAN/NEWNAM 0. Virgil ~1916–17 and Freda ~1918–19
+were not registered as Newman in Breathitt.
+
+=== SORTED BY NAME ===
+Virgil of Jeff Co. d. 5 Apr 1954 age 47 — rejected.
+Virgil b. 15 Apr 1916 SSN 402-18-0271 d. Sep 1958 — not merged (county unread).
+Freda d. 26 Apr 1919 age 11 Kenton — rejected vs Soundex age 1.
+
+=== B087 ===
+TFKRHA Owsley homicide table: Combs, George, 5-8-1942, shot 11 times from ambush.
+Does not name a shooter. Courier extract still does not name shooter.
+Houser “John NEWNAM was charged” remains authored. Do not print as fact.
+
+=== FS ===
+Seven IDs HTTP 403 (R011 step 32). Images unread.
+
+=== ACCESS HONESTY ===
+Wayback ED 45–50 TXT: text seen (compiled transcripts).
+Breathitt headers 0840/0844/0870/0878/0880/0896/1116/1144: image seen (w800).
+ED 42 sh 19A line-17 band: image seen.
+1910 ED 98 sh 6A leaf 0532: image seen (IIIF 1600 + zooms).
+Lee birthsn.html: compiled HTML seen.
+KYGenWeb Breathitt 1916–1919 births: text seen via WebFetch.
+SortedByName Virgil/Freda pages: index snippets seen.
+FS seven IDs 403. Book 6 register unread. Certs 28501/31780 unread.
+Powell/Wolfe full-sheet residuals still open (contact-sheet only).
+USGW live 1920 dir still timeout.
+Authored latest.docx SHA 78cdcf44… not overwritten.

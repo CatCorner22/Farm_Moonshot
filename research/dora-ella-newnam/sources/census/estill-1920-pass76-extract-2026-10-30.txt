@@ -1,0 +1,113 @@
+Pass 76 extract — 30 Oct 2026
+1920 Estill T625-566 correction + remaining EDs; Jackson T625-577; Breathitt T625-559 start;
+Estill delayed-birth index; Wolfe T625-602 title; Powell T625-596 county start.
+
+VARIANTS (search_variants.py + kinship soundex) before query:
+  John × Newman/Newnam/Newnarn/Newan/Noonan/Nunan  Soundex N550
+  Boyd × Newman/Newnam  N550
+  Andy/Andrew/Andridge × Newman  N550
+  Allie × Newman/Brandenburg
+  McCoy/Coy × Newman/Newnam  M200 / N550
+  ocr-surname Newman → newnam / newnarn / newan
+  Place: Estill / Irvine / Station Camp / Ravenna / Jackson / McKee / Breathitt / Powell / Wolfe / Clay City / Stanton
+
+=== ESTILL ED 43 leaf 1094 sheet 8B (image seen) ===
+IA 14thcensusofpopu566unit leaf 1094
+State Kentucky · County Estill · Irvine Precinct
+SD 7 · ED 43 · Sheet 8 B
+Enumerated 16 January 1920 · West C. Richardson
+hh 175/170:
+  Newman, [Andridge? / Andy?], Head, O, M W 34, KY/KY/KY, Farm laborer (working out)
+  — [Sarah?], Wife, F W 34, KY/KY/KY
+  — [Velva?], Daughter, F W 10
+  — [Herman?], Son, M W 5
+  — [John?], Son, M W 2
+NOT John L ~41 + Cora ~26 + Pencie/Robert/Florence. Given names capped [?] (C633 C654).
+
+=== ESTILL ED 44 leaf 1126 sheet 14B (image seen) — C628 WITHDRAWN ===
+IA same reel leaf 1126
+State Kentucky · County Estill · Station Camp Precinct
+SD 7 · ED 44 · Sheet 14 B
+Enumerated 26 January 1920 · John Fox[?]
+hh 120/135:
+  Newman, Boyd, Head, W 45
+  — Allie, Wife, 35
+  — Sarah A, Daughter, 15
+  — Arthur, Son, 13
+  — Corlue, Son, 12
+  — Clarence, Son, 10
+  — Chester, Son, 8
+  — [Eunice?], Son, 6
+  — Lella M, Daughter, 4
+  Brandenburg, [Neat?], Nephew
+  [Newman?], [Lida?], Nephew, 7
+Pass 75 C628 “Station Camp nil Newman” is WITHDRAWN. Household was on 14B (C634 C635).
+
+=== SOUNDEX N-550 p4130 (image seen) ===
+IA soundex1920ky117 leaf 4130
+N-550  Newman Boyd  Head  W 45  Kentucky  Estill
+Vol 20  ED 44  Sheet 14  Line 7
+  Newman, Allie   W 35 KY
+  —— Sarah A.     D 15 KY
+  —— Arthur       S 13 KY
+  —— Corlue       S 12 KY
+  —— Clarence     S 10 KY
+Card #1 of 2. Slack: Soundex “sheet 14 line 7” vs household visually on 14B (C637).
+Saved rejects in A-window: p4110 Arthur Jr Jefferson; p4120 Ben T. Ballard. No Andy/Andrew of Estill on those two plates (C638).
+
+=== REJECTS (image seen) ===
+ED 174 sh 9B leaf 0922: Nunan, Benjamin + wife — not Newman (C639).
+ED 40 sh 6 Red Lick leaf 1027: Nunan, John ~37 + wife + dau 3 — not John L (C640).
+ED 39 sh 14B leaf 1010 MD 3: Hawkins, John L / Henry R — not Newman (C641).
+Remaining Estill EDs 36/37/174/175/38–43/45 contact-sheet scan: no additional Newman/McCoy HEAD besides 1094 and 1126 (C642). Contact-sheet resolution — not every line at full-sheet.
+
+=== SAME-PERSON ===
+Boyd 45 + Allie 35 + Sarah A/Arthur/Corlue/Clarence ≠ John L ~41 + Cora ~26 + Pencie/Robert/Florence. DISPROVED (C636).
+ED 43 34+34+3 children ≠ John L+Cora. DISPROVED (C654).
+John L + Cora absent as a couple from 1920 Estill (C643). Still absent Owsley (C611) + published Lee (C612).
+
+=== JACKSON T625-577 (image seen) ===
+Title leaf 0001: KY Vol 41 Jackson EDs 17–28 (comp) then Knott 48–57; Vol 42 Jefferson.
+County card leaf 0002: JACKSON CO. EDs 17 to 28.
+ED 17 sh 1A leaf 0003: McKee Town, Allie Baker, 2 Jan 1920. Harrison / Tyra / Johnson / Boggs — no Newman on this first sheet (C644).
+Leaves 0003–0224 name-column contact sheets: no Newman/Newnam/McCoy head identified at contact-sheet resolution (C645). Knott begins ~0225.
+
+=== BREATHITT T625-559 ===
+Metadata: Bell EDs 1–34 then Breathitt EDs 39–57. Imagecount 1177.
+ED 41 header leaf 0901 image seen (C646).
+Name columns 0776–1176 downloaded; not fully line-read (residual B088).
+Pass 72 extract already rejected Newman, John 38 + Jennie 21 Breathitt ED 52 (C647 / C580).
+
+=== DELAYED BIRTH (compiled index, text extracted from saved PDF) ===
+SCGS Estill delayed births PDF (5 pp):
+  NEWMAN  Arthur  24 Jan 1906  Estill  Allie Brandenbur  vol 240  cert 49665
+Index-only. Mother string truncated “Brandenbur” = Brandenburg on the same list’s other rows (Vannie Brandenbu, Lucy Brandenburg).
+PROBABLE = Soundex Arthur 13 (b. ~1906–07) in Boyd+Allie house (C650).
+Allie ~35 in 1920 (b. ~1885) ≠ Cora Brandenburg ~26 (b. ~1893). FAN only; not the same woman (C651).
+Certificate image unread.
+
+=== WOLFE T625-602 (image seen) ===
+Title leaf 0002: KY Vol 91 Wayne EDs 258–275; Wolfe EDs 234–242; Vol 92 Whitley EDs 276–302 (C652).
+Leaf 0003 = Wayne Co. card. Wolfe population sheets unread.
+
+=== POWELL T625-596 (image seen) ===
+Metadata: Pike EDs 106–137 then Powell EDs 142, 177, 143–146, 178. Imagecount 1202.
+Leaf 1000 still Pike. Leaf 1050 county card: POWELL CO. EDs 142 and 177 / 143 to 146 / 178 (C655).
+Leaf 1051 = ED 142 sh 1A Stanton Precinct, 13 Jan 1920, George E. [Harrison?]. First hh Martin / Jackson + Dora wife — not P001 (wrong surname; P001 would be ~48) (C656).
+Leaf 1100 = ED 144 sh 11B Clay City Town, 4 Feb 1920, Hugh P. Caudle[?].
+Leaf 1180 = ED 178 sh 2B, enumerator Minnie S. [Langhter?].
+Powell name columns unread except that first-line reject (C657).
+
+=== FS R011 step 27 ===
+HEAD/GET FamilySearch film/catalog 127913 127891 127869 964964 1146342 156057 97277 → HTTP 403 Incapsula (C648).
+Images unread. Do not re-ask R001/R007/R008.
+
+=== ACCESS HONESTY ===
+Estill 1094 + 1126 + Soundex 4130 + three reject sheets: image seen.
+Jackson 0001–0003 + 0003–0224 contact sheets: image seen at montage resolution.
+Breathitt ED 41 header: image seen; remaining name columns not fully line-read.
+Delayed-birth PDF: saved + pypdf text extract (compiled derivative).
+Wolfe title 0002 + Wayne card 0003: image seen.
+Powell 1050 card + 1051/1100/1180 headers: image seen.
+FS films unread. Newspapers.com / Duell-Clark / cert 17762 / 1926 papers / M1509 cards unread.
+Authored latest.docx SHA 78cdcf44… not overwritten.

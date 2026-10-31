@@ -1,0 +1,29 @@
+1900 U.S. census, Owsley County, Kentucky, Mag. Dist. 6, Buck Creek.
+Transcribed by Debi Houser Kendrick.
+Local copy: sources/census/owsley-1900-buckcreek.html
+URL: https://usgennet.org/usa/ky/county/owsley/census/1900/buckcreek.html
+Accessed / re-read: 30 Oct 2026. Transcription only (original schedule not isolated this pass).
+
+Header notes on the page:
+  1900 Owsley County Ky Census — Buck Creek, Dist. 6
+  Numbers continue from Mag. Dist. 2
+  Enumerated by George W. Garrett
+  Date line immediately above dwelling 321/323: 22 June 1900
+
+Household 324/326 (after 323/325 Harrison TURNER):
+  Minerva NEWNAM  head  m  w  1/1850  50  wd  9-6  VAVATN
+  Callie          dau   f  w  1/1885  15  s        KYKYVA
+  Evert           son   m  w  11/1886 13  s        KYKYVA
+  David F.        son   m  w  2/1889  11  s        KYKYVA
+
+Notes for the case:
+- Sex “m” on a widow head with daughters is a clerk/transcript error; treat as female widow.
+- 9 children born, 6 living; three of the six are in this house.
+- Father nativity KY on the children; mother VA — matches a Virginia-born Minerva.
+- No husband in the house: Daniel was dead before 22 June 1900.
+
+Nearby reject (same precinct, not this woman):
+  303/305 Jackson EVANS; Minerva wife age 34 md 6-5 KYVAVA (husband living).
+
+Claims: C431 C432 C433 C434 C435 C454
+Source: S373

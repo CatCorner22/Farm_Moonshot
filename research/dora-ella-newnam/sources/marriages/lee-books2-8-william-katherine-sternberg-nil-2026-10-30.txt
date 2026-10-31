@@ -1,0 +1,19 @@
+# Negative search — Lee Marriage Books 2–8 (Kendrick HTML)
+# Captured: 2026-10-30  Access: transcription only
+# Files: lee-marrbook2-sternberg-scan through lee-marrbook8-sternberg-scan
+
+Exact strings: William Newnam, William Newman, Katherine Sternberg, Katie Sternberg,
+Kate Sternberg, Catharine Sternberg, Sternberg (as bride surname).
+
+Result: NO William Newnam/Newman × Katherine/Katie/Kate/Catharine Sternberg license
+in Books 2–8 (coverage ~1881–~1907).
+
+Hits that are NOT that marriage:
+- Book 2: Samuel P. NEWNAM × Dora Ella NEWNAM 10 Dec 1885 (already C010)
+- Book 2: Millard F. SNOWDEN × Ella Mary STERNBERG 15 Nov 1883
+- Book 3: Buford STERNBERG × Ollie MURPHY 18 Oct 1888; witness William Newnam
+- Book 5: Grant NEWNAM × Martha BRANDENBURGH bond 12 Aug 1899
+- Book 5: Felix STERNBERG × Jane SIZEMORE 25 Dec 1897
+- Book 8: HOGAN × Addie STERNBERG; Boot Sternberg
+
+Residual: Book 1; Owsley licenses; FS statewide KY bride index.

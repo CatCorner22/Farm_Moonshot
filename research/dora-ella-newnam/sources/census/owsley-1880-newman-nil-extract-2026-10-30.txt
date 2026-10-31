@@ -1,0 +1,19 @@
+1880 Owsley County, Kentucky — Sturgeon and Booneville transcripts.
+Local copies:
+  sources/census/owsley-1880-sturgeon.html
+  sources/census/owsley-1880-booneville.html
+URLs:
+  https://usgennet.org/usa/ky/county/owsley/census/1880/sturgeon.html
+  https://usgennet.org/usa/ky/county/owsley/census/1880/booneville.html
+Accessed / grepped: 30 Oct 2026. Transcription only.
+
+Exact strings: Newman, Newnam, NEWNAM, NEWMAN.
+
+Result: **nil** Newman/Newnam household on those two precinct pages.
+Other Daniels (Strong, Stevens, Steward, Combs, Campbell, sons of other surnames) are not this man.
+
+Lee 1880 directory URLs 403; guessed additional 1880 precinct slugs 404.
+Daniel × Minerva 1880 house remains unread (B076).
+
+Claims: C447
+Source: S378

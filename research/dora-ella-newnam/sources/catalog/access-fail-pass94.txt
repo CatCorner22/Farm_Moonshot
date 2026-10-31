@@ -1,0 +1,6 @@
+Pass 94 access failures 2026-10-31
+LOC https://www.loc.gov/item/sn85052076/ HTTP 403
+Duell-Clark https://www.duellclarkfuneralhome.com/obituaries DNS fail
+SortedByName https://sortedbyname.com/letter_n/newnam.html HTTP 403
+C1006 L838
+Do not treat as retrieved records.

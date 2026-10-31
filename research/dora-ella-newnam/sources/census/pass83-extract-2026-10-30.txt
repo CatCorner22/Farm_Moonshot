@@ -1,0 +1,98 @@
+Pass 83 extract — 30 Oct 2026
+B088 Breathitt full-sheet map + John 38+Jennie original hunt (continued)
+B016 Rissie servant household-head surname
+B045/B061 FS walls (R011-33)
+B089 Book 6 register + certs 28501/31780 still unread
+Powell/Wolfe sampled full sheets
+
+VARIANTS (search_variants.py + kinship Soundex N550) before query:
+  John / Jno / Johnnie × Newman/Newnam/newnarn/newan/Noonan/Nunan  N550
+  Jennie / Jenny × Newman/Newnam
+  Virgil / Vergil / Freda / Henry / Julie as cross-identifiers
+  Rissie / Rissa × Newnam/Newman
+  Edney / Edny / Giddings / Biddings (household-head storm after nil Giddings)
+  Place: Breathitt / Quicksand / Crockettsville / Jackson / Heidelberg / Bell
+  Cross-id: Soundex Vol 4 ED 52 sh 19 ln 17
+  Sheet-number misreads: 19 / 9 / 10 / 17 / 1 / 11
+  ED misreads: 52 / 42 / 32 / 56 / 57 / 41 / 45 / 43
+  Cert 28501 / 31780 (still unread)
+
+=== BREATHITT T625-559 FILM MAP (image seen, w800) ===
+AHGP / NARA: reel 559 = Bell EDs 1–34 + Breathitt EDs 39–57.
+  Leaf 0700 = Bell ED 24 sh 2A, Clear Creek, John Hays.
+  Leaf 0784 / 0788 = still Bell (Watkins Cloy). Bell runs to ~0788.
+  Leaf 0790 = Breathitt ED 41 sh 1B, Crockettsville Precinct 2, W. Milton, 2 Jan.
+            ⇒ ED 41 starts ~0789 sh 1A. EDs 39–40 were not isolated
+              between Bell end and ED 41 start.
+  Leaf 0800 = ED 41 sh 6A; 0810 = ED 41 sh 11A (same enumerator).
+  Leaf 0820 = ED 42 sh 10A, Precinct 2, Everett Back, 10 Jan.
+  Leaf 0840 = ED 42 sh 17A (reconfirmed). 0844 = ED 42 sh 19A (pass 82; not John+Jennie).
+  Leaf 0866 = ED 44 sh 1A, Precinct 4, Samuel [Hamdill?], 8 Jan.
+  Leaf 0870 = ED 44 sh 3A (pass 82).
+  Leaf 0896 = ED 45 sh 1A (pass 82). 0900 = ED 45 sh 3A.
+  Leaf 0932 = ED 47 sh 3A (NOT ED 45 sh 19).
+  Leaf 1000 = ED 50 sh 6A (USGW ED 50 transcripts already nil Newman, C731).
+  Leaf 1100 = Breathitt mid-reel (precinct 11 / ED 46-or-50 band).
+  Leaf 1116 = ED 52 sh 1A Quicksand (reconfirmed).
+  Leaf 1126 = ED 52 sh 6A. 1128 = ED 52 sh 7A (C720).
+  Leaf 1132 ≈ ED 52 sh 9A. 1136 ≈ ED 52 sh 11A/B.
+  Leaf 1138 = ED 56 sh 1A Crockettsville, Elliott Croft, 2 Jan.
+            ⇒ ED 52 ends by sh ~11. EDs 53–55 not isolated as separate
+              multi-sheet blocks between 1136 and 1138.
+  Leaf 1140 = ED 56 sh 2A; 1144 = ED 56 sh 4A; 1150 = ED 56 sh 7A;
+            1160 = ED 56 sh 12A. ED 56 max ~13 sheets — no sheet 19.
+  Leaf 1168 = ED 57 sh 3A, Precinct 8, M. C. Edmunds, 14 Jan.
+  Leaf 1170 = ED 57 sh 4A; 1172 = ED 57 sh 5A; 1174 = ED 57 sh 6A.
+  Reel ends ~1176 (1178/1180 HTTP 404). ED 57 max ~7 sheets — no sheet 19.
+
+Soundex “ED 52 sh 19 ln 17” still has no matching original:
+  ED 52 has no sheet 19 (max ~11).
+  ED 42 sh 19A ln 17 already rejected (C735).
+  ED 56 / 57 have no sheet 19.
+  ED 41 ends before sheet 19 (ED 42 already at 0820 sh 10A).
+  ED 44 / 45 do not reach sheet 19 before the next ED.
+  Bell ED 32 sh 19 does not fit the remaining Bell stretch (~0784–0788).
+Original of John 38 + Jennie STILL NOT ISOLATED.
+
+=== 1910 LEE ED 98 sh 6A (Rissie household head) ===
+Diplomatic (names-mid + full sheet + servant zoom), 27 Apr 1910:
+  dw 105 / fam 5: Edney, Sam, Head, M W 32 M1, KY/KY
+                  Emma, Wife, F W 31 M1 1-1, KY/KY
+                  Della, Daughter, F W [2? / 20?], KY/KY
+                  Newman, Rissie, servant, F W 15 S, KY/KY
+  dw 107 / fam 6: Edney, Clyaton, Head, 22; Liby, Wife, 19
+Same sheet, earlier: Newman, William, Head, 44; Martha, Wife, 33;
+  Floyd, Son, 6 — NOT the 1902 Floyd groom (would be ~31 in 1910).
+Head surname is EDNEY, not Giddings/Biddings. Given name Sam, not 52.
+Rissie still POSSIBLE vs Dora’s Rissa (age 15 vs ~12–13). Not merged.
+
+=== 1920 HEIDELBERG (compiled, already on disk) ===
+Henry NEWMAN 39 + Nettie (Mays) — Book 6 1903 couple.
+NOT Soundex Henry 52 / Julie 42 in John 38’s house.
+
+=== POWELL T625-596 sampled full sheets ===
+  1060 = ED 142 Stanton sh 5B, 31 Jan. No Newman / John L+Cora head isolated.
+  1115 = ED 144 Mag Dist 3 sh 8A, 9 Jan, J. C. Willis. No Newman head isolated.
+  1195 = ED 178 sh 8A, 4 Mar, Scott R. Conley. No Newman head isolated.
+Upgrades C658 from montage-only at those three leaves. Residual: unread Powell sheets.
+
+=== WOLFE T625-602 sampled ===
+  0400 = Hazel Green precinct (dark). No Newman head isolated on that sheet.
+Residual: remaining Wolfe 0374–0435 full sheets.
+
+=== FS / CERTS / BOOK 6 ===
+FS film URLs 127913 / 127891 / 127869 / 964964 / 1146342 / 156057 / 97277
+  HTTP 404 this session (R011 step 33). Images unread.
+Book 6 register unread. Certs 28501 / 31780 unread.
+USGenNet 1910 Heidelberg / ed98.html 404 (landing lists ED 98 as planned).
+KYGenWeb Breathitt funeral-card index: no Newman / Newnam / Jennie / Virgil.
+
+=== ACCESS HONESTY ===
+T625-559 headers listed above: image seen (w800).
+ED 52 sh 6A / ED 56 sh 1A / ED 57 sh 3A: image seen.
+1910 ED 98 sh 6A names-mid + full sheet + servant zoom: image seen.
+Powell 1060 / 1115 / 1195 and Wolfe 0400: image seen.
+KYGenWeb Breathitt obits landing: HTML seen.
+USGenNet 1910 Lee landing: HTML seen; Heidelberg file 404.
+FS seven IDs 404. Book 6 register unread. Certs unread.
+Authored latest.docx SHA 78cdcf44… not overwritten.

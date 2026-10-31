@@ -1,0 +1,13 @@
+LOC Chronicling America 1926 extract — Pass 103
+Queries (fo=json):
+
+1) q="Dora Stone" dates=1926/1926
+   hits=1
+   REJECTED: Image 12 of Evening star (Washington, D.C.), 24 Dec 1926
+   https://www.loc.gov/resource/sn83045462/1926-12-24/ed-1/?sp=12&q=%22dora+stone%22
+   Wrong city, wrong month, Christmas issue — not Yell / Ola / Danville / Dardanelle.
+
+2) q=Newnam Ola dates=1926/1926
+   hits=0
+
+Full 1.8 MB collection JSON left untracked.

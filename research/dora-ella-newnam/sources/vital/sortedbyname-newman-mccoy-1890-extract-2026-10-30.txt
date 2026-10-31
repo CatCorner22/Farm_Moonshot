@@ -1,0 +1,17 @@
+SortedByName McCoy M-block, captured 30 Oct 2026
+URL: https://sortedbyname.com/letter_m/mccoy/index_939.html
+Access: index only. Do not merge with P010.
+
+Extract:
+MCCOY, NEWMAN was born 13 April 1890, was assigned Social Security number 447-20-2466, and is in the NUMIDENT public file of deceased persons. The Social Security field office at MODESTO CALIF received the claim 11 July 1962. Check the Source file [free] and Archives.com for NEWMAN MCCOY. [$]
+
+Same-person test vs P010 McCoy Newnam (Apr 1890, KY):
+  Identifier 1: inverted name “MCCOY, NEWMAN” vs “Newman, McCoy”
+  Identifier 2: 13 April 1890 vs census April 1890
+  Missing: parents, spouse Edith, Kentucky residence, death date
+  Contradiction risk: SSN issued / claimed in California (Modesto 1962)
+Verdict: POSSIBLE inverted-name NUMIDENT only. NOT MERGED.
+Do not print 1962 as a death date. 1962 is a claim-received date.
+Do not research living 1932 descendants.
+Claims: C576
+S415

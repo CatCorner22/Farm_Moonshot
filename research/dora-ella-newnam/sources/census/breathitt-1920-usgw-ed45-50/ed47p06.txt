@@ -1,0 +1,76 @@
+1920 Federal Census, Breathitt County, Kentucky (ED 47: File 6 of 6)
+
+************************************************************************
+Copyright.  All rights reserved.
+http://www.usgwarchives.net/copyright.htm
+http://www.usgwcensus.org/
+http://www.usgwcensus.org/cenfiles/
+**************************************************************************
+
+The USGenWeb Archives provide genealogical and historical data to the 
+general public without fee or charge of any kind. It is intended that 
+this material not be used in a commercial manner.  All submissions 
+become part of the permanent collection.
+
+Abstracted by Ron Smith from public records.  Edited and 
+formatted by Maggie Stewart, December 2005.  Submitted by 
+Ron Smith.   
+
+A volunteer has not yet been found to proofread this transcription.  
+If you are interested in doing this please contact the USGenWeb
+Census Project.
+
+Both above notices must remain when copied or downloaded.
+___________________________________________________________
+
+NOTE:  For more information on Breathitt County, Kentucky, 
+       Please visit the Breathitt County, KYGenWeb page at 
+       http://www.rootsweb.com/~kybreath/index.htm
+____________________________________________________________________________
+
+This work follows all guidelines of the USGW Census Project,
+http://www.usgwcensus.org/.
+____________________________________________________________________________
+
+Key to Census Columns: 
+
+LN             Line #                                       S              Attended School                                           
+STREET         Street                                       R              Can read                                                  
+HN             House #                                      W              Can write                                                 
+DW             Dwelling #                                   BIRTHPLACE     Person's Place of Birth                                   
+FN             Family #                                     LANGUAGE       Person's Mother tongue                                    
+LAST NAME      Last Name                                    FATHER         Father's Place of Birth                                   
+FIRST NAME     First Name                                   LANGUAGE       Father's Mother tongue                                    
+RELATION       Relationship to head of household            MOTHER         Mother's Place of Birth                                   
+O              Home Owned or rented                         LANGUAGE       Mother's Mother tongue                                    
+M              Free/Mortgaged                               E              Speaks English?                                           
+S              Sex                                          Trade          Trade of profession                                       
+C              Color or race                                Industry       Type of business                                          
+AGE            Age, last birthday                           Emp            Employer, employee, or works on own account               
+M              Marital Status                               Sched          Farm                                                      
+Imm            Year of immigration                          Sndx           Soundex Code                                              
+N              Naturalization                               REMARKS        Transcriber Remarks                                       
+Nat            Year naturalized                                                                                                      
+____________________________________________________________________________
+
+This is the 1920 Federal Census for Breathitt County, Kentucky
+____________________________________________________________________________
+ 
+---
+Year: 1920   State: Kentucky   County: Breathitt   ED: 47   Sheet No: 169A
+Reel No: T625-559   Division: Prec # 6   SD: 9   Page No: 11B
+Incorporated Place: X   Ward: X   Institution: X
+Enumerated on: January 28, 1920   by: J.L. Terry   
+Transcribed by Ron Smith for USGenWeb,
+http://www.usgwcensus.org/. Copyright: 2005
+ 
+======|================================|=============|=================================|=================|=======|===========|=============|=============|=================================|=================================|=================================|===|==========================================|=====|======|==============================
+LINE  | STREET                   HOUSE | DWELL FAMIL | LAST NAME       FIRST NAME      | RELATION        | OW MO | S C AGE M | IMMI N NATU | SCH REA WRI | BIRTHPLACE      LANGUAGE        | FATHER                          | MOTHER                          | E | TRADE           INDUSTRY             EMP | NUM | SOUN | REMARKS                      
+======|================================|=============|=================================|=================|=======|===========|=============|=============|=================================|=================================|=================================|===|==========================================|=====|======|==============================
+   51 |                             Fm |   167   167 | Combs           Joanie          | Daughter        |       | F W 15  S |             |     Yes Yes | Kentucky        English         | U.S.                            | U.S.                            |   |                 housework                |     | C512 |                              
+   52 |                             Fm |   168   168 | Terry           J.L.            | Head            | O  F  | M W 35  M |             |     Yes Yes | Kentucky        English         | Kentucky        English         | Kentucky        English         | X |                 Farmer                   | 168 | T600 |                              
+   53 |                             Fm |   168   168 | Terry           Lou             | Wife            |       | F W 30  M |             |     Yes Yes | Kentucky        English         | U.S.                            | U.S.                            |   |                 housework                |     | T600 |                              
+   54 |                             Fm |   168   168 | Terry           Alma            | Daughter        |       | F W 8   S |             | Yes Yes Yes | Kentucky        English         | U.S.                            | U.S.                            |   |                 at school                |     | T600 |                              
+   55 |                             Fm |   168   168 | Terry           Zula            | Daughter        |       | F W 2   S |             |     No  No  | Kentucky        English         | U.S.                            | U.S.                            |   |                 none                     |     | T600 |                              
+   56 |                                |             |                                 |                 |       |           |             |             |                                 |                                 |                                 |   |                                          |     |      | Lines 56 - 100 left blank.   
+======|================================|=============|=================================|=================|=======|===========|=============|=============|=================================|=================================|=================================|===|==========================================|=====|======|==============================

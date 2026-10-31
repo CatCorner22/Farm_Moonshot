@@ -1,0 +1,8 @@
+Pass 72 access note, 30 Oct 2026.
+FamilySearch catalog IDs 127913 / 127869 / 1146342: HTTP 403 from this VM
+(R011 step 23). Images not examined.
+USGenNet Owsley 1920 directory https://usgennet.org/usa/ky/county/owsley/census/1920/
+HTTP 404 (same as C567).
+TFKRHA 1930 D7 Wayback CDX empty (superseded for the household by IA T626-773).
+Claims: C566 C567 C578
+S416

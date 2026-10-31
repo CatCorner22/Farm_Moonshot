@@ -1,0 +1,40 @@
+1950 U.S. census, Woodford County, Kentucky, ED 120-13, sheet 0012.
+NARA T628 (series 43290879-Kentucky-164399).
+Image: https://nara-1950-census.s3.us-east-2.amazonaws.com/1950census/43290879-Kentucky/43290879-Kentucky-164399/43290879-Kentucky-164399-0012.jpg
+IIIF: https://1950census.archives.gov/iiif/2/1950census%2F43290879-Kentucky%2F43290879-Kentucky-164399%2F43290879-Kentucky-164399-0012.jpg/info.json
+NARA name API: https://1950census.archives.gov/api/search?name=Newman&state=KY&county=Woodford
+Accessed 30 Oct 2026. Image seen (age-column crop) + name-index JSON.
+
+API method note:
+  state=Kentucky returns 0 hits.
+  state=KY (or county-only) returns the Woodford Newman set.
+  Local JSON: sources/census/nara-1950-woodford-newman-api.json
+
+API tokens on this sheet (scheduleId 1932072, ED 120-13, image …-0012.jpg):
+  row 30: "newman Juhn"
+  row 30: "cocan"
+  (OCR misspellings of John / Cora.)
+
+Visual read of the same sheet (crop
+  sources/census/woodford-1950-120-13-john-cora-ages.jpg):
+  Household serial ~54 / 55 (lines immediately after several
+  “Vacant” / “no one at Home” rows).
+  Newman [Newnman?], John   Head  w  m  70  married   Ky
+           Cora             wife  w  f  56  married   Ky
+  Birthplace column is Ky for both. A year-ago residence tick
+  is Ky (form question crop is on the saved JPEG).
+  Diplomatic: surname loop may be Newman or Newnman; given name
+  is John, not Juhn. Wife given name is Cora, not “cocan.”
+
+Other Woodford Newman API hits this pass (not this couple):
+  ED 120-14 — newman Clinton + Gladys
+  ED 120-13 sheet 0004 — newman Kennith m.
+  ED 120-6 — newman Herbert
+  ED 120-4 — neuman-Roberth (OCR)
+
+This household is **not** the 1950 Owsley ED 95-3 Clarence+Mae
+house (C512). Ages 70 / 56 in April 1950 sit on 1940 John 63 +
+Cora 47 (C489). Same county as KDI JOHN L 88 Woodford 17 Jul 1966.
+
+Claims: C525 C526 C527 C528 C529
+S404

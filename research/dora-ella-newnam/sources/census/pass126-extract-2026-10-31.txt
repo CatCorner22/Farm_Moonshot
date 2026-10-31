@@ -1,0 +1,25 @@
+PASS 126 EXTRACT 2026-10-31
+Variants cats 1-4: William Newnam/Newman/Newnarn/Numan/Newnom; Rhoda Tincher/Tinchir/Fincher/Tinker; OCR Newman/newnam; Soundex N550 T526 S350.
+
+B058 LOC sn89051008 item.digitized: false (pass126). IA Solr title:(Dardanelle Post-Dispatch) AND year:1926 numFound:0. Phone 479-968-4368 not re-asked. C1592
+
+B071 Adair 1850: SK 404 (pass125 residual). KYGenWeb / kykinfolk 1850censusindex.htm LIVE (Randy Flowers / Michael Watson heads index; Sharon Fuller Bell). N = Nalley, Naylor, Neel, Neet, Nell, Nelson, Newcomb (William H p.25), Nip, Noel, Northup, Nowel, Nunn. T = Tarter…Turner; Timberlic nearest. No Newman/Newnam/Tincher. County CLOSED compiled. C1593
+IA populationschedu0190unix imagecount 620 (Adair reel exists; originals not walked after compiled close).
+
+B071 Mason 1850: SK product-only (pass125 residual). kygenweb.net/mason/1850index.txt LIVE 4208 lines. N-near = Neal/Needow/Neel/Nelson/Newall/Newcomb/Newdigate/Nichols/Nicholson. Finch 0065a Dist 2 + 0108b Maysville (not Tincher). No Newman/Newnam/Tincher. County CLOSED compiled. C1594
+
+B071 1840 Lincoln: reel 117 imagecount 365 confirmed Laurel/Lawrence/Lewis/Lincoln/Livingston. USGW partial pages 82-120 only (123/132 not transcribed). n0240 is Lincoln / Stanford (corrects pass 125 "Lawrence" header read). n0295 printed page 145 Samuel Reed district. Calibration 2 leaves/page: n0249 = page 123; n0251 = page 124; n0267 = page 132. C1595
+n0249 page 123 IMAGE SEEN allotted James H. Prince [?]. SK neighbors visible (Cumberland Hospitier, Bryan James, Finks, Olive Rich D, Smith Wm B, Winders, Bledsoe, Jenkins, Twiddle). Two Newman heads: Newman J (male ticks including 15-30 band) and Newman H.A. (female 15-40 ticks; possible widow). Neither given name is William. REJECT vs William × Rhoda. C1596
+n0267 page 132 IMAGE SEEN. SK neighbors visible (McDaniel, Manning George, Bosley John, McIntire Wm, Harrison James, Berry, Holeman, Williamson). One hard line reads Holeman/Newman Dasey [?] — given name Dasey/Davey ≠ William. SK lists both HOLEMAN and NEWMAN on 132. REJECT as William. Paleography of that one surname capped POSSIBLE Newman. C1597
+1840 Lincoln pages 123/132 CLOSED for the William living-head hunt. Young William in 1840 may still sit in another man's house (1840 names heads only). C1598
+
+B071 Lincoln 1850: additional namecols IMAGE SEEN nil Newman/Tincher: n0190 Brady/Horine/Hays/Dawes; n0220 Camden/Creek/Coffin/Martin; n0240 Carter/Hocker/Hogg; n0250 Bright/Heath/Collier; n0260 Dist 2 header (already); n0280 Weed/Stephenson/Hocker; n0300 Gentry/Castle/Pearl/Noel; n0320 Sibley/Carson/Hocker; n0330 Carpenter/Creek/Gentry. OCR still running (tesseract draft). Every-line residual. County NOT closed. C1599
+
+No free William × Rhoda license. C1600
+Parents still PROBABLE. 1860 Rhoda widow + B.F. 7 PROVEN. #28 stands. Abner n0092 POSSIBLE only. C1601
+
+B059 GT Lee WWI LIVE 452540. Brandenburg, Luther + Underwood, Luther only. Cards unread. C1602
+B065/B045/B069 FS 1146342 SPA isLoggedIn false ~19 KB (R011-67). USGenNet wills LIVE — Jane Steele NEWMAN + Elizabeth NEWNAM + Mary F. TINCHER; no Samuel P. C1603
+B055/B080 FAQ 9938 LIVE cards 228-229. No free June 1958 clip. Phone not re-asked. C1604
+B088 IA 602 pass126 metadata 2 bytes empty. Use pass123 still 515. One line. C1605
+B081 Grant 21 not merged. B084 POSSIBLE Jr only. No 1966/1962. No 33-12/33-13. Phones/R001/R007/R008 not re-asked. C1606

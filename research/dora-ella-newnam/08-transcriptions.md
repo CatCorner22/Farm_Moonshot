@@ -502,5 +502,873 @@ Header readings (diplomatic):
 
 Pass 2: ED **43** starts at p.**256**, not p.254 (p.254 is Loretto Academy boarders, ED 42 tail). Name-column samples listed in **S256** have **no Stone**. Full ED **42–43** A+B later swept (**C264**).
 
+## DOC025 — 1920 U.S. census, Estill Co. KY, Irvine Precinct, ED 43 sheet 8B hh 175/170 (original)
+- Image file(s) + SHA-256: `sources/census/estill-1920-ed43-1094-newman-andy-hh.jpg` · `5ba79b342e08324e0aad85592546a1f9fd6a8aea6f7ba341f8272456eb835d0f`; zoom `0c0fec1f8114d2635866bea8b4e1d848e4ab0f18b696a7c402e36124e66c12a1`
+- Page: IA `14thcensusofpopu566unit` leaf **1094**; NARA T625-566; ED **43**, sheet **8 B**; enum. **16 Jan 1920**, West C. Richardson
+- Provenance: NARA microfilm via Internet Archive, accessed 30 Oct 2026. **Original image seen.**
+
+Header (diplomatic):
+> State Kentucky · County Estill · Irvine Precinct · Supervisor’s District **7** · Enumeration District **43** · Sheet **8 B**  
+> Enumerated by me on the **16** day of January, 1920. / **West C. Richardson**, Enumerator.
+
+| Dw/Fam | Name | Rel | Sex/Color | Age | POB | Occ. |
+|---|---|---|---|---|---|---|
+| **175/170** | **Newman, [Andridge? / Andy?]** | Head | M W | **34** | KY/KY/KY | Farm laborer (working out) |
+| | **— [Sarah?]** | Wife | F W | **34** | KY/KY/KY | — |
+| | **— [Velva?]** | Daughter | F W | **10** | KY | — |
+| | **— [Herman?]** | Son | M W | **5** | KY | — |
+| | **— [John?]** | Son | M W | **2** | KY | — |
+
+Pass 2: Given names capped `[?]`. Ages 34/34/10/5/2 clear on the zoom. **Not** John L ~41 + Cora ~26. → **C633 C654** / **S433**.
+
+### Normalised reading
+A Newman couple, both 34, with three children 10, 5, and 2, lived in Irvine Precinct on 16 January 1920. The head was a farm laborer working out. They are not John L. and Cora.
+
+## DOC024 — 1920 U.S. census, Estill Co. KY, Station Camp, ED 44 sheet 14B hh 120/135 + Soundex N-550 p4130 (original)
+- Image file(s) + SHA-256: `sources/census/estill-1920-ed44-1126-sheet14b.jpg` · `d897e494e2202efbe08fd4bd96d2966a390dadf4bdf3fdb55c4c3c8ce492297a`; zoom `19657bf7f407985e8e67045532ea3731864fea8694533a438a4f34911c2e6e8f`; Soundex `6d4c706ad94810d6b8d7a763bfd03e5ac3dad22ae29cc26218f82081aa48db66`
+- Page: IA `14thcensusofpopu566unit` leaf **1126**; NARA T625-566; ED **44**, sheet **14 B**; enum. **26 Jan 1920**, John Fox[?]
+- Soundex: IA `soundex1920ky117` leaf **4130**; N-550; Vol **20** ED **44** sheet **14** line **7**; card **#1 of 2**
+- Provenance: NARA microfilm via Internet Archive, accessed 30 Oct 2026. **Original image seen.**
+
+Header (diplomatic):
+> State Kentucky · County Estill · Station Camp Precinct · Supervisor’s District **7** · Enumeration District **44** · Sheet **14 B**  
+> Enumerated by me on the **26** day of January, 1920. / **John Fox[?]**, Enumerator.
+
+| Dw/Fam | Name | Rel | Age |
+|---|---|---|---|
+| **120/135** | **Newman, Boyd** | Head | **45** |
+| | **— Allie** | Wife | **35** |
+| | **— Sarah A** | Daughter | **15** |
+| | **— Arthur** | Son | **13** |
+| | **— Corlue** | Son | **12** |
+| | **— Clarence** | Son | **10** |
+| | **— Chester** | Son | **8** |
+| | **— [Eunice?]** | Son | **6** |
+| | **— Lella M** | Daughter | **4** |
+| | Brandenburg, **[Neat?]** | Nephew | |
+| | **[Newman?], [Lida?]** | Nephew | **7** |
+
+Soundex card (diplomatic):
+> N-550 · Newman Boyd · W 45 · Kentucky · Estill · Vol 20 · E.D. 44 · Sheet 14 · Line 7  
+> Allie W 35 · Sarah A. D 15 · Arthur S 13 · Corlue S 12 · Clarence S 10 · #1 of 2
+
+Pass 2: Boyd and Allie clear on both original and card. Slack: Soundex “sheet 14 line 7” vs household on **14B**. Pass 75 **C628** nil is **withdrawn**. **Not** John L + Cora. → **C634 C635 C636 C637** / **S434**.
+
+### Normalised reading
+Boyd Newman, 45, and wife Allie, 35, with at least five children named on the Soundex card and more on the B-side, lived in Station Camp precinct on 26 January 1920. They are not John L. Newman and Cora Brandenburg.
+
+## DOC010 — 1918 Estill death certificate registered 9771 (image seen)
+
+Local file: `sources/vital/estill-1918-susanna-brandenburg-cert9771.jpg` (KYGenWeb scan of the registered certificate). SHA-256 computed at save. Transcript: `estill-1918-susanna-brandenberg-cert9771.txt`.
+
+Diplomatic (selected fields; handwriting marked):
+> County **Estill** · Voting precinct **Sta Camp** · Registered **9771**  
+> Full name: **[Susananna?] Brandenburg**  
+> Female · White · Married  
+> Date of birth: **February 5, 1863** · Age **55** yrs **2** mos. **16** ds.  
+> Occupation: **House Keeping** · Birthplace: **Kentucky**  
+> Father: **David Mays** · Father’s birthplace: **Kentucky**  
+> Mother: **Serena Richardson** · Mother’s birthplace: **Kentucky**  
+> Informant: **Boyd Newman** · Address: **Leighton**  
+> Date of death: **April 22, 1918**  
+> Cause: **Peritonitis** · Contributory: **Kick in abdomen by cow**  
+> Undertaker: **Ben Sparkes** · **Leighton** · Burial **4/24/1918**  
+> Filed **4/25/1918** · Registrar **R. B. Kelly**
+
+Pass 2: Informant **Boyd Newman** and precinct **Sta Camp** are clear. Given name of decedent capped **[Susananna?]** vs compiled **Susanna**. → **C664 C665 C666** / **S444**.
+
+## DOC011 — Lee Marriage Book 6 compiled (Floyd × Allie) + 1910 Pennington reject
+
+**Inventory:** `sources/vital/lee-marr-book6-pass79-extract-2026-10-30.txt` (compiled HTML, derivative). `sources/census/estill-1910-ed48-0488-ln71-pennington-zoom.jpg` (image seen).
+
+### Diplomatic (compiled Book 6)
+> Floyd NEWNAM & Allie A. BRANDENBURG Husband: age: 23, residence: Lee Co KY, farmer, 1st marriage Wife: age: 18, residence: Lee Co KY, 1st marriage md: 31 Jul 1902 at my house, by A. J. Marcum witnesses: Elizabeth Webb & Edna Marcum
+
+### Diplomatic (0488 ln 71)
+> **Pennington, John** Head M W **27** M1 …
+
+Pass 2: surname **Pennington** not Newman (P- vs N-; -ington ending). → **C677 C685** / **S449 S453**.
+
+## DOC012 — 1910 Lee ED 98 Heidelberg fam 158 + 1900 Sturgeon Boyd boarder
+
+**Inventory:** `sources/census/lee-1910-ed98-0536-heidelberg-sh8a.jpg` · `lee-1910-ed98-0536-boyd-allie-names-zoom.jpg` · `sources/soundex/ky1910-n550-p0251-boyd-allie-lee-ed98.jpg` · `sources/census/lee-1900-ed52-0936-hh27-continued.jpg` (images seen).
+
+### Diplomatic (1910 sh 8A dw 157 / fam 158, lines 33–38)
+> **Newman, Boyd** Head M W **38** M **7** Kentucky Kentucky Kentucky  
+> **—— Allie** Wife F W **28** M **7** **4-4** Kentucky Kentucky Kentucky  
+> **—— S[arah?]** Daughter F W **6** S Kentucky Kentucky Kentucky  
+> **—— Arthur** Son M W **4** S Kentucky Kentucky Kentucky  
+> **—— Carlos** Son M W **3** S Kentucky Kentucky Kentucky  
+> **—— Clarence** Son M W **1** S Kentucky Kentucky Kentucky
+
+### Diplomatic (Miracode leaf 0251)
+> LEE N550 NEWMAN BOYD H W **28** KY · ALLIE W 26 · SARAH D 6 · ARTHUR S 4 · CARLOS S 3 · CLARENCE S NR · Vol **033** ED **098** vis **0158**
+
+### Diplomatic (1900 sh 2B ln 54)
+> **Newman, Boyd** Boarder M W **Mar 1878** **22** S Kentucky Kentucky Kentucky Day Laborer
+
+Pass 2: 1910 surname **Newman** (not Homs — that reject is sh 7A ln 9). Wife **Allie** not Cora. Daughter first letter **S**. Soundex age **28** vs schedule **38**. → **C697 C698 C699 C700 C702** / **S457 S458 S460**.
+
+### Normalised reading
+Susananna (or Susanna) Brandenburg died at Station Camp on 22 April 1918. Boyd Newman of Leighton was the informant. He is probable the 1920 Station Camp head. Relationship to Allie is not stated.
+
 ## DOC009 — 1910 TN Soundex N-550 McCoy window (nil)
 Handwritten family/individual cards n2461–n2469. Sequence after Mary C (n2460): Mary D 49 Jefferson (son Layton 11); Mary M 70 Hamilton; Mek. G 50 Cheatham (Florence 19, John 17, General 16, Frances 13, William 10, Doria 6, Luther 1½); Melvin 3½ Giles (gs of Deacon George W); Melvin 54 Giles (SIL of same); Minerva 80 Robertson (gds Lona Neely, Nellie Erwin); Minnie 21 Roane (with Sam P. Sparks); Mitchell 27 Hardin (Ollie P 25, Gladys 4, Burl W 3, Royal E 1 9/12). **No McCoy.** SHA-256 n2463 `23610f8aa4c159b1b554ed1786d11f57d2f56f8a2e8994f7289ae7bd02dfca53`; n2469 `340489566090880388fa6b81ca5751c5944dcaf56a7b44f70fe560788f308586`.
+
+## DOC013 — 1910 Lee ED 98 Heidelberg sh 6A (Rissie servant + Edney head)
+
+**Inventory:** `sources/census/lee-1910-ed98-0532-heidelberg-sh6a.jpg` · `lee-1910-ed98-0532-names-mid.jpg` · `lee-1910-ed98-0532-rissie-servant-zoom.jpg` (images seen).
+
+### Diplomatic (15 Apr 1910, ED 98 sh 6A, dw 105 / fam 5)
+> **Edney, Sam**, Head, M W **32** M1, Kentucky Kentucky  
+> **—— Emma**, Wife, F W **31** M1 **1-1**, Kentucky Kentucky  
+> **—— Della**, Daughter, F W **[2? / 20?]**, Kentucky Kentucky  
+> **Newman, Rissie**, servant, F W **15** S, Kentucky Kentucky  
+
+Next household: **Edney, Clyaton**, 22, + **Liby**, 19.
+
+Same sheet, earlier: **Newman, William**, Head, **44**; **Martha**, Wife, **33**; **Floyd**, Son, **6**.
+
+Pass 2: head surname **Edney**, not Giddings/Biddings. Rissie vs Dora’s Rissa (age 15 vs ~12–13) **not merged**. Floyd son 6 **rejected** vs 1902 Floyd groom. → **C738 C760 C761** / **S477 S489**.
+
+## DOC014 — 1920 Breathitt ED 52 George's Branch sh 19A ln 17 (John + Jennie original)
+
+**Inventory:** `sources/census/breathitt-1920-ed52-1060-georgesbranch-sh19a.jpg` · `ed52-1060-edbox.png` · `ed52-1060-names-ln17.png` · `ed52-1060-ages-ln17.png` (images seen).
+
+### Diplomatic (7 Feb 1920, ED 52 sh 19 A, dw 315 / fam 315, lines 17–22)
+> **Newman, John**, Head, M W **38** M  
+> **—— Jennie**, Wife, F W **21** M  
+> **—— Virgil**, Son, M W **3** S  
+> **—— Fred[i? / Freddie?]**, Son, M W **1** S  
+> **—— Henry**, Father, M W **52**  
+> **—— Julie**, Mother, F W **42**
+
+Header: Breathitt County, **George's Branch Precinct 3**, Enumeration District **52**, Sheet **19 A**, A. W. Noble.
+
+Pass 2: surname **Newman**. Wife **Jennie** not Cora. Fourth child is **Son** / male on the original (Soundex listed **Freda**). Matches Soundex **C717**. **Rejected** vs John L. → **C772–C775** / **S491–S493**.
+
+## DOC015 — 1920 Breathitt leaf 1116 header (ED 55, not ED 52)
+
+**Inventory:** `sources/census/breathitt-1920-ed55-1116-sh1a.jpg` · `ed55-1116-edbox.png` · `ed55-1116-precinct.jpg` (images seen, w1600 + invert).
+
+### Diplomatic (header only)
+> State: **Kentucky**. County: **Breathitt**.  
+> Township: Precinct No. **1[2 or 6]** Mag[isterial?].  
+> Supervisor’s District **11**. Enumeration District **55**. Sheet **1 A**.  
+> Stamp **2552**.
+
+Pass 2: the second ED digit is **5**, not 2. This is **not** George's Branch ED 52 (that block is leaves 1030–1064+). The 1116–1136 run is one district, sheets 1–11. Precinct **16** (Quicksand) is **possible** only. → **C791–C794** / **S505 S506**.
+
+## DOC016 — 1920 Breathitt ED 39 Jackson sh 1A + county card
+
+**Inventory:** `sources/census/breathitt-1920-ed39-0734-county-card.jpg` · `ed39-0732-jackson-sh1a.jpg` · `ed39-0740-jackson-sh3b.jpg` · `ed39-0768-sh15a.jpg` (images seen).
+
+### Diplomatic (card, leaf 0734)
+> **BREATHITT CO.**  
+> E.D's. **39 to 57 (pt)**
+
+### Diplomatic (header, leaf 0732 / duplicate 0735)
+> State: **Kentucky**. County: **Breathitt**.  
+> Precinct **#1**. Incorporated place: **Jackson**.  
+> Supervisor’s District **11**. Enumeration District **39**. Sheet **1 A**.  
+> Enumerated 2 January 1920 by **Herschel L. Bach**.  
+> hh 1: **Back, Mrs. Mancy**; **Herschel L.**, son (the enumerator).
+
+Pass 2: ED **39** is Jackson town. The district is still on sheet **15 A** at leaf **0768** (no incorporated place). → **C815–C817 C829 C830** / **S519–S522**.
+
+## DOC017 — 1920 Powell ED 177 Natural Bridge sh 1A
+
+**Inventory:** `sources/census/powell-1920-ed177-1063-naturalbridge-sh1a.jpg` · `ed177-1070-naturalbridge-sh4b.jpg` (images seen).
+
+### Diplomatic (header, leaf 1063)
+> State: **Kentucky**. County: **Powell**.  
+> Magisterial District **1**. **Natural Bridge Precinct No. 2**.  
+> Supervisor’s District **7**. Enumeration District **177**. Sheet **1 A**.  
+> Enumerated 27 January 1920 by **Robt H. Conlee**.  
+> hh 1: **Preston, John W.**, 38, + **Nellie**.
+
+Pass 2: ED **177** runs through sheet **8 B** at leaf **1078**. Leaf **1079** is Clay City ED **143** sheet **1 A**. → **C822 C823** / **S525 S526**.
+
+## DOC018 — 1920 Bell ED 34 Clear Creek sh 1A + sh 12A
+
+**Inventory:** `sources/census/bell-1920-ed34-0698-clearcreek-sh1a.jpg` · `ed34-0700-sh2a.jpg` · `ed34-0720-sh12a.jpg` · `ed34-0720-edbox.png` (images seen).
+
+### Diplomatic (header, leaf 0698)
+> State: **Kentucky**. County: **Bell**.  
+> **Clear Creek Precinct No. 24**. Incorporated place: none.  
+> Supervisor’s District **11**. Enumeration District **34**. Sheet **1 A**.  
+> Enumerated 9 February 1920 by **John Hays**.
+
+### Diplomatic (header, leaf 0720 w1600)
+> Same precinct and enumerator. Enumeration District **34**. Sheet **12 A**.  
+> Enumerated 18 February 1920.
+
+Pass 2: Pass 83 “0700 = ED 24” is withdrawn. Precinct **24** is not the district number. ED **34** continues through sheet **17 B** at leaf **0731**. → **C833–C836** / **S532–S535**.
+
+## DOC019 — 1850 Clark Dist 1 stamped 91 hh 615 (William Tincher 63)
+
+**Inventory:** `sources/census/pass116/clark196/n0606-w1600.jpg` · `n0606-w2400.jpg` · `n0606-header-crop.jpg` · `n0606-tincher-hh615-crop.jpg` · `n0606-tincher-hh615-lower-crop.jpg` (images seen).
+
+### Diplomatic (15 Sep 1850, Dist 1 Clark, stamped 91, dw 615 / fam 615)
+> State: **Kentucky**. County: **Clark**. District **No. 1**.  
+> Enumerated **15** September **1850** by **Thos McKinney** Asst Marshal. Stamped **91**.  
+> **615 / 615 William Tincher**, 63, M, none  
+> **Elizabeth Boyer**, 31, F  
+> **W R E Tincher**, 27, M, laborer  
+> **Sarah** [ditto Tincher], 22, F  
+> **Samuel** [ditto Tincher], 2, F {sex as written}  
+> **Catharine Boyer**, 10, F  
+> **William** [ditto], 7, M  
+> **Mary A** [ditto], 5, F
+
+Neighbors: **614** Hiram Brumagen 45 farming; **616** Stephen B Lewis ~57 farmer $400; **617** Eddie Bean 74.
+
+Pass 2: surname **Tincher**. Wife **Elizabeth Boyer** not Rhoda. Age **63**. Children W.R.E. / Sarah / Samuel / Catharine / William / Mary A — not Decatur / Leaner / B.F. Dist 2 stamped 91 is a different page. **Rejected** vs William × Rhoda. Hidden-under-Tincher **nil** Newman. → **C1376 C1378 C1380** / **S1033**.
+
+## DOC020 — 1850 Breathitt Dist 1 stamped 20B hh 46 (Wm. Tincher 45)
+
+**Inventory:** `sources/census/pass116/breathitt193/n0234-w1600.jpg` · `n0235-w1600.jpg` · `n0234-stamped20-header-crop.jpg` · `n0235-header-crop.jpg` · `n0235-tincher-hh46-crop.jpg` (images seen).
+
+### Diplomatic (27–28 Jul 1850, Dist 1 Breathitt, 20A/20B, dw 46–47)
+> State: **Kentucky**. County: **Breathitt**. District **No. 1**.  
+> **20A** (n0234): enumerated **27** July **1850** by **John Hargis**. Stamped **20**.  
+> **20B** (n0235): enumerated **28** July **1850** by **John Hargis**.  
+> **46 / 46 Wm. Tincher**, 45, M, Farmer, $500, **Tennessee**  
+> **Matilda**, 40, F, [ditto Tennessee]  
+> **47 / 47 James Tincher**, 23, M, Farmer  
+> **Elias Tincher**, 21, M  
+> **Joseph**, 16, M  
+> **Thos. Tincher**, 11, M  
+> **Martha**, 8, F  
+> Next: **48 / 48 Nicholas Bowman**, 53, M, Farmer, $2000, Va.
+
+Pass 2: surname **Tincher**. Wife **Matilda** not Rhoda. Birth **Tennessee**. Later Dist 1 stamped 20 (hh 149) is a different page. **Rejected** vs William Newman × Rhoda. Hidden-under-Tincher is a Tincher house. → **C1377 C1379 C1381** / **S1034**.
+
+## DOC021 — 1840 Clark County certificate (reel 108 n0083)
+
+**Inventory:** `sources/census/pass116/ky1840-108/n0083-w1100.jpg` · `n0083-clark-cert-crop.jpg` (images seen).
+
+### Diplomatic
+> Clark County Kentucky  
+> the number of Persons within my division consisting of ten thousand seven hundred and fifty four appears in the foregoing schedule subscribed by me this 27th day of October in the year 1840  
+> Francis Jackson
+
+Pass 2: county end of Clark 1840. Clay begins on n0091. → **C1403** / **S1054**.
+
+## DOC022 — 1840 Estill p.68 (fishergenes)
+
+**Inventory:** `sources/census/pass116/estill1840-fishergenes-p68.jpg` · `estill1840-fishergenes-p68-names-enhance.jpg` (images seen).
+
+### Diplomatic heads (left names column)
+> Rachael Covington; Henry Todd; James Wood[?]; Garland King; Wm. Wiles[?]; Samuel Moore; James Powell; Elizabeth Martin; Harmon Hall; Bryant Hall; Mary Oldham; John Frazier; James Hall; John Wood; Susanna Dilemme[?]; **Valentine R. Ward**; Orea Howards; Wm. Adams; Robt. Adams; John Stivers; Nicholas Ryan; Moses[?] Fox; Sam Benton; Henry Martin; Wm Benton; Bryce Pover[?]; Wm Harris; Wm Skinner; Lucy Peterson; J.H. Fitzpatrick.
+
+Pass 2: **nil** Newman / Newnam / Tincher on this spread. County walk not complete. → **C1408** / **S1058**.
+
+## DOC023 — 1840 Estill County certificate (reel 109 n0146)
+
+**Inventory:** `sources/census/pass117/keyplates/estill1840-n0146-cert.jpg` (image seen).
+
+### Diplomatic
+> State of Kentucky Estill County  
+> The number of persons within my Division consisting of seven thousand five hundred & twenty seven[?] appears in the foregoing schedule subscribed by me this 3d[?] day of October 1840  
+> John H Recastle  
+> D.M.C.[?]
+
+Pass 2: county-end of the Estill 1840 window (n0090–n0155). Recastle name repeats in the clerk/memorandum blocks. Population figure and exact day capped **POSSIBLE** (hand slack). → **C1420** / **S1066**.
+
+## DOC024 — 1840 Estill n0092 Abner Newman[?]
+
+**Inventory:** `sources/census/pass117/estill1840/crops/n0092-abner-tight0.jpg` · `n0092-abner-tight1.jpg` · `n0092-abner-band.jpg` (images seen).
+
+### Diplomatic (name column, mid-page)
+> John Witt[?]  
+> **Abner Newman[ame?]**  1 / 1  
+> Jesse Terry  
+> Wm Richardson  
+> John B Powell  
+> Jas H Robertson  
+> John Smith  
+> Thos White
+
+Pass 2: given **Abner** reasonably clear. Surname N-slack — Newman / Newnam / Newmaname. **POSSIBLE**. **NOT** William. → **C1421** / **S1067**.
+
+## DOC025 — 1840 Estill n0114 Henaman
+
+**Inventory:** `sources/census/pass117/estill1840/crops/n0114-henaman-tight.jpg` · `n0114-henaman-band.jpg` (images seen).
+
+### Diplomatic
+> Sterling[?] / Lerling[?] **Henaman**  3  
+> Leonard Witt  
+> David Baker
+
+Pass 2: surname **Henaman**, not Newman. **REJECT**. → **C1422** / **S1068**.
+
+## DOC026 — 1840 Clay County recapitulation (reel 108 n0135)
+
+**Inventory:** `sources/census/pass117/keyplates/clay1840-n0135-recap.jpg` (image seen).
+
+### Diplomatic
+> Recapitulation of Clay County  
+> page 1 … 23  
+> (column totals; last named page **23**)
+
+Pass 2: Clay name pages end. n0139+ is Clinton. → **C1423** / **S1069**.
+
+## DOC027 — 1850 Laurel / Lawrence county-end (reel 209 n0381 / n0382)
+
+**Inventory:** `sources/census/pass117/keyplates/laurel-n0381-header.jpg` · `lawrence-n0382-header.jpg` (images seen).
+
+### Diplomatic
+> n0381: SCHEDULE I—Free Inhabitants in the County of **Laurel**. 9 day of Oct 1850. **D. Buford**.  
+> n0382: County of **Lawrence**. 20th day of July 1850. **John T. Harris** Ass't Marshal. Stamped **59**.
+
+Pass 2: Laurel 1850 on this reel ends at n0381. → **C1418** / **S1064**.
+
+## DOC028 — 1850 Montgomery / Morgan county-end (reel 214 n0171 / n0173)
+
+**Inventory:** `sources/census/pass117/keyplates/mont-n0171-header.jpg` · `morgan-n0173-header.jpg` (images seen).
+
+### Diplomatic
+> n0171: District **No. 2**, County of **Montgomery**, Kentucky. 6th day of September 1850. **Chas E. Foley** Ass't Marshal. Stamped **85**.  
+> n0173: County of **Morgan**. 21st day of July 1850. **L. P. Turner** Ass't Marshal.
+
+Pass 2: Montgomery 1850 on this reel ends at n0171. → **C1419** / **S1065**.
+
+## DOC029 — 1850 Shelby 361B Izza[?]/Izzy[?] Newman 27
+
+**Inventory:** `sources/census/pass130/keyplates/shelby-361b-newman-27.jpg` (image seen).
+
+### Diplomatic
+> 310 / 324  Izza[?]/Izzy[?]/Izra[?] Newman  27  M  keeps-groom[?]
+>            [female]                         26  F
+>            Maranda[?]                        4  F
+>            Mary                              2  F
+>            Elizabeth                        30  F
+>            [infant]                          —  M
+
+Pass 2: given name uncertain. **REJECT** vs William 26 × Jane 22. → **C1679** / **S1323**.
+
+## DOC030 — 1850 Shelby 380B John A. Newman 38
+
+**Inventory:** `sources/census/pass130/keyplates/shelby-380b-john-a-newman.jpg` (image seen).
+
+### Diplomatic
+> 557  John A. Newman  38  M
+>      Mary            45  F
+>      James           23  M
+>      John            17  M
+>      (crop ends)
+
+Pass 2: **REJECT**. → **C1680** / **S1324**.
+
+## DOC031 — 1850 Shelby 385A Isaac Newman 50 PA
+
+**Inventory:** `sources/census/pass130/keyplates/shelby-385a-isaac-newman.jpg` (image seen).
+
+### Diplomatic
+> 676  Isaac Newman  50  M  Farmer  $1213  Pen[nsylvania]
+>      John          14  M
+>      Isaac         12  M
+>      Pat Irish     50  M  Laborer  Ireland
+
+Pass 2: nativity Pennsylvania. **REJECT**. → **C1681** / **S1325**.
+
+## DOC032 — 1850 Nelson 278B/279A Henry Newman 39
+
+**Inventory:** `sources/census/pass130/keyplates/nelson-true-278b-footer.jpg` · `nelson-true-279a-elizabeth.jpg` (images seen). Header stamp **279**.
+
+### Diplomatic
+> 78  Henry Newman       39  M  Cabinet Maker
+>     Elizabeth Newman   29  F                 Ky
+>     Sarah Hutchings    13  F
+
+Pass 2: wife Elizabeth ≠ Jane/Rhoda. **REJECT**. → **C1690** / **S1333 S1334**.
+
+## DOC033 — 1850 Nelson 315A/B John Newman 60
+
+**Inventory:** `sources/census/pass130/keyplates/nelson-true-315a-john60.jpg` · `nelson-true-315b-family.jpg` (images seen). Header stamp **315**.
+
+### Diplomatic
+> 569  John Newman  60  M  Farmer  $3000  Ky
+>      E. Newman    60  F                 Ky
+>      I. Newman    33  M  Carpenter
+>      John Newman  25  M  Farmer
+>      G. Newman    23  M  Farmer
+>      W. Newman    21  M  Farmer
+>      H. Newman    19  M  Farmer
+>      M. Newman    18  F
+
+Pass 2: W. is a son, not a head with Jane. **REJECT**. → **C1691** / **S1335 S1336**.
+
+## DOC034 — 1850 Nelson 325A Wm Newman 31
+
+**Inventory:** `sources/census/pass130/keyplates/nelson-true-325a-w31.jpg` (image seen). Header stamp **325**.
+
+### Diplomatic
+> 711  Wm Newman  31  M  Farmer
+>      S. Newman  23  F
+>      M. Newman   4  F
+>      (crop ends)
+
+Pass 2: wife S ≠ Jane. **REJECT**. → **C1692** / **S1337**.
+
+## DOC035 — 1850 Owsley 299B hh 311 $325 (re-read)
+
+**Inventory:** `sources/census/pass125/keyplates/owsley-1850-299b-hh311-william-jane.jpg` SHA **ffa2a4d5…** (image re-read).
+
+### Diplomatic
+> 311/311  William Newman  26  M  Farmer  $325  Ditto [=Kentucky]
+>          Jane            22  F
+>          Francis          4  F
+>          Leanner          2  F
+> 312/312  Rebecca Tincher 51  F  Widow   $200
+
+Pass 2: real-estate **$325**, not $375. → **C1674** / **S1314**.
+
+## DOC036 — 1850 Hardin 366A John A. Newman 11
+
+**Inventory:** `sources/census/pass131/keyplates/hardin-366a-john-a-newman-11.jpg` (image seen). Header Dist 3 stamp **366**.
+
+### Diplomatic
+> 178/178  Isaac Rodgers          56  M  Farmer  $2000  Ky
+>          Frances M. Rodgers     38  F                 Ky
+>          John A. Newman         11  M                 Ky
+>          Calvin[?]/Colvin[?] Newman  10  M            Ky
+>          Francis Newman          7  F                 Ky
+> 179/179  Zadock Rogers          35  M  Farmer   $500  Ky
+
+Pass 2: children in a Rodgers house, not William × Jane. **REJECT**. → **C1709** / **S1367**.
+
+## DOC037 — 1850 Logan 47B Harriet Newman 13
+
+**Inventory:** `sources/census/pass131/keyplates/logan-47b-harriet-newman-13.jpg` (image seen). Dist 1 12 Oct.
+
+### Diplomatic
+> 695/706  Elis E. Temple   47  F           $1200  Va
+>          Sarah Lee        24  F                  Ky
+>          Harriet Newman   13  F
+>          Lucy             10  F
+>          Camilla Temple    6  F
+
+Pass 2: not a living head. **REJECT**. → **C1713** / **S1372**.
+
+## DOC038 — 1850 Logan 96B Henry Newman 51
+
+**Inventory:** `sources/census/pass131/keyplates/logan-96b-henry-newman-51.jpg` (image seen). Dist 2 6 Sep.
+
+### Diplomatic
+> 362/362  Henry Newman     51  M  Farmer  $434  Va
+>          Charles Newman   24  M
+>          Reuben Newman    17  M
+>          Frances A. Newman 13 F
+>          Mary Herring     77  F
+
+Pass 2: Henry ≠ William. **REJECT**. → **C1714** / **S1373**.
+
+## DOC039 — 1850 Logan 114A Thomas Newman 26
+
+**Inventory:** `sources/census/pass131/keyplates/logan-114a-thomas-newman-26.jpg` (image seen). Dist 2 stamp **114**.
+
+### Diplomatic
+> 617/617  Thomas Newman    26  M  Farmer  $400  Va
+>          Sophia Newman    23  F                Ky
+>          Charles H. Newman 4  M
+>          Mary E. Newman    3  F
+>          Martha F. Newman  1  F
+
+Pass 2: Thomas × Sophia ≠ William × Jane. **REJECT**. → **C1715** / **S1374**.
+
+## DOC040 — 1850 Logan 124B Wesley C. Newman 29
+
+**Inventory:** `sources/census/pass131/keyplates/logan-124b-wesley-c-newman-29.jpg` (image seen). Dist 2 printed **1244**.
+
+### Diplomatic
+> 774/776  Wesley C. Newman  29  M  Farmer  $400
+>          Winifred Newman   29  F
+>          Thomas Newman      8  M
+>          Michael Newman     7  M
+>          John H. Newman     5  M
+>          Mary E. Newman     4  F
+>          Walter Newman      2  M
+
+Pass 2: Wesley C. × Winifred ≠ William × Jane. **REJECT**. → **C1716** / **S1375**.
+
+## DOC041 — 1850 Christian 423A John A. Newman 24
+
+**Inventory:** `sources/census/pass131/keyplates/christian-423a-john-a-newman-24.jpg` (image seen). Dist 2 17 Oct.
+
+### Diplomatic
+> 911/971  John A. Newman   24  M  Clerk         Tenn
+>          Ann W. Newman    22  F                Ky
+
+Pass 2: clerk, Tennessee, wife Ann. **REJECT**. → **C1719** / **S1377**.
+
+## DOC042 — 1850 Christian 441A Ed L. Newman 30
+
+**Inventory:** `sources/census/pass131/keyplates/christian-441a-edward-l-newman-30.jpg` (image seen). Dist 1 stamp **441**.
+
+### Diplomatic
+> 166/170  Ed L. Newman     30  M  Grocer        S.C.
+>          Rosella Newman   24  F                Ky
+>          Wm C. Newman      2  M
+
+Pass 2: grocer, South Carolina, wife Rosella. **REJECT**. → **C1720** / **S1378**.
+
+## DOC043 — 1850 Boone 218A Daniel Newman 32
+
+**Inventory:** `sources/census/pass135/keyplates/boone-218a-daniel-newman-32.jpg` SHA **245d4915…** (image seen).
+
+### Diplomatic
+> 116/116  [James?] Ferguson  35  M  Blacksmith
+>          Mary               24  F
+>          [children 3]
+>          Daniel Newman      32  M  Laborer
+>          Louisiana Newman   18  F
+> 117/117  Samuel Brown       55  M  Blacksmith
+
+Pass 2: boarders in a Ferguson house, not William × Jane. **REJECT**. → **C1736** / **S1389**.
+
+## DOC044 — 1850 Kenton 221B Shepard Newman 32
+
+**Inventory:** `sources/census/pass131/keyplates/kenton-221b-shepard-head.jpg` SHA **6ddf72d1…** (image seen). Covington 1st Ward.
+
+### Diplomatic
+> 150/162  Shepard Newman     32  M  Blacksmith  $1200
+>          Elizabeth Newman   28  F
+>          Ealey Ann           9  F
+>          Mary                8  F
+>          Robert              7  M
+>          Theodore            4  M
+
+Pass 2: Shepard × Elizabeth ≠ William × Jane. **REJECT**. → **C1739** / **S1391**.
+
+## DOC045 — 1850 Barren 344A Benja Newman 17 (correction)
+
+**Inventory:** `sources/census/pass133/keyplates/barren-344a-george-newman-17.jpg` SHA **aed0c3f2…** (image seen). Filename says george; given name on the sheet is **Benja**.
+
+### Diplomatic
+> 360/575  William Edmunds    73  M  Farmer  $3000
+>          Edmund A.          22  M
+>          Benja Newman       17  M
+> 361/576  Isaac Davidson     64  M  Farmer  $1900
+
+Pass 2: boarder, not a living head. Corrects C1743 slack. **REJECT**. → **C1775** / **S1440**.
+
+## DOC046 — 1850 Barren 345B Christopher Newman 50
+
+**Inventory:** `sources/census/pass135/keyplates/barren-345b-christopher-newman-37.jpg` (image seen). Filename age 37 is wrong; sheet says **50**.
+
+### Diplomatic
+> 587/603  Christopher Newman 50  M  Farmer  $40  Tenn
+>          Patey              42  F
+>          Ann Arabella       13  F
+>          Polly               8  F
+>          Henry Jas[?]        6  M
+>          Martha              5  F
+>          Nancy               3  F
+>          Betsy Lewis        50
+
+Pass 2: Christopher × Patey ≠ William × Jane. **REJECT**. → **C1744** / **S1396**.
+
+## DOC047 — 1850 Barren 428A William B. Newman 30
+
+**Inventory:** `sources/census/pass135/keyplates/barren-428a-william-b-newman-30.jpg` (image seen). 2nd Div 5 Aug.
+
+### Diplomatic
+>          Elmira Stockton     5  F
+>          William B. Newman  30  M  Merchant  $1730
+> 355/359  Buford Woodall     42  M  Farmer    $6500
+
+Pass 2: merchant, no wife Jane. **REJECT**. → **C1746** / **S1398**.
+
+## DOC048 — 1850 Hopkins Dist 2 Francis J. Newman 28
+
+**Inventory:** `sources/census/pass136/keyplates/hopkins-n0238-francis-j-newman-28.jpg` SHA **1f1aca29…** (image seen).
+
+### Diplomatic
+> 67/67  Francis J. Newman  28  M  Farmer  Kentucky
+>        Mary J. Newman     25  F
+>        Elizabeth Newman    1  F
+> 68/68  L. Gardiner        30  M  Farmer  $150
+
+Pass 2: Francis J × Mary J ≠ William × Jane. **REJECT**. → **C1776** / **S1441**.
+
+## DOC049 — 1850 Edmonson 4A Alexander Newman 73
+
+**Inventory:** `sources/census/pass137/keyplates/edmonson-4a-alexander-newman-73.jpg` SHA **effbf50d…** (image seen). Stamp **4**, 27 July, W C Lucas.
+
+### Diplomatic
+> 36/36  Henry Conner       37  M  Physician  $500
+>        Sarah              31  F                  Virginia
+>        James A             8  M
+>        Sandy T             6
+>        W L                 4
+>        John T              2
+>        E A               3/12
+>        Alexander Newman   73  M  None            Virginia
+
+Pass 2: boarder, not a living head. **REJECT**. → **C1767** / **S1431**.
+
+## DOC050 — 1850 Edmonson 11B William Newman 30
+
+**Inventory:** `sources/census/pass137/keyplates/edmonson-11b-william-newman-30.jpg` SHA **f7b97269…**; line-41 tight `…-line41.jpg` SHA **a6d2bc32…** (image seen). Stamp **11**, 8 Aug.
+
+### Diplomatic
+> 148/148  Isaac A. Cooke    35  M  Farmer  $2475  Virginia
+>          Nancy             30  F                 Kentucky
+>          John H            11  M
+>          Peyton A           9
+>          William H          1
+>          William Newman    30  M  Labourer       Kentucky
+> 149/149  William Lewis     21  M
+
+Pass 2: boarder; no wife Jane/Rhoda; no Francis/Leanner; age 30 ≠ 26. **REJECT**. → **C1768** / **S1432**.
+
+## DOC051 — 1850 Hancock 295A William Newman 26
+
+**Inventory:** `sources/census/pass137/keyplates/hancock-295a-william-newman-26.jpg` SHA **8a69df6c…**; tight SHA **30d90c57…** (image seen). Stamp **295**, 28 Aug, W P D Bush.
+
+### Diplomatic
+> 415/432  William Newman    26  M  Farmer         Kentucky
+>          Catharine O       17  F
+>          Louisa           4/12 F
+> 416/433  Edmund Wroe       40  M  Farmer  $700   Ga
+
+Pass 2: exact age vs Owsley William 26; wife Catherine O ≠ Jane/Rhoda; infant Louisa ≠ Francis 4 / Leanner 2; Hancock ≠ Owsley. **REJECT**. → **C1771** / **S1435**.
+
+## DOC052 — 1850 Breckinridge 108B William Newman 26 × Angeline
+
+**Inventory:** `sources/census/pass138/keyplates/breckinridge-108b-william-26-tight.jpg` SHA **afb3b657…**; wide SHA **3126ce2f…** (image seen). Dist 1 stamp **108**, 3 Aug 1850, n0415.
+
+### Diplomatic
+> 192/193  William Newman    26  M  Farmer  $700   Kentucky
+>          Angeline          23  F                 Kentucky
+>          Sarah E.           1  F                 Kentucky
+> 193/194  Obediah Newman    56  M  Farmer $2500   Va
+>          Sarah             54  F                 Va
+>          Evaline           22  F
+>          Eliza             17  F
+>          Thomas            20  M  Farmer
+>          Oby               14  M
+
+Pass 2: exact age vs Owsley William 26; wife Angeline ≠ Jane 22 ≠ Rhoda; infant Sarah E ≠ Francis 4 / Leanner 2; real estate $700 ≠ $325; next-door father Obediah 56 Va. **REJECT**. → **C1801 C1802** / **S1470 S1471**.
+
+## DOC053 — 1850 Hopkins Dist 2 n0240 Jno Newman 59 × Jane 53 + William P 26
+
+**Inventory:** `sources/census/pass139/keyplates/hopkins-n0240-john-59-tight.jpg` SHA **4c7f1521…**; wide SHA **da4158b0…** (image seen). Dist 2, n0240.
+
+### Diplomatic
+> 76/76  Jno[?] / Jo Newman  59  M  Farmer           N. Carolina
+>         Jane[?] / Nan[?]   53  F                   N. Carolina
+>         Louisa Newman  28  F                   Kentucky
+>         Martha         20  F
+>         Eveline        16  F
+>         Elizabeth      13  F
+>         William P      26  M  Farmer
+> 77/77  Logan Oakley    27  M  Farmer  $257     N. Carolina
+
+Pass 2: compiled Jane; the wife’s first letter lacks the J-descender of Jo on the line above, so **Nan[?]** remains open. Either way she is 53 NC, not 22 KY. William P 26 is a son in the same household, not a living head. Surname letterforms match Francis J **Newman** on n0238. No Francis 4 / Leanner 2. No Rhoda. **REJECT** vs Owsley hh 311. → **C1823** / **S1491 S1492**.
+
+## DOC054 — 1850 McCracken Dist 1 174B Malinda Newman 38
+
+**Inventory:** `sources/census/pass140/keyplates/mccracken-174b-malinda-tight.jpg` SHA **d735cd47…** (image seen). Dist 1 stamp **174**, 17 Aug 1850, n0353.
+
+### Diplomatic
+> 188/189  Malinda Newman    38  F
+>          Jacob P. Newman   12  M
+>          Mary E. Newman    11  F
+>          John H. Newman     7  M
+>          Thomas P. Newman   6  M
+>          Na[ncy?] L. Newman 3  F
+>          Amity Mc Newman  4/12 F
+> 189/190  Wm P. Allen       38  M  Farmer
+
+Pass 2: female head 38; children 12–infant; no William 26; no Jane/Rhoda. **REJECT**. → **C1847** / **S1515**.
+
+## DOC055 — 1850 Todd Dist 2 247A Mary Newman 35
+
+**Inventory:** `sources/census/pass141/keyplates/todd-247a-mary-newman-tight.jpg` SHA **c52989cda8b9…** (image seen). Dist 2 stamp **247**, 24 June 1850, n0360. n0358 stamp **246** confirms the remap.
+
+### Diplomatic
+> 26/26  Israel Tinker    40  M  farmer  $800
+>         Lyna Tinker      35  F
+>         Charles Tinker   20  M  Tenn
+> 27/27  Mary Newman      35  F         $800  Va
+>         Lodices Newman   31  F
+>         John Newman      20  M  farmer      Tenn
+>         Malvina Newman   15  F
+>         Munice[?] Newman 16  M
+> 28/28  Thos Madden      48  M
+
+Pass 2: female head 35 Va; John 20 is a son/boarder, not William 26. Israel Tinker 40 is Todd, not Trigg 303A. **REJECT**. → **C1850 C1851** / **S1520**.
+
+## DOC056 — 1850 Trigg 1st Dist 303A Wm Tinker 60
+
+**Inventory:** `sources/census/pass141/keyplates/trigg-303a-tinker-tight.jpg` SHA **06b931ac2f2f…** (image seen). Stamp **303**, 15 Aug 1850, n0472.
+
+### Diplomatic
+> 12/203  Wm Tinker        60  M  Farmer       Virginia
+>         Licy Tinker      33  F               Kentucky
+>         Elizabeth Tinker  6  F
+>         Lola Tinker       2  F
+>         Thos L Tinker     4  M
+>         Peggy Bailey     61  F               Virginia
+>         Elias Pearce     21  M  Laborer      Kentucky
+
+Pass 2: Tinker not Tincher; head 60 not 26; wife Licy 33 not Jane/Rhoda. 1st District, not Dist 2. **REJECT**. → **C1852** / **S1522**.
+
+## DOC057 — 1850 Trigg 1st Dist 314A John Newman 51
+
+**Inventory:** `sources/census/pass141/keyplates/trigg-314a-john-newman-tight.jpg` SHA **b69097cbc2c8…** (image seen). Stamp **314**, 2 Sept 1850, n0494.
+
+### Diplomatic
+> 31/31  John Newman       51  M  Farmer  $275  N. Carolina
+>         Elizabeth Newman  46  F
+>         Wm Newman         17  M  Farmer       Kentucky
+>         John Newman       15  M
+>         Cecilia Newman    13  F
+>         Catharine Newman   8  F
+>         Isaac Newman       6  M
+>         Jane Newman        3  F
+>         James Newman       2  M
+>         M [Catawba?]      83  F  Laborer      N. Carolina
+> … last line: Joseph Newman 9 M Mississippi (other house)
+
+Pass 2: William is 17, a son. Jane is 3. Head is John 51 NC, not William 26. **REJECT**. → **C1853 C1854** / **S1524**.
+
+## DOC058 — 1850 Henry Dist 1 n0498 Jesse Norman 56
+
+**Inventory:** `sources/census/pass142/keyplates/henry-n0498-jesse-norman-tight.jpg` SHA **7dd6f5f30e85…** (image seen). Compiled KYGenWeb page **420-b**. n0497 stamp **420**.
+
+### Diplomatic
+> 826/830  Rutherford Levi     38  M  Farmer
+>           Rutherford Ellen     25  F
+>           Rutherford John       2  M
+>           Rutherford Fanny   7/12  F
+> 827/831  Norman Jesse        56  M  Farmer
+>           Norman Elizabeth     52  F
+>           Norman Stephen       28  M
+>           Norman Sally         24  F
+>           Norman Emily         21  F
+>           Norman E             18  F
+>           Norman A             15  F
+>           Norman M C           14  F
+>           Norman J L           12  M
+>           Norman Delia          8  ?
+>           Norman J W            6  M
+
+Pass 2: first letter **N-o-r-m-a-n** (not Newman). Head 56 Va (compiled), not William 26. Wife Elizabeth, not Jane/Rhoda. **REJECT**. → **C1873** / **S1539**.
+
+## DOC059 — 1850 Hart Dist 1 n0035 Robert Boman 37
+
+**Inventory:** `sources/census/pass143/keyplates/hart-n0035-robert-boman-tight.jpg` SHA **c56e460354e9…** (image seen). n0035, hh **205/205**.
+
+### Diplomatic
+> 204/204  Green B Bush       26  M
+>           Elizabeth           23  F
+>           James P              1  M
+> 205/205  Robert Boman       37  M
+>           Cecilia             47  F
+>           Catharine           16  F
+
+Pass 2: first letter **B** (Boman/Bowman), not N. Head 37, not William 26. Wife Cecilia, not Jane/Rhoda. **REJECT**. → **C1893** / **S1553**.
+
+## DOC060 — 1850 Franklin Dist 2 n0340 Thomas Newland 30
+
+**Inventory:** `sources/census/pass143/keyplates/franklin-n0340-newland1.jpg` SHA **ce01ba5050fa…** (image seen). Dist 2, 28 Sept 1850, stamp **203**, n0340.
+
+### Diplomatic
+> 201  Daniel Pellman[?]   35  M
+>       Losa Pellman        27  F
+> 202  Thomas Newland      30  M
+
+Pass 2: surname **Newland** (extra *l*; not Newman). Head 30, not William 26. **REJECT**. → **C1900** / **S1557**.
+
+## DOC061 — 1850 Hart Dist 1 n0120 Rebecca Kirkpatrick 60
+
+**Inventory:** `sources/census/pass144/keyplates/hart-n0120-kirkpatrick.jpg` SHA **fffc1410e968…** (image seen). n0120, 14 Aug 1850, J.W. Barrett.
+
+### Diplomatic
+> 713/725  Pleasant Catherland  35  M  Farmer
+>           Letho                 36  F
+>           Melissa A              6  F
+> 714/726  Rebecca Kirkpatrick  60  F
+>           Thomas Timmons        35  M  Farmer
+>           C T Trotter           27  M  Physician
+> 715/727  Eli Murray           71  M  Farmer
+
+Pass 2: surname **Kirkpatrick** (not Tinker/Tincher). Head 60 female, not William 26. **REJECT**. → **C1918** / **S1570**.
+
+## DOC062 — 1850 Franklin Dist 1 n0164 Jeremiah[?] Newman 27
+
+**Inventory:** `sources/census/pass145/keyplates/franklin-n0164-newman-tight.jpg` SHA **b4619717df1be186…** (image seen). Dist 1, 11 Aug 1850, Charles Noe, stamp **27**, n0164.
+
+### Diplomatic
+> 186/186  Frances Sullivan     36  M  Laborer  Ireland
+>           Honor[?] A. Gilligan  21  F           Ireland
+> 187/187  Jeremiah[?] Newman   27  M  Laborer
+>           Mary Newman          28  F
+>           John Newman           4/12 M
+> 188/188  John Haynes          32  M  Blacksmith  Kentucky
+
+Pass 2: surname **Newman**. Head given name **Jeremiah[?]** (first letter J/L loop). Head 27 Laborer, not William 26 farmer **$325**. Wife **Mary 28**, not Jane 22 / not Rhoda. Infant **John 4/12**, not Francis 4 F / Leanner 2. **REJECT**. → **C1940** / **S1584 S1585**.
+
+## DOC063 — 1850 Franklin Dist 2 n0267 William New 36
+
+**Inventory:** `sources/census/pass146/keyplates/franklin-n0267-new-tight.jpg` SHA **f209b0cf0ace55ce…** (image seen). Dist 2, 15 Aug 1850, John A. Monroe, n0267.
+
+### Diplomatic
+> 218/213  William New   36  M  Schoolmaster  Ohio
+>           Ellen New     23  F               Kentucky
+>           Mary E New     2  F               Kentucky
+>           Sarah E New   1/12 F              Kentucky
+> 214/214  Samuel W Evans 37  M  Farmer  1000 Kentucky
+>           Lucretia Evans 35  F               Kentucky
+
+Pass 2: surname **New** (three letters; not Newman / Newnam / Newland). Head 36 Ohio schoolmaster, not William 26 KY farmer **$325**. Wife **Ellen 23**, not Jane 22 / not Rhoda. Children **Mary E 2** + **Sarah E 1/12**, not Francis 4 F / Leanner 2. **REJECT**. → **C1957** / **S1597 S1598 S1599**.
+
+## DOC064 — 1850 Franklin Dist 2 n0280 William Critcher 48
+
+**Inventory:** `sources/census/pass146/keyplates/franklin-n0280-critcher-tight.jpg` SHA **09c9bb25f69481d0…** (image seen). Dist 2, n0280.
+
+### Diplomatic
+> 313/315  William Critcher    48  M  Farmer
+>           Elizabeth Critcher  43  F
+>           John Critcher       20  M  Farmer
+>           Mary Critcher       17  F
+>           Walter Critcher     13  M  Farmer
+>           Thomas Critcher     13  M
+
+Pass 2: surname **Critcher** (C-r-i-t-ch-er; not Tincher). Head 48, not William 26. **REJECT**. → **C1959** / **S1600 S1601**.
+
+## DOC065 — 1850 Lincoln Dist 1 n0178 Willis Newnam 41
+
+**Inventory:** `artifacts/pass147/lincoln-n0178-william-band.jpg` SHA **9ce4f6d1f815c8c1…** (image seen). Lincoln Dist 1, n0178.
+
+### Diplomatic
+>  39  Willis Newnam       41  M  Farmer   2280  Ky
+>      Louisa Newnam       40  F
+>      Jefferson C. Newnam 16  M  Farmer
+>      Henry K. Newnam     14  M
+>      Amanda M. Newnam    12  F
+>      George G. Newnam     8  M
+>      Permelia C. Newnam   5  F
+>      Caroline V. Newnam   2  F
+
+Pass 2: spelling **Newnam**. Head 41, not William 26. Wife **Louisa 40**, not Jane 22 / not Rhoda. No Francis/Leanner children. **REJECT**. → **C1973** / **S1612 S1613**.
+
+## DOC066 — 1850 Hopkins n0249 Milton Newman 19
+
+**Inventory:** `artifacts/pass147/hopkins-n0249-niman-tight.jpg` SHA **8347fd5a7a20dbdb…** (image seen). Hopkins, hh **138**, Mary Ann Mooney head.
+
+### Diplomatic
+> 138  Mary Ann Mooney  32  F  Farmer
+>      James Mooney      7  M
+>      Paulina Mooney    6  F
+>      Jas McCoy        24  M  Farmer
+>      Paulina McCoy    24  F
+>      Mary E McCoy    2/12 F
+>      Milton Newman    19  M  Farmer
+>      Mary Newman      28  F
+
+Pass 2: **Milton Newman** age 19 boarder, not head William 26 × Jane 22. **REJECT**. → **C1976** / **S1615 S1616**.

@@ -1,0 +1,1156 @@
+Scott, KY 1850 Federal Census
+
+This Census was transcribed by Jack R. Sublette <sublette@discoverynet.com> 
+and proofread by Kathy Gaines <wfgaine@solve.net
+for the USGenWeb Census Project, http://www.usgenweb.org/census.
+
+Copyright 1999 by Jack R. Sublette <sublette@discoverynet.com>
+
+************************************************************************
+USGENWEB NOTICE:  These electronic pages may NOT be reproduced in
+any format for profit or presentation by any other organization or
+persons.  Persons or organizations desiring to use this material,
+must obtain the written consent of the contributor, or the legal
+representative of the submitter, and contact the listed USGenWeb
+archivist with proof of this consent.
+************************************************************************
+Thanks to S-K Publications for providing the census page photocopies from
+which this transcription was made.  The complete original, handwritten
+census of this county is available in book form (including a typed index)
+from S-K Publications, PO Box 8173, Wichita KS 67208
+(www.skpub.com/genie/census.html).
+************************************************************************
+
+Census_Year  1850
+Microfilm #  M432-218
+State        KY
+County       Scott
+---------------------Begin Actual Transcription----------------------------------
+
+CENSUS YR:  1850  STATE or TERRITORY:  KY  COUNTY:  Scott  DIVISION:  District No. 1 East Part  REEL NO:  M432-218  PAGE NO:  407A
+REFERENCE:  Enumerate on 9th day of August 1850 By W. T. V. Bradford
+=========================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB
+=========================================================================================================================
+ 1   165  165 Beatty         L. C.          6    F                                  Kent'y                  X
+ 2   165  165 Beatty         Geo. L.        4    M                                  Kent'y
+ 3   165  165 Beatty         M. J.          2    M                                  Kent'y
+ 4   165  165 Beatty         L.             10/12 F                                 Kent'y
+ 5   165  165 Graham         H. R.          16   F                                  Kent'y
+ 6   166  166 West           Henry          46   M         Farmer         6,000     Kent'y
+ 7   166  166 West           Semion         23   M         Farmer                   Kent'y
+ 8   166  166 West           Louisa         18   F                                  Kent'y
+ 9   166  166 West           Martha         15   F                                  Kent'y                  X
+ 10  166  166 West           John           13   M                                  Kent'y                  X
+ 11  166  166 Moran          Mary           28   F                                  Kent'y
+ 12  166  166 Moran          Susan          2    F                                  Kent'y
+ 13  166  166 Taylor         J. D.          16   M         None                     Kent'y
+ 14  167  167 Nutter         Benjn.         30   M         Farmer                   Kent'y
+ 15  167  167 Nutter         S. J.          23   F                                  Kent'y
+ 16  167  167 Nutter         M. F.          4    F                                  Kent'y
+ 17  167  167 Nutter         Wm. J.         3    M                                  Kent'y
+ 18  167  167 Nutter         John R.        1    M                                  Kent'y
+ 19  168  168 Crumbaugh      John  W.       45   M         Miller         8,000     Kent'y
+ 20  168  168 Crumbaugh      E. M.          48   F                                  Kent'y
+ 21  168  168 Crumbaugh      Jno. H.        20   M         Farmer                   Kent'y
+ 22  168  168 Crumbaugh      J. S.          17   M         Farmer                   Kent'y                  X
+ 23  168  168 Crumbaugh      W. M.          14   M                                  Kent'y                  X
+ 24  168  168 Crumbaugh      D. S. B.       11   M                                  Kent'y                  X
+ 25  168  168 Crumbaugh      A. H. G.       9    M                                  Kent'y                  X
+ 26  168  168 Crumbaugh      T. F. J.       6    M                                  Kent'y                  X
+ 27  168  168 Threlkeld      David          52   M         Farmer         200       Kent'y
+ 28  168  168 Threlkeld      O.E.           23   F                                  Kent'y
+                   REMARKS:  3a Fhrelkeld, Fhulkeld, Thulkeld???
+ 29  169  169 Crumbaugh      Solomon        71   M         Farmer         11,650    Maryland
+ 30  169  169 Crumbaugh      Mary           65   F                                  Maryland
+ 31  169  169 Hubbard        Alexn.         62   M    B                             Maryland                      X
+ 32  170  170 Smith          Saml.          33   M         Farmer         8,000     Kent'y
+ 33  170  170 Smith          M. A.          25   F                                  Kent'y
+ 34  170  170 Smith          C. L.          5    M                                  Kent'y
+ 35  170  170 Smith          S. J.          2    F                                  Kent'y
+ 36  170  170 Smith          S. E.          1    F                                  Kent'y
+ 37  170  170 Hayes          Sarah          49   F                                  Kent'y
+ 38  170  170 Wilson         Dewitt         22   M         None                     Kent'y
+ 39  171  171 Smith          Henry          35   M         Farmer         8,000     Kent'y
+ 40  171  171 Smith          A.             32   F                                  Kent'y
+ 41  171  171 Smith          P.             11   M                                  Kent'y
+ 42  171  171 Smith          R. W.          5    M                                  Kent'y
+
+CENSUS YR:  1850  STATE or TERRITORY:  KY  COUNTY:  Scott  DIVISION:  District No. 1 East Part  REEL NO:  M432-218  PAGE NO:  407B
+REFERENCE:  Enumerate on 9th day of August 1850 By W. T. V. Bradford
+=========================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB
+=========================================================================================================================
+ 1   171  171 Smith          C. M.          4    M                                  Kent'y
+ 2   171  171 Smith          W.             3    M                                  Kent'y
+ 3   171  171 Wilson         Joseph         15   M         None                     Kent'y                  X
+ 4   171  171 Smith          Philip         29   M         Farmer                   Kent'y
+ 5   171  171 Wilson         N.             24   F                                  Kent'y
+ 6   172  172 Garth          John M.        39   M         Farmer         30,000    Kent'y
+ 7   172  172 Garth          E.             40   F                                  Kent'y
+ 8   172  172 Garth          G. F.          15   F                                  Kent'y                  X
+ 9   172  172 Garth          C.             5    M                                  Kent'y
+ 10  172  172 Garth          S.             76   F                                  Maryland
+ 11  172  172 Sutphin        Wm.            16   M         None                     Kent'y                  X
+ 12  172  172 Tomlinson      Wm.            25   M         Farmer                   Kent'y
+ 13  173  173 Huckle         Levi           28   M         Farmer                   Kent'y
+ 14  173  173 Huckle         E.             27   F                                  Kent'y
+ 15  173  173 Huckle         M.             1    F                                  Kent'y
+ 16  173  173 Metcalfe       M              22   F                                  Kent'y
+ 17  173  173 Metcalfe       J.             26   M         Laborer                  Kent'y
+ 18  173  173 Wallace        Jacob          12   M                                  Kent'y
+ 19  173  173 Sherritt       W. W.          23   M         Carpenter                Kent'y
+ 20  173  173 Hawkins        M. S.          27   M         Carpenter                Kent'y
+ 21  173  173 Cannon         E.             20   M         Carpenter                Kent'y
+ 22  174  174 Lemon          James C.       26   M         Farmer         21,600    Kent'y
+ 23  174  174 Lemon          Julia          18   F                                  Kent'y
+ 24  175  175 Barkley        Tho. S.        32   M         Druggist                 Kent'y
+ 25  175  175 Barkley        E. A.          20   F                                  Kent'y
+ 26  175  175 Barkley        A. E.          1- 6/12 F                               Kent'y
+ 27  175  175 Elgin          Julia A.       43   F                                  Kent'y
+ 28  175  175 Elgin          Joseph         21   M         Clerk                    Kent'y
+ 29  175  175 Elgin          Geo.           23   M         Clerk                    Kent'y
+ 30  175  175 Elgin          Wm. S.         14   M                                  Kent'y                  X
+ 31  176  176 Mitchell       P. L.          36   M         Merchant       7,000     Maine
+ 32  176  176 Mitchell       C. N.          32   F                                  New Hampshire
+ 33  176  176 Mitchell       Anna           10   F                                  Kent'y                  X
+ 34  176  176 Mitchell       Mary           8    F                                  Kent'y                  X
+ 35  176  176 Mitchell       Philemon       4    M                                  Kent'y
+ 36  176  176 Mitchell       Laura          1    F                                  Kent'y
+ 37  177  177 Pratt          John T.        52   M         Tavern Keeper  9,000     Kent'y
+                   REMARKS:  Tavern
+ 38  177  177 Pratt          Eliza          52   F                                  New York
+                   REMARKS:  Tavern
+ 39  177  177 Hall           Benj.          26   M         Merchant                 New Hampshire
+                   REMARKS:  Tavern
+ 40  177  177 Hall           Eleanora       20   F                                  Kent'y
+                   REMARKS:  Tavern
+ 41  177  177 Cable          P. L.          35   M         Lawyer         32,000    Kent'y
+                   REMARKS:  Tavern
+ 42  177  177 Cable          Mary           30   F                                  Kent'y
+                   REMARKS:  Tavern
+
+CENSUS YR:  1850  STATE or TERRITORY:  KY  COUNTY:  Scott  DIVISION:  District No. 1 East Part  REEL NO:  M432-218  PAGE NO:  408A
+REFERENCE:  Enumerate on 10th day of August 1850 By W. T. V. Bradford
+=========================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB
+=========================================================================================================================
+ 1   177  177 Cable          Lucy           9/12 F                                  Kentucky
+                   REMARKS:  Tavern
+ 2   177  177 Bradley        B. F.          28   M         Lawyer                   Kentucky
+                   REMARKS:  Tavern
+ 3   177  177 Smith          Geo.           34   M         None                     Kentucky
+                   REMARKS:  Tavern
+ 4   177  177 Powell         Frank          30   M         Shoemaker                Kentucky
+                   REMARKS:  Tavern
+ 5   177  177 Sherritt       F.             28   M         Tailor                   Kentucky
+                   REMARKS:  Tavern
+ 6   177  177 Hecht          Wm.            24   M         Clothes Merchant         Louisiana
+                   REMARKS:  Tavern
+ 7   177  177 Standford      D. W.          27   M         Merchant                 KY.
+                   REMARKS:  Tavern
+ 8   177  177 Flournoy       T. C.          55   M         Lawyer         1,000     KY.
+                   REMARKS:  Tavern
+ 9   177  177 Dehoney        M.             28   M         Sheriff                  KY.
+                   REMARKS:  Tavern
+ 10  177  177 Johnson        John T.        60   M         Christian Preacher 4,500 KY.
+                   REMARKS:  Tavern
+ 11  177  177 Dehoney        F. J.          21   M         Sheriff                  KY.
+                   REMARKS:  Tavern
+ 12  177  177 Keene          S. Y.          28   M         Grocer                   KY.
+                   REMARKS:  Tavern
+ 13  177  177 Bailey         James          24   M    M    Carpenter                Louisiana
+                   REMARKS:  Tavern
+ 14  177  177 Bailey         Eliza          19   F    M                             KY.
+                   REMARKS:  Tavern
+ 15  177  177 Chinn*         Richard        25   M         Clerk                    KY.
+                   REMARKS:  Tavern
+ 16  177  177 Sullavan       John           23   M         Printer                  KY.
+                   REMARKS:  Tavern
+ 17  178  178 Prewitt        Levi           50   M         Farmer         29,000    KY.
+ 18  178  178 Prewitt        M.             43   F                                  Virga.
+ 19  178  178 Prewitt        Wm  B.         23   M         Farmer                   KY.
+ 20  178  178 Prewitt        J. V.          19   M         Clerk                    KY.
+ 21  178  178 Prewitt        D. B.          16   M         Student                  KY.                     X
+ 22  178  178 Prewitt        H. P.          14   M         Student                  KY.                     X
+ 23  178  178 Prewitt        R. E.          11   M         Student                  KY.                     X
+ 24  178  178 Prewitt        Levi           7    M                                  KY.                     X
+ 25  178  178 Prewitt        H. C.          5    M                                  KY.
+ 26  178  178 Prewitt        E. V.          1    F                                  KY.
+ 27  178  178 Russy          E.             19   M         Student                  Louisiana               X
+ 28  178  178 Bateman        M.             19   M         Student                  Louisiana               X
+ 29  179  179 Gans           S. F.          43   M         Physician      20,000    Kent'y
+ 30  179  179 Gans           Mary J.        35   F                                  Kent'y
+ 31  179  179 Gans           Cornelia       14   F                                  Kent'y                  X
+ 32  179  179 Gans           Robert E.      12   M                                  Kent'y                  X
+ 33  179  179 Gans           Bettie         10   F                                  Kent'y                  X
+ 34  179  179 Gans           Willina        8    F                                  Kent'y                  X
+ 35  179  179 Scott*         P.             18   M         Student                  Kent'y                  X
+ 36  179  179 Hart           John           18   M         Student                  Kent'y                  X
+ 37  179  179 Todhunter*     E.             18   M         Student                  Kent'y                  X
+ 38  179  179 Truman         G. R.          20   M         Student                  Kent'y                  X
+ 39  179  179 Gans           A.             16   F                                  Kent'y                  X
+ 40  179  179 Gans           F.             11   M                                  Kent'y                  X
+ 41  179  179 Lewis          Harry          45   M    B    Horse Trainer            Kent'y                        X
+ 42  180  180 Snell          Rowan          45   M         Farmer         7,200     Kent'y
+
+CENSUS YR:  1850  STATE or TERRITORY:  KY  COUNTY:  Scott  DIVISION:  District No. 1 East Part  REEL NO:  M432-218  PAGE NO:  408B
+REFERENCE:  Enumerate on 10th day of August 1850 By W. T. V. Bradford
+=========================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB
+=========================================================================================================================
+ 1   180  180 Snell          L.             25   F                                  Kent'y
+ 2   180  180 Snell          Victor         5    M                                  Kent'y
+ 3   180  180 Snell          M. E.          1    F                                  Kent'y
+ 4   181  181 Whitford       A. S.          32   M         Farmer         1,000     Kent'y
+ 5   181  181 Whitford       L.             27   F                                  Kent'y
+ 6   181  181 Whitford       E.             4    M                                  Kent'y
+ 7   181  181 Whitford       C.             3    F                                  Kent'y
+ 8   181  181 Whitford       Thos.          1    M                                  Kent'y
+ 9   182  182 Stevenson      Evan           42   M         Farmer Meth. Preacher 14,000 Kent'y
+ 10  182  182 Stevenson      L.             38   F                                  Ohio
+ 11  182  182 Stevenson      J. E.          18   M         Student                  Ohio                    X
+ 12  182  182 Stevenson      A. M.          14   F                                  Ohio                    X
+ 13  182  182 Stevenson      L. B.          12   M                                  Ohio                    X
+ 14  182  182 Stevenson      M. O.          10   F                                  Kent'y                  X
+ 15  182  182 Stevenson      S. F.          8    F                                  Kent'y                  X
+ 16  182  182 Stevenson      Wm F.          6    M                                  Kent'y                  X
+ 17  182  182 Stevenson      H. S.          4    M                                  Kent'y
+ 18  182  182 Stevenson      S. M.          3-6/12 F                                Kent'y
+ 19  182  182 Stevenson      H. T.          10/12 M                                 Kent'y
+ 20  183  183 Farnam         J. E.          39   M         School Teacher 12,000    Mass.
+                   REMARKS:  Female School
+ 21  183  183 Farnam         E.             36   F                                  Mass.
+                   REMARKS:  Female School
+ 22  183  183 Farnam         M. E.          10   F                                  KY.                     X
+                   REMARKS:  Female School
+ 23  183  183 Farnam         M. D.          8    F                                  KY.                     X
+                   REMARKS:  Female School
+ 24  183  183 Farnam         S. S.          6    F                                  KY.                     X
+                   REMARKS:  Female School
+ 25  183  183 Hayes          S. A.          32   F                                  Maine
+                   REMARKS:  Female School
+ 26  183  183 Farnam         M. C.          31   F                                  New Hampshire
+                   REMARKS:  Female School
+ 27  183  183 Park           S. R.          25   F                                  Mass.
+                   REMARKS:  Female School
+ 28  183  183 Didlin         M. B.          16   F                                  KY.                     X
+                   REMARKS:  Female School
+ 29  183  183 Heckman        M.             16   F                                  KY.                     X
+                   REMARKS:  Female School
+ 30  183  183 Anderson       E.             16   F                                  KY.                     X
+                   REMARKS:  Female School
+ 31  183  183 Garth          E.             13   F                                  KY.                     X
+                   REMARKS:  Female School
+ 32  183  183 Nailor         M.             17   F                                  KY.                     X
+                   REMARKS:  Female School
+ 33  183  183 Wortham        M.             14   F                                  KY.                     X
+                   REMARKS:  Female School
+ 34  183  183 Norton         S.             14   F                                  KY.                     X
+                   REMARKS:  Female School
+ 35  183  183 Shrophire      Susan          13   F                                  KY.                     X
+                   REMARKS:  Female School
+ 36  183  183 Peak           S. A.          17   F                                  KY.                     X
+                   REMARKS:  Female School
+ 37  183  183 Peak           M. L.          16   F                                  KY.                     X
+                   REMARKS:  Female School
+ 38  183  183 Cooper         S.             15   F                                  KY.                     X
+                   REMARKS:  Female School
+ 39  183  183 Smith          J.             14   F                                  KY.                     X
+                   REMARKS:  Female School
+ 40  183  183 Glinn          J.             14   F                                  KY.                     X
+                   REMARKS:  Female School
+ 41  183  183 Owsley         E.             15   F                                  KY.                     X
+                   REMARKS:  Female School
+ 42  183  183 Williams       M.             14   F                                  KY.                     X
+                   REMARKS:  Female School
+
+CENSUS YR:  1850  STATE or TERRITORY:  KY  COUNTY:  Scott  DIVISION:  District No. 1 East Part  REEL NO:  M432-218  PAGE NO:  409A
+REFERENCE:  Enumerate on 12th day of August 1850 By W. T. V. Bradford
+=========================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB
+=========================================================================================================================
+ 1   183  183 Williams       M. L.          14   F                                  Missi.                  X
+                   REMARKS:  Female School
+ 2   183  183 Williams       J.             12   F                                  Missi.                  X
+                   REMARKS:  Female School
+ 3   183  183 Singleton      A.             15   F                                  Kent'y                  X
+                   REMARKS:  Female School
+ 4   183  183 Cleveland      B.             15   F                                  Kent'y                  X
+                   REMARKS:  Female School
+ 5   183  183 Otwell         E.             17   F                                  Kent'y                  X
+                   REMARKS:  Female School
+ 6   183  183 Cantrell       M. E.          16   F                                  Kent'y                  X
+                   REMARKS:  Female School
+ 7   183  183 Stamps         C.             15   F                                  Kent'y                  X
+                   REMARKS:  Female School
+ 8   183  183 Waller         M.             13   F                                  Kent'y                  X
+                   REMARKS:  Female School
+ 9   183  183 Haydon         L.             15   F                                  Kent'y                  X
+                   REMARKS:  Female School
+ 10  183  183 Alexander      K.             14   F                                  Kent'y                  X
+                   REMARKS:  Female School
+ 11  183  183 Herndon        J.             14   F                                  Kent'y                  X
+                   REMARKS:  Female School
+ 12  183  183 Herndon        L.             11   F                                  Kent'y                  X
+                   REMARKS:  Female School
+ 13  183  183 Allen          L.             11   F                                  Kent'y                  X
+                   REMARKS:  Female School
+ 14  183  183 Scandland      N.             50   F                                  Kent'y                  X
+                   REMARKS:  Female School
+ 15  183  183 Wilson         M. J.          12   F                                  Kent'y                  X
+                   REMARKS:  Female School
+ 16  183  183 Barnes         M.             12   F                                  Kent'y                  X
+                   REMARKS:  Female School
+ 17  184  184 Herndon        H. E.          35   M         Farmer         10,530    Kent'y
+ 18  184  184 Herndon        M. E.          27   F                                  Kent'y
+ 19  184  184 Herndon        John           9    M                                  Kent'y                  X
+ 20  184  184 Herndon        T.*            7    M                                  Kent'y                  X
+ 21  184  184 Herndon        W.             5    F                                  Kent'y
+ 22  184  184 Herndon        S.             3    F                                  Kent'y
+ 23  184  184 Herndon        L.             1    M                                  Kent'y
+ 24  185  185 French         H. R.          31   M         Printer and editor 2,500 Maryland
+ 25  185  185 French         Susan          27   F                                  Maryland
+ 26  185  185 Harney         J.H.           26   M         Printer                  KY.
+ 27  185  185 Dougherty      J.             13   M                                  KY.
+ 28  185  185 French         Henry          10   M                                  KY.                     X
+ 29  185  185 French         Frank          8    M                                  KY.                     X
+ 30  185  185 French         George         5    M                                  KY.                     X
+ 31  186  186 Craig          J. T.          45   M         Farmer         4,500     KY.
+ 32  186  186 Craig          Mary           36   F                                  KY.
+ 33  186  186 Craig          Henry          7    M                                  KY.
+ 34  186  186 Hawkins        Mary           71   F                                  Virga.
+ 35  186  186 Hawkins        Richd.         40   M                                  Kent'y
+ 36  187  187 Keens          John H.        47   M         Farmer                   Kent'y
+ 37  187  187 Keens          Eliza          42   F                                  Kent'y
+ 38  187  187 Keens          Ella           20   F                                  Kent'y
+ 39  188  188 Nevill         Michael        40   M         Stone Mason              Ireland
+ 40  188  188 Nevil          R.             52   F                                  Ireland                       X
+ 41  189  189 Sharp          Lynchfield     32   M         Farmer         850       Kent'y
+ 42  189  189 Sharp          Mary           33   F                                  Kent'y
+
+CENSUS YR:  1850  STATE or TERRITORY:  KY  COUNTY:  Scott  DIVISION:  District No. 1 East Part  REEL NO:  M432-218  PAGE NO:  409B
+REFERENCE:  Enumerate on 12th day of August 1850 By W. T. V. Bradford
+=========================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB
+=========================================================================================================================
+ 1   189  189 Sharp          Adeline        7    F                                  Kent'y
+ 2   189  189 Sharp          Paulline       5    F                                  Kent'y
+ 3   189  189 Sharp          John F. M.     3    M                                  Kent'y
+ 4   189  189 Sharp          Jas.           2    M                                  Kent'y
+ 5   190  190 Cummings       James          46   M         Farmer         1,260     Ireland
+ 6   190  190 Cummings       Anne C.        33   F                                  KY.
+ 7   190  190 Cummings       Wm T.          10   M                                  KY.                     X
+ 8   190  190 Cummings       Elizabeth      8    F                                  KY.                     X
+ 9   190  190 Cummings       Nancy          7    F                                  KY.
+ 10  190  190 Cummings       Sarah          3/12 F                                  KY.
+ 11  190  190 Baley          Leon           18   M         Farmer                   KY.
+ 12  191  191 McMeekin       John           42   M         Farmer         22,500    KY.
+ 13  191  191 McMeekin       M. A.          26   F                                  KY.
+ 14  191  191 McMeekin       E. E.          8    F                                  KY.                     X
+ 15  191  191 McMeekin       A. M.          6    F                                  KY.                     X
+ 16  191  191 McMeekin       L. A.          4    M                                  KY.
+ 17  191  191 McMeekin       J. R.          2    F                                  KY.
+ 18  192  192 Goddard        Saml.          37   M         Farmer         2,400     KY.
+ 19  192  192 Goddard        Mary           35   F                                  KY.
+ 20  192  192 Goddard        Sarah          15   F                                  KY.                     X
+ 21  192  192 Goddard        Irene          13   F                                  KY.                     X
+ 22  193  193 Emison         Ben.           50   M         Farmer         2,500     KY.
+ 23  193  193 Emison         Bethany        44   F                                  KY.
+ 24  193  193 Emison         M. B.          7    F                                  KY.
+ 25  193  193 Emison         Jos.           9    M                                  KY.                     X
+ 26  194  194 Wiggins        Joel           42   M         Farmer                   KY.                           X
+ 27  194  194 Wiggins        Nancy M.       38   F                                  KY.
+ 28  194  194 Wiggins        H.             14   F                                  KY.                     X
+ 29  194  194 Wiggins        E.             12   M                                  KY.                     X
+ 30  194  194 Wiggins        J. JR.         8    M                                  KY.
+ 31  195  195 Shemitt        W. W.          48   M         Farmer                   Virga.
+ 32  195  195 Shemitt        Thomas         17   M         Farmer                   KY.                     X
+ 33  195  195 Shemitt        Martha         10   F                                  KY.                     X
+ 34  195  195 Shemitt        Sarah          8    F                                  KY.
+ 35  196  196 Graves         H. C.          46   M         Farmer         36,300    KY.
+ 36  196  196 Graves         M.R.           28   F                                  KY.
+ 37  196  196 Graves         E. W.          11   F                                  KY.                     X
+ 38  196  196 Graves         J. E.          10   F                                  KY.                     X
+ 39  196  196 Graves         G. A.          4    F                                  KY.
+ 40  196  196 Taylor         Brooking       25   M         Student                  KY.
+ 41  196  196 Raine          H. M.          2    M                                  KY.
+ 42  196  196 Garth          M. E.          13   F                        10,000    KY.
+
+CENSUS YR:  1850  STATE or TERRITORY:  KY  COUNTY:  Scott  DIVISION:  District No. 1 East Part  REEL NO:  M432-218  PAGE NO:  410A
+REFERENCE:  Enumerate on 12th day of August 1850 By W. T. V. Bradford
+=========================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB
+=========================================================================================================================
+ 1   197  197 Salyers        Isaac          30   M         Farmer                   Kent'y
+ 2   197  197 Salyers        E.             25   F                                  Kent'y
+ 3   197  197 Salyers        M. A.          9    F                                  Kent'y
+ 4   197  197 Salyers        Mary A.        6    F                                  Kent'y
+ 5   197  197 Salyers        H.             3    F                                  Kent'y
+ 6   198  198 Stone          Jesse          60   M         None                     Virga.
+ 7   198  198 Stone          Fanny          65   F                                  Virga.
+ 8   198  198 Thomas         H.             5    M                                  KY.
+ 9   199  199 Goddard        Thos.          40   M         Farmer         4,185     KY.
+ 10  200  200 Flournoy       C. M.          45   M         Farmer         38,150    KY.
+ 11  200  200 Flournoy       M. A.          38   F                                  KY.
+ 12  200  200 Flournoy       Rice           14   M                                  KY.                     X
+ 13  200  200 Flournoy       Mat            8    M                                  KY.
+ 14  201  201 Byrne          John           52   M         Printer                  Penna.
+ 15  201  201 Byrne          J. A.          28   F                                  KY.
+ 16  201  201 Byrne          C.             5    M                                  KY.
+ 17  201  201 Byrne          M.             3    F                                  KY.
+ 18  201  201 Byrne          L.             1    F                                  KY.
+ 19  202  202 Polk           Danl.          45   M         Carpenter                KY.
+ 20  202  202 Polk           S. A.          39   F                                  KY.
+ 21  202  202 Polk           David T.       19   M         Carpenter                KY.
+ 22  202  202 Polk           Thomas         16   M         Farmer                   KY.                     X
+ 23  202  202 Polk           Rhoda N.       17   F                                  KY.                     X
+ 24  202  202 Polk           Willis W.      12   M                                  KY.                     X
+ 25  202  202 Polk           Lardias        10   M                                  KY.                     X
+ 26  202  202 Polk           Mary           8    F                                  KY.                     X
+ 27  202  202 Polk           Margaret       6    F                                  KY.
+ 28  202  202 Polk           Inez*          4    F                                  KY.
+                   REMARKS:  3b Jnez??
+ 29  202  202 Polk           James K.       5/12 M                                  KY.
+ 30  202  202 Polk           Sarah J.       15   F                                  KY.
+ 31  203  203 Alsop          Wm.            42   M         Post and Railer 1,200    KY.
+ 32  203  203 Alsop          C.             39   F                                  KY.
+ 33  203  203 Alsop          Saml.          14   M                                  KY.                     X
+ 34  203  203 Alsop          S. A.          12   F                                  KY.                     X
+ 35  203  203 Alsop          E.             10   F                                  KY.                     X
+ 36  203  203 Alsop          Wm. JR.        8    M                                  KY.                     X
+ 37  203  203 Alsop          Eliza          6    F                                  KY.
+ 38  203  203 Alsop          Benj.          2    M                                  KY.
+ 39  203  203 Armstrong      Saml.          63   M         Posr and Railer          KY.
+ 40  204  204 Jenkins        Wm. T.         48   M         Farmer                   Virga.
+ 41  204  204 Jenkins        Mary T.        37   F                                  Virga.
+ 42  204  204 Jenkins        Mary E.        16   F                                  Virga.                  X
+
+CENSUS YR:  1850  STATE or TERRITORY:  KY  COUNTY:  Scott  DIVISION:  District No. 1 East Part  REEL NO:  M432-218  PAGE NO:  410B
+REFERENCE:  Enumerate 12th&13th day of August 1850 By W. T. V. Bradford
+=========================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB
+=========================================================================================================================
+ 1   204  204 Jenkins        James T.       15   M         Student                  Virga.                  X
+ 2   205  205 Carrick        Alexn.         29   M         Farmer         13,500    KY.
+ 3   205  205 Carrick        Thos.          27   M         Farmer                   KY.
+ 4   206  206 Cantrill       John F.        44   M         Farmer         16,400    KY.
+ 5   206  206 Cantrill       Mary           43   F                                  KY.
+ 6   206  206 Cantrill       Joseph         17   M         Student                  KY.                     X
+ 7   206  206 Cantrill       Mary H.        15   F                                  KY.                     X
+ 8   206  206 Cantrill       John           13   M                                  KY.                     X
+ 9   206  206 Cantrill       James W.       11   M                                  KY.                     X
+ 10  206  206 Cantrill       Lewellyn       9    M                                  KY.                     X
+ 11  206  206 Cantrill       Edward         7    M                                  KY.                     X
+ 12  206  206 Cantrill       Frances        5    F                                  KY.
+ 13  206  206 Cantrill       Claudius       4    M                                  KY.
+ 14  207  207 Winter         Geo. W.        50   M         Farmer                   KY.
+ 15  207  207 Winter         Wm. G.         21   M         Farmer                   KY.
+ 16  207  207 Winter         Henry H.       10   M                                  KY.                     X
+ 17  208  208 Henry          Saml.          46   M         Farmer                   KY.                           X
+ 18  208  208 Henry          M.             40   F                                  KY.                           X
+ 19  208  208 Henry          James W.       17   M         Laborer                  KY.
+ 20  208  208 Henry          Jacob          15   M         Laborer                  KY.
+ 21  208  208 Henry          Eliza          13   F                                  KY.
+ 22  208  208 Henry          Sophia         8    F                                  KY.
+ 23  208  208 Henry          Olivia         6    F                                  KY.
+ 24  208  208 Henry          Alexander      3    M                                  KY.
+ 25  208  208 Henry          Sa**y          2    F                                  KY.
+ 26  209  209 Arhurst        Nancy          60   F                        10,000    KY.
+ 27  209  209 Arhurst        J. T.          26   M         Farmer                   KY.
+ 28  209  209 Arhurst        Joseph I.      23   M         Farmer                   KY.
+ 29  209  209 Arhurst        John K.        21   M         Farmer                   KY.
+ 30  209  209 Arhurst        Robt. P.       18   M         Farmer                   KY.
+                   REMARKS:  3a Ahurt?
+ 31  209  209 Arhurst        Lewis E.       14   M                                  KY.                     X
+ 32  210  210 Proctor        James          34   M         Farmer                   KY.                           X
+ 33  210  210 Proctor        Eliza J.       23   F                                  KY.
+ 34  210  210 Proctor        Willis         1    M                                  KY.
+ 35  211  211 White          Abner          63   M         Toll gate Keeper         Penna.
+ 36  211  211 White          Catherine      45   F                                  Kent'y
+ 37  211  211 White          Sarah A.       17   F                                  Kent'y
+ 38  211  211 Outten         Sarah          75   F                                  Maryland
+ 39  212  212 Proctor        John           41   M         Farmer                   KY.                           X
+ 40  212  212 Proctor        Margaret E.    20   F                                  KY.
+ 41  212  212 Proctor        Sarah E.       14   F                                  KY.
+ 42  212  212 Proctor        William        16   M         Farmer                   KY.
+
+CENSUS YR:  1850  STATE or TERRITORY:  KY  COUNTY:  Scott  DIVISION:  District No. 1 East Part  REEL NO:  M432-218  PAGE NO:  411A
+REFERENCE:  Enumerate on 13th day of August 1850 By W. T. V. Bradford
+=========================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB
+=========================================================================================================================
+ 1   212  212 Proctor        John           13   M                                  Kent'y                  X
+ 2   212  212 Proctor        Samuel         10   M                                  Kent'y                  X
+ 3   212  212 Proctor        Manluis        8    M                                  Kent'y
+ 4   212  212 Proctor        Charles H.     22   M         Carpenter                Kent'y                        X
+ 5   213  213 Bitner         Lewis B.       51   M         Wheelwright    1,800     Kent'y
+ 6   213  213 Bitner         Rachel         33   F                                  Kent'y
+ 7   213  213 Bitner         Eliza          26   F                                  Kent'y
+ 8   214  214 Finnell        Benj. W.       47   M         Hemp Manufacturer 15,000 Kent'y
+ 9   214  214 Finnell        Eliza C.       38   F                                  Kent'y
+ 10  214  214 Worthing       M. E.          23   F                                  Kent'y
+ 11  214  214 Finnell        James W.       18   M                                  Kent'y                  X
+ 12  214  214 Finnell        Garret W.      15   M                                  Kent'y                  X
+ 13  214  214 Finnell        Rebecca E.     13   F                                  Kent'y                  X
+ 14  214  214 Finnell        Mary E.        10   F                                  Kent'y                  X
+ 15  214  214 Finnell        Susan M.       8    F                                  Kent'y                  X
+ 16  214  214 Finnell        Benj. W.       5    M                                  Kent'y
+ 17  214  214 Finnell        John H.        2    M                                  Kent'y
+ 18  214  214 Holmes         Robt.          32   M         Rope Skinner             Maryland
+ 19  215  215 Bedell         Geo. E.        39   M         Tailor         500       Maryland
+ 20  215  215 Bedell         Martha         39   F                                  Virga.
+ 21  215  215 Bedell         Sarah          8    F                                  KY.                     X
+ 22  215  215 Butler         Eliza          40   F                                  Virga.
+ 23  215  215 Butler         J. S.          50   M                                  Virga.
+ 24  215  215 Ashbrook       Thos.          30   M         Wagon Maker              KY.
+ 25  216  216 Goddard        Jacob          45   M         Farmer         5,060     KY.
+ 26  216  216 Goddard        Mary A.        40   F                                  KY.
+ 27  216  216 Goddard        Margaret       18   F                                  KY.                     X
+ 28  216  216 Goddard        Thomas         19   M         Laborer                  KY.
+ 29  216  216 Goddard        Elizabeth      14   F                                  KY.                     X
+ 30  216  216 Goddard        Penelope       11   F                                  KY.                     X
+ 31  216  216 Goddard        Rebecca        9    F                                  KY.                     X
+ 32  216  216 Goddard        Jacob          7    M                                  KY.
+ 33  216  216 Goddard        David          5    M                                  KY.
+ 34  216  216 Goddard        M.             4/12 M                                  KY.
+ 35  217  217 Coulter        David H.       36   M         Farmer         7,500     KY.
+ 36  217  217 Coulter        Julia          28   F                                  KY.
+ 37  218  218 Offutt         M. B.          46   M         Farmer                   Maryland
+ 38  218  218 Offutt         Lucretia       33   F                                  Maryland
+ 39  218  218 Offutt         Manlius        13   M                                  KY.                     X
+ 40  218  218 Offutt         Remus          11   M                                  KY.                     X
+ 41  218  218 Offutt         Mary           9    F                                  KY.                     X
+ 42  218  218 Offutt         Ann            7    F                                  KY.                     X
+
+CENSUS YR:  1850  STATE or TERRITORY:  KY  COUNTY:  Scott  DIVISION:  District No. 1 East Part  REEL NO:  M432-218  PAGE NO:  411B
+REFERENCE:  Enumerate on 13th day of August 1850 By W. T. V. Bradford
+=========================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB
+=========================================================================================================================
+ 1   219  219 Sharon         Samuel         58   M         Farmer         550       Kent'y
+ 2   219  219 Sharon         Sarah          51   F                                  Kent'y                        X
+ 3   219  219 Sharon         Hulda          24   F                                  Kent'y
+ 4   220  220 White          Thos. C.       34   M         Farmer         2,000     Kent'y
+ 5   220  220 White          Marietta       24   F                                  Kent'y
+ 6   220  220 White          James K.       14   M                                  Kent'y                  X
+ 7   220  220 White          Mary T.        4    F                                  Kent'y
+ 8   220  220 White          Lewellyn E.    2    M                                  Kent'y
+ 9   221  221 Jacobs         Nathan         46   M         Farmer                   Virga.
+ 10  221  221 Jacobs         Margaret       36   F                                  KY.
+ 11  221  221 Jacobs         Susan E.       13   F                                  KY.                     X
+ 12  221  221 Jacobs         M. J.          11   F                                  KY.                     X
+ 13  221  221 Jacobs         Mary E.        9    F                                  KY.                     X
+ 14  221  221 Jacobs         Zerelda        7    F                                  KY.
+ 15  221  221 Jacobs         Narcissus      5    M                                  KY.
+ 16  221  221 Jacobs         Wm. C.         3    M                                  KY.
+ 17  221  221 Jacobs         Thomas J.*     1    M                                  KY.
+                   REMARKS:  twin to George W.
+ 18  221  221 Jacobs         George W.*     1    M                                  KY.
+                   REMARKS:  Twin to Thomas J.
+ 19  222  222 May            William        27   M         Farmer                   KY.                           X
+ 20  222  222 May            Narcisa        18   F                                  KY.                           X
+ 21  222  222 May            John           19   M         Laborer                  KY.
+ 22  222  222 May            Samuel P.      1    M                                  KY.
+ 23  223  223 Bailey         Samuel         44   M         Farmer         2,000     KY.
+ 24  223  223 Bailey         Martha A.      42   F                                  Virga.
+ 25  223  223 MCulloch       A. D.          34   M         School Teacher           Scotland
+ 26  223  223 Gunnell        Ann J.         5    F                                  KY.
+ 27  223  223 Gunnell        Rebecca S.     3    F                                  KY.
+ 28  224  224 Giles          Charles        32   M         Farmer                   KY.
+ 29  224  224 Giles          Elizabeth      26   F                                  KY.
+ 30  224  224 Giles          Mary S.*       5    F                                  KY.
+ 31  224  224 Giles          Sarah E.       11/12 F                                 KY.
+ 32  225  225 Edmondson      Henry          40   M         Farmer and Preacher 2,000 Tennessee
+ 33  225  225 Edmondson      Sarah          27   F                                  KY.
+ 34  225  225 Edmondson      Enoch          6    M                                  KY.
+ 35  225  225 Edmondson      Mary           2    F                                  KY.
+ 36  225  225 Edmondson      Cephas         3/12                                    KY.
+ 37  226  226 Courtney       Harrison       43   M         Farmer                   KY.                           X
+ 38  226  226 Courtney       Catherine      48   F                                  KY.                           X
+ 39  226  226 Courtney       John           21   M         None                     KY.                           X
+ 40  226  226 Courtney       Elizabeth      18   F                                  KY.
+ 41  226  226 Courtney       Nancy E.       14   F                                  KY.
+ 42  226  226 Granby         G***by         11   M                                  KY.
+
+CENSUS YR:  1850  STATE or TERRITORY:  KY  COUNTY:  Scott  DIVISION:  District No. 1 East Part  REEL NO:  M432-218  PAGE NO:  412A
+REFERENCE:  Enumerate on 13th day of August 1850 By W. T. V. Bradford
+=========================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB
+=========================================================================================================================
+ 1   226  226 Courtney       Mary E.        9    F                                  Kentucky
+ 2   226  226 Courtney       W. C.          5    M                                  Kentucky
+ 3   227  227 Thomason       Sandford       38   M         Farmer                   Kentucky
+ 4   227  227 Thomason       Thomson  Ann   35   F                                  Kentucky
+ 5   227  227 Thomason       Lucy           14   F                                  Kentucky                X
+ 6   227  227 Thomason       Elias          13   M                                  Kentucky                X
+ 7   227  227 Thomason       Zackariah      11   M                                  Kentucky                X
+ 8   227  227 Thomason       Newton         9    M                                  Kentucky                X
+ 9   227  227 Thomason       Martha         7    F                                  Kentucky                X
+ 10  227  227 Thomason       Fernando       5    M                                  Kentucky
+ 11  227  227 Thomason       Edgar          2    M                                  Kentucky
+ 12  227  227 Thomason       Mason          1/12 M                                  Kentucky
+ 13  228  228 Adkins         Belfield G.    41   M         Farmer         2,000     Kentucky
+ 14  228  228 Adkins         Dorinda        35   F                                  Kentucky
+ 15  228  228 Adkins         James          6    M                                  Kentucky                X
+ 16  228  228 Adkins         Laura          3    F                                  Kentucky
+ 17  228  228 Adkins         V. B.          1    F                                  Kentucky
+ 18  229  229 Johnson        Garland        46   M         Farmer         3,200     Virginia
+ 19  229  229 Johnson        Thirza         40   F                                  KY.
+ 20  229  229 Johnson        F. M.          21   M         School Teacher           KY.
+ 21  229  229 Johnson        John W.        19   M         Farmer                   KY.                     X
+ 22  229  229 Johnson        Sandford       17   M         Farmer                   KY.                     X
+ 23  229  229 Johnson        James          14   M                                  KY.                     X
+ 24  229  229 Johnson        Benjamin       11   M                                  KY.
+ 25  229  229 Johnson        Garland        9    M                                  KY.
+ 26  229  229 Johnson        Barton         7    M                                  KY.
+ 27  229  229 Johnson        George W.      5    M                                  KY.
+ 28  229  229 Johnson        Victor         2    M                                  KY.
+ 29  229  229 Stanton        Thomas         36   M                                  KY.                                X
+                   REMARKS:  Idiotic
+ 30  229  229 Brice          M. A.          9    F                                  KY.
+ 31  230  230 Moody          Wm.            69   M         Farmer         6,675     Virga.
+ 32  230  230 Moody          Joseph         31   M         None                     Kent'y
+ 33  230  230 Stanley        Harrison       25   M         Farmer                   Kent'y
+ 34  230  230 Stanley        Martha         23   F                                  Kent'y
+ 35  231  231 West           James L.       25   M         Carpenter      500       Kent'y
+ 36  231  231 West           Mary           23   F                                  Kent'y
+ 37  231  231 West           Ann E.         3    F                                  Kent'y
+ 38  231  231 West           B. K.          2    M                                  Kent'y
+ 39  232  232 Cune           James M. Jr.   22   M         Chair Maker              Kent'y
+ 40  232  232 Cune           Nancy          19   F                                  Kent'y
+ 41  232  232 Cune           Minerva        2    F                                  Kent'y
+ 42  232  232 Cune           Malvina        5/12 F                                  Kent'y
+
+CENSUS YR:  1850  STATE or TERRITORY:  KY  COUNTY:  Scott  DIVISION:  District No. 1 East Part  REEL NO:  M432-218  PAGE NO:  412B
+REFERENCE:  Enumerate 13 or 14th day of August 1850 By W. T. V. Bradford
+=========================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB
+=========================================================================================================================
+ 1   233  233 **agg          J. W.          27   M         Farmer         1,100     Kent'y
+ 2   233  233 **agg          Ann G.         25   F                                  Kent'y
+ 3   233  233 **agg          Mary E.        4    F                                  Kent'y
+ 4   233  233 **agg          Samuel J.      3    M                                  Kent'y
+ 5   234  234 Fish           Amy            51   F                        1,200     Ohio
+ 6   234  234 Fish           William        28   M         Horse Trader             Ohio
+ 7   234  234 Fish           Elizabeth      20   F                                  Kent'y
+ 8   234  234 Fish           Caroline       17   F                                  Kent'y
+ 9   234  234 Fish           James          15   M                                  Kent'y                  X
+ 10  234  234 Fish           Francis        12   M                                  Kent'y                  X
+ 11  234  234 Fish           Robert         9    M                                  Kent'y                  X
+ 12  235  235 Hicks          Thomas         31   M         Farmer                   Kent'y
+ 13  235  235 Hicks          Sarah A.       28   F                                  Kent'y                        X
+ 14  235  235 Hicks          Geo.  W.       10/12 M                                 Kent'y
+ 15  236  236 Pemberton      Richard        39   M         Farmer         1,620     Kent'y
+ 16  236  236 Pemberton      Sarah          35   F                                  Kent'y
+ 17  236  236 Pemberton      Eliza A.       13   F                                  Kent'y                  X
+ 18  236  236 Pemberton      Thomas H.      12   M                                  Kent'y                  X
+ 19  236  236 Pemberton      Sarah J.       9    F                                  Kent'y                  X
+ 20  236  236 Pemberton      James R.       6    M                                  Kent'y
+ 21  237  237 Hiles          David T.       33   M         Farmer                   Kent'y
+ 22  237  237 Hiles          Lucinda        32   F                                  Kent'y
+ 23  237  237 Hiles          Sarah M.       6    F                                  Kent'y                  X
+ 24  237  237 Hiles          Esther J.      4    F                                  Kent'y
+ 25  237  237 Hiles          John T.        6/12 M                                  Kent'y
+ 26  237  237 Hiles          Jane           70   F                                  Virga.
+ 27  237  237 Hiles          Cynthia        40   F                                  Kent'y
+                   REMARKS:  Idiot
+ 28  238  238 Dryden         James R.       50   M         Farmer         1,500     Kent'y
+ 29  238  238 Dryden         Pamela J.      30   F                                  Kent'y
+ 30  238  238 Dryden         Susan A.       11   F                                  Kent'y                  X
+ 31  238  238 Dryden         Thomas M.      9    M                                  Kent'y                  X
+ 32  238  238 Dryden         Nancy J.       7    F                                  Kent'y                  X
+ 33  238  238 Dryden         Louisa         5    F                                  Kent'y
+ 34  238  238 Dryden         Rebecca H.     1    F                                  Kent'y
+ 35  239  239 Peak           Robert         22   M         Farmer                   Kent'y
+ 36  239  239 Peak           John           19   M         Student                  Kent'y
+ 37  240  240 David          A. O.          35   M         Farmer & Saddler         Kent'y
+ 38  240  240 David          Susan M.       27   F                                  Kent'y
+ 39  240  240 David          James H.       6    M                                  Kent'y
+ 40  240  240 David          Charles R.     4    M                                  Kent'y
+ 41  240  240 David          Mary E.        3    F                                  Kent'y
+ 42  240  240 David          Samuel W.      5/12 M                                  Kent'y
+
+CENSUS YR:  1850  STATE or TERRITORY:  KY  COUNTY:  Scott  DIVISION:  District No. 1 East Part  REEL NO:  M432-218  PAGE NO:  413A
+REFERENCE:  Enumerate on 14th day of August 1850 By W. T. V. Bradford
+=========================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB
+=========================================================================================================================
+ 1   240  240 David          Solomon        17   M         Saddler                  Kent'y
+ 2   240  240 Place          Jacob          32   M         Saddler                  Gernamy
+ 3   240  240 Maloney        Wm.            26   M         Farmer                   Kent'y
+ 4   241  241 Horsman        M. M.          30   M         Cabinet Maker  200       Kent'y
+ 5   241  241 Horsman        Mary           28   F                                  Kent'y
+ 6   241  241 Horsman        Sophronia      12   F                                  Kent'y                  X
+ 7   241  241 Horsman        Sarah E.       10   F                                  Kent'y                  X
+ 8   241  241 Horsman        Joseph H.      8    M                                  Kent'y                  X
+ 9   241  241 Horsman        Amanda         6    F                                  Kent'y                  X
+ 10  241  241 Horsman        Eliza. F.      4    F                                  Kent'y
+ 11  241  241 Horsman        Mary           2    F                                  Kent'y
+ 12  241  241 Horsman        John F.        1    M                                  Kent'y
+ 13  241  241 Hulet          James          27   M         Caibnet Maker            Kent'y
+ 14  241  241 Hulet          Mary           18   F                                  Kent'y
+ 15  242  242 Roche          Sarah E.       44   F                        13,750    Kent'y
+ 16  242  242 Roche          John S.        23   M         Farmer                   Kent'y
+ 17  242  242 Roche          Redmond        26   M         Clerk                    Kent'y
+ 18  243  243 Cummings       John           29   M         Farmer                   Ireland                       X
+ 19  243  243 Cummings       Catherine      30   F                                  Kent'y                        X
+ 20  243  243 Cummings       Mary           2    F                                  Kent'y
+ 21  243  243 Cummings       Laura          5/12 F                                  Kent'y
+ 22  244  244 Bowner         James C.       26   M         Farmer         2,700     Kent'y
+ 23  244  244 Bowner         Amanda M.      28   F                                  Kent'y
+ 24  244  244 Bowner         Joseph W.      3    M                                  Kent'y
+ 25  244  244 Bowner         Nancy          2    F                                  Kent'y
+ 26  244  244 Bowner         Mary S.        5/12 F                                  Kent'y
+ 27  244  244 Bowner         Nancy          30   F                        1,500     Kent'y
+ 28  244  244 Talbot         Jacob          55   M    M                             Kent'y                        X
+ 29  245  245 Saunders       Louisa E.      49   F                        27,000    Kent'y
+ 30  245  245 Saunders       Matthews F.    21   M                                  Kent'y
+ 31  245  245 Saunders       Bettie         18   F                                  Kent'y
+ 32  246  246 Paget          Harrison       37   M         Farmer                   Kent'y
+ 33  246  246 Paget          Kezia          33   F                                  Kent'y                        X
+ 34  246  246 Paget          Jeremiah       8    M                                  Kent'y                  X
+ 35  246  246 Paget          Kezia          6    F                                  Kent'y                  X
+ 36  246  246 Paget          William        5    M                                  Kent'y
+ 37  247  247 Moore          Wesley         32   M         Farmer                   Kent'y
+ 38  247  247 Moore          Martha J.      27   F                                  Kent'y
+ 39  247  247 Moore          James H.       9    M                                  Kent'y                  X
+ 40  247  247 Moore          Mary H.        7    F                                  Kent'y                  X
+ 41  247  247 Moore          Samuel S.      4    M                                  Kent'y
+ 42  247  247 Moore          Lindsey        2    M                                  Kent'y
+
+CENSUS YR:  1850  STATE or TERRITORY:  KY  COUNTY:  Scott  DIVISION:  District No. 1 East Part  REEL NO:  M432-218  PAGE NO:  413B
+REFERENCE:  Enumerate on 15th day of August 1850 By W. T. V. Bradford
+=========================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB
+=========================================================================================================================
+ 1   248  248 Finley         Benj. F.       34   M         Farmer         12,480    Kent'y
+ 2   248  248 Finley         Susan          20   F                                  Kent'y
+ 3   248  248 Finley         Mary E.        1    F                                  Kent'y
+ 4   249  249 Hamillon       Charles        43   M         Farmer         6,300     Kent'y
+ 5   249  249 Hamillon       Martha M.      37   F                                  Kent'y
+ 6   249  249 Hamillon       John M.        16   M                                  Kent'y                  X
+ 7   249  249 Hamillon       James W.       14   M                                  Kent'y                  X
+ 8   249  249 Hamillon       Margaret       12   F                                  Kent'y                  X
+ 9   249  249 Hamillon       Richard        10   M                                  Kent'y                  X
+ 10  249  249 Hamillon       Charles F.     4    M                                  Kent'y
+ 11  249  249 Hamillon       Bradford       8/12 M                                  Kent'y
+ 12  249  249 Keene          Richard        53   M         Farmer                   Kent'y
+ 13  249  249 Keene          Hopewell       50   M         Farmer                   Kent'y
+ 14  250  250 Cox            William        67   M         Cabinet Maker  500       England
+ 15  250  250 Cox            George         25   M         Cabinet Maker            Kent'y
+ 16  251  251 Wallace        John           29   M         Grocer                   Kent'y
+ 17  251  251 Wallace        Sarah E.       11   F                                  Kent'y                  X
+ 18  251  251 Wallace        Amanda         8    F                                  Kent'y                  X
+ 19  251  251 Wallace        Elizabeth      6    F                                  Kent'y
+ 20  252  252 Lydick         Martin         40   M         Farmer         6,000     Kent'y
+ 21  252  252 Lydick         Emily A.       33   F                                  Kent'y
+ 22  252  252 Lydick         Eliza A.       9    F                                  Kent'y                  X
+ 23  253  253 Jenill         Josephus       47   M         Farmer         7,000     Kent'y
+ 24  253  253 Jenill         Mary Ann       30   F                                  Kent'y
+ 25  253  253 Jenill         David W.       16   M         Farmer                   Kent'y                  X
+ 26  253  253 Jenill         William        10   M                                  Kent'y                  X
+ 27  253  253 Jenill         Parker         8    M                                  Kent'y                  X
+ 28  253  253 Jenill         Martha         7    F                                  Kent'y                  X
+ 29  253  253 Jenill         Catherine      5    F                                  Kent'y                  X
+ 30  253  253 Jenill         James          4    M                                  Kent'y
+ 31  253  253 Jenill         Franklin       2    M                                  Kent'y
+ 32  253  253 Jenill         Thomas         49   M                                  Kent'y                             X
+                   REMARKS:  Deaf and dumb
+ 33  254  254 Woodgate       James          31   M         Blacksmith               Kent'y
+ 34  254  254 Woodgate       Martha         28   F                                  Kent'y
+ 35  254  254 Woodgate       William        6    M                                  Kent'y
+ 36  254  254 Woodgate       Joseph         4    M                                  Kent'y
+ 37  254  254 Woodgate       James          1 6/12 M                                Kent'y
+ 38  254  254 Trowbridge     Joseph F. R.   21   M         Blacksmith               Kent'y
+ 39  254  254 Trowbridge     Benjamin E.    28   M         Laborer                  Kent'y
+ 40  255  255 Cox            Lucy           50   F                        2,000     Delaware
+ 41  255  255 Polk           Harriet J.     47   F                                  Delaware
+ 42  256  256 Sherritt       Rebecca        46   F                        300       Delaware
+
+CENSUS YR:  1850  STATE or TERRITORY:  KY  COUNTY:  Scott  DIVISION:  District No. 1 East Part  REEL NO:  M432-218  PAGE NO:  414A
+REFERENCE:  Enumerate on 15th day of August 1850 By W. T. V. Bradford
+=========================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB
+=========================================================================================================================
+ 1   256  256 Sherritt       James          20   M         None                     Kent'y
+ 2   256  256 Sherritt       Rebecca        17   F                                  Kent'y
+ 3   256  256 Sherritt       Robert         14   M                                  Kent'y                  X
+ 4   256  256 Keene          Ann E.         23   F                                  Kent'y
+ 5   256  256 Keene          Thos J.        5    M                                  Kent'y
+ 6   256  256 Keene          Angelina B.    3    F                                  Kent'y
+ 7   257  257 Anderson       John           42   M         Blacksmith     1,200     Kent'y
+ 8   257  257 Anderson       Mary           38   F                                  Kent'y
+ 9   257  257 Anderson       Mary J.        19   F                                  Kent'y
+ 10  257  257 Anderson       James W.       17   M         Blacksmith               Kent'y
+ 11  257  257 Anderson       John           16   M         Blacksmith               Kent'y                  X
+ 12  257  257 Anderson       Ezra  A.       13   M                                  Kent'y                  X
+ 13  257  257 Anderson       Aaron          12   M                                  Kent'y                  X
+ 14  257  257 Anderson       Lucinda        9    F                                  Kent'y                  X
+ 15  257  257 Anderson       Suasn          7    F                                  Kent'y                  X
+ 16  257  257 Anderson       Henry          4    M                                  Kent'y
+ 17  257  257 Anderson       Aaron          30   M         Blacksmith               Kent'y
+ 18  257  257 Maple          William        29   M         Blacksmith               Kent'y                        X
+ 19  258  258 Hufford        William        32   M         Wagon Maker    500       Kent'y
+ 20  258  258 Hufford        Mary A.        31   F                                  Kent'y
+ 21  258  258 Hufford        Susan A.       6    F                                  Kent'y
+ 22  258  258 Hufford        William J.     4    M                                  Kent'y
+ 23  258  258 Hufford        John H.        2    M                                  Kent'y
+ 24  258  258 Hufford        Mary           */12 F                                  Kent'y
+                   REMARKS:  3/12 or 7/12
+ 25  259  259 McLauglin      Harriet        44   F                        500       Kent'y
+ 26  260  260 Williams       H. G.          33   M         Landlord       1,200     Kent'y
+ 27  260  260 Williams       Julian         24   F                                  Kent'y
+ 28  260  260 Williams       George H.      6    M                                  Kent'y
+ 29  260  260 Williams       Charles N.     4    M                                  Kent'y
+ 30  260  260 Williams       John H.        10/12 M                                 Kent'y
+ 31  261  261 Williams       Barthw S.      33   M         Carpenter                Kent'y
+ 32  261  261 Williams       Nancy J.       22   F                                  Kent'y
+ 33  261  261 Williams       Alexander      1/12 M                                  Kent'y
+ 34  262  262 Campbell       James          21   M         Farmer         7,000     Kent'y
+ 35  262  262 Campbell       William        31   M         Farmer                   Kent'y
+ 36  262  262 Campbell       John H.        14   M                                  Kent'y                  X
+ 37  262  262 Campbell       Margaret E.    10   F                                  Kent'y                  X
+ 38  262  262 Campbell       Elizabeth      51   F                                  Kent'y
+ 39  263  263 Ford           Eliza          44   F                        300       Maryland
+ 40  263  263 Ford           Mary J.        17   F                                  Kent'y
+ 41  263  263 Ford           Martha E.      15   F                                  Kent'y                  X
+ 42  263  263 Ford           James O.       12   M                                  Kent'y                  X
+
+CENSUS YR:  1850  STATE or TERRITORY:  KY  COUNTY:  Scott  DIVISION:  District No. 1 East Part  REEL NO:  M432-218  PAGE NO:  414B
+REFERENCE:  Enumerate 15&16th day of August 1850 By W. T. V. Bradford
+=========================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB
+=========================================================================================================================
+ 1   264  264 Scott          James M.       34   M         Farmer         6,000     Kent'y
+ 2   264  264 Scott          Esther M.      24   F                                  Kent'y
+ 3   264  264 Morris         Martha         11   F                                  Missouri                X
+ 4   265  265 Poyntz         Rebecca        45   F                        2,000     Kent'y
+ 5   265  265 Poyntz         William        23   M         Bricklayer               Kent'y
+ 6   265  265 Poyntz         James          20   M         Farmer                   Kent'y
+ 7   266  266 Olwell         William        53   M         Farmer         13,500    Kent'y
+ 8   266  266 Olwell         Quintilda      50   F                                  Kent'y
+ 9   266  266 Olwell         Martha         19   F                                  Kent'y
+ 10  266  266 Olwell         Emily          17   F                                  Kent'y
+ 11  266  266 Olwell         Mary Ann       14   F                                  Kent'y                  X
+ 12  266  266 Olwell         Sarah  J.      11   F                                  Kent'y                  X
+ 13  267  267 Poyntz         John           53   M         Farmer         11,000    Kent'y
+ 14  267  267 Poyntz         H.             51   F                                  Kent'y
+ 15  267  267 King           Caroline       35   F                                  Kent'y
+ 16  267  267 Poyntz         Caroline J.    18   F                                  Kent'y                  X
+ 17  267  267 Poyntz         John A.        14   M                                  Kent'y                  X
+ 18  267  267 Poyntz         James M.       12   M                                  Kent'y                  X
+ 19  267  267 Poyntz         Cyrus A.       8    M                                  Kent'y                  X
+ 20  268  268 Kenney         John           25   M         Farmer         6,000     Kent'y
+ 21  268  268 Kenney         Priscilla A.   22   F                                  Kent'y
+ 22  268  268 Kenney         Fanny          2    F                                  Kent'y
+ 23  268  268 Kenney         Laura          8/12 F                                  Kent'y
+ 24  269  269 Hall           *. *.          43   M         Farmer and Doctor 2,400  Kent'y
+ 25  269  269 Hall           Fabitha        50   F                                  Virga.
+ 26  269  269 Hall           E. B.          33   M         Doctor                   KY.
+ 27  270  270 Rossell        Wesley         31   M         Farmer         2,000     KY.
+ 28  270  270 Rossell        Maria          30   F                                  KY.
+ 29  270  270 Rossell        Marion         10   M                                  KY.                     X
+ 30  270  270 Rossell        Newton*        8    M                                  KY.                     X
+ 31  270  270 Rossell        William  A.    6    M                                  KY.                     X
+ 32  270  270 Rossell        Maria          11   F                                  KY.
+ 33  270  270 Rossell        Joseph N.      2    M                                  KY.
+ 34  270  270 Rossell*       Whitney        1    M                                  KY.
+ 35  271  271 Dingle         Catherine      40   F                                  KY.
+ 36  271  271 Dingle         Amanda         12   F                                  KY.                     X
+ 37  271  271 Dingle         Edwin          10   M                                  KY.                     X
+ 38  272  272 Rossell        William        62   M         Farmer         18,000    Virginia
+ 39  272  272 Hanna          Caleb          20   M         Laborer                  Kent'y
+ 40  273  273 Parks          John           55   M         Farmer         6,880     Virga.
+ 41  273  273 Oxley          Asher          25   M         Carpenter                KY.
+ 42  273  273 Oxley          Mary Ann       21   F                                  KY.
+
+CENSUS YR:  1850  STATE or TERRITORY:  KY  COUNTY:  Scott  DIVISION:  District No. 1 East Part  REEL NO:  M432-218  PAGE NO:  415A
+REFERENCE:  Enumerate on 16th day of August 1850 By W. T. V. Bradford
+=========================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB
+=========================================================================================================================
+ 1   273  273 Oxley          John P.        19   M         Farmer                   Kent'y
+ 2   273  273 Oxley          Nancy J.       16   F                                  Kent'y
+ 3   274  274 Gains          Lydia          55   F                        1,200     Kent'y
+ 4   274  274 Bradford       Martha         33   F                                  Kent'y
+ 5   274  274 Bradford       Henry H.       7    M                                  Kent'y
+ 6   274  274 Gains          Jacob          23   M         School Teacher           Kent'y
+ 7   275  275 Moore          Rachel         60   F                        2,000     Kent'y
+ 8   275  275 Moore          Thomas         28   M         Stonemason               Kent'y
+ 9   275  275 Moore          Ann R.         27   F                                  Kent'y
+ 10  275  275 Moore          Joseph         19   M         Farmer                   Kent'y
+ 11  275  275 Moore          Mary E.        4    F                                  Kent'y
+ 12  276  276 Link           Enoch          43   M         Farmer         3,000     Kent'y
+ 13  276  276 Link           Susan          29   F                                  Kent'y
+ 14  276  276 Hufford        Barbara        76   F                        6,000     Virga.
+ 15  276  276 Hufford        Eli            34   M         Farmer                   KY.
+ 16  276  276 Hufford        Mary           40   F                                  KY.
+ 17  276  276 Woodgate       Delilah        35   F                                  KY.
+ 18  277  277 Eulass         James          50   M         Farmer                   KY.
+ 19  277  277 Eulass         Mary           42   F                                  KY.
+ 20  277  277 Eulass         Rebecca C.     19   F                                  KY.
+ 21  277  277 Eulass         Nancy L.       13   F                                  KY.
+ 22  277  277 Eulass         John           11   M                                  KY.
+ 23  277  277 Eulass         James W.       9    M                                  KY.
+ 24  277  277 Eulass         Griffin        6    M                                  KY.
+ 25  277  277 Eulass         Agness S.      1    F                                  KY.
+ 26  278  278 Shuff          Isaac          63   M         Farmer         6,500     Maryland
+ 27  278  278 Shuff          Amanda C.      14   F                                  Kent'y                  X
+ 28  278  278 Shuff          Isaac T.       9    M                                  Kent'y
+ 29  279  279 Ford           Charles        47   M         Farmer         6,000     Kent'y
+ 30  279  279 Ford           Patsey A.      10   F                                  Kent'y                  X
+ 31  279  279 Ford           Charles L.     6    M                                  Kent'y                  X
+ 32  280  280 Humphreys      Lucy           48   F                                  Virga.                        X
+ 33  280  280 Humphreys      James          19   M         Farmer                   KY.
+ 34  280  280 Humphreys      Benjamin F.    17   M         Farmer                   KY.
+ 35  280  280 Humphreys      Andrew J.      15   M         Farmer                   KY.
+ 36  280  280 Humphreys      Lucinda E.     13   F                                  KY.
+ 37  280  280 Humphreys      Leah           10   F                                  KY.
+ 38  281  281 Ryles          Alexander      55   M         Farmer         100       Viga.                         X
+ 39  281  281 Ryles          Susan          30   F                                  KY.
+ 40  281  281 Ryles          Eliza          26   F                                  KY.
+ 41  281  281 Ryles          William        25   M                                  KY.
+ 42  281  281 Ryles          Elizabeth      20   F                                  KY.
+
+CENSUS YR:  1850  STATE or TERRITORY:  KY  COUNTY:  Scott  DIVISION:  District No. 1 East Part  REEL NO:  M432-218  PAGE NO:  415B
+REFERENCE:  Enumerate on 16th day of August 1850 By W. T. V. Bradford
+=========================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB
+=========================================================================================================================
+ 1   282  282 Stubbs         Hartwell       24   M         Farmer                   Kent'y                        X
+ 2   282  282 Stubbs         Eveline        26   F                                  Kent'y                        X
+ 3   282  282 Stubbs         Elizabeth      2    F                                  Kent'y
+ 4   282  282 Stubbs         Mary A.        1    F                                  Kent'y
+ 5   282  282 Stubbs         William        65   M         None                     Maryland                      X
+ 6   283  283 Switzer        Nathaniel      37   M         Farmer         3,920     Ireland
+ 7   283  283 Switzer        Elizabeth      34   F                                  Kent'y
+ 8   283  283 Switzer        William A.     10   M                                  Kent'y                  X
+ 9   283  283 Switzer        Susan A.       8    F                                  Kent'y                  X
+ 10  283  283 Switzer        Ann R.         5    F                                  Kent'y
+ 11  283  283 Switzer        Howard         5/12 M                                  Kent'y
+ 12  284  284 Smith          Sarah          64   F                        13,200    Virga.
+ 13  284  284 Simpson        Sarah          55   F                                  KY.
+ 14  284  284 Hufford        Alfred         78   M         Farmer                   KY.
+ 15  285  285 Smith          Garland K.     47   M         Farmer         16,000    KY.
+ 16  285  285 Smith          Penelope       43   F                                  KY.
+ 17  285  285 Smith          Martha         18   F                                  KY.
+ 18  285  285 Smith          George A.      15   F                                  KY.
+                   REMARKS:  Note: Listed as Female
+ 19  285  285 Maloney        James          20   M         None                     KY.
+ 20  286  286 Glinn          Walter E.      27   M         Farmer         1,350     KY.
+ 21  286  286 Glinn          Nancy J.       24   F                                  KY.
+ 22  286  286 Glinn          Katherine      6    F                                  KY.
+ 23  286  286 Glinn          Minor*         11   M                                  KY.
+ 24  286  286 Glinn          Thomson        1    M                                  KY.
+ 25  287  287 Keene          Ann J.         39   F                        5,680     KY.
+ 26  287  287 Keene          Mary Ann       21   F                                  KY.
+ 27  287  287 Keene          Sarah V.       20   F                                  KY.
+ 28  287  287 Cooper         Julia          16   F                                  KY.
+ 29  287  287 Keene          Spencer R.     15   M                                  KY.                     X
+ 30  287  287 Keene          Marcillus      10   M                                  KY.
+ 31  288  288 Keene          Sarah          64   F                        8,000     Maryland
+ 32  288  288 Keene          Julia Ann      47   F                                  Kent'y
+ 33  289  289 Tanner         John           70   M         Millwright     400       Penna.
+ 34  289  289 Tanner         Lucy           67   F                                  Virga.
+ 35  289  289 Riley          Jane           35   F                                  KY.
+ 36  289  289 Riley          Lucy A.        3    F                                  Tennessee
+ 37  289  289 Higgins        Morris         36   M         Stonemason               Ireland
+ 38  289  289 Higgins        Eliza A.       28   F                                  KY.
+ 39  289  289 Higgins        Julia A.       10/12 F                                 KY.
+ 40  290  290 Houston        Strphen        55   M         Farmer         8,550     KY.
+ 41  290  290 Houston        Amelia         53   F                                  Virga.
+ 42  290  290 Houston        James O.       18   M         Farmer                   Kent'y
+
+CENSUS YR:  1850  STATE or TERRITORY:  KY  COUNTY:  Scott  DIVISION:  District No. 1 East Part  REEL NO:  M432-218  PAGE NO:  416A
+REFERENCE:  Enumerate on 17th day of August 1850 By W. T. V. Bradford
+=========================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB
+=========================================================================================================================
+ 1   290  290 Houston        Mary T.        16   F                                  Kent'y
+ 2   290  290 Houston        Eleanor        13   F                                  Kent'y                  X
+ 3   290  290 Houston        Hester         9    F                                  Kent'y                  X
+ 4   290  290 Houston        Sarah E.       9                                       Kent'y                  X
+ 5   291  291 Graves         Caswell J.     23   M         Physician      1,500     Kent'y
+ 6   291  291 Graves         Jane C.        20   F                                  Kent'y
+ 7   291  291 Graves         Elkanah        1    M                                  Kent'y
+ 8   292  292 Sudduth        James          34   M         Farmer         19,980    Kent'y
+ 9   292  292 Sudduth        William R.     3*   M         Farmer                   Kent'y
+ 10  292  292 Sudduth        Livy* G.       30   M                                  Kent'y
+ 11  293  293 Offutt         Mary           80   F                        20,000    Maryland
+ 12  293  293 Beagle         Caroline       38   F                                  KY.
+ 13  293  293 Beagle         Samuel         33   M         Farmer                   KY.
+ 14  294  294 Offutt         Urias M.       38   M         Farmer         30,000    KY.
+ 15  294  294 Offutt         Ann M.         12   F                                  KY.                     X
+ 16  294  294 Offutt         Mary E.        11   F                                  KY.                     X
+ 17  294  294 Offutt         James W.       6    M                                  KY.
+ 18  294  294 Aldrich        Lauisa         28   F                                  New Hampshire
+ 19  295  295 Sutton         William        37   M         Post and Railer          Virga.
+ 20  295  295 Sutton         Minerva        37   F                                  Kent'y
+ 21  295  295 Sutton         Lucy           70   F                                  Kent'y
+ 22  295  295 Sutton         James          12   M                                  Kent'y                  X
+ 23  295  295 Sutton         Mary           10   F                                  Kent'y                  X
+ 24  295  295 Sutton         John           19   M         Farmer                   Kent'y
+ 25  296  296 Barlow         Susan          70   F                        2,310     North Carolina
+ 26  296  296 Barlow         Thomas J.      44   M         Farmer         800       Kent'y
+ 27  296  296 Barlow         Susan          26   F                                  Kent'y
+ 28  296  296 Barlow         Frances        16   F                                  Kent'y                  X
+ 29  296  296 Barlow         Joseph         14   M                                  Kent'y                  X
+ 30  296  296 Barlow         Thomas         12   M                                  Kent'y                  X
+ 31  296  296 Barlow         James          10   M                                  Kent'y
+ 32  296  296 Barlow         Edward         7    M                                  Kent'y
+ 33  296  296 Barlow         Frinch         3    M                                  Kent'y
+ 34  296  296 Barlow         Clifton        1    M                                  Kent'y
+ 35  297  297 Payne          Remus          38   M         Farmer         30,000    Kent'y
+ 36  297  297 Payne          Charlotte      16   F                                  Kent'y                  X
+ 37  297  297 Payne          Kitty          14   F                                  Kent'y                  X
+ 38  297  297 Payne          John           13   M                                  Kent'y                  X
+ 39  297  297 Payne          Henry          11   M                                  Kent'y                  X
+ 40  297  297 Payne          Lewis          10   M                                  Kent'y                  X
+ 41  297  297 Payne          Robert         8    M                                  Kent'y                  X
+ 42  298  298 Grigg          John L.        50   M         Carpenter                Kent'y
+
+CENSUS YR:  1850  STATE or TERRITORY:  KY  COUNTY:  Scott  DIVISION:  District No. 1 East Part  REEL NO:  M432-218  PAGE NO:  416B
+REFERENCE:  Enumerate on 17th day of August 1850 By W. T. V. Bradford
+=========================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB
+=========================================================================================================================
+ 1   298  298 Grigg          Henrietta      45   F                                  Kent'y
+ 2   298  298 Grigg          John W.        25   M         Farmer                   Kent'y
+ 3   298  298 Grigg          Arabella       23   F                                  Kent'y
+ 4   298  298 Grigg          Charles        20   M         Farmer                   Kent'y
+ 5   298  298 Grigg          George         17   M         Farmer                   Kent'y
+ 6   298  298 Grigg          Joseph         12   M                                  Kent'y                  X
+ 7   298  298 Grigg          Gasher         7    M                                  Kent'y
+ 8   299  299 Causey         Sarah          31   F                        4,000     Kent'y
+ 9   299  299 Causey         Mary           6    F                                  Kent'y                  X
+ 10  299  299 Causey         Thomas         4    M                                  Kent'y
+ 11  299  299 Stephens       Tamar          50   F                                  Kent'y
+ 12  300  300 Offutt         Isaiah         42   M         Farmer         7,320     Maryland
+ 13  300  300 Offutt         Rebecca        30   F                                  Kent'y
+ 14  300  300 Offutt         Mary A.        12   F                                  Kent'y                  X
+ 15  301  301 Duncan         Celia          33   F                                  Maryland
+ 16  301  301 Duncan         William        5    M                                  Kent'y
+ 17  301  301 Duncan         Emerine        3    F                                  Kent'y
+ 18  302  302 Jouitt         Catherine      52   F                        3,500     Virga.
+ 19  302  302 Jouitt         Robert         30   M         Farmer                   Kent'y
+ 20  302  302 Jouitt         Winifred       30   F                                  Kent'y
+ 21  302  302 Jouitt         Sarah J.       18   F                                  Kent'y
+ 22  302  302 Jouitt         David P.       14   F                                  Kent'y                  X
+ 23  302  302 Jouitt         Catherine      12   F                                  Kent'y                  X
+ 24  302  302 Ireland        Maria C.       10   F                                  Kent'y                  X
+ 25  303  303 Jouitt         Henry          37   M         Farmer                   Kent'y
+ 26  303  303 Jouitt         Maria          32   F                                  Kent'y
+ 27  303  303 Jouitt         John W.        13   M                                  Kent'y                  X
+ 28  303  303 Jouitt         Martha         12   F                                  Kent'y                  X
+ 29  303  303 Jouitt         Thomas N.      6    M                                  Kent'y
+ 30  303  303 Jouitt         Joseph R.      4    M                                  Kent'y
+ 31  303  303 Jouitt         Catherine      2    F                                  Kent'y
+ 32  303  303 Jouitt         Henry          6/12 M                                  Kent'y
+ 33  304  304 Innis*         Richard        36   M    B                   1,500     Kent'y
+ 34  304  304 Innis*         Thomas W.      16   M    B                             Kent'y
+ 35  305  305 Ford           Jesse          31   M         Farmer         5,600     Kent'y
+ 36  305  305 Ford           Mary Ann       28   F                                  Kent'y
+ 37  305  305 Ford           Wm. H.         3    M                                  Kent'y
+ 38  306  306 Shropshire     O. H. P.       37   M         Farmer         6,000     Kent'y
+ 39  306  306 Shropshire     Ellen          25   F                                  Kent'y
+ 40  306  306 Shropshire     John H.        8    M                                  Kent'y                  X
+ 41  306  306 Shropshire     Ann E.         5    F                                  Kent'y
+ 42  306  306 Shropshire     Susan M.       3    F                                  Kent'y
+
+CENSUS YR:  1850  STATE or TERRITORY:  KY  COUNTY:  Scott  DIVISION:  District No. 1 East Part  REEL NO:  M432-218  PAGE NO:  417A
+REFERENCE:  Enumerate 17&19th  day of August 1850 By W. T. V. Bradford
+=========================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB
+=========================================================================================================================
+ 1   307  307 Glinn          John M.        31   M         Farmer         6,400     Kent'y
+ 2   307  307 Glinn          Ann E.         15   F                                  Kent'y
+ 3   308  308 Glinn          Catherine      56   F                        4,800     Virga.
+ 4   308  308 Glinn          Hartwell S.    17   M         Farmer                   Kent'y
+ 5   308  308 Glinn          Margaret       15   F                                  Kent'y                  X
+ 6   308  308 Glinn          Mary           14   F                                  Kent'y                  X
+ 7   309  309 Allen          David S.       28   M         Farmer         5,880     Kent'y
+ 8   309  309 Allen          Amanda         20   F                                  Kent'y
+ 9   309  309 Allen          Rodes          3    M                                  Kent'y
+ 10  310  310 Slayers        Wm. H.         28   M         Farmer                   Kent'y
+ 11  310  310 Salyers        Charlotte      28   F                                  Kent'y                        X
+ 12  310  310 Salyers        Emily*         5    F                                  Kent'y
+ 13  310  310 Salyers        Robert C.      4    M                                  Kent'y
+ 14  310  310 Salyers        Elizabeth      2    F                                  Kent'y
+ 15  310  310 Saunders       Elizabeth      55   F                                  Virga.                        X
+ 16  310  310 Stubbs         Henry          17   M         None                     Kent'y
+ 17  311  311 Gorry          James          41   M         Laborer        1,000     Ireland
+ 18  311  311 Careagan       Dennis         50   M         Laborer                  Ireland                       X
+ 19  311  311 Cahill         John           21   M         Laborer                  Kent'y
+ 20  312  312 Malink         Patrich        30   M         Laborer                  Ireland
+ 21  311  311 Fitzpatrick    Philip         35   M         Laborer                  Ireland
+ 22  312  312 Glass          Belfield C.    35   M         Wagon Maker    600       Kent'y
+ 23  312  312 Glass          Sarah E.       28   F                                  Kent'y
+ 24  312  312 Glass          Mary E.        10   F                                  Kent'y
+ 25  312  312 Glass          Nashville      8    M                                  Kent'y
+ 26  312  312 Glass          James E.       5    M                                  Kent'y
+ 27  312  312 Glass          Margaret D.    3    F                                  Kent'y
+ 28  312  312 Glass          Stephen  F. J. T. 10/12 M                              Kent'y
+ 29  313  313 Ford           Reuben F.      30   M         Farmer         17,000    Kent'y
+ 30  313  313 Ford           Mary B.        23   F                                  Kent'y
+ 31  313  313 Ford           Sue            1/12 F                                  Kent'y
+ 32  314  314 Maddox         John           26   M         Farmer         3,600     Kent'y
+ 33  314  314 Maddox         Elizabeth      23   F                                  Kent'y
+ 34  315  315 Moore          William        48   M         Farmer         4,500     Kent'y
+ 35  315  315 Moore          Anne           46   F                                  Kent'y
+ 36  315  315 Glinn          Sophia  E.     19   F                        6,500     Kent'y
+ 37  315  315 Glinn          Mary A.        2    F                                  Kent'y
+ 38  315  315 Moore          Zeura Jane     16   F                                  Kent'y
+ 39  315  315 Moore          Hugh A.        13   M                                  Kent'y                  X
+ 40  315  315 Moore          William G.     5    M                                  Kent'y
+ 41  316  316 Herndon        Charles T.     37   M         Farmer         13,500    Kent'y
+ 42  316  316 Herndon        Mary W.        26   F                                  Kent'y
+
+CENSUS YR:  1850  STATE or TERRITORY:  KY  COUNTY:  Scott  DIVISION:  District No. 1 East Part  REEL NO:  M432-218  PAGE NO:  417B
+REFERENCE:  Enumerate on 19th  day of August 1850 By W. T. V. Bradford
+=========================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB
+=========================================================================================================================
+ 1   316  316 Herndon        Betty T.       9    F                                  Kent'y                  X
+ 2   316  316 Herndon        John F.        7    M                                  Kent'y                  X
+ 3   316  316 Herndon        Mary Jane      5    F                                  Kent'y
+ 4   316  316 Burby          Robt.          60   M    B                             Virga.                        X
+ 5   317  317 Risk           Jabiz V.       64   M         Farmer         13,680    Kent'y
+ 6   317  317 Risk           Dulvina        36   F                                  Kent'y
+ 7   317  317 Risk           James          13   M                                  Kent'y                  X
+ 8   317  317 Risk           Melinda        11   F                                  Kent'y                  X
+ 9   317  317 Risk           Theodore       9    M                                  Kent'y                  X
+ 10  317  317 Risk           Catherine      7    F                                  Kent'y                  X
+ 11  317  317 Risk           George         4    M                                  Kent'y
+ 12  317  317 Price          John           13   M                                  Kent'y                  X
+ 13  317  317 Risk           Mary O.        2    F                                  Kent'y
+ 14  318  318 Emison         David          30   M         Farmer                   Kent'y
+ 15  318  318 Emison         Elizabeth      23   F                                  Kent'y
+ 16  318  318 Emison         John K.        10/12 M                                 Kent'y
+ 17  319  319 Adams          Robert C.      30   M         Farmer         3,000     Kent'y
+ 18  319  319 Adams          Jeremiah       86   M         Farmer                   Maryland                           X
+                   REMARKS:  Blind
+ 19  319  319 Adams          Patsey         62   F                                  Kent'y
+ 20  319  319 Adams          Mary J.        24   F                                  Kent'y
+ 21  319  319 Adams          William        22   M         Farmer                   Kent'y
+ 22  320  320 Thomason       Jephtha        29   M         Carpenter      1,000     Kent'y
+ 23  320  320 Thomason       Nancy          30   F                                  Kent'y
+ 24  320  320 Thomason       Frances        8    F                                  Kent'y                  X
+ 25  320  320 Thomason       Minor          7    M                                  Kent'y
+ 26  320  320 Thomason       James          5    M                                  Kent'y
+ 27  320  320 Thomason       Joseph H.      2    M                                  Kent'y
+ 28  320  320 Thomason       Joseph         23   M         Carpenter                Kent'y
+ 29  321  321 Flournoy       J. J. R.       48   M         Farmer         8,000     Kent'y
+ 30  321  321 Flournoy       Sally          65   F                                  Virga.
+ 31  322  322 Eddleman       Aaron          59   M         Farmer                   Tennessee
+ 32  322  322 Eddleman       Mary           50   F                                  Kent'y
+ 33  322  322 Eddleman       Susan M.       24   F                                  Kent'y
+ 34  322  322 Eddleman       Noah M.        21   M         None                     Kent'y
+ 35  322  322 Eddleman       Andrew J.      11   M                                  Kent'y                  X
+ 36  322  322 Eddleman       Joseph S.      9    M                                  Kent'y                  X
+ 37  322  322 Eddleman       David          6    M                                  Kent'y                  X
+ 38  323  323 Snell          Tobert P.      42   M         Farmer         4,000     Kent'y
+ 39  323  323 Snell          Eliza          40   F                                  Kent'y
+ 40  323  323 Snell          Lucy J.        16   F                                  Kent'y                  X
+ 41  323  323 Snell          John M.        14   M                                  Kent'y                  X
+ 42  324  324 Browning       James J.       34   M         Farmer                   Kent'y

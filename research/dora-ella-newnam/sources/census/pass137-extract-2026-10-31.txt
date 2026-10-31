@@ -1,0 +1,80 @@
+# Pass 137 extract — 31 Oct 2026
+# B058 one catalog reconfirm + B071 Edmonson/Hancock IMAGE CLOSE
+# + residual Franklin/Mercer/Lincoln/Hopkins samples
+# + leftover compiled (Crittenden/Gallatin/Green/Simpson/Trimble/Henderson NIL;
+#   Marion Robert 21; Jefferson Catharine 53; Ballard Andrew/Thomas/Hiram; Monroe three heads)
+# + OPEN B059/B065/B081/B084 + partials B055/B069/B045/B088
+# + Barren 344A CORRECTION (Benja 17, not slack) + Hopkins Francis J 28 IMAGE SEEN
+# Variants cats 1–4: William/Wm × Newman/Newnam/newnarn/newan/Nureman/Norman;
+# Jane/Rhoda; Francis J/Shepard/Daniel/Benja/Christopher/Catherine O/Alexander;
+# Soundex N550 / T526 / S350
+# IDs: L1589–L1620 · C1765–C1796 · S1429–S1464
+# Do not collide with competing Pass 132–134 blocks (L1560–L1588 / C1735–C1764 / S1387–S1428).
+
+## B058
+LOC sn89051008 pass137 item.digitized: false (JSON seen).
+IA Solr title:(Dardanelle Post-Dispatch) AND year:1926 numFound 0.
+Film unread. Phone 479-968-4368 not re-asked.
+
+## B071 — Edmonson reel 198 (CLOSED living-head hunt)
+Official NARA free-schedule map: reel 198 = Daviess / Edmonson / Estill. IA imagecount 462.
+n0005 Daviess Owensboro 12 July.
+n0220–n0235 still Daviess Dist 2.
+n0238 Edmonson start stamp 2, 25 July, W C Lucas. leaf ≈ 238+(stamp−2)×2.
+4A n0242 27 July stamp 4 IMAGE SEEN: hh 36/36 Henry Conner 37 Physician $500 + Sarah 31 Virginia + James A 8 + Sandy T 6 + W L 4 + John T 2 + E A 3/12 + line 10 Alexander Newman 73 None Virginia. REJECT (boarder, not a living head; not William 26).
+11A n0256 printed 11, 8 Aug.
+11B n0257 IMAGE SEEN: hh 148/148 Isaac A. Cooke 35 Farmer $2475 Virginia + Nancy 30 Kentucky + John H 11 + Peyton A 9 + William H 1 + line 41 William Newman 30 Labourer Kentucky. Next hh 149/149 William Lewis 21. REJECT (boarder; no wife Jane/Rhoda; no Decatur/Leaner; age 30 ≠ 26).
+Compiled every-name (us-census Edmonson pg0001b): 4a Alexander 73; 11b 41 William 30. Matches originals.
+County CLOSED for the 1850 living-head hunt (two Newman lines, both image-seen rejects).
+
+## B071 — Hancock reel 202 (CLOSED living-head hunt)
+Official NARA: reel 202 = Grayson / Green / Greenup / Hancock. IA imagecount 616.
+n0526 Greenup 261B (prior). n0534 Greenup stamp 265. n0535 divider. n0536 Hancock 266A 3 Aug W P D Bush.
+Stamp remap (2 leaves per stamped page): 293A=n0592, 293B=n0593, 294A=n0594, 294B=n0595, 295A=n0596.
+n0585 289B 22 Aug IMAGE SEEN: hh 336/351 Thomas Manley Newman 45 Farmer $1500 Va × Nancy 47 + Albert 11; hh 337/352 Edmund Newman 88 Farmer $400 Va × Mary 87 + Richard 26 Laborer. REJECT.
+n0589 291B IMAGE SEEN: hh 361/377 Thomas Newman 29 Farmer; hh 362/378 Ed. St. John Newman 50 Farmer $1200 Va × Sarah 46 + Eliza 12 / James S 8 / Edmund E 6 / Sarah 4. REJECT.
+n0596 stamp 295 28 Aug IMAGE SEEN: hh 415/432 William Newman 26 Farmer Kentucky × Catharine O 17 + Louisa 4/12. Next hh 416/433 Edmund Wroe 40 Farmer $700 Ga. Exact age match vs Owsley William 26 — REJECT (wife Catherine O not Jane/Rhoda; child Louisa 4/12 not Francis 4 / Leanner 2; Hancock vs Owsley).
+Compiled also Otho 25 (273B) and Thomas N 29 × Nancy J (274B) — compiled only, not the couple. 294B Thomas Newman Gibbs 48 is a Gibbs given-middle, not a Newman head.
+County CLOSED for the 1850 living-head hunt.
+
+## B071 — Barren 344A CORRECTION
+n0079 stamp 344 IMAGE SEEN: hh 360/575 William Edmunds 73 Farmer $3000 + Edmund A 22 + Benja Newman 17 (boarder). Next hh 361/576 Isaac Davidson 64. Filename barren-344a-george-newman-17.jpg is this boarder — given name Benja, not George.
+Pass 132 C1743 “344A nil Newman / slack” is WRONG. Correct to IMAGE SEEN FOUND REJECT (not a living head). County remains CLOSED (still no William 26 × Jane/Rhoda).
+
+## B071 — Hopkins Francis J IMAGE SEEN
+Reel 205 n0238 Dist 2 IMAGE SEEN FOUND: hh 67/67 Francis J. Newman 28 Farmer Kentucky × Mary J 25 + Elizabeth 1. REJECT vs William 26 × Jane.
+Compiled John 59 hh 76 not on n0239.
+n0240 hh 96/96 Jo Norman 64 N.C. × Nan 63 — NOT Newman (expectation-capture trap). Do not crop as Newman.
+n0310 Dist 2 Brown/Hampton/Cates namecol nil Newman.
+County NOT every-line closed.
+
+## B071 — residual samples (NOT every-line closed)
+Kenton Dist 1 130B: IA reel 208 imagecount 644. n0252 last Johnson. n0253 Dist 2 stamp 226. Dist 1 stamps ~128–135 NOT on this scan. us-census.org has no kenton dir. Reel 195 n0005 = Campbell, not Kenton Dist 1. Scan gap. County NOT closed.
+Franklin reel 200: Dist 1/2 densely sampled namecols n0148–n0380. Samples nil Newman (e.g. n0210 Callahan/Monroe/Harney). SK/wb 1850indx 404. NOT closed.
+Mercer reel 213: Dist 1 stamp 263 at n0200; denser n0205–n0390. Samples nil (e.g. n0265 Sofie/Burns/Ashley). SK 404. NOT closed.
+Lincoln Dist 1 n0220 Dist 1 8 Sept stamp ~265; n0244 Dist 2 2 July. Namecols n0226 Land/Cooper/Givens; n0238 Chester/Blain/Easley/Sheeley — nil Newman. Densely sampled NOT every-line.
+Did NOT re-walk closed N-walks (Laurel 209, Montgomery 214, Estill 1840 n0092–n0144, Clay through n0133, Clark 1840 n0005–n0081).
+
+## B071 — leftover compiled
+Crittenden / Gallatin / Green / Simpson / Trimble / Henderson: real USGenWeb Census Project N-range indexes seen; NIL Newman/Newnam/Tincher. CLOSED compiled.
+Marion: Robert Newman 21 only. CLOSE compiled for the couple hunt.
+Jefferson N–Q: Catharine Newman 53 PA only. CLOSE compiled for the couple hunt.
+Ballard: Andrew 49 × Abigal; Thomas 35; Hiram 39. No William 26 × Jane/Rhoda. CLOSE compiled.
+Monroe: John 31 TN × Louisa + child Rhoda 2; George 37 TN × Jerusoh + dau Rhoda 16; Josiah 44 NC × Eda + son William 19; woman Rhoda 67 VA next door to John. Rhoda is not the wife of a William 26. CLOSE compiled.
+Allen/Butler/Grayson/Marshall dirs = slave.txt only or empty. Campbell 1850 dir = slave only.
+Warren/Union/Muhlenberg/Hickman SK/us-census 404.
+Pass137 leftover western (Butler/Caldwell/Calloway/Clinton/Cumberland/Fulton/Graves/Hart/Hickman) SK handshake timeout / 140 B ERR; Wayback 1850indx returned calendar HTML (~145567 B), not indexes. NOT closed.
+
+## Marriage
+Still no free William × Rhoda or William × Jane license (fishergenes Estill pass137 HTML fetched; kykinfolk / WCHS fail this pass).
+
+## OPEN / partials
+B059 GT Lee WWI LIVE 452540. Brandenburg, Luther + Underwood, Luther only. Cards unread. IA Solr M1509 KY 0.
+B065 / B045 / B069 FS 1146342 SPA isLoggedIn false (R011-75). USGenNet wills LIVE Jane Steele NEWMAN + Elizabeth NEWNAM + Mary F. TINCHER — no Samuel P. Clerk not re-asked.
+B055 / B080 FAQ 9938 LIVE cards 228–229. No free June 1958 clip. Phone not re-asked.
+B088 IA 602 pass137 metadata {}. pass123 still 515. One line.
+B081 Grant 21 not merged. B084 POSSIBLE Jr only. B082 do not print 1966. Do not print 1962. Did not walk 33-12/33-13. Phones / R001/R007/R008 not re-asked.
+
+## Same-person / #28
+1850 living head FOUND remains Owsley 299B hh 311 William 26 × Jane 22 $325. Jane not Rhoda. Francis=Decatur POSSIBLE only. Parents of 1928 Frank still PROBABLE. 1860 Rhoda widow + B.F. 7 PROVEN. #28 stands.
+Edmonson William 30 and Hancock William 26 are other men (Hard Rule 3: spouse/children/county fail).

@@ -1,0 +1,68 @@
+Pass 111 extract — 31 Oct 2026
+B089 Estill 1930 33-10 Red Lick East name columns visually read (leaves 821–845)
+Do not re-fetch true 33-7 / 33-5 / 33-8 / 33-9 / 33-6 / 33-14 as unpublished
+B088 Antioch 242 catalog already proven — one line only
+Do not re-ask R001/R007/R008 or Tyler Phillips / 479-968-4368 / 859-985-3364
+
+=== C1269 33-10 isolated (image seen) ===
+IA kentuckycensus00reel742 leaves 821–845
+Kentucky / Estill / Magisterial District 4 / Red Lick East / ED 33-10
+Enumerator Robert E. Tye (header; prior C933)
+Sheet 1A stamped 117 (leaf 821) through sheet 13A stamped 129 (leaf 845)
+25 sheets. Compiled us-census 117A–129A matches.
+Leaf 820 unused blank (C934 / C1242). Leaf 846 unused blank B-side.
+Leaf 847 = 33-11 Dist. 5 Riddell & Thomas sheet 1A stamped 130, enumerator George McQueen.
+
+=== C1270 33-10 name-column visual nil for Boyd+Allie (image seen) ===
+25 sheets visually read (nm0821–nm0845).
+No Boyd Newman / Boyd Newnam head or member.
+No Allie Newman / Allie Newnam wife.
+One Newnam household present (C1271) — not Boyd+Allie.
+
+=== C1271 Newnam, Hendrix household (image seen) — rejected vs Boyd+Allie ===
+Leaf 829 sheet 5A (stamped 121), dwelling 80 family 83, Station Camp Road (margin).
+Newnam, Hendrix — Head — owns — M W 45 married age-at-first-marriage 21 — Kentucky
+Sarah E. — Wife — F W 44 married 21 — Kentucky
+Hiram D. — Son — 15
+John B. — Son — 13
+Melvina R. — Daughter — 8
+Same-person vs 1950 Harding 65 + Sarah 64 + John B 33 and Melvina 28 (C1124 C1125):
+  ages +20 years; wife Sarah; children John B + Melvina. PROBABLE same line (C1275).
+Rejected vs Boyd ~52 + Allie ~45: given Hendrix ≠ Boyd; wife Sarah E. ≠ Allie;
+children Hiram/John B/Melvina ≠ Arthur/Carlos/Clarence. Densifies C941 C1042 C1124.
+
+=== C1272 lookalike rejects (not merged) ===
+- Wiseman, Henry ~36 + Betty (leaf 824). W-i-s-e-m-a-n. Tight crop. Not Newman.
+- Plowman, Caleb ~33 + Anna (leaf 828). P-l-o-w-m-a-n. Tight crop. Not Newman.
+- Collins, Allie — female head 45, daughters Bessie 22 / Aloma 16 / Laura P 13 / Donna 5 (leaf 839). Surname Collins.
+- Rice, Charlie D. wife Allie ~23 (leaf 841). Too young; other surname.
+- Embry household son Boyd — child (leaf 842). Not Boyd Newman ~52.
+- Given-name Floyd/Lloyd: Webb/Wells son (828); Richardson Floyd (833); Plymale son (836);
+  Bicknell son (842); Rose son (843). Other families.
+- Neal household (823). Neal ≠ Newman.
+- Stone, Thelma — adopted child in Fowler house (823). Not the Arkansas Stones.
+
+Tesseract draft on all 25 sheets: Newman/Newnam/Boyd/Floyd/Allie tokens 0
+(the Hendrix line OCR-failed; visual read is the source). Draft only.
+
+=== C1273 33-11 start isolated ===
+Leaf 846 unused blank.
+Leaf 847: Estill Mag. Dist. 5 Riddell & Thomas, ED 33-11, sheet 1A stamped 130,
+enumerator George McQueen. Names unread.
+Leaf 848: 33-11 sheet 1B.
+Compiled 33-11 = 130A–154A (unread).
+
+=== C1274 analysis ===
+33-10 Red Lick East now visually closed for Boyd+Allie.
+Combined visual nil: true 33-7 + 33-8 + 33-9 + 33-5 + 33-6 + 33-14 + 33-10.
+Residual unread Estill 1930 originals: 33-11 Riddell & Thomas, 33-12 Forks West, 33-13 Forks East.
+Hendrix Newnam is a documented Estill Newnam residual — not Boyd.
+1958 David G still POSSIBLE only vs Frank.
+B088 Antioch 242 catalog already PROVEN — do not stall.
+Do not print 1966, 1976, Floyd-as-Boyd, 1962 as McCoy death, or 1942 Combs charge as fact.
+Living 1932 descendants withheld.
+
+=== C1275 Hendrix 1930 = Harding 1950 (PROBABLE) ===
+Identifiers: wife Sarah E.; sons Hiram D. + John B.; daughter Melvina R.; age +20 to 1950 Harding 65.
+Given-name Hendrix vs Harding is a variant, not a contradiction by itself.
+Not merged with Boyd. Not printed as Boyd.

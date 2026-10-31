@@ -1,0 +1,71 @@
+Pass 144 extract — 31 Oct 2026
+B058: LOC sn89051008 item.digitized: false (34425 B). IA Solr Post-Dispatch 1926 0.
+Film unread. Phone not re-asked. C1916
+
+=== Hart Dist 1 remaining evens n0006–n0190 visual close ===
+Reel 204. Every remaining-even name column IMAGE SEEN (93 leaves).
+Nil Newman / Newnam / Tincher / Tinker as a living head.
+N/T-lookalike isolated:
+  n0120 hh 714/726 Rebecca KIRKPATRICK 60 F — NOT Tinker/Tincher. REJECT.
+        SHA fffc1410e968d356…
+        Neighbors: Pleasant Catherland 35 Farmer; Thomas Timmons 35 Farmer;
+        C T Trotter 27 Physician; Eli Murray 71 Farmer.
+Remaining-odds already CLOSED pass 143 (BOMAN/NANCE/AMOS REJECT).
+Dist 1 tail n0191–n0197 IMAGE SEEN pass 143; n0198 Dist 1 certificate;
+n0199 Henderson start (CLOSED compiled — not walked).
+n0005 Dist 1 start already mapped.
+Hart Dist 1 every name leaf IMAGE SEEN. Dist 1 CLOSED.
+No Dist 2 schedule on reel 204 between Dist 1 certificate and Henderson.
+County CLOSED for the 1850 living-head hunt.
+C1917–C1919
+
+=== Lincoln Dist 1 remaining (reel 210) ===
+n0170 header IMAGE SEEN: District 1, County of LEWIS, 31 Aug, stamp 240.
+Not Lincoln — do not walk Lewis.
+n0173 header IMAGE SEEN: District 1, County of LINCOLN, 5 Sept,
+John W. Pelfrey. Dist 1 start.
+n0178 Dist 1 Lincoln 7 Aug stamp 244.
+n0239 still Dist 1 Lincoln 10 Sept.
+Visual n0173 Gentry/Maggard/Wells; n0191 Todd/Gaddis/Lee/Pittman/Baughman;
+n0239 Shelby/Conard/Tate/Merriman/Austin — nil Newman.
+Dist 2 n0253+ already CLOSED. Dist 1 NOT every-line closed.
+C1920 C1921
+
+=== Larue Hamilton remaining (reel 209) ===
+n0167 header IMAGE SEEN: Hamilton Dist, Larue, 3 Sept, W.H. Hamilton.
+n0280 header IMAGE SEEN: still Hamilton Dist, Larue, 13 Sept, stamp 458.
+Remaining leaves n0160–n0280 downloaded / densified.
+County NOT closed (Hamilton continues at n0280).
+C1922
+
+=== Franklin / Mercer / Hopkins remaining ===
+OCR draft sample 86 remaining-county surname crops: 0 N/T token flags
+(draft only — not a close). Franklin / Mercer / Hopkins remaining
+NOT visually closed. Did not repeat Francis J n0238 / John 59 n0240.
+Did not repeat NEWLAND n0340.
+C1923 C1924
+
+=== Leftover western compiled ===
+SK Hart/Franklin/Mercer/Lincoln/Hopkins/Larue ~106–110 B = 404.
+USGW TOC ~122–126 B fail. kygenweb/us-census Hart 404.
+Reeves Hart 1850 LIVE Reeves-only (Thomas C. Reeves).
+IA Solr 1850indx Franklin/Lincoln/Hopkins/Larue 0.
+C1925
+
+=== OPEN catalogs (one-liners) ===
+GT Lee WWI LIVE 452540. Luther = Brandenburg + Underwood only. Cards unread.
+FS 1146342 SPA 19655 B isLoggedIn present (R011-81).
+FAQ 9938 LIVE rooms 228–229. No free June 1958 clip. Phone not re-asked.
+IA 602 metadata {}. pass123 still 515. One line.
+IA Solr M1509 KY 0.
+USGenNet wills LIVE: Jane Steele / Elizabeth / Mary F. — no Samuel P.
+Grant 21 not merged. B084 POSSIBLE Jr only. No 1966/1962. No 33-12/33-13.
+C1926–C1932
+
+=== Same-person / process ===
+Parents of 1928 Frank still PROBABLE. Jane not Rhoda. #28 stands.
+Living head remains Owsley 299B hh 311 William 26 × Jane 22 $325.
+No free license. Variants cats 1–4: William/Wm/Jno × Newman/Newnam/Newmon/
+Numan/Newland/Nance/Boman/Amos/Kirkpatrick; Foreman/Herman/Norman already
+isolated; Tinker/Tincher/Kirkpatrick; Mary/mayr. Soundex N550 / T526 / S350.
+C1933 C1934

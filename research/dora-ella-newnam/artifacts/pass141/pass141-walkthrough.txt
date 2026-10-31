@@ -1,0 +1,13 @@
+Pass 141 walkthrough — 31 Oct 2026
+Case: research/dora-ella-newnam/  P001 Dora Ella Newnam Stone (deceased)
+
+B058: LOC sn89051008 item.digitized false (34425 B). IA Solr Post-Dispatch 1926 0. Film unread.
+B071 named originals IMAGE SEEN REJECT:
+  Todd Dist 2 247A n0360 Mary Newman 35 f $800 Va + John 20 Tenn (remap n0360=247A; n0372=253)
+  Trigg 1st Dist 303A n0472 Wm Tinker 60 VA x Licy 33
+  Trigg 1st Dist 314A n0494 John Newman 51 NC x Elizabeth 46 + Wm 17 son
+Kenton Dist 1 130B compiled Daniel Newman 19 Laborer KY REJECT. Image still reel-208 scan gap.
+Henry Dist 1 / Hart Dist 1 remaining downloaded; OCR draft token-nil; NOT closed.
+Living head remains Owsley hh 311 William 26 x Jane 22. Jane not Rhoda. #28 stands. Parents PROBABLE.
+Do not print 1966/1976/1962, Floyd-as-Boyd, Hendrix-as-Boyd, Nennian-as-Boyd, or 1942 Combs charge as fact.
+Plates: todd-247a-mary-newman-tight.jpg / trigg-303a-tinker-tight.jpg / trigg-314a-john-newman-tight.jpg

@@ -1,0 +1,167 @@
+Pass 117 extract — 31 Oct 2026. Deceased-only. Do not print 1966, 1976,
+Floyd-as-Boyd, Hendrix-as-Boyd, Nennian-as-Boyd, 1962 as McCoy death, or
+1942 Combs charge as fact. Living 1932 descendants withheld.
+Estill 1930 33-12 / 33-13 names not walked.
+B088 Antioch 242 — one line.
+Phones already recorded: Pope 479-968-4368; Hutchins 859-985-3364;
+Lee clerk Tyler Phillips 606-464-8400. Do not re-ask.
+R001 / R007 / R008 — do not re-ask.
+
+Variants (cats 1–4) before first query:
+  William × Newnam/Newman/Newnarn/Newan/Newnom  Soundex N550
+  Rhoda × Tincher/Tinsher/Fincher/Tinker        Soundex T526
+  Dora OCR posa/dosa/rosa/dona/dara/dore/dori/dola/pora/rora × Stone S350
+  cert 1524 RD 676
+
+=== B058 — one catalog reconfirm only ===
+
+LOC item JSON sn89051008 (pass117):
+  top-level digitized = None
+  item.digitized = False
+  title: Dardanelle Post=dispatch (Dardanelle, Ark.) 190?-1976
+  https://www.loc.gov/item/sn89051008/
+  saved: sources/press/loc-item-sn89051008-pass117.json
+Film unread. Phone not re-asked. C1417.
+
+IA Solr collection:americana title Dardanelle Post / Post-Dispatch
+year 1926 — numFound 0.
+saved: sources/catalog/ia-solr-postdispatch-1926-pass117.json
+C1417.
+
+=== B071 — Laurel 1850 remaining name columns (CLOSED this walk) ===
+
+IA populationschedu0209unix.
+https://archive.org/details/populationschedu0209unix
+n0331 = Laurel, 1 Sep 1850, Thos J. Rogers (prior isolate).
+Name columns n0331–n0381 visually walked (pass116 namecols + pass117
+montages laurel-names-0330 / 0342 / 0354 / 0366 / 0378).
+Clusters: Jones / Brock / Noe / Foreman / Hensley / Roberts / Bennett /
+Jackson / Lee / Weaver / D. Buford. Noe ≠ Newman.
+
+n0381 header (keyplate):
+  SCHEDULE I—Free Inhabitants in the County of Laurel
+  9 day of Oct 1850. D. Buford.
+  still Laurel.
+
+n0382 header (keyplate):
+  County of Lawrence. 20th day of July 1850.
+  John T. Harris Ass't Marshal. Stamped 59.
+  LAWRENCE begins. Not Laurel.
+
+County walk for Laurel 1850 on this reel: CLOSED.
+nil Newman / Newnam / Tincher on walked name columns.
+C1418. S1064.
+
+=== B071 — Montgomery 1850 remaining name columns (CLOSED this walk) ===
+
+IA populationschedu0214unix.
+https://archive.org/details/populationschedu0214unix
+Dist 1 ~n0061. Dist 2 n0093 27 July Chas E. Foley (prior isolate).
+Name columns n0061–n0171 visually walked (pass116 namecols + pass117
+remain 0141–0171 + montages mont-names / mont-remain).
+Clusters: Thompson / Fitzgerald / Roberts / Stewart / Conley / Lawrence /
+Ballard / Tracey / Holley / Estep / Ingraham.
+
+n0171 header (keyplate):
+  District No. 2, County of Montgomery, Kentucky.
+  6th day of September 1850. Chas E. Foley Ass't Marshal.
+  Stamped 85.
+
+n0172 / n0173 header (keyplate n0173):
+  County of Morgan. 21st day of July 1850.
+  L. P. Turner Ass't Marshal.
+  MORGAN begins. Not Montgomery.
+
+County walk for Montgomery 1850 on this reel: CLOSED.
+nil Newman / Newnam / Tincher on walked name columns.
+C1419. S1065.
+
+=== B071 — Estill 1840 n0090–n0155 (CLOSED this window) ===
+
+IA populationsc18400109unit. Names on even leaves.
+https://archive.org/details/populationsc18400109unit
+Walked even name leaves: n0092, 94, 96, 98, 102, 106, 108, 112, 114,
+116, 118, 122, 124, 126, 128, 132, 136, 138, 142, 144.
+n0138 = fishergenes p.68 (Rachael Covington / Todd / King) — confirms C1408.
+n0144 last names + grand total.
+n0146 ESTILL CERTIFICATE (keyplate):
+  State of Kentucky Estill County
+  The number of persons within my Division consisting of
+  seven thousand five hundred & twenty seven[?] appears in the
+  foregoing schedule subscribed by me this 3d[?] day of October 1840
+  John H Recastle  D.M.C.[?]
+  Repeated Recastle / clerk blocks; later memorandum November 1840.
+n0148 recap. n0150 blank.
+n0104 / n0134 faded / verso-dark — full sheets used; n0104 still
+illegible in places. Not treated as a Newman hit.
+
+POSSIBLE Abner Newman / Newnam on n0092 (crops n0092-abner-tight0/1
++ band). Given Abner reasonably clear. Surname N-slack
+(Newman / Newnam / Newmaname). NOT William. C1421. S1067.
+
+n0114 Lerling / Sterling Henaman (tight crop). REJECT vs Newman.
+Neighbors Witt / Baker. C1422. S1068.
+
+No William × Rhoda head. No Tincher head in this window.
+County window n0090–n0155 CLOSED. C1420. S1066.
+
+=== B071 — Clay 1840 after n0099 (CLOSED this county) ===
+
+IA populationsc18400108unit. Names on odd leaves after n0099.
+https://archive.org/details/populationsc18400108unit
+Walked odd name leaves 101–133 (montages clay1840-names-0111 / 0131).
+Clusters: Henson / Smallwood / Hubbard / Smith / Philpot — rejected
+as Newman / Tincher.
+
+n0135 (keyplate): Recapitulation of Clay County pages 1–23.
+Totals written; last line 23. Clay name pages end here.
+
+n0139 / n0141 left margin Clinton. Clay ends.
+
+nil Newman / Tincher on walked Clay name pages after n0099.
+County CLOSED on this reel. C1423. S1069.
+
+=== B071 — marriage ===
+
+No new free William × Rhoda transcript.
+Estill grooms-to-1850 / brides / kykinfolk / USGW / Wayback 404
+this fetch (saved pass117 HTML).
+H.H. × Belinda Tincher 27 Feb 1840 Estill stays a different couple.
+Authored 1845 unused. C1424.
+
+=== B071 — same-person / parents ===
+
+Parents William × Rhoda still PROBABLE (William himself not on a
+living 1850 schedule). 1860 Rhoda widow + B.F. 7 still PROVEN.
+#28 stands (Mary F. Tincher = John × Elizabeth Goe, not William × Rhoda).
+Known rejects unchanged: Clark William Tincher 63 + Elizabeth Boyer;
+Breathitt Wm Tincher 45 + Matilda; Estill David J.; Estill Samuel W
++ William 4; Madison T.T. M.D.
+1840 Clark names n0005–n0081 still unread (certificate already isolated).
+C1425.
+
+=== Residuals (as free sources allow) ===
+
+B055/B080: no free June 1958 Citizen clip. Hutchins FAQ 9938 HTTP 404
+(error_screen_full.twig). Phone not re-asked. C1426. S1075.
+
+B069/B059: IA Solr M1509 KY numFound 0. FS 1146342 SPA / Incapsula
+(R011-59). GT Lee wwi_draft_cards.html live 200 — published tables
+nil Newnam / Newman / McCoy (Luther Brandenburg + Underwood only).
+Cards unread. C1427. S1072 S1073 S1074.
+
+B045/B065: USGenNet Lee wills LIVE — Jane Steele NEWMAN + Elizabeth
+NEWNAM + Mary F. Newnam TINCHER — no Samuel P. Tax 156057/97277 unread.
+Clerk not re-asked. C1428. S1070.
+
+B082: no new Woodford / cert 17762. Do not print 1966. C1429.
+
+B088: IA 14thcensusofpopu602unit metadata.imagecount still 515.
+One line. C1430. S1071.
+
+B085: no new deceased McCoy / Rissie row. Do not print 1962.
+B081/B084: Grant 21 still not merged with David F. David G 1984
+still POSSIBLE Jr only. Living 1950-line withheld. C1431.
+
+Did not walk Estill 1930 33-12 / 33-13.
+Did not re-ask phones or R001/R007/R008.

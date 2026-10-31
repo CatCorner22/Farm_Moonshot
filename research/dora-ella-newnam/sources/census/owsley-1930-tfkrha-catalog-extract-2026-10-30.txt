@@ -1,0 +1,52 @@
+1930 Owsley County, Kentucky — Three Forks of the Kentucky River
+Historical Association annotated census (Harley Tucker Bowling).
+Accessed 30 Oct 2026.
+
+Live site www.tfkrha.org / tfkrha.org returned HTTP 429 (Cloudflare)
+or SSL name mismatch on several paths this pass. District 3 Sturgeon
+was recovered via a full-page dump:
+  sources/census/tfkrha-1930-d3-sturgeon.txt
+  (title: “1930 Owsley County, Kentucky Census District 3,
+   Magisterial District 2, Sturgeon”; enumerator Blaine Wilson).
+
+District 3 Sturgeon — Newman household (hh 171-171, 16 Apr 1930,
+Becknell Fork Island Creek):
+  Arthur NEWMAN  head  54  m 35  KY KY KY  Farmer
+  Rhoda wife  63  m 20  KY KY KY  nee MAYS d/o David MAYS & Arina RICHARDSON
+  Grant son  14  s  KY KY KY  s/o Arthur NEWMAN & 1st wife Florence FRYE
+  Thomas CECIL step-son  36  S  KY KY KY  s/o Grant CECIL & Rhoda MAYS
+  Annotator: Arthur NEWMAN s/o Henry & Mary NEWMAN.
+  **Not** Daniel × Sarah M.’s line. **Not** 1876 Grant of Lee
+  (that Grant is 53 in Lee ED 11 the same spring). **Not** 1910
+  Grant 21 × Dova Cole.
+
+District 3 FAN of Sarah M. Evans / Venable (hh 10-10, 3 Apr 1930,
+Pierson Fork):
+  Matilda EVANS  head  83  wd  20  KYTNVA  Manager Farm  nee VENABLE
+  Cora B. dau  46  s  KY KY KY  Farmer
+  Grover son  45  s
+  Lou E. dau  30  s
+  Annotator: Matilda VENABLE b. 1847 d/o Leroy VENABLE & Rachel McQueen
+  — the same parents named on the 1936 Sarah M. Evans extract (C484).
+  Matilda is **PROBABLE** an older sister of Sarah M. Cora B. here
+  is Matilda’s unmarried daughter, **not** 1940 Cora Brandenburg
+  (different household, single, age 46 vs Cora Brandenburg ~37).
+
+Other TFKRHA 1930 districts this pass:
+  D4 Island Creek — Newman/Newnam head **nil** on the recovered
+    snippet (live 429; WebSearch page dump).
+  D5 Cow Creek — infant Newman Hall only; no John+Cora head.
+  D6 Buffalo — snippet, no John+Cora head.
+  D7 Buck Creek (Census_1930_Owsley_D7.php) — **unread**. Live 429;
+    guessed slugs and Wayback 2020–2022 snapshots 404. This is the
+    1940 Crane Creek / Duck Fork district where John+Cora sat in
+    1940 (C489). Residual for B056 / B082.
+
+Wayback CDX for TFKRHA 1930 census pages timed out or 404 this pass.
+IA 1930 KY reel T626-773 (`kentuckycensus00reel773`) PDF is 447 MB
+and the jp2.zip is 1.27 GB — **not downloaded**. OCR text dump in
+session temp had **no** Newman/Newnam string (incomplete / image-only
+PDF). Do not treat the reel as read.
+
+Claims: C543 C544 C547
+S407

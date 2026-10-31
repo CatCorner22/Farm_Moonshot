@@ -1,0 +1,57 @@
+1920 U.S. census, Estill County, Kentucky — reel map + Station Camp, pass 75.
+NARA T625-566. IA 14thcensusofpopu566unit (imagecount 1152).
+https://archive.org/details/14thcensusofpopu566unit
+AHGP / item description: Clay + Clinton + Cumberland + Estill
+  (EDs 36–37, 174–175, and 38–45).
+us-census.org Estill 1920 = T625-566.
+USGenNet Estill census directory: HTTP 404 (no 1920 transcript).
+KYGenWeb Estill landing seen; census.htm 404.
+Image seen 30 Oct 2026. BookReader page/leafNNNN_w800.jpg.
+
+Estill title card: leaf 0832 (“ESTILL”).
+Estill population sheets: leaves **0833–1150** (1151 is a blank/end mark).
+Cumberland Marrowbone ED 74 still occupies leaf 0830.
+
+Header map (image seen):
+  0834 / 0840  ED 36  East Irvine Precinct / Irvine Independent
+               enumerator W. F. Alderman (paleography)
+  0855         ED 36  sheet 12B
+  0870 / 0890  ED 37  West Irvine Precinct, Irvine
+               enumerator Donald H. Gould
+  0915         ED 174  (Magisterial Dist. 4; Pitts/Ritta precinct)
+               enumerator Owen Patrick, 2 Feb
+  0930         ED 175  Ravenna Precinct, sheet 3B, Owen Patrick
+  0960         ED 38   Millers Creek Precinct No. 1, J. W. Abrams
+  1005         ED 39   Magisterial District No. 3, L. D. McClintock
+  1035         ED 40   Red Lick Precinct, sheet 10A
+  1050         ED 41   Thomas Precinct
+  1065         ED 42   (Red Lick / adjacent), sheet 4A
+  1080         ED 43   sheet 2B
+  1095         ED 43   sheet 9A
+  1110         ED 44   Station Camp Precinct, sheet 6B, John Ford
+  1125         ED 44   Station Camp, sheet 14A, 21 Jan
+  1140 / 1145 / 1148  ED 45  Williams Precinct No. 2 / No. 7
+
+Station Camp (ED 44), leaves **1098–1130**, name columns visually read
+on w800 crops (contact sheets sc-1098 through sc-1130).
+Surnames seen include Richardson, Tuttle, Winkler, Harris, Sparks/Sparkle,
+Lynch, Byrd, Estes, Hoover, Witt, Hall, Johnson, Campbell, McKinney,
+McQueen, Speaks, Horn, Crowe, Griffin, Gabbard, Powell, Rose, Kelley,
+Cox, Tipton, Brandenburg, Durbin.
+**Nil** Newman / Newnam / McCoy / Coy as a surname head.
+Johnson, Henry (leaf 1118) is not John L Newman.
+Estes households are the expected Station Camp FAN (WikiTree Jacob Estes
+ED 44 sh 16B is a checkpoint, not expanded).
+
+Irvine ED 36/37 (leaves 0833–~0910) sampled on 6-up contact sheets:
+no Newman/McCoy spotted. Residual unread name columns remain on those
+and on EDs 174, 175, 38–43, 45. County **not** closed.
+
+Jackson T625-577 and Breathitt T625-559 IA items exist (metadata seen);
+originals not yet leaf-mapped this pass.
+Powell T625-596 metadata seen (Pike + Powell); not browsed.
+Wolfe is T625-602 (item description); not opened.
+
+FS catalog 127913 / 127869 / 1146342 HTTP 403 (R011 step 26).
+Claims: C625–C632
+S431 S432

@@ -1,0 +1,54 @@
+Pass 106 extract — 31 Oct 2026
+Deceased-only. Variants: Dora/posa × Newnam/Newman/Stone; Boyd/Floyd × Newman; Frank/David G; Luther/John H/McCoy; Samuel will.
+Soundex N550 / S350 / M200 / B300. Certs 13719 RD 028; 1524 RD 676.
+
+C1215 Hutchins FAQ 9938 HTML seen:
+  "The Berea Citizen Index is available in two places. The index for the dates 1899 through 1983 is in paper form on index cards. The card box is located on the main floor of Hutchins Library between rooms 228 and 229 behind the Reference Collection."
+  1984–present online (not used; living-era).
+  URL https://libraryanswers.berea.edu/faq/9938
+
+C1216 Newspapers.com paper 41271 HTML/JSON seen:
+  free:false; free_with_registration:false
+  page_count:11672
+  canonical_page_count:35377
+  product_start_year:1958 product_end_year:1977
+  product_canonical_start_year:1899 product_canonical_end_year:1977
+  Source Information: "The Berea Citizen, 1958–1977 [database on-line]. Lehi, UT, USA: Ancestry.com Operations, Inc., 2026. Last updated: December 8, 2024"
+  Meta: 35,377 searchable pages from 1899-1977
+  URL https://www.newspapers.com/paper/the-berea-citizen/41271/
+  Pages unread (paywall). June 1958 is inside the 1958–1977 product.
+
+C1217 FS catalog 301200 (T1224 Descriptions) SPA isLoggedIn false. Descriptions unread.
+
+C1218 IA Solr T1224 Kentucky 1930 numFound 0.
+
+C1219 us-census Estill 1930 dir: published ed001–ed004 only.
+  _partial.txt: 33-8 District 3 Station Camp (South) stamped 095A–102B status "." unpublished.
+
+C1220 AHGP 1930 Reel 742 (WebSearch full page; live GET 403):
+  "Estill EDs 33-1 to 33-6, 33-14, 33-7 to 33-13"
+  Official reel includes 33-8. Images not fetched.
+
+C1221 Newspapers.com /paper/the-dardanelle-post-dispatch/ HTTP 404.
+  Search page is query-echo only (Post-Dispatch 0; 1926 0).
+
+C1222 Arkansas State Library Pope HQ HTML seen:
+  Address 116 East Third Street, Russellville AR 72801-5198
+  Phone 479-968-4368  Fax 479-968-3222
+  Hours Mon–Wed 8:30am–5:30pm; Thu 12:00pm–7:00pm; Fri 8:30am–5:30pm; Sat 9:00am–1:00pm
+  Manager Riley Taurone
+  URL https://library.arkansas.gov/facilities/pope-county-library-hq/
+
+C1223 KYGenWeb Owsley military HTML seen: 1883 Pensioners; Confederate Soldiers and Widows; Civil War Lewis Reynolds. Images none submitted. No WWI draft page.
+
+C1224 KYGenWeb Lee military HTML seen: "Currently, there is nothing on this subject." Files = May 1951 / August 1951 only. No WWI draft.
+
+C1225 KYGenWeb Breathitt military HTML seen: Baker family WWI photos. No draft index. Newman/Newnam 0.
+
+C1226 FS 1146342 / 127913 SPA isLoggedIn false. R011 step 53.
+
+C1227 NARA catalog NAID 580017 SPA (T1224). Descriptions unread.
+
+C1228 KYGenWeb Estill military.html HTTP 404.
+
+C1229 Analysis: Newspapers.com 41271 + Hutchins cards 228–229 are the 1958 retrieval paths. 33-8 still unpublished. 1926 still Pope Roll 5 / UArk F419.D37 D3. David G still POSSIBLE only vs Frank (G≠F).

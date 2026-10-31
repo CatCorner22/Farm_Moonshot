@@ -1,0 +1,38 @@
+Pass 97 extract — 31 Oct 2026
+Deceased-only. Living 1932-line descendants withheld.
+
+B088 / B089 catalogs
+- Official NARA M1930 ED-maps HTML (image seen): roll 22 = Kentucky Adair through Henderson (Estill is on this roll). Roll 23 = Kentucky Henry through Woodford (Lee, Madison, Owsley, Wolfe, Woodford). Maps unread. Pamphlet PDF saved (418 KB).
+- IA Solr M1930 / “enumeration district maps” 1930 Kentucky: no ED-map microfilm item (population reels + unrelated). A3378 Solr = court/junk, not maps.
+- FS wiki Wolfe/Estill/Lee HTTP 403. FS catalog 127913 / 1006308 search-react SPA (~19 KB). R011 step 47.
+- Remaining Estill 1940 LDS URLs Station Camp / Winston / Leighton / Berea / Glade = 404.
+
+B055 / B089 / B082 — 1940 compiled (other-pass evidence)
+- Madison 1940 Richmond / Kirksville / Million / Union-in-Madison: Newman/Newnam tokens 0. Berea + Glade compiled unpublished (404).
+- Lee 1940 Beattyville: Newman, Luther ~1891 + Cora ~1894 + children (younger names withheld). PROBABLE Luther × Cora Plummer (C305). Not John L + Cora Brandenburg.
+- Lee 1940 Heidelberg: Newman, Grand ~1878 + Martha ~1882 / ~1884. PROBABLE Grant of Lee (C378) still at Heidelberg. Kate ~1871 PROBABLE Katherine Sternberg. Johnnie ~1896 rejected vs John L (~1878). No Boyd, no Allie, no Frank contractor ~1889, no McCoy. Younger names withheld.
+- Lee 1940 Saint Helens: Mary J Newman ~1856 only — rejected vs targets.
+- Lee 1940 New Virginia: Newman/Newnam 0.
+- Estill 1940 published precincts already closed pass 96 (Fred+Era Irvine; Hendrix reject; four precincts nil; Station Camp unpublished).
+
+B089 — 1950 Fayette
+- NARA API name=Newman county=Fayette total 22: Violet L / Rolland M / Margaret A; Marshall; James W; Eugene; Edward; Henry; Mary A; Lucile; Elsie; Durella; Arssica; Robert I; Elliott. No Boyd. No Allie.
+- name=Newnam county=Fayette total 3: Violet L Newman household + Bernam / Newnan false hits. No Boyd. No Allie.
+- Boyd+Allie absent Fayette 1950 as Newman/Newnam (they die there 1976/1978 — still POSSIBLE later migrants; do not print 1976 as fact).
+
+B049 / B058
+- LOC item JSON sn90050035 The Yell County Journal (Ola) 1925–1934: digitized false. Holdings: Arkansas Historical Commission microfilm.
+- sn89051008 Dardanelle Post-Dispatch reconfirmed digitized false.
+- IA Solr those titles 1925–1927 numFound 0.
+
+B082
+- WCHS books page now: Duell-Clark Funeral Chapel 1958–1978 $10 (1966 window). Images unread. Do not print 1966 as fact.
+- SNAC: Duell-Clark funeral home records [microform] 1957–1969, KHS Martin F. Schmidt Research Library.
+
+B055 / B080
+- LDS/WorldCat: Combs, Parsons & Collins Funeral Home, Richmond, KY obituaries — unread.
+- KYGenWeb Madison obits landing: no Newman/Newnam decedent (Ben Franklin only). /obits/n.htm 404.
+- GT Madison obits_main: 19th-century names only; no Newman.
+
+Same-person
+- John 38+Jennie still rejected. Floyd still not merged. Hendrix not Boyd. Grand~1878 PROBABLE Grant. Luther+Cora Beattyville PROBABLE C305. Fred+Era still C387. #20 #26 #27 open.

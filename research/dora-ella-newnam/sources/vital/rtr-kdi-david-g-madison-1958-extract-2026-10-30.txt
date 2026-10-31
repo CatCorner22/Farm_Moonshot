@@ -1,0 +1,29 @@
+Reclaim The Records, Kentucky Death Index 1911–1989, annual lists.
+IA: https://archive.org/details/reclaim-the-records-kentucky-death-index-01911-1989
+Years 1939–1989 TXT seen in /tmp/dora65/rtr/ (not committed).
+Extract 30 Oct 2026. Index only.
+
+Target: DAVID / DAVE / FRANK × NEWMAN/NEWNAM with Madison/Lee/Owsley.
+
+FOUND:
+  NEWMAN  DAVID G   70  MADSN/MADISON  06/19/1958  vol 028  cert 13719
+    Age 70 in 1958 ⇒ born ~1888. Madison = Berea geography.
+    POSSIBLE only vs 1900 David F. Feb 1889 and vs Frank of Berea (1939).
+    Given G ≠ F. Do not merge (C473).
+
+REJECT:
+  NEWMAN  DAVID G   60  MADSN/MADISON  03/25/1984  vol 020  cert 09547
+    Age 60 ⇒ born ~1924. Too young for 1889 David F. (C474).
+    Deceased; children not researched.
+
+Nil MINERVA / MINERWA / MANERVA × NEWMAN/NEWNAM 1939–1989 (C478).
+1947 NEWMAN SARAH 79 LEE = Damrel (already C444).
+
+1911–1938 KDI: years 1913–17, 1924, 1931–38 seen this pass.
+  NEWMAN LILLIE 30 OWSLY 01/12/1915 vol 012 cert 05734  (= C460)
+  EVANS SARAH M 86 LEE 09/15/1936 vol 051 cert 25155    (= C484)
+  HTTP 500 on 1911–12, 1918–23, 1925–30 — those years not read.
+  No MINERVA NEWMAN/NEWNAM in the years that opened.
+
+Claims: C473 C474 C478
+S391

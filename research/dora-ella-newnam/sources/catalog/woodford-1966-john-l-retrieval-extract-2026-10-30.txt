@@ -1,0 +1,40 @@
+Pass 69 workarounds for B082 — JOHN L NEWMAN d. 17 Jul 1966 age 88
+Woodford vol 036 cert 17762 (already C492 POSSIBLE). Index only.
+
+1. John Wesley Newman, 69, d. 6 Jun 1966 at Big Stone Gap, VA;
+   former KY Commissioner of Agriculture; Courier-Journal
+   (Newspapers.com snippet, 30 Oct 2026). Age 69 ≠ 88; date
+   6 Jun ≠ 17 Jul; death in Virginia. REJECT vs C492 (C509).
+
+2. Genealogy Trails Woodford obituaries
+   https://genealogytrails.com/ken/woodford/obits1.html
+   saved sources/obituaries/gt-woodford-obits-pass69.html
+   Only Newman: Mrs. Alice Ashmore Newman (d. 1908, widow of
+   Mortimer J.). Nil 1966 John L.
+
+3. Lee obituaries J (already on disk pass 64; re-grep pass 69):
+   nil John L. Newman / John Newnam of Owsley as a 1966 decedent.
+   Funeral-home mentions of Rev. Luther Newnam only.
+
+4. NARA 1950 Woodford name API:
+   Newman hits = Clinton + Gladys; Kenneth M.; Herbert.
+   Newnam = 0. No John L. ~72 in that OCR list (C511). Index only.
+
+5. Retrieval path (unread):
+   Duell-Clark Funeral Home records, 1957–1969, microform,
+   Kentucky Historical Society, Martin F. Schmidt Research Library
+   (SNAC 30028243; live SNAC page was a JS shell this session).
+   Compiled: Dona Adams Wilson, Duell-Clark Funeral Chapel vol. II
+   1958–1978, sold by Woodford County Historical Society
+   (https://www.woodfordcountykyhistoricalsociety.com/booksandpublications
+   saved sources/catalog/woodford-hs-books-pass69.html).
+   LDSGenealogy Woodford death-records list
+   sources/catalog/lds-woodford-deaths-pass69.html
+   also points to those volumes + Miller-Blackburn 1948–1982.
+   FS Kentucky Deaths 1911–1967: images through 1965; 1966 is
+   index-only in that collection.
+
+6. KY Office of Vital Statistics certificate 17762 (1966) unread.
+
+Claims: C509 C510 C511 C514 C515
+S402

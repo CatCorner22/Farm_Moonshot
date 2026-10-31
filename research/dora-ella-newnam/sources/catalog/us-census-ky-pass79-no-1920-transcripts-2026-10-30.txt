@@ -1,0 +1,6 @@
+Pass 79 USGenWeb Census Project 2026-10-30
+https://www.us-census.org/pub/usgenweb/census/ky/breathitt/  — 1850/1860 only; no 1920
+https://www.us-census.org/pub/usgenweb/census/ky/estill/     — 1850/1930 only; no 1910/1920
+https://www.us-census.org/pub/usgenweb/census/ky/powell/     — 1860 only; no 1920
+https://www.us-census.org/states/kentucky/e-ky.htm Estill 1910 T624-472 / 1920 T625-566 listed, transcription status blank
+

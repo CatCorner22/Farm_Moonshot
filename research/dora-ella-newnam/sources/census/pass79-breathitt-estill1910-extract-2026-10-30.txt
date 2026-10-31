@@ -1,0 +1,48 @@
+Pass 79 extract — 30 Oct 2026
+B088 Breathitt residual EDs + B089 Floyd×Allie license / 1910 Station Camp
+
+VARIANTS before query (search_variants.py + kinship Soundex):
+  John × Newman/Newnam/Newnarn/Newan/Noonan/Nunan  N550
+  Floyd × Newman/Newnam  N550
+  Boyd × Newman/Newnam  N550
+  Allie × Newman/Brandenburg/Brandenbur/Brandenberg  B653
+  McCoy/Coy × Newman/Newnam  M200/N550
+  cert 28501 / 31780
+  Place: Breathitt / Quicksand / Noble / Station Camp / Leighton / Estill / Lee / Fayette
+
+=== LEE BOOK 6 (compiled HTML, derivative) ===
+Floyd NEWNAM, 23, Lee, farmer, 1st m. × Allie A. BRANDENBURG, 18, Lee, 1st m.
+md 31 Jul 1902 at my house by A. J. Marcum. Wit: Elizabeth Webb & Edna Marcum.
+Boyde Newnam witness 13 Oct 1900 (Harlan Marcum × Sarah Smyth at Scott Mays').
+Books 4, 5, 7: no Boyd Newman groom. Estill marry.htm 404.
+
+=== KDI 1939-1989 ===
+Given-name FLOYD NEWMAN: only FLOYD W 62 Campbell 10 Aug 1971 (b.~1909) REJECTED.
+No Floyd ~1879 decedent.
+
+=== 1910 ESTILL T624-472 (image seen) ===
+IA 13thcensus1910po472unit imagecount 1066. Title: Vol 21 Crittenden/Estill 1-278.
+Estill by leaf 0300 (Irvine ED 42). Station Camp ED 48 starts leaf 0481 sh 1A.
+Sampled: 1A (0481), 4B (0488), 7A (0493), 9A (0497), 10B (0500), 12B (0504),
+13B (0506), 16B/17A (0512). No Floyd/Boyd + Allie household isolated.
+0488 ln 71 diplomatic: Pennington, John 27 — REJECTED vs Newman.
+ED 48 continues to at least sh 17A. Residual unread ED 48 sheets.
+Leaf 0520+ is Cumberland (next county on reel).
+
+=== 1920 BREATHITT T625-559 (image seen, montage) ===
+ED 38 still at 0840 sh 17A. ED 39 at 0870 sh 15A. ED 40 at 0881 sh 2B.
+ED 41 STARTS 0896 sh 1A (0901 is sh 2B — upgrades C646).
+337 name-column crops 0840-1176; 16-up and 8-up contact sheets.
+No Newman/Newnam/McCoy / John L+Cora HEAD identified at montage resolution.
+Not every line at full-sheet. John 38+Jennie original still not isolated.
+us-census.org has no 1920 Breathitt/Estill/Powell transcripts.
+
+=== FS R011 step 29 ===
+Seven IDs HTTP 403. Images unread.
+
+=== ACCESS HONESTY ===
+Lee Books 4/5/6/7 HTML seen (compiled). Estill marry.htm 404.
+1910 Estill leaves 0280-0620 downloaded; named Station Camp sheets image seen.
+Breathitt 0840-1176 name columns image seen at montage (not every line full-sheet).
+KDI year TXTs seen. FS unread. Certs 28501/31780 unread. M1509 unread.
+Authored latest.docx SHA 78cdcf44… not overwritten.

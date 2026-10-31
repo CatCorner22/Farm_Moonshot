@@ -1,0 +1,17 @@
+Lee Marriage Books searched 30 Oct 2026 for a first marriage of John Newman/Newnam × Lillie ~1901
+(1910 Buck Creek 134-134: John 31 m1 9y + Lillie 24).
+
+Pages grepped (local copies already in sources/marriages/):
+  Books 3, 4, 6, 7, 8 (sternberg-scan copies)
+  Book 9 (lee-marrbook9.html)
+  Book 10 (lee-marrbook10-2026-10-30.html)
+  Book 11 (lee-marrbook11.html) — has the 1915 Cora marriage, not Lillie
+  Books 12, 13, 14, 15
+
+Exact strings: Lillie + NEWMAN/NEWNAM as a couple row; John NEWMAN/NEWNAM groom with bride Lillie.
+
+Result: **nil** John × Lillie license in those Lee books.
+Likely an Owsley County license (groom born Owsley; 1910 house is Buck Creek, Owsley). New item B073.
+
+Claims: C452
+Source: S383

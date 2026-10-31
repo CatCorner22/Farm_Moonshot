@@ -1,0 +1,41 @@
+Lee County KY Birth Index - N
+https://usgennet.org/usa/ky/county/lee/births/birthsn.html
+Fetched 30 Oct 2026 (WebFetch + live HTML 108989 bytes). Compiled index. Register image unread.
+
+Columns as published: Child last / first / middle / Mother last / first / month / day / year
+
+NEWMAN rows:
+ARKIE / CONNETT / LUCY / 4 / 1913
+BEULAH / MAYS / NETTIE / 1919
+BOYD / BRANDENBURG / OLLIE / 11 / 1914
+CHARLIE / ROSS / EVA / 27 / 1916
+CLAUD / SPARKS / NANCY / 9 / 10 / 1918
+CLEVELAND / REECE / PAULINE / 22 / 1918
+GRACE / BURGY / MARTHA / 21 / 1912
+GRANT / BRANDENBURG / MARTHA / 29 / 1915
+LADONNA / BRANDENBURG / 11 / 19 / 1915
+MALCOM / BEGLEY / MANDY / 1918
+NELLIE / ROSS / 1917
+PROVIE / REECE / PAULINA / 13 / 1916
+RICHARD / NEWTON / JULIZA / 1916
+ROBERT / REECE / PAULINA / 1920
+ROBERT / MAYS / NETTIE / 1911
+ROXIE / BEGLEY / MANDY / 12 / 14 / 1914
+RUBY / NEWTON / JUDA / 18 / 1919
+VICTORIA / BRANDENBURG / MARTHA / 15 / 1913
+VIRGIL / COMBS / EMMA / 25 / 1912
+VIRGINIA / BRANDENBURG / MARTHA / 14 / 1919
+WALTER / CORNETT / LUCIE / 23 / 1915
+
+NEWNAM rows:
+DONLEY / BRANDENBURG / MARTHA / 1920
+ELOISE / PLUMMER / CORA / 1920
+OVAN / BRANDENBURG / MARTHA / 16 / 1916
+SARAH / PLUMMER / CORA / 1920
+
+Notes:
+- VIRGIL / COMBS / EMMA / 25 / 1912 = Charles Newman × Emma Combs (m. 1 May 1909 Book 8). REJECTED vs Breathitt Soundex Virgil age 3 in Jan 1920.
+- BOYD / BRANDENBURG / OLLIE / 11 / 1914 = child named Boyd, mother Ollie Brandenburg. POSSIBLE Allie/Ollie of the 1910/1920 Boyd+Allie house. Not listed as a ~5-year-old in 1920 Station Camp.
+- GRANT / VICTORIA / VIRGINIA / DONLEY / OVAN + Martha Brandenburg = 1876 Grant line (already separated).
+- LADONNA / BRANDENBURG / 11/19/1915 = Shelby × Grace child (C312).
+- ELOISE / SARAH + Cora Plummer = Luther × Cora line.

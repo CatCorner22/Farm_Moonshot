@@ -1,0 +1,32 @@
+Three Forks of the Kentucky River Historical Association,
+“Early Marriages of Owsley Residents,”
+https://tfkrha.org/Marriages/Marriages_Owsley_1843-80.php
+Wayback capture saved: sources/catalog/tfkrha-owsley-1843-80-wayback.html
+Live GET 30 Oct 2026 returned HTTP 429 (Cloudflare). Wayback HTML seen.
+
+Compiler note on the page (Wayback + WebSearch snippet):
+  Records destroyed in the fire which burned the Owsley courthouse
+  at Booneville. Dates come from J. W. F. Williams notes left in
+  Beattyville.
+
+Newnam / Venable rows on that list:
+  21 July 1864 — Harry H. Newnam and Mary J. Partington
+  29 June 1880 — James H. Flanery and Rachel E. Venable
+    (** printed originally as 29 June 1863; disputed in a later
+    Beattyville Enterprise by a family member)
+
+Nil: Daniel Newnam / Newman × Sarah / Sarah M. / Minerva / Manerva
+Venable / Veneable / Veneble.
+
+This is a reconstructed license list, not the lost courthouse
+register. Absence is not proof the marriage did not occur
+~1874–76 (Melissa 4 and John L. 1 in 1880). Residual: FS / clerk
+/ other county (Lee already Book 1 nil).
+
+Owsley submitted-marriages landing
+https://usgennet.org/usa/ky/county/owsley/marriages/sub.html
+seen 30 Oct 2026 (sources/marriages/owsley-sub-marr-pass69.html):
+nil Daniel × Sarah/Venable.
+
+Claims: C508 C520
+S401

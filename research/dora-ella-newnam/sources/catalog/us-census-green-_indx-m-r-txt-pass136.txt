@@ -1,0 +1,1440 @@
+Green County, KY 1850 Federal Census              INDEX (File 3 of 4)
+
+This Census was transcribed by Eva Buchanan and has not yet been proofread
+for the USGenWeb Census Project®, http://www.us-census.org/
+
+Copyright (c) 2011 by Eva Buchanan
+<Transcriber@US-Census.org>
+
+=========================================================================
+USGENWEB (US-CENSUS) NOTICE: These electronic pages may NOT be reproduced 
+in any format for profit or presentation by any other organization. 
+Non-commercial organizations desiring to use this material must obtain
+the consent of the transcriber prior to use.  <Transcriber@US-Census.org>
+Individuals desiring to use this material in their own research may do so. 
+=========================================================================
+Formatted by USGenWeb Census Project® File Manager, Robert E. Lane
+All of the above information must remain when copied or downloaded.
+=========================================================================
+
+THIS IS AN INDEX SORTED BY NAME. FOR THE COMPLETE CENSUS INFORMATION IN
+PAGE NUMBER SEQUENCE, OPEN THE FILE IN THE FILE-NAME COLUMN FOR THAT LINE.
+http://us-census.org/pub/usgenweb/census/ky/green/1850/
+
+=========================================================================================
+Pg#   Ln#   Last Name         First Name        Age       Birth Place         Filename
+=========================================================================================
+154B  36    Malone            Cornelius         23        Kentucky          pg0139a.txt
+154B  35    Malone            Joanna            20        Kentucky          pg0139a.txt
+154B  37    Malone            Martha            22        Kentucky          pg0139a.txt
+154B  34    Malone            Thomas            58        Virginia          pg0139a.txt
+123A  14    Malone            Thos              21        Kentucky          pg0121a.txt
+120A  33    Maloney           Henry             18        Green County      pg0107a.txt
+106B  7     Man               Archy             34        Virginia          pg0093a.txt
+106B  9     Man               Joseph            9         Adair County      pg0093a.txt
+106B  12    Man               Malinda           1         Green County      pg0093a.txt
+106B  10    Man               Martha T.         8         Adair County      pg0093a.txt
+106B  11    Man               Patsy             5         Adair County      pg0093a.txt
+106B  8     Man               Polly             29        Russell Co.       pg0093a.txt
+83B   31    Mandy             Mandy             7         Barren County     pg0079a.txt
+79A   33    Marcum            Andy B.           8         .                 pg0079a.txt
+126A  2     Marcum            Aurelius?         2         Kentucky          pg0121a.txt
+125B  37    Marcum            Barnet            36        Kentucky          pg0121a.txt
+126A  1     Marcum            Berry             5         Kentucky          pg0121a.txt
+79A   34    Marcum            Berry B.          27        Green County      pg0079a.txt
+138A  26    Marcum            Betsy             3         Kentucky          pg0121a.txt
+138A  25    Marcum            Byren             8         Kentucky          pg0121a.txt
+79A   30    Marcum            Daniel F.         13        .                 pg0079a.txt
+125B  40    Marcum            David             13        Kentucky          pg0121a.txt
+79A   35    Marcum            Delilah           25        Missoura          pg0079a.txt
+133A  31    Marcum            Drenory?          8/12      Kentucky          pg0121a.txt
+138A  23    Marcum            Frances           13        Kentucky          pg0121a.txt
+79A   27    Marcum            George W.         21        .                 pg0079a.txt
+138A  18    Marcum            Henry             41        Kentucky          pg0121a.txt
+79A   29    Marcum            James H.          16        .                 pg0079a.txt
+125B  39    Marcum            John              14        Kentucky          pg0121a.txt
+138A  20    Marcum            John              19        Kentucky          pg0121a.txt
+79A   22    Marcum            John              53        Virginia          pg0079a.txt
+79A   26    Marcum            John R.           23        Green County      pg0079a.txt
+125B  38    Marcum            Lavinia           40        Kentucky          pg0121a.txt
+79A   31    Marcum            Lucy J.           10?       .                 pg0079a.txt
+125B  41    Marcum            Margaret          11        Kentucky          pg0121a.txt
+79A   25    Marcum            Margaret          28        Green County      pg0079a.txt
+133A  30    Marcum            Martha            22        Kentucky          pg0121a.txt
+79A   23    Marcum            Mary              32        Green County      pg0079a.txt
+79A   32    Marcum            Mary T.           9         .                 pg0079a.txt
+138A  24    Marcum            Sarah             11        Kentucky          pg0121a.txt
+138A  19    Marcum            Temperance        39        Kentucky          pg0121a.txt
+138A  22    Marcum            Thomas            15        Kentucky          pg0121a.txt
+79A   28    Marcum            Thomas B.         18        .                 pg0079a.txt
+125B  42    Marcum            Valentine         8         Kentucky          pg0121a.txt
+133A  29    Marcum            William           31        Kentucky          pg0121a.txt
+138A  21    Marcum            William           17        Kentucky          pg0121a.txt
+127B  13    Mars              Anna              64        Maryland          pg0121a.txt
+127A  36    Mars              Catharine         24        Kentucky          pg0121a.txt
+127B  12    Mars              Daniel            12        Kentucky          pg0121a.txt
+127B  9     Mars              Eliza             23        Kentucky          pg0121a.txt
+127A  37    Mars              Francis           9         Kentucky          pg0121a.txt
+127B  7     Mars              Francis           26        Kentucky          pg0121a.txt
+127B  10    Mars              George            22        Kentucky          pg0121a.txt
+127B  11    Mars              Harriet           15        Kentucky          pg0121a.txt
+127B  6     Mars              Margaret          27        Kentucky          pg0121a.txt
+127A  35    Mars              Samuel            27        Kentucky          pg0121a.txt
+127B  8     Mars              Thomas            24        Kentucky          pg0121a.txt
+127A  38    Mars              William           5         Kentucky          pg0121a.txt
+125A  41    Marshall          Alonzo            10        Kentucky          pg0121a.txt
+135A  7     Marshall          Andrew            16        Kentucky          pg0121a.txt
+153B  33    Marshall          Ann               24        Kentucky          pg0139a.txt
+154A  21    Marshall          Aylette           6         Kentucky          pg0139a.txt
+124B  22    Marshall          Ben. F.           30        Kentucky          pg0121a.txt
+153B  32    Marshall          Benjamin          39        Kentucky          pg0139a.txt
+154A  22    Marshall          Bettie            4         Kentucky          pg0139a.txt
+124B  5     Marshall          Beverly           55        Virginia          pg0121a.txt
+124B  6     Marshall          Elizabeth         47        Kentucky          pg0121a.txt
+125A  40    Marshall          Elizabeth         11        Kentucky          pg0121a.txt
+124B  4     Marshall          Emily             17        Kentucky          pg0121a.txt
+135A  10    Marshall          George            10        Kentucky          pg0121a.txt
+154A  23    Marshall          James             2         Kentucky          pg0139a.txt
+155A  13    Marshall          James             23        Kentucky          pg0139a.txt
+124B  11    Marshall          James             8         Kentucky          pg0121a.txt
+135A  9     Marshall          Joanna            12        Kentucky          pg0121a.txt
+124B  27    Marshall          John              73        Virginia          pg0121a.txt
+124B  7     Marshall          Joseph            17        Kentucky          pg0121a.txt
+135A  8     Marshall          Joseph            14        Kentucky          pg0121a.txt
+135A  6     Marshall          Josephine         18        Kentucky          pg0121a.txt
+124B  26    Marshall          Louisa            1         Kentucky          pg0121a.txt
+135A  4     Marshall          Lydia             40        Pennsylvania      pg0121a.txt
+118A  35    Marshall          Martha A.         6/12      Green County      pg0107a.txt
+124B  8     Marshall          Mary              15        Kentucky          pg0121a.txt
+124B  25    Marshall          Mary              3         Kentucky          pg0121a.txt
+154A  20    Marshall          Mary              32        Kentucky          pg0139a.txt
+118A  34    Marshall          Mary E.           3         Green County      pg0107a.txt
+118A  33    Marshall          Mat               21        Green County      pg0107a.txt
+124B  33    Marshall          Oliver            34        Kentucky          pg0121a.txt
+124B  28    Marshall          Rebecca           68        Virginia          pg0121a.txt
+124B  10    Marshall          Richard           10        Kentucky          pg0121a.txt
+135A  5     Marshall          Robert            22        Kentucky          pg0121a.txt
+154A  19    Marshall          Robert            35        Kentucky          pg0139a.txt
+124B  9     Marshall          Samuel            12        Kentucky          pg0121a.txt
+124B  23    Marshall          Sarah             27        Kentucky          pg0121a.txt
+124B  24    Marshall          Susannah          6         Kentucky          pg0121a.txt
+124B  3     Marshall          Thomas            21        Kentucky          pg0121a.txt
+124B  34    Marshall          Thomas            40        Kentucky          pg0121a.txt
+135A  3     Marshall          Thomas            45        Kentucky          pg0121a.txt
+118A  32    Marshall          William B.        30        Green County      pg0107a.txt
+103B  6     Martin            Aby               50        Virginia          pg0093a.txt
+108B  16    Martin            Benjamin          14        Green County      pg0107a.txt
+82B   40    Martin            Charles           44        Green County      pg0079a.txt
+108B  6     Martin            Dianna            18        Green County      pg0107a.txt
+108B  11    Martin            Elizabeth         12        Green County      pg0107a.txt
+108B  15    Martin            Elizabeth         17        Green County      pg0107a.txt
+122A  4     Martin            Elizabeth         27        Kentucky          pg0121a.txt
+108B  17    Martin            Erin              12        Green County      pg0107a.txt
+83A   2     Martin            Frank             31        Green County      pg0079a.txt
+108B  10    Martin            Henry             15        Green County      pg0107a.txt
+137A  6     Martin            Henry             51        Virginia          pg0121a.txt
+83A   1     Martin            Henry C.          5         Green County      pg0079a.txt
+108B  9     Martin            Jane              17        Green County      pg0107a.txt
+108B  14    Martin            John              18        Green County      pg0107a.txt
+122A  5     Martin            John              6         Kentucky          pg0121a.txt
+82B   27    Martin            John              42        Green County      pg0079a.txt
+103B  3     Martin            John V.           12        Green County      pg0093a.txt
+108B  5     Martin            Joseph            51        Virginia          pg0107a.txt
+122A  6     Martin            Joseph            4         Kentucky          pg0121a.txt
+82B   41    Martin            Lusinda           33        Cumberland County pg0079a.txt
+103B  4     Martin            Mary              10        Green County      pg0093a.txt
+122A  3     Martin            Maryette          30        Virginia          pg0121a.txt
+108B  18    Martin            Merica            8         Green County      pg0107a.txt
+108B  13    Martin            Nathan            20        Green County      pg0107a.txt
+103B  2     Martin            Ranson            37        Green County      pg0093a.txt
+137A  7     Martin            Rebecca           48        Kentucky          pg0121a.txt
+108B  7     Martin            Sarah             25        Green County      pg0107a.txt
+82B   42    Martin            Sarah H.          10        Green County      pg0079a.txt
+103B  5     Martin            William           9         Green County      pg0093a.txt
+108B  8     Martin            William           20        Green County      pg0107a.txt
+108B  12    Martin            William           46        Virginia          pg0107a.txt
+122A  7     Martin            William           2         Kentucky          pg0121a.txt
+104A  35    Mason             Margaret          25        Green County      pg0093a.txt
+95A   12    Masters           George W.         4         Green County      pg0093a.txt
+95A   7     Masters           Harrison          36        Green County      pg0093a.txt
+95A   11    Masters           John L.           6         Green County      pg0093a.txt
+95A   8     Masters           Julian            35        Virginia          pg0093a.txt
+95A   13    Masters           Martha J.         2         Green County      pg0093a.txt
+95A   10    Masters           Mary C.           8         Green County      pg0093a.txt
+95A   14    Masters           Susan             6/12      Green County      pg0093a.txt
+95A   9     Masters           William           11        Green County      pg0093a.txt
+119A  16    Matingley         Elizabeth         9         Green County      pg0107a.txt
+84B   28    Matthews          America           6         Green County      pg0079a.txt
+84B   25    Matthews          Ann               11        Green County      pg0079a.txt
+84B   27    Matthews          James             7         Green County      pg0079a.txt
+84B   29    Matthews          John              3         Green County      pg0079a.txt
+84B   26    Matthews          Kissiah           9         Green County      pg0079a.txt
+80B   10    Matthews          Mark              55        Green County      pg0079a.txt
+84B   30    Matthews          Mary              1         Green County      pg0079a.txt
+84B   24    Matthews          Nancy             30        Green County      pg0079a.txt
+84B   23    Matthews          William           38        Mercer Co.        pg0079a.txt
+83A   25    Mayfield          George            8         Green County      pg0079a.txt
+83A   27    Mayfield          Margaret          4         Green County      pg0079a.txt
+83A   26    Mayfield          Sarah             6         Green County      pg0079a.txt
+83A   24    Mayfield          Sarah             26        Green County      pg0079a.txt
+109A  25    Mays              Andrew J.         28        Virginia          pg0107a.txt
+131B  33    Mays              Ann               1         Kentucky          pg0121a.txt
+124B  30    Mays              Betsy             10        Kentucky          pg0121a.txt
+131B  27    Mays              Edward            38        Virginia          pg0121a.txt
+113A  13    Mays              Elijah C.         25        Green County      pg0107a.txt
+124B  29    Mays              Emily             13        Kentucky          pg0121a.txt
+131B  28    Mays              Frances           28        Kentucky          pg0121a.txt
+126A  10    Mays              Isabella          34        Virginia          pg0121a.txt
+82A   23    Mays              Isabella S.       3         Green County      pg0079a.txt
+121A  11    Mays              James             19        Kentucky          pg0121a.txt
+82A   19    Mays              James D.          29        Green County      pg0079a.txt
+121A  10    Mays              John              18        Kentucky          pg0121a.txt
+126A  14    Mays              Joseph            12        Kentucky          pg0121a.txt
+113A  14    Mays              Louisa            25        Green County      pg0107a.txt
+109A  26    Mays              Martha E.         17        Green County      pg0107a.txt
+82A   22    Mays              Martha J.         5         Green County      pg0079a.txt
+113A  15    Mays              Marthy G.         1         Green County      pg0107a.txt
+131B  30    Mays              Mary              10        Kentucky          pg0121a.txt
+109A  28    Mays              Mary A.           2/12      Green County      pg0107a.txt
+82A   24    Mays              Mary F.           1         Green County      pg0079a.txt
+82A   20    Mays              Mary L.           25        Green County      pg0079a.txt
+124B  31    Mays              Richard           8         Kentucky          pg0121a.txt
+131B  29    Mays              Robert            12        Kentucky          pg0121a.txt
+124B  32    Mays              Samuel            6         Kentucky          pg0121a.txt
+131B  31    Mays              Sarah             6         Kentucky          pg0121a.txt
+109A  27    Mays              Susan A.          1         Green County      pg0107a.txt
+82A   21    Mays              Tabitha A.        6         Green County      pg0079a.txt
+131B  32    Mays              William           3         Kentucky          pg0121a.txt
+126A  13    Mays              Zeno/Zena         44        Virginia          pg0121a.txt
+94B   34    McCandless        Bluford           13        Green County      pg0093a.txt
+94B   35    McCandless        Frances M.        10        Green County      pg0093a.txt
+94B   32    McCandless        Joseph            15        Green County      pg0093a.txt
+94B   33    McCandless        Mary E.           17        Green County      pg0093a.txt
+94B   31    McCandless        Nancy             53        Virginia          pg0093a.txt
+94B   30    McCandless        William           51        Harrison? Co.     pg0093a.txt
+113A  36    McCinna           Margaret          26        Green County      pg0107a.txt
+113A  38    McCinna           Martha J.         1         Green County      pg0107a.txt
+113A  37    McCinna           Mary              3         Green County      pg0107a.txt
+113A  35    McCinna           Peter             31        Green County      pg0107a.txt
+152B  34    McClain           William           10        Tennessee         pg0139a.txt
+103B  1     McColister        Allexander        1         Green County      pg0093a.txt
+103A  40    McColister        Allis T.          1         Green County      pg0093a.txt
+103A  37    McColister        John              50        Washington Co.    pg0093a.txt
+103A  42    McColister        Mary              20        Green County      pg0093a.txt
+103A  38    McColister        Mindell           57        Virginia          pg0093a.txt
+103A  41    McColister        Paskel            22        Green County      pg0093a.txt
+103A  39    McColister        Patsy             17        Green County      pg0093a.txt
+138B  2     McCollom          Eli               56        North Carolina    pg0121a.txt
+138B  4     McCollom          Francis           22        Kentucky          pg0121a.txt
+138B  3     McCollom          Nancy             59        North Carolina    pg0121a.txt
+138B  5     McCollom          Susan             16        Kentucky          pg0121a.txt
+155A  21    McCorkle          Aylette           10        Kentucky          pg0139a.txt
+155A  20    McCorkle          Bettie            16        Kentucky          pg0139a.txt
+155A  23    McCorkle          Flora             6         Kentucky          pg0139a.txt
+155A  19    McCorkle          Jane              39        Kentucky          pg0139a.txt
+155A  18    McCorkle          John M.           50        Kentucky          pg0139a.txt
+155A  25    McCorkle          Louisa            2         Kentucky          pg0139a.txt
+155A  22    McCorkle          Robert            8         Kentucky          pg0139a.txt
+155A  24    McCorkle          Sarah             4         Kentucky          pg0139a.txt
+151A  40    McCubbins         Abraham           12        Kentucky          pg0139a.txt
+151B  28    McCubbins         Anna              50        South Carolina    pg0139a.txt
+151A  39    McCubbins         Cassander         15        Kentucky          pg0139a.txt
+148B  41    McCubbins         Columbus          1         Kentucky          pg0139a.txt
+151B  42    McCubbins         David             9/12      Kentucky          pg0139a.txt
+151B  29    McCubbins         David W.          24        Kentucky          pg0139a.txt
+151A  38    McCubbins         Elijah            17        Kentucky          pg0139a.txt
+151A  42    McCubbins         George            5         Kentucky          pg0139a.txt
+151B  41    McCubbins         George            2         Kentucky          pg0139a.txt
+151B  34    McCubbins         Gillia            13        Kentucky          pg0139a.txt
+151B  16    McCubbins         Greenberry        7         Kentucky          pg0139a.txt
+151B  3     McCubbins         Harriet           1         Kentucky          pg0139a.txt
+151B  36    McCubbins         Harriet           9         Kentucky          pg0139a.txt
+151B  38    McCubbins         Hezekiah          4         Kentucky          pg0139a.txt
+151A  37    McCubbins         James             21        Kentucky          pg0139a.txt
+151B  39    McCubbins         James             25        Kentucky          pg0139a.txt
+151A  41    McCubbins         John              10        Kentucky          pg0139a.txt
+148B  40    McCubbins         Lydia             29        Kentucky          pg0139a.txt
+139A  5     McCubbins         Mary              1         Kentucky          pg0139a.txt
+151B  1     McCubbins         Mary              4         Kentucky          pg0139a.txt
+151B  15    McCubbins         Mary              9         Kentucky          pg0139a.txt
+151B  35    McCubbins         Mary              11        Kentucky          pg0139a.txt
+152A  1     McCubbins         Mary              81        Virginia          pg0139a.txt
+151A  36    McCubbins         Matilda           39        Kentucky          pg0139a.txt
+139A  1     McCubbins         Nicholas          70        North Carolina    pg0139a.txt
+151A  35    McCubbins         Nicholas          35        Kentucky          pg0139a.txt
+139A  4     McCubbins         Robert            3         Kentucky          pg0139a.txt
+151B  33    McCubbins         Robert            15        Kentucky          pg0139a.txt
+151B  32    McCubbins         Samuel            18        Kentucky          pg0139a.txt
+139A  3     McCubbins         Sarah             22        Kentucky          pg0139a.txt
+151B  37    McCubbins         Theresstia        6         Kentucky          pg0139a.txt
+151B  31    McCubbins         Thomas            19        Kentucky          pg0139a.txt
+139A  2     McCubbins         William           27        Kentucky          pg0139a.txt
+151B  2     McCubbins         William           4         Kentucky          pg0139a.txt
+151B  30    McCubbins         William           21        Kentucky          pg0139a.txt
+151B  40    McCubbins         William           3         Kentucky          pg0139a.txt
+151B  27    McCubbins         Zachariah         56        North Carolina    pg0139a.txt
+112B  4     MCDaniel          William           13        Green County      pg0107a.txt
+83B   42    McFaelia          John              65        Mariland          pg0079a.txt
+84A   1     McFaelia          Sarah             64        Mariland          pg0079a.txt
+91A   30    McFee             Allexander M. S.  15        Green County      pg0079a.txt
+91A   29    McFee             Louise? M.        22        Green County      pg0079a.txt
+91A   32    McFee             Mariah T. C.      8         Green County      pg0079a.txt
+91A   28    McFee             Mary              43        Washington Co.    pg0079a.txt
+91A   33    McFee             Sophrinia T.      3         Green County      pg0079a.txt
+91A   31    McFee             Uriah G. W. T.    9         Green County      pg0079a.txt
+88B   29    McGlossen         Henry C.          6         Green County      pg0079a.txt
+88B   25    McGlossen         John H.           33        Cumberland County pg0079a.txt
+88B   27    McGlossen         Lucinda W.        12        Casey County      pg0079a.txt
+88B   26    McGlossen         Mary I.           26        Indiana           pg0079a.txt
+88B   28    McGlossen         William B.        8         Casey County      pg0079a.txt
+115A  12    McGuier           James             17        Green County      pg0107a.txt
+113A  41    McGuise           John M.           19        Simpson County    pg0107a.txt
+115B  41    McKinney          An F.             1         Green County      pg0107a.txt
+115B  40    McKinney          Caroline          3         Green County      pg0107a.txt
+114A  11    McKinney          Charles           28        Green County      pg0107a.txt
+86B   41    McKinney          Charles           2         Barren County     pg0079a.txt
+114A  15    McKinney          Elizabeth         17        Green County      pg0107a.txt
+86B   37    McKinney          Elizabeth         13        Barren County     pg0079a.txt
+114A  2     McKinney          Francis           32        Green County      pg0107a.txt
+114A  16    McKinney          Francis           14        Green County      pg0107a.txt
+86B   40    McKinney          George            4         Barren County     pg0079a.txt
+115B  37    McKinney          Hannah            81        Virginia          pg0107a.txt
+115B  39    McKinney          Isaac G.          7         Green County      pg0107a.txt
+114A  6     McKinney          James F.          3         Green County      pg0107a.txt
+86B   38    McKinney          Jesse             11        Barren County     pg0079a.txt
+115B  36    McKinney          John              81        Virginia          pg0107a.txt
+127B  23    McKinney          John              23        Kentucky          pg0121a.txt
+114A  1     McKinney          John F.           34        Green County      pg0107a.txt
+114A  4     McKinney          John M.           9         Green County      pg0107a.txt
+114A  14    McKinney          Jordan            20        Green County      pg0107a.txt
+114A  9     McKinney          Margaret          52        North Carolina    pg0107a.txt
+114A  5     McKinney          Marica            4         Green County      pg0107a.txt
+115B  38    McKinney          Mary A.           21        Green County      pg0107a.txt
+114A  7     McKinney          Peter L.          11/12     Green County      pg0107a.txt
+114A  13    McKinney          Pinkney           23        Green County      pg0107a.txt
+114A  10    McKinney          Sarah             30        Green County      pg0107a.txt
+86B   36    McKinney          Sarah             30        Barren County     pg0079a.txt
+114A  12    McKinney          William           26        Green County      pg0107a.txt
+86B   39    McKinney          William           8         Barren County     pg0079a.txt
+114A  3     McKinney          William Jno       10        Green County      pg0107a.txt
+114A  8     McKinney          Williams ?        69        Virginia          pg0107a.txt
+137B  12    McKnabb           George            47        Pennsylvania      pg0121a.txt
+137B  16    McKnabb           George            1         Kentucky          pg0121a.txt
+137B  14    McKnabb           James             16        Kentucky          pg0121a.txt
+137B  13    McKnabb           Polly             42        Kentucky          pg0121a.txt
+149A  14    McKnabb           Robert            80        Delaware          pg0139a.txt
+137B  15    McKnabb           Thomas            5         Kentucky          pg0121a.txt
+148A  23    McKnight          Amy               9         Kentucky          pg0139a.txt
+148A  22    McKnight          Elizabeth         12        Kentucky          pg0139a.txt
+148A  21    McKnight          Margaret          14        Kentucky          pg0139a.txt
+148A  25    McKnight          Matilda           3         Kentucky          pg0139a.txt
+148A  20    McKnight          Sarah             43        Kentucky          pg0139a.txt
+148A  24    McKnight          Sarah             7         Kentucky          pg0139a.txt
+148A  19    McKnight          Thomas            57        Virginia          pg0139a.txt
+111B  42    McMahan           Allexander J.?    4/12      Green County      pg0107a.txt
+108A  13    McMahan           Catharine         4/12      Green Couty       pg0107a.txt
+108B  27    McMahan           Elizabeth E.      13        Green County      pg0107a.txt
+108B  25    McMahan           Ellen             50        Virginia          pg0107a.txt
+112B  21    McMahan           Elviry            15        Green County      pg0107a.txt
+111B  40    McMahan           John F.           5         Green County      pg0107a.txt
+108A  10    McMahan           John H.           7         Green Couty       pg0107a.txt
+111B  37    McMahan           John W.           31        Green County      pg0107a.txt
+108B  28    McMahan           Malvina A.        9         Green County      pg0107a.txt
+111B  41    McMahan           Martha J.         3         Green County      pg0107a.txt
+111B  39    McMahan           Mary E.           8         Green County      pg0107a.txt
+112B  20    McMahan           Mary E.           20        Green County      pg0107a.txt
+108A  9     McMahan           Mary J.           28        Green Couty       pg0107a.txt
+111B  38    McMahan           Nancy             29        Green County      pg0107a.txt
+108A  11    McMahan           Samuel A.         6         Green County      pg0107a.txt
+108A  7     McMahan           Thomas            30        Green Couty       pg0107a.txt
+108B  26    McMahan           Thorisda J.       16        Green County      pg0107a.txt
+108A  12    McMahan           William           3         Green Couty       pg0107a.txt
+134A  16    Mears             David             35        Kentucky          pg0121a.txt
+134A  17    Mears             Elizabeth         24        Kentucky          pg0121a.txt
+134B  42    Mears             James             69        North Carolina    pg0121a.txt
+134A  13    Mears             John              67        North Carolina    pg0121a.txt
+134A  15    Mears             John              13        Kentucky          pg0121a.txt
+134A  18    Mears             John              7         Kentucky          pg0121a.txt
+147B  1     Mears             Lydia             22        Kentucky          pg0139a.txt
+134A  19    Mears             Mary              3         Kentucky          pg0121a.txt
+144B  26    Mears             Missouri          4         Kentucky          pg0139a.txt
+135A  2     Mears             Parthena          23        Kentucky          pg0121a.txt
+135A  1     Mears             Ruth              66        Virginia          pg0121a.txt
+134A  20    Mears             Susan             1         Kentucky          pg0121a.txt
+134A  14    Mears             Susannah          64        Virginia          pg0121a.txt
+107A  5     Mercer            James             28        Adair Co.         pg0107a.txt
+85B   3     Miers             America           19        Barren County     pg0079a.txt
+94A   3     Miers             Benjamin          30        Green County      pg0093a.txt
+85B   1     Miers             Felin             26        Barren County     pg0079a.txt
+85B   2     Miers             Louisa            21        Barren County     pg0079a.txt
+141A  29    Milby             Alexander         22        Kentucky          pg0139a.txt
+141A  22    Milby             Carlisle          5         Kentucky          pg0139a.txt
+117B  3     Milby             Catharine         24        Green County      pg0107a.txt
+117B  7     Milby             Catharine         4         Green County      pg0107a.txt
+136A  41    Milby             Coleman           7/12      Kentucky          pg0121a.txt
+117B  8     Milby             Colman            3         Green County      pg0107a.txt
+80A   24    Milby             Daniel J.         25        Green County      pg0079a.txt
+136A  38    Milby             David             6         Kentucky          pg0121a.txt
+141A  21    Milby             David             7         Kentucky          pg0139a.txt
+141A  30    Milby             Edward            18        Kentucky          pg0139a.txt
+136A  37    Milby             Elom              8         Kentucky          pg0121a.txt
+141A  23    Milby             Emily             3         Kentucky          pg0139a.txt
+136B  17    Milby             George            18        Kentucky          pg0121a.txt
+136B  18    Milby             Harriet           15        Kentucky          pg0121a.txt
+136A  36    Milby             James             10        Kentucky          pg0121a.txt
+136B  15    Milby             James             64        North Carolina    pg0121a.txt
+117B  5     Milby             James             9         Green County      pg0107a.txt
+117B  2     Milby             James H.          31        Green County      pg0107a.txt
+80A   26    Milby             James R.          2         Green County      pg0079a.txt
+136A  32    Milby             John              36        Kentucky          pg0121a.txt
+141A  27    Milby             John              10        Kentucky          pg0139a.txt
+136A  35    Milby             Joseph            14        Kentucky          pg0121a.txt
+141A  20    Milby             Louisa            28        Kentucky          pg0139a.txt
+141A  28    Milby             Luther            2         Kentucky          pg0139a.txt
+136A  34    Milby             Malinda           12        Kentucky          pg0121a.txt
+117B  9     Milby             Mariah            1         Green County      pg0107a.txt
+136A  33    Milby             Minerva           32        Kentucky          pg0121a.txt
+136A  39    Milby             Nancy             4         Kentucky          pg0121a.txt
+141A  24    Milby             Nancy             45        Kentucky          pg0139a.txt
+141A  26    Milby             Nancy             26        Kentucky          pg0139a.txt
+80A   25    Milby             Nancy             19        Green County      pg0079a.txt
+136B  16    Milby             Rhoda             57        Virginia          pg0121a.txt
+80A   27    Milby             Rhody M.          8/12      Green County      pg0079a.txt
+136A  40    Milby             Rial              2         Kentucky          pg0121a.txt
+141A  19    Milby             Richard           30        Kentucky          pg0139a.txt
+117B  6     Milby             Thomas            7         Green County      pg0107a.txt
+117B  4     Milby             William           10        Green County      pg0107a.txt
+141A  25    Milby             William           29        Kentucky          pg0139a.txt
+119B  21    Miller            Bailor            60        Virginia          pg0107a.txt
+155B  26    Miller            Charity           14        Kentucky          pg0139a.txt
+124A  1     Miller            Daniel            4         Kentucky          pg0121a.txt
+123B  38    Miller            Eliza             33        Kentucky          pg0121a.txt
+155B  22    Miller            Elizabeth         50        North Carolina    pg0139a.txt
+155B  24    Miller            Harriet           16        Kentucky          pg0139a.txt
+155B  23    Miller            James             20        Kentucky          pg0139a.txt
+123B  42    Miller            John              6         Kentucky          pg0121a.txt
+123B  37    Miller            John G.           37        Virginia          pg0121a.txt
+155B  25    Miller            Lucy              15        Kentucky          pg0139a.txt
+109A  38    Miller            Lucy A.           23        Green County      pg0107a.txt
+123B  39    Miller            Mary              13        Kentucky          pg0121a.txt
+123B  40    Miller            Nancy             11        Kentucky          pg0121a.txt
+124A  2     Miller            Richard           1         Kentucky          pg0121a.txt
+122A  16    Miller            Sarah             3         Kentucky          pg0121a.txt
+123B  41    Miller            William           8         Kentucky          pg0121a.txt
+154B  15    Miller            William           9         Kentucky          pg0139a.txt
+104A  25    Miner             Dudley C.         16        Green County      pg0093a.txt
+104A  26    Miner             James             14        Green County      pg0093a.txt
+126B  7     Minton            Adelia            17        Kentucky          pg0121a.txt
+107A  19    Mitchell          Abner             30        Green County      pg0107a.txt
+107A  13    Mitchell          Amelia E.         40        Virginia          pg0107a.txt
+128A  4     Mitchell          Daniel            6         Kentucky          pg0121a.txt
+129A  14    Mitchell          Daniel            12        Kentucky          pg0121a.txt
+128A  5     Mitchell          Edward            3         Kentucky          pg0121a.txt
+129A  11    Mitchell          Eliza             3         Kentucky          pg0121a.txt
+107A  15    Mitchell          Elizabeth         6         Green County      pg0107a.txt
+127B  42    Mitchell          Elizabeth         39        Kentucky          pg0121a.txt
+129A  13    Mitchell          Elizabeth         36        Kentucky          pg0121a.txt
+86A   36    Mitchell          Elizabeth         55        Virginia          pg0079a.txt
+86B   1     Mitchell          Elizabeth         77        Maryland          pg0079a.txt
+129A  10    Mitchell          Harriet           6         Kentucky          pg0121a.txt
+98A   18    Mitchell          Harriet E.        3         Green County      pg0093a.txt
+101B  39    Mitchell          Honeret C.        6         Green County      pg0093a.txt
+86A   35    Mitchell          Hugh              53        Green County      pg0079a.txt
+86A   40    Mitchell          Hugh              17        Green County      pg0079a.txt
+97B   20    Mitchell          James             32        Adair County      pg0093a.txt
+97B   22    Mitchell          James A.          7         Green County      pg0093a.txt
+98A   17    Mitchell          James E.?         5         Green County      pg0093a.txt
+86A   38    Mitchell          James J.          21        Green County      pg0079a.txt
+128A  6     Mitchell          John              3/12      Kentucky          pg0121a.txt
+128B  30    Mitchell          John              79        Virginia          pg0121a.txt
+107A  12    Mitchell          John A.           48        Virginia          pg0107a.txt
+107A  17    Mitchell          John A.           3/12      Green County      pg0107a.txt
+127B  41    Mitchell          John B.           43        Kentucky          pg0121a.txt
+101B  35    Mitchell          Joseph            18        Green County      pg0093a.txt
+129A  7     Mitchell          Joseph            45        Kentucky          pg0121a.txt
+86A   39    Mitchell          Joseph A.         19        Green County      pg0079a.txt
+98A   16    Mitchell          Lucy A.           26        Cumberland Co.    pg0093a.txt
+86A   37    Mitchell          Malinda           23        Green County      pg0079a.txt
+86A   41    Mitchell          Martha M.         15        Green County      pg0079a.txt
+101B  37    Mitchell          Martha S.         14        Green County      pg0093a.txt
+129A  12    Mitchell          Mary              1         Kentucky          pg0121a.txt
+129A  8     Mitchell          Mary              30        Kentucky          pg0121a.txt
+107A  20    Mitchell          Mary A.           21        Green County      pg0107a.txt
+101B  38    Mitchell          Mary E.           10        Green County      pg0093a.txt
+107A  16    Mitchell          Mary J.           3         Green County      pg0107a.txt
+101B  34    Mitchell          Nancy             54        Virginia          pg0093a.txt
+101B  36    Mitchell          Nancy J.          16        Green County      pg0093a.txt
+128A  1     Mitchell          Rebecca           14        Kentucky          pg0121a.txt
+128A  2     Mitchell          Sarah             12        Kentucky          pg0121a.txt
+98A   19    Mitchell          Sarah             3/12      Green County      pg0093a.txt
+129A  9     Mitchell          Susan             7         Kentucky          pg0121a.txt
+97B   21    Mitchell          Susan W.          26        Boyle County      pg0093a.txt
+107A  14    Mitchell          Thomas            8         Green County      pg0107a.txt
+107A  18    Mitchell          Thomas            82        Virginia          pg0107a.txt
+128A  3     Mitchell          Thomas            10        Kentucky          pg0121a.txt
+97B   23    Mitchell          William H.        4         Green County      pg0093a.txt
+87A   18    Mitchell          Amanda F          24        Mercer County     pg0079a.txt
+98A   15    Mitchell          Hugh A.           28        Green County      pg0093a.txt
+87A   20    Mitchell          Madison           1         Green County      pg0079a.txt
+87A   19    Mitchell          Mary E.           4         Green County      pg0079a.txt
+87A   17    Mitchell          Samuel            29        Simpson County    pg0079a.txt
+134B  29    Money             Edward            15        Kentucky          pg0121a.txt
+134B  30    Money             Elizabeth         8         Kentucky          pg0121a.txt
+147A  34    Money             Elizabth          9         Kentucky          pg0139a.txt
+134B  25    Money             Jesse             48        Kentucky          pg0121a.txt
+134B  27    Money             John              17        Kentucky          pg0121a.txt
+134A  21    Money             Lydia             67        Virginia          pg0121a.txt
+134B  26    Money             Lydia             18        Kentucky          pg0121a.txt
+134B  24    Money             Perry             49        Kentucky          pg0121a.txt
+134B  28    Money             William           16        Kentucky          pg0121a.txt
+119B  34    Montgomery        Albert            18        Green County      pg0107a.txt
+107B  9     Montgomery        An                60        Adair County      pg0107a.txt
+119B  33    Montgomery        An                21        Green County      pg0107a.txt
+109A  33    Montgomery        Catharine         45        Green County      pg0107a.txt
+119B  30    Montgomery        David             54        Washington Co.    pg0107a.txt
+119B  35    Montgomery        Elizabeth         14        Green County      pg0107a.txt
+81B   25    Montgomery        Elizabeth         6         Green County      pg0079a.txt
+116A  31    Montgomery        Elizabeth J.      5         Green County      pg0107a.txt
+116A  29    Montgomery        Harriet R.        16        Green County      pg0107a.txt
+109A  32    Montgomery        Hugh              31        Green County      pg0107a.txt
+81B   27    Montgomery        Isabella T.       3         Green County      pg0079a.txt
+116A  27    Montgomery        James B.          38        Green County      pg0107a.txt
+79A   36    Montgomery        James F.          22        Green County      pg0079a.txt
+109A  31    Montgomery        James M.          1         Green County      pg0107a.txt
+81B   23    Montgomery        John H.           26        Green County      pg0079a.txt
+119B  20    Montgomery        Jolie?            43        Adair County      pg0107a.txt
+119B  37    Montgomery        Joshu   G.        29        Green County      pg0107a.txt
+81B   28    Montgomery        Joshua F.         11/12     Green County      pg0079a.txt
+79A   37    Montgomery        Lucinda           19        Green County      pg0079a.txt
+116A  30    Montgomery        Malissa A.        7         Green County      pg0107a.txt
+116A  32    Montgomery        Martha            1         Green County      pg0107a.txt
+119B  38    Montgomery        Mary E.           19        Green County      pg0107a.txt
+116A  28    Montgomery        Narcissa          26        Green County      pg0107a.txt
+119B  36    Montgomery        Sarah F.          9         Green County      pg0107a.txt
+119B  31    Montgomery        Tabitha           45        Green County      pg0107a.txt
+81B   24    Montgomery        Tamer? A.         24        Green County      pg0079a.txt
+109A  30    Montgomery        Theresa           19        Green County      pg0107a.txt
+109A  29    Montgomery        William           25        Green County      pg0107a.txt
+119B  32    Montgomery        William           23        Green County      pg0107a.txt
+81B   26    Montgomery        William D.        5         Green County      pg0079a.txt
+110B  30    Moody             Harriet           15        Green County      pg0107a.txt
+110B  29    Moody             Henry             18        Green County      pg0107a.txt
+110B  27    Moody             John              59        Virginia          pg0107a.txt
+110B  28    Moody             Nancy             56        Green County      pg0107a.txt
+106A  41    Moore             Aramitha          10        Adair County      pg0093a.txt
+119A  21    Moore             Bartlet           11        Green County      pg0107a.txt
+118B  14    Moore             Charles P.        10/12     Green County      pg0107a.txt
+119A  31    Moore             Cleopatree        27        Adair County      pg0107a.txt
+119A  30    Moore             David B.          28        Green County      pg0107a.txt
+118B  16    Moore             Elenor A.         47        Green County      pg0107a.txt
+118B  18    Moore             Elenor G.         15        Green County      pg0107a.txt
+119A  23    Moore             Eliza             4         Green County      pg0107a.txt
+111A  40    Moore             Elizabeth         20        Green County      pg0107a.txt
+119A  18    Moore             Elizabeth         33        Green County      pg0107a.txt
+104A  36    Moore             Hiram             40        Jessamin Co.      pg0093a.txt
+111B  1     Moore             Hugh              16        Green County      pg0107a.txt
+118B  12    Moore             James B.          26        Green County      pg0107a.txt
+111B  3     Moore             John              12        Green County      pg0107a.txt
+119A  17    Moore             John              36        Green County      pg0107a.txt
+119A  19    Moore             John              15        Green County      pg0107a.txt
+84A   33    Moore             John              3         .                 pg0079a.txt
+118B  13    Moore             Judieth  C.       31        Green County      pg0107a.txt
+104A  37    Moore             Kitty A.          36        Green County      pg0093a.txt
+111A  36    Moore             Margaret          42        Green County      pg0107a.txt
+111B  4     Moore             Margaret          7         Green County      pg0107a.txt
+84A   30    Moore             Marie?            40        Green County      pg0079a.txt
+119A  24    Moore             Mark              1         Green County      pg0107a.txt
+104A  38    Moore             Martha J.         12        Green County      pg0093a.txt
+119A  20    Moore             Mary              13        Green County      pg0107a.txt
+111A  37    Moore             Mary A.           24        Green County      pg0107a.txt
+119A  32    Moore             Mary E.           3         Adair County      pg0107a.txt
+104A  39    Moore             Mary S.           10        Green County      pg0093a.txt
+111B  2     Moore             Nancy             14        Green County      pg0107a.txt
+104B  2     Moore             Nancy M.          3         Green County      pg0093a.txt
+118B  15    Moore             Richard L.        54        Green County      pg0107a.txt
+118B  17    Moore             Richard W.        17        Green County      pg0107a.txt
+121A  12    Moore             Richard W.        17        Kentucky          pg0121a.txt
+111A  39    Moore             Samuel            22        Green County      pg0107a.txt
+119A  22    Moore             Sarah             9         Green County      pg0107a.txt
+84A   32    Moore             Sarah D.          11        .                 pg0079a.txt
+104B  1     Moore             Sarah E.          6         Green County      pg0093a.txt
+111A  41    Moore             Thomas            18        Green County      pg0107a.txt
+118B  19    Moore             Thomas O.         12        Green County      pg0107a.txt
+111A  38    Moore             William           23        Green County      pg0107a.txt
+116A  39    Moran             Allis             34        Green County      pg0107a.txt
+83B   2     Moran             Elenor            21        Green County      pg0079a.txt
+116B  1     Moran             Elizabeth         6/12      Green County      pg0107a.txt
+113A  33    Moran             Ezekiel           22        Green County      pg0107a.txt
+116A  41    Moran             Francis           3         Green County      pg0107a.txt
+83B   1     Moran             Henry             24        Green County      pg0079a.txt
+116A  42    Moran             Mahala            1         Green County      pg0107a.txt
+90A   28    Moran             Mahala J.         23        Green County      pg0079a.txt
+116A  38    Moran             Martin            30        Virginia          pg0107a.txt
+90A   27    Moran             Nancy             57        Virginia          pg0079a.txt
+116A  40    Moran             Patsy             6         Green County      pg0107a.txt
+83B   3     Moran             Sarah E.          2         Green County      pg0079a.txt
+90A   30    Moran             Thomas            18        Green County      pg0079a.txt
+90A   26    Moran             Timothy           55        Georgia           pg0079a.txt
+90A   31    Moran             Timothy           16        Green County      pg0079a.txt
+90A   29    Moran             William           21        Green County      pg0079a.txt
+141B  19    Morgan            Catharine         51        North Carolina    pg0139a.txt
+141B  29    Morgan            Ellen             21        Kentucky          pg0139a.txt
+141B  31    Morgan            James             23        Kentucky          pg0139a.txt
+136A  24    Morgan            Jane              20        Indiana           pg0121a.txt
+141B  32    Morgan            Jenetta           19        Kentucky          pg0139a.txt
+141B  18    Morgan            Jesse             51        North Carolina    pg0139a.txt
+136A  23    Morgan            John              23        Indiana           pg0121a.txt
+141B  28    Morgan            John              24        Kentucky          pg0139a.txt
+136A  25    Morgan            Patsy             20        Indiana           pg0121a.txt
+136A  26    Morgan            Patsy             83        North Carolina    pg0121a.txt
+141B  21    Morgan            Richard           14        Kentucky          pg0139a.txt
+141B  20    Morgan            Washington        19        Kentucky          pg0139a.txt
+136A  22    Morgan            William           56        North Carolina    pg0121a.txt
+141B  30    Morgan            William           2         Kentucky          pg0139a.txt
+137B  22    Morris            Deborah           30        Kentucky          pg0121a.txt
+137B  20    Morris            George            77        North Carolina    pg0121a.txt
+144B  23    Morris            George            2         Kentucky          pg0139a.txt
+144B  21    Morris            Jacob             5         Kentucky          pg0139a.txt
+121A  40    Morris            John W.           44        Virginia          pg0121a.txt
+144B  19    Morris            Moses             27        Kentucky          pg0139a.txt
+137B  21    Morris            Nancy             68        North Carolina    pg0121a.txt
+144B  20    Morris            Rebecca           21        Kentucky          pg0139a.txt
+144B  22    Morris            Sarah             3         Kentucky          pg0139a.txt
+132A  37    Morris            William           5         Kentucky          pg0121a.txt
+107A  4     Morrison          Thomas            23        Adair Co.         pg0107a.txt
+79B   20    Moss              Analizabeth       2         Green County      pg0079a.txt
+79B   18    Moss              Benjamin          34        Green County      pg0079a.txt
+96B   22    Moss              Benjamin          21        Green County      pg0093a.txt
+113B  15    Moss              Betsy E.          18        Green County      pg0107a.txt
+85B   41    Moss              Caroline T.       19        Virginia          pg0079a.txt
+118A  42    Moss              Catharine         13        Green County      pg0107a.txt
+113B  17    Moss              Catharine A.      15        Green County      pg0107a.txt
+96B   20    Moss              Catharine J.      32        Green County      pg0093a.txt
+117A  9     Moss              Charles W.        6         Green County      pg0107a.txt
+96B   23    Moss              Colman            20        Green County      pg0093a.txt
+117A  7     Moss              David C./U.       14        Green County      pg0107a.txt
+113B  16    Moss              David E.          16        Green County      pg0107a.txt
+117A  2     Moss              David E.          52        Mercer County     pg0107a.txt
+86A   3     Moss              David F.          11        Green County      pg0079a.txt
+117A  3     Moss              Dorcas E.         49        Mercer County     pg0107a.txt
+85B   40    Moss              Elenor J.         49        Virginia          pg0079a.txt
+79B   21    Moss              Eliza  J.         3/12      Green County      pg0079a.txt
+96B   19    Moss              Elza              54        Virginia          pg0093a.txt
+85B   39    Moss              Fedrick           66        Virginia          pg0079a.txt
+98B   20    Moss              Francis C.        10        Green County      pg0093a.txt
+117A  4     Moss              Francis J.        22        Green County      pg0107a.txt
+118A  38    Moss              George B.         37        Green County      pg0107a.txt
+98B   21    Moss              George M.         8         Green County      pg0093a.txt
+117A  5     Moss              George T.         10        Green County      pg0107a.txt
+98B   18    Moss              Hanner R.         35        Mercer County     pg0093a.txt
+118A  41    Moss              Harriet           15        Green County      pg0107a.txt
+96B   24    Moss              Henry C.          18        Green County      pg0093a.txt
+124B  12    Moss              James             3         Kentucky          pg0121a.txt
+97B   26    Moss              James E.          4         Green County      pg0093a.txt
+118A  39    Moss              James W.          27        Green County      pg0107a.txt
+85B   42    Moss              John              17        Virginia          pg0079a.txt
+118B  3     Moss              John A.           23        Green County      pg0107a.txt
+97B   24    Moss              John C.           27        Green County      pg0093a.txt
+113B  13    Moss              John M.           22        Green County      pg0107a.txt
+98B   19    Moss              John M.           12        Green County      pg0093a.txt
+98B   17    Moss              Joseph A.         37        Green County      pg0093a.txt
+118B  5     Moss              Josephine         7         Green County      pg0107a.txt
+98B   24    Moss              Judea E.          1         Green County      pg0093a.txt
+118A  37    Moss              Judith            50        Mercer County     pg0107a.txt
+98B   22    Moss              Julian A.         6         Green County      pg0093a.txt
+98B   23    Moss              Louisa E.         3         Green County      pg0093a.txt
+96B   21    Moss              Lucy              23        Green County      pg0093a.txt
+118B  2     Moss              Luther C.         21        Green County      pg0107a.txt
+97B   27    Moss              Margaret E.       2         Green County      pg0093a.txt
+117A  6     Moss              Mary E.           16        Green County      pg0107a.txt
+113B  18    Moss              Patsy             13        Green County      pg0107a.txt
+79B   19    Moss              Rachel            23        Green County      pg0079a.txt
+113B  14    Moss              Sarah             20        Green County      pg0107a.txt
+98B   26    Moss              Sarah             78        Virginia          pg0093a.txt
+97B   25    Moss              Sarah             24        Green County      pg0093a.txt
+118A  40    Moss              Sue H.            17        Green County      pg0107a.txt
+96B   25    Moss              Thomas            15        Green County      pg0093a.txt
+118B  4     Moss              Thomas E.         11        Green County      pg0107a.txt
+118A  36    Moss              Thomas S. T.      63        Virginia          pg0107a.txt
+86A   2     Moss              Ulissus B.        13        Green County      pg0079a.txt
+118B  1     Moss              William           25        Green County      pg0107a.txt
+113B  12    Moss              William E.        50        Green County      pg0107a.txt
+117A  8     Moss              William G.        10        Green County      pg0107a.txt
+86A   1     Moss              William I.?       15        Hart County       pg0079a.txt
+96B   26    Moss              William T.        12        Green County      pg0093a.txt
+154A  10    Mottley           Eliza             27        Kentucky          pg0139a.txt
+154A  11    Mottley           Erasmus           13        Kentucky          pg0139a.txt
+154A  13    Mottley           Eucled            8         Kentucky          pg0139a.txt
+107B  38    Mottley           Sylvia            65        Virginia          pg0107a.txt
+154A  12    Mottley           William           11        Kentucky          pg0139a.txt
+126A  8     Mudd              Anna              8         Kentucky          pg0121a.txt
+126A  20    Mudd              Anna              8         Kentucky          pg0121a.txt
+126A  6     Mudd              Benjamine         13        Kentucky          pg0121a.txt
+126A  3     Mudd              Eliza             43        Virginia          pg0121a.txt
+126A  9     Mudd              Ellanor           72        Maryland          pg0121a.txt
+126A  7     Mudd              George            11        Kentucky          pg0121a.txt
+126A  21    Mudd              Isabella          6         Kentucky          pg0121a.txt
+126A  4     Mudd              James             20        Kentucky          pg0121a.txt
+126A  15    Mudd              John              36        Kentucky          pg0121a.txt
+126A  19    Mudd              John              3         Kentucky          pg0121a.txt
+126A  5     Mudd              Leonard           18        Kentucky          pg0121a.txt
+126A  17    Mudd              Marion            12        Kentucky          pg0121a.txt
+126A  16    Mudd              Susan             34        Virginia          pg0121a.txt
+126A  22    Mudd              Thomas            3/12      Kentucky          pg0121a.txt
+126A  18    Mudd              William           10        Kentucky          pg0121a.txt
+85A   41    Murcer            Cornelus H.       14        Adair County      pg0079a.txt
+85A   38    Murcer            George            43        Virginia          pg0079a.txt
+85A   39    Murcer            Lutichy A.        37        Adair County      pg0079a.txt
+85A   40    Murcer            Mary M.           16        Adair County      pg0079a.txt
+85A   42    Murcer            Tunstil G.        4         Adair County      pg0079a.txt
+121B  37    Murry             Catharine         7         Kentucky          pg0121a.txt
+121B  36    Murry             Eliza             27        Kentucky          pg0121a.txt
+154A  41    Murry             Felix             47        Kentucky          pg0139a.txt
+121B  35    Murry             Jefferson         28        Kentucky          pg0121a.txt
+121B  38    Murry             Sarah             5         Kentucky          pg0121a.txt
+89A   25    Murry             Sarah             18        Green County      pg0079a.txt
+121B  39    Murry             William           4         Kentucky          pg0121a.txt
+136B  38    Myers             Alexander         40        Germany           pg0121a.txt
+            
+104B  38    Naegles           Louisa C.         7/12      Green County      pg0093a.txt
+83B   32    Nance             Joseph            22        Barren County     pg0079a.txt
+104B  27    Neagles           Andrew            10        Barren County     pg0093a.txt
+100A  17    Neagles           Becky             11        Warren County     pg0093a.txt
+100A  16    Neagles           Carrey?           16        Warren County     pg0093a.txt
+100A  14    Neagles           Caty/Coty         19        Warren County     pg0093a.txt
+104B  37    Neagles           Eliza J.          20        Green County      pg0093a.txt
+104B  36    Neagles           Greenbury         27        Warren County     pg0093a.txt
+100A  9     Neagles           James             53        North Carolina    pg0093a.txt
+104B  24    Neagles           John              49        North Carolina    pg0093a.txt
+100A  19    Neagles           John              8         Warren County     pg0093a.txt
+100A  11    Neagles           Louisa J.         30        Warren County     pg0093a.txt
+100A  10    Neagles           Martha O.?        50        Virginia          pg0093a.txt
+104B  29    Neagles           Mary              3         Barren County     pg0093a.txt
+100A  13    Neagles           Matilder          23        Warren County     pg0093a.txt
+104B  28    Neagles           Miles             9         Barren County     pg0093a.txt
+100A  12    Neagles           Riley             24        Warren County     pg0093a.txt
+104B  25    Neagles           Sarah             33        Virginia          pg0093a.txt
+100A  18    Neagles           Susan             10        Warren County     pg0093a.txt
+100A  15    Neagles           Talbert           17        Warren County     pg0093a.txt
+104B  26    Neagles           William           13        Barren County     pg0093a.txt
+133B  35    Nelson            Arena             11        Kentucky          pg0121a.txt
+133B  36    Nelson            Arnold            7         Kentucky          pg0121a.txt
+133B  38    Nelson            Bird              4         Kentucky          pg0121a.txt
+133B  34    Nelson            Caroline          14        Kentucky          pg0121a.txt
+133B  31    Nelson            James             44        Kentucky          pg0121a.txt
+79A   42    Nelson            Louisa J.         2         .                 pg0079a.txt
+133B  33    Nelson            Samuel            17        Kentucky          pg0121a.txt
+133B  32    Nelson            Sarah             35        Kentucky          pg0121a.txt
+133B  37    Nelson            William           6         Kentucky          pg0121a.txt
+142A  16    Noe               Alexander         10        Kentucky          pg0139a.txt
+139B  23    Noe               Ara               6         Kentucky          pg0139a.txt
+142A  7     Noe               Ara               12        Kentucky          pg0139a.txt
+141B  40    Noe               Asa               4         Kentucky          pg0139a.txt
+142A  8     Noe               Daniel            10        Kentucky          pg0139a.txt
+139B  17    Noe               David             19        Kentucky          pg0139a.txt
+139B  16    Noe               Edward            20        Kentucky          pg0139a.txt
+135B  33    Noe               Elizabeth         35        Kentucky          pg0121a.txt
+139B  20    Noe               Elizabeth         13        Kentucky          pg0139a.txt
+141B  35    Noe               Ellen             13        Kentucky          pg0139a.txt
+142A  12    Noe               Elom              15        Kentucky          pg0139a.txt
+141B  38    Noe               Etty/Elly         7         Kentucky          pg0139a.txt
+142A  15    Noe               Floritta?         11        Kentucky          pg0139a.txt
+139B  14    Noe               George            44        Kentucky          pg0139a.txt
+135B  38    Noe               Hazias/Hozias     3         Kentucky          pg0121a.txt
+80B   15    Noe               Henry S.?         2         Green County      pg0079a.txt
+125B  25    Noe               James             2         Kentucky          pg0121a.txt
+135B  36    Noe               James             10        Kentucky          pg0121a.txt
+142A  5     Noe               James             16        Kentucky          pg0139a.txt
+80B   11    Noe               James W.          29        Green County      pg0079a.txt
+142A  3     Noe               Jenetta           40        Kentucky          pg0139a.txt
+142A  13    Noe               Jesse             14        Kentucky          pg0139a.txt
+139B  18    Noe               John              17        Kentucky          pg0139a.txt
+80B   13    Noe               John W.           6         Green County      pg0079a.txt
+125B  23    Noe               Julia             29        Kentucky          pg0121a.txt
+135B  34    Noe               Landen            22        Kentucky          pg0121a.txt
+142A  18    Noe               Luraney           7         Kentucky          pg0139a.txt
+125B  22    Noe               M. C.             42        Kentucky          pg0121a.txt
+141B  37    Noe               Malinda           9         Kentucky          pg0139a.txt
+142A  10    Noe               Malinda           37        Kentucky          pg0139a.txt
+142A  19    Noe               Malinda           5         Kentucky          pg0139a.txt
+135B  37    Noe               Malvina           7         Kentucky          pg0121a.txt
+135B  35    Noe               Margaret          15        Kentucky          pg0121a.txt
+125B  24    Noe               Mary              4         Kentucky          pg0121a.txt
+139B  15    Noe               Mary              40        Kentucky          pg0139a.txt
+139B  21    Noe               Mary              11        Kentucky          pg0139a.txt
+141B  34    Noe               Mary              32        Kentucky          pg0139a.txt
+142A  17    Noe               Merlin            9         Kentucky          pg0139a.txt
+142A  14    Noe               Minerva           12        Kentucky          pg0139a.txt
+135B  32    Noe               Nancy             61        Virginia          pg0121a.txt
+139B  22    Noe               Nancy             8         Kentucky          pg0139a.txt
+141B  41    Noe               Nancy             2         Kentucky          pg0139a.txt
+142A  6     Noe               Nancy             14        Kentucky          pg0139a.txt
+80B   14    Noe               Nancy A.          3         Green County      pg0079a.txt
+141B  33    Noe               Redman            37        Kentucky          pg0139a.txt
+142A  9     Noe               Royal             39        Kentucky          pg0139a.txt
+139B  19    Noe               Samuel            15        Kentucky          pg0139a.txt
+139B  24    Noe               Sarah             4         Kentucky          pg0139a.txt
+141B  36    Noe               Susan             11        Kentucky          pg0139a.txt
+80B   12    Noe               Therisa?          28        Green County      pg0079a.txt
+135B  31    Noe               William           63        Virginia          pg0121a.txt
+141B  39    Noe               William           5         Kentucky          pg0139a.txt
+142A  4     Noe               William           17        Kentucky          pg0139a.txt
+142A  11    Noe               William           16        Kentucky          pg0139a.txt
+151A  34    Northern          Joseph            40        North Carolina    pg0139a.txt
+            
+87A   22    Obryant           Charles           23        Nelson County     pg0079a.txt
+106A  6     Orr               Allexander        54        Virginia          pg0093a.txt
+106A  9     Orr               Elizabeth T.      22        Green County      pg0093a.txt
+106A  8     Orr               James M.          23        Green County      pg0093a.txt
+106A  12    Orr               LaFemians? A.     13        Green County      pg0093a.txt
+106A  11    Orr               Martha L.         16        Green County      pg0093a.txt
+106A  10    Orr               Mary M.           18        Green County      pg0093a.txt
+106A  7     Orr               Rebeca            45        Tennessee         pg0093a.txt
+106A  14    Orr               Robert A.         10        Green County      pg0093a.txt
+106A  15    Orr               Sarah             56        Virginia          pg0093a.txt
+106A  13    Orr               William C.        12        Green County      pg0093a.txt
+108A  1     Overton           Allen             23        Virginia          pg0107a.txt
+135A  19    Owens             Benjamine         4/12      Kentucky          pg0121a.txt
+109B  20    Owens             Cleopatry         11        Green County      pg0107a.txt
+109B  17    Owens             Edward            28        Green County      pg0107a.txt
+135A  18    Owens             Elizabeth         4         Kentucky          pg0121a.txt
+135A  16    Owens             Ellen             28        Kentucky          pg0121a.txt
+109B  18    Owens             Emily             21        Green County      pg0107a.txt
+134A  10    Owens             Isabella          58        North Carolina    pg0121a.txt
+135A  15    Owens             John              29        Kentucky          pg0121a.txt
+109B  21    Owens             Jordan            6         Green County      pg0107a.txt
+109B  15    Owens             Jordan O.         54        Virginia          pg0107a.txt
+109B  19    Owens             Luvina            16        Green County      pg0107a.txt
+109B  16    Owens             Ruth              47        Virginia          pg0107a.txt
+134A  8     Owens             Signal            67        Virginia          pg0121a.txt
+135A  17    Owens             William           7         Kentucky          pg0121a.txt
+            
+112A  41    Packlin           Allexander        19        Green County      pg0107a.txt
+109B  23    Pane              Clary             52        New York          pg0107a.txt
+109B  27    Pane              James M.          21        Virginia          pg0107a.txt
+109B  28    Pane              John              1         Green County      pg0107a.txt
+109B  22    Pane              John C.           68        Virginia          pg0107a.txt
+109B  25    Pane              Louesa            24        Virginia          pg0107a.txt
+109B  24    Pane              Mary              26        Virginia          pg0107a.txt
+109B  26    Pane              Susan             22        Virginia          pg0107a.txt
+152A  15    Parker            Charity           5         Kentucky          pg0139a.txt
+152A  18    Parker            David             26        Kentucky          pg0139a.txt
+152A  31    Parker            David             5         Kentucky          pg0139a.txt
+152A  25    Parker            Edward            34        Kentucky          pg0139a.txt
+152A  12    Parker            Elizabeth         21        Kentucky          pg0139a.txt
+152A  23    Parker            Elizabeth         6/12      Kentucky          pg0139a.txt
+152A  28    Parker            Fisher            15        Kentucky          pg0139a.txt
+152A  26    Parker            Frances           31        Kentucky          pg0139a.txt
+152A  17    Parker            James             6         Kentucky          pg0139a.txt
+152A  36    Parker            John              4         Kentucky          pg0139a.txt
+152A  11    Parker            Joseph            25        Kentucky          pg0139a.txt
+152A  22    Parker            Julia             4         Kentucky          pg0139a.txt
+152A  14    Parker            Lydia             11        Kentucky          pg0139a.txt
+152A  33    Parker            Maragaret         29        Kentucky          pg0139a.txt
+152A  21    Parker            Margaret          6         Kentucky          pg0139a.txt
+152A  10    Parker            Mary              40        Kentucky          pg0139a.txt
+152A  13    Parker            Mary              15        Kentucky          pg0139a.txt
+152A  29    Parker            Mary              11        Kentucky          pg0139a.txt
+152A  20    Parker            Miram             8         Kentucky          pg0139a.txt
+152A  9     Parker            Moses             55        Georgia           pg0139a.txt
+152A  24    Parker            Moses             11        Kentucky          pg0139a.txt
+152A  32    Parker            Nancy             3/12      Kentucky          pg0139a.txt
+152A  35    Parker            Nancy             6         Kentucky          pg0139a.txt
+152A  34    Parker            Pelissa           8         Kentucky          pg0139a.txt
+152A  19    Parker            Polly             24        Kentucky          pg0139a.txt
+152A  30    Parker            Sarah             10        Kentucky          pg0139a.txt
+152A  37    Parker            Sarah             1/12      Kentucky          pg0139a.txt
+152A  16    Parker            Thomas            13        Kentucky          pg0139a.txt
+152A  27    Parker            William           17        Kentucky          pg0139a.txt
+97B   31    Parsons           Andrew Jackson    2         Green County      pg0093a.txt
+97B   30    Parsons           Elizabeth         3         Green County      pg0093a.txt
+97B   28    Parsons           Larry/Lenny W.    35        Green County      pg0093a.txt
+97B   34    Parsons           Sarah             71        Virginia          pg0093a.txt
+97B   32    Parsons           Sarah             4/12      Green County      pg0093a.txt
+97B   29    Parsons           Sarah A.          25        Missouri          pg0093a.txt
+97B   33    Parsons           Thomas            101       Virginia          pg0093a.txt
+97A   20    Patrick           Elizabeth         6         Green County      pg0093a.txt
+97A   19    Patrick           Martha            43        Green County      pg0093a.txt
+97A   18    Patrick           William B.        58        South Carolina    pg0093a.txt
+80B   32    Patten            Allexander L.     10        Green County      pg0079a.txt
+80B   33    Patten            Harriet A.        8         Green County      pg0079a.txt
+80B   34    Patten            Joshua S.         6         Green County      pg0079a.txt
+80B   28    Patten            Lary/Lany S.      18        Green County      pg0079a.txt
+80B   26    Patten            Laury J.          39        Green County      pg0079a.txt
+80B   24    Patten            Margarett W.      43        Green County      pg0079a.txt
+80B   35    Patten            Martha H.         3         Green County      pg0079a.txt
+80B   30    Patten            Mary O.           15        Green County      pg0079a.txt
+80B   29    Patten            Melissa B.        17        Green County      pg0079a.txt
+80B   36    Patten            Nancy F.          2         Green County      pg0079a.txt
+80B   25    Patten            Sarah             74        South Carolina    pg0079a.txt
+80B   27    Patten            Sarah E.          20        Green County      pg0079a.txt
+80B   31    Patten            Sophronia O.      13        Green County      pg0079a.txt
+80B   23    Patten            William S.        47        Green County      pg0079a.txt
+117B  30    Patterson         An M.             3         Green County      pg0107a.txt
+117B  28    Patterson         Charles           35        Green County      pg0107a.txt
+119B  17    Patterson         Dover             76        Virginia          pg0107a.txt
+119B  25    Patterson         Edy               18        Green County      pg0107a.txt
+117B  31    Patterson         Elizabeth M.      1         Green County      pg0107a.txt
+117B  29    Patterson         Ellen M.          27        Green County      pg0107a.txt
+119B  18    Patterson         Fanny             62        Virginia          pg0107a.txt
+119B  24    Patterson         Harris            47        Green County      pg0107a.txt
+103B  13    Patterson         John W.           46        Washington Co.    pg0093a.txt
+103B  15    Patterson         Leroy             16        Green County      pg0093a.txt
+121A  13    Patterson         Margaret          18        Kentucky          pg0121a.txt
+117B  32    Patterson         Mary              56        Woodford Co.      pg0107a.txt
+103B  20    Patterson         Mary M.           2         Green County      pg0093a.txt
+103B  14    Patterson         Resy              37        Barren County     pg0093a.txt
+103B  17    Patterson         Sarindy?          8         Green County      pg0093a.txt
+103B  16    Patterson         Sinthy A.         12        Green County      pg0093a.txt
+103B  18    Patterson         Solotia?          6         Green County      pg0093a.txt
+119B  26    Patterson         Thomas            16        Green County      pg0107a.txt
+103B  19    Patterson         William M.        4         Green County      pg0093a.txt
+108A  34    Pattrson?         Catharine         15        Green Conty       pg0107a.txt
+108A  33    Pattrson?         Elizabeth         18        Green Conty       pg0107a.txt
+108A  36    Pattrson?         Franklin          28        Adair County      pg0107a.txt
+108A  37    Pattrson?         Mary A.           26        Adair County      pg0107a.txt
+108A  32    Pattrson?         Susan             57        South Carolina    pg0107a.txt
+108A  35    Pattrson?         William           13        Green Conty       pg0107a.txt
+112A  10    Paxston           Margaret          4         .                 pg0107a.txt
+112A  9     Paxston           Sarah             50        Green County      pg0107a.txt
+99B   34    Paxten            John M.           44        Green County      pg0093a.txt
+99B   38    Paxten            Lucy M.           13        Green County      pg0093a.txt
+99B   36    Paxten            Margaret A.       12        Green County      pg0093a.txt
+99B   37    Paxten            Peggy             44        Green County      pg0093a.txt
+99B   35    Paxten            Samuel M.         16        Green County      pg0093a.txt
+99B   39    Paxten            William           16        Green County      pg0093a.txt
+112B  8     Paxton            Daniel            6         Green County      pg0107a.txt
+111A  14    Paxton            James J.          20        Green County      pg0107a.txt
+112B  42    Paxton            John W.           8         Green County      pg0107a.txt
+112B  6     Paxton            Johnathan         36        Green County      pg0107a.txt
+111A  17    Paxton            July              8         Green County      pg0107a.txt
+112B  7     Paxton            Margaret          38        Green County      pg0107a.txt
+111A  12    Paxton            Martha            21        Green County      pg0107a.txt
+111A  11    Paxton            Mary              45        Virginia          pg0107a.txt
+111A  15    Paxton            Mary?             15        Green County      pg0107a.txt
+112B  9     Paxton            Rebecca           2         Green County      pg0107a.txt
+112B  5     Paxton            Robert            24        Green County      pg0107a.txt
+111A  13    Paxton            Sarah             16        Green County      pg0107a.txt
+111A  10    Paxton            William           51        Virginia          pg0107a.txt
+111A  16    Paxton            William           13        Green County      pg0107a.txt
+88B   1     Pearce            Eliza             30        Butler County     pg0079a.txt
+103A  36    Pearce            Elizabeth J.      1         Barrrn County     pg0093a.txt
+88B   41    Pearce            Elsey             3         Green County      pg0079a.txt
+103A  35    Pearce            George W.         4         Barren County     pg0093a.txt
+103A  29    Pearce            James J.          34        Barren County     pg0093a.txt
+103A  32    Pearce            James M.          10        Barren County     pg0093a.txt
+103A  30    Pearce            Jane              34        Barren County     pg0093a.txt
+88B   3     Pearce            John A.           8         Green County      pg0079a.txt
+103A  31    Pearce            John N.           12        Barren County     pg0093a.txt
+103A  34    Pearce            Joseph            5         Barren County     pg0093a.txt
+88B   4     Pearce            Nancy J.          5         Green County      pg0079a.txt
+88A   42    Pearce            Paskel            33        Barren County     pg0079a.txt
+88B   5     Pearce            Walter L.         1         Green County      pg0079a.txt
+88B   2     Pearce            William G.        10        Green County      pg0079a.txt
+103A  33    Pearce            William J.        8         Barren County     pg0093a.txt
+128B  38    Pemberton         Martha            20        Kentucky          pg0121a.txt
+100A  3     Penick            Benjamin W.       11        Green County      pg0093a.txt
+100A  4     Penick            Elizabeth M.      4         Green County      pg0093a.txt
+99B   42    Penick            Garland A.        2         Green County      pg0093a.txt
+100A  2     Penick            John J.           14        Green County      pg0093a.txt
+100A  7     Penick            Louisa O.         9         Green County      pg0093a.txt
+100A  5     Penick            Martha C.         16        Green County      pg0093a.txt
+99B   41    Penick            Martha W.         24        Green County      pg0093a.txt
+100A  6     Penick            Mary E.           13        Green County      pg0093a.txt
+100A  1     Penick            Thomas B.         41        Virginia          pg0093a.txt
+99B   40    Penick            William O.        26        Green County      pg0093a.txt
+153A  27    Pepper            Daniel            70        North Carolina    pg0139a.txt
+153A  30    Pepper            Elizabeth         32        Kentucky          pg0139a.txt
+153A  31    Pepper            Gideon            10        Kentucky          pg0139a.txt
+153A  32    Pepper            Joseph            9         Kentucky          pg0139a.txt
+153A  28    Pepper            Mary              70        Virginia          pg0139a.txt
+153A  35    Pepper            Mary              8/12      Kentucky          pg0139a.txt
+153A  34    Pepper            Nancy             5         Kentucky          pg0139a.txt
+153A  33    Pepper            Thomas            7         Kentucky          pg0139a.txt
+153A  29    Pepper            William           40        Missouri          pg0139a.txt
+138B  15    Perkins           Abram             68        North Carolina    pg0121a.txt
+138B  11    Perkins           Abriam            10        Kentucky          pg0121a.txt
+134B  23    Perkins           Allen             2         Kentucky          pg0121a.txt
+137B  6     Perkins           Arena             13        Kentucky          pg0121a.txt
+137B  7     Perkins           Arminta           12        Kentucky          pg0121a.txt
+137B  5     Perkins           Benjamine         16        Kentucky          pg0121a.txt
+138B  8     Perkins           Catharine         17        Kentucky          pg0121a.txt
+152B  36    Perkins           Claiborn          24        Kentucky          pg0139a.txt
+141B  16    Perkins           David             9         Kentucky          pg0139a.txt
+141B  13    Perkins           Edward            17        Kentucky          pg0139a.txt
+133B  21    Perkins           Eliza             3         Kentucky          pg0121a.txt
+137B  8     Perkins           Eliza             10        Kentucky          pg0121a.txt
+133B  20    Perkins           Elizabeth         5         Kentucky          pg0121a.txt
+137B  11    Perkins           Elizabeth         4         Kentucky          pg0121a.txt
+136A  6     Perkins           Elom              41        North Carolina    pg0121a.txt
+137B  3     Perkins           Elom              56        North Carolina    pg0121a.txt
+136A  17    Perkins           Fatima            2         Kentucky          pg0121a.txt
+141B  14    Perkins           Fielding          13        Kentucky          pg0139a.txt
+136A  18    Perkins           George            1         Kentucky          pg0121a.txt
+150B  13    Perkins           George            4         Kentucky          pg0139a.txt
+136A  27    Perkins           Henry             70        North Carolina    pg0121a.txt
+133B  19    Perkins           Jackson           7         Kentucky          pg0121a.txt
+138B  12    Perkins           Jacob             7         Kentucky          pg0121a.txt
+133B  17    Perkins           James             30        Kentucky          pg0121a.txt
+136A  8     Perkins           James             21        Kentucky          pg0121a.txt
+137B  10    Perkins           James             6         Kentucky          pg0121a.txt
+138B  9     Perkins           James             14        Kentucky          pg0121a.txt
+150B  12    Perkins           James             9         Kentucky          pg0139a.txt
+138B  16    Perkins           Jane              65        North Carolina    pg0121a.txt
+136A  10    Perkins           Jesse             16        Kentucky          pg0121a.txt
+136A  19    Perkins           Jesse             67        North Carolina    pg0121a.txt
+136A  21    Perkins           Jesse             21        Kentucky          pg0121a.txt
+134B  20    Perkins           John              8         Kentucky          pg0121a.txt
+138B  13    Perkins           John              5         Kentucky          pg0121a.txt
+150B  11    Perkins           John              12        Kentucky          pg0139a.txt
+152B  38    Perkins           John              3         Kentucky          pg0139a.txt
+79B   39    Perkins           Joseph H.         27        Green County      pg0079a.txt
+137B  4     Perkins           Julia             48        North Carolina    pg0121a.txt
+136A  15    Perkins           Malinda           6         Kentucky          pg0121a.txt
+136A  16    Perkins           Margaret          4         Kentucky          pg0121a.txt
+141B  15    Perkins           Margaret          11        Kentucky          pg0139a.txt
+150B  9     Perkins           Martha            18        Virginia          pg0139a.txt
+134B  19    Perkins           Mary              37        Kentucky          pg0121a.txt
+136A  9     Perkins           Mary              20        Kentucky          pg0121a.txt
+138B  7     Perkins           Mary              41        Kentucky          pg0121a.txt
+141B  12    Perkins           Mary              33        Kentucky          pg0139a.txt
+136A  7     Perkins           Milly             38        Kentucky          pg0121a.txt
+133B  18    Perkins           Nancy             27        Kentucky          pg0121a.txt
+136A  12    Perkins           Nancy             12        Kentucky          pg0121a.txt
+136A  20    Perkins           Nancy             58        North Carolina    pg0121a.txt
+137B  9     Perkins           Nancy             8         Kentucky          pg0121a.txt
+138B  14    Perkins           Nancy             3         Kentucky          pg0121a.txt
+150B  7     Perkins           Nancy             55        Virginia          pg0139a.txt
+150B  8     Perkins           Nancy             22        North Carolina    pg0139a.txt
+152B  37    Perkins           Nancy             22        Kentucky          pg0139a.txt
+138B  10    Perkins           Palina            11        Kentucky          pg0121a.txt
+150B  6     Perkins           Peter             66        Virginia          pg0139a.txt
+150B  10    Perkins           Peter             14        Kentucky          pg0139a.txt
+134B  22    Perkins           Pleasant          4         Kentucky          pg0121a.txt
+138B  6     Perkins           Pleasant          44        North Carolina    pg0121a.txt
+136A  13    Perkins           Rhoda             10        Kentucky          pg0121a.txt
+136A  14    Perkins           Royal             8         Kentucky          pg0121a.txt
+133B  22    Perkins           Sarah             2         Kentucky          pg0121a.txt
+134B  18    Perkins           Stephen           40        Kentucky          pg0121a.txt
+134B  21    Perkins           William           6         Kentucky          pg0121a.txt
+136A  11    Perkins           William           14        Kentucky          pg0121a.txt
+141B  11    Perkins           William           38        Virginia          pg0139a.txt
+141B  17    Perkins           William           8         Kentucky          pg0139a.txt
+152B  39    Perkins           William           2         Kentucky          pg0139a.txt
+80A   1     Perkins           William F.        1         Green County      pg0079a.txt
+83B   33    Perkins           Mary A.           48        Barren County     pg0079a.txt
+123A  36    Perry             Anna              9         Kentucky          pg0121a.txt
+123A  39    Perry             Augustus          1/12      Kentucky          pg0121a.txt
+123A  38    Perry             John              4         Kentucky          pg0121a.txt
+123A  34    Perry             John B.           38        Kentucky          pg0121a.txt
+117A  12    Perry             Joseph T.         23        Adair County      pg0107a.txt
+123A  37    Perry             Margaret          7         Kentucky          pg0121a.txt
+123A  35    Perry             Mary              37        Kentucky          pg0121a.txt
+131B  16    Pervis?           James             65        Maryland          pg0121a.txt
+131B  17    Pervis?           Margaret          60        Maryland          pg0121a.txt
+146B  23    Petite            Elizabeth         36        Tennessee         pg0139a.txt
+146B  27    Petite            Jefferson         6         Kentucky          pg0139a.txt
+146B  26    Petite            John              8         Kentucky          pg0139a.txt
+146B  28    Petite            Joshua            3         Kentucky          pg0139a.txt
+146B  22    Petite            Pleasant          33        Tennessee         pg0139a.txt
+146B  24    Petite            Rachel            29        Tennessee         pg0139a.txt
+146B  29    Petite            Sarah             1         Kentucky          pg0139a.txt
+97A   21    Philips           James I./G.?      16        Green County      pg0093a.txt
+97A   22    Philips           Mariah S.         14        Green County      pg0093a.txt
+105A  41    Phillips          Dabney A.         10        Green County      pg0093a.txt
+105A  39    Phillips          Elizabeth         18        Green County      pg0093a.txt
+105A  35    Phillips          John C.           63        North Carolina    pg0093a.txt
+105A  40    Phillips          John W.           13        Green County      pg0093a.txt
+105A  36    Phillips          Mathilda          53        Virginia          pg0093a.txt
+105A  37    Phillips          Nancy             23        Hart County       pg0093a.txt
+105A  38    Phillips          Sarah             20        Green County      pg0093a.txt
+84A   38    Philpot           David A.          12        .                 pg0079a.txt
+84A   31    Philpot           Elizabeth         28        Green County      pg0079a.txt
+84A   36    Philpot           George W.         3         .                 pg0079a.txt
+84A   37    Philpot           Henry             6/12      .                 pg0079a.txt
+84A   35    Philpot           Jack T.           5         .                 pg0079a.txt
+117B  22    Philpot           John              19        Green County      pg0107a.txt
+84A   39    Philpot           Lewis             10        .                 pg0079a.txt
+95B   29    Philpot           Martha J.         22        Green County      pg0093a.txt
+95B   30    Philpot           Mary W.           10/12     Green County      pg0093a.txt
+84A   34    Philpot           Sarah E.          6         .                 pg0079a.txt
+95B   28    Philpot           William N.        22        Green County      pg0093a.txt
+142A  38    Piece             Daniel            10        Kentucky          pg0139a.txt
+139A  9     Piece             Elizabeth         27        Kentucky          pg0139a.txt
+148A  1     Piece             Elizabeth         11/12     Kentucky          pg0139a.txt
+147B  39    Piece             Emily             11        Kentucky          pg0139a.txt
+147B  41    Piece             Ewell             7         Kentucky          pg0139a.txt
+155B  27    Piece             James             35        Kentucky          pg0139a.txt
+155B  28    Piece             Jane              29        Kentucky          pg0139a.txt
+142A  37    Piece             Joseph            11        Kentucky          pg0139a.txt
+139A  7     Piece             Mary              63        North Carolina    pg0139a.txt
+139A  10    Piece             Mary              22        Kentucky          pg0139a.txt
+147B  38    Piece             Mary              27        Kentucky          pg0139a.txt
+142A  34    Piece             Nancy             60        Kentucky          pg0139a.txt
+147B  40    Piece             Nancy             9         Kentucky          pg0139a.txt
+139A  8     Piece             Priscilla         33        Kentucky          pg0139a.txt
+147B  42    Piece             Priscilla         4         Kentucky          pg0139a.txt
+142A  41    Piece             Robert            3         Kentucky          pg0139a.txt
+147B  37    Piece             Robert            35        Kentucky          pg0139a.txt
+142A  36    Piece             Sarah             43        Kentucky          pg0139a.txt
+139A  6     Piece             Simon             61        Virginia          pg0139a.txt
+142A  40    Piece             Thomas            5         Kentucky          pg0139a.txt
+142A  35    Piece             William           41        Kentucky          pg0139a.txt
+142A  39    Piece             William           8         Kentucky          pg0139a.txt
+145B  34    Pierce            Amanda            15        Kentucky          pg0139a.txt
+145A  29    Pierce            Elizabeth         47        Kentucky          pg0139a.txt
+146A  20    Pierce            Elizabeth         24        Kentucky          pg0139a.txt
+132A  15    Pierce            George            1         Kentucky          pg0121a.txt
+145B  35    Pierce            George            14        Kentucky          pg0139a.txt
+146A  19    Pierce            George            26        Kentucky          pg0139a.txt
+145B  37    Pierce            Henry             4         Kentucky          pg0139a.txt
+145A  32    Pierce            Jackson           16        Kentucky          pg0139a.txt
+145A  28    Pierce            Jacob             60        Kentucky          pg0139a.txt
+145A  37    Pierce            Jacob             5/12      Kentucky          pg0139a.txt
+132A  11    Pierce            James             19        Kentucky          pg0121a.txt
+145A  34    Pierce            James             11        Kentucky          pg0139a.txt
+145B  32    Pierce            James             21        Kentucky          pg0139a.txt
+145B  31    Pierce            Jane              46        Kentucky          pg0139a.txt
+146A  24    Pierce            Jane              16        Kentucky          pg0139a.txt
+146A  17    Pierce            Jemimah           53        Kentucky          pg0139a.txt
+132A  9     Pierce            John              40        Kentucky          pg0121a.txt
+132A  14    Pierce            John              10        Kentucky          pg0121a.txt
+146A  21    Pierce            John              21        Kentucky          pg0139a.txt
+132A  10    Pierce            Lethia/Lethice    39        Kentucky          pg0121a.txt
+146A  18    Pierce            Lucy              31        Kentucky          pg0139a.txt
+145A  31    Pierce            Mahala            21        Kentucky          pg0139a.txt
+145A  35    Pierce            Malinda           17        Kentucky          pg0139a.txt
+145B  38    Pierce            Marion            4         Kentucky          pg0139a.txt
+146A  25    Pierce            Martha            14        Kentucky          pg0139a.txt
+145A  36    Pierce            Mary S.           6         Kentucky          pg0139a.txt
+145B  40    Pierce            Milton            7/12      Kentucky          pg0139a.txt
+132A  12    Pierce            Nancy             16        Kentucky          pg0121a.txt
+145B  33    Pierce            Nancy             17        Kentucky          pg0139a.txt
+146A  23    Pierce            Nancy             18        Kentucky          pg0139a.txt
+146A  22    Pierce            Polly             19        Kentucky          pg0139a.txt
+145A  30    Pierce            Richard           26        Kentucky          pg0139a.txt
+145B  39    Pierce            Thomas            3         Kentucky          pg0139a.txt
+132A  13    Pierce            William           13        Kentucky          pg0121a.txt
+145A  33    Pierce            William           14        Kentucky          pg0139a.txt
+145B  30    Pierce            William           45        Kentucky          pg0139a.txt
+145B  36    Pierce            William           12        Kentucky          pg0139a.txt
+146A  16    Pierce            William           67        Kentucky          pg0139a.txt
+94A   21    Piper             Catharine         9         Green County      pg0093a.txt
+94A   22    Piper             Francis           3         Green County      pg0093a.txt
+94A   18    Piper             James             45        Barren County     pg0093a.txt
+94A   23    Piper             John              1         Green County      pg0093a.txt
+94A   19    Piper             Morgan            13        Green County      pg0093a.txt
+94A   20    Piper             Winston           11        Green County      pg0093a.txt
+94B   1     Pitman            Amand E.          2         Green County      pg0093a.txt
+94A   40    Pitman            Jesse             28        Tennessee         pg0093a.txt
+94A   42    Pitman            Lousania H.       5         Green County      pg0093a.txt
+94A   41    Pitman            Sophronia P.      26        Green County      pg0093a.txt
+102A  28    Pointer           Betsy             8/12      Green County      pg0093a.txt
+102A  25    Pointer           Catharine         6         Green County      pg0093a.txt
+102A  26    Pointer           Ellen             11        Green County      pg0093a.txt
+102A  27    Pointer           Francis           4         Green County      pg0093a.txt
+102A  22    Pointer           George W.         30        Green County      pg0093a.txt
+102A  23    Pointer           Jane              25        Green County      pg0093a.txt
+102A  24    Pointer           Martha            9         Green County      pg0093a.txt
+99B   2     Pond              Allis E.          50        Virginia          pg0093a.txt
+99B   4     Pond              Clementina        22        Virginia          pg0093a.txt
+99B   5     Pond              Edward A.         19        Virginia          pg0093a.txt
+99B   9     Pond              Henry W.          8         Virginia          pg0093a.txt
+99B   8     Pond              Louisa M.         14        Virginia          pg0093a.txt
+99B   3     Pond              Pernelia          23        Virginia          pg0093a.txt
+99B   1     Pond              Richard           65        Virginia          pg0093a.txt
+99B   6     Pond              Richard R.        17        Virginia          pg0093a.txt
+99B   7     Pond              William N.        11        Virginia          pg0093a.txt
+106B  34    Poor              Edward G.         45        Virginia          pg0093a.txt
+106B  35    Poor              Mary S.           45        Virginia          pg0093a.txt
+106B  36    Poor              William           18        Green County      pg0093a.txt
+153B  18    Porter            Caroline          45        Kentucky          pg0139a.txt
+153B  19    Porter            James             17        Kentucky          pg0139a.txt
+153B  20    Porter            Julia             15        Kentucky          pg0139a.txt
+113B  28    Potter            Jackson           24        Green County      pg0107a.txt
+113B  29    Potter            Pernilla          24        Virginia          pg0107a.txt
+144B  38    Potts             David             60        Kentucky          pg0139a.txt
+144B  41    Potts             Ellen             10        Kentucky          pg0139a.txt
+144B  39    Potts             Eveline           40        Kentucky          pg0139a.txt
+144B  40    Potts             Polly             18        Kentucky          pg0139a.txt
+88A   14    Pounds            Amanda F.         7         .                 pg0079a.txt
+88A   15    Pounds            Anderson          4         .                 pg0079a.txt
+88A   12    Pounds            Ann               27        Virginia          pg0079a.txt
+88A   18    Pounds            Edmond            26        .                 pg0079a.txt
+88A   34    Pounds            Evaline           20        Virginia          pg0079a.txt
+88A   16    Pounds            Harriet           3         .                 pg0079a.txt
+88A   13    Pounds            Isabela           13        .                 pg0079a.txt
+88A   17    Pounds            Richard           1         .                 pg0079a.txt
+105A  28    Prewit            George            22        Green County      pg0093a.txt
+105A  30    Prewit            James A.          1         Green County      pg0093a.txt
+105A  29    Prewit            Lucy A.           40        Barren County     pg0093a.txt
+141B  22    Prewitt           Nancy             11        Kentucky          pg0139a.txt
+131A  14    Price             Benjamine         14        Kentucky          pg0121a.txt
+131A  13    Price             Dorothy           23        Kentucky          pg0121a.txt
+104B  18    Price             Eliza I.          1         Green County      pg0093a.txt
+104B  17    Price             Elizabeth         4         Green County      pg0093a.txt
+118A  19    Price             Emily             8         Green County      pg0107a.txt
+118A  20    Price             Georg             6         Green County      pg0107a.txt
+104B  20    Price             George            29        Green County      pg0093a.txt
+117B  20    Price             George            12        Green County      pg0107a.txt
+118A  13    Price             Graves            47        Green County      pg0107a.txt
+99A   13    Price             James L.          20        Green County      pg0093a.txt
+104B  21    Price             Jane              20        Green County      pg0093a.txt
+156A  23    Price             Jane              25        Kentucky          pg0139a.txt
+131A  12    Price             John              41        Kentucky          pg0121a.txt
+131A  16    Price             John              2         Kentucky          pg0121a.txt
+118A  17    Price             John              13        Green County      pg0107a.txt
+117B  17    Price             Joseph            45        Adair County      pg0107a.txt
+117B  19    Price             Josephine         16        Green County      pg0107a.txt
+114B  14    Price             Marcy? E.         34        Green County      pg0107a.txt
+145B  28    Price             Martha            4         Kentucky          pg0139a.txt
+118A  16    Price             Martha A.         17        Green County      pg0107a.txt
+104B  15    Price             Mary F.           21        Green County      pg0093a.txt
+104B  19    Price             Micajah?          21        Green County      pg0093a.txt
+145B  27    Price             Nancy             13        Kentucky          pg0139a.txt
+118A  14    Price             Richard F.        21        Green County      pg0107a.txt
+117B  18    Price             Sarah             28        Green County      pg0107a.txt
+118A  18    Price             Sarah             10        Green County      pg0107a.txt
+104B  16    Price             Thomas J.         5         Green County      pg0093a.txt
+117B  21    Price             Wesley            10        Green County      pg0107a.txt
+118A  15    Price             William           18        Green County      pg0107a.txt
+131A  15    Price             William           7         Kentucky          pg0121a.txt
+104B  31    Pruit             Malinda           23        Casey County      pg0093a.txt
+104B  33    Pruit             Matilda J.        6         Casey County      pg0093a.txt
+104B  34    Pruit             Nancy E.          4         Casey County      pg0093a.txt
+104B  35    Pruit             Preston K.        2         Casey County      pg0093a.txt
+104B  32    Pruit             Samuel H.         8         Casey County      pg0093a.txt
+104B  30    Pruit             Willis            26        Cumberland Co.    pg0093a.txt
+131B  26    Purdy             George            13        Kentucky          pg0121a.txt
+            
+80A   29    Queshenbury       Elizabeth J.      26        Green County      pg0079a.txt
+80A   28    Queshenbury       John W.           31        Green County      pg0079a.txt
+80A   31    Queshenbury       Margarett A.      4         Green County      pg0079a.txt
+80A   30    Queshenbury       Martha J.         6         Green County      pg0079a.txt
+80A   32    Queshenbury       Robert W.         2         Green County      pg0079a.txt
+80A   33    Queshenbury       Thomas            2/12      Green County      pg0079a.txt
+80A   35    Quisenbury        George            57        Virginia          pg0079a.txt
+80A   36    Quisenbury        Margarett         60        Virginia          pg0079a.txt
+            
+148B  42    Raffity           Catharine         3         Kentucky          pg0139a.txt
+148A  41    Raffity           Elizabeth         13        Kentucky          pg0139a.txt
+148A  35    Raffity           Fanny             13        Kentucky          pg0139a.txt
+148A  37    Raffity           Jane              25        Kentucky          pg0139a.txt
+148A  36    Raffity           John              45        Kentucky          pg0139a.txt
+148A  42    Raffity           John              11        Kentucky          pg0139a.txt
+148B  1     Raffity           Mary              9         Kentucky          pg0139a.txt
+148A  39    Raffity           Sarah             17        Kentucky          pg0139a.txt
+148A  40    Raffity           Susan             15        Kentucky          pg0139a.txt
+148B  2     Raffity           Thomas            7         Kentucky          pg0139a.txt
+126B  28    Raffity           William           19        Kentucky          pg0121a.txt
+148A  38    Raffity           William           19        Kentucky          pg0139a.txt
+112B  26    Read              Amanda            16        Green County      pg0107a.txt
+104B  13    Read              Berry             37        Green County      pg0093a.txt
+112B  29    Read              Berry             12        Green County      pg0107a.txt
+100B  20    Read              Berry M.          6         Green County      pg0093a.txt
+100B  19    Read              Elizabeth         8         Green County      pg0093a.txt
+100B  14    Read              Ellen             36        Barren County     pg0093a.txt
+112B  32    Read              Elvira            4         Green County      pg0107a.txt
+112B  35    Read              Emily C.          2         Green County      pg0107a.txt
+112B  27    Read              Isacc             15        Green County      pg0107a.txt
+100B  18    Read              James D.          10        Green County      pg0093a.txt
+100B  21    Read              John H.           4         Green County      pg0093a.txt
+100B  16    Read              Joseph H.         14        Green County      pg0093a.txt
+104B  14    Read              Kizy              34        Green County      pg0093a.txt
+112B  30    Read              Laurah            9         Green County      pg0107a.txt
+112B  36    Read              Lenora            2/12      Green County      pg0107a.txt
+112B  31    Read              Mariah            7         Green County      pg0107a.txt
+100B  22    Read              Martha A.         2         Green County      pg0093a.txt
+100B  15    Read              Mary J.           16        Green County      pg0093a.txt
+100B  13    Read              Mat               37        Green County      pg0093a.txt
+112B  33    Read              Parnilla          24        Green County      pg0107a.txt
+112B  25    Read              Peter             53        Tennessee         pg0107a.txt
+112B  28    Read              Sarah             13        Green County      pg0107a.txt
+100B  17    Read              William           12        Green County      pg0093a.txt
+112B  34    Read              William           4         Green County      pg0107a.txt
+154A  30    Reed              Nancy             68        Kentucky          pg0139a.txt
+155A  37    Reid              George            27        Kentucky          pg0139a.txt
+129B  16    Renfro            Ellen             24        Kentucky          pg0121a.txt
+129B  18    Renfro            Frances           9         Kentucky          pg0121a.txt
+129B  15    Renfro            James             33        Alabama           pg0121a.txt
+129B  20    Renfro            James             4         Kentucky          pg0121a.txt
+129B  21    Renfro            John              6/12      Kentucky          pg0121a.txt
+129B  17    Renfro            Mary              12        Kentucky          pg0121a.txt
+129B  19    Renfro            William           14        Kentucky          pg0121a.txt
+150B  28    Reynold           Alexander         26        Kentucky          pg0139a.txt
+79B   11    Rhea              Catherine M.      19        Green County      pg0079a.txt
+79B   15    Rhea              David             12        Green County      pg0079a.txt
+79B   10    Rhea              Elizabeth H.      30        Green County      pg0079a.txt
+81B   12    Rhea              Frances E.        14        Tennessee         pg0079a.txt
+81B   14    Rhea              George W.         8         Green County      pg0079a.txt
+79B   17    Rhea              James C.          4         Green County      pg0079a.txt
+79B   14    Rhea              John              14        Green County      pg0079a.txt
+81B   10    Rhea              John C.           38        Tennessee         pg0079a.txt
+81B   15    Rhea              John P.           7         Green County      pg0079a.txt
+79B   12    Rhea              Julia C.          18        Green County      pg0079a.txt
+79B   16    Rhea              Martha R.         9         Green County      pg0079a.txt
+80A   42    Rhea              Narssa M.         18        Green County      pg0079a.txt
+79B   9     Rhea              Polly             48        Green County      pg0079a.txt
+81B   16    Rhea              Rachel S.         1         Green County      pg0079a.txt
+81B   11    Rhea              Susan             49        Tennessee         pg0079a.txt
+79B   13    Rhea              Thomas            16        Green County      pg0079a.txt
+79B   8     Rhea              Thomas            52        Green County      pg0079a.txt
+81B   13    Rhea              William T.        10        Green County      pg0079a.txt
+153B  27    Richardson        Alfred            21        Kentucky          pg0139a.txt
+126A  35    Richardson        Fanny             3         Kentucky          pg0121a.txt
+135A  13    Richardson        Hannah            20        Kentucky          pg0121a.txt
+126A  30    Richardson        Harriet           26        Kentucky          pg0121a.txt
+128A  9     Richardson        Henry             3         Kentucky          pg0121a.txt
+126A  34    Richardson        James             3         Kentucky          pg0121a.txt
+126A  29    Richardson        Lucinda           23        Kentucky          pg0121a.txt
+126A  36    Richardson        Mary              2/12      Kentucky          pg0121a.txt
+128A  10    Richardson        Mary              5         Kentucky          pg0121a.txt
+128A  7     Richardson        Melissa           26        Kentucky          pg0121a.txt
+126A  26    Richardson        Moses             50        Maryland          pg0121a.txt
+126A  27    Richardson        Peter             50        Virginia          pg0121a.txt
+126A  33    Richardson        Richard           5         Kentucky          pg0121a.txt
+135A  14    Richardson        Samuel            3         Kentucky          pg0121a.txt
+126A  31    Richardson        Sarah             9         Kentucky          pg0121a.txt
+126A  28    Richardson        Sylvia?           54        Virginia          pg0121a.txt
+126A  32    Richardson        Warrener          6         Kentucky          pg0121a.txt
+128A  8     Richardson        William           11        Kentucky          pg0121a.txt
+154B  2     Richardson        William           34        Kentucky          pg0139a.txt
+83B   41    Richardson        Allenbush?        4/12      Garrard County    pg0079a.txt
+83B   36    Richardson        Darissius         12        Garrad County     pg0079a.txt
+83B   39    Richardson        John              4         Garrard County    pg0079a.txt
+83B   34    Richardson        John              37        Garrard County    pg0079a.txt
+83B   40    Richardson        Margaret E.       2         Garrard County    pg0079a.txt
+83B   35    Richardson        Mary A.           28        Garrard County    pg0079a.txt
+83B   38    Richardson        Susan J.          6         Garrard County    pg0079a.txt
+83B   37    Richardson        Thomas            7         Garrard County    pg0079a.txt
+141B  5     Ridge             Anna              5         Kentucky          pg0139a.txt
+141B  3     Ridge             Polly             26        Tennessee         pg0139a.txt
+141B  7     Ridge             Rufus             3         Kentucky          pg0139a.txt
+141B  6     Ridge             Susan             3         Kentucky          pg0139a.txt
+141B  4     Ridge             William           7         Kentucky          pg0139a.txt
+127A  3     Risen             Adaline           16        Virginia          pg0121a.txt
+127A  1     Risen             Alfred            20        Virginia          pg0121a.txt
+127A  5     Risen             David             11        Virginia          pg0121a.txt
+126B  40    Risen             Henson            52        Virginia          pg0121a.txt
+127A  6     Risen             James             9         Kentucky          pg0121a.txt
+127A  4     Risen             John              13        Virginia          pg0121a.txt
+127A  2     Risen             Martha            17        Virginia          pg0121a.txt
+126B  33    Risen             Patsy             65        Virginia          pg0121a.txt
+126B  32    Risen             Philip            60        Maryland          pg0121a.txt
+126B  41    Risen             Virginia          50        Virginia          pg0121a.txt
+126B  42    Risen             William           24        Virginia          pg0121a.txt
+122A  27    Roach             Catharine         64        Virginia          pg0121a.txt
+131B  38    Roach             Catharine         4         Kentucky          pg0121a.txt
+122A  36    Roach             Eliza             2         Kentucky          pg0121a.txt
+122A  35    Roach             Elizabeth         5         Kentucky          pg0121a.txt
+131B  34    Roach             John              34        Virginia          pg0121a.txt
+131B  37    Roach             John              5         Kentucky          pg0121a.txt
+131B  35    Roach             Martha            25        Kentucky          pg0121a.txt
+122A  32    Roach             Mary              12        Kentucky          pg0121a.txt
+122A  26    Roach             Price             64        Virginia          pg0121a.txt
+122A  33    Roach             Sarah             10        Kentucky          pg0121a.txt
+122A  31    Roach             Susan             27        Kentucky          pg0121a.txt
+122A  34    Roach             Susan             8         Kentucky          pg0121a.txt
+122A  30    Roach             Thos G.           36        Virginia          pg0121a.txt
+131B  36    Roach             William           7         Kentucky          pg0121a.txt
+95A   6     Roberson          Andrew            23        Green County      pg0093a.txt
+103A  10    Roberson          Mary M.           7         Green County      pg0093a.txt
+100B  7     Robertson         Amanda            10        Green County      pg0093a.txt
+95A   25    Robertson         Arbannah?         3         Green County      pg0093a.txt
+100B  6     Robertson         Catharine A.      30        Green County      pg0093a.txt
+95A   26    Robertson         Christopher C.    10/12     Green County      pg0093a.txt
+95A   23    Robertson         Francis A.        13        Green County      pg0093a.txt
+100B  10    Robertson         George            5         Green County      pg0093a.txt
+95A   21    Robertson         Handy             38        Virginia          pg0093a.txt
+95A   27    Robertson         James             74        Virginia          pg0093a.txt
+95A   28    Robertson         Kizziah           74        Green County      pg0093a.txt
+100B  9     Robertson         Lewis             6         Green County      pg0093a.txt
+100B  5     Robertson         Lionel F.         31        virginia          pg0093a.txt
+100B  12    Robertson         Lucella           1         Green County      pg0093a.txt
+100B  11    Robertson         Martha            3         Green County      pg0093a.txt
+95A   24    Robertson         Mary M.           8         Green County      pg0093a.txt
+95A   22    Robertson         Sarah A.          24        Green County      pg0093a.txt
+100B  8     Robertson         William P.        8         Green County      pg0093a.txt
+122B  33    Robinson          Dorothy           12        Kentucky          pg0121a.txt
+122B  31    Robinson          John              16        Kentucky          pg0121a.txt
+122B  29    Robinson          John W.           42        Kentucky          pg0121a.txt
+123B  25    Robinson          Mahala            37        Kentucky          pg0121a.txt
+123B  26    Robinson          Martha            18        Kentucky          pg0121a.txt
+123B  27    Robinson          Mary              16        Kentucky          pg0121a.txt
+130A  38    Robinson          Milly             37        Kentucky          pg0121a.txt
+122B  32    Robinson          Samuel            14        Kentucky          pg0121a.txt
+123B  24    Robinson          Samuel            42        Kentucky          pg0121a.txt
+122B  30    Robinson          Sarah             42        Kentucky          pg0121a.txt
+123B  28    Robinson          Sarah             14        Kentucky          pg0121a.txt
+130A  37    Robinson          Thomas            52        District Columbia pg0121a.txt
+106B  16    Rodgers           Allexander        13        Green County      pg0093a.txt
+105B  12    Rodgers           Betsy             16        Green County      pg0093a.txt
+143B  19    Rodgers           Elijah            5         Kentucky          pg0139a.txt
+108A  30    Rodgers           Emaline           20        Green Conty       pg0107a.txt
+106B  17    Rodgers           George A.         12        Green County      pg0093a.txt
+143B  20    Rodgers           Isaac             3         Kentucky          pg0139a.txt
+106B  13    Rodgers           James B.          41        Adair County      pg0093a.txt
+105B  10    Rodgers           James T.          23        Green County      pg0093a.txt
+98B   34    Rodgers           John              25        Green County      pg0093a.txt
+105B  14    Rodgers           John C.           8         Green County      pg0093a.txt
+105B  8     Rodgers           John Jr.          44        Virginia          pg0093a.txt
+105B  15    Rodgers           Lanzy D.          5         Green County      pg0093a.txt
+106B  21    Rodgers           Marcilla          4/12      Green County      pg0093a.txt
+106B  14    Rodgers           Mary              34        Green County      pg0093a.txt
+106B  18    Rodgers           Mary C.           10        Green County      pg0093a.txt
+106B  19    Rodgers           Matilda           8         Green County      pg0093a.txt
+143B  18    Rodgers           Minerva           7         Kentucky          pg0139a.txt
+105B  13    Rodgers           Paskel W.         13        Green County      pg0093a.txt
+106B  20    Rodgers           Patsy             4         Green County      pg0093a.txt
+106B  22    Rodgers           Precilla          4/12      Green County      pg0093a.txt
+108A  31    Rodgers           Sampson           22        Green Conty       pg0107a.txt
+143B  17    Rodgers           Sophia            39        Kentucky          pg0139a.txt
+106B  15    Rodgers           Synthia           16        Green County      pg0093a.txt
+143B  16    Rodgers           William           62        Virginia          pg0139a.txt
+105B  11    Rodgers           William B.        20        Green County      pg0093a.txt
+105B  9     Rodgers           Mildred           45        Virginia          pg0093a.txt
+126B  27    Romine            Daniel            6         Kentucky          pg0121a.txt
+126B  25    Romine            David             14        Kentucky          pg0121a.txt
+126B  24    Romine            James             16        Kentucky          pg0121a.txt
+126B  22    Romine            John              22        Kentucky          pg0121a.txt
+126B  21    Romine            Mary              46        Kentucky          pg0121a.txt
+126B  26    Romine            Mary              8         Kentucky          pg0121a.txt
+126B  31    Romine            Mary              1         Kentucky          pg0121a.txt
+126B  23    Romine            Sarah             18        Kentucky          pg0121a.txt
+126B  30    Romine            Sarah             25        Kentucky          pg0121a.txt
+126B  29    Romine            William           24        Kentucky          pg0121a.txt
+126B  20    Romine            Zachariah         45        Kentucky          pg0121a.txt
+99B   26    Ruark             Larissa           22        Green County      pg0093a.txt
+99B   25    Ruark             Sarah             48        North Carolina    pg0093a.txt
+123A  13    Rucker            Daniel            12        Kentucky          pg0121a.txt
+123A  12    Rucker            Winston           13        Kentucky          pg0121a.txt
+130A  22    Rudd              Berry             22        Virginia          pg0121a.txt
+130A  24    Rudd              Edmond            12        Virginia          pg0121a.txt
+130A  26    Rudd              Frances           3         Kentucky          pg0121a.txt
+130A  25    Rudd              Harriet           3         Kentucky          pg0121a.txt
+130A  20    Rudd              Martin/Maston     50        Virginia          pg0121a.txt
+130A  21    Rudd              Paline            50        Virginia          pg0121a.txt
+130A  23    Rudd              Silas             17        Virginia          pg0121a.txt
+121B  34    Rudd              Silas             17        Kentucky          pg0121a.txt
+87B   24    Russel            Abraham           23        Green County      pg0079a.txt
+89B   19    Russel            Catharine         5         Green County      pg0079a.txt
+87B   23    Russel            Catherine         62        North Carolina    pg0079a.txt
+89B   16    Russel            Echy              24        Green County      pg0079a.txt
+89B   18    Russel            Elizabeth         6         Green County      pg0079a.txt
+87B   26    Russel            Jefferson         16        Green County      pg0079a.txt
+87B   22    Russel            Joseph            72        North Carolina    pg0079a.txt
+87B   25    Russel            Joseph            18        Green County      pg0079a.txt
+89B   17    Russel            Josiah            7         Green County      pg0079a.txt
+89B   20    Russel            Lucinda           3         Green County      pg0079a.txt
+89B   22    Russel            Mary              5/12      Green County      pg0079a.txt
+89B   21    Russel            William           4         Green County      pg0079a.txt
+89B   15    Russel            Eli               29        Green County      pg0079a.txt
+89A   6     Russell           Allexander        7/12      Green County      pg0079a.txt
+89A   4     Russell           Burly? A          25        Green County      pg0079a.txt
+89A   16    Russell           Framcis           28        Green County      pg0079a.txt
+89A   19    Russell           George W.         1         Green County      pg0079a.txt
+89A   3     Russell           Isaac D.          25        Green County      pg0079a.txt
+89A   15    Russell           John A.           28        Green County      pg0079a.txt
+89A   18    Russell           Mary              5         Green County      pg0079a.txt
+89A   5     Russell           Pelina            2         Green County      pg0079a.txt
+89A   17    Russell           Sarah C.          6         Green County      pg0079a.txt

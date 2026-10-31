@@ -1,0 +1,24 @@
+KYGenWeb Madison County death year-files — Pass 103 extract
+Landing: https://kygenweb.net/madison/Rootsweb_files/research/death/
+1958 K–R file: https://kygenweb.net/madison/Rootsweb_files/research/death/years/1958b.htm
+Local: kygenweb-madison-1958b-pass103.html
+
+HIT (only Newman/Newnam in 1956–1961 A–D / E–J / K–R / S–Z files):
+  Last: NEWMAN
+  First: DAVID
+  Middle: G
+  Year: 1958
+  Month: 06
+  Day: 19
+  Age: 070
+  County of death: MADSN
+  Residence: MADISON
+  Volume: 028
+  File: 13719
+
+Same identifiers as statewide KDI C473. Compiled county-filtered extract. Certificate image unread.
+
+NIL: Frank Newman/Newnam as a Madison decedent 1956–1961.
+NIL: any NEWNAM spelling in those files.
+
+REJECT (1958c E–J): HUTCHINS, WILLIAM J, 1958-02-20, age 086, MADSN, vol 008 file 03652 — not the Hutchins Library; not Frank.

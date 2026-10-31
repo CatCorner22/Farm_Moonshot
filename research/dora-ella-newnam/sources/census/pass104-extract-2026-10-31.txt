@@ -1,0 +1,41 @@
+Pass 104 extract — 31 Oct 2026
+Target: deceased Dora Ella Newnam Stone (P001). Deceased-only.
+
+B055 / B080 — Madison library Citizen archive:
+- https://www.madisonlibrary.org/research/archives/berea-citizen embeds
+  https://apps.madisonlibrary.org/newspapers/bereacitizen/index.php
+- App HTML seen: 201 monthly PDF links.
+- Earliest: Berea_Citizen.2008.04.April_17th_and_24th_2008.pdf
+- Latest: Berea_Citizen.2026.02.February_2026.pdf
+- Years present: 2008–2026 only. String "1958" absent.
+- June 1958 David G / Frank notice is NOT in this free modern archive.
+- Retrieval remains Hutchins The Citizen film through June 1958 (sn85052076).
+
+B058 / B049 — Pope County Library:
+- newspaper.htm = Pope County titles only (Russellville Courier-Democrat, Gazette, etc.).
+  No Dardanelle Post-Dispatch / no Yell 1926.
+- micro.htm is a landing that links yellnews.htm (Roll 5 already C1185).
+- digitalheritage.arkansas.gov DNS this pass.
+- ASA findingaids.digitalheritage.arkansas.gov/repositories/3/resources/5371 = JS robot wall.
+- Search snippet for digitalheritage inventories/149 = Dardanelle Post 1882–1888
+  (MFILM NEWS 000122), not 1926 Post-Dispatch — rejected as 1926 path.
+
+B089 — 1930 33-8:
+- Steve Morse ed.php (not ed2) form HTML seen. Dropdown includes Estill (33) and 33-8.
+  Page still says NARA / FamilySearch data "no longer on line". Search is JS DoIt().
+  Descriptions unread.
+- NARA 1930 ED-descriptions HTML table reconfirm: T1224 roll 69 = Kansas + Kentucky.
+- IA Solr T1224 Kentucky / "descriptions of census enumeration" + kentucky = 0.
+- KYGenWeb Estill census page: 1880 Districts 36–40 only. No 1930 extract.
+
+B045 — Estill wills:
+- KYGenWeb Estill wills: James Scrivner, Henry Thomas, Jacob Tipton.
+  Images none submitted. No Newnam / Newman / Samuel P.
+
+B069:
+- WorldCat Owsley WWI cards (Hollingsworth / DAR Three Trails West) OCLC 54019565
+  search-text seen; live GET 403. Book unread.
+- SNAC Lee clerk = bot wall.
+
+Do not print 1966, 1976, Floyd-as-Boyd, 1962 as McCoy death, or 1942 Combs charge as fact.
+Living 1932 descendants withheld.

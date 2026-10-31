@@ -1,0 +1,293 @@
+Pass 116 extract — 31 Oct 2026. Deceased-only. Do not print 1966, 1976,
+Floyd-as-Boyd, Hendrix-as-Boyd, Nennian-as-Boyd, 1962 as McCoy death, or
+1942 Combs charge as fact. Living 1932 descendants withheld.
+Estill 1930 33-12 / 33-13 names not walked.
+B088 Antioch 242 — one line.
+Phones already recorded: Pope 479-968-4368; Hutchins 859-985-3364;
+Lee clerk Tyler Phillips 606-464-8400. Do not re-ask.
+R001 / R007 / R008 — do not re-ask.
+
+=== B058 — one catalog reconfirm only ===
+
+LOC item JSON sn89051008 (saved pass116 + pass116e + pass116f):
+digitized = false. Holdings unchanged. Film unread.
+https://www.loc.gov/item/sn89051008/
+C1375.
+
+IA Solr collection:americana title Dardanelle Post / Post-Dispatch
+year 1926 — numFound 0 (pass116 / 116e / 116f).
+Phone not re-asked.
+
+=== B071 — Clark TINCHER 91A ORIGINAL (image seen) ===
+
+IA populationschedu0196unix leaf n0606.
+https://archive.org/details/populationschedu0196unix
+https://archive.org/download/populationschedu0196unix/page/leaf0606_w2400.jpg
+
+Header (n0606-header-crop): SCHEDULE I—Free Inhabitants in
+District No. 1 in the County of Clark State of Kentucky
+enumerated by me, on the 15th day of September 1850.
+Thos McKinney Asst Marshal. Stamped 91.
+
+Diplomatic hh 615/615 (n0606-tincher-hh615-crop + lower-crop):
+  615/615 William Tincher  63 M  none
+  Elizabeth Boyer          31 F
+  W R E Tincher            27 M  laborer
+  Sarah    "               22 F
+  Samuel   "                2 F   {sex as written}
+  Catharine Boyer          10 F
+  William  "                7 M
+  Mary A   "                5 F
+
+Neighbors: 614 Hiram Brumagen 45 farming; 616 Stephen B Lewis
+~57 farmer $400 + Catharine 33; 617 Eddie Bean 74.
+Matches S-K TINCHER 91A (Bayer/Bean/Price/Tincher).
+
+REJECT vs William × Rhoda (age 63; wife not Rhoda; children
+W.R.E. / Sarah / Samuel / Catharine / William / Mary A — not
+Decatur / Leaner / B.F.). C1376.
+
+Hidden-under-Tincher: Tincher house; no Newman/Newnam surname
+in hh 615. C1378.
+
+Dist 2 Clark stamped 91 (n0515/n0516) is a different page
+(Preston/Long/Wainscott). Not the SK 91A Tincher page. C1380.
+
+=== B071 — Breathitt TINCHER 20B ORIGINAL (image seen) ===
+
+IA populationschedu0193unix.
+https://archive.org/details/populationschedu0193unix
+n0234 = Dist 1 stamped 20 (20A), 27 July 1850, John Hargis.
+n0235 = verso 20B, 28 July 1850, John Hargis.
+
+Diplomatic hh 46–47 (n0235-tincher-hh46-crop):
+  46/46 Wm. Tincher   45 M  Farmer  $500  Tennessee
+        Matilda       40 F                Tennessee
+  47/47 James Tincher 23 M  Farmer
+        Elias Tincher 21 M
+        Joseph        16 M
+        Thos. Tincher 11 M
+        Martha         8 F
+  48/48 Nicholas Bowman 53 M Farmer $2000 Va.
+
+Matches USGW/cenfiles + S-K TINCHER 20B.
+
+REJECT vs William Newman × Rhoda (surname Tincher; wife Matilda
+not Rhoda; Tennessee; no Decatur / Leaner / B.F.). C1377.
+
+Hidden-under-Tincher: Tincher house; no Newman. C1379.
+
+Dist 1 later stamped 20 with hh 149 (n0249) is a later page,
+not SK 20B. Dist 2 pp 17–22 (n0214–n0217) are Howards/Lovelys.
+C1381.
+
+=== B071 — 1840 heads ===
+
+Owsley n/a (created 1843). C1389.
+
+IA 1840 reel map (M704):
+  105 Breathitt; 108 Clark/Clay/Clinton/Cumberland;
+  109 Daviess/Estill/Edmonson/Fayette; 117 Laurel/Lawrence/…;
+  118 Logan/Madison/Marion;
+  120 Monroe/Morgan/Montgomery/Muhlenberg (Vol. 8 pp 232–367).
+C1388.
+
+Breathitt 1840 S-K: no NEWMAN / TINCHER (file seen).
+Gabbard 1850 every-name already nil Newman; 1840 index same
+negative for those surnames. C1382.
+
+Madison 1840 S-K: NEWBY 284/287/291; NEWLAND 237/242/252/289/291.
+No NEWMAN / NEWNAM / TINCHER. C1383.
+
+Laurel 1840 S-K: no NEWMAN / NEWNAM / TINCHER. C1384.
+
+Montgomery 1840 S-K (https://www.skcensus.com/1840-census-index-montgomery-county-kentucky/):
+  N-block = NELSON 286, 294; NORTHCUT 297, 298; OLDHAM 268/272/282.
+  No NEWMAN / NEWNAM.
+  TINCHER 295 only (no given name in the index). C1385.
+
+1840 Montgomery page 295 ORIGINAL isolated:
+  IA populationsc18400120unit.
+  Two leaves per stamped page. n0067 verso = stamped 261
+  ⇒ page 295 names = n0128; verso = n0129.
+  https://archive.org/details/populationsc18400120unit
+  Names image seen: n0128-w1400 + n0128-p295-names-enhance
+  + n0128-names-pass116f-enhance.
+  Visual: BARROW / BAYS / Hale / Owen cluster matches SK 295
+  companions. One head reads John Fletcher[?] / John Tincher[?]
+  (T/F slack). Given name POSSIBLE John. Do not overclaim. C1386.
+
+Clark / Estill / Clay 1840 S-K slugs 404 (identical 92301-byte
+404 page; reget pass116f still 404). US-census.org 1840 dirs
+404. C1387.
+
+1840 reel 108 (Clark first): n0005 / n0007 name columns
+image-seen (Haggard / Hampton / Aldridge / Frost). No Newman /
+Tincher on those two schedule leaves. County name-column walk
+not complete. C1402.
+
+1840 reel 109: Estill start not isolated this pass (n0050 still
+a Daviess-looking schedule, stamped ~43). Estill name columns
+not walked.
+
+=== B071 — Laurel 209 / Montgomery 214 ===
+
+Laurel 1850: IA populationschedu0209unix.
+Window isolated: n0331 header = County of Laurel, 1 Sept 1850,
+Thos J. Rogers, stamped ~21/22. n0379 is a short end-of-division
+page. n0391 already a later N-poor block (Roberts/Wood).
+S-K Laurel 1850 slug 404. US-census.org /pub/.../laurel/1850/
+has slave.txt only.
+Name-column samples (every 3rd leaf n0331–n0391) visually read:
+Jones/Jackson; Magee/Brock/Noe/Manson; Whitney/Foreman;
+Engle/Hensley; Beford; Roberts. No Newman / Newnam / Tincher
+on the sampled leaves. N-surnames not fully walked (visitation
+order). C1392.
+
+Montgomery 1850: IA populationschedu0214unix.
+n0061 header = Dist 1, County of Montgomery, ~Aug 1850.
+n0093 header = Dist 2, Montgomery, 27 July 1850, Chas E. Foley,
+stamped 46.
+S-K Montgomery 1850 slug 404. US-census.org montgomery/1850 404.
+Name-column samples (every 3rd leaf n0061–n0133) visually read:
+Arnold/Thompson/Gillespie; Fitzgerald/Hathaway; Turpe/Roberts;
+Kirkpatrick/Stewart; Conley/Fidler; Randolph/Lawrence;
+Edwards/Ballard. No Newman / Newnam / Tincher on the sampled
+leaves. N-surnames not fully walked. C1393.
+
+=== B071 — hidden-under-Tincher / marriage ===
+
+Clark 91A and Breathitt 20B are Tincher houses — no Newman
+hidden in those two target pages. C1378 C1379.
+
+No free William Newman × Rhoda Tincher license or county
+transcript this pass. Authored MyTrees/WikiTree “married 1845”
+only — not used as a fact. H.H. Newman × Belinda Tincher
+27 Feb 1840 Estill is a different couple (already separate).
+Estill grooms-to-1850 reget 404 this fetch; prior live read
+still Nancy Newman 1825 only + Tincher grooms Elias 1818 /
+Joseph 1834 / William × Margaret Smallwood 1827.
+Owsley 1854 VS Elihu Tincher × Delinah Estes ≠ this couple.
+C1390 C1391.
+
+=== Residuals ===
+
+B055/B080: no free June 1958 Citizen. FAQ 9938 404 this fetch.
+Phone not re-asked. C1396.
+
+B069/B059: IA Solr M1509/WWI KY numFound 0 (pass116e + 116f).
+FS 1146342 / 127913 404 (R011-57). Cards unread. C1397.
+
+B045/B065: USGenNet Lee wills LIVE this fetch (30679 B):
+Jane Steele NEWMAN + Elizabeth NEWNAM + Mary F. Newnam TINCHER
+— no Samuel P. Tax 156057/97277 unread. Clerk not re-asked.
+C1398. #28 stands (Mary F. not merged).
+
+B088: IA 14thcensusofpopu602unit imagecount still 515. One line.
+C1395.
+
+B082: no new Woodford / cert 17762. Do not print 1966. C1399.
+B085: no new deceased McCoy/Rissie row. Do not print 1962. C1400.
+B081/B084: still not merged. B084 POSSIBLE Jr only. Living
+1950-line withheld. C1401.
+
+Parents William × Rhoda still PROBABLE (C1394 / C1351).
+1860 Rhoda widow + B.F. 7 already PROVEN. 1850 couple still
+unread as a living head.
+
+
+
+=== Pass 116g addendum — 1840 county isolations (same increment) ===
+
+IA metadata locked (C1410):
+  populationsc18400108unit imagecount 246 — Clark, Clay, Clinton, Cumberland
+  populationsc18400109unit imagecount 361 — Daviess, Estill, Edmonson, Fayette
+  populationsc18400117unit imagecount 365 — Laurel, Lawrence, Lewis, Lincoln, Livingston
+  populationschedu0209unix imagecount 593 — Knox, Larue, Laurel, Lawrence, Letcher
+  populationschedu0214unix imagecount 554 — Montgomery, Morgan, Muhlenberg
+  14thcensusofpopu602unit imagecount still 515 (C1414 / C1395)
+
+1840 CLARK END (image seen) C1403:
+  IA populationsc18400108unit n0081 county totals; n0083 certificate.
+  Diplomatic (n0083-clark-cert-crop):
+    "Clark County Kentucky
+     the number of Persons within my division consisting of
+     ten thousand seven hundred and fifty four appears in
+     the foregoing schedule subscribed by me this 27th day
+     of October in the year 1840
+     Francis Jackson"
+  Clark 1840 population ~10,754 on this certificate.
+
+1840 CLAY START (image seen) C1404:
+  n0091 left margin "Clay County".
+  Sampled name pages n0091 / n0095 / n0099: Johnson / Valentine /
+  Campbell / Hubbard / Maggard / Hibbard / Smith. No Newman /
+  Newnam / Tincher on those three. County not fully walked.
+
+1840 EDMONSON END (image seen) C1405:
+  n0182 "Total Edmonson County" + "See page 91 for continuation".
+  n0186 certificate: Edmonson County; W. Edwards; 4th day of
+  November 1840; J. M. Lygon attestation.
+
+1840 FAYETTE (image seen) C1406:
+  n0202 marshal Andrew M. McCalla; left margin Lexington.
+  n0216 also McCalla. n0320 Fayette Eastern Division certificate
+  Edward A. Clark[?].
+
+1840 ESTILL WINDOW isolated (C1407):
+  n0090 blank (county break after Daviess).
+  n0097 verso header reads "Estill County" (image seen).
+  n0095 verso employment: John Witt 52 / Barbary Mason 41 /
+  Mary Caste 41.
+  Window ~n0090–n0155; Edmonson names begin n0160 (Minton /
+  Logsdon / Damron / Creek / Stephen Nelson ≠ Newman).
+  County name-column walk not complete.
+
+1840 ESTILL page 68 (fishergenes) C1408:
+  https://fishergenes.com/documents/census/1840/KY/Estill/1840%20-%20Estill%2068.jpg
+  Directory lists only this page (no full county set).
+  Diplomatic names (p68-names-enhance): Rachael Covington;
+  Henry Todd; James Wood[?]; Garland King; Wm. Wiles[?];
+  Samuel Moore; James Powell; Elizabeth Martin; Harmon Hall;
+  Bryant Hall; Mary Oldham; John Frazier; James Hall;
+  John Wood; Susanna Dilemme[?]; Valentine R. Ward;
+  Orea Howards; Wm. Adams; Robt. Adams; John Stivers;
+  Nicholas Ryan; Moses[?] Fox; Sam Benton; Henry Martin;
+  Wm Benton; Bryce Pover[?]; Wm Harris; Wm Skinner;
+  Lucy Peterson; J.H. Fitzpatrick.
+  No Newman / Newnam / Tincher on that spread.
+  n0110 names (Estill window): Hamilton / Witt / Parke / King
+  — no Newman (C1409). Samples only.
+
+Laurel 209 remaining namecols now every leaf 330–395 (C1411).
+Additional samples: n0345 Jones/Jackson/Buchanan; n0363
+Summers/Parker. No Newman/Tincher on those. N not fully walked.
+
+Montgomery 214 remaining namecols now every leaf 60–140 (C1412).
+Additional samples: n0087 Tracey/Holley/Welch; n0111 Estep/
+Ingraham. No Newman/Tincher on those. N not fully walked.
+
+Marriage: still no free license (C1413). mytrees/WikiTree 1845
+authored unused. Estill grooms/brides / usgw 1840 404.
+
+LOC sn89051008 pass116g digitized: false (C1414). Solr 1926 0.
+FS 1146342 404 R011-58 (C1415). USGenNet wills LIVE reconfirm
+no Samuel P.
+
+Parents still PROBABLE (C1416 / C1394). 1850 couple still unread
+as a living head. 1860 Rhoda widow + B.F. 7 already PROVEN.
+
+=== Residual for next session (updated) ===
+
+B058 film: Pope Roll 5 / UArk F419.D37 D3 / AR Hist Comn.
+B071: Laurel 209 / Montgomery 214 remaining N-surname walk;
+1840 Estill remaining name columns (window n0090–n0155);
+1840 Clay remaining after n0099; 1840 Clark names n0005–n0081
+not fully walked; marriage William × Rhoda if a free license
+appears. William’s own 1850 schedule still unread.
+B055/B080 Hutchins cards then June 1958 Citizen / 41271.
+B069 M1509 KY45 cards.
+B045/B065 FS sign-in.
+B082 cert 17762. Do not print 1966.
+Do not walk Estill 33-12 / 33-13.
+Do not re-ask phones or Tyler Phillips.

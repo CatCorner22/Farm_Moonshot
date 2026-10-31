@@ -1,0 +1,46 @@
+Reclaim The Records / Kentucky Death Index 1911-1989
+https://archive.org/details/reclaim-the-records-kentucky-death-index-01911-1989
+Access: transcription only (annual-list TXT). Do not commit full year files.
+Filter: NEWMAN/NEWNAM given FRANK*/JOHN* statewide 1939-1989.
+
+1949	NEWMAN          FRANK               60       JEFFN     JEFFERSON     12/12/1949 051  25370 /1949
+1949	NEWMAN          FRANKLIN   D        16       LEE       LEE           07/03/1949 030  14605 /1949
+1963	NEWMAN          FRANCIS    R        49       UNION     UNION         03/31/1963 017  08397 /1963
+1964	NEWMAN          FRANK      J        88       JEFFN     HOPKINS       08/31/1964 042  20956 /1964
+1967	NEWMAN          FRANCIS    A        67       JEFFN     JEFFERSON     04/23/1967 023  11135 /1967
+1972	NEWMAN          FRANK      L        37       FYETE     FLEMING       08/29/1972 045  22329 /1972
+1973	NEWMAN          FRANCIS    X        74       JEFFN     INDIANA       11/14/1973 058  28609 /1973
+1978	NEWMAN          FRANK               77       HNDSN     HENDERSON     10/26/1978 050  24607 /1978
+1980	NEWMAN          FRANK               77       JEFFN     BRECKINRIDGE  12/30/1980 066  32553 /1980
+1942	NEWMAN          JOHN       B        56       JEFFN     JEFFERSON     03/30/1942 014  06712 /1942
+1942	NEWMAN          JOHN       E        78       NELSN     NELSON        07/09/1942 034  16838 /1942
+1944	NEWMAN          JOHN       W        67       JEFFN     JEFFERSON     06/04/1944 029  14038 /1944
+1945	NEWMAN          JOHN       B        73       BOYD      BOYD          08/17/1945 033  16173 /1945
+1946	NEWMAN          JOHN                62       FYETE     FAYETTE       09/10/1946 039  19072 /1946
+1949	NEWMAN          JOHN       J        45       HNDSN     HENDERSON     09/12/1949 037  18463 /1949
+1950	NEWMAN          JOHN       W        67       MCCRK     MCCRACKEN     11/14/1950 048  23510 /1950
+1955	NEWMAN          JOHN       E        77       WARRN     WARREN        05/29/1955 026  12731 /1955
+1956	NEWMAN          JOHN       W        52       KENTN     CAMPBELL      02/06/1956 007  03368 /1956
+1959	NEWMAN          JOHN                84       FLOYD     FLOYD         09/16/1959 043  21114 /1959
+1960	NEWMAN          JOHN       D        27       JEFFN     PULASKI       08/07/1960 035  17255 /1960
+1961	NEWMAN          JOHN       E        67       KENTN     KENTON        09/21/1961 040  19732 /1961
+1961	NEWMAN          JOHN       V        77       DAVES     DAVIESS       09/16/1961 038  18756 /1961
+1962	NEWMAN          JOHN                88       FYETE     FAYETTE       04/27/1962 021  10268 /1962
+1963	NEWMAN          JOHN       W        82       MLNBG     MUHLENBERG    09/03/1963 050  24858 /1963
+1963	NEWMAN          JOHN       A       U/1       BOYD                    05/15/1963 064  31606 /1963
+1966	NEWMAN          JOHN       L        88       WDFRD     WOODFORD      07/17/1966 036  17762 /1966
+1969	NEWMAN          JOHN                93       JHNSN     FLOYD         06/09/1969 035  17205 /1969
+1970	NEWMAN          JOHN       E        60       JEFFN     JEFFERSON     07/05/1970 034  16924 /1970
+1971	NEWMAN          JOHN       M        77       MLNBG     MUHLENBERG    01/27/1971 009  04354 /1971
+1972	NEWNAM          JOHNNIE             76       LEE       ESTILL        04/19/1972 021  10178 /1972
+1974	NEWMAN          JOHN       G        75       FLOYD     JOHNSON       03/08/1974 011  05315 /1974
+1974	NEWMAN          JOHN       L        67       JEFFN     JEFFERSON     03/17/1974 012  05833 /1974
+1979	NEWMAN          JOHN       F        64       DAVES     DAVIESS       08/15/1979 036  17886 /1979
+1980	NEWMAN          JOHN       J        76       BOYD      BOYD          08/26/1980 038  18517 /1980
+1980	NEWMAN          JOHN       R        17       FLMNG     FLEMING       12/12/1980 059  29483 /1980
+1981	NEWMAN          JOHN       B        64       ESTIL     ESTILL        08/30/1981 043  21281 /1981
+1981	NEWMAN          JOHN       P        83       JEFFN     JEFFERSON     04/27/1981 024  11921 /1981
+1985	NEWMAN          JOHN       D        63       JEFFN     JEFFERSON     02/06/1985 008  03718 /1985
+1986	NEWMAN          JOHN       T        67       FYETE     FAYETTE       05/10/1986 024  11529 /1986
+1987	NEWMAN          JOHN       C        32       MLNBG     MUHLENBERG    03/09/1987 015  07368 /1987
+1987	NEWMAN          JOHN       S        84       HNDSN     HENDERSON     02/15/1987 007  03224 /1987

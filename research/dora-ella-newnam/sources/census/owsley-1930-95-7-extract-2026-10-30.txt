@@ -1,0 +1,84 @@
+Pass 71 extract — 1930 Owsley ED 95-7 Buck Creek (T626-773)
+IA item kentuckycensus00reel773 (1083 leaves). Image seen 30 Oct 2026.
+
+Mapping (header visual, scale 8 then 4):
+  leaf 0520  Ohio Co. ED 92-25 sh 11A
+  leaf 0540  Owsley ED 95-2 sh 8A (Booneville excl. town)
+  leaf 0560  Owsley ED 95-2 sh 14A
+  leaf 0600  Owsley ED 95-4 sh 5A Island Creek (Joseph D. Morgan, 14 Apr)
+  leaf 0620  Owsley ED 95-5 sh 5A Cow Creek
+  leaf 0640  Owsley ED 95-6 sh 3A Buffalo
+  leaf 0650  Owsley ED 95-7 sh 1A Buck Creek (Robert H. Isaacs, 7 Apr)
+  leaf 0660  ED 95-7 sh 6A
+  leaf 0663  ED 95-7 sh 7B
+  leaf 0664  ED 95-7 sh 8A (25 Apr)
+  leaf 0670  ED 95-8 sh 1A Wild Dog
+  leaf 0680  ED 95-8 sh 6A (end of Owsley)
+  leaf 0700  Robertson Co. ED 101-2 sh 4B
+
+ED 95-7 = Magisterial District 6, Buck Creek. us-census.org team page
+https://www.us-census.org/states/kentucky/teams/Owsley1930-T626-773.htm
+agrees (95-7 = M.D. 6 Buck Creek). TFKRHA D7 is the annotated twin;
+live 500 / Wayback CDX empty this session. Original used instead.
+
+ED 95-7 complete visual (leaves 650–669; 669 blank). Three Newman heads only:
+
+130/130  sheet 7B  NEWMAN, Clarence  head  w m 37 m 19  KY KY KY  farmer, general farm
+          May            wife  w f 26 m 18  KY KY KY
+          James H        son   w m  6 s     KY
+          Thomas C       son   w m  4 s     KY
+          Velma          dau   w f  3 s     KY
+          Bessie         dau   w f  1 s     KY
+          Susie          mother w f 50 wd   KY KY KY
+  = 1940 hh 55 Clarence Newnan 38 + Mae + Susie mother 58
+    and 1950 ED 95-3 Clarence + Mae (C512). PROVEN same house line.
+
+131/131  sheet 7B  NEWMAN, John L    head  w m 51 m 25  KY KY VA  farmer, general farm
+          Cora           wife  w f 36 m 19  KY KY KY
+          Pencie M       dau   w f 23 s     KY KY KY
+          Robert L       son   w m 12 s     KY KY KY
+          COMBS, Florence M  dau  w f 26 m 22  KY KY KY
+          Velma I        gd    w f  3 s     KY KY KY
+  Image seen (scale 2 crop). Mother-b. Virginia.
+  Same-person vs 1880 John L age 1 + 1910 John 31 × Lillie +
+  1915 John × Cora Brandenburg + 1940 John 63 × Cora 47 + Robert 21 +
+  1950 Woodford John 70 × Cora 56:
+    IDs: John L + Cora + Pencie (1910 Pency 4) + Florence (1910 age 8,
+    now Combs) + Robert (1940 age 21) + mother VA (Sarah M. / Minerva
+    Venable) + ages 1→31→51→63→70. No contradiction.
+    **PROVEN** as that man (C557). 1966 death still unread (#26).
+
+133/133  sheet 8A  NEWMAN, McCoy     head  w m 40 m 21  KY KY KY  farmer, rents
+          Edith          wife  w f 29 m 14  MO MO MO
+          Laurence M     son   w m  8 s     AR KY MO
+          Harvey E       son   w m  7 s     AR KY MO
+          Cynthia M      dau   w f  4 s     AR KY MO
+          Billy R        son   w m  2 s     TN KY MO
+  Children born 1922–1928: census lines only. Do not research further
+  (may be living). Edith b. ~1901 MO — deceased by age.
+  Same-person vs P010 McCoy Apr 1890 s/o Dora × Samuel:
+    rare given name + age 40 + both parents KY + AR-born children in
+    Dora’s AR window + 1926 informant Coy Newnam. Next door to John L
+    is geography after Dora’s death, not a second ID by itself.
+    **PROBABLE** (C562). Not PROVEN (no license / DC this session).
+
+KDI strings (RTR annual TXT, 1931–38 + 1939–89): nil MCCOY / COY ×
+NEWMAN/NEWNAM. One nearby reject: NEWMAN MALCOM 83 MADSN/LEE 4 Oct 1966
+(b. ~1883 ≠ 1890).
+
+KY 1930 Soundex (M2053) is partial — Bell, Floyd, Harlan, Kenton,
+Muhlenberg, Perry, Pike only. Owsley/Lee/Woodford n/a. N-550 is on
+soundex1930ky016 (N-160–P-400) but does not cover this county.
+
+R011 step 22: FS catalog 127913 / 127869 / 1146342 HTTP 403.
+USGenNet Owsley 1920 dir 404. TFKRHA D7 CDX empty.
+
+Local files:
+  owsley-1930-95-7-0663.jpg / 0664.jpg (scale 4 full sheets)
+  owsley-1930-95-7-0663-names.jpg / 0664-names.jpg
+  owsley-1930-95-7-0663-john-cora.jpg
+  owsley-1930-95-7-0664-mccoy.jpg
+  owsley-1930-95-7-ed-map-extract (this file)
+
+Claims C555–C570. Sources S409 S410.
+S409

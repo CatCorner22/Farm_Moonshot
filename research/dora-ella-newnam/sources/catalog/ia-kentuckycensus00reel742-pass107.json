@@ -1,0 +1,1 @@
+{"responseHeader":{"status":0,"QTime":18,"params":{"query":"identifier:kentuckycensus00reel742","qin":"identifier:kentuckycensus00reel742","fields":"identifier,title,volume","wt":"json","start":0}},"response":{"numFound":1,"start":0,"docs":[{"identifier":"kentuckycensus00reel742","title":"15th census, population, 1930. [microform]","volume":"Reel 742"}]}}

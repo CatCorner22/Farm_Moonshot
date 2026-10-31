@@ -1,0 +1,59 @@
+Pass 98 + 99 extract — 31 Oct 2026
+Deceased-only. Living 1932-line descendants withheld.
+
+PASS 98 (already harvested; wrap-up this increment)
+B088 catalogs
+- IA metadata 14thcensusofpopu602unit reconfirmed 515 images. Solr identifier 14thcensusofpopu*602* and title Fourteenth/14th + Wolfe/Antioch/Clifty returned other KY T625 rolls already walked — no remainder item. Antioch 242 + remaining Clifty still not on a free IA item.
+- AHGP KY census-images listing (search-tool): Reel 602 = Wayne 258–275, Wolfe 234–242, Whitley 276–302. Confirms the missing precincts belong on this reel.
+- LDS 1940 Stillwater, Wolfe: Newman, Mae ~1905 only. No John, Cora, Boyd, Allie, McCoy. *Index only.*
+- NARA 1950 Wolfe Newman total 0 / Newnam total 0.
+
+B089 / B082 / B055
+- LDS 1940 Midway, Woodford: Newman/Newnam tokens 0. *Index only.*
+- LDS 1940 Market House, Woodford: Newman, Hubert ~1878 + Orie ~1888 + Alice ~1926. REJECTED vs John L + Cora (PROVEN Owsley 1940). *Index only.*
+- LDS Woodford census landing: only Midway + Market House free 1940 compiled. Versailles unpublished.
+- LDS 1940 Paint Lick, Garrard (adjacent, not Madison): Newman/Newnam 0. *Index only.*
+- LDS 1940 Foxtown, Jackson (page title; not Madison): Newman, Shelby ~1893 + Grace ~1898 + children (younger names withheld). PROBABLE 1913 Lee / 1950 Richmond couple (C309 C523). Not Frank contractor. Allie Brandenburg ~1875 in same precinct REJECTED vs Allie ~1885.
+- LDS 1940 guessed precincts (Campton/Hazel Green/Lee City/Torrent/Holly/Antioch/Clifty/Versailles/Proctor/Sturgeon/Idamay/Station Camp 1930 etc.) = 404.
+- NARA 1950 Estill Newman 0 / Newnam 3 — reconfirms C955. No Boyd/Allie.
+- NARA 1950 Woodford Newman 5: ED 120-13 sheet 0012 newman Juhn + cocan = John 70 + Cora 56 (C525).
+
+B069 / B047 — 1950 Lee visual
+- NARA 1950 Lee ED 65-1 Beattyville sheet 0020 (image seen): hh 198 Newman, Luther D., 28, KY, head; Cora P., 28, wife; one younger child withheld. REJECTED vs Rev. Luther b. 1891 d. 1945 (C305).
+- Same ED sheet 0021 (image seen): hh 196 Newman, Cora P., 56, head, widow + Plummer, Charlie, brother, 55 + adult kin. PROVEN Cora Plummer widow (C541/C307) on name + Plummer brother + Beattyville + widow after 1945.
+
+B045 / B061 / B089 catalogs
+- FS 127913 / 127869 / 1146342 / 1006308 search-react SPA (~19 KB). R011 step 48. Do not re-ask Tyler Phillips.
+- LDS FHL2 Estill newspaper abstracts 1913–Feb 1946 points to FS catalog 520482. Images unread.
+- FS wiki = Imperva. NARA catalog API = SPA. ExploreUK = Anubis. IA Solr Irvine papers 0.
+
+PASS 99 (this increment — other-pass identity, not a header increment)
+B088
+- KYGenWeb Wolfe 1920g Holly / 1920h Stillwater / 1920i Clifty / 1920k Antioch re-fetched. Grep Newman/Newnam/Noonan/Nunan/McCoy NIL. Reconfirms C900/C917. Originals still not on a free IA item.
+- IA Solr remainder identifiers / 33-8 / Irvine papers / Yell 1926 / WWI Lee numFound 0.
+
+B089 / B055 / B082 / B069 — 1950 county APIs + visual
+- NARA 1950 Lee Newman total 7 / Newnam total 4. No McCoy, no Frank contractor ~1889, no John L+Cora (they are Woodford), no Boyd+Allie.
+- NARA 1950 Owsley Newman total 3 (two Bowman OCR false hits + ED 95-3 Clarence). Newnam 0. McCoy given-name 0. Reconfirms C575 / C512.
+- NARA 1950 Jackson Newman total 1 / Newnam 0. Powell Newman 0. McCoy Lee 0.
+- 1950 Lee ED 65-1 sh 0010 (image seen): hh 75 Newman, Thomas Ray, 27, KY + Ruth 19. REJECTED vs John H 1899 / Frank ~1889 / Rev. Luther. Younger child withheld.
+- 1950 Lee ED 65-13 sh 0002 (image seen): hh 7 Newnam, Martha, 51, widow. REJECTED vs Grant’s Martha Brandenburg (~1882 ⇒ ~68 in 1950; d. 18 Feb 1951).
+- 1950 Lee ED 65-13 sh 0011 (image seen): hh 77 Newnam, Johnia, 54 + Hazel 50. PROBABLE 1940 Heidelberg Johnnie ~1896. REJECTED vs John L (70 in Woodford 1950). hh 76 Claude 31; hh 78 Vernon 23 — other Lee cluster; younger names withheld.
+- 1950 Lee ED 65-12 sh 0021 (image seen): hh 169 Newnam, Dillard, 47 + Ola 43; hh 170 Newnam, William, 20. REJECTED vs John L / Frank / Boyd. Younger names withheld.
+- 1950 Jackson ED 55-6 sh 0024 (image seen): sample-line Newman, Bonnie, 16 only Newman token. No Shelby+Grace (they are Madison 1950 C523). No Frank.
+- 1950 Owsley ED 95-3 sh 0023 (image seen): hh 170 Newman, Clarence, 38 + Mae 47. Reconfirms C512. Not John L.
+
+B055 / B088 — 1940 compiled remaining
+- LDS 1940 Jackson: McKee / Cavanaugh / Horse Lick / Pondcreek / Sturgeen NIL Newman. Clover Bottom: Clinton H ~1910 + Gladys ~1906 only — REJECTED vs Frank and vs Shelby+Grace. Foxtown already C1087.
+- LDS 1940 Alcorn page title = Greenup, not Jackson. Lost Creek page title = Perry, not Breathitt. Do not misfile.
+- LDS 1940 Stanton, Powell: NIL Newman. Owsley LDS landing has no free 1940 compiled precinct pages (Ancestry/MyHeritage only).
+
+B045 / B061 / B069 / B049
+- FS catalog 127913 / 127869 / 1146342 / 520482 / 1006308 HTTP 403. R011 step 49. Do not re-ask Tyler Phillips.
+- GT Estill/Owsley military landings still have no WWI draft page. Lee still points at unpublished N table.
+- LDS FHL2 520482 still locked (camera + lock icons).
+- KYGenWeb Madison obits re-seen: no Newman/Newnam decedent.
+- USGenNet court.html / wills.html 404.
+
+Same-person
+- John 38+Jennie still rejected. Floyd still not merged. Hubert+Orie rejected. Luther D. 28 rejected vs C305. Cora P. 56 + Charlie Plummer brother PROVEN Cora Plummer widow. Shelby+Grace Foxtown still PROBABLE C309. Martha 51 rejected vs Grant’s widow. Johnia 54 rejected vs John L. Dillard 47 rejected. Thomas Ray 27 rejected. Clinton H + Gladys rejected. Bonnie 16 rejected. #20/#26/#27 open.

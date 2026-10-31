@@ -1,0 +1,61 @@
+Pass 80 extract — 30 Oct 2026
+B089 1910 Boyd+Allie house + 1900 Sturgeon cluster + certs 28501/31780 workarounds
+
+VARIANTS before query (search_variants.py + kinship Soundex):
+  Floyd/Floid/Boyd/Boyde × Newman/Newnam/newnarn/newan  N550
+  Allie/Alice × Brandenburg/Brandenbur/Brandenberg/Newman  B653
+  John × Newman/Newnam/Noonan  N550
+  cert 28501 / 31780
+  Place: Heidelberg / Station Camp / Sturgeon / Lee / Estill / Fayette / Leighton
+
+=== 1910 KY MIRACODE soundex1910ky124 (image seen) ===
+N-550 starts ~leaf 240 (Addie Nawmann).
+B-given: leaves 249-252.
+Leaf 0251 printed p.250 card 2:
+  LEE  N550 NEWMAN  BOYD  H  W 28  KY
+  ALLIE W 26 KY
+  SARAH D 6 KY
+  ARTHUR S 4 KY
+  CARLOS S 3 KY
+  CLARENCE S NR KY
+  Vol 033  ED 098  vis 0158
+Rejects: Henry Co. Bettie Newman + Boyd Isham (leaf 0250);
+  1910 ED 98 sh 7A leaf 0534 ln 9 Homs, Boyd 33 (not Newman).
+
+F-given: leaves 274-276 Fannie/Felix/Frances/Francie/Francis/Frank/Fred/Frederick
+then George (277). NO FLOYD Newman KY head.
+
+=== 1910 LEE T624-478 13thcensus1910po478unit (image seen) ===
+ED 98 Heidelberg. Leaf 0536 = sh 8A.
+Dw 157 / fam 158 lines 33-38 (diplomatic):
+  Newman, Boyd   Head  M W 38 M 7  KY KY KY  (occupation laborer/farmer)
+  Allie          Wife  F W 28 M 7  4-4 KY KY KY
+  S[arah?]       Dau   F W  6 S    KY KY KY
+  Arthur         Son   M W  4 S    KY KY KY
+  Carlos         Son   M W  3 S    KY KY KY
+  Clarence       Son   M W  1 S    KY KY KY
+Soundex age 28 is slack vs original 38.
+Same four children as 1920 Station Camp (Sarah A / Arthur / Corlue=Carlos / Clarence).
+
+=== 1900 LEE T623-537 12thcensusofpopu537unit (image seen) ===
+ED 52 Sturgeon Precinct 6. Leaf 0935 = sh 2A ends hh 27/27 Sams, Allen.
+Leaf 0936 = sh 2B line 54:
+  Newman, Boyd  Boarder  M  Mar 1878  22  S  KY KY KY  Day Laborer
+Compiled Kendrick: Boyd NEWNAM boarder 3/1878 22 s in Allen SAMS 27/27.
+Compiled: Oliver BRANDENBURGH 41/41 Allie A. dau 11/1885 14 s — original of hh 41 not isolated this pass.
+
+=== CERTS 28501 / 31780 ===
+Still unread. SortedByName directory has floyd_newman.html, no boyd_newman.html.
+Floyd page: no KY Lee/Estill ~1878-79 decedent. Closest Floyd b. 14 Oct 1878 Galax VA
+(son John A × Adline Williams) — rejected.
+
+=== FS R011 step 30 ===
+Seven IDs HTTP 403. Images unread.
+
+=== ACCESS HONESTY ===
+soundex1910ky124 leaves 234-258 and 268-282 image seen.
+T624-478 leaves 528-555 image seen; 0536 household image seen.
+T623-537 leaves 934-943 downloaded; 0935-0936 Boyd boarder image seen.
+USGenNet/RootsWeb 1900 Sturgeon HTML seen (compiled).
+SortedByName floyd_newman.html seen. Certs 28501/31780 unread.
+Book 6 register unread. FS unread. Authored latest.docx SHA 78cdcf44… not overwritten.

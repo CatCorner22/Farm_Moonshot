@@ -1,0 +1,17 @@
+1920 FEDERAL CENSUS FOR WOLFE COUNTY, KENTUCKY
+ANTIOCH PRECINCT NUMBER 8
+Source: https://kygenweb.net/wolfe/txt/1920k.txt
+Transcribed by Carole Bays. HTML seen 30 Oct 2026 (WebFetch).
+Enumeration Dist. 242, Austin Crawford, 26 Jan 1920.
+
+GREP (Newman / Newnam / McCoy / Noonan / Nunan / Newan): **nil**.
+Near-hits REJECTED:
+  hh 50 HOLLON, John L. 48 — wrong surname.
+  hh 31 CHILDERS, Richard + Dora 26 wife — Dora Childers, not P001.
+  hh 65 ROBERTS, Frank + Dora 20 dau — Dora Roberts.
+  hh 46 KING, George W. + Cora 6 dau — child Cora King.
+  hh 20 STONE, Lou Cinda 68 wid + Laran 36; hh 80 STONE, Alfred 29
+    — Stone surname present; no Newman / no match to T. A. Stone.
+
+Here ends Antioch Precinct 8 (household numbers out of sequence per transcriber).
+Transcription only. Original T625-602 ED 242 still dark / not isolated.

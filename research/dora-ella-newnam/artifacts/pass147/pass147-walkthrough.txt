@@ -1,0 +1,6 @@
+Pass 147 walkthrough (Cloud Agent)
+1. Resumed pass147 fetch from prior worker — inventory 0 miss Lincoln/Hopkins/Mercer; Larue +5 leaves fetched.
+2. B058: loc-sn89051008-pass147.json digitized false; IA Solr 1926 = 0.
+3. Visual: lincoln-n0178-william-band — Willis Newnam 41 REJECT.
+4. Visual: hopkins-n0249-niman-tight — Milton Newman 19 REJECT.
+5. Every-line surname crops on disk for four counties; montages not committed (255M).

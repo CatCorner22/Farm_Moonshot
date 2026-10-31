@@ -1,0 +1,1009 @@
+Hancock County, KY 1850 Federal Census         (File 4 of 4)
+
+This Census was transcribed by George Lee Gibbs, Sr <megibbs@mindspring.com> and
+proofread by Mary Gibbs for the USGenWeb Census Project http://www.usgenweb.org/census.
+
+Copyright (c) 1999 by George Lee Gibbs, Sr <megibbs@mindspring.com>
+
+************************************************************************
+USGENWEB NOTICE:  These electronic pages may NOT be reproduced in
+any format for profit or presentation by any other organization or
+persons. Persons or organizations desiring to use this material,
+must obtain the written consent of the contributor, or the legal
+representative of the submitter, and contact the listed USGenWeb
+archivist with proof of this consent.
+************************************************************************
+
+        Census_Year       1850
+        Microfilm #       M432-202
+        State             Kentucky
+        County            Hancock
+
+---------------------Begin Actual Transcription----------------------------------
+
+CENSUS YEAR: 1850    STATE: KY    COUNTY: Hancock    REEL: M432-202    ENUMERATOR: 28 Aug 1850, W. P. D. Bush
+====================================================================================================================================================
+    |   |   |    |                                   |      |   |    |                   |     |           |MAR|   |CANNOT|DEAF |
+    |   |   |    |                                   |      |   |    |                   |     |           |IN |ATT|READ  |DUMB |TRANSCRIBER
+PG# |LN#|DW |FM  |LAST NAME         FIRST NAME       |AGE   |SEX|RACE|OCCUPATION         |VALUE|BIRTHPLACE |YR |SCH|WRITE |BLIND|REMARKS
+====================================================================================================================================================
+294b 1   404 421  Matthews          John              32     M   .    Farmer              350   Ky          .   .   .      .     page 293b. Has no Handwritten number
+294b 2   404 421  Matthews          Mary              34     F   .    .                   .     Ky          .   .   X      .     .
+294b 3   404 421  Matthews          Manirva           5      F   .    .                   .     Ky          .   .   .      .     .
+294b 4   404 421  Matthews          Martha            3      F   .    .                   .     Ky          .   .   .      .     .
+294b 5   404 421  Matthews          William           1      M   .    .                   .     Ky          .   .   .      .     .
+294b 6   405 422  Gibbs             Thomas Newman     48     M   .    Farmer              1500  Ky          .   .   .      .     .
+294b 7   405 422  Gibbs             Eliza Isabella    32     F   .    .                   .     Ky          .   .   .      .     Not listed on Census Record. Maidenname Harris
+294b 8   405 422  Gibbs             John              19     M   .    None                .     Ky          .   .   .      .     .
+294b 9   405 422  Gibbs             Elizabeth         16     F   .    .                   .     Ky          .   X   .      .     .
+294b 10  405 422  Gibbs             Charles           14     M   .    .                   .     Ky          .   .   .      .     .
+294b 11  405 422  Gibbs             Thomas            12     M   .    .                   .     Ky          .   .   .      .     .
+294b 12  405 422  Gibbs             Margaret          6      F   .    .                   .     Ky          .   .   .      .     .
+294b 13  405 422  Gibbs             Catherine         4      F   .    .                   .     Ky          .   .   .      .     .
+294b 14  405 422  Gibbs             Alfred            11/12  M   .    .                   .     Ky          .   .   .      .     .
+294b 15  406 423  Faulconer         Eugene A.         32     M   .    Clerk               .     Va          .   .   .      .     .
+294b 16  406 423  Faulconer         Martha            32     F   .    .                   .     Ky          .   .   .      .     Not listed on Census Record. Maidenname Wroe
+294b 17  406 423  Wroe              Elizabeth         16     F   .    .                   .     Ky          .   .   .      .     .
+294b 18  407 424  Newton            William           32     M   .    Farmer              150   Ky          .   .   .      .     .
+294b 19  407 424  Newton            Sarah             35     F   .    .                   .     Ky          .   .   .      .     Not listed on Census Record. Maidenname Sinnett
+294b 20  407 424  Newton            Isiah             14     M   .    .                   .     Ky          .   .   .      .     .
+294b 21  407 424  Newton            Mary M.           12     F   .    .                   .     Ky          .   X   .      .     .
+294b 22  407 424  Newton            Joseph            9      M   .    .                   .     Ky          .   X   .      .     .
+294b 23  407 424  Newton            James             7      M   .    .                   .     Ky          .   X   .      .     .
+294b 24  407 424  Newton            Jacob H.          6      M   .    .                   .     Ky          .   .   .      .     .
+294b 25  407 424  Newton            Richard           4      M   .    .                   .     Ky          .   .   .      .     .
+294b 26  407 424  Newton            Zachary T.        5/12   M   .    .                   .     Ky          .   .   .      .     .
+294b 27  408 425  Williams          Henry W.          49     M   .    Farmer              4820  Va          .   .   .      .     .
+294b 28  408 425  Williams          Nancy             37     F   .    .                   .     Ky          .   .   .      .     .
+294b 29  408 425  Williams          John              16     M   .    None                .     Ky          .   X   .      .     .
+294b 30  408 425  Williams          Franklin          15     M   .    .                   .     Ky          .   X   .      .     .
+294b 31  408 425  Williams          Sarah             12     F   .    .                   .     Ky          .   X   .      .     .
+294b 32  408 425  Williams          James             8      M   .    .                   .     Ky          .   X   .      .     .
+294b 33  408 425  Williams          Levi              6      M   .    .                   .     Ky          .   .   .      .     .
+294b 34  408 425  Williams          Catherine         10/12  F   .    .                   .     Ky          .   .   .      .     .
+294b 35  409 426  Brown             Abraham           35     M   .    Farmer              .     Switzerland .   .   .      .     .
+294b 36  409 426  Brown             Susanna           24     F   .    .                   .     Ky          .   .   .      .     Not listed on Census Record. Maidenname Nichols
+294b 37  409 426  Brown             Caroline          7      F   .    .                   .     Ky          .   .   .      .     .
+294b 38  409 426  Brown             Susan             5      F   .    .                   .     Ky          .   .   .      .     .
+294b 39  409 426  Brown             Mary              1      F   .    .                   .     Ky          .   .   .      .     .
+294b 40  409 426  Nichols           Joseph            5      M   .    .                   .     Ky          .   .   .      .     .
+294b 41  410 427  Thornton          Thomas W.         25     M   .    Blacksmith          300   Ky          .   .   .      .     .
+294b 42  410 427  Thornton          Sarah C.          25     F   .    .                   .     Ky          .   .   .      .     .
+
+CENSUS YEAR: 1850    STATE: KY    COUNTY: Hancock    REEL: M432-202    ENUMERATOR: 28 Aug 1850, W. P. D. Bush
+====================================================================================================================================================
+    |   |   |    |                                   |      |   |    |                   |     |           |MAR|   |CANNOT|DEAF |
+    |   |   |    |                                   |      |   |    |                   |     |           |IN |ATT|READ  |DUMB |TRANSCRIBER
+PG# |LN#|DW |FM  |LAST NAME         FIRST NAME       |AGE   |SEX|RACE|OCCUPATION         |VALUE|BIRTHPLACE |YR |SCH|WRITE |BLIND|REMARKS
+====================================================================================================================================================
+295a 1   410 427  Thornton          Eliza J.          2      F   .    .                   .     Ky          .   .   .      .     page 295a . In top right hand corner has #589 handwritten
+295a 2   410 427  Thornton          William G.        7/12   M   .    .                   .     Ky          .   .   .      .     .
+295a 3   411 428  Howard            Elizabeth         55     F   .    .                   400   Va          .   .   .      .     .
+295a 4   411 428  Howard            Harriet N.        21     F   .    .                   .     Ky          .   .   .      .     .
+295a 5   411 428  Howard            Thomas H.         18     M   .    None                .     Ky          .   .   .      .     .
+295a 6   411 428  Howard            Richard           15     M   .    .                   .     Ky          .   .   .      .     .
+295a 7   411 428  Howard            D. Grafton        13     M   .    .                   .     Ky          .   .   .      .     .
+295a 8   411 428  Cook              Martha            8      F   .    .                   .     Ky          .   .   .      .     .
+295a 9   411 428  Cook              Parker            5      M   .    .                   .     Ky          .   .   .      .     .
+295a 10  412 429  Crammond          John              34     M   .    Farmer              2200  Scotland    .   .   .      .     .
+295a 11  412 429  Crammond          Eliza Jane        34     F   .    .                   .     Ky          .   .   .      .     Not listed on Census Record. Maidenname Stowers
+295a 12  412 429  Crammond          William D.        2      M   .    .                   .     Ky          .   .   .      .     .
+295a 13  412 429  Simpson           Sarah J.          14     F   .    .                   .     Ky          .   .   .      .     .
+295a 14  412 429  Stowers           Nicholas A.       6      M   .    .                   .     Ky          .   .   .      .     .
+295a 15  412 429  Agustus           Sarah             35     F   .    .                   .     Ky          .   .   .      .     .
+295a 16  413 430  Miller            William W.        31     M   .    Farmer              350   Ky          .   .   .      .     Not listed on Census Record. Maidenname Tichenor
+295a 17  413 430  Miller            Laura             25     F   .    .                   .     Ky          .   .   X      .     .
+295a 18  413 430  Miller            Elizabeth         7      F   .    .                   .     Ky          .   X   .      .     .
+295a 19  413 430  Miller            Francis M.        5      M   .    .                   .     Ky          .   .   .      .     .
+295a 20  413 430  Miller            Mary C            3      F   .    .                   .     Ky          .   .   .      .     .
+295a 21  413 430  Miller            Amilda H.         1      F   .    .                   .     Ky          .   .   .      .     .
+295a 22  414 431  Chambers          Henry V.          31     M   .    Farmer              650   Ky          .   .   .      .     .
+295a 23  414 431  Chambers          Sarah E.          22     F   .    .                   .     Ky          .   .   .      .     .
+295a 24  414 431  Chambers          Franklin          5      M   .    .                   .     Ky          .   .   .      .     .
+295a 25  414 431  Chambers          Ruth              3      F   .    .                   .     Ky          .   .   .      .     .
+295a 26  414 431  Chambers          Eloisa            5/12   F   .    .                   .     Ky          .   .   .      .     .
+295a 27  415 432  Newman            William           26     M   .    Farmer              .     Ky          .   .   .      .     .
+295a 28  415 432  Newman            Catherine O.      17     F   .    .                   .     Ky          .   .   .      .     .
+295a 29  415 432  Newman            Louisa            4/12   F   .    .                   .     Ky          .   .   .      .     .
+295a 30  416 433  Wroe              Edmund            40     M   .    Farmer              700   Ga          .   .   .      .     .
+295a 31  416 433  Wroe              Frances           14     F   .    .                   .     Ky          .   X   .      .     .
+295a 32  416 433  Wroe              Thomas            13     M   .    .                   .     Ky          .   .   .      .     .
+295a 33  416 433  Wroe              Sarah             8      F   .    .                   .     Ky          .   X   .      .     .
+295a 34  416 433  Wroe              Martha            6      F   .    .                   .     Ky          .   X   .      .     .
+295a 35  416 433  Wroe              Amos              4      M   .    .                   .     Ky          .   .   .      .     .
+295a 36  416 433  Wroe              Elizabeth         63     F   .    .                   .     Va          .   .   .      .     .
+295a 37  417 434  Wroe              Wormley           19     M   .    Farmer              .     Ky          .   X   .      .     .
+295a 38  417 434  Wroe              Henrietta         21     F   .    .                   .     Ky          .   X   .      .     Not listed on Census Record. Maidenname Black
+295a 39  418 435  Chambers          John L.           25     M   .    Farmer              100   Ky          .   .   .      .     .
+295a 40  418 435  Chambers          Eveline           15     F   .    .                   .     Ky          .   .   .      .     .
+295a 41  418 435  Gatewood          Alexander         39     M   .    None                .     Ky          .   .   .      .     .
+295a 42  419 436  Chambers          George            72     M   .    Farmer              1440  Ky          .   .   .      .     .
+
+CENSUS YEAR: 1850    STATE: KY    COUNTY: Hancock    REEL: M432-202    ENUMERATOR: 28 Aug 1850, W. P. D. Bush
+====================================================================================================================================================
+    |   |   |    |                                   |      |   |    |                   |     |           |MAR|   |CANNOT|DEAF |
+    |   |   |    |                                   |      |   |    |                   |     |           |IN |ATT|READ  |DUMB |TRANSCRIBER
+PG# |LN#|DW |FM  |LAST NAME         FIRST NAME       |AGE   |SEX|RACE|OCCUPATION         |VALUE|BIRTHPLACE |YR |SCH|WRITE |BLIND|REMARKS
+====================================================================================================================================================
+295b 1   419 436  Chambers          Sarah             67     F   .    .                   .     Ky          .   .   .      .     page 295b. Has no Handwritten number
+295b 2   419 436  Chambers          William G.        23     M   .    Farmer              .     Ky          .   .   .      .     .
+295b 3   420 437  Elliott           James             48     M   .    Farmer              500   Ky          .   .   .      .     .
+295b 4   420 437  Elliott           Mary              38     F   .    .                   .     Ky          .   .   X      .     .
+295b 5   420 437  Elliott           John C.           18     M   .    None                .     Ky          .   X   .      .     .
+295b 6   420 437  Elliott           William T.        16     M   .    None                .     Ky          .   X   .      .     .
+295b 7   420 437  Elliott           James D.          14     M   .    .                   .     Ky          .   X   .      .     .
+295b 8   420 437  Elliott           Sarah A.          7      F   .    .                   .     Ky          .   .   .      .     .
+295b 9   420 437  Elliott           George W.         5      M   .    .                   .     Ky          .   .   .      .     .
+295b 10  420 437  Elliott           Benjamin F.       3      M   .    .                   .     Ky          .   .   .      .     .
+295b 11  420 437  Elliott           Josephus          1      M   .    .                   .     Ky          .   .   .      .     .
+295b 12  421 438  Jagers            James M.          62     M   .    Farmer              2000  Ky          .   .   .      .     .
+295b 13  421 438  Jagers            Sarah             41     F   .    .                   .     Ky          .   .   .      .     .
+295b 14  421 438  Jagers            Daniel            27     M   .    None                .     Ky          .   .   .      .     .
+295b 15  421 438  Jagers            Elizabeth         25     F   .    .                   .     Ky          .       .      X     Idiotic
+295b 16  421 438  Jagers            Joseph C.         4      M   .    .                   .     Ky          .   .   .      .     .
+295b 17  421 438  Jagers            Benjamin C.       2      M   .    .                   .     Ky          .   .   .      .     .
+295b 18  421 438  Jagers            David C.          4/12   M   .    .                   .     Ky          .   .   .      .     .
+295b 19  421 438  Gatewood          George Ann        13     F   .    .                   .     Ky          .   X   .      .     .
+295b 20  421 438  Patterson         John J.           10     M   .    .                   .     Ky          .   X   .      .     .
+295b 21  421 438  Patterson         Rebecca J.        8      F   .    .                   .     Ky          .   X   .      .     .
+295b 22  422 439  Davidson          Mrs. Emily        46     F   .    .                   350   Vt          .   .   .      .     .
+295b 23  422 439  Jagers            William           25     M   .    Farmer              .     Ky          .   .   .      .     .
+295b 24  422 439  Jagers            Roxina            17     F   .    .                   .     Ky          .   .   .      .     .
+295b 25  422 439  Jagers            Emily J.          1      F   .    .                   .     Ky          .   .   .      .     .
+295b 26  422 439  Jagers            John              21     M   .    None                .     Ky          .   .   .      .     .
+295b 27  422 439  Jagers            Narcissus         10     F   .    .                   .     Ky          .   X   .      .     .
+295b 28  422 439  Jagers            William           6      F   .    .                   .     Ky          .   X   .      .     .
+295b 29  423 440  Dupuy             James             63     M   .    Farmer              2500  Ky          .   .   .      .     .
+295b 30  423 440  Dupuy             Mary A.           49     F   .    .                   .     Ky          .   .   .      .     .
+295b 31  423 440  Dupuy             Louisa J.         24     F   .    .                   .     Ind         .   .   .      .     .
+295b 32  423 440  Dupuy             Napoleon          13     M   .    .                   .     Ky          .   .   .      .     .
+295b 33  424 441  Kellams           James M.          47     M   .    Farmer              550   Tenn        .   .   .      .     .
+295b 34  424 441  Kellams           Elizabeth         45     F   .    .                   .     Ky          .   .   .      .     .
+295b 35  424 441  Kellams           Martha J.         17     F   .    .                   .     Ky          .   X   .      .     .
+295b 36  424 441  Kellams           Josephine         10     F   .    .                   .     Ky          .   X   .      .     .
+295b 37  424 441  Kellams           Lemuel C.         8      M   .    .                   .     Ky          .   X   .      .     .
+295b 38  424 441  Kellams           Valina            5      F   .    .                   .     Ky          .   X   .      .     .
+295b 39  424 441  Nichols           Nancy             17     F   .    .                   .     Ky          .   .   .      .     .
+295b 40  425 442  Terrill           Armistead B.      40     M   .    Wagon Maker         300   Va          .   .   .      .     .
+295b 41  425 442  Terrill           Margaret          38     F   .    .                   .     Ky          .   .   X      .     .
+295b 42  425 442  Terrill           Mildred           18     F   .    .                   .     Ky          .   .   .      .     .
+
+CENSUS YEAR: 1850    STATE: KY    COUNTY: Hancock    REEL: M432-202    ENUMERATOR: 29 Aug 1850, W. P. D. Bush
+====================================================================================================================================================
+    |   |   |    |                                   |      |   |    |                   |     |           |MAR|   |CANNOT|DEAF |
+    |   |   |    |                                   |      |   |    |                   |     |           |IN |ATT|READ  |DUMB |TRANSCRIBER
+PG# |LN#|DW |FM  |LAST NAME         FIRST NAME       |AGE   |SEX|RACE|OCCUPATION         |VALUE|BIRTHPLACE |YR |SCH|WRITE |BLIND|REMARKS
+====================================================================================================================================================
+296a 1   425 442  Terrill           Eliza             16     F   .    .                   .     Ky          .   .   .      .     page 296a . In top right hand corner has #591 handwritten
+296a 2   425 442  Terrill           Margaret          14     F   .    .                   .     Ky          .   X   .      .     .
+296a 3   425 442  Terrill           Elinor            12     F   .    .                   .     Ky          .   X   .      .     .
+296a 4   425 442  Terrill           James             9      M   .    .                   .     Ky          .   X   .      .     .
+296a 5   425 442  Terrill           Mary              7      F   .    .                   .     Ky          .   .   .      .     .
+296a 6   425 442  Terrill           William           5      M   .    .                   .     Ky          .   .   .      .     .
+296a 7   425 442  Terrill           Francis           3      F   .    .                   .     Ky          .   .   .      .     .
+296a 8   425 442  Terrill           Robert            1      M   .    .                   .     Ky          .   .   .      .     .
+296a 9   425 442  Ferguson          William H.        25     M   .    Farmer              .     Ky          .   .   .      .     .
+296a 10  426 443  Ferguson          William           74     M   .    Farmer              .     Md          .   .   .      .     .
+296a 11  426 443  Ferguson          Margaret          59     F   .    .                   .     Ga          .   .   .      .     .
+296a 12  426 443  Ferguson          Anna              30     F   .    .                   .     Ky          .   .   .      .     .
+296a 13  426 443  Ferguson          Sarah             21     F   .    .                   .     Ky          .   .   .      .     .
+296a 14  426 443  Ferguson          Margaret          19     F   .    .                   .     Ky          .   .   .      .     .
+296a 15  426 443  Ferguson          Isabel            17     F   .    .                   .     Ky          .   .   .      .     .
+296a 16  427 444  Lamar             William L.        36     M   .    Farmer              800   Md          X   .   .      .     .
+296a 17  427 444  Lamar             Susan             22     F   .    .                   .     Ky          X   .   .      .     Not listed on Census Record. Maidenname Lamar
+296a 18  428 445  Montgomery        Pius              34     M   .    Farmer              500   Ky          .   .   .      .     .
+296a 19  428 445  Montgomery        Harriet           30     F   .    .                   .     Ky          .   .   .      .     .
+296a 20  428 445  Montgomery        Louisa J.         10     F   .    .                   .     Ky          .   .   .      .     .
+296a 21  428 445  Montgomery        Charles W.        8      M   .    .                   .     Ky          .   .   .      .     .
+296a 22  428 445  Montgomery        Monarchy          6      F   .    .                   .     Ky          .   .   .      .     .
+296a 23  428 445  Montgomery        Josephine         4      F   .    .                   .     Ky          .   .   .      .     .
+296a 24  428 445  Montgomery        George            3      M   .    .                   .     Ky          .   .   .      .     .
+296a 25  429 446  Wood              James L.          30     M   .    Miller              1200  Ohio        .   .   .      .     .
+296a 26  430 447  Oldham            James M.          34     M   .    Farmer              .     Ky          .   .   X      .     Complete Name, James Madison Oldham
+296a 27  430 447  Oldham            Rebecca           28     F   .    .                   .     Ky          .   .   X      .     Not listed on Census Record. Maidenname Kiper
+296a 28  430 447  Oldham            Lyman             9      M   .    .                   .     Ky          .   X   .      .     .
+296a 29  430 447  Oldham            Harriet           7      F   .    .                   .     Ky          .   .   .      .     .
+296a 30  430 447  Oldham            Sarah             5      F   .    .                   .     Ky          .   .   .      .     .
+296a 31  430 447  Oldham            John              3      M   .    .                   .     Ky          .   .   .      .     .
+296a 32  430 447  Oldham            Nancy             1      F   .    .                   .     Ky          .   .   .      .     .
+296a 33  431 448  Nichols           Joseph            22     M   .    Farmer              400   Ky          .   .   .      .     .
+296a 34  431 448  Nichols           Catherine         23     F   .    .                   .     Ky          .   .   .      .     Not listed on Census Record. Maidenname Hale
+296a 35  431 448  Nichols           Joseph E.         2      M   .    .                   .     Ky          .   .   .      .     .
+296a 36  432 449  Nichols           Shadrack          59     M   .    Farmer              1000  N.C.        .   .   X      .     .
+296a 37  432 449  Nichols           Agnes M.          23     F   .    .                   .     Ky          .   .   X      .     .
+296a 38  433 450  Nichols           Edmund            21     M   .    Farmer              400   Ky          .   .   .      .     .
+296a 39  433 450  Nichols           Mary Jane         23     F   .    .                   .     Ohio        .   .   .      .     Not listed on Census Record. Maidenname Rice
+296a 40  434 451  Paul              Henry             45     M   .    Farmer              600   D.C.        .   .   .      .     .
+296a 41  434 451  Paul              Elizabeth         49     F   .    .                   .     Penn        .   .   .      .     .
+296a 42  434 451  Paul              Elvira            20     F   .    .                   .     Md          .   .   .      .     .
+
+CENSUS YEAR: 1850    STATE: KY    COUNTY: Hancock    REEL: M432-202    ENUMERATOR: 28 Aug 1850, W. P. D. Bush
+====================================================================================================================================================
+    |   |   |    |                                   |      |   |    |                   |     |           |MAR|   |CANNOT|DEAF |
+    |   |   |    |                                   |      |   |    |                   |     |           |IN |ATT|READ  |DUMB |TRANSCRIBER
+PG# |LN#|DW |FM  |LAST NAME         FIRST NAME       |AGE   |SEX|RACE|OCCUPATION         |VALUE|BIRTHPLACE |YR |SCH|WRITE |BLIND|REMARKS
+====================================================================================================================================================
+296b 1   434 451  Paul              Rebecca V.        16     F   .    .                   .     Md          .   X   .      .     page 296b. Has no Handwritten number
+296b 2   434 451  Paul              Elizabeth         14     F   .    .                   .     Md          .   .   .      .     .
+296b 3   434 451  Paul              Augustus H.       10     M   .    .                   .     Ky          .   .   .      .     .
+296b 4   434 451  Fox               Mary J.           23     F   .    .                   .     Md          .   .   .      .     .
+296b 5   435 452  Pate              William           75     M   .    Farmer              1300  Va          .   .   .      .     .
+296b 6   435 452  Pate              Nancy             70     F   .    .                   .     Va          .   .   .      .     .
+296b 7   436 453  Lyons             Elias             35     M   .    Farmer              900   Ky          .   .   .      .     .
+296b 8   436 453  Lyons             Catherine         34     F   .    .                   .     Ky          .   .   X      .     Not listed on Census Record. Maidenname Newton
+296b 9   436 453  Lyons             Susan             11     F   .    .                   .     Ky          .   X   .      .     .
+296b 10  436 453  Lyons             Julia             8      F   .    .                   .     Ky          .   X   .      .     .
+296b 11  436 453  Lyons             David             6      F   .    .                   .     Ky          .   .   .      .     .
+296b 12  436 453  Lyons             Tabitha Ann       4      F   .    .                   .     Ky          .   .   .      .     .
+296b 13  436 453  Lyons             William           3      M   .    .                   .     Ky          .   .   .      .     .
+296b 14  436 453  Lyons             Nathaniel         1      M   .    .                   .     Ky          .   .   .      .     .
+296b 15  437 454  Bradshaw          John              32     M   .    Farmer              300   Ky          .   .   X      .     .
+296b 16  437 454  Bradshaw          Susanna           27     F   .    .                   .     Ky          .   .   X      .     Not listed on Census Record. Maidenname Lyons
+296b 17  437 454  Bradshaw          William M.        9      M   .    .                   .     Ky          .   .   .      .     .
+296b 18  437 454  Bradshaw          Elias             5      M   .    .                   .     Ky          .   .   .      .     .
+296b 19  437 454  Bradshaw          Philander         3      M   .    .                   .     Ky          .   .   .      .     .
+296b 20  437 454  Bradshaw          Mary C.           1      F   .    .                   .     Ky          .   .   .      .     .
+296b 21  437 454  Bradshaw          William           78     M   .    Farmer              .     Va          .   .   .      .     .
+296b 22  438 455  Newton            James F.          30     M   .    Farmer              200   Ky          .   .   .      .     .
+296b 23  438 455  Newton            Martha "Matilda"? 31     F   .    .                   .     Ky          .   .   .      .     Not listed on Census Record. Maidenname Bowling
+296b 24  438 455  Newton            Charles F.        4      M   .    .                   .     Ky          .   .   .      .     .
+296b 25  438 455  Newton            Mildred S.        1      F   .    .                   .     Ky          .   .   .      .     .
+296b 26  439 456  Newton            James             65     M   .    Farmer              200   Va          .   .   .      .     .
+296b 27  439 456  Newton            Sarah             67     F   .    .                   .     Va          .   .   .      .     .
+296b 28  440 457  Pate              John A.           32     M   .    Farmer              .     Ky          .   .   .      .     .
+296b 29  440 457  Pate              Nancy J.          39     F   .    .                   .     Tenn        .   .   .      .     .
+296b 30  440 457  Pate              John W.L.         8      M   .    .                   .     Ky          .   .   .      .     .
+296b 31  440 457  Pate              Samuel T.L.       6      M   .    .                   .     Ky          .   .   .      .     .
+296b 32  440 457  Pate              Mary W.           3      F   .    .                   .     Ky          .   .   .      .     .
+296b 33  441 458  Ewan              David             41     M   .    Farmer              400   Penn        .   .   .      .     Family # 458 has Evan in Book. Microfilm has "Ewan"
+296b 34  441 458  Ewan              Lucinda           32     F   .    .                   .     Ky          .   .   X      .     Not listed on Census Record. Maidenname Newton
+296b 35  441 458  Ewan              Sarah C.          4      F   .    .                   .     Ky          .   .   .      .     .
+296b 36  441 458  Ewan              James             2      M   .    .                   .     Ky          .   .   .      .     .
+296b 37  441 458  Ewan              Elizabeth         2      F   .    .                   .     Ky          .   .   .      .     .
+296b 38  441 458  Newton            James Thomas      10     M   .    .                   .     Ky          .   X   .      .     .
+296b 39  441 458  Newton            Mary              8      F   .    .                   .     Ky          .   .   .      .     .
+296b 40  442 459  Sanders           Milton            37     M   .    Farmer              .     Ky          .   .   .      .     .
+296b 41  442 459  Sanders           Sally             36     F   .    .                   .     Ky          .   .   X      .     Not listed on Census Record. Maidenname Richards
+296b 42  442 459  Sanders           James W.          16     M   .    None                .     Ky          .   X   .      .     .
+
+CENSUS YEAR: 1850    STATE: KY    COUNTY: Hancock    REEL: M432-202    ENUMERATOR: 11 Sep 1850, W. P. D. Bush
+====================================================================================================================================================
+    |   |   |    |                                   |      |   |    |                   |     |           |MAR|   |CANNOT|DEAF |
+    |   |   |    |                                   |      |   |    |                   |     |           |IN |ATT|READ  |DUMB |TRANSCRIBER
+PG# |LN#|DW |FM  |LAST NAME         FIRST NAME       |AGE   |SEX|RACE|OCCUPATION         |VALUE|BIRTHPLACE |YR |SCH|WRITE |BLIND|REMARKS
+====================================================================================================================================================
+297a 1   442 459  Sanders           Nancy J.          15     M   .    .                   .     Ky          .   X   .      .     page 297a . In top right hand corner has #593 handwritten
+297a 2   442 459  Sanders           Lewis G.          12     M   .    .                   .     Ky          .   X   .      .     .
+297a 3   442 459  Sanders           Julia             9      F   .    .                   .     Ky          .   X   .      .     .
+297a 4   442 459  Sanders           Charity           7      F   .    .                   .     Ky          .   .   .      .     .
+297a 5   442 459  Sanders           John B.           5      M   .    .                   .     Ky          .   .   .      .     .
+297a 6   442 459  Sanders           William           3      M   .    .                   .     Ky          .   .   .      .     .
+297a 7   442 459  Sanders           Elias             1      M   .    .                   .     Ky          .   .   .      .     .
+297a 8   442 459  Sanders           Cassa             3/12   F   .    .                   .     Ky          .   .   .      .     .
+297a 9   443 460  Anderson          William           30     M   .    Farmer              .     Ky          .   .   X      .     .
+297a 10  443 460  Anderson          Mary A.           30     F   .    .                   .     Ohio        .   .   X      .     .
+297a 11  443 460  Anderson          Margaret A.       8      F   .    .                   .     Ky          .   .   .      .     .
+297a 12  443 460  Anderson          John T.           5      M   .    .                   .     Ky          .   .   .      .     .
+297a 13  443 460  Anderson          Nancy J.          2      F   .    .                   .     Ky          .   .   .      .     .
+297a 14  443 460  Anderson          Sarah E.          6/12   F   .    .                   .     Ky          .   .   .      .     .
+297a 15  443 460  Anderson          Susan             72     F   .    .                   600   Va          .   .   .      .     .
+297a 16  444 461  Sanders           Hardin            39     M   .    Farmer              200   Ky          .   .   .      .     .
+297a 17  444 461  Sanders           Paulina           23     F   .    .                   .     Ky          .   .   X      .     Not listed on Census Record. Maidenname Cox
+297a 18  444 461  Sanders           William           19     M   .    None                .     Ky          .   X   .      .     .
+297a 19  444 461  Sanders           Milton            17     M   .    None                .     Ky          .   X   .      .     .
+297a 20  444 461  Sanders           Isaac             15     M   .    .                   .     Ky          .   X   .      .     .
+297a 21  444 461  Sanders           Sydney J.         13     F   .    .                   .     Ky          .   X   .      .     .
+297a 22  444 461  Sanders           David             8      M   .    .                   .     Ky          .   X   .      .     .
+297a 23  444 461  Sanders           Albert            6      M   .    .                   .     Ky          .   .   .      .     .
+297a 24  444 461  Sanders           Delana            4      M   .    .                   .     Ky          .   .   .      .     .
+297a 25  444 461  Sanders           John H.           3      M   .    .                   .     Ky          .   .   .      .     .
+297a 26  444 461  Cox               John W.           4      M   .    .                   .     Ky          .   .   .      .     .
+297a 27  445 462  Sanders           Abraham           61     M   .    Farmer              1000  N.C.        .   .   .      .     .
+297a 28  445 462  Sanders           Nancy             62     F   .    .                   .     N.C.        .   .   X      .     .
+297a 29  445 462  Sanders           William           20     M   .    Farmer              .     Ky          .   .   .      .     .
+297a 30  446 463  Sanders           Deland            39     M   .    Farmer              800   Ky          .   .   .      .     .
+297a 31  446 463  Sanders           Nancy             39     F   .    .                   .     Ky          .   .   X      .
+297a 32  446 463  Sanders           Abraham           18     M   .    .                   .     Ky          .   X   .      .     .
+297a 33  446 463  Sanders           Nancy             15     F   .    .                   .     Ky          .   X   .      .     .
+297a 34  446 463  Sanders           Elizabeth         13     F   .    .                   .     Ky          .   X   .      .     .
+297a 35  446 463  Sanders           Malissa J.        12     F   .    .                   .     Ky          .   X   .      .     .
+297a 36  446 463  Sanders           John A.           8      M   .    .                   .     Ky          .   .   .      .     .
+297a 37  446 463  Sanders           Subrina           6      F   .    .                   .     Ky          .   .   .      .     .
+297a 38  446 463  Sanders           Martha            2      F   .    .                   .     Ky          .   .   .      .     .
+297a 39  447 464  Lane              Lewis Green       43     M   .    Farmer              1500  Va          .   .   X      .     .
+297a 40  447 464  Lane              Mary              38     F   .    .                   .     Va          .   .   .      .     .
+297a 41  447 464  Lane              Nancy J.          17     F   .    .                   .     Va          .   X   .      .     .
+297a 42  447 464  Lane              Lewis Green, Jr.  15     M   .    .                   .     Va          .   X   .      .     .
+
+CENSUS YEAR: 1850    STATE: KY    COUNTY: Hancock    REEL: M432-202    ENUMERATOR: 12 Sep 1850, W. P. D. Bush
+====================================================================================================================================================
+    |   |   |    |                                   |      |   |    |                   |     |           |MAR|   |CANNOT|DEAF |
+    |   |   |    |                                   |      |   |    |                   |     |           |IN |ATT|READ  |DUMB |TRANSCRIBER
+PG# |LN#|DW |FM  |LAST NAME         FIRST NAME       |AGE   |SEX|RACE|OCCUPATION         |VALUE|BIRTHPLACE |YR |SCH|WRITE |BLIND|REMARKS
+====================================================================================================================================================
+297b 1   447 464  Lane              Mary M.           12     F   .    .                   .     Ky          .   X   .      .     page 297b. Has no Handwritten number
+297b 2   447 464  Lane              Angeline          11     F   .    .                   .     Ky          .   X   .      .     .
+297b 3   447 464  Lane              Fontleroy         10     M   .    .                   .     Ky          .   X   .      .     .
+297b 4   447 464  Lane              Artimissia        7      F   .    .                   .     Ky          .   X   .      .     .
+297b 5   447 464  Lane              Santannia D.      5      M   .    .                   .     Ky          .   .   .      .     .
+297b 6   447 464  Lane              Susan A.          3      F   .    .                   .     Ky          .   .   .      .     .
+297b 7   447 464  Lane              Amanda G.         1      F   .    .                   .     Ky          .   .   .      .     .
+297b 8   447 464  Clemmons          Nelson            20     M   .    None                .     Ky          .   .   .      .     .
+297b 9   448 465  Lyons             John              43     M   .    Farmer              600   Va          .   .   .      .     .
+297b 10  448 465  Lyons             Cassandra         33     F   .    .                   .     Va          .   .   .      .     .
+297b 11  448 465  Lyons             Mary E.           14     F   .    .                   .     Ky          .   X   .      .     .
+297b 12  448 465  Lyons             Francis E.        12     F   .    .                   .     Ky          .   X   .      .     .
+297b 13  448 465  Lyons             Manerva           11     F   .    .                   .     Ky          .   X   .      .     .
+297b 14  448 465  Lyons             William           7      M   .    .                   .     Ky          .   X   .      .     .
+297b 15  448 465  Lyons             Sarah C.          4      F   .    .                   .     Ky          .   .   .      .     .
+297b 16  449 466  Richards          William           43     F   .    Farmer              2600  Va          .   .   X      .     .
+297b 17  449 466  Richards          Nancy             43     F   .    .                   .     Ohio        .   .   .      .     .
+297b 18  449 466  Richards          Angeline          16     F   .    .                   .     Ky          .   .   .      .     .
+297b 19  449 466  Richards          John C.           14     M   .    .                   .     Ky          .   .   .      .     .
+297b 20  449 466  Richards          Malissa Jane      11     F   .    .                   .     Ky          .   .   .      .     .
+297b 21  449 466  Richards          Washington        8      M   .    .                   .     Ky          .   .   .      .     .
+297b 22  449 466  Richards          Oliver Perry      5      M   .    .                   .     Ky          .   .   .      .     .
+297b 23  449 466  Boman             Henry             24     M   .    Farmer              .     Ky          .   .   X      .     .
+297b 24  450 467  Philips           William           26     M   .    Farmer              150   Ky          .   .   X      .     .
+297b 25  450 467  Philips           Cynthia           33     F   .    .                   .     Va          .   .   X      .     .
+297b 26  450 467  Philips           Eliza A.          6      F   .    .                   .     Ky          .   .   .      .     .
+297b 27  450 467  Philips           George W.         5      M   .    .                   .     Ky          .   .   .      .     .
+297b 28  450 467  Philips           Rhoda M.          3      F   .    .                   .     Ky          .   .   .      .     .
+297b 29  450 467  Philips           Sarah E.          1      F   .    .                   .     Ky          .   .   .      .     .
+297b 30  450 467  Philips           John D.           4/12   .   .    .                   .     Ky          .   .   .      .     .
+297b 31  451 468  Huff              David             29     M   .    Farmer              242   Ky          .   .   .      .     Also found in Hancock County Records as "Daniel"
+297b 32  451 468  Huff              Louisa            25     F   .    .                   .     Ky          .   .   X      .     Not listed on Census Record. Maidenname Richards
+297b 33  451 468  Huff              William J.        7      M   .    .                   .     Ky          .   .   .      .     .
+297b 34  451 468  Huff              Amanda A.         5      F   .    .                   .     Ky          .   .   .      .     .
+297b 35  451 468  Huff              Nancy E.          1      F   .    .                   .     Ky          .   .   .      .     .
+297b 36  452 469  Lamaster          Johnathan D.L     35     M   .    Farmer              300   Ky          .   .   .      .     .
+297b 37  452 469  Lamaster          Nancy             20     F   .    .                   .     Ky          .   .   .      .     .
+297b 38  452 469  Lamaster          Mary E.           1      F   .    .                   .     Ky          .   .   .      .     .
+297b 39  453 470  Richards          Thomas            40     M   .    Farmer              300   Md          .   .   X      .     .
+297b 40  453 470  Richards          Virginia          39     F   .    .                   .     Ky          .   .   X      .     .
+297b 41  453 470  Richards          Isabella          21     F   .    .                   .     Ky          .   .   .      .     .
+297b 42  453 470  Richards          Davis             16     M   .    None                .     Ky          .   X   .      .     .
+
+CENSUS YEAR: 1850    STATE: KY    COUNTY: Hancock    REEL: M432-202    ENUMERATOR: 12 Sep 1850, W. P. D. Bush
+====================================================================================================================================================
+    |   |   |    |                                   |      |   |    |                   |     |           |MAR|   |CANNOT|DEAF |
+    |   |   |    |                                   |      |   |    |                   |     |           |IN |ATT|READ  |DUMB |TRANSCRIBER
+PG# |LN#|DW |FM  |LAST NAME         FIRST NAME       |AGE   |SEX|RACE|OCCUPATION         |VALUE|BIRTHPLACE |YR |SCH|WRITE |BLIND|REMARKS
+====================================================================================================================================================
+298a 1   453 470  Richards          Thomas            14     M   .    .                   .     Ky          .   X   .      .     page 298a . In top right hand corner has #595 handwritten
+298a 2   453 470  Richards          Elizabeth         11     F   .    .                   .     Ky          .   .   .      .     .
+298a 3   453 470  Richards          Jackson           7      M   .    .                   .     Ky          .   .   .      .     .
+298a 4   453 470  Richards          Henderson         6      M   .    .                   .     Ky          .   .   .      .     .
+298a 5   453 470  Richards          Sabrina           5      F   .    .                   .     Ky          .   .   .      .     .
+298a 6   454 471  McManaway         Robert            24     M   .    Farmer              .     Ky          .   .   X      .     .
+298a 7   454 471  McManaway         Malinda           19     F   .    .                   .     Ky          .   .   .      .     Not listed on Census Record. Maidenname Richards
+298a 8   454 471  McManaway         Mary E.           3/12   F   .    .                   .     Ky          .   .   .      .     .
+298a 9   455 472  Hawkins           Littleberry       41     M   .    Farmer              .     Va          .   .   .      .     .
+298a 10  455 472  Hawkins           Cordelia          20     F   .    .                   .     Ky          .   .   .      .     .
+298a 11  455 472  Hawkins           Elizabeth C.      12     F   .    .                   .     Ky          .   X   .      .     .
+298a 12  456 473  Holland           Richard           28     M   .    Farmer              .     Ky          .   .   .      .     .
+298a 13  456 473  Holland           Damania           27     F   .    .                   .     Va          .   .   .      .     .
+298a 14  456 473  Holland           Malissa           2      F   .    .                   .     Ky          .   .   .      .     .
+298a 15  456 473  Smith             Charles           17     M   .    None                .     Ky          .   .   .      .     .
+298a 16  457 474  Bright            Elijah F.         24     M   .    Farmer              .     Ky          .   .   .      .     .
+298a 17  457 474  Bright            Elizabeth         22     F   .    .                   .     Ky          .   .   .      .     .
+298a 18  457 474  Bright            Amarillus         2      F   .    .                   .     Ky          .   .   .      .     .
+298a 19  457 474  Bright            Oliver Perry      7/12   M   .    .                   .     Ky          .   .   .      .     .
+298a 20  458 475  Huff              Lewis             44     M   .    Farmer              300   Ky          .   .   .      .     .
+298a 21  458 475  Huff              Polly             38     F   .    .                   .     Ky          .   .   .      .     .
+298a 22  458 475  Huff              Martha            20     F   .    .                   .     Ky          .   .   .      .     .
+298a 23  458 475  Huff              John B.           13     M   .    .                   .     Ky          .   .   .      .     .
+298a 24  458 475  Huff              Samuel W.         11     M   .    .                   .     Ky          .   .   .      .     .
+298a 25  458 475  Huff              Mary              10     F   .    .                   .     Ky          .   .   .      .     .
+298a 26  458 475  Huff              Sarah             7      F   .    .                   .     Ky          .   .   .      .     .
+298a 27  458 475  Huff              Miza Ann          7      F   .    .                   .     Ky          .   .   .      .     .
+298a 28  458 475  Huff              William A.        3      M   .    .                   .     Ky          .   .   .      .     .
+298a 29  459 476  Martin            Mrs. Mary         45     F   .    .                   800   Ohio        .   .   X      .     .
+298a 30  459 476  Martin            Juliett           21     F   .    .                   .     Ky          .   .   .      .     .
+298a 31  459 476  Martin            Peter B.          19     M   .    Farmer              .     Ky          .   .   .      .     .
+298a 32  460 477  Smith             Thomas            34     M   .    Farmer              300   Ky          .   .   .      .     .
+298a 33  460 477  Smith             Harriet           34     F   .    .                   .     Ky          .   .   .      .     .
+298a 34  460 477  Smith             Martha J.         11     F   .    .                   .     Ky          .   .   .      .     .
+298a 35  460 477  Smith             William H.        9      M   .    .                   .     Ky          .   .   .      .     .
+298a 36  460 477  Smith             John C.           7      M   .    .                   .     Ky          .   .   .      .     .
+298a 37  460 477  Smith             Elizabeth         5      F   .    .                   .     Ky          .   .   .      .     .
+298a 38  461 478  Fuquay            William R.        41     M   .    Farmer              800   Ky          .   .   X      .     .
+298a 39  461 478  Fuquay            Polly             31     F   .    .                   .     Ky          .   .   X      .     .
+298a 40  461 478  Fuquay            John S.           15     M   .    .                   .     Ky          .   .   .      .     .
+298a 41  461 478  Fuquay            Charlotta         14     F   .    .                   .     Ky          .   .   .      .     .
+298a 42  461 478  Fuquay            Sally J.          10     F   .    .                   .     Ky          .   .   .      .     .
+
+CENSUS YEAR: 1850    STATE: KY    COUNTY: Hancock    REEL: M432-202    ENUMERATOR: 12 Sep 1850, W. P. D. Bush
+====================================================================================================================================================
+    |   |   |    |                                   |      |   |    |                   |     |           |MAR|   |CANNOT|DEAF |
+    |   |   |    |                                   |      |   |    |                   |     |           |IN |ATT|READ  |DUMB |TRANSCRIBER
+PG# |LN#|DW |FM  |LAST NAME         FIRST NAME       |AGE   |SEX|RACE|OCCUPATION         |VALUE|BIRTHPLACE |YR |SCH|WRITE |BLIND|REMARKS
+====================================================================================================================================================
+298b 1   461 478  Fuquay            Polly A.          7      F   .    .                   .     Ky          .   .   .      .     page 298b. Has no Handwritten number
+298b 2   461 478  Smith             Sally             56     F   .    .                   .     Va          .   .   X      .     .
+298b 3   462 479  Crow              Warren            23     M   .    Farmer              250   Ky          .   .   X      .     .
+298b 4   462 479  Crow              Catherine         20     F   .    .                   .     Ky          .   .   X      .     .
+298b 5   462 479  Crow              Nancy E.          3      F   .    .                   .     Ky          .   .   .      .     .
+298b 6   462 479  Crow              John T.           3/12   M   .    .                   .     Ky          .   .   .      .     .
+298b 7   463 480  Richards          Thomas            72     M   .    Farmer              200   Md          .   .   X      .     .
+298b 8   463 480  Richards          Malinda           71     F   .    .                   .     Md          .   .   .      .     .
+298b 9   464 481  Stidum            Isaac             36     M   .    Farmer              145   Ala         .   .   .      .     .
+298b 10  464 481  Stidum            Lucinda           28     F   .    .                   .     Ky          .   .   X      .     .
+298b 11  464 481  Stidum            Sally J.          11     F   .    .                   .     Ky          .   .   .      .     .
+298b 12  464 481  Stidum            Martha S.         8      F   .    .                   .     Ky          .   .   .      .     .
+298b 13  464 481  Stidum            Polly             1      F   .    .                   .     Ky          .   .   .      .     .
+298b 14  465 482  Huff              John              53     M   .    Farmer              500   Ky          .   .   .      .     .
+298b 15  465 482  Huff              Elizabeth         51     F   .    .                   .     Md          .   .   .      .     .
+298b 16  465 482  Huff              James             18     M   .    None                .     Ky          .   X   .      .     .
+298b 17  465 482  Huff              John              15     M   .    .                   .     Ky          .   .   .      .     .
+298b 18  465 482  Huff              Emarine           14     F   .    .                   .     Ky          .   .   .      .     .
+298b 19  465 482  Huff              Catherine         14     F   .    .                   .     Ky          .   .   .      .     .
+298b 20  465 482  Huff              William           11     M   .    .                   .     Ky          .   .   .      .     .
+298b 21  465 482  Huff              Singleton         7      M   .    .                   .     Ky          .   .   .      .     .
+298b 22  466 483  Midkiff           William C.        22     M   .    Farmer              .     Ky          .   .   X      .     .
+298b 23  466 483  Midkiff           Julia A.          20     F   .    .                   .     Ky          .   .   .      .     .
+298b 24  466 483  Midkiff           John W.           3/12   M   .    .                   .     Ky          .   .   .      .     .
+298b 25  466 483  Midkiff           Jermina           65     F   .    .                   .     Ky          .   .   .      .     .
+298b 26  467 484  Smith             Joseph S.         55     M   .    Farmer              .     Va          .   .          .     .
+298b 27  467 484  Smith             Armilda           21     F   .    .                   .     Ohio        .   .   .      .     .
+298b 28  467 484  Smith             John G.           20     M   .    None                .     Ohio        .   .   .      .     .
+298b 29  467 484  Smith             James             17     M   .    None                .     Ohio        .   .   .      .     .
+298b 30  467 484  Smith             Catherine         16     F   .    .                   .     Ohio        .   .   .      .     .
+298b 31  467 484  Smith             Samuel F.         12     M   .    .                   .     Ohio        .   .   .      .     .
+298b 32  467 484  Smith             Darcus            10     F   .    .                   .     Ky          .   .   .      .     .
+298b 33  467 484  Smith             George W.         7      M   .    .                   .     Ky          .   .   .      .     .
+298b 34  467 484  Smith             Martha A.         5      F   .    .                   .     Ky          .   .   .      .     .
+298b 35  468 485  Barker            Elisha            52     M   .    Farmer              .     Va          .   .   X      .     .
+298b 36  468 485  Barker            Elizabeth         38     F   .    .                   .     Ky          .   .   X      .     .
+298b 37  468 485  Barker            Abasha J.         10     F   .    .                   .     Ky          .   .   .      .     .
+298b 38  468 485  Barker            Elisha            7      M   .    .                   .     Ky          .   .   .      .     .
+298b 39  468 485  Barker            Sarah             5      F   .    .                   .     Ky          .   .   .      .     .
+298b 40  468 485  Barker            Samuel T.         3      F   .    .                   .     Ky          .   .   .      .     .
+298b 41  468 485  Barker            Mary              16     F   .    .                   .     Ky          .   .   .      .     .
+298b 42  469 486  McFerran          John              35     M   .    Farmer              1500  Ky          .   .   X      .     .
+
+CENSUS YEAR: 1850    STATE: KY    COUNTY: Hancock    REEL: M432-202    ENUMERATOR: 13 Sep 1850, W. P. D. Bush
+====================================================================================================================================================
+    |   |   |    |                                   |      |   |    |                   |     |           |MAR|   |CANNOT|DEAF |
+    |   |   |    |                                   |      |   |    |                   |     |           |IN |ATT|READ  |DUMB |TRANSCRIBER
+PG# |LN#|DW |FM  |LAST NAME         FIRST NAME       |AGE   |SEX|RACE|OCCUPATION         |VALUE|BIRTHPLACE |YR |SCH|WRITE |BLIND|REMARKS
+====================================================================================================================================================
+299a 1   469 486  McFerran          Martha C.         11     F   .    .                   .     Ky          .   X   .      .     page 299a . In top right hand corner has #597 handwritten
+299a 2   469 486  McFerran          Eliza J.          6      F   .    .                   .     Ky          .   .   .      .     .
+299a 3   469 486  Ellison           Mary              69     F   .    .                   600   Ky          .   .   .      .     .
+299a 4   470 487  Bannon            William           55     M   .    Farmer              700   Ky          .   .   .      .     .
+299a 5   470 487  Bannon            Hannah            53     F   .    .                   .     Ky          .   .   X      .     .
+299a 6   470 487  Bannon            Mary              24     F   .    .                   .     Ky          .   .   .      .     .
+299a 7   470 487  Bannon            William M.A.      20     M   .    Farmer              .     Ky          .   .   .      .     .
+299a 8   470 487  Bannon            Felix G.          18     M   .    None                .     Ky          .   .   .      .     .
+299a 9   470 487  Bennett           Jackson M.        5      M   .    .                   .     Ky          .   .   .      .     .
+299a 10  471 488  Philips           John B.           23     M   .    Farmer              250   Ky          .   .   .      .     .
+299a 11  471 488  Philips           Martha            18     F   .    .                   .     Ky          .   .   .      .     .
+299a 12  471 488  Rusher            Isaac             37     M   .    Laborer             .     Ky          .   .   X      .     .
+299a 13  471 488  Crow              Eli               30     M   .    None                .     Ky          .   .   .      .     .
+299a 14  472 489  Haynes            Jesse             29     M   .    Blacksmith          450   Ky          .   .   .      .     .
+299a 15  472 489  Haynes            Susan             20     F   .    .                   .     Ky          .   .   .      .     .
+299a 16  472 489  Haynes            Rhoda A.          3      F   .    .                   .     Ky          .   .   .      .     .
+299a 17  472 489  Haynes            Clarisa C         1      F   .    .                   .     Ky          .   .   .      .     .
+299a 18  472 489  Fin               John              23     M   .    Blacksmith          .     Tenn        .   .   .      .     .
+299a 19  473 490  Parson            Alfred            29     M   .    Farmer              .     Ky          .   .   X      .     .
+299a 20  473 490  Parson            Mary              25     F   .    .                   .     Ky          .   .   .      .     .
+299a 21  473 490  Jarboe            John              14     M   .    .                   .     Ky          .   .   .      .     .
+299a 22  474 491  Staples           William           34     M   .    Farmer              .     Ky          .   .   X      .     .
+299a 23  474 491  Staples           Polly             34     F   .    .                   .     Ky          .   .   X      .     .
+299a 24  474 491  Staples           Elizabeth         17     F   .    .                   .     Ky          .   .   .      .     .
+299a 25  474 491  Staples           George W.         16     M   .    None                .     Ky          .   .   .      .     .
+299a 26  474 491  Staples           Bryant            14     M   .    .                   .     Ky          .   .   .      .     .
+299a 27  474 491  Staples           Humphrey          5      M   .    .                   .     Ky          .   .   .      .     .
+299a 28  474 491  Staples           Lucy J.           2      F   .    .                   .     Ky          .   .   .      .     .
+299a 29  474 491  Staples           Ashsah            9/12   F   .    .                   .     Ky          .   .   .      .     .
+299a 30  475 492  Philips           George            21     M   .    Farmer              100   Ky          X   .   .      .     .
+299a 31  475 492  Philips           Martha Ann        17     F   .    .                   .     Ind         X   .   .      .     Not listed on Census Record. Maidenname Whittenhill
+299a 32  476 493  Roberts           Humphrey          55     M   .    Farmer              .     Ky          .   .   .      .     .
+299a 33  476 493  Roberts           Lucretia          52     F   .    .                   .     Ky          .   .   X      .     .
+299a 34  476 493  Roberts           Nancy             27     F   .    .                   .     Ky          .   .   X      .     .
+299a 35  476 493  Roberts           Elizabeth         25     F   .    .                   .     Ky          .   .   X      .     .
+299a 36  476 493  Roberts           Susan             24     F   .    .                   .     Ky          .   .   X      .     .
+299a 37  476 493  Roberts           James             22     M   .    Farmer              .     Ky          .   X   .      .     .
+299a 38  476 493  Roberts           Theodosia         19     F   .    .                   .     Ky          .   .   .      .     .
+299a 39  476 493  Roberts           Milla             17     F   .    .                   .     Ky          .   .   .      .     .
+299a 40  476 493  Roberts           Martha J.         7      M   .    .                   .     Ky          .   .   .      .     .
+299a 41  477 494  Boling            John Sr.          54     M   .    Farmer              1200  Ky          .   .   .      .     .
+299a 42  477 494  Boling            Achsah            51     F   .                        .     Va          .   .   X      .     .
+
+CENSUS YEAR: 1850    STATE: KY    COUNTY: Hancock    REEL: M432-202    ENUMERATOR: 13 Sep 1850, W. P. D. Bush
+====================================================================================================================================================
+    |   |   |    |                                   |      |   |    |                   |     |           |MAR|   |CANNOT|DEAF |
+    |   |   |    |                                   |      |   |    |                   |     |           |IN |ATT|READ  |DUMB |TRANSCRIBER
+PG# |LN#|DW |FM  |LAST NAME         FIRST NAME       |AGE   |SEX|RACE|OCCUPATION         |VALUE|BIRTHPLACE |YR |SCH|WRITE |BLIND|REMARKS
+====================================================================================================================================================
+299b 1   477 494  Boling            James S.          31     M   .    Farmer              .     Ky          .   .   .      .     page 299b. Has no Handwritten number
+299b 2   477 494  Boling            Asberry           27     M   .    .                   .     Ky          .   .   .      .     .
+299b 3   477 494  Boling            Nancy             25     F   .    .                   .     Ky          .   .   .      .     .
+299b 4   477 494  Boling            John              21     M   .    None                .     Ky          .   X   .      .     .
+299b 5   477 494  Boling            Woodson           19     M   .    None                .     Ky          .   X   .      .     1850 Census has Woodrow; Microfilm has "Woodson"
+299b 6   477 494  Boling            Beauchamp         17     M   .    None                .     Ky          .   X   .      .     .
+299b 7   477 494  Boling            Malissa           15     F   .    .                   .     Ky          .   .   .      .     .
+299b 8   477 494  Boling            Henry             13     M   .    .                   .     Ky          .   X   .      .     .
+299b 9   478 495  Philips           Barnet            45     M   .    Farmer              .     Ky          .   .   .      .     .
+299b 10  478 495  Philips           Polly             45     F   .    .                   .     Ky          .   .   X      .     .
+299b 11  478 495  Philips           Nancy E.          17     F   .    .                   .     Ky          .   X   .      .     .
+299b 12  478 495  Philips           Sally A.          15     F   .    .                   .     Ky          .   X   .      .     .
+299b 13  478 495  Philips           Elizabeth         11     F   .    .                   .     Ky          .   X   .      .     .
+299b 14  478 495  Philips           Arriny P.         8      F   .    .                   .     Ky          .   X   .      .     .
+299b 15  478 495  Philips           Martha J.         5      F   .    .                   .     Ky          .   .   .      .     .
+299b 16  478 495  Philips           Judah A.          1      F   .    .                   .     Ky          .   .   .      .     .
+299b 17  479 496  Barnett           Byram             43     M   .    Farmer              .     Ky          .   .   X      .     .
+299b 18  479 496  Barnett           Elizabeth         35     F   .    .                   .     Ky          .   .   X      .     .
+299b 19  479 496  Barnett           Susan             6      F   .    .                   .     Ky          .   .   .      .     .
+299b 20  479 496  Barnett           Solomon           5      M   .    .                   .     Ky          .   .   .      .     .
+299b 21  480 497  Boling            James             57     M   .    Farmer              600   Ky          .   .   .      .     .
+299b 22  480 497  Boling            Jincy             57     F   .    .                   .     Ky          .   .   X      .     .
+299b 23  480 497  Boling            Jorden            22     M   .    Farmer              .     Ky          .   .   .      .     .
+299b 24  480 497  Boling            Martha            15     F   .    .                   .     Ky          .   .   .      .     .
+299b 25  480 497  Boling            Julin A.          13     F   .    .                   .     Ky          .   .   .      .     .
+299b 26  480 497  Boling            Jane              11     F   .    .                   .     Ky          .   X          .     .
+299b 27  481 498  Quisenberry       Moses             39     M   .    Farmer              200   Va          .   .   .      .     .
+299b 28  481 498  Quisenberry       Sarah             33     F   .    .                   .     Ky          .   .   X      .     Not listed on Census Record. Maidenname Boling
+299b 29  481 498  Quisenberry       Nancy J.          9      F   .    .                   .     Ky          .   X   .      .     .
+299b 30  481 498  Quisenberry       John              7      M   .    .                   .     Ky          .   X   .      .     .
+299b 31  481 498  Quisenberry       James H.          3      M   .    .                   .     Ky          .   .   .      .     .
+299b 32  482 499  Boling            James J.          26     M   .    Farmer              400   Ky          .   .   X      .     .
+299b 33  482 499  Boling            Frances J.        25     F   .    .                   .     Ky          .   .   X      .     .
+299b 34  482 499  Boling            James W.          6      M   .    .                   .     Ky          .   .   .      .     .
+299b 35  482 499  Boling            Susanna           3      F   .    .                   .     Ky          .   .   .      .     .
+299b 36  482 499  Boling            Jincy             1      F   .    .                   .     Ky          .   .   .      .     .
+299b 37  483 500  Boling            John              29     M   .    Farmer              432   Ky          .   .   .      .     .
+299b 38  483 500  Boling            Jincy             29     F   .    .                   .     Ky          .   .   .      .     .
+299b 39  483 500  Boling            James S.          4      M   .    .                   .     Ky          .   .   .      .     .
+299b 40  483 500  Boling            Charles M.        1      M   .    .                   .     Ky          .   .   .      .     .
+299b 41  484 501  Newton            Jacob             35     M   .    Farmer              600   Va          .   .   .      .     .
+299b 42  484 501  Newton            Sarah/Sally       33     F   .    .                   .     Ky          .   .   X      .     Not listed on Census Record. Maidenname Anderson
+
+CENSUS YEAR: 1850    STATE: KY    COUNTY: Hancock    REEL: M432-202    ENUMERATOR: 13 Sep 1850, W. P. D. Bush
+====================================================================================================================================================
+    |   |   |    |                                   |      |   |    |                   |     |           |MAR|   |CANNOT|DEAF |
+    |   |   |    |                                   |      |   |    |                   |     |           |IN |ATT|READ  |DUMB |TRANSCRIBER
+PG# |LN#|DW |FM  |LAST NAME         FIRST NAME       |AGE   |SEX|RACE|OCCUPATION         |VALUE|BIRTHPLACE |YR |SCH|WRITE |BLIND|REMARKS
+====================================================================================================================================================
+300a 1   484 501  Newton            James S.          18     M   .    None                .     Ky          .   X   .      .     page 300a . In top right hand corner has #599 handwritten
+300a 2   484 501  Newton            Nancy             15     F   .    .                   .     Ky          .   X   .      .     .
+300a 3   484 501  Newton            William           13     M   .    .                   .     Ky          .   X   .      .     .
+300a 4   484 501  Newton            Sarah E.          11     F   .    .                   .     Ky          .   .   .      .     .
+300a 5   484 501  Newton            Martha            9      F   .    .                   .     Ky          .   .   .      .     .
+300a 6   484 501  Newton            Jane              6      F   .    .                   .     Ky          .   .   .      .     .
+300a 7   484 501  Newton            John D.           1      M   .    .                   .     Ky          .   .   .      .     .
+300a 8   485 502  Newton            James W.          23     M   .    Farmer              .     Ky          .   .   .      .     .
+300a 9   485 502  Newton            Polly             21     F   .    .                   .     Ky          .   .   .      .     Not listed on Census Record. Maidenname Boling
+300a 10  486 503  Pate              Minor E.          41     M   .    Farmer              3700  Ky          .   .   .      .     .
+300a 11  486 503  Pate              Rebecca H.        38     F   .    .                   .     Ky          .   .   .      .     .
+300a 12  486 503  Pate              Virginia          13     F   .    .                   .     Ky          .   X   .      .     .
+300a 13  486 503  Pate              Emily             11     F   .    .                   .     Ky          .   X   .      .     .
+300a 14  486 503  Pate              Eldred E.         9      M   .    .                   .     Ky          .   X   .      .     .
+300a 15  486 503  Pate              Mary E.           7      F   .    .                   .     Ky          .   X   .      .     .
+300a 16  486 503  Pate              Sarah D.          3      F   .    .                   .     Ky          .   .   .      .     .
+300a 17  486 503  Pate              Viola             5/12   F   .    .                   .     Ky          .   .   .      .     .
+300a 18  486 503  Maitland          James B.          24     M   .    Teacher & Bap. Clery.     N.Y         .   .   .      .     .
+300a 19  487 504  Isom              Mrs. Margaret     46     F   .    .                   600   Va          .   .   .      .     .
+300a 20  487 504  Isom              James             17     M   .    Farmer              .     Ky          .   .   .      .     .
+300a 21  487 504  Isom              Julia A.          15     F   .    .                   .     Ky          .   X   .      .     .
+300a 22  487 504  Isom              David H.          13     M   .    .                   .     Ky          .   .   .      .     .
+300a 23  487 504  Isom              Susan             11     F   .    .                   .     Ky          .   .   .      .     .
+300a 24  487 504  Isom              Franklin          9      M   .    .                   .     Ky          .   .   .      .     .
+300a 25  488 505  Hale              William Sr.       63     M   .    Farmer              1200  Va          .   .   .      .     .
+300a 26  488 505  Hale              David             23     M   .    .                   .     Ky          .   .   .      .     .
+300a 27  488 505  Hale              Charles           20     M   .    .                   .     Ky          .   .   .      .     .
+300a 28  489 506  Hale              John              27     M   .    .                   .     Ky          .   .   .      .     .
+300a 29  489 506  Hale              Susan             25     F   .    .                   .     Ky          .   .   .      .     Not listed on Census Record. Maidenname Newton
+300a 30  489 506  Hale              Elizabeth         5      F   .    .                   .     Ky          .   .   .      .     .
+300a 31  489 506  Hale              Nancy             3      F   .    .                   .     Ky          .   .   .      .     .
+300a 32  489 506  Hale              James E.          8/12   M   .    .                   .     Ky          .   .   .      .     .
+300a 33  490 507  Lindsey           Eliza             36     F   .    .                   .     Ky          .   .   .      .     .
+300a 34  490 507  Lindsey           William           5      M   .    .                   .     Ky          .   .   .      .     .
+300a 35  490 507  Lindsey           Mary              3      F   .    .                   .     Ky          .   .   .      .     .
+300a 36  491 508  Hook              Matthias          51     M   .    Farmer              525   Va          .   .   .      .     .
+300a 37  491 508  Hook              Sarah             41     F   .    .                   .     Ky          .   .   .      .     .
+300a 38  491 508  Hook              Eliner            17     F   .    .                   .     Ky          .   X   .      .     .
+300a 39  491 508  Hook              Jesse             15     M   .    .                   .     Ky          .   .   .      .     .
+300a 40  491 508  Hook              Rebecca           13     F   .    .                   .     Ky          .   .   .      .     .
+300a 41  491 508  Hook              John              11     M   .    .                   .     Ky          .   .   .      .     .
+300a 42  491 508  Hook              Elizabeth         9      F   .    .                   .     Ky          .   .   .      .     .
+
+CENSUS YEAR: 1850    STATE: KY    COUNTY: Hancock    REEL: M432-202    ENUMERATOR: 13 Sep 1850, W. P. D. Bush
+====================================================================================================================================================
+    |   |   |    |                                   |      |   |    |                   |     |           |MAR|   |CANNOT|DEAF |
+    |   |   |    |                                   |      |   |    |                   |     |           |IN |ATT|READ  |DUMB |TRANSCRIBER
+PG# |LN#|DW |FM  |LAST NAME         FIRST NAME       |AGE   |SEX|RACE|OCCUPATION         |VALUE|BIRTHPLACE |YR |SCH|WRITE |BLIND|REMARKS
+====================================================================================================================================================
+300b 1   491 508  Hook              Andrew            6      M   .    .                   .     Ky          .   .   .      .     page 300b. Has no Handwritten number
+300b 2   491 508  Hook              Eliza             4      F   .    .                   .     Ky          .   .   .      .     .
+300b 3   491 508  Hook              Martin            3/12   M   .    .                   .     Ky          .   .   .      .     .
+300b 4   491 508  Hook              Manirva           3/12   F   .    .                   .     Ky          .   .   .      .     .
+300b 5   492 509  Rice              Benjamin          49     M   .    Farmer              450   Penn        .   .   .      .     .
+300b 6   492 509  Rice              Eliza             49     F   .    .                   .     Penn        .   .   X      .     .
+300b 7   492 509  Rice              Thomas            21     M   .    None                .     Va          .   .   X      .     .
+300b 8   492 509  Rice              Jesse             19     M   .    None                .     Ohio        .   .          .     .
+300b 9   492 509  Rice              Benjamin W.       15     M   .    .                   .     Ohio        .   .   .      .     .
+300b 10  492 509  Rice              Henry             13     M   .    .                   .     Ohio        .   .   .      .     .
+300b 11  492 509  Rice              Martin            11     M   .    .                   .     Ohio        .   .   .      .     .
+300b 12  493 510  Jackson           John              31     M   .    Farmer              375   Ind         .   .   .      .     .
+300b 13  493 510  Jackson           Mahala            22     F   .    .                   .     Ky          .   .   .      .     Not listed on Census Record. Maidenname Bruner
+300b 14  493 510  Jackson           Columbus          4      M   .    .                   .     Ky          .   .   .      .     .
+300b 15  493 510  Jackson           Nancy E.          2      F   .    .                   .     Ky          .   .   .      .     .
+300b 16  494 511  Wiles             John              36     M   .    Farmer              316   N.C.        .   .   .      .     .
+300b 17  494 511  Wiles             Rutha A.          25     F   .    .                   .     Ky          .   .   .      .     .
+300b 18  494 511  Wiles             Nancy E.          6      F   .    .                   .     Ky          .   X   .      .     .
+300b 19  494 511  Wiles             James K.P.        4      M   .    .                   .     Ky          .   .   .      .     .
+300b 20  494 511  Wiles             Louisanna J.      2      F   .    .                   .     Ky          .   .   .      .     .
+300b 21  494 511  Wiles             Hannibal S.       2/12   M   .    .                   .     Ky          .   .   .      .     .
+300b 22  495 512  Wells             John              34     M   .    Farmer              .     Ky          .   .   X      .     .
+300b 23  495 512  Wells             Elizabeth         34     F   .    .                   .     Tenn        .   .   X      .     .
+300b 24  495 512  Wells             James D.          11     M   .    .                   .     Ky          .   .   .      .     .
+300b 25  495 512  Wells             Martin N.         8      M   .    .                   .     Ky          .   .   .      .     .
+300b 26  495 512  Wells             John E.           5      M   .    .                   .     Ky          .   .   .      .     .
+300b 27  495 512  Wells             Charles A.        3      M   .    .                   .     Ky          .   .   .      .     .
+300b 28  495 512  Wells             Richard J.        2/12   M   .    .                   .     Ky          .   .   .      .     .
+300b 29  496 513  Bruner            George            68     M   .    Farmer              700   Va          .   .   X      .     1850 Census Book has Bennett. Microfilm has "Bruner"
+300b 30  496 513  Bruner            Mary              56     F   .    .                   .     Ky          .   .   X      .     .
+300b 31  496 513  Bruner            Horace            21     M   .    Farmer              .     Ky          .   .   .      .     .
+300b 32  496 513  Bruner            Lettitia          15     F   .    .                   .     Ky          .   .   .      .     .
+300b 33  496 513  Phillips          Mary A.           11     F   .    .                   .     Ill         .   X   .      .     .
+300b 34  496 513  Phillips          Louisa            9      F   .    .                   .     Ill         .   X   .      .     .
+300b 35  497 514  Young             George            50     M   .    Farmer              200   Ky          .   .   .      .     .
+300b 36  497 514  Young             Sarah             45     F   .    .                   .     Ky          .   .   X      .     .
+300b 37  497 514  Young             Rutha             16     F   .    .                   .     Ky          .   .   .      .     .
+300b 38  497 514  Young             Martin            14     M   .    .                   .     Ky          .   .   .      .     .
+300b 39  497 514  Young             David             12     M   .    .                   .     Ky          .   .   .      .     .
+300b 40  497 514  Young             Polly             9      F   .    .                   .     Ky          .   .   .      .     .
+300b 41  497 514  Young             James T.          4      M   .    .                   .     Ky          .   .   .      .     .
+300b 42  497 514  Young             Elizabeth         2      F   .    .                   .     Ky          .   .   .      .     .
+
+CENSUS YEAR: 1850    STATE: KY    COUNTY: Hancock    REEL: M432-202    ENUMERATOR: 16 Sep 1850, W. P. D. Bush
+====================================================================================================================================================
+    |   |   |    |                                   |      |   |    |                   |     |           |MAR|   |CANNOT|DEAF |
+    |   |   |    |                                   |      |   |    |                   |     |           |IN |ATT|READ  |DUMB |TRANSCRIBER
+PG# |LN#|DW |FM  |LAST NAME         FIRST NAME       |AGE   |SEX|RACE|OCCUPATION         |VALUE|BIRTHPLACE |YR |SCH|WRITE |BLIND|REMARKS
+====================================================================================================================================================
+301a 1   498 515  Bruner            John S.           27     M   .    Farmer              400   Ky          .   .   .      .     page 301a . In top right hand corner has #601 handwritten
+301a 2   498 515  Bruner            Mary Jane         26     F   .    .                   .     Ky          .   .   .      .     Not listed on Census Record. Maidenname Bye
+301a 3   498 515  Bruner            Joseph L.         5      M   .    .                   .     Ky          .   .   .      .     .
+301a 4   498 515  Bruner            Samuel            3      M   .    .                   .     Ky          .   .   .      .     .
+301a 5   498 515  Bruner            Annetta           10/12  F   .    .                   .     Ky          .   .   .      .     .
+301a 6   498 515  Bruner            Samuel Jr.        27     M   .    Farmer              .     Ky          .   .   .      .     .
+301a 7   499 516  Snider            George B.         26     M   .    Farmer              .     Ky          .   .   .      .     Full name, George Bruner Snider
+301a 8   499 516  Snider            Lucy T.           24     F   .    .                   .     Ky          .   .   .      .     Maidenname, Lucy Tolliver Miller
+301a 9   499 516  Snider            David E.          1      M   .    .                   .     Ky          .   .   .      .     .
+301a 10  499 516  Snider            John R.           1/12   M   .    .                   .     Ky          .   .   .      .     .
+301a 11  499 517  Miller            Margaret A.       24     F   .    .                   .     Ky          .   .   .      .     .
+301a 12  499 517  Miller            Artila            3      F   .    .                   .     Ky          .   .   .      .     .
+301a 13  500 518  Nevill            Lovit B.          35     M   .    Farmer              250   N.C.        .   .   .      .     .
+301a 14  500 518  Nevill            Mary J.           30     F   .    .                   .     Ky          .   .   .      .     .
+301a 15  500 518  Nevill            Howard            7      M   .    .                   .     Ky          .   .   .      .     .
+301a 16  500 518  Nevill            Sephrona          4      F   .    .                   .     Ky          .   .   .      .     .
+301a 17  501 519  Newton            Jacob B.          30     M   .    Farmer              .     Ky          .   .   .      .     .
+301a 18  501 519  Newton            Margaret E.       28     F   .    .                   .     Ky          .   X   .      .     Not listed on Census Record. Maidenname Snider
+301a 19  501 519  Newton            Augustus          8      M   .    .                   .     Ky          .   X   .      .     .
+301a 20  501 519  Newton            Hester            6      F   .    .                   .     Ky          .   .   .      .     .
+301a 21  501 519  Newton            John  T.          2      M   .    .                   .     Ky          .   .   .      .     .
+301a 22  501 519  Hyde              Lettitia          20     F   .    .                   .     Ky          .   .   .      .     .
+301a 23  502 520  Bubae             Adam              25     M   .    Farmer              350   Germany     .   .   .      .     1850 Census Book has Bubac. Microfilm has Bubae
+301a 24  502 520  Bubae             Victoria          26     F   .    .                   .     Germany     .   .   .      .     .
+301a 25  502 520  Bubae             Joseph            2      M   .    .                   .     Ky          .   .   .      .     .
+301a 26  503 521  Moorman           Isaac B.          28     M   .    Farmer              300   Ky          .   .   .      .     .
+301a 27  503 521  Moorman           Lucy A.           20     F   .    .                   .     Ky          .   .   .      .     .
+301a 28  503 521  Moorman           Eldred P.         3      M   .    .                   .     Ky          .   .   .      .     .
+301a 29  503 521  Moorman           Laura A.          2      F   .    .                   .     Ky          .   .   .      .     .
+301a 30  503 521  Moorman           Carter J.         3/12   M   .    .                   .     Ky          .   .   .      .     .
+301a 31  504 522  Bruner            William L.        28     M   .    Farmer              1000  Ky          .   .   .      .     .
+301a 32  504 522  Bruner            Malinda           28     F   .    .                   .     Ky          .   .   .      .     Not listed on Census Record. Maidenname Basey
+301a 33  504 522  Bruner            Samuel            7      M   .    .                   .     Ky          .   X   .      .     .
+301a 34  504 522  Bruner            Manerva           5      F   .    .                   .     Ky          .   .   .      .     .
+301a 35  504 522  Bruner            Sarah E           3      F   .    .                   .     Ky          .   .   .      .     .
+301a 36  504 522  Bruner            George L.         2      M   .    .                   .     Ky          .   .   .      .     .
+301a 37  504 522  Bruner            Nancy J.          3/12   F   .    .                   .     Ky          .   .   .      .     .
+301a 38  504 522  Ginn              Nancy             55     F   .    .                   .     Va          .   .   .      .     .
+301a 39  505 523  Collard           Richard           27     M   .    Farmer              .     Ky          .   .   X      .     .
+301a 40  505 523  Collard           Ellen             25     F   .    .                   .     Ky          .   .   X      .     .
+301a 41  505 523  Collard           John              6      M   .    .                   .     Ky          .   .   .      .     .
+301a 42  505 523  Collard           Elizabeth         4      F   .    .                   .     Ky          .   .   .      .     .
+
+CENSUS YEAR: 1850    STATE: KY    COUNTY: Hancock    REEL: M432-202    ENUMERATOR: 16 Sep 1850, W. P. D. Bush
+====================================================================================================================================================
+    |   |   |    |                                   |      |   |    |                   |     |           |MAR|   |CANNOT|DEAF |
+    |   |   |    |                                   |      |   |    |                   |     |           |IN |ATT|READ  |DUMB |TRANSCRIBER
+PG# |LN#|DW |FM  |LAST NAME         FIRST NAME       |AGE   |SEX|RACE|OCCUPATION         |VALUE|BIRTHPLACE |YR |SCH|WRITE |BLIND|REMARKS
+====================================================================================================================================================
+301b 1   505 523  Collard           Sarah J.          2      F   .    .                   .     Ky          .   .   .      .     page 301b. Has no Handwritten number
+301b 2   506 524  Collard           Leonard           25     M   .    Farmer              .     Ky          .   .   .      .     .
+301b 3   506 524  Collard           Frances           19     F   .    .                   .     Ky          .   .   .      .     Not listed on Census Record. Maidenname Richmon
+301b 4   506 524  Collard           Mary A.           4/12   F   .    .                   .     Ky          .   .   .      .     .
+301b 5   507 525  Sanders           James             21     M   .    Farmer              .     Ky          .   .   X      .     .
+301b 6   507 525  Sanders           Nancy Ann         21     F   .    .                   .     Ky          .   .   X      .     Not listed on Census Record. Maidenname Young
+301b 7   507 525  Sanders           Sarah J.          1      F   .    .                   .     Ky          .   .   .      .     .
+301b 8   508 526  Bruner            Peter Sr.         63     M   .    Farmer              6900  Ky          .   .   .      .     .
+301b 9   508 526  Bruner            Susan             55     F   .    .                   .     Va          .   .   .      .     .
+301b 10  508 526  Lambert           Rhoda A.          31     F   .    .                   .     Ky          .   .   X      .     .
+301b 11  508 526  Lambert           William H.        9      M   .    .                   .     Ky          .   .   .      .     .
+301b 12  508 526  Moon              Joseph            15     M   .    .                   .     Ky          .   .   .      .     .
+301b 13  509 527  Johnson           John              33     M   .    Farmer              1000  Md          .   .   .      .     .
+301b 14  509 527  Johnson           Elizabeth         29     F   .    .                   .     Ky          .   .   .      .     .
+301b 15  509 527  Johnson           Joseph            4      M   .    .                   .     Ky          .   .   .      .     .
+301b 16  509 527  Johnson           John              2      M   .    .                   .     Ky          .   .   .      .     .
+301b 17  509 527  Johnson           James W.          10/12  M   .    .                   .     Ky          .   .   .      .     .
+301b 18  510 528  Johnson           Joseph            31     M   .    Farmer              400   Ky          .   .   .      .     .
+301b 19  510 528  Johnson           Martha A.         21     F   .    .                   .     Ky          .   .   .      .     .
+301b 20  511 529  Bruner            Mrs. Lucinda      33     F   .    .                   .     Ky          .   .   .      .     .
+301b 21  511 529  Bruner            Lucretia S.       9      F   .    .                   .     Ky          .   X   .      .     .
+301b 22  511 529  Bruner            Mildred H.        8      F   .    .                   .     Ky          .   X   .      .     .
+301b 23  511 529  Bruner            Loysa             7      F   .    .                   .     Ky          .   X   .      .     .
+301b 24  511 529  Bruner            Cordelia          4      F   .    .                   .     Ky          .   .   .      .     .
+301b 25  512 530  Medcalf           Andrew            30     M   .    Farmer              600   Ky          .   .   .      .     .
+301b 26  512 530  Medcalf           Mary M.           25     F   .    .                   .     Ky          .   .   .      .     .
+301b 27  513 531  Richmond          Jesse             27     M   .    Farmer              100   Ky          .   .   .      .     .
+301b 28  513 531  Richmond          Marietta          23     F   .    .                   .     Ky          .   .   .      .     .
+301b 29  513 531  Richmond          Alexander S.      2      M   .    .                   .     Ky          .   .   .      .     .
+301b 30  513 531  Richmond          Elender A.        3/12   F   .    .                   .     Ky          .   .   .      .     .
+301b 31  514 532  Douthitt          Martin            22     M   .    Farmer              100   Ky          X   .   .      .     .
+301b 32  514 532  Douthitt          Mary              18     F   .    .                   .     Ky          X   .   .      .     .
+301b 33  515 533  Lyons             Thomas            25     M   .    Farmer              400   Ky          .   .   X      .     .
+301b 34  515 533  Lyons             Aga               5      F   .    .                   .     Ky          .   .   .      .     .
+301b 35  515 533  Lyons             John              3      M   .    .                   .     Ky          .   .   .      .     .
+301b 36  515 533  Terrill           Polly             47     F   .    .                   .     Ky          .   .   X      .     .
+301b 37  515 533  Terrill           William           14     M   .    .                   .     Ky          .   .   .      .     .
+301b 38  515 533  Terrill           Susan             9      F   .    .                   .     Ky          .   .   .      .     .
+301b 39  515 533  Terrill           Thomas            8      M   .    .                   .     Ky          .   .   .      .     .
+301b 40  516 534  Sinnett           William           59     M   .    Farmer              600   Ky          .   .   .      .     .
+301b 41  516 534  Sinnett           Bashabay          54     F   .    .                   .     Ky          .   .   X      .     .
+301b 42  516 534  Sinnett           Richard           28     M   .    None                .     Ky          .   .   .      .     .
+
+CENSUS YEAR: 1850    STATE: KY    COUNTY: Hancock    REEL: M432-202    ENUMERATOR: 17 Sep 1850, W. P. D. Bush
+====================================================================================================================================================
+    |   |   |    |                                   |      |   |    |                   |     |           |MAR|   |CANNOT|DEAF |
+    |   |   |    |                                   |      |   |    |                   |     |           |IN |ATT|READ  |DUMB |TRANSCRIBER
+PG# |LN#|DW |FM  |LAST NAME         FIRST NAME       |AGE   |SEX|RACE|OCCUPATION         |VALUE|BIRTHPLACE |YR |SCH|WRITE |BLIND|REMARKS
+====================================================================================================================================================
+302a 1   516 534  Sinnett           James A.          21     M   .    None                .     Ky          .   .   X      .     page 302a . In top right hand corner has #603 handwritten
+302a 2   516 534  Sinnett           Ernazelle         19     F   .    .                   .     Ky          .   .   .      .     .
+302a 3   516 534  Sinnett           Manerva A.        15     F   .    .                   .     Ky          .   .   .      .     .
+302a 4   516 534  Sinnett           William G.        12     M   .    .                   .     Ky          .   X   .      .     .
+302a 5   516 534  Sinnett           Susan E.          11     F   .    .                   .     Ky          .   X   .      .     .
+302a 6   516 534  Snider            Thomas N.         5      M   .    .                   .     Ky          .   X   .      .     .
+302a 7   516 534  Snider            Theophilus G.     3      M   .    .                   .     Ky          .   .   .      .     .
+302a 8   516 534  Straney           William           25     M   .    Physician           .     Ky          .   .   .      .     .
+302a 9   517 535  Douthitt          Mrs. Polly        46     F   .    .                   200   N.C.        .   .   X      .     .
+302a 10  517 535  Douthitt          James H.          17     M   .    None                .     Ky          .   .   .      .     .
+302a 11  517 535  Douthitt          Elizabeth         68     F   .    .                   .     Va          .   .   X      .     .
+302a 12  518 536  Roberts           Rebecca           32     F   .    .                   .     Ind         .   .   X      .     .
+302a 13  518 536  Roberts           Richard M.        5      M   .    .                   .     Ky          .   .   .      .     .
+302a 14  519 537  Temple            William           55     M   .    Farmer              1600  Ky          .   .   .      .     .
+302a 15  519 537  Temple            Susan             41     F   .    .                   .     Ky          .   .   .      .     .
+302a 16  519 537  Temple            Cosby             18     M   .    None                .     Ky          .   .   .      .     .
+302a 17  519 537  Temple            James             16     M   .    None                .     Ky          .   .   .      .     .
+302a 18  519 537  Temple            Sarah             14     F   .    .                   .     Ky          .   .   .      .     .
+302a 19  519 537  Temple            David             13     M   .    .                   .     Ky          .   .   .      .     .
+302a 20  519 537  Temple            Robert            11     M   .    .                   .     Ky          .   .   .      .     .
+302a 21  519 537  Temple            Joseph            10     M   .    .                   .     Ky          .   .   .      .     .
+302a 22  519 537  Temple            Mary              7      F   .    .                   .     Ky          .   .   .      .     .
+302a 23  519 537  Temple            William           3      M   .    .                   .     Ky          .   .   .      .     .
+302a 24  520 538  Obenchain         James             30     M   .    Farmer              300   Ky          .   .   .      .     .
+302a 25  520 538  Obenchain         Solomon           29     M   .    Farmer              300   Ky          .   .   .      .     .
+302a 26  521 539  Barnett           Mrs. Susan        63     F   .    .                   300   Va          .   .   X      .     .
+302a 27  521 539  Barnett           Nancy             39     F   .    .                   .     Ky          .   .   X      .     .
+302a 28  521 539  Barnett           William           37     M   .    .                   .     Ky          .   .   .      .     .
+302a 29  521 539  Barnett           Rebecca           32     F   .    .                   .     Ky          .   .   X      .     .
+302a 30  521 539  Barnett           Jane              25     F   .    .                   .     Ky          .   .   X      .     .
+302a 31  521 539  Barnett           Ann               23     F   .    .                   .     Ky          .   .   X      .     .
+302a 32  522 540  Obenchain         James             51     M   .    Farmer              800   Penn        .   .   .      .     .
+302a 33  522 540  Obenchain         John              46     M   .    Farmer              .     Va          .   .   .      .     .
+302a 34  522 540  Obenchain         Mary J.           36     F   .    .                   .     Va          .   .   .      .     .
+302a 35  522 540  Obenchain         Sarah M.          4      F   .    .                   .     Va          .   .   .      .     .
+302a 36  522 540  Obenchain         James H.          1      M   .    .                   .     Ky          .   .   .      .     .
+302a 37  523 541  Voyles            Levi              55     M   .    Farmer              1000  N.C.        .   .   .      .     .
+302a 38  523 541  Voyles            Bashabay          48     F   .    .                   .     Ky          .   .   X      .     .
+302a 39  523 541  Voyles            John T.           23     M   .    Farmer              400   Ky          .   .   X      .     .
+302a 40  523 541  Voyles            David B.          18     M   .    None                      Ky          .   .   .      .     .
+302a 41  524 542  Voyles            Johnathan         27     M   .    Farmer              500   Ky          .   .   X      .     .
+302a 42  524 542  Voyles            Elizabeth Jane    24     F   .    .                   .     Ky          .   .   X      .     Not listed on Census Record. Maidenname Phillips
+
+CENSUS YEAR: 1850    STATE: KY    COUNTY: Hancock    REEL: M432-202    ENUMERATOR: 17 Sep 1850, W. P. D. Bush
+====================================================================================================================================================
+    |   |   |    |                                   |      |   |    |                   |     |           |MAR|   |CANNOT|DEAF |
+    |   |   |    |                                   |      |   |    |                   |     |           |IN |ATT|READ  |DUMB |TRANSCRIBER
+PG# |LN#|DW |FM  |LAST NAME         FIRST NAME       |AGE   |SEX|RACE|OCCUPATION         |VALUE|BIRTHPLACE |YR |SCH|WRITE |BLIND|REMARKS
+====================================================================================================================================================
+302b 1   524 542  Voyles            Mary              7      F   .    .                   .     Ky          .   .   .      .     page 302b. Has no Handwritten number
+302b 2   524 542  Voyles            John C.           5      M   .    .                   .     Ky          .   .   .      .     .
+302b 3   524 542  Voyles            Charles L.        3/12   M   .    .                   .     Ky          .   .   .      .     .
+302b 4   525 543  Morrison          Tandy             41     M   .    Farmer              1000  Ky          .   .   .      .     .
+302b 5   525 543  Morrison          Charity           37     F   .    .                   .     Va          .   .   X      .     Not listed on Census Record. Maidenname Obenchain
+302b 6   525 543  Morrison          William D.        17     M   .    None                .     Ky          .   X   .      .     .
+302b 7   525 543  Morrison          John A.           15     M   .    .                   .     Ky          .   X   .      .     .
+302b 8   525 543  Morrison          Charles T.        10     M   .    .                   .     Ky          .   X   .      .     .
+302b 9   525 543  Morrison          Edward            8      M   .    .                   .     Ky          .   X   .      .     .
+302b 10  525 543  Morrison          George L.         7      M   .    .                   .     Ky          .   .   .      .     .
+302b 11  525 543  Morrison          Mary J.           4      F   .    .                   .     Ky          .   .   .      .     .
+302b 12  525 543  Morrison          David             1      M   .    .                   .     Ky          .   .   .      .     .
+302b 13  526 544  Voyles            Calvin            25     M   .    Farmer              350   Ky          .   .   .      .     .
+302b 14  526 544  Voyles            Catherine         22     F   .    .                   .     Ky          .   .   X      .     .
+302b 15  526 544  Voyles            Levi              4      M   .    .                   .     Ky          .   .   .      .     .
+302b 16  526 544  Voyles            Elizabeth J.      2      F   .    .                   .     Ky          .   .   .      .     .
+302b 17  526 544  Voyles            Susanna           3/12   F   .    .                   .     Ky          .   .   .      .     .
+302b 18  527 545  Voyles            Lewis             20     M   .    Farmer              .     Ky          .   .   .      .     .
+302b 19  527 545  Voyles            Nancy E.          19     F   .    .                   .     Ky          .   .   .      .     .
+302b 20  527 545  Voyles            Elizabeth J.      1      F   .    .                   .     Ky          .   .   .      .     .
+302b 21  528 546  McDaniel          Jonas             46     M   .    Farmer              600   Ky          .   .   .      .     .
+302b 22  528 546  McDaniel          Susanna           51     F   .    .                   .     Ky          .   .   X      .     .
+302b 23  528 546  McDaniel          Rachel A.         20     F   .    .                   .     Ky          .   .   .      .     .
+302b 24  528 546  McDaniel          Elizabeth         19     F   .    .                   .     Ky          .   .   .      .     .
+302b 25  528 546  McDaniel          Amos              17     M   .    None                .     Ky          .   .   .      .     .
+302b 26  528 546  McDaniel          Bashabay          15     F   .    .                   .     Ky          .   .   .      .     .
+302b 27  528 546  McDaniel          Sarah             14     F   .    .                   .     Ky          .   .   .      .     .
+302b 28  528 546  McDaniel          Nancy J.          12     F   .    .                   .     Ky          .   .   .      .     .
+302b 29  528 546  McDaniel          George W.         10     M   .    .                   .     Ky          .   .   .      .     .
+302b 30  529 547  Chapman           Nathan            32     M   .    Farmer              .     Ky          .   .   X      .     .
+302b 31  529 547  Chapman           Bashabay          42     F   .    .                   .     Ky          .   .   .      .     .
+302b 32  530 548  Barnett           Solomon           40     M   .    Farmer              805   Ky          .   .   .      .     .
+302b 33  530 548  Barnett           Mary              37     F   .    .                   .     Ky          .   .   X      .     Not listed on Census Record. Maidenname Phillips
+302b 34  530 548  Barnett           Julia A.          16     F   .    .                   .     Ky          .   .   .      .     .
+302b 35  530 548  Barnett           Sarah J.          14     F   .    .                   .     Ky          .   .   .      .     .
+302b 36  530 548  Barnett           Bashabay          12     F   .    .                   .     Ky          .   .   .      .     .
+302b 37  530 548  Barnett           Charles R.        10     M   .    .                   .     Ky          .   .   .      .     .
+302b 38  530 548  Barnett           Nancy             7      F   .    .                   .     Ky          .   .   .      .     .
+302b 39  530 548  Barnett           Mary              4      F   .    .                   .     Ky          .   .   .      .     .
+302b 40  530 548  Barnett           Irna              3      F   .    .                   .     Ky          .   .   .      .     .
+302b 41  530 548  Barnett           James J.          3/12   M   .    .                   .     Ky          .   .   .      .     .
+302b 42  531 549  Haynes            Charles L.        24     M   .    .                   400   Ky          X   .   .      .     .
+
+CENSUS YEAR: 1850    STATE: KY    COUNTY: Hancock    REEL: M432-202    ENUMERATOR: 18 Sep 1850, W. P. D. Bush
+====================================================================================================================================================
+    |   |   |    |                                   |      |   |    |                   |     |           |MAR|   |CANNOT|DEAF |
+    |   |   |    |                                   |      |   |    |                   |     |           |IN |ATT|READ  |DUMB |TRANSCRIBER
+PG# |LN#|DW |FM  |LAST NAME         FIRST NAME       |AGE   |SEX|RACE|OCCUPATION         |VALUE|BIRTHPLACE |YR |SCH|WRITE |BLIND|REMARKS
+====================================================================================================================================================
+303a 1   531 549  Haynes            Arrina            21     F   .    .                   .     Ky          X   .   .      .     page 303a . In top right hand corner has #605 handwritten
+303a 2   532 550  Barker            Cornelius         44     M   .    Farmer              .     Ky          .   .   X      .     .
+303a 3   532 550  Barker            Rachel            42     F   .    .                   .     Ky          .   .   X      .     .
+303a 4   532 550  Barker            Mary J.           16     F   .    .                   .     Ky          .   .   .      .     .
+303a 5   532 550  Barker            Silas             13     M   .    .                   .     Ky          .   .   .      .     .
+303a 6   532 550  Barker            Solomon           12     M   .    .                   .     Ky          .   .   .      .     .
+303a 7   532 550  Barker            Nancy E.          11     F   .    .                   .     Ky          .   .   .      .     .
+303a 8   532 550  Barker            Elizabeth R.      9      F   .    .                   .     Ky          .   .   .      .     .
+303a 9   532 550  Barker            Samuel            7      M   .    .                   .     Ky          .   .   .      .     .
+303a 10  533 551  Philips           Charles           62     M   .    Farmer              500   N.C.        .   .   X      .     .
+303a 11  533 551  Philips           Sally             55     F   .    .                   .     Va          .   .   .      .     .
+303a 12  534 552  Rusher            Thomas            26     M   .    Farmer              .     Ky          X   .   X      .     .
+303a 13  534 552  Rusher            Bashabay          19     F   .    .                   .     Ky          X   .   .      .     Not listed on Census Record. Maidenname Phillips
+303a 14  535 553  Whittinghill      David             31     M   .    Farmer              600   Ky          .   .   .      .     .
+303a 15  535 553  Whittinghill      Margaret          30     F   .    .                   .     Ky          .   .   .      .     .
+303a 16  535 553  Whittinghill      Silas W.          5      M   .    .                   .     Ky          .   .   .      .     .
+303a 17  535 553  Whittinghill      Josephine         4      F   .    .                   .     Ky          .   .   .      .     .
+303a 18  535 553  Whittinghill      John S.           2      M   .    .                   .     Ky          .   .   .      .     .
+303a 19  535 553  Whittinghill      James W.          4/12   M   .    .                   .     Ky          .   .   .      .     .
+303a 20  536 554  Lyons             Ephraim           32     M   .    Farmer              .     Ky          .   .   .      .     .
+303a 21  536 554  Lyons             Bashabay          33     F   .    .                   .     Ky          .   .   X      .     Not listed on Census Record. Maidenname Phillips
+303a 22  536 554  Lyons             Sarah J.          10     F   .    .                   .     Ky          .   .   .      .     .
+303a 23  536 554  Lyons             Solomon           8      M   .    .                   .     Ky          .   .   .      .     .
+303a 24  536 554  Lyons             Ephraim           6      M   .    .                   .     Ky          .   .   .      .     .
+303a 25  536 554  Lyons             Charles           4      M   .    .                   .     Ky          .   .   .      .     .
+303a 26  536 554  Lyons             Mary F.           1      F   .    .                   .     Ky          .   .   .      .     .
+303a 27  536 554  Lyons             Mary              69     F   .    .                   .     Ky          .   .   X      .     .
+303a 28  537 555  Philips           Charles           21     M   .    Farmer              .     Ky          .   .   X      .     .
+303a 29  537 555  Philips           Cynthia Ann       21     F   .    .                   .     Ky          .   .   X      .     Not listed on Census Record. Maidenname Crow
+303a 30  537 555  Philips           Mary E.           8/12   .   .    .                   .     Ky          .   .   .      .     .
+303a 31  538 556  Voyles            Vardamon          25     M   .    Farmer              .     Ky          .   .   X      .     .
+303a 32  538 556  Voyles            Martha Jane       18     F   .    .                   .     Ky          .   .   .      .     Not listed on Census Record. Maidenname Smart
+303a 33  539 557  Voyles            Bluford           31     M   .    .                   .     Ky          .   .   X      .     .
+303a 34  539 557  Voyles            Rhoda A.          29     F   .    .                   .     Ky          .   .   X      .     .
+303a 35  539 557  Voyles            Asa               9      M   .    .                   .     Ky          .   .   .      .     .
+303a 36  539 557  Voyles            John Henry        7      M   .    .                   .     Ky          .   .   .      .     .
+303a 37  539 557  Voyles            Jermiah           1      M   .    .                   .     Ky          .   .   .      .     .
+303a 38  540 558  Haynes            James B.          23     M   .    Farmer              800   Ky          .   .   .      .     .
+303a 39  540 558  Haynes            Lucinda           22     F   .    .                   .     Ky          .   .   .      .     .
+303a 40  540 558  Haynes            Frances A.        3      F   .    .                   .     Ky          .   .   .      .     .
+303a 41  540 558  Haynes            Thomas W.         2      M   .    .                   .     Ky          .   .   .      .     .
+303a 42  540 558  Haynes            Mary E.           4/12   F   .    .                   .     Ky          .   .   .      .     .
+
+CENSUS YEAR: 1850    STATE: KY    COUNTY: Hancock    REEL: M432-202    ENUMERATOR: 18 Sep 1850, W. P. D. Bush
+====================================================================================================================================================
+    |   |   |    |                                   |      |   |    |                   |     |           |MAR|   |CANNOT|DEAF |
+    |   |   |    |                                   |      |   |    |                   |     |           |IN |ATT|READ  |DUMB |TRANSCRIBER
+PG# |LN#|DW |FM  |LAST NAME         FIRST NAME       |AGE   |SEX|RACE|OCCUPATION         |VALUE|BIRTHPLACE |YR |SCH|WRITE |BLIND|REMARKS
+====================================================================================================================================================
+303b 1   541 559  Brown             William           53     M   .    Farmer & Meth.Clerg 1800  Va          .   .   .      .     page 303b. Has no Handwritten number
+303b 2   541 559  Brown             Frances           34     F   .    .                   .     Ky          .   .   .      .     Not listed on Census Record. Maidenname Lyons
+303b 3   541 559  Brown             Harriett          24     F   .    .                   .     Ky          .   .   .      .     .
+303b 4   541 559  Brown             Jane              19     F   .    .                   .     Ky          .   .   .      .     .
+303b 5   541 559  Brown             George            16     M   .    None                .     Ky          .   .   .      .     .
+303b 6   541 559  Brown             Joel              14     M   .    .                   .     Ky          .   .   .      .     .
+303b 7   541 559  Brown             Elias             11     M   .    .                   .     Ky          .   .   .      .     .
+303b 8   541 559  Brown             William           8      M   .    .                   .     Ky          .   X   .      .     .
+303b 9   541 559  Brown             Martha            6      F   .    .                   .     Ky          .   X   .      .     .
+303b 10  541 559  Brown             Sarah             5      F   .    .                   .     Ky          .   X   .      .     .
+303b 11  541 559  Brown             Lewis S.          3      M   .    .                   .     Ky          .   .   .      .     .
+303b 12  542 560  Corley            William           80     M   .    Farmer              .     Va          .   .   X      .     .
+303b 13  542 560  Corley            Elizabeth         75     F   .    .                   .     Va          .   .   X      .     .
+303b 14  543 561  Corley            Jabez             45     M   .    Farmer              1398  Va          .   .   X      .     .
+303b 15  543 561  Corley            Tabitha           43     F   .    .                   .     Va          .   .   .      .     Not listed on Census Record. Maidenname Whitely
+303b 16  543 561  Corley            Andrew J.         20     M   .    None                .     Ky          .   X   .      .     .
+303b 17  543 561  Corley            William H.        17     M   .    None                .     Ky          .   X   .      .     .
+303b 18  543 561  Corley            John              16     M   .    None                .     Ky          .   X   .      .     .
+303b 19  543 561  Corley            Charles           15     M   .    .                   .     Ky          .   X   .      .     .
+303b 20  543 561  Corley            Isaac             14     M   .    .                   .     Ky          .   X   .      .     .
+303b 21  543 561  Corley            Margaret          12     F   .    .                   .     Ky          .   X   .      .     .
+303b 22  543 561  Corley            George            11     M   .    .                   .     Ky          .   X   .      .     .
+303b 23  543 561  Corley            Bashabay          9      F   .    .                   .     Ky          .   X   .      .     .
+303b 24  543 561  Corley            Kitty             7      M   .    .                   .     Ky          .   X   .      .     .
+303b 25  543 561  Corley            Ellis             4      M   .    .                   .     Ky          .   .   .      .     .
+303b 26  543 561  Corley            Elizabeth         3      F   .    .                   .     Ky          .   .   .      .     .
+303b 27  543 561  Whitely           Catherine         35     F   .    .                   .     Ky          .   .   X      .     .
+303b 28  544 562  Corley            Susan             20     F   .    .                   .     Ky          .   .   .      .     .
+303b 29  544 562  Corley            James             18     M   .    Farmer              .     Ky          .   .   .      .     .
+303b 30  544 562  Corley            John C.           15     M   .    .                   .     Ky          .   X   .      .     .
+303b 31  544 562  Corley            Lewis G.          14     M   .    .                   .     Ky          .   X   .      .     .
+303b 32  544 562  Corley            Eliza J.          13     F   .    .                   .     Ky          .   X   .      .     .
+303b 33  544 562  Corley            Mary A.           11     F   .    .                   .     Ky          .   X   .      .     .
+303b 34  544 562  Corley            Henry F.          8      M   .    .                   .     Ky          .   X   .      .     .
+303b 35  544 562  Corley            Amos              7      M   .    .                   .     Ky          .   X   .      .     .
+303b 36  545 563  Rice              Sylvester         27     M   .    Farmer              .     Ohio        .   .   .      .     .
+303b 37  545 563  Rice              Susan             25     F   .    .                   .     Ky          .   .   X      .     .
+303b 38  545 563  Rice              Mary A.           7      F   .    .                   .     Ky          .   .   .      .     .
+303b 39  545 563  Rice              Sarah J.          4      F   .    .                   .     Ky          .   .   .      .     .
+303b 40  545 563  Rice              John T.           2      M   .    .                   .     Ky          .   .   .      .     .
+303b 41  545 563  Rice              James             5/12   M   .    .                   .     Ky          .   .   .      .     .
+303b 42  545 563  Lyons             Sarah             67     F   .    .                   .     Penn        .   .   .      .     .
+
+CENSUS YEAR: 1850    STATE: KY    COUNTY: Hancock    REEL: M432-202    ENUMERATOR: 18 Sep 1850, W. P. D. Bush
+====================================================================================================================================================
+    |   |   |    |                                   |      |   |    |                   |     |           |MAR|   |CANNOT|DEAF |
+    |   |   |    |                                   |      |   |    |                   |     |           |IN |ATT|READ  |DUMB |TRANSCRIBER
+PG# |LN#|DW |FM  |LAST NAME         FIRST NAME       |AGE   |SEX|RACE|OCCUPATION         |VALUE|BIRTHPLACE |YR |SCH|WRITE |BLIND|REMARKS
+====================================================================================================================================================
+304a 1   546 564  Matthews          Thomas            43     M   .    Farmer              .     Ky          .   .   X      .     page 304a . In top right hand corner has #607 handwritten
+304a 2   546 564  Matthews          Lucy              43     F   .    .                   .     Ky          .   .   .      .     .
+304a 3   546 564  Matthews          Jane              21     F   .    .                   .     Ky          .   .   .      .     .
+304a 4   546 564  Matthews          Jefferson         19     M   .    None                .     Ky          .   .   .      .     .
+304a 5   546 564  Matthews          Chilton           15     M   .    .                   .     Ky          .   .   .      .     .
+304a 6   546 564  Matthews          Nancy             11     F   .    .                   .     Ky          .   .   .      .     .
+304a 7   546 564  Matthews          Mary              7      F   .    .                   .     Ky          .   .   .      .     .
+304a 8   546 564  Matthews          Pleasant          5      M   .    .                   .     Ky          .   .   .      .     .
+304a 9   547 565  Bruner            Martin            30     M   .    Farmer              850   Ky          .   .   .      .     .
+304a 10  547 565  Bruner            Elizabeth         31     F   .    .                   .     Ky          .   .   .      .     Not listed on Census Record. Maidenname Basey
+304a 11  547 565  Bruner            Malitta           8      F   .    .                   .     Ky          .   X   .      .     .
+304a 12  547 565  Bruner            John W.           5      F   .    .                   .     Ky          .   .   .      .     .
+304a 13  547 565  Bruner            Louisa J.         4      F   .    .                   .     Ky          .   .   .      .     .
+304a 14  547 565  Bruner            Hedgeman B.       1      M   .    .                   .     Ky          .   .   .      .     .
+304a 15  547 565  Howard            James H.          24     M   .    Farmer              250   Ky          .   .   .      .     .
+304a 16  548 566  Henderson         Samuel            59     M   .    Farmer              1500  Va          .   .   .      .     .
+304a 17  549 567  Henderson         Susan A.          35     F   .    .                   .     Ky          .   .   .      .     .
+304a 18  549 567  Henderson         William           11     M   .    .                   .     Ky          .   X   .      .     .
+304a 19  549 567  Henderson         Samuel F.         10     M   .    .                   .     Ky          .   X   .      .     .
+304a 20  549 567  Henderson         John W.           8      M   .    .                   .     Ky          .   .   .      .     .
+304a 21  549 567  Henderson         Leland            6      M   .    .                   .     Ky          .   .   .      .     .
+304a 22  549 567  Henderson         George W.         3      M   .    .                   .     Ky          .   .   .      .     .
+304a 23  550 568  Younger           George M.         31     M   .    Farmer              3000  Ky          .   .   .      .     .
+304a 24  550 568  Younger           Elinora           30     F   .    .                   .     Ky          .   .   .      .     .
+304a 25  550 568  Younger           Mary A.           8      F   .    .                   .     Ky          .   .   .      .     .
+304a 26  550 568  Younger           Maria J.          7      F   .    .                   .     Ky          .   .   .      .     .
+304a 27  550 568  Younger           Davis C.          5      M   .    .                   .     Ky          .   .   .      .     .
+304a 28  550 568  Younger           Claudins C.       4      M   .    .                   .     Ky          .   .   .      .     .
+304a 29  550 568  Rooks             William           32     M   B    .                   .     Ky          .   .   .      .     .
+304a 30  551 569  Freeman           Nathan            39     M   .    Farmer              150   Ky          .   .   X      .     .
+304a 31  551 569  Freeman           Elizabeth         38     F   .    .                   .     Ky          .   .   X      .     .
+304a 32  551 569  Freeman           Elizabeth         14     F   .    .                   .     Ky          .   X   .      .     .
+304a 33  551 569  Freeman           Joshua            11     M   .    .                   .     Ky          .   X   .      .     .
+304a 34  551 569  Freeman           Amos              9      M   .    .                   .     Ky          .   X   .      .     .
+304a 35  551 569  Freeman           James             8      M   .    .                   .     Ky          .   .   .      .     .
+304a 36  551 569  Freeman           John A.           5      M   .    .                   .     Ky          .   .   .      .     .
+304a 37  551 569  Freeman           Marion            4      M   .    .                   .     Ky          .   .   .      .     .
+304a 38  551 569  Freeman           Marquis L.        1      M   .    .                   .     Ky          .   .   .      .     .
+304a 39  551 569  Purcell           Peter             21     M   .    Boatman             .     Ky          .   .   .      .     .
+
+                  This Census was typed by George Lee Gibbs, Sr. to aid the resercher
+                  in their genealogy. I also typed some maidennames in the remarks column.
+                  This extra information is not intended to alter the census in any way,
+                  Sometimes a little extra information may lead you back a couple of generations.
+                  The information on the maidennames have been proven by a marriage license.
+                  In the 1850 Census Book a few mistakes were made. Family #186 was listed as Williams
+                  this in incorrect. Microfilm has Willian. Family #458 was listed as Evan, Microfilm
+                  has Ewan. Family #513 was listed as Bennett. Microfilm has Bruner. These were
+                  the most common errors that were made.

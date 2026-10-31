@@ -1,0 +1,6 @@
+== PT1 0 ==
+== PT2 2 ==
+     653       NEWMAN, Henry       44        M         Blacksmith     GER
+     820       NEWMAN, Reynolds    45        M         Farmer         2000 NC
+== TAX 1 ==
+Newman, Reynolds

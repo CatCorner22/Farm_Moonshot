@@ -1,0 +1,66 @@
+Pass 147 extract — 31 Oct 2026
+Resumed bc-008a18e7 partial fetch/ocr. B058 one catalog reconfirm; B071 Mercer +
+Lincoln Dist 1 + Hopkins (skip Francis J n0238 / John 59 n0240) + Larue Hamilton +
+leftover western compiled.
+
+B058: LOC sn89051008 pass147 JSON **seen** — `digitized: false` 34425 B. IA Solr
+Post-Dispatch 1926 **0**. Film unread. Phone not re-asked. C1971
+
+=== Lincoln Dist 1 n0173–n0264 every name leaf IMAGE SEEN CLOSED ===
+IA reel 210 `populationschedu0210unix`. 92 surname-column crops (3-up montages).
+Nil Newman/Tincher living head at William 26 × Jane 22 / Rhoda couple standard.
+Did not re-walk Lewis n0170 or Dist 2 n0265+.
+N-lookalikes **IMAGE SEEN REJECT**: Newton n0190/n0196; Newell n0183; Neece n0184;
+Hunman n0175/n0178; Kirkpatrick n0193. C1972 C1974
+
+=== n0178 hh Willis Newnam 41 Farmer IMAGE SEEN REJECT ===
+Dist 1, 5 Sep 1850 stamp context. hh **39**:
+  Willis Newnam  41  M  Farmer  $2280  Ky
+  Louisa         40  F
+  Jefferson C.   16  M  Farmer
+  Henry K.       14  M
+  Amanda M.      12  F
+  George G.        8  M
+  Permelia C.      5  F
+  Caroline V.      2  F
+Spelling **Newnam**; head 41 not 26; wife Louisa not Jane/Rhoda; no Francis/Leanner
+children. SHA band **9ce4f6d1f815c8c1…**  C1973
+
+=== Hopkins n0180–n0354 every name leaf IMAGE SEEN CLOSED (skip 238–240) ===
+IA reel 205. 172 surname crops. Did **not** repeat Francis J n0238 / John 59 n0240 /
+Jo Norman n0240. C1975
+
+=== n0249 hh Milton Newman 19 Farmer IMAGE SEEN REJECT ===
+Dist 2 context, hh **138** / Mary Ann Mooney **32** Farmer:
+  Milton Newman  19  M  Farmer
+  Mary           28  F  (ditto Farmer)
+Boarder age 19 not head 26; not William × Jane household. SHA **8347fd5a7a20dbdb…**
+C1976
+
+=== Mercer n0145–n0460 every name leaf IMAGE SEEN ===
+IA reel 213. 316 surname crops + 3-up montages. **PROBABLE** nil Newman/Tincher
+living head at William 26 farmer $325 standard on every-line surname review; no
+compiled 1850 index opened. County **NOT** administratively closed beyond this reel
+segment. C1977
+
+=== Larue Hamilton n0160–n0381 every name leaf IMAGE SEEN CLOSED ===
+IA reel 209. Hamilton Dist header n0167 (5 Sep 1850, W. H. Hamilton). 222 surname
+crops after fetching gaps n0311 n0324 n0334–n0336. Lawrence Co. begins n0382 — not
+walked. **PROBABLE** nil Newman/Tincher living head in Hamilton Dist. C1978
+
+=== Leftover western compiled pass147 ===
+SK Mercer/Lincoln/Hopkins/Larue/Meade **404**. KYGenWeb / us-census / USGW TOC fail.
+GT Mercer/Lincoln/Hopkins/Larue **HTML seen** — 1810/1860/1870 only, no 1850 table.
+IA Solr 1850indx = other KY reels. CDX SK handshake saved pass147. C1979
+
+=== OPEN catalogs (one line each where unchanged) ===
+GT Lee WWI LIVE 452540. FS 1146342 SPA ~19651 B. FAQ 9938 LIVE. IA 602 {}.
+IA Solr M1509 KY 0. USGenNet wills no Samuel P. fishergenes 404.
+Grant not merged. B084 POSSIBLE Jr. No 33-12/33-13. C1980–C1986
+
+=== Same-person / process ===
+Parents of 1928 Frank still **PROBABLE**. Jane **not** Rhoda. #28 stands.
+Living head remains Owsley 299B hh **311** William 26 × Jane 22 $325.
+Residual B071: William’s own 1850 schedule unread; 1910 B.F. placement; western
+Meade/Kenton 130B gap / Johnson optional — not repeated closed walks.
+C1987 C1988

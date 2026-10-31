@@ -1,0 +1,16 @@
+Pass 73 access note — 30 Oct 2026
+FamilySearch catalog GET (this session):
+  https://www.familysearch.org/search/catalog/127913  HTTP 403
+  https://www.familysearch.org/search/catalog/127891  HTTP 403
+  https://www.familysearch.org/search/catalog/127869  HTTP 403
+  https://www.familysearch.org/search/catalog/964964  HTTP 403
+  https://www.familysearch.org/search/catalog/1146342 HTTP 403
+  https://www.familysearch.org/search/catalog/156057  HTTP 403
+  https://www.familysearch.org/search/catalog/97277   HTTP 403
+  film/007646767 and a guessed ark image HTTP 403
+Images unread. R011 step 24.
+USGenWeb Archives Lee wills: "None available" (re-seen).
+KYGenWeb Lee court: Grand Jury March 1940 only; no probate abstracts.
+IA Solr for Lee/Owsley wills + "Samuel Newnam" Kentucky: no probate item (broad americana noise).
+USGenNet Owsley census landing 200: years 1860–1910 + 1940; no 1920 year (C567 still).
+Do not re-ask R001/R007/R008.

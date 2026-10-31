@@ -1,0 +1,36 @@
+Lee County KY deaths 1936 year-file (Kendrick).
+URL: https://usgennet.org/usa/ky/county/lee/deaths/1936.html
+Local: sources/vital/lee-deaths-1936-pass66.html
+Captured 30 Oct 2026. Transcription only. Certificate image not seen.
+
+Sarah M. Evans
+  86 yrs 8 mos
+  born 16 Jan 1850 Lee Co VA
+  died 15 Sep 1936 Lower Buffalo
+  burial Vincent
+  spouse William Evans
+  father Lee Roy Veneble
+  mother Ratchel McQueen
+
+Statewide KDI (RTR 1936 TXT seen):
+  EVANS SARAH M  86  LEE  09/15/1936  vol 051  cert 25155
+  Collection: reclaim-the-records-kentucky-death-index-01911-1989
+
+Age check: 16 Jan 1850 → 15 Sep 1936 = 86y 7m 30d ≈ 86y 8m.
+
+Same-person vs 1880 Sarah M. Newnam / 1900 Minerva / 1904 Manerva Newman
+/ 1910 Sarah M. Evans / 1915 Mininerva Venable / 1961 Sarah Veneable:
+  identifiers: Sarah M.; Jan 1850; VA birth; Veneble/Venable father;
+  William Evans husband; Lower Buffalo (Callie's later home).
+  Missing on this extract: prior husband Daniel; Newnam children.
+  Label: PROBABLE one woman (C485). Do not print "Sarah Minerva" as proven
+  dual given — this extract uses Sarah M. only.
+
+1880 hh 103/107 Leroy VENABLE 62 × Rachel A. 61 next to Daniel × Sarah M.
+is PROBABLE Lee Roy Veneble × Ratchel McQueen.
+
+Reject: 1934 Owsley EVANS, Manerva, 67y 8m 4d, Levi, parents Steve McPherson
+× Rebecca Pendleton, Jack Evans — too young, different parents (C470).
+
+Claims: C484 C485 C486 C470
+S390

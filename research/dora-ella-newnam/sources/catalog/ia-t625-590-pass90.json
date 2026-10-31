@@ -1,0 +1,1 @@
+{"responseHeader":{"status":0,"QTime":20,"params":{"query":"identifier:14thcensusofpopu590unit","qin":"identifier:14thcensusofpopu590unit","fields":"identifier,title,volume","wt":"json","rows":5,"start":0}},"response":{"numFound":1,"start":0,"docs":[{"identifier":"14thcensusofpopu590unit","title":"14th census of population, 1920. [microform]","volume":"Reel 590"}]}}

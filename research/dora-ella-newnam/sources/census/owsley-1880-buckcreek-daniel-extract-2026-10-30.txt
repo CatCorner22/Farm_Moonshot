@@ -1,0 +1,28 @@
+1880 U.S. census, Owsley County, Kentucky, E.D. 80, Buck Creek 6th Precinct.
+Transcribed by Debi Houser Kendrick.
+URL: https://usgennet.org/usa/ky/county/owsley/census/1880/buckcreek.html
+Local: sources/census/owsley-1880-buckcreek.html
+Enumerator: Robert W. Minter. Header date 1 June 1880.
+Captured 30 Oct 2026. Transcription only. Original schedule not isolated.
+
+hh 100/104
+Daniel NEWNAM m w 29 md farmer KYKYKY
+Sarah M. wife f w 28 md keeping house VATNTN
+Melissa dau f w 4 s KYKYVA
+John L. son m w 1 s KYKYVA
+
+Next houses (FAN, not merged):
+hh 101/105 Joseph L. VENABLE 44 md farmer TNTNTN + Lucy A. 43
+hh 102/105 Leroy VENABLE 27 md farmer VATNTN + Permelia 22
+hh 103/107 Leroy VENABLE 62 md farmer TNVAVA + Rachel A. 61 TNTNTN
+            Susan A. 22, Rachel E. 16, Robert gson 2
+
+Other Newnam houses same precinct (separate lines):
+hh 52/55 Lucinda NEWNAM 38 wd NCNCNC + Franklin 15, Vashtye 14, Mattie 6
+hh 74/77 Henry NEWNAM 34 md farm laborer KYKYKY + Mary 33 KYEngKY
+         Ellen F. 14, Milla A. 12, Chalista 7, Laura B. 4, Arthur 2
+
+Mortality schedules E.D. 79 and 80: nil Newnam/Newman.
+
+Claims: C457 C458 C459 C475 C486
+S384

@@ -1,0 +1,60 @@
+Pass 146 extract — 31 Oct 2026
+B058: LOC sn89051008 item.digitized: false (34425 B). IA Solr Post-Dispatch 1926 0.
+Film unread. Phone not re-asked. C1953
+
+=== Franklin Dist 1 remaining n0203–n0253 IMAGE SEEN CLOSED ===
+Every remaining Dist 1 name leaf IMAGE SEEN (3-up surname stacks + flagged bands).
+Nil Newman/Tincher living head.
+N-lookalikes IMAGE SEEN REJECT: Noel; Nethery; Nelson; William Howard n0237.
+Combined with pass 145 n0149–n0202 + n0254–n0255: Dist 1 CLOSED. C1954 C1955
+
+=== Franklin Dist 2 remaining n0256–n0354 IMAGE SEEN CLOSED ===
+Every Dist 2 name leaf IMAGE SEEN.
+Nil Newman/Tincher living head except known rejects below.
+Did not re-isolate n0340 Thomas NEWLAND 30 (already REJECT).
+Did not walk n0355 blank / n0356 Gallatin.
+N-lookalikes IMAGE SEEN REJECT: James B Noe 35 n0261; William Dawson n0266;
+William Critcher 48 n0280; Hiram L Critcher 44 n0286; Ignatius Redman 57 n0333.
+County CLOSED. C1956 C1958 C1959 C1960
+
+=== n0267 hh 218/213 William New 36 IMAGE SEEN REJECT ===
+Dist 2, 15 Aug 1850, John A. Monroe.
+  218/213  William New   36  M  Schoolmaster  Ohio
+            Ellen New     23  F               Kentucky
+            Mary E New     2  F               Kentucky
+            Sarah E New   1/12 F              Kentucky
+Neighbors: Herndon / Clemson above; Samuel W Evans 37 Farmer $1000 KY below.
+Surname New (3 letters, not Newman/Newnam/Newland).
+Head 36 Ohio schoolmaster, not William 26 KY farmer $325.
+Wife Ellen 23 not Jane 22 / not Rhoda.
+Children Mary E 2 + Sarah E 1/12 not Francis 4 F / Leanner 2.
+SHA tight f209b0cf0ace55ce…  C1957
+
+=== Leftover compiled ===
+SK Mercer/Lincoln/Hopkins/Larue 404.
+KYGenWeb / us-census / kykinfolk / USGW TOC fail or timeout.
+GT Mercer 1860/1870 only; Lincoln 1810; Hopkins 1810; Larue 1870 — no 1850 table.
+IA Solr mercer 1850indx = other KY reels, not a name index.
+CDX SK Hart/Henry []. C1961
+
+=== OPEN catalogs ===
+GT Lee WWI LIVE 452540. Cards unread.
+FS 1146342 SPA 19655 B isLoggedIn false (R011-83).
+FAQ 9938 LIVE rooms 228–229. No free June 1958 clip. Phone not re-asked.
+IA 602 metadata {}. pass123 still 515. One line.
+IA Solr M1509 KY 0.
+USGenNet wills LIVE: Jane Steele / Elizabeth / Mary F. — no Samuel P.
+fishergenes 404.
+Grant 21 not merged. B084 POSSIBLE Jr only. No 1966/1962. No 33-12/33-13.
+C1962–C1968
+
+=== Same-person / process ===
+Parents of 1928 Frank still PROBABLE. Jane not Rhoda. #28 stands.
+Living head remains Owsley 299B hh 311 William 26 × Jane 22 $325.
+No free license. Variants cats 1–4: William/Wm/Jno × Newman/Newnam/Newmon/
+Numan/Newland/New/Noe/Nethery/Nelson/Dawson/Critcher/Redman/Howard;
+Tinker/Tincher/Kirkpatrick. Soundex N550 / T526 / S350 / Newland N453.
+Mercer remaining / Lincoln Dist 1 remaining / Hopkins remaining
+(do not repeat Francis J n0238 / John 59 n0240) / Larue Hamilton remaining
+NOT closed.
+C1969 C1970

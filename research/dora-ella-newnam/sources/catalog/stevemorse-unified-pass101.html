@@ -1,0 +1,1749 @@
+<html>
+  <head>
+    <title>
+      Unified Census ED Finder
+    </title>
+    <script src="../email.js"></script>
+    <script src="../openwindow.js"></script>
+    <script src="../protocol.js"></script>
+    <script src="../jcal/jsr_class.js"></script>
+    <script src="../gannett.js"></script>
+<!--
+    <script src="https://gannett.cc/api/all-metros-js"></script>
+-->
+    <!-- use jsr_class2.js to avoid having nocacheIE in query string -->
+
+    <style type="text/css">
+      .disabled
+      {
+       background-color: #CCC;
+      }
+    </style>
+
+    <script>
+
+      if (protocol == "file:") {
+        protocol = "https:";
+      }
+
+      var defaultYear = 1950;
+
+      stateInitialized = false;
+
+      function InitState() {
+        if (stateInitialized) {
+          return;
+        }
+        stateInitialized = true;
+        var state = GetParameter('state').toLowerCase();
+        if (state == "") {
+          return;
+        }
+        state = state.replace(/\+/gi," "); // replaces plus signs with spaces
+        for (var i=0; i<document.myform.state1.length; i++) {
+          if (document.myform.state1[i].value.toLowerCase() == state ||
+              document.myform.state1[i].text.toLowerCase() == state) {
+            document.myform.state1.selectedIndex = i;
+            break;
+          }
+        }
+      }
+
+      countyInitialized = false;
+
+      function InitCounty() {
+        if (countyInitialized) {
+          return;
+        }
+        countyInitialized = true;
+        var county = GetParameter('county').toLowerCase();
+        county = county.replace(/\+/gi," "); // replaces plus signs with spaces
+        for (var i=0; i<document.myform.county.length; i++) {
+          if (document.myform.county[i].value.toLowerCase() == county ||
+              document.myform.county[i].text.toLowerCase() == county) {
+            document.myform.county.selectedIndex = i;
+            break;
+          }
+        }
+      }
+
+      cityInitialized = false;
+
+      function InitCity() {
+        if (cityInitialized) {
+          return;
+        }
+        cityInitialized = true;
+        var city = GetParameter('city').toLowerCase();
+        if (city == "") {
+          return;
+        }
+        city = city.replace(/\+/gi," "); // replaces plus signs with spaces
+        var found = false;
+        for (var i=0; i<document.myform.city.length; i++) {
+          if (document.myform.city[i].text.toLowerCase() == city ||
+              document.myform.city[i].value.toLowerCase() == city) {
+            document.myform.city.selectedIndex = i;
+            found = true;
+            CityChanged();
+            break;
+          }
+        }
+        if (!found) {
+          document.myform.city.selectedIndex = 1; // other
+          document.myform.cityOther.value = city;
+          GetEds('no');
+        }
+      }
+
+      streetInitialized = false;
+
+      function InitStreet() {
+        if (streetInitialized) {
+          StreetChanged(1);
+          return;
+        }
+        streetInitialized = true;
+        var street = GetParameter('street').toLowerCase();
+        if (street == "") {
+          StreetChanged(1);
+          return;
+        }
+        street = street.replace(/\+/gi," "); // replaces plus signs with spaces
+
+        var streetNorm = NormalizeStreet(street, true);
+        for (var i=0; i<document.myform.street1.length; i++) {
+          if (NormalizeStreet(document.myform.street1[i].text.toLowerCase(), true) == streetNorm) {
+            document.myform.street1.selectedIndex = i;
+            StreetChanged(1);
+            return;
+          }
+        }
+
+        // not found, try it again, but this time ignore street, avenue, etc.
+
+        var streetNorm = NormalizeStreet(street, false);
+        for (var i=0; i<document.myform.street1.length; i++) {
+          if (NormalizeStreet(document.myform.street1[i].text.toLowerCase(), true) == streetNorm) {
+            document.myform.street1.selectedIndex = i;
+            StreetChanged(1);
+            return;
+          }
+        }
+      }
+
+      numberInitialized = false;
+
+      function InitNumber() {
+        if (numberInitialized) {
+          return;
+        }
+        numberInitialized = true;
+        var number = GetParameter('number');
+        if (number == "") {
+          return;
+        }
+        number = number.replace(/\+/gi," "); // replaces plus signs with spaces
+
+        document.myform.number.value = number;
+
+      }
+
+      var directions = [
+        ["n. e.", " ne"],
+        ["n. w.", " nw"],
+        ["s. e.", " se"],
+        ["s. w.", " sw"],
+        ["n.e.", " ne"],
+        ["n.w.", " nw"],
+        ["s.e.", " se"],
+        ["s.w.", " sw"],
+        ["ne", " ne"],
+        ["nw", " nw"],
+        ["se", " se"],
+        ["sw", " sw"],
+        ["n.", " n"],
+        ["e.", " e"],
+        ["s.", " s"],
+        ["w.", " w"],
+        ["n", " n"],
+        ["e", " e"],
+        ["s", " s"],
+        ["w", " w"],
+        ["north east", " ne"],
+        ["north west", " nw"],
+        ["south east", " se"],
+        ["south west", " sw"],
+        ["northeast", " ne"],
+        ["northwest", " nw"],
+        ["southeast", " se"],
+        ["southwest", " sw"],
+        ["north", " n"],
+        ["east", " e"],
+        ["south", " s"],
+        ["west", " w"]
+      ];
+
+      function trim(stringToTrim) {
+      	return stringToTrim.replace(/^\s+|\s+$/g,"");
+      }
+
+      function NormalizeStreet (street, showSuffix) {
+        if (street == "") {
+          return street;
+        }
+        var re = /\+/gi;
+        street = street.replace(re," "); // replaces plus signs with spaces
+        street = trim(street);
+
+        // extract direction from start of street name
+
+        var i;
+        var direction = "";
+        for (i=0; i<directions.length; i++) {
+          if (street.substr(0, directions[i][0].length+1) == directions[i][0] + " ") {
+            direction = directions[i][1];
+            street = street.substr(directions[i][0].length+1);
+            break;
+          }
+        }
+
+        // extract direction from end of street name
+
+        for (i=0; i<directions.length; i++) {
+          if (street.substr(street.length - (directions[i][0].length+1)) == " " + directions[i][0]) {
+            direction += directions[i][1];
+            street = street.substr(0, street.length - (directions[i][0].length+1));
+            break;
+          }
+        }
+
+        var lastSpace = street.length - 1; // separate name into prefix and suffix
+        while (lastSpace != 0 && street.charAt(lastSpace) != " ") {
+          lastSpace--;
+        }
+        var prefix = "";
+        var suffix = "";
+        if (lastSpace != 0) {
+          prefix = street.substr(0, lastSpace);
+          suffix = street.substr(lastSpace + 1);
+        } else {
+          prefix = "";
+          suffix = street;
+        }
+
+
+        if (suffix == "st" || suffix == "st." | suffix == "street") {
+          street = prefix;
+        } else if (suffix == "alley" || suffix == "al." || suffix == "al" ||
+                     suffix == "aly." || suffix == "aly") {
+          street = prefix + (showSuffix ? " al" : "");
+        } else if (suffix == "avenue" || suffix == "ave." || suffix == "ave" ||
+                    suffix == "av." || suffix == "av") {
+          street = prefix + (showSuffix ? " av" : "");
+        } else if (suffix == "beach" || suffix == "bch." || suffix == "bch") {
+          street = prefix + (showSuffix ? " bch" : "");
+        } else if (suffix == "boulevard" || suffix == "blvd." || suffix == "blvd") {
+          street = prefix + (showSuffix ? " blvd" : "");
+        } else if (suffix == "court" || suffix == "crt." || suffix == "crt" ||
+                    suffix == "ct." || suffix == "ct") {
+          street = prefix + (showSuffix ? " ct" : "");
+        } else if (suffix == "drive" || suffix == "drv." || suffix == "drv" || suffix == "dr." || suffix == "dr") {
+          street = prefix + (showSuffix ? " dr" : "");
+        } else if (suffix == "expressway" || suffix == "expway." || suffix == "expway" ||
+                    suffix == "expy." || suffix == "expy") {
+          street = prefix + (showSuffix ? " expy" : "");
+        } else if (suffix == "freeway" || suffix == "frwy." || suffix == "frwy" ||
+                    suffix == "fwy." || suffix == "fwy") {
+          street = prefix + (showSuffix ? " fwy" : "");
+        } else if (suffix == "heights" || suffix == "hghts." || suffix == "hghts" ||
+                    suffix == "hts." || suffix == "hts") {
+          street = prefix + (showSuffix ? " hts" : "");
+        } else if (suffix == "highway" || suffix == "hway." || suffix == "hway" ||
+                    suffix == "hwy." || suffix == "hwy" || suffix == "hy." || suffix == "hy") {
+          street = prefix + (showSuffix ? " hwy" : "");
+        } else if (suffix == "lane" || suffix == "la." || suffix == "la" ||
+                    suffix == "ln." || suffix == "ln") {
+          street = prefix + (showSuffix ? " la" : "");
+        } else if (suffix == "parkway" || suffix == "pkway." || suffix == "pkway" ||
+                    suffix == "pkwy." || suffix == "pkwy") {
+          street = prefix + (showSuffix ? " pkwy" : "");
+        } else if (suffix == "place" || suffix == "pl." || suffix == "pl") {
+          street = prefix + (showSuffix ? " pl" : "");
+        } else if (suffix == "road" || suffix == "rd." || suffix == "rd") {
+          street = prefix + (showSuffix ? " rd" : "");
+        } else if (suffix == "square" || suffix == "sqr." || suffix == "sqr" ||
+                   suffix == "sq." || suffix == "sq") {
+          street = prefix + (showSuffix ? " sq" : "");
+        } else if (suffix == "terrace" || suffix == "ter." || suffix == "ter" ||
+                   suffix == "trc." || suffix == "trc") {
+          street = prefix + (showSuffix ? " ter" : "");
+        } else if (suffix == "turnpike" || suffix == "trnpk." || suffix == "trnpk" ||
+                   suffix == "tpke." || suffix == "tpke") {
+          street = prefix + (showSuffix ? " tpke" : "");
+        } else if (suffix == "way" || suffix == "wy." || suffix == "wy") {
+          street = prefix + (showSuffix ? " wy" : "");
+        }
+
+        // get rid of endings for ordinal numbers -- i.e., 1st -> 1, 2nd -> 2, etc
+
+        street = street.replace(/1st/,"1"); // 1st -> 1
+        street = street.replace(/2nd/,"2"); // 2nd -> 2
+        street = street.replace(/3rd/,"3"); // 3rd -> 3
+        street = street.replace(/4th/,"4"); // 4th -> 4
+        street = street.replace(/5th/,"5"); // 5th -> 5
+        street = street.replace(/6th/,"6"); // 6th -> 6
+        street = street.replace(/7th/,"7"); // 7th -> 7
+        street = street.replace(/8th/,"8"); // 8th -> 8
+        street = street.replace(/9th/,"9"); // 9th -> 9
+        street = street.replace(/0th/,"0"); // 0th -> 0
+        
+        return street + direction;
+      }
+
+      function MapHouseNumber(service) {
+        var number = document.myform.number.value;
+        var street = document.myform.street1[document.myform.street1.selectedIndex].text;
+        var city = document.myform.city[document.myform.city.selectedIndex].text
+        var state = document.myform.state1[document.myform.state1.selectedIndex].value;
+        if (service == "mapquest") {
+          var url = "http://www.mapquest.com/maps/map.adp";
+          var query = "size=big&country=US&address=" + number + "+" + street +
+                      "&city=" + city + "&state=" + state;
+        } else if (service == "yahoo") {
+//          var url = "http://maps.yahoo.com/map";
+//          var query = "q1=" + number + "+" + street + "%2c+" + city + "%2c+" + state;
+          var url = "https://maps.yahoo.com/directions-app/directions/";
+          var query = "o=&d=" + number + "+" + street + "%2c+" + city + "%2c+" + state;
+        } else if (service == "google") {
+          var url = "http://maps.google.com/maps";
+          var query = "q=" + number + "+" + street +
+                      "+" + city + "+" + state;
+        } else {
+          return; // error
+        }
+        OpenWindow(url+"?"+query, service, "map");
+      }
+
+      var root = protocol + "//stevemorse.org/census/";
+//      var root = "https://www.jewishgen.org/databases/stevemorse/census/";
+
+      function GetEdPrefixes() { // transfers control to PrefixCallback()
+        if (!converter) {
+          return;
+        }
+        var state = document.myform.state1[document.myform.state1.selectedIndex].value;
+        var req = root + "unifiedprefixes.php?state=" + state;
+        bObj = new JSONscriptRequest(req); // create a new request object
+        bObj.buildScriptTag(); // build a dynamic script tag
+        bObj.addScriptTag(); // add the script to the page -- transfers control to PrefixCallback
+        document.getElementById("edsSpan").innerHTML = "";
+      }
+
+      function PrefixCallback(result) { // this is callback from GetEdPrefixes()
+        result = "<select name=\"prefix\" onchange=\"GetEdSuffixes();\"><option value=\"\"></option>" + result + "</select>";
+        document.getElementById("prefixSpan").innerHTML = result;
+      }
+
+      function GetEdSuffixes() { // transfers control to SuffixCallback()
+
+        if (!converter) {
+          return;
+        }
+        ClearEdList(); // to clear ED list
+        var state = document.myform.state1[document.myform.state1.selectedIndex].value;
+        var prefix = document.myform.prefix[document.myform.prefix.selectedIndex].value;
+        document.getElementById("suffixSpan").innerHTML = '<input name="suffix" size="4" disabled="disabled" class="disabled">';
+        if (prefix != "") {
+          var req = root + "unifiedsuffixes.php?state=" + state + "&prefix=" + prefix +"&year=" + year;
+          bObj = new JSONscriptRequest(req); // create a new request object
+          bObj.buildScriptTag(); // build a dynamic script tag
+          bObj.addScriptTag(); // add the script to the page -- transfers control to SuffixCallback
+          document.getElementById("edsSpan").innerHTML = "";
+        } else {
+          var city = "";
+          var fullcity = "";
+          if (bigcities) {
+            city = document.myform.city[document.myform.city.selectedIndex].value;
+            fullcity = document.myform.city[document.myform.city.selectedIndex].text;
+            if (city == "") { // occurs for IE where they don't use the text for the value
+              city = document.myform.city[document.myform.city.selectedIndex].text;
+            }
+          }
+          if (!bigcities || city.indexOf("Other") != -1) {
+            city = document.myform.cityOther.value;
+          }
+          if (city != "" || county != "") {
+            GetEds('no');
+          } else {
+            document.getElementById("edsSpan").innerHTML = "";
+          }
+        }
+      }
+
+      function SuffixCallback(result) {
+        result = "<select name=\"suffix\" onchange=\"GetEds('no');\">" + result + "</select>";
+        document.getElementById("suffixSpan").innerHTML = result;
+        GetEds('no');
+      }
+
+
+
+      /* this gives the county list using our 1940reels data */
+/*
+      function GetCounties() {
+        var state = document.myform.state[document.myform.state.selectedIndex].value;
+        var req = root + "unifiedcounties.php?state=" + state;
+        bObj = new JSONscriptRequest(req); // create a new request object
+        bObj.buildScriptTag(); // build a dynamic script tag
+        bObj.addScriptTag(); // add the script to the page -- transfers control to Callback
+      }
+
+      function CallBack(result) {
+        document.getElementById("countiesSpan").innerHTML = result;
+        GetCities();
+      }
+*/
+
+      /* this gives the county list using the xml files, which is preferable */
+
+      function GetCounties(s) { // transfers control to StateChangedCallback()
+        document.getElementById("suffixSpan").innerHTML = '<input name="suffix" size="4" disabled="disabled" class="disabled">';
+        var stateIndex;
+        if (s == 2) {
+          stateIndex = document.myform.state2.selectedIndex;
+          document.myform.state1.selectedIndex = stateIndex
+        } else {
+          stateIndex = document.myform.state1.selectedIndex;
+          document.myform.state2.selectedIndex = stateIndex
+        }
+        var state = document.myform.state1[stateIndex].value;
+        var req = root + "unifiedcounties.php?year=" + year + "&state=" + state;
+        bObj = new JSONscriptRequest(req); // create a new request object
+        bObj.buildScriptTag(); // build a dynamic script tag
+        bObj.addScriptTag(); // add the script to the page -- transfers control to StateChangedCallback
+        document.getElementById("countiesSpan").innerHTML =
+          "<select name=\"county\" onchange=\"GetCities();\"><option value=\"\">...please stand by" +
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;" +
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;" +
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;" +
+          "</option></select>";
+        document.getElementById("citiesSpan").innerHTML = "<select><option>...please stand by</option></select>";
+        if (bigcities) {
+          document.getElementById("citySpan").innerHTML = "";
+        }
+        document.getElementById("infoSpan").innerHTML = "";
+        document.getElementById("edsSpan").innerHTML = "";
+        document.getElementById("prefixSpan").innerHTML = "<select name=\"prefix\" onchange=\"GetEdSuffixes();\"><option value=\"\">...please stand by</option></select>";
+        document.getElementById("suffixSpan").innerHTML = '<input name="suffix" size="4" disabled="disabled" class="disabled">';
+      }
+
+      function StateChangedCallback(result) { // this is callback from GetCounties()
+        var re = / County</gi; // remove the word County at the end of every county name in text part of option
+        result = result.replace(re,"<");
+        result = "<select name=\"county\" onchange=\"GetCities();\"><option value=\"\">Select County (optional)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</option>" + result + "</select>";
+        document.getElementById("countiesSpan").innerHTML = result;
+        InitCounty();
+        GetEdPrefixes();
+        GetCities();
+      }
+
+      function GetEdMaps(state, county) {
+        var url = "arc1940-1950edmaps.html?year="+year+"&state="+state+"&county="+county;
+        OpenWindow(url, "", "details");
+      }
+
+      function GetMetroMaps(state, metro) {
+        var url = "https://gannett.cc/ed-map?year=" + year + "&state=" + state + "&metro=" + metro;
+//        var url = "https://gannett.cc/?year=" + year + "&state=" + state + "&metro=" + metro;
+        OpenWindow(url, "", "details");
+      }
+
+      function GetCities() {
+
+        if (!bigcities) {
+          document.myform.cityOther.value = "";
+          return;
+        }
+
+        var state = document.myform.state1[document.myform.state1.selectedIndex].value;
+        var county = document.myform.county[document.myform.county.selectedIndex].value;
+        if (county == "" || year < 1940) {
+          document.getElementById("mapSpan").innerHTML = "";
+        } else {
+          var button = 
+            "<input type='button'" +
+              " value='See ED Maps for " + county + " County'" +
+              " onclick='GetEdMaps(\"" + state + "\", \"" + county + "\");'" +
+            ">";
+          document.getElementById("mapSpan").innerHTML = button;
+
+        }
+
+        var re = / County$/gi; // remove the word County at the end of the county name
+        county = county.replace(re,"");
+
+        var re = / /gi; // replace spaces with plus signs in the county name
+        county = county.replace(re,"+");
+
+        var req = root + "unifiedcities.php?year=" + year + "&state=" + state + "&county=" + county;
+        bObj = new JSONscriptRequest(req); // create a new request object
+        bObj.buildScriptTag(); // build a dynamic script tag
+        bObj.addScriptTag(); // add the script to the page -- transfers control to CityCallback
+        document.getElementById("citiesSpan").innerHTML = "<select><option>...please stand by</option></select>";
+        if (bigcities) {
+          document.getElementById("citySpan").innerHTML = "";
+        }
+        document.getElementById("infoSpan").innerHTML = "";
+        if (document.myform.prefix.selectedIndex == 0) { // 1930 ED would take priority
+          document.getElementById("edsSpan").innerHTML = "";
+        }
+      }
+
+      function CityCallback(result) { // callback from GetCities()
+        document.getElementById("citiesSpan").innerHTML = result;
+        CityChanged();
+        InitCity();
+      }
+
+      // need to save innerHtml values here because IE does not retrieve innerHtml exactly as it was stored
+      var streetLists = ["", "", "", "", "", ""]; // 0 index never used
+
+      function GetStreets() { // called when city changed
+        var state = document.myform.state1[document.myform.state1.selectedIndex].value;
+        var city = document.myform.city[document.myform.city.selectedIndex].value;
+        var req = root + "unifiedstreets.php?year=" + year + "&state=" + state + "&city=" + city;
+        bObj = new JSONscriptRequest(req); // create a new request object
+        bObj.buildScriptTag(); // build a dynamic script tag
+        bObj.addScriptTag(); // add the script to the page -- transfers control to StreetsCallback
+
+        for (var i=1; i<=5; i++) {
+          streetLists[i] = "";
+        }
+        document.getElementById("street1Span").innerHTML = "<input type='hidden' name='street1' value=''>";
+        document.getElementById("street2Span").innerHTML = "<input type='hidden' name='street2' value=''>";
+        document.getElementById("street3Span").innerHTML = "<input type='hidden' name='street3' value=''>";
+        document.getElementById("street4Span").innerHTML = "<input type='hidden' name='street4' value=''>";
+        document.getElementById("street5Span").innerHTML = "<input type='hidden' name='street5' value=''>";
+        document.getElementById("edsSpan").innerHTML = "";
+      }
+
+      function StreetCallback(result) {
+        streetLists[1] = result;
+        document.getElementById("street1Span").innerHTML = result;
+        InitStreet();
+      }
+
+      function List_Intersection(a, b) { // a and b are comma-separated lists
+        a = "," + a + ","; // put leading and trailing commas around a
+        b_array = b.split(",");
+        result = "";
+        for (var k=0; k<b_array.length; k++) {
+          if (a.indexOf("," + b_array[k] + ",") != -1) {
+            result += "," + b_array[k];
+          }
+        }
+        if (result.length > 0) { // remove leading comma
+          result = result.substr(1);
+        }
+        return result;
+      }
+
+      var streetCount = 5;
+
+      function StreetChanged(s) {
+
+        if (s < streetCount) {
+
+          var t = s - (-1);
+
+          var selectedIndex = document.myform["street" + s].selectedIndex;
+
+          if (s == 1) {
+            if (selectedIndex == 0) {
+              document.getElementById("xstreetLabelSpan").innerHTML = "";
+            } else {
+
+             // don't let user select a street while the ED list is still loading
+             // that will cause a race condition whereby the ED list for a specific street ...
+             // ... gets overwritten with a pending ED list for say the entire city
+             if (document.getElementById("edsSpan").innerHTML == "<i>...please stand by</i>") {
+               alert("Please stand by, ED list is still loading\n\nTry again in a few seconds");
+               document.myform.street1.selectedIndex = 0;
+               return;
+             }
+
+              html =
+                "<br>" +
+                "<table>" +
+                  "<tr>" +
+                    "<td nowrap>" +
+                      "<i>" +
+                        "<font color='red'>" +
+                          "You can reduce the number of EDs by selecting cross streets and the back street " +
+                          "that complete the city block&nbsp;" +
+                        "</font>" +
+                      "</i>" +
+                      "<input type='button' onclick='javascript:MapHouseNumber(\"google\");' value='see google map'>" +
+//                      "<input type='button' onclick='javascript:MapHouseNumber(\"yahoo\");' value='see yahoo map'>" +
+                    "</td>" +
+                  "</tr>" +
+                "</table>";
+              document.getElementById("xstreetLabelSpan").innerHTML = html;
+            }
+          }
+
+          // remove all higher streets
+
+          for (i=t; i<=streetCount; i++) {
+            document.getElementById("street" + i + "LabelSpan").innerHTML = "";
+            streetLists[i] = "";
+            document.getElementById("street" + i + "Span").innerHTML = "<input type='hidden' name='street" + i + "' value=''>";
+          }
+
+          // if street has been selected, create next-higher street's dropdown list
+
+          if (selectedIndex > 0) {
+
+            document.getElementById("street" + t + "LabelSpan").innerHTML = "<br>Cross or back street on same city block ";
+
+            var html = streetLists[s];
+            // IE will not retrieve innerHTML accurately, which is why we use streetLists as our storage ...
+            // ... rather than using the following line
+            //  var html = document.getElementById("street" + s + "Span").innerHTML;
+
+            if (html.indexOf("<br>") == -1) {
+              html += "<br>";
+            }
+
+            html = html.replace("street" + s, "street" + t);
+            html = html.replace("StreetChanged(" + s + ")", "StreetChanged(" + t + ")");
+
+            // reduce the number of streets in the list
+            
+            // first get a list of EDs that are common to all the already selected streets
+
+            selectedIndex = document.myform["street" + 1].selectedIndex;
+            val = document.myform["street" + 1][selectedIndex].value;
+            for (i=2; i<=s; i++) {
+              selectedIndex = document.myform["street" + i].selectedIndex;
+              nextval = document.myform["street" + i][selectedIndex].value;
+              val = List_Intersection(val, nextval);
+            }
+            valArray = val.split(",");
+
+            // now go street-by-street and throw out those that are not in the common ED list
+
+            var optionEnd = 0;
+            lastStreetSelected = document.myform["street" + s][selectedIndex].text; 
+
+            while ((optionStart=html.indexOf('<option value=', optionEnd)) != -1) { // do not test delimiter, could be ' or "
+              optionEnd = html.indexOf('</option>', optionStart) + '</option>'.length;
+              option = html.substr(optionStart, optionEnd-optionStart);
+              var breakout = false;
+              if (option.indexOf(lastStreetSelected) == -1) { // don't want to keep street if it is the selected street
+
+                valueStart = optionStart + '<option value='.length + 1; // get passed the delimiter
+                valueEnd = html.indexOf('>', valueStart) - 1; // get back to the ending delimiter
+
+                nameStart = valueEnd+2; // street name is not used
+                nameEnd = html.indexOf("<",nameStart);
+                name = html.substr(nameStart, nameEnd-nameStart);
+
+                value = html.substr(valueStart, valueEnd-valueStart);
+                value = value.replace(" ", "");
+                value = "," + value + ",";
+
+                for (j=0; j<valArray.length; j++) {
+                  if (value.indexOf("," + valArray[j] + ",") != -1) {
+                    breakout = true;
+                    break;
+                  }
+                }
+
+              }
+              if (breakout) {
+                continue;
+              }
+              html = html.substr(0, optionStart) + html.substr(optionEnd); // remove street from list
+              optionEnd = optionStart;
+            }
+
+            // list has been reduced, now place it on the display
+
+            streetLists[t] = html;
+            document.getElementById("street" + t + "Span").innerHTML = html;
+          }
+        }
+
+        if (document.myform.prefix.selectedIndex == 0) { // 1930 ED would take priority
+          GetEds('no');
+        }
+      }
+
+      function ClearEdList() {
+        // is called when street selection changes, also when ED selection changes
+        document.getElementById("edsSpan").innerHTML = "";
+      }
+
+      var delay = 0;
+      var lastTownName = "";
+      
+      function DelayGetEds(town) {
+        townName = town.value;
+        if (townName == lastTownName) {
+          return;
+        }
+        if (townName == "") {
+          document.getElementById("edsSpan").innerHTML = "";
+          return;
+        }
+        document.getElementById("edsSpan").innerHTML = "<i>...please stand by</i>";
+        clearTimeout(delay);
+        delay = setTimeout('GetEds("no" )', 2000);
+        lastTownName = townName;
+      }
+  
+      function Gannett(state, city) {
+        var re = /\./gi;
+        city = city.replace(re,""); // replace St. Louis with St Louis, needed for gannett site
+        for (var i=0; i<metroList.length; i++) {
+          if (metroList[i][0] == year && metroList[i][1] == state && metroList[i][2] == city) { 
+            return true;
+          }
+        }
+        return false;
+      }
+
+      function CityChanged() {
+        var cityText = document.myform.city[document.myform.city.selectedIndex].text;
+        var stateText = document.myform.state1[document.myform.state1.selectedIndex].value;
+        if (cityText != "" && Gannett(stateText, cityText)) {
+          var button = 
+            "<input type='button'" +
+              " value='See " + cityText+ " Interactive Maps at gannett.cc'" +
+              " onclick='GetMetroMaps(\"" + stateText + "\", \"" + cityText + "\");'" +
+            ">";
+          document.getElementById("mapSpan2").innerHTML = button;
+        } else {
+          document.getElementById("mapSpan2").innerHTML = "";
+        }
+        if (document.myform.county.selectedIndex == 0) { // no county selected
+          if (document.myform.city.selectedIndex == 0 || // no city selected
+              document.myform.county.selectedIndex == 1) { // other selected for city
+            CityChangedContinued("");
+          } else {
+            var req = root + "unifiedcities2county.php?year=" + year + "&state=" + stateText + "&city=" + cityText;
+            bObj = new JSONscriptRequest(req); // create a new request object
+            bObj.buildScriptTag(); // build a dynamic script tag
+            bObj.addScriptTag(); // add the script to the page -- transfers control to CityChangedContinued
+          }
+        } else {
+          var countyText = document.myform.county[document.myform.county.selectedIndex].text;
+          CityChangedContinued(countyText);
+        }
+      }
+
+      function CityChangedContinued(county) {
+
+        if (!bigcities) {
+          return;
+        }
+
+        var stateText = document.myform.state1[document.myform.state1.selectedIndex].value;
+        var county = document.myform.county[document.myform.county.selectedIndex].value;
+
+        if (county == "") {
+           document.getElementById("mapSpan").innerHTML = ""; // clear the ED map button
+        } else {
+          var button = 
+            "<input type='button'" +
+              " value='See ED Maps for " + county + " County'" +
+              " onclick='GetEdMaps(\"" + stateText + "\", \"" + county + "\");'" +
+            ">";
+          document.getElementById("mapSpan").innerHTML = button;
+
+        }
+
+        ClearStreets();
+        var cityText = document.myform.city[document.myform.city.selectedIndex].text;
+        if (cityText == "Other (specify)" || cityText == "") {
+          if (document.myform.prefix.selectedIndex == 0) { // 1930 ED would take priority
+            document.getElementById("edsSpan").innerHTML = "";
+          }
+          if (cityText == "Other (specify)") {
+            document.getElementById("citySpan").innerHTML = '<input name="cityOther" size="10" onkeyup="DelayGetEds(this);">';
+            document.getElementById("infoSpan").innerHTML = "Enter township, community, institution or street above";
+          } else {
+            document.getElementById("citySpan").innerHTML = '<input name="cityOther" size="10" disabled="disabled" class="disabled">';
+            document.getElementById("infoSpan").innerHTML = "";
+          }
+          document.getElementById("street1LabelSpan").innerHTML = ' <strike>Street</strike> ';
+          streetLists[1] = "";
+          document.getElementById("street1Span").innerHTML = '<input name="street1" size="10" disabled="disabled" class="disabled">';
+          document.getElementById("numberLabelSpan").innerHTML = ' <strike>House Number</strike> ';
+          document.getElementById("numberSpan").innerHTML = '<input name="number" size="3" disabled="disabled" class="disabled">';
+        } else {
+          document.getElementById("citySpan").innerHTML = '<input name="cityOther" size="10" disabled="disabled" class="disabled">';
+          document.getElementById("infoSpan").innerHTML = "";
+          document.getElementById("street1LabelSpan").innerHTML = " Street ";
+          document.getElementById("numberLabelSpan").innerHTML = " House Number ";
+          document.getElementById("numberSpan").innerHTML = '<input name="number" size="3">';
+          GetStreets();
+          if (GetParameter('street') == "") { // if not blank, GetEds will be called from StreetChanged
+            GetEds("no");
+          }
+          InitNumber();
+        }
+
+        document.getElementById("xstreetLabelSpan").innerHTML = "";
+        document.getElementById("street2LabelSpan").innerHTML = "";
+        document.getElementById("street3LabelSpan").innerHTML = "";
+        document.getElementById("street4LabelSpan").innerHTML = "";
+        document.getElementById("street5LabelSpan").innerHTML = "";
+
+        for (var i=1; i<=5; i++) {
+          streetLists[i] = "";
+        }
+        document.getElementById("street2Span").innerHTML = "<input type='hidden' name='street2' value=''>";
+        document.getElementById("street3Span").innerHTML = "<input type='hidden' name='street3' value=''>";
+        document.getElementById("street4Span").innerHTML = "<input type='hidden' name='street4' value=''>";
+        document.getElementById("street5Span").innerHTML = "<input type='hidden' name='street5' value=''>";
+      }
+
+      var streetList = "";
+
+      function ClearStreets() {
+        if (document.myform.street1 != undefined) {
+          document.myform.street1.selectedIndex = 0;
+        }
+        if (document.myform.street2 != undefined) {
+          document.myform.street2.selectedIndex = 0;
+        }
+        if (document.myform.street3 != undefined) {
+          document.myform.street3.selectedIndex = 0;
+        }
+        if (document.myform.street4 != undefined) {
+          document.myform.street4.selectedIndex = 0;
+        }
+        if (document.myform.street5 != undefined) {
+          document.myform.street5.selectedIndex = 0;
+        }
+      }
+
+      function GetEds(details) {
+
+        if ((year != 1920 && document.myform.city == undefined) || document.myform.county == undefined) {
+          // this occurs if the user clicks the GET EDs button while "please stand by" is in effect
+          alert("Please stand by, page is still loading\n\nTry again in a few seconds");
+          return;
+        }
+
+        var state = document.myform.state1[document.myform.state1.selectedIndex].value;
+        var city = "";
+        var fullcity = "";
+        if (bigcities) {
+          city = document.myform.city[document.myform.city.selectedIndex].value;
+          fullcity = document.myform.city[document.myform.city.selectedIndex].text;
+          if (city == "") { // occurs for IE where they don't use the text for the value
+            city = fullcity;
+          }
+        }
+        var other = 0;
+        if (city.indexOf("Other") != -1 || !bigcities) {
+          city = document.myform.cityOther.value;
+          fullcity = document.myform.cityOther.value;
+          other = 1;
+        }
+        var county = document.myform.county[document.myform.county.selectedIndex].value;
+        var street1 = "";
+        if (document.myform.street1 != undefined &&
+            document.myform.street1[document.myform.street1.selectedIndex] != undefined) {
+          street1 = document.myform.street1[document.myform.street1.selectedIndex].text;
+        }
+        var street2 = "";
+        if (document.myform.street2 != undefined &&
+            document.myform.street2[document.myform.street2.selectedIndex] != undefined) {
+          street2 = document.myform.street2[document.myform.street2.selectedIndex].text;
+        }
+        var street3 = "";
+        if (document.myform.street3 != undefined &&
+            document.myform.street3[document.myform.street3.selectedIndex] != undefined) {
+          street3 = document.myform.street3[document.myform.street3.selectedIndex].text;
+        }
+        var street4 = "";
+        if (document.myform.street4 != undefined &&
+            document.myform.street4[document.myform.street4.selectedIndex] != undefined) {
+          street4 = document.myform.street4[document.myform.street4.selectedIndex].text;
+        }
+        var street5 = "";
+        if (document.myform.street5 != undefined &&
+            document.myform.street5[document.myform.street5.selectedIndex] != undefined) {
+          street5 = document.myform.street5[document.myform.street5.selectedIndex].text;
+        }
+        var prefix = document.myform.prefix[document.myform.prefix.selectedIndex].value;
+        var suffix = document.myform.suffix.value;
+
+        if ((prefix == "" && suffix != "") || (suffix == "" && prefix != "")) {
+          alert("The 1930 ED that you entered is incomplete");
+          return;
+        }
+
+        if (prefix != "" && (city != "" || county != "")) {
+          alert("Both city/county information and a 1930 ED have been specified.  The city/county information will be ignored.");
+        }
+
+        if (prefix != "") {
+          countyFromPrefix = document.myform.prefix[document.myform.prefix.selectedIndex].text;
+          // format is 41 (San Mateo)
+          county = "";
+          countyStart = countyFromPrefix.indexOf("(");
+          if (countyStart != -1) {
+            countyStart++;
+            countyEnd = countyFromPrefix.indexOf(")");
+            county = countyFromPrefix.substr(countyStart, countyEnd-countyStart);
+          }
+        }
+
+        // special case those counties that are really large cities
+        // second thoughts: no longer needed since we no longer display such cities in the county list
+        if (city == "" && county.substr(county.length-5) == " city") {
+          city = document.myform.city[2].value;
+          fullcity = document.myform.city[2].text;
+        }
+
+        var query = "year=" + year + "&state=" + escape(state) + "&county=" + escape(county) + 
+                  "&fullcity=" + escape(fullcity) + "&city=" + escape(city) +  "&other=" + other +
+                  "&prefix=" + prefix + "&suffix=" + suffix + "&details=" + details +
+                  "&street1=" + escape(street1) + "&street2=" + escape(street2) +
+                  "&street3=" + escape(street3) + "&street4=" + escape(street4) +
+                  "&street5=" + escape(street5); 
+        var req = root + "unified.php?" + query;
+        if (details == "yes") {
+          OpenWindow(req, "", "edmap");
+        } else {
+          document.getElementById("edsSpan").innerHTML = "<i>...please stand by</i>";
+          bObj = new JSONscriptRequest(req); // create a new request object
+          bObj.buildScriptTag(); // build a dynamic script tag
+          bObj.addScriptTag(); // add the script to the page -- transfers control to EdCallback
+        }
+      }
+
+      var lastRadioChecked = "";
+
+      function Radio(value) {
+        lastRadioChecked = value;
+      }
+      
+      function EdCallback(result, county) {
+
+        if (year >= 1920) {
+
+          // strip 1930 EDs that are embedded in 1920 results
+          // format is
+          //     <a href=\'javascript:LinkClicked("8-7[8-8]");\'>Chemung-7[8-8]</a>
+
+          var bracketStart;
+          var bracketEnd;
+          while ((bracketStart=result.indexOf("[")) != -1) { // stripping 1930 EDs
+            bracketEnd = result.indexOf("]", bracketStart);
+            result = result.substr(0,bracketStart) + result.substr(bracketEnd+1);
+          }
+
+          // remove any duplicate EDs that might result
+          // format is
+          //    <a href=\'javascript:LinkClicked("8-8[8-7]");\'>Chemung-8[8-7]</a>,
+          //    <a href=\'javascript:LinkClicked("8-8[8-8]");\'>Chemung-8[8-8]</a>,
+
+          var lastAtag = "";
+          var atagStart;
+          var atagEnd = 0;
+
+          var atagFirst = result.indexOf("<a ");
+          var result2 = result.substr(0, atagFirst);
+          var first = true;
+
+          while ((atagStart=result.indexOf("<a ", atagEnd)) != -1) { // remove duplicates
+            atagEnd = result.indexOf("</a>", atagStart) + "</a>".length;
+            atag = result.substr(atagStart, atagEnd-atagStart);
+            if (atag == lastAtag) {
+            } else {
+              if (!first) {
+                result2 += ", ";
+              }
+              result2 += atag;
+              lastAtag = atag;
+              first = false;
+            }
+          }
+          result2 += result.substr(atagEnd);
+          result = result2;
+
+        }
+
+        // extract ED from result
+        //    format is
+        //      a href='javascript:LinkClicked("1-1");'>1-1</a>
+
+        var ed = "";
+        var edEnd=0;
+        while((edStart=result.indexOf(">", edEnd)) != -1) {
+          edStart++;
+          edEnd = result.indexOf("</a>", edStart);
+          if (ed != "") {
+            ed += ",";
+          }
+          ed += result.substr(edStart, edEnd-edStart);
+          edEnd += "</a>".length;
+        }
+
+        var button = "<input type='button' value='Description of the\nEDs Listed Above' onclick='LinkClicked(\"" + ed + "\", \"short\");'>";
+
+        var scheduleRadioButton = "";
+        if (year <= 1950) { // create button only if census has already been released
+          var checked = "";
+          if (lastRadioChecked == "schedules" || lastRadioChecked == "") {
+            checked = " checked";
+          }
+          scheduleRadioButton =
+            "<td align='right'>" +
+              "<input type='radio' name='display' onchange='Radio(\"schedules\")' value='schedules'" + checked + ">" +
+            "</td><td>" +
+              "Census<br>Pages" +
+            "</td>";
+        }
+
+        var transcriptionRadioButton = "";
+        if (year >= 1880) { // create button only if year is 1880 or beyond
+          var checked = "";
+          if (lastRadioChecked == "transcriptions") {
+            checked = " checked";
+          } else {
+            checked = (scheduleRadioButton == "") ? " checked" : "";
+          }
+          transcriptionRadioButton += (checked =="") ? "<td>&nbsp;&nbsp;&nbsp;</td>" : "";
+          transcriptionRadioButton +=
+            "<td align='right'>" +
+              "<input type='radio' name='display' oncchange='Radio(\"transcriptions\")' value='transcriptions'" + checked + ">" +
+            "</td><td>" +
+              "ED Description<br>(transcribed)" + 
+            "</td>";
+        }
+
+        var descriptionRadioButton = "";
+        if (year >= 1940) { // create button only if year is 1940 or beyond
+          var checked = "";
+          if (lastRadioChecked == "descriptions") {
+            checked = " checked";
+          } else {
+            checked = (scheduleRadioButton+transcriptionRadioButton == "") ? " checked" : "";
+          }
+          descriptionRadioButton += (checked =="") ? "<td>&nbsp;&nbsp;&nbsp;</td>" : "";
+          descriptionRadioButton +=
+            "<td align='right'>" +
+              "<input type='radio' name='display' onchange='Radio(\"descriptions\")' value='descriptions'" + checked + ">" +
+            "</td><td>" +
+              "ED Description<br>(microfilm)" +
+            "</td>";
+        }
+
+        var streetRadioButton = "";
+        var checked = "";
+        if (lastRadioChecked == "streets") {
+          checked = " checked";
+        } else {
+          checked = (scheduleRadioButton+transcriptionRadioButton + descriptionRadioButton == "") ? " checked" : "";
+        }
+        streetRadioButton += (checked =="") ? "<td>&nbsp;&nbsp;&nbsp;</td>" : "";
+        if (bigcities && document.myform.city.selectedIndex > 1) { // create button only if city is in large-city ED finder
+          streetRadioButton +=
+            "<td align='right'>" +
+              "<input type='radio' name='display' onchange='Radio(\"streets\")' value='streets'" + checked + ">" +
+            "</td><td>" +
+                "Streets<br>in the ED" +
+             "</td>";
+        }
+
+        var gannettRadioButton = "";
+        if (lastRadioChecked == "gannett") {
+          checked = " checked";
+        } else {
+          checked = (scheduleRadioButton+transcriptionRadioButton + descriptionRadioButton == "") ? " checked" : "";
+        }
+        gannettRadioButton += (checked == "") ? "<td>&nbsp;&nbsp;&nbsp;</td>" : "";
+        var city = document.myform.city[document.myform.city.selectedIndex].text
+        var state = document.myform.state1[document.myform.state1.selectedIndex].value;
+        if (Gannett(state, city)) { // create button only if city is on the gannett site
+          gannettRadioButton +=
+            "<td align='right'>" +
+            "<input type='radio' name='display' onchange='Radio(\"gannett\")' value='gannett'" + checked + ">" +
+            "</td><td>" +
+            "Interactive Map<br>of the ED" +
+            "</td>";
+        }
+
+        var clickTable = "";
+        if (transcriptionRadioButton + descriptionRadioButton + scheduleRadioButton + streetRadioButton + gannettRadioButton
+            != "") { // at least one not blank
+          clickTable =
+            "<br><br>" +
+            "<table>" +
+              "<tr>" +
+                "<td>" + 
+                  "<table border='1'>" +
+                    "<tr>" +
+                      "<td>" +
+                        "<table border='0'>" +
+                          "<tr>" +
+                            "<td colspan='20' align='center'>" +
+                              "Clicking on a " + year + "  ED number above will display the:" +
+                            "</td>" +
+                          "</tr>" +
+                          "<tr><td></td></tr>" +
+                          "<tr>" +
+                            scheduleRadioButton +
+                            transcriptionRadioButton +
+                            descriptionRadioButton +
+                            streetRadioButton +
+                            gannettRadioButton +
+                          "</tr>" +
+                        "</table>" +
+                      "</td>" +
+                    "</tr>" +
+                  "</table>" +
+                "</td>" +
+                "<td>" +
+                  "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;" +
+                "</td>" +
+                "<td>" +
+                  button +
+                "</td>" +
+              "</tr>" +
+            "</table>";
+        }
+        if (result == "") {
+          clickTable = "";
+          result = "<font color='red'>*** No EDs found ***</font>";
+        }
+        document.getElementById("edsSpan").innerHTML = result + clickTable;
+      }
+
+      function LinkClicked(ed, display) {
+        var state = document.myform.state1[document.myform.state1.selectedIndex].value;
+        if (display == undefined || display == "") {
+          var len = document.myform.display.length;
+          if (len == undefined) { // occurs if there is only one radio button
+            display = document.myform.display.value;
+          } else {
+            for (var i=0; i<document.myform.display.length; i++) {
+              if (document.myform.display[i].checked) {
+                display = document.myform.display[i].value;
+                break;
+              }
+            }
+          }
+        }
+
+        if (display == "schedules") { // view census pages
+          var dash = ed.indexOf('-');
+          var prefix = ed.substr(0, dash);
+          var suffix = ed.substr(dash+1);
+          if (year == 1950) {
+/*
+            alert(
+              "1950 census pages will not be available until April 1, 2022\n" +
+              "Displaying transcribed ED description instead");
+            url = protocol + "//stevemorse.org/ed/ed2.php?year=" + year + "&state=" + state + "&ed=" + ed;
+*/
+            url = "viewer1950.html?state=" + state + "&county=" + prefix + "&ed=" + suffix;
+          } else if (year == 1940) {
+            url = "viewer1940.html?state=" + state + "&county=" + prefix + "&ed=" + suffix;
+          } else if (year == 1870) {
+            // ed is of the form 29-11/16.  need to strip off the portion preceding the dash
+            var ed2 = ed.split('-')[1];
+            if (state == "NY"){
+              url = "getnyc1870.php?ed=" + ed2;
+            } else if (state == "PA") {
+              url = "getphilly1870.php?ed=" + ed2;
+            } else { // impossible
+            }
+          } else {
+            url = "reelframes.html?year=" + year + "&state=" + state + "&county=" + prefix + "&ed=" + suffix;
+          }
+
+        } else if (display == "transcriptions") {
+          if (year >= 1930) {
+            url = protocol + "//stevemorse.org/ed/ed2.php?year=" + year + "&state=" + state + "&ed=" + ed;
+          } else { // need to change county number to county name
+            url = protocol + "//stevemorse.org/ed/ed2_pre.php?year=" + year + "&state=" + state + "&ed=" + ed;
+          }
+
+        } else if (display == "descriptions") {
+
+          var city = document.myform.city[document.myform.city.selectedIndex].text;
+          if (city == "") {
+            alert(
+              "You have not selected a city or town.  " + 
+              "In certain cases that will cause the wrong ED description to be displayed.\n\n" +
+              "You will know when that happens because the ED description for Alaska, First Judicial District will be displayed");
+          }
+          url = protocol + "//stevemorse.org/ed/ed3.php?year=" + year + "&fromEdFinder=yes" +
+                "&state=" + state + "&city=" + city + "&ed=" + ed;
+
+        } else if (display == "short") { // view ED descriptions (more details button pressed)
+
+          if (year < 1930) {
+            url = protocol + "//stevemorse.org/census/unifieddescriptions.php?year=" + year +
+              "&state=" + state;
+          } else {
+            url =
+              protocol + "//stevemorse.org/ed/ed2.php?year=" + year + "&fromEdFinder=yes" +
+              "&state=" + state + "&county=All+Counties";
+          }
+
+          // note we are going to do a post here instead of a get because ED list could be long
+          document.hiddenform.action = url;
+          document.hiddenform.ed.value = ed;
+          document.hiddenform.submit();
+          return;
+
+        } else if (display == "streets") {
+          var city = document.myform.city[document.myform.city.selectedIndex].value;
+          var fullcity = document.myform.city[document.myform.city.selectedIndex].text;
+          url =
+            protocol + "//stevemorse.org/census/unifiedstreets2.php?year=" + year + "&state=" + state +
+            "&fullcity=" + fullcity + "&city=" + city + "&ed=" + ed;
+
+        } else if (display == "gannett") {
+          url = "https://gannett.cc/?year=" + year + "&state=" + state+"&ed=" + ed
+        }
+        OpenWindow(url, "", "details");
+      }
+
+      function ResetAll() {
+        document.myform.state1.selectedIndex=0;
+        document.myform.state2.selectedIndex=0;
+        document.getElementById("suffixSpan").innerHTML = '<input name="suffix" size="4" disabled="disabled" class="disabled">';
+        GetCounties(0);
+      }
+
+      function Why() {
+        var firstSentence =
+          (year == 1940) ?
+            "This button is not needed when you select a city, a street, or a 1930 ED.  "
+           :
+            "This button is not needed when you select a city or a street.  ";
+        alert(
+          firstSentence +
+          "In those cases the display of " + year + " EDs is automatically updated.\n\n"+
+          "When you select a state or a county, the display is not updated but is cleared instead.\n\n" +
+          "This button allows you to see all the " + year + " EDs in a state or a county.");
+      }
+
+      function GetParameter(parameter) {
+
+        // convert query string to array of individual arguments
+        var query = GetQueryString();
+        var arglist = query.split("&");
+
+        // process each argument
+        for (var j in arglist) {
+          var equalSign = arglist[j].indexOf("=");
+          var leftSide = (equalSign == -1) ? arglist[j] : arglist[j].substr(0, equalSign);
+          if (leftSide == parameter) {
+            var rightSide = (equalSign == -1) ? "" : arglist[j].substr(equalSign+1);
+            return unescape(rightSide);
+          }
+        }
+        return "";
+      }
+
+      function GetQueryString() {
+        var url = document.location.toString();
+        var questionmarkPosition = url.indexOf("?");
+        return (questionmarkPosition == -1) ? "" : url.substr(questionmarkPosition+1);
+      }
+
+      var testing = GetParameter('testing');
+      var year = GetParameter('year');
+      if (year == "") {
+        year = defaultYear;
+      }
+
+      var bigcities = true;
+      var converter = false;
+
+      function Init() {
+        for (var i=0; i<document.myform.year.length; i++) {
+          if (document.myform.year[i].value == year) {
+            document.myform.year.selectedIndex = i;
+            break;
+          }
+        }
+        InitState();
+        if (year == 1920 || year == 1940) {
+          converter = true;
+        }
+/*
+        if (year == 1920) {
+          bigcities = false;
+        }
+*/
+
+        if (converter) {
+          document.getElementById('edconverter').style.display = "block";
+        }
+
+        if (!bigcities) {
+          document.getElementById('citiesSpan').style.display = "none";
+          document.getElementById("citySpan").innerHTML = '<input name="cityOther" size="10" onkeyup="DelayGetEds(this);">';
+          document.getElementById('bigcities1').style.display = "none";
+
+          // the next line is not necessary but it does reduce the space between the sections
+
+          document.getElementById('bigcities2').innerHTML = "";
+        }
+
+        document.getElementById(year + 'buttons').style.display = "block";
+      }
+
+      function YearChanged() {
+        var testingArg = (testing) ? "&testing=1" : ""
+        var yr = document.myform.year[document.myform.year.selectedIndex].value;
+/*
+        if (yr == 1870) {
+          alert(
+            "For 1870 you will need to use the One-Step Large City ED Finder\n" +
+            "When you click OK, you will be taken to the tool\n"
+          );
+          window.open("index.html?year=1870", "_blank");
+          yr = defaultYear;
+        }
+*/
+        document.location.replace
+          ("?year=" + yr + testingArg);
+      }
+
+    </script>
+
+  </head>
+
+  <body onload="Init();GetCounties(0);">
+
+    <form name="myform">
+
+      <center>
+        <font size="5">
+          Unified
+            <select name="year" onchange="YearChanged();">
+              <option value="1950">1950</option>
+              <option value="1940">1940</option>
+              <option value="1930">1930</option>
+              <option value="1920">1920</option>
+              <option value="1910">1910</option>
+              <option value="1900">1900</option>
+              <option value="1880">1880</option>
+              <option value="1870">1870</option>
+              <script>
+                if (testing != "") {
+                  document.write('<option value="1950">1950</option>');
+                }
+              </script>
+            </select>
+          Census ED Finder
+        </font>
+        <br>
+        (Obtaining the Census Enumeration District for an 1870 to 1950 Location in One Step)
+        <br><br>
+        <font size="4">
+          <script>emailhref()</script>Stephen P. Morse, PhD<script>document.write("</a>")</script>
+          &nbsp;&amp;&nbsp;
+          <a href="/cdn-cgi/l/email-protection#7417111a070107121d18110734171b0c5a1a1100">Joel D. Weintraub, PhD</a>
+        </font>
+        <br>
+        <br>
+
+        <div id="1870buttons" style="display:none;">
+          <input type="button" value="2nd Enumerations" onclick="window.location='1870secondenumeration.html';">
+          <input type="button" value="ED Viewer" onclick="window.location='reelframes.html?year=1870';">
+          <input type="button" value="Search by Name" onclick="window.location='ancestry.html';">
+          <input type="button" value="Frequently Asked Questions" onclick="window.location='faq.htm';">
+          <input type="button" value="My Other Webpages" onclick="window.location='../index.html'">
+        </div>
+
+        <div id="1880buttons" style="display:none;">
+          <input type="button" value="ED Viewer" onclick="window.location='reelframes.html?year=1880';">
+          <input type="button" value="Search by Name" onclick="window.location='ancestry.html';">
+          <input type="button" value="Frequently Asked Questions" onclick="window.location='faq.htm';">
+          <input type="button" value="My Other Webpages" onclick="window.location='../index.html'">
+        </div>
+
+        <div id="1900buttons" style="display:none;">
+          <input type="button" value="ED Viewer" onclick="window.location='reelframes.html?year=1900';">
+          <input type="button" value="Search by Name" onclick="window.location='ancestry.html';">
+          <input type="button" value="Frequently Asked Questions" onclick="window.location='faq.htm';">
+          <input type="button" value="My Other Webpages" onclick="window.location='../index.html'">
+        </div>
+
+        <div id="1910buttons" style="display:none;">
+          <input type="button" value="ED Viewer" onclick="window.location='reelframes.html?year=1910';">
+          <input type="button" value="Census Codes" onclick="window.location='codes.html';">
+          <input type="button" value="Search by Name" onclick="window.location='ancestry.html';">
+          <input type="button" value="Frequently Asked Questions" onclick="window.location='faq.htm';">
+          <input type="button" value="My Other Webpages" onclick="window.location='../index.html'">
+        </div>
+
+        <div id="1920buttons" style="display:none;">
+          <input type="button" value="ED Viewer" onclick="window.location='reelframes.html?year=1920';">
+          <input type="button" value="Census Codes" onclick="window.location='codes.html';">
+          <input type="button" value="Search by Name" onclick="window.location='ancestry.html';">
+          <input type="button" value="Frequently Asked Questions" onclick="window.location='faq.htm';">
+          <input type="button" value="My Other Webpages" onclick="window.location='../index.html'">
+        </div>
+
+        <div id="1930buttons" style="display:none;">
+          <input type="button" value="ED Viewer" onclick="window.location='reelframes.html?year=1930';">
+          <input type="button" value="Census Codes" onclick="window.location='codes.html';">
+          <input type="button" value="Search by Name" onclick="window.location='ancestry.html';">
+          <input type="button" value="Frequently Asked Questions" onclick="window.location='faq.htm';">
+          <input type="button" value="My Other Webpages" onclick="window.location='../index.html'">
+        </div>
+
+        <div id="1940buttons" style="display:none;">
+          <input type="button" value="Tutorial Quiz" onclick="window.location='quiz.php';">
+          <input type="button" value="Universal 1940 ED Viewer" onclick="window.location='viewer1940.html';">
+          <input type="button" value="ED Maps" onclick="window.location='xml1940edmaps.html';">
+          <input type="button" value="Census Codes" onclick="window.location='codes.html';">
+          <input type="button" value="Search by Name" onclick="window.location='ancestry.html';">
+          <input type="button" value="Frequently Asked Questions" onclick="window.location='faq.htm';">
+          <input type="button" value="My Other Webpages" onclick="window.location='../index.html'">
+        </div>
+
+        <div id="1950buttons" style="display:none;">
+          <input type="button" value="Universal 1950 ED Viewer" onclick="window.location='viewer1950.html';">
+          <input type="button" value="Census Codes" onclick="window.location='codes.html';">
+<!--
+          <input type="button" value="Search by Name" onclick="window.location='ancestry.html';">
+-->
+          <input type="button" value="Frequently Asked Questions" onclick="window.location='faq1950.htm';">
+          <input type="button" value="My Other Webpages" onclick="window.location='../index.html'">
+        </div>
+
+        <br>
+<!--
+        <font size="4" color="red">
+          VOLUNTEERS NEEDED TO HELP WITH THE 1950 CENSUS UTILITIES.<br>
+          CLICK <a href="project1950intro.html" target="_blank">HERE</a> FOR MORE INFORMATION.
+        </font>
+        <br><br>
+-->
+
+      </center>
+
+      <br>
+      <b>
+        Enter as much of the
+        <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script> document.write(year); </script> 
+        location as you know</b>
+      <br>
+      <blockquote>
+
+        <span id="bigcities1" style="display:block;">
+          <table>
+            <tr>
+              <td nowrap>
+                <i>
+                  <font color="red">
+                    If you select your city from the list of cities displayed,
+                    you will be able to enter street-level information<br>
+                  </font>
+                </i>
+              </td>
+            </tr>
+            <tr>
+              <td nowrap>
+                <i>
+                  <font color="red">
+                    If you select "other" from the city list, you will be able to type in your city or town name
+                  </font>
+                </i>
+              </td>
+            </tr>
+          </table>
+          <br>
+        </span>
+
+        <table border="0">
+          <tr>
+            <td nowrap>
+              State
+              <select name="state1" onchange="GetCounties(1);">
+                <option value="AL">Alabama</option>
+                <option value="AK">Alaska</option>
+                <option value="AS">American Samoa</option>
+                <option value="AZ">Arizona</option>
+                <option value="AR">Arkansas</option>
+                <option value="CA">California</option>
+                <option value="CO">Colorado</option>
+                <option value="CT">Connecticut</option>
+                <option value="DE">Delaware</option>
+                <option value="DC">District of Columbia</option>
+                <option value="FL">Florida</option>
+                <option value="GA">Georgia</option>
+                <option value="GU">Guam</option>
+                <option value="HI">Hawaii</option>
+                <option value="ID">Idaho</option>
+                <option value="IL">Illinois</option>
+                <option value="IN">Indiana</option>
+                <option value="IA">Iowa</option>
+                <option value="KS">Kansas</option>
+                <option value="KY">Kentucky</option>
+                <option value="LA">Louisiana</option>
+                <option value="ME">Maine</option>
+                <option value="MD">Maryland</option>
+                <option value="MA">Massachusetts</option>
+                <option value="MI">Michigan</option>
+                <option value="MN">Minnesota</option>
+                <option value="MS">Mississippi</option>
+                <option value="MO">Missouri</option>
+                <option value="MT">Montana</option>
+                <option value="NE">Nebraska</option>
+                <option value="NV">Nevada</option>
+                <option value="NH">New Hampshire</option>
+                <option value="NJ">New Jersey</option>
+                <option value="NM">New Mexico</option>
+                <option value="NY">New York</option>
+                <option value="NC">North Carolina</option>
+                <option value="ND">North Dakota</option>
+                <option value="OH">Ohio</option>
+                <option value="OK">Oklahoma</option>
+                <option value="OR">Oregon</option>
+                <option value="PC">Panama Canal</option>
+                <option value="PA">Pennsylvania</option>
+                <option value="PR">Puerto Rico</option>
+                <option value="RI">Rhode Island</option>
+                <option value="SC">South Carolina</option>
+                <option value="SD">South Dakota</option>
+                <option value="TN">Tennessee</option>
+                <option value="TX">Texas</option>
+                <option value="UT">Utah</option>
+                <option value="VT">Vermont</option>
+                <option value="VI">Virgin Islands</option>
+                <option value="VA">Virginia</option>
+                <option value="WA">Washington</option>
+                <option value="WV">West Virginia</option>
+                <option value="WI">Wisconsin</option>
+                <option value="WY">Wyoming</option>
+              </select>
+            </td>
+            <td>&nbsp;&nbsp;&nbsp;</td>
+            <td nowrap>
+              County <span id="countiesSpan"></span>
+              &nbsp;&nbsp;&nbsp;
+              City or Town
+              <span id="citiesSpan"></span>
+              <span id="citySpan"></span>
+            </td>
+          </tr>
+
+          <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td align="right"><font size="2"><span id="infoSpan"></span></font></td>
+          </tr>
+
+          <tr>
+            <td>
+              <span id="numberLabelSpan"></span>
+              <span id="numberSpan"></span>
+            </td>
+            <td>&nbsp;&nbsp;&nbsp;</td>
+            <td>
+              <span id="street1LabelSpan"></span>
+              <span id="street1Span"></span>
+            </td>
+          </tr>
+
+          <tr><td>&nbsp;</td></tr>
+
+          <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>
+              <span id="mapSpan"></span>
+              <span id="mapSpan2"></span>
+            </td>
+          </tr>
+
+        </table>
+
+        <table>
+          <tr>
+            <td>
+                <span id="bigcities2" style="display:block;">
+                  <span id="xstreetLabelSpan"></span>
+
+                  <span id="street2LabelSpan"></span>
+                  <span id="street2Span"></span>
+
+                  <span id="street3LabelSpan"></span>
+                  <span id="street3Span"></span>
+
+                  <span id="street4LabelSpan"></span>
+                  <span id="street4Span"></span>
+
+                  <span id="street5LabelSpan"></span>
+                  <span id="street5Span"></span>
+
+                  <br>
+                </span>
+            </td>
+          </tr>
+        </table>
+      </blockquote>
+
+      <span id="edconverter" style="display:none;">      
+        <b>If you know the 1930 ED for this location, enter it here</b>
+        <blockquote>
+          <table>
+            <tr>
+
+              <td nowrap>
+                State
+                <select name="state2" onchange="GetCounties(2);">
+                  <option value="AL">Alabama</option>
+                  <option value="AK">Alaska</option>
+                  <option value="AS">American Samoa</option>
+                  <option value="AZ">Arizona</option>
+                  <option value="AR">Arkansas</option>
+                  <option value="CA">California</option>
+                  <option value="CO">Colorado</option>
+                  <option value="CT">Connecticut</option>
+                  <option value="DE">Delaware</option>
+                  <option value="DC">District of Columbia</option>
+                  <option value="FL">Florida</option>
+                  <option value="GA">Georgia</option>
+                  <option value="GU">Guam</option>
+                  <option value="HI">Hawaii</option>
+                  <option value="ID">Idaho</option>
+                  <option value="IL">Illinois</option>
+                  <option value="IN">Indiana</option>
+                  <option value="IA">Iowa</option>
+                  <option value="KS">Kansas</option>
+                  <option value="KY">Kentucky</option>
+                  <option value="LA">Louisiana</option>
+                  <option value="ME">Maine</option>
+                  <option value="MD">Maryland</option>
+                  <option value="MA">Massachusetts</option>
+                  <option value="MI">Michigan</option>
+                  <option value="MN">Minnesota</option>
+                  <option value="MS">Mississippi</option>
+                  <option value="MO">Missouri</option>
+                  <option value="MT">Montana</option>
+                  <option value="NE">Nebraska</option>
+                  <option value="NV">Nevada</option>
+                  <option value="NH">New Hampshire</option>
+                  <option value="NJ">New Jersey</option>
+                  <option value="NM">New Mexico</option>
+                  <option value="NY">New York</option>
+                  <option value="NC">North Carolina</option>
+                  <option value="ND">North Dakota</option>
+                  <option value="OH">Ohio</option>
+                  <option value="OK">Oklahoma</option>
+                  <option value="OR">Oregon</option>
+                  <option value="PC">Panama Canal</option>
+                  <option value="PA">Pennsylvania</option>
+                  <option value="PR">Puerto Rico</option>
+                  <option value="RI">Rhode Island</option>
+                  <option value="SC">South Carolina</option>
+                  <option value="SD">South Dakota</option>
+                  <option value="TN">Tennessee</option>
+                  <option value="TX">Texas</option>
+                  <option value="UT">Utah</option>
+                  <option value="VT">Vermont</option>
+                  <option value="VI">Virgin Islands</option>
+                  <option value="VA">Virginia</option>
+                  <option value="WA">Washington</option>
+                  <option value="WV">West Virginia</option>
+                  <option value="WI">Wisconsin</option>
+                  <option value="WY">Wyoming</option>
+                </select>
+              </td>
+              <td>&nbsp;&nbsp;&nbsp;</td>
+
+              <td nowrap>
+                ED
+                <span id="prefixSpan"></span>
+                  - <!-- note: this is an em dash (&#8212;) -->
+                <span id="suffixSpan"><input name="suffix" size="4" disabled="disabled" class="disabled"></span>
+              </td>
+            </tr>
+          </table>
+        </blockquote>
+        <br>
+      </span>
+      
+      <br>
+      <b>
+        <script> document.write(year); </script>
+        ED numbers corresponding to your location
+      </b>
+      <blockquote>
+        <span id="edsSpan"></span>
+<!--
+        <span id="edLabelSpan"></span><span id="edsSpan"></span>
+-->      </blockquote>
+
+      <br><br>
+<!--
+      <span id="edLabelSpan"></span><span id="edsSpan"></span>
+-->
+      <script>
+        document.write(
+          '<input type="button" value="Get ' + year + ' ED Number(s)" onclick="GetEds(\'no\');">');
+      </script>
+
+      <a href="javascript:Why();">why?</a>
+      &nbsp;&nbsp;&nbsp;&nbsp;
+      <input type="button" value="Reset" onclick="ResetAll();">
+
+
+    </form>
+
+    <form name="hiddenform" method="post" target="_blank">
+      <input name="ed" type="hidden">
+    </form>
+
+    <br><hr><br>
+
+    <font size="2">
+      This tool integrates the following One-Step stand-alone tools
+      <blockquote>
+        <a href="index.html" target="_blank">Obtaining Large City EDs in One-Step</a><br>
+        <a href="index.html?ed2street=1" target="_blank">Obtaining Streets within EDs in One-Step</a><br>
+        <a href="../ed/ed.php" target="_blank">Finding Transcribed ED Descriptions in One Step</a><br>
+        <a href="eddef1224.html" target="_blank">Finding Microfilmed ED Descriptions in One Step</a><br>
+        <a href="arc1940-1950edmaps.html" target="_blank">Viewing ED Maps in One Step</a><br>
+        <a href="ed2040.php?year=1940" target="_blank">Converting between 1930 and 1940 Census EDs in One Step</a><br>
+        <a href="ed2040.php?year=1920" target="_blank">Converting between 1920 and 1930 Census EDs in One Step</a><br>
+      </blockquote>
+      as well as
+      <blockquote>
+        <a href="" target="_blank">Nick Kocharhook's <a href="https://gannett.cc" target="_blank">Gannett ED Finder</a><br>
+      </blockquote>
+      For assistance deciding which of our Census One-Step tools to use, see our
+        <a href="quiz.php" target="_blank">1940 Tutorial Quiz</a> or our
+        <a href="quiz1950.php" target="_blank">1950 Tutorial Quiz</a>
+      <br>
+      For more help in determining the ED, see our
+        <a href="xml1940edmaps.html" target="_blank">One-Step ED Maps tool</a> and our
+        <a href="tracts.html" target="_blank">One-Step Census Tracts tool</a>
+      <br><br>
+      A special thanks to our <a href="credits.htm">volunteers</a> for all the work that they did on this project
+      <br><br>
+      &copy; Stephen P. Morse & Joel D Weintraub, 2011
+    </font>
+    <br><a href="../index.html" target="_top"><img src="../favicon.jpg"></a>
+
+  </body>
+</html>

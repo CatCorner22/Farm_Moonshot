@@ -1,0 +1,6 @@
+FamilySearch catalog access — Pass 75 (30 Oct 2026).
+GET https://www.familysearch.org/search/catalog/127913  HTTP 403
+GET https://www.familysearch.org/search/catalog/127869  HTTP 403
+GET https://www.familysearch.org/search/catalog/1146342 HTTP 403
+Incapsula / sign-in wall. Images unread. R011 step 26.
+Do not treat this file as a reading of those films.

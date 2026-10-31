@@ -1,0 +1,1191 @@
+Simpson, KY 1850 Federal Census        (INDEX - File 4 of 6)
+
+This Census was transcribed by Roy Markham and proofread by Sylvia Markham
+for the USGenWeb Census Project, http://www.us-census.org/
+
+Copyright 2003 by Roy Markham
+<Transcriber@US-Census.org>
+
+==========================================================================
+USGENWEB (US-CENSUS) NOTICE: These electronic pages may NOT be reproduced
+in any format for profit or presentation by any other organization.
+Non-commercial organizations desiring to use this material must obtain
+the consent of the transcriber prior to use.  <Transcriber@US-Census.org>
+Individuals desiring to use this material in their own research may do so.
+==========================================================================
+Formatted by USGenWeb Census Project File Manager, Connie Burkett
+All of the above information must remain when copied or downloaded.
+==========================================================================
+
+THIS IS AN INDEX SORTED BY NAME. FOR THE COMPLETE CENSUS INFORMATION IN
+PAGE NUMBER SEQUENCE, OPEN THE FILE IN THE FILE-NAME COLUMN FOR THAT LINE.
+ftp://ftp.us-census.org/pub/usgenweb/census/ky/simpson/1850/
+
+=============================================================================
+Pg#  Ln#  Last Name      First Name       Age   Birth Place       File-name
+=============================================================================
+17B   25  Lambert        A                7     Ten               pg0010a.txt
+36B   41  Lambert        Alford           12    Ky                pg0028a.txt
+42A   36  Lambert        B A              15    Ky                pg0037a.txt
+17B   26  Lambert        C                5     Ky                pg0010a.txt
+42A   34  Lambert        C                19    Ky                pg0037a.txt
+42A   31  Lambert        E                50    SC                pg0037a.txt
+17B   19  Lambert        E                46    Ten               pg0010a.txt
+42A   32  Lambert        E                22    Ky                pg0037a.txt
+17B   28  Lambert        E                21    Ten               pg0010a.txt
+17B   27  Lambert        H H              3     Ky                pg0010a.txt
+26A   20  Lambert        Henry            24    Ky                pg0019a.txt
+17B   20  Lambert        J                20    Ten               pg0010a.txt
+17B   21  Lambert        J                19    Ten               pg0010a.txt
+42A   35  Lambert        J                15    Ky                pg0037a.txt
+7A    21  Lambert        J J              5     Ky                pg0001a.txt
+42A   37  Lambert        J K P            7     Ky                pg0037a.txt
+42A   30  Lambert        Josiah           59    SC                pg0037a.txt
+7A    20  Lambert        L W              25    Ky                pg0001a.txt
+17B   22  Lambert        M                16    Ten               pg0010a.txt
+17B   23  Lambert        Mary             13    Ten               pg0010a.txt
+7A    22  Lambert        P J              2     Ky                pg0001a.txt
+17B   24  Lambert        S                9     Ten               pg0010a.txt
+17B   18  Lambert        T                49    Va                pg0010a.txt
+42A   33  Lambert        Wm               20    Ky                pg0037a.txt
+7A    19  Lambert        Wm J             24    Ten               pg0001a.txt
+28B   14  Lane           C                9     Ky                pg0028a.txt
+4B    13  Lane           Eliza            23    Ky                pg0001a.txt
+28B   13  Lane           H                11    Ten               pg0028a.txt
+18A   27  Lane           J                25    Ky                pg0010a.txt
+28B   12  Lane           J                13    Ky                pg0028a.txt
+28B   8   Lane           J H              53    Ten               pg0028a.txt
+18A   26  Lane           James            26    Ky                pg0010a.txt
+28B   15  Lane           L F              4     Ky                pg0028a.txt
+36A   21  Lane           Mary             43    Ky                pg0028a.txt
+28B   9   Lane           N                50    SC                pg0028a.txt
+28B   10  Lane           S                21    Ky                pg0028a.txt
+28B   11  Lane           S                13    Ky                pg0028a.txt
+18A   28  Lane           S                10/12 Ky                pg0010a.txt
+20A   34  Lanier         B C              24    Ky                pg0019a.txt
+20B   3   Lanier         C F              46    Ky                pg0019a.txt
+20A   41  Lanier         Coleman A        49    Ky                pg0019a.txt
+20A   36  Lanier         E                19    Ky                pg0019a.txt
+20A   39  Lanier         E L              11    Ky                pg0019a.txt
+20A   35  Lanier         F                22    Ky                pg0019a.txt
+20A   32  Lanier         John B           53    Va                pg0019a.txt
+20B   1   Lanier         M G              18    Ky                pg0019a.txt
+20A   38  Lanier         N J              13    Ky                pg0019a.txt
+20B   2   Lanier         O M              14    Ky                pg0019a.txt
+20A   40  Lanier         R V              5     Ky                pg0019a.txt
+20A   33  Lanier         S                50    Va                pg0019a.txt
+20A   37  Lanier         T J              18    Ky                pg0019a.txt
+20A   42  Lanier         V                20    Ky                pg0019a.txt
+10A   33  Lany           A                13    Ky                pg0010a.txt
+8A    11  Lany           Cuthbert         69    Pa                pg0001a.txt
+10A   28  Lany           D S              43    SC                pg0010a.txt
+10A   32  Lany           E J              16    Ky                pg0010a.txt
+25A   37  Lany           E S              2     Ky                pg0019a.txt
+10A   34  Lany           F                9     Ky                pg0010a.txt
+8A    12  Lany           H                55    NC                pg0001a.txt
+25A   38  Lany           H C              30    Ky                pg0019a.txt
+8A    15  Lany           H E              21    Ky                pg0001a.txt
+43B   6   Lany           Isaac            35    Ky                pg0037a.txt
+8A    16  Lany           J W              18    Ky                pg0001a.txt
+25A   32  Lany           James            34    Ky                pg0019a.txt
+25A   34  Lany           L A              14    Ky                pg0019a.txt
+43B   9   Lany           Levi             5     Ky                pg0037a.txt
+25B   22  Lany           Lewis            30    Ky                pg0019a.txt
+10A   35  Lany           M                8     Ky                pg0010a.txt
+25A   36  Lany           M                3     Ky                pg0019a.txt
+21B   30  Lany           M                22    Ky                pg0019a.txt
+10A   31  Lany           M                18    Ky                pg0010a.txt
+25B   24  Lany           M                12    Ky                pg0019a.txt
+25A   35  Lany           M E              8     Ill               pg0019a.txt
+10A   37  Lany           M S              4     Ky                pg0010a.txt
+25B   23  Lany           N                30    Ky                pg0019a.txt
+10A   39  Lany           N J              35    Ky                pg0010a.txt
+8A    17  Lany           N J              16    Ky                pg0001a.txt
+25A   39  Lany           P J              28    Ky                pg0019a.txt
+10A   36  Lany           S                5     Ky                pg0010a.txt
+10A   29  Lany           S                43    Ky                pg0010a.txt
+43B   7   Lany           S                26    Ky                pg0037a.txt
+25A   33  Lany           S M              35    Ky                pg0019a.txt
+8A    14  Lany           Sally A          27    Ky                pg0001a.txt
+25B   25  Lany           T                9     Ky                pg0019a.txt
+8A    13  Lany           T F              25    Ky                pg0001a.txt
+10A   30  Lany           Wm               21    Ky                pg0010a.txt
+43B   8   Lany           Wm               11    Ky                pg0037a.txt
+69A   3   Larue          Mary E           5/12  Ky                pg0064a.txt
+10A   19  Lawler         A A              22    Ky                pg0010a.txt
+60B   30  Lawler         A E              20    Ky                pg0055a.txt
+60A   31  Lawler         E C              6     Ky                pg0055a.txt
+60B   33  Lawler         H C              10    Ky                pg0055a.txt
+60A   28  Lawler         James W          28    Ky                pg0055a.txt
+60B   27  Lawler         M                50    Ky                pg0055a.txt
+60B   31  Lawler         M E              14    Ky                pg0055a.txt
+60B   29  Lawler         N V              22    Ky                pg0055a.txt
+10A   18  Lawler         S                27    Ky                pg0010a.txt
+60A   29  Lawler         S A              26    Ky                pg0055a.txt
+60B   28  Lawler         S F              26    Ky                pg0055a.txt
+60A   32  Lawler         S F              1     Ky                pg0055a.txt
+60B   26  Lawler         Saml             57    Ky                pg0055a.txt
+60A   30  Lawler         Wm F             8     Ky                pg0055a.txt
+60B   32  Lawler         Wm H             12    Ky                pg0055a.txt
+22B   26  Lea            J M              23    Ten               pg0019a.txt
+22B   27  Lea            L                25    Ten               pg0019a.txt
+22B   28  Lea            M B              5     Ten               pg0019a.txt
+22B   29  Lea            S H              4     Ten               pg0019a.txt
+22B   30  Lea            W P              1     Ten               pg0019a.txt
+55B   32  Leak           Chapman          18    Ten               pg0055a.txt
+55B   31  Leak           E                23    Ten               pg0055a.txt
+35A   24  Leak           E G              2     Ky                pg0028a.txt
+35A   23  Leak           E H              4     Ky                pg0028a.txt
+35A   21  Leak           G E              10    Ky                pg0028a.txt
+35A   22  Leak           J M              8     Ky                pg0028a.txt
+35A   19  Leak           James            32    Ten               pg0028a.txt
+35A   26  Leak           Mary             66    NC                pg0028a.txt
+35A   20  Leak           S A              27    Ky                pg0028a.txt
+35A   25  Leak           S M              2/12  Ky                pg0028a.txt
+55B   35  Leak           T                6     Ky                pg0055a.txt
+12B   15  Lester         E                45    Va                pg0010a.txt
+12B   16  Lester         Elivia           23    Va                pg0010a.txt
+12B   17  Lester         M S              16    Ten               pg0010a.txt
+39A   4   Lewis          A                12    Ky                pg0037a.txt
+11A   14  Lewis          A                1/12  Ky                pg0010a.txt
+32B   12  Lewis          B L              1     Ky                pg0028a.txt
+27B   38  Lewis          C                12    Ky                pg0019a.txt
+36B   28  Lewis          Catharine        80    NC                pg0028a.txt
+11A   16  Lewis          Charles          30    Ky                pg0010a.txt
+6A    34  Lewis          D H              7     Ky                pg0001a.txt
+6A    33  Lewis          E                28    Ky                pg0001a.txt
+32B   10  Lewis          E                26    Ky                pg0028a.txt
+27B   37  Lewis          E                13    Ky                pg0019a.txt
+36B   27  Lewis          E                1     Ky                pg0028a.txt
+11A   13  Lewis          E D              2     Ky                pg0010a.txt
+6A    35  Lewis          E T              6     Ky                pg0001a.txt
+28A   3   Lewis          G                1     Ky                pg0028a.txt
+32B   11  Lewis          G A              2     Ky                pg0028a.txt
+36A   25  Lewis          Isaih            24    Ky                pg0028a.txt
+11A   10  Lewis          J B              31    Ten               pg0010a.txt
+28A   2   Lewis          J T              2     Ky                pg0028a.txt
+6A    32  Lewis          J W              30    Ky                pg0001a.txt
+27B   41  Lewis          Joab             28    Ky                pg0019a.txt
+36B   24  Lewis          John W           26    Ky                pg0028a.txt
+6A    36  Lewis          L                4     Ky                pg0001a.txt
+27B   36  Lewis          L                16    Ky                pg0019a.txt
+36B   26  Lewis          L J              4     Ky                pg0028a.txt
+27B   31  Lewis          Leonard          50    SC                pg0019a.txt
+27B   40  Lewis          M                6     Ky                pg0019a.txt
+27B   33  Lewis          M                22    Ky                pg0019a.txt
+11A   11  Lewis          M E              27    Ten               pg0010a.txt
+11A   17  Lewis          M E              26    Ten               pg0010a.txt
+27B   39  Lewis          N                9     Ky                pg0019a.txt
+27B   34  Lewis          N                20    Ky                pg0019a.txt
+27B   32  Lewis          S                48    Ten               pg0019a.txt
+36B   25  Lewis          S                25    Ten               pg0028a.txt
+27B   42  Lewis          S                23    Ten               pg0019a.txt
+36A   26  Lewis          S                23    Ten               pg0028a.txt
+27B   35  Lewis          S                18    Ky                pg0019a.txt
+28A   1   Lewis          S E              4     Ky                pg0028a.txt
+32B   9   Lewis          Sandford         28    Ky                pg0028a.txt
+6A    37  Lewis          V L              5/12  Ky                pg0001a.txt
+11A   12  Lewis          V L              3     Ky                pg0010a.txt
+46A   4   Lewis          Wm               36    Ky                pg0046a.txt
+42A   20  Lightfoot      A J              17    Ky                pg0037a.txt
+42A   39  Lightfoot      B                48    SC                pg0037a.txt
+42B   4   Lightfoot      B D              8     Ky                pg0037a.txt
+42B   13  Lightfoot      D N              4     Ky                pg0037a.txt
+42A   13  Lightfoot      David L          25    Ky                pg0037a.txt
+42A   24  Lightfoot      E                9     Ky                pg0037a.txt
+42A   28  Lightfoot      E                23    Ky                pg0037a.txt
+42A   19  Lightfoot      E J              19    Ky                pg0037a.txt
+42B   1   Lightfoot      H B              14    Ky                pg0037a.txt
+42B   12  Lightfoot      H J              7     Ky                pg0037a.txt
+42A   16  Lightfoot      H M              1/12  Ky                pg0037a.txt
+42A   38  Lightfoot      Henry            58    Va                pg0037a.txt
+42A   27  Lightfoot      Henry H          21    Ky                pg0037a.txt
+42B   3   Lightfoot      J                10    Ky                pg0037a.txt
+42A   23  Lightfoot      J H              11    Ky                pg0037a.txt
+42B   14  Lightfoot      J S T            2     Ky                pg0037a.txt
+42A   15  Lightfoot      J W              4     Ky                pg0037a.txt
+38A   19  Lightfoot      Jackson          22    Ky                pg0037a.txt
+42B   10  Lightfoot      John             30    Ky                pg0037a.txt
+42B   11  Lightfoot      K                27    Ky                pg0037a.txt
+42A   40  Lightfoot      M                20    Ky                pg0037a.txt
+42A   41  Lightfoot      M                18    Ky                pg0037a.txt
+42A   42  Lightfoot      M                16    Ky                pg0037a.txt
+42A   26  Lightfoot      M A              8/12  Ky                pg0037a.txt
+38A   20  Lightfoot      N                18    Ky                pg0037a.txt
+42A   22  Lightfoot      N                13    Ky                pg0037a.txt
+42A   25  Lightfoot      R                7     Ky                pg0037a.txt
+42B   2   Lightfoot      R                12    Ky                pg0037a.txt
+42A   17  Lightfoot      Robt D           44    Ten               pg0037a.txt
+42A   18  Lightfoot      S                43    Ten               pg0037a.txt
+42A   14  Lightfoot      S                23    Ky                pg0037a.txt
+42A   29  Lightfoot      S A T            1     Ky                pg0037a.txt
+42A   21  Lightfoot      Wm               15    Ky                pg0037a.txt
+33B   32  Lillard        D                5     Ky                pg0028a.txt
+33B   33  Lillard        J M              1     Ky                pg0028a.txt
+33B   28  Lillard        Jas M            40    Ky                pg0028a.txt
+33B   29  Lillard        M V              32    Ky                pg0028a.txt
+33B   30  Lillard        N T              13    Ky                pg0028a.txt
+33B   31  Lillard        V                8     Ky                pg0028a.txt
+50A   11  Lockhart       E                17    Ky                pg0046a.txt
+50A   10  Lockhart       J                20    Ky                pg0046a.txt
+50A   12  Lockhart       John             24    Ky                pg0046a.txt
+50A   13  Lockhart       L                16    Ky                pg0046a.txt
+50A   8   Lockhart       N                56    Va                pg0046a.txt
+50A   7   Lockhart       Thos             48    GA                pg0046a.txt
+50A   14  Lockhart       V                2     Ky                pg0046a.txt
+50A   9   Lockhart       Wm               26    Ky                pg0046a.txt
+34B   7   Logan          C Q              17    Ky                pg0028a.txt
+15A   37  Logan          D A              6     Ky                pg0010a.txt
+15A   38  Logan          E                3     Ky                pg0010a.txt
+15A   35  Logan          E                23    Ky                pg0010a.txt
+34B   9   Logan          E A              14    Ky                pg0028a.txt
+34B   8   Logan          G B              15    Ky                pg0028a.txt
+34B   5   Logan          I E              20    Ky                pg0028a.txt
+34B   12  Logan          J A              5     Ky                pg0028a.txt
+34B   11  Logan          J Y              11    Ky                pg0028a.txt
+34B   10  Logan          L A              13    Ky                pg0028a.txt
+34B   13  Logan          L J              3/12  Ky                pg0028a.txt
+3A    13  Logan          M                60    Unknown           pg0001a.txt
+15A   36  Logan          M                24    Va                pg0010a.txt
+34B   4   Logan          R F              21    Ky                pg0028a.txt
+34B   6   Logan          S                18    Ky                pg0028a.txt
+34B   3   Logan          S G              38    Ky                pg0028a.txt
+3A    15  Logan          Saml             48    Ky                pg0001a.txt
+15A   39  Logan          T J              1/12  Ky                pg0010a.txt
+3A    12  Logan          Thos H           38    Ky                pg0001a.txt
+34B   2   Logan          Young            43    Ky                pg0028a.txt
+67A   10  Long           Daniel W         19    Ten               pg0064a.txt
+67B   38  Long           John M           12    Ten               pg0064a.txt
+67B   35  Long           Nancy            39    NC                pg0064a.txt
+67B   37  Long           Syrena           13    Ten               pg0064a.txt
+67B   36  Long           Wm H             20    Ten               pg0064a.txt
+52A   20  Lovejoy        M E              22    OH                pg0046a.txt
+68B   34  Lovejoy        Mary E           19    OH                pg0064a.txt
+43B   42  Lovel          A A              10    Ky                pg0037a.txt
+44A   3   Lovel          E E              3     Ky                pg0037a.txt
+44A   1   Lovel          H F              9     Ky                pg0037a.txt
+44A   7   Lovel          J A              7     Ky                pg0037a.txt
+43B   41  Lovel          J R              12    Ky                pg0037a.txt
+44A   6   Lovel          J W              10    Ky                pg0037a.txt
+43B   39  Lovel          M                37    Ky                pg0037a.txt
+44A   4   Lovel          M L              2     Ky                pg0037a.txt
+44A   5   Lovel          Mahala           30    Ky                pg0037a.txt
+43B   38  Lovel          Nelson           40    Ky                pg0037a.txt
+44A   8   Lovel          P                71    Ma                pg0037a.txt
+43B   40  Lovel          S A              15    Ky                pg0037a.txt
+44A   2   Lovel          Wm T             6     Ky                pg0037a.txt
+23B   18  Lovelady       A K              17    Ten               pg0019a.txt
+22A   34  Lovelady       C                7     Ill               pg0019a.txt
+23B   15  Lovelady       E                36    Ten               pg0019a.txt
+23B   14  Lovelady       James M          46    Ten               pg0019a.txt
+23B   21  Lovelady       L J              7     Ten               pg0019a.txt
+22A   35  Lovelady       M                5     Ten               pg0019a.txt
+22A   30  Lovelady       M                33    Unknown           pg0019a.txt
+22A   32  Lovelady       R J              12    Ten               pg0019a.txt
+22A   31  Lovelady       S A              14    Ten               pg0019a.txt
+23B   20  Lovelady       S A              10    Ten               pg0019a.txt
+23B   17  Lovelady       S D              18    Ten               pg0019a.txt
+23B   19  Lovelady       T                12    Ten               pg0019a.txt
+23B   16  Lovelady       W P              20    Ten               pg0019a.txt
+22A   33  Lovelady       Z                9     Ill               pg0019a.txt
+22B   6   Lovelady       Z                10    Ill               pg0019a.txt
+14B   41  Low            J F              64    SC                pg0010a.txt
+14B   42  Low            M A              64    SC                pg0010a.txt
+38B   14  Luster         M J              22    Ky                pg0037a.txt
+38B   15  Luster         N J              1     Ky                pg0037a.txt
+38B   13  Luster         Saml F           32    Al                pg0037a.txt
+5B    18  Lynch          J                41    SC                pg0001a.txt
+13B   13  Lynch          J M              35    SC                pg0010a.txt
+35A   1   Lynch          Levi             14    Ky                pg0028a.txt
+34B   36  Lynch          M E              21    Ky                pg0028a.txt
+34B   37  Lynch          M H              2     Ten               pg0028a.txt
+5B    19  Lynch          N                43    Ky                pg0001a.txt
+5B    20  Lynch          N                14    Ky                pg0001a.txt
+13B   14  Lynch          S A              27    NC                pg0010a.txt
+5B    21  Lynch          T J              11    Ky                pg0001a.txt
+34B   42  Lynch          V                56    SC                pg0028a.txt
+34B   38  Lynch          V V              1     Ky                pg0028a.txt
+5B    22  Lynch          Wm               9     Ky                pg0001a.txt
+34B   41  Lynch          Wm               64    Va                pg0028a.txt
+34B   35  Lynch          Wm W             28    Ky                pg0028a.txt
+11A   15  Machen         R                50    Va                pg0010a.txt
+24B   9   Mahin          E                13    Ky                pg0019a.txt
+24B   5   Mahin          J                20    Ky                pg0019a.txt
+24B   6   Mahin          M                16    Ky                pg0019a.txt
+24B   7   Mahin          N                15    Ky                pg0019a.txt
+24B   4   Mahin          N D              47    Va                pg0019a.txt
+24B   10  Mahin          P                7     Ky                pg0019a.txt
+24B   8   Mahin          R                10    Ky                pg0019a.txt
+24B   11  Mahin          T                3     Ky                pg0019a.txt
+24B   3   Mahin          T S              53    Ky                pg0019a.txt
+11B   15  Majors         John             51    Ky                pg0010a.txt
+11B   16  Majors         K                81    Va                pg0010a.txt
+50B   37  Mallory        A E              22    Ky                pg0046a.txt
+48B   9   Mallory        B R              42    Va                pg0046a.txt
+57A   13  Mallory        C                70    Va                pg0055a.txt
+57A   2   Mallory        E                25    Ky                pg0055a.txt
+28A   41  Mallory        E                10    Ky                pg0028a.txt
+23B   40  Mallory        E A              24    Ky                pg0019a.txt
+57A   5   Mallory        E E              2/12  Ky                pg0055a.txt
+57A   9   Mallory        Felix            27    Ky                pg0055a.txt
+57A   11  Mallory        J D              9/12  Ky                pg0055a.txt
+59A   19  Mallory        J V              1     Ky                pg0055a.txt
+59A   16  Mallory        J W              4     Ky                pg0055a.txt
+57A   1   Mallory        James C          34    Ky                pg0055a.txt
+23B   42  Mallory        L A E            3     Ky                pg0019a.txt
+57A   14  Mallory        M                40    Va                pg0055a.txt
+59A   13  Mallory        M                35    Ky                pg0055a.txt
+28A   40  Mallory        M                14    Ky                pg0028a.txt
+59A   14  Mallory        M A              14    Ky                pg0055a.txt
+57A   10  Mallory        M E              21    Ten               pg0055a.txt
+59A   15  Mallory        M J              12    Ky                pg0055a.txt
+57A   4   Mallory        M S              2     Ky                pg0055a.txt
+25A   5   Mallory        N C              1     Ky                pg0019a.txt
+48B   19  Mallory        N E              1     Ky                pg0046a.txt
+23B   39  Mallory        N H              29    Ky                pg0019a.txt
+23B   41  Mallory        O R              5     Ky                pg0019a.txt
+28A   38  Mallory        O W              38    Va                pg0028a.txt
+59A   18  Mallory        O W              2     Ky                pg0055a.txt
+48B   8   Mallory        Polly            68    Va                pg0046a.txt
+28A   39  Mallory        S                31    Va                pg0028a.txt
+24A   2   Mallory        S A              7/12  Ky                pg0019a.txt
+25A   3   Mallory        S A              22    Ky                pg0019a.txt
+48B   17  Mallory        S A              20    Ky                pg0046a.txt
+50B   38  Mallory        S A              2     Ky                pg0046a.txt
+59A   17  Mallory        S C              2     Ky                pg0055a.txt
+28B   1   Mallory        S F              6     Ky                pg0028a.txt
+24A   1   Mallory        S K              2     Ky                pg0019a.txt
+59A   12  Mallory        Saml K           46    Va                pg0055a.txt
+28A   42  Mallory        W                8     Ky                pg0028a.txt
+25A   4   Mallory        W                2     Ky                pg0019a.txt
+57A   12  Mallory        Wm               71    Va                pg0055a.txt
+48B   18  Mallory        Wm               3     Ky                pg0046a.txt
+48B   16  Mallory        Wm               26    Ky                pg0046a.txt
+57A   3   Mallory        Wm H             6     Ky                pg0055a.txt
+25A   2   Mallory        Wm L             29    Ky                pg0019a.txt
+45B   30  Malone         Wm H             23    Ma                pg0037a.txt
+2B    4   Martin         A E              19    Ky                pg0001a.txt
+41A   20  Martin         B A              37    Ky                pg0037a.txt
+41A   26  Martin         E W              3     Ky                pg0037a.txt
+41A   19  Martin         Enoch            44    Va                pg0037a.txt
+41A   23  Martin         G F              10    Ky                pg0037a.txt
+2B    5   Martin         J                30    Ten               pg0001a.txt
+41A   22  Martin         J D              14    Ky                pg0037a.txt
+41A   27  Martin         J W              7/12  Ky                pg0037a.txt
+2B    6   Martin         M                19    Ky                pg0001a.txt
+2B    9   Martin         M                11    Ky                pg0001a.txt
+2B    8   Martin         M C              13    Ky                pg0001a.txt
+41A   24  Martin         N M              7     Ky                pg0037a.txt
+2B    3   Martin         P                21    Ky                pg0001a.txt
+41A   21  Martin         R J              17    Ky                pg0037a.txt
+2B    1   Martin         Robert           58    Va                pg0001a.txt
+2B    2   Martin         S                52    Ky                pg0001a.txt
+41A   25  Martin         S A              5     Ky                pg0037a.txt
+2B    10  Martin         V F              9     Ky                pg0001a.txt
+2B    7   Martin         Wm               24    Ky                pg0001a.txt
+22A   29  Maryman        Mary             55    NC                pg0019a.txt
+1B    6   Massie         E                24    Ky                pg0001a.txt
+1B    8   Massie         J                19    Ky                pg0001a.txt
+1B    9   Massie         M                16    Ky                pg0001a.txt
+1B    11  Massie         M M              10    Ky                pg0001a.txt
+1B    5   Massie         N                48    NC                pg0001a.txt
+1B    7   Massie         N                21    Ill               pg0001a.txt
+1B    4   Massie         S                48    Va                pg0001a.txt
+1B    13  Massie         S                12    Ky                pg0001a.txt
+1B    14  Massie         T                7     Ky                pg0001a.txt
+1B    10  Massie         Wm               13    Ky                pg0001a.txt
+66A   28  Matherly       Calvin           8     Ten               pg0064a.txt
+66A   24  Matherly       Caroline         11    Ten               pg0064a.txt
+66A   20  Matherly       Fleming W        41    Va                pg0064a.txt
+66A   22  Matherly       James H          17    Ten               pg0064a.txt
+66A   25  Matherly       Masouri          5     Ten               pg0064a.txt
+66A   26  Matherly       Monroe           2     Ten               pg0064a.txt
+66A   23  Matherly       Neoma            14    Ten               pg0064a.txt
+66A   21  Matherly       Syntha           35    Ten               pg0064a.txt
+20B   4   Matlock        Wm F             23    Ky                pg0019a.txt
+20B   5   Matlock        Z                22    Ky                pg0019a.txt
+48A   23  May            A                61    Va                pg0046a.txt
+33A   30  May            D                20    Ten               pg0028a.txt
+33A   13  May            E                57    NC                pg0028a.txt
+31B   15  May            E                36    Ky                pg0028a.txt
+31B   20  May            E                33    Ky                pg0028a.txt
+33A   16  May            E A              26    Ky                pg0028a.txt
+33A   19  May            G W              15    Ky                pg0028a.txt
+20B   33  May            H                33    Va                pg0019a.txt
+4B    38  May            H                3     Ky                pg0001a.txt
+31B   32  May            H                3     Ky                pg0028a.txt
+31B   19  May            J                42    Ky                pg0028a.txt
+20B   34  May            J                33    Ky                pg0019a.txt
+31B   16  May            J                18    Ky                pg0028a.txt
+31B   17  May            J                16    Ky                pg0028a.txt
+33A   18  May            J                15    Ky                pg0028a.txt
+33A   15  May            J A              28    Ky                pg0028a.txt
+4B    37  May            J C              7     Ky                pg0001a.txt
+31B   31  May            J C              7     Ky                pg0028a.txt
+31B   23  May            J C              6     Ky                pg0028a.txt
+31B   22  May            J E              8     Ky                pg0028a.txt
+48A   22  May            James            64    Va                pg0046a.txt
+33A   12  May            John             63    Va                pg0028a.txt
+20B   35  May            K                8     Ky                pg0019a.txt
+31B   13  May            Lemuel           66    Va                pg0028a.txt
+33A   14  May            M                39    Ky                pg0028a.txt
+31B   30  May            M                24    Ky                pg0028a.txt
+4B    36  May            M                22    Ky                pg0001a.txt
+31B   33  May            N D              1/12  Ky                pg0028a.txt
+4B    39  May            not named        1/12  Ky                pg0001a.txt
+31B   14  May            P                56    NC                pg0028a.txt
+54A   36  May            P                50    Va                pg0046a.txt
+33A   17  May            P A              21    Ky                pg0028a.txt
+33A   29  May            Pleasant F       17    Ten               pg0028a.txt
+31B   18  May            V C              14    Ky                pg0028a.txt
+4B    35  May            Wm               32    Ky                pg0001a.txt
+31B   29  May            Wm               32    Ky                pg0028a.txt
+31B   21  May            Wm F             21    Ky                pg0028a.txt
+39A   5   Mayhew         A T              23    Ky                pg0037a.txt
+6A    9   Mayhew         A T              14    Ky                pg0001a.txt
+6A    4   Mayhew         J J              21    Ky                pg0001a.txt
+6A    10  Mayhew         L L              12    Ky                pg0001a.txt
+6A    11  Mayhew         L P              9     Ky                pg0001a.txt
+43A   10  Mayhew         M                46    SC                pg0037a.txt
+39A   6   Mayhew         M A              22    Ten               pg0037a.txt
+6A    5   Mayhew         M A              19    Ky                pg0001a.txt
+6A    8   Mayhew         M A              15    Ky                pg0001a.txt
+6A    7   Mayhew         M H              16    Ky                pg0001a.txt
+43A   12  Mayhew         N A              22    Ky                pg0037a.txt
+43A   13  Mayhew         S M              15    Ky                pg0037a.txt
+6A    3   Mayhew         Wm               49    Va                pg0001a.txt
+43A   11  Mayhew         Wm C             18    Ky                pg0037a.txt
+43A   14  Mayhew         Wm T             13    Ky                pg0037a.txt
+6A    6   Mayhew         Wm W             18    Ky                pg0001a.txt
+43A   9   Mayhew         Z                46    Va                pg0037a.txt
+36B   5   Mays           A E              8     Ky                pg0028a.txt
+36B   3   Mays           B P              13    Ten               pg0028a.txt
+36B   10  Mays           C R              4/12  Ky                pg0028a.txt
+36B   9   Mays           D                2     Ten               pg0028a.txt
+36B   6   Mays           D C              6     Ky                pg0028a.txt
+13B   29  Mays           David            24    Ten               pg0010a.txt
+13A   6   Mays           E                9     Ky                pg0010a.txt
+12B   42  Mays           E                45    NC                pg0010a.txt
+13A   7   Mays           G M D            5     Ky                pg0010a.txt
+36B   7   Mays           H C              5     Ten               pg0028a.txt
+13B   30  Mays           J                19    Ten               pg0010a.txt
+13A   5   Mays           J W              12    Ky                pg0010a.txt
+35B   36  Mays           James            47    Ten               pg0028a.txt
+36B   1   Mays           Joel C           34    Ky                pg0028a.txt
+35B   40  Mays           John             11    Ten               pg0028a.txt
+35B   37  Mays           L                33    Ten               pg0028a.txt
+35B   41  Mays           M                8     Ten               pg0028a.txt
+13A   3   Mays           M                18    Ky                pg0010a.txt
+36B   2   Mays           M A              32    Ky                pg0028a.txt
+32A   34  Mays           M J              18    NC                pg0028a.txt
+13A   9   Mays           Moses            5     Ky                pg0010a.txt
+12B   41  Mays           O                52    Va                pg0010a.txt
+36B   8   Mays           P                3     Ten               pg0028a.txt
+35B   38  Mays           R                20    Ten               pg0028a.txt
+13A   1   Mays           R A              21    Ky                pg0010a.txt
+13A   8   Mays           R H              2     Ky                pg0010a.txt
+13A   4   Mays           S                14    Ky                pg0010a.txt
+13A   2   Mays           Wm J             20    Ky                pg0010a.txt
+36B   4   Mays           Wm S             11    Ky                pg0028a.txt
+67A   15  McAdams        Alford           40    Ten               pg0064a.txt
+67A   16  McAdams        Rachel           32    Ten               pg0064a.txt
+69B   11  McCartney      James            23    Ky                pg0064a.txt
+15A   22  McClanahan     A                26    Ky                pg0010a.txt
+15B   39  McClanahan     C                4     Ky                pg0010a.txt
+15B   35  McClanahan     E D              30    Ky                pg0010a.txt
+65A   8   McClanahan     Grizella         52    Ky                pg0064a.txt
+55A   31  McClanahan     H                21    NC                pg0055a.txt
+15A   23  McClanahan     J                21    Ky                pg0010a.txt
+15A   25  McClanahan     J                14    Ky                pg0010a.txt
+15A   26  McClanahan     J W              20    Ky                pg0010a.txt
+55A   30  McClanahan     Jas              21    Ten               pg0055a.txt
+55A   29  McClanahan     M                35    NC                pg0055a.txt
+15B   40  McClanahan     M                1     Ky                pg0010a.txt
+66B   32  McClanahan     Mary             30    Ten               pg0064a.txt
+66B   33  McClanahan     Mary             2     Ten               pg0064a.txt
+66B   37  McClanahan     Nancy D          3/12  Ky                pg0064a.txt
+15B   37  McClanahan     P A              9     Ky                pg0010a.txt
+66B   36  McClanahan     Patrick          3     Ky                pg0064a.txt
+55A   28  McClanahan     Peter            45    Va                pg0055a.txt
+15B   36  McClanahan     S                25    Ky                pg0010a.txt
+15A   24  McClanahan     T                63    Va                pg0010a.txt
+66B   34  McClanahan     Tabitha          22    Ky                pg0064a.txt
+66B   31  McClanahan     Thos             29    Ky                pg0064a.txt
+15B   38  McClanahan     W H              7     Ky                pg0010a.txt
+66B   35  McClanahan     William          4     Ky                pg0064a.txt
+57A   34  McCloud        E                11    Ky                pg0055a.txt
+11A   28  McCreary       C                6     Ten               pg0010a.txt
+38A   6   McCreary       J                48    Va                pg0037a.txt
+11A   29  McCreary       J                4     Ky                pg0010a.txt
+27B   3   McCreary       J                27    Ten               pg0019a.txt
+11A   27  McCreary       J B              10    Ten               pg0010a.txt
+11A   26  McCreary       J C              44    Ten               pg0010a.txt
+38A   7   McCreary       J H              55    Va                pg0037a.txt
+27B   2   McCreary       James R          22    Va                pg0019a.txt
+27B   4   McCreary       N H              3     Ky                pg0019a.txt
+11A   30  McCreary       S                1     Ky                pg0010a.txt
+27B   5   McCreary       S E              2     Ky                pg0019a.txt
+15A   41  McCullock      E                40    Va                pg0010a.txt
+15A   40  McCullock      G                45    Va                pg0010a.txt
+15A   42  McCullock      J                25    Va                pg0010a.txt
+58A   3   McCutchen      J A              34    Ky                pg0055a.txt
+51A   5   McCutchen      J E              20    Ky                pg0046a.txt
+51A   4   McCutchen      James C          29    Ky                pg0046a.txt
+58A   2   McCutchen      John N           42    Ky                pg0055a.txt
+58A   5   McCutchen      L J              2     Ky                pg0055a.txt
+51A   6   McCutchen      M J              1     Ky                pg0046a.txt
+51A   7   McCutchen      Martha           65    NC                pg0046a.txt
+58A   4   McCutchen      S E              4     Ky                pg0055a.txt
+28A   9   McDale         Andy             22    Ten               pg0028a.txt
+28A   10  McDale         L M              16    Ten               pg0028a.txt
+48A   42  McDaniel       E L              7/12  Ky                pg0046a.txt
+48A   40  McDaniel       M                23    NY                pg0046a.txt
+48A   41  McDaniel       M J              3     Mo                pg0046a.txt
+48A   39  McDaniel       Mathew           25    NY                pg0046a.txt
+40B   25  McDinning      M M              10    Ky                pg0037a.txt
+12B   14  McDowel        Henry            24    Ky                pg0010a.txt
+1A    19  McDowell       F                40    Ky                pg0001a.txt
+1A    25  McDowell       F W              4     Ky                pg0001a.txt
+1A    24  McDowell       H                6     Ky                pg0001a.txt
+1A    18  McDowell       John             61    NC                pg0001a.txt
+1A    23  McDowell       L A              9     Ky                pg0001a.txt
+1A    22  McDowell       M F              12    Ky                pg0001a.txt
+1A    26  McDowell       M J              2/12  Ky                pg0001a.txt
+1A    20  McDowell       N                21    Ky                pg0001a.txt
+1A    21  McDowell       Wm               14    Ky                pg0001a.txt
+56B   2   McEllwain      E J              10    Ky                pg0055a.txt
+56B   3   McEllwain      E V              8     Ky                pg0055a.txt
+56A   42  McEllwain      F M              16    Ky                pg0055a.txt
+56A   40  McEllwain      J H              22    Ky                pg0055a.txt
+56A   38  McEllwain      John S           58    Md                pg0055a.txt
+56A   39  McEllwain      N A              53    NC                pg0055a.txt
+56B   1   McEllwain      N A              12    Ky                pg0055a.txt
+56A   41  McEllwain      Wm A             21    Ky                pg0055a.txt
+54A   30  McElvain       Alex             25    Ky                pg0046a.txt
+54A   31  McElvain       M                20    Ky                pg0046a.txt
+54A   32  McElvain       R                6/12  Ky                pg0046a.txt
+16A   28  McElwain       I M              21    Ky                pg0010a.txt
+9A    31  McElwain       James            24    Ky                pg0001a.txt
+16A   27  McElwain       S                30    Ky                pg0010a.txt
+16A   29  McElwain       S H              33    Ky                pg0010a.txt
+16A   31  McElwain       S J              8/12  Ky                pg0010a.txt
+16A   30  McElwain       Wm G             2     Ky                pg0010a.txt
+54A   9   McFaddin       A                7     Ky                pg0046a.txt
+49B   15  McFaddin       A V              21    Ky                pg0046a.txt
+54A   6   McFaddin       E                45    Ky                pg0046a.txt
+54A   7   McFaddin       E                14    Ky                pg0046a.txt
+49B   14  McFaddin       Finias           29    Ky                pg0046a.txt
+49B   16  McFaddin       J T              21    Ky                pg0046a.txt
+54A   5   McFaddin       Wade H           52    Ky                pg0046a.txt
+54A   8   McFaddin       Wm               11    Ky                pg0046a.txt
+8B    22  McFail         A C              22    Ky                pg0001a.txt
+51A   33  McFail         A C              22    Ky                pg0046a.txt
+49B   39  McFail         David            24    Ky                pg0046a.txt
+49B   8   McFail         E                27    Ky                pg0046a.txt
+51A   31  McFail         Judith           52    Ky                pg0046a.txt
+51A   32  McFail         M A              26    Ky                pg0046a.txt
+49B   9   McFail         M J              1/12  Ky                pg0046a.txt
+51A   34  McFail         N C              19    Ky                pg0046a.txt
+51A   35  McFail         N C              18    Ky                pg0046a.txt
+49B   7   McFail         P                26    Ky                pg0046a.txt
+51A   36  McFail         R C              16    Ky                pg0046a.txt
+66B   23  McFarland      Martha           17    Ten               pg0064a.txt
+60B   25  McFarland      Wm G             19    Ky                pg0055a.txt
+18A   13  McGoodwin      E J              14    Ky                pg0010a.txt
+18A   12  McGoodwin      H A              17    Ky                pg0010a.txt
+18A   11  McGoodwin      J L              20    Ky                pg0010a.txt
+18A   14  McGoodwin      M E              11    Ky                pg0010a.txt
+18A   10  McGoodwin      M J              39    Ky                pg0010a.txt
+18A   15  McGoodwin      V                4     Ky                pg0010a.txt
+18A   9   McGoodwin      Wm H             44    Ky                pg0010a.txt
+2B    22  McGuire        D B              20    Ky                pg0001a.txt
+11B   36  McGuire        E                60    Ten               pg0010a.txt
+2B    33  McGuire        E                3     Ky                pg0001a.txt
+11B   39  McGuire        E V              18    Ky                pg0010a.txt
+11B   41  McGuire        F                25    Ky                pg0010a.txt
+15A   1   McGuire        J                21    Ky                pg0010a.txt
+2B    31  McGuire        J W              7     Ky                pg0001a.txt
+68A   14  McGuire        James            24    Ky                pg0064a.txt
+62A   34  McGuire        John             29    Ky                pg0055a.txt
+2B    42  McGuire        L                40    Ky                pg0001a.txt
+2B    39  McGuire        L G              18    Ky                pg0001a.txt
+3A    1   McGuire        M                20    Ky                pg0001a.txt
+15A   2   McGuire        M                19    Ten               pg0010a.txt
+68A   16  McGuire        Mary J           3     Ky                pg0064a.txt
+68A   15  McGuire        Melvina E        22    Ten               pg0064a.txt
+2B    41  McGuire        N                13    Ky                pg0001a.txt
+63B   36  McGuire        Nancy J          18    Ky                pg0055a.txt
+62A   35  McGuire        R                23    Ky                pg0055a.txt
+2B    37  McGuire        S                53    NC                pg0001a.txt
+2B    32  McGuire        S                4     Ky                pg0001a.txt
+11B   38  McGuire        S                21    Ky                pg0010a.txt
+62A   36  McGuire        S E              4     Ky                pg0055a.txt
+2B    30  McGuire        T                29    Ten               pg0001a.txt
+11B   37  McGuire        T                23    Ky                pg0010a.txt
+62A   37  McGuire        T M              3     Ky                pg0055a.txt
+2B    40  McGuire        T W              16    Ky                pg0001a.txt
+2B    36  McGuire        Thos             57    NC                pg0001a.txt
+2B    29  McGuire        Thos             36    Ten               pg0001a.txt
+2B    34  McGuire        Thos             1     Ky                pg0001a.txt
+2B    38  McGuire        W W              26    Ky                pg0001a.txt
+11B   40  McGuire        Wm               28    Ky                pg0010a.txt
+69B   22  McKain         John             23    Ky                pg0064a.txt
+57B   18  McKinnis       H                4     Ten               pg0055a.txt
+57B   19  McKinnis       J H              2     Ky                pg0055a.txt
+57B   15  McKinnis       John             30    Ten               pg0055a.txt
+57B   16  McKinnis       R                28    Ten               pg0055a.txt
+57B   17  McKinnis       Wm A             7     Ten               pg0055a.txt
+63B   27  McMillan       Martha           46    Va                pg0055a.txt
+22B   11  McWilliams     E A              1/12  Ky                pg0019a.txt
+22B   9   McWilliams     J                29    Ky                pg0019a.txt
+22B   10  McWilliams     N                19    Ten               pg0019a.txt
+47A   21  Meadows        Asa              60    Va                pg0046a.txt
+14B   31  Meadows        J                72    Ten               pg0010a.txt
+35B   35  Meadows        John             21    Ten               pg0028a.txt
+47A   22  Meadows        O                32    Va                pg0046a.txt
+47A   23  Meadows        S                12    Ky                pg0046a.txt
+22A   21  Menick         A J              8     Ky                pg0019a.txt
+22A   23  Menick         G W              3     Ky                pg0019a.txt
+22A   22  Menick         H E              5     Ky                pg0019a.txt
+22A   20  Menick         Sarah            32    Ky                pg0019a.txt
+64A   31  Menks          James W          12    Ky                pg0064a.txt
+5B    5   Miflin         M A              20    Ky                pg0001a.txt
+5B    7   Miflin         M E              1     Ky                pg0001a.txt
+5B    6   Miflin         S C              3     Ky                pg0001a.txt
+5B    4   Miflin         Wm               28    Ten               pg0001a.txt
+27B   28  Miller         A                54    Ky                pg0019a.txt
+29A   4   Miller         E                24    Ky                pg0028a.txt
+43A   3   Miller         E J              16    Ky                pg0037a.txt
+38A   23  Miller         G                15    Ky                pg0037a.txt
+25B   20  Miller         J                24    Ky                pg0019a.txt
+25B   16  Miller         J H              21    Ky                pg0019a.txt
+38A   21  Miller         John             51    Va                pg0037a.txt
+7A    11  Miller         John             22    Ky                pg0001a.txt
+43A   2   Miller         John J           19    Ky                pg0037a.txt
+25B   14  Miller         M                58    Ky                pg0019a.txt
+27B   29  Miller         M                28    Ky                pg0019a.txt
+45B   23  Miller         M                22    Ky                pg0037a.txt
+27B   27  Miller         Mathew           58    NC                pg0019a.txt
+38A   22  Miller         N                38    Ky                pg0037a.txt
+25B   17  Miller         P W              18    Ky                pg0019a.txt
+25B   13  Miller         Randolf          64    NC                pg0019a.txt
+25B   21  Miller         S F              3     Ky                pg0019a.txt
+45B   22  Miller         Thomas E         21    Ky                pg0037a.txt
+25B   19  Miller         W J              27    Ky                pg0019a.txt
+25B   15  Miller         W R              22    Ky                pg0019a.txt
+67B   7   Millikan       Elsa A           68    NC                pg0064a.txt
+67B   6   Millikan       James            72    NC                pg0064a.txt
+19A   38  Millikin       A                9     Ky                pg0019a.txt
+19A   40  Millikin       A                5     Ky                pg0019a.txt
+19A   41  Millikin       A                1     Ky                pg0019a.txt
+15B   29  Millikin       B                11    Ky                pg0010a.txt
+15B   31  Millikin       E                5     Ky                pg0010a.txt
+15B   28  Millikin       E                29    Ky                pg0010a.txt
+18A   22  Millikin       E                18    Ky                pg0010a.txt
+18A   23  Millikin       E                15    Ky                pg0010a.txt
+20B   42  Millikin       G                20    Ky                pg0019a.txt
+19A   35  Millikin       George H         42    Ky                pg0019a.txt
+15B   33  Millikin       J                8/12  Ky                pg0010a.txt
+15B   34  Millikin       J                20    Ky                pg0010a.txt
+18A   24  Millikin       J                13    Ky                pg0010a.txt
+18A   25  Millikin       J                11    Ky                pg0010a.txt
+19A   37  Millikin       M E              13    Ten               pg0019a.txt
+15B   30  Millikin       M S              8     Ky                pg0010a.txt
+18A   21  Millikin       N                41    Ky                pg0010a.txt
+15B   32  Millikin       N                3     Ky                pg0010a.txt
+19A   39  Millikin       P J              7     Ky                pg0019a.txt
+15B   27  Millikin       R F              37    Ky                pg0010a.txt
+19A   36  Millikin       S                23    Ten               pg0019a.txt
+18A   20  Millikin       Wm W             43    Ky                pg0010a.txt
+67B   15  Minick         Amanda           13    Ky                pg0064a.txt
+67B   12  Minick         Eliza J          35    NC                pg0064a.txt
+67B   13  Minick         Elizabeth        17    Ky                pg0064a.txt
+67B   16  Minick         James W          11    Ky                pg0064a.txt
+67B   14  Minick         Permelia         14    Ky                pg0064a.txt
+67B   17  Minick         Samuel           7     Ky                pg0064a.txt
+21A   10  Mitchel        A                26    Ten               pg0019a.txt
+69A   4   Mitchel        Edward N         25    Ten               pg0064a.txt
+69A   6   Mitchel        Helen W          3     Ky                pg0064a.txt
+69A   5   Mitchel        Susan E          21    Ky                pg0064a.txt
+69A   7   Mitchel        Virgil           1     Ky                pg0064a.txt
+53B   25  Montague       A F              19    Ky                pg0046a.txt
+68B   5   Montague       Elizabeth        49    Ky                pg0064a.txt
+68B   6   Montague       Elvira           14    Ky                pg0064a.txt
+53B   28  Montague       J H              18    Ky                pg0046a.txt
+68B   7   Montague       John B           10    Ky                pg0064a.txt
+53B   26  Montague       T B              2     Ky                pg0046a.txt
+53B   24  Montague       Wm C             23    Ky                pg0046a.txt
+31A   19  Moody          A G              14    Ten               pg0028a.txt
+13B   3   Moody          A H              20    Ten               pg0010a.txt
+31A   14  Moody          B                26    Ten               pg0028a.txt
+12B   35  Moody          E                17    Ky                pg0010a.txt
+31A   17  Moody          J                51    Ten               pg0028a.txt
+12B   34  Moody          J                19    Ten               pg0010a.txt
+31A   16  Moody          J M              5     Ten               pg0028a.txt
+31A   15  Moody          L                25    Ten               pg0028a.txt
+44B   20  Moody          M A              31    Ky                pg0037a.txt
+13B   4   Moody          M A              20    Ky                pg0010a.txt
+44B   21  Moody          M A C            20    Ky                pg0037a.txt
+31A   18  Moody          R                50    NC                pg0028a.txt
+44B   22  Moody          S M              1     Ky                pg0037a.txt
+31A   21  Moody          S R              4     Ten               pg0028a.txt
+44B   19  Moody          Silas M          50    Va                pg0037a.txt
+31A   20  Moody          Wm C             9     Ten               pg0028a.txt
+68B   2   Moore          Ann L            5     Ky                pg0064a.txt
+69A   20  Moore          Charles M        14    Ky                pg0064a.txt
+41B   12  Moore          Clary            15    Ky                pg0037a.txt
+65A   30  Moore          David            90    NC                pg0064a.txt
+65A   21  Moore          David L          25    Ky                pg0064a.txt
+30B   30  Moore          E                57    Va                pg0028a.txt
+69A   18  Moore          Ellen            39    Ky                pg0064a.txt
+30B   32  Moore          F M              14    Ky                pg0028a.txt
+30B   31  Moore          H C              20    Ky                pg0028a.txt
+68B   1   Moore          Harriet          8     Ky                pg0064a.txt
+30A   28  Moore          J                12    Ky                pg0028a.txt
+24B   12  Moore          J C              25    Ky                pg0019a.txt
+30B   29  Moore          J D              26    Ten               pg0028a.txt
+69B   21  Moore          James A          26    Va                pg0064a.txt
+69A   17  Moore          James W          53    Va                pg0064a.txt
+65A   14  Moore          John B           33    NC                pg0064a.txt
+24A   42  Moore          L                21    Ky                pg0019a.txt
+24B   14  Moore          L O              1/12  Ky                pg0019a.txt
+65A   17  Moore          Lavina           5     Ky                pg0064a.txt
+65A   15  Moore          Lucinda          24    Ky                pg0064a.txt
+65A   31  Moore          Martha           70    NC                pg0064a.txt
+65A   22  Moore          Nancy            20    Ky                pg0064a.txt
+24B   13  Moore          P A              29    Ky                pg0019a.txt
+65A   33  Moore          Rachel A         20    Ky                pg0064a.txt
+69A   22  Moore          Randolph         2     Ky                pg0064a.txt
+65A   32  Moore          Robert           30    NC                pg0064a.txt
+65A   18  Moore          Robert G         4     Ky                pg0064a.txt
+68A   42  Moore          Sarah A L        33    Ten               pg0064a.txt
+69A   19  Moore          Sarah M          17    Ky                pg0064a.txt
+68A   41  Moore          Sinea G          45    NC                pg0064a.txt
+65A   16  Moore          Thomas           7     Ky                pg0064a.txt
+65A   23  Moore          Vianah J H       5     Ky                pg0064a.txt
+30B   28  Moore          W H              25    Ky                pg0028a.txt
+69A   21  Moore          Wilburn F        12    Ky                pg0064a.txt
+65A   19  Moore          Wm S             3     Ky                pg0064a.txt
+61A   40  Moorehead      A E              41    Ky                pg0055a.txt
+61B   7   Moorehead      h n              4/12  Ky                pg0055a.txt
+61A   39  Moorehead      Hugh N           43    Va                pg0055a.txt
+61B   3   Moorehead      J                14    Ky                pg0055a.txt
+61A   41  Moorehead      J D              20    Ky                pg0055a.txt
+61B   1   Moorehead      J T              14    Ky                pg0055a.txt
+61A   42  Moorehead      J W              17    Ky                pg0055a.txt
+61B   4   Moorehead      L A              10    Ky                pg0055a.txt
+61B   2   Moorehead      M H              12    Ky                pg0055a.txt
+61B   5   Moorehead      M S              8     Ky                pg0055a.txt
+61B   6   Moorehead      S E              6     Ky                pg0055a.txt
+31A   39  Morgan         A                24    Ky                pg0028a.txt
+54A   11  Morgan         E                46    Ky                pg0046a.txt
+54A   20  Morgan         G S              3     Ky                pg0046a.txt
+3B    4   Morgan         I                5     Mo                pg0001a.txt
+54A   19  Morgan         J                8     Ky                pg0046a.txt
+54A   16  Morgan         J                14    Ky                pg0046a.txt
+3B    2   Morgan         J                11    Ky                pg0001a.txt
+3A    42  Morgan         Jackson          38    Ky                pg0001a.txt
+54A   10  Morgan         Jeremiah         48    SC                pg0046a.txt
+54A   14  Morgan         M A              19    Ky                pg0046a.txt
+3B    3   Morgan         M J              8     Mo                pg0001a.txt
+31A   40  Morgan         M J              2     Ky                pg0028a.txt
+54A   15  Morgan         M S              16    Ky                pg0046a.txt
+54A   17  Morgan         R                12    Ky                pg0046a.txt
+54A   18  Morgan         R                10    Ky                pg0046a.txt
+3B    5   Morgan         S H              1     Ky                pg0001a.txt
+3B    1   Morgan         S J B            34    Ten               pg0001a.txt
+54A   12  Morgan         Saml             28    Ky                pg0046a.txt
+54A   13  Morgan         T                21    Ky                pg0046a.txt
+33A   8   Morris         A                6/12  Ky                pg0028a.txt
+36A   24  Morris         C                56    SC                pg0028a.txt
+53A   13  Morris         D E              6     Ten               pg0046a.txt
+47B   38  Morris         D L              8     Ky                pg0046a.txt
+52A   5   Morris         Dan              15    La                pg0046a.txt
+47B   31  Morris         Danl             45    Ky                pg0046a.txt
+48A   25  Morris         E                36    Ky                pg0046a.txt
+53A   14  Morris         E A              4     Ten               pg0046a.txt
+66A   27  Morris         Elizabeth        73    Va                pg0064a.txt
+48A   27  Morris         G M              13    Ky                pg0046a.txt
+48A   29  Morris         H R              8     Ky                pg0046a.txt
+47B   40  Morris         J                4     Ky                pg0046a.txt
+48A   30  Morris         J C              7     Ky                pg0046a.txt
+48A   32  Morris         J C              3     Ky                pg0046a.txt
+33A   6   Morris         J J              21    Ten               pg0028a.txt
+47B   33  Morris         J N              18    Ky                pg0046a.txt
+53A   10  Morris         James            33    Ten               pg0046a.txt
+33A   7   Morris         M                21    Ten               pg0028a.txt
+47B   36  Morris         M A              10    Ky                pg0046a.txt
+48A   26  Morris         M E              15    Ky                pg0046a.txt
+48A   28  Morris         M J              9     Ky                pg0046a.txt
+53A   11  Morris         N                31    Va                pg0046a.txt
+47B   41  Morris         N A              1     Ky                pg0046a.txt
+47B   32  Morris         P                37    Ky                pg0046a.txt
+47A   37  Morris         P A J            13    Ky                pg0046a.txt
+47B   37  Morris         P J              8     Ky                pg0046a.txt
+12A   34  Morris         R C              19    Ten               pg0010a.txt
+48A   31  Morris         S E              5     Ky                pg0046a.txt
+47B   35  Morris         S E              12    Ky                pg0046a.txt
+53A   12  Morris         S M              8     Ten               pg0046a.txt
+48A   24  Morris         Saml D           38    Ky                pg0046a.txt
+47B   39  Morris         T W              5     Ky                pg0046a.txt
+47B   34  Morris         W H              15    Ky                pg0046a.txt
+52A   39  Morrison       C                55    Ky                pg0046a.txt
+15A   33  Morrow         A M              15    Ky                pg0010a.txt
+15A   34  Morrow         E W              11    Ky                pg0010a.txt
+15A   30  Morrow         O H              49    NC                pg0010a.txt
+15A   31  Morrow         S                49    NC                pg0010a.txt
+15A   32  Morrow         S                17    Ky                pg0010a.txt
+50A   34  Morton         C                10    Ky                pg0046a.txt
+50A   31  Morton         E                21    Ky                pg0046a.txt
+50A   32  Morton         J                18    Ky                pg0046a.txt
+50B   15  Morton         L M              19    Ky                pg0046a.txt
+50A   33  Morton         M F              15    Ky                pg0046a.txt
+50A   30  Morton         Wineford         42    Ky                pg0046a.txt
+34B   33  Murphy         L                26    Ky                pg0028a.txt
+52B   40  Murphy         T                16    Ky                pg0046a.txt
+40B   15  Murphy         Wm               43    Ky                pg0037a.txt
+6B    13  Murray         C                14    Ten               pg0001a.txt
+6B    11  Murray         D                17    Ten               pg0001a.txt
+6B    12  Murray         D W              16    Ky                pg0001a.txt
+6B    10  Murray         H                19    Ten               pg0001a.txt
+6B    14  Murray         J                13    Ky                pg0001a.txt
+6B    16  Murray         J N              8     Ky                pg0001a.txt
+6B    8   Murray         M                23    Ten               pg0001a.txt
+6B    9   Murray         P                21    Ten               pg0001a.txt
+6B    6   Murray         S                47    Ten               pg0001a.txt
+6B    17  Murray         S H              8     Ky                pg0001a.txt
+6B    7   Murray         Sally            46    Ten               pg0001a.txt
+6B    15  Murray         T P              11    Ky                pg0001a.txt
+46B   31  Murrel         E R              8     Ky                pg0046a.txt
+46B   29  Murrel         L S              34    Ky                pg0046a.txt
+46B   30  Murrel         M J              10    Ky                pg0046a.txt
+46B   28  Murrel         S L              34    Ky                pg0046a.txt
+46B   32  Murrel         T M              6     Ky                pg0046a.txt
+65B   13  Murry          Elizabeth        38    Ten               pg0064a.txt
+65B   15  Murry          Elmira J         15    Ten               pg0064a.txt
+65B   12  Murry          Light            41    Ky                pg0064a.txt
+65B   18  Murry          Lucinda E        8     Ky                pg0064a.txt
+65B   14  Murry          Lucy M           17    Ten               pg0064a.txt
+65B   16  Murry          Milly M          11    Ten               pg0064a.txt
+65B   17  Murry          William M        9     Ten               pg0064a.txt
+21A   36  Myres          A                46    Ten               pg0019a.txt
+34A   37  Myres          C                31    Ky                pg0028a.txt
+21B   7   Myres          D E              8/12  Ten               pg0019a.txt
+34A   39  Myres          D W              17    Ky                pg0028a.txt
+34A   36  Myres          Daniel           52    Ma                pg0028a.txt
+21A   41  Myres          F                18    Ten               pg0019a.txt
+21A   40  Myres          J                20    Ten               pg0019a.txt
+34A   42  Myres          L                4     Ky                pg0028a.txt
+21B   3   Myres          M                5     Ten               pg0019a.txt
+21A   39  Myres          M                23    Ten               pg0019a.txt
+34A   38  Myres          M                19    Ky                pg0028a.txt
+34A   40  Myres          M                15    Ky                pg0028a.txt
+21B   2   Myres          M A              13    Ten               pg0019a.txt
+21A   42  Myres          M J              15    Ten               pg0019a.txt
+21A   37  Myres          N                47    NC                pg0019a.txt
+21A   38  Myres          R                24    Ten               pg0019a.txt
+21B   1   Myres          S E              15    Ten               pg0019a.txt
+34A   41  Myres          W                13    Ky                pg0028a.txt
+34B   1   Myres          Wm C             1     Ky                pg0028a.txt
+10A   4   Nash           Eliza A          21    Ten               pg0010a.txt
+57B   7   Neal           Benj C           25    Ky                pg0055a.txt
+57B   8   Neal           S F              21    Ky                pg0055a.txt
+57B   9   Neal           V S              2     Ky                pg0055a.txt
+10B   36  Neeley         A M              10    Ky                pg0010a.txt
+16B   20  Neeley         Charles          9     Ky                pg0010a.txt
+63A   7   Neeley         Charles          48    NY                pg0055a.txt
+63B   18  Neeley         Easter A         17    Ill               pg0055a.txt
+18B   35  Neeley         Eliza            46    Ky                pg0010a.txt
+16B   21  Neeley         Elizabeth        7     Ky                pg0010a.txt
+63A   9   Neeley         Elizabeth M      19    Ky                pg0055a.txt
+63A   8   Neeley         Frances          36    Ky                pg0055a.txt
+10B   37  Neeley         G M              3     Ky                pg0010a.txt
+10B   39  Neeley         infant           4/12  Ky                pg0010a.txt
+10B   33  Neeley         J                44    Ky                pg0010a.txt
+10B   35  Neeley         J E              21    Ky                pg0010a.txt
+63A   12  Neeley         James E          11    Ky                pg0055a.txt
+63B   14  Neeley         Jane             50    Ky                pg0055a.txt
+16B   18  Neeley         John             43    Ky                pg0010a.txt
+63A   11  Neeley         John W           12    Ky                pg0055a.txt
+63B   16  Neeley         Lucinda          21    Ill               pg0055a.txt
+10B   38  Neeley         M B              3     Ky                pg0010a.txt
+63A   13  Neeley         Mary H           8     Ky                pg0055a.txt
+63B   17  Neeley         Mathew           20    Ill               pg0055a.txt
+63B   15  Neeley         May E            26    Ky                pg0055a.txt
+16B   19  Neeley         R                29    Ky                pg0010a.txt
+63A   10  Neeley         Richard W        16    Ky                pg0055a.txt
+10B   34  Neeley         S G              37    Ky                pg0010a.txt
+16B   22  Neeley         Sanford          4     Ky                pg0010a.txt
+9B    34  Newland        C M              13    Ky                pg0001a.txt
+9B    35  Newland        C V              11    Ky                pg0001a.txt
+9B    33  Newland        G D              16    Ky                pg0001a.txt
+9B    31  Newland        J A              20    Ky                pg0001a.txt
+9B    30  Newland        N G              50    Ky                pg0001a.txt
+9B    32  Newland        T W              18    Ky                pg0001a.txt
+9B    29  Newland        Wm               52    Ky                pg0001a.txt
+24B   15  Nichol         K D              27    Ky                pg0019a.txt
+24B   16  Nichol         M                22    Ky                pg0019a.txt
+24B   17  Nichol         M A              4     Ky                pg0019a.txt
+24B   18  Nichol         V                1     Ky                pg0019a.txt
+45B   39  Nicoll         A E              14    Ky                pg0037a.txt
+45B   35  Nicoll         Horatia D        50    SC                pg0037a.txt
+45B   37  Nicoll         L                21    Ky                pg0037a.txt
+45B   36  Nicoll         L M              46    Ky                pg0037a.txt
+45B   38  Nicoll         Wm E             16    Ky                pg0037a.txt
+49B   12  Noel           A E              4     Ky                pg0046a.txt
+49B   11  Noel           E E              22    Ky                pg0046a.txt
+49B   13  Noel           L A              2     Ky                pg0046a.txt
+49B   10  Noel           Young H          34    Ky                pg0046a.txt
+1A    15  Northam        E                24    Ky                pg0001a.txt
+1A    12  Northam        Eli              59    NC                pg0001a.txt
+1A    16  Northam        G                22    Ten               pg0001a.txt
+1A    13  Northam        Mary             57    NC                pg0001a.txt
+1A    17  Northam        P G              17    Ky                pg0001a.txt
+1A    14  Northam        S                26    Ky                pg0001a.txt
+6B    39  Nowland        D                9     Ky                pg0001a.txt
+6B    35  Nowland        David            46    Ten               pg0001a.txt
+6B    25  Nowland        E                15    Ky                pg0001a.txt
+6B    40  Nowland        G A              6     Ky                pg0001a.txt
+6B    38  Nowland        J H              10    Ky                pg0001a.txt
+6B    36  Nowland        M F              35    Ky                pg0001a.txt
+6B    37  Nowland        M J              13    Ky                pg0001a.txt
+6B    41  Nowland        Wm C             2     Ky                pg0001a.txt
+11A   6   NS             Anderson         25    Ky                pg0010a.txt
+69B   14  NS             Aunt             87    Va                pg0064a.txt
+7B    23  NS             Charity          40    Ky                pg0001a.txt
+55B   2   NS             Charles          30    Ky                pg0055a.txt
+61B   8   NS             Cinderilla       30    Ky                pg0055a.txt
+21B   31  NS             Dick             60    NY                pg0019a.txt
+19B   32  NS             Docia            6     Ky                pg0019a.txt
+10B   19  NS             Eliza            18    Ky                pg0010a.txt
+61A   16  NS             Elizabeth        45    Ky                pg0055a.txt
+65A   2   NS             Ellick           55    Md                pg0064a.txt
+39B   20  NS             Francis          2     Ky                pg0037a.txt
+40B   19  NS             George           72    NC                pg0037a.txt
+45A   34  NS             Jackson          27    Ky                pg0037a.txt
+68A   31  NS             James            7     Ky                pg0064a.txt
+68A   30  NS             Jane             13    Ky                pg0064a.txt
+10B   8   NS             Jane             10    Ky                pg0010a.txt
+50A   35  NS             Jinny            80    Va                pg0046a.txt
+69B   42  NS             Jinny            55    SC                pg0064a.txt
+65A   20  NS             Jourden          33    NC                pg0064a.txt
+61A   17  NS             Julia            10    Ky                pg0055a.txt
+68A   28  NS             Lidda            52    NC                pg0064a.txt
+39B   19  NS             Loisa            38    Ky                pg0037a.txt
+51A   21  NS             Lucy             70    Va                pg0046a.txt
+19B   31  NS             Mahala           23    Ky                pg0019a.txt
+68A   32  NS             Margaret         3     Ky                pg0064a.txt
+61A   18  NS             Mary             5     Ky                pg0055a.txt
+69B   13  NS             Mary             19    Ky                pg0064a.txt
+58B   3   NS             Mitcher          29    Ky                pg0055a.txt
+9B    19  NS             Moses            83    Va                pg0001a.txt
+45A   35  NS             Nancy            22    Ky                pg0037a.txt
+69B   12  NS             Nicholas         40    Ky                pg0064a.txt
+49B   28  NS             Peter            27    Ky                pg0046a.txt
+45A   36  NS             Sarah            1     Ky                pg0037a.txt
+40B   20  NS             Silva            72    Va                pg0037a.txt
+39B   18  NS             Starling         45    Ky                pg0037a.txt
+45A   37  NS             Sylvestor        2/12  Ky                pg0037a.txt
+7B    24  NS             Thomas           9     Ky                pg0001a.txt
+68A   29  NS             Thomas           11    Ky                pg0064a.txt
+10A   6   Odell          A                43    SC                pg0010a.txt
+57A   38  Odell          A                11    Ky                pg0055a.txt
+57A   41  Odell          E                5     Ky                pg0055a.txt
+57A   39  Odell          E A              8     Ky                pg0055a.txt
+57A   40  Odell          E J              6     Ky                pg0055a.txt
+57A   36  Odell          F                30    Ky                pg0055a.txt
+10A   5   Odell          J                43    Va                pg0010a.txt
+57A   37  Odell          J H              13    Ky                pg0055a.txt
+57B   2   Odell          John             30    Ky                pg0055a.txt
+57B   1   Odell          M E J            3     Ky                pg0055a.txt
+57A   35  Odell          Rich             35    Ky                pg0055a.txt
+57A   42  Odell          S J              4     Ky                pg0055a.txt
+10A   7   Odell          T H              2     Ky                pg0010a.txt
+34A   13  Oneal          C                28    Ky                pg0028a.txt
+33A   31  Oneal          D W              29    Ky                pg0028a.txt
+34B   40  Oneal          E                33    NC                pg0028a.txt
+34A   15  Oneal          E                2     Ky                pg0028a.txt
+33A   34  Oneal          J W              1     Ky                pg0028a.txt
+33A   32  Oneal          M A              21    Ky                pg0028a.txt
+34A   14  Oneal          M J              23    Ky                pg0028a.txt
+33A   33  Oneal          T                3     Ky                pg0028a.txt
+34B   39  Oneal          Thos             36    NC                pg0028a.txt
+13B   10  Orr            J L              33    Ky                pg0010a.txt
+13B   11  Orr            S D              25    Ky                pg0010a.txt
+45A   18  Orvis          C L              8     Ky                pg0037a.txt
+45A   22  Orvis          C M              1/12  Ky                pg0037a.txt
+45A   17  Orvis          E                27    Ky                pg0037a.txt
+45A   8   Orvis          J M              7     Ky                pg0037a.txt
+45A   10  Orvis          J N              3     Ky                pg0037a.txt
+45A   11  Orvis          J W              8/12  Ky                pg0037a.txt
+45A   9   Orvis          J W              5     Ky                pg0037a.txt
+45A   6   Orvis          James K          31    Ky                pg0037a.txt
+45A   16  Orvis          Joel             32    Ky                pg0037a.txt
+45A   20  Orvis          L                5     Ky                pg0037a.txt
+45A   19  Orvis          L F              6     Ky                pg0037a.txt
+45A   7   Orvis          S Orvis          28    Ky                pg0037a.txt
+45A   21  Orvis          Wm B             2     Ky                pg0037a.txt
+66B   7   Osburn         Benjamin         4     SC                pg0064a.txt
+17A   25  Overby         A                60    Va                pg0010a.txt
+17A   27  Overby         D A              20    Va                pg0010a.txt
+17A   30  Overby         E                19    Ky                pg0010a.txt
+17A   24  Overby         J H              56    Va                pg0010a.txt
+17A   28  Overby         L E              17    Va                pg0010a.txt
+17A   26  Overby         N M              21    Va                pg0010a.txt
+17A   29  Overby         Wm               27    Va                pg0010a.txt
+34B   18  Overley        C                27    Va                pg0028a.txt
+25B   6   Page           A P              13    Ky                pg0019a.txt
+25B   2   Page           Geo W            55    Va                pg0019a.txt
+25B   5   Page           M                16    Ky                pg0019a.txt
+25B   7   Page           M T              1     Ky                pg0019a.txt
+25B   3   Page           S                43    Va                pg0019a.txt
+25B   4   Page           Wm H             20    Ky                pg0019a.txt
+67A   39  Parnell        Catherine S      22    Ten               pg0064a.txt
+67B   2   Parnell        Elender          9     Ten               pg0064a.txt
+67A   37  Parnell        Henderson D      61    NC                pg0064a.txt
+67B   3   Parnell        James W          6     Ky                pg0064a.txt
+67A   42  Parnell        John H           14    Ten               pg0064a.txt
+67A   41  Parnell        Joseph G         16    Ten               pg0064a.txt
+67B   1   Parnell        Martha A         12    Ten               pg0064a.txt
+67A   40  Parnell        Mary E           20    Ten               pg0064a.txt
+67A   38  Parnell        Rachel C         44    Ten               pg0064a.txt
+67B   4   Parnell        Robert W         4     Ky                pg0064a.txt
+67B   5   Parnell        Thomas F         2     Ky                pg0064a.txt
+68A   40  Patterson      Caroline         18    Ten               pg0064a.txt
+27A   29  Payne          D C              15    Ky                pg0019a.txt
+27A   24  Payne          Danl L           42    Ky                pg0019a.txt
+64B   32  Payne          George           26    Ten               pg0064a.txt
+27A   31  Payne          J M              10    Ky                pg0019a.txt
+27A   25  Payne          M                44    Va                pg0019a.txt
+27A   27  Payne          M A              19    Ky                pg0019a.txt
+27A   28  Payne          M E              16    Ky                pg0019a.txt
+64B   34  Payne          Mary E           1/12  Ky                pg0064a.txt
+64B   33  Payne          Mary F           22    Ky                pg0064a.txt
+27A   26  Payne          P J              21    Ky                pg0019a.txt
+27A   32  Payne          S A              5     Ky                pg0019a.txt
+27A   33  Payne          S L              3     Ky                pg0019a.txt
+27A   30  Payne          T D              12    Ky                pg0019a.txt
+62A   4   Pearson        N                22    Ky                pg0055a.txt
+62A   3   Pearson        Wm               28    Ky                pg0055a.txt
+59B   21  Peart          James            3/12  Ky                pg0055a.txt
+59B   18  Peart          James            28    Ky                pg0055a.txt
+59B   19  Peart          M                23    Ky                pg0055a.txt
+59B   20  Peart          Wm               2     Ky                pg0055a.txt
+14B   37  Peden          A E              10    Ky                pg0010a.txt
+35A   30  Peden          Andrew           38    Va                pg0028a.txt
+35A   35  Peden          B                7     Ky                pg0028a.txt
+14B   35  Peden          B A              13    Ky                pg0010a.txt
+36B   11  Peden          Ben              79    Va                pg0028a.txt
+49B   37  Peden          C                28    Mo                pg0046a.txt
+14B   34  Peden          C R              22    Ten               pg0010a.txt
+14B   38  Peden          C V              8     Ky                pg0010a.txt
+49B   38  Peden          D                8     Ky                pg0046a.txt
+35A   36  Peden          H                5     Ky                pg0028a.txt
+35A   32  Peden          J                14    Ky                pg0028a.txt
+35A   33  Peden          J                12    Ky                pg0028a.txt
+14B   32  Peden          John             46    Va                pg0010a.txt
+35A   38  Peden          M                4/12  Ky                pg0028a.txt
+35A   37  Peden          M                2     Ky                pg0028a.txt
+14B   39  Peden          M P              4     Ky                pg0010a.txt
+35A   34  Peden          N                9     Ky                pg0028a.txt
+35A   31  Peden          R                38    Ky                pg0028a.txt
+14B   36  Peden          S R              12    Ky                pg0010a.txt
+14B   33  Peden          T                41    Ky                pg0010a.txt
+62A   25  Pennington     J E              2     Ky                pg0055a.txt
+62A   22  Pennington     J H              8     Ky                pg0055a.txt
+62A   23  Pennington     J W              6     Ky                pg0055a.txt
+55B   3   Pennington     John             60    NC                pg0055a.txt
+55B   5   Pennington     L                20    Ky                pg0055a.txt
+62A   20  Pennington     Littleberry      36    Va                pg0055a.txt
+55B   4   Pennington     M                50    Ky                pg0055a.txt
+55B   6   Pennington     M E              15    Ky                pg0055a.txt
+62A   24  Pennington     M J              5     Ky                pg0055a.txt
+62A   26  Pennington     M L              1     Ky                pg0055a.txt
+62A   21  Pennington     N                29    Ten               pg0055a.txt
+58A   13  Perkins        Abraham S        30    Ky                pg0055a.txt
+50B   6   Perkins        D D              3     Ky                pg0046a.txt
+50B   8   Perkins        E S              3     Ky                pg0046a.txt
+50B   5   Perkins        M                6     Ky                pg0046a.txt
+50B   4   Perkins        M A              33    Ma                pg0046a.txt
+58A   16  Perkins        M E              3     Ky                pg0055a.txt
+50B   7   Perkins        S D              1/12  Ky                pg0046a.txt
+58A   14  Perkins        S R              29    Ky                pg0055a.txt
+50B   3   Perkins        Wm J             32    Ky                pg0046a.txt
+58A   15  Perkins        Wm V             5     Ky                pg0055a.txt
+64B   40  Peter          Mary J           22    Ky                pg0064a.txt
+64B   39  Peter          Susan            48    Ky                pg0064a.txt
+20A   31  Peters         James            11    Ky                pg0019a.txt
+16B   40  Peyton         Webster          18    Ten               pg0010a.txt
+37A   3   Philips        E                2     Ten               pg0037a.txt
+51B   22  Philips        E                12    Ky                pg0046a.txt
+37A   4   Philips        E                1/12  Ky                pg0037a.txt
+51B   24  Philips        F                5     Ky                pg0046a.txt
+51B   23  Philips        J                7     Ky                pg0046a.txt
+51B   26  Philips        J                10/12 Ky                pg0046a.txt
+51B   18  Philips        James            49    Va                pg0046a.txt
+51B   27  Philips        Judy             43    Va                pg0046a.txt
+37A   2   Philips        M                4     Ten               pg0037a.txt
+51B   19  Philips        M                38    Ky                pg0046a.txt
+51B   25  Philips        M                3     Ky                pg0046a.txt
+37A   1   Philips        M K              21    Ten               pg0037a.txt
+52B   19  Philips        R B              18    Ky                pg0046a.txt
+36B   42  Philips        Richd  L J B     blank Ten               pg0028a.txt
+51B   20  Philips        S                23    Ten               pg0046a.txt
+51B   21  Philips        Wm               14    Ten               pg0046a.txt
+14A   30  Plummer        E                34    Ten               pg0010a.txt
+23B   23  Plummer        F                65    NC                pg0019a.txt
+14A   33  Plummer        F                3     Ky                pg0010a.txt
+14A   31  Plummer        J                14    Ten               pg0010a.txt
+14A   32  Plummer        J                12    Ky                pg0010a.txt
+23B   22  Plummer        L                39    Ky                pg0019a.txt
+14A   29  Plummer        Wm               42    Ky                pg0010a.txt
+3A    17  Pond           Edward           34    Ten               pg0001a.txt
+3A    16  Pond           John             31    Ten               pg0001a.txt
+54B   20  Powel          Enoch            48    NC                pg0046a.txt
+54B   22  Powel          J                19    Ky                pg0046a.txt
+54B   23  Powel          L A              18    Ky                pg0046a.txt
+32B   41  Powel          M                6     Ky                pg0028a.txt
+54B   21  Powel          M                43    Ten               pg0046a.txt
+32B   38  Powel          M                32    Ky                pg0028a.txt
+54B   24  Powel          M J              9     Ky                pg0046a.txt
+32B   37  Powel          Martin W         36    Ten               pg0028a.txt
+32B   40  Powel          N                11    Ky                pg0028a.txt
+32B   39  Powel          Wm               13    Ky                pg0028a.txt
+44A   39  Prather        A                37    Ky                pg0037a.txt
+44B   3   Prather        C L              7     Ky                pg0037a.txt
+44B   2   Prather        E A              9     Ky                pg0037a.txt
+44B   1   Prather        E J              11    Ky                pg0037a.txt
+44A   41  Prather        G S              15    Ky                pg0037a.txt
+44A   42  Prather        J H              13    Ky                pg0037a.txt
+44B   4   Prather        J M              5     Ky                pg0037a.txt
+44A   38  Prather        John             43    SC                pg0037a.txt
+44B   5   Prather        R H              2     Ky                pg0037a.txt
+45A   33  Prather        Wm F             19    Ky                pg0037a.txt
+44A   40  Prather        Wm H             17    Ky                pg0037a.txt
+52B   38  Price          J W              50    Ky                pg0046a.txt
+59A   34  Pritchett      E A              9     Ky                pg0055a.txt
+59A   35  Pritchett      M                7     Ky                pg0055a.txt
+59A   33  Pritchett      M T              15    Ky                pg0055a.txt
+59A   36  Pritchett      R                4     Ky                pg0055a.txt
+59A   31  Pritchett      R                30    Ky                pg0055a.txt
+59A   32  Pritchett      S C              11    Ky                pg0055a.txt
+59A   30  Pritchett      Stanford         46    NC                pg0055a.txt
+50B   10  Proctor        C M              35    Ky                pg0046a.txt
+50B   13  Proctor        G A              7     Ky                pg0046a.txt
+50B   12  Proctor        H A              9     Ky                pg0046a.txt
+50B   9   Proctor        Hezekiah         37    Ky                pg0046a.txt
+50B   11  Proctor        J S              12    Ky                pg0046a.txt
+50B   14  Proctor        R B              3     Ky                pg0046a.txt
+37A   5   Pugh           Rachael          76    Unknown           pg0037a.txt
+32A   4   Purtle         A                44    NC                pg0028a.txt
+32A   5   Purtle         E                43    NC                pg0028a.txt
+32A   9   Purtle         E                10    Ten               pg0028a.txt
+32A   10  Purtle         J                8     Ten               pg0028a.txt
+32A   6   Purtle         N                18    Ten               pg0028a.txt
+32A   11  Purtle         R                2     Ten               pg0028a.txt
+32A   7   Purtle         S                16    Ten               pg0028a.txt
+32A   8   Purtle         Wm               14    Ky                pg0028a.txt
+52A   4   Quigley        Eliza            13    Ky                pg0046a.txt
+52A   7   Quigley        M E              8     Ky                pg0046a.txt
+68B   4   Quinn          Ann F            68    Va                pg0064a.txt
+68B   3   Quinn          Mathew H         68    Va                pg0064a.txt

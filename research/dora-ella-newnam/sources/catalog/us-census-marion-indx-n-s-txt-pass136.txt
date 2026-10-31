@@ -1,0 +1,2039 @@
+Marion County, KY 1850 Federal Census         (INDEX - File 4 of 5)
+
+This Census was transcribed by Vickie Connor <d_connor@msn.com> and
+proofread by Cindy Johnson for the USGenWeb Census Project 
+http://www.usgenweb.org/census.
+
+Copyright (c) 1999 by Vickie Connor <d_connor@msn.com>
+
+************************************************************************
+USGENWEB NOTICE:  These electronic pages may NOT be reproduced in
+any format for profit or presentation by any other organization or
+persons. Persons or organizations desiring to use this material,
+must obtain the written consent of the contributor, or the legal
+representative of the submitter, and contact the listed USGenWeb
+archivist with proof of this consent.
+************************************************************************
+
+THIS IS AN INDEX SORTED BY LAST NAME.
+FOR THE COMPLETE CENSUS INFORMATION, OPEN THE FILE IN THE FILE NAME COLUMN.
+===========================================================================
+PG#  LN#  LAST NAME     FIRST NAME      AGE    BIRTHPL  FILE NAME
+===================================================================
+371b 19   Nailor        E P             31     KY       pg0368a.txt
+371b 21   Nailor        Margaret A      5      KY       pg0368a.txt
+371b 20   Nailor        Nancy A         28     KY       pg0368a.txt
+371b 22   Nailor        William W       3      KY       pg0368a.txt
+382b 14   Nally         Alexander       .      KY       pg0378b.txt
+382b 19   Nally         Caroline        20     KY       pg0378b.txt
+382b 21   Nally         Dica A          17     KY       pg0378b.txt
+326b 15   Nally         Edward          48     VA       pg0326a.txt
+326b 22   Nally         Edward          15     KY       pg0326a.txt
+363a 7    Nally         Edward          14     KY       pg0357b.txt
+382b 15   Nally         Ellen           59     KY       pg0378b.txt
+326b 24   Nally         George          10     KY       pg0326a.txt
+382b 22   Nally         Jeremiah        15     KY       pg0378b.txt
+357b 7    Nally         John            29     KY       pg0357b.txt
+326b 20   Nally         Laura           16     KY       pg0326a.txt
+382b 18   Nally         Mahala J        22     KY       pg0378b.txt
+326b 17   Nally         Martha          22     KY       pg0326a.txt
+382b 23   Nally         Martha E        13     KY       pg0378b.txt
+326b 25   Nally         Mary            7      KY       pg0326a.txt
+382b 16   Nally         Mary            26     KY       pg0378b.txt
+357b 9    Nally         N E             10/12  KY       pg0357b.txt
+326b 16   Nally         Nancy           50     KY       pg0326a.txt
+382b 17   Nally         Nancy           24     KY       pg0378b.txt
+326b 23   Nally         Nancy E         11     KY       pg0326a.txt
+374a 30   Nally         Richard         17     KY       pg0368a.txt
+326b 21   Nally         Richard         18     KY       pg0326a.txt
+382b 20   Nally         Silvester B     19     KY       pg0378b.txt
+326b 19   Nally         Susan           20     KY       pg0326a.txt
+357b 8    Nally         Tresa           23     KY       pg0357b.txt
+326b 18   Nally         William         23     KY       pg0326a.txt
+345a 28   Nantz         Maria           40     KY       pg0336b.txt
+366b 8    Napier        Betsy           21     KY       pg0357b.txt
+373b 16   Nash          Adaline         21     KY       pg0368a.txt
+345a 15   Nash          C L             8      KY       pg0336b.txt
+419b 32   Nash          Calla A         25     VA       pg0410a.txt
+373a 5    Nash          Daniel          65     VA       pg0368a.txt
+345a 10   Nash          Eliza           32     VA       pg0336b.txt
+419b 41   Nash          Elizabeth       23     KY       pg0410a.txt
+419b 31   Nash          Fanny           53     VA       pg0410a.txt
+345a 14   Nash          G W             12     KY       pg0336b.txt
+419b 35   Nash          Henry M         14     VA       pg0410a.txt
+345a 13   Nash          Isabella        13     KY       pg0336b.txt
+419b 34   Nash          James T         17     VA       pg0410a.txt
+373b 18   Nash          Jerome          2      KY       pg0368a.txt
+373a 8    Nash          John J          18     KY       pg0368a.txt
+419b 30   Nash          Joseph B        54     VA       pg0410a.txt
+419b 33   Nash          Joseph H        18     VA       pg0410a.txt
+345a 16   Nash          Josephus        6      KY       pg0336b.txt
+373a 6    Nash          Kesiah          61     VA       pg0368a.txt
+345a 11   Nash          L J             17     KY       pg0336b.txt
+419b 29   Nash          Lucy            75     VA       pg0410a.txt
+345a 12   Nash          Martha          15     KY       pg0336b.txt
+345a 18   Nash          Mary E          2      KY       pg0336b.txt
+345a 17   Nash          Matilda A       4      KY       pg0336b.txt
+419b 42   Nash          Nancy           5/12   KY       pg0410a.txt
+373b 17   Nash          Perlina         4      KY       pg0368a.txt
+373a 9    Nash          Sarah P H       16     KY       pg0368a.txt
+419b 40   Nash          Thomas          23     KY       pg0410a.txt
+345a 9    Nash          Thomas J        41     VA       pg0336b.txt
+373b 15   Nash          W W             32     VA       pg0368a.txt
+373a 7    Nash          William D       22     KY       pg0368a.txt
+372a 31   Nelson        Elizabeth       16     KY       pg0368a.txt
+370b 10   Nelson        Frances         24     KY       pg0368a.txt
+372a 25   Nelson        G B             2      KY       pg0368a.txt
+370b 11   Nelson        Grabriel H      10     KY       pg0368a.txt
+374a 16   Nelson        Harrison        11     KY       pg0368a.txt
+372a 30   Nelson        James           18     KY       pg0368a.txt
+370b 9    Nelson        James H         32     KY       pg0368a.txt
+372a 24   Nelson        James M         3      KY       pg0368a.txt
+352a 10   Nelson        James R         34     KY       pg0347a.txt
+372a 29   Nelson        John            38     KY       pg0368a.txt
+372a 32   Nelson        John            12     KY       pg0368a.txt
+352a 12   Nelson        John H          5/12   KY       pg0347a.txt
+370b 12   Nelson        John W          4      KY       pg0368a.txt
+372a 34   Nelson        Joseph          7      KY       pg0368a.txt
+372a 23   Nelson        Levina          21     KY       pg0368a.txt
+370b 13   Nelson        Louisa J        2      KY       pg0368a.txt
+372a 33   Nelson        Margaret        9      KY       pg0368a.txt
+372a 27   Nelson        Mary            17     KY       pg0368a.txt
+372a 21   Nelson        Rebecca         15     KY       pg0368a.txt
+372a 22   Nelson        Samuel          23     KY       pg0368a.txt
+372a 26   Nelson        Samuel          8/12   KY       pg0368a.txt
+352a 11   Nelson        Sarah           27     KY       pg0347a.txt
+374a 15   Nelson        Thomas          13     KY       pg0368a.txt
+372a 35   Nelson        Woodson T       2      KY       pg0368a.txt
+354b 13   Nevitt        Elizabeth       72     MD       pg0347a.txt
+360b 23   Nevitt        F P             36     MD       pg0357b.txt
+383a 30   Nevitt        Henry           30     KY       pg0378b.txt
+360b 26   Nevitt        James           5      KY       pg0357b.txt
+383a 34   Nevitt        James           1      KY       pg0378b.txt
+383a 33   Nevitt        John            4      KY       pg0378b.txt
+360b 24   Nevitt        Margaret        32     KY       pg0357b.txt
+383a 31   Nevitt        Martha A        27     KY       pg0378b.txt
+360b 25   Nevitt        Martha J        9      KY       pg0357b.txt
+360b 27   Nevitt        Mary E          1      KY       pg0357b.txt
+391b 4    Nevitt        Mary J          15     KY       pg0389a.txt
+383a 32   Nevitt        Susan           9      KY       pg0378b.txt
+407b 34   Newbolt       Celia           40     KY       pg0399b.txt
+407b 35   Newbolt       George P        6      KY       pg0399b.txt
+407b 33   Newbolt       William         50     KY       pg0399b.txt
+410a 41   Newcome       Barlow          9      KY       pg0410a.txt
+410b 1    Newcome       Betsy           6      KY       pg0410a.txt
+363a 35   Newcome       Elizabeth       5      KY       pg0357b.txt
+410a 40   Newcome       Elmira          16     KY       pg0410a.txt
+363a 33   Newcome       Emily           17     KY       pg0357b.txt
+363a 37   Newcome       G A             8/12   KY       pg0357b.txt
+363a 32   Newcome       Harriet         35     VA       pg0357b.txt
+410a 38   Newcome       Harriet         40     KY       pg0410a.txt
+363a 31   Newcome       Isaac           56     MD       pg0357b.txt
+401b 27   Newcome       Malinda         17     KY       pg0399b.txt
+401b 25   Newcome       Mathew          57     MD       pg0399b.txt
+401b 28   Newcome       Mathew          7      KY       pg0399b.txt
+410a 39   Newcome       Nancy           19     KY       pg0410a.txt
+401b 26   Newcome       Rebecca         47     VA       pg0399b.txt
+363a 36   Newcome       Thomas A        3      KY       pg0357b.txt
+410a 42   Newcome       Thomas C        5      KY       pg0410a.txt
+410a 37   Newcome       Turk            60     MD       pg0410a.txt
+363a 34   Newcome       William         12     KY       pg0357b.txt
+410b 2    Newcome       William         7      KY       pg0410a.txt
+338b 28   Newman        Robert          21     KY       pg0336b.txt
+385b 11   Newton        Ann             29     KY       pg0378b.txt
+384a 38   Newton        Charles S J     24     KY       pg0378b.txt
+384a 40   Newton        Eliza A         2      KY       pg0378b.txt
+389b 27   Newton        Elizabeth A     4/12   KY       pg0389a.txt
+384a 39   Newton        Elizabeth E     26     KY       pg0378b.txt
+384a 41   Newton        George S        1/12   KY       pg0378b.txt
+389b 21   Newton        James           67     KY       pg0389a.txt
+405a 17   Newton        John            25     KY       pg0399b.txt
+405a 20   Newton        John            3/12   KY       pg0399b.txt
+389b 23   Newton        Joseph          28     KY       pg0389a.txt
+385b 5    Newton        Mary            80     MD       pg0378b.txt
+389b 22   Newton        Mary            69     MD       pg0389a.txt
+389b 24   Newton        Mary            21     KY       pg0389a.txt
+405a 19   Newton        Mary L          3      KY       pg0399b.txt
+405a 18   Newton        Nancy           19     KY       pg0399b.txt
+384a 37   Newton        Sarah A         70     MD       pg0378b.txt
+389b 26   Newton        Thomas          2      KY       pg0389a.txt
+384a 27   Newton        William         19     KY       pg0378b.txt
+389b 25   Newton        William A       3      KY       pg0389a.txt
+345b 31   Nichelson     L H             23     KY       pg0336b.txt
+402a 6    Nicholls      C R             32     KY       pg0399b.txt
+402a 8    Nicholls      E M             2      KY       pg0399b.txt
+402a 7    Nicholls      G L             6      KY       pg0399b.txt
+402a 5    Nicholls      G W             33     NY       pg0399b.txt
+424a 41   Nichollson    Lewis H         23     KY       pg0420b.txt
+408a 9    Nightingale   Catherine       35     KY       pg0399b.txt
+408a 8    Nightingale   Elizabeth       38     KY       pg0399b.txt
+408a 7    Nightingale   Lucy A          40     KY       pg0399b.txt
+408a 5    Nightingale   Mathew          80     VA       pg0399b.txt
+408a 6    Nightingale   Sarah           75     KY       pg0399b.txt
+347a 26   Norris        Catherine       24     KY       pg0347a.txt
+347a 25   Norris        G G             28     KY       pg0347a.txt
+347a 27   Norris        John J          4      KY       pg0347a.txt
+347a 28   Norris        Mary D          1      KY       pg0347a.txt
+387b 18   O'Berhulstman William         38     Germany  pg0378b.txt
+383b 3    O'Bryan       Apalona         4      KY       pg0378b.txt
+377a 13   O'Bryan       C A             11     KY       pg0368a.txt
+377a 32   O'Bryan       Calister        4      KY       pg0368a.txt
+383a 42   O'Bryan       Cecila          27     KY       pg0378b.txt
+376a 31   O'Bryan       Charles         22     KY       pg0368a.txt
+377a 2    O'Bryan       Cresa A         16     KY       pg0368a.txt
+377a 6    O'Bryan       E M             6      KY       pg0368a.txt
+376a 34   O'Bryan       Eliza           2      KY       pg0368a.txt
+376a 33   O'Bryan       Elizabeth       4      KY       pg0368a.txt
+377a 7    O'Bryan       Frances J       4      KY       pg0368a.txt
+377a 8    O'Bryan       Francis L       45     KY       pg0368a.txt
+377a 11   O'Bryan       H M             15     KY       pg0368a.txt
+377a 4    O'Bryan       James W         12     KY       pg0368a.txt
+391a 2    O'Bryan       John            25     KY       pg0389a.txt
+377a 10   O'Bryan       John B          17     KY       pg0368a.txt
+377a 1    O'Bryan       Mary            33     MD       pg0368a.txt
+383b 2    O'Bryan       Mary            6      KY       pg0378b.txt
+376a 20   O'Bryan       Mary E          19     KY       pg0368a.txt
+377a 5    O'Bryan       Mary E          10     KY       pg0368a.txt
+376a 21   O'Bryan       Mary T          6/12   KY       pg0368a.txt
+376a 19   O'Bryan       Matilda         61     KY       pg0368a.txt
+376a 32   O'Bryan       Nancy           26     KY       pg0368a.txt
+383a 41   O'Bryan       Robert          32     KY       pg0378b.txt
+383b 4    O'Bryan       Robert          2      KY       pg0378b.txt
+377a 9    O'Bryan       Sarah A         39     KY       pg0368a.txt
+377a 3    O'Bryan       Sarah C         14     KY       pg0368a.txt
+383b 1    O'Bryan       William F       10     KY       pg0378b.txt
+377a 12   O'Bryan       William R       13     KY       pg0368a.txt
+387b 19   O'Callahan    E               30     Ireland  pg0378b.txt
+387b 38   O'Conner      P               16     TN       pg0378b.txt
+344a 31   O'Daniel      Ann E           8/12   KY       pg0336b.txt
+340a 3    O'Daniel      B J             18     KY       pg0336b.txt
+381a 6    O'Daniel      Benedict        3      KY       pg0378b.txt
+340a 4    O'Daniel      C M             15     KY       pg0336b.txt
+393b 4    O'Daniel      Charles         2      KY       pg0389a.txt
+344a 27   O'Daniel      E H             27     KY       pg0336b.txt
+336b 11   O'Daniel      Harrison        25     KY       pg0336b.txt
+381a 3    O'Daniel      James           28     KY       pg0378b.txt
+393a 42   O'Daniel      James R T       20     KY       pg0389a.txt
+344a 29   O'Daniel      Joseph          4      KY       pg0336b.txt
+339b 42   O'Daniel      Joseph          53     MD       pg0336b.txt
+340a 2    O'Daniel      Josiah          21     KY       pg0336b.txt
+381a 4    O'Daniel      Martina         31     KY       pg0378b.txt
+344a 28   O'Daniel      Mary            24     KY       pg0336b.txt
+340a 1    O'Daniel      Nancy           51     KY       pg0336b.txt
+340a 5    O'Daniel      Pius            12     KY       pg0336b.txt
+393b 2    O'Daniel      Senicca         15     KY       pg0389a.txt
+393a 41   O'Daniel      Susan           29     KY       pg0389a.txt
+381a 5    O'Daniel      Susan A         5      KY       pg0378b.txt
+393b 3    O'Daniel      Tereca          14     KY       pg0389a.txt
+344a 30   O'Daniel      Thomas          2      KY       pg0336b.txt
+393b 1    O'Daniel      Thomas R        16     KY       pg0389a.txt
+393a 40   O'Daniel      Walter          52     MD       pg0389a.txt
+393b 5    O'Daniel      Walter          1      KY       pg0389a.txt
+381a 7    O'Daniel      Young           1      KY       pg0378b.txt
+391a 23   Offut         Tresa           13     KY       pg0389a.txt
+391a 24   O'Milla       Catherine       13     KY       pg0389a.txt
+337a 39   O'Neel        Abalona         3      KY       pg0336b.txt
+337a 29   O'Neel        Benedict        45     KY       pg0336b.txt
+337a 30   O'Neel        Eleanor         47     KY       pg0336b.txt
+337a 36   O'Neel        Frances         9      KY       pg0336b.txt
+337a 33   O'Neel        Henry           16     KY       pg0336b.txt
+337a 32   O'Neel        J K             18     KY       pg0336b.txt
+337a 38   O'Neel        Joseph          6      KY       pg0336b.txt
+337a 34   O'Neel        Mary E          13     KY       pg0336b.txt
+337a 35   O'Neel        Nancy           11     KY       pg0336b.txt
+337a 37   O'Neel        Permilia        7      KY       pg0336b.txt
+337a 31   O'Neel        Reson           20     KY       pg0336b.txt
+387b 28   O'Riley       James           66     Ireland  pg0378b.txt
+387a 20   O'Shockancy   Catherine       17     KY       pg0378b.txt
+387a 21   O'Shockancy   Celia           15     KY       pg0378b.txt
+387a 22   O'Shockancy   Elijah          13     KY       pg0378b.txt
+387a 18   O'Shockancy   Elizabeth       37     KY       pg0378b.txt
+387a 26   O'Shockancy   Emily           5      KY       pg0378b.txt
+387a 24   O'Shockancy   Henry M         9      KY       pg0378b.txt
+387a 27   O'Shockancy   Isabella        3      KY       pg0378b.txt
+387a 28   O'Shockancy   Louisa          1      KY       pg0378b.txt
+387a 17   O'Shockancy   Presley         47     KY       pg0378b.txt
+387a 23   O'Shockancy   Raphael         11     KY       pg0378b.txt
+387a 25   O'Shockancy   Richard W       7      KY       pg0378b.txt
+328a 28   Overstreet    Benjamin        68     VA       pg0326a.txt
+407b 31   Overstreet    Franklin        12     KY       pg0399b.txt
+328a 30   Overstreet    Frederick       18     KY       pg0326a.txt
+407b 30   Overstreet    James           14     KY       pg0399b.txt
+407b 32   Overstreet    John            10     KY       pg0399b.txt
+407b 36   Overstreet    John            21     KY       pg0399b.txt
+328a 29   Overstreet    Mary            55     VA       pg0326a.txt
+407b 26   Overstreet    Moses           35     KY       pg0399b.txt
+328a 31   Overstreet    Nelson          13     KY       pg0326a.txt
+407b 28   Overstreet    Reason D        9      KY       pg0399b.txt
+407b 27   Overstreet    Sophia          27     KY       pg0399b.txt
+407b 29   Overstreet    Unice           37     KY       pg0399b.txt
+391a 13   Overton       Josephine       14     KY       pg0389a.txt
+404a 28   Ozburn        Caroline        13     KY       pg0399b.txt
+404a 27   Ozburn        Ellen           39     KY       pg0399b.txt
+404a 29   Ozburn        William         12     KY       pg0399b.txt
+342a 34   Paget         George          43     MD       pg0336b.txt
+348b 4    Paget         Josiah          51     MD       pg0347a.txt
+342a 35   Paget         M J             26     KY       pg0336b.txt
+348b 5    Paget         Margaret        48     KY       pg0347a.txt
+348b 8    Paget         Margaret        12     KY       pg0347a.txt
+348b 7    Paget         Moses           16     KY       pg0347a.txt
+348b 6    Paget         Rebecca         18     KY       pg0347a.txt
+329a 34   Pall          Joseph          7      KY       pg0326a.txt
+427a 17   Parks         Ann             35     KY       pg0420b.txt
+427a 15   Parks         John M          25     KY       pg0420b.txt
+427a 19   Parks         Rodiclan?       20     KY       pg0420b.txt
+427a 16   Parks         Sarah J         4      KY       pg0420b.txt
+427a 18   Parks         Thomas H        12     KY       pg0420b.txt
+407a 26   Parsons       Eliza J         28     KY       pg0399b.txt
+399b 14   Parsons       Elizabeth       76     MD       pg0399b.txt
+361b 15   Parsons       Emaline         5      KY       pg0357b.txt
+361b 12   Parsons       G B             11     KY       pg0357b.txt
+361b 9    Parsons       Garnet          41     KY       pg0357b.txt
+422a 2    Parsons       Hardin          26     KY       pg0420b.txt
+328a 11   Parsons       James           32     KY       pg0326a.txt
+361b 10   Parsons       Jane            35     KY       pg0357b.txt
+407a 25   Parsons       John            26     KY       pg0399b.txt
+361b 13   Parsons       L E             9      KY       pg0357b.txt
+361b 17   Parsons       Lucinda         3/12   KY       pg0357b.txt
+361b 16   Parsons       Martha          2      KY       pg0357b.txt
+328a 13   Parsons       Mary Catharm    11/12  KY       pg0326a.txt
+361b 11   Parsons       Mary E          12     KY       pg0357b.txt
+328a 12   Parsons       Nancy           22     KY       pg0326a.txt
+361b 14   Parsons       R T             7      KY       pg0357b.txt
+422a 3    Parsons       Sally A         30     KY       pg0420b.txt
+416b 8    Paul          Dorrel          29     KY       pg0410a.txt
+416b 15   Paul          George W        10/12  KY       pg0410a.txt
+328a 32   Paul          Jacob           34     KY       pg0326a.txt
+416b 12   Paul          John R          5      KY       pg0410a.txt
+328a 34   Paul          Louisa          4      KY       pg0326a.txt
+328a 35   Paul          Martha Ellen    2      KY       pg0326a.txt
+416b 14   Paul          Mary E          2      KY       pg0410a.txt
+416b 9    Paul          Nancy           26     KY       pg0410a.txt
+416b 13   Paul          Nancy E         3      KY       pg0410a.txt
+328a 33   Paul          Rachael         27     KY       pg0326a.txt
+328a 36   Paul          Sarah A R       4/12   KY       pg0326a.txt
+416b 11   Paul          Sarah E         6      KY       pg0410a.txt
+416b 10   Paul          William H       7      KY       pg0410a.txt
+368a 13   Payne         Alexander M     3      KY       pg0368a.txt
+354a 22   Payne         Ann             34     KY       pg0347a.txt
+368a 10   Payne         Coleman         10     NC       pg0368a.txt
+331a 2    Payne         David           45     VA       pg0326a.txt
+350a 28   Payne         Elizabeth       60     VA       pg0347a.txt
+395a 41   Payne         Emily           40     VA       pg0389a.txt
+354a 20   Payne         F A             3      KY       pg0347a.txt
+368a 7    Payne         Harriet N       15     NC       pg0368a.txt
+354a 17   Payne         Henry           38     KY       pg0347a.txt
+354a 23   Payne         James H         17     KY       pg0347a.txt
+390a 15   Payne         James S         22     KY       pg0389a.txt
+354a 24   Payne         Lerica          16     KY       pg0347a.txt
+395a 42   Payne         Louisa          4      KY       pg0389a.txt
+368a 15   Payne         Lydia           65     VA       pg0368a.txt
+368a 6    Payne         Margaret        38     NC       pg0368a.txt
+368a 12   Payne         Margaret E      6      KY       pg0368a.txt
+368a 5    Payne         Martin          39     VA       pg0368a.txt
+354a 30   Payne         Mary            60     KY       pg0347a.txt
+390a 16   Payne         Mary            21     KY       pg0389a.txt
+350a 29   Payne         Mary            24     KY       pg0347a.txt
+354a 18   Payne         Mary A          28     KY       pg0347a.txt
+368a 11   Payne         Mary B          8      NC       pg0368a.txt
+354a 25   Payne         Mary E          13     KY       pg0347a.txt
+368a 8    Payne         Matitia         14     NC       pg0368a.txt
+331a 7    Payne         Nancy           1      KY       pg0326a.txt
+331a 5    Payne         Robert          9      KY       pg0326a.txt
+354a 28   Payne         Robert B        4/12   KY       pg0347a.txt
+395b 1    Payne         Robin           2      KY       pg0389a.txt
+368a 9    Payne         Rosa D          12     NC       pg0368a.txt
+354a 29   Payne         Russell         79     MD       pg0347a.txt
+354a 19   Payne         S J             8      KY       pg0347a.txt
+331a 3    Payne         Sarah           37     VA       pg0326a.txt
+381b 31   Payne         Sarah           56     VA       pg0378b.txt
+354a 27   Payne         Sarah A         4      KY       pg0347a.txt
+368a 14   Payne         Stephen T       1      KY       pg0368a.txt
+331a 4    Payne         Susan E         11     KY       pg0326a.txt
+381b 32   Payne         Susan E         24     KY       pg0378b.txt
+331a 6    Payne         William         6      KY       pg0326a.txt
+354a 21   Payne         William         40     KY       pg0347a.txt
+354a 26   Payne         William W       6      KY       pg0347a.txt
+386a 10   Peak          Carter          58     KY       pg0378b.txt
+360b 36   Peak          Elizabeth       36     KY       pg0357b.txt
+386a 11   Peak          Elizabeth       48     KY       pg0378b.txt
+386a 18   Peak          Elizabeth       11     KY       pg0378b.txt
+387b 33   Peak          Elizabeth       20     KY       pg0378b.txt
+365b 9    Peak          George          52     KY       pg0357b.txt
+386a 21   Peak          James           7      KY       pg0378b.txt
+365b 11   Peak          Jane            22     KY       pg0357b.txt
+386a 16   Peak          Jefferson       15     KY       pg0378b.txt
+386a 22   Peak          Jemina          1      KY       pg0378b.txt
+365b 13   Peak          John            17     KY       pg0357b.txt
+360b 35   Peak          John B          36     KY       pg0357b.txt
+390b 26   Peak          Lucretia        27     TN       pg0389a.txt
+365b 14   Peak          Lucy A          15     KY       pg0357b.txt
+365b 10   Peak          Lydia           51     KY       pg0357b.txt
+391a 7    Peak          Margaret        20     KY       pg0389a.txt
+386a 14   Peak          Margaret        20     KY       pg0378b.txt
+386a 12   Peak          Mary E          23     KY       pg0378b.txt
+386a 19   Peak          Nancy           11     KY       pg0378b.txt
+386a 17   Peak          Robert          13     KY       pg0378b.txt
+386a 20   Peak          Rutha A         8      KY       pg0378b.txt
+365b 12   Peak          Sarah           19     KY       pg0357b.txt
+386a 13   Peak          Sarah J         22     KY       pg0378b.txt
+360b 37   Peak          William         3      KY       pg0357b.txt
+386a 15   Peak          William         18     KY       pg0378b.txt
+331b 19   Pearce        Adaline         50     KY       pg0326a.txt
+331b 26   Pearce        Charles C       10     KY       pg0326a.txt
+331b 20   Pearce        Chistopher A    19     KY       pg0326a.txt
+331b 24   Pearce        Ellen S         14     KY       pg0326a.txt
+331b 13   Pearce        Isaac           75     VA       pg0326a.txt
+331b 16   Pearce        Isaac N         19     KY       pg0326a.txt
+331b 18   Pearce        Jacob           71     VA       pg0326a.txt
+426b 34   Pearce        James           14     KY       pg0420b.txt
+331b 15   Pearce        Lidia Ann       22     KY       pg0326a.txt
+331b 23   Pearce        Martha L        32     KY       pg0326a.txt
+331b 14   Pearce        Mary J          25     KY       pg0326a.txt
+331b 21   Pearce        Moses L         14     KY       pg0326a.txt
+331b 22   Pearce        Thomas          41     KY       pg0326a.txt
+331b 25   Pearce        Thomas B        12     KY       pg0326a.txt
+391b 2    Pendegrass    Virginia        16     KY       pg0389a.txt
+426a 35   Penick        Ann E           9      KY       pg0420b.txt
+426a 30   Penick        B N             47     KY       pg0420b.txt
+426a 38   Penick        B N             3      KY       pg0420b.txt
+426a 36   Penick        Cecilia J       7      KY       pg0420b.txt
+426a 31   Penick        Easter A        37     KY       pg0420b.txt
+426a 33   Penick        Edward          12     KY       pg0420b.txt
+426a 37   Penick        Nancy B         5      KY       pg0420b.txt
+426a 34   Penick        Sarah C         13     KY       pg0420b.txt
+426a 32   Penick        William         14     KY       pg0420b.txt
+428a 33   Penington     Hannah          43     KY       pg0420b.txt
+428a 34   Penington     James D         17     KY       pg0420b.txt
+428a 38   Penington     Joana           12     KY       pg0420b.txt
+428a 36   Penington     John W          15     KY       pg0420b.txt
+428a 39   Penington     Margaret E      9      KY       pg0420b.txt
+428a 37   Penington     Marion F        13     KY       pg0420b.txt
+428a 35   Penington     William         21     KY       pg0420b.txt
+396a 7    Penn          Emily           28     MD       pg0389a.txt
+396a 6    Penn          George          36     VA       pg0389a.txt
+396a 8    Penn          Martha J        6      KY       pg0389a.txt
+396a 9    Penn          William B       4      KY       pg0389a.txt
+418b 37   Pennington    Amanda          8      KY       pg0410a.txt
+418b 39   Pennington    Ellen           4      KY       pg0410a.txt
+418b 32   Pennington    James L         37     KY       pg0410a.txt
+418b 35   Pennington    John            6      KY       pg0410a.txt
+418b 34   Pennington    Mary E          7      KY       pg0410a.txt
+418b 33   Pennington    Nancy           37     KY       pg0410a.txt
+418b 36   Pennington    Sarah           11     KY       pg0410a.txt
+418b 38   Pennington    Susan           5      KY       pg0410a.txt
+425b 29   Pennington    William         23     KY       pg0420b.txt
+426b 37   Pepes         Betsy           18     KY       pg0420b.txt
+426b 39   Pepes         Elias H         14     KY       pg0420b.txt
+426b 42   Pepes         Frances         5      KY       pg0420b.txt
+426b 40   Pepes         Levi A          12     KY       pg0420b.txt
+426b 38   Pepes         Martha          16     KY       pg0420b.txt
+426b 35   Pepes         Morris          52     KY       pg0420b.txt
+426b 36   Pepes         Sally           47     KY       pg0420b.txt
+426b 41   Pepes         Taylor          3      KY       pg0420b.txt
+326a 27   Peters        R S             21     KY       pg0326a.txt
+349b 36   Peterson      Adam            7      KY       pg0347a.txt
+358a 25   Peterson      Allen           27     KY       pg0357b.txt
+378a 6    Peterson      Allen           9      KY       pg0368a.txt
+377b 35   Peterson      Allen T         26     KY       pg0368a.txt
+377b 39   Peterson      Ann             38     KY       pg0368a.txt
+376b 35   Peterson      Anna            52     KY       pg0368a.txt
+392a 28   Peterson      Cary            31     KY       pg0389a.txt
+349b 31   Peterson      Celia A         35     KY       pg0347a.txt
+378a 7    Peterson      Garret          7      KY       pg0368a.txt
+349b 34   Peterson      Henry           11     KY       pg0347a.txt
+377b 38   Peterson      Henry           36     KY       pg0368a.txt
+349b 33   Peterson      John M          13     KY       pg0347a.txt
+377b 42   Peterson      John M          10     KY       pg0368a.txt
+378a 5    Peterson      Margaret        25     KY       pg0368a.txt
+378a 1    Peterson      Mary J          3      KY       pg0368a.txt
+392a 31   Peterson      Melville        4      KY       pg0389a.txt
+377b 40   Peterson      Nancy           14     KY       pg0368a.txt
+390b 32   Peterson      Nancy           16     KY       pg0389a.txt
+392a 29   Peterson      Nancy           33     KY       pg0389a.txt
+376b 34   Peterson      Peter           55     KY       pg0368a.txt
+378a 8    Peterson      Raphael         5      KY       pg0368a.txt
+378a 2    Peterson      Rebecca         2      KY       pg0368a.txt
+378a 4    Peterson      Samuel          30     KY       pg0368a.txt
+378a 9    Peterson      Samuel          3      KY       pg0368a.txt
+392a 30   Peterson      Samuel          6      KY       pg0389a.txt
+349b 32   Peterson      Sarah J         15     KY       pg0347a.txt
+349b 37   Peterson      Talbot          4      KY       pg0347a.txt
+377b 41   Peterson      Thomas G        13     KY       pg0368a.txt
+349b 30   Peterson      William         38     KY       pg0347a.txt
+349b 35   Peterson      William         9      KY       pg0347a.txt
+376b 36   Peterson      William         13     KY       pg0368a.txt
+399b 39   Phillips      A C             3/12   KY       pg0399b.txt
+386a 35   Phillips      Adaline         4      KY       pg0378b.txt
+390a 23   Phillips      Alfred          16     KY       pg0389a.txt
+338a 30   Phillips      Angeline        2      KY       pg0336b.txt
+424a 26   Phillips      Ann             66     KY       pg0420b.txt
+390a 28   Phillips      Benjamin        7      KY       pg0389a.txt
+407b 3    Phillips      Benjamin        26     KY       pg0399b.txt
+343a 9    Phillips      D W             29     KY       pg0336b.txt
+343a 5    Phillips      David           66     KY       pg0336b.txt
+399b 34   Phillips      Edward W        11     KY       pg0399b.txt
+338a 31   Phillips      Elizabeth       1      KY       pg0336b.txt
+386a 32   Phillips      Elizabeth       25     KY       pg0378b.txt
+407b 6    Phillips      Elizabeth       21     KY       pg0399b.txt
+343a 6    Phillips      Elizabeth       62     VA       pg0336b.txt
+390a 27   Phillips      Elizabeth       9      KY       pg0389a.txt
+399b 31   Phillips      F G             43     KY       pg0399b.txt
+399b 38   Phillips      Fanny           3      KY       pg0399b.txt
+399b 32   Phillips      Frances         33     KY       pg0399b.txt
+338a 27   Phillips      George          8      KY       pg0336b.txt
+390a 20   Phillips      Green           45     KY       pg0389a.txt
+385b 29   Phillips      Henry           16     KY       pg0378b.txt
+399b 35   Phillips      J H             9      KY       pg0399b.txt
+338a 29   Phillips      James           4      KY       pg0336b.txt
+343a 12   Phillips      James           20     KY       pg0336b.txt
+390a 22   Phillips      John            17     KY       pg0389a.txt
+338a 26   Phillips      John F          10     KY       pg0336b.txt
+390a 26   Phillips      Johnathan       11     KY       pg0389a.txt
+385b 26   Phillips      Joshua          58     KY       pg0378b.txt
+343a 10   Phillips      Laura           21     KY       pg0336b.txt
+338a 28   Phillips      Leonadus        6      KY       pg0336b.txt
+399b 37   Phillips      Letitia         5      KY       pg0399b.txt
+390a 25   Phillips      Lydia Ann       13     KY       pg0389a.txt
+390a 21   Phillips      Malica          43     KY       pg0389a.txt
+407b 2    Phillips      Malinda         50     KY       pg0399b.txt
+338a 25   Phillips      Margaret        33     VA       pg0336b.txt
+399b 33   Phillips      Mary            13     KY       pg0399b.txt
+407b 4    Phillips      Mary            24     KY       pg0399b.txt
+386a 33   Phillips      Mary E          7      KY       pg0378b.txt
+407b 5    Phillips      Melton          22     KY       pg0399b.txt
+386a 31   Phillips      Micajah         29     KY       pg0378b.txt
+399b 36   Phillips      Nancy           7      KY       pg0399b.txt
+386a 36   Phillips      Richard T       2/12   KY       pg0378b.txt
+385b 27   Phillips      Samuel          31     KY       pg0378b.txt
+386a 34   Phillips      Sarah           5      KY       pg0378b.txt
+390a 24   Phillips      Sarah A         15     KY       pg0389a.txt
+390a 29   Phillips      Thomas          4      KY       pg0389a.txt
+343a 11   Phillips      William D       1      KY       pg0336b.txt
+338a 24   Phillips      Wilson T        33     KY       pg0336b.txt
+398a 34   Phillips      Elizabeth       24     KY       pg0389a.txt
+398a 32   Phillips      George          63     KY       pg0389a.txt
+398a 38   Phillips      George          12     KY       pg0389a.txt
+398a 37   Phillips      John            18     KY       pg0389a.txt
+398a 33   Phillips      Mary            43     KY       pg0389a.txt
+398a 35   Phillips      Mary            21     KY       pg0389a.txt
+398a 36   Phillips      Nancy           20     KY       pg0389a.txt
+348a 11   Pickerel      Betsie A        2      KY       pg0347a.txt
+348b 29   Pickerel      Elizabeth A     12     KY       pg0347a.txt
+347a 24   Pickerel      George          8      KY       pg0347a.txt
+348a 12   Pickerel      Lucinda         1/12   KY       pg0347a.txt
+348a 9    Pickerel      Nancy J         7      KY       pg0347a.txt
+348a 8    Pickerel      Rebecca         41     KY       pg0347a.txt
+348a 7    Pickerel      Samuel          27     KY       pg0347a.txt
+348a 10   Pickerel      Samuel          5      KY       pg0347a.txt
+348b 34   Pickerel      William         18     KY       pg0347a.txt
+361b 34   Pierce        John M          7      KY       pg0357b.txt
+361b 33   Pierce        Louisa G        14     KY       pg0357b.txt
+359b 5    Pike          Charles         20     KY       pg0357b.txt
+359b 7    Pike          Eliza           21     KY       pg0357b.txt
+359b 10   Pike          G W             12     KY       pg0357b.txt
+359b 3    Pike          John            52     KY       pg0357b.txt
+359b 12   Pike          John            9      KY       pg0357b.txt
+359b 11   Pike          Joseph          10     KY       pg0357b.txt
+359b 13   Pike          Matilda         3      KY       pg0357b.txt
+359b 4    Pike          Nancy           48     KY       pg0357b.txt
+359b 6    Pike          Nicholas        19     KY       pg0357b.txt
+359b 8    Pike          Thomas          16     KY       pg0357b.txt
+359b 9    Pike          Tresa E         14     KY       pg0357b.txt
+337b 29   Platt         Samuel          24     KY       pg0336b.txt
+342b 6    Poke          William         50     KY       pg0336b.txt
+429a 38   Polin         Margaret        16     KY       pg0420b.txt
+399a 32   Porter        C A             28     KY       pg0389a.txt
+377a 31   Porter        Guie            14     KY       pg0368a.txt
+399a 34   Porter        James H         1      KY       pg0389a.txt
+399a 33   Porter        Martha A        28     KY       pg0389a.txt
+377a 30   Porter        Mary            54     MD       pg0368a.txt
+389b 42   Powell        James W         14     KY       pg0389a.txt
+390a 1    Powell        John M          9      KY       pg0389a.txt
+390a 2    Powell        Thomas H        7      KY       pg0389a.txt
+387b 22   Power         M               23     Ireland  pg0378b.txt
+410b 37   Powers        George          23     KY       pg0410a.txt
+410b 38   Powers        Louisa          18     KY       pg0410a.txt
+388a 36   Prather       Robert          12     KY       pg0378b.txt
+371b 32   Prewett       Eliza           50     KY       pg0368a.txt
+424a 25   Prewitt       Barthena        19     KY       pg0420b.txt
+345a 42   Prewitt       Catherine       19     KY       pg0336b.txt
+424a 24   Prewitt       Charles         24     KY       pg0420b.txt
+330b 13   Prewitt       James           19     KY       pg0326a.txt
+424a 22   Prewitt       John            65     VA       pg0420b.txt
+330b 15   Prewitt       Joseph          12     KY       pg0326a.txt
+330b 12   Prewitt       Martha          43     KY       pg0326a.txt
+396a 11   Prewitt       Mary            33     KY       pg0389a.txt
+330b 11   Prewitt       Meredith        45     KY       pg0326a.txt
+427a 3    Prewitt       Merida          12     KY       pg0420b.txt
+396a 10   Prewitt       R               43     KY       pg0389a.txt
+330b 14   Prewitt       Redmond B       17     KY       pg0326a.txt
+424a 23   Prewitt       Sally           60     KY       pg0420b.txt
+396a 14   Prewitt       Samuel M        9      KY       pg0389a.txt
+396a 15   Prewitt       Sarah M         3      KY       pg0389a.txt
+396a 13   Prewitt       Susan M         11     KY       pg0389a.txt
+396a 12   Prewitt       Thomas J        16     KY       pg0389a.txt
+403a 28   Preyor        Feba            28     KY       pg0399b.txt
+403a 29   Preyor        Permilia T      5      KY       pg0399b.txt
+403a 27   Preyor        Samuel          32     KY       pg0399b.txt
+403a 30   Preyor        Sue E           2      KY       pg0399b.txt
+410b 8    Price         Angeline        14     KY       pg0410a.txt
+349a 13   Price         Elizabeth       25     KY       pg0347a.txt
+410b 11   Price         Elizabeth       6      KY       pg0410a.txt
+410b 13   Price         James           9/12   KY       pg0410a.txt
+410b 12   Price         Josephine       4      KY       pg0410a.txt
+349a 15   Price         Louisa          1      KY       pg0347a.txt
+349a 14   Price         Lucinda         3      KY       pg0347a.txt
+410b 10   Price         Mary G          8      KY       pg0410a.txt
+390b 17   Price         Nancy           92     KY       pg0389a.txt
+410b 7    Price         Sarah A         38     KY       pg0410a.txt
+410b 6    Price         Thomas W        38     KY       pg0410a.txt
+349a 12   Price         William         26     KY       pg0347a.txt
+410b 9    Price         William L       10     KY       pg0410a.txt
+390b 23   Pricrus       Adaline         25     France   pg0389a.txt
+387b 41   Prisa         Alexander       15     KY       pg0378b.txt
+361b 22   Pumphrey      Hamilton        49     MD       pg0357b.txt
+361b 24   Pumphrey      Marietta        7      KY       pg0357b.txt
+361b 25   Pumphrey      Sarah E         5      KY       pg0357b.txt
+361b 23   Pumphrey      Susan G         33     KY       pg0357b.txt
+361b 27   Pumphrey      T J?            3/12   KY       pg0357b.txt
+361b 26   Pumphrey      William C       3      KY       pg0357b.txt
+332a 19   Purdum        David M         32     KY       pg0326a.txt
+332a 20   Purdum        Elizabeth       30     KY       pg0326a.txt
+332a 23   Purdum        Lucinda A       8      KY       pg0326a.txt
+332a 21   Purdum        Mary M          13     KY       pg0326a.txt
+332a 24   Purdum        Nancy E         6      KY       pg0326a.txt
+332a 27   Purdum        Robert L        1      KY       pg0326a.txt
+332a 22   Purdum        Sarah F         10     KY       pg0326a.txt
+332a 26   Purdum        Thomas M        4      KY       pg0326a.txt
+332a 25   Purdum        William S       4      KY       pg0326a.txt
+344a 42   Purdy         Aaron           47     KY       pg0336b.txt
+388b 6    Purdy         Adaline         15     KY       pg0378b.txt
+415b 2    Purdy         Ann E           5      KY       pg0410a.txt
+415a 38   Purdy         B F             37     KY       pg0410a.txt
+334a 37   Purdy         Daniel          49     KY       pg0326a.txt
+407b 37   Purdy         Daniel H        30     KY       pg0399b.txt
+399a 31   Purdy         E C             39     KY       pg0389a.txt
+394b 30   Purdy         Edward          39     KY       pg0389a.txt
+334a 38   Purdy         Elizabeth       47     KY       pg0326a.txt
+334a 41   Purdy         H W             17     KY       pg0326a.txt
+408a 12   Purdy         Herses          19     KY       pg0399b.txt
+344b 6    Purdy         James R         7      KY       pg0336b.txt
+329b 28   Purdy         John            41     KY       pg0326a.txt
+329b 33   Purdy         John            5      KY       pg0326a.txt
+344b 2    Purdy         John            24     KY       pg0336b.txt
+415a 41   Purdy         John F          11     KY       pg0410a.txt
+407b 39   Purdy         John M          2      KY       pg0399b.txt
+396b 36   Purdy         John S          58     KY       pg0389a.txt
+388b 7    Purdy         John W          12     KY       pg0378b.txt
+346b 28   Purdy         Leonard         6/12   KY       pg0336b.txt
+388b 3    Purdy         Lidia           49     KY       pg0378b.txt
+416a 24   Purdy         Louisa          26     KY       pg0410a.txt
+344b 8    Purdy         M E             2      KY       pg0336b.txt
+346b 26   Purdy         M J             24     KY       pg0336b.txt
+394b 29   Purdy         Margaret        65     PA       pg0389a.txt
+408a 11   Purdy         Margaret E      18     KY       pg0399b.txt
+415a 42   Purdy         Margaret J      9      KY       pg0410a.txt
+344b 5    Purdy         Martha Jane     12     KY       pg0336b.txt
+334a 42   Purdy         Mary            14     IL       pg0326a.txt
+407b 38   Purdy         Mary            25     KY       pg0399b.txt
+329b 32   Purdy         Mary A          7      KY       pg0326a.txt
+410b 5    Purdy         Mary A          1      KY       pg0410a.txt
+344b 4    Purdy         Mary E          17     KY       pg0336b.txt
+415b 1    Purdy         Mary F          7      KY       pg0410a.txt
+388b 5    Purdy         Mary J          21     KY       pg0378b.txt
+329b 29   Purdy         Mary M          25     KY       pg0326a.txt
+329b 34   Purdy         Mary M          4/12   KY       pg0326a.txt
+334b 3    Purdy         Milford         8      VA       pg0326a.txt
+334a 39   Purdy         Nancy           22     KY       pg0326a.txt
+344b 1    Purdy         Nancy           45     KY       pg0336b.txt
+343b 39   Purdy         Parris          46     KY       pg0336b.txt
+408a 10   Purdy         Phillip         35     KY       pg0399b.txt
+388b 4    Purdy         Presley S       22     KY       pg0378b.txt
+410b 4    Purdy         Rachael         23     KY       pg0410a.txt
+346b 27   Purdy         Richard         2      KY       pg0336b.txt
+334b 2    Purdy         Robert          10     VA       pg0326a.txt
+410b 3    Purdy         Robert          30     KY       pg0410a.txt
+388b 8    Purdy         Robert S        9      KY       pg0378b.txt
+329b 31   Purdy         Samuel          9      KY       pg0326a.txt
+334b 1    Purdy         Sarah           12     KY       pg0326a.txt
+343b 40   Purdy         Sarah           26     KY       pg0336b.txt
+354a 3    Purdy         Sarah           69     VA       pg0347a.txt
+415a 39   Purdy         Sarah A         25     KY       pg0410a.txt
+416a 25   Purdy         Sarah M         5      KY       pg0410a.txt
+329b 30   Purdy         Stephen         12     KY       pg0326a.txt
+394b 28   Purdy         Stephen         65     PA       pg0389a.txt
+415b 3    Purdy         Susan A         1      KY       pg0410a.txt
+334b 4    Purdy         Susan F         2      VA       pg0326a.txt
+334a 40   Purdy         Thomas          20     KY       pg0326a.txt
+344b 7    Purdy         Thomas H        5      KY       pg0336b.txt
+416a 26   Purdy         Thomas H        3      KY       pg0410a.txt
+416a 23   Purdy         Thomas S        30     KY       pg0410a.txt
+396b 41   Purdy         W W             18     KY       pg0389a.txt
+344b 3    Purdy         William         22     KY       pg0336b.txt
+394b 31   Purdy         William         24     KY       pg0389a.txt
+416a 27   Purdy         William A       7/12   KY       pg0410a.txt
+415a 40   Purdy         William C       13     KY       pg0410a.txt
+396a 5    Purdy         William M       22     KY       pg0389a.txt
+346b 25   Purdy         William T       26     KY       pg0336b.txt
+390a 39   Quinn         James           37     Ireland  pg0389a.txt
+373a 32   Quinn         Paul            12     KY       pg0368a.txt
+366b 40   Quinn         Sarah           21     KY       pg0357b.txt
+373a 10   Radican       Emil            6      AL       pg0368a.txt
+413b 32   Ragland       Danile          33     KY       pg0410a.txt
+413b 33   Ragland       Polly           43     NC       pg0410a.txt
+417a 17   Rakes         Ann E           9      KY       pg0410a.txt
+417a 18   Rakes         Bernetta        8      KY       pg0410a.txt
+417a 29   Rakes         Ellen           2      KY       pg0410a.txt
+417a 27   Rakes         James           5      KY       pg0410a.txt
+418b 26   Rakes         James           26     KY       pg0410a.txt
+417a 28   Rakes         Jane            3      KY       pg0410a.txt
+417a 16   Rakes         John            11     KY       pg0410a.txt
+417a 23   Rakes         John            75     KY       pg0410a.txt
+417a 26   Rakes         Louisa          23     KY       pg0410a.txt
+417a 15   Rakes         Lucinda         12     KY       pg0410a.txt
+417a 20   Rakes         Nancy           4      KY       pg0410a.txt
+417a 24   Rakes         Polly           23     KY       pg0410a.txt
+417a 25   Rakes         Reuben          28     VA       pg0410a.txt
+417a 19   Rakes         William         6      KY       pg0410a.txt
+417a 22   Rakes         William         30     KY       pg0410a.txt
+417a 14   Rakes         William P       42     VA       pg0410a.txt
+417a 21   Rakes         Wilson          2      KY       pg0410a.txt
+409b 39   Raley         Althan          35     KY       pg0399b.txt
+409b 7    Raley         America         41     KY       pg0399b.txt
+336a 16   Raley         Ann R           5      KY       pg0326a.txt
+409b 40   Raley         Barney V        11     KY       pg0399b.txt
+338a 10   Raley         Benedict        38     KY       pg0336b.txt
+341b 14   Raley         Benedict        62     MD       pg0336b.txt
+407a 6    Raley         Catherine       25     KY       pg0399b.txt
+341b 16   Raley         Celia           27     KY       pg0336b.txt
+428b 17   Raley         Cornelius       55     MD       pg0420b.txt
+336a 15   Raley         Cynthia Ann     6      KY       pg0326a.txt
+409b 26   Raley         Dena A          36     KY       pg0399b.txt
+428b 18   Raley         Doretha         60     MD       pg0420b.txt
+400a 6    Raley         Elizabeth       3      KY       pg0399b.txt
+406b 2    Raley         Elizabeth       30     KY       pg0399b.txt
+409b 9    Raley         Elizabeth       14     KY       pg0399b.txt
+410b 31   Raley         Elizabeth       24     KY       pg0410a.txt
+329b 17   Raley         Ellen           39     KY       pg0326a.txt
+410a 14   Raley         Fanny           55     KY       pg0410a.txt
+396a 26   Raley         Francis         32     KY       pg0389a.txt
+338b 14   Raley         G W             12     KY       pg0336b.txt
+328b 3    Raley         George          11     KY       pg0326a.txt
+407a 9    Raley         George          3      KY       pg0399b.txt
+409b 35   Raley         George          9      KY       pg0399b.txt
+409b 30   Raley         George M        10/12  KY       pg0399b.txt
+336a 14   Raley         Herena          7      KY       pg0326a.txt
+409b 34   Raley         Isam            31     KY       pg0399b.txt
+407a 8    Raley         James           5      KY       pg0399b.txt
+409b 25   Raley         James           42     KY       pg0399b.txt
+329b 18   Raley         James A         11     KY       pg0326a.txt
+409b 41   Raley         James H C       7      KY       pg0399b.txt
+406b 1    Raley         James S         30     KY       pg0399b.txt
+328b 1    Raley         John            16     KY       pg0326a.txt
+409b 6    Raley         John            50     KY       pg0399b.txt
+406b 4    Raley         John A          3      KY       pg0399b.txt
+338b 12   Raley         John C          53     VA       pg0336b.txt
+327a 31   Raley         John H          2      KY       pg0326a.txt
+403b 25   Raley         John J          27     KY       pg0399b.txt
+407a 5    Raley         John S          26     KY       pg0399b.txt
+403b 28   Raley         Julia A         5/12   KY       pg0399b.txt
+409b 10   Raley         Julia A         4      KY       pg0399b.txt
+409b 28   Raley         Juliana         11     KY       pg0399b.txt
+341b 15   Raley         Kisiah          61     NC       pg0336b.txt
+409b 27   Raley         Laura A         14     KY       pg0399b.txt
+336a 13   Raley         Letitia E       27     IA       pg0326a.txt
+329b 16   Raley         Levi            34     KY       pg0326a.txt
+341b 17   Raley         Louisa          17     KY       pg0336b.txt
+338a 12   Raley         Louisa A        7      KY       pg0336b.txt
+410a 19   Raley         Lydia Ann       12     KY       pg0410a.txt
+328b 2    Raley         M J             13     KY       pg0326a.txt
+327a 29   Raley         Margaret        23     KY       pg0326a.txt
+409b 42   Raley         Margaret A      2      KY       pg0399b.txt
+410b 32   Raley         Martha J        12     KY       pg0410a.txt
+409b 8    Raley         Martin          20     KY       pg0399b.txt
+338b 13   Raley         Mary            52     KY       pg0336b.txt
+400a 5    Raley         Mary            5      KY       pg0399b.txt
+403b 26   Raley         Mary            35     KY       pg0399b.txt
+329b 20   Raley         Mary A          5      KY       pg0326a.txt
+410a 17   Raley         Mary Ann        16     KY       pg0410a.txt
+409b 29   Raley         Mary E          8      KY       pg0399b.txt
+409b 37   Raley         Mary E          6      KY       pg0399b.txt
+327a 30   Raley         Mary L          3      KY       pg0326a.txt
+409b 36   Raley         Nancy           8      KY       pg0399b.txt
+410b 30   Raley         Nancy           45     KY       pg0410a.txt
+329b 22   Raley         Nancy A         2/12   KY       pg0326a.txt
+403b 27   Raley         Nancy H         2      KY       pg0399b.txt
+336a 18   Raley         P H             2      KY       pg0326a.txt
+338a 11   Raley         Rebecca         42     KY       pg0336b.txt
+410b 34   Raley         Richard         3      KY       pg0410a.txt
+406b 3    Raley         Robert F        5      KY       pg0399b.txt
+410b 33   Raley         Sally           9      KY       pg0410a.txt
+329b 21   Raley         Samuel G        3      KY       pg0326a.txt
+409b 38   Raley         Silvester       40     KY       pg0399b.txt
+327a 28   Raley         Stephen         26     KY       pg0326a.txt
+407a 7    Raley         Susan           7      KY       pg0399b.txt
+428b 19   Raley         Susan           21     KY       pg0420b.txt
+403b 29   Raley         Susan A         5/12   KY       pg0399b.txt
+410a 18   Raley         Susan Ann       14     KY       pg0410a.txt
+329b 19   Raley         Susan E         8      KY       pg0326a.txt
+336a 17   Raley         Susan E         4      KY       pg0326a.txt
+341b 21   Raley         Thomas          20     KY       pg0336b.txt
+410a 15   Raley         Thomas          18     KY       pg0410a.txt
+410b 35   Raley         Warrington      23     KY       pg0410a.txt
+407a 10   Raley         William         6/12   KY       pg0399b.txt
+410a 13   Raley         William         51     KY       pg0410a.txt
+336a 12   Raley         William M       33     KY       pg0326a.txt
+422a 17   Ramsey        Elizabeth       30     KY       pg0420b.txt
+421b 40   Ramsey        Frances A       86     VA       pg0420b.txt
+366b 2    Ramsey        Green           24     KY       pg0357b.txt
+422a 16   Ramsey        James A         30     KY       pg0420b.txt
+366b 1    Ramsey        James V         7/12   KY       pg0357b.txt
+366a 41   Ramsey        N A             22     KY       pg0357b.txt
+366a 42   Ramsey        R H             4      KY       pg0357b.txt
+422a 19   Ramsey        Sarah E         1      KY       pg0420b.txt
+422a 18   Ramsey        Susan E         3      KY       pg0420b.txt
+366a 40   Ramsey        Wesley          31     KY       pg0357b.txt
+397a 4    Raney         Edward          12     KY       pg0389a.txt
+396b 42   Raney         Edward          58     KY       pg0389a.txt
+397a 1    Raney         Elizabeth       57     KY       pg0389a.txt
+397a 2    Raney         Elizabeth       18     KY       pg0389a.txt
+397a 3    Raney         Nancy           15     KY       pg0389a.txt
+423a 22   Rations       Dattical R      13     KY       pg0420b.txt
+348a 17   Ratliff       Amanda          2/12   KY       pg0347a.txt
+348a 16   Ratliff       L J             1      KY       pg0347a.txt
+348a 14   Ratliff       Mary S          23     KY       pg0347a.txt
+348a 15   Ratliff       Rebecca J       3      KY       pg0347a.txt
+348a 13   Ratliff       William T       23     KY       pg0347a.txt
+364b 37   Ray           A E             8      KY       pg0357b.txt
+364b 34   Ray           Albert N        14     KY       pg0357b.txt
+374b 13   Ray           Annetta         2      KY       pg0368a.txt
+374a 8    Ray           Ben             50     MD       pg0368a.txt
+374b 14   Ray           Caroline        82     MD       pg0368a.txt
+382b 29   Ray           Cordelia        13     KY       pg0378b.txt
+381a 10   Ray           Daniel          26     KY       pg0378b.txt
+364b 11   Ray           David           16     KY       pg0357b.txt
+374b 10   Ray           David M         9      KY       pg0368a.txt
+364b 36   Ray           E P             10     KY       pg0357b.txt
+350b 42   Ray           Eliza           1      KY       pg0347a.txt
+381a 11   Ray           Eliza           26     KY       pg0378b.txt
+374b 7    Ray           Elizabeth       34     KY       pg0368a.txt
+382b 25   Ray           Elizabeth       20     KY       pg0378b.txt
+350b 35   Ray           Elizabeth       19     KY       pg0347a.txt
+337b 26   Ray           Elizabeth T     1      KY       pg0336b.txt
+364b 40   Ray           Fanny           1      KY       pg0357b.txt
+353a 38   Ray           G W             7      KY       pg0347a.txt
+343a 8    Ray           H B             14     KY       pg0336b.txt
+374b 8    Ray           Isaac           14     KY       pg0368a.txt
+337b 25   Ray           Isabella C      5      KY       pg0336b.txt
+350b 37   Ray           J H             10     KY       pg0347a.txt
+350b 39   Ray           James D         8      KY       pg0347a.txt
+350b 32   Ray           John            52     KY       pg0347a.txt
+374a 10   Ray           John            12     KY       pg0368a.txt
+374b 11   Ray           John B          7      KY       pg0368a.txt
+350b 2    Ray           Jordan          4      KY       pg0347a.txt
+364b 13   Ray           Josephine       10     KY       pg0357b.txt
+337b 24   Ray           L N             8      KY       pg0336b.txt
+350b 4    Ray           Lucinda         7/12   KY       pg0347a.txt
+364b 39   Ray           Lucy            4      KY       pg0357b.txt
+326a 29   Ray           M A C           21     KY       pg0326a.txt
+353a 36   Ray           Madaline        21     KY       pg0347a.txt
+350b 33   Ray           Margaret        44     KY       pg0347a.txt
+350b 41   Ray           Margaret        3      KY       pg0347a.txt
+382b 24   Ray           Margaret        57     VA       pg0378b.txt
+364b 33   Ray           Margaret J      36     KY       pg0357b.txt
+350b 36   Ray           Martena         17     KY       pg0347a.txt
+374b 12   Ray           Martha J        5      KY       pg0368a.txt
+381a 9    Ray           Mary            30     KY       pg0378b.txt
+326a 28   Ray           N S             27     KY       pg0326a.txt
+382b 27   Ray           N W             17     KY       pg0378b.txt
+374a 9    Ray           Nancy           53     MD       pg0368a.txt
+374b 9    Ray           Nancy           12     KY       pg0368a.txt
+337b 23   Ray           Nancy B         10     KY       pg0336b.txt
+337b 19   Ray           Peter B         39     KY       pg0336b.txt
+364b 38   Ray           Priscilla       6      KY       pg0357b.txt
+364b 41   Ray           Prudence        91     VA       pg0357b.txt
+350a 41   Ray           R C             46     KY       pg0347a.txt
+364b 9    Ray           Rebecca         40     KY       pg0357b.txt
+364b 8    Ray           Richard         51     KY       pg0357b.txt
+382b 28   Ray           Richard         15     KY       pg0378b.txt
+364b 10   Ray           Richard J       20     KY       pg0357b.txt
+381a 8    Ray           Samuel          73     MD       pg0378b.txt
+364b 32   Ray           Samuel T        46     KY       pg0357b.txt
+350b 38   Ray           Sarah           12     KY       pg0347a.txt
+364b 14   Ray           Sarah           8      KY       pg0357b.txt
+364b 12   Ray           Sarah A         12     KY       pg0357b.txt
+337b 22   Ray           Sarah R         13     KY       pg0336b.txt
+382b 26   Ray           Solomon         19     KY       pg0378b.txt
+391b 9    Ray           Solomon         20     KY       pg0389a.txt
+350b 1    Ray           Spencer A       10     KY       pg0347a.txt
+353a 35   Ray           Stephen         40     KY       pg0347a.txt
+350b 34   Ray           Susan           21     KY       pg0347a.txt
+353a 37   Ray           Susan J         9      KY       pg0347a.txt
+337b 21   Ray           Susan M         15     KY       pg0336b.txt
+350a 42   Ray           Susan M         32     KY       pg0347a.txt
+350b 3    Ray           Wallace         2      KY       pg0347a.txt
+350b 40   Ray           William         6      KY       pg0347a.txt
+399b 29   Ray           William         23     KY       pg0399b.txt
+364b 35   Ray           William N       12     KY       pg0357b.txt
+337b 20   Ray           Z P             34     KY       pg0336b.txt
+374b 6    Ray           Zachariah       43     KY       pg0368a.txt
+383b 22   Rease         Brittania       19     MD       pg0378b.txt
+383b 25   Rease         Ellen           13     MD       pg0378b.txt
+383b 27   Rease         Jane            9      MD       pg0378b.txt
+383b 26   Rease         John            11     MD       pg0378b.txt
+383b 20   Rease         Louisa          45     MD       pg0378b.txt
+383b 24   Rease         Martena         15     MD       pg0378b.txt
+383b 21   Rease         Meredith        21     MD       pg0378b.txt
+383b 23   Rease         Milla           17     MD       pg0378b.txt
+383b 28   Rease         Nancy           7      MD       pg0378b.txt
+383b 19   Rease         Richard         50     MD       pg0378b.txt
+387b 35   Redden        Ann             25     Ireland  pg0378b.txt
+421a 40   Reed          Adaline         10     KY       pg0420b.txt
+399b 26   Reed          Bunanesta       2      KY       pg0399b.txt
+421a 37   Reed          Elizabeth       17     KY       pg0420b.txt
+421a 38   Reed          Elvira          16     KY       pg0420b.txt
+421a 41   Reed          George W        4      KY       pg0420b.txt
+387b 21   Reed          John            20     Ireland  pg0378b.txt
+421a 34   Reed          John            53     MD       pg0420b.txt
+399b 22   Reed          John P          41     KY       pg0399b.txt
+399b 27   Reed          John P Jr.      3/12   KY       pg0399b.txt
+399b 24   Reed          Josephine       8      KY       pg0399b.txt
+399b 23   Reed          Julia A         34     KY       pg0399b.txt
+399b 25   Reed          Julia A         5      KY       pg0399b.txt
+421a 35   Reed          Margaret        37     KY       pg0420b.txt
+421a 36   Reed          Mary Etta       19     KY       pg0420b.txt
+421a 39   Reed          Nancy           13     KY       pg0420b.txt
+421a 42   Reed          Saint L         10/12  KY       pg0420b.txt
+388a 18   Reed          William         14     KY       pg0378b.txt
+388a 13   Reilgan       Matthew         12     KY       pg0378b.txt
+391a 26   Reverty       Sarah           12     KY       pg0389a.txt
+330b 26   Rhinehart     Sarah           43     KY       pg0326a.txt
+330b 28   Rhinehart     Susan E         20     KY       pg0326a.txt
+330b 27   Rhinehart     Thomas          26     KY       pg0326a.txt
+330b 25   Rhinehart     William         59     PA       pg0326a.txt
+366a 13   Rhinehart     William H       20     KY       pg0357b.txt
+403a 23   Rice          Caroline        15     KY       pg0399b.txt
+421b 39   Rice          Elizabeth       1      KY       pg0420b.txt
+388a 26   Rice          Frances         21     Ireland  pg0378b.txt
+403a 24   Rice          Gemima A        12     KY       pg0399b.txt
+403a 25   Rice          John L          8      KY       pg0399b.txt
+403a 19   Rice          John M          47     KY       pg0399b.txt
+403a 26   Rice          Julia           4      KY       pg0399b.txt
+421b 38   Rice          Lucinda J       19     KY       pg0420b.txt
+403a 20   Rice          Margaret        47     KY       pg0399b.txt
+403a 22   Rice          Nancy           17     KY       pg0399b.txt
+421b 37   Rice          Richard C       23     KY       pg0420b.txt
+403a 21   Rice          Sarah M         19     KY       pg0399b.txt
+371a 28   Richardson    Adaline         1      KY       pg0368a.txt
+371a 26   Richardson    David           5      KY       pg0368a.txt
+371a 25   Richardson    John G          8      KY       pg0368a.txt
+371a 21   Richardson    Julia A         35     KY       pg0368a.txt
+371a 27   Richardson    Martha E        3      KY       pg0368a.txt
+371a 23   Richardson    Mary E          13     KY       pg0368a.txt
+371a 22   Richardson    Nancy J         16     KY       pg0368a.txt
+426b 13   Richardson    Robert          24     KY       pg0420b.txt
+371a 24   Richardson    Samuel          10     KY       pg0368a.txt
+426b 14   Richardson    Susan           27     KY       pg0420b.txt
+371a 20   Richardson    William         39     VA       pg0368a.txt
+340b 8    Rickets       Alphonso P      5      KY       pg0336b.txt
+340b 5    Rickets       Elizabeth M     36     KY       pg0336b.txt
+340b 6    Rickets       Emily           8      KY       pg0336b.txt
+340b 9    Rickets       M L             7/12   KY       pg0336b.txt
+340b 4    Rickets       Moses           41     KY       pg0336b.txt
+340b 7    Rickets       William M       7      KY       pg0336b.txt
+330a 38   Riddin        Levi            18     KY       pg0326a.txt
+404b 9    Ridge         Caroline        10     KY       pg0399b.txt
+404b 8    Ridge         Eliza A         13     KY       pg0399b.txt
+404b 5    Ridge         Elmira A        21     KY       pg0399b.txt
+404b 3    Ridge         Ephram          47     KY       pg0399b.txt
+404b 6    Ridge         Francis         18     KY       pg0399b.txt
+404a 15   Ridge         Francis M       19     KY       pg0399b.txt
+368a 20   Ridge         Isaac           62     MD       pg0368a.txt
+368a 22   Ridge         Isaac K         22     KY       pg0368a.txt
+368a 24   Ridge         James W         13     KY       pg0368a.txt
+429a 27   Ridge         John            20     KY       pg0420b.txt
+368a 27   Ridge         Joseph C        7      KY       pg0368a.txt
+368a 21   Ridge         Margaret        37     KY       pg0368a.txt
+368a 26   Ridge         Mariah E        10     KY       pg0368a.txt
+368a 28   Ridge         Martitia        5      KY       pg0368a.txt
+404b 4    Ridge         Mary A          43     KY       pg0399b.txt
+368a 29   Ridge         Mary J          2      KY       pg0368a.txt
+404b 7    Ridge         Mary J          16     KY       pg0399b.txt
+368a 25   Ridge         Perlina J       12     KY       pg0368a.txt
+368a 23   Ridge         Sarah A M       20     KY       pg0368a.txt
+404b 10   Ridge         Sarah E         8      KY       pg0399b.txt
+403a 5    Riggs         Ama             3      KY       pg0399b.txt
+402b 41   Riggs         Barbra          49     KY       pg0399b.txt
+402b 26   Riggs         Betsy           32     KY       pg0399b.txt
+360b 17   Riggs         Catherine       10     KY       pg0357b.txt
+377a 34   Riggs         Darcus          35     KY       pg0368a.txt
+360b 19   Riggs         E J             6      KY       pg0357b.txt
+360b 16   Riggs         Elizabeth       12     KY       pg0357b.txt
+403a 1    Riggs         Ellen           15     KY       pg0399b.txt
+360b 15   Riggs         G W             14     KY       pg0357b.txt
+360b 12   Riggs         George          38     KY       pg0357b.txt
+402b 42   Riggs         George          16     KY       pg0399b.txt
+402b 25   Riggs         Henry           34     KY       pg0399b.txt
+402b 31   Riggs         James           3      KY       pg0399b.txt
+403a 3    Riggs         John            10     KY       pg0399b.txt
+402b 40   Riggs         Leo             41     KY       pg0399b.txt
+360b 21   Riggs         Letitia         3      KY       pg0357b.txt
+403a 6    Riggs         Luvina          6/12   KY       pg0399b.txt
+360b 20   Riggs         M V J           5      KY       pg0357b.txt
+360b 18   Riggs         Margaret        8      KY       pg0357b.txt
+402b 28   Riggs         Mariah A        10     KY       pg0399b.txt
+402b 27   Riggs         Mary Jane       10     KY       pg0399b.txt
+360b 13   Riggs         Nancy           36     KY       pg0357b.txt
+360b 22   Riggs         Nancy           1      KY       pg0357b.txt
+403a 2    Riggs         Polly           13     KY       pg0399b.txt
+402b 29   Riggs         Polly A         6      KY       pg0399b.txt
+377a 35   Riggs         Rutha           77     VA       pg0368a.txt
+403a 4    Riggs         Thomas          8      KY       pg0399b.txt
+390a 12   Riggs         William         26     KY       pg0389a.txt
+377a 33   Riggs         William D       40     KY       pg0368a.txt
+360b 14   Riggs         William R       16     KY       pg0357b.txt
+402b 30   Riggs         Wilson          4      KY       pg0399b.txt
+412b 19   Riley         Elizabeth       20     KY       pg0410a.txt
+420a 13   Riley         Elizabeth       22     IA       pg0410a.txt
+363b 37   Riley         Emily           3      KY       pg0357b.txt
+363b 36   Riley         G B             2      KY       pg0357b.txt
+363b 31   Riley         Hannah J        12     KY       pg0357b.txt
+412b 18   Riley         Hiram           21     KY       pg0410a.txt
+420a 12   Riley         Hiram           23     IA       pg0410a.txt
+329a 1    Riley         James           42     NC       pg0326a.txt
+420a 14   Riley         James R         4/12   IA       pg0410a.txt
+329a 9    Riley         James W         3      KY       pg0326a.txt
+329a 3    Riley         John            13     KY       pg0326a.txt
+363b 29   Riley         John            43     OH       pg0357b.txt
+363b 35   Riley         John            4      KY       pg0357b.txt
+363b 34   Riley         Lucy            6      KY       pg0357b.txt
+329a 8    Riley         Martha E        4      KY       pg0326a.txt
+329a 7    Riley         Mary A          5      KY       pg0326a.txt
+329a 2    Riley         Minerva         35     NC       pg0326a.txt
+363b 32   Riley         N E             10     IN       pg0357b.txt
+329a 6    Riley         N J             7      KY       pg0326a.txt
+363b 33   Riley         Sarah           8      KY       pg0357b.txt
+329a 5    Riley         Sarah A         9      KY       pg0326a.txt
+329a 4    Riley         Seth William    11     KY       pg0326a.txt
+363b 30   Riley         Susan           34     KY       pg0357b.txt
+372b 41   Rinehart      Edward T        2      KY       pg0368a.txt
+372b 38   Rinehart      Frances         30     KY       pg0368a.txt
+366a 31   Rinehart      Hines N         7      KY       pg0357b.txt
+366a 29   Rinehart      James W         33     KY       pg0357b.txt
+372b 40   Rinehart      John W          8      KY       pg0368a.txt
+372b 39   Rinehart      Mary A          12     KY       pg0368a.txt
+366a 32   Rinehart      Mary F          5      KY       pg0357b.txt
+366a 30   Rinehart      Perlina         30     KY       pg0357b.txt
+366b 22   Rinehart      Sarah           15     KY       pg0357b.txt
+372b 37   Rinehart      William F       35     KY       pg0368a.txt
+366b 21   Rinehart      Zachariah       13     KY       pg0357b.txt
+399a 1    Riney         Ben R           6      KY       pg0389a.txt
+400a 13   Riney         Cleland         21     KY       pg0399b.txt
+399a 41   Riney         Eleanor         70     MD       pg0389a.txt
+400a 14   Riney         Eliza           20     KY       pg0399b.txt
+398b 40   Riney         Ellen           34     KY       pg0389a.txt
+400a 19   Riney         Frances         8      KY       pg0399b.txt
+419b 37   Riney         Francis         38     KY       pg0410a.txt
+398b 42   Riney         James W         7      KY       pg0389a.txt
+400a 11   Riney         Jesse T         54     KY       pg0399b.txt
+388a 2    Riney         John            16     KY       pg0378b.txt
+400a 15   Riney         John            18     KY       pg0399b.txt
+398b 39   Riney         Joseph D        34     KY       pg0389a.txt
+398b 41   Riney         Mariah J        11     KY       pg0389a.txt
+400a 16   Riney         Mary            14     KY       pg0399b.txt
+400a 12   Riney         Mary E          45     KY       pg0399b.txt
+419b 36   Riney         Nancy           68     MD       pg0410a.txt
+394b 16   Riney         Nelly           75     MD       pg0389a.txt
+419b 38   Riney         Richard         22     KY       pg0410a.txt
+400a 17   Riney         Samuel          11     KY       pg0399b.txt
+400a 18   Riney         Sarah           9      KY       pg0399b.txt
+399a 2    Riney         Thomas          1      KY       pg0389a.txt
+390b 22   Rioden        Gengaza         23     Ireland  pg0389a.txt
+390b 6    Rival         Emily           24     Canada   pg0389a.txt
+388a 10   Roach         John            10     KY       pg0378b.txt
+343b 23   Roberts       Eliza E         14     KY       pg0336b.txt
+343b 20   Roberts       Frances         55     KY       pg0336b.txt
+343b 24   Roberts       Frances J       10     KY       pg0336b.txt
+343b 22   Roberts       G B             16     KY       pg0336b.txt
+388a 41   Roberts       George          16     KY       pg0378b.txt
+332b 15   Roberts       Marcellus C     4      KY       pg0326a.txt
+343b 21   Roberts       Mary Z          20     KY       pg0336b.txt
+429a 31   Roberts       Eliza E         15     KY       pg0420b.txt
+428a 11   Robertson     Alexander       12     KY       pg0420b.txt
+428a 13   Robertson     Amanda B        3      KY       pg0420b.txt
+363a 25   Robertson     Ann             69     PA       pg0357b.txt
+405a 33   Robertson     Catherine       60     KY       pg0399b.txt
+428a 10   Robertson     Daniel          16     KY       pg0420b.txt
+334b 42   Robertson     Daniel          16     KY       pg0326a.txt
+363a 40   Robertson     Delcena         25     KY       pg0357b.txt
+405a 35   Robertson     Elvira          19     KY       pg0399b.txt
+363a 26   Robertson     Felix           30     KY       pg0357b.txt
+363a 29   Robertson     H J             3      KY       pg0357b.txt
+428a 12   Robertson     James W         10     KY       pg0420b.txt
+363a 38   Robertson     Jesse           60     KY       pg0357b.txt
+405a 34   Robertson     John            17     KY       pg0399b.txt
+363a 39   Robertson     Margaret        58     KY       pg0357b.txt
+411a 21   Robertson     Mary A          23     KY       pg0410a.txt
+411a 23   Robertson     Mary E          11/12  KY       pg0410a.txt
+428a 8    Robertson     Nathaniel       44     IN       pg0420b.txt
+411a 22   Robertson     Newton J        5      KY       pg0410a.txt
+428a 9    Robertson     Polly           29     KY       pg0420b.txt
+363a 24   Robertson     Samuel          68     VA       pg0357b.txt
+363a 27   Robertson     Samuel          25     KY       pg0357b.txt
+417b 30   Robertson     Sarah           68     KY       pg0410a.txt
+405a 32   Robertson     Simeon          65     KY       pg0399b.txt
+363a 28   Robertson     Virginia        23     VA       pg0357b.txt
+391a 28   Robertson     Virginia        13     NY       pg0389a.txt
+411a 20   Robertson     William         27     TN       pg0410a.txt
+417b 29   Robertson     William         80     VA       pg0410a.txt
+363a 30   Robertson     William H       2      KY       pg0357b.txt
+428a 14   Robertson     Zachariah T     1      KY       pg0420b.txt
+358a 30   Rodes         A V             7      KY       pg0357b.txt
+365b 42   Rodes         Amelia          8      KY       pg0357b.txt
+365b 33   Rodes         Bennett         75     MD       pg0357b.txt
+378a 40   Rodes         Catherine       5      KY       pg0368a.txt
+365b 38   Rodes         E A J           18     KY       pg0357b.txt
+365b 37   Rodes         E H             48     KY       pg0357b.txt
+365b 34   Rodes         Eleanor         69     MD       pg0357b.txt
+365b 40   Rodes         H B D           12     KY       pg0357b.txt
+358a 26   Rodes         John L          48     KY       pg0357b.txt
+358a 29   Rodes         Louisa          9      KY       pg0357b.txt
+365b 35   Rodes         Lucion          22     DC       pg0357b.txt
+365b 39   Rodes         M C M           16     KY       pg0357b.txt
+429a 5    Rodes         Mary            66     MD       pg0420b.txt
+358a 27   Rodes         Mary E          14     KY       pg0357b.txt
+358a 28   Rodes         Sarah           12     KY       pg0357b.txt
+365b 36   Rodes         William         50     DC       pg0357b.txt
+365b 41   Rodes         William T       10     KY       pg0357b.txt
+420b 23   Rodis         Charles W       8      KY       pg0420b.txt
+420b 20   Rodis         Hillary         32     KY       pg0420b.txt
+420b 21   Rodis         Louisa          37     KY       pg0420b.txt
+420b 26   Rodis         Louisa          1      KY       pg0420b.txt
+420b 22   Rodis         Mary C          9      KY       pg0420b.txt
+420b 25   Rodis         Nancy J         3      KY       pg0420b.txt
+420b 24   Rodis         William M       6      KY       pg0420b.txt
+330a 34   Rodman        David           67     KY       pg0326a.txt
+330a 35   Rodman        Elizabeth       65     PA       pg0326a.txt
+330a 33   Rodman        Josephine       15     KY       pg0326a.txt
+334a 15   Rogers        Acillis         19     KY       pg0326a.txt
+401b 33   Rogers        Amanda J        11/12  KY       pg0399b.txt
+401b 32   Rogers        Charles W       2      KY       pg0399b.txt
+401b 29   Rogers        Elijah          30     KY       pg0399b.txt
+401b 31   Rogers        Elizabeth C     4      KY       pg0399b.txt
+395a 11   Rogers        George          26     KY       pg0389a.txt
+395a 12   Rogers        Jane            25     KY       pg0389a.txt
+401b 34   Rogers        Margaret        21     OH       pg0399b.txt
+395a 13   Rogers        Mary            63     VA       pg0389a.txt
+401b 30   Rogers        Rutha A         32     KY       pg0399b.txt
+427a 30   Roller        Betsy           11     KY       pg0420b.txt
+427a 39   Roller        Casey           19     KY       pg0420b.txt
+427a 26   Roller        Charles         11     KY       pg0420b.txt
+427a 28   Roller        Edy             29     KY       pg0420b.txt
+427a 23   Roller        Elizabeth       25     KY       pg0420b.txt
+427a 29   Roller        James           12     KY       pg0420b.txt
+427a 40   Roller        James           16     KY       pg0420b.txt
+427a 31   Roller        John            9      KY       pg0420b.txt
+427a 38   Roller        Martha          22     KY       pg0420b.txt
+427b 1    Roller        Mary A          3      KY       pg0420b.txt
+427a 27   Roller        Maston          23     KY       pg0420b.txt
+427a 33   Roller        Moses           1      KY       pg0420b.txt
+427a 24   Roller        Nancy J         15     KY       pg0420b.txt
+427a 32   Roller        Polly           7      KY       pg0420b.txt
+427a 37   Roller        Polly           30     VA       pg0420b.txt
+427a 25   Roller        Solomon         13     KY       pg0420b.txt
+427a 41   Roller        Stephen         8      KY       pg0420b.txt
+427a 42   Roller        William         6      KY       pg0420b.txt
+367b 12   Rolling       Cinthia E       20     KY       pg0357b.txt
+367b 11   Rolling       Jeremiah        55     KY       pg0357b.txt
+361a 8    Rollins       Alexander       57     MD       pg0357b.txt
+361a 15   Rollins       Alexander       21     KY       pg0357b.txt
+414a 41   Rollins       Alson           29     KY       pg0410a.txt
+361a 21   Rollins       Arrena          7      KY       pg0357b.txt
+361a 9    Rollins       C A             48     KY       pg0357b.txt
+344a 13   Rollins       David           44     KY       pg0336b.txt
+344a 18   Rollins       E A             6      KY       pg0336b.txt
+344a 14   Rollins       Elizabeth       37     KY       pg0336b.txt
+361a 11   Rollins       Elizabeth       27     KY       pg0357b.txt
+428a 21   Rollins       Elizabeth       50     KY       pg0420b.txt
+428a 22   Rollins       Henry           23     KY       pg0420b.txt
+414b 1    Rollins       Henry T         7/12   KY       pg0410a.txt
+344a 17   Rollins       J C             9      KY       pg0336b.txt
+428a 20   Rollins       John            70     VA       pg0420b.txt
+361a 10   Rollins       John C          29     KY       pg0357b.txt
+361a 13   Rollins       Joseph E        24     KY       pg0357b.txt
+428a 23   Rollins       Lewis           18     KY       pg0420b.txt
+344a 19   Rollins       M B             1      KY       pg0336b.txt
+361a 16   Rollins       Margaret        19     KY       pg0357b.txt
+414a 42   Rollins       Mariah          17     KY       pg0410a.txt
+361a 19   Rollins       Martha          12     KY       pg0357b.txt
+361a 18   Rollins       Mary            14     KY       pg0357b.txt
+344a 15   Rollins       Mary Ann        16     KY       pg0336b.txt
+361a 12   Rollins       Percilla        25     KY       pg0357b.txt
+361a 20   Rollins       Sarah C         9      KY       pg0357b.txt
+361a 14   Rollins       Trisa J         22     KY       pg0357b.txt
+344a 16   Rollins       Usibra          14     KY       pg0336b.txt
+361a 17   Rollins       William D       16     KY       pg0357b.txt
+359a 31   Roney         Henrietta       59     MD       pg0357b.txt
+405a 37   Roots         Anabel          33     KY       pg0399b.txt
+405a 36   Roots         Joseph          33     KY       pg0399b.txt
+405a 38   Roots         Mary E          4      KY       pg0399b.txt
+405a 40   Roots         Simeon L        6/12   KY       pg0399b.txt
+405a 39   Roots         William R       3      KY       pg0399b.txt
+422a 33   Rose          Betsy A         35     KY       pg0420b.txt
+428b 4    Rose          Hiram           4      KY       pg0420b.txt
+424b 25   Rose          James           12     KY       pg0420b.txt
+423a 37   Rose          John            6      KY       pg0420b.txt
+415a 7    Rose          Joseph          1      KY       pg0410a.txt
+422b 41   Rose          Louisa          14     KY       pg0420b.txt
+415a 6    Rose          Martha A        18     KY       pg0410a.txt
+415a 8    Rose          Mary A          11     KY       pg0410a.txt
+422a 32   Rose          Nancy           65     KY       pg0420b.txt
+422a 34   Rose          Polly           30     KY       pg0420b.txt
+415a 12   Rose          Sandy           23     KY       pg0410a.txt
+415a 5    Rose          William P       35     KY       pg0410a.txt
+391b 3    Rosenberry    Nancy           17     KY       pg0389a.txt
+367a 3    Rowe          Catherine       38     KY       pg0357b.txt
+413b 17   Rowe          Catherine       40     KY       pg0410a.txt
+367a 2    Rowe          Michael         30     KY       pg0357b.txt
+413b 16   Rowe          Michael         38     KY       pg0410a.txt
+334b 7    Rowland       Henry           49     KY       pg0326a.txt
+334b 9    Rowland       James A         13     KY       pg0326a.txt
+334b 8    Rowland       Mary            40     KY       pg0326a.txt
+334b 11   Rowland       Mary E          5/12   KY       pg0326a.txt
+334b 10   Rowland       Nancy A         7      KY       pg0326a.txt
+326a 16   Rowntree      Charles         2      KY       pg0326a.txt
+326a 17   Rowntree      John            2/12   KY       pg0326a.txt
+326a 12   Rowntree      R H             37     KY       pg0326a.txt
+326a 13   Rowntree      Sally Ann       34     KY       pg0326a.txt
+355a 22   Ruley         Alonso          4      KY       pg0347a.txt
+355a 20   Ruley         Martina         38     KY       pg0347a.txt
+355a 21   Ruley         P A             7      KY       pg0347a.txt
+355a 19   Ruley         R A             40     VA       pg0347a.txt
+355a 23   Ruley         Susan           1      KY       pg0347a.txt
+405a 13   Russell       Allen R         11     KY       pg0399b.txt
+353b 28   Russell       Angeline        7      KY       pg0347a.txt
+353b 24   Russell       Ann             17     KY       pg0347a.txt
+355b 40   Russell       Catherine       40     KY       pg0347a.txt
+398a 3    Russell       Catherine       35     KY       pg0389a.txt
+351b 29   Russell       Charles         21     KY       pg0347a.txt
+353b 20   Russell       Charles         53     KY       pg0347a.txt
+353b 23   Russell       Charles         19     KY       pg0347a.txt
+356a 6    Russell       Charles         28     KY       pg0347a.txt
+354a 37   Russell       Charles J       13     KY       pg0347a.txt
+354a 36   Russell       Cordilia        15     KY       pg0347a.txt
+353b 27   Russell       David           9      KY       pg0347a.txt
+355b 41   Russell       David           19     KY       pg0347a.txt
+356a 10   Russell       E J             3      KY       pg0347a.txt
+351b 34   Russell       Elias           37     KY       pg0347a.txt
+354a 33   Russell       Elias           58     KY       pg0347a.txt
+353b 25   Russell       Eliza           15     KY       pg0347a.txt
+354a 34   Russell       Elizabeth       53     KY       pg0347a.txt
+354a 35   Russell       Elizabeth       17     KY       pg0347a.txt
+356a 5    Russell       Elizabeth       5      KY       pg0347a.txt
+351b 31   Russell       Elizabeth       23     KY       pg0347a.txt
+338a 4    Russell       Ellen A         4      KY       pg0336b.txt
+405a 10   Russell       Ezekiel W       17     KY       pg0399b.txt
+351b 28   Russell       G L             17     KY       pg0347a.txt
+405a 7    Russell       George          54     VA       pg0399b.txt
+333b 32   Russell       George B        17     KY       pg0326a.txt
+355b 39   Russell       Ignatius        40     KY       pg0347a.txt
+398a 7    Russell       Isabella        1      KY       pg0389a.txt
+333b 26   Russell       James           54     KY       pg0326a.txt
+351b 27   Russell       James           33     KY       pg0347a.txt
+353b 22   Russell       Jane            22     KY       pg0347a.txt
+333b 29   Russell       John            48     KY       pg0326a.txt
+333b 34   Russell       John            11     KY       pg0326a.txt
+394a 9    Russell       John            24     KY       pg0389a.txt
+338a 1    Russell       John            28     KY       pg0336b.txt
+353b 26   Russell       Joseph          13     KY       pg0347a.txt
+398a 2    Russell       Joseph          46     KY       pg0389a.txt
+398a 5    Russell       Joseph          6      KY       pg0389a.txt
+356a 9    Russell       Joseph N        5      KY       pg0347a.txt
+353b 21   Russell       Julia A         45     KY       pg0347a.txt
+351b 30   Russell       Levina          25     KY       pg0347a.txt
+356a 7    Russell       Louisa E        28     KY       pg0347a.txt
+405a 9    Russell       Louisa J        23     KY       pg0399b.txt
+405a 12   Russell       Lydia A         13     KY       pg0399b.txt
+354a 38   Russell       Martha          10     KY       pg0347a.txt
+405a 11   Russell       Martha E        15     KY       pg0399b.txt
+338a 2    Russell       Mary A          29     KY       pg0336b.txt
+353b 29   Russell       Mary A          5      KY       pg0347a.txt
+356a 8    Russell       Mary A          6      KY       pg0347a.txt
+398a 4    Russell       Mary A          9      KY       pg0389a.txt
+338a 6    Russell       Mary F          8/12   KY       pg0336b.txt
+356a 1    Russell       Mary J          17     KY       pg0347a.txt
+356a 2    Russell       Michael         11     KY       pg0347a.txt
+405a 14   Russell       Nancy J         9      KY       pg0399b.txt
+356a 3    Russell       Nicholas        9      KY       pg0347a.txt
+351b 33   Russell       Perdilia        19     KY       pg0347a.txt
+333b 31   Russell       Permilia        18     KY       pg0326a.txt
+405a 15   Russell       Rachael         7      KY       pg0399b.txt
+356a 11   Russell       Rosana          1      KY       pg0347a.txt
+338a 5    Russell       Rosella         2      KY       pg0336b.txt
+351b 26   Russell       Sarah           47     MD       pg0347a.txt
+333b 30   Russell       Sarah           51     KY       pg0326a.txt
+394a 10   Russell       Sarah A         23     KY       pg0389a.txt
+398a 6    Russell       Sarah A         4      KY       pg0389a.txt
+338a 3    Russell       Sarapita        6      KY       pg0336b.txt
+405a 16   Russell       Susan H         5      KY       pg0399b.txt
+333b 33   Russell       Susan J         15     KY       pg0326a.txt
+405a 8    Russell       Susannah        40     KY       pg0399b.txt
+333b 28   Russell       Thomas          12     KY       pg0326a.txt
+356a 4    Russell       Unreadable      7      KY       pg0347a.txt
+333b 27   Russell       William         29     KY       pg0326a.txt
+351b 25   Russell       William         54     KY       pg0347a.txt
+351b 32   Russell       William         21     KY       pg0347a.txt
+337a 6    Ryan          James           20     KY       pg0336b.txt
+337a 5    Ryan          John            22     KY       pg0336b.txt
+337a 3    Ryan          Margaret        28     KY       pg0336b.txt
+337a 2    Ryan          Samuel          64     MD       pg0336b.txt
+337a 4    Ryan          Thomas          24     KY       pg0336b.txt
+407a 32   Ryder         Augustin        40     Germany  pg0399b.txt
+399b 42   Saddler       Betsy           22     KY       pg0399b.txt
+400a 3    Saddler       Eli             12     KY       pg0399b.txt
+400a 1    Saddler       Jane            22     KY       pg0399b.txt
+400a 4    Saddler       Mathew          9      KY       pg0399b.txt
+399b 40   Saddler       Robert          67     VA       pg0399b.txt
+400a 2    Saddler       Thomas          16     KY       pg0399b.txt
+399b 41   Saddler       Wilsnot         50     VA       pg0399b.txt
+405b 18   Sally         Austin          25     KY       pg0399b.txt
+405b 28   Sally         Elica           19     KY       pg0399b.txt
+405b 17   Sally         Elizabeth       46     KY       pg0399b.txt
+405b 22   Sally         George          17     KY       pg0399b.txt
+405b 24   Sally         John T          12     KY       pg0399b.txt
+405b 20   Sally         Kesiah          21     KY       pg0399b.txt
+405b 27   Sally         Lete            20     KY       pg0399b.txt
+405b 21   Sally         Mariah          19     KY       pg0399b.txt
+405b 23   Sally         Mary A          14     KY       pg0399b.txt
+405b 26   Sally         Sarah E         5      KY       pg0399b.txt
+405b 25   Sally         Susan           7      KY       pg0399b.txt
+405b 19   Sally         Valentine       24     KY       pg0399b.txt
+387b 34   Sample        Mary            38     Ireland  pg0378b.txt
+390b 18   Sample        Veronica        30     Ireland  pg0389a.txt
+388a 39   Sandsbury     F M             15     KY       pg0378b.txt
+331b 39   Sandusky      Esther          50     KY       pg0326a.txt
+331b 38   Sandusky      John            51     KY       pg0326a.txt
+331b 40   Sandusky      Thomas          17     KY       pg0326a.txt
+415a 13   Sandusky      Thomas          19     KY       pg0410a.txt
+327a 21   Sapp          A M             5      KY       pg0326a.txt
+364a 17   Sapp          Adaline         17     KY       pg0357b.txt
+363a 18   Sapp          Allen           26     KY       pg0357b.txt
+363b 15   Sapp          B B             7      KY       pg0357b.txt
+364a 8    Sapp          Benjamin        64     Del      pg0357b.txt
+398b 2    Sapp          Catherine       51     PA       pg0389a.txt
+402b 35   Sapp          Charlotta       14     KY       pg0399b.txt
+341a 21   Sapp          E T             3/12   KY       pg0336b.txt
+363a 16   Sapp          Elizabeth       23     KY       pg0357b.txt
+364a 9    Sapp          Elizabeth       61     KY       pg0357b.txt
+364a 11   Sapp          Elizabeth       16     KY       pg0357b.txt
+401b 15   Sapp          Elizabeth       7      KY       pg0399b.txt
+341a 20   Sapp          Elizabeth       4      KY       pg0336b.txt
+341a 15   Sapp          Ephram          34     KY       pg0336b.txt
+363a 19   Sapp          Fanny           23     KY       pg0357b.txt
+398a 41   Sapp          Franklin        28     KY       pg0389a.txt
+328b 27   Sapp          George          23     KY       pg0326a.txt
+328b 26   Sapp          Henny           60     KY       pg0326a.txt
+363b 14   Sapp          J A             9      KY       pg0357b.txt
+363b 12   Sapp          J M             14     KY       pg0357b.txt
+363a 42   Sapp          Jacob           25     KY       pg0357b.txt
+328b 25   Sapp          James           50     MD       pg0326a.txt
+364a 12   Sapp          James           37     KY       pg0357b.txt
+364a 14   Sapp          James           2      KY       pg0357b.txt
+327a 22   Sapp          Jane            2      KY       pg0326a.txt
+327a 19   Sapp          Jasper          10     KY       pg0326a.txt
+402b 34   Sapp          John C          15     KY       pg0399b.txt
+398b 4    Sapp          John T          13     KY       pg0389a.txt
+402b 32   Sapp          Logan           38     KY       pg0399b.txt
+327a 20   Sapp          Louisa          7      KY       pg0326a.txt
+398b 1    Sapp          Lucretia J      3      KY       pg0389a.txt
+398b 3    Sapp          Lydia A         16     KY       pg0389a.txt
+363b 13   Sapp          Margaret A      13     KY       pg0357b.txt
+364a 13   Sapp          Martha          23     KY       pg0357b.txt
+402b 39   Sapp          Martha J        1      KY       pg0399b.txt
+327a 18   Sapp          Mary            32     KY       pg0326a.txt
+403b 39   Sapp          Mary            19     KY       pg0399b.txt
+364a 16   Sapp          Miller          23     KY       pg0357b.txt
+363a 15   Sapp          Nathan          27     KY       pg0357b.txt
+402b 37   Sapp          Nathan          8      KY       pg0399b.txt
+341a 16   Sapp          Paralee         30     KY       pg0336b.txt
+401b 14   Sapp          Penera          30     KY       pg0399b.txt
+403b 38   Sapp          Peter           21     KY       pg0399b.txt
+327a 17   Sapp          Quinton         32     KY       pg0326a.txt
+400a 28   Sapp          Raphael K       22     KY       pg0399b.txt
+328b 28   Sapp          Raphul K        21     KY       pg0326a.txt
+363b 1    Sapp          Rebecca         18     KY       pg0357b.txt
+402b 36   Sapp          Rebecca A       12     KY       pg0399b.txt
+364a 10   Sapp          Reed            19     KY       pg0357b.txt
+364a 15   Sapp          Reed            1      KY       pg0357b.txt
+341a 18   Sapp          Rowan           9      KY       pg0336b.txt
+401b 17   Sapp          Rufus           24     KY       pg0399b.txt
+401b 13   Sapp          Sarah           60     KY       pg0399b.txt
+402b 33   Sapp          Sarah           32     KY       pg0399b.txt
+401b 16   Sapp          Sarah D         4      KY       pg0399b.txt
+402b 38   Sapp          Sarah E         6      KY       pg0399b.txt
+398a 42   Sapp          Susan Mary      22     KY       pg0389a.txt
+341a 17   Sapp          Theodore        11     KY       pg0336b.txt
+401b 12   Sapp          Theodore        63     Delaware pg0399b.txt
+364a 18   Sapp          William         2/12   KY       pg0357b.txt
+341a 19   Sapp          William B       6      KY       pg0336b.txt
+328b 29   Sapp          William G       18     KY       pg0326a.txt
+363a 17   Sapp          William P       3      KY       pg0357b.txt
+334a 16   Savage        Charles         27     KY       pg0326a.txt
+334a 17   Savage        Margaret A      18     KY       pg0326a.txt
+343b 28   Scales        A W             44     VA       pg0336b.txt
+343b 36   Scales        Anna            6      KY       pg0336b.txt
+343b 31   Scales        E C             16     NC       pg0336b.txt
+343b 29   Scales        Ellen C         44     KY       pg0336b.txt
+343b 35   Scales        Ellen C         8      KY       pg0336b.txt
+343b 30   Scales        James W         18     VA       pg0336b.txt
+343b 37   Scales        Laura           4      KY       pg0336b.txt
+343b 38   Scales        Mary L          2      KY       pg0336b.txt
+343b 32   Scales        Thomas C        14     NC       pg0336b.txt
+343b 33   Scales        Walker          12     NC       pg0336b.txt
+343b 34   Scales        William M       8      KY       pg0336b.txt
+407a 35   Scanland      Isabella        25     KY       pg0399b.txt
+407a 37   Scanland      James W         5      KY       pg0399b.txt
+407a 36   Scanland      John H          9      KY       pg0399b.txt
+415a 16   Scanland      John W          26     KY       pg0410a.txt
+374a 25   Scanland      Nancy           20     KY       pg0368a.txt
+407b 42   Scanland      Sarah           12     KY       pg0399b.txt
+407a 38   Scanland      Susan           24     KY       pg0399b.txt
+374a 24   Scanland      William         23     KY       pg0368a.txt
+407a 34   Scanland      William F       35     KY       pg0399b.txt
+398b 37   Schooling     Dimeon          2      KY       pg0389a.txt
+398b 31   Schooling     Elizabeth       40     Ireland  pg0389a.txt
+398b 30   Schooling     James           52     KY       pg0389a.txt
+398b 35   Schooling     James W         10     KY       pg0389a.txt
+398b 36   Schooling     Joseph R        8      KY       pg0389a.txt
+398b 32   Schooling     Mary Jane       17     KY       pg0389a.txt
+398b 34   Schooling     Samuel          12     KY       pg0389a.txt
+398b 33   Schooling     Sarah L         15     KY       pg0389a.txt
+348b 31   Scott         Ann             42     KY       pg0347a.txt
+348b 16   Scott         Elijah          64     KY       pg0347a.txt
+374b 35   Scott         Elijah N        1      KY       pg0368a.txt
+348a 40   Scott         Eliza F         12     KY       pg0347a.txt
+348b 19   Scott         Elizabeth       16     KY       pg0347a.txt
+348a 36   Scott         Elizabeth J     22     KY       pg0347a.txt
+348b 22   Scott         Emily           2      KY       pg0347a.txt
+348a 34   Scott         George S        49     KY       pg0347a.txt
+348b 35   Scott         George W        50     KY       pg0347a.txt
+417a 7    Scott         George W        45     KY       pg0410a.txt
+374b 31   Scott         James           33     KY       pg0368a.txt
+352b 25   Scott         James F         15     KY       pg0347a.txt
+348b 33   Scott         Jane            40     KY       pg0347a.txt
+374b 36   Scott         John B          23     KY       pg0368a.txt
+348a 42   Scott         John D          6      KY       pg0347a.txt
+417a 13   Scott         John E          5/12   KY       pg0410a.txt
+417a 10   Scott         Joseph          10     KY       pg0410a.txt
+417a 12   Scott         Lucinda         3      KY       pg0410a.txt
+348b 1    Scott         Maranda J       2      KY       pg0347a.txt
+348b 17   Scott         Mary            58     KY       pg0347a.txt
+348b 21   Scott         Mary            20     KY       pg0347a.txt
+352b 24   Scott         Mary            44     KY       pg0347a.txt
+417a 8    Scott         Mary A          32     IN       pg0410a.txt
+374b 34   Scott         Mary S          2      KY       pg0368a.txt
+374b 32   Scott         McAtilus        27     KY       pg0368a.txt
+348b 32   Scott         Polly           38     KY       pg0347a.txt
+348a 35   Scott         Rachael         48     KY       pg0347a.txt
+348b 20   Scott         Richard         24     KY       pg0347a.txt
+348b 30   Scott         Richard         36     KY       pg0347a.txt
+348b 38   Scott         Richard D       17     KY       pg0347a.txt
+348a 37   Scott         Richard M       20     KY       pg0347a.txt
+352b 23   Scott         Robert H        44     KY       pg0347a.txt
+348b 37   Scott         Robert M        23     KY       pg0347a.txt
+348a 39   Scott         Samuel M        16     KY       pg0347a.txt
+348b 36   Scott         Sarah           47     KY       pg0347a.txt
+348a 38   Scott         Sarah A         18     KY       pg0347a.txt
+417a 9    Scott         Thomas          15     KY       pg0410a.txt
+348b 18   Scott         William         18     KY       pg0347a.txt
+417a 11   Scott         William         6      KY       pg0410a.txt
+348a 41   Scott         William H       8      KY       pg0347a.txt
+374b 33   Scott         William T       4      KY       pg0368a.txt
+326b 13   Sexton        Betty           40     KY       pg0326a.txt
+342b 17   Shackleford   E F             41     SC       pg0336b.txt
+342b 20   Shackleford   Ellen F         1/12   KY       pg0336b.txt
+342b 19   Shackleford   Mary            3      KY       pg0336b.txt
+342b 18   Shackleford   Susan R         29     KY       pg0336b.txt
+342b 1    Shadburn      Prudence        53     PA       pg0336b.txt
+416a 28   Sharp         Harvey          35     KY       pg0410a.txt
+416a 30   Sharp         James           7      KY       pg0410a.txt
+416a 31   Sharp         John            5      KY       pg0410a.txt
+334b 6    Sharp         Martha          20     KY       pg0326a.txt
+416a 32   Sharp         Mary E          4      KY       pg0410a.txt
+416a 29   Sharp         Sarah           37     KY       pg0410a.txt
+416a 33   Sharp         Sarah E         2      KY       pg0410a.txt
+334b 5    Sharp         Thomas          30     MD       pg0326a.txt
+333b 4    Shaw          Elmira T        25     KY       pg0326a.txt
+333b 5    Shaw          George D        3      KY       pg0326a.txt
+333b 3    Shaw          James P         30     KY       pg0326a.txt
+333b 6    Shaw          Louisa          1      KY       pg0326a.txt
+380b 36   Shehan        Artemisa        19     KY       pg0378b.txt
+344b 9    Shehan        James           49     KY       pg0336b.txt
+380b 35   Shehan        John            20     KY       pg0378b.txt
+344b 10   Shehan        Nancy           47     KY       pg0336b.txt
+380b 34   Shehan        Rebecca         75     PA       pg0378b.txt
+344b 12   Shehan        Thomas          19     KY       pg0336b.txt
+344b 11   Shehan        William R       14     KY       pg0336b.txt
+344a 12   Shelton       William T       1      KY       pg0336b.txt
+391a 36   Shinault      Mary            16     KY       pg0389a.txt
+393a 31   Shockley      Anastatia       45     KY       pg0389a.txt
+409a 5    Shockley      Rebecca         39     MD       pg0399b.txt
+409a 4    Shockley      Robert          23     KY       pg0399b.txt
+393a 32   Shockley      Thomas C        5      KY       pg0389a.txt
+398b 18   Short         A B             3      KY       pg0389a.txt
+398b 16   Short         Bodine F        8      KY       pg0389a.txt
+326b 31   Short         Elizabeth       4      KY       pg0326a.txt
+326b 32   Short         James C         1      KY       pg0326a.txt
+326b 28   Short         John P          12     KY       pg0326a.txt
+326b 26   Short         Joseph          34     KY       pg0326a.txt
+398b 12   Short         Joshua          37     KY       pg0389a.txt
+398b 15   Short         M J             13     KY       pg0389a.txt
+326b 33   Short         Martha          3      KY       pg0326a.txt
+326b 27   Short         Mary Jane       30     KY       pg0326a.txt
+326b 30   Short         Polly E         6      KY       pg0326a.txt
+398b 13   Short         Rebecca         34     KY       pg0389a.txt
+398b 19   Short         Robert F        7/12   KY       pg0389a.txt
+326b 29   Short         Robert S        10     KY       pg0326a.txt
+398b 17   Short         Squire Penick   5      KY       pg0389a.txt
+398b 14   Short         William P       15     KY       pg0389a.txt
+329a 26   Shrieves      Abner           27     KY       pg0326a.txt
+328b 8    Shrieves      Amanda F        13     KY       pg0326a.txt
+328b 4    Shrieves      Benjamin        43     VA       pg0326a.txt
+329a 27   Shrieves      Eliza           23     KY       pg0326a.txt
+328b 5    Shrieves      Elizabeth       46     VA       pg0326a.txt
+328b 7    Shrieves      Franklin        15     KY       pg0326a.txt
+329a 28   Shrieves      Maranda         1      KY       pg0326a.txt
+328b 6    Shrieves      Winfield        17     KY       pg0326a.txt
+387a 30   Shuck         David           44     KY       pg0378b.txt
+338b 31   Shuck         Eveline         52     KY       pg0336b.txt
+399b 8    Shuck         Fanny           3      KY       pg0399b.txt
+399b 6    Shuck         Finley          7      KY       pg0399b.txt
+338b 29   Shuck         Henry           47     KY       pg0336b.txt
+397b 4    Shuck         John            16     KY       pg0389a.txt
+399b 1    Shuck         John            41     KY       pg0399b.txt
+399b 3    Shuck         Joseph          14     KY       pg0399b.txt
+399b 2    Shuck         Lucretia C      38     KY       pg0399b.txt
+397b 1    Shuck         M S             50     PA       pg0389a.txt
+397b 3    Shuck         Mary            21     KY       pg0389a.txt
+399b 7    Shuck         Mary            5      KY       pg0399b.txt
+338b 30   Shuck         Mary B          78     PA       pg0336b.txt
+399b 4    Shuck         Octava          12     KY       pg0399b.txt
+429a 41   Shuck         Octava          14     KY       pg0420b.txt
+397b 2    Shuck         Priscilla       49     KY       pg0389a.txt
+397b 5    Shuck         Solomon         12     KY       pg0389a.txt
+399b 5    Shuck         Susan           10     KY       pg0399b.txt
+405b 9    Simpson       Angeline        17     KY       pg0399b.txt
+373b 10   Simpson       Asa             57     VA       pg0368a.txt
+372a 37   Simpson       Betsy M         22     KY       pg0368a.txt
+405b 14   Simpson       Bluford         5      KY       pg0399b.txt
+372b 27   Simpson       E B             1      KY       pg0368a.txt
+372a 19   Simpson       Eli             12     KY       pg0368a.txt
+372b 26   Simpson       Eliza           21     KY       pg0368a.txt
+372a 38   Simpson       Eliza F         15     KY       pg0368a.txt
+372a 18   Simpson       Elizabeth       20     KY       pg0368a.txt
+372b 24   Simpson       Elizabeth       45     KY       pg0368a.txt
+405b 32   Simpson       Elizabeth       42     KY       pg0399b.txt
+405b 8    Simpson       Elvira          19     KY       pg0399b.txt
+428b 16   Simpson       George          14     KY       pg0420b.txt
+405b 12   Simpson       George          10     KY       pg0399b.txt
+405b 40   Simpson       George W        24     KY       pg0399b.txt
+372b 25   Simpson       James           22     KY       pg0368a.txt
+405b 7    Simpson       James           21     KY       pg0399b.txt
+428b 13   Simpson       James           47     KY       pg0420b.txt
+405b 33   Simpson       James B         25     KY       pg0399b.txt
+406a 1    Simpson       James H         1      KY       pg0399b.txt
+373b 14   Simpson       Jeremiah        3      KY       pg0368a.txt
+372a 36   Simpson       Jesse           24     KY       pg0368a.txt
+428b 15   Simpson       John            17     KY       pg0420b.txt
+405b 35   Simpson       John B          20     KY       pg0399b.txt
+405b 42   Simpson       John B          3      KY       pg0399b.txt
+405b 13   Simpson       John L          8      KY       pg0399b.txt
+405b 15   Simpson       Julia A         3      KY       pg0399b.txt
+405b 34   Simpson       Levica          22     KY       pg0399b.txt
+405b 11   Simpson       Malvina         13     KY       pg0399b.txt
+405b 41   Simpson       Marda           19     KY       pg0399b.txt
+405b 36   Simpson       Mariah J        17     KY       pg0399b.txt
+405b 39   Simpson       Martha          7      KY       pg0399b.txt
+373b 11   Simpson       Mary            56     VA       pg0368a.txt
+373b 13   Simpson       Mary            16     KY       pg0368a.txt
+405b 16   Simpson       Mary F          1      KY       pg0399b.txt
+405b 5    Simpson       Meletus         41     KY       pg0399b.txt
+372a 17   Simpson       Milburn         16     KY       pg0368a.txt
+405b 6    Simpson       Nancy           40     KY       pg0399b.txt
+372a 20   Simpson       Nancy J         10     KY       pg0368a.txt
+372a 16   Simpson       Sarah           44     KY       pg0368a.txt
+405b 38   Simpson       Susan E         13     KY       pg0399b.txt
+405b 37   Simpson       Thomas          15     KY       pg0399b.txt
+373b 12   Simpson       William         19     KY       pg0368a.txt
+405b 10   Simpson       William         16     KY       pg0399b.txt
+428b 14   Simpson       William         19     KY       pg0420b.txt
+360a 38   Sims          A L             1      KY       pg0357b.txt
+387a 12   Sims          Ann             9      KY       pg0378b.txt
+386b 26   Sims          Barbary E       3      KY       pg0378b.txt
+360a 10   Sims          Basbra A        5      KY       pg0357b.txt
+347b 3    Sims          Benedict        34     KY       pg0347a.txt
+360a 34   Sims          Columbus D      1      KY       pg0357b.txt
+347b 4    Sims          Deborah         22     IA       pg0347a.txt
+406b 5    Sims          Eleanor         63     KY       pg0399b.txt
+360a 37   Sims          Eliza           23     KY       pg0357b.txt
+360a 11   Sims          Eliza J         7/12   KY       pg0357b.txt
+387a 6    Sims          Elizabeth       39     KY       pg0378b.txt
+387a 14   Sims          Elizabeth       5      KY       pg0378b.txt
+406b 7    Sims          Elizabeth       47     KY       pg0399b.txt
+406b 12   Sims          Elizabeth       8      KY       pg0399b.txt
+404a 41   Sims          Emeline         21     KY       pg0399b.txt
+406b 10   Sims          Emeline         12     KY       pg0399b.txt
+387a 13   Sims          Emily           7      KY       pg0378b.txt
+406a 42   Sims          Felix           49     KY       pg0399b.txt
+404b 2    Sims          Ignatius        9      KY       pg0399b.txt
+406a 41   Sims          Ignatius        35     KY       pg0399b.txt
+387a 11   Sims          Isabella        11     KY       pg0378b.txt
+386b 23   Sims          James           23     KY       pg0378b.txt
+387a 8    Sims          James           17     KY       pg0378b.txt
+387a 5    Sims          James M         54     KY       pg0378b.txt
+406b 13   Sims          James M         17     KY       pg0399b.txt
+386b 25   Sims          James Thomas    5      KY       pg0378b.txt
+360a 7    Sims          James Z         28     KY       pg0357b.txt
+386b 22   Sims          Jane E          3/12   KY       pg0378b.txt
+362a 40   Sims          John            18     KY       pg0357b.txt
+387a 15   Sims          John            3      KY       pg0378b.txt
+406b 6    Sims          John            43     KY       pg0399b.txt
+406b 16   Sims          John A          12     KY       pg0399b.txt
+406b 14   Sims          John D          5      KY       pg0399b.txt
+406b 11   Sims          Julia A         10     KY       pg0399b.txt
+406b 8    Sims          Malvena         18     KY       pg0399b.txt
+406b 9    Sims          Mariah A        15     KY       pg0399b.txt
+387a 10   Sims          Martha          13     KY       pg0378b.txt
+360a 8    Sims          Mary            28     KY       pg0357b.txt
+394b 18   Sims          Mary            39     KY       pg0389a.txt
+386b 24   Sims          Mary E          26     KY       pg0378b.txt
+386b 27   Sims          Mary E          4/12   KY       pg0378b.txt
+386b 21   Sims          Matilda A       24     KY       pg0378b.txt
+360a 33   Sims          Olley J         17     KY       pg0357b.txt
+404a 42   Sims          Priscilla       2      KY       pg0399b.txt
+360a 36   Sims          Robert          31     KY       pg0357b.txt
+387a 9    Sims          Robert          15     KY       pg0378b.txt
+390b 19   Sims          Selastia        18     KY       pg0389a.txt
+386b 20   Sims          Thomas          33     KY       pg0378b.txt
+388a 29   Sims          Thomas          20     KY       pg0378b.txt
+404a 40   Sims          Thomas          26     KY       pg0399b.txt
+360a 9    Sims          Thomas          7      KY       pg0357b.txt
+360a 32   Sims          Thomas A        25     KY       pg0357b.txt
+404b 1    Sims          Thomas A        9/12   KY       pg0399b.txt
+387a 7    Sims          William         19     KY       pg0378b.txt
+388a 38   Singliton     John W          15     KY       pg0378b.txt
+414a 5    Sinkhorn      Abner           1      KY       pg0410a.txt
+414a 3    Sinkhorn      Ann             23     KY       pg0410a.txt
+414a 2    Sinkhorn      Elisha          32     KY       pg0410a.txt
+414a 4    Sinkhorn      William L       5      KY       pg0410a.txt
+336a 3    Skinner       Chaffin         19     KY       pg0326a.txt
+345b 39   Skinner       Dica            57     KY       pg0336b.txt
+336a 8    Skinner       Esan            9      KY       pg0326a.txt
+336a 6    Skinner       F M             13     KY       pg0326a.txt
+425a 40   Skinner       Gabriella       9      KY       pg0420b.txt
+336a 11   Skinner       George A        3      KY       pg0326a.txt
+336a 4    Skinner       John            17     KY       pg0326a.txt
+345b 40   Skinner       John D          19     KY       pg0336b.txt
+346a 1    Skinner       John F          11     KY       pg0336b.txt
+345b 42   Skinner       Julia A         13     KY       pg0336b.txt
+425a 37   Skinner       Julia A         16     KY       pg0420b.txt
+336a 1    Skinner       Lucy            46     KY       pg0326a.txt
+425b 6    Skinner       Lydia A         3      KY       pg0420b.txt
+425a 42   Skinner       Mary            4      KY       pg0420b.txt
+425b 8    Skinner       Mary J          9/12   KY       pg0420b.txt
+425a 38   Skinner       Nancy           16     KY       pg0420b.txt
+425a 35   Skinner       Price           56     VA       pg0420b.txt
+335b 42   Skinner       Richard         59     VA       pg0326a.txt
+336a 5    Skinner       Richard         15     KY       pg0326a.txt
+345b 38   Skinner       Roswell         42     VA       pg0336b.txt
+425a 36   Skinner       Sally           43     KY       pg0420b.txt
+425a 41   Skinner       Sally           6      KY       pg0420b.txt
+336a 7    Skinner       Samuel          11     KY       pg0326a.txt
+336a 9    Skinner       Sarah           13     KY       pg0326a.txt
+346a 2    Skinner       Sarah A         9      KY       pg0336b.txt
+336a 10   Skinner       Susan           10     KY       pg0326a.txt
+336a 2    Skinner       Thomas          21     KY       pg0326a.txt
+425a 39   Skinner       Vanburen        12     KY       pg0420b.txt
+425b 4    Skinner       Voltair         27     KY       pg0420b.txt
+425b 5    Skinner       Wenina          23     KY       pg0420b.txt
+345b 41   Skinner       William P       15     KY       pg0336b.txt
+425b 7    Skinner       Winfield        2      KY       pg0420b.txt
+415a 15   Slattings     James           20     KY       pg0410a.txt
+415a 14   Slattings     Martha          53     KY       pg0410a.txt
+335a 12   Smith         Alexander       27     KY       pg0326a.txt
+393b 26   Smith         Ambros          44     MD       pg0389a.txt
+390a 10   Smith         Andrew          3      KY       pg0389a.txt
+390a 4    Smith         Ann             37     KY       pg0389a.txt
+400b 41   Smith         Ann             13     KY       pg0399b.txt
+393b 28   Smith         Benjamin        11     KY       pg0389a.txt
+390a 5    Smith         Charles G       13     KY       pg0389a.txt
+429a 23   Smith         Dephrosia       30     KY       pg0420b.txt
+393b 27   Smith         Elen M          34     KY       pg0389a.txt
+393b 31   Smith         Elen M          2/12   KY       pg0389a.txt
+365a 30   Smith         Eliza           18     KY       pg0357b.txt
+334a 29   Smith         Elizabeth       56     KY       pg0326a.txt
+355a 1    Smith         Elizabeth       8      KY       pg0347a.txt
+357a 23   Smith         Elizabeth       26     KY       pg0347a.txt
+365a 29   Smith         Elizabeth       48     KY       pg0357b.txt
+390a 6    Smith         Emanuel         11     KY       pg0389a.txt
+361b 6    Smith         H L             24     KY       pg0357b.txt
+390a 3    Smith         Henry           40     KY       pg0389a.txt
+355a 2    Smith         I F             6      KY       pg0347a.txt
+377b 13   Smith         James P         5      KY       pg0368a.txt
+357a 22   Smith         James R         29     KY       pg0347a.txt
+365a 32   Smith         John            14     KY       pg0357b.txt
+390a 8    Smith         John            7      KY       pg0389a.txt
+393b 30   Smith         John            3      KY       pg0389a.txt
+365a 28   Smith         John B          54     KY       pg0357b.txt
+377b 12   Smith         John N P        2      KY       pg0368a.txt
+365a 33   Smith         Joseph          12     KY       pg0357b.txt
+377b 10   Smith         Joseph C        62     MD       pg0368a.txt
+354b 41   Smith         Joseph N        11     KY       pg0347a.txt
+334a 31   Smith         Lanita          21     KY       pg0326a.txt
+335a 13   Smith         Lucy A          20     KY       pg0326a.txt
+400b 40   Smith         Mariah J        64     KY       pg0399b.txt
+365a 34   Smith         Martha          10     KY       pg0357b.txt
+390a 9    Smith         Martin          5      KY       pg0389a.txt
+377b 8    Smith         Mary            21     KY       pg0368a.txt
+390a 7    Smith         Mary            9      KY       pg0389a.txt
+354b 40   Smith         Mary A          40     MD       pg0347a.txt
+390a 11   Smith         McDaniel        1/12   KY       pg0389a.txt
+377b 14   Smith         N M             3/12   KY       pg0368a.txt
+365a 31   Smith         Nancy           16     KY       pg0357b.txt
+377b 7    Smith         Phillip         25     KY       pg0368a.txt
+361b 8    Smith         R L             1      KY       pg0357b.txt
+365a 36   Smith         Richard         6      KY       pg0357b.txt
+393b 29   Smith         Robert          7      KY       pg0389a.txt
+334a 28   Smith         Samuel          59     MD       pg0326a.txt
+377b 11   Smith         Sarah           60     KY       pg0368a.txt
+361b 7    Smith         Tabitha         25     KY       pg0357b.txt
+334a 30   Smith         Thomas          27     KY       pg0326a.txt
+365a 35   Smith         Thomas          8      KY       pg0357b.txt
+357a 25   Smith         Thomas          2      KY       pg0347a.txt
+377b 9    Smith         Thomas E        8/12   KY       pg0368a.txt
+357a 24   Smith         William         7      KY       pg0347a.txt
+400b 39   Smith         William         54     PA       pg0399b.txt
+404a 6    Smithey       A J             37     KY       pg0399b.txt
+404a 8    Smithey       Martha A        11     KY       pg0399b.txt
+404a 7    Smithey       Mary            37     KY       pg0399b.txt
+363a 8    Smock         Abraham         37     KY       pg0357b.txt
+386a 23   Smock         Albert          26     KY       pg0378b.txt
+386a 7    Smock         Allen T         19     KY       pg0378b.txt
+391b 40   Smock         Edward M        4/12   KY       pg0389a.txt
+386a 2    Smock         Elizabeth       45     TN       pg0378b.txt
+391b 35   Smock         Elizabeth       8      KY       pg0389a.txt
+386a 5    Smock         Garret          6      KY       pg0378b.txt
+386a 4    Smock         Gilbert         13     KY       pg0378b.txt
+386a 8    Smock         Henry H         23     KY       pg0378b.txt
+359b 40   Smock         Henry S         23     KY       pg0357b.txt
+363a 14   Smock         J B             2      KY       pg0357b.txt
+360b 33   Smock         John            61     KY       pg0357b.txt
+391b 37   Smock         John            4      KY       pg0389a.txt
+363a 12   Smock         L J             7      KY       pg0357b.txt
+360b 34   Smock         Letta W         48     KY       pg0357b.txt
+363a 9    Smock         Lucinda         31     KY       pg0357b.txt
+359b 41   Smock         Lucy A          20     KY       pg0357b.txt
+386a 9    Smock         Lucy A          19     KY       pg0378b.txt
+377a 41   Smock         Margaret        85     SC       pg0368a.txt
+391a 14   Smock         Martha          12     KY       pg0389a.txt
+386a 24   Smock         Nancy           20     KY       pg0378b.txt
+391b 38   Smock         Nancy           3      KY       pg0389a.txt
+391b 36   Smock         Nicholas        6      KY       pg0389a.txt
+386a 25   Smock         Richard         21     KY       pg0378b.txt
+391b 39   Smock         Richard         1      KY       pg0389a.txt
+363a 13   Smock         S C             4      KY       pg0357b.txt
+363a 11   Smock         S M             9      KY       pg0357b.txt
+386a 3    Smock         Samuel          15     KY       pg0378b.txt
+391a 15   Smock         Sarah           14     KY       pg0389a.txt
+391b 34   Smock         Sarah A         27     KY       pg0389a.txt
+363a 10   Smock         William         11     KY       pg0357b.txt
+386a 1    Smock         William         52     KY       pg0378b.txt
+391b 33   Smock         William         29     KY       pg0389a.txt
+419a 24   Smothers      Betsy           3      KY       pg0410a.txt
+419b 8    Smothers      Daniel          70     NC       pg0410a.txt
+419b 14   Smothers      Daniel Jr.      31     KY       pg0410a.txt
+422a 13   Smothers      Deba            33     KY       pg0420b.txt
+343a 2    Smothers      Elizabeth       25     KY       pg0336b.txt
+422a 12   Smothers      Fanie           61     MD       pg0420b.txt
+420a 28   Smothers      Green B         6      KY       pg0410a.txt
+422a 15   Smothers      Hardin          25     KY       pg0420b.txt
+422a 14   Smothers      Harriet         27     KY       pg0420b.txt
+427a 22   Smothers      Harriet         4      KY       pg0420b.txt
+419a 22   Smothers      Isaac           8      KY       pg0410a.txt
+420a 27   Smothers      Isabella        30     KY       pg0410a.txt
+419a 19   Smothers      James           24     KY       pg0410a.txt
+419b 19   Smothers      James           2      KY       pg0410a.txt
+428a 31   Smothers      James           5      KY       pg0420b.txt
+343a 3    Smothers      James L         3      KY       pg0336b.txt
+419a 18   Smothers      John            44     KY       pg0410a.txt
+419b 18   Smothers      John            4      KY       pg0410a.txt
+428a 30   Smothers      Joseph          10     KY       pg0420b.txt
+420a 30   Smothers      Margaret        2      KY       pg0410a.txt
+419b 15   Smothers      Margaret        35     KY       pg0410a.txt
+419b 17   Smothers      Margaret E      5      KY       pg0410a.txt
+409a 8    Smothers      Mary            14     KY       pg0399b.txt
+419b 16   Smothers      Mary J          7      KY       pg0410a.txt
+420b 37   Smothers      Mary J          8      KY       pg0420b.txt
+419a 20   Smothers      Nancy           16     KY       pg0410a.txt
+420a 31   Smothers      Nancy           2      KY       pg0410a.txt
+428a 29   Smothers      Nancy           39     KY       pg0420b.txt
+420a 29   Smothers      Rebecca         4      KY       pg0410a.txt
+419b 12   Smothers      Richard         11     KY       pg0410a.txt
+427a 20   Smothers      Rolison         27     KY       pg0420b.txt
+419a 23   Smothers      Sally           6      KY       pg0410a.txt
+419b 9    Smothers      Sally           65     VA       pg0410a.txt
+428a 19   Smothers      Sally           18     KY       pg0420b.txt
+419b 20   Smothers      Samuel T        1      KY       pg0410a.txt
+427a 21   Smothers      Sarah           23     KY       pg0420b.txt
+343a 1    Smothers      Stephen         33     KY       pg0336b.txt
+343a 4    Smothers      Theadore        1      KY       pg0336b.txt
+419a 21   Smothers      Thomas          15     KY       pg0410a.txt
+420a 26   Smothers      William         29     KY       pg0410a.txt
+336b 6    Spalding      A C             7      KY       pg0336b.txt
+334a 35   Spalding      Alice           7      KY       pg0326a.txt
+403b 15   Spalding      Angaline        17     KY       pg0399b.txt
+347a 2    Spalding      Ann             60     KY       pg0347a.txt
+335a 39   Spalding      Ann E           11     KY       pg0326a.txt
+332b 40   Spalding      Appaloui?       38     KY       pg0326a.txt
+326a 30   Spalding      B               66     MD       pg0326a.txt
+336b 12   Spalding      Ben             36     KY       pg0336b.txt
+335a 42   Spalding      Benedict        30     KY       pg0326a.txt
+428b 38   Spalding      Benedict J      7      KY       pg0420b.txt
+342b 3    Spalding      Benjamin        40     KY       pg0336b.txt
+342b 4    Spalding      C A             29     KY       pg0336b.txt
+346a 37   Spalding      C E             3      KY       pg0336b.txt
+334a 36   Spalding      Caroline        5      KY       pg0326a.txt
+346b 33   Spalding      Caroline E      4      KY       pg0336b.txt
+392b 19   Spalding      Casandria       31     KY       pg0389a.txt
+365b 32   Spalding      Catherine       25     KY       pg0357b.txt
+369a 23   Spalding      Charles         6      KY       pg0368a.txt
+335b 2    Spalding      Charles G       17     KY       pg0326a.txt
+428b 39   Spalding      Cornelius       5      KY       pg0420b.txt
+335b 3    Spalding      David           23     KY       pg0326a.txt
+332b 42   Spalding      David A         26     KY       pg0326a.txt
+346a 34   Spalding      Edward          33     KY       pg0336b.txt
+337a 13   Spalding      Eliza           14     KY       pg0336b.txt
+429b 6    Spalding      Eliza           13     KY       pg0420b.txt
+326a 31   Spalding      Elizabeth       36     KY       pg0326a.txt
+333a 4    Spalding      Elizabeth       56     KY       pg0326a.txt
+333b 20   Spalding      Elizabeth       13     KY       pg0326a.txt
+335a 38   Spalding      Elizabeth       37     KY       pg0326a.txt
+394b 15   Spalding      Elizabeth       68     MD       pg0389a.txt
+342a 38   Spalding      Elizabeth       35     KY       pg0336b.txt
+335b 1    Spalding      Ellen E         22     Canada   pg0326a.txt
+334a 34   Spalding      Emma            9      KY       pg0326a.txt
+429b 19   Spalding      Emma            9      KY       pg0420b.txt
+333a 1    Spalding      Frances M       24     KY       pg0326a.txt
+333b 22   Spalding      George          10     KY       pg0326a.txt
+333b 16   Spalding      Harriet         50     KY       pg0326a.txt
+333b 21   Spalding      Harriet E       12     KY       pg0326a.txt
+336b 8    Spalding      Henrietta       3      KY       pg0336b.txt
+364b 28   Spalding      Henry           26     KY       pg0357b.txt
+333b 23   Spalding      Isabella        7      KY       pg0326a.txt
+346b 30   Spalding      Isabella        35     KY       pg0336b.txt
+409a 39   Spalding      Isabella        21     KY       pg0399b.txt
+364b 29   Spalding      Isabelle        27     KY       pg0357b.txt
+335b 4    Spalding      James           21     KY       pg0326a.txt
+392b 18   Spalding      James           40     KY       pg0389a.txt
+409a 40   Spalding      James T         6/12   KY       pg0399b.txt
+333b 15   Spalding      John            46     KY       pg0326a.txt
+336b 30   Spalding      John            29     KY       pg0336b.txt
+335a 40   Spalding      John            2      KY       pg0326a.txt
+342b 5    Spalding      John A          3      KY       pg0336b.txt
+394b 17   Spalding      John A          27     KY       pg0389a.txt
+428b 36   Spalding      John B          31     KY       pg0420b.txt
+336b 4    Spalding      John L          10     KY       pg0336b.txt
+342a 39   Spalding      John L          18     KY       pg0336b.txt
+392b 22   Spalding      John W          1      KY       pg0389a.txt
+393b 22   Spalding      Joseph          28     KY       pg0389a.txt
+409a 38   Spalding      Joseph B        22     KY       pg0399b.txt
+346b 31   Spalding      Josephine       9      KY       pg0336b.txt
+336b 7    Spalding      L H             5      KY       pg0336b.txt
+342a 37   Spalding      Leonard A       43     KY       pg0336b.txt
+332b 39   Spalding      Lewis J         61     MD       pg0326a.txt
+333a 2    Spalding      Lewis J Jr.     22     KY       pg0326a.txt
+334a 33   Spalding      Louisa          18     KY       pg0326a.txt
+336b 9    Spalding      M A             1      KY       pg0336b.txt
+346a 35   Spalding      M A             24     KY       pg0336b.txt
+346a 38   Spalding      M J             1      KY       pg0336b.txt
+342a 40   Spalding      Martin          6      KY       pg0336b.txt
+333b 25   Spalding      Martin A        3      KY       pg0326a.txt
+335a 41   Spalding      Mary            3/12   KY       pg0326a.txt
+342a 41   Spalding      Mary            4      KY       pg0336b.txt
+369a 22   Spalding      Mary            22     KY       pg0368a.txt
+369a 24   Spalding      Mary            4      KY       pg0368a.txt
+394b 12   Spalding      Mary            58     MD       pg0389a.txt
+428b 37   Spalding      Mary            31     KY       pg0420b.txt
+336b 14   Spalding      Mary E          1      KY       pg0336b.txt
+333b 19   Spalding      Mary J          15     KY       pg0326a.txt
+336b 3    Spalding      Mary J          34     KY       pg0336b.txt
+393b 23   Spalding      Mary L          29     KY       pg0389a.txt
+429a 6    Spalding      Monarcha        60     KY       pg0420b.txt
+429a 9    Spalding      P               45     KY       pg0420b.txt
+336b 34   Spalding      R A             10/12  KY       pg0336b.txt
+336b 5    Spalding      R C             8      KY       pg0336b.txt
+346b 32   Spalding      Raphael         7      KY       pg0336b.txt
+394b 11   Spalding      Richard         73     MD       pg0389a.txt
+335a 37   Spalding      Richard         34     KY       pg0326a.txt
+364b 30   Spalding      Richard B       5      KY       pg0357b.txt
+336b 2    Spalding      Richard M       41     KY       pg0336b.txt
+333a 3    Spalding      Robert          16     KY       pg0326a.txt
+392b 21   Spalding      Rose M          3      KY       pg0389a.txt
+333a 6    Spalding      Samuel          12     KY       pg0326a.txt
+346b 29   Spalding      Samuel          37     KY       pg0336b.txt
+428b 40   Spalding      Samuel          4      KY       pg0420b.txt
+336b 13   Spalding      Sarah           23     KY       pg0336b.txt
+392b 20   Spalding      Sarah A         6      KY       pg0389a.txt
+394b 13   Spalding      Susan           19     KY       pg0389a.txt
+403b 23   Spalding      Susan           80     VA       pg0399b.txt
+409b 12   Spalding      Susan           23     KY       pg0399b.txt
+336b 31   Spalding      Susan           26     KY       pg0336b.txt
+332b 41   Spalding      Susan A         22     KY       pg0326a.txt
+333b 17   Spalding      Susan E         21     KY       pg0326a.txt
+369a 21   Spalding      Theodore        26     KY       pg0368a.txt
+369a 25   Spalding      Theodore        2      KY       pg0368a.txt
+336b 33   Spalding      Thomas          5      KY       pg0336b.txt
+394b 14   Spalding      Thomas          16     KY       pg0389a.txt
+364b 31   Spalding      Thomas A        3      KY       pg0357b.txt
+333b 18   Spalding      Thomas E        20     KY       pg0326a.txt
+403b 14   Spalding      Tresa           65     MD       pg0399b.txt
+428b 41   Spalding      Tresa           10/12  KY       pg0420b.txt
+333a 5    Spalding      William         14     KY       pg0326a.txt
+365b 31   Spalding      William         26     KY       pg0357b.txt
+333b 24   Spalding      William A       6      KY       pg0326a.txt
+336b 32   Spalding      William B       7      KY       pg0336b.txt
+346a 36   Spalding      William E       5      KY       pg0336b.txt
+342a 42   Spalding      William R       1      KY       pg0336b.txt
+334a 32   Spalding      William T       31     KY       pg0326a.txt
+414a 25   Sparrow       Elizabeth       19     KY       pg0410a.txt
+371b 37   Sparrow       G W             25     KY       pg0368a.txt
+371b 39   Sparrow       George          4      KY       pg0368a.txt
+414a 26   Sparrow       Henry           16     KY       pg0410a.txt
+371b 40   Sparrow       Margaret E      1      KY       pg0368a.txt
+371b 38   Sparrow       Mary A          24     KY       pg0368a.txt
+328a 8    Sparrow       William         18     KY       pg0326a.txt
+413a 21   Sparrow       William         17     KY       pg0410a.txt
+429a 12   Speak         Charity         56     KY       pg0420b.txt
+429a 17   Speak         Harriet         35     Ireland  pg0420b.txt
+412a 9    Speaks        Elizabeth       14     KY       pg0410a.txt
+412a 6    Speaks        Sarah A         18     KY       pg0410a.txt
+409a 16   Spencer       Cynthia         30     VA       pg0399b.txt
+409a 17   Spencer       John            8      VA       pg0399b.txt
+409a 15   Spencer       Thomas          40     VA       pg0399b.txt
+328b 24   Spires        Augustus R      1      KY       pg0326a.txt
+328b 23   Spires        Becka           3      KY       pg0326a.txt
+328b 16   Spires        Elijah          37     KY       pg0326a.txt
+328b 22   Spires        Eliza           5      KY       pg0326a.txt
+412b 30   Spires        Elvira J        5      KY       pg0410a.txt
+412b 26   Spires        Francis P       34     KY       pg0410a.txt
+328b 19   Spires        James H         10     KY       pg0326a.txt
+412b 25   Spires        Joel            35     KY       pg0410a.txt
+412b 32   Spires        John B          6/12   KY       pg0410a.txt
+328b 17   Spires        Margaret        33     KY       pg0326a.txt
+412b 31   Spires        Martha E        2      KY       pg0410a.txt
+412b 29   Spires        Mary A          6      KY       pg0410a.txt
+328b 20   Spires        Mary E          9      KY       pg0326a.txt
+412b 28   Spires        Rachael E       9      KY       pg0410a.txt
+412b 27   Spires        Samuel D        11     KY       pg0410a.txt
+328b 18   Spires        Sarah E         12     KY       pg0326a.txt
+328b 21   Spires        William W       7      KY       pg0326a.txt
+408b 9    Spraggins     Alonzo F        7      KY       pg0399b.txt
+408b 7    Spraggins     J L             37     KY       pg0399b.txt
+373b 19   Spraggins     James P         24     KY       pg0368a.txt
+408b 8    Spraggins     Mary            31     KY       pg0399b.txt
+371b 27   Spratt        Frances M       6      KY       pg0368a.txt
+371b 25   Spratt        John H          10     KY       pg0368a.txt
+371b 26   Spratt        Joseph U        8      KY       pg0368a.txt
+371b 29   Spratt        Mary C          2      KY       pg0368a.txt
+371b 24   Spratt        Nancy           33     KY       pg0368a.txt
+371b 23   Spratt        R E             34     KY       pg0368a.txt
+371b 28   Spratt        Sarah           4      KY       pg0368a.txt
+422a 20   Springer      John            40     KY       pg0420b.txt
+405a 21   Spurlin       Harrison        21     KY       pg0399b.txt
+410a 23   Stanfield     Celia A         21     KY       pg0410a.txt
+418b 42   Stanfield     Eliza J         2      KY       pg0410a.txt
+410a 24   Stanfield     Elizabeth       17     KY       pg0410a.txt
+341a 3    Stanfield     Elizabeth       47     KY       pg0336b.txt
+341a 5    Stanfield     J A             13     KY       pg0336b.txt
+398a 25   Stanfield     John            18     KY       pg0389a.txt
+341a 4    Stanfield     Rebecca         16     KY       pg0336b.txt
+341a 6    Stanfield     S A             10     KY       pg0336b.txt
+341a 2    Stanfield     Samuel          44     NC       pg0336b.txt
+418b 41   Stanfield     Sarah A         19     KY       pg0410a.txt
+418b 40   Stanfield     William A       23     KY       pg0410a.txt
+429b 18   Stares        Mary            8      KY       pg0420b.txt
+373b 37   Starks        Daniel P        28     VA       pg0368a.txt
+391a 39   Starr         Mary            7      KY       pg0389a.txt
+393b 25   Starrs        Catherine       48     Ireland  pg0389a.txt
+380b 21   Station       Charita A       29     KY       pg0378b.txt
+380b 22   Station       Pelina          5      KY       pg0378b.txt
+380b 23   Station       Sarah M         2      KY       pg0378b.txt
+380b 20   Station       Thomas          25     KY       pg0378b.txt
+342a 21   Staton         A M            8      KY       pg0336b.txt
+342a 20   Staton        M J             35     KY       pg0336b.txt
+342a 19   Staton        William         37     KY       pg0336b.txt
+335b 39   Stayton       F D             9      KY       pg0326a.txt
+328a 42   Stayton       F M             6      KY       pg0326a.txt
+328a 40   Stayton       George          13     KY       pg0326a.txt
+335b 37   Stayton       George          31     KY       pg0326a.txt
+397b 9    Stayton       Hugh R          19     KY       pg0389a.txt
+335b 40   Stayton       J M             6      KY       pg0326a.txt
+397b 8    Stayton       James           28     KY       pg0389a.txt
+397b 11   Stayton       John            10     KY       pg0389a.txt
+328a 38   Stayton       John B          17     KY       pg0326a.txt
+328a 37   Stayton       Joseph          45     KY       pg0326a.txt
+328a 41   Stayton       Joseph          12     KY       pg0326a.txt
+335b 38   Stayton       M K             32     KY       pg0326a.txt
+335b 41   Stayton       M R             4      KY       pg0326a.txt
+397b 7    Stayton       Mary            54     KY       pg0389a.txt
+328a 39   Stayton       Mary N          14     KY       pg0326a.txt
+397b 10   Stayton       Susan           13     KY       pg0389a.txt
+413b 3    Steward       Charles D       28     KY       pg0410a.txt
+413b 4    Steward       Martha Jane     25     KY       pg0410a.txt
+366b 17   Stull         Charles         15     KY       pg0357b.txt
+366b 16   Stull         Jane            17     KY       pg0357b.txt
+366b 15   Stull         John            44     KY       pg0357b.txt
+366b 19   Stull         Julia A         5      KY       pg0357b.txt
+366b 20   Stull         Letitia         4      KY       pg0357b.txt
+366b 18   Stull         Mary            7      KY       pg0357b.txt
+427a 7    Survand       Francis         6      KY       pg0420b.txt
+427a 6    Survand       Patsy           27     KY       pg0420b.txt
+354b 19   Suttles       Benedict        9      KY       pg0347a.txt
+354b 22   Suttles       Elizabeth       2      KY       pg0347a.txt
+354b 18   Suttles       F J             12     KY       pg0347a.txt
+354b 15   Suttles       Hannah          39     KY       pg0347a.txt
+354b 20   Suttles       James D         7      KY       pg0347a.txt
+354b 14   Suttles       Joseph          40     KY       pg0347a.txt
+354b 16   Suttles       Joshua          17     KY       pg0347a.txt
+354b 21   Suttles       Nancy           5      KY       pg0347a.txt
+354b 17   Suttles       William         14     KY       pg0347a.txt
+349a 29   Sutton        Eliza J         20     KY       pg0347a.txt
+347b 38   Sutton        Emuline         1      KY       pg0347a.txt
+349a 33   Sutton        Francis         10     KY       pg0347a.txt
+349a 30   Sutton        Henry           18     KY       pg0347a.txt
+349a 31   Sutton        John            16     KY       pg0347a.txt
+349a 32   Sutton        Laura A         12     KY       pg0347a.txt
+348a 1    Sutton        Margaret        82     PA       pg0347a.txt
+349a 27   Sutton        Mariah          45     KY       pg0347a.txt
+349a 36   Sutton        Martha          2      KY       pg0347a.txt
+349a 34   Sutton        Mary            8      KY       pg0347a.txt
+349a 26   Sutton        Richard         47     KY       pg0347a.txt
+349a 35   Sutton        Richard         6      KY       pg0347a.txt
+347b 37   Sutton        Sarah           22     KY       pg0347a.txt
+374a 6    Sutton        Sarah A         6      KY       pg0368a.txt
+349a 28   Sutton        William         22     KY       pg0347a.txt
+428a 6    Swan          Caroline        18     KY       pg0420b.txt
+344b 27   Swan          Samuel          51     PA       pg0336b.txt
+428a 7    Swan          Samuel          2      KY       pg0420b.txt
+428a 5    Swan          Thomas          22     KY       pg0420b.txt
+398a 12   Sweeney       Harvey          41     KY       pg0389a.txt
+398a 13   Sweeney       Mary            36     KY       pg0389a.txt
+400a 36   Sweeney       Sally           33     KY       pg0399b.txt
+400a 37   Sweeney       Thomas D        4/12   KY       pg0399b.txt
+400a 35   Sweeney       Thomas S        38     KY       pg0399b.txt
+347b 16   Sweets        G B             1      KY       pg0347a.txt
+347a 38   Sweets        Josephine       10     KY       pg0347a.txt
+347b 14   Sweets        Lucinda         34     KY       pg0347a.txt
+347b 15   Sweets        Mary J          12     KY       pg0347a.txt
+347b 13   Sweets        Thomas J        36     KY       pg0347a.txt

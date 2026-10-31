@@ -1,0 +1,30 @@
+GenoPro / Marshall compiled tree (authored lead only). Saved HTML 30 Oct 2026.
+Local copies:
+  sources/authored/genopro-daniel-boone-newman-lead.html
+  sources/authored/genopro-sarah-minerva-venable-lead.html
+  sources/authored/genopro-john-l-newman-lead.html
+  sources/authored/genopro-john-cora-lead.html
+  sources/authored/genopro-florence-newman-lead.html
+URLs (compiled, unsourced):
+  https://familytrees.genopro.com/beltster/marshall/family-JohnLNewmanAndCoraBBrandenburg-fam301593915.htm
+  https://familytrees.genopro.com/beltster/Marshall/Newman-Florence-ind3617321916.htm
+
+Compiled statements (NOT evidence):
+  Daniel Boone Newman b. 1847, son of John Newman Jr × Susan Gay
+  Sarah Minerva Venable b. 16 Jan 1850, daughter of William Leroy Venable × Rachel Ann McQueen
+  John L Newman b. 1880 × Cora B Brandenburg b. 1893; child Florence
+
+What the records already support independently:
+  1900 widow Minerva b. Jan 1850 (C431) — year/month agree with the compiled 16 Jan 1850. Day is authored only.
+  1915 John, 34, parents Dan × Mininerva Venable (C436)
+  1961 Callie, parents Daniel × Sarah Veneable (C408)
+
+What the compiled tree gets wrong:
+  Florence as daughter of Cora — DISPROVED as a mother assignment.
+  1910 Buck Creek 134-134 has Florence, 8, in John × Lillie’s house (C438).
+  Cora married John 20 Nov 1915 (C436). Florence was already eight.
+
+Do not print “Daniel Boone” or “Sarah Minerva” as proven compound names. Conflict #24.
+
+Claims: C443 C455
+Source: S382

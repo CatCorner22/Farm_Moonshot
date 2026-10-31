@@ -1,0 +1,26 @@
+Pass 94 extract — 31 Oct 2026
+B055 remaining 1930 Madison T626-769 Glade 76-18 / 76-19
+IA kentuckycensus00reel769 (T626-769)
+
+0394 = 76-18 Mag Dist 6 Glade excl Berea Town sh 1A 2 Apr W.D. Daniel official start (C986 prior)
+0400 = 76-18 sh 4A 7 Apr W.D. Daniel mid
+0412 = 76-18 sh 10A 15 Apr; given-name Frank in non-Newman farm hh REJECTED
+0415 = 76-18 sh 11B 17 Apr mid nil Newman
+0428 = 76-18 sh 18A 26 Apr W.D. Daniel
+0429 = 76-18 sh 18B 26 Apr SHORT official END
+76-18 COMPLETE 0394-0429
+
+0430 = 76-19 Mag Dist 6 Glade SE sh 1A 5 Apr W.G. Blanton official start
+0450 = 76-19 sh 11A 13 Apr mid
+0460 = 76-19 sh 16A 14 Apr mid
+0465 = 76-19 sh 18B 23 Apr SHORT official END
+0466 = 76-20 Mag Dist 7 Kirksville NE sh 1A 2 Apr Miss Martha Henderson next ED
+76-19 COMPLETE 0430-0465
+
+OCR 76-18 36 sheets: 2 false "coy" tokens (form lines). 76-19 36 sheets: 0 hits.
+PROBABLE entire-ED name-negative both districts for Frank / David F. / Grant Newnam.
+
+FS 127913/127869/1146342 SPA (R011-44). IA Solr Antioch 0. IA Solr Dora Stone 1926 0. IA Solr Frank Newnam Berea 0.
+LOC Citizen 403. Duell-Clark DNS. SortedByName 403.
+Do not print 1966, 1976, Floyd-as-Boyd, 1962 as McCoy death, or 1942 Combs charge as fact.
+Authored latest.docx SHA 78cdcf44… not overwritten.

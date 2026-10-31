@@ -1,0 +1,25 @@
+KYGenWeb / RootsWeb Carter County KY WWI draft roster extract — Pass 103
+Source seen via WebSearch full-page text (live GET 403 this pass):
+  https://sites.rootsweb.com/~kycarter/military/ww_i.htm
+  https://kygenweb.net/carter/military/ww_i.htm
+4,434 names. Carter County roster, not Lee/Estill/Owsley.
+
+NEWMAN rows:
+  Edward Newman     6 Feb 1893
+  James Newman     17 Feb 1897
+  Thornton Newman   4 Mar 1890
+  William Newman   28 Apr 1878
+  Willie Newman    24 Aug 1895
+
+NEWNAM: 0
+
+McCoy (surname, Carter men — not P010 McCoy Newnam):
+  Charlie McCoy    17 Sep 1884
+  Fenton McCoy      7 Oct 1879
+  George W McCoy    3 Nov 1883
+  Harry McCoy       7 Feb 1882
+  Malcon McCoy      6 Aug 1895  Olive Hill
+  Willie McCoy     22 Jul 1889
+
+Luther hits are other surnames (Bates, Cartee, Erwin, …) — not Luther Newnam.
+No John H. Newnam b. 1899. No McCoy/Coy Newnam b. 1890.

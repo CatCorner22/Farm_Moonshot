@@ -1,0 +1,1166 @@
+Jefferson, KY 1850 Federal Census       (INDEX - File 12 of 16)
+
+This Census was transcribed by Renee Hill and proofread by Lana Magiera
+for the USGenWeb Census Project®, http://www.us-census.org/
+
+Copyright 2005 by Renee Hill
+<Transcriber@US-Census.org>
+
+==========================================================================
+USGENWEB (US-CENSUS) NOTICE: These electronic pages may NOT be reproduced
+in any format for profit or presentation by any other organization.
+Non-commercial organizations desiring to use this material must obtain
+the consent of the transcriber prior to use.  <Transcriber@US-Census.org>
+Individuals desiring to use this material in their own research may do so.
+==========================================================================
+Formatted by USGenWeb Census Project File Manager, Connie Burkett
+All of the above information must remain when copied or downloaded.
+==========================================================================
+
+THIS IS AN INDEX SORTED BY NAME. FOR THE COMPLETE CENSUS INFORMATION IN
+PAGE NUMBER SEQUENCE, OPEN THE FILE IN THE FILE-NAME COLUMN FOR THAT LINE.
+http://ftp.us-census.org/pub/usgenweb/census/ky/jefferson/1850/
+
+=============================================================================
+Pg#  Ln#  Last Name      First Name       Age   Birth Place       Filename
+=============================================================================
+129B  20  Nadle          Burnet           13    Indiana           pg0127a.txt
+129B  23  Nadle          Elizabeth        9     Indiana           pg0127a.txt
+129B  19  Nadle          Elizabeth        33    Maryland          pg0127a.txt
+129B  26  Nadle          Frank            1     Kentucky          pg0127a.txt
+129B  21  Nadle          Mary             12    Indiana           pg0127a.txt
+129B  22  Nadle          Racheal          11    Indiana           pg0127a.txt
+129B  24  Nadle          Sarah            7     Kentucky          pg0127a.txt
+129B  25  Nadle          Thomas           5     Kentucky          pg0127a.txt
+129B  18  Nadle          Thomas           42    Maryland          pg0127a.txt
+115B  8   Nadler         Jacob            45    Germany           pg0109a.txt
+94B   13  Nahl           Elizabeth        30    Germany           pg0091a.txt
+94B   12  Nahl           Ludwick          30    Germany           pg0091a.txt
+94B   14  Nahl           Mary             9     Germany           pg0091a.txt
+73B   22  Naker          Caroline         41    Germany           pg0073a.txt
+73B   21  Naker          Fred             41    Germany           pg0073a.txt
+137B  11  Nance          Amanda           6     Kentucky          pg0136a.txt
+137B  14  Nance          Ann              10/12 Kentucky          pg0136a.txt
+137B  6   Nance          Daniel           40    Kentucky          pg0136a.txt
+137B  9   Nance          Elizabeth        9     Kentucky          pg0136a.txt
+137B  8   Nance          Joseph           13    Kentucky          pg0136a.txt
+137B  12  Nance          Peter            5     Kentucky          pg0136a.txt
+137B  13  Nance          Robert           3     Kentucky          pg0136a.txt
+137B  7   Nance          Sarah A.         30    Kentucky          pg0136a.txt
+170A  29  Nance          Sidney C.        6     Kentucky          pg0166a.txt
+137B  10  Nance          Susan            8     Kentucky          pg0136a.txt
+202A  15  Naroker        John             26    Germany           pg0202a.txt
+202A  16  Naroker        Louisa           20    Germany           pg0202a.txt
+170A  24  Nash           Sarah J.         22    Kentucky          pg0166a.txt
+45B   18  Naylor         Charles W.       40    Kentucky          pg0037a.txt
+45B   19  Naylor         Elizabeth        23    Kentucky          pg0037a.txt
+45B   20  Naylor         Mary A.          2     Kentucky          pg0037a.txt
+79A   5   Neal           Lucy B.          16    Kentucky          pg0073a.txt
+178B  36  Neal           William G.       23    Virginia          pg0175a.txt
+178A  26  Neff           James            33    Virginia          pg0175a.txt
+186B  7   Neidham        Wm.              23    Iowa              pg0184a.txt
+112A  19  Neip           Charles          22    Germany           pg0109a.txt
+112A  18  Neip           Frederick        26    Germany           pg0109a.txt
+112A  20  Neip           Matthew          26    Germany           pg0109a.txt
+136A  32  Neisert        John             35    Germany           pg0136a.txt
+136A  33  Neisert        Susan            23    Tennessee         pg0136a.txt
+219A  38  Nelsen         Abram            3     Baden             pg0211a.txt
+219A  36  Nelsen         David            42    Baden             pg0211a.txt
+219A  37  Nelsen         Elise            42    Baden             pg0211a.txt
+232A  20  Nelson         Henry L.         25    New York          pg0229a.txt
+12B   9   Nemrocker      Louisa           19    Kentucky          pg0010a.txt
+12B   8   Nemrocker      William          21    Germany           pg0010a.txt
+141A  38  Neubich        Conrad           30    Bavaria           pg0139a.txt
+125B  32  Nevell         A.               25    Tennessee         pg0118a.txt
+55A   13  Neville        John             25    Ireland           pg0055a.txt
+6B    19  Newbanks       Clement          30    Indiana           pg0001a.txt
+6B    23  Newbanks       James            3     Indiana           pg0001a.txt
+6B    22  Newbanks       Margaret         3     Indiana           pg0001a.txt
+6B    24  Newbanks       Margaret         26    Indiana           pg0001a.txt
+6B    20  Newbanks       Mary             27    Kentucky          pg0001a.txt
+6B    21  Newbanks       Susan            8     Indiana           pg0001a.txt
+20B   8   Newberger      Menna            28    Germany           pg0019a.txt
+177A  24  Newburg        ---              25    Germany           pg0175a.txt
+217A  26  Newburger      John             27    Bavaria           pg0211a.txt
+3B    8   Newby          James W.         54    Virginia          pg0001a.txt
+3B    9   Newby          Jane P.          52    Virginia          pg0001a.txt
+3B    11  Newby          Margaret         17    Virginia          pg0001a.txt
+3B    10  Newby          Maria E.         20    Virginia          pg0001a.txt
+196B  38  Newcomb        Cornelius W.     32    Tennessee         pg0193a.txt
+196B  40  Newcomb        Ernest           2     Kentucky          pg0193a.txt
+196B  41  Newcomb        Herman           8/12  Kentucky          pg0193a.txt
+196B  37  Newcomb        Horatio D.       40    Massachussets     pg0193a.txt
+196B  39  Newcomb        Horatio V.       5     Kentucky          pg0193a.txt
+197A  1   Newcomb        Josephine        29    Maryland          pg0193a.txt
+152B  27  Newcomb        Warren           36    Massachusetts     pg0148a.txt
+196B  42  Newcomb        Warren           35    Kentucky          pg0193a.txt
+173A  24  Newman         Catharine        53    Pennsylvania      pg0166a.txt
+5B    28  News           Margaret         15    Kentucky          pg0001a.txt
+182B  38  Newton         Bridget          50    Kentucky          pg0175a.txt
+190B  25  Nibel          Jacob            20    Bavaria           pg0184a.txt
+86B   20  Nicholas       Adam             9     Germany           pg0082a.txt
+19B   41  Nicholas       Andrew           4     Kentucky          pg0019a.txt
+19B   38  Nicholas       Andrew           34    Germany           pg0019a.txt
+7B    11  Nicholas       Clinton          15    Kentucky          pg0001a.txt
+86B   18  Nicholas       Frederick        12    Germany           pg0082a.txt
+152B  32  Nicholas       Henry            35    Germany           pg0148a.txt
+86B   19  Nicholas       Henry            17    Germany           pg0082a.txt
+86B   15  Nicholas       Jacob            55    Germany           pg0082a.txt
+86B   12  Nicholas       Jacob            30    Germany           pg0082a.txt
+86B   14  Nicholas       Jacob            1     Kentucky          pg0082a.txt
+7B    10  Nicholas       Kesiah           34    Kentucky          pg0001a.txt
+19B   40  Nicholas       Louis            10    Kentucky          pg0019a.txt
+86B   13  Nicholas       Louisa           26    Germany           pg0082a.txt
+86B   16  Nicholas       Margaret         52    Germany           pg0082a.txt
+90A   26  Nicholas       Margaret         15    Germany           pg0082a.txt
+19B   39  Nicholas       Maria            28    Germany           pg0019a.txt
+86B   17  Nicholas       Peter            21    Germany           pg0082a.txt
+27B   23  Nicholas       William          25    Kentucky          pg0019a.txt
+7B    12  Nicholas       William          12    Kentucky          pg0001a.txt
+120B  31  Nichold        Lerace           29    Germany           pg0118a.txt
+135B  4   Nicholson      Thomas           32    Ireland           pg0127a.txt
+170B  14  Nicholson      Wm.              6     Indiana           pg0166a.txt
+222B  28  Nie?           Margaret         22    Hesse             pg0220a.txt
+227A  37  Niedler        Therese          62    Baden             pg0220a.txt
+34B   17  Niepoff        Elizabeth        32    Germany           pg0028a.txt
+34B   19  Niepoff        Elizabeth        1     Kentucky          pg0028a.txt
+34B   16  Niepoff        Herman           31    Germany           pg0028a.txt
+34B   20  Niepoff        Margaret         61    Germany           pg0028a.txt
+34B   18  Niepoff        William F.       5     Maryland          pg0028a.txt
+49A   11  Nierhoff       Augusta          4     Louisiana         pg0046a.txt
+49A   10  Nierhoff       Caroline         6     Louisiana         pg0046a.txt
+49A   8   Nierhoff       Catharine        36    Germany           pg0046a.txt
+49A   9   Nierhoff       Frederick        8     Louisiana         pg0046a.txt
+49A   7   Nierhoff       Henry            41    Germany           pg0046a.txt
+49A   12  Nierhoff       Julia            2     Louisiana         pg0046a.txt
+84A   36  Nigel          Evytte           66    Germany           pg0082a.txt
+128A  8   Niggal         Conrad           30    Germany           pg0127a.txt
+128A  7   Niggal         Henry            30    Germany           pg0127a.txt
+154A  29  Ninninneacher  Caterina         15    France            pg0148a.txt
+94A   19  Nintel         Henry            26    Germany           pg0091a.txt
+94A   20  Nintel         Mary             21    Germany           pg0091a.txt
+75A   4   Nitman         John             18    Germany           pg0073a.txt
+180B  34  Noble          Edward           4     Kentucky          pg0175a.txt
+182A  15  Noble          Eleanor          28    Kentucky          pg0175a.txt
+180B  32  Noble          Elizabeth        25    Kentucky          pg0175a.txt
+180B  35  Noble          Ellen            2     Kentucky          pg0175a.txt
+182A  14  Noble          Frances          7     Kentucky          pg0175a.txt
+180B  36  Noble          Jeannie          1/12  Kentucky          pg0175a.txt
+180B  31  Noble          John C.          30    Kentucky          pg0175a.txt
+182A  12  Noble          Louisa           13    Kentucky          pg0175a.txt
+180B  33  Noble          Maria            5     Kentucky          pg0175a.txt
+182A  11  Noble          Thomas           15    Kentucky          pg0175a.txt
+182A  10  Noble          Thomas H.        33    Kentucky          pg0175a.txt
+182A  13  Noble          William          10    Kentucky          pg0175a.txt
+145A  3   Nock           Eliza S.         22    New York          pg0139a.txt
+145A  6   Nock           George D.        8     Kentucky          pg0139a.txt
+56A   16  Nock           Jane             46    New York          pg0055a.txt
+56A   19  Nock           Jane             12    Kentucky          pg0055a.txt
+56A   17  Nock           Leroy            17    Kentucky          pg0055a.txt
+145A  4   Nock           Mary L.          20    New York          pg0139a.txt
+56A   21  Nock           Robert           6     Kentucky          pg0055a.txt
+56A   15  Nock           Samuel           45    England           pg0055a.txt
+56A   20  Nock           Samuel           10    Kentucky          pg0055a.txt
+145A  2   Nock           Sarah            51    Nova Scotia       pg0139a.txt
+145A  5   Nock           Sarah M.         10    Kentucky          pg0139a.txt
+56A   18  Nock           Virginia         14    Kentucky          pg0055a.txt
+145A  1   Nock           Wm.              52    Nova Scotia       pg0139a.txt
+54A   36  Noland         Thomas           52    Ireland           pg0046a.txt
+91B   27  Noland         William          24    Ireland           pg0091a.txt
+39B   31  Noretz         Adam             52    Germany           pg0037a.txt
+39B   32  Noretz         Anna             50    Germany           pg0037a.txt
+39B   33  Noretz         Benedict         28    Germany           pg0037a.txt
+39B   34  Noretz         George           19    Germany           pg0037a.txt
+140B  41  Norman         Abram            18    Kentucky          pg0139a.txt
+140B  42  Norman         James H.         15    Indiana           pg0139a.txt
+141A  1   Norman         Mahala           13    Kentucky          pg0139a.txt
+141A  2   Norman         Mary Ann         12    Indiana           pg0139a.txt
+141A  3   Norman         William          6     Kentucky          pg0139a.txt
+12A   26  Norrington     Elvira           21    Indiana           pg0010a.txt
+12A   25  Norrington     John             24    Kentucky          pg0010a.txt
+12A   27  Norrington     John             1/12  Kentucky          pg0010a.txt
+89A   22  Norris         Catharine        18    Germany           pg0082a.txt
+47A   29  Norris         Eli E.           35    Tennessee         pg0046a.txt
+131B  28  Norris         Elizabeth        20    Virginia          pg0127a.txt
+47A   36  Norris         Fanny E.         1/12  Kentucky          pg0046a.txt
+47A   33  Norris         Harriet          7     Kentucky          pg0046a.txt
+131B  27  Norris         Isaac            33    Indiana           pg0127a.txt
+47A   30  Norris         Margaret         37    Maryland          pg0046a.txt
+47A   35  Norris         Martha           3     Kentucky          pg0046a.txt
+149A  23  Norris         Nancy            73    Pennsylvania      pg0148a.txt
+47A   31  Norris         Theodore         11    Kentucky          pg0046a.txt
+89A   21  Norris         Thomas           35    Tennessee         pg0082a.txt
+47A   32  Norris         W*****           9     Indiana           pg0046a.txt
+89A   23  Norris         William          1     Kentucky          pg0082a.txt
+47A   34  Norris         William H.       5     Kentucky          pg0046a.txt
+70A   40  Norrise        Jacob            25    Germany           pg0064a.txt
+161B  39  North          Adrian           8     Kentucky          pg0157a.txt
+161B  37  North          Angelo           19    Connecticut       pg0157a.txt
+165A  40  North          Edwin            13    Kentucky          pg0157a.txt
+134B  10  North          Eliza            39    South Carolina    pg0127a.txt
+165A  38  North          Fountain         41    Kentucky          pg0157a.txt
+165A  42  North          Fountain         3     Kentucky          pg0157a.txt
+165A  41  North          John             5     Kentucky          pg0157a.txt
+161B  38  North          Montane          13    Iowa              pg0157a.txt
+161B  35  North          Olivia           55    Connecticut       pg0157a.txt
+134B  9   North          Richd            34    Ohio              pg0127a.txt
+161B  36  North          Romeo            20    Louisiana         pg0157a.txt
+165A  39  North          Sarah            24    Ohio              pg0157a.txt
+134B  11  North          Tamour I.        9     Tennessee         pg0127a.txt
+12A   14  Northington    Dercas           64    Kentucky          pg0010a.txt
+178B  3   Norton         Mary             21    Ireland           pg0175a.txt
+211B  37  Noss           John             60    Hesse             pg0211a.txt
+211B  38  Noss           Wilhelmina       53    Hesse             pg0211a.txt
+70B   23  Nourger        Adam             21    Germany           pg0064a.txt
+34B   11  Nowell         Lucy             41    Virginia          pg0028a.txt
+34B   12  Nowell         Mary             12    Indiana           pg0028a.txt
+96A   22  Nuchurt        Elizabeth        21    Germany           pg0091a.txt
+96A   21  Nuchurt        Philip           37    Germany           pg0091a.txt
+161B  33  Nugent         Catharine        20    Ireland           pg0157a.txt
+187B  8   Nugent         Edward           32    Ireland           pg0184a.txt
+187B  9   Nugent         Mary             29    Ireland           pg0184a.txt
+91B   1   Nuister        Joseph           22    Kentucky          pg0091a.txt
+215B  14  Nuldemier      Terese           15    Kentucky          pg0211a.txt
+63B   31  Nultmeyer      Bernard          16    Germany           pg0055a.txt
+63B   30  Nultmeyer      Elizabeth        43    Germany           pg0055a.txt
+63B   35  Nultmeyer      Frank            5     Germany           pg0055a.txt
+63B   33  Nultmeyer      Henry            13    Germany           pg0055a.txt
+63B   32  Nultmeyer      Theresa          14    Germany           pg0055a.txt
+63B   34  Nultmeyer      William          10    Germany           pg0055a.txt
+173A  34  Nunan          Margaret         12    Ireland           pg0166a.txt
+88A   31  Nuner          Catharin         18    Kentucky          pg0082a.txt
+175B  23  Nunnemaker     Caroline         48    France            pg0175a.txt
+175B  26  Nunnemaker     Caroline         18    France            pg0175a.txt
+175B  22  Nunnemaker     George           54    France            pg0175a.txt
+175B  25  Nunnemaker     Louis            20    France            pg0175a.txt
+175B  24  Nunnemaker     Peter            22    France            pg0175a.txt
+175B  21  Nunnemaker     Philip           24    France            pg0175a.txt
+112B  15  Nutall         Rebecca          46    Pennsylvania      pg0109a.txt
+-----------------------------------------------------------------------------
+210A  5   O'Bannon       Mildred          51    Kentucky          pg0202a.txt
+169B  2   O'Barter       Thomas           26    England           pg0166a.txt
+205A  26  O'Brian        Helen            22    Ireland           pg0202a.txt
+228B  16  O'Brian        Mary             17    Ireland           pg0220a.txt
+179B  7   O'Brien        Elizabeth        20    Ireland           pg0175a.txt
+168A  24  O'Bryan        Amelia           7     Kentucky          pg0166a.txt
+168A  29  O'Bryan        Angela           3     Kentucky          pg0166a.txt
+168A  28  O'Bryan        Ann              22    Kentucky          pg0166a.txt
+168A  19  O'Bryan        Augustine        37    Kentucky          pg0166a.txt
+168A  23  O'Bryan        Elizabeth        8     Kentucky          pg0166a.txt
+168A  20  O'Bryan        Elizabeth        34    Kentucky          pg0166a.txt
+168A  25  O'Bryan        Gertrude         5     Kentucky          pg0166a.txt
+168A  22  O'Bryan        Harriet          11    Kentucky          pg0166a.txt
+168A  27  O'Bryan        John M.          36    Kentucky          pg0166a.txt
+168A  30  O'Bryan        John R.          2     Kentucky          pg0166a.txt
+168A  26  O'Bryan        Laura            2     Kentucky          pg0166a.txt
+168A  21  O'Bryan        Mary             13    Kentucky          pg0166a.txt
+41A   10  O'Bryant       Hamilton         27    Kentucky          pg0037a.txt
+41A   12  O'Bryant       Josephine        4     Kentucky          pg0037a.txt
+41A   11  O'Bryant       Lydia Ann        25    Kentucky          pg0037a.txt
+41A   13  O'Bryant       Martha           1     Kentucky          pg0037a.txt
+21B   25  O'Connell      Ampuritian       26    Ireland           pg0019a.txt
+21B   27  O'Connell      James            2     Ireland           pg0019a.txt
+21B   26  O'Connell      John             4     Ireland           pg0019a.txt
+21B   24  O'Connell      Michael          36    Ireland           pg0019a.txt
+51A   19  O'Connor       Dennis           10    Pennsylvania      pg0046a.txt
+51A   20  O'Connor       Elizabeth        5     Pennsylvania      pg0046a.txt
+51A   17  O'Connor       Hannah           31    Ireland           pg0046a.txt
+51A   23  O'Connor       Henora           1     Virginia          pg0046a.txt
+51A   21  O'Connor       John             3     Pennsylvania      pg0046a.txt
+51A   22  O'Connor       Mary A.          2     Pennsylvania      pg0046a.txt
+51A   16  O'Connor       Michael          39    Ireland           pg0046a.txt
+51A   18  O'Connor       Timothy          14    New York          pg0046a.txt
+100A  24  O'Donell       Dominico         24    Ireland           pg0100a.txt
+168B  34  O'Fallen       John             27    Ireland           pg0166a.txt
+83A   29  O'Gurry        Mary             12    Ireland           pg0082a.txt
+214B  21  O'Mara         Ann              30    Ireland           pg0211a.txt
+131B  40  O'Mara         Ellen            8     Ireland           pg0127a.txt
+131B  42  O'Mara         James            2     Virginia          pg0127a.txt
+131B  41  O'Mara         Julia            4     Ireland           pg0127a.txt
+131B  39  O'Mara         Mary             25    Ireland           pg0127a.txt
+131B  38  O'Mara         Michael          38    Indiana           pg0127a.txt
+214B  22  O'Mara         William          2     Tennessee         pg0211a.txt
+193A  10  O'Neal         John             66    Virginia          pg0193a.txt
+83B   13  O'Neal         Patrick          25    Ireland           pg0082a.txt
+172A  9   O'Neil         Bridget          17    Ireland           pg0166a.txt
+178B  7   O'Neil         Charles          31    Pennsylvania      pg0175a.txt
+181A  36  O'Neil         Elizabeth        38    Ireland           pg0175a.txt
+195A  26  O'Neil         James            36    Ireland           pg0193a.txt
+87B   20  O'Neil         Mary             78    Scotland          pg0082a.txt
+106A  24  O'Neil         Michael          23    Ireland           pg0100a.txt
+106A  23  O'Neil         Patrick          25    Ireland           pg0100a.txt
+195A  27  O'Neil         Sally            19    Kentucky          pg0193a.txt
+194A  29  O'Reiley       Thomas           32    Ireland           pg0193a.txt
+152A  24  O'Reilly       J. J.            35    New York          pg0148a.txt
+152A  25  O'Reilly       Mrs.             22    Pennsylvania      pg0148a.txt
+190A  39  O'Shaughnessy  Anna             10    New York          pg0184a.txt
+190A  38  O'Shaughnessy  Joanna           13    New York          pg0184a.txt
+190A  37  O'Shaughnessy  Kate             16    Ireland           pg0184a.txt
+190A  34  O'Shaughnessy  Mary             51    Ireland           pg0184a.txt
+162B  10  O'Smith        Abram            32    Kentucky          pg0157a.txt
+162B  14  O'Smith        Abram            3     Kentucky          pg0157a.txt
+162B  13  O'Smith        Fanny            4     Kentucky          pg0157a.txt
+162B  12  O'Smith        Harriet          8     Kentucky          pg0157a.txt
+162B  11  O'Smith        Harriet          31    Kentucky          pg0157a.txt
+162B  15  O'Smith        Lucy             1/12  Kentucky          pg0157a.txt
+140B  32  O'Sullivan     John             52    Ireland           pg0139a.txt
+140B  34  O'Sullivan     John             13    Kentucky          pg0139a.txt
+140B  35  O'Sullivan     Lawrence         11    Kentucky          pg0139a.txt
+140B  33  O'Sullivan     Mary             50    Ireland           pg0139a.txt
+38A   7   Oakler         Catherine        16    Ohio              pg0037a.txt
+38A   6   Oakler         Mary             40    Germany           pg0037a.txt
+38A   5   Oakler         Peter            50    Switzerland       pg0037a.txt
+44A   11  OBanion        Albert           8     Kentucky          pg0037a.txt
+44A   12  OBanion        Coleman          3     Kentucky          pg0037a.txt
+44A   9   OBanion        Harriet          22    Kentucky          pg0037a.txt
+44A   10  OBanion        Mary             21    Kentucky          pg0037a.txt
+44A   13  OBanion        Mary F.          1     Kentucky          pg0037a.txt
+44A   8   OBanion        Moses            23    Kentucky          pg0037a.txt
+44A   6   OBanion        Nelly            60    Kentucky          pg0037a.txt
+44A   7   OBanion        Sarah            25    Kentucky          pg0037a.txt
+44A   5   Obanion        Solomon          60    Virginia          pg0037a.txt
+154A  35  Obeindorfer    Henry            27    Bavaria           pg0148a.txt
+79A   21  Obemire        Bernard          5     Kentucky          pg0073a.txt
+79A   22  Obemire        Frances          1     Kentucky          pg0073a.txt
+82B   35  Oberty         Frances          4     Kentucky          pg0082a.txt
+124B  27  Obrist         Anna             15    Pennslyvania      pg0118a.txt
+42B   10  Obrst          Amelia           15    Pennsylvania      pg0037a.txt
+42B   9   Obrst          Frank            28    Germany           pg0037a.txt
+42B   8   Obrst          Maria            58    Germany           pg0037a.txt
+119B  17  Obryan         Christina        30    Germany           pg0118a.txt
+13B   32  OBryan         Francis          72    Maryland          pg0010a.txt
+13B   34  OBryan         James            20    Kentucky          pg0010a.txt
+13B   33  OBryan         Mary             58    Maryland          pg0010a.txt
+119B  16  Obryan         Peter            11    Kentucky          pg0118a.txt
+62B   11  Obst           Barbara          26    Germany           pg0055a.txt
+62B   10  Obst           Carl             37    Germany           pg0055a.txt
+62B   13  Obst           Charles          1     Kentucky          pg0055a.txt
+62B   12  Obst           Elizabeth        4     Kentucky          pg0055a.txt
+96B   12  Odell          Mary             3     Ireland           pg0091a.txt
+96B   9   Odell          Sarah            28    Ireland           pg0091a.txt
+109B  1   Odenell        Bridget          9     Kentucky          pg0109a.txt
+109A  42  Odenell        Josephine        12    Kentucky          pg0109a.txt
+57B   37  Oehlrip        Wm.              44    Germany           pg0055a.txt
+219A  39  Ofe            Frances          20    Bavaria           pg0211a.txt
+178B  15  Offerstoff     Margaret         27    Hanover           pg0175a.txt
+170A  18  Ogden          Mary             22    Ohio              pg0166a.txt
+152B  42  Ogelsby        Americus         33    Kentucky          pg0148a.txt
+152B  41  Ogelsby        Indiana          28    Kentucky          pg0148a.txt
+153A  1   Ogelsby        Letitia          12    Kentucky          pg0148a.txt
+230B  6   Oglar          Henry            21    Ohio              pg0229a.txt
+131A  18  Ohelson        Levi             27    Pennslyvania      pg0127a.txt
+209B  32  Ohl            John             21    Bavaria           pg0202a.txt
+43A   40  Ohligschlager  Barbara          43    Germany           pg0037a.txt
+43B   1   Ohligschlager  Catharine        5     Kentucky          pg0037a.txt
+43A   42  Ohligschlager  Jacob            10    Kentucky          pg0037a.txt
+43A   41  Ohligschlager  John             15    Kentucky          pg0037a.txt
+43A   39  Ohligschlager  Sebastian        39    Germany           pg0037a.txt
+217A  27  Ohlman         Conrad           23    Prussia           pg0211a.txt
+2B    40  Ohlman         Frank            3     Kentucky          pg0001a.txt
+2B    37  Ohlman         Ignathus         36    Iowa              pg0001a.txt
+2B    39  Ohlman         John B.          5     Kentucky          pg0001a.txt
+2B    41  Ohlman         Josephine        1     Kentucky          pg0001a.txt
+2B    38  Ohlman         Louisa           35    Iowa              pg0001a.txt
+208A  37  Ohlmann        Conrad           22    Brunswick         pg0202a.txt
+80B   35  Olastermier    William          30    Germany           pg0073a.txt
+37A   34  Oldham         David            1     Kentucky          pg0037a.txt
+206B  10  Oldham         Gabriella        34    Kentucky          pg0202a.txt
+37A   33  Oldham         George           3     Kentucky          pg0037a.txt
+206B  9   Oldham         George           24    Kentucky          pg0202a.txt
+37A   30  Oldham         Jackson          35    Kentucky          pg0037a.txt
+160A  18  Oldham         James P.         32    Kentucky          pg0157a.txt
+37A   31  Oldham         Lucinda          30    Kentucky          pg0037a.txt
+11A   24  Oldham         Mary A.          24    Kentucky          pg0010a.txt
+37A   32  Oldham         William          5     Kentucky          pg0037a.txt
+206B  11  Oldham         William Ed       4     Kentucky          pg0202a.txt
+128A  11  Oliterburn     Ben.             26    Kentucky          pg0127a.txt
+21A   11  Oliver         Ambrose D.       57    North Carolina    pg0019a.txt
+10B   12  Oliver         Eliza Ann        27    Kentucky          pg0010a.txt
+21A   13  Oliver         Farmer           3     Kentucky          pg0019a.txt
+151A  9   Oliver         Jane             20    Kentucky          pg0148a.txt
+10B   11  Oliver         Joseph H.        37    Kentucky          pg0010a.txt
+21A   12  Oliver         Panelleta        45    North Carolina    pg0019a.txt
+47B   36  Oliver         Thomas           28    Kentucky          pg0046a.txt
+80B   13  Ollman         Frederick        25    Germany           pg0073a.txt
+82A   26  Olnen          Rosa             32    Kentucky          pg0082a.txt
+127B  21  Olond          Mr.              40    Virginia          pg0127a.txt
+115A  21  Olrick         Charles          16    Kentucky          pg0109a.txt
+40A   9   Oltenbrook     Henry            2     Kentucky          pg0037a.txt
+40A   7   Oltenbrook     Joseph           30    Germany           pg0037a.txt
+40A   8   Oltenbrook     Margaret         27    Germany           pg0037a.txt
+224A  42  Omer           John             23    Kentucky          pg0220a.txt
+225B  23  Onions         Ann              24    England           pg0220a.txt
+225B  26  Onions         Elizabeth        1     England           pg0220a.txt
+225B  24  Onions         Mary             3     England           pg0220a.txt
+225B  25  Onions         Thomas           2     England           pg0220a.txt
+225B  22  Onions         William          26    England           pg0220a.txt
+116A  15  Onling         Machael          30    Unknown           pg0109a.txt
+192B  23  Oppenheimer    Barbara          4     Kentucky          pg0184a.txt
+192B  24  Oppenheimer    Gertrude         4/12  Kentucky          pg0184a.txt
+192B  22  Oppenheimer    Louis            6     Virginia          pg0184a.txt
+192B  20  Oppenheimer    Samuel           41    Bavaria           pg0184a.txt
+192B  21  Oppenheimer    Sarah            26    Baden             pg0184a.txt
+16A   14  Oritts         Anna             4     Kentucky          pg0010a.txt
+16A   13  Oritts         Mary J.          23    Kentucky          pg0010a.txt
+103A  11  Ormstead       Alonzo           7     Kentucky          pg0100a.txt
+103A  14  Ormstead       Anna             3/12  Kentucky          pg0100a.txt
+103A  10  Ormstead       Caroline         8     Kentucky          pg0100a.txt
+103A  7   Ormstead       Charles          42    Connecticut       pg0100a.txt
+103A  8   Ormstead       Elizabeth        32    Delaware          pg0100a.txt
+103A  12  Ormstead       Emily            5     Kentucky          pg0100a.txt
+103A  13  Ormstead       John             2     Kentucky          pg0100a.txt
+103A  9   Ormstead       Josephine        10    Kentucky          pg0100a.txt
+144B  23  Orr            C. C.            31    Ireland           pg0139a.txt
+142A  17  Orr            Elizabeth        56    Kentucky          pg0139a.txt
+150B  13  Orr            Mary             21    Canada            pg0148a.txt
+208B  36  Orr            William          30    Kentucky          pg0202a.txt
+229B  20  Osborn         Amanda           22    Kentucky          pg0229a.txt
+21B   39  Osborn         Elijah           25    Kentucky          pg0019a.txt
+21B   38  Osborn         Eliza            24    Kentucky          pg0019a.txt
+2B    32  Osborn         Eliza            1     Kentucky          pg0001a.txt
+2B    30  Osborn         Elizabeth        38    Kentucky          pg0001a.txt
+21B   37  Osborn         James W.         35    Kentucky          pg0019a.txt
+2B    29  Osborn         John             40    England           pg0001a.txt
+21B   40  Osborn         John             23    Kentucky          pg0019a.txt
+2B    31  Osborn         Josephine        5     Kentucky          pg0001a.txt
+2B    20  Osborne        Cynthia          8     Kentucky          pg0001a.txt
+2B    18  Osborne        Cynthia          38    Kentucky          pg0001a.txt
+2B    17  Osborne        Samuel           34    Kentucky          pg0001a.txt
+2B    19  Osborne        Samuel           12    Kentucky          pg0001a.txt
+2B    21  Osborne        Sarah            6     Kentucky          pg0001a.txt
+104B  31  Osburn         Nancy            24    Pennsylvania      pg0100a.txt
+220A  27  Oscar          Reuben           1     Kentucky          pg0220a.txt
+10A   2   Ossendorf      Caspar           26    Germany           pg0010a.txt
+10A   3   Ossendorf      Margaret         23    Germany           pg0010a.txt
+49B   39  Ossiander      Barbara          2     Germany           pg0046a.txt
+49B   38  Ossiander      Caroline         25    Germany           pg0046a.txt
+49B   40  Ossiander      Sebastian        4/12  Kentucky          pg0046a.txt
+49B   37  Ossiander      Sebastian        32    Germany           pg0046a.txt
+126B  24  Osten          Caroline         35    Germany           pg0118a.txt
+126B  23  Osten          Fred.            43    Germany           pg0118a.txt
+130B  26  Otobrans       Christian        2     Kentucky          pg0127a.txt
+130B  27  Otobrans       Elizabeth        6/12  Kentucky          pg0127a.txt
+130B  23  Otobrans       Eve              28    Germany           pg0127a.txt
+130B  24  Otobrans       Henry            6     Kentucky          pg0127a.txt
+130B  22  Otobrans       John             35    Germany           pg0127a.txt
+130B  25  Otobrans       Mary             4     Kentucky          pg0127a.txt
+60A   7   Otto           Andrew           21    Germany           pg0055a.txt
+60A   5   Otto           Caroline         23    Germany           pg0055a.txt
+28A   5   Otto           Catherine        25    Germany           pg0028a.txt
+27B   33  Otto           Gerhard          77    Germany           pg0019a.txt
+28A   4   Otto           Gerhard H.       30    Germany           pg0028a.txt
+60A   4   Otto           Henry            30    Germany           pg0055a.txt
+150B  15  Ottoman        Mary             27    Germany           pg0148a.txt
+115B  23  Ovake          Michael          30    Ireland           pg0109a.txt
+200A  8   Overall        V.               39    Kentucky          pg0193a.txt
+45B   23  Overman        Behrnhard        5     Ohio              pg0037a.txt
+45B   22  Overman        Elizabeth        30    Germany           pg0037a.txt
+45B   21  Overman        Frederick        34    Germany           pg0037a.txt
+45B   24  Overman        Joseph           7/12  Kentucky          pg0037a.txt
+138A  19  Overstreet     Bristoe          48    Kentucky          pg0136a.txt
+138A  20  Overstreet     Charlotte        42    Kentucky          pg0136a.txt
+212A  38  Overstreet     Claiborne        35    Kentucky          pg0211a.txt
+138A  13  Overstreet     James            16    Kentucky          pg0136a.txt
+138A  11  Overstreet     Josep            50    Kentucky          pg0136a.txt
+138A  12  Overstreet     Margaret         50    Kentucky          pg0136a.txt
+188B  8   Overton        Dabney           4     Kentucky          pg0184a.txt
+188B  6   Overton        Eliza            29    Iowa              pg0184a.txt
+188B  7   Overton        Lucy             6     Arkansas          pg0184a.txt
+188B  5   Overton        Thomas B.        29    North Carolina    pg0184a.txt
+159B  17  Owen           Eliza R.         24    Kentucky          pg0157a.txt
+223A  16  Owen           Erasmus          9     Kentucky          pg0220a.txt
+190B  29  Owen           George           20    Kentucky          pg0184a.txt
+159B  19  Owen           George S.        3     Kentucky          pg0157a.txt
+159B  16  Owen           Jacob            30    Kentucky          pg0157a.txt
+159B  18  Owen           James S.         5     Kentucky          pg0157a.txt
+223A  14  Owen           Jas. G.          16    Kentucky          pg0220a.txt
+223A  11  Owen           Jas. Harvey      50    Kentucky          pg0220a.txt
+223A  17  Owen           John D.          5     Kentucky          pg0220a.txt
+190B  26  Owen           John W.          23    Kentucky          pg0184a.txt
+190B  28  Owen           Lucy             6/12  Kentucky          pg0184a.txt
+190B  27  Owen           Lydia            18    Kentucky          pg0184a.txt
+223A  12  Owen           Martha           41    Kentucky          pg0220a.txt
+223A  19  Owen           Mary             20    Illinois          pg0220a.txt
+223A  15  Owen           Mary             13    Kentucky          pg0220a.txt
+223A  13  Owen           Passmore H.      18    Kentucky          pg0220a.txt
+157A  36  Owens          Alexandria       18    Austria           pg0157a.txt
+156A  14  Owens          Edw. S.          18    Kentucky          pg0148a.txt
+157A  35  Owens          Hugh S.          30    Wales             pg0157a.txt
+104A  2   Owner          Ann              4     Kentucky          pg0100a.txt
+27B   26  Owney          Benjamin         7     Kentucky          pg0019a.txt
+27B   24  Owney          Jerry            40    Virginia          pg0019a.txt
+27B   25  Owney          Richard          13    Virginia          pg0019a.txt
+5A    7   Owsley         Sarah            24    Kentucky          pg0001a.txt
+-----------------------------------------------------------------------------
+230B  39  Page           A. I.            25    Kentucky          pg0229a.txt
+163B  41  Page           Adele            7     Kentucky          pg0157a.txt
+231A  30  Page           Catharine        21    Pennsylvania      pg0229a.txt
+163B  38  Page           Charles A.       26    Pennsylvania      pg0157a.txt
+230B  38  Page           Christiana       19    Kentucky          pg0229a.txt
+30B   19  Page           Davis L.         31    Virginia          pg0028a.txt
+163B  39  Page           Edward W.        16    Kentucky          pg0157a.txt
+30B   21  Page           Elizabeth        9     Ohio              pg0028a.txt
+163B  37  Page           Emily            48    Pennsylvania      pg0157a.txt
+230B  33  Page           Emily            19    Kentucky          pg0229a.txt
+194B  23  Page           Esther           29    Massachussets     pg0193a.txt
+194B  22  Page           Geo. Lee         29    Massachussets     pg0193a.txt
+194B  24  Page           Geo. W.          4     Kentucky          pg0193a.txt
+152A  38  Page           Gwynn            38    Kentucky          pg0148a.txt
+214A  32  Page           Hennie           60    Virginia          pg0211a.txt
+231A  29  Page           James            22    Kentucky          pg0229a.txt
+30B   22  Page           John             7     Kentucky          pg0028a.txt
+230B  41  Page           Levi             59    Kentucky          pg0229a.txt
+152A  39  Page           Lucy R.          36    Kentucky          pg0148a.txt
+194B  25  Page           Mary             2     Kentucky          pg0193a.txt
+30B   20  Page           Mary A.          25    Indiana           pg0028a.txt
+30B   23  Page           Mary A.          1     Kentucky          pg0028a.txt
+163B  40  Page           Mary E.          12    Kentucky          pg0157a.txt
+163B  36  Page           Samuel R.        51    New Hampshire     pg0157a.txt
+230B  42  Page           Thomas           29    Kentucky          pg0229a.txt
+230B  32  Page           William          23    Ohio              pg0229a.txt
+123A  33  Page           William          14    Arkansas          pg0118a.txt
+159A  25  Paget          Martha           28    Kentucky          pg0157a.txt
+146A  33  Pailman        Mary             14    Holland           pg0139a.txt
+22B   4   Paine          Charles          3     Kentucky          pg0019a.txt
+16B   22  Paine          Ellen            17    Kentucky          pg0010a.txt
+22B   2   Paine          George           28    New York          pg0019a.txt
+22B   3   Paine          Jane             22    Kentucky          pg0019a.txt
+16B   23  Paine          Joseph           12    Kentucky          pg0010a.txt
+82A   25  Paine          Julia            43    Kentucky          pg0082a.txt
+3A    12  Paine          Maria            26    Kentucky          pg0001a.txt
+16B   20  Paine          Mary             39    Virginia          pg0010a.txt
+3A    13  Paine          Mary             1     Kentucky          pg0001a.txt
+22B   5   Paine          Orlando          14    New York          pg0019a.txt
+16B   21  Paine          Patrik           18    Kentucky          pg0010a.txt
+16B   19  Paine          William          49    Virginia          pg0010a.txt
+80A   6   Paler          Daniel           48    Ireland           pg0073a.txt
+182A  4   Palmer         Belle            4     Kentucky          pg0175a.txt
+182A  3   Palmer         Lucretia         26    Kentucky          pg0175a.txt
+191A  39  Palmer         Maria            30    England           pg0184a.txt
+182A  5   Palmer         Mary A.          1     Kentucky          pg0175a.txt
+182A  2   Palmer         Thomas           40    Kentucky          pg0175a.txt
+120A  19  Pandell        John             72    Pennsylvania      pg0118a.txt
+74A   22  Pane           William          9     Kentucky          pg0073a.txt
+90B   33  Pank           Philipena        9     Germany           pg0082a.txt
+90B   32  Pank           Philipena        45    Germany           pg0082a.txt
+90B   34  Pank           William          4     Kentucky          pg0082a.txt
+193A  29  Paradise       Maria            14    Kentucky          pg0193a.txt
+193A  30  Paradise       Mary             12    Kentucky          pg0193a.txt
+193A  31  Paradise       Matilda          10    Kentucky          pg0193a.txt
+193A  28  Paradise       Sarah H.         21    Maryland          pg0193a.txt
+30B   42  Paris          James            41    Virginia          pg0028a.txt
+17B   7   Paris          John             26    Kentucky          pg0010a.txt
+169B  42  Paris          Mary H.          32    Kentucky          pg0166a.txt
+173A  16  Park           Elizabth         70    England           pg0166a.txt
+47A   42  Parker         Benjamin F.      9     New York          pg0046a.txt
+20A   35  Parker         Charles          23    Kentucky          pg0019a.txt
+44B   1   Parker         Cilda            45    Kentucky          pg0037a.txt
+229B  21  Parker         Elizabeth        62    Missouri          pg0229a.txt
+20A   36  Parker         Elizabeth        19    Indiana           pg0019a.txt
+8A    11  Parker         George           42    Kentucky          pg0001a.txt
+8A    12  Parker         Lucretia         45    Kentucky          pg0001a.txt
+47A   39  Parker         Mary             42    England           pg0046a.txt
+47A   40  Parker         Mary C.          18    England           pg0046a.txt
+2A    14  Parker         Mary J.          18    Ohio              pg0001a.txt
+47A   38  Parker         Richard          45    England           pg0046a.txt
+215A  33  Parker         Sarah            21    Germany           pg0211a.txt
+47B   1   Parker         Sarah E.         7     New York          pg0046a.txt
+47A   41  Parker         Serge            15    England           pg0046a.txt
+151A  41  Parker         William          26    Kentucky          pg0148a.txt
+2A    20  Parker         Winny            44    Kentucky          pg0001a.txt
+142B  35  Parks          ---              35    Virginia          pg0139a.txt
+186B  8   Parks          ---              29    Kentucky          pg0184a.txt
+186B  9   Parks          Mary             4     Kentucky          pg0184a.txt
+213B  20  Parks          Samuel           35    Kentucky          pg0211a.txt
+127B  22  Parks          William          35    Ireland           pg0127a.txt
+190A  32  Parks          William          19    Indiana           pg0184a.txt
+140A  12  Parleberg      Christina        41    Hanover           pg0139a.txt
+140A  13  Parleberg      Matilda          9     Hanover           pg0139a.txt
+189A  25  Parr           Reson            22    Pennslyvania      pg0184a.txt
+142B  39  Parr           William          23    Ireland           pg0139a.txt
+6A    36  Parris         Charlotte        45    Kentucky          pg0001a.txt
+6A    31  Parris         Elizabeth        26    Kentucky          pg0001a.txt
+6A    33  Parris         Hamilton         4     Kentucky          pg0001a.txt
+6A    32  Parris         James            6     Kentucky          pg0001a.txt
+6A    35  Parris         Oliver           1/12  Kentucky          pg0001a.txt
+6A    30  Parris         Richard          30    Kentucky          pg0001a.txt
+6A    34  Parris         William          3     Kentucky          pg0001a.txt
+216B  27  Parson         Edward           23    Baden             pg0211a.txt
+189A  41  Parson         John             .     Ohio              pg0184a.txt
+182A  27  Pash           Daniel           66    England           pg0175a.txt
+56A   32  Paslick        Henry            34    Germany           pg0055a.txt
+56A   33  Paslick        Mary             34    Germany           pg0055a.txt
+134A  17  Patrick        Absolam          35    Indiana           pg0127a.txt
+229A  24  Patrick        Elizabeth        63    Maryland          pg0229a.txt
+209A  39  Patrick        George           40    Ireland           pg0202a.txt
+134A  19  Patrick        James            11    Indiana           pg0127a.txt
+209A  40  Patrick        Lucinda          35    Kentucky          pg0202a.txt
+134A  18  Patrick        Mary             12    Indiana           pg0127a.txt
+209A  42  Patrick        Mary             1     Kentucky          pg0202a.txt
+209A  41  Patrick        William          4     Kentucky          pg0202a.txt
+156B  2   Patten         Edward           21    Ohio              pg0148a.txt
+125B  5   Patterson      Israel           21    Pennslyvania      pg0118a.txt
+179B  33  Patterson      John             52    England           pg0175a.txt
+179B  38  Patterson      John             4     Kentucky          pg0175a.txt
+80A   12  Patterson      John             34    Ireland           pg0073a.txt
+179B  35  Patterson      Kate             18    Ohio              pg0175a.txt
+231B  39  Patterson      Kate             17    Ohio              pg0229a.txt
+179B  36  Patterson      Lucy             11    Pennsylvania      pg0175a.txt
+179B  37  Patterson      Mary             7     Kentucky          pg0175a.txt
+212B  22  Patterson      Milly            40    Kentucky          pg0211a.txt
+179B  34  Patterson      Pholomela        41    New Hampshire     pg0175a.txt
+143B  36  Patterson      R. T.            30    Tennessee         pg0139a.txt
+132B  40  Pattert        George R.        21    Kentucky          pg0127a.txt
+169B  39  Patton         Bryce M.         36    Maine             pg0166a.txt
+149A  24  Patton         Ellen D.         22    Pennsylvania      pg0148a.txt
+169B  40  Patton         Otis             28    Maine             pg0166a.txt
+169B  41  Patton         Susan            23    Ohio              pg0166a.txt
+145A  11  Paul           Catharine        17    Bavaria           pg0139a.txt
+58B   41  Paul           Eliza            23    Germany           pg0055a.txt
+126B  42  Paul           James            7     Kentucky          pg0118a.txt
+126B  41  Paul           Jane             42    Ireland           pg0118a.txt
+126B  40  Paul           John             41    Germany           pg0118a.txt
+170B  26  Paul           Michael          24    Pennsylvania      pg0166a.txt
+58B   40  Paul           Peter            25    Germany           pg0055a.txt
+58B   39  Pauli          Theobald         25    Germany           pg0055a.txt
+15B   10  Pavril         Andrew D.        26    France            pg0010a.txt
+15B   11  Pavril         Sarah            29    Virginia          pg0010a.txt
+19B   8   Paxton         Green            36    Kentucky          pg0019a.txt
+19B   10  Paxton         James B.         1     Kentucky          pg0019a.txt
+19B   9   Paxton         Rachel           17    Indiana           pg0019a.txt
+171B  27  Payne          Cornelia         8     New York          pg0166a.txt
+171B  26  Payne          Edward           10    New York          pg0166a.txt
+171B  25  Payne          Elida            32    New York          pg0166a.txt
+171A  6   Payne          Eliza            19    Kentucky          pg0166a.txt
+202B  12  Payne          Henry C.         30    Kentucky          pg0202a.txt
+171B  24  Payne          Peter S.         36    New York          pg0166a.txt
+202B  13  Payne          Sarah            30    Kentucky          pg0202a.txt
+171B  29  Payne          Sarah            2     Kentucky          pg0166a.txt
+202B  14  Payne          Sarah I.         15    Kentucky          pg0202a.txt
+202B  15  Payne          Susan A.         10    Kentucky          pg0202a.txt
+171B  28  Payne          Theodore         5     New York          pg0166a.txt
+225B  21  Paynton        William          25    England           pg0220a.txt
+83B   30  Peach          William          19    Iowa              pg0082a.txt
+189A  14  Pearson        Ann              15    Kentucky          pg0184a.txt
+189A  13  Pearson        Elisha           17    Kentucky          pg0184a.txt
+178A  8   Pearson        Emma             6     Kentucky          pg0175a.txt
+178A  12  Pearson        Frances          6     Kentucky          pg0175a.txt
+189A  9   Pearson        Hester           42    Kentucky          pg0184a.txt
+189A  12  Pearson        James            19    Kentucky          pg0184a.txt
+189A  11  Pearson        Joseph           21    Kentucky          pg0184a.txt
+178A  6   Pearson        Lorenzo P.       40    Kentucky          pg0175a.txt
+178A  7   Pearson        Mary A.          26    Pennsylvania      pg0175a.txt
+116A  38  Pearson        Sarah            45    Kentucky          pg0109a.txt
+178A  9   Pearson        Simon            2     Kentucky          pg0175a.txt
+189A  8   Pearson        Thomas           53    South Carolina    pg0184a.txt
+37A   15  Peck           Elizabeth        30    Kentucky          pg0037a.txt
+37A   14  Peck           George W.        27    Virginia          pg0037a.txt
+192B  13  Peck           John             30    Germany           pg0184a.txt
+199A  41  Peck           John             30    Ireland           pg0193a.txt
+37A   16  Peck           Mary E.          1     Kentucky          pg0037a.txt
+186B  10  Peck           Wm.              30    Germany           pg0184a.txt
+110A  34  Pelcher        John Thomas      4     Kentucky          pg0109a.txt
+110A  32  Pelcher        Mary             32    Kentucky          pg0109a.txt
+110A  33  Pelcher        William S.       7     Kentucky          pg0109a.txt
+142B  21  Pendleton      A. B.            24    Kentucky          pg0139a.txt
+34A   14  Pendleton      Alonzo           1     Kentucky          pg0028a.txt
+34A   13  Pendleton      Ann V.           12    Kentucky          pg0028a.txt
+20A   22  Pendleton      James            26    Indiana           pg0019a.txt
+5A    36  Pendleton      James R.         28    Kentucky          pg0001a.txt
+34A   11  Pendleton      Joseph           31    Kentucky          pg0028a.txt
+34A   12  Pendleton      Sarah            29    Pennsylvania      pg0028a.txt
+161A  19  Penn           Nora             20    Ohio              pg0157a.txt
+1B    10  Pennell        Elizabeth        40    Maryland          pg0001a.txt
+1B    11  Pennell        Maria            15    Virginia          pg0001a.txt
+53A   40  Pennington     Edward           8     Indiana           pg0046a.txt
+53A   35  Pennington     Elizabeth        39    Indiana           pg0046a.txt
+53A   39  Pennington     Elizabeth        10    Indiana           pg0046a.txt
+53A   41  Pennington     John             5/12  Kentucky          pg0046a.txt
+158A  12  Pennington     Mary             57    New York          pg0157a.txt
+53A   34  Pennington     R. B.            41    Indiana           pg0046a.txt
+158A  11  Pennington     Samuel           57    New Jersey        pg0157a.txt
+53A   38  Pennington     Walter           14    Indiana           pg0046a.txt
+34B   26  Pennington     William          34    Pennsylvania      pg0028a.txt
+53A   37  Pennington     William          16    Indiana           pg0046a.txt
+53A   36  Pennington     Worden E.        19    Indiana           pg0046a.txt
+24A   17  Pense          Werner           22    Germany           pg0019a.txt
+137A  12  People         James            21    Kentucky          pg0136a.txt
+137A  14  People         James H.         4/12  Kentucky          pg0136a.txt
+137A  13  People         Mary A.          19    Indiana           pg0136a.txt
+137A  35  Peoples        Amanda           5     Kentucky          pg0136a.txt
+137A  33  Peoples        Jane             15    Indiana           pg0136a.txt
+137A  30  Peoples        Mary             68    Ireland           pg0136a.txt
+137A  34  Peoples        Melissa          7     Kentucky          pg0136a.txt
+137A  29  Peoples        Samuel           28    Virginia          pg0136a.txt
+137A  32  Peoples        Thomas           13    Indiana           pg0136a.txt
+84A   21  Pepper         Lewis            27    Germany           pg0082a.txt
+10B   16  Perceval       Jabez            17    Indiana           pg0010a.txt
+158B  16  Pering         Charlotte        33    England           pg0157a.txt
+158B  19  Pering         Cornelia         10    Iowa              pg0157a.txt
+158B  15  Pering         Cornelius        44    England           pg0157a.txt
+158B  18  Pering         James G.         13    Iowa              pg0157a.txt
+158B  20  Pering         William H.       7     Iowa              pg0157a.txt
+158B  17  Pering         Zinobia          15    Iowa              pg0157a.txt
+108A  41  Perkin         John             32    Kentucky          pg0100a.txt
+108A  42  Perkin         Martha           35    Ohio              pg0100a.txt
+36A   39  Perkins        Andrew           1     Kentucky          pg0028a.txt
+57A   20  Perkins        Baryella         41    Massachusetts     pg0055a.txt
+36A   36  Perkins        Catherine T.     32    Virginia          pg0028a.txt
+36A   38  Perkins        Elizabeth        8     Kentucky          pg0028a.txt
+57A   22  Perkins        Emmal            3     Kentucky          pg0055a.txt
+36A   35  Perkins        John             52    Kentucky          pg0028a.txt
+36A   37  Perkins        John             10    Kentucky          pg0028a.txt
+57A   21  Perkins        Margaret         25    Kentucky          pg0055a.txt
+222B  42  Pernollet      Barbara          28    France            pg0220a.txt
+222B  41  Pernollet      John             36    France            pg0220a.txt
+190A  16  Perry          William H.       25    Spain             pg0184a.txt
+202A  10  Perryman       Jacob            25    North Carolina    pg0202a.txt
+110B  30  Perter         John             24    Germany           pg0109a.txt
+157A  26  Pete           William J.       22    Louisiana         pg0157a.txt
+72B   15  Peter          Henry            40    Germany           pg0064a.txt
+72B   16  Peter          Racheal          28    Germany           pg0064a.txt
+125A  40  Peterman       Thomas           40    New Jersey        pg0118a.txt
+80A   20  Peters         Adolph           36    Germany           pg0073a.txt
+80A   21  Peters         Christina        37    Germany           pg0073a.txt
+80A   24  Peters         Edward           1     Kentucky          pg0073a.txt
+80A   23  Peters         Fredericke       9     Germany           pg0073a.txt
+80A   22  Peters         Helena           11    Germany           pg0073a.txt
+156A  4   Petit          Antoinette       54    France            pg0148a.txt
+156A  5   Petit          Clementine       24    Pennsylvania      pg0148a.txt
+156A  3   Petit          Isidor           65    France            pg0148a.txt
+156A  6   Petit          Selina           21    Pennsylvania      pg0148a.txt
+153B  19  Pettit         Mildred          22    Kentucky          pg0148a.txt
+153B  25  Pettit         N. C.            19    Kentucky          pg0148a.txt
+153B  18  Pettit         N. L.            32    Kentucky          pg0148a.txt
+153B  24  Pettit         O. B.            19    Kentucky          pg0148a.txt
+153B  20  Pettit         William L.       2     Kentucky          pg0148a.txt
+157A  24  Pettitt        Edward E.        19    Kentucky          pg0157a.txt
+157A  22  Pettitt        Susannah         40    Kentucky          pg0157a.txt
+157A  21  Pettitt        William G.       48    Pennsylvania      pg0157a.txt
+157A  23  Pettitt        William G.       14    Kentucky          pg0157a.txt
+61B   42  Peyton         Andeville        23    Kentucky          pg0055a.txt
+62A   1   Peyton         Daniel           21    Kentucky          pg0055a.txt
+62A   3   Peyton         Elizabeth        18    Kentucky          pg0055a.txt
+61B   40  Peyton         James            49    Kentucky          pg0055a.txt
+61B   41  Peyton         Mary             46    Kentucky          pg0055a.txt
+62A   2   Peyton         Sally            19    Kentucky          pg0055a.txt
+89B   27  Peyton         Sarah            20    Kentucky          pg0082a.txt
+35A   7   Pfaff          John             7     Kentucky          pg0028a.txt
+35A   4   Pfaff          Joseph           36    Germany           pg0028a.txt
+35A   6   Pfaff          Joseph           11    Louisiana         pg0028a.txt
+35A   9   Pfaff          Lee              2/12  Kentucky          pg0028a.txt
+35A   5   Pfaff          Mary             36    Germany           pg0028a.txt
+35A   8   Pfaff          Wilhelmina       2     Kentucky          pg0028a.txt
+226A  12  Pfalzer        Daniel           21    Bavaria           pg0220a.txt
+15B   18  Pfalzer        Jacob            29    Germany           pg0010a.txt
+150A  23  Pfalzer        John             31    Bavaria           pg0148a.txt
+150A  25  Pfalzer        Margaret         3     Kentucky          pg0148a.txt
+150A  24  Pfalzer        Mary             25    Baden             pg0148a.txt
+150A  26  Pfalzer        Mary             2     Kentucky          pg0148a.txt
+177A  39  Pfeifer        Augusti          2     Kentucky          pg0175a.txt
+177A  36  Pfeifer        Caspar           31    Bavaria           pg0175a.txt
+58B   21  Pfeifer        Fred             34    Germany           pg0055a.txt
+177A  37  Pfeifer        Helena           24    Bavaria           pg0175a.txt
+58B   24  Pfeifer        John             5     Germany           pg0055a.txt
+177A  38  Pfeifer        Julia            6     Bavaria           pg0175a.txt
+177A  40  Pfeifer        Julia            33    Bavaria           pg0175a.txt
+58B   22  Pfeifer        Margaret         29    Germany           pg0055a.txt
+58B   23  Pfeifer        Wilhelmina       10    Germany           pg0055a.txt
+217A  36  Pfeiffer       Emily            23    Baden             pg0211a.txt
+217A  35  Pfeiffer       George           31    Bavaria           pg0211a.txt
+217B  1   Pfeiffer       Jacob            24    Bavaria           pg0211a.txt
+217A  40  Pfeiffer       Joseph           3/12  Kentucky          pg0211a.txt
+217B  2   Pfeiffer       Justina          21    Baden             pg0211a.txt
+217A  42  Pfeiffer       Margaret         66    Bavaria           pg0211a.txt
+217A  41  Pfeiffer       Martin           70    Bavaria           pg0211a.txt
+217A  37  Pfeiffer       Matilda          3     Kentucky          pg0211a.txt
+217A  39  Pfeiffer       Philomena        4     Kentucky          pg0211a.txt
+217A  38  Pfeiffer       Thomas           5     Kentucky          pg0211a.txt
+217B  3   Pfeiffer       Thomas           2     Kentucky          pg0211a.txt
+225B  20  Phelps         Anderson         3     Kentucky          pg0220a.txt
+225B  16  Phelps         Anderson         25    England           pg0220a.txt
+225B  18  Phelps         Elizabeth        12    England           pg0220a.txt
+182A  39  Phelps         Malinda          35    Kentucky          pg0175a.txt
+225B  17  Phelps         Maria            35    England           pg0220a.txt
+225B  19  Phelps         Mary             10    England           pg0220a.txt
+210A  7   Phelps         Sarah            65    New York          pg0202a.txt
+76B   16  Philips        Catharine        1     Kentucky          pg0073a.txt
+76B   15  Philips        Cauline          27    Germany           pg0073a.txt
+76B   14  Philips        George           37    Germany           pg0073a.txt
+203B  10  Phillip        Eliza Delph      22    Kentucky          pg0202a.txt
+203B  12  Phillip        Rachel Ann       15    Kentucky          pg0202a.txt
+203B  11  Phillip        William          24    Kentucky          pg0202a.txt
+47B   27  Phillips       Ann              20    Kentucky          pg0046a.txt
+121A  24  Phillips       Archibald        8/12  Kentucky          pg0118a.txt
+121A  20  Phillips       Catharine        33    Kentucky          pg0118a.txt
+121A  22  Phillips       Elizabeth        11    Kentucky          pg0118a.txt
+121A  19  Phillips       James C.         37    Virginia          pg0118a.txt
+121A  23  Phillips       John             8     Kentucky          pg0118a.txt
+182B  31  Phillips       Joshua           21    Kentucky          pg0175a.txt
+209B  19  Phillips       Lewis            9     Illinois          pg0202a.txt
+203B  42  Phillips       Lucretia         33    Kentucky          pg0202a.txt
+209B  18  Phillips       Martha           30    Alabama           pg0202a.txt
+206B  4   Phillips       Martha           22    Kentucky          pg0202a.txt
+204A  2   Phillips       Martha           1     Kentucky          pg0202a.txt
+182B  30  Phillips       Mrs.             50    Kentucky          pg0175a.txt
+47B   26  Phillips       Ralph            25    Kentucky          pg0046a.txt
+121A  21  Phillips       Richard          13    Kentucky          pg0118a.txt
+160A  29  Phillips       Richd.           12    Kentucky          pg0157a.txt
+206B  3   Phillips       U. M.            23    North Carolina    pg0202a.txt
+182B  32  Phillips       William          18    Kentucky          pg0175a.txt
+204A  1   Phillips       William T.       3     Kentucky          pg0202a.txt
+99B   40  Phipp          Sarah            19    Ohio              pg0091a.txt
+94B   36  Pias           Henry            2     Kentucky          pg0091a.txt
+94B   35  Pias           Patsey           33    Germany           pg0091a.txt
+94B   34  Pias           Stephen          28    Germany           pg0091a.txt
+115B  37  Pickett        Charles          99    Virginia          pg0109a.txt
+217B  18  Pieffer        Aug.             45    Prussia           pg0211a.txt
+217B  19  Pieffer        Auguste          34    Prussia           pg0211a.txt
+217B  20  Pieffer        Mary             12    Prussia           pg0211a.txt
+196B  16  Pier           Verlancy         25    Kentucky          pg0193a.txt
+196B  15  Pier           William          28    Kentucky          pg0193a.txt
+30B   12  Pierce         Augustus         15    Kentucky          pg0028a.txt
+30B   11  Pierce         Clinton          19    Kentucky          pg0028a.txt
+31A   11  Pierce         Eliza            44    Mississippi       pg0028a.txt
+20A   17  Pierce         Oliver           23    Kentucky          pg0019a.txt
+31A   10  Pierce         Samuel           52    Vermont           pg0028a.txt
+31A   13  Pierce         W. Augustus      17    Kentucky          pg0028a.txt
+31A   12  Pierce         William          20    Indiana           pg0028a.txt
+185A  20  Pierson        Jane             23    Iowa              pg0184a.txt
+84A   23  Piffer         Elizabeth        32    Germany           pg0082a.txt
+84A   25  Piffer         Isaac            19    Germany           pg0082a.txt
+84A   24  Piffer         Marcus           22    Germany           pg0082a.txt
+91B   21  Pill           William          25    Pennsylvania      pg0091a.txt
+57A   17  Pipir          Charles          4     Tennessee         pg0055a.txt
+57A   16  Pipir          Clarissa         20    Mississippi       pg0055a.txt
+57A   15  Pipir          George           26    Virginia          pg0055a.txt
+57A   18  Pipir          George M.        1     Kentucky          pg0055a.txt
+112A  22  Pippenbrink    George           24    Germany           pg0109a.txt
+22B   14  Plaggenburg    Helena           30    Germany           pg0019a.txt
+22B   15  Plaggenburg    Herman           4     Kentucky          pg0019a.txt
+22B   16  Plaggenburg    John             1     Kentucky          pg0019a.txt
+22B   13  Plaggenburg    Nicholas         34    Germany           pg0019a.txt
+123A  42  Plaster        Milten           30    Kentucky          pg0118a.txt
+203B  38  Platt          Charles P.       33    Kentucky          pg0202a.txt
+203B  39  Platt          Rebecca          45    Kentucky          pg0202a.txt
+141A  37  Platte         Augusto          32    Cuches?           pg0139a.txt
+97A   31  Plavon         Julia            25    Germany           pg0091a.txt
+97A   30  Plavon         Peter            30    Germany           pg0091a.txt
+76B   26  Pline          Barbara          6/12  Kentucky          pg0073a.txt
+76B   24  Pline          Mary             24    Germany           pg0073a.txt
+76B   23  Pline          Nicholas         25    Germany           pg0073a.txt
+76B   25  Pline          William          2     Kentucky          pg0073a.txt
+90B   37  Pliny          George           31    Germany           pg0082a.txt
+90B   38  Pliny          Sophia           31    Germany           pg0082a.txt
+107A  17  Plumenstall    Adolph           7     Massachusetts     pg0100a.txt
+107A  18  Plumenstall    Augusta          5     Kentucky          pg0100a.txt
+107A  14  Plumenstall    Augustus         53    Germany           pg0100a.txt
+107A  15  Plumenstall    Elizabeth        37    Germany           pg0100a.txt
+107A  16  Plumenstall    Ferdinand        10    Kentucky          pg0100a.txt
+107A  19  Plumenstall    Julius           1     Kentucky          pg0100a.txt
+54B   21  Plunket        Thomas           29    Ireland           pg0046a.txt
+160B  37  Poe            Jane S.          17    Kentucky          pg0157a.txt
+160B  36  Poe            John             55    Virginia          pg0157a.txt
+151B  3   Pohl           Ernest           21    Prussia           pg0148a.txt
+62B   21  Pohlman        Henry            38    Germany           pg0055a.txt
+62B   23  Pohlman        Joseph           6/12  Kentucky          pg0055a.txt
+62B   22  Pohlman        Maria            26    Germany           pg0055a.txt
+18A   17  Polhman        Mary             21    Germany           pg0010a.txt
+18A   18  Polhman        Mary             1     Kentucky          pg0010a.txt
+18A   16  Polhman        Theodore         27    Germany           pg0010a.txt
+112A  2   Polk           James K.         5     Kentucky          pg0109a.txt
+105A  42  Polk           James R.         3     Kentucky          pg0100a.txt
+153B  4   Pollard        Benj. R.         62    Kentucky          pg0148a.txt
+153B  6   Pollard        Benj. W.         27    Kentucky          pg0148a.txt
+153B  5   Pollard        Elizabeth        53    Kentucky          pg0148a.txt
+153B  7   Pollard        Elvira N.        23    Kentucky          pg0148a.txt
+153B  8   Pollard        George W.        20    Kentucky          pg0148a.txt
+153B  9   Pollard        John J.          13    Kentucky          pg0148a.txt
+6A    29  Pollard        Lucy             61    Kentucky          pg0001a.txt
+83A   33  Pollock        Antoinette       10    Ohio              pg0082a.txt
+44B   17  Pomeroy        John             35    Kentucky          pg0037a.txt
+56A   27  Ponderhoff     Albert           36    Prussia           pg0055a.txt
+56A   29  Ponderhoff     Alma             6     Kentucky          pg0055a.txt
+56A   30  Ponderhoff     Felix            3     Kentucky          pg0055a.txt
+56A   28  Ponderhoff     Susanna          27    Prussia           pg0055a.txt
+225A  6   Pontch         Eliza            12    Ireland           pg0220a.txt
+225A  4   Pontch         James            37    Ireland           pg0220a.txt
+225A  5   Pontch         Jane             33    Ireland           pg0220a.txt
+225A  7   Pontch         Mary             1     Kentucky          pg0220a.txt
+181A  35  Poor           John H.          10    Pennslyvania      pg0175a.txt
+181A  32  Poor           Mary             45    Pennslyvania      pg0175a.txt
+181A  34  Poor           Sarah            13    Pennslyvania      pg0175a.txt
+181A  33  Poor           Standish         21    District of Columbia pg0175a.txt
+181A  31  Poor           W. Peabody       50    New Hampshire     pg0175a.txt
+226A  25  Pope           Carran           39    Kentucky          pg0220a.txt
+167B  31  Pope           Charles          17    Kentucky          pg0166a.txt
+144B  2   Pope           Charles          16    Kentucky          pg0139a.txt
+193A  4   Pope           Eliza            30    Kentucky          pg0193a.txt
+167B  29  Pope           Elizabeth        21    Kentucky          pg0166a.txt
+193A  6   Pope           Francis          9     Kentucky          pg0193a.txt
+101A  31  Pope           Francis          8     Ohio              pg0100a.txt
+152A  22  Pope           Hamilton         36    Kentucky          pg0148a.txt
+226A  31  Pope           Hamilton         35    Kentucky          pg0220a.txt
+101A  30  Pope           Henry            14    Ohio              pg0100a.txt
+193A  3   Pope           Henry L.         35    Virginia          pg0193a.txt
+226A  27  Pope           John             9     Kentucky          pg0220a.txt
+167B  28  Pope           John D.          27    Kentucky          pg0166a.txt
+101A  29  Pope           Margaret         56    Germany           pg0100a.txt
+4A    27  Pope           Maria            16    Kentucky          pg0001a.txt
+212B  16  Pope           Maria            16    Kentucky          pg0211a.txt
+53B   10  Pope           Maria Preston    45    Kentucky          pg0046a.txt
+167B  27  Pope           Martha L.        61    Kentucky          pg0166a.txt
+226A  29  Pope           Mary             5     Kentucky          pg0220a.txt
+226A  26  Pope           Matilda          35    Kentucky          pg0220a.txt
+193A  5   Pope           Ophelia          8     Kentucky          pg0193a.txt
+226A  28  Pope           Patrick          7     Kentucky          pg0220a.txt
+167B  30  Pope           Sallie A.        19    Kentucky          pg0166a.txt
+104A  21  Popoureveth    Frances          26    Germany           pg0100a.txt
+104A  20  Popoureveth    John             30    Kentucky          pg0100a.txt
+81B   30  Popper         Martin           23    Kentucky          pg0073a.txt
+85A   42  Poppf          John             38    Germany           pg0082a.txt
+85B   1   Poppf          Mary Ann         40    Germany           pg0082a.txt
+92B   39  Poreele        John             20    Ireland           pg0091a.txt
+52B   35  Porter         Catharine        50    Germany           pg0046a.txt
+52B   34  Porter         Herman           50    Germany           pg0046a.txt
+46A   19  Porter         Louisa           23    Kentucky          pg0046a.txt
+197B  42  Porter         Martha           57    Kentucky          pg0193a.txt
+224B  19  Porter         Martha           25    Hesse             pg0220a.txt
+224B  20  Porter         Martha           1/12  Hesse             pg0220a.txt
+197B  41  Porter         Nat. P.          66    Maryland          pg0193a.txt
+128B  4   Porter         Sarah            9     Kentucky          pg0127a.txt
+224B  21  Porter         Thos.            12    Hesse             pg0220a.txt
+224B  18  Porter         W. M.            28    Hesse             pg0220a.txt
+224B  22  Porter         Wm.              4     Hesse             pg0220a.txt
+174B  31  Porthuart      Catharine        34    Virginia          pg0166a.txt
+174B  33  Porthuart      Charles          8     Kentucky          pg0166a.txt
+174B  32  Porthuart      George           13    Kentucky          pg0166a.txt
+174B  30  Porthuart      Joseph           40    Kentucky          pg0166a.txt
+174B  34  Porthuart      Kate             6     Kentucky          pg0166a.txt
+181B  23  Post           Emma             1/12  Kentucky          pg0175a.txt
+159A  23  Post           Henry            16    Virginia          pg0157a.txt
+181B  22  Post           Louisa           23    Massachussets     pg0175a.txt
+181B  21  Post           Reuben           29    Massachussets     pg0175a.txt
+159A  24  Post           Truman           13    Virginia          pg0157a.txt
+152B  11  Posture        Victor           20    France            pg0148a.txt
+115B  26  Poters         James            30    Louisiana         pg0109a.txt
+170A  1   Potshall       William B.       30    Pennsylvania      pg0166a.txt
+125A  23  Potter         Benjamin         7     Kentucky          pg0118a.txt
+9A    14  Potter         Edward           32    Kentucky          pg0001a.txt
+99B   28  Potter         Elizabeth        5     Kentucky          pg0091a.txt
+99B   27  Potter         Emma             7     Kentucky          pg0091a.txt
+45A   34  Potter         George           21    Kentucky          pg0037a.txt
+125A  22  Potter         George           12    Kentucky          pg0118a.txt
+99B   23  Potter         Harriet          32    Kentucky          pg0091a.txt
+99B   22  Potter         Joseph           51    Pennsylvania      pg0091a.txt
+99B   29  Potter         Joseph           3     Kentucky          pg0091a.txt
+99B   26  Potter         Laura            9     Kentucky          pg0091a.txt
+45A   35  Potter         Sarah            18    Kentucky          pg0037a.txt
+99B   30  Potter         Susan            1     Ohio              pg0091a.txt
+99B   24  Potter         Thaddeus         15    Kentucky          pg0091a.txt
+99B   25  Potter         William          11    Kentucky          pg0091a.txt
+21B   16  Pottker        William          27    Germany           pg0019a.txt
+138B  23  Potuge         Samuel           27    Kentucky          pg0136a.txt
+135B  40  Powell         Able             29    Virginia          pg0127a.txt
+154B  39  Powell         Ann              48    New York          pg0148a.txt
+33B   13  Powell         Benjamin         45    Virginia          pg0028a.txt
+33B   18  Powell         Benjamin Jr.     16    Kentucky          pg0028a.txt
+189B  33  Powell         Catharine        22    England           pg0184a.txt
+171B  42  Powell         Charles          8     Kentucky          pg0166a.txt
+189B  32  Powell         Charles          27    England           pg0184a.txt
+136A  2   Powell         Edward           3/12  Kentucky          pg0136a.txt
+135B  41  Powell         Eliza            24    Kentucky          pg0127a.txt
+33B   17  Powell         Eliza T.         18    Kentucky          pg0028a.txt
+33B   15  Powell         Elizabeth        23    Kentucky          pg0028a.txt
+33B   16  Powell         Emily A.         20    Kentucky          pg0028a.txt
+172A  1   Powell         Evelina          6     Kentucky          pg0166a.txt
+171B  40  Powell         George           7     Kentucky          pg0166a.txt
+139A  41  Powell         Jacob            26    Ireland           pg0139a.txt
+71A   12  Powell         Jane             10    Kentucky          pg0064a.txt
+8B    23  Powell         Johnson          26    Ireland           pg0001a.txt
+33B   14  Powell         Lucinda          45    Virginia          pg0028a.txt
+135B  42  Powell         Martha           6     Kentucky          pg0127a.txt
+171B  39  Powell         Martha           29    Kentucky          pg0166a.txt
+171B  41  Powell         Martha           10    Kentucky          pg0166a.txt
+71A   10  Powell         Mary             15    Pennsylvania      pg0064a.txt
+71A   9   Powell         Nancy            35    Pennsylvania      pg0064a.txt
+5B    3   Powell         Robert           25    Ireland           pg0001a.txt
+71A   11  Powell         Sarah            12    Pennsylvania      pg0064a.txt
+172A  2   Powell         Theodore         4     Kentucky          pg0166a.txt
+71A   8   Powell         Thomas           30    Kentucky          pg0064a.txt
+171B  38  Powell         Thomas W.        47    England           pg0166a.txt
+154B  38  Powell         William          48    Virginia          pg0148a.txt
+136A  1   Powell         Wm. H.           3     Kentucky          pg0136a.txt
+26B   23  Power          Francis          21    Kentucky          pg0019a.txt
+108A  35  Powers         A. J.            27    Kentucky          pg0100a.txt
+108A  37  Powers         Andrew           1     Kentucky          pg0100a.txt
+136A  17  Powers         Artemisia        14    Indiana           pg0136a.txt
+136A  18  Powers         Arthur           12    Indiana           pg0136a.txt
+155A  24  Powers         Baby             4/12  Iowa              pg0148a.txt
+155A  21  Powers         Charles          16    Iowa              pg0148a.txt
+155A  22  Powers         Charlotte        13    Iowa              pg0148a.txt
+108A  38  Powers         Conrad           24    Germany           pg0100a.txt
+155A  19  Powers         Daniel B.        48    Vermont           pg0148a.txt
+32A   1   Powers         Frances          6     Mississippi       pg0028a.txt
+155A  20  Powers         Frances          31    Kentucky          pg0148a.txt
+155A  23  Powers         George           2     Kentucky          pg0148a.txt
+118A  32  Powers         Isaac F.         18    Ohio              pg0118a.txt
+31B   42  Powers         Isabella         27    Indiana           pg0028a.txt
+138B  15  Powers         Jacob H.         31    Ohio              pg0136a.txt
+32A   10  Powers         Jane             60    Canada            pg0028a.txt
+111A  37  Powers         John             22    Germany           pg0109a.txt
+136A  15  Powers         John S.          35    Vermont           pg0136a.txt
+136A  20  Powers         Justice          1     Indiana           pg0136a.txt
+138B  17  Powers         Levay E.         1     Kentucky          pg0136a.txt
+108A  36  Powers         Louisa           22    France            pg0100a.txt
+136A  16  Powers         Martha           24    Kentucky          pg0136a.txt
+118A  33  Powers         Nancy            54    New Jersey        pg0118a.txt
+138B  16  Powers         Sarah            21    Ohio              pg0136a.txt
+31B   41  Powers         Thomas           34    Kentucky          pg0028a.txt
+136A  19  Powers         William          5     Kentucky          pg0136a.txt
+32A   2   Powers         William          4     Kentucky          pg0028a.txt
+28A   18  Praether       James            12    Kentucky          pg0028a.txt
+70B   30  Prager         Carl             24    Germany           pg0064a.txt
+36A   33  Praig          John             14    Iowa              pg0028a.txt
+36A   32  Praig          William          35    Pennsylvania      pg0028a.txt
+20B   14  Praither       Mary             23    Germany           pg0019a.txt
+184A  27  Prather        Ellen            42    Kentucky          pg0184a.txt
+206A  40  Prather        Nutty            75    Virginia          pg0202a.txt
+70A   33  Preinser       Philip           20    Germany           pg0064a.txt
+64A   16  Preiser        Frank            3     Kentucky          pg0064a.txt
+64A   13  Preiser        Frederica        34    Germany           pg0064a.txt
+64A   15  Preiser        George           6     Kentucky          pg0064a.txt
+64A   14  Preiser        Louisa           8     Kentucky          pg0064a.txt
+64A   12  Preiser        William          41    Germany           pg0064a.txt
+64A   17  Preiser        William          3/12  Kentucky          pg0064a.txt
+150A  27  Prendel        Moritz           23    Baden             pg0148a.txt
+31A   27  Prentiss       Amanda           3     Kentucky          pg0028a.txt
+31A   24  Prentiss       Martha           13    Indiana           pg0028a.txt
+31A   26  Prentiss       Mary             10    Indiana           pg0028a.txt
+31A   22  Prentiss       Nathan           38    Rhode Island      pg0028a.txt
+31A   23  Prentiss       Rebecca          36    Indiana           pg0028a.txt
+31A   25  Prentiss       William          11    Indiana           pg0028a.txt
+196B  36  Preusler       Wilhelmina       17    Germany           pg0193a.txt
+157A  27  Prewitt        Mary             16    Kentucky          pg0157a.txt
+83A   12  Price          Cecelia          6     Unknown           pg0082a.txt
+65B   21  Price          Isabella         4/12  Kentucky          pg0064a.txt
+231A  23  Price          John             9     Kentucky          pg0229a.txt
+65B   20  Price          Josephine        3     Kentucky          pg0064a.txt
+6B    1   Price          Mary A.          17    Kentucky          pg0001a.txt
+231A  22  Price          Mathew           11    Kentucky          pg0229a.txt
+65B   19  Price          Matilda          19    Kentucky          pg0064a.txt
+170A  2   Price          Pearcy           16    Kentucky          pg0166a.txt
+231A  21  Price          Pierson          12    Kentucky          pg0229a.txt
+231A  20  Price          Susan            30    Kentucky          pg0229a.txt
+83A   11  Price          Victoria         10    Unknown           pg0082a.txt
+65B   18  Price          Wm. H.           35    Kentucky          pg0064a.txt
+106A  37  Prichard       Anna             44    Kentucky          pg0100a.txt
+127A  31  Priel          Robert           22    Ireland           pg0127a.txt
+198A  18  Priest         Ann              24    Kentucky          pg0193a.txt
+198A  25  Priest         Elva             1/12  Kentucky          pg0193a.txt
+198A  22  Priest         Ferdinand        26    Kentucky          pg0193a.txt
+198A  19  Priest         George           7     Kentucky          pg0193a.txt
+198A  13  Priest         Lucy             65    Virginia          pg0193a.txt
+198A  24  Priest         Lucy             3     Kentucky          pg0193a.txt
+198A  23  Priest         Olivia           22    Pennsylvania      pg0193a.txt
+198A  12  Priest         Peter            38    Virginia          pg0193a.txt
+198A  21  Priest         Peter            2     Kentucky          pg0193a.txt
+198A  14  Priest         Richard          30    Kentucky          pg0193a.txt
+198A  17  Priest         Temple           33    Kentucky          pg0193a.txt
+198A  20  Priest         William          4     Kentucky          pg0193a.txt
+101A  13  Priesterbach   Frederick        23    Germany           pg0100a.txt
+149A  25  Prindhast      Sophia           22    Georgia           pg0148a.txt
+49A   1   Pritcher       Agnes            40    Virginia          pg0046a.txt
+49A   2   Pritcher       Elizabeth        21    Indiana           pg0046a.txt
+230A  16  Prith          Claiborne        44    Kentucky          pg0229a.txt
+230A  17  Prith          Eliza            33    Kentucky          pg0229a.txt
+230A  18  Prith          John B.          8     Kentucky          pg0229a.txt
+101B  12  Proctor        Albert           1     Kentucky          pg0100a.txt
+101B  10  Proctor        Gibson L.        26    Kentucky          pg0100a.txt
+101B  11  Proctor        Rachel           24    Iowa              pg0100a.txt
+49A   20  Puigra         Clara            24    New Hampshire     pg0046a.txt
+221A  19  Pullam         Thomas           25    Kentucky          pg0220a.txt
+48A   21  Pulliam        Infant           1/12  Louisiana         pg0046a.txt
+48A   18  Pulliam        Isaac F.         8     Indiana           pg0046a.txt
+48A   20  Pulliam        James            4     Louisiana         pg0046a.txt
+211A  34  Pulliam        Lizzie           23    Iowa              pg0211a.txt
+211A  35  Pulliam        Thomas           2     Kentucky          pg0211a.txt
+48A   16  Pulliam        V. L.            28    Kentucky          pg0046a.txt
+48A   17  Pulliam        Victoria         27    Kentucky          pg0046a.txt
+48A   19  Pulliam        William H.       6     Louisiana         pg0046a.txt
+49A   30  Pullivan       Daniel           39    Ireland           pg0046a.txt
+49A   34  Pullivan       Daniel           10    England           pg0046a.txt
+49A   33  Pullivan       Hinora           12    England           pg0046a.txt
+49A   35  Pullivan       Jeremiah         6     England           pg0046a.txt
+49A   36  Pullivan       Joanna           4     England           pg0046a.txt
+49A   31  Pullivan       Joanna           34    Ireland           pg0046a.txt
+49A   37  Pullivan       Margaret         2     England           pg0046a.txt
+49A   32  Pullivan       Michael          15    England           pg0046a.txt
+21B   29  Purcell        Bridget          24    Ireland           pg0019a.txt
+21B   28  Purcell        Michael          34    Ireland           pg0019a.txt
+21B   30  Purcell        Patrick          1     At Sea            pg0019a.txt
+173A  6   Purdy          Ann R.           24    Kentucky          pg0166a.txt
+173A  7   Purdy          Daniel F.        5     Kentucky          pg0166a.txt
+173A  8   Purdy          William          3     Kentucky          pg0166a.txt
+71B   15  Purle          J. Seeler        23    Belgium           pg0064a.txt
+175B  12  Purport        Charles          4/12  Kentucky          pg0175a.txt
+175B  10  Purport        John             20    England           pg0175a.txt
+175B  11  Purport        Mary             18    Virginia          pg0175a.txt
+188B  18  Putman         John             25    Massachussets     pg0184a.txt
+1B    35  Putnam         George           7     Pennsylvania      pg0001a.txt
+1B    36  Putnam         Rufus            4     Pennsylvania      pg0001a.txt
+184A  26  Pyne           Catharine        3     Kentucky          pg0184a.txt
+184A  21  Pyne           Cecilia          38    Ireland           pg0184a.txt
+184A  25  Pyne           Michael          5     Kentucky          pg0184a.txt
+184A  20  Pyne           Michael          49    Ireland           pg0184a.txt
+184A  24  Pyne           Thomas           8     Kentucky          pg0184a.txt
+184A  22  Pyne           William          21    Kentucky          pg0184a.txt
+219A  21  Pytes          Cordelia         22    Kentucky          pg0211a.txt
+219A  22  Pytes          John             2     Kentucky          pg0211a.txt
+219A  23  Pytes          Madison          9/12  Kentucky          pg0211a.txt
+219A  20  Pytes          Madison          28    Kentucky          pg0211a.txt
+-----------------------------------------------------------------------------
+189B  9   Quaker         William          22    Pennslyvania      pg0184a.txt
+161B  41  Quarterman     Fannie           65    Virginia          pg0157a.txt
+63B   11  Quartermen     Mary             1     Kentucky          pg0055a.txt
+63B   7   Quartermen     Mirtirius        38    Kentucky          pg0055a.txt
+63B   9   Quartermen     Patrick          9     Illinois          pg0055a.txt
+63B   10  Quartermen     Sarah            5     Illinois          pg0055a.txt
+63B   8   Quartermen     Sarah            28    Kentucky          pg0055a.txt
+3A    4   Quast          F. William       42    Germany           pg0001a.txt
+3A    10  Quast          Frank            6/12  Kentucky          pg0001a.txt
+3A    7   Quast          George           16    Germany           pg0001a.txt
+3A    9   Quast          Henry            6     Germany           pg0001a.txt
+3A    6   Quast          Mitta            18    Germany           pg0001a.txt
+3A    8   Quast          Sophia           8     Germany           pg0001a.txt
+3A    5   Quast          Wilhelminia      42    Germany           pg0001a.txt
+62A   31  Quertermon     James            10    Kentucky          pg0055a.txt
+62A   29  Quertermon     Lavinia          34    Kentucky          pg0055a.txt
+62A   28  Quertermon     Thomas           38    Kentucky          pg0055a.txt
+62A   30  Quertermon     Virginia         12    Kentucky          pg0055a.txt
+54B   26  Quick          David            25    Ireland           pg0046a.txt
+21B   14  Quicker        Anthony          22    Germany           pg0019a.txt
+18B   27  Quickert       Anna             44    Germany           pg0010a.txt
+18B   28  Quickert       Catharine        14    Germany           pg0010a.txt
+18B   26  Quickert       Conrad           46    Germany           pg0010a.txt
+100A  16  Quickert       Joseph           17    Germany           pg0100a.txt
+18B   29  Quickert       Xavier           11    Germany           pg0010a.txt
+132A  23  Quillo         Wm.              26    Isle Of Man       pg0127a.txt
+191A  2   Quinlan        Eliza            13    Ireland           pg0184a.txt
+190B  40  Quinlan        Elizabeth        40    Ireland           pg0184a.txt
+31B   2   Quinlan        Frances          6/12  Kentucky          pg0028a.txt
+191A  4   Quinlan        Jane             7     England           pg0184a.txt
+190B  41  Quinlan        Kate             19    Ireland           pg0184a.txt
+191A  3   Quinlan        Maria            11    Ireland           pg0184a.txt
+190B  42  Quinlan        Martin           18    England           pg0184a.txt
+31B   1   Quinlan        Mary Ellen       4     Kentucky          pg0028a.txt
+31A   41  Quinlan        Patrick          38    Ireland           pg0028a.txt
+31A   42  Quinlan        Sarah            38    Ireland           pg0028a.txt
+191A  1   Quinlan        Thomas           15    England           pg0184a.txt
+98A   17  Quinn          Barney           30    Ireland           pg0091a.txt
+98A   16  Quinn          Rawdy            21    Ireland           pg0091a.txt
+190B  15  Quiny          Catharine        29    Pennslyvania      pg0184a.txt
+97B   12  Quirk          Michael          26    Ireland           pg0091a.txt
+184A  7   Quiry          Charles          49    Kentucky          pg0184a.txt
+184A  9   quiry          Elizabeth        16    Kentucky          pg0184a.txt
+184A  8   Quiry          Malinda          33    Kentucky          pg0184a.txt

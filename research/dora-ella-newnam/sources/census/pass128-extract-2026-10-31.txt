@@ -1,0 +1,36 @@
+PASS 128 EXTRACT 2026-10-31
+Densifies pass 127 (C1607–C1632 / L1432–L1451) after pass 126. Variants cats 1–4: William Newnam/Newman/Newnarn/Numan/Newnom; Edmund/Sophia/Jane/Rhoda; Francis/Decatur/Leanner/Leaner; Tincher/Tinchir/Fincher/Tinker; OCR Newman/newnam; Soundex N550 T526 S350.
+
+B058 LOC sn89051008 item.digitized: false (pass127 JSON + this session). IA Solr title:(Dardanelle Post-Dispatch) AND year:1926 numFound:0. Phone 479-968-4368 not re-asked. C1633 (reconfirm C1607)
+
+B071 HEADLINE CORRECTION — Jessamine SK NEWMAN 10A-10B is NOT reel 208 n0015 stamp 13.
+Wayback id_ USGW jessamine 1850indx.txt LIVE: NEWMAN 10A-10B only. No TINCHER/TINSLEY/TINKER/FINCH. C1634
+n0021 stamp 10 (10A), first division, 15 Aug 1850, IMAGE SEEN. Bottom lines: hh 137 William Gray 41 + Charlotte + George P + Benj F + Robert Norman 29 farmer; hh 138 William Stafford 33 + Matilda + Pantha P Cook 1. No Newman on 10A. C1635
+n0022 = 10B, 16 Aug 1850, IMAGE SEEN (w2000, 1725352 B). Diplomatic two-pass:
+  ln 1  139/139  Edmund Newman  27  M  Farmer  $500  KY
+  ln 2           Sophia Newman  27  F
+  ln 3           George S. Newman  5  M
+  ln 4           James W. Newman   4  M
+  ln 5           J. S. Newman      2  M
+  ln 6  140/140  Abraham Jackson  60  M  Farmer  $8600
+  ln 7           Mary E. Newman   12  F   (in Jackson house)
+REJECT vs William Newman 26 × Jane (Owsley hh 311) and vs William × Rhoda: given Edmund ≠ William; wife Sophia ≠ Jane/Rhoda; children George/James/J.S. ≠ Francis/Leanner or Decatur/Leaner. Age 27 is coincidental. C1636 C1637
+C1614 “SK 10A/10B = n0015 stamp 13 / only Jessamine Newman household” CORRECTED. n0015 stamp 13 William 67 × Nancy 45 REJECT stands. Those are not the SK 10A/10B pages. “Only household” WITHDRAWN. C1638
+Jessamine Newman pages CLOSED (true 10A/10B + stamp 13). County CLOSED compiled (index Newman 10A-10B only). C1639
+
+B071 Madison 1850 USGW 1850indx (Wayback id_): NEWMAN 250B only (already T. T. M.D. REJECT C1343). No TINCHER. County CLOSED compiled. C1640
+
+B071 Lincoln 1850 Dist 2 residual n0286–n0335 namecols IMAGE SEEN on 4-up sheets (Logan/Castle/Hocker/Campbell/Gentry/Creek/Carson). Nil Newman/Tincher. n0335 looks Livingston start (Day/Dorsey/Henry). Dist 1 n0168–n0285 still OCR draft (tesseract running — do not kill). County NOT closed. C1641 C1642
+
+B071 Hopkins 1850 Dist 2 pg003 compiled LIVE: hh 67 Francis J. Newman 28 KY farmer × Mary J. 25 + Elizabeth 1 REJECT. hh 76 John Newman 59 NC farmer × Jane 52 NC + Louisa 28 + Martha 20… REJECT. Other Hopkins pages residual. County NOT closed. C1643 C1644 C1645
+
+No free William × Rhoda / William × Jane license. C1646
+Parents of 1928 Frank still PROBABLE. 1860 Rhoda widow + B.F. 7 PROVEN. 1850 living head FOUND = Owsley hh 311 William × Jane (C1608). Jane not merged with Rhoda. #28 stands. Abner n0092 POSSIBLE only. C1647
+
+B059 GT Lee WWI LIVE 452540. Brandenburg, Luther + Underwood, Luther only. Cards unread. C1648
+B065/B045/B069 FS 1146342 SPA ~19654 B isLoggedIn (R011-69). USGenNet wills LIVE — Jane Steele NEWMAN + Elizabeth NEWNAM + Mary F. TINCHER; no Samuel P. C1649
+B055/B080 FAQ 9938 LIVE cards 228-229. No free June 1958 clip. Phone not re-asked. C1650
+B088 IA 602 still 515. One line. C1651
+B081 Grant 21 not merged. B084 POSSIBLE Jr only. No 1966/1962. No 33-12/33-13. Phones/R001/R007/R008 not re-asked. C1652
+
+Pass 129 densifies Woodford 462A Christopher 21 MA REJECT (C1654 C1655), Scott 399B John 45 Ireland REJECT (C1659), Scott 475B John B Newham 47 × Mahala REJECT (C1661), Scott 480A/B no Newham (C1656 C1657), $325 correction (C1653). See pass129-extract.

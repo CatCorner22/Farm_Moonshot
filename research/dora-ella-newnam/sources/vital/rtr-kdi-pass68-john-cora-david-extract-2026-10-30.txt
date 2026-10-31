@@ -1,0 +1,50 @@
+Reclaim The Records, Kentucky Death Index 1911–1989, annual lists.
+IA: https://archive.org/details/reclaim-the-records-kentucky-death-index-01911-1989
+Years 1939–1989 TXT in /tmp/dora65/rtr/; 1911–38 partial in /tmp/dora67/rtr/.
+Extract 30 Oct 2026. Index only.
+
+JOHN / JOHNNIE × NEWMAN/NEWNAM (age that could be 1880 John L. ~1879):
+  NEWMAN  JOHN L     88  WDFRD/WOODFORD  07/17/1966  vol 036  cert 17762
+    Age 88 ⇒ born ~1878. Middle L matches 1880 John L. Geography is
+    Woodford, not Owsley. POSSIBLE only (C492). Do not merge.
+  NEWNAM  JOHNNIE    76  LEE/ESTILL      04/19/1972  vol 021  cert 10178
+    Age 76 ⇒ born ~1896. Too young for 1880 John L. REJECT (C493).
+  NEWMAN  JOHN       88  FYETE/FAYETTE   04/27/1962  vol 021  cert 10268
+    Age 88 ⇒ born ~1874. A few years old; no L. Not merged.
+
+No JOHN NEWMAN/NEWNAM row with death county or residence OWSLY 1939–1989.
+Owsley year-files 1911–1946: no adult John Newnam decedent (Celia 1943
+is mother of Everett McGuire — already known FAN).
+
+CORA:
+  NEWNAM  CORA P     87  FYETE/LEE       02/25/1981  vol 012  cert 05561
+    = Cora Plummer, widow of Rev. Luther (USGenNet obit 27 Feb 1981).
+    PROVEN (C494). Not Cora Brandenburg.
+  NEWMAN  CORA B     95  FYETE/FAYETTE   11/19/1988  vol 059  cert 29183
+    Age 95 ⇒ born ~1893 = 1940 Cora age 47. POSSIBLE (C495).
+    Certificate unread.
+
+DAVID / GRANT chain (B080 / B081):
+  NEWMAN  DAVID G    70  MADSN/MADISON   06/19/1958  vol 028  cert 13719
+    already C473 POSSIBLE vs David F. / Frank.
+  NEWMAN  DAVID G    60  MADSN/MADISON   03/25/1984  vol 020  cert 09547
+    already C474 REJECT vs 1889 man. POSSIBLE as a later Jr. (C497).
+
+A 2025 funeral notice for a deceased Madison-area man (b. 10 Jun 1950
+Berea; d. 1 Feb 2025) names parents the late David Grant Newman Jr.
+and Ruby Lee Riddle Newman. Living survivors redacted.
+  Authored lead only: a David Grant Newman Jr. existed in the Berea
+  cluster. That is NOT a 1958 certificate. Do not merge Sr. with
+  1900 David F. or 1910 Grant 21 on this notice (C496 SPECULATIVE/POSSIBLE).
+  Ruby L. Newman d. 6 Nov 1994 Madison age 71 (SortedByName snippet) —
+  deceased FAN of Jr. only; not expanded.
+
+BOWMAN MELISSA/MALISSA of age ~1876: nil 1939–1989.
+  NEWMAN MALISSA 65 Webster 28 Jan 1954 ⇒ born ~1889. REJECT vs 1876.
+Owsley DC 1911–1940: no Melissa/Malissa Bowman decedent (C501).
+
+COLE GRANT 1 U/1 Owsley 02 Feb 1913 vol 011 cert 05485 — infant FAN
+of the Cole surname; not merged with Grant 21 (C506 POSSIBLE FAN).
+
+Claims: C492 C493 C494 C495 C496 C497 C501 C506
+S396

@@ -1,0 +1,11 @@
+# Negative / blocked URLs — 1900 Beattyville / Proctor transcripts
+# Captured: 2026-10-30  Access: not examined (HTTP)
+
+https://usgennet.org/usa/ky/county/lee/census/1900beattyville.html  HTTP 404
+https://usgennet.org/usa/ky/county/lee/census/1900/1900beattyville.html  HTTP 404
+https://usgennet.org/usa/ky/county/lee/census/1900proctor.html  HTTP 404
+https://sites.rootsweb.com/~kylee/census/1900/1900beattyville.htm  HTTP 403
+https://sites.rootsweb.com/~kylee/census/1900/1900proctor.htm  HTTP 403
+
+William Newnam + Katherine Sternberg household on 1900 Beattyville / Proctor
+transcripts was not examined this pass.

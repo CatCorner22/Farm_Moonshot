@@ -1,0 +1,81 @@
+1930 U.S. census, Lee County, Kentucky — Debi Houser Kendrick transcripts.
+Landing: https://usgennet.org/usa/ky/county/lee/census/1930/
+EDs 1–11 captured 30 Oct 2026. Transcription only (original schedules
+not isolated this pass). Local HTML:
+  sources/census/lee-1930-dir.html
+  lee-1930-ed1.html … lee-1930-ed11.html
+
+ED 1 Beattyville (https://usgennet.org/usa/ky/county/lee/census/1930/ed1.html)
+  /104  Elias T. NEWNAM  head  87  wd  KYKYKY
+  130/140 Maple St.  Luther NEWNAM  head  39  m 27  KYKYKY  WW Vet
+          Cora wife 36 m 24 KYKYKY
+          Sarah E. dau 10; Luther G. son 8; Betty L. dau 4 1/12
+          (children recorded as census lines only; skip living-era follow-up)
+
+ED 2 (ed2.html)
+  74/75  Ellen NEWNAM  head  47  m 23  KYKYKY
+          _______ dau 16 s
+          Keep separate. Not John+Cora. Not Cora Plummer (Luther’s wife
+          is on ED 1). Not 1940 Cora (~37 in 1930).
+
+ED 3 (ed3.html)
+  10/10  Robert SPICER  head  46  m 23  KYKYKY
+          Callie wife 44 m 20 KYKYKY
+          Cordelia 18, Walker 16, Mable 13, Vernon 12, Samuel 9,
+          Victora 9, Hubert 6
+          PROBABLE Callie (Newnam) Spicer (C408/C410). Children as
+          census lines only.
+
+ED 4  nil Newman/Newnam head.
+
+ED 5 (ed5.html)
+  51/51  Moses ESTES  head  70  m 22  KYKYKY
+          Malissa D. wife  66  m 16  KYKYKY  nee NEWMAN
+          Ruby M. HOGAN gdau 15
+          = Dora’s sister Melissa Estes (C358), still married to Moses
+          in 1930; later Melissa Estes Miller d. 11 Apr 1957.
+
+ED 6 (ed6.html)
+  59/61  Mary J. NEWMAN  head  74  wd  27  KYNCKY
+          William B. brother  68  s  KYNCKY
+          Keep separate. Age 74 ⇒ b. ~1856. Not 1880 John L.’s mother
+          Sarah M. (b. 1850, Evans by 1910). Not Elizabeth ~1849 of
+          conflict #9 (different given name + a living brother William B.).
+
+ED 7  nil Newman/Newnam head.
+ED 8  nil Newman/Newnam head.
+
+ED 9 Proctor (ed9.html)
+  23/24  Catherine NEWNAM  head  59  wd  KYGermKY
+          PROBABLE Katherine Sternberg, widow of William / W. N.
+          (C384/C385). German-father nativity matches Sternberg.
+
+ED 10 Heidelberg–Beattyville Road (ed10.html)
+  132/132  21 Apr 1930
+          Everett NEWMAN  head  42  wd  KYVAKY
+          Louis dau 15 s KYKYKY
+          Edward son 12 s KYKYKY
+          Gladys dau 8 s KYKYKY
+          Mother b. VA confirms C456 (Sarah M. / Minerva Venable, VA).
+          Edward 12 in 1930 is the 1936 wreck victim (C322), age
+          consistent with the *Enterprise* “16.” Children as census
+          lines only. Widow — Callie Moore d. 27 Apr 1926 (C357).
+
+ED 11 (ed11.html)
+  281/281  19 Apr 1930
+          Grant NEWMAN  head  53  m 21  KYKYKY
+          Martha wife 44 m 16 KYKYKY
+          Ivan 15, Virginia B. 12, Donelly 8, Jessie 6
+          Nancy REYNOLDS mother 71 wd KYKYKY
+          Age 53 in 1930 = b. ~1877 = 1876 Grant (C376/C378), not
+          1910 Grant 21 (C440). Children as census lines only.
+  Greene ESTES hh (same ED): son Herman 4 — not B067 Herman of
+          Brasstown (age/place fail).
+
+Nil this county: John ~52 + Cora ~37 Newnam/Newman head in any of
+the eleven Lee 1930 EDs. If they were together in 1930 they were
+not a Lee head-of-house. Residual: unpublished Owsley 1930 D7
+Buck Creek (TFKRHA Census_1930_Owsley_D7.php unread).
+
+Claims: C530–C539 C545 C546 C550 C553
+S405
