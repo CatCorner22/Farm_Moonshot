@@ -324,5 +324,9 @@ Place as it was *at the date*; modern equivalent in brackets. Flag impossibiliti
 | Apr 1930 | — | FAN **PROVEN** as visual nil: Boyd + Allie Newman/Newnam **absent** from all **16** sheets of 1930 Station Camp South **33-8**. Combined with **33-7** absent = both Station Camp EDs | Estill Co., KY | C1232 C919–C921 | S929 |
 | 1899–2008 | — | FAN **PROVEN** as catalog: Hutchins FAQ **9806** — *Citizen* microfilm **1899–2008**; phone **859-985-3364**; email **reference@berea.edu** | Berea, Madison Co., KY | C1235 | S932 |
 | 3 Jul 1958–Dec 2008 | — | FAN **PROVEN** as catalog: UK Young Library **Microfilm S-150** *Berea Citizen* **1958: Jul. 3 – 2008 : Dec.** June 1958 still *The Citizen* | Lexington, Fayette Co., KY | C1236 | S933 |
+| Apr 1930 | — | FAN **PROVEN** as image: Estill **33-9** Dist. 3 isolated on IA ACPL **742** leaves **793–819** (Hattie M. Cole; **1A–14A** stamped **116**) | Estill Co., KY | C1242 | S939 |
+| Apr 1930 | — | FAN **PROVEN** as visual nil: Boyd + Allie Newman/Newnam **absent** from all **27** sheets of 1930 Estill **33-9** | Estill Co., KY | C1243 | S940 |
+| Apr 1930 | — | FAN **PROVEN** as image: Estill **33-5** Irvine South Dist. 1 isolated leaves **707–717** (Mrs Daisy Wiggins; **1A** stamped **060**–**6A** stamped **065**) | Estill Co., KY | C1244 | S941 |
+| Apr 1930 | — | FAN **PROVEN** as visual nil: Boyd + Allie **absent** from all **11** populated sheets of 1930 Estill **33-5** | Estill Co., KY | C1245 | S942 |
 
 **Impossibility flags:** None. Mother ~29 at Dora’s 1871 birth (Mary b. 1842). Dora age 14 at marriage is legal/period-possible (KY) though young; 1880 age 8 corroborates. Two children born before Coy in the 1886–1889 window would have Dora aged 15–18 — possible. No event after 23 Aug 1926 is attributed to her.

@@ -815,6 +815,18 @@ Exact strings logged **L1049–L1063**.
 
 Exact strings logged **L1064–L1078**.
 
+### Pass 108 variant storm (31 Oct 2026)
+
+**Boyd / Allie (B089)** — Boyd/Boyde/Floyd × Newman/Newnam/newnarn/newan. Soundex **N550** / **B300**. Place 1930 **33-9** Dist. 3 leaves **793–819**; **33-5** Irvine South Dist. 1 leaves **707–717**; IA **`kentuckycensus00reel742`**. OCR given Boyd.
+
+**Dora Stone 1926 (B049/B058)** — Dora/posa/dosa/rosa/dona × Stone/Newman/Newnam. Soundex **S350** / **N550**. Cert **1524** RD **676**. Residual Pope **Roll 5** / UArk **F419.D37 D3**.
+
+**Frank / David G (B055/B080)** — Frank/David F./David G. × Newnam/Newman. Soundex **N550**. Cert **13719** RD **028**. Hutchins **859-985-3364**.
+
+**WWI (B069/B047)** — Luther/John H./McCoy × Newnam/Newman/newnarn. M1509 **KY45 / KY24 / KY74**.
+
+Exact strings logged **L1079–L1083**.
+
 ## Agent SDK / GitHub channel
 
 Inspected 30 Oct 2026 (**L351**): this repository has **no** `package.json`, **no** `@grok/agent-sdk`, **no** `bot/` directory. GitHub channel `bot/channels/github.ts` is **n/a** and was **not** authored. Project subagent: `.cursor/agents/dora-genealogy-detective.md`.
