@@ -1,0 +1,49 @@
+Pass 92 — 1930 original T626-773 remaining Owsley EDs (not Buffalo 95-6)
+IA item kentuckycensus00reel773. Images seen 31 Oct 2026. Working JP2s not retained.
+
+ED map (headers two-passed on cited leaves):
+- Leaf 528: ED 95-1 Town of Booneville sh 1 A, enum. John C. Seale, 8 Apr 1930.
+  95-1 occupies leaves ~528–533 (sh 1 A–3 B).
+- Leaf 534: ED 95-2 Booneville Magisterial District 1 (not the Town) sh 1 A,
+  enum. Charles C. Seale, 8 Apr 1930.
+- Leaf 541: ED 95-2 sh 4 B, enum. Charles C. Seale, 14 Apr 1930.
+- Leaf 544: ED 95-2 sh 6 A, same enumerator, 18 Apr 1930.
+- Leaf 607: ED 95-4 Island Creek Mag Dist 3 sh 8 B, enum. Joseph T. Minger, 22 Apr 1930.
+- Leaf 650: ED 95-7 Buck Creek Mag Dist 6 sh 1 A, enum. Robert H. Seale, 2 Apr 1930.
+  (Recovered from primary archive view after a transient 404 on the standard mirror.)
+- Leaf 670: ED 95-8 Wild Dog opener names (Baker Millard / Baker John C — other men).
+- Leaf 681: unused B header (end of Owsley). Robertson County starts ~685.
+
+Two-pass cited originals:
+
+95-1 sh 1 A (leaf 528) names: nil Barrett/Barett/Barret head. Cited heads Bowman Walker,
+Bowman Charles A, Seale J.M., Treadway, Seale, Baker, Long, Flannery Martha, Gibson,
+Combs Nancy, Rowland, Seale Charles L, Wilson, Bowman Melvin. Not an every-line close
+of the whole Town ED.
+
+95-2 sh 1 B (leaf 535) names (Mag Dist 1, not Town): Bowman, Elisha 37 × Ollie 37;
+Mayers, J.C. × Ollie 31; Beard, James 27 × Sallie 27. All DISPROVED as Barrett James 45
+× Ollie 34 (Beard ≠ Barrett; Ollie wives of Bowman/Mayers; ages 37/31 ≠ 34 of Buffalo).
+
+95-2 sh 4 B (leaf 541) ln 88 dw 85/85 Barrett, Walker Head R none 38 m × Rosie Wife 32 m
++ Daily Son 14 + Stella M Dau 10 + Fred Son 7 + Berlin Son 5 + Marie Dau 3 4/12 +
+Geneva Dau ~2. Enumerator Charles C. Seale, 14 Apr 1930. Age 38 ≠ ~85; Rosie ≠ Susan;
+own children ≠ James 45's. DISPROVED as 1910 Barrett John 65 / 1930 John ~85.
+Not merged with Buffalo James 45 (C979) or Brison 28 (C980).
+
+95-4 sh 8 B (leaf 607): continuation household with daughter Byrdah 23 and daughter
+Ollie ~16, then Brewer, Lawrence. OCR "Byrd" is a given name, not a Barrett head.
+Ollie here is not Barrett Ollie 34. DISPROVED.
+
+95-7 sh 1 A (leaf 650): header recovered. Buck Creek Mag Dist 6. Not two-passed for
+every Barrett head this pass.
+
+95-8 opener (leaf 670) names: Hartsock, Oliver, Mainous, Minter, Brewer Nancy,
+Scott, Lynch Tom, Baker Millard 43 × Nannie 43, Lynch Allen, Baker John C 39 × Della,
+Peters John H 60 × Nora. Baker ≠ Barrett. Nil Barrett John ~85 / Susan ~78 as heads
+on this opener sheet.
+
+Residual: remaining sheets of EDs 95-1 through 95-5, 95-7, and 95-8 are name-fetched
+as working files and are NOT every-line image-closed. Do not treat county-wide nil
+Barrett John/Susan as proved. ED 95-6 Buffalo remains the closed 1930 district for
+James × Ollie (C981).

@@ -2477,3 +2477,40 @@ research/dora-ella-newnam/sources/census/1880-lee-ky-ed59-sheet43-p768-caroline-
   sha256: c4b339b9617f221dd60e4f4f4cd48f4b93425ae897b55d415483fc6bf7511b50
   format: JPEG photo, 107,470 bytes
   check: 1930 Soundex B-630 Barrett Tuckie 19 Perry DISPROVED as Susan
+
+/workspace/research/dora-ella-newnam/sources/indexes/pass92-coverage.txt
+  sha256: 93ba58f58bbbd277b7c53a47fab165bad3427e926d1d0407ec6a63b814b4e75c
+  format: text extract, 2,412 bytes
+  check: Pass 92 coverage; catalog 156 unchanged; remaining 1930 Owsley EDs mapped; Walker 38 DISPROVED
+/workspace/research/dora-ella-newnam/sources/indexes/owsley-1930-remaining-eds-pass92.txt
+  sha256: 82f78d3a616d36150d40adc4f3101142bc681953290bdf23db2b6aa2ff8d11bb
+  format: text extract, 2,860 bytes
+  check: 1930 remaining Owsley ED map; 95-2 dw 85 Barrett Walker 38 DISPROVED as John 85
+/workspace/research/dora-ella-newnam/sources/indexes/kydi-1931-1940-barrett-ollie-susan-pass92.txt
+  sha256: 8bdfbe8160940a0ce9f1bebb99e466221ee9efafa659db101ab3aef1e602cdd7
+  format: text extract, 1,841 bytes
+  check: KYDI 1931-1940 nil Barrett Ollie/Susan; 1934 Brison 89 Clay DISPROVED as 1930 Brison 28
+/workspace/research/dora-ella-newnam/sources/indexes/josephine-gilbert-pass92.txt
+  sha256: 4e8deaa8e32a815885a957ebcdaefc9bd9217f8af0af455dc85937dbcf049c39
+  format: text extract, 2,947 bytes
+  check: Campbell Josephine Wetterhan 1903 DISPROVED; Hopkins TT52-54 / Webster 1860-1900 other/nil; T288 unseen
+/workspace/research/dora-ella-newnam/sources/census/1930-owsley-ed951-sh1a-hdr.jpg
+  sha256: 00e206fbe86c4c4470d8facf8d89f0c8801a784751a14a4c4a97c4e5ba2f2106
+  format: JPEG photo, 52,600 bytes
+  check: 1930 original ED 95-1 sh 1 A header Town of Booneville John C. Seale 8 Apr 1930
+/workspace/research/dora-ella-newnam/sources/census/1930-owsley-ed952-sh4b-hdr.jpg
+  sha256: d1d44d4d04a7a6ea56fbdb5f12e1087042cbd43be140723bf1e453e08f8b7992
+  format: JPEG photo, 48,790 bytes
+  check: 1930 original ED 95-2 sh 4 B header Charles C. Seale 14 Apr 1930
+/workspace/research/dora-ella-newnam/sources/census/1930-owsley-ed952-sh4b-names.jpg
+  sha256: 8b7ad21ec159e6f189f13377ecc16c4a512ff34f0ffcf92451bfb00ff3363c44
+  format: JPEG photo, 265,795 bytes
+  check: 1930 original ED 95-2 sh 4 B names ln 88 Barrett Walker through Geneva
+/workspace/research/dora-ella-newnam/sources/census/1930-owsley-ed952-sh4b-hh85-barrett-walker.jpg
+  sha256: 67484773947b3d584515c622628d657583fe332f2a4276b265876cf01b626541
+  format: JPEG photo, 128,665 bytes
+  check: 1930 original ED 95-2 sh 4 B dw 85 Barrett Walker 38 x Rosie DISPROVED as John 85
+/workspace/research/dora-ella-newnam/sources/census/1930-owsley-ed957-sh1a-hdr.jpg
+  sha256: 2935d91f1211b75fc536907badf65e1d10f2f3988de870412331f03f97d79ea9
+  format: JPEG photo, 52,593 bytes
+  check: 1930 original ED 95-7 sh 1 A header Buck Creek recovered Robert H. Seale 2 Apr 1930

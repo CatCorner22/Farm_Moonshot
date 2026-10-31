@@ -1,0 +1,34 @@
+Pass 92 — KYDI 1931–1940 Barrett Ollie / Susan / Olive + 1934 Brison
+Reclaim the Records, Kentucky Death Index 1911–1989, IA item
+reclaim-the-records-kentucky-death-index-01911-1989. Year files 1931–1940 opened
+31 Oct 2026 (same downloads as Pass 91 John hunt; re-grepped this pass). Index only.
+Does not name parents. Full year files not committed.
+
+Statewide given-name hunt:
+Nil BARRETT / BARETT / BARRET decedent with given name OLLIE, OLIVE, SUSAN, or SUSIE
+in any Kentucky county 1931–1940.
+
+Other-surname rows that fail the Barrett test (not Barrett):
+1936 JONES SUSAN 77 BARRN BARREN 02/26/1936 vol 013 #06398
+1940 EDMONDS SUSIE 64 BARRN BARREN 12/21/1940 vol 055 #27456
+1940 JONES SUSIE 53 HCKMN HICKMAN 12/26/1940 vol 058 #28574
+
+1934 BARRETT BRISON 89 CLAY 03/04/1934 vol 012 #05830 and duplicate #05831.
+Identifiers that fail vs 1930 original ED 95-6 dw 60 Barrett, Brison 28 × Dora
+(C980): age 89 ≠ ~32; Clay ≠ Owsley Buffalo. DISPROVED as the 1930 Brison 28.
+Not a John/Susan row.
+
+Neighboring-county Barrett decedents 1931–1940 (already in Pass 91 John hunt; none
+are Ollie/Susan ~34/~78):
+1931 Care 34 Owsly; Dollie 5 Clay; Irvin 78 Clay; Rutherford 22 Clay.
+1932 Henry 1 Owsly; Pealey 87 Owsly (DISPROVED as John, C974).
+1933 James 34 Owsly (DISPROVED as 1930 James 45, C974); Martha 30 Owsly.
+1934 Alfa 33 Estil; George 3 Lee; Brison 89 Clay (above).
+1936 Charley 36 Owsly; Mattie 53 Clay; Stephen 73 Clay; Henry C Jr U/1 Owsly.
+1937 Pea 66 Lee (DISPROVED as 1910 John, C973).
+1938 Katherine 84 Clay; Lee 64 Clay; Lourane 32 Lee; Robert U/1 Owsly.
+1939 Fannie 69 Owsly; Margaret J 74 Brtht; William 79 Lee (DISPROVED as 1910 John, C973).
+1940 Leonard 30 Clay.
+
+Index-nil of Barrett Ollie/Susan is not proof of death or of survival. Unregistered /
+out of KY / delayed filing remain open. Do not close B063.

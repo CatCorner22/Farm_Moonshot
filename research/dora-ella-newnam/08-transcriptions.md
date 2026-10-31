@@ -4720,3 +4720,91 @@ Pass 2: License still unseen. Do **not** invent T288 contents. Do **not** promot
 - Josephine remaining 404/landing → C976
 - T288 still unseen → C977
 - B061 remaining gap → C984
+
+## DOC196 — Catalog + Pass 92 coverage
+
+- Extract: `pass92-coverage.txt` SHA-256 `93ba58f58bbbd277b7c53a47fab165bad3427e926d1d0407ec6a63b814b4e75c`
+- Provenance: Cursor `list-cloud-agents` includeArchived limit 200, 31 Oct 2026. This run `bc-01a18bb4-e162-785c-9724-86a7c5663bf1`.
+
+### Diplomatic — catalog
+
+> **156** / `hasMore: false` / `totalMatched: 156`. Unchanged vs Pass 91. NEW vs 156 = **0**. Status-only: TN Pass 94 sheets and AR Pass 94 sheets now IDLE; IL and KY Pass 94 sheets still RUNNING. Dora location search now **WAITING_FOR_BACKGROUND_WORK**. Nested reviewer **not** respawned. Sibling C281 **not imported**.
+
+Pass 2: Process count only. **No** new independently image-backed P001 1900–1926 residence. Skip **C221–C280**. Do **not** promote C509.
+
+### Facts extracted → claim IDs
+- catalog 156 unchanged → C985
+- B063 remaining gap → C995
+- B061 remaining gap → C996
+
+## DOC197 — 1930 original remaining Owsley EDs (Pass 92)
+
+- Extract: `owsley-1930-remaining-eds-pass92.txt` SHA-256 `82f78d3a616d36150d40adc4f3101142bc681953290bdf23db2b6aa2ff8d11bb`
+- JPEGs: `1930-owsley-ed951-sh1a-hdr.jpg` `00e206fbe86c4c4470d8facf8d89f0c8801a784751a14a4c4a97c4e5ba2f2106`; `…ed952-sh4b-hdr.jpg` `d1d44d4d04a7a6ea56fbdb5f12e1087042cbd43be140723bf1e453e08f8b7992`; `…ed952-sh4b-names.jpg` `8b7ad21ec159e6f189f13377ecc16c4a512ff34f0ffcf92451bfb00ff3363c44`; `…ed952-sh4b-hh85-barrett-walker.jpg` `67484773947b3d584515c622628d657583fe332f2a4276b265876cf01b626541`; `…ed957-sh1a-hdr.jpg` `2935d91f1211b75fc536907badf65e1d10f2f3988de870412331f03f97d79ea9`
+- Provenance: NARA T626 reel **773**; IA `kentuckycensus00reel773`. **Images seen** 31 Oct 2026. Entire ED **95-6** already image-closed Pass 91.
+
+### Diplomatic — cited originals
+
+> Leaf **528**, ED **95-1**, Town of Booneville, Sheet **1 A**, Supervisor’s District **8**, enum. **John C. Seale**, **8 Apr 1930**. Names: **nil** Barrett/Barett/Barret head.
+
+> Leaf **541**, ED **95-2**, Booneville Mag Dist **1**, Sheet **4 B**, enum. **Charles C. Seale**, **14 Apr 1930**. Ln **88** dw **85/85 Barrett, Walker** Head R m W **38** m. Ln **89 Rosie** Wife H **32** m. Ln **90 Daily** Son **14** S. Ln **91 Stella M** Daughter **10** S. Ln **92 Fred** Son **7** S. Ln **93 Berlin** Son **5** S. Ln **94 Marie** Daughter **3 4/12** S. Ln **95 Geneva** Daughter ~**2** S.
+
+> Leaf **535**, ED **95-2** sh **1 B**: **Bowman, Elisha** **37** × **Ollie** **37**; **Mayers, J.C.** × **Ollie** **31**; **Beard, James** **27** × Sallie. **DISPROVED** as Buffalo James × Ollie.
+
+> Leaf **607**, ED **95-4** sh **8 B**: daughter **Byrdah** **23** + daughter **Ollie** ~**16**, then **Brewer, Lawrence**. OCR “Byrd” is a given name. **DISPROVED** as Barrett Ollie.
+
+> Leaf **650**, ED **95-7**, Buck Creek Mag Dist **6**, Sheet **1 A**, enum. **Robert H. Seale**, **2 Apr 1930**. Header recovered after a transient 404.
+
+> Leaf **670**, ED **95-8** opener: **Baker, Millard** **43** × Nannie; **Baker, John C.** **39** × Della. Baker ≠ Barrett.
+
+Pass 2: Walker **38** is a separate house. Remaining sheets of EDs **95-1** through **95-5**, **95-7**, and **95-8** are **not** every-line image-closed. Do not close B063.
+
+### Facts extracted → claim IDs
+- remaining Owsley ED map → C986
+- 95-1 opener nil; 95-2 sh 1B other Ollies/Beard DISPROVED → C987
+- Walker 38 DISPROVED as John 85 → C988
+- 95-4 Byrdah/Ollie daughters; 95-8 Baker; 95-7 recovered → C989
+- remaining EDs not every-line closed → C990
+
+## DOC198 — KYDI 1931–1940 Barrett Ollie/Susan + 1934 Brison (Pass 92)
+
+- Extract: `kydi-1931-1940-barrett-ollie-susan-pass92.txt` SHA-256 `8bdfbe8160940a0ce9f1bebb99e466221ee9efafa659db101ab3aef1e602cdd7`
+- Coverage: `pass92-coverage.txt` `93ba58f58bbbd277b7c53a47fab165bad3427e926d1d0407ec6a63b814b4e75c`
+- Provenance: Reclaim the Records, *Kentucky Death Index 1911–1989*, IA item `reclaim-the-records-kentucky-death-index-01911-1989`. Year files **1931–1940** re-grepped 31 Oct 2026. **Index only.** Does **not** name parents. Full year files **not committed**.
+
+### Diplomatic — cited index rows
+
+> **Nil** Barrett/Barett/Barret decedent given-name **Ollie / Olive / Susan / Susie** statewide 1931–1940.
+
+> **1934** BARRETT BRISON **89** CLAY 03/04/1934 vol **012** #**05830** and duplicate #**05831**. Age 89 ≠ ~32; Clay ≠ Owsley. **DISPROVED** as 1930 Brison **28**.
+
+> Other-surname: **1936** JONES SUSAN **77** BARRN; **1940** EDMONDS SUSIE **64** BARRN. Not Barrett.
+
+Pass 2: Index-nil is **not** proof of death. Do not close B063.
+
+### Facts extracted → claim IDs
+- KYDI 1931–1940 nil Barrett Ollie/Susan; 1934 Brison 89 DISPROVED → C991
+
+## DOC199 — Josephine remaining + T288 (Pass 92)
+
+- Extract: `josephine-gilbert-pass92.txt` SHA-256 `4e8deaa8e32a815885a957ebcdaefc9bd9217f8af0af455dc85937dbcf049c39`
+- Coverage: `pass92-coverage.txt` `93ba58f58bbbd277b7c53a47fab165bad3427e926d1d0407ec6a63b814b4e75c`
+- Provenance: KYGenWeb / USGenWeb HTML (Campbell Alexandria 1899–1904; Hopkins TT52–54; Webster 1860–1900), IA advancedsearch. Opened 31 Oct 2026. **HTML-seen / access-fail**, not a ~1902 civil register. License unseen. Original 1916 DC face unseen. T288 unseen.
+
+### Diplomatic — cited extracts
+
+> Campbell Alexandria 1899–1904: **BRAUNTZ, Edward** (26 Claryville) × **Josephine Wetterhan** (19 Claryville) MD **6 Nov 1903**. Maiden Wetterhan ≠ Newnam. **DISPROVED**. Josephine *witness* 12 June 1901 Wetterham/Rack. **GILBERT, John F** × Lizzie Kuhl 19 Apr 1899 **other**. **GILBERT, Laura** × Alford Phillips 2 Sep 1903 **other**. `/marriages.htm` **404**.
+
+> Hopkins TT52–54: Newman, Isabel R. 3/12/1900 **other**; Josie Dunning / Josephine Agan / Josie Edgar / M. Josephine Hudgens **other**; Gilbert Hallie B. (bride) / Arthur Oliver **other**. **Nil** Josephine Newnam × Gilbert.
+
+> Webster 1860–1900: Newman rows **other**; GILBERT unpaired with Josephine. 1901–1905 `webmarr.htm` **404**.
+
+> IA T288 title **numFound 0**. Identifier `t288*` is audio **The Purge**, **not** NARA T288.
+
+Pass 2: License still unseen. Do **not** invent T288 contents. Do **not** promote C509. Do not close B063.
+
+### Facts extracted → claim IDs
+- Campbell Josephine Wetterhan DISPROVED; Gilberts other → C992
+- Hopkins TT52–54 / Webster 1860–1900 other/nil → C993
+- T288 still unseen → C994
+- B061 remaining gap → C996

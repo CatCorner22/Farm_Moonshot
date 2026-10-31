@@ -1,0 +1,50 @@
+Pass 92 — Josephine Newnam × Gilbert ~1902 remaining substitutes + IA T288
+Opened 31 Oct 2026. HTML-seen / access-fail, not a ~1902 civil register.
+License unseen. Original 1916 DC face unseen. T288 unseen.
+
+Campbell County (KYUSGenWeb / usgenwebsites.org/KYCampbell):
+- Landing 200. /marriages.htm 404 (same as Pass 91). kykinfolk Campbell SSL expired.
+- Alexandria bonds 1899–1904 OPENED:
+  1899 GILBERT, John F (27y Alexandria) × Lizzie Kuhl (27 Claryville) BD 18 Apr /
+    MD 19 Apr. Other couple. DISPROVED as Josephine Newnam × Gilbert.
+  12 June 1901: Josephine is a *witness* (with Robert Wetterham, Andy, Eva Rack) at
+    a Wetterham/Rack marriage. Not a bride.
+  1903 BRAUNTZ, Edward (26 Claryville) × Josephine Wetterhan (19 Claryville)
+    BD 8 Nov / MD 6 Nov 1903 (also indexed WITTERHAN, Josephine). Maiden Wetterhan
+    ≠ Newnam. DISPROVED as Henry H.'s daughter Josephine.
+  1903 GILBERT, Laura (22 Hawthorne) × Alford Phillips (22 Pools Creek) BD 1 Sep /
+    MD 2 Sep. Other bride. DISPROVED.
+  1903 PHILLIPS, Laura D × Charles Neal. Other. DISPROVED.
+- Campbell compiled ghi/mno (1820s–1850s Newman/Gilbert bonds) n/a ~1902.
+  No Josephine Newnam × Gilbert in the opened 1899–1904 Alexandria files.
+
+Hopkins County KYGenWeb marriage books:
+- /marriages.htm 404. Alternate path kygenweb.net/hopkins/marr/tt52.html–tt54.html OPENED.
+- TT52 (1900–01): Geisenberger × Newman, Isabel R. 3/12/1900 other;
+  Wilson × Dunning, Josie 9/19/1900 other;
+  Comber × Gilbert, Hallie B. 11/27/1900 (Gilbert as bride) other;
+  Gilbert, Arthur Oliver × Myers, Faye 4/22/1901 other;
+  Bourland × Agan, Josephine 4/22/1901 other.
+- TT53 (1901–02): Loller × Edgar, Josie 9/25/1901 other.
+- TT54 (1902–03): Allen × Hudgens, M. Josephine 9/12/1903 other.
+Nil Josephine Newnam/Newman × Gilbert.
+
+Webster County:
+- 1860–1900 compiled marriages OPENED (usgenwebsites.org/KYWebster/marriages/webster_county_marriages.htm).
+  Newman rows are other people (Elizabeth × J F 1890, Alice × G E Bowers 1896,
+  Mary × G G Clark 1900, etc.). GILBERT token count 4; none paired with Josephine/Josie.
+  Josephine/Josie brides are other surnames (Brackett, Corbett, Odonald, Nabers, …).
+- 1901–1905 webmarr.htm 404.
+
+Other western/northern landings this pass:
+Henderson / Breckinridge / Christian / McCracken landings 200 (no ~1902 Josephine×Gilbert
+book opened). Daviess/Hancock/Ohio/Grayson/Hart/Barren/Warren/Simpson/Logan/Todd/Trigg/
+Caldwell/Lyon/Marshall/Union/Hopkins-landing/Muhlenberg-landing/Butler/Edmonson
+/marriages.htm 404. Muhlenberg vitals-marriages.htm 200 landing only.
+
+IA T288 title (T288 OR "General Index to Pension Files") AND (Newman OR Newnam): numFound 0.
+Identifier t288* OR generalindextopen*: audio hit The Purge, not NARA T288.
+M123 / 1890 veterans Kentucky: numFound 0.
+1916 Owsley death certificate title: numFound 0.
+
+Do not invent T288 contents. Do not promote C509. License still unseen.

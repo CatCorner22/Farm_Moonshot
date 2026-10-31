@@ -1,0 +1,34 @@
+Pass 92 coverage — 31 Oct 2026 (America/New_York)
+This run bc-01a18bb4-e162-785c-9724-86a7c5663bf1
+Catalog list-cloud-agents includeArchived limit 200 → 156 / hasMore false / totalMatched 156.
+Unchanged vs Pass 91. NEW vs 156 = 0 (no IDs imported).
+Status-only: Read TN Pass 94 sheets now IDLE; Read AR Pass 94 sheets now IDLE;
+Read IL Pass 94 sheets still RUNNING; Read KY Pass 94 sheets still RUNNING.
+Dora location search now WAITING_FOR_BACKGROUND_WORK (was RUNNING in Pass 91).
+Dora 1840 Clark B059 still RUNNING. Nested reviewer not respawned.
+Sibling PR #33 C281 not imported. Skip C221–C280 / L245–L342 / S259–S266.
+Do not mint C274–C280. Do not promote C509. Do not hunt D-540. Do not close B063.
+
+Work this pass:
+- IA T626-773 remaining Owsley 1930 EDs 95-1, 95-2, 95-3, 95-4, 95-5, 95-7, 95-8
+  name-column fetch (leaves ~528–635, 650–681; 621/650 recovered from primary
+  archive view after transient 404). Entire ED 95-6 already image-closed Pass 91.
+- Two-pass originals: 95-1 sh 1A opener; 95-2 sh 4B Barrett Walker 38 HIT DISPROVED
+  as John ~85; 95-2 sh 1B Bowman Elisha × Ollie / Mayers × Ollie / Beard James
+  DISPROVED as Barrett Ollie/James; 95-4 sh 8B Ollie/Byrdah daughters DISPROVED;
+  95-7 sh 1A recovered; 95-8 opener Baker Millard / Baker John C DISPROVED as Barrett.
+  Remaining sheets of those EDs are name-fetched, not every-line two-passed.
+- KYDI 1931–1940 statewide nil Barrett/Barett/Barret given-name Ollie/Olive/Susan/Susie.
+  1934 BARRETT BRISON 89 CLAY (certs 05830/05831) DISPROVED as 1930 Brison 28.
+  1936 Jones Susan 77 Barren and 1940 Edmonds Susie 64 Barren are other surnames.
+- Campbell Alexandria 1899–1904 bonds opened: Josephine Wetterhan × Edward Brauntz
+  1903 DISPROVED; Josephine witness 12 June 1901 Wetterham/Rack; John F Gilbert ×
+  Lizzie Kuhl 1899 other; Laura Gilbert × Alford Phillips 1903 other. No Newnam×Gilbert.
+  Campbell ghi/mno compiled 1820s–1850s n/a ~1902.
+- Hopkins KYGenWeb TT52–TT54 (1900–1903) opened: other Josephines/Josies/Gilberts;
+  Newman Isabel R. 1900 other. Nil Josephine Newnam × Gilbert.
+- Webster 1860–1900 compiled marriages opened: Newman rows other; GILBERT unpaired
+  with Josephine. 1901–1905 webmarr.htm 404.
+- IA T288 / M123 / 1916 DC title numFound 0 again. Identifier t288* is audio garbage.
+
+B061 / B063 remain open. Next unused after this pass: C997+ / L869+ / S697+ / DOC200+.
