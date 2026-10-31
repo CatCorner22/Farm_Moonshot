@@ -89,6 +89,20 @@ Wildcard strings to use: `New*m`, `Dor* New*`, `"Doll Newnam"`, `McCoy OR Coy Ne
 
 Exact strings logged **L343–L360**.
 
+## Name-variant storm (wrap-up 31 Oct 2026, `search_variants.py`)
+
+**William Newnam** — William × Newnam / newman / newnarn / newan / newnom. Soundex **N550**.
+
+**Rhoda Tincher** — Rhoda × Tincher / Tinsher / Fincher / Tinker. Soundex **T526**.
+
+**Decatur Newman** — Decatur / pecatur / recatur × Newman / newnam / newnarn / newan. Distinctive 1850 child (~4) of the unread William × Rhoda couple.
+
+**Dora Stone / Posa** — Dora, posa, dosa, rosa, dona, dara × Stone / Newman. Used on LOC 1926 Arkansas page search.
+
+**Luther Newnam / Shelby Newnam / Gracie Brandenburg** — Luther, Shelby, Gracie/Grace × Newnam/Newman + Brandenburg. Used on Lee 1945 deaths and Book **10**.
+
+Exact strings logged **L1300–L1310**.
+
 ## Agent SDK / GitHub channel
 
 Inspected 30 Oct 2026 (**L351**): this repository has **no** `package.json`, **no** `@grok/agent-sdk`, **no** `bot/` directory. GitHub channel `bot/channels/github.ts` is **n/a** and was **not** authored. Project subagent: `.cursor/agents/dora-genealogy-detective.md`.

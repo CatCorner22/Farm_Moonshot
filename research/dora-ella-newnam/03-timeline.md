@@ -85,9 +85,11 @@ Place as it was *at the date*; modern equivalent in brackets. Flag impossibiliti
 | **13 May 1980** (WikiTree only) | ~83 (if May 1897) | **Possible** death of **Rissie (Newnam) Pelfrey** — **not** primary-sourced | Knoxville, Knox Co., TN | C230 | S241 | Do not print as fact; **C231** nil free corroboration |
 
 | **30 Nov 1928** | — | *Beattyville Enterprise*: “Uncle **Doll Newman** has been very sick… not able to be out” (**PROBABLE** P004) | Beattyville, Lee Co., KY | C284 | S270 |
-| **15 Mar 1932** | — | FAN: **Clay Dunigan**, 23, of Idamay × **Ladona Newman**, 16, of Delvinta; parents Shelby Newman & Grace Brandenburg — **not** P001’s child | Delvinta, Lee Co., KY | C297 C298 | S277 |
+| **4 Sept 1913** | — | FAN: **Shelby NEWNAM**, 21, son of **Richard Newnam × Sarah Damrell**, × **Gracie BRANDENBURG**, 15, dau. of Major Brandenburg × Emily Howelton — **not** P002 | Bride’s home, Lee Co., KY | C1504 C1505 | S1101 |
+| **15 Mar 1932** | — | FAN: **Clay Dunigan**, 23, of Idamay × **Ladona Newman**, 16, of Delvinta; parents Shelby Newman & Grace Brandenburg — **not** P001’s child | Delvinta, Lee Co., KY | C297 C298 C1506 | S277 S1101 |
 | **1 Apr 1932** | — | *Enterprise*: **E. T. Sparks** of Hazard visiting **Uncle Doll Newnam**; Rev. **Luther Newnam** pastor; Everett of Idamay; Ladonna note | Beattyville / Idamay, Lee Co., KY | C284 C285 C286 C287 | S270 |
 | 18 Apr 1932 | — | Father Elias d. on his birthday, age 90 | Beattyville, Lee Co., KY | C048 | S011 prior |
 | **13 Dec 1939** | — | FAN: **Everett Newnam**, 50, of Idamay, d. accidental pistol (PROBABLE = 1932 cane-planter). Daughters: `Living — details withheld` | Richmond hospital / Idamay, Lee Co., KY | C299 | S278 |
+| **28 Feb 1945** | — | FAN: **Rev. Luther Newnam** d., b. **21 Feb 1891** Beattyville; spouse Cora P.; parents William Newnam × Katherine Sternberg. **PROBABLE** same 1932 pastor. **Not** P002 | Beattyville, Lee Co., KY | C1500 C1501 C1502 | S1100 |
 
 **Impossibility flags:** None. Mother ~29 at Dora’s 1871 birth (Mary b. 1842). Dora age 14 at marriage is legal/period-possible (KY) though young; 1880 age 8 corroborates. Two children born before Coy in the 1886–1889 window would have Dora aged 15–18 — possible. No event after 23 Aug 1926 is attributed to her.

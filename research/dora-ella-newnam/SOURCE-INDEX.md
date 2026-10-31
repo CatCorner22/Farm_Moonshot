@@ -5,7 +5,7 @@ Full file list (331 files): [`sources/SOURCE-INVENTORY.tsv`](sources/SOURCE-INVE
 
 **Access labels:** `image seen` · `index only` · `transcription only` · `catalog only` · `OCR text` · `not yet examined`.
 
-Captured this session: **30 Oct 2026**. Earlier plates remain in `sources/census/`, `sources/soundex/`, and `book/plates/` (see `12-image-gallery.md` and `04-evidence.md`).
+Captured this session: **31 Oct 2026** (wrap-up **S1100–S1106**) plus **30 Oct 2026** plates. Earlier plates remain in `sources/census/`, `sources/soundex/`, and `book/plates/` (see `12-image-gallery.md` and `04-evidence.md`).
 
 | ID | Filename | Date captured | Repository | URL | Citation (what / where created / where accessed) | What it proves | Access |
 |---|---|---|---|---|---|---|---|
@@ -26,6 +26,13 @@ Captured this session: **30 Oct 2026**. Earlier plates remain in `sources/census
 | S280 | `sources/press/ia-yell-journal-1926-search-2026-10-30.json` · `ia-beattyville-enterprise-1926-search-2026-10-30.json` | 2026-10-30 | Internet Archive Solr | https://archive.org/ | 0 items for those 1926 titles | **C301** | index only |
 | S281 | `sources/press/genealogytrails-yell-obits-landing-2026-10-30.html` | 2026-10-30 | Genealogy Trails Yell obits | https://genealogytrails.com/ark/yell/obits.html | Landing page nil Stone/Newnam/Dora/1926 | **C302** | transcription only |
 | S282 | *(same HTML as S277)* | 2026-10-30 | Lee Books 20–24 officiant rows | https://usgennet.org/usa/ky/county/lee/marriage/marrbook23.html | Luther Newnam, minister, 1926–1933 including 6 Apr 1932 | **C300** | transcription only |
+| S1100 | `sources/wrapup/lee-deaths-1945.html` · `lee-deaths-1945-luther-extract-2026-10-31.txt` | 2026-10-31 | USGenNet Lee deaths 1945 | https://usgennet.org/usa/ky/county/lee/deaths/1945.html | Rev. Luther Newnam row (b. 21 Feb 1891 / d. 28 Feb 1945) | **C1500** | transcription only |
+| S1101 | `sources/wrapup/lee-marrbook10.html` · `lee-book10-shelby-gracie-1913-extract-2026-10-31.txt` | 2026-10-31 | USGenNet Lee Book 10 | https://usgennet.org/usa/ky/county/lee/marriage/marrbook10.html | Shelby Newnam × Gracie Brandenburg 4 Sept 1913 | **C1504** | transcription only |
+| S1102 | `sources/wrapup/loc-dora-stone-arkansas-1926.json` | 2026-10-31 | LOC Chronicling America | https://www.loc.gov/collections/chronicling-america/ | `"Dora Stone"` AR 1926 = 0 pages | **C1509** | index only |
+| S1103 | `sources/wrapup/ia-decatur-newman-1850.json` | 2026-10-31 | Internet Archive Solr | https://archive.org/ | `Decatur Newman 1850 Kentucky` = 0 | **C1510** | index only |
+| S1104 | `sources/wrapup/ia-rhoda-newman-1850.json` | 2026-10-31 | Internet Archive Solr | https://archive.org/ | Over-broad Rhoda 1850 query — not a hit | — | index only (unusable) |
+| S1105 | `sources/wrapup/gt-estill-census-landing.html` | 2026-10-31 | Genealogy Trails Estill census | https://genealogytrails.com/ken/estill/census.html | 1810 + 1870 mortality only; no 1850 | **C1511** | catalog only |
+| S1106 | `sources/wrapup/interment-yell-index.html` · `interment-yell-2026-10-31-extract.txt` | 2026-10-31 | Interment.net Yell Co. | https://www.interment.net/us/ar/yell.htm | No cemetery list in HTML | **C1512** | landing shell |
 
 ## Word biography provenance
 
@@ -38,7 +45,8 @@ See [`sources/authored/PROVENANCE.md`](sources/authored/PROVENANCE.md). Drive se
 | Ancestry *Arkansas Death Certificates 1914–1969* / FS **1940760** | User login: **Posa Stone** / Dora Stone, Yell, 23 Aug 1926, cert. **1524**; Thomas/T.A. Stone **1925** | R001 |
 | Newspapers.com *Beattyville Enterprise* 1896–1999 | Search Newnam/Newman/Stone, Aug–Sep **1926** and 1904–1910 | 1926 not in IA `beatty` six issues or UK film years |
 | UK Margaret I. King Library microfilm **S 90-033** / KUK **18568** | Request *Beattyville Enterprise* reels for 1909–11 / 1915 (Samuel-death window) | Catalog only (**S271**) |
-| *Yell County Journal* (Ola, 1925–1934) | AR State Archives / Danville or Plainview library | Not digitised free |
+| *Dardanelle Post-Dispatch* Aug–Sep 1926 | Pope Co. Library **Roll 5** (116 E Third, Russellville AR; phone already recorded — do not re-ask) / UArk **F419.D37 D3** / AR Hist. Comn. | LOC 1926 `"Dora Stone"` AR **0**; title not free-digitized |
+| *Yell County Journal* (Ola, 1925–1934) | AR State Archives / Danville or Plainview library | Not digitised free; August 1926 not in recorded holdings |
 | NARA M1509 rolls **KY45** (Lee), **KY24** (Estill), **KY74** (Owsley), **AR69** (Yell) | FS sign-in or NARA | Cards unread (**B047**) |
 | KDLA / KHS Lee probate 1873–2004 | Film browse Samuel P. Newnam admin. | **B045** |
 
@@ -50,4 +58,4 @@ See [`sources/authored/PROVENANCE.md`](sources/authored/PROVENANCE.md). Drive se
 
 **Thomas / T. A. Stone:** Thomas, Tom, T. A., T A × Stone, Store, Stowe (rejects already logged).
 
-Exact strings in `02-log.md` **L343–L352**.
+Exact strings in `02-log.md` **L343–L352** and wrap-up **L1300–L1310**.

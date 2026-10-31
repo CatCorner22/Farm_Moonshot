@@ -1,0 +1,9 @@
+# Extract: Interment.net Yell County, Arkansas cemetery landing
+# https://www.interment.net/us/ar/yell.htm
+# Captured 31 Oct 2026. HTTP 200, 20892 bytes.
+# Local HTML: sources/wrapup/interment-yell-index.html
+
+The retrieved page is a modern site shell (newsletter, social links, “Submit a Transcription”).
+Full-text search of the saved HTML for Carter, Cove, Chapel, Plainview, Ola, Newman, Newnam, Stone, Dora: **no cemetery list and no memorial rows**.
+
+This is **not** a Carter Cove stone photograph. Access: landing shell only.
