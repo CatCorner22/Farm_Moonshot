@@ -1,6 +1,6 @@
 # Dora Ella Newnam Stone
 
-*A documented life, 1871–1926. Compiled from every research chat in this project, 27–31 October 2026. Living descendants are not named. Facts below the line of proof are labelled in the text. Nothing here is family lore presented as fact. The year-by-year 1900–death working file is `research/dora-ella-newnam/14-1900-death-reconstruction.md`.*
+*A documented life, 1871–1926. Family reading, 31 October 2026. Living descendants are not named. Facts below the line of proof are labelled in the text. Nothing here is family lore presented as fact. The year-by-year 1900–death working file is `research/dora-ella-newnam/14-1900-death-reconstruction.md`.*
 
 ## Table of contents
 
@@ -9,15 +9,16 @@
 3. [Chapter 2. Thursday at Doll Newnam’s](#chapter-2-thursday-at-doll-newnams)
 4. [Chapter 3. Seven born, five living](#chapter-3-seven-born-five-living)
 5. [Places: 1900 to death](#places-1900-to-death)
-6. [Chapter 4. The years the census lost](#chapter-4-the-years-the-census-lost)
-7. [Chapter 5. Arkansas, and the name Stone](#chapter-5-arkansas-and-the-name-stone)
-8. [Chapter 6. Noon, Monday, 23 August 1926](#chapter-6-noon-monday-23-august-1926)
-9. [Chapter 7. After she was gone — Beattyville paper, Greene sweep, FAN](#chapter-7-after-she-was-gone--beattyville-paper-greene-sweep-fan)
-10. [The children, in brief](#the-children-in-brief)
-11. [How to read the plates](#how-to-read-the-plates)
-12. [What remains open](#what-remains-open)
-13. [Footnotes](#footnotes)
-14. [Source index](#source-index)
+6. [Year by year, 1900 to 1926](#year-by-year-1900-to-1926)
+7. [Chapter 4. The years the census lost](#chapter-4-the-years-the-census-lost)
+8. [Chapter 5. Arkansas, and the name Stone](#chapter-5-arkansas-and-the-name-stone)
+9. [Chapter 6. Noon, Monday, 23 August 1926](#chapter-6-noon-monday-23-august-1926)
+10. [Chapter 7. After she was gone — Beattyville paper, Greene sweep, FAN](#chapter-7-after-she-was-gone--beattyville-paper-greene-sweep-fan)
+11. [The children, in brief](#the-children-in-brief)
+12. [How to read the plates](#how-to-read-the-plates)
+13. [What remains open](#what-remains-open)
+14. [Footnotes](#footnotes)
+15. [Source index](#source-index)
 
 ---
 
@@ -25,11 +26,11 @@
 
 This book is a biography, not a pedigree abstract. It answers one question: what can be documented, under the Genealogical Proof Standard, of the life of Dora Ella Newnam, later Dora Stone, who died at Ola, Yell County, Arkansas, at noon on Monday, 23 August 1926.
 
-Sixteen Cursor chats produced the evidence. The original mobile session opened the case and read the Arkansas death certificate the family still holds. Later sessions recovered the 1880 childhood schedule that free transcripts had missed, walked statewide Soundex reels for 1910 and 1920, tested a Peebles third-marriage hypothesis and set it aside, and photographed sixty-one frames of National Archives microfilm. This volume folds those chats into one narrative. The case dossier remains the working file; this book is the public reading of it.
+Sixteen Cursor chats produced the evidence. The original mobile session opened the case and read the Arkansas death certificate the family still holds. Later sessions recovered the 1880 childhood schedule that free transcripts had missed, walked statewide Soundex reels for 1910 and 1920, tested a Peebles third-marriage hypothesis and set it aside, and photographed sixty-one frames of National Archives microfilm. This 31 October 2026 family reading folds those chats into one narrative and adds the 1900-to-death year grid, the 1917 two-state split of her children, and two later published facts: Ola’s 1921/1929 medical-directory lists (Dr. Beal is on neither) and the 1945/1913 Lee County extracts that close two Beattyville FAN identities. The case dossier remains the working file; this book is the public reading of it.
 
-Two marriages are documented. A later Peebles husband is not. The year 1868 on the death certificate is wrong. Where she spent April 1910 and January 1920 is still unknown. Those limits are part of the story.
+Two marriages are documented. A later Peebles husband is not. The year 1868 on the death certificate is wrong. Where she spent April 1910 and January 1920 is still **UNKNOWN**. The years 1901–09, 1911–16, and 1921–25 are labelled **open** — no record yet read names her place. Those limits are part of the story.
 
-Claim tags such as C003 and source tags such as S010 point back to the evidence catalog. They are not decoration.
+Claim tags such as C003 and source tags such as S010 point back to the evidence catalog. They are not decoration. Confidence labels in this book mean: **PROVEN** (two independent identifiers, no unresolved contradiction); **PROBABLE** (the weight of evidence favors it); **POSSIBLE** (a serious lead that has not passed the same-person test); **SPECULATIVE** (lore or an unsourced tree); **DISPROVED** (a record that cannot stand). This book does not promote POSSIBLE or SPECULATIVE to proven.
 
 ---
 
@@ -95,7 +96,9 @@ Those NUMIDENT files were read in the first research chat. They close identity f
 
 ## Places: 1900 to death
 
-This section states only what records pin Dora’s **physical location**. Confidence labels match the dossier (`06-dossier.md`).
+This section states only what records pin Dora’s **physical location**. Confidence labels match the dossier (`06-dossier.md`). The family reading of the same span is the year grid that follows. Do not treat a child’s address, a husband’s address, or a negative search as her house.
+
+**How to read the labels.** **PROVEN** pins her (or a named household that excludes her). **UNKNOWN** means April 1910 and January 1920: statewide searches closed the obvious surnames, and she is still not on a schedule. **open** means no record yet read names her place that year. **POSSIBLE** and **PROBABLE** stay below proven.
 
 **1 June 1900 — PROVEN.** Sturgeon precinct, Lee County, Kentucky, dwelling 67/67, with husband Samuel P. Newnam and five living children. [C011] [S005]
 
@@ -111,11 +114,49 @@ This section states only what records pin Dora’s **physical location**. Confid
 
 **11 July 1918 — mother’s burial PROVEN; Dora not named.** Brandenburg-Quillen Cemetery, Heidelberg: **Mary A. NEWNAM, 22 April 1842 – 11 July 1918**, next to Elias. [C309] [S283] She is **not** in the Lee 1918 death-certificate extracts, the Lee 1911–1929 N death index, the Owsley 1918 extracts, or the Kentucky statewide death index for **1917, 1918, or 1919**. [C310] [C324] [C326] [C327] [C328] Estill’s 1911–16 / 1920–24 / 1926 submitted death pages, Madison’s 1918 K–R file, Madison’s remaining year×letter files, Garrard’s 1911–26 year files, Clay’s 1911–20 year files, Laurel’s 1911–21 year files, Knox D/N/S, Whitley 1900–1929, Leslie 1901/1903–04, Bell D/N/S, and Harlan 1903–04 / miners / obits are also **nil**; **Nunn, Mary C**, 17 June 1918, age 63, and **Stone, Mary E**, 51, 18 December 1918, Madison, are different women. [C1605] [C1608] [C1612] [C1614] [C1622] [C1626] [C1641] [C1655] [C1656] [C1653] [C1658] [C1666] Conflict #18. There is no civil row from which to read an informant. Do not print that Dora attended.
 
-**1920–August 1926 — PROBABLE Lamar / Carter Cove sector, Yell County.** No census line names her as Mrs. Stone. Burial geography, death registration at **Ola**, informant Coy of **Ola**, and husband Thomas Stone’s **1925** marker at Carter Cove support residence in that neighborhood after **probable** remarriage to T. A. Stone. [C014] [C016] [C211] [C129] Perry Marriage Books **F** and **G** (1916–1930, letters N+S+D), Conway Books **W/X/Y/Z** brides (1919–1927), and Van Buren’s 1865–1940 N+S index have **no** Dora Newnam × T. A. Stone. [C1352] [C1353] [C1355] [C1369] [C1390] The death certificate residence field reads **“Mammoth, Ark.”** — printed as written; no Mammoth post office is known in Yell or Perry, and a **Nimrod** misread remains **untested** against the certificate image. [C204b]
+**1920–August 1926 — PROBABLE Lamar / Carter Cove sector, Yell County.** No census line names her as Mrs. Stone. Burial geography, death registration at **Ola**, informant Coy of **Ola**, and husband Thomas Stone’s **1925** marker at Carter Cove support residence in that neighborhood after **probable** remarriage to T. A. Stone. [C014] [C016] [C211] [C129] Perry Marriage Books **F** and **G** (1916–1930, letters N+S+D), Conway Books **W/X/Y/Z** brides (1919–1927), and Van Buren’s 1865–1940 N+S index have **no** Dora Newnam × T. A. Stone. [C1352] [C1353] [C1355] [C1369] [C1390] The death certificate residence field reads **“Mammoth, Ark.”** — printed as written; no Mammoth post office is known in Yell or Perry. The 1921 medical directory’s **Mammoth Spring** is in **Fulton** County — a different place. [C374] A **Nimrod** misread remains **untested** against the certificate image. [C204b] Ola’s licensed physicians in 1921 and 1929 are listed; **Dr. T. W. Beal is in neither book**. [C370] [C373]
 
 **23 August 1926 — PROVEN.** Death at **Ola**, Yell County, Arkansas; burial **Carters Chapel / Carter Cemetery**, Lamar Township (Carter Cove). [C015] [C206] [S003]
 
 **Missouri, Tennessee, Oklahoma, Texas — not documented as her home** in the 1900–1926 window except as **negative** Soundex/census searches (Newman Dora ~39 in 1910; ~48 in Jan 1920). Greene County, Missouri, holds a **Thomas A. Stone** household in 1900 that may be the same man as Perry County’s 1920 widower — that pins **Tom A.**, not Dora, and is **not merged**. [C117] [C050]
+
+---
+
+## Year by year, 1900 to 1926
+
+This grid is the family reading of `14-1900-death-reconstruction.md`. One line a year. **UNKNOWN** and **open** stay open. A child’s house is not her house.
+
+| Year | What the records say about Dora | Label | Claims |
+|---|---|---|---|
+| 1900 | 1 June: Sturgeon precinct, Lee County, Kentucky, dwelling **67/67**, wife of Samuel P. Newnam; five living children of seven born (McCoy, Mary M., Pearl, Rissa, John H.) | **PROVEN** (transcription) | C011 S005 |
+| 1901 | No record read names her place | **open** | C205 |
+| 1902 | Banford post office opens on Sturgeon Creek (26 May). That is a postal name, not a 1902 residence proof for her | **open** | C205 |
+| 1903 | No record read names her place | **open** | C205 |
+| 1904 | Lee license **S. P. Newnam** × Rosa L. Banks is **not merged** with Samuel. It does not locate Dora | **open** for her | C013 C203 |
+| 1905 | No record read names her place. Samuel’s death is **PROBABLE** before April 1910; the day and place are unknown. WikiTree’s 24 February 1906 is lore | **open** | C012 C205 |
+| 1906 | Same as 1905. Do not print 24 February 1906 as a death date | **open** | C012 S030 |
+| 1907 | No record read names her place | **open** | C205 |
+| 1908 | No record read names her place | **open** | C205 |
+| 1909 | No record read names her place. Lee has no inventoried death register for 1905–1910 | **open** | C110 C205 |
+| 1910 | April: **not** Newman/Newnam/Stone/Peebles ~39 in KY/AR/MO/OK/TX indexes; **not** on Sturgeon ED 99 as Newnam; **not** in Pearl’s Buck Creek house; **not** in Rufus Jackson’s house twenty doors later. FamilySearch T624-66 Van Buren images returned **401** — **no household was read**. Arkansas Miracode S-350 has **no** Dora Stone ~38 born Kentucky | **UNKNOWN** (honest gap) | C030 C070 C088 C317 C1449 C1450 C1675 |
+| 1911 | No record read names her place. Lee Books 5–19 have no Dora Newnam remarriage | **open** | C084 C205 |
+| 1912 | Perry Book E: **McCoy Newman**, 23, × **Ada Bench** — **not merged** with son Coy. Do not use 1912 to place Dora in Perry (reconstruction conflict #19) | **open** for her | C1335 |
+| 1913 | No record read names her place. FAN only: Shelby Newnam × Gracie Brandenburg, 4 September, Lee Book 10 — **not** Samuel | **open** | C1504 C1505 C205 |
+| 1914 | No record read names her place | **open** | C205 |
+| 1915 | No record read names her place | **open** | C205 |
+| 1916 | No record read names her place | **open** | C205 |
+| 1917 | 18 February: son Coy marries Letha Viola Sullivan at **Ola**, Yell County — first documented Arkansas event for this family; Dora’s presence **POSSIBLE** only. 29 June: daughter Pearl registers Margaret E. Jackson in **Lee County**, Kentucky. The children are in **two states**. Dora is on neither record | Event **PROVEN** for the children; her own place **not stated** | C027 C306 C312 |
+| 1918 | 11 July: mother **Mary A. Newnam** buried Brandenburg-Quillen, Heidelberg (**PROVEN** as a 2001 stone reading). Lee, Owsley, and the Kentucky statewide death index 1917–19 have **no** matching civil row (conflict #18). Dora is **not named**. Do not print that she attended | **open** for her | C309 C310 C326 |
+| 1919 | 11 March: Pearl registers Fannie B. Jackson in Lee County. Dora is not on the row | **open** | C307 |
+| 1920 | January: **not** in Pearl’s Sturgeon house (Clyde 26, Pearl 24, Estella, Fannie). **not** in Coy’s Danville house. **not** in Elias’s Beattyville house. Tom A. Stone is a **widower** in Howell Township, Perry County, on 24 February — if he is her second husband, the marriage is **after this census**. The groom Clyde is **PROBABLE** the Buck Creek son of Rufus and Margaret Jackson, born May 1892 | Her line **UNKNOWN**; those four households **PROVEN** negatives | C305 C207 C209 C050 C316 C318 |
+| 1921 | No record read names her place. *American Medical Directory*: Ola physicians are Brewer, Davis, Harkey. **No T. W. Beal.** Mammoth Spring is in Fulton County | **open** for her; directory **PROVEN** | C370 C371 C374 C205 |
+| 1922 | No record read names her place. Elizabeth Newnam’s will names Pearl and Clyde, not Dora | **open** | C205 S054 |
+| 1923 | No record read names her place. Saline Books I–R have **no** Dora Newnam × Stone. A 1911 poll **Stones, T. A.** and a 1912 **T.A. Stone** consent stay **unmerged** with the Perry widower | **open** | C1478 C1480 C1481 C1488 |
+| 1924 | No record read names her place | **open** | C205 |
+| 1925 | **Probable** death of T. A. Stone (Carter Cove marker 1845–1925). That is **his** death, not her address. 1929 directory still lists **no Beal** at Ola | **PROBABLE** for his death; **open** for her | C051 C283 C373 |
+| 1926 | Noon Monday 23 August: death at **Ola**, Yell County; spouse T. A. Stone; informant Coy Newnam of Ola; apoplexy one day; Dr. Thomas W. Beal. 24 August: burial **Carters Chapel / Carter Cove** | **PROVEN** | C015 C016 C206 S003 |
+
+**Still unread on free film, and therefore not invented:** the original 1900 Sturgeon schedule image for dwelling 67 (the household above is a transcription); FamilySearch T624-66 Van Buren 1910 (401 Unauthorized); Yell marriage books 1920–25; the 1925 Arkansas death certificate of Thomas/T. A. Stone; the 1926 *Yell County Journal* and *Beattyville Enterprise*.
 
 ---
 
@@ -161,13 +202,15 @@ Missouri’s 1900 S-350 Thomas/Tom window does not settle it. The Thomas A. card
 
 Sometime after that census and before 1926 she became Mrs. T. A. Stone. No license has been read. The 1925 Arkansas death certificate of Thomas/Tom/T. A. Stone is the document that will settle his identity. It has not been pulled from this workspace. Ancestry blocks the virtual machine.
 
-Ola in those years was a cotton and timber town on the Rock Island line. Coy’s 1917 marriage is the first proved Arkansas date for this family. Dora’s death eight years later is the last.
+Ola in those years was a cotton and timber town on the Rock Island line. The Encyclopedia of Arkansas (Gleason) says the town was incorporated 20 March 1900, had 516 people in 1910, **655** in 1920, and 648 in 1930, and that the early-twentieth-century street had a weekly newspaper and doctors. [C376] [S292] That 655 figure is the same number the 1921 and 1929 medical directories print beside Ola. [C370] [C373] Those pages describe the town. They do not place Dora on a named street. Coy’s 1917 marriage is the first proved Arkansas date for this family. Dora’s death eight years later is the last.
 
 ---
 
 ## Chapter 6. Noon, Monday, 23 August 1926
 
-Dora Stone died at Ola of apoplexy after one day, attended by Dr. Thomas W. Beal. The certificate, Arkansas Board of Health file about 1524, registration district 676, calls her white, widowed, a housewife, resident of “Mammoth, Ark.” There is no Mammoth post office in Yell or Perry County. A later reading has suggested Nimrod. That hypothesis has not been tested against the image in this file, and this book does not correct the place. [C015] [S003]
+Dora Stone died at Ola of apoplexy after one day, attended by Dr. Thomas W. Beal. The certificate, Arkansas Board of Health file about 1524, registration district 676, calls her white, widowed, a housewife, resident of “Mammoth, Ark.” There is no Mammoth post office in Yell or Perry County. The 1921 medical directory’s **Mammoth Spring** is in **Fulton** County — a different town. Nimrod, Perry County, had one listed physician that year (Charles T. Wallace). Neither fact proves her address. A later reading has suggested Nimrod. That hypothesis has not been tested against the image in this file, and this book does not correct the place. [C015] [C374] [C375] [S003] [S291]
+
+The licensed doctors at Ola in the 1921 *American Medical Directory* were W. R. Brewer, George C. Davis, and William Harkey. Thomas J. Pool was then at Danville. [C370] [C372] By the 1929 directory the Ola list was William E. Ballenger, Harkey (retired), Elbert C. Hunt, James Monroe Miller, and Pool — who had moved into town. [C373] **Neither edition lists a Beal.** Free web and the Genealogy Trails Yell B-biographies page also failed to produce Dr. T. W. Beal. [C371] [C378] Beal may have been brief (1925–27), unlisted, or a misread. This book does not replace the certificate’s attending name with Pool or Ballenger. That is the physician-list conflict (Word-archive #19; this case file #21). [S291] [S296]
 
 The statewide Arkansas death index and its Ancestry mirror are notorious for misreading given names. You reported that this death was indexed as **Posa Stone** — a common misfile for **Dora** — while the certificate face still reads Dora Stone, certificate **1524**. Treat **Newman** and **Newnam** as the same family on every index pass; Carter Cove and Coy’s informant line already spell the maiden name both ways. This pass found no free index row under Posa Stone to screenshot; confirming the misfile on FamilySearch collection **1940760** or Ancestry **8771** remains the cleanest proof. [C198] [S168]
 
@@ -188,9 +231,9 @@ She was fifty-five if she was the eight-year-old of District 59. The certificate
 
 Dora had been in the ground two years when the *Beattyville Enterprise* of 30 November 1928 printed a sick-list note: “Uncle Doll Newman has been very sick… not able to be out.” On 1 April 1932 the same paper said E. T. Sparks of Hazard was visiting Uncle Doll Newnam in town. Seventeen days later Elias T. Newnam died on his ninetieth birthday. Nickname, town, and lifespan are two independent identifiers and no contradiction: the man in those notes is **probable** her father. [C284] [C048] [S270]
 
-The six free issues do not name Dora Stone, Dora Newnam, or Samuel P. They do name a living Beattyville Newnam cluster that is **not** silently merged with her household. Rev. Luther Newnam appears as Christian Church pastor in March–April 1932; Lee marriage books 20–24 show him officiating at Beattyville from at least 24 November 1926 through 1933, including 6 April 1932 — **probable** the same minister, **not** Samuel (dead by 1910). [C285] [C300] [S282] Everett Newnam of Idamay planned two acres of cane in March 1932; the *Enterprise* of 14 December 1939 reported Everett Newnam, fifty, of Idamay, dead of an accidental pistol discharge on the Heidelberg road — **probable** the same man (name + Idamay). His three daughters are living and are not named here. [C286] [C299] [S278]
+The six free issues do not name Dora Stone, Dora Newnam, or Samuel P. They do name a living Beattyville Newnam cluster that is **not** silently merged with her household. Rev. Luther Newnam appears as Christian Church pastor in March–April 1932; Lee marriage books 20–24 show him officiating at Beattyville from at least 24 November 1926 through 1933, including 6 April 1932 — **probable** the same minister, **not** Samuel (dead by 1910). [C285] [C300] [S282] The 1945 Lee death extract names **Rev. Luther Newnam**, born 21 February 1891 at Beattyville, died 28 February 1945, wife Cora P., parents William Newnam and Katherine Sternberg — **probable** the same pastor (title + town + lifespan). The original certificate has not been seen. [C1500] [C1501] [S1100] Everett Newnam of Idamay planned two acres of cane in March 1932; the *Enterprise* of 14 December 1939 reported Everett Newnam, fifty, of Idamay, dead of an accidental pistol discharge on the Heidelberg road — **probable** the same man (name + Idamay). His three daughters are living and are not named here. [C286] [C299] [S278]
 
-On 15 March 1932, at Delvinta, George Botner married Clay Dunigan, twenty-three, of Idamay, son of R. C. Dunigan and Sirena Porter, to Ladona Newman, sixteen, of Delvinta, daughter of **Shelby Newman** and **Grace Brandenburg**. [C297] [S277] The 1 April paper said Clay and Ladonna had “quietly married last week.” Same names, same month: **probable** one couple. The bride is **not** Dora’s child — the license names other parents, and Dora had been dead five and a half years. [C298] Living descendants of that 1932 marriage are withheld.
+On 15 March 1932, at Delvinta, George Botner married Clay Dunigan, twenty-three, of Idamay, son of R. C. Dunigan and Sirena Porter, to Ladona Newman, sixteen, of Delvinta, daughter of **Shelby Newman** and **Grace Brandenburg**. [C297] [S277] Lee Book 10 records that couple’s own license: Shelby Newnam, twenty-one, son of Richard Newnam and Sarah Damrell, married Gracie Brandenburg, fifteen, daughter of Major Brandenburg and Emily Howelton, on 4 September 1913 at the bride’s home. [C1504] [S1101] That Shelby is **not** Samuel (different parents; born about 1892). [C1505] The 1 April paper said Clay and Ladonna had “quietly married last week.” Same names, same month: **probable** one couple, and **probable** that Ladona is the 1913 couple’s daughter. The bride is **not** Dora’s child — the license names other parents, and Dora had been dead five and a half years. [C298] [C1506] Living descendants of that 1932 marriage are withheld.
 
 Carrie Newman (1898–1915) at Sandlin Cemetery, Ola, fails the same-person test against Dora. [C295] A 1906 Hopkinsville correspondent-column “newnam” and an 1902 Richmond quote from Will Newnam are other men in other counties. [C291] [C292]
 
@@ -203,7 +246,7 @@ Two children born to Dora and Samuel died before 1 June 1900. They have no names
 
 **McCoy “Coy” Newnam**, born April 1890, married Letha Viola Sullivan at Ola on 18 February 1917. In 1920 they were at Danville, Yell County. In 1930 they were back in Buck Creek, Owsley County. He is the 1926 informant. Living descendants are not named here.
 
-**Mary Magdalene Newnam**, June 1892 on the census, 12 June 1893 Beattyville on her Social Security account, later Mary M. Bunch. Marriage and death are not closed in free sources: Lee marriage books have no Bunch row; NUMIDENT lists her **deceased** but gives **no death date**; the public Social Security Death Index API returned no match for SSN **410-19-2658**; Tennessee archives and Knox marriage indexes were not reachable from the research VM (**R007**, **L257**). [C158]
+**Mary Magdalene Newnam**, June 1892 on the census, 12 June 1893 Beattyville on her Social Security account, later Mary M. Bunch. Marriage and death are not closed in free sources: Lee marriage books have no Bunch row; NUMIDENT lists her **deceased** but gives **no death date**; the public Social Security Death Index API returned no match for her account (number withheld from this family reading); Tennessee archives and Knox marriage indexes were not reachable from the research VM (**R007**, **L257**). [C158]
 
 **Pearl P. Newnam**, 15 March 1895, Banford, later Pearl P. Jackson, died 19 September 1980, Shelby County, Tennessee. The 1910 grandmother household, the 1922 Elizabeth Newnam will, and the NUMIDENT file make her identification the strongest of the five.
 
@@ -230,25 +273,33 @@ Charts of pedigree, descendants, and lifespan follow the plates. Dashed lines me
 
 ## What remains open
 
-- Where Dora was in April 1910 and January 1920. Newman in Kentucky, Arkansas and Missouri is closed. Sturgeon ED 99 as Newnam is closed. Stone in Kentucky is closed. Peebles in Kentucky 1910 is closed. Other surnames, and a wife listed only on a husband’s card, remain.
-- The original 1885 marriage image; Samuel’s death; the 1925 Arkansas death certificate of T. A. Stone; the Stone × Newnam license; Carter Cove photographs; the *Yell County Journal*.
+These items stay below proven. They are not a research to-do list for the family; they are the holes this book will not paper over.
+
+- **April 1910 and January 1920 — UNKNOWN.** Newman in Kentucky, Arkansas and Missouri is closed. Sturgeon ED 99 as Newnam is closed. Stone in Kentucky is closed. Peebles in Kentucky 1910 is closed. Other surnames, and a wife listed only on a husband’s card, remain. Van Buren County 1910 on NARA T624-66 is listed at FamilySearch collection 1727033; the full images returned **401 Unauthorized**. No Van Buren household was read. [C1449] [C1450]
+- **Year holes 1901–09, 1911–16, and 1921–25 — open.** No record yet read names Dora’s place in those years. The 1917 two-state split locates Coy and Pearl, not her.
+- The original 1885 marriage image; Samuel’s death (day and place); the 1925 Arkansas death certificate of T. A. Stone; the Stone × Newnam license; Carter Cove stone photographs; the 1926 *Yell County Journal* and *Beattyville Enterprise*.
+- **Conflict #18:** Mary A. Newnam’s 11 July 1918 stone versus a missing civil death row, 1917–19, county and statewide. Burial is a 2001 reading. Do not print a Kentucky certificate number or that Dora was the informant.
+- **Conflict #19 (Word-archive / physician lists; this file #21):** Dr. Thomas W. Beal on the 1926 certificate versus **no Beal** on Ola’s 1921 or 1929 *American Medical Directory* lists. Do not “correct” the certificate to Pool or Ballenger.
+- **Conflict #19 (reconstruction / 1912 Perry license):** McCoy Newman × Ada Bench, 1 August 1912 — **not merged** with son Coy. Do not print “Coy married Ada Bench.”
+- **Saline T. A. unmerged:** 1911 poll “Stones, T. A.” and 1912 T.A. Stone consent for Ossie Pearl stay separate from the Perry County widower. [C1478] [C1481]
 - Conflict #9: which 1870–1880 household is Samuel’s.
-- Conflict #4 and #11: which Missouri Thomas Stone, if any, is the 1920 Perry County widower. Greene Campbell ED **37** sheet **18 A** is Thomas A., 32, with Matilda — not merged. Greene **37–43** (Springfield / Campbell) name columns are now closed: the only Stone **head** is Thomas A. on ED **37** sheet 18A. [C117] [C281]
+- Conflict #4 and #11: which Missouri Thomas Stone, if any, is the 1920 Perry County widower. Greene Campbell ED **37** sheet **18 A** is Thomas A., 32, with Matilda — not merged. Greene **37–43** name columns are now closed. [C117] [C281]
 - Louisa P. Mays Brandenburg: not in 1910 Proctor; no 1951 Lee/Owsley death on SortedByName; Lee 1911–1929 B-index has no Louisa. [C154] [C157] [C159]
 - Conflict #13: the 1910 Sturgeon enumerator’s given name (surname **Treadway** on the JPEG).
 - Conflict #14: Larkin Mays, 8 June 1895 (court) versus 8 July 1895 (stone).
-- John H.; Mary Bunch’s death (Lee books and recent “Mary M. Bunch” obituaries do not match); Rissie’s Tennessee identification (SortedByName Newnam R-block is nil); the two unnamed children.
+- John H.; Mary Bunch’s death; Rissie’s Tennessee identification; the two unnamed children.
 - Whether witness **Link Mays** is Larkin T. Mays — still possible, not merged.
 
+Research residuals (not family homework):
 
-- **B049:** 1926 *Beattyville Enterprise* and *Yell County Journal* still unread. IA Solr 0 for those titles, *Dardanelle Post-Dispatch* 1926, Dora/Posa Stone 1926, and (this pass) Carter Cove / Carters Chapel / Yell County Record / Coy Newnam 1926. [C293] [C301] [C335] [C349]
+- **B049:** 1926 *Beattyville Enterprise* and *Yell County Journal* still unread. IA Solr 0 for those titles, *Dardanelle Post-Dispatch* 1926, Dora/Posa Stone 1926, and Carter Cove / Carters Chapel / Yell County Record / Coy Newnam 1926. [C293] [C301] [C335] [C349]
 - **B045 / B047 / B058:** Samuel P. probate film and M1509 draft cards unread. Owsley military page has no WWI list. Hollingsworth 2002 is print only. [C336] [C348]
 - **B056 closed negative:** Mary A. Newnam is not in the Kentucky statewide death index 1917–1919. No informant to read. [C326]
-- **B061 closed negative** for published neighbor-county files. **B057** residual: Owsley courthouse / FS / eCCLIX. License still unread. [C332] [C338] [C346]
-- **FAN residual:** Luther Newnam’s own death (B051); Shelby × Grace identity (B052); Everett’s deceased brothers (B053); Carter Cove stone photographs (B054).
+- **B061 closed negative** for published neighbor-county files. **B057** residual: Owsley courthouse / FS / eCCLIX. Pearl × Clyde license still unread. [C332] [C338] [C346]
+- **FAN residual:** Luther 1945 extract **done** (B051 / C1500); Shelby × Gracie 1913 **done** (B052 / C1504); Everett’s deceased brothers (B053); Carter Cove stone photographs (B054).
 - Greene 37–43 Stone sweep is **closed**. Do not reopen Peebles as a third marriage without a license. Do not print 1868 or 24 February 1906 as facts.
 
-The next session starts with **B049**. This life is **not** filled in.
+The next research session starts with **B049**. This life is **not** filled in. This book is the reading of what is documented so far.
 
 ---
 
@@ -286,12 +337,21 @@ Numbered notes expand the claim/source tags in the narrative. Access labels: *im
 28. Coy × Letha Sullivan, 18 Feb 1917, Ola. **C027** **S024**. Prior session.
 29. NUMIDENT Pearl P. Jackson / Mary Magdalene Bunch naming Sam and Dora. **S006** **S007**. Prior.
 30. Lee Books 5–19: no Peebles; no Dora Newnam remarriage. [USGenNet marriages](https://usgennet.org/usa/ky/county/lee/marriage/). **C084** **S064**.
+31. 1921 *American Medical Directory*, geographic **OLA. 655, YELL**: Brewer, Davis, Harkey; **no Beal**. IA [`americanmedicald1921ameruoft`](https://archive.org/details/americanmedicald1921ameruoft). *OCR / transcription only.* **C370** **C371** **S291**.
+32. 1929 *American Medical Directory*, geographic **OLA, 655, YELL**: Ballenger, Harkey retired, Hunt, Miller, Pool; **still no Beal**. IA [`bwb_T3-BRL-424`](https://archive.org/details/bwb_T3-BRL-424). *OCR / transcription only.* **C373** **S296**.
+33. Mammoth Spring, Fulton County, and Nimrod, Perry County, in the 1921 directory. Different places from the certificate’s “Mammoth, Ark.” **C374** **C375**.
+34. Mildred Diane Gleason, “Ola (Yell County),” *Encyclopedia of Arkansas*. [encyclopediaofarkansas.net/entries/ola-yell-county-1021](https://encyclopediaofarkansas.net/entries/ola-yell-county-1021/). Incorporated 20 Mar 1900; pop. 516 / **655** / 648. *Page seen.* **C376** **S292**. Locality context only.
+35. Lee 1945 death-certificate extract: Rev. Luther Newnam, b. 21 Feb 1891 Beattyville, d. 28 Feb 1945. [USGenNet 1945](https://usgennet.org/usa/ky/county/lee/deaths/1945.html). *Transcription only.* Original certificate **not yet examined**. **C1500** **C1501** **S1100**.
+36. Lee Marriage Book 10: Shelby Newnam × Gracie Brandenburg, 4 Sept 1913; parents Richard Newnam × Sarah Damrell / Major Brandenburg × Emily Howelton. [USGenNet Book 10](https://usgennet.org/usa/ky/county/lee/marriage/marrbook10.html). *Transcription only.* **Not** Samuel. **C1504** **C1505** **S1101**.
+37. FamilySearch collection **1727033** (1910 Arkansas population, T624): Van Buren waypoints list 24 townships; Holly = ED 118. Full DAS image **401 Unauthorized** from an anonymous session. **No household read.** **C1449** **C1450**.
+38. 1910 Owsley Buck Creek hh **161**: Rufus and Margaret Jackson, son Clyde 16. 1900 same family, Clyde born May 1892. Merge with Pearl’s 1920 husband **PROBABLE**. **C317** **C318** **C319** **S299** **S300**.
+39. Saline County 1911 poll **Stones, T. A.** and Book M **T.A. Stone** consent for Ossie Pearl, 1912 — **not merged** with Perry Tom A. Books I–R **nil** Dora Newnam × Stone. **C1478** **C1480** **C1481** **C1488**.
 
 ---
 
 ## Source index
 
-Working table of **saved local copies**. Full file list: [`../SOURCE-INDEX.md`](../SOURCE-INDEX.md) and [`../sources/SOURCE-INVENTORY.tsv`](../sources/SOURCE-INVENTORY.tsv) (331 files after this pass).
+Working table of **saved local copies**. Full file list: [`../SOURCE-INDEX.md`](../SOURCE-INDEX.md) and [`../sources/SOURCE-INVENTORY.tsv`](../sources/SOURCE-INVENTORY.tsv). Family reading order: [`../FAMILY-TOC.md`](../FAMILY-TOC.md).
 
 | ID | Local file | Repository / URL | What it proves | Access |
 |---|---|---|---|---|
@@ -309,5 +369,10 @@ Working table of **saved local copies**. Full file list: [`../SOURCE-INDEX.md`](
 | S278 | `../sources/obituaries/lee-obits-n-everett-newnam-1939-extract-2026-10-30.txt` | [Obits N](https://usgennet.org/usa/ky/county/lee/obituaries/n.html#everettnewman) | Everett d. 13 Dec 1939 | transcription only |
 | S280 | `../sources/press/ia-yell-journal-1926-search-2026-10-30.json` | IA Solr | 0 hits for 1926 titles | index only |
 | S281 | `../sources/press/genealogytrails-yell-obits-landing-2026-10-30.html` | [GT Yell obits](https://genealogytrails.com/ark/yell/obits.html) | Nil on landing | transcription only |
+| S291 | `../sources/directories/amd-1921-arkansas-yell-ola-extract-2026-10-31.txt` | [IA 1921 AMD](https://archive.org/details/americanmedicald1921ameruoft) | Ola MDs 1921; no Beal (**C370**) | OCR / transcription only |
+| S292 | `../sources/locality/encyclopedia-arkansas-ola-yell-extract-2026-10-31.md` | [EOA Ola](https://encyclopediaofarkansas.net/entries/ola-yell-county-1021/) | Town pop. 655 in 1920 (**C376**) | page seen |
+| S296 | `../sources/directories/amd-1929-arkansas-yell-ola-extract-2026-10-31.txt` | [IA 1929 AMD](https://archive.org/details/bwb_T3-BRL-424) | Ola MDs 1929; still no Beal (**C373**) | OCR / transcription only |
+| S1100 | `../sources/wrapup/lee-deaths-1945-luther-extract-2026-10-31.txt` | [Lee 1945 DCs](https://usgennet.org/usa/ky/county/lee/deaths/1945.html) | Rev. Luther Newnam d. 28 Feb 1945 (**C1500**) | transcription only |
+| S1101 | `../sources/wrapup/lee-book10-shelby-gracie-1913-extract-2026-10-31.txt` | [Lee Book 10](https://usgennet.org/usa/ky/county/lee/marriage/marrbook10.html) | Shelby × Gracie 4 Sept 1913 (**C1504**) | transcription only |
 
 Embedded plates live in `plates/` and `../sources/census/`. Charts: [`../visuals/pedigree-dora.svg`](../visuals/pedigree-dora.svg), [`../visuals/timeline-dora.svg`](../visuals/timeline-dora.svg).

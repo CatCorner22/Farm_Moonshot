@@ -5,6 +5,7 @@ Only cited claims. Confidence: **PROVEN** · **PROBABLE** · **POSSIBLE** · **S
 Unverified items stay **open**. Living descendants are redacted.
 
 **Session:** 31 Oct 2026 · branch `cursor/dora-1900-death-reconstruction-2b6a` · logs **L361–L740** · claims **C305–C369, C1300–C1499, C1600–C1683** · sources **S283–S290, S299–S423**.  
+Family Word reading of this grid: `book/Dora-Ella-Newnam-Stone-A-Life.md` § Year by year, 1900 to 1926 (branch `cursor/dora-final-word-doc-2b6a`).  
 **Ages** computed from birth **11 Aug 1871** (year **PROVEN**; day 11 **POSSIBLE**): 28 on 1 Jun 1900; 38 on 15 Apr 1910; 45 on 18 Feb 1917; 48 on 1 Jan 1920; 55 on 23 Aug 1926.
 
 ---
