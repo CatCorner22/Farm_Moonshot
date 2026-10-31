@@ -787,6 +787,20 @@ Exact strings logged **L1027–L1035**.
 
 Exact strings logged **L1036–L1048**.
 
+### Pass 106 variant storm (31 Oct 2026)
+
+**Boyd / Allie (B089)** — Boyd/Boyde/Floyd × Newman/Newnam/newnarn. Soundex **N550** / **B300**. Place 1930 **33-8** Station Camp South stamped **095A–102B**; T1224 roll **69**; FS catalog **301200**; AHGP Reel **742** filming order.
+
+**Dora Stone 1926 (B049/B058)** — Dora/posa/dosa/rosa/dona × Stone/Newman/Newnam. Soundex **S350** / **N550**. Place Ola / Yell / Dardanelle. LCCN **SN89051008**. Newspapers.com Post-Dispatch paper URL (404). Pope HQ **479-968-4368**. Cert **1524** RD **676**.
+
+**Frank / David G (B055/B080)** — Frank/David F./David G. × Newnam/Newman. Soundex **N550**. Place Madison / Berea. Cert **13719** RD **028**. Hutchins cards rooms **228–229**. Newspapers.com paper **41271** 1958–1977.
+
+**WWI (B069/B047)** — Luther/John H./McCoy × Newnam/Newman/newnarn. KYGenWeb Owsley / Lee / Breathitt / Estill military. M1509 **KY45 / KY24 / KY74**.
+
+**Samuel P. (B045/B061)** — Samuel/Sam × Newnam/Newman + will/estate. FS **127913** SPA (R011-53).
+
+Exact strings logged **L1049–L1063**.
+
 ## Agent SDK / GitHub channel
 
 Inspected 30 Oct 2026 (**L351**): this repository has **no** `package.json`, **no** `@grok/agent-sdk`, **no** `bot/` directory. GitHub channel `bot/channels/github.ts` is **n/a** and was **not** authored. Project subagent: `.cursor/agents/dora-genealogy-detective.md`.

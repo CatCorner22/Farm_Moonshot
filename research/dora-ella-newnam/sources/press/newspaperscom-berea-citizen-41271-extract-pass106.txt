@@ -1,0 +1,7 @@
+Newspapers.com paper 41271 extract 2026-10-31
+URL https://www.newspapers.com/paper/the-berea-citizen/41271/
+
+025-10-30T20:35:30.000Z\",\"created\":\"2024-12-04T20:25:11.000Z\",\"url\":\"/paper/the-berea-citizen/41271/\",\"free\":false,\"approved\":true,\"free_with_registration\":false,\"page_count\":11672,\"canonical_page_count\":35377,\"product_start_year\":1958,\"product_end_year\":1977,\"product_canonical_start_year\":1899,\"product_canonical_end_year\":1977,\"cover_page\":{\"id\":71068062,\"issue_date\":\"1918-11-07\",\"token\":\"eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVlLXZp
+
+Source Information string: The Berea Citizen, 1958–1977 [database on-line]. Lehi, UT, USA: Ancestry.com Operations, Inc., 2026. Last updated: December 8, 2024
+Meta: 35,377 searchable pages from 1899-1977

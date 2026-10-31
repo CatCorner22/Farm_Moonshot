@@ -315,5 +315,10 @@ Place as it was *at the date*; modern equivalent in brackets. Flag impossibiliti
 | 1915 | — | FAN **PROVEN** as catalog: UArk *Danville Democrat* 1899 title holds **1915:7:15** only — no 1926 | Fayetteville, AR | C1206 | S904 |
 | 17 Jun 1926 | — | FAN **PROVEN** as catalog: UArk *Rural record* (Magazine Mountain) **<1926:6:17>** only. **Rejected** as Aug 1926 Dora path | Yell Co., AR | C1207 | S904 |
 | 1917–1918 | — | FAN **PROVEN** as compiled-index: Knox WWI N = five Newman Knox men; Newnam/Luther **0** | Knox Co., KY | C1209 | S906 |
+| 1899–1983 | — | FAN **PROVEN** as catalog: Hutchins *Berea Citizen* index is paper cards on the main floor between rooms **228 and 229** behind Reference | Berea, Madison Co., KY | C1215 | S912 |
+| 1958–1977 | — | FAN **PROVEN** as catalog: Newspapers.com paper **41271** product **11,672** pages **1958–1977** (`free:false`); canonical **35,377** pages **1899–1977**. June 1958 unread | Berea, Madison Co., KY | C1216 | S913 |
+| 1930 | — | FAN **PROVEN** as catalog: us-census Estill 1930 still **33-1–33-4** published; **33-8** stamped **095A–102B** unpublished. AHGP Reel **742** filming order includes **33-8** | Estill Co., KY | C1219 C1220 | S916 S917 |
+| 2026 | — | FAN **PROVEN** as catalog: Pope HQ phone **479-968-4368**; fax **479-968-3222**; hours Mon–Wed/Fri 8:30–5:30, Thu 12–7, Sat 9–1 | Russellville, Pope Co., AR | C1222 | S919 |
+| 1917–1918 | — | FAN **PROVEN** as compiled landing: KYGenWeb Owsley / Lee / Breathitt military have **no** WWI draft page. Estill `military.html` **404** | Lee / Owsley / Breathitt / Estill, KY | C1223–C1225 C1228 | S920–S922 S925 |
 
 **Impossibility flags:** None. Mother ~29 at Dora’s 1871 birth (Mary b. 1842). Dora age 14 at marriage is legal/period-possible (KY) though young; 1880 age 8 corroborates. Two children born before Coy in the 1886–1889 window would have Dora aged 15–18 — possible. No event after 23 Aug 1926 is attributed to her.
