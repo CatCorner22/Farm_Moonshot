@@ -2500,5 +2500,45 @@ Not an Andrew card. → **C706**.
 
 Unnamed infant girl. → **C707**.
 
+## DOC204 — 1900 IN Soundex S-415, Levi M continuation; Gladium 3 / Vella R 11/12
+- Image: `sources/soundex/in1900-s415-p1404-levi-m-gladium-vella.jpg` SHA-256 `072d60492f3b3a8ee34d46bf9d872c64739753f48ccfb37e87f5ab1143f832a8`
+- Reel: IA `soundex1900in208` n**1404** (head n**1403** already plate **115** / **C374**)
+
+### Diplomatic
+> **Sullivan, Levi M** — continuation (`see #2` on n**1403**) · State Indiana
+> **Gladium** D April **1897** **3** Indiana; **Vella R** D July **1899** **11/12** Indiana
+
+Diplomatic **Vella R** (e, double l) ≠ Viola. Head: Nov **1864**, **35**, Indiana, Wells / Chester, Keystone; wife Ora E Oct **1867** **32** Indiana. → **C723**.
+
+## DOC205 — 1900 IL Soundex S-415, Elmer; Charlotta 5/12
+- Image: `sources/soundex/il1900-s415-n2089-elmer-charlotta-5-12.jpg` SHA-256 `f75c53ce1725400af12189189e58480eb1542f073043c0d49d0bb85730e5d925`
+- Reel: IA `soundex1900il401` n**2089** rotate **-90**
+
+### Diplomatic
+> **S415 Sullivan, Elmer** — Head · vol **11** ED **5** sh **22** ln **88** · W Aug **1873** **26** Illinois · Clay / Harter Twp, Flora
+> **Lillie** W May **1879** **21** Illinois; **Charlotta** D Jan **1900** **5/12** Illinois
+
+Diplomatic **Charlotta**. → **C725**.
+
+## DOC206 — 1900 IL Soundex S-415, Elmer J; Corena F 4/12
+- Image: `sources/soundex/il1900-s415-n2091-elmerj-corena-f-4-12.jpg` SHA-256 `a39a3ec695986476f7ec03118f62588d1345b9b4248fceaa5227f34c181955d1`
+- Reel: IA `soundex1900il401` n**2091** rotate **-90**
+
+### Diplomatic
+> **S415 Sullivan, Elmer J** — Head · vol **145** ED **122** sh **3** ln **90** · W Mar **1870** **30** Illinois · Sangamon / Springfield Twp
+> **Nellie J** W Apr **1874** **26** Illinois; **Ida E** D Apr **1891** **9** Illinois; **William I** S Apr **1894** **6** Illinois; **Corena F** D Feb **1900** **4/12** Illinois
+
+Diplomatic **Corena F**. → **C726**.
+
+## DOC207 — 1900 IL Soundex S-415, Eugene L; Eugenie 5/12
+- Image: `sources/soundex/il1900-s415-n2137-eugenel-eugenie-5-12.jpg` SHA-256 `596b16c372ca0d0a7d6a6987f606a39b14434cbd6d4522a8b7cef4c7c8d674d0`
+- Reel: IA `soundex1900il401` n**2137** rotate **-90**
+
+### Diplomatic
+> **S415 Sullivan, Eugene L** — Head · vol **157** ED **139** sh **5** ln **81** · W Oct **1873** **26** Wisconsin · Whiteside / Clyde Twp
+> **Laura G** W Jan **1875** **25** Illinois; **Samuel J** S June **1898** **1** Illinois; **Eugenie** D Dec **1899** **5/12** Illinois
+
+Diplomatic **Eugenie**. → **C727**.
+
 ## DOC009 — 1910 TN Soundex N-550 McCoy window (nil)
 Handwritten family/individual cards n2461–n2469. Sequence after Mary C (n2460): Mary D 49 Jefferson (son Layton 11); Mary M 70 Hamilton; Mek. G 50 Cheatham (Florence 19, John 17, General 16, Frances 13, William 10, Doria 6, Luther 1½); Melvin 3½ Giles (gs of Deacon George W); Melvin 54 Giles (SIL of same); Minerva 80 Robertson (gds Lona Neely, Nellie Erwin); Minnie 21 Roane (with Sam P. Sparks); Mitchell 27 Hardin (Ollie P 25, Gladys 4, Burl W 3, Royal E 1 9/12). **No McCoy.** SHA-256 n2463 `23610f8aa4c159b1b554ed1786d11f57d2f56f8a2e8994f7289ae7bd02dfca53`; n2469 `340489566090880388fa6b81ca5751c5944dcaf56a7b44f70fe560788f308586`.

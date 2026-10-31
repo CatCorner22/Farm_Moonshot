@@ -1,0 +1,30 @@
+Pass 97 close — 1900 Illinois S-415 leftover E (Edward→Francis gap) + IN Levi M continuation
+Date: 31 Oct 2026 (America/New_York)
+Target C244: 1910 Letha Sullivan 12 nurse, Jesse Conrad, Liberty Twp, Bollinger Co. MO; father Indiana-born.
+Hunt: Letha / Letta / Lethia / Lettie / Litha / Viola / Lottie / Leta ~0–2; IN-father + girl ~0–2; female heads; Bollinger.
+
+IN addendum (Pass 96 leftover Louis window, head outside band):
+  soundex1900in208 n1403 Levi M Nov 1864 35 IN, Wells Chester, Keystone — already C374 / plate 115.
+  n1404 continuation (see #2): Gladium D Apr 1897 3 IN; Vella R D July 1899 11/12 IN.
+  Vella ≠ Viola. Rejected vs C244 (C723).
+
+IL leftover E: IA soundex1900il401 n2038–2166 rotate -90. 129/129 BookReader JPEGs.
+  Edwin n2038 (after Edward J n2037, Pass 93 C580). F-tab ~n2144 after Eva/Eveline.
+  Last leftover-E Frances D n2166; Francis/Frank band starts n2167 (Pass 93 C581).
+
+IN-born heads:
+  n2047 Elizabeth Feb 1877 23 IN, Champaign St Joseph — Margaret Lester D 9 IN. No toddler.
+  n2097 Emma Aug 1876 24 IN, Cook Chicago roomer Forney, Lizzie. No child.
+  n2154 Florence Aug 1849 50 IN, Carroll Savanna — sons Roy 15 / Frank 10 / Benson 5. No daughter.
+
+MO geography:
+  n2059–2060 Ellen Apr 1858 42 MO, St Clair East St Louis — teens/children to Aloysius 6. No Letha.
+  n2061 Elle 42 MO, Union Anna, inmate Southern Illinois Hospital. No child.
+
+Toddler girls (all rejected vs C244):
+  n2089 Elmer Aug 1873 26 IL, Clay Harter / Flora — Charlotta D Jan 1900 5/12 IL (C725).
+  n2091 Elmer J Mar 1870 30 IL, Sangamon Springfield — Corena F D Feb 1900 4/12 IL (C726).
+  n2137 Eugene L Oct 1873 26 WI, Whiteside Clyde — Eugenie D Dec 1899 5/12 IL (C727).
+  n2095 Emma Feb 1897 3 IL, Madison Alton, GD of Jones, Emma. Emma ≠ Letha.
+
+NIL Letha/Letta/Lethia/Lettie/Litha/Viola/Lottie/Leta ~0–2. No IN-father + girl ~0–2. No Bollinger.

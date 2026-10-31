@@ -1108,3 +1108,20 @@ research/dora-ella-newnam/sources/soundex/b007-pass97-1900-in-s415-leftover-e-20
   format: Pass 97 IN S-415 leftover-E (Edward→Francis) search log
 research/dora-ella-newnam/sources/soundex/b007-pass97-1900-ky-ar-tn-mo-s415-leftover-e-2026-10-31.txt
   format: Pass 97 KY/AR/TN/MO S-415 leftover-E search log
+research/dora-ella-newnam/sources/soundex/in1900-s415-p1404-levi-m-gladium-vella.jpg
+  sha256: 072d60492f3b3a8ee34d46bf9d872c64739753f48ccfb37e87f5ab1143f832a8
+  format: JPEG Soundex card, IA soundex1900in208 n1404
+research/dora-ella-newnam/sources/soundex/il1900-s415-n2089-elmer-charlotta-5-12.jpg
+  sha256: f75c53ce1725400af12189189e58480eb1542f073043c0d49d0bb85730e5d925
+  format: JPEG Soundex card, IA soundex1900il401 n2089 rotate -90
+research/dora-ella-newnam/sources/soundex/il1900-s415-n2091-elmerj-corena-f-4-12.jpg
+  sha256: a39a3ec695986476f7ec03118f62588d1345b9b4248fceaa5227f34c181955d1
+  format: JPEG Soundex card, IA soundex1900il401 n2091 rotate -90
+research/dora-ella-newnam/sources/soundex/il1900-s415-n2137-eugenel-eugenie-5-12.jpg
+  sha256: 596b16c372ca0d0a7d6a6987f606a39b14434cbd6d4522a8b7cef4c7c8d674d0
+  format: JPEG Soundex card, IA soundex1900il401 n2137 rotate -90
+research/dora-ella-newnam/sources/soundex/il1900-s415-n2154-florence-50-in-sons.jpg
+  sha256: 1bc13c362ab041faeebc10a354422ea1431dd0e6f722ed91d4c712444c400488
+  format: JPEG Soundex card, IA soundex1900il401 n2154 rotate -90
+research/dora-ella-newnam/sources/soundex/b007-pass97-1900-il-s415-leftover-e-2026-10-31.txt
+  format: Pass 97 IL S-415 leftover-E + IN Levi M continuation search log

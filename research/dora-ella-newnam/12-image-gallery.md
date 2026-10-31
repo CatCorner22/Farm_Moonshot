@@ -247,6 +247,11 @@ Diplomatic transcriptions: [`08-transcriptions.md`](08-transcriptions.md). Citat
 | 272 | 1900 (index) | Context | [Tennessee S-415 — Slavin, Anderson continuation; not Andrew](sources/soundex/tn1900-s415-n3718-anderson-cont.jpg) |
 | 273 | 1900 (index) | Rejected same-name | [Tennessee S-415 — Burrell L. continuation; Baby, 10/12; not C244](sources/soundex/tn1900-s415-n3766-burrell-baby-d.jpg) |
 | 274 | 1900 (index) | Rejected same-name | [Kentucky S-415 — Louie, Woodford; wife Jeni, 44, Indiana; not an Indiana father](sources/soundex/ky1900-s415-n2969-louie-jeni-in.jpg) |
+| 275 | 1900 (index) | Rejected same-name | [Indiana S-415 — Levi M continuation; Gladium, 3; Vella R, 11/12; not C244](sources/soundex/in1900-s415-p1404-levi-m-gladium-vella.jpg) |
+| 276 | 1900 (index) | Rejected same-name | [Illinois S-415 — Elmer, Clay Flora; Charlotta, 5/12; not C244](sources/soundex/il1900-s415-n2089-elmer-charlotta-5-12.jpg) |
+| 277 | 1900 (index) | Rejected same-name | [Illinois S-415 — Elmer J, Springfield; Corena F, 4/12; not C244](sources/soundex/il1900-s415-n2091-elmerj-corena-f-4-12.jpg) |
+| 278 | 1900 (index) | Rejected same-name | [Illinois S-415 — Eugene L, Whiteside Clyde; Eugenie, 5/12; not C244](sources/soundex/il1900-s415-n2137-eugenel-eugenie-5-12.jpg) |
+| 279 | 1900 (index) | Rejected same-name | [Illinois S-415 — Florence, 50, Indiana, Carroll Savanna; sons only; not C244 father](sources/soundex/il1900-s415-n2154-florence-50-in-sons.jpg) |
 | 123 | 1900 (index) | Context | [Texas C-563 — J-tab divider](sources/soundex/tx1900-c563-p1-j-divider.jpg) |
 | 17 | Apr 1910 | Negative search | [Kentucky N-550 — Millie / Missouri; no McCoy](sources/soundex/ky1910-n550-p329-millie-missouri.jpg) |
 | 18 | Apr 1910 | Negative search | [Kentucky N-550 — Monroe; still no McCoy](sources/soundex/ky1910-n550-p330-monroe-no-mccoy.jpg) |
@@ -2585,6 +2590,56 @@ Continuation of Burrell L., 34, Tennessee, Hawkins County. Unnamed daughter Baby
 White head, March 1854, age 46, born Kentucky, Woodford County, Mortonsville. Wife Jeni, July 1855, age 44, Indiana. Daughter Jennie, 4, Kentucky. Sister-in-law Lida Breadhiff, 38, Indiana. Indiana is the wife. Rejected as C244 father.
 
 ![Kentucky S-415 — Louie, Woodford; wife Jeni, 44, Indiana; not an Indiana father](sources/soundex/ky1900-s415-n2969-louie-jeni-in.jpg)
+
+### 275 · 1900 (index) · Indiana S-415 — Levi M continuation; Gladium, 3; Vella R, 11/12; not C244
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/in1900-s415-p1404-levi-m-gladium-vella.jpg`](sources/soundex/in1900-s415-p1404-levi-m-gladium-vella.jpg)  
+**Source:** S398 · C723
+
+Continuation of Levi M, November 1864, age 35, Indiana, Wells County, Chester Township. Daughters Gladium, April 1897, age 3, and Vella R, July 1899, age 11/12, both Indiana. Diplomatic Vella is not Viola. Rejected as C244.
+
+![Indiana S-415 — Levi M continuation; Gladium, 3; Vella R, 11/12; not C244](sources/soundex/in1900-s415-p1404-levi-m-gladium-vella.jpg)
+
+### 276 · 1900 (index) · Illinois S-415 — Elmer, Clay Flora; Charlotta, 5/12; not C244
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/il1900-s415-n2089-elmer-charlotta-5-12.jpg`](sources/soundex/il1900-s415-n2089-elmer-charlotta-5-12.jpg)  
+**Source:** S399 · C725
+
+White head, August 1873, age 26, born Illinois, Clay County, Harter Township, Flora. Wife Lillie, 21, Illinois. Daughter Charlotta, January 1900, age 5/12. Father Illinois. Rejected as C244.
+
+![Illinois S-415 — Elmer, Clay Flora; Charlotta, 5/12; not C244](sources/soundex/il1900-s415-n2089-elmer-charlotta-5-12.jpg)
+
+### 277 · 1900 (index) · Illinois S-415 — Elmer J, Springfield; Corena F, 4/12; not C244
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/il1900-s415-n2091-elmerj-corena-f-4-12.jpg`](sources/soundex/il1900-s415-n2091-elmerj-corena-f-4-12.jpg)  
+**Source:** S399 · C726
+
+White head, March 1870, age 30, born Illinois, Sangamon County, Springfield Township. Wife Nellie J, 26. Daughters Ida E, 9, and Corena F, February 1900, age 4/12; son William I, 6. Diplomatic Corena F. Father Illinois. Rejected as C244.
+
+![Illinois S-415 — Elmer J, Springfield; Corena F, 4/12; not C244](sources/soundex/il1900-s415-n2091-elmerj-corena-f-4-12.jpg)
+
+### 278 · 1900 (index) · Illinois S-415 — Eugene L, Whiteside Clyde; Eugenie, 5/12; not C244
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/il1900-s415-n2137-eugenel-eugenie-5-12.jpg`](sources/soundex/il1900-s415-n2137-eugenel-eugenie-5-12.jpg)  
+**Source:** S399 · C727
+
+White head, October 1873, age 26, born Wisconsin, Whiteside County, Clyde Township. Wife Laura G, 25, Illinois. Son Samuel J, 1. Daughter Eugenie, December 1899, age 5/12. Diplomatic Eugenie. Father Wisconsin. Rejected as C244.
+
+![Illinois S-415 — Eugene L, Whiteside Clyde; Eugenie, 5/12; not C244](sources/soundex/il1900-s415-n2137-eugenel-eugenie-5-12.jpg)
+
+### 279 · 1900 (index) · Illinois S-415 — Florence, 50, Indiana, Carroll Savanna; sons only; not C244 father
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/il1900-s415-n2154-florence-50-in-sons.jpg`](sources/soundex/il1900-s415-n2154-florence-50-in-sons.jpg)  
+**Source:** S399 · C728
+
+White head, August 1849, age 50, born Indiana, Carroll County, Savanna Township. Wife Elizabeth, 45, Illinois. Sons Roy, 15; Frank, 10; Benson, 5. Indiana nativity; no daughter. Rejected as C244 father.
+
+![Illinois S-415 — Florence, 50, Indiana, Carroll Savanna; sons only; not C244 father](sources/soundex/il1900-s415-n2154-florence-50-in-sons.jpg)
 
 ### 123 · 1900 (index) · Texas C-563 — J-tab divider
 
