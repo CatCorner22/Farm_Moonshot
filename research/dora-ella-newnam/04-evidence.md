@@ -2506,3 +2506,21 @@
 | C1968 | Grant 21 **not merged**. B084 POSSIBLE Jr only. Do not print 1966 or 1962. Did not walk **33-12 / 33-13**. Phones / R001/R007/R008 not re-asked | PROVEN as process | S1608 L1789 | B081 B084 B082 |
 | C1969 | Parents of 1928 Frank still **PROBABLE**. Jane **not** Rhoda. #28 stands. Living head remains Owsley hh **311**. No free license | PROVEN as process | S1608 L1790 | B071 |
 | C1970 | Variants cats **1–4**: William/Wm/Jno × Newman/Newnam/Newmon/Numan/Newland/New/Noe/Nethery/Nelson/Dawson/Critcher/Redman/Howard; Tinker/Tincher/Kirkpatrick. Soundex **N550** / **T526** / **S350** / Newland **N453** | PROVEN as process | S1608 L1791 | B071 |
+| C1971 | B058 pass147 reconfirm: LOC **sn89051008** `digitized: false` 34425 B; IA Solr Post-Dispatch 1926 **0**; film unread | PROVEN as catalog | S1609 S1610 L1792 | B058 |
+| C1972 | Lincoln Dist 1 n0173–n0264 every name leaf **IMAGE SEEN**. Nil Newman/Tincher living head at William 26 × Jane 22 standard. Dist 1 **CLOSED** | PROVEN as image + close | S1611 S1625 L1793 | B071 |
+| C1973 | Lincoln n0178 hh **39 Willis Newnam 41** Farmer **$2280** × Louisa **40** + children. **IMAGE SEEN REJECT** vs Owsley hh **311** | PROVEN as image + reject | S1612 S1613 L1794 | B071 |
+| C1974 | Lincoln Dist 1 N-lookalikes **IMAGE SEEN REJECT**: Newton n0190/n0196; Newell n0183; Neece n0184; Hunman n0175/n0178; Kirkpatrick n0193 | PROVEN as image + reject | S1625 L1795 | B071 |
+| C1975 | Hopkins n0180–n0354 every name leaf **IMAGE SEEN** (Francis J n0238 / John **59** n0240 not repeated). Segment **CLOSED** | PROVEN as image + close | S1614 S1625 L1796 | B071 |
+| C1976 | Hopkins n0249 hh **138 Milton Newman 19** Farmer in Mooney hh; Mary **28**. **IMAGE SEEN REJECT** vs William **26** head | PROVEN as image + reject | S1615 S1616 L1797 | B071 |
+| C1977 | Mercer n0145–n0460 every name leaf **IMAGE SEEN**. **PROBABLE** nil Newman/Tincher living head at William 26 farmer $325 standard | PROBABLE as image-negative | S1617 S1625 L1798 | B071 |
+| C1978 | Larue Hamilton n0160–n0381 every name leaf **IMAGE SEEN** (Hamilton Dist per n0167 header). Lawrence n0382+ not walked. Hamilton **CLOSED** | PROVEN as image + close | S1618 S1625 L1799 | B071 |
+| C1979 | Leftover western compiled pass147: SK **404**; GT/KYGenWeb/USGW fail; IA Solr 1850indx other reels; CDX saved | PROVEN as catalog | S1619 S1625 L1800 | B071 |
+| C1980 | GT Lee WWI **LIVE** **452540**. Cards unread | PROVEN as catalog | S1620 L1801 | B059 B069 |
+| C1981 | FS **1146342** SPA **19651** B. Cards unread | PROVEN as catalog | S1621 L1802 | B069 |
+| C1982 | FAQ **9938** **LIVE** rooms **228–229**. No free June **1958** clip. Phone not re-asked | PROVEN as catalog | S1622 L1803 | B055 B080 |
+| C1983 | IA **602** metadata **{}**. pass123 still **515**. One line | PROVEN as catalog | S1625 L1804 | B088 |
+| C1984 | IA Solr M1509 KY **0**. Cards unread | PROVEN as catalog | S1625 L1805 | B069 |
+| C1985 | USGenNet wills **LIVE** — Jane Steele / Elizabeth / Mary F. — **no** Samuel P. | PROVEN as compiled | S1623 L1806 | B045 B065 |
+| C1986 | Grant 21 **not merged**. B084 POSSIBLE Jr only. Do not print 1966/1962. No **33-12/33-13** | PROVEN as process | S1625 L1807 | B081 B084 B082 |
+| C1987 | Parents of 1928 Frank still **PROBABLE**. Jane **not** Rhoda. #28 stands. Living head remains Owsley hh **311** | PROVEN as process | S1625 L1808 | B071 |
+| C1988 | Variants cats **1–4**: Willis × Newnam; Milton × Newman; Newton/Newell/Neece/Hunman/Kirkpatrick. Soundex **N550** / **T526** / **S350** | PROVEN as process | S1625 L1809 | B071 |

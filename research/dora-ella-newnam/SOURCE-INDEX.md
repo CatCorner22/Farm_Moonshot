@@ -1319,6 +1319,22 @@ Captured this session: **30 Oct 2026**. Earlier plates remain in `sources/census
 | S1606 | `sources/catalog/hutchins-faq-9938-pass146.html` | 2026-10-31 | Berea FAQ | https://libraryanswers.berea.edu/faq/9938 | LIVE rooms **228–229** | **C1964** | catalog only |
 | S1607 | `sources/catalog/usgennet-lee-wills-pass146.html` | 2026-10-31 | USGenNet Lee wills | https://usgennet.org/usa/ky/county/lee/wills/ | no Samuel P. | **C1967** | transcription only |
 | S1608 | `sources/census/pass146-extract-2026-10-31.txt` | 2026-10-31 | This session | — | Pass 146 extract | **C1953–C1970** | extract |
+| S1609 | `sources/catalog/loc-sn89051008-pass147.json` | 2026-10-31 | LOC | https://www.loc.gov/item/sn89051008/?fo=json | `digitized: false` 34425 B | **C1971** | catalog only |
+| S1610 | `sources/catalog/ia-solr-postdispatch-1926-pass147.json` | 2026-10-31 | IA Solr | https://archive.org/ | Post-Dispatch 1926 **0** | **C1971** | catalog only |
+| S1611 | `sources/census/pass147/surnames/lincoln-n0173-sur.jpg` … n0264 | 2026-10-31 | IA reel 210 | https://archive.org/details/populationschedu0210unix | Lincoln Dist 1 visual close (92 leaves) | **C1972 C1974** | image seen |
+| S1612 | `artifacts/pass147/lincoln-n0178-william-band.jpg` | 2026-10-31 | IA reel 210 n0178 | https://archive.org/details/populationschedu0210unix | Willis Newnam **41** band SHA **9ce4f6d1…** | **C1973** | image seen |
+| S1613 | `artifacts/pass147/lincoln-n0178-sur-tight.jpg` | 2026-10-31 | IA reel 210 n0178 | https://archive.org/details/populationschedu0210unix | Willis Newnam surname column | **C1973** | image seen |
+| S1614 | `sources/census/pass147/surnames/hopkins-n0180-sur.jpg` … n0354 | 2026-10-31 | IA reel 205 | https://archive.org/details/populationschedu0205unix | Hopkins visual close (172 leaves; skip 238–240) | **C1975** | image seen |
+| S1615 | `artifacts/pass147/hopkins-n0249-niman-tight.jpg` | 2026-10-31 | IA reel 205 n0249 | https://archive.org/details/populationschedu0205unix | Milton Newman **19** SHA **8347fd5a…** | **C1976** | image seen |
+| S1616 | `artifacts/pass147/hopkins-n0249-morton-band.jpg` | 2026-10-31 | IA reel 205 n0249 | https://archive.org/details/populationschedu0205unix | Mooney/Newman band | **C1976** | image seen |
+| S1617 | `sources/census/pass147/surnames/mercer-n0145-sur.jpg` … n0460 | 2026-10-31 | IA reel 213 | https://archive.org/details/populationschedu0213unix | Mercer every-line surname review | **C1977** | image seen |
+| S1618 | `sources/census/pass147/surnames/larue-n0160-sur.jpg` … n0381 | 2026-10-31 | IA reel 209 | https://archive.org/details/populationschedu0209unix | Larue Hamilton Dist close | **C1978** | image seen |
+| S1619 | `sources/catalog/cdx-sk-mercer-pass147.json` + SK/GT/USGW pass147 | 2026-10-31 | Wayback / GT | https://web.archive.org/ | SK **404**; CDX saved | **C1979** | catalog only |
+| S1620 | `sources/catalog/gt-lee-wwi-pass147.html` | 2026-10-31 | Genealogy Trails | https://www.genealogytrails.com/ken/lee/wwi_draft_cards.html | LIVE **452540** | **C1980** | transcription only |
+| S1621 | `sources/catalog/fs-1146342-pass147.html` | 2026-10-31 | FamilySearch | https://www.familysearch.org/search/catalog/1146342 | SPA **19651** B | **C1981** | catalog only |
+| S1622 | `sources/catalog/hutchins-faq-9938-pass147.html` | 2026-10-31 | Berea FAQ | https://libraryanswers.berea.edu/faq/9938 | LIVE rooms **228–229** | **C1982** | catalog only |
+| S1623 | `sources/catalog/usgennet-lee-wills-pass147.html` | 2026-10-31 | USGenNet Lee wills | https://usgennet.org/usa/ky/county/lee/wills/ | no Samuel P. | **C1985** | transcription only |
+| S1625 | `sources/census/pass147-extract-2026-10-31.txt` | 2026-10-31 | This session | — | Pass 147 extract | **C1971–C1988** | extract |
 
 
 ## Word biography provenance

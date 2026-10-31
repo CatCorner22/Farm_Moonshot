@@ -1438,4 +1438,16 @@ Same sheet, lines 8–14, with William P. 26 visible.
 
 ![Franklin n0280 William Critcher 48](sources/census/pass146/keyplates/franklin-n0280-critcher-tight.jpg)
 
-**Source:** S1584 · C1940
+## 1850 — Lincoln Dist 1 Willis Newnam 41 (pass 147)
+
+1850 U.S. census, Lincoln County, District 1, n0178 — household **39** **Willis Newnam**, 41, Farmer, with Louisa, 40, and children. Rejected versus Owsley William 26 × Jane 22.
+
+![Lincoln n0178 Willis Newnam 41](artifacts/pass147/lincoln-n0178-william-band.jpg)
+
+## 1850 — Hopkins Milton Newman 19 (pass 147)
+
+1850 U.S. census, Hopkins County, n0249 — **Milton Newman**, 19, Farmer, in Mary Ann Mooney household **138**. Rejected versus William 26 head.
+
+![Hopkins n0249 Milton Newman 19](artifacts/pass147/hopkins-n0249-niman-tight.jpg)
+
+**Source:** S1612 · C1973

@@ -1340,3 +1340,35 @@ Pass 2: surname **New** (three letters; not Newman / Newnam / Newland). Head 36 
 >           Thomas Critcher     13  M
 
 Pass 2: surname **Critcher** (C-r-i-t-ch-er; not Tincher). Head 48, not William 26. **REJECT**. → **C1959** / **S1600 S1601**.
+
+## DOC065 — 1850 Lincoln Dist 1 n0178 Willis Newnam 41
+
+**Inventory:** `artifacts/pass147/lincoln-n0178-william-band.jpg` SHA **9ce4f6d1f815c8c1…** (image seen). Lincoln Dist 1, n0178.
+
+### Diplomatic
+>  39  Willis Newnam       41  M  Farmer   2280  Ky
+>      Louisa Newnam       40  F
+>      Jefferson C. Newnam 16  M  Farmer
+>      Henry K. Newnam     14  M
+>      Amanda M. Newnam    12  F
+>      George G. Newnam     8  M
+>      Permelia C. Newnam   5  F
+>      Caroline V. Newnam   2  F
+
+Pass 2: spelling **Newnam**. Head 41, not William 26. Wife **Louisa 40**, not Jane 22 / not Rhoda. No Francis/Leanner children. **REJECT**. → **C1973** / **S1612 S1613**.
+
+## DOC066 — 1850 Hopkins n0249 Milton Newman 19
+
+**Inventory:** `artifacts/pass147/hopkins-n0249-niman-tight.jpg` SHA **8347fd5a7a20dbdb…** (image seen). Hopkins, hh **138**, Mary Ann Mooney head.
+
+### Diplomatic
+> 138  Mary Ann Mooney  32  F  Farmer
+>      James Mooney      7  M
+>      Paulina Mooney    6  F
+>      Jas McCoy        24  M  Farmer
+>      Paulina McCoy    24  F
+>      Mary E McCoy    2/12 F
+>      Milton Newman    19  M  Farmer
+>      Mary Newman      28  F
+
+Pass 2: **Milton Newman** age 19 boarder, not head William 26 × Jane 22. **REJECT**. → **C1976** / **S1615 S1616**.
