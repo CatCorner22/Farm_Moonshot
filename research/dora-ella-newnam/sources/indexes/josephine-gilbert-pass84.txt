@@ -1,0 +1,50 @@
+Pass 84 — Josephine Newnam × Gilbert ~1902 remaining-county substitutes
+HTML-seen 31 Oct 2026 America/New_York. UA Mozilla/5.0 (compatible; genealogy-research/pass84).
+License unseen. Do not treat extract-nil as a marriage.
+
+County /marriages.htm 404 (indexes 200): Morgan, Menifee, Montgomery, Elliott,
+Lawrence, Carter, Boyd, Greenup, Wayne. Casey marriages.htm 200 (1869–1875 landing; n/a ~1902).
+
+Morgan follow-ups 200:
+  mcmarriages.html; marriages1900-1903p4.html (834,200 bytes):
+    Josephine Spradlin × Henry C Johnston 23 Oct 1900 OTHER.
+    Josephine Lewis witness Nov 1901 OTHER.
+    Josie Allington witness 16 Jul 1902 OTHER.
+    NIL Newnam × Gilbert.
+  Compiled GH/NO/IJ: Gilbert Arthur × Ida Gillam 30 Jun 1920 OTHER;
+    Josephine Walters 1898, Josephine Williams 1936, Josie Gibbs 1916,
+    Josephine Nickell 1883, Josie Whitley 1917, Josephine Johnson 1945 — all other.
+
+Casey GT-Marriages.htm 200 (1,593,986 bytes): Baldock Josephine × Lee 1878;
+  Bradshaw Josie × Wilson 1898; Elder Gilbert W 1880;
+  Powell Betsey × Newman George 1821; four other Minervas — all other; n/a as 1902 Newnam license.
+
+Whitley grooms D–G / N–Q and brides D–G / I–K / N–Q HTTP 200, ~55KB real lists,
+  string-nil Josephine/Gilbert/Newman/Newnam.
+
+Wayne G = 1817–1829 Gilberts (n/a ~1902). Wayne N/J nil our names.
+
+Elliott ellmarr1: Josephine Johnson Sep 1877 / Josephine R. Skeins 22 Feb 1875 OTHER.
+  ellmarr2 nil.
+
+Carter Gilbert_Marriage_records.htm 1838–1841 John Gilbert FAN (n/a ~1902).
+  newman_henry.htm Henry Newman × Mary Stewart / Lucy J. Wicker (other Henrys).
+
+Pulaski mar/marr.html grooms R only (Rainwater…). Laurel marriage2.html 404; landing 200.
+Clay index Cottingim, Manerva × Siebert Thomas OTHER.
+Magoffin groom/bride 404; records/marriages/ 403.
+Greenup pulpgen redirected to grabalia.com (n/a).
+Boyd vitals 1875/1895/1907 n/a ~1902.
+
+GT Estill estill_marriages.html: Ashcraft Rebeckah × Tincher Elias 21 Jun 1818
+  (Millie’s parents era; not the 1840 Newman×Tincher bond). Do not promote C509.
+GT Owsley marriage/death/obits index shells + news_marriages empty of our names.
+
+USGenNet owsley/obit/ 200: Rev. Luther Newnam officiant 1938–1940 only;
+  NIL Henry H 1916 / Manerva 1920.
+kykinfolk HTTPS SSL expired; HTTP 308 to kygenweb.net/owsley/obits/ same Luther-only text.
+owsleycokyhist.org 403. files.usgwarchives.net handshake timeout.
+
+IA: M123 / T288 / KY DC 1916 numFound 0.
+Burns search hit identifier rogersrelatedfam0000roge (Rogers and related families of Estill County);
+  /download/..._djvu.txt HTTP 401. Do not invent Burns/McGhee contents.

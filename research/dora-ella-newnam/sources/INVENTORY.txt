@@ -2081,3 +2081,84 @@ research/dora-ella-newnam/sources/census/1880-lee-ky-ed59-sheet43-p768-caroline-
   sha256: a635d539a2c9f8de16bba7ca231d2f29b8b2f3c91c40806bb779bae0a5a9eed4
   format: text extract, 1,264 bytes
   check: Pass 83 coverage; catalog 141; Lewis given-name block closed
+
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-d500-p5090-dean-george-43-owsley-ed92.jpg
+  sha256: c6513dbc3beda2862b75d356eeae9bec8a885cc19141549240601a57b4a894d5
+  format: JPEG photo, 189,087 bytes
+  check: 1920 Soundex D-500 5090 Dean George 43 Owsley ED 92 copies original dw 107
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-d500-p5100-dean-george-68-washington.jpg
+  sha256: c58dbe0ef46dcd63408e50057086825061acdc67ac32c39dd99ebf9a1b2ea4fb
+  format: JPEG photo, 191,158 bytes
+  check: 1920 Soundex D-500 5100 Dean George B 68 Washington DISPROVED as 1910 George x Martha
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-d500-p4760-dunn-dora-49-trimble.jpg
+  sha256: 4799e1c9555cdfe2c000ad94c04b6f515f8e795918b2a6a4b7edfe1cbb55d7f8
+  format: JPEG photo, 145,749 bytes
+  check: 1920 Soundex D-500 4760 Dunn Dora 49 Trimble DISPROVED as P001
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-g163-p3199-gabbard-elisha-40-owsley-ed92.jpg
+  sha256: b4a5757751e452bce579c51cf5e3a5b5804c84be2481ea9d126c4321da5f56e7
+  format: JPEG photo, 234,673 bytes
+  check: 1920 Soundex G-163 3199 Gabbard Elisha 40 is original Gilbert Chester Hard Rule 6
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-g163-p3198-gabbard-elisha-20-jackson.jpg
+  sha256: 9151a0ee58e5e64358cd3a0c900522f403cc6fc71a79711bec4c89693e78a9f9
+  format: JPEG photo, 173,455 bytes
+  check: 1920 Soundex G-163 3198 Gabbard Elisha 20 Jackson DISPROVED as 1910 Elisha 61
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-b260-p5025-baker-jerry-42-owsley-ed92.jpg
+  sha256: a2833f783cc21abe5f1ed940ce86f64af5777502b28720635722d01199960948
+  format: JPEG photo, 174,176 bytes
+  check: 1920 Soundex B-260 5025 Baker Jerry 42 is original granddaughter 13 Hard Rule 6
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-b260-p4982-baker-james-w-36-pulaski.jpg
+  sha256: bc42d1bf5f784dc672b9dfa7ef1149fd4adf97eb7ee7a92ec1a76c04c185cac5
+  format: JPEG photo, 182,181 bytes
+  check: 1920 Soundex B-260 4982 Baker James W 36 Pulaski DISPROVED as 1910 James x Caroline
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-b260-p4984-baker-james-w-63-jackson.jpg
+  sha256: beb2deaaac6c38e39ef66cc1305494d5e6d2a2c20c71acbedbe1fa11f7c14716
+  format: JPEG photo, 202,140 bytes
+  check: 1920 Soundex B-260 4984 Baker James W 63 Jackson DISPROVED as 1910 James x Caroline
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-b260-p4986-baker-james-w-55-breathitt.jpg
+  sha256: 0dd6f4b73324053c33017ea18d2e229b61326a0cf73d8716f592402996308cb3
+  format: JPEG photo, 193,157 bytes
+  check: 1920 Soundex B-260 4986 Baker James W 55 Breathitt DISPROVED as 1910 James x Caroline
+/workspace/research/dora-ella-newnam/sources/census/1920-owsley-ed92-sh6a-hh107-dean-george-martha.jpg
+  sha256: d94ff9906ef2f3376305d2395c867ec1a525f0d9b5e295a159529de9c3907725
+  format: JPEG photo, 140,725 bytes
+  check: 1920 original ED 92 sh 6 A dw 107 Dean George x Martha PROBABLE 1910 dw 29
+/workspace/research/dora-ella-newnam/sources/census/1920-owsley-ed92-sh2b-hh47-gilbert-chester.jpg
+  sha256: 5c551b8f818e324f1232a60a703f6b14756670f778f046adddfdcfbcfa2d0e9d
+  format: JPEG photo, 136,666 bytes
+  check: 1920 original ED 92 sh 2 B dw 47 Gilbert Chester original of Soundex 3199
+/workspace/research/dora-ella-newnam/sources/census/1920-owsley-ed92-sh2b-ln16-23-baker-lee-jerry-slot.jpg
+  sha256: 0ede4c16ea6ae1b90f323e79e3f0e6ddb48ea518aaf5b97a8fc350309eb2a850
+  format: JPEG photo, 173,828 bytes
+  check: 1920 original ED 92 sh 2 B Baker Lee ln 16-22 Jerry Soundex slot
+/workspace/research/dora-ella-newnam/sources/indexes/ky1920-d500-dean-pass84.txt
+  sha256: 784d30837682b0066ceb4b6639f27aed0e3ba10c4debd0cbcc8dcf403f155ceb
+  format: text extract, 3,121 bytes
+  check: 1920 D-500 Dean/Daniel/Maggie windows; 5090 copies original
+/workspace/research/dora-ella-newnam/sources/indexes/owsley-1920-ed92-sh6a-dean-george-pass84.txt
+  sha256: 6bd206cef7eeac4e857dc4c4a1ebb25f3c6c274fdc5b774dbe13bc969271b90a
+  format: text extract, 1,592 bytes
+  check: 1920 original ED 92 sh 6 A dw 107 Dean George x Martha
+/workspace/research/dora-ella-newnam/sources/indexes/ky1920-b260-james-pass84.txt
+  sha256: 497a622824d51df296c6ffbdf6148ce156e91aabdeeb8bcefaf74ad491e57ee4
+  format: text extract, 1,731 bytes
+  check: 1920 B-260 James window DISPROVED; Jerry Hard Rule 6
+/workspace/research/dora-ella-newnam/sources/indexes/owsley-1920-ed92-sh2b-chester-baker-pass84.txt
+  sha256: 5db2ca3b6850fa36ac2f48a31de8f63c8b597ddf183b3a136d4e73dca3237470
+  format: text extract, 1,452 bytes
+  check: 1920 original ED 92 sh 2 B Chester and Baker Lee Jerry slot
+/workspace/research/dora-ella-newnam/sources/indexes/ky1920-g163-elisha-pass84.txt
+  sha256: 99b12a8b8d7a7ada60143bb2c4832813417e4f0a3ac9d801b4b3160d4784aad8
+  format: text extract, 1,187 bytes
+  check: 1920 G-163 Elisha 20 DISPROVED; 3199 is original Chester
+/workspace/research/dora-ella-newnam/sources/indexes/ky1920-b630-barrett-pass84.txt
+  sha256: 1ae06266fec06b3fb0140da82e6e90cf4db2f379a33f2fb7a2a0af24f0b20ac0
+  format: text extract, 1,772 bytes
+  check: 1920 B-630 Barrett Ben sampled-nil; residual 2326-2424
+/workspace/research/dora-ella-newnam/sources/indexes/josephine-gilbert-pass84.txt
+  sha256: 9225ac83833be2c2391902a544eef3fd9cbb469c7836d56622d6c7013f2a0088
+  format: text extract, 2,617 bytes
+  check: Josephine x Gilbert ~1902 remaining-county nil/other
+/workspace/research/dora-ella-newnam/sources/indexes/pass84-coverage.txt
+  sha256: 3dfe6b342541212febe9f96a886445ae01552077a2a030d283b8d240417e9431
+  format: text extract, 1,076 bytes
+  check: Pass 84 coverage; catalog 141; Dean Martha Hard Rule 6

@@ -1,0 +1,28 @@
+Pass 84 — 1920 original T625-594 ED 92 stamped 6 A ln 93 dw 107 Dean, George × Martha
+IA 14thcensusofpopu594unit zip-member _1166.jp2 leaf 1166.
+Opened 31 Oct 2026 America/New_York. Original image-seen.
+Enumerator Fred Hubbard, 14 January 1920. Buffalo Precinct No. 5. SD 10. ED 92.
+Stamped Sheet 6 A, printed B-form (lines 51–100). Same leaf as Gay Henry dw 105 and Daniel Reece dw 106.
+
+Ln 80 dw 105/105 Gay, Henry (already C803 / DOC130).
+Ln 86 dw 106/106 Daniel, Reece (already C833 / DOC145).
+Ln 93 dw 107/107 Dean, George Head m W ~43 m farmer Kentucky
+Ln 94 Martha Wife f W 40 m Kentucky
+Ln 95 Mella Daughter f W 17 S Kentucky
+Ln 96 Lillie Daughter f W 10 S Kentucky
+Ln 97 Earl Son m W 4 S Kentucky
+Ln 98 Odd Daughter f W 12 S Kentucky
+Ln 99 [Sherry?] Daughter f W 12 S Kentucky
+Ln 100 Hazel Daughter f W ~2 S Kentucky
+
+Hard Rule 6 of Soundex D-500 leaf 5090: original given name George, age ~43, line 93, wife Martha 40.
+Soundex copied vol 76 ED 92 sheet 6 line 93 correctly. Original stands.
+
+Vs 1910 ED 168 sh 2 B dw 29/29 Dean, George 32 × Martha 30 5-5
+  + Mellie/Nillie Dau 7, Stelle Dau 6, Clay Son 5, Odd Dau 3, Sherry Dau 6/12 (C802 / 8ev):
+  Identifiers that align: George Dean; Martha wife; Buffalo Precinct; Mellie 7→Mella 17; Odd 3→12.
+  Head 32→43 is +11 in 10 (not averaged). Martha 30→40 exact.
+  Clay 5, Stelle 6, Sherry 6/12 not used as identifiers against Lillie 10 / Sherry 12 / Hazel 2.
+  PROBABLE same household; not merged as proved.
+  NOT the sh 5 B dw 100 Dean, George 44 × Jane (C824 remains DISPROVED as this identity).
+  NOT missing sheet 1.

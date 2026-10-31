@@ -1,0 +1,30 @@
+Pass 84 — 1920 Kentucky Soundex B-630 Barrett Ben sampled
+NARA M1563 reel ky018 (B-625 Obe–B-631 Wylie)
+IA soundex1920ky018 zip-member JP2. Image-seen 31 Oct 2026 America/New_York.
+
+Given-name sort. B given-names of B-630 sit after A and before C.
+
+2000 still B-626 Brashear Troy.
+2050–2275 sampled: still mixed B-626 / early B-630.
+2300 Board, Andrew W 75 Breckinridge vol 10 ED 12 sh 10 ln 25 — A given-name.
+2325 Bird, Amos W 46 Campbell vol 13 ED 51 sh 19 ln 39 — still A.
+2375 dark/illegible.
+2400 previously B-626 Brashear Troy (Pass 84 skip of existing band).
+2425 Barrett, Bessie B 28 Henderson vol 37 ED 85 sh 13 ln 94.
+  DISPROVED as 1910 Barrett, Ben 32 (female Bessie; Henderson; 28 vs ~42).
+2450 Beard, Branche B 34 Jefferson vol 43 ED 24 sh 4 ln 8 — B given-name.
+2475 Barth, Calvin continuation — C given-names starting.
+2480–2495: 2495 Britt, Carol mu 52 Barren vol 3 ED 24 sh 7 ln 92 — C.
+2500 Baird? Carrie 16 Jefferson (C). 2600 Burhiet Clarence 10 Kenton (C).
+2605 Board, Clarence S W 48 Breckinridge. 2650 Barrett, Cortez W 6 Adair (C).
+2655 Byrd, Curt W 37 Wolfe (C). 2665 Byrd, Dan S continuation (D starts).
+2675 Board, Dave W 40 Warren (D). 2685 Beard, David W 3½ Adair (D).
+2690 Britz, Delores W 52. 2695 Barrett, Della W 19 Caldwell birth Unknown (D).
+2698 Bond, Benny W 28 Muhlenberg (B given-name out of strict order / continuation).
+2700 Beard Decota 78 Adair (D, earlier sample).
+
+Nil Barrett, Ben ~42 Owsley vol 76 ED 92 as a head in sampled leaves
+(every ~25 from 2050–2495; every ~10 from 2605–2698).
+Original dw 115 Barrett, Bruce 42 × Anna remains POSSIBLE 1910 Ben (C819).
+Residual every-leaf 2326–2424 (A-to-Bessie) not closed this pass.
+Ben (B) is before Bessie 2425, not between Carrie (C) and Decota (D).

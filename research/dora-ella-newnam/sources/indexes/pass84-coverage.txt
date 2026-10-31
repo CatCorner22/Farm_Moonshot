@@ -1,0 +1,17 @@
+Pass 84 coverage 31 Oct 2026 America/New_York
+Catalog 141 / hasMore false / totalMatched 141. Unchanged vs Pass 83.
+Status-only vs Pass 83 listing (no new chats; no IDs imported):
+Read IN Michael/Patrick sheets now IDLE (was RUNNING);
+Read IN Edward/Francis/George sheets now IDLE (was RUNNING).
+Dora B071 1850 Tincher still RUNNING. Nested reviewer not respawned.
+Message queue empty. This run bc-01a18bb4-e162-785c-9724-86a7c5663bf1.
+Sibling PR #33 C281 not imported.
+D-500 Dean George 43 Owsley ED 92 sh 6 ln 93 = original dw 107 × Martha
+PROBABLE 1910 George 32 × Martha; not missing sh 1. C824 George × Jane stands.
+G-163 3199 Elisha 40 is original Gilbert Chester Hard Rule 6.
+B-260 5025 Jerry 42 is original Baker granddaughter ln 22 Hard Rule 6.
+Josephine remaining-county nil/other. Owsley obits Luther-only 1938–40.
+IA T288/M123/KYDC 1916 numFound 0; Rogers djvu 401.
+Do not hunt D-540. Do not promote C509. Do not close B063.
+Original 1932 DC, 1916 DC face, 1840 bond, M123-3, T288 still unseen.
+Next unused after this filing: C913+ / L793+ / S653+ / DOC174+.

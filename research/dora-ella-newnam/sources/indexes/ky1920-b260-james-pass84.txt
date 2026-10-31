@@ -1,0 +1,33 @@
+Pass 84 — 1920 Kentucky Soundex B-260 Baker James / Jerry
+NARA M1563 reel ky008 (B-240 W.B.–B-260 Kirkley)
+IA soundex1920ky008 zip-member JP2. Image-seen 31 Oct 2026 America/New_York.
+
+James window just before Jane 4988:
+4960 Booker James M 69 Cumberland.
+4980 Booker James W continuation.
+4982 Baker, James W. W 36 Kentucky Pulaski vol 81 ED 229 sh 4 ln 92
+  + Baker, [Minnie?] W 38 Kentucky.
+  DISPROVED as 1910 James 35 × Caroline (Pulaski; 36 vs ~45; wife not Caroline).
+4984 Baker, James W W 63 Kentucky Jackson vol 41 ED 28 sh 1 ln 36
+  + Baker, [Lucille?] W 60 Kentucky.
+  DISPROVED (Jackson; 63 vs ~45).
+4986 Baker, James W. W 55 North Carolina Breathitt vol 6 ED 45 sh 1 ln 32
+  + Baker, Frances L W 35 Virginia.
+  DISPROVED (Breathitt; NC birth; Frances L ≠ Caroline).
+4988 Baker Jane 58 B Knox — James given-name slot closed.
+4994 Janetta 8 Hart. 5000 Jasper 77 Carroll. 5010 Jeff 44 Casey.
+5014 Jeffie M 24 Clay. 5020 Booker Jennie.
+
+Jerry:
+5025 Baker, Jerry W 42 Kentucky Owsley vol 26 ED 92 sheet 2 line 22.
+  Volume 26 ≠ Owsley volume 76.
+  Original T625-594 leaf 1159 stamped 2 B (printed A-form) ln 22 is
+  Baker, Hamon[?] Granddaughter 13 in dw 44/44 Baker, Lee Head ~43 × Lucy
+  (ln 16). Ln 23 dw 45/45 Baker, Willie Head ~31.
+  Hard Rule 6: original ln 22 is not Jerry 42. Soundex name/volume/line are clerk errors
+  of this Baker cluster, not a missing-sh-1 head.
+  DISPROVED as 1910 James 35 × Caroline (Jerry ≠ James; original Lee × Lucy ≠ Caroline).
+
+Jesse 5027–5031 already Pass 76 (C810/C811). Original sh 7 A Baker, James 29 × Dorothy
+already DISPROVED as 1910 James 35 × Caroline (C814). 1910 James × Caroline remains
+a Soundex miss of that identity (and is not Jerry / not Lee).

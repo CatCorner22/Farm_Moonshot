@@ -1,0 +1,29 @@
+Pass 84 — 1920 original T625-594 ED 92 stamped 2 B ln 16–33
+(Baker Lee / Jerry Soundex slot / Gilbert Chester)
+IA 14thcensusofpopu594unit zip-member _1159.jp2 leaf 1159.
+Opened 31 Oct 2026 America/New_York. Original image-seen.
+Enumerator Fred Hubbard, 6 January 1920. Buffalo Precinct No. 5.
+Stamped Sheet 2 B, printed A-form (lines 1–50). Completes Pass 82 Colwell extract.
+
+Ln 16 dw 44/44 Baker, Lee Head ~43 m
+Ln 17 Lucy Wife
+Ln 18 Sidney Son
+Ln 19 Arnold Grandson
+Ln 20 Dora Daughter 16
+Ln 21 Alice? Daughter 14
+Ln 22 Baker, Hamon[?] Granddaughter 13   ← Soundex B-260 5025 cited this line as Jerry 42
+Ln 23 dw 45/45 Baker, Willie Head ~31
+  Hard Rule 6 of Soundex 5025: original ln 22 is a granddaughter 13, not Jerry 42.
+  Baker, Lee ~43 at ln 16 is the nearest Baker head. Volume on the card is 26, not 76.
+
+Ln 33 dw 47/47 Gilbert, Chester Head ~32 m × Sarah Wife ~30
+  + Woodrow Son 4 + Maggie Dau ~2.
+  Already noted Pass 82 as DISPROVED as Lewis 67.
+  Hard Rule 6 of Soundex G-163 leaf 3199 “Gabbard, Elisha W 40 Owsley vol 76 ED 92 sh 2 ln 33”
+  with other members Sarah 30 / Woodrow 4 / Nargie 2:
+  original given name Gilbert, Chester ~32, same wife and children, same line.
+  Clerk wrote Gabbard Elisha / age 40 (same error class as Loyd 16 vs original 10).
+  Original stands. DISPROVED as 1910 Gabbard, Elisha 61 × Mary.
+  Not missing sheet 1.
+
+Ln 37–42 dw 48 Colwell + Gilbert Loyd/Douglas already Pass 82 (C881/C882).

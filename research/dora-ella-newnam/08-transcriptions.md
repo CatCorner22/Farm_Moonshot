@@ -4083,6 +4083,126 @@ Pass 2: License still unseen. Do **not** treat extract-nil as a marriage. Do **n
 - Cecil cemetery 404 → C898
 - T288 / 1916 DC IA / Chronicling / TFKRHA negatives → C899
 
+## DOC169 — 1920 Kentucky Soundex D-500 Dean / Dunn / Daniel / Maggie (derivative)
+
+- 5090: `sources/soundex/ky1920-d500-p5090-dean-george-43-owsley-ed92.jpg` SHA-256 `c6513dbc3beda2862b75d356eeae9bec8a885cc19141549240601a57b4a894d5` (189,087 bytes, 1832×671)
+- 5100: `…p5100-dean-george-68-washington.jpg` `c58dbe0ef46dcd63408e50057086825061acdc67ac32c39dd99ebf9a1b2ea4fb` (191,158 bytes, 1832×612)
+- 4760: `…p4760-dunn-dora-49-trimble.jpg` `4799e1c9555cdfe2c000ad94c04b6f515f8e795918b2a6a4b7edfe1cbb55d7f8` (145,749 bytes, 1832×604)
+- Extract: `ky1920-d500-dean-pass84.txt` SHA-256 `784d30837682b0066ceb4b6639f27aed0e3ba10c4debd0cbcc8dcf403f155ceb`
+- Provenance: NARA M1563 reels **43–44** / IA `soundex1920ky043` / `soundex1920ky044`, opened 31 Oct 2026. **Image-seen** (zip-member JP2). Given-name sort. Do **not** hunt D-540.
+
+### Diplomatic — cited cards
+
+> **5090** D-500 **Dean, George** Head W **43** Kentucky **Owsley** vol **76** ED **92** sheet **6** line **93**. **Dean, Martha** W **40** Kentucky. Form **A-1**. Copies original dw **107** (DOC170).
+
+> **5100** D-500 **Dean, George** Head B **68** Ky **Washington** vol **20** ED **162** sheet **7** line **53**. **DISPROVED** as 1910 George 32 × Martha.
+
+> **4760** D-500 **Dunn, Dora** Head W **49** Kentucky **Trimble** vol **87** ED **162** sheet **4** line **66**. **DISPROVED as P001**.
+
+> Daniel **4692–4699** **nil** Dean, Daniel B ~38 Owsley. **4697** Dean, Dan W **42** Missouri **Bell**. Maggie **0782** Dean, Macie 19 Bourbon; **0785** Dunn, Maggie B 39 Madison; **nil** Dean Maggie ~75 Owsley Wd.
+
+Pass 2: **5090** matches original leaf **1166**. Hard Rule 6: original given name **George**; original wife **Martha**. Do not treat Daniel/Maggie given-name nil as death.
+
+### Facts extracted → claim IDs
+- 5090 copies original George × Martha → C904
+- 5100 / 4760 DISPROVED → C904
+- Daniel / Maggie windows nil matching 1910 identities → C905
+
+## DOC170 — 1920 Owsley ED 92 sheet 6 A, dwelling 107 Dean George × Martha (original)
+
+- Household: `sources/census/1920-owsley-ed92-sh6a-hh107-dean-george-martha.jpg` SHA-256 `d94ff9906ef2f3376305d2395c867ec1a525f0d9b5e295a159529de9c3907725` (140,725 bytes, 1800×398)
+- Extract: `owsley-1920-ed92-sh6a-dean-george-pass84.txt` `6bd206cef7eeac4e857dc4c4a1ebb25f3c6c274fdc5b774dbe13bc969271b90a`
+- Provenance: NARA T625-**594** / IA `14thcensusofpopu594unit` `_1166.jp2` leaf **1166**, opened 31 Oct 2026. **Image-seen.** Enumerator **Fred Hubbard**, **14 Jan 1920**. Buffalo Precinct No. **5**, ED **92**, stamped **6 A**, printed B-form lines **51–100**. Same leaf as Gay Henry dw **105** (DOC130) and Daniel Reece dw **106** (DOC145).
+
+### Diplomatic — dwelling 107/107
+
+> Ln **93** fam **107/107 Dean, George** Head farmer m W **43**[?] m  
+> Martha Wife f W **40** m  
+> Mella Daughter f W **17** S  
+> Lillie Daughter f W **10** S  
+> Earl Son m W **4** S  
+> Odd Daughter f W **12** S  
+> [Sherry?] Daughter f W **12** S  
+> Hazel Daughter f W ~**2** S
+
+Pass 2: Age column on George ~**43**. Original spellings **Mella** / **Odd**. **Not** missing sheet 1. **Not** the sh **5 B** dw **100** George × Jane (C824).
+
+### Facts extracted → claim IDs
+- 1920 original Dean George × Martha ED 92 sh 6 dw 107; PROBABLE 1910 dw 29 → C903
+
+## DOC171 — 1920 Kentucky Soundex B-260 Baker James / Jerry + original Jerry slot (derivative + original)
+
+- 5025: `sources/soundex/ky1920-b260-p5025-baker-jerry-42-owsley-ed92.jpg` SHA-256 `a2833f783cc21abe5f1ed940ce86f64af5777502b28720635722d01199960948` (174,176 bytes, 2033×612)
+- 4982: `…p4982-baker-james-w-36-pulaski.jpg` `bc42d1bf5f784dc672b9dfa7ef1149fd4adf97eb7ee7a92ec1a76c04c185cac5` (182,181 bytes, 2033×688)
+- 4984: `…p4984-baker-james-w-63-jackson.jpg` `beb2deaaac6c38e39ef66cc1305494d5e6d2a2c20c71acbedbe1fa11f7c14716` (202,140 bytes, 2033×706)
+- 4986: `…p4986-baker-james-w-55-breathitt.jpg` `0dd6f4b73324053c33017ea18d2e229b61326a0cf73d8716f592402996308cb3` (193,157 bytes, 2033×688)
+- Original Jerry slot: `sources/census/1920-owsley-ed92-sh2b-ln16-23-baker-lee-jerry-slot.jpg` `0ede4c16ea6ae1b90f323e79e3f0e6ddb48ea518aaf5b97a8fc350309eb2a850` (173,828 bytes, 1800×398)
+- Extracts: `ky1920-b260-james-pass84.txt` `497a622824d51df296c6ffbdf6148ce156e91aabdeeb8bcefaf74ad491e57ee4`; `owsley-1920-ed92-sh2b-chester-baker-pass84.txt` `5db2ca3b6850fa36ac2f48a31de8f63c8b597ddf183b3a136d4e73dca3237470`
+- Provenance: NARA M1563 reel **8** / IA `soundex1920ky008` and T625-**594** leaf **1159**, opened 31 Oct 2026. **Image-seen.**
+
+### Diplomatic — cited cards and original lines
+
+> **4982** B-260 **Baker, James W.** Head W **36** Kentucky **Pulaski** vol **81** ED **229** sheet **4** line **92**. **Baker, [Minnie?]** W **38**. **DISPROVED** as 1910 James 35 × Caroline.
+
+> **4984** B-260 **Baker, James W** Head W **63** Kentucky **Jackson** vol **41** ED **28** sheet **1** line **36**. **DISPROVED**.
+
+> **4986** B-260 **Baker, James W.** Head W **55** North Carolina **Breathitt** vol **6** ED **45** sheet **1** line **32**. **Baker, Frances L** W **35** Virginia. **DISPROVED**.
+
+> **5025** B-260 **Baker, Jerry** Head W **42** Kentucky **Owsley** vol **26** ED **92** sheet **2** line **22**. Volume **26** ≠ **76**.
+
+> Original leaf **1159** stamped **2 B**: ln **16** dw **44/44 Baker, Lee** Head ~**43** × Lucy; ln **22** Baker, Hamon[?] Granddaughter **13**. Hard Rule 6 of **5025**.
+
+Pass 2: James given-name slot closed at Jane **4988**. Jerry is a clerk error of the Baker Lee cluster, not a missing-sh-1 head.
+
+### Facts extracted → claim IDs
+- James window / Jerry Hard Rule 6 DISPROVED as 1910 James × Caroline → C906
+
+## DOC172 — 1920 Kentucky Soundex G-163 Elisha + original Gilbert Chester (derivative + original)
+
+- 3199: `sources/soundex/ky1920-g163-p3199-gabbard-elisha-40-owsley-ed92.jpg` SHA-256 `b4a5757751e452bce579c51cf5e3a5b5804c84be2481ea9d126c4321da5f56e7` (234,673 bytes, 2044×908)
+- 3198: `…p3198-gabbard-elisha-20-jackson.jpg` `9151a0ee58e5e64358cd3a0c900522f403cc6fc71a79711bec4c89693e78a9f9` (173,455 bytes, 2044×612)
+- Original Chester: `sources/census/1920-owsley-ed92-sh2b-hh47-gilbert-chester.jpg` `5c551b8f818e324f1232a60a703f6b14756670f778f046adddfdcfbcfa2d0e9d` (136,666 bytes, 1800×326)
+- Extract: `ky1920-g163-elisha-pass84.txt` `99b12a8b8d7a7ada60143bb2c4832813417e4f0a3ac9d801b4b3160d4784aad8`
+- Provenance: NARA M1563 reel **57** / IA `soundex1920ky057` and T625-**594** leaf **1159**, opened 31 Oct 2026. **Image-seen.**
+
+### Diplomatic — cited cards and original lines
+
+> **3198** G-163 **Gabbard, Elisha** Head W **20** Kentucky **Jackson** vol **41** ED **27** sheet **6** line **21**. **DISPROVED** as 1910 Elisha 61 × Mary.
+
+> **3199** G-163 **Gabbard, Elisha** Head W **40** Kentucky **Owsley** vol **76** ED **92** sheet **2** line **33**. **Gabbard, Sarah** W **30**; **Woodrow** S **4**; **Nargie** D **2**.
+
+> Original leaf **1159** stamped **2 B** ln **33** dw **47/47 Gilbert, Chester** Head ~**32** × Sarah ~**30** + Woodrow **4** + Maggie ~**2**. Hard Rule 6 of **3199**. Clerk wrote Gabbard / Elisha / 40 (same error class as Loyd 16 vs original 10).
+
+Pass 2: Original Chester stands. **DISPROVED** as 1910 Elisha 61 × Mary. Not missing sheet 1.
+
+### Facts extracted → claim IDs
+- 3198 DISPROVED; 3199 is original Chester → C907
+
+## DOC173 — Josephine×Gilbert ~1902 remaining substitutes + Owsley obits / IA (Pass 84)
+
+- Extract: `josephine-gilbert-pass84.txt` SHA-256 `9225ac83833be2c2391902a544eef3fd9cbb469c7836d56622d6c7013f2a0088`
+- Coverage: `pass84-coverage.txt` `3dfe6b342541212febe9f96a886445ae01552077a2a030d283b8d240417e9431`
+- B-630 extract: `ky1920-b630-barrett-pass84.txt` `1ae06266fec06b3fb0140da82e6e90cf4db2f379a33f2fb7a2a0af24f0b20ac0`
+- Provenance: KYGenWeb/USGenNet/IA HTML and JSON opened 31 Oct 2026. **HTML-seen**, not civil-register or T288 images.
+
+### Diplomatic — cited extracts
+
+> Morgan `marriages1900-1903p4.html` HTTP **200** (834,200 bytes): **23 Oct 1900** Henry C Johnston × **Josephine Spradlin**. Josephine Lewis witness Nov 1901. Josie Allington witness 16 Jul 1902. Other. **Nil** Newnam × Gilbert.
+
+> Casey `GT-Marriages.htm` **200**: Baldock Josephine × Lee **1878**; Bradshaw Josie × Wilson **1898**; Powell Betsey × Newman George **1821** — all other. Whitley G/N string-**nil**. Wayne G = 1817–1829 Gilberts. Elliott Josephine Johnson **1877** / Skeins **1875** other. Carter Gilbert 1838–41 FAN. Magoffin/Laurel **404**.
+
+> USGenNet `owsley/obit/` **200**: Rev. **Luther Newnam** officiant **1938–1940** only. **Nil** Henry H 1916 / Manerva 1920.
+
+> IA T288 / M123 / KY DC 1916 **numFound 0**. Rogers `_djvu.txt` **401**. GT Estill Ashcraft × Tincher **21 Jun 1818** is not the 1840 bond.
+
+Pass 2: License still unseen. Do **not** treat extract-nil as a marriage. Do **not** promote C509. B-630 Barrett Ben sampled-nil (C908).
+
+### Facts extracted → claim IDs
+- Josephine remaining nil/other → C909
+- Obits Luther-only; IA / Rogers negatives → C910
+- B-630 Barrett Ben sampled-nil → C908
+
+
 
 
 

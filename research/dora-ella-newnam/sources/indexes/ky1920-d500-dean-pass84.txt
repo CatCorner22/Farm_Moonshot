@@ -1,0 +1,50 @@
+Pass 84 — 1920 Kentucky Soundex D-500 (Dean / Dunn / Daniel / Maggie)
+NARA M1563 reels ky043 (D-400–D-500 Ivy) and ky044 (D-500 J.–D-525 Proctor)
+IA soundex1920ky043 / soundex1920ky044 zip-member JP2. Image-seen 31 Oct 2026 America/New_York.
+
+ky043 George / Dora / Daniel window (sampled + denser):
+0020 still D-400 Dailey Adie. 3500 still D-400s. 4600 Denny Chloe (D-500 C).
+4680 Dunn Dowtie? 7 Bell. 4690 Down D.W. 39 Butler.
+4692 Donahoo Daisy W 34 Marshall vol 68 ED 163 sh 10 ln 33.
+4693 Downey? Daisy M W 6 vol 54 ED 92 sh 10 ln 25 (vol 54 ≠ Owsley 76).
+4694 Dunaway Della C W 28 Fleming vol 23 ED 84 sh 3 ln 85.
+4695 Doane, Dan W 32 Bourbon? vol 9 ED 33 sh 8 ln 99. DISPROVED as 1910 Daniel B 28 Owsley.
+4696 D[ean?], Dan W 50 Bell vol 5 ED 18 sh 8 ln 95. DISPROVED (Bell; 50 vs ~38).
+4697 Dean, Dan W 42 Missouri Bell vol 5 ED 18 sh 3 ln 87. DISPROVED as 1910 Daniel B (Bell; Missouri).
+4698 Denney, Daniel C. W 58 Mayo[?] vol 91 ED 271 sh 7 ln 47. DISPROVED.
+4699 Donahue, Daniel W 47 Hopkins vol 40 ED 94 sh 10 ln 8. DISPROVED.
+Nil Dean, Daniel B ~38 Owsley vol 76 ED 92 as a head in 4692–4699.
+
+4710 Dunn Dave 37 B Harlan. 4720 Dunn David 44 PA Fayette.
+4740 Dunaway Docy. 4760 Dunn, Dora W 49 Kentucky Trimble vol 87 ED 162 sh 4 ln 66.
+  DISPROVED as P001 (Trimble; 49 vs ~48 is not enough against county + Dunn ≠ Newnam).
+4820 Edward. 4880 Downey Elmer. 4900 Dunn Elsie.
+
+5090 Dean, George W 43 Kentucky Owsley vol 76 ED 92 sheet 6 line 93.
+  Other members: Dean, Martha W 40 Kentucky.
+  = original T625-594 leaf 1166 stamped 6 A ln 93 dw 107/107 (Hard Rule 6).
+5100 Dean, George B 68 Ky Washington vol 20 ED 162 sh 7 ln 53.
+  DISPROVED as 1910 George 32 × Martha (color B; 68 vs ~42; Washington ≠ Owsley).
+5110 Dunn George 45 B Hardin. 5120 Delaney? George A 60 Madison.
+5180 Dewey Gilbert continuation. 5300 Dean Henry 30 VA Lawrence.
+Reel ky043 ends ~5300 (5450+ 404).
+
+ky044 Maggie after Mabel (0761–0799 every-leaf 0781–0799):
+0760 Dunn Lulu 29 Grant (L). 0761 Dunn Luther W 34 Grant.
+0765 Downey, Luther L continuation. 0768 Dunn, Lyda B 34 Casey.
+0775 Dunaway M.G. 73 Henry? Turners Station. 0778 Dean, John W 51 Woodford.
+0779 Dunaway, Mabel W 31 Jefferson. 0780 Deane, Mabel S 26 Jefferson (M starts).
+0781 Denney Mable B 14 Allen TN.
+0782 Dean, Macie W 19 Bourbon vol 9 ED 29 sh 7 ln 61. DISPROVED as 1910 Maggie 65 Wd.
+0783 Dunn, Madge W 13 Fayette.
+0784 Dunn, Magget L W 43 Simpson vol 85 ED 103 sh 8 ln 18.
+0785 Dunn, Maggie B 39 Madison Richmond East 412 vol 67 ED 92 sh 4 ln 65.
+  DISPROVED as 1910 Dean Maggie 65 (Dunn; 39; Madison; color B).
+0786 Dunn, Maggie B 62 Fayette vol 25 ED 64 sh 5 ln 16. DISPROVED (Dunn; Fayette; B).
+0790 [Dow?], Maggie W 65 Tennessee Rockcastle vol 17 ED 237 sh 3 ln 43.
+  DISPROVED as Dean Maggie (surname not Dean; Rockcastle; TN birth).
+0795 Downey, Mammie W 39 Mercer Harrodsburg.
+0799 Denney, Mandy B 30 Madison.
+Nil Dean, Maggie ~75 Owsley Wd as a D-500 head in the Maggie slot (Dean Macie 0782 then Dunn Madge 0783; no Dean Maggie card between).
+
+Do not hunt D-540. Original Dean George × Martha is on filmed sh 6 A, not missing sh 1.
