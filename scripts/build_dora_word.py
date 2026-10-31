@@ -167,7 +167,7 @@ def configure_document(doc: Document) -> None:
     core.subject = "Genealogical biography (GPS-cited). Living people redacted."
     core.author = "Farm_Moonshot case file — research/dora-ella-newnam"
     core.comments = (
-        "Rebuilt from the markdown case book. Pass 62–65 filed. "
+        "Rebuilt from the markdown case book. Passes 62–88 filed (Pass 88 T623-840 crops not examined). "
         "Pope Roll 5 unread. Living people redacted."
     )
 
