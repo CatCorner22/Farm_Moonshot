@@ -1,0 +1,18 @@
+[
+  {
+    "q": "title:(m1509) AND (kentucky OR arkansas)",
+    "numFound": 0
+  },
+  {
+    "q": "title:(\"world war i draft\") AND (lee OR estill OR owsley OR yell)",
+    "numFound": 0
+  },
+  {
+    "q": "collection:(worldwaridraftregistrationcards) AND kentucky",
+    "numFound": 0
+  },
+  {
+    "q": "\"John Newnam\" draft 1917",
+    "numFound": 0
+  }
+]

@@ -214,6 +214,28 @@ Regenerated **before** B045 queries (`bc-c5415202`). **Did not take B049 / B055 
 
 Exact strings logged **L477–L485**.
 
+## Name-variant storm (pass 74, `search_variants.py`, 31 Oct 2026)
+
+Regenerated **before** B016 queries (`bc-c5415202`). **Did not** take B047 / B092 / B049 / B054 / B055 / B056. **Did not** retake B045 / B051 / B057. Sibling `bc-20e39036` owns B047 as pass **75** (**C399–C409 / L460–L468 / S340–S351**). This pass uses **C425+ / L486+ / S364+**. Categories **1–4**:
+
+1. **Canonical:** Rissa / Rissie Newnam (P009, 1900 May 1897); WikiTree **Newnam-46** Rissie (Newnam) Pelfrey d. 13 May 1980 Knoxville.
+2. **User / family:** Newman / Newnam / Newnarn / Newan / Newnom; Recie; Stamper; Pelfrey / Pelfry / Pelphrey; later **Lewis** (index hit).
+3. **Machine / OCR given:** Rissie (ocr-given: Rissie); Rissa (ocr-given: Rissa). Surname: Newnam, newman, newnarn, newan, newnom; Pelfrey, Pelfry, Pelphrey; Stamper; Lewis. Soundex **N550** / **P416** / **S351** / **L200** / Rissie **R200**.
+4. **Repository quirks:** Shelby TN death index `Last First` + county ALL/KNOX + date range; FAG `firstName=Rissie&lastName=Lewis`; WikiTree Newnam-46 / Stamper-572; USGenNet Books `Last, First`; IA Solr quoted phrases; SortedByName `/letter_l/lewis/rissie*.html` (404).
+
+Exact strings logged **L486–L495**.
+
+## Name-variant storm (pass 75, `search_variants.py`, 31 Oct 2026)
+
+Regenerated **before** B047 M1509 queries (`bc-20e39036`). **Did not take B016** (sibling `bc-c5415202` Pass **74**, L486+). **Did not take B092 / B049 / B055 / B056.** **Did not retake B045 / B054.** Used reserved unused **C399–C409 / L460–L468 / S340–S351**. Categories **1–4**:
+
+1. **Canonical:** John H. Newnam (P010) b. Aug 1899; McCoy “Coy” Newnam (P006) b. Apr 1890.
+2. **User / family:** John / John H / J H / J. H.; McCoy / Coy / Mack; Newnam / Newman.
+3. **Machine / OCR given:** John (ocr-given: John only); McCoy (ocr-given: McCoy only). Surname: Newnam, newman, newnarn, newan, newnom. Soundex **N550** / John **J500** / McCoy **M200** / Coy **C000**.
+4. **Repository quirks:** NARA M1509 rolls **KY45** (Lee A–Z), **KY24** (Estill A–Z), **KY74** (Owsley A–Z), **AR69** (Yell A–Z), **AR49** (Perry A–Z); FS collection **1968530**; Ancestry **6482**; Fold3 pub **773**; GT `ww1draft.html` / `wwi_draft_cards.html`; `Last, First` on county transcripts; third registration 12 Sep 1918 for John H; first registration 5 Jun 1917 for McCoy.
+
+Exact strings logged **L460–L468**.
+
 ## Agent SDK / GitHub channel
 
 Inspected 30 Oct 2026 (**L351**): this repository has **no** `package.json`, **no** `@grok/agent-sdk`, **no** `bot/` directory. GitHub channel `bot/channels/github.ts` is **n/a** and was **not** authored. Project subagent: `.cursor/agents/dora-genealogy-detective.md`.
