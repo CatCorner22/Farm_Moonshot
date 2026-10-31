@@ -1409,5 +1409,63 @@ J-tab is the next leaf (n161). → **C451**.
 
 First John-band C-563 leaf after James H. No Jesse card. → **C449**.
 
+## DOC099 — 1900 VT Soundex C-563, Jesse H Canerdy, 32, Vermont
+- Image: `sources/soundex/vt1900-c563-p783-jesse-h-32-vt.jpg` SHA-256 `423b64b8e3d0b3826a9570ad2a2b87ed91d2abe75f19707e98af4a5dee548172`
+- Reel: IA `soundex1900vt009` n**783**
+
+### Diplomatic
+> **C-563 Canerdy, Jesse H.** — Head of family · vol **11** ED **223** sh **2** ln **72** · W Sept **1867** **32** Vermont · Washington / Duxbury Town  
+> **Canerdy, Nettie L** — W, Jan **1866**, **34**, Vermont  
+> **Charles** — S, Nov **1887**, **10**, Vermont  
+> **Herbert** — S, Feb **1893**, **7**, Vermont
+
+Only Jesse card on the Vermont C-563 J-window. Surname Canerdy; nativity Vermont; two Vermont-born sons. → **C453 / C456**.
+
+## DOC100 — 1900 VT Soundex C-563, Jennie C Coonerty
+- Image: `sources/soundex/vt1900-c563-p782-jennie-c.jpg` SHA-256 `3da4d98d57892faea502650686bcda4f2c8c01bab5e013ca24e1322fafa42d6e`
+- Reel: IA `soundex1900vt009` n**782**
+
+### Diplomatic
+> **C-563 Coonerty, Jennie C.** — Individual · vol **13** ED **226** sh **11** ln **49** · W Aug **1862** **37** Massachusetts · Windsor / Springfield Town  
+> Enumerated with **Clissold, Fred W.** · Relationship **Daughter**
+
+Immediate leaf before Canerdy Jesse H. → **C453**.
+
+## DOC101 — 1900 NH Soundex C-563, James Conrad, 35, New Hampshire
+- Image: `sources/soundex/nh1900-c563-p1250-james-35-nh.jpg` SHA-256 `26dd1aa8d00d8011f6c05d6483045959f8d08c29b36366d625e93dcb422716fd`
+- Reel: IA `soundex1900nh011` n**1250**
+
+### Diplomatic
+> **C-563 Conrad, James** — Individual · vol **14** ED **208** sh **9** ln **76** · W Dec **1865** **35** New Hampshire · Rockingham / Portsmouth / State **33**  
+> Enumerated with **Pike, William A.** · Relationship **Boarder**
+
+Immediate leaf before Choinard John B. No Jesse card. → **C454 / C457**.
+
+## DOC102 — 1900 NH Soundex C-563, John B Choinard, 54, Canada
+- Image: `sources/soundex/nh1900-c563-p1251-john-b-after-james.jpg` SHA-256 `dbc80d2f5e02db832b3646e8193c926d4eb360db604afe2000af14ae6383f056`
+- Reel: IA `soundex1900nh011` n**1251**
+
+### Diplomatic
+> **C-563 Choinard, John B.** — Head of family · vol **10** ED **132** sh **7** ln **27** · W June **1845** **54** Canada (French) al · Hillsboro / New Ipswich Town  
+> **Choinard, Mary L** — W, June **1853**, **46**, Canada  
+> **John** — S, Apr **1881**, **19**, Canada  
+> **Joseph** — S, June **1884**, **15**, Canada  
+> **Arthur** — S, July **1886**, **13**, Canada  
+> **Emaline** — D, Apr **1889**, **11**, Canada
+
+Immediate leaf after Conrad James. → **C454**.
+
+## DOC103 — 1900 DE Soundex C-562, James R Conrad, 52, Pennsylvania
+- Image: `sources/soundex/de1900-c562-p1874-james-r-52-pa.jpg` SHA-256 `79473ec5c783b8045a4ed1e24fb280da6236e93ae5968eb7ca0f2b709fc286eb`
+- Reel: IA `soundex1900de004` n**1874**
+
+### Diplomatic
+> **C-562 Conrad, James R.** — Head of family · vol **6** ED **88** sh **5** ln **94** · W Jan **1848** **52** Pennsylvania · Sussex / Cedar Creek Hundred / South Milford Town / Front  
+> **Conrad, Anna** — Wife, [Sep?] **1855**, **44**, Delaware  
+> **Harvey** — Son, Nov **1883**, **16**, Delaware  
+> Remark: **vasenumerated**
+
+Code is C-562. Closest DE near-hit in the J-window. C-563 John R / Mary G / Samuel have no Jesse. → **C455 / C458**.
+
 ## DOC009 — 1910 TN Soundex N-550 McCoy window (nil)
 Handwritten family/individual cards n2461–n2469. Sequence after Mary C (n2460): Mary D 49 Jefferson (son Layton 11); Mary M 70 Hamilton; Mek. G 50 Cheatham (Florence 19, John 17, General 16, Frances 13, William 10, Doria 6, Luther 1½); Melvin 3½ Giles (gs of Deacon George W); Melvin 54 Giles (SIL of same); Minerva 80 Robertson (gds Lona Neely, Nellie Erwin); Minnie 21 Roane (with Sam P. Sparks); Mitchell 27 Hardin (Ollie P 25, Gladys 4, Burl W 3, Royal E 1 9/12). **No McCoy.** SHA-256 n2463 `23610f8aa4c159b1b554ed1786d11f57d2f56f8a2e8994f7289ae7bd02dfca53`; n2469 `340489566090880388fa6b81ca5751c5944dcaf56a7b44f70fe560788f308586`.

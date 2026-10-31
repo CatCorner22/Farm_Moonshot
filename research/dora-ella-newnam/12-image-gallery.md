@@ -141,6 +141,11 @@ Diplomatic transcriptions: [`08-transcriptions.md`](08-transcriptions.md). Citat
 | 166 | 1900 (index) | Rejected same-name | [Idaho C-563 — James H Conrad, 34, Missouri, Mullan](sources/soundex/id1900-c563-p174-james-h-34-mo.jpg) |
 | 167 | 1900 (index) | Rejected same-name | [Idaho C-563 — Isaac Conrad, 34, Indiana, Rathdrum](sources/soundex/id1900-c563-p160-isaac-34-in.jpg) |
 | 168 | 1900 (index) | Rejected same-name | [Idaho C-563 — John H Coonrod, 60, Illinois; no Jesse leaf](sources/soundex/id1900-c563-p186-john-h-coonrod.jpg) |
+| 169 | 1900 (index) | Rejected same-name | [Vermont C-563 — Canerdy, Jesse H, 32, Vermont, Duxbury](sources/soundex/vt1900-c563-p783-jesse-h-32-vt.jpg) |
+| 170 | 1900 (index) | Rejected same-name | [Vermont C-563 — Coonerty, Jennie C, 37, Massachusetts](sources/soundex/vt1900-c563-p782-jennie-c.jpg) |
+| 171 | 1900 (index) | Rejected same-name | [New Hampshire C-563 — Conrad, James, 35, New Hampshire, Portsmouth](sources/soundex/nh1900-c563-p1250-james-35-nh.jpg) |
+| 172 | 1900 (index) | Rejected same-name | [New Hampshire C-563 — Choinard, John B, 54, Canada; no Jesse leaf](sources/soundex/nh1900-c563-p1251-john-b-after-james.jpg) |
+| 173 | 1900 (index) | Rejected same-name | [Delaware C-562 — Conrad, James R, 52, Pennsylvania, South Milford](sources/soundex/de1900-c562-p1874-james-r-52-pa.jpg) |
 | 123 | 1900 (index) | Context | [Texas C-563 — J-tab divider](sources/soundex/tx1900-c563-p1-j-divider.jpg) |
 | 17 | Apr 1910 | Negative search | [Kentucky N-550 — Millie / Missouri; no McCoy](sources/soundex/ky1910-n550-p329-millie-missouri.jpg) |
 | 18 | Apr 1910 | Negative search | [Kentucky N-550 — Monroe; still no McCoy](sources/soundex/ky1910-n550-p330-monroe-no-mccoy.jpg) |
@@ -1419,6 +1424,56 @@ White individual, October 1865, age 34, born Indiana, Rathdrum. Brother-in-law o
 White head, January 1840, age 60, born Illinois, Van Wyck. Wife Mandy J, 53, Illinois; four Kansas-born children. First John-band C-563 leaf after James H. Combined with the n130–320 every-card walk, Idaho 1900 C-563 has no White Jesse Conrad head about 27 born Missouri.
 
 ![Idaho C-563 — John H Coonrod, 60, Illinois; no Jesse leaf](sources/soundex/id1900-c563-p186-john-h-coonrod.jpg)
+
+### 169 · 1900 (index) · Vermont C-563 — Canerdy, Jesse H, 32, Vermont, Duxbury
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/vt1900-c563-p783-jesse-h-32-vt.jpg`](sources/soundex/vt1900-c563-p783-jesse-h-32-vt.jpg)  
+**Source:** S345 · C453 · C456
+
+White head, September 1867, age 32, born Vermont, Duxbury Town. Wife Nettie L, 34, Vermont; sons Charles, 10, and Herbert, 7, both Vermont. Surname is Canerdy, nativity is Vermont, and the two sons are not Letha, about 2. Combined with the n730–920 every-card walk, Vermont 1900 C-563 has no White Jesse Conrad head about 27 born Missouri.
+
+![Vermont C-563 — Canerdy, Jesse H, 32, Vermont, Duxbury](sources/soundex/vt1900-c563-p783-jesse-h-32-vt.jpg)
+
+### 170 · 1900 (index) · Vermont C-563 — Coonerty, Jennie C, 37, Massachusetts
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/vt1900-c563-p782-jennie-c.jpg`](sources/soundex/vt1900-c563-p782-jennie-c.jpg)  
+**Source:** S345 · C453
+
+White individual, August 1862, age 37, born Massachusetts, Springfield. Daughter of Fred W. Clissold. Immediate leaf before Canerdy Jesse H. Combined with Plate 169 this closes the Vermont 1900 C-563 J-window around Jesse.
+
+![Vermont C-563 — Coonerty, Jennie C, 37, Massachusetts](sources/soundex/vt1900-c563-p782-jennie-c.jpg)
+
+### 171 · 1900 (index) · New Hampshire C-563 — Conrad, James, 35, New Hampshire, Portsmouth
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/nh1900-c563-p1250-james-35-nh.jpg`](sources/soundex/nh1900-c563-p1250-james-35-nh.jpg)  
+**Source:** S346 · C454 · C457
+
+White individual, December 1865, age 35, born New Hampshire, Portsmouth, State Street 33. Boarder of William A. Pike. The next leaf is Choinard, John B. Combined with the n1180–1370 every-card walk, New Hampshire 1900 C-563 has no Jesse Conrad head.
+
+![New Hampshire C-563 — Conrad, James, 35, New Hampshire, Portsmouth](sources/soundex/nh1900-c563-p1250-james-35-nh.jpg)
+
+### 172 · 1900 (index) · New Hampshire C-563 — Choinard, John B, 54, Canada; no Jesse leaf
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/nh1900-c563-p1251-john-b-after-james.jpg`](sources/soundex/nh1900-c563-p1251-john-b-after-james.jpg)  
+**Source:** S346 · C454
+
+White head, June 1845, age 54, born Canada (French), New Ipswich. Wife Mary L, 46, Canada; four Canada-born children. Immediate leaf after Conrad James. Combined with Plate 171 this closes the New Hampshire 1900 C-563 J-window.
+
+![New Hampshire C-563 — Choinard, John B, 54, Canada; no Jesse leaf](sources/soundex/nh1900-c563-p1251-john-b-after-james.jpg)
+
+### 173 · 1900 (index) · Delaware C-562 — Conrad, James R, 52, Pennsylvania, South Milford
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/de1900-c562-p1874-james-r-52-pa.jpg`](sources/soundex/de1900-c562-p1874-james-r-52-pa.jpg)  
+**Source:** S347 · C455 · C458
+
+White head, January 1848, age 52, born Pennsylvania, Cedar Creek Hundred, South Milford. Wife Anna, 44, Delaware; son Harvey, 16, Delaware. Code is C-562, not C-563. Combined with the n1800–2120 every-card walk, Delaware 1900 C-563 has no Jesse Conrad head.
+
+![Delaware C-562 — Conrad, James R, 52, Pennsylvania, South Milford](sources/soundex/de1900-c562-p1874-james-r-52-pa.jpg)
 
 ### 123 · 1900 (index) · Texas C-563 — J-tab divider
 
