@@ -312,6 +312,28 @@ Captured this session: **30 Oct 2026**. Earlier plates remain in `sources/census
 | S570 | `sources/census/bell-1920-ed28-0610-ingram-2a.jpg` | 2026-10-31 | IA T625-559 | https://archive.org/details/14thcensusofpopu559unit | Bell ED **28** sh **2 A** | **C859** | image seen |
 | S571 | `sources/census/pass88-extract-2026-10-31.txt` | 2026-10-31 | This session | — | Pass 88 extract | **C858–C885** | extract |
 | S572 | `sources/vital/b016-rissie-ssdi-nil-2026-10-31.txt` | 2026-10-31 | This session | — | B016 free SSDI/TN Stamper **nil**; skip living | **C885** | extract |
+| S573 | `sources/census/wolfe-1920-ed238-0443-torrent-pass89.jpg` | 2026-10-31 | IA T625-602 | https://archive.org/details/14thcensusofpopu602unit | Torrent ED **238** start; visual Wells/Brooks/Miller/Johnson | **C886 C894** | image seen |
+| S574 | `sources/census/wolfe-1920-ed238-0471-torrent-end-pass89.jpg` | 2026-10-31 | IA T625-602 | https://archive.org/details/14thcensusofpopu602unit | Torrent leftover 31 Jan; official Torrent end | **C886** | image seen |
+| S575 | `sources/census/wolfe-1920-ed239-0472-holly-start-pass89.jpg` · `wolfe-1920-ed239-0472-edbox.png` | 2026-10-31 | IA T625-602 | https://archive.org/details/14thcensusofpopu602unit | Holly ED **239** official start 2 Jan Ola H. Miller | **C887** | image seen |
+| S576 | `sources/census/wolfe-1920-ed239-0486-holly-end-pass89.jpg` | 2026-10-31 | IA T625-602 | https://archive.org/details/14thcensusofpopu602unit | “Here ends … Magisterial District No 5 Holly” | **C888** | image seen |
+| S577 | `sources/census/wolfe-1920-ed239-0487-unused-pass89.jpg` | 2026-10-31 | IA T625-602 | https://archive.org/details/14thcensusofpopu602unit | Unused blank after Holly | **C889** | image seen |
+| S578 | `sources/census/wolfe-1920-ed240-0488-stillwater-start-pass89.jpg` | 2026-10-31 | IA T625-602 | https://archive.org/details/14thcensusofpopu602unit | Stillwater ED **240** official start 2 Jan | **C890** | image seen |
+| S579 | `sources/census/wolfe-1920-ed240-0513-unused-pass89.jpg` | 2026-10-31 | IA T625-602 | https://archive.org/details/14thcensusofpopu602unit | Unused blank after Stillwater | **C891** | image seen |
+| S580 | `sources/census/wolfe-1920-ed241-0514-clifty-1-pass89.jpg` · `wolfe-1920-ed241-0514-edbox-pass89.png` | 2026-10-31 | IA T625-602 | https://archive.org/details/14thcensusofpopu602unit | Clifty ED **241** sh **1**; last populated Wolfe image | **C892 C896** | image seen |
+| S581 | `sources/census/pass89/wolfe-tx/1920g-holly.txt` · `1920h-stillwater.txt` · `1920i-clifty.txt` · `1920k-antioch.txt` | 2026-10-31 | KYGenWeb Wolfe | https://kygenweb.net/wolfe/census1.htm | Compiled Holly/Stillwater/Clifty/Antioch **nil** Newman | **C900** | transcription only |
+| S582 | `sources/census/bell-1920-ed28-0619-ingram-6a-pass89.jpg` | 2026-10-31 | IA T625-559 | https://archive.org/details/14thcensusofpopu559unit | Bell ED **28** sh **6 A** 12 Jan; ED 28 complete | **C897** | image seen |
+| S583 | `sources/census/bell-1920-ed30-0659-end-pass89.jpg` | 2026-10-31 | IA T625-559 | https://archive.org/details/14thcensusofpopu559unit | “Here ends … Williams Branch Precinct 24” | **C898** | image seen |
+| S584 | `sources/census/bell-1920-0660-unused-pass89.jpg` | 2026-10-31 | IA T625-559 | https://archive.org/details/14thcensusofpopu559unit | Unused blank after ED 30 | **C899** | image seen |
+| S585 | `sources/census/bell-1920-ed31-0661-dorothy-1a-pass89.jpg` | 2026-10-31 | IA T625-559 | https://archive.org/details/14thcensusofpopu559unit | Bell ED **31** Dorothy Precinct 26 sh **1 A** | **C899** | image seen |
+| S586 | `sources/census/pass89/ocr-names.txt` · `bell-ocr.txt` | 2026-10-31 | IA T625-602 / 559 | https://archive.org/details/14thcensusofpopu602unit | Tesseract Wolfe 0443–0514 + Bell 28/30 **nil** Newman tokens | **C893 C897 C898** | OCR draft |
+| S587 | `sources/catalog/fs-127913-pass89.html` · `fs-127869-pass89.html` · `fs-1146342-pass89.html` | 2026-10-31 | FamilySearch | https://www.familysearch.org/search/catalog/127913 | R011 step **39**; images unread | **C901** | catalog |
+| S588 | `sources/vital/lee-marr-book6-pass89.html` | 2026-10-31 | USGenNet Lee | https://usgennet.org/usa/ky/county/lee/marriage/marrbook6.html | Floyd×Allie only; Boyde witness; no Boyd groom | **C902** | transcription only |
+| S589 | `sources/vital/scgs-lee-delayed-pass89.txt` | 2026-10-31 | SCGS Lee delayed | http://www.scgs-ky.org/delbrth/lee-ok.pdf | **Nil** certs **28501 / 31780**; Clarence **49261** | **C903** | index only |
+| S590 | `sources/press/woodford-gt-obits-pass89.html` | 2026-10-31 | Genealogy Trails Woodford | https://genealogytrails.com/ken/woodford/obits.html | Only Alice Ashmore Newman; **nil** John L 1966 | **C904** | index only |
+| S591 | `sources/census/pass89-extract-2026-10-31.txt` | 2026-10-31 | This session | — | Pass 89 extract | **C886–C905** | extract |
+| S592 | `sources/census/pass89/ed29-ocr.txt` · leaves **0620–0642** | 2026-10-31 | IA T625-559 | https://archive.org/details/14thcensusofpopu559unit | Tesseract **nil**; **0621** = ED **28** sh **7 A** | **C906 C909** | OCR draft / image seen |
+| S593 | `sources/census/pass89/t625-559-leaf0642.jpg` | 2026-10-31 | IA T625-559 | https://archive.org/details/14thcensusofpopu559unit | Ingram Precinct **2** ED **29** sh **2 B** end line | **C907** | image seen |
+| S594 | `sources/catalog/ia-14thcensusofpopu0602unit-pass89.json` | 2026-10-31 | Internet Archive | https://archive.org/metadata/14thcensusofpopu0602unit | Empty identifier; no second T625-602 scan | **C908** | catalog |
 
 ## Word biography provenance
 

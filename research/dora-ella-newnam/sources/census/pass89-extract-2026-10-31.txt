@@ -1,0 +1,98 @@
+Pass 89 extract — 31 Oct 2026 — B088 / B045 / B061 / B069 / B089 / B082
+Claims C886–C905 · Logs L729–L745 · Sources S573–S590
+Images: research/dora-ella-newnam/sources/census/pass89/ and labeled copies in sources/census/
+
+VARIANTS (before query)
+John/Jno/Johnnie × Newman/Newnam/newnarn/newan/newnom/Noonan/Nunan.
+Cora × Newman/Newnam/Brandenburg. McCoy/Coy. Soundex N550 / M200.
+Dora OCR: posa/dosa/rosa/dona/dara/dore/dori/dola/pora/rora.
+Place: Torrent / Holly Mag Dist 5 / Stillwater Mag Dist 6 / Clifty Precinct 7 / Antioch Precinct 8 / Ingram 22 / Williams Branch 24.
+ED misreads: 238/228; 239/229; 240/241/242; 28/20; 30/20.
+Certs 28501 / 31780 / 17762 unread.
+
+WOLFE T625-602 (IA 14thcensusofpopu602unit) — every leaf 0443–0514 downloaded w1200
+Corrected film map (pass 88 starts revised):
+
+0443–0471 = Wolfe ED 238 Torrent Precinct, Joel Cox.
+  0443 = Torrent start (Joel Cox). Visual names: Wells / Brooks / Miller / Johnson. C886 / C893.
+  0455 = Torrent, 13 Jan. Visual: Trent / Nickell / Bond. No Newman.
+  0460 = Torrent, 17 Jan.
+  0465 = Torrent, 21 Jan. Visual: Wells / Pelfrey. No Newman.
+  0471 = Torrent leftover lines only, 31 Jan, Joel Cox. Official Torrent end on this scan. C886 PROVEN.
+
+0472–0486 = Wolfe ED 239 Holly Mag. Dist. 5, Ola H. Miller.
+  0472 w1200 = Magisterial District No 5 Holly, ED 239, 2 Jan, Ola H. Miller. Official Holly START.
+    Pass 88 “0476 = sh 1 A start” is WITHDRAWN as the start (0476 is a later Holly sheet, 27 Jan). C887 PROVEN. C870 corrected.
+  0473 / 0474 / 0475 / 0476 = later Holly sheets (24–27 Jan). Visual: Hollon / Banks / Miller / Combs / Pence / Elkins / Profitt / Hatton / Rose. No Newman head.
+  0486 = Holly, 19 Jan, Ola H. Miller. Enumerator wrote “Here ends the enumeration of Magisterial District No 5 Holly.” Official Holly END. C888 PROVEN.
+
+0487 = unused blank (X). C889 PROVEN.
+
+0488–0512 = Wolfe ED 240 Stillwater Mag. Dist. 6, J. F. Dunn / James Dunn.
+  0488 w1200 = Magisterial District No 6 Stillwater, ED 240, 2 Jan. Official Stillwater START.
+    Pass 88 “0500 / 0512” remain mid-ED samples, not the start. C890 PROVEN.
+  0490 = Stillwater, 5 Jan. Visual: Hollon / Nickell / Rose / Brewer. No Newman.
+  0500 = Stillwater sh 7 A, 14 Jan (pass 88).
+  0512 = Stillwater sh 13 A, 17 Jan (pass 88).
+
+0513 = unused blank (X). C891 PROVEN.
+
+0514 w1200 = Precinct 7 Clifty, ED 241, sheet 1, 13/14 Jan, Roy Kash. Last populated Wolfe sheet on this IA scan.
+  Visual names match compiled hh 1–10: Layne Abe / Campbell Frank / Center Alice / Heizer / Layne James / Creech Noah / Ross Robert L. / Center James / Culbertson / Creech Adam. No Newman. C896 PROBABLE.
+  Remaining Clifty sheets after sh 1 are NOT on this scan (compiled Clifty has ~92 HH). C892 PROVEN as gap.
+
+0515 = HTTP 302 / 0 bytes. No further leaf. IA metadata imagecount 515. Antioch 242 originals NOT on this scan. C891 C892.
+
+Tesseract name-column sweep, every Wolfe leaf 0443–0514: nil newman/newnam/newnarn/noonan/nunan/newan/newnom/mccoy tokens. Assist only. C893–C896.
+
+Compiled KYGenWeb 1920g Holly / 1920h Stillwater / 1920i Clifty / 1920k Antioch re-seen and saved.
+  Grep Newman/Newnam/Noonan/Nunan/McCoy = NIL on all four files.
+  Rejects (already logged, re-seen): John L. Hollon 48 Antioch; John L. HENRY 21 Clifty; John L. Camble 24 Stillwater; Dora Childers 26 / Dora Roberts 20 Antioch; Dora 11 Hollon / Dora B. 45 Branson Stillwater; Dora L. 13 Brewer / Dora servant Pence / Dora 1 Banks Holly; Cora Dunn 44 Holly; Cora Banks 32 Clifty; Cora King 6 Antioch.
+  C900 PROBABLE as compiled negative.
+
+BELL T625-559 (IA 14thcensusofpopu559unit)
+ED 28 Ingram Precinct 22 COMPLETE 0609–0619 (11 leaves).
+  0609 = sh 1 A, 8 Jan, W. E. Turner (pass 88).
+  0611 = Ingram 22, ED 28, 8 Jan, W. E. Turner. Visual: Johnson / Blanton / Thomas / Mullins / Wilson / Pursifull. No Newman.
+  0615 = Ingram 22, ED 28 sh 4 A, 8 Jan. Visual: Fuson / Lee / Pursifull / Mullins / Steward / Miracle. No Newman.
+  0619 = Ingram 22, ED 28 sh 6 A, 12 Jan, W. E. Turner. Visual: Pursifull / Fuson / Barnett / Goodin / Mason. No Newman.
+  Tesseract 0609–0619: nil Newman tokens. C897 PROBABLE (entire ED 28 negative).
+
+ED 30 Williams Branch Precinct 24 COMPLETE 0643–0659.
+  0643 = sh 1 A, 2 Feb, P. W. Woolum (pass 88).
+  0644 = Williams Branch 24, ED 30, P. W. Woolum. Visual: Hatton / Miracle / Hoskins / Mason. No Newman.
+  0650 = Williams Branch 24, ED 30, 17 Feb, P. W. Woolum. Visual: Hoskins / Miracle / Wilder / Clifton. No Newman.
+  0659 = Williams Branch 24, ED 30 sh 7 A, 23 Feb, P. W. Woolum.
+    Enumerator wrote: “Here ends the enumeration of Williams Branch Precinct 24.” Official ED 30 END. C898 PROVEN as close.
+    Visual: Miracle / Yeary / Simpson. No Newman.
+  0660 = unused blank. C899.
+  0661 = Precinct 26 Dorothy, ED 31 sh 1 A, 2 Feb, John H. Lee. Official ED 31 start. C899 PROVEN.
+  Tesseract 0643–0659: nil Newman tokens. C898 PROBABLE (entire ED 30 negative).
+
+Remaining Bell 25–27 / 29 / 31–34: densify download in progress this session; not yet a full-sheet close.
+
+B045 / B061 / B069
+FS catalog 127913 / 127869 / 1146342 = SPA shells again (HTTP 200, ~19 KB FamilySearch.org chrome, no film table). R011 step 39. Images unread. C901 PROVEN as access.
+
+B089
+Lee Book 6 compiled re-seen: Floyd NEWNAM × Allie A. BRANDENBURG 31 Jul 1902 only Floyd×Allie row; Boyde Newnam witness 13 Oct 1900; no Boyd groom. Register unread. C902 PROVEN compiled.
+SCGS Lee delayed PDF re-parsed: nil certs 28501 / 31780. Clarence / Allie Brandburg = 49261. Images unread. C903 PROVEN index.
+
+B082
+Genealogy Trails Woodford obit index: only Mrs. Alice Ashmore Newman. No John L. Newman 1966. Duell-Clark 1958–1978 still on-site. Cert 17762 unread. Do not print 1966 as fact. C904 PROVEN as access.
+
+Same-person
+John 38 + Jennie still rejected vs John L.
+Floyd still not merged vs Boyd (#27).
+#20 #26 still open.
+Do not print 1966, 1976, Floyd-as-Boyd, 1962 as McCoy death, or 1942 Combs charge as fact.
+
+Access honesty
+IA T625-602 every leaf 0443–0514 w1200 image seen. 0515 does not exist on this item.
+IA T625-559 ED 28 every leaf 0609–0619 and ED 30 every leaf 0643–0659 w1200 image seen.
+KYGenWeb 1920g/h/i/k HTML seen and saved.
+Book 6 compiled HTML seen. SCGS Lee delayed PDF extracted.
+FS 127913 / 127869 / 1146342 SPA (R011-39).
+Book 6 register unread. Certs 28501 / 31780 / 17762 unread. M1509 unread. Duell-Clark unread.
+Antioch 242 originals and remaining Clifty after sh 1 not on IA 515-image scan.
+Authored latest.docx SHA 78cdcf44… not overwritten.

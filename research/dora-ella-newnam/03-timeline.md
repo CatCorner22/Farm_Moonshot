@@ -222,5 +222,13 @@ Place as it was *at the date*; modern equivalent in brackets. Flag impossibiliti
 | 27 Jan 1920 | — | FAN **PROVEN** as header: Wolfe Holly ED **239** starts leaf **0476** sh **1 A**, Ola H. Miller | Wolfe Co., KY | C870 | S558 |
 | 14 Jan 1920 | — | FAN **PROVEN** as header: Wolfe Stillwater ED **240** leaf **0500** sh **7 A**, J. F. Dunn | Wolfe Co., KY | C872 | S559 |
 | 13–14 Jan 1920 | — | FAN **PROVEN** as header: Wolfe Clifty ED **241** starts leaf **0514** sh **1**, Roy Kash | Wolfe Co., KY | C874 | S560 |
+| 31 Jan 1920 | — | FAN **PROVEN** as close: Wolfe Torrent ED **238** ends leaf **0471** leftover lines, Joel Cox. Visual samples **PROBABLE** nil Newman | Wolfe Co., KY | C886 C894 | S573 S574 |
+| 2 Jan 1920 | — | FAN **PROVEN**: Wolfe Holly ED **239** official start leaf **0472**, Ola H. Miller. Pass 88 “0476 = official start” **withdrawn** | Wolfe Co., KY | C887 | S575 |
+| 19 Jan 1920 | — | FAN **PROVEN** as close: leaf **0486** “Here ends … Magisterial District No 5 Holly.” **0487** unused | Wolfe Co., KY | C888 C889 | S576 S577 |
+| 2 Jan 1920 | — | FAN **PROVEN**: Wolfe Stillwater ED **240** official start leaf **0488**. **0513** unused | Wolfe Co., KY | C890 C891 | S578 S579 |
+| 13–14 Jan 1920 | — | FAN **PROVEN** as gap: Clifty sh **1** last populated Wolfe image; remaining Clifty + Antioch **242** originals **not** on IA 515-image scan | Wolfe Co., KY | C892 C896 | S580 S561 |
+| 12 Jan 1920 | — | FAN **PROBABLE** negative: Bell ED **28** complete **0609–0619**. **0619** sh **6 A**, W. E. Turner. **Nil** Newman | Bell Co., KY | C897 | S582 |
+| 23 Feb 1920 | — | FAN **PROVEN** as close: Bell ED **30** **0659** sh **7 A** “Here ends … Williams Branch Precinct 24.” Entire ED **PROBABLE** nil Newman | Bell Co., KY | C898 | S583 |
+| 2 Feb 1920 | — | FAN **PROVEN**: leaf **0661** = Bell Precinct **26 Dorothy**, ED **31** sh **1 A**, John H. Lee. **0660** unused | Bell Co., KY | C899 | S584 S585 |
 
 **Impossibility flags:** None. Mother ~29 at Dora’s 1871 birth (Mary b. 1842). Dora age 14 at marriage is legal/period-possible (KY) though young; 1880 age 8 corroborates. Two children born before Coy in the 1886–1889 window would have Dora aged 15–18 — possible. No event after 23 Aug 1926 is attributed to her.

@@ -1169,7 +1169,7 @@
 | C867 | Film map on this IA scan: Wayne ~**0372**; Wolfe **234–236** **0373–0418**; Whitley **277** **0419–0442**; Wolfe **238** Torrent from **0443**; **239** Holly from **0476**; **240** Stillwater ~**0490–0512**; **241** Clifty from **0514**; **242** Antioch **not** on the 515-image scan | PROVEN as header map | S555–S560 L718 | B088 |
 | C868 | Leaf **0443** = **Torrent Precinct**, enumerator Joel Cox (Wolfe ED **238** start on this scan) | PROVEN as place/enumerator | S556 L718 | B088 |
 | C869 | Leaf **0450** w1600 = Torrent Precinct, Joel Cox, 8 Jan, ED **238** | PROVEN as header | S557 L718 | B088 |
-| C870 | Leaf **0476** w1600 = Wolfe Mag. Dist. **5 Holly**, ED **239**, sheet **1 A**, 27 Jan, Ola H. Miller. Official Holly start | PROVEN as header | S558 L718 | B088 |
+| C870 | Leaf **0476** w1600 = Wolfe Mag. Dist. **5 Holly**, ED **239**, 27 Jan, Ola H. Miller. **Official-start label WITHDRAWN** — 0476 is a later Holly sheet. Official start is **0472** (**C887**) | PROVEN as a Holly sheet; start withdrawn | S558 L718 L731 | B088 |
 | C871 | Leaf **0480** = Holly ED **239**, sheet **3**, Ola H. Miller | PROVEN as header | S558 L718 | B088 |
 | C872 | Leaf **0500** w1600 = Wolfe Mag. Dist. **6 Stillwater**, ED **240**, sheet **7 A**, 14 Jan, J. F. Dunn | PROVEN as header | S559 L718 | B088 |
 | C873 | Leaf **0512** w1600 = Stillwater ED **240**, sheet **13 A**, 17 Jan, J. F. Dunn | PROVEN as header | S559 L718 | B088 |
@@ -1185,6 +1185,30 @@
 | C883 | Owsley *Courier* 8 May 1942 re-seen: George Combs ambush **does not name** a shooter. TFKRHA accused blank. Houser annotation only. Do **not** print as fact | PROVEN as re-read | S567 L725 | B087 |
 | C884 | Duell-Clark 1958–1978 still on-site. GT/USGW Woodford obit indexes **nil** John L. Newman 1966. Cert **17762** unread. Do **not** print 1966 as fact | PROVEN as access | S568 L726 | B082 |
 | C885 | No free SSDI / TN death-index row for Rissie Pelfrey / Stamper / Newnam this pass. 1910 servant still **not merged**. Skip living survivors | PROVEN as nil search | S572 L727 | B016 |
+| C886 | Wolfe ED **238** Torrent complete on this scan: leaves **0443–0471**. **0471** leftover lines only, 31 Jan, Joel Cox = official Torrent end | PROVEN as film close | S573 S574 L730 | B088 |
+| C887 | Leaf **0472** w1200 = Magisterial District **No 5 Holly**, ED **239**, 2 Jan, Ola H. Miller. Official Holly **START** on this scan. **C870** start label withdrawn | PROVEN as header | S575 L731 | B088 |
+| C888 | Leaf **0486** w1200 = Holly ED **239**, 19 Jan, Ola H. Miller. Enumerator wrote “Here ends the enumeration of Magisterial District No 5 Holly.” Official Holly **END** | PROVEN as close (visual) | S576 L732 | B088 |
+| C889 | Leaf **0487** is an unused blank 1920 population sheet (X) | PROVEN (blank image) | S577 L732 | B088 |
+| C890 | Leaf **0488** w1200 = Magisterial District **No 6 Stillwater**, ED **240**, 2 Jan. Official Stillwater **START**. Pass 88 **0500 / 0512** remain mid-ED samples | PROVEN as header | S578 L733 | B088 |
+| C891 | Leaf **0513** unused blank. Leaf **0515** HTTP 302 / 0 bytes. IA `14thcensusofpopu602unit` imagecount **515** — no further Wolfe leaf | PROVEN as access | S579 S561 L734 | B088 |
+| C892 | Remaining Clifty after sh **1** (compiled ~**92** HH; sh 1 = hh **1–10**) and Antioch ED **242** originals are **not** on the IA **515**-image scan | PROVEN as gap | S580 S561 L734 | B088 |
+| C893 | Tesseract name-column sweep, every Wolfe leaf **0443–0514**: **nil** newman/newnam/newnarn/noonan/nunan/newan/newnom/mccoy tokens. Assist only | PROBABLE (OCR draft) | S586 L735 | B088 |
+| C894 | Visual Torrent name samples: **0443** Wells / Brooks / Miller / Johnson; **0455** Trent / Nickell / Bond; **0465** Wells / Pelfrey. **No** Newman head | PROBABLE (negative; sampled sheets) | S573 S586 L735 | B088 |
+| C895 | Visual Holly name samples **0473–0476**: Hollon / Banks / Miller / Combs / Pence / Elkins / Profitt / Hatton / Rose. **No** Newman head | PROBABLE (negative; sampled sheets) | S575 S586 L735 | B088 |
+| C896 | Visual Clifty **0514** sh **1** names match compiled hh **1–10**: Layne Abe / Campbell Frank / Center Alice / Heizer / Layne James / Creech Noah / Ross Robert L. / Center James / Culbertson / Creech Adam. **No** Newman | PROBABLE (one sheet; remainder not on scan) | S580 S581 L735 | B088 |
+| C897 | Bell ED **28** Precinct **22 Ingram** Turner sheets **0609–0619**. **0619** = sh **6 A**, 12 Jan, W. E. Turner (Pursifull / Fuson / Barnett / Goodin / Mason). Tesseract **0609–0619** nil Newman tokens. **Full-ED close at 0619 WITHDRAWN** — **0621** header still reads ED **28** sh **7 A** (**C909**) | PROBABLE (those sheets negative) | S582 S586 L737 L746 | B088 |
+| C898 | Bell ED **30** Williams Branch Precinct **24** **COMPLETE** leaves **0643–0659**. **0659** = sh **7 A**, 23 Feb, P. W. Woolum. Enumerator wrote “Here ends the enumeration of Williams Branch Precinct 24.” Visual Miracle / Yeary / Simpson. Tesseract **0643–0659** nil | PROVEN as close; PROBABLE entire ED 30 negative | S583 S586 L738 | B088 |
+| C899 | Leaf **0660** unused blank. Leaf **0661** = Precinct **26 Dorothy**, ED **31** sh **1 A**, 2 Feb, John H. Lee. Official ED **31** start | PROVEN as headers | S584 S585 L739 | B088 |
+| C900 | Compiled KYGenWeb **1920g** Holly / **1920h** Stillwater / **1920i** Clifty / **1920k** Antioch re-seen: grep Newman/Newnam/Noonan/Nunan/McCoy **NIL**. Rejects re-seen (John L. Hollon / Henry / Camble; Dora Childers / Roberts / Hollon / Branson / Brewer / Banks; Cora Dunn / Banks / King) | PROBABLE as compiled negative | S581 L736 | B088 |
+| C901 | FS catalog **127913 / 127869 / 1146342** this session = SPA shells (HTTP 200, ~19 KB chrome, no film table). R011 step **39**. Images unread | PROVEN as access | S587 L740 | B045 B061 B069 |
+| C902 | Lee Book **6** compiled re-seen: Floyd NEWNAM × Allie A. BRANDENBURG **31 Jul 1902** only Floyd×Allie row; **Boyde Newnam** witness 13 Oct 1900; **no** Boyd groom. Register unread | PROVEN as compiled re-read | S588 L741 | B089 |
+| C903 | Certs **28501 / 31780** still absent from SCGS Lee delayed PDF. Clarence Newman / Allie Brandburg = **49261**. Images unread | PROVEN as index; certs unread | S589 L742 | B089 |
+| C904 | Genealogy Trails Woodford obit index: only **Mrs. Alice Ashmore Newman**. **No** John L. Newman **1966**. Duell-Clark 1958–1978 still on-site. Cert **17762** unread. Do **not** print 1966 as fact | PROVEN as access | S590 L743 | B082 |
+| C905 | Same-person write-up pass 89: John 38+Jennie still **rejected** vs John L. Floyd still **not merged** vs Boyd. #20 #26 #27 open. Do not print 1966, 1976, Floyd-as-Boyd, 1962 as McCoy death, or 1942 Combs charge as fact | PROVEN as analysis | S591 L744 | B088 B089 |
+| C906 | Tesseract name-column sweep, Bell leaves **0620–0642** (23 sheets): **nil** newman/newnam/newnarn/noonan/nunan/newan/newnom/mccoy tokens. Assist only | PROBABLE (OCR draft) | S592 L745 | B088 |
+| C907 | Leaf **0642** visual: **Ingram Precinct 2**, ED **29**, sheet **2 B**, 22 Jan, Robert W. Barnett. Short sheet; enumerator wrote an end-of-precinct line. **No** Newman | PROVEN as header; PROBABLE name negative | S593 L745 | B088 |
+| C908 | IA identifier `14thcensusofpopu0602unit` metadata **empty**. No second free IA scan of the T625-602 remainder. Antioch **242** originals still **not** on a free IA item | PROVEN as access | S594 L747 | B088 |
+| C909 | Leaf **0621** header: Precinct **22 Ingram**, ED **28**, sheet **7 A**, 14 Jan, W. G. Innes. **C897** “ED 28 complete at 0619” **withdrawn** as a full-ED close | PROVEN as header | S592 L746 | B088 |
 
 ## Same-person merges (Hard Rule 3)
 | Records merged | Identifier 1 | Identifier 2 | Contradictions? | Verdict |

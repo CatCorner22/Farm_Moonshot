@@ -1,0 +1,100 @@
+/workspace/research/dora-ella-newnam/sources/census/pass89/crop_and_ocr.py:24: DeprecationWarning: Image.Image.getdata is deprecated and will be removed in Pillow 14 (2027-10-15). Use get_flattened_data instead.
+  mean = sum(im.resize((48, 48)).getdata()) / (48 * 48)
+wolfe-leaf0443-w1200.jpg	683	hits=[]
+/workspace/research/dora-ella-newnam/sources/census/pass89/crop_and_ocr.py:24: DeprecationWarning: Image.Image.getdata is deprecated and will be removed in Pillow 14 (2027-10-15). Use get_flattened_data instead.
+  mean = sum(im.resize((48, 48)).getdata()) / (48 * 48)
+wolfe-leaf0444-w1200.jpg	807	hits=[]
+/workspace/research/dora-ella-newnam/sources/census/pass89/crop_and_ocr.py:24: DeprecationWarning: Image.Image.getdata is deprecated and will be removed in Pillow 14 (2027-10-15). Use get_flattened_data instead.
+  mean = sum(im.resize((48, 48)).getdata()) / (48 * 48)
+wolfe-leaf0445-w1200.jpg	779	hits=[]
+/workspace/research/dora-ella-newnam/sources/census/pass89/crop_and_ocr.py:24: DeprecationWarning: Image.Image.getdata is deprecated and will be removed in Pillow 14 (2027-10-15). Use get_flattened_data instead.
+  mean = sum(im.resize((48, 48)).getdata()) / (48 * 48)
+wolfe-leaf0446-w1200.jpg	899	hits=[]
+/workspace/research/dora-ella-newnam/sources/census/pass89/crop_and_ocr.py:24: DeprecationWarning: Image.Image.getdata is deprecated and will be removed in Pillow 14 (2027-10-15). Use get_flattened_data instead.
+  mean = sum(im.resize((48, 48)).getdata()) / (48 * 48)
+wolfe-leaf0447-w1200.jpg	412	hits=[]
+/workspace/research/dora-ella-newnam/sources/census/pass89/crop_and_ocr.py:24: DeprecationWarning: Image.Image.getdata is deprecated and will be removed in Pillow 14 (2027-10-15). Use get_flattened_data instead.
+  mean = sum(im.resize((48, 48)).getdata()) / (48 * 48)
+wolfe-leaf0448-w1200.jpg	696	hits=[]
+/workspace/research/dora-ella-newnam/sources/census/pass89/crop_and_ocr.py:24: DeprecationWarning: Image.Image.getdata is deprecated and will be removed in Pillow 14 (2027-10-15). Use get_flattened_data instead.
+  mean = sum(im.resize((48, 48)).getdata()) / (48 * 48)
+wolfe-leaf0449-w1200.jpg	765	hits=[]
+/workspace/research/dora-ella-newnam/sources/census/pass89/crop_and_ocr.py:24: DeprecationWarning: Image.Image.getdata is deprecated and will be removed in Pillow 14 (2027-10-15). Use get_flattened_data instead.
+  mean = sum(im.resize((48, 48)).getdata()) / (48 * 48)
+wolfe-leaf0450-w1200.jpg	424	hits=[]
+/workspace/research/dora-ella-newnam/sources/census/pass89/crop_and_ocr.py:24: DeprecationWarning: Image.Image.getdata is deprecated and will be removed in Pillow 14 (2027-10-15). Use get_flattened_data instead.
+  mean = sum(im.resize((48, 48)).getdata()) / (48 * 48)
+wolfe-leaf0451-w1200.jpg	842	hits=[]
+/workspace/research/dora-ella-newnam/sources/census/pass89/crop_and_ocr.py:24: DeprecationWarning: Image.Image.getdata is deprecated and will be removed in Pillow 14 (2027-10-15). Use get_flattened_data instead.
+  mean = sum(im.resize((48, 48)).getdata()) / (48 * 48)
+wolfe-leaf0452-w1200.jpg	621	hits=[]
+/workspace/research/dora-ella-newnam/sources/census/pass89/crop_and_ocr.py:24: DeprecationWarning: Image.Image.getdata is deprecated and will be removed in Pillow 14 (2027-10-15). Use get_flattened_data instead.
+  mean = sum(im.resize((48, 48)).getdata()) / (48 * 48)
+wolfe-leaf0453-w1200.jpg	629	hits=[]
+/workspace/research/dora-ella-newnam/sources/census/pass89/crop_and_ocr.py:24: DeprecationWarning: Image.Image.getdata is deprecated and will be removed in Pillow 14 (2027-10-15). Use get_flattened_data instead.
+  mean = sum(im.resize((48, 48)).getdata()) / (48 * 48)
+wolfe-leaf0454-w1200.jpg	677	hits=[]
+/workspace/research/dora-ella-newnam/sources/census/pass89/crop_and_ocr.py:24: DeprecationWarning: Image.Image.getdata is deprecated and will be removed in Pillow 14 (2027-10-15). Use get_flattened_data instead.
+  mean = sum(im.resize((48, 48)).getdata()) / (48 * 48)
+wolfe-leaf0455-w1200.jpg	529	hits=[]
+/workspace/research/dora-ella-newnam/sources/census/pass89/crop_and_ocr.py:24: DeprecationWarning: Image.Image.getdata is deprecated and will be removed in Pillow 14 (2027-10-15). Use get_flattened_data instead.
+  mean = sum(im.resize((48, 48)).getdata()) / (48 * 48)
+wolfe-leaf0456-w1200.jpg	588	hits=[]
+/workspace/research/dora-ella-newnam/sources/census/pass89/crop_and_ocr.py:24: DeprecationWarning: Image.Image.getdata is deprecated and will be removed in Pillow 14 (2027-10-15). Use get_flattened_data instead.
+  mean = sum(im.resize((48, 48)).getdata()) / (48 * 48)
+wolfe-leaf0457-w1200.jpg	767	hits=[]
+/workspace/research/dora-ella-newnam/sources/census/pass89/crop_and_ocr.py:24: DeprecationWarning: Image.Image.getdata is deprecated and will be removed in Pillow 14 (2027-10-15). Use get_flattened_data instead.
+  mean = sum(im.resize((48, 48)).getdata()) / (48 * 48)
+wolfe-leaf0458-w1200.jpg	581	hits=[]
+/workspace/research/dora-ella-newnam/sources/census/pass89/crop_and_ocr.py:24: DeprecationWarning: Image.Image.getdata is deprecated and will be removed in Pillow 14 (2027-10-15). Use get_flattened_data instead.
+  mean = sum(im.resize((48, 48)).getdata()) / (48 * 48)
+wolfe-leaf0459-w1200.jpg	769	hits=[]
+/workspace/research/dora-ella-newnam/sources/census/pass89/crop_and_ocr.py:24: DeprecationWarning: Image.Image.getdata is deprecated and will be removed in Pillow 14 (2027-10-15). Use get_flattened_data instead.
+  mean = sum(im.resize((48, 48)).getdata()) / (48 * 48)
+wolfe-leaf0460-w1200.jpg	793	hits=[]
+/workspace/research/dora-ella-newnam/sources/census/pass89/crop_and_ocr.py:24: DeprecationWarning: Image.Image.getdata is deprecated and will be removed in Pillow 14 (2027-10-15). Use get_flattened_data instead.
+  mean = sum(im.resize((48, 48)).getdata()) / (48 * 48)
+wolfe-leaf0461-w1200.jpg	908	hits=[]
+/workspace/research/dora-ella-newnam/sources/census/pass89/crop_and_ocr.py:24: DeprecationWarning: Image.Image.getdata is deprecated and will be removed in Pillow 14 (2027-10-15). Use get_flattened_data instead.
+  mean = sum(im.resize((48, 48)).getdata()) / (48 * 48)
+wolfe-leaf0462-w1200.jpg	586	hits=[]
+/workspace/research/dora-ella-newnam/sources/census/pass89/crop_and_ocr.py:24: DeprecationWarning: Image.Image.getdata is deprecated and will be removed in Pillow 14 (2027-10-15). Use get_flattened_data instead.
+  mean = sum(im.resize((48, 48)).getdata()) / (48 * 48)
+wolfe-leaf0463-w1200.jpg	653	hits=[]
+/workspace/research/dora-ella-newnam/sources/census/pass89/crop_and_ocr.py:24: DeprecationWarning: Image.Image.getdata is deprecated and will be removed in Pillow 14 (2027-10-15). Use get_flattened_data instead.
+  mean = sum(im.resize((48, 48)).getdata()) / (48 * 48)
+wolfe-leaf0464-w1200.jpg	640	hits=[]
+/workspace/research/dora-ella-newnam/sources/census/pass89/crop_and_ocr.py:24: DeprecationWarning: Image.Image.getdata is deprecated and will be removed in Pillow 14 (2027-10-15). Use get_flattened_data instead.
+  mean = sum(im.resize((48, 48)).getdata()) / (48 * 48)
+wolfe-leaf0465-w1200.jpg	562	hits=[]
+/workspace/research/dora-ella-newnam/sources/census/pass89/crop_and_ocr.py:24: DeprecationWarning: Image.Image.getdata is deprecated and will be removed in Pillow 14 (2027-10-15). Use get_flattened_data instead.
+  mean = sum(im.resize((48, 48)).getdata()) / (48 * 48)
+wolfe-leaf0466-w1200.jpg	569	hits=[]
+/workspace/research/dora-ella-newnam/sources/census/pass89/crop_and_ocr.py:24: DeprecationWarning: Image.Image.getdata is deprecated and will be removed in Pillow 14 (2027-10-15). Use get_flattened_data instead.
+  mean = sum(im.resize((48, 48)).getdata()) / (48 * 48)
+wolfe-leaf0467-w1200.jpg	611	hits=[]
+/workspace/research/dora-ella-newnam/sources/census/pass89/crop_and_ocr.py:24: DeprecationWarning: Image.Image.getdata is deprecated and will be removed in Pillow 14 (2027-10-15). Use get_flattened_data instead.
+  mean = sum(im.resize((48, 48)).getdata()) / (48 * 48)
+wolfe-leaf0468-w1200.jpg	635	hits=[]
+/workspace/research/dora-ella-newnam/sources/census/pass89/crop_and_ocr.py:24: DeprecationWarning: Image.Image.getdata is deprecated and will be removed in Pillow 14 (2027-10-15). Use get_flattened_data instead.
+  mean = sum(im.resize((48, 48)).getdata()) / (48 * 48)
+wolfe-leaf0469-w1200.jpg	606	hits=[]
+/workspace/research/dora-ella-newnam/sources/census/pass89/crop_and_ocr.py:24: DeprecationWarning: Image.Image.getdata is deprecated and will be removed in Pillow 14 (2027-10-15). Use get_flattened_data instead.
+  mean = sum(im.resize((48, 48)).getdata()) / (48 * 48)
+wolfe-leaf0470-w1200.jpg	594	hits=[]
+/workspace/research/dora-ella-newnam/sources/census/pass89/crop_and_ocr.py:24: DeprecationWarning: Image.Image.getdata is deprecated and will be removed in Pillow 14 (2027-10-15). Use get_flattened_data instead.
+  mean = sum(im.resize((48, 48)).getdata()) / (48 * 48)
+wolfe-leaf0471-w1200.jpg	324	hits=[]
+/workspace/research/dora-ella-newnam/sources/census/pass89/crop_and_ocr.py:24: DeprecationWarning: Image.Image.getdata is deprecated and will be removed in Pillow 14 (2027-10-15). Use get_flattened_data instead.
+  mean = sum(im.resize((48, 48)).getdata()) / (48 * 48)
+wolfe-leaf0472-w1200.jpg	552	hits=[]
+/workspace/research/dora-ella-newnam/sources/census/pass89/crop_and_ocr.py:24: DeprecationWarning: Image.Image.getdata is deprecated and will be removed in Pillow 14 (2027-10-15). Use get_flattened_data instead.
+  mean = sum(im.resize((48, 48)).getdata()) / (48 * 48)
+wolfe-leaf0473-w1200.jpg	857	hits=[]
+/workspace/research/dora-ella-newnam/sources/census/pass89/crop_and_ocr.py:24: DeprecationWarning: Image.Image.getdata is deprecated and will be removed in Pillow 14 (2027-10-15). Use get_flattened_data instead.
+  mean = sum(im.resize((48, 48)).getdata()) / (48 * 48)
+wolfe-leaf0474-w1200.jpg	798	hits=[]
+/workspace/research/dora-ella-newnam/sources/census/pass89/crop_and_ocr.py:24: DeprecationWarning: Image.Image.getdata is deprecated and will be removed in Pillow 14 (2027-10-15). Use get_flattened_data instead.
+  mean = sum(im.resize((48, 48)).getdata()) / (48 * 48)
+wolfe-leaf0475-w1200.jpg	952	hits=[]
+WROTE /workspace/research/dora-ella-newnam/sources/census/pass89/ocr-names.txt files=33 token_hits=0
