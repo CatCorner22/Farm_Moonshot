@@ -1,0 +1,52 @@
+Pass 87 — Josephine Newnam × Gilbert ~1902 remaining substitutes + 1916/T288 + Barrett John death extracts
+Opened 31 Oct 2026 America/New_York. License unseen. Original 1916 DC face unseen. T288 unseen.
+
+KYGenWeb county indexes 200 / marriages.htm 404:
+  https://kygenweb.net/green/ 200; /green/marriages.htm 404; no marriage href on the index.
+  https://kygenweb.net/lincoln/ 200; /lincoln/marriages.htm 404; no marriage href.
+  https://kygenweb.net/garrard/ 200; marriages/index.html 200 → Marriages1851-1926.html 200 (314,270 bytes).
+  https://kygenweb.net/jessamine/ 200; marriages/index.htm 200; Bonds/index.htm 200 but 748 bytes (favicon only).
+  https://kygenweb.net/anderson/marriages.htm 404; /boyle/marriages.htm 404; /mercer/marriages.htm 404.
+  usgennet garrard/lincoln marriage.html 404.
+  kykinfolk.com/green/marriage_records.htm SSL certificate expired (curl 60).
+  green.kygenweb.net / garrard.kygenweb.net / lincoln.kygenweb.net SSL expired.
+  sites.rootsweb.com/~kygreen/ and ~kygarrar/ 403.
+
+Garrard Marriages1851-1926 (HTML-seen):
+  Josephine Layton × George R. Adkison 8 Sep 1859 — other (1859; Layton ≠ Newnam).
+  Josephine Overstreet × Alexander Holtzclaw 13 Mar 1884 — other.
+  Josie Bassett × Thomas D. Evans 28 Sep 1882 — other.
+  Josie Kemper × Isaac Poor 27 Jan 1870 — other.
+  Josie Upton × Boon Scott 14 Jun 1883 — other.
+  Josephine Layton as mother of bride (consent) 30 Jul 1868 — other.
+  Gilbert count 0. Newman/Newnam count 0.
+  Coverage is 1851–1926 compiled but the Josephine/Josie hits are 1859–1884, n/a as this ~1902 bride.
+
+Jessamine marriages index lists 1799–1840 and African-American compilations; Bonds landing empty.
+  n/a ~1902.
+
+New Albany Public Library obituaries host www.napl.lib.in.us DNS fail (curl 6). Do not invent a 1916 Henry obituary.
+
+IA advancedsearch 31 Oct 2026:
+  title T288 OR "General Index to Pension Files" Newman — numFound 0
+  collection microfilm T288 pension — numFound 0
+  title M123 veterans 1890 Kentucky — numFound 0
+  title Kentucky death certificate 1916 Owsley — numFound 0
+
+USGenNet Owsley DC extracts 1911–1918 HTML 200, table-parsed:
+  1911 Jesse BARETT 64, b. 16 Jun 1846 Clay, d. 1 Jan, father James BARETT × Kisse ALLIN, cert 2279.
+    DISPROVED as 1910 Barrett John 65 (Jesse ≠ John; father James).
+  1912 nil Barrett decedent.
+  1913 BARET infant; BARRET Hattie 1 hr; BARRETT Flossie 2 mos; BARRETT Hubert 1 yr;
+    BISHOP, Irvin, mother Susan BARETT — Susan is a mother cell, not a Barrett John wife death.
+  1914 BARRETT Dessie 2 ds, father James.
+  1915 BARRETT Jeptha 59; SMITH John, mother Lucreasy BARRETT.
+  1916 nil Barrett decedent (Henry H. NEWNAM / GILBERT Josephine already C709/C531).
+  1917 TERRY Henry Clay, mother Sally BARRETT.
+  1918 BOWMAN Laura, father Pely BARRETT.
+  Nil Barrett, John ~70 as decedent 1911–1918.
+  1919 (prior) James 31 / Mathias 56 — not John.
+  1920 BARRETT, Annie 55, b. 10 Mar 1865 Clay, d. 18 Nov, father William BARRETT × Nancy BISHOP.
+    DISPROVED as Barrett John. Not merged with 1920 Bruce’s Anna (~52 on the January schedule).
+
+Do not promote C509. Do not hunt D-540. License unseen. Original 1916 DC unseen. T288 unseen.

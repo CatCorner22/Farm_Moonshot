@@ -1,0 +1,35 @@
+Pass 87 — 1920 original ED 90 sh 2 A ln 11 FM 25/26 Beard, John (Hard Rule 6)
+NARA T625-594 / IA 14thcensusofpopu594unit leaf 1104 (sh 2 A) and 1105 (sh 2 B header).
+Image-seen 31 Oct 2026 America/New_York.
+Mapping: Pass 66 leaf 1114 = ED 90 sh 7 A ⇒ sh 2 A = 1104.
+
+JPEGs:
+  1920-owsley-ed90-sh2a-hdr.jpg
+  1920-owsley-ed90-sh2a-names.jpg
+  1920-owsley-ed90-sh2a-hh-beard-john.jpg
+  1920-owsley-ed90-sh2b-hdr.jpg (sequence only; Beard is on 2 A)
+
+Header (leaf 1104):
+  State Kentucky / County Owsley / Island Creek Precinct No. 3
+  SD 10 / ED 90 / Sheet 2 A / stamp 1852
+  Enumerated 5 January 1920 by Oscar J. Judd.
+
+Diplomatic cited lines (Pass 1 + Pass 2):
+  Ln 11 FM 25/26 Beard, John Head M W 71 M farmer
+        birthplace Virginia; father Virginia; mother Virginia
+  Ln 12 Margruy[?] Wife F W 66 M
+  Ln 13 Herbert Son M W 16 S Kentucky
+  Ln 14 FM 26/27 Murley, Willie Head — next house
+
+Soundex B-630 3632 Beard, John W 71 Virginia Owsley vol 76 ED 90 sh 2 ln 11
+copies this original (Hard Rule 6). Clerk Beard stands.
+
+Identifiers that fail Hard Rule 3 vs 1910 Buffalo dw 22 Barrett, John 65 × Susan 62:
+  surname Beard ≠ Barrett
+  ED 90 Island Creek ≠ ED 92 Buffalo
+  birthplace Virginia vs Kentucky
+  wife Margruy[?] 66 ≠ Susan (~72)
+  son Herbert 16 was not in the 1910 Barrett house (Lee 39 / James 23)
+
+DISPROVED as 1910 Barrett John 65. Not missing sh 1 of ED 92.
+Do not merge with Barrett Bruce 42 / Billy 22 / Bent 24.

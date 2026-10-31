@@ -4328,8 +4328,85 @@ Pass 2: “Sallie Dau” in DOC133 is a misread of ln **46** Lottie. Billy is a 
 - Original dw 115 = Soundex 2451; Lottie not Sallie → C925
 - Original dw 116 = Soundex 2438; not merged with Bruce → C926
 
+## DOC179 — 1920 Soundex B-630 Barrett John every-leaf 3540–3780 (Pass 87)
 
+- Extract: `ky1920-b630-barrett-john-pass87.txt` SHA-256 `624bd8df9cd4b97de5ec5487e8e82fb9b65342c5505737732d5de8d30a400e8b`
+- Coverage: `pass87-coverage.txt` `7f16591d131d476aa7b044f2252322fcf27aa68d68eea7a6238c84a0ce4e346e`
+- Provenance: IA `soundex1920ky018` zip-member JP2. **Image-seen** 31 Oct 2026. 241 leaves, 0 fails. Tesseract on 42% bands was garbage; two-pass visual Read of keepers. Keeper = upper-card JPEG crop (1600-wide).
 
+### Diplomatic — cited cards
+
+> **3584** B-630 **Barrett, John** Head W **71** Kentucky **Madison** vol **47** ED **102** sheet **1** line **42**. **3585** continuation **Barrett, Sam** GS **2 1/12** Kentucky. **DISPROVED** as 1910 Barrett John 65 (Madison ≠ Owsley; Sam GS 2 ≠ Lee 39 / James 23).
+
+> **3586** B-630 **Barrett, John** Head W **56** Kentucky **Lee** vol **59** ED **117** sheet **9** line **42**. **3587** continuation **Barrett, Hershel[?]** S **12** Kentucky. Lee FAN only. **DISPROVED** as 1910 John 65 (56 ≠ ~75) and as 1910 son Lee (~49).
+
+> **3613** B-630 **Barrett, John** Head B **57** Kentucky **Jefferson** vol **57** ED **159** sheet **5** line **28**. Color B. **DISPROVED**.
+
+> **3614** B-630 **Barrett, John** Head W **44** Kentucky **Scott** vol **83** ED **153** sheet **3** line **51**. **3615** continuation **Barrett, Effie** D **7** Kentucky. **DISPROVED**.
+
+> **3622** B-630 **Barrett, John** Head W **66** Kentucky **Jefferson** Anchorage vol **42** ED **1** sheet **4** line **53**. **DISPROVED**.
+
+> **3630** B-630 **Barrett, John** Head B **40** Tennessee (county cut on the 42% crop) vol **89** ED **149** sheet **19** line **37**. Color B; TN nativity. **DISPROVED**.
+
+> **3632** B-630 **Beard, John** Head W **71** Virginia **Owsley** vol **76** ED **90** sheet **2** line **11**. Derivative of original Island Creek ln **11** (DOC180).
+
+> **3633** B-630 **Berett, John** Head W **29** West Virginia vol **8** ED **16** sheet **15** line **16**. Surname **Berett**. **DISPROVED**.
+
+> **3670** B-630 **Barrett, John J.** Head W **45** Ireland **Campbell** vol **14** ED **16** sheet **3** line **95** Newport. **DISPROVED**.
+
+> **3672** B-630 **Barrett, John** Head W **34** Kentucky **Jefferson** Louisville vol **50** ED **199** sheet **2** line **54**. **DISPROVED**.
+
+Pass 2: John given-name slot **image-closed**. **Nil** Barrett, John ~75 Owsley vol **76** ED **92** as a head. 3632 is Beard, not Barrett. Do not treat Soundex head-nil as death.
+
+### Facts extracted → claim IDs
+- John slot closed; nil Barrett John ~75 Owsley ED 92 → C932
+- 3584 Madison 71 DISPROVED → C933
+- 3586 Lee 56 DISPROVED → C934
+- remaining Barrett/Berett Johns DISPROVED → C935
+- 3632 Beard 71 is the derivative of the Island Creek original → C936
+
+## DOC180 — 1920 original ED 90 sh 2 A FM 25/26 Beard, John (Pass 87)
+
+- Extract: `owsley-1920-ed90-sh2a-beard-john-pass87.txt` SHA-256 `2c9dcd8901bd3858368a68ce9236e99cfd8e90ffbbcd05f13a26a710e19df09f`
+- Provenance: IA `14thcensusofpopu594unit` leaf **1104** (sh **2 A**) and **1105** (sh **2 B** header). **Image-seen** 31 Oct 2026. Hard Rule 6 of Soundex **3632**. Mapping: Pass 66 leaf **1114** = ED **90** sh **7 A** ⇒ sh **2 A** = **1104**.
+
+### Diplomatic — cited lines
+
+> Header leaf **1104**: State Kentucky / County Owsley / Island Creek Precinct No. **3** / SD **10** / ED **90** / Sheet **2 A** / stamp **1852**. Enumerated **5 January 1920** by **Oscar J. Judd**.
+
+> Ln **11** FM **25/26 Beard, John** Head M W **71** M farmer, birthplace **Virginia**, father Virginia, mother Virginia.  
+> Ln **12** **Margruy[?]** Wife F W **66** M.  
+> Ln **13** **Herbert** Son M W **16** S Kentucky.  
+> Ln **14** FM **26/27 Murley, Willie** Head — next house.
+
+Pass 2: Clerk Beard stands. Identifiers that fail vs 1910 Buffalo Barrett, John 65 × Susan: surname Beard ≠ Barrett; ED **90** ≠ **92**; Virginia ≠ Kentucky; wife Margruy[?] ≠ Susan; son Herbert 16 was not in the 1910 Barrett house. **DISPROVED** as 1910 Barrett John. **Not** missing sh 1 of ED 92. Do not merge with Barrett Bruce 42 / Billy 22 / Bent 24.
+
+### Facts extracted → claim IDs
+- Original Beard 71 = Soundex 3632; DISPROVED as 1910 Barrett John → C936
+
+## DOC181 — Josephine remaining + T288 + Owsley DC Barrett extracts (Pass 87)
+
+- Extract: `josephine-gilbert-pass87.txt` SHA-256 `ee2cd3779bef265da2c6f93f56bd931a7d30237dfb386d146a7abbf8b12d9d53`
+- Coverage: `pass87-coverage.txt` `7f16591d131d476aa7b044f2252322fcf27aa68d68eea7a6238c84a0ce4e346e`
+- Provenance: KYGenWeb HTML, Garrard compiled 1851–1926, Jessamine Bonds landing, kykinfolk SSL fail, New Albany DNS fail, IA advancedsearch, USGenNet Owsley DC 1911–1918 HTML. Opened 31 Oct 2026. **HTML-seen / access-fail**, not a ~1902 civil register. License unseen. Original 1916 DC face unseen. T288 unseen.
+
+### Diplomatic — cited extracts
+
+> Green/Lincoln `/marriages.htm` **404** vs county indexes **200**. Anderson/Boyle/Mercer `/marriages.htm` **404**. kykinfolk Green SSL expired (curl 60). New Albany `www.napl.lib.in.us` DNS fail (curl 6).
+
+> Garrard `Marriages1851-1926.html` **200** (314,270 bytes): Josephine Layton × Adkison 1859; Josephine Overstreet × Holtzclaw 1884; Josie Bassett × Evans 1882; Josie Kemper × Poor 1870; Josie Upton × Scott 1883 — other brides. Gilbert **0**. Newman/Newnam **0**. Hits are **1859–1884**, n/a as this ~1902 bride.
+
+> Jessamine Bonds landing **748** bytes empty. 1799–1840 compilations n/a ~1902.
+
+> IA T288 / M123 / KY DC 1916 **numFound 0**.
+
+> Owsley DC 1911 Jesse **BARETT** 64 **DISPROVED** as John. 1913 Susan **BARETT** is mother of Irvin Bishop, not a wife death. 1911–1918 **nil** Barrett, John ~70 decedent. 1920 **BARRETT, Annie** 55 (William × Nancy Bishop) **DISPROVED** as John and **not merged** with Bruce’s Anna.
+
+Pass 2: License still unseen. Do **not** treat extract-nil as a marriage. Do **not** promote C509. Barrett John every-leaf closed as a Soundex head (C932). Do not close B063.
+
+### Facts extracted → claim IDs
+- Josephine remaining nil/other/n/a; T288 0; Owsley DC nil Barrett John → C937
+- B061 remaining gap → C939
 
 
 

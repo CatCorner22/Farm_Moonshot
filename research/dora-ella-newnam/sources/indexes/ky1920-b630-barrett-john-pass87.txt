@@ -1,0 +1,52 @@
+Pass 87 — 1920 Kentucky Soundex B-630 Barrett John given-name slot 3540–3780
+NARA M1563 reel ky018 (B-625 Obe–B-631 Wylie)
+IA soundex1920ky018 zip-member JP2. Image-seen 31 Oct 2026 America/New_York.
+Native JP2; sample/every-leaf = upper-card JPEG crop (top 42%, 1400-wide quality 70).
+Keepers 1600-wide quality 72. Given-name sort.
+241 leaves, 0 fetch fails. Every-leaf visual Read (tesseract on 42% bands garbage).
+
+Window brackets from Pass 87 samples:
+3540 Beard, Jim 47 Carroll vol 12 ED 31 sh 3 ln 14 (end of Jim).
+3570 Beard, John 61 Hancock IN — John given-names start.
+3740 Board, Joseph 52 Breckinridge — Joseph starts; John slot closed before Julia 3780.
+
+Target: 1910 Buffalo dw 22 Barrett, John 65 + Susan 62 + Lee 39 + James 23
+would be ~75 in 1920, Owsley vol 76 ED 92 (or missing hh 1–13).
+
+Barrett, John heads in this window (all DISPROVED as that identity):
+3584 Barrett, John W 71 Kentucky Madison vol 47 ED 102 sh 1 ln 42.
+  3585 continuation Barrett, Sam GS 2 1/12 Kentucky.
+  Age 71 vs ~75 is close; Madison ≠ Owsley; grandson Sam 2 ≠ 1910 Lee 39 / James 23.
+3586 Barrett, John W 56 Kentucky Lee vol 59 ED 117 sh 9 ln 42.
+  3587 continuation Barrett, Hershel[?] S 12 Kentucky (+ a younger son on the next line).
+  Lee FAN only. 56 vs ~75; not the 1910 son Lee (~49) either (this card is a John head).
+3613 Barrett, John B 57 Kentucky Jefferson vol 57 ED 159 sh 5 ln 28.
+  Color B; Jefferson ≠ Owsley; 57 vs ~75.
+3614 Barrett, John W 44 Kentucky Scott vol 83 ED 153 sh 3 ln 51.
+  3615 continuation Barrett, Effie D 7 Kentucky.
+  44 vs ~75; Scott ≠ Owsley; Effie 7 not in the 1910 house.
+3622 Barrett, John W 66 Kentucky Jefferson Anchorage vol 42 ED 1 sh 4 ln 53.
+  66 vs ~75; Jefferson ≠ Owsley.
+3630 Barrett, John B 40 Tennessee vol 89 ED 149 sh 19 ln 37.
+  Color B; 40 vs ~75; Tennessee nativity; county cut on the 42% crop.
+3633 Berett, John W 29 West Virginia vol 8 ED 16 sh 15 ln 16 (Boyd[?] Center).
+  Surname Berett; 29 vs ~75; WV.
+3670 Barrett, John J. W 45 Ireland Campbell vol 14 ED 16 sh 3 ln 95 Newport.
+  Ireland; 45 vs ~75; Campbell ≠ Owsley.
+3672 Barrett, John W 34 Kentucky Jefferson Louisville vol 50 ED 199 sh 2 ln 54.
+  34 vs ~75; Jefferson.
+
+Owsley B-630 John collision (surname Beard, not Barrett):
+3632 Beard, John W 71 Virginia Owsley vol 76 ED 90 sh 2 ln 11.
+  = original T625-594 leaf 1104 stamped 2 A ln 11 FM 25/26 Beard, John 71 × Margruy[?] 66 + Herbert 16.
+  Hard Rule 6. Island Creek Precinct No. 3, enumerator Oscar J. Judd, 5 Jan 1920.
+  Beard ≠ Barrett; ED 90 ≠ ED 92; Virginia ≠ the 1910 Buffalo John (KY); wife Margruy[?] ≠ Susan.
+
+Nil Barrett, John ~75 Owsley vol 76 ED 92 as a head.
+John given-name slot image-closed for that identity.
+Filmed ED 92 already has Barrett William (sh 1 A dw 16) and Barrett Thomas (sh 4 A dw 72)
+and Bruce/Billy (sh 6 B dw 115/116) — no Barrett, John.
+Residual: A-2 in a son’s house (Barrett, Lee ~49 / James ~33 given-name slots);
+true filming gap hh 1–13; death / moved / out of KY.
+Do not treat Soundex head-nil as death.
+Do not hunt D-540. Do not close B063. Do not promote C509. Do not import C281.

@@ -2244,3 +2244,88 @@ research/dora-ella-newnam/sources/census/1880-lee-ky-ed59-sheet43-p768-caroline-
   sha256: f024d51887369afe19beb9ce91d06b47d39067e1e0a40357f63de9250ebf9c0c
   format: text extract, 1,332 bytes
   check: Pass 86 coverage; catalog 146; Barrett Bruce every-leaf closed
+
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-b630-p3584-barrett-john-71-madison.jpg
+  sha256: 236e24fcc52226254e23f06a3eb3bde29b06634f1b9d37dc6c0a15a22f230702
+  format: JPEG photo, 78,361 bytes
+  check: 1920 Soundex B-630 Barrett John 71 Madison DISPROVED as 1910 John
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-b630-p3585-barrett-john-71-cont-sam.jpg
+  sha256: 9f0ae05790ee5dfc59a0f2866dcc0d4f7b7fb8f78da5cca41f174c82b061baa9
+  format: JPEG photo, 91,641 bytes
+  check: 1920 Soundex B-630 3585 continuation Sam GS 2 of John 71 Madison
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-b630-p3586-barrett-john-56-lee.jpg
+  sha256: 0e6c75e9eefa7b8b85993da664c59a07c66351e1528e4bf8cdd98b49c0db6fe7
+  format: JPEG photo, 81,792 bytes
+  check: 1920 Soundex B-630 Barrett John 56 Lee DISPROVED as 1910 John
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-b630-p3587-barrett-john-56-cont.jpg
+  sha256: af2400bbf7e5ecdd24a9cb55061da50961d5546d410ba11459f917db250817ea
+  format: JPEG photo, 88,331 bytes
+  check: 1920 Soundex B-630 3587 continuation Hershel of John 56 Lee
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-b630-p3613-barrett-john-57-jefferson-b.jpg
+  sha256: b4d67ee84fb9e2ab2af871f197d019145b4cd4a481be5599f46c46643a058e26
+  format: JPEG photo, 88,694 bytes
+  check: 1920 Soundex B-630 Barrett John B 57 Jefferson DISPROVED
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-b630-p3614-barrett-john-44-scott.jpg
+  sha256: cd16ceb17c689a60e7457756172908012b605438d4d283b052c61d3df614e109
+  format: JPEG photo, 87,021 bytes
+  check: 1920 Soundex B-630 Barrett John 44 Scott DISPROVED
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-b630-p3615-barrett-john-44-cont-effie.jpg
+  sha256: 381e5eb82ac2743acc9a84212688f442b37c08dc66bec19448a90deaedd1db7d
+  format: JPEG photo, 93,775 bytes
+  check: 1920 Soundex B-630 3615 continuation Effie D 7 of John 44 Scott
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-b630-p3622-barrett-john-66-jefferson.jpg
+  sha256: 644ea2b99303389ced22892f1847f8c5c94064d6a42f29fa1f73dcdf1e74a86a
+  format: JPEG photo, 86,953 bytes
+  check: 1920 Soundex B-630 Barrett John 66 Jefferson Anchorage DISPROVED
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-b630-p3630-barrett-john-40-tn-b.jpg
+  sha256: 1b570f17d91f6f22285c9a92e1686d78f3a87b5d436bdd2675f0d78f09f4ec22
+  format: JPEG photo, 92,807 bytes
+  check: 1920 Soundex B-630 Barrett John B 40 Tennessee DISPROVED
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-b630-p3632-beard-john-71-owsley-ed90.jpg
+  sha256: cdce65c40b8b447c74545dca5efced9fa1c21194cc09be7b73ffa38af7595337
+  format: JPEG photo, 76,390 bytes
+  check: 1920 Soundex B-630 Beard John 71 Owsley ED 90 Hard Rule 6 of original
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-b630-p3633-berett-john-29-wv.jpg
+  sha256: 8fec23a721bc40c8feb38e3c11ef7982759e17f78fb8332d3d10fb5ec282c45c
+  format: JPEG photo, 80,892 bytes
+  check: 1920 Soundex B-630 Berett John 29 WV DISPROVED
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-b630-p3670-barrett-john-j-45-campbell.jpg
+  sha256: 2a1e47b0713babc2ac37c0c3765385b030f0a8e22954ee35572a45ee181aaf10
+  format: JPEG photo, 84,169 bytes
+  check: 1920 Soundex B-630 Barrett John J 45 Ireland Campbell DISPROVED
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-b630-p3672-barrett-john-34-jefferson.jpg
+  sha256: 64059a7cf796a3694b6cfb44f7c92ce100c3d4fddb06e13a5ec0c0b5bfe80629
+  format: JPEG photo, 81,599 bytes
+  check: 1920 Soundex B-630 Barrett John 34 Jefferson Louisville DISPROVED
+/workspace/research/dora-ella-newnam/sources/census/1920-owsley-ed90-sh2a-hdr.jpg
+  sha256: 56699ed0a46f026738d546fdf0f84eede9218519ac50e83488ee3131d6b32abd
+  format: JPEG photo, 108,653 bytes
+  check: 1920 original ED 90 sh 2 A Island Creek header
+/workspace/research/dora-ella-newnam/sources/census/1920-owsley-ed90-sh2a-names.jpg
+  sha256: 3066ebbab3739718c86ec0db402bca6559650ffdfbfe3abf4db120ccfb6699ef
+  format: JPEG photo, 362,383 bytes
+  check: 1920 original ED 90 sh 2 A Island Creek names
+/workspace/research/dora-ella-newnam/sources/census/1920-owsley-ed90-sh2a-hh-beard-john.jpg
+  sha256: a5d659691eea7c13e5653ff041c6608d1b2b061daa556d02642c115d597c551c
+  format: JPEG photo, 109,060 bytes
+  check: 1920 original ED 90 sh 2 A FM 25 Beard John 71 x Margruy
+/workspace/research/dora-ella-newnam/sources/census/1920-owsley-ed90-sh2b-hdr.jpg
+  sha256: f19e879c6bc9428640f42ef41a5595337c5f03339be8a7a637c5bc2ddf565af1
+  format: JPEG photo, 99,858 bytes
+  check: 1920 original ED 90 sh 2 B header sequence only
+/workspace/research/dora-ella-newnam/sources/indexes/ky1920-b630-barrett-john-pass87.txt
+  sha256: 624bd8df9cd4b97de5ec5487e8e82fb9b65342c5505737732d5de8d30a400e8b
+  format: text extract, 3,133 bytes
+  check: 1920 B-630 Barrett John every-leaf 3540-3780 closed
+/workspace/research/dora-ella-newnam/sources/indexes/owsley-1920-ed90-sh2a-beard-john-pass87.txt
+  sha256: 2c9dcd8901bd3858368a68ce9236e99cfd8e90ffbbcd05f13a26a710e19df09f
+  format: text extract, 1,449 bytes
+  check: 1920 original ED 90 sh 2 A FM 25 Beard John Hard Rule 6
+/workspace/research/dora-ella-newnam/sources/indexes/josephine-gilbert-pass87.txt
+  sha256: ee2cd3779bef265da2c6f93f56bd931a7d30237dfb386d146a7abbf8b12d9d53
+  format: text extract, 3,211 bytes
+  check: Josephine x Gilbert ~1902 remaining-county nil/other; T288 0; Owsley DC nil Barrett John
+/workspace/research/dora-ella-newnam/sources/indexes/pass87-coverage.txt
+  sha256: 7f16591d131d476aa7b044f2252322fcf27aa68d68eea7a6238c84a0ce4e346e
+  format: text extract, 1,504 bytes
+  check: Pass 87 coverage; catalog 149; Barrett John every-leaf closed

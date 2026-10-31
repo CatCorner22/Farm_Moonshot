@@ -1,0 +1,22 @@
+Pass 87 coverage — 31 Oct 2026 America/New_York
+This run bc-01a18bb4-e162-785c-9724-86a7c5663bf1
+Catalog 149 / hasMore false / totalMatched 149. Was 146.
+NEW vs 146 (3; no IDs imported):
+  TN S-415 visual read RUNNING (bc-5c6df884-e838-5ad6-8899-567a9c1fb236)
+  KY S-415 visual read RUNNING (bc-d8d00a7c-91f2-5e75-93a5-3acc3bd66918)
+  AR S-415 visual read RUNNING (bc-9657d946-5916-5f6e-988c-f2140c918381)
+Status-only: Read IN Charles/Daniel/Joseph/Peter/Robert now IDLE (was RUNNING).
+Dora's biography research PR #33 WAITING_FOR_BACKGROUND_WORK
+(sibling C281 not imported).
+Nested reviewer not respawned. Message queue empty.
+
+Work this pass:
+- B-630 Barrett John given-name slot every-leaf ky018 3540–3780 (241 leaves, 0 fails).
+- Nil Barrett, John ~75 Owsley vol 76 ED 92 as a head. John slot image-closed.
+- 3584 Barrett John 71 Madison DISPROVED; 3586 John 56 Lee DISPROVED (FAN only).
+- 3613/3614/3622/3630/3633/3670/3672 other Barrett/Berett Johns DISPROVED.
+- 3632 Beard John 71 Owsley ED 90 sh 2 ln 11 copies original leaf 1104 (Hard Rule 6); DISPROVED as 1910 Barrett John.
+- Josephine remaining: Green/Lincoln marriages.htm 404; Garrard 1851–1926 other 1859–1884 Josies; Jessamine bonds empty; kykinfolk SSL; New Albany DNS.
+- IA T288/M123/1916 DC numFound 0. Owsley DC 1911–1918 nil Barrett John decedent.
+- Do not hunt D-540. Do not close B063. Do not promote C509. Do not import C281.
+- Gallery 8hd–8hh (316→321). Next unused after this pass C940+ / L821+ / S672+ / DOC182+.
