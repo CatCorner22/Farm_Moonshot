@@ -197,6 +197,16 @@ Diplomatic transcriptions: [`08-transcriptions.md`](08-transcriptions.md). Citat
 | 222 | 1900 (index) | Rejected same-name | [Missouri S-415 — Charles continuation; Loret, 10/12; not C244](sources/soundex/mo1900-s415-p3056-charles-loret.jpg) |
 | 223 | 1900 (index) | Context | [Missouri S-415 — Daniel, 54, Ireland, Bollinger Wayne](sources/soundex/mo1900-s415-p3117-daniel-bollinger-wayne.jpg) |
 | 224 | 1900 (index) | Rejected same-name | [Indiana S-415 — Daniel C., 42, Indiana; wife Dora E., 41, Ohio; not P001](sources/soundex/in1900-s415-p0909-daniel-c-dora-e.jpg) |
+| 225 | 1900 (index) | Rejected same-name | [Kentucky S-415 — Edwin, Boone; Lettie, 5/12; not C244](sources/soundex/ky1900-s415-p2620-edwin-lettie.jpg) |
+| 226 | 1900 (index) | Rejected same-name | [Kentucky S-415 — Patrick T.; wife Kate A., 34, Missouri; not C244](sources/soundex/ky1900-s415-p3091-patrickt-kate-mo.jpg) |
+| 227 | 1900 (index) | Context | [Tennessee S-415 — Michel, 39, Indiana, Memphis boarder](sources/soundex/tn1900-s415-n0250-michel-39-indiana.jpg) |
+| 228 | 1900 (index) | Context | [Arkansas S-415 — George W., 40, Indiana, Yell Mason; Sarah E., 3](sources/soundex/ar1900-s415-p2519-george-w-40-in-yell.jpg) |
+| 229 | 1900 (index) | Rejected same-name | [Arkansas S-415 — Mike J., 32, Missouri, Pulaski; Mildred, 1; not C244](sources/soundex/ar1900-s415-p2720-mike-j-mildred.jpg) |
+| 230 | 1900 (index) | Rejected same-name | [Arkansas S-415 — Ed J. continuation; Roberts, Lottie, 3; not C244](sources/soundex/ar1900-s415-p2471-edj-lottie-roberts.jpg) |
+| 231 | 1900 (index) | Rejected same-name | [Illinois S-415 — George, 33, Indiana, Butler Grove; sons only; not C244](sources/soundex/il1900-s415-p2245-george-33-in-sons.jpg) |
+| 232 | 1900 (index) | Context | [Illinois S-415 — Frank, 32, Missouri, Chicago brother-in-law](sources/soundex/il1900-s415-p2200-frank-32-mo-bil.jpg) |
+| 233 | 1900 (index) | Context | [Illinois S-415 — Michael F., 30, Indiana, Chicago roomer](sources/soundex/il1900-s415-p3551-michael-f-30-in-roomer.jpg) |
+| 234 | 1900 (index) | Rejected same-name | [Illinois S-415 — Mike, 34, Indiana, Toluca; Francie, SD 1; not C244](sources/soundex/il1900-s415-p3602-mike-34-in-francie.jpg) |
 | 123 | 1900 (index) | Context | [Texas C-563 — J-tab divider](sources/soundex/tx1900-c563-p1-j-divider.jpg) |
 | 17 | Apr 1910 | Negative search | [Kentucky N-550 — Millie / Missouri; no McCoy](sources/soundex/ky1910-n550-p329-millie-missouri.jpg) |
 | 18 | Apr 1910 | Negative search | [Kentucky N-550 — Monroe; still no McCoy](sources/soundex/ky1910-n550-p330-monroe-no-mccoy.jpg) |
@@ -2035,6 +2045,106 @@ White head, May 1846, age 54, born Ireland, Bollinger County, Wayne Township, vo
 White head, May 1858, age 42, born Indiana. Wife Dora E., January 1859, 41, Ohio. Daughters Katie 17, Jennie 14, Johanna 11, Indiana. Age 41 versus 28 and Ohio versus Kentucky reject this wife as Dora Ella Newnam.
 
 ![Indiana S-415 — Daniel C., 42, Indiana; wife Dora E., 41, Ohio; not P001](sources/soundex/in1900-s415-p0909-daniel-c-dora-e.jpg)
+
+### 225 · 1900 (index) · Kentucky S-415 — Edwin, Boone; Lettie, 5/12; not C244
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/ky1900-s415-p2620-edwin-lettie.jpg`](sources/soundex/ky1900-s415-p2620-edwin-lettie.jpg)  
+**Source:** S376 · C570
+
+White head, October 1873, age 26, born Kentucky, Boone County, Mag Dist 3 Big Bone. Wife Avis, May 1874, 26, Kentucky. Daughters Mary, June 1897, 2, and Lettie, January 1900, 5/12, Kentucky. Diplomatic Lettie. After the Edward band. Father Kentucky, not Indiana. Rejected as C244.
+
+![Kentucky S-415 — Edwin, Boone; Lettie, 5/12; not C244](sources/soundex/ky1900-s415-p2620-edwin-lettie.jpg)
+
+### 226 · 1900 (index) · Kentucky S-415 — Patrick T.; wife Kate A., 34, Missouri; not C244
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/ky1900-s415-p3091-patrickt-kate-mo.jpg`](sources/soundex/ky1900-s415-p3091-patrickt-kate-mo.jpg)  
+**Source:** S376 · C571
+
+White head, June 1853, age 46, born Kentucky, Jefferson County, Louisville 20th 625. Wife Kate A., September 1865, 34, Missouri. Daughters Mary 14 and Anna A. 13, Kentucky. Adult Missouri-born wife, not a toddler. Rejected as C244.
+
+![Kentucky S-415 — Patrick T.; wife Kate A., 34, Missouri; not C244](sources/soundex/ky1900-s415-p3091-patrickt-kate-mo.jpg)
+
+### 227 · 1900 (index) · Tennessee S-415 — Michel, 39, Indiana, Memphis boarder
+
+**Role:** Context  
+**File:** [`sources/soundex/tn1900-s415-n0250-michel-39-indiana.jpg`](sources/soundex/tn1900-s415-n0250-michel-39-indiana.jpg)  
+**Source:** S375 · C560
+
+White individual, January 1861, age 39, born Indiana, Shelby County, Memphis, Front 242. Enumerated with Graff, Louisa, as boarder. Family grid unused. Indiana nativity near-hit; no child. Keep separate from C244.
+
+![Tennessee S-415 — Michel, 39, Indiana, Memphis boarder](sources/soundex/tn1900-s415-n0250-michel-39-indiana.jpg)
+
+### 228 · 1900 (index) · Arkansas S-415 — George W., 40, Indiana, Yell Mason; Sarah E., 3
+
+**Role:** Context  
+**File:** [`sources/soundex/ar1900-s415-p2519-george-w-40-in-yell.jpg`](sources/soundex/ar1900-s415-p2519-george-w-40-in-yell.jpg)  
+**Source:** S378 · C578
+
+White head, December 1859, age 40, born Indiana, Yell County, Mason Township, volume 42, ED 153, sheet 15, line 89. Wife Elizabeth, September 1872, 27, Arkansas. Daughter Sarah E., March 1897, 3, Arkansas. Sister Ollie, July 1873, 26, Indiana. Local FAN; child is Sarah E., not Letha. Not merged with C244.
+
+![Arkansas S-415 — George W., 40, Indiana, Yell Mason; Sarah E., 3](sources/soundex/ar1900-s415-p2519-george-w-40-in-yell.jpg)
+
+### 229 · 1900 (index) · Arkansas S-415 — Mike J., 32, Missouri, Pulaski; Mildred, 1; not C244
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/ar1900-s415-p2720-mike-j-mildred.jpg`](sources/soundex/ar1900-s415-p2720-mike-j-mildred.jpg)  
+**Source:** S378 · C579
+
+White head, December 1867, age 32, born Missouri, Pulaski County, Big Rock Township, Little Rock, State 1117. Wife Ada, January 1875, 25, Arkansas. Son Roy J., 3; daughter Mildred, August 1898, 1, Arkansas. Diplomatic Mildred. Head Missouri versus Indiana. Rejected as C244.
+
+![Arkansas S-415 — Mike J., 32, Missouri, Pulaski; Mildred, 1; not C244](sources/soundex/ar1900-s415-p2720-mike-j-mildred.jpg)
+
+### 230 · 1900 (index) · Arkansas S-415 — Ed J. continuation; Roberts, Lottie, 3; not C244
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/ar1900-s415-p2471-edj-lottie-roberts.jpg`](sources/soundex/ar1900-s415-p2471-edj-lottie-roberts.jpg)  
+**Source:** S378 · C577
+
+Continuation of Sullivan, Ed J. Boarders include Windham, Caleb, 60, Missouri. Roberts, Lottie, July 1896, 3, Arkansas, relationship N or W. Surname Roberts; diplomatic Lottie. Not a Sullivan daughter. Rejected as C244.
+
+![Arkansas S-415 — Ed J. continuation; Roberts, Lottie, 3; not C244](sources/soundex/ar1900-s415-p2471-edj-lottie-roberts.jpg)
+
+### 231 · 1900 (index) · Illinois S-415 — George, 33, Indiana, Butler Grove; sons only; not C244
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/il1900-s415-p2245-george-33-in-sons.jpg`](sources/soundex/il1900-s415-p2245-george-33-in-sons.jpg)  
+**Source:** S377 · C585
+
+White head, February 1867, age 33, born Indiana, Montgomery County, Butler Grove Township, volume 137, ED 75, sheet 4, line 40. Wife Effie, February 1867, 33, Illinois. Sons Elonza, August 1897, 3, and Albert, May 1900, 1/12, Illinois. Two sons; no daughter. Rejected as C244.
+
+![Illinois S-415 — George, 33, Indiana, Butler Grove; sons only; not C244](sources/soundex/il1900-s415-p2245-george-33-in-sons.jpg)
+
+### 232 · 1900 (index) · Illinois S-415 — Frank, 32, Missouri, Chicago brother-in-law
+
+**Role:** Context  
+**File:** [`sources/soundex/il1900-s415-p2200-frank-32-mo-bil.jpg`](sources/soundex/il1900-s415-p2200-frank-32-mo-bil.jpg)  
+**Source:** S377 · C588
+
+White individual, January 1868, age 32, born Missouri, Cook County, Chicago, Wabash Avenue 1702. Enumerated with Johns, John W., as brother-in-law. Family grid unused. No child. Keep separate from C244.
+
+![Illinois S-415 — Frank, 32, Missouri, Chicago brother-in-law](sources/soundex/il1900-s415-p2200-frank-32-mo-bil.jpg)
+
+### 233 · 1900 (index) · Illinois S-415 — Michael F., 30, Indiana, Chicago roomer
+
+**Role:** Context  
+**File:** [`sources/soundex/il1900-s415-p3551-michael-f-30-in-roomer.jpg`](sources/soundex/il1900-s415-p3551-michael-f-30-in-roomer.jpg)  
+**Source:** S377 · C586
+
+White individual, May 1870, age 30, born Indiana, Cook County, Chicago, Washington Boulevard 369. Enumerated with Breese, Allen H., as roomer. Family grid unused. Indiana nativity near-hit; no child. Keep separate from C244.
+
+![Illinois S-415 — Michael F., 30, Indiana, Chicago roomer](sources/soundex/il1900-s415-p3551-michael-f-30-in-roomer.jpg)
+
+### 234 · 1900 (index) · Illinois S-415 — Mike, 34, Indiana, Toluca; Francie, SD 1; not C244
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/il1900-s415-p3602-mike-34-in-francie.jpg`](sources/soundex/il1900-s415-p3602-mike-34-in-francie.jpg)  
+**Source:** S377 · C587
+
+White head, September 1865, age 34, born Indiana, Marshall County, Toluca, Atchison Place. Wife Catherine, May 1871, 29, Illinois. Stepchildren Daniel Mirtley, 6, Colorado; Emeline, 4, Illinois; Francie, stepdaughter, February 1899, 1, Illinois. Diplomatic Francie. Rejected as C244.
+
+![Illinois S-415 — Mike, 34, Indiana, Toluca; Francie, SD 1; not C244](sources/soundex/il1900-s415-p3602-mike-34-in-francie.jpg)
 
 ### 123 · 1900 (index) · Texas C-563 — J-tab divider
 

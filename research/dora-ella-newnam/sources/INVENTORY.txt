@@ -806,3 +806,80 @@ research/dora-ella-newnam/sources/soundex/in1900-s415-p0909-daniel-c-dora-e.jpg
   format: JPEG Soundex card, IA soundex1900in208 n909
 research/dora-ella-newnam/sources/soundex/b007-pass92-1900-in-mo-s415-remaining-2026-10-31.txt
   format: Pass 92 IN/MO S-415 remaining-father search log
+
+research/dora-ella-newnam/sources/soundex/ky1900-s415-p2620-edwin-lettie.jpg
+  sha256: 5aaf7c51b74fdbad9c49a5c362122a34a8317f7986e730206a01d1de9fef9d0b
+  format: JPEG Soundex card, IA soundex1900ky161 n2620
+research/dora-ella-newnam/sources/soundex/ky1900-s415-p2615-edward-lucile-1.jpg
+  sha256: 81017bdf06f363e58a043486b92616590803ed980cffa8bcee96a049a2009a3b
+  format: JPEG Soundex card, IA soundex1900ky161 n2615
+research/dora-ella-newnam/sources/soundex/ky1900-s415-p2610-edward-willera-3.jpg
+  sha256: 38a477859f7574443182222603a6f22dd41d1902b66f3f3e26a5a30c22109aac
+  format: JPEG Soundex card, IA soundex1900ky161 n2610
+research/dora-ella-newnam/sources/soundex/ky1900-s415-p2671-george-kathaina-2.jpg
+  sha256: 4c670cffdcb8e0333e2322478e2797a7a7f8bb421caa4eae9a97c095936c0319
+  format: JPEG Soundex card, IA soundex1900ky161 n2671
+research/dora-ella-newnam/sources/soundex/ky1900-s415-p2686-geow-ruth-1.jpg
+  sha256: ff9acff07443f28f6f32747ada33da8a231e4cce319e0851fe0cd726234f0070
+  format: JPEG Soundex card, IA soundex1900ky161 n2686
+research/dora-ella-newnam/sources/soundex/ky1900-s415-p3041-michal-emma-f-3.jpg
+  sha256: df63aca4f4a6ca0a8d0029c6d56407cc9ead9b9ced23a82a206b0e4805021b20
+  format: JPEG Soundex card, IA soundex1900ky161 n3041
+research/dora-ella-newnam/sources/soundex/ky1900-s415-p3090-patrickj-nellie-1.jpg
+  sha256: 8d0848c73ba3d11f6b257f048f347ee2ef1a21300244de934fa7891ec8bbfc68
+  format: JPEG Soundex card, IA soundex1900ky161 n3090
+research/dora-ella-newnam/sources/soundex/ky1900-s415-p3091-patrickt-kate-mo.jpg
+  sha256: 151a8083419a42b211ff1053c9e39a9f4a59f51d6e149a8e4560e4af5b283f65
+  format: JPEG Soundex card, IA soundex1900ky161 n3091
+research/dora-ella-newnam/sources/soundex/b007-pass93-1900-ky-s415-efgmp-2026-10-31.md
+  format: Pass 93 KY S-415 Edward–Patrick paleography report
+
+research/dora-ella-newnam/sources/soundex/tn1900-s415-n0250-michel-39-indiana.jpg
+  sha256: 1b409433cd2dbd26baf1b23430262d73279449abf7d9c24cb6eb3190bb20fc88
+  format: JPEG Soundex card, IA soundex1900tn154 n250
+research/dora-ella-newnam/sources/soundex/tn1900-s415-n3891-franklin-w-lena-2.jpg
+  sha256: 0471bc4946d92b114d64b3aa03a07c060f0f3fb82eb2a7523921fea075b751a7
+  format: JPEG Soundex card, IA soundex1900tn153 n3891
+research/dora-ella-newnam/sources/soundex/tn1900-s415-n3906-george-white-lena-l-1.jpg
+  sha256: b671204bb2bc5f052a19fdab7b3cb43476c4f857cb630c784ebe9be5dbc15fcb
+  format: JPEG Soundex card, IA soundex1900tn153 n3906
+research/dora-ella-newnam/sources/soundex/tn1900-s415-n3898-george-wilson-viola-boarder.jpg
+  sha256: 45020efd24eaa689f576c9906252bcd5894544b4897f789622db3c355cfa8d4f
+  format: JPEG Soundex card, IA soundex1900tn153 n3898
+research/dora-ella-newnam/sources/soundex/tn1900-s415-n0294-pat-w-mary-3-lee.jpg
+  sha256: 6ac635b7cf10da884061993258880e9a85cd57297e0b94953bda58bde3f38c21
+  format: JPEG Soundex card, IA soundex1900tn154 n294
+research/dora-ella-newnam/sources/soundex/tn1900-s415-n3845-edward-memphis-dau-2.jpg
+  sha256: 5e111b03fb2706309702f17fc78c4d4e2a80923e5c6adc13050138692f4b4cf1
+  format: JPEG Soundex card, IA soundex1900tn153 n3845
+research/dora-ella-newnam/sources/soundex/b007-pass93-tn-edward-patrick-read.md
+  format: Pass 93 TN S-415 Edward–Patrick paleography report
+research/dora-ella-newnam/sources/soundex/b007-pass94-1900-tn-s415-edward-patrick-2026-10-31.txt
+  format: Pass 93 TN S-415 search log (subagent labelled pass 94)
+
+research/dora-ella-newnam/sources/soundex/ar1900-s415-p2471-edj-lottie-roberts.jpg
+  sha256: 6b6250e4e76ec95c25a5e26ee0ef68fe0a7cd4a0b0839ef9a7d8525658b1344e
+  format: JPEG Soundex card, IA soundex1900ar107 n2471
+research/dora-ella-newnam/sources/soundex/ar1900-s415-p2519-george-w-40-in-yell.jpg
+  sha256: d0ec4e37b8115bc29d0874876a3014863dcc63a3ad989fdc12a800d827a4ed97
+  format: JPEG Soundex card, IA soundex1900ar107 n2519
+research/dora-ella-newnam/sources/soundex/ar1900-s415-p2720-mike-j-mildred.jpg
+  sha256: 8b6ddc92a6729cb0b7e730043873990638d3c3b741c6ec1ae36c2f947646c9e5
+  format: JPEG Soundex card, IA soundex1900ar107 n2720
+research/dora-ella-newnam/sources/soundex/b007-pass93-1900-ar-s415-edward-patrick-2026-10-31.md
+  format: Pass 93 AR S-415 Edward–Patrick paleography report
+
+research/dora-ella-newnam/sources/soundex/il1900-s415-p2200-frank-32-mo-bil.jpg
+  sha256: de43cdbdbfdfcf4a2cc89b8dbbfcee1356df18a153e41e5ab09dc30037ac5d03
+  format: JPEG Soundex card, IA soundex1900il401 n2200 rotate -90
+research/dora-ella-newnam/sources/soundex/il1900-s415-p2245-george-33-in-sons.jpg
+  sha256: 03f84bca512ca08ea2b597b132f41c97fcba98e67ff1a24d505ba153a6ba18c9
+  format: JPEG Soundex card, IA soundex1900il401 n2245 rotate -90
+research/dora-ella-newnam/sources/soundex/il1900-s415-p3551-michael-f-30-in-roomer.jpg
+  sha256: bc91b6438adc4118e5b01fbe241b748bab9709040ae84fb0bd0d6090e9fe5e2d
+  format: JPEG Soundex card, IA soundex1900il401 n3551 rotate -90
+research/dora-ella-newnam/sources/soundex/il1900-s415-p3602-mike-34-in-francie.jpg
+  sha256: 26caa57e42ca2aa33c869f70bce1d1d40620b67563c84db17de2580baffadd7b
+  format: JPEG Soundex card, IA soundex1900il401 n3602 rotate -90
+research/dora-ella-newnam/sources/soundex/b007-pass93-1900-ky-ar-il-tn-s415-other-fathers-2026-10-31.txt
+  format: Pass 93 KY/AR/IL/TN S-415 other-father search log

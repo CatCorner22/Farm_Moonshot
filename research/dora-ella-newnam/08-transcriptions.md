@@ -2066,5 +2066,77 @@ Diplomatic **Lettie**. After the Edward band. → **C570**.
 
 Adult MO-born wife, no toddler. → **C571**. Full walk: `sources/soundex/b007-pass93-1900-ky-s415-efgmp-2026-10-31.md`.
 
+## DOC161 — 1900 AR Soundex S-415, Sullivan, George W, 40, Indiana (Yell Mason)
+- Image: `sources/soundex/ar1900-s415-p2519-george-w-40-in-yell.jpg` SHA-256 `d0ec4e37b8115bc29d0874876a3014863dcc63a3ad989fdc12a800d827a4ed97`
+- Reel: IA `soundex1900ar107` n**2519** · **image seen**
+
+### Diplomatic
+> **S415 Sullivan, George W.** — Head · vol **42** ED **153** sh **15** ln **89** · W Dec **1859** **40** Indiana · Yell / Mason Twp
+> **Elizabeth** W Sept **1872** **27** Arkansas; **Sarah E** D Mar **1897** **3** Arkansas; **Ollie** Si July **1873** **26** Indiana
+
+IN-father + Yell FAN; child is **Sarah E**, not Letha. → **C578**.
+
+## DOC162 — 1900 AR Soundex S-415, Sullivan, Mike J, 32, Missouri; Mildred 1
+- Image: `sources/soundex/ar1900-s415-p2720-mike-j-mildred.jpg` SHA-256 `8b6ddc92a6729cb0b7e730043873990638d3c3b741c6ec1ae36c2f947646c9e5`
+- Reel: IA `soundex1900ar107` n**2720**
+
+### Diplomatic
+> **S415 Sullivan, Mike J.** — Head · vol **32** ED **75** sh **14** ln **79** · W Dec **1867** **32** Missouri · Pulaski / Big Rock Twp / Little Rock / State **1117**
+> **Ada** W Jan **1875** **25** Arkansas; **Roy J** S Dec **1896** **3** Arkansas; **Mildred** D Aug **1898** **1** Arkansas
+
+Diplomatic **Mildred**. Head MO vs IN. → **C579**.
+
+## DOC163 — 1900 AR Soundex S-415, Ed J continuation; Roberts, Lottie 3
+- Image: `sources/soundex/ar1900-s415-p2471-edj-lottie-roberts.jpg` SHA-256 `6b6250e4e76ec95c25a5e26ee0ef68fe0a7cd4a0b0839ef9a7d8525658b1344e`
+- Reel: IA `soundex1900ar107` n**2471** (continuation of Ed J n**2470**)
+
+### Diplomatic
+> **S415 Sullivan, Ed J.** — Head of family continued
+> **Harge[?] N.** B May **1874** **26** Arkansas; **Windham, Caleb** B July **1839** **60** Missouri; **Roberts, Lottie** N[?] July **1896** **3** Arkansas; **Hensley, Frank** B May **1882** **18** Arkansas; **Holt, Minnie** B Jan **1874** **26** Mississippi
+
+Surname **Roberts**; diplomatic **Lottie**. Not a Sullivan daughter. → **C577**.
+
+## DOC164 — 1900 IL Soundex S-415, Sullivan, George, 33, Indiana (Butler Grove)
+- Image: `sources/soundex/il1900-s415-p2245-george-33-in-sons.jpg` SHA-256 `03f84bca512ca08ea2b597b132f41c97fcba98e67ff1a24d505ba153a6ba18c9`
+- Reel: IA `soundex1900il401` n**2245** rotate **-90** · **image seen**
+
+### Diplomatic
+> **S415 Sullivan, George** — Head · vol **137** ED **75** sh **4** ln **40** · W Feb **1867** **33** Indiana · Montgomery / Butler Grove Twp
+> **Effie** W Feb **1867** **33** Illinois; **Elonza** S Aug **1897** **3** Illinois; **Albert** S May **1900** **1/12** Illinois
+
+Two **sons**; no daughter. → **C585**.
+
+## DOC165 — 1900 IL Soundex S-415, Sullivan, Frank, 32, Missouri (Chicago BIL)
+- Image: `sources/soundex/il1900-s415-p2200-frank-32-mo-bil.jpg` SHA-256 `de43cdbdbfdfcf4a2cc89b8dbbfcee1356df18a153e41e5ab09dc30037ac5d03`
+- Reel: IA `soundex1900il401` n**2200** rotate **-90**
+
+### Diplomatic
+> **S415 Sullivan, Frank** — Individual · vol **15** ED **37** sh **1** ln **15** · W Jan **1868** **32** Missouri · Cook / Chicago / Wabash Av **1702**
+> Enumerated with **Johns, John W** — Brother in law
+> Family grid unused.
+
+MO-born adult BIL; **no child**. → **C588**.
+
+## DOC166 — 1900 IL Soundex S-415, Sullivan, Michael F, 30, Indiana (Chicago roomer)
+- Image: `sources/soundex/il1900-s415-p3551-michael-f-30-in-roomer.jpg` SHA-256 `bc91b6438adc4118e5b01fbe241b748bab9709040ae84fb0bd0d6090e9fe5e2d`
+- Reel: IA `soundex1900il401` n**3551** rotate **-90**
+
+### Diplomatic
+> **S415 Sullivan, Michael F** — Individual · vol **90** ED **311** sh **6** ln **65** · W May **1870** **30** Indiana · Cook / Chicago / Washington Blvd **369**
+> Enumerated with **Breese, Allen H** — Roomer
+> Family grid unused.
+
+IN nativity near-hit; **no child**. Keep separate from **C244**. → **C586**.
+
+## DOC167 — 1900 IL Soundex S-415, Mike 34 Indiana; Francie SD 1
+- Image: `sources/soundex/il1900-s415-p3602-mike-34-in-francie.jpg` SHA-256 `26caa57e42ca2aa33c869f70bce1d1d40620b67563c84db17de2580baffadd7b`
+- Reel: IA `soundex1900il401` n**3602** rotate **-90**
+
+### Diplomatic
+> **S415 Sullivan, Mike** — Head · vol **124** ED **40** sh **12** ln **8** · W Sept **1865** **34** Indiana · Marshall / Bennington[?] Twp / Toluca / Atchison Pl
+> **Catherine** W May **1871** **29** Illinois; **Mirtley, Daniel** S.S. Feb **1894** **6** Colorado; **[Emeline?]** S.S. Aug **1895** **4** Illinois; **Francie** S.D. Feb **1899** **1** Illinois
+
+Diplomatic **Francie**; stepdaughter. Township cramped (**Bennington** POSSIBLE). → **C587**.
+
 ## DOC009 — 1910 TN Soundex N-550 McCoy window (nil)
 Handwritten family/individual cards n2461–n2469. Sequence after Mary C (n2460): Mary D 49 Jefferson (son Layton 11); Mary M 70 Hamilton; Mek. G 50 Cheatham (Florence 19, John 17, General 16, Frances 13, William 10, Doria 6, Luther 1½); Melvin 3½ Giles (gs of Deacon George W); Melvin 54 Giles (SIL of same); Minerva 80 Robertson (gds Lona Neely, Nellie Erwin); Minnie 21 Roane (with Sam P. Sparks); Mitchell 27 Hardin (Ollie P 25, Gladys 4, Burl W 3, Royal E 1 9/12). **No McCoy.** SHA-256 n2463 `23610f8aa4c159b1b554ed1786d11f57d2f56f8a2e8994f7289ae7bd02dfca53`; n2469 `340489566090880388fa6b81ca5751c5944dcaf56a7b44f70fe560788f308586`.
