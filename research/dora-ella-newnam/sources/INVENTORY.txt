@@ -2870,3 +2870,15 @@ research/dora-ella-newnam/sources/census/1880-lee-ky-ed59-sheet43-p768-caroline-
   sha256: 64471c983ba82ba06527afd355e3c9a7526960bd83c3799c2375d34a0c9f8744
   format: text extract, 643 bytes
   check: T288 IIIF reels 348/347 HTTP 200 SPA 5454 bytes not IIIF JSON; cards unseen
+/workspace/research/dora-ella-newnam/sources/indexes/pass109-coverage.txt
+  sha256: 4b5922e85dce0c511d54ceb15031e7f70865753c555937a2240e66b984fee7ca
+  format: text extract, 2,165 bytes
+  check: Pass 109 coverage; catalog 206 NEW 0; Hopkins 1869-1949 covering 1902 nil; T288 SPA 5454
+/workspace/research/dora-ella-newnam/sources/indexes/josephine-gilbert-pass109.txt
+  sha256: ee1619813eba19b881a1b746a87f770cbcf57ba63215b0b9ba63c4b088573a8f
+  format: text extract, 4,288 bytes
+  check: Hopkins white 1869-1949 covering 1902 nil this couple; Muhlenberg Black 1866-1969 covering 1902 nil
+/workspace/research/dora-ella-newnam/sources/indexes/t288-timeout-pass109.txt
+  sha256: afbd2d0bd964a0f31b2a3edd6f3675724b06ee2dfeac2c8e3c80a3711840c932
+  format: text extract, 595 bytes
+  check: T288 IIIF reels 348/347 HTTP 200 SPA 5454 bytes not IIIF JSON; cards unseen

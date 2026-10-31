@@ -5812,3 +5812,55 @@ Pass 2: Do **not** invent T288 card contents. Do **not** promote C509.
 ### Facts extracted → claim IDs
 - IIIF SPA 5,454 bytes; images unseen → C1132
 - B061 remaining gap → C1134
+
+## DOC252 — Catalog + Pass 109 coverage
+
+- Extract: `pass109-coverage.txt` SHA-256 `4b5922e85dce0c511d54ceb15031e7f70865753c555937a2240e66b984fee7ca`
+- Provenance: Cursor `list-cloud-agents` includeArchived limit 200, 31 Oct 2026. This run `bc-01a18bb4-e162-785c-9724-86a7c5663bf1`.
+- Access: process listing. **No** new independently image-backed P001 1900–1926 residence.
+
+### Diplomatic — cited extract
+
+> **206** / `hasMore: false` / `totalMatched: 206`. Was **206**. NEW vs 206 (0; **no IDs imported**). Status-only: Hunt Dora still B084; B054 **renamed** Next remote after B041. Sibling C281 **not imported**.
+
+Pass 2: Process count only. Skip **C221–C280**. Do **not** promote C509. Do **not** hunt remaining 1930 Owsley sheets.
+
+### Facts extracted → claim IDs
+- catalog 206; NEW 0 → C1135
+- B063 remaining gap → C1140
+- B061 remaining gap → C1141
+
+## DOC253 — Josephine remaining substitutes (Pass 109)
+
+- Extract: `josephine-gilbert-pass109.txt` SHA-256 `ee1619813eba19b881a1b746a87f770cbcf57ba63215b0b9ba63c4b088573a8f`
+- Coverage: `pass109-coverage.txt` `4b5922e85dce0c511d54ceb15031e7f70865753c555937a2240e66b984fee7ca`
+- Provenance: Hopkins kygenweb 1869–1949 XLS + TT4; Muhlenberg Black 1866–1969; Trigg/Allen/GT landings. Opened 31 Oct 2026. **XLS-seen / HTML-seen / compiled**. License unseen. Hopkins XLS **not committed**.
+
+### Diplomatic — cited extracts
+
+> Hopkins white 1869–1949: 16,030 data rows; 279 in 1902. Nil Josephine Newnam × Gilbert. McNary × Smith, Josie 31 Dec 1902 DISPROVED.
+
+> Muhlenberg Black 1866–1969: Newman, George W. × Elliott 1877 DISPROVED. Nil Josephine Newnam × Gilbert.
+
+Pass 2: License still unseen. Do not close B063.
+
+### Facts extracted → claim IDs
+- Hopkins white 1869–1949 covering 1902 nil this couple → C1136
+- Muhlenberg Black 1866–1969 covering 1902 nil this couple → C1137
+- Trigg/Allen/remaining GT n/a → C1138
+- B063 remaining gap → C1140
+
+## DOC254 — T288 IIIF SPA 5,454 (Pass 109)
+
+- Extract: `t288-timeout-pass109.txt` SHA-256 `afbd2d0bd964a0f31b2a3edd6f3675724b06ee2dfeac2c8e3c80a3711840c932`
+- Provenance: NARA Catalog IIIF T288-0348-01001 and T288-0347-01001 info.json. Opened 31 Oct 2026. **Access-fail**.
+
+### Diplomatic — cited access results
+
+> Reels 348 and 347 frame 01001 info.json HTTP 200, 5,454-byte Catalog SPA HTML, not IIIF JSON. Card images unseen.
+
+Pass 2: Do **not** invent T288 card contents. Do **not** promote C509.
+
+### Facts extracted → claim IDs
+- IIIF SPA 5,454 bytes; images unseen → C1139
+- B061 remaining gap → C1141

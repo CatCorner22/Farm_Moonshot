@@ -1,0 +1,71 @@
+Pass 109 — Josephine Newnam x Gilbert ~1902 remaining substitutes
+Opened 31 Oct 2026 (America/New_York). Compiled / HTML-seen clerk-indexes.
+License unseen. Original 1916 DC face unseen. T288 images unseen.
+Do not commit Hopkins XLS (extract only).
+
+Hopkins kygenweb white marriages 1869-1949 OPENED
+  Landing: https://kygenweb.net/hopkins/marr1869_1949.html
+  Claims white-only compiled list 1869-1949 as Excel.
+  Grooms XLS OPENED 2,275,328 bytes (held /tmp; not committed).
+  Brides XLS OPENED 2,285,568 bytes (held /tmp; not committed).
+  Title cell: "Hopkins Co KY, white marriages 1869-1949".
+  Columns: Groom / Bride / Date / Book / Page / Researcher.
+  Data rows: 16,030 each file (same couples, sort order differs).
+  Year 1902 populated: 279 dated rows each file.
+  1900:199 / 1901:238 / 1903:260 / 1904:206 / 1905:249 / 1906:248.
+  1902 Newman/Newnam: 0. 1902 Josephine/Josie: 0. 1902 Gilbert: 0.
+  NIL Josephine Newnam x Gilbert.
+  Nearby DISPROVED (not this couple):
+    1901-04-22 Bourland, William L. x Agan, Josephine TT52/310
+    1901-04-22 Gilbert, Arthur Oliver x Myers, Faye TT52/308
+    1901-09-25 Loller, C.G. x Edgar, Josie TT53/121
+    1900-03-12 Geisenberger, A.J. x Newman, Isabel R. TT52/37
+    1900-09-19 Wilson, S.L. x Dunning, Josie TT52/127
+    1903-09-12 Allen, D.W. x Hudgens, M. Josephine TT54/535
+  TT4 HTML OPENED (https://kygenweb.net/hopkins/marr/tt4.html, 50,626 bytes):
+    years 1902-1906. McNary, Virg x Smith, Josie 31 Dec 1902 TT4-44C DISPROVED
+    (bride Smith, not Newnam; groom McNary, not Gilbert).
+    Josie Radford 30 Mar 1903 / Josie Woodson 13 Apr 1905 other.
+    Nil Newman/Newnam/Gilbert as a party in the TT4 key hits.
+  TT47 HTML OPENED (81,071 bytes): years 1893/1894/1903; 0 in 1902; n/a as covering 1902.
+  TT3 1898-1902 already opened Pass 93 (reconfirmed years include 1902; Josie
+    French 2 Jul 1902 / Raymond 7 Oct 1902 other; Newman Mattie 8 Nov 1898 other).
+  This XLS is a covering 1869-1949 white clerk-compilation for 1902.
+
+Muhlenberg kygenweb Black Marriages 1866-1969 OPENED
+  Landing lists Brides Index / Grooms Index (updated May 31 2025) plus Recarta
+  Book 1 (JS viewer timeout 25s this pass; not opened as images).
+  groomsN.htm OPENED: 36 dated rows 1866-1946; 0 in 1902.
+    Newman, George W. x Elliott, Henrietta 1877 Book 3:65 DISPROVED.
+  bridesN.htm OPENED: 37 dated 1866-1947; 0 in 1902; nil Newman/Josephine.
+  groomsG.htm OPENED: nil Gilbert token.
+  bridesG.htm OPENED: 92 dated; 1902 Gaines, Victoria x First, Tom 5/325 other;
+    1902 Gish, Jane x Jones, William 5/331 other.
+  Dedicated Newman/Newnam/Gi pages 404 (N/G slices hold the surnames).
+  Year 1902 is populated on other letters. NIL this couple on this covering
+  1866-1969 Black clerk-index for 1902.
+
+Remaining n/a this pass:
+  Trigg kygenweb wed-n.html OPENED (141,930 bytes) through 1900 (n1900=4;
+    n1901=0 n1902=0); nil Newman/Newnam. wed-g.html OPENED (382,239 bytes)
+    through 1900; Gilbert 1820/1830 DISPROVED; 0 in 1902. n/a as covering 1902.
+  Trigg kyseeker Tr1/Tr2/Tr3 HTTP 200 parking-page shells; not marriage tables.
+  Allen kygenweb marriage_records.htm OPENED as 1815-1889 ("Marriages to 1900");
+    1902 token is the Oct 1902 courthouse-fire paragraph; n/a as covering 1902.
+  Ohio GT: 1856 + Stephens + news (1903+); Embry FAN 1832-1901; USGW surname
+    files (Griffith/Morgan/Wells ranges ending 1902 are surname spans, not year).
+  Daviess GT 1815-1865 + news 1928+; kygenweb Soundex FAN files; no 1902 table.
+  McLean GT 1854-1857 + announcements 1860/1911.
+  Logan GT 1862 only; kygenweb vitals marriages 1802-1805.
+  Warren GT 1840-1847 / various (no 1902) / news 1901 and 1907, no 1902.
+  Barren GT thru 1850. Caldwell GT 1809-1828. Lincoln GT marriages.html
+    reconfirmed through 1901, 0 in 1902 (already C1093 class).
+  Todd/Simpson/Christian/Webster landings remaining n/a as covering 1902.
+  Magoffin marr_groom.html / marr_bride.html HTTP 404.
+  Graves kygenweb landing 1,528 bytes empty of marriage tables.
+  IA title searches numFound 0: Muhlenberg County Kentucky marriages;
+    Magoffin+marriages+1860/1910/Gardner; Allen County Kentucky marriages.
+  Recarta Lexington viewer timeout 25s (JS). WorldCat/FS 1798-1902 book still
+    unopened as a scan.
+
+License still unseen. Do not close B063.
