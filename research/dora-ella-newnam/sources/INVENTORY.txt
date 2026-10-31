@@ -963,3 +963,98 @@ research/dora-ella-newnam/sources/soundex/il1900-s415-n3907-peter-lillie-8.jpg
   format: JPEG Soundex card, IA soundex1900il401 n3907 rotate -90
 research/dora-ella-newnam/sources/soundex/b007-pass94-1900-ky-ar-il-tn-s415-charles-robert-2026-10-31.txt
   format: Pass 94 KY/AR/IL/TN S-415 Charles–Robert search log
+research/dora-ella-newnam/sources/soundex/in1900-s415-n0790-andy-42-nc.jpg
+  sha256: 4819971f171e4c9457911857d66db10d290cac11be86c1f65d352447d933b8c7
+  format: JPEG Soundex card, IA soundex1900in208 n0790
+research/dora-ella-newnam/sources/soundex/in1900-s415-n0791-andy-laura-1.jpg
+  sha256: 625613eb567cef0c8b764093b296c84fde5874d875cda621a789a5279d51a43e
+  format: JPEG Soundex card, IA soundex1900in208 n0791
+research/dora-ella-newnam/sources/soundex/in1900-s415-n1086-henry-36-iowa-nellie-1.jpg
+  sha256: a94649a7e896d7a2eaf5c5b7d58c94efc92342047006cd89a0d5906709813fea
+  format: JPEG Soundex card, IA soundex1900in208 n1086
+research/dora-ella-newnam/sources/soundex/in1900-s415-n1101-hezekiah-34-in-gail-1.jpg
+  sha256: acbec5e263d6d99f3a202bd4da22d7291c46e0537126cd1f074b41ada1a0be2f
+  format: JPEG Soundex card, IA soundex1900in208 n1101
+research/dora-ella-newnam/sources/soundex/in1900-s415-n1108-hymelus-viola-e-20.jpg
+  sha256: 20228ce09c11b2b5b2511cf43eb73658143de3e16f9b02d85676964c64c2e850
+  format: JPEG Soundex card, IA soundex1900in208 n1108
+research/dora-ella-newnam/sources/soundex/in1900-s415-n1654-richardh-34-in-violaa.jpg
+  sha256: 4376c35fded40e3aba3177ffb535633b17cafcec9fdf3a2dbd40f230f0d8ab40
+  format: JPEG Soundex card, IA soundex1900in208 n1654
+research/dora-ella-newnam/sources/soundex/in1900-s415-n1677-samueld-39-in-ruby-1.jpg
+  sha256: 39aea9e95bf246f1a88b7fca1d761cc7b202559a666f3a6957009de5a564976f
+  format: JPEG Soundex card, IA soundex1900in208 n1677
+research/dora-ella-newnam/sources/soundex/in1900-s415-n1678-samuele-28-il-opal.jpg
+  sha256: 9ecacd63ba3113579712364ada494028eeb6ec7f6a52cbf7a14f7238ca13b810
+  format: JPEG Soundex card, IA soundex1900in208 n1678
+research/dora-ella-newnam/sources/soundex/mo1900-s415-n3381-huel-26-in-burnie-2.jpg
+  sha256: d249c80c038f4731a0f919c35340fb00587d56f5e759dbc5df5b238cbcdbb8ee
+  format: JPEG Soundex card, IA soundex1900mo248 n3381
+research/dora-ella-newnam/sources/soundex/mo1900-s415-n0005-randolphv-letab-6.jpg
+  sha256: f3258e1217504a7e28061c1670a7d627291628241400d48c29c46cfdce6c3d35
+  format: JPEG Soundex card, IA soundex1900mo249 n0005
+research/dora-ella-newnam/sources/soundex/mo1900-s415-n0043-samf-lorance-bollinger.jpg
+  sha256: eb3bae69c383bb19c00f51165548a98378fe9e4ba2c72ff268ea16828c14c899
+  format: JPEG Soundex card, IA soundex1900mo249 n0043
+research/dora-ella-newnam/sources/soundex/mo1900-s415-n0053-sarahe-liberty-bollinger.jpg
+  sha256: 7a78df65a387f407f453ecd5114622ab0ee88ad990eaca51b8e1d57debaf851b
+  format: JPEG Soundex card, IA soundex1900mo249 n0053
+research/dora-ella-newnam/sources/soundex/mo1900-s415-n3342-harryl-34-in-merle.jpg
+  sha256: 0256ef575e949102cfc40598194cc03e457f81c655ff8c9e5bc8f02bb690c4f7
+  format: JPEG Soundex card, IA soundex1900mo248 n3342
+research/dora-ella-newnam/sources/soundex/mo1900-s415-n3395-ja-crooked-creek.jpg
+  sha256: d6e9551a3f3d78a0340b9b706d7f23c41e32ddfa1f6e7cb079c273def1f809a2
+  format: JPEG Soundex card, IA soundex1900mo248 n3395
+research/dora-ella-newnam/sources/soundex/mo1900-s415-n3397-jh-lola-3.jpg
+  sha256: 0e79b4f704b67464ed3e7c2c80c8f899d56b457e6a9d8fd5d033b57bf138756e
+  format: JPEG Soundex card, IA soundex1900mo248 n3397
+research/dora-ella-newnam/sources/soundex/ky1900-s415-n2734-jm-37-in-chasr-11.jpg
+  sha256: 1686519b102158c13f7a4184d7d0f8073cb49530846533e81f93d385a9664d7c
+  format: JPEG Soundex card, IA soundex1900ky161 n2734
+research/dora-ella-newnam/sources/soundex/ky1900-s415-n3117-richardc-tellie-4.jpg
+  sha256: 203a7f5bd8b2df14f501898263f159cd39a0e9b6abc901056f4abc3d898b41ab
+  format: JPEG Soundex card, IA soundex1900ky161 n3117
+research/dora-ella-newnam/sources/soundex/ky1900-s415-n3102-pettief-loveya.jpg
+  sha256: 1517ec879555365a05896d09064024b3925cf01ff21e1446c760d197c2ed8382
+  format: JPEG Soundex card, IA soundex1900ky161 n3102
+research/dora-ella-newnam/sources/soundex/ky1900-s415-n2586-davidl-lizzie-in.jpg
+  sha256: f35afcaa76e237a39397d80d9bfa3d5317a5bf3c20a8e4673784e66fc47fc10d
+  format: JPEG Soundex card, IA soundex1900ky161 n2586
+research/dora-ella-newnam/sources/soundex/ar1900-s415-n2414-andy-dixiea-1.jpg
+  sha256: d8005f768570f8a9dbd2c7049391afc770b5808678fb2f71a4ec2e32ea3535a1
+  format: JPEG Soundex card, IA soundex1900ar107 n2414
+research/dora-ella-newnam/sources/soundex/ar1900-s415-n2774-samuel-ula-3.jpg
+  sha256: 2f262b5c1c017b316e1e4a32d0c1ab37118677286ab2b665b44ba4162f56c991
+  format: JPEG Soundex card, IA soundex1900ar107 n2774
+research/dora-ella-newnam/sources/soundex/ar1900-s415-n2526-glenn-eula-1.jpg
+  sha256: 6c7f7ca07d86b4a020d65686fbdff03b0a2dcacda593af43af1c72238b598642
+  format: JPEG Soundex card, IA soundex1900ar107 n2526
+research/dora-ella-newnam/sources/soundex/il1900-s415-n2322-henrya-32-in-dorothyl-1.jpg
+  sha256: 5db5fd615ed213c7634ca4b89f284dc77131afe6123569203449e1080451415f
+  format: JPEG Soundex card, IA soundex1900il401 n2322 rotate -90
+research/dora-ella-newnam/sources/soundex/il1900-s415-n1400-af-42-in-adults.jpg
+  sha256: f280985bf935448f88d524147d7ae2b49cf037b6190990e7298d8becb7bc68d8
+  format: JPEG Soundex card, IA soundex1900il401 n1400 rotate -90
+research/dora-ella-newnam/sources/soundex/il1900-s415-n3944-richard-25-in-bil.jpg
+  sha256: 687324ad95e59f3a0483772311abfaed8db636d1bed23efb1b4b0384639d5a05
+  format: JPEG Soundex card, IA soundex1900il401 n3944 rotate -90
+research/dora-ella-newnam/sources/soundex/tn1900-s415-n0337-rufus-linnie-1.jpg
+  sha256: 42a3e5068f58858835aea5d71751bee2144baec39649fb948b2c4769b2dca309
+  format: JPEG Soundex card, IA soundex1900tn154 n0337
+research/dora-ella-newnam/sources/soundex/tn1900-s415-n3936-henry-rosiel-5-12.jpg
+  sha256: 386f98108a9841dedd4ad902898ee629194b31e1298947e21feaceca8d855aad
+  format: JPEG Soundex card, IA soundex1900tn153 n3936
+research/dora-ella-newnam/sources/soundex/tn1900-s415-n3825-davidj-orab-1.jpg
+  sha256: 7a213f773fa88cee3810a058da159a2b68c857e468167db371cb1fa33621c68a
+  format: JPEG Soundex card, IA soundex1900tn153 n3825
+research/dora-ella-newnam/sources/soundex/tn1900-s415-n3940-henry-wanda-1.jpg
+  sha256: 7a151063123ab22324599f225b48e6bd51b4855b5bd7e2fb36208270e1201f9d
+  format: JPEG Soundex card, IA soundex1900tn153 n3940
+research/dora-ella-newnam/sources/soundex/tn1900-s415-n0348-samuele-josiel-4.jpg
+  sha256: 62b33ce86a8064894c7bd6f0a8092f2186e0cbbe98285dbdb65facb9f4fa4ba8
+  format: JPEG Soundex card, IA soundex1900tn154 n0348
+research/dora-ella-newnam/sources/soundex/tn1900-s415-n3726-andrewj-noname-2-12.jpg
+  sha256: 98e052e5a03697933d4080856bfd051686aaa122011859cce7aa771ec5d0f72c
+  format: JPEG Soundex card, IA soundex1900tn153 n3726
+research/dora-ella-newnam/sources/soundex/b007-pass95-1900-in-mo-ky-ar-il-tn-s415-andrew-samuel-2026-10-31.txt
+  format: Pass 95 IN/MO/KY/AR/IL/TN S-415 Andrew–Samuel search log

@@ -1,0 +1,80 @@
+Pass 95 — 1900 S-415 Andrew / David / Henry / Richard / Samuel
+IN / MO / KY / AR / IL / TN family-section walks
+Date: 31 Oct 2026 (America/New_York)
+Target: C244 1910 Letha Sullivan, 12, nurse, Jesse Conrad hh, Liberty Twp, Bollinger Co. MO. Father reported Indiana-born. A ~0–2 child in 1900 sits on a parent card.
+
+Hunt: Letha / Letta / Lethia / Lettie / Litha / Viola / Lottie / Leta
+Also: every toddler girl ~0–3; every IN-father; MO nativity; Bollinger.
+
+Method: IA BookReader page JPEGs inverted (IL il401 rotate −90; il402 rotate 0). Every-card family-section crops at top_frac 0.72; parent rebuilt 0.88 when last lines were at risk. Visual paleography; no tesseract as authority.
+IN: parent every-card fam88 read. [Read IN Pass 95 sheets](bc-1276bf4a-143b-54bc-9596-a2f03179eeb2) still running at write.
+MO report: /tmp/p95/mo-read.md  [Read MO Pass 95 sheets](bc-3c0f3c37-db8b-5e8f-bc53-b1697402b7f5)
+KY report: /tmp/p95/ky-read.md  [Read KY Pass 95 sheets](bc-180369e3-cead-5aac-9603-7cdadc648c56)
+AR report: /tmp/p95/ar-read.md  [Read AR Pass 95 sheets](bc-91400011-fd90-55b5-9cdf-047dc0761d20)
+IL report: /tmp/p95/il-read.md  [Read IL Pass 95 sheets](bc-c3a7e2a4-f859-59f3-86ea-d92ae36bf1d3)
+TN report: /tmp/p95/tn-read.md  [Read TN Pass 95 sheets](bc-769b7b0e-4503-59c4-a1cc-419c19b0f29c)
+
+Band edges (image seen)
+IN soundex1900in208 rot 0:
+  Andrew/Andy n0785–0796 (Andy n0790 Un 1858 42 NC)
+  David n0918–0943 (after Daniel n0917; Edward n0944)
+  Henry n1048–1139 (after George n1047; James leftover from n1122)
+  Richard n1640–1658 (after Peter n1639; Robert n1659)
+  Samuel n1668–1709 (after Robert n1667; Thomas n1710)
+MO soundex1900mo248 + mo249 rot 0:
+  Andrew n2970–2976 (Andrew J n2972)
+  David n3142–3184 (David n3142; Edward n3185)
+  Henry n3321–3405 (H-tab n3325; James n3406)
+  Richard mo249 n0001–0019 (Richard L n0018; Robert n0021)
+  Samuel mo249 n0038–0057 (Sam n0042; Seth n0058)
+KY soundex1900ky161 rot 0:
+  Andrew n2460–2478 (Slavens Andrew n2468; Andrew n2470)
+  David n2581–2607 (after Daniel; Edward n2608)
+  Henry n2689–2739 (after George; James n2740; J.M. n2734 is J-initial leftover)
+  Richard n3101–3118 (after Peter n3100; Robert n3119)
+  Samuel n3131–3178 (after Robert; Thomas n3179)
+AR soundex1900ar107 rot 0:
+  Andrew/Andy n2410–2418 (Andrew n2412; Andy n2414)
+  David n2458–2467 (after Daniel n2457; Edward n2468)
+  Henry n2523–2563 (after George n2522; James n2564)
+  Richard ABSENT (Richie n2761 nearest; Robert n2764)
+  Samuel n2774–2776 (after Robert; Thomas n2788)
+TN soundex1900tn153 + tn154 rot 0:
+  Andrew n3718–3738 (Andrew B n3721; Andrew J n3726)
+  David n3822–3839 (after Daniel; Edward n3840)
+  Henry n3934–3947 (Henry n3936–3945; Ira n3951)
+  Richard tn154 n0311–0325 (after Peter n0310; Robert n0326)
+  Samuel tn154 n0334–0367 (after Robert; Thomas n0368)
+IL soundex1900il401 rot −90 + il402 rot 0:
+  Andrew n1456–1464 (Andrew/Andrew J n1457–1463)
+  A.F. context n1400 (Mar 1857 42 IN, Macon Whitmore; adults only)
+  David ABSENT (Edith n1992 → Edward tab n1994)
+  Henry n2260–2390 (first Harry n2289 / first Henry n2301 / last Henry L n2329)
+  Richard n3933–3960 (after Prudence n3932; Robert n3961)
+  Samuel n3997–4067 (Samuel only n3999–4000 then Sarah–Thomas)
+
+Result: NIL Sullivan daughter Letha-string ~0–2 with IN-father + Bollinger on any of the six reels.
+The planned major given-name parent-card set on IN/MO/KY/AR/IL/TN is now walked.
+Do not merge any Pass 95 card with C244 (Hard Rule 3).
+
+Closest near-hits (all rejected):
+  IN n0790–0791 Andy 42 NC + Laura 1 IN (Henry Co. Wayne)
+  IN n1677 Samuel D 39 IN + Ruby 1 IN (Clark Charlestown)
+  IN n1101 Hezekiah 34 IN + Gail 1 IN (Marshall Plymouth)
+  IN n1654 Richard H 34 IN + wife Viola A 37 TN (no toddler)
+  IN n1108 Hymelus 57 IN + Viola E 20 IN (adult)
+  MO n3381 Hue L 26 IN + Burnie/Bernie 2 MO (Shannon Winona)
+  MO n0005 Randolph V 65 KY + Leta B GD 6 MO (Monroe)
+  MO n0043 Sam F 39 MO sons-only (Bollinger Lorance / Lutesville)
+  MO n0053 Sarah E 19 Moore daughter (Bollinger Liberty Twp)
+  MO n3395 J.A. 43 MO sons (Bollinger Crooked Creek)
+  KY n2734 J.M. 37 IN + Chas R 11 MO (Kenton Covington)
+  KY n3117 Richard C 30 KY + Tellie G 4 (flat-top T, not Lettie)
+  AR n2413–2414 Andy 61 MS + Dixie A 1 AR (Yell Ward; color B)
+  AR n2774 Samuel 37 TN + Ula 3 / Ava 5 (Van Buren Culpepper)
+  IL n2322 Henry A 32 IN + Dorothy L 1 IL (Vermilion Jamaica)
+  IL n1400 A.F. 42 IN adults only (Macon Whitmore)
+  TN n0337 Rufus 35 TN + Linnie 1 (Haywood)
+  TN n3936 Sullivant Henry 27 TN + Rosie L 5/12 (Haywood)
+
+Vicee 9/12 Bollinger Lorance (C528) remains the only Bollinger S-415 Letha-adjacent card besides Daniel 54 Ireland Wayne FAN (C554) and Pass 95 Bollinger Sam F / Sarah E / J.A. (no Letha).

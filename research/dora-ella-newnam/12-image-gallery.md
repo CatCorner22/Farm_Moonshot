@@ -217,6 +217,22 @@ Diplomatic transcriptions: [`08-transcriptions.md`](08-transcriptions.md). Citat
 | 242 | 1900 (index) | Context | [Illinois S-415 — Charles, 27, Indiana, Chicago Heights boarder](sources/soundex/il1900-s415-n1660-charles-27-in-boarder.jpg) |
 | 243 | 1900 (index) | Rejected same-name | [Tennessee S-415 — Charles, 47, Virginia, Nashville; Eddie, 14, Indiana; not C244](sources/soundex/tn1900-s415-n3783-charles-va-mo-in.jpg) |
 | 244 | 1900 (index) | Rejected same-name | [Illinois S-415 — Josephine, 3, Chicago cousin; not C244](sources/soundex/il1900-s415-n3074-josephine-3-cousin.jpg) |
+| 245 | 1900 (index) | Rejected same-name | [Indiana S-415 — Andy, 42, North Carolina; Laura, 1; not C244](sources/soundex/in1900-s415-n0791-andy-laura-1.jpg) |
+| 246 | 1900 (index) | Rejected same-name | [Indiana S-415 — Samuel D., 39, Indiana, Charlestown; Ruby, 1; not C244](sources/soundex/in1900-s415-n1677-samueld-39-in-ruby-1.jpg) |
+| 247 | 1900 (index) | Rejected same-name | [Indiana S-415 — Hezekiah, 34, Indiana, Plymouth; Gail, 1; not C244](sources/soundex/in1900-s415-n1101-hezekiah-34-in-gail-1.jpg) |
+| 248 | 1900 (index) | Rejected same-name | [Indiana S-415 — Richard H., 34, Indiana; wife Viola A., 37; not C244](sources/soundex/in1900-s415-n1654-richardh-34-in-violaa.jpg) |
+| 249 | 1900 (index) | Rejected same-name | [Missouri S-415 — Hue L., 26, Indiana, Winona; Burnie, 2; not C244](sources/soundex/mo1900-s415-n3381-huel-26-in-burnie-2.jpg) |
+| 250 | 1900 (index) | Rejected same-name | [Missouri S-415 — Randolph V.; Leta B., granddaughter, 6; not C244](sources/soundex/mo1900-s415-n0005-randolphv-letab-6.jpg) |
+| 251 | 1900 (index) | Context | [Missouri S-415 — Sam F., 39, Bollinger Lorance; sons only](sources/soundex/mo1900-s415-n0043-samf-lorance-bollinger.jpg) |
+| 252 | 1900 (index) | Context | [Missouri S-415 — Sarah E., 19, Bollinger Liberty, Moore daughter](sources/soundex/mo1900-s415-n0053-sarahe-liberty-bollinger.jpg) |
+| 253 | 1900 (index) | Rejected same-name | [Kentucky S-415 — J.M., 37, Indiana, Covington; Chas R., 11; not C244](sources/soundex/ky1900-s415-n2734-jm-37-in-chasr-11.jpg) |
+| 254 | 1900 (index) | Rejected same-name | [Kentucky S-415 — Richard C.; Tellie G., 4; not Lettie](sources/soundex/ky1900-s415-n3117-richardc-tellie-4.jpg) |
+| 255 | 1900 (index) | Rejected same-name | [Arkansas S-415 — Andy, 61, Mississippi, Yell Ward; Dixie A., 1; not C244](sources/soundex/ar1900-s415-n2414-andy-dixiea-1.jpg) |
+| 256 | 1900 (index) | Rejected same-name | [Arkansas S-415 — Samuel, 37, Tennessee; Ula, 3; not C244](sources/soundex/ar1900-s415-n2774-samuel-ula-3.jpg) |
+| 257 | 1900 (index) | Rejected same-name | [Illinois S-415 — Henry A., 32, Indiana, Jamaica; Dorothy L., 1; not C244](sources/soundex/il1900-s415-n2322-henrya-32-in-dorothyl-1.jpg) |
+| 258 | 1900 (index) | Context | [Illinois S-415 — A.F., 42, Indiana, Whitmore; adults only](sources/soundex/il1900-s415-n1400-af-42-in-adults.jpg) |
+| 259 | 1900 (index) | Rejected same-name | [Tennessee S-415 — Rufus, Haywood; Linnie, 1; not C244](sources/soundex/tn1900-s415-n0337-rufus-linnie-1.jpg) |
+| 260 | 1900 (index) | Rejected same-name | [Tennessee S-415 — Sullivant, Henry, Haywood; Rosie L., 5/12; not C244](sources/soundex/tn1900-s415-n3936-henry-rosiel-5-12.jpg) |
 | 123 | 1900 (index) | Context | [Texas C-563 — J-tab divider](sources/soundex/tx1900-c563-p1-j-divider.jpg) |
 | 17 | Apr 1910 | Negative search | [Kentucky N-550 — Millie / Missouri; no McCoy](sources/soundex/ky1910-n550-p329-millie-missouri.jpg) |
 | 18 | Apr 1910 | Negative search | [Kentucky N-550 — Monroe; still no McCoy](sources/soundex/ky1910-n550-p330-monroe-no-mccoy.jpg) |
@@ -2255,6 +2271,166 @@ White head, September 1852, age 47, born Virginia, Davidson County, Nashville, N
 White individual, June 1896, age 3, born Illinois, Cook County, Chicago, 43rd 731. Enumerated with McCarthy, Edward J., as cousin. Diplomatic Josephine. Not a Letha-string child on a Sullivan head card. Rejected as C244.
 
 ![Illinois S-415 — Josephine, 3, Chicago cousin; not C244](sources/soundex/il1900-s415-n3074-josephine-3-cousin.jpg)
+
+### 245 · 1900 (index) · Indiana S-415 — Andy, 42, North Carolina; Laura, 1; not C244
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/in1900-s415-n0791-andy-laura-1.jpg`](sources/soundex/in1900-s415-n0791-andy-laura-1.jpg)  
+**Source:** S383 · C661
+
+White head, May 1858, age 42, born North Carolina, Henry County, Wayne Township. Wife Isabelle, 36, North Carolina. Continuation adds Chas, 4, and Laura, January 1899, age 1, Indiana. Diplomatic Laura (L-a-u-r-a). Father North Carolina versus the 1910 Liberty nurse’s father Indiana. Rejected as C244.
+
+![Indiana S-415 — Andy, 42, North Carolina; Laura, 1; not C244](sources/soundex/in1900-s415-n0791-andy-laura-1.jpg)
+
+### 246 · 1900 (index) · Indiana S-415 — Samuel D., 39, Indiana, Charlestown; Ruby, 1; not C244
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/in1900-s415-n1677-samueld-39-in-ruby-1.jpg`](sources/soundex/in1900-s415-n1677-samueld-39-in-ruby-1.jpg)  
+**Source:** S383 · C666
+
+White head, February 1861, age 39, born Indiana, Clark County, Charlestown Township. Wife Everlyn, 30, Indiana. Daughters Ethel, 6, and Ruby, May 1899, age 1, Indiana. Diplomatic Ruby. Closest Indiana Samuel Indiana-father plus girl about age 1. Clark County, not Bollinger. Rejected as C244.
+
+![Indiana S-415 — Samuel D., 39, Indiana, Charlestown; Ruby, 1; not C244](sources/soundex/in1900-s415-n1677-samueld-39-in-ruby-1.jpg)
+
+### 247 · 1900 (index) · Indiana S-415 — Hezekiah, 34, Indiana, Plymouth; Gail, 1; not C244
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/in1900-s415-n1101-hezekiah-34-in-gail-1.jpg`](sources/soundex/in1900-s415-n1101-hezekiah-34-in-gail-1.jpg)  
+**Source:** S383 · C663
+
+White head, August 1865, age 34, born Indiana, Marshall County, Plymouth. Wife Cora R., 24, Indiana. Sons Harry, 8, Howard, 6, George, 4; daughter Gail, October 1898, age 1, Indiana. Diplomatic Gail. Rejected as C244.
+
+![Indiana S-415 — Hezekiah, 34, Indiana, Plymouth; Gail, 1; not C244](sources/soundex/in1900-s415-n1101-hezekiah-34-in-gail-1.jpg)
+
+### 248 · 1900 (index) · Indiana S-415 — Richard H., 34, Indiana; wife Viola A., 37; not C244
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/in1900-s415-n1654-richardh-34-in-violaa.jpg`](sources/soundex/in1900-s415-n1654-richardh-34-in-violaa.jpg)  
+**Source:** S383 · C665
+
+White head, November 1865, age 34, born Indiana, Marion County, Indianapolis. Wife Viola A., May 1863, age 37, Tennessee. Son Ralph H., 7, Indiana. Diplomatic Viola A. Adult wife, not a toddler. Rejected as C244.
+
+![Indiana S-415 — Richard H., 34, Indiana; wife Viola A., 37; not C244](sources/soundex/in1900-s415-n1654-richardh-34-in-violaa.jpg)
+
+### 249 · 1900 (index) · Missouri S-415 — Hue L., 26, Indiana, Winona; Burnie, 2; not C244
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/mo1900-s415-n3381-huel-26-in-burnie-2.jpg`](sources/soundex/mo1900-s415-n3381-huel-26-in-burnie-2.jpg)  
+**Source:** S384 · C668
+
+White head, November 1873, age 26, born Indiana, Shannon County, Winona. Wife Lydia A., 26, Indiana. Son William H., 3; daughter diplomatic Burnie or Bernie, March 1898, age 2, Missouri. First letter B, not L. Only Missouri Indiana-father plus girl about age 2 in this walk. Rejected as C244.
+
+![Missouri S-415 — Hue L., 26, Indiana, Winona; Burnie, 2; not C244](sources/soundex/mo1900-s415-n3381-huel-26-in-burnie-2.jpg)
+
+### 250 · 1900 (index) · Missouri S-415 — Randolph V.; Leta B., granddaughter, 6; not C244
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/mo1900-s415-n0005-randolphv-letab-6.jpg`](sources/soundex/mo1900-s415-n0005-randolphv-letab-6.jpg)  
+**Source:** S384 · C669
+
+White head, November 1834, age 65, born Kentucky, Monroe County, Monroe Township. Granddaughter Leta B., August 1893, age 6, Missouri; grandson Rex Verd., January 1897, age 3. Diplomatic Leta B. Age 6 versus about 2. Kentucky grandfather. Rejected as C244.
+
+![Missouri S-415 — Randolph V.; Leta B., granddaughter, 6; not C244](sources/soundex/mo1900-s415-n0005-randolphv-letab-6.jpg)
+
+### 251 · 1900 (index) · Missouri S-415 — Sam F., 39, Bollinger Lorance; sons only
+
+**Role:** Context  
+**File:** [`sources/soundex/mo1900-s415-n0043-samf-lorance-bollinger.jpg`](sources/soundex/mo1900-s415-n0043-samf-lorance-bollinger.jpg)  
+**Source:** S384 · C670
+
+White head, January 1861, age 39, born Missouri, Bollinger County, Lorance Township, Lutesville, volume 7, ED 7, sheet 1, line 23. Wife Rosina, 32. Sons William L., 6, Edward F., 4, and Johnie M., November 1898, age 1. No daughter. Bollinger FAN only; Letha is not on this card.
+
+![Missouri S-415 — Sam F., 39, Bollinger Lorance; sons only](sources/soundex/mo1900-s415-n0043-samf-lorance-bollinger.jpg)
+
+### 252 · 1900 (index) · Missouri S-415 — Sarah E., 19, Bollinger Liberty, Moore daughter
+
+**Role:** Context  
+**File:** [`sources/soundex/mo1900-s415-n0053-sarahe-liberty-bollinger.jpg`](sources/soundex/mo1900-s415-n0053-sarahe-liberty-bollinger.jpg)  
+**Source:** S384 · C671
+
+White individual, February 1881, age 19, born Missouri, Bollinger County, Liberty Township, volume 7, ED 5, sheet 10, line 24. Enumerated with Moore, Joseph, as daughter. Adult. Liberty Township is on the reel; Letha is not on this card.
+
+![Missouri S-415 — Sarah E., 19, Bollinger Liberty, Moore daughter](sources/soundex/mo1900-s415-n0053-sarahe-liberty-bollinger.jpg)
+
+### 253 · 1900 (index) · Kentucky S-415 — J.M., 37, Indiana, Covington; Chas R., 11; not C244
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/ky1900-s415-n2734-jm-37-in-chasr-11.jpg`](sources/soundex/ky1900-s415-n2734-jm-37-in-chasr-11.jpg)  
+**Source:** S385 · C675
+
+White head, December 1862, age 37, born Indiana, Kenton County, Covington, Garrard 540. Wife Laura H., 32, Illinois. Son Chas R., October 1888, age 11, Missouri. Only Kentucky Indiana-father with children in this walk. Son only. J-initial leftover after Henry. Rejected as C244.
+
+![Kentucky S-415 — J.M., 37, Indiana, Covington; Chas R., 11; not C244](sources/soundex/ky1900-s415-n2734-jm-37-in-chasr-11.jpg)
+
+### 254 · 1900 (index) · Kentucky S-415 — Richard C.; Tellie G., 4; not Lettie
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/ky1900-s415-n3117-richardc-tellie-4.jpg`](sources/soundex/ky1900-s415-n3117-richardc-tellie-4.jpg)  
+**Source:** S385 · C676
+
+White head, March 1870, age 30, born Kentucky, Ballard County, Wickliffe. Wife Barbara E., 27. Daughters Bertha, 7, Arminta, 5, and Tellie G., March 1896, age 4; son Richard H., August 1899, 9/12. Diplomatic Tellie G. (flat-top T), not Lettie. Deep crop. Rejected as C244.
+
+![Kentucky S-415 — Richard C.; Tellie G., 4; not Lettie](sources/soundex/ky1900-s415-n3117-richardc-tellie-4.jpg)
+
+### 255 · 1900 (index) · Arkansas S-415 — Andy, 61, Mississippi, Yell Ward; Dixie A., 1; not C244
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/ar1900-s415-n2414-andy-dixiea-1.jpg`](sources/soundex/ar1900-s415-n2414-andy-dixiea-1.jpg)  
+**Source:** S386 · C679
+
+Colored head, January 1839, age 61, born Mississippi, Yell County, Ward Township. Continuation adds Dixie A., daughter, August 1898, age 1, Arkansas. Diplomatic Dixie A. Yell FAN only. Rejected as C244.
+
+![Arkansas S-415 — Andy, 61, Mississippi, Yell Ward; Dixie A., 1; not C244](sources/soundex/ar1900-s415-n2414-andy-dixiea-1.jpg)
+
+### 256 · 1900 (index) · Arkansas S-415 — Samuel, 37, Tennessee; Ula, 3; not C244
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/ar1900-s415-n2774-samuel-ula-3.jpg`](sources/soundex/ar1900-s415-n2774-samuel-ula-3.jpg)  
+**Source:** S386 · C680
+
+White head, October 1862, age 37, born Tennessee, Van Buren County, Culpepper. Wife Nettie, 36, Tennessee. Daughters Ava, February 1895, age 5, and Ula, January 1897, age 3. Diplomatic Ula (U-l-a). Rejected as C244.
+
+![Arkansas S-415 — Samuel, 37, Tennessee; Ula, 3; not C244](sources/soundex/ar1900-s415-n2774-samuel-ula-3.jpg)
+
+### 257 · 1900 (index) · Illinois S-415 — Henry A., 32, Indiana, Jamaica; Dorothy L., 1; not C244
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/il1900-s415-n2322-henrya-32-in-dorothyl-1.jpg`](sources/soundex/il1900-s415-n2322-henrya-32-in-dorothyl-1.jpg)  
+**Source:** S387 · C682
+
+White head, August 1867, age 32, born Indiana, Vermilion County, Jamaica Township, volume 152, ED 85, sheet 2, line 49. Wife Lillie M., 30, Illinois. Sons George D., 4, and Harold A., 2; daughter Dorothy L., May 1899, age 1, Illinois. Mother Electra Stearns, 52, Indiana. Diplomatic Dorothy L. Closest Illinois Indiana-father plus girl about age 1 in this walk. Rejected as C244.
+
+![Illinois S-415 — Henry A., 32, Indiana, Jamaica; Dorothy L., 1; not C244](sources/soundex/il1900-s415-n2322-henrya-32-in-dorothyl-1.jpg)
+
+### 258 · 1900 (index) · Illinois S-415 — A.F., 42, Indiana, Whitmore; adults only
+
+**Role:** Context  
+**File:** [`sources/soundex/il1900-s415-n1400-af-42-in-adults.jpg`](sources/soundex/il1900-s415-n1400-af-42-in-adults.jpg)  
+**Source:** S387 · C684
+
+White head, March 1857, age 42, born Indiana, Macon County, Whitmore. Wife Mary E., 42, Indiana. Children Jinnie, 22, Iva, 20, Lillie I., 17, and John, 15. No toddler. Indiana nativity near-hit; keep separate from C244.
+
+![Illinois S-415 — A.F., 42, Indiana, Whitmore; adults only](sources/soundex/il1900-s415-n1400-af-42-in-adults.jpg)
+
+### 259 · 1900 (index) · Tennessee S-415 — Rufus, Haywood; Linnie, 1; not C244
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/tn1900-s415-n0337-rufus-linnie-1.jpg`](sources/soundex/tn1900-s415-n0337-rufus-linnie-1.jpg)  
+**Source:** S388 · C685
+
+White head, August 1864, age 35, born Tennessee, Haywood County, 16th Civil District. Wife Catherine, 32. Son Herbert, 5; daughters Lillie, 3, and Linnie, February 1899, age 1. Diplomatic Linnie (L plus n-humps). Father Tennessee. Rejected as C244.
+
+![Tennessee S-415 — Rufus, Haywood; Linnie, 1; not C244](sources/soundex/tn1900-s415-n0337-rufus-linnie-1.jpg)
+
+### 260 · 1900 (index) · Tennessee S-415 — Sullivant, Henry, Haywood; Rosie L., 5/12; not C244
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/tn1900-s415-n3936-henry-rosiel-5-12.jpg`](sources/soundex/tn1900-s415-n3936-henry-rosiel-5-12.jpg)  
+**Source:** S388 · C686
+
+White head, August 1872, age 27, born Tennessee, Haywood County, 12th Civil District. Terminal t on Sullivant. Wife Ophelia, 23. Daughter Rosie L., December 1899, age 5/12. Diplomatic Rosie L. Father Tennessee. Rejected as C244.
+
+![Tennessee S-415 — Sullivant, Henry, Haywood; Rosie L., 5/12; not C244](sources/soundex/tn1900-s415-n3936-henry-rosiel-5-12.jpg)
 
 ### 123 · 1900 (index) · Texas C-563 — J-tab divider
 

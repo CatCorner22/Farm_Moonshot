@@ -2218,5 +2218,167 @@ Family grid unused. → **C623**.
 
 Diplomatic **Marry B**. Closest IL IN-father + girl ~1. → **C625**.
 
+## DOC176 — 1900 IN Soundex S-415, Andy 42 N Carolina; Laura 1
+- Image: `sources/soundex/in1900-s415-n0790-andy-42-nc.jpg` SHA-256 `4819971f171e4c9457911857d66db10d290cac11be86c1f65d352447d933b8c7`
+- Continuation: `sources/soundex/in1900-s415-n0791-andy-laura-1.jpg` SHA-256 `625613eb567cef0c8b764093b296c84fde5874d875cda621a789a5279d51a43e`
+- Reel: IA `soundex1900in208` n**0790–0791**
+
+### Diplomatic
+> **S415 Sullivan, Andy** — Head · vol **29** ED **76** sh **6** ln **25** · W May **1858** **42** N Carolina · Henry / Wayne Twp
+> **Isabelle** W July **1863** **36** N Carolina; **Rica** D Sept **1881** **18** Indiana; **Joseph** S Aug **1887** **12**; **May** D May **1890** **10**; **William** S Apr **1893** **7**
+> Continuation: **Chas** S Feb **1896** **4** Indiana; **Laura** D Jan **1899** **1** Indiana
+
+Diplomatic **Laura** (L-a-u-r-a). → **C661**.
+
+## DOC177 — 1900 IN Soundex S-415, Samuel D 39 Indiana; Ruby 1
+- Image: `sources/soundex/in1900-s415-n1677-samueld-39-in-ruby-1.jpg` SHA-256 `39aea9e95bf246f1a88b7fca1d761cc7b202559a666f3a6957009de5a564976f`
+- Reel: IA `soundex1900in208` n**1677**
+
+### Diplomatic
+> **S415 Sullivan, Samuel D** — Head · Clark / Charlestown Twp · W Feb **1861** **39** Indiana
+> **Everlyn** W Nov **1869** **30** Indiana; **Ethel** D Nov **1893** **6** Indiana; **Ruby** D May **1899** **1** Indiana
+
+Diplomatic **Ruby**. Closest IN Samuel IN-father + girl ~0–2. → **C666**.
+
+## DOC178 — 1900 IN Soundex S-415, Hezekiah 34 Indiana; Gail 1
+- Image: `sources/soundex/in1900-s415-n1101-hezekiah-34-in-gail-1.jpg` SHA-256 `acbec5e263d6d99f3a202bd4da22d7291c46e0537126cd1f074b41ada1a0be2f`
+- Reel: IA `soundex1900in208` n**1101**
+
+### Diplomatic
+> **S415 Sullivan, Hezekiah** — Head · Marshall / Plymouth · W Aug **1865** **34** Indiana
+> **Cora R** W Apr **1875** **24** Indiana; **Harry** S Jan **1892** **8**; **Howard** S Dec **1893** **6**; **George** S Sept **1895** **4**; **Gail** D Oct **1898** **1** Indiana
+
+Diplomatic **Gail**. → **C663**.
+
+## DOC179 — 1900 IN Soundex S-415, Richard H 34 Indiana; wife Viola A 37
+- Image: `sources/soundex/in1900-s415-n1654-richardh-34-in-violaa.jpg` SHA-256 `4376c35fded40e3aba3177ffb535633b17cafcec9fdf3a2dbd40f230f0d8ab40`
+- Reel: IA `soundex1900in208` n**1654**
+
+### Diplomatic
+> **S415 Sullivan, Richard H** — Head · Marion / Center Twp / Indianapolis · W Nov **1865** **34** Indiana
+> **Viola A** W May **1863** **37** Tennessee; **Ralph H** S June **1892** **7** Indiana
+
+Diplomatic **Viola A**. Adult wife. → **C665**.
+
+## DOC180 — 1900 MO Soundex S-415, Hue L 26 Indiana; Burnie 2
+- Image: `sources/soundex/mo1900-s415-n3381-huel-26-in-burnie-2.jpg` SHA-256 `d249c80c038f4731a0f919c35340fb00587d56f5e759dbc5df5b238cbcdbb8ee`
+- Reel: IA `soundex1900mo248` n**3381**
+
+### Diplomatic
+> **S415 Sullivan, Hue L** — Head · vol **106** ED **117** sh **8** ln **48** · W Nov **1873** **26** Indiana · Shannon / Winona
+> **Lydia A** W Feb **1874** **26** Indiana; **William H** S Oct **1896** **3** Missouri; **Burnie** / Bernie D Meh **1898** **2** Missouri
+
+Diplomatic **Burnie** / Bernie (B-…-r-n-i-e). Only MO IN-father + girl ~0–2 in this walk. → **C668**.
+
+## DOC181 — 1900 MO Soundex S-415, Randolph V; Leta B GD 6
+- Image: `sources/soundex/mo1900-s415-n0005-randolphv-letab-6.jpg` SHA-256 `f3258e1217504a7e28061c1670a7d627291628241400d48c29c46cfdce6c3d35`
+- Reel: IA `soundex1900mo249` n**0005**
+
+### Diplomatic
+> **S415 Sullivan, Randolph V** — Head · vol **65** ED **119** sh **1** ln **13** · W Nov **1834** **65** Kentucky · Monroe / Monroe Twp
+> **Rachel Z** W June **1842** **57** Missouri; **Evans, Kate L** D Feb **1863** **37** Missouri; **Leta B** GD Aug **1893** **6** Missouri; **Rex Verd.** GS Jan **1897** **3** Missouri
+
+Diplomatic **Leta B**. Age 6. → **C669**.
+
+## DOC182 — 1900 MO Soundex S-415, Sam F, Bollinger Lorance
+- Image: `sources/soundex/mo1900-s415-n0043-samf-lorance-bollinger.jpg` SHA-256 `eb3bae69c383bb19c00f51165548a98378fe9e4ba2c72ff268ea16828c14c899`
+- Reel: IA `soundex1900mo249` n**0043**
+
+### Diplomatic
+> **S415 Sullivan, Sam F** — Head · vol **7** ED **7** sh **1** ln **23** · W Jan **1861** **39** Missouri · Bollinger / Lorance / Lutesville
+> **Rosina** W Jan **1868** **32** Missouri; **William L** S Sept **1893** **6**; **Edward F** S Aug **1895** **4**; **Johnie M** S Nov **1898** **1** (son)
+
+Sons only. → **C670**.
+
+## DOC183 — 1900 KY Soundex S-415, J.M. 37 Indiana; Chas R 11
+- Image: `sources/soundex/ky1900-s415-n2734-jm-37-in-chasr-11.jpg` SHA-256 `1686519b102158c13f7a4184d7d0f8073cb49530846533e81f93d385a9664d7c`
+- Reel: IA `soundex1900ky161` n**2734**
+
+### Diplomatic
+> **S415 Sullivan, J.M.** — Head · vol **43** ED **52** sh **2** ln **53** · W Dec **1862** **37** Indiana · Kenton / Covington Garrard **540**
+> **Laura H** W Sept **1867** **32** Illinois; **Chas R** S Oct **1888** **11** Missouri
+
+Only KY IN-father with children in this walk. Son only. → **C675**.
+
+## DOC184 — 1900 KY Soundex S-415, Richard C; Tellie G 4
+- Image: `sources/soundex/ky1900-s415-n3117-richardc-tellie-4.jpg` SHA-256 `203a7f5bd8b2df14f501898263f159cd39a0e9b6abc901056f4abc3d898b41ab`
+- Reel: IA `soundex1900ky161` n**3117** (0.90 crop)
+
+### Diplomatic
+> **S415 Sullivan, Richard C** — Head · vol **2** ED **4** sh **18** ln **52** · W Mar **1870** **30** Kentucky · Ballard Mag Dist 3 / Wickliffe
+> **Barbara E** W May **1873** **27** Kentucky; **Bertha** D Mar **1892** **7**; **Arminta** D July **1894** **5**; **Tellie G** D Mar **1896** **4**; **Richard H** S Aug **1899** **9/12**
+
+Diplomatic **Tellie G** (flat-top **T**, not Lettie). → **C676**.
+
+## DOC185 — 1900 AR Soundex S-415, Andy 61 Mississippi; Dixie A 1
+- Image: `sources/soundex/ar1900-s415-n2414-andy-dixiea-1.jpg` SHA-256 `d8005f768570f8a9dbd2c7049391afc770b5808678fb2f71a4ec2e32ea3535a1`
+- Reel: IA `soundex1900ar107` n**2413–2414**
+
+### Diplomatic
+> **S415 Sullivan, Andy** — Head · W Jan **1839** **61** Mississippi · Yell / Ward Twp · Color B
+> **Georgia A** W Dec **1853** **46** Arkansas; **Dixie A** D Aug **1898** **1** Arkansas (continuation)
+
+Diplomatic **Dixie A**. Yell FAN. → **C679**.
+
+## DOC186 — 1900 AR Soundex S-415, Samuel 37 Tennessee; Ula 3
+- Image: `sources/soundex/ar1900-s415-n2774-samuel-ula-3.jpg` SHA-256 `2f262b5c1c017b316e1e4a32d0c1ab37118677286ab2b665b44ba4162f56c991`
+- Reel: IA `soundex1900ar107` n**2774**
+
+### Diplomatic
+> **S415 Sullivan, Samuel** — Head · vol **39** ED **138** sh **2** ln **49** · W Oct **1862** **37** Tennessee · Van Buren / Culpepper
+> **Nettie** W Aug **1863** **36** Tennessee; **Mamie** D Apr **1887** **13**; **Willie** S Mar **1889** **11**; **Ava** D Feb **1895** **5**; **Ula** D Jan **1897** **3**
+
+Diplomatic **Ula** (U-l-a). → **C680**.
+
+## DOC187 — 1900 IL Soundex S-415, Henry A 32 Indiana; Dorothy L 1
+- Image: `sources/soundex/il1900-s415-n2322-henrya-32-in-dorothyl-1.jpg` SHA-256 `5db5fd615ed213c7634ca4b89f284dc77131afe6123569203449e1080451415f`
+- Reel: IA `soundex1900il401` n**2322** rotate **-90**
+
+### Diplomatic
+> **S415 Sullivan, Henry A** — Head · vol **152** ED **85** sh **2** ln **49** · W Aug **1867** **32** Indiana · Vermilion / Jamaica Twp
+> **Lillie M** W May **1870** **30** Illinois; **George D** S Jan **1895** **4**; **Harold A** S Aug **1897** **2**; **Dorothy L** D May **1899** **1** Illinois; **Stearns, Electra** Mother Feb **1848** **52** Indiana
+
+Diplomatic **Dorothy L**. Only IL IN-father + girl ~0–2 in this walk. → **C682**.
+
+## DOC188 — 1900 IL Soundex S-415, A.F. 42 Indiana adults
+- Image: `sources/soundex/il1900-s415-n1400-af-42-in-adults.jpg` SHA-256 `f280985bf935448f88d524147d7ae2b49cf037b6190990e7298d8becb7bc68d8`
+- Reel: IA `soundex1900il401` n**1400** rotate **-90**
+
+### Diplomatic
+> **S415 Sullivan, A.F.** — Head · W Mar **1857** **42** Indiana · Macon / Whitmore
+> **Mary E** W **42** Indiana; **Jinnie** **22**; **Iva** **20**; **Lillie I** **17**; **John** **15**
+
+Adult children only. → **C684**.
+
+## DOC189 — 1900 TN Soundex S-415, Rufus; Linnie 1
+- Image: `sources/soundex/tn1900-s415-n0337-rufus-linnie-1.jpg` SHA-256 `42a3e5068f58858835aea5d71751bee2144baec39649fb948b2c4769b2dca309`
+- Reel: IA `soundex1900tn154` n**0337**
+
+### Diplomatic
+> **S415 Sullivan, Rufus** — Head · vol **58** ED **117** sh **9** ln **18** · W Aug **1864** **35** Tennessee · Haywood CD 16
+> **Catherine** W Mar **1868** **32** Tennessee; **Herbert** S Apr **1895** **5**; **Lillie** D Nov **1896** **3**; **Linnie** D Feb **1899** **1**
+
+Diplomatic **Linnie** (L + n-humps). → **C685**.
+
+## DOC190 — 1900 TN Soundex S-415, Sullivant Henry; Rosie L 5/12
+- Image: `sources/soundex/tn1900-s415-n3936-henry-rosiel-5-12.jpg` SHA-256 `386f98108a9841dedd4ad902898ee629194b31e1298947e21feaceca8d855aad`
+- Reel: IA `soundex1900tn153` n**3936**
+
+### Diplomatic
+> **S415 Sullivant, Henry** — Head · vol **31** ED **68** sh **25** ln **70** · W Aug **1872** **27** Tennessee · Haywood 12th
+> **Ophelia** **23**; **Thomas L** **6**; **Jesse R** **5** NR; **Willie B** **3** NR; **Rosie L** D Dec **1899** **5/12**
+
+Terminal *t* on Sullivant. Diplomatic **Rosie L**. → **C686**.
+
+## DOC191 — 1900 IN Soundex S-415, Hymelus; Viola E 20
+- Image: `sources/soundex/in1900-s415-n1108-hymelus-viola-e-20.jpg` SHA-256 `20228ce09c11b2b5b2511cf43eb73658143de3e16f9b02d85676964c64c2e850`
+- Reel: IA `soundex1900in208` n**1108**
+
+### Diplomatic
+> **S415 Sullivan, Hymelus H** — Head · Washington / Jackson Twp · W Sept **1843** **57** Indiana
+> **Maria** W Nov **1843** **56** Indiana; **Viola E** D Nov **1879** **20** Indiana; two further daughters **16** / **13**
+
+Diplomatic **Viola E**. Adult. → **C664**.
+
 ## DOC009 — 1910 TN Soundex N-550 McCoy window (nil)
 Handwritten family/individual cards n2461–n2469. Sequence after Mary C (n2460): Mary D 49 Jefferson (son Layton 11); Mary M 70 Hamilton; Mek. G 50 Cheatham (Florence 19, John 17, General 16, Frances 13, William 10, Doria 6, Luther 1½); Melvin 3½ Giles (gs of Deacon George W); Melvin 54 Giles (SIL of same); Minerva 80 Robertson (gds Lona Neely, Nellie Erwin); Minnie 21 Roane (with Sam P. Sparks); Mitchell 27 Hardin (Ollie P 25, Gladys 4, Burl W 3, Royal E 1 9/12). **No McCoy.** SHA-256 n2463 `23610f8aa4c159b1b554ed1786d11f57d2f56f8a2e8994f7289ae7bd02dfca53`; n2469 `340489566090880388fa6b81ca5751c5944dcaf56a7b44f70fe560788f308586`.
