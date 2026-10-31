@@ -1226,6 +1226,27 @@ PLATES: list[dict] = [
         source="S369 · C529",
     ),
     dict(
+        n=219, date="1900 (index)", year=1900, role="context",
+        path="soundex/mo1900-s415-p3202-edward-m-33-in.jpg",
+        title="Missouri S-415 — Edward M., 33, Indiana, Jasper Galena",
+        caption="White head, February 1866, age 33, born Indiana, Jasper County, Galena Township. Wife Wrea, November 1876, 23, Kansas. Children Iler 4 Colorado, Vera 1 Colorado, James 2 Indiana. Indiana-born father; no Letha-string toddler. Pass 91 Edward-band context.",
+        source="S370 · C530",
+    ),
+    dict(
+        n=220, date="1900 (index)", year=1900, role="rejected",
+        path="soundex/mo1900-s415-p3265-francis-46-in-frankie.jpg",
+        title="Missouri S-415 — Francis, 46, Indiana, Jackson; Frankie A., 2",
+        caption="White head, August 1854, age 46, born Indiana, Jackson County, Kansas City, Michigan Avenue 1100. Daughters Edna 26 Ohio, Jennie 17 Missouri; son John 13 Missouri; Frankie A., January 1898, 2, Missouri. Diplomatic Frankie, not Letha. Rejected as C244.",
+        source="S370 · C540",
+    ),
+    dict(
+        n=221, date="1900 (index)", year=1900, role="rejected",
+        path="soundex/mo1900-s415-p3310-geo-m-ettie-2.jpg",
+        title="Missouri S-415 — Geo M. continuation; Ettie, 2",
+        caption="Continuation of Sullivan, Geo M. Ettie, daughter, July 1897, 2, Missouri; Roy J., son, October 1898, 1, Missouri. Diplomatic Ettie (first letter E), not Letha. Rejected as C244.",
+        source="S370 · C541",
+    ),
+    dict(
         n=123, date="1900 (index)", year=1900, role="context",
         path="soundex/tx1900-c563-p1-j-divider.jpg",
         title="Texas C-563 — J-tab divider",

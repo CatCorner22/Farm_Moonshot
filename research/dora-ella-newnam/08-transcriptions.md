@@ -1942,5 +1942,36 @@ Surname **Sylvinus**, given **Vicee**, not Sullivan / Letha. Rejected as **C244*
 
 Adult wife, not a child. Rejected as **C244**. → **C529**.
 
+## DOC149 — 1900 MO Soundex S-415, Sullivan, Edward M., 33, Indiana, Jasper Galena
+- Image: `sources/soundex/mo1900-s415-p3202-edward-m-33-in.jpg` SHA-256 `952f3ccbafd9ec3af38a526ea15c16e887a491b8ee0bd84f5de42851ee066bfd`
+- Reel: IA `soundex1900mo248` n**3202**
+
+### Diplomatic
+> **S-415 Sullivan, Edward M.** — Head of family · Jasper / Galena Twp · W Feb **1866** **33** Indiana
+> Wife **Wrea[?]** — Nov **1876** **23** Kansas
+> **Iler[?]** D Nov **1895** **4** Colorado; **Vera** D Aug **1898** **1** Colorado; **James** S Feb **1898[?]** **2** Indiana
+
+Indiana-born father; no Letha-string. → **C530**.
+
+## DOC150 — 1900 MO Soundex S-415, Sullivan, Francis, 46, Indiana, Jackson; Frankie A 2
+- Image: `sources/soundex/mo1900-s415-p3265-francis-46-in-frankie.jpg` SHA-256 `8ee2af59fa4ff8afac4d8e112d6f2b689257b09087ce03d5da4531233b763c40`
+- Reel: IA `soundex1900mo248` n**3265**
+
+### Diplomatic
+> **S-415 Sullivan, Francis** — Head of family · Jackson / Kansas City / Michigan Ave **1100** · W Aug **1854** **46** Indiana
+> **Edna** D Jan **1874** **26** Ohio; **Jennie** D Jan **1883** **17** Missouri; **John** S Apr **1887** **13** Missouri; **Frankie A** D Jan **1898** **2** Missouri
+
+Diplomatic **Frankie**, not Letha. Rejected as **C244**. → **C540**.
+
+## DOC151 — 1900 MO Soundex S-415, Geo M. continuation; Ettie 2
+- Image: `sources/soundex/mo1900-s415-p3310-geo-m-ettie-2.jpg` SHA-256 `ab3b3c6f11a45c27fe3c3610d71c81337a8e01f3a7fa5adb4e2d71f1d275c432`
+- Reel: IA `soundex1900mo248` n**3310**
+
+### Diplomatic
+> **S-415 Sullivan, Geo M.** — Head of family continued · State Missouri
+> **Ettie** D July **1897** **2** Missouri; **Roy J** S Oct **1898** **1** Missouri
+
+Diplomatic **Ettie** (first letter **E**). Rejected as **C244**. → **C541**.
+
 ## DOC009 — 1910 TN Soundex N-550 McCoy window (nil)
 Handwritten family/individual cards n2461–n2469. Sequence after Mary C (n2460): Mary D 49 Jefferson (son Layton 11); Mary M 70 Hamilton; Mek. G 50 Cheatham (Florence 19, John 17, General 16, Frances 13, William 10, Doria 6, Luther 1½); Melvin 3½ Giles (gs of Deacon George W); Melvin 54 Giles (SIL of same); Minerva 80 Robertson (gds Lona Neely, Nellie Erwin); Minnie 21 Roane (with Sam P. Sparks); Mitchell 27 Hardin (Ollie P 25, Gladys 4, Burl W 3, Royal E 1 9/12). **No McCoy.** SHA-256 n2463 `23610f8aa4c159b1b554ed1786d11f57d2f56f8a2e8994f7289ae7bd02dfca53`; n2469 `340489566090880388fa6b81ca5751c5944dcaf56a7b44f70fe560788f308586`.

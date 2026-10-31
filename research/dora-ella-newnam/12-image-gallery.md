@@ -191,6 +191,9 @@ Diplomatic transcriptions: [`08-transcriptions.md`](08-transcriptions.md). Citat
 | 216 | 1900 (index) | Rejected same-name | [Missouri S-415 — William P., 39, Indiana, Holt; Lela, 5; not C244](sources/soundex/mo1900-s415-p0263-william-p-lela-5.jpg) |
 | 217 | 1900 (index) | Rejected same-name | [Missouri S-415 — Sylvinus, Vicee, 9/12, Bollinger Lorance; not C244](sources/soundex/mo1900-s415-p0163-vicee-bollinger.jpg) |
 | 218 | 1900 (index) | Rejected same-name | [Missouri S-415 — William C., Lewis Reddish; wife Viola C., 30; not C244](sources/soundex/mo1900-s415-p0236-william-c-viola-wife.jpg) |
+| 219 | 1900 (index) | Context | [Missouri S-415 — Edward M., 33, Indiana, Jasper Galena](sources/soundex/mo1900-s415-p3202-edward-m-33-in.jpg) |
+| 220 | 1900 (index) | Rejected same-name | [Missouri S-415 — Francis, 46, Indiana, Jackson; Frankie A., 2](sources/soundex/mo1900-s415-p3265-francis-46-in-frankie.jpg) |
+| 221 | 1900 (index) | Rejected same-name | [Missouri S-415 — Geo M. continuation; Ettie, 2](sources/soundex/mo1900-s415-p3310-geo-m-ettie-2.jpg) |
 | 123 | 1900 (index) | Context | [Texas C-563 — J-tab divider](sources/soundex/tx1900-c563-p1-j-divider.jpg) |
 | 17 | Apr 1910 | Negative search | [Kentucky N-550 — Millie / Missouri; no McCoy](sources/soundex/ky1910-n550-p329-millie-missouri.jpg) |
 | 18 | Apr 1910 | Negative search | [Kentucky N-550 — Monroe; still no McCoy](sources/soundex/ky1910-n550-p330-monroe-no-mccoy.jpg) |
@@ -1969,6 +1972,36 @@ White individual, September 1899, age 9/12, born Missouri, Bollinger County, Lor
 White head, March 1860, age 40, born Missouri, Lewis County, Reddish Township, volume 46, ED 53, sheet 12, line 29. Wife Viola C., October 1869, 30, Illinois. Children Albert A. 18, Maudie M. 15, Orval L. 13, Ray 12, all Missouri. Adult wife, not a child. Rejected as C244.
 
 ![Missouri S-415 — William C., Lewis Reddish; wife Viola C., 30; not C244](sources/soundex/mo1900-s415-p0236-william-c-viola-wife.jpg)
+
+### 219 · 1900 (index) · Missouri S-415 — Edward M., 33, Indiana, Jasper Galena
+
+**Role:** Context  
+**File:** [`sources/soundex/mo1900-s415-p3202-edward-m-33-in.jpg`](sources/soundex/mo1900-s415-p3202-edward-m-33-in.jpg)  
+**Source:** S370 · C530
+
+White head, February 1866, age 33, born Indiana, Jasper County, Galena Township. Wife Wrea, November 1876, 23, Kansas. Children Iler 4 Colorado, Vera 1 Colorado, James 2 Indiana. Indiana-born father; no Letha-string toddler. Pass 91 Edward-band context.
+
+![Missouri S-415 — Edward M., 33, Indiana, Jasper Galena](sources/soundex/mo1900-s415-p3202-edward-m-33-in.jpg)
+
+### 220 · 1900 (index) · Missouri S-415 — Francis, 46, Indiana, Jackson; Frankie A., 2
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/mo1900-s415-p3265-francis-46-in-frankie.jpg`](sources/soundex/mo1900-s415-p3265-francis-46-in-frankie.jpg)  
+**Source:** S370 · C540
+
+White head, August 1854, age 46, born Indiana, Jackson County, Kansas City, Michigan Avenue 1100. Daughters Edna 26 Ohio, Jennie 17 Missouri; son John 13 Missouri; Frankie A., January 1898, 2, Missouri. Diplomatic Frankie, not Letha. Rejected as C244.
+
+![Missouri S-415 — Francis, 46, Indiana, Jackson; Frankie A., 2](sources/soundex/mo1900-s415-p3265-francis-46-in-frankie.jpg)
+
+### 221 · 1900 (index) · Missouri S-415 — Geo M. continuation; Ettie, 2
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/mo1900-s415-p3310-geo-m-ettie-2.jpg`](sources/soundex/mo1900-s415-p3310-geo-m-ettie-2.jpg)  
+**Source:** S370 · C541
+
+Continuation of Sullivan, Geo M. Ettie, daughter, July 1897, 2, Missouri; Roy J., son, October 1898, 1, Missouri. Diplomatic Ettie (first letter E), not Letha. Rejected as C244.
+
+![Missouri S-415 — Geo M. continuation; Ettie, 2](sources/soundex/mo1900-s415-p3310-geo-m-ettie-2.jpg)
 
 ### 123 · 1900 (index) · Texas C-563 — J-tab divider
 

@@ -784,3 +784,14 @@ research/dora-ella-newnam/sources/soundex/mo1900-s415-p0236-william-c-viola-wife
   format: JPEG Soundex card, IA soundex1900mo249 n236
 research/dora-ella-newnam/sources/soundex/b007-pass90-1900-mo-s415-parents-2026-10-31.txt
   format: Pass 90 MO S-415 parent-card search log
+research/dora-ella-newnam/sources/soundex/mo1900-s415-p3202-edward-m-33-in.jpg
+  sha256: 952f3ccbafd9ec3af38a526ea15c16e887a491b8ee0bd84f5de42851ee066bfd
+  format: JPEG Soundex card, IA soundex1900mo248 n3202
+research/dora-ella-newnam/sources/soundex/mo1900-s415-p3310-geo-m-ettie-2.jpg
+  sha256: ab3b3c6f11a45c27fe3c3610d71c81337a8e01f3a7fa5adb4e2d71f1d275c432
+  format: JPEG Soundex card, IA soundex1900mo248 n3310
+research/dora-ella-newnam/sources/soundex/mo1900-s415-p3265-francis-46-in-frankie.jpg
+  sha256: 8ee2af59fa4ff8afac4d8e112d6f2b689257b09087ce03d5da4531233b763c40
+  format: JPEG Soundex card, IA soundex1900mo248 n3265
+research/dora-ella-newnam/sources/soundex/b007-pass91-1900-in-mo-s415-other-fathers-2026-10-31.txt
+  format: Pass 91 IN/MO S-415 other-father search log
