@@ -2702,5 +2702,66 @@ IN leftover-M head; no girl ~0–2. → **C755**.
 
 Diplomatic **Ethel P**. → **C754**.
 
+## DOC222 — 1900 IL Soundex S-415, M.C.; Laura 1
+- Image: `sources/soundex/il1900-s415-n3207-mc-laura-1.jpg` SHA-256 `c01413fad1db2a9085f273cc357af31becb2f8354af30d28c34e8bf2e7e3d965`
+- Reel: IA `soundex1900il401` n**3207** rotate **-90**
+
+### Diplomatic
+> **S415 Sullivan, M.C.** — Head · vol **16** ED **941** sh **13** ln **6** · W May **1867** **32** Ohio · Cook / Chicago, Union Ave **5815**
+> **Mary F** W Aug **1870** **29** Ireland NR; **Michael** S June **1895** **4** Illinois; **Jennet C** D Nov **1896** **3** Illinois; **Laura** D Nov **1898** **1** Illinois; **Chas. E** S Feb **1900** **1/2** Illinois
+
+Diplomatic **Laura**. Agent A Lottie/Lettie withdrawn. → **C758**.
+
+## DOC223 — 1900 IL Soundex S-415, Margaret; Viola 2
+- Image: `sources/soundex/il1900-s415-n3258-margaret-viola-2.jpg` SHA-256 `ff26f4e122dc2d4bf526e994ec628bedf0c87772039984808f6ed7024f28d23e`
+- Reel: IA `soundex1900il401` n**3258** rotate **-90**
+
+### Diplomatic
+> **S415 Sullivan, Margaret** — Head · vol **57** ED **850** sh **6** ln **64** · W Oct **1861** **39** Illinois · Cook / Chicago, Adams **2003**
+> **John P** S March **1892** **8** Ill.; **Nora M** D May **1893** **7** Ill.; **Harold** S Dec **1894** **5** Ill.; **Viola** D Dec **1897** **2** Ill.; **Clementine** D Sept **1899** **8/12** Ill.
+
+Diplomatic **Viola**. → **C759**.
+
+## DOC224 — 1900 IL Soundex S-415, Slobonic Marcus; Mary 1
+- Image: `sources/soundex/il1900-s415-n3252-slobonic-liberty-mary-1.jpg` SHA-256 `85a72579e7a291f227d425077e347a0dd10f2402fcaaea988b5bc04b220dc976`
+- Reel: IA `soundex1900il401` n**3252** rotate **-90**
+
+### Diplomatic
+> **S415 Slobonic, Marcus** — Head · vol **157** ED **120** sh **1** ln **39** · W Sept **1860** **39** Austria Al · Will / Joliet Twp, Joliet, **Liberty** **107**
+> **Anna** W Mar **1870** **30** Austria; **Anna** D Aug **1895** **4** Illinois; **Kate** D Feb **1897** **3** Illinois; **Mary** D Jan **1898** **1** Illinois
+
+Street Liberty ≠ Bollinger Liberty Twp. → **C760**.
+
+## DOC225 — 1900 IL Soundex S-415, Matthew; Lila 5
+- Image: `sources/soundex/il1900-s415-n3458-matthew-lila-5.jpg` SHA-256 `070ebe9bcb5026cc5f20c0c6f4503a5d9031ec178c659dd17626579a837c0570`
+- Reel: IA `soundex1900il401` n**3458** rotate **-90**
+
+### Diplomatic
+> **S415 Sullivan, Mathew** — Head · vol **2** ED **126** sh **7** ln **71** · W Dec **1869** **30** Missouri · Adams / Seventh Precinct, Quincy, South 7th **128½**
+> **Edith** W April **1869** **30** Illinois; **Lila** D July **1894** **5** Illinois
+
+Diplomatic **Lila**. → **C761**.
+
+## DOC226 — 1900 IL Soundex S-415, Mary 47 Indiana, Chicago
+- Image: `sources/soundex/il1900-s415-n3367-mary-47-in-adults.jpg` SHA-256 `da91a6d148bb6a6c57cb66460742243eb1c898a23ff1c7ec5466bf3b19c2e945`
+- Reel: IA `soundex1900il401` n**3367** rotate **-90**
+
+### Diplomatic
+> **S415 Sullivan, Mary** — Head · vol **21** ED **163** sh **21** ln **73** · W Oct **1852** **47** Indiana · Cook / Chicago, 38th **9331**
+> **John H** S Dec **1875** **24** Illinois; **Margaret** D Mar **1879** **21** Illinois; **George F** S Jan **1881** **19** Illinois; **James T** S July **1884** **16** Illinois
+
+IN leftover-M head; no girl ~0–2. → **C763**.
+
+## DOC227 — 1900 IL Soundex S-415, unnamed ½ Iowa, Chicago
+- Image: `sources/soundex/il1900-s415-n3473-unnamed-1-2-iowa.jpg` SHA-256 `75e37b470a7a4479c307424716748edec02f17a4525d04195f3e750717becda3`
+- Reel: IA `soundex1900il401` n**3473** rotate **-90**. Name/vol row **cut** on the filmed card.
+
+### Diplomatic
+> **S415 [given name cut]** — Individual · sh **4** ln **14** · W Feb **1899** **1/2** Iowa · Cook / Chicago, Wabash Ave **1349**
+> Enumerated with **Gardon, E. (Mrs)** · relationship **Daughter**
+> Remarks: *Apparently daughter of Sullivan, May*
+
+Name unread. → **C762**.
+
 ## DOC009 — 1910 TN Soundex N-550 McCoy window (nil)
 Handwritten family/individual cards n2461–n2469. Sequence after Mary C (n2460): Mary D 49 Jefferson (son Layton 11); Mary M 70 Hamilton; Mek. G 50 Cheatham (Florence 19, John 17, General 16, Frances 13, William 10, Doria 6, Luther 1½); Melvin 3½ Giles (gs of Deacon George W); Melvin 54 Giles (SIL of same); Minerva 80 Robertson (gds Lona Neely, Nellie Erwin); Minnie 21 Roane (with Sam P. Sparks); Mitchell 27 Hardin (Ollie P 25, Gladys 4, Burl W 3, Royal E 1 9/12). **No McCoy.** SHA-256 n2463 `23610f8aa4c159b1b554ed1786d11f57d2f56f8a2e8994f7289ae7bd02dfca53`; n2469 `340489566090880388fa6b81ca5751c5944dcaf56a7b44f70fe560788f308586`.

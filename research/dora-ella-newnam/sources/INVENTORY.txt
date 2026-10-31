@@ -1186,3 +1186,23 @@ research/dora-ella-newnam/sources/soundex/tn1900-s415-n0226-mary-38-in-memphis.j
 research/dora-ella-newnam/sources/soundex/tn1900-s415-n0224-mark-ethelp-2.jpg
   sha256: 80bb407c6c7185cfcea0dd851491c1991adeb32d837139e535652a2ec7aebc52
   format: JPEG Soundex card, IA soundex1900tn154 n0224
+research/dora-ella-newnam/sources/soundex/b007-pass100-1900-il-s415-leftover-m-2026-10-31.txt
+  format: Pass 100 IL leftover M n3202-3475 search log
+research/dora-ella-newnam/sources/soundex/il1900-s415-n3207-mc-laura-1.jpg
+  sha256: c01413fad1db2a9085f273cc357af31becb2f8354af30d28c34e8bf2e7e3d965
+  format: JPEG Soundex card, IA soundex1900il401 n3207 rotate -90
+research/dora-ella-newnam/sources/soundex/il1900-s415-n3258-margaret-viola-2.jpg
+  sha256: ff26f4e122dc2d4bf526e994ec628bedf0c87772039984808f6ed7024f28d23e
+  format: JPEG Soundex card, IA soundex1900il401 n3258 rotate -90
+research/dora-ella-newnam/sources/soundex/il1900-s415-n3252-slobonic-liberty-mary-1.jpg
+  sha256: 85a72579e7a291f227d425077e347a0dd10f2402fcaaea988b5bc04b220dc976
+  format: JPEG Soundex card, IA soundex1900il401 n3252 rotate -90
+research/dora-ella-newnam/sources/soundex/il1900-s415-n3458-matthew-lila-5.jpg
+  sha256: 070ebe9bcb5026cc5f20c0c6f4503a5d9031ec178c659dd17626579a837c0570
+  format: JPEG Soundex card, IA soundex1900il401 n3458 rotate -90
+research/dora-ella-newnam/sources/soundex/il1900-s415-n3367-mary-47-in-adults.jpg
+  sha256: da91a6d148bb6a6c57cb66460742243eb1c898a23ff1c7ec5466bf3b19c2e945
+  format: JPEG Soundex card, IA soundex1900il401 n3367 rotate -90
+research/dora-ella-newnam/sources/soundex/il1900-s415-n3473-unnamed-1-2-iowa.jpg
+  sha256: 75e37b470a7a4479c307424716748edec02f17a4525d04195f3e750717becda3
+  format: JPEG Soundex card, IA soundex1900il401 n3473 rotate -90

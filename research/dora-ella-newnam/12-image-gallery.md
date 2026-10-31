@@ -268,6 +268,12 @@ Diplomatic transcriptions: [`08-transcriptions.md`](08-transcriptions.md). Citat
 | 293 | 1900 (index) | Rejected same-name | [Missouri S-415 — Seth E, 27, Missouri, Dunklin Liberty; Bessie, 2; not C244](sources/soundex/mo1900-s415-n0058-sethe-dunklin-liberty-bessie-2.jpg) |
 | 294 | 1900 (index) | Context | [Tennessee S-415 — Mary, 38, Indiana, Shelby Memphis; adults only](sources/soundex/tn1900-s415-n0226-mary-38-in-memphis.jpg) |
 | 295 | 1900 (index) | Rejected same-name | [Tennessee S-415 — Mark, 41, Tennessee, Tipton; Ethel P, 2; not C244](sources/soundex/tn1900-s415-n0224-mark-ethelp-2.jpg) |
+| 296 | 1900 (index) | Rejected same-name | [Illinois S-415 — M.C., 32, Ohio, Chicago; Laura, 1; not C244](sources/soundex/il1900-s415-n3207-mc-laura-1.jpg) |
+| 297 | 1900 (index) | Rejected same-name | [Illinois S-415 — Margaret, 39, Illinois, Chicago; Viola, 2; not C244](sources/soundex/il1900-s415-n3258-margaret-viola-2.jpg) |
+| 298 | 1900 (index) | Rejected same-name | [Illinois S-415 — Slobonic, Marcus, 39, Austria, Joliet Liberty Street; Mary, 1; not C244](sources/soundex/il1900-s415-n3252-slobonic-liberty-mary-1.jpg) |
+| 299 | 1900 (index) | Rejected same-name | [Illinois S-415 — Mathew, 30, Missouri, Quincy; Lila, 5; not C244](sources/soundex/il1900-s415-n3458-matthew-lila-5.jpg) |
+| 300 | 1900 (index) | Context | [Illinois S-415 — Mary, 47, Indiana, Chicago; adults only](sources/soundex/il1900-s415-n3367-mary-47-in-adults.jpg) |
+| 301 | 1900 (index) | Rejected same-name | [Illinois S-415 — unnamed daughter, 6 months, Iowa, Chicago Wabash; name line cut](sources/soundex/il1900-s415-n3473-unnamed-1-2-iowa.jpg) |
 | 123 | 1900 (index) | Context | [Texas C-563 — J-tab divider](sources/soundex/tx1900-c563-p1-j-divider.jpg) |
 | 17 | Apr 1910 | Negative search | [Kentucky N-550 — Millie / Missouri; no McCoy](sources/soundex/ky1910-n550-p329-millie-missouri.jpg) |
 | 18 | Apr 1910 | Negative search | [Kentucky N-550 — Monroe; still no McCoy](sources/soundex/ky1910-n550-p330-monroe-no-mccoy.jpg) |
@@ -2816,6 +2822,66 @@ White female head, May 1862, age 38, born Indiana, Shelby County, 14th District,
 White head, December 1858, age 41, born Tennessee, Tipton County, Civil District 6. Wife Belldona, 24, Tennessee. Daughters Lucille, 3, and Ethel P, May 1898, age 2, Tennessee. Diplomatic Ethel P. Father Tennessee. Rejected as C244.
 
 ![Tennessee S-415 — Mark, 41, Tennessee, Tipton; Ethel P, 2; not C244](sources/soundex/tn1900-s415-n0224-mark-ethelp-2.jpg)
+
+### 296 · 1900 (index) · Illinois S-415 — M.C., 32, Ohio, Chicago; Laura, 1; not C244
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/il1900-s415-n3207-mc-laura-1.jpg`](sources/soundex/il1900-s415-n3207-mc-laura-1.jpg)  
+**Source:** S412 · C758
+
+White head, May 1867, age 32, born Ohio, Cook County, Chicago, Union Avenue 5815. Wife Mary F, 29, Ireland. Children Michael, 4; Jennet C, 3; Laura, November 1898, age 1, Illinois; Chas. E, 6 months. Diplomatic Laura (an agent Lottie/Lettie reading is withdrawn). Father Ohio. Rejected as C244.
+
+![Illinois S-415 — M.C., 32, Ohio, Chicago; Laura, 1; not C244](sources/soundex/il1900-s415-n3207-mc-laura-1.jpg)
+
+### 297 · 1900 (index) · Illinois S-415 — Margaret, 39, Illinois, Chicago; Viola, 2; not C244
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/il1900-s415-n3258-margaret-viola-2.jpg`](sources/soundex/il1900-s415-n3258-margaret-viola-2.jpg)  
+**Source:** S412 · C759
+
+White female head, October 1861, age 39, born Illinois, Cook County, Chicago, Adams 2003. Children John P, 8; Nora M, 7; Harold, 5; Viola, December 1897, age 2, Illinois; Clementine, September 1899, 8 months. Exact hunt-string Viola. Head Illinois, not Indiana. Chicago, not Bollinger. Rejected as C244.
+
+![Illinois S-415 — Margaret, 39, Illinois, Chicago; Viola, 2; not C244](sources/soundex/il1900-s415-n3258-margaret-viola-2.jpg)
+
+### 298 · 1900 (index) · Illinois S-415 — Slobonic, Marcus, 39, Austria, Joliet Liberty Street; Mary, 1; not C244
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/il1900-s415-n3252-slobonic-liberty-mary-1.jpg`](sources/soundex/il1900-s415-n3252-slobonic-liberty-mary-1.jpg)  
+**Source:** S412 · C760
+
+S-415 interfile. White head, September 1860, age 39, born Austria, Will County, Joliet, Liberty 107. Wife Anna, 30, Austria. Daughters Anna, 4; Kate, 3; Mary, January 1898, age 1, Illinois. Street Liberty is not Liberty Township, Bollinger County. Rejected as C244.
+
+![Illinois S-415 — Slobonic, Marcus, 39, Austria, Joliet Liberty Street; Mary, 1; not C244](sources/soundex/il1900-s415-n3252-slobonic-liberty-mary-1.jpg)
+
+### 299 · 1900 (index) · Illinois S-415 — Mathew, 30, Missouri, Quincy; Lila, 5; not C244
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/il1900-s415-n3458-matthew-lila-5.jpg`](sources/soundex/il1900-s415-n3458-matthew-lila-5.jpg)  
+**Source:** S412 · C761
+
+White head, December 1869, age 30, born Missouri, Adams County, Seventh Precinct, Quincy, South 7th 128½. Wife Edith, 30, Illinois. Daughter Lila, July 1894, age 5, Illinois. Diplomatic Lila. Age 5 versus about 2. Father Missouri, not Indiana. Rejected as C244.
+
+![Illinois S-415 — Mathew, 30, Missouri, Quincy; Lila, 5; not C244](sources/soundex/il1900-s415-n3458-matthew-lila-5.jpg)
+
+### 300 · 1900 (index) · Illinois S-415 — Mary, 47, Indiana, Chicago; adults only
+
+**Role:** Context  
+**File:** [`sources/soundex/il1900-s415-n3367-mary-47-in-adults.jpg`](sources/soundex/il1900-s415-n3367-mary-47-in-adults.jpg)  
+**Source:** S412 · C763
+
+White female head, October 1852, age 47, born Indiana, Cook County, Chicago, 38th 9331. Children John H, 24; Margaret, 21; George F, 19; James T, 16; all Illinois. Indiana-born leftover-M head with no girl about 0–2. Not merged with C244.
+
+![Illinois S-415 — Mary, 47, Indiana, Chicago; adults only](sources/soundex/il1900-s415-n3367-mary-47-in-adults.jpg)
+
+### 301 · 1900 (index) · Illinois S-415 — unnamed daughter, 6 months, Iowa, Chicago Wabash; name line cut
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/il1900-s415-n3473-unnamed-1-2-iowa.jpg`](sources/soundex/il1900-s415-n3473-unnamed-1-2-iowa.jpg)  
+**Source:** S412 · C762
+
+Individual card filmed from the color/month row: White, February 1899, age 6 months, born Iowa, Cook County, Chicago, Wabash Avenue 1349. Enumerated with Gardon, E. (Mrs), relationship Daughter. Remarks: apparently daughter of Sullivan, May. Given name unread. Iowa, not a hunt string that can be asserted. Rejected as C244.
+
+![Illinois S-415 — unnamed daughter, 6 months, Iowa, Chicago Wabash; name line cut](sources/soundex/il1900-s415-n3473-unnamed-1-2-iowa.jpg)
 
 ### 123 · 1900 (index) · Texas C-563 — J-tab divider
 
