@@ -109,7 +109,11 @@ Captured this session: **31 Oct 2026** (S283–S290, S299–S357). Earlier plate
 | S371 | `sources/census/vanburen/1910-orig/` reel 67 title cards + `t624-67-map-2026-10-31.txt` | 2026-10-31 | IA `13thcensus1910po0067unit` + NARA T624 | archive.org/details/13thcensus1910po0067unit | Vol. 65 Washington + White headers | Reel 67 ≠ Van Buren (**C1437–C1440**) | image seen (cards) |
 | S372 | `sources/census/pope/1920idx.txt` | 2026-10-31 | USGW Pope 1920 index | files.usgwarchives.net/ar/pope/census/1920/1920idx.txt | Heads + different surnames | **Nil** P001 as head (**C1442–C1443**) | index only |
 | S373 | `sources/census/scott/` + `sources/marriages/scott/` | 2026-10-31 | ARGenWeb Scott | argenweb.net/scott/cen1910.htm etc. | 1910/1920 heads + marr A–J N/S | **Nil** Dora Newman/Stone; **no** Dora×Stone (**C1444–C1445**) | index / compiled |
-| S374 | `sources/census/independence/` + `sources/census/white/` + year-hole extract | 2026-10-31 | ARGenWeb Independence / White + Access Genealogy | argenweb.net/independence/census.htm ; white/census/ | Catalogs | Independence unpublished; White bodies unread (**C1446–C1447**) | catalog |
+| S374 | `sources/census/independence/` + `sources/census/white/` + year-hole extract | 2026-10-31 | ARGenWeb Independence / White + Access Genealogy | argenweb.net/independence/census.htm ; white/census/ | Catalogs | Independence unpublished; White bodies unread at capture (**C1446–C1447**) | catalog |
+| S375 | `sources/census/vanburen/1910-orig/fs-1727033-vanburen-waypoints-2026-10-31.txt` + `ed118-holly-img0-thumb-200px.jpg` | 2026-10-31 | FamilySearch coll. **1727033** waypoints + DAS | familysearch.org/platform/records/waypoints/… | Van Buren browse tree; Holly ED 118 | 24 townships listed; full image **401** (**C1449–C1451**) | catalog / thumb (unreadable) |
+| S376 | `sources/census/white/1910_*` + `white-1910-1920-dora-2026-10-31.txt` | 2026-10-31 | White Co. ARGenWeb 1910 named bodies | argenweb.net/white/census/ | Dist. 150–173 named files | **Nil** P001 (**C1452–C1453**) | transcription only |
+| S377 | `sources/census/white/1920_*` + `1920Marshall.htm` + same extract | 2026-10-31 | White Co. ARGenWeb 1920 named bodies | argenweb.net/white/census/ | 27 named township files | **Nil** P001 (**C1455–C1457**) | transcription only |
+| S378 | `sources/marriages/white/` + `year-hole-white-vitals-2026-10-31.txt` | 2026-10-31 | White Co. ARGenWeb vitals | argenweb.net/white/vitals/ | Unclaimed M–N/R–S; wills D; prisoners | **No** Dora×Stone (**C1459–C1460**) | index / compiled |
 
 ## Word biography provenance
 
@@ -135,8 +139,9 @@ See [`sources/authored/PROVENANCE.md`](sources/authored/PROVENANCE.md). Drive se
 | Conway Marriage Book **Z** bride | 19 Aug 1925–28 Jul 1927 Dora Newnam × Stone | **Done** (**C1369–C1371**) |
 | Yell 1920 ED **188** Galla Rock originals | IA T625-86 PDF **303–319** | **Done** (**C1403–C1405** / **B072**) |
 | Van Buren 1920 Union p.150 Stone house | Identify whether Dora is in the house | **Done** — Abbie? 37 wd (**C1394**) |
-| Van Buren 1910 remaining township bodies | Bloodworth / Cadron / Davis / Griggs / Hartsugg / Linn Creek / Mountain / Sulphur / Washington / Choctaw / Grove | **Done** published bodies (**C1413–C1422** / **B073**); unpublished **never posted** (**C1428** / **B074**); po0066 ≠ Van Buren (**C1431**); po0067 = Washington+White (**C1438** / **B075**); complete T624-66 unread (**C1440** / **B076**) |
-| NARA T624 roll 66 complete copy (Van Buren 1910 originals) | FS coll. **1727033** browse Arkansas → Van Buren; Ancestry coll. **7884** browse Arkansas → Van Buren; or NARA T624-66. Do **not** re-download IA `13thcensus1910po0066unit` | ACPL/IA scan is Sevier+Union only (**C1440** / **B076**) |
+| Van Buren 1910 remaining township bodies | Bloodworth / Cadron / Davis / Griggs / Hartsugg / Linn Creek / Mountain / Sulphur / Washington / Choctaw / Grove | **Done** published bodies (**C1413–C1422** / **B073**); unpublished **never posted** (**C1428** / **B074**); po0066 ≠ Van Buren (**C1431**); po0067 = Washington+White (**C1438** / **B075**); FS 1727033 lists Van Buren; full images **401** (**C1449 C1450** / **B077**) |
+| NARA T624 roll 66 complete copy (Van Buren 1910 originals) | FS signed-in Holly ED 118 ARKs (first `33S7-9RNR-FP`); confirm Van Buren header **before** households. Ancestry **7884** if already reachable. Do **not** re-download IA po0066 | Waypoints seen; DAS **401** (**C1450** / **B077**) |
+| White Co. remaining 1910/1920 `transcription.htm` districts | Dist. 154–156, 158–171 (1910); Dist. 162–164, 166–168, 170, 173–177 (1920) | Named files **done** (**C1452 C1455** / **B076**) |
 | Van Buren 1920 Union after 158b | Pages after 158b if posted | **Done** 159a–160b (**C1423–C1424**) |
 
 ## Variant strings used this session (categories 1–4)
@@ -147,7 +152,7 @@ See [`sources/authored/PROVENANCE.md`](sources/authored/PROVENANCE.md). Drive se
 
 **Thomas / T. A. Stone:** Thomas, Tom, T. A., T A × Stone, Store, Stowe (rejects already logged).
 
-Exact strings in `02-log.md` **L343–L352** (pass 60–61), **L361–L372** (pass 62), **L373–L379** (pass 63), **L396–L405** (pass 64), **L406–L418** (pass 65), **L419–L429** (pass 66), **L430–L441** (pass 67), **L442–L455** (pass 68), **L456–L470** (pass 69), **L471–L484** (pass 70), **L485–L498** (pass 71), **L499–L512** (pass 72), and **L513–L528** (pass 73).
+Exact strings in `02-log.md` **L343–L352** (pass 60–61), **L361–L372** (pass 62), **L373–L379** (pass 63), **L396–L405** (pass 64), **L406–L418** (pass 65), **L419–L429** (pass 66), **L430–L441** (pass 67), **L442–L455** (pass 68), **L456–L470** (pass 69), **L471–L484** (pass 70), **L485–L498** (pass 71), **L499–L512** (pass 72), **L513–L528** (pass 73), **L529–L544** (pass 74), **L545–L560** (pass 75), and **L561–L576** (pass 76).
 
 **Pearl / Clyde (pass 63):** Pearl × Newnam/Newman/Jackson; Clyde × Jackson/jacksen. Soundex **N550** / **J250**.
 
@@ -156,6 +161,8 @@ Exact strings in `02-log.md` **L343–L352** (pass 60–61), **L361–L372** (pa
 **Pearl / Clyde (pass 65, B061):** Pearl × Newnam/newman/newnarn/newan/newnom; Clyde × Jackson/jacksen. Soundex **N550** / **J250**. B049 new terms: Carter Cove / Carters Chapel / Coy Newnam / Yell County Record + 1926.
 
 **Dora placement (pass 66, B066):** Dora / posa / dosa / rosa / dona / dara / Nora / Cora / Ella × Newnam / Newman / Stone; Mrs. Stone; Mrs. Newman. Soundex **N550** / **S350**. Bride + mother strings on Owsley/Lee VS and births D/E/S/B.
+
+**Dora placement (pass 76, B076):** Dora / posa / dosa / rosa / dona / dara / Nora / Cora / Ella × Newnam / Newman / Stone; Mrs. Stone; Mrs. Newman. Soundex **N550** / **S350**. Used on FS 1727033 Van Buren waypoints and White named 1910/1920 bodies + unclaimed M–N/R–S.
 
 **Dora placement (pass 75, B075):** Dora / posa / dosa / rosa / dona / dara / Nora / Cora / Ella × Newnam / Newman / Stone; Mrs. Stone; Mrs. Newman. Soundex **N550** / **S350**. Used on T624-67 title cards, Pope 1920 index, and Scott 1910/1920/marriages.
 

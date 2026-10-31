@@ -163,6 +163,12 @@ Exact strings logged **L485–L498**.
 
 Exact strings logged **L499–L512**.
 
+## Name-variant storm (pass 76, 31 Oct 2026, `search_variants.py`)
+
+**Dora Newnam --also Newman --also Stone** — given: Dora, posa, dosa, rosa, dona, dara, dore, dori, dola, pora, rora. Surname: Newnam, newman, newnarn, newan, newnom, Stone. Soundex **N550** / **S350**. Combined samples: `"Dora Newnam"`, `"Newnam, Dora"`, `"posa Newman"`, `"Dora Stone"`, `"Stone, Dora"`. Also Ella / Mrs Stone / Mrs Newman / Posa / Nora / Cora as boarder/MIL/wife ~38 on FS 1727033 Van Buren waypoints (title-card confirmation required before any household read) and ~38/~48 on White Co. named 1910 Dist. 150–173 / 1920 township bodies. Bride 1920–25: Dora / Ella / Posa × Newnam / Newman / Stone on White unclaimed M–N / R–S letters.
+
+Exact strings logged **L561+**.
+
 ## Name-variant storm (pass 75, 31 Oct 2026, `search_variants.py`)
 
 **Dora Newnam --also Newman --also Stone** — given: Dora, posa, dosa, rosa, dona, dara, dore, dori, dola, pora, rora. Surname: Newnam, newman, newnarn, newan, newnom, Stone. Soundex **N550** / **S350**. Combined samples: `"Dora Newnam"`, `"Newnam, Dora"`, `"posa Newman"`, `"Dora Stone"`, `"Stone, Dora"`. Also Ella / Mrs Stone / Mrs Newman / Posa / Nora / Cora as boarder/MIL/wife ~38 on T624 title-card county names and ~48 on new year-hole hosts (Pope 1920 index; Scott 1910/1920 heads and 1882–1974 N/S marriages). Bride 1920–25: Dora / Ella / Posa × Newnam / Newman / Stone.

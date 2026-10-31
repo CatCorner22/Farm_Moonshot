@@ -301,6 +301,10 @@
 | S372 | Pope Co. AR 1920 USGW heads + different-surname index (`1920idx.txt`, Lina Owens Boyd, 1 Nov 1999). File `sources/census/pope/1920idx.txt`. **Index only.** | D (nil P001 as head / different surname; wives omitted) | Lina Owens Boyd |
 | S373 | Scott Co. ARGenWeb 1910/1920 heads+* indexes + marriage Books A–J N/S letters. Files `sources/census/scott/` + `sources/marriages/scott/`. **Index / compiled.** | D (nil Dora Newnam×Stone; local Newman/Stone clusters) | Carolyn Hanna / Scott Co. Historical Society |
 | S374 | Independence ARGenWeb census landing + White Co. 1910/1920 township catalog + Access Genealogy Van Buren 1910 list. Extract `sources/directories/year-hole-scott-pope-white-2026-10-31.txt`. **Catalog.** | D (Independence unpublished; White bodies not opened; Access = published set) | County coordinators / Dennis Partridge |
+| S375 | FS coll. **1727033** Arkansas / Van Buren / Holly / ED 118 waypoints + 200px first-page thumb + 401 DAS body. Extract `sources/census/vanburen/1910-orig/fs-1727033-vanburen-waypoints-2026-10-31.txt` + `ed118-holly-img0-thumb-200px.jpg`. **Catalog / image seen (unreadable thumb).** | D (browse tree) / O (thumb only) | FamilySearch / NARA T624 partner images |
+| S376 | White Co. ARGenWeb named 1910 township HTML (10 files) + `white-1910-1920-dora-2026-10-31.txt`. **Transcription only.** | D (nil P001 on named files) | Wendy Berry / David Dawson / WCHS |
+| S377 | White Co. ARGenWeb named 1920 township HTML (27 files) + same extract. **Transcription only.** | D (nil P001 on named files) | Wendy Berry / David Dawson / WCHS |
+| S378 | White vitals index + unclaimed M–N/R–S + Prairie 1854–81 + prisoners 1918–20 + wills D. Extract `sources/directories/year-hole-white-vitals-2026-10-31.txt`. **Index / compiled.** | D (no Dora×Stone; no 1920–25 book) | WCHS / Phyllis English |
 
 
 ## Claims
@@ -786,7 +790,20 @@
 | C1445 | Scott marriages 1882–1974 Books A–J: **no** Newnam; **no** Dora/Ella Newman bride. 1920–25 Newman brides = Lillie 1920 / Annie 1924 / Fannie 1925. Stone grooms have **no** T.A./Tom 1920–25 (Tom × Blair **1931**). **No** Dora Newnam × Stone | PROVEN as to that compiled index | S373 L556 | year hole |
 | C1446 | Independence ARGenWeb census page: **no** local 1910/1920 transcript (links to Access Genealogy / USGW / FS sign-in only) | PROVEN as to that page | S374 L557 | year hole |
 | C1447 | White Co. ARGenWeb census index lists 1910 Dist. **150–173** and 1920 township bodies. Files **not opened** this pass | PROVEN as to the catalog; bodies **not yet examined** | S374 L558 | B076 |
-| C1448 | Residual after B075: complete T624-66 Van Buren 1910 images (not po0066). White township bodies if still placing her. Dora still **UNKNOWN** Apr 1910 and Jan 1920 | SPECULATIVE as to next host; placement **open** | S371 S372 S373 S374 L559 | B076 |
+| C1448 | Residual after B075: complete T624-66 Van Buren 1910 images (not po0066). White township bodies if still placing her. Dora still **UNKNOWN** Apr 1910 and Jan 1920 | SPECULATIVE as to next host; placement **open** | S371 S372 S373 S374 L559 | B076 — executed this pass |
+| C1449 | FS coll. **1727033** Arkansas waypoint lists **Van Buren** among 77 counties. Van Buren waypoint titles **24 townships** (Archey Valley, Barnett, Bloodworth, Bradley, Cadron, Cargile, Choctaw, Cleveland, Craig, Culpepper, Davis, Griggs, Grove, Hartsugg, Holly, Liberty, Linn Creek, Mountain, Red River, Sulphur Springs, Union, Washington, Wheeler, White Oak) | PROVEN as to those waypoints; **not** a film title-card reading | S375 L562 L563 | B076 |
+| C1450 | Holly township = **ED 118** (11 DigitalArtifact ARKs). First-page 200×140 thumb is a 1910 population-schedule form; county/township/names **not readable**. Full DAS `…/3:1:33S7-9RNR-FP/image.jpg` **HTTP 401** `Unauthorized (anonymous session)`. **No household read** | PROVEN as to the 401 and the unreadable thumb; Van Buren header **not confirmed** | S375 L564 L565 | B077 |
+| C1451 | NARA catalog search T624 66 Arkansas 1910 is a JS SPA with **no** digital-object list in static HTML. Ancestry coll. **7884** was **not** already reachable and was **not** fetched | PROVEN as to those URLs | S375 L566 L567 | |
+| C1452 | White Co. named 1910 township files opened (Albion, Marion, Antioch, Coffey, Bald Knob, Big Creek, Clay, Coldwell, Velvet Ridge, Union): **no** P001 as Dora/Ella/Posa Newnam/Newman/Stone ~38 boarder/MIL/wife | PROVEN as to those transcripts | S376 L568 | B076 |
+| C1453 | White 1910 rejects: Baker, Dora 18 (Albion hh 139); Gray, Ella 39 with nieces (Albion 135); Booker, Dora 30 (Marion 112); Taylor, Dora E. 15 / Lucas, Dora A. 54 / Dora B. 9 (Coldwell). Clay heads Newman Columbus G 42 / Daniel W 44 = local males | DISPROVED as P001 | S376 L568 | |
+| C1454 | White 1910 Dist. **154–156, 158–171** remain `transcription.htm` or have **no href** (Dist. 158 Denmark & Jackson). **Not** treated as bodies | PROVEN as to the catalog | S376 L569 | B077 |
+| C1455 | White Co. named 1920 township files opened (27: Albion through Marshall): **no** P001 as Dora/Ella/Posa Newnam/Newman/Stone ~48 | PROVEN as to those transcripts | S377 L570 | B076 |
+| C1456 | White 1920 Newman/Stone: Jacob E. 43 + Willie L 40 (Bald Knob Town); G.R. 55 TN + Ina 47 IL (Cadron); Marshall heads Calanbus 52 / Danuel W 53; Cane “Newman” = Strayhorn **son** 28 (given name). Stone = Samuel N. 37 MO + Lillie M. 39 (Clay). **No** T.A./Tom/Dora Stone | PROVEN as to those rows; **rejected** as P001/P003 | S377 L571 | |
+| C1457 | White 1920 Dora rejects (close ages): Booker, Dora 48 AR (Letona; same 1910 Marion house); Baker, Dora F. 47 AR (Big Creek); Yoast, Dora MIL 46 GA (Coffey); Dora F. 44 IL (Bald Knob Town); Kensett Dora 43 + John H.; Barnett Dora 43; Virdell Dora E. 61; Lindsey Dora 56 | DISPROVED as P001 (husband/nativity/children) | S377 L572 | |
+| C1458 | White 1920 Dist. **162** Cypert (no href) and Dist. **163–164, 166–168, 170, 173–177** remain `transcription.htm` | PROVEN as to the catalog | S377 L573 | B077 |
+| C1459 | White vitals catalog posts marriage Books **A** (1836–58) and **B** fragments only; **N–P missing**. **No** 1920–25 county marriage book. Unclaimed M–N/R–S: Newman W B × Rosa Johnson **29 Apr 1915**; Stone brides Arey **1923** / Mrs Nancy G **1925**. **No** Dora Newnam × Stone; **no** T.A. Stone groom 1920–25 | PROVEN as to those files | S378 L574 | year hole |
+| C1460 | White wills Vol. **D** 1919–34: **no** Newman/Newnam/Stone. Prairie-of-White marriages 1854–81 **nil** those surnames. Prisoners 1918–20: McCoy, Harry **15406** is a prisoner — **not** P006 | PROVEN as to those pages | S378 L574 | year hole |
+| C1461 | Residual after B076: signed-in complete T624-66 (Holly ED 118 ARKs listed). Remaining White `transcription.htm` districts. Dora still **UNKNOWN** Apr 1910 and Jan 1920 | SPECULATIVE as to next host; placement **open** | S375 S376 S377 S378 L575 | B077 |
 | C224 | **1 Jun 1880** population schedule dw **102/102** (ED **59**, **S235**) is **Flanary** + **Brashears**, **not** a **Mays** head; **Mary MAYS** 83 d. **Jan 1880** in mortality hh **102** (**S120**) — **same dwelling number**, decedent absent from June snapshot | PROVEN (original pop. line + mortality transcript) | S235 S120 L248 | Does not identify Pollie Mays stone (**C147**) |
 
 ## Same-person merges (Hard Rule 3)
@@ -903,6 +920,16 @@
 | 1920 Scott Dora Janaway/May/Pool + P001 | Given name Dora | Other surnames on heads+* index | **Rejected (C1444)** |
 | Scott Newman brides Lillie 1920 / Annie 1924 / Fannie 1925 + P001 | Surname Newman; 1920–25 | Ages 19; grooms Leeper/Holmes/Helms ≠ T.A. Stone | **Rejected (C1445)** |
 | Scott Stone, Tom × Blair 1 Apr 1931 + T.A. Stone m2 | Given name Tom; surname Stone | Year 1931 after P001’s 1926 death; bride Norma May Blair | **Rejected (C1445)** |
+| 1910 White Albion Baker Dora 18 / Gray Ella 39 + P001 | Given Dora / Ella; age 39 | Age 18; surname Gray + nieces not Pearl/Coy | **Rejected (C1453)** |
+| 1910 White Marion Booker Dora 30 + 1920 Letona Booker Dora 48 + P001 | Given Dora; age 48 in 1920 | b. AR; husband John Booker; dau Myrtle | **Rejected (C1453 C1457)** |
+| 1910 White Coldwell Taylor Dora E 15 / Lucas Dora A 54 + P001 | Given Dora E / Dora A | Child 15; wife 54 AL 0-0 | **Rejected (C1453)** |
+| 1910 White Clay Newman Columbus G 42 / Daniel W 44 + P001 | Surname Newman | Male heads; no Dora | **Rejected (C1453)** |
+| 1920 White Baker Dora F 47 / Yoast Dora 46 / Dora F 44 IL + P001 | Given Dora; ages ~44–47 | Husband Baker/Yoast/Willie D; b. AR/GA/IL | **Rejected (C1457)** |
+| 1920 White Newman Jacob E 43 / G.R. 55 + Ina 47 + P001 | Surname Newman | Wives Willie L / Ina IL; not Dora | **Rejected (C1456)** |
+| 1920 White Stone Samuel N 37 + Lillie M 39 + P001/P003 | Surname Stone | Age 37; wife Lillie MO ≠ Dora; ≠ T.A. | **Rejected (C1456)** |
+| 1915 White Newman W B × Rosa Johnson + P001 | Surname Newman; year 1915 | Groom W B 45; bride Rosa 30 ≠ Dora | **Rejected (C1459)** |
+| 1923/1925 White Stone brides Arey / Nancy G + P001 | Surname Stone; 1920s | Arey 16 × Thompson; Nancy G 67 × Houge | **Rejected (C1459)** |
+| 1918–20 White prisoner McCoy, Harry 15406 + P006 | Given McCoy | Prisoner, not Newman; released 7-2-18 | **Rejected (C1460)** |
 | 1920 Newman E.T. 75 Beattyville + P004 Elias | Initials E.T.; age ~75–78; Lee/Beattyville; grandfather of Provie Hoover who was his 1900 granddaughter; 1904 license | Census age 75 vs 77 if b. Apr 1842; Soundex spelling Neuman | **PROBABLE** (near GPS) |
 | 1886 Mary L. Newnam × Hoover + 1880 Mary dau. of Elias | Age 17 ≈ 1880 age 10; Provie Hoover gdau of Elias 1900 | License: both parents b. Owsley vs Elias b. Clark | **PROBABLE; not PROVEN** |
 | 1886 Mary L. Newnam × Hoover + P001 Dora Ella | Both Elias-cluster Newnam brides 1885–86 | Dora m. Samuel 10 Dec 1885 age 14 as Dora Ella; Mary L. m. Hoover 10 Feb 1886 age 17 | **Rejected** |
