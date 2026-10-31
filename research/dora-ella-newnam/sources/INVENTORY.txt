@@ -2809,3 +2809,16 @@ research/dora-ella-newnam/sources/census/1880-lee-ky-ed59-sheet43-p768-caroline-
   sha256: 7619cdfdbbc7edb199f93281a522d8125431d965d309975e31e6d1f34fd6f285
   format: text extract, 770 bytes
   check: T288 IIIF reel 348 timeout 20s 0 bytes
+
+/workspace/research/dora-ella-newnam/sources/indexes/pass104-coverage.txt
+  sha256: e16b31bce72e32edaf17784a87df4f4754639a6fca57ecd67b3d4442d6280703
+  format: text extract, 2,670 bytes
+  check: Pass 104 coverage; catalog 195 NEW 2 process-only; kyhamm Rowan 1856-1920; T288 timeout 15s
+/workspace/research/dora-ella-newnam/sources/indexes/josephine-gilbert-pass104.txt
+  sha256: 4b0a9a2fc379a74e78a16dc7d34fb194f336d9cfa0a84a85e2df0000f4835bb2
+  format: text extract, 4,793 bytes
+  check: kyhamm Rowan 2795 rows covering 1902 nil this couple; Magoffin 1860-1900 n/a; Bath no 1902 file
+/workspace/research/dora-ella-newnam/sources/indexes/t288-timeout-pass104.txt
+  sha256: 9e7bc28943da1f04650cf66642de0e0022d727e4974446cd4584d5f00578ecde
+  format: text extract, 1,072 bytes
+  check: T288 IIIF reel 348 timeout 15s 0 bytes; FS SPA unread; IA numFound 0

@@ -5544,3 +5544,57 @@ Pass 2: Do **not** invent T288 card contents. Do **not** promote C509.
 ### Facts extracted → claim IDs
 - IIIF timeout 20s, 0 bytes; images unseen → C1097
 - B061 remaining gap → C1099
+
+## DOC237 — Catalog + Pass 104 coverage
+
+- Extract: `pass104-coverage.txt` SHA-256 `e16b31bce72e32edaf17784a87df4f4754639a6fca57ecd67b3d4442d6280703`
+- Provenance: Cursor `list-cloud-agents` includeArchived limit 200, 31 Oct 2026. This run `bc-01a18bb4-e162-785c-9724-86a7c5663bf1`.
+- Access: process listing. **No** new independently image-backed P001 1900–1926 residence.
+
+### Diplomatic — cited extract
+
+> **195** / `hasMore: false` / `totalMatched: 195`. Was **193**. NEW vs 193 (2; **no IDs imported**). Status-only: B051 **renamed** B054 still RUNNING (same id). Sibling C281 **not imported**.
+
+Pass 2: Process count only. Skip **C221–C280**. Do **not** promote C509. Do **not** hunt remaining 1930 Owsley sheets.
+
+### Facts extracted → claim IDs
+- catalog 195; NEW 2 process-only → C1100
+- B063 remaining gap → C1105
+- B061 remaining gap → C1106
+
+## DOC238 — Josephine remaining substitutes (Pass 104)
+
+- Extract: `josephine-gilbert-pass104.txt` SHA-256 `4b0a9a2fc379a74e78a16dc7d34fb194f336d9cfa0a84a85e2df0000f4835bb2`
+- Coverage: `pass104-coverage.txt` `e16b31bce72e32edaf17784a87df4f4754639a6fca57ecd67b3d4442d6280703`
+- Provenance: kyhamm Rowan 1856–1920; Magoffin 1860–1900; Allen missing-after-fire; Bath USGW year files; Fleming vitals. Opened 31 Oct 2026. **HTML-seen / compiled**. License unseen.
+
+### Diplomatic — cited extracts
+
+> kyhamm Rowan 2,795 dated rows 1856–1920; 101 in 1902. Nil Josephine Newnam × Gilbert.
+
+> Magoffin 1860–1900 n/a as 1902. Josephine Bailey × Willis 15 Sep 1897 DISPROVED as this bride.
+
+> Bath USGW year-file index: no 1902 file. Allen Oct 1902 fire reconstructed list nil Josephine/Gilbert as parties.
+
+Pass 2: License still unseen. Do not close B063.
+
+### Facts extracted → claim IDs
+- kyhamm Rowan 1856–1920 covering 1902 nil this couple → C1101
+- Magoffin 1860–1900 n/a; Josephine Bailey 1897 DISPROVED → C1102
+- Allen/Bath/Fleming remaining n/a/other → C1103
+- B063 remaining gap → C1105
+
+## DOC239 — T288 IIIF timeout 15s (Pass 104)
+
+- Extract: `t288-timeout-pass104.txt` SHA-256 `9e7bc28943da1f04650cf66642de0e0022d727e4974446cd4584d5f00578ecde`
+- Provenance: NARA Catalog IIIF T288-0348-01001 info.json; FamilySearch 1919699 SPA; IA title search. Opened 31 Oct 2026. **Access-fail**.
+
+### Diplomatic — cited access results
+
+> Reel 348 frame 01001 info.json timeout 15s, 0 bytes. FamilySearch SPA unread. IA numFound 0. Card images unseen.
+
+Pass 2: Do **not** invent T288 card contents. Do **not** promote C509.
+
+### Facts extracted → claim IDs
+- IIIF timeout 15s, 0 bytes; images unseen → C1104
+- B061 remaining gap → C1106

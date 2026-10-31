@@ -1,0 +1,23 @@
+Pass 104 — NARA T288 IIIF / substitutes, 31 Oct 2026 (America/New_York)
+Card images unseen. Do not invent T288 contents. Do not promote C509.
+
+Reel 348 frame 01001 info.json
+  URL: https://catalog.archives.gov/iiif/3/lz%2Fdc-metro%2Frg-015%2F563268/T288-0348/T288-0348-01001.tif/info.json
+  Result: timeout 15s, 0 bytes (curl 28).
+
+NARA Catalog file unit 382335916 (reel 348 unit 1)
+  URL: https://catalog.archives.gov/id/382335916
+  HTTP 200, 5,454-byte SPA HTML. Not the microfilm; cards unseen.
+
+FamilySearch collection 1919699 (United States General Index to Pension
+Files, 1861–1934 = T288)
+  Search URL returned 19,655-byte search-react SPA. SERVER_DATA.isLoggedIn
+  = false. Card images unread. Do not invent results.
+
+Internet Archive advancedsearch title:(general index to pension files) AND T288
+  JSON numFound 0 (315 bytes). No T288 Newman reel on IA under that title
+  query. (IA veteransadminist0348unit is M850 payment cards Carmac–Carmouche,
+  not T288 Newman.)
+
+Prior timeouts remain true: 40s, 15s, HTTP 502, 20s, 25s, 22s/30s, 20s.
+Pixels unseen.

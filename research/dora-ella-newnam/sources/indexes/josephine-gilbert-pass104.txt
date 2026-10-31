@@ -1,0 +1,84 @@
+Pass 104 — Josephine Newnam × Gilbert ~1902 remaining substitutes
+Opened 31 Oct 2026 (America/New_York). HTML-seen compiled / submitted indexes.
+License unseen. Original 1916 DC face unseen. T288 images unseen.
+
+Clint Hamm Genealogy kyhamm.com/rowanmarr.php OPENED (HTTP 200, 376,978 bytes).
+  HTML SHA-256 1e4c86bc764f4ecd1a31b265cdc35af744144ba4173038593ce1505bf69d2688
+  (full HTML not committed). Searchable Rowan County KY marriages, dated rows
+  1856–1920 (2,795). Year counts 1898=78, 1899=120, 1900=103, 1901=107,
+  1902=101, 1903=116, 1904=99, 1905=101. This is the covering 1880–1920
+  compilation previously listed on kygenweb / tpettit.verio.com (both still
+  the 5,781/5,782-byte landing with no table; C1089) and not the 11-couple
+  USGW vitals submitted index (C1095).
+  Nil Newnam. Nil Gilbert surname.
+  Other Newman tokens (not this couple):
+    Newman, John × Cooper, Malverna 31 Aug 1856 other;
+    Baldridge, William × Newman, Francis 18 Jul 1912 other.
+  Josephine given-name 0. Josie given-name other brides (not Newnam):
+    Williams, Josie × Caudill, John M. 7 Mar 1908;
+    Caywood, Josie × Clarke, John 17 Nov 1897;
+    Cornett, Josie M. × Grayson, Albert 3 Oct 1900;
+    Kring, Josie × Holacker, A. D. 19 Jan 1889;
+    Alfrey, Josie × McKinney, Herbert 23 Dec 1904;
+    Perkins, Josie × Quesinberry, George 30 Jun 1906;
+    McAlister, Josie × Reed, Washington 8 Mar 1898.
+  Alfrey, W. H. × Myers, Josapheen 15 Jun 1882 DISPROVED as this bride
+    (year 1882; bride Myers ≠ Newnam).
+  1902 sample includes Adams×Craig 20 Aug, Alfrey×Dehart 25 Dec, and 99
+  other couples; none Newnam/Newman/Gilbert/Josephine.
+  License unseen (compiled table, not the civil license image).
+
+Magoffin KYGenWeb:
+  marriages-1861-1900.html OPENED (45,351 bytes). Title Random Marriage
+  Records 1860–1900; source unknown (presume clerk). 159 Spouse: tokens.
+  Years through 1900 (10 dated 1900); token 1901=0, 1902=0. Nil Josephine /
+  Newman / Newnam / Gilbert. n/a as a 1902 Newnam license.
+  n_marr.html OPENED stub (4,307 bytes): Nickels/Nickell/Nicles grooms
+  1869–1883 only; nil Newman/Newnam. g_marr.html / g_marr.htm / g-marr.html
+  HTTP 404.
+  marr_bride.html / marriages-counties.html are mixed-county dumps.
+  Magoffin-only Josephine: Bailey, Josephine × Frank Willis 15 Sep 1897
+    DISPROVED as this bride (year 1897; maiden Bailey).
+  Other Josephines on that dump are other counties (Conley 1893 Johnson;
+    Green Harlan/Knox; Salyer 1876 Montgomery). Gilbert F. Coldiron 1880
+    Johnson is a given-name Gilbert, other.
+  Magoffin County Historical Society “First 50 years 1860–1910” listed as
+    a lookup/purchase book; not opened.
+
+Allen County KY:
+  kygenweb.net/allen/missing_marriagerecords.htm OPENED (32,178 bytes).
+  October 1902 courthouse fire destroyed certificates/bonds/licenses
+  1815–1902; this page is a reconstructed missing-marriage list.
+  Nil Josephine / Gilbert as parties. Etta Newman appears as a witness
+  at Oliver × Oliver 19 Feb 1896 (Allen County News 48th anniversary) —
+  other Newman token, not a 1902 Newnam bride.
+  Genealogy Trails allen/marriage_index.html landing OPENED: links
+    marriages_1815-1820.html (5,050 bytes) n/a as 1902;
+    marriages_1909-1914.html (10,909 bytes) opened, years 1909–1914,
+    nil Josephine/Newman/Gilbert, n/a as 1902;
+    miscmar1.html / news_marriages.html nil those names.
+  Historical-society books 1900–1925 / Oct 23 1902–1975 still listed,
+    not opened as digital indexes.
+  IA identifier indextomarriager01unit “Allen County 1824–1920” is Dewey
+    977.201 AL5PEE (Allen County, Indiana WPA); n/a as Allen KY. OCR not
+    used as a Kentucky 1902 license.
+
+Bath County KY:
+  kygenweb bath/marriage_records.html is a 2,958-byte landing pointing at
+    usgwarchives.net/ky/bath/marriage.htm (live timeout 12s, 0 bytes).
+  Wayback 20120304195317 of that index OPENED (26,938 bytes chrome;
+    year-file grid). Submitted year files exist for 1900, 1901, 1905,
+    1906, 1909, 1913, 1920, 1937 and Mixed; no 1902 / 1903 / 1904 year
+    file on the grid.
+  Wayback id_ year files OPENED: 1900 (15,619) / 1901 (17,319) / 1905
+    (14,307) / mixed (24,054). Nil Josephine / Newman / Newnam / Gilbert.
+    Mixed includes Jackson 1813–1849, Rice, Thompson books 1–6, Various
+    1879 & 1903, Various 1870–1889 — no 1902 token. Adjacent 1901
+    submitted couples other (Eva×Williams 12 Feb; Hunt×Anderson 16 Oct;
+    Hyatt×Reynolds 13 Oct; Riddle×Darnell 15 Oct; Rose×Spousel 27 Feb).
+
+Fleming KYGenWeb vitals.htm OPENED (5,541 bytes): marriages 1852, 1853,
+  1855–1858, 1860 plus Hunt female/male. n/a as 1902. /marriages/ 404.
+Letcher /marriages/ still the 89,319-byte county landing (C1090).
+
+License still unseen. Do not close B063.

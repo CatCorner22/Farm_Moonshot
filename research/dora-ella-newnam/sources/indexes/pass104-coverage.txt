@@ -1,0 +1,46 @@
+Pass 104 coverage — 31 Oct 2026 (America/New_York)
+This run bc-01a18bb4-e162-785c-9724-86a7c5663bf1
+Catalog list-cloud-agents includeArchived limit 200 → 195 / hasMore false / totalMatched 195.
+Was 193 (Pass 103 filing). NEW vs 193 (2; no IDs imported):
+  Read IN leftover N-O 1561-1584 RUNNING
+    bc-425ade60-23ad-54b6-b2f5-208c67c27a39
+  Read IN leftover N-O 1585-1609 RUNNING
+    bc-7dddb0d5-950b-5762-8b3f-546ef5437e1a
+Status-only (not new IDs):
+  B051 Luther death stone renamed B054 Carter Cove stones
+    same id bc-20e39036-9573-5790-87e8-76e84d742488 still RUNNING.
+  Hunt Dora remains B077 White leftovers and year holes
+    same id bc-aa43eaa5-be23-54be-a20a-7a5238fd33f8 still RUNNING.
+  B053 renamed B057 Everett residuals
+    same id bc-c5415202-619c-5848-aaa6-1ce23094b5fd still RUNNING.
+  1900–death locations remains B092 ED 200 name columns
+    same id bc-6d51c793-cffb-5165-99f1-7d7ac656b317 still RUNNING.
+  Sibling PR #33 C281 not imported.
+Nested reviewer not respawned. Message queue empty.
+Skip C221–C280 / L245–L342 / S259–S266.
+Do not mint C274–C280. Do not promote C509. Do not hunt D-540.
+Do not close B063. Do not hunt remaining 1930 Owsley sheets (closed Pass 94).
+Do not import C281. Do not invent T288 card contents.
+Do not commit leftover 1920 ED 89 / N-550 JPEGs.
+
+Work this pass:
+- kyhamm.com/rowanmarr.php OPENED (376,978 bytes HTML). Searchable Rowan
+  County KY marriages 1856–1920: 2,795 dated rows; 101 in 1902. This is the
+  covering compilation previously listed but unseen on kygenweb (C1089).
+  Nil Josephine Newnam × Gilbert. Two other Newman tokens (1856 / 1912).
+- Magoffin KYGenWeb 1860–1900 random groom list OPENED (45,351 bytes; 159
+  Spouse: tokens; years through 1900; 0 in 1901/1902). n_marr stub nil Newman.
+  g_marr 404. Josephine Bailey × Frank Willis 15 Sep 1897 Magoffin DISPROVED
+  as this bride. 1860–1910 historical-society book listed, not opened.
+- Allen KY missing-after-Oct-1902-fire list OPENED. GT 1815–1820 n/a;
+  GT 1909–1914 opened nil / n/a as 1902. IA Allen 1824–1920 (977.201 AL5PEE)
+  is Allen County, Indiana, n/a as Allen KY.
+- Bath USGW marriage.htm Wayback OPENED as year-file index; no 1902 file.
+  1900/1901/1905/mixed submitted files nil Josephine/Newman/Gilbert.
+- Fleming vitals.htm marriages 1852–1860 + Hunt n/a as 1902. Letcher still
+  the 89,319-byte county landing.
+- T288 IIIF reel 348 timeout 15s, 0 bytes. FamilySearch collection 1919699
+  SPA unread (isLoggedIn false). IA T288 title search numFound 0.
+  Catalog file-unit 382335916 is SPA HTML, not cards.
+
+B061 / B063 remain open. Next unused after this pass: C1107+ / L985+ / S738+ / DOC240+.
