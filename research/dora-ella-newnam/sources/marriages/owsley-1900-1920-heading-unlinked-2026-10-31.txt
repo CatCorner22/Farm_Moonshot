@@ -1,0 +1,25 @@
+# Owsley "1900 to 1920" marriages heading has no published file
+# KYGenWeb: https://kygenweb.net/owsley/marry/  HTTP 200, 2583 bytes, 31 Oct 2026
+# RootsWeb twin: https://sites.rootsweb.com/~kyowsley/marry/index.htm
+#   curl HTTP 403 (2 bytes). WebFetch returned the same heading list.
+# Local copy: sources/marriages/kygenweb-owsley-marry-index-2026-10-31.html
+# Wayback CDX: sources/marriages/wayback-owsley-marry-cdx-2026-10-31.txt
+#   query: sites.rootsweb.com/~kyowsley/marry/*  status 200 only:
+#     1850's-1870's Marriages by Bride Name.html
+#     index.htm
+#     Marriages1850-1880 by Groom Name.html
+#     Marriages1973-2000.html
+#   No 1900-1920 URL was ever archived as HTTP 200.
+
+On the live KYGenWeb HTML, "Owsley County Marriages 1900 to 1920"
+(and 1880-1900, 1920-1940, 1940-1960, 1960-1973) are plain <font> text
+with no href. Child URL guesses 404:
+  /owsley/marry/1900-1920.htm
+  /owsley/marry/1900to1920.htm
+  /owsley/marry/Marriages1900-1920.html
+
+This does not prove no 1911–1917 license issued. It proves the
+compiled 1900–1920 page advertised on the index was never published
+(or never captured). Extends C321 USGenNet 1911–1972 gap.
+Retrieval remaining: Owsley Clerk, Booneville / FS county-marriage images
+/ Hollingsworth reconstructed 1843–1910 print (ends 1910).

@@ -1,0 +1,10 @@
+# Estill 1917 + 1919 year pages + out-of-county Lee
+# 1917: https://kygenweb.net/estill/site/records/death/pages/1917.htm  HTTP 200, 8384 bytes
+# 1919: https://kygenweb.net/estill/site/records/death/pages/1919.htm  HTTP 200, 3575 bytes
+# Lee OOC: https://kygenweb.net/estill/site/records/death/pages/lee.htm HTTP 200, 10850 bytes
+# Captured 31 Oct 2026. Partial submitted tables.
+
+1917 names opened: Arvin Nancy Margaret; Brandenberg John S; Brinegar Hellen;
+Engle Charles A; (remainder on saved HTML). Nil Newnam/Newman/Smallwood/Mary A.
+1919 table: Hoover, John, 22 Aug 1919, age 84 only. Nil Newnam.
+Lee OOC Newnam: Johnnie 1972 only (see S310).

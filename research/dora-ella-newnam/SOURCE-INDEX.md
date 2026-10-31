@@ -41,6 +41,16 @@ Captured this session: **31 Oct 2026** (S283–S290). Earlier plates remain in `
 | S303 | `sources/births/owsley-1911-1920-j-jackson-pearl-nil-2026-10-31.txt` | 2026-10-31 | USGenNet Owsley births J | https://usgennet.org/usa/ky/county/owsley/births/j.html | KY birth index 1911–1920 | **Nil** mother Pearl; Agnes G. Jackson 1911 only (**C322**) | index / negative |
 | S304 | `sources/deaths/owsley-1918dc-mary-newnam-nil-2026-10-31.txt` (+ HTML `owsley-1918dc-2026-10-31.html`) | 2026-10-31 | USGenNet Owsley 1918 DCs | https://usgennet.org/usa/ky/county/owsley/deaths/1918dc.html | Photographed-certificate extracts | **Nil** Mary A. Newnam (**C324**) | transcription only (negative) |
 | S305 | *(same GT Lee WWI parse as S248)* | 2026-10-31 | Genealogy Trails Lee WWI | re-grep of existing file | Draft transcript | **Nil** Clyde Jackson registrant (**C323**) | transcription only (negative) |
+| S306 | `sources/deaths/ky-death-index-1918-newman-block-2026-10-31.txt` | 2026-10-31 | Reclaim The Records / IA | https://archive.org/download/reclaim-the-records-kentucky-death-index-01911-1989/Reclaim_The_Records_-_Kentucky_Death_Index_-_01918.TXT | KY death index 1918 | **Nil** Mary A. Newnam (**C326**) | index only (negative) |
+| S307 | `sources/deaths/ky-death-index-1917-newman-block-2026-10-31.txt` | 2026-10-31 | same | `…_01917.TXT` | KY death index 1917 | **Nil** matching P005 (**C327**) | index only (negative) |
+| S308 | `sources/deaths/ky-death-index-1919-newman-block-2026-10-31.txt` | 2026-10-31 | same | `…_01919.TXT` | KY death index 1919 | **Nil** P005; Clay Smallwood Mary 76 **rejected** (**C328**) | index only |
+| S309 | `sources/deaths/estill-1918-2026-10-31.html` + `estill-1918-mary-newnam-nil-2026-10-31.txt` | 2026-10-31 | KYGenWeb Estill | https://kygenweb.net/estill/site/records/death/pages/1918.htm | Submitted 1918 year page | Two names only; **nil** Newnam (**C329**) | transcription only (negative) |
+| S310 | `sources/deaths/estill-death-landing-2026-10-31.html` + `estill-n-letter-unpublished-2026-10-31.txt` | 2026-10-31 | KYGenWeb Estill | https://kygenweb.net/estill/site/records/death/ | Death landing | Letter **N** unpublished (**C330**) | catalog / negative |
+| S311 | `sources/deaths/estill-1917-2026-10-31.html`, `estill-1919-2026-10-31.html`, `estill-ooc-lee-2026-10-31.html` + extract | 2026-10-31 | KYGenWeb Estill | pages/1917.htm, 1919.htm, lee.htm | Submitted year + OOC Lee | **Nil** Mary A.; Johnnie 1972 only (**C333 C334**) | transcription only (negative) |
+| S312 | `sources/deaths/breathitt-births-deaths-landing-2026-10-31.html` + extract | 2026-10-31 | KYGenWeb Breathitt | https://kygenweb.net/breathitt/births_deaths/ | Landing | **No** 1918 death year file (**C331**) | catalog / negative |
+| S313 | `sources/marriages/kygenweb-owsley-marry-index-2026-10-31.html` + `wayback-owsley-marry-cdx-2026-10-31.txt` + extract | 2026-10-31 | KYGenWeb / Wayback CDX | https://kygenweb.net/owsley/marry/ | Marriage index | 1900–1920 heading **unlinked**; no archived file (**C332**) | catalog / negative |
+| S314 | `sources/press/ia-dardanelle-1926-solr-2026-10-31.json` · `ia-posa-stone-1926-solr-2026-10-31.json` + extract | 2026-10-31 | Internet Archive Solr | https://archive.org/ | 1926 title / name search | **numFound 0** (**C335**) | index only (negative) |
+| S315 | `sources/military/owsley-military-2026-10-31.html` + `sources/locality/owsley-courthouse-fire-1967-2026-10-31.html` + extract | 2026-10-31 | USGenNet Owsley | military.html + photos/chfire67.html | Military landing + 1967 fire | **No** WWI list (**C336**); fire page locality (**C337**) | catalog / negative |
 
 ## Word biography provenance
 
@@ -56,7 +66,8 @@ See [`sources/authored/PROVENANCE.md`](sources/authored/PROVENANCE.md). Drive se
 | *Yell County Journal* (Ola, 1925–1934) | AR State Archives / Danville or Plainview library | Not digitised free |
 | NARA M1509 rolls **KY45** (Lee), **KY24** (Estill), **KY74** (Owsley), **AR69** (Yell) | FS sign-in or NARA: **Clyde Jackson** b. **May 1892** on **KY74**; also John H. / McCoy | Cards unread (**B047** / **B058**) |
 | KDLA / KHS Lee probate 1873–2004 | Film browse Samuel P. Newnam admin. | **B045** |
-| Owsley Co. marriage books **1911–1917** (not on USGenNet) | FS catalog / Owsley Clerk, Booneville: **Clyde Jackson** × **Pearl Newnam/Newman**; parents **Rufus × Margaret** if C318 holds | Published gap (**C321** / **B057**) |
+| Owsley Co. marriage books **1911–1917** (not on USGenNet; 1900–1920 heading never linked) | FS catalog / Owsley Clerk, Booneville: **Clyde Jackson** × **Pearl Newnam/Newman**; parents **Rufus × Margaret** if C318 holds | Published gap (**C321 C332** / **B057**) |
+| Hollingsworth 2002 Owsley WWI draft cards (WorldCat **54019565**) | On-site / ILL: **Clyde Jackson** b. **May 1892** | Free military page has no WWI list (**C336** / **B062**) |
 
 ## Variant strings used this session (categories 1–4)
 
@@ -66,6 +77,8 @@ See [`sources/authored/PROVENANCE.md`](sources/authored/PROVENANCE.md). Drive se
 
 **Thomas / T. A. Stone:** Thomas, Tom, T. A., T A × Stone, Store, Stowe (rejects already logged).
 
-Exact strings in `02-log.md` **L343–L352** (pass 60–61), **L361–L372** (pass 62), and **L373–L379** (pass 63).
+Exact strings in `02-log.md` **L343–L352** (pass 60–61), **L361–L372** (pass 62), **L373–L379** (pass 63), and **L396–L405** (pass 64).
 
 **Pearl / Clyde (pass 63):** Pearl × Newnam/Newman/Jackson; Clyde × Jackson/jacksen. Soundex **N550** / **J250**.
+
+**Mary A. Newnam 1918 (pass 64):** Mary / mayr / mam / marv × Newnam / newman / newnarn / newan / newnom / Smallwood. Soundex **N550** / **S543**.

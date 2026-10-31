@@ -1,0 +1,40 @@
+# Extract: Kentucky statewide death index 1917
+# Same IA item. File: ..._01917.TXT. Downloaded 31 Oct 2026. HTTP 200, 3,999,491 bytes. Index only.
+# ZERO rows spelled NEWNAM.
+# NEWMAN Mary rows: MARY F age 8 JEFFN 10/30/1917; MARY K age 72 WBSTR 02/17/1917 — neither is P005 (age, county, date).
+# LEE Newman: DELLIE 21 LEE 01/08/1917 — not Mary A.
+# SMALLWOOD Mary: age 4 LESLI 11/18/1917 — child.
+
+NEWMAN          ALVA               U/1       MLNBG                   02/23/1917 012  05699 /1917
+NEWMAN          CALLIE     L       U/1       ALLEN                   08/02/1917 043  21269 /1917
+NEWMAN          CHAS       O        20       FLMNG                   10/29/1917 055  27350 /1917
+NEWMAN          COLUMBUS            54       JEFFN                   03/09/1917 017  08038 /1917
+NEWMAN          DELLIE              21       LEE                     01/08/1917 024  11741 /1917
+NEWMAN          EDWARD              20       KENTN                   04/01/1917 024  11592 /1917
+NEWMAN          ELIZA               86       MLNBG                   11/05/1917 063  31386 /1917
+NEWMAN          FLORA               49       BRECK                   07/02/1917 038  18774 /1917
+NEWMAN          FRANCIS    M        70       BOYD                    01/28/1917 001  00243 /1917
+NEWMAN          JAMES      P        81       HENRY                   02/14/1917 009  04388 /1917
+NEWMAN          JENHOWS             64       MCCRK                   05/08/1917 031  15002 /1917
+NEWMAN          JOHN       E        65       SMPSN                   09/27/1917 053  26433 /1917
+NEWMAN          LALLIE              35       BARRN                   08/03/1917 043  21314 /1917
+NEWMAN          LEE        R        49       UNION                   02/16/1917 013  06141 /1917
+NEWMAN          MARGARET   E        58       ALLEN                   04/02/1917 020  09803 /1917
+NEWMAN          MARGARET   F        83       MTCLF                   07/04/1917 042  20655 /1917
+NEWMAN          MARY       F         8       JEFFN                   10/30/1917 056  27866 /1917
+NEWMAN          MARY       K        72       WBSTR                   02/17/1917 026  12720 /1917
+NEWMAN          NATHANIEL  M        82       DAVES                   02/24/1917 008  03788 /1917
+NEWMAN          OLAN       H         1       ALLEN                   07/07/1917 038  18502 /1917
+NEWMAN          PRISCILLA           94       MCCRK                   08/08/1917 047  23201 /1917
+NEWMAN          SMITH               67       KNOX                    07/21/1917 041  20240 /1917
+NEWMAN          SYDNEY     A        60       BOYD                    02/17/1917 007  03272 /1917
+NEWMAN          THOMAS              87       BALLD                   01/25/1917 001  00057 /1917
+NEWMAN          WILLIAM    C        42       MLNBG                   08/08/1917 053  26123 /1917
+SMALLWOOD       ARTHUR              18       BELL                    10/15/1917 054  26726 /1917
+SMALLWOOD       CELSA      D       U/1       FLOYD                   01/21/1917 002  00915 /1917
+SMALLWOOD       CLYDE                3       CLAY                    01/01/1917 002  00649 /1917
+SMALLWOOD       DAVID      E        75       LAURL                   10/04/1917 057  28311 /1917
+SMALLWOOD       ELZY                 4       BELL                    11/30/1917 065  32048 /1917
+SMALLWOOD       JASPER     R        35       CLAY                    06/10/1917 033  16415 /1917
+SMALLWOOD       MAMIE      M       U/1       GRYSN                   08/02/1917 045  22194 /1917
+SMALLWOOD       MARY                 4       LESLI                   11/18/1917 005  02065 /1918

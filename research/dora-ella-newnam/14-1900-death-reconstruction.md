@@ -4,7 +4,7 @@ Year-by-year / event-by-event pinpoints from **1 June 1900** through **24 August
 Only cited claims. Confidence: **PROVEN** · **PROBABLE** · **POSSIBLE** · **SPECULATIVE** · **DISPROVED**.  
 Unverified items stay **open**. Living descendants are redacted.
 
-**Session:** 31 Oct 2026 · branch `cursor/dora-1900-death-reconstruction-2b6a` · logs **L361–L379** · claims **C305–C325** · sources **S283–S290, S299–S305**.  
+**Session:** 31 Oct 2026 · branch `cursor/dora-1900-death-reconstruction-2b6a` · logs **L361–L405** · claims **C305–C337** · sources **S283–S290, S299–S315**.  
 **Ages** computed from birth **11 Aug 1871** (year **PROVEN**; day 11 **POSSIBLE**): 28 on 1 Jun 1900; 38 on 15 Apr 1910; 45 on 18 Feb 1917; 48 on 1 Jan 1920; 55 on 23 Aug 1926.
 
 ---
@@ -19,7 +19,7 @@ Unverified items stay **open**. Living descendants are redacted.
 | 1911–Jan 1917 | No record read places her | **open** | C205 |
 | 18 Feb 1917 | Son Coy marries at **Ola**, Yell Co., AR — first documented **Arkansas** event for this *family*; does **not** place Dora at the courthouse | Event **PROVEN**; her presence **POSSIBLE** | C027 C312 |
 | 29 Jun 1917 / 11 Mar 1919 | Daughter Pearl registers two births in **Lee Co., KY** as Pearl Newman | Children **PROVEN** in Lee; Dora **not** on those index rows | C306 C307 |
-| 11 Jul 1918 | Mother **Mary A. Newnam** buried Brandenburg-Quillen, Heidelberg | Burial **PROVEN** (2001 reading); civil Lee DC **not found**; Dora **not named** | C309 C310 C047 |
+| 11 Jul 1918 | Mother **Mary A. Newnam** buried Brandenburg-Quillen, Heidelberg | Burial **PROVEN** (2001 reading); **statewide KY death index 1917–19 nil**; Dora **not named** | C309 C310 C326 C047 |
 | Jan 1920 | **Not** in Pearl’s Sturgeon house; **not** in Coy’s Danville house; **not** in Elias’s Beattyville house; **not** Mrs. Stone on Yell ED 200; Tom A. Stone is a **widower** in Perry Co. | Her line **UNKNOWN**; those four households **PROVEN** negatives | C305 C207 C209 C213 C050 |
 | Feb 1920–1925 | **Probable** m2 T. A. Stone *after* 24 Feb 1920 (he is widowed that day) | m2 **PROBABLE**; date/place **open** | C014 C316 |
 | noon 23 Aug 1926 | Death, Ola, Yell Co., AR; spouse T. A. Stone; informant Coy Newnam of Ola; apoplexy 1 day | **PROVEN** | C015 |
@@ -140,7 +140,7 @@ Pearl is therefore in **Lee County, Kentucky**, as a married woman using Newman,
 
 **Pearl × Clyde Jackson license:** **not** in Lee Marriage Books **8–14** (Books **9–13** prior; **8** and **14** this pass). [C308] [C320] [S288] [S302] Aggregator pages list 1915 Newnam / 1918 Newman in Kentucky — **authored/index noise, SPECULATIVE**, not a substitute for a book row. First *documented* married name is the June 1917 birth index. Marriage by that date is **PROBABLE**.
 
-Owsley’s published marriage index has **no book or VS page for 1911–1972**. The submitted-marriages page has one 1866 couple only. [C321] [S301] That unpublished courthouse interval is the remaining first-choice retrieval: both parties were in Buck Creek in 1910. [C317] [C026]
+Owsley’s published marriage index has **no book or VS page for 1911–1972**. The submitted-marriages page has one 1866 couple only. [C321] [S301] The KYGenWeb/RootsWeb “1900 to 1920” heading is **unlinked text**; Wayback never archived a child file. [C332] [S313] That unpublished courthouse interval is the remaining first-choice retrieval: both parties were in Buck Creek in 1910. [C317] [C026]
 
 Owsley 1911–1920 birth index **J** has one Jackson child (Agnes G., mother Margaret Isaacs, 28 Apr 1911) and **no** Pearl as a Jackson mother. [C322] [S303] Pearl’s 1917 and 1919 births stay Lee. Lee WWI draft transcript has **no** registrant Clyde Jackson. [C323]
 
@@ -155,8 +155,12 @@ That is a **cemetery transcription**, not a death certificate. This pass opened:
 - Lee 1918 death-certificate extracts: **no** Mary / Mary A. Newnam or Newman. [C310] [S285]
 - Lee death index 1911–1929, N: **no** Mary / Mary A. Newnam or Newman (extends S047). [C310] [S286]
 - Owsley 1918 death-certificate extracts: **no** Mary / Mary A. Newnam or Newman. [C324] [S304]
+- Kentucky **statewide** death index **1918**: **zero** rows spelled **NEWNAM**; fourteen **NEWMAN** rows, none Mary, none age ~76, none in Lee/Owsley/Estill/Breathitt/Jackson/Wolfe. [C326] [S306]
+- Same index **1917** and **1919** (one-year stone-slip test): **no** matching Mary A. Newnam. [C327] [C328] [S307] [S308]
+- Estill 1918 submitted year page: two names only (Abney; Brandenberg). Letter **N** unpublished. Estill 1917/1919 submitted pages **nil**. [C329] [C330] [C334]
+- Breathitt KYGenWeb: **no** 1918 death year file. [C331]
 
-**Conflict #18 (new):** stone date and yard vs missing Lee civil index row. **Not averaged.** Burial at Heidelberg is **PROVEN** as a 2001 reading. Death *in Lee County* is only **PROBABLE** (people are sometimes buried in the home yard after dying elsewhere). Informant — the field that might have named Dora — is **unread**. Do not print “Dora was at her mother’s funeral.”
+**Conflict #18:** stone date and yard vs **missing civil row at county *and* statewide**. **Not averaged.** Burial at Heidelberg is **PROVEN** as a 2001 reading. Death *in Lee County* is only **PROBABLE**. The informant field — the one that might have named Dora — **cannot be read**, because there is no 1917–19 index row to retrieve. A 1919 Clay County **SMALLWOOD, Mary**, age 76, is a **rejected** near-hit (maiden name, different county, different year and day). [C328] Do not print “Dora was at her mother’s funeral.” Do not print a Kentucky certificate number.
 
 Elias is enumerated **widowed** in January 1920, which is consistent with a 1918 death of Mary and is independent of the missing civil row. [C091]
 
@@ -223,7 +227,7 @@ Certificate **1524**, RD **676**. Index alias **Posa Stone** is **PROBABLE** (us
 
 **24 August 1926 — PROVEN.** Burial **Carters Chapel** / Carter Cemetery, Lamar Township (Carter Cove), Yell County. [C016] [C206] 1993 Daniels/Cossey reading: “Newman, Dora” without dates. [S078] Compiled yellcountyobits row matches that spelling. [C282] Stone photograph still **open** (**B054**).
 
-**No 1926 obituary** has been read. *Beattyville Enterprise* 1926 is not in IA `beatty` or the UK film years listed; *Yell County Journal* is not digitised free. [C293] [C301] [C302] **B049 open.**
+**No 1926 obituary** has been read. *Beattyville Enterprise* 1926 is not in IA `beatty` or the UK film years listed; *Yell County Journal* is not digitised free. [C293] [C301] [C302] This pass added IA Solr **0** for *Dardanelle Post-Dispatch* 1926 and for Dora/Posa Stone 1926. [C335] **B049 open.** The logged phone was **not** re-called.
 
 ---
 
@@ -278,7 +282,7 @@ WWI: Lee County draft transcript (1,126 cards) has **no** Newnam / Newman / McCo
 | 1915 | — | **open** |
 | 1916 | — | **open** |
 | 1917 | Children in **two** states (Coy Ola; Pearl Lee). Her own place **not stated** | **POSSIBLE** AR or KY |
-| 1918 | Mother buried Heidelberg; Dora not named; Lee civil DC **nil** | **open** for her |
+| 1918 | Mother buried Heidelberg; Dora not named; Lee **and statewide 1917–19** civil index **nil** | **open** for her |
 | 1919 | Pearl still Lee (Fannie B.). Dora not on the row | **open** |
 | 1920 | Not with Pearl, Coy, or Elias; not Mrs. Stone yet if Tom A. is the husband | **UNKNOWN** |
 | 1921 | — | **open** |
@@ -309,9 +313,9 @@ WWI: Lee County draft transcript (1,126 cards) has **no** Newnam / Newman / McCo
 | Yell marriage 1920–1925 Newnam/Newman × Stone | m2 date and place |
 | *Yell County Journal* / *Enterprise* Aug–Sep 1926 | Obit, kin list (**B049**) |
 | M1509 **AR69** (Yell) / **AR49** (Perry) / **KY45** | Coy or John H. nearest-relative line |
-| Mary A. Newnam 1918 KY death certificate (statewide, not only Lee) | Informant; death place vs Heidelberg burial |
-| Pearl × Clyde license — **Owsley courthouse / FS film 1911–1917** (published gap) | Whether Dora consented / residence of the bride; groom’s parents should be Rufus × Margaret if C318 holds |
-| Clyde Jackson WWI card — M1509 **KY74** (Owsley) then **KY45** | Nearest relative; 1917–18 address (not on Lee GT transcript) |
+| Mary A. Newnam 1918 KY death certificate | **No 1917–19 statewide index row.** Do not order a KY cert without volume/file. Unregistered / burial-only remains leading |
+| Pearl × Clyde license — **Owsley courthouse / FS film 1911–1917** (published gap; 1900–1920 heading never linked) | Whether Dora consented / residence of the bride; groom’s parents should be Rufus × Margaret if C318 holds |
+| Clyde Jackson WWI card — M1509 **KY74** (Owsley) then **KY45**; or Hollingsworth 2002 print | Nearest relative; 1917–18 address (not on Lee GT transcript; Owsley military page has no WWI list) |
 | 1900 Sturgeon **original** T623 schedule for hh 67 | Occupation/nativity image (now transcription only) |
 | Yell 1920 **ED 191** remainder | Last unread Carter Cove sector for Mrs. Stone |
 
@@ -319,6 +323,6 @@ WWI: Lee County draft transcript (1,126 cards) has **no** Newnam / Newman / McCo
 
 ## Files this reconstruction rests on
 
-- Case: `03-timeline.md`, `04-evidence.md` (C305–C325, S283–S290, S299–S305), `06-dossier.md`, `07-conflicts.md` #18, `02-log.md` L361–L379, `SOURCE-INDEX.md`
-- New extracts: `sources/census/1920-lee-sturgeon-clyde-pearl-extract-2026-10-31.txt`, `sources/births/lee-births-j-pearl-jackson-2026-10-31.txt`, `sources/cemetery/brandenburg-quillen-mary-a-newnam-2026-10-31.txt`, `sources/deaths/lee-1918-dc-extracts-no-mary-newnam-2026-10-31.txt`, `sources/deaths/lee-kdi-n-1911-1929-mary-nil-2026-10-31.txt`, `sources/census/1920-lee-beattyville-dora-rejects-2026-10-31.txt`, `sources/census/1920-lee-proctor-heidelberg-dora-nil-2026-10-31.txt`, `sources/marriages/lee-books-9-13-pearl-clyde-nil-2026-10-31.txt`, `sources/census/1910-owsley-buck-rufus-clyde-extract-2026-10-31.txt`, `sources/census/1900-owsley-buck-rufus-clyde-extract-2026-10-31.txt`, `sources/marriages/owsley-marr-landing-1911-1972-gap-2026-10-31.txt`, `sources/marriages/lee-books-8-14-pearl-clyde-nil-2026-10-31.txt`, `sources/births/owsley-1911-1920-j-jackson-pearl-nil-2026-10-31.txt`, `sources/deaths/owsley-1918dc-mary-newnam-nil-2026-10-31.txt`
+- Case: `03-timeline.md`, `04-evidence.md` (C305–C337, S283–S290, S299–S315), `06-dossier.md`, `07-conflicts.md` #18, `02-log.md` L361–L405, `SOURCE-INDEX.md`
+- Pass 64 extracts: `sources/deaths/ky-death-index-1918-newman-block-2026-10-31.txt`, `…1917…`, `…1919…`, `sources/deaths/estill-1918-mary-newnam-nil-2026-10-31.txt`, `sources/marriages/owsley-1900-1920-heading-unlinked-2026-10-31.txt`, `sources/press/b049-1926-remaining-free-nil-2026-10-31.txt`, `sources/military/owsley-military-no-wwi-list-2026-10-31.txt`
 - Narrative: `book/Dora-Ella-Newnam-Stone-A-Life.md` § Places: 1900 to death

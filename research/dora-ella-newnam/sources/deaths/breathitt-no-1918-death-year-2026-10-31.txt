@@ -1,0 +1,12 @@
+# Breathitt KYGenWeb births & deaths landing
+# https://kygenweb.net/breathitt/births_deaths/
+# Captured 31 Oct 2026. HTTP 200, 4217 bytes.
+# Local copy: sources/deaths/breathitt-births-deaths-landing-2026-10-31.html
+
+Deaths column lists only:
+  Breathitt County 1852-1859 (persons over 15) — USGW archives
+  1860 Breathitt County Mortality Schedule
+  Kentucky Vital Records Index (ukcc.uky.edu/vitalrec/)
+No 1918 (or any 1911–1920) Breathitt death-certificate year file is published
+on this landing. Births for 1918 exist; those were not needed for P005.
+Statewide 1918 index (S306) already covers Breathitt civil deaths.
