@@ -159,6 +159,17 @@ Regenerated before B051 queries (`bc-c5415202`). **Left L418–L429 / C367–C37
 
 Exact strings logged **L430–L441**.
 
+## Name-variant storm (pass 69, `search_variants.py`, 31 Oct 2026)
+
+Regenerated before **B057** queries (`bc-20e39036`). **Did not take B051** (sibling `bc-c5415202` L441 Done). **Left L418–L429 / C367–C374 / S317–S322 for B092.** Categories **1–4**:
+
+1. **Canonical:** Callie (Moore) Newnam of Idamay/Proctor/Vincent; Dorothy Newnam infant; Everett/Everet/Evert Newnam of Idamay; Grant Newnam × Dova/Dona Cole; Frank of Berea; John of Owsley.
+2. **User / family:** Newman / Newnam / Newnan / Newmam; Callie / Calie; Everette; Francis / Franklin; Joan (Owsley 1915 given) vs Lois (NUMIDENT).
+3. **Machine / OCR given:** Callie (ocr-given: Callie only); Dorothy / porothy / rorothy; Everett (ocr-given: Everett only). Surname: Newnam, newman, newnarn, newan, newnom; Moore. Soundex **N550** / **M600** / **C400** / **D630** / **E163** / **G653** / **F652** / **J500** / **C400** (Cole) / **D100** (Dova) / **D500** (Dona).
+4. **Repository quirks:** USGenNet `Last, First` and year-file tables; Lee Books **8–19** party rows; Owsley VS `1909a.html` / `1910a.html` (not 1911–14 — unpublished; 1929 fire); Madison KYGenWeb `1939b.htm` (N-block; `1939a.htm` is A–D; `1939n.htm` 404); Owsley births `births/n.htm` 1911–1920 (child + mother maiden, **no father column**); Lee 1920 precinct filenames `bt` / `beat1` / `willow` / `proctor1` (no `idamay.html`); Proctor cemetery + Berea Cemetery inventory PDF.
+
+Exact strings logged **L442–L452**.
+
 ## Agent SDK / GitHub channel
 
 Inspected 30 Oct 2026 (**L351**): this repository has **no** `package.json`, **no** `@grok/agent-sdk`, **no** `bot/` directory. GitHub channel `bot/channels/github.ts` is **n/a** and was **not** authored. Project subagent: `.cursor/agents/dora-genealogy-detective.md`.
