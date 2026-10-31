@@ -1467,5 +1467,61 @@ Immediate leaf after Conrad James. → **C454**.
 
 Code is C-562. Closest DE near-hit in the J-window. C-563 John R / Mary G / Samuel have no Jesse. → **C455 / C458**.
 
+## DOC104 — 1900 AZ Soundex C-563, G. W. L. Conrad, 46, Missouri
+- Image: `sources/soundex/az1900-c563-p912-gwl-46-mo.jpg` SHA-256 `07c24861eee889134ce8349d8d01df032308e65977d6626cc1ac51a22b88466e`
+- Reel: IA `soundex1900az005` n**912**
+
+### Diplomatic
+> **C-563 Conrad, G. W. L.** — Head of family · vol **3** ED **38** sh **1** ln **1** · W Jan **1854** **46** Missouri · Mohave / Chloride Precinct  
+> **Conrad, Charlotte Ann** — W, Dec **1865**, **35**, California  
+> **Annie** — D, Aug **1882**, **17**, Arizona
+
+Closest AZ leaf on nativity. Given name G.W.L.; Annie 17 is not Letha ~2. → **C460 / C462**.
+
+## DOC105 — 1900 AZ Soundex C-560 divider
+- Image: `sources/soundex/az1900-c560-p880-divider.jpg` SHA-256 `dedf21a4a05857ced928c9f9ecf8fa59e7d573eac9b9549510b0a1bd0d514b3c`
+- Reel: IA `soundex1900az005` n**880**
+
+### Diplomatic
+> n**880** — Soundex **C-560** code divider (printed “Soundex / A SERVICE”; stamped **mr560**). **No name card.**
+
+C-552 Cunningham ends n878; C-553 Conant n879; C-565/C-560 cards begin n881. → **C460**.
+
+## DOC106 — 1900 NV Soundex C-563, Jacob Conrad, 51, Prussia
+- Image: `sources/soundex/nv1900-c563-p463-jacob-51-prussia.jpg` SHA-256 `1230d363558f1abfb33ab5fc66c544ae29defc9e9473827356914d7c55c8713f`
+- Reel: IA `soundex1900nv002` n**463**
+
+### Diplomatic
+> **C-563 Conrad, Jacob** — Head of family · vol **1** ED **5** sh **14** ln **47** · W Sept **1848** **51** Prussia na · Elko / Lamoille Valley Pct  
+> **Conrad, Martha J** — W, Aug **1853**, **46**, Ohio  
+> **Harry** — S, Apr **1883**, **17**, Nevada  
+> **Jessie** — D, Feb **1887**, **13**, Nevada  
+> **Earl H.** — S, May **1895**, **5**, Nevada  
+> **William D.** — S, June **1898**, **1**, Nevada
+
+Immediate C-563 leaf before the J-gap. Daughter Jessie is 13, Nevada-born. → **C461 / C463**.
+
+## DOC107 — 1900 NV Soundex C-563, Louis Conrad, 20, Germany
+- Image: `sources/soundex/nv1900-c563-p475-louis-20-germany.jpg` SHA-256 `735fdd4505767435c243506dbc536659670e5f7e49a0893b34fc2e3164a7ccb2`
+- Reel: IA `soundex1900nv002` n**475**
+
+### Diplomatic
+> **C-563 Conrad, Louis** — Head of family · vol **2** ED **39** sh **14** ln **68** · W June **1879** **20** Germany na · Storey / Virginia City (Westside)  
+> **Williams, George** — L, Apr **1850**, **50**, England  
+> **Ziegler, Charles** — L, Mar **1835**, **65**, Germany  
+> **Hall, Richard** — L, July **1836**, **63**, [illegible]
+
+Immediate C-563 leaf after the J-gap. No Jesse card. → **C461 / C464**.
+
+## DOC108 — 1900 NM Soundex C-563, Katie Conrad, 2, Missouri
+- Image: `sources/soundex/nm1900-c563-p759-katie-2-mo.jpg` SHA-256 `c1efa8938af3c8d1c0c994b6a22ba39dd3c63fba91c78f326bb390a6b9cb5709`
+- Reel: IA `soundex1900nm005` n**759**
+
+### Diplomatic
+> **Conrad, Katie** — Individual · vol **6** ED **13** sh **15** ln **14** · W July **1897** **2** Missouri · San Miguel / Las Vegas / 8th  
+> Enumerated with **Hubbard, Byron** · Relationship **Roomer**
+
+James/John of other codes precede this leaf. Female, age 2; not Jesse and not Letha Sullivan. → **C459 / C465**.
+
 ## DOC009 — 1910 TN Soundex N-550 McCoy window (nil)
 Handwritten family/individual cards n2461–n2469. Sequence after Mary C (n2460): Mary D 49 Jefferson (son Layton 11); Mary M 70 Hamilton; Mek. G 50 Cheatham (Florence 19, John 17, General 16, Frances 13, William 10, Doria 6, Luther 1½); Melvin 3½ Giles (gs of Deacon George W); Melvin 54 Giles (SIL of same); Minerva 80 Robertson (gds Lona Neely, Nellie Erwin); Minnie 21 Roane (with Sam P. Sparks); Mitchell 27 Hardin (Ollie P 25, Gladys 4, Burl W 3, Royal E 1 9/12). **No McCoy.** SHA-256 n2463 `23610f8aa4c159b1b554ed1786d11f57d2f56f8a2e8994f7289ae7bd02dfca53`; n2469 `340489566090880388fa6b81ca5751c5944dcaf56a7b44f70fe560788f308586`.

@@ -146,6 +146,11 @@ Diplomatic transcriptions: [`08-transcriptions.md`](08-transcriptions.md). Citat
 | 171 | 1900 (index) | Rejected same-name | [New Hampshire C-563 — Conrad, James, 35, New Hampshire, Portsmouth](sources/soundex/nh1900-c563-p1250-james-35-nh.jpg) |
 | 172 | 1900 (index) | Rejected same-name | [New Hampshire C-563 — Choinard, John B, 54, Canada; no Jesse leaf](sources/soundex/nh1900-c563-p1251-john-b-after-james.jpg) |
 | 173 | 1900 (index) | Rejected same-name | [Delaware C-562 — Conrad, James R, 52, Pennsylvania, South Milford](sources/soundex/de1900-c562-p1874-james-r-52-pa.jpg) |
+| 174 | 1900 (index) | Rejected same-name | [Arizona C-563 — Conrad, G. W. L., 46, Missouri, Chloride](sources/soundex/az1900-c563-p912-gwl-46-mo.jpg) |
+| 175 | 1900 (index) | Negative search | [Arizona C-560 — code divider before the interleaved Conrad run](sources/soundex/az1900-c560-p880-divider.jpg) |
+| 176 | 1900 (index) | Rejected same-name | [Nevada C-563 — Conrad, Jacob, 51, Prussia, Lamoille Valley](sources/soundex/nv1900-c563-p463-jacob-51-prussia.jpg) |
+| 177 | 1900 (index) | Rejected same-name | [Nevada C-563 — Conrad, Louis, 20, Germany, Virginia City; no Jesse leaf](sources/soundex/nv1900-c563-p475-louis-20-germany.jpg) |
+| 178 | 1900 (index) | Rejected same-name | [New Mexico C-563 — Conrad, Katie, 2, Missouri, Las Vegas](sources/soundex/nm1900-c563-p759-katie-2-mo.jpg) |
 | 123 | 1900 (index) | Context | [Texas C-563 — J-tab divider](sources/soundex/tx1900-c563-p1-j-divider.jpg) |
 | 17 | Apr 1910 | Negative search | [Kentucky N-550 — Millie / Missouri; no McCoy](sources/soundex/ky1910-n550-p329-millie-missouri.jpg) |
 | 18 | Apr 1910 | Negative search | [Kentucky N-550 — Monroe; still no McCoy](sources/soundex/ky1910-n550-p330-monroe-no-mccoy.jpg) |
@@ -1474,6 +1479,56 @@ White head, June 1845, age 54, born Canada (French), New Ipswich. Wife Mary L, 4
 White head, January 1848, age 52, born Pennsylvania, Cedar Creek Hundred, South Milford. Wife Anna, 44, Delaware; son Harvey, 16, Delaware. Code is C-562, not C-563. Combined with the n1800–2120 every-card walk, Delaware 1900 C-563 has no Jesse Conrad head.
 
 ![Delaware C-562 — Conrad, James R, 52, Pennsylvania, South Milford](sources/soundex/de1900-c562-p1874-james-r-52-pa.jpg)
+
+### 174 · 1900 (index) · Arizona C-563 — Conrad, G. W. L., 46, Missouri, Chloride
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/az1900-c563-p912-gwl-46-mo.jpg`](sources/soundex/az1900-c563-p912-gwl-46-mo.jpg)  
+**Source:** S349 · C460 · C462
+
+White head, January 1854, age 46, born Missouri, Chloride Precinct. Wife Charlotte Ann, 35, California; daughter Annie, 17, Arizona. Closest Arizona leaf on nativity. Given name is G.W.L., and Annie, 17, is not Letha, about 2. Combined with the n820–980 every-card walk, Arizona 1900 C-563 has no Jesse Conrad head.
+
+![Arizona C-563 — Conrad, G. W. L., 46, Missouri, Chloride](sources/soundex/az1900-c563-p912-gwl-46-mo.jpg)
+
+### 175 · 1900 (index) · Arizona C-560 — code divider before the interleaved Conrad run
+
+**Role:** Negative search  
+**File:** [`sources/soundex/az1900-c560-p880-divider.jpg`](sources/soundex/az1900-c560-p880-divider.jpg)  
+**Source:** S349 · C460
+
+Printed Soundex divider stamped mr560. C-552 Cunningham ends n878; C-553 Conant is n879; C-560/565 cards begin n881. Combined with Plate 174 this locates the Arizona 1900 C-563 window.
+
+![Arizona C-560 — code divider before the interleaved Conrad run](sources/soundex/az1900-c560-p880-divider.jpg)
+
+### 176 · 1900 (index) · Nevada C-563 — Conrad, Jacob, 51, Prussia, Lamoille Valley
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/nv1900-c563-p463-jacob-51-prussia.jpg`](sources/soundex/nv1900-c563-p463-jacob-51-prussia.jpg)  
+**Source:** S350 · C461 · C463
+
+White head, September 1848, age 51, born Prussia, Lamoille Valley. Wife Martha J, 46, Ohio; children Harry, 17, Jessie (daughter), 13, Earl H, 5, and William D, 1, all Nevada. Immediate C-563 leaf before the J-gap. Combined with Plate 177 this closes the Nevada 1900 C-563 Jesse slot.
+
+![Nevada C-563 — Conrad, Jacob, 51, Prussia, Lamoille Valley](sources/soundex/nv1900-c563-p463-jacob-51-prussia.jpg)
+
+### 177 · 1900 (index) · Nevada C-563 — Conrad, Louis, 20, Germany, Virginia City; no Jesse leaf
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/nv1900-c563-p475-louis-20-germany.jpg`](sources/soundex/nv1900-c563-p475-louis-20-germany.jpg)  
+**Source:** S350 · C461 · C464
+
+White head, June 1879, age 20, born Germany, Virginia City. Three lodgers. Immediate C-563 leaf after Jacob. Combined with the n460–620 every-card walk, Nevada 1900 C-563 has no Jesse Conrad head.
+
+![Nevada C-563 — Conrad, Louis, 20, Germany, Virginia City; no Jesse leaf](sources/soundex/nv1900-c563-p475-louis-20-germany.jpg)
+
+### 178 · 1900 (index) · New Mexico C-563 — Conrad, Katie, 2, Missouri, Las Vegas
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/nm1900-c563-p759-katie-2-mo.jpg`](sources/soundex/nm1900-c563-p759-katie-2-mo.jpg)  
+**Source:** S348 · C459 · C465
+
+White individual, July 1897, age 2, born Missouri, Las Vegas. Roomer of Byron Hubbard. Female Katie is not Jesse and is not Letha Sullivan. Combined with the n700–860 every-card walk, New Mexico 1900 C-563 has no White Jesse Conrad head about 27 born Missouri.
+
+![New Mexico C-563 — Conrad, Katie, 2, Missouri, Las Vegas](sources/soundex/nm1900-c563-p759-katie-2-mo.jpg)
 
 ### 123 · 1900 (index) · Texas C-563 — J-tab divider
 
