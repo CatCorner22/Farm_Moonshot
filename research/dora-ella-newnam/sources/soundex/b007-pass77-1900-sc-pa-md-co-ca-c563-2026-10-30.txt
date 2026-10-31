@@ -1,0 +1,63 @@
+Pass 77 — 1900 SC/PA/MD/CO/CA C-563 Jesse
+Date: 30 Oct 2026 (America/New_York)
+Backlog: B007 residual other-state 1900
+
+=== Access ===
+Image seen via IA BookReader page JPEGs (not the full 100–350 MB PDFs).
+  SC C-563 = soundex1900sc024 (T1070 C-540 Lafayette–C-615 Luther; imagecount 4158)
+  PA C-563 = soundex1900pa100 (T1068 C-560 Harry G.–C-563 May; imagecount 3649)
+  MD C-563 = soundex1900md022 (T1050 C-516 John–C-600 Fredrick; imagecount 3898)
+  CO C-563 = soundex1900co012 (T1035 C-500 Taylor–C-615 Xeries L.; imagecount 4038)
+  CA C-563 = soundex1900ca036 (T1034 C-534 Harriett–C-565; imagecount 4266)
+Local /tmp/p77/ working crops not committed except the evidence JPEGs listed in S331–S335.
+
+=== SC C-563 (sc024 n2375–2415 every card) ===
+C-563 tab n2378. Named C-563 leaves: Annie R n2380; Duffy n2383; Jackson n2386;
+James B n2388; Jane R B age 5 n2389 (granddaughter of Black, Alexander);
+John F n2393; Joseph A n2395; Mike n2399–2400; Robert n2408–2409.
+C-564 Conerly interleaved. C-565 Cameron by later locators.
+No Jesse / Jessie card (C421).
+
+=== PA C-563 (pa100 n3288–3345 every card) ===
+James run n3288–3311; J. Frank n3312; Jennie n3313–3315; Jeremiah n3316–3317;
+then three Jessie/Jesse rejects; Joe / Joel; John tab n3325; Johns.
+n3318 Conrad, Jesse H individual W July 1878 22 PA, Dauphin / Steelton,
+  B-in-law of Zigler (C423).
+n3319 Conrad, Jessie head W Feb 1835 65 PA, Erie / Reese; Maggie 40 NJ
+  + three PA children (C424).
+n3320 Conrad, Jessie E head W Dec 1875 24 PA, Northumberland / Coal Twp /
+  Shamokin; Liddie 27; Violet 4/12 (C425).
+No White Jesse ~27 MO (C422).
+
+=== MD C-563 (md022 n3375–3435 every card) ===
+Henry / Herman / Hezekiah; J-tab n3399;
+n3400 Conrad, J.A. individual W Oct 1880 19 PA, Washington / Williamsport,
+  stepson of George, G.P. (C427).
+James run n3401–3407; Jennie n3408; Johns n3409+.
+No Jesse card between Jennie and John (C426).
+
+=== CO C-563 (co012 n2818–2875 every card) ===
+C-562 Connors ends William P n2810-ish; C-563 from Curtis / Daniel A
+through George / Herman / Jacob / John B / James / Jennie / Jas. B Cunard
+60 NJ living alone n2841; L-tab n2849; Lucia V n2850; Sigmund; C-565 tab n2870.
+No Jesse / Jessie card (C428).
+
+=== CA C-563 (ca036 n3768–3910 every card) ===
+C-563 from Arthur n3770; Cornelius 27 KS Sacramento n3800 (C431);
+Edward / Frances / George / Henry / Jacob / Jack 45 Hawaii;
+James run; Jeffrey; Jerome;
+n3887 Conrad, Jessie R individual W July 1882 17 CA, Siskiyou / Yreka,
+  servant of Tebbe, George A. (C430);
+Cammarata Joe n3888;
+n3889 Conrad, John W July 1869 30 CA, Alameda / Livermore;
+  wife Mary Dec 1872 27 Missouri — not Letha (C432).
+No White Jesse ~27 MO (C429).
+
+=== Residual ===
+Other-state 1900 beyond the twenty-eight C-563 jurisdictions now closed
+(MO + IN/KY/AR/IL/TN/OH/IA/KS/OK/TX/AL/MS/LA/NE/MI/NC/WV/WI/MN/FL/GA/VA/SC/PA/MD/CO/CA).
+Pinned unread (volume field only, not walked):
+  NY soundex1900ny131 T1062 C-560 Marguerit–C-565 Duncan (imagecount 4595)
+  NJ soundex1900nj034 T1060 C-521–C-600 George W. (imagecount 3630)
+  WA soundex1900wa013 T1077 C-525–C-623 Haney J. (imagecount 3873)
+B049 1926 obituary; R001/R007/R008; B045 probate; B047 M1509.

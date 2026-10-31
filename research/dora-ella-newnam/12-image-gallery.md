@@ -117,6 +117,12 @@ Diplomatic transcriptions: [`08-transcriptions.md`](08-transcriptions.md). Citat
 | 142 | 1900 (index) | Rejected same-name | [Georgia C-563 — John Cunard, 27, Jasper County](sources/soundex/ga1900-c563-p3326-john-cunard.jpg) |
 | 143 | 1900 (index) | Rejected same-name | [Virginia C-563 — Joe W Canard, 30, Fauquier County](sources/soundex/va1900-c563-p1517-joe-w-canard.jpg) |
 | 144 | 1900 (index) | Rejected same-name | [Virginia C-563 — Lee A Conrad, 37, Richmond; not Jesse](sources/soundex/va1900-c563-p1530-lee-a-not-jesse.jpg) |
+| 145 | 1900 (index) | Rejected same-name | [Pennsylvania C-563 — Jesse H Conrad, 22, Dauphin County](sources/soundex/pa1900-c563-p3318-jesse-h-22.jpg) |
+| 146 | 1900 (index) | Rejected same-name | [Pennsylvania C-563 — Jessie E Conrad, 24, Northumberland County](sources/soundex/pa1900-c563-p3320-jessie-e.jpg) |
+| 147 | 1900 (index) | Rejected same-name | [California C-563 — Jessie R Conrad, 17, Siskiyou County](sources/soundex/ca1900-c563-p3887-jessie-r.jpg) |
+| 148 | 1900 (index) | Rejected same-name | [California C-563 — Cornelius Conrad, 27, Sacramento; Kansas-born](sources/soundex/ca1900-c563-p3800-cornelius-27-ks.jpg) |
+| 149 | 1900 (index) | Rejected same-name | [California C-563 — John Conrad, 30; wife Mary, 27, Missouri](sources/soundex/ca1900-c563-p3889-john-after-jessie.jpg) |
+| 150 | 1900 (index) | Rejected same-name | [Maryland C-563 — J.A. Conrad, 19, Washington County](sources/soundex/md1900-c563-p3400-j-a-19-pa.jpg) |
 | 123 | 1900 (index) | Context | [Texas C-563 — J-tab divider](sources/soundex/tx1900-c563-p1-j-divider.jpg) |
 | 17 | Apr 1910 | Negative search | [Kentucky N-550 — Millie / Missouri; no McCoy](sources/soundex/ky1910-n550-p329-millie-missouri.jpg) |
 | 18 | Apr 1910 | Negative search | [Kentucky N-550 — Monroe; still no McCoy](sources/soundex/ky1910-n550-p330-monroe-no-mccoy.jpg) |
@@ -1155,6 +1161,66 @@ White head, December 1869, age 30, born Virginia, Marshall District. Wife Julia,
 White head, January 1863, age 37, born West Virginia, Beech Street. Wife Victoria B, 30, Virginia. A contact-sheet reading of “Jes A” was Lee A. Combined with the n1508–1572 every-card walk, Virginia 1900 C-563 has no Jesse Conrad head.
 
 ![Virginia C-563 — Lee A Conrad, 37, Richmond; not Jesse](sources/soundex/va1900-c563-p1530-lee-a-not-jesse.jpg)
+
+### 145 · 1900 (index) · Pennsylvania C-563 — Jesse H Conrad, 22, Dauphin County
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/pa1900-c563-p3318-jesse-h-22.jpg`](sources/soundex/pa1900-c563-p3318-jesse-h-22.jpg)  
+**Source:** S332 · C422 · C423
+
+White individual, July 1878, age 22, born Pennsylvania, Steelton. Brother-in-law of Zigler. Age and nativity fail vs 1910 Jesse Conrad. Jessie, 65, Erie, and Jessie E, 24, Shamokin, are the next named Jessie leaves.
+
+![Pennsylvania C-563 — Jesse H Conrad, 22, Dauphin County](sources/soundex/pa1900-c563-p3318-jesse-h-22.jpg)
+
+### 146 · 1900 (index) · Pennsylvania C-563 — Jessie E Conrad, 24, Northumberland County
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/pa1900-c563-p3320-jessie-e.jpg`](sources/soundex/pa1900-c563-p3320-jessie-e.jpg)  
+**Source:** S332 · C422 · C425
+
+White head, December 1875, age 24, born Pennsylvania, Coal Township, Shamokin. Wife Liddie, 27; daughter Violet, 4 months — both Pennsylvania. Combined with the n3288–3345 every-card walk, Pennsylvania 1900 C-563 has no White Jesse about 27 born Missouri.
+
+![Pennsylvania C-563 — Jessie E Conrad, 24, Northumberland County](sources/soundex/pa1900-c563-p3320-jessie-e.jpg)
+
+### 147 · 1900 (index) · California C-563 — Jessie R Conrad, 17, Siskiyou County
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/ca1900-c563-p3887-jessie-r.jpg`](sources/soundex/ca1900-c563-p3887-jessie-r.jpg)  
+**Source:** S335 · C429 · C430
+
+White individual, July 1882, age 17, born California, Yreka. Servant of George A. Tebbe. Jerome precedes; John follows. Age and nativity fail vs 1910 Jesse Conrad.
+
+![California C-563 — Jessie R Conrad, 17, Siskiyou County](sources/soundex/ca1900-c563-p3887-jessie-r.jpg)
+
+### 148 · 1900 (index) · California C-563 — Cornelius Conrad, 27, Sacramento; Kansas-born
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/ca1900-c563-p3800-cornelius-27-ks.jpg`](sources/soundex/ca1900-c563-p3800-cornelius-27-ks.jpg)  
+**Source:** S335 · C431
+
+White head, April 1873, age 27, born Kansas, Sacramento. Wife Mamie, 22, California; infant Cornelius Jr; sister-in-law May White, 25, Kansas. Age matches 1910 Jesse; given name and nativity do not.
+
+![California C-563 — Cornelius Conrad, 27, Sacramento; Kansas-born](sources/soundex/ca1900-c563-p3800-cornelius-27-ks.jpg)
+
+### 149 · 1900 (index) · California C-563 — John Conrad, 30; wife Mary, 27, Missouri
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/ca1900-c563-p3889-john-after-jessie.jpg`](sources/soundex/ca1900-c563-p3889-john-after-jessie.jpg)  
+**Source:** S335 · C429 · C432
+
+White head, July 1869, age 30, born California, Livermore. Wife Mary, December 1872, age 27, Missouri. The Missouri-born wife is not Letha, about 2. Combined with Plate 147 this closes the California 1900 C-563 Jesse slot.
+
+![California C-563 — John Conrad, 30; wife Mary, 27, Missouri](sources/soundex/ca1900-c563-p3889-john-after-jessie.jpg)
+
+### 150 · 1900 (index) · Maryland C-563 — J.A. Conrad, 19, Washington County
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/md1900-c563-p3400-j-a-19-pa.jpg`](sources/soundex/md1900-c563-p3400-j-a-19-pa.jpg)  
+**Source:** S333 · C426 · C427
+
+White individual, October 1880, age 19, born Pennsylvania, Williamsport. Stepson of G.P. George. James follows; Jennie then John. Combined with the n3375–3435 every-card walk, Maryland 1900 C-563 has no Jesse Conrad head.
+
+![Maryland C-563 — J.A. Conrad, 19, Washington County](sources/soundex/md1900-c563-p3400-j-a-19-pa.jpg)
 
 ### 123 · 1900 (index) · Texas C-563 — J-tab divider
 

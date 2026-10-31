@@ -1156,5 +1156,68 @@ James 26 precedes; John 80 follows. → **C418 / C419**.
 
 A coarse-locator reading of “Jes A” was **Lee A**. → **C420**.
 
+## DOC076 — 1900 PA Soundex C-563, Jesse H Conrad, 22
+- Image: `sources/soundex/pa1900-c563-p3318-jesse-h-22.jpg` SHA-256 `694c579106a6f66fff96f7d820717283435b07a5444bf95e8b7eee8b37ab8e2d`
+- Reel: IA `soundex1900pa100` n**3318**
+
+### Diplomatic
+> **C-563 Conrad, Jesse H.** — Individual · vol **18** ED **99** sh **8** ln **37** · W July **1878** **22** Pennsylvania · Dauphin / Steelton / South Front **267**  
+> Enumerated with **Zigler, [Mora?]** · Relationship **B-in-law**
+
+Age 22, Pennsylvania, brother-in-law. → **C423**.
+
+## DOC077 — 1900 PA Soundex C-563, Jessie E Conrad, 24
+- Image: `sources/soundex/pa1900-c563-p3320-jessie-e.jpg` SHA-256 `11aed54bd92d9ebebd2389441f227436b911bd1bd4fc780f6b5a41331e621092`
+- Reel: IA `soundex1900pa100` n**3320**
+
+### Diplomatic
+> **C-563 Conrad, Jessie E.** — Head of family · vol **148** ED **114** sh **11** ln **66** · W Dec **1875** **24** Pennsylvania · Northumberland / Coal Twp / Shamokin / Poplar **102**  
+> **Liddie** — W, July **1872**, **27**, Pennsylvania  
+> **Violet** — D, Jan **1900**, **4/12**, Pennsylvania
+
+Jesse H 22 precedes; Jessie 65 is n3319; John tab follows Joel. → **C422 / C425**.
+
+## DOC078 — 1900 CA Soundex C-563, Jessie R Conrad, 17
+- Image: `sources/soundex/ca1900-c563-p3887-jessie-r.jpg` SHA-256 `1c447620b37a01ecc077eee96b9f61d9e23c4caacc537ef7cdcb14a22f4e40d4`
+- Reel: IA `soundex1900ca036` n**3887**
+
+### Diplomatic
+> **C-563 Conrad, Jessie R.** — Individual · vol **44** ED **136** sh **10** ln **73** · W July **1882** **17** California · Siskiyou / Yreka Twp / Yreka  
+> Enumerated with **Tebbe, George A.** · Relationship **Servant**
+
+Jerome precedes; John follows. → **C429 / C430**.
+
+## DOC079 — 1900 CA Soundex C-563, Cornelius Conrad, 27, Kansas
+- Image: `sources/soundex/ca1900-c563-p3800-cornelius-27-ks.jpg` SHA-256 `df292b3b4d4a17a5aaa82788ba91dbc59b3099f73547587bd6585642592f13b1`
+- Reel: IA `soundex1900ca036` n**3800**
+
+### Diplomatic
+> **C-563 Conrad, Cornelius** — Head of family · vol **25** ED **89** sh **9** ln **99** · W Apr **1873** **27** Kansas · Sacramento city / **1310**  
+> **Mamie** — W, Mar **1878**, **22**, California  
+> **Cornelius (Jr)** — S, May **1900**, **1/2**, California  
+> **White, May** — L, Nov **1874**, **25**, Kansas
+
+Age matches 1910 Jesse; given name and nativity do not. → **C431**.
+
+## DOC080 — 1900 CA Soundex C-563, John Conrad + Mary 27 Missouri
+- Image: `sources/soundex/ca1900-c563-p3889-john-after-jessie.jpg` SHA-256 `8b471443378e2f8604b0a91d48f81c34596756646eccffb3cf8101559453bda1`
+- Reel: IA `soundex1900ca036` n**3889**
+
+### Diplomatic
+> **C-563 Conrad, John** — Head of family · vol **2** ED **334** sh **14** ln **64** · W July **1869** **30** California · Alameda / Murray Twp / Livermore  
+> **Mary** — W, Dec **1872**, **27**, Missouri
+
+Jessie R 17 precedes; wife Mary 27 MO is not Letha ~2. → **C432**.
+
+## DOC081 — 1900 MD Soundex C-563, J.A. Conrad, 19
+- Image: `sources/soundex/md1900-c563-p3400-j-a-19-pa.jpg` SHA-256 `6a1e28aedf8d4b39292f2a2068434c6849a3999ca55aec1b989b6571bd726bc9`
+- Reel: IA `soundex1900md022` n**3400**
+
+### Diplomatic
+> **C-563 Conrad, J.A.** — Individual · vol **42** ED **68** sh **8** ln **93** · W Oct **1880** **19** Pennsylvania · Washington / Dist **2** Williamsport  
+> Enumerated with **George, G.P.** · Relationship **Stepson**
+
+James follows; Jennie then John. No Jesse card. → **C426 / C427**.
+
 ## DOC009 — 1910 TN Soundex N-550 McCoy window (nil)
 Handwritten family/individual cards n2461–n2469. Sequence after Mary C (n2460): Mary D 49 Jefferson (son Layton 11); Mary M 70 Hamilton; Mek. G 50 Cheatham (Florence 19, John 17, General 16, Frances 13, William 10, Doria 6, Luther 1½); Melvin 3½ Giles (gs of Deacon George W); Melvin 54 Giles (SIL of same); Minerva 80 Robertson (gds Lona Neely, Nellie Erwin); Minnie 21 Roane (with Sam P. Sparks); Mitchell 27 Hardin (Ollie P 25, Gladys 4, Burl W 3, Royal E 1 9/12). **No McCoy.** SHA-256 n2463 `23610f8aa4c159b1b554ed1786d11f57d2f56f8a2e8994f7289ae7bd02dfca53`; n2469 `340489566090880388fa6b81ca5751c5944dcaf56a7b44f70fe560788f308586`.
