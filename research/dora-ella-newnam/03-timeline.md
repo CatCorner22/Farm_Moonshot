@@ -86,7 +86,7 @@ Place as it was *at the date*; modern equivalent in brackets. Flag impossibiliti
 
 | 1896–1926 | — | **No Lee Co. license** for Dora Newnam/Newman × Peebles/Stone (Books 5–19); **no Peebles surname** in those books | Lee Co., KY | C084 | S064 |
 | 1916–1930 | — | **No Perry Co. license** for Dora × Peebles/Stone; Peoples present, Peebles absent | Perry Co., AR | C085 | S065 |
-| **1920 × 1925** | 48–54 | **m2 T. A. Stone (PROBABLE = Tom A. Stone)** — **not** a third (Peebles) marriage in the searched licenses | Yell or Perry Co., AR (license unread) | C014 C087 | S003 S104 S064 S065 |
+| **1920 × 1925** | 48–54 | **m2 T. A. Stone (PROBABLE = Tom A. Stone)** — **not** a third (Peebles) marriage in the searched licenses. GT Yell announcements **nil**; Scott A–J **nil**; Crites only on GT `marr_lic` (**Book L p. 527**). Yell books unread | Yell or Perry Co., AR (license unread) | C014 C087 C464–C470 | S003 S104 S064 S065 S398–S405 |
 | 1925 | — | “Stone, Thomas, 1845–1925” at Carter Cove — now **image seen** on the granite (**C413**) | Carter Cemetery **53354**, Yell Co., AR | C051 C413 | S354 S079 |
 | **Jan 1850** | — | FAN: **Minerva NEWNAM** b. (1900 age 50) — mother of Evert / Callie / David F. | VA (own nativity VAVATN) | C349 | S309 |
 | **Jan 1885** | — | FAN: **Callie** dau of Minerva b. — **PROBABLE** later Mrs Robert Spicer | KY | C349 C356 | S309 |

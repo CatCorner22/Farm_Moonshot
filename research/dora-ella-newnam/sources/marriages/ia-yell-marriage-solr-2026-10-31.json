@@ -1,0 +1,26 @@
+{
+  "captured": "2026-10-31",
+  "queries": [
+    {
+      "q": "title:(\"yell county\") AND title:(marriage)",
+      "numFound": 0
+    },
+    {
+      "q": "title:(yell) AND title:(marriage) AND arkansas",
+      "numFound": 0
+    },
+    {
+      "q": "title:(\"arkansas county marriages\")",
+      "numFound": 0
+    },
+    {
+      "q": "title:(\"reclaim the records\") AND marriage AND arkansas",
+      "numFound": 0
+    },
+    {
+      "q": "collection:(reclaimtherecords) AND arkansas AND marriage",
+      "numFound": 0
+    }
+  ],
+  "note": "Internet Archive advancedsearch.php JSON, encoded queries, 31 Oct 2026"
+}
