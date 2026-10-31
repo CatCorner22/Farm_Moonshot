@@ -2046,5 +2046,25 @@ Head card n**3905**: George W Sept **1855** **44** TN; wife **Ella** May **1861*
 
 Lee is a **daughter**. → **C564**. Full walk: `sources/soundex/b007-pass93-tn-edward-patrick-read.md`.
 
+## DOC159 — 1900 KY Soundex S-415, Edwin; Lettie 5/12 (out of Edward band)
+- Image: `sources/soundex/ky1900-s415-p2620-edwin-lettie.jpg` SHA-256 `5aaf7c51b74fdbad9c49a5c362122a34a8317f7986e730206a01d1de9fef9d0b`
+- Reel: IA `soundex1900ky161` n**2620**
+
+### Diplomatic
+> **S415 Sullivan, Edwin** — Head · vol **3** ED **4** sh **9** ln **76** · W Oct **1873** **26** Kentucky · Boone / Mag Dist 3 Big Bone
+> **Avis[?]** W May **1874** **26** Kentucky; **Mary** D June **1897** **2** Kentucky; **Lettie** D Jan **1900** **5/12** Kentucky
+
+Diplomatic **Lettie**. After the Edward band. → **C570**.
+
+## DOC160 — 1900 KY Soundex S-415, Patrick T; Kate A 34 Missouri
+- Image: `sources/soundex/ky1900-s415-p3091-patrickt-kate-mo.jpg` SHA-256 `151a8083419a42b211ff1053c9e39a9f4a59f51d6e149a8e4560e4af5b283f65`
+- Reel: IA `soundex1900ky161` n**3091**
+
+### Diplomatic
+> **S415 Sullivan, Patrick T** — Head · vol **38** ED **107** sh **6** ln **9** · W June **1853** **46** Kentucky · Jefferson / Louisville 20th **625**
+> **Kate A** W Sept **1865** **34** Missouri; **Mary** D Oct **1885** **14** Kentucky; **Anna A** D May **1887** **13** Kentucky; **Kate** [clipped]
+
+Adult MO-born wife, no toddler. → **C571**. Full walk: `sources/soundex/b007-pass93-1900-ky-s415-efgmp-2026-10-31.md`.
+
 ## DOC009 — 1910 TN Soundex N-550 McCoy window (nil)
 Handwritten family/individual cards n2461–n2469. Sequence after Mary C (n2460): Mary D 49 Jefferson (son Layton 11); Mary M 70 Hamilton; Mek. G 50 Cheatham (Florence 19, John 17, General 16, Frances 13, William 10, Doria 6, Luther 1½); Melvin 3½ Giles (gs of Deacon George W); Melvin 54 Giles (SIL of same); Minerva 80 Robertson (gds Lona Neely, Nellie Erwin); Minnie 21 Roane (with Sam P. Sparks); Mitchell 27 Hardin (Ollie P 25, Gladys 4, Burl W 3, Royal E 1 9/12). **No McCoy.** SHA-256 n2463 `23610f8aa4c159b1b554ed1786d11f57d2f56f8a2e8994f7289ae7bd02dfca53`; n2469 `340489566090880388fa6b81ca5751c5944dcaf56a7b44f70fe560788f308586`.
