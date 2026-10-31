@@ -265,6 +265,16 @@
 | S336 | Lee births B `birthsb.html` (HTTP 200, 158253), 31 Oct 2026. Same extract as S330. | D (negative vs P001 as mother) | KY birth index / Kendrick |
 | S337 | LDSGenealogy “Owsley County KY Marriage Records,” https://www.ldsgenealogy.com/KY/Owsley-County-Marriage-Records.htm (HTTP 200, 9386), 31 Oct 2026. Extract `sources/catalog/ldsgenealogy-owsley-marriages-extract-2026-10-31.txt`. **Catalog only; no FS images.** | D (catalog) | LDSGenealogy / FHL 178898 · 179175 |
 | S338 | B065 DNS note + ARGenWeb Yell landing/resources/voters + IA directory Solr JSON, 31 Oct 2026. Extract `sources/directories/year-hole-directories-voters-2026-10-31.txt` + `sources/locality/digitalheritage-dns-try-2026-10-31.txt`. | D (catalog / negative / access fail) | ARGenWeb Yell / IA Solr / DNS |
+| S339 | 1910 Owsley Island Creek / Cow Creek / Buffalo transcripts, https://usgennet.org/usa/ky/county/owsley/census/1910/islandck1910.html (and cowck1910 / buff1910) captured 31 Oct 2026. Extract `sources/census/1910-owsley-island-cow-buff-ocr-2026-10-31.txt` + HTML. **Transcription only.** | D (negative + rejected age-adjacent wives) | Enumerator 1910 / Kendrick |
+| S340 | 1920 Lee Beattyville Pct 1 / Dist 1 Pct 2 (`beat1.html` / `bt2.html` / `beat2.html`) captured 31 Oct 2026. Extract `sources/census/1920-lee-beat-precincts-dora-2026-10-31.txt`. **Transcription only.** | D (negative + rejected Dora Fraley 47) | Enumerator 1920 / Kendrick |
+| S341 | Lee births A/G/H/M 1911–1920 (`birthsa/g/h/m.html`) + `kbi.html` captured 31 Oct 2026. Extract `sources/births/lee-owsley-magh-1921-mother-dora-2026-10-31.txt`. **Index / transcription only.** | D (negative vs P001 as mother) | KY birth index / Kendrick |
+| S342 | Lee births 1921–1930 N / SN / M (`births2n.html` / `births2sn.html` / `births2m.html`) captured 31 Oct 2026. Same extract as S341. | D (negative vs P001 as mother) | KY birth index / Kendrick |
+| S343 | Owsley births A/G/H/M 1911–1920 + `kbi.html` + `1910.html` **404**, captured 31 Oct 2026. Same extract as S341. | D (negative + catalog 404) | KY birth index / Kendrick |
+| S344 | Owsley census landing + 1920 404s + KYGenWeb `owsley/census/index.htm` + census-online KY/Owsley, 31 Oct 2026. Extract `sources/directories/year-hole-new-hosts-2026-10-31.txt`. | D (catalog / negative) | USGenNet / KYGenWeb / Census Online |
+| S345 | ARGenWeb Perry 1920 landing + Howell index/census + Perryville index/census, https://www.argenweb.net/perry/census/1920census/ captured 31 Oct 2026. Extract `sources/census/perry-1920-howell-perryville-dora-2026-10-31.txt`. **Transcription only.** | D (Tom A. confirmed; Dora absent; rejected near-hits) | Volunteer transcript / 1920 enumerator |
+| S346 | IA Solr Booneville/Perryville directory + Owsley 1920 title JSON; Lee schools **404**; KYGenWeb Owsley church stub; Perry tax/school `#` stubs, 31 Oct 2026. Same extract as S344. | D (catalog / negative) | IA Solr / KYGenWeb / ARGenWeb Perry |
+| S347 | Lee `kbi.html` + Owsley `kbi.html` (letter landings) captured 31 Oct 2026. | D (catalog) | Kendrick |
+| S348 | ARGenWeb Perry census index `census/index.html` captured 31 Oct 2026. | D (catalog) | ARGenWeb Perry |
 
 
 ## Claims
@@ -602,6 +612,24 @@
 | C367 | digitalheritage.arkansas.gov **did not resolve** (DNS) on a second one-try pass. In Remembrance unread | PROVEN as access failure | S338 L428 | B065 |
 | C368 | ARGenWeb Yell publishes **no** city directory and **no** voter list after **1868**. IA Solr Beattyville directory **0**; Ola directory 1900–26 **0** | PROVEN as to those catalogs/queries | S338 L429 | year hole |
 | C369 | 1920 FAN Newnams in newly read precincts are **not** P001: Ethel NEWNAM 14 stepdau (Tye/Gabbard, Ivy); Lucy 17 and Calie 35 nee NEWNAM (Willow); B.F. NEWNAM 66 (St Helens) | PROVEN as to those rows; DISPROVED as P001 | S334 L425 | FAN |
+| C1300 | 1910 Owsley **Island Creek** OCR (Posa/Dara/Nora/Cora/Dora/Ella ~30–52 wife/head/boarder): **nil P001**. No Newman/Stone heads | PROBABLE (negative in that transcript) | S339 L431 | B067 |
+| C1301 | 1910 Owsley **Cow Creek** age-adjacent wives **rejected**: Dora Belle MOORE 36 m1 24y (Jeff Moore 50); Dora BOLIN 36 m1 10y (Zack/Elizabeth/John); Cora (MOORE) Young 43. **Nil P001** | PROVEN as to those rows; DISPROVED as P001 | S339 L431 | B067 |
+| C1302 | 1910 Owsley **Buffalo** OCR: **nil P001 ~39**. Dora/Ella/Cora/Nora hits are daughters or Ella wife 23 | PROBABLE (negative in that transcript) | S339 L431 | B067 |
+| C1303 | Owsley **1920** population transcripts are **not published** on USGenNet (landing skips 1920; `/1920/` **404**), KYGenWeb census page (no 1920 file), or census-online’s eight Owsley links | PROVEN as to those catalogs | S344 L432 | B067 |
+| C1304 | 1920 Lee Beattyville Pct 1 hh **218–228**: Dora wife **47** of Steve FRALEY, **nee MALONEY**, eleven named children — **not** P001 | DISPROVED as P001 | S340 L433 | B067 |
+| C1305 | 1920 Lee Beattyville Dist 1 Pct 2 (`bt2` / `beat2`): **nil P001 ~48**. Nora Lyons sister 38; Ella Farmer 61 wd **rejected** | PROVEN negatives for those precincts | S340 L433 | B067 |
+| C1306 | 1920 Beattyville Pct 1 hh **189–199**: Malisa NEWMAN 57 wd + Taylor 20. **POSSIBLE** FAN sister Melissa (age trajectory only). Dora **not** in the house. **Not merged** | POSSIBLE as Melissa; DISPROVED as P001 | S340 L433 | FAN |
+| C1307 | Lee births **A/G/H/M** 1911–20: **no** mother Dora Newnam/Newman/Stone. Newman mothers Kate, Lucy, Jane, Mary | PROVEN (negative for those letters) | S341 L434 | year hole |
+| C1308 | Lee births **1921–30 N/SN/M**: **no** mother Dora Newnam/Stone. STONE Ethel / FLETCHER Lula 2 Apr 1925 **rejected** | PROVEN (negative for those letters) | S342 L435 | year hole |
+| C1309 | Owsley births **A/G/H/M** 1911–20: **no** mother Dora Newman/Newnam/Stone | PROVEN (negative for those letters) | S343 L436 | year hole |
+| C1310 | Owsley 1910 VS births heading is **unlinked**; guessed `1910.html` is **404**. That year file is unpublished on USGenNet | PROVEN as to those URLs | S343 L436 | year hole |
+| C1311 | 1920 Perry **Howell** hh **122** (new transcript): Tom A. Stone 62 **Wd** FIL of Tom M. Randall — **confirms C050**. **Dora is not in that house** | PROVEN (transcription; same household as prior original) | S345 L438 | C050 C316 |
+| C1312 | 1920 Howell hh **127**: Ella? wife 45 of Taylor Z. Hale 71, b. AR — **not** P001 (uncertain given name; AR nativity; wrong husband) | DISPROVED as P001 | S345 L438 | |
+| C1313 | 1920 Perryville / Fourche LaFave: **nil P001 ~48**. Amanda S. Stone 56 AR + Nora J. 32 **rejected**; Dora Osborne dau 6 and Dorada dau 7 **rejected**; Ella Howell 26 AR **rejected** | PROVEN negatives for that township | S345 L439 | B068 residual |
+| C1314 | New-host catalogs for 1920 Owsley: KYGenWeb census page has **no** 1920 transcript link; census-online Owsley “8 Links” has **no** 1920 file; church page is a future stub | PROVEN as to those pages | S344 L432 L437 | |
+| C1315 | IA Solr **new** titles all **numFound 0**: Booneville directory 1900–26; Perryville directory 1900–26; “Owsley County” + 1920/fourteenth census. Did **not** repeat C335/C349 | PROVEN (negative for those queries) | S346 L432 L437 | |
+| C1316 | Lee `/schools/` **404**. ARGenWeb Perry Taxes / Schools / Churches are `href="#"` stubs. No published tax/school list naming Dora on those hosts | PROVEN as to those catalogs | S346 L437 | year hole |
+| C1317 | 1910 Owsley Island / Cow / Buffalo transcripts contain **no** Newman/Newnam/Stone household heads | PROVEN as to those transcripts | S339 L431 | extends C204 |
 | C224 | **1 Jun 1880** population schedule dw **102/102** (ED **59**, **S235**) is **Flanary** + **Brashears**, **not** a **Mays** head; **Mary MAYS** 83 d. **Jan 1880** in mortality hh **102** (**S120**) — **same dwelling number**, decedent absent from June snapshot | PROVEN (original pop. line + mortality transcript) | S235 S120 L248 | Does not identify Pollie Mays stone (**C147**) |
 
 ## Same-person merges (Hard Rule 3)
@@ -614,6 +642,11 @@
 | 1910 Proctor Cora wife 40 nee Cornelius + P001 | Age ~40; OCR Cora | Maiden Cornelius; m1 8-7 children | **Rejected (C361)** |
 | 1909 Dova Cole 21 × Grant Newnam + P001 | OCR Dova≈Dora | Age 21 vs 38; 1st marriage | **Rejected (C354)** |
 | 1914 Frances Smith / mother Ella Newman + P001 | Ella + Newman | No 2nd identifier; Book 10 nil; no 1920 hh | **Not merged (C358)** |
+| 1910 Cow Creek Dora Belle Moore 36 + P001 | Age ~36–38; given Dora | Husband Jeff Moore; m1 24y; compound “Dora Belle” | **Rejected (C1301)** |
+| 1910 Cow Creek Dora Bolin 36 + P001 | Age 36; given Dora | m1 10y; children Zack/Elizabeth/John | **Rejected (C1301)** |
+| 1920 Beattyville Dora Fraley 47 nee Maloney + P001 | Dora + age 47 | Maiden Maloney; eleven Fraley children | **Rejected (C1304)** |
+| 1920 Howell Ella? Hale 45 + P001 | Ella? + age 45 | Born AR; husband Taylor Z. Hale 71 | **Rejected (C1312)** |
+| 1920 Perryville Amanda S. Stone 56 + P001 | Surname Stone | Born AR; dau Nora J. 32; not Tom A.’s house | **Rejected (C1313)** |
 | 1920 Sturgeon Dora 37 nee JUDD (Hall Mays) + P001 | Given name Dora | Age 37; maiden Judd; living children in that house | **Rejected (C126 cluster / this pass)** |
 | 1920 Sturgeon Pearl 24 nee NEWMAN in Clyde Jackson hh + P001 | Daughter’s married household | P001 would be mother ~48; she is not listed | **Not the same line — child located, mother absent (C305)** |
 | 1900/1910 Rufus Jackson’s son Clyde (May 1892 / age 16, Buck Creek) + 1920 Pearl’s husband Clyde 26 | Name Clyde Jackson + age 8→16→26 + KY/KY/KY + 1910 district shared with Pearl | 1900 May 1892 vs 1920 age 26 (would be 27) — one-year census slack, not averaged | **Same man PROBABLE (C318).** License / draft still required for PROVEN |

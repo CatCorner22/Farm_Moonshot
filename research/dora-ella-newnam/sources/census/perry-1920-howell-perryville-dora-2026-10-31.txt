@@ -1,0 +1,31 @@
+Perry Co. AR 1920 published transcripts — Howell + Perryville/Fourche LaFave
+31 Oct 2026. Transcription only (ARGenWeb volunteer). New host for placing P001
+near Tom A. Stone (C050). Landing: …/perry/census/1920census/
+
+HOWELL Township (howelltownship1920.html index 8670 B; howell1920census.html 101000 B)
+  Index: Randall, Tom M. present. No Dora / Newman / Newnam / Stone as *head*.
+  Census hh **122** (confirms prior original C050 from a new derivative):
+    Randall, Tom M. 40 M MO Timber Cutter
+    Etta M. wife 34 M MO
+    Elbert son 10 AR
+    Herbert son 3 S AR
+    Stone, Tom A. Father-in-law 62 Wd MO Tie Maker
+  **Dora is not in that house.** Tom A. is still a widower on this transcript.
+  hh **127** Hale, Taylor Z. 71 + Ella? wife 45 M AR — transcriber uncertain
+    given name; born AR; husband 71. **Rejected** as P001.
+
+PERRYVILLE Town & Fourche LaFave Twp (index 46392 B; census 612785 B)
+  Index: Dora 0; Newman/Newnam 0. Hits: Howell, Ella (27a/12); Stone, Amanda S. (28b/37).
+  Census rejects:
+    Ella Howell SIL 26 M AR (not ~48, not KY)
+    Ella M. Perkins wife 25 AR
+    Ella Patterson dau 18 AR
+    Amanda S. Stone head 56 M AR + Nora J. dau 32 S AR — AR nativity; not Tom A.;
+      not P001
+    Dora dau 6 1/12 of William H. Osborne 39 AR + Susie 29 — child
+    Dorada dau 7 8/12 — child
+
+Residual unread Perry 1920 townships (B068): Rankin, Rose/Rose Creek, Fourche Town,
+  Aplin, Casa, Cherry Hill, Dry Fork, Houston, Kenney, Lake, Maumelle, McCool,
+  Mountain, Omega, Rowland, South View, Sweet Home, Tyler, Walnut Grove, etc.
+  Several census bodies unpublished (index only on landing).

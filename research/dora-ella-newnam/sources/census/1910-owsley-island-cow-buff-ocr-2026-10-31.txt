@@ -1,0 +1,37 @@
+1910 Owsley Island Creek / Cow Creek / Buffalo — OCR + age-adjacent wives
+31 Oct 2026. Transcription only (Debi Houser Kendrick). B067.
+
+URLs (HTTP 200):
+  islandck1910.html  306470 B
+  cowck1910.html     295821 B
+  buff1910.html      208001 B
+
+Search strings: Dora, Ella, Posa, Dara, Nora, Cora, D., Mrs., Newman, Newnam, Stone
+  + wives/heads/boarders ~30–52.
+
+ISLAND CREEK — nil P001. No Newman/Newnam/Stone heads.
+  Age-adjacent / OCR hits rejected:
+    Nora wife 58 of George BELYONES? (too old; not Dora)
+    Dora wife 20 of BLAKE? John (too young)
+    Ella (Kelley) wife 32 of WILSON John T. (maiden Kelley; children Robert/Fannie/Lester)
+    Cora wife 31 of GREEN Robert (m2 9y)
+    Dora? dau 5 (child)
+    Cora dau 14/28/8/20 — children or too young
+
+COW CREEK — nil P001. No Newman/Newnam/Stone heads.
+  Age-adjacent wives REJECTED (same-person test):
+    93-93 MOORE Jeff 50 m1 24y + Dora Belle wife 36 m1 24y — no children in house.
+      Compound given name; husband Jeff Moore not Samuel; 24y first marriage
+      ongoing. Not P001.
+    194-194 BOLIN Isaac 37 m2 10y + Dora wife 36 m1 10y; Zack 6, Elizabeth 3,
+      John 2/12 (5-3). Wrong children; first marriage 10y (~1900). Not P001.
+    216-216 YOUNG John 40 + Cora (MOORE) 43 m1 19y; Elihu/Ida/Elmer/Gracie/Nannie.
+      Maiden Moore. Not P001.
+  Younger Doras: dau 18 Reynolds; dau 3; Dora 15 m1 (Mays Cal SIL); Dora (MOORE)
+    28 (Robinson); Dora (MARSHALL) 20 (Calihan); Dora dau 8/5/2/3/1.
+
+BUFFALO — nil P001. No Newman/Newnam/Stone heads.
+  All Dora/Ella/Cora/Nora hits are daughters (ages 2–22) or Ella wife 23
+  (BURNS Chester). No wife ~38 Newnam/Stone/unknown matching P001 children.
+
+Extends C204 / C362. Residual: originals if a transcriber skipped a faded line.

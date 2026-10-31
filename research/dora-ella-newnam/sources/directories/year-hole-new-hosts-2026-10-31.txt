@@ -1,0 +1,29 @@
+Year-hole / 1920 Owsley catalog — new hosts (not C335/C349 Solr)
+31 Oct 2026.
+
+OWSLEY 1920 TRANSCRIPTS
+  usgennet.org/usa/ky/county/owsley/census/  200 6991 B
+    Years linked: 1860, 1870, 1880, 1890, 1900, 1910, 1940. **No 1920.**
+  …/census/1920/  404
+  …/census/1920.html  404
+  kygenweb.net/owsley/census/index.htm  200 6346 B
+    Transcript links: 1850, 1860 ftp, 1870 ftp, 1880 FS, 1910 ftp. **No 1920 file.**
+    1920 appears only as a population count (7,820).
+  census-online.com/links/KY/Owsley/  200 26616 B — “8 Links”
+    County files: 1850, 1860 (2), 1870, 1900, 1910 (2), 1883 pensioners.
+    **No 1920 Owsley transcript** among the eight.
+  IA Solr title:("Owsley County" AND (1920 OR "fourteenth census"))  numFound 0
+    (new title; did **not** repeat C335/C349 newspaper strings)
+
+CHURCH / SCHOOL / TAX
+  kygenweb.net/owsley/church/church_records.html  200 544 B
+    Text: “(Future link for county church records)” — no register.
+  usgennet.org/usa/ky/county/lee/schools/  404
+  ARGenWeb Perry resources: Taxes / Schools / Churches are href="#" stubs.
+  usgennet Owsley home: no tax-list or 1920 census nav.
+
+DIRECTORIES (new titles; Beattyville/Ola already C368)
+  IA Solr title:(Booneville AND directory) AND year:[1900 TO 1926]  numFound 0
+  IA Solr title:(Perryville AND directory) AND year:[1900 TO 1926]  numFound 0
+
+Owsley 1910 VS births heading unlinked; 1910.html 404.
