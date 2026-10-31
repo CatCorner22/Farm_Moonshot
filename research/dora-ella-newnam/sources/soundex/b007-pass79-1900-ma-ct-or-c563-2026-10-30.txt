@@ -1,0 +1,52 @@
+Pass 79 — 1900 MA/CT/OR C-563 Jesse
+Date: 30 Oct 2026 (America/New_York)
+Backlog: B007 residual other-state 1900
+
+=== Access ===
+Image seen via IA BookReader page JPEGs (not the full 100–350 MB PDFs).
+  MA C-563 = soundex1900ma060 (T1051 C-560 Laua B.–C-600 Francisco S.; imagecount 4495)
+    C-562 Connors through n2470; C-563 Conrad Ada F n2485; John by n2620;
+    C-564 n2770; C-565 Cameron Ada n2800.
+  CT C-563 = soundex1900ct021 (T1036 C-524 James–C-565; imagecount 3658)
+    C-562 through n3504; C-563 from n3506 (Adolf/Albert);
+    James → Jennie n3528 → Johns n3529; C-565 Cameron by n3580.
+  OR C-563 = soundex1900or010 (T1067 C-531–C-636 Glen; imagecount 3682)
+    C-562 Conners through n928; C-563 Adam C n940;
+    James C 59 MO n953; Jesse H 60 NY n955; John n957;
+    C-565 Cameron by n998.
+Local /tmp/p79/ working crops not committed except the evidence JPEGs listed in S339–S341.
+
+=== MA C-563 (ma060 n2575–2655 every card) ===
+Horace / Isaac / Ida H / Iva; James E Connoton; Chouinard Jesse/Jennie;
+n2593 Conrad, Jennie 22 Canada Ipswich boarder;
+n2594 Chouinard, Jennie 27 PA Boston lodger;
+n2596 Conrad, Jessie 17 MA North Adams stepdaughter of Beck (C443);
+n2597 Conrad, Jo 38 China Lynn living alone (C444);
+n2598 Conrad, Jockel 70 Germany Boston FIL;
+then Connoton / Conrad Johns.
+No White Jesse ~27 MO (C440).
+
+=== CT C-563 (ct021 n3450–3579 every card; n3580–3657 is already C-565) ===
+C-562 Connors through n3504. C-563 Adolf / Albert / Anthony / Catherine /
+Charles / Emmet / Frederick / George / Hope / James run /
+n3528 Conrad, Jennie 36 IL New London + Maud E 10 NY;
+Johns n3529+ (Connoton / Conerty / Conrad); Joseph / Louise / Mary.
+No Jesse / Jessie card (C441).
+
+=== OR C-563 (or010 n928–990 every card) ===
+Adam C / Elsie / George / Gottlieb / Henry / Herman (Camreth);
+n953 Conrad, James C 59 Missouri Wallowa / Paradise + Amanda 58 MO
+  + Theodore D 24 MO (C446);
+n954 Conerty, Jane 13 KS boarder; n956 Conerty, Joe 16 KS boarder;
+n955 Conrad, Jesse H 60 New York Linn / Albany + Mary 56 NY (C445);
+n957 Conrad, John 54 Norway Astoria roomer.
+No White Jesse ~27 MO (C442).
+
+=== Residual ===
+Other-state 1900 beyond the thirty-four C-563 jurisdictions now closed
+(MO + IN/KY/AR/IL/TN/OH/IA/KS/OK/TX/AL/MS/LA/NE/MI/NC/WV/WI/MN/FL/GA/VA/SC/PA/MD/CO/CA/NY/NJ/WA/MA/CT/OR).
+Pinned unread (volume field only, not walked):
+  ME soundex1900me015 T1049 C-560 E. M.–C-625 Jesse L. (imagecount 4170)
+  RI soundex1900ri010 T1069 C-562–C-636 Rosie (imagecount 3485)
+  ID soundex1900id004 T1042 C-550–D-400 Ruth C. (imagecount 3522)
+B049 1926 obituary; R001/R007/R008; B045 probate; B047 M1509.

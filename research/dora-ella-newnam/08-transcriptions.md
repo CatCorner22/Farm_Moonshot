@@ -1297,5 +1297,58 @@ Name-trap (Jasper ≠ Jesse). → **C438**.
 
 Johns begin on the next leaf. No Jesse card. → **C435 / C439**.
 
+## DOC089 — 1900 MA Soundex C-563, Jessie Conrad, 17
+- Image: `sources/soundex/ma1900-c563-p2596-jessie-17.jpg` SHA-256 `43b06f233fd6ac6ef955fd36d7304b0a2af4cdeafd1010755ee162fb9e5f748e`
+- Reel: IA `soundex1900ma060` n**2596**
+- Enhancement: invert of IA BookReader JPEG (copy); original not committed
+
+### Diplomatic
+> **C-563 Conrad, Jessie** — Individual · vol **3** ED **81** sh **1** ln **19** · W Sept **1882** **17** Massachusetts · Berkshire / North Adams / Chase Ave **73**  
+> Enumerated with **Beck, David** · Relationship **Step Daughter**
+
+Jennie precedes; Jo follows. Age 17, Massachusetts-born stepdaughter. → **C440 / C443**.
+
+## DOC090 — 1900 MA Soundex C-563, Jo Conrad, 38, China
+- Image: `sources/soundex/ma1900-c563-p2597-jo-38-china.jpg` SHA-256 `b9b038a9590d196068fd132cd1c290f958017cfa3ca83f8627567c352421c17a`
+- Reel: IA `soundex1900ma060` n**2597**
+
+### Diplomatic
+> **C-563 Conrad, Jo** — Head of family · vol **21** ED **391** sh **10** ln **31** · Ch NR **1862** **38** China Al · Essex / Lynn / Commercial **166**  
+> Clerk note **One Loofey[?]** on the family-members line · **Living alone** written diagonally across the empty grid
+
+Contact-sheet “Jesse” was **Jo**. Jockel 70 follows; then Johns. → **C440 / C444**.
+
+## DOC091 — 1900 CT Soundex C-563, Jennie Conrad, 36, Illinois
+- Image: `sources/soundex/ct1900-c563-p3528-jennie-before-john.jpg` SHA-256 `c630380fd925f0e775ccca8d2a447c3db8b1f20b78ebe8fb11756c8a45746a22`
+- Reel: IA `soundex1900ct021` n**3528**
+
+### Diplomatic
+> **C-563 Conrad, Jennie** — Head of family · vol **24** ED **469** sh **15** ln **23** · W Dec **1863** **36** Illinois · New London / New London Town / New London / Maine **23**  
+> **Conrad, Maud E** — D, June **1889**, **10**, New York
+
+Johns begin on the next leaf (n3529). No Jesse card. → **C441**.
+
+## DOC092 — 1900 OR Soundex C-563, James C Conrad, 59, Missouri
+- Image: `sources/soundex/or1900-c563-p953-james-c-59-mo.jpg` SHA-256 `86c9788961781ee07b83419e300b2923d140078fe412888f17c184cd2aca2d6c`
+- Reel: IA `soundex1900or010` n**953**
+
+### Diplomatic
+> **C-563 Conrad, James C.** — Head of family · vol **16** ED **103** sh **2** ln **97** · W Apr **1841** **59** Missouri · Wallowa / Paradise Pct  
+> **Conrad, Amanda** — W, Nov **1841**, **58**, Missouri  
+> **Theodore D.** — S, Dec **1875**, **24**, Missouri
+
+Closest OR leaf on nativity. Given name James C; son Theodore 24 is not Letha ~2. → **C446**.
+
+## DOC093 — 1900 OR Soundex C-563, Jesse H Conrad, 60, New York
+- Image: `sources/soundex/or1900-c563-p955-jesse-h-60-ny.jpg` SHA-256 `c434dd3c55502446b1fd0411036250676e0cb785c4eb627a46c1cdc9990fe61d`
+- Reel: IA `soundex1900or010` n**955**
+
+### Diplomatic
+> **C-563 Conrad, Jesse H.** — Head of family · vol **8** ED **38** sh **11** ln **56** · W June **1839** **60** New York · Linn / West Albany Pct / Albany  
+> **Conrad, Mary** — W, Sept **1843**, **56**, New York  
+> and **15** unoccupied rooms · **2** Lodgers, **3** Boarders
+
+Only Jesse card on the Oregon C-563 run. Age 60, New York-born. John 54 Norway follows. → **C442 / C445**.
+
 ## DOC009 — 1910 TN Soundex N-550 McCoy window (nil)
 Handwritten family/individual cards n2461–n2469. Sequence after Mary C (n2460): Mary D 49 Jefferson (son Layton 11); Mary M 70 Hamilton; Mek. G 50 Cheatham (Florence 19, John 17, General 16, Frances 13, William 10, Doria 6, Luther 1½); Melvin 3½ Giles (gs of Deacon George W); Melvin 54 Giles (SIL of same); Minerva 80 Robertson (gds Lona Neely, Nellie Erwin); Minnie 21 Roane (with Sam P. Sparks); Mitchell 27 Hardin (Ollie P 25, Gladys 4, Burl W 3, Royal E 1 9/12). **No McCoy.** SHA-256 n2463 `23610f8aa4c159b1b554ed1786d11f57d2f56f8a2e8994f7289ae7bd02dfca53`; n2469 `340489566090880388fa6b81ca5751c5944dcaf56a7b44f70fe560788f308586`.

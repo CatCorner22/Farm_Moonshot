@@ -130,6 +130,11 @@ Diplomatic transcriptions: [`08-transcriptions.md`](08-transcriptions.md). Citat
 | 155 | 1900 (index) | Rejected same-name | [Washington C-563 — John Conrad, 20, Seattle; no Jesse leaf](sources/soundex/wa1900-c563-p1430-john-after-james.jpg) |
 | 156 | 1900 (index) | Rejected same-name | [New Jersey C-563 — Jasper Conyard, 69, Elizabeth](sources/soundex/nj1900-c563-p2799-jasper.jpg) |
 | 157 | 1900 (index) | Rejected same-name | [New Jersey C-563 — Joe Conrady, 37, Germany](sources/soundex/nj1900-c563-p2800-joe.jpg) |
+| 158 | 1900 (index) | Rejected same-name | [Massachusetts C-563 — Jessie Conrad, 17, North Adams](sources/soundex/ma1900-c563-p2596-jessie-17.jpg) |
+| 159 | 1900 (index) | Rejected same-name | [Massachusetts C-563 — Jo Conrad, 38, China; living alone](sources/soundex/ma1900-c563-p2597-jo-38-china.jpg) |
+| 160 | 1900 (index) | Rejected same-name | [Connecticut C-563 — Jennie Conrad, 36, Illinois; no Jesse leaf](sources/soundex/ct1900-c563-p3528-jennie-before-john.jpg) |
+| 161 | 1900 (index) | Rejected same-name | [Oregon C-563 — James C Conrad, 59, Missouri, Wallowa](sources/soundex/or1900-c563-p953-james-c-59-mo.jpg) |
+| 162 | 1900 (index) | Rejected same-name | [Oregon C-563 — Jesse H Conrad, 60, New York, Albany](sources/soundex/or1900-c563-p955-jesse-h-60-ny.jpg) |
 | 123 | 1900 (index) | Context | [Texas C-563 — J-tab divider](sources/soundex/tx1900-c563-p1-j-divider.jpg) |
 | 17 | Apr 1910 | Negative search | [Kentucky N-550 — Millie / Missouri; no McCoy](sources/soundex/ky1910-n550-p329-millie-missouri.jpg) |
 | 18 | Apr 1910 | Negative search | [Kentucky N-550 — Monroe; still no McCoy](sources/soundex/ky1910-n550-p330-monroe-no-mccoy.jpg) |
@@ -1298,6 +1303,56 @@ Black head, July 1831, age 69, born North Carolina, Mulberry Street. Living alon
 White individual, May 1863, age 37, born Germany, Union Township. Servant of Harry Holek. Johns begin on the next leaf. Combined with the n2760–2860 every-card walk, New Jersey 1900 C-563 has no Jesse Conrad head.
 
 ![New Jersey C-563 — Joe Conrady, 37, Germany](sources/soundex/nj1900-c563-p2800-joe.jpg)
+
+### 158 · 1900 (index) · Massachusetts C-563 — Jessie Conrad, 17, North Adams
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/ma1900-c563-p2596-jessie-17.jpg`](sources/soundex/ma1900-c563-p2596-jessie-17.jpg)  
+**Source:** S339 · C440 · C443
+
+White individual, September 1882, age 17, born Massachusetts, Chase Avenue, North Adams. Stepdaughter of David Beck. Combined with the n2575–2655 every-card walk, Massachusetts 1900 C-563 has no White Jesse Conrad head about 27 born Missouri.
+
+![Massachusetts C-563 — Jessie Conrad, 17, North Adams](sources/soundex/ma1900-c563-p2596-jessie-17.jpg)
+
+### 159 · 1900 (index) · Massachusetts C-563 — Jo Conrad, 38, China; living alone
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/ma1900-c563-p2597-jo-38-china.jpg`](sources/soundex/ma1900-c563-p2597-jo-38-china.jpg)  
+**Source:** S339 · C440 · C444
+
+Head, color Ch, 1862, age 38, born China, alien, Commercial Street, Lynn. Living alone. A contact-sheet reading of Jesse was Jo. Jockel, 70, then the Johns follow. Combined with Plate 158 this closes the Massachusetts 1900 C-563 Jesse slot.
+
+![Massachusetts C-563 — Jo Conrad, 38, China; living alone](sources/soundex/ma1900-c563-p2597-jo-38-china.jpg)
+
+### 160 · 1900 (index) · Connecticut C-563 — Jennie Conrad, 36, Illinois; no Jesse leaf
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/ct1900-c563-p3528-jennie-before-john.jpg`](sources/soundex/ct1900-c563-p3528-jennie-before-john.jpg)  
+**Source:** S340 · C441
+
+White head, December 1863, age 36, born Illinois, New London. Daughter Maud E, 10, New York. Johns begin on the next leaf. Combined with the n3450–3579 every-card walk, Connecticut 1900 C-563 has no Jesse Conrad head.
+
+![Connecticut C-563 — Jennie Conrad, 36, Illinois; no Jesse leaf](sources/soundex/ct1900-c563-p3528-jennie-before-john.jpg)
+
+### 161 · 1900 (index) · Oregon C-563 — James C Conrad, 59, Missouri, Wallowa
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/or1900-c563-p953-james-c-59-mo.jpg`](sources/soundex/or1900-c563-p953-james-c-59-mo.jpg)  
+**Source:** S341 · C442 · C446
+
+White head, April 1841, age 59, born Missouri, Paradise precinct. Wife Amanda, 58, Missouri; son Theodore D, 24, Missouri. Closest Oregon leaf on nativity. Given name is James C, and Theodore, 24, is not Letha, about 2.
+
+![Oregon C-563 — James C Conrad, 59, Missouri, Wallowa](sources/soundex/or1900-c563-p953-james-c-59-mo.jpg)
+
+### 162 · 1900 (index) · Oregon C-563 — Jesse H Conrad, 60, New York, Albany
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/or1900-c563-p955-jesse-h-60-ny.jpg`](sources/soundex/or1900-c563-p955-jesse-h-60-ny.jpg)  
+**Source:** S341 · C442 · C445
+
+White head, June 1839, age 60, born New York, West Albany. Wife Mary, September 1843, age 56, New York; two lodgers and three boarders. The only Jesse card on the Oregon C-563 run. Age 60 and New York nativity fail versus 1910 Jesse Conrad about 27 born Missouri.
+
+![Oregon C-563 — Jesse H Conrad, 60, New York, Albany](sources/soundex/or1900-c563-p955-jesse-h-60-ny.jpg)
 
 ### 123 · 1900 (index) · Texas C-563 — J-tab divider
 
