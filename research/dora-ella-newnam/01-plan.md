@@ -269,6 +269,17 @@ Regenerated **before** B007 1900 Liberty / N-550 queries (`bc-6d51c793`). **Did 
 
 Exact strings logged **L500–L509**.
 
+## Name-variant storm (pass 79, `search_variants.py`, 31 Oct 2026)
+
+Regenerated **before** B039 Owsley FAN queries (`bc-c5415202`). **Did not take B014** (`bc-20e39036`). **Did not take B007** (`bc-6d51c793` Pass **76**, **C457–C463 / L500–L509 / S393–S397**). **Did not take B047 / B049 / B055 / B056.** **Did not retake B015 / B016 / B045 / B051 / B054 / B057 / B092.** This pass uses **C471+ / L566+ / S406+**. Categories **1–4**:
+
+1. **Canonical:** Larkin T. Mays / Mayse (d. 8 Jun or 8 Jul 1895); Louisa / Eliza Pendergrass (later Mays, then Brandenburg); Robert Newnam of Pebworth (Lester’s father, VS 1909) kept **separate** from Farley-stepson Robert (**C116**) until ≥2 identifiers; Sallie / Sally Newnam (Lester’s mother).
+2. **User / family:** Link (nickname POSSIBLE = Larkin); Mayse / Mayes / Mays; Eliza / Louisa / Louiza; Pendergras / Pendergass; Newman / Newnam / Newnarn / Newan / Newnom; Sally / Sarah for Sallie.
+3. **Machine / OCR given:** Larkin (ocr-given: Larkin only); Louisa → eliza / luisa / loisa / louiza; Robert (ocr-given: Robert only); Sallie (ocr-given: Sallie only). Surname: Newnam / newman / newnarn / newan / newnom; Mays. Soundex **M200** / **P536** / **N550**.
+4. **Repository quirks:** USGenNet Owsley VS year files + `lookups.html` (1929 fire); Hayes *Reconstructed Marriage Records … 1843–1910* Part 1 A–L (ISBN **9780788410581**); Smith **1843–1929** book; Lee Books `Last, First` 16–37; Owsley census district HTML (no 1920 online); KY death extracts; FAG cemetery **2378080**; IA Solr; KDLA disasters table; FS catalog **United States, Kentucky, Owsley**.
+
+Exact strings logged **L566+**.
+
 ## Agent SDK / GitHub channel
 
 Inspected 30 Oct 2026 (**L351**): this repository has **no** `package.json`, **no** `@grok/agent-sdk`, **no** `bot/` directory. GitHub channel `bot/channels/github.ts` is **n/a** and was **not** authored. Project subagent: `.cursor/agents/dora-genealogy-detective.md`.
