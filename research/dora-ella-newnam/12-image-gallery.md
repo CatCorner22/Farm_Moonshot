@@ -252,6 +252,7 @@ Diplomatic transcriptions: [`08-transcriptions.md`](08-transcriptions.md). Citat
 | 277 | 1900 (index) | Rejected same-name | [Illinois S-415 — Elmer J, Springfield; Corena F, 4/12; not C244](sources/soundex/il1900-s415-n2091-elmerj-corena-f-4-12.jpg) |
 | 278 | 1900 (index) | Rejected same-name | [Illinois S-415 — Eugene L, Whiteside Clyde; Eugenie, 5/12; not C244](sources/soundex/il1900-s415-n2137-eugenel-eugenie-5-12.jpg) |
 | 279 | 1900 (index) | Rejected same-name | [Illinois S-415 — Florence, 50, Indiana, Carroll Savanna; sons only; not C244 father](sources/soundex/il1900-s415-n2154-florence-50-in-sons.jpg) |
+| 280 | 1900 (index) | Rejected same-name | [Illinois S-415 — Elizabeth, 53, Massachusetts, Cook Lyons; Viola, 23; not C244](sources/soundex/il1900-s415-n2050-elizabeth-viola-23.jpg) |
 | 123 | 1900 (index) | Context | [Texas C-563 — J-tab divider](sources/soundex/tx1900-c563-p1-j-divider.jpg) |
 | 17 | Apr 1910 | Negative search | [Kentucky N-550 — Millie / Missouri; no McCoy](sources/soundex/ky1910-n550-p329-millie-missouri.jpg) |
 | 18 | Apr 1910 | Negative search | [Kentucky N-550 — Monroe; still no McCoy](sources/soundex/ky1910-n550-p330-monroe-no-mccoy.jpg) |
@@ -2640,6 +2641,16 @@ White head, October 1873, age 26, born Wisconsin, Whiteside County, Clyde Townsh
 White head, August 1849, age 50, born Indiana, Carroll County, Savanna Township. Wife Elizabeth, 45, Illinois. Sons Roy, 15; Frank, 10; Benson, 5. Indiana nativity; no daughter. Rejected as C244 father.
 
 ![Illinois S-415 — Florence, 50, Indiana, Carroll Savanna; sons only; not C244 father](sources/soundex/il1900-s415-n2154-florence-50-in-sons.jpg)
+
+### 280 · 1900 (index) · Illinois S-415 — Elizabeth, 53, Massachusetts, Cook Lyons; Viola, 23; not C244
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/il1900-s415-n2050-elizabeth-viola-23.jpg`](sources/soundex/il1900-s415-n2050-elizabeth-viola-23.jpg)  
+**Source:** S400 · C729
+
+White head, May 1847, age 53, born Massachusetts, Cook County, Lyons Township, Riverside. Daughters Anna Denigan, 39, Ohio; Viola, March 1877, age 23, Illinois; Lorella, 17. Sons Daniel and William. Continuation n2051 has Herbert, 16, and granddaughters Florence, 9, and May, 6. Adult Viola. Rejected as C244.
+
+![Illinois S-415 — Elizabeth, 53, Massachusetts, Cook Lyons; Viola, 23; not C244](sources/soundex/il1900-s415-n2050-elizabeth-viola-23.jpg)
 
 ### 123 · 1900 (index) · Texas C-563 — J-tab divider
 

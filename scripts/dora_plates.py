@@ -1653,6 +1653,13 @@ PLATES: list[dict] = [
         source="S399 · C728",
     ),
     dict(
+        n=280, date="1900 (index)", year=1900, role="rejected",
+        path="soundex/il1900-s415-n2050-elizabeth-viola-23.jpg",
+        title="Illinois S-415 — Elizabeth, 53, Massachusetts, Cook Lyons; Viola, 23; not C244",
+        caption="White head, May 1847, age 53, born Massachusetts, Cook County, Lyons Township, Riverside. Daughters Anna Denigan, 39, Ohio; Viola, March 1877, age 23, Illinois; Lorella, 17. Sons Daniel and William. Continuation n2051 has Herbert, 16, and granddaughters Florence, 9, and May, 6. Adult Viola. Rejected as C244.",
+        source="S400 · C729",
+    ),
+    dict(
         n=123, date="1900 (index)", year=1900, role="context",
         path="soundex/tx1900-c563-p1-j-divider.jpg",
         title="Texas C-563 — J-tab divider",

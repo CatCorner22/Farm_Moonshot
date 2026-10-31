@@ -1125,3 +1125,6 @@ research/dora-ella-newnam/sources/soundex/il1900-s415-n2154-florence-50-in-sons.
   format: JPEG Soundex card, IA soundex1900il401 n2154 rotate -90
 research/dora-ella-newnam/sources/soundex/b007-pass97-1900-il-s415-leftover-e-2026-10-31.txt
   format: Pass 97 IL S-415 leftover-E + IN Levi M continuation search log
+research/dora-ella-newnam/sources/soundex/il1900-s415-n2050-elizabeth-viola-23.jpg
+  sha256: aa416a011994ab69e4829def7c060c4800d519e52be350f7087954018827c60c
+  format: JPEG Soundex card, IA soundex1900il401 n2050 rotate -90

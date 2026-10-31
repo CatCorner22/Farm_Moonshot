@@ -2540,5 +2540,16 @@ Diplomatic **Corena F**. → **C726**.
 
 Diplomatic **Eugenie**. → **C727**.
 
+## DOC208 — 1900 IL Soundex S-415, Elizabeth; Viola 23
+- Image: `sources/soundex/il1900-s415-n2050-elizabeth-viola-23.jpg` SHA-256 `aa416a011994ab69e4829def7c060c4800d519e52be350f7087954018827c60c`
+- Reel: IA `soundex1900il401` n**2050** rotate **-90** (continuation n**2051** parent-read; not plated)
+
+### Diplomatic
+> **S415 Sullivan, Elizabeth** — Head · vol **17** ED **161** sh **19** ln **21** · W May **1847** **53** Massachusetts · Cook / Lyons Twp, Riverside · footer `#1 see #2`
+> **Denigan[/Dynigan], Anna** D Apr **1861** **39** Ohio; **Daniel** S July **186[5?]** **[28 or 34]** Illinois; **Viola** D Mar **1877** **23** Illinois; **William** S Oct **1878** **21** Illinois; **Lorella** D Jan **1883** **17** Illinois
+> n**2051** continuation (`#2 see #1`): **Herbert** S June **1884** **16** Illinois; **Denigan, Florence** GD July **1891** **9** Illinois; **May** GD July **1894** **6** Illinois
+
+Diplomatic **Viola**. Adult. → **C729**.
+
 ## DOC009 — 1910 TN Soundex N-550 McCoy window (nil)
 Handwritten family/individual cards n2461–n2469. Sequence after Mary C (n2460): Mary D 49 Jefferson (son Layton 11); Mary M 70 Hamilton; Mek. G 50 Cheatham (Florence 19, John 17, General 16, Frances 13, William 10, Doria 6, Luther 1½); Melvin 3½ Giles (gs of Deacon George W); Melvin 54 Giles (SIL of same); Minerva 80 Robertson (gds Lona Neely, Nellie Erwin); Minnie 21 Roane (with Sam P. Sparks); Mitchell 27 Hardin (Ollie P 25, Gladys 4, Burl W 3, Royal E 1 9/12). **No McCoy.** SHA-256 n2463 `23610f8aa4c159b1b554ed1786d11f57d2f56f8a2e8994f7289ae7bd02dfca53`; n2469 `340489566090880388fa6b81ca5751c5944dcaf56a7b44f70fe560788f308586`.
