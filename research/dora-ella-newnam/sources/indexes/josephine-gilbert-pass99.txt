@@ -1,0 +1,71 @@
+Pass 99 — Josephine Newnam × Gilbert ~1902 remaining substitutes
+Opened 31 Oct 2026 (America/New_York). HTML-seen / compiled index / landing / 404.
+License unseen. Original 1916 DC face unseen. T288 images unseen.
+
+Edmonson KYGenWeb /edmonson/marriages/ OPENED (6,930 bytes). Peden/Gorin bride and
+groom letter index; years on opened letters 1825–1920 (covers 1902).
+  bn.html bride N OPENED (16,431): NEWMAN, Lucy × ANDERSON, William 24 Dec 1835 other
+    (Lucy ≠ Josephine; 1835). Nil Newnam. Nil Josephine as an N-bride.
+  bj.html bride J OPENED (70,786): Josephine/Josie/Newman/Newnam/Gilbert token 0.
+  gg.html groom G OPENED (52,229): GILBERT, Greenville × HAZELIP, Mary J 13 Nov 1870 n/a;
+    GILBERT, James × TRUMAN, Nancy 10 Dec 1827 n/a; GILBERT, Squire × STEWART, Rebecdca
+    26 Nov 1827 n/a. GRABEL, W H × BLAIR, Josephine 17 Jul 1882 other (maiden Blair;
+    1882; groom Grabel ≠ Gilbert).
+  gn.html groom N OPENED (17,429): Newman/Newnam/Josephine/Gilbert token 0.
+  bg.html bride G OPENED (50,029): LOCK, George W × GERALDS, Josephine 24 Nov 1870 other;
+    DANIELS, E E × GILBERT, Evaline 24 Oct 1880 n/a; BOYD, Isaac × GILBERT, Mary Jane
+    27 Feb 1850 n/a; HARRISON, Gambril × GILBERT, Minerva 26 Sep 1826 n/a;
+    WILLIS, Isaac T × GOFF, Josie 2 May 1889 other (maiden Goff; 1889);
+    LEWIS, Clarence × GRAHAM, Josie 16 Jan 1905 other (maiden Graham; 1905).
+  Nil Josephine Newnam × Gilbert ~1902 in the opened Edmonson letters covering 1902.
+
+Marion KYGenWeb /marion/marriages/ directory OPENED (2,807 bytes).
+  Year files: 1852–1858 / 1893 / 1894 / 1901 / 1904. No 1902.htm.
+  1902.htm HTTP 404 (1,543-byte stub). n/a as a 1902 Newnam license in this set.
+  1901.htm OPENED (28,832): Josie Carr 19 × Taudy, Ed G 09/10/1901 DISPROVED
+    (maiden Carr ≠ Newnam; groom Taudy ≠ Gilbert; 1901).
+    Josie Ella Whitlock 20 × Thomas, Marion 05/21/1901 DISPROVED
+    (maiden Whitlock ≠ Newnam; groom Thomas ≠ Gilbert; 1901).
+  1904.htm OPENED (25,251): Josie Brady 29 × Ballard, Hilory 12/21/1904 DISPROVED
+    (maiden Brady ≠ Newnam; groom Ballard ≠ Gilbert; 1904).
+    Josie Tandy 21 × Cowherd, J H 10/18/1904 DISPROVED
+    (maiden Tandy ≠ Newnam; groom Cowherd ≠ Gilbert; 1904).
+  1894_white.htm Josephine Beavers / Mills and Josie Hayden / Mattingly / Hair / Graham
+    other (1894; maidens ≠ Newnam).
+  Nil Josephine Newnam × Gilbert ~1902.
+
+Christian ctssites marriage/index.html OPENED (2,953 bytes): title Marriages 1797–1820
+  from Cordelia C. Gary 1797–1850, this page 1797–1820 only. n/a ~1902.
+
+McCracken ctssites marriages.htm OPENED (1,956 bytes): 1851–1855 / 1853 / 1857 plus
+  Rootsweb 1973–2001 search. n/a as a 1902 Newnam license. kykinfolk.com/mccracken/marriages.htm
+  FAIL (0 bytes). County homepage search blob has 1911–1920 Paducah Josephine/Gilbert/Newman
+  rows other (years 1911–1920; not a 1902 Newnam×Gilbert couple).
+
+Trimble ole.net marryky.htm OPENED (14,349 bytes): Search Kentucky Marriages 1973–2000
+  Rootsweb form. n/a ~1902.
+
+Henderson tinasgenealogy marriages.html OPENED (1,517 bytes): Shawneetown IL residents
+  and MAJORS marriages only. Not county-wide 1902.
+
+Jefferson KYGenWeb marriages-bride.php / marriages-groom.php OPENED: miscellaneous
+  Louisville newspaper extracts, C/H/M surnames, Courier-Journal January 1865 only.
+  Reconfirmed n/a ~1902 (same 1865 hole as C1046). usgwarchives jefferson marriage.html FAIL.
+
+Genealogy Trails Edmonson marriages.html OPENED: 1853–1857 / misc / Rich / Stephens.
+  n/a as a county-wide 1902 license (Edmonson Peden/Gorin above is the covering index).
+  Genealogy Trails Marion landing 200, no ~1902 table opened this pass.
+
+Remaining /marriages/ this pass 404 (kygenweb Lost page, 1,543 bytes) or 403 Access Denied
+  (union/owen/hancock/muhlenberg/boyle/simpson, 680 bytes). Not a ~1902 Newnam license.
+
+WikiTree Unknown-407540 Josephine (Unknown) Newman abt 1869 KY – 3 Dec 1942 Sioux City IA;
+  wife of Daniel Newman m. abt 1888; parents Henry Blair × Sarah Blair on Iowa DC.
+  DISPROVED as Josephine Newnam × Gilbert ~1902 (husband Daniel ≠ Gilbert; maiden
+  unknown/Blair ≠ Newnam; Iowa 1942 ≠ Owsley 1916 Josephine Gilbert).
+
+Bullitt County History Museum Newman family: Gilbert G. Newman, son of John × Clara,
+  b. Jan 1882 England, 1900 Bullitt. Other (given-name Gilbert; English immigrant
+  household; not a groom Gilbert marrying Josephine Newnam).
+
+License still unseen. Do not close B063.

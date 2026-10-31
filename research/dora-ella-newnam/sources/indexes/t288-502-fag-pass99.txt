@@ -1,0 +1,30 @@
+Pass 99 — T288 IIIF 502 + TFKRHA 1916 C + FAG CDX
+Opened 31 Oct 2026 (America/New_York). Access-fail / independently re-seen extract.
+Card images unseen. Original 1916 DC face unseen. Memorial body unseen.
+Do not invent T288 card contents. Do not promote C509.
+Do not treat Catalog quoted Newnam title-nil as a T288 card-nil.
+Do not file Mary Jane Steele DISPROVED from FAG 403 or from a Wayback JS shell.
+
+T288 IIIF (curl, 60s):
+  https://catalog.archives.gov/iiif/3/lz%2Fdc-metro%2Frg-015%2F563268/T288-0348/T288-0348-01001.tif/info.json
+    HTTP 502, 122 bytes, 57.9s. Body: 502 Bad Gateway HTML. Card images unseen.
+  https://catalog.archives.gov/iiif/3/lz%2Fdc-metro%2Frg-015%2F563268/T288-0347/T288-0347-01001.tif/info.json
+    HTTP 502, 122 bytes, 57.3s. Same gateway HTML. Card images unseen.
+  Catalog /id/382335916 SPA HTML 5,454 bytes (same as Pass 97). Not the microfilm.
+
+Allen County Public Library Genealogy Center T288 inventory confirms rolls:
+  0347 Nesbitt, William E. - Newman, Lazarus
+  0348 Newman, Leon - Nichols, Wilbur
+  (same roll split already filed; inventory only, cards unseen).
+
+TFKRHA 1916 C this pass:
+  https://tfkrha.org/owsley/vitals/1916c.htm HTTP 429, 40,671 bytes Vercel checkpoint.
+  Not a fourth extract. Third Widowed/blank-parents extract still C709.
+
+FAG memorial 165350371:
+  Wayback CDX this query (findagrave.com/memorial/165350371, no www) empty JSON [].
+  Prior capture 20200116155933 remains a JS shell; memorial body unseen.
+  Not a DISPROVED of Mary Jane Steele.
+
+B061 remains open. Residual: original 1932 DC vol 020 #09525; Estill 1826–1850 bonds;
+M123-3 original; T288 card images (IIIF path known; pixels 502 this pass).

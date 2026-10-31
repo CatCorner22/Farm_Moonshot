@@ -5277,3 +5277,58 @@ Pass 2: Do **not** invent T288 card contents. Do **not** promote C509. Do not fi
 ### Facts extracted → claim IDs
 - IIIF timeout 15s; images unseen → C1059
 - B061 remaining gap → C1061
+
+## DOC222 — Catalog + Pass 99 coverage
+
+- Extract: `pass99-coverage.txt` SHA-256 `fa80ad79a2f302f2fb584645df9ed3bd37bc5e0f815c07994039165196937b75`
+- Provenance: Cursor `list-cloud-agents` includeArchived limit 200, 31 Oct 2026. This run `bc-01a18bb4-e162-785c-9724-86a7c5663bf1`.
+- Access: process listing. **No** new independently image-backed P001 1900–1926 residence.
+
+### Diplomatic — cited extract
+
+> **184** / `hasMore: false` / `totalMatched: 184`. Was **184**. NEW vs 184 (0; **no IDs imported**). Status-only: Hunt Dora **renamed** B074 Van Buren 1910 404s still RUNNING (same id). Sibling C281 **not imported**.
+
+Pass 2: Process count only. Skip **C221–C280**. Do **not** promote C509. Do **not** hunt remaining 1930 Owsley sheets.
+
+### Facts extracted → claim IDs
+- catalog 184 unchanged; NEW 0 → C1062
+- B063 remaining gap → C1068
+- B061 remaining gap → C1069
+
+## DOC223 — Josephine remaining substitutes (Pass 99)
+
+- Extract: `josephine-gilbert-pass99.txt` SHA-256 `abf8461fc4ee3d880bdedcc483a60f2558306bda864129c45b06315539e1a85c`
+- Coverage: `pass99-coverage.txt` `fa80ad79a2f302f2fb584645df9ed3bd37bc5e0f815c07994039165196937b75`
+- Provenance: Edmonson Peden/Gorin letters; Marion 1901/1904; Christian 1797–1820; McCracken 1851–57. Opened 31 Oct 2026. **HTML-seen / compiled index**, not a ~1902 civil register. License unseen.
+
+### Diplomatic — cited extracts
+
+> Edmonson Peden/Gorin letters opened covering 1825–1920. Lucy Newman × Anderson 24 Dec 1835 other. Nil Josephine Newnam × Gilbert.
+
+> Marion 1901: Josie Carr × Taudy DISPROVED; Josie Ella Whitlock × Thomas DISPROVED. 1902.htm 404. 1904: Josie Brady / Tandy DISPROVED.
+
+> WikiTree Josephine Unknown × Daniel Newman DISPROVED as this bride.
+
+Pass 2: License still unseen. Do not close B063.
+
+### Facts extracted → claim IDs
+- Edmonson covering 1825–1920 nil Josephine Newnam × Gilbert → C1063
+- Marion Carr/Whitlock 1901 DISPROVED / 1902 404 → C1064
+- Christian/McCracken/Trimble/Henderson/Jefferson n/a → C1065
+- WikiTree Josephine Unknown × Daniel DISPROVED → C1066
+- B063 remaining gap → C1068
+
+## DOC224 — T288 IIIF 502 + TFKRHA 1916 C + FAG CDX (Pass 99)
+
+- Extract: `t288-502-fag-pass99.txt` SHA-256 `9f8d9a3d8ec9e39c2636987665bc38e3ee23be5d5728033093cee6013afe7ca8`
+- Provenance: NARA Catalog IIIF T288-0348-01001 and T288-0347-01001 info.json; TFKRHA 1916 C; FAG 165350371 CDX. Opened 31 Oct 2026. **Access-fail**.
+
+### Diplomatic — cited access results
+
+> Reel 348 and 347 frame 01001 info.json HTTP 502, 122 bytes, ~58s. TFKRHA https 1916 C HTTP 429. FAG CDX empty []; prior Wayback JS shell unread.
+
+Pass 2: Do **not** invent T288 card contents. Do **not** promote C509. Do not file Mary Jane Steele DISPROVED from this capture.
+
+### Facts extracted → claim IDs
+- IIIF HTTP 502; images unseen → C1067
+- B061 remaining gap → C1069

@@ -2744,3 +2744,16 @@ research/dora-ella-newnam/sources/census/1880-lee-ky-ed59-sheet43-p768-caroline-
   sha256: 0359218b293b4d7e4d05b041aba5a54aaf1e922c07ca54f62948a28997bc5b6b
   format: text extract, 2,107 bytes
   check: T288 IIIF reel 348 timeout 15s; TFKRHA 429; FAG Wayback JS shell unread
+
+/workspace/research/dora-ella-newnam/sources/indexes/pass99-coverage.txt
+  sha256: fa80ad79a2f302f2fb584645df9ed3bd37bc5e0f815c07994039165196937b75
+  format: text extract, 2,508 bytes
+  check: Pass 99 coverage; catalog 184 unchanged; Josephine remaining; T288 IIIF 502
+/workspace/research/dora-ella-newnam/sources/indexes/josephine-gilbert-pass99.txt
+  sha256: abf8461fc4ee3d880bdedcc483a60f2558306bda864129c45b06315539e1a85c
+  format: text extract, 4,480 bytes
+  check: Edmonson 1825-1920 nil; Marion Carr/Whitlock 1901 DISPROVED; WikiTree Daniel DISPROVED
+/workspace/research/dora-ella-newnam/sources/indexes/t288-502-fag-pass99.txt
+  sha256: 9f8d9a3d8ec9e39c2636987665bc38e3ee23be5d5728033093cee6013afe7ca8
+  format: text extract, 1,681 bytes
+  check: T288 IIIF reel 348/347 HTTP 502; TFKRHA 429; FAG CDX empty this query
