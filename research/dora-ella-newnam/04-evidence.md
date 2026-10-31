@@ -1030,6 +1030,133 @@
 | C728 | John 38 + Jennie original **still not isolated** after ED **52** remap and montage of **1116–1136** | PROVEN as residual | S473 L622 | B088 |
 | C729 | ED **52** leaves **1116–1136** name-column montage: **no** Newman / John+Jennie / Virgil / Freda **head** isolated | POSSIBLE–PROBABLE negative (montage, not every line) | S473 L622 | B088 |
 | C730 | Soundex John 38 + Jennie is **not** John L of Owsley (wife Jennie ≠ Cora; Virgil/Freda ≠ Pencie/Robert; Henry 52 + Julie 42 in house) | DISPROVED as that identity (restates C647 with full card) | S466 L614 | #26 |
+| C731 | 1920 Breathitt EDs **45–50** (Wayback USGW compiled transcripts, 25 files) contain **no** Newman / Newnam / Noonan / McCoy **head**. Near-hit Virgils and John L Combs rejected | PROVEN as those transcripts (derivative) | S474 L625 | B088 |
+| C732 | T625-559 leaf **0870** is Breathitt ED **44** sh **3A**, **not** ED **39** sh **15A**. Pass 79 map withdrawn for that leaf | PROVEN (header) | S476 L626 | B088 |
+| C733 | T625-559 leaf **0896** is Breathitt ED **45** sh **1A**, **not** ED **41** sh **1A**. Pass 79/81 start-leaf for ED 41 withdrawn | PROVEN (header) | S476 L626 | B088 |
+| C734 | T625-559 leaf **0840** is Breathitt ED **42** sh **17A**, enumerator Everett [Bach?/Back?], **not** ED **38** | PROVEN (header) | S475 L626 | B088 |
+| C735 | Leaf **0844** is Breathitt ED **42** sh **19A**. Line-17 band is a Bach/William-type household, **not** Newman John 38 + Jennie | PROVEN as slack vs that candidate | S475 L627 | B088 |
+| C736 | Soundex “ED **52** sh **19**” is a plausible **4/5** misread of ED **42** sh **19**. The household is still **not** on that line | POSSIBLE as clerk slack. Residual open | S466 S475 L627 | B088 |
+| C737 | KYGenWeb Breathitt births **1916–1919**: **NEWMAN / NEWNAM 0**. Virgil ~3 and Freda ~1 were not registered as Newman in Breathitt | PROVEN as those pages | S481 L628 | B088 |
+| C738 | 15 Apr 1910 Lee ED **98** Heidelberg sh **6A** leaf **0532**: **Newman, Rissie**, servant, F W **15** S, KY/KY, in [Giddings?/Biddings?] + Emma + Della. Original now isolated | PROVEN as that line. Identity vs Dora’s Rissa **POSSIBLE** only (age 15 vs ~12–13). Not merged | S477 L629 | B016 |
+| C739 | Lee compiled births: **NEWMAN, VIRGIL**, mother **Emma Combs**, day **25**, **1912**. Charles Newman × Emma Combs m. **1 May 1909**. **Rejected** vs Soundex Virgil age 3 | PROVEN as compiled row. **DISPROVED** as the Soundex son | S478 L630 | B088 |
+| C740 | Lee compiled births: **NEWMAN, BOYD**, mother **Brandenburg Ollie**, **Nov 1914**. **POSSIBLE** child of Boyd + Allie/Ollie. Not a ~5-year-old in 1920 Station Camp | POSSIBLE. Register unread | S478 L630 | B089 #27 |
+| C741 | FS catalog seven IDs HTTP **403** this session (R011 step **32**) | PROVEN as access | S479 L632 | B045 B061 |
+| C742 | Live USGW Breathitt 1920 directory still timed out; Wayback **2008-06-16** holds EDs **45–50** only (no 39–44 / 51–57 folders) | PROVEN as access / catalog | S474 L625 | B088 |
+| C743 | SortedByName Virgil: Jeff Co. d. **5 Apr 1954** age **47** **rejected** vs age 3 in 1920. SSN **402-18-0271** b. **15 Apr 1916** d. Sep 1958 **not merged** (county unread) | PROVEN as those snippets. Identity open | S480 L631 | B088 |
+| C744 | SortedByName: **FREDA NEWMAN** d. **26 Apr 1919** age **11** Kenton — **rejected** vs Soundex Freda age 1 (and she died before Jan 1920) | DISPROVED as the Soundex daughter | S480 L631 | B088 |
+| C745 | TFKRHA Owsley homicide table lists **Combs, George**, **5-8-1942**, ambush; **does not** name a shooter. Charge of John NEWNAM remains Houser annotation | PROVEN as that table. Charge still **POSSIBLE** authored only | S429 L633 | B087 |
+| C746 | Leaf **1116** = ED **52** sh **1A** Quicksand reconfirmed; leaf **1144** = ED **56** sh **4A** reconfirmed | PROVEN (headers) | S476 L626 | B088 |
+| C747 | ED **44** leaves **0878** sh **7A** and **0880** sh **8A** confirmed (same enumerator as 0870) | PROVEN (headers) | S476 L626 | B088 |
+| C748 | John 38 + Jennie original **still not isolated** after ED **45–50** transcripts + ED **42** sh **19** candidate | PROVEN as residual | S474 S475 L634 | B088 |
+| C749 | Ollie vs Allie on the 1914 Boyd birth is a nickname variant only. Does **not** merge Floyd 1902 with Boyd | POSSIBLE. #27 still open | S478 L630 | #27 |
+| C750 | Breathitt 1916–1920 birth-index sweep (four year-pages + 1920) is **nil** Newman — a negative for placing Virgil/Freda in-county at birth | PROVEN as those pages | S471 S481 L628 | B088 |
+| C751 | T625-559: Bell population continues through leaf **0788** (Watkins Cloy). Breathitt **starts** at ED **41** ~leaf **0789** sh **1A** (0790 = sh **1B**, Crockettsville Precinct 2, W. Milton, 2 Jan) | PROVEN as those headers | S484 L636 | B088 |
+| C752 | Breathitt EDs **39–40** were **not isolated** between Bell end (~0788) and ED **41** start (~0789) | PROVEN as residual | S484 L636 | B088 |
+| C753 | Leaf **0866** is Breathitt ED **44** sh **1A**, Precinct 4. Confirms 0870 = sh **3A** (C732) | PROVEN (header) | S484 L636 | B088 |
+| C754 | ED **52** continues 1116 sh **1A** → 1126 sh **6A** → 1128 sh **7A** → ~1136 sh **11**. Then ED **56** starts **1138**. ED **52** max ~**11** sheets | PROVEN as that map | S484 L637 | B088 |
+| C755 | Leaf **1138** is Breathitt ED **56** sh **1A**, Crockettsville, Elliott Croft, 2 Jan. EDs **53–55** were not isolated as multi-sheet blocks between 1136 and 1138 | PROVEN as that header | S484 L637 | B088 |
+| C756 | ED **56**: 1140 sh **2A**; 1144 sh **4A**; 1150 sh **7A**; 1160 sh **12A**. Max ~**13** sheets — **no sheet 19** | PROVEN as film map | S484 L637 | B088 |
+| C757 | ED **57** starts ~1164. 1168 = sh **3A** Precinct 8, M. C. Edmunds; 1174 = sh **6A**. Reel ends ~**1176**. Max ~**7** sheets — **no sheet 19** | PROVEN as film map | S484 L637 | B088 |
+| C758 | Leaf **0820** = ED **42** sh **10A**, Precinct 2, Everett Back. Reconfirms 0840 = sh **17A** / 0844 = sh **19A** | PROVEN (header) | S484 L636 | B088 |
+| C759 | Candidate “ED 41 sh 19” at 0826 is **not** that sheet (later ED). Candidate “ED 45 sh 19” at 0932 is ED **47** sh **3A**. ED **56/57** have no sh 19 | PROVEN as those headers | S484 L638 | B088 |
+| C760 | 15 Apr 1910 Heidelberg ED **98** sh **6A**: household head of Rissie is **Edney, Sam**, 32, + **Emma**, 31, + **Della**. Surname **Edney**, not Giddings/Biddings | PROVEN (original). Rissie vs Dora’s Rissa still **POSSIBLE** only; not merged | S489 L639 | B016 |
+| C761 | Same sheet: **Newman, William**, 44, + **Martha**, 33, + **Floyd**, son, **6**. **Rejected** vs 1902 Floyd groom (would be ~31 in 1910) | PROVEN as that line. **DISPROVED** as the 1902 groom | S489 L639 | B089 #27 |
+| C762 | Powell T625-596 leaf **1060** = ED **142** Stanton sh **5B**, 31 Jan: **no** Newman / John L+Cora head isolated | PROVEN as that sheet (negative) | S485 L640 | B088 |
+| C763 | Powell leaf **1115** = ED **144** Mag. Dist. 3 sh **8A**, 9 Jan, J. C. Willis: **no** Newman head isolated | PROVEN as that sheet (negative) | S485 L640 | B088 |
+| C764 | Powell leaf **1195** = ED **178** sh **8A**, 4 Mar: **no** Newman head isolated | PROVEN as that sheet (negative) | S485 L640 | B088 |
+| C765 | Wolfe T625-602 leaf **0400** Hazel Green: **no** Newman head isolated on that sheet | PROBABLE negative (dark scan) | S486 L641 | B088 |
+| C766 | FS seven catalog IDs HTTP **404** this session (R011 step **33**). Images unread | PROVEN as access | S487 L642 | B045 B061 |
+| C767 | KYGenWeb Breathitt funeral-card / obit index: **no** Newman / Newnam / Jennie / Virgil card | PROVEN as that index | S488 L643 | B088 |
+| C768 | USGenNet 1910 Lee landing lists Heidelberg ED **98** as planned; `heidelberg.html` / `ed98.html` **404** | PROVEN as access | S490 L644 | B016 |
+| C769 | 1920 Heidelberg compiled: **Henry NEWMAN** 39 + Nettie (Mays) is the 1903 Book 6 couple — **not** Soundex Henry 52 / Julie 42 | PROVEN as compiled. **Rejected** vs the Soundex parents | S344 L645 | B088 |
+| C770 | John 38 + Jennie original **still not isolated** after the pass-83 film map (ED 52/56/57/41/44/45 lack sh 19; ED 42 sh 19 rejected) | PROVEN as residual | S483 S484 L646 | B088 |
+| C771 | Certificates **28501** / **31780** and Book 6 register remain **unread** | PROVEN as unread | S445 L647 | B089 |
+| C772 | T625-559 leaf **1060** is Breathitt ED **52**, **George's Branch Precinct 3**, sheet **19 A**, 7 Feb 1920, A. W. Noble. Line **17** dw **315** / fam **315** is the Soundex household | PROVEN (header + line) | S491 S492 L649 | B088 |
+| C773 | Diplomatic: **Newman, John**, Head, M W **38** M; **Jennie**, Wife, F W **21** M; **Virgil**, Son, M W **3** S; **Fred[i? / Freddie?]**, Son, M W **1** S; **Henry**, Father, M W **52**; **Julie**, Mother, F W **42** | PROVEN as that line (image seen). Freda-as-daughter is Soundex only | S491 S493 L650 | B088 |
+| C774 | Leaf **1060** matches Soundex **C717** on Vol-county, ED **52**, sheet **19**, line **17**, ages, and names | PROVEN same household | S466 S491 L651 | B088 |
+| C775 | Original John 38 + Jennie is **not** John L + Cora (wife Jennie ≠ Cora; Virgil/Fredi ≠ Pencie/Robert; Henry+Julie in house; George's Branch ≠ Owsley) | DISPROVED as that identity (original now under C730) | S491 L651 | #26 |
+| C776 | ED **52** George's Branch (A. W. Noble): **1030** = sh **4**; **1048** = sh **13**; **1060** = sh **19 A**. **C721** (“ED 52 has no sheet 19”) is **withdrawn** for this block | PROVEN as that map | S494 L652 | B088 |
+| C777 | Leaf **1116** Quicksand is **not** the start of this ED **52**. Header re-read faint (ED **5x** sh **1 A**). **C719** withdrawn as the start of George's Branch ED 52 | PROVEN as residual / correction | S468 S495 L653 | B088 |
+| C778 | ED **43** isolated: **0854** = sh **2 A**, Mag. Dist. 1 Precinct 4, Isaac Back, 3 Jan; **0864** = sh **7 A** (nearly empty). Then ED **44** at **0866**. Max ~**7** — **no sheet 19** | PROVEN as that map | S496 L654 | B088 |
+| C779 | Leaf **1020** = Breathitt ED **51** sh **6 A**, Frozen Creek, 19–20 Feb. **Not** the Soundex house | PROVEN (header) | S497 L655 | B088 |
+| C780 | Leaf **1110** is Breathitt Precinct **11**, ED **53**, sheet **9 A** (not Bell ED **23** sh 13A). **C718** withdrawn | PROVEN as that header | S498 L656 | B088 |
+| C781 | FS seven catalog IDs HTTP **403** this session (R011 step **34**). Images unread | PROVEN as access | S499 L657 | B045 B061 |
+| C782 | SortedByName `john_newman` / `jennie_newman` / `rissie_newman` HTTP **403** | PROVEN as access | S500 L658 | B088 B016 |
+| C783 | USGenNet 1910 Lee landing saved; Heidelberg / `ed98.html` still **404** | PROVEN as access | S490 L659 | B016 |
+| C784 | Combs/Courier 1942 extract still names **George Combs** as victim and does **not** name a shooter. Charge remains Houser annotation | PROVEN as that extract. Charge still **POSSIBLE** authored only | S429 L660 | B087 |
+| C785 | Book 6 register + certs **28501 / 31780** still **unread** | PROVEN as unread | S445 L661 | B089 |
+| C786 | Powell T625-596 leaf **1080** = Clay City Precinct ED **143** sh **1 B**, 3 Jan: **no** Newman / John L+Cora head isolated | PROVEN as that sheet (negative) | S501 L662 | B088 |
+| C787 | Powell leaf **1160** = Southfork Precinct 4 ED **145** sh **9 B**, 14 Jan: **no** Newman head isolated | PROVEN as that sheet (negative) | S501 L662 | B088 |
+| C788 | Wolfe T625-602 leaf **0374**: **no** Newman head isolated (dark scan) | PROBABLE negative | S502 L663 | B088 |
+| C789 | Leaf **0845** (ED **42** B-side) line band is McIntosh / Weston / Fugate — **not** Newman John+Jennie | PROVEN as slack vs that candidate | S503 L664 | B088 |
+| C790 | **C728** (original unisolated) is **withdrawn**. Original is **C772** | PROVEN as correction | S491 L665 | B088 |
+| C791 | T625-559 leaf **1116** is Breathitt ED **55**, sheet **1 A**, SD **11**, stamp **2552** | PROVEN (w1600 ED-box) | S505 S506 L667 | B088 |
+| C792 | Leaf **1116** township line is Precinct No. **1[2 or 6]** Mag[isterial]. **POSSIBLE** Quicksand Pct **16** (Combs) | POSSIBLE as precinct identity | S506 L667 | B088 |
+| C793 | Leaves **1118 / 1120 / 1136** are the same ED, sheets **2 A / 3 A / 11**. The 1116–1136 block is one district, max ~**11**, then ED **56** at **1138** | PROVEN as that map | S505 L668 | B088 |
+| C794 | **C754** (“ED 52 Quicksand starts 1116”) is **withdrawn**. That later block is ED **55** | PROVEN as correction | S505 L668 | B088 |
+| C795 | Leaves **0789 / 0790** reconfirmed: Breathitt ED **41** sh **1 A / 1 B**, Crockettsville Precinct 2 | PROVEN (headers) | S507 L669 | B088 |
+| C796 | Leaf **0788** w1600 is Bell Precinct 2 MD, ED **20**, sheet **16**, 25 Feb 1920, Waters/Watkins Cloy — immediately before Breathitt ED **41** | PROVEN as that header | S507 L669 | B088 |
+| C797 | Leaf **1010** is Breathitt ED **51**, Frozen Creek Precinct 4, sheet **1 A** — start of Frozen Creek | PROVEN (header) | S508 L670 | B088 |
+| C798 | Mid-reel headers: **0940** = ED **47** sh **7 A**; **0960** ~ ED **48** sh **6 A**; **0980** ~ ED **49** sh **2 A**; **1000** ~ ED **50** sh **6 A** | PROVEN as 0940; PROBABLE as 0960–1000 (invert slack) | S508 L670 | B088 |
+| C799 | Leaf **1064** is ED **52** sheet **21 A** — George's Branch continues past the Soundex sheet | PROVEN (header) | S509 L671 | B088 |
+| C800 | Leaf **1080** is **probable** ED **53** sheet **1 A** (start of the precinct-11 block that includes 1110 sh 9 A) | PROBABLE (header slack) | S509 L671 | B088 |
+| C801 | Powell leaf **1100** is Clay City ED **143** sh **11 B**, 4 Feb, Virgil Roadie. Pass 77/78 **C657** (“1100 = ED 144”) is **withdrawn** | PROVEN (header) | S510 L672 | B088 |
+| C802 | Powell-reel leaf **1040** is still Pike ED **137** sh **6 A**, not Powell | PROVEN (header) | S510 L672 | B088 |
+| C803 | Powell leaf **1148** is Rogers Chapel Precinct 3, ED **145** sh **3 B**, 6 Jan, John B. Rogers | PROVEN (header) | S511 L672 | B088 |
+| C804 | Powell leaf **1170** is ED **146** sh **1 B**, Southfork Precinct 4, 27 Jan — ED **146** isolated | PROVEN (header) | S511 L672 | B088 |
+| C805 | Powell name-column invert crops **1100 / 1130 / 1170**: **no** Newman / John L+Cora head isolated | PROBABLE negative (invert crops, not every line) | S510 S511 L672 | B088 |
+| C806 | Wolfe leaf **0370** remains too dark to isolate an ED number or Newman head | PROVEN as access / residual | S512 L673 | B088 |
+| C807 | FS catalog seven IDs HTTP **403** this session (R011 step **35**). Images unread | PROVEN as access | S513 L674 | B045 B061 |
+| C808 | USGenNet Lee wills landing still lists **Elizabeth NEWNAM** and **Mary F. Newnam TINCHER** only — **no** Samuel P. | PROVEN as that index (negative) | S334 L675 | B045 |
+| C809 | Book 6 compiled HTML re-seen (310 KB). Floyd × Allie A. and Boyde witness still present. Register image **unread** | PROVEN as compiled re-read | S514 S449 L676 | B089 |
+| C810 | Certs **28501 / 31780** still **unread**. FAG memorial **25980667** HTTP **403**. Lexington Cemetery search not usable. KDLA county deaths end **1965** | PROVEN as unread / access | S515 L677 | B089 |
+| C811 | Authored Four Branches “1920 Jackson District 39 Breathitt” is a **POSSIBLE** lead that ED **39** is Jackson town. Not isolated on the 0788/0789 junction | POSSIBLE as catalog lead only | S517 L680 | B088 |
+| C812 | Live USGW Breathitt 1920 directory still publishes **ed45–ed50** only | PROVEN as that index | S474 L678 | B088 |
+| C813 | T1224 1920 KY ED descriptions are roll **46** / FHL **1842707**. **Unread** this session | PROVEN as unread | S516 L679 | B088 |
+| C814 | LOC Chronicling America 1942 George Combs query returned Cloudflare **308**. Charge still Houser annotation only | PROVEN as access. Charge still **POSSIBLE** authored only | S429 L681 | B087 |
+| C815 | T625-559 leaf **0734** county card: **BREATHITT CO. E.D's. 39 to 57 (pt)** | PROVEN (original image) | S519 L684 | B088 |
+| C816 | Leaf **0732** (duplicate **0735** after the card) = Breathitt Precinct **#1**, incorporated place **Jackson**, ED **39**, sheet **1 A**, 2 Jan 1920, Herschel L. Bach | PROVEN (original image) | S520 L685 | B088 |
+| C817 | ED **39** continues through leaf **0768** = Precinct **#1**, no incorporated place, sheet **15 A**, 2 Feb, same enumerator | PROVEN (original image) | S522 L686 | B088 |
+| C818 | Leaf **0769** = Breathitt Precinct **No. 2**, Watkins Clay/Cloy, ED **40** (start of this enumerator’s block) | PROVEN (original image) | S523 L687 | B088 |
+| C819 | Leaf **0788** is Breathitt ED **40** sheet **16**, Precinct 2 MD, 25 Feb, Watkins Cloy — **not** Bell ED 20. **C796 withdrawn** | PROVEN (w1600 re-read). Bell has no ED 40 | S507 S523 L687 | B088 |
+| C820 | Jackson ED **39** name-column visual samples (sh **1 A**, **3 B**, **15 A**, and mid-sheets) + Tesseract on invert crops: **no** Newman / Newnam / McCoy / John L+Cora head isolated | PROBABLE (negative; not every line at full-sheet) | S524 L688 | B088 |
+| C821 | ED **40** name-column samples (**0769–0770**, **0788**) + OCR: **no** Newman / John L+Cora head isolated | PROBABLE (negative; unread residual lines) | S524 L688 | B088 |
+| C822 | T625-596 leaf **1063** = Powell Mag. Dist. **1**, **Natural Bridge Precinct No. 2**, ED **177**, sheet **1 A**, 27 Jan 1920, Robt H. Conlee. hh **1** Preston, John W. 38 + Nellie | PROVEN (original image) | S525 L689 | B088 |
+| C823 | ED **177** continues **1064** sh **1 B** through **1078** sh **8 B**. Leaf **1079** = Powell ED **143** sh **1 A** (Virgil Roadie) | PROVEN (original images) | S525 S526 L689 | B088 |
+| C824 | Powell ED **177** name-column samples + OCR: **no** Newman / John L+Cora head isolated | PROBABLE (negative; not every line) | S525 L690 | B088 |
+| C825 | Wolfe T625-602 leaf **0374** header is ED **234** Lee City, Wm Tester (sheet dark) | PROVEN as header; names not fully read | S527 L691 | B088 |
+| C826 | Compiled Wolfe 1920c Lee City, 1920e Campton, 1920d, 1920f, 1920g Holly ED **239**, 1920h: **nil** Newman/Newnam/McCoy. Near-hits **rejected** (Newt LEE; Newton hired; John L. KING 8; John L. TRENT 34; John L. SEWELL 47; Dora L. HANKS/Brewer) | PROBABLE as compiled negative | S528 L691 | B088 |
+| C827 | FS catalog **127913** this session = SPA/empty shell. R011 step **36**. Images unread | PROVEN as access | S529 L693 | B045 B061 |
+| C828 | Bell EDs **25–34** were **not** isolated between Bell ED **24** sh **12 A** (leaf **0720**) and the Breathitt card (leaf **0734**) | **WITHDRAWN** (pass 87). 0720 is ED **34** sh **12 A**; precinct 24 ≠ ED 24. **C845** | S484 L692 L701 | B088 |
+| C829 | Leaves **0732** and **0735** are the same ED **39** sh **1 A** (county card inserted at **0734**) | PROVEN (duplicate images) | S520 L685 | B088 |
+| C830 | Leaf **0740** w1600 = ED **39** sheet **3 B**, 17 Jan 1920, Herschel L. Bach, Jackson | PROVEN (original image) | S521 L686 | B088 |
+| C831 | SCGS Lee delayed-birth index has **no** cert **28501 / 31780**. **NEWMAN, Clarnce**, 6 Dec 1910, mother Allie Brandburg, vol **230** cert **49261**, is a different number. Images unread | PROVEN as index; certs still unread | S530 L694 | B089 |
+| C832 | Four Branches “Jackson District 39” authored lead is now **confirmed on the original** (upgrade of **C811**) | PROVEN as identity of ED 39; C811 remains the authored snippet | S517 S520 L695 | B088 |
+| C833 | T625-559 leaf **0700** w1600 = Bell Clear Creek Precinct **No. 24**, ED **34**, sheet **2 A**, 8 Feb 1920, John Hays. Pass 83 “0700 = ED 24” **withdrawn** | PROVEN (w1600) | S532 L697 | B088 |
+| C834 | Leaf **0720** w1600 = Bell ED **34**, sheet **12 A**, 18 Feb, John Hays. Place line is Precinct **24**. Precinct ≠ ED | PROVEN (w1600) | S533 L698 | B088 |
+| C835 | Leaf **0698** = Bell ED **34** sheet **1 A**, 9 Feb, John Hays — start of ED 34 | PROVEN (original image) | S534 L699 | B088 |
+| C836 | Leaf **0731** = Bell ED **34** sheet **17 B**, 27 Feb, John Hays. Next leaf **0732** is Breathitt ED **39** | PROVEN (original image) | S535 L700 | B088 |
+| C837 | Leaf **0690** = Bell ED **33** sheet **3 A**, Suttly Precinct, 13 Feb, John W. Foulkner | PROVEN as that header | S536 L699 | B088 |
+| C838 | Leaves **0480 / 0500** = Bell ED **25**, Middlesboro City (Precinct 19). **0500** = sh **12 B**, 28 Jan, Robert C. Maddox | PROVEN as those headers | S537 L702 | B088 |
+| C839 | Leaves **0520 / 0550** = Bell ED **26**. **0520** = sh **2 B**, 4 Feb, Ralph Goins, Middlesboro; **0550** = sh **17 B**, South Side | PROVEN as those headers | S538 L702 | B088 |
+| C840 | Leaves **0580 / 0600** = Bell ED **27**, Middlesboro West End, Ralph Goins. **0580** = sh **10 B** 17 Mar; **0600** = sh **20 B** 25 Mar | PROVEN as those headers | S539 L702 | B088 |
+| C841 | Leaves **0620 / 0640** = Bell ED **29**, Precinct 2 Ingram. ED **28** not isolated between 0600 and 0620 | PROVEN as ED 29; 28 unread | S540 L703 | B088 |
+| C842 | Leaf **0670** = Bell ED **31**, 9 Feb, John A. Lee. ED **30** not isolated between 0640 and 0670 | PROVEN as ED 31; 30 unread | S541 L703 | B088 |
+| C843 | Leaf **0685** = Bell ED **32** sheet **5 B**, 13 Feb, Wilburn T. Offeine/Abner | PROVEN as that header | S542 L703 | B088 |
+| C844 | Leaf **0660** is an unused blank 1920 population sheet | PROVEN (blank image) | S543 L703 | B088 |
+| C845 | Bell EDs **25–34** sit on T625-559 after ED **24** (~leaf **0450**) through ED **34** end (**0731**), immediately before Breathitt ED **39**. **C828 withdrawn** | PROVEN as film map | S532–S543 L701 | B088 |
+| C846 | Sampled Bell **25–34** name columns + Tesseract invert crops: **no** Newman / Newnam / McCoy / John L+Cora head isolated | PROBABLE (negative; not every line) | S544 L704 | B088 |
+| C847 | T625-559 **0771–0787** remain Breathitt ED **40**, Watkins Cloy (unread sides of pass 86 block) | PROVEN as headers | S545 L705 | B088 |
+| C848 | ED **40** remaining name columns + OCR: **no** Newman / John L+Cora head isolated (visual 0772/0774: Combs / Barnett / Hall / Henley) | PROBABLE (negative; not every line) | S545 L705 | B088 |
+| C849 | Wolfe T625-602 leaf **0380** w1600 = Hazel Green Precinct, ED **235**, ~sh **3 B**, 5 Jan, Stanley M. Ward | PROVEN as header; names dark | S546 L706 | B088 |
+| C850 | Leaf **0410** w1600 = Campton Precinct **No. 3**, ED **236**, ~sh **4 B**, 13 Jan | PROVEN as header; names dark | S547 L706 | B088 |
+| C851 | Compiled Wolfe 1920i Clifty ED **241**: **nil** Newman/Newnam/McCoy. **John L. HENRY** 21 **rejected** | PROBABLE as compiled negative | S548 L707 | B088 |
+| C852 | Compiled Wolfe 1920k Antioch ED **242**: **nil** Newman/Newnam/McCoy. Dora Childers 26 / Dora Roberts 20 / John L. Hollon 48 / Cora King 6 **rejected** | PROBABLE as compiled negative | S549 L707 | B088 |
+| C853 | Re-grep compiled 1920d Hazel Green, 1920f Torrent, 1920h Stillwater ED **240**: **nil** Newman/Newnam/McCoy | PROBABLE as compiled negative | S528 L707 | B088 |
+| C854 | Compiled Lee City 1920c hh **79** **McCOY, John B.** 84 + Nina 55 is surname McCoy — **rejected** vs McCoy Newman | PROVEN as a compiled reject | S528 L707 | B088 |
+| C855 | FS catalog **127913** and **127869** this session = SPA shells. R011 step **37**. Images unread | PROVEN as access | S550 L708 | B045 B061 |
+| C856 | Lee Book **6** compiled re-seen: Floyd NEWNAM × Allie A. BRANDENBURG **31 Jul 1902** still the only Floyd×Allie row; **no** Boyd groom. Register unread | PROVEN as compiled re-read | S449 L709 | B089 |
+| C857 | Certs **28501 / 31780** still absent from SCGS Lee delayed index and RootsWeb 1906 delayed year file. Arthur Newman / Allie Brandenbur is cert **49665** | PROVEN as index; certs unread | S530 S551 L710 | B089 |
 
 ## Same-person merges (Hard Rule 3)
 | Records merged | Identifier 1 | Identifier 2 | Contradictions? | Verdict |
@@ -1182,6 +1309,7 @@
 | 1916 NEWMAN WILLIE mother CORA BRADBURRY + Cora Brandenburg | Given Cora + Newman | Maiden Bradburry | **Rejected (C615)** |
 | Barney McCoy Newman ~1892 AR + P010 McCoy Apr 1890 | McCoy + Newman | Birth year, wife Knupp, White Co. AR | **Rejected (C618)** |
 | 1920 Estill Boyd 45 + Allie 35 + 1930 John L 51 + Cora 36 | Newman + Estill/Owsley cluster | Given names Boyd/Allie vs John L/Cora; children Sarah A/Arthur vs Pencie/Robert | **Rejected (C636)** |
+| 1920 Breathitt ED **52** sh **19 A** ln **17** Newman John 38 + Jennie 21 + 1930 John L 51 + Cora 36 | Newman + age ~38 vs ~41 | Wife Jennie ≠ Cora; Virgil/Fredi ≠ Pencie/Robert; Henry 52 + Julie 42 in house; George's Branch ≠ Owsley | **Rejected (C775 / C730)** |
 | 1920 Estill ED 43 Newman 34 + wife 34 + 3 children + John L + Cora | Newman + Estill 1920 | Ages 34/34 vs ~41/26; children 10/5/2 vs Pencie/Robert/Florence | **Rejected (C654)** |
 | Delayed-birth Arthur 24 Jan 1906 mother Allie Brandenbur + Soundex Arthur 13 in Boyd’s house | Arthur + Allie + Estill + age 13 in Jan 1920 | Index vs Soundex; cert unread | **PROBABLE (C650)** |
 | Allie Brandenburg ~1885 + Cora Brandenburg ~1893 | Brandenburg + Estill/Owsley | Ages ~8 years apart; different husbands | **Rejected as same woman (C651).** FAN only |

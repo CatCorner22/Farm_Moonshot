@@ -30,6 +30,12 @@
 24. [Pass 79. Floyd married Allie in 1902](#pass-79-floyd-married-allie-in-1902)
 25. [Pass 80. Boyd and Allie in Heidelberg, 1910](#pass-80-boyd-and-allie-in-heidelberg-1910)
 26. [Pass 81. Allie A. on the original, and the John–Jennie card](#pass-81-allie-a-on-the-original-and-the-johnjennie-card)
+27. [Pass 82. District 42 sheet 19, and Rissie as a servant](#pass-82-district-42-sheet-19-and-rissie-as-a-servant)
+28. [Pass 83. The Breathitt film map](#pass-83-the-breathitt-film-map)
+29. [Pass 84. John and Jennie on George's Branch](#pass-84-john-and-jennie-on-georges-branch)
+30. [Pass 85. District 55, not 52](#pass-85-district-55-not-52)
+31. [Pass 86. Jackson is District 39](#pass-86-jackson-is-district-39)
+32. [Pass 87. District 34 is Clear Creek](#pass-87-district-34-is-clear-creek)
 
 ---
 
@@ -372,9 +378,91 @@ The compiled 1900 Allie A. row is now an original. Sturgeon sheet 3A, leaf 937, 
 
 The 1920 Soundex card for John of Breathitt is now readable in full. Newman, John, thirty-eight, volume 4, district 52, sheet 19, line 17: wife **Jennie**, twenty-one; **Virgil**, three; **Freda**, one; **Henry**, fifty-two, father; **Julie**, forty-two, mother. That card is **proven**. He is **not** John L. of Owsley. [C717] [C730] [S466]
 
-District 52 does not start where pass 78 said. Leaf 1110 is district 23, sheet 13A. District 52 starts at leaf 1116, sheet 1A. Leaf 1128 is sheet 7A, not 19A. District 52 has no sheet 19 — district 56 is already on the film by leaf 1144. The Soundex sheet number is slack. The original household is still not isolated. [C718] [C719] [C720] [C721] [C728] [S468]
+Pass 81 read leaf 1110 as district 23 and leaf 1116 as the start of district 52, and concluded district 52 had no sheet 19. Pass 84 withdraws those three readings. Leaf 1110 is Breathitt precinct 11, district 53. The George's Branch district 52 — A. W. Noble — has sheet 4 at leaf 1030, sheet 13 at leaf 1048, and **sheet 19A at leaf 1060**. The original is there. [C718] [C719] [C721] [C728] [C776] [C777] [C780] [S468]
 
-Certificates 28501 and 31780 are still unread. SortedByName has no Boyd Newman page and no Kentucky Floyd born about 1878–79 who belongs here. FamilySearch films returned 403 again. [C706] [C707] [C708] [C709] [S462] [S463]
+### Pass 82. District 42 sheet 19, and Rissie as a servant
+
+Wayback holds the USGenWeb Breathitt 1920 transcripts for districts 45 through 50 — twenty-five files. No Newman, Newnam, Noonan, or McCoy head. Near-hit Virgils and a John L. Combs are other men. [C731] [S474]
+
+The film headers on reel 559 were remapped. Leaf 840 is district 42, sheet 17A. Leaf 844 is district 42, sheet 19A. Line 17 on that sheet is a Bach household, not John and Jennie. A 4/5 slip from district 52 to 42 was a fair clerk hypothesis. It fails on the names. [C734] [C735] [C736] [S475]
+
+Rissie is no longer a compiled ghost. On 15 April 1910, Heidelberg sheet 6A, leaf 532, she is **Newman, Rissie**, servant, fifteen, single, in the house of **Edney, Sam**, thirty-two, and **Emma**, thirty-one, with a daughter Della. That line is **proven**. Age fifteen versus Dora’s Rissa at about twelve or thirteen is slack. They are **not merged**. [C738] [C760] [S477] [S489]
+
+The same sheet has **Newman, William**, forty-four, **Martha**, thirty-three, and **Floyd**, son, six. That Floyd would have been about thirty-one in 1910 if he were the 1902 groom. He is not. [C761]
+
+Lee’s compiled births give **VIRGIL**, mother Emma Combs, 1912 — rejected against the Soundex son aged three — and **BOYD**, mother Ollie Brandenburg, November 1914, a **possible** Allie/Ollie child only. [C739] [C740] [S478] Breathitt births 1916–1920 are nil Newman. [C737] [C750]
+
+### Pass 83. The Breathitt film map
+
+Bell County runs through leaf 788. Breathitt starts at district 41, about leaf 789 — Crockettsville precinct 2, W. Milton, sheet 1B on leaf 790. Districts 39 and 40 were not isolated between those leaves. District 44 starts at leaf 866. The later block that pass 83 called district 52 Quicksand — sheet 1A at 1116 through about sheet 11 — is **district 55**. District 56 still begins at 1138. [C751] [C754] [C756] [C757] [C791] [C794] [S484] [S505]
+
+Powell full sheets at leaves 1060, 1115, and 1195 — districts 142, 144, and 178 — have no Newman head. A Wolfe Hazel Green sample is the same negative, on a dark scan. [C762] [C763] [C764] [C765] [S485] [S486]
+
+FamilySearch returned 404, then 403 again. Certificates 28501 and 31780 are still unread. The 1920 Heidelberg compiled Henry, thirty-nine, and Nettie is the 1903 Book 6 couple, not the Soundex Henry, fifty-two. [C766] [C769] [C771]
+
+### Pass 84. John and Jennie on George's Branch
+
+The Soundex card named a sheet the later Quicksand block does not have. The earlier block does. Leaf 1060 is Breathitt district **52**, **George's Branch precinct 3**, sheet **19A**, 7 February 1920, enumerator A. W. Noble. Line 17, dwelling 315: **Newman, John**, thirty-eight, married; **Jennie**, wife, twenty-one; **Virgil**, son, three; **Fred[i? / Freddie?]**, son, one; **Henry**, father, fifty-two; **Julie**, mother, forty-two. The district box is **52** / **19 A**. That is **proven**. It is the Soundex household. [C772] [C773] [C774] [S491] [S492] [S493]
+
+He is **not** John L. of Owsley. The wife is Jennie, not Cora. The children are Virgil and Fredi, not Pencie and Robert. Henry and Julie sit in the house. The precinct is George's Branch, Breathitt, not Buck Creek. [C775]
+
+The same district, same enumerator, is sheet 4 at leaf 1030 and sheet 13 at leaf 1048. District 52 on George's Branch **has** a sheet 19. The pass-81 claim that it does not is withdrawn. Leaf 1116 is not the start of this district 52. Leaf 1110 is precinct 11, district 53 — not Bell district 23. [C776] [C777] [C780]
+
+District 43 is now mapped: precinct 4, Isaac Back, sheet 2A at leaf 854 through a nearly empty sheet 7A at 864, then district 44 at 866. No sheet 19. District 51 is Frozen Creek, sheet 6A at leaf 1020 — not the Soundex house. [C778] [C779] [S496] [S497]
+
+Powell Clay City district 143, sheet 1B, and Southfork precinct 4, district 145, sheet 9B, have no Newman head. Wolfe leaf 374 is another dark negative. [C786] [C787] [C788] [S501] [S502]
+
+FamilySearch films returned 403 again. Book 6’s register image and certificates 28501 and 31780 are still unread. The 1942 *Courier* extract still names George Combs as the man ambushed and does not name a shooter. Do not print that charge as fact. [C781] [C784] [C785]
+
+### Pass 85. District 55, not 52
+
+Leaf 1116 was the leftover. The faint box on the contact sheet looked like a 5 and a 2. At 1600 pixels the second digit is another **5**. Supervisor’s district 11, stamp 2552, sheet **1A**. That later block is Breathitt district **55**, not another district 52. [C791] [S505] [S506]
+
+The township line is Precinct No. 1[2 or 6], magisterial. Quicksand is precinct 16 in the Combs extract. That identity is **possible** only. [C792]
+
+Leaves 1118, 1120, and 1136 are sheets 2A, 3A, and 11 of the same district. Eleven sheets, then district 56 at 1138. The pass-83 claim that district 52 Quicksand starts at 1116 is withdrawn. [C793] [C794]
+
+The film junction at 788–789 is district **40** into district 41, not Bell into Breathitt. Pass 85 read leaf 788 as Bell district 20. The high-resolution box is district **40**. That earlier label is withdrawn. [C795] [C796] [C819]
+
+Frozen Creek starts where it should. Leaf 1010 is district 51, precinct 4, sheet 1A. George’s Branch district 52 is still running at leaf 1064 — sheet **21A** — after the Soundex household on sheet 19A. [C797] [C799]
+
+Powell’s card said district 144 sat at leaf 1100. The sheet itself is Clay City district **143**, sheet 11B, 4 February, the same Virgil Roadie who took sheet 1B at leaf 1080. That earlier label is withdrawn. Rogers Chapel precinct 3, district 145, sheet 3B, is at leaf 1148. District **146** starts at leaf 1170, Southfork precinct 4, sheet 1B, 27 January. The name columns on 1100, 1130, and 1170 do not isolate a Newman head. District 177 is isolated in the next pass. Wolfe remains dark on the sampled originals. [C801] [C803] [C804] [C805] [C806] [S510] [S511]
+
+FamilySearch returned 403 again — roadblock step 35. Book 6’s compiled page still has Floyd and Allie A. on 31 July 1902. The register image is unread. Certificates 28501 and 31780 are unread. Do not print 1976 or 1978 as proven deaths. [C807] [C809] [C810]
+
+### Pass 86. Jackson is District 39
+
+The authored tree was right about the number and wrong about where the film put it. Leaf 734 is a white card: **BREATHITT CO. E.D's. 39 to 57 (pt)**. Two leaves earlier — and again just after the card — is sheet **1A** of district **39**: Precinct 1, incorporated place **Jackson**, 2 January 1920, Herschel L. Bach. The first household is Mrs. Mancy Back; the son in that house is the enumerator. [C815] [C816] [C829] [S519] [S520]
+
+The district is still running on 2 February at leaf 768 — sheet **15A**, same precinct, no incorporated place. That is the Jackson outskirts, not a new district. [C817] [S522]
+
+District **40** starts at leaf 769: Precinct 2, Watkins Clay. It is still precinct 2, still Watkins Cloy, at leaf 788 sheet **16**, 25 February. Then district 41, Crockettsville, at 789. The pass-85 “Bell district 20” reading of leaf 788 is withdrawn. Bell does not have a district 40. [C818] [C819] [S523]
+
+The name columns on the Jackson first sheet, sheet 3B, sheet 15A, and the first two district-40 sheets, plus a machine pass over sixty-two inverted name-column crops, do not isolate a Newman, Newnam, McCoy, or John L. and Cora head. That is a **probable** negative, not a line-by-line close. [C820] [C821] [S524]
+
+Powell district **177** is not lost. It sits where the county card said it would: after district 142, before Clay City 143. Leaf 1063 is Natural Bridge Precinct 2, district **177**, sheet **1A**, 27 January, Robert H. Conlee. The first house is John W. Preston, thirty-eight, and Nellie. The district runs through sheet **8B** at leaf 1078. Leaf 1079 is already Clay City district 143, sheet 1A. Sampled name columns there are the same **probable** nil. [C822] [C823] [C824] [S525] [S526]
+
+Wolfe leaf 374 is Lee City, district 234 — still dark. The published Wolfe transcripts for Lee City, Campton, Holly, and the 1920d/f/h files have no Newman, Newnam, or McCoy head. Near-hits are other men: a Newt Lee, Newton hired hands, a John L. King aged eight, a John L. Trent, a John L. Sewell, a Dora L. Hanks. Torrent, Clifty, Antioch, and Hazel Green compiled pages remain. [C825] [C826] [S527] [S528]
+
+FamilySearch catalog 127913 was an empty shell this pass — roadblock step 36. Certificates 28501 and 31780 are still unread. A Lee delayed-birth index has Clarence Newman, 6 December 1910, mother Allie Brandburg, certificate **49261** — not those numbers. [C827] [C831] [S529] [S530]
+
+Bell districts 25–34 were not isolated between Bell 24 at leaf 720 and the Breathitt card at 734. That gap stays on the backlog. [C828]
+
+### Pass 87. District 34 is Clear Creek
+
+The gap was a misread. Leaf 720 at 1600 pixels is Bell district **34**, sheet **12A**, 18 February, John Hays. The township line is **Clear Creek Precinct No. 24**. Precinct 24 is not the district number. Leaf 700, which an earlier pass called district 24 sheet 2A, is the same district 34, sheet **2A**. The district starts at leaf 698, sheet **1A**, 9 February. It is still running on 27 February at leaf 731, sheet **17B**. The next leaf is Breathitt 39. [C833] [C834] [C835] [C836] [S532] [S533] [S534]
+
+So districts 25 through 34 are not missing. They sit after district 24 at about leaf 450 and run to the Breathitt card. Middlesboro is 25, 26, and 27 — West End on 27, Ralph Goins. Ingram precinct 2 is 29. Suttly is 33. A blank sheet sits at 660. Districts 28 and 30 were not isolated in the sample. [C838] [C839] [C840] [C841] [C842] [C843] [C844] [C845]
+
+The earlier claim that 25–34 were not on this stretch is withdrawn. [C828]
+
+Sampled name columns on those Bell sheets, and the unread sides of Breathitt 40, do not isolate a Newman, Newnam, McCoy, or John L. and Cora head. That is a **probable** negative. [C846] [C847] [C848]
+
+Wolfe leaf 380 at 1600 pixels is Hazel Green, district **235**, 5 January, Stanley M. Ward. Leaf 410 is Campton precinct 3, district **236**. The published Clifty 241 and Antioch 242 transcripts have no Newman head. A John L. Henry, a Dora Childers, a Dora Roberts, and a Cora King aged six are other people. Lee City’s McCoy, John B., eighty-four, is a McCoy surname. [C849] [C850] [C851] [C852] [C854] [S546] [S548] [S549]
+
+FamilySearch 127913 and 127869 were empty shells — roadblock step 37. Book 6 still has Floyd and Allie A. on 31 July 1902 and no Boyd groom. Certificates 28501 and 31780 are still not those numbers. [C855] [C856] [C857]
+
+Do not print 1966 or 1976 as proven deaths. Do not print Floyd as Boyd. Do not print 1962 as McCoy’s death. Do not print the 1942 Combs charge as fact.
 
 In Madison County in 1950 a **Dewey** Newman, twenty-six, is not David F. or Frank of Berea. [C522] **Shelly** Newman, fifty-seven, and **Grace**, fifty-one, of Richmond are **probable** Shelby and Grace Brandenburg. [C523] They are not the contractor. A 1958 David G. Newman, seventy, of Madison remains **possible** only. [C473]
 
@@ -413,7 +501,7 @@ Two children born to Dora and Samuel died before 1 June 1900. They have no names
 
 **Pearl P. Newnam**, 15 March 1895, Banford, later Pearl P. Jackson, died 19 September 1980, Shelby County, Tennessee. The 1910 grandmother household, the 1922 Elizabeth Newnam will, and the NUMIDENT file make her identification the strongest of the five.
 
-**Rissa / Rissie**, May 1897. After the 1900 census she does not reappear on the Kentucky child Soundex pass or in Pearl’s 1910 Owsley household. An unsourced WikiTree profile (**Newnam-46**) names her **Rissie (Newnam) Pelfrey**, born at **Pebworth**, died **13 May 1980** in **Knoxville, Tennessee**, with **Samuel Parriott Newnam** as father — a **possible** lead only, not printed here as proved death. [C230] Free Tennessee death and obituary indexes searched from this case did not independently confirm that row. [C231] Lee Marriage Books 5–15 have no Rissie or Rissa Newnam bride; a 1920 Rissa Newton, seventeen, is a different woman. [C134] A Rissie Pelfrey Maxey born 1882 is a different woman.
+**Rissa / Rissie**, May 1897. After the 1900 census she does not reappear on the Kentucky child Soundex pass or in Pearl’s 1910 Owsley household. On 15 April 1910 a **Newman, Rissie**, servant, fifteen, sits in **Edney, Sam**’s Heidelberg house — **proven** as a line, **possible** Dora’s daughter, **not merged** (age slack). [C738] [C760] An unsourced WikiTree profile (**Newnam-46**) names her **Rissie (Newnam) Pelfrey**, born at **Pebworth**, died **13 May 1980** in **Knoxville, Tennessee**, with **Samuel Parriott Newnam** as father — a **possible** lead only, not printed here as proved death. [C230] Free Tennessee death and obituary indexes searched from this case did not independently confirm that row. [C231] Lee Marriage Books 5–15 have no Rissie or Rissa Newnam bride; a 1920 Rissa Newton, seventeen, is a different woman. [C134] A Rissie Pelfrey Maxey born 1882 is a different woman.
 
 **John H. Newnam**, August 1899. Herbert Newman of Lee County, Virginia, was rejected. The Kentucky statewide death index (Reclaim The Records, 1911–1990) has no John H. Newnam death in Lee consistent with an August 1899 birth. [C234] [C237] [C238] Lee Marriage Book 12 has a different **John Newnam**, age twenty-five in 1917, son of John and Serilda — rejected. [C239] Genealogy Trails’ Lee County WWI draft transcript (1,126 cards) lists no Newnam, Newman, or McCoy registrant; other men born in 1899 appear on the September 1918 Beattyville board, but not John under that surname. [C240] [C241] [S248] A cross-border free transcript pass (Owsley, Estill, Arkansas Perry/Yell, Knox KYGenWeb, Missouri Digital Heritage WWI biographies) also returned no Newnam/Newman draft row. [C242] [S249] NARA M1509 / FamilySearch card images have not been read in this case.
 
@@ -450,7 +538,7 @@ Charts of pedigree, descendants, and lifespan follow the plates. Dashed lines me
 - **B049 / B058:** 1926 *Beattyville Enterprise*, *Yell County Journal*, *Danville Democrat*, and *Dardanelle Post-Dispatch* still unread. Free catalogs closed (R010 steps 1–18). [C293] [C301] [C343] [C346]
 - **B045 / B061 / B065:** Samuel P. probate and court-order **images** unread. Catalog IDs locked: FS **127913 / 127891 / 127869 / 964964 / 156057 / 97277**. October 1887 claims **nil**. KHS/KDLA film unread. [C360] [C361] [C374] [C375]
 - **B047 / B069:** M1509 **KY45/24/74** and FS **1146342** Lee WWI cards unread. Estill WWI page empty; GT Estill/Owsley **404**. [C367]
-- **FAN residual:** Frank of Berea (B055) — 1900 David F. **possible**; 1958 David G. Madison **possible** only (**C473**); 1950 Dewey 26 **rejected** (**C522**); not merged with Grant (#20) or 1928 St. Helens Frank (#22); John of Owsley is **PROVEN** through 1930/1940/1950 (**C557**) and **absent** from **entire 1920 Owsley** (**C611**), published Lee 1920 (**C612**), **absent as a couple** from 1920 Estill (**C643**; Station Camp **nil withdrawn** — Boyd+Allie **C634 C635**), and **absent** Powell/Wolfe contact sheets (**C658 C673**) and Breathitt **0840–1176** contact sheets (**C690 C691**); **1910 Heidelberg Boyd 38 + Allie 28 + four children = 1920 Station Camp — PROVEN (C700)**; 1900 Boyd boarder **Mar 1878** **PROVEN (C702)**; 1902 Floyd×Allie license **proven** as compiled, **still not merged** with Boyd (**#27**, **C711**); 1966 Woodford death **probable**, not proven (**#26**); McCoy 40 on Buck Creek 1930 **PROBABLE** P010 (**C562**); 1920 Owsley / 1940/1950 Owsley McCoy head **nil** (**C611 C574 C575**); **447-20-2466** not merged (**C576**); Barney McCoy Newman of AR **rejected** (**C618**); 1918 Robert / Cora Brandenburg **probable** their son (**C614**); 1942 Combs charge **possible** authored only (**C619**); Daniel × Sarah M./Minerva are **probable** Everett’s parents (**C456/C485**, **#24**); 1930 Everett **KYVAKY** (**C530**); 1910 ED **98** Rissie servant 15 **possible** P013, **not merged** (**C713** / B016); Daniel’s license still unread after TFKRHA 1843–80 **nil** (B079); Melissa ~1876 unread (B078); Grant 21 vs David F. unread (B081); William × Katherine license (B064); two William lines (B071); Herman Estes of Brasstown (B067); Frankie Jones / Mary Peters (B068); Carter Cove stone photographs (B054). **Done this increment:** 1910 Heidelberg Boyd+Allie original; 1900 Boyd boarder original; Floyd 1910 Soundex nil. **Done earlier:** Powell 1051–1201 contact-sheet; Wolfe start mapped; Breathitt ED 52 / 0840–1176; 1918 Boyd informant; Estill 1920 couple-close; Boyd+Allie Station Camp; Jackson contact-sheet; 1920 Owsley county (**B086**). **Closed earlier:** 1880 Daniel house; Lillie **12 Jan 1915**; Sarah M. Evans **15 Sep 1936**; Grant **9 Dec 1970**; 1920 Heidelberg; Fred L. 1961; Callie Spicer **5 Nov 1961**; Kate = Katherine Sternberg. Luther, Shelby × Grace, and Melissa Estes Miller **11 Apr 1957** remain **closed**.
+- **FAN residual:** Frank of Berea (B055) — 1900 David F. **possible**; 1958 David G. Madison **possible** only (**C473**); 1950 Dewey 26 **rejected** (**C522**); not merged with Grant (#20) or 1928 St. Helens Frank (#22); John of Owsley is **PROVEN** through 1930/1940/1950 (**C557**) and **absent** from **entire 1920 Owsley** (**C611**), published Lee 1920 (**C612**), **absent as a couple** from 1920 Estill (**C643**; Station Camp **nil withdrawn** — Boyd+Allie **C634 C635**), and **absent** Powell/Wolfe contact sheets (**C658 C673**) and Breathitt **0840–1176** contact sheets (**C690 C691**); **1920 Breathitt ED 52 George's Branch sh 19A ln 17 Newman John 38 + Jennie 21 ISOLATED and rejected vs John L (C772–C775)**; **leaf 1116 = ED 55 sh 1A (C791)**; **1910 Heidelberg Boyd 38 + Allie 28 + four children = 1920 Station Camp — PROVEN (C700)**; 1900 Boyd boarder **Mar 1878** **PROVEN (C702)**; 1902 Floyd×Allie license **proven** as compiled, **still not merged** with Boyd (**#27**, **C711**); 1966 Woodford death **probable**, not proven (**#26**); McCoy 40 on Buck Creek 1930 **PROBABLE** P010 (**C562**); 1920 Owsley / 1940/1950 Owsley McCoy head **nil** (**C611 C574 C575**); **447-20-2466** not merged (**C576**); Barney McCoy Newman of AR **rejected** (**C618**); 1918 Robert / Cora Brandenburg **probable** their son (**C614**); 1942 Combs charge **possible** authored only (**C619**); Daniel × Sarah M./Minerva are **probable** Everett’s parents (**C456/C485**, **#24**); 1930 Everett **KYVAKY** (**C530**); 1910 ED **98** Rissie servant 15 **possible** P013, **not merged** (**C713** / B016); Daniel’s license still unread after TFKRHA 1843–80 **nil** (B079); Melissa ~1876 unread (B078); Grant 21 vs David F. unread (B081); William × Katherine license (B064); two William lines (B071); Herman Estes of Brasstown (B067); Frankie Jones / Mary Peters (B068); Carter Cove stone photographs (B054). **Done this increment:** 1910 Heidelberg Boyd+Allie original; 1900 Boyd boarder original; Floyd 1910 Soundex nil. **Done earlier:** Powell 1051–1201 contact-sheet; Wolfe start mapped; Breathitt ED 52 / 0840–1176; 1918 Boyd informant; Estill 1920 couple-close; Boyd+Allie Station Camp; Jackson contact-sheet; 1920 Owsley county (**B086**). **Closed earlier:** 1880 Daniel house; Lillie **12 Jan 1915**; Sarah M. Evans **15 Sep 1936**; Grant **9 Dec 1970**; 1920 Heidelberg; Fred L. 1961; Callie Spicer **5 Nov 1961**; Kate = Katherine Sternberg. Luther, Shelby × Grace, and Melissa Estes Miller **11 Apr 1957** remain **closed**.
 - Greene 37–43 Stone sweep is **closed**. Do not reopen Peebles as a third marriage without a license. Do not print 1868 or 24 February 1906 as facts. Do not print Grant as dead in 1951–1955. Do not print “Sarah Minerva” as a proven dual given. Do not print 1966 as John’s death. Do not print 1962 as McCoy’s death. Do not print the 1942 Combs charge as fact.
 
 The next session starts with **B088** Breathitt full-sheet residuals + John 38+Jennie original (ED **52** has no sheet 19), Powell/Wolfe full-sheet residuals, **B045** (FS **127913 / 127891**) and **B061** (**127869 / 964964**), **B089** residual Book 6 register + certs **28501 / 31780**, **B087** 1942 Combs charge, **B069/B047**, **B082** Duell-Clark / cert **17762**, **B083**, **B085** McCoy after 1930 (447-20-2466 not merged; Barney McCoy AR rejected), **B016** Rissie 15 servant 1910 (not merged), **B080** *Citizen* 1958, **B079**, **B055/B081**, **B049/B058**.
@@ -570,8 +658,32 @@ Numbered notes expand the claim/source tags in the narrative. Access labels: *im
 107. No Floyd Newman 1910 KY N-550 head (F-window leaves **274–276**). Floyd 1902 **still not merged** with Boyd (#27) — **POSSIBLE** only. SortedByName [floyd_newman.html](https://sortedbyname.com/letter_n/newman/floyd_newman.html) no KY Lee/Estill ~1878; no boyd_newman.html. Certs **28501 / 31780** unread. FS seven IDs **403** (R011-30). 1910 ED **98** sh **6A** **Newman, Rissie**, servant, 15 — **POSSIBLE** Dora’s daughter, **not merged**. **C701** **C706–C709** **C711** **C713** **S459** **S462** **S463** **S465**.
 108. 1 Jun 1900 Lee ED **52** Sturgeon sh **3A** leaf **0937** hh **41/41**: **Brandenburgh, Oli[ver]**, June 1861, 38, m 19; **Susan**, Feb 1865, 35, 9-9; **Allie A.**, Nov 1885, 14. IA [`12thcensusofpopu537unit`](https://archive.org/details/12thcensusofpopu537unit). *Image seen.* **C722** **C723** **S467**.
 109. 1920 KY Soundex N-550 leaf **4474**: **Newman, John**, Breathitt, Vol **4**, ED **52**, sh **19**, ln **17**, W **38**; Jennie 21; Virgil 3; Freda 1; Henry 52; Julie 42. IA [`soundex1920ky117`](https://archive.org/details/soundex1920ky117). *Image seen.* **Rejected** vs John L. **C717** **C730** **S466**.
-110. T625-559 remap: leaf **1110** = ED **23** sh **13A**; ED **52** starts **1116** sh **1A**; leaf **1128** = sh **7A** not 19A; ED **52** has **no sheet 19**. IA [`14thcensusofpopu559unit`](https://archive.org/details/14thcensusofpopu559unit). *Image seen.* Original of the Soundex house **not isolated**. **C718–C721** **C728** **S468** **S469**.
+110. T625-559 remap (pass 81): leaf **1110** read as ED **23** sh **13A**; ED **52** read as starting **1116**. **Withdrawn in pass 84** (**C718 C719 C721 C728**). IA [`14thcensusofpopu559unit`](https://archive.org/details/14thcensusofpopu559unit). *Image seen.* **S468** **S469**.
 111. FS seven IDs **403** (R011-31). KYGenWeb Breathitt 1920 births **NEWMAN/NEWNAM 0**. Combs Breathitt 1920 **nil** Newman. USGW 1920 dir **timeout**. **C724–C727** **S470–S473**.
+112. Wayback USGW Breathitt 1920 EDs **45–50** (25 TXT): **nil** Newman head. [2008-06-16 snapshot](https://web.archive.org/web/20080616082000/http://files.usgwarchives.net/ky/breathitt/census/1920/). *Transcription only.* **C731** **S474**.
+113. T625-559 leaf **0844** = Breathitt ED **42** sh **19A**; ln **17** not John+Jennie. IA [`14thcensusofpopu559unit`](https://archive.org/details/14thcensusofpopu559unit). *Image seen.* **C734 C735** **S475**.
+114. 15 Apr 1910 Lee ED **98** sh **6A** leaf **0532**: **Edney, Sam** 32 + Emma 31 + Della; **Newman, Rissie**, servant, 15. Same sheet **Newman, William** 44 + Floyd son 6 **rejected** vs 1902 groom. IA [`13thcensus1910po478unit`](https://archive.org/details/13thcensus1910po478unit). *Image seen.* **C738 C760 C761** **S477** **S489**.
+115. T625-559 Breathitt film map (pass 83): Bell ends ~**0788**; ED **41** starts ~**0789**; ED **52** Quicksand block max ~sh **11**; ED **56/57** no sh 19. *Image seen.* **C751–C757** **S484**.
+116. **7 Feb 1920** Breathitt ED **52**, George's Branch Precinct 3, sh **19 A** ln **17** leaf **1060**: **Newman, John** 38 + **Jennie** 21 + Virgil 3 + Fred[i?] 1 + Henry father 52 + Julie mother 42. IA [`14thcensusofpopu559unit`](https://archive.org/details/14thcensusofpopu559unit). *Image seen.* Matches Soundex **C717**. **Rejected** vs John L. **C772–C775** **S491–S493**.
+117. Same ED **52** (A. W. Noble): **1030** = sh **4**; **1048** = sh **13**; **1060** = sh **19 A**. **C721 withdrawn**. Leaf **1110** = ED **53** Precinct 11 (**C718 withdrawn**). Leaf **1116** is **not** this ED 52 start (**C719 withdrawn**). *Image seen.* **C776–C780** **S494–S498**.
+118. ED **43** Precinct 4 sh **2 A–7 A**; ED **51** Frozen Creek sh **6 A**. Powell Clay City ED **143** sh **1 B** and Southfork ED **145** sh **9 B** **nil** Newman. Wolfe **0374** nil isolated. *Image seen.* **C778 C779 C786–C788** **S496 S497 S501 S502**.
+119. FS seven IDs **403** (R011-34). Book 6 register + certs **28501 / 31780** unread. Courier 1942 names victim, not shooter. **C781 C784 C785** **S499**.
+120. T625-559 leaf **1116** w1600: Breathitt ED **55** sh **1 A**, SD **11**, stamp **2552**. Precinct **1[2/6]** Mag. IA [`14thcensusofpopu559unit`](https://archive.org/details/14thcensusofpopu559unit). *Image seen.* **C791 C792** **S505 S506**.
+121. Same ED **55**: **1118** = sh **2 A**; **1120** = sh **3 A**; **1136** = sh **11**. **C754 withdrawn**. *Image seen.* **C793 C794**.
+122. Leaf **0788** w1600 = Bell ED **20** sh **16**; **0789/0790** = Breathitt ED **41** sh **1 A/1 B**. EDs **39–40** not at the junction. *Image seen.* **C795 C796 C811** **S507**.
+123. Leaf **1010** = ED **51** Frozen Creek sh **1 A**. Leaf **1064** = ED **52** sh **21 A**. *Image seen.* **C797 C799** **S508 S509**.
+124. Powell leaf **1100** = Clay City ED **143** sh **11 B** (**C657 withdrawn**). Leaf **1170** = ED **146** sh **1 B** Southfork. Name cols **nil** Newman isolated. IA [`14thcensusofpopu596unit`](https://archive.org/details/14thcensusofpopu596unit). *Image seen.* **C801–C805** **S510 S511**.
+125. FS seven IDs **403** (R011-35). Book 6 compiled [re-seen](https://usgennet.org/usa/ky/county/lee/marriage/marrbook6.html). Certs **28501 / 31780** unread. **C807 C809 C810** **S513–S515**.
+126. T625-559 leaf **0734** county card: Breathitt EDs **39 to 57 (pt)**. IA [`14thcensusofpopu559unit`](https://archive.org/details/14thcensusofpopu559unit). *Image seen.* **C815** **S519**.
+127. Leaves **0732 / 0735** = Breathitt ED **39** Jackson Precinct **#1** sh **1 A**, 2 Jan, Herschel L. Bach. **0768** = sh **15 A**. *Image seen.* **C816 C817 C829 C830** **S520–S522**.
+128. Leaves **0769–0788** = Breathitt ED **40** Precinct **2**, Watkins Cloy; **0788** = sh **16**. **C796 withdrawn**. *Image seen.* **C818 C819** **S523**.
+129. T625-596 leaf **1063** = Powell ED **177** Natural Bridge Precinct **2** sh **1 A**, 27 Jan, Robt H. Conlee. Through **1078** sh **8 B**. IA [`14thcensusofpopu596unit`](https://archive.org/details/14thcensusofpopu596unit). *Image seen.* **C822 C823** **S525**.
+130. FS **127913** SPA (R011-36). Wolfe compiled 1920c/d/e/f/g/h [KYGenWeb](https://kygenweb.net/wolfe/census1.htm) **nil** Newman. Certs **28501 / 31780** unread. **C826 C827 C831** **S528–S530**.
+131. T625-559 leaves **0698 / 0700 / 0720** w1600: Bell ED **34** Clear Creek Precinct **24**, sh **1 A / 2 A / 12 A**, John Hays. Pass 83 ED 24 **withdrawn**. IA [`14thcensusofpopu559unit`](https://archive.org/details/14thcensusofpopu559unit). *Image seen.* **C833–C835** **S532–S534**.
+132. Leaf **0731** = ED **34** sh **17 B**. Bell **25–27** Middlesboro, **29** Ingram, **31–33** isolated. **C828 withdrawn**. *Image seen.* **C836–C845** **S535–S543**.
+133. Wolfe T625-602 **0380** w1600 = ED **235** Hazel Green; **0410** = ED **236** Campton Precinct 3. IA [`14thcensusofpopu602unit`](https://archive.org/details/14thcensusofpopu602unit). *Image seen.* **C849 C850** **S546 S547**.
+134. Compiled Wolfe [1920i Clifty](https://kygenweb.net/wolfe/txt/1920i.txt) ED **241** and [1920k Antioch](https://kygenweb.net/wolfe/txt/1920k.txt) ED **242** **nil** Newman. John L. HENRY / Dora Childers rejected. *Transcription only.* **C851 C852** **S548 S549**.
+135. FS **127913 / 127869** SPA (R011-37). Book 6 compiled [re-seen](https://usgennet.org/usa/ky/county/lee/marriage/marrbook6.html). Certs **28501 / 31780** unread. **C855–C857** **S550 S551**.
 
 ---
 
@@ -693,11 +805,40 @@ Working table of **saved local copies**. Full file list: [`../SOURCE-INDEX.md`](
 | S465 | `../sources/census/pass80-1910-lee-ed98-boyd-extract-2026-10-30.txt` | This session | Pass 80 extract | extract |
 | S466 | `../sources/soundex/ky1920-n550-p4474-john-jennie-breathitt.jpg` | [IA Soundex](https://archive.org/details/soundex1920ky117) | John 38 + Jennie 21 Breathitt card | image seen |
 | S467 | `../sources/census/lee-1900-ed52-0937-sturgeon-sh3a.jpg` · hh41 crop | [IA T623-537](https://archive.org/details/12thcensusofpopu537unit) | Oliver + Allie A. Nov 1885 age 14 | image seen |
-| S468 | `../sources/census/breathitt-1920-ed52-1116-sh1a.jpg` | [IA T625-559](https://archive.org/details/14thcensusofpopu559unit) | ED 52 starts 1116 sh 1A | image seen |
+| S468 | `../sources/census/breathitt-1920-ed52-1116-sh1a.jpg` | [IA T625-559](https://archive.org/details/14thcensusofpopu559unit) | Leaf 1116 (later read as ED 55) | image seen |
 | S469 | `../sources/census/breathitt-1920-ed52-1128-sh7a.jpg` | [IA T625-559](https://archive.org/details/14thcensusofpopu559unit) | Leaf 1128 = sh 7A not 19A | image seen |
 | S470 | `../sources/catalog/pass81-fs-403-access-2026-10-30.txt` | FamilySearch | FS seven IDs HTTP 403 (R011-31) | catalog |
 | S471 | `../sources/vital/breathitt-1920-births-newman-nil-2026-10-30.txt` | [KYGenWeb 1920 births](https://kygenweb.net/breathitt/births_deaths/1920.html) | Breathitt 1920 births NEWMAN 0 | transcription only |
 | S472 | Combs Breathitt 1920 | [Combs 1920](https://www.combs-families.org/combs/records/ky/breathitt/1920.htm) | Nil Newman/McCoy | transcription only |
 | S473 | `../sources/census/pass81-extract-2026-10-30.txt` | This session | Pass 81 extract | extract |
+| S474 | `../sources/census/breathitt-1920-usgw-ed45-50/` | [Wayback USGW](https://web.archive.org/web/20080616082000/http://files.usgwarchives.net/ky/breathitt/census/1920/) | EDs 45–50 compiled; nil Newman head | transcription only |
+| S475 | `../sources/census/breathitt-1920-ed42-0844-sh19a.jpg` | [IA T625-559](https://archive.org/details/14thcensusofpopu559unit) | ED 42 sh 19A ln 17 not John+Jennie | image seen |
+| S477 | `../sources/census/lee-1910-ed98-0532-rissie-servant-zoom.jpg` | [IA T624-478](https://archive.org/details/13thcensus1910po478unit) | Rissie servant 15 Heidelberg sh 6A | image seen |
+| S484 | `../sources/census/breathitt-1920-ed41-0790-sh1b.jpg` | [IA T625-559](https://archive.org/details/14thcensusofpopu559unit) | Breathitt starts ED 41 | image seen |
+| S489 | `../sources/census/lee-1910-ed98-0532-names-mid.jpg` | [IA T624-478](https://archive.org/details/13thcensus1910po478unit) | Edney, Sam + Rissie; William+Floyd 6 | image seen |
+| S491 | `../sources/census/breathitt-1920-ed52-1060-georgesbranch-sh19a.jpg` | [IA T625-559](https://archive.org/details/14thcensusofpopu559unit) | ED 52 sh 19A ln 17 John 38 + Jennie 21 | image seen |
+| S492 | `../sources/census/breathitt-1920-ed52-1060-edbox.png` | [IA T625-559](https://archive.org/details/14thcensusofpopu559unit) | ED box 52 / 19 A | image seen |
+| S493 | `../sources/census/breathitt-1920-ed52-1060-names-ln17.png` | [IA T625-559](https://archive.org/details/14thcensusofpopu559unit) | Name band ln 17–22 | image seen |
+| S504 | `../sources/census/pass84-extract-2026-10-30.txt` | This session | Pass 84 extract | extract |
+| S505 | `../sources/census/breathitt-1920-ed55-1116-sh1a.jpg` | [IA T625-559](https://archive.org/details/14thcensusofpopu559unit) | Leaf 1116 = ED 55 sh 1A | image seen |
+| S506 | `../sources/census/breathitt-1920-ed55-1116-edbox.png` | [IA T625-559](https://archive.org/details/14thcensusofpopu559unit) | ED box 55 / 1 A | image seen |
+| S508 | `../sources/census/breathitt-1920-ed51-1010-frozen-sh1a.jpg` | [IA T625-559](https://archive.org/details/14thcensusofpopu559unit) | ED 51 Frozen sh 1A | image seen |
+| S510 | `../sources/census/powell-1920-ed143-1100-claycity-sh11b.jpg` | [IA T625-596](https://archive.org/details/14thcensusofpopu596unit) | Clay City 143 sh 11B | image seen |
+| S511 | `../sources/census/powell-1920-ed146-1170-southfork-sh1b.jpg` | [IA T625-596](https://archive.org/details/14thcensusofpopu596unit) | ED 146 sh 1B | image seen |
+| S518 | `../sources/census/pass85-extract-2026-10-30.txt` | This session | Pass 85 extract | extract |
+| S519 | `../sources/census/breathitt-1920-ed39-0734-county-card.jpg` | [IA T625-559](https://archive.org/details/14thcensusofpopu559unit) | Breathitt EDs 39–57 card | image seen |
+| S520 | `../sources/census/breathitt-1920-ed39-0732-jackson-sh1a.jpg` | [IA T625-559](https://archive.org/details/14thcensusofpopu559unit) | ED 39 Jackson sh 1A | image seen |
+| S521 | `../sources/census/breathitt-1920-ed39-0740-jackson-sh3b.jpg` | [IA T625-559](https://archive.org/details/14thcensusofpopu559unit) | ED 39 sh 3B | image seen |
+| S522 | `../sources/census/breathitt-1920-ed39-0768-sh15a.jpg` | [IA T625-559](https://archive.org/details/14thcensusofpopu559unit) | ED 39 sh 15A | image seen |
+| S523 | `../sources/census/breathitt-1920-ed40-0769-pct2.jpg` | [IA T625-559](https://archive.org/details/14thcensusofpopu559unit) | ED 40 Precinct 2 start | image seen |
+| S525 | `../sources/census/powell-1920-ed177-1063-naturalbridge-sh1a.jpg` | [IA T625-596](https://archive.org/details/14thcensusofpopu596unit) | ED 177 Natural Bridge sh 1A | image seen |
+| S531 | `../sources/census/pass86-extract-2026-10-30.txt` | This session | Pass 86 extract | extract |
+| S532 | `../sources/census/bell-1920-ed34-0700-sh2a.jpg` | [IA T625-559](https://archive.org/details/14thcensusofpopu559unit) | Bell ED 34 sh 2A | image seen |
+| S533 | `../sources/census/bell-1920-ed34-0720-sh12a.jpg` | [IA T625-559](https://archive.org/details/14thcensusofpopu559unit) | Bell ED 34 sh 12A; Precinct 24 | image seen |
+| S534 | `../sources/census/bell-1920-ed34-0698-clearcreek-sh1a.jpg` | [IA T625-559](https://archive.org/details/14thcensusofpopu559unit) | Bell ED 34 sh 1A start | image seen |
+| S546 | `../sources/census/wolfe-1920-ed235-0380-hazelgreen.jpg` | [IA T625-602](https://archive.org/details/14thcensusofpopu602unit) | Wolfe ED 235 Hazel Green | image seen |
+| S548 | `../sources/census/pass87/wolfe-tx/1920i-clifty-extract.txt` | [KYGenWeb 1920i](https://kygenweb.net/wolfe/txt/1920i.txt) | Clifty ED 241 nil Newman | transcription only |
+| S549 | `../sources/census/pass87/wolfe-tx/1920k-antioch-extract.txt` | [KYGenWeb 1920k](https://kygenweb.net/wolfe/txt/1920k.txt) | Antioch ED 242 nil Newman | transcription only |
+| S552 | `../sources/census/pass87-extract-2026-10-30.txt` | This session | Pass 87 extract | extract |
 
 Embedded plates live in `plates/` and `../sources/census/`. Charts: [`../visuals/pedigree-dora.svg`](../visuals/pedigree-dora.svg), [`../visuals/timeline-dora.svg`](../visuals/timeline-dora.svg).

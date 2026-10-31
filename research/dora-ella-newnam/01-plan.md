@@ -349,6 +349,82 @@ Exact strings logged **L599–L612**.
 
 Exact strings logged **L613–L623**.
 
+### Pass 82 variant storm (30 Oct 2026)
+
+**John Newman / Jennie** — John/Jno/Johnnie × Newman/Newnam/newnarn/newan/Noonan/Nunan. Jennie/Jenny. Soundex **N550**. Cross-id Virgil / Freda / Henry 52 / Julie 42. Vol **4** ED **52** sh **19** ln **17**. Sheet misreads **19/9/10/17/1**. ED misreads **52/42/32/56/23**.
+
+**Virgil / Freda Newman** — Virgil/Vergil × Newman/Newnam. Freda/Freida/Freeda. Breathitt births 1916–1919; SortedByName; Lee births N.
+
+**Rissie / Rissa Newnam** — Rissie/Rissa × Newnam/Newman/newnarn. 1910 Heidelberg servant line.
+
+**Allie / Ollie Brandenburg** — Allie/Ollie/Alice × Brandenburg/Brandenburgh. Lee births **BOYD / OLLIE / Nov 1914**.
+
+**Place** — Breathitt / Quicksand / Jackson / Heidelberg / Lee / ED 42 / 44 / 45 / 52.
+
+**Samuel P. Newnam** — films **127913 / 127891 / 127869 / 964964 / 1146342 / 156057 / 97277** (still **403**, R011 step **32**).
+
+Exact strings logged **L624–L634**.
+
+### Pass 83 variant storm (30 Oct 2026)
+
+**John Newman / Jennie** — John/Jno/Johnnie × Newman/Newnam/newnarn/newan/Noonan/Nunan. Jennie/Jenny. Soundex **N550**. Cross-id Virgil / Freda / Henry 52 / Julie 42. Vol **4** ED **52** sh **19** ln **17**. Sheet misreads **19/9/10/17/11/1**. ED misreads **52/42/32/56/57/41/45/43**.
+
+**Rissie household head** — Edney/Edny/Giddings/Biddings after the Giddings reading failed. Rissie/Rissa × Newnam/Newman.
+
+**Place** — Breathitt / Quicksand / Crockettsville / Bell / Heidelberg / Stanton / Clay City / Hazel Green.
+
+**Samuel P. Newnam** — films **127913 / 127891 / 127869 / 964964 / 1146342 / 156057 / 97277** (HTTP **404**, R011 step **33**).
+
+Exact strings logged **L635–L647**.
+
+### Pass 84 variant storm (30 Oct 2026)
+
+**John Newman / Jennie** — John/Jno/Johnnie × Newman/Newnam/newnarn/newan/Noonan/Nunan. Jennie/Jenny. Soundex **N550**. Cross-id Virgil / Fredi / Freddie / Freda / Henry 52 / Julie 42. Vol **4** ED **52** sh **19** ln **17**. Sheet misreads **19/9/17**. ED misreads **52/51/53/43/42**. Place: George's Branch / Frozen Creek / Quicksand / Breathitt.
+
+**Rissie / Rissa Newnam** — Rissie/Rissa × Newnam/Newman. SortedByName pages **403**.
+
+**Place** — Breathitt / George's Branch / Frozen Creek / Clay City / Southfork / Hazel Green / Lee City.
+
+**Samuel P. Newnam** — films **127913 / 127891 / 127869 / 964964 / 1146342 / 156057 / 97277** (HTTP **403**, R011 step **34**).
+
+Exact strings logged **L648–L665**.
+
+### Pass 85 variant storm (30 Oct 2026)
+
+**John Newman / Jennie** — John/Jno/Johnnie × Newman/Newnam/newnarn/newan/Noonan/Nunan. Jennie/Jenny. Soundex **N550**. Cross-id Virgil / Fredi / Henry 52 / Julie 42. Vol **4** ED **52** sh **19** ln **17** (original **C772**). ED misreads **52/55/53/51/41/39/40**. Place: George's Branch / Quicksand / Frozen Creek / Jackson / Crockettsville.
+
+**Boyd / Allie / Floyd** — Boyd/Boyde/Floyd × Newman/Newnam. Allie/Ollie × Brandenburg. Cert **28501 / 31780**.
+
+**Place** — Breathitt / Quicksand Precinct 16 / Frozen Creek / Clay City / Southfork / Rogers Chapel / Slade / Lee City / Stanton.
+
+**Samuel P. Newnam** — films **127913 / 127891 / 127869 / 964964 / 1146342 / 156057 / 97277** (HTTP **403**, R011 step **35**).
+
+Exact strings logged **L666–L682**.
+
+### Pass 86 variant storm (30 Oct 2026)
+
+**John Newman / Jennie / Cora / McCoy** — John/Jno/Johnnie × Newman/Newnam/newnarn/newan/Noonan/Nunan. Jennie/Jenny. Cora. McCoy. Soundex **N550**. Cross-id Virgil / Fredi / Henry 52 / Julie 42. Vol **4** ED **52** sh **19** ln **17** (original **C772**). ED misreads **39/37/29** ; **40/20/4** ; **177/142/143**.
+
+**Place** — Jackson / Breathitt / Precinct 1 / Precinct 2 / Crockettsville / Natural Bridge / Slade / Stanton / Lee City / Hazel Green / Campton / Holly / Torrent / Clifty / Antioch.
+
+**Samuel P. Newnam** — film **127913** (SPA, R011 step **36**).
+
+Exact strings logged **L683–L696**.
+
+### Pass 87 variant storm (30 Oct 2026)
+
+**John / Cora / McCoy Newman** — John/Jno/Johnnie × Newman/Newnam/newnarn/newan/Noonan/Nunan. Cora. McCoy/Coy. Soundex **N550**.
+
+**Place** — Clear Creek / Precinct 24 / Middlesboro / Ingram / Suttly / South Side / West End / Hazel Green / Campton / Torrent / Clifty / Antioch / Stillwater.
+
+**ED / precinct misreads** — 34 vs 24 (precinct 24 on Clear Creek); 25/23/35; 33/23; 28/20; 30/20.
+
+**Certs** — 28501 / 31780 / 17762 (still unread). Cross-id Arthur delayed **49665**; Clarence **49261**.
+
+**Samuel P. Newnam** — films **127913 / 127869** (SPA, R011 step **37**).
+
+Exact strings logged **L697–L711**.
+
 ## Agent SDK / GitHub channel
 
 Inspected 30 Oct 2026 (**L351**): this repository has **no** `package.json`, **no** `@grok/agent-sdk`, **no** `bot/` directory. GitHub channel `bot/channels/github.ts` is **n/a** and was **not** authored. Project subagent: `.cursor/agents/dora-genealogy-detective.md`.

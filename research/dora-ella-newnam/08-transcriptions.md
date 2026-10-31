@@ -614,3 +614,93 @@ Susananna (or Susanna) Brandenburg died at Station Camp on 22 April 1918. Boyd N
 
 ## DOC009 — 1910 TN Soundex N-550 McCoy window (nil)
 Handwritten family/individual cards n2461–n2469. Sequence after Mary C (n2460): Mary D 49 Jefferson (son Layton 11); Mary M 70 Hamilton; Mek. G 50 Cheatham (Florence 19, John 17, General 16, Frances 13, William 10, Doria 6, Luther 1½); Melvin 3½ Giles (gs of Deacon George W); Melvin 54 Giles (SIL of same); Minerva 80 Robertson (gds Lona Neely, Nellie Erwin); Minnie 21 Roane (with Sam P. Sparks); Mitchell 27 Hardin (Ollie P 25, Gladys 4, Burl W 3, Royal E 1 9/12). **No McCoy.** SHA-256 n2463 `23610f8aa4c159b1b554ed1786d11f57d2f56f8a2e8994f7289ae7bd02dfca53`; n2469 `340489566090880388fa6b81ca5751c5944dcaf56a7b44f70fe560788f308586`.
+
+## DOC013 — 1910 Lee ED 98 Heidelberg sh 6A (Rissie servant + Edney head)
+
+**Inventory:** `sources/census/lee-1910-ed98-0532-heidelberg-sh6a.jpg` · `lee-1910-ed98-0532-names-mid.jpg` · `lee-1910-ed98-0532-rissie-servant-zoom.jpg` (images seen).
+
+### Diplomatic (15 Apr 1910, ED 98 sh 6A, dw 105 / fam 5)
+> **Edney, Sam**, Head, M W **32** M1, Kentucky Kentucky  
+> **—— Emma**, Wife, F W **31** M1 **1-1**, Kentucky Kentucky  
+> **—— Della**, Daughter, F W **[2? / 20?]**, Kentucky Kentucky  
+> **Newman, Rissie**, servant, F W **15** S, Kentucky Kentucky  
+
+Next household: **Edney, Clyaton**, 22, + **Liby**, 19.
+
+Same sheet, earlier: **Newman, William**, Head, **44**; **Martha**, Wife, **33**; **Floyd**, Son, **6**.
+
+Pass 2: head surname **Edney**, not Giddings/Biddings. Rissie vs Dora’s Rissa (age 15 vs ~12–13) **not merged**. Floyd son 6 **rejected** vs 1902 Floyd groom. → **C738 C760 C761** / **S477 S489**.
+
+## DOC014 — 1920 Breathitt ED 52 George's Branch sh 19A ln 17 (John + Jennie original)
+
+**Inventory:** `sources/census/breathitt-1920-ed52-1060-georgesbranch-sh19a.jpg` · `ed52-1060-edbox.png` · `ed52-1060-names-ln17.png` · `ed52-1060-ages-ln17.png` (images seen).
+
+### Diplomatic (7 Feb 1920, ED 52 sh 19 A, dw 315 / fam 315, lines 17–22)
+> **Newman, John**, Head, M W **38** M  
+> **—— Jennie**, Wife, F W **21** M  
+> **—— Virgil**, Son, M W **3** S  
+> **—— Fred[i? / Freddie?]**, Son, M W **1** S  
+> **—— Henry**, Father, M W **52**  
+> **—— Julie**, Mother, F W **42**
+
+Header: Breathitt County, **George's Branch Precinct 3**, Enumeration District **52**, Sheet **19 A**, A. W. Noble.
+
+Pass 2: surname **Newman**. Wife **Jennie** not Cora. Fourth child is **Son** / male on the original (Soundex listed **Freda**). Matches Soundex **C717**. **Rejected** vs John L. → **C772–C775** / **S491–S493**.
+
+## DOC015 — 1920 Breathitt leaf 1116 header (ED 55, not ED 52)
+
+**Inventory:** `sources/census/breathitt-1920-ed55-1116-sh1a.jpg` · `ed55-1116-edbox.png` · `ed55-1116-precinct.jpg` (images seen, w1600 + invert).
+
+### Diplomatic (header only)
+> State: **Kentucky**. County: **Breathitt**.  
+> Township: Precinct No. **1[2 or 6]** Mag[isterial?].  
+> Supervisor’s District **11**. Enumeration District **55**. Sheet **1 A**.  
+> Stamp **2552**.
+
+Pass 2: the second ED digit is **5**, not 2. This is **not** George's Branch ED 52 (that block is leaves 1030–1064+). The 1116–1136 run is one district, sheets 1–11. Precinct **16** (Quicksand) is **possible** only. → **C791–C794** / **S505 S506**.
+
+## DOC016 — 1920 Breathitt ED 39 Jackson sh 1A + county card
+
+**Inventory:** `sources/census/breathitt-1920-ed39-0734-county-card.jpg` · `ed39-0732-jackson-sh1a.jpg` · `ed39-0740-jackson-sh3b.jpg` · `ed39-0768-sh15a.jpg` (images seen).
+
+### Diplomatic (card, leaf 0734)
+> **BREATHITT CO.**  
+> E.D's. **39 to 57 (pt)**
+
+### Diplomatic (header, leaf 0732 / duplicate 0735)
+> State: **Kentucky**. County: **Breathitt**.  
+> Precinct **#1**. Incorporated place: **Jackson**.  
+> Supervisor’s District **11**. Enumeration District **39**. Sheet **1 A**.  
+> Enumerated 2 January 1920 by **Herschel L. Bach**.  
+> hh 1: **Back, Mrs. Mancy**; **Herschel L.**, son (the enumerator).
+
+Pass 2: ED **39** is Jackson town. The district is still on sheet **15 A** at leaf **0768** (no incorporated place). → **C815–C817 C829 C830** / **S519–S522**.
+
+## DOC017 — 1920 Powell ED 177 Natural Bridge sh 1A
+
+**Inventory:** `sources/census/powell-1920-ed177-1063-naturalbridge-sh1a.jpg` · `ed177-1070-naturalbridge-sh4b.jpg` (images seen).
+
+### Diplomatic (header, leaf 1063)
+> State: **Kentucky**. County: **Powell**.  
+> Magisterial District **1**. **Natural Bridge Precinct No. 2**.  
+> Supervisor’s District **7**. Enumeration District **177**. Sheet **1 A**.  
+> Enumerated 27 January 1920 by **Robt H. Conlee**.  
+> hh 1: **Preston, John W.**, 38, + **Nellie**.
+
+Pass 2: ED **177** runs through sheet **8 B** at leaf **1078**. Leaf **1079** is Clay City ED **143** sheet **1 A**. → **C822 C823** / **S525 S526**.
+
+## DOC018 — 1920 Bell ED 34 Clear Creek sh 1A + sh 12A
+
+**Inventory:** `sources/census/bell-1920-ed34-0698-clearcreek-sh1a.jpg` · `ed34-0700-sh2a.jpg` · `ed34-0720-sh12a.jpg` · `ed34-0720-edbox.png` (images seen).
+
+### Diplomatic (header, leaf 0698)
+> State: **Kentucky**. County: **Bell**.  
+> **Clear Creek Precinct No. 24**. Incorporated place: none.  
+> Supervisor’s District **11**. Enumeration District **34**. Sheet **1 A**.  
+> Enumerated 9 February 1920 by **John Hays**.
+
+### Diplomatic (header, leaf 0720 w1600)
+> Same precinct and enumerator. Enumeration District **34**. Sheet **12 A**.  
+> Enumerated 18 February 1920.
+
+Pass 2: Pass 83 “0700 = ED 24” is withdrawn. Precinct **24** is not the district number. ED **34** continues through sheet **17 B** at leaf **0731**. → **C833–C836** / **S532–S535**.

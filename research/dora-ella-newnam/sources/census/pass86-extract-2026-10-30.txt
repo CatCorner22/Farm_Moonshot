@@ -1,0 +1,107 @@
+Pass 86 extract — 30 Oct 2026 (America/New_York)
+B088: isolate Breathitt EDs 39–40 (Jackson) + Powell ED 177 + Wolfe residuals
+B045/B061 FS (R011-36)
+B089 certs 28501 / 31780 still unread
+
+VARIANTS (search_variants.py + kinship N550) before query:
+  John / Jno / Johnnie × Newman/Newnam/newnarn/newan/Noonan/Nunan  N550
+  Jennie / Jenny × Newman/Newnam
+  Cora × Newman/Newnam
+  McCoy × Newman/Newnam
+  Place: Jackson / Breathitt / Crockettsville / Precinct 2 / Natural Bridge
+         / Slade / Stanton / Lee City / Hazel Green / Campton / Holly
+  ED misreads: 39/37/29 ; 40/20/4 ; 177/142/143
+  Cross-id: Soundex Vol 4 ED 52 sh 19 ln 17 (original already C772)
+  Cert 28501 / 31780 (still unread)
+
+=== BREATHITT COUNTY CARD (image seen) ===
+IA T625-559 leaf 0734:
+  BREATHITT CO.
+  E.D's. 39 to 57 (pt)
+  Catalog “Breathitt (pt)” matches this card.
+
+=== ED 39 JACKSON (image seen) ===
+0732 = Breathitt Precinct #1, incorporated place Jackson,
+  SD 11, ED 39, sheet 1 A, 2 Jan 1920, Herschel L. Bach.
+  hh 1 Back, Mrs. Mancy; Herschel L. (son — the enumerator).
+0735 = same sheet 1 A (duplicate after the county card).
+0736 / 0738 = same ED, Jackson, Bach.
+0740 w1600 = ED 39 sheet 3 B, 17 Jan, Bach; stamp 4675-15978.
+0764 = Jackson, Bach, 27 Jan, still ED 39 (about sheet 13).
+0768 = Precinct #1, incorporated place blank (X), 2 Feb, Bach,
+  ED 39 sheet 15 A. Late/outskirts of the Jackson district.
+
+=== ED 40 (image seen) ===
+0769 = Breathitt Precinct No. 2, Watkins Clay/Cloy, ED 40
+  (start of this enumerator’s block; ~2 Jan).
+0770 = same ED 40, Precinct 2 MD, 12 Jan, Watkins Cloy.
+0788 w1600 (pass 85 file) = Precinct 2 MD, 25 Feb, Watkins Cloy,
+  ENUMERATION DISTRICT NO. 40, sheet 16.
+  Pass 85 “0788 = Bell ED 20” (C796) is WITHDRAWN.
+  Bell does not have an ED 40. 0789 remains Breathitt ED 41 sh 1 A.
+
+=== NAME COLUMNS (B088 target) ===
+Tesseract on 62 name-column invert crops (Jackson 0732–0768,
+  ED 40 0769–0786, Powell 1062–1079, Wolfe samples):
+  nil Newman / Newnam / Noonan / Nunan / McCoy tokens.
+Visual samples (full sheets):
+  0732/0735 sh 1 A: Back / Spencer / Redwine / Virginia / Everett /
+    Neal / Childers / Thrasher? / Wilson / Patton / Little — no Newman.
+  0738: Hudson / Hatfield / Cope / Back / Lankford — no Newman.
+  0740 sh 3 B: Myers / Little / Sewell / Gabbard? / Woods / Haddix —
+    no Newman head isolated.
+  0764: Kelly / Cole / Back / Hays cluster — no Newman isolated.
+  0768 sh 15 A: Wireman / Back / Barnett / Allen — no Newman.
+  0769 ED 40: Combs? / Wilson / Watkins / Back / Hays — no Newman.
+  0770: King / Wilson / Combs / Calhoun — no Newman.
+Not every line of every sheet was read at full-sheet resolution.
+PROBABLE negative for a John L+Cora / McCoy / Newman head on the
+sheets named. Residual unread lines remain.
+
+=== POWELL ED 177 (image seen) ===
+1063 = Powell, Mag. Dist. 1, Natural Bridge Precinct No. 2,
+  SD 7, ED 177, sheet 1 A, 27 Jan 1920, Robt H. Conlee.
+  hh 1 Preston, John W. 38 + Nellie.
+1064 = same ED 177 sheet 1 B, 27 Jan, Conlee.
+1070 w1600 = ED 177 sheet 4 B, 30 Jan, Robert H. Conlee.
+1078 = ED 177 sheet 8 B, Natural Bridge Precinct No. 2, Conlee.
+1079 = Powell ED 143 sheet 1 A, Virgil Roadie, 3 Jan
+  (Clay City start; ED 177 ends by 1078).
+Name samples + OCR: no Newman / John L+Cora head isolated.
+
+=== WOLFE ===
+0374 = ED 234 Lee City, Wm Tester (header image seen; sheet dark).
+Compiled KYGenWeb / USGW (HTML seen this pass):
+  1920c Lee City ED 234 — nil Newman/Newnam/McCoy
+  1920e Campton Precinct 3 — nil
+  1920d / 1920f / 1920g Holly ED 239 / 1920h — nil
+  Near-hits rejected: Newt LEE; Newton hired hands; John L. KING (age 8);
+    John L. TRENT (son 34); John L. SEWELL 47; Dora L. HANKS / Brewer.
+Residual: Torrent 238 / Clifty 241 / Antioch 242 / Hazel Green 235
+  compiled files + remaining dark originals.
+
+=== BELL 25–34 residual ===
+0720 still Bell ED 24 sh 12 A (Clear Creek, John Hays).
+0732 is already Breathitt ED 39 sh 1 A.
+Leaves 0721–0731 (~11) can finish Bell 24 only.
+Bell EDs 25–34 were not isolated on this stretch.
+
+=== B045 / B061 / B069 ===
+FS catalog 127913 HTML this session = SPA/empty shell (R011 step 36).
+Images unread.
+
+=== B089 ===
+Certs 28501 / 31780 still unread.
+SCGS Lee delayed-birth PDF (index only): NEWMAN Clarnce 6 Dec 1910
+  mother Allie Brandburg vol 230 cert 49261 — not 28501/31780.
+  Other Lee Newman delayed rows (Martha/Mary/Nancy J/Ottie) are
+  other mothers. Images unread.
+
+=== ACCESS HONESTY ===
+T625-559 leaves 0732–0769 (incl. 0734 card) + 0740 w1600 image seen.
+0788 w1600 re-read (pass 85 file).
+Powell 1063–1079 headers image seen; 1070 w1600 image seen.
+Wolfe 0374 header image seen (dark).
+Wolfe compiled 1920c/d/e/f/g/h HTML seen.
+FS 127913 SPA. Book 6 register unread. Certs unread. T1224 roll 46 unread.
+Authored latest.docx SHA 78cdcf44… not overwritten.

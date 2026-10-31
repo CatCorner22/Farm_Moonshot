@@ -1,0 +1,8 @@
+FS catalog 127913 HTTP 403
+FS catalog 127891 HTTP 403
+FS catalog 127869 HTTP 403
+FS catalog 964964 HTTP 403
+FS catalog 1146342 HTTP 403
+FS catalog 156057 HTTP 403
+FS catalog 97277 HTTP 403
+R011 step 35: all seven IDs HTTP 403

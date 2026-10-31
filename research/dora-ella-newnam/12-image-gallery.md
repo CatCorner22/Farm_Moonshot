@@ -844,11 +844,77 @@ Same reel, ED 48 sheet 4B leaf 0488 line 71. Diplomatic: Pennington, John, 27. R
 
 ![1920 Soundex John Jennie Breathitt](sources/soundex/ky1920-n550-p4474-john-jennie-card.jpg)
 
-**Source:** S468 · C719
+**Source:** S468 · C719 · C794
 
-1920 U.S. census, Breathitt County, Kentucky, ED 52 sheet 1A. Leaf 1116. Actual start of district 52.
+1920 U.S. census, Breathitt County, Kentucky, leaf 1116. Pass 81 read this as the start of district 52. Pass 85 reads the box as district **55**, sheet 1A.
 
-![Breathitt 1920 ED 52 sheet 1A](sources/census/breathitt-1920-ed52-1116-sh1a.jpg)
+![Breathitt 1920 leaf 1116 (later identified as ED 55)](sources/census/breathitt-1920-ed52-1116-sh1a.jpg)
+
+**Source:** S477 · S489 · C738 · C760
+
+1910 U.S. census, Lee County, Kentucky, Heidelberg ED 98 sheet 6A. Newman, Rissie, servant, 15, in Edney, Sam, 32, and Emma, 31. Possible Dora’s daughter; not merged.
+
+![1910 Heidelberg Rissie servant](sources/census/lee-1910-ed98-0532-rissie-servant-zoom.jpg)
+
+**Source:** S491 · S492 · C772 · C773
+
+1920 U.S. census, Breathitt County, Kentucky, ED 52, George's Branch Precinct 3, sheet 19A. Enumeration-district box: District 52, sheet 19 A. This is the Soundex original.
+
+![Breathitt 1920 ED 52 sheet 19A ED box](sources/census/breathitt-1920-ed52-1060-edbox.png)
+
+**Source:** S493 · C773 · C774
+
+Same sheet, name column, lines 17–22. Newman, John, 38; Jennie, 21; Virgil, 3; Fred[i?], 1; Henry, father, 52; Julie, mother, 42. Rejected vs John L.
+
+![Breathitt 1920 ED 52 sh 19A ln 17 Newman John Jennie](sources/census/breathitt-1920-ed52-1060-names-ln17.png)
 
 ![Owsley 1920 ED 93 Buck Creek township line](sources/census/owsley-1920-ed93-1170-buckcreek-township.png)
+
+**Source:** S505 · S506 · C791 · C794
+
+1920 U.S. census, Breathitt County, Kentucky, leaf 1116 w1600. Enumeration-district box: District **55**, sheet **1 A**. This is not George's Branch district 52.
+
+![Breathitt 1920 ED 55 sheet 1A ED box](sources/census/breathitt-1920-ed55-1116-edbox.png)
+
+**Source:** S508 · C797
+
+1920 U.S. census, Breathitt County, Kentucky, ED 51, Frozen Creek precinct 4, sheet 1A, leaf 1010. Start of Frozen Creek.
+
+![Breathitt 1920 ED 51 Frozen Creek sheet 1A](sources/census/breathitt-1920-ed51-1010-frozen-sh1a.jpg)
+
+**Source:** S519 · C815
+
+1920 U.S. census, T625-559 leaf 734. White card: Breathitt EDs 39 to 57 (part).
+
+![Breathitt 1920 county card EDs 39–57](sources/census/breathitt-1920-ed39-0734-county-card.jpg)
+
+**Source:** S520 · C816
+
+1920 U.S. census, Breathitt County, Kentucky, ED 39, Precinct 1, Jackson, sheet 1A, leaf 732.
+
+![Breathitt 1920 ED 39 Jackson sheet 1A](sources/census/breathitt-1920-ed39-0732-jackson-sh1a.jpg)
+
+**Source:** S525 · C822
+
+1920 U.S. census, Powell County, Kentucky, ED 177, Natural Bridge Precinct 2, sheet 1A, leaf 1063.
+
+![Powell 1920 ED 177 Natural Bridge sheet 1A](sources/census/powell-1920-ed177-1063-naturalbridge-sh1a.jpg)
+
+**Source:** S533 · C834
+
+1920 U.S. census, Bell County, Kentucky, ED 34, Clear Creek Precinct 24, sheet 12A, leaf 720. Precinct 24 is not the district number.
+
+![Bell 1920 ED 34 sheet 12A ED box](sources/census/bell-1920-ed34-0720-edbox.png)
+
+**Source:** S534 · C835
+
+Same district, sheet 1A, leaf 698 — start of Bell district 34.
+
+![Bell 1920 ED 34 Clear Creek sheet 1A](sources/census/bell-1920-ed34-0698-clearcreek-sh1a.jpg)
+
+**Source:** S546 · C849
+
+1920 U.S. census, Wolfe County, Kentucky, ED 235, Hazel Green precinct, leaf 380.
+
+![Wolfe 1920 ED 235 Hazel Green](sources/census/wolfe-1920-ed235-0380-hazelgreen.jpg)
 

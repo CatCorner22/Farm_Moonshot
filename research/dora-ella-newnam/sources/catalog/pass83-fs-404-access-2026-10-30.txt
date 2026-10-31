@@ -1,0 +1,12 @@
+Pass 83 FS access — 30 Oct 2026
+R011 step 33
+URLs tried (GET, no sign-in):
+  https://www.familysearch.org/search/film/127913
+  https://www.familysearch.org/search/film/127891
+  https://www.familysearch.org/search/film/127869
+  https://www.familysearch.org/search/film/964964
+  https://www.familysearch.org/search/film/1146342
+  https://www.familysearch.org/search/film/156057
+  https://www.familysearch.org/search/film/97277
+Result: HTTP 404 each (prior sessions were 403 / Incapsula).
+Images unread. Do not re-ask user (R001/R007/R008/R011).

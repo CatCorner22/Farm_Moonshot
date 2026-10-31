@@ -1,0 +1,6 @@
+Pass 83 — KYGenWeb Breathitt funeral cards / obits
+URL: https://kygenweb.net/breathitt/cards_obits/  HTTP 200 (WebFetch)
+Date captured: 2026-10-30
+Grep Newman / Newnam / Jennie / Virgil / Freda / John L: NIL
+Index letters present include A–V as listed on the landing; no N-surnames for Newman.
+Catalog / compiled index only. Individual cards not opened (no Newman hit to open).

@@ -1,0 +1,95 @@
+Pass 85 extract — 30 Oct 2026
+B088: confirm 1116 true ED; Breathitt 39–40; Powell/Wolfe residuals
+B045/B061 FS 403 (R011-35)
+B089 Book 6 + certs 28501 / 31780
+
+VARIANTS (search_variants.py + kinship N550) before query:
+  John / Jno / Johnnie x Newman/Newnam/newnarn/newan/Noonan/Nunan
+  Jennie / Jenny x Newman/Newnam
+  Boyd / Floyd / Allie x Newman/Newnam/Brandenburg
+  Rissie / Rissa x Newman/Newnam
+  Place: Breathitt / George's Branch / Quicksand / Frozen Creek / Jackson
+           / Clay City / Southfork / Rogers Chapel / Slade / Lee City
+  Cross-id: Soundex Vol 4 ED 52 sh 19 ln 17 (original already C772)
+  Sheet/ED misreads: 52/55/53/51 ; 19/1 ; 39/40/41
+  Cert 28501 / 31780 (still unread)
+
+=== 1116 TRUE ED (image seen, w1600 + invert ED-box) ===
+IA T625-559 leaf 1116 w1600:
+  Stamp 2552. Supervisor's District 11.
+  ENUMERATION DISTRICT NO. 55. SHEET NO. 1 A.
+  County Breathitt. Township line: Precinct No. 1[2 or 6] Mag[isterial?].
+  Combs extract places Quicksand as Pct #16 — POSSIBLE identity of this precinct.
+  NOT George's Branch ED 52 (that block is 1030–1064+).
+C754 "ED 52 Quicksand starts 1116" is withdrawn (restates/upgrades C777).
+1118 = same ED sh 2 A (stamp 2533).
+1120 = same ED sh 3 A (stamp 2544).
+1136 = same ED sh 11 (stamp 2622). Sheets 1–11 then ED 56 at 1138.
+
+=== BREATHITT 39–40 ===
+0789 w800/IIIF: Breathitt ED 41 sh 1 A. Reconfirmed.
+0790: ED 41 sh 1 B, Crockettsville Precinct 2.
+0788 w1600: Bell Precinct No. 2 MD, ED 20, sheet 16, 25 Feb 1920,
+  enumerator Waters/Watkins Cloy. Immediately before Breathitt ED 41.
+  EDs 39–40 were NOT isolated at this junction.
+Four Branches authored "Jackson District 39 Breathitt" — POSSIBLE that
+  ED 39 is Jackson town, filmed elsewhere on the reel. Not isolated.
+
+=== OTHER BREATHITT HEADERS (image seen) ===
+0940 = ED 47 sh 7 A
+0960 ~ ED 48 sh 6 A (stamp 1744)
+0980 ~ ED 49 sh 2 A (stamp 1844)
+1000 ~ ED 50 sh 6 A, Mag. Dist. 2
+1010 = ED 51 Frozen Creek Precinct 4 sh 1 A (start isolated)
+1020 = ED 51 Frozen sh 6 A (prior C779)
+1064 = ED 52 sh 21 A — George's Branch continues past sheet 19
+1080 ~ ED 53 sh 1 A (probable start; header slack)
+USGW 1920 directory still publishes EDs 45–50 only (no 39–44 / 51–57).
+
+=== POWELL (existing full sheets re-read + new 1148/1170) ===
+1040 = Pike ED 137 sh 6 A — still Pike, not Powell.
+1060 = Powell ED 142 sh 5 B (prior)
+1080 = ED 143 Clay City sh 1 B, 3 Jan, Virgil Roadie (prior)
+1100 = ED 143 Clay City sh 11 B, 4 Feb, same enumerator.
+  Pass 77/78 "1100 = ED 144" is WITHDRAWN.
+1115 = ED 144 Mag. Dist. 3 sh 8 A, 9 Jan, J. C. Willis (prior)
+1130 = ED 144 Mag. Dist. 3 sh ~8 B, 20 Jan
+1148 = Rogers Chapel Precinct 3, ED 145 sh 3 B, 6 Jan, John B. Rogers
+1160 = Southfork Precinct 4 ED 145 sh 9 B (prior)
+1170 = ED 146 sh 1 B, Southfork Precinct 4, 27 Jan — ED 146 isolated
+1180 = ED 178 ~sh 4, 7 Feb (prior card)
+1195 = ED 178 sh 8 A, 4 Mar (prior)
+Name columns 1100 / 1130 / 1170: no Newman / John L+Cora head isolated
+  (invert crops; not every line at full-sheet).
+ED 177 still not isolated.
+
+=== WOLFE ===
+0370 / 0374 / 0380 / 0415 remain dark. No new ED number isolated.
+
+=== B045 / B061 / B069 ===
+FS catalog 127913 / 127891 / 127869 / 964964 / 1146342 / 156057 / 97277
+  HTTP 403 (R011 step 35). Images unread.
+USGenNet Lee wills index still has Elizabeth NEWNAM and Mary F. Newnam TINCHER
+  only — no Samuel P. Published probate substitutes still nil.
+
+=== B089 ===
+Book 6 compiled HTML re-fetched (marrbook6.html, 310 KB): Floyd NEWNAM ×
+  Allie A. BRANDENBURG and Boyde Newnam witness still present.
+  Register image unread.
+Certs 28501 / 31780 unread. FAG memorial 25980667 HTTP 403.
+  Lexington Cemetery search page not usable without JS.
+  KDLA county deaths end 1965; 1966+ is OVS only.
+
+=== B087 ===
+LOC CA 1942 George Combs query returned Cloudflare 308 this session.
+  Courier extract unchanged: victim named, shooter not named.
+
+=== ACCESS HONESTY ===
+T625-559 leaves 0788 (w1600), 0789–0792, 0940–1010, 1064–1136 headers
+  image seen. 1116 w1600 + ED-box image seen.
+Powell 1040/1100/1130/1148/1170/1180 headers image seen; 1100/1130/1170
+  name-column invert crops image seen.
+Wolfe 0370 image seen (dark).
+USGenNet Book 6 HTML seen (compiled). FS 403. FAG 403.
+Book 6 register unread. Certs unread. T1224 roll 46 unread (FHL 1842707).
+Authored latest.docx SHA 78cdcf44… not overwritten.

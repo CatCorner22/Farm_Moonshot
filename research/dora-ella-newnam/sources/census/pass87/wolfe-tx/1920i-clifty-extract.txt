@@ -1,0 +1,13 @@
+1920 FEDERAL CENSUS, WOLFE COUNTY, KENTUCKY (Clifty, Prec. #7)
+Source: https://kygenweb.net/wolfe/txt/1920i.txt
+Transcribed by Carole Bays. HTML seen 30 Oct 2026 (WebFetch).
+Enumeration Dist. 241, Roy Kash, Jan 1920.
+
+GREP (Newman / Newnam / McCoy / Noonan / Nunan / Newan): **nil**.
+Near-hits REJECTED:
+  hh 72 HENRY, John L. 21 HH + Martha 21 — wrong surname.
+  hh 65 BANKS, Monroe 38 + Cora 32 — Cora is Banks, not Newman.
+  hh 28 BOWMAN, Floyd 8 son — child, wrong surname.
+
+Here ends Precinct No 7 Clifty.
+Transcription only. Original T625-602 ED 241 still dark / not isolated.

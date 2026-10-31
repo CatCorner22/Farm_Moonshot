@@ -1,0 +1,14 @@
+https://www.familysearch.org/search/catalog/127913 ERR HTTP Error 403: Forbidden
+https://www.familysearch.org/search/film/127913 ERR HTTP Error 403: Forbidden
+https://www.familysearch.org/search/catalog/127891 ERR HTTP Error 403: Forbidden
+https://www.familysearch.org/search/film/127891 ERR HTTP Error 403: Forbidden
+https://www.familysearch.org/search/catalog/127869 ERR HTTP Error 403: Forbidden
+https://www.familysearch.org/search/film/127869 ERR HTTP Error 403: Forbidden
+https://www.familysearch.org/search/catalog/964964 ERR HTTP Error 403: Forbidden
+https://www.familysearch.org/search/film/964964 ERR HTTP Error 403: Forbidden
+https://www.familysearch.org/search/catalog/1146342 ERR HTTP Error 403: Forbidden
+https://www.familysearch.org/search/film/1146342 ERR HTTP Error 403: Forbidden
+https://www.familysearch.org/search/catalog/156057 ERR HTTP Error 403: Forbidden
+https://www.familysearch.org/search/film/156057 ERR HTTP Error 403: Forbidden
+https://www.familysearch.org/search/catalog/97277 ERR HTTP Error 403: Forbidden
+https://www.familysearch.org/search/film/97277 ERR HTTP Error 403: Forbidden
