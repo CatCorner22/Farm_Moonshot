@@ -89,6 +89,10 @@ Wildcard strings to use: `New*m`, `Dor* New*`, `"Doll Newnam"`, `McCoy OR Coy Ne
 
 Exact strings logged **L343** (this branch) and remapped **L379–L395** (`main` pass 60–61).
 
+## Name-variant storm (pass 93, AR S-415 Edward–Patrick visual)
+
+**Letha Sullivan** (C244 child-on-parent-card hunt) — canonical Letha; family Letta / Lethia / Lettie / Litha / Viola / Lottie / Leta; phonetic Lethy / Ellathy/-thy; repository quirk = child on Edward/Ed/E.J., Francis/Frank/Franklin, George, Michael/Mike, Patrick/Pat cards (not her own L-tab). Visual walk **L525**; diplomatic `sources/soundex/b007-pass93-1900-ar-s415-edward-patrick-2026-10-31.md`.
+
 ## Agent SDK / GitHub channel
 
 Inspected 30 Oct 2026 (**L386**): this repository has **no** `package.json`, **no** `@grok/agent-sdk`, **no** `bot/` directory. GitHub channel `bot/channels/github.ts` is **n/a** and was **not** authored. Project subagent: `.cursor/agents/dora-genealogy-detective.md`.
