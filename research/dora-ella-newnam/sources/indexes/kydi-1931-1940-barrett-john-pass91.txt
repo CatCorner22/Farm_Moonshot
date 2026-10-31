@@ -1,0 +1,56 @@
+Pass 91 — KYDI 1931–1940 Barrett / Barett / Barret / Beard / Baird John
+Reclaim the Records, Kentucky Death Index 1911–1989
+IA item reclaim-the-records-kentucky-death-index-01911-1989
+Opened 31 Oct 2026 America/New_York.
+Index only. Does not name parents. Year files NOT committed.
+
+Year-file SHA-256 (full TXT, not committed):
+  1931 3513401 64305fe6c1b2b06ea3f21868b99a05529223477b4ad604c5b20eebc4979122b5
+  1932 3565021 b78ad5613fff0e507218a4c6ec89e5e34db482a60e5d85ab59c65f93ced8752e
+  1933 3450939 ec1af8b10a40689c2a92d705077900bb94f2ad21211d15e30f3844b72b2eebe7
+  1934 3671647 023f5daecea1d8b37310a7bf533b6d7790b9e3d37ffbbe014a12efaae52e284d
+  1935 3599373 c14941119e05117fe4ae3158c36ce7f93df5424d26ec85fdd85cc63403307e7a
+  1936 3904013 c17ddbfbbe2a2abd384f7ed0e2ce37fa75de174cf8a0f94aded47d2a330185a8
+  1937 3791563 7efb177020411bc9957fa0e2b78b3565f39e293a479f0f6a5e88a2e87d410ddf
+  1938 3558687 168526a1e29fd235139cd916c10ab6cbb6fe84aca16e05e482d9de347b0ebf11
+  1939 3542429 475c68ca3cae660e417586805394330662ead61a0f8ba632c4f23b8b1167cfaa
+  1940 3383163 1a492361c24954c4892c871eef366736218d43f70a45509bd46ca969ab8bfe76
+
+Statewide given-name JOHN (surname Barrett/Barett/Barret/Beard/Baird):
+  1931 BARRETT JOHN 71 MADSN 05/15/1931 vol 027 #13035 — DISPROVED (71 vs ~86; Madison)
+  1932 BAIRD JOHN W 51 OHIO 02/10/1932 vol 010 #04556 — DISPROVED (Baird; Ohio Co.)
+  1932 BARRETT JOHN S 71 BOYLE 12/19/1932 vol 056 #27772 — DISPROVED (71 vs ~87; Boyle)
+  1932 BEARD JOHN 1 U/1 JEFFN — infant
+  1933 nil statewide Barrett/Beard/Baird John
+  1934 BARRETT JOHN 59 JEFFN 02/27/1934 vol 009 #04243 — DISPROVED (59 vs ~89; Jefferson)
+  1934 BEARD JOHN 2 U/1 JEFFN — infant
+  1935 nil statewide Barrett/Beard/Baird John
+  1936 BAIRD JOHN W 46 JEFFN LOUISVILLE 05/08/1936 vol 028 #13706 — DISPROVED (Baird; Jefferson)
+  1937 BAIRD JOHN 59 FYETE LEXINGTON 07/26/1937 vol 037 #18149 — DISPROVED (Baird; Fayette)
+  1937 BARRETT JOHN T 59 FRNKL 10/06/1937 vol 052 #25665 — DISPROVED (59 vs ~92; Franklin)
+  1937 BARRETT JOHN 89 NCHLS BARTENVILLE 10/02/1937 vol 054 #26865
+        — closest statewide age. 89 vs ~92 (1910 John 65); Nicholas ≠ Owsley Buffalo.
+        Parents not on the index. NOT MERGED.
+  1937 BARRETT JOHN H 42 CRSTN 12/18/1937 vol 061 #30378 — DISPROVED (42 vs ~92; Christian)
+  1937 BEARD JOHN 2 U/1 JEFFN — infant
+  1938 BEARD JOHN 2 U/1 JEFFN LOUISVILLE — infant
+  1939 BARRETT JOHN J 68 JEFFN 02/27/1939 vol 009 #04340 — DISPROVED (68 vs ~94; Jefferson)
+  1940 nil statewide Barrett/Beard/Baird John
+
+Nil Barrett/Barett/Barret, John ~85–95 decedent in LEE / OWSLY / CLAY / JCKSN / ESTIL / BRTHT
+1931–1940. Completes 1911–1930 neighboring-county nils (C949/C960).
+
+Neighbor-county Barrett-ish (not John ~90; do not merge):
+  1931 BARRETT CARE 34 OWSLY; DOLLIE 5 CLAY; IRVIN 78 CLAY; RUTHERFORD 22 CLAY
+  1932 BARRETT HENRY 1 OWSLY; PEALEY 87 OWSLY
+  1933 BARRETT JAMES 34 OWSLY; MARTHA 30 OWSLY
+  1934 BARRETT ALFA 33 ESTIL; BRISON 89 CLAY (two certs); GEORGE 3 LEE
+  1935 nil Barrett near
+  1936 BARRETT CHARLEY 36 OWSLY; MATTIE 53 CLAY; STEPHEN 73 CLAY; HENRY C JR U/1 OWSLY
+  1937 BARRETT PEA 66 LEE
+  1938 BARRETT KATHERINE 84 CLAY; LEE 64 CLAY; LOURANE 32 LEE; ROBERT U/1 OWSLY
+  1939 BARRETT FANNIE 69 OWSLY; MARGARET J 74 BRTHT; WILLIAM 79 LEE
+  1940 BARRETT LEONARD 30 CLAY
+
+Do not treat index-nil as proof of death. Unregistered / out-of-KY / delayed filing remain open.
+Do not hunt D-540. Do not close B063. Do not promote C509.

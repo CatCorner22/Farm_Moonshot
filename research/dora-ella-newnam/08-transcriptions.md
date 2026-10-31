@@ -4618,3 +4618,105 @@ Pass 2: License still unseen. Do **not** invent T288 contents. Do **not** promot
 - Josephine remaining nil/n/a/404 → C965
 - T288 still unseen → C966
 - B061 remaining gap → C968
+
+## DOC191 — KYDI 1931–1940 Barrett John statewide (Pass 91)
+
+- Extract: `kydi-1931-1940-barrett-john-pass91.txt` SHA-256 `7b234df9984db0af267e54a8ba4729a75fcdc226f1205cc4246dc879f69d686d`
+- Coverage: `pass91-coverage.txt` `14ff998e45040d3cc97438afabfd021b89c67cb760796b21f8875cf426ce84af`
+- Provenance: Reclaim the Records, *Kentucky Death Index 1911–1989*, IA item `reclaim-the-records-kentucky-death-index-01911-1989`. Year files **1931–1940** opened 31 Oct 2026. **Index only.** Does **not** name parents. Full year files **not committed**.
+
+### Diplomatic — cited index rows
+
+> **Nil** Barrett/Barett/Barret, John ~85–95 decedent in **LEE / OWSLY / CLAY / JCKSN / ESTIL / BRTHT** 1931–1940.
+
+> Closest statewide: **1937** BARRETT JOHN **89** NCHLS BARTENVILLE 10/02/1937 vol **054** #**26865**. Age 89 vs ~92; Nicholas ≠ Owsley. **Not merged**.
+
+> Other statewide Johns **DISPROVED**: **1931** BARRETT JOHN **71** Madison; **1932** BAIRD JOHN W **51** Ohio / BARRETT JOHN S **71** Boyle; **1934** BARRETT JOHN **59** Jefferson; **1936** BAIRD JOHN W **46** Jefferson; **1937** BAIRD JOHN **59** Fayette / BARRETT JOHN T **59** Franklin / BARRETT JOHN H **42** Christian; **1939** BARRETT JOHN J **68** Jefferson. **1933**, **1935**, and **1940** **nil** statewide Barrett/Beard/Baird John.
+
+Pass 2: Index-nil is **not** proof of death. Unregistered / out of KY / delayed filing remain open. Do **not** treat KYDI as a civil death row for 1910 Barrett John 65. Do not close B063.
+
+### Facts extracted → claim IDs
+- KYDI 1931–1940 nil Barrett John ~90 neighboring counties → C970
+- 1937 John 89 Nicholas not merged → C971
+- other statewide Johns DISPROVED → C972
+
+## DOC192 — Lee / Owsley Barrett DC extracts 1931–1940 + 1940 census HTML (Pass 91)
+
+- Extract: `lee-owsley-barrett-pass91.txt` SHA-256 `be3333a711aebd0d9ddfe2994293209c5e64bbd9d414e28c543a090bdd7cde3c`
+- Provenance: Lee USGenNet `1931.html`–`1940.html`; Owsley Kendrick `1931dc.html`–`1940dc.html`; 1940 `95-1.html`–`95-7.html`. **HTML-seen** 31 Oct 2026. Original DC faces unread. 1940 original unread. Clay sampled HTML **404**.
+
+### Diplomatic — cited extracts
+
+> Lee 1931–1940: **nil** Barrett, John as decedent. **1932** Sarilda Johnson **75**, father **John Barrett**, mother Annie Couch — parent cell, FAN. **1937** Pea Barrett **66**, father Andy Barrett × Nancy Johnson **DISPROVED** as 1910 John. **1939** William Barrett **79**, b. **24 Feb 1860** Breathitt, father John × Mary Ann Roberts **DISPROVED** as 1910 John.
+
+> Owsley **1933**: **BARRETT, James** **34** yrs, Clay Co, 13 Feb, Buck Creek, married, father **Dan BARRETT**, mother Nancy Ann BOWLES. **DISPROVED** as 1920/1930 James.
+
+> Entire Owsley 1931–1940 DC HTML: **nil** Barrett, John / Susan as decedent. **1935** Isaac Bishop **83** mother-cell Susan BARRETT is a different (much older) woman.
+
+> 1940 ED **95-3** hh **126**: James BARRETT head **60** md × Martha **64** + Albert **22**. **DISPROVED** as 1930 James **45** × Ollie **34**. Benton **44** × Mary + Stanley is grown C917 Bent.
+
+Pass 2: HTML extracts, not original faces. Do not treat extract-nil as proved death. Do not merge 1937 Nicholas John 89. Do not merge 1940 James 60 × Martha.
+
+### Facts extracted → claim IDs
+- Lee 1931–1940 nil Barrett John decedent → C973
+- Owsley 1933 James 34 DISPROVED; nil John/Susan decedent → C974
+- 1940 HTML nil James × Ollie; James 60 × Martha DISPROVED → C975
+
+## DOC193 — 1930 Soundex B-630 James / John / Susan (Pass 91)
+
+- Extract: `ky1930-b630-barrett-james-john-pass91.txt` SHA-256 `c4b72e0c38b23c537fd0f699396a91be05a3094b534be7a2aee9959bab9fc918`
+- Coverage: `pass91-coverage.txt` `14ff998e45040d3cc97438afabfd021b89c67cb760796b21f8875cf426ce84af`
+- Provenance: NARA M2053 reel **3**; IA `soundex1930ky003`. **Images seen** 31 Oct 2026. **Not** ky018.
+
+### Diplomatic — cited cards
+
+> James slot opens **1824** Bird, James W **58** Bell × Martha **52** Ark. Surname Bird ≠ Barrett. **Nil** Barrett, James ~45 Owsley as a Soundex head.
+
+> **1839** Barrett, John W **38** Perry vol **88** ED **11** sh **140** × Minerva **34** + sons 15/14/12/9. **1840** Barrett, John H W **34** Muhlenberg vol **82** ED **13** sh **4** × Ocie **27**. Both **DISPROVED** as 1910 John ~85.
+
+> **1914** Barrett, Tuckie N **19** Perry, nephew of Anderson. T-slot. **DISPROVED** as Susan.
+
+Pass 2: Soundex nil of James is a **miss** of original dw **92** (Hard Rule 6). Do not treat given-name nil as death.
+
+### Facts extracted → claim IDs
+- Soundex windows image-closed; James miss of C979 → C978
+- DISPROVED Johns / Bird James / Tuckie → C982
+
+## DOC194 — 1930 original ED 95-6 Barrett James HIT (Pass 91)
+
+- JPEGs: `1930-owsley-ed956-sh6a-hdr.jpg` `ff07c852e80715b9d449e0e932b98718890ba65773d7636ce4f9129d20df107f`; `…sh6a-names.jpg` `5953bc42853f8f7a315d852f87f5405c513decd365b3926406bf9a4edf4299c2`; `…sh6a-hh92-barrett-james.jpg` `e3543ae8527664a6e8420a1a46500291a6503f592b4ec8fd309f64fa4899b5c3`; `…sh4a-hh60-barrett-brison.jpg` `25408aaed8d8f4870288070065a5723c03b8315f4385dd6738b4777e31469afe`
+- Provenance: NARA T626 reel **773**; IA `kentuckycensus00reel773` leaf **646** (sh **6 A**) and leaf **642** (sh **4 A**). Enumerator **R.L. Gabbard**, **12 Apr 1930**. **Images seen** 31 Oct 2026. Entire ED **95-6** leaves **636–648** image-closed.
+
+### Diplomatic — cited original
+
+> Stamped **6 A**, ED **95-6**, Buffalo Mag Dist **5**, Supervisor’s District **8**. Ln **21** dw **92/92 Barrett, James** Head R m W **45** m (age-first-married **30**) KY/KY/KY. Ln **22 Ollie** Wife H **34** m (age-first-married **17**). Ln **23 Minnie** Daughter **15** S. Ln **24 Pearl** Daughter **13** S. Ln **25 Virgie** Daughter **9** S. Ln **26 Martha** Daughter **5** S. Ln **27 Horton** Son **3** S.
+
+> Ln **37** dw **60/60 Barrett, Brison** Head **28** m (m.age **21**) × Dora **28** (m.age **19**) + Lee S **6** + James S **4** + Gilbert S **1 4/12**. **Not merged**.
+
+> Entire ED **nil** Barrett, John ~85 / Susan ~78 / Bruce ~52 as heads. **NO** mother Susan in dw **92**. **NO** Ivory as named.
+
+Pass 2: **PROBABLE** 1920 dw **102**. Ages disclosed, not averaged. Pearl 1920 **Son** vs 1930 **Daughter** disclosed. Ivory vs Minnie **not merged**. Soundex miss. Do not close B063.
+
+### Facts extracted → claim IDs
+- original James 45 × Ollie HIT PROBABLE 1920 dw 102 → C979
+- Brison 28 × Dora not merged → C980
+- entire ED 95-6 nil John/Susan/Bruce heads → C981
+
+## DOC195 — Josephine remaining + T288 (Pass 91)
+
+- Extract: `josephine-gilbert-pass91.txt` SHA-256 `6442aa620806db8560fd5c431b7f06de0a3108fb9721a9cd2683a04ffe625c91`
+- Coverage: `pass91-coverage.txt` `14ff998e45040d3cc97438afabfd021b89c67cb760796b21f8875cf426ce84af`
+- Provenance: KYGenWeb HTML (Owen/Grant/Kenton/Boone/Mason/Bracken/Robertson/Nicholas/Fayette 404; Campbell landing), IA advancedsearch. Opened 31 Oct 2026. **HTML-seen / access-fail**, not a ~1902 civil register. License unseen. Original 1916 DC face unseen. T288 unseen.
+
+### Diplomatic — cited extracts
+
+> Owen / Grant / Kenton / Boone / Mason / Bracken / Robertson / Nicholas / Fayette `/marriages.htm` **404**. Campbell redirected to KYCampbell landing; Marriages link **not opened**.
+
+> IA T288 title **numFound 0**. Identifier `t288*` is audio **The Purge**, **not** NARA T288.
+
+Pass 2: License still unseen. Do **not** invent T288 contents. Do **not** promote C509. Do not close B063.
+
+### Facts extracted → claim IDs
+- Josephine remaining 404/landing → C976
+- T288 still unseen → C977
+- B061 remaining gap → C984

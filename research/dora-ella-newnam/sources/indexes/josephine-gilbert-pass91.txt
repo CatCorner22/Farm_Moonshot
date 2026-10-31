@@ -1,0 +1,19 @@
+Pass 91 — Josephine Newnam × Gilbert ~1902 remaining substitutes + T288
+Opened 31 Oct 2026 America/New_York. License unseen. Original 1916 DC face unseen.
+T288 unseen.
+
+KYGenWeb /marriages.htm remaining outer ring:
+  Owen / Grant / Kenton / Boone / Mason / Bracken / Robertson / Nicholas / Fayette 404
+  Campbell /marriages.htm redirected to usgenwebsites.org/KYCampbell/ landing (200;
+    35,466 bytes). Marriages link on that landing not opened this pass. n/a as a
+    ~1902 Josephine register.
+
+IA advancedsearch 31 Oct 2026:
+  title T288 OR "General Index to Pension Files" Newman — numFound 0
+  identifier t288* OR generalindextopen* — numFound 1 =
+    t288hwu6jq24nnnrailpdmfxinwk0ffsdc7lul6x (audio "The Purge"; NOT NARA T288)
+  title M123 OR 1890 veterans Kentucky — numFound 0
+  title death certificate 1916 Owsley — numFound 0
+Do not invent T288 / Burns / 1916 DC contents.
+
+Do not promote C509. Do not hunt D-540. License unseen. Original 1916 DC unseen. T288 unseen.

@@ -1,0 +1,79 @@
+Pass 91 — Lee 1931–1940, Owsley 1931–1940, and 1940 Owsley census HTML Barrett extracts
+Opened 31 Oct 2026 America/New_York. HTML-seen. Original DC faces unread. 1940 original unread.
+
+LEE — Debi Houser Kendrick, USGenNet lee/deaths/1931.html–1940.html
+  Header: Name / Age / Birthdate / Deathdate / Buried / Spouse / Father / Mother
+  1931 nil Barrett decedent. Rettie Barett/Barrett mother-cell of Robert Lee Coomer 5.
+        Martha Beard mother-cell of James E. Sumner 76. Not John.
+  1932 nil Barrett John decedent.
+        Sarilda Johnson, 75 yrs, KY, 22 Aug 1932 Beattyville, widow of John W. Johnson,
+        father John Barrett, mother Annie Couch. FAN only. Not 1910 John as decedent.
+  1933 nil Barrett decedent.
+  1934 George Barrett, 3 yrs 2 mos, father Duddley Barrett × Bessie McIntosh. Infant.
+        Jane Barrett mother-cell of Melton/Milton F. Riley infant.
+        Dora Barette mother-cell of Wise Terry 26. Not John.
+  1935 nil Barrett decedent.
+  1936 Louella Barrett mother-cell of Mollie Herald 1; Ollie Barrett mother-cell of
+        stillborn Lawson. Not John.
+  1937 Pea Barrett, 66 yrs, b. 2 Jul KY, d. 19 Jan 1937 Lynms, married,
+        father Andy Barrett, mother Nancy Johnson. Matches KYDI vol 044 #21840.
+        66 vs ~92; Andy ≠ 1910 John. DISPROVED as 1910 John.
+  1938 Lourane Barrett, 32, wife of Floyd Barrett, father Hardin Caudell × Nannie Bell Roberts.
+        Not John.
+  1939 William Barrett, 79 yrs 1 mo 20 ds, b. 24 Feb 1860 Breathitt Co, d. 13 Apr 1939 Oil,
+        Hopewell KY, widower of Mary Ann Barrett, father John Barrett, mother 1 - Mary Ann Roberts.
+        Matches KYDI vol 022 #10710. Identifiers that fail vs 1910 Barrett John 65 × Susan:
+        decedent is William not John; birth 1860 (would be ~50 in 1910, not 65);
+        father John × Mary Ann Roberts is the Lee FAN couple of C950 (1913 John 28).
+        DISPROVED as 1910 John. Father-cell John Barrett is another man (Roberts wife ≠ Susan).
+  1940 nil Barrett decedent.
+  Entire Lee 1931–1940 DC HTML: nil Barrett, John as decedent.
+
+OWSLEY — Kendrick deaths/1931dc.html–1940dc.html (HTML-seen)
+  1931 BARRETT, Carl 34, father Jeptha BARRETT × Spicey BREWER. Not John / not James 45.
+  1932 BARRETT, Infant boy stillborn, father Henry C. BARRETT × Nannie BOWLING.
+        BARRETT, Pealey 87 yrs, KY, 26 Dec, widower of Emaline BARRETT, father Jimmie BARRETT.
+        87 vs ~87 would collide 1910 John on age alone, but given name Pealey ≠ John;
+        widower of Emaline ≠ husband of Susan. DISPROVED as 1910 John.
+  1933 BARRETT, James 34 yrs, Clay Co, 13 Feb, Buck Creek, married,
+        father Dan BARRETT, mother Nancy Ann BOWLES. Matches KYDI vol 025 #12488.
+        DISPROVED as 1920 dw 102 James 30 / 1930 dw 92 James 45:
+        age 34 vs ~43/~45; father Dan ≠ John; Clay Co birth ≠ Buffalo Owsley house.
+        BARRETT, Martha 30, wife of Charley BARRETT. Not Susan / not Ollie.
+  1934 nil Barrett decedent.
+  1935 BISHOP, Isaac 83, Clay Co, 7 Mar, father William BISHOP, mother Susan BARRETT.
+        Mother-cell Susan BARRETT of a man born ~1851 implies a mother born ~1820s,
+        not 1920 Susan mother 68 (~1852) / 1910 Susan 62. DISPROVED as James’s mother.
+        FOX infant mother-cell Jannie BARRETT. Not Susan.
+  1936 BARRETT, Charley 36, father Hiram × Mary VIRES.
+        BARRETT, Henry Clay Jr. infant, father Henry Clay × Nannie BOWLING.
+  1937 nil Barrett decedent.
+  1938 BARRETT, Robert infant, father Leve BARRETT × Dora BAKER.
+  1939 BARRETT, Fannie 69, Stay, spouse Richard BARRETT, father Nicholas MOORE × Lucinda MCQUINN.
+        YOUNG, Josie ca 75 mother-cell Easter BARRETT. Not John / not Susan.
+  1940 nil Barrett decedent.
+  Entire Owsley 1931–1940 DC HTML: nil Barrett, John as decedent; nil Barrett, Susan as decedent.
+
+CLAY kygenweb deaths/1931.html, 1935.html, 1940.html all 404. Substitute is KYDI (nil Barrett John Clay).
+
+1940 OWSLEY census HTML — Kendrick census/1940/95-1.html–95-7.html (HTML-seen; original unread)
+  95-1 Booneville: Ralph 26 / Daniel W. 55. Nil James ~50 × Ollie / Susan ~88 / John ~95.
+  95-2: many Barrett heads including Benton BARRETT 44 × Mary 43 + Stanley 21
+        (grown 1920 Booneville Bent 24 × Mary + Stanley, C917; already DISPROVED as 1910 Ben).
+        John BARRETT head 25. Nil James ~50 × Ollie / Susan ~88 / John ~95.
+  95-3 hh 126: James BARRETT head m w 60 md KY labor on farm;
+        Martha wife f w 64 md KY; Albert son m w 22 s KY labor W.P.A.
+        DISPROVED as 1930 dw 92 James 45 × Ollie 34 + Minnie/Pearl/Virgie/Martha/Horton:
+        60 vs ~55; Martha ≠ Ollie; Albert 22 ≠ those children.
+  95-4 Emery 69. 95-5 Edna 53 wd. 95-6 Effie lodger 16; Abner BEARD 60.
+  95-7 William 55 / Levi 38 / Henry 34.
+  Entire 1940 Owsley HTML: nil James ~50 × Ollie; nil Susan Barrett ~88; nil Barrett John ~95.
+
+1930 ORIGINAL HIT (T626 reel 773, IA kentuckycensus00reel773 leaf 646; see also Soundex extract)
+  ED 95-6 Buffalo Mag Dist 5 sh 6 A ln 21 dw 92/92 Barrett, James Head R m W 45 m
+  (age-first-married 30) × Ollie Wife 34 m (age-first-married 17) + Minnie D 15 +
+  Pearl D 13 + Virgie D 9 + Martha D 5 + Horton S 3. All KY/KY/KY.
+  Enumerator R.L. Gabbard, 12 Apr 1930. Hard Rule 6 of the Soundex miss.
+
+Do not treat extract-nil as proof of death. Original 1916 vol 044 #21663 unseen.
+Do not hunt D-540. Do not close B063. Do not promote C509.

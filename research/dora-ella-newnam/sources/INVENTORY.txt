@@ -2424,3 +2424,56 @@ research/dora-ella-newnam/sources/census/1880-lee-ky-ed59-sheet43-p768-caroline-
   sha256: 4818cd5a9348035f16b7ff441a768dfd1582a629df2aa973205e9097a997427a
   format: text extract, 1,633 bytes
   check: Josephine remaining Bath/Fleming/Carroll n/a 404; T288 unseen
+
+/workspace/research/dora-ella-newnam/sources/indexes/pass91-coverage.txt
+  sha256: 14ff998e45040d3cc97438afabfd021b89c67cb760796b21f8875cf426ce84af
+  format: text extract, 2,892 bytes
+  check: Pass 91 coverage; catalog 156; 1930 original ED 95-6 Barrett James HIT; Soundex miss
+/workspace/research/dora-ella-newnam/sources/indexes/kydi-1931-1940-barrett-john-pass91.txt
+  sha256: 7b234df9984db0af267e54a8ba4729a75fcdc226f1205cc4246dc879f69d686d
+  format: text extract, 3,498 bytes
+  check: KYDI 1931-1940 nil Barrett John ~90 LEE/OWSLY/CLAY/JCKSN/ESTIL/BRTHT; 1937 John 89 Nicholas unmerged
+/workspace/research/dora-ella-newnam/sources/indexes/lee-owsley-barrett-pass91.txt
+  sha256: be3333a711aebd0d9ddfe2994293209c5e64bbd9d414e28c543a090bdd7cde3c
+  format: text extract, 5,415 bytes
+  check: Lee/Owsley 1931-1940 nil Barrett John/Susan decedent; 1933 James 34 DISPROVED; 1940 HTML James 60 x Martha DISPROVED
+/workspace/research/dora-ella-newnam/sources/indexes/josephine-gilbert-pass91.txt
+  sha256: 6442aa620806db8560fd5c431b7f06de0a3108fb9721a9cd2683a04ffe625c91
+  format: text extract, 990 bytes
+  check: Josephine remaining Owen/Grant/etc 404; Campbell landing; T288 unseen
+/workspace/research/dora-ella-newnam/sources/indexes/ky1930-b630-barrett-james-john-pass91.txt
+  sha256: c4b72e0c38b23c537fd0f699396a91be05a3094b534be7a2aee9959bab9fc918
+  format: text extract, 4,589 bytes
+  check: 1930 Soundex ky003 B-630 James/John/Susan windows closed; miss of original dw 92
+/workspace/research/dora-ella-newnam/sources/census/1930-owsley-ed956-sh6a-hdr.jpg
+  sha256: ff07c852e80715b9d449e0e932b98718890ba65773d7636ce4f9129d20df107f
+  format: JPEG photo, 81,748 bytes
+  check: 1930 original ED 95-6 sh 6 A header R.L. Gabbard 12 Apr 1930
+/workspace/research/dora-ella-newnam/sources/census/1930-owsley-ed956-sh6a-names.jpg
+  sha256: 5953bc42853f8f7a315d852f87f5405c513decd365b3926406bf9a4edf4299c2
+  format: JPEG photo, 367,160 bytes
+  check: 1930 original ED 95-6 sh 6 A names ln 21 Barrett James through Horton
+/workspace/research/dora-ella-newnam/sources/census/1930-owsley-ed956-sh6a-hh92-barrett-james.jpg
+  sha256: e3543ae8527664a6e8420a1a46500291a6503f592b4ec8fd309f64fa4899b5c3
+  format: JPEG photo, 207,076 bytes
+  check: 1930 original ED 95-6 sh 6 A dw 92 Barrett James 45 x Ollie 34 HIT
+/workspace/research/dora-ella-newnam/sources/census/1930-owsley-ed956-sh4a-hh60-barrett-brison.jpg
+  sha256: 25408aaed8d8f4870288070065a5723c03b8315f4385dd6738b4777e31469afe
+  format: JPEG photo, 173,750 bytes
+  check: 1930 original ED 95-6 sh 4 A dw 60 Barrett Brison 28 x Dora not merged
+/workspace/research/dora-ella-newnam/sources/soundex/ky1930-b630-p1824-bird-james-58-bell.jpg
+  sha256: 4bc80353146bfdb69b67d408536051d02a7570be227ac1f7a04956a49d4045d8
+  format: JPEG photo, 101,691 bytes
+  check: 1930 Soundex B-630 Bird James 58 Bell DISPROVED as Barrett James
+/workspace/research/dora-ella-newnam/sources/soundex/ky1930-b630-p1839-barrett-john-38-perry.jpg
+  sha256: 057e281bc39231a1bb9b52e951b6ed087bf5a771288613c428892a2e51c1b4fc
+  format: JPEG photo, 117,257 bytes
+  check: 1930 Soundex B-630 Barrett John 38 Perry DISPROVED as 1910 John 65
+/workspace/research/dora-ella-newnam/sources/soundex/ky1930-b630-p1840-barrett-john-h-34-muhlenberg.jpg
+  sha256: 03b0459412df64353262f7049da3442804d9e38b3420c0abc429ed999435a9e8
+  format: JPEG photo, 108,001 bytes
+  check: 1930 Soundex B-630 Barrett John H 34 Muhlenberg DISPROVED
+/workspace/research/dora-ella-newnam/sources/soundex/ky1930-b630-p1914-barrett-tuckie-19-perry.jpg
+  sha256: c4b339b9617f221dd60e4f4f4cd48f4b93425ae897b55d415483fc6bf7511b50
+  format: JPEG photo, 107,470 bytes
+  check: 1930 Soundex B-630 Barrett Tuckie 19 Perry DISPROVED as Susan

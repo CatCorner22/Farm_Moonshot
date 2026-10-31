@@ -1,0 +1,85 @@
+Pass 91 — 1930 Kentucky Soundex B-630 Barrett James / John / Susan windows
+  + 1930 original T626 reel 773 ED 95-6 Buffalo Mag Dist 5
+NARA M2053 Reel 3 (B-600–B-665). IA soundex1930ky003 (4691 images).
+NOT ky018 (that reel is R-200–R-660; 1920 B-630 analog — do not reuse).
+Opened 31 Oct 2026 America/New_York. Images seen (zip-member JP2).
+Given-name sort across all B-630 surnames (Barrett/Baird/Beard/Bird/Board/Byrd/Brady/Bard/etc.).
+
+SOUNDEx MAP (ky003):
+  B-626 ~1700. B-630 starts ~1740 (Board Beatrice).
+  James given-name slot 1824–1830. John slot 1837–1842 (Joseph starts 1843).
+  S/Ruth 1911–1912. Samuel 1913. T from 1914. B-634 ~2100.
+  James / John / Susan windows image-closed.
+
+JAMES SLOT (opens 1824):
+  1824 Bird, James W 58 Bell vol 5 ED 2 sh 190
+        × Martha W 52 Ark + Faulkner S 24 / Margaret D 21 / Robert S 19 / Vernon S 16.
+        Surname Bird ≠ Barrett; Bell ≠ Owsley. Opens the James slot. DISPROVED as 1920 James.
+  Nil Barrett, James ~45 Owsley vol/ED of Buffalo as a Soundex head in this window.
+  That nil is a Soundex miss of original ED 95-6 sh 6 A ln 21 dw 92 (Hard Rule 6).
+  A 1930 Soundex card “sheet 6 line 21” would have been that original if carded; it was not.
+
+JOHN SLOT (1837–1842):
+  1839 Barrett, John W 38 Perry vol 88 ED 11 sh 140
+        × Minerva W 34 + Leonard[?] S 15 / Steven S 14 / Willard S 12 / Robert S 9.
+        Age 38 ≠ ~85; Perry ≠ Owsley; wife Minerva 34 ≠ Susan ~78. DISPROVED.
+  1840 Barrett, John H W 34 Muhlenberg vol 82 ED 13 sh 4
+        × Ocie W 27 + Glendale S 7 / Clifton H S 6 / Milderene D 4 3/12 / Juniata D 8/12.
+        Age 34 ≠ ~85; Muhlenberg ≠ Owsley; wife Ocie ≠ Susan. DISPROVED.
+  Nil Barrett, John ~85 Owsley Buffalo as a Soundex head.
+
+OTHER DISPROVED IN/NEAR THESE WINDOWS:
+  1830 Barrett, Jasper 23 Perry. Age/county fail vs James 45 / John 85.
+  1835 Barrett, Jesse N 22 Muhlenberg. Age/county fail.
+  1914 Barrett, Tuckie N 19 Perry, nephew of Barrett, Anderson, vol 87 ED 23 sh 18.
+        T-slot after Samuel 1913, before Thelma 1915. Color N; age 19; nephew ≠ Susan ~78.
+        DISPROVED as Susan.
+
+SUSAN / S-GIVEN-NAME (1911–1912):
+  Image-closed. Nil Barrett, Susan ~78 Owsley as a head.
+
+1930 ORIGINAL — IA kentuckycensus00reel773 (T626 Reel 773: Ohio, Owsley, Robertson, Rockcastle; 1083 images).
+  Owsley starts ~leaf 530. ED 95-6 Buffalo Mag Dist 5 = leaves 636–648, sh 1 A–7 A
+  (leaf 649 blank 7 B). Enumerator R.L. Gabbard. Entire ED image-closed.
+
+  HIT leaf 646 stamped 6 A ln 21 dw 92/92 Barrett, James Head R m W 45 m
+  (age-first-married 30) KY/KY/KY general farmer? occupation on the retained crop is
+  not re-claimed here beyond Head.
+  ln 22 Ollie Wife H 34 m (age-first-married 17) KY/KY/KY
+  ln 23 Minnie Daughter 15 S
+  ln 24 Pearl Daughter 13 S
+  ln 25 Virgie Daughter 9 S
+  ln 26 Martha Daughter 5 S
+  ln 27 Horton Son 3 S
+  Enumerator R.L. Gabbard, 12 Apr 1930. Supervisor’s District 8, ED 95-6, Sheet 6 A.
+
+  vs 1920 original ED 92 dw 102 Barrett, James 30 × Ollie 22 + Ivory D 4 + Pearl Son 3
+  + mother Susan 68 Wd (C942):
+    Identifiers that align: Barrett James × Ollie; Buffalo Mag Dist 5; Pearl 3→13 exact +10.
+    Disclose, not averaged:
+      James 30→45 is +15 in 10 (1910 James 23 → 43 expected; 45 is +2).
+      Ollie 22→34 is +12.
+      Ivory vs Minnie (4→15 is +11; name change not merged as proved).
+      1920 Pearl Son vs 1930 Pearl Daughter — sex conflict disclosed, not averaged.
+    NO mother Susan ~78. NO father John ~85. NO Ivory as named.
+  PROBABLE same household as 1920 dw 102. Hard Rule 6: original stands; Soundex nil is a miss.
+
+  Same ED dw 60/60 sh 4 A leaf 642 ln 37 Barrett, Brison Head R m W 28 m (m.age 21)
+        × Dora Wife 28 m (m.age 19) + Lee Son 6 + James Son 4 + Gilbert Son 1 4/12.
+        Not merged with James 45 (own wife Dora ≠ Ollie; own children; 28 ≠ 45)
+        and not merged with 1920 Bruce 42 (would be ~52).
+
+  Entire ED 95-6 nil Barrett, John ~85 / Susan ~78 / Bruce ~52 as heads.
+  FAN continuity: sh 1 A dw 7 Abner Lewis 59 × Susan; dw 5 Baker Jesse 64 × Emily.
+
+Keepers (repo JPEGs):
+  1930-owsley-ed956-sh6a-hdr.jpg
+  1930-owsley-ed956-sh6a-names.jpg
+  1930-owsley-ed956-sh6a-hh92-barrett-james.jpg
+  1930-owsley-ed956-sh4a-hh60-barrett-brison.jpg
+  ky1930-b630-p1824-bird-james-58-bell.jpg
+  ky1930-b630-p1839-barrett-john-38-perry.jpg
+  ky1930-b630-p1840-barrett-john-h-34-muhlenberg.jpg
+  ky1930-b630-p1914-barrett-tuckie-19-perry.jpg
+
+Do not treat Soundex nil as absence. Do not hunt D-540. Do not close B063. Do not promote C509.

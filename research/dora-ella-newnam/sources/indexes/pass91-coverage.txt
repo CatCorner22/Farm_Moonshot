@@ -1,0 +1,50 @@
+Pass 91 coverage — 31 Oct 2026 America/New_York
+This run bc-01a18bb4-e162-785c-9724-86a7c5663bf1
+Catalog 156 / hasMore false / totalMatched 156. Was 152.
+NEW vs 152 (4; no IDs imported):
+  Read TN Pass 94 sheets RUNNING
+  Read IL Pass 94 sheets RUNNING
+  Read AR Pass 94 sheets RUNNING
+  Read KY Pass 94 sheets RUNNING
+Status-only: IL Patrick now IDLE (was RUNNING at Pass 90).
+IL Edward / IL Michael still IDLE.
+KY/TN/AR S-415 still IDLE. Dora 1840 Clark B059 still RUNNING.
+Read IN Charles/Daniel/Joseph/Peter/Robert still IDLE.
+Dora's biography research PR #33 WAITING_FOR_BACKGROUND_WORK
+(sibling C281 not imported). Nested reviewer not respawned.
+Message queue empty.
+
+Work this pass:
+- Catalog re-list 156. No IDs imported.
+- KYDI 1931–1940 statewide: nil Barrett/Barett/Barret John ~85–95 in
+  LEE/OWSLY/CLAY/JCKSN/ESTIL/BRTHT. Closest statewide: 1937 BARRETT JOHN 89
+  NCHLS BARTENVILLE — 89 vs ~92; Nicholas ≠ Owsley; not merged.
+- Lee 1931–1940 HTML: nil Barrett, John decedent. 1932 Sarilda Johnson
+  father-cell John Barrett × Annie Couch (FAN). 1937 Pea Barrett 66
+  Andy × Nancy Johnson. 1939 William Barrett 79 father John × Mary Ann
+  Roberts, b. 24 Feb 1860 Breathitt — DISPROVED as 1910 John × Susan.
+- Owsley 1931–1940 DC HTML: nil Barrett, John / Susan decedent.
+  1933 BARRETT James 34 father Dan × Nancy Ann BOWLES DISPROVED as
+  1920/1930 James. 1935 Isaac Bishop 83 mother-cell Susan BARRETT
+  (mother ~1820s, not 1920 Susan 68). Clay 1931/1935/1940 HTML 404.
+- 1940 Owsley HTML EDs 95-1–95-7: nil James ~50 × Ollie / Susan ~88 /
+  John ~95. ED 95-3 hh 126 James BARRETT 60 × Martha 64 + Albert 22
+  DISPROVED as 1930 James 45 × Ollie. ED 95-2 Benton 44 = grown C917 Bent.
+- Josephine remaining: Owen/Grant/Kenton/Boone/Mason/Bracken/Robertson/
+  Nicholas/Fayette /marriages.htm 404. Campbell redirected to KYCampbell
+  landing (Marriages link not opened). License unseen.
+- T288: IA title numFound 0; identifier t288* still audio “The Purge”
+  NOT NARA T288. Do not invent T288. Do not promote C509.
+- 1930 Soundex ky003 B-630 (NOT ky018): James/John/Susan windows
+  image-closed. Nil Barrett James Owsley as a Soundex head (Soundex miss
+  of the original HIT). Nil Barrett John ~85 / Susan ~78 as heads.
+- 1930 original T626 reel 773 ED 95-6 Buffalo Mag Dist 5 image-closed.
+  HIT sh 6 A leaf 646 ln 21 dw 92/92 Barrett, James Head 45 × Ollie 34
+  + Minnie 15 + Pearl 13 + Virgie 9 + Martha 5 + Horton 3.
+  Enumerator R.L. Gabbard, 12 Apr 1930. PROBABLE 1920 dw 102.
+  Hard Rule 6: original stands over Soundex nil.
+- Same ED dw 60/60 Barrett, Brison 28 × Dora 28 not merged.
+- Entire ED 95-6 nil Barrett John ~85 / Susan ~78 / Bruce ~52 as heads.
+- Do not hunt D-540. Do not close B063. Do not promote C509. Do not import C281.
+- Gallery 326 → 331 (plates 8hn–8hr).
+- Next unused after this pass C985+ / L857+ / S692+ / DOC196+.
