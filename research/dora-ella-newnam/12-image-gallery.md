@@ -1363,3 +1363,27 @@ Same sheet, lines 8–14, with William P. 26 visible.
 ![McCracken 174B Malinda 38](sources/census/pass140/keyplates/mccracken-174b-malinda-tight.jpg)
 
 **Source:** S1515 · C1847
+
+## 1850 — Todd 247A (pass 141)
+
+1850 U.S. census, Todd County, District 2, 247A — household 27/27 **Mary Newman**, 35, Virginia, $800, with John, 20, Tennessee. Rejected versus William × Jane. Israel Tinker, 40, is the next-door household, not Trigg 303A.
+
+![Todd 247A Mary Newman 35](sources/census/pass141/keyplates/todd-247a-mary-newman-tight.jpg)
+
+**Source:** S1520 · C1850
+
+## 1850 — Trigg 303A (pass 141)
+
+1850 U.S. census, Trigg County, 1st District, 303A — household 12/203 **Wm Tinker**, 60, Virginia, with Licy, 33. Rejected versus William × Rhoda.
+
+![Trigg 303A Wm Tinker 60](sources/census/pass141/keyplates/trigg-303a-tinker-tight.jpg)
+
+**Source:** S1522 · C1852
+
+## 1850 — Trigg 314A (pass 141)
+
+1850 U.S. census, Trigg County, 1st District, 314A — household 31/31 **John Newman**, 51, North Carolina, with Elizabeth, 46, and **Wm**, 17, a son. Rejected versus William × Jane.
+
+![Trigg 314A John Newman 51](sources/census/pass141/keyplates/trigg-314a-john-newman-tight.jpg)
+
+**Source:** S1524 · C1853

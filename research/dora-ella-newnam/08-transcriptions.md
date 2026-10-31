@@ -1184,3 +1184,54 @@ Pass 2: compiled Jane; the wife’s first letter lacks the J-descender of Jo on 
 > 189/190  Wm P. Allen       38  M  Farmer
 
 Pass 2: female head 38; children 12–infant; no William 26; no Jane/Rhoda. **REJECT**. → **C1847** / **S1515**.
+
+## DOC055 — 1850 Todd Dist 2 247A Mary Newman 35
+
+**Inventory:** `sources/census/pass141/keyplates/todd-247a-mary-newman-tight.jpg` SHA **c52989cda8b9…** (image seen). Dist 2 stamp **247**, 24 June 1850, n0360. n0358 stamp **246** confirms the remap.
+
+### Diplomatic
+> 26/26  Israel Tinker    40  M  farmer  $800
+>         Lyna Tinker      35  F
+>         Charles Tinker   20  M  Tenn
+> 27/27  Mary Newman      35  F         $800  Va
+>         Lodices Newman   31  F
+>         John Newman      20  M  farmer      Tenn
+>         Malvina Newman   15  F
+>         Munice[?] Newman 16  M
+> 28/28  Thos Madden      48  M
+
+Pass 2: female head 35 Va; John 20 is a son/boarder, not William 26. Israel Tinker 40 is Todd, not Trigg 303A. **REJECT**. → **C1850 C1851** / **S1520**.
+
+## DOC056 — 1850 Trigg 1st Dist 303A Wm Tinker 60
+
+**Inventory:** `sources/census/pass141/keyplates/trigg-303a-tinker-tight.jpg` SHA **06b931ac2f2f…** (image seen). Stamp **303**, 15 Aug 1850, n0472.
+
+### Diplomatic
+> 12/203  Wm Tinker        60  M  Farmer       Virginia
+>         Licy Tinker      33  F               Kentucky
+>         Elizabeth Tinker  6  F
+>         Lola Tinker       2  F
+>         Thos L Tinker     4  M
+>         Peggy Bailey     61  F               Virginia
+>         Elias Pearce     21  M  Laborer      Kentucky
+
+Pass 2: Tinker not Tincher; head 60 not 26; wife Licy 33 not Jane/Rhoda. 1st District, not Dist 2. **REJECT**. → **C1852** / **S1522**.
+
+## DOC057 — 1850 Trigg 1st Dist 314A John Newman 51
+
+**Inventory:** `sources/census/pass141/keyplates/trigg-314a-john-newman-tight.jpg` SHA **b69097cbc2c8…** (image seen). Stamp **314**, 2 Sept 1850, n0494.
+
+### Diplomatic
+> 31/31  John Newman       51  M  Farmer  $275  N. Carolina
+>         Elizabeth Newman  46  F
+>         Wm Newman         17  M  Farmer       Kentucky
+>         John Newman       15  M
+>         Cecilia Newman    13  F
+>         Catharine Newman   8  F
+>         Isaac Newman       6  M
+>         Jane Newman        3  F
+>         James Newman       2  M
+>         M [Catawba?]      83  F  Laborer      N. Carolina
+> … last line: Joseph Newman 9 M Mississippi (other house)
+
+Pass 2: William is 17, a son. Jane is 3. Head is John 51 NC, not William 26. **REJECT**. → **C1853 C1854** / **S1524**.

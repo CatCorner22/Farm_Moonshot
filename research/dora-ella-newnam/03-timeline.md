@@ -472,10 +472,14 @@ Place as it was *at the date*; modern equivalent in brackets. Flag impossibiliti
 | **21 Jul 1850** | Hopkins Dist 2 n0238 hh **67** | FAN **PROVEN** as image + reject (reconfirm): Francis J. Newman **28** × Mary J **25** + Elizabeth **1** | Hopkins Co., KY | C1821 | S1489 |
 | **1850** | Hopkins Dist 2 n0240 hh **76/76** | FAN **PROVEN** as image + reject: **Jno Newman 59** Farmer NC × Jane **53** NC + **William P 26** son (not a living head) | Hopkins Co., KY | C1823 | S1491 S1492 |
 | **1850** | Graves | FAN **PROVEN** as compiled-index: NEWHOUSE/NEWTON only. County **CLOSED** compiled couple hunt | Graves Co., KY | C1825 | S1494 |
-| **15 Jul 1850** | Hart Dist 1 n0005 stamp **3** | FAN **PROVEN** as mapping: header **IMAGE SEEN**. County **NOT** walked | Hart Co., KY | C1826 | S1495 |
-| **2 Aug 1850** | Henry Dist 1 n0440 | FAN **PROVEN** as mapping: header **IMAGE SEEN**. County **NOT** walked | Henry Co., KY | C1827 | S1496 |
+| **15 Jul 1850** | Hart Dist 1 n0005 stamp **3** | FAN **PROVEN** as mapping: header **IMAGE SEEN**. Remaining odds n0007–n0187 downloaded; OCR draft token-nil. County **NOT** closed | Hart Co., KY | C1826 C1858 | S1495 S1528 |
+| **2 Aug 1850** | Henry Dist 1 n0440 | FAN **PROVEN** as mapping: Dist 1 header **IMAGE SEEN**. Remaining n0440–n0589 evens+odds downloaded; OCR draft token-nil. County **NOT** closed | Henry Co., KY | C1827 C1857 | S1496 S1528 S1529 |
 | **28 Aug 1850** | Campbell Newport n0130 stamp **127** | FAN **PROVEN** as image + reject-as-place: City of Newport, **not** Kenton Dist 1 **130B** | Campbell Co., KY | C1830 | S1499 |
 | **17 Aug 1850** | McCracken Dist 1 **174B** n0353 | FAN **PROVEN** as image + reject: hh **188/189 Malinda Newman 38** + six children. No William | McCracken Co., KY | C1847 | S1515 |
+| **24 Jun 1850** | Todd Dist 2 **247A** n0360 | FAN **PROVEN** as image + reject: hh **27/27 Mary Newman 35** f **$800** Va + John **20** Tenn. Israel Tinker **40** same page | Todd Co., KY | C1850 C1851 | S1520 S1521 |
+| **15 Aug 1850** | Trigg 1st Dist **303A** n0472 | FAN **PROVEN** as image + reject: hh **12/203 Wm Tinker 60** Farmer VA × Licy **33** KY | Trigg Co., KY | C1852 | S1522 S1523 |
+| **2 Sep 1850** | Trigg 1st Dist **314A** n0494 | FAN **PROVEN** as image + reject: hh **31/31 John Newman 51** NC × Elizabeth **46** + **Wm 17** son; Jane **3** | Trigg Co., KY | C1853 C1854 | S1524 S1525 |
+| **1850** | Kenton Dist 1 **130B** | FAN **PROVEN** as compiled-index + reject: **Daniel Newman 19** Laborer KY p.**130**. No William 26 in county Newman set | Kenton Co., KY | C1855 C1856 | S1526 S1527 |
 
 
 **Impossibility flags:** None. Mother ~29 at Dora’s 1871 birth (Mary b. 1842). Dora age 14 at marriage is legal/period-possible (KY) though young; 1880 age 8 corroborates. Two children born before Coy in the 1886–1889 window would have Dora aged 15–18 — possible. No event after 23 Aug 1926 is attributed to her.

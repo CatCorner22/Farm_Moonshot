@@ -1,0 +1,86 @@
+Pass 141 extract — 31 Oct 2026
+B058: LOC sn89051008 item.digitized: false (34425 B). IA Solr Post-Dispatch 1926 0.
+Film unread. Phone not re-asked.
+
+=== Todd remap (corrects pass140 n0372=247A) ===
+n0358 stamp 246 IMAGE SEEN. n0360 = 247A. n0372 stamp 253. n0380 stamp 257.
+User/pass140 “n0360=241 → n0372=247A” WITHDRAWN as mapping.
+
+=== Todd Dist 2 247A n0360 IMAGE SEEN ===
+District 2, Todd, 24 June 1850.
+hh 26/26 Israel Tinker 40 m farmer $800 + Lyna 35 + Charles 20 Tenn + others.
+hh 27/27 Mary Newman 35 f $800 Va
+         Lodices 31 f
+         John 20 m farmer Tenn
+         Malvina 15 f
+         Munice[?] 16 m
+hh 28/28 Thos Madden 48
+REJECT vs William 26 × Jane 22. Female head 35. SHA c52989cd…
+247B n0361 line 1 Mary Ann [Newman?] 30 f KY — not the SK 247A hit; not William.
+C1848–C1851
+
+=== Trigg 1st Dist 303A n0472 TINKER IMAGE SEEN ===
+Stamp 303. 1st District (not Dist 2). 15 Aug 1850. A.S. Dabney.
+12/203 Wm Tinker 60 m Farmer Virginia
+        Licy Tinker 33 f Kentucky
+        Elizabeth 6 / Lola 2 / Thos L 4
+        Peggy Bailey 61 VA; Elias Pearce 21 KY laborer
+Color col. 6 has a mark that may be B. Either way REJECT vs William × Rhoda.
+SHA 06b931ac…
+C1852
+
+=== Trigg 1st Dist 314A n0494 NEWMAN IMAGE SEEN ===
+Stamp 314. 1st District. 2 Sept 1850.
+31/31 John Newman 51 m Farmer $275 North Carolina
+      Elizabeth 46 f
+      Wm 17 m Farmer KY
+      John 15 / Cecilia 13 / Catharine 8 / Isaac 6 / Jane 3 / James 2
+      M [Catawba?] 83 f laborer NC
+Joseph Newman 9 m Mississippi — last line, other house.
+314B n0495 nil Newman.
+REJECT vs William 26 × Jane 22. William is a 17-year-old son. Jane is age 3.
+SHA b69097cb…
+C1853 C1854
+Named Todd 247A / Trigg 314A / Trigg TINKER 303A CLOSED.
+
+=== Kenton Dist 1 130B compiled ===
+GenKY census-scoped Newman 1850 (6 rows): Ann S 50 p.261; C: 25 tailor Germany p.268;
+Daniel 19 Laborer & At School KY p.130; Martin 27 Ireland p.226; Mary 52 KY p.270;
+Shepard 32 tobacconist KY p.221. Newnam 0. William+Newman+1850 0.
+William Newman query = 1820 p.22 only.
+130 neighbors: Gadson James 20; Iliff Joseph 40; Clustre John 26 — all p.130.
+130B Newman = Daniel 19 compiled REJECT vs William 26 × Jane 22.
+Image still reel-208 scan gap. Do not retest stamp 126. Campbell 127 is another county.
+C1855 C1856
+
+=== Henry Dist 1 remaining ===
+n0440 Dist 1, 2 Aug, header IMAGE SEEN (Hill/Bell/Powell start; no Newman on first page).
+Evens n0440–n0588 (pass140) + odds n0441–n0589 (pass141) downloaded.
+OCR namecol draft token-nil Newman/Tincher (not a close). County NOT closed.
+C1857
+
+=== Hart Dist 1 remaining ===
+n0005 stamp 3 already mapped. Remaining odds n0007–n0187 downloaded (46).
+OCR namecol draft token-nil. County NOT closed.
+C1858
+
+=== Leftover SK ===
+Hart/Henry/Allen/Grayson/Livingston/Meade/Muhlenberg/Union/Warren 404.
+C1859
+
+=== OPEN catalogs ===
+GT Lee WWI LIVE 452540. Luther = Brandenburg + Underwood only. Cards unread.
+FS 1146342 SPA 19655 B isLoggedIn false (R011-78).
+FAQ 9938 LIVE rooms 228–229. No free June 1958 clip. Phone not re-asked.
+IA 602 metadata {}. pass123 still 515. One line.
+IA Solr M1509 KY 0.
+USGenNet wills LIVE: Jane Steele NEWMAN / Elizabeth NEWNAM / Mary F. Newnam TINCHER — no Samuel P.
+Grant 21 not merged. B084 POSSIBLE Jr only. No 1966/1962. No 33-12/33-13.
+C1860–C1866
+
+=== Process ===
+No free William × Rhoda / William × Jane license.
+Parents still PROBABLE. Jane not Rhoda. #28 stands.
+Living head remains Owsley hh 311 William × Jane.
+Variants: N550 / T526 / S350. William/Wm/Jno × Newman/Newnam/Newmon/Numan; Mary/mayr; Tinker/Tincher.
+C1867 C1868

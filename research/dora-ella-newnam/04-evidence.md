@@ -2383,3 +2383,24 @@
 | C1845 | SK Trigg **LIVE 118581** B: **NEWMAN 314A**; NEWTON five pages; **TINKER 303A**. Named originals **unread** | PROVEN as compiled-index + residual | S1513 L1671 | B071 |
 | C1846 | SK leftover handshake (~110 B): Hart/Henry/Larue/Livingston/Muhlenberg/Hickman/Fulton/Anderson/Caldwell/Calloway. us-census leftover dirs **404** | PROVEN as catalog | S1514 L1672 | B071 |
 | C1847 | McCracken Dist 1 **174B** n0353 **IMAGE SEEN**: hh **188/189 Malinda Newman 38** + Jacob P **12** + Mary E **11** + John H **7** + Thomas P **6** + Na[ncy?] L **3** + Amity Mc **4/12**. **REJECT** vs William **26** × Jane **22**. Female head; no William | PROVEN as image + reject | S1515 S1516 L1673 | B071 |
+| C1848 | LOC sn89051008 `item.digitized: false` (34425 B). IA Solr Post-Dispatch 1926 **0**. Film unread. Phone not re-asked | PROVEN as catalog | S1517 S1518 L1674 | B058 |
+| C1849 | Todd remap: n0358 stamp **246 IMAGE SEEN**; n0360 = **247A**; n0372 stamp **253**. Pass140 “n0372=247A” **WITHDRAWN** | PROVEN as image + mapping | S1519 S1521 L1675 | B071 |
+| C1850 | Todd Dist 2 **247A** n0360 **IMAGE SEEN**: hh **27/27 Mary Newman 35** f **$800** Va + Lodices **31** + John **20** Tenn farmer + Malvina **15** + Munice[?] **16**. **REJECT** vs William **26** × Jane **22**. Female head. SHA **c52989cd…** | PROVEN as image + reject | S1520 S1521 L1676 | B071 |
+| C1851 | Todd **247A** hh **26/26 Israel Tinker 40** farmer **$800** + Lyna **35** + Charles **20** Tenn. **Not** Trigg TINKER **303A**. **REJECT** as William × Rhoda | PROVEN as image + reject | S1520 L1676 | B071 |
+| C1852 | Trigg 1st Dist **303A** n0472 **IMAGE SEEN**: hh **12/203 Wm Tinker 60** Farmer VA × Licy **33** KY + Elizabeth **6** + Lola **2** + Thos L **4**. **REJECT**. Not Dist 2. SHA **06b931ac…** | PROVEN as image + reject | S1522 S1523 L1677 | B071 |
+| C1853 | Trigg 1st Dist **314A** n0494 **IMAGE SEEN**: hh **31/31 John Newman 51** Farmer **$275** NC × Elizabeth **46** + **Wm 17** KY farmer + John **15** + Cecilia **13** + Catharine **8** + Isaac **6** + Jane **3** + James **2**. **REJECT**. William is a son. SHA **b69097cb…** | PROVEN as image + reject | S1524 S1525 L1678 | B071 |
+| C1854 | Trigg **314A** last line **Joseph Newman 9** MS in another house. **314B** n0495 **nil** Newman. **REJECT**. Named Todd **247A** / Trigg **314A** / TINKER **303A** **CLOSED** | PROVEN as image + reject | S1524 L1678 | B071 |
+| C1855 | Kenton Dist 1 **130B** compiled: **Newman, Daniel 19** Laborer & At School KY p.**130**. **REJECT** vs William **26** × Jane **22**. Image still reel-**208** scan gap | PROVEN as compiled-index + reject | S1526 L1679 | B071 |
+| C1856 | GenKY census-scoped 1850 Newman = six rows (Ann S **50** / C: **25** GER / Daniel **19** / Martin **27** IRE / Mary **52** / Shepard **32**). **No** William **26**. Newnam **0**. William+1850 **0** | PROVEN as compiled-index | S1526 S1527 L1679 | B071 |
+| C1857 | Henry Dist 1 remaining n0440–n0589 evens+odds downloaded. n0440 Dist 1 2 Aug header **IMAGE SEEN**. OCR namecol draft token-nil. County **NOT** closed | PROVEN as mapping + OCR-draft | S1528 S1529 L1680 | B071 |
+| C1858 | Hart Dist 1 remaining odds n0007–n0187 downloaded. OCR namecol draft token-nil. County **NOT** closed | PROVEN as mapping + OCR-draft | S1528 L1681 | B071 |
+| C1859 | SK leftover Hart/Henry/Allen/Grayson/Livingston/Meade/Muhlenberg/Union/Warren **404** | PROVEN as catalog | S1514 L1682 | B071 |
+| C1860 | GT Lee WWI **LIVE 452540**. Luther = Brandenburg + Underwood only. Cards unread | PROVEN as compiled | S1530 L1683 | B059 |
+| C1861 | FS **1146342** SPA **19655** B `isLoggedIn false` (R011-**78**) | PROVEN as catalog | S1531 L1684 | B065 B069 |
+| C1862 | Hutchins FAQ **9938** **LIVE** cards rooms **228–229**. No free June **1958** clip. Phone not re-asked | PROVEN as catalog | S1532 L1685 | B055 B080 |
+| C1863 | IA **602** metadata **{}**. pass123 still **515**. One line | PROVEN as catalog | S1533 L1686 | B088 |
+| C1864 | IA Solr M1509 KY **0**. Cards unread | PROVEN as catalog | S1534 L1687 | B069 |
+| C1865 | USGenNet wills **LIVE** — Jane Steele / Elizabeth / Mary F. — **no** Samuel P. | PROVEN as compiled | S1535 L1688 | B045 B065 |
+| C1866 | Grant 21 **not merged**. B084 POSSIBLE Jr only. Do not print 1966 or 1962. Did not walk **33-12 / 33-13**. Phones / R001/R007/R008 not re-asked | PROVEN as process | S1536 L1689 | B081 B084 B082 |
+| C1867 | Parents of 1928 Frank still **PROBABLE**. Jane **not** Rhoda. #28 stands. Living head remains Owsley hh **311**. No free license | PROVEN as process | S1536 L1690 | B071 |
+| C1868 | Variants cats **1–4**: William/Wm/Jno × Newman/Newnam/Newmon/Numan; Mary/mayr; Tinker/Tincher. Soundex **N550** / **T526** / **S350** | PROVEN as process | S1536 L1691 | B071 |

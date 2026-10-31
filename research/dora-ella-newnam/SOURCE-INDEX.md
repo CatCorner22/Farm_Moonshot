@@ -1227,6 +1227,26 @@ Captured this session: **30 Oct 2026**. Earlier plates remain in `sources/census
 
 | S1515 | `sources/census/pass140/keyplates/mccracken-174b-malinda-tight.jpg` | 2026-10-31 | IA reel 211 n0353 | https://archive.org/details/populationschedu0211unix | Malinda 38 SHA **d735cd47…** | **C1847** | image seen |
 | S1516 | `sources/census/pass140/keyplates/mcc174-n0352-header.jpg` | 2026-10-31 | IA reel 211 n0352 | https://archive.org/details/populationschedu0211unix | McCracken Dist 1 stamp **174** 17 Aug | **C1847** | image seen |
+| S1517 | `sources/catalog/loc-sn89051008-pass141.json` | 2026-10-31 | LOC | https://www.loc.gov/item/sn89051008/ | `item.digitized: false` 34425 B | **C1848** | catalog only |
+| S1518 | `sources/catalog/ia-solr-postdispatch-1926-pass141.json` | 2026-10-31 | IA Solr | https://archive.org/ | Post-Dispatch 1926 **0** | **C1848** | catalog only |
+| S1519 | `sources/census/pass141/keyplates/todd-246a-stamp-tight.jpg` | 2026-10-31 | IA reel 219 n0358 | https://archive.org/details/populationschedu0219unix | stamp **246** SHA **459ab273…** | **C1849** | image seen |
+| S1520 | `sources/census/pass141/keyplates/todd-247a-mary-newman-tight.jpg` | 2026-10-31 | IA reel 219 n0360 | https://archive.org/details/populationschedu0219unix | Mary Newman **35** SHA **c52989cd…** | **C1850 C1851** | image seen |
+| S1521 | `sources/census/pass141/keyplates/todd-n0360-header-tight.jpg` | 2026-10-31 | IA reel 219 n0360 | https://archive.org/details/populationschedu0219unix | Todd Dist **2** 24 June | **C1849 C1850** | image seen |
+| S1522 | `sources/census/pass141/keyplates/trigg-303a-tinker-tight.jpg` | 2026-10-31 | IA reel 219 n0472 | https://archive.org/details/populationschedu0219unix | Wm Tinker **60** SHA **06b931ac…** | **C1852** | image seen |
+| S1523 | `sources/census/pass141/keyplates/trigg-303a-stamp-tight.jpg` | 2026-10-31 | IA reel 219 n0472 | https://archive.org/details/populationschedu0219unix | stamp **303** 1st Dist 15 Aug | **C1852** | image seen |
+| S1524 | `sources/census/pass141/keyplates/trigg-314a-john-newman-tight.jpg` | 2026-10-31 | IA reel 219 n0494 | https://archive.org/details/populationschedu0219unix | John **51** × Eliz **46** SHA **b69097cb…** | **C1853 C1854** | image seen |
+| S1525 | `sources/census/pass141/keyplates/trigg-314a-stamp-tight.jpg` | 2026-10-31 | IA reel 219 n0494 | https://archive.org/details/populationschedu0219unix | stamp **314** 1st Dist 2 Sept | **C1853** | image seen |
+| S1526 | `sources/catalog/genky-cen-newman-1850-pass141.html` | 2026-10-31 | GenKY KCPL | https://genky.kentonlibrary.org/ | 1850 Newman 6 rows; Daniel **19** p.130 | **C1855 C1856** | index only |
+| S1527 | `sources/catalog/genky-cen-wm-1850-pass141.html` + `genky-newnam-only-pass141.html` | 2026-10-31 | GenKY KCPL | https://genky.kentonlibrary.org/ | William+1850 **0**; Newnam **0** | **C1856** | index only |
+| S1528 | `sources/census/pass141/ocr-namecols-pass141.txt` | 2026-10-31 | tesseract draft | — | Henry/Hart token-nil (draft) | **C1857 C1858** | OCR text |
+| S1529 | `sources/census/pass140/keyplates/henry-n0440-header.jpg` | 2026-10-31 | IA reel 204 n0440 | https://archive.org/details/populationschedu0204unix | Henry Dist 1 2 Aug | **C1857** | image seen |
+| S1530 | `sources/catalog/gt-lee-wwi-pass141.html` | 2026-10-31 | Genealogy Trails | https://www.genealogytrails.com/ken/lee/wwi_draft_cards.html | LIVE **452540** | **C1860** | transcription only |
+| S1531 | `sources/catalog/fs-1146342-pass141.html` | 2026-10-31 | FamilySearch | https://www.familysearch.org/search/catalog/1146342 | SPA **19655** B | **C1861** | catalog only |
+| S1532 | `sources/catalog/hutchins-faq-9938-pass141.html` | 2026-10-31 | Berea FAQ | https://libraryanswers.berea.edu/faq/9938 | LIVE rooms **228–229** | **C1862** | catalog only |
+| S1533 | `sources/catalog/ia-meta-602-pass141.json` | 2026-10-31 | IA metadata | https://archive.org/metadata/14thcensusofpopu0602unit | **{}** | **C1863** | catalog only |
+| S1534 | `sources/catalog/ia-solr-m1509-ky-pass141.json` | 2026-10-31 | IA Solr | https://archive.org/ | M1509 KY **0** | **C1864** | catalog only |
+| S1535 | `sources/catalog/usgennet-lee-wills-pass141.html` | 2026-10-31 | USGenNet Lee wills | https://usgennet.org/usa/ky/county/lee/wills/ | no Samuel P. | **C1865** | transcription only |
+| S1536 | `sources/census/pass141-extract-2026-10-31.txt` | 2026-10-31 | This session | — | Pass 141 extract | **C1848–C1868** | extract |
 
 
 ## Word biography provenance
@@ -1336,6 +1356,8 @@ Exact strings in `02-log.md` **L343–L352**, **L380–L397**, **L398–L411**, 
 **Pass 137 (B058 film / B071 Edmonson + Hancock close + leftover compiled):** William/Wm × Newman/Newnam/Nureman/Norman; Francis J/Catherine O/Alexander/Benja. Soundex **N550** / **T526** / **S350**. Place Edmonson **198** n0238; Hancock **202** n0596; Hopkins **205** n0238. Exact strings **L1589–L1620**.
 
 **Pass 138 (B058 film / B071 Breckinridge William 26 × Angeline IMAGE SEEN):** William/Wm × Newman/Newnam/Newnarn/Numan/Nureman; Angeline/Jane/Rhoda; Obediah/Henry/John J/Cinderella. Tincher/Tinker/Tinsher. Soundex **N550** / **T526** / **S350**. Place Breckinridge reel **193** Dist 1 stamps **100 / 108**; Kenton **130B**; Mercer **213**; Franklin **200**; Lincoln **210**; Hopkins **205**. Exact strings **L1621–L1638**.
+
+**Pass 141 (B058 film / B071 Todd 247A Mary 35 + Trigg 314A John 51 + TINKER 303A Wm 60 IMAGE SEEN):** William/Wm/Jno × Newman/Newnam/Newmon/Numan; Mary/mayr; Tinker/Tincher; Daniel 19 Kenton. Soundex **N550** / **T526** / **S350**. Place Todd Dist 2 **247A** n0360; Trigg 1st Dist **303A** n0472 / **314A** n0494; Kenton **130B** compiled; Henry Dist 1 n0440–n0589; Hart Dist 1 remaining. Exact strings **L1674–L1691**.
 
 **Pass 132–134 (B058 film / B071 Barren + Boone close + reel 208 map + Mercer/Hopkins/Franklin):** William/Wm × Newman/Newnam/Nureman; Christopher/Billingsly/Thomas C/William B/George W/Shepard/Daniel. Soundex **N550** / **T526** / **N655**. Place Barren **191** n0005=307; reel **208** imagecount **644**; Mercer **213** n0150=243; Hopkins **205** n0140–n0348. Exact strings **L1559–L1588**.
 

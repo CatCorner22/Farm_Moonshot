@@ -1925,6 +1925,26 @@ One row per search, **including nil results**. Access: free | subscription | on-
 | L1672 | 2026-10-31 | SK leftover / USGW (**B071**) | Hart…Calloway | handshake / **404** (**C1846**) | S1514 | B071 |
 
 | L1673 | 2026-10-31 | McCracken 174B n0353 (**B071**) | Malinda Newman 38 | **IMAGE SEEN REJECT**. Female head + six children. No William (**C1847**) | S1515 S1516 | B071 |
+| L1674 | 2026-10-31 | LOC sn89051008 (**B058**) | item.digitized | **false** 34425 B. IA Solr 1926 **0**. Film unread. Phone not re-asked (**C1848**) | S1517 S1518 | B058 |
+| L1675 | 2026-10-31 | Todd remap (**B071**) | n0358=246 / n0360 | **247A**. n0372=**253**. Pass140 n0372=247A **WITHDRAWN** (**C1849**) | S1519 S1521 | B071 |
+| L1676 | 2026-10-31 | Todd Dist 2 **247A** n0360 (**B071**) | Mary Newman 35 | **IMAGE SEEN REJECT**. Female head $800 Va + John 20 Tenn. Israel Tinker **40** same page (**C1850 C1851**) | S1520 S1521 | B071 |
+| L1677 | 2026-10-31 | Trigg 1st Dist **303A** n0472 (**B071**) | Wm Tinker 60 × Licy 33 | **IMAGE SEEN REJECT**. VA farmer. Not Dist 2. Not William × Rhoda (**C1852**) | S1522 S1523 | B071 |
+| L1678 | 2026-10-31 | Trigg 1st Dist **314A** n0494 (**B071**) | John Newman 51 NC × Eliz 46 | **IMAGE SEEN REJECT**. Wm **17** son; Jane **3**. Joseph **9** MS other hh. 314B nil (**C1853 C1854**) | S1524 S1525 | B071 |
+| L1679 | 2026-10-31 | GenKY census Newman 1850 (**B071**) | Kenton 130B | Daniel **19** Laborer KY p.**130**. Six Newman rows; **no** William 26. Newnam **0** (**C1855 C1856**) | S1526 S1527 | B071 |
+| L1680 | 2026-10-31 | Henry Dist 1 remaining (**B071**) | n0440–n0589 | Evens+odds downloaded. OCR draft token-nil. Dist 1 2 Aug. **NOT** closed (**C1857**) | S1528 S1529 | B071 |
+| L1681 | 2026-10-31 | Hart Dist 1 remaining (**B071**) | n0007–n0187 odds | Downloaded. OCR draft token-nil. **NOT** closed (**C1858**) | S1528 | B071 |
+| L1682 | 2026-10-31 | SK leftover (**B071**) | Hart…Warren | **404** (**C1859**) | S1514 | B071 |
+| L1683 | 2026-10-31 | GT Lee WWI (**B059**) | Luther / John H / McCoy | LIVE **452540**. Brandenburg + Underwood only (**C1860**) | S1530 | B059 |
+| L1684 | 2026-10-31 | FS **1146342** (**B065**) | catalog | SPA **19655** B `isLoggedIn false` (R011-**78**) (**C1861**) | S1531 | B065 B069 |
+| L1685 | 2026-10-31 | Hutchins FAQ **9938** (**B055/B080**) | *Citizen* cards | **LIVE** rooms **228–229**. No free June **1958** clip (**C1862**) | S1532 | B055 B080 |
+| L1686 | 2026-10-31 | IA **602** metadata (**B088**) | imagecount | pass141 **{}**. pass123 still **515**. One line (**C1863**) | S1533 | B088 |
+| L1687 | 2026-10-31 | IA Solr M1509 KY (**B069**) | cards | **0** (**C1864**) | S1534 | B069 |
+| L1688 | 2026-10-31 | USGenNet wills (**B045/B065**) | Samuel P. | Jane Steele / Elizabeth / Mary F. — **no** Samuel P. (**C1865**) | S1535 | B045 B065 |
+| L1689 | 2026-10-31 | Grant 21 / Jr / process (**B081/B084**) | deceased-only | **not merged**. POSSIBLE Jr only. No 1966/1962. No **33-12/33-13** (**C1866**) | S1536 | B081 B084 B082 |
+| L1690 | 2026-10-31 | Same-person / #28 (**B071**) | William × Rhoda / Jane | Parents **PROBABLE**. Jane **not** Rhoda. #28 stands. Living head remains Owsley hh **311** (**C1867**) | S1536 | B071 |
+| L1691 | 2026-10-31 | Search-variant-alternatives cats **1–4** | William/Mary/Tinker | Soundex **N550** / **T526** / **S350**. Exact strings this extract | S1536 | B071 |
+
+**Access honesty (pass 141):** LOC sn89051008 JSON **seen** (`digitized: false` 34425 B). IA Solr Post-Dispatch 1926 **0**. IA Solr M1509 KY **0**. IA **602** metadata **{}** (pass123 still **515**). Todd Dist 2 **247A** n0360 / **246A** n0358 **image seen**. Trigg 1st Dist **303A** n0472 / **314A** n0494 **image seen**. GenKY census-scoped Newman 1850 **HTML seen** (Daniel **19** p.**130**). Henry Dist 1 n0440–n0589 / Hart Dist 1 remaining odds **image downloaded**; namecol OCR **draft**. FS **1146342** SPA **19655** B `isLoggedIn false`. USGenNet wills **HTML seen**. GT Lee WWI **LIVE**. FAQ **9938** **LIVE**. fishergenes / kykinfolk **404**. SK leftover Hart/Henry/Allen/Grayson/Livingston/Meade/Muhlenberg/Union/Warren **404**. Kenton **130B** still a reel-**208** scan gap (compiled Daniel **19**). Henry / Hart / Larue / Franklin / Mercer / Lincoln / Hopkins remaining. *Dardanelle Post-Dispatch* film **unread**. M1509 **cards unread**. Certs **unread**. Authored `latest.docx` SHA **78cdcf44…** not overwritten.
 
 **Access honesty (pass 139):** LOC sn89051008 JSON **seen** (`digitized: false`). IA Solr Post-Dispatch 1926 **0**. IA Solr M1509 KY **0**. IA **602** metadata **{}** (pass123 still **515**). Hopkins n0238/n0239/n0240 **image seen**. SK Graves **HTML seen** (NEWHOUSE/NEWTON only). Hart Dist 1 / Henry Dist 1 / Larue Hamilton / Campbell Newport **127** / Kenton reel-end MICROCOPY **image seen**. SK Kenton **HTML seen** (NEWMAN **130B** residual). FS **1146342** SPA **19655** B. USGenNet wills **HTML seen**. GT Lee WWI **LIVE**. FAQ **9938** **LIVE**. fishergenes / kykinfolk **404**. SK leftover handshake except Graves. Kenton **130B** still a reel-**208** scan gap. Henry / Hart / Larue / Hopkins remaining. *Dardanelle Post-Dispatch* film **unread**. M1509 **cards unread**. Certs **unread**. Authored `latest.docx` SHA **78cdcf44…** not overwritten.
 
