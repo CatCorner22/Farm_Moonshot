@@ -1,0 +1,20 @@
+Pass 83 coverage 31 Oct 2026 America/New_York
+Catalog 141 / hasMore false / totalMatched 141. Was 139.
+NEW vs 139 (no IDs imported): Read IN Michael/Patrick sheets RUNNING;
+Read IN Edward/Francis/George sheets RUNNING.
+Already-folded status change: Read MO Michael/Patrick sheets now IDLE.
+Dora B071 1850 Tincher still RUNNING; Dora B058 1926 papers IDLE;
+Read MO Edward/Francis sheets IDLE. Nested reviewer not respawned.
+Message queue empty. This run bc-01a18bb4-e162-785c-9724-86a7c5663bf1.
+Sibling PR #33 C281 not imported.
+G-416 Lewis denser 2038-2053 image-closed. 2043 Lewis 55 Harlan A-2 and
+2052 Lewis H 53 Jefferson DISPROVED as original Lewis 67. Combined with
+Pass 82 2054-2072, Lewis/Louis/Loyd given-name block image-closed.
+Original Lewis 67 remains a Soundex miss (Hard Rule 6).
+Johnson 1900-01 / 1902 / 1903 opened: nil Josephine Newnam × Gilbert;
+Josie Robertson and Josie Sweeney are other brides. Magoffin/Laurel/Whitley/
+Pulaski/Clay landings 404. Cecil cemetery HTML 404. IA T288 numFound 0;
+KY DC 1916 numFound 0; Chronicling 404; TFKRHA SSL/429.
+Do not hunt D-540. Do not promote C509. Do not close B063.
+Original 1932 DC, 1916 DC face, 1840 bond, M123-3, T288 still unseen.
+Next unused after this filing: C902+ / L782+ / S644+ / DOC169+.

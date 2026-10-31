@@ -1,0 +1,36 @@
+Pass 83 — 1920 Kentucky Soundex G-416 Lewis given-name denser
+NARA M1563 reel 59 / IA soundex1920ky059 leaves 2038-2053
+Opened 31 Oct 2026 America/New_York. Image-seen (zip-member JP2, native ~2222×1352).
+Given-name sort. Visual-read every leaf 2038-2053.
+Keepers: 2043 Lewis 55 Harlan A-2; 2052 Lewis H. 53 Jefferson.
+
+2038 Galbraith, Leslie — Christian vol 17 ED 8 sh 7 ln 2. Not Gilbert; not Owsley Lewis 67.
+2039 Galbraith, Leslie ~47 — vol 9 ED 34 sh 5 ln 50. Not Gilbert.
+2040 Gilbert, Lester 17 — vol 57 ED 129 sh 6. DISPROVED as Lewis 67 (age 17 vs 67).
+2041 Gilbert, Leslie C. Head W 57 Kentucky Logan vol 63 ED 71 sh 2 ln 13.
+     DISPROVED as original Lewis 67 (Logan ≠ Owsley; Leslie C. ≠ Lewis; 57 ≠ 67).
+2042 Galbraith, Lottie ~33 — Mason vol 69 ED 166 sh 1 ln 38. Not Gilbert.
+2043 Gilbert, Lewis A-2 W 55 Kentucky Harlan vol 35 ED 85 sh 19 ln 9.
+     Enumerated with Napier, Cae[?]. Relationship Sister. Form A-2.
+     DISPROVED as original Lewis 67 (Harlan ≠ Owsley; 55 ≠ 67; A-2 not head;
+     relationship Sister ≠ Head). Keeper plate.
+2044 Gilbert, Levi Head W 21 Kentucky Laurel vol 58 ED 146 sh 9 ln 6.
+     DISPROVED (Laurel ≠ Owsley; Levi ≠ Lewis; 21 ≠ 67).
+2045 Glover, Levi 40 Perry vol 18 ED 99 sh 20 ln 87. Not Gilbert.
+2046 Glover, Lisa[?] 65 B Caldwell Princeton. Not Gilbert.
+2047 Glover, Lewis ~26 vol 71 ED 162[?] sh 3 ln 26. Not Gilbert.
+2048 Guilford, Lewisie[?] B 71 vol 89 ED 85 sh 11 ln 76. Not Gilbert.
+2049 Glover, Lewis 49 Hancock vol 33 ED 63 sh 11 ln 99. Not Gilbert.
+2050 Gilbert, Louise Mu 33 Fayette[?] vol 28 ED 63 sh 4 ln 39.
+     Color Mu. Female Louise. DISPROVED as Lewis 67 (sex/given name; 33 ≠ 67).
+2051 Glover, Lewis B ~10 vol 33 ED 63 sh 12 ln 1 (likely continuation of 2049). Not Gilbert.
+2052 Gilbert, Lewis H. Head W 53 Kentucky Jefferson Highland Park Kenworthie[?] 318
+     vol 43 ED 24 sh 10 ln 51. Wife Annie C 49 Tennessee; dau Lucille Daniel 7 Kentucky.
+     Form A-1. DISPROVED as original Lewis 67 (Jefferson ≠ Owsley; 53 ≠ 67;
+     Annie C 49 TN ≠ Indiana wife 58 of hh 14). Keeper plate.
+2053 Gilbert, Linnie 35 Lee vol 59 ED 116 sh 9 ln 85 — then Pass 82 2054 Linnie continuation.
+
+NIL Gilbert, Lewis ~67 Owsley vol 76 ED 92 as a G-416 head in 2038-2053.
+Combined with Pass 82 2054-2072 (Louis/Lou/Loyd), the Lewis/Louis/Loyd given-name
+block is image-closed. Original leaf 1156 Lewis 67 remains a Soundex miss.
+Hard Rule 6: original stands. Do not treat given-name nil as proof of death.

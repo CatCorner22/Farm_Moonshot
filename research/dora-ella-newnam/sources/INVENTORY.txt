@@ -2061,3 +2061,23 @@ research/dora-ella-newnam/sources/census/1880-lee-ky-ed59-sheet43-p768-caroline-
   sha256: 840c55444481bc152317cf1f0ab4ce36dc42b0debec13a0237fdf5a5bb8ee102
   format: text extract, 1,221 bytes
   check: Pass 82 coverage; catalog 139; Louis window closed
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-g416-p2043-gilbert-lewis-55-harlan.jpg
+  sha256: 05c072b74b557d4a756d246ceecf4ae3f830375658278c9e776ba256d171f46e
+  format: JPEG photo, 163,182 bytes
+  check: 1920 Soundex G-416 2043 Gilbert Lewis 55 Harlan A-2 DISPROVED as Lewis 67
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-g416-p2052-gilbert-lewis-h-53-jefferson.jpg
+  sha256: 0e3e002a352da5af03dddc6789b6690cece54f02b108b2d671717d590dbc7112
+  format: JPEG photo, 172,683 bytes
+  check: 1920 Soundex G-416 2052 Gilbert Lewis H 53 Jefferson DISPROVED as Lewis 67
+/workspace/research/dora-ella-newnam/sources/indexes/ky1920-g416-lewis-pass83.txt
+  sha256: bb18a525d1e784d8eb19592218d4c07df191c5d61216b4ca32e7c2bcc7c3737e
+  format: text extract, 2,498 bytes
+  check: 1920 G-416 Lewis denser nil Lewis 67 Owsley
+/workspace/research/dora-ella-newnam/sources/indexes/josephine-gilbert-pass83.txt
+  sha256: 05bf2d509f19c7a902229f4f9187b523a321e055f03337ad57a3996b45b9424c
+  format: text extract, 2,507 bytes
+  check: Josephine x Gilbert ~1902 Johnson nil/other; remaining 404s
+/workspace/research/dora-ella-newnam/sources/indexes/pass83-coverage.txt
+  sha256: a635d539a2c9f8de16bba7ca231d2f29b8b2f3c91c40806bb779bae0a5a9eed4
+  format: text extract, 1,264 bytes
+  check: Pass 83 coverage; catalog 141; Lewis given-name block closed

@@ -4036,6 +4036,54 @@ Pass 2: License still unseen. Do **not** treat extract-nil as a marriage.
 ### Facts extracted → claim IDs
 - Josephine remaining-county substitutes this pass nil/n/a → C887
 
+## DOC167 — 1920 Kentucky Soundex G-416 Lewis denser (Pass 83)
+
+- 2043: `sources/soundex/ky1920-g416-p2043-gilbert-lewis-55-harlan.jpg` SHA-256 `05c072b74b557d4a756d246ceecf4ae3f830375658278c9e776ba256d171f46e` (163,182 bytes, 1867×649)
+- 2052: `…p2052-gilbert-lewis-h-53-jefferson.jpg` `0e3e002a352da5af03dddc6789b6690cece54f02b108b2d671717d590dbc7112` (172,683 bytes, 1867×672)
+- Extract: `ky1920-g416-lewis-pass83.txt` SHA-256 `bb18a525d1e784d8eb19592218d4c07df191c5d61216b4ca32e7c2bcc7c3737e`
+- Provenance: NARA M1563 reel **59** / IA `soundex1920ky059` leaves **2038–2053**, opened 31 Oct 2026. **Image-seen** (zip-member JP2). Given-name sort.
+
+### Diplomatic — cited cards
+
+> **2043** G-416 **Gilbert, Lewis** A-2 W **55** Kentucky **Harlan** vol **35** ED **85** sheet **19** line **9**. ENUMERATED WITH **Napier, Cae[?]**. RELATIONSHIP TO ABOVE **Sister**. Form **A-2**. **DISPROVED** as original Buffalo Lewis 67.
+
+> **2052** G-416 **Gilbert, Lewis H.** Head W **53** Kentucky **Jefferson** Highland Park Kenworthie[?] **318** vol **43** ED **24** sheet **10** line **51**. **Gilbert, Annie C** W **49** Tennessee. **Lucille Daniel** D **7** Kentucky. Form **A-1**. **DISPROVED** as original Buffalo Lewis 67.
+
+> Window **2038–2053** also **DISPROVED**: **2041** Leslie C 57 Logan; **2044** Levi 21 Laurel; **2050** Louise Mu 33; **2040** Lester 17.
+
+Pass 2: Window **2038–2053** **nil** Gilbert, Lewis ~67 Owsley as a head. Combined with Pass 82 **2054–2072**, Lewis/Louis/Loyd given-name block **image-closed**. Original leaf **1156** exists — Soundex miss. Hard Rule 6: original Lewis stands. Do **not** treat given-name nil as proof of death.
+
+### Facts extracted → claim IDs
+- Lewis denser nil; original Lewis is a Soundex miss → C892
+- 2043 Lewis 55 Harlan DISPROVED → C893
+- 2052 Lewis H 53 Jefferson DISPROVED → C894
+- 2041/2044/2050 DISPROVED → C895
+
+## DOC168 — Josephine×Gilbert ~1902 substitutes (Pass 83)
+
+- Extract: `josephine-gilbert-pass83.txt` SHA-256 `05bf2d509f19c7a902229f4f9187b523a321e055f03337ad57a3996b45b9424c`
+- Coverage: `pass83-coverage.txt` `a635d539a2c9f8de16bba7ca231d2f29b8b2f3c91c40806bb779bae0a5a9eed4`
+- Provenance: KYGenWeb/USGenNet/IA HTML and JSON opened 31 Oct 2026. **HTML-seen**, not civil-register or T288 images.
+
+### Diplomatic — cited extracts
+
+> Johnson `190001JCMarr.htm` HTTP **200**: **1 Nov 1900** Joseph Brown **20** × **Josie Robertson 21**. **20 Jul 1900** Henry Sweeney **36** × **Josie Sweeney 21**. Other brides. **Nil** Josephine/Josie Newnam/Newman × Gilbert.
+
+> Johnson `JCMar1902.htm` HTTP **200** (118,058 bytes), title **1902 Johnson County Marriages**: string-**nil** Josephine/Josie/Newman/Newnam/Gilbert. `JCMar1903.htm` **200** same nil. RootsWeb JCMar* **403**.
+
+> Magoffin G/N, Laurel, Whitley, Pulaski, Clay marriage landings HTTP **404**. Owsley cemetery dir **200**: Gilbert.htm present; **no Cecil** href. `cecil.htm` **404**.
+
+> IA T288 title/collection **numFound 0**. KY DC 1916 Owsley **numFound 0**. Chronicling search **404**. TFKRHA SSL mismatch / **429**.
+
+Pass 2: License still unseen. Do **not** treat extract-nil as a marriage. Do **not** treat T288 numFound 0 as a pension-index reading.
+
+### Facts extracted → claim IDs
+- Josephine Johnson 1900–03 nil/other → C896
+- Magoffin/Laurel/Whitley/Pulaski/Clay 404 → C897
+- Cecil cemetery 404 → C898
+- T288 / 1916 DC IA / Chronicling / TFKRHA negatives → C899
+
+
 
 
 

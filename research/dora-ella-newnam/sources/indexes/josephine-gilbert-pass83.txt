@@ -1,0 +1,40 @@
+Pass 83 — Josephine Newnam × Gilbert ~1902 remaining substitutes
+Opened 31 Oct 2026 America/New_York. HTML-seen, not civil-register images.
+UA Mozilla/5.0 (compatible; genealogy-research/pass83; +https://archive.org)
+KYGenWeb Mod_Security: this UA returns 200; bare Mozilla/5.0 returns 226 Not Acceptable.
+
+Johnson kygenweb.net/johnson/marry.htm HTTP 200 (39,927 bytes): county landing.
+Johnson kygenweb.net/johnson/190001JCMarr.htm HTTP 200 (46,951 bytes): 1900-01 list.
+  Josie Robertson 21 × Joseph Brown 20, 1 Nov 1900 — other bride (Robertson ≠ Newnam).
+  Josie Sweeney 21 × Henry Sweeney 36, 20 Jul 1900 — other bride (Sweeney ≠ Newnam;
+  already-married surname). NIL Josephine/Josie Newnam/Newman × Gilbert.
+Johnson kygenweb.net/johnson/JCMar1902.htm HTTP 200 (118,058 bytes): title
+  "1902 Johnson County Marriages". String-nil Josephine/Josie/Newman/Newnam/Gilbert.
+Johnson kygenweb.net/johnson/JCMar1903.htm HTTP 200 (127,678 bytes): string-nil
+  Josephine/Josie/Newman/Newnam/Gilbert.
+RootsWeb sites.rootsweb.com/~kyjohnso/JCMar1900.htm, JCMar1901.htm, JCMar1902.htm,
+  JCMar1903.htm, JCMar1900-01.htm all HTTP 403 (2-byte bodies).
+
+Magoffin kygenweb.net/magoffin/g_marr.html, /marriages/g_marr.html, n_marr.html
+  HTTP 404 (1,543-byte error). kykinfolk Magoffin G/N SSL expired / empty.
+Laurel kygenweb.net/laurel/marriages.htm HTTP 404.
+Whitley kygenweb.net/whitley/marriages.htm HTTP 404.
+Pulaski kygenweb.net/pulaski/marriages.htm HTTP 404.
+Clay kygenweb.net/clay/marriages.htm HTTP 404.
+
+Owsley cemetery dir kygenweb.net/owsley/cemetery/ HTTP 200: Gilbert.htm present
+  (already C774); no Cecil href. cecil.htm / smcecil.htm / cecilgy.htm HTTP 404
+  (Lost in Kentucky 404 page).
+USGenNet usa/ky/county/owsley/cemeteries/ HTTP 200: no Cecil string.
+Find A Grave cemetery search Cecil / Cecil Cemetery Kentucky HTTP 403.
+
+IA advancedsearch title:(general index to pension files) numFound 0.
+IA "pension files" T288 collection:usnationalarchives numFound 0.
+IA kentucky death certificate 1916 owsley numFound 0.
+Chronicling America search JSON/HTML both HTTP 404 (Henry Newman 1916; Josephine Newman 1900-03).
+TFKRHA 1916 C / cemeteries: apex SSL hostname mismatch or HTTP 429; www SSL mismatch.
+WebSearch 1916 C snapshot is the same Rosenbalm extract already C709 — not a fourth extract.
+
+NIL Josephine/Josie Newnam/Newman × Gilbert ~1902 in these opened files.
+License unseen. Do not treat extract-nil as a marriage.
+Do not treat T288 numFound 0 as a pension-index reading.
