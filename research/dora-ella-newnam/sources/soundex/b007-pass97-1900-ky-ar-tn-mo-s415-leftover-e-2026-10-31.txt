@@ -1,0 +1,22 @@
+Pass 97 — 1900 S-415 leftover E (Edward→Francis) KY/AR/TN/MO
+Date: 31 Oct 2026 (America/New_York)
+Target C244. Hunt Letha/Letta/Lethia/Lettie/Litha/Viola/Lottie/Leta ~0–2.
+Do not merge. Hard Rule 3.
+
+Walks (card images seen; full reel PDFs not downloaded):
+  KY soundex1900ky161 n2620–2656
+  AR soundex1900ar107 n2476–2498
+  TN soundex1900tn153 n3851–3882 (n3874 one 502)
+  MO soundex1900mo248 n3203–3263 (n3209 / n3228 one 502 each)
+  IN leftover E already L611 / C715
+
+Hunt-adjacent REJECT vs C244:
+  KY Edwin + Lettie 5/12 already C570
+  KY Ell 34 KY + Gracie H 1 KY
+  KY Emanuel 27 TN + Lola 2 / Eva 3/12
+  AR Elias 51 TN + Dona 7 (age 7)
+  TN Ethel 2 (not Letha)
+  MO Evaline 41 + Lulu A 2 MO
+
+Verdict: leftover E closed on IN/KY/AR/TN/MO for C244 merge.
+Residual: IL leftover E n2038–2166 rotate -90; B049 film.

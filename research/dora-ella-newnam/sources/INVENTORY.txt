@@ -1106,3 +1106,5 @@ research/dora-ella-newnam/sources/newspapers/b049-pass97-1926-obit-storm-2026-10
   format: Pass 97 B049 1926 obituary free-source storm add (IA Solr + Pope live list + ASA index)
 research/dora-ella-newnam/sources/soundex/b007-pass97-1900-in-s415-leftover-e-2026-10-31.txt
   format: Pass 97 IN S-415 leftover-E (Edward→Francis) search log
+research/dora-ella-newnam/sources/soundex/b007-pass97-1900-ky-ar-tn-mo-s415-leftover-e-2026-10-31.txt
+  format: Pass 97 KY/AR/TN/MO S-415 leftover-E search log
