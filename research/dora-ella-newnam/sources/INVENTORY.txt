@@ -2514,3 +2514,92 @@ research/dora-ella-newnam/sources/census/1880-lee-ky-ed59-sheet43-p768-caroline-
   sha256: 2935d91f1211b75fc536907badf65e1d10f2f3988de870412331f03f97d79ea9
   format: JPEG photo, 52,593 bytes
   check: 1930 original ED 95-7 sh 1 A header Buck Creek recovered Robert H. Seale 2 Apr 1930
+
+/workspace/research/dora-ella-newnam/sources/indexes/pass93-coverage.txt
+  sha256: 2c27abc7637f40297cfa0de6e7fa58e786e6f06f9a301ccfcca28a5088cf7102
+  format: text extract, 2,821 bytes
+  check: Pass 93 coverage; catalog 157 was 156; remaining 1930 Owsley ED map completed; 95-1 Town closed
+/workspace/research/dora-ella-newnam/sources/indexes/owsley-1930-ed-map-pass93.txt
+  sha256: aaa7efdc8b3123eb753921c268bba524948d4541e7ba12d039ed5bd5ddb87a57
+  format: text extract, 5,203 bytes
+  check: 1930 remaining-Owsley ED map completed; 95-1 Town every-line; 95-2 cluster DISPROVED as John 85
+/workspace/research/dora-ella-newnam/sources/indexes/josephine-gilbert-pass93.txt
+  sha256: 216c085a43b7ba5200447eebc69c788ad256bed98aaf6e3dc26272881285a801
+  format: text extract, 3,432 bytes
+  check: Hopkins TT51/TT55/TT3 other/nil; Owsley dir gap 1879-1902; T288 unseen
+/workspace/research/dora-ella-newnam/sources/indexes/william-barrett-obit-1939-pass93.txt
+  sha256: 2e93f5dfdf3446d8973f61de2f8f9afe89a9a4ab3cfe377438cbe3bbb39a599f
+  format: text extract, 1,456 bytes
+  check: Owsley Courier 21 Apr 1939 William Barrett 79 DISPROVED as 1910 John 65
+/workspace/research/dora-ella-newnam/sources/census/1930-owsley-ed951-sh2a-hdr.jpg
+  sha256: 001425dbb520297587b17efb6f4b455e3c529a44c581db9cbfe3c7cae7692e6d
+  format: JPEG photo, 64,501 bytes
+  check: 1930 original ED 95-1 sh 2 A header Town of Booneville Charles C. Seale 8 Apr 1930
+/workspace/research/dora-ella-newnam/sources/census/1930-owsley-ed951-sh2a-names.jpg
+  sha256: 1673bfde4e81c9dce3f8697781fdbae2e7be364cceff3ca47c4f45e371fd6a95
+  format: JPEG photo, 332,788 bytes
+  check: 1930 original ED 95-1 sh 2 A names Barrett A.W. and Lewis
+/workspace/research/dora-ella-newnam/sources/census/1930-owsley-ed951-sh2a-hh26-barrett-aw.jpg
+  sha256: e7175778b43a1b0fae234df5f4accc9f05f6d747125ac4f99924db70677fcc8c
+  format: JPEG photo, 62,637 bytes
+  check: 1930 original ED 95-1 sh 2 A dw 26 Barrett A.W. 45 x Mattie DISPROVED as John 85
+/workspace/research/dora-ella-newnam/sources/census/1930-owsley-ed951-sh2a-ln32-barrett-lewis.jpg
+  sha256: b930fa3793f5351b74474c52608ca47dc39b753c2498576af6c97777c2a21284
+  format: JPEG photo, 48,870 bytes
+  check: 1930 original ED 95-1 sh 2 A ln 32 Barrett Lewis 22 son DISPROVED as John 85
+/workspace/research/dora-ella-newnam/sources/census/1930-owsley-ed951-sh2b-hdr.jpg
+  sha256: 1adad8c13fd8615cdbb446cd1c53c6fda1b9621ac11a247552f0a73e46e8e900
+  format: JPEG photo, 58,068 bytes
+  check: 1930 original ED 95-1 sh 2 B header Town of Booneville
+/workspace/research/dora-ella-newnam/sources/census/1930-owsley-ed951-sh2b-names.jpg
+  sha256: 443e38258b80917f30efe67807e5150518449a27203036878ae3ab47915d27d7
+  format: JPEG photo, 314,610 bytes
+  check: 1930 original ED 95-1 sh 2 B names Beckner Leonard and Fred
+/workspace/research/dora-ella-newnam/sources/census/1930-owsley-ed951-sh2b-hh40-beckner-leonard-fred.jpg
+  sha256: 12a2942d44de61577f3a031f9c8f1f26aa1158a0314e578b81b19775feffd790
+  format: JPEG photo, 88,104 bytes
+  check: 1930 original ED 95-1 sh 2 B dw 40-41 Beckner Leonard 42 / Fred 21 DISPROVED as Barrett
+/workspace/research/dora-ella-newnam/sources/census/1930-owsley-ed951-sh3b-hdr.jpg
+  sha256: aa23ad466dc68e4cda464d2bf20a94cc2dc403728762bd7efb94e41b142e4771
+  format: JPEG photo, 63,863 bytes
+  check: 1930 original ED 95-1 sh 3 B header last populated Town sheet
+/workspace/research/dora-ella-newnam/sources/census/1930-owsley-ed952-sh11b-hdr.jpg
+  sha256: 954e1381d0aed3c29a215ac46246060bdb1a3cbf4c73db610cd4ead766ebc091
+  format: JPEG photo, 57,003 bytes
+  check: 1930 original ED 95-2 sh 11 B header Charles C. Seale about 9 Apr 1930
+/workspace/research/dora-ella-newnam/sources/census/1930-owsley-ed952-sh11b-hh228-barrett-robert.jpg
+  sha256: bd453c41f075fbf04090083e737cb70480e5614c76cf7b18d6f6f4fc01b95572
+  format: JPEG photo, 78,457 bytes
+  check: 1930 original ED 95-2 sh 11 B dw 228 Barrett Robert 41 x Kate DISPROVED as John 85
+/workspace/research/dora-ella-newnam/sources/census/1930-owsley-ed952-sh12a-hdr.jpg
+  sha256: 432360807a4a122865bdfbd8d54346ee418fdb8e75f8443c1e33ca32dc2176ef
+  format: JPEG photo, 62,929 bytes
+  check: 1930 original ED 95-2 sh 12 A header Charles C. Seale 14 Apr 1930
+/workspace/research/dora-ella-newnam/sources/census/1930-owsley-ed952-sh12a-names.jpg
+  sha256: 52f72e863ee8448581e580c6c1f6f20534e4430f8c047e7f0eb42aa6bd372d45
+  format: JPEG photo, 315,210 bytes
+  check: 1930 original ED 95-2 sh 12 A names Hayden through Charley
+/workspace/research/dora-ella-newnam/sources/census/1930-owsley-ed952-sh12a-barrett-cluster.jpg
+  sha256: e440aa7b0d3a704940fec7b11a5e3e843073d15b4c43ea1a61abbbe8f1bf4d92
+  format: JPEG photo, 154,486 bytes
+  check: 1930 original ED 95-2 sh 12 A Barrett Hayden Robert 28 Hiram Charley DISPROVED as John 85
+/workspace/research/dora-ella-newnam/sources/census/1930-owsley-ed952-sh12b-hh247-barrett-george.jpg
+  sha256: 2dcf65f692c2fb23d6dc28817b0e87691e3835f0a3fd27c5142e600d3da72012
+  format: JPEG photo, 81,324 bytes
+  check: 1930 original ED 95-2 sh 12 B dw 247 Barrett George 37 x Rosie 37 DISPROVED as Walker 38 and as John 85
+/workspace/research/dora-ella-newnam/sources/census/1930-owsley-ed953-sh1a-hdr.jpg
+  sha256: 83ee32b5f9c4eaa720600bb348ebd3a1f3faed817bb7d7dd7c41717cd45f4e9b
+  format: JPEG photo, 65,126 bytes
+  check: 1930 original ED 95-3 sh 1 A header Sturgeon Blaine Wilson
+/workspace/research/dora-ella-newnam/sources/census/1930-owsley-ed954-sh1a-hdr.jpg
+  sha256: 9f61fd1292ce556fbd476d354db5946e889700d16a61eb1b514883322b7f47ac
+  format: JPEG photo, 63,396 bytes
+  check: 1930 original ED 95-4 sh 1 A header Island Creek Joseph T. Minger 4 Apr 1930
+/workspace/research/dora-ella-newnam/sources/census/1930-owsley-ed955-sh1a-hdr.jpg
+  sha256: 812c685fdaddf4072827f0e006bd30a73c794cce80cb50f1c20467e554ba2dac
+  format: JPEG photo, 64,187 bytes
+  check: 1930 original ED 95-5 sh 1 A header Cow Creek Bennie G. Wilson 2 Apr 1930
+/workspace/research/dora-ella-newnam/sources/census/1930-owsley-ed958-sh1a-hdr.jpg
+  sha256: 4ab9e49f7a2587c06c233a39815bfe19553f1ebd9eaff6a47e49817d1d60a403
+  format: JPEG photo, 64,911 bytes
+  check: 1930 original ED 95-8 sh 1 A header Wild Dog Shirley Mainous 3 Apr 1930

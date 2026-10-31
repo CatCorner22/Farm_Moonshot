@@ -1,0 +1,89 @@
+Pass 93 — 1930 T626-773 complete remaining-Owsley ED map + 95-1 every-line + 95-2 cluster
+IA item kentuckycensus00reel773. Images seen 31 Oct 2026. Working JP2s not retained.
+Name-column working files from Pass 92 (/tmp/pass92/names leaves 528–635 and 650–684).
+
+ED map (headers two-passed):
+- Leaves 528–533: ED 95-1 Town of Booneville sh 1 A–3 B.
+  528 sh 1 A enum. John C. Seale, 8 Apr 1930 (Pass 92).
+  530 sh 2 A enum. Charles C. Seale, 8 Apr 1930.
+  531 sh 2 B enum. Charles C. Seale, 8 Apr 1930.
+  533 sh 3 B enum. Charles C. Seale, 8 Apr 1930. Last populated Town sheet
+  (Wilson, Thomas 24 × Callie + Mabel L only).
+- Leaves 534–569: ED 95-2 Booneville Mag Dist 1.
+  534 sh 1 A enum. Charles C. Seale, 8 Apr 1930.
+  541 sh 4 B Barrett Walker 38 (Pass 92).
+  555 sh 11 B enum. Charles C. Seale, 9 Apr 1930.
+  556 sh 12 A enum. Charles C. Seale, 14 Apr 1930.
+  569 still 95-2 (enum. Montgomery Williams on that closer header).
+- Leaves 570–591: ED 95-3 Sturgeon #2.
+  570 sh 1 A enum. Blaine Wilson.
+  582–583 sh 7 A/7 B (OCR hits; no Barrett head).
+  591 sh 12 B enum. Blaine Wilson, 4 Apr 1930. "Here Ends."
+- Leaves 592–611: ED 95-4 Island Creek Mag Dist 3 sh 1 A–10 B.
+  592 sh 1 A enum. Joseph T. Minger, 4 Apr 1930.
+  607 sh 8 B (Pass 92 Byrdah/Ollie daughters).
+  611 sh 10 B enum. Joseph T. Minger.
+- Leaves 612–635: ED 95-5 Cow Creek Mag Dist 4 sh 1 A–12 B.
+  612 sh 1 A enum. Bennie G. Wilson, 2 Apr 1930.
+  620 sh 5 A.
+  635 sh 12 B enum. Bennie G. Wilson, 22 Apr 1930.
+- Leaves 636–648: ED 95-6 Buffalo already image-closed Pass 91.
+- Leaves 650–668: ED 95-7 Buck Creek Mag Dist 6 sh 1 A–10 A.
+  650 sh 1 A enum. Robert H. Seale, 2 Apr 1930 (Pass 92 recovered).
+  668 sh 10 A enum. Robert H. Seale, June date unread in full.
+  669 unused B header.
+- Leaves 670–680: ED 95-8 Wild Dog Mag Dist 7 sh 1 A–6 A.
+  670 sh 1 A enum. Shirley Mainous, 3 Apr 1930.
+  680 sh 6 A enum. Shirley Mainous, 24 Apr 1930.
+  681 unused B header.
+
+95-1 Town of Booneville every-line (leaves 528–533):
+- 528 sh 1 A: nil Barrett head (Pass 92).
+- 529 sh 1 B: Seale / Beuler / McClintock / Ruff / Taylor / Hogg / Brandenburg
+  (Ollie G. son 13 of Frank Brandenburg, not Barrett Ollie) / Reynolds / Wolf J.J.
+  Head 51 (wife Ollie continues on 530). Nil Barrett.
+- 530 sh 2 A ln 8 dw 26/26 Barrett, A.W. Head 45 m × Mattie 43 + Moffet 18 +
+  Ralph 16 + Monroe 11. Owns $5000. DISPROVED as John ~85 (age 45; Mattie ≠ Susan).
+  Not merged with Buffalo James 45 × Ollie (Mattie ≠ Ollie; children Moffet/Ralph/Monroe
+  ≠ Minnie/Pearl/Virgie/Martha/Horton).
+  Ln 32 Barrett, Lewis son 22 in dw 31/31 Wilson, Thomas Head 57, with lodgers
+  Bowman Brewster 23 / Judd Grant 21 / Miller John B 38. DISPROVED as John ~85.
+  Stepson-of-Wilson is POSSIBLE only (surname Barrett + relation son).
+  Ln 1 Wolf, Ollie Wife — continuation of J.J. Wolf, not Barrett.
+- 531 sh 2 B ln 78 dw 40/40 Beckner, Leonard Head 42 × Mary 39 + Everett 13 +
+  Robert 7 + Ole Mae 3 8/12 + Lucy L 4/12. Ln 84 dw 41/41 Beckner, Fred Head 21 ×
+  Jessie 16. Hard Rule 6: Beckner ≠ Barrett. DISPROVED as Barrett.
+- 532 sh 3 A: Herald / Bowman / Long / Brandenburg / Gose / Adams / Harvey / Young /
+  Gross / Herd / Seale / Spencer / Harris Ellis. Margin "Barnett-Patterson" street.
+  Nil Barrett head.
+- 533 sh 3 B: Wilson, Thomas 24 × Callie + Mabel L only. Nil Barrett.
+
+95-2 cited cluster (not every-line of the whole Mag Dist):
+- 555 sh 11 B ln 62 dw 228/228 Barrett, Robert Head 41 m × Kate 40 + Sam 16 +
+  John 14 (son) + Sarah C 12 + James 8 + Forester 6 + Charlena 2 6/12 + Nettie 1 2/12.
+  Son John 14 ≠ John ~85. DISPROVED as 1910 John 65.
+- 556 sh 12 A:
+  dw 239 Barrett, Hayden 32 × Eva 29 + Roy 8 + Everett L 6 + Virgle 3 7/12 + Eulalia M 4/12.
+  dw 240 Barrett, Robert 28 × Laura 21 + Clarence 6 + Pauline 2 6/12.
+    Not merged with Robert 41 × Kate (age 28≠41; Laura≠Kate; own children).
+  dw 241 Barrett, Hiram 34 × Lillie 33 + James 14 + Calvert 12 + Ika 9 + Willard 6 +
+    Thomas 3 + Mary 2 3/12.
+  dw 243 Barrett, Charley 35 × Martha 25 + Dollie 14 + Bertha 12 + Julia 10 +
+    Effie 8 + Hazel 6 + Herman 4 6/12. Dollie/Effie ≠ Barrett Ollie 34.
+- 557 sh 12 B dw 247/247 Barrett, George Head 37 × Rosie 37 + Luther 17 + Birdie 14 +
+  Ada 13 + Edna 11 + Harris 9 + Charley 7 + Cintha 5 + Lee 3 6/12.
+  NOT merged with Walker 38 × Rosie 32 (C988): Rosie 37≠32; children Luther/Birdie/Ada/…
+  ≠ Daily/Stella/Fred/Berlin/Marie/Geneva. DISPROVED as John ~85.
+
+95-3 cited OCR hits:
+- 582 sh 7 A: Hudson, Theo × Martha + daughter Susan 31. Hudson ≠ Barrett.
+  DISPROVED as Barrett Susan ~78.
+- 583 sh 7 B: Chadwell / Callahan / Morris / Childs / Clontz / Hodge / Wilson.
+  Nil Barrett head.
+- 591 sh 12 B: Taylor / Brewer / Stacy Newton × Olla / Lynch / "Here Ends".
+  Olla/Olive/Ola are other houses. Nil Barrett head.
+
+Residual: remaining 95-2 sheets after 1 B / 4 B / 11 B–12 B; remaining 95-3 after
+7 A/7 B/12 B; entire 95-4 after 8 B; entire 95-5; entire 95-7 after 1 A header;
+95-8 after opener and 6 A header. Do not treat county-wide nil Barrett John/Susan
+as proved. ED 95-6 Buffalo remains the closed 1930 district for James × Ollie (C981).

@@ -1,0 +1,27 @@
+Pass 93 — Owsley County Courier Friday 21 Apr 1939, William Barrett authored obit
+HTML-seen 31 Oct 2026. Debi Houser Kendrick, USGenNet Owsley obituaries.
+Not a civil register. Original newspaper page unseen. Working HTML
+/tmp/pass93/html2/wbarr.bin SHA-256
+cb98d02cfc7121a6548d3da73105de6b164dd6a14d5b78fa0fdc07611596f2ff
+(4,005 bytes). Not committed.
+
+Diplomatic (HTML-seen; spellings as published):
+
+Owsley County Courier, Friday, April 21, 1939
+Rites Held For William Barrett
+William BARRETT, age 79, died at the home of his daughter, Mrs. Leno
+COMBS at Oil, Ky, Thursday, April 13. Death was due to heart trouble.
+Funeral services were conducted Saturday by the Rev. Charlie KINCAID.
+Enterment was in the family cemetery near Hopewell.
+Survivers are: two sons, Walker and Fred of Clay City; two daughters,
+Mrs. Leno COMBS, Oil, and Mrs. Charlie KINCAID, Zoe, and one brother,
+John Bell BARRETT, Beattyville.
+
+DISPROVED as 1910 Barrett John 65 (decedent is William; age 79 in 1939
+is ~70 in 1930 not ~85; brother John Bell of Beattyville unmerged).
+Walker-as-son of this William is POSSIBLE FAN of 1930 dw 85 Barrett
+Walker 38 (Clay City 1939 vs Owsley 1930); not merged (one given-name
+identifier; wife/children unnamed in the obit).
+Lee 1939 DC extract William Barrett 79 father John × Mary Ann Roberts
+(C973) is a different derivative; not silently merged with this Courier
+row (Lee extract vs Oil KY; no shared burial/son names on the extract).

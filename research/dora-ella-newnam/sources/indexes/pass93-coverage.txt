@@ -1,0 +1,43 @@
+Pass 93 coverage — 31 Oct 2026 (America/New_York)
+This run bc-01a18bb4-e162-785c-9724-86a7c5663bf1
+Catalog list-cloud-agents includeArchived limit 200 → 157 / hasMore false / totalMatched 157.
+Was 156. NEW vs 156 (1; no IDs imported): Continue Dora genealogy RUNNING
+(https://cursor.com/agents/bc-7eb25736-d3e3-510a-83d6-9535752f0297).
+Status-only: Read IL Pass 94 sheets still RUNNING; TN/AR/KY Pass 94 IDLE
+(already noted at Pass 92 closeout).
+Dora location search still WAITING_FOR_BACKGROUND_WORK (PR #31).
+Dora 1840 Clark B059 still RUNNING. Nested reviewer not respawned.
+Sibling PR #33 C281 not imported. Skip C221–C280 / L245–L342 / S259–S266.
+Do not mint C274–C280. Do not promote C509. Do not hunt D-540. Do not close B063.
+
+Work this pass:
+- Complete 1930 T626-773 remaining-Owsley ED map from two-passed headers:
+  95-1 Town of Booneville leaves 528–533 (1 A–3 B);
+  95-2 Booneville Mag Dist 1 leaves 534–569;
+  95-3 Sturgeon #2 leaves 570–591;
+  95-4 Island Creek Mag Dist 3 leaves 592–611 (1 A–10 B);
+  95-5 Cow Creek Mag Dist 4 leaves 612–635 (1 A–12 B);
+  95-6 Buffalo 636–648 already closed Pass 91;
+  95-7 Buck Creek Mag Dist 6 leaves 650–668 (1 A–10 A), 669 unused B;
+  95-8 Wild Dog Mag Dist 7 leaves 670–680 (1 A–6 A), 681 unused B.
+- 95-1 Town of Booneville every-line visual two-pass: Barrett, A.W. 45 × Mattie HIT
+  DISPROVED as John 85; Barrett, Lewis 22 son in Wilson, Thomas 57 house DISPROVED;
+  Beckner, Leonard 42 / Fred 21 DISPROVED as Barrett (Hard Rule 6).
+- 95-2 sh 11 B dw 228 Barrett, Robert 41 × Kate + son John 14 DISPROVED as John 85.
+  Sh 12 A dw 239–243 Barrett Hayden 32 / Robert 28 / Hiram 34 / Charley 35 DISPROVED.
+  Sh 12 B dw 247 Barrett, George 37 × Rosie 37 DISPROVED as Walker 38 × Rosie 32
+  (Hard Rule 3) and as John 85.
+- 95-3 sh 7 A Hudson daughter Susan 31 DISPROVED as Barrett Susan 78; sh 7 B / 12 B
+  nil Barrett head.
+- Remaining 95-2 (except cited), 95-3 (except 7 A/7 B/12 B), 95-4, 95-5, 95-7, 95-8
+  are NOT every-line image-closed. OCR hunt aid only (6 hit files, all visually resolved).
+- Josephine: Hopkins TT51 other Josies; TT55 nil; TT3 Newman Mattie / other Josies;
+  Owsley marriages dir re-opened (gap 1879–1902 confirmed; 1903-4 nil Josephine×Gilbert);
+  Christian/McCracken/Henderson/Muhlenberg/Warren/Union/Jefferson books 404 or stub.
+- IA T288 title / Fold3 collection / "General Index to Pension Files 1861" numFound 0.
+  NARA catalog HTML, not the microfilm. T288 unseen.
+- Owsley Courier 21 Apr 1939 authored obit: William Barrett 79 d. 13 Apr 1939;
+  sons Walker and Fred of Clay City; brother John Bell Barrett, Beattyville.
+  DISPROVED as 1910 John 65. Walker-as-son of this William POSSIBLE FAN only.
+
+B061 / B063 remain open. Next unused after this pass: C1010+ / L882+ / S703+ / DOC205+.

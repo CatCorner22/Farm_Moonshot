@@ -4808,3 +4808,107 @@ Pass 2: License still unseen. Do **not** invent T288 contents. Do **not** promot
 - Hopkins TT52–54 / Webster 1860–1900 other/nil → C993
 - T288 still unseen → C994
 - B061 remaining gap → C996
+
+## DOC200 — Catalog + Pass 93 coverage
+
+- Extract: `pass93-coverage.txt` SHA-256 `2c27abc7637f40297cfa0de6e7fa58e786e6f06f9a301ccfcca28a5088cf7102`
+- Provenance: Cursor `list-cloud-agents` includeArchived limit 200, 31 Oct 2026. This run `bc-01a18bb4-e162-785c-9724-86a7c5663bf1`.
+
+### Diplomatic — catalog
+
+> **157** / `hasMore: false` / `totalMatched: 157`. Was **156**. NEW vs 156 (1; **no IDs imported**): Continue Dora genealogy RUNNING. Status-only: IL Pass 94 sheets still RUNNING; TN/AR/KY Pass 94 IDLE. Dora location search still **WAITING_FOR_BACKGROUND_WORK**. Nested reviewer **not** respawned. Sibling C281 **not imported**.
+
+Pass 2: Process count only. **No** new independently image-backed P001 1900–1926 residence. Skip **C221–C280**. Do **not** promote C509.
+
+### Facts extracted → claim IDs
+- catalog 157 was 156; NEW 1 not imported → C997
+- B063 remaining gap → C1008
+- B061 remaining gap → C1009
+
+## DOC201 — 1930 remaining-Owsley ED map + 95-1 Town every-line (Pass 93)
+
+- Extract: `owsley-1930-ed-map-pass93.txt` SHA-256 `aaa7efdc8b3123eb753921c268bba524948d4541e7ba12d039ed5bd5ddb87a57`
+- JPEGs: `1930-owsley-ed951-sh2a-hdr.jpg` `001425dbb520297587b17efb6f4b455e3c529a44c581db9cbfe3c7cae7692e6d`; `…sh2a-names.jpg` `1673bfde4e81c9dce3f8697781fdbae2e7be364cceff3ca47c4f45e371fd6a95`; `…sh2a-hh26-barrett-aw.jpg` `e7175778b43a1b0fae234df5f4accc9f05f6d747125ac4f99924db70677fcc8c`; `…sh2a-ln32-barrett-lewis.jpg` `b930fa3793f5351b74474c52608ca47dc39b753c2498576af6c97777c2a21284`; `…sh2b-hdr.jpg` `1adad8c13fd8615cdbb446cd1c53c6fda1b9621ac11a247552f0a73e46e8e900`; `…sh2b-names.jpg` `443e38258b80917f30efe67807e5150518449a27203036878ae3ab47915d27d7`; `…sh2b-hh40-beckner-leonard-fred.jpg` `12a2942d44de61577f3a031f9c8f1f26aa1158a0314e578b81b19775feffd790`; `…sh3b-hdr.jpg` `aa23ad466dc68e4cda464d2bf20a94cc2dc403728762bd7efb94e41b142e4771`; `…ed953-sh1a-hdr.jpg` `83ee32b5f9c4eaa720600bb348ebd3a1f3faed817bb7d7dd7c41717cd45f4e9b`; `…ed954-sh1a-hdr.jpg` `9f61fd1292ce556fbd476d354db5946e889700d16a61eb1b514883322b7f47ac`; `…ed955-sh1a-hdr.jpg` `812c685fdaddf4072827f0e006bd30a73c794cce80cb50f1c20467e554ba2dac`; `…ed958-sh1a-hdr.jpg` `4ab9e49f7a2587c06c233a39815bfe19553f1ebd9eaff6a47e49817d1d60a403`
+- Provenance: NARA T626 reel **773**; IA `kentuckycensus00reel773`. **Images seen** 31 Oct 2026. Entire ED **95-6** already image-closed Pass 91.
+
+### Diplomatic — cited originals
+
+> Leaves **528–533** ED **95-1** Town of Booneville sh **1 A–3 B**; **534–569** ED **95-2** Booneville Mag Dist **1**; **570–591** ED **95-3** Sturgeon #2; **592–611** ED **95-4** Island Creek Mag Dist **3** sh **1 A–10 B**; **612–635** ED **95-5** Cow Creek Mag Dist **4** sh **1 A–12 B**; **650–668** ED **95-7** Buck Creek Mag Dist **6** sh **1 A–10 A** (**669** unused B); **670–680** ED **95-8** Wild Dog Mag Dist **7** sh **1 A–6 A** (**681** unused B).
+
+> Leaf **530**, ED **95-1**, Sheet **2 A**, enum. **Charles C. Seale**, **8 Apr 1930**. Ln **8** dw **26/26 Barrett, A.W.** Head R m W **45** m. **Mattie** Wife **43** m. **Moffet** Son **18**. **Ralph** Son **16**. **Monroe** Son **11**. Owns **$5000**. Ln **32 Barrett, Lewis** Son **22** in dw **31/31 Wilson, Thomas** Head **57**, with lodgers Bowman Brewster **23** / Judd Grant **21** / Miller John B **38**.
+
+> Leaf **531**, ED **95-1**, Sheet **2 B**. Ln **78** dw **40/40 Beckner, Leonard** Head **42** × Mary **39** + Everett **13** + Robert **7** + Ole Mae **3 8/12** + Lucy L **4/12**. Ln **84** dw **41/41 Beckner, Fred** Head **21** × Jessie **16**. First-pass “Barrett” **withdrawn**. Hard Rule 6: **Beckner**.
+
+> Leaf **533**, ED **95-1**, Sheet **3 B**: Wilson, Thomas **24** × Callie + Mabel L only. Last populated Town sheet. **Nil** Barrett head.
+
+> Leaf **582**, ED **95-3** sh **7 A**: Hudson, Theo × Martha + daughter **Susan 31**. Hudson ≠ Barrett.
+
+> Leaf **570**, ED **95-3** sh **1 A**, enum. **Blaine Wilson**. Leaf **592**, ED **95-4** sh **1 A**, enum. **Joseph T. Minger**, **4 Apr 1930**. Leaf **612**, ED **95-5** sh **1 A**, enum. **Bennie G. Wilson**, **2 Apr 1930**. Leaf **670**, ED **95-8** sh **1 A**, enum. **Shirley Mainous**, **3 Apr 1930**.
+
+Pass 2: A.W. **45** is a separate house. Town of Booneville is **image-closed**. Remaining **95-2 / 95-3 / 95-4 / 95-5 / 95-7 / 95-8** sheets after the cited two-pass are **not** every-line image-closed. Do not close B063.
+
+### Facts extracted → claim IDs
+- remaining Owsley ED map completed → C998
+- 95-1 Town every-line A.W. / Lewis / Beckner DISPROVED → C999
+- remaining EDs not every-line closed → C1003
+- 95-3 Hudson Susan 31 DISPROVED → C1004
+
+## DOC202 — 1930 ED 95-2 sh 11 B–12 B Barrett cluster (Pass 93)
+
+- Extract: same `owsley-1930-ed-map-pass93.txt` SHA-256 `aaa7efdc8b3123eb753921c268bba524948d4541e7ba12d039ed5bd5ddb87a57`
+- JPEGs: `1930-owsley-ed952-sh11b-hdr.jpg` `954e1381d0aed3c29a215ac46246060bdb1a3cbf4c73db610cd4ead766ebc091`; `…sh11b-hh228-barrett-robert.jpg` `bd453c41f075fbf04090083e737cb70480e5614c76cf7b18d6f6f4fc01b95572`; `…sh12a-hdr.jpg` `432360807a4a122865bdfbd8d54346ee418fdb8e75f8443c1e33ca32dc2176ef`; `…sh12a-names.jpg` `52f72e863ee8448581e580c6c1f6f20534e4430f8c047e7f0eb42aa6bd372d45`; `…sh12a-barrett-cluster.jpg` `e440aa7b0d3a704940fec7b11a5e3e843073d15b4c43ea1a61abbbe8f1bf4d92`; `…sh12b-hh247-barrett-george.jpg` `2dcf65f692c2fb23d6dc28817b0e87691e3835f0a3fd27c5142e600d3da72012`
+- Provenance: NARA T626 reel **773**; IA `kentuckycensus00reel773`. **Images seen** 31 Oct 2026. Enumerator **Charles C. Seale**.
+
+### Diplomatic — cited originals
+
+> Leaf **555**, ED **95-2**, Sheet **11 B**, ~**9 Apr 1930**. Ln **62** dw **228/228 Barrett, Robert** Head R m W **41** m. **Kate** Wife **40** m. **Sam** Son **16**. **John** Son **14**. **Sarah C** Daughter **12**. **James** Son **8**. **Forester** Son **6**. **Charlena** Daughter **2 6/12**. **Nettie** Daughter **1 2/12**.
+
+> Leaf **556**, ED **95-2**, Sheet **12 A**, **14 Apr 1930**. Dw **239 Barrett, Hayden** **32** × Eva **29** + Roy **8** + Everett L **6** + Virgle **3 7/12** + Eulalia M **4/12**. Dw **240 Barrett, Robert** **28** × Laura **21** + Clarence **6** + Pauline **2 6/12**. Dw **241 Barrett, Hiram** **34** × Lillie **33** + James **14** + Calvert **12** + Ika **9** + Willard **6** + Thomas **3** + Mary **2 3/12**. Dw **243 Barrett, Charley** **35** × Martha **25** + Dollie **14** + Bertha **12** + Julia **10** + Effie **8** + Hazel **6** + Herman **4 6/12**.
+
+> Leaf **557**, ED **95-2**, Sheet **12 B**. Dw **247/247 Barrett, George** Head **37** × **Rosie** Wife **37** + Luther **17** + Birdie **14** + Ada **13** + Edna **11** + Harris **9** + Charley **7** + Cintha **5** + Lee **3 6/12**.
+
+Pass 2: Robert **28** is not Robert **41**. George × Rosie **37** is not Walker × Rosie **32**. OCR missed Robert **41** and George. Remaining **95-2** sheets after **1 B / 4 B / 11 B–12 B** are **not** every-line image-closed. Do not close B063.
+
+### Facts extracted → claim IDs
+- Robert 41 × Kate + son John 14 DISPROVED as John 85 → C1000
+- Hayden / Robert 28 / Hiram / Charley DISPROVED → C1001
+- George 37 × Rosie 37 DISPROVED as Walker 38 and as John 85 → C1002
+
+## DOC203 — Josephine remaining + T288 (Pass 93)
+
+- Extract: `josephine-gilbert-pass93.txt` SHA-256 `216c085a43b7ba5200447eebc69c788ad256bed98aaf6e3dc26272881285a801`
+- Coverage: `pass93-coverage.txt` `2c27abc7637f40297cfa0de6e7fa58e786e6f06f9a301ccfcca28a5088cf7102`
+- Provenance: KYGenWeb / USGenNet HTML (Hopkins TT51/TT55/TT3; Owsley marriages directory), IA advancedsearch, NARA catalog HTML. Opened 31 Oct 2026. **HTML-seen / access-fail**, not a ~1902 civil register. License unseen. Original 1916 DC face unseen. T288 unseen.
+
+### Diplomatic — cited extracts
+
+> Hopkins TT51 (1898–1899): Gilliland, Josie E.; Pemberton, Josie; Lenning, Josie. **Other** brides. TT55 (1903–1904): **nil** Josephine / Josie / Gilbert / Newman / Newnam. TT3 (Black marriages 1898–1902): Newman, Mattie **other**; Morton/McNichols/Williams/Hardy/French/Raymond Josie **other**.
+
+> Owsley marriages directory: year files **1853, 1854, 1858, 1859, 1874, 1876, 1877, 1878, 1903-4, 1908a/b, 1909a/b, 1910a/b, 1973**. **GAP 1879–1902** (no year file; books burned). 1903-4: bride **Manerva NEWMAN** resides Owsley (**other**; Henry H. still living until 1916). Groom **Gilbert HARRIS** (Gilbert is a given name). **Nil** Josephine Newnam × Gilbert.
+
+> Christian / McCracken / Henderson / Muhlenberg / Warren / Union / Jefferson books **404** or stub.
+
+> IA T288 title **numFound 2**, both garbage (iSkyPhone; Lara T288 favorites), **not** NARA T288. Newman/Newnam/Barrett × T288 **numFound 0**. Fold3 collection T288 **numFound 0**. NARA catalog.archives.gov/id/563 HTML, not the microfilm.
+
+Pass 2: License still unseen. Do **not** invent T288 contents. Do **not** promote C509. Do not close B063.
+
+### Facts extracted → claim IDs
+- Hopkins TT51/TT55/TT3 / Owsley dir remaining nil/other → C1005
+- T288 still unseen → C1006
+- B061 remaining gap → C1009
+
+## DOC204 — Owsley County Courier 21 Apr 1939 William Barrett obit (Pass 93)
+
+- Extract: `william-barrett-obit-1939-pass93.txt` SHA-256 `2e93f5dfdf3446d8973f61de2f8f9afe89a9a4ab3cfe377438cbe3bbb39a599f`
+- Working HTML: `/tmp/pass93/html2/wbarr.bin` SHA-256 `cb98d02cfc7121a6548d3da73105de6b164dd6a14d5b78fa0fdc07611596f2ff` (4,005 bytes; **not committed**)
+- Provenance: Debi Houser Kendrick, USGenNet Owsley obituaries. **HTML-seen** 31 Oct 2026. Original newspaper page unseen.
+
+### Diplomatic — cited extract
+
+> *Owsley County Courier*, Friday, April 21, 1939. **Rites Held For William Barrett.** William BARRETT, age **79**, died at the home of his daughter, Mrs. Leno COMBS at Oil, Ky, Thursday, April **13**. Death was due to heart trouble. Funeral services were conducted Saturday by the Rev. Charlie KINCAID. Enterment was in the family cemetery near Hopewell. Survivers are: two sons, **Walker** and **Fred** of Clay City; two daughters, Mrs. Leno COMBS, Oil, and Mrs. Charlie KINCAID, Zoe, and one brother, **John Bell BARRETT**, Beattyville.
+
+Pass 2: Decedent is William, not John. Age 79 in 1939 is ~70 in 1930, not ~85. Walker-as-son is **POSSIBLE** FAN of 1930 dw **85** Barrett Walker **38** only — one given-name identifier; Clay City 1939 vs Owsley 1930; wife/children unnamed. Lee 1939 DC extract (**C973**) **not silently merged**. Do not close B063.
+
+### Facts extracted → claim IDs
+- William Barrett 79 DISPROVED as 1910 John 65; Walker POSSIBLE FAN only → C1007
+- B063 remaining gap → C1008

@@ -1,0 +1,54 @@
+Pass 93 — Josephine Newnam × Gilbert ~1902 remaining substitutes + T288 + 1939 Barrett obit
+Opened 31 Oct 2026. HTML-seen / access-fail, not a ~1902 civil register.
+License unseen. Original 1916 DC face unseen. T288 unseen.
+
+Hopkins County KYGenWeb marriage books (beyond Pass 92 TT52–54):
+- TT51 (1898–1899) OPENED: Gilliland, Josie E.; Pemberton, Josie; Lenning, Josie.
+  Other brides. DISPROVED as Josephine Newnam × Gilbert. n/a as a 1902 license.
+- TT55 (1903–1904) OPENED: nil Josephine / Josie / Gilbert / Newman / Newnam
+  in the compiled table. Nil Josephine Newnam × Gilbert.
+- TT3 (Black marriages 1898–1902) OPENED: Newman, Mattie other; Morton/McNichols/
+  Williams/Hardy/French/Raymond Josie other brides. Nil Josephine Newnam × Gilbert.
+- TT47 (1893–1903 overlapping) OPENED: hits parser nil Josephine/Gilbert/Newman.
+
+Owsley USGenNet marriages directory re-opened:
+- Year files present: 1853, 1854, 1858, 1859, 1874, 1876, 1877, 1878, 1903-4,
+  1908a/b, 1909a/b, 1910a/b, 1973 grooms/brides. Submitted-marriages sub.html.
+- GAP 1879–1902 confirmed (no year file; books burned). ~1902 license is in that gap.
+- 1903-4 re-opened: bride Manerva NEWMAN resides Owsley (other woman; Henry H. still
+  living until 1916). Groom Gilbert HARRIS (Gilbert is a given name). Jana BARRETT /
+  Sarah Jane BARRETT other. Nil Josephine Newnam × Gilbert.
+
+Western/northern landings this pass (follow-through from Pass 92 200-landings):
+- Christian ctssites /marriages.htm /vitals.htm /records.htm 404.
+- McCracken /marriages.htm 200 stub (~2 KB) — no ~1902 book.
+- Henderson tinasgenealogy /marriages.html 200 stub; /vitals.html /records.html 404.
+- Muhlenberg groom-g/n and bride-g/j/n 404 (records landing only, already Pass 92).
+- Warren /records/vitals/marriages.htm 404; Union /marriages.html 404.
+- Jefferson KYJefferson /marriages.htm /vitals.htm 404.
+- Hardin USGW vitals directory timeout (code 0).
+- Fayette /marriages.htm 404 (landing 200; no ~1902 book opened).
+
+Owsley obits directory opened. No Newman/Newnam/Josephine/Gilbert index row.
+William Barrett authored obit (separate extract): Owsley County Courier Friday
+21 Apr 1939. William BARRETT 79 d. Thursday 13 Apr 1939 at daughter Mrs. Leno
+COMBS, Oil, KY; heart trouble; Rev. Charlie KINCAID; family cemetery near Hopewell.
+Survivors: sons Walker and Fred of Clay City; daughters Mrs. Leno COMBS (Oil) and
+Mrs. Charlie KINCAID (Zoe); brother John Bell BARRETT, Beattyville.
+DISPROVED as 1910 Barrett John 65 (decedent is William; age 79 in 1939 is ~70 in
+1930 not ~85; brother John Bell of Beattyville unmerged). Walker-as-son of this
+William is POSSIBLE FAN of 1930 dw 85 Barrett Walker 38 (Clay City 1939 vs Owsley
+1930); not merged (one given-name identifier; wife/children unnamed in the obit).
+
+IA T288:
+- title ("General Index to Pension Files" OR T288): numFound 2, both garbage
+  (iSkyPhone software; Lara T288 favorites collection). Not NARA T288.
+- (T288 OR "pension files") AND (Newman OR Newnam OR Barrett): numFound 0.
+- title "General Index to Pension Files 1861": numFound 0.
+- collection:fold3 AND T288: numFound 0.
+- M123 / 1890 veterans: Xerox manuals and favorites, not NARA M123-3.
+- 1916 Owsley death-certificate title: numFound 0.
+- NARA catalog.archives.gov/id/563 and /search?q=T288 pension index: HTML
+  (not the microfilm images). T288 unseen.
+
+Do not invent T288 contents. Do not promote C509. License still unseen.

@@ -1,6 +1,6 @@
 # Source-image gallery: Dora Ella Newnam Stone
 
-Three hundred thirty-six numbered plates (JPEG/PNG captures from NARA microfilm via Internet Archive, plus header and household crops). Plates **7g–7j** are the 1860 Owsley and 1880 Lee Gray originals added in passes 39–40. Plates **7k–7z** and **8a–8f** are the later 1850–1860 Owsley/Breathitt/Madison isolations, including Harrison Newman with Elias aged eight, H.H. Newman with Elias aged eighteen, and Giles Mays at one month and eleven. Plates **8j–8l** are the 1840 Estill originals (John and Christian Tincher, the county recap, and William Newton not Tincher) added in pass 55; plates **8m–8n** are the 1840 Clay originals added in pass 56; plates **8o–8q** are the 1840 Breathitt originals (first name page, last name page ending Total, and the county Abstract) added in pass 57; plates **8r–8u** are the 1840 Estill McIlvain originals and the Edmonson divider added in pass 58; plates **8v–8ac** are the M850 pension-payment cards added in pass 63 (Elias T. Newnam, Henry H. Newnam, Manerva Newnam, and the Newman-spelling collisions); plates **8ad–8ai** are the 1900 Sturgeon and 1910 Wild Dog Henry H. originals added in pass 64; plates **8aj–8ao** are the 1910 Sturgeon Arthur original and the 1920 Wild Dog nil (including the rejected Evans+Minerva house) added in pass 65; plates **8ap–8au** are the 1920 Island Creek Arthur original, the Soundex Arthur card, the leftover Sturgeon ED 89 closer, and the Minerva-slot Soundex card (Minnie, not Minerva) added in pass 66; plates **8av–8bb** are the 1920 Island Creek remainder headers, the rejected Barker Malvera and Wilson×Minerva houses, the Cow Creek opener, and the Soundex Walter Logan / Walter A. Louisville cards added in pass 67; plates **8bc–8bh** are the remainder of Cow Creek (sheet 4 A and 7 A headers, the rejected Allen Ella and Cale Minerva houses, the last populated sheet 14 A, and the ED 92 opener) added in pass 68; plates **8bi–8bu** are the 1920 Booneville ED 88, Buffalo ED 92, and Buck Creek ED 93 originals added in pass 69; plates **8bv–8bz** are the 1910 Sturgeon Gilbert×Josie and Lynch×Laura originals, the 1920 G-416 Soundex card that misnamed Gilbert John as Robert, and the Buffalo Baker household that holds that father-in-law, added in pass 70; plates **8ca–8cc** are the 1910 Buffalo Gilbert, John original and the 1920 G-416 Douglas card that proves Soundex indexed filmed ED 92, added in pass 71; plates **8cd–8cl** are the 1910 Buffalo opener sheet (Combs Samuel, Gabbard Elijah and Lee, Rice Dora aged two) and the 1920 C-512/G-163 cards (Samuel B. of Island Creek, Elijah of Lee, Lee of Breathitt, Louise and Loya bounding the empty Lowe slot), added in pass 72; plates **8cm–8cx** are the 1920 opener-Soundex remaining codes (Gay Walker of Island Creek, the empty Matilda/Robb/William/Drucilla slots, and the rejected Rice, Helton, Reed, and Howard Drucilla cards), added in pass 73; plates **8cy–8dk** are the 1910 Buffalo sheets 1 B–2 B (Baker Jesse, Evans John, Gay Henry) and the 1920 original plus Soundex of that Gay Henry house, with the rejected R-200 Elizabeth and Benjamin cards, added in pass 74; plates **8dl–8dx** are the 1920 Buffalo sheets 6 B–7 A originals (Abner Lewis, Barrett Bruce, Abner Samuel, Gabbard W.B., Baker Jesse) and the B-260 Jesse plus E-152 Evans John Soundex cards, added in pass 76; plates **8dy–8eq** are the 1920 Buffalo sheets 3 B and 5 B originals (Bowman Henry, Sile, Andy, Jack, and Dean George), the 1910 Bales correction, and the B-550 Henry plus C-652 James Soundex cards, added in pass 77; plates **8er–8fh** are the 1910 Buffalo sheet 2 diplomatic re-read (Jacob × Lyda, McIntosh Daniel, Carmack James, Gaine Reece × Daniel Linda, Dean Maggie, Gabbard Willis), the 1920 Daniel Reece original, and the G-500 / M-253 / G-163 / C-652 remaining Soundex cards, added in pass 78; plates **8fi–8fo** are the 1920 Booneville original that unmasks Soundex 1511 as Edmonds, the leftover-even E-152 John card that writes Owsley against ED 300, and the densified Susan-window cards (Eubanks, Effinger, Evans Susie, T divider), added in pass 79; plates **8fp–8fv** are the E-152 Lula 14 Carter SIL, Lula 36 Fleming, Robert E 53 Owsley, Robert T 54 Elliott A-2, Robey S 15 Union, John H 46 Lee Beattyville, and John W 28 Lee × Dora cards, added in pass 80; plates **8fw–8ge** are the 1920 original ED 89 Robert E. house, the A-156 Arch/Isaac/Louis/Samuel cards, and the C-652 Jacob / M-253 Daniel W / G-500 Raymond residual cards, added in pass 81; plates **8gf–8gl** are the 1920 Buffalo sheet 2 originals (Colwell/Loyd and Baker Hubert’s daughter Dora) and the G-416 Loue I / Louis H / Loyd cards, added in pass 82; plates **8gm–8gn** are the G-416 Lewis 55 Harlan A-2 and Lewis H. 53 Jefferson cards, added in pass 83; plates **8go–8gt** are the 1920 Buffalo Dean George × Martha original, the Soundex card that copies that house, and the Soundex cards that misnamed Gilbert Chester and Baker Lee’s granddaughter, added in pass 84; plates **8gu–8gy** are the B-630 Barrett Ben keepers (Livingston 60, Franklin 18, Booneville Bent 24 and its original, Lee Arch 46), added in pass 85; plates **8gz–8hc** are the B-630 Barrett Bruce keepers (Owsley 42 and Lotty continuation, Billy 22 next house, Board Bruce 40 Muhlenberg), added in pass 86; plates **8hd–8hh** are the B-630 Barrett John keepers (Madison 71, Lee 56, Jefferson 66, Soundex Beard 71 Owsley ED 90, and the original Island Creek Beard household), added in pass 87; plates **8hi–8hm** are the B-630 Barrett James keepers (Soundex 3382 and Susan continuation, original Buffalo dw 102, the regenerated sheet 6 A names column, and Baird Lee 49 Clay), added in pass 88; plates **8hn–8hr** are the 1930 Buffalo originals (sheet 6 A header and names, dwelling 92 Barrett James × Ollie, dwelling 60 Barrett Brison) and the Soundex Barrett John 38 Perry card, added in pass 91; plates **8hs–8hw** are the 1930 remaining-Owsley originals (Booneville Town sheet 1 A header, Booneville Mag Dist 1 sheet 4 B header and names, dwelling 85 Barrett Walker × Rosie, and the recovered Buck Creek sheet 1 A header), added in pass 92. They sit after the 1880 Buck Creek plate because those numbers were already assigned. They are ordered by **the date of the census they record or index**, not by the date the film was scanned. Plates **1a–2c**, **7a–7c**, **55b–55c**, and the 1880 G-600 cards were added in passes 34–37.
+Three hundred fifty-four numbered plates (JPEG/PNG captures from NARA microfilm via Internet Archive, plus header and household crops). Plates **7g–7j** are the 1860 Owsley and 1880 Lee Gray originals added in passes 39–40. Plates **7k–7z** and **8a–8f** are the later 1850–1860 Owsley/Breathitt/Madison isolations, including Harrison Newman with Elias aged eight, H.H. Newman with Elias aged eighteen, and Giles Mays at one month and eleven. Plates **8j–8l** are the 1840 Estill originals (John and Christian Tincher, the county recap, and William Newton not Tincher) added in pass 55; plates **8m–8n** are the 1840 Clay originals added in pass 56; plates **8o–8q** are the 1840 Breathitt originals (first name page, last name page ending Total, and the county Abstract) added in pass 57; plates **8r–8u** are the 1840 Estill McIlvain originals and the Edmonson divider added in pass 58; plates **8v–8ac** are the M850 pension-payment cards added in pass 63 (Elias T. Newnam, Henry H. Newnam, Manerva Newnam, and the Newman-spelling collisions); plates **8ad–8ai** are the 1900 Sturgeon and 1910 Wild Dog Henry H. originals added in pass 64; plates **8aj–8ao** are the 1910 Sturgeon Arthur original and the 1920 Wild Dog nil (including the rejected Evans+Minerva house) added in pass 65; plates **8ap–8au** are the 1920 Island Creek Arthur original, the Soundex Arthur card, the leftover Sturgeon ED 89 closer, and the Minerva-slot Soundex card (Minnie, not Minerva) added in pass 66; plates **8av–8bb** are the 1920 Island Creek remainder headers, the rejected Barker Malvera and Wilson×Minerva houses, the Cow Creek opener, and the Soundex Walter Logan / Walter A. Louisville cards added in pass 67; plates **8bc–8bh** are the remainder of Cow Creek (sheet 4 A and 7 A headers, the rejected Allen Ella and Cale Minerva houses, the last populated sheet 14 A, and the ED 92 opener) added in pass 68; plates **8bi–8bu** are the 1920 Booneville ED 88, Buffalo ED 92, and Buck Creek ED 93 originals added in pass 69; plates **8bv–8bz** are the 1910 Sturgeon Gilbert×Josie and Lynch×Laura originals, the 1920 G-416 Soundex card that misnamed Gilbert John as Robert, and the Buffalo Baker household that holds that father-in-law, added in pass 70; plates **8ca–8cc** are the 1910 Buffalo Gilbert, John original and the 1920 G-416 Douglas card that proves Soundex indexed filmed ED 92, added in pass 71; plates **8cd–8cl** are the 1910 Buffalo opener sheet (Combs Samuel, Gabbard Elijah and Lee, Rice Dora aged two) and the 1920 C-512/G-163 cards (Samuel B. of Island Creek, Elijah of Lee, Lee of Breathitt, Louise and Loya bounding the empty Lowe slot), added in pass 72; plates **8cm–8cx** are the 1920 opener-Soundex remaining codes (Gay Walker of Island Creek, the empty Matilda/Robb/William/Drucilla slots, and the rejected Rice, Helton, Reed, and Howard Drucilla cards), added in pass 73; plates **8cy–8dk** are the 1910 Buffalo sheets 1 B–2 B (Baker Jesse, Evans John, Gay Henry) and the 1920 original plus Soundex of that Gay Henry house, with the rejected R-200 Elizabeth and Benjamin cards, added in pass 74; plates **8dl–8dx** are the 1920 Buffalo sheets 6 B–7 A originals (Abner Lewis, Barrett Bruce, Abner Samuel, Gabbard W.B., Baker Jesse) and the B-260 Jesse plus E-152 Evans John Soundex cards, added in pass 76; plates **8dy–8eq** are the 1920 Buffalo sheets 3 B and 5 B originals (Bowman Henry, Sile, Andy, Jack, and Dean George), the 1910 Bales correction, and the B-550 Henry plus C-652 James Soundex cards, added in pass 77; plates **8er–8fh** are the 1910 Buffalo sheet 2 diplomatic re-read (Jacob × Lyda, McIntosh Daniel, Carmack James, Gaine Reece × Daniel Linda, Dean Maggie, Gabbard Willis), the 1920 Daniel Reece original, and the G-500 / M-253 / G-163 / C-652 remaining Soundex cards, added in pass 78; plates **8fi–8fo** are the 1920 Booneville original that unmasks Soundex 1511 as Edmonds, the leftover-even E-152 John card that writes Owsley against ED 300, and the densified Susan-window cards (Eubanks, Effinger, Evans Susie, T divider), added in pass 79; plates **8fp–8fv** are the E-152 Lula 14 Carter SIL, Lula 36 Fleming, Robert E 53 Owsley, Robert T 54 Elliott A-2, Robey S 15 Union, John H 46 Lee Beattyville, and John W 28 Lee × Dora cards, added in pass 80; plates **8fw–8ge** are the 1920 original ED 89 Robert E. house, the A-156 Arch/Isaac/Louis/Samuel cards, and the C-652 Jacob / M-253 Daniel W / G-500 Raymond residual cards, added in pass 81; plates **8gf–8gl** are the 1920 Buffalo sheet 2 originals (Colwell/Loyd and Baker Hubert’s daughter Dora) and the G-416 Loue I / Louis H / Loyd cards, added in pass 82; plates **8gm–8gn** are the G-416 Lewis 55 Harlan A-2 and Lewis H. 53 Jefferson cards, added in pass 83; plates **8go–8gt** are the 1920 Buffalo Dean George × Martha original, the Soundex card that copies that house, and the Soundex cards that misnamed Gilbert Chester and Baker Lee’s granddaughter, added in pass 84; plates **8gu–8gy** are the B-630 Barrett Ben keepers (Livingston 60, Franklin 18, Booneville Bent 24 and its original, Lee Arch 46), added in pass 85; plates **8gz–8hc** are the B-630 Barrett Bruce keepers (Owsley 42 and Lotty continuation, Billy 22 next house, Board Bruce 40 Muhlenberg), added in pass 86; plates **8hd–8hh** are the B-630 Barrett John keepers (Madison 71, Lee 56, Jefferson 66, Soundex Beard 71 Owsley ED 90, and the original Island Creek Beard household), added in pass 87; plates **8hi–8hm** are the B-630 Barrett James keepers (Soundex 3382 and Susan continuation, original Buffalo dw 102, the regenerated sheet 6 A names column, and Baird Lee 49 Clay), added in pass 88; plates **8hn–8hr** are the 1930 Buffalo originals (sheet 6 A header and names, dwelling 92 Barrett James × Ollie, dwelling 60 Barrett Brison) and the Soundex Barrett John 38 Perry card, added in pass 91; plates **8hs–8hw** are the 1930 remaining-Owsley originals (Booneville Town sheet 1 A header, Booneville Mag Dist 1 sheet 4 B header and names, dwelling 85 Barrett Walker × Rosie, and the recovered Buck Creek sheet 1 A header), added in pass 92; plates **8hx–8io** are the 1930 Town of Booneville every-line keepers (sheet 2 A header, names, dwelling 26 Barrett A.W. × Mattie, Lewis son in the Wilson house, sheet 2 B header, names, the Beckner Leonard/Fred houses, and sheet 3 B header), the Booneville Mag Dist 1 cluster (sheet 11 B header and dwelling 228 Barrett Robert × Kate, sheet 12 A header, names, and Hayden/Robert/Hiram/Charley cluster, and dwelling 247 Barrett George × Rosie), and the Sturgeon, Island Creek, Cow Creek, and Wild Dog opener headers, added in pass 93. They sit after the 1880 Buck Creek plate because those numbers were already assigned. They are ordered by **the date of the census they record or index**, not by the date the film was scanned. Plates **1a–2c**, **7a–7c**, **55b–55c**, and the 1880 G-600 cards were added in passes 34–37.
 
 Soundex and Miracode cards sit with the census year they index, immediately after any original population schedules for that year.
 
@@ -283,6 +283,29 @@ Diplomatic transcriptions: [`08-transcriptions.md`](08-transcriptions.md). Citat
 | 8hp | 12 Apr 1930 | FAN | [Buffalo ED 95-6 sh 6 A dw 92 — Barrett, James 45 × Ollie 34](sources/census/1930-owsley-ed956-sh6a-hh92-barrett-james.jpg) |
 | 8hq | 12 Apr 1930 | Rejected same-name | [Buffalo ED 95-6 sh 4 A dw 60 — Barrett, Brison 28 × Dora 28](sources/census/1930-owsley-ed956-sh4a-hh60-barrett-brison.jpg) |
 | 8hr | 1930 (index) | Rejected same-name | [Kentucky B-630 — Barrett, John 38, Perry](sources/soundex/ky1930-b630-p1839-barrett-john-38-perry.jpg) |
+| 8hs | 8 Apr 1930 | Context | [Booneville Town ED 95-1 sh 1 A header — John C. Seale](sources/census/1930-owsley-ed951-sh1a-hdr.jpg) |
+| 8ht | 14 Apr 1930 | Context | [Booneville Mag Dist 1 ED 95-2 sh 4 B header — Charles C. Seale](sources/census/1930-owsley-ed952-sh4b-hdr.jpg) |
+| 8hu | 14 Apr 1930 | Context | [Booneville Mag Dist 1 ED 95-2 sh 4 B names — ln 88 Walker through Geneva](sources/census/1930-owsley-ed952-sh4b-names.jpg) |
+| 8hv | 14 Apr 1930 | Rejected same-name | [Booneville Mag Dist 1 ED 95-2 sh 4 B dw 85 — Barrett, Walker 38 × Rosie](sources/census/1930-owsley-ed952-sh4b-hh85-barrett-walker.jpg) |
+| 8hw | 2 Apr 1930 | Context | [Buck Creek ED 95-7 sh 1 A header recovered — Robert H. Seale](sources/census/1930-owsley-ed957-sh1a-hdr.jpg) |
+| 8hx | 8 Apr 1930 | Context | [Booneville Town ED 95-1 sh 2 A header — Charles C. Seale](sources/census/1930-owsley-ed951-sh2a-hdr.jpg) |
+| 8hy | 8 Apr 1930 | Context | [Booneville Town ED 95-1 sh 2 A names — A.W. and Lewis](sources/census/1930-owsley-ed951-sh2a-names.jpg) |
+| 8hz | 8 Apr 1930 | Rejected same-name | [Booneville Town ED 95-1 sh 2 A dw 26 — Barrett, A.W. 45 × Mattie](sources/census/1930-owsley-ed951-sh2a-hh26-barrett-aw.jpg) |
+| 8ia | 8 Apr 1930 | Rejected same-name | [Booneville Town ED 95-1 sh 2 A ln 32 — Barrett, Lewis 22 son in Wilson house](sources/census/1930-owsley-ed951-sh2a-ln32-barrett-lewis.jpg) |
+| 8ib | 8 Apr 1930 | Context | [Booneville Town ED 95-1 sh 2 B header](sources/census/1930-owsley-ed951-sh2b-hdr.jpg) |
+| 8ic | 8 Apr 1930 | Context | [Booneville Town ED 95-1 sh 2 B names — Beckner Leonard / Fred](sources/census/1930-owsley-ed951-sh2b-names.jpg) |
+| 8id | 8 Apr 1930 | Rejected same-name | [Booneville Town ED 95-1 sh 2 B dw 40–41 — Beckner, Leonard 42 / Fred 21](sources/census/1930-owsley-ed951-sh2b-hh40-beckner-leonard-fred.jpg) |
+| 8ie | 8 Apr 1930 | Context | [Booneville Town ED 95-1 sh 3 B header — last populated Town sheet](sources/census/1930-owsley-ed951-sh3b-hdr.jpg) |
+| 8if | 9 Apr 1930 | Context | [Booneville Mag Dist 1 ED 95-2 sh 11 B header](sources/census/1930-owsley-ed952-sh11b-hdr.jpg) |
+| 8ig | 9 Apr 1930 | Rejected same-name | [Booneville Mag Dist 1 ED 95-2 sh 11 B dw 228 — Barrett, Robert 41 × Kate](sources/census/1930-owsley-ed952-sh11b-hh228-barrett-robert.jpg) |
+| 8ih | 14 Apr 1930 | Context | [Booneville Mag Dist 1 ED 95-2 sh 12 A header](sources/census/1930-owsley-ed952-sh12a-hdr.jpg) |
+| 8ii | 14 Apr 1930 | Context | [Booneville Mag Dist 1 ED 95-2 sh 12 A names — Hayden through Charley](sources/census/1930-owsley-ed952-sh12a-names.jpg) |
+| 8ij | 14 Apr 1930 | Rejected same-name | [Booneville Mag Dist 1 ED 95-2 sh 12 A cluster — Hayden / Robert 28 / Hiram / Charley](sources/census/1930-owsley-ed952-sh12a-barrett-cluster.jpg) |
+| 8ik | 14 Apr 1930 | Rejected same-name | [Booneville Mag Dist 1 ED 95-2 sh 12 B dw 247 — Barrett, George 37 × Rosie 37](sources/census/1930-owsley-ed952-sh12b-hh247-barrett-george.jpg) |
+| 8il | Apr 1930 | Context | [Sturgeon #2 ED 95-3 sh 1 A header — Blaine Wilson](sources/census/1930-owsley-ed953-sh1a-hdr.jpg) |
+| 8im | 4 Apr 1930 | Context | [Island Creek ED 95-4 sh 1 A header — Joseph T. Minger](sources/census/1930-owsley-ed954-sh1a-hdr.jpg) |
+| 8in | 2 Apr 1930 | Context | [Cow Creek ED 95-5 sh 1 A header — Bennie G. Wilson](sources/census/1930-owsley-ed955-sh1a-hdr.jpg) |
+| 8io | 3 Apr 1930 | Context | [Wild Dog ED 95-8 sh 1 A header — Shirley Mainous](sources/census/1930-owsley-ed958-sh1a-hdr.jpg) |
 | 8 | 13 Jun 1900 | Rejected same-name | [Douglas County, Missouri — Thomas and Nancy E. Stone](sources/census/1900-douglas-mo-ed159-stone-sheet.jpg) |
 | 9 | 13 Jun 1900 | Rejected same-name | [Douglas County Stone household (crop)](sources/census/1900-douglas-mo-ed159-stone-hh-crop.jpg) |
 | 10 | 1900 (index) | Rejected same-name | [Missouri S-350 — Thomas Stone, 44, Douglas County](sources/soundex/mo1900-s350-p1678-stone-thomas-44-douglas.jpg) |
@@ -3586,4 +3609,166 @@ Enumerator Charles C. Seale, Booneville Mag Dist 1, stamped 4 B. Walker 38, Rosi
 Kentucky, Owsley, Buck Creek Magisterial District 6, ED 95-7, Sheet 1 A, enumerated 2 April 1930 by Robert H. Seale. Recovered from the primary archive view after a transient 404.
 
 ![1930 original ED 95-7 sh 1 A header](sources/census/1930-owsley-ed957-sh1a-hdr.jpg)
+
+### 8hx · 8 Apr 1930 · ED 95-1 sh 2 A header — Town of Booneville
+
+**File:** [`sources/census/1930-owsley-ed951-sh2a-hdr.jpg`](sources/census/1930-owsley-ed951-sh2a-hdr.jpg)  
+**Source:** S698 · C999 · DOC201
+
+Kentucky, Owsley, Town of Booneville, ED 95-1, Sheet 2 A, enumerated 8 April 1930 by Charles C. Seale.
+
+![1930 original ED 95-1 sh 2 A header](sources/census/1930-owsley-ed951-sh2a-hdr.jpg)
+
+### 8hy · 8 Apr 1930 · ED 95-1 sh 2 A names — A.W. and Lewis
+
+**File:** [`sources/census/1930-owsley-ed951-sh2a-names.jpg`](sources/census/1930-owsley-ed951-sh2a-names.jpg)  
+**Source:** S698 · C999 · DOC201
+
+Names column. Dwelling 26 Barrett, A.W. through Monroe; line 32 Barrett, Lewis, son in Wilson, Thomas’s house.
+
+![1930 original ED 95-1 sh 2 A names](sources/census/1930-owsley-ed951-sh2a-names.jpg)
+
+### 8hz · 8 Apr 1930 · ED 95-1 sh 2 A dw 26 — Barrett, A.W. × Mattie
+
+**File:** [`sources/census/1930-owsley-ed951-sh2a-hh26-barrett-aw.jpg`](sources/census/1930-owsley-ed951-sh2a-hh26-barrett-aw.jpg)  
+**Source:** S698 · C999 · DOC201
+
+Enumerator Charles C. Seale, Town of Booneville, stamped 2 A. A.W. 45, Mattie 43, Moffet, Ralph, Monroe. Age 45 ≠ ~85. **DISPROVED** as 1910 Barrett John 65. **Not merged** with Buffalo James 45 × Ollie.
+
+![1930 original ED 95-1 Barrett A.W. dw 26](sources/census/1930-owsley-ed951-sh2a-hh26-barrett-aw.jpg)
+
+### 8ia · 8 Apr 1930 · ED 95-1 sh 2 A ln 32 — Barrett, Lewis son in Wilson house
+
+**File:** [`sources/census/1930-owsley-ed951-sh2a-ln32-barrett-lewis.jpg`](sources/census/1930-owsley-ed951-sh2a-ln32-barrett-lewis.jpg)  
+**Source:** S698 · C999 · DOC201
+
+Line 32 Barrett, Lewis, son, 22, in dwelling 31 Wilson, Thomas, 57, with lodgers. **DISPROVED** as 1910 Barrett John 65.
+
+![1930 original ED 95-1 Barrett Lewis ln 32](sources/census/1930-owsley-ed951-sh2a-ln32-barrett-lewis.jpg)
+
+### 8ib · 8 Apr 1930 · ED 95-1 sh 2 B header — Town of Booneville
+
+**File:** [`sources/census/1930-owsley-ed951-sh2b-hdr.jpg`](sources/census/1930-owsley-ed951-sh2b-hdr.jpg)  
+**Source:** S698 · C999 · DOC201
+
+Kentucky, Owsley, Town of Booneville, ED 95-1, Sheet 2 B, enumerated 8 April 1930 by Charles C. Seale.
+
+![1930 original ED 95-1 sh 2 B header](sources/census/1930-owsley-ed951-sh2b-hdr.jpg)
+
+### 8ic · 8 Apr 1930 · ED 95-1 sh 2 B names — Beckner Leonard / Fred
+
+**File:** [`sources/census/1930-owsley-ed951-sh2b-names.jpg`](sources/census/1930-owsley-ed951-sh2b-names.jpg)  
+**Source:** S698 · C999 · DOC201
+
+Names column. Dwelling 40 Beckner, Leonard through Lucy L; dwelling 41 Beckner, Fred × Jessie. First-pass “Barrett” withdrawn.
+
+![1930 original ED 95-1 sh 2 B names](sources/census/1930-owsley-ed951-sh2b-names.jpg)
+
+### 8id · 8 Apr 1930 · ED 95-1 sh 2 B dw 40–41 — Beckner, Leonard / Fred
+
+**File:** [`sources/census/1930-owsley-ed951-sh2b-hh40-beckner-leonard-fred.jpg`](sources/census/1930-owsley-ed951-sh2b-hh40-beckner-leonard-fred.jpg)  
+**Source:** S698 · C999 · DOC201
+
+Hard Rule 6: original surname **Beckner**, not Barrett. Leonard 42 × Mary; Fred 21 × Jessie. **DISPROVED** as Barrett.
+
+![1930 original ED 95-1 Beckner Leonard and Fred](sources/census/1930-owsley-ed951-sh2b-hh40-beckner-leonard-fred.jpg)
+
+### 8ie · 8 Apr 1930 · ED 95-1 sh 3 B header — last populated Town sheet
+
+**File:** [`sources/census/1930-owsley-ed951-sh3b-hdr.jpg`](sources/census/1930-owsley-ed951-sh3b-hdr.jpg)  
+**Source:** S698 · C999 · DOC201
+
+Kentucky, Owsley, Town of Booneville, ED 95-1, Sheet 3 B, enumerated 8 April 1930 by Charles C. Seale. Last populated Town sheet (Wilson, Thomas 24 × Callie). **Nil** Barrett head.
+
+![1930 original ED 95-1 sh 3 B header](sources/census/1930-owsley-ed951-sh3b-hdr.jpg)
+
+### 8if · 9 Apr 1930 · ED 95-2 sh 11 B header — Booneville Mag Dist 1
+
+**File:** [`sources/census/1930-owsley-ed952-sh11b-hdr.jpg`](sources/census/1930-owsley-ed952-sh11b-hdr.jpg)  
+**Source:** S699 · C1000 · DOC202
+
+Kentucky, Owsley, Booneville Magisterial District 1, ED 95-2, Sheet 11 B, enumerated about 9 April 1930 by Charles C. Seale.
+
+![1930 original ED 95-2 sh 11 B header](sources/census/1930-owsley-ed952-sh11b-hdr.jpg)
+
+### 8ig · 9 Apr 1930 · ED 95-2 sh 11 B dw 228 — Barrett, Robert × Kate
+
+**File:** [`sources/census/1930-owsley-ed952-sh11b-hh228-barrett-robert.jpg`](sources/census/1930-owsley-ed952-sh11b-hh228-barrett-robert.jpg)  
+**Source:** S699 · C1000 · DOC202
+
+Enumerator Charles C. Seale, Booneville Mag Dist 1, stamped 11 B. Robert 41, Kate 40, Sam, **John 14**, Sarah C, James, Forester, Charlena, Nettie. Son John 14 ≠ John ~85. **DISPROVED** as 1910 Barrett John 65.
+
+![1930 original ED 95-2 Barrett Robert dw 228](sources/census/1930-owsley-ed952-sh11b-hh228-barrett-robert.jpg)
+
+### 8ih · 14 Apr 1930 · ED 95-2 sh 12 A header — Booneville Mag Dist 1
+
+**File:** [`sources/census/1930-owsley-ed952-sh12a-hdr.jpg`](sources/census/1930-owsley-ed952-sh12a-hdr.jpg)  
+**Source:** S699 · C1001 · DOC202
+
+Kentucky, Owsley, Booneville Magisterial District 1, ED 95-2, Sheet 12 A, enumerated 14 April 1930 by Charles C. Seale.
+
+![1930 original ED 95-2 sh 12 A header](sources/census/1930-owsley-ed952-sh12a-hdr.jpg)
+
+### 8ii · 14 Apr 1930 · ED 95-2 sh 12 A names — Hayden through Charley
+
+**File:** [`sources/census/1930-owsley-ed952-sh12a-names.jpg`](sources/census/1930-owsley-ed952-sh12a-names.jpg)  
+**Source:** S699 · C1001 · DOC202
+
+Names column. Dwellings 239–243 Barrett Hayden, Robert 28, Hiram, Charley.
+
+![1930 original ED 95-2 sh 12 A names](sources/census/1930-owsley-ed952-sh12a-names.jpg)
+
+### 8ij · 14 Apr 1930 · ED 95-2 sh 12 A cluster — Hayden / Robert 28 / Hiram / Charley
+
+**File:** [`sources/census/1930-owsley-ed952-sh12a-barrett-cluster.jpg`](sources/census/1930-owsley-ed952-sh12a-barrett-cluster.jpg)  
+**Source:** S699 · C1001 · DOC202
+
+Hayden 32 × Eva; Robert 28 × Laura, not merged with Robert 41; Hiram 34 × Lillie; Charley 35 × Martha + Dollie / Effie ≠ Ollie 34. **DISPROVED** as 1910 Barrett John 65. Cluster crop cuts Charley after Bertha; full-sheet two-pass lists Dollie through Herman.
+
+![1930 original ED 95-2 Barrett cluster sh 12 A](sources/census/1930-owsley-ed952-sh12a-barrett-cluster.jpg)
+
+### 8ik · 14 Apr 1930 · ED 95-2 sh 12 B dw 247 — Barrett, George × Rosie
+
+**File:** [`sources/census/1930-owsley-ed952-sh12b-hh247-barrett-george.jpg`](sources/census/1930-owsley-ed952-sh12b-hh247-barrett-george.jpg)  
+**Source:** S699 · C1002 · DOC202
+
+George 37, Rosie 37, Luther, Birdie, Ada, Edna, Harris, Charley, Cintha, Lee. Rosie 37 ≠ Walker’s Rosie 32. **DISPROVED** as 1910 Barrett John 65 and as Walker 38.
+
+![1930 original ED 95-2 Barrett George dw 247](sources/census/1930-owsley-ed952-sh12b-hh247-barrett-george.jpg)
+
+### 8il · Apr 1930 · ED 95-3 sh 1 A header — Sturgeon #2
+
+**File:** [`sources/census/1930-owsley-ed953-sh1a-hdr.jpg`](sources/census/1930-owsley-ed953-sh1a-hdr.jpg)  
+**Source:** S698 · C998 · DOC201
+
+Kentucky, Owsley, Sturgeon Magisterial District 2, ED 95-3, Sheet 1 A, enumerated by Blaine Wilson.
+
+![1930 original ED 95-3 sh 1 A header](sources/census/1930-owsley-ed953-sh1a-hdr.jpg)
+
+### 8im · 4 Apr 1930 · ED 95-4 sh 1 A header — Island Creek
+
+**File:** [`sources/census/1930-owsley-ed954-sh1a-hdr.jpg`](sources/census/1930-owsley-ed954-sh1a-hdr.jpg)  
+**Source:** S698 · C998 · DOC201
+
+Kentucky, Owsley, Island Creek Magisterial District 3, ED 95-4, Sheet 1 A, enumerated 4 April 1930 by Joseph T. Minger.
+
+![1930 original ED 95-4 sh 1 A header](sources/census/1930-owsley-ed954-sh1a-hdr.jpg)
+
+### 8in · 2 Apr 1930 · ED 95-5 sh 1 A header — Cow Creek
+
+**File:** [`sources/census/1930-owsley-ed955-sh1a-hdr.jpg`](sources/census/1930-owsley-ed955-sh1a-hdr.jpg)  
+**Source:** S698 · C998 · DOC201
+
+Kentucky, Owsley, Cow Creek Magisterial District 4, ED 95-5, Sheet 1 A, enumerated 2 April 1930 by Bennie G. Wilson.
+
+![1930 original ED 95-5 sh 1 A header](sources/census/1930-owsley-ed955-sh1a-hdr.jpg)
+
+### 8io · 3 Apr 1930 · ED 95-8 sh 1 A header — Wild Dog
+
+**File:** [`sources/census/1930-owsley-ed958-sh1a-hdr.jpg`](sources/census/1930-owsley-ed958-sh1a-hdr.jpg)  
+**Source:** S698 · C998 · DOC201
+
+Kentucky, Owsley, Wild Dog Magisterial District 7, ED 95-8, Sheet 1 A, enumerated 3 April 1930 by Shirley Mainous.
+
+![1930 original ED 95-8 sh 1 A header](sources/census/1930-owsley-ed958-sh1a-hdr.jpg)
 
