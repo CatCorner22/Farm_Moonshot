@@ -1,0 +1,54 @@
+B080 / pass 80 — Madison KY remaining death year×letter files — 31 Oct 2026
+Access: transcription. kygenweb.net/madison/death/years/{YYYY}{b|d}.htm
+Did **not** refetch 1918b.htm or 1926d.htm (C1608 C1609 stand).
+30 remaining files, all HTTP 200. Parsed 2604 data rows.
+
+Letter map (as labeled on death/index.htm):
+  K–R = *b.htm   S–Z = *d.htm
+
+== K–R (15 files: 1911–17 / 1919–26) ==
+1911b 466561 B  89 rows. N = NEWMAN, NORRIS.
+  NEWMAN, EVELYN C, 22 Jun 1911, age U/1, MADSN — infant; **rejected**.
+1912b 507988 B  97. N = NICKELL, NOLAND. No Newman/Newnam.
+1913b 626664 B 120. N = NELSON, NEWBY, NEWMAN, NEWTON, NOLAN, NOLAND.
+  NEWMAN, JOBE, 8 Dec 1913, age 033, MADSN — male; **rejected**.
+  NOLAND, MARY, 5 Dec 1913, age 021 — **rejected** vs Mary A. ~76 Heidelberg 11 Jul 1918.
+1914b 652426 B 125. N = NEWBY, NEWLY, NORVELL.
+  NEWBY, MARY J, 26 Oct 1914, age 078 — surname Newby; **rejected**.
+1915b 590463 B 113. N = NOLAND.
+  NOLAND, DORA, 20 Mar 1915, age 019 — **rejected**.
+1916b 461490 B  88. N = NOE, NOLAND.
+  NOE, MARY S, 20 Aug 1916, age 001 — infant; **rejected**.
+1917b 590524 B 113. N = NEELY, NELSON, NICELY, NOLAND. No Newman/Newnam.
+1919b 569887 B 109. N = NANTZ, NEELY, NETTER, NEWBY, NORRIS, NULEY. No Newman/Newnam.
+1920b 585382 B 112. N = NOLAND.
+1921b 430506 B  82. N = NEIR, NELSON, NEWBY, NOLAND, NORTHER, NORTHERN.
+1922b 487271 B  93. N = NEAL, NEALE, NEISENBURGH, NELSON, NITT, NIX, NOLAND, NORRIS.
+1923b 507902 B  97. N = NASE, NIEKIRK, NOLAND, NORREL, NORRIS.
+1924b 404695 B  77. N = NEWBY.
+1925b 435732 B  83. N = NELSON, NORRIS.
+1926b 378890 B  72. N = NABORS only. **Nil** Newman/Newnam in Dora’s death year.
+
+NO Mary A. Newnam / Newman matching Heidelberg 11 Jul 1918 age ~76.
+
+== S–Z (15 files: 1911–17 / 1918 / 1919–25) ==
+1911d 391698 B  75. STONE, HENRY 2, 22 Nov 1911, U/1.
+1912d 391720 B  75. SCHOOLER, ELLA, 3 Aug 1912, age 001 — **rejected**.
+1913d 437840 B  84. STONE, GOLSTIN M, 11 Jan 1913.
+1914d 368623 B  70. No Stone.
+1915d 451147 B  86. STONE, CLARENCE E, 10 Oct 1915, U/1.
+1916d 425371 B  81. STONE, HENRY, 27 Oct 1916, age 056; STONE, MARGRITTE, 15 May 1916, U/1.
+1917d 461520 B  88. No Stone.
+1918d 461426 B  88. STONE, AISHEL 1, 6 Jan 1918, U/1.
+  STONE, MARY E, 18 Dec 1918, age 051, MADSN — **rejected** vs Mary A. Newnam 11 Jul 1918 Heidelberg
+  and vs 1926 Stone Mary E (C1609) and vs Dora Stone 23 Aug 1926 Yell.
+1919d 399572 B  76. No Stone.
+1920d 327314 B  62. No Stone.
+1921d 435660 B  83. STONE, FRED B, 7 Aug 1921, age 053; STONE, ROBERT, 26 Jul 1921, U/1.
+1922d 347951 B  66. STONE, HANNA D, 23 Aug 1922, age 051.
+1923d 389230 B  74. STONE, EMMA B, 24 Sep 1923, age 028.
+1924d 301474 B  57. STONE, MINNIE F, 23 Jan 1924, U/1; STONE, TELITHA M, 11 Jul 1924, age 056.
+1925d 363423 B  69. STONE, CORNELIA, 18 Sep 1925, age 056.
+
+NO Dora / Ella / Posa Stone on any remaining S–Z file.
+NO record placed P001 or P005.

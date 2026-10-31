@@ -1,0 +1,71 @@
+B080 / pass 80 year-hole extract — 31 Oct 2026
+Access: transcription / index / catalog. No Van Buren original schedule seen.
+No FS/Ancestry credentials. DAS image.jpg not re-hit. po0066/po0067 not re-downloaded.
+
+== Lincoln AR remaining 1910/1920 (argenweb.net/lincoln/census/) ==
+Catalog posts only Cane Creek/Owen/Spring 1910 and Auburn/Owen/Spring 1920 (opened B079).
+Slugs tried once, all HTTP 404 355 B (stubs not kept):
+  bart1910.html, choctaw1910.html, kimbrough1910.html, lonepine1910.html,
+  millcreek1910.html, smith1910.html, wellsbayou1910.html, auburn1910.htm,
+  bart1920.html, choctaw1920.html, kimbrough1920.html, millcreek1920.html,
+  smith1920.html, wellsbayou1920.html, canecreek1920.html.
+Those townships remain **unpublished**.
+
+== Faulkner AR marriages (argenweb.net/faulkner/Marriages/) ==
+Vol 1–2 letter index (Dwight Shubert). Opened N / S part 1 / S part 2 / D.
+  marriagen.html   78105 B
+  marriages.html  259358 B  (S through SMOTHMAN; “On to Marriages: S part 2”)
+  marriages2.html 199783 B  (STONE block complete)
+  marriaged.html  213247 B
+NO NEWNAM. NEWMAN cluster is a local Faulkner family (Earl 21×Allen 1920; Iva 21×Qualls 1925;
+Elizabeth 57×Williams 1912; Walter 24×Everette 1906; etc.) — **not merged**.
+STONE first-party (S part 2): **no** T.A. / Tom A. × Dora. Closest T/Tom:
+  STONE, T.E. 25 × SANDERS, DELLA 20, 18 Jul 1930
+  STONE, THOMAS G. 24 × McCLAIN, AUDRA 18, 10 Dec 1929
+  STONE, TOMMY R. 25 × JENKINS, 1 Feb 1958
+Census landing = 1830–1873 Conway/Faulkner + 1930 Eagle only. No 1910/1920 body.
+
+== Garrard KY deaths 1911–26 (kygenweb.net/garrard/death/records/{YYYY}.html) ==
+16 year files, all 200. ~2423 data rows (Last / First / MI / Age / Date / Cert).
+N-surnames across years: Naylor/Nowlin/Newell/Noel/Norris/Nelson/Nulan/Nails/Nedges/
+Neeley/Nevel/Nort/Naylar/Nayler/Noley/Norman/Napier. **Zero NEWMAN / NEWNAM.**
+STONE: George T, age 054, 17 Aug 1911; Annie 1917; STONES Rachel 1913 — **rejected**.
+SMALLWOOD Jessie 1911 / Lucy 1912 — not Mary A.
+Dora given other surnames: Kavanaugh 1912; James 1913; Sparks 1915; Floyd B 1917 — **rejected**.
+Ella: Dunn 1912; Rice 1916; Denny 33 15 Oct 1918; Leavell 38 18 Mar 1918; Paniter infant 1918;
+  Middleton 1920; Salter infant 1923 — **rejected**.
+**Nil** Mary A. Newnam / Dora Stone.
+
+== Garrard KY marriages 1851–1926 ==
+https://kygenweb.net/garrard/marriages/Marriages1851-1926.html  200 314270 B
+(nested marriages/marriages/ path was 404; this URL works).
+Dora brides: Wait / Ham / Prewitt / Anderson Dora Belle / Spilman — other women.
+Stone, Mariah only. **No** Newman/Newnam. **No** Dora Stone.
+
+== Woodruff AR ==
+resources / marriages / birth_death / census landings seen.
+Marriages transcribed only A–C brides and A–C + F grooms — **no N or S posted**.
+Births-deaths = order-info only (courthouse / ADH).
+1910: 4 sample ED 130 sheets posted (pages 1, 2, 5, 6). Page 2 hh 78:
+  Luke (?), **Dora**, Head, F, **B**, 43, Widow, 11/5, b. Tennessee — **rejected**
+  (race Black; TN; widow head; not Newman/Stone). Other three sheets: no Newman/Stone/Dora.
+
+== Logan AR ==
+Home 83565 B = image-map site. docs/1901twp.htm 18028 B = 1901 **political township
+boundaries** (Sadler report) — **no personal names**. Page339.htm = Biographies catalog.
+No 1901–25 name body opened on the map pages this pass (residual).
+
+== Other new-host catalogs (no 1920–25 name body opened) ==
+Monroe marriages.htm: Books B/D/E/F only through **1893**.
+Jackson AR marriages.htm 138660 B = **early** (1849–1870 Newman Felix / Stone Thomas Richard) —
+  not a 1920–25 book.
+Lonoke home already cataloged B078.
+
+== Not re-hit / not re-fetched ==
+DAS …/3:1:33S7-9RNR-FP/image.jpg. po0066 / reel 67. Perry 1910. Opened Perry 1920. ED 191/188.
+Van Buren published 1910. White named + leftover transcription.htm. C335/C349/C1484 Solr.
+Conway Z. Logged phone. Saline I–R + Q/R grooms. Estill remaining 1911–16 + 1917–23 KN/OT.
+Estill death 1911–16/1920–24/1926 + saved 1917/1918/1919. Madison 1918b/1926d.
+Opened Lincoln 1910/1920 files. Grant BLM. Menifee deaths. Powell 1911–18. Montgomery deaths.
+No B057 film reading invented. No Van Buren 1910 household invented.
+Saline T.A. 1911/1912 not merged with Tom A. of Perry.

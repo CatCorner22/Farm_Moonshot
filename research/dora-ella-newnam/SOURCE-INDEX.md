@@ -1,11 +1,11 @@
 # Source index — Dora Ella Newnam Stone
 
 Working inventory of **saved local copies** in `sources/` plus the authored Word biography.  
-Full file list (996 files): [`sources/SOURCE-INVENTORY.tsv`](sources/SOURCE-INVENTORY.tsv) (path, bytes, SHA-256 prefix).
+Full file list (1088 files): [`sources/SOURCE-INVENTORY.tsv`](sources/SOURCE-INVENTORY.tsv) (path, bytes, SHA-256 prefix).
 
 **Access labels:** `image seen` · `index only` · `transcription only` · `catalog only` · `OCR text` · `not yet examined`.
 
-Captured this session: **31 Oct 2026** (S283–S290, S299–S395). Earlier plates remain in `sources/census/`, `sources/soundex/`, and `book/plates/` (see `12-image-gallery.md` and `04-evidence.md`). Pass 60–61 sources S267–S282 remain.
+Captured this session: **31 Oct 2026** (S283–S290, S299–S401). Earlier plates remain in `sources/census/`, `sources/soundex/`, and `book/plates/` (see `12-image-gallery.md` and `04-evidence.md`). Pass 60–61 sources S267–S282 remain.
 
 | ID | Filename | Date captured | Repository | URL | Citation (what / where created / where accessed) | What it proves | Access |
 |---|---|---|---|---|---|---|---|
@@ -131,6 +131,12 @@ Captured this session: **31 Oct 2026** (S283–S290, S299–S395). Earlier plate
 | S393 | `sources/births/madison/index.htm` | 2026-10-31 | Madison KYGenWeb births | kygenweb.net/madison/births/index.htm | Submitted 23 children 1903–23 | **No** Newman/Stone/Dora (**C1607**) | transcription |
 | S394 | `sources/deaths/madison/` index + 1918b + 1926d | 2026-10-31 | Madison KYGenWeb deaths | kygenweb.net/madison/death/ | 1918 K–R; 1926 S–Z | **Nil** Newnam 1918; Stone Mary E **rejected** (**C1608 C1609**) | transcription |
 | S395 | `sources/census/lincoln/` + Prairie 1910cens + `year-hole-b079-2026-10-31.txt` | 2026-10-31 | Lincoln / Prairie / Cleveland / Clark | argenweb.net/lincoln/ ; prairie/1910census/ ; kygenweb.net/clark/ | 1910/1920 opened bodies + catalogs | **Nil** P001 on opened Lincoln files (**C1610**) | index / transcription / catalog |
+| S396 | `sources/deaths/madison/` remaining 30 year×letter files + `b080-remaining-mary-dora-nil-2026-10-31.txt` | 2026-10-31 | Madison KYGenWeb deaths | kygenweb.net/madison/death/years/ | 1911–17/1919–26 K–R; 1911–25 S–Z incl. 1918d | **Nil** Mary A. Newnam / Dora Stone (**C1612–C1615**) | transcription |
+| S397 | `sources/census/prairie/` ten township HTML + `b080-1910-dora-nil-2026-10-31.txt` | 2026-10-31 | Prairie ARGenWeb 1910 name indexes | argenweb.net/prairie/1910census/ | Belcher…Hazen every-name indexes (6757) | **Zero** Newman/Newnam; **zero** Dora Stone (**C1616 C1617**) | index only |
+| S398 | `sources/marriages/cleveland/` N–O/S/D–E + 1873–80 + `b080-1873-1992-dora-stone-nil-2026-10-31.txt` | 2026-10-31 | Cleveland ARGenWeb marriages | argenweb.net/cleveland/marriages.htm | 1873–1992 letter files | **Nil** Dora×Stone 1920–25 (**C1619 C1620**) | transcription |
+| S399 | Lincoln remaining slugs (**404**) + Logan 1901twp/home/Page339 + `year-hole-b080-2026-10-31.txt` | 2026-10-31 | Lincoln / Logan ARGenWeb | argenweb.net/lincoln/census/ ; logan/docs/1901twp.htm | Unpublished townships; 1901 boundaries | Remaining Lincoln **404** (**C1618**); Logan no names | catalog / 404 |
+| S400 | `sources/marriages/faulkner/` N + S part 1–2 + D | 2026-10-31 | Faulkner ARGenWeb marriages | argenweb.net/faulkner/Marriages/ | Vol 1–2 letter index | **Nil** T.A.×Dora (**C1621**) | transcription |
+| S401 | `sources/deaths/garrard/` 1911–26 + `sources/marriages/garrard/Marriages1851-1926.html` + Woodruff 1910 ED 130 pp 1/2/5/6 | 2026-10-31 | Garrard KYGenWeb + Woodruff ARGenWeb | kygenweb.net/garrard/ ; argenweb.net/woodruff/ | Deaths 1911–26; marr 1851–1926; 1910 sample | **Nil** Mary A. Newnam / Dora Stone (**C1622**) | transcription / index |
 
 ## Word biography provenance
 
@@ -163,9 +169,14 @@ See [`sources/authored/PROVENANCE.md`](sources/authored/PROVENANCE.md). Drive se
 | Saline Q/R *groom* PDFs (Nov 1923–Apr 1927) | Dora Newnam × Stone; T.A./Tom Stone groom | **Done** (**C1488–C1490** / **B078**) |
 | Estill KY births remaining letters 1911–16 + 1917–23 K–N/O–T | Mother Dora/Ella Newnam/Stone | **Done** (**C1600–C1604** / **B079**) |
 | Estill KY death years 1911–24/26 | Mary A. Newnam; Dora/Ella Stone | **Done** 1911–16/1920–24/1926 + 1917–19 re-read (**C1605 C1606**). 1918 **not** refetched |
-| Madison remaining death year×letter files | Mary A. Newnam 1918; Dora Stone 1926 | 1918 K–R + 1926 S–Z **done** (**C1608 C1609**). Residual (**B080**) |
-| Prairie 1910 township bodies | Dora ~38 Newman/Stone | Landing **done** (index). Bodies unread (**B080**) |
-| Lincoln remaining 1910/1920 townships | Dora ~38/~48 | Cane Creek/Owen/Spring 1910 + Auburn/Owen/Spring 1920 **done** (**C1610**). Residual (**B080**) |
+| Madison remaining death year×letter files | Mary A. Newnam 1918; Dora Stone 1926 | **Done** remaining 30 files (**C1612–C1615** / **B080**). 1918b/1926d **not** refetched |
+| Prairie 1910 township bodies | Dora ~38 Newman/Stone | Ten name indexes **done** (**C1616**). Household slugs **404** (**C1617**) |
+| Lincoln remaining 1910/1920 townships | Dora ~38/~48 | Opened six **done** (**C1610**). Remaining slugs **404** (**C1618**) |
+| Cleveland AR marriages 1873–1992 | Dora Newnam × Stone 1920–25 | N/S/D–E **done** (**C1619 C1620**) |
+| Faulkner AR marriages N/S/D | T.A. × Dora 1920–25 | **Done** (**C1621**) |
+| Garrard KY deaths 1911–26 + marr 1851–1926 | Mary A. Newnam; Dora Stone | **Done** (**C1622**) |
+| Woodruff remaining 1910 sheets | Dora ~38 | Only ED 130 pp 1/2/5/6 posted. Residual (**B081**) |
+| Logan image-map record pages | 1901–25 name bodies | 1901twp = boundaries. Residual (**B081**) |
 
 ## Variant strings used this session (categories 1–4)
 
@@ -175,7 +186,7 @@ See [`sources/authored/PROVENANCE.md`](sources/authored/PROVENANCE.md). Drive se
 
 **Thomas / T. A. Stone:** Thomas, Tom, T. A., T A × Stone, Store, Stowe (rejects already logged).
 
-Exact strings in `02-log.md` **L343–L352** (pass 60–61), **L361–L372** (pass 62), **L373–L379** (pass 63), **L396–L405** (pass 64), **L406–L418** (pass 65), **L419–L429** (pass 66), **L430–L441** (pass 67), **L442–L455** (pass 68), **L456–L470** (pass 69), **L471–L484** (pass 70), **L485–L498** (pass 71), **L499–L512** (pass 72), **L513–L528** (pass 73), **L529–L544** (pass 74), **L545–L560** (pass 75), **L561–L576** (pass 76), **L577–L596** (pass 77), **L597–L614** (pass 78), and **L615–L632** (pass 79).
+Exact strings in `02-log.md` **L343–L352** (pass 60–61), **L361–L372** (pass 62), **L373–L379** (pass 63), **L396–L405** (pass 64), **L406–L418** (pass 65), **L419–L429** (pass 66), **L430–L441** (pass 67), **L442–L455** (pass 68), **L456–L470** (pass 69), **L471–L484** (pass 70), **L485–L498** (pass 71), **L499–L512** (pass 72), **L513–L528** (pass 73), **L529–L544** (pass 74), **L545–L560** (pass 75), **L561–L576** (pass 76), **L577–L596** (pass 77), **L597–L614** (pass 78), **L615–L632** (pass 79), and **L633–L650** (pass 80).
 
 **Pearl / Clyde (pass 63):** Pearl × Newnam/Newman/Jackson; Clyde × Jackson/jacksen. Soundex **N550** / **J250**.
 
@@ -196,3 +207,5 @@ Exact strings in `02-log.md` **L343–L352** (pass 60–61), **L361–L372** (pa
 **Dora placement (pass 78, B078):** Dora / posa / dosa / rosa / dona / dara / Nora / Cora / Ella × Newnam / Newman / Stone; Mrs. Stone; Mrs. Newman; T.A. / Tom Stone. Soundex **N550** / **S350**. Used on Saline Q/R *groom* PDFs and new year-hole hosts (Grant BLM land; Menifee death year files; Estill births K–N / O–T mother field). Bride 1920–26: Dora / Ella / Posa × Newnam / Newman / Stone. Storey kept separate from Stone.
 
 **Dora placement (pass 79, B079):** Dora / posa / dosa / rosa / dona / dara / Nora / Cora / Ella × Newnam / Newman / Stone; Ella / alla / elia as mother; Mary / mayr × Newnam / Smallwood. Soundex **N550** / **S350**. Used on Estill remaining 1911–16 letters, 1917–23 K–N/O–T, Estill death years 1911–16/1920–24/1926, Madison births, Madison 1918 K–R / 1926 S–Z, and Lincoln 1910/1920 opened files.
+
+**Dora placement (pass 80, B080):** Dora / posa / dosa / rosa / dona / dara / Nora / Cora / Ella × Newnam / Newman / Stone; Mary / mayr × Newnam / Smallwood; T.A. / Tom Stone. Soundex **N550** / **S350**. Used on Madison remaining death year×letter files, Prairie 1910 name indexes, Cleveland 1873–1992 N/S/D–E, Faulkner N/S/D, Garrard 1911–26 deaths, Garrard marriages 1851–1926, and Woodruff 1910 sample sheets.
