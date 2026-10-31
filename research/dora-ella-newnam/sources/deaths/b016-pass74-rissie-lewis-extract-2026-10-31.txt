@@ -1,0 +1,114 @@
+Pass 74 B016 — Rissie Newnam / Lewis / Pelfrey / Stamper  (bc-c5415202)
+31 Oct 2026. Deceased-only. Variants 1–4 before queries (01-plan.md pass 74).
+IDs C425–C434 / L486–L495 / S364–S370. Did not take B047/B092/B049/B054/B055/B056.
+Did not retake B045/B051/B057.
+
+1. TENNESSEE DEATH INDEX (Shelby County Register of Deeds)
+   https://search.register.shelby.tn.us/index.php?go=TNdeathRecords
+   POST deathSearchResultsvital.php   index only; certificate not examined
+   Labelled Partial Indexes 1949–2014.
+
+   HIT (one row statewide under these queries):
+     LEWIS RISSIE N
+     Date of Death / Age: 05-13-1980 / 82
+     County of Death: KNOX
+     County / State of Residence: KNOX / TN
+     Marital Status: WIDOW   Gender: F   Race: WHITE
+     File #: 15370
+   Queries that returned this row:
+     KNOX  param1= (blank) param2=RISSIE  01/01/1979–12/31/1981  F
+     ALL   param1=LEWIS     param2=RISSIE  01/01/1979–12/31/1981  F
+     KNOX  param1=LEWIS     param2= (blank) 05/13/1980–05/13/1980 F
+     ALL   param1=LEWIS     param2=RISSIE  01/01/1949–12/31/2014  F  → Number of Hits: 1
+
+   NEGATIVES:
+     KNOX PELFREY RISSIE / RISSA / RECIE  1979–1981
+     KNOX NEWNAM / NEWMAN / STAMPER RISSIE  1979–1981
+     ALL  PELFREY RISSIE / RISSA  1949–2014
+     ALL  NEWNAM / NEWMAN / STAMPER RISSIE  1949–2014
+     ALL  PELFREY (blank)  05/01/1980–05/31/1980
+     KNOX PELFREY (blank)  1980
+   Rejected other Pelfrey 1980 F: AMANDA E 07-31-1980 / 65 ROANE; MAGGIE 08-18-1980 / 81 RHEA
+   KNOX PELFREY 1970–1990 F: MABLE C 07-13-1973 / 50 (res. ROANE)
+
+   Age 82 on 13 May 1980 ⇒ born 14 May 1897 – 13 May 1898.
+   Retrieval: requestform.php?type=death&year=1980 file 15370;
+   TN Office of Vital Records / TSLA. TN death *certificates* remain
+   confidential 50 years (1980 → 2030). Index is public. Image not examined.
+
+2. FIND A GRAVE
+   Listing (search firstName=Rissie lastName=Lewis deathyear=1980):
+     Rissie P Lewis   1897 – 1980
+     Greenwood Cemetery, Knoxville, Knox County, Tennessee
+     Memorial 223821265
+     https://www.findagrave.com/memorial/223821265/rissie-p-lewis  (page 403 this VM)
+   Cemetery 12650: 25,478 memorials, Knoxville, Knox County.
+   Stone PHOTOGRAPH image seen (full JPEG 4032×3024, 3,199,442 B):
+     Diplomatic: RISSIE P. LEWIS / 1897  [open book]  1980
+     Bronze flush marker on granite; vase + silk flowers (not part of inscription).
+     EXIF: samsung SM-G960U  2021-02-28 14:51:57
+     URL: https://images.findagrave.com/photos/2021/62/223821265_4bed6dbe-e781-47fa-89b2-e2233ab5afe2.jpeg
+   Same cemetery 1980 Lewis listings also: Bessie Ermine; Margaret C. Lewis — not merged.
+   Reject: Rissie Crawford Lewis 21 Feb 1922 – 22 Nov 1980, Hopewell Valley, Tyler, Smith Co. TX (84773402).
+   FAG firstName=Rissie lastName=Pelfrey / Stamper / Newnam: no matching 1897–1980 Knoxville woman.
+
+3. WIKITREE re-read (WebFetch 31 Oct 2026)
+   Newnam-46: Rissie (Newnam) Pelfrey formerly Newnam aka Stamper
+     Born [date unknown] Pebworth, KY; died 13 May 1980 Knoxville, TN
+     Daughter of Samuel Parriott Newnam; mother unknown; spouses empty
+     Mother of Bertha (Stamper) Pelfrey; {{Unsourced}}
+   Stamper-572: Bertha (Stamper) Pelfrey formerly Stamper aka Newman
+     Born 1910s / died 2000s; bio 1912–2009 unsourced.
+     Private daughter 1930s — Living — details withheld.
+
+4. LEE MARRIAGE BOOKS 16–37 (USGenNet, all HTTP 200)
+   Nil Rissie/Rissa/Recie Newnam or Newman as bride or groom.
+   Rissie as *mother* only (rejected as P009): Creech / Stewart / Isaacs.
+   Book 22 NEWNAM × Lucy STAMPER is a different couple.
+
+5. INTERNET ARCHIVE Solr (numFound)
+   Rissie Newnam Pelfrey = 0
+   Rissie Pelfrey Knoxville 1980 = 0
+   Rissie Lewis Knoxville 1980 = 0
+   "Rissie P. Lewis" OR "Rissie P Lewis" OR "RISSIE P. LEWIS" = 0
+   (A broader OR+1980 query was discarded as too loose.)
+
+6. OTHER FREE NEGATIVES / REJECTS
+   SortedByName /letter_l/lewis/rissie_lewis.html and rissie_n_lewis.html = 404
+   SortedByName search CGI = Cloudflare 403
+   FamilySearch record search = 403
+   locateancestors.com/rissie-lewis/ = 403
+   GenealogyBank SSDI browse = 202 shell (no row extracted)
+   USGenNet Lee obituaries L: no Rissie
+   USGenNet Lee deaths/1980.html = 404
+   KYGenWeb Owsley marriages landing = 404
+   Lee vital-statistics marriages: Sarah NEWNAM × Lewis PORTER 1878 — different woman
+   Rissie Pelfrey Maxey b. 20 May 1882 Elamton, Morgan Co. KY — already rejected
+   Rissie N Threet b. 15 Apr 1900 d. 18 Oct 1995 Jefferson KY — rejected
+   Rissie Ellen Conn née Lewis (mother of Ezra Lewis Conn) — rejected (Lewis is maiden)
+
+7. SAME-PERSON (Hard Rule 3)
+   Index LEWIS RISSIE N + stone RISSIE P. LEWIS 1897–1980 Greenwood Knoxville:
+     Identifiers: Rissie Lewis; death 1980; Knox/Knoxville; age 82 ↔ birth 1897.
+     Contradiction: middle initial N (index) vs P (stone). Conflict #26.
+     Conclusion: PROBABLE one woman. Certificate unread.
+   That decedent + WikiTree Newnam-46:
+     Identifiers: death 13 May 1980; Knoxville/Knox; given name Rissie; age/year ~1897.
+     Contradiction: WikiTree legal surname Pelfrey vs index/stone Lewis.
+     Pelfrey may be an earlier married name (stone middle P). POSSIBLE/PROBABLE as the WikiTree person.
+   That decedent + 1900 Rissa May 1897 (P009):
+     Identifiers: Rissa/Rissie (unusual); birth year 1897 / May 1897.
+     WikiTree father Samuel + Pebworth is authored, not a primary third identifier.
+     No parent names on index or stone. Lee bride books 5–37 nil.
+     Conclusion: POSSIBLE only. Do not print as proved death of Dora’s daughter.
+
+8. RETRIEVAL PATH (certificate still unread)
+   (A) Shelby Register requestform.php type=death year=1980 file 15370
+       https://search.register.shelby.tn.us/requestform.php?type=death&year=1980
+   (B) Tennessee Office of Vital Records (next-of-kin / legal request until 50-year
+       confidentiality expires in 2030) — decedent Rissie N. Lewis, d. 13 May 1980,
+       Knox County, file 15370.
+   (C) TSLA named search at tslaindexes.tn.gov (JS form; CloudFront 403 from this VM).
+   (D) Newspapers.com Knoxville News-Sentinel 14–16 May 1980 (catalogued 1922–2026;
+       page not opened). Commercial Appeal ~Sep 1980 for sister Pearl P. Jackson
+       (proved deceased 19 Sep 1980 Shelby) if a sibling list is wanted.

@@ -1,0 +1,33 @@
+Pass 74 B016 — Shelby County Register of Deeds, Tennessee Deaths index 1949–2014
+URL: https://search.register.shelby.tn.us/index.php?go=TNdeathRecords
+POST deathSearchResultsvital.php  31 Oct 2026  index only (certificate not examined)
+
+HIT:
+  LEWIS RISSIE N
+  Date of Death / Age: 05-13-1980 / 82
+  County of Death: KNOX
+  County / State of Residence: KNOX / TN
+  Marital Status: WIDOW
+  Gender: F   Race: WHITE
+  File #: 15370
+  Queries that returned this row:
+    county=KNOX param1= (blank) param2=RISSIE bdate=01/01/1979 edate=12/31/1981 gender=F
+    county=ALL  param1=LEWIS param2=RISSIE bdate=01/01/1979 edate=12/31/1981 gender=F
+    county=KNOX param1=LEWIS param2= (blank) bdate=05/13/1980 edate=05/13/1980 gender=F
+
+NEGATIVES (NO HITS FOUND FOR):
+  KNOX PELFREY RISSIE / RISSA / RECIE  01/01/1979–12/31/1981
+  KNOX NEWNAM RISSIE / NEWMAN RISSIE / STAMPER RISSIE  same dates
+  ALL  PELFREY RISSIE / RISSA  01/01/1949–12/31/2014
+  ALL  NEWNAM RISSIE / NEWMAN RISSIE / STAMPER RISSIE  01/01/1949–12/31/2014
+  ALL  PELFREY (blank)  05/01/1980–05/31/1980
+  ALL  PELFREY RISSIE soundsLike  01/01/1979–12/31/1981
+  KNOX PELFREY (blank)  01/01/1980–12/31/1980
+
+OTHER HITS (rejected as P009):
+  ALL PELFREY 1980 F: PELFREY AMANDA E 07-31-1980 / 65 ROANE; PELFREY MAGGIE 08-18-1980 / 81 RHEA
+  KNOX PELFREY 1970–1990 F: PELFREY MABLE C 07-13-1973 / 50 KNOX (res. ROANE) file 22494
+
+Access: index only. Certificate image not examined.
+Retrieval: Shelby requestform.php type=death year=1980 file 15370; or TSLA / TN Office of Vital Records.
+Index is labelled Partial Indexes from 1949–2014.
