@@ -2005,5 +2005,46 @@ Only infant is GD **Storz, Sarah** Oct **1899** **6/12** on n**3118**. FAN. → 
 
 Age **41** vs **28**; Ohio vs Kentucky. Rejected as **P001**. → **C553**.
 
+## DOC155 — 1900 TN Soundex S-415, Sullivan, Michel, 39, Indiana (Memphis boarder)
+- Image: `sources/soundex/tn1900-s415-n0250-michel-39-indiana.jpg` SHA-256 `1b409433cd2dbd26baf1b23430262d73279449abf7d9c24cb6eb3190bb20fc88`
+- Reel: IA `soundex1900tn154` n**0250** · **image seen**
+
+### Diplomatic
+> **S415 Sullivan, Michel.** — Individual · vol **63** ED **67** sh **5** ln **90** · W Jan **1861** **39** Indiana · Shelby / Memphis / Front **242**
+> Enumerated with **Graff, Louisa** — Boarder
+> Remarks blank. Family grid unused.
+
+IN nativity near-hit; **no child**. Keep separate from **C244**. → **C560**.
+
+## DOC156 — 1900 TN Soundex S-415, Franklin W; Lena 2
+- Image: `sources/soundex/tn1900-s415-n3891-franklin-w-lena-2.jpg` SHA-256 `0471bc4946d92b114d64b3aa03a07c060f0f3fb82eb2a7523921fea075b751a7`
+- Reel: IA `soundex1900tn153` n**3891**
+
+### Diplomatic
+> **Sullivan, Franklin W** — Head · vol **18** ED **20** sh **2** · W [?] **1863** **36** Tennessee · [Smith?] Dist #2 Civil
+> Wife **Ida[?]** W July **1872** **26** Tennessee; **Lena** D [Mar?] **1898** **2** Tennessee; **Emma M** D Oct **1899** **[1?]** Tennessee
+
+Diplomatic **Lena** not Letha. → **C561**.
+
+## DOC157 — 1900 TN Soundex S-415, George of White; Lena L 1
+- Image: `sources/soundex/tn1900-s415-n3906-george-white-lena-l-1.jpg` SHA-256 `b671204bb2bc5f052a19fdab7b3cb43476c4f857cb630c784ebe9be5dbc15fcb`
+- Reel: IA `soundex1900tn153` n**3906** (continuation of n**3905**)
+
+### Diplomatic
+> **Sullivan, George** — Head of family continued · White 6th CD
+> **Manuel[?]** D Dec **1892** **7** Tennessee; **Isaac** S Oct **1894** **5**; **Alexander** S Oct **1895** **4**; **Lena L** D Feb **1899** **1**; **I[va?]** D Apr **1900** **1/12**; **Charlotte** M Oct **1832** **67**
+
+Head card n**3905**: George W Sept **1855** **44** TN; wife **Ella** May **1861** **39 Kentucky**. Diplomatic **Lena L**. → **C562**.
+
+## DOC158 — 1900 TN Soundex S-415, Pat W.; Mary 3 + Lee 1/12
+- Image: `sources/soundex/tn1900-s415-n0294-pat-w-mary-3-lee.jpg` SHA-256 `6ac635b7cf10da884061993258880e9a85cd57297e0b94953bda58bde3f38c21`
+- Reel: IA `soundex1900tn154` n**0294**
+
+### Diplomatic
+> **S415 Sullivan, Pat W.** — Head · vol **51** ED **37** sh **15** ln **11** · W Apr **1874** **26** Tennessee · Montgomery CD #12 / Clarksville High **403**
+> **Josie** W Sept **1873** **27** Kentucky; **Mary** D Oct **1896** **3** Tennessee; **Lee** D Apr **1900** **1/12** Tennessee
+
+Lee is a **daughter**. → **C564**. Full walk: `sources/soundex/b007-pass93-tn-edward-patrick-read.md`.
+
 ## DOC009 — 1910 TN Soundex N-550 McCoy window (nil)
 Handwritten family/individual cards n2461–n2469. Sequence after Mary C (n2460): Mary D 49 Jefferson (son Layton 11); Mary M 70 Hamilton; Mek. G 50 Cheatham (Florence 19, John 17, General 16, Frances 13, William 10, Doria 6, Luther 1½); Melvin 3½ Giles (gs of Deacon George W); Melvin 54 Giles (SIL of same); Minerva 80 Robertson (gds Lona Neely, Nellie Erwin); Minnie 21 Roane (with Sam P. Sparks); Mitchell 27 Hardin (Ollie P 25, Gladys 4, Burl W 3, Royal E 1 9/12). **No McCoy.** SHA-256 n2463 `23610f8aa4c159b1b554ed1786d11f57d2f56f8a2e8994f7289ae7bd02dfca53`; n2469 `340489566090880388fa6b81ca5751c5944dcaf56a7b44f70fe560788f308586`.
