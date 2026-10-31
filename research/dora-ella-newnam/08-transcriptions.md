@@ -4410,3 +4410,79 @@ Pass 2: License still unseen. Do **not** treat extract-nil as a marriage. Do **n
 
 
 
+
+## DOC182 — 1920 Soundex B-630 Barrett James 3368–3495 and Lee 3835–3862 (Pass 88)
+
+- Extract: `ky1920-b630-barrett-james-lee-pass88.txt` SHA-256 `30a7a18ea907402c25642a01cff91b3f0ac95594f7ee26a50b68269ce274ea75`
+- Coverage: `pass88-coverage.txt` `e22131a33213a1f9f635694bc439def45c4cbcd17ff3e2aaa42e020f30b5e5a7`
+- Provenance: IA `soundex1920ky018` zip-member JP2. **Image-seen** 31 Oct 2026. 156 leaves, 0 fails. Tesseract on 42% bands was garbage; two-pass visual Read of keepers. Keeper = upper-card JPEG crop (1600-wide) except 3382 continuation = lower 58%.
+
+### Diplomatic — cited cards
+
+> **3382** B-630 **Barrett, James** Head W **36** Kentucky **Owsley** vol **76** ED **92** sheet **6** line **64**. Continuation (lower card): **Ollie** W **22**; **Ivory** D **4**; **Pearl** S **2**; **Barrett, Susan** M **68**. Derivative of original dw **102** (DOC183). Soundex ages **36** / Pearl **2** yield to original **30** / **3**.
+
+> **3370** B-630 **Barrett, James R** Head W **72** Kentucky **Henderson**. **DISPROVED** as 1910 James 23.
+
+> **3376** B-630 **Barrett, James** Head W **61** Kentucky **Clay**. **DISPROVED**.
+
+> **3380** B-630 **Barrett, James** Head W **29** Kentucky **Breathitt**; wife **Martha** **17**; FIL **Thomas** **67**. **DISPROVED** (Breathitt ≠ Owsley; FIL Thomas ≠ John).
+
+> **3387** B-630 **Barrett, James** Head W **33** Kentucky **Franklin**. Age collision; Franklin ≠ Owsley. **DISPROVED**.
+
+> **3430** B-630 **Barrett, James C** Head W **27** Kentucky **Lyon**. **DISPROVED**.
+
+> **3388** **Parrot**, James Head W **64** Kentucky **Bourbon**. Surname diplomatically **Parrot**, not Barrett. **DISPROVED**.
+
+> **3841** B-630 **Baird, Lee** Head W **49** Kentucky **Clay**. Surname **Baird** ≠ Barrett; Clay ≠ Owsley. **DISPROVED** as 1910 Lee 39.
+
+> **3830** B-630 **Barrett, Leander** Head W **35** Kentucky **Lewis**. **DISPROVED** as 1910 Lee 39 (35 vs ~49; Lewis ≠ Owsley).
+
+Pass 2: James given-name slot **image-closed**. One Barrett, James ~33 Owsley ED **92** head exists and is the original dw **102**. Lee given-name slot **image-closed**. **Nil** Barrett, Lee ~49 Owsley ED **92** as a head. Do not treat Lee head-nil as death. Do not treat John-not-in-James-house as proved death.
+
+### Facts extracted → claim IDs
+- James slot closed; 3382 FOUND → C941
+- other Barrett James DISPROVED → C943
+- Lee slot closed; nil Barrett Lee ~49 Owsley ED 92; 3841/3830 DISPROVED → C944
+
+## DOC183 — 1920 original ED 92 sh 6 A dw 102/102 Barrett, James (Pass 88)
+
+- Extract: `owsley-1920-ed92-sh6a-barrett-james-pass88.txt` SHA-256 `3d4043f6b18c89240665d56c2a0cec9493f8ac5825974d4ee430b2525fcb9206`
+- Provenance: IA `14thcensusofpopu594unit` leaf **1166** (stamped **6 A**). **Image-seen** 31 Oct 2026. Hard Rule 6 of Soundex **3382**. Mapping: Pass 74 leaf **1166** = ED **92** sh **6 A** (Gay Henry ln 80). Sheet **6 A** is a B-form numbered **51–100**.
+
+### Diplomatic — cited lines
+
+> Header leaf **1166**: State Kentucky / County Owsley / Buffalo Precinct No. **5** / SD **10** / ED **92** / Sheet **6 A**. Enumerated **14 January 1920** by **Fred Hubbard**.
+
+> Ln **64** dw **102/102 Barrett, James** Head m W **30** M KY general farmer.  
+> Ln **65** **Ollie** Wife f W **22** M KY.  
+> Ln **66** **Ivory** Dau f W **4** S KY.  
+> Ln **67** **Pearl** Son m W **3** S KY.  
+> Ln **68** **Barrett, Susan** mother f W **68 Wd** KY.
+
+Pass 2: Clerk James stands. Soundex age **36** / Pearl **2** yield to original **30** / **3**. **PROBABLE** 1910 Buffalo dw **22** James **23** / Susan **62** (30 vs ~33 and 68 vs ~72 disclosed, not averaged). ≥2 identifiers: Barrett James + Owsley ED **92** Buffalo + mother Susan. John **nil** in this house. Susan Wd + absence = **POSSIBLE** death 1910–1920 only. Lee not in this house. Same sheet as Gay Henry dw **105** / Daniel Reece dw **106** / Dean George × Martha dw **107**. Do not merge with Barrett Bruce 42 / Billy 22 / Bent 24 / Beard John 71.
+
+### Facts extracted → claim IDs
+- Original James 30 = Soundex 3382; PROBABLE 1910 James 23 / Susan 62 → C942
+
+## DOC184 — Josephine remaining + T288 (Pass 88)
+
+- Extract: `josephine-gilbert-pass88.txt` SHA-256 `349c0beb949ca866e7a9f1a6ca2f59ca8b5a029cf79ecc87890eaff561ce68c8`
+- Coverage: `pass88-coverage.txt` `e22131a33213a1f9f635694bc439def45c4cbcd17ff3e2aaa42e020f30b5e5a7`
+- Provenance: KYGenWeb HTML, Madison compiled 1786–1952 pdftotext (PDFs **not committed**), Taylor/Shelby/Marion/Franklin/Powell/Rockcastle indexes, IA advancedsearch. Opened 31 Oct 2026. **HTML-seen / access-fail**, not a ~1902 civil register. License unseen. Original 1916 DC face unseen. T288 unseen.
+
+### Diplomatic — cited extracts
+
+> Rockcastle G/N/J 1851–1900 **n/a** ~1902. Taylor 1852–1910 HTML **nil**. Madison letter J/N **nil**. Madison compiled PDFs: Josephine **1869 Cotton / 1886 Johnson / 1946 Muncy** — other. Newman hits other (Lillie M 1901, &c.).
+
+> Shelby 1901 Josephine Bradley — other. Marion 1901/1904 Josie Carr / Whitlock / Brady / Tandy — other. Franklin 1902 **n/a**. Powell marindex = contributed bonds only.
+
+> `/marriages.htm` Franklin/Shelby/Washington/Marion/Taylor/Madison/Powell **404**. Rockcastle **200**.
+
+> IA T288 / M123 / KY DC 1916 **numFound 0**.
+
+Pass 2: License still unseen. Do **not** treat extract-nil as a marriage. Do **not** promote C509. James every-leaf closed as original dw **102** (C942). Lee slot closed nil as a head (C944). Do not close B063.
+
+### Facts extracted → claim IDs
+- Josephine remaining nil/other/n/a; T288 0 → C945
+- B061 remaining gap → C947
+

@@ -1,0 +1,25 @@
+Pass 88 coverage — 31 Oct 2026 America/New_York
+This run bc-01a18bb4-e162-785c-9724-86a7c5663bf1
+Catalog 149 / hasMore false / totalMatched 149. Unchanged vs Pass 87.
+NEW vs 149 = 0 (no IDs imported).
+Status-only vs Pass 87: TN S-415 now IDLE; AR S-415 now IDLE; KY S-415 still
+RUNNING. Dora 1840 Clark B059 still RUNNING. Read IN Charles/Daniel/Joseph/
+Peter/Robert still IDLE. Dora's biography research PR #33
+WAITING_FOR_BACKGROUND_WORK (sibling C281 not imported). Nested reviewer not
+respawned. Message queue empty.
+
+Work this pass:
+- B-630 Barrett James given-name slot every-leaf ky018 3368–3495 (128 leaves,
+  0 fails). HIT Soundex 3382 copies original ED 92 sh 6 A ln 64 dw 102
+  Barrett, James 30 × Ollie 22 + Ivory 4 + Pearl 3 + mother Susan 68 Wd
+  (Hard Rule 6; Soundex age 36 / Pearl 2 yield to original). PROBABLE 1910
+  James 23 / Susan 62. John nil in this house.
+- Other Barrett James 3370/3376/3380/3387/3430/3388 DISPROVED.
+- B-630 Barrett Lee given-name slot every-leaf 3835–3862 (28 leaves, 0 fails)
+  image-closed. Nil Barrett, Lee ~49 Owsley ED 92 as a head. 3841 Baird Lee 49
+  Clay DISPROVED. 3830 Leander 35 Lewis DISPROVED.
+- Josephine remaining: Rockcastle 1851–1900 n/a; Taylor nil; Madison PDFs
+  other; Shelby/Marion other; Franklin 1902 n/a; T288 numFound 0.
+- Do not hunt D-540. Do not close B063. Do not promote C509. Do not import C281.
+- Gallery 8hi–8hm (321→326). Next unused after this pass C948+ / L829+ / S678+ /
+  DOC185+.

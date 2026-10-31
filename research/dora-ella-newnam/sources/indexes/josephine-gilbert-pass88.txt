@@ -1,0 +1,37 @@
+Pass 88 — Josephine Newnam × Gilbert ~1902 remaining substitutes + T288
+Opened 31 Oct 2026 America/New_York. License unseen. Original 1916 DC face unseen.
+T288 unseen. Madison 1786–1952 compiled PDFs pdftotexted in /tmp (AL 5.3MB /
+MZ 4.6MB); PDFs not committed.
+
+KYGenWeb /marriages.htm:
+  Rockcastle 200. Franklin / Shelby / Washington / Marion / Taylor / Madison /
+  Powell 404 (indexes themselves 200 where present).
+
+Rockcastle G / N / J letter files 1851–1900 n/a ~1902.
+  String-nil Josephine / Josie / Gilbert / Newnam in those letter files as dated.
+
+Taylor 1852–1910 HTML opened: nil Josephine / Josie Newnam × Gilbert ~1902.
+
+Madison letter J / N HTML: nil Josephine / Josie / Newnam as this ~1902 bride.
+Madison compiled 1786–1952 PDFs (pdftotext, not committed):
+  Josephine hits other:
+    1869 Cotton — other (year; surname).
+    1886 Johnson — other.
+    1946 Muncy — other (year).
+  Newman hits other (Lillie M 1901, &c. — not Josephine Newnam × Gilbert ~1902).
+  Gilbert HTML hits on Madison index paper are mostly “Bradley & Gilbert Company”
+  vendor, not grooms.
+
+Shelby 1901 Josephine Bradley — other bride.
+Marion 1901/1904 Josie Carr / Whitlock / Brady / Tandy — other brides.
+Franklin marriages 1852–59 / 1861 / 1874–78 / 1903 so 1902 n/a.
+Powell marindex = contributed bonds only; no ~1902 Josephine Newnam × Gilbert row.
+
+IA advancedsearch 31 Oct 2026:
+  title T288 OR "General Index to Pension Files" Newman — numFound 0
+  collection microfilm T288 pension — numFound 0
+  title M123 veterans 1890 Kentucky — numFound 0
+  title Kentucky death certificate 1916 Owsley — numFound 0
+
+Do not promote C509. Do not hunt D-540. License unseen. Original 1916 DC unseen.
+T288 unseen. Do not commit the 42MB/38MB Madison PDFs.

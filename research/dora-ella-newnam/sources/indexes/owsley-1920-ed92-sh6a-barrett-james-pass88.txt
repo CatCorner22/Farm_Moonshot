@@ -1,0 +1,40 @@
+Pass 88 — 1920 original ED 92 sh 6 A ln 64 dw 102/102 Barrett, James (Hard Rule 6)
+NARA T625-594 / IA 14thcensusofpopu594unit leaf 1166 (stamped 6 A).
+Image-seen 31 Oct 2026 America/New_York.
+Mapping: Pass 74 leaf 1166 = ED 92 sh 6 A (Gay Henry ln 80 dw 105).
+Sheet 6 A is a B-form numbered 51–100. Soundex “sheet 6 line 64” = 6 A printed ln 64.
+Sheet 6 B is numbered 1–50 (Bruce ln 40 / Billy ln 47). Prior 6 A crops read only
+the bottom (ln 80–100) and missed ln 64.
+
+JPEGs:
+  1920-owsley-ed92-sh6a-hdr.jpg (Pass 74; reused, not overwritten)
+  1920-owsley-ed92-sh6a-names.jpg (regenerated full names column, 2016×2255)
+  1920-owsley-ed92-sh6a-hh102-barrett-james.jpg (ln 64–68 crop)
+
+Header (leaf 1166; Pass 74 already filed):
+  State Kentucky / County Owsley / Buffalo Precinct No. 5
+  SD 10 / ED 92 / Sheet 6 A / B-form lines 51–100
+  Enumerated 14 January 1920 by Fred Hubbard.
+
+Diplomatic cited lines (Pass 1 + Pass 2):
+  Ln 64 dw 102/102 Barrett, James Head m W 30 M KY general farmer
+  Ln 65 Ollie Wife f W 22 M KY
+  Ln 66 Ivory Dau f W 4 S KY
+  Ln 67 Pearl Son m W 3 S KY
+  Ln 68 Barrett, Susan mother f W 68 Wd KY
+
+Same sheet already filed: Gay Henry ln 80 dw 105; Daniel Reece ln 86 dw 106;
+Dean George × Martha ln 93 dw 107.
+
+Soundex B-630 3382 Barrett, James W 36 Kentucky Owsley vol 76 ED 92 sh 6 ln 64
+copies this original (Hard Rule 6). Clerk James stands. Soundex age 36 / Pearl 2
+yield to original age 30 / Pearl 3.
+
+PROBABLE 1910 Buffalo dw 22 Barrett, James 23 (age 30 vs ~33 disclosed, not
+averaged) + mother Susan 68 vs 1910 Susan 62 (68 vs ~72 disclosed, not averaged).
+≥2 independent identifiers: Barrett James + Owsley ED 92 Buffalo + mother Susan.
+John nil in this house. Do not treat John as proved dead; Susan Wd + absence =
+POSSIBLE death 1910–1920 only. Lee not in this house.
+
+Do not merge with Barrett Bruce 42 dw 115 / Billy 22 dw 116 / Bent 24 ED 88 /
+Beard John 71 ED 90. Do not hunt D-540. Do not close B063.

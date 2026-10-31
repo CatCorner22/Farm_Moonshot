@@ -1,0 +1,48 @@
+Pass 88 — 1920 Kentucky Soundex B-630 Barrett James given-name slot 3368–3495
+and Lee given-name slot 3835–3862
+NARA M1563 reel ky018 (B-625 Obe–B-631 Wylie)
+IA soundex1920ky018 zip-member JP2. Image-seen 31 Oct 2026 America/New_York.
+Native JP2; sample/every-leaf = upper-card JPEG crop (top 42%, 1400-wide quality 70).
+Keepers 1600-wide quality 72. Given-name sort.
+James 128 leaves + Lee 28 leaves = 156 leaves, 0 fetch fails.
+Every-leaf visual Read (tesseract on 42% bands garbage).
+42% band omits household members — lower 58% of 3382 required for A-2.
+
+Window brackets from Pass 88 samples:
+3368 Brady, Jake H (end of Jake).
+3369 Byrd, Jake P.
+James given-names start 3370+.
+Jefferson/Jim after ~3490/3540. James slot closed before those.
+
+Target: 1910 Buffalo dw 22 Barrett, John 65 + Susan 62 4-3 + Lee 39 + James 23
+would put James ~33 in 1920 as a possible head (A-2 path for John/Susan)
+and Lee ~49 as a possible head.
+
+HIT (Hard Rule 6 of original T625-594 leaf 1166):
+3382 Barrett, James W 36 Kentucky Owsley vol 76 ED 92 sh 6 ln 64.
+  Upper 42% band: head only (age 36 on the card).
+  Lower 58% continuation: Ollie W 22; Ivory D 4; Pearl S 2; Barrett, Susan M 68.
+  Soundex ages 36 / Pearl 2 yield to original 30 / Pearl 3 (Hard Rule 6).
+
+Other Barrett James heads in this window (all DISPROVED as 1910 Buffalo James 23):
+3370 Barrett, James R 72 Henderson. Age 72 vs ~33; Henderson ≠ Owsley.
+3371 dark/illegible printed James start — not an Owsley hit (not retained as a keeper).
+3376 Barrett, James 61 Clay. Age 61 vs ~33; Clay ≠ Owsley.
+3380 Barrett, James 29 Breathitt; wife Martha 17; FIL Thomas 67.
+  Age 29 vs ~33 is close and is not averaged; Breathitt ≠ Owsley;
+  FIL Thomas 67 ≠ 1910 John 65; wife Martha ≠ Ollie.
+3387 Barrett, James 33 Franklin. Age collision with ~33; Franklin ≠ Owsley.
+3388 Parrot (not Barrett), James 64 Bourbon. Surname diplomatically Parrot.
+3430 Barrett, James C 27 Lyon. Age 27 vs ~33; Lyon ≠ Owsley.
+
+Lee given-name slot 3835–3862 image-closed:
+Nil Barrett, Lee ~49 Owsley vol 76 ED 92 as a head.
+Lee not in James’s original house (ln 64–68).
+1910 Lee 39 is a Soundex miss as a head (A-2 under another surname still open).
+3841 Baird, Lee 49 Clay. Surname Baird ≠ Barrett; Clay ≠ Owsley. DISPROVED.
+3830 Barrett, Leander 35 Lewis. Leander ≠ Lee as a same-person test without more;
+  35 vs ~49; Lewis ≠ Owsley. DISPROVED as 1910 Lee 39.
+
+Do not treat Soundex head-nil of Lee as death.
+Do not treat John-not-in-James-house as proved death (POSSIBLE 1910–1920 only).
+Do not hunt D-540. Do not close B063. Do not promote C509. Do not import C281.

@@ -2329,3 +2329,64 @@ research/dora-ella-newnam/sources/census/1880-lee-ky-ed59-sheet43-p768-caroline-
   sha256: 7f16591d131d476aa7b044f2252322fcf27aa68d68eea7a6238c84a0ce4e346e
   format: text extract, 1,504 bytes
   check: Pass 87 coverage; catalog 149; Barrett John every-leaf closed
+
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-b630-p3382-barrett-james-36-owsley-ed92.jpg
+  sha256: b9cb61f7c0a62e8e5c95cfcfe7f251fcfb34ae736f3e431adaf1d1ed7f432f69
+  format: JPEG photo, 65,837 bytes
+  check: 1920 Soundex B-630 Barrett James 36 Owsley ED 92 Hard Rule 6 of original dw 102
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-b630-p3382-barrett-james-cont-susan.jpg
+  sha256: 8d5d186662ddac53c1d04a14e225ec95aa0c3a5cee19cf23757608fb9b289daf
+  format: JPEG photo, 127,097 bytes
+  check: 1920 Soundex B-630 3382 continuation Ollie Ivory Pearl Susan M 68
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-b630-p3370-barrett-james-r-72-henderson.jpg
+  sha256: a65540e7ac5afdc37838cb87b4690af40683110722b32e8536e3b9bec3fed6f2
+  format: JPEG photo, 94,587 bytes
+  check: 1920 Soundex B-630 Barrett James R 72 Henderson DISPROVED as 1910 James
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-b630-p3376-barrett-james-61-clay.jpg
+  sha256: 48758c04e6458518c142f67d87ac219f5c6cbe2fdc1d75a278c90c9f41ffa560
+  format: JPEG photo, 86,303 bytes
+  check: 1920 Soundex B-630 Barrett James 61 Clay DISPROVED
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-b630-p3380-barrett-james-29-breathitt.jpg
+  sha256: 1efadd977d16a88fa46be392f5d6ff49d8a98a3c69f970db93dafe2378448714
+  format: JPEG photo, 69,102 bytes
+  check: 1920 Soundex B-630 Barrett James 29 Breathitt DISPROVED FIL Thomas not John
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-b630-p3387-barrett-james-33-franklin.jpg
+  sha256: a6b99a3d9f7c334dc3071e46173e20e0cac87bd65ede4c7dcc464f909bb02c03
+  format: JPEG photo, 84,328 bytes
+  check: 1920 Soundex B-630 Barrett James 33 Franklin DISPROVED
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-b630-p3430-barrett-james-c-27-lyon.jpg
+  sha256: 4aff201abc152dfa31c370fda33a2d619102901222aa3d49e6349b8c08151a56
+  format: JPEG photo, 92,105 bytes
+  check: 1920 Soundex B-630 Barrett James C 27 Lyon DISPROVED
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-b630-p3841-baird-lee-49-clay.jpg
+  sha256: 1d476b40283a02a0071a45e86ae7632447cab1ec47cd8f99e9ebc24b142ea256
+  format: JPEG photo, 76,457 bytes
+  check: 1920 Soundex B-630 Baird Lee 49 Clay DISPROVED as 1910 Lee
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-b630-p3830-barrett-leander-35-lewis.jpg
+  sha256: b1f0cb08262f9b591e90285f6399bd493265991fae36c465d2470ae9bb4076b7
+  format: JPEG photo, 78,916 bytes
+  check: 1920 Soundex B-630 Barrett Leander 35 Lewis DISPROVED as 1910 Lee
+/workspace/research/dora-ella-newnam/sources/census/1920-owsley-ed92-sh6a-names.jpg
+  sha256: 2c8866bb99416a9cf3227687087e542af02c0d9e28d5cf2bf9f8e2fc78ec62c3
+  format: JPEG photo, 684,002 bytes
+  check: 1920 original ED 92 sh 6 A Buffalo names including ln 64 James
+/workspace/research/dora-ella-newnam/sources/census/1920-owsley-ed92-sh6a-hh102-barrett-james.jpg
+  sha256: 99122f28c8f82e3c2b4f3ad5c8f295ca58ddf4763419654dfc651a74c1a800d4
+  format: JPEG photo, 161,868 bytes
+  check: 1920 original ED 92 sh 6 A dw 102 Barrett James 30 x Ollie + Susan mother 68
+/workspace/research/dora-ella-newnam/sources/indexes/ky1920-b630-barrett-james-lee-pass88.txt
+  sha256: 30a7a18ea907402c25642a01cff91b3f0ac95594f7ee26a50b68269ce274ea75
+  format: text extract, 2,636 bytes
+  check: 1920 B-630 Barrett James 3368-3495 HIT 3382; Lee 3835-3862 closed
+/workspace/research/dora-ella-newnam/sources/indexes/owsley-1920-ed92-sh6a-barrett-james-pass88.txt
+  sha256: 3d4043f6b18c89240665d56c2a0cec9493f8ac5825974d4ee430b2525fcb9206
+  format: text extract, 1,967 bytes
+  check: 1920 original ED 92 sh 6 A dw 102 Barrett James Hard Rule 6
+/workspace/research/dora-ella-newnam/sources/indexes/josephine-gilbert-pass88.txt
+  sha256: 349c0beb949ca866e7a9f1a6ca2f59ca8b5a029cf79ecc87890eaff561ce68c8
+  format: text extract, 1,785 bytes
+  check: Josephine x Gilbert ~1902 remaining-county nil/other; T288 0
+/workspace/research/dora-ella-newnam/sources/indexes/pass88-coverage.txt
+  sha256: e22131a33213a1f9f635694bc439def45c4cbcd17ff3e2aaa42e020f30b5e5a7
+  format: text extract, 1,478 bytes
+  check: Pass 88 coverage; catalog 149; Barrett James original dw 102; Lee slot closed
