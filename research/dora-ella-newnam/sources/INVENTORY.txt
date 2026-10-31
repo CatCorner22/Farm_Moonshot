@@ -1102,3 +1102,7 @@ research/dora-ella-newnam/sources/soundex/tn1900-s415-n3766-burrell-baby-d.jpg
   format: JPEG Soundex card, IA soundex1900tn153 n3766
 research/dora-ella-newnam/sources/soundex/b007-pass96-1900-in-mo-ky-ar-il-tn-s415-leftover-fathers-2026-10-31.txt
   format: Pass 96 IN/MO/KY/AR/IL/TN S-415 leftover-father search log
+research/dora-ella-newnam/sources/newspapers/b049-pass97-1926-obit-storm-2026-10-31.txt
+  format: Pass 97 B049 1926 obituary free-source storm add (IA Solr + Pope live list + ASA index)
+research/dora-ella-newnam/sources/soundex/b007-pass97-1900-in-s415-leftover-e-2026-10-31.txt
+  format: Pass 97 IN S-415 leftover-E (Edward→Francis) search log
