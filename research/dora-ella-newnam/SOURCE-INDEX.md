@@ -1219,6 +1219,16 @@ Captured this session: **30 Oct 2026**. Earlier plates remain in `sources/census
 | S1510 | `sources/catalog/usgennet-lee-wills-pass139.html` | 2026-10-31 | USGenNet Lee wills | https://usgennet.org/usa/ky/county/lee/wills/ | no Samuel P. | **C1842** | transcription only |
 
 
+| S1511 | `sources/catalog/sk-mccracken-1850-pass140.html` | 2026-10-31 | S-K Publications | https://www.skcensus.com/1850-census-index-mccracken-county-kentucky/ | NEWMAN **174B** | **C1843** | index only |
+| S1512 | `sources/catalog/sk-todd-1850-pass140.html` | 2026-10-31 | S-K Publications | https://www.skcensus.com/1850-census-index-todd-county-kentucky/ | NEWMAN **247A** | **C1844** | index only |
+| S1513 | `sources/catalog/sk-trigg-1850-pass140.html` | 2026-10-31 | S-K Publications | https://www.skcensus.com/1850-census-index-trigg-county-kentucky/ | NEWMAN **314A** / TINKER **303A** | **C1845** | index only |
+| S1514 | `sources/catalog/sk-*-1850-pass140.html` leftover handshake | 2026-10-31 | S-K Publications | https://www.skcensus.com/ | Hart/Henry/Larue handshake | **C1846** | catalog only |
+
+
+| S1515 | `sources/census/pass140/keyplates/mccracken-174b-malinda-tight.jpg` | 2026-10-31 | IA reel 211 n0353 | https://archive.org/details/populationschedu0211unix | Malinda 38 SHA **d735cd47…** | **C1847** | image seen |
+| S1516 | `sources/census/pass140/keyplates/mcc174-n0352-header.jpg` | 2026-10-31 | IA reel 211 n0352 | https://archive.org/details/populationschedu0211unix | McCracken Dist 1 stamp **174** 17 Aug | **C1847** | image seen |
+
+
 ## Word biography provenance
 
 See [`sources/authored/PROVENANCE.md`](sources/authored/PROVENANCE.md). Drive search this session (title “Dora Ella Newnam Stone A Life”, exact filename, “Newnam Stone biography”) returned **0** files. Recent Drive files were unrelated (job drafts, living-tester DNA/health — **not used**). Gmail MCP was not re-authenticated.

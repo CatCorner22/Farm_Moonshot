@@ -475,6 +475,7 @@ Place as it was *at the date*; modern equivalent in brackets. Flag impossibiliti
 | **15 Jul 1850** | Hart Dist 1 n0005 stamp **3** | FAN **PROVEN** as mapping: header **IMAGE SEEN**. County **NOT** walked | Hart Co., KY | C1826 | S1495 |
 | **2 Aug 1850** | Henry Dist 1 n0440 | FAN **PROVEN** as mapping: header **IMAGE SEEN**. County **NOT** walked | Henry Co., KY | C1827 | S1496 |
 | **28 Aug 1850** | Campbell Newport n0130 stamp **127** | FAN **PROVEN** as image + reject-as-place: City of Newport, **not** Kenton Dist 1 **130B** | Campbell Co., KY | C1830 | S1499 |
+| **17 Aug 1850** | McCracken Dist 1 **174B** n0353 | FAN **PROVEN** as image + reject: hh **188/189 Malinda Newman 38** + six children. No William | McCracken Co., KY | C1847 | S1515 |
 
 
 **Impossibility flags:** None. Mother ~29 at Dora’s 1871 birth (Mary b. 1842). Dora age 14 at marriage is legal/period-possible (KY) though young; 1880 age 8 corroborates. Two children born before Coy in the 1886–1889 window would have Dora aged 15–18 — possible. No event after 23 Aug 1926 is attributed to her.

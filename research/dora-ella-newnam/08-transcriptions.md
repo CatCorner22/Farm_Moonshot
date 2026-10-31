@@ -1168,3 +1168,19 @@ Pass 2: exact age vs Owsley William 26; wife Angeline ≠ Jane 22 ≠ Rhoda; inf
 > 77/77  Logan Oakley    27  M  Farmer  $257     N. Carolina
 
 Pass 2: compiled Jane; the wife’s first letter lacks the J-descender of Jo on the line above, so **Nan[?]** remains open. Either way she is 53 NC, not 22 KY. William P 26 is a son in the same household, not a living head. Surname letterforms match Francis J **Newman** on n0238. No Francis 4 / Leanner 2. No Rhoda. **REJECT** vs Owsley hh 311. → **C1823** / **S1491 S1492**.
+
+## DOC054 — 1850 McCracken Dist 1 174B Malinda Newman 38
+
+**Inventory:** `sources/census/pass140/keyplates/mccracken-174b-malinda-tight.jpg` SHA **d735cd47…** (image seen). Dist 1 stamp **174**, 17 Aug 1850, n0353.
+
+### Diplomatic
+> 188/189  Malinda Newman    38  F
+>          Jacob P. Newman   12  M
+>          Mary E. Newman    11  F
+>          John H. Newman     7  M
+>          Thomas P. Newman   6  M
+>          Na[ncy?] L. Newman 3  F
+>          Amity Mc Newman  4/12 F
+> 189/190  Wm P. Allen       38  M  Farmer
+
+Pass 2: female head 38; children 12–infant; no William 26; no Jane/Rhoda. **REJECT**. → **C1847** / **S1515**.

@@ -1919,6 +1919,13 @@ One row per search, **including nil results**. Access: free | subscription | on-
 | L1667 | 2026-10-31 | USGenNet wills (**B045/B065**) | Samuel P. | Jane Steele / Elizabeth / Mary F. — **no** Samuel P. (**C1842**) | S1510 | B045 B065 |
 | L1668 | 2026-10-31 | Search-variant-alternatives cats **1–4** | Jno/William/Jane/Rhoda | Soundex **N550** / **T526** / **S350**. Exact strings this extract | S1504 | B071 |
 
+| L1669 | 2026-10-31 | SK McCracken (**B071**) | NEWMAN 174B | **LIVE**. Original unread (**C1843**) | S1511 | B071 |
+| L1670 | 2026-10-31 | SK Todd (**B071**) | NEWMAN 247A | **LIVE**. Original unread (**C1844**) | S1512 | B071 |
+| L1671 | 2026-10-31 | SK Trigg (**B071**) | NEWMAN 314A / TINKER 303A | **LIVE**. Originals unread (**C1845**) | S1513 | B071 |
+| L1672 | 2026-10-31 | SK leftover / USGW (**B071**) | Hart…Calloway | handshake / **404** (**C1846**) | S1514 | B071 |
+
+| L1673 | 2026-10-31 | McCracken 174B n0353 (**B071**) | Malinda Newman 38 | **IMAGE SEEN REJECT**. Female head + six children. No William (**C1847**) | S1515 S1516 | B071 |
+
 **Access honesty (pass 139):** LOC sn89051008 JSON **seen** (`digitized: false`). IA Solr Post-Dispatch 1926 **0**. IA Solr M1509 KY **0**. IA **602** metadata **{}** (pass123 still **515**). Hopkins n0238/n0239/n0240 **image seen**. SK Graves **HTML seen** (NEWHOUSE/NEWTON only). Hart Dist 1 / Henry Dist 1 / Larue Hamilton / Campbell Newport **127** / Kenton reel-end MICROCOPY **image seen**. SK Kenton **HTML seen** (NEWMAN **130B** residual). FS **1146342** SPA **19655** B. USGenNet wills **HTML seen**. GT Lee WWI **LIVE**. FAQ **9938** **LIVE**. fishergenes / kykinfolk **404**. SK leftover handshake except Graves. Kenton **130B** still a reel-**208** scan gap. Henry / Hart / Larue / Hopkins remaining. *Dardanelle Post-Dispatch* film **unread**. M1509 **cards unread**. Certs **unread**. Authored `latest.docx` SHA **78cdcf44…** not overwritten.
 
 **Access honesty (pass 138):** LOC sn89051008 JSON **seen** (`digitized: false`). IA Solr Post-Dispatch 1926 **0**. IA Solr M1509 KY **0**. IA **602** metadata **{}** (pass123 still **515**). Breckinridge **100A/100B/108B** **image seen**. USGW Breckinridge `indx-n-s.txt` + `pg0100b.txt` **HTML/TXT seen**. SK Kenton **HTML seen** (NEWMAN **130B** residual). FS **1146342** SPA **19655** B. USGenNet wills **HTML seen**. GT Lee WWI **LIVE**. FAQ **9938** **LIVE**. fishergenes / kykinfolk **404**. SK Mercer/Hopkins/Franklin/Lincoln **404**. Kenton **130B** still a reel-**208** scan gap. Mercer/Franklin/Lincoln/Hopkins remaining. *Dardanelle Post-Dispatch* film **unread**. M1509 **cards unread**. Certs **unread**. Authored `latest.docx` SHA **78cdcf44…** not overwritten.

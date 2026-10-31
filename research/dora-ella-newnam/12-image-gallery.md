@@ -1355,3 +1355,11 @@ Same sheet, lines 8–14, with William P. 26 visible.
 ![Hopkins n0240 William P 26](sources/census/pass139/keyplates/hopkins-n0240-john-59-william-p.jpg)
 
 **Source:** S1492 · C1823
+
+## 1850 — McCracken (pass 140 start)
+
+1850 U.S. census, McCracken County, District 1, 174B — household 188/189 **Malinda Newman**, 38, with six children (Jacob P. 12 through Amity Mc 4/12). Rejected versus William × Jane.
+
+![McCracken 174B Malinda 38](sources/census/pass140/keyplates/mccracken-174b-malinda-tight.jpg)
+
+**Source:** S1515 · C1847

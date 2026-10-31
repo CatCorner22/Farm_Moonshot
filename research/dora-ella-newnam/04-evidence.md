@@ -2378,3 +2378,8 @@
 | C1840 | Grant 21 **not merged**. B084 POSSIBLE Jr only. Do not print 1966 or 1962. Did not walk **33-12 / 33-13**. Phones / R001/R007/R008 not re-asked | PROVEN as process | S1504 L1665 | B081 B084 B082 |
 | C1841 | IA Solr M1509 KY **0**. Cards unread | PROVEN as catalog | S1509 L1666 | B069 |
 | C1842 | USGenNet wills **LIVE** — Jane Steele / Elizabeth / Mary F. — **no** Samuel P. | PROVEN as compiled | S1510 L1667 | B045 B065 |
+| C1843 | SK McCracken **LIVE 121082** B: **NEWMAN 174B**; NEWSON **190B**; NEWTON **167A**. Named original **unread** | PROVEN as compiled-index + residual | S1511 L1669 | B071 |
+| C1844 | SK Todd **LIVE 119698** B: **NEWMAN 247A**; NEW **239B**; NEWTON **282B**. Named original **unread** | PROVEN as compiled-index + residual | S1512 L1670 | B071 |
+| C1845 | SK Trigg **LIVE 118581** B: **NEWMAN 314A**; NEWTON five pages; **TINKER 303A**. Named originals **unread** | PROVEN as compiled-index + residual | S1513 L1671 | B071 |
+| C1846 | SK leftover handshake (~110 B): Hart/Henry/Larue/Livingston/Muhlenberg/Hickman/Fulton/Anderson/Caldwell/Calloway. us-census leftover dirs **404** | PROVEN as catalog | S1514 L1672 | B071 |
+| C1847 | McCracken Dist 1 **174B** n0353 **IMAGE SEEN**: hh **188/189 Malinda Newman 38** + Jacob P **12** + Mary E **11** + John H **7** + Thomas P **6** + Na[ncy?] L **3** + Amity Mc **4/12**. **REJECT** vs William **26** × Jane **22**. Female head; no William | PROVEN as image + reject | S1515 S1516 L1673 | B071 |
