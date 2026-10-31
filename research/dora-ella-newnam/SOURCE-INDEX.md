@@ -26,6 +26,17 @@ Captured this session: **30 Oct 2026**. Earlier plates remain in `sources/census
 | S280 | `sources/press/ia-yell-journal-1926-search-2026-10-30.json` · `ia-beattyville-enterprise-1926-search-2026-10-30.json` | 2026-10-30 | Internet Archive Solr | https://archive.org/ | 0 items for those 1926 titles | **C301** | index only |
 | S281 | `sources/press/genealogytrails-yell-obits-landing-2026-10-30.html` | 2026-10-30 | Genealogy Trails Yell obits | https://genealogytrails.com/ark/yell/obits.html | Landing page nil Stone/Newnam/Dora/1926 | **C302** | transcription only |
 | S282 | *(same HTML as S277)* | 2026-10-30 | Lee Books 20–24 officiant rows | https://usgennet.org/usa/ky/county/lee/marriage/marrbook23.html | Luther Newnam, minister, 1926–1933 including 6 Apr 1932 | **C300** | transcription only |
+| S283 | `sources/press/argenweb-pope-yell-newspapers-microfilm-2026-10-31.html` | 2026-10-31 | ARGenWeb / Pope County Library | https://www.argenweb.net/pope/yellnews.htm | Yell newspapers on microfilm at 116 E. Third, Russellville | *Dardanelle Post-Dispatch* **Roll 5** **21 Jun 1923–26 Apr 1928** (**C311**) | catalog only |
+| S284 | `sources/press/genealogytrails-yell-news-list-2026-10-31.html` | 2026-10-31 | Genealogy Trails (from LOC) | https://genealogytrails.com/ark/yell/news_list.html | Yell title list | *Yell County Journal* Ola **1925–1934**; *Danville Democrat* **1899–1927** (**C312**) | catalog only |
+| S285 | `sources/press/genealogytrails-yell-deaths-various-2026-10-31.html` | 2026-10-31 | Genealogy Trails Yell various deaths | https://genealogytrails.com/ark/yell/deaths_various.html | Partial AR death-index extract | **Nil** Stone/Dora/Newnam (**C314**) | transcription only |
+| S286 | `sources/press/ia-yell-county-newspaper-1926-search-2026-10-31.json` · `ia-ola-enterprise-search-2026-10-31.json` · `ia-danville-democrat-1926-search-2026-10-31.json` | 2026-10-31 | Internet Archive Solr | https://archive.org/ | Extra 1926 title queries | **0** items each (**C313**) | index only |
+| S287 | `sources/deaths/lee-deaths-1926-2026-10-31.html` · `lee-deaths-1926-newnam-extract-2026-10-31.txt` | 2026-10-31 | USGenNet Lee 1926 DC extracts | https://usgennet.org/usa/ky/county/lee/deaths/1926.html | Kendrick extracts from DC photographs | Callie + Dorothy Newnam; **nil** P001 (**C307–C309**) | transcription only |
+| S288 | `sources/obituaries/lee-obits-s-rosa-stone-1934-extract-2026-10-31.txt` | 2026-10-31 | USGenNet Lee obits **S** | https://usgennet.org/usa/ky/county/lee/obituaries/s.html | Rosa Rose Stone 1934 | **Rejected** vs P001 (**C305**) | transcription only |
+| S289 | `sources/obituaries/lee-obits-index-2026-10-31.html` | 2026-10-31 | USGenNet Lee obituaries index | https://usgennet.org/usa/ky/county/lee/obituaries/ | A–Z only; `1926.html` **404** | **C315** | catalog / negative |
+| S290 | `sources/obituaries/argenweb-yell-obits-landing-2026-10-31.html` · `argenweb-yell-obits-page-2026-10-31.html` | 2026-10-31 | ARGenWeb Yell obits | https://www.argenweb.net/yell/obits/obits.htm | Aikman / Swor only | **C316** | catalog only |
+| S291 | `sources/deaths/lee-deaths-1939-luther-deaton-extract-2026-10-31.txt` | 2026-10-31 | USGenNet Lee deaths 1932/33/39 | https://usgennet.org/usa/ky/county/lee/deaths/1939.html | Luther Deaton Jan 1939 | **Rejected** vs Rev. Luther (**C319**) | transcription only |
+| S292 | `sources/obituaries/lee-obits-l-jane-longworth-1938-luther-extract-2026-10-31.txt` | 2026-10-31 | USGenNet Lee obits **L** | https://usgennet.org/usa/ky/county/lee/obituaries/l.html | Jane Longworth; officiant Rev. Luther Newnam, Jan 1938 | **C318** | transcription only |
+| S293 | `sources/press/newspapers-com-beattyville-enterprise-catalog-2026-10-31.txt` | 2026-10-31 | Newspapers.com title 39744 | https://www.newspapers.com/paper/the-beattyville-enterprise_39744/39744 | *Enterprise* 1896–1999, 26,889 pages (snippet) | Direct fetch **403**; issues **not examined** | catalog snippet |
 
 ## Word biography provenance
 
@@ -36,7 +47,8 @@ See [`sources/authored/PROVENANCE.md`](sources/authored/PROVENANCE.md). Drive se
 | Collection | How to retrieve | Why |
 |---|---|---|
 | Ancestry *Arkansas Death Certificates 1914–1969* / FS **1940760** | User login: **Posa Stone** / Dora Stone, Yell, 23 Aug 1926, cert. **1524**; Thomas/T.A. Stone **1925** | R001 |
-| Newspapers.com *Beattyville Enterprise* 1896–1999 | Search Newnam/Newman/Stone, Aug–Sep **1926** and 1904–1910 | 1926 not in IA `beatty` six issues or UK film years |
+| Newspapers.com *Beattyville Enterprise* 1896–1999 (26,889 pages) | Search Newnam/Newman/Stone/**Posa**, **26 Aug–16 Sep 1926** and 1904–1910 | 1926 not in IA `beatty` or UK film years; VM **403** (**S293**) |
+| Pope County Library, Russellville | *Dardanelle Post-Dispatch* **Roll 5** (21 Jun 1923–26 Apr 1928), issues ~26 Aug–16 Sep 1926 | Neighbouring weekly; catalog **S283** |
 | UK Margaret I. King Library microfilm **S 90-033** / KUK **18568** | Request *Beattyville Enterprise* reels for 1909–11 / 1915 (Samuel-death window) | Catalog only (**S271**) |
 | *Yell County Journal* (Ola, 1925–1934) | AR State Archives / Danville or Plainview library | Not digitised free |
 | NARA M1509 rolls **KY45** (Lee), **KY24** (Estill), **KY74** (Owsley), **AR69** (Yell) | FS sign-in or NARA | Cards unread (**B047**) |

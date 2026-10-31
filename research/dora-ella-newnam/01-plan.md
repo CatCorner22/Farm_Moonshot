@@ -89,6 +89,17 @@ Wildcard strings to use: `New*m`, `Dor* New*`, `"Doll Newnam"`, `McCoy OR Coy Ne
 
 Exact strings logged **L343–L360**.
 
+## Name-variant storm (pass 62, `search_variants.py`, 31 Oct 2026)
+
+Regenerated before B049 queries. Categories **1–4**:
+
+1. **Canonical:** Dora Ella Newnam / Dora Stone; cert. **1524**; Ola / Yell / Carters Chapel; *Yell County Journal*; *Beattyville Enterprise*.
+2. **User / family:** **Posa Stone** index alias; Newman/Newnam; Mrs. T. A. Stone.
+3. **Machine / OCR given:** Dora, posa, dosa, rosa, dona, dara, dore, dori, dola, pora, rora. Surname: Newnam, newman, newnarn, newan, newnom, Stone, storie, stona, stome. Soundex **N550** / **S350** / **P200** (Posa).
+4. **Repository quirks:** `Last, First`; year-file `1926.html`; Lee obits **S**/**D**/**N**; IA `title:(…) AND year:1926`; CA `format=json` page search (this VM: **404** HTML).
+
+Exact strings logged **L361–L375**.
+
 ## Agent SDK / GitHub channel
 
 Inspected 30 Oct 2026 (**L351**): this repository has **no** `package.json`, **no** `@grok/agent-sdk`, **no** `bot/` directory. GitHub channel `bot/channels/github.ts` is **n/a** and was **not** authored. Project subagent: `.cursor/agents/dora-genealogy-detective.md`.

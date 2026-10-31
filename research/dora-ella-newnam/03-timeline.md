@@ -78,8 +78,12 @@ Place as it was *at the date*; modern equivalent in brackets. Flag impossibiliti
 | 1916–1930 | — | **No Perry Co. license** for Dora × Peebles/Stone; Peoples present, Peebles absent | Perry Co., AR | C085 | S065 |
 | **1920 × 1925** | 48–54 | **m2 T. A. Stone (PROBABLE = Tom A. Stone)** — **not** a third (Peebles) marriage in the searched licenses | Yell or Perry Co., AR (license unread) | C014 C087 | S003 S104 S064 S065 |
 | 1925 | — | “Stone, Thomas, 1845–1925” at Carter Cove (index) | Yell Co., AR | C051 | S079 prior |
+| **27 Apr 1926** | — | FAN: **Callie Newnam**, 30, d. (extracts: Proctor **and** Idamay); parents Sam Moore & Mary Brandenburg. **PROBABLE** wife of Everett of Idamay | Lee / Owsley line, KY | C308 C310 | S287 |
 | **noon 23 Aug 1926** | **55** (if b. Aug 1871) | **Death, apoplexy 1 day, Dr. Thos. W. Beal; informant Coy Newnam, Ola; spouse T. A. Stone; parents Elias Newnam & Mary Smallwood** | Ola, Yell Co., AR (res. written “Mammoth” — **C204b** open) | C015 | S003 |
+| **23 Aug 1926** | — | FAN coincidence: **Sidney Mayse**, 27, d. Idamay the **same calendar day** — **not** a Dora record | Idamay, Lee Co., KY | C320 | S287 |
 | 24 Aug 1926 | — | Burial Carters Chapel | Carter Cove / Carter Cemetery, Lamar Twp, Yell Co., AR (**C206**) | C016 C206 | S003 S078 S219 S220 |
+| **late Aug–Sep 1926** | — | *Yell County Journal* (Ola, 1925–1934) and *Beattyville Enterprise* death-week issues **still unread**. Neighbouring *Dardanelle Post-Dispatch* **Roll 5** (Pope Co. Library, 21 Jun 1923–26 Apr 1928) is the first **catalogued** unread 1926 paper | Ola / Dardanelle / Beattyville | C311 C312 C313 C315 | S283 S284 S286 S293 |
+| **6 Oct 1926** | — | FAN: infant **Dorothy Newnam** d. Idamay; parents **Everett Newnam** & **Callie Moore** | Idamay, Lee Co., KY | C309 C310 | S287 |
 | **16 Jun 1927** | — | FAN: **Martha Farmer** d., b. 1 Nov 1886; parents Larkin Mays & Louisa Pendergrass | Lee Co., KY | C164 | S143 |
 | after 1900 | — | **No record read** for **Rissa/Rissie** after Sturgeon hh **67** (1910 child Soundex **nil**; not with Pearl at Elizabeth’s **1910**) | unknown | C077 C026 | S058 S041 |
 | **13 May 1980** (WikiTree only) | ~83 (if May 1897) | **Possible** death of **Rissie (Newnam) Pelfrey** — **not** primary-sourced | Knoxville, Knox Co., TN | C230 | S241 | Do not print as fact; **C231** nil free corroboration |
@@ -88,6 +92,7 @@ Place as it was *at the date*; modern equivalent in brackets. Flag impossibiliti
 | **15 Mar 1932** | — | FAN: **Clay Dunigan**, 23, of Idamay × **Ladona Newman**, 16, of Delvinta; parents Shelby Newman & Grace Brandenburg — **not** P001’s child | Delvinta, Lee Co., KY | C297 C298 | S277 |
 | **1 Apr 1932** | — | *Enterprise*: **E. T. Sparks** of Hazard visiting **Uncle Doll Newnam**; Rev. **Luther Newnam** pastor; Everett of Idamay; Ladonna note | Beattyville / Idamay, Lee Co., KY | C284 C285 C286 C287 | S270 |
 | 18 Apr 1932 | — | Father Elias d. on his birthday, age 90 | Beattyville, Lee Co., KY | C048 | S011 prior |
+| **12–21 Jan 1938** | — | FAN: Rev. **Luther Newnam** officiated **Jane Pitman Longworth** funeral (*Owsley County Courier* 21 Jan 1938) — minister **still alive** | South Fork / Proctor, Lee–Owsley, KY | C318 | S292 |
 | **13 Dec 1939** | — | FAN: **Everett Newnam**, 50, of Idamay, d. accidental pistol (PROBABLE = 1932 cane-planter). Daughters: `Living — details withheld` | Richmond hospital / Idamay, Lee Co., KY | C299 | S278 |
 
 **Impossibility flags:** None. Mother ~29 at Dora’s 1871 birth (Mary b. 1842). Dora age 14 at marriage is legal/period-possible (KY) though young; 1880 age 8 corroborates. Two children born before Coy in the 1886–1889 window would have Dora aged 15–18 — possible. No event after 23 Aug 1926 is attributed to her.

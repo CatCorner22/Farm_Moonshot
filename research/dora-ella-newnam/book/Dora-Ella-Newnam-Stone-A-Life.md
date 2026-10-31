@@ -171,7 +171,7 @@ Coy Newnam of Ola was informant. He named her spouse T. A. Stone and her parents
 
 At Carter Cemetery (Carter Cove), Find a Grave’s **cemetery search** (not the individual memorial pages, which Cloudflare blocked from this workspace) lists **Dora Newman** (memorial 97907837) with **no dates** on the listing — matching the 1993 spelling under her maiden name — and **Thomas Stone** (97907931) as **1845–1925**, beside her in the same yard. Those listings are authored derivatives (**S117–S118**, claim **C129**), not vital records, but they align with the certificate and the copyists’ lines. The compiled yellcountyobits cemetery index (extract dated 29 January 2013), captured 30 October 2026, repeats the same two rows: **Newman, Dora | no dates | Carter Cove Cemetery, Plainview** and **Stone, Thomas | 1845 | 1925 | Carter Cove Cemetery, Plainview**. [C282] [C283] [S268] [S269] No photograph of either stone is in the case file.
 
-The *Yell County Journal* at Ola for late August and early September 1926 has not been read. The only free *Beattyville Enterprise* issues on Internet Archive item `beatty` are six numbers from 1924, 1925, 1928, and 1932 — **1926 is not among them**. [C293] University of Kentucky’s film catalog lists 1909–1911, 1915, 1924–1925, 1928, and 1932 — again **no 1926**. [S271] Internet Archive Solr returned **zero** items for *Yell County Journal* 1926 and **zero** for a 1926 *Enterprise*. [C301] Genealogy Trails’ Yell obituaries landing has no Stone/Newnam/Dora 1926 hit. [C302] An obituary, if one ran, would be the kin list this biography still lacks. Retrieval path: Newspapers.com *Beattyville Enterprise*; UK microfilm **S 90-033**; Arkansas State Archives / a Danville or Plainview library for the *Yell County Journal*.
+The *Yell County Journal* at Ola for late August and early September 1926 has not been read. The only free *Beattyville Enterprise* issues on Internet Archive item `beatty` are six numbers from 1924, 1925, 1928, and 1932 — **1926 is not among them**. [C293] University of Kentucky’s film catalog lists 1909–1911, 1915, 1924–1925, 1928, and 1932 — again **no 1926**. [S271] Internet Archive Solr returned **zero** items for *Yell County Journal* 1926, **zero** for a 1926 *Enterprise*, **zero** for *Ola Enterprise*, and **zero** for a 1926 *Danville Democrat*. [C301] [C313] Genealogy Trails’ Yell obituaries and various-deaths pages have no Stone/Newnam/Dora 1926 hit. [C302] [C314] Lee County’s transcribed obituaries (**S**, **D**, **N**) likewise have no Dora Stone death notice; the year file `1926.html` is missing. Two other women fail the same-person test: Rosa Rose Stone of Fraleys Creek (1934) and Dora Morris Deaton (1944). [C305] [C306] [C315] The paper at Ola **was** in print — *The Yell County Journal*, 1925–1934, LCCN SN90050035. [C312] The first **catalogued** unread film that actually covers the death week is Pope County Library’s *Dardanelle Post-Dispatch* **Roll 5 (21 June 1923–26 April 1928)**, 116 East Third Street, Russellville. [C311] Newspapers.com lists 26,889 *Enterprise* pages for 1896–1999; those images were not opened from this workspace. [S293] An obituary, if one ran, would be the kin list this biography still lacks.
 
 She was fifty-five if she was the eight-year-old of District 59. The certificate called her fifty-eight. The child on sheet 6 is the better witness to her beginning than the grieving son was to a date he never saw.
 
@@ -184,7 +184,7 @@ She was fifty-five if she was the eight-year-old of District 59. The certificate
 
 Dora had been in the ground two years when the *Beattyville Enterprise* of 30 November 1928 printed a sick-list note: “Uncle Doll Newman has been very sick… not able to be out.” On 1 April 1932 the same paper said E. T. Sparks of Hazard was visiting Uncle Doll Newnam in town. Seventeen days later Elias T. Newnam died on his ninetieth birthday. Nickname, town, and lifespan are two independent identifiers and no contradiction: the man in those notes is **probable** her father. [C284] [C048] [S270]
 
-The six free issues do not name Dora Stone, Dora Newnam, or Samuel P. They do name a living Beattyville Newnam cluster that is **not** silently merged with her household. Rev. Luther Newnam appears as Christian Church pastor in March–April 1932; Lee marriage books 20–24 show him officiating at Beattyville from at least 24 November 1926 through 1933, including 6 April 1932 — **probable** the same minister, **not** Samuel (dead by 1910). [C285] [C300] [S282] Everett Newnam of Idamay planned two acres of cane in March 1932; the *Enterprise* of 14 December 1939 reported Everett Newnam, fifty, of Idamay, dead of an accidental pistol discharge on the Heidelberg road — **probable** the same man (name + Idamay). His three daughters are living and are not named here. [C286] [C299] [S278]
+The six free issues do not name Dora Stone, Dora Newnam, or Samuel P. They do name a living Beattyville Newnam cluster that is **not** silently merged with her household. Rev. Luther Newnam appears as Christian Church pastor in March–April 1932; Lee marriage books 20–24 show him officiating at Beattyville from at least 24 November 1926 through 1933, including 6 April 1932 — **probable** the same minister, **not** Samuel (dead by 1910). [C285] [C300] [S282] He was still burying the dead in January 1938 (Jane Pitman Longworth). [C318] Lee death extracts for 1932, 1933, and 1939 do not list him as a decedent; the 1939 Luther rows are Luther Deaton. [C319] Everett Newnam of Idamay planned two acres of cane in March 1932; the *Enterprise* of 14 December 1939 reported Everett Newnam, fifty, of Idamay, dead of an accidental pistol discharge on the Heidelberg road — **probable** the same man (name + Idamay). In 1926 that same Idamay household **probably** lost Callie Newnam (27 April, age 30, parents Sam Moore and Mary Brandenburg) and infant Dorothy (6 October). [C308] [C309] [C310] Everett’s three daughters of 1939 are living and are not named here. [C286] [C299] [S278]
 
 On 15 March 1932, at Delvinta, George Botner married Clay Dunigan, twenty-three, of Idamay, son of R. C. Dunigan and Sirena Porter, to Ladona Newman, sixteen, of Delvinta, daughter of **Shelby Newman** and **Grace Brandenburg**. [C297] [S277] The 1 April paper said Clay and Ladonna had “quietly married last week.” Same names, same month: **probable** one couple. The bride is **not** Dora’s child — the license names other parents, and Dora had been dead five and a half years. [C298] Living descendants of that 1932 marriage are withheld.
 
@@ -237,12 +237,14 @@ Charts of pedigree, descendants, and lifespan follow the plates. Dashed lines me
 - Whether witness **Link Mays** is Larkin T. Mays — still possible, not merged.
 
 
-- **B049:** 1926 *Beattyville Enterprise* and *Yell County Journal* still unread. IA Solr 0; UK film years omit 1926; six `beatty` issues omit 1926. [C293] [C301]
+- **B049:** 1926 *Beattyville Enterprise* and *Yell County Journal* issues still unread. Free indexes and Lee obituary pages are **nil** for a Dora Stone notice. [C293] [C301] [C315]
+- **B055:** Pope County Library *Dardanelle Post-Dispatch* **Roll 5** (21 Jun 1923–26 Apr 1928) — first exact neighbouring film. [C311]
+- **B056:** *Danville Democrat* Aug–Sep 1926 (in print through 1927; IA 0). [C312] [C313]
 - **B045 / B047:** Samuel P. probate film and M1509 draft cards unread.
-- **FAN residual:** Luther Newnam’s own death (B051); Shelby × Grace identity (B052); Everett’s deceased brothers (B053); Carter Cove stone photographs (B054).
+- **FAN residual:** Luther Newnam’s own death (B051 — he was alive Jan 1938); Shelby × Grace identity (B052); Everett’s deceased brothers and 1926 wife/infant stones (B053 / B057); Carter Cove stone photographs (B054).
 - Greene 37–43 Stone sweep is **closed**. Do not reopen Peebles as a third marriage without a license. Do not print 1868 or 24 February 1906 as facts.
 
-The next session starts with **B049**.
+The next session starts with **B055**.
 
 ---
 
@@ -280,6 +282,12 @@ Numbered notes expand the claim/source tags in the narrative. Access labels: *im
 28. Coy × Letha Sullivan, 18 Feb 1917, Ola. **C027** **S024**. Prior session.
 29. NUMIDENT Pearl P. Jackson / Mary Magdalene Bunch naming Sam and Dora. **S006** **S007**. Prior.
 30. Lee Books 5–19: no Peebles; no Dora Newnam remarriage. [USGenNet marriages](https://usgennet.org/usa/ky/county/lee/marriage/). **C084** **S064**.
+31. Lee obituaries S/D/N + missing `1926.html`, 31 Oct 2026. Rosa Rose Stone 1934 and Dora Morris Deaton 1944 **rejected**. **C305 C306 C315** **S288 S289**.
+32. Pope County Library film list: [yellnews.htm](https://www.argenweb.net/pope/yellnews.htm). *Dardanelle Post-Dispatch* Roll 5, 21 Jun 1923–26 Apr 1928. *Catalog only.* **C311** **S283**.
+33. Genealogy Trails [Yell newspapers](https://genealogytrails.com/ark/yell/news_list.html): *Yell County Journal* Ola 1925–1934 (LCCN SN90050035). **C312** **S284**.
+34. IA Solr 31 Oct 2026: 0 items Yell 1926 newspapers; 0 *Ola Enterprise*; 0 *Danville Democrat* 1926. **C313** **S286**.
+35. Lee 1926 DC extracts: Callie Newnam d. 27 Apr 1926; Dorothy Newnam d. 6 Oct 1926, parents Everett & Callie Moore. [1926 deaths](https://usgennet.org/usa/ky/county/lee/deaths/1926.html). *Transcription only.* **C307–C310** **S287**.
+36. *Owsley County Courier* 21 Jan 1938 (Kendrick): Rev. Luther Newnam officiated Jane Pitman Longworth. [Obits L](https://usgennet.org/usa/ky/county/lee/obituaries/l.html). **C318** **S292**.
 
 ---
 
@@ -303,5 +311,8 @@ Working table of **saved local copies**. Full file list: [`../SOURCE-INDEX.md`](
 | S278 | `../sources/obituaries/lee-obits-n-everett-newnam-1939-extract-2026-10-30.txt` | [Obits N](https://usgennet.org/usa/ky/county/lee/obituaries/n.html#everettnewman) | Everett d. 13 Dec 1939 | transcription only |
 | S280 | `../sources/press/ia-yell-journal-1926-search-2026-10-30.json` | IA Solr | 0 hits for 1926 titles | index only |
 | S281 | `../sources/press/genealogytrails-yell-obits-landing-2026-10-30.html` | [GT Yell obits](https://genealogytrails.com/ark/yell/obits.html) | Nil on landing | transcription only |
+| S283 | `../sources/press/argenweb-pope-yell-newspapers-microfilm-2026-10-31.html` | [Pope yellnews](https://www.argenweb.net/pope/yellnews.htm) | Dardanelle PD Roll 5 covers Aug 1926 | catalog only |
+| S287 | `../sources/deaths/lee-deaths-1926-newnam-extract-2026-10-31.txt` | [Lee 1926 deaths](https://usgennet.org/usa/ky/county/lee/deaths/1926.html) | Callie + Dorothy; nil P001 | transcription only |
+| S292 | `../sources/obituaries/lee-obits-l-jane-longworth-1938-luther-extract-2026-10-31.txt` | [Obits L](https://usgennet.org/usa/ky/county/lee/obituaries/l.html) | Luther officiant Jan 1938 | transcription only |
 
 Embedded plates live in `plates/` and `../sources/census/`. Charts: [`../visuals/pedigree-dora.svg`](../visuals/pedigree-dora.svg), [`../visuals/timeline-dora.svg`](../visuals/timeline-dora.svg).
