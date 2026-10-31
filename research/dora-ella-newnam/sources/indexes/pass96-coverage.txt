@@ -1,0 +1,51 @@
+Pass 96 coverage — 31 Oct 2026 (America/New_York)
+This run bc-01a18bb4-e162-785c-9724-86a7c5663bf1
+Catalog list-cloud-agents includeArchived limit 200 → 181 / hasMore false / totalMatched 181.
+Was 178 (Pass 95). NEW vs 178 (3; no IDs imported):
+  Read remaining Pass 96 KY AR TN sheets RUNNING
+    bc-ea843d3b-42d9-5361-a41e-a79495bd0738
+    (replacement of ERROR twin bc-580cc145-88a4-547f-8836-c949f51c092f, already in 178)
+  Read MO Pass 96 leftover sheets RUNNING
+    bc-16d11e46-af38-54ea-98b4-48815d804f4c
+    (replacement of ERROR twin bc-4405453f-ae6b-54a0-ba53-db7ea29d671a, already in 178)
+  Dora Todd Trigg 1850 RUNNING
+    bc-d402e9f9-c292-5a29-a56c-f1cca5336c4b
+Status-only (not new IDs):
+  Hunt Dora / B068 / B070 renamed B071 Perry 1920 and Yell ED191
+    same id bc-aa43eaa5-be23-54be-a20a-7a5238fd33f8 still RUNNING.
+  Continue Dora genealogy IDLE
+    bc-7eb25736-d3e3-510a-83d6-9535752f0297
+    bc-d7a3569c-3baa-589d-8f26-02d269c034dd (second chat; process-fold only)
+  Read IN Pass 96 leftover sheets RUNNING
+    bc-f5477cb1-6147-54c9-8510-3bc7f8d48fbc
+  Read AR IL leftover IDLE bc-504dd9ff-1805-57c1-aad3-88d5adface18
+  Read KY leftover IDLE bc-230cb512-de5d-5557-9c9d-c027ed7a75c0
+  Read IN Pass 95 sheets RUNNING bc-1276bf4a-143b-54bc-9596-a2f03179eeb2
+  Dora 1840 Clark B059 IDLE bc-c271254f-13fb-5d32-aacf-df94d1c9945e
+  Scan ED5 pages 405-434 RUNNING bc-0039b8bf-7edb-593b-82c3-cb59471d392a
+  Dora location search WAITING_FOR_BACKGROUND_WORK PR #31
+  Dora's biography research WAITING_FOR_BACKGROUND_WORK PR #33
+    (sibling C281 not imported)
+  Project status review WAITING_FOR_BACKGROUND_WORK
+Nested reviewer not respawned. Message queue empty.
+Skip C221–C280 / L245–L342 / S259–S266.
+Do not mint C274–C280. Do not promote C509. Do not hunt D-540.
+Do not close B063. Do not hunt remaining 1930 Owsley sheets (closed Pass 94).
+Do not import C281. Do not invent T288 card contents.
+Do not file Mary Jane Steele DISPROVED from FAG 403.
+
+Work this pass:
+- T288 IIIF retry: reel 348 frame 01001 info.json timed out 15s (0 bytes)
+  this pass; prior Pass 96 research had HTTP 200. Pixel JPEG
+  /full/50,/0/default.jpg previously timed out 25s 0 bytes. Reel 347
+  frame 01001 info.json timed out 15–20s. Catalog /id/ SPA 5454 bytes.
+  Do not invent card contents. Do not treat Catalog quoted Newnam
+  title-nil as a T288 card-nil.
+- Josephine remaining: Powell Hall-only; Harlan 1900-02; Knox
+  Marriage-Certificates through 1935; Knott Book 1 + Book 2A;
+  Leslie 1900-01 / 1903-04 (no 1902 file); Adair compiled / elopement /
+  after-1840 N; Russell KY Ancestors 1826-1840. License unseen.
+- 1916 DC / ED 92 hh 1-13 / 1840 bond / M123-3 not opened this pass.
+- Remaining 1930 Owsley not re-hunted.
+
+B061 / B063 remain open. Next unused after this pass: C1043+ / L917+ / S714+ / DOC216+.

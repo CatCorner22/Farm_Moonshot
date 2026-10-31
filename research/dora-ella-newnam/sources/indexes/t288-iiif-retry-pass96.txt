@@ -1,0 +1,25 @@
+Pass 96 — T288 IIIF retry
+Opened 31 Oct 2026 (America/New_York). Access-fail / metadata only. Card images unseen.
+Do not invent T288 card contents. Do not promote C509.
+Do not treat Catalog quoted Newnam title-nil as a T288 card-nil.
+
+Prior Pass 95 keepers (still true):
+  Series NAID 563268. Reel 347 NAIDs 382331091 / 382332092 / 382333093 / 382334094 / 382335095
+  (Nesbitt, Wm. E. THRU Newman, Lazarus).
+  Reel 348 NAIDs 382335916 / 382336917 / 382337918 / 382338919 / 382339920
+  (Newman, Leon THRU Nichols, Wilber). T288-0348.pdf 859 MB listed, not downloaded.
+  WikiTree authored Francis D Newman roll 347 DISPROVED as Elias T.
+
+This pass IIIF:
+  https://catalog.archives.gov/iiif/3/lz%2Fdc-metro%2Frg-015%2F563268/T288-0348/T288-0348-01001.tif/info.json
+    Prior research this session: HTTP 200, ~859 bytes JSON (path confirmed).
+    This filing retry: curl timeout 15s, 0 bytes received.
+  Same object /full/50,/0/default.jpg: prior timeout 25s, 0 bytes. Pixels unseen.
+  T288-0347-01001.tif/info.json: timeout 15–20s, 0 bytes.
+  catalog.archives.gov/id/{naid} curl: Catalog SPA HTML 5,454 bytes (JS shell, not JSON).
+  Do not invent cards from a prior info.json 200.
+
+FS collection 1919699 still 403 (not re-opened as a card). IA T288 still garbage.
+
+B061 remains open. Residual: original 1932 DC vol 020 #09525; Estill 1826–1850 bonds;
+M123-3 original; T288 card images (IIIF path known; pixels timeout).

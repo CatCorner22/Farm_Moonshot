@@ -5100,3 +5100,63 @@ Pass 2: License still unseen. FAG 403 is unread, not a DISPROVED of Mary Jane St
 - GT Meade 1862 DISPROVED; Mercer BOTTOM n/a → C1030
 - access-fails / FAG 403 unread → C1031
 - B063 remaining gap → C1032
+
+## DOC213 — Catalog + Pass 96 coverage
+
+- Extract: `pass96-coverage.txt` SHA-256 `737edde9ee793c828055dafde4342b7ed4942d684fdcc21a7297a7ac0889665f`
+- Provenance: Cursor `list-cloud-agents` includeArchived limit 200, 31 Oct 2026. This run `bc-01a18bb4-e162-785c-9724-86a7c5663bf1`.
+- Access: process listing. **No** new independently image-backed P001 1900–1926 residence.
+
+### Diplomatic — cited extract
+
+> **181** / `hasMore: false` / `totalMatched: 181`. Was **178**. NEW vs 178 (3; **no IDs imported**): Read remaining Pass 96 KY AR TN sheets RUNNING (replacement); Read MO Pass 96 leftover sheets RUNNING (replacement); Dora Todd Trigg 1850 RUNNING. Status-only: Hunt Dora **renamed** B071 Perry 1920 and Yell ED191 still RUNNING (same id); Continue Dora genealogy IDLE. Nested reviewer **not** respawned. Sibling C281 **not imported**.
+
+Pass 2: Process count only. **No** new independently image-backed P001 1900–1926 residence. Skip **C221–C280**. Do **not** promote C509. Do **not** hunt remaining 1930 Owsley sheets.
+
+### Facts extracted → claim IDs
+- catalog 181 was 178; NEW 3 not imported → C1034
+- B063 remaining gap → C1041
+- B061 remaining gap → C1042
+
+## DOC214 — Josephine remaining substitutes (Pass 96)
+
+- Extract: `josephine-gilbert-pass96.txt` SHA-256 `832a33c0d977f1fd8a632371b266facf4f869e85387537240b7ccfbf671511ec`
+- Coverage: `pass96-coverage.txt` `737edde9ee793c828055dafde4342b7ed4942d684fdcc21a7297a7ac0889665f`
+- Provenance: Powell HALL index; Harlan 1900–02; Knox Marriage-Certificates; Knott Books 1 and 2A; Leslie 1900–01 / 1903–04; Adair compiled / elopement; Russell KY Ancestors PDF. Opened 31 Oct 2026. **HTML-seen / access-fail**, not a ~1902 civil register. License unseen.
+
+### Diplomatic — cited extracts
+
+> Powell `hallmarriages.html` (25,323 bytes): HALL-surname 1864–1980. Josephine/Gilbert/Newman/Newnam token 0. Six 1902 Hall rows other. n/a as a county-wide 1902 Newnam license.
+
+> Harlan `date1900_02.html`: 13 Feb 1902 Josephine Hensley WITNESS (Birt Hensley × Malinda Daniel) other. Gilbert others 1901–02. Newman/Newnam token 0.
+
+> Knox brides J: Johnson, Josephine C × Dant Bain 10/02/1900 DISPROVED. Brides N opened: Newman, Lillie × Thomas Centers 1/2/1902 other; Newman, Nancy (Mary) × George Gilbert 11/18/1886 other; nil Josephine Newnam.
+
+> Knott Book 1: Josephine Parks 1890 / Combs 1895 / Jones 1898 other. Book 2A: Slone, Josephin × Milton Slone 1903/08/26 DISPROVED.
+
+> Leslie 1900–01 nil; no 1902 file n/a. Adair Josephine Avritt × Blanford 20 Apr 1904 DISPROVED. Russell KY Ancestors 1826–1840 n/a.
+
+Pass 2: License still unseen. Do not close B063.
+
+### Facts extracted → claim IDs
+- Powell Hall-only n/a → C1035
+- Harlan witness / Gilbert other → C1036
+- Knox Johnson 1900 DISPROVED / Lillie 1902 other → C1037
+- Knott Josephin Slone 1903 DISPROVED → C1038
+- Leslie / Adair / Russell remaining → C1039
+- B063 remaining gap → C1041
+
+## DOC215 — T288 IIIF retry (Pass 96)
+
+- Extract: `t288-iiif-retry-pass96.txt` SHA-256 `7f1636f3f45c3cec260cbea86ca20c5b69a9bed3593e369395f1a7f149d64b87`
+- Provenance: NARA Catalog IIIF path for T288-0348 / T288-0347 frame 01001 info.json and pixel JPEG. Opened 31 Oct 2026. **Access-fail**. Card images unseen.
+
+### Diplomatic — cited access results
+
+> Reel 348 frame 01001 info.json previously HTTP 200 this session (path confirmed). This filing retry timeout 15s, 0 bytes. Pixel JPEG /full/50,/0/default.jpg previously timeout 25s, 0 bytes. Reel 347 frame 01001 info.json timeout 15–20s. Catalog /id/ SPA HTML 5,454 bytes.
+
+Pass 2: Do **not** invent T288 card contents. Do **not** promote C509. Do not close B061.
+
+### Facts extracted → claim IDs
+- IIIF path confirmed; images unseen → C1040
+- B061 remaining gap → C1042

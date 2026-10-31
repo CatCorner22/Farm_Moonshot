@@ -1,0 +1,79 @@
+Pass 96 — Josephine Newnam × Gilbert ~1902 remaining substitutes
+Opened 31 Oct 2026 (America/New_York). HTML-seen / access-fail, not a ~1902 civil register.
+License unseen. Original 1916 DC face unseen. T288 images unseen.
+
+Powell County KY (rootsweb/~kypowell/hallmarriages.html) OPENED (25,323 bytes).
+  HALL-surname compiled index 1864–1980 covering 1902. n/a as a county-wide 1902 Newnam license.
+  Josephine / Josie / Gilbert / Newman / Newnam / Newsom token count 0.
+  1902 Hall rows (all other): Albert B. × Pearl Williams 9/99; Herman × Edna Morris 18/166;
+  Lourette × Benjamine Townsend 8/235; Robert × Emma Grayson 9/21;
+  Sanford × Carrie Townsend 9/63; William × Maudie McIntosh 8/239.
+
+Harlan KYGenWeb date1900_02.html OPENED (WebFetch markdown ~38 KB).
+  13 Feb 1902 Birt Hensley × Malinda Daniel; witnesses A. J. Hensley, Josephine Hensley
+    — Josephine Hensley WITNESS, other (maiden Hensley ≠ Newnam).
+  Gilbert others: Com Gilbert × Rebecca Middleton 3 Mar 1901 (groom Gilbert);
+  A.J. Powell × Mary E. Gilbert 17 Apr 1902 (bride Gilbert ≠ Newnam);
+  Gilbert Calwell × Martelia Saylor 27 Apr 1902.
+  Newman / Newnam token 0 in that file. License unseen.
+
+Knox Marriage-Certificates indexes OPENED (through 1935):
+  Brides J: Johnson, Josephine C × Dant Bain 10/02/1900 Whitley — DISPROVED
+    (maiden Johnson ≠ Newnam; groom Bain ≠ Gilbert; Whitley).
+    Jones, Josie × William Killion 08/19/1881 other.
+  Brides N (bridesn.html, 31,030 bytes) OPENED:
+    Newman, Lillie × Thomas Centers 1/2/1902 other (Lillie ≠ Josephine).
+    Newman, Margaret × Wm. Fisher 1/17/1901 other.
+    Newman, Dora × Will Higgins 3/13/1914 other (n/a ~1902; do not mix as P001).
+    Newman, Nancy (Mary) × George Gilbert 11/18/1886 other (1886; Nancy ≠ Josephine).
+    Neal, Josephine × John N Lester 11/7/1928 other.
+    Nil Josephine Newnam. Nil Newnam spelling.
+  Grooms G OPENED: Gilbert, John × Fannie Renfro 01/19/1901 other (Fannie ≠ Josephine Newnam).
+    Gilbert, George × Nancy Newman 11/18/1886 already noted.
+    Gilbert, Daniel × Dora Strade 11/24/1919 other (1919; Dora Strade ≠ Josephine Newnam).
+    No Gilbert × Josephine ~1902 in the opened Gilbert groom block.
+  Brides G: Josephine Gann 04/20/1930 / Josephine Gibson 10/17/1872 other.
+
+Knott KYGenWeb records/marriages.htm OPENED as books landing
+  (Book 1 / 1A Images / 2A). kykinfolk.com SSL expired then 404 (1,543-byte stub).
+  Marriage Book 1 OPENED (166,589 bytes). Josephine others (maiden ≠ Newnam; grooms ≠ Gilbert):
+    Josephine Parks × Leander Carpenter 1890/10/13;
+    Josephine Combs × Paris Cox 1895/07/20;
+    Josephine Jones × Judge Day Slone 1898/07/11.
+    Gilbert / Newman / Newnam token 0.
+  Marriage Book 2A OPENED (46,747 bytes; 1902–1903). Slone, Josephin × Milton Slone
+    1903/08/26** — DISPROVED as this ~1902 bride (maiden Slone ≠ Newnam; 1903; groom Slone ≠ Gilbert).
+    Nil Josephine Newnam / Gilbert / Newman / Newnam.
+
+Leslie KYGenWeb marriage/ landing OPENED. On-site files: 1878; 1900-1901; 1903-1904;
+  miscellaneous. No 1902 file — n/a as a 1902 Newnam license.
+  1900-1901Marriages.txt OPENED (2,327 bytes): Josephine/Gilbert/Newman/Newnam token 0.
+  1903-1904Marriages.txt OPENED (5,367 bytes): token 0 those names.
+    May 4, 1904 Morgan, Loyd × Terry, Dora 16 — other (maiden Terry ≠ Newnam; 1904; not Josephine).
+  miscmarriages1878-1885.txt OPENED: Nov 30, 1915 John L. Roark × Dora B. Roark other.
+  Archives link Helton, Sarah × Saylor, Gilbert 2 Jun 1902 Bell County — other
+    (groom Saylor; bride Helton ≠ Josephine Newnam).
+
+Adair KYGenWeb marriage.htm OPENED (25,848 bytes) as surname-letter landing
+  (compiled mixed years; not a county-wide 1902 register).
+  wed9.htm Gilbreath–Goudge OPENED: years 1802–1839; no Gilbert surname; n/a ~1902.
+  Marriages/3Wed_1900.htm OPENED: three 1900 newspaper notices (Triplett/Reynolds;
+    Price/Texas; Bennett×Jones) — other; n/a as 1902 Newnam.
+  Elopement.htm OPENED: Will Blanford × Josephine Avritt of Marion Co. Adair County News
+    20 Apr 1904 — DISPROVED as this ~1902 bride (1904; maiden Avritt ≠ Newnam; groom Blanford ≠ Gilbert).
+    Josephine Browning / Rowe 1901 divorce other.
+  wed45.htm after-1840 Loveall–Overton OPENED (snippet independently confirmed):
+    NEWCOME/NEWCOMB, William H × Nancy J 2 Mar 1841; nil Newman/Newnam; n/a ~1902
+    (compilation 1840–1870). Murrell, Samuel H × Josephine Dohoney 14 July 1850 other.
+  kygenweb.net/adair/marriages.htm 404 stub (site being rebuilt).
+
+Russell KYGenWeb records landing OPENED. Marriages from KY Ancestors Newsletter PDF
+  ref321-marriages-ky-ancesetors.pdf OPENED: Russell marriage certificates 1826–1840
+  (OCR also labels 1926–1954 on the map plate). n/a as a ~1902 Newnam license.
+  Josephine/Gilbert/Newman/Newnam not in the opened 1826–1840 groom/bride sample.
+  usgwarchives.net/ky/russell/marriage.htm timed out 30s. kygenweb russell/marriages.htm 404.
+
+kygenweb marriages.htm 404 this pass also: Leslie, Russell, Clay, Cumberland, Clinton, Monroe.
+Breathitt /marriages/ still 403.
+
+License still unseen. Do not close B063.

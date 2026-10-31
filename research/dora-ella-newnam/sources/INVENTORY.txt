@@ -2705,3 +2705,16 @@ research/dora-ella-newnam/sources/census/1880-lee-ky-ed59-sheet43-p768-caroline-
   sha256: ca17aa736a989299c085bc3253de4ca23d37a0a93090052ab8ab980cb7b044d1
   format: text extract, 3,344 bytes
   check: Carter abstracts nil/other; Greenup 1838 n/a; Meade 1862 Josephine George DISPROVED
+
+/workspace/research/dora-ella-newnam/sources/indexes/pass96-coverage.txt
+  sha256: 737edde9ee793c828055dafde4342b7ed4942d684fdcc21a7297a7ac0889665f
+  format: text extract, 2,823 bytes
+  check: Pass 96 coverage; catalog 181 was 178; Josephine remaining; T288 IIIF retry
+/workspace/research/dora-ella-newnam/sources/indexes/josephine-gilbert-pass96.txt
+  sha256: 832a33c0d977f1fd8a632371b266facf4f869e85387537240b7ccfbf671511ec
+  format: text extract, 5,166 bytes
+  check: Powell Hall-only n/a; Knox Johnson 1900 DISPROVED; Knott Josephin Slone 1903 DISPROVED
+/workspace/research/dora-ella-newnam/sources/indexes/t288-iiif-retry-pass96.txt
+  sha256: 7f1636f3f45c3cec260cbea86ca20c5b69a9bed3593e369395f1a7f149d64b87
+  format: text extract, 1,423 bytes
+  check: T288 IIIF reel 348 info previously 200 then timeout; pixels unseen
