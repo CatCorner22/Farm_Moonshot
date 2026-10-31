@@ -1908,4 +1908,52 @@ research/dora-ella-newnam/sources/census/1880-lee-ky-ed59-sheet43-p768-caroline-
   sha256: 2e73d8cbdda20ec74787abcc55b5e4656256c90b8aede61b0ff57e0b664dd4e6
   format: text extract, 872 bytes
   check: Pass 79 coverage; catalog 118; Edmonds Hard Rule 6
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-e152-p1684-evans-lula-14-carter.jpg
+  sha256: 41547dd0c6408d8d551926b33849037acaaf0d2fe455df991f0079268bbeca2d
+  format: JPEG photo, 167,062 bytes
+  check: 1920 Soundex E-152 1684 Evans Lula 14 Carter SIL DISPROVED
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-e152-p1685-evans-lula-36-fleming.jpg
+  sha256: 2e532069a23cf02ad5a425fe76112fbae1209bbe41c795c479dfb4050b8db0e6
+  format: JPEG photo, 167,032 bytes
+  check: 1920 Soundex E-152 1685 Evans Lula 36 Fleming DISPROVED
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-e152-p2023-evans-robert-e-53-owsley.jpg
+  sha256: ba3acc99fe25df6b21ce85de0e723786ddc48be69d85d0622b1d380a3f91eb0f
+  format: JPEG photo, 170,115 bytes
+  check: 1920 Soundex E-152 2023 Evans Robert E 53 Owsley ED 89 DISPROVED as Buffalo child
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-e152-p2036-evans-robert-t-54-elliott-a2.jpg
+  sha256: 81a70752f9e05752c29c14cb8fab6d51e4a7bc8580ef4fc2f3d182803a5f16e7
+  format: JPEG photo, 168,825 bytes
+  check: 1920 Soundex E-152 2036 Evans Robert T 54 Elliott A-2 Father
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-e152-p2037-evans-robey-s-15-union.jpg
+  sha256: d077a684d816bc4ad7ba4b0c736add63202b1887a76ef551623f92fc689a23fa
+  format: JPEG photo, 164,458 bytes
+  check: 1920 Soundex E-152 2037 Evans Robey S 15 Union nephew
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-e152-p1479-evans-john-h-46-lee-beattyville.jpg
+  sha256: bf33dd02fe2043136b1a9d434f82027589c872aae19ef12af2e0c0182cabecf5
+  format: JPEG photo, 168,273 bytes
+  check: 1920 Soundex E-152 1479 Evans John H 46 Lee Beattyville DISPROVED
+/workspace/research/dora-ella-newnam/sources/soundex/ky1920-e152-p1509-evans-john-w-28-lee-dora.jpg
+  sha256: b40f78e6d3f03b812ba20f383a500c76075a5cc8e083815f8117e9352c08b9ab
+  format: JPEG photo, 166,541 bytes
+  check: 1920 Soundex E-152 1509 Evans John W 28 Lee x Dora 24 DISPROVED as P001
+/workspace/research/dora-ella-newnam/sources/indexes/ky1920-e152-evans-lula-pass80.txt
+  sha256: 5078d6720a0fc180e9b2f453603ced9e126be059776df269d9cfbce974ab53b1
+  format: text extract, 1,460 bytes
+  check: 1920 E-152 L-window nil Evans Lula ~14 Owsley
+/workspace/research/dora-ella-newnam/sources/indexes/ky1920-e152-evans-robert-pass80.txt
+  sha256: f2460accea041b2dd9238b588ca816ea1df312b1bde67ff710d84ed8d019258f
+  format: text extract, 3,941 bytes
+  check: 1920 E-152 R-window nil Evans Robert ~11 Owsley
+/workspace/research/dora-ella-newnam/sources/indexes/ky1920-e152-evans-john-odds-pass80.txt
+  sha256: f6543c543bc17764f37d943bda01fa1dc4e9b5434c9ed875b493d615aea9e64a
+  format: text extract, 5,365 bytes
+  check: 1920 E-152 leftover-odd Johns nil Owsley x Susan ED 92
+/workspace/research/dora-ella-newnam/sources/indexes/josephine-gilbert-pass80.txt
+  sha256: 83910cf4395375a60483d7e678edc30238011b463fd3fba716c7e787173dd76e
+  format: text extract, 1,139 bytes
+  check: Josephine x Gilbert ~1902 neighboring-county nil/n/a
+/workspace/research/dora-ella-newnam/sources/indexes/pass80-coverage.txt
+  sha256: 16cd54e30e650add406d6bc025f539477335131d66cd0cc28025b3295a4117b1
+  format: text extract, 786 bytes
+  check: Pass 80 coverage; catalog 135; L/R/odds windows closed
 

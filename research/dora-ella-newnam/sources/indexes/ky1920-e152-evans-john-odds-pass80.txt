@@ -1,0 +1,67 @@
+Pass 80 — 1920 Kentucky Soundex E-152 leftover odd John leaves 1421-1513
+NARA M1563 reel 47 / IA soundex1920ky047. Images seen 31 Oct 2026 America/New_York.
+Given-name sort. Completes Pass 79 leftover-even 1422-1514. Combined 1421-1514 now
+image-closed through Joseph divider 1515. Visual-read every odd leaf. Tesseract flagger only.
+
+1421 Evans, John A-2 W 54 Jessamine vol 39 ED 68 sh 7 ln 67, enumerated with Evans, Crumb, Brother.
+     Age 54 ≡ expected ~55. Jessamine ≠ Owsley; Brother of Crumb ≠ Head × Susan. DISPROVED.
+1423 Ebinger, John A-2 W 35 Jefferson Louisville, enumerated with Ebinger, Edward, Brother. DISPROVED (Ebinger).
+1425-1427 Evans, John Head C 55 Montgomery Mt. Sterling jail + Elizy Prisoner 49 + John S Prisoner 22
+     + Beatrice D 7. Color C; jail; Montgomery. DISPROVED.
+1429 Evans, John continuation Worth S 9, Dellie D 7. DISPROVED as Buffalo children.
+1431 Evans, John continuation Melvin S 6, Delbert S 2 6/12. DISPROVED.
+1433 Evans, John W 36 Whitley × Linda 31 + Sarah A 16, Philip 10, Trinnie 7, Harvey 4 4/12. DISPROVED.
+1435 Evans, John W 34 Madison × Nellie 32 + Ulma 12, Anna R 8, Elma E 6. DISPROVED.
+1437 Evans, John W 45 Warren × Sallie 45 + Sherman 18, Clifton 13, Hazel 9, Wallace 6. DISPROVED.
+1439 Evans, John W 41 Daviess Owensboro × Lois 42 + Johnson Effie Ni 23. DISPROVED.
+1441 Evans, John W 56 Elliott × Cora 45 + Vesta 23, Willie 20, Martha 15, Mollie 13.
+     Age 56 near ~55. Elliott ≠ Owsley; Cora ≠ Susan; adult children. DISPROVED.
+1443 Evans, John W 37 Perry × Sarah 34 + James 17, Lula D 9, Laura 4.
+     Has a Lula (9 vs ~14); Perry ≠ Owsley; father 37 vs ~55; Sarah ≠ Susan. DISPROVED.
+1445 Evans, John A-2 C 65 Washington Springfield, enumerated with Smith, Pearl, Boarder. DISPROVED.
+1447 Evans, John W 39 Whitley × Ida 29 + Arnold 12, Osborn 10, Orvil 8, Clorra 4 4/12. DISPROVED.
+1449 Evins, John W 78 Breathitt × Fancy Jane 64. DISPROVED (Evins; 78; Fancy Jane).
+1451 Evans, John A-2 B 52 TN LaRue Upton, enumerated with Cardin, John, Boarder. DISPROVED.
+1453 Evans, John Jr W 23 VA Boyd Ashland × Hazel 18. DISPROVED.
+1455 Evans, John W 71 Wales Kenton Covington × Catherine 60 Wales. DISPROVED.
+1457 Soundex of Kansas advertising reverse — not an Evans card.
+1459 Evans, John B W 41 Jefferson Louisville × Ella 40. DISPROVED.
+1461 Evans, John B W 50 Hickman Clinton × Jennie B 46 + Iva B 17, Mazie 14, John B S 11, Mazie 9.
+     Son John B 11 age of Robert; Hickman; Jennie. DISPROVED.
+1463 Evans, John D continuation Roy S 11. DISPROVED as Buffalo Robert.
+1465 Evans, John D W 43 Lewis × Maellie F 39 TX + Ethel 18, Phillip 14, Leslie F 11, Carl 9. DISPROVED.
+1467 Evans, John E W 64 Warren × Mary B 57 + Martha 33. DISPROVED.
+1469 Evans, John T W 51 Campbell Newport × Delcie 49 + Alberte 20 + Sam 49. DISPROVED.
+1471 Evans, John G W 59 Franklin Frankfort × Malinda 54 + Herndon 24 + Clifford 21. DISPROVED.
+1473 Evans, John H W 63 PA Fayette × Elizabeth B 60. DISPROVED.
+1475-1477 Evans, John H continuations (Arriel, Justice, Posy, Nadine, Bessie). DISPROVED.
+1479 Evans, John H W 46 VA Lee Beattyville East Main vol 59 ED 111 sh 6 ln 59 × Julia 44
+     + Katherine M D 14 + Elizabeth M D 11.
+     Lee (neighbor of Owsley); daughters 14 and 11 ≡ Lula/Robert ages; sex of second child
+     Elizabeth ≠ Robert; wife Julia ≠ Susan; head 46 vs ~55; birthplace VA. DISPROVED as
+     1910 Buffalo John × Susan. Keep as Lee Evans FAN. Not merged.
+1481 Evans, John J W 73 Hancock × Elizy J 67. DISPROVED.
+1483 Evans, John L W 80 Allen × Louisa 65 + Brunson John R Bro 67. DISPROVED.
+1485 Evans, John M W 42 Carter × Virgie 31. Same vol 17 as Lula 14 Carter, different ED. DISPROVED.
+1487 Evans, Jno O W 52 Grayson + Olevia D 16 + Estwald S 13. DISPROVED.
+1489 Evans, John R W 43 Kenton Covington + Mary M 63. DISPROVED.
+1491 Evans, John R W 35 Metcalfe living alone. DISPROVED.
+1493 Evans, John R W 37 Butler × Dona 31 + Roscoe 13, Chester 6, Bertha 8/12. DISPROVED.
+1495 Evans, John Richard W 65 Carroll × Mary J 64. DISPROVED.
+1497 Evans, John S W 59 Barren × Eliza A 58 + John L 24. DISPROVED.
+1499 Evans, John T W 50 Bell Pineville × Alice 45 + Rosie 12, Earl 8, Edward 4 6/12. DISPROVED.
+1501 Evans, John T W 42 Bell Middlesboro × Nellie E 38 + boarders/servants. DISPROVED.
+1503 Evans, John W W 23 Fulton × Cora O 23 + Roselle 2 6/12. DISPROVED.
+1505 Evans, John W continuation Henry L S 11, Stella D 9, Elizabeth 2 6/12. DISPROVED as Buffalo children.
+1507 Evans, John W W 52 Calloway × Mary 48 + Jesse W 20 + Bertha 12. DISPROVED (Mary ≠ Susan; Calloway).
+1509 Evans, John W W 28 Lee vol 59 ED 120 sh 5 ln 44 × Dora W 24 + Anna B D 3 8/12.
+     Lee Evans × Dora. DISPROVED as P001 (Dora 24 vs ~48; husband John W 28 vs T.A. Stone;
+     child Anna 3). DISPROVED as 1910 Buffalo couple (28 vs ~55; Dora vs Susan).
+1511 already filed Pass 79: clerk misread of Edmonds, John W. 54 Booneville (C847/C848).
+1513 Evins, Jones S. A-2 W 68 Muhlenberg, enumerated with Evins, K. Pearson, Father.
+     Jones not John; 68; Muhlenberg. DISPROVED. Last odd before Joseph divider 1515.
+
+NIL Evans, John ~55 × Susan vol 76 ED 92 as head in leftover odds.
+Combined with leftover-evens (C849) and filmed ED 92 original (C820): the E-152 John
+given-name window through Joseph is image-closed for that identity.
+Do not treat Soundex head-nil as death.

@@ -1,0 +1,11 @@
+Pass 80 coverage — 31 Oct 2026 America/New_York
+Catalog 135 / hasMore false / totalMatched 135. Was 118.
+B063 still open. B061 still open. Do not promote C509.
+E-152 L-window 1651-1695 image-closed: nil Evans, Lula ~14 Owsley; 1684 Lula 14 Carter SIL DISPROVED.
+E-152 R-window 2001-2040 image-closed: nil Evans, Robert ~11 Owsley; 2023 Robert E 53 Owsley DISPROVED as Buffalo child.
+E-152 leftover odd Johns 1421-1513 image-closed: nil Evans, John ~55 × Susan ED 92.
+Combined leftover odds+evens: John window through Joseph 1515 closed for that identity.
+1509 Evans, John W 28 Lee × Dora 24 DISPROVED as P001.
+Josephine neighboring-county substitutes this pass nil/n/a.
+Skip C221-C280 / L245-L342 / S259-S266. Sibling C281 not imported.
+Next unused C868+ / L752+ / S628+ / DOC158+.

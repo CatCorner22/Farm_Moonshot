@@ -1,0 +1,23 @@
+Pass 80 — Josephine Newnam × Gilbert ~1902 neighboring-county substitutes
+Opened 31 Oct 2026 America/New_York. License still unseen.
+
+Wolfe Marriage.htm HTTP 200 (1861-1909 compiled). Years present: 1861, 1874-78, 1907, 1909.
+1900-1902 n/a on this VS film (gap 1878→1907). Josephine B. Tutt × G.W. Ingraim 15 Mar 1876
+(other; bride Tutt; 1876 ≠ ~1902). Wolfe 1903.htm 404.
+
+Perry KYGenWeb marriage landing HTTP 200: coverage 1821-1846 and 1852 / 1852-1859 only.
+n/a ~1902.
+
+Estill marriages landing HTTP 200: still only the two already-filed 1901/1902 minister-return
+plates (eight couples each). Not a county-wide 1902 search.
+
+Breathitt /marriages/ 403. Breathitt /vitals/ HTTP 200 to a 404.html placeholder.
+usgwarchives Breathitt handshake timeout (prior).
+
+Clark marriages.htm and vitals.htm 404. Knox marriages.htm 404. kykinfolk Knox/Lee SSL expired.
+
+TFKRHA 1916g HTTP 200 redirected to tngenweb.org/404.html (not a 1916 G-page).
+
+Lee Book 3 not re-opened as a new license source this pass (prior nil Josephine×Gilbert).
+
+Estill still two plates only. Breathitt still 403. Owsley published VS gap 1879-1902; books burned.

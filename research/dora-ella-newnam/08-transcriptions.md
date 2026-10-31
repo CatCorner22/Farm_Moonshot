@@ -3770,4 +3770,84 @@ Pass 2: License still unseen. Breathitt still 403/timeout. Do **not** treat extr
 - Owsley 1911–1920 DC nil matching John Evans decedent → C852
 - Josephine neighboring-county substitutes this pass nil/n/a → C853
 
+## DOC154 — 1920 Kentucky Soundex E-152, Lula L-window (derivative)
+
+- Card 1684: `sources/soundex/ky1920-e152-p1684-evans-lula-14-carter.jpg` SHA-256 `41547dd0c6408d8d551926b33849037acaaf0d2fe455df991f0079268bbeca2d`
+- Card 1685: `…p1685-evans-lula-36-fleming.jpg` `2e532069a23cf02ad5a425fe76112fbae1209bbe41c795c479dfb4050b8db0e6`
+- Extract: `ky1920-e152-evans-lula-pass80.txt` `5078d6720a0fc180e9b2f453603ced9e126be059776df269d9cfbce974ab53b1`
+- Provenance: NARA M1563 reel **47** / IA `soundex1920ky047`, opened 31 Oct 2026. **Image-seen.** Given-name sort. Logan **1650**; Lula **1684–1685**. Visual-read **1651–1695**.
+
+### Diplomatic — cited cards
+
+> E-152 **Evans, Lula** (individually) W **14** Kentucky Carter vol **17** ED **243** sh **9** ln **7**. Enumerated with Parsons, George. Relationship **Sister-in-law**. **DISPROVED** as 1910 Buffalo Lula (Carter ≠ Owsley; SIL of Parsons ≠ daughter of John × Susan). Age 14 matches 1910 Lula 4.
+
+> E-152 **Evans, Lula** Head W **36** Kentucky Fleming vol **23** ED **13** sh **2** ln **59** × Elsa Mg **60** + McCoy Hattie Se **18**. **DISPROVED** (36 vs ~14; Head vs A-2 child; Fleming).
+
+Pass 2: Denser **1651–1695** **nil** Evans, Lula ~14 Owsley as head or A-2. Consecutive **1683** Lucy then **1684** Lula. Do **not** treat given-name nil as proof of death.
+
+### Facts extracted → claim IDs
+- L-window nil Evans Lula ~14 Owsley; 1684 Carter SIL DISPROVED → C857
+- 1685/1686/1687 DISPROVED → C858
+
+## DOC155 — 1920 Kentucky Soundex E-152, Robert R-window (derivative)
+
+- Card 2023: `sources/soundex/ky1920-e152-p2023-evans-robert-e-53-owsley.jpg` SHA-256 `ba3acc99fe25df6b21ce85de0e723786ddc48be69d85d0622b1d380a3f91eb0f`
+- Card 2036: `…p2036-evans-robert-t-54-elliott-a2.jpg` `81a70752f9e05752c29c14cb8fab6d51e4a7bc8580ef4fc2f3d182803a5f16e7`
+- Card 2037: `…p2037-evans-robey-s-15-union.jpg` `d077a684d816bc4ad7ba4b0c736add63202b1887a76ef551623f92fc689a23fa`
+- Extract: `ky1920-e152-evans-robert-pass80.txt` `f2460accea041b2dd9238b588ca816ea1df312b1bde67ff710d84ed8d019258f`
+- Provenance: NARA M1563 reel **47** / IA `soundex1920ky047`, opened 31 Oct 2026. **Image-seen.** Given-name sort. Robert starts **2001**; Robey **2037**. Visual-read **2001–2040**.
+
+### Diplomatic — cited cards
+
+> E-152 **Evans, Robert E.** Head W **53** Kentucky Owsley vol **76** ED **89** sh **9** ln **30** × Margie W **51** + Nannie D **22** + Walter S **17** + James B S **13** + Lucinda S **11**. **DISPROVED** as 1910 Buffalo Robert (~11). Different Owsley Evans household (ED **89** Sturgeon ≠ ED **92** Buffalo). **Not merged**. Original of ED **89** sh **9** not fetched this pass.
+
+> E-152 **Evans, Robert T.** (individually) W **54** Kentucky Elliott Bruin vol **22** ED **79** sh **1** ln **25**. Street Bruin Road. Enumerated with Evans, William C. Relationship **Father**. **DISPROVED** as 1910 Buffalo Robert. Proves A-2 cards exist in this Robert window.
+
+> E-152 **Evans, Robey S.** (individually) W **15** Kentucky Union vol **87** ED **124** sh **2** ln **44**. Enumerated with Wright, Samuel W. Relationship **Nephew**. **DISPROVED** (Robey; 15 vs ~11; Union).
+
+Pass 2: Denser **2001–2040** **nil** Evans, Robert ~11 Owsley as head or A-2. Robert given-name block closed. Do **not** treat given-name nil as proof of death.
+
+### Facts extracted → claim IDs
+- R-window nil Evans Robert ~11 Owsley; A-2 cards exist → C859
+- 2023 Robert E 53 Owsley DISPROVED as Buffalo child; not merged → C860
+
+## DOC156 — 1920 Kentucky Soundex E-152, leftover odd John leaves (derivative)
+
+- Card 1479: `sources/soundex/ky1920-e152-p1479-evans-john-h-46-lee-beattyville.jpg` SHA-256 `bf33dd02fe2043136b1a9d434f82027589c872aae19ef12af2e0c0182cabecf5`
+- Card 1509: `…p1509-evans-john-w-28-lee-dora.jpg` `b40f78e6d3f03b812ba20f383a500c76075a5cc8e083815f8117e9352c08b9ab`
+- Extract: `ky1920-e152-evans-john-odds-pass80.txt` `f6543c543bc17764f37d943bda01fa1dc4e9b5434c9ed875b493d615aea9e64a`
+- Provenance: NARA M1563 reel **47** / IA `soundex1920ky047`, opened 31 Oct 2026. **Image-seen.** Given-name sort. Completes Pass 79 leftover-even **1422–1514**. Visual-read every odd leaf **1421–1513**.
+
+### Diplomatic — cited cards
+
+> E-152 **Evans, John H.** Head W **46** Virginia Lee Beattyville East Main vol **59** ED **111** sh **6** ln **59** × Julia W **44** Kentucky + Katherine M D **14** + Elizabeth M D **11**. **DISPROVED** as 1910 Buffalo John × Susan (Julia ≠ Susan; Elizabeth D ≠ Robert S; 46 vs ~55; VA). Keep as Lee Evans FAN. **Not merged**.
+
+> E-152 **Evans, John W.** Head W **28** Kentucky Lee vol **59** ED **120** sh **5** ln **44** × Dora W **24** + Anna B D **3 8/12**. **DISPROVED as P001** (Dora 24 vs ~48; husband John W vs T.A. Stone; child Anna 3). **DISPROVED** as 1910 Buffalo couple.
+
+Pass 2: Leftover odds **1421–1513** **nil** Evans, John ~55 × Susan vol **76** ED **92** as head. Combined with leftover-evens and filmed ED **92** original: John window through Joseph **1515** image-closed for that identity. Leaf **1457** is a Soundex of Kansas advertising reverse, not an Evans card. Leaf **1511** already filed Pass 79 (Edmonds). Do **not** treat Soundex head-nil as proof of death.
+
+### Facts extracted → claim IDs
+- Leftover-odd Johns nil Evans John ~55 × Susan ED 92; John window through Joseph closed → C861
+- 1479 Lee Beattyville John H × Julia DISPROVED → C862
+- 1509 Lee John W × Dora 24 DISPROVED as P001 → C863
+
+## DOC157 — Josephine×Gilbert ~1902 substitutes (Pass 80)
+
+- Extract: `josephine-gilbert-pass80.txt` SHA-256 `83910cf4395375a60483d7e678edc30238011b463fd3fba716c7e787173dd76e`
+- Coverage: `pass80-coverage.txt` `16cd54e30e650add406d6bc025f539477335131d66cd0cc28025b3295a4117b1`
+- Provenance: KYGenWeb/USGenNet HTML opened 31 Oct 2026. **HTML-seen**, not civil-register images.
+
+### Diplomatic — cited extracts
+
+> Wolfe `Marriage.htm` HTTP **200**. Years present: 1861, 1874–78, 1907, 1909. **1900–1902 n/a** (gap 1878→1907). Josephine B. Tutt × G.W. Ingraim **15 Mar 1876** (other; bride Tutt; 1876 ≠ ~1902). Wolfe `1903.htm` **404**.
+
+> Perry KYGenWeb marriage landing HTTP **200**: coverage 1821–1846 and 1852–1859 only. **n/a** ~1902.
+
+> Estill marriages landing HTTP **200**: still only the two already-filed 1901/1902 minister-return plates. Breathitt `/marriages/` **403**. Clark/Knox marriages **404**.
+
+Pass 2: License still unseen. Do **not** treat extract-nil as a marriage.
+
+### Facts extracted → claim IDs
+- Josephine neighboring-county substitutes this pass nil/n/a → C864
+
 

@@ -1,0 +1,56 @@
+Pass 80 — 1920 Kentucky Soundex E-152 R-window (Robert ~11.5 Owsley A-2 or head)
+NARA M1563 reel 47 / IA soundex1920ky047. Images seen 31 Oct 2026 America/New_York.
+Given-name sort. Rodney 2000; Robert starts 2001; Robey 2037; Roe 2038; Roland 2039-2040.
+Visual-read 2001-2040. Tesseract is a flagger only; every cited card visual-read.
+
+2001 Robert B 39 AL Kenton boarder DISPROVED
+2002 Robert W 17 Breckinridge boarder Embry DISPROVED
+2003 Robert W 2 6/12 Campbell grandson Bell, Margarett DISPROVED
+2004-2005 Robert Head 47 Laurel × Eliza + Robert S 14 DISPROVED as ~11 Owsley
+2006 Robert B 29 Jefferson DISPROVED
+2007 Evins Robert W 17 Lewis BIL Howell, Charles DISPROVED
+2008-2009 Robert Head 35 Bell × Nannie DISPROVED
+2010 Robert 31 Knox × Daisy DISPROVED
+2011 Eubanks Robert 32 Daviess DISPROVED
+2012 Robert B 42 Bourbon × Minnie DISPROVED
+2013 Robert 33 Bell TN-born × Louise DISPROVED
+2014-2015 Robt. O. 39 Logan × Anna + Robt S 15 DISPROVED
+2016 Robert A 76 Franklin × Rosie A 63 DISPROVED
+2017 Evans, Robert A W 38 TN Jefferson Louisville 8th Seventh 625 living alone DISPROVED
+2018 Evans, Robert B W 55 Monroe Tompkinsville × Flora 43 + Clarence 12, Morris 9, Maggie Ni 13 DISPROVED
+2019 Evans, Robert C W 18 Elliott Bruin × Ethel 18 DISPROVED
+2020 Evans, Robt C W 48 Carlisle Bardwell + Conley Margarett Si 46 DISPROVED
+2021 Evans, Robert D W 69 Daviess × Laura P 61 + Georgia Sr 24 DISPROVED
+2022 Evans, Robert E W 34 Butler × Nora B 33 + Rosa Y 12, Ellie O 9, Rais 7 DISPROVED
+2023 Evans, Robert E W 53 KY Owsley vol 76 ED 89 sh 9 ln 30 × Margie W 51 + Nannie D 22,
+     Walter S 17, James B S 13, Lucinda S 11. Continuation 2024 Richardson, William H NR 65 MO.
+     DISPROVED as 1910 Buffalo Robert (~11): age 53 vs ~11; Head × Margie vs son of John × Susan;
+     children Nannie/Walter/James/Lucinda vs Lula/Robert. ED 89 Sturgeon ≠ ED 92 Buffalo.
+     Keep as a different Owsley Evans household. Not merged. Original of ED 89 sh 9 not fetched
+     this pass (Pass 65 already screened that ED for Newman heads).
+2025 Evans, Robert E W 46 Hardin Camp Knox Private Families + Garment S 12, Agnes D 10,
+     Russell S 8, Johnie B S 4 6/12, Mary M 68 DISPROVED
+2026 Evans, Robert G W 63 Boyle × Lilian 44 DISPROVED
+2027-2028 Evans, Robert H W 47 Graves Farmington × Minnie 47 + Clara M 21, Hurley 19 TN,
+     Lennie 13, Robert S 12, Jack 4 6/12. Son Robert 12 age-near; Graves ≠ Owsley; father
+     Robert H ≠ John; mother Minnie ≠ Susan. DISPROVED
+2029 Evans, Robert L W 56 Ohio Fordsville Queensbor Road × Mary L 35 + Verdon 17, Clena 13,
+     Jamy 11, Mininie 8 DISPROVED
+2030 Evans, Robert L W 53 Hickman Clinton Cresap 300 × Louise 38 + Robert L S 9 Texas DISPROVED
+2031 Evans, Robert L W 61 Jefferson Louisville Marshall 1015 living alone DISPROVED
+2032 Evans, Robert M W 60 Hickman Clinton North Washington 512 × Adah 47 TN + Walter S 10 DISPROVED
+2033-2034 Evans, Robert R W 37 Jefferson Louisville Grand Ave 2508 × Elizabeth H 33 +
+     Robert L S 9, Charles R 8, Elizabeth C 6, William H 4 6/12, Paul Thomas 1 6/12,
+     Joseph B 8/12, Hess Caroline T ML 62 DISPROVED
+2035 Evans, Robert T W 68 Fleming vol 23 ED 91 sh 15 × Matilda J 66 + Eva J D 36 + Eulene GD 9.
+     Vol 23 is Fleming, not Owsley ED 91. DISPROVED
+2036 Evans, Robert T A-2 W 54 Elliott Bruin, enumerated with Evans, William C, Father.
+     Proves A-2 cards exist in this Robert window. Age 54 vs ~11. DISPROVED
+2037 Evans, Robey S. A-2 W 15 Union, enumerated with Wright, Samuel W, Nephew.
+     Young A-2 near-miss (15 vs ~11; Robey; Union). DISPROVED
+2038 Evans, Roe W 38 Fleming × Nannie 30 + Cassie D 11, Ruth D 5, Sillie M 77 DISPROVED
+2039-2040 Evans, Roland W 65 Franklin × Julia 47 + Rose 26, John 22, Jess 16, James 14, Dorothy 8 DISPROVED
+
+NIL Evans, Robert ~11 Owsley as head or A-2 in this R-window.
+Robert given-name block is closed (2001 through Robey/Roe/Roland).
+Do not treat given-name nil as death.

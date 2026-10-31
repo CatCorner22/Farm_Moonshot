@@ -1,0 +1,26 @@
+Pass 80 — 1920 Kentucky Soundex E-152 L-window (Lula ~14 Owsley A-2)
+NARA M1563 reel 47 / IA soundex1920ky047. Images seen 31 Oct 2026 America/New_York.
+Given-name sort. Logan 1650; Lola 1651; Lon/Lonnie 1652-1658; Lottie/Lou/Louis 1659-1665;
+Louisa 1666; Lovey/Lowery/Loyd 1667-1669; Lucile/Lucinda/Lucy 1670-1683; Lula 1684-1685;
+Eubank Lula A 1686; Lulie/Lussie 1687-1688; Luther 1689. Visual-read 1651-1695.
+Tesseract is a flagger only; every cited card visual-read.
+
+1683 Lucy continuation then 1684 Lula — consecutive. No Evans, Lula ~14 Owsley card.
+
+1684 Evans, Lula A-2 W 14 KY, Carter vol 17 ED 243 sh 9 ln 7.
+     Enumerated with Parsons, George. Relationship Sister-in-law.
+     Age matches 1910 Buffalo Lula 4. County Carter ≠ Owsley. SIL of Parsons ≠
+     daughter of John × Susan. DISPROVED as 1910 Buffalo Lula. Near-hit plate.
+
+1685 Evans, Lula Head W 36 Fleming vol 23 ED 13 sh 2 ln 59 × Elsa Mg 60 + McCoy Hattie Se 18.
+     DISPROVED (36 vs ~14; Head vs A-2 child; Fleming).
+
+1686 Eubank, Lula A. 29 Barren. DISPROVED (Eubank; 29).
+
+1687 Evans, Lulie 25 Jefferson dau of Miller, Isaiah. DISPROVED.
+
+Other L DISPROVED: Lucile 12 Franklin Feeble Minded Institute inmate; Louisa 75 Bell MIL of Fuson.
+
+NIL Evans, Lula ~14 Owsley as head or A-2 in this L-window.
+Do not treat given-name nil as death. Residual: still in father's house (John leftover
+odds now closed this pass) / ED 92 hh 1-13 filming gap / death / moved / out of KY.
