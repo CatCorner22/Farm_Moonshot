@@ -945,5 +945,47 @@ James F precedes; John follows. No Jesse head. → **C384 / C385**.
 
 Only Jessie/Jesse Conrad head in the OK C-563 body walked. Not 1910 Jesse. → **C386 / C387**.
 
+## DOC056 — 1900 IN Soundex S-415, John + brother Daniel B 44 MO
+- Image: `sources/soundex/in1900-s415-p1227-john-daniel-b-mo.jpg` SHA-256 `eadd29dfc3b1b17de4bef4ff879d63c3aa229ca394c777a109a8d7e48275f647`
+- Reel: IA `soundex1900in208` n**1227**
+
+### Diplomatic
+> **S-415 Sullivan, John** — Head · vol **9** ED **4** sh **18** ln **79** · W May **1855** **45** Indiana · Clark · Charlestown Twp  
+> **Daniel** — B, Jan **1856**, **44**, Missouri  
+> **Alonzo** — B, Mar **1865**, **32**, Indiana  
+> **Charles** — B, May **1873**, **27**, Indiana  
+> **Thomas** — B, Feb **1877**, **23**, Indiana
+
+Daniel is a brother, not a wife. No Letha. Combined with 114 John family-section crops: no MO wife + Letha ~2. → **C388 / C389**.
+
+## DOC057 — 1900 AL Soundex C-563, John L after Henry D
+- Image: `sources/soundex/al1900-c563-p679-john-l-after-henry.jpg` SHA-256 `ade270622d7626ffc3955dd2be698816b8ee23810599373d46d393aa74db05e2`
+- Reel: IA `soundex1900al036` n**679**
+
+### Diplomatic
+> **C-563 Coonrod, John L** — Head · vol **27** ED **103** sh **11** ln **23** · W Feb **1871** **29** Florida · Henry · Pct **20** Cowarts
+
+n676 is Henry D continuation (Lilla 3 / Jay 1 / Baby 3/12 AL). Two C-564 cards intervene. No Jesse card. → **C390**.
+
+## DOC058 — 1900 MS Soundex C-563, J.M. 24 then Joe 45
+- Images: `sources/soundex/ms1900-c563-p1988-jm-24-coahoma.jpg` SHA-256 `8d567cd8b3ada49594d435222754026beae8822224b278e59f3c598490056cdc`; `…-p1990-joe-45-warren.jpg` `3b0fe10ccc99ffa8aca6c6797c5fceadfcdf237cb5ac3da4ad7c6e096e2ca482`
+- Reel: IA `soundex1900ms029` n**1988** / n**1990**
+
+### Diplomatic
+> **C-563 Conrad, J.M.** — Individual · vol **12** ED **25** sh **5** ln **6** · W Nov **1876** **24** Mississippi · Coahoma · Clarksdale · Sharkey Ave  
+> **C-563 Conrad, Joe** — Head · vol **52** ED **131** sh **14** ln **88** · W Apr **1855** **45** Arkansas · Warren · Fostoria
+
+n1989 is Israel/Iserel, 20, Tate. Henry precedes J.M. No Jesse head. → **C391 / C392**.
+
+## DOC059 — 1900 NE Soundex C-563, James 27 KS then Johanna
+- Images: `sources/soundex/ne1900-c563-p2702-james-27-omaha.jpg` SHA-256 `d06677b9a45a70641cad723e34c53b16e9c643f60d1666b0b4c626cd5eac9b24`; `…-p2703-johanna-after-james.jpg` `ddd46b08d77d2bcb449cbec73b4fb6758eb3c1f023155e0a80f0d8d5113f1ebf`
+- Reel: IA `soundex1900ne018` n**2702–2703**
+
+### Diplomatic
+> **C-563 Conrad, James** — Individual · vol **16** ED **107** sh **47** ln **34** · W Aug **1872** **27** Kansas · Douglas · South Omaha  
+> **C-563 Conradson, Johanna** — Head · vol **25** ED **115** sh **12** ln **64** · W Nov **1854** **45** Norway N.R. · Knox · Raymond Twp
+
+Consecutive leaves. No Jesse card. → **C394 / C395**.
+
 ## DOC009 — 1910 TN Soundex N-550 McCoy window (nil)
 Handwritten family/individual cards n2461–n2469. Sequence after Mary C (n2460): Mary D 49 Jefferson (son Layton 11); Mary M 70 Hamilton; Mek. G 50 Cheatham (Florence 19, John 17, General 16, Frances 13, William 10, Doria 6, Luther 1½); Melvin 3½ Giles (gs of Deacon George W); Melvin 54 Giles (SIL of same); Minerva 80 Robertson (gds Lona Neely, Nellie Erwin); Minnie 21 Roane (with Sam P. Sparks); Mitchell 27 Hardin (Ollie P 25, Gladys 4, Burl W 3, Royal E 1 9/12). **No McCoy.** SHA-256 n2463 `23610f8aa4c159b1b554ed1786d11f57d2f56f8a2e8994f7289ae7bd02dfca53`; n2469 `340489566090880388fa6b81ca5751c5944dcaf56a7b44f70fe560788f308586`.

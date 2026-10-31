@@ -459,3 +459,23 @@ research/dora-ella-newnam/sources/soundex/ok1900-c563-p2525-jessie-c-58-custer.j
   format: JPEG Soundex card, IA soundex1900ok009 n2525
 research/dora-ella-newnam/sources/soundex/b007-pass72-1900-oh-ia-ks-ok-tx-c563-2026-10-30.txt
   format: Pass 72 OH/IA/KS/OK/TX C-563 + IN S-415 L-window search log
+research/dora-ella-newnam/sources/soundex/in1900-s415-p1227-john-daniel-b-mo.jpg
+  sha256: eadd29dfc3b1b17de4bef4ff879d63c3aa229ca394c777a109a8d7e48275f647
+  format: JPEG Soundex card, IA soundex1900in208 n1227
+research/dora-ella-newnam/sources/soundex/al1900-c563-p679-john-l-after-henry.jpg
+  sha256: ade270622d7626ffc3955dd2be698816b8ee23810599373d46d393aa74db05e2
+  format: JPEG Soundex card, IA soundex1900al036 n679
+research/dora-ella-newnam/sources/soundex/ms1900-c563-p1988-jm-24-coahoma.jpg
+  sha256: 8d567cd8b3ada49594d435222754026beae8822224b278e59f3c598490056cdc
+  format: JPEG Soundex card, IA soundex1900ms029 n1988
+research/dora-ella-newnam/sources/soundex/ms1900-c563-p1990-joe-45-warren.jpg
+  sha256: 3b0fe10ccc99ffa8aca6c6797c5fceadfcdf237cb5ac3da4ad7c6e096e2ca482
+  format: JPEG Soundex card, IA soundex1900ms029 n1990
+research/dora-ella-newnam/sources/soundex/ne1900-c563-p2702-james-27-omaha.jpg
+  sha256: d06677b9a45a70641cad723e34c53b16e9c643f60d1666b0b4c626cd5eac9b24
+  format: JPEG Soundex card, IA soundex1900ne018 n2702
+research/dora-ella-newnam/sources/soundex/ne1900-c563-p2703-johanna-after-james.jpg
+  sha256: ddd46b08d77d2bcb449cbec73b4fb6758eb3c1f023155e0a80f0d8d5113f1ebf
+  format: JPEG Soundex card, IA soundex1900ne018 n2703
+research/dora-ella-newnam/sources/soundex/b007-pass73-1900-al-ms-la-ne-c563-in-john-2026-10-30.txt
+  format: Pass 73 AL/MS/LA/NE C-563 + IN S-415 John family-section search log

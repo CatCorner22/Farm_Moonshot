@@ -96,6 +96,12 @@ Diplomatic transcriptions: [`08-transcriptions.md`](08-transcriptions.md). Citat
 | 120 | 1900 (index) | Rejected same-name | [Iowa C-563 — Jessie F Conrad, 42, Ringgold County](sources/soundex/ia1900-c563-p1887-jessie-f-42-ringgold.jpg) |
 | 121 | 1900 (index) | Rejected same-name | [Kansas C-563 — Jay J Conrad, 27, Brown County](sources/soundex/ks1900-c563-p1872-jay-j-27-brown.jpg) |
 | 122 | 1900 (index) | Rejected same-name | [Oklahoma C-563 — Jessie C Conrad, 58, Custer County](sources/soundex/ok1900-c563-p2525-jessie-c-58-custer.jpg) |
+| 124 | 1900 (index) | Rejected same-name | [Indiana S-415 — John Sullivan; brother Daniel B, 44, Missouri](sources/soundex/in1900-s415-p1227-john-daniel-b-mo.jpg) |
+| 125 | 1900 (index) | Negative search | [Alabama C-563 — John L after Henry D; Jesse slot empty](sources/soundex/al1900-c563-p679-john-l-after-henry.jpg) |
+| 126 | 1900 (index) | Rejected same-name | [Mississippi C-563 — J.M. Conrad, 24, Coahoma County](sources/soundex/ms1900-c563-p1988-jm-24-coahoma.jpg) |
+| 127 | 1900 (index) | Context | [Mississippi C-563 — Joe, immediately after J.M.](sources/soundex/ms1900-c563-p1990-joe-45-warren.jpg) |
+| 128 | 1900 (index) | Rejected same-name | [Nebraska C-563 — James Conrad, 27, South Omaha](sources/soundex/ne1900-c563-p2702-james-27-omaha.jpg) |
+| 129 | 1900 (index) | Negative search | [Nebraska C-563 — Johanna Conradson, immediately after James](sources/soundex/ne1900-c563-p2703-johanna-after-james.jpg) |
 | 123 | 1900 (index) | Context | [Texas C-563 — J-tab divider](sources/soundex/tx1900-c563-p1-j-divider.jpg) |
 | 17 | Apr 1910 | Negative search | [Kentucky N-550 — Millie / Missouri; no McCoy](sources/soundex/ky1910-n550-p329-millie-missouri.jpg) |
 | 18 | Apr 1910 | Negative search | [Kentucky N-550 — Monroe; still no McCoy](sources/soundex/ky1910-n550-p330-monroe-no-mccoy.jpg) |
@@ -924,6 +930,66 @@ White head, March 1873, age 27, born Indiana, Horton. Wife Mable, July 1876, age
 White head, February 1842, age 58, born Missouri, Grant Township. Wife Melora, February 1850, age 50, Missouri; Missouri-born children into 1891. The only Jessie/Jesse Conrad head in the Oklahoma 1900 C-563 body. Age and an intact older household fail vs 1910 Jesse Conrad.
 
 ![Oklahoma C-563 — Jessie C Conrad, 58, Custer County](sources/soundex/ok1900-c563-p2525-jessie-c-58-custer.jpg)
+
+### 124 · 1900 (index) · Indiana S-415 — John Sullivan; brother Daniel B, 44, Missouri
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/in1900-s415-p1227-john-daniel-b-mo.jpg`](sources/soundex/in1900-s415-p1227-john-daniel-b-mo.jpg)  
+**Source:** S316 · C388 · C389
+
+White head, May 1855, age 45, Indiana-born, Charlestown Township, Clark County, volume 9, ED 4, sheet 18, line 79. Brothers Daniel B, January 1856, age 44, Missouri; Alonzo, 32, Indiana; Charles, 27, Indiana; Thomas, 23, Indiana. Daniel is a brother, not a wife. Combined with 114 John family-section crops, no Missouri-born wife and Letha about 2 sit on an Indiana 1900 S-415 John card.
+
+![Indiana S-415 — John Sullivan; brother Daniel B, 44, Missouri](sources/soundex/in1900-s415-p1227-john-daniel-b-mo.jpg)
+
+### 125 · 1900 (index) · Alabama C-563 — John L after Henry D; Jesse slot empty
+
+**Role:** Negative search  
+**File:** [`sources/soundex/al1900-c563-p679-john-l-after-henry.jpg`](sources/soundex/al1900-c563-p679-john-l-after-henry.jpg)  
+**Source:** S317 · C390
+
+Coonrod, John L, February 1871, age 29, born Florida, Henry County. Henry D's continuation (Lilla, Jay, Baby, all Alabama) precedes; two C-564 Conerly cards intervene. No Jesse or Jessie card sits in the Alabama 1900 C-563 J-window.
+
+![Alabama C-563 — John L after Henry D; Jesse slot empty](sources/soundex/al1900-c563-p679-john-l-after-henry.jpg)
+
+### 126 · 1900 (index) · Mississippi C-563 — J.M. Conrad, 24, Coahoma County
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/ms1900-c563-p1988-jm-24-coahoma.jpg`](sources/soundex/ms1900-c563-p1988-jm-24-coahoma.jpg)  
+**Source:** S318 · C391 · C392
+
+White individual, November 1876, age 24, born Mississippi, Clarksdale. Initials, age, and Mississippi nativity fail vs 1910 Jesse Conrad. Israel, 20, is the next leaf; Joe, 45, Arkansas, follows (Plate 127).
+
+![Mississippi C-563 — J.M. Conrad, 24, Coahoma County](sources/soundex/ms1900-c563-p1988-jm-24-coahoma.jpg)
+
+### 127 · 1900 (index) · Mississippi C-563 — Joe, immediately after J.M.
+
+**Role:** Context  
+**File:** [`sources/soundex/ms1900-c563-p1990-joe-45-warren.jpg`](sources/soundex/ms1900-c563-p1990-joe-45-warren.jpg)  
+**Source:** S318 · C391
+
+Conrad, Joe, April 1855, age 45, born Arkansas, Warren County, Fostoria. Combined with Plate 126 this closes the Mississippi 1900 C-563 Jesse slot: Henry, then J.M., Israel, then Joe. No Jesse head.
+
+![Mississippi C-563 — Joe, immediately after J.M.](sources/soundex/ms1900-c563-p1990-joe-45-warren.jpg)
+
+### 128 · 1900 (index) · Nebraska C-563 — James Conrad, 27, South Omaha
+
+**Role:** Rejected same-name  
+**File:** [`sources/soundex/ne1900-c563-p2702-james-27-omaha.jpg`](sources/soundex/ne1900-c563-p2702-james-27-omaha.jpg)  
+**Source:** S320 · C394 · C395
+
+White individual, August 1872, age 27, born Kansas, Douglas County, South Omaha. Age matches 1910 Jesse, but the given name is James, the nativity is Kansas, and the card is individual — no Letha. Johanna Conradson (Plate 129) is the next leaf.
+
+![Nebraska C-563 — James Conrad, 27, South Omaha](sources/soundex/ne1900-c563-p2702-james-27-omaha.jpg)
+
+### 129 · 1900 (index) · Nebraska C-563 — Johanna Conradson, immediately after James
+
+**Role:** Negative search  
+**File:** [`sources/soundex/ne1900-c563-p2703-johanna-after-james.jpg`](sources/soundex/ne1900-c563-p2703-johanna-after-james.jpg)  
+**Source:** S320 · C394
+
+Conradson, Johanna, November 1854, age 45, born Norway, Knox County, Raymond Township. Combined with Plate 128 this closes the Nebraska 1900 C-563 Jesse slot. John, 64, Germany, follows.
+
+![Nebraska C-563 — Johanna Conradson, immediately after James](sources/soundex/ne1900-c563-p2703-johanna-after-james.jpg)
 
 ### 123 · 1900 (index) · Texas C-563 — J-tab divider
 
